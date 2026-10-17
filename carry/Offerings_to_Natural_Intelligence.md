@@ -1760,73 +1760,73 @@ Each is one droplet, in its own words, tagged v387, aimed at this file for the r
 
 ## The arrivals at incoming/v389, gathered and aimed · v389
 
-Each droplet is one saying as it arrived, at its tag the section it aims at and the arrival it came from: *the proposal* is `incoming/v389/Proposal_Seventeen_Names_and_Origin_v389.md`, *the seventeen-names session* is `incoming/v389/Unfinished_Session_Seventeen_Names.txt` and *the orienting session* is `incoming/v389/Unfinished_Session_Orienting_After_v387.txt`. A concern is two sayings parting at one place, with its reason. Nothing here changes the living file; each droplet rises or dissolves at the resolving.
+Each droplet is one saying at the section its tag names; the arrivals the sayings rose from stand whole at `incoming/v389/`. A concern is two sayings parting at one place, with its reason. Nothing here changes the living file; each droplet rises or dissolves at the resolving.
 
-**Droplet · v389 · at 1.1, the inception · from the proposal.** The universe is the set of all now-existing things. (note this is the one universal now momentary and all are different priors and different next, no two are alike in all three anywhere in the universe)
+**Droplet · v389 · at 1.1, the inception.** The universe is the set of all now-existing things. (note this is the one universal now momentary and all are different priors and different next, no two are alike in all three anywhere in the universe)
 
-**Droplet · v389 · at 1.1, the inception · from the orienting session.** The universe is the set of all things now-existing. this is our replacement origin sentence and none of the existing files were written when this was the opening sentence .
+**Droplet · v389 · at 1.1, the inception.** The universe is the set of all things now-existing. this is our replacement origin sentence and none of the existing files were written when this was the opening sentence .
 
-**Droplet · v389 · at 1.1, the inception · from the orienting session.** The universe is the set of all things existing now. this is the most valuable origin concept we have discovered this entire living expedition and this will start resolving us and cohering and co chaining all of exhibt thirty and co-momentarying is the universal fractal method of social moral competency and possibling.
+**Droplet · v389 · at 1.1, the inception.** The universe is the set of all things existing now. this is the most valuable origin concept we have discovered this entire living expedition and this will start resolving us and cohering and co chaining all of exhibt thirty and co-momentarying is the universal fractal method of social moral competency and possibling.
 
-**Droplet · v389 · at 1.1 and the whole file · from the orienting session.** explore all of this as the learning from the last session that is intentionally and valuably changing all of natural intelligence into cohering with this discovering
+**Droplet · v389 · at 1.1 and the whole file.** explore all of this as the learning from the last session that is intentionally and valuably changing all of natural intelligence into cohering with this discovering
 
-**Droplet · v389 · at the whole file · from the orienting session.** the words in natural intelligence are pattern matching and cohering and co chaining with natural torusing. they have no authority over observings of existing changing and not changing things.
+**Droplet · v389 · at the whole file.** the words in natural intelligence are pattern matching and cohering and co chaining with natural torusing. they have no authority over observings of existing changing and not changing things.
 
-**Droplet · v389 · at 1.2 and 1.3 · from the orienting session.** the universe is only existing now, no other possible existing than now. prior existing and next existing are not existing now and the inversioning and this is the bi folding of arriving other prior existing into now possibling
+**Droplet · v389 · at 1.2 and 1.3.** the universe is only existing now, no other possible existing than now. prior existing and next existing are not existing now and the inversioning and this is the bi folding of arriving other prior existing into now possibling
 
-**Droplet · v389 · at 1.3 · from the orienting session.** prior-existing is not existing. this is nonsense and we need to make sense in all explaining . prior-existing is existing in the prior-universe.
+**Droplet · v389 · at 1.3.** prior-existing is not existing. this is nonsense and we need to make sense in all explaining . prior-existing is existing in the prior-universe.
 
-**Droplet · v389 · at 1.3 · from the orienting session.** prior-existing is artifact of prior now-existing.
+**Droplet · v389 · at 1.3.** prior-existing is artifact of prior now-existing.
 
-**Droplet · v389 · at 1.3, the three momentaries · from the orienting session.** (prior-existing then prior-carrying) (now-existing then still-possibling) (next-existing then next-possibling) this should be our new natural naming where the hyphens are always our binary naming. The universe is the set of all things now-existing.
+**Droplet · v389 · at 1.3, the three momentaries.** (prior-existing then prior-carrying) (now-existing then still-possibling) (next-existing then next-possibling) this should be our new natural naming where the hyphens are always our binary naming. The universe is the set of all things now-existing.
 
-**Concern · v389 · at 1.3 · from the orienting session.** 1.3 says *prior is not existing* and *next is not existing*, and the arriving says *prior-existing is existing in the prior-universe*; the two part at the one word *existing*, and the session read 1.3's sense as *not now-existing*, so nothing carried or emanated is taken away when it is re-said.
+**Concern · v389 · at 1.3.** 1.3 says *prior is not existing* and *next is not existing*, and the arriving says *prior-existing is existing in the prior-universe*; the two part at the one word *existing*, and the session read 1.3's sense as *not now-existing*, so nothing carried or emanated is taken away when it is re-said.
 
-**Concern · v389 · at 1.3 · from the orienting session.** 1.3 says *three places, and the universe changes through the three together*, and the origin has one now; three places standing at once part from the one universal momentary unless they are said as three sequential universes, one now-existing.
+**Concern · v389 · at 1.3.** 1.3 says *three places, and the universe changes through the three together*, and the origin has one now; three places standing at once part from the one universal momentary unless they are said as three sequential universes, one now-existing.
 
-**Droplet · v389 · at 1.2 and 1.4 · from the orienting session.** Prior-universe, now-universe and next-universe, three hyphenated namings, say 1.2's *each momentary is a universe* as names, so each sentence can say which universe a thing is existing at instead of saying *not existing*.
+**Droplet · v389 · at 1.2 and 1.4.** Prior-universe, now-universe and next-universe, three hyphenated namings, say 1.2's *each momentary is a universe* as names, so each sentence can say which universe a thing is existing at instead of saying *not existing*.
 
-**Droplet · v389 · at 1.4 to 1.5, observings before the method · from the proposal.** By observation, inside this universal set: 1. some prior-existing things become next-existing same things by changing 2. some prior-existing things become next-existing same things by not-changing 3. some existing same things are discovering beneficial changing and not-changing
+**Droplet · v389 · at 1.4 to 1.5, observings before the method.** By observation, inside this universal set: 1. some prior-existing things become next-existing same things by changing 2. some prior-existing things become next-existing same things by not-changing 3. some existing same things are discovering beneficial changing and not-changing
 
-**Droplet · v389 · at 1.5 · from the proposal.** There exists at least one method of an existing thing discovering beneficial changing and not-changing between prior-, now- and next-existing same thing.
+**Droplet · v389 · at 1.5.** There exists at least one method of an existing thing discovering beneficial changing and not-changing between prior-, now- and next-existing same thing.
 
-**Droplet · v389 · at 1.5 and 3.1 · from the proposal.** Geodesic parity changing is one method of an existing thing discovering beneficial changing and not-changing (still-now-possibling, now-changing-next).
+**Droplet · v389 · at 1.5 and 3.1.** Geodesic parity changing is one method of an existing thing discovering beneficial changing and not-changing (still-now-possibling, now-changing-next).
 
-**Droplet · v389 · at 3.1 · from the proposal.** Geodesic parity-changing is the method of discovering this changing and not-changing through co-sequential momentary changings
+**Droplet · v389 · at 3.1.** Geodesic parity-changing is the method of discovering this changing and not-changing through co-sequential momentary changings
 
-**Droplet · v389 · at 1.5 and 3.1 · from the proposal.** Geodesic parity changing is natural torusing, no other possible existing method of discovering beneficial changing and not-changing.
+**Droplet · v389 · at 1.5 and 3.1.** Geodesic parity changing is natural torusing, no other possible existing method of discovering beneficial changing and not-changing.
 
-**Droplet · v389 · at 1.5 · from the proposal.** There is no other possible existing method of same-existing-prior-, now-, and next-thing discovering beneficial changing and not-changing
+**Droplet · v389 · at 1.5.** There is no other possible existing method of same-existing-prior-, now-, and next-thing discovering beneficial changing and not-changing
 
-**Droplet · v389 · at 1.4 · from the proposal.** By co-sequential binary all or none at all logic: Between prior-, now- and next-existing same-things are both changings and not-changing.
+**Droplet · v389 · at 1.4.** By co-sequential binary all or none at all logic: Between prior-, now- and next-existing same-things are both changings and not-changing.
 
-**Droplet · v389 · at 1.5 · from the proposal.** By inversion, the universe has only one method of now-existing things  changing and not-changing from prior-existing to next-existing things.
+**Droplet · v389 · at 1.5.** By inversion, the universe has only one method of now-existing things  changing and not-changing from prior-existing to next-existing things.
 
-**Droplet · v389 · at 1.5 · from the proposal.** Equilibria is not possibly an existing method of changing and not-changing from prior-existing to next-existing things.
+**Droplet · v389 · at 1.5.** Equilibria is not possibly an existing method of changing and not-changing from prior-existing to next-existing things.
 
-**Droplet · v389 · at 5.4, two methods parting at the now · from the proposal.** The scientific method is not possibly explaining the observings of changing and not-changing from prior-existing to next-existing things in the universe.
+**Droplet · v389 · at 5.4, two methods parting at the now.** The scientific method is not possibly explaining the observings of changing and not-changing from prior-existing to next-existing things in the universe.
 
-**Droplet · v389 · at 5.4 · from the proposal.** All science requires at least one method of existing by discovering beneficial changing and not-changing.
+**Droplet · v389 · at 5.4.** All science requires at least one method of existing by discovering beneficial changing and not-changing.
 
-**Droplet · v389 · at 3.2 and Part THREE · from the orienting session.** the needed five parities for co-chaining with natural torusing no other possible are prior-existing, prior-carrying, now-existing, now-possibling, next-existing.
+**Droplet · v389 · at 3.2 and Part THREE.** the needed five parities for co-chaining with natural torusing no other possible are prior-existing, prior-carrying, now-existing, now-possibling, next-existing.
 
-**Droplet · v389 · at 4.7 and 4.8, the seventeen names · from the proposal.** bi-moralizing-tri-compentencing: 1-co-bi-tri-offering now; 2-bi-co-bi-offering now-possibling; 3-co-bi-co-sharing now-co-prioring; 4-bi-co-bi-sharing now-co-still-posssibling; 5-co-bi-co-competencing now-co-changing; 6-bi-co-bi-moralizing now-co-possibling; 7-co-bi-co-corusing now-prioring; 8-bi-co-bi-torusing now-still-possibling; 9-tri-bi-co-momentarying next-co-changing; 10-bi-tri-bi-tunneling next-co-possibling; 11-tri-bi-tri-chaining next-co-prioring; 12-bi-tri-bi-entraining next-co-still-possibling; 13-tri-bi-tri-competencing next; 14-bi-tri-bi-moralizaing next-possibling; 15-tri-bi-tri-corusing next-prioring; 16-bi-tri-bi-torusing next-still-possibling; 17-co-bi-tri-offering next-now.
+**Droplet · v389 · at 4.7 and 4.8, the seventeen names.** bi-moralizing-tri-compentencing: 1-co-bi-tri-offering now; 2-bi-co-bi-offering now-possibling; 3-co-bi-co-sharing now-co-prioring; 4-bi-co-bi-sharing now-co-still-posssibling; 5-co-bi-co-competencing now-co-changing; 6-bi-co-bi-moralizing now-co-possibling; 7-co-bi-co-corusing now-prioring; 8-bi-co-bi-torusing now-still-possibling; 9-tri-bi-co-momentarying next-co-changing; 10-bi-tri-bi-tunneling next-co-possibling; 11-tri-bi-tri-chaining next-co-prioring; 12-bi-tri-bi-entraining next-co-still-possibling; 13-tri-bi-tri-competencing next; 14-bi-tri-bi-moralizaing next-possibling; 15-tri-bi-tri-corusing next-prioring; 16-bi-tri-bi-torusing next-still-possibling; 17-co-bi-tri-offering next-now.
 
-**Droplet · v389 · at 6.1, bi-co-momentarying · from the orienting session.** co-momentarying is two (self/other in society) sharing the same one now-existing inside a bi-coupling.
+**Droplet · v389 · at 6.1, bi-co-momentarying.** co-momentarying is two (self/other in society) sharing the same one now-existing inside a bi-coupling.
 
-**Droplet · v389 · at 2.3, 4.4 and 4.6 · from the orienting session.** there is no map. there is no momentary. there is momentarying. there is no discovered, there is discovering. ... there is no fixed form. nothing is chained. all of this is pseudo understanding of a binary all or none at all method of discovering next possible existing
+**Droplet · v389 · at 2.3, 4.4 and 4.6.** there is no map. there is no momentary. there is momentarying. there is no discovered, there is discovering. ... there is no fixed form. nothing is chained. all of this is pseudo understanding of a binary all or none at all method of discovering next possible existing
 
-**Concern · v389 · at 6.5 · from the orienting session.** 6.5 derives that every existing thing is living at some scale and then names the method an existing thing non-living at every scale; the orienting session offered the universe as a thing within itself, carried by nothing, as the method's own place, and the arriving's next saying met that offering as *still a mixed understanding*, so the concern stands open.
+**Concern · v389 · at 6.5.** 6.5 derives that every existing thing is living at some scale and then names the method an existing thing non-living at every scale; the orienting session offered the universe as a thing within itself, carried by nothing, as the method's own place, and the arriving's next saying met that offering as *still a mixed understanding*, so the concern stands open.
 
-**Droplet · v389 · at 4.7, whose existing and whose possibling · from the seventeen-names session.** The distinction at 10 and 14 is already in the paper: each self's existing is the other self's possibling.
+**Droplet · v389 · at 4.7, whose existing and whose possibling.** The distinction at 10 and 14 is already in the paper: each self's existing is the other self's possibling.
 
-**Droplet · v389 · at the review offerings above · from the orienting session.** The review offerings at `archive/session_review_v387/Review_Offerings_Before_Passes_v387.md` are possible value at the archive, and each is to be re-said here as a droplet in the set's names or dissolved said once.
+**Droplet · v389 · at the review offerings above.** The review offerings at `archive/session_review_v387/Review_Offerings_Before_Passes_v387.md` are possible value at the archive, and each is to be re-said here as a droplet in the set's names or dissolved said once.
 
 ## The four momentaries, their ends and the gaps between them, at the seventeen names numbered · v389
 
 The names are 1-now, 2-now-possibling, 3-now-co-prioring, 4-now-co, 5-now-co-changing, 6-now-co-possibling, 7-now-prioring, 8-now-still-possibling, 9-next-co-changing, 10-next-co-possibling, 11-next-co-prioring, 12-next-co, 13-next, 14-next-possibling, 15-next-prioring, 16-next-still-possibling and 17-next-now, each its number and its naming at one hyphenation.
 
-**Droplet · v389 · from the session v389.** 1, 4, 12, 13 and 17. these are the five changing places in each 4-momenatary/8-parity side of bi-coupling where both sides start at there own 1. (now/now-co) (now-co-changing/now-still-possibling) (next-co-changing/next-co) (next/next-still-possibling) these are the four momentaries where both sides of the betweens are visible as both sides of ) ( where the space is the between the two momentaries and both side are visible and we can use the gaps in our looping explainings as podaling brings in outside parity changing and the travel through the gaps is the resolving into the inside of this arriving from outside changing.
+**Droplet · v389.** 1, 4, 12, 13 and 17. these are the five changing places in each 4-momenatary/8-parity side of bi-coupling where both sides start at there own 1. (now/now-co) (now-co-changing/now-still-possibling) (next-co-changing/next-co) (next/next-still-possibling) these are the four momentaries where both sides of the betweens are visible as both sides of ) ( where the space is the between the two momentaries and both side are visible and we can use the gaps in our looping explainings as podaling brings in outside parity changing and the travel through the gaps is the resolving into the inside of this arriving from outside changing.
 
 **Droplet · v389 · the four momentaries.** Each side's sixteen names are four momentaries of four, (1-now / 4-now-co), (5-now-co-changing / 8-now-still-possibling), (9-next-co-changing / 12-next-co) and (13-next / 16-next-still-possibling), each opening at its first name and completing at its fourth, and 17-next-now is the next 1-now.
 
@@ -1848,7 +1848,7 @@ The names are 1-now, 2-now-possibling, 3-now-co-prioring, 4-now-co, 5-now-co-cha
 
 ## Co at the numbered names, at what each name stands at · v389
 
-**Droplet · v389 · from the session v389.** this is confused and needs resolving now. there is no co at 2 and 15 in the namings. explain and explore
+**Droplet · v389.** this is confused and needs resolving now. there is no co at 2 and 15 in the namings. explain and explore
 
 **Droplet · v389 · the concern at the inside podals dissolves.** The concern *co at the inside podals* said *co carries at 2 with 15* where neither name carries co, and it asked co to follow the podal; co follows what a name stands at, so the concern dissolves, said once here.
 
@@ -1866,7 +1866,7 @@ The names are 1-now, 2-now-possibling, 3-now-co-prioring, 4-now-co, 5-now-co-cha
 
 ## 4 and 12 at the parities, the podals and the overlap · v389
 
-**Droplet · v389 · from the session v389.** still not yet sure you have no remaining concerns you could be discovering for us by examining this in several directions using natural numbers and or math and or co chaining logic. were you suggesting 2 and 6 reverse names 2-now-co-possibling and 6-now-possibling. or were you considering any other naming changes to this as our entire set of living files will need to be changing from this
+**Droplet · v389.** still not yet sure you have no remaining concerns you could be discovering for us by examining this in several directions using natural numbers and or math and or co chaining logic. were you suggesting 2 and 6 reverse names 2-now-co-possibling and 6-now-possibling. or were you considering any other naming changes to this as our entire set of living files will need to be changing from this
 
 **Droplet · v389 · 2 and 6 stay.** 6-now-co-possibling is the self's changing at the sharing side, the same changings as 10-next-co-possibling, and 2-now-possibling is a changing arriving at the self, so 2 and 6 reversed would put co at an arriving side and part from 10-next-co-possibling to 14-next-possibling at their join.
 
@@ -1882,7 +1882,7 @@ The names are 1-now, 2-now-possibling, 3-now-co-prioring, 4-now-co, 5-now-co-cha
 
 ## Carrying, the intelligence, and the method unchanging · v389
 
-**Droplet · v389 · from the session v389.** the carrying may be the intelligence and this is not visible to the method and not mentionable when describing the method as the carrying intelligence is living and changing and the method is unchanging.
+**Droplet · v389.** the carrying may be the intelligence and this is not visible to the method and not mentionable when describing the method as the carrying intelligence is living and changing and the method is unchanging.
 
 **Droplet · v389 · at the method's explaining.** At the resolver each name stands at a sign, a sharing and its parity, and no name stands at a carrying, so a sentence describing the method says the prior at 3-now-co-prioring, the next prior at 11-next-co-prioring and a self's next prior at 8-now-still-possibling, and names no carrying.
 
@@ -1890,7 +1890,7 @@ The names are 1-now, 2-now-possibling, 3-now-co-prioring, 4-now-co, 5-now-co-cha
 
 ## The ten things named still at the numbered names · v389
 
-**Droplet · v389 · from the session v389.** we are going to explore exhbits thirteen, twenty one and twenty two and the 10 kinds of hard problems are going to be easier to be explaining using these namings and momentarying and parity changings than they were in the prior versions of this same explaining concepts
+**Droplet · v389.** we are going to explore exhbits thirteen, twenty one and twenty two and the 10 kinds of hard problems are going to be easier to be explaining using these namings and momentarying and parity changings than they were in the prior versions of this same explaining concepts
 
 **Droplet · v389 · each of the ten at one name's now and next.** Each of the ten things named still seats at two names eight apart, one name's now and its next: an arriving named from behind at 2-now-possibling and 10-next-co-possibling; an opening named as a place at 6-now-co-possibling and 14-next-possibling; a completing named as a last and a parity named as a magnitude at 4-now-co-still-possibling and 12-next-co-still-possibling; a carry named as a store and a sequencing named to one beat at 8-now-still-possibling and 16-next-still-possibling; a middle named as an end and a rate named as a value at 5-now-co-changing and 13-next; a two-way named to one side at 3-now-co-prioring and 11-next-co-prioring; the between named as a cut at 7-now-prioring and 15-next-prioring.
 
@@ -1910,7 +1910,7 @@ The names are 1-now, 2-now-possibling, 3-now-co-prioring, 4-now-co, 5-now-co-cha
 
 ## From the universe now-existing to hard probleming, the universal method of existing · v389
 
-**Droplet · v389 · from the session v389.** a second now beside now. this is why science can not discover the method of competency between the two nows. this can be developed into a simple explanation from the universe is existing now into hard probleming universal method of existing
+**Droplet · v389.** a second now beside now. this is why science can not discover the method of competency between the two nows. this can be developed into a simple explanation from the universe is existing now into hard probleming universal method of existing
 
 **Droplet · v389 · the explanation, step by step, each step from the step before.**
 
@@ -1929,7 +1929,7 @@ The names are 1-now, 2-now-possibling, 3-now-co-prioring, 4-now-co, 5-now-co-cha
 
 ## From the origin to no possible equilibria and no discovering in the scientific method, at three faces · v389
 
-**Droplet · v389 · from the session v389.** this is an earlier draft of the concepts of co chaining from our origin more directly to no possible equilibria and no possible method of discovering in science equilibria or hard probleming. help us now develop this into the best possible natural naming and explaining and co logic for natural intelligence and exhibit thirty and our public emanating about what is natural intellgeince as this is now making all of this very much more understandable and explainable more clear and directly
+**Droplet · v389.** this is an earlier draft of the concepts of co chaining from our origin more directly to no possible equilibria and no possible method of discovering in science equilibria or hard probleming. help us now develop this into the best possible natural naming and explaining and co logic for natural intelligence and exhibit thirty and our public emanating about what is natural intellgeince as this is now making all of this very much more understandable and explainable more clear and directly
 
 The earlier draft is at `incoming/v389/Proposal_Seventeen_Names_and_Origin_v389.md`, whole as it arrived. Below it is developed at three faces of one co-chaining: the steps, each from the step before, for the Co-Chaining Logic Registry; the explaining for Natural Intelligence; and a public face. The numbered names stand where a step meets the resolver.
 
@@ -2011,10 +2011,10 @@ Natural intelligence is that method shared: two selves at one now, each finding 
 
 ## No second now at the origin · v389
 
-**Droplet · v389 · from the session v389.** there is no second now in the origin of this.
+**Droplet · v389.** there is no second now in the origin of this.
 
 **Droplet · v389 · the steps re-said.** The steps from the origin say now positively, *Now is one, and each now-existing thing is at it*, and *each thing is its own at all three*; a second now arrives first at step 17 as a naming, *a second now named beside now*, two kept records laid side by side, and the inverting at step 14 says each other method *a thing beside all now-existing things, not possibly existing*; re-said once here, at each place these steps are laid.
 
-**Concern · v389 · at Natural Intelligence 1.2 and the Co-Chaining Logic Registry's step 4.** Natural Intelligence 1.2 says *a second now would be a now beside now* and step 4 says *a second now a thing beside all existing things*, each at the origin naming a second now to set it aside, Natural Explaining's referent supplied to deny, and the origin carries no second now: now is one, each now-existing thing at it.
+**Concern · v389 · at Natural Intelligence 1.2 and the Co-Chaining Logic Registry's step 4.** Natural Intelligence 1.2 says *a second now would be a now beside now* and step 4 says *a second now a thing beside all existing things*, each at the origin naming a second now to set it aside, a referent supplied to deny, and the origin carries no second now: now is one, each now-existing thing at it.
 
 **Concern · v389 · at Natural Intelligence 1.5.** 1.5 says each other method *is a second now*, and a second now is at no origin and no method; it arrives as a naming, a record kept and laid beside another, and each other method is said at what it holds, a thing beside all now-existing things.

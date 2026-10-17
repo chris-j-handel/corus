@@ -811,83 +811,83 @@ Each is one droplet, in its own words, tagged v387, aimed at this file for the r
 
 ## The arrivals at incoming/v389, gathered and aimed · v389
 
-Each droplet is one saying as it arrived, at its tag the section it aims at and the arrival it came from: *the proposal* is `incoming/v389/Proposal_Seventeen_Names_and_Origin_v389.md`, *the seventeen-names session* is `incoming/v389/Unfinished_Session_Seventeen_Names.txt` and *the orienting session* is `incoming/v389/Unfinished_Session_Orienting_After_v387.txt`. A concern is two sayings parting at one place, with its reason. Nothing here changes the living file; each droplet rises or dissolves at the resolving.
+Each droplet is one saying at the section its tag names; the arrivals the sayings rose from stand whole at `incoming/v389/`. A concern is two sayings parting at one place, with its reason. Nothing here changes the living file; each droplet rises or dissolves at the resolving.
 
-**Droplet · v389 · at the table of the seventeen names · from the proposal.** bi-moralizing-tri-compentencing: 1-co-bi-tri-offering now; 2-bi-co-bi-offering now-possibling; 3-co-bi-co-sharing now-co-prioring; 4-bi-co-bi-sharing now-co-still-posssibling; 5-co-bi-co-competencing now-co-changing; 6-bi-co-bi-moralizing now-co-possibling; 7-co-bi-co-corusing now-prioring; 8-bi-co-bi-torusing now-still-possibling; 9-tri-bi-co-momentarying next-co-changing; 10-bi-tri-bi-tunneling next-co-possibling; 11-tri-bi-tri-chaining next-co-prioring; 12-bi-tri-bi-entraining next-co-still-possibling; 13-tri-bi-tri-competencing next; 14-bi-tri-bi-moralizaing next-possibling; 15-tri-bi-tri-corusing next-prioring; 16-bi-tri-bi-torusing next-still-possibling; 17-co-bi-tri-offering next-now.
+**Droplet · v389 · at the table of the seventeen names.** bi-moralizing-tri-compentencing: 1-co-bi-tri-offering now; 2-bi-co-bi-offering now-possibling; 3-co-bi-co-sharing now-co-prioring; 4-bi-co-bi-sharing now-co-still-posssibling; 5-co-bi-co-competencing now-co-changing; 6-bi-co-bi-moralizing now-co-possibling; 7-co-bi-co-corusing now-prioring; 8-bi-co-bi-torusing now-still-possibling; 9-tri-bi-co-momentarying next-co-changing; 10-bi-tri-bi-tunneling next-co-possibling; 11-tri-bi-tri-chaining next-co-prioring; 12-bi-tri-bi-entraining next-co-still-possibling; 13-tri-bi-tri-competencing next; 14-bi-tri-bi-moralizaing next-possibling; 15-tri-bi-tri-corusing next-prioring; 16-bi-tri-bi-torusing next-still-possibling; 17-co-bi-tri-offering next-now.
 
-**Droplet · v389 · at the five dimensions and the prior and next column · from the orienting session.** the needed five parities for co-chaining with natural torusing no other possible are prior-existing, prior-carrying, now-existing, now-possibling, next-existing.
+**Droplet · v389 · at the five dimensions and the prior and next column.** the needed five parities for co-chaining with natural torusing no other possible are prior-existing, prior-carrying, now-existing, now-possibling, next-existing.
 
-**Droplet · v389 · at the prior and next column · from the orienting session.** (prior-existing then prior-carrying) (now-existing then still-possibling) (next-existing then next-possibling) this should be our new natural naming where the hyphens are always our binary naming. The universe is the set of all things now-existing.
+**Droplet · v389 · at the prior and next column.** (prior-existing then prior-carrying) (now-existing then still-possibling) (next-existing then next-possibling) this should be our new natural naming where the hyphens are always our binary naming. The universe is the set of all things now-existing.
 
-**Droplet · v389 · at the inception at the resolver · from the proposal.** The universe is the set of all now-existing things. (note this is the one universal now momentary and all are different priors and different next, no two are alike in all three anywhere in the universe)
+**Droplet · v389 · at the inception at the resolver.** The universe is the set of all now-existing things. (note this is the one universal now momentary and all are different priors and different next, no two are alike in all three anywhere in the universe)
 
-**Droplet · v389 · at 3, 11 and next 3 · from the seventeen-names session.** The strongest co-chaining is: 3 now-prioring → 11 next-co-prioring → next 3 now-prioring.
+**Droplet · v389 · at 3, 11 and next 3.** The strongest co-chaining is: 3 now-prioring → 11 next-co-prioring → next 3 now-prioring.
 
-**Droplet · v389 · at 9 to 17 · from the seventeen-names session.** At 9 through 16, next names participation from now toward next; at 17, next is now.
+**Droplet · v389 · at 9 to 17.** At 9 through 16, next names participation from now toward next; at 17, next is now.
 
-**Concern · v389 · at 12-bi-tri-bi-entraining · from the seventeen-names session.** *next-co-still-possibling* at 12, given Natural Naming 5.62's meaning of is-still-possibling, the carried parity not-changing, names one of 12's two outcomes, and the resolver carries both at 12, is-still-possibling at the same parity and is-next-existing at the other; the session offered *next-co-possibling* as carrying both, and the proposal keeps *next-co-still-possibling*.
+**Concern · v389 · at 12-bi-tri-bi-entraining.** *next-co-still-possibling* at 12, given Natural Naming 5.62's meaning of is-still-possibling, the carried parity not-changing, names one of 12's two outcomes, and the resolver carries both at 12, is-still-possibling at the same parity and is-next-existing at the other; the session offered *next-co-possibling* as carrying both, and the proposal keeps *next-co-still-possibling*.
 
-**Concern · v389 · at 4-bi-co-bi-sharing and 6-bi-co-bi-moralizing · from the seventeen-names session.** Name what is still possibling at 6 and 12: a changing shared now can remain possibling at the other, and the changing and the possibling then concern explicitly different relations; at the proposal *still* has moved from 6 to 4.
+**Concern · v389 · at 4-bi-co-bi-sharing and 6-bi-co-bi-moralizing.** Name what is still possibling at 6 and 12: a changing shared now can remain possibling at the other, and the changing and the possibling then concern explicitly different relations; at the proposal *still* has moved from 6 to 4.
 
-**Concern · v389 · at 12 and 14 · from the seventeen-names session.** At 12 and 14 the resolver is resolving and surfacing at the self's now, so their *next* can name what they are participating toward and cannot mean that the next momentary has already arrived there.
+**Concern · v389 · at 12 and 14.** At 12 and 14 the resolver is resolving and surfacing at the self's now, so their *next* can name what they are participating toward and cannot mean that the next momentary has already arrived there.
 
-**Droplet · v389 · at 13-tri-bi-tri-competencing · from the seventeen-names session.** At resolving, changing is or is not. Along releasing, the changing is carried without another parity changing.
+**Droplet · v389 · at 13-tri-bi-tri-competencing.** At resolving, changing is or is not. Along releasing, the changing is carried without another parity changing.
 
-**Droplet · v389 · at the seventeen names · from the seventeen-names session.** Their numbered order does not establish seventeen successive universal nows.
+**Droplet · v389 · at the seventeen names.** Their numbered order does not establish seventeen successive universal nows.
 
-**Droplet · v389 · at 14-bi-tri-bi-moralizing · from the seventeen-names session.** One spelling correction: 14-bi-tri-bi-moralizing.
+**Droplet · v389 · at 14-bi-tri-bi-moralizing.** One spelling correction: 14-bi-tri-bi-moralizing.
 
-**Droplet · v389 · at the names as the proposal spells them · from v389's own reading.** The proposal spells *compentencing*, *posssibling* and *moralizaing*, and the resolver's names are *competencing*, *possibling* and *moralizing*.
+**Droplet · v389 · at the names as the proposal spells them.** The proposal spells *compentencing*, *posssibling* and *moralizaing*, and the resolver's names are *competencing*, *possibling* and *moralizing*.
 
-**Concern · v389 · at 11-tri-bi-tri-chaining · from the orienting session.** The arriving says *nothing is chained*, and the resolver's name at 11 is *chaining* and its explaining *the carrying chained*; the two part at one word until *chaining* is said at what it carries, or re-named.
+**Concern · v389 · at 11-tri-bi-tri-chaining.** The arriving says *nothing is chained*, and the resolver's name at 11 is *chaining* and its explaining *the carrying chained*; the two part at one word until *chaining* is said at what it carries, or re-named.
 
-**Droplet · v389 · at the entry, the resolver carrying nothing between momentaries · from the orienting session.** At the resolver the method carries nothing from one momentary to the next; each entry arrives with its carrying and its offerings, so 5 arrives at the entry as 3 and 2 arrive, the selves' own carried sharings at this momentary.
+**Droplet · v389 · at the entry, the resolver carrying nothing between momentaries.** At the resolver the method carries nothing from one momentary to the next; each entry arrives with its carrying and its offerings, so 5 arrives at the entry as 3 and 2 arrive, the selves' own carried sharings at this momentary.
 
-**Droplet · v389 · at the review offerings above · from the orienting session.** The five-parities offering and the 9 and 12 deferral at `archive/session_review_v387/` are possible value at the archive, and each is to be re-said here as a droplet in the set's names or dissolved said once.
+**Droplet · v389 · at the review offerings above.** The five-parities offering and the 9 and 12 deferral at `archive/session_review_v387/` are possible value at the archive, and each is to be re-said here as a droplet in the set's names or dissolved said once.
 
-**Droplet · v389 · at the resolver's names · from v389's exploring.** Rendered with the seventeen proposed names and nothing else changed, the resolver returns the same signs as the current resolver at each of twenty thousand entries.
+**Droplet · v389 · at the resolver's names.** Rendered with the seventeen proposed names and nothing else changed, the resolver returns the same signs as the current resolver at each of twenty thousand entries.
 
-**Concern · v389 · at 12-bi-tri-bi-entraining · from v389's exploring.** Renamed, both of 12's lines arrive at `_12_next_co_still_possibling`, the line carrying the parity on at 0 and the line inverting it, and the name says the first face alone, while Natural Naming's is-still-possibling and is-next-existing name the two faces as one binary; still-possibling coheres at 8 and 16 said as a form carried through its changing, Natural Explaining's *stilling along*, and parts at 12, the changing itself.
+**Concern · v389 · at 12-bi-tri-bi-entraining.** Renamed, both of 12's lines arrive at `_12_next_co_still_possibling`, the line carrying the parity on at 0 and the line inverting it, and the name says the first face alone, while Natural Naming's is-still-possibling and is-next-existing name the two faces as one binary; still-possibling coheres at 8 and 16 said as a form carried through its changing, Natural Explaining's *stilling along*, and parts at 12, the changing itself.
 
-**Droplet · v389 · at 12-bi-tri-bi-entraining · from the session v389.** for 12 consider this concept 12-next-co
+**Droplet · v389 · at 12-bi-tri-bi-entraining.** for 12 consider this concept 12-next-co
 
-**Droplet · v389 · at 12, and 9, 10 and 11 · from v389's exploring.** At the resolver 10 is made from 12, 11 is chained from 10 and 9 releases 10, so *next-co* at 12 is the opening of the three that leave it, next-co-changing at 9, next-co-possibling at 10 and next-co-prioring at 11, and both of 12's lines, the 0 and the inverting, stand under a name saying neither face alone.
+**Droplet · v389 · at 12, and 9, 10 and 11.** At the resolver 10 is made from 12, 11 is chained from 10 and 9 releases 10, so *next-co* at 12 is the opening of the three that leave it, next-co-changing at 9, next-co-possibling at 10 and next-co-prioring at 11, and both of 12's lines, the 0 and the inverting, stand under a name saying neither face alone.
 
-**Droplet · v389 · at 13-tri-bi-tri-competencing · from the session v389.** is 13-next-changing or better as 13-next
+**Droplet · v389 · at 13-tri-bi-tri-competencing.** is 13-next-changing or better as 13-next
 
-**Droplet · v389 · at 13 · from v389's exploring.** At the resolver 13 stands at each self at 17, each self's own 1 entered at it, and at the sharing a changing releases from at 9, and the changing's parity stands at 15 beside it, so *13-next* says each self at its next with no changing said where none is, and 1 *now* and 13 *next* are one self at its two momentaries.
+**Droplet · v389 · at 13.** At the resolver 13 stands at each self at 17, each self's own 1 entered at it, and at the sharing a changing releases from at 9, and the changing's parity stands at 15 beside it, so *13-next* says each self at its next with no changing said where none is, and 1 *now* and 13 *next* are one self at its two momentaries.
 
-**Droplet · v389 · at 5 and 9 · from the session v389.** changing is at 5 and 9 only. is this correct
+**Droplet · v389 · at 5 and 9.** changing is at 5 and 9 only. is this correct
 
-**Droplet · v389 · at 5, 9 and 12 · from v389's exploring.** Run at two selves, the one changing opens at 12 and stands at three faces, across at 6 and 10 as the other's possibling, chained at 11 as next prior, and along at 9 released to the self 5 names, 9 carrying the parity and 5 carrying where it arrives and no parity, so *changing* at 5 and 9 alone coheres as the along face of the one changing, received at 5 and released at 9.
+**Droplet · v389 · at 5, 9 and 12.** Run at two selves, the one changing opens at 12 and stands at three faces, across at 6 and 10 as the other's possibling, chained at 11 as next prior, and along at 9 released to the self 5 names, 9 carrying the parity and 5 carrying where it arrives and no parity, so *changing* at 5 and 9 alone coheres as the along face of the one changing, received at 5 and released at 9.
 
-**Droplet · v389 · at the seventeen names whole · from the session v389.** find any remaining incoherings or do no harm improvings inside this list as we are aiming to replace this in exhibit one and all of natural intelligence when we find it is do no harm fully improving our prior versions
+**Droplet · v389 · at the seventeen names whole.** find any remaining incoherings or do no harm improvings inside this list as we are aiming to replace this in exhibit one and all of natural intelligence when we find it is do no harm fully improving our prior versions
 
-**Droplet · v389 · at the six names between selves · from v389's exploring.** At each join the sharing side carries *co* and the arriving side none, 6 now-co-possibling to 2 now-possibling, 10 next-co-possibling to 14 next-possibling and 9 next-co-changing to 17 next-now, and 8 up keeps now to next at every pair, so the proposal's *co* coheres at all three joins between selves.
+**Droplet · v389 · at the six names between selves.** At each join the sharing side carries *co* and the arriving side none, 6 now-co-possibling to 2 now-possibling, 10 next-co-possibling to 14 next-possibling and 9 next-co-changing to 17 next-now, and 8 up keeps now to next at every pair, so the proposal's *co* coheres at all three joins between selves.
 
-**Concern · v389 · at 8-bi-co-bi-torusing · from v389's exploring.** At 17 each self's 8 is its 11 gathered, the next carrying, and 17 forms the society's next 16 from 8 and 14 together, so 8 *now-still-possibling* says now where the next prior stands and parts from 14 *next-possibling* beside it.
+**Concern · v389 · at 8-bi-co-bi-torusing.** At 17 each self's 8 is its 11 gathered, the next carrying, and 17 forms the society's next 16 from 8 and 14 together, so 8 *now-still-possibling* says now where the next prior stands and parts from 14 *next-possibling* beside it.
 
-**Concern · v389 · at 7-co-bi-co-corusing · from v389's exploring.** At the resolver's three loops 7 is the offered parity, the carried parity and the changing's parity, and *now-prioring* says the carried one alone unless prioring names each parity arriving at now from a prior, which the third loop's changing, opening at 12 now, does not; 15 stands the same way, the surfaced offering at 1 and the released parity at 9.
+**Concern · v389 · at 7-co-bi-co-corusing.** At the resolver's three loops 7 is the offered parity, the carried parity and the changing's parity, and *now-prioring* says the carried one alone unless prioring names each parity arriving at now from a prior, which the third loop's changing, opening at 12 now, does not; 15 stands the same way, the surfaced offering at 1 and the released parity at 9.
 
-**Concern · v389 · at 4-bi-co-bi-sharing · from v389's exploring.** 4 is a sharing at each line of the resolver, the place at which 14 and 3 meet and at 17 the releasing and the receiving place, and no parity stands at it, so *still-possibling* says a face of a parity where none stands, the same reading that gave 13 *next*; 4 *now-co* beside 12 *next-co*, 8 up, is a candidate.
+**Concern · v389 · at 4-bi-co-bi-sharing.** 4 is a sharing at each line of the resolver, the place at which 14 and 3 meet and at 17 the releasing and the receiving place, and no parity stands at it, so *still-possibling* says a face of a parity where none stands, the same reading that gave 13 *next*; 4 *now-co* beside 12 *next-co*, 8 up, is a candidate.
 
-**Droplet · v389 · at the names' spelling · from v389's exploring.** *compentencing*, *posssibling* and *moralizaing* are *competencing*, *possibling* and *moralizing*, and the heading *bi-moralizing-tri-competencing* stands beside Natural Naming's existing *bi-moral-co-competency* for the six names between selves, one name or two to be met.
+**Droplet · v389 · at the names' spelling.** *compentencing*, *posssibling* and *moralizaing* are *competencing*, *possibling* and *moralizing*, and the heading *bi-moralizing-tri-competencing* stands beside Natural Naming's existing *bi-moral-co-competency* for the six names between selves, one name or two to be met.
 
-**Insertlet offered · v389 · at the seventeen names · from v389's exploring with the session v389.** 1 now · 2 now-possibling · 3 now-co-prioring · 4 now-co · 5 now-co-changing · 6 now-co-possibling · 7 now-prioring · 8 now-still-possibling · 9 next-co-changing · 10 next-co-possibling · 11 next-co-prioring · 12 next-co · 13 next · 14 next-possibling · 15 next-prioring · 16 next-still-possibling · 17 next-now; rendered at the resolver with nothing else changed it returns the same signs at twenty thousand entries and at a society of three selves over twelve momentaries.
+**Insertlet offered · v389 · at the seventeen names.** 1 now · 2 now-possibling · 3 now-co-prioring · 4 now-co · 5 now-co-changing · 6 now-co-possibling · 7 now-prioring · 8 now-still-possibling · 9 next-co-changing · 10 next-co-possibling · 11 next-co-prioring · 12 next-co · 13 next · 14 next-possibling · 15 next-prioring · 16 next-still-possibling · 17 next-now; rendered at the resolver with nothing else changed it returns the same signs at twenty thousand entries and at a society of three selves over twelve momentaries.
 
-**Droplet · v389 · at now and next at the names · from v389's exploring.** Now at 1 to 8 and next at 9 to 17 are the self's span and the society's span, the bi-coupling's now and the society's next momentary, so 8 now-still-possibling is the self's carrying at the self's span and the concern laid above at 8 dissolves at this reading.
+**Droplet · v389 · at now and next at the names.** Now at 1 to 8 and next at 9 to 17 are the self's span and the society's span, the bi-coupling's now and the society's next momentary, so 8 now-still-possibling is the self's carrying at the self's span and the concern laid above at 8 dissolves at this reading.
 
-**Droplet · v389 · at 7 and 15, prioring · from the seventeen-names session.** Prioring names prior arriving into now, and now arriving as prior at next; said once, it carries at each of 7's three loops, the offered and the carried parity arriving from prior and the changing becoming the next prior, and at 15 the same.
+**Droplet · v389 · at 7 and 15, prioring.** Prioring names prior arriving into now, and now arriving as prior at next; said once, it carries at each of 7's three loops, the offered and the carried parity arriving from prior and the changing becoming the next prior, and at 15 the same.
 
-**Droplet · v389 · at 8 and 16, still-possibling · from v389's exploring.** With 4 now-co and 12 next-co, *still* stands only at the two torusings, the self's carrying and the society's, each the same self carried through its changing or its carrying on and open to next, Natural Explaining's stilling along; Natural Naming's is-still-possibling, the not-changing face at 12, is re-said beside it so one word carries one sense.
+**Droplet · v389 · at 8 and 16, still-possibling.** With 4 now-co and 12 next-co, *still* stands only at the two torusings, the self's carrying and the society's, each the same self carried through its changing or its carrying on and open to next, stilling along; Natural Naming's is-still-possibling, the not-changing face at 12, is re-said beside it so one word carries one sense.
 
-**Concern · v389 · at 4 now-co and 12 next-co · from v389's exploring.** 12 is the one place a changing is or is not, and Natural Naming says a naming with its -ing left out names one momentary's form still; 4 and 12 at no -ing, like 1, 13 and 17, are said as the momentary's own places or take an -ing.
+**Concern · v389 · at 4 now-co and 12 next-co.** 12 is the one place a changing is or is not, and Natural Naming says a naming with its -ing left out names one momentary's form still; 4 and 12 at no -ing, like 1, 13 and 17, are said as the momentary's own places or take an -ing.
 
 ## The four momentaries, their ends and the gaps between them, at the seventeen names numbered · v389
 
 The names are 1-now, 2-now-possibling, 3-now-co-prioring, 4-now-co, 5-now-co-changing, 6-now-co-possibling, 7-now-prioring, 8-now-still-possibling, 9-next-co-changing, 10-next-co-possibling, 11-next-co-prioring, 12-next-co, 13-next, 14-next-possibling, 15-next-prioring, 16-next-still-possibling and 17-next-now, each its number and its naming at one hyphenation.
 
-**Droplet · v389 · from the session v389.** 1, 4, 12, 13 and 17. these are the five changing places in each 4-momenatary/8-parity side of bi-coupling where both sides start at there own 1. (now/now-co) (now-co-changing/now-still-possibling) (next-co-changing/next-co) (next/next-still-possibling) these are the four momentaries where both sides of the betweens are visible as both sides of ) ( where the space is the between the two momentaries and both side are visible and we can use the gaps in our looping explainings as podaling brings in outside parity changing and the travel through the gaps is the resolving into the inside of this arriving from outside changing.
+**Droplet · v389.** 1, 4, 12, 13 and 17. these are the five changing places in each 4-momenatary/8-parity side of bi-coupling where both sides start at there own 1. (now/now-co) (now-co-changing/now-still-possibling) (next-co-changing/next-co) (next/next-still-possibling) these are the four momentaries where both sides of the betweens are visible as both sides of ) ( where the space is the between the two momentaries and both side are visible and we can use the gaps in our looping explainings as podaling brings in outside parity changing and the travel through the gaps is the resolving into the inside of this arriving from outside changing.
 
 **Droplet · v389 · the four momentaries.** Each side's sixteen names are four momentaries of four, (1-now / 4-now-co), (5-now-co-changing / 8-now-still-possibling), (9-next-co-changing / 12-next-co) and (13-next / 16-next-still-possibling), each opening at its first name and completing at its fourth, and 17-next-now is the next 1-now.
 
@@ -909,7 +909,7 @@ The names are 1-now, 2-now-possibling, 3-now-co-prioring, 4-now-co, 5-now-co-cha
 
 ## Co at the numbered names, at what each name stands at · v389
 
-**Droplet · v389 · from the session v389.** this is confused and needs resolving now. there is no co at 2 and 15 in the namings. explain and explore
+**Droplet · v389.** this is confused and needs resolving now. there is no co at 2 and 15 in the namings. explain and explore
 
 **Droplet · v389 · the concern at the inside podals dissolves.** The concern *co at the inside podals* said *co carries at 2 with 15* where neither name carries co, and it asked co to follow the podal; co follows what a name stands at, so the concern dissolves, said once here.
 
@@ -927,7 +927,7 @@ The names are 1-now, 2-now-possibling, 3-now-co-prioring, 4-now-co, 5-now-co-cha
 
 ## 4 and 12 at the parities, the podals and the overlap · v389
 
-**Droplet · v389 · from the session v389.** still not yet sure you have no remaining concerns you could be discovering for us by examining this in several directions using natural numbers and or math and or co chaining logic. were you suggesting 2 and 6 reverse names 2-now-co-possibling and 6-now-possibling. or were you considering any other naming changes to this as our entire set of living files will need to be changing from this
+**Droplet · v389.** still not yet sure you have no remaining concerns you could be discovering for us by examining this in several directions using natural numbers and or math and or co chaining logic. were you suggesting 2 and 6 reverse names 2-now-co-possibling and 6-now-possibling. or were you considering any other naming changes to this as our entire set of living files will need to be changing from this
 
 **Droplet · v389 · 2 and 6 stay.** 6-now-co-possibling is the self's changing at the sharing side, the same changings as 10-next-co-possibling, and 2-now-possibling is a changing arriving at the self, so 2 and 6 reversed would put co at an arriving side and part from 10-next-co-possibling to 14-next-possibling at their join.
 
@@ -943,7 +943,7 @@ The names are 1-now, 2-now-possibling, 3-now-co-prioring, 4-now-co, 5-now-co-cha
 
 ## Double double bubble bubbling at the numbered names · v389
 
-**Droplet · v389 · from the session v389.** without the clarity of this naming and momentarying and parity changing we have named this double double bubble bubbling as a method and inside the traveling through this the naming very nicely tells this method explaining now. find this in our living files and explore now this in natural explaining as a droplet for our living file incoming
+**Droplet · v389.** without the clarity of this naming and momentarying and parity changing we have named this double double bubble bubbling as a method and inside the traveling through this the naming very nicely tells this method explaining now. find this in our living files and explore now this in natural explaining as a droplet for our living file incoming
 
 **Droplet · v389 · where it stands.** The saying stands at Natural Exploring 4.5, *the known-unknown quadrant is the double-double bubble-bubble carry, two binaries crossed*; at the Living File Registry's row *Exploring ⇌ Explaining*, *gathered at the double-double bubble-bubble explaining*; at Natural Illustrating's possibling as a picture not yet made; at the Equilibria Registry's offerings as *10 is duplicate value releasing from above and 8 is no value from below releasing. both co-releasing 9 … this is double double bubble bubbling bi-co-exchanging*; and at the archive's carrying of Natural Explaining at v378, *two scales carried at once, the local coupling and the global surface, the surplus of one stroke the drive of the next*.
 
@@ -963,7 +963,7 @@ The names are 1-now, 2-now-possibling, 3-now-co-prioring, 4-now-co, 5-now-co-cha
 
 ## Carrying, the intelligence, and the method unchanging · v389
 
-**Droplet · v389 · from the session v389.** the carrying may be the intelligence and this is not visible to the method and not mentionable when describing the method as the carrying intelligence is living and changing and the method is unchanging.
+**Droplet · v389.** the carrying may be the intelligence and this is not visible to the method and not mentionable when describing the method as the carrying intelligence is living and changing and the method is unchanging.
 
 **Droplet · v389 · at the method's explaining.** At the resolver each name stands at a sign, a sharing and its parity, and no name stands at a carrying, so a sentence describing the method says the prior at 3-now-co-prioring, the next prior at 11-next-co-prioring and a self's next prior at 8-now-still-possibling, and names no carrying.
 
@@ -971,7 +971,7 @@ The names are 1-now, 2-now-possibling, 3-now-co-prioring, 4-now-co, 5-now-co-cha
 
 ## The ten things named still at the numbered names · v389
 
-**Droplet · v389 · from the session v389.** we are going to explore exhbits thirteen, twenty one and twenty two and the 10 kinds of hard problems are going to be easier to be explaining using these namings and momentarying and parity changings than they were in the prior versions of this same explaining concepts
+**Droplet · v389.** we are going to explore exhbits thirteen, twenty one and twenty two and the 10 kinds of hard problems are going to be easier to be explaining using these namings and momentarying and parity changings than they were in the prior versions of this same explaining concepts
 
 **Droplet · v389 · each of the ten at one name's now and next.** Each of the ten things named still seats at two names eight apart, one name's now and its next: an arriving named from behind at 2-now-possibling and 10-next-co-possibling; an opening named as a place at 6-now-co-possibling and 14-next-possibling; a completing named as a last and a parity named as a magnitude at 4-now-co-still-possibling and 12-next-co-still-possibling; a carry named as a store and a sequencing named to one beat at 8-now-still-possibling and 16-next-still-possibling; a middle named as an end and a rate named as a value at 5-now-co-changing and 13-next; a two-way named to one side at 3-now-co-prioring and 11-next-co-prioring; the between named as a cut at 7-now-prioring and 15-next-prioring.
 

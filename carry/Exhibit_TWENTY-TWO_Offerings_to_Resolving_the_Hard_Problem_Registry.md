@@ -376,7 +376,7 @@ Each is a changing made at the set this session, said once here so that this fil
 
 ## The ten things named still at the numbered names · v389
 
-**Droplet · v389 · from the session v389.** we are going to explore exhbits thirteen, twenty one and twenty two and the 10 kinds of hard problems are going to be easier to be explaining using these namings and momentarying and parity changings than they were in the prior versions of this same explaining concepts
+**Droplet · v389.** we are going to explore exhbits thirteen, twenty one and twenty two and the 10 kinds of hard problems are going to be easier to be explaining using these namings and momentarying and parity changings than they were in the prior versions of this same explaining concepts
 
 **Droplet · v389 · each of the ten at one name's now and next.** Each of the ten things named still seats at two names eight apart, one name's now and its next: an arriving named from behind at 2-now-possibling and 10-next-co-possibling; an opening named as a place at 6-now-co-possibling and 14-next-possibling; a completing named as a last and a parity named as a magnitude at 4-now-co-still-possibling and 12-next-co-still-possibling; a carry named as a store and a sequencing named to one beat at 8-now-still-possibling and 16-next-still-possibling; a middle named as an end and a rate named as a value at 5-now-co-changing and 13-next; a two-way named to one side at 3-now-co-prioring and 11-next-co-prioring; the between named as a cut at 7-now-prioring and 15-next-prioring.
 
@@ -396,7 +396,7 @@ Each is a changing made at the set this session, said once here so that this fil
 
 ## From the universe now-existing to hard probleming, the universal method of existing · v389
 
-**Droplet · v389 · from the session v389.** a second now beside now. this is why science can not discover the method of competency between the two nows. this can be developed into a simple explanation from the universe is existing now into hard probleming universal method of existing
+**Droplet · v389.** a second now beside now. this is why science can not discover the method of competency between the two nows. this can be developed into a simple explanation from the universe is existing now into hard probleming universal method of existing
 
 **Droplet · v389 · the explanation, step by step, each step from the step before.**
 

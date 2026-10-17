@@ -1108,12 +1108,12 @@ Each is one droplet, in its own words, tagged v387, aimed at this file for the r
 
 ## The arrivals at incoming/v389, gathered and aimed · v389
 
-Each droplet is one saying as it arrived, at its tag the section it aims at and the arrival it came from: *the proposal* is `incoming/v389/Proposal_Seventeen_Names_and_Origin_v389.md`, *the seventeen-names session* is `incoming/v389/Unfinished_Session_Seventeen_Names.txt` and *the orienting session* is `incoming/v389/Unfinished_Session_Orienting_After_v387.txt`. A concern is two sayings parting at one place, with its reason. Nothing here changes the living file; each droplet rises or dissolves at the resolving.
+Each droplet is one saying at the section its tag names; the arrivals the sayings rose from stand whole at `incoming/v389/`. A concern is two sayings parting at one place, with its reason. Nothing here changes the living file; each droplet rises or dissolves at the resolving.
 
-**Droplet · v389 · at the archive · from the orienting session.** it is not logically our method to have incoming possible value in artifact where we never plan to explore again unless we are trying to restart from a catastrophe ending.
+**Droplet · v389 · at the archive.** it is not logically our method to have incoming possible value in artifact where we never plan to explore again unless we are trying to restart from a catastrophe ending.
 
-**Droplet · v389 · at the passes · from the orienting session.** our method is steady passes of do no harm improving to the living files by improving the incoming into offering droplets then insertlets then new versions of next possible living files until they are the next best versions and we keep going and all the living files in the set are floating and neutraling in this same method
+**Droplet · v389 · at the passes.** our method is steady passes of do no harm improving to the living files by improving the incoming into offering droplets then insertlets then new versions of next possible living files until they are the next best versions and we keep going and all the living files in the set are floating and neutraling in this same method
 
-**Droplet · v389 · at reviewing · from the seventeen-names session.** testing is not natural intelligence. do you have concerns for binary all or none at all rigor
+**Droplet · v389 · at reviewing.** testing is not natural intelligence. do you have concerns for binary all or none at all rigor
 
-**Droplet · v389 · at unfinished sessions arriving · from v389's own working.** An unfinished session of uncertain value arrives whole at `incoming/` and its sayings are laid as droplets with their arrival named, so its value is carried and its uncertainty is met at the resolving and not at the drop.
+**Droplet · v389 · at unfinished sessions arriving.** An unfinished session of uncertain value arrives whole at `incoming/` and its sayings are laid as droplets with their arrival named, so its value is carried and its uncertainty is met at the resolving and not at the drop.

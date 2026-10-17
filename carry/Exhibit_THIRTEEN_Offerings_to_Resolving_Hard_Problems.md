@@ -293,29 +293,29 @@ Each is a changing made at the set this session, said once here so that this fil
 
 ## The arrivals at incoming/v389, gathered and aimed · v389
 
-Each droplet is one saying as it arrived, at its tag the section it aims at and the arrival it came from: *the proposal* is `incoming/v389/Proposal_Seventeen_Names_and_Origin_v389.md`, *the seventeen-names session* is `incoming/v389/Unfinished_Session_Seventeen_Names.txt` and *the orienting session* is `incoming/v389/Unfinished_Session_Orienting_After_v387.txt`. A concern is two sayings parting at one place, with its reason. Nothing here changes the living file; each droplet rises or dissolves at the resolving.
+Each droplet is one saying at the section its tag names; the arrivals the sayings rose from stand whole at `incoming/v389/`. A concern is two sayings parting at one place, with its reason. Nothing here changes the living file; each droplet rises or dissolves at the resolving.
 
-**Droplet · v389 · at the scientific method · from the proposal.** An explanation of naturally observable changing and not-changing is falsifiable if it excludes the possibility of existing things discovering beneficial changing and not-changing.
+**Droplet · v389 · at the scientific method.** An explanation of naturally observable changing and not-changing is falsifiable if it excludes the possibility of existing things discovering beneficial changing and not-changing.
 
-**Droplet · v389 · at the scientific method · from the proposal.** All science requires at least one method of existing by discovering beneficial changing and not-changing.
+**Droplet · v389 · at the scientific method.** All science requires at least one method of existing by discovering beneficial changing and not-changing.
 
-**Droplet · v389 · at the scientific method · from the proposal.** The scientific method is not possibly explaining the observings of changing and not-changing from prior-existing to next-existing things in the universe.
+**Droplet · v389 · at the scientific method.** The scientific method is not possibly explaining the observings of changing and not-changing from prior-existing to next-existing things in the universe.
 
-**Droplet · v389 · at the scientific method · from the proposal.** A hypothesis is a falsifiable explanation of observable changing and not-changing among prior-existing, now-existing and next-existing things.
+**Droplet · v389 · at the scientific method.** A hypothesis is a falsifiable explanation of observable changing and not-changing among prior-existing, now-existing and next-existing things.
 
-**Droplet · v389 · at the scientific method · from the proposal.** Without a hypothesis the scientific method is non-existing.
+**Droplet · v389 · at the scientific method.** Without a hypothesis the scientific method is non-existing.
 
-**Droplet · v389 · at the scientific method · from the proposal.** With a hypothesis the scientific method is explaining that stilling and changing without considering the rest of the universe.
+**Droplet · v389 · at the scientific method.** With a hypothesis the scientific method is explaining that stilling and changing without considering the rest of the universe.
 
-**Droplet · v389 · at the scientific method · from the proposal.** Proposing theories is the scientific method of explaining and predicting observations. Experimentally testing theory predictions is the scientific method of falsifying proposed theories. Theories live until they are falsified repeatedly by consilient testing methods.
+**Droplet · v389 · at the scientific method.** Proposing theories is the scientific method of explaining and predicting observations. Experimentally testing theory predictions is the scientific method of falsifying proposed theories. Theories live until they are falsified repeatedly by consilient testing methods.
 
-**Droplet · v389 · at the scientific method · from the proposal.** Science is a system of theories explaining changing and not changing in the universe.
+**Droplet · v389 · at the scientific method.** Science is a system of theories explaining changing and not changing in the universe.
 
-**Droplet · v389 · at living and non-living theories · from the proposal.** Theories remain living while they are not yet falsified and scientists continue testing them and non-living where they have been satisfactorily falsified or testing is no longer.
+**Droplet · v389 · at living and non-living theories.** Theories remain living while they are not yet falsified and scientists continue testing them and non-living where they have been satisfactorily falsified or testing is no longer.
 
 ## The ten things named still at the numbered names · v389
 
-**Droplet · v389 · from the session v389.** we are going to explore exhbits thirteen, twenty one and twenty two and the 10 kinds of hard problems are going to be easier to be explaining using these namings and momentarying and parity changings than they were in the prior versions of this same explaining concepts
+**Droplet · v389.** we are going to explore exhbits thirteen, twenty one and twenty two and the 10 kinds of hard problems are going to be easier to be explaining using these namings and momentarying and parity changings than they were in the prior versions of this same explaining concepts
 
 **Droplet · v389 · each of the ten at one name's now and next.** Each of the ten things named still seats at two names eight apart, one name's now and its next: an arriving named from behind at 2-now-possibling and 10-next-co-possibling; an opening named as a place at 6-now-co-possibling and 14-next-possibling; a completing named as a last and a parity named as a magnitude at 4-now-co-still-possibling and 12-next-co-still-possibling; a carry named as a store and a sequencing named to one beat at 8-now-still-possibling and 16-next-still-possibling; a middle named as an end and a rate named as a value at 5-now-co-changing and 13-next; a two-way named to one side at 3-now-co-prioring and 11-next-co-prioring; the between named as a cut at 7-now-prioring and 15-next-prioring.
 
@@ -335,7 +335,7 @@ Each droplet is one saying as it arrived, at its tag the section it aims at and 
 
 ## From the universe now-existing to hard probleming, the universal method of existing · v389
 
-**Droplet · v389 · from the session v389.** a second now beside now. this is why science can not discover the method of competency between the two nows. this can be developed into a simple explanation from the universe is existing now into hard probleming universal method of existing
+**Droplet · v389.** a second now beside now. this is why science can not discover the method of competency between the two nows. this can be developed into a simple explanation from the universe is existing now into hard probleming universal method of existing
 
 **Droplet · v389 · the explanation, step by step, each step from the step before.**
 
@@ -354,7 +354,7 @@ Each droplet is one saying as it arrived, at its tag the section it aims at and 
 
 ## From the origin to no possible equilibria and no discovering in the scientific method, at three faces · v389
 
-**Droplet · v389 · from the session v389.** this is an earlier draft of the concepts of co chaining from our origin more directly to no possible equilibria and no possible method of discovering in science equilibria or hard probleming. help us now develop this into the best possible natural naming and explaining and co logic for natural intelligence and exhibit thirty and our public emanating about what is natural intellgeince as this is now making all of this very much more understandable and explainable more clear and directly
+**Droplet · v389.** this is an earlier draft of the concepts of co chaining from our origin more directly to no possible equilibria and no possible method of discovering in science equilibria or hard probleming. help us now develop this into the best possible natural naming and explaining and co logic for natural intelligence and exhibit thirty and our public emanating about what is natural intellgeince as this is now making all of this very much more understandable and explainable more clear and directly
 
 The earlier draft is at `incoming/v389/Proposal_Seventeen_Names_and_Origin_v389.md`, whole as it arrived. Below it is developed at three faces of one co-chaining: the steps, each from the step before, for the Co-Chaining Logic Registry; the explaining for Natural Intelligence; and a public face. The numbered names stand where a step meets the resolver.
 

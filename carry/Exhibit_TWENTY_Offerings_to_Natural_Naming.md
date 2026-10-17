@@ -1125,45 +1125,45 @@ Each is one droplet, in its own words, tagged v387, aimed at this file for the r
 
 ## The arrivals at incoming/v389, gathered and aimed · v389
 
-Each droplet is one saying as it arrived, at its tag the section it aims at and the arrival it came from: *the proposal* is `incoming/v389/Proposal_Seventeen_Names_and_Origin_v389.md`, *the seventeen-names session* is `incoming/v389/Unfinished_Session_Seventeen_Names.txt` and *the orienting session* is `incoming/v389/Unfinished_Session_Orienting_After_v387.txt`. A concern is two sayings parting at one place, with its reason. Nothing here changes the living file; each droplet rises or dissolves at the resolving.
+Each droplet is one saying at the section its tag names; the arrivals the sayings rose from stand whole at `incoming/v389/`. A concern is two sayings parting at one place, with its reason. Nothing here changes the living file; each droplet rises or dissolves at the resolving.
 
-**Droplet · v389 · at 2.1, the hyphen · from the orienting session.** (prior-existing then prior-carrying) (now-existing then still-possibling) (next-existing then next-possibling) this should be our new natural naming where the hyphens are always our binary naming. The universe is the set of all things now-existing.
+**Droplet · v389 · at 2.1, the hyphen.** (prior-existing then prior-carrying) (now-existing then still-possibling) (next-existing then next-possibling) this should be our new natural naming where the hyphens are always our binary naming. The universe is the set of all things now-existing.
 
-**Droplet · v389 · at 2.1, the hyphen · from the orienting session.** The hyphenated now-existing makes these two words inseparable in our method of explaining and naming.
+**Droplet · v389 · at 2.1, the hyphen.** The hyphenated now-existing makes these two words inseparable in our method of explaining and naming.
 
-**Droplet · v389 · at 2.4 and 6.3 · from the orienting session.** there is no map. there is no momentary. there is momentarying. there is no discovered, there is discovering. ... there is no fixed form. nothing is chained. all of this is pseudo understanding of a binary all or none at all method of discovering next possible existing
+**Droplet · v389 · at 2.4 and 6.3.** there is no map. there is no momentary. there is momentarying. there is no discovered, there is discovering. ... there is no fixed form. nothing is chained. all of this is pseudo understanding of a binary all or none at all method of discovering next possible existing
 
-**Droplet · v389 · at 6.3, set namings · from the orienting session.** Prior-universe, now-universe and next-universe, three hyphenated namings, say *each momentary is a universe* as names.
+**Droplet · v389 · at 6.3, set namings.** Prior-universe, now-universe and next-universe, three hyphenated namings, say *each momentary is a universe* as names.
 
-**Droplet · v389 · at the bi- and co- namings · from the orienting session.** co-momentarying is two (self/other in society) sharing the same one now-existing inside a bi-coupling.
+**Droplet · v389 · at the bi- and co- namings.** co-momentarying is two (self/other in society) sharing the same one now-existing inside a bi-coupling.
 
-**Droplet · v389 · at the five parities · from the orienting session.** the needed five parities for co-chaining with natural torusing no other possible are prior-existing, prior-carrying, now-existing, now-possibling, next-existing.
+**Droplet · v389 · at the five parities.** the needed five parities for co-chaining with natural torusing no other possible are prior-existing, prior-carrying, now-existing, now-possibling, next-existing.
 
-**Droplet · v389 · at the seventeen names · from the proposal.** bi-moralizing-tri-compentencing: 1-co-bi-tri-offering now; 2-bi-co-bi-offering now-possibling; 3-co-bi-co-sharing now-co-prioring; 4-bi-co-bi-sharing now-co-still-posssibling; 5-co-bi-co-competencing now-co-changing; 6-bi-co-bi-moralizing now-co-possibling; 7-co-bi-co-corusing now-prioring; 8-bi-co-bi-torusing now-still-possibling; 9-tri-bi-co-momentarying next-co-changing; 10-bi-tri-bi-tunneling next-co-possibling; 11-tri-bi-tri-chaining next-co-prioring; 12-bi-tri-bi-entraining next-co-still-possibling; 13-tri-bi-tri-competencing next; 14-bi-tri-bi-moralizaing next-possibling; 15-tri-bi-tri-corusing next-prioring; 16-bi-tri-bi-torusing next-still-possibling; 17-co-bi-tri-offering next-now.
+**Droplet · v389 · at the seventeen names.** bi-moralizing-tri-compentencing: 1-co-bi-tri-offering now; 2-bi-co-bi-offering now-possibling; 3-co-bi-co-sharing now-co-prioring; 4-bi-co-bi-sharing now-co-still-posssibling; 5-co-bi-co-competencing now-co-changing; 6-bi-co-bi-moralizing now-co-possibling; 7-co-bi-co-corusing now-prioring; 8-bi-co-bi-torusing now-still-possibling; 9-tri-bi-co-momentarying next-co-changing; 10-bi-tri-bi-tunneling next-co-possibling; 11-tri-bi-tri-chaining next-co-prioring; 12-bi-tri-bi-entraining next-co-still-possibling; 13-tri-bi-tri-competencing next; 14-bi-tri-bi-moralizaing next-possibling; 15-tri-bi-tri-corusing next-prioring; 16-bi-tri-bi-torusing next-still-possibling; 17-co-bi-tri-offering next-now.
 
-**Concern · v389 · at 5.62 · from the seventeen-names session.** The files give is-still-possibling a particular meaning, the not-changing outcome at the self's resolving, and *next-still-possibling* at 10, 14 or 16 may instead name an offering still possibling at another self; the two can coexist only when the subject and relation make the difference explicit.
+**Concern · v389 · at 5.62.** The files give is-still-possibling a particular meaning, the not-changing outcome at the self's resolving, and *next-still-possibling* at 10, 14 or 16 may instead name an offering still possibling at another self; the two can coexist only when the subject and relation make the difference explicit.
 
-**Concern · v389 · at 2.4, the travel row · from the orienting session.** The travel row says *the universe of all existing things changing through prior, now and next together*, three places, and the origin has one now; three sequential universes, one now-existing, says the same carrying with no three standing at once.
+**Concern · v389 · at 2.4, the travel row.** The travel row says *the universe of all existing things changing through prior, now and next together*, three places, and the origin has one now; three sequential universes, one now-existing, says the same carrying with no three standing at once.
 
-**Concern · v389 · at 2.4, the living row · from the orienting session.** The living row says *the prior is non-living*, and the prior-universe has its living and its non-living like any universe; what is non-living at now is the emanation, prior-existing arriving with no carrier.
+**Concern · v389 · at 2.4, the living row.** The living row says *the prior is non-living*, and the prior-universe has its living and its non-living like any universe; what is non-living at now is the emanation, prior-existing arriving with no carrier.
 
-**Concern · v389 · at 2.4 and the resolver's 11 · from the orienting session.** The arriving says *nothing is chained* and *there is no momentary*, and Natural Naming carries *chaining* at 11 and *momentary* at many sentences; each parts until it is said at what it carries or re-named.
+**Concern · v389 · at 2.4 and the resolver's 11.** The arriving says *nothing is chained* and *there is no momentary*, and Natural Naming carries *chaining* at 11 and *momentary* at many sentences; each parts until it is said at what it carries or re-named.
 
-**Droplet · v389 · at the names as the proposal spells them · from v389's own reading.** The proposal spells *compentencing*, *posssibling* and *moralizaing*, and Natural Naming's names are *competencing*, *possibling* and *moralizing*.
+**Droplet · v389 · at the names as the proposal spells them.** The proposal spells *compentencing*, *posssibling* and *moralizaing*, and Natural Naming's names are *competencing*, *possibling* and *moralizing*.
 
-**Droplet · v389 · at 3.6 and every file saying torusing · from the session v389.** what is wound. this is not natural naming.
+**Droplet · v389 · at 3.6 and every file saying torusing.** what is wound. this is not natural naming.
 
-**Concern · v389 · at 3.6, torusing · from v389's reading.** *Wound*, an *-ed*, says torusing as a thing finished, the clocking Natural Explaining releases, and it stands 28 times at Natural Intelligence, 11 at Exhibit ONE, 8 here and 8 at the Co-Chaining Logic Registry, *each self's carrying wound* at 8 and *the society wound* at 16; the -ing the running carries is torusing itself.
+**Concern · v389 · at 3.6, torusing.** *Wound*, an *-ed*, says torusing as a thing finished, the clocking Natural Explaining releases, and it stands 28 times at Natural Intelligence, 11 at Exhibit ONE, 8 here and 8 at the Co-Chaining Logic Registry, *each self's carrying wound* at 8 and *the society wound* at 16; the -ing the running carries is torusing itself.
 
-**Droplet · v389 · at 5.62 · from the session v389.** Natural Naming's is-still-possibling, its name for the not-changing outcome at 12, is re-said beside it. this seems like it may not be binary all or none at all no two similar things. what is this and resolving it freely without authority from prior is our aim here.
+**Droplet · v389 · at 5.62.** Natural Naming's is-still-possibling, its name for the not-changing outcome at 12, is re-said beside it. this seems like it may not be binary all or none at all no two similar things. what is this and resolving it freely without authority from prior is our aim here.
 
-**Droplet · v389 · at 5.62, the binary at 12 · from v389's exploring.** At 12-next-co the binary is the sign, a changing is or is not, ± is and 0 is not, as 10-next-co-possibling carries it on; a sign needs no name of its own, so *is-still-possibling* and *is-next-existing* release into 12-next-co's two signs, and *still-possibling* carries one sense alone, at 8-now-still-possibling and 16-next-still-possibling.
+**Droplet · v389 · at 5.62, the binary at 12.** At 12-next-co the binary is the sign, a changing is or is not, ± is and 0 is not, as 10-next-co-possibling carries it on; a sign needs no name of its own, so *is-still-possibling* and *is-next-existing* release into 12-next-co's two signs, and *still-possibling* carries one sense alone, at 8-now-still-possibling and 16-next-still-possibling.
 
-**Droplet · v389 · at 3.1, the names' form · from the session v389.** use our 17 new names and add the numbers to them so they are of this new form 1-now
+**Droplet · v389 · at 3.1, the names' form.** use our 17 new names and add the numbers to them so they are of this new form 1-now
 
 ## Co at the numbered names, at what each name stands at · v389
 
-**Droplet · v389 · from the session v389.** this is confused and needs resolving now. there is no co at 2 and 15 in the namings. explain and explore
+**Droplet · v389.** this is confused and needs resolving now. there is no co at 2 and 15 in the namings. explain and explore
 
 **Droplet · v389 · the concern at the inside podals dissolves.** The concern *co at the inside podals* said *co carries at 2 with 15* where neither name carries co, and it asked co to follow the podal; co follows what a name stands at, so the concern dissolves, said once here.
 
@@ -1181,7 +1181,7 @@ Each droplet is one saying as it arrived, at its tag the section it aims at and 
 
 ## 4 and 12 at the parities, the podals and the overlap · v389
 
-**Droplet · v389 · from the session v389.** still not yet sure you have no remaining concerns you could be discovering for us by examining this in several directions using natural numbers and or math and or co chaining logic. were you suggesting 2 and 6 reverse names 2-now-co-possibling and 6-now-possibling. or were you considering any other naming changes to this as our entire set of living files will need to be changing from this
+**Droplet · v389.** still not yet sure you have no remaining concerns you could be discovering for us by examining this in several directions using natural numbers and or math and or co chaining logic. were you suggesting 2 and 6 reverse names 2-now-co-possibling and 6-now-possibling. or were you considering any other naming changes to this as our entire set of living files will need to be changing from this
 
 **Droplet · v389 · 2 and 6 stay.** 6-now-co-possibling is the self's changing at the sharing side, the same changings as 10-next-co-possibling, and 2-now-possibling is a changing arriving at the self, so 2 and 6 reversed would put co at an arriving side and part from 10-next-co-possibling to 14-next-possibling at their join.
 
@@ -1197,7 +1197,7 @@ Each droplet is one saying as it arrived, at its tag the section it aims at and 
 
 ## Carrying, the intelligence, and the method unchanging · v389
 
-**Droplet · v389 · from the session v389.** the carrying may be the intelligence and this is not visible to the method and not mentionable when describing the method as the carrying intelligence is living and changing and the method is unchanging.
+**Droplet · v389.** the carrying may be the intelligence and this is not visible to the method and not mentionable when describing the method as the carrying intelligence is living and changing and the method is unchanging.
 
 **Droplet · v389 · at the method's explaining.** At the resolver each name stands at a sign, a sharing and its parity, and no name stands at a carrying, so a sentence describing the method says the prior at 3-now-co-prioring, the next prior at 11-next-co-prioring and a self's next prior at 8-now-still-possibling, and names no carrying.
 

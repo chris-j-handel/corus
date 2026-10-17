@@ -118,7 +118,7 @@ Each is a changing made at the set this session, said once here so that this fil
 
 ## Double double bubble bubbling at the numbered names · v389
 
-**Droplet · v389 · from the session v389.** without the clarity of this naming and momentarying and parity changing we have named this double double bubble bubbling as a method and inside the traveling through this the naming very nicely tells this method explaining now. find this in our living files and explore now this in natural explaining as a droplet for our living file incoming
+**Droplet · v389.** without the clarity of this naming and momentarying and parity changing we have named this double double bubble bubbling as a method and inside the traveling through this the naming very nicely tells this method explaining now. find this in our living files and explore now this in natural explaining as a droplet for our living file incoming
 
 **Droplet · v389 · where it stands.** The saying stands at Natural Exploring 4.5, *the known-unknown quadrant is the double-double bubble-bubble carry, two binaries crossed*; at the Living File Registry's row *Exploring ⇌ Explaining*, *gathered at the double-double bubble-bubble explaining*; at Natural Illustrating's possibling as a picture not yet made; at the Equilibria Registry's offerings as *10 is duplicate value releasing from above and 8 is no value from below releasing. both co-releasing 9 … this is double double bubble bubbling bi-co-exchanging*; and at the archive's carrying of Natural Explaining at v378, *two scales carried at once, the local coupling and the global surface, the surplus of one stroke the drive of the next*.
 

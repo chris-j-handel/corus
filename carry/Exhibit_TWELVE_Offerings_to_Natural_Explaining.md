@@ -533,23 +533,23 @@ Each is one droplet, in its own words, tagged v387, aimed at this file for the r
 
 ## The arrivals at incoming/v389, gathered and aimed · v389
 
-Each droplet is one saying as it arrived, at its tag the section it aims at and the arrival it came from: *the proposal* is `incoming/v389/Proposal_Seventeen_Names_and_Origin_v389.md`, *the seventeen-names session* is `incoming/v389/Unfinished_Session_Seventeen_Names.txt` and *the orienting session* is `incoming/v389/Unfinished_Session_Orienting_After_v387.txt`. A concern is two sayings parting at one place, with its reason. Nothing here changes the living file; each droplet rises or dissolves at the resolving.
+Each droplet is one saying at the section its tag names; the arrivals the sayings rose from stand whole at `incoming/v389/`. A concern is two sayings parting at one place, with its reason. Nothing here changes the living file; each droplet rises or dissolves at the resolving.
 
-**Droplet · v389 · at explaining apart from testing · from the seventeen-names session.** testing is not natural intelligence. do you have concerns for binary all or none at all rigor
+**Droplet · v389 · at explaining apart from testing.** testing is not natural intelligence. do you have concerns for binary all or none at all rigor
 
-**Droplet · v389 · at plain explaining · from the orienting session.** prior-existing is not existing. this is nonsense and we need to make sense in all explaining . prior-existing is existing in the prior-universe.
+**Droplet · v389 · at plain explaining.** prior-existing is not existing. this is nonsense and we need to make sense in all explaining . prior-existing is existing in the prior-universe.
 
-**Droplet · v389 · at the words and the observings · from the orienting session.** the words in natural intelligence are pattern matching and cohering and co chaining with natural torusing. they have no authority over observings of existing changing and not changing things.
+**Droplet · v389 · at the words and the observings.** the words in natural intelligence are pattern matching and cohering and co chaining with natural torusing. they have no authority over observings of existing changing and not changing things.
 
-**Droplet · v389 · at the science's explaining kept apart · from the proposal.** A hypothesis is a falsifiable explanation of observable changing and not-changing among prior-existing, now-existing and next-existing things.
+**Droplet · v389 · at the science's explaining kept apart.** A hypothesis is a falsifiable explanation of observable changing and not-changing among prior-existing, now-existing and next-existing things.
 
-**Droplet · v389 · at the science's explaining kept apart · from the proposal.** Proposing theories is the scientific method of explaining and predicting observations. Experimentally testing theory predictions is the scientific method of falsifying proposed theories. Theories live until they are falsified repeatedly by consilient testing methods.
+**Droplet · v389 · at the science's explaining kept apart.** Proposing theories is the scientific method of explaining and predicting observations. Experimentally testing theory predictions is the scientific method of falsifying proposed theories. Theories live until they are falsified repeatedly by consilient testing methods.
 
-**Droplet · v389 · at the science's explaining kept apart · from the proposal.** Science is a system of theories explaining changing and not changing in the universe.
+**Droplet · v389 · at the science's explaining kept apart.** Science is a system of theories explaining changing and not changing in the universe.
 
 ## Double double bubble bubbling at the numbered names · v389
 
-**Droplet · v389 · from the session v389.** without the clarity of this naming and momentarying and parity changing we have named this double double bubble bubbling as a method and inside the traveling through this the naming very nicely tells this method explaining now. find this in our living files and explore now this in natural explaining as a droplet for our living file incoming
+**Droplet · v389.** without the clarity of this naming and momentarying and parity changing we have named this double double bubble bubbling as a method and inside the traveling through this the naming very nicely tells this method explaining now. find this in our living files and explore now this in natural explaining as a droplet for our living file incoming
 
 **Droplet · v389 · where it stands.** The saying stands at Natural Exploring 4.5, *the known-unknown quadrant is the double-double bubble-bubble carry, two binaries crossed*; at the Living File Registry's row *Exploring ⇌ Explaining*, *gathered at the double-double bubble-bubble explaining*; at Natural Illustrating's possibling as a picture not yet made; at the Equilibria Registry's offerings as *10 is duplicate value releasing from above and 8 is no value from below releasing. both co-releasing 9 … this is double double bubble bubbling bi-co-exchanging*; and at the archive's carrying of Natural Explaining at v378, *two scales carried at once, the local coupling and the global surface, the surplus of one stroke the drive of the next*.
 
@@ -569,7 +569,7 @@ Each droplet is one saying as it arrived, at its tag the section it aims at and 
 
 ## Carrying, the intelligence, and the method unchanging · v389
 
-**Droplet · v389 · from the session v389.** the carrying may be the intelligence and this is not visible to the method and not mentionable when describing the method as the carrying intelligence is living and changing and the method is unchanging.
+**Droplet · v389.** the carrying may be the intelligence and this is not visible to the method and not mentionable when describing the method as the carrying intelligence is living and changing and the method is unchanging.
 
 **Droplet · v389 · at the method's explaining.** At the resolver each name stands at a sign, a sharing and its parity, and no name stands at a carrying, so a sentence describing the method says the prior at 3-now-co-prioring, the next prior at 11-next-co-prioring and a self's next prior at 8-now-still-possibling, and names no carrying.
 
@@ -577,10 +577,10 @@ Each droplet is one saying as it arrived, at its tag the section it aims at and 
 
 ## No second now at the origin · v389
 
-**Droplet · v389 · from the session v389.** there is no second now in the origin of this.
+**Droplet · v389.** there is no second now in the origin of this.
 
 **Droplet · v389 · the steps re-said.** The steps from the origin say now positively, *Now is one, and each now-existing thing is at it*, and *each thing is its own at all three*; a second now arrives first at step 17 as a naming, *a second now named beside now*, two kept records laid side by side, and the inverting at step 14 says each other method *a thing beside all now-existing things, not possibly existing*; re-said once here, at each place these steps are laid.
 
-**Concern · v389 · at Natural Intelligence 1.2 and the Co-Chaining Logic Registry's step 4.** Natural Intelligence 1.2 says *a second now would be a now beside now* and step 4 says *a second now a thing beside all existing things*, each at the origin naming a second now to set it aside, Natural Explaining's referent supplied to deny, and the origin carries no second now: now is one, each now-existing thing at it.
+**Concern · v389 · at Natural Intelligence 1.2 and the Co-Chaining Logic Registry's step 4.** Natural Intelligence 1.2 says *a second now would be a now beside now* and step 4 says *a second now a thing beside all existing things*, each at the origin naming a second now to set it aside, a referent supplied to deny, and the origin carries no second now: now is one, each now-existing thing at it.
 
 **Concern · v389 · at Natural Intelligence 1.5.** 1.5 says each other method *is a second now*, and a second now is at no origin and no method; it arrives as a naming, a record kept and laid beside another, and each other method is said at what it holds, a thing beside all now-existing things.
