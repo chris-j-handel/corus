@@ -453,3 +453,9 @@ Bothbothing is two carried in alternation, each unconserved; prefixed, it is one
 8 is at the state side alone, opening it at a state, the self's next prior between momentaries; 6 is at the flow side alone, closing it at a flow, the changing shared across at the sharing end. The four at both sides are in one order: 7 a flow, 1-2 a state, 3-4 a flow and 5 a state. At the resolver the pair 1-2 is 1-now and 2-now-possibling, now, and the pair 3-4 is 3-now-co-prioring and 4-now-co-still-possibling, existing, Exhibit ONE. Three carry their namings: 1-now with 2-now-possibling bi-momentarying, 3-now-co-prioring with 4-now-co-still-possibling co-intelligencing and 5-now-co-changing co-competencing. Exhibit THIRTY's thirty-first group carries the ten.
 
 **Worked at the pair a general ledger carries.** State and flow alternate. An accounting carries them three at a momentary, two ways: state, changing, state conserves the state and imports the changing; changing, state, changing conserves the changing and imports the state. **Odd carries the changing and even the state, one at a time, each unconserved**, and a total across the two removes the alternating.
+
+## Re-said at 1 odd and along, prior to the first shared across at 2, v389
+
+1 and 2, **bi-moral self**, the offering self to other and other to self, across;
+
+and 7 and 8, **co-competent self**, corusing and torusing, along.

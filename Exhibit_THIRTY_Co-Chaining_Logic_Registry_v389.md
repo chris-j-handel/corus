@@ -1016,7 +1016,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: the five dimensions at the resolver's names.*
 
-221. 1 and 2 are the bi-moral self, at morality's relation, across; 3, 6, 5 and 4 the invisible intelligencing method; 7 and 8 the co-competent self, at competency's relation, along; 9 and 17 are along between selves, of none of the three.
+221. 1 and 2 are the bi-moral self, at morality's relation, 1 odd and along, prior to the first shared across in the bi-coupling at 2, and 2 even and across; 3, 6, 5 and 4 the invisible intelligencing method; 7 and 8 the co-competent self, at competency's relation, 7 odd and along, prior to 8, even and across; 9 and 17 are along between selves, of none of the three.
 
         *Adding: the self as three.*
 

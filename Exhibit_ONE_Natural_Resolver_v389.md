@@ -183,7 +183,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 1 | Momentaries of exchanging | the first of the self's four, opening at 1, self 1–2 |
 | 1 | Five dimensions | 1 self prior, the prior opening of the self's five |
 | 1 | Namings | 1-2, bi-momentarying, the self's entry, odd, and the others' offerings, even, one momentary at each side |
-| 1 | The self as three | the bi-moral self with 2, bi-momentarying, the offering self to other and other to self, across |
+| 1 | The self as three | the bi-moral self with 2, bi-momentarying, along, the self prior to the first shared across in the bi-coupling at 2 |
 | 1 | Prior and next | once for one self at one momentary, the three steps within it 14, 12, 10 with 11 |
 | 1 | 1 to 17s inward and outward | 1–17s inward 1 of the 1st 1–17, the entry, and at the 1–17 outward 1, the entry |
 | 2 | Name | **2-now-possibling** |
@@ -199,7 +199,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 2 | Momentaries of exchanging | the first of the self's four, at 2, the self's 1–2 completing and the other's 2–3 opening |
 | 2 | Five dimensions | 2 other prior, the prior completing of the self's five and the prior opening of the other's |
 | 2 | Namings | 1-2, bi-momentarying |
-| 2 | The self as three | the bi-moral self with 1, across |
+| 2 | The self as three | the bi-moral self with 1, across, the first shared across in the bi-coupling, the offering self to other and other to self |
 | 2 | Bi-coupling | at the between, each other's across sharing, offered to the self |
 | 2 | Parity's unit square | a dot of the unit square, its diagonal with 14, the offerings at 2 and 14, its edge with 6 the sharing 6 to 2 |
 | 2 | Prior and next | the others' sharings across at 6 and 10 and releasings along at 9 of their prior momentary, arriving now, the possible, even, none of their prior crossing; at a spiral each is a releasing along |
@@ -288,7 +288,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 7 | Six-cycle | 3-11-7-10-6-14 |
 | 7 | Eight-cycle | 2-15-7-11-3-14-6-10 |
 | 7 | Momentaries of exchanging | the third of the self's four completing at 7, the other's 6–7, and the fourth opening at 7, self 7–8 |
-| 7 | The self as three | the co-competent self with 8, along |
+| 7 | The self as three | the co-competent self with 8, along, prior to 8 across |
 | 7 | Prior and next | each parity, offered now and prior, the co-linear recursioning forward along arriving, up the numbers, prior into now, at the self's completing |
 | 7 | 1 to 17s inward and outward | 1–17s inward 17 of the 3rd and 1 of the 4th, along, odd, now, and at the 1–17 outward within 1 to 2 |
 | 8 | Name | **8-now-still-possibling** |
@@ -305,7 +305,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 8 | Eight-cycle | 1-9-5-13-4-12-8-16 |
 | 8 | One move | 8 along 1-9-8-16 |
 | 8 | Momentaries of exchanging | the fourth of the self's four, at 8, the self's 7–8 completing and the other's 8–9 opening |
-| 8 | The self as three | the co-competent self with 7, along |
+| 8 | The self as three | the co-competent self with 7, across, the prior at its sharing again in the bi-coupling |
 | 8 | Bi-coupling | at the between, the prior at its sharing again |
 | 8 | Prior and next | each self's next prior, at 11 this momentary and the next momentary's 3; the even names of the self's span, 2, 4, 6 and 8, completing at 8 |
 | 8 | 1 to 17s inward and outward | 1–17s inward 9 of the 4th, along, odd, next, and at the 1–17 outward within 1 to 2 |

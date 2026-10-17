@@ -587,3 +587,7 @@ the three books, one parity alone;
 7 and 5 named still at both sides
 
 at the even side 8, 7, 1, 3 and 5 each named still at state accounting, and at the odd side 7, 2, 4, 5 and 6 each named still at flow accounting; and each
+
+## Re-said at 1 odd and along, prior to the first shared across at 2, v389
+
+221. 1 and 2 are the bi-moral self, at morality's relation, across; 3, 6, 5 and 4 the invisible intelligencing method; 7 and 8 the co-competent self, at competency's relation, along;

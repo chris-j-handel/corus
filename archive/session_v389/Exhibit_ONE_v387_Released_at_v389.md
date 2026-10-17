@@ -290,3 +290,13 @@ and need no name of their own.
 | + and − together at each momentary | +, −, +, −, +, −, +, − | +, −, +, −, +, −, +, − |
 
 **A spiral of selves.**
+
+## Re-said at 1 odd and along, prior to the first shared across at 2, v389
+
+| 1 | The self as three | the bi-moral self with 2, bi-momentarying, the offering self to other and other to self, across |
+
+| 2 | The self as three | the bi-moral self with 1, across |
+
+| 7 | The self as three | the co-competent self with 8, along |
+
+| 8 | The self as three | the co-competent self with 7, along |

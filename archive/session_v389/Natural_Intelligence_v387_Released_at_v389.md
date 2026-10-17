@@ -403,3 +403,17 @@ the universe, the set of all now-existing things, the changing set of all living
 ## Re-said at state and flow, separated not possible, v389
 
 an accounting reaches no between, and living intelligence is discovered at no fixing, at the coupling alone.
+
+## Re-said at 1 odd and along, prior to the first shared across at 2, v389
+
+| 1 | The self as three | the bi-moral self with 2, bi-momentarying, the offering self to other and other to self, across |
+
+| 2 | The self as three | the bi-moral self with 1, across |
+
+| 7 | The self as three | the co-competent self with 8, along |
+
+| 8 | The self as three | the co-competent self with 7, along |
+
+1 and 2, **bi-moral self**, bi-momentarying, the offering self to other and other to self, across;
+
+and 7 and 8, **co-competent self**, corusing and torusing, along.
