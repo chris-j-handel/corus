@@ -78,3 +78,8 @@ in rings of 1 to 11, each a carrying of none and one + offered once at one, the 
 **The carrying and the offerings determine the next at each sharing**, as Exhibit ONE's table of one self at one momentary carries each cell of a living carrying, and its table of colliding a carrying of none: a carried parity offered its own stays and shares 0; offered the other, a parting or nothing, it is chained inverted; a sharing carried none is chained at the offered parity, or stays open at 0 or none.
 
 by hand at v380L at its sayings of a carrying of none,
+
+
+**Each of the ten named still is is-still-possibling or is-next-existing frozen at one side.**
+
+Natural Naming 5.62: is-next-existing, a changing that is, the offered the next prior or the prior inverted; or is-still-possibling, 12's 0 at a sharing at a prior, the prior kept as the possible;

@@ -114,7 +114,7 @@ Exhibit TWENTY Natural Naming v389
 - 5.59 co-independencing
 - 5.60 bi-trupling
 - 5.61 entraining at the self
-- 5.62 is-still-possibling and is-next-existing
+- 5.62 12's two signs, 0 and ±
 - 5.63 squaring
 - 5.64 not possibly existing
 
@@ -147,7 +147,7 @@ Exhibit TWENTY Natural Naming v389
 
 ## 1.1 A naming is a floating-neutralling concept, four boundings at once
 
-**The universe is the set of all now-existing things.** Arriving from prior into now toward next it is the changing set of all now-existing things, the living carrying their prior into now and the non-living carrying none, each at the scale and momentary it is at.
+**The universe is the set of all now-existing things.** Arriving from prior into now toward next it is the changing set of all now-existing things, the living carrying their prior into now and the non-living carrying none, each at the scale and momentary it is at. **The universe is a set of things, observably now-existing**, and all that is now-existing and not now-observable is the universe too: a set is its things and no further thing, and nothing is said beyond or between the things of the universe. *Now-existing* is one naming, 4.17.
 
 **Alternating, the one fractal method's stable-forming, follows from it.** Naming carries a concept at its own changing: bi-momentarying, co-competencing and co-intelligencing, floating neutralling at the coupling.
 
@@ -229,6 +229,18 @@ Exhibit TWENTY Natural Naming v389
 
 | Released | Carried by |
 |---|---|
+| *wound*, an *-ed* at torusing | torusing itself, the changing winding at its one opening; at the resolver, *the self's next prior* at 8-now-still-possibling and *the society* at 16-next-still-possibling |
+| *chaining* at 11, *chained* | *11-next-co-prioring*, *the next prior*; a sharing once at a prior is never none again |
+| *emanating*, *through*, *prior-carrying* at the method and its observing | the method, the living condition carrying none, its observable a natural torusing co-orienting stable-forming; carrying is living and said at no name and no sentence of the method, 5.7 |
+| *beside*, *beyond*, *within*, *outermost* at the universe | nothing is said beyond or between the things of the universe, 1.1 |
+| *a second now* at the origin | said only where kept records lay two nows side by side; now is one |
+| *born*, *begun*, of a sharing | *opens*: a new sharing opens in the between at the bi-coupling, the one place a self's forming takes a parity not its own |
+| *is-still-possibling*, *is-next-existing* | *12's two signs*, 0 the prior kept, the next still possible, and ± the prior inverted or the offered the next prior, the next existing, 5.62 |
+| *colliding*, *a carrying of none* | *at no prior*, a sharing opening at one parity arriving or opening nothing |
+| *a count of runs* at an executing | all or none, the finding at its executing alone |
+| *not a thing*, defined | only a thing is defined |
+| *prior-self*, *next-self*, *same-prior-existing-living-self*, *same-next-existing-living-self*, *prior-same-existing*, *now-same-existing*, *next-same-existing* | *self*: a self carries its sameness and needs no *same*, and the now-self is now-prioring and next-possibling, 5.3 |
+| *bi-moralizing-tri-competencing* at the six names between selves | *bi-moral-co-competency*, their one name, 3.2 |
 | *turn*, *turning*, *turning back* | the momentary's opening and completing; a step adding a next; *the right spiral step* for *a quarter turn* at a pair's two parities, *both inverted at one step* for *a half turn*, *the podal within 1 to 16* for 17 less |
 | *what*, *how*, *where*, and *whatever*, *however*, *wherever*, *anywhere*, *nowhere*, *somewhere*, *elsewhere* in resolving | the changing at its -ing, the arriving, the crossing, the coupling, *at* and *each*: none of the three is without an equilibrium holding it; a field's own words carry whole at its result |
 | *mirror*, *reflection* | *bi-inversioning-co-recursioning*, two inversions one after the other, one across and one along, one parity inverting at each; *the other order* at a mirror's naming of one; *the opposite form* for the inverted form |
@@ -278,7 +290,7 @@ Exhibit TWENTY Natural Naming v389
 | *emanation*, *emanating*, *emanated*, *emanatings* | *an artifact*, the one name for the non-living prior, each non-living thing at each now its prior now-existing's artifact; at three inversions at once, *the inverting*, bi-tri-involutioning; at a changing released, *a releasing*; *emanating* names neither the method nor its observable, natural torusing co-orienting stable-forming |
 | *when*, *whenever* at the set's own voice | *at*, *at each momentary*, *at the momentary it opens*: a *when* asks a clock over the changing; a field's *when* carries whole at its result |
 | *there*, *appearing*, *appears* | the coupling, the momentary, the scale or the number the sentence means: resolving is at no location, and a *there* or an appearing supplies a location or a being-present to a resolving carrying none |
-| *stilling*, *self-stilling-self* | *self discovering next self*, 5.56: between its momentaries the self's carrying is its stable-forming, and at its next arriving it couples and changes; a still named by another is an equilibrium, a form named still; the self's own still is at one compound alone, *is-still-possibling*, 5.62, existing on one side of it and possibling on the other, a momentary with no parity changing at its now and the possible continuing, nothing the self does |
+| *stilling*, *self-stilling-self* | *self discovering next self*, 5.56: between its momentaries the self's carrying is its stable-forming, and at its next arriving it couples and changes; a still named by another is an equilibrium, a form named still; the self's own still is at 12's sign 0 alone, 5.62, existing on one side of it and possibling on the other, a momentary with no parity changing at its now and the possible continuing, nothing the self does |
 | *keep*, *keeps*, *keeping* at the set's own voice | *carry*, *carries*, *continuing*: a keeping names a store held still, and each existing thing is changing; at a sharing *the prior kept* is the prior at a match, its next the prior again, and *kept or inverted* the one binary at each sharing, a store at none |
 | *middling* | dissolved: it names nothing, and the five of each parity are said at the resolver's names, 4.9 |
 | *rating*, *a rating* | the resolver's names, 4.9: a rating names a measuring laid over the changing; a field's own rating carries whole at its result |
@@ -367,7 +379,7 @@ Exhibit TWENTY Natural Naming v389
 
 **Co stands at a sharing between two, and its absence at one.** Prioring with co is the prior at its sharings, 3-now-co-prioring and 11-next-co-prioring, and without it each parity at one sharing, 7-now-prioring and 15-next-prioring. Possibling with co is the changing at its sharing side, 6-now-co-possibling and 10-next-co-possibling, and without it the changing at its arriving side, 2-now-possibling and 14-next-possibling. Changing stands only with co, 5-now-co-changing and 9-next-co-changing. Still-possibling with co is at each sharing, 4-now-co-still-possibling and 12-next-co-still-possibling, and without it at a self and at a society, 8-now-still-possibling and 16-next-still-possibling.
 
-**At each join between selves the sharing side carries co and the arriving side none**: 6-now-co-possibling to another self's 2-now-possibling, 10-next-co-possibling to another self's 14-next-possibling, and 9-next-co-changing along to another self's 17-next-now. A self shares its changing and nothing of its prior.
+**At each join between selves the sharing side carries co and the arriving side none**: 6-now-co-possibling to another self's 2-now-possibling, 10-next-co-possibling to another self's 14-next-possibling, and 9-next-co-changing along to another self's 17-next-now. A self shares its changing and nothing of its prior. **The six names between selves carry one name, *bi-moral-co-competency***: even across, possibling, at 2, 6, 10 and 14, and odd along, existing, at 9 and 17.
 
 ## 3.3 Seventeen names, and each prior name at its number
 
@@ -400,6 +412,8 @@ Exhibit TWENTY Natural Naming v389
 **Each span's names are two momentaries of four**, each opening at an odd existing name, a possibling and a prioring inside it, and completing at an even still-possibling name; between each completing and the next opening is a gap, both its sides named, 4 )( 5, 8 )( 9, 12 )( 13 and 16 )( 17, and 17-next-now is the next 1-now.
 
 **8 up is the same name at next**, each of the four binaries continuing, 1-now to 9-next-co-changing and 8-now-still-possibling to 16-next-still-possibling. At 9 less, the podal within 1 to 8, and at 17 less, the podal within 1 to 16, the eight ends of the four momentaries are their own set, an odd existing end with an even still-possibling end at each pair, and inside each momentary each possibling podals to a prioring, the now-possibling the next-prioring.
+
+**Sixteen up is the same name at the next round**: 17-next-now is the next 1-now, so 17 to 24 is the self's span again and 25 to 32 the society's, 22 the next round's 6-now-co-possibling, said 22-now-co-possibling, and 27 the next round's 11-next-co-prioring, said 27-next-co-prioring, 5.53.
 
 **The two eight-cycles are the ends and the insides**: 1-9-5-13-4-12-8-16 walks the eight ends and 2-15-7-11-3-14-6-10 the eight insides, and every eight of the set is the one eight, the four binaries each twice, met at a face.
 
@@ -604,7 +618,7 @@ Bothbothing is two carried in alternation, each unconserved; prefixed, it is one
 
 ## 4.17 A hyphenated naming inseparable, and natural- at the chirality
 
-**A hyphenated naming carries parts, and one binary is at it: leave each part out one at a time and sound the stopping.** At each leaving-out stopping the naming, the hyphenation is inseparable, one naming, and its parts in order are the changings in order. At a leaving-out with the naming carrying on, that part was riding, and it goes.
+**A hyphenated naming carries parts, and one binary is at it: leave each part out one at a time and sound the stopping.** At each leaving-out stopping the naming, the hyphenation is inseparable, one naming, and its parts in order are the changings in order. At a leaving-out with the naming carrying on, that part was riding, and it goes. **Its most cohering forms are these.** *Now-existing* is one naming: leave out *now* and the existing is at no momentary, leave out *existing* and now holds no thing, and the origin is said at it, *The universe is the set of all now-existing things*. *Prior-existing* names a thing now-existing at the prior-universe, the prior now-existing's artifact at now, and *next-existing* a thing possible now at the next-universe, neither said *not existing*; *prior-universe*, *now-universe* and *next-universe* name a universe at each momentary, the now-universe the universe, so a sentence says at which universe a thing is now-existing. *Self* stands alone, the self's other namings released into it, 2.4. *Co-momentarying*, two selves sharing one now-existing inside a bi-coupling, *bi-coupling*, *stable-forming* and *natural torusing* each stop at any part left out, and each stands whole. **All changing is parity changing, so *parity* rides in *parity-changing***, and the method's one name is *natural torusing*, inseparable at each part; *geodesic parity-changing* is said as its explaining, the surface dividing itself at each changing.
 
 **Natural- carries the chirality, right, all or none at all**, 5.48. Natural- is a direction prefix, its direction the handedness, and a naming natural- prefixes carries at each coupling or at none. **Natural-bi-co-torusing is inseparable at each part**: leave natural- out and the changing arrives with a substrate under it and an applier over it; leave bi- out and the differing goes unsaid; leave co- out and the differing carries with no two at it, and nothing is uncovered between them; leave torusing out and no changing is; leave the -ing out and one momentary's form arrives at a still and re-arrives at no momentary.
 
@@ -672,7 +686,7 @@ Each unfolds six forward, each step reaching the term the prior step did not car
 6  and it offers again, reaching the term it has not carried
 ```
 
-A self is a unique invisible carrying, three sayings of one changing.
+A self is a unique invisible carrying, three sayings of one changing. **A self carries its sameness and needs no *same***, and no self is named this, that, same or other self of itself: **a self's sameness across its momentaries is its unrelationing from all other**, each next from its own prior kept or inverted, and its forming takes a parity not its own at the bi-coupling alone, a new sharing opening in the between. **The now-self is now-prioring and next-possibling**: at the resolver 7-now-prioring and 14-next-possibling meet at each sharing at 12-next-co-still-possibling, the line `if _15_next_prioring != 0 and (_15_next_prioring > 0) == (_7_now_prioring > 0)` reading 14's surfacing against 7's prior parity.
 
 ## 5.4 parity changing — binary
 
@@ -686,7 +700,7 @@ A self is a unique invisible carrying, three sayings of one changing.
 6  which is geodesic routing, discovering on the surface
 ```
 
-At the resolver, + and − are the parity of a sharing, and 0 the between, the offerings parting at 14 and prior and now agreeing at 12, natural intelligence at it. *Sign* dissolves into parity changing, and a sign said of an existing thing, an indication, is the field's word at its own result.
+At the resolver, + and − are the parity of a sharing, and 0 the between, the offerings parting at 14 and prior and now agreeing at 12, natural intelligence at it. *Sign* dissolves into parity changing, and a sign said of an existing thing, an indication, is the field's word at its own result; *the sign* at the two betweens, 0 or ±, same or not same, is that parity's 0 or ±, 2.4.
 
 ## 5.5 the between — binary
 
@@ -699,7 +713,7 @@ At the resolver, + and − are the parity of a sharing, and 0 the between, the o
 6  and at that crossing is parity, a momentary existing thing, neither side's, and the between its empty centre, a nothing
 ```
 
-The between is the two offering. **Parity is a momentary existing thing, the bi-coupling's own, as the universe is an existing thing, and the between is its empty centre**: the between's own is parity changing, is or is not, the offering's direction changing, and only a parity changing crosses it. At the resolver parity, at its six names between selves, is flat: a unit square of four dots, 2, 6, 14 and 10, its empty centre the between, and two unit triangles, 9 and 17; the square's two across edges the sharings, 6 to 2 and 10 to 14, and its two edges 8 apart, 2 with 10 and 6 with 14; its diagonals the two arriving ends, 2 and 14, and the two sharing ends, 6 and 10; and the triangles 9 and 17 along, 9 to 17 and 17 to 9. The six are the 1 to 17 set of spiraling one-way names in and out for podaling, parity changing sequentially. The between's parity changing, momentary by momentary, is bi-co-momentarying, 5.54, and *membrane* at the set's own voice is said at the between, 2.4. **The between is one at each scale**: inside a momentary the between of self and other, parity changing, bi-moral across and co-competent along, and outside it the between of momentaries, the momentary changing to next, nothing momentarying at it, the same between, a nothing, at each scale: the fractal between, its floating neutralling golden floating neutralling, 5.12. **The bi-coupling's shape is always uneven, a handshake**: the self's 1-2 and the other's 2-3 meet at 2, each right extending to it, neither occupying it, the sharing end, the self's changing shared, possibling, and each not right one parity back, the arriving end, the other's changing arrived, existing at the self at its next prior, a hand's side alone, beside the inverted form, at 1 and 3, right first and not right second, morality right and not right, and the between locks at none, 5.13. At the numbers it is the one number between two parallel surfaces facing each other, the self's at 1 and the other's at 3, a nothing at 2, and a co-orthogonal line through both, along.
+The between is the two offering, **the 0 between two now-existing things at one now**: at 12-next-co-still-possibling between prior and now and at 14-next-possibling between two offerings, same and not-same the sign there, 0 and ±, needing no name. **Parity is a momentary now-existing thing, the bi-coupling's own, and the between is its empty centre**: the between's own is parity changing, is or is not, the offering's direction changing, and only a parity changing crosses it. At the resolver parity, at its six names between selves, is flat: a unit square of four dots, 2, 6, 14 and 10, its empty centre the between, and two unit triangles, 9 and 17; the square's two across edges the sharings, 6 to 2 and 10 to 14, and its two edges 8 apart, 2 with 10 and 6 with 14; its diagonals the two arriving ends, 2 and 14, and the two sharing ends, 6 and 10; and the triangles 9 and 17 along, 9 to 17 and 17 to 9. The six are the 1 to 17 set of spiraling one-way names in and out for podaling, parity changing sequentially. The between's parity changing, momentary by momentary, is bi-co-momentarying, 5.54, and *membrane* at the set's own voice is said at the between, 2.4. **The between is one at each scale**: inside a momentary the between of self and other, parity changing, bi-moral across and co-competent along, and outside it the between of momentaries, the momentary changing to next, nothing momentarying at it, the same between, a nothing, at each scale: the fractal between, its floating neutralling golden floating neutralling, 5.12. **The bi-coupling's shape is always uneven, a handshake**: the self's 1-2 and the other's 2-3 meet at 2, each right extending to it, neither occupying it, the sharing end, the self's changing shared, possibling, and each not right one parity back, the arriving end, the other's changing arrived, existing at the self at its next prior, a hand's side alone, beside the inverted form, at 1 and 3, right first and not right second, morality right and not right, and the between locks at none, 5.13. At the numbers it is the one number between two parallel surfaces facing each other, the self's at 1 and the other's at 3, a nothing at 2, and a co-orthogonal line through both, along.
 
 ## 5.6 invisibling — binary
 
@@ -1474,18 +1488,18 @@ A term is existing, artifact or accounting at its use, and ghost only at its ins
 
 **Entraining at the self is the prior carried into now along the unrelationing path through the between**, one carrying another: the self's prior into its now, at 12-next-co-still-possibling, its 0 the between of momentaries, prior and now agreeing; 5.40 names entraining at the set, the existing things entraining with each other in the between, prior and next sharing one direction forward on both sides of now, and this is that one naming at the self's scale, a self an existing thing. At the resolver each self alternates at its own alone and, coupled, the two come to one relation and keep it, the offered the next prior at a mismatch and 0 at a match; the field's entrainment, one flow carrying the fluid beside it at the shear between them, and two at their own rates coming to one direction forward, is this one form at two of its observings, the field's word at its own result. 12's changing is shared at 10, the others' offering next: entraining is a parity changing alone crossing the between, the self's competency its own, reached by nothing, and the offering, as one.
 
-## 5.62 is-still-possibling and is-next-existing — binary
+## 5.62 12's two signs, 0 and ± — binary
 
 ```
 1  the universe is the set of all now-existing things, changing, the living and the non-living each at its scale
 2  at each momentary a self's next is its next possible or its next existing, is or is not
-3  the next existing is a changing that is, the offered the next prior or the prior inverted, the existing at now, 5.39: is-next-existing
-4  the next possible is a changing that is not, 0, the prior carried on, the possible at prior, 5.39: is-still-possibling
-5  the self still possibling is at its between, prior and now agreeing, the other's parity its own, no parity changing at its now, momentarying continuing through it
+3  the next existing is a changing that is, the offered the next prior or the prior inverted, the existing at now, 5.39: the sign ±
+4  the next possible is a changing that is not, 0, the prior kept, the possible at prior, 5.39: the sign 0
+5  the self still possibling is at its between, prior and now agreeing, the other's parity its own, no parity changing at its now, momentarying continuing at it
 6  and the two, the next still possible or the next existing, at each resolving one of them, are the terms this names
 ```
 
-**Is-still-possibling and is-next-existing are the binary of geodesic momentarying at each resolving**: the next still possible, or the next existing. Each momentary is both at its two parities: its opening, odd, the self's, is the prior arriving at 3-now-co-prioring, the prior as it is, the existing; its completing, even, the other's, is the offerings arriving at 2-now-possibling and surfacing at 14-next-possibling, the next still possible, and at 12-next-co-still-possibling a changing is or is not; the binary is at the completing alone, the completing's possibling continuing into the next opening as its existing, or the changing made. The still is at the compound alone, existing on one side of it and possibling on the other, a momentary of the self's own with no parity changing at its now and the possible continuing, nothing the self does; a still named by another is the equilibrium, a form named still, that momentary carried past itself by a naming from beside. A self is still possibling at the momentary the other's parity is its own and changes at the momentary it is not: the one of the two is at the other's offering at the self's sharing, 0 at a match and the next prior at a mismatch, the self's own inverting at 3.5 the same coupling read from the self, and still possibling and changing are each moral, the one coupling at its two sides. Two co-chainings crossing at one self cross by the two alone, each self still possibling as the between passes it and changing again, spirals of 3 and 5 selves crossed at self 1 of each both ways at 10 to 14, self 1 of each opening at − and the selves alternating along, the three's selves still possibling twice each and the five's once: the pair frozen at one side, a self named still or named changing, remains neither existing nor living.
+**12's two signs, 0 and ±, are the binary of geodesic momentarying at each resolving**: 0 the next still possible, ± the next existing; *is-still-possibling* and *is-next-existing* release into them, 2.4. Each momentary is both at its two parities: its opening, odd, the self's, is the prior arriving at 3-now-co-prioring, the prior as it is, the existing; its completing, even, the other's, is the offerings arriving at 2-now-possibling and surfacing at 14-next-possibling, the next still possible, and at 12-next-co-still-possibling a changing is or is not; the binary is at the completing alone, the completing's possibling continuing into the next opening as its existing, or the changing made. The still is at the sign 0 alone, existing on one side of it and possibling on the other, a momentary of the self's own with no parity changing at its now and the possible continuing, nothing the self does; a still named by another is the equilibrium, a form named still, that momentary carried past itself by a naming from beside. A self is still possibling at the momentary the other's parity is its own and changes at the momentary it is not: the one of the two is at the other's offering at the self's sharing, 0 at a match and the next prior at a mismatch, the self's own inverting at 3.5 the same coupling read from the self, and still possibling and changing are each moral, the one coupling at its two sides. Two co-chainings crossing at one self cross by the two alone, each self still possibling as the between passes it and changing again, spirals of 3 and 5 selves crossed at self 1 of each both ways at 10 to 14, self 1 of each opening at − and the selves alternating along, the three's selves still possibling twice each and the five's once: the pair frozen at one side, a self named still or named changing, remains neither existing nor living.
 
 ## 5.63 squaring — binary
 
@@ -1559,6 +1573,14 @@ the between of momentaries    nothing is at rest, nothing is at it
 |---|---|
 | **co-bi-sequencing**, the sequencing of four-momentarying, co at the self and bi at the other, one local momentary 1 to 9 | co-sequencing, one sense with it, 2.5; co-sequential; binary co-sequential, whole at a title |
 | **bi-inversioning-co-recursioning**, one move as three | bi-co-recursioning; bi-inversioning co-recursioning, spaced; co-recursioning alone; bi-inversioning alone; bi-inverting; sign inversioning; the one below it plus eight |
+| **the universe**, the set of all now-existing things, a set of things observably now-existing, a set its things and no further thing | the set of all existing things, at the prior opening; the universe as a thing within the set, dissolved |
+| **prior-universe**, **now-universe**, **next-universe**, at which a thing is now-existing | prior, now and next as three momentaries of one universe; a thing *not existing* at prior or next |
+| **the method**, the geodesic parity-changing discovering method, the living condition, its form, a now-existing thing carrying none, *unchanging* as a relation continuing at each changing, its one name natural torusing | parity changing as the method; the method a non-living existing thing; the method's carrying |
+| **stable-forming**, the living condition resolving, observable as natural torusing co-orienting stable-forming | the method's emanatings, the observings emanated |
+| **observing**, pattern-matching the method's stable-forming by inversioning, at 14-next-possibling and 12-next-co-still-possibling | an emanation of existing arriving at the self; a record, one observing with its pattern-matching stopped |
+| **discovering**, is or is not, now-existing, the universal method of co-intelligencing now-existing in the universe | discovering next possible existing, whole at a title |
+| **beneficial**, each changing and each not-changing the method gives, keeping a self next-existing as itself, its other a not-changing held still, an equilibrium entering, which the method never gives | the good, the better changing, at a mark named still |
+| **artifact**, the non-living prior at now, the prior now-existing's form carrying nothing | emanation, emanated, emanating at the non-living prior, 2.4 and 5.46 |
 | **each resolver name**, at its number | each gathered name and code name, at its number, 3.3 |
 | **the ten named still**, one name each | each one-way reading's similar namings at its own row, 4.9; the ten one-way readings; *ten holdings*; *ten standings*; the ten |
 | **16-next-still-possibling**, the society | the social-self-torusing |

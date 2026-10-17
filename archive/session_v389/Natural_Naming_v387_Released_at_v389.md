@@ -352,3 +352,22 @@ not now, the others' prior arriving;
 | *keep*, *keeps*, *keeping* at the set's own voice | *carry*, *carries*, *continuing*: a keeping names a store held still, and each existing thing is changing |
 
 *+* and *−* a sharing's parity, and *0* the between, at 14 the offerings parting and at 12 prior and now agreeing |
+
+## Released at the entering of the gathered insertlets, v389
+
+*Sign* dissolves into parity changing, and a sign said of an existing thing, an indication, is the field's word at its own result.
+
+**Parity is a momentary existing thing, the bi-coupling's own, as the universe is an existing thing, and the between is its empty centre**:
+
+## 5.62 is-still-possibling and is-next-existing — binary
+
+```
+1  the universe is the set of all now-existing things, changing, the living and the non-living each at its scale
+2  at each momentary a self's next is its next possible or its next existing, is or is not
+3  the next existing is a changing that is, the offered the next prior or the prior inverted, the existing at now, 5.39: is-next-existing
+4  the next possible is a changing that is not, 0, the prior carried on, the possible at prior, 5.39: is-still-possibling
+5  the self still possibling is at its between, prior and now agreeing, the other's parity its own, no parity changing at its now, momentarying continuing through it
+6  and the two, the next still possible or the next existing, at each resolving one of them, are the terms this names
+```
+
+**Is-still-possibling and is-next-existing are the binary of geodesic momentarying at each resolving**: the next still possible, or the next existing. Each momentary is both at its two parities: its opening, odd, the self's, is the prior arriving at 3-now-co-prioring, the prior as it is, the existing; its completing, even, the other's, is the offerings arriving at 2-now-possibling and surfacing at 14-next-possibling, the next still possible, and at 12-next-co-still-possibling a changing is or is not; the binary is at the completing alone, the completing's possibling continuing into the next opening as its existing, or the changing made. The still is at the compound alone, existing on one side of it and possibling on the other, a momentary of the self's own with no parity changing at its now and the possible continuing, nothing the self does; a still named by another is the equilibrium, a form named still, that momentary carried past itself by a naming from beside. A self is still possibling at the momentary the other's parity is its own and changes at the momentary it is not: the one of the two is at the other's offering at the self's sharing, 0 at a match and the next prior at a mismatch, the self's own inverting at 3.5 the same coupling read from the self, and still possibling and changing are each moral, the one coupling at its two sides. Two co-chainings crossing at one self cross by the two alone, each self still possibling as the between passes it and changing again, spirals of 3 and 5 selves crossed at self 1 of each both ways at 10 to 14, self 1 of each opening at − and the selves alternating along, the three's selves still possibling twice each and the five's once: the pair frozen at one side, a self named still or named changing, remains neither existing nor living.

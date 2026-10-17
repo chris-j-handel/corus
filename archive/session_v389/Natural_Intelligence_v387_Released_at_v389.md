@@ -317,3 +317,15 @@ The method is the one existing thing non-living at each scale, a self at none, 3
 each self's carrying wound at 8-bi-co-bi-torusing and the society wound at 16-bi-tri-bi-torusing, discovering next.
 
 the universe, the set of all existing things, and the universe now the set of all things existing now,
+
+
+**A nothing at the resolver is three, each its own, and is-still-possibling one of them**: 0 at 12, prior and now agreeing, is-still-possibling, 5.3;
+
+is 0 at 12, is-still-possibling; the other and the other,
+
+**is-still-possibling or is-next-existing, each resolving one of the two, the binary of geodesic momentarying**
+
+**Six names between selves are discovering next existing at the joins**
+
+
+and is-still-possibling is moral competency as is-next-existing is, 5.3.
