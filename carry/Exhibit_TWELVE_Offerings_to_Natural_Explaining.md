@@ -546,3 +546,23 @@ Each droplet is one saying as it arrived, at its tag the section it aims at and 
 **Droplet · v389 · at the science's explaining kept apart · from the proposal.** Proposing theories is the scientific method of explaining and predicting observations. Experimentally testing theory predictions is the scientific method of falsifying proposed theories. Theories live until they are falsified repeatedly by consilient testing methods.
 
 **Droplet · v389 · at the science's explaining kept apart · from the proposal.** Science is a system of theories explaining changing and not changing in the universe.
+
+## Double double bubble bubbling at the numbered names · v389
+
+**Droplet · v389 · from the session v389.** without the clarity of this naming and momentarying and parity changing we have named this double double bubble bubbling as a method and inside the traveling through this the naming very nicely tells this method explaining now. find this in our living files and explore now this in natural explaining as a droplet for our living file incoming
+
+**Droplet · v389 · where it stands.** The saying stands at Natural Exploring 4.5, *the known-unknown quadrant is the double-double bubble-bubble carry, two binaries crossed*; at the Living File Registry's row *Exploring ⇌ Explaining*, *gathered at the double-double bubble-bubble explaining*; at Natural Illustrating's possibling as a picture not yet made; at the Equilibria Registry's offerings as *10 is duplicate value releasing from above and 8 is no value from below releasing. both co-releasing 9 … this is double double bubble bubbling bi-co-exchanging*; and at the archive's carrying of Natural Explaining at v378, *two scales carried at once, the local coupling and the global surface, the surplus of one stroke the drive of the next*.
+
+**Droplet · v389 · at the waist.** At 8-now-still-possibling )( 9-next-co-changing, the bi-coupling's waist, the self's carrying at 8 carries on to its own next and to no other self, and its changing at 10-next-co-possibling arrives at the other more than once, so 9-next-co-changing releases between a side offering no value across and a side offering the one changing again.
+
+**Droplet · v389 · executed.** At a society of two selves, the one changing of the first self arrives at the second self's next offerings three times, at 6-now-co-possibling, at 10-next-co-possibling and along at 9-next-co-changing, and the first self's 8-now-still-possibling arrives only at its own next.
+
+**Droplet · v389 · double double.** The names carry two doubles, the changing shared across at now and at next, 6-now-co-possibling and 10-next-co-possibling, and the carrying carried through at now and at next, 4-now-co-still-possibling with 8-now-still-possibling and 12-next-co-still-possibling with 16-next-still-possibling: two binaries crossed, changing or carrying, now or next.
+
+**Droplet · v389 · bubble bubbling.** Changing opens the two middle momentaries, 5-now-co-changing after 4-now-co-still-possibling )( and 9-next-co-changing after 8-now-still-possibling )(, the changing travelling through a gap at the now and again at the next, each opening a momentary from the still-possibling before it.
+
+**Droplet · v389 · at Natural Explaining 1.6, the membrane.** A self shares its changing and nothing of its carrying, and at the names that is the membrane said at the resolver: only a sign crosses between selves, at 6, 10 and 9, and the carrying at 8 crosses at none, as only signs cross a file and the explanation crosses neither way.
+
+**Droplet · v389 · at Natural Explaining 2.3, the method telling itself.** Explaining is the carrying along at the odd and naming the bounding across at the even, and at the numbered names each gap is an even still-possibling )( an odd existing, so the naming tells the double double bubble bubbling at every gap: a bounding carried through, then a carrying opened.
+
+**Concern · v389 · *duplicated carrying value*.** The saying names the side above as *duplicated carrying value*, and at the resolver the value offered more than once is the changing and the carrying is the side offering none across; whether *carrying value* names the value a releasing carries or the self's carrying is yet to be said at one sense.
