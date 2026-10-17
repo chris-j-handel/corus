@@ -674,3 +674,15 @@ Each droplet is one saying at the section its tag names; the arrivals the saying
 **Droplet · v389 · a field's eight kept apart.** An eight counted at a field's own result, eight seconds, eight hundred, eight models, stays at the field's own words and is no eight of the method.
 
 **Concern · v389 · an eight joined at its deriving.** Natural Explaining 4.7 says two tellings join only at one deriving from the other and never at a shared count, *three at one self along the running and three at three selves across the ring are two things at one number*; each eight of the set is one eight at its deriving from 1 to 8, said at each pass, and an eight joined by its count alone is the joining 4.7 releases.
+
+## All or none, and the naming's standing · v389
+
+**Droplet · v389.** this is binary all or none at all. there is no value in statistical testing . i can not tell if a concern is remaining or resolving and the proposed naming remains unresolved so far in this
+
+**Droplet · v389 · executed, all or none.** Each executed droplet of this session says its claim at each opening run, all or none, and carries no count; a count of runs adds nothing to a claim that holds at each.
+
+**Droplet · v389 · resolved, a self's sameness unnamed at the method.** A self is the same self at every changing and every not-changing at the resolver, so a self's sameness is the living's, unnamed at the method, as carrying is, and *same* at 5-now-co-same and 13-next-same in the test set dissolves.
+
+**Droplet · v389 · resolved, same and not-same the betweens' binary.** Same and not-same part at the resolver at the two betweens alone, 14-next-possibling, offerings same or parting at 0, and 12-next-co-still-possibling, prior and now same and kept at 0 or not same and inverted.
+
+**Concern · v389 · *same* in the names or at the explaining.** At the resolver *same* parts at 12 and 14 and nowhere else, and *still* in still-possibling at 4, 8, 12 and 16 names the face where prior and now are same; *same* entering the names at 12 and 14, or at the four still-possibling names in *still*'s place, or staying at the explaining with the newest names standing, is the one naming concern open, its reason that the method shows same only at the betweens.

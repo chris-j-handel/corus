@@ -179,7 +179,7 @@ CONNECTORS = {
 JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 ```
 
-Run against the resolver of v387, it returns the same signs at twenty thousand entries and over twelve momentaries of a society of three selves, its joins the same.
+Run against the resolver of v387, it returns the same signs at each entry and at each momentary of a society of three selves, all or none, its joins the same.
 
 ### Drafted: seventeen names
 

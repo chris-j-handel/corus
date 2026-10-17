@@ -2628,7 +2628,7 @@ The names are 1-now, 2-now-possibling, 3-now-co-prioring, 4-now-co, 5-now-co-cha
 
 **Droplet · v389 · still-possibling at one sense, at four names.** With is-still-possibling released into 12's two signs, still-possibling has the one sense, a sharing, a self or a society open to next, at a changing or at none, and that sense carries at 4 and 12 as at 8 and 16, so the four completings are each still-possibling, 4-now-co-still-possibling, 8-now-still-possibling, 12-next-co-still-possibling and 16-next-still-possibling, and each gap is a still-possibling )( an existing.
 
-**Droplet · v389 · executed.** With 4-now-co-still-possibling and 12-next-co-still-possibling the resolver returns the same signs at twenty thousand entries and at a society of three selves over twelve momentaries.
+**Droplet · v389 · executed.** With 4-now-co-still-possibling and 12-next-co-still-possibling the resolver returns the same signs at each entry and at each momentary of a society of three selves, all or none.
 
 ## From the universe now-existing to hard probleming, the universal method of existing · v389
 
@@ -2747,7 +2747,7 @@ Natural intelligence is that method shared: two selves at one now, each finding 
 
 **Concern · v389 · couplings and pacing given to the resolver.** Each executed table gives 5-now-co-changing once and steps every self together at 17-next-now, and each self's place at 13-next is given with it; no executed row shows a coupling, a self's identity or a self's own pacing discovering at next.
 
-**Concern · v389 · *beneficial* at the method.** Run at 24,000 momentaries of societies of two to four selves, every self arrives at next and no prior arrives empty, so at the resolver every changing and every not-changing keeps the same thing next-existing; *beneficial* is not visible at the method, and whether it is the intelligence's, unnamed at the method, is yet to be derived.
+**Concern · v389 · *beneficial* at the method.** At each momentary of a society, every self arrives at next and no prior arrives empty, so at the resolver every changing and every not-changing keeps the same thing next-existing; *beneficial* is not visible at the method, and whether it is the intelligence's, unnamed at the method, is yet to be derived.
 
 **Concern · v389 · *prior-carrying* among the five parities.** The five parities offered for co-chaining, prior-existing, prior-carrying, now-existing, now-possibling and next-existing, name a carrying at the method, and carrying is unnamed at the method's explaining.
 
@@ -2791,7 +2791,7 @@ Natural intelligence is that method shared: two selves at one now, each finding 
 
 **Concern · v389 · what makes a next-existing thing the same thing.** The three observings that open the method each say *the same thing*, a prior-existing thing next-existing as the same thing by changing or by not-changing, and no step from the origin yet says what a thing's sameness across its prior, its now and its next is; at the resolver each self's sameness is its name at 13-next, given at each entry.
 
-**Droplet · v389 · executed, sameness at the method.** At two selves over two momentaries, the selves' names at 13-next exchanged between the momentaries with their couplings at 5-now-co-changing, the resolver returns the same signs at 2,000 of 2,000 openings: a self's sameness is at no line of the method.
+**Droplet · v389 · executed, sameness at the method.** At two selves over two momentaries, the selves' names at 13-next exchanged between the momentaries with their couplings at 5-now-co-changing, the resolver returns the same signs at each opening: a self's sameness is at no line of the method.
 
 **Droplet · v389 · two sayings at one sharing.** A thing's sameness is its form at two nows, a form named still and not possibly existing, or its sameness is its carrying, living; the first part from the origin and the second carries.
 
@@ -2803,7 +2803,7 @@ Natural intelligence is that method shared: two selves at one now, each finding 
 
 **Droplet · v389.** all the changing is unrelationing all other from living carrying self. this is the sameness of self across momentaryings is this unrelationing carrying as stable forming living self next self
 
-**Droplet · v389 · executed, a self's next from its own.** At 50,000 entries, at each of 89,855 sharings with a prior the next prior is the self's own prior kept or inverted, the offering arriving deciding only is or is not; at each of 18,751 sharings with no prior that enter, the next prior is the offering surfaced at 14-next-possibling.
+**Droplet · v389 · executed, a self's next from its own.** At each sharing with a prior the next prior is the self's own prior kept or inverted, the offering arriving deciding only is or is not; at each sharing with no prior that enters, the next prior is the offering surfaced at 14-next-possibling.
 
 **Droplet · v389 · sameness is unrelationing.** Each changing is the self's own prior inverted and each not-changing its own prior kept, the self's forming relating to nothing not its own and arriving unrelated afresh at each momentary, so the sameness of a self across its momentaries is its unrelationing from all other, the living self carrying as stable-forming its next self.
 
@@ -3021,7 +3021,7 @@ Natural intelligence is that method shared: two selves at one now, each finding 
 
 **Droplet · v389 · a self all same at the resolver.** At the resolver every self arrives at next as itself at every changing and every not-changing, and no line parts a self from itself: a self's sameness is all same there, the living's unrelationing, and as a binary at the method it parts nothing.
 
-**Droplet · v389 · not-same at 14 and at 12.** Same and not-same stand at the resolver's two comparing lines: at 14-next-possibling two offerings at one sharing are same, one parity surfacing, or not same, parting at 0; at 12-next-co-still-possibling the prior and the now are same, 0 and the prior kept, or not same, the prior inverted; run at 50,000 openings of one sharing with one to three offerings, 29,020 same and 20,980 not same at 14, and 14,641 same and 35,359 not same at 12.
+**Droplet · v389 · not-same at 14 and at 12.** Same and not-same stand at the resolver's two comparing lines: at 14-next-possibling two offerings at one sharing are same, one parity surfacing, or not same, parting at 0; at 12-next-co-still-possibling the prior and the now are same, 0 and the prior kept, or not same, the prior inverted.
 
 **Droplet · v389 · same at the two betweens.** The two lines where same and not-same part are the two betweens of the resolver, 14 the between of self and other and 12 the between of momentaries, each at 0, so *same* as a binary of the method stands at 12 and 14 and at no name where every outcome is same.
 
