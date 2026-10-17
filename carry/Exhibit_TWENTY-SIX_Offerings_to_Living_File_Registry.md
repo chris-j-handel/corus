@@ -2828,3 +2828,15 @@ Each droplet is one saying at the section its tag names; the arrivals the saying
 **Droplet · v389 · at the kit's checks.** `carry_check.py` at v387 reads each carrying for a *Next at this file* paragraph of the single-carrying form, and the four places at each living file carry none, so the check reports what the form no longer has.
 
 **Droplet · v389 · at 1.4, the archive.** it is not logically our method to have incoming possible value in artifact where we never plan to explore again unless we are trying to restart from a catastrophe ending.
+
+## Every eight one eight · v389
+
+**Droplet · v389.** in natural numbers and all pattern matching in all of natural intelligence living file set and method every eight is the same and all eights are the same eight and all of this will resolve further using this do no harm improving method.
+
+**Droplet · v389 · the one eight.** Every eight of the set's explaining is the one eight, the self's span, 1-now to 8-now-still-possibling, now, existing, universe and all at two names each, all eight or none.
+
+**Droplet · v389 · where the eights stand, the aiming for the passes.** The word *eight* stands 125 times at Natural Numbers, 57 at Natural Networking, 42 each at the Living File Registry, the Living Ghost Registry and the Co-Chaining Logic Registry, 41 at Natural Intelligence, 33 at Natural Mathematics, 30 at Natural Naming, 26 at Natural Intelligence Corus, 24 at Exhibit ONE, 21 at Natural Illustrating and at fewer places at seventeen other files; the set's own eights among them are 8 up and eight on, eight apart, the eight even names, the eight bi-couplings, the eight 1 to 17s inward, eight forms and eight faces, the eight securities and eight safeties, the eight uncapturings, the eight social values, the eight one-way readings and the eight namings, each one pass's place to say its eight at 1 to 8.
+
+**Droplet · v389 · a field's eight kept apart.** An eight counted at a field's own result, eight seconds, eight hundred, eight models, stays at the field's own words and is no eight of the method.
+
+**Concern · v389 · an eight joined at its deriving.** Natural Explaining 4.7 says two tellings join only at one deriving from the other and never at a shared count, *three at one self along the running and three at three selves across the ring are two things at one number*; each eight of the set is one eight at its deriving from 1 to 8, said at each pass, and an eight joined by its count alone is the joining 4.7 releases.
