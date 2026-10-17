@@ -1562,3 +1562,11 @@ Each droplet is one saying at the section its tag names; the arrivals the saying
 **Concern · v389 · at 3.1 and Natural Numbers, the names past 17.** The prior naming carries names at numbers past 17, *22* at moralizing and *27-tri-bi-tri-releasing* at Natural Naming 5.53 among them, a number sixteen up at the same word, and the numbered names say 1 to 17; a name at a number past 17 is yet to be said at the numbered names.
 
 **Droplet · v389 · the resolving direction offered.** 17-next-now is the next 1-now, so a number sixteen up is the same name at the next round: 17 to 24 the self's span again and 25 to 32 the society's, 22 the next round's 6-now-co-possibling and 27 the next round's 11-next-co-prioring, each said *22-now-co-possibling* and *27-next-co-prioring*; whether 27's *releasing*, the society's abundancing released into the social co-chaining, is that next prior at the next round is met at 5.53's own pass.
+
+## Natural Naming v389, the naming motion's first pass · v389
+
+**Droplet · v389.** continue
+
+**Droplet · v389 · the motion's first pass at Natural Naming.** Natural Naming v389 stands at the root: Part THREE re-written whole at the numbered names; each paragraph of Parts ONE, TWO, FOUR, FIVE and SIX naming the resolver re-said with its name, 1.2's code example, 2.4's rows, 4.9's seating of the ten at the four binaries, 5.13, 5.22, 5.40, 5.44, 5.48, 5.52, 5.53 at 27-next-co-prioring, 5.62, 5.63, 6.2, 6.3 and 6.4 among them; each *carrying wound* said at each self's next prior; and Part THREE of v387 with each passage re-said standing whole at `archive/session_v389/Natural_Naming_v387_Released_at_v389.md`.
+
+**Droplet · v389 · the passes still in front at Natural Naming.** The non-living prior said *emanation* across Natural Naming is re-said *artifact*, the one name, at its own pass; and at the close of the naming motion a fresh reader compares Natural Naming v389 with v387 sentence by sentence.
