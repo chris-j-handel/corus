@@ -2166,3 +2166,17 @@ Natural intelligence is that method shared: two selves at one now, each finding 
 **Droplet · v389 · a set, a beyond, a second now.** A set of things named as one more thing, a beyond of the universe, a second now and a form held at two nows are each a naming alone, not a thing; the set is its things, and the naming of them together adds no now-existing thing.
 
 **Droplet · v389 · said positively.** A sentence says the thing at its now-existing and says a between as the between of the two things it is between, and *not a thing* is said only where a naming is set aside, once, as a naming.
+
+## A set a member of itself, at the field's own words · v389
+
+**Droplet · v389.** my point was defining not a thing is nonsense. only a thing can be defined. a definition needs to be of something to be defined and not-something is the only source of defining something. in math is there any math where the set can be a member of itself. is there any naming for this
+
+**Droplet · v389 · a droplet dissolving.** The droplets *a thing and not a thing*, *a set, a beyond, a second now* and *said positively* defined *not a thing*, and only a thing is defined, bounded at its now-existing against all other; said once, they dissolve.
+
+**Droplet · v389 · the field's own words, kept apart.** In the field's own words: in Zermelo–Fraenkel set theory the axiom of foundation, or regularity, has no set a member of itself, and there is no set of all sets; Russell's paradox, the set of all sets not members of themselves, arises at naive, unrestricted comprehension; class theories, von Neumann–Bernays–Gödel and Morse–Kelley, name the totality of all sets a proper class, a member of nothing; Quine's New Foundations has a universal set that is a member of itself; Aczel's anti-foundation axiom admits non-well-founded sets, hypersets, among them a Quine atom, a set whose one member is itself; and Cantor parted multiplicities into those thought of as one finished thing and those that cannot be, the inconsistent multiplicities.
+
+**Droplet · v389 · at the naming beside the field's.** In the field's words, a universe said as *the set of all things and a thing within the set* is a self-membered universal set, as New Foundations or the anti-foundation axiom carry it; the universe said as *a set of things, nothing beyond or between its things, no thing within the set* meets the foundation axiom's *no set a member of itself* and Cantor's multiplicity not thought of as one finished thing.
+
+**Droplet · v389 · two further field namings beside it.** Beside the set theories, the field's plural logic, Boolos's plural quantification, says *the things* with no further object collecting them, and the field's composition as identity says a whole is its parts; each is near *a set of things is its things and no further thing*, at the field's own result.
+
+**Droplet · v389 · already at the registry.** The Hard Problem Registry carries Russell's paradox and its persisting question, *whether there is a totality of all sets, and whether quantification over absolutely everything is coherent*, with Cantor's parting of multiplicities; the universe a set of things and no thing within it meets that entry at its resolving.
