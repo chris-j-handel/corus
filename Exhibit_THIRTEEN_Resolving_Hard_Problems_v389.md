@@ -143,7 +143,7 @@ Exhibit THIRTEEN Resolving Hard Problems v389
 
 **A non-living existing thing couples with a living self as other, offering, each sharing with its parity, and carrying nothing.** At the resolver it is offerings at 2 with no prior behind them: the living self's own inverting is across, its prior goes on along, and the term uncovered at their coupling is owned by neither and carried on by the living.
 
-**A non-living thing arrives into its next existing as non-living, and a living self arises as its own carrying establishing**: ingested into a living society's resolving, the non-living is one participation among its co-momentaryings. Instruments, records, models, measures and texts arrive at a field so, as offerings at its now, each at its parity, and the field's living selves carry on.
+**A non-living thing arrives into its next existing as non-living, and a living self arises as its own carrying establishing**: ingested into the resolving of a society of living selves, the non-living is one participation among its co-momentaryings. Instruments, records, models, measures and texts arrive at a field so, as offerings at its now, each at its parity, and the field's living selves carry on.
 
 ---
 

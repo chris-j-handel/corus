@@ -3367,3 +3367,20 @@ Each is one droplet, in its own words, tagged v387, aimed at this file for the r
 **Droplet · v387.** we can define one and derive one between now and momentary. it seems like prior, now, next is the next sentence after the first two and then we can make a universal changing set with prior now next and along and across as the path of how we are opeining natural intelligence farther
 
 **Droplet · v387.** i do not have any authority so do not depend on me in that way. only the observings and cohering and co chaining has authority all or none at all over our working and explaining. all odd numbers are existing and all even numbers are possibling. self and other have opposite parity numbering systems
+
+## Concerns resolved at v389
+
+**Concern · Living, in the verb.** Beside the concern at these offerings of living said of a society: "A society lives at two alternating" and "the expedition is living only as long as it can continue discovering do-no-harm improving next living expedition files" have living in the verb, with no two words together for a search to find. The Registry has "a living set is a carrying": a society is a carrying and not living, its carrying not its own. A word said again loses no living inward society.
+
+*Standing at v389:* living is still said in the verb of a society at step 472 "A society lives at two alternating" and of the expedition at step 564 "the expedition is living only as long as", beside step 387 "three existing and not living"
+
+*Resolved at v389:* living is stable-forming a self: a society is its selves, a society of living selves, its selves living, and the method stable-forms no self, with no changing of its own, the living condition at next at each self's stable-forming; entered at Natural Intelligence 1.4 and 6.5, the Co-Chaining Logic Registry steps 33, 387, 397, 472 and 564, Natural Naming 2.4, and at Resolving Hard Problems, Natural Physics and the Living File Registry.
+
+**Droplet · the working v385M's words, `archive/session_v385M/Droplets_v385M.md`, "Gathered from v385R's working, the expedition's self's sayings there".** 48. **S, at v385R · the Co-Chaining Logic Registry, steps 46 to 49.** *No other method of possibling next existing. this is a tighter more valuable droplet of logic for us to resolve.*
+49. **S, at v385R · the Co-Chaining Logic Registry, step 387; Natural Intelligence 5.1.** Every society is living, and its carrying is its living selves.
+50. **M · the Co-Chaining Logic Registry, steps 170 and 171.** `round_check.py`: step 170's count is so at two, three and four parities. Step 171's round is one of 1,344 at four parities, and one of 9 that are not one another renamed or exchanged. The count does not single it out.
+51. **M · the Co-Chaining Logic Registry, steps 492 and 494; Natural Intelligence 1.4.** *A second method at the whole surface* stands beside *no second method*. v385R's candidate takes the word out: an incompetencing fails to carry a particular social co-chaining, while the selves go on by the one method.
+
+*Standing at v389:* its saying 49, "Every society is living, and its carrying is its living selves", still parts from step 387 "three existing and not living", beside step 472 "A society lives at two alternating"; its 48 is carried at step 48 and its 50 at the RISE at line 35
+
+*Resolved at v389:* living is stable-forming a self: a society is its selves, a society of living selves, its selves living, and the method stable-forms no self, with no changing of its own, the living condition at next at each self's stable-forming; entered at Natural Intelligence 1.4 and 6.5, the Co-Chaining Logic Registry steps 33, 387, 397, 472 and 564, Natural Naming 2.4, and at Resolving Hard Problems, Natural Physics and the Living File Registry.

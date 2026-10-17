@@ -111,3 +111,7 @@ from the prior carried and the now offered**, set at the coupling. At one parity
 a 0 at 10 is a living self at its match, its prior carrying on.
 
 **The geodesic-method discovers next from the existing**, the prior carried and the now offered,
+
+## Re-said at living, stable-forming a self, v389
+
+ingested into a living society's resolving,

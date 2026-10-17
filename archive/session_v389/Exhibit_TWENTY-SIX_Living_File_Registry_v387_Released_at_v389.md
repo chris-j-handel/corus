@@ -27,3 +27,7 @@ TWENTY-EIGHT · Equilibria Registry: at the repository v387
 TWENTY-NINE · Natural Illustrating: at the repository v379
 
 THIRTY · Co-Chaining Logic Registry: at the repository v387
+
+## Re-said at living, stable-forming a self, v389
+
+throughout living society, inward and outward,

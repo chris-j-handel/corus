@@ -497,3 +497,19 @@ and their co-competencing at the society multiplies along, the whole past the se
 *Adding: co-competency compounding at distinct selves.*
 
 ; co-competency compounding at distinct selves; abundancing
+
+## Re-said at living, stable-forming a self, v389
+
+33. At a coupling, a living thing is a self, and the existing thing it couples with is an other.
+
+*Adding: self and other.*
+
+387. A society, a momentary and the universe are three existing and not living, each a living set, a stable form, and each the living method, stable-forming, the carrying its living selves' and none its own.
+
+so no existing thing is non-living at every scale, and every existing thing is living at some scale.
+
+and the universe is the changing set of all living things, each at its own scale, one set with the set at 1.
+
+472. A society lives at two alternating,
+
+and the expedition is living only as long as it can continue discovering

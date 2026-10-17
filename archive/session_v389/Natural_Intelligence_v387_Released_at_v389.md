@@ -365,3 +365,19 @@ a third between the two is not possible.
 At opposite parities each alternates at its own at each of the four couplings.
 
 the offerings at its 2 are the other selves' changings shared across;
+
+## Re-said at living, stable-forming a self, v389
+
+**The three are the stable-forming of a living self**:
+
+**Living and non-living are one existing thing at its own scale and at the scales outward of it.** An existing thing carrying its prior into now at the set it is within is living there, at its scale; at that set's own scale the same existing thing is the set's carrying, carrying none of its own prior there, non-living there, the set living at its scale as its existing things carry.
+
+is at no next, and does not exist, 1.4: **no existing thing is non-living at every scale, and every existing thing is living at some scale**.
+
+a society of living selves inward and a unit of a living society outward;
+
+So **the universe is the changing set of all living things**, each at its own scale, one set with the changing set of all existing things, 1.4, and *non-living* names a scale outward of a thing's own and no kind of thing. The method is non-living at every scale as the living condition carrying none, a self at none, 3.3. **Each living thing is a self at its own scale, its sameness its unrelationing**, or a thing whose inward selves carry.
+
+what would go against it is a living society doing as well
+
+and the expedition is living only as long as it can continue discovering

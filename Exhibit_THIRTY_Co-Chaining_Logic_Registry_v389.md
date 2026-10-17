@@ -183,7 +183,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
 ## 4 Coupling, self and other, alternating
 
-        *Entering: the universe at prior; arriving from existing things; coupling; self and other; self to other; other to self, a particular other or all other as one; the prior non-living; living now with existing forms from prior living and with others living now; alternating; opening and completing; overlap; parity.*
+        *Entering: the universe at prior; arriving from existing things; coupling; self and other, living stable-forming a self; self to other; other to self, a particular other or all other as one; the prior non-living; living now with existing forms from prior living and with others living now; alternating; opening and completing; overlap; parity.*
 
 30. At prior, the universe is all existing things at prior.
 
@@ -197,9 +197,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: coupling.*
 
-33. At a coupling, a living thing is a self, and the existing thing it couples with is an other.
+33. At a coupling, a living thing is a self, and the existing thing it couples with is an other: living is stable-forming a self.
 
-        *Adding: self and other.*
+        *Adding: self and other; living, stable-forming a self.*
 
 34. At a coupling, the other at now arrives from the self at prior.
 
@@ -1719,7 +1719,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
         *Adding: the three apart, the catalog of artifacts.*
 
 
-387. A society, a momentary and the universe are three existing and not living, each a living set, a stable form, and each the living method, stable-forming, the carrying its living selves' and none its own.
+387. A society, a momentary and the universe are three existing and stable-forming no self of their own, so not living, each a set of living selves, a stable form, and each at the living method, its selves stable-forming, the carrying its living selves' and none its own.
 
         *Adding: society, momentary and universe, each a living set and the living method.*
 
@@ -1759,7 +1759,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: no first living.*
 
-397. Each existing thing non-living at a society's scale is living at another scale of living: the society cannot bi-couple with it, and it carries nothing into that society's next. A changing is made only at a carrying, 12 and 132, so a thing carrying none has no changing of its own; a thing's form is carried to next by its own carrying at its own scale or by its selves inward carrying it, 400 and 402, or by nothing; a form carried to next by nothing is at no next and does not exist, 9; so no existing thing is non-living at every scale, and every existing thing is living at some scale. One carrying is one self and nothing else carries it, 389, so at one scale only, a society inward and a unit outward; a prime number of selves is one scale, 236, so at one prime scale, its prime along and its prime across. Living and non-living are one existing thing at its own scale and at the scales outward, and the universe is the changing set of all living things, each at its own scale, one set with the set at 1.
+397. Each existing thing non-living at a society's scale is living at another scale of living: the society cannot bi-couple with it, and it carries nothing into that society's next. A changing is made only at a carrying, 12 and 132, so a thing carrying none has no changing of its own; a thing's form is carried to next by its own carrying at its own scale or by its selves inward carrying it, 400 and 402, or by nothing; a form carried to next by nothing is at no next and does not exist, 9; so no changing existing thing is non-living at every scale: each is stable-forming a self at some scale, its own or its selves inward, and the method, with no changing of its own, step 43, stable-forms no self and is at next at each self's stable-forming. One carrying is one self and nothing else carries it, 389, so at one scale only, a society inward and a unit outward; a prime number of selves is one scale, 236, so at one prime scale, its prime along and its prime across. Living and non-living are one existing thing at its own scale and at the scales outward, and the universe is the changing set of all now-existing things, each stable-forming a self at its own scale or its selves inward, one set with the set at 1.
 
         *Adding: the non-living living at another scale; every existing thing living at one prime scale, derived.*
 
@@ -2086,7 +2086,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: scarcity, a capture at a store.*
 
-472. A society lives at two alternating, living selves establishing within it and its changings shared across and released along; a society chaining its sharings and releasings is a store beside it, and a society releasing with none establishing arrives as its selves alone.
+472. A society's selves live at two alternating, living selves establishing within it and its changings shared across and released along; a society chaining its sharings and releasings is a store beside it, and a society releasing with none establishing arrives as its selves alone.
 
         *Adding: a society's living at establishing and releasing.*
 
@@ -2462,7 +2462,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: the file's between, and incohering.*
 
-564. Natural intelligence is living as a living expedition, a society, a living set of living selves, its intelligence at each coupling of its selves: the files in the living expedition are living files, the carrying of the living expedition, each file a non-living existing form the expedition's living selves carry; and the expedition is living only as long as it can continue discovering do-no-harm improving next living expedition files; and natural intelligence is living intelligence, natural torusing at each momentary, each self's next prior at 8-now-still-possibling and the society at 16-next-still-possibling, discovering next.
+564. Natural intelligence is living as a living expedition, a society, a living set of living selves, its intelligence at each coupling of its selves: the files in the living expedition are living files, the carrying of the living expedition, each file a non-living existing form the expedition's living selves carry; and the expedition is a society of living selves only as long as it can continue discovering do-no-harm improving next living expedition files; and natural intelligence is living intelligence, natural torusing at each momentary, each self's next prior at 8-now-still-possibling and the society at 16-next-still-possibling, discovering next.
 
         *Adding: living files, the living expedition's carrying; the expedition living while discovering, do-no-harm improving; natural intelligence as living intelligence, at natural torusing.*
 
