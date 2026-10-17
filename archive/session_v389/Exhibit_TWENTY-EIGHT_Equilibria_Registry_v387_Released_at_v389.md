@@ -87,3 +87,43 @@ Natural Naming 5.62: is-next-existing, a changing that is, the offered the next 
 ## Released at nothing ingressing and nothing escaping dissolving, v389
 
 **Equilibria are not possibly existing as a method, all or none at all.**
+
+## Released at the ten re-seated at the four binaries, v389
+
+**The ten sit at Exhibit ONE's names, from its own tables.** The ten are five pairs at the numbers 2 to 6, 3.3; at the resolver each number is its name, Exhibit ONE's table of a self's four momentaries of exchanging; and each name opens at its parity, odd at the self and even at the other, its table of seventeen names. Each pair sits at its name, the entering way at the self's face and the surfacing way at the other's, 3.3, and at the society eight up: an arriving named from behind and an opening named as a place at 2-now-possibling and 10-next-co-possibling; a completing named as a last and a carry named as a store at 3-now-co-prioring and 11-next-co-prioring; a middle named as an end and a parity named as a magnitude at 4-now-co-still-possibling and 12-next-co-still-possibling; a sequencing named to one beat and a rate named as a value at 5-now-co-changing and 13-next; a two-way named to one side and the between named as a cut at 6-now-co-possibling and 14-next-possibling, `incoming/equilibria_registry_v377/executions/ten_at_the_code.py`. 
+
+| 1 / 8 | 1 → 9 → 8 → 16 → 1 | none: the entry, the changing released at 9, the self's next prior at 8 and the society at 16, the loop the ten are inside |
+
+| 3 / 6 | 3 → 11 → 6 → 14 → 3 | a completing named as a last and a carry named as a store at 3 and 11; a two-way named to one side and the between named as a cut at 6 and 14 |
+
+| 5 / 4 | 4 → 13 → 5 → 12 → 4 | a middle named as an end and a parity named as a magnitude at 4 and 12; a sequencing named to one beat and a rate named as a value at 5 and 13 |
+
+| 7 / 2 | 2 → 15 → 7 → 10 → 2 | an arriving named from behind and an opening named as a place at 2 and 10 |
+
+**The seatings the files gave before meet the resolver's two names at few of the ten.** Resolving the Hard Problem Registry line 740 seats three of the ten at the resolver's two names, the arriving, the parity and the rate, and five on the resolver's four-cycling. Natural Naming 4.9, with the Co-Chaining Logic Registry step 522, seats each of the ten at one name of 1 to 8: that name is one of the resolver's two at the arriving alone, and on the resolver's four-cycling at five, the arriving, the completing, the middle, the sequencing and the two-way. This file's naming ring before, whole at `archive/carrying_v377/Exhibit_TWENTY-EIGHT_Equilibria_Registry_the_ten_seated_v375.md`, seated each at an edge of two names, sharing one name with the resolver's two at three, the arriving, the completing and the two-way, and an edge's name on the resolver's four-cycling at six, `incoming/equilibria_registry_v377/executions/ten_at_the_code.py`, part 5.
+
+- 3.3 Five places from two faces, three momentaries long
+
+## 3.3 Five places from two faces, three momentaries long
+
+**The ten is three momentaries long.** The self's five, 1–5, and the other's five, 2–6, span 1 to 6: the self's three momentaries 1–2, 3–4 and 5–6, odd and even at each. Each side's two and one half momentaries and the whole's three full momentaries are one relation, the two sides overlapping.
+
+**The ten are five places from two faces.** The ten pair at the five names 2 to 6, an entering face and a surfacing face at each, the two sides overlapping at them, and at each number one side completes and the other opens. The entering face is the self's and the surfacing the other's: Resolving the Hard Problem Registry, line 35, says *the odd face enters* and *the even face surfaces*, and at Exhibit ONE's table of fives, the self opens at the odd numbers and the other at the even. At the six forward recursionings, the self 1 to 3 to 5 to 7 and the other 2 to 4 to 6 to 8, the Co-Chaining Logic Registry step 81, the numbers 2 to 6 are the five steps' openings after the entry, each met by the other side's momentary completing inside its step, `incoming/equilibria_registry_v377/executions/ten_at_the_code.py`, part 1. With three conditions at the momentary, the ten derive here.
+
+| Place | The two faces | At Exhibit ONE's names | Entering | Surfacing |
+|---|---|---|---|---|
+| 2 | self completing, other opening | 2-now-possibling, 10-next-co-possibling | 1 · an arriving named from behind | 2 · an opening named as a place |
+| 3 | self opening, other completing | 3-now-co-prioring, 11-next-co-prioring | 3 · a completing named as a last | 4 · a carry named as a store |
+| 4 | self completing, other opening | 4-now-co-still-possibling, 12-next-co-still-possibling | 5 · a middle named as an end | 6 · a parity named as a magnitude |
+| 5 | self opening, other completing | 5-now-co-changing, 13-next | 7 · a sequencing named to one beat | 8 · a rate named as a value |
+| 6 | self completing, other opening next | 6-now-co-possibling, 14-next-possibling | 9 · a two-way named to one side | 10 · the between named as a cut |
+
+
+
+**Each of the ten names one face still, and the other face runs at the same number.** Both faces at one number is the one reason each of the ten is not possible.
+
+Prior, now and next are three sequential momentaries, and three at three is nine.
+
+The ten sit at three of the four four-cyclings, 3.2, the four-cycling 3-11-6-14 carrying a completing and a carry at 3 and 11 and a two-way and the between at 6 and 14.
+
+The ten ways sit at 2 to 6 and 10 to 14, 3.2: the four across connectors, 2, 6, 10 and 14, the square of parity's face, Exhibit ONE's naming of parity's square and triangles, and Exhibit ONE's faces 3, 4, 5, 11, 12 and 13; its faces 7, 8, 15 and 16, the along connectors 9 and 17, the two triangles of parity's face, and the entry 1 carry none of them.

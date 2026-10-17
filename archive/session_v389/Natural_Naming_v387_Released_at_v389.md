@@ -437,3 +437,11 @@ a handshake meeting at 2
 inside a momentary the between of self and other, parity changing, bi-moral across and co-competent along, and outside it the between of momentaries
 
 at the resolver 17-next-now calling each self's resolving and 12-next-co-still-possibling within it
+
+## Re-said at the stilling and the changing travelling through it, v389
+
+| One-way reading | Similar namings gathered | At the ten, its name and its binary |
+
+The names each was read at before, and the five each was read from, are whole at `archive/carrying_v376/Living_Improving_Value_Released_v376.md`.
+
+Bothbothing is two carried in alternation, each unconserved; prefixed, it is one exchanging named from each of its two openings.

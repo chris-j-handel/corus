@@ -395,3 +395,7 @@ and each self and each society is a universe, nothing ingressing and nothing esc
 because its selves inward live on and nothing leaves the set, 5.1.
 
 the universe, the set of all now-existing things, the changing set of all living things each at its own scale, nothing ingressing and nothing escaping.
+
+## Re-said at the stilling and the changing travelling through it, v389
+
+**Stable-forming is the living condition resolving**, observable as natural torusing co-orienting stable-forming.

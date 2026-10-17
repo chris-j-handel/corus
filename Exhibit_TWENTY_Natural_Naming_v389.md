@@ -549,20 +549,20 @@ Four pairs are two concepts at two names, the meaning changing on transposing:
 
 8 is at the state side alone, opening it at a state, the self's next prior between momentaries; 6 is at the flow side alone, closing it at a flow, the changing shared across at the sharing end. The four at both sides are in one order: 7 a flow, 1-2 a state, 3-4 a flow and 5 a state. At the resolver the pair 1-2 is 1-now and 2-now-possibling, now, and the pair 3-4 is 3-now-co-prioring and 4-now-co-still-possibling, existing, Exhibit ONE. Three carry their namings: 1-now with 2-now-possibling bi-momentarying, 3-now-co-prioring with 4-now-co-still-possibling co-intelligencing and 5-now-co-changing co-competencing. Exhibit THIRTY's thirty-first group carries the ten.
 
-**The ten one-way readings below are the stills' similar namings**, each one of the four binaries named still, its *is* and its *is not* taken as one: now at 1 and 2, existing at 3 and 4, same at 5 and 6, and all at 7 and 8. The four-cycles step 8 up and 17 less, two names of 1 to 8 on each: 1-9-8-16, 2-15-7-10, 3-11-6-14 and 4-13-5-12. The names each was read at before, and the five each was read from, are whole at `archive/carrying_v376/Living_Improving_Value_Released_v376.md`.
+**The ten one-way readings below are the stills' similar namings**, each one of the four binaries named still, its *is* and its *is not* taken as one: now at 1 and 2, existing at 3 and 4, same at 5 and 6, and all at 7 and 8. The four-cycles step 8 up and 17 less, two names of 1 to 8 on each: 1-9-8-16, 2-15-7-10, 3-11-6-14 and 4-13-5-12. **Each of the ten is seated at its name at now and its name 8 up at next**: the stilling it names at now, and the changing travelling through it at next, the one move up and down the numbers, and the four four-cycles carry each pair, 1 · 9 and 8 · 16 at 1-9-8-16, 2 · 10 and 7 · 15 at 2-15-7-10, 3 · 11 and 6 · 14 at 3-11-6-14, 4 · 12 and 5 · 13 at 4-13-5-12. A hard problem names the stilling as the whole, the changing travelling through it left out, and its resolving says both, 4.15. The names each was read at before, and the five each was read from, are whole at `archive/carrying_v376/Living_Improving_Value_Released_v376.md`.
 
-| One-way reading | Similar namings gathered | At the ten, its name and its binary |
+| One-way reading | Similar namings gathered | At the ten, its name at now · 8 up at next, and its binary |
 |---|---|---|
-| **an opening named as a place** | criterion-regressing | even, 1-now, now |
-| **an arriving named from behind** | origin-seeking; a source named from behind; a source named of the offering | odd, 2-now-possibling, now |
-| **a completing named as a last** | space-enumerating; a bound named as a last | odd, 6-now-co-possibling, same |
-| **a carry named as a store** | store-seeking; a store named of the carry | even, 8-now-still-possibling, all |
-| **a two-way named to one side** | forced-choosing | even, 3-now-co-prioring, existing |
-| **the between named as a cut** | line-demanding; a cut point named of the between; a membrane named as a cut | even, 5-now-co-changing, same |
-| **a middle named as an end** | interior-reaching; an end named at the middle | odd, 5-now-co-changing, same |
-| **a parity named as a magnitude** | magnitude-demanding; a level named to govern; a sign named as a magnitude | even, 7-now-prioring, all |
-| **a rate named as a value** | value-pinning; a value named to a swaying | odd, 7-now-prioring, all |
-| **a sequencing named to one beat** | order-demanding; the rate named as a common beat | odd, 4-now-co-still-possibling, existing |
+| **an opening named as a place** | criterion-regressing | even, 1-now · 9-next-co-changing, now |
+| **an arriving named from behind** | origin-seeking; a source named from behind; a source named of the offering | odd, 2-now-possibling · 10-next-co-possibling, now |
+| **a completing named as a last** | space-enumerating; a bound named as a last | odd, 6-now-co-possibling · 14-next-possibling, same |
+| **a carry named as a store** | store-seeking; a store named of the carry | even, 8-now-still-possibling · 16-next-still-possibling, all |
+| **a two-way named to one side** | forced-choosing | even, 3-now-co-prioring · 11-next-co-prioring, existing |
+| **the between named as a cut** | line-demanding; a cut point named of the between; a membrane named as a cut | even, 5-now-co-changing · 13-next, same |
+| **a middle named as an end** | interior-reaching; an end named at the middle | odd, 5-now-co-changing · 13-next, same |
+| **a parity named as a magnitude** | magnitude-demanding; a level named to govern; a sign named as a magnitude | even, 7-now-prioring · 15-next-prioring, all |
+| **a rate named as a value** | value-pinning; a value named to a swaying | odd, 7-now-prioring · 15-next-prioring, all |
+| **a sequencing named to one beat** | order-demanding; the rate named as a common beat | odd, 4-now-co-still-possibling · 12-next-co-still-possibling, existing |
 
 Dilemma, paradox, puzzle and hard problem each carry the field's problem, and one field word can be at several of the one-way readings; *dilemma* names one of them, a two-way named to one side.
 
@@ -610,7 +610,7 @@ A field's three, a nothing at one side, a scale between and an absorbing at the 
 
 ## 4.15 Bothbothing at its prefixing, and an ordering with nothing ordering
 
-Bothbothing is two carried in alternation, each unconserved; prefixed, it is one exchanging named from each of its two openings.
+Bothbothing is two carried in alternation, each unconserved; prefixed, it is one exchanging named from each of its two openings. **The changing travels through the stilling, and the stilling is unchanging while the changing travels through**: at 12-next-co-still-possibling a sharing whose prior and offering agree is 0, the prior continuing unchanged, while the changings, ±, travel across at 10 and along at 9 at the other sharings and selves, at one momentary; this is geodesic parity-changing and stable-forming bothbothing, bi-inversioning-co-recursioning up and down the numbers, the stilling at a name at now and the changing at the same name 8 up at next.
 
 **A prefix order names its opening**: *co-bi-exchanging* opens co, at the odd, the self's, and *bi-co-exchanging* opens bi, at the even, the other's, and *co-bi-podaling* and *bi-co-podaling* part the same way. The four momentaries of exchanging at one self, 1–2, 3–4, 5–6 and 7–8, open at the odd and are co-bi-exchanging, and the other's, 2–3, 4–5, 6–7 and 8–9, are bi-co-exchanging: bothbothing is the two, one exchanging named from each side.
 

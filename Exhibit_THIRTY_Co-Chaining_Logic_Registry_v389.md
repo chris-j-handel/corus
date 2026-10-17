@@ -2290,7 +2290,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: the two-way looping at 1 to 17.*
 
-522. Each of the ten one-way readings is at one of the ten, one binary of a universe, its *is* and its *is not* taken as one, at the four binaries' names as Natural Naming 4.9 seats them: now at 1 and 2, an opening named as a place and an arriving named from behind; existing at 3 and 4, a two-way named to one side and a sequencing named to one beat; same at 5 and 6, the between named as a cut, a middle named as an end and a completing named as a last; all at 7 and 8, a parity named as a magnitude, a rate named as a value and a carry named as a store; at the even side 8, 7, 1, 3 and 5 each named still at state accounting, and at the odd side 7, 2, 4, 5 and 6 each named still at flow accounting.
+522. Each of the ten one-way readings is at one of the ten, one binary of a universe, its *is* and its *is not* taken as one, at the four binaries' names as Natural Naming 4.9 seats them: now at 1 and 2, an opening named as a place and an arriving named from behind; existing at 3 and 4, a two-way named to one side and a sequencing named to one beat; same at 5 and 6, the between named as a cut, a middle named as an end and a completing named as a last; all at 7 and 8, a parity named as a magnitude, a rate named as a value and a carry named as a store; at the even side 8, 7, 1, 3 and 5 each named still at state accounting, and at the odd side 7, 2, 4, 5 and 6 each named still at flow accounting; and each of the ten is seated at its name at now and that name 8 up at next, the stilling it names and the changing travelling through it, 1 · 9, 2 · 10, 3 · 11, 4 · 12, 5 · 13, 6 · 14, 7 · 15 and 8 · 16, each pair at one four-cycle, step 257.
 
         *Adding: the ten one-way readings at the ten, at the four binaries.*
 
@@ -2314,7 +2314,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: the three books, one parity alone.*
 
-528. Parity changing geodesically, by alternating and bothbothing, carries both, one at a time: state-flow-state at the even and flow-state-flow at the odd, alternating.
+528. Parity changing geodesically, by alternating and bothbothing, carries both, one at a time: state-flow-state at the even and flow-state-flow at the odd, alternating: the changing travelling through the stilling and the stilling unchanging while the changing travels through, bi-inversioning-co-recursioning up and down the numbers, step 255.
 
         *Adding: parity changing carrying both.*
 

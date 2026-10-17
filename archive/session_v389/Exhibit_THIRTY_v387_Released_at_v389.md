@@ -527,3 +527,9 @@ a self-emptying set; nothing ingressing and nothing escaping.*
 *Adding: nothing escaping.*
 
 arriving as non-living; nothing escaping; decay
+
+## Re-said at the stilling and the changing travelling through it, v389
+
+522. Each of the ten one-way readings is at one of the ten, one binary of a universe, its *is* and its *is not* taken as one, at the four binaries' names as Natural Naming 4.9 seats them: now at 1 and 2, an opening named as a place and an arriving named from behind; existing at 3 and 4, a two-way named to one side and a sequencing named to one beat; same at 5 and 6, the between named as a cut, a middle named as an end and a completing named as a last; all at 7 and 8, a parity named as a magnitude, a rate named as a value and a carry named as a store; at the even side 8, 7, 1, 3 and 5 each named still at state accounting, and at the odd side 7, 2, 4, 5 and 6 each named still at flow accounting.
+
+528. Parity changing geodesically, by alternating and bothbothing, carries both, one at a time: state-flow-state at the even and flow-state-flow at the odd, alternating.

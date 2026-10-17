@@ -444,3 +444,5 @@ Each is a changing made at the set this session, said once here so that this fil
 **Entered · v389.** The registry v389 says each of its sixteen older names at its number as the numbered name of Exhibit ONE v389, at each of their 812 places, its part headings among them; the older names' list stands whole at `archive/session_v389/`.
 
 **Droplet · v389 · the part headings at the four binaries, at this registry's own motion.** The registry's ten parts seat each of the ten named still at two names eight apart, its arrivals read at the names of their part; Natural Naming 4.9 seats each of the ten at one name of 1 to 8, at the four binaries, now at 1 and 2, existing at 3 and 4, same at 5 and 6 and all at 7 and 8, and the Co-Chaining Logic Registry step 522 follows it. The registry's next motion re-seats its part headings and its readings at the four binaries, each part at its binary's *is* and *is not*, the arrival readings at each name gathered with their sentences.
+
+**Entered · v389.** The droplet above rose at v389: the ten at one seating, each at its name at now and that name 8 up at next, the stilling and the changing travelling through it.
