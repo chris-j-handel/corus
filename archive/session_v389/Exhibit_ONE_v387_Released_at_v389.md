@@ -2,7 +2,7 @@ Exhibit ONE v387, released at v389
 
 # Exhibit ONE v387: the passages released at v389
 
-**Receiving.** Exhibit ONE v389 carries the resolver, its names and its tables at the numbered names, at the naming motion of the session v389; each passage here stands whole as v387 carried it, relied on by nothing.
+**Receiving.** Exhibit ONE v389 carries the resolver, its names and its tables at the numbered names, at the naming motion of the session v389; each passage here stands as v387 carried it, at the extent the motion re-said, its whole sentence at v387 in the repository's history, relied on by nothing.
 
 **The names at their two readings, and the six at their parity.** Fourteen of the seventeen names have prefixes that read the same in either order, 2, 4, 6 and 8 bi-co-bi, 10, 12, 14 and 16 bi-tri-bi, 3, 5 and 7 co-bi-co, 11, 13 and 15 tri-bi-tri; three have prefixes that read differently in the two orders, 1 co-bi-tri, 9 tri-bi-co and 17 co-bi-tri, 9 being 17 reversed. The three with a direction are the entry and the two along names, the self's own forward, odd, existing; the fourteen with none are the across names and the self's own resolving, bi-morality is or is not. Odd is existing and even is possibling, and the six names between selves say it by their numbers: 2, 6, 10 and 14, even, across, possibling, the changing shared at 6 and 10 the other's possibling at its 2 and 14; 9 and 17, odd, along, existing, 9 the next prior and 17 the next now. Each self's existing is the other self's possibling: self and other are at opposite parity numberings, the self's odd the other's even, and a sharing across is one between: the self shares at 6 and 10, and the other is offered that changing at 2 and 14, one changing and no second thing.
 
@@ -180,15 +180,6 @@ Exhibit ONE v387, released at v389
 | 5 | the receiving sharing | 13 | the releasing sharing |
 | 7 | the parity read | 15 | the parity surfaced |
 
-**Co received, tri given on, 8 up.** Tri is the self's own given on at the society's span, 17 the scale outward carrying nothing of its own: the self's releasing is the society's, and no third stands beside the self and the other.
-
-| Co | Received | Tri, 8 up | Given on |
-|---|---|---|---|
-| 1 | the resolver entered | 9 | the resolver carrying on |
-| 3 | the carrying received | 11 | the carrying chained |
-| 5 | the receiving sharing | 13 | the releasing sharing |
-| 7 | the parity read | 15 | the parity surfaced |
-
 **Four four-cycles and their roots.**
 
 | Four-cycle: each move 8 up (n + 8), 8 down (n − 8) or 17 less (17 − n) | Root, self and society | Its two pairs 8 apart | Names between selves on it | Beside the other four-cycles |
@@ -241,3 +232,21 @@ Exhibit ONE v387, released at v389
 | eight-cycle 2-15-7-11-3-14-6-10 | 2-bi-co-bi-offering · 15-tri-bi-tri-corusing · 7-co-bi-co-corusing · 11-tri-bi-tri-chaining · 3-co-bi-co-sharing · 14-bi-tri-bi-moralizing · 6-bi-co-bi-moralizing · 10-bi-tri-bi-tunneling | bi tri co tri co bi bi bi | bi-co-bi · tri-bi-tri · co-bi-co · tri-bi-tri · co-bi-co · bi-tri-bi · bi-co-bi · bi-tri-bi | eight-cycle 1-9-5-13-4-12-8-16, spiraling the other hand | eight-cycle 2-15-7-11-3-14-6-10, itself |
 
 Selves coupled along, the last to the first, each opened carrying none, and + offered once at the first self at the first momentary: the first self chains it, colliding, and carries from then; each next self chains the parity as it arrives along one momentary on, and after n momentaries each self carries, the spiral at its one like pair, the alternating pattern of an odd spiral from the first momentary at which every self carries. A self commences at its first chaining, the parity arriving from a releasing, and from then it carries at each momentary or carries none and is non-living at its scale; a carrying of none at every momentary is no self. The lines part a thing carrying none with a parity chained at it from a self at nothing: the one saying.
+
+## Released at the fresh reading, v389
+
+| now | 1-now | the self's momentary entered | 2-now-possibling | the offerings arriving, the others' prior |
+
+| same | 5-now-co-changing | each releasing to the self receiving it at the same sharing | 6-now-co-possibling | the changings shared across, each a prior inverted |
+
+A universe is or is not existing, all, now and same, and at the self's span each binary is one bi-coupling,
+
+the binaries are the names' explaining and enter no name.
+
+| 16 | Bi-coupling | 8 up, competency asymmetry sustaining the coupling, the society winding to the self again |
+
+the next prior, the next prior, odd, existing,
+
+| 4 | **4-now-co-still-possibling** | now, the self's span | even, possibling | between two | each sharing at which the offerings and the prior meet |
+
+| 9 | **9-next-co-changing** | next, the society's span | odd, existing | between two | each changing released along, to the self 5 names |

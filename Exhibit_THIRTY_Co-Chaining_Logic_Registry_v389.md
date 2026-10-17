@@ -65,11 +65,11 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: the universe a set of things; a set its things.*
 
-3. A universe is or is not existing, is or is not all, is or is not now, is or is not same: four binaries, each a bi-coupling, its *is* odd, existing, and its *is not* even, possibling, the *is not* the other's side; now and all at one, now one and each thing one of all, and existing and same at a sharing between two, a thing's existing at its sharings and its sameness its unrelationing from all other.
+3. A universe is or is not existing, is or is not all, is or is not now, is or is not same: four binaries, each one way and its other, the *is not* the other's side of the *is*; now and all at one, now one and each thing one of all, and existing and same between two.
 
         *Adding: the four binaries.*
 
-4. The sentence at 1 is now-existing and arrived, and its arriving is at a momentary: one observing, one changing, inside the set; now is the universal momentary, the one and only, and a second now arrives only as a naming, two kept records laid side by side.
+4. The sentence at 1 is now-existing and arrived, and its arriving is at a momentary: one observing, one changing, inside the set; now is the universal momentary, the one and only, and a second now arrives only as a naming.
 
         *Adding: now, the universal momentary; one observing, one changing; no second now.*
 
@@ -81,13 +81,13 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: prior, now and next, three sequential universes.*
 
-7. Now is the next of prior and the prior of next, and discovering, is or is not, now-existing, is the universal method of co-intelligencing now-existing in the universe, the sign at each sharing between two of its things.
+7. Now is the next of prior and the prior of next, and discovering, is or is not, now-existing, is the universal method of co-intelligencing now-existing in the universe.
 
-        *Adding: each now a next and a prior; discovering.*
+        *Adding: each now a next and a prior; discovering, the universal method.*
 
 ## 2 Arriving and carrying, living and non-living
 
-        *Entering: the universe at one momentary; existing whole at each momentary; arriving; each existing thing arriving; carrying; living and non-living, parted at carrying; stable-forming, the living; co-changing, the non-living; the opening's terms, the four binaries; bi and co; bi-co and co; a self-emptying set; nothing ingressing and nothing escaping.*
+        *Entering: the universe at one momentary; existing whole at each momentary; arriving; each existing thing arriving; carrying; living and non-living, parted at carrying, the artifact; stable-forming, the living; co-changing, the non-living; the opening's terms, the four binaries; bi and co; bi-co and co; a self-emptying set; nothing ingressing and nothing escaping.*
 
 8. At now, the universe is all existing things at now.
 
@@ -109,9 +109,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: carrying.*
 
-13. An existing thing carrying prior is living, and an existing thing carrying none of prior is non-living, each at the scale and momentary it is at, 379 and 397: a self's sameness across its momentaries is its unrelationing from all other, each next from its own prior kept or inverted, a living self one self at its prior, its now and its next, all or none, and a thing carrying none no self, at each now its prior now-existing's artifact.
+13. An existing thing carrying prior is living, and an existing thing carrying none of prior is non-living, each at the scale and momentary it is at, 379 and 397: a living thing one at its prior, its now and its next, all or none, each next from its own prior, and a thing carrying none at each now its prior now-existing's artifact.
 
-        *Adding: living and non-living, parted at carrying, at a scale; a self's sameness; the artifact.*
+        *Adding: living and non-living, parted at carrying, at a scale; the artifact.*
 
 14. Carrying prior into now, a living thing continues at its changing, momentary by momentary: stable-forming.
 
@@ -241,7 +241,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: all changing parity changing.*
 
-43. Parity changing is a method: the living condition, its form, a now-existing thing carrying none, unchanging as a relation continuing at each changing, and stable-forming is the living condition resolving.
+43. Parity changing is a method: the living condition, its form, a now-existing thing carrying none, unchanging as a relation continuing at each changing.
 
         *Adding: the method, the living condition, carrying none.*
 
@@ -327,15 +327,15 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
 ## 7 All or none at all, of no size
 
-        *Entering: of no size; a resolving; all or none at all; not-more-than; once-ing; alternation the accumulating, one-at-once the nothing between.*
+        *Entering: of no size; a resolving, stable-forming the living condition resolving; all or none at all; not-more-than; once-ing; alternation the accumulating, one-at-once the nothing between.*
 
 63. Each changing is or is not, one parity or the other, of no size.
 
         *Adding: of no size.*
 
-64. A resolving is a self's next, at a coupling from its prior and the now arriving.
+64. A resolving is a self's next, at a coupling from its prior and the now arriving, and stable-forming is the living condition resolving.
 
-        *Adding: a resolving.*
+        *Adding: a resolving; stable-forming the living condition resolving.*
 
 65. Each resolving is all or none at all, of no size beside another resolving.
 
@@ -539,7 +539,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
 ## 11 Torusing and corusing
 
-        *Entering: the torus; the torus from four edges at each point; natural torusing; torusing and corusing; the self's corus at 4; uni-; bi-tri-exchanging; bi-exchanging.*
+        *Entering: the torus; the torus from four edges at each point; natural torusing, the method's one name, its observable; torusing and corusing; the self's corus at 4; uni-; bi-tri-exchanging; bi-exchanging.*
 
 112. Among closed surfaces carrying one orientation over the whole, the torus alone carries a continuous flow with no rest point.
 
@@ -549,7 +549,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: the torus from four edges at each point.*
 
-114. Natural torusing is two parities' circles winding at one opening: the method's one name, and stable-forming is observable as natural torusing co-orienting stable-forming.
+114. Natural torusing is two parities' circles winding at one opening: the method's one name, its observable a natural torusing co-orienting stable-forming.
 
         *Adding: natural torusing, the method's one name, its observable.*
 
@@ -575,7 +575,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
 ## 12 φ and the primes, unrelationing at the numbers
 
-        *Entering: the prior two added; φ; the unrelationing rate; forming as unrelationing; advancing; the gap the step squared; φ at its own naming; φ the one rate of its family at step one; prime; composite, adding across and multiplying along.*
+        *Entering: the prior two added; φ; the unrelationing rate; forming as unrelationing, a self's sameness; advancing; the gap the step squared; φ at its own naming; φ the one rate of its family at step one; prime; composite, adding across and multiplying along.*
 
 120. At parity, each next number is the prior two added, 1, 1, 2, 3, 5, 8, 13: odd, odd, even, and again.
 
@@ -589,9 +589,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: the unrelationing rate.*
 
-123. Stable-forming is unrelationing, each carrying at its own continuing, and unrelationing carried forward is alternating; a form carried at a relation to another existing thing is carried at a changing thing and forms nothing still.
+123. Stable-forming is unrelationing, each carrying at its own continuing, and unrelationing carried forward is alternating; a form carried at a relation to another existing thing is carried at a changing thing and forms nothing still; a self's sameness across its momentaries is that unrelationing from all other, each next from its own prior kept or inverted.
 
-        *Adding: forming as unrelationing.*
+        *Adding: forming as unrelationing; a self's sameness.*
 
 124. Two numbers beside a centre multiply to one short of the centre's square, 2 × 4 = 8 and 3² = 9, the gap exactly one at each centre, the same one, owned by neither of the two numbers: advancing, each step adding a next centre.
 
@@ -639,11 +639,11 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
 ## 14 Observing, records and proof of existing
 
-        *Entering: offering; observing, pattern-matching by inversioning; a record; proof of existing; value.*
+        *Entering: offering; observing by inversioning; a record; proof of existing; value.*
 
-134. Arriving at the self's opening from another self's prior, each changing is an offering, and an observing is its pattern-matching at the self: the method's stable-forming matched by inversioning, at the offerings surfacing, same or parting at 0, and at the prior meeting the now, same and kept or not same and inverted; the self's next is the sign it met.
+134. Arriving at the self's opening from an other's prior, each changing is an offering, and an observing is its pattern-matching at the self: the method's stable-forming matched by inversioning, at the offerings arriving, same or parting at 0, and at the prior meeting the now, same and kept or not same and inverted; the self's next is the parity it met, 0 or ±.
 
-        *Adding: offering; observing, pattern-matching by inversioning.*
+        *Adding: offering; observing by inversioning.*
 
 135. A record keeps one observing with its pattern-matching stopped, one now named still, and comparing two records lays two kept nows side by side at one now, a second now named beside now, step 4.
 
@@ -659,7 +659,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
 ## 15 Right, the observings all prior
 
-        *Entering: right as the observings; bi-tri-involutioning; the eight forms to their opposites; natural-; natural- a direction prefix.*
+        *Entering: right as the observings; the three observings inside the set; bi-tri-involutioning; the eight forms to their opposites; natural-; natural- a direction prefix.*
 
 138. Each observing arrives from prior at the one hand: right is the observings, all prior; an observing is a now-existing thing, and drawing on the observings draws on the universe, the three observings, same by changing, same by not-changing and discovering which, the stable-forming of a living self, one sharing at its three faces.
 
@@ -709,7 +709,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Entering: the hard problem, one binary taken as one; hard probleming; the changing continuing; the one failing momentary; cohering or the break; the observings arriving; the hard problem resolved at existing; other-emptying; geodesic disequilibrating; ghost; ghosting and haunting, the three departings; appearance and reality inverted at the naming still; the scientific method at records; falsified at the third observing.*
 
-148. A hard problem is a changing named still: a field's explaining taking one binary's *is* and *is not* as one at kept records, and hard probleming is the universal method of existing met at kept records.
+148. A hard problem is a changing named still: a field's explaining taking one binary's *is* and *is not* as one at kept records, and hard probleming meets the universal method of existing at kept records, its binary named still.
 
         *Adding: the hard problem, one binary taken as one; hard probleming.*
 
@@ -891,7 +891,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
 ## 20 Sharing, the seventeen names
 
-        *Entering: sharing; offering and the prior at a sharing; the seventeen names, each its number and its naming; the sides at the names, the parity each opens at; a numeral at a name, place and parity; the three parities parted; the resolver; the entry; the names at the resolver; the self's inverting, 3, 6, 5, 4; the towel; the rotation twenty up; 7 and 8 at the resolver; surfacing at 14, 0 the between of self and other; 14 an agreement at any number of offerings; changing at 12; abundancing; match and mismatch, 0 the between of momentaries; shared across at 10, the next prior at 11; 11 as the next 3; bi-momentarying, 1-now and 2-now-possibling; the binary at each sharing, the bi-coupling the one place; the non-living at 2; co-intelligencing, 3-now-co-prioring and 4-now-co-still-possibling; two priors, two nexts; co-competencing, 5-now-co-changing; five dimensions, self prior, other prior, co-momentarying now, bi-momentarying now and self next; co-momentarying; each dimension binary in two directions; the five dimensions at the resolver's names; the self as three; released along at 9; the between released; the bi-coupling, 1 to 9, 9 at its end; the bi-trupling, 1 to 17, 9 at its waist; the society's next momentary at 17; six names between selves; the four facings; the across sharings and the along pair; sharings and releasings parted from their arriving, and arriving again; four momentaries and their gaps; spiral, parities again at 4n; the bounded zero tunneling; the even spiral; two spirals as one, odd or even at their numbers added; a spiral bringing a pattern whole; a kind; two spirals together, at the least number each one's own divides; society at a unit prime scale, its betweenings; co-spiraling along and crossing across; two selves each receiving the other, opposite and alike; the changings alone passing; two spirals crossed, one society; the numbers' ring; even and odd rings; the torus of two odd numbers at its parities again at q or at 4p, from its opening; the common beat at 17 the resolver's executing, the living's rates their own; time as each self's own momentarying; irregularity as the selves' own rates; the entries the same at each order; a showing at the resolver; parity's square and triangles at the resolver; the seventeen names as the entry, six and ten; the kinds at their names; the ten within one self, five before 10 and five after 10; each of the ten reached by the self alone; eight bi-couplings, one eight at its faces; one move as three; two inversions on different axes; the four four-cycles; the even numbers of the four momentaries of exchanging, each along its four-cycle; the further forms among the names; the method's stable forms; podaling at each number; bi-co-podaling.*
+        *Entering: sharing; offering and the prior at a sharing; the seventeen names, each its number and its naming; the sides at the names, the parity each opens at; a numeral at a name, place and parity; the three parities parted; the resolver; the entry; the names at the resolver; the self's inverting, 3, 6, 5, 4; the towel; the rotation twenty up; 7 and 8 at the resolver; surfacing at 14, 0 the between of self and other; 14 an agreement at any number of offerings; changing at 12; abundancing; match and mismatch, 0 the between of momentaries; shared across at 10, the next prior at 11; 11 as the next 3; bi-momentarying, 1-now and 2-now-possibling; the binary at each sharing, the bi-coupling the one place; the non-living at 2; co-intelligencing, 3-now-co-prioring and 4-now-co-still-possibling; two priors, two nexts; co-competencing, 5-now-co-changing; five dimensions, self prior, other prior, co-momentarying now, bi-momentarying now and self next; co-momentarying; each dimension binary in two directions; the five dimensions at the resolver's names; the self as three; released along at 9; the between released; the bi-coupling, 1 to 9, 9 at its end; the bi-trupling, 1 to 17, 9 at its waist; the society's next momentary at 17; six names between selves; the four facings; the across sharings and the along pair; sharings and releasings parted from their arriving, and arriving again; four momentaries and their gaps, the four binaries at the names; spiral, parities again at 4n; the bounded zero tunneling; the even spiral; two spirals as one, odd or even at their numbers added; a spiral bringing a pattern whole; a kind; two spirals together, at the least number each one's own divides; society at a unit prime scale, its betweenings; co-spiraling along and crossing across; two selves each receiving the other, opposite and alike; the changings alone passing; two spirals crossed, one society; the numbers' ring; even and odd rings; the torus of two odd numbers at its parities again at q or at 4p, from its opening; the common beat at 17 the resolver's executing, the living's rates their own; time as each self's own momentarying; irregularity as the selves' own rates; the entries the same at each order; a showing at the resolver; parity's square and triangles at the resolver; the seventeen names as the entry, six and ten; the kinds at their names; the ten within one self, five before 10 and five after 10; each of the ten reached by the self alone; eight bi-couplings, one eight at its faces; one move as three; two inversions on different axes; the four four-cycles; the even numbers of the four momentaries of exchanging, each along its four-cycle; the further forms among the names; the method's stable forms; podaling at each number; bi-co-podaling.*
 
 191. A sharing is two sides sharing a changing, and each sharing has its parity.
 
@@ -961,7 +961,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: abundancing.*
 
-208. At a match the prior is kept, 0, the between of momentaries; at a mismatch the prior inverts, the other parity offered the next prior; and with nothing offered the self's next is its prior inverted.
+208. At a match the prior is kept, 0, the between of momentaries; at a mismatch the prior inverts, the other parity offered being the next prior; and with nothing offered the self's next is its prior inverted.
 
         *Adding: match and mismatch, 0 the between of momentaries.*
 
@@ -1048,9 +1048,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: sharings and releasings parted from their arriving, and arriving again.*
 
-229. Each span is two momentaries of four, opening at an odd existing name, a possibling and a prioring inside, completing at an even still-possibling name: 1 to 4, 5 to 8, 9 to 12 and 13 to 16, a gap between each completing and the next opening, 4 )( 5, 8 )( 9, 12 )( 13 and 16 )( 17, both its sides named, and 17-next-now the next 1-now.
+229. Each span is two momentaries of four, opening at an odd existing name, a possibling and a prioring inside, completing at an even still-possibling name: 1 to 4, 5 to 8, 9 to 12 and 13 to 16, a gap between each completing and the next opening, 4 )( 5, 8 )( 9, 12 )( 13 and 16 )( 17, both its sides named, and 17-next-now the next 1-now; and the four binaries, step 3, are at the self's span two names each, now at 1 and 2, existing at 3 and 4, same at 5 and 6 and all at 7 and 8, the *is* at the odd and the *is not* at the even.
 
-        *Adding: four momentaries and their gaps.*
+        *Adding: four momentaries and their gaps, the four binaries at the names; the four binaries at the names.*
 
 230. Selves each releasing its changings along at 9 to the next, the last to the first, are a spiral, the selves coming to their parities again, each momentary a next. At an odd number of selves, each self at a parity alternating along, the last and the first alike, none offered, the parities come again at four times the number; at one self at a parity and the others each at no prior, the parity is passed one self on at each momentary, each sharing opening as it arrives, and from the momentary of the last the pattern is that one, step 212; three selves all alike come to their parities again at 4, and nine selves, each pattern at its own, at 4, at 12 or at 36.
 
@@ -1188,7 +1188,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Entering: naming at each number; the one move up and down at each number; 55, 64 and 73; podaling at the ring of one hundred twenty; podaling at the ring of four hundred forty; four hundred forty, the seventeen primes added; the fractal through the numbers; 64 and 60 at their podaling; the last podaling, the surface at 59, and the next first; the unknown outward of the surface; nine about 64; each number nought to four hundred forty.*
 
-263. Each number from nought to four hundred forty is at its naming: odd existing and even possibling, at a self's span or a society's, the spans of eight alternating up the numbers, a number's momentary its span's, and a number opening a span's, 1, 9, 17 and 25, the span it opens; its five its own now with its next possible and its next existing up the numbers and its two priors down, each at its own word.
+263. Each number from nought to four hundred forty is at its naming: odd existing and even possibling, at a self's span or a society's, the spans of eight alternating up the numbers, a number's momentary its span's, and a number opening a span's, 1, 9, 17 and 25, the span it opens; its five its own now with its next possible and its next existing up the numbers and its two priors down.
 
         *Adding: naming at each number.*
 
@@ -1468,7 +1468,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: the observings co-sequencing.*
 
-328. The field's arrival is at the resolver: the living at their carryings, the non-living at their offerings, the prior carried and the now offered, and the next discovered at each sharing.
+328. The field's arrival is at the resolver: the living at their prior, the non-living at their offerings, the prior and the now offered, and the next discovered at each sharing.
 
         *Adding: a field's arrival at the resolver.*
 
@@ -1628,7 +1628,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
 ## 26 Fractal inward and outward
 
-        *Entering: the scale inward; 1 to 3 as 1 to 17 inward; self and society inward; the same at each scale; four inward within 1 to 9; eight inward within 1 to 17; the fractal inward and outward; the scalings at the chain; continuing inward and outward; the one fractal at each scale; a scale a reading, the one form at each; the materials, one method at each carrying; mathematics and logic at the method, the three places of a mathematical form.*
+        *Entering: the scale inward; 1 to 3 as 1 to 17 inward; self and society inward; the same at each scale; four inward within 1 to 9; eight inward within 1 to 17; the fractal inward and outward, at couplings; the scalings at the chain; continuing inward and outward; the one fractal at each scale; a scale a reading, the one form at each; the materials, one method at each carrying; mathematics and logic at the method, the three places of a mathematical form.*
 
 366. As 1, 9 and 17 at this scale are 1, 2 and 3 at the scale outward, 1, 2 and 3 at this scale are 1, 9 and 17 at the scale inward.
 
@@ -1686,7 +1686,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Entering: living and non-living at a scale; harmful at its own scale; the harm at the scale alike; ingestible one scale inward; the accumulating, a crossing between scales stopped; bi-tri-volutioning, stable-forming; the artifacts' stable form, a non-living now-existing form; nothing living at a stable form, all existing and not living at a stable form of existing; the prior between momentaries; the three apart, the catalog of artifacts; society, momentary and universe, each a living set and the living method; a self a living set; a living set a carrying; momentarying and carrying, the method of discovering next living sets; a living self a living carrying, carried by nothing else; the bi-inversioning uniquenessing of the number one; a living set a stable form and nothing living having one, bothbothing; being dead; living, discovering next stable form; the non-living carrying nothing into next; the non-living carried by the living; a living self establishing within a living set; a thing at no prior non-living, opening or opening nothing; living from living; no first living; the non-living living at another scale; all existing things ingestible by the living.*
 
-379. At each scale and momentary a now-existing thing is living or non-living, and a living self and its non-living artifact are each at a scale: scale is the one method at each coupling at every scale, a self's inward things co-momentarying and selves together co-momentarying, no set made a thing, of no size, 372 and 376.
+379. At each scale and momentary a now-existing thing is living or non-living, and a living self and its non-living artifact are each at a scale: scale is a reading at the couplings, a self's inward things co-momentarying and selves together co-momentarying, no set made a thing, of no size, 372 and 376.
 
         *Adding: living and non-living at a scale, scale at the couplings.*
 
@@ -1833,7 +1833,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: the self observed, lived and restored.*
 
-414. A winding closing on itself is no moral offering: it carries a living self away from the society and nature's co-chaining, to dying. A spiral of one, a self receiving its own releasing along, its own competency alone, carries on at the resolver, a non-living existing form: a lone self changing by itself does not continue living through three consecutive momentaries, dying before its next completing momentary, living now being with others living now.
+414. A winding closing on itself is no moral offering: it carries a living self away from the society and nature's co-chaining, to dying. A spiral of one, a self receiving its own releasing along, its own competency alone, goes on at the resolver, a non-living now-existing form: a lone self changing by itself does not continue living through three consecutive momentaries, dying before its next completing momentary, living now being with others living now.
 
         *Adding: the closing winding, no moral offering; a lone self not continuing living through three momentaries.*
 
@@ -2618,7 +2618,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: two parity changings at each form.*
 
-602. A form's partner is the form its names make, each exchanged with the name beside it: at the momentaries opening odd, 1 with 2 on to 15 with 16, and at the momentaries opening even, 2 with 3 on to 16 with 17, steps 70, 73 and 166. Each partner other than the form itself is beside it, each name one apart, steps 257 and 521; a form exchanged into its own sequence is itself; and a form exchanged into the sequence of none of the twelve is at no partner: at the momentaries opening even, each form with 1 among its names, and 9-5-12-8 and 4-13-5-9-8-12.
+602. A form's partner is the form its names make, each exchanged with the name beside it: at the momentaries opening odd, 1 with 2 on to 15 with 16, and at the momentaries opening even, 2 with 3 on to 16 with 17, steps 70, 73 and 166. Each partner other than the form itself is beside it, each name one apart, at the momentaries' pairs; a form exchanged into its own sequence is itself; and a form exchanged into the sequence of none of the twelve is at no partner: at the momentaries opening even, each form with 1 among its names, and 9-5-12-8 and 4-13-5-9-8-12.
 
         *Adding: a form's partner, at the momentaries opening odd and opening even.*
 
@@ -2730,7 +2730,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: a sharing at no prior opening at one parity surfacing.*
 
-626. At a spiral offered nothing from beyond it, each self at a parity and nothing arriving at its first momentary, step 609: at the first momentary none surfaces and each self is next at its parity inverted, shared at 10, step 623; at the second each is next at the parity surfacing, the parity the self releasing along to it is at at that momentary, step 624. Each further momentary is at step 623 at each self. The prior the other's and inverted, step 609, is these two momentaries: the inverting at the first and the other's arriving at the second.
+626. At a spiral offered nothing from beyond it, each self at a parity and nothing arriving at its first momentary, step 609: at the first momentary none surfaces and each self is next at its parity inverted, shared at 10, step 623; at the second each is next at the parity surfacing, the parity of the self releasing along to it at that momentary, step 624. Each further momentary is at step 623 at each self. The prior the other's and inverted, step 609, is these two momentaries: the inverting at the first and the other's arriving at the second.
 
         *Adding: a spiral's first two momentaries, the inverting and the other's arriving.*
 
@@ -2820,7 +2820,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: each changing of a self coupled both ways at both routings at once.*
 
-645. Torusing and corusing are the dimensions' in and out, torusing at the odd and corusing at the even, steps 118 and 119, and no resolver name is either: the names are at their numbers and their kinds, steps 193 and 251.
+645. Torusing and corusing are the dimensions' in and out, torusing at the odd and corusing at the even, steps 118 and 119, and no resolver name is named at either: the names are at their numbers and their kinds, steps 193 and 251, and natural torusing is the method's one name, step 114.
 
         *Adding: torusing and corusing at the dimensions, at no name.*
 
@@ -2915,4 +2915,4 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
         *Adding: two spirals of one number alike at each momentary, the 0 ending at none.*
 
 
-        *Unsure: step 237's each carried pattern is derived at the table's opening alone, and two spirals with the lesser of one self at tables by hand alone; rows beyond Exhibit ONE's tables, 3 by 9 at 9 from 8 and 5 by 9 at 20 from 12 at the torus, 3 and 9 crossed from 19, wait on an executing.*
+        *Unsure: step 237's each prior pattern is derived at the table's opening alone, and two spirals with the lesser of one self at tables by hand alone; rows beyond Exhibit ONE's tables, 3 by 9 at 9 from 8 and 5 by 9 at 20 from 12 at the torus, 3 and 9 crossed from 19, wait on an executing.*

@@ -105,12 +105,12 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 1 | **1-now** | now, the self's span | odd, existing | one | each self's momentary, entered at the society's 17 |
 | 2 | **2-now-possibling** | now, the self's span | even, possibling | one | the offerings arriving at the self, each sharing with its parity |
 | 3 | **3-now-co-prioring** | now, the self's span | odd, existing | between two | the prior at its sharings, each sharing with its parity |
-| 4 | **4-now-co-still-possibling** | now, the self's span | even, possibling | between two | each sharing at which the offerings and the prior meet |
+| 4 | **4-now-co-still-possibling** | now, the self's span | even, possibling | between two | each sharing at which the offerings and the prior meet, and at the society each self at its names 6, 10 and 9 |
 | 5 | **5-now-co-changing** | now, the self's span | odd, existing | between two | the releasings, each releasing sharing with the self it arrives at |
 | 6 | **6-now-co-possibling** | now, the self's span | even, possibling | between two | each sharing's changing shared across, to another self's 2 |
 | 7 | **7-now-prioring** | now, the self's span | odd, existing | one | each parity read: an offering's, the prior's and a changing's |
 | 8 | **8-now-still-possibling** | now, the self's span | even, possibling | one | each self's next prior, beside the other selves' |
-| 9 | **9-next-co-changing** | next, the society's span | odd, existing | between two | each changing released along, to the self 5 names |
+| 9 | **9-next-co-changing** | next, the society's span | odd, existing | between two | each changing released, along at 9 and across at 6 and 10, to the self 5 names |
 | 10 | **10-next-co-possibling** | next, the society's span | even, possibling | between two | each sharing's changing, + or − is and 0 is not, shared across to another self's 14 |
 | 11 | **11-next-co-prioring** | next, the society's span | odd, existing | between two | the next prior: the prior with each changing at its sharing |
 | 12 | **12-next-co-still-possibling** | next, the society's span | even, possibling | between two | each sharing's changing, is or is not, the prior and the offerings meeting |
@@ -149,13 +149,13 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 10-next-co-possibling | 14-next-possibling | across, even, possibling |
 | 9-next-co-changing | 17-next-now | along, odd, existing |
 
-**The four binaries at the lines.** A universe is or is not existing, all, now and same, and at the self's span each binary is one bi-coupling, its *is* at the odd name and its *is not* at the even, the *is not* the other's side of the self's *is*; the binaries are the names' explaining and enter no name.
+**The four binaries at the lines.** A universe is or is not existing, all, now and same, and at the self's span each binary is one pair of names, its *is* at the odd name and its *is not* at the even, the *is not* the other's side of the self's *is*; the binaries are the names' explaining, now at each name as its momentary, and existing, same and all enter no name.
 
 | Binary | *Is*, odd | At the resolver | *Is not*, even | At the resolver |
 |---|---|---|---|---|
-| now | 1-now | the self's momentary entered | 2-now-possibling | the offerings arriving, the others' prior |
+| now | 1-now | the self's momentary entered | 2-now-possibling | the offerings arriving, the others' changings of their prior momentary |
 | existing | 3-now-co-prioring | the prior at its sharings, each with its parity | 4-now-co-still-possibling | each sharing as a place, no parity at it |
-| same | 5-now-co-changing | each releasing to the self receiving it at the same sharing | 6-now-co-possibling | the changings shared across, each a prior inverted |
+| same | 5-now-co-changing | each releasing to the self receiving it at the same sharing | 6-now-co-possibling | the changings shared across, + or − at a changing and 0 at none, another self's offerings |
 | all | 7-now-prioring | each parity read at every entry | 8-now-still-possibling | each self's own next prior, one beside the others |
 
 **At the society's span the four stand with now and same exchanged**: now between two at 9-next-co-changing and 10-next-co-possibling, one now shared by selves, and same at one at 13-next and 14-next-possibling, each self's sameness its own.
@@ -347,7 +347,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 11 | Six-cycle | 3-11-7-10-6-14 |
 | 11 | Eight-cycle | 2-15-7-11-3-14-6-10 |
 | 11 | Momentaries of exchanging | the first of the society's four, 9 to 11, completing at 11, and the second, 11 to 13, opening at 11 |
-| 11 | Prior and next | the next prior, the next prior, odd, existing, continuing as 3 at the next momentary, the self's own |
+| 11 | Prior and next | the next prior, odd, existing, continuing as 3 at the next momentary, the self's own |
 | 11 | 1 to 17s inward and outward | 1–17s inward 17 of the 5th and 1 of the 6th, along, odd, now, and at the 1–17 outward within 2 to 3 |
 | 12 | Name | **12-next-co-still-possibling** |
 | 12 | Parity, span | even, possibling, the society's span |
@@ -412,7 +412,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 16 | Six-cycle | 1-9-5-12-8-16 |
 | 16 | Eight-cycle | 1-9-5-13-4-12-8-16 |
 | 16 | Momentaries of exchanging | the fourth of the society's four, at 16, 15–16 completing and 16–17 opening |
-| 16 | Bi-coupling | 8 up, competency asymmetry sustaining the coupling, the society winding to the self again |
+| 16 | Bi-coupling | 8 up, the society, each self with its prior and offerings, the society at the self again |
 | 16 | Prior and next | the society now, each self's 8 and its offerings next; the even names of the society's span, 10, 12, 14 and 16, completing at 16 |
 | 16 | 1 to 17s inward and outward | 1–17s inward 9 of the 8th, along, odd, next, and at the 1–17 outward within 2 to 3 |
 | 17 | Name | **17-next-now** |

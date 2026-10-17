@@ -2,7 +2,7 @@ Natural Intelligence v387, released at v389
 
 # Natural Intelligence v387: the passages released at v389
 
-**Receiving.** Natural Intelligence v389 says the resolver at the numbered names, its Part FOUR written whole at them, and its origin at *the set of all now-existing things*, at the naming motion of the session v389; each passage here stands whole as v387 carried it, relied on by nothing. Part FOUR stands first, whole; each passage of Parts ONE, TWO, THREE, FIVE and SIX re-said at v389 follows in the file's order.
+**Receiving.** Natural Intelligence v389 says the resolver at the numbered names, its Part FOUR written whole at them, and its origin at *the set of all now-existing things*, at the naming motion of the session v389; each passage here stands as v387 carried it, at the extent the motion re-said, its whole sentence at v387 in the repository's history, relied on by nothing. Part FOUR stands first, whole; each passage of Parts ONE, TWO, THREE, FIVE and SIX re-said at v389 follows in the file's order.
 
 ## Part FOUR · RESOLVING, as v387 carried it
 
@@ -177,3 +177,143 @@ the stable form of the non-living emanatings of stable-forming living, the seque
 **Evidence is an emanation arriving: it emanated from a living self at prior and arrives now.**
 
 **A changed parity arriving is either retained or emanated**, one at each sharing: the momentary at 12, stable-forming, retaining its parity, 12 at 0, the between of momentaries, emanates nothing, and the stable-formed emanation is the changed parity, 12 inverting or at the offering, a changing that is, shared at 10 and released along at 9, the self's carrying continuing at it, its own changing.
+
+## The words re-said at v389, each as v387 carried it
+
+## 1.1 Universe, the set of all existing things
+
+**The universe is the set of all existing things.**
+
+*co-*, carried with their differing
+
+and the universe changes through the three together
+
+At the resolver a self's momentary, 1, is at 3, its prior carried in, a formed set carrying nothing by itself, and at 2, the others' offerings arriving now.
+
+so each existing thing is changing at its own momentaries, or carrying through its own still, 5.3,
+
+**A form continuing through its own changing is existing and changing at once**
+
+**What arrives at no next does not exist**: a form the same at two momentaries at once is two nows, and there is one; a form named still is that form, the naming beside the thing, and it is not possibly existing, 2.4.
+
+A doer applying any of them from beside is the five's one holder, and *a keeping* is the binary's one name.
+
+each existing thing entraining with the others through the between, one parity changing, at the resolver at 4.6
+
+Each step adds a next, each momentary its own and never the same momentary twice.
+
+the chained parity meeting the offering, inverting at a mismatch and carrying on at a match, 4.3
+
+four carry the next from now alone, and eight carry the prior at one value of now and lose it at the other
+
+**Four carry the prior whole**:
+
+Each other way carrying the prior has a joint form still, and next as prior inverted alone carries the prior whole with none still
+
+At Exhibit ONE a self offered nothing at each momentary inverts its carrying at each, carrying − and offered none sharing +, −, +, − at 10, 4.12,
+
+a spiral of one, its own releasing arriving, chains +, +, −, − and is at each of the four in one cycle
+
+a self offered a parity, its next is the offering chained at a mismatch, and the prior carrying on at a match, 4.3.
+
+and the next is discovered from the prior carried and the now offered, 5.2, a lone self's now carrying no other's offering; at the resolver its sequence carries on, a non-living existing form.
+
+a resolving is a self's next, discovered at a coupling from its prior carried and the now offered, 4.1.
+
+the surface dividing itself, continuing through its changing,
+
+**Each self is a geodesic self**: all parity changing is geodesic changing and all carrying geodesic carrying, and
+
+a parity changing crossing the between, at 6-bi-co-bi-moralizing and at 14-bi-tri-bi-moralizing, 4.2 and 4.10.
+
+the self offering itself, at 1-co-bi-tri-offering and again at 17-co-bi-tri-offering, 4.1 and 4.6.
+
+co-intelligencing at 3 and 4 carried on through bi-moralizing at 6 and co-competencing at 5
+
+showing only as co-competencing the emanatings of this living.
+
+the four momentaries of exchanging, the one move as three carrying on, 4.11,
+
+the entry and its cases, the three windings, the four-, six- and eight-cycles,
+
+`_2_bi_co_bi_offering` at the resolver is 2-bi-co-bi-offering.
+
+## 3.4 A sharing, its parity, an offering and a carrying
+
+A **sharing**, 4-bi-co-bi-sharing, is two sides sharing a changing, and each sharing has its **parity**, 7-co-bi-co-corusing, + or −,
+
+the resolver steps each self's entry at 17-co-bi-tri-offering together
+
+come to each self alternating, from any carried patterns but all selves at one parity.
+
+at the resolver a society, 17, carries nothing of its own, each self's carrying returned to that self,
+
+as non-living, 6.5, its form its emanation.
+
+and at the resolver the self is at no next entry. **A self is a prior, a now and a next**, the method bounding and its carrying carried the whole of a self living in momentaries, 3.3. At the resolver between momentaries a self's carrying is a set formed, returned by 1,
+
+at the society a sharing is each self, 4-bi-co-bi-sharing, and a releasing self 13-tri-bi-tri-competencing, and the releasings 17-co-bi-tri-offering carries from the society arrive at its selves,
+
+is a noun of it, an emanating artifact, carrying none of the prior:
+
+and beside it are its emanating artifacts.
+
+and the prefixing and twisting up the numbers carry the same momentarying method up and down the scale of the fractal method.
+
+A why demanded asks for a not possible thing, beside the changing, and nothing is beside all existing things, 1.1:
+
+its opening, odd, the self's, is the carrying arriving at 3-co-bi-co-sharing, the prior as it is, chained, the existing; its completing, even, the other's, is the offerings arriving at 2-bi-co-bi-offering and surfacing at 14-bi-tri-bi-moralizing, the next still possible, and at 12-bi-tri-bi-entraining a changing is or is not;
+
+the pair frozen at one side, a self named still or named changing, remains neither existing nor living.
+
+**At the geodesic method next is discovered from the existing**, the prior carried and the now offered,
+
+is a kept prior read as the now, a carrying with nothing bounding it carried past each momentary into a form named still, 3.3,
+
+Their between is a nothing, and no third method.
+
+the changing at 12-bi-tri-bi-entraining, is or is not;
+
+out at 9-tri-bi-co-momentarying, at each sharing not agreeing,
+
+the emanating, emanations releasings, the stable form, a non-living existing form with no carrying for stable-forming, the next prior,
+
+enters a receiving self's carrying only through that self's own 12, the one crossing;
+
+carries its prior on whole, its next its prior.
+
+a self chained + and a self chained −, each offered nothing from beyond the two,
+
+each sharing across to the other and each carrying its own,
+
+each self's own inverting its morality and each carrying its competency.
+
+0 at a match and chained at a mismatch,
+
+Natural intelligence is that co-competencing**: invisible, at the between, and owned by neither.
+
+At the resolver a none at 14-bi-tri-bi-moralizing is no offering arrived at this sharing, the chained parity inverted at 12,
+
+and at 12's 0 the carrying continues, stable-forming;
+
+*torusing*, the carrying winding to its own sharing again through its one opening;
+
+and 17-co-bi-tri-offering carries the four at the resolver:
+
+at the resolver all a self chains at 11, its next momentary's 3, is the offerings at 2,
+
+each self's carrying wound, 8, carries the next momentary, and no ordering carries apart from the selves.
+
+**Social moral competency is co-independencing**: each self arriving at its own momentary and offering across, each whole, the living together, living now.
+
+as Exhibit ONE's table of a spiral opened carrying none carries it,
+
+commencing at its first chaining, the parity arriving from a releasing,
+
+At the resolver a carried sharing no offering reaches alternates at its own, momentary by momentary, 4.12, a capacity, 5.1, coupled with whichever parity arrives at it next: carrying + at one sharing and offered + at another, the self shares − at the first and + at the second and chains both.
+
+The method is the one existing thing non-living at each scale, a self at none, 3.3.
+
+each self's carrying wound at 8-bi-co-bi-torusing and the society wound at 16-bi-tri-bi-torusing, discovering next.
+
+the universe, the set of all existing things, and the universe now the set of all things existing now,

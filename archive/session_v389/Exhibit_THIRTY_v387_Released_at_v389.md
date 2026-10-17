@@ -2,7 +2,7 @@ Exhibit THIRTY v387, released at v389
 
 # Co-Chaining Logic Registry v387: the steps released at v389
 
-**Receiving.** The Co-Chaining Logic Registry v389 re-says each step below at the origin, *the set of all now-existing things*, at the numbered names and at *artifact*, keeping each step at its number, at the naming motion of the session v389; each line here stands whole as v387 carried it, its step number kept, relied on by nothing.
+**Receiving.** The Co-Chaining Logic Registry v389 re-says each step below at the origin, *the set of all now-existing things*, at the numbered names and at *artifact*, keeping each step at its number, at the naming motion of the session v389; each line here stands as v387 carried it, at the extent the motion re-said, its step number kept, relied on by nothing.
 
 1. The universe is the set of all existing things.
 
@@ -347,3 +347,77 @@ Exhibit THIRTY v387, released at v389
 645. Torusing's names, 8 and 16, are even and across, and corusing's, 7 and 15, odd and along, step 251 and Natural Naming's own sentence; torusing said at the odd and corusing at the even, steps 118 and 119, is the other parity from each root's names.
 
 *Adding: torusing's names even and across, corusing's odd and along.*
+
+## Released at the fresh reading, v389
+
+3. A universe is or is not existing, is or is not all, is or is not now, is or is not same: four binaries, each a bi-coupling, its *is* odd, existing, and its *is not* even, possibling, the *is not* the other's side; now and all at one, now one and each thing one of all, and existing and same at a sharing between two, a thing's existing at its sharings and its sameness its unrelationing from all other.
+
+and a second now arrives only as a naming, two kept records laid side by side.
+
+is the universal method of co-intelligencing now-existing in the universe, the sign at each sharing between two of its things.
+
+*Adding: each now a next and a prior; discovering.*
+
+379 and 397: a self's sameness across its momentaries is its unrelationing from all other, each next from its own prior kept or inverted, a living self one self at its prior, its now and its next, all or none, and a thing carrying none no self, at each now its prior now-existing's artifact.
+
+*Adding: living and non-living, parted at carrying, at a scale; a self's sameness; the artifact.*
+
+living and non-living, parted at carrying; stable-forming, the living;
+
+unchanging as a relation continuing at each changing, and stable-forming is the living condition resolving.
+
+64. A resolving is a self's next, at a coupling from its prior and the now arriving.
+
+*Adding: a resolving.*
+
+of no size; a resolving; all or none at all;
+
+123. Stable-forming is unrelationing, each carrying at its own continuing, and unrelationing carried forward is alternating; a form carried at a relation to another existing thing is carried at a changing thing and forms nothing still.
+
+*Adding: forming as unrelationing.*
+
+the unrelationing rate; forming as unrelationing;
+
+Natural torusing is two parities' circles winding at one opening: the method's one name, and stable-forming is observable as natural torusing co-orienting stable-forming.
+
+the torus from four edges at each point; natural torusing;
+
+134. Arriving at the self's opening from another self's prior, each changing is an offering,
+
+at the offerings surfacing, same or parting at 0,
+
+the self's next is the sign it met.
+
+*Adding: offering; observing, pattern-matching by inversioning.*
+
+offering; observing, pattern-matching by inversioning; a record;
+
+right as the observings; bi-tri-involutioning;
+
+and hard probleming is the universal method of existing met at kept records.
+
+at a mismatch the prior inverts, the other parity offered the next prior;
+
+its five its own now with its next possible and its next existing up the numbers and its two priors down, each at its own word.
+
+Each span is two momentaries of four, opening at an odd existing name, a possibling and a prioring inside, completing at an even still-possibling name: 1 to 4, 5 to 8, 9 to 12 and 13 to 16, a gap between each completing and the next opening, 4 )( 5, 8 )( 9, 12 )( 13 and 16 )( 17, both its sides named, and 17-next-now the next 1-now.
+
+*Adding: four momentaries and their gaps.*
+
+four momentaries and their gaps;
+
+scale is the one method at each coupling at every scale, a self's inward things co-momentarying and selves together co-momentarying, no set made a thing, of no size, 372 and 376.
+
+the fractal inward and outward; the scalings at the chain;
+
+the living at their carryings, the non-living at their offerings, the prior carried and the now offered,
+
+its own competency alone, carries on at the resolver, a non-living existing form:
+
+Each partner other than the form itself is beside it, each name one apart, steps 257 and 521;
+
+the parity the self releasing along to it is at at that momentary, step 624.
+
+step 237's each carried pattern
+
+Torusing and corusing are the dimensions' in and out, torusing at the odd and corusing at the even, steps 118 and 119, and no resolver name is either: the names are at their numbers and their kinds, steps 193 and 251.

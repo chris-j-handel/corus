@@ -302,3 +302,53 @@ Existing, emanation and accounting are the three placings a term is at; installi
 **An emanation is harmful to living at its own scale, and not ingestible at that scale**: its form is bi-tri-involutioning, the opposite form, which does not match right spiral ingestion. **One scale lower it is an ingestible stable form**, ingested by living selves through their selves one scale inward, a society, a living set.
 
 **Living or non-living is said of the existing thing and the scale named, at its own carrying or carrying nothing.** A living self stable-forms through its own resolving and carrying; its artifact, non-living at its own scale, changes with its form continuing through its changing, carrying nothing and needing no carrying in it; and a receiving self, or a society's selves, couples with it, each carrying its own.
+
+## Released at the fresh reading, v389
+
+**The universe is the set of all existing things.** Arriving from prior into now toward next it is the changing set of all existing things,
+
+co-chains from the opening sentence**, the universe the changing set of all existing things, living and non-living.
+
+1  the universe is the set of all existing things, changing, the living and the non-living each at its scale
+
+and nothing beside all existing things for a changing to be drawn from;
+
+at a mismatch the offered the next prior at do-no-harm, binary.
+
+**The self's inversion is 3, 6, 5, 4**: co-sharing out at 3, moralizing in at 6, competencing out at 5 and bi-sharing in at 4,
+
+The five dimensions are at the resolver's names, three carryings: 1 self prior and 2 other prior, the two bi-, the differing, are 1-2, bi-momentarying, the offering both ways, the handshake;
+
+the three carryings inseparable at the whole coupling,
+
+**The five dimensions are at the resolver's names, three carryings**: 1 self prior and 2 other prior, the two bi-, the differing, 1-2,
+
+The five dimensions are three carryings at the resolver's names,
+
+and at 9 the carrying along, the white paper 4.5.
+
+each of the three carryings carries its six steps whole
+
+Three carryings and the coupling at two directions, (3 + 1) × 2,
+
+**A root carries the changing at each of its prefixings**: co-bi-offering and bi-co-offering carry offering, at 1 and 2, bi-competencing and co-competencing
+
+3  the offering goes both ways, co-bi at the self and bi-co at the other
+
+an offering is across and both ways, co-bi at the self and bi-co at the other, and co- always with bi-.
+
+torusing in and out is odd and corusing in and out is even, 3.6.
+
+is **the method's unrelationing**, 3.6.
+
+the long way round, 3.6 and 5.50,
+
+and at the self's span each binary is one bi-coupling, its *is* at the odd name and its *is not* at the even:
+
+not now, the others' prior arriving;
+
+**The four binaries are the names' explaining and enter no name**,
+
+| *keep*, *keeps*, *keeping* at the set's own voice | *carry*, *carries*, *continuing*: a keeping names a store held still, and each existing thing is changing |
+
+*+* and *−* a sharing's parity, and *0* the between, at 14 the offerings parting and at 12 prior and now agreeing |
