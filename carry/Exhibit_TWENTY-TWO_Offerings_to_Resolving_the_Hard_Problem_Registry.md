@@ -438,3 +438,9 @@ Each is a changing made at the set this session, said once here so that this fil
 **Droplet · v389 · a hard problem at the four binaries.** A hard problem is one binary of a universe, its *is* and its *is not* taken as one at kept records, and its resolving says the binary again, is or is not, at each now.
 
 **Droplet · v389 · re-said once.** The droplets following the older seating are re-said at this one, the gathered insertlets at the Co-Chaining Logic Registry's group 31 and group 17 and at Natural Intelligence 5.4 re-said in place, and Resolving the Hard Problem Registry's part headings, at pairs eight apart, are re-seated at Natural Naming 4.9's names at its own motion.
+
+## The naming motion at Resolving the Hard Problem Registry · v389
+
+**Entered · v389.** The registry v389 says each of its sixteen older names at its number as the numbered name of Exhibit ONE v389, at each of their 812 places, its part headings among them; the older names' list stands whole at `archive/session_v389/`.
+
+**Droplet · v389 · the part headings at the four binaries, at this registry's own motion.** The registry's ten parts seat each of the ten named still at two names eight apart, its arrivals read at the names of their part; Natural Naming 4.9 seats each of the ten at one name of 1 to 8, at the four binaries, now at 1 and 2, existing at 3 and 4, same at 5 and 6 and all at 7 and 8, and the Co-Chaining Logic Registry step 522 follows it. The registry's next motion re-seats its part headings and its readings at the four binaries, each part at its binary's *is* and *is not*, the arrival readings at each name gathered with their sentences.
