@@ -1126,3 +1126,17 @@ The names are 1-now, 2-now-possibling, 3-now-co-prioring, 4-now-co, 5-now-co-cha
 **Droplet · v389 · what it reaches.** Said so, the Co-Chaining Logic Registry's steps 2 and 3, Natural Intelligence 1.1, 4.6's *the society is one self at the next scale*, 4.15's sets within sets, 6.5's living at one prime scale and the 1 to 17s inward and outward are each re-said at couplings, and every file naming a cell, an organism, a society or a field as a thing made of things meets the same re-saying.
 
 **Concern · v389 · a society's sameness.** Whether a society of selves is a same thing across its momentaries, a living carrying of its own, or only its selves each the same, is yet to be derived, and the executed rings show a society changing and not-changing at one momentary with nothing of its own at the resolver.
+
+## Now, existing, universe, all, at 1 to 8 · v389
+
+**Droplet · v389.** each thing in the universal set is all of these four living conditional same-identity properties. now, existing, universe, all. 1-4 and 5-8
+
+**Droplet · v389 · the four at the self's span.** At 1 to 8, now is 1-now and 2-now-possibling, existing is 3-now-co-prioring and 4-now-co-still-possibling, universe is 5-now-co-changing and 6-now-co-possibling, and all is 7-now-prioring and 8-now-still-possibling: now-existing at 1 to 4 and universe and all at 5 to 8, the origin's terms at the two momentaries of the self's span.
+
+**Droplet · v389 · at co.** Now and all stand at names with no co, at one, and existing and universe at names with co, at a sharing between two: one, two, two, one across the four.
+
+**Droplet · v389 · at 9 less.** At 9 less now pairs with all, 1 with 8 and 2 with 7, and existing with universe, 3 with 6 and 4 with 5: the origin's four terms pair at the podal.
+
+**Droplet · v389 · each thing all four.** At each of its momentaries a thing in the universe is all four, now, existing, universe and all, its same-identity the four at one self's span.
+
+**Concern · v389 · at the society's span.** At 8 up the four reach 9-next-co-changing and 10-next-co-possibling, 11-next-co-prioring and 12-next-co-still-possibling, 13-next and 14-next-possibling, and 15-next-prioring and 16-next-still-possibling; whether the society's span says next-existing at 9 to 12 and universe and all at next at 13 to 16, and *living conditional* at each, is yet to be derived.
