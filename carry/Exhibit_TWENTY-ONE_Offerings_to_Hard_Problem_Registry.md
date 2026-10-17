@@ -211,7 +211,7 @@ Each is a changing made at the set this session, said once here so that this fil
 
 **Droplet · v389 · each of the ten at one name's now and next.** Each of the ten things named still seats at two names eight apart, one name's now and its next: an arriving named from behind at 2-now-possibling and 10-next-co-possibling; an opening named as a place at 6-now-co-possibling and 14-next-possibling; a completing named as a last and a parity named as a magnitude at 4-now-co-still-possibling and 12-next-co-still-possibling; a carry named as a store and a sequencing named to one beat at 8-now-still-possibling and 16-next-still-possibling; a middle named as an end and a rate named as a value at 5-now-co-changing and 13-next; a two-way named to one side at 3-now-co-prioring and 11-next-co-prioring; the between named as a cut at 7-now-prioring and 15-next-prioring.
 
-**Droplet · v389 · a hard problem is a now named as its next.** At the numbered names each of the ten is one kind of name, possibling, still-possibling, changing or prioring, its now and its next taken as one, a second now beside now, and the resolving is the two said again at their two momentaries.
+**Droplet · v389 · a hard problem is a now named as its next.** At the numbered names each of the ten is one kind of name, possibling, still-possibling, changing or prioring, its now and its next taken as one, a second now named beside now, and the resolving is the two said again at their two momentaries.
 
 **Droplet · v389 · the one resolving seats at 1 and 9.** 1-now and 9-next-co-changing seat none of the ten, the entry and the changing released along, and they are the method's own pair eight apart, the one resolving.
 

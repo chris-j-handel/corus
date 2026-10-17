@@ -380,7 +380,7 @@ Each is a changing made at the set this session, said once here so that this fil
 
 **Droplet · v389 · each of the ten at one name's now and next.** Each of the ten things named still seats at two names eight apart, one name's now and its next: an arriving named from behind at 2-now-possibling and 10-next-co-possibling; an opening named as a place at 6-now-co-possibling and 14-next-possibling; a completing named as a last and a parity named as a magnitude at 4-now-co-still-possibling and 12-next-co-still-possibling; a carry named as a store and a sequencing named to one beat at 8-now-still-possibling and 16-next-still-possibling; a middle named as an end and a rate named as a value at 5-now-co-changing and 13-next; a two-way named to one side at 3-now-co-prioring and 11-next-co-prioring; the between named as a cut at 7-now-prioring and 15-next-prioring.
 
-**Droplet · v389 · a hard problem is a now named as its next.** At the numbered names each of the ten is one kind of name, possibling, still-possibling, changing or prioring, its now and its next taken as one, a second now beside now, and the resolving is the two said again at their two momentaries.
+**Droplet · v389 · a hard problem is a now named as its next.** At the numbered names each of the ten is one kind of name, possibling, still-possibling, changing or prioring, its now and its next taken as one, a second now named beside now, and the resolving is the two said again at their two momentaries.
 
 **Droplet · v389 · the one resolving seats at 1 and 9.** 1-now and 9-next-co-changing seat none of the ten, the entry and the changing released along, and they are the method's own pair eight apart, the one resolving.
 
@@ -401,14 +401,14 @@ Each is a changing made at the set this session, said once here so that this fil
 **Droplet · v389 · the explanation, step by step, each step from the step before.**
 
 1. The universe is the set of all now-existing things.
-2. Now is one: a second now is a now-existing thing beside all now-existing things, and the set has nothing beside it.
+2. Now is one, and each now-existing thing is at it.
 3. A thing's prior is its now-existing at the prior-universe, and its next is possible now: prior, now and next are three momentaries, one now at each.
 4. A thing discovering its next meets two momentaries at its one now: its prior arriving, 3-now-co-prioring, and its next possibling, 14-next-possibling.
 5. That meeting is the between of the two momentaries, 12-next-co-still-possibling: a changing is or is not, at no size.
 6. Competency is that meeting at each now, each self at its own momentary sharing one now-existing with another inside a bi-coupling, co-momentarying.
 7. An observing is at one now, and its record is that now's form kept.
-8. A comparing of two records lays two kept nows side by side at one now: a second now beside now.
-9. Each of the ten hard problems is one name's now and its next taken as one, a second now beside now, at the name's two momentaries eight apart.
+8. A comparing of two records lays two kept nows side by side at one now: a second now named beside now.
+9. Each of the ten hard problems is one name's now and its next taken as one, a second now named beside now, at the name's two momentaries eight apart.
 10. Science explains between records, and the meeting of the two momentaries is at the one now, at the between, where no record stands; science meets the two records and the method of competency stays at the between of them.
 11. Hard probleming is the universal method of existing met from beside it: each hard problem is the method at one name, its now and its next, named still.
 12. The resolving says the two again at their two momentaries, and the method shows at the between: a changing is or is not, at each now.

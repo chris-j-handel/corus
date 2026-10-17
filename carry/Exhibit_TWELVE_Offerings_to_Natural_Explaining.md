@@ -574,3 +574,13 @@ Each droplet is one saying as it arrived, at its tag the section it aims at and 
 **Droplet · v389 · at the method's explaining.** At the resolver each name stands at a sign, a sharing and its parity, and no name stands at a carrying, so a sentence describing the method says the prior at 3-now-co-prioring, the next prior at 11-next-co-prioring and a self's next prior at 8-now-still-possibling, and names no carrying.
 
 **Concern · v389 · at Natural Intelligence 3.4 and Exhibit ONE.** Natural Intelligence says *a carrying is sharings, each chained at one parity, at 3-co-bi-co-sharing*, setting the carrying at a name of the method, and the arriving says the carrying is the intelligence, living and changing, not visible to the method; the two part at 3.
+
+## No second now at the origin · v389
+
+**Droplet · v389 · from the session v389.** there is no second now in the origin of this.
+
+**Droplet · v389 · the steps re-said.** The steps from the origin say now positively, *Now is one, and each now-existing thing is at it*, and *each thing is its own at all three*; a second now arrives first at step 17 as a naming, *a second now named beside now*, two kept records laid side by side, and the inverting at step 14 says each other method *a thing beside all now-existing things, not possibly existing*; re-said once here, at each place these steps are laid.
+
+**Concern · v389 · at Natural Intelligence 1.2 and the Co-Chaining Logic Registry's step 4.** Natural Intelligence 1.2 says *a second now would be a now beside now* and step 4 says *a second now a thing beside all existing things*, each at the origin naming a second now to set it aside, Natural Explaining's referent supplied to deny, and the origin carries no second now: now is one, each now-existing thing at it.
+
+**Concern · v389 · at Natural Intelligence 1.5.** 1.5 says each other method *is a second now*, and a second now is at no origin and no method; it arrives as a naming, a record kept and laid beside another, and each other method is said at what it holds, a thing beside all now-existing things.
