@@ -3082,9 +3082,9 @@ Natural intelligence is that method shared: two selves at one now, each finding 
 
 ### Hard probleming and the ten named still
 
-**Insertlet · v389 · at group 31, the ten at one name's now and next.** Each of the ten things named still seats at one name's now and its next, eight apart: an arriving named from behind at 2 and 10; an opening named as a place at 6 and 14; a completing named as a last and a parity named as a magnitude at 4 and 12; a carry named as a store and a sequencing named to one beat at 8 and 16; a middle named as an end and a rate named as a value at 5 and 13; a two-way named to one side at 3 and 11; the between named as a cut at 7 and 15; 1 and 9 seat none, the one resolving.
+**Insertlet · v389 · at group 31, the ten at the four binaries.** Each of the ten named still is one binary of a universe, its *is* and its *is not* taken as one, seated at Natural Naming 4.9's names: now, 1 and 2, an opening named as a place and an arriving named from behind; existing, 3 and 4, a two-way named to one side and a sequencing named to one beat; same, 5 and 6, the between named as a cut, a middle named as an end and a completing named as a last; all, 7 and 8, a parity named as a magnitude, a rate named as a value and a carry named as a store.
 
-**Insertlet · v389 · at group 17, hard probleming.** A hard problem is a field's explaining at the between of two momentaries, one name's now and its next taken as one, and hard probleming is the universal method of existing met at kept records; the resolving says the two again at their two momentaries.
+**Insertlet · v389 · at group 17, hard probleming.** A hard problem is a field's explaining taking one binary's *is* and *is not* as one at kept records, and hard probleming is the universal method of existing met at kept records; the resolving says the binary again, is or is not, at each now.
 
 ### The names, the eights and the momentaries
 
@@ -3107,3 +3107,15 @@ Natural intelligence is that method shared: two selves at one now, each finding 
 **Resolved · v389 · at group 19, the society's span.** At 9 to 16 the four binaries stand with now and same exchanged, now between two at 9 and 10, one now shared by selves, and same at one at 13 and 14, each self's sameness its own: the society's face of the four.
 
 **Resolved · v389 · at group 24, beneficial.** Beneficial is each changing and not-changing the method gives, each keeping a self next-existing as itself, and its other is a not-changing held still, never the method's.
+
+## The ten named still at the four binaries, re-seated · v389
+
+**Droplet · v389.** in steady passes as patient as needed to review each for the values of natural naming and explaining and the geodesic method of co chaining and cohering our living files we can be improving the next versions of each of these files one, thirty, natural intelligence and twenty
+
+**Droplet · v389 · two seatings found.** Natural Naming 4.9 seats the ten named still at one name each of 1 to 8, and Resolving the Hard Problem Registry v375 seats them at pairs eight apart; this session's droplets *each of the ten at one name's now and next*, *a hard problem is a now named as its next*, *the one resolving seats at 1 and 9*, *the ten at the four kinds* and the hard-problem step of the explanation followed the older seating.
+
+**Droplet · v389 · the ten at the four binaries.** At Natural Naming 4.9's seating each of the ten is one of the four binaries named still: now at 1 and 2, an opening named as a place and an arriving named from behind, now located and now's arriving set behind it; existing at 3 and 4, a two-way named to one side and a sequencing named to one beat, existing at its sharings named at one side and at one pace; same at 5 and 6, the between named as a cut, a middle named as an end and a completing named as a last, the between of same and not-same named still; all at 7 and 8, a parity named as a magnitude, a rate named as a value and a carry named as a store, all named as a total.
+
+**Droplet · v389 · a hard problem at the four binaries.** A hard problem is one binary of a universe, its *is* and its *is not* taken as one at kept records, and its resolving says the binary again, is or is not, at each now.
+
+**Droplet · v389 · re-said once.** The droplets following the older seating are re-said at this one, the gathered insertlets at the Co-Chaining Logic Registry's group 31 and group 17 and at Natural Intelligence 5.4 re-said in place, and Resolving the Hard Problem Registry's part headings, at pairs eight apart, are re-seated at Natural Naming 4.9's names at its own motion.

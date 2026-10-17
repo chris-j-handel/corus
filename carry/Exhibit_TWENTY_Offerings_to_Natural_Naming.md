@@ -1544,3 +1544,15 @@ Each droplet is one saying at the section its tag names; the arrivals the saying
 **Insertlet · v389 · at the set, the motion's order.** Natural Naming first, its Part THREE re-said at the numbered names; then Exhibit ONE whole from its possibling, with Natural Intelligence's copy at the same motion; then Natural Intelligence; then the Co-Chaining Logic Registry; then the seven other files; each paragraph naming the resolver read whole, a name re-said with its sentence, and each sentence resting on the prior prefixes, roots or hands re-said at the four kinds or released whole to the archive with its receiving named.
 
 **Insertlet · v389 · at the set, the motion's close.** At the close each changed file stands at v389 at the root, its prior to the repository's history, the checks run, Exhibit ONE cohered inside Natural Intelligence, and a fresh reader comparing each changed file with its v387 form sentence by sentence before the branch is received at the main line.
+
+## The ten named still at the four binaries, re-seated · v389
+
+**Droplet · v389.** in steady passes as patient as needed to review each for the values of natural naming and explaining and the geodesic method of co chaining and cohering our living files we can be improving the next versions of each of these files one, thirty, natural intelligence and twenty
+
+**Droplet · v389 · two seatings found.** Natural Naming 4.9 seats the ten named still at one name each of 1 to 8, and Resolving the Hard Problem Registry v375 seats them at pairs eight apart; this session's droplets *each of the ten at one name's now and next*, *a hard problem is a now named as its next*, *the one resolving seats at 1 and 9*, *the ten at the four kinds* and the hard-problem step of the explanation followed the older seating.
+
+**Droplet · v389 · the ten at the four binaries.** At Natural Naming 4.9's seating each of the ten is one of the four binaries named still: now at 1 and 2, an opening named as a place and an arriving named from behind, now located and now's arriving set behind it; existing at 3 and 4, a two-way named to one side and a sequencing named to one beat, existing at its sharings named at one side and at one pace; same at 5 and 6, the between named as a cut, a middle named as an end and a completing named as a last, the between of same and not-same named still; all at 7 and 8, a parity named as a magnitude, a rate named as a value and a carry named as a store, all named as a total.
+
+**Droplet · v389 · a hard problem at the four binaries.** A hard problem is one binary of a universe, its *is* and its *is not* taken as one at kept records, and its resolving says the binary again, is or is not, at each now.
+
+**Droplet · v389 · re-said once.** The droplets following the older seating are re-said at this one, the gathered insertlets at the Co-Chaining Logic Registry's group 31 and group 17 and at Natural Intelligence 5.4 re-said in place, and Resolving the Hard Problem Registry's part headings, at pairs eight apart, are re-seated at Natural Naming 4.9's names at its own motion.
