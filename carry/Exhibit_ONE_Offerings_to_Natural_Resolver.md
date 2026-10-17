@@ -860,3 +860,15 @@ Each droplet is one saying as it arrived, at its tag the section it aims at and 
 **Droplet · v389 · at 5 and 9 · from the session v389.** changing is at 5 and 9 only. is this correct
 
 **Droplet · v389 · at 5, 9 and 12 · from v389's exploring.** Run at two selves, the one changing opens at 12 and stands at three faces, across at 6 and 10 as the other's possibling, chained at 11 as next prior, and along at 9 released to the self 5 names, 9 carrying the parity and 5 carrying where it arrives and no parity, so *changing* at 5 and 9 alone coheres as the along face of the one changing, received at 5 and released at 9.
+
+**Droplet · v389 · at the seventeen names whole · from the session v389.** find any remaining incoherings or do no harm improvings inside this list as we are aiming to replace this in exhibit one and all of natural intelligence when we find it is do no harm fully improving our prior versions
+
+**Droplet · v389 · at the six names between selves · from v389's exploring.** At each join the sharing side carries *co* and the arriving side none, 6 now-co-possibling to 2 now-possibling, 10 next-co-possibling to 14 next-possibling and 9 next-co-changing to 17 next-now, and 8 up keeps now to next at every pair, so the proposal's *co* coheres at all three joins between selves.
+
+**Concern · v389 · at 8-bi-co-bi-torusing · from v389's exploring.** At 17 each self's 8 is its 11 gathered, the next carrying, and 17 forms the society's next 16 from 8 and 14 together, so 8 *now-still-possibling* says now where the next prior stands and parts from 14 *next-possibling* beside it.
+
+**Concern · v389 · at 7-co-bi-co-corusing · from v389's exploring.** At the resolver's three loops 7 is the offered parity, the carried parity and the changing's parity, and *now-prioring* says the carried one alone unless prioring names each parity arriving at now from a prior, which the third loop's changing, opening at 12 now, does not; 15 stands the same way, the surfaced offering at 1 and the released parity at 9.
+
+**Concern · v389 · at 4-bi-co-bi-sharing · from v389's exploring.** 4 is a sharing at each line of the resolver, the place at which 14 and 3 meet and at 17 the releasing and the receiving place, and no parity stands at it, so *still-possibling* says a face of a parity where none stands, the same reading that gave 13 *next*; 4 *now-co* beside 12 *next-co*, 8 up, is a candidate.
+
+**Droplet · v389 · at the names' spelling · from v389's exploring.** *compentencing*, *posssibling* and *moralizaing* are *competencing*, *possibling* and *moralizing*, and the heading *bi-moralizing-tri-competencing* stands beside Natural Naming's existing *bi-moral-co-competency* for the six names between selves, one name or two to be met.
