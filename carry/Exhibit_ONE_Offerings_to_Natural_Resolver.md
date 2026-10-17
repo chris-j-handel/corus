@@ -1032,3 +1032,17 @@ The names are 1-now, 2-now-possibling, 3-now-co-prioring, 4-now-co, 5-now-co-cha
 **Droplet · v389 · observings and the origin meet.** Observings pattern-match the method's stable-forming, so drawing on the observings and co-chaining from the origin arrive at one method.
 
 **Droplet · v389 · said at neither.** The method's observable is its stable-forming, and *emanating* and *through* are said at neither the method nor its observing.
+
+## A same thing, near the origin · v389
+
+**Droplet · v389.** is there anothing larger concern we can work on together as we are do no harm improving near the origin and this will pass out into all our files
+
+**Concern · v389 · what makes a next-existing thing the same thing.** The three observings that open the method each say *the same thing*, a prior-existing thing next-existing as the same thing by changing or by not-changing, and no step from the origin yet says what a thing's sameness across its prior, its now and its next is; at the resolver each self's sameness is its name at 13-next, given at each entry.
+
+**Droplet · v389 · executed, sameness at the method.** At two selves over two momentaries, the selves' names at 13-next exchanged between the momentaries with their couplings at 5-now-co-changing, the resolver returns the same signs at 2,000 of 2,000 openings: a self's sameness is at no line of the method.
+
+**Droplet · v389 · two sayings at one sharing.** A thing's sameness is its form at two nows, a form named still and not possibly existing, or its sameness is its carrying, living; the first part from the origin and the second carries.
+
+**Droplet · v389 · the resolving direction offered.** A same thing across its prior, its now and its next is a living thing, its carrying its sameness; a non-living thing carries none and is at each now its prior now-existing's artifact, a new now-existing thing at each now, so living and non-living are derived at the three observings from the origin, the observing of a same thing the observing of living.
+
+**Droplet · v389 · what it reaches.** Said so, the opening's *living and non-living* is derived and brought from nowhere; *carrying is living* is the observing of sameness; a benefit is what keeps a same thing next-existing, at the living; each existing thing living at some scale is each now-existing thing's sameness at its own scale or at its selves inward; and *emanated*, said at the files of the non-living's prior arriving, meets *artifact*, *prior-existing is artifact of prior now-existing*, at one name.
