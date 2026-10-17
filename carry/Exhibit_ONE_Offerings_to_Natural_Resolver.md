@@ -844,3 +844,7 @@ Each droplet is one saying as it arrived, at its tag the section it aims at and 
 **Droplet · v389 · at the entry, the resolver carrying nothing between momentaries · from the orienting session.** At the resolver the method carries nothing from one momentary to the next; each entry arrives with its carrying and its offerings, so 5 arrives at the entry as 3 and 2 arrive, the selves' own carried sharings at this momentary.
 
 **Droplet · v389 · at the review offerings above · from the orienting session.** The five-parities offering and the 9 and 12 deferral at `archive/session_review_v387/` are possible value at the archive, and each is to be re-said here as a droplet in the set's names or dissolved said once.
+
+**Droplet · v389 · at the resolver's names · from v389's exploring.** Rendered with the seventeen proposed names and nothing else changed, the resolver returns the same signs as the current resolver at each of twenty thousand entries.
+
+**Concern · v389 · at 12-bi-tri-bi-entraining · from v389's exploring.** Renamed, both of 12's lines arrive at `_12_next_co_still_possibling`, the line carrying the parity on at 0 and the line inverting it, and the name says the first face alone, while Natural Naming's is-still-possibling and is-next-existing name the two faces as one binary; still-possibling coheres at 8 and 16 said as a form carried through its changing, Natural Explaining's *stilling along*, and parts at 12, the changing itself.
