@@ -1216,3 +1216,17 @@ Each droplet is one saying at the section its tag names; the arrivals the saying
 **Droplet · v389 · the resolving direction offered.** A same thing across its prior, its now and its next is a living thing, its carrying its sameness; a non-living thing carries none and is at each now its prior now-existing's artifact, a new now-existing thing at each now, so living and non-living are derived at the three observings from the origin, the observing of a same thing the observing of living.
 
 **Droplet · v389 · what it reaches.** Said so, the opening's *living and non-living* is derived and brought from nowhere; *carrying is living* is the observing of sameness; a benefit is what keeps a same thing next-existing, at the living; each existing thing living at some scale is each now-existing thing's sameness at its own scale or at its selves inward; and *emanated*, said at the files of the non-living's prior arriving, meets *artifact*, *prior-existing is artifact of prior now-existing*, at one name.
+
+## Sameness of a self, unrelationing · v389
+
+**Droplet · v389.** all the changing is unrelationing all other from living carrying self. this is the sameness of self across momentaryings is this unrelationing carrying as stable forming living self next self
+
+**Droplet · v389 · executed, a self's next from its own.** At 50,000 entries, at each of 89,855 sharings with a prior the next prior is the self's own prior kept or inverted, the offering arriving deciding only is or is not; at each of 18,751 sharings with no prior that enter, the next prior is the offering surfaced at 14-next-possibling.
+
+**Droplet · v389 · sameness is unrelationing.** Each changing is the self's own prior inverted and each not-changing its own prior kept, the self's forming relating to nothing not its own and arriving unrelated afresh at each momentary, so the sameness of a self across its momentaries is its unrelationing from all other, the living self carrying as stable-forming its next self.
+
+**Droplet · v389 · what it resolves.** A self's sameness is no form at two nows and no name given at 13-next: it is the unrelationing at each changing and each not-changing, and observing a same thing is observing that unrelationing.
+
+**Droplet · v389 · no two alike at all three.** Each self's next forms from its own prior alone, so two selves alike at a now part at their priors, each its own at prior, now and next.
+
+**Concern · v389 · a self commencing at a sharing.** At a sharing a self has no prior at, its next prior is the other's offering surfaced, the one place a self's forming takes a parity not its own; whether that commencing is unrelationing opening, a self from all other at its first chaining, or a relating, is yet to be derived.
