@@ -513,3 +513,17 @@ and the universe is the changing set of all living things, each at its own scale
 472. A society lives at two alternating,
 
 and the expedition is living only as long as it can continue discovering
+
+## Released at nothing ingressing and nothing escaping dissolving, v389
+
+20. The set is all existing things: nothing ingressing into it and nothing escaping out of it, its changing its existing things' own and its existing theirs, the set existing as its things exist.
+
+*Adding: nothing ingressing and nothing escaping.*
+
+a self-emptying set; nothing ingressing and nothing escaping.*
+
+402. Nothing leaves the set: each of its existing things continues, the selves inward living on at their own scale and the form at its scale non-living.
+
+*Adding: nothing escaping.*
+
+arriving as non-living; nothing escaping; decay

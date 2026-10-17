@@ -87,7 +87,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
 ## 2 Arriving and carrying, living and non-living
 
-        *Entering: the universe at one momentary; existing whole at each momentary; arriving; each existing thing arriving; carrying; living and non-living, parted at carrying, the artifact; stable-forming, the living; co-changing, the non-living; the opening's terms, the four binaries; bi and co; bi-co and co; a self-emptying set; nothing ingressing and nothing escaping.*
+        *Entering: the universe at one momentary; existing whole at each momentary; arriving; each existing thing arriving; carrying; living and non-living, parted at carrying, the artifact; stable-forming, the living; co-changing, the non-living; the opening's terms, the four binaries; bi and co; bi-co and co; a self-emptying set; the set existing as its things exist.*
 
 8. At now, the universe is all existing things at now.
 
@@ -137,9 +137,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: a self-emptying set.*
 
-20. The set is all existing things: nothing ingressing into it and nothing escaping out of it, its changing its existing things' own and its existing theirs, the set existing as its things exist.
+20. The set is all existing things, its changing its existing things' own and its existing theirs: the set existing as its things exist.
 
-        *Adding: nothing ingressing and nothing escaping.*
+        *Adding: the set existing as its things exist.*
 
 ## 3 The three places and the between
 
@@ -1769,7 +1769,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
 ## 28 Dying, a living self arriving as non-living
 
-        *Entering: a living self's selves inward, a society; the carrying at the selves inward; dying, a living self arriving as non-living; nothing escaping; decay, ingested at the scale inward; the couplings' changings carried on, and the artifacts; a society's decay, its selves living on; uncoupling no ending; fold and scatter; the three one at a time, right; the three at once; the alternating across the right spiral's opening; the winding closing on itself; a departure, a coupling landed while the self lives; restoring; the self observed, lived and restored; the closing winding, no moral offering; a lone self not continuing living through three momentaries; each observing right, the not-right form the three at once.*
+        *Entering: a living self's selves inward, a society; the carrying at the selves inward; dying, a living self arriving as non-living; the selves inward living on at their own scale; decay, ingested at the scale inward; the couplings' changings carried on, and the artifacts; a society's decay, its selves living on; uncoupling no ending; fold and scatter; the three one at a time, right; the three at once; the alternating across the right spiral's opening; the winding closing on itself; a departure, a coupling landed while the self lives; restoring; the self observed, lived and restored; the closing winding, no moral offering; a lone self not continuing living through three momentaries; each observing right, the not-right form the three at once.*
 
 399. A living self carries its prior into now, momentary by momentary, and a living self's selves one scale inward are a society, a living set.
 
@@ -1783,9 +1783,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: dying, a living self arriving as non-living.*
 
-402. Nothing leaves the set: each of its existing things continues, the selves inward living on at their own scale and the form at its scale non-living.
+402. The selves inward live on at their own scale and the form at its scale is non-living, each existing thing of the set continuing.
 
-        *Adding: nothing escaping.*
+        *Adding: the selves inward living on at their own scale.*
 
 403. The non-living arriving is an artifact of the living self it was, harmful at its own scale and ingestible one scale lower, ingested by the selves inward and the others about it.
 

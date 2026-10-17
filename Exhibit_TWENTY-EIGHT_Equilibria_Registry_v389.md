@@ -121,7 +121,7 @@ Adjacent views share four positions: at each number one side opens and the other
 
 ## 2.1 Equilibria, not possibly existing as a method
 
-**Equilibria are not possibly existing as a method, all or none at all.**
+**Equilibria are not possibly existing as a method, all or none at all.** **Each not possible thing has one of two named as its given, an ingressing or an escaping**: a thing said as entering the set of all now-existing things from beyond its things, or a changing said as leaving it; the two are named where hard problems and equilibria add them, a defense the equilibria demand, and at the set's own explaining neither is said, the set its things.
 
 **Each proposed conception of equilibria is a hard problem with its hardness ignored.** It takes the competency of existing as a given, and claims a true-and-false conserving accounting.
 

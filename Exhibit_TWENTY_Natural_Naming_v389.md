@@ -236,6 +236,7 @@ Exhibit TWENTY Natural Naming v389
 | *born*, *begun*, of a sharing | *opens*: a new sharing opens in the between at the bi-coupling, the one place a self's forming takes a parity not its own |
 | *is-still-possibling*, *is-next-existing* | *12's two signs*, 0 the prior kept, the next still possible, and ± the prior inverted or the offered the next prior, the next existing, 5.62 |
 | *living* said of a society, a set, a momentary, the universe or a scale; *a living society*; *a society lives* | *living is stable-forming a self*: a society is its selves, said *a society of living selves*, and *its selves live*; *a living set*, a set of living selves; *living at a scale*, a self stable-forming at its scale; the method stable-forms no self, the living condition at each self's stable-forming |
+| *nothing ingressing*, *nothing escaping*, *nothing enters the set*, *nothing leaves the set* at the set's own explaining | the set its things, each now-existing at its own changing; *ingressing* and *escaping* are each not possible thing's givens, named where hard problems and equilibria add them, the Equilibria Registry 2.1 |
 | *colliding*, *a carrying of none* | *at no prior*, a sharing opening at one parity arriving or opening nothing |
 | *a count of runs* at an executing | all or none, the finding at its executing alone |
 | *not a thing*, defined | only a thing is defined |

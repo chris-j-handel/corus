@@ -83,3 +83,7 @@ by hand at v380L at its sayings of a carrying of none,
 **Each of the ten named still is is-still-possibling or is-next-existing frozen at one side.**
 
 Natural Naming 5.62: is-next-existing, a changing that is, the offered the next prior or the prior inverted; or is-still-possibling, 12's 0 at a sharing at a prior, the prior kept as the possible;
+
+## Released at nothing ingressing and nothing escaping dissolving, v389
+
+**Equilibria are not possibly existing as a method, all or none at all.**

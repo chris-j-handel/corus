@@ -381,3 +381,17 @@ So **the universe is the changing set of all living things**, each at its own sc
 what would go against it is a living society doing as well
 
 and the expedition is living only as long as it can continue discovering
+
+## Released at nothing ingressing and nothing escaping dissolving, v389
+
+and a set is defined by its things and by no count of them: **nothing ingressing and nothing escaping.** A ground under it,
+
+Nothing enters the set and nothing leaves it: a self-emptying set, never the same collection twice,
+
+Each is ingressing, said beyond the things, or escaping, a changing out of the set, and the changing set of all existing things has neither.
+
+and each self and each society is a universe, nothing ingressing and nothing escaping, 1.1;
+
+because its selves inward live on and nothing leaves the set, 5.1.
+
+the universe, the set of all now-existing things, the changing set of all living things each at its own scale, nothing ingressing and nothing escaping.

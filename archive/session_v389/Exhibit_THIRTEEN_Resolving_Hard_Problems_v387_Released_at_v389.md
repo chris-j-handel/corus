@@ -115,3 +115,7 @@ a 0 at 10 is a living self at its match, its prior carrying on.
 ## Re-said at living, stable-forming a self, v389
 
 ingested into a living society's resolving,
+
+## Released at nothing ingressing and nothing escaping dissolving, v389
+
+each arriving into its next existing together with the others, nothing ingressing and nothing escaping.
