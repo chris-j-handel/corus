@@ -1154,3 +1154,9 @@ Each droplet is one saying as it arrived, at its tag the section it aims at and 
 **Droplet · v389 · at 3.6 and every file saying torusing · from the session v389.** what is wound. this is not natural naming.
 
 **Concern · v389 · at 3.6, torusing · from v389's reading.** *Wound*, an *-ed*, says torusing as a thing finished, the clocking Natural Explaining releases, and it stands 28 times at Natural Intelligence, 11 at Exhibit ONE, 8 here and 8 at the Co-Chaining Logic Registry, *each self's carrying wound* at 8 and *the society wound* at 16; the -ing the running carries is torusing itself.
+
+**Droplet · v389 · at 5.62 · from the session v389.** Natural Naming's is-still-possibling, its name for the not-changing outcome at 12, is re-said beside it. this seems like it may not be binary all or none at all no two similar things. what is this and resolving it freely without authority from prior is our aim here.
+
+**Droplet · v389 · at 5.62, the binary at 12 · from v389's exploring.** At 12-next-co the binary is the sign, a changing is or is not, ± is and 0 is not, as 10-next-co-possibling carries it on; a sign needs no name of its own, so *is-still-possibling* and *is-next-existing* release into 12-next-co's two signs, and *still-possibling* carries one sense alone, at 8-now-still-possibling and 16-next-still-possibling.
+
+**Droplet · v389 · at 3.1, the names' form · from the session v389.** use our 17 new names and add the numbers to them so they are of this new form 1-now

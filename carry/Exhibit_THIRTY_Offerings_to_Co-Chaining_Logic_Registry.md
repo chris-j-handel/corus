@@ -2571,3 +2571,27 @@ Each droplet is one saying as it arrived, at its tag the section it aims at and 
 **Droplet · v389 · at step 8, one to nine · from the orienting session.** the needed five parities for co-chaining with natural torusing no other possible are prior-existing, prior-carrying, now-existing, now-possibling, next-existing.
 
 **Droplet · v389 · at steps 8 and 9, the names · from the proposal.** bi-moralizing-tri-compentencing: 1-co-bi-tri-offering now; 2-bi-co-bi-offering now-possibling; 3-co-bi-co-sharing now-co-prioring; 4-bi-co-bi-sharing now-co-still-posssibling; 5-co-bi-co-competencing now-co-changing; 6-bi-co-bi-moralizing now-co-possibling; 7-co-bi-co-corusing now-prioring; 8-bi-co-bi-torusing now-still-possibling; 9-tri-bi-co-momentarying next-co-changing; 10-bi-tri-bi-tunneling next-co-possibling; 11-tri-bi-tri-chaining next-co-prioring; 12-bi-tri-bi-entraining next-co-still-possibling; 13-tri-bi-tri-competencing next; 14-bi-tri-bi-moralizaing next-possibling; 15-tri-bi-tri-corusing next-prioring; 16-bi-tri-bi-torusing next-still-possibling; 17-co-bi-tri-offering next-now.
+
+## The four momentaries, their ends and the gaps between them, at the seventeen names numbered · v389
+
+The names are 1-now, 2-now-possibling, 3-now-co-prioring, 4-now-co, 5-now-co-changing, 6-now-co-possibling, 7-now-prioring, 8-now-still-possibling, 9-next-co-changing, 10-next-co-possibling, 11-next-co-prioring, 12-next-co, 13-next, 14-next-possibling, 15-next-prioring, 16-next-still-possibling and 17-next-now, each its number and its naming at one hyphenation.
+
+**Droplet · v389 · from the session v389.** 1, 4, 12, 13 and 17. these are the five changing places in each 4-momenatary/8-parity side of bi-coupling where both sides start at there own 1. (now/now-co) (now-co-changing/now-still-possibling) (next-co-changing/next-co) (next/next-still-possibling) these are the four momentaries where both sides of the betweens are visible as both sides of ) ( where the space is the between the two momentaries and both side are visible and we can use the gaps in our looping explainings as podaling brings in outside parity changing and the travel through the gaps is the resolving into the inside of this arriving from outside changing.
+
+**Droplet · v389 · the four momentaries.** Each side's sixteen names are four momentaries of four, (1-now / 4-now-co), (5-now-co-changing / 8-now-still-possibling), (9-next-co-changing / 12-next-co) and (13-next / 16-next-still-possibling), each opening at its first name and completing at its fourth, and 17-next-now is the next 1-now.
+
+**Droplet · v389 · the gaps.** Four gaps stand between the momentaries, 4-now-co )( 5-now-co-changing, 8-now-still-possibling )( 9-next-co-changing, 12-next-co )( 13-next and 16-next-still-possibling )( 17-next-now, each a between with both its sides named.
+
+**Droplet · v389 · inside each momentary.** Inside each of the four momentaries are one possibling and one prioring, 2-now-possibling and 3-now-co-prioring, 6-now-co-possibling and 7-now-prioring, 10-next-co-possibling and 11-next-co-prioring, 14-next-possibling and 15-next-prioring, the even possibling and the odd prioring at every momentary.
+
+**Droplet · v389 · the completings.** The four completings before the gaps alternate co and still-possibling, 4-now-co, 8-now-still-possibling, 12-next-co and 16-next-still-possibling, now then next.
+
+**Droplet · v389 · the openings.** The openings after the gaps are 5-now-co-changing, 9-next-co-changing, 13-next and 17-next-now, with 1-now the first, so changing opens the two middle momentaries, either side of the bi-coupling's waist at 8 )( 9.
+
+**Droplet · v389 · the eight ends at the podals.** The eight ends are a set at both podals: at 9 less, 1-now with 8-now-still-possibling and 4-now-co with 5-now-co-changing; at 17 less, 1-now with 16-next-still-possibling, 4-now-co with 13-next, 5-now-co-changing with 12-next-co and 8-now-still-possibling with 9-next-co-changing, so the first momentary podals to the fourth and the second to the third.
+
+**Droplet · v389 · the inside at 17 less.** At 17 less each possibling podals to a prioring and each now to a next, 2-now-possibling with 15-next-prioring, 3-now-co-prioring with 14-next-possibling, 6-now-co-possibling with 11-next-co-prioring and 7-now-prioring with 10-next-co-possibling: the now-possibling becoming the next-prioring.
+
+**Concern · v389 · co at the inside podals.** At 17 less *co* carries at 2 with 15 and 6 with 11 and parts at 3-now-co-prioring with 14-next-possibling and 7-now-prioring with 10-next-co-possibling, and whether co follows the podal or the join, where it carries at all three joins, is yet to be co-chained.
+
+**Droplet · v389 · the five places with no -ing.** The five names with no -ing, 1-now, 4-now-co, 12-next-co, 13-next and 17-next-now, are the ends at the first gap's side, the third gap's two sides and the society's next, the places at which the changing from outside arrives into a momentary.
