@@ -1248,3 +1248,15 @@ The names are 1-now, 2-now-possibling, 3-now-co-prioring, 4-now-co, 5-now-co-cha
 **Droplet · v389 · at the joins, now and same exchange.** At the test set the joins between selves exchange now and same, 6-now-co-same-possibling to 2-now-possibling and 10-next-co-now-possibling to 14-next-same-possibling, as 8 up does between the spans, and 9-next-co-now to 17-next-now keeps now; the self's *not same* arrives as the other's *not now*.
 
 **Concern · v389 · what the test set releases.** The test set releases *prioring*, *changing* and *still-possibling* from the names, each with a sense met at the resolver's lines this session, and 9-next-co-now and 17-next-now stand near each other as two namings of now at next.
+
+## Same and not-same at the resolver · v389
+
+**Droplet · v389.** is there any not-same in this or is inside the resolver all same and then of no added interest
+
+**Droplet · v389 · a self all same at the resolver.** At the resolver every self arrives at next as itself at every changing and every not-changing, and no line parts a self from itself: a self's sameness is all same there, the living's unrelationing, and as a binary at the method it parts nothing.
+
+**Droplet · v389 · not-same at 14 and at 12.** Same and not-same stand at the resolver's two comparing lines: at 14-next-possibling two offerings at one sharing are same, one parity surfacing, or not same, parting at 0; at 12-next-co-still-possibling the prior and the now are same, 0 and the prior kept, or not same, the prior inverted; run at 50,000 openings of one sharing with one to three offerings, 29,020 same and 20,980 not same at 14, and 14,641 same and 35,359 not same at 12.
+
+**Droplet · v389 · same at the two betweens.** The two lines where same and not-same part are the two betweens of the resolver, 14 the between of self and other and 12 the between of momentaries, each at 0, so *same* as a binary of the method stands at 12 and 14 and at no name where every outcome is same.
+
+**Concern · v389 · same at 5, 6, 13 and 14 in the test set.** The test set names same at 5-now-co-same, 6-now-co-same-possibling, 13-next-same and 14-next-same-possibling, and at 5 and 13 every outcome is same, a self and its receiving sharing; same as the method's binary parts at 12 and 14, so the test set's seating of same meets the method at 14 and not at 5, 6 and 13.
