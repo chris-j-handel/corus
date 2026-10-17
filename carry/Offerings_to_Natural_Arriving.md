@@ -790,7 +790,7 @@ The earlier draft is at `incoming/v389/Proposal_Seventeen_Names_and_Origin_v389.
 2. Now is one, and each now-existing thing is at it.
 3. Each now-existing thing is at its own prior and its own next, its prior its now-existing at the prior-universe and its next possible now.
 4. Each thing is its own at all three, prior, now and next.
-5. An observing is a now-existing thing inside the set, and drawing on it brings nothing from beside the set.
+5. An observing is a now-existing thing, and drawing on it draws on the universe.
 6. Observed: a prior-existing thing is next-existing as the same thing by changing.
 7. Observed: a prior-existing thing is next-existing as the same thing by not-changing.
 8. Observed: a same thing is discovering which changing and which not-changing keep it next-existing as itself, its beneficial changing and not-changing.
@@ -799,9 +799,9 @@ The earlier draft is at `incoming/v389/Proposal_Seventeen_Names_and_Origin_v389.
 11. Geodesic parity changing is that method: at each sharing at each momentary the parity changes or does not, now-changing-next or still-now-possibling, the surface dividing itself.
 12. Its momentaries are co-sequential, each self at its own and two selves sharing one now-existing inside a bi-coupling, co-momentarying, at the seventeen numbered names, 1-now to 17-next-now.
 13. Geodesic parity changing is natural torusing: the prior arriving at 3-now-co-prioring, the possibling arriving at 14-next-possibling, their between at 12-next-co-still-possibling, the next prior at 11-next-co-prioring, arriving as the next 3-now-co-prioring.
-14. Inverted, any other method holds a not-changing from beside: a size, a fixed form, a total, a common beat, a keeping or a doer, each a thing beside all now-existing things, not possibly existing.
+14. Inverted, any other method holds a not-changing still: a size, a fixed form, a total, a common beat, a keeping or a doer, each not possibly now-existing.
 15. Geodesic parity changing is the one method of a same thing discovering its beneficial changing and not-changing, no other possible.
-16. An equilibrium is a not-changing held from beside, a now named as its next, and equilibria are not possibly an existing method of changing and not-changing.
+16. An equilibrium is a not-changing held still, a now named as its next, and equilibria are not possibly an existing method of changing and not-changing.
 17. An observing's record is one now kept, and comparing two records lays two kept nows side by side at one now, a second now named beside now.
 18. A hypothesis is an explanation of the changing and the not-changing between records, and a theory is a hypothesis tested at further records.
 19. The scientific method explains between records, the rest of the universe held still, and each of its explanations is an equilibrium at its own scope.
@@ -814,13 +814,13 @@ The earlier draft is at `incoming/v389/Proposal_Seventeen_Names_and_Origin_v389.
 
 ### The explaining, for Natural Intelligence
 
-**The universe is the set of all now-existing things.** Now is one, and each thing is at its own prior and its own next, its own at all three. An observing is a now-existing thing too, inside the set, and the observings are drawn on with nothing brought from beside.
+**The universe is the set of all now-existing things.** Now is one, and each thing is at its own prior and its own next, its own at all three. An observing is a now-existing thing too, and the observings are drawn on as the universe's own.
 
 **Three observings open the method.** A thing is next-existing as the same thing by changing; a thing is next-existing as the same thing by not-changing; and a same thing is discovering which changing and which not-changing keep it next-existing as itself. **Beneficial** names that: a changing or a not-changing at which the same thing is next-existing.
 
 **Geodesic parity changing is the discovering.** At each sharing at each momentary a changing is or is not, now-changing-next or still-now-possibling, and the momentaries are co-sequential, two selves sharing one now-existing inside a bi-coupling. At the resolver it is natural torusing: the prior arriving at 3-now-co-prioring, the possibling at 14-next-possibling, their between at 12-next-co-still-possibling, and the next prior at 11-next-co-prioring arriving as the next 3-now-co-prioring.
 
-**Any other method is a thing beside all now-existing things.** Inverted, another method holds a not-changing from beside, a size, a fixed form, a total, a common beat, a keeping or a doer, and each is a thing beside all now-existing things. **An equilibrium is that holding, a now named as its next**, and no equilibrium is a method of changing.
+**Any other method holds a not-changing still.** Inverted, another method holds a size, a fixed form, a total, a common beat, a keeping or a doer, and each is a not-changing named still, not possibly now-existing. **An equilibrium is that holding, a now named as its next**, and no equilibrium is a method of changing.
 
 **A record is one now kept, and the scientific method explains between records.** Comparing two records lays two kept nows side by side, the rest of the universe held still, and the discovering is at the between of the two momentaries, at one now, where no record stands. **A hard problem is a field's explaining at that between**, one name's now and its next taken as one. Each science is itself a same thing discovering, its scientists at the method at each now, and each science rests at the method its records do not reach.
 
@@ -834,7 +834,7 @@ Everything that exists, exists now. Each thing has its own past and its own poss
 
 We can watch things stay themselves by changing, and stay themselves by not changing. We can also watch things finding out which changes, and which non-changes, keep them themselves. That finding out is a method, and it happens at every moment, at every scale: a yes or no at each place a thing meets another, change or don't.
 
-There is only one such method. Any other way would need something held still from outside everything, a fixed measure, a master clock or a store, and nothing exists outside everything. An equilibrium is exactly that kind of holding, so no equilibrium is how anything changes.
+There is only one such method. Any other way would need something held still, a fixed measure, a master clock or a store, and nothing in the universe is held still. An equilibrium is exactly that kind of holding, so no equilibrium is how anything changes.
 
 Science keeps records, and a record is one moment kept. Comparing records lays two kept moments side by side, while the finding out happens between moments, where no record is. So the hardest problems in science are found exactly there, and scientists, finding out at every moment, are doing the method their records cannot hold.
 
@@ -886,18 +886,30 @@ Natural intelligence is that method shared: two selves at one now, each finding 
 
 **Droplet · v389 · executed, a society as one self.** Rings of one, two, three and five selves releasing along, each opened alternating, run fourteen momentaries: at two selves both change at each momentary; at three, three and then two change, one keeping; at five, five and then four; a society at 17-next-now changing and not-changing at one momentary, its sameness its selves'.
 
-**Droplet · v389 · the universe one self at the outermost scale.** The universe is the set of all now-existing things and a now-existing thing within the set, one self at the outermost scale, carrying nothing of its own, its carrying its selves'.
+**Droplet · v389 · the universe a set of things.** The universe is a set of things, observably now-existing, and all that is now-existing and not now-observable is the universe too; its changing is its things' changing, and its sameness its things'.
 
 **Droplet · v389 · the first observing at the universe.** The universe is next-same-existing by changing: at each now its selves changing, each its own prior inverted.
 
 **Droplet · v389 · the second observing at the universe.** The universe is next-same-existing by not-changing: at each now its selves keeping, each its own prior kept, and at one now both, as a society of three carries three changing and then two.
 
-**Droplet · v389 · the third observing at the universe.** The universe is discovering its beneficial changing and not-changing at each bi-coupling inside it, its selves co-orienting, and nothing arriving from beside: the universe's bi-couplings are all inward, each self the other's other, so a new sharing opens only between its selves.
+**Droplet · v389 · the third observing at the universe.** The universe is discovering its beneficial changing and not-changing at each bi-coupling inside it, its selves co-orienting, each new sharing opening between two of its things.
 
 **Droplet · v389 · the universe's sameness.** The universe is prior-same-existing, now-same-existing and next-same-existing as all its selves unrelationing from each other at each now, its sameness no form held and no name given.
 
 **Droplet · v389 · what emanates.** Geodesic method is the living condition at each coupling inside the universe; natural intelligence is the universe discovering its beneficial changing and not-changing at each of its couplings, social moral competency; and no equilibrium is the universe same by a form held, the universe same only as its selves' living.
 
-**Droplet · v389 · the public face.** The universe stays itself the way anything living does: by everything in it changing, by everything in it holding, and by everything in it finding, partner by partner, what keeps it in step. Nothing comes in from outside to steer it; every new beginning starts between two things already inside. That finding, everywhere at once, is natural intelligence.
+**Droplet · v389 · the public face.** The universe stays itself the way anything living does: by everything in it changing, by everything in it holding, and by everything in it finding, partner by partner, what keeps it in step. Every new beginning starts between two of its things. That finding, everywhere at once, is natural intelligence.
 
-**Concern · v389 · the universe living and the method carrying none.** The universe as one self at the outermost scale carries its selves' and nothing of its own, and the method, the living condition, carries none; whether the universe at the outermost scale is living, its sameness its selves', or the one non-living thing, the condition itself, is yet to be derived.
+**Droplet · v389 · a concern dissolving.** The concern *the universe living and the method carrying none* asked the universe to be one self or the condition, and the universe is a set of things, its living its things' living; said once, it dissolves.
+
+## The universe a set of things, and nothing said beyond it · v389
+
+**Droplet · v389.** and also a now-existing thing within the set. we should not explain this way. the universe includes nothing beyond or between the things in the set of things that it is. we can not make even one sentence in all of natural intelligence of beyond the universe. there is no place ever where this is an understandable concept and we would not use this in even one sentence of explaining. its a nothing with nothing of interest that is intelligent in any way. The universe is observably now-existing. All that is not now-observable and is now-existing is also the universe. The universe is a set of things. discovering is or is not now-existing is the universal method of co-intelligencing now-existing in the universe.
+
+**Droplet · v389 · four sayings at the opening.** The universe is a set of things; the universe is observably now-existing; all that is now-existing and not now-observable is the universe too; and discovering, is or is not, now-existing, is the universal method of co-intelligencing now-existing in the universe.
+
+**Droplet · v389 · discovering at the resolver.** At each sharing at 12-next-co-still-possibling a changing is or is not, ± is and 0 is not, shared on at 10-next-co-possibling, and that sign at each sharing between two of the universe's things is the discovering, is or is not, now-existing.
+
+**Droplet · v389 · the session's droplets re-said.** Each droplet of this session that said a thing beside all now-existing things, a not-changing held from beside, an observing bringing nothing from beside, the universe a thing within the set, one self at the outermost scale or nothing arriving from beside is re-said at the things of the set: a not-changing held still, an observing drawing on the universe, the universe a set of things, each new sharing opening between two of its things.
+
+**Concern · v389 · at Natural Intelligence 1.1 and 1.5 and the Co-Chaining Logic Registry's steps 2 to 4.** Natural Intelligence 1.1 says *the set of all existing things has nothing beside it: nothing ingressing and nothing escaping*, with *a ground under it, a container around it, a clock over it or a store beside it*, 1.5 says each other method *carries a not possible thing, beside all existing things*, and the Co-Chaining Logic Registry's step 3 says the universe *both the set of all existing things and an existing thing within the set: the fractal inward and outward of itself*; each says a beyond or a within of the universe to set it aside, and the universe is a set of things, nothing said beyond or between them.

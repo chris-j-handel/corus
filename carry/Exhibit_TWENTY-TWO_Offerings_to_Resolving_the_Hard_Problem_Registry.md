@@ -410,5 +410,5 @@ Each is a changing made at the set this session, said once here so that this fil
 8. A comparing of two records lays two kept nows side by side at one now: a second now named beside now.
 9. Each of the ten hard problems is one name's now and its next taken as one, a second now named beside now, at the name's two momentaries eight apart.
 10. Science explains between records, and the meeting of the two momentaries is at the one now, at the between, where no record stands; science meets the two records and the method of competency stays at the between of them.
-11. Hard probleming is the universal method of existing met from beside it: each hard problem is the method at one name, its now and its next, named still.
+11. Hard probleming is the universal method of existing met at kept records: each hard problem is the method at one name, its now and its next, named still.
 12. The resolving says the two again at their two momentaries, and the method shows at the between: a changing is or is not, at each now.

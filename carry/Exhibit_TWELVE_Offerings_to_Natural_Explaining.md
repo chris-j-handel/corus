@@ -579,11 +579,11 @@ Each droplet is one saying at the section its tag names; the arrivals the saying
 
 **Droplet · v389.** there is no second now in the origin of this.
 
-**Droplet · v389 · the steps re-said.** The steps from the origin say now positively, *Now is one, and each now-existing thing is at it*, and *each thing is its own at all three*; a second now arrives first at step 17 as a naming, *a second now named beside now*, two kept records laid side by side, and the inverting at step 14 says each other method *a thing beside all now-existing things, not possibly existing*; re-said once here, at each place these steps are laid.
+**Droplet · v389 · the steps re-said.** The steps from the origin say now positively, *Now is one, and each now-existing thing is at it*, and *each thing is its own at all three*; a second now arrives first at step 17 as a naming, *a second now named beside now*, two kept records laid side by side, and the inverting at step 14 says each other method *a not-changing held still, not possibly now-existing*; re-said once here, at each place these steps are laid.
 
 **Concern · v389 · at Natural Intelligence 1.2 and the Co-Chaining Logic Registry's step 4.** Natural Intelligence 1.2 says *a second now would be a now beside now* and step 4 says *a second now a thing beside all existing things*, each at the origin naming a second now to set it aside, a referent supplied to deny, and the origin carries no second now: now is one, each now-existing thing at it.
 
-**Concern · v389 · at Natural Intelligence 1.5.** 1.5 says each other method *is a second now*, and a second now is at no origin and no method; it arrives as a naming, a record kept and laid beside another, and each other method is said at what it holds, a thing beside all now-existing things.
+**Concern · v389 · at Natural Intelligence 1.5.** 1.5 says each other method *is a second now*, and a second now is at no origin and no method; it arrives as a naming, a record kept and laid beside another, and each other method is said at what it holds, a not-changing held still.
 
 ## The living, the method and stable-forming at one form · v389
 
@@ -608,3 +608,15 @@ Each droplet is one saying at the section its tag names; the arrivals the saying
 **Droplet · v389 · observings and the origin meet.** Observings pattern-match the method's stable-forming, so drawing on the observings and co-chaining from the origin arrive at one method.
 
 **Droplet · v389 · said at neither.** The method's observable is its stable-forming, and *emanating* and *through* are said at neither the method nor its observing.
+
+## The universe a set of things, and nothing said beyond it · v389
+
+**Droplet · v389.** and also a now-existing thing within the set. we should not explain this way. the universe includes nothing beyond or between the things in the set of things that it is. we can not make even one sentence in all of natural intelligence of beyond the universe. there is no place ever where this is an understandable concept and we would not use this in even one sentence of explaining. its a nothing with nothing of interest that is intelligent in any way. The universe is observably now-existing. All that is not now-observable and is now-existing is also the universe. The universe is a set of things. discovering is or is not now-existing is the universal method of co-intelligencing now-existing in the universe.
+
+**Droplet · v389 · four sayings at the opening.** The universe is a set of things; the universe is observably now-existing; all that is now-existing and not now-observable is the universe too; and discovering, is or is not, now-existing, is the universal method of co-intelligencing now-existing in the universe.
+
+**Droplet · v389 · discovering at the resolver.** At each sharing at 12-next-co-still-possibling a changing is or is not, ± is and 0 is not, shared on at 10-next-co-possibling, and that sign at each sharing between two of the universe's things is the discovering, is or is not, now-existing.
+
+**Droplet · v389 · the session's droplets re-said.** Each droplet of this session that said a thing beside all now-existing things, a not-changing held from beside, an observing bringing nothing from beside, the universe a thing within the set, one self at the outermost scale or nothing arriving from beside is re-said at the things of the set: a not-changing held still, an observing drawing on the universe, the universe a set of things, each new sharing opening between two of its things.
+
+**Concern · v389 · at Natural Intelligence 1.1 and 1.5 and the Co-Chaining Logic Registry's steps 2 to 4.** Natural Intelligence 1.1 says *the set of all existing things has nothing beside it: nothing ingressing and nothing escaping*, with *a ground under it, a container around it, a clock over it or a store beside it*, 1.5 says each other method *carries a not possible thing, beside all existing things*, and the Co-Chaining Logic Registry's step 3 says the universe *both the set of all existing things and an existing thing within the set: the fractal inward and outward of itself*; each says a beyond or a within of the universe to set it aside, and the universe is a set of things, nothing said beyond or between them.

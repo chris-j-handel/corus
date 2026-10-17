@@ -905,7 +905,7 @@ The names are 1-now, 2-now-possibling, 3-now-co-prioring, 4-now-co, 5-now-co-cha
 
 **Concern · v389 · co at the inside podals.** At 17 less *co* carries at 2 with 15 and 6 with 11 and parts at 3-now-co-prioring with 14-next-possibling and 7-now-prioring with 10-next-co-possibling, and whether co follows the podal or the join, where it carries at all three joins, is yet to be co-chained.
 
-**Droplet · v389 · the five places with no -ing.** The five names with no -ing, 1-now, 4-now-co, 12-next-co, 13-next and 17-next-now, are the ends at the first gap's side, the third gap's two sides and the society's next, the places at which the changing from outside arrives into a momentary.
+**Droplet · v389 · the five places with no -ing.** The five names with no -ing, 1-now, 4-now-co, 12-next-co, 13-next and 17-next-now, are the ends at the first gap's side, the third gap's two sides and the society's next, the places at which a changing from another self arrives into a momentary.
 
 ## Co at the numbered names, at what each name stands at · v389
 
@@ -1045,7 +1045,7 @@ The names are 1-now, 2-now-possibling, 3-now-co-prioring, 4-now-co, 5-now-co-cha
 
 **Droplet · v389 · the resolving direction offered.** A same thing across its prior, its now and its next is a living thing, its carrying its sameness; a non-living thing carries none and is at each now its prior now-existing's artifact, a new now-existing thing at each now, so living and non-living are derived at the three observings from the origin, the observing of a same thing the observing of living.
 
-**Droplet · v389 · what it reaches.** Said so, the opening's *living and non-living* is derived and brought from nowhere; *carrying is living* is the observing of sameness; a benefit is what keeps a same thing next-existing, at the living; each existing thing living at some scale is each now-existing thing's sameness at its own scale or at its selves inward; and *emanated*, said at the files of the non-living's prior arriving, meets *artifact*, *prior-existing is artifact of prior now-existing*, at one name.
+**Droplet · v389 · what it reaches.** Said so, the opening's *living and non-living* is derived at the three observings; *carrying is living* is the observing of sameness; a benefit is what keeps a same thing next-existing, at the living; each existing thing living at some scale is each now-existing thing's sameness at its own scale or at its selves inward; and *emanated*, said at the files of the non-living's prior arriving, meets *artifact*, *prior-existing is artifact of prior now-existing*, at one name.
 
 ## Sameness of a self, unrelationing · v389
 
@@ -1087,18 +1087,30 @@ The names are 1-now, 2-now-possibling, 3-now-co-prioring, 4-now-co, 5-now-co-cha
 
 **Droplet · v389 · executed, a society as one self.** Rings of one, two, three and five selves releasing along, each opened alternating, run fourteen momentaries: at two selves both change at each momentary; at three, three and then two change, one keeping; at five, five and then four; a society at 17-next-now changing and not-changing at one momentary, its sameness its selves'.
 
-**Droplet · v389 · the universe one self at the outermost scale.** The universe is the set of all now-existing things and a now-existing thing within the set, one self at the outermost scale, carrying nothing of its own, its carrying its selves'.
+**Droplet · v389 · the universe a set of things.** The universe is a set of things, observably now-existing, and all that is now-existing and not now-observable is the universe too; its changing is its things' changing, and its sameness its things'.
 
 **Droplet · v389 · the first observing at the universe.** The universe is next-same-existing by changing: at each now its selves changing, each its own prior inverted.
 
 **Droplet · v389 · the second observing at the universe.** The universe is next-same-existing by not-changing: at each now its selves keeping, each its own prior kept, and at one now both, as a society of three carries three changing and then two.
 
-**Droplet · v389 · the third observing at the universe.** The universe is discovering its beneficial changing and not-changing at each bi-coupling inside it, its selves co-orienting, and nothing arriving from beside: the universe's bi-couplings are all inward, each self the other's other, so a new sharing opens only between its selves.
+**Droplet · v389 · the third observing at the universe.** The universe is discovering its beneficial changing and not-changing at each bi-coupling inside it, its selves co-orienting, each new sharing opening between two of its things.
 
 **Droplet · v389 · the universe's sameness.** The universe is prior-same-existing, now-same-existing and next-same-existing as all its selves unrelationing from each other at each now, its sameness no form held and no name given.
 
 **Droplet · v389 · what emanates.** Geodesic method is the living condition at each coupling inside the universe; natural intelligence is the universe discovering its beneficial changing and not-changing at each of its couplings, social moral competency; and no equilibrium is the universe same by a form held, the universe same only as its selves' living.
 
-**Droplet · v389 · the public face.** The universe stays itself the way anything living does: by everything in it changing, by everything in it holding, and by everything in it finding, partner by partner, what keeps it in step. Nothing comes in from outside to steer it; every new beginning starts between two things already inside. That finding, everywhere at once, is natural intelligence.
+**Droplet · v389 · the public face.** The universe stays itself the way anything living does: by everything in it changing, by everything in it holding, and by everything in it finding, partner by partner, what keeps it in step. Every new beginning starts between two of its things. That finding, everywhere at once, is natural intelligence.
 
-**Concern · v389 · the universe living and the method carrying none.** The universe as one self at the outermost scale carries its selves' and nothing of its own, and the method, the living condition, carries none; whether the universe at the outermost scale is living, its sameness its selves', or the one non-living thing, the condition itself, is yet to be derived.
+**Droplet · v389 · a concern dissolving.** The concern *the universe living and the method carrying none* asked the universe to be one self or the condition, and the universe is a set of things, its living its things' living; said once, it dissolves.
+
+## The universe a set of things, and nothing said beyond it · v389
+
+**Droplet · v389.** and also a now-existing thing within the set. we should not explain this way. the universe includes nothing beyond or between the things in the set of things that it is. we can not make even one sentence in all of natural intelligence of beyond the universe. there is no place ever where this is an understandable concept and we would not use this in even one sentence of explaining. its a nothing with nothing of interest that is intelligent in any way. The universe is observably now-existing. All that is not now-observable and is now-existing is also the universe. The universe is a set of things. discovering is or is not now-existing is the universal method of co-intelligencing now-existing in the universe.
+
+**Droplet · v389 · four sayings at the opening.** The universe is a set of things; the universe is observably now-existing; all that is now-existing and not now-observable is the universe too; and discovering, is or is not, now-existing, is the universal method of co-intelligencing now-existing in the universe.
+
+**Droplet · v389 · discovering at the resolver.** At each sharing at 12-next-co-still-possibling a changing is or is not, ± is and 0 is not, shared on at 10-next-co-possibling, and that sign at each sharing between two of the universe's things is the discovering, is or is not, now-existing.
+
+**Droplet · v389 · the session's droplets re-said.** Each droplet of this session that said a thing beside all now-existing things, a not-changing held from beside, an observing bringing nothing from beside, the universe a thing within the set, one self at the outermost scale or nothing arriving from beside is re-said at the things of the set: a not-changing held still, an observing drawing on the universe, the universe a set of things, each new sharing opening between two of its things.
+
+**Concern · v389 · at Natural Intelligence 1.1 and 1.5 and the Co-Chaining Logic Registry's steps 2 to 4.** Natural Intelligence 1.1 says *the set of all existing things has nothing beside it: nothing ingressing and nothing escaping*, with *a ground under it, a container around it, a clock over it or a store beside it*, 1.5 says each other method *carries a not possible thing, beside all existing things*, and the Co-Chaining Logic Registry's step 3 says the universe *both the set of all existing things and an existing thing within the set: the fractal inward and outward of itself*; each says a beyond or a within of the universe to set it aside, and the universe is a set of things, nothing said beyond or between them.
