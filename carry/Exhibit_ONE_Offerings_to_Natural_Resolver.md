@@ -998,3 +998,13 @@ The names are 1-now, 2-now-possibling, 3-now-co-prioring, 4-now-co, 5-now-co-cha
 **Concern · v389 · *beneficial* at the method.** Run at 24,000 momentaries of societies of two to four selves, every self arrives at next and no prior arrives empty, so at the resolver every changing and every not-changing keeps the same thing next-existing; *beneficial* is not visible at the method, and whether it is the intelligence's, unnamed at the method, is yet to be derived.
 
 **Concern · v389 · *prior-carrying* among the five parities.** The five parities offered for co-chaining, prior-existing, prior-carrying, now-existing, now-possibling and next-existing, name a carrying at the method, and carrying is unnamed at the method's explaining.
+
+## The method and the living at the resolver, the largest unresolving concern · v389
+
+**Concern · v389 · where the method ends and the living begins.** At each entry the resolver receives 3-now-co-prioring, 2-now-possibling, 5-now-co-changing and each self at 13-next, each table steps every self together at 17-next-now, and the resolver resolves only the signs between them, while Natural Intelligence 4.6 says *the next coupling is discovered as the next parity is*, the method said discovering what it receives; the two part at 5, at 13 and at the stepping.
+
+**Droplet · v389 · the resolving direction offered.** What the resolver receives at each entry, a self's sameness at 13-next, its couplings at 5-now-co-changing, its pacing and its benefit, is the living's own, the intelligence arriving at the method and unnamed by it, and the method resolves the signs at each sharing between them; said so, the next coupling is discovering at the living and the next parity at the method, at one now.
+
+**Droplet · v389 · the method unchanging, said at its relation.** *Unchanging* said at a seam names a relation continuing through the changing and never a form named still, and the method, carrying none of the prior at each coupling, is that relation at each now, its own at each, carried to no next.
+
+**Droplet · v389 · what it reaches.** Said at this one between, the method unchanging needs no form at two nows, *beneficial* stands at the living and parts nothing at the method, *prior-carrying* names the living's side of the five parities, the carrying at 3 in Natural Intelligence 3.4 is re-said as the prior the method receives, 6.5's method non-living at every scale is the method carrying none, and an executing that reads 5 from the selves' next priors makes the method a doer of the living's own discovering.
