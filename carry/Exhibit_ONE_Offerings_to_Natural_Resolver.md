@@ -988,3 +988,13 @@ The names are 1-now, 2-now-possibling, 3-now-co-prioring, 4-now-co, 5-now-co-cha
 **Droplet · v389 · a rate named as a value.** 13-next carries no -ing, and a rate named as a value is 5-now-co-changing named at 13-next as a value, the changing between two named as one bare next.
 
 **Concern · v389 · the gathered names at Resolving the Hard Problem Registry.** Resolving the Hard Problem Registry v375 seats each of the ten at names gathered before v378, *10-other-social-self-tunneling* and *2-other-self-offering* among them, and its seatings carry over at their numbers to the numbered names, each heading re-said at the file's own motion.
+
+## Concerns whose cohering is not yet visible · v389
+
+**Concern · v389 · the method unchanging and no form the same at two nows.** The method is unchanging at each now, and a form the same at two momentaries is a form named still, not possibly existing; 6.5 says each existing thing is living at some scale and names the method non-living at every scale; the deriving that sets the method at each now, its own at each and the same at none, is yet to be shown.
+
+**Concern · v389 · couplings and pacing given to the resolver.** Each executed table gives 5-now-co-changing once and steps every self together at 17-next-now, and each self's place at 13-next is given with it; no executed row shows a coupling, a self's identity or a self's own pacing discovering at next.
+
+**Concern · v389 · *beneficial* at the method.** Run at 24,000 momentaries of societies of two to four selves, every self arrives at next and no prior arrives empty, so at the resolver every changing and every not-changing keeps the same thing next-existing; *beneficial* is not visible at the method, and whether it is the intelligence's, unnamed at the method, is yet to be derived.
+
+**Concern · v389 · *prior-carrying* among the five parities.** The five parities offered for co-chaining, prior-existing, prior-carrying, now-existing, now-possibling and next-existing, name a carrying at the method, and carrying is unnamed at the method's explaining.

@@ -2018,3 +2018,13 @@ Natural intelligence is that method shared: two selves at one now, each finding 
 **Concern · v389 · at Natural Intelligence 1.2 and the Co-Chaining Logic Registry's step 4.** Natural Intelligence 1.2 says *a second now would be a now beside now* and step 4 says *a second now a thing beside all existing things*, each at the origin naming a second now to set it aside, a referent supplied to deny, and the origin carries no second now: now is one, each now-existing thing at it.
 
 **Concern · v389 · at Natural Intelligence 1.5.** 1.5 says each other method *is a second now*, and a second now is at no origin and no method; it arrives as a naming, a record kept and laid beside another, and each other method is said at what it holds, a thing beside all now-existing things.
+
+## Concerns whose cohering is not yet visible · v389
+
+**Concern · v389 · the method unchanging and no form the same at two nows.** The method is unchanging at each now, and a form the same at two momentaries is a form named still, not possibly existing; 6.5 says each existing thing is living at some scale and names the method non-living at every scale; the deriving that sets the method at each now, its own at each and the same at none, is yet to be shown.
+
+**Concern · v389 · couplings and pacing given to the resolver.** Each executed table gives 5-now-co-changing once and steps every self together at 17-next-now, and each self's place at 13-next is given with it; no executed row shows a coupling, a self's identity or a self's own pacing discovering at next.
+
+**Concern · v389 · *beneficial* at the method.** Run at 24,000 momentaries of societies of two to four selves, every self arrives at next and no prior arrives empty, so at the resolver every changing and every not-changing keeps the same thing next-existing; *beneficial* is not visible at the method, and whether it is the intelligence's, unnamed at the method, is yet to be derived.
+
+**Concern · v389 · *prior-carrying* among the five parities.** The five parities offered for co-chaining, prior-existing, prior-carrying, now-existing, now-possibling and next-existing, name a carrying at the method, and carrying is unnamed at the method's explaining.
