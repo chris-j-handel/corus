@@ -854,3 +854,9 @@ Natural intelligence is that method shared: two selves at one now, each finding 
 **Concern · v389 · *beneficial*.** *Beneficial* stands at no living file, and the steps name it at step 8 as a changing or a not-changing at which the same thing is next-existing as itself; whether that is the whole of it, or whether social moral competency and abundancing say more of it, is yet to be met at Natural Naming.
 
 **Concern · v389 · *falsifiable* and *falsified*.** The earlier sentence says an explanation is *falsifiable if it excludes* discovering, and at step 23 such an explanation is *falsified* at the third observing; the steps carry the second, and the first stands beside it in the incoming.
+
+## The naming motion at the Equilibria Registry · v389
+
+**Entered · v389.** The Equilibria Registry v389 says each resolver name at its number and its naming, the root column of the four four-cyclings released, the prior said at the resolver and carrying left the living's, colliding said at no prior, and its citing of the Co-Chaining Logic Registry's observing at steps 134 and 136; each passage released whole at `archive/session_v389/`.
+
+**Droplet · v389 · the ten at the four binaries, at this registry's own motion.** Natural Naming 4.9 seats each of the ten named still at one name of 1 to 8, at the four binaries: now at 1 and 2, existing at 3 and 4, same at 5 and 6, all at 7 and 8, and the Co-Chaining Logic Registry step 522 and Natural Intelligence 5.4 follow it at v389. This registry's 3.2 and 3.3 seat the ten at five places from two faces, the pairs at 2 to 6 and their names eight up, derived from the self's five and the other's five; the two seatings part at each of the ten but the arriving named from behind, and the registry's next motion reads its five places from two faces again at the four binaries, each binary of a universe its *is* and its *is not* taken as one, and says whether the two faces are the *is* and the *is not* at each binary.
