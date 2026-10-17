@@ -98,6 +98,8 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 
 **At the drawing.** The prior at 3 meets the surfacing at 14 at each sharing at 12; the changings at 10, the same at 6, go across to another self's 2 and 14; the next prior goes to 11 and on to 3 at next; and 9 releases along by 5 to another self's 17. At each join the sharing side is the self and the arriving side another self, each a self, and the society is its selves.
 
+**At 1-now, now given and next made.** At 1-now the self is given two now names, 3-now-co-prioring and 2-now-possibling, each sharing in them at 4-now-co-still-possibling and each parity at 7-now-prioring, and each name 1-now makes is a next name, 14-next-possibling, 15-next-prioring, 12-next-co-still-possibling, 10-next-co-possibling and 11-next-co-prioring: the entry is given the self's span and makes the society's.
+
 **Seventeen names.**
 
 | n | Name | Momentary | Parity | Co | At the resolver |
@@ -162,7 +164,9 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 
 **The now-self at one line.** At 12-next-co-still-possibling the line `if _15_next_prioring != 0 and (_15_next_prioring > 0) == (_7_now_prioring > 0)` reads 14-next-possibling's surfacing, as 15, against 7-now-prioring at each sharing of 3-now-co-prioring: the now-self, now-prioring and next-possibling, at one line, its sign 0, the prior kept, or ±, the prior inverted. Same and not-same are that sign at the two betweens, 12 and 14, and need no name of their own.
 
-**Each name and its relations.**
+**Is or is not at the lines.** Each is or is not at the lines is at 1-now, three at 14-next-possibling, one at 12-next-co-still-possibling and one at 11-next-co-prioring, and one at 17-next-now, a self's name between selves among 5-now-co-changing or not; 9-next-co-changing has none, giving each changing on as it is, a 0 among the parities.
+
+**Each name and its relations.** The sides are the sides of the overlapping momentaries, each name opening at one side, the self's, the other's or the society's; the things the lines have at each name are at its row Prior and next.
 
 | n | Relation | For this name |
 |---|---|---|
@@ -467,6 +471,8 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 3-11-6-14 | 3 · 11 and 6 · 14 | 6 and 14 | each name one apart from 4-13-5-12 and 2-15-7-10 |
 | 4-13-5-12 | 4 · 12 and 5 · 13 | none | each name one apart from 3-11-6-14 |
 
+**Two moves, the 9 less.** Two moves round its four-cycle take each name of 1 to 8 to its 9 less, the name across the four-cycle from it: 1-now and 8-now-still-possibling, 2-now-possibling and 7-now-prioring, 3-now-co-prioring and 6-now-co-possibling, 4-now-co-still-possibling and 5-now-co-changing.
+
 **Each name, three scales.**
 
 | n | Name | This scale, 1 to 17 | The next scale inward, eight 1 to 17s: n is 8n − 7 | The next scale outward: 8m − 7 is m |
@@ -509,6 +515,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | self, at 1 | 1 | 2 | 3 | 4 | 5 |
 | other, at 2 | 2 | 3 | 4 | 5 | 6 |
 | self next, at 3 | 3 | 4 | 5 | 6 | 7 |
+| other next, at 4 | 4 | 5 | 6 | 7 | 8 |
 
 **A self's four momentaries of exchanging.**
 
@@ -536,12 +543,16 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | +, −, + | 0 |
 | 0, + | + |
 
+**+ and − alike.** At one sharing the resolver reads + and − alike: each cell with + and − exchanged is that cell exchanged, at a prior and at no prior; and no line makes a prior 0, a 0 at 10-next-co-possibling leaving the prior at 11-next-co-prioring as it was.
+
 **One self, one momentary.**
 
 | The prior (3), one sharing. Each cell: shared (10) · the next prior (11). *is*: a changing that is, the parity shared; *is not*: a changing that is not, 0 shared, the prior kept | Surfacing (14): none | Surfacing (14): + | Surfacing (14): − | Surfacing (14): + and − together |
 |---|---|---|---|---|
 | + | is − · − | is not · + | is − · − | is − · − |
 | − | is + · + | is + · + | is not · − | is + · + |
+
+**One cell, the offerings unnamed.** At a prior of one parity, the other parity surfacing, + and − together, and none surfacing, a 0 offered alike, give one cell, the prior inverted, shared at 10-next-co-possibling and the next prior at 11-next-co-prioring: the cell names none of which offerings arrived, and the offerings are followed at the coupling.
 
 **Eight even names, 8 apart.**
 
@@ -565,7 +576,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 7-now-prioring | 15-next-prioring | 2-now-possibling | 10-next-co-possibling |
 | 8-now-still-possibling | 16-next-still-possibling | 1-now | 9-next-co-changing |
 
-**Twelve forms.**
+**Twelve forms.** Round each form the odd names, existing, are one run and the even names, possibling, one run, alike in length: two and two at the four-cycles, three and three at the six-cycles, four and four at the eight-cycles.
 
 | Form | Names in order: each move 8 up, 8 down, 4 up, 4 down or 17 less | Partner, odd momentaries: each name exchanged with the one beside it, 1 with 2 to 15 with 16 | Partner, even momentaries: 2 with 3 to 16 with 17. A dash: no partner among the twelve |
 |---|---|---|---|
@@ -592,18 +603,25 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | the eight even names | its even, at now and at next, the eight 9s of the eight 1 to 17s inward |
 | the eight odd names | its odd, at now and at next |
 
+**The across names among the eights.** The four across names, 2-now-possibling, 6-now-co-possibling, 10-next-co-possibling and 14-next-possibling, are the four momentaries' even insides, each on the eight-cycle of insides 2-15-7-11-3-14-6-10; 9-next-co-changing, opening the third momentary, is on the eight-cycle of ends 1-9-5-13-4-12-8-16; 17-next-now is on neither.
+
 **One self, momentary by momentary.**
 
 | One sharing; the self's prior − (3) first. Offered each momentary | Shared (10) | The next prior (11) |
 |---|---|---|
 | none at each momentary | +, −, +, −, +, −, +, − | +, −, +, −, +, −, +, − |
 | − at each momentary | 0, 0, 0, 0, 0, 0, 0, 0 | −, −, −, −, −, −, −, − |
+| + at each momentary | +, 0, 0, 0, 0, 0, 0, 0 | +, +, +, +, +, +, +, + |
 | +, −, +, − alternating | +, −, +, −, +, −, +, − | +, −, +, −, +, −, +, − |
 | + and − together at each momentary | +, −, +, −, +, −, +, − | +, −, +, −, +, −, +, − |
 
+**0 in sequence.** At the code's stepping, none offered from beyond the selves, a self shares 0 at no more momentaries in sequence than the selves sharing or releasing to it: at a spiral, at none in sequence.
+
+**The tables of selves at the code's stepping.** Each table of selves is the code's executing at its stated opening: the code steps each self's 1-now together at 17-next-now, the executing's own arrangement, and the parities again at the spirals, the crossing and the torus are that stepping's; each living self paces its own momentaries, and a table agreeing with its code shows that and nothing wider.
+
 **A spiral of selves.**
 
-| Number of selves. Each releases along (9) to the next, the last to the first. One sharing. First momentary: self 1 at prior −, the selves alternate along, and with an odd number the last and the first are alike. None offered from beyond the spiral | Self 1, each changing of 10 released along (9), momentaries 1 to 12 | Momentaries to each self's releasings again |
+| Number of selves. Each releases along (9) to the next, the last to the first. One sharing. First momentary: self 1 at prior −, the selves alternate along, and with an odd number the last and the first are alike. None offered from beyond the spiral | Self 1, each changing of 10 released along (9), momentaries 1 to 12 | Momentaries to each self's releasings again: with an odd number of selves, four times the number; with an even number, 2; at an odd number each self's releasing at twice the number of momentaries is its releasing inverted, a 0 as it was |
 |---|---|---|
 | 1 | +, 0, −, 0, +, 0, −, 0, +, 0, −, 0 | 4 |
 | 2 | +, −, +, −, +, −, +, −, +, −, +, − | 2 |
@@ -619,9 +637,11 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 17 | +, 0, −, +, −, +, −, +, −, +, −, + | 68 |
 | 59 | +, 0, −, +, −, +, −, +, −, +, −, + | 236 |
 
+**Two momentaries before, inverted.** At a spiral, from any opening, each self's prior from the third momentary on is the prior of the self it receives from two momentaries before, inverted; no self shares 0 at the first momentary or at two momentaries in sequence.
+
 **Two spirals beside each other, and crossed.**
 
-| Selves in each of two spirals, each opened as the spiral of selves | Beside each other: momentaries to each self's releasings again together | Crossed, self 1 of each spiral sharing across (10) to self 1 of the other: momentaries to each self's releasings again | Crossed: releasings again from this momentary on | Crossed: self 1 of each, alike or opposite in parity | Each spiral's like pair in the first momentary, the last and the first |
+| Selves in each of two spirals, each opened as the spiral of selves | Beside each other: momentaries to each self's releasings again together, the least number both spirals' momentaries divide: four times both for odd numbers sharing no factor, 9 and 25 at 900 | Crossed, self 1 of each spiral sharing across (10) to self 1 of the other: momentaries to each self's releasings again | Crossed: releasings again from this momentary on, m the lesser of the two numbers: both odd and unequal, again at 2 from momentary 4m at n less than twice m, and from 2n + 1 at n more; one number even, from twice the odd number and 1; both even, from the first | Crossed: self 1 of each, alike or opposite in parity | Each spiral's like pair in the first momentary, the last and the first |
 |---|---|---|---|---|---|
 | 2 · 3 | 12 | 2 | 7 | opposite | none · selves 3 and 1 |
 | 3 · 5 | 60 | 2 | 12 | opposite | selves 3 and 1 · selves 5 and 1 |
@@ -634,7 +654,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 
 **A torus of selves.**
 
-| Torus of selves, p along · q across. Each releases along (9) to the next along and shares across (10) to the next across, the last to the first. One sharing. First momentary: one self at prior −, the selves alternate along and across, and with an odd number the last and the first are alike. None offered from beyond the torus. Both numbers odd, p the smaller: q at a q more than twice p, and 4p at each other q; either number even: 2 | Momentaries to each self's releasings and sharings again | Again from this momentary on | Spirals of p and q beside each other: momentaries to each self's releasings again together |
+| Torus of selves, p along · q across. Each releases along (9) to the next along and shares across (10) to the next across, the last to the first. One sharing. First momentary: one self at prior −, the selves alternate along and across, and with an odd number the last and the first are alike. None offered from beyond the torus. Both numbers odd, p the smaller: q at a q more than twice p, and 4p at each other q; either number even: 2 | Momentaries to each self's releasings and sharings again | Again from this momentary on: both numbers odd, p the smaller, from momentary 3p − 1 at q more than twice p, and from 3p − 3 at each other q; either number even, from the first; 1 · 1, the spiral of one, from the first | Spirals of p and q beside each other: momentaries to each self's releasings again together |
 |---|---|---|---|
 | 1 · 3 | 3 | 2 | 12 |
 | 2 · 3 | 2 | 1 | 12 |
@@ -647,6 +667,8 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 | 5 · 11 | 11 | 14 | 220 |
 | 7 · 17 | 17 | 20 | 476 |
 | 17 · 59 | 59 | 50 | 4,012 |
+
+**The torus's two carried forms.** Both numbers odd, p the smaller: at q more than twice p, from momentary 3p − 1, the selves' pattern at each momentary is the pattern before carried one self on round the q selves; at each other q, from 3p − 3, the pattern two momentaries on is the pattern inverted and carried one self on round the p selves.
 
 **Two selves.**
 
@@ -663,7 +685,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 
 **Two selves, three momentaries, five parities.**
 
-| The other's prior (3), along | The other's shared (10), across | The self's prior, now (3), along | The self's shared (10), across | The self's next prior (11), along. Two selves coupled both ways, across or along, each self at a prior parity, none offered from beyond the two, each opening, each momentary: six forms, four at an alike opening and two at an opposite, each momentary from the second |
+| The other's prior (3), along | The other's shared (10), across | The self's prior, now (3), along | The self's shared (10), across | The self's next prior (11), along. Two selves coupled both ways, across or along, each self at a prior parity, none offered from beyond the two, each opening, each momentary: six forms, four at an alike opening and two at an opposite, each momentary from the second, and at each form the fifth, the self's next prior, is the first, the other's prior, inverted |
 |---|---|---|---|---|
 | + | − | − | 0 | − |
 | + | − | + | − | − |

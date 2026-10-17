@@ -250,3 +250,43 @@ the next prior, the next prior, odd, existing,
 | 4 | **4-now-co-still-possibling** | now, the self's span | even, possibling | between two | each sharing at which the offerings and the prior meet |
 
 | 9 | **9-next-co-changing** | next, the society's span | odd, existing | between two | each changing released along, to the self 5 names |
+
+## The anchors of the older droplets risen at v389
+
+**Each name, three scales.**
+
+| Momentaries to each self's releasings again |
+
+| Again from this momentary on |
+
+| Crossed: releasings again from this momentary on |
+
+| Beside each other: momentaries to each self's releasings again together |
+
+**Each name and its relations.**
+
+**Two selves.**
+
+**Eight even names, 8 apart.**
+
+**Two spirals beside each other, and crossed.**
+
+| self next, at 3 | 3 | 4 | 5 | 6 | 7 |
+
+two at an opposite, each momentary from the second
+
+**Twelve forms.**
+
+| the eight odd names | its odd, at now and at next |
+
+each a self, and the society is its selves.
+
+and need no name of their own.
+
+**One self, one momentary.**
+
+| − at each momentary | 0, 0, 0, 0, 0, 0, 0, 0 | −, −, −, −, −, −, −, − |
+
+| + and − together at each momentary | +, −, +, −, +, −, +, − | +, −, +, −, +, −, +, − |
+
+**A spiral of selves.**
