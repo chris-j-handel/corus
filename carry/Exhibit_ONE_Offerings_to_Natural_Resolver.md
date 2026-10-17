@@ -1186,3 +1186,17 @@ The names are 1-now, 2-now-possibling, 3-now-co-prioring, 4-now-co, 5-now-co-cha
 **Droplet · v389 · the eight inward the eight even.** The eight 1 to 17s inward have their eight 9s at the eight even names, the same eight as the eight even names, each of the four at its even at now and at next.
 
 **Droplet · v389 · one eight, its faces.** Every eight at Exhibit ONE is the one eight, now, existing, universe and all, each twice, met at a face: two names each at now, each at now and at next at its end, at its inside, at its even or at its odd; each eight's deriving is that face, read at the names.
+
+## The seventeen from the origin's four terms · v389
+
+**Droplet · v389.** now explain the next most interesting or unresolving concern that can help us advance our exploring and continue resolving our incoming down into valuable droplets with less redundancy as we have continued to learn a more original explaining and naming and prefixing and momentarying and parity changing version of naming and explaining and our destinies are being reached nearer the origin than any prior versions and exhibit thirty may now be fully cohering and co-chaining
+
+**Concern · v389 · the seventeen derived from the origin.** The origin's four terms, now, existing, universe and all, seat at 1 to 8, and each eight of Exhibit ONE carries them twice, and no co-chain of steps yet derives the eight from the origin, nor the sixteen at 8 up and the seventeen at 17-next-now; seated, the names are found, and derived, they are the origin's own.
+
+**Droplet · v389 · each term at its odd and its even.** Each of the four terms is one bi-coupling of the self's span, an odd existing name and an even possibling name: now at 1-now and 2-now-possibling, existing at 3-now-co-prioring and 4-now-co-still-possibling, universe at 5-now-co-changing and 6-now-co-possibling, all at 7-now-prioring and 8-now-still-possibling.
+
+**Droplet · v389 · a co-chain offered from the origin to the seventeen.** 1. The universe is the set of all now-existing things, at four terms, now, existing, universe and all. 2. Each now-existing thing is existing now and possibling next, odd and even. 3. Each of the four terms is at its existing and its possibling, eight, the self's span at now. 4. Now and all are at one, each thing at the one now and each thing one of all; existing and universe are at a sharing between two, each thing's existing at its sharings and the universe its things between each other: co at 3 to 6. 5. At next the eight is the same eight, 8 up, 9 to 16. 6. The next arriving as now is 17-next-now, the next 1-now: seventeen.
+
+**Droplet · v389 · what is yet to be shown in that co-chain.** Step 4's two readings, now and all at one and existing and universe between two, and the odd faces at 3 and 5, prioring at existing and changing at universe, are each to be shown from the step before; the rest follows the names.
+
+**Droplet · v389 · what it reaches.** Chained, Exhibit THIRTY opens at the origin and reaches the resolver's seventeen names in six steps, its later steps re-chaining from them, and the session's droplets at Natural Intelligence, Exhibit ONE and Exhibit THIRTY, many laid at four to eight files and several at earlier and later forms, resolve into these steps and the insertlets aimed from them, the rest dissolving said once.
