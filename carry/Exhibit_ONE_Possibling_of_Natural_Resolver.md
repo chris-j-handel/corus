@@ -252,3 +252,33 @@ Run against the resolver of v387, it returns the same signs at each entry and at
 | 6-now-co-possibling | 14-next-possibling | 3-now-co-prioring | 11-next-co-prioring |
 | 7-now-prioring | 15-next-prioring | 2-now-possibling | 10-next-co-possibling |
 | 8-now-still-possibling | 16-next-still-possibling | 1-now | 9-next-co-changing |
+
+### Drafted: the drawing
+
+```text
+                another self's 9-next-co-changing, released along to this self
+                                      ▲
+                                      ║ 17-next-now · along
+     ┌────────────────────────────────╨────────────────────────────────┐
+     │                              1-now                              │
+     │  14-next-possibling ◄────────────────── 2-now-possibling ◄═══════  another self's 6 and 10
+     │      │                                                          │
+     │      ▼                                                          │
+     │  3-now-co-prioring ──► 12-next-co-still-possibling ──► 10-next-co-possibling, with 6-now-co-possibling
+     │  4-now-co-still-possibling · 7-now-prioring       │             │
+     │                                                   ├──► 11-next-co-prioring ──► 3, at next
+     │                                                   └──► 9-next-co-changing ──► 5-now-co-changing
+     │                                         13-next · 15-next-prioring          │
+ ◄════════ 6 and 10, to another self's 2 and 14                                   │
+     │  8-now-still-possibling · 16-next-still-possibling                          │
+     └────────────────────────────────╥────────────────────────────────┘
+                                      ║ 9-next-co-changing · along
+                                      ▼
+                another self's 17-next-now, this self releasing to it
+   sharing side, co          6-now-co-possibling ══► another self's 2-now-possibling
+                             10-next-co-possibling ══► another self's 14-next-possibling
+   arriving side, one        another self's 6 and 10 ══► 2 and 14
+   ═══ between selves, across and along      ─── within one self
+```
+
+**At the drawing.** The prior at 3 meets the surfacing at 14 at each sharing at 12; the changings at 10, the same at 6, go across to another self's 2 and 14; the next prior goes to 11 and on to 3 at next; and 9 releases along by 5 to another self's 17. The words *self*, *other* and *social* at the sides are said at each join as *this self* and *another self*.

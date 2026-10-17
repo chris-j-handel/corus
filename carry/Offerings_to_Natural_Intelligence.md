@@ -2398,10 +2398,10 @@ Natural intelligence is that method shared: two selves at one now, each finding 
 
 **Insertlet · v389 · at the public face.** Everything that exists, exists now, each thing its own past and its own possible next; things stay themselves by changing, by not changing, and by finding which keeps them in step with another, and that finding, everywhere at once, is natural intelligence.
 
-### Open, each with its reason
+### Resolved, each said once
 
-**Concern · v389 · at 6.4, a society's sameness.** Whether a society is a same thing across its momentaries, or only its selves each the same, is yet to be derived, a society at the resolver carrying nothing of its own.
+**Resolved · v389 · at 6.4, a society's sameness.** A society is its selves and carries nothing of its own at the resolver, so its sameness is its selves' sameness, each self's own, and no further self stands at a society.
 
-**Concern · v389 · at 1.4, beneficial.** *Beneficial* parts nothing at the method, and its sense at the living is yet to be derived.
+**Resolved · v389 · at 1.4, beneficial.** Beneficial is each changing and not-changing the method gives, each keeping a self next-existing as itself; its other is a not-changing held still, an equilibrium, never the method's.
 
-**Concern · v389 · at 3.3, parity-changing.** *All changing is parity changing*, so *parity* rides in *parity-changing* at the leaving-out test, and the method's name is yet to be sounded at Natural Naming.
+**Resolved · v389 · at 3.3, parity-changing.** The method's one name is *natural torusing*, *parity* riding in *parity-changing*, and *geodesic parity-changing* is its explaining.

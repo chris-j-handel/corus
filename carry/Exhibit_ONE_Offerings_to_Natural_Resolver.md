@@ -1328,10 +1328,10 @@ The names are 1-now, 2-now-possibling, 3-now-co-prioring, 4-now-co, 5-now-co-cha
 
 **Droplet · v389 · released, said once.** The possible project *5 read from the selves' carryings* is released: reading 5 at the code from the selves' next priors makes the method a doer of the living's own discovering.
 
-### Open, each with its reason
+### Resolved, each said once
 
-**Concern · v389 · at the drawing.** The resolver's drawing carries the prior names and the sides *self, other, social*, and its re-saying at the numbered names is yet to be made.
+**Resolved · v389 · at the drawing.** The drawing is re-drawn at the numbered names at Exhibit ONE's possibling, *another self* at each join in place of the sides' words.
 
-**Concern · v389 · at 1, 13 and 17.** 1-now, 13-next and 17-next-now carry no -ing, and their standing as the momentaries themselves is yet to be met at Natural Naming.
+**Resolved · v389 · at 1, 13 and 17.** 1-now, 13-next and 17-next-now are the momentaries themselves and stand with no -ing, an -ing riding at each.
 
-**Concern · v389 · at the society's span.** At 9 to 16 co runs two, two, one, one, and the four binaries' faces there are yet to be derived.
+**Resolved · v389 · at the society's span.** At 9 to 16 now stands between two and same at one, the society's face of the four binaries, read at 9, 10, 13 and 14's lines.

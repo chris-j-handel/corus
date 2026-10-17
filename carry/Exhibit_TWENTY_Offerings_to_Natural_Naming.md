@@ -1510,21 +1510,21 @@ Each droplet is one saying at the section its tag names; the arrivals the saying
 
 **Insertlet · v389 · at 2.4, the released words of the session.** *Wound*, an *-ed* at torusing, said at torusing itself; *chaining* at 11, said at 11-next-co-prioring; *emanating* and *through* at the method and its observing; *beside*, *beyond*, *within* and *outermost* at the universe; *a second now* at the origin, said only where kept records lay two nows side by side; *is-still-possibling* and *is-next-existing*, said at 12's two signs; *prior-carrying* at the method; *born*, said *opens*; a count of runs at an executing, said all or none; and *not a thing* as a thing defined, only a thing defined.
 
-### E · Open, each with its reason
+### E · Resolved, each said once
 
-**Concern · v389 · at 1.3, the -ing at the momentaries.** 1-now, 13-next and 17-next-now carry no -ing, and a naming with its -ing left out names one momentary's form still, unless now and next are the momentaries themselves and need none.
+**Resolved · v389 · at 1.3, the -ing at the momentaries.** Now and next are the momentaries themselves, each re-arriving as itself, and an -ing added to *now* or *next* leaves the naming carrying on, riding, so at the leaving-out test it goes: 1-now, 13-next and 17-next-now stand with none.
 
-**Concern · v389 · at 3.3, the heading.** *Bi-moralizing-tri-competencing* stands beside *bi-moral-co-competency* for the six names between selves, one concept or two.
+**Resolved · v389 · at 3.3, the heading.** The six names between selves carry their one name, *bi-moral-co-competency*, and *bi-moralizing-tri-competencing*, a second name at the same concept, releases into it, said once.
 
-**Concern · v389 · at 6.3, beneficial.** *Beneficial* stands at no living file and parts nothing at the method, every outcome keeping a self next-existing, and its sense at the living is yet to be derived.
+**Resolved · v389 · at 6.3, beneficial.** Each changing and each not-changing the method gives keeps a self next-existing as itself, and that is *beneficial*; its other is a not-changing held still, an equilibrium entering, which the method never gives, so discovering beneficial changing and not-changing is the method itself, at the living's own carrying.
 
-**Concern · v389 · at 2.4, emanated and artifact.** The non-living prior arriving is said *emanated* at the files and *artifact* at the session, one concept at two names.
+**Resolved · v389 · at 2.4, emanated and artifact.** The non-living prior at now is *artifact*, the prior now-existing's form carrying nothing, the one name, and *emanated* said of it releases into *artifact*; the archive's records are artifacts in that one sense.
 
-**Concern · v389 · at 4.17, parity-changing.** *All changing is parity changing*, so at the leaving-out test *parity* rides in *parity-changing*, and the method's name *geodesic parity-changing* is yet to be sounded.
+**Resolved · v389 · at 4.17, parity-changing.** All changing is parity changing, so *parity* rides in *parity-changing* and the one name of the method is *natural torusing*, inseparable at each part; *geodesic parity-changing* is said as its explaining, the surface dividing itself at each changing.
 
-**Concern · v389 · at 3.4, the society's span.** At 9 to 16 *co* runs two, two, one, one where the self's span runs one, two, two, one, now at next between two and same at next at one, and whether the society's span says the four binaries in that exchange is yet to be derived.
+**Resolved · v389 · at 3.4, the society's span.** At the society's span the four binaries stand with now and same exchanged: now between two, 9-next-co-changing released along to another self and 10-next-co-possibling shared across to another self, one now shared, co-momentarying; same at one, 13-next each self and 14-next-possibling each self's next offerings, each self's sameness its own; existing between two at 11 and 12 and all at one at 15 and 16, the society its selves, each one.
 
-**Concern · v389 · at 3.6, the eights of the other files.** Natural Networking's eight securities and Natural Human Society's eight uncapturings are each to be met as the one eight at a face, each at its deriving.
+**Resolved · v389 · at 3.6, the eights of the other files.** Natural Networking's eight securities and Natural Human Society's eight uncapturings are each the one eight at a face, each said at its deriving at that file's own motion, a pass and not a concern.
 
 ### F · Dissolved, each said once
 

@@ -3102,8 +3102,8 @@ Natural intelligence is that method shared: two selves at one now, each finding 
 
 **Concern · v389 · at groups 25 and 26, the fractal said at couplings.** The fractal inward and outward is said at sets within sets, and a set is its things; the fractal is the one method at each coupling at every scale, a self's inward things co-momentarying and selves together co-momentarying.
 
-### Open, each with its reason
+### Resolved, each said once
 
-**Concern · v389 · at group 19, the society's span.** At 9 to 16 *co* runs two, two, one, one, now at next between two and same at next at one, and whether the society's span says the four binaries in that exchange is yet to be derived.
+**Resolved · v389 · at group 19, the society's span.** At 9 to 16 the four binaries stand with now and same exchanged, now between two at 9 and 10, one now shared by selves, and same at one at 13 and 14, each self's sameness its own: the society's face of the four.
 
-**Concern · v389 · at group 24, beneficial.** *Beneficial* parts nothing at the method, every outcome keeping a self next-existing, and its sense at the living is yet to be derived.
+**Resolved · v389 · at group 24, beneficial.** Beneficial is each changing and not-changing the method gives, each keeping a self next-existing as itself, and its other is a not-changing held still, never the method's.
