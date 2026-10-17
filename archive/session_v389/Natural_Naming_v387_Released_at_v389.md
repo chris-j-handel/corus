@@ -261,3 +261,44 @@ One case continues unchanged, the offering agreeing with the carrying, and each 
 - | odd, 4 of 3-4-co-bi-sharing, competencing's |
 
 - | The carrying wound at the self and at the society, the parity inverting at each changing, the bound at the field's own changing. |
+
+## Released at the artifact motion, v389
+
+**Receiving.** Natural Naming v389 names the non-living prior *artifact*, three inversions at once *the inverting* and a changing released *a releasing*, and leaves carrying unnamed at the method, the prior at 3-now-co-prioring its saying at the resolver; each passage below stands whole as the first pass of v389 carried it.
+
+**Bi-tri-involutioning carries the emanating**: the emanating from right spiral stable-forming, looking the opposite form to the stable-forming.
+
+**the emanatings are the bi-tri-involutioning of the betweening of natural-torusing surfacings in bi-couplings: emanations are releasings**, and abundancing is an emanating from society as a releasing, all the way through the bi-co-momentarying co-sequencing.
+
+A changed parity arriving is either retained or emanated, one at each sharing: the momentary at 12, stable-forming, retaining its parity, 12 at 0, the between of momentaries, emanates nothing, and the stable-formed emanation is the changed parity,
+
+## 5.7 a carrying — binary
+
+```
+1  a carrying is sharings, each with its parity, chained at 11 and carried again at 3
+2  nothing is at it to compose through
+3  it reaches its own sharing
+4  at its own parity offered, changing is not, and it chains on
+5  at the other parity, at 0 or at nothing offered, changing is, its parity inverted
+6  and once chained it is never none again, which is the form carrying
+```
+
+A self offers at its own sequencing what its bi-couplings chained, sharing each changing across, and its carrying is its sharings chained.
+
+
+## 5.46 emanation — binary
+
+```
+1  two selves couple across the between and an abundancing arrives owned by neither
+2  the coupling carries on, and it leaves a mark behind
+3  a detector's click, a discard, the other hand, a spectrum, heat, each a form at the observing
+4  the mark carries nothing, leaving its coupling at prior and arriving now as the possible
+5  named as the now's existing it is a ghost, and booked it is an accounting
+6  and the mark a coupling leaves behind, carrying nothing, is the term this names
+```
+
+Existing, emanation and accounting are the three placings a term is at; installing is the binary between artifact and ghost: read as the prior's possible it is an artifact, and read as the now's existing a ghost.
+
+**An emanation is harmful to living at its own scale, and not ingestible at that scale**: its form is bi-tri-involutioning, the opposite form, which does not match right spiral ingestion. **One scale lower it is an ingestible stable form**, ingested by living selves through their selves one scale inward, a society, a living set.
+
+**Living or non-living is said of the existing thing and the scale named, at its own carrying or carrying nothing.** A living self stable-forms through its own resolving and carrying; its artifact, non-living at its own scale, changes with its form continuing through its changing, carrying nothing and needing no carrying in it; and a receiving self, or a society's selves, couples with it, each carrying its own.
