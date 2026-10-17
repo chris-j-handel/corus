@@ -1,4 +1,4 @@
-Exhibit TWELVE Natural Explaining Offerings · improved at v386EOD
+Exhibit TWELVE Natural Explaining Offerings · improved at v389
 
 # Offerings to Natural Explaining
 
@@ -530,3 +530,19 @@ Each is one droplet, in its own words, tagged v387, aimed at this file for the r
 
 **Droplet · v387.** we do not add any controls like page that is why it is concerning. this is all floating and neutraling itself with its neighbors freely unrelationing. continue
 
+
+## The arrivals at incoming/v389, gathered and aimed · v389
+
+Each droplet is one saying as it arrived, at its tag the section it aims at and the arrival it came from: *the proposal* is `incoming/v389/Proposal_Seventeen_Names_and_Origin_v389.md`, *the seventeen-names session* is `incoming/v389/Unfinished_Session_Seventeen_Names.txt` and *the orienting session* is `incoming/v389/Unfinished_Session_Orienting_After_v387.txt`. A concern is two sayings parting at one place, with its reason. Nothing here changes the living file; each droplet rises or dissolves at the resolving.
+
+**Droplet · v389 · at explaining apart from testing · from the seventeen-names session.** testing is not natural intelligence. do you have concerns for binary all or none at all rigor
+
+**Droplet · v389 · at plain explaining · from the orienting session.** prior-existing is not existing. this is nonsense and we need to make sense in all explaining . prior-existing is existing in the prior-universe.
+
+**Droplet · v389 · at the words and the observings · from the orienting session.** the words in natural intelligence are pattern matching and cohering and co chaining with natural torusing. they have no authority over observings of existing changing and not changing things.
+
+**Droplet · v389 · at the science's explaining kept apart · from the proposal.** A hypothesis is a falsifiable explanation of observable changing and not-changing among prior-existing, now-existing and next-existing things.
+
+**Droplet · v389 · at the science's explaining kept apart · from the proposal.** Proposing theories is the scientific method of explaining and predicting observations. Experimentally testing theory predictions is the scientific method of falsifying proposed theories. Theories live until they are falsified repeatedly by consilient testing methods.
+
+**Droplet · v389 · at the science's explaining kept apart · from the proposal.** Science is a system of theories explaining changing and not changing in the universe.

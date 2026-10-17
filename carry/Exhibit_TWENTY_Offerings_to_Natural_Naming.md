@@ -1,4 +1,4 @@
-Exhibit TWENTY Natural Naming Offerings · improved at v387
+Exhibit TWENTY Natural Naming Offerings · improved at v389
 
 # Offerings to Natural Naming
 
@@ -1122,3 +1122,31 @@ Each is one droplet, in its own words, tagged v387, aimed at this file for the r
 
 **Droplet · v387.** i do not have any authority so do not depend on me in that way. only the observings and cohering and co chaining has authority all or none at all over our working and explaining. all odd numbers are existing and all even numbers are possibling. self and other have opposite parity numbering systems
 
+
+## The arrivals at incoming/v389, gathered and aimed · v389
+
+Each droplet is one saying as it arrived, at its tag the section it aims at and the arrival it came from: *the proposal* is `incoming/v389/Proposal_Seventeen_Names_and_Origin_v389.md`, *the seventeen-names session* is `incoming/v389/Unfinished_Session_Seventeen_Names.txt` and *the orienting session* is `incoming/v389/Unfinished_Session_Orienting_After_v387.txt`. A concern is two sayings parting at one place, with its reason. Nothing here changes the living file; each droplet rises or dissolves at the resolving.
+
+**Droplet · v389 · at 2.1, the hyphen · from the orienting session.** (prior-existing then prior-carrying) (now-existing then still-possibling) (next-existing then next-possibling) this should be our new natural naming where the hyphens are always our binary naming. The universe is the set of all things now-existing.
+
+**Droplet · v389 · at 2.1, the hyphen · from the orienting session.** The hyphenated now-existing makes these two words inseparable in our method of explaining and naming.
+
+**Droplet · v389 · at 2.4 and 6.3 · from the orienting session.** there is no map. there is no momentary. there is momentarying. there is no discovered, there is discovering. ... there is no fixed form. nothing is chained. all of this is pseudo understanding of a binary all or none at all method of discovering next possible existing
+
+**Droplet · v389 · at 6.3, set namings · from the orienting session.** Prior-universe, now-universe and next-universe, three hyphenated namings, say *each momentary is a universe* as names.
+
+**Droplet · v389 · at the bi- and co- namings · from the orienting session.** co-momentarying is two (self/other in society) sharing the same one now-existing inside a bi-coupling.
+
+**Droplet · v389 · at the five parities · from the orienting session.** the needed five parities for co-chaining with natural torusing no other possible are prior-existing, prior-carrying, now-existing, now-possibling, next-existing.
+
+**Droplet · v389 · at the seventeen names · from the proposal.** bi-moralizing-tri-compentencing: 1-co-bi-tri-offering now; 2-bi-co-bi-offering now-possibling; 3-co-bi-co-sharing now-co-prioring; 4-bi-co-bi-sharing now-co-still-posssibling; 5-co-bi-co-competencing now-co-changing; 6-bi-co-bi-moralizing now-co-possibling; 7-co-bi-co-corusing now-prioring; 8-bi-co-bi-torusing now-still-possibling; 9-tri-bi-co-momentarying next-co-changing; 10-bi-tri-bi-tunneling next-co-possibling; 11-tri-bi-tri-chaining next-co-prioring; 12-bi-tri-bi-entraining next-co-still-possibling; 13-tri-bi-tri-competencing next; 14-bi-tri-bi-moralizaing next-possibling; 15-tri-bi-tri-corusing next-prioring; 16-bi-tri-bi-torusing next-still-possibling; 17-co-bi-tri-offering next-now.
+
+**Concern · v389 · at 5.62 · from the seventeen-names session.** The files give is-still-possibling a particular meaning, the not-changing outcome at the self's resolving, and *next-still-possibling* at 10, 14 or 16 may instead name an offering still possibling at another self; the two can coexist only when the subject and relation make the difference explicit.
+
+**Concern · v389 · at 2.4, the travel row · from the orienting session.** The travel row says *the universe of all existing things changing through prior, now and next together*, three places, and the origin has one now; three sequential universes, one now-existing, says the same carrying with no three standing at once.
+
+**Concern · v389 · at 2.4, the living row · from the orienting session.** The living row says *the prior is non-living*, and the prior-universe has its living and its non-living like any universe; what is non-living at now is the emanation, prior-existing arriving with no carrier.
+
+**Concern · v389 · at 2.4 and the resolver's 11 · from the orienting session.** The arriving says *nothing is chained* and *there is no momentary*, and Natural Naming carries *chaining* at 11 and *momentary* at many sentences; each parts until it is said at what it carries or re-named.
+
+**Droplet · v389 · at the names as the proposal spells them · from v389's own reading.** The proposal spells *compentencing*, *posssibling* and *moralizaing*, and Natural Naming's names are *competencing*, *possibling* and *moralizing*.

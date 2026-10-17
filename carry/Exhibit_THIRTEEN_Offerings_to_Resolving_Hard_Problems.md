@@ -1,4 +1,4 @@
-Exhibit THIRTEEN Resolving Hard Problems Offerings · improved at v386EOD
+Exhibit THIRTEEN Resolving Hard Problems Offerings · improved at v389
 
 # Offerings to Resolving Hard Problems
 
@@ -290,3 +290,25 @@ Each is a changing made at the set this session, said once here so that this fil
 **Droplet · Fourteen names read the same from either end, and three do not.** 1, 9 and 17 carry a direction, the entry and the two along names, odd, existing; the fourteen others, the across names and the self's own resolving, read the same both ways: direction is at existing, along, and bi-morality across is or is not.
 
 **Droplet · What arrives at no next does not exist.** This is the proof's own saying inside nature, and *a form named still* is a sayer's; where this file rests a saying on *a form named still*, the one sentence carries it, and the equilibria's proof, the inception's and the living-at-a-scale proof are one proof at three subjects.
+
+## The arrivals at incoming/v389, gathered and aimed · v389
+
+Each droplet is one saying as it arrived, at its tag the section it aims at and the arrival it came from: *the proposal* is `incoming/v389/Proposal_Seventeen_Names_and_Origin_v389.md`, *the seventeen-names session* is `incoming/v389/Unfinished_Session_Seventeen_Names.txt` and *the orienting session* is `incoming/v389/Unfinished_Session_Orienting_After_v387.txt`. A concern is two sayings parting at one place, with its reason. Nothing here changes the living file; each droplet rises or dissolves at the resolving.
+
+**Droplet · v389 · at the scientific method · from the proposal.** An explanation of naturally observable changing and not-changing is falsifiable if it excludes the possibility of existing things discovering beneficial changing and not-changing.
+
+**Droplet · v389 · at the scientific method · from the proposal.** All science requires at least one method of existing by discovering beneficial changing and not-changing.
+
+**Droplet · v389 · at the scientific method · from the proposal.** The scientific method is not possibly explaining the observings of changing and not-changing from prior-existing to next-existing things in the universe.
+
+**Droplet · v389 · at the scientific method · from the proposal.** A hypothesis is a falsifiable explanation of observable changing and not-changing among prior-existing, now-existing and next-existing things.
+
+**Droplet · v389 · at the scientific method · from the proposal.** Without a hypothesis the scientific method is non-existing.
+
+**Droplet · v389 · at the scientific method · from the proposal.** With a hypothesis the scientific method is explaining that stilling and changing without considering the rest of the universe.
+
+**Droplet · v389 · at the scientific method · from the proposal.** Proposing theories is the scientific method of explaining and predicting observations. Experimentally testing theory predictions is the scientific method of falsifying proposed theories. Theories live until they are falsified repeatedly by consilient testing methods.
+
+**Droplet · v389 · at the scientific method · from the proposal.** Science is a system of theories explaining changing and not changing in the universe.
+
+**Droplet · v389 · at living and non-living theories · from the proposal.** Theories remain living while they are not yet falsified and scientists continue testing them and non-living where they have been satisfactorily falsified or testing is no longer.

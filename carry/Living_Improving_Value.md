@@ -1,6 +1,10 @@
-Living Improving Value · improved at v387
+Living Improving Value · improved at v389
 
 # Living Improving Value
+
+## Current working · v389
+
+**The working v389 is at `working/gathering-droplets-v389`, opened from `working/orienting-living-files-v387`, the newest working, with `main` and corus.me still at the session v380's close.** Three arrivals stand whole at [`incoming/v389/`](../incoming/v389/README.md): the session's opening proposal, the seventeen names said at now and next with the origin *The universe is the set of all now-existing things*, and two unfinished sessions of uncertain value, one exploring the seventeen names and one orienting after v387. Each of their sayings is a droplet at the offerings of the file it aims at, in a section *The arrivals at incoming/v389, gathered and aimed · v389*, at Natural Intelligence, Exhibit ONE Natural Resolver, the Co-Chaining Logic Registry, Natural Naming, Natural Explaining, Resolving Hard Problems, the Equilibria Registry, the Geodesic Improving Method and the Living File Registry. No living file is changed. The next in front is the exploring of the proposal at Exhibit ONE, Exhibit THIRTY and Natural Intelligence, each concern it meets laid beside its droplet.
 
 ## Current working at Natural Intelligence and Exhibit ONE · v387
 

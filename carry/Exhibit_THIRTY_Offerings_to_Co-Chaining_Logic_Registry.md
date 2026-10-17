@@ -1,4 +1,4 @@
-Exhibit THIRTY Co-Chaining Logic Registry Offerings · improved at v386EOD
+Exhibit THIRTY Co-Chaining Logic Registry Offerings · improved at v389
 
 # Offerings to Co-Chaining Logic Registry
 
@@ -2533,3 +2533,41 @@ Each is one droplet, in its own words, tagged v387, aimed at this file for the r
 
 **Droplet · v387.** i do not have any authority so do not depend on me in that way. only the observings and cohering and co chaining has authority all or none at all over our working and explaining. all odd numbers are existing and all even numbers are possibling. self and other have opposite parity numbering systems
 
+
+## The arrivals at incoming/v389, gathered and aimed · v389
+
+Each droplet is one saying as it arrived, at its tag the section it aims at and the arrival it came from: *the proposal* is `incoming/v389/Proposal_Seventeen_Names_and_Origin_v389.md`, *the seventeen-names session* is `incoming/v389/Unfinished_Session_Seventeen_Names.txt` and *the orienting session* is `incoming/v389/Unfinished_Session_Orienting_After_v387.txt`. A concern is two sayings parting at one place, with its reason. Nothing here changes the living file; each droplet rises or dissolves at the resolving.
+
+**Droplet · v389 · at step 1 · from the proposal.** The universe is the set of all now-existing things. (note this is the one universal now momentary and all are different priors and different next, no two are alike in all three anywhere in the universe)
+
+**Droplet · v389 · at step 1 · from the orienting session.** The universe is the set of all things existing now. this is the most valuable origin concept we have discovered this entire living expedition and this will start resolving us and cohering and co chaining all of exhibt thirty and co-momentarying is the universal fractal method of social moral competency and possibling.
+
+**Concern · v389 · at steps 1, 4, 5 and 6 · from the orienting session.** Steps 1 and 4 carry the inception as two sentences, now derived at 4 and three sequential momentaries entering at 6 with no universe at each, and the arriving origin is one sentence with *now-existing* at its inception; at that origin step 1 is the one naming and the universes enter with the momentaries.
+
+**Droplet · v389 · after step 1, observings · from the proposal.** By observation, inside this universal set: 1. some prior-existing things become next-existing same things by changing 2. some prior-existing things become next-existing same things by not-changing 3. some existing same things are discovering beneficial changing and not-changing
+
+**Droplet · v389 · at step 5 · from the proposal.** There exists at least one method of an existing thing discovering beneficial changing and not-changing between prior-, now- and next-existing same thing.
+
+**Droplet · v389 · at step 5 · from the proposal.** Geodesic parity changing is one method of an existing thing discovering beneficial changing and not-changing (still-now-possibling, now-changing-next).
+
+**Droplet · v389 · at step 5 · from the proposal.** Geodesic parity-changing is the method of discovering this changing and not-changing through co-sequential momentary changings
+
+**Droplet · v389 · at steps 5 and 11 · from the proposal.** Geodesic parity changing is natural torusing, no other possible existing method of discovering beneficial changing and not-changing.
+
+**Droplet · v389 · at step 5 · from the proposal.** There is no other possible existing method of same-existing-prior-, now-, and next-thing discovering beneficial changing and not-changing
+
+**Droplet · v389 · at steps 6 and 7 · from the proposal.** By co-sequential binary all or none at all logic: Between prior-, now- and next-existing same-things are both changings and not-changing.
+
+**Droplet · v389 · at step 5 · from the proposal.** By inversion, the universe has only one method of now-existing things  changing and not-changing from prior-existing to next-existing things.
+
+**Droplet · v389 · at step 5 · from the proposal.** Equilibria is not possibly an existing method of changing and not-changing from prior-existing to next-existing things.
+
+**Droplet · v389 · at step 6 · from the orienting session.** (prior-existing then prior-carrying) (now-existing then still-possibling) (next-existing then next-possibling) this should be our new natural naming where the hyphens are always our binary naming. The universe is the set of all things now-existing.
+
+**Droplet · v389 · at step 3 and step 6 · from the orienting session.** prior-existing is not existing. this is nonsense and we need to make sense in all explaining . prior-existing is existing in the prior-universe.
+
+**Droplet · v389 · at step 4, coupling · from the orienting session.** co-momentarying is two (self/other in society) sharing the same one now-existing inside a bi-coupling.
+
+**Droplet · v389 · at step 8, one to nine · from the orienting session.** the needed five parities for co-chaining with natural torusing no other possible are prior-existing, prior-carrying, now-existing, now-possibling, next-existing.
+
+**Droplet · v389 · at steps 8 and 9, the names · from the proposal.** bi-moralizing-tri-compentencing: 1-co-bi-tri-offering now; 2-bi-co-bi-offering now-possibling; 3-co-bi-co-sharing now-co-prioring; 4-bi-co-bi-sharing now-co-still-posssibling; 5-co-bi-co-competencing now-co-changing; 6-bi-co-bi-moralizing now-co-possibling; 7-co-bi-co-corusing now-prioring; 8-bi-co-bi-torusing now-still-possibling; 9-tri-bi-co-momentarying next-co-changing; 10-bi-tri-bi-tunneling next-co-possibling; 11-tri-bi-tri-chaining next-co-prioring; 12-bi-tri-bi-entraining next-co-still-possibling; 13-tri-bi-tri-competencing next; 14-bi-tri-bi-moralizaing next-possibling; 15-tri-bi-tri-corusing next-prioring; 16-bi-tri-bi-torusing next-still-possibling; 17-co-bi-tri-offering next-now.

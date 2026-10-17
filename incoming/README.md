@@ -1,8 +1,10 @@
-Incoming · v387
+Incoming · v389
 
 # Incoming
 
 **Work arriving whole, as it arrived, until each value of it is a droplet at the offerings of the living file it concerns; then the arrival goes whole to `archive/`, its receiving named, relied on by nothing.**
+
+**At v389, `v389/` stands here**: the session's opening proposal and two unfinished sessions, whole as they arrived, each saying laid as a droplet at its file's offerings; [its README](v389/README.md) says each file's standing.
 
 At the close of the session v387 nothing stands here. Each prior working's folder, report and transcript is at `archive/`, and each value said in them is at the offerings, in its sayer's words, tagged by the working it came from. Each source the carryings files rest on is at `archive/` too, at its own name, and each naming of it at the carrying says that place.
 

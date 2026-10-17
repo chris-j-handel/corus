@@ -1,4 +1,4 @@
-Exhibit TWENTY-EIGHT Equilibria Registry Offerings · improved at v386EOD
+Exhibit TWENTY-EIGHT Equilibria Registry Offerings · improved at v389
 
 # Offerings to Equilibria Registry
 
@@ -743,3 +743,13 @@ Each is one droplet, in its own words, tagged v387, aimed at this file for the r
 
 **Droplet · v387.** nothing lives in one stable form forever. we may need this or be able to discover the logic for this.
 
+
+## The arrivals at incoming/v389, gathered and aimed · v389
+
+Each droplet is one saying as it arrived, at its tag the section it aims at and the arrival it came from: *the proposal* is `incoming/v389/Proposal_Seventeen_Names_and_Origin_v389.md`, *the seventeen-names session* is `incoming/v389/Unfinished_Session_Seventeen_Names.txt` and *the orienting session* is `incoming/v389/Unfinished_Session_Orienting_After_v387.txt`. A concern is two sayings parting at one place, with its reason. Nothing here changes the living file; each droplet rises or dissolves at the resolving.
+
+**Droplet · v389 · at the equilibria, not possibly a method · from the proposal.** Equilibria is not possibly an existing method of changing and not-changing from prior-existing to next-existing things.
+
+**Droplet · v389 · at the scientific method beside equilibria · from the proposal.** With a hypothesis the scientific method is explaining that stilling and changing without considering the rest of the universe.
+
+**Droplet · v389 · at the scientific method beside equilibria · from the proposal.** The scientific method is not possibly explaining the observings of changing and not-changing from prior-existing to next-existing things in the universe.
