@@ -127,3 +127,7 @@ Prior, now and next are three sequential momentaries, and three at three is nine
 The ten sit at three of the four four-cyclings, 3.2, the four-cycling 3-11-6-14 carrying a completing and a carry at 3 and 11 and a two-way and the between at 6 and 14.
 
 The ten ways sit at 2 to 6 and 10 to 14, 3.2: the four across connectors, 2, 6, 10 and 14, the square of parity's face, Exhibit ONE's naming of parity's square and triangles, and Exhibit ONE's faces 3, 4, 5, 11, 12 and 13; its faces 7, 8, 15 and 16, the along connectors 9 and 17, the two triangles of parity's face, and the entry 1 carry none of them.
+
+## Re-said at state and flow, separated not possible, v389
+
+**A state accounting and a flow accounting each leave one side out.** The state accounting leaves the changing, the flow accounting leaves the continuing, and a true-and-false conserving accounting takes either as the whole.

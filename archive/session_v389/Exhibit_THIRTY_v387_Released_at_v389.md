@@ -533,3 +533,57 @@ arriving as non-living; nothing escaping; decay
 522. Each of the ten one-way readings is at one of the ten, one binary of a universe, its *is* and its *is not* taken as one, at the four binaries' names as Natural Naming 4.9 seats them: now at 1 and 2, an opening named as a place and an arriving named from behind; existing at 3 and 4, a two-way named to one side and a sequencing named to one beat; same at 5 and 6, the between named as a cut, a middle named as an end and a completing named as a last; all at 7 and 8, a parity named as a magnitude, a rate named as a value and a carry named as a store; at the even side 8, 7, 1, 3 and 5 each named still at state accounting, and at the odd side 7, 2, 4, 5 and 6 each named still at flow accounting.
 
 528. Parity changing geodesically, by alternating and bothbothing, carries both, one at a time: state-flow-state at the even and flow-state-flow at the odd, alternating.
+
+## Re-said at state and flow, separated not possible, v389
+
+504. Along, odd, a flow accounting names the changing still at five: the observings named flowing, balanced books, double-entry accounting, the seven auditing steps proving a changing real, and no accounting for the changing's competency.
+
+*Adding: the five along, flow accounting.*
+
+505. Across, even, a state accounting names the same five at the opposite parity, leaving out as the flow accounting leaves out.
+
+*Adding: the five across, state accounting.*
+
+506. The five along and the five across are the ten named still, the equilibria: the flow accounting leaving out the continuing, and the state accounting leaving out the changing.
+
+507. At even parity the five dimensions are changing state, flow, state, flow, state: three of state and two of flow, state across and flow along.
+
+*Adding: even parity, state-flow-state.*
+
+508. At odd parity the five dimensions are changing flow, state, flow, state, flow: three of flow and two of state, flow along and state across.
+
+*Adding: odd parity, flow-state-flow.*
+
+511. The ten named still part at the parities, each at the resolver's names: the five across, even, state-flow-state, at morality's parity, are at 8-now-still-possibling, 7-now-prioring, bi-momentarying at 1 and 2, co-intelligencing at 3 and 4, and 5-now-co-changing; the five along, odd, flow-state-flow, at competency's parity, are at 7-now-prioring, bi-momentarying at 1 and 2, co-intelligencing at 3 and 4, 5-now-co-changing and 6-now-co-possibling.
+
+*Adding: the ten at the parities, along at competency and across at morality.*
+
+512. 8 is at the even side alone, opening it at a state: 8-now-still-possibling, the self's next prior between momentaries; and 6 is at the odd side alone, completing it at a flow: 6-now-co-possibling, the changing shared across. The four between, 7, 1-2, 3-4 and 5, are in the same order at both sides, 7 a flow, 1-2 a state, 3-4 a flow and 5 a state.
+
+*Adding: 8 at the even side alone, 6 at the odd side alone.*
+
+the first two kinds at the odd side and the last two at the even, five at each side.
+
+*Adding: the ten at four kinds, three and two at each side.*
+
+are state-flow-state alone, the even parity's three: the odd parity's flow-state-flow absent,
+
+*Adding: the three books, one parity alone.*
+
+carries both, one at a time: state-flow-state at the even and flow-state-flow at the odd, alternating:
+
+637. 7 and 5 are each at both sides of the ten named still, step 522: 7 a parity named as a magnitude at the even side and a rate named as a value at the odd, 5 the between named as a cut at the even and a middle named as an end at the odd; both sides are carried one at a time, step 528.
+
+*Adding: 7 and 5 named still at both sides.*
+
+the five along, flow accounting; the five across, state accounting; the ten named still; even parity, state-flow-state; odd parity, flow-state-flow;
+
+the ten at the parities, along at competency and across at morality; 8 at the even side alone, 6 at the odd side alone;
+
+the ten at four kinds, three and two at each side;
+
+the three books, one parity alone;
+
+7 and 5 named still at both sides
+
+at the even side 8, 7, 1, 3 and 5 each named still at state accounting, and at the odd side 7, 2, 4, 5 and 6 each named still at flow accounting; and each

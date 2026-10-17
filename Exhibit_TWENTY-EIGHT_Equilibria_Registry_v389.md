@@ -161,7 +161,7 @@ The equilibrium holding ends, and the living and non-living things it names keep
 
 **A conception naming a continuing and leaving out the participation that continuing carries is not possible.**
 
-**A state accounting and a flow accounting each leave one side out.** The state accounting leaves the changing, the flow accounting leaves the continuing, and a true-and-false conserving accounting takes either as the whole.
+**A state accounting and a flow accounting each leave one side out.** The state accounting leaves the changing, the flow accounting leaves the continuing, and a true-and-false conserving accounting takes either as the whole. **Separated, state and flow are not possible**, as a reading from and a writing to a memory are for intelligence: a state read is a store said as entering now, an ingressing, and a flow written a changing said as leaving into a store, an escaping.
 
 **Each conception of equilibria names unchanging or names changing, exactly one of the two.** A conception naming unchanging names an existing thing with no arriving, and existing is arriving; a conception naming changing names a changing still. Coupled, each releases.
 

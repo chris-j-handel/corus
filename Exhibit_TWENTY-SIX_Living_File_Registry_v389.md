@@ -391,7 +391,7 @@ Exhibit TWENTY-SIX Living File Registry v389
 | **Living Ghost Registry ⇌ Living Society Registry** | One observing at two registry faces; the society, accounting and installation remain separately addressable through paired entries. |
 | **Living Ghost Registry ⇌ Natural Resolver ⇌ Natural Intelligence** | The intake relations, resolving names and the four boundings at their inward and across faces; their detailed correspondence continues at the named operations. |
 | **Living Ghost Registry ⇌ Resolving the Hard Problem Registry** | The intake lines, the things named still, and state, flow or both; the correspondence belongs with each actual entry. |
-| **Living Ghost Registry ⇌ Numbers ⇌ Physics ⇌ Chemistry** | State and flow accountings at across and along, with both faces present in each science. |
+| **Living Ghost Registry ⇌ Numbers ⇌ Physics ⇌ Chemistry** | State and flow accountings, separated at each science's accounting and not possibly separated, both carried one at a time in each science. |
 | **Philosophy ⇌ Physics** | One dividing at thought and at a physical observing; each file’s method count and its particular experimental or conceptual contribution remain explicit. |
 | **Living Society Registry ⇌ Living File Registry** | The society of files and a society’s observing schema; the set’s possible entry at Living Society Registry remains at that receiving. |
 | **Natural Intelligence ⇌ Natural Resolver ⇌ Natural Naming ⇌ Natural Illustrating** | Four overlapping momentaries of exchanging, the resolving names and their visible correspondence. |

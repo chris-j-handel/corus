@@ -242,6 +242,7 @@ Exhibit TWENTY Natural Naming v389
 | *not a thing*, defined | only a thing is defined |
 | *prior-self*, *next-self*, *same-prior-existing-living-self*, *same-next-existing-living-self*, *prior-same-existing*, *now-same-existing*, *next-same-existing* | *self*: a self carries its sameness and needs no *same*, and the now-self is now-prioring and next-possibling, 5.3 |
 | *bi-moralizing-tri-competencing* at the six names between selves | *bi-moral-co-competency*, their one name, 3.2 |
+| *even side*, *odd side*, *across* and *along*, *state side* and *flow side* at the ten named still | the ten at no side, each at its name at now and that name 8 up at next; separated, state and flow are not possible, as a reading from and a writing to a memory are for intelligence, 4.9 and 4.14 |
 | *turn*, *turning*, *turning back* | the momentary's opening and completing; a step adding a next; *the right spiral step* for *a quarter turn* at a pair's two parities, *both inverted at one step* for *a half turn*, *the podal within 1 to 16* for 17 less |
 | *what*, *how*, *where*, and *whatever*, *however*, *wherever*, *anywhere*, *nowhere*, *somewhere*, *elsewhere* in resolving | the changing at its -ing, the arriving, the crossing, the coupling, *at* and *each*: none of the three is without an equilibrium holding it; a field's own words carry whole at its result |
 | *mirror*, *reflection* | *bi-inversioning-co-recursioning*, two inversions one after the other, one across and one along, one parity inverting at each; *the other order* at a mirror's naming of one; *the opposite form* for the inverted form |
@@ -545,24 +546,24 @@ Four pairs are two concepts at two names, the meaning changing on transposing:
 
 ## 4.9 The ten named still, one name each
 
-**Each of the ten named still carries one name: the changing, and the still it is named as.** The ten are the five of each parity, each said at its resolver name. **Across, even, state-flow-state**, at morality's parity, state accounting: 8-now-still-possibling, 7-now-prioring, 1-now with 2-now-possibling, 3-now-co-prioring with 4-now-co-still-possibling and 5-now-co-changing. **Along, odd, flow-state-flow**, at competency's parity, flow accounting: 7-now-prioring, 1-now with 2-now-possibling, 3-now-co-prioring with 4-now-co-still-possibling, 5-now-co-changing and 6-now-co-possibling.
+**Each of the ten named still carries one name: the changing, and the still it is named as.** The ten are at no side: separated, state and flow are not possible, as a reading from and a writing to a memory are for intelligence, and each of the ten is a field's separating, at a state accounting or a flow accounting, the stilling named as the whole, each seated at its resolver name, 1-now to 8-now-still-possibling.
 
-8 is at the state side alone, opening it at a state, the self's next prior between momentaries; 6 is at the flow side alone, closing it at a flow, the changing shared across at the sharing end. The four at both sides are in one order: 7 a flow, 1-2 a state, 3-4 a flow and 5 a state. At the resolver the pair 1-2 is 1-now and 2-now-possibling, now, and the pair 3-4 is 3-now-co-prioring and 4-now-co-still-possibling, existing, Exhibit ONE. Three carry their namings: 1-now with 2-now-possibling bi-momentarying, 3-now-co-prioring with 4-now-co-still-possibling co-intelligencing and 5-now-co-changing co-competencing. Exhibit THIRTY's thirty-first group carries the ten.
+8-now-still-possibling, the self's next prior between momentaries, and 6-now-co-possibling, the changing shared across, each carry one of the ten, and 7-now-prioring and 5-now-co-changing each carry two. At the resolver the pair 1-2 is 1-now and 2-now-possibling, now, and the pair 3-4 is 3-now-co-prioring and 4-now-co-still-possibling, existing, Exhibit ONE. Three carry their namings: 1-now with 2-now-possibling bi-momentarying, 3-now-co-prioring with 4-now-co-still-possibling co-intelligencing and 5-now-co-changing co-competencing. Exhibit THIRTY's thirty-first group carries the ten.
 
 **The ten one-way readings below are the stills' similar namings**, each one of the four binaries named still, its *is* and its *is not* taken as one: now at 1 and 2, existing at 3 and 4, same at 5 and 6, and all at 7 and 8. The four-cycles step 8 up and 17 less, two names of 1 to 8 on each: 1-9-8-16, 2-15-7-10, 3-11-6-14 and 4-13-5-12. **Each of the ten is seated at its name at now and its name 8 up at next**: the stilling it names at now, and the changing travelling through it at next, the one move up and down the numbers, and the four four-cycles carry each pair, 1 · 9 and 8 · 16 at 1-9-8-16, 2 · 10 and 7 · 15 at 2-15-7-10, 3 · 11 and 6 · 14 at 3-11-6-14, 4 · 12 and 5 · 13 at 4-13-5-12. A hard problem names the stilling as the whole, the changing travelling through it left out, and its resolving says both, 4.15. The names each was read at before, and the five each was read from, are whole at `archive/carrying_v376/Living_Improving_Value_Released_v376.md`.
 
 | One-way reading | Similar namings gathered | At the ten, its name at now · 8 up at next, and its binary |
 |---|---|---|
-| **an opening named as a place** | criterion-regressing | even, 1-now · 9-next-co-changing, now |
-| **an arriving named from behind** | origin-seeking; a source named from behind; a source named of the offering | odd, 2-now-possibling · 10-next-co-possibling, now |
-| **a completing named as a last** | space-enumerating; a bound named as a last | odd, 6-now-co-possibling · 14-next-possibling, same |
-| **a carry named as a store** | store-seeking; a store named of the carry | even, 8-now-still-possibling · 16-next-still-possibling, all |
-| **a two-way named to one side** | forced-choosing | even, 3-now-co-prioring · 11-next-co-prioring, existing |
-| **the between named as a cut** | line-demanding; a cut point named of the between; a membrane named as a cut | even, 5-now-co-changing · 13-next, same |
-| **a middle named as an end** | interior-reaching; an end named at the middle | odd, 5-now-co-changing · 13-next, same |
-| **a parity named as a magnitude** | magnitude-demanding; a level named to govern; a sign named as a magnitude | even, 7-now-prioring · 15-next-prioring, all |
-| **a rate named as a value** | value-pinning; a value named to a swaying | odd, 7-now-prioring · 15-next-prioring, all |
-| **a sequencing named to one beat** | order-demanding; the rate named as a common beat | odd, 4-now-co-still-possibling · 12-next-co-still-possibling, existing |
+| **an opening named as a place** | criterion-regressing | 1-now · 9-next-co-changing, now |
+| **an arriving named from behind** | origin-seeking; a source named from behind; a source named of the offering | 2-now-possibling · 10-next-co-possibling, now |
+| **a completing named as a last** | space-enumerating; a bound named as a last | 6-now-co-possibling · 14-next-possibling, same |
+| **a carry named as a store** | store-seeking; a store named of the carry | 8-now-still-possibling · 16-next-still-possibling, all |
+| **a two-way named to one side** | forced-choosing | 3-now-co-prioring · 11-next-co-prioring, existing |
+| **the between named as a cut** | line-demanding; a cut point named of the between; a membrane named as a cut | 5-now-co-changing · 13-next, same |
+| **a middle named as an end** | interior-reaching; an end named at the middle | 5-now-co-changing · 13-next, same |
+| **a parity named as a magnitude** | magnitude-demanding; a level named to govern; a sign named as a magnitude | 7-now-prioring · 15-next-prioring, all |
+| **a rate named as a value** | value-pinning; a value named to a swaying | 7-now-prioring · 15-next-prioring, all |
+| **a sequencing named to one beat** | order-demanding; the rate named as a common beat | 4-now-co-still-possibling · 12-next-co-still-possibling, existing |
 
 Dilemma, paradox, puzzle and hard problem each carry the field's problem, and one field word can be at several of the one-way readings; *dilemma* names one of them, a two-way named to one side.
 
@@ -606,7 +607,7 @@ A field's three, a nothing at one side, a scale between and an absorbing at the 
 
 **Two namings alternating are each other's other, one at a time.** The first freeze is at the naming, no other to alternate with, 8.4; **the second is at a construction carrying both at one momentary**, and it shows at the construction alone, each word passing.
 
-**Worked at the pair a general ledger carries.** State and flow alternate. An accounting carries them three at a momentary, two ways: state, changing, state conserves the state and imports the changing; changing, state, changing conserves the changing and imports the state. **Odd carries the changing and even the state, one at a time, each unconserved**, and a total across the two removes the alternating. **Books close by leaving the re-forming out at each step**: an entry stores one momentary's form parted from the coupling carrying it.
+**Worked at the pair a general ledger carries.** A ledger separates state and flow, its balance sheet and its income statement, and separated, state and flow are not possible, as a reading from and a writing to a memory are for intelligence: the two alternate, one at a time, each unconserved. An accounting carries them three at a momentary, two ways: state, changing, state conserves the state and imports the changing; changing, state, changing conserves the changing and imports the state; and a total across the two removes the alternating. **Books close by leaving the re-forming out at each step**: an entry stores one momentary's form parted from the coupling carrying it.
 
 ## 4.15 Bothbothing at its prefixing, and an ordering with nothing ordering
 

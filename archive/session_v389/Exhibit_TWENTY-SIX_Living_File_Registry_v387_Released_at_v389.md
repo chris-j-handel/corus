@@ -31,3 +31,7 @@ THIRTY · Co-Chaining Logic Registry: at the repository v387
 ## Re-said at living, stable-forming a self, v389
 
 throughout living society, inward and outward,
+
+## Re-said at state and flow, separated not possible, v389
+
+| State and flow accountings at across and along, with both faces present in each science. |

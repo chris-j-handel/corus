@@ -2216,27 +2216,27 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
 ## 31 The ten named still, and parity discovered
 
-        *Entering: the five along, flow accounting; the five across, state accounting; the ten named still; even parity, state-flow-state; odd parity, flow-state-flow; three of one and two of the other; two changing, three continuing; the ten at the parities, along at competency and across at morality; 8 at the even side alone, 6 at the odd side alone; the one move at 1 to 9; involution, its fixed set, the two involutions of an even ring; the ten inversions at the couplings among five; the fold at each scale; the two four-cycles at 1 to 9; the even names on the two four-cycles; the two-way looping, morality; opening 1 to 9 into 1 to 17; the two-way looping at 1 to 17; the ten one-way readings at the ten, at the four binaries; the ten at four kinds, three and two at each side; F and G, the two among the 256; the one possible at six forward; dilemma, a governing's forking; the three books, one parity alone; parity changing carrying both; parity as do-no-harm; parity's source a hardened hard problem; the ingressors of parity; either or; two-way parity between the living; the living ingesting the non-living, no parity lost.*
+        *Entering: a flow accounting; a state accounting; the ten named still; state-flow-state; flow-state-flow; three of one and two of the other; two changing, three continuing; the ten at no side; one at 8 and at 6, two at 7 and at 5; the one move at 1 to 9; involution, its fixed set, the two involutions of an even ring; the ten inversions at the couplings among five; the fold at each scale; the two four-cycles at 1 to 9; the even names on the two four-cycles; the two-way looping, morality; opening 1 to 9 into 1 to 17; the two-way looping at 1 to 17; the ten one-way readings at the ten, at the four binaries; the ten at four kinds, three, two, two and three; F and G, the two among the 256; the one possible at six forward; dilemma, a governing's forking; the three books, state-flow-state alone; parity changing carrying both; parity as do-no-harm; parity's source a hardened hard problem; the ingressors of parity; either or; two-way parity between the living; the living ingesting the non-living, no parity lost.*
 
-504. Along, odd, a flow accounting names the changing still at five: the observings named flowing, balanced books, double-entry accounting, the seven auditing steps proving a changing real, and no accounting for the changing's competency.
+504. A flow accounting names the changing still: the observings named flowing, balanced books, double-entry accounting, the seven auditing steps proving a changing real, and no accounting for the changing's competency.
 
-        *Adding: the five along, flow accounting.*
+        *Adding: a flow accounting.*
 
-505. Across, even, a state accounting names the same five at the opposite parity, leaving out as the flow accounting leaves out.
+505. A state accounting names the continuing still, leaving out the changing as the flow accounting leaves out the continuing.
 
-        *Adding: the five across, state accounting.*
+        *Adding: a state accounting.*
 
-506. The five along and the five across are the ten named still, the equilibria: the flow accounting leaving out the continuing, and the state accounting leaving out the changing.
+506. Separated, state and flow are not possible, as a reading from and a writing to a memory are for intelligence, and the ten named still, the equilibria, are each a field's separating: the flow accounting leaving out the continuing, and the state accounting leaving out the changing.
 
         *Adding: the ten named still.*
 
-507. At even parity the five dimensions are changing state, flow, state, flow, state: three of state and two of flow, state across and flow along.
+507. At one momentary the five dimensions are changing state, flow, state, flow, state: three of state and two of flow.
 
-        *Adding: even parity, state-flow-state.*
+        *Adding: state-flow-state.*
 
-508. At odd parity the five dimensions are changing flow, state, flow, state, flow: three of flow and two of state, flow along and state across.
+508. At the next the five dimensions are changing flow, state, flow, state, flow: three of flow and two of state.
 
-        *Adding: odd parity, flow-state-flow.*
+        *Adding: flow-state-flow.*
 
 509. At each parity three are of one and two of the other, the two and the three rotating round, one parity and then the other.
 
@@ -2246,13 +2246,13 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: two changing, three continuing.*
 
-511. The ten named still part at the parities, each at the resolver's names: the five across, even, state-flow-state, at morality's parity, are at 8-now-still-possibling, 7-now-prioring, bi-momentarying at 1 and 2, co-intelligencing at 3 and 4, and 5-now-co-changing; the five along, odd, flow-state-flow, at competency's parity, are at 7-now-prioring, bi-momentarying at 1 and 2, co-intelligencing at 3 and 4, 5-now-co-changing and 6-now-co-possibling.
+511. The ten named still are at no side, each at a resolver name: 1-now and 2-now-possibling bi-momentarying, 3-now-co-prioring and 4-now-co-still-possibling co-intelligencing, 5-now-co-changing, 6-now-co-possibling, 7-now-prioring and 8-now-still-possibling.
 
-        *Adding: the ten at the parities, along at competency and across at morality.*
+        *Adding: the ten at no side.*
 
-512. 8 is at the even side alone, opening it at a state: 8-now-still-possibling, the self's next prior between momentaries; and 6 is at the odd side alone, completing it at a flow: 6-now-co-possibling, the changing shared across. The four between, 7, 1-2, 3-4 and 5, are in the same order at both sides, 7 a flow, 1-2 a state, 3-4 a flow and 5 a state.
+512. 8-now-still-possibling, the self's next prior between momentaries, and 6-now-co-possibling, the changing shared across, each carry one of the ten, and 7-now-prioring and 5-now-co-changing each carry two.
 
-        *Adding: 8 at the even side alone, 6 at the odd side alone.*
+        *Adding: one at 8 and at 6, two at 7 and at 5.*
 
 513. At 1 to 9 the one move is 4 up and 9 less, the podal within 1 to 8.
 
@@ -2290,13 +2290,13 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: the two-way looping at 1 to 17.*
 
-522. Each of the ten one-way readings is at one of the ten, one binary of a universe, its *is* and its *is not* taken as one, at the four binaries' names as Natural Naming 4.9 seats them: now at 1 and 2, an opening named as a place and an arriving named from behind; existing at 3 and 4, a two-way named to one side and a sequencing named to one beat; same at 5 and 6, the between named as a cut, a middle named as an end and a completing named as a last; all at 7 and 8, a parity named as a magnitude, a rate named as a value and a carry named as a store; at the even side 8, 7, 1, 3 and 5 each named still at state accounting, and at the odd side 7, 2, 4, 5 and 6 each named still at flow accounting; and each of the ten is seated at its name at now and that name 8 up at next, the stilling it names and the changing travelling through it, 1 · 9, 2 · 10, 3 · 11, 4 · 12, 5 · 13, 6 · 14, 7 · 15 and 8 · 16, each pair at one four-cycle, step 257.
+522. Each of the ten one-way readings is at one of the ten, one binary of a universe, its *is* and its *is not* taken as one, at the four binaries' names as Natural Naming 4.9 seats them: now at 1 and 2, an opening named as a place and an arriving named from behind; existing at 3 and 4, a two-way named to one side and a sequencing named to one beat; same at 5 and 6, the between named as a cut, a middle named as an end and a completing named as a last; all at 7 and 8, a parity named as a magnitude, a rate named as a value and a carry named as a store; each at no side, state and flow carried one at a time at each, step 506; and each of the ten is seated at its name at now and that name 8 up at next, the stilling it names and the changing travelling through it, 1 · 9, 2 · 10, 3 · 11, 4 · 12, 5 · 13, 6 · 14, 7 · 15 and 8 · 16, each pair at one four-cycle, step 257.
 
         *Adding: the ten one-way readings at the ten, at the four binaries.*
 
-523. The ten named still are at four kinds, three, two, two and three, step 522: a reference named still behind an arriving, ahead of it or at its middle, the arriving named from behind, the completing named as a last and the middle named as an end; a rate named still, the sequencing named to one beat and the rate named as a value; a parity named a size, the parity named as a magnitude and the two-way named to one side; and a changing released entered as a magnitude spent, the opening named as a place, the carry named as a store and the between named as a cut: the first two kinds at the odd side and the last two at the even, five at each side.
+523. The ten named still are at four kinds, three, two, two and three, step 522: a reference named still behind an arriving, ahead of it or at its middle, the arriving named from behind, the completing named as a last and the middle named as an end; a rate named still, the sequencing named to one beat and the rate named as a value; a parity named a size, the parity named as a magnitude and the two-way named to one side; and a changing released entered as a magnitude spent, the opening named as a place, the carry named as a store and the between named as a cut: the first two kinds at a flow accounting and the last two at a state accounting, five of each.
 
-        *Adding: the ten at four kinds, three and two at each side.*
+        *Adding: the ten at four kinds, three, two, two and three.*
 
 524. Of the 256 ways from the four joint forms to the four, twenty-four carry the four onto the four one each, six of them the four as one cycle, and two of those are changing one parity at each step, F(P, Q) = (−Q, P) and G(P, Q) = (Q, −P), the same inversions in the other order.
 
@@ -2310,11 +2310,11 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: dilemma, a governing's forking.*
 
-527. A field's three books at a rung, a total and a level at state and a direction at flow, are state-flow-state alone, the even parity's three: the odd parity's flow-state-flow absent, either or and never both, and no fourth.
+527. A field's three books at a rung, a total and a level at state and a direction at flow, are state-flow-state alone, flow-state-flow absent, either or and never both, and no fourth.
 
-        *Adding: the three books, one parity alone.*
+        *Adding: the three books, state-flow-state alone.*
 
-528. Parity changing geodesically, by alternating and bothbothing, carries both, one at a time: state-flow-state at the even and flow-state-flow at the odd, alternating: the changing travelling through the stilling and the stilling unchanging while the changing travels through, bi-inversioning-co-recursioning up and down the numbers, step 255.
+528. Parity changing geodesically, by alternating and bothbothing, carries both, one at a time, state-flow-state and flow-state-flow alternating: the changing travelling through the stilling and the stilling unchanging while the changing travels through, bi-inversioning-co-recursioning up and down the numbers, step 255.
 
         *Adding: parity changing carrying both.*
 
@@ -2782,11 +2782,11 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
 ## 39 Named still at both sides, a bounded executing, the four-cycles' momentaries, 9 and 17, the prior two added and the co-sequencing
 
-        *Entering: 7 and 5 named still at both sides; a bounded executing said of each momentary, a proof of the whole; the four four-cycles' momentaries in order; 9 the next prior and 17 the next now; the prior two added as the exclusive or; the co-sequencing at competency's parity and morality's.*
+        *Entering: 7 and 5, two named still at each; a bounded executing said of each momentary, a proof of the whole; the four four-cycles' momentaries in order; 9 the next prior and 17 the next now; the prior two added as the exclusive or; the co-sequencing at competency's parity and morality's.*
 
-637. 7 and 5 are each at both sides of the ten named still, step 522: 7 a parity named as a magnitude at the even side and a rate named as a value at the odd, 5 the between named as a cut at the even and a middle named as an end at the odd; both sides are carried one at a time, step 528.
+637. 7 and 5 each carry two of the ten named still, step 522: 7 a parity named as a magnitude and a rate named as a value, 5 the between named as a cut and a middle named as an end; the two are carried one at a time, step 528.
 
-        *Adding: 7 and 5 named still at both sides.*
+        *Adding: 7 and 5, two named still at each.*
 
 638. A saying drawn from the resolver's executing at a number of momentaries, said as the same at each momentary, is a proof of the whole, step 143, a form still, step 144: the finding is at its executing alone, step 579, and a rule fitted at each case worked is at those cases.
 

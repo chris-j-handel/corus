@@ -399,3 +399,7 @@ the universe, the set of all now-existing things, the changing set of all living
 ## Re-said at the stilling and the changing travelling through it, v389
 
 **Stable-forming is the living condition resolving**, observable as natural torusing co-orienting stable-forming.
+
+## Re-said at state and flow, separated not possible, v389
+
+an accounting reaches no between, and living intelligence is discovered at no fixing, at the coupling alone.
