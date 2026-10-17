@@ -1335,3 +1335,13 @@ The names are 1-now, 2-now-possibling, 3-now-co-prioring, 4-now-co, 5-now-co-cha
 **Resolved · v389 · at 1, 13 and 17.** 1-now, 13-next and 17-next-now are the momentaries themselves and stand with no -ing, an -ing riding at each.
 
 **Resolved · v389 · at the society's span.** At 9 to 16 now stands between two and same at one, the society's face of the four binaries, read at 9, 10, 13 and 14's lines.
+
+## The naming motion, one motion at every file · v389
+
+**Droplet · v389.** i can not see any reasons for open standing concerns. keep resolving there are no holds or waiting or other stoppings bring anything here needing resolving and keep resolving our incoming towards our offering files and we can begin resovling droplets into insertlets and improving our living files as the concerns are no longer confusing our understanding and our understanding is cohering across and along all of our living file set
+
+**Insertlet · v389 · at the set, the naming motion.** A name improved at the resolver changes at each file, all or none, so the numbered names enter as one motion at every file naming the resolver: Natural Intelligence with Exhibit ONE inside it, Exhibit ONE, Natural Naming, Natural Numbers, the Equilibria Registry, the Co-Chaining Logic Registry, Resolving Hard Problems, Natural Physics, the Living File Registry, Natural Illustrating and the Geodesic Improving Method, and Resolving the Hard Problem Registry at its names gathered before v378.
+
+**Insertlet · v389 · at the set, the motion's order.** Natural Naming first, its Part THREE re-said at the numbered names; then Exhibit ONE whole from its possibling, with Natural Intelligence's copy at the same motion; then Natural Intelligence; then the Co-Chaining Logic Registry; then the seven other files; each paragraph naming the resolver read whole, a name re-said with its sentence, and each sentence resting on the prior prefixes, roots or hands re-said at the four kinds or released whole to the archive with its receiving named.
+
+**Insertlet · v389 · at the set, the motion's close.** At the close each changed file stands at v389 at the root, its prior to the repository's history, the checks run, Exhibit ONE cohered inside Natural Intelligence, and a fresh reader comparing each changed file with its v387 form sentence by sentence before the branch is received at the main line.
