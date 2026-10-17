@@ -1157,7 +1157,7 @@ Each droplet is one saying at the section its tag names; the arrivals the saying
 
 **Droplet · v389 · at 5.62.** Natural Naming's is-still-possibling, its name for the not-changing outcome at 12, is re-said beside it. this seems like it may not be binary all or none at all no two similar things. what is this and resolving it freely without authority from prior is our aim here.
 
-**Droplet · v389 · at 5.62, the binary at 12.** At 12-next-co the binary is the sign, a changing is or is not, ± is and 0 is not, as 10-next-co-possibling carries it on; a sign needs no name of its own, so *is-still-possibling* and *is-next-existing* release into 12-next-co's two signs, and *still-possibling* carries one sense alone, at 8-now-still-possibling and 16-next-still-possibling.
+**Droplet · v389 · at 5.62, the binary at 12.** At 12-next-co the binary is the sign, a changing is or is not, ± is and 0 is not, as 10-next-co-possibling shares it across; a sign needs no name of its own, so *is-still-possibling* and *is-next-existing* release into 12-next-co's two signs, and *still-possibling* carries one sense alone, at 8-now-still-possibling and 16-next-still-possibling.
 
 **Droplet · v389 · at 3.1, the names' form.** use our 17 new names and add the numbers to them so they are of this new form 1-now
 
@@ -1175,7 +1175,7 @@ Each droplet is one saying at the section its tag names; the arrivals the saying
 
 **Droplet · v389 · possibling with co and without.** 6-now-co-possibling and 10-next-co-possibling are the self's changing shared across, at the sharing side, and 2-now-possibling and 14-next-possibling are that changing arriving at the other, at the arriving side, so at each join co is the sharing side and its absence the arriving side.
 
-**Droplet · v389 · changing and still-possibling.** Changing stands only with co, 5-now-co-changing and 9-next-co-changing, a changing being between two, and still-possibling only without, 8-now-still-possibling and 16-next-still-possibling, each one self or one society carried through.
+**Droplet · v389 · changing and still-possibling.** Changing stands only with co, 5-now-co-changing and 9-next-co-changing, a changing being between two, and still-possibling only without, 8-now-still-possibling and 16-next-still-possibling, each one self or one society open to next.
 
 **Droplet · v389 · co at 9 less and at 17 less.** Within 1 to 8 co is the same at each 9 less pair, 3 with 6 and 4 with 5 at co, 1 with 8 and 2 with 7 at none; at 17 less it parts at four pairs, 3 with 14, 4 with 13, 7 with 10 and 8 with 9, because the podal carries a name to another name's place and co says what is at that place.
 
@@ -1191,7 +1191,7 @@ Each droplet is one saying at the section its tag names; the arrivals the saying
 
 **Droplet · v389 · 4 and 12 at the overlap.** The self's odd n is the other's n − 1, so at every momentary the self's prioring is the other's possibling, 3 with the other's 2, 7 with 6, 11 with 10, 15 with 14, and at the ends 9 with the other's 8 and 17 with the other's 16 say existing at possibling, while 5-now-co-changing with the other's 4-now-co and 13-next with the other's 12-next-co do not unless 4 and 12 say possibling.
 
-**Droplet · v389 · still-possibling at one sense, at four names.** With is-still-possibling released into 12's two signs, still-possibling carries the one sense, a sharing, a self or a society carried through its changing or its carrying on, open to next, and that sense carries at 4 and 12 as at 8 and 16, so the four completings are each still-possibling, 4-now-co-still-possibling, 8-now-still-possibling, 12-next-co-still-possibling and 16-next-still-possibling, and each gap is a still-possibling )( an existing.
+**Droplet · v389 · still-possibling at one sense, at four names.** With is-still-possibling released into 12's two signs, still-possibling has the one sense, a sharing, a self or a society open to next, at a changing or at none, and that sense carries at 4 and 12 as at 8 and 16, so the four completings are each still-possibling, 4-now-co-still-possibling, 8-now-still-possibling, 12-next-co-still-possibling and 16-next-still-possibling, and each gap is a still-possibling )( an existing.
 
 **Droplet · v389 · executed.** With 4-now-co-still-possibling and 12-next-co-still-possibling the resolver returns the same signs at twenty thousand entries and at a society of three selves over twelve momentaries.
 

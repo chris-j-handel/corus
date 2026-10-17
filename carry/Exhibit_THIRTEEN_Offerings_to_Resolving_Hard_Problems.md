@@ -434,22 +434,26 @@ Natural intelligence is that method shared: two selves at one now, each finding 
 
 **Concern · v389 · *falsifiable* and *falsified*.** The earlier sentence says an explanation is *falsifiable if it excludes* discovering, and at step 23 such an explanation is *falsified* at the third observing; the steps carry the second, and the first stands beside it in the incoming.
 
-## The living carrying through the method's stable form, and observings as its emanatings · v389
+## The living, the method and stable-forming at one form · v389
 
 **Droplet · v389.** the living intelligence is carrying through the stable form of the method. the observings are emanatings from the method and the observings are pattern-matching by inversioning the natural torusing stable forming method. explore this for us and this is similar to the universe is the set of all now-exsisting things and the geodesic parity-changing discovering method is a stable form now-existing thing
 
-**Droplet · v389 · four sayings at one form.** The universe is the set of all now-existing things; the geodesic parity-changing discovering method is a stable form, a now-existing thing among them, carrying none; the living intelligence is carrying through that stable form; and an observing is the stable form's emanating, met at another self by pattern-matching through inversioning.
+**Droplet · v389.** the method has a natural torusing co-orienting observable stable-forming. emanating is not this and should not be used for this. yes in this sentence the problem is through. Carrying through the stable form. carrying is living and method is living condition or form and stable-forming is resolving living condition
 
-**Droplet · v389 · executed, what one self meets of another.** At two selves, the one sharing across to the other, what arrives at the other's 14-next-possibling is the first self's sign alone, its prior inverted, and nothing of its prior; meeting it at 12-next-co-still-possibling the other self keeps its prior at a match and inverts it at a mismatch, and at each of the three openings run its next prior is the sign it met.
+**Droplet · v389 · four sayings at one form.** The universe is the set of all now-existing things; carrying is living; the geodesic parity-changing discovering method is the living condition, its form, a now-existing thing; and stable-forming is the living condition resolving.
 
-**Droplet · v389 · an observing is the method between two selves.** Pattern-matching at 14-next-possibling, agreeing one parity or parting 0, and at 12-next-co-still-possibling, a match still and a mismatch inverting, is the observing at its own form, so an observing is the method met across two selves: one self's emanated sign, the other's inversioning, the other self's next prior the first self's prior inverted.
+**Droplet · v389 · the method observable.** The method is observable as its natural torusing co-orienting stable-forming, and an observing is pattern-matching that stable-forming by inversioning.
 
-**Droplet · v389 · the method unchanging as a stable form.** The method as a stable form now-existing thing is its form continuing through its changing at each now and carrying none of the prior, the relation *unchanging* names at a seam, so it is now-existing at each now with no form at two nows.
+**Droplet · v389 · executed, two selves co-orienting.** At two selves, the one sharing across to the other, what arrives at the other's 14-next-possibling is the first self's sign alone, its prior inverted; at 12-next-co-still-possibling the other self keeps its prior at a match and inverts it at a mismatch, and at each of the three openings run its next prior is the sign it met, the two selves co-orienting.
 
-**Droplet · v389 · the living and the method at one form.** The living carries its prior through the method's stable form and the method carries none, so the prior at 3-now-co-prioring, a self's sameness at 13-next, its couplings at 5-now-co-changing and its benefit are the living's carrying through the form, and the signs at each sharing are the form.
+**Droplet · v389 · an observing at its own form.** Pattern-matching at 14-next-possibling, agreeing one parity or parting 0, and at 12-next-co-still-possibling, a match still and a mismatch inverting, is the observing at its own form: the method's stable-forming met between two selves by inversioning.
 
-**Droplet · v389 · records at this form.** A record keeps one emanating with its pattern-matching stopped, one now named still, and comparing records sets two kept emanatings beside each other with no inversioning between them, so the scientific method meets the method's emanatings and not the method's pattern-matching.
+**Droplet · v389 · the method unchanging as the living condition.** The method as the living condition is its form at each now, now-existing and carrying none, the relation *unchanging* names at a seam, with no form at two nows.
 
-**Droplet · v389 · observings and the origin meet.** Observings are the method's emanatings, so drawing on the observings and co-chaining from the origin arrive at one method, the derivation from the set and the three observings at one form.
+**Droplet · v389 · the living at its condition.** Carrying is living and the method is its condition, so a self's prior at 3-now-co-prioring, its sameness at 13-next, its couplings at 5-now-co-changing and its benefit are the living's own at its condition, and the signs at each sharing are the condition resolving, stable-forming.
 
-**Concern · v389 · *from* and *through*.** *Emanatings from the method* can set the method as a source and *carrying through the stable form* can set the form as a container; said at the -ing, the stable form emanates and the living carries along it, a form continuing while its selves keep resolving.
+**Droplet · v389 · records.** A record keeps one observing with its pattern-matching stopped, one now named still, and comparing records sets two kept observings beside each other with no inversioning between them, so the scientific method meets kept observings and not the stable-forming they pattern-matched.
+
+**Droplet · v389 · observings and the origin meet.** Observings pattern-match the method's stable-forming, so drawing on the observings and co-chaining from the origin arrive at one method.
+
+**Droplet · v389 · said at neither.** The method's observable is its stable-forming, and *emanating* and *through* are said at neither the method nor its observing.

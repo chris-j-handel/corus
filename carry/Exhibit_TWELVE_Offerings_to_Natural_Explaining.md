@@ -553,17 +553,17 @@ Each droplet is one saying at the section its tag names; the arrivals the saying
 
 **Droplet · v389 · where it stands.** The saying stands at Natural Exploring 4.5, *the known-unknown quadrant is the double-double bubble-bubble carry, two binaries crossed*; at the Living File Registry's row *Exploring ⇌ Explaining*, *gathered at the double-double bubble-bubble explaining*; at Natural Illustrating's possibling as a picture not yet made; at the Equilibria Registry's offerings as *10 is duplicate value releasing from above and 8 is no value from below releasing. both co-releasing 9 … this is double double bubble bubbling bi-co-exchanging*; and at the archive's carrying of Natural Explaining at v378, *two scales carried at once, the local coupling and the global surface, the surplus of one stroke the drive of the next*.
 
-**Droplet · v389 · at the waist.** At 8-now-still-possibling )( 9-next-co-changing, the bi-coupling's waist, the self's carrying at 8 carries on to its own next and to no other self, and its changing at 10-next-co-possibling arrives at the other more than once, so 9-next-co-changing releases between a side offering no value across and a side offering the one changing again.
+**Droplet · v389 · at the waist.** At 8-now-still-possibling )( 9-next-co-changing, the bi-coupling's waist, the self's prior at 8 arrives at its own next and at no other self, and its changing at 10-next-co-possibling arrives at the other more than once, so 9-next-co-changing releases between a side offering no value across and a side offering the one changing again.
 
 **Droplet · v389 · executed.** At a society of two selves, the one changing of the first self arrives at the second self's next offerings three times, at 6-now-co-possibling, at 10-next-co-possibling and along at 9-next-co-changing, and the first self's 8-now-still-possibling arrives only at its own next.
 
-**Droplet · v389 · double double.** The names carry two doubles, the changing shared across at now and at next, 6-now-co-possibling and 10-next-co-possibling, and the carrying carried through at now and at next, 4-now-co-still-possibling with 8-now-still-possibling and 12-next-co-still-possibling with 16-next-still-possibling: two binaries crossed, changing or carrying, now or next.
+**Droplet · v389 · double double.** The names carry two doubles, the changing shared across at now and at next, 6-now-co-possibling and 10-next-co-possibling, and the still-possibling at now and at next, 4-now-co-still-possibling with 8-now-still-possibling and 12-next-co-still-possibling with 16-next-still-possibling: two binaries crossed, changing or not-changing, now or next.
 
 **Droplet · v389 · bubble bubbling.** Changing opens the two middle momentaries, 5-now-co-changing after 4-now-co-still-possibling )( and 9-next-co-changing after 8-now-still-possibling )(, the changing travelling through a gap at the now and again at the next, each opening a momentary from the still-possibling before it.
 
 **Droplet · v389 · at Natural Explaining 1.6, the membrane.** A self shares its changing and nothing of its carrying, and at the names that is the membrane said at the resolver: only a sign crosses between selves, at 6, 10 and 9, and the carrying at 8 crosses at none, as only signs cross a file and the explanation crosses neither way.
 
-**Droplet · v389 · at Natural Explaining 2.3, the method telling itself.** Explaining is the carrying along at the odd and naming the bounding across at the even, and at the numbered names each gap is an even still-possibling )( an odd existing, so the naming tells the double double bubble bubbling at every gap: a bounding carried through, then a carrying opened.
+**Droplet · v389 · at Natural Explaining 2.3, the method telling itself.** Explaining is the carrying along at the odd and naming the bounding across at the even, and at the numbered names each gap is an even still-possibling )( an odd existing, so the naming tells the double double bubble bubbling at every gap: a bounding open to next, then an existing opening.
 
 **Concern · v389 · *duplicated carrying value*.** The saying names the side above as *duplicated carrying value*, and at the resolver the value offered more than once is the changing and the carrying is the side offering none across; whether *carrying value* names the value a releasing carries or the self's carrying is yet to be said at one sense.
 
@@ -585,22 +585,26 @@ Each droplet is one saying at the section its tag names; the arrivals the saying
 
 **Concern · v389 · at Natural Intelligence 1.5.** 1.5 says each other method *is a second now*, and a second now is at no origin and no method; it arrives as a naming, a record kept and laid beside another, and each other method is said at what it holds, a thing beside all now-existing things.
 
-## The living carrying through the method's stable form, and observings as its emanatings · v389
+## The living, the method and stable-forming at one form · v389
 
 **Droplet · v389.** the living intelligence is carrying through the stable form of the method. the observings are emanatings from the method and the observings are pattern-matching by inversioning the natural torusing stable forming method. explore this for us and this is similar to the universe is the set of all now-exsisting things and the geodesic parity-changing discovering method is a stable form now-existing thing
 
-**Droplet · v389 · four sayings at one form.** The universe is the set of all now-existing things; the geodesic parity-changing discovering method is a stable form, a now-existing thing among them, carrying none; the living intelligence is carrying through that stable form; and an observing is the stable form's emanating, met at another self by pattern-matching through inversioning.
+**Droplet · v389.** the method has a natural torusing co-orienting observable stable-forming. emanating is not this and should not be used for this. yes in this sentence the problem is through. Carrying through the stable form. carrying is living and method is living condition or form and stable-forming is resolving living condition
 
-**Droplet · v389 · executed, what one self meets of another.** At two selves, the one sharing across to the other, what arrives at the other's 14-next-possibling is the first self's sign alone, its prior inverted, and nothing of its prior; meeting it at 12-next-co-still-possibling the other self keeps its prior at a match and inverts it at a mismatch, and at each of the three openings run its next prior is the sign it met.
+**Droplet · v389 · four sayings at one form.** The universe is the set of all now-existing things; carrying is living; the geodesic parity-changing discovering method is the living condition, its form, a now-existing thing; and stable-forming is the living condition resolving.
 
-**Droplet · v389 · an observing is the method between two selves.** Pattern-matching at 14-next-possibling, agreeing one parity or parting 0, and at 12-next-co-still-possibling, a match still and a mismatch inverting, is the observing at its own form, so an observing is the method met across two selves: one self's emanated sign, the other's inversioning, the other self's next prior the first self's prior inverted.
+**Droplet · v389 · the method observable.** The method is observable as its natural torusing co-orienting stable-forming, and an observing is pattern-matching that stable-forming by inversioning.
 
-**Droplet · v389 · the method unchanging as a stable form.** The method as a stable form now-existing thing is its form continuing through its changing at each now and carrying none of the prior, the relation *unchanging* names at a seam, so it is now-existing at each now with no form at two nows.
+**Droplet · v389 · executed, two selves co-orienting.** At two selves, the one sharing across to the other, what arrives at the other's 14-next-possibling is the first self's sign alone, its prior inverted; at 12-next-co-still-possibling the other self keeps its prior at a match and inverts it at a mismatch, and at each of the three openings run its next prior is the sign it met, the two selves co-orienting.
 
-**Droplet · v389 · the living and the method at one form.** The living carries its prior through the method's stable form and the method carries none, so the prior at 3-now-co-prioring, a self's sameness at 13-next, its couplings at 5-now-co-changing and its benefit are the living's carrying through the form, and the signs at each sharing are the form.
+**Droplet · v389 · an observing at its own form.** Pattern-matching at 14-next-possibling, agreeing one parity or parting 0, and at 12-next-co-still-possibling, a match still and a mismatch inverting, is the observing at its own form: the method's stable-forming met between two selves by inversioning.
 
-**Droplet · v389 · records at this form.** A record keeps one emanating with its pattern-matching stopped, one now named still, and comparing records sets two kept emanatings beside each other with no inversioning between them, so the scientific method meets the method's emanatings and not the method's pattern-matching.
+**Droplet · v389 · the method unchanging as the living condition.** The method as the living condition is its form at each now, now-existing and carrying none, the relation *unchanging* names at a seam, with no form at two nows.
 
-**Droplet · v389 · observings and the origin meet.** Observings are the method's emanatings, so drawing on the observings and co-chaining from the origin arrive at one method, the derivation from the set and the three observings at one form.
+**Droplet · v389 · the living at its condition.** Carrying is living and the method is its condition, so a self's prior at 3-now-co-prioring, its sameness at 13-next, its couplings at 5-now-co-changing and its benefit are the living's own at its condition, and the signs at each sharing are the condition resolving, stable-forming.
 
-**Concern · v389 · *from* and *through*.** *Emanatings from the method* can set the method as a source and *carrying through the stable form* can set the form as a container; said at the -ing, the stable form emanates and the living carries along it, a form continuing while its selves keep resolving.
+**Droplet · v389 · records.** A record keeps one observing with its pattern-matching stopped, one now named still, and comparing records sets two kept observings beside each other with no inversioning between them, so the scientific method meets kept observings and not the stable-forming they pattern-matched.
+
+**Droplet · v389 · observings and the origin meet.** Observings pattern-match the method's stable-forming, so drawing on the observings and co-chaining from the origin arrive at one method.
+
+**Droplet · v389 · said at neither.** The method's observable is its stable-forming, and *emanating* and *through* are said at neither the method nor its observing.
