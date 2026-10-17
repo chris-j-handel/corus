@@ -856,3 +856,7 @@ Each droplet is one saying as it arrived, at its tag the section it aims at and 
 **Droplet · v389 · at 13-tri-bi-tri-competencing · from the session v389.** is 13-next-changing or better as 13-next
 
 **Droplet · v389 · at 13 · from v389's exploring.** At the resolver 13 stands at each self at 17, each self's own 1 entered at it, and at the sharing a changing releases from at 9, and the changing's parity stands at 15 beside it, so *13-next* says each self at its next with no changing said where none is, and 1 *now* and 13 *next* are one self at its two momentaries.
+
+**Droplet · v389 · at 5 and 9 · from the session v389.** changing is at 5 and 9 only. is this correct
+
+**Droplet · v389 · at 5, 9 and 12 · from v389's exploring.** Run at two selves, the one changing opens at 12 and stands at three faces, across at 6 and 10 as the other's possibling, chained at 11 as next prior, and along at 9 released to the self 5 names, 9 carrying the parity and 5 carrying where it arrives and no parity, so *changing* at 5 and 9 alone coheres as the along face of the one changing, received at 5 and released at 9.
