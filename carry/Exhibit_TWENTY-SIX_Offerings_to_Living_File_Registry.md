@@ -2819,11 +2819,11 @@ Each is one droplet, in its own words, tagged v387, aimed at this file for the r
 
 ## The arrivals at incoming/v389, gathered and aimed · v389
 
-Each droplet is one saying at the section its tag names; the arrivals the sayings rose from stand whole at `incoming/v389/`. A concern is two sayings parting at one place, with its reason. Nothing here changes the living file; each droplet rises or dissolves at the resolving.
+Each droplet is one saying at the section its tag names; the arrivals the sayings rose from stand whole at `archive/session_v389/incoming_v389/`. A concern is two sayings parting at one place, with its reason. Nothing here changes the living file; each droplet rises or dissolves at the resolving.
 
-**Droplet · v389 · at 1.3, the workings open.** The working v389, `working/gathering-droplets-v389`, opened from `working/orienting-living-files-v387`: three arrivals laid whole at `incoming/v389/`, their sayings laid as droplets at nine offerings files, no living file changed; its next is exploring the proposed seventeen names and origin at Exhibit ONE, Exhibit THIRTY and Natural Intelligence.
+**Droplet · v389 · at 1.3, the workings open.** The working v389, `working/gathering-droplets-v389`, opened from `working/orienting-living-files-v387`: three arrivals laid whole at `archive/session_v389/incoming_v389/`, their sayings laid as droplets at nine offerings files, no living file changed; its next is exploring the proposed seventeen names and origin at Exhibit ONE, Exhibit THIRTY and Natural Intelligence.
 
-**Droplet · v389 · at 1.3.** No branch, file or record named v388 is at the repository, and the unfinished orienting session at `incoming/v389/` may be the session that number names.
+**Droplet · v389 · at 1.3.** No branch, file or record named v388 is at the repository, and the unfinished orienting session at `archive/session_v389/incoming_v389/` may be the session that number names.
 
 **Droplet · v389 · at the kit's checks.** `carry_check.py` at v387 reads each carrying for a *Next at this file* paragraph of the single-carrying form, and the four places at each living file carry none, so the check reports what the form no longer has.
 

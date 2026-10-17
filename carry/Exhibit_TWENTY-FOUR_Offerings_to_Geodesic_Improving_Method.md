@@ -1108,7 +1108,7 @@ Each is one droplet, in its own words, tagged v387, aimed at this file for the r
 
 ## The arrivals at incoming/v389, gathered and aimed · v389
 
-Each droplet is one saying at the section its tag names; the arrivals the sayings rose from stand whole at `incoming/v389/`. A concern is two sayings parting at one place, with its reason. Nothing here changes the living file; each droplet rises or dissolves at the resolving.
+Each droplet is one saying at the section its tag names; the arrivals the sayings rose from stand whole at `archive/session_v389/incoming_v389/`. A concern is two sayings parting at one place, with its reason. Nothing here changes the living file; each droplet rises or dissolves at the resolving.
 
 **Droplet · v389 · at the archive.** it is not logically our method to have incoming possible value in artifact where we never plan to explore again unless we are trying to restart from a catastrophe ending.
 
