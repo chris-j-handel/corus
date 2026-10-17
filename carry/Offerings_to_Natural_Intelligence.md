@@ -2338,3 +2338,7 @@ Natural intelligence is that method shared: two selves at one now, each finding 
 **Droplet · v389 · at the origin's three observings.** The three observings at the origin are the existing-living-self observed: same by changing and same by not-changing, the same-prior-existing-living-self arriving as the same-next-existing-living-self, and discovering which of the two at each sharing.
 
 **Concern · v389 · one order for the hyphenation.** *Same-prior-existing* here and *prior-same-existing*, *now-same-existing* and *next-same-existing* at an earlier saying of this session name one concept at two orders, and a hyphenation's parts in order are its changings in order, so the one order is yet to be met at Natural Naming.
+
+**Droplet · v389.** self carries same and does not need same as there is no this self that self same self other self. now-self is now-prioring and next-possibling
+
+**Droplet · v389 · at 5.3 and Part ONE, the now-self.** A self carries its sameness, and the self at now is now-prioring and next-possibling, at the resolver 7-now-prioring and 14-next-possibling meeting at each sharing at 12-next-co-still-possibling, its prior parity and its next possible at one now.

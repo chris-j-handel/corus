@@ -1282,3 +1282,5 @@ The names are 1-now, 2-now-possibling, 3-now-co-prioring, 4-now-co, 5-now-co-cha
 **Droplet · v389 · the test set withdrawn.** The test set at the four binaries is withdrawn, said once: *same* at 5, 6 and 13 named a sameness all same at the method, and *prioring*, *changing* and *still-possibling* carry senses met at the resolver's lines.
 
 **Droplet · v389 · the names standing.** 1-now · 2-now-possibling · 3-now-co-prioring · 4-now-co-still-possibling · 5-now-co-changing · 6-now-co-possibling · 7-now-prioring · 8-now-still-possibling · 9-next-co-changing · 10-next-co-possibling · 11-next-co-prioring · 12-next-co-still-possibling · 13-next · 14-next-possibling · 15-next-prioring · 16-next-still-possibling · 17-next-now; the four binaries, now, existing, same and all, are the explaining of them.
+
+**Droplet · v389 · at 12, the now-self at the resolver's line.** At 12-next-co-still-possibling the line reads 14-next-possibling's surfacing, as 15, against 7-now-prioring at each sharing of 3-now-co-prioring: the now-self, now-prioring and next-possibling, met at one line.

@@ -1452,9 +1452,9 @@ Each droplet is one saying at the section its tag names; the arrivals the saying
 
 **Insertlet · v389 · at 6.3, the three universes.** *Prior-universe*, *now-universe* and *next-universe* name a universe at each momentary, the now-universe the universe, so a sentence says at which universe a thing is now-existing.
 
-**Insertlet · v389 · at 4.17 and 5.3, the self at its three momentaries.** Sounded by leaving out one part at a time, *same-prior-existing-living-self* carries on with *living* left out, a self being living, with *existing* left out, a self at a momentary being existing at it, and with *same* left out, a self being one self at its prior, its now and its next, all or none; the parts riding go, and the most cohering form is *prior-self*, *now-self* and *next-self*, the now-self the prior-self and the next-self.
+**Insertlet · v389 · at 5.3, a self.** A self carries its sameness and needs no *same*, and no self is named this, that, same or other self of itself; the self at now is *now-prioring and next-possibling*, at the resolver 7-now-prioring and 14-next-possibling meeting at each sharing at 12-next-co-still-possibling, the line `if _15_next_prioring != 0 and (_15_next_prioring > 0) == (_7_now_prioring > 0)` reading 14's surfacing against 7's prior parity, so *prior-self* and *next-self* are each the now-self's prioring and possibling and go.
 
-**Insertlet · v389 · at 4.17, one order.** *Prior-same-existing* and *same-prior-existing*, two orders of one concept, meet at the momentary first, and at the self the same concept is *prior-self*, *now-self* and *next-self*.
+**Insertlet · v389 · at 4.17, the self's namings released.** *Same-prior-existing-living-self*, *same-next-existing-living-self*, *prior-same-existing*, *now-same-existing* and *next-same-existing*, and *prior-self* and *next-self*, each release into *self*, the now-self now-prioring and next-possibling.
 
 **Insertlet · v389 · at 4.17, inseparable namings.** *Co-momentarying*, two selves sharing one now-existing inside a bi-coupling, *bi-coupling*, *stable-forming* and *natural-torusing* each stop at any part left out, and each stands whole.
 
@@ -1529,3 +1529,8 @@ Each droplet is one saying at the section its tag names; the arrivals the saying
 ### F · Dissolved, each said once
 
 **Droplet · v389 · dissolved this session.** The test set at the four binaries; 4-now-co, re-said 4-now-co-still-possibling, with 12-next-co said once beside 12-next-co-still-possibling; the concern at 8, read at the spans; the concern of co at the inside podals; the universe as one self and as a thing within the set; and *not a thing* defined.
+
+
+**Droplet · v389.** self carries same and does not need same as there is no this self that self same self other self. now-self is now-prioring and next-possibling
+
+**Droplet · v389 · re-said once.** The gathered insertlets *the self at its three momentaries* and *one order* are re-said in place as *a self* and *the self's namings released*, the self carrying its sameness, the now-self now-prioring and next-possibling.
