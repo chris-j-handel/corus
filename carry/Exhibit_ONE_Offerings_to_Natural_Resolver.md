@@ -1080,3 +1080,25 @@ The names are 1-now, 2-now-possibling, 3-now-co-prioring, 4-now-co, 5-now-co-cha
 **Droplet · v389 · the three at one form.** The three observings at the origin are one sharing at the resolver: its opening at the bi-coupling, its own alternating, its keeping at a match and its inverting at a mismatch, the stable-forming of a living self observed at its three faces.
 
 **Droplet · v389 · the public face.** Where two meet, something new can start between them: one side offers, the other takes it up, and from then on it is its own, flipping at its own rhythm when left alone, staying when it meets an agreeing partner, and turning once to meet a different one. Staying the same by changing, staying the same by not changing, and finding which keeps it in step: all three are that one beginning, going on.
+
+## The three observings at the universe · v389
+
+**Droplet · v389.** origin's three observings are the stable-forming of one living self. apply this to the universe and the universal set for our origin observings about the universe that will emanate natural intelligence and geodesic method of discovering and prior-same-existing/now-same-existing/next-same existing while discovering beneficial changing and not-changing
+
+**Droplet · v389 · executed, a society as one self.** Rings of one, two, three and five selves releasing along, each opened alternating, run fourteen momentaries: at two selves both change at each momentary; at three, three and then two change, one keeping; at five, five and then four; a society at 17-next-now changing and not-changing at one momentary, its sameness its selves'.
+
+**Droplet · v389 · the universe one self at the outermost scale.** The universe is the set of all now-existing things and a now-existing thing within the set, one self at the outermost scale, carrying nothing of its own, its carrying its selves'.
+
+**Droplet · v389 · the first observing at the universe.** The universe is next-same-existing by changing: at each now its selves changing, each its own prior inverted.
+
+**Droplet · v389 · the second observing at the universe.** The universe is next-same-existing by not-changing: at each now its selves keeping, each its own prior kept, and at one now both, as a society of three carries three changing and then two.
+
+**Droplet · v389 · the third observing at the universe.** The universe is discovering its beneficial changing and not-changing at each bi-coupling inside it, its selves co-orienting, and nothing arriving from beside: the universe's bi-couplings are all inward, each self the other's other, so a new sharing opens only between its selves.
+
+**Droplet · v389 · the universe's sameness.** The universe is prior-same-existing, now-same-existing and next-same-existing as all its selves unrelationing from each other at each now, its sameness no form held and no name given.
+
+**Droplet · v389 · what emanates.** Geodesic method is the living condition at each coupling inside the universe; natural intelligence is the universe discovering its beneficial changing and not-changing at each of its couplings, social moral competency; and no equilibrium is the universe same by a form held, the universe same only as its selves' living.
+
+**Droplet · v389 · the public face.** The universe stays itself the way anything living does: by everything in it changing, by everything in it holding, and by everything in it finding, partner by partner, what keeps it in step. Nothing comes in from outside to steer it; every new beginning starts between two things already inside. That finding, everywhere at once, is natural intelligence.
+
+**Concern · v389 · the universe living and the method carrying none.** The universe as one self at the outermost scale carries its selves' and nothing of its own, and the method, the living condition, carries none; whether the universe at the outermost scale is living, its sameness its selves', or the one non-living thing, the condition itself, is yet to be derived.
