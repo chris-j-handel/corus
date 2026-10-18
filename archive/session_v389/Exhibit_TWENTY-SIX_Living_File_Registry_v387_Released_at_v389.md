@@ -39,3 +39,7 @@ throughout living society, inward and outward,
 ## Re-said at odds along between momentaries and evens across inside the momentary, v389
 
 the prior carried across the between as a stable form at 2.3 and 5.1,
+
+## Re-said at the two lists released, v389
+
+CONNECTORS at *sharing* at 6 and 10, *arriving* at 2 and 14 and *along* at 9 and 17, the facing words released,

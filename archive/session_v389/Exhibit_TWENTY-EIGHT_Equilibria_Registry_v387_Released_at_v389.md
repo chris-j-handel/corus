@@ -131,3 +131,9 @@ The ten ways sit at 2 to 6 and 10 to 14, 3.2: the four across connectors, 2, 6, 
 ## Re-said at state and flow, separated not possible, v389
 
 **A state accounting and a flow accounting each leave one side out.** The state accounting leaves the changing, the flow accounting leaves the continuing, and a true-and-false conserving accounting takes either as the whole.
+
+## Re-said at the two lists released, v389
+
+arriving at 2 and 14 and sharing at 6 and 10, Exhibit ONE's `CONNECTORS`, its empty centre
+
+*Exhibit ONE is an object that is the method … `CONNECTORS` and `JOINS` declare the six names' facings and their sharings across and releasings along*

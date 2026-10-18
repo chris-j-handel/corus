@@ -447,3 +447,7 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 
 
 **`JOINS` declares two sharings across, 10 to 14 and 6 to 2, and one releasing along at its two momentaries, 9 to 17 the releasing and 17 to 9 its arriving.** Across, each brings its parity, even to even; along, odd to odd. At the resolver, 17 brings each release into the receiving self's offerings next, 4.6. **9 is the next prior and 17 the next now**: along, the parity 9 releases is the prior the receiving self is offered next, and 17 is that self's next now: the declared 9 with 17 and the arriving at 14 are one relation at two momentaries.
+
+## Re-said at the two lists released, v389
+
+Its functions and their variables are the seventeen names and no others, and `CONNECTORS` and `JOINS` declare the six names between selves, their sharings across and the one releasing along, and no function reads them; each name
