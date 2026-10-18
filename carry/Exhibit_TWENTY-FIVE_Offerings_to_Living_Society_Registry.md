@@ -97,3 +97,11 @@ Each is a changing made at the set this session, said once here so that this fil
 **Droplet · Fourteen names read the same from either end, and three do not.** 1, 9 and 17 carry a direction, the entry and the two along names, odd, existing; the fourteen others, the across names and the self's own resolving, read the same both ways: direction is at existing, along, and bi-morality across is or is not.
 
 **Droplet · What arrives at no next does not exist.** This is the proof's own saying inside nature, and *a form named still* is a sayer's; where this file rests a saying on *a form named still*, the one sentence carries it, and the equilibria's proof, the inception's and the living-at-a-scale proof are one proof at three subjects.
+
+## Standing · v389
+
+*Concerns met at pass 3, each standing at this file and out of its living file until resolved.*
+
+**Concern · at a sentence.** Beside "Three door lines — surplus, bound and reach: the self's own surfacing and inseparating, and the society's torusing with"…
+
+*Standing at v389:* At 1.2 three door lines stand "in Exhibit ONE's names" of v347: "the self's own surfacing and inseparating, and the society's torusing with nothing above it". At Exhibit ONE v389, 14-next-possibling is "offerings surfacing at each sharing" and 16-next-still-possibling "a society: each self with its prior and its offerings"; Natural Naming 2.4 carries *surplus* as *abundancing*, 12-next-co-still-possibling. *Inseparating* and *reach* meet no numbered name. **To resolve:** are three door lines re-said at 12, 14 and 16, or does each wait for TWENTY-SEVEN's own motion at its door?
