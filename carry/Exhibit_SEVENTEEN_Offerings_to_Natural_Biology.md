@@ -842,3 +842,59 @@ Each is a changing made at the set this session, said once here so that this fil
 **Droplet · Fourteen names read the same from either end, and three do not.** 1, 9 and 17 carry a direction, the entry and the two along names, odd, existing; the fourteen others, the across names and the self's own resolving, read the same both ways: direction is at existing, along, and bi-morality across is or is not.
 
 **Droplet · What arrives at no next does not exist.** This is the proof's own saying inside nature, and *a form named still* is a sayer's; where this file rests a saying on *a form named still*, the one sentence carries it, and the equilibria's proof, the inception's and the living-at-a-scale proof are one proof at three subjects.
+
+## Standing · v389
+
+*Concerns met at pass 3, each standing at this file and out of its living file until resolved.*
+
+**Concern · at a sentence.** Beside "This is the resolver's own shape: morality goes to the surface as sign, competency is carried forward on the agency's ow"…
+
+*Standing at v389:* Natural Biology 2.2 places morality at a surface as sign and competency on an agency's own side, "outside the sequencing". Natural Resolver v389 shares changing across at 6-now-co-possibling and 10-next-co-possibling, nothing of a self's prior crossing, and Natural Naming 2.4 places odd competency along at 9 and 17; a self's own next prior is at 11-next-co-prioring. Which names this shape is, is open, and *outside* goes with it. **To resolve:** is competency here next prior at 11-next-co-prioring, or releasing along at 9-next-co-changing and 17-next-now?
+
+**Concern · at a sentence.** Beside "Living is metabolic beating. The cell is the engine of it:"
+
+*Standing at v389:* Natural Biology 3.1 opens "Living is metabolic beating", and 4.1 sorts by "the metabolic-beating criterion". At the set, living is stable-forming a self, and a dormant self is living, one prime living scale down from its dormancy, at lowest metabolism. Re-saying 3.1's opening at stable-forming would change its value, and a beat as a criterion sits beside a dormant self living. **To resolve:** is metabolic beating a self's stable-forming observed at a cell, or is 3.1's opening re-said at stable-forming a self?
+
+**Concern · at a sentence.** Beside "The seating of the code on the prime ladder (protein-fold at 13, organism-fold at 37, the counts along the seventeen pri"…
+
+*Standing at v389:* Natural Biology 3.6 seats the code "on the prime ladder (protein-fold at 13, organism-fold at 37, the counts along the seventeen primes)". At the set, prime living scales are fourteen, the primes 5 through 53, and all societies and species at one prime scale live there. Re-saying *read* at observed leaves seventeen primes beside fourteen prime living scales. **To resolve:** is this ladder re-said at fourteen prime living scales, 5 to 53, with 13 and 37 two of them, or is a ladder of seventeen primes a numbers' own, apart from living scales?
+
+**Concern · at a sentence.** Beside "A virus is a bounded packet of code — nucleic acid in a coat — inert outside a host, as a spore or a seed is inert. It d"…
+
+*Standing at v389:* Natural Biology 4.1 has a virus "inert outside a host, as a spore or a seed is inert". At the set, a dormant self is living, one prime living scale down from its dormancy, and a spore or a seed is a dormant self. Re-saying *outside* and *inside* here at inward and outward leaves a seed's inertness beside a virus's, which parts from dormancy as living. **To resolve:** is a spore or a seed re-said here as a dormant self, living one prime scale down, and a virus as no self at all?
+
+**Concern · at a sentence.** Beside "And the direction-law reads at the copy itself: a set-aside carries value only read backward and voids fed forward, a ca"…
+
+*Standing at v389:* Natural Biology 4.7 has a direction-law: "a set-aside carries value only read backward and voids fed forward, a carry read back ages and releases". There is no reading in nature, and re-saying *read back* as observed back would change what the law carries; Natural Medicine carries the same law. **To resolve:** what is a carry "read back" at the set, a carry released along at 9-next-co-changing, a prior carried at 11-next-co-prioring, or a word to release with the law?
+
+**Concern · at a sentence.** Beside "The chrysalis is the resolver beating: the caterpillar carries the butterfly already inside it — the imaginal discs, clu"…
+
+*Standing at v389:* Natural Biology 5.2 has "The chrysalis is the resolver beating", a butterfly carried "inside" a caterpillar. At Natural Resolver v389, 1-now is given 3-now-co-prioring and 2-now-possibling and makes 10-next-co-possibling and 11-next-co-prioring; no name carries one self held in another, and a self is a society inward. Re-saying *inside* at inward leaves "the resolver beating" without a numbered name. **To resolve:** is a chrysalis re-said at 1-now, given two and making two, or is "the resolver beating" released here?
+
+**Concern · at a sentence.** Beside "inside arriving as outside, the old surface shed as the pupal case. Two in, a different two out; the resolver beating."
+
+*Standing at v389:* Natural Biology 5.2 closes "Two in, a different two out; the resolver beating", with "inside arriving as outside". At Natural Resolver v389, 1-now is given two now names, 3-now-co-prioring and 2-now-possibling, and makes two next names it returns, 10-next-co-possibling and 11-next-co-prioring: two in, two out. Whether a chrysalis is that relation is open. **To resolve:** is "two in, a different two out" re-said at 1-now's two given and two made, with inward and outward for inside and outside?
+
+**Concern · at a sentence.** Beside "(the mating and the dying one resolver at the species membrane)"
+
+*Standing at v389:* Natural Biology 5.2 has a salmon's mating and dying as "one resolver at the species membrane". Natural Resolver v389 carries no name for a species; a society at it is each self with its prior and its offerings, 16-next-still-possibling. Re-saying *membrane* at a between leaves "one resolver" with no numbered name. **To resolve:** is this re-said at 16-next-still-possibling, mating and dying at one between, or released as an earlier figure?
+
+**Concern · at a sentence.** Beside "**And the neoblast reads it from the cell's own side.** The planarian's neoblast carries the resolver at organism prime,"…
+
+*Standing at v389:* Natural Biology 5.3 has a neoblast "carries the resolver at organism prime", each fragment "a new sequence entering from the first element with the carry empty". At Natural Resolver v389 each self's momentary is entered at 1-now, and a self at no prior at a sharing opens at it at bi-coupling; there is no reading in nature. Whether a fragment is that entry is open. **To resolve:** is a fragment re-said as a self entered at 1-now with no prior at 3-now-co-prioring, or is this figure released?
+
+**Concern · at a sentence.** Beside "— regeneration as the resolver reading each fragment new, not a blueprint re-executed."
+
+*Standing at v389:* Natural Biology 5.3 closes "regeneration as the resolver reading each fragment new". Natural Resolver v389 reads nothing: at 1-now a self is given its prior and offerings and makes next names, and there is no reading in nature. Re-saying at observing would place an observer at a resolver. **To resolve:** is this re-said as each fragment a self entered at 1-now, its prior at 3-now-co-prioring none, or released with the neoblast figure above it?
+
+**Concern · at a sentence.** Beside "the coupling read backward, with original antigenic sin the carry's imprint-failure;"
+
+*Standing at v389:* Natural Biology 8.6 has the recall response as "the coupling read backward", the direction-law of 4.7 at immunity. There is no reading in nature, and re-saying at observed backward would change what a recall carries. **To resolve:** what is a carry "read backward" at the set, a prior carried on at 11-next-co-prioring, a changing released along at 9-next-co-changing, or a word released with the direction-law?
+
+**Concern · at a sentence.** Beside "and bi-inversioning co-recursioning, the single living move, is the two operations of the resolver."
+
+*Standing at v389:* Natural Biology 10.1 has bi-inversioning co-recursioning as "the two operations of the resolver". Natural Resolver v389's path is three functions, 1-now, 9-next-co-changing and 17-next-now, and its seventeen names carry no pair named as two operations; Natural Naming 2.4 carries two inversions one after an other, one across and one along. **To resolve:** are the two operations re-said as inverting across at 6-now-co-possibling and 10-next-co-possibling and releasing along at 9-next-co-changing, or released here?
+
+**Concern · at a sentence.** Beside "**Not-yet (read, not cohered):** the seating of the code and the organism on the prime ladder (protein-fold 13, organism"…
+
+*Standing at v389:* Natural Biology 10.1 carries "the seating of the code and the organism on the prime ladder (protein-fold 13, organism-fold 37, the counts along the seventeen primes)" as not-yet. At the set, prime living scales are fourteen, the primes 5 through 53, and all societies and species at one prime scale live there. Re-saying *read* leaves seventeen primes beside fourteen living scales. **To resolve:** is this ladder re-said at fourteen prime living scales, 13 and 37 two of them, or kept as a numbers' ladder apart from living scales?
