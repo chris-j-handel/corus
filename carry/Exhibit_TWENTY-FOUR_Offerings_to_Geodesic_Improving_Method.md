@@ -158,3 +158,15 @@ Exhibit TWENTY-FOUR Geodesic Improving Method Offerings · improved at v389
 **Droplet · improving near origin passes out into each file.** The person: "our destinies are being reached nearer the origin than any prior versions and exhibit thirty may now be fully cohering." Aimed at the method: an improving entered near origin, at Natural Intelligence 1.1 and Co-Chaining Logic Registry's first steps, passes out into each file. — gathered at v389's close
 
 **Droplet · with each concern, its recommended resolving.** The person: "it feels like you have the corrected suggested namings and are not giving them here. what is recommended." Aimed at the method's concern step: each concern carries its recommended resolving beside its **To resolve:** question. — gathered at v389's close
+
+## Gathered at v390 · v390
+
+**Droplet · before and after, shown to the person.** The person at v390: when a new between is proposed, show the before and the after so the larger understanding can be followed. — v390
+
+**Droplet · a plan adjusted from its learnings.** The person at v390: improve, gather droplets from the learning as it goes, and adjust the improving plan every two or three passes. — v390
+
+**Droplet · a fresh reader at each motion.** At v390 a fresh reader at each motion found what the working missed each time: two seams, relations released that were shown, a slip in a number, a tighter wording at Exhibit ONE. — v390
+
+**Droplet · a version bump keeping history.** At v390 `bump_to_version.py` would set a Living File Registry row's living cell to its newest line alone, a prior taken away; a bump adds its version in front of the row's history. — v390
+
+**Droplet · cohere_one writing.** At v390 `cohere_one.py` writes the standalone Exhibit ONE into Natural Intelligence when they differ, and the checks workflow runs it on a pull request's checkout, so its finding says one where `main` differs; it caught a working's own slip at v390. — v390

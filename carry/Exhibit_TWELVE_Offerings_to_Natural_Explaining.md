@@ -115,3 +115,11 @@ These are descriptions of possible expressions. The word “painting” establis
 *From reviewing the session's transcript whole at its close: value visible now, each a droplet aimed at its file or a concern standing, out of the living files until resolved.*
 
 **Droplet · gaps in looping explainings.** The person: "we can use the gaps in our looping explainings as podaling brings in outside parity changing and the travel through the" momentaryings. Aimed at Natural Explaining: a gap's two sides visible, 4 )( 5, 8 )( 9, 12 )( 13, 16 )( 17, each a place an explaining's looping takes in an other's parity changing to resolve inward. — gathered at v389's close
+
+## Gathered at v390 · v390
+
+**Droplet · living language, never pausing.** The person at v390: the language is living and never pausing, each sentence a momentarying, nothing found to hold still. — v390
+
+**Droplet · each sentence adding and surrounding.** The person at v390: isolate each sentence and keep it only where it adds to its prior and surrounds its paragraph's concept, in full sentences at a breathing pace for its reader. — v390
+
+**Droplet · a section carrying what it has reached.** At v390 a draft at prior, now and next leaned on odd and even before they arrive in Natural Intelligence; a sentence carries only what its prior sentences have already reached. — v390

@@ -191,3 +191,13 @@ Natural Naming 5.14’s “and it compounds” and its abundancing/releasing exp
 **Concern · *scientific method* and *scientific-explaining-method*.** Natural Naming 4.8 hyphenates *scientific-explaining-method*; about thirty-two unhyphenated *scientific method* stand at files.
 
 *Standing at v389:* One concept at two forms. **To resolve:** re-say each at *scientific-explaining-method*, or keep *scientific method* where a field's own words are meant?
+
+## Gathered at v390 · v390
+
+**Droplet · *at* released.** The person at v390: we do not use the word *at*; a sentence entering a living file carries its relation by its own verb, through, with, between or within, and Natural Intelligence still carries *at* about 1,380 times. — v390
+
+**Droplet · *possible* only as no other possible.** The person at v390: *possible* stands only at a dead end, no other possible, and possibling next-existing is never held still to be named possible or not possible. — v390
+
+**Droplet · no places in resolving.** The person at v390: possibling, existing and living are no three places, and resolving carries no places, so a sentence naming a place for a momentarying releases. — v390
+
+**Droplet · inside and within.** At v390 the person said a changing odd to even is inside a momentarying; Natural Naming carries *within* for a span of names, and whether *inside* returns for a momentarying waits on the person. — v390
