@@ -436,3 +436,13 @@ The improving report is the form's first standing instance: the work-side of a g
 A gathering stands open four ways: the subject open, the intake open, the properties and checks open, and every line open at an address. Against them one thing is fixed, the properties themselves, uniform elements being what make two entries comparable, so the schema is closed once, at one place, so that nothing else has to be. This is the general form of any gathering: the openness is the living and the one closure is what lets any two gathered things meet.
 
 An entry carries two kinds of line: what stands about the subject, and what stands about the work done on it. Split, the first is what a later observing takes up and the second is what a later working continues, so an incomplete record of work does not block an observing, and a defect in the subject-lines does. The improving reports are the work-side, the files the subject-side, and the split is a form-condition of gathering.
+
+## Re-said at offerings risen, v389
+
+Unity for multiplicative.
+
+and a fourth arrives nowhere, since state and flow is the whole of what alternates.
+
+Each involution carries a fixed set, where its move returns its argument as it is.
+
+And a known-unknown quadrant is a double-double bubble-bubble carry, two binaries crossed, an unknown-unknown an open corner a carry rides toward and does not fill.

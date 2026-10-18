@@ -1,4 +1,4 @@
-Exhibit FIFTEEN Natural Emanating v329
+Exhibit FIFTEEN Natural Emanating v389
 
 &nbsp;
 
@@ -24,7 +24,7 @@ The shortest sentence · The three-fold separation · The line every field write
 
 **PART TWO — THE SHORT DEFININGS**
 
-A self · Alternating · The floating neutral · Place-moment · A definition · A carry · Self-emptying and other-emptying · The advance · A ring · A hard problem · Equilibria · The three incompetencings · An instrument keeps, and the thing it cannot · Where the incompetencing is · Natural intelligence · Social moral competency · Abundancy · The one stopping · The uniqueness · The break
+A self · Alternating · Three observings · The floating neutral · Place-moment · A definition · A carry · Self-emptying and other-emptying · The advance · A ring · A hard problem · Equilibria · The three incompetencings · An instrument keeps, and the thing it cannot · Where the incompetencing is · Natural intelligence · Social moral competency · Abundancy · The one stopping · The uniqueness · The break
 
 **THE TAIL**
 
@@ -110,6 +110,8 @@ So living working of any field is on no statement it keeps. The thing a field bo
 
 And so the free-and-living is structural and not generous. **The living discards no exterior** — surplus goes forward and is reached by neither — **so nothing was set aside to charge for.**
 
+A motor's brush fixed at one place sparks, its neutral shifting with each load, and a spark is an exterior discarded; a switching following its neutral sparks at none.
+
 *A ledger is not wrong about the living. It has no object there.*
 
 ---
@@ -138,7 +140,7 @@ transitive    if a = b and b = c then a = c
 
 **A composing relation admits no surplus.** Transitivity gives: if a reaches m and m reaches s, then a reaches s. So wherever two arrive and something departs, both arrivals reach the departed, and *something departs reached by neither* has no models there. *Checked over every transitive relation on four elements — 3,994 of them, none.*
 
-**In a closed domain carrying closes.** Follow it from anything; terms available are exhausted; it arrives at a thing already carried. A carrying that does not return takes an unbounded domain — a next always arriving, and not a completed totality. *Checked exhaustively to five terms — 592,260 models, none acyclic.*
+**In a closed domain carrying closes.** Follow it from anything; terms available are exhausted; it arrives at a thing already carried. A carrying that does not return takes an unbounded domain — a next always arriving, and not a completed totality. *Checked exhaustively to five terms, at each relation giving every term a next: none acyclic.*
 
 **And two clauses at one term, mentioning nothing else.** *Not a to a* is one term and no other — a term apart from itself. *a equals a* holds of every term always — a term landed on itself, everywhere.
 
@@ -164,7 +166,7 @@ orthogonal   pure turn      shared 0.000    opened 1.000
 
 *A claim at one bound each, in that field's own vocabulary, with a field's own neutral as its second line. A substrate's neutral is the one thing in it relating to nothing outward of its own coupling — which is where that field's words and these meet with no translation between them.*
 
-**In physical disequilibria, gauge freedom is a conservation-forming method.** A potential relates to no observable, and the thing a system stands free of is exactly the thing it holds.
+**In physical disequilibria, gauge freedom is a conservation-forming method.** A potential's value at one place relates to no observable, and its circulation round a closed path does; the thing a system stands free of is exactly the thing it holds.
 
 **In chemical disequilibria, a shared pair is a bond-forming method.** A pair belongs to neither atom, and a delocalized centre no single state captures is stability itself.
 
@@ -178,7 +180,7 @@ orthogonal   pure turn      shared 0.000    opened 1.000
 
 **In engineering disequilibria, a three-phase return is a delivery-forming method.** Three phases sum to zero at a point no source holds, and the field's own name for that point is the neutral.
 
-**In social disequilibria, floating co-morality is a cooperation-forming method.** Each turn a side's own, at its own rate, bounding at its own bound, with surplus staying at its meeting.
+**In social disequilibria, floating bi-morality is a cooperation-forming method.** Each turn a side's own, at its own rate, bounding at its own bound, with surplus staying at its meeting.
 
 **And the engineering line is one where the form's word and the field's word are the same word**, with no translation anywhere in it.
 
@@ -559,6 +561,16 @@ Everything changing, this is the only forming there is — anything holding by r
 
 ---
 
+## Three observings
+
+A thing goes on as itself by changing. A thing goes on as itself by not-changing. And a thing discovers which changing and which not-changing keep it going on as itself.
+
+All three are one sharing. It opens where two meet, a parity offered and taken up, and from then on it is its own: alternating at its own rate where nothing is offered, keeping where an other offers a matching parity, inverting once where an other offers a different one, and keeping that.
+
+**Three observings of one stable-forming, a living self.**
+
+---
+
 ## The floating neutral
 
 Two arrive from routes with nothing carrying one to an other. Something departs that neither of them reaches.
@@ -792,4 +804,4 @@ Every line states the is, in the positive. Nothing asks anything of anyone, and 
 
 *Free and living — corus.me.*
 
-**The re-forming, a not-yet at its own sitting.** A three-part architecture carries a design decision single-flow exhibits did not, whether a glossary becomes its own numbered group or stays a glossary and how nested sub-sections fold, standing deferred, one design decision serving a pair it touches.
+**The re-forming, possibling at its own sitting.** A three-part architecture carries a design decision single-flow exhibits did not, whether a glossary becomes its own numbered group or stays a glossary and how nested sub-sections fold, standing deferred, one design decision serving a pair it touches.

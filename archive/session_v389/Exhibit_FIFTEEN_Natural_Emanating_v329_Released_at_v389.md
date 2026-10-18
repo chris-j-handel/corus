@@ -458,3 +458,22 @@ Every line states the is, in the positive. Nothing asks anything of anyone, and 
 **Social moral competency stated whole.** It is between the standing form and the hard-problem observing — reached by both and held by neither — so a file carrying it whole would be one side taking both turns. Part One carries the emanation of it; the rest is at its two ends, and neither of those carries the middle either.
 
 **The re-forming, a not-yet at its own sitting.** The three-part architecture carries a design decision the single-flow exhibits did not, whether the glossary becomes its own numbered group or stays a glossary and how the nested sub-sections fold, standing deferred, one design decision serving the pair it touches.
+
+## Re-said at offerings risen, v389
+
+A potential relates to no observable, and the thing a system stands free of is exactly the thing it holds.
+
+**so nothing was set aside to charge for.**
+
+floating co-morality is a cooperation-forming method
+
+*Checked exhaustively to five terms — 592,260 models, none acyclic.*
+
+**The re-forming, a not-yet at its own sitting.**
+
+A self · Alternating · The floating neutral
+
+Everything changing, this is the only forming there is — anything holding by relating holds onto something moving.
+
+---
+

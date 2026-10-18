@@ -1,4 +1,4 @@
-Exhibit EIGHT Natural Exploring v329
+Exhibit EIGHT Natural Exploring v389
 
 &nbsp;
 
@@ -324,7 +324,7 @@ And the same six is the three each way between a surface and its own stillness: 
 
 **4.5 The three questions bi-inversioned, the one resolver's three activities**
 
-What is true: a binary edge, is-or-is-not at each momentary. What matters most: a geodesic, the straightest carry a surface divides toward. The fewest things with the fewest people in the shortest time: a self-bound, co-releasing local geodecity. Bi-inversioned off a known-knowns store and a first-principles authority-cut, these are the three activities of the one resolver, and the alternating of them is resolving, the linearizing triangle rotating sequentially. And a known-unknown quadrant is a double-double bubble-bubble carry, two binaries crossed, an unknown-unknown an open corner a carry rides toward and does not fill.
+What is true: a binary edge, is-or-is-not at each momentary. What matters most: a geodesic, the straightest carry a surface divides toward. The fewest things with the fewest people in the shortest time: a self-bound, co-releasing local geodecity. Bi-inversioned off a known-knowns store and a first-principles authority-cut, these are the three activities of the one resolver, and the alternating of them is resolving, the linearizing triangle rotating sequentially. And a known-unknown quadrant is a double-double bubble-bubble carry, two binaries crossed, changing or not-changing at now or at next, each changing opening a middle from a still-possibling before it, at now and again at next; an unknown-unknown an open corner a carry rides toward and does not fill.
 
 **The not-yets, standing with their reasons**
 
@@ -360,7 +360,7 @@ Each is an involution, and an accounting for changing arrives at no other shape:
 
 **5.2 An involution's fixed set is where its counting is taken from**
 
-Each involution carries a fixed set, where its move returns its argument as it is. Zero for additive inverse. Unity for multiplicative. Reals for conjugation. Centre for parity. Neutral for charge conjugation. Equilibrium for time reversal. Symmetric for transpose. And in each accounting its fixed set is where its counting is taken from.
+Each involution but two carries a fixed set, where its move returns its argument as it is; negation and set complement carry none, negation being alternating itself, a binary's own move with no place where a counting is taken from. Zero for additive inverse. Unity and minus unity for multiplicative. Reals for conjugation. Centre for parity. Neutral for charge conjugation. Equilibrium for time reversal. Symmetric for transpose. And in each accounting its fixed set is where its counting is taken from.
 
 So accountings and floors are one thing, observed two ways. An involution is a floor with its move stated, and a floor is an involution with its move dropped.
 
@@ -378,7 +378,7 @@ A balance point of a symmetric thing rides its own axis of balance by what such 
 
 A three carries as a state or as a flow and never both, and the two alternate. A state-three counts what stands and holds no rate; a flow-three carries one at a time and counts nothing. Neither the reverse of the other, and both ways forward.
 
-This is why an accounting returns three and not four. A total is a state-three, a level is a state-three, a direction is a flow-three, and a fourth arrives nowhere, since state and flow is the whole of what alternates.
+This is why an accounting returns three and not four. A total is a state-three, a level is a state-three, a direction is a flow-three, and a fourth arrives nowhere, since state and flow is the whole of what alternates. A cube's moves reach one twelfth of its assemblies, parting at three conserved books, corners twisting in threes, edges flipping in twos and a permutation's parity in twos: an accounting's three at a ledger, a field's instance of it and no proof beneath it.
 
 And it is where every accounting arrives short: at a changing between the two. State to flow is where a count is exhausted; flow to state is where a rate lands. At an account carrying only state-threes a flow is fixed as pieces; at an account carrying only flow-threes a standing is fixed as a rate. Every ghost stands at one of the two changings — a level fixed where a flow goes, or a store fixed where a carrying goes.
 
