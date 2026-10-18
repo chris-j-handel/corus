@@ -643,3 +643,14 @@ its functions and each variable within them the seventeen names and no others, a
 *Adding: the one method.*
 
 *Entering: alternating stable-forming; all changing parity changing; the method, the living condition, carrying none; the method co-changing at each coupling; the one method; a not-changing held still; the form still; not possible thing; no other possible method; a second method at one binary; technology, a made thing applied.*
+
+## Re-said at no inside and no outside the universe, v389
+
+and nothing is said beyond or between the things of the universe.
+
+
+one observing, one changing, inside the set; now is
+
+the three observings inside the set;
+
+the three observings inside the set.*

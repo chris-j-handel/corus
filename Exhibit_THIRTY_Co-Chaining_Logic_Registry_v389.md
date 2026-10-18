@@ -61,7 +61,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: the universe, the set of all now-existing things, the inception, now-existing one naming; each step after it a step from it, and nothing brought to it.*
 
-2. The universe is a set of things, observably now-existing: all that is now-existing and not now-observable is the universe too, a set is its things and no further thing, and nothing is said beyond or between the things of the universe.
+2. The universe is a set of things, observably now-existing: all that is now-existing and not now-observable is the universe too, a set is its things and no further thing, and nothing is said beyond or between the things of the universe: there is no inside the universe, as there is no outside, the universe is or is not, and no living and no existing is where it is not.
 
         *Adding: the universe a set of things; a set its things.*
 
@@ -69,7 +69,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: the four binaries.*
 
-4. The sentence at 1 is now-existing and arrived, and its arriving is at a momentary: one observing, one changing, inside the set; now is the universal momentary, the one and only, and a second now arrives only as a naming.
+4. The sentence at 1 is now-existing and arrived, and its arriving is at a momentary: one observing, one changing; now is the universal momentary, the one and only, and a second now arrives only as a naming.
 
         *Adding: now, the universal momentary; one observing, one changing; no second now.*
 
@@ -659,11 +659,11 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
 ## 15 Right, the observings all prior
 
-        *Entering: right as the observings; the three observings inside the set; bi-tri-involutioning; the eight forms to their opposites; natural-; natural- a direction prefix.*
+        *Entering: right as the observings; the three observings one; bi-tri-involutioning; the eight forms to their opposites; natural-; natural- a direction prefix.*
 
 138. Each observing arrives from prior at the one hand: right is the observings, all prior; an observing is a now-existing thing, and drawing on the observings draws on the universe, the three observings, same by changing, same by not-changing and discovering which, the stable-forming of a living self, one sharing at its three faces.
 
-        *Adding: right as the observings; the three observings inside the set.*
+        *Adding: right as the observings; the three observings one.*
 
 139. A not-right form is the one right spiral inverted: position, scale and orientation inverted at once, bi-tri-involutioning.
 

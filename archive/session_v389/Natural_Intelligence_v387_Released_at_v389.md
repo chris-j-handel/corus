@@ -455,3 +455,11 @@ Its functions and their variables are the seventeen names and no others, and `CO
 ## Re-said at nature named, v389
 
 **The universe is now-existing as its things are now-existing.** It is its things, no container added to them and no form beside them, and a set is defined by its things and by no count of them. A ground under it, a container around it, a clock over it or a store beside it would each be said beyond the things of the universe, and nothing is. Each container named at a smaller scale is that one container again: a society said as holding its selves, a hub said over a network, a property said over a thing and an equilibrium said as a condition asked to remain are each a form named still over the things, and a society is its selves, 4.6. In the field's own words the universe is *all existing matter and space considered as a whole*: *all existing* is the set's, *matter and space* are its things, and *as a whole* is the universe now-existing as its things are.
+
+## Re-said at no inside and no outside the universe, v389
+
+no other or not-natural method of now-existing is in the universe.
+
+one observing, one changing, inside the set. **Now is
+
+**Observed inside the set, three observings are one**

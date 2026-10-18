@@ -481,3 +481,9 @@ Read as carrying across momentaries, it accounts
 *Now-existing* is one naming, 4.17.
 
 | **the universe**, the set of all now-existing things,
+
+## Re-said at no inside and no outside the universe, v389
+
+no other or not-natural method of now-existing is in the universe.
+
+| *inside*, *outside* as places | *inward*, *outward*, directions at a momentary, and *within* at a span of names; a self is no container |

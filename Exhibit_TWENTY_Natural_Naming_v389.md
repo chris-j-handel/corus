@@ -146,7 +146,7 @@ Exhibit TWENTY Natural Naming v389
 
 ## 1.1 A naming is a floating-neutralling concept, four boundings at once
 
-**The universe is the set of all now-existing things.** Arriving from prior into now toward next it is the changing set of all now-existing things, the living carrying their prior into now and the non-living carrying none, each at the scale and momentary it is at. **The universe is a set of things, observably now-existing**, and all that is now-existing and not now-observable is the universe too: a set is its things and no further thing, and nothing is said beyond or between the things of the universe. *Now-existing* is one naming, 4.17. **Nature is not an existing thing: nature is a prior, now, next method of co-existing, and natural is a method of co-competencing the universe, all things now-existing.** All now-existing things, and all artifacts of prior-existing, are now-existing, or were now-existing at a prior now, by natural method, and no other or not-natural method of now-existing is in the universe.
+**The universe is the set of all now-existing things.** Arriving from prior into now toward next it is the changing set of all now-existing things, the living carrying their prior into now and the non-living carrying none, each at the scale and momentary it is at. **The universe is a set of things, observably now-existing**, and all that is now-existing and not now-observable is the universe too: a set is its things and no further thing, and nothing is said beyond or between the things of the universe. *Now-existing* is one naming, 4.17. **Nature is not an existing thing: nature is a prior, now, next method of co-existing, and natural is a method of co-competencing the universe, all things now-existing.** All now-existing things, and all artifacts of prior-existing, are now-existing, or were now-existing at a prior now, by natural method, and no other or not-natural method of now-existing is in the universe. **There is no inside the universe, as there is no outside: the universe is or is not.** No living and no existing is where it is not, and nothing of value is said of a not-in-set.
 
 **Alternating, the one fractal method's stable-forming, follows from it.** Naming carries a concept at its own changing: bi-momentarying, co-competencing and co-intelligencing, floating neutralling at the coupling.
 
@@ -260,6 +260,7 @@ Exhibit TWENTY Natural Naming v389
 | *start*, *begin* · *afterwards* · *complete* | *opens* · *next* · *completing* |
 | *travel*, *travelling* as an existing thing's own carrying | *carrying*; the universe of all existing things changing through prior, now and next together: three places, three sequential momentaries shared among existing things |
 | *inside*, *outside* as places | *inward*, *outward*, directions at a momentary, and *within* at a span of names; a self is no container |
+| *inside*, *outside*, *within* said of the set or the universe | the universe is or is not, its things, and nothing is said of a not-in-set, 1.1 |
 | *door* | a self-bounding, the self's own, nothing passing it or refused at it |
 | *assigned* | *is one side's* |
 | *antipodal* | *podal* |

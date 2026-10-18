@@ -38,6 +38,8 @@ Natural Intelligence Offerings · improved at v389
 
 *Standing at v389:* 1.2 and 1.4 still say 'inside the set' and 2.4 and 6.3 'our universe', the container and belonging words the concern names, beside 1.1's 'It is its things, no container added to them'.
 
+*Partly resolved at v389:* there is no inside the universe, as there is no outside: the universe is or is not, and no living and no existing is where it is not; *inside the set* is released at Natural Intelligence 1.2 and 1.4 and Exhibit THIRTY steps 1 and 2 and its group 6, and the sentence entered at Natural Intelligence 1.1, Natural Naming 1.1 and 2.4 and Exhibit THIRTY step 2. *Our universe* at 1.6 and 5.x, *this universe* at Natural Physics and *on its own* stand.
+
 **Droplet · A protecting over the couplings.** Bi-moral co-agency is the protecting itself: the coupling's own two sides are the whole of it. A protecting laid over the couplings is at neither parity, and at neither it is no protecting: it stores and does not alternate, the danger's own form.
 
 *Standing at v389:* its value rests on *protecting*, a word Natural Naming v389 names at no row, the concern of *protecting* standing at Natural Naming's offerings
