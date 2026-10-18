@@ -2342,3 +2342,63 @@ The same five properties carry the continuing design:
 | **Arrangement offered** | Useful reduction and local receiving bi-momentarying at the whole exchange. Continuing operations, co-releasing, carrying the next arriving and each side's own bounding remain to express together. |
 
 Bi-folding, neuromorphing and re-edging remain the proposed natural correspondence. Their changing needs expression at the particular representation, crossing and returning; pruning or a sparse shape supplies no identity with those operations. Bi-momentarying, co-competencing and co-intelligencing remain inseparable in the cycling of bettering, fastering and cheapering at the actual receiving. The electromagnetic transformer proposal retains its separate primary, secondary, core and material arrangement.
+
+## Re-said at offerings risen, v389
+
+A chosen sampling interval describes instrument. It leaves coupling's own changing to be expressed at its surface.
+
+neither, at its own, is available supply or deliberate co-releasing.
+
+Absence of a central network command does not make an implementation's timing or memory disappear.
+
+their event counts supply no sixteen-step or 0–440 correspondence by themselves.
+
+Their release belongs with corresponding exchange.
+
+A control’s removal leaves changed arrangement and that function’s continuing to express.
+
+An electrical return path retains its circuit relation.
+
+Completed operation and continuing carrying have their own relations at that same exchange.
+
+[Inertia and the Power Grid](https://docs.nlr.gov/docs/fy20osti/73856.pdf).
+
+ring count supplies no phase, prefix depth or executed instruction.
+
+ [Repository build](https://github.com/chris-j-handel/corus/blob/5a7d65675411d9cdc9d87f8f39ea23bafb6eb2b4/build.js); [selection and access](https://github.com/chris-j-handel/corus/blob/5a7d65675411d9cdc9d87f8f39ea23bafb6eb2b4/corus.js); [rebuilding workflow](https://github.com/chris-j-handel/corus/blob/5a7d65675411d9cdc9d87f8f39ea23bafb6eb2b4/.github/workflows/files.yml).
+
+| **§1.8 · Both faces forward** |
+
+Surplus as coupling
+
+each coupling's surplus owned
+
+each coupling's surplus.
+
+surplus is renewed relation
+
+Surplus is co-competencing at coupling.
+
+Co-offer local completion and returned carrying with each side's own rate.
+
+Co-offer membrane, flow path and electrical receiving at the same service.
+
+Co-offer input, membrane orientation and reaction receiving.
+
+Executing and recording supply no authority over nature or Numbers–Mathematics explaining.
+
+**A controlling method carries particular term taking another's turn.**
+
+Coefficients carry proposed relation.
+
+Natural-network opportunity carries actual offering, receiving and release, two-way and one-at-a-time.
+
+Public key as forward and private key as back supply no calculation for recovering either from an other.
+
+**Declining receiving carries its direction so far.**
+
+likewise retains its not-yet.
+
+**So-far carries with not-yet**
+
+Particular not-yet is complete
