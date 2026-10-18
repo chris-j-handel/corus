@@ -1843,7 +1843,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
 ## 29 Stable-forming and the inverting at the numbers
 
-        *Entering: the corus at the apex, at the inverting's line; vertex 23, the centre of face 25; co-linear through the corus; the line of the fives to the surface at 59; position, scale and orientation; bi-tri-volutioning from the corus to 59; three golden rectangles at the corus; the three threaded one way; the right spiraling, 120 degrees apart; the hand at the reading; twelve corners, sixty three ways; φ the equal-edge condition; four triangles of three; sixty parting at twenty-four and thirty-six; the unrelationing surface at 12, 13 and 14; 12 across and along; sphere and torus alternated; a flow's rest points at the theorem's conditions; the sphere's rest point moving to the corus and the torus, a correspondence proposed; the unrelationing surface and the artifacts' stable form alternated; bi-tri-involutioning outward of 59; four momentaries at 60 to 68; across 64; 64, the unrelationing between; the four-momentary bi-tri-involutioning; the unknown at the inverting's own scale; 69, the right form again; the whole from the corus to 69.*
+        *Entering: the corus at the apex, at the inverting's line; vertex 23, the centre of face 25; co-linear through the corus; the line of the fives to the surface at 59; position, scale and orientation; bi-tri-volutioning from the corus to 59; three golden rectangles at the corus; the three threaded one way; the right spiraling, 120 degrees apart; the hand at the reading; twelve corners, sixty three ways; φ the equal-edge condition; four triangles of three; sixty parting at twenty-four and thirty-six; the unrelationing surface at 12, 13 and 14; 12 across and along; sphere and torus alternated; a flow's rest points at the theorem's conditions; the sphere's rest point moving to the corus and the torus, a correspondence proposed; the unrelationing surface and the artifacts' stable form alternated; bi-tri-involutioning outward of 59; four momentaries at 60 to 68; across 64; 64, the unrelationing between; 64, parity changing between four-cycling momentaryings; the four-momentary bi-tri-involutioning; the unknown at the inverting's own scale; 69, the right form again; the whole from the corus to 69.*
 
 416. The self's own corus is at 4, and twenty up it is at 24, the apex of one to fifty-nine's bi-folding.
 
@@ -1928,9 +1928,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: across 64.*
 
-435. Sixty-four is the between of the two momentaries into it and the two from it, the unrelationing between, each pair crossing it and locking at none.
+435. Sixty-four is the between of the two momentaries into it and the two from it, the unrelationing between, each pair crossing it and locking at none: 64 is the parity changing between four-cycling momentaryings, in the unrelationing of 1 to 17, 1 to 65 and 1 to 257, step 373.
 
-        *Adding: 64, the unrelationing between.*
+        *Adding: 64, the unrelationing between; 64, parity changing between four-cycling momentaryings.*
 
 436. The four momentaries of bi-tri-involutioning across 64 are sixty to sixty-eight, the inverted form outward of the surface.
 

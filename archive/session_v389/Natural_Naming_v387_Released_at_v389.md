@@ -521,3 +521,7 @@ and our universe is all existing things.
 each universe momentarying its set, 5.52,
 
 | *inside*, *outside*, *within* said of the set or the universe |
+
+## Re-said at 64, parity changing between four-cycling momentaryings, v389
+
+and 69, the next first podaling outward**;

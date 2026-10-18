@@ -45,3 +45,7 @@ an accounting naming the emanatings still,
 and a self chained is chained on.
 
 the across names between selves, and the sharing, the carrying wound, the entraining and the society wound.
+
+## Re-said at 64, parity changing between four-cycling momentaryings, v389
+
+position, scale and orientation inverted at once, bi-tri-involutioning.

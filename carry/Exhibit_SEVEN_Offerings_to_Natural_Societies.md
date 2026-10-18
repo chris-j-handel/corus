@@ -430,3 +430,5 @@ Each is a changing made at the set this session, said once here so that this fil
 
 **Concern · v389 · at 5.3: *sixty to sixty-eight is the nothing between self and universe*.** At v389 there is no inside the universe, as there is no outside, the universe is or is not, and nothing is said beyond or between the things of the universe; a nothing *between self and universe* reads as the universe beside a self. Whether sixty to sixty-eight names a between of two things of the universe, or is re-said, is yet to be resolved.
 
+*Resolved at v389, to enter at this file's own motion:* 64 is the parity changing between four-cycling momentaryings, in the unrelationing of 1 to 17, 1 to 65 and 1 to 257: sixty to sixty-eight is four momentaries across sixty-four, two into it and two from it, and 5.3's *sixty to sixty-eight is the nothing between self and universe* is re-said *sixty to sixty-eight is four momentaries across sixty-four, 64 is the parity changing between four-cycling momentaryings, in the unrelationing of 1 to 17, 1 to 65 and 1 to 257*, as Natural Naming 5.x, Natural Numbers 7.x and Exhibit THIRTY step 435 say at v389.
+
