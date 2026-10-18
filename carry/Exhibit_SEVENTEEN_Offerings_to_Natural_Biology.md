@@ -197,3 +197,31 @@ Natural Intelligence Corus section 17.4 offers comparative cognition as a place 
 **Concern · at a sentence.** Beside "**Not-yet (read, not cohered):** the seating of the code and the organism on the prime ladder (protein-fold 13, organism"…
 
 *Standing at v389:* Natural Biology 10.1 carries "the seating of the code and the organism on the prime ladder (protein-fold 13, organism-fold 37, the counts along the seventeen primes)" as not-yet. At the set, prime living scales are fourteen, the primes 5 through 53, and all societies and species at one prime scale live there. Re-saying *read* leaves seventeen primes beside fourteen living scales. **To resolve:** is this ladder re-said at fourteen prime living scales, 13 and 37 two of them, or kept as a numbers' ladder apart from living scales?
+
+**Concern · at a sentence.** Beside "hold, waver and snap at tip"
+
+*Standing at v389:* *Standing at v389:* this table row has "hold, waver and snap at tip", and 7.0 has "hold-waver-snap", the forms Exhibit TWO 5.4 explains as "Held, waver and snap", where re-saying Held as *Fixed* stands as an ASK: its seam says a relation continuing, not an unchangeable form. Re-said here alone, two files would carry one triple two ways. **To resolve:** carry *hold* here as TWO 5.4 resolves (*fixed*, or *stable-forming*), or keep it until then?
+
+**Concern · at a sentence.** Beside "a carry read back ages and releases"
+
+*Standing at v389:* *Standing at v389:* here *aging* and *ages* are a carry's staleness set against fresh, as at Natural Health 4.1 ("a carry aging by attentioning") and Natural Values 1.2 ("ages by attentioning"), both standing as ASK. Natural Naming 2.4 carries *ageing*, *ages* as *next*, only next is, and *next* inverts this value. **To resolve:** re-say as a prior fixed as now by attentioning, or keep *aging* as Natural Health and Natural Values resolve?
+
+**Concern · at a sentence.** Beside "Cell below replicative-hold prime carries"
+
+*Standing at v389:* *Replicative-hold prime* labels one prime at 4.9 and at this file only, and no living file explains it. Natural Naming 2.4 carries *hold* of a value by *fixed*, and *replicative-fixed prime* would be a new label whose value is not observed here, as at Natural Philosophy's *held-elapsing*. **To resolve:** re-say as *replicative-fixed prime*, as *a prime at replicative between*, or release the label?
+
+**Concern · at a sentence.** Beside "Record's own punctuated shape is hold-waver-snap"
+
+*Standing at v389:* *Standing at v389:* 7.0 has "hold-waver-snap" and 3.5's table "hold, waver and snap at tip", the forms Exhibit TWO 5.4 explains as "Held, waver and snap", where re-saying Held as *Fixed* stands as an ASK: its seam says a relation continuing, not an unchangeable form. Re-said here alone, two files would carry one triple two ways. **To resolve:** carry *hold* here as TWO 5.4 resolves (*fixed*, or *stable-forming*), or keep it until then?
+
+**Concern · at a sentence.** Beside "carry aging by attentioning where it is not sequenced fresh"
+
+*Standing at v389:* *Standing at v389:* here *aging* and *ages* are a carry's staleness set against fresh, as at Natural Health 4.1 ("a carry aging by attentioning") and Natural Values 1.2 ("ages by attentioning"), both standing as ASK. Natural Naming 2.4 carries *ageing*, *ages* as *next*, only next is, and *next* inverts this value. **To resolve:** re-say as a prior fixed as now by attentioning, or keep *aging* as Natural Health and Natural Values resolve?
+
+**Concern · at a sentence.** Beside "carry aging by attentioning; protection fresh"
+
+*Standing at v389:* *Standing at v389:* here *aging* and *ages* are a carry's staleness set against fresh, as at Natural Health 4.1 ("a carry aging by attentioning") and Natural Values 1.2 ("ages by attentioning"), both standing as ASK. Natural Naming 2.4 carries *ageing*, *ages* as *next*, only next is, and *next* inverts this value. **To resolve:** re-say as a prior fixed as now by attentioning, or keep *aging* as Natural Health and Natural Values resolve?
+
+**Concern · at a sentence.** Beside "**The prime-ladder of holds-still** — cholesterol (11), chaperone (13), histone (17), lysosome (19), gap junction (23),"…
+
+*Standing at v389:* *Standing at v389:* 10.4 has "The prime-ladder of holds-still", and a concern standing at this file's offerings, A prime at a rung with no selves numbered, asks whether each rung is re-said as a society at a prime living scale or this ladder is released, *held still* released. Re-said now as *fixed-still*, that concern's exact quote no longer matches. **To resolve:** re-say as *fixed-still* and refresh the concern's quote, or keep it until that concern resolves?

@@ -519,3 +519,11 @@ Each is a changing made at the set this session, said once here so that this fil
 **Concern · at a sentence.** Beside "The six depth changes, ten naming adjacencies and eight bi-namings keep their objects throughout that explaining."
 
 *Standing at v389:* 7.11 seats each door line beside a v345a resolver bi-naming (`bi_arriving`, `bi_offering`, `bi_co_tunneling` and on) and its code operation (offering keys, numeric sign contributions, depth changes). Exhibit ONE v389 has seventeen numbered names and no bi-namings, keys or depth changes, so no numbered name is clearly one relation with these. **To resolve:** is 7.11 re-said at Exhibit ONE's seventeen names, or carried whole as a record of an earlier code?
+
+## Concerns resolved at v389
+
+**Aimed at a file, Living Ghost Registry:** *surplus* as the registry's own sixth door line, *6 · surplus*, read at each entry and at the door's tables, and *co-offering* (with *co-offer*) at 176, 780 and 1790, 25 places, at lines 151, 176, 446, 517, 588, 659, 730, 780, 801, 872, 943, 1014, 1085, 1161, 1243, 1322, 1532, 1642, 1670, 1759, 1780, 1790, 1795, 1812, 1824. "value is the surplus made there, owned by neither"; "6 · surplus. Enzyme and substrate together exceed each alone and their sum, the surplus owned by neither. Reads is"; "Door lines 6, 9 and 10 carry surplus, bound and reach". Natural Naming 2.4 carries *surplus* at *abundancing*, 12-bi-tri-bi-entraining, each sharing's changing, is or is not; *co-offering* dissolves at bi-momentarying, 5.13. At 774 the field's *"surplus"* is quoted and passes. — v381R scan
+
+*Standing at v389:* Door line 6 is "6 · surplus" at each of thirteen entries and at 7.5's table, and 7.10 has "Door lines 6, 9 and 10 carry surplus, bound and reach". Natural Naming 2.4 releases *surplus* to *abundancing*, 12-next-co-still-possibling, each sharing's changing, is or is not. A door line's own word changes every entry. **To resolve:** is line 6 re-worded *abundancing* at every entry and table, or does *surplus* stand there as a field's word at its result?
+
+*Resolved at v389:* carried at pass 8, v389: door line 6 is 6 · abundancing at each entry, at 7.5's and 7.10's tables and at Living Society Registry's door lines, both registries together, as Natural Naming 2.4 carries surplus.
