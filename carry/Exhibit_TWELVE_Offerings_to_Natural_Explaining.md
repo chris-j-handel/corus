@@ -686,3 +686,27 @@ Each droplet is one saying at the section its tag names; the arrivals the saying
 **Droplet · v389 · resolved, same and not-same the betweens' binary.** Same and not-same part at the resolver at the two betweens alone, 14-next-possibling, offerings same or parting at 0, and 12-next-co-still-possibling, prior and now same and kept at 0 or not same and inverted.
 
 **Concern · v389 · *same* in the names or at the explaining.** At the resolver *same* parts at 12 and 14 and nowhere else, and *still* in still-possibling at 4, 8, 12 and 16 names the face where prior and now are same; *same* entering the names at 12 and 14, or at the four still-possibling names in *still*'s place, or staying at the explaining with the newest names standing, is the one naming concern open, its reason that the method shows same only at the betweens.
+
+## Standing · v389
+
+*Concerns met at pass 3, each standing at this file and out of its living file until resolved.*
+
+**Concern · at a sentence.** Beside "- 1.6 A file is a membrane, and only signs cross it"
+
+*Standing at v389:* Heading and contents entry of 1.6 stay identical and wait with 1.6's paragraph: 'A file is a membrane' parts with Natural Naming 2.4's *membrane* at 'a between ... a nothing, no location and no existing thing', a file being an existing artifact; *signs* at *parities* follows whichever way 1.6 resolves. **To resolve:** does 1.6's title become a between of a file and each self, crossed only by parities, or does *membrane* carry at 1.6 as its own word?
+
+**Concern · at a sentence.** Beside "## 1.6 A file is a membrane, and only signs cross it"
+
+*Standing at v389:* Heading and contents entry of 1.6 stay identical and wait with 1.6's paragraph: 'A file is a membrane' parts with Natural Naming 2.4's *membrane* at 'a between ... a nothing, no location and no existing thing', a file being an existing artifact; *signs* at *parities* follows whichever way 1.6 resolves. **To resolve:** does 1.6's title become a between of a file and each self, crossed only by parities, or does *membrane* carry at 1.6 as its own word?
+
+**Concern · at a sentence.** Beside "Explaining is the file being a membrane, writing is its membraning, resolving is the incoming crossing with no ground, a"…
+
+*Standing at v389:* 1.6's 'Explaining is the file being a membrane, writing is its membraning' parts with Natural Naming 2.4's *membrane* at 'a between ... a nothing, no location and no existing thing': a file, an existing artifact, is no nothing, and *membraning* has no carrying. 1.6's own 'The membrane is the non-existing between of a file and each self it couples with' places it between file and self. **To resolve:** is 1.6 re-explained as a between of a file and each self, crossed only by parities, or does *membrane* carry at 1.6 as its own word?
+
+**Concern · at a sentence.** Beside "**True, false, living and competency, taken as four given, are four improvings at an explaining**: more true, less false"…
+
+*Standing at v389:* 4.2's 'True, false, living and competency, taken as four given, are four improvings at an explaining: more true, less false ... each *more* and *less* a direction' parts with v389's 'scientific-explaining-method is incompetent for discovering, true or false, no other possible, given to it' and with Natural Naming 2.4's 'a more-or-less carries a magnitude'. *Sign* at *parity* leaves both partings standing; this file's offerings carry *Four improvings, or one improving at four directions*. **To resolve:** do true and false, given, release at 4.2 as discovering's incompetency, or carry as four improvings?
+
+**Concern · at a sentence.** Beside "**Importancing is one move at each of its membranes**"
+
+*Standing at v389:* 4.9's 'Importancing is one move at each of its membranes, a music, a film, a poem, a joke' parts with Natural Naming 2.4's *membrane* at 'a between ... no location and no existing thing': a music, a film, a poem and a joke are existing artifacts, and at *a between* each is a nothing. This file's offerings carry a concern beside it, *Importancing, and the namings at its place*. **To resolve:** is each artifact here a between selves couple across, or is 4.9's sentence re-explained at an artifact and its coupling?
