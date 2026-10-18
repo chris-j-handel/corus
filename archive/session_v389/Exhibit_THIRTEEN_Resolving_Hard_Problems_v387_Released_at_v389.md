@@ -119,3 +119,39 @@ ingested into a living society's resolving,
 ## Released at nothing ingressing and nothing escaping dissolving, v389
 
 each arriving into its next existing together with the others, nothing ingressing and nothing escaping.
+
+## Re-said at no reading in nature, observing of nature, v389
+
+- 5.1 Four readings at the resolver
+
+behind it. Read so, the observings carry no next of their own
+
+**Read with the universe an existing thing, the same observings
+
+**So a field's evidence is read at two momentaries**
+
+Read at one momentary, the evidence is read as the living self now; read bi-momentary,
+
+the same four read from next to prior
+
+## 5.1 Four readings at the resolver
+
+at the resolver in four readings, one after the other
+
+**Each reading is binary, and the four readings are the resolving.**
+
+and the next the readings discover is the field's own
+
+**The origin read bi-momentary is
+
+**A measurement read at one momentary is read as the now**; read bi-momentary,
+
+so a reading reaches it at none
+
+A mind is read at its own couplings
+
+and a kind is read at the selves carrying it
+
+of the carrying, 2.2, read at the now as offerings
+
+that accounting read at one momentary, one of the readings at 1.5. Read bi-momentary,

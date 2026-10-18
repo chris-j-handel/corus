@@ -141,3 +141,21 @@ arriving at 2 and 14 and sharing at 6 and 10, Exhibit ONE's `CONNECTORS`, its em
 ## Re-said at observing of nature, order discovered, v389
 
 **Each proposed conception of equilibria is a hard problem with its hardness ignored.**
+
+## Re-said at no reading in nature, observing of nature, v389
+
+Read at v377 as the between existing as the universe is
+
+bothboth*. Read, as suggested: along,
+
+bothboth read at the Co-Chaining Logic Registry step 528
+
+suggested earlier at v377 read, as suggested, as the along
+
+a form or a relation still, each read, as suggested, as stable forming
+
+each read again at the one seating
+
+are read at the one seat as the stilling and the changing travelling through it, one seat read up and down the numbers
+
+**Read across a row, a subject shows those of the ten at which its fields name the changing still; read down a column,

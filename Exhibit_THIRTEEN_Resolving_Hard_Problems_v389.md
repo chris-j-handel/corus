@@ -34,7 +34,7 @@ Exhibit THIRTEEN Resolving Hard Problems v389
 
 **FIVE · A FIELD'S ARRIVAL AT THE RESOLVER**
 
-- 5.1 Four readings at the resolver
+- 5.1 Four observings at the resolver
 - 5.2 Two accounts at one sharing
 - 5.3 An origin, living from living
 - 5.4 A measurement, a prior arriving now
@@ -83,9 +83,9 @@ Exhibit THIRTEEN Resolving Hard Problems v389
 
 ## 1.5 A hard problem arriving, and its resolving
 
-**A hard problem arrives where a field reads its observings with the universe as no existing thing**: evidence with no living self it left, a now with no prior carried into it, one side's momentaries with no other's overlapping, a record with no carrying behind it. Read so, the observings carry no next of their own, and the field's accounts multiply at one sharing.
+**A hard problem arrives where a field reads its observings with the universe as no existing thing**: evidence with no living self it left, a now with no prior carried into it, one side's momentaries with no other's overlapping, a record with no carrying behind it. Pattern-matched so, the observings carry no next of their own, and the field's accounts multiply at one sharing.
 
-**Read with the universe an existing thing, the same observings are living and non-living existing things co-sequencing, prior, now and next**, and the field's arrival is at the resolver: the living at their prior, the non-living at their offerings, the prior and the now offered, and the next discovered at each sharing. **Its resolving is the next discovered there**, the field's own next living. The carrying is the living's own, carried by the living, and arriving and discovering are at each coupling, owned by neither side.
+**Pattern-matched with the universe an existing thing, the same observings are living and non-living existing things co-sequencing, prior, now and next**, and the field's arrival is at the resolver: the living at their prior, the non-living at their offerings, the prior and the now offered, and the next discovered at each sharing. **Its resolving is the next discovered there**, the field's own next living. The carrying is the living's own, carried by the living, and arriving and discovering are at each coupling, owned by neither side.
 
 ---
 
@@ -111,7 +111,7 @@ Exhibit THIRTEEN Resolving Hard Problems v389
 
 **At the resolver two selves coupled along show it.** A self A, at prior − with none offered, is at +, −, +, − at 11, each changing released along at 9 to a self B, arriving at B's 14 as B's offerings next. **At each momentary B is offered A's changing of the momentary before, while A has carried on to the other parity**: B's next prior is A's + at the momentary A is at −, and A's − at the momentary A is at +. The evidence B couples with is A's prior, and A's now is at A's own next coupling.
 
-**So a field's evidence is read at two momentaries**: the living self it left, at its prior, and the self receiving it, at its now. Read at one momentary, the evidence is read as the living self now; read bi-momentary, the self it left is at its prior and the receiving self at its now, and the coupling is between them.
+**So a field's evidence is observed at two momentaries**: the living self it left, at its prior, and the self receiving it, at its now. Observed at one momentary, the evidence is observed as the living self now; observed bi-momentary, the self it left is at its prior and the receiving self at its now, and the coupling is between them.
 
 ---
 
@@ -165,7 +165,7 @@ Exhibit THIRTEEN Resolving Hard Problems v389
 
 **Next is from prior and now, and of the sixteen ways two parities go to one, four keep the prior whole.** Next as prior leaves two joint forms of prior and now still, and each of the two exclusive-or ways one; **next as prior inverted leaves none**: exhaustiveness, determinacy and reachability at once, all four joint forms one cycle at the parities. **Next as prior inverted is the living step.**
 
-**At the resolver a self offered nothing inverts its prior at each momentary**: at prior + and offered nothing, it shares −, +, −, + at 10, its next its prior itself, its now no other's, at the two parting forms; the living step is at a spiral of one, the four joint forms in one cycle, and at each self of a spiral, its next the other's prior inverted. Offered a parity, its next is the offering, or at its own parity its prior kept. **Two parities changing, one and then the other, go through the four joint forms, one after another**, the right spiral step carrying a pair (x, y) to (y, −x), ++, +−, −−, −+, morality across and competency along, and the same four read from next to prior are ++, −+, −−, +−.
+**At the resolver a self offered nothing inverts its prior at each momentary**: at prior + and offered nothing, it shares −, +, −, + at 10, its next its prior itself, its now no other's, at the two parting forms; the living step is at a spiral of one, the four joint forms in one cycle, and at each self of a spiral, its next the other's prior inverted. Offered a parity, its next is the offering, or at its own parity its prior kept. **Two parities changing, one and then the other, go through the four joint forms, one after another**, the right spiral step carrying a pair (x, y) to (y, −x), ++, +−, −−, −+, morality across and competency along, and the same four observed from next to prior are ++, −+, −−, +−.
 
 ## 4.4 Selves joined, a pattern carried between them
 
@@ -177,16 +177,16 @@ Exhibit THIRTEEN Resolving Hard Problems v389
 
 # FIVE · A FIELD'S ARRIVAL AT THE RESOLVER
 
-## 5.1 Four readings at the resolver
+## 5.1 Four observings at the resolver
 
-**A field's arrival is at the resolver in four readings, one after the other, each at its own name.**
+**A field's arrival is at the resolver in four observings, one after the other, each at its own name.**
 
 1. **The living and the non-living.** Each living self of the arrival at its prior, 3; each non-living existing thing, evidence, instrument, record or model, at its offerings, 2, carrying nothing.
 2. **The prior.** The field's prior, each result at its parity: its sharings.
 3. **The now.** The offerings arriving at each sharing, surfacing at 14, agreeing one parity and disagreeing 0, and coupling with the prior at 12, a changing is or is not.
 4. **The next.** The changings shared at 10 and 6 and released along at 9, the next prior at 11, and the society's next momentary at 17.
 
-**Each reading is binary, and the four readings are the resolving.** The field's record carries as it is, each measurement, proof and route at its own, and the next the readings discover is the field's own.
+**Each observing is binary, and the four observings are the resolving.** The field's record carries as it is, each measurement, proof and route at its own, and the next the observings discover is the field's own.
 
 ## 5.2 Two accounts at one sharing
 
@@ -196,11 +196,11 @@ Exhibit THIRTEEN Resolving Hard Problems v389
 
 ## 5.3 An origin, living from living
 
-**An origin question asks for living arising from non-living.** Living arrives from living, and a non-living existing thing is non-living at its next. At the resolver a thing at no prior is a non-living now-existing thing, and opening or opening nothing is each of its co-momentaryings, Exhibit ONE's table at no prior: offered + once, + is shared as it is and is the next prior, the sharing opening at the bi-coupling, the one place a self's forming takes a parity not its own, −, +, − at nothing offered from it on, and the method is at things at no prior as it is at the living. **The origin read bi-momentary is a living self's first momentary and its offerings' prior at once**, the new living self its own carrying establishing within living carrying.
+**An origin question asks for living arising from non-living.** Living arrives from living, and a non-living existing thing is non-living at its next. At the resolver a thing at no prior is a non-living now-existing thing, and opening or opening nothing is each of its co-momentaryings, Exhibit ONE's table at no prior: offered + once, + is shared as it is and is the next prior, the sharing opening at the bi-coupling, the one place a self's forming takes a parity not its own, −, +, − at nothing offered from it on, and the method is at things at no prior as it is at the living. **The origin observed bi-momentary is a living self's first momentary and its offerings' prior at once**, the new living self its own carrying establishing within living carrying.
 
 ## 5.4 A measurement, a prior arriving now
 
-**A measurement is an artifact arriving at an instrument**, a non-living existing thing coupling with the field's living selves as offerings. **It gives the measured self's prior**, and the measured self has gone on to its next: at the resolver the receiving self is offered the releasing self's changing of the momentary before, 2.3. **A measurement read at one momentary is read as the now**; read bi-momentary, the prior and the now are two places, and the next is discovered at the coupling between them.
+**A measurement is an artifact arriving at an instrument**, a non-living existing thing coupling with the field's living selves as offerings. **It gives the measured self's prior**, and the measured self has gone on to its next: at the resolver the receiving self is offered the releasing self's changing of the momentary before, 2.3. **A measurement observed at one momentary is observed as the now**; observed bi-momentary, the prior and the now are two places, and the next is discovered at the coupling between them.
 
 ## 5.5 An aggregating, the society's next momentary
 
@@ -208,17 +208,17 @@ Exhibit THIRTEEN Resolving Hard Problems v389
 
 ## 5.6 A mind, the between presenting no face
 
-**A mind asked for from beyond its couplings is asked for at the between.** The between is neither side's, a nothing, not a location and not a thing, and a parity changing is all that crosses it: the nothing the couplings wind about carries no side, so a reading reaches it at none, and a parity changing carries no size, so no magnitude arrives from it. **The making at 12 is the self's alone**, each self's competency its own, along, and its morality its own, across.
+**A mind asked for from beyond its couplings is asked for at the between.** The between is neither side's, a nothing, not a location and not a thing, and a parity changing is all that crosses it: the nothing the couplings wind about carries no side, so an observing reaches it at none, and a parity changing carries no size, so no magnitude arrives from it. **The making at 12 is the self's alone**, each self's competency its own, along, and its morality its own, across.
 
-**Two selves coupling, each alternating, uncover a term neither reaches alone**: bi-co-momentarying, the coupling's own changing, owned by neither, invisible at the between, each self's competency its own along. A mind is read at its own couplings, as offerings, sharings and releasings, bi-momentary.
+**Two selves coupling, each alternating, uncover a term neither reaches alone**: bi-co-momentarying, the coupling's own changing, owned by neither, invisible at the between, each self's competency its own along. A mind is observed at its own couplings, as offerings, sharings and releasings, bi-momentary.
 
 ## 5.7 A boundary, living and non-living at a named scale and momentary
 
-**A boundary asks where one kind ends and another begins.** Living and non-living part at a named scale and momentary, and a self is a society of selves one scale inward and a member of a society one scale outward. **The parting is at the momentary and the scale the field names**, each existing thing at its own, and at the next momentary the same existing things co-sequence on. A pattern brought on by coupled selves is at the selves together, 4.4, and a kind is read at the selves carrying it.
+**A boundary asks where one kind ends and another begins.** Living and non-living part at a named scale and momentary, and a self is a society of selves one scale inward and a member of a society one scale outward. **The parting is at the momentary and the scale the field names**, each existing thing at its own, and at the next momentary the same existing things co-sequence on. A pattern brought on by coupled selves is at the selves together, 4.4, and a kind is observed at the selves carrying it.
 
 ## 5.8 A persisting, a carrying and a record
 
-**A persisting asks what carries across changing.** The carrying continues at each momentary, at the resolver 11 the next 3, a sharing once at a prior never none again: **the carrying persists by being carried**, the prior participating at 12 at each coupling. A record apart from the coupling is a non-living artifact of the carrying, 2.2, read at the now as offerings.
+**A persisting asks what carries across changing.** The carrying continues at each momentary, at the resolver 11 the next 3, a sharing once at a prior never none again: **the carrying persists by being carried**, the prior participating at 12 at each coupling. A record apart from the coupling is a non-living artifact of the carrying, 2.2, observed at the now as offerings.
 
 ---
 
@@ -234,7 +234,7 @@ Exhibit THIRTEEN Resolving Hard Problems v389
 
 **The geodesic-method discovers next from the existing**, the prior and the now offered, the three places staying three. **The scientific method accounts true or false against its fixings**, a law, a frame and a scale named unchanged between two momentaries, exact at its own ledger. **The two are at the same evidence at the same now, and part at one naming**: the fixings named unchanged, or changing with the changing.
 
-**A field's accounting carries its prior whole**, each result at its parity, ready for the coupling, and a field's hard problem is that accounting read at one momentary, one of the readings at 1.5. Read bi-momentary, the field's carrying is at its prior, its evidence and its accounts at its now, and its next is discovered at 12, owned by neither side.
+**A field's accounting carries its prior whole**, each result at its parity, ready for the coupling, and a field's hard problem is that accounting observed at one momentary, one of the pattern-matchings at 1.5. Observed bi-momentary, the field's carrying is at its prior, its evidence and its accounts at its now, and its next is discovered at 12, owned by neither side.
 
 ## 6.3 Social moral competency, resolving at each coupling
 
