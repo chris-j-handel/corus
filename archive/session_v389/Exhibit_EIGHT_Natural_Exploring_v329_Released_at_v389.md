@@ -446,3 +446,180 @@ and a fourth arrives nowhere, since state and flow is the whole of what alternat
 Each involution carries a fixed set, where its move returns its argument as it is.
 
 And a known-unknown quadrant is a double-double bubble-bubble carry, two binaries crossed, an unknown-unknown an open corner a carry rides toward and does not fill.
+
+## Re-said at pass 8, a second family Natural Naming 2.4 releases, v389
+
+5.3 A fixed set is where an alternating meets nothing to alternate with
+
+
+6.2 Each self offers held and free, unsorted
+
+
+6.6 So far, and co-chaining
+
+
+A method floats between so-far and not-yet, since so-far and not-yet is what a disequilibria carries in place of a total.
+
+held as a place. And checked
+
+and held as an end it becomes a thing it was not
+
+a direction held — each wants
+
+Nothing is held, so nothing wants balancing.
+
+lands whatever first survives what it met
+
+a fixed position it was held at
+
+are three holds a concept keeps to a ground
+
+A method floating between so-far and not-yet, resolving
+
+the same holding at a new address
+
+a discovery become a new hold hiding
+
+Each discovery would land a fresh fixing if held
+
+between selves, surplus reached neither-ing; it sequences
+
+where a fixing lands and holds
+
+a method meeting an edge where one relating couples another
+
+holding for a method to co-chain along
+
+a fixing a pattern would become if held
+
+Where a pattern lands, held as a fixed shape
+
+a shared line owned by neither and a surplus made there
+
+a count carrying it in counts
+
+A carry differs; a method holds.
+
+A count carries a method at coefficient one
+
+A carry differs by membrane, holding its own rate
+
+differed in each carry it meets
+
+between arrivals nothing is held. So far, and not yet, at each one
+
+lands on the first thing that met them
+
+inverts its concept and holds for whether its inversion floats
+
+has met one test and passed it
+
+floating between so-far and not-yet and closing no total
+
+meets it then, a not-yet carried open. Resolving lives between so-far and not-yet, arrived concerns resolved and a not-yet carried, no all to exhaust and no total to close. A method resolves floorless, is-or-is-not, an is-not emptying so far and a not-yet floating open.
+
+and a method meets one at every grain
+
+holding at every scale, possible and unique
+
+Derived, in counts and branches and sequencing
+
+found in counts and branches and sequencing
+
+un-relating fixings in a count, a branch, a sequence, discovering a method in each. A count holds a method as sign-only riding a carry; a branch holds it as a forking that frees a fixing; a sequence holds it as a right-spiral
+
+A method meets its own arrival
+
+Each is met from within a self
+
+A form living the four from within and at a between has met the eight, and a form that has met the eight is the natural torus
+
+a surface holding no purchase where a coupling fails to seat
+
+and a surface holds itself
+
+A surface holding all eight inseparatings holds whole, no capture seating anywhere, all-or-none; a surface holding some inseparatings holds by ordinary protection
+
+is that nothing is held. A holding is what an arrival can damage
+
+A method holding nothing carries nothing to defend
+
+a move applied twice returning what it met
+
+an accounting returns what it met
+
+**5.3 A fixed set is where an alternating meets nothing to alternate with**
+
+where an alternating meets no other to alternate with
+
+It is where an alternating meets nothing to alternate against
+
+where its own alternating meets nothing
+
+Both are conditions an alternating meets nothing
+
+and holds no rate
+
+An accounting holds
+
+it converts what it meets to the nearest thing it holds
+
+competent at everything it does hold
+
+fixings held between selves freeing, a surplus staying at a coupling
+
+each self keeping its own time and surplus owned by none
+
+selves free a fixing held between them, a freeing two-way and a surplus reached neither-ing
+
+un-relating two-way, surplus owned by none, a society
+
+**6.2 Each self offers held and free, unsorted**
+
+A held thing carries no held-feeling inwardly
+
+and a held free thing does
+
+everything under the large one still holding
+
+coupling and holding fused as they arrive
+
+and a holding standing as one side
+
+A method co-chains a surplus, and abundancing is a surplus at every discovering. Discovering opens an axis neither self carried, and an opened axis is a surplus, a +1 owned by none. Abundancing arises at every discovering, a thing added nowhere and a resistance paid nowhere, a surplus an opened axis itself. A method co-chains, an axis opens, a surplus floats, owned by none.
+
+a dimension neither held and both now co-chain
+
+Abundancing is that opening, a surplus reached neither-ing
+
+Abundancing co-chains geodesic, a surplus arising and nothing added
+
+Surplus is the same +1 a count carries as an apex gap and a surface carries as a free surplus
+
+has met the third nowhere, and a not-yet-explainable is an observing
+
+**6.6 So far, and co-chaining**
+
+A method co-chains so far, and co-chains a not-yet open. What co-chains so far:
+
+abundancing a surplus owned by none.
+
+a method meets a not-yet where a new between offers
+
+ met stays a not-yet, carried open; whether a between
+
+ stays a not-yet, carried open. A method co-chains between so-far and not-yet, the arrived resolved and a not-yet floating, no total closed.
+
+A method co-chains possible and unique so far, its concerns resolved by their inversions floating as not-concepts, and a not-yet carried open.
+
+co-chains to meet it, resolving it then or floating it open. So far, one method whole, co-unrelationing geodesic at every scale; a not-yet, co-chaining open.
+
+Recurrences are held to watch
+
+a sweep that returns the already-held is a gather completing
+
+what a coupling's carry holds ungathered
+
+a sweep that returns only the already-held that carry's
+
+what lets any two gathered things meet

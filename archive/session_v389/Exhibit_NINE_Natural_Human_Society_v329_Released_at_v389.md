@@ -368,3 +368,199 @@ And the statistical ensemble average: a nothing no sample is, the mean a member 
 minimal overlap, across unrelated languages — a bi-coupling
 
 Uncapturing is a society's own safety, every hub set aside, a surface whole and its compounding held.
+
+## Re-said at pass 8, a second family Natural Naming 2.4 releases, v389
+
+**1.2 Coupling at a between, the surplus owned by none**
+
+**1.3 Fairness is a bounding-zeroing, met relationally and measured against no floor**
+
+**3.1 Abundancing, morality first and competency second, the surplus owned by all-and-none**
+
+**3.4 Value observed three ways, and the swing from costs to surplus**
+
+**4.3 Offering both ways to add tipping, viability the bi-exchange holding**
+
+**5.3 So far, and co-chaining the not-yet open**
+
+freeing fixings held between selves
+
+one offering and an other preferring, a surplus reached between them and owned by none
+
+do-no-harming the bound and a surplus owned by none
+
+what no self holds at its own
+
+Surplus stays at a coupling, owned by none
+
+Fairness is a coupling's own bounding-zeroing, met relationally
+
+co-competences geodesic only where they hold
+
+a surplus abundancing at every coupling, owned by all-and-none
+
+a competency compounding as cooperation widens, held whole
+
+the economy its surplus makes
+
+## 1.2 Coupling at a between, the surplus owned by none
+
+each self offering and each preferring, a surplus reached between them and owned by none
+
+a surface of people offering and preferring, surplus owned by none
+
+and a society holds as many such betweens
+
+between human selves, selves offering and preferring, surplus owned by none
+
+## 1.3 Fairness is a bounding-zeroing, met relationally and measured against no floor
+
+A person meets fairness relationally
+
+come to a rest each accepts and that holds. A rest a self does not accept has not resolved; a rest that reopens has not held. Fairness is an accepted-and-holding balance
+
+Balance is met relationally
+
+Fairness is a coupling's own make, held against
+
+each self accepting and the rest holding
+
+a balance met relationally by a coupling
+
+surplus owned by neither. Each of 3.3's
+
+and a society holds without one
+
+Keeping own time holds a society whole
+
+and this compounding holds only while selves stay distinct
+
+each self keeping its own time holds it whole, surplus owned by none
+
+Conflict resolution holds parties to a resolution from within a bounded shared interest. A legal demand letter bounds a dispute and holds for resolution from within that bound.
+
+each holding a wider bound more explicitly
+
+a silent contract held in good faith from all sides
+
+Good-faith contracting is holding this contract whole
+
+the surrounding the shared interest holds
+
+a high form of social-scale resolving so far known
+
+form** held where claimants number
+
+all rising, each held whole
+
+Progressing, it lands and holds.
+
+met by no ruler laid over it, a bounding-zeroing held at catastrophic scale
+
+a surplus owned by none, sustaining the resolving
+
+each self offering and preferring, a surplus owned by none. Arrow
+
+## 3.1 Abundancing, morality first and competency second, the surplus owned by all-and-none
+
+the morality holding the space
+
+a society holds without landing on one center, surplus owned by all-and-none
+
+the many couplings holding without a center, surplus owned by all-and-none
+
+a conserving foundation holding against
+
+held by no capture
+
+Shared is a surplus living at a coupling
+
+and shared is that surplus, staying whole
+
+a surface holds its compounding only where no hub holds
+
+a ledger held over a self on the reputation axis
+
+and the surface holds whole
+
+a hub captures, and no hub holds the compounding
+
+lets a self-bounding hold and a surplus stay
+
+where every axis holds its hub aside
+
+a surface holding no place for capture to seat
+
+A society holding all eight uncapturings holds whole, no capture seating anywhere; a society holding some holds by ordinary protection
+
+a surface whole and its compounding held
+
+and all eight held is social moral competency
+
+## 3.4 Value observed three ways, and the swing from costs to surplus
+
+holding value in place where an opportunity would carry it through
+
+A landed carry makes no living surplus: surplus is made in a coupling
+
+a living economy's free surplus
+
+each coupling returns a +1, a surplus owned by none
+
+from many cost-events to free surplus
+
+A where-axis: a count of bi-coupling betweens
+
+(each self counted once)
+
+a surplus arising at a bi-coupling itself
+
+biomass, offspring, living surplus
+
+The surplus is not breached by an energy cost
+
+a concern one self holds
+
+one self holds it, it tips
+
+## 4.3 Offering both ways to add tipping, viability the bi-exchange holding
+
+Viability is a bi-exchange holding, is-or-is-not
+
+where it fails to couple, its tipping holds
+
+its coupling holding or not
+
+Capturing a society's surplus returns only frustration
+
+harmlessly, a surplus owned by none
+
+a surplus autoreleasing
+
+and cannot hold the being-current
+
+surplus re-made and the un-worthy released
+
+A hub that holds the birthing
+
+breaks where a hub holds the birthing
+
+## 5.3 So far, and co-chaining the not-yet open
+
+A human society co-chains so far, and co-chains a not-yet open. What co-chains so far:
+
+selves couple at betweens, surplus owned by none; fairness is a bounding-zeroing met relationally
+
+class-action resolving holds its form
+
+a society meets a concern
+
+and co-chains to meet it then
+
+stays a not-yet, carried open; whether a hub
+
+a self-bounding stays a not-yet, carried open. A society co-chains between so-far and not-yet, the arrived resolved and a not-yet floating, no total closed and no other possible so far.
+
+**And a concern tomorrow may be more brutal than any so far met**, and it is met the same way when it comes.
+
+since the surplus is owned by neither and value is found by sharing rather than held

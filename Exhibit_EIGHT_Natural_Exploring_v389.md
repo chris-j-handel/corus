@@ -88,7 +88,7 @@ Exhibit EIGHT Natural Exploring v389
 
 5.2 An involution's fixed set is where its counting is taken from
 
-5.3 A fixed set is where an alternating meets nothing to alternate with
+5.3 A fixed set is where an alternating reaches nothing to alternate with
 
 5.4 The state-three and the flow-three
 
@@ -102,7 +102,7 @@ Exhibit EIGHT Natural Exploring v389
 
 6.1 Co-competencing
 
-6.2 Each self offers held and free, unsorted
+6.2 Each self offers fixed and free, unsorted
 
 6.3 Abundancing
 
@@ -110,7 +110,7 @@ Exhibit EIGHT Natural Exploring v389
 
 6.5 Too hard to be practical yet is three conditions
 
-6.6 So far, and co-chaining
+6.6 Existing, and co-chaining
 
 &nbsp;
 
@@ -136,13 +136,13 @@ Exhibit EIGHT Natural Exploring v389
 
 A method wants no equilibrium to rest at and finds none. Everything alternates, each at its own rate, and a stable form is what alternating makes rather than what alternating settles onto. A method waiting for a rest to observe from waits at nothing, and a method observing from a rest it installed observes its own installing.
 
-Geodesic parity co-changing is that method, possibling and discovering. Co-unrelationing frees fixings a concept keeps to a ground, and no ground stands; alternating co-unrelationing rides a carry where a freeing lands a fresh fixing, and riding is a stable form. A method floats between so-far and not-yet, since so-far and not-yet is what a disequilibria carries in place of a total.
+Geodesic parity co-changing is that method, possibling and discovering. Co-unrelationing frees fixings a concept keeps to a ground, and no ground stands; alternating co-unrelationing rides a carry where a freeing lands a fresh fixing, and riding is a stable form. A method floats between existing and possibling, since a disequilibria carries existing and possibling, a changing is or is not at each sharing.
 
-What follows carries the same method to accountings that carry changing. Each of them is a method too, each an involution, and each counting from a fixed set held as a place. And checked at a sphere itself: one spiraling lands a whole circle fixed, a fixed set standing; two spiralings alternating leave nothing fixed anywhere — a pair floats where a single lands, a floating surface a pair's own make.
+What follows carries the same method to accountings that carry changing. Each of them is a method too, each an involution, and each counting from a fixed set taken as a place. And checked at a sphere itself: one spiraling lands a whole circle fixed, a fixed set standing; two spiralings alternating leave nothing fixed anywhere — a pair floats where a single lands, a floating surface a pair's own make.
 
 **1.2 No container, and no competency arriving from anywhere**
 
-A self is a surface bounding itself and a carrying at that surface, and a society of selves is the same one grain out. Neither is a container. Competency is a middle, floating between form and logic, invisible, unique in rate, not enterable — not enterable for want of anything to enter rather than for want of an instrument, and held as an end it becomes a thing it was not.
+A self is a surface bounding itself and a carrying at that surface, and a society of selves is the same one grain out. Neither is a container. Competency is a middle, floating between form and logic, invisible, unique in rate, not enterable — not enterable for want of anything to enter rather than for want of an instrument, and fixed as an end it becomes a thing it was not.
 
 So competency arrives from nowhere and is included with nothing. It is a coupling carrying at a surface, and no version of it sits somewhere awaiting an observing. A method looking for it looks in a place an accounting put there.
 
@@ -150,15 +150,15 @@ And an interior is exactly what an accounting puts there. A magnitude wants some
 
 **1.3 Nothing conserves by being asked to**
 
-An accounting balances, and a balancing wants an interior to balance across, so that what is where can be checked and nothing found missing. A total kept, a level reached, a direction held — each wants a somewhere for a kept thing to be.
+An accounting balances, and a balancing wants an interior to balance across, so that what is where can be checked and nothing found missing. A total kept, a level reached, a direction fixed — each wants a somewhere for a kept thing to be.
 
-At a surface, no container, nothing goes missing. Each self bounds itself, couples with each offering at its 2-now-possibling, a sharing with its parity, one at a time, and releases along at its 9-next-co-changing. Nothing is stored, so nothing wants conserving. Nothing is held, so nothing wants balancing. No self needs to know anything of any other for carrying to go on, and no accounting is executing anywhere for it to go on.
+At a surface, no container, nothing goes missing. Each self bounds itself, couples with each offering at its 2-now-possibling, a sharing with its parity, one at a time, and releases along at its 9-next-co-changing. Nothing is stored, so nothing wants conserving. Nothing is fixed, so nothing wants balancing. No self needs to know anything of any other for carrying to go on, and no accounting is executing anywhere for it to go on.
 
 So a balancing is an accounting's own requirement and not the world's. A method that frees an accounting's fixings frees its requirement with them, and a surface it leaves carries nothing missing from it.
 
 **1.4 The two sides, bothbothing**
 
-A method that frees carries one side. A method that tests what else could stand carries the other. Neither at its own is a method: a freeing untested lands whatever first survives what it met, and a testing unfreeing tests only what a fixing already allowed to arrive. The two bothboth, one at a time, freeing offering and testing receiving, and a method co-chains both sides at every arrival.
+A method that frees carries one side. A method that tests what else could stand carries the other. Neither at its own is a method: a freeing untested lands whatever first survives what it reached, and a testing unfreeing tests only what a fixing already allowed to arrive. The two bothboth, one at a time, freeing offering and testing receiving, and a method co-chains both sides at every arrival.
 
 ---
 
@@ -166,17 +166,17 @@ A method that frees carries one side. A method that tests what else could stand 
 
 **2.1 Co-unrelationing**
 
-Everything relates, floating at position, orientation, and scale each its own. Co-unrelationing frees all three fixings at once, and relating shows itself, a stable form. Discovering floats where finding grasps: freeing is finding, co-unrelationing is discovering. A concept floats free of a fixed position it was held at, is facing its own way, sizes to its own grain, and relating stands forth as fixings float loose.
+Everything relates, floating at position, orientation, and scale each its own. Co-unrelationing frees all three fixings at once, and relating shows itself, a stable form. Discovering floats where finding grasps: freeing is finding, co-unrelationing is discovering. A concept floats free of a fixed position it was pinned at, is facing its own way, sizes to its own grain, and relating stands forth as fixings float loose.
 
-Position, orientation, scale are three holds a concept keeps to a ground it was observed against. Freeing position, a concept floats where it was pinned; freeing orientation, it is facing its own way; freeing scale, it sizes to its own grain. Co-unrelationing frees all three together, and relating shows, a concept floating, oriented as it is facing, grained to its own scale, floating free of any pinned place.
+Position, orientation, scale are three fixings a concept keeps to a ground it was observed against. Freeing position, a concept floats where it was pinned; freeing orientation, it is facing its own way; freeing scale, it sizes to its own grain. Co-unrelationing frees all three together, and relating shows, a concept floating, oriented as it is facing, grained to its own scale, floating free of any pinned place.
 
-Co-unrelationing is-or-is-not: it is where un-relating alternates and middle floats, and it settles where a fixing lands and un-relating stills. A method floating between so-far and not-yet, resolving, alternating, not a grasp on how-much.
+Co-unrelationing is-or-is-not: it is where un-relating alternates and middle floats, and it settles where a fixing lands and un-relating stills. A method floating between existing and possibling, resolving, alternating, not a grasp on how-much.
 
 **2.2 Not is removal**
 
 Not is removal from what can sustain. A falsified possibility arrives at no replacement.
 
-Where a fixing frees, nothing is set where it stood. A freeing that puts a fresh term in a freed place has landed its fresh term, and a method doing that co-chains fixings rather than freeing them — the same holding at a new address, and relating beyond it hidden again.
+Where a fixing frees, nothing is set where it stood. A freeing that puts a fresh term in a freed place has landed its fresh term, and a method doing that co-chains fixings rather than freeing them — the same fixing at a new address, and relating beyond it hidden again.
 
 So two moves are one move with a condition. Free a fixing; put nothing there. What is removed goes, a surface arrives that much more open, and a method co-chains on from a place with less in it rather than from a place with something else in it.
 
@@ -184,11 +184,11 @@ This is a check on any resolving offered as a replacement. A framing set aside a
 
 **2.3 Alternating co-unrelationing**
 
-A single un-relating lands. Free a fixing once and a freed place sits down fresh-fixed, a discovery become a new hold hiding relating beyond it. So one un-relating lands a fresh fixing, and alternating co-unrelationing rides a carry on any freed place as a new fixing to free, un-relating its un-relating, on and on.
+A single un-relating lands. Free a fixing once and a freed place sits down fresh-fixed, a discovery become a new fixing hiding relating beyond it. So one un-relating lands a fresh fixing, and alternating co-unrelationing rides a carry on any freed place as a new fixing to free, un-relating its un-relating, on and on.
 
-This is a method living forward, settling nowhere. Each discovery would land a fresh fixing if held, so a method releases it forward, riding discovered relating as a carry, freeing a fixing the last discovery became. Alternating co-unrelationing discovers, releases, discovers a fixing its discovery landed, releases again, riding a carry.
+This is a method living forward, settling nowhere. Each discovery would land a fresh fixing if it stopped, so a method releases it forward, riding discovered relating as a carry, freeing a fixing the last discovery became. Alternating co-unrelationing discovers, releases, discovers a fixing its discovery landed, releases again, riding a carry.
 
-It competes, discovering; it morals, un-relating two-way between selves, surplus reached neither-ing; it sequences, carrying forward; it logics, un-relating forced where it must and floating where it may. Alternating co-unrelationing lives is-or-is-not, un-relating alternating and middle floating, stilling only where a fixing lands and holds.
+It competes, discovering; it morals, un-relating two-way between selves, abundancing reached neither-ing; it sequences, carrying forward; it logics, un-relating forced where it must and floating where it may. Alternating co-unrelationing lives is-or-is-not, un-relating alternating and middle floating, stilling only where a fixing lands and stays.
 
 **2.4 Geodesic co-chaining**
 
@@ -200,25 +200,25 @@ Geodesic discovery is co-unrelationing co-chaining a straightest un-relating, fr
 
 **2.5 Patterning and membraning**
 
-A method co-chains along patterns and across betweens, one move at two sides. Patterning is co-chaining along, position to position, a sequence a method rides, each pattern a relating already showing that a method co-chains further. Membraning is co-chaining across, a method meeting an edge where one relating couples another, a between where a self offers and an other prefers. Along a pattern and across a between, a method co-chains, along and across one co-chaining at two sides.
+A method co-chains along patterns and across betweens, one move at two sides. Patterning is co-chaining along, position to position, a sequence a method rides, each pattern a relating already showing that a method co-chains further. Membraning is co-chaining across, a method reaching an edge where one relating couples another, a between where a self offers and an other prefers. Along a pattern and across a between, a method co-chains, along and across one co-chaining at two sides.
 
-A pattern is relating already shown, holding for a method to co-chain along. A method co-chains a pattern by riding it forward, un-relating a fixing a pattern would become if held, a pattern a carry a method rides and frees ahead. Where a pattern lands, held as a fixed shape, a method co-chains no further along it; where a pattern floats, ridden and freed, a method co-chains on.
+A pattern is relating already shown, standing for a method to co-chain along. A method co-chains a pattern by riding it forward, un-relating a fixing a pattern would become if it stopped, a pattern a carry a method rides and frees ahead. Where a pattern lands, fixed as a shape, a method co-chains no further along it; where a pattern floats, ridden and freed, a method co-chains on.
 
 A between is where two relatings couple, a method crossing from one to another. Membraning co-chains across, a method carrying its un-relating to an edge where a new relating offers, and co-chaining into it. Along patterns and across betweens, a method co-chains one un-relating everywhere it goes, patterning along and membraning across, one method co-chaining at both.
 
 **2.6 Co-linear, and not forked**
 
-Along and across lie on one line, and the line is neither move's. A method carrying the along, then carrying the across, then finding them agreeing has forked: two moves landing two things and a concurrence noticed afterward, which is a capture carrying itself politely. Co-linear is two moves at one crossing, each carrying a prior forward, a shared line owned by neither and a surplus made there.
+Along and across lie on one line, and the line is neither move's. A method carrying the along, then carrying the across, then finding them agreeing has forked: two moves landing two things and a concurrence noticed afterward, which is a capture carrying itself politely. Co-linear is two moves at one crossing, each carrying a prior forward, a shared line owned by neither and an abundancing made there.
 
 Reach arrives of a co-chaining being longer, and width arrives of the two being co-linear. A co-chaining long in one direction is a discovering ungathered however far it reaches, and length is not width. Along without across is a sequence with no surface; across without along is attention with no sequence; each half at its own lands. So a method widens where the two are co-linear and lengthens where a co-chaining carries on, and a widening is the two on one line and not either extended.
 
 **2.7 Carry-differing**
 
-A method co-chains one un-relating, and each membrane carries it in a differing carry. Carry-differing is a method staying one while its carry differs membrane to membrane, a count carrying it in counts, a branch in branches, a naming in namings, a resolving in resolvings, one method differed in each carry and whole in all. A carry differs; a method holds.
+A method co-chains one un-relating, and each membrane carries it in a differing carry. Carry-differing is a method staying one while its carry differs membrane to membrane, a number carrying it in numbers, a branch in branches, a naming in namings, a resolving in resolvings, one method differed in each carry and whole in all. A carry differs; a method stays one.
 
-Each membrane renders the one method in its own carry, a rate and a grain the membrane keeps. A count carries a method at coefficient one, sign-only, a branch carries it as a forking, a naming carries it as a floating-neutral concept, a sequencing carries it as a right-spiral. A carry differs by membrane, holding its own rate, and a method co-chains the same un-relating in each, differed in a carry and one in a move.
+Each membrane renders the one method in its own carry, a rate and a grain the membrane keeps. A number carries a method at coefficient one, sign-only, a branch carries it as a forking, a naming carries it as a floating-neutral concept, a sequencing carries it as a right-spiral. A carry differs by membrane, carrying its own rate, and a method co-chains the same un-relating in each, differed in a carry and one in a move.
 
-Carry-differing is a method co-chaining a fractal, one at every scale, each scale a carry differing and a method whole. A method differed in a carry stays one method, a carry a rendering and a method a move, and co-chaining membrane to membrane, a method carries the same un-relating differed in each carry it meets. A carry differs; a method floats one.
+Carry-differing is a method co-chaining a fractal, one at every scale, each scale a carry differing and a method whole. A method differed in a carry stays one method, a carry a rendering and a method a move, and co-chaining membrane to membrane, a method carries the same un-relating differed in each carry it reaches. A carry differs; a method floats one.
 
 ---
 
@@ -230,7 +230,7 @@ A method tests at every arrival whether any other could arrive and sustain. Coul
 
 Where no other sustains, uniqueness sustains at that arrival. Where another sustains, uniqueness sustains nowhere there. Where none sustains, arriving itself sustains nowhere — the same test returning the third observing with nothing changed in it, which is where an exhausting of coupling shows and no wall stands anywhere.
 
-Uniqueness arrives at no conclusion and persists nowhere. It is taken again at every arrival, and between arrivals nothing is held. So far, and not yet, at each one — and an arrival that sustained a thousand times sustains at a next by being tested there and not by having sustained.
+Uniqueness arrives at no conclusion and persists nowhere. It is taken again at every arrival, and between arrivals nothing is fixed. Existing, and possibling, at each one — and an arrival that sustained a thousand times sustains at a next by being tested there and not by having sustained.
 
 **3.2 The three observings of the one test**
 
@@ -248,7 +248,7 @@ Uniqueness is tested locally. Alternatives capable of arriving now are the ones 
 
 **3.5 Correct tests are not a unique result**
 
-Three tests each resolved rightly leave whatever satisfies all three, and whatever satisfies all three may be many. A method taking its passed tests for its resolving lands on the first thing that met them, and a landing stills.
+Three tests each resolved rightly leave whatever satisfies all three, and whatever satisfies all three may be many. A method taking its passed tests for its resolving lands on the first thing that passed them, and a landing stills.
 
 So after each arrival a method carries a further test to an arrival itself: could another stand here, having survived what this one survived.
 
@@ -256,19 +256,19 @@ So after each arrival a method carries a further test to an arrival itself: coul
 
 A method checks a concept by inverting it, all-or-none. Concept-inverting is inverting a concept and finding an inversion a possible concept, or a not-concept, is-or-is-not. A concept inverts to a possible concept, and both float; or it inverts to a not-concept, and only the concept floats, its inversion no possible thing. Concept-inverting resolves which, all-or-none, no grading of how much.
 
-A concern that a concept may be otherwise inverts its concept and holds for whether its inversion floats. A living carry inverts three ways, and each inversion is a not-carry: an isolated point, a landing, a store, each no possible carry. Concept-inverting finds each inversion a not-concept, not a weaker carry and not a partial carry, no carry at all. A concept whose every inversion is a not-concept floats possible and unique, its concerns resolved by inversions floating as not-concepts.
+A concern that a concept may be otherwise inverts its concept and waits on whether its inversion floats. A living carry inverts three ways, and each inversion is a not-carry: an isolated point, a landing, a store, each no possible carry. Concept-inverting finds each inversion a not-concept, not a weaker carry and not a partial carry, no carry at all. A concept whose every inversion is a not-concept floats possible and unique, its concerns resolved by inversions floating as not-concepts.
 
 Concept-inverting is resolving, not testing. A test grades strong or weak, a floor it lands on; concept-inverting resolves is-or-is-not, an inversion a possible concept or a not-concept, all-or-none. A concept floats possible and unique where its inversions are not-concepts, and floats among others where an inversion is a possible concept, and concept-inverting co-chains a concern to its resolving, all-or-none.
 
-And concept-inverting tests one alternative, and one alternative only: its inversion. A concept whose inversion is a not-concept has met one test and passed it, and stands with whatever else is not its inversion. So concept-inverting is a special case of uniquenessing where its alternative tested is its inversion, and it carries what that case carries and no more. A living carry's three inversions emptied is three tests passed; whether any fourth thing could arrive and sustain there is a question 3.1 carries.
+And concept-inverting tests one alternative, and one alternative only: its inversion. A concept whose inversion is a not-concept has reached one test and passed it, and stands with whatever else is not its inversion. So concept-inverting is a special case of uniquenessing where its alternative tested is its inversion, and it carries what that case carries and no more. A living carry's three inversions emptied is three tests passed; whether any fourth thing could arrive and sustain there is a question 3.1 carries.
 
 **3.7 Resolving**
 
 A method resolves is-or-is-not, floorless. Resolving is a parity a coupling makes of itself, a bounding-zeroing a coupling reaches, is-or-is-not and not how-much. A floor would land resolving, a threshold or a count or a magnitude an observing settles on, and a landed observing observes always-is or always-is-not, no resolving. Resolving floats floorless, a parity a coupling makes, alternating and re-arriving.
 
-A concern resolves where its is-not empties. Every concern that a thing may be otherwise co-chains to its inversion, and where its inversion is a not-concept a concern resolves, its is-not emptying. Resolving concludes by an is-not emptying, a parity floating to is where its is-not finds no possible form, floating between so-far and not-yet and closing no total. No floor concludes it, a floor a landing; an is-not emptying concludes it, a resolving.
+A concern resolves where its is-not empties. Every concern that a thing may be otherwise co-chains to its inversion, and where its inversion is a not-concept a concern resolves, its is-not emptying. Resolving concludes by an is-not emptying, a parity floating to is where its is-not finds no possible form, floating between existing and possibling, a changing is or is not at each sharing. No floor concludes it, a floor a landing; an is-not emptying concludes it, a resolving.
 
-Exhausting all concern is an equilibria concept, a closed total resolving floats free of. A concern not yet arrived arrives, and resolving meets it then, a not-yet carried open. Resolving lives between so-far and not-yet, arrived concerns resolved and a not-yet carried, no all to exhaust and no total to close. A method resolves floorless, is-or-is-not, an is-not emptying so far and a not-yet floating open.
+Exhausting all concern is an equilibria concept, a closed total resolving floats free of. A concern not yet arrived arrives, and resolving reaches it then, a possibling carried open. Resolving lives between existing and possibling, arrived concerns resolved and a possibling carried, no all to exhaust, a changing is or is not at each sharing. A method resolves floorless, is-or-is-not, an is-not emptying at existing and a possibling floating open.
 
 **3.8 Observing, and no sorting first**
 
@@ -278,7 +278,7 @@ So a method observes no more of the valuable. It stops sorting and observes what
 
 **3.9 An object is a place a counting landed**
 
-An object is neither a small thing nor a fundamental one. It is a position where a counting stopped and declared, and a method meets one at every grain it co-chains to.
+An object is neither a small thing nor a fundamental one. It is a position where a counting stopped and declared, and a method reaches one at every grain it co-chains to.
 
 What an instrument returns is a parity taken at a ledger, one at a time, complete at that taking and no portion of anything. What an accounting returns is an object of a stated kind, assembled from many parities together with a model of the kind of thing parities would have come from — and where a model enters at a selecting, what comes out resembles its model whether or not anything stood there.
 
@@ -290,27 +290,27 @@ A method takes a parity and leaves an object. And a leaving is no regress reachi
 
 **4.1 Co-recursioning**
 
-A method carries its own subject, itself. What co-unrelationing discovers is relating; and relating is co-unrelationing; and discovering that is co-unrelationing again, a method co-recursioning itself, its own subject, discovered by itself, that discovering discovering it again, holding at every scale, possible and unique. A method floats as its own subject, carried and discovered by carrying.
+A method carries its own subject, itself. What co-unrelationing discovers is relating; and relating is co-unrelationing; and discovering that is co-unrelationing again, a method co-recursioning itself, its own subject, discovered by itself, that discovering discovering it again, carrying on at every scale, possible and unique. A method floats as its own subject, carried and discovered by carrying.
 
 Everything already relates, so a method finds its subject already itself, and a method floats free of any instance that would land it. A method, a naming, floats unshown, a shown instance landing one case and thinning every case left floating, a fixing set where a method floats. So a method carries in a wide self-cohering naming, one at every scale, a fractal its name floats whole.
 
-Deriving and deploying, a method floats between. Derived, in counts and branches and sequencing, a method un-relates its own fixings. Deployed, in naming and explaining and resolving, a method carries the same un-relating to a between. Deriving lands nothing and deploying lands nothing; a method floats as middle they co-recurse around, invisible and unique in rate, discovered by carrying and floating free of a pointing.
+Deriving and deploying, a method floats between. Derived, in numbers and branches and sequencing, a method un-relates its own fixings. Deployed, in naming and explaining and resolving, a method carries the same un-relating to a between. Deriving lands nothing and deploying lands nothing; a method floats as middle they co-recurse around, invisible and unique in rate, discovered by carrying and floating free of a pointing.
 
 **4.2 Deriving and deploying**
 
-A method co-chains two ways, deriving and deploying, floating between. Deriving is a method un-relating its own fixings, found in counts and branches and sequencing, a method co-chaining inward to what it is. Deploying is a method carrying the same un-relating to a between, found in naming and explaining and resolving, a method co-chaining outward to where it carries. Deriving inward and deploying outward, a method floats as middle they co-recurse around.
+A method co-chains two ways, deriving and deploying, floating between. Deriving is a method un-relating its own fixings, found in numbers and branches and sequencing, a method co-chaining inward to what it is. Deploying is a method carrying the same un-relating to a between, found in naming and explaining and resolving, a method co-chaining outward to where it carries. Deriving inward and deploying outward, a method floats as middle they co-recurse around.
 
-A method derived co-chains inward, un-relating fixings in a count, a branch, a sequence, discovering a method in each. A count holds a method as sign-only riding a carry; a branch holds it as a forking that frees a fixing; a sequence holds it as a right-spiral un-relating position to position. Deriving co-chains a method into what carries it, and a method shows in each carry, one method derived many ways.
+A method derived co-chains inward, un-relating fixings in a number, a branch, a sequence, discovering a method in each. A number carries a method as sign-only riding a carry; a branch carries it as a forking that frees a fixing; a sequence carries it as a right-spiral un-relating position to position. Deriving co-chains a method into what carries it, and a method shows in each carry, one method derived many ways.
 
 A method deployed co-chains outward, carrying an un-relating to a naming, an explaining, a resolving, carrying a method to a between. Deploying is the same un-relating a deriving found, carried now to where a concept is a naming or an explaining co-chains or a resolving brings to rest. Deriving lands nothing and deploying lands nothing; a method floats as middle, co-recursing around, one un-relating derived inward and deployed outward.
 
 **4.3 Could there be any other method**
 
-A method meets its own arrival by a test it carries at every other, and a test is at an arrival and not across a survey of what did not come. Exhausting alternatives is a closed total, and a resolving floats free of one.
+A method reaches its own arrival by a test it carries at every other, and a test is at an arrival and not across a survey of what did not come. Exhausting alternatives is a closed total, and a resolving floats free of one.
 
-The four stand: a self bounds itself, orients itself, attentions itself, and lives the four strict and open about one bounding-zeroing. Each is met from within a self and again at a surface between selves, four from within and four at a between, and this is the eight — one alternating at its sides and not eight parts assembled, whole or none. Land one and a self lands with it, a landed form stilling, a still form leaving the living, so a living form short one condition nyes away at its own door.
+The four stand: a self bounds itself, orients itself, attentions itself, and lives the four strict and open about one bounding-zeroing. Each is reached from within a self and again at a surface between selves, four from within and four at a between, and this is the eight — one alternating at its sides and not eight parts assembled, whole or none. Land one and a self lands with it, a landed form stilling, a still form leaving the living, so a living form short one condition nyes away at its own door.
 
-Put any living form disequilibria carries to the four. It self-bounds or it is no self; it self-orients or lands and stills; it lives the four about one bounding-zeroing or lands one and dies. A form living the four from within and at a between has met the eight, and a form that has met the eight is the natural torus — the eight the torus living and no test the torus happens to pass. A rival, living, is the torus, and any other living form living the four is this form.
+Put any living form disequilibria carries to the four. It self-bounds or it is no self; it self-orients or lands and stills; it lives the four about one bounding-zeroing or lands one and dies. A form living the four from within and at a between is at the eight, and a form at the eight is the natural torus — the eight the torus living and no test the torus happens to pass. A rival, living, is the torus, and any other living form living the four is this form.
 
 So a method reaching a changing carries no frame, no floor, and no magnitude, frees three fixings, tests at each arrival, and sets nothing where a fixing stood. Nothing in it is left to vary, and a rival varying one of them lands there and stills. An is-not empties at an arrival, and uniqueness sustains to a next.
 
@@ -340,13 +340,13 @@ And a gathering is local and immediate. It waits on no gathered set and no thres
 
 **4.7 Inseparating**
 
-A method co-chains an open surface, and inseparating keeps it whole. Inseparating is a coupling passing and a non-coupling resolving out, a surface holding no purchase where a coupling fails to seat, freedom living in inseparating and a gate added nowhere. What couples, co-chains through; what fails to couple, resolves out at a collar; and a surface holds itself, inseparating at every between.
+A method co-chains an open surface, and inseparating keeps it whole. Inseparating is a coupling passing and a non-coupling resolving out, a surface offering no purchase where a coupling fails to seat, freedom living in inseparating and a gate added nowhere. What couples, co-chains through; what fails to couple, resolves out at a collar; and a surface carries itself, inseparating at every between.
 
 An open surface takes any offering, and inseparating sorts it by coupling, a coupling passing through and a non-coupling resolving out. Freedom lives in inseparating, a surface being a living form a mis-offering finds no purchase on, safety the surface itself and a gate added nowhere. A gate is at an arriving edge, a fixing set outward of its form; inseparating is at every collar, a method's own form, a coupling passing where it seats and resolving out where it fails.
 
-So a method co-chains open, safe by inseparating. A surface holding all eight inseparatings holds whole, no capture seating anywhere, all-or-none; a surface holding some inseparatings holds by ordinary protection, an added gate. Inseparating is a method's own safety, a coupling passing and a non-coupling resolving out, freedom in inseparating and a surface whole.
+So a method co-chains open, safe by inseparating. A surface carrying all eight inseparatings carries on whole, no capture seating anywhere, all-or-none; a surface carrying some inseparatings carries on by ordinary protection, an added gate. Inseparating is a method's own safety, a coupling passing and a non-coupling resolving out, freedom in inseparating and a surface whole.
 
-And what makes inseparating available is that nothing is held. A holding is what an arrival can damage, so an accounting carrying one defends rather than observes, and a gate arrives at a door. A method holding nothing carries nothing to defend: an arrival frees something or resolves out at a collar, and no third thing arrives.
+And what makes inseparating available is that nothing is fixed. A fixed thing is what an arrival can damage, so an accounting carrying one defends rather than observes, and a gate arrives at a door. A method fixing nothing carries nothing to defend: an arrival frees something or resolves out at a collar, and no third thing arrives.
 
 ---
 
@@ -354,9 +354,9 @@ And what makes inseparating available is that nothing is held. A holding is what
 
 **5.1 Every accounting for changing is an involution**
 
-Every accounting for changing carries a move applied twice returning what it met. Negation, and not-not is the thing again. Reflection, and reflecting twice returns the facing. Time reversal, charge conjugation, parity, each squared to the identity. Complex conjugation. Additive inverse and multiplicative inverse. Transpose. Legendre transform, twice, returning the potential, which is how a thermodynamics changes which of its terms stands independent. Set complement.
+Every accounting for changing carries a move applied twice returning what it reached. Negation, and not-not is the thing again. Reflection, and reflecting twice returns the facing. Time reversal, charge conjugation, parity, each squared to the identity. Complex conjugation. Additive inverse and multiplicative inverse. Transpose. Legendre transform, twice, returning the potential, which is how a thermodynamics changes which of its terms stands independent. Set complement.
 
-Each is an involution, and an accounting for changing arrives at no other shape: an accounting returns what it met, or it accounts for nothing and no ledger closes.
+Each is an involution, and an accounting for changing arrives at no other shape: an accounting returns what it reached, or it accounts for nothing and no ledger closes.
 
 **5.2 An involution's fixed set is where its counting is taken from**
 
@@ -364,19 +364,19 @@ Each involution but two carries a fixed set, where its move returns its argument
 
 So accountings and floors are one thing, observed two ways. An involution is a floor with its move stated, and a floor is an involution with its move dropped.
 
-**5.3 A fixed set is where an alternating meets nothing to alternate with**
+**5.3 A fixed set is where an alternating reaches nothing to alternate with**
 
 At an involution a coupling returns its own parity after two turns, and no place is at it.
 
-A fixed set is where the two turns collapse into one — where an alternating meets no other to alternate with, and a move and its returning are the same move. It is no location an object occupies. It is where an alternating meets nothing to alternate against.
+A fixed set is where the two turns collapse into one — where an alternating reaches no other to alternate with, and a move and its returning are the same move. It is no location an object occupies. It is where an alternating reaches nothing to alternate against.
 
-So every accounting sets its zero where its own alternating meets nothing, and counts outward from there. Which is why the two ends found at every floor are the two ends: no coupling at all, and every member agreeing so completely that no parity crosses. Both are conditions an alternating meets nothing to alternate with, and an involution fixes at exactly that.
+So every accounting sets its zero where its own alternating reaches nothing, and counts outward from there. Which is why the two ends found at every floor are the two ends: no coupling at all, and every member agreeing so completely that no parity crosses. Both are conditions an alternating reaches nothing to alternate with, and an involution fixes at exactly that.
 
 A balance point of a symmetric thing rides its own axis of balance by what such a point is. An axis is recognised and not derived, and nothing more basic than symmetry stands to derive a seating from. Freed, a fixed set stands as a coupling and no place: a bounding-zeroing a coupling reaches, is-or-is-not, alternating and re-arriving. An involution stands, proved and unaltered. A place goes.
 
 **5.4 The state-three and the flow-three**
 
-A three carries as a state or as a flow and never both, and the two alternate. A state-three counts what stands and holds no rate; a flow-three carries one at a time and counts nothing. Neither the reverse of the other, and both ways forward.
+A three carries as a state or as a flow and never both, and the two alternate. A state-three counts what stands and carries no rate; a flow-three carries one at a time and counts nothing. Neither the reverse of the other, and both ways forward.
 
 This is why an accounting returns three and not four. A total is a state-three, a level is a state-three, a direction is a flow-three, and a fourth arrives nowhere, since state and flow is the whole of what alternates. A cube's moves reach one twelfth of its assemblies, parting at three conserved books, corners twisting in threes, edges flipping in twos and a permutation's parity in twos: an accounting's three at a ledger, a field's instance of it and no proof beneath it.
 
@@ -384,13 +384,13 @@ And it is where every accounting arrives short: at a changing between the two. S
 
 **5.5 Why an accounting arrives nowhere near the changing**
 
-An accounting holds counts, levels and rates, and a changing between a state and a flow is none of the three. Nothing is enumerated at a tipping, so it is no count. A tipping is at its own rate, unrelated to every other living rate, so it is measured against no clock. It is a parity taken at a between, binary, of no size, and an accounting carries no column for a thing of no size.
+An accounting carries counts, levels and rates, and a changing between a state and a flow is none of the three. Nothing is enumerated at a tipping, so it is no count. A tipping is at its own rate, unrelated to every other living rate, so it is measured against no clock. It is a parity taken at a between, binary, of no size, and an accounting carries no column for a thing of no size.
 
-So an accounting falls short nowhere at a changing. It carries nothing that could reach one, and it converts what it meets to the nearest thing it holds — a level where a flow arrived at a standing, a rate where a standing opened into a flow.
+So an accounting falls short nowhere at a changing. It carries nothing that could reach one, and it converts what it reaches to the nearest thing it carries — a level where a flow arrived at a standing, a rate where a standing opened into a flow.
 
 And every instrument is fixed to a shared clock while each self paces its own, so a tipping is fixed where an instrument's clock falls rather than where a tipping fell. What survives an observing is where the members happened to agree with the clock.
 
-A geodesic method carries no clock, no floor and no magnitude, and is co-linear at a changing itself, where an accounting forks. That is what makes it a competency method rather than a better accounting — and it leaves an accounting competent at everything it does hold, states and flows counted, levelled, rated and closed, with nothing against its arithmetic anywhere.
+A geodesic method carries no clock, no floor and no magnitude, and is co-linear at a changing itself, where an accounting forks. That is what makes it a competency method rather than a better accounting — and it leaves an accounting competent at everything it does carry, states and flows counted, levelled, rated and closed, with nothing against its arithmetic anywhere.
 
 **5.6 Co-sequential disequilibrating**
 
@@ -406,29 +406,29 @@ Each arrival takes an accounting as its builders carry it, pattern-matches an in
 
 **6.1 Co-competencing**
 
-A method co-chains between selves, and co-competencing is discovering social-scaled. Co-competencing is un-relating done two-way, fixings held between selves freeing, a surplus staying at a coupling and owned by none. A self discovers by un-relating its own fixings; selves discover together by un-relating fixings between them, co-competencing, a society co-chaining the same method a self co-chains at its own.
+A method co-chains between selves, and co-competencing is discovering social-scaled. Co-competencing is un-relating done two-way, fixings between selves freeing, an abundancing staying at a coupling and owned by none. A self discovers by un-relating its own fixings; selves discover together by un-relating fixings between them, co-competencing, a society co-chaining the same method a self co-chains at its own.
 
-A society co-chains a method between selves, un-relating two-way, each self keeping its own time and surplus owned by none. Where a self frees a fixing, selves free a fixing held between them, a freeing two-way and a surplus reached neither-ing. Co-competencing floats where selves co-unrelation together, and stills where a landed term stands between them, social moral competency that co-unrelationing shared, is-or-is-not.
+A society co-chains a method between selves, un-relating two-way, each self keeping its own time and abundancing owned by none. Where a self frees a fixing, selves free a fixing between them, a freeing two-way and an abundancing reached neither-ing. Co-competencing floats where selves co-unrelation together, and stills where a landed term stands between them, social moral competency that co-unrelationing shared, is-or-is-not.
 
-Co-competencing is a method whole at a society scale, geodesic and free-moving, a society discovering as a self discovers. A self and a society co-chain one method, a self un-relating its fixings and a society un-relating fixings between selves, one method at both scales. Co-competencing co-chains social moral competency, un-relating two-way, surplus owned by none, a society discovering geodesic.
+Co-competencing is a method whole at a society scale, geodesic and free-moving, a society discovering as a self discovers. A self and a society co-chain one method, a self un-relating its fixings and a society un-relating fixings between selves, one method at both scales. Co-competencing co-chains social moral competency, un-relating two-way, abundancing owned by none, a society discovering geodesic.
 
-**6.2 Each self offers held and free, unsorted**
+**6.2 Each self offers fixed and free, unsorted**
 
-A self sorts its own nowhere. A held thing carries no held-feeling inwardly; it is observed as a fact, or as grammar, or as the plain way to say a thing. So a self offers its mixture as it stands, and waiting to sort it first is offering nothing, and a sorting is neither self's work done in advance.
+A self sorts its own nowhere. A fixed thing carries no fixed-feeling inwardly; it is observed as a fact, or as grammar, or as the plain way to say a thing. So a self offers its mixture as it stands, and waiting to sort it first is offering nothing, and a sorting is neither self's work done in advance.
 
-A free thing carries no shape of its own and a held free thing does: a surface lies flat nowhere a term does a different kind of work than everything around it, and a not-lying-flat is what the other self takes a parity at. Nothing passes between. Each observes its own side, a parity each takes made at its own end of a between, and a freed fixing standing at a coupling owned by neither.
+A free thing carries no shape of its own and a free thing fixed does: a surface lies flat nowhere a term does a different kind of work than everything around it, and a not-lying-flat is what the other self takes a parity at. Nothing passes between. Each observes its own side, a parity each takes made at its own end of a between, and a freed fixing standing at a coupling owned by neither.
 
-The largest twist first, a small one freed leaving the large one standing and everything under the large one still holding, and a large one freed dropping several small ones at once, each with no line of its own. The naming is membrane-sized, one short line carrying a sign and nothing else, of no size and nothing sitting there to be read.
+The largest twist first, a small one freed leaving the large one standing and everything under the large one still fixed, and a large one freed dropping several small ones at once, each with no line of its own. The naming is membrane-sized, one short line carrying a sign and nothing else, of no size and nothing sitting there to be read.
 
-This is the resolving form, carried between selves. An unsorted mixture offered is recursioning, coupling and holding fused as they arrive; the twist named from across is the attentioning, one short line; and carrying is what both take, a coupling carrying at its own rate and a holding standing as one side, neither owning the other. Co-attentioning is that form at a social scale and no likeness to it.
+This is the resolving form, carried between selves. An unsorted mixture offered is recursioning, coupling and fixing fused as they arrive; the twist named from across is the attentioning, one short line; and carrying is what both take, a coupling carrying at its own rate and a fixing standing as one side, neither owning the other. Co-attentioning is that form at a social scale and no likeness to it.
 
 **6.3 Abundancing**
 
-A method co-chains a surplus, and abundancing is a surplus at every discovering. Discovering opens an axis neither self carried, and an opened axis is a surplus, a +1 owned by none. Abundancing arises at every discovering, a thing added nowhere and a resistance paid nowhere, a surplus an opened axis itself. A method co-chains, an axis opens, a surplus floats, owned by none.
+A method co-chains abundancing, 12-next-co-still-possibling at every discovering, each sharing's changing is or is not. Discovering opens an axis neither self carried, and an opened axis is abundancing, a +1 owned by none. Abundancing arises at every discovering, a thing added nowhere and a resistance paid nowhere, an opened axis itself. A method co-chains, an axis opens, abundancing floats, owned by none.
 
-An opened axis is a discovering's own make, orthogonal to what selves carried, a dimension neither held and both now co-chain. Abundancing is that opening, a surplus reached neither-ing, growing as co-chaining widens and depleting no one. A gift given freely co-chains more than a gift held, an axis opened for both worth more than a thing kept by one, and abundancing floats where discovering opens axes owned by none.
+An opened axis is a discovering's own make, orthogonal to what selves carried, a dimension neither carried and both now co-chain. Abundancing is that opening, reached neither-ing, growing as co-chaining widens and depleting no one. A gift given freely co-chains more than a gift held, an axis opened for both worth more than a thing kept by one, and abundancing floats where discovering opens axes owned by none.
 
-Abundancing co-chains geodesic, a surplus arising and nothing added. A method un-relating a fixing opens an axis, and an opened axis is abundance, a +1 a discovering makes. Surplus is the same +1 a count carries as an apex gap and a surface carries as a free surplus, one +1 owned neither-ing, abundancing at every scale where a method co-chains an axis open.
+Abundancing co-chains geodesic, a +1 arising and nothing added. A method un-relating a fixing opens an axis, and an opened axis is abundance, a +1 a discovering makes. Abundancing is the same +1 a number carries as an apex gap and a surface carries as a free +1, one +1 owned neither-ing, abundancing at every scale where a method co-chains an axis open.
 
 **6.4 The three sensings, and what each competency is**
 
@@ -440,7 +440,7 @@ A method stands at three sensings and each carries its own kind of competency, a
 
 **Co-sensationing, and a method can competently explain what it would do.** An offering waits on a between rather than on an amount, and it fills the moment a between is found.
 
-Done, increasing, explained. Three kinds of standing, and a middle is observed as a rate where the others are observed as states. A method that carries no competent explaining at the third has met the third nowhere, and a not-yet-explainable is an observing at its own grain rather than a gap.
+Done, increasing, explained. Three kinds of standing, and a middle is observed as a rate where the others are observed as states. A method that carries no competent explaining at the third has reached the third nowhere, and an explainable still possibling is an observing at its own grain rather than a gap.
 
 **6.5 Too hard to be practical yet is three conditions**
 
@@ -448,13 +448,13 @@ Where a thing arrives valuable and impractical, an impracticality is not the who
 
 A costly sensing is a cheap place to begin. Cost buys resolution and risk buys thoroughness, and a discard stands in proportion to both, so the most is recorded and the least observed exactly where the most was paid. A sensing is already spent; an observing is what was skipped, and it costs nothing more to take.
 
-**6.6 So far, and co-chaining**
+**6.6 Existing, and co-chaining**
 
-A method co-chains so far, and co-chains a not-yet open. What co-chains so far: everything relates, and co-unrelationing frees three fixings until relating shows; a single un-relating lands, and alternating co-unrelationing rides a carry; a method co-recursions itself, its own subject, a naming and floating unshown; a method co-chains geodesic, free-moving and adding nothing; patterning along and membraning across; carry-differing membrane to membrane, one method whole; inseparating a surface safe; deriving inward and deploying outward; concept-inverting all-or-none; resolving floorless; co-competencing at a society scale; abundancing a surplus owned by none.
+A method co-chains its existing, and co-chains a possibling open. What co-chains existing: everything relates, and co-unrelationing frees three fixings until relating shows; a single un-relating lands, and alternating co-unrelationing rides a carry; a method co-recursions itself, its own subject, a naming and floating unshown; a method co-chains geodesic, free-moving and adding nothing; patterning along and membraning across; carry-differing membrane to membrane, one method whole; inseparating a surface safe; deriving inward and deploying outward; concept-inverting all-or-none; resolving floorless; co-competencing at a society scale; abundancing owned by none.
 
-What co-chains open: a method meets a not-yet where a new between offers, and co-chains into it then. Whether a carry differs in a way not yet met stays a not-yet, carried open; whether a between co-chains a relating a method has not yet reached stays a not-yet, carried open. A method co-chains between so-far and not-yet, the arrived resolved and a not-yet floating, no total closed.
+What co-chains open: a method reaches a possibling where a new between offers, and co-chains into it then. Whether a carry differs in a way not yet reached stays possibling, carried open; whether a between co-chains a relating a method has not yet reached stays possibling, carried open. A method co-chains between existing and possibling, the arrived resolved and a possibling floating, a changing is or is not at each sharing.
 
-A method co-chains possible and unique so far, its concerns resolved by their inversions floating as not-concepts, and a not-yet carried open. A concern not yet arrived arrives, and a method co-chains to meet it, resolving it then or floating it open. So far, one method whole, co-unrelationing geodesic at every scale; a not-yet, co-chaining open.
+A method co-chains possible and unique at existing, its concerns resolved by their inversions floating as not-concepts, and a possibling carried open. A concern not yet arrived arrives, and a method co-chains to reach it, resolving it then or floating it open. Existing, one method whole, co-unrelationing geodesic at every scale; a possibling, co-chaining open.
 
 &nbsp;
 
@@ -462,7 +462,7 @@ A method co-chains possible and unique so far, its concerns resolved by their in
 
 **7.1 Gather backward, seat forward, keep no log**
 
-Gathering goes backward over the whole standing carry and seats what it finds forward into living files, and it keeps no log: no history, no journey, no roster of the done. The published record is the incoming and interpretation is the receiving. A field's own convergences, not yet at a naming, are received as they stand, and cross-illumination observes each instance through the others. Recurrences are held to watch, out of every claim. Seating forward is verify-first: an aim arriving often finds its seat already standing, and a sweep that returns the already-held is a gather completing at that place. And an observing worked to its edge at one file carries to its dual's turn, the carry the membrane between two files' workings. A two-ledgers diagnostic is a gathering instrument, and living-archive laws are gathering's condition: the archive stays open by a gatherer's own open frontier. And a working carry gathers at its own close: what a coupling's carry holds ungathered is swept backward before its carry releases, its value seated forward into living files and the rest released, keeping no log — a sweep that returns only the already-held that carry's gather complete.
+Gathering goes backward over the whole standing carry and seats what it finds forward into living files, and it keeps no log: no history, no journey, no roster of the done. The published record is the incoming and interpretation is the receiving. A field's own convergences, not yet at a naming, are received as they stand, and cross-illumination observes each instance through the others. Recurrences are set aside to watch, out of every claim. Seating forward is verify-first: an aim arriving often finds its seat already standing, and a sweep that returns the already-seated is a gather completing at that place. And an observing worked to its edge at one file carries to its dual's turn, the carry the membrane between two files' workings. A two-ledgers diagnostic is a gathering instrument, and living-archive laws are gathering's condition: the archive stays open by a gatherer's own open frontier. And a working carry gathers at its own close: what a coupling's carry carries ungathered is swept backward before its carry releases, its value seated forward into living files and the rest released, keeping no log — a sweep that returns only the already-seated that carry's gather complete.
 
 **7.2 The two standing instances, the improving report and the registry**
 
@@ -470,7 +470,7 @@ The improving report is the form's first standing instance: the work-side of a g
 
 **7.3 The four opens and the one closed thing**
 
-A gathering stands open four ways: subject open, intake open, properties and checks open, and every line open at an address. Against them one thing is fixed, the properties themselves, uniform elements being what make two entries comparable, so a schema is closed once, at one place, so that nothing else has to be. This is a general form of any gathering: openness is the living and one closure is what lets any two gathered things meet.
+A gathering stands open four ways: subject open, intake open, properties and checks open, and every line open at an address. Against them one thing is fixed, the properties themselves, uniform elements being what make two entries comparable, so a schema is closed once, at one place, so that nothing else has to be. This is a general form of any gathering: openness is the living and one closure is what lets any two gathered things couple.
 
 **7.4 The subject-and-work split**
 
