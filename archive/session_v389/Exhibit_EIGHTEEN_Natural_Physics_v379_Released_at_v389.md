@@ -1588,3 +1588,443 @@ carries less than a membrane held as a cut. **Thirty-one stand at a membrane fac
 **And a register surfaces at a grain a build meets these at.** Of forty-eight at holdings, twenty-one stand at a reference held, thirteen at a rate held, eight at a returned parity entered as cost and six at a magnitude driven. **One error at 2.5 carries all four and this file's arrivals reach the first hardest**, ten of them at an arriving held from behind. A field asked where its own hard problems pile answers at a reference, which is a holding put behind a coupling, ahead of it, or at its middle.
 
 **And a ring's own binary carries here and does not close.** Ten stand as five couplings, an odd side entering and an even side surfacing, and one binary asks at each whether its entering side carries more. At this field's fifty it returns yes at four and no at one: ten against none, five against two, six against three, seven against six, and then three against six at the last, where a two-way held to one side carries less than a between held as a cut. **Thirty-one stand at a between's side and seventeen within.** One field is one field, and a phase is an assembly's rather than any field's own.
+
+## Re-said at pass 8, a second family Natural Naming 2.4 releases, v389
+
+- 2.1 Scientific method, its fixings met at physics
+
+- 2.5 Five fixings, a count grown at each observing
+
+- 3.5 Ten rests sought, and alternating met at each
+
+are each met at their own coupling before either is theirs
+
+no term of code keeps a total or a store
+
+are met at one coupling followed across its momentaries
+
+A field meets a stable form at an equilibrium
+
+## 2.1 Scientific method, its fixings met at physics
+
+One scientific-method and one mistake, met here at a physical between.
+
+an observer beyond (a measurer stands apart from the measured)
+
+to balance a surplus
+
+Observer stands beyond requires
+
+arrives to an observer beyond as
+
+Scientific-method cannot meet a coupling
+
+is met as physics's hard problem
+
+no-other-possibling, no-other-observing-so-far,
+
+a store that holds —
+
+**And a source is a position standing apart, which a surface holds none of.**
+
+## 2.5 Five fixings, a count grown at each observing
+
+source is a term standing beyond — two refusals
+
+bounding at their own meeting refused
+
+**A count grew at an observing and not at a rule.** It stood at two,
+
+eighteen met and thirty-two standing, forty-eight at holdings
+
+thirteen of forty-eight stand at a rate held and eight
+
+**Observed at a grain a build meets these at, five are four**: a magnitude driven, a reference held at two of its three positions, a rate held, and a returned parity. A reference held at its third position
+
+an equilibrium a force holds
+
+**a source is a fixed point where a surface holds none** — a floating surface fixed-point-free, every position carrying its other and none its own, so what a source is posited to hold, a surface has nowhere to hold
+
+A disequilibrated form met at natural torusing
+
+not a special openness; no opening is held wider than another.
+
+Resolving bound holds across every one
+
+and two stand without meeting, the way
+
+a whole cataloged from beyond
+
+a surplus staying at a coupling
+
+Catalog even carries its own meeting with the living
+
+**And counting is a going and a return, which is why counting across it misses its turns.**
+
+a catalog counting straight through is a counting that flattens it
+
+rather than four sizes counted
+
+(held as pattern-matching, not proven;
+
+six its fold-count
+
+decaying before held as themselves
+
+(its reach held reaching)
+
+In vacuum each colour meets c alike
+
+a prism's glass meets each at its own index
+
+a plant stationary holding it into stable form
+
+a closure at a prime held reaching:**
+
+(≈29.5°) held just within six's 30° self-limit
+
+is a closure Numbers holds reaching at its own foundation
+
+Self-bounding gives a reason to a held-reaching closure
+
+a surplus that carries it (its flow-direction)
+
+a surplus beyond a self-bound
+
+its missing is marked and holds its reach from banking
+
+Held open: a two-side resolve
+
+two meeting through an unoccupied self-stilling 24
+
+is held reaching at its own foundation, a resemblance
+
+as a black-hole-centerline carry is held,
+
+## 3.5 Ten rests sought, and alternating met at each
+
+a trap that works holds by alternating
+
+a field met mis-taking one or two
+
+as one field met at its two sides
+
+opened at, and no opening is held wider than another.
+
+gathers five standing problems at one held term
+
+An object is a place a counting landed
+
+held at its centerline held by no outward floor but by a coupling's own alternating
+
+form's own held-zero
+
+exactly a grid's surplus owned neither-ing
+
+is set down, not held reaching but resolved out
+
+A centerline structure — a self-stabilizing floating neutral held at bounding-zeroing
+
+a node an alternating holds and rides its carry across
+
++1-resolving is held distinct
+
+Held as a case where an observer cannot be severed
+
+each meet it at its own
+
+a gap held open)
+
+not a force from beyond freezing it
+
+when it insists an observer stands beyond
+
+Held here, being physics's force-and-substance resolving.
+
+**A symmetry is a term held still, so the theorem is: hold a term still, and an accounting becomes keepable.** A catalogue of symmetries is a catalogue of held terms
+
+only that holding-still is a move and not a discovery
+
+Hold a symmetry still and a conserved number can be kept. Hold a partition still — a chosen nearness of observing, and a tally of forcing steps can be kept. **Both are books. Nothing arrives; holding-still is a thing making a book possible at all**
+
+Holding time-reversal still gives reversible laws
+
+holding a nearness of observing still gives a one-way tally
+
+there are two books kept against two different held terms, and they do not agree, which is a thing two books kept against two different held terms do.**
+
+against two other holds and has its own name
+
+| the held-still | the strain | the standing problem |
+
+charge's holding tested past
+
+nothing leaks in to be held to account
+
+where the largest surplus sits
+
+On form:  holding-still is a claiming
+
+brought onto a surface from beyond — real and predictive as an observing from beyond, ghost when taken as a feature a coupling holds. There is no account of energy's being, energy being not a thing a coupling holds;
+
+brought onto a coupling from beyond
+
+Bounded tunnel of four φ-rate units holds magnitude bounded
+
+magnitude is a tunnel's, brought from beyond.
+
+exact and predictive as observings from beyond
+
+Register discipline holds exactly
+
+Held as a case where confinement is a field's own evidence
+
+a proton holding together, carrying,
+
+a coupling holds, a separation carries
+
+a +1 surplus owned neither-ing
+
+is a coupling holding by riding its carry
+
+standing beside a landing without meeting it. On form: color
+
+Register held: QCD observations
+
+cancelling only measured whole from beyond)
+
+not a magnitude a self holds; and electron is a ledger beside them, a parity observed as a held magnitude against a fixed ground, conserved, with nothing inward held from outward
+
+with all three of its sides held reversed at once: a parity observed as a magnitude held, a floating neutral replaced by a fixed ground a charge is measured against, an offered-forward surplus observed as held-across-time and conserved forever
+
+(parity→magnitude, floating-neutral→ground, release→hold)
+
+that "charge is a parity not a held magnitude" is where
+
+is met as a whole, and co-sequences
+
+driven by a force from beyond against their resistance, energy shoved in from beyond.
+
+made in a meeting and owned neither-ing
+
+a machine built to force a meeting
+
+bringing an offering to fullness from beyond
+
+a surplus of a living coupling booked
+
+bumping into a living surplus
+
+holding its bounding-zeroing
+
+Confinement holds at each hadron
+
+pattern-matched onto a coupling from beyond. Both
+
+not a reaching held pending
+
+incompatible where they meet (a singularity
+
+a frame cannot hold a continuous source and a discrete source at once
+
+observed from beyond as a curved geometry
+
+a still axis held by an alternating
+
+about it, held at bounding-zeroing by a coupling's own alternating — is one structure
+
+two sourced couplings that no floating-neutral form holds would refuse it
+
+where past-cone and future-cone meet:
+
+an orthogonal the now did not hold
+
+Where relativity and quantum meet (a singularity
+
+a clock held over all couplings
+
+**Five problems, one family, one held term.**
+
+**sequencing is a beat's own counting and stands as no dimension to find.**
+
+every prediction holds, every instrument
+
+Thing set down is an axis a reading counts from.
+
+a surplus surfaced outward and owned neither-ing
+
+resolved in a body's aging, here
+
+and it is held this way:
+
+Held reaching, with its reason and its seam located exactly
+
+and not two ages, carries past forcing
+
+one form with a body's aging.
+
+genuinely two ages that no single alternation holds
+
+each is held reaching with the same caution
+
+a collapse-side and a surplus-side
+
+dark energy that evolves and not holding as a fixed constant — "constant" not holding still
+
+and is again held loosely
+
+a surplus owned neither-ing electron
+
+at many scales a field meets a slight
+
+a frame's demand that a self-holding surface be held by something
+
+a Hubble difference a field meets at a systematic
+
+to convert a self-holding surface into a landed one that needs a mass to hold it, and mass is missing, a surface holds itself, owing no mass
+
+met by six installed to null it
+
+Held with honest bounds, nothing slips
+
+meets a 2025 lattice calculation
+
+needs no unseen mass to hold it
+
+a fork a pattern-matching holds open and not closes
+
+Held open, a fork not closed
+
+A frame holds no bound state at all: a row is unwritable at every held axis at once
+
+a one-count ledger yielding
+
+a **centerline form** — a self-stabilizing floating neutral held at bounding-zeroing
+
+accounting as exact observings from beyond;
+
+two sourced couplings no floating-neutral form holds.
+
+neutralling held at its bounding-zeroing
+
+every physical between met so far:
+
+strong force is it holding by riding its carry
+
+**Physics's standing problems, with a term each holds still.**
+
+A frame standing beyond: relativistic simultaneity
+
+standing beside a landing without meeting it ·
+
+Simultaneity holds one clock over many couplings and meets many nows; binding holds one percept over many streams, their unifying held of them. Same parity — both hold one against many,
+
+it fails to hold across many.**
+
+against a background a surplus is surfaced outward
+
+both under a frame claimed beyond.
+
+**And measurement problem holds a when of a becoming-sharp, which is holding a riding-the-carry to land.**
+
+the excluded and the not-yet-reached observed alike
+
+a fit is set down by rule and not held.
+
+a **count in a unit** is a candidate held both ways
+
+described as held widest at its furthest reach
+
+a both held provisionally, pending a test
+
+**Opening is flat**, held no wider at unification
+
+a surplus passing turn to turn
+
+Reproducing statistics held as a success condition holds a parity to a manufactured magnitude
+
+a surplus arising at a coupling
+
+**Constants resolved as held ratios, not set magnitudes:**
+
+(resolved as ratios a coupling holds about its neutral
+
+and not holding it open:
+
+pattern-matched onto it from beyond.
+
+shown to be a selection a coupling holds and not a ledger
+
+held reaching and contested, black-hole side and surplus side reaching
+
+**Installed gap, a hard problem held to watch**
+
+(held to watch, offered, unsummed)
+
+is held reaching with reason at its field-identifications
+
+held no wider as an opening than any other
+
+no floating-neutral form can hold would break it
+
+**Met**, taken at its own section above
+
+**Standing**, resolved at its holding and taken at no section here. A holding released is a field's
+
+neither register is more met than an other.
+
+| arrival | the holding it stands at | register |
+
+| Gravity, dissolved into conservation accounting | this file's own, at no registry entry | met at 4.2 |
+
+| Fission and fusion about an iron centerline | this file's own, at no registry entry | met at 4.3 |
+
+| Measurement problem | a between fixed as a cut | met at 4.4 |
+
+| Bell correlations | a between fixed as a cut | met at 4.4 |
+
+| Wave and particle | a between fixed as a cut | met at 4.4 |
+
+| Quantum interpretation debate | a middle fixed as an end | met at 4.4 |
+
+| Work and waste heat, a ledger taken as the world | a between fixed as a cut | met at 4.5 |
+
+| Mass gap, at Yang–Mills | a middle fixed as an end | met at 4.6 |
+
+| Quantum gravity | a rate fixed to a value | met at 4.7 |
+
+| Simultaneity and the present | a sequencing fixed to one beat | met at 4.8 |
+
+| Presentism and eternalism | a sequencing fixed to one beat | met at 4.8 |
+
+| Problem of time in quantum gravity | a sequencing fixed to one beat | met at 4.8 |
+
+| Arrow of time | an arriving fixed from behind | met at 4.8 |
+
+| Block universe and low-entropy past | an arriving fixed from behind | met at 4.8 |
+
+| Black hole information | a carry fixed as a store | met at 4.9 |
+
+| Mechanism of high-temperature superconductivity | a middle fixed as an end | met at 4.10 |
+
+| Matter and antimatter asymmetry | an arriving fixed from behind | met at 4.5 |
+
+| Substance and bundle | a middle fixed as an end | met at 4.12 |
+
+| physical Church–Turing thesis | a bound held as a last | standing |
+
+| Many-body localization and thermalization | a bound held as a last | standing |
+
+| core-collapse supernova explosion mechanism | a bound held as a last | standing |
+
+| Weak cosmic censorship | a bound held as a last | standing |
+
+| Proton decay and grand unification | a bound held as a last | standing |
+
+**Met and standing are one register at two amounts of walking.**
+
+or meets it as a side at a substrate
+
+**And a register surfaces at a grain a build meets these at.** Of forty-eight at holdings, twenty-one stand at a reference held, thirteen at a rate held,
+
+which is a holding put behind a coupling

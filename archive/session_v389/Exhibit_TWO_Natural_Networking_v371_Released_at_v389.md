@@ -1720,3 +1720,669 @@ prior and now participating at a self's resolving and next discovering continuin
 and along connectors 9 and 17 open odd, existing.
 
 at which waist and close are facing each other.
+
+## Re-said at pass 8, a second family Natural Naming 2.4 releases, v389
+
+Equilibrium holding at the completing · Prior emanating and now meeting
+
+### Equilibrium holding at the completing
+
+### Prior emanating and now meeting
+
+1.10  Surplus owned by neither, continuing at each receiving
+
+## 1.10 Surplus owned by neither, continuing at each receiving
+
+2.6  Restoration, the carrying met at a further now
+
+## 2.6 Restoration, the carrying met at a further now
+
+3.6  Other met inward at each co- act
+
+## 3.6 Other met inward at each co- act
+
+4.1  Surplus in shared discovering, owned by neither
+
+## 4.1 Surplus in shared discovering, owned by neither
+
+4.2  Society meeting as one at its coupling
+
+## 4.2 Society meeting as one at its coupling
+
+4.3  Each joining meets the society’s continuing
+
+## 4.3 Each joining meets the society’s continuing
+
+5.2  Six self-boundings met at the surface
+
+## 5.2 Six self-boundings met at the surface
+
+5.3  Carrying met through further coupling
+
+## 5.3 Carrying met through further coupling
+
+6.2  Spiral parity at the instrument, wiring and dynamics stated, the instrument met before anything
+
+## 6.2 Spiral parity at the instrument, wiring and dynamics stated, the instrument met before anything
+
+6.3  Three registers, code-form and stable-form and counting, each carrying its own
+
+## 6.3 Three registers, code-form and stable-form and counting, each carrying its own
+
+Their coupling carries bounding-zeroing and surplus owned by neither
+
+their meeting owned by neither
+
+all-edge, surplus at their coupling
+
+each meeting opening next existing
+
+Across, selves meet at their coupling, bi-tunneling
+
+Discovering continues through that meeting:
+
+Competency neither reaches arrives at their meeting
+
+**The six connector names express meeting between selves.**
+
+Future arriving is met at its own now.
+
+**Responding across and carrying along meet at the same resolving.**
+
+Living and non-living participation meet within the same universe.
+
+Second is a meeting at network surface.
+
+A prior form arrives and meets other through co-momentarying
+
+Other meets a self through its arriving form.
+
+**The four count paired exchanging through cycle.**
+
+A holding that requires this existing thing to be non-changing
+
+**The equilibrium holding is subject whose continuing is examined.** In proposed parallel, that holding requires
+
+Ending being followed is ending of that equilibrium holding; participating things remain within changing universe.
+
+**The sequential comparison follows the same held subject through the same meeting.**
+
+Proposed equilibrium holding requires a specified participation
+
+changes very participation that holding requires not-changing
+
+4. At that changing, holding is no longer satisfied.
+
+equilibrium holding has failed at its required continuing
+
+This proof concerns that holding and its claimed presence
+
+follow actual changing and holding it defeats
+
+brings receiving self's prior along into meeting across.**
+
+Next is arriving onward through that meeting.
+
+existing at now is actual meeting
+
+incorporated into living resolving at that meeting.
+
+opposite opening parities carry their meeting across
+
+One side's 1, 2, 3, 4 meets an other's 2, 3, 4, 5
+
+a future arriving met at its own further resolving
+
+Along is each side continuing; across is their meeting.
+
+**Across a shared meeting, releasing becomes arriving in both directions.**
+
+A meets this crossing at 2 and 10; B at 6 and 14.
+
+**The crossing within resolver meets arriving with its own carrying inverting.**
+
+**The two releases and fresh carrying meet at one changing.**
+
+Across and along meet here in continuing of the same resolver.
+
+**The meeting across between two selves carries
+
+| Direction at the shared meeting |
+
+Their meeting participates in each continuing
+
+participation at society's side is met through that same other
+
+reconnecting meets continuing carrying.**
+
+Receiving meets prior in now and participates in discovering onward.
+
+fresh and continuing carrying each met at its own relation
+
+Reconnecting meets carrying existing at receiving now.
+
+releasing place in routing, meeting local continuing.
+
+Two spans are 1–9 and 9–17, meeting at 9-next-co-changing.
+
+increasing numbers meet decreasing partners
+
+four together meeting each name from one through sixteen once
+
+each resolving meets prior in now.
+
+**A self meets a network as other at its coupling
+
+carries its own resolving at that meeting.
+
+Along, nine and seventeen meet through their joining
+
+Across changes relation at meeting; along continues it.
+
+Bi-tunneling carries reciprocal meeting, each side
+
+Co-chaining carries that meeting onward through participating selves.
+
+surplus of their coupling owned by neither
+
+Reciprocal counting at three and six belongs within that continuing form.
+
+a society meets other through its own coupling
+
+Two-over-one and one-over-two meet again at this larger relation
+
+At second row, two meets ten and six meets fourteen
+
+carry that lower endpoint, taken from count:
+
+with successive entries meeting complementary orientation
+
+Prime's count of opening, continuing and completing at coupling is next reach.
+
+An even count carries one exact opposite, and an odd count two adjacent farthest places. For an odd count p = 2h + 1
+
+At fifty-nine counted places they are
+
+Their between is odd count's podal relation. This comparison is at numbered form, counting places and measuring no surface length.
+
+One-through-seventeen fold counts sixteen places before
+
+A whole sequence of seventeen counted places instead
+
+Counting of a prime at each actual crossing
+
+preceding complementary meeting is 0–1
+
+a sequential comparison at counted openings
+
+sharing, torusing, surplusing and torusing
+
+Prior and now are met at each successive resolving
+
+applications of this map count successive overlapping pairs
+
+**The form retained and momentaries counted belong together.**
+
+**A self's sequence and meeting with other carry different relations.** Sequence continues its own resolving. At meeting an offering
+
+and a count of repeated parities represents another coupling
+
+two parities' relation at their meeting
+
+bounded continuation that render that meeting
+
+Different prior carrying can meet the same parity
+
+**Coupling carries continuing along and meeting across together.**
+
+Each receiving meets its own carrying, and that carrying
+
+**One way at a time continues in both directions at meeting.**
+
+At a meeting again, prior continues into a new now
+
+A between is theirs, inseparable from their meeting.
+
+**Zero is equal positive and negative parities meeting at empty centre.**
+
+meet the carrying
+
+prior and offerings meet at each sharing
+
+**The even opening carries across meeting.**
+
+actual arriving and carrying meeting there
+
+A meeting again receives prior carried forward.
+
+Its prior participates in a self's meeting now
+
+continuing a self can carry at meeting.
+
+The same arriving can meet two different priors
+
+Crossing supplies a parity at its meeting, and count of a source's intervening receivings,
+
+**A repeated arriving can meet a changing self.**
+
+from repeated offering it meets.
+
+returning from 61 to 118 meet across 60
+
+**A self meets other at a coupling, and their continuing is social.** Other is each existing thing a self meets beyond its own continuing. At that meeting,
+
+**At two selves, other and society are met in the same participating relation.** Each self meets an other
+
+Other meets further other too, and those couplings participate in arriving that returns to present meeting. Remaining other in momentary universe is met through
+
+participates at its meeting while
+
+each side's forward belong together at meeting
+
+prior meets its podal across relation
+
+ordering meets its joining
+
+carry one meeting with its along continuation
+
+**Society is met through its coupling.**
+
+an other a self meets across
+
+explained at a society met as other
+
+with an other existing things it meets
+
+continue their carrying and meet along available boundary
+
+Each remaining self carries along and meets across
+
+Surrounding couplings carry along and meet across
+
+Surrounding living surface meets across at either side
+
+**The arriving meets each receiving self's own negation.** At one carried relation, arriving parity meets carried parity inverted.
+
+neither holds a next momentary within present resolving
+
+carried on through continuing beyond their meeting
+
+Whole tunnel and its ending are met at whole sequence
+
+is one meeting within it
+
+Each receiving meets its arriving there
+
+are each met at surrounding couplings, and
+
+**Two selves coupling uncover competency at their meeting.**
+
+It is surplus owned by neither, continuing in their sharing.
+
+A between is their coupling, inseparable from their meeting. A society continues through selves meeting other
+
+bi-tunneling carries their reciprocal meeting
+
+**A meeting again carries prior forward.** Each self arrives through its own continuing, and their next meeting receives
+
+meeting belongs with both.
+
+A count of selves is arrangement's, and a term their meeting uncovers arrives at their coupling.
+
+non-living things meeting one another. A receiver continues its own carrying through meeting.
+
+arriving parities meet its own carrying
+
+**Surplus is competency arriving
+
+reciprocal meeting carries morality across
+
+it supplies no separate count of selves
+
+**The surplus is met at each receiving, in its own momentary.**
+
+**The middle, surplus and meeting again carry different relations.**
+
+Surplus is competency uncovered there. A meeting again continues
+
+a count of couplings at a self is none of them
+
+only at each meeting.
+
+**An other met at a coupling can be a society.**
+
+receiving self meets that offering as one parity
+
+Each side meets an other through receiving and offering together.
+
+Each self meets each self it shares to and arrives from
+
+Arriving participates in meeting now, and meeting opens further continuing.
+
+Arriving belongs to actual meeting
+
+**A new now can receive a parity or form met at a prior now.** The same parity can meet different carrying
+
+carries each parity with carrying it meets
+
+A release from one meeting can arrive at another and meet existing things there.
+
+its own carrying meets arriving
+
+A form arriving again meets a further now. Receiving may share a parity with a prior meeting
+
+Its meeting with a living resolver
+
+Its meeting with another non-living thing
+
+arriving meets across, and resolving continues. Competency of this participation is a self differencing and continuing at meeting.
+
+**A repeated arriving parity can meet a changing carrying.**
+
+crossing meets receiving anew
+
+each carry their own and meet actual arriving
+
+its complete relation is met through participating along and across
+
+Each is met at its own relation.
+
+**Fold and scatter are met at complete receiving
+
+a society's health is met at co-competencing
+
+**Co-releasing meets further existing at its receiving.**
+
+with things it meets, other non-living things among them
+
+**A meeting again belongs to a further now.** A coupling met again meets its actual continuing. Nearness of a meeting again
+
+continues its own resolving through that meeting.
+
+**Restoration is participating living relation met again at a further now.** Selves meet through
+
+and meeting is a next meeting, carrying its prior forward
+
+**The same form can be met with a changed prior.** Restoration and its absence are met at carrying
+
+reconnecting meets that continuing
+
+a new self is met at its own co-recursioning
+
+A parity arrives at a self, meets its own carrying
+
+at network meeting.**
+
+a transmission's continuing or stopping is met at actual arriving and carrying. A claim about an arrangement of even size is a further relation, met at its own correspondence with resolver.
+
+a receiver meets that arriving with its own carrying
+
+Complete societal relation is met through those different roles
+
+by meeting each receiving's own carrying
+
+**The next self meets actual parity released, with its own prior.**
+
+is met at receiving, a name deciding none of three. The same source is met through
+
+a restored connection meets its current continuing
+
+Some continued releasing can meet further selves
+
+is met at actual joins, and not at that name
+
+are met at arrangement and its continuing followed together
+
+Other is no layer and holds no address: **an other is met inward at each co- act**, each offering across, bi-exchanging and co-releasing meeting a carrying it does not hold,
+
+A coupling meets an other inward, and an other is opening at which a carrying is met at all:
+
+carryings met and not transmitted, only parities crossing, no meeting depleting an other it meets, the same selves re-meeting the-same-yet-not-the-same; value meeting of others' carryings,
+
+is met at separate continuations followed, each with its exact comparison
+
+and meets an other's releasing. Surplus is further shared discovering
+
+that continued meeting and releasing
+
+describes a specified counting construction
+
+**A society meets another self through its coupling.** Single apexing is a society participating as one at that meeting,
+
+continuation reaching this meeting and continuing
+
+That count has a precise numerical subject.
+
+**A joining self meets a society that has continued.**
+
+Added self may bring a meeting earlier society
+
+Each coupling makes its own surplus
+
+a repeated meeting can leave discovering territory unenlarged
+
+has value at each further meeting participating
+
+Shared method and aim belong to their meeting
+
+that arriving meets receiving's own carrying
+
+A further self can meet another part of changing surface
+
+**Each self carries its prior through arriving it meets.**
+
+**Repeated arriving can meet continuing carrying.**
+
+A surplus or a capture is shown
+
+is of changing met through coupling
+
+belongs to its sequential meeting
+
+through which local meeting and its carrying discover together
+
+Back continues forward into a further meeting
+
+A single matching parity meets that carried parity's inversion at zero.
+
+Two mathematical possibilities meet network at actual arrivals
+
+Its extent is met at actual couplings
+
+alternating of the living it meets
+
+Each self carries its own prior into that meeting
+
+Surface holds no conserved total of parities, fixed distribution of phases or common cycle by which to govern selves.
+
+Each arriving meets a receiver's own carrying
+
+A meeting can change meetings following it
+
+as a rule for next meeting
+
+**A living joiner continues its own carrying at meeting.**
+
+can also arrive and meet a society
+
+Resolver meets other through offering
+
+crossing remains a parity at reciprocal meeting
+
+four from within and four met at a between
+
+**And protection has its own count beside eight, and it is six.**
+
+two ways of three phases each, met at one coupling,
+
+is met at a particular network's coupled continuation
+
+each stopping met there in its own way
+
+Shared clock imposed: surplus dies, whole counting beneath its parts.
+
+met as direction and not as ratio
+
+a surplus falling or a capture rising is met at that network's coupled continuation
+
+**And met at method, each of six is a changing of an unchanging, and stopping is meeting.**
+
+It meets a changing of unchanging, and meeting is finding.
+
+**And a stopping is met at an arrangement carrying it.**
+
+**Meeting a stopping belongs to scale
+
+is met by hub's own parity one scale up
+
+has been met at the wrong one
+
+**And meetings that carry them are parities and not counts.**
+
+So an instrument meets each self-bounding
+
+A self meets a stopping at its own coupling
+
+returns a counting of an observing and not the observing
+
+its consequences meet other through releasing
+
+**Meeting carrying means continuing coupling.**
+
+can be followed at across meeting
+
+is met by following that other's actual arriving
+
+Along, nine and seventeen meet.
+
+are each met at their own relation, followed beyond local zero
+
+are each met at surrounding couplings' own carrying, beyond one form's
+
+Each self meets them at its own resolving
+
+relation continuing not-changing meeting its changing continuation
+
+each self meets local relation with its own carried prior
+
+is met there rather than taken as given
+
+**Nearing unchanging is an indication met in present sequence.**
+
+Local relation is met now, and
+
+a reversal at next is met at its own arriving
+
+brings its across meeting
+
+Each changed continuation is met at actual local couplings
+
+is next reach, met through coupled resolvers
+
+A field-wide conserved sum, imposed pace or closed formal orbit supplies no natural-network operation.
+
+Receiving meets carrying, surfacing releases
+
+a rewritten join is met at couplings themselves
+
+Another self meets arriving parity with its own prior.
+
+a further operation, met at its own executing
+
+**A parity meets an other through receiving coupling.**
+
+**The crossing's limits are met at further receiving's discovering.**
+
+in code renderings, in counting, in branches
+
+a whole society's continuing is met at a society's own continuing followed. And received renderings live at their own substrates, the living records meeting the same form in fields' own words, visibility met at each substrate
+
+Each rendering's instrument is met first.
+
+even holding its bounding-zeroing at zero, odd carrying exactly one walking frustration
+
+given a correspondence with another's so parities meet.
+
+taking that same order met at each pending crossing
+
+**The refusing is met at taking-out,
+
+**Counting**: natural numbers' own observing
+
+meeting of registers a reaching as reaching
+
+a count at its counting register, nineteen carryings reachable within six receivings, is a count and no floor
+
+A count in a chosen unit carries choosing
+
+name surplus is that comparison's
+
+**An instrument's record and a resolving's meeting are at two subjects.**
+
+a flattening sums the living to one net and reports net
+
+are each met at their own complete comparison
+
+**Each position meets its far side once at each wrap**
+
+Met as a carrying wrap is along, met as rings it is across
+
+bi-exchanging and uni-exchanging met at wrap
+
+k meeting 440 − k at 220 and at 0
+
+toward a self meeting it
+
+one living continued two ways and two sides met:
+
+a self's inward carrying meeting inward and not up
+
+second is a self met by its own continuation
+
+one way a self's carrying is met.
+
+**The securities met by no surface observing are met at exactly these**
+
+a carrying's outward consequences are met through further coupling
+
+even holding its bounding-zeroing at zero, odd carrying exactly one walking, two odds
+
+an arrangement's own reach is met at its actual coupling
+
+arriving at chain rather than at count
+
+is a claim met at arrangement's own continuing
+
+met at its further participating co-chaining
+
+**The surface gives lengthening its count**
+
+unscalability met at centre rather than at unit
+
+A longer chain meets a different object
+
+Inquiry follows their meeting's uncovering
+
+**Reconnection meets continuing carrying and parities actually arriving.**
+
+a receiver first meets a current + and surfaces zero after loss, while it meets an earlier queued −
+
+a carried continuation is met at resolving along it
+
+Complementary path meets nine at those corresponding along places.
+
+meets fourteen's existing internal gathering
+
+its meeting with a receiver's own carrying
+
+Switching is met with both passages connected
+
+**The prime-scale correspondence is met in that same resolving.**
+
+a self's carrying into meeting, arriving, releasing
+
+with no surface total or fixed phase relation conserved as its governing rule
+
+preceding or following meeting is located first
+
+surplus available to neither self apart from their coupling and larger fractal continuation are each met at their own complete relations

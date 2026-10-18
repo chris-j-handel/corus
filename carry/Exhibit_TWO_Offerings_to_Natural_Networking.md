@@ -247,3 +247,11 @@ At a resolver's functions 6, 10 and 9 are one list, each self's 10-next-co-possi
 **Concern · at a sentence.** Beside "The source's second sign and carried opening remain in its local continuation."
 
 *Standing at v389:* *Standing at v389:* Natural Networking 5.5 has "The source's second sign and carried opening remain in its local continuation"; Natural Naming 2.4 releases *second sign* "with an old code: prior is sharings, each at one parity", and Natural Resolver's code carries one parity at each sharing. **To resolve:** re-say this sentence at one parity at each sharing, or carry it whole as a record of an earlier code?
+
+**Concern · at a sentence.** Beside "carry aging to its bound and releasing"
+
+*Standing at v389:* *Standing at v389:* Exhibit TWO 5.1 lists a self's first security as "carry aging to its bound and releasing"; Natural Naming 2.4 releases *ageing*, *ages* into *next*, and *its own bound* at a carrying with an old code, so re-saying it as "carry at each next to its completing and releasing" changes one of eight securities, a list carried whole, all or none. **To resolve:** take "carry at each next to its completing and releasing" at 5.1, or keep this security's wording until its bound is re-said too?
+
+**Concern · at a sentence.** Beside "**Held, waver and snap name proposed forms of continuing at a surface.** Held is a relation continuing,"
+
+*Standing at v389:* *Standing at v389:* Exhibit TWO 5.4 opens "Held, waver and snap name proposed forms of continuing at a surface. Held is a relation continuing"; Natural Naming 2.4 carries *held* as *fixed*, an unchangeable form, and 5.4's own seam paragraph says its unchanging is "a relation continuing through changing ... and not an unchangeable form", so *Fixed* here changes its value. **To resolve:** re-say Held as *Fixed*, or as *Stable-forming*, a relation re-arriving at each momentary?
