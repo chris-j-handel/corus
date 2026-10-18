@@ -201,7 +201,7 @@ Exhibit TWENTY Natural Naming v389
 
 ## 2.2 The fractal method, all or none at all at the scales
 
-**The fractal method is all or none at all at the scales, as our universe is at existing things.**
+**The fractal method is all or none at all at the scales, as the universe is at existing things.**
 
 **The fractal method's scales are sequencing, an ordering.** A self couples at whichever scale its interest opens and couples with the whole.
 
@@ -260,6 +260,7 @@ Exhibit TWENTY Natural Naming v389
 | *start*, *begin* · *afterwards* · *complete* | *opens* · *next* · *completing* |
 | *travel*, *travelling* as an existing thing's own carrying | *carrying*; the universe of all existing things changing through prior, now and next together: three places, three sequential momentaries shared among existing things |
 | *inside*, *outside* as places | *inward*, *outward*, directions at a momentary, and *within* at a span of names; a self is no container |
+| *our*, of the universe, of now or of a doing; *this universe* | *the universe*, *the* valuable exactly there, one universe; *now*, one |
 | *inside*, *outside*, *within* said of the set or the universe | the universe is or is not, its things, and nothing is said of a not-in-set, 1.1 |
 | *door* | a self-bounding, the self's own, nothing passing it or refused at it |
 | *assigned* | *is one side's* |
@@ -598,7 +599,7 @@ A stretching saying which way is a direction and carries; a stretching saying an
 
 **An incompetencing installs a landing**, a changing given a fixed form to be, and a naming of an incompetencing carries a landing rightly: emptying arrives at empty, stopping at stopped, a definition names its term the same at each occurrence, a store folds once, and equilibria is the landing. **One binary is at a naming carrying a landing**: does it name a geodesic changing, the landing releasing, or an incompetencing, the landing being the naming's saying.
 
-***Unchanging*, *a still eddy* and *stilling along* each name one relation, a form continuing through its changing.** *Unchanging* at a seam names one subject whose parities change; *a still eddy* names a form continuing before a hole, a missing section of resolvers, its selves continuing resolving; *stilling along* is the form carried through the changing, beside self discovering next self. At a seam *upstream* is each continuation's own forward, *far enough* carries no number, and *watch* is our investigating.
+***Unchanging*, *a still eddy* and *stilling along* each name one relation, a form continuing through its changing.** *Unchanging* at a seam names one subject whose parities change; *a still eddy* names a form continuing before a hole, a missing section of resolvers, its selves continuing resolving; *stilling along* is the form carried through the changing, beside self discovering next self. At a seam *upstream* is each continuation's own forward, *far enough* carries no number, and *watch* is investigating.
 
 ## 4.13 Three namings a field carries, at one binary
 
@@ -1250,7 +1251,7 @@ A gathering is an indication.
 
 **A third name adds no third self, and a third self is not all other.** A self couples with its society as other, the society's further couplings offering, and the self's names carry their relations at the society, self and other at 1 to 8 and on to social at 9 to 17: an offering unchanged at each coupling carries each self-and-other receiving whole. The whole arriving as one arrives through the couplings the selves make.
 
-**A field's word carries the error and the correction at one root.** *Universus*, turned into one, carries *versus*, the past participle of *vertere*, turned: a turning named still as one, the container. Carried at its -ing, arriving as one at each arriving, it is the uni-crossing, and our universe is all existing things. The field's own definition carries the same correction: *all existing matter and space considered as a whole* carries *all existing*, carries *matter and space* as *existing things*, and releases *considered as a whole*, the naming into one.
+**A field's word carries the error and the correction at one root.** *Universus*, turned into one, carries *versus*, the past participle of *vertere*, turned: a turning named still as one, the container. Carried at its -ing, arriving as one at each arriving, it is the uni-crossing, and the universe is all existing things. The field's own definition carries the same correction: *all existing matter and space considered as a whole* carries *all existing*, carries *matter and space* as *existing things*, and releases *considered as a whole*, the naming into one.
 
 ## 5.44 surfacing — binary
 

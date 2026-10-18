@@ -11,3 +11,7 @@ The six connectors are four across, 2-bi-co-bi-offering, 6-bi-co-bi-moralizing, 
 ## Re-said at living, stable-forming a self, v389
 
 light a living society of selves phase-relating
+
+## Re-said at our dissolved, the universe where the is valuable, v389
+
+Both hands are this universe's one binary

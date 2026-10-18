@@ -487,3 +487,13 @@ Read as carrying across momentaries, it accounts
 no other or not-natural method of now-existing is in the universe.
 
 | *inside*, *outside* as places | *inward*, *outward*, directions at a momentary, and *within* at a span of names; a self is no container |
+
+## Re-said at our dissolved, the universe where the is valuable, v389
+
+as our universe is at existing things.**
+
+and *watch* is our investigating.
+
+and our universe is all existing things.
+
+| *inside*, *outside*, *within* said of the set or the universe |

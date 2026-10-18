@@ -2428,3 +2428,11 @@ Each is one droplet, in its own words, tagged v387, aimed at this file for the r
 *Standing at v389:* 5.4 still titles 'Two methods parting at the now' and says 'the two methods', saying the senses apart, while 1.5 says 'A second method is a not possible method', and one name at one concept, re-titling or the scientific accounting, is undecided.
 
 *Resolved at v389:* Geodesic parity co-changing is a possibling and discovering method; scientific-explaining-method is incompetent for discovering, true or false, no other possible, given to it; a second possibling and discovering method is a not possible method. Entered at Natural Intelligence 1.5 and 5.4, Natural Naming 4.8 and THIRTY step 312.
+
+**Concern · All, together or each.** *All* is said of all together as one, or of each one: *each* carries the second. This file's 1.1 has each existing thing in the set: *is* carries the origin, and *in*, *within* and *includes* are a container's words at it. *Our* universe is of belonging, and no having; *this* universe names one among possibles, beside Natural Physics' "Both hands are this universe's one binary". *On its own*, of each thing existing, is heard as alone, the form of the hard problems.
+
+*Standing at v389:* 1.2 and 1.4 still say 'inside the set' and 2.4 and 6.3 'our universe', the container and belonging words the concern names, beside 1.1's 'It is its things, no container added to them'.
+
+*Partly resolved at v389:* there is no inside the universe, as there is no outside: the universe is or is not, and no living and no existing is where it is not; *inside the set* is released at Natural Intelligence 1.2 and 1.4 and Exhibit THIRTY steps 1 and 2 and its group 6, and the sentence entered at Natural Intelligence 1.1, Natural Naming 1.1 and 2.4 and Exhibit THIRTY step 2. *Our universe* at 1.6 and 5.x, *this universe* at Natural Physics and *on its own* stand.
+
+*Resolved at v389:* there is no inside the universe, as there is no outside; the universe is or is not. *Our* dissolves from natural naming, and *the universe* is where *the* is valuable: *our universe* and *this universe* re-said *the universe*, and *our now* re-said *now*, at Natural Intelligence 1.6, 5.x and 6.6, Exhibit THIRTY group 30 and step 503, Natural Naming 1.4, 4.x and 5.x and Natural Physics, with a row at Natural Naming 2.4.

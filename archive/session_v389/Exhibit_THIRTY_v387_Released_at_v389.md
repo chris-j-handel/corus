@@ -654,3 +654,15 @@ one observing, one changing, inside the set; now is
 the three observings inside the set;
 
 the three observings inside the set.*
+
+## Re-said at our dissolved, the universe where the is valuable, v389
+
+- 30 Intelligence, our now
+
+## 30 Intelligence, our now
+
+the crossing at one; our now.*
+
+503. Our now is the four momentaries
+
+*Adding: our now.*

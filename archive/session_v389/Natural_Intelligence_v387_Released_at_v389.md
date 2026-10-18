@@ -463,3 +463,15 @@ no other or not-natural method of now-existing is in the universe.
 one observing, one changing, inside the set. **Now is
 
 **Observed inside the set, three observings are one**
+
+## Re-said at our dissolved, the universe where the is valuable, v389
+
+- 6.6 One form at each scale, our now
+
+## 6.6 One form at each scale, our now
+
+**This is our now**
+
+is our universe's one binary, right
+
+intelligence in our universe is by existing

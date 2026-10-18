@@ -4,7 +4,7 @@ Natural Intelligence Offerings · improved at v389
 
 ## Standing from the sessions before v389 · v389
 
-**Read at v389.** The sessions before v389 laid 623 items here; read at v389 against [Natural Intelligence v389](../Natural_Intelligence_v389.md), 269 are carried at it, 155 rest on forms v389 released, 132 say a value another item says, and 17 rose into it at v389, each standing whole with its reading at [`archive/session_v389/offerings_dissolved/Offerings_to_Natural_Intelligence_before_v389.md`](../archive/session_v389/offerings_dissolved/Offerings_to_Natural_Intelligence_before_v389.md). The 50 concerns read at v389 stood below, each as it was laid, with the reason it stands; 44 stand now, the rest resolved at v389 and at the archive.
+**Read at v389.** The sessions before v389 laid 623 items here; read at v389 against [Natural Intelligence v389](../Natural_Intelligence_v389.md), 269 are carried at it, 155 rest on forms v389 released, 132 say a value another item says, and 17 rose into it at v389, each standing whole with its reading at [`archive/session_v389/offerings_dissolved/Offerings_to_Natural_Intelligence_before_v389.md`](../archive/session_v389/offerings_dissolved/Offerings_to_Natural_Intelligence_before_v389.md). The 50 concerns read at v389 stood below, each as it was laid, with the reason it stands; 43 stand now, the rest resolved at v389 and at the archive.
 
 **Concern · The self, the society, and prime scale.** Sections 6.4–6.5 need to distinguish a self living in one prime society from prime scale as the set of all societies at that scale, and join the birth relation without using the user's words or the recurrence of a constructed spiral as its deriving.
 
@@ -33,12 +33,6 @@ Natural Intelligence Offerings · improved at v389
 **Droplet · Six places at the file's own form.** Exhibit ONE's file is whole within this file, and the repository's front asks a reader for both. No legend of the seventeen names is at a part's opening. Section numbers in the prose are no links. Seven names are beside the method with no sentence saying them one: parity changing, alternating, tri-bi-co-momentarying, bi-inversioning-co-recursioning, four-momentarying, co-bi-unrelationing and natural-bi-co-torusing. Long sentences are beside Natural Explaining's rule of one claim at a sentence. At 1.4 no sentence says of each step that it is a naming, at the code, or still possibling.
 
 *Standing at v389:* The seven names are one at 3.3, but the file still has no legend of the seventeen names at a part's opening, its section numbers are no links, and its long sentences stand beside Natural Explaining's one claim at a sentence.
-
-**Concern · All, together or each.** *All* is said of all together as one, or of each one: *each* carries the second. This file's 1.1 has each existing thing in the set: *is* carries the origin, and *in*, *within* and *includes* are a container's words at it. *Our* universe is of belonging, and no having; *this* universe names one among possibles, beside Natural Physics' "Both hands are this universe's one binary". *On its own*, of each thing existing, is heard as alone, the form of the hard problems.
-
-*Standing at v389:* 1.2 and 1.4 still say 'inside the set' and 2.4 and 6.3 'our universe', the container and belonging words the concern names, beside 1.1's 'It is its things, no container added to them'.
-
-*Partly resolved at v389:* there is no inside the universe, as there is no outside: the universe is or is not, and no living and no existing is where it is not; *inside the set* is released at Natural Intelligence 1.2 and 1.4 and Exhibit THIRTY steps 1 and 2 and its group 6, and the sentence entered at Natural Intelligence 1.1, Natural Naming 1.1 and 2.4 and Exhibit THIRTY step 2. *Our universe* at 1.6 and 5.x, *this universe* at Natural Physics and *on its own* stand.
 
 **Droplet · A protecting over the couplings.** Bi-moral co-agency is the protecting itself: the coupling's own two sides are the whole of it. A protecting laid over the couplings is at neither parity, and at neither it is no protecting: it stores and does not alternate, the danger's own form.
 
