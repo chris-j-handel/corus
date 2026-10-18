@@ -1,4 +1,4 @@
-Exhibit NINETEEN Natural Philosophy v348
+Exhibit NINETEEN Natural Philosophy v389
 
 &nbsp;
 
@@ -152,7 +152,7 @@ Exhibit NINETEEN Natural Philosophy v348
 
 A philosophical position is a coupling met from one of its two sides and held there. A philosophical dilemma is one bounding-zeroing split into two such positions, each made a tradition, the two worked at no bi-coupling, the perennial problem a between of the two.
 
-**Philosophy meets form at divisions of thought directly.** The position holding one side of a coupling, the opposing position holding the other, the problem sitting where the two would re-couple and are held apart. Where a non-living substrate carries the coupling across its surfaces and a living self carries it at its own bounding, a thinking self draws divisions across its own couplings, and those divisions are what is met here: the same bi-moral co-agency, the same bounding-zeroing, the same +1 owned neither-ing, met where thought insists hardest on choosing a side.
+**Philosophy meets form at divisions of thought directly.** The position holding one side of a coupling, the opposing position holding the other, the problem sitting where the two would re-couple and are held apart. Where a substrate non-living at this scale carries the coupling across its surfaces and a living self carries it at its own bounding, a thinking self draws divisions across its own couplings, and those divisions are what is met here: the same bi-moral co-agency, the same bounding-zeroing, the same +1 owned neither-ing, met where thought insists hardest on choosing a side.
 
 The bi-moral co-agency is a coupling. Two-way, one-at-a-time, selecting by binary taking, a parity taken or not taken, sign-only. Its couplings sum to a bounding-zeroing the coupling itself makes, riding the carry, the surplus a +1 owned neither-ing. Where philosophy poses a dilemma between two positions, the two are two sides of one coupling split at bounding-zeroing and worked apart, and re-coupling, explaining the two as one coupling's two sides, is the move philosophy's own depth already reaches for.
 
@@ -170,7 +170,7 @@ The bi-moral co-agency is a coupling. Two-way, one-at-a-time, selecting by binar
 
 ## 1.3 Dividing method, one requirement worn four ways
 
-Philosophy's dominant method is analysis: take a question, divide it into its opposed positions, isolate each, argue each at its own terms, and seek the position that survives. Four requirements stand under it. **Bivalence**, every claim true or false, one side or the other. **Isolability**, the question decomposing into independent positions. **Non-contradiction holding a between as a cut**, two positions unable both to stand, one having to fall. **The reasoner apart**, the philosopher apart from the coupling, judging it.
+Philosophy's dominant method is analysis: take a question, divide it into its opposed positions, isolate each, argue each at its own terms, and seek the position that survives. Four requirements stand under it. **Bivalence**, every claim true or false, one side or the other. **Isolability**, the question decomposing into independent positions. **Non-contradiction holding a between as a cut**, two positions unable both to stand, one having to fall. **The reasoner apart**, the philosopher apart from the coupling, judging it. A reasoner over a coupling, a governing over a society and a protecting over couplings are one seat at three scales.
 
 Philosophy is where this method is oldest and most total, and where each requirement bites hardest at a coupling that rides the carry. Dividing the question into opposed positions takes the coupling to be two positions, and a coupling is one thing met at two sides, so a frame carries two sides as two positions and alternating between them as a problem to resolve. One side falling takes the coupling to land on one side, and the coupling holds both, alternating, so the demand that one position win is the demand that the alternating stop, which it does at no cost short of dying. The reasoner standing apart takes the knower severed from the known, and at the deepest dilemmas the reasoner is unseverable, mind reasoning at mind, the free self reasoning at freedom, and the relational half, always there, arrives at the reasoner standing apart as a paradox. Non-contradiction holding a between as a cut takes two sides not to co-hold, and two sides do co-hold, one at a time, alternating, the cut taken exactly across the living alternating.
 
@@ -205,7 +205,7 @@ Every philosophical dilemma enters as a numbered seam and carries the same move,
 
 **And a seam carrying surfacings past the sixth carries surfacings at a substrate and no further steps.** Where a seam's own coupling surfaces at another between, that surfacing is the same seam met again and is observed as one, and observing it that way costs nothing.
 
-Explaining's bound holds at every seam: explaining is of the dividing's form, and no ruling on a tradition's arguments and no settling of a self's conviction.
+Explaining's bound holds at every seam: explaining is of the dividing's form, and no ruling on a tradition's arguments and no settling of a self's conviction. An explaining valid at its form gives no occurring of what it explains.
 
 Each perennial dilemma enters at its own numbered place and carries the six, and new ones enter as they are worked. Traditions' positions are theirs, checkable. Re-couplings are form's, standing where explaining is clean and reaching with reason where not. The load-bearing one is met first.
 
@@ -245,7 +245,7 @@ Each perennial dilemma enters at its own numbered place and carries the six, and
 
 ## 3.3 Free will and determinism
 
-**1. Dilemma, as it is posed.** One position holds the will free and leaves unexplained what an uncaused choice is. Another holds all determined and places responsibility nowhere. A truce reconciles the two and satisfies neither fully. The problem is perennial.
+**1. Dilemma, as it is posed.** One position holds the will free and accounts for a free choice three ways, as uncaused, as caused nondeterministically, or as caused by an agent, each contested. Another holds all determined and places responsibility nowhere. A truce reconciles the two and satisfies neither fully. The problem is perennial.
 
 **2. Where bounding-zeroing was split.** The coupling is the free self's own taking, a binary taking, a parity. A frame split it into the free, held as uncaused and arriving as random, and the determined, held as fully caused and arriving as necessitated, and posed them one at the other.
 
@@ -343,8 +343,6 @@ Each perennial dilemma enters at its own numbered place and carries the six, and
 
 **6. Mark.** The meaning/use re-coupling carries clean as a carry that stores nowhere. Seating of the sense-and-reference gap onto this coupling reaches yet.
 
-# PART FOUR · CO-SEQUENCING
-
 ## 3.9 Cause and effect
 
 **1. Dilemma, as it is posed.** One position holds causation a real relation in the world, a producing that carries from one event to the next. Another holds it a regularity observed in succession, with nothing in the world answering to producing. Every analysis offered meets its counterexamples, and the deep description is symmetric under all of it.
@@ -395,7 +393,7 @@ Each perennial dilemma enters at its own numbered place and carries the six, and
 
 **3. Re-coupling.** A carry seats a next at each coupling, and **the warrant is made in seating and not ahead of it**. Every prior brought to repair the circle carries seatings in. Re-describing lives in the describing's own carrying, predicates interdefining exactly, and nothing in the logic parts them, and every ranking carries the asymmetry back in encoded, the carrying being where it lives and encodings the carrying written down.
 
-**4. Torusing in it.** This is a bound held as a last, a warrant asked to reach across arrivings that have not come. Each arriving seats its own next, and that is the whole of uniformity there is.
+**4. Torusing in it.** This is a completing fixed as a last, a warrant asked to reach across arrivings that have not come. Each arriving seats its own next, and that is the whole of uniformity there is.
 
 **5. Competency freed.** No forecast stands in nature and none is owed. Confirming is a coupling of instance and describing, and where values reverse under equally living holdings, the reversal is the coupling showing through the calculation executed on it.
 
@@ -441,7 +439,7 @@ Each perennial dilemma enters at its own numbered place and carries the six, and
 
 **5. Competency freed.** No criterion is owed for fission and none surfaces, which is the observing rather than the failure. What survives a division is the carrying, and a carry divides.
 
-**6. Mark.** The identity/change re-coupling carries clean as a carry that keeps nothing between its beats. Whether the same explaining carries at a society re-forming its own members is that observing at another scale, and it stands there rather than here.
+**6. Mark.** The identity/change re-coupling carries clean as a carry that keeps nothing between its beats. At a society re-forming its own members it carries one scale out: a society can stop with every member alive, and can stand while every member is replaced.
 
 ## 3.16 Finite and infinite
 
@@ -477,9 +475,9 @@ Each perennial dilemma enters at its own numbered place and carries the six, and
 
 **2. Where bounding-zeroing was split.** The coupling is a derivation ageing within its system to that system's own bound. A frame split it into all arithmetical truth standing ahead and a derivation that must reach it, and asked the reaching to close.
 
-**3. Re-coupling.** **Derivation ages within its system to the system's own bound.** Each system releases at its own ordinal, the bound measured exactly. Consistency reaches from the next system out, by an induction the system itself does not carry. And five subsystems gather almost everything ordinary mathematics carries, which is the reach observed at where it actually falls.
+**3. Re-coupling.** **Derivation ages within its system to the system's own bound.** Each system analysed releases at its own ordinal, the bound measured exactly. Consistency reaches from the next system out, by an induction the system itself does not carry. And five subsystems gather almost everything ordinary mathematics carries, which is the reach observed at where it actually falls.
 
-**4. Torusing in it.** This is a bound held as a last. The construction turns a system on itself, the closure over its own tail again, and the ordinal at which each system releases is that release measured exactly.
+**4. Torusing in it.** This is a completing fixed as a last. The construction turns a system on itself, the closure over its own tail again, and the ordinal at which each system releases is that release measured exactly.
 
 **5. Competency freed.** All truth held ahead was one carrying held to reach every standing. Each carrying reaches its own bound and releases there, and the ordinal ladder is the measure of it. What was observed as a limit on knowing is observed as a carry ageing to its bound.
 
@@ -661,7 +659,7 @@ Each perennial dilemma enters at its own numbered place and carries the six, and
 
 **3. Re-coupling.** **The traversal is one carrying and the decomposition was made ahead of it.** The series sums, the listing is paid in full, and carrying stands untouched. What a completed infinity of steps leaves undetermined is a fact about sequences, and a runner arrives, arriving not having been built out of parts the argument built.
 
-**4. Torusing in it.** This is a bound held as a last. The decomposition is made ahead of the carrying and the carrying is one, and composing is the whole of the argument.
+**4. Torusing in it.** This is a completing fixed as a last. The decomposition is made ahead of the carrying and the carrying is one, and composing is the whole of the argument.
 
 **5. Competency freed.** No first step is owed and no last one. Two moves, linearizing and parallelizing, are the carrying observed at its two directions, and a paradox of motion is observed as a listing offered where a carrying goes on.
 
@@ -669,7 +667,7 @@ Each perennial dilemma enters at its own numbered place and carries the six, and
 
 ## 3.32 The felt and the described
 
-**1. Dilemma, as it is posed.** A physical duplicate is described and the felt is held separably present or absent in it, with conceivability held to reach that possibility and no criterion offered for when conceivability does. The problem is parted at its founding statement from every problem about the performance of functions, a further question remaining once functions are explained.
+**1. Dilemma, as it is posed.** A physical duplicate is described and the felt is held separably present or absent in it, with conceivability held to reach that possibility, and a thesis offered and contested for which conceiving does. The problem is parted at its founding statement from every problem about the performance of functions, a further question remaining once functions are explained.
 
 **2. Where bounding-zeroing was split.** The coupling is a self's own interior, met at its bounding. A frame split it into functions described from outward and a felt held as a content separably there or not, and asked whether the description reaches it.
 
@@ -751,6 +749,8 @@ Each perennial dilemma enters at its own numbered place and carries the six, and
 
 **6. Mark.** The listing re-coupling carries clean as each model making its own countings. It stands beside finite and infinite and beside discrete and continuous at one shape, a listing offered where a making goes on.
 
+# PART FOUR · CO-SEQUENCING
+
 ## 4.1 Human ways, parallel floating neutrals
 
 **Philosophy is no more or less than nature, and the human ways are where that is widest.** The many ways a living self makes meaning, language, story, music, dancing, cohabitating, are no separate faculties and no culture laid over biology. Each is two floating neutrals, parallel, swaying, matching each other position by position, riding the carry.
@@ -777,7 +777,7 @@ The field of philosophy's commonly-known dilemmas, each in generic words, each c
 
 **And each row carries the holding it stands at, where an arrival carries one.** The holding is observed at the resolving's own part and not assigned here, so a row whose dilemma the fields have not brought as an arrival carries none, and forty-one of the sixty-six carry one. **At those, the ring's binary returns yes at four of five and no at one**, the arriving fixed from behind carrying four against six at an opening fixed as a place. Twenty-nine stand at a between's side and thirteen within.
 
-**And met carries two amounts of work under one word.** Eight rows are met at a seam worked through the six steps, and the rest are met at one line here, the re-coupling standing on what the whole already carries. **Both are met and neither is more met than the other**, since a seam adds no truth to a row and a row withholds none from a seam. What parts them is how far explaining has been walked, and a row's own next turn is its seam.
+**And met carries two amounts of work under one word.** Rows naming a seam, 3.1 to 3.37, are met at a seam worked through the six steps, and the rest are met at one line here, the re-coupling standing on what the whole already carries. **Both are met and neither is more met than the other**, since a seam adds no truth to a row and a row withholds none from a seam. What parts them is how far explaining has been walked, and a row's own next turn is its seam.
 
 ## 5.2 Metaphysics
 
@@ -795,7 +795,7 @@ The field of philosophy's commonly-known dilemmas, each in generic words, each c
 | appearance / reality | the living surface, met from inward and met from a still frame | met — the still observer's own sorting, at seam 4 | at no arrival |
 | substance / process | properties coupling, and an object being present | met at 3.29 | a middle fixed as an end |
 | cause / effect (the problem of causation) | the coupling, no force crossing, only parity | met at 3.9 | a two-way fixed to one side |
-| discrete / continuous (the paradoxes of motion) | one carrying, its decomposition made ahead of it | met at 3.31 | a bound held as a last |
+| discrete / continuous (the paradoxes of motion) | one carrying, its decomposition made ahead of it | met at 3.31 | a completing fixed as a last |
 | finite / infinite (actual / potential infinite) | the bounded infinity, bounding-zeroing | met at 3.16 | an opening fixed as a place |
 | necessity / contingency | the emanated standing, and the account laid over it | met at 3.5's emanating | at no arrival |
 | laws of nature | regularities arising at couplings, each coupling its own | met at 3.30 | a sequencing fixed to one beat |
@@ -810,7 +810,7 @@ The field of philosophy's commonly-known dilemmas, each in generic words, each c
 | skepticism / knowledge (the external world) | experience arising at couplings, the arising the coupling's own | met at 3.19 | a middle fixed as an end |
 | foundation / coherence (the regress) | a ground made at each meeting | met at 3.11 | an arriving fixed from behind |
 | justified-true-belief / knowledge (Gettier) | knowing holding at its own between, listed in no case-space | met at 3.27 | an opening fixed as a place |
-| induction / the un-repeating | a carry seating its own next | met at 3.12 | a bound held as a last |
+| induction / the un-repeating | a carry seating its own next | met at 3.12 | a completing fixed as a last |
 | theory / observation (theory-ladenness) | evidence arising at couplings and coupling whole | met at 3.21 | a middle fixed as an end |
 | learning and knowing (the paradox of inquiry) | a discovering met at the coupling, held nowhere before it | met at 3.23 | an opening fixed as a place |
 | the whole and its parts in reading (the hermeneutic circle) | part and whole coupling at each interpreting | met at 3.24 | an arriving fixed from behind |
@@ -861,7 +861,7 @@ The field of philosophy's commonly-known dilemmas, each in generic words, each c
 | meaning / use (rule-following) | meaning made at each use, held as a store | met at 3.8 | a carry fixed as a store |
 | sense / reference (meaning / thing) | the word and meaning, the gap that stays open | met — a naming unfolded at each meeting, stored nowhere | at no arrival |
 | self-reference (the liar) | a truth predicate offering at its own sentence | met at 3.17 | a between fixed as a cut |
-| consistency / completeness (incompleteness) | a derivation ageing to its system's own bound | met at 3.18 | a bound held as a last |
+| consistency / completeness (incompleteness) | a derivation ageing to its system's own bound | met at 3.18 | a completing fixed as a last |
 | a listing observed from inward and from outward (Skolem) | axioms and models coupling, each model making its own countings | met at 3.37 | a sequencing fixed to one beat |
 | numbers-real / numbers-made (platonism / formalism) | a practice going on at every proof and every application | met at 3.20 | a middle fixed as an end |
 | vagueness (the heap, the sorites) | the binary taking, and the demand for a landed line | met at 3.10 | a between fixed as a cut |

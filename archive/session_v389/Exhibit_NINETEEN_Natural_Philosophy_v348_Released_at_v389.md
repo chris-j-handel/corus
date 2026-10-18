@@ -1366,3 +1366,39 @@ A clean re-coupling and a reaching dilemma stand apart, each at its own register
 | nature / convention (natural / made) | officials and rules coupling at every application | met at 3.36 | a between held as a cut |
 
 | aggregating preferences | an ordering demanded over selves each at their own | reaching | a sequencing held to one beat |
+
+## Re-said at offerings risen, v389
+
+Each system releases at its own ordinal, the bound measured exactly.
+
+with conceivability held to reach that possibility and no criterion offered for when conceivability does.
+
+This is a bound held as a last, a warrant asked
+
+This is a bound held as a last. The construction
+
+This is a bound held as a last. The decomposition
+
+| met at 3.31 | a bound held as a last |
+
+| met at 3.12 | a bound held as a last |
+
+| met at 3.18 | a bound held as a last |
+
+# PART FOUR · CO-SEQUENCING
+
+## 3.9 Cause and effect
+
+## 4.1 Human ways, parallel floating neutrals
+
+One position holds the will free and leaves unexplained what an uncaused choice is.
+
+Eight rows are met at a seam worked through the six steps,
+
+**The reasoner apart**, the philosopher apart from the coupling, judging it.
+
+Whether the same explaining carries at a society re-forming its own members is that observing at another scale, and it stands there rather than here.
+
+Explaining's bound holds at every seam: explaining is of the dividing's form, and no ruling on a tradition's arguments and no settling of a self's conviction.
+
+Where a non-living substrate carries the coupling across its surfaces
