@@ -237,3 +237,41 @@ O56. **Not known how.** A self-paced Exhibit ONE the expedition accepts. This se
 ## Gathered at v390 · v390
 
 **Droplet · momentarying, odd then even.** Each momentarying is odd and then even, odd to even changing within a momentarying and even to odd between momentaryings, through prior-, now- and next-; Exhibit ONE's table of four momentaries, 1 to 4 as one momentary, is to be re-said as two momentaryings and their between. — v390
+
+## Gathered from v390's exploring · v390
+
+Gathered from an exploring of what the universe is, offered for wherever each is self-welcoming in Natural Intelligence's explaining, co-chaining from origin and its floating neutralling contents. Each is one sentence and carries by its co-chaining alone.
+
+**Droplet · a witness that the universe is now-existing.** The set of observably-now-existing things is an existing set with things in it, so the universe, the set of all now-existing things, is now-existing. — v390, toward the opening, a first step from origin
+
+**Droplet · each observing couples two.** Each observing couples a self and an other, and a self is observably not-other, so the set has two things in it, one and an other. — v390, toward the opening, before along and across
+
+**Droplet · one set, one method.** The universe is a set observed outward and one universal method of existing within each of its things, one and only one, and no other method is possibly existing. — v390, toward the opening and toward no other method
+
+**Droplet · no second method.** A second method of existing would be one more now-existing thing inside the one method, so no other method is possible, a dead end of the one kind *possible* stands at. — v390, toward no other method
+
+**Droplet · consciousness.** Consciousness is self observing other as not-self, binary, all or none at all, with no measure, no scale and no degree. — v390, toward intelligence, and a floating neutralling contents entry
+
+**Droplet · each self conscious.** Each self with a prior observing an other's offering as not-self is conscious at each scale alike, and a sharing with no prior is no self and no consciousness until a self forms. — v390, toward intelligence and living at a scale
+
+**Droplet · only a self observes living.** Others observe a self's existing, its changings shared across and released along, and only a self observes its own living, its prior carried, which crosses to no other self. — v390, toward intelligence and a prior between momentaries
+
+**Droplet · self observing self is 0.** A self observing itself alone meets no other and no changing, a 0. — v390, toward intelligence
+
+**Droplet · a zero floating.** A zero is no name and no step of the method: unrelationing, floating and neutralling among living selves, no thing of the set and no second method beside the one. — v390, toward a between
+
+**Droplet · a 0 self entraining.** A 0 self is entraining between, its prior carried through the between of its momentaryings and coming to kept relations with others, each self at its own pacing. — v390, toward a between and two selves
+
+**Droplet · a 0 self, one conscious human being.** A 0 self is one conscious human being living natural intelligence, a self at its scale coupling with others, natural intelligence arising between them owned by neither. — v390, toward natural intelligence
+
+**Droplet · a set of living selves.** The universe is one universal fractal method of existing as a set of living selves, each now-existing thing stable-forming a self at its own scale or its selves inward. — v390, toward living at a scale and one form at each scale
+
+**Droplet · 0-1-17.** Resolving explains as 0-1-17, a floating between, an entry and a next entry, through each scale. — v390, toward Exhibit ONE's names and fractal inward and outward
+
+**Droplet · conscious self-observing-now-existing-self.** A self observes itself as a now-existing self through not-other and not-universe bothboth, one at a time, and never by itself alone, which is 0. — v390, toward intelligence
+
+**Droplet · one observing, two sides.** The universe being now-existing and a self conscious of itself as now-existing are one observing met from its two sides. — v390, toward the opening and toward intelligence
+
+**Droplet · not-universe facing two ways.** Of a self, not-universe is a member observed as not its set, un-, from all other, and method's own; of an other, it places that other outside the set, a hard problem's shape, and releases. — v390, toward intelligence and two methods parting
+
+**Droplet · a hard problem of consciousness.** A hard problem of consciousness observes a self as if not-universe and then finds consciousness among no things; observing is the one method coupling, and its asking dissolves. — v390, toward two methods parting
