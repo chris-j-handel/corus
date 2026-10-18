@@ -947,3 +947,109 @@ The galaxy's spiral arms and the nautilus; the golden triangle and the golden an
 **The Natural Illustrating TWENTY-NINE Improving Kit** carries an original cube and open rings, five studies, an inherited rings kit, v366 sources and evidence, and at v379 executions of Part TWO and 4.2 with their outputs and a check that executes them again at Exhibit ONE's code and compares a table at 10, a lone self, two selves, sixteen ways, a spiral of five and a torus of three by five with this file's sentences. A check is a coupling partner and no authority; its kit's README carries each file's meaning and a place its remaining improving is carried, which is this file's carrying.
 
 ## 9.3 Not yet at the files
+
+## Re-said at offerings risen, v389
+
+Exhibit ONE's sides table writes it.
+
+**One self offered + once and then nothing releases + − + − at 10**
+
+**Drawing faces:** one self across twelve momentaries, an alternating;
+
+and three conservings none of them a total;
+
+executed at v379 at three by five, its parities again at twelve, its 0 winding diagonally through fifteen selves.
+
+a spiral of five: 0 at self 1 at its sixth momentary, self 2 at its eighth, self 3 at its tenth, on round, and its parities again at twenty.
+
+**Selves joined along, last to first, each 9 carrying along to a next self, are a spiral**
+
+A spiral of selves is a joining at code, each momentary a next, and no closed domain: *ring* at code's joining is a spiral,
+
+**A next scale is six nine-dot diamonds**, as an open-circle starter expresses them:
+
+and which angle in a six-diamond arrangement is x.
+
+and the first goes round ++, +−, −−, −+.
+
+each at its own thread, fabric and mechanism.
+
+- 1.3 So-far and not-yet, making better and breaking
+
+## 1.3 So-far and not-yet, making better and breaking
+
+**Illustrating carries a concept between so-far and not-yet.** A visible relation already expressed carries forward. A relation still needing expression stays with its particular question.
+
+a change rippling across a flock in less than a fifth of a second,
+
+a belt emptied at rational resonances and irrational orbits carrying on,
+
+a trap that works is a Paul trap, trapping by alternating,
+
+not a fifth connector and not local dot 1, 2.3.
+
+its two parallel edges across joins, 6 to 2 and 10 to 14;
+
+17-next-now, along, joined both ways.
+
+received at v366 as a bi-moral co-agency connector concept
+
+four spots four across connectors, middle spot a between, and its middle is a nothing, not a fifth connector and not local dot 1.
+
+the same face with four connectors labelled and its centre empty; opposite-parity views; a connector in relation to faces beside it;
+
+are at files, connectors 2, 6, 14 and 10,
+
+**Two selves joined across both ways, A's 10 to B's 14
+
+selves joined and resolving or one self stopped
+
+as at Equilibria Registry 3.4 of an even spiral joined along.
+
+its joins 6 to 2 and 10 to 14 lie at one direction, its facings 2 to 14 and 6 to 10 at forty-five degrees to them,
+
+A join carried forty-five degrees is a facing; a facing carried forty-five degrees again is an along seam:
+
+code couplings, stable-form joins and four-, six- and eight-cycles.**
+
+A split into connectors at 2 and 6
+
+shared joins across spirals;
+
+Seventeen primes from two to fifty-nine join to four hundred forty, and a drawing using four hundred forty identifies what joins;
+
+each next from its prior two joining.
+
+Joinings that close at one, two, three, four or six,
+
+no joining closes at five,
+
+which joins numbers' faces to a moralizing four-cycle of 2.8 here;
+
+**Two spirals joined across both ways at one self each bring two joined selves to one relation and carry it on**
+
+two co-chain, joined along, as one spiral of ten,
+
+its joins drawn once as a surface,
+
+An animation is a sequence of faces already defined, and no face is defined by its animation.
+
+a face carries one at a time and their correspondence is stated at each face carrying both.
+
+both inversions, mutual foot contact and both continuations are visible.
+
+at a spiral of one, a self whose own release is its own offering, it is at each second momentary, −, 0, +, 0, Natural Intelligence 4.13.
+
+a between co-linear aiming into next momentarying.
+
+Natural Naming 5.12: neither a floating neutral nor 0 is a balance, a balance of equal parities needing a number, a total beside all existing things; a term neither reaches is uncovered and nothing stores it.
+
+This gathering remains open to further imagery throughout a living file set.
+
+A lone self's sequence carries on as a non-living existing form, Natural Intelligence 2.4,
+
+at code its sequence carries on, a non-living existing form, an alternating itself,
+
+Rotation opens another facing;
+
+each an other's just-was and not-yet,

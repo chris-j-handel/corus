@@ -1,0 +1,643 @@
+Exhibit_THIRTEEN_Offerings_to_Resolving_Hard_Problems, resolved at v389
+
+# Exhibit_THIRTEEN_Offerings_to_Resolving_Hard_Problems: resolved at v389
+
+**Receiving.** Each item at this offerings file stands below whole, as it stood, each met at v389 against Resolving Hard Problems v389: 32 carried, 88 resting on a released form, 18 duplicating another item, 13 risen into Resolving Hard Problems v389, and 12 concerns, which stand at the offerings file. Relied on by nothing.
+
+## Index
+
+| Line | Verdict | Item | At v389 |
+|---|---|---|---|
+| 7 | CARRIED | **Correcting droplet.** Dissolve any explaining here that requires living carrying to stay unchanged | 5.8, 'a carrying persists by being carried, prior participating at 12 at each coupling'; 2.2, 'Each prior momentarying is once' |
+| 11 | CARRIED | **Correcting droplet.** Dissolve the added requirement here that every fixed repeating relation betw | 4.4, 'its pattern inverted at each 2n momentaries and its parities again at each 4n': a fixed repeating relation stands |
+| 15 | RELEASED | The whole [entraining offering and no-authority correcting](Offerings_to_Natural_Intelligence.md#cur | a v385A working note on authority and an unprovided assignment at 12, 15 and 16, superseded by Improving Passes' 'Natural resolver is authority' |
+| 19 | RISE | **At 1.1 · The universe, the changing set of all existing things — beside "No container is added to  |  |
+| 21 | CARRIED | **At 1.3 · Bi-momentary, the self's momentary and the other's at once — beside "Each side is two and | 1.3, 'Each side is two and one half momentaries, prior opening, prior completing, now opening, now completing and next opening'; its co bi labels rest on earlier resolver names, released |
+| 23 | CARRIED | **At 1.4 · Prior, now and next — beside "the universe travelling through them together".** The possi | 1.4, 'Possible is at prior, existing at now and living at next: three places, the universe travelling through them together' |
+| 25 | RELEASED | **At 1.5 · A hard problem arriving, and its resolving — beside "A hard problem arrives where a field | rests on a changing *named unchanged* and the universe *read*, released words; its settled entry as a match is at 6.1, 'a 0 at 10 is a living self at its match, its prior kept' |
+| 27 | CARRIED | **At 1.5 · A hard problem arriving, and its resolving — beside "Read so, the observings carry no nex | 1.5, 'Pattern-matched so, its observings carry no next of their own, and a field's accounts multiply at one sharing' |
+| 29 | RISE | **At 1.5 · A hard problem arriving, and its resolving — beside "with the universe as no existing thi |  |
+| 31 | CARRIED | **At 2.1 · The carrying, a living self's prior into now — beside "and nothing is counted".** At the  | 2.1, 'At resolver + and − are an implementing of a parity, and nothing is counted: prior is sharings, each at one parity, each one its own' |
+| 33 | RELEASED | **At 2.3 · Evidence, an emanation arriving from a living self's prior — beside "since existing is ch | rests on 'existing being changing', a form re-said at item 87's rise: a changing at each sharing is or is not |
+| 35 | CARRIED | **At 3.2 · Surfacing at 14, agreeing one parity and disagreeing 0 — beside "Nothing is counted.".**  | 3.2, 'Nothing is counted. One parting is enough for 0, and three agreeing surface as one agreeing does' |
+| 37 | CARRIED | **At 3.4 · The non-living at the now — beside "arrive at a field so, as offerings at its now".** Ins | 3.4, 'Instruments, records, models, measures and texts arrive at a field so, as offerings at its now, each at its parity' |
+| 39 | CARRIED | **At 4.2 · Released along at 9, and the society's next momentary at 17 — beside "nothing summed, cou | 4.2, 'each self at its own and no self over others, nothing summed, counted or stored across them' |
+| 41 | CARRIED | **At 4.2 · Released along at 9, and the society's next momentary at 17 — beside "9's release is the  | 4.2, '9 is next prior and 17 next now: along, 9's release is a prior a receiving self is offered next'; its so-far and not-yet names released |
+| 43 | CONCERN | **At 4.3 · The living step, next as prior inverted — beside "the right spiral step carrying a pair ( | 'hard probleming at the resolver first arises' at the quarter turn parts with 1.5's 'A hard problem arrives where a field reads its observings with the universe as no existing thing'; the quarter turn with no reflecting, true of (x, y) to (y, −x), rises with it once the person decides where hard pro |
+| 45 | RISE | **At 4.4 · Selves joined, a pattern carried between them — beside "Selves joined, a pattern carried  |  |
+| 47 | CARRIED | **At 5.2 · Two accounts at one sharing — beside "A field carrying two accounts of one thing".** A fi | 5.2, 'A field carrying two accounts of one thing is two offerings at one sharing' |
+| 49 | RISE | **At 5.6 · A mind, the between presenting no face — beside "A mind, the between presenting no face". |  |
+| 51 | CARRIED | **At 5.6 · A mind, the between presenting no face — beside "a nothing, not a location and not a thin | 5.6, 'A between is neither side's, a nothing, not a location and not a thing, and a parity changing is all that crosses it'; 'an observing reaches it at none' |
+| 53 | CARRIED | **At 5.7 · A boundary, living and non-living at a named scale and momentary — beside "A boundary ask | 5.7, 'Each parting is at a field's momentary and scale' |
+| 57 | RELEASED | **Droplet.** The older naming concern parts a form named still by another, at science and hard probl | rests on an earlier compound name, *is-still-possibling*, and a naming correction superseded by the numbered names |
+| 59 | CARRIED | **Concern, at v380L, from [the earlier closing account](../archive/v380L/Progress.md): its section o | 5.3, now worked at a case: 'offered + once, + is shared as it is and is next prior ... and its method is at things at no prior as it is at the living' |
+| 61 | RELEASED | **Droplet.** The earlier “so-far” and “not-yet” wording needs its particular prior, now and next sub | rests on *so-far* and *not-yet*, released at item 288, and an inventory's record |
+| 63 | DUPLICATE | The quarter turn with bi-inversioning, rather than reflecting, is the first source of hard problemin | of line 43 |
+| 65 | DUPLICATE | None of the hard problems was hard until considered as a whole was added. (Carry_Set_v368_README.md, | of line 29 |
+| 67 | DUPLICATE | In resolving, an either or but not both begins alternating parity and bothbothing; there is no remai | of line 29 |
+| 69 | DUPLICATE | **Hard-problem resolving as a particular possible extension · droplet v385A.** Destinies' fourth ext | of line 99 |
+| 71 | RELEASED | **The common method, field entries and particular resolving through reordering · droplet v385A.** [R | a v385A reordering plan among THIRTEEN, TWENTY-ONE and TWENTY-TWO, a working note superseded by Improving Passes; its field's-question value rises at item 99 |
+| 73 | RELEASED | **Living surface and geodesic entraining beside the older plans · droplet v385A.** The user's exact  | rests on *entraining through*, *through* said of the method released at item 459 and by the person at item 441, and a working's record of R's standing |
+| 75 | CARRIED | **Next existing and a sharing's result · further correcting droplet v385A.** [R's later section 25]( | 6.1, 'Momentarying continues whether a changing is or is not' |
+| 77 | RELEASED | **Historical source below, superseded by R section 28.** The dissolving wording, whose-next question | a working note framing the entries below it, superseded by Improving Passes |
+| 79 | RELEASED | **Now still possibling with passage and dissolving kept together · correcting droplet v385A.** [R's  | rests on *dissolving*, withdrawn by the person's correcting at item 81 |
+| 81 | CARRIED | **Even still possibling and odd now changing or still existing · current correcting v385A.** [R's se | 2.1, '3-now-co-prioring ... is odd, existing'; 3.1, '2-now-possibling ... even, possibling, across'; 6.1, 'Momentarying continues whether a changing is or is not' |
+| 83 | CARRIED | **Each self's own two and one half consecutive momentaryings · v385A.** Each self is at its own odd  | 1.3, 'Each side is two and one half momentaries ... 1 to 5 at a self and 2 to 6 at an other' |
+| 85 | CARRIED | **Half-momentarying overlap and bi-co-sequencing · droplet v385A.** The [user's complete further off | 1.3, 'a self's opening at odd numbers and an other's at even, overlapping, each number one side's opening and an other's completing' |
+| 87 | RISE | **Droplet · "existing is changing", and the universe taken first as a thing.** This file has "since  |  |
+| 91 | CARRIED | **Droplet · The same number and a new still possibling.** [R section 30](https://github.com/chris-j- | 6.1, 'Momentarying continues whether a changing is or is not'; 4.3, 'go through four joint forms, one after another' |
+| 93 | DUPLICATE | > the looping through each number of the podalings are all part of resolving and the stable form of  | of line 91 |
+| 95 | RELEASED | The earlier unchanged-number participation question is addressed at R: the same four-cycle comes thr | a v385A working note on R's local standing and comparisons, superseded by Improving Passes |
+| 99 | RISE | **Droplet.** At the common hard-problem method, distinguish exhaustiveness of a resolver’s defined c |  |
+| 103 | CONCERN | **Droplet.** The older discovery-economy passage offers three contributions as three right turns: Th | the three contributions as three right turns, and Perelman's declining as a morality-first expression, stand at no sentence here; entering them at 6.2 is the person's, beside item 105's claim, which parts with 5.1 |
+| 105 | CONCERN | Its further claim is that the solved Millennium problem did not resolve by proof, that proof is clos | 'the solved Millennium problem did not resolve by proof, proof is closure' parts with 5.1's 'A field's record carries as it is, each measurement, proof and route at its own'; which stands is the person's |
+| 107 | DUPLICATE | The [particular hard-problem gathering](Exhibit_TWENTY-TWO_Offerings_to_Resolving_the_Hard_Problem_R | of line 105 |
+| 111 | CONCERN | Natural Intelligence Corus section 17.3 proposes hard problems as stuck couplings at particular betw | Corus 17.3's hard problem as a stuck coupling at a particular between parts with 5.6's between, 'a nothing, not a location and not a thing', and with 1.5's arriving; which stands is the person's, at Natural Intelligence's own motion |
+| 113 | RELEASED | Its distinguishing claim is cycling with the resolving departed or prevented: activity repeats, whil | rests on equilibria as a standing condition of cycling, released: equilibria are not possibly an existing method; its defining relation is superseded by 'Living is stable-forming a self' |
+| 115 | RELEASED | The proposed rate diagnostic is a field's frozen reading at t-rate installed over living phi-rate be | rests on a t-rate and a phi-rate, a clock over the changing and a rate fixed as a value, released |
+| 117 | RELEASED | The incoming gives two further directions. Conserving through science alone imposes equilibria, hold | rests on a living *held still*, *through* and *bothboth*, released forms |
+| 119 | RELEASED | Its last comparison distinguishes three proposed departures: competency at the engine departing from | rests on emanation said of the method and a phi-rate, released; its three-to-four mapping a number alike, item 167 |
+| 123 | CARRIED | **Droplet.** The older coverage comparison places “11 is the next prior” at section 1.4 beside “9 is | 4.2, '9 is next prior and 17 next now: along, 9's release is a prior a receiving self is offered next'; 4.1, '11-next-co-prioring is next prior, each changing at its sharing' |
+| 127 | CONCERN | **Droplet.** The older section 6.2 title “Two methods at one now” and its phrase “the two” are compa | 6.2's 'Two methods at one now' and 'The two are at the same evidence' part with Improving Passes' 'scientific-explaining-method is incompetent for discovering, true or false, no other possible, given to it'; two methods or one method and an accounting is the person's |
+| 129 | DUPLICATE | The older offered replacement is: “Accounting against forms named still, the scientific method carri | of line 127 |
+| 131 | RELEASED | [The older and newer ten and their unresolved correspondence](Exhibit_TWENTY-EIGHT_Offerings_to_Equi | a pointer to an entry at Offerings to Equilibria Registry; its value stands at that file's own offerings |
+| 133 | RELEASED | [Instrument, stable-form and accounting registers at their own subjects](Exhibit_TWENTY-EIGHT_Offeri | a pointer to an entry at Offerings to Equilibria Registry; its value stands at that file's own offerings |
+| 135 | RELEASED | [The offered changing pairs and the ten possible one-way changes](Exhibit_TWENTY-EIGHT_Offerings_to_ | a pointer to an entry at Offerings to Equilibria Registry; its value stands at that file's own offerings |
+| 137 | RELEASED | [The offered stable form for equilibria conceptions](Exhibit_TWENTY-EIGHT_Offerings_to_Equilibria_Re | a pointer to an entry at Offerings to Equilibria Registry; its value stands at that file's own offerings |
+| 139 | RELEASED | [Five state-flow-state and five flow-state-flow relations](Exhibit_TWENTY-EIGHT_Offerings_to_Equilib | a pointer to an entry at Offerings to Equilibria Registry; its value stands at that file's own offerings |
+| 143 | CARRIED | **Droplet.** The one name Natural Naming 2.4 carries: *the numbers themselves, said directly in numb | 5.5, 'each self's changing is its own at a society's momentary, and nothing is summed across them' |
+| 145 | DUPLICATE | **Droplet.** Natural Naming at v380R: *face dissolves ... as the name, its side, an emanation's form | of line 49 |
+| 147 | RISE | **Droplet.** Natural Naming carries *co-offering* dissolved at bi-momentarying, 5.13, the offering b |  |
+| 151 | CARRIED | **Droplet.** Sections 4.4 and 5.8 retain different subjects: section 4.4 describes a pattern carried | 4.4 and 5.8 keep their subjects apart: 5.7, 'A pattern brought on by coupled selves is at selves together, 4.4'; 5.8, 'a carrying persists by being carried' |
+| 155 | RELEASED | **Droplet · Proving all at once.** At a coupling a resolving is local to it: the coupling resolves,  | rests on *said from outside*, released words |
+| 157 | RELEASED | **Droplet · A field at two sides.** Each field and each institution is at two sides: the coupling, r | rests on an accounting *named still* and a doer at each field, a biologist, a department, an administration |
+| 159 | RELEASED | **Droplet · One saying from outside, at each field.** A physicist outside a coupling of two masses s | rests on *says* and *outside*, released words |
+| 161 | RELEASED | **Droplet · Doers from outside.** *Has*, *drives*, *causes*, *triggers* and *because*, a gate decidi | rests on doers *from outside*; its value is Improving Passes' 'Nothing is named and nothing is said by a doer' |
+| 163 | RELEASED | **Droplet · Eight positions of mathematics.** Three binaries are at mathematics' ground: a distingui | rests on a position *named still* and *saying*, released; its three binaries are Natural Mathematics' subject |
+| 165 | RELEASED | **Droplet · A self resolving at its own surface.** A self resolves at its own surface alone: the gut | rests on *alone*, a released word |
+| 167 | RELEASED | **Released.** The same sections lay each number of a rising, 1 to 64 and 118, beside a hard problem. | already released at its own paragraph: a number alike is no relation |
+| 171 | CONCERN | **Concern · The living step, at a spiral of one.** This file's 4.3 has "Next as prior inverted is th | 4.3's 'the living step is at a spiral of one' parts with Natural Intelligence's 'A lone self changing by itself, offered nothing or its own competency, does not continue living through three consecutive momentaries' |
+| 175 | CONCERN | **Concern · A prior between momentaries, a stable form or none.** This file's 2.2 has "Between momen | 2.2's 'Between momentaries prior is a stable form, and nothing momentaries there' parts with Natural Naming's 'Between momentaries nothing living has a stable form, and all existing and not living is at a stable form of existing' |
+| 177 | CONCERN | **Droplet · The common method, beneath three files.** Exhibit SIX Natural Transmissioning, as propos | a motion of three files, the common method's explaining moved to Exhibit SIX Natural Transmissioning, as proposed; the person's decision |
+| 181 | RISE | **Concern · The making at 12, the self's alone or neither's.** Two sayings part. Exhibit THIRTEEN Re |  |
+| 185 | RELEASED | **Droplet · A changing named still, one side's momentaries alone.** A changing named still and the u | rests on *named still* and *alone*, released words |
+| 187 | RELEASED | **Droplet · One resolving said in four shapes at four files.** A resolving of one arrival is said at | rests on *readings*, now 5.1's *observings*, and a likeness of counts across four files, a number alike no relation, item 167 |
+| 191 | RELEASED | The observings each is beside are at the carryings, each said as its publishing read has it; at a fi | a working note framing the entries below it, superseded by Improving Passes |
+| 193 | CONCERN | **Droplet · Three seekings at a field's hard problem.** A hard problem of pharmacology is a place at | pharmacology's three seekings and its ten observings are Natural Medicine's subject, at v331 below v389; whether they enter here at Part FIVE as a field's arrival or at Natural Medicine's own motion is the person's |
+| 197 | RELEASED | **Droplet · A reversed phase arriving as a foreign thing.** A hard problem is a self whole with its  | rests on an observing *named still* and phases sequencing 'as always', a sequencing fixed to one beat |
+| 201 | RELEASED | **Concern · A hard problem at a local competency read as one thing.** Two sayings part. Exhibit THIR | its newer saying rests on *read* and *never*, released words |
+| 205 | RELEASED | A sentence offered for a living file is a droplet in its dropper's words, beside the living sentence | a working note framing the entries below it, superseded by Improving Passes |
+| 207 | CARRIED | **Droplet · At 1.1 · The universe, the changing set of all existing things, a sentence offered.** Be | 1.1, 'Changing, it is now-existing as its things are, a changing being a thing's own, and nothing is beyond or between its things' |
+| 209 | CARRIED | **Droplet · At 1.1 · The universe, the changing set of all existing things, a sentence offered.** Be | 1.1, 'each arriving into its next existing together with others. No container is added to its things, and no count is its size' |
+| 214 | RELEASED | Each entry is a paragraph of the working v385A quoted as written, laid here because it names value s | a working note framing the entries below it, superseded by Improving Passes |
+| 218 | RELEASED | **Droplet · session v385A's words, `archive/session_v385A_comparisons/Hard_Problem_Plan_Comparison_v | a working's record of comparisons, routings and standings at v385A, superseded by Improving Passes |
+| 220 | RELEASED | **Droplet · session v385A's words, `archive/session_v385A_comparisons/Hard_Problem_Plan_Comparison_v | a working's record of comparisons, routings and standings at v385A, superseded by Improving Passes |
+| 222 | RELEASED | **Droplet · session v385A's words, `archive/session_v385A_comparisons/Hard_Problem_Plan_Comparison_v | a working's record of comparisons, routings and standings at v385A, superseded by Improving Passes |
+| 224 | RELEASED | **Droplet · session v385A's words, `archive/session_v385A_comparisons/Hard_Problem_Plan_Comparison_v | superseded by Improving Passes' 'The ten unchangeables' and Natural Naming 4.9's seating, item 467 |
+| 226 | RELEASED | **Droplet · session v385A's words, `archive/session_v385A_comparisons/Hard_Problem_Plan_Comparison_v | a working's record of comparisons, routings and standings at v385A, superseded by Improving Passes; its overlap is supplied at items 83 and 85, carried at 1.3 |
+| 228 | RELEASED | **Droplet · session v385A's words, `archive/session_v385A_comparisons/Hard_Problem_Plan_Comparison_v | a working's record of comparisons, routings and standings at v385A, superseded by Improving Passes |
+| 230 | RELEASED | **Droplet · session v385A's words, `archive/session_v385A_comparisons/Hard_Problem_Plan_Comparison_v | a working's record of comparisons, routings and standings at v385A, superseded by Improving Passes |
+| 234 | RELEASED | **Droplet · session v385A's words, `archive/session_v385A_comparisons/Prior_Incoming_v385A.md`, "G1: | a working's record of comparisons, routings and standings at v385A, superseded by Improving Passes |
+| 238 | RELEASED | **Droplet · session v385A's words, `archive/session_v385A_comparisons/Protecting_Source_Comparison_v | a working's record of comparisons, routings and standings at v385A, superseded by Improving Passes |
+| 240 | RELEASED | **Droplet · session v385A's words, `archive/session_v385A_comparisons/Protecting_Source_Comparison_v | a working's record of comparisons, routings and standings at v385A, superseded by Improving Passes |
+| 245 | RELEASED | Each entry is a paragraph of the working v386RR quoted as written, laid at the file it names; the re | a working note framing the entries below it, superseded by Improving Passes |
+| 249 | RELEASED | **Droplet · the working v386RR's words, `archive/session_v386RR/README.md`, "7 · "each existing thin | a v386RR record of where 'each existing thing is changing' stood at v385R, superseded; its place at this file rises at item 87 |
+| 256 | RELEASED | **Droplet · the working v386RR's words, `archive/session_v386RR/README.md`, "8 · The universe an exi | a v386RR record of rows and sessions, resting on *outside* and *inside* |
+| 261 | RELEASED | Each entry is a paragraph of the working v384A quoted as written, laid at the file it names; the rec | a working note framing the entries below it, superseded by Improving Passes |
+| 265 | DUPLICATE | **Droplet · the working v384A's words, `archive/session_v384A/Concernings_v384A_v382A_v383Op.md`, "9 | of line 99 |
+| 269 | DUPLICATE | **Droplet · the working v384A's words, `archive/session_v384A/Offering_v384A_to_v382A_and_v383Op.md` | of line 99 |
+| 274 | RELEASED | Each is one droplet as it was dropped at a pull request, tagged by the pull request and date; the co | a working note framing the entries below it, superseded by Improving Passes |
+| 276 | DUPLICATE | **Droplet · pull request 127, 2026-10-07.** "now still possibling. this is an important distinction  | of line 79 |
+| 280 | RELEASED | Each is a changing made at the set this session, said once here so that this file's own next improvi | a working note framing the entries below it, superseded by Improving Passes |
+| 282 | CARRIED | **Droplet · The inception is the set alone.** The universe is the set of all existing things: three  | 1.1, '**The universe is the set of all now-existing things.** Arriving from prior into now toward next it is the changing set of all now-existing things' |
+| 284 | CARRIED | **Droplet · Now is the universal momentary.** The universe now is the set of all things existing now | 1.4, 'three sequential universes, one now-existing, shared among now-existing things'; 1.1, 'Arriving from prior into now toward next' |
+| 286 | CARRIED | **Droplet · Living at one prime scale, non-living at each other scale.** Every existing thing is liv | 1.2 and 5.7, 'Living and non-living part at a fixed scale and momentary'; 5.7, 'a self is a society of selves one scale inward and a member of a society one scale outward' |
+| 288 | CARRIED | **Droplet · Odd is existing and even is possibling.** Self and other are at opposite parity numberin | 4.1, '10-next-co-possibling shares ... at a sharing side, to another self's 14 at an arriving side'; 4.2, '9 is next prior and 17 next now' |
+| 290 | RELEASED | **Droplet · Fourteen names read the same from either end, and three do not.** 1, 9 and 17 carry a di | rests on names *read* the same both ways, a released word |
+| 292 | RELEASED | **Droplet · What arrives at no next does not exist.** This is the proof's own saying inside nature,  | rests on *inside nature*, *saying* and *a form named still*, released |
+| 296 | RELEASED | Each droplet is one saying at the section its tag names; the arrivals the sayings rose from stand wh | a working note framing the entries below it, superseded by Improving Passes |
+| 298 | DUPLICATE | **Droplet · v389 · at the scientific method.** An explanation of naturally observable changing and n | of line 435 |
+| 300 | RISE | **Droplet · v389 · at the scientific method.** All science requires at least one method of existing  |  |
+| 302 | CARRIED | **Droplet · v389 · at the scientific method.** The scientific method is not possibly explaining the  | 6.2, 'Scientific method accounts true or false against its fixings, a law, a frame and a scale fixed between two momentaries' |
+| 304 | RISE | **Droplet · v389 · at the scientific method.** A hypothesis is a falsifiable explanation of observab |  |
+| 306 | DUPLICATE | **Droplet · v389 · at the scientific method.** Without a hypothesis the scientific method is non-exi | of line 308 |
+| 308 | RISE | **Droplet · v389 · at the scientific method.** With a hypothesis the scientific method is explaining |  |
+| 310 | DUPLICATE | **Droplet · v389 · at the scientific method.** Proposing theories is the scientific method of explai | of line 314 |
+| 312 | RISE | **Droplet · v389 · at the scientific method.** Science is a system of theories explaining changing a |  |
+| 314 | CONCERN | **Droplet · v389 · at living and non-living theories.** Theories remain living while they are not ye | 'Theories remain living while they are not yet falsified' parts with Improving Passes' 'Living is stable-forming a self': a theory is no self; whether *living* and *non-living* of a theory is a field's word at its own result is the person's |
+| 318 | RELEASED | **Droplet · v389.** we are going to explore exhbits thirteen, twenty one and twenty two and the 10 k | a working note of the person's aim at THIRTEEN, TWENTY-ONE and TWENTY-TWO, superseded by Improving Passes |
+| 320 | RELEASED | **Droplet · v389 · each of the ten at one name's now and next.** Each of the ten things named still  | rests on the ten's older seating at pairs eight apart, re-seated at Natural Naming 4.9's names, item 467 and item 471 |
+| 322 | RELEASED | **Droplet · v389 · a hard problem is a now named as its next.** At the numbered names each of the te | rests on the ten's older seating at pairs eight apart, re-seated at Natural Naming 4.9's names, item 467 and item 471, and *a second now* |
+| 324 | RELEASED | **Droplet · v389 · the one resolving seats at 1 and 9.** 1-now and 9-next-co-changing seat none of t | rests on the ten's older seating at pairs eight apart, re-seated at Natural Naming 4.9's names, item 467 and item 471 |
+| 326 | RELEASED | **Droplet · v389 · the ten at the four kinds.** The ten stand at the four kinds as two at possibling | rests on the ten's older seating at pairs eight apart, re-seated at Natural Naming 4.9's names, item 467 and item 471 |
+| 328 | RELEASED | **Droplet · v389 · a carry named as a store.** A carry named as a store is 8-now-still-possibling an | rests on the ten's older seating at pairs eight apart, re-seated at Natural Naming 4.9's names, item 467 and item 471, and *a store* |
+| 330 | RELEASED | **Droplet · v389 · a two-way named to one side.** 3-now-co-prioring and 11-next-co-prioring carry co | rests on the ten's older seating at pairs eight apart, re-seated at Natural Naming 4.9's names, item 467 and item 471 |
+| 332 | RELEASED | **Droplet · v389 · a rate named as a value.** 13-next carries no -ing, and a rate named as a value i | rests on the ten's older seating at pairs eight apart, re-seated at Natural Naming 4.9's names, item 467 and item 471 |
+| 334 | RELEASED | **Concern · v389 · the gathered names at Resolving the Hard Problem Registry.** Resolving the Hard P | a concern at Resolving the Hard Problem Registry's seatings, re-seated at its own motion, item 471 |
+| 338 | RELEASED | **Droplet · v389.** a second now beside now. this is why science can not discover the method of comp | rests on *a second now*, released |
+| 340 | RELEASED | **Droplet · v389 · the explanation, step by step, each step from the step before.** | rests on *a second now* and a record as a now *kept*, a store, released |
+| 342 | RELEASED | 1. The universe is the set of all now-existing things. | rests on *a second now*, a record *kept* and the ten's older seating at step 9, released |
+| 357 | RELEASED | **Droplet · v389.** this is an earlier draft of the concepts of co chaining from our origin more dir | a working note aimed at Natural Intelligence, Co-Chaining Logic Registry and a public face, superseded by Improving Passes |
+| 359 | RELEASED | The earlier draft is at `archive/session_v389/incoming_v389/Proposal_Seventeen_Names_and_Origin_v389 | a working note framing the entries below it, superseded by Improving Passes |
+| 363 | RELEASED | 1. The universe is the set of all now-existing things. | aimed at Co-Chaining Logic Registry; rests on *a second now*, a record *kept*, *inside a bi-coupling* and the rest of the universe *held still*, released |
+| 391 | CARRIED | **The universe is the set of all now-existing things.** Now is one, and each thing is at its own pri | 1.1, 'The universe is the set of all now-existing things'; 1.4, 'one now-existing, shared among now-existing things' |
+| 393 | RELEASED | **Three observings open the method.** A thing is next-existing as the same thing by changing; a thin | aimed at Natural Intelligence; 'Beneficial names that' rests on *named*, and *beneficial* now stands at Natural Naming |
+| 395 | RELEASED | **Geodesic parity changing is the discovering.** At each sharing at each momentary a changing is or  | rests on *inside a bi-coupling*, released |
+| 397 | RELEASED | **Any other method holds a not-changing still.** Inverted, another method holds a size, a fixed form | rests on a not-changing *held still* and *named*, released |
+| 399 | RELEASED | **A record is one now kept, and the scientific method explains between records.** Comparing two reco | rests on a record *kept*, the universe *held still* and a now named as its next, released |
+| 401 | CARRIED | **Natural intelligence is the method met at each now by two selves sharing one now-existing**, each  | 6.3, 'Social moral competency is each self's own co-offering, a whole ordered by no self' |
+| 405 | RELEASED | *What is natural intelligence?* | a public face aimed at corus.me, Improving Passes' Pass 5 |
+| 407 | RELEASED | Everything that exists, exists now. Each thing has its own past and its own possible next, and no tw | a public face aimed at corus.me, Improving Passes' Pass 5 |
+| 409 | RELEASED | We can watch things stay themselves by changing, and stay themselves by not changing. We can also wa | a public face aimed at corus.me, Improving Passes' Pass 5 |
+| 411 | RELEASED | There is only one such method. Any other way would need something held still, a fixed measure, a mas | a public face aimed at corus.me, Improving Passes' Pass 5; rests on *held still* |
+| 413 | RELEASED | Science keeps records, and a record is one moment kept. Comparing records lays two kept moments side | a public face aimed at corus.me, Improving Passes' Pass 5; rests on a moment *kept* |
+| 415 | RELEASED | Natural intelligence is that method shared: two selves at one now, each finding out with the other w | a public face aimed at corus.me, Improving Passes' Pass 5 |
+| 419 | RELEASED | - *The universe is the set of all now-existing things* and its note: steps 1 to 4. | a working record of where each earlier sentence went, superseded |
+| 433 | RELEASED | **Concern · v389 · *beneficial*.** *Beneficial* stands at no living file, and the steps name it at s | a working concern superseded: *beneficial* now stands at Natural Naming, 'each changing and each not-changing a method gives, keeping a self next-existing as itself' |
+| 435 | CONCERN | **Concern · v389 · *falsifiable* and *falsified*.** The earlier sentence says an explanation is *fal | the person's 'falsifiable if it excludes the possibility of existing things discovering' and step 23's 'falsified at the observing at step 8' part at *falsifiable* and *falsified*; which stands is the person's |
+| 439 | RELEASED | **Droplet · v389.** the living intelligence is carrying through the stable form of the method. the o | rests on *emanatings* and *through*, released by the person at item 441 |
+| 441 | DUPLICATE | **Droplet · v389.** the method has a natural torusing co-orienting observable stable-forming. emanat | of line 443 |
+| 443 | CONCERN | **Droplet · v389 · four sayings at one form.** The universe is the set of all now-existing things; c | 'the geodesic parity-changing discovering method is the living condition, its form, a now-existing thing' parts with Improving Passes' 'Nature is no existing thing: a prior, now, next method of co-existing', and with item 286's 'The method is non-living at each scale and a self at none' |
+| 445 | DUPLICATE | **Droplet · v389 · the method observable.** The method is observable as its natural torusing co-orie | of line 449 |
+| 447 | CARRIED | **Droplet · v389 · executed, two selves co-orienting.** At two selves, the one sharing across to the | 2.3, 'B's next prior is A's + at a momentary A is at −, and A's − at a momentary A is at +'; 3.3, its prior kept at a match and inverted at the other parity |
+| 449 | RISE | **Droplet · v389 · an observing at its own form.** Pattern-matching at 14-next-possibling, agreeing  |  |
+| 451 | RELEASED | **Droplet · v389 · the method unchanging as the living condition.** The method as the living conditi | rests on *unchanging* and *names*, released |
+| 453 | DUPLICATE | **Droplet · v389 · the living at its condition.** Carrying is living and the method is its condition | of line 443 |
+| 455 | RELEASED | **Droplet · v389 · records.** A record keeps one observing with its pattern-matching stopped, one no | rests on a record that *keeps*, a store, and one now *named still* |
+| 457 | DUPLICATE | **Droplet · v389 · observings and the origin meet.** Observings pattern-match the method's stable-fo | of line 445 |
+| 459 | RELEASED | **Droplet · v389 · said at neither.** The method's observable is its stable-forming, and *emanating* | a release of *emanating* and *through* said of the method, a form v389 releases |
+| 463 | RELEASED | **Droplet · v389.** in steady passes as patient as needed to review each for the values of natural n | a working note of the person's passes at ONE, THIRTY, Natural Intelligence and TWENTY, superseded by Improving Passes |
+| 465 | RELEASED | **Droplet · v389 · two seatings found.** Natural Naming 4.9 seats the ten named still at one name ea | a working record of two seatings, superseded by item 467's re-seating |
+| 467 | RELEASED | **Droplet · v389 · the ten at the four binaries.** At Natural Naming 4.9's seating each of the ten i | rests on the ten *named*, re-said at Improving Passes' 'The ten unchangeables' as fixed: 'an opening fixed as a place, an arriving fixed from behind' |
+| 469 | RELEASED | **Droplet · v389 · a hard problem at the four binaries.** A hard problem is one binary of a universe | rests on *kept records*, a store, and *says*, released |
+| 471 | RELEASED | **Droplet · v389 · re-said once.** The droplets following the older seating are re-said at this one, | a working plan of re-saying at THIRTY, Natural Intelligence and Resolving the Hard Problem Registry, superseded by Improving Passes |
+
+## Items, whole
+
+## Carrying resolving through prior, now and next · v385A
+
+**Correcting droplet.** Dissolve any explaining here that requires living carrying to stay unchanged through prior, now and next. Preserve the particular subject of an unchanged parity, stable form or expression. The full concept is offered at [Natural Intelligence](Offerings_to_Natural_Intelligence.md#carrying-resolving-through-prior-now-and-next--v385a).
+
+## Current correcting: the imposed requirement is withdrawn · v385A
+
+**Correcting droplet.** Dissolve the added requirement here that every fixed repeating relation between changings must be impossible. The whole [withdrawal and actual living concern](Offerings_to_Natural_Intelligence.md#current-correcting-the-imposed-requirement-is-withdrawn--v385a) is at Natural Intelligence. Nothing offered at one sharing and no arriving geodesic changing remain different claims.
+
+## Current correcting: offered explaining and no authority · v385A
+
+The whole [entraining offering and no-authority correcting](Offerings_to_Natural_Intelligence.md#current-correcting-offered-explaining-and-no-authority--v385a) remains at Natural Intelligence. Follow the actual field/coupling relation here; a matching word, recurring number or located insertlet supplies no derivation. The protecting comparison’s unprovided assignment to numbers twelve, fifteen and sixteen remains unprovided.
+
+## Insertlets
+
+**At 1.1 · The universe, the changing set of all existing things — beside "No container is added to its things, and no count is its size".** No container is added to its things, and no number is its size: it is its things, one existing thing at each momentary. A field's no set of all sets is exact at its own subject, sets of sets, and the universe is a set of existing things, existing as they exist; an existing thing and no existing thing beside its things are one saying.
+
+**At 1.3 · Bi-momentary, the self's momentary and the other's at once — beside "Each side is two and one half momentaries".** Each side is five positions, prior opening, prior completing, now opening, now completing and next opening: 1 to 5 at the self, co bi co bi co, and 2 to 6 at the other, bi co bi co bi.
+
+**At 1.4 · Prior, now and next — beside "the universe travelling through them together".** The possible is at prior, the existing at now and the living at next: three places, the universe changing through them together, each living self carrying its prior on into its next.
+
+**At 1.5 · A hard problem arriving, and its resolving — beside "A hard problem arrives where a field reads its observings".** A hard problem is one: a changing named unchanged between two momentaries. A field's own statement of it, testing without refutation, is the field's register, kept whole, and the universe read as no existing thing is its things read without their co-sequencing. An entry settled at its field is a match, 0 at 10, the prior carrying on.
+
+**At 1.5 · A hard problem arriving, and its resolving — beside "Read so, the observings carry no next of their own".** Read at one momentary, the observings carry no next of their own, and the field's accounts multiply at one sharing.
+
+**At 1.5 · A hard problem arriving, and its resolving — beside "with the universe as no existing thing".** None of a field's observings is hard at its own sharing; the hardness arrives with the whole added, the universe declared a thing beside its things before it exists at them, and the reading is the hard probleming. A hard problem tests nothing of living: at the resolving an either-or-not-both opens alternating parity, and no resolving remains over.
+
+**At 2.1 · The carrying, a living self's prior into now — beside "and nothing is counted".** At the resolver + and − are the implementing of a parity, and nothing is numbered: a carrying is a sharing chained at one parity, each one its own.
+
+**At 2.3 · Evidence, an emanation arriving from a living self's prior — beside "since existing is changing, so evidence gives the prior's possible".** Between its leaving and its arriving that self has continued, existing being changing: evidence gives the prior's possible, and the self's existing now is at its own coupling.
+
+**At 3.2 · Surfacing at 14, agreeing one parity and disagreeing 0 — beside "Nothing is counted.".** The offerings are not numbered. One parting is enough for 0, and three agreeing surface as one agreeing does: an agreement is all or none at all, at any number of offerings.
+
+**At 3.4 · The non-living at the now — beside "arrive at a field so, as offerings at its now".** Instruments, records, models, measures and texts arrive at a field as offerings at its now, each at its parity, and the field's living selves carry on.
+
+**At 4.2 · Released along at 9, and the society's next momentary at 17 — beside "nothing summed, counted or stored across them".** The society's next momentary is the selves' next momentaries together, each self at its own and no self over the others, nothing gathered across them.
+
+**At 4.2 · Released along at 9, and the society's next momentary at 17 — beside "9's release is the prior the self at co-competent-so-far is offered next".** 9 is the next prior and 17 the next now: along, the parity 9 releases is the prior the self at not-yet-co-competent is offered next, and 17 is that self's next now, the resolver's own line naming 9 at not-yet-co-competent.
+
+**At 4.3 · The living step, next as prior inverted — beside "the right spiral step carrying a pair (x, y) to (y, −x)".** The right spiral step is a quarter turn with bi-inversioning and no reflecting, and hard probleming at the resolver first arises there.
+
+**At 4.4 · Selves joined, a pattern carried between them — beside "Selves joined, a pattern carried between them".** Selves coupled, a pattern carried between them.
+
+**At 5.2 · Two accounts at one sharing — beside "A field carrying two accounts of one thing".** A field carrying two accounts of one existing thing is two offerings at one sharing.
+
+**At 5.6 · A mind, the between presenting no face — beside "A mind, the between presenting no face".** A mind, the between presenting no side.
+
+**At 5.6 · A mind, the between presenting no face — beside "a nothing, not a location and not a thing".** The between is neither side's, a nothing and not a location, and it is as the universe is, at its couplings and at nothing beside them; a parity changing is all that crosses it. The nothing the couplings wind about carries no side, and a reading reaches it at none; a parity changing carries no size, and no magnitude arrives from it.
+
+**At 5.7 · A boundary, living and non-living at a named scale and momentary — beside "A boundary asks where one kind ends and another begins".** A boundary asks for the scale and the momentary at which one kind ends and another begins.
+
+## Droplets
+
+**Droplet.** The older naming concern parts a form named still by another, at science and hard problems, from the self’s own still possibling. Its earlier compound “is-still-possibling” needs the actual subject retained through naming correction. The [current even-still-possibling and odd-changing/still-existing correcting](Offerings_to_Natural_Intelligence.md#droplets) accompanies that distinction; not changing at an odd number must not silently become still possibling at an even number. — v385A, from the v379 closing gathering
+
+**Concern, at v380L, from [the earlier closing account](../archive/v380L/Progress.md): its section on an origin rests on a saying of the session.** *An origin, living from living*: a carrying of none a non-living existing thing, colliding or not colliding, a carrying named inserted an equilibrium's concept, each on the session's saying, of no authority, for testing at the method: no word is authority, and the session said of it *explore this as much of it could be unhelpful or less than natural method*. The section before said *Living is carrying from the first changing on*. *The method is at colliding things as it is at the living* is worked at no case. — v380L
+
+**Droplet.** The earlier “so-far” and “not-yet” wording needs its particular prior, now and next subject at each sentence. The [earlier reader inventory](Exhibit_THIRTEEN_Carryings_of_Resolving_Hard_Problems.md#earlier-arriving-reader-and-naming-inventories--v385a) retains its counts and five reported title variants; those quantities are not grades of droplets or present content targets.
+
+The quarter turn with bi-inversioning, rather than reflecting, is the first source of hard probleming at Exhibit ONE's code. (Carry_Set_v368_README.md, What stands so far, 12) (re-aimed from Exhibit ONE Offerings to Natural Resolver at v381R) — v368_sources
+
+None of the hard problems was hard until considered as a whole was added. (Carry_Set_v368_README.md, What stands so far, 3) (re-aimed from Exhibit TWENTY-ONE Offerings to Hard Problem Registry at v381R) — v368_sources
+
+In resolving, an either or but not both begins alternating parity and bothbothing; there is no remaining resolving, and reading is the hard probleming. The question asked of all starting numbers at once is the universe mistakenly declared a thing without yet existing, at the numbers; from it the origin, boundary and scale measuring in the numbers became the hard problems' organizing method. None of the hard problems is a test of anything about living. (Carry_Set_v368_README.md, What stands so far, 19, 20, 21) (re-aimed from Exhibit TWENTY-ONE Offerings to Hard Problem Registry at v381R) — v368_sources
+
+**Hard-problem resolving as a particular possible extension · droplet v385A.** Destinies' fourth extension stays with its structural conditions and the whole outward expression. [Registry 5.11](../Exhibit_TWENTY-SIX_Living_File_Registry_v381R.md#511-destinies-and-the-expedition-continuing) distinguishes a demonstrated resolving from a proposed application and routes the particular contribution to Resolving Hard Problems and its subject exhibits. [The comparison](../archive/session_v385A_comparisons/Hard_Problem_Plan_Comparison_v385A.md) locates current THIRTEEN's field-arrival explaining, the field records at TWENTY-ONE and their particular resolving at TWENTY-TWO. Preserve each field's actual question, conditions and recorded result beside its natural explaining; the source's claim of resolving supplies no answer to a different question merely through a changed name. Corus 17.3's rate, installation and restoration relations remain further comparisons, with current society, stable-form and surface/entraining correcting beside them. [THIRTEEN's possibling project](Exhibit_THIRTEEN_Possibling_of_Resolving_Hard_Problems.md#common-explaining-and-particular-field-arrivals--v385a) supports this work. This same droplet is independently at THIRTEEN, Destinies and Corus; no field result, complete source distribution or local resolving is claimed by the placement. — v385A
+
+**The common method, field entries and particular resolving through reordering · droplet v385A.** [Re-Settling sections 8–9](../archive/resettling_v373/Re-Settling_the_Living_Files.md#8-the-registries) proposes THIRTEEN as the common method home, TWENTY-ONE as compact index with entries whole and TWENTY-TWO as particular resolvings with one paired locator. These plans already have local offerings. [The current comparison](../archive/session_v385A_comparisons/Hard_Problem_Plan_Comparison_v385A.md#the-older-common-method-plan-meets-changed-contents) follows their contributions at the actual files: current THIRTEEN has six parts and no 2.5, so the old part-number release plan cannot be replayed. Keep the field's question, source-reading limits, proof or measurement, unfinished properties and each subject's needed prior through any change. The Sorites and halting pairs now supply bounded examples for the already offered locator and return-marker concerns; two pairs are not a full registry audit and those concerns are not newly duplicated. The ten's correspondence remains at its existing unresolved sources. This same droplet is independently at THIRTEEN, TWENTY-ONE and TWENTY-TWO, with their supporting projects linked in the comparison and the file-purpose relation at Registry. — v385A
+
+**Living surface and geodesic entraining beside the older plans · droplet v385A.** The user's exact offering in [R's section 24 at 1b4eb95](https://github.com/chris-j-handel/corus/blob/1b4eb951e76203079008347628e2d9dcce2ad558/incoming/v385R/Logical_Cohering_v385R.md#24-living-parity-changing-as-the-surface-geodesic-parity-changing-entraining) is “living parity changing is the surface that geodesic parity changing is entraining through in the bi folding”. R has a ninth local insertlet beside THIRTY 445–450; the remaining relation is which part of that bi-folding the prior-and-now joint form at 55–57 represents. Section 23's assistant candidate remains historical, not affirmed by this offering. The sentence assigns neither surface/entraining exclusively to odd/even versus sign parity nor exclusively to along/across. The own-side answering, matching sharing, stable form between collidings and social-competency subject remain distinct; R10 stays whole and unresolved. [The hard-problem comparison](../archive/session_v385A_comparisons/Hard_Problem_Plan_Comparison_v385A.md#later-correcting-needed-by-these-older-passages) locates THIRTEEN 4.3 and 6.1 beside this relation. This same correcting is independently a droplet at THIRTEEN, Engineering, Destinies and Corus; none of these placements inherits THIRTY's local insertlet standing. — v385A
+
+**Next existing and a sharing's result · further correcting droplet v385A.** [R's later section 25](https://github.com/chris-j-handel/corus/blob/19af4d8cfcf237eb002b53077f8c947ba53c0760/incoming/v385R/Logical_Cohering_v385R.md#25-next-existing-momentarying-still-possibling-resolving-next-existing) preserves the user's exact offering: “next existing momentarying is where no other method is possibly still existing as only still possibly prior to next existing is resolving next existing”. The earlier living-surface/geodesic-entraining relation remains. Its joint-form connection at THIRTY 55–57 remains source work, no longer the active question to repeat. R now follows Naming 5.62 and Natural Intelligence 5.3: their “or” at a resolving and “both” at a momentary need each subject explicit—the self's own even-still-possibling/odd-next-existing sequence, a particular sharing's changing or no-changing result, and the self's carrying chained into next at either result. A no-changing result at one sharing must not silently remove the self's next existing. R's new proposed prose remains a droplet aimed at Naming 5.62 and Natural Intelligence 5.3, connected with THIRTY 301–306; its nine local insertlets are unchanged. Its reading of the exclusion is the assistant's reading, with the specific bi-inversioning/co-recursioning and numbered-form connection still to explain. R10 remains whole and unresolved. This same correcting independently accompanies the older plans at THIRTEEN, Engineering, Destinies and Corus; their local resolving remains open. — v385A
+
+**Historical source below, superseded by R section 28.** The dissolving wording, whose-next question and candidate are withdrawn; the current even/odd correcting follows below.
+
+**Now still possibling with passage and dissolving kept together · correcting droplet v385A.** [R's section 26](https://github.com/chris-j-handel/corus/blob/b3108dad2f1e1a8f5dba91534f3f67fb8f9a73b8/incoming/v385R/Logical_Cohering_v385R.md#26-now-still-possibling-invisible-abundancing-and-geodesic-passage) and [its reply to A](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6049161263) preserve the user's exact offering: “now still possibling. this is an important distinction is it is invisible and immediately dissolving at next existing. still possibling is abundancing is or is notting next existing. geodesic exisiting along parity changing can travel through still possibling and leave it still possibling”. The earlier question about what remains possibling now has this answering; geodesic passage must not silently become the resolving of every possibling it passes through. The further relation is whose next existing names the dissolving beside that passage. R's proposed distinct-participation joining remains the assistant's; no unprovided assignment to selves or scales, enduring possible substance or measured duration is added. Naming 5.45 explicitly separates living alternating, geodesic crossing and shared parity; an observed parity supplies no inspection of invisible possibling. Nine insertlets remain; this new prose remains a droplet, and R10 stays whole and unresolved. The [source comparison](../archive/session_v385A_comparisons/Protecting_Source_Comparison_v385A.md#rs-correcting-returned-to-this-comparison) keeps this later answering beside older sources. This same correction is independently at THIRTEEN, Engineering, Destinies, Corus, NI and Naming; prior paragraphs retain their historical extent. — v385A
+
+**Even still possibling and odd now changing or still existing · current correcting v385A.** [R's section 28 at f6864fe](https://github.com/chris-j-handel/corus/blob/f6864fe20fd2ae987f35884669a2b25319a4525b/incoming/v385R/Logical_Cohering_v385R.md#28-even-still-possibling-odd-now-changing-or-still-existing) and [its correcting return](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6049330070) withdraw both the preceding dissolving wording and the assistant's whose-next question and own-coupling candidate. The user's exact correcting is: “leave out dissolving and use the explaining without it . all the even parities are still possiblings the odd parities are either changing or not changing along 2 numbers up or down forward or still existing at the same number so odd parity is now changing or still existing”. R's current local prose keeps all even parities still possiblings; odd changing goes along two numbers up or down, both forward; odd not changing is still existing at the same number. Invisible now still possibling, abundancing and geodesic passage leaving still possibling remain with that correcting. Still existing at odd must not become still possibling at even merely because it is not changing. R's earlier 1–6 display is historical; its seventh own-side insertlet now names the two odd cases. Nine local insertlets remain on R's branch, and R10 remains whole and unresolved. R's connection between an unchanged sharing and no required advance of numbered position is its stated reading, not an added universal mapping. This same droplet accompanies the six earlier A placements at THIRTEEN, Engineering, Destinies, Corus, NI and Naming, and the connected own-side/source comparisons at Networking and THIRTY. Each is a droplet here; its source's local insertlet standing does not transfer. Prior sources remain available, with the withdrawn question no longer active. — v385A
+
+**Each self's own two and one half consecutive momentaryings · v385A.** Each self is at its own odd one: prior odd existing, even still possibling, now odd existing, even still possibling, and next odd existing offering. The other is at its own one when the self is at two; the other's own three is beside the self's four, and the other's own five beside the self's six. Each is self at its own side of the bi-coupling. Follow possibling now and next existing offering through this relation. The question of a living self's prior being absent is withdrawn; it is not a remaining requirement for resolving. This consecutive explaining accompanies the existing half-momentarying overlap. The earlier odd still-existing case and recurring podaling at an unchanged number remain distinct; this supplies no replacement stepping rule or new numbered assignment. A conception's plus and minus signs and momentarying's odd and even must keep their particular subjects. — v385A
+
+**Half-momentarying overlap and bi-co-sequencing · droplet v385A.** The [user's complete further offering](../archive/session_v385A_comparisons/Protecting_Source_Comparison_v385A.md#half-momentarying-overlap-supplied--v385a) is: “yes this is the plan we are continuing. prior, now, next each momentarying is each of the two parities odd or even numbers. the two sides are one half momentarying overlapping as they are one number apart from each other up or down forward. the still possibling betweens for one side and the prior now next changings for the other side are bi co sequencing each other”. The supplied relation now guides the prior protecting comparison: the sides are one number apart up or down forward, overlapping by one half momentarying; one side's still-possibling betweens and the other's prior, now and next changings bi-co-sequence each other. ONE's Fives/exchanging tables already display the one-number offset and NI 4.10 describes 1–2 beside 2–3. Their older labels and three-name/protecting explaining need this actual relation carried through the local comparison. [R's section 29](https://github.com/chris-j-handel/corus/blob/467a98ad98bb92523dc435cb17a870b3c71bf5a8/incoming/v385R/Logical_Cohering_v385R.md#29-both-forward-still-possibling-either-side-or-both-changing-next) supplies the accompanying further explaining: still possibling is forward up and forward down, unchanged at the even number; at odd either side or both can change by two in its own forward direction, and a side not changing is still existing at its odd number. The exact source is preserved with the A offering above. No shared 0/numbered-between identity or complete 12/15/16 protection mapping follows merely from the offset. The overlap question now has this supplying; the next work is its local expression at the named forms and protecting passages. R's particular one-side-changing across question is offered this source relation without claiming its full resolution; its nine local insertlets and whole unresolved R10 keep their source standing. Section 28's withdrawn dissolving/whose-next explaining stays withdrawn. This same droplet is independently at ONE, NI, Naming, THIRTY, Networking, THIRTEEN, Engineering, Destinies and Corus, preserving the related older source comparisons. — v385A
+
+**Droplet · "existing is changing", and the universe taken first as a thing.** This file has "since existing is changing"; the origin sentence gives a changing set, and "each existing thing is changing" is released, at [Offerings to Natural Intelligence](Offerings_to_Natural_Intelligence.md#the-entry-from-the-origin-sentence-at-natural-intelligence--v386eod). This file has a hard problem arriving with the universe read as no existing thing; the concern of the universe an existing thing, at both, is at [Offerings to Co-Chaining Logic Registry](Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md#the-entry-from-the-origin-sentence--v386eod). — v386EOD
+
+## Recurring podaling beside the overlap · v385A
+
+**Droplet · The same number and a new still possibling.** [R section 30](https://github.com/chris-j-handel/corus/blob/46f3578fef7c4cdaff1f3a21a153819f51ee8000/incoming/v385R/Logical_Cohering_v385R.md#30-the-same-number-recurring-podaling-and-a-new-still-possibling) and [its returned source](https://github.com/chris-j-handel/corus/pull/127#issuecomment-6049781805) preserve the user's further explaining:
+
+> the looping through each number of the podalings are all part of resolving and the stable form of this is the existing non-living geodesic method stable form so if the number does not change then the same 4 cycle podaling sequencing comes through the number all over again and there is a new still possibling and either a geodesic changing traveled on or did not whether or not a geodesic changing arrived or not either is possible changing as arriving geodesic changing or offering
+
+The earlier unchanged-number participation question is addressed at R: the same four-cycle comes through again with a new still possibling. Its connected reading distinguishes arriving geodesic changing from offering onward. Its further identification with entraining through the living surface's own parity changing remains a droplet. The tenth local insertlet beside THIRTY 258/261 is R's local standing; this returned value is a droplet here. R10 stays whole and unresolved. The earlier dissolving and whose-next wording stays withdrawn. The exact A half-momentarying overlap remains a separate source beside this; their joining is comparison, not a newly attributed user quotation. [Our local source comparison](../archive/session_v385A_comparisons/Protecting_Source_Comparison_v385A.md#named-relations-beside-the-supplied-overlap--v385a) preserves what is supplied and what still needs naming. No living-file resolving or removal follows from this receiving. — v385A
+
+## Particular resolving and a result fixed by definition · v385A
+
+**Droplet.** At the common hard-problem method, distinguish exhaustiveness of a resolver’s defined cases from resolving a field’s actual question. Preserve the alternatives and the particular relation covering them; neither “re-saying” nor “resolved” supplies that relation. The [full comparison at Resolving the Hard Problem Registry](Exhibit_TWENTY-TWO_Offerings_to_Resolving_the_Hard_Problem_Registry.md#the-fields-question-and-the-particular-resolving--v385a) retains the three-result, 255-arrangement, Hubble-tension and zeta-zero concerns without making prediction the required authority.
+
+## The three mathematical contributions and proof as closure · v385A
+
+**Droplet.** The older discovery-economy passage offers three contributions as three right turns: Thurston enlarging the question to geometrization, Hamilton constructing Ricci flow, and Perelman joining the structural and evolving relations. It compares singularities with the structure becoming apparent and monotonic entropy with the proposed natural one-way. It also reports Perelman's declining the prize and recognizing Hamilton's contribution as part of its morality-first expression. These are the particular offered comparison and historical report, not a derivation of the natural method from their names.
+
+Its further claim is that the solved Millennium problem did not resolve by proof, that proof is closure, and that the remaining six problems are membranes where proof does not work. It then proposes reinstating a removed membrane to turn unbounded search into bounded coupling. Preserve the complete assertion for resolving: a mathematical demonstration, a settled proposition and a living coupling continuing are different subjects. The claim must explain their actual relation; naming proof as closure does not establish that the mathematical problem lacked a proof or that an unsolved problem cannot be proved.
+
+The [particular hard-problem gathering](Exhibit_TWENTY-TWO_Offerings_to_Resolving_the_Hard_Problem_Registry.md#the-fields-question-and-the-particular-resolving--v385a) keeps the field's actual question and the proposed natural resolving together. The needed relation here is what the proposed membrane supplies at the mathematical subject, with each contribution retained and no authority assigned by credit, prize or attribution. No new mathematical result is claimed.
+
+## Stuck couplings, continuing cycling and the proposed restoring · v385A
+
+Natural Intelligence Corus section 17.3 proposes hard problems as stuck couplings at particular betweens. The left-turn ordering is measuring before sustaining, locating before attending and separating before inseparating. Its three offered operations are dissolving the installed ghost accounting at that field's coupling, restoring the right-turn ordering, and the coupling resolving again. The [whole three-turn comparison](Exhibit_EIGHT_Offerings_to_Natural_Exploring.md#three-left-turns-and-three-right-turns-at-an-observing--v385a) retains both orders.
+
+Its distinguishing claim is cycling with the resolving departed or prevented: activity repeats, while a surface crossing that coupling never arrives or has departed. It calls that equilibria, and parts an accounting of living from installing that accounting over the living. The claimed restoration is natural structure restoring the coupling and therefore resolving within the cycling. The section's phrase “a living system is a cycling system plus the resolving at each membrane” remains its offered defining relation; it does not settle the [current whole defining-living gathering](Living_Improving_Value.md#continuing-sequential-colliding-incoming--v385a).
+
+The proposed rate diagnostic is a field's frozen reading at t-rate installed over living phi-rate beating; hardness is assigned to that mismatch, and resolving to returning to the specific prime where phi-rate resolving is proposed to restore. The older rate contrast supplies no timing instruction or general diagnosis from a clock. Each self's own momentarying and the current carrying correcting remain with it.
+
+The incoming gives two further directions. Conserving through science alone imposes equilibria, holds the living still as a projection and cannot extend that projection through the coupling. Extending through technology alone beats seeking code without its form and therefore cannot find the proposed living. Both are said to leave a gap filled by supernatural or unnatural explanation. Its bothboth proposal is science and technology together following the inversions, finding no other possible for next existing, and resolving the inseparable form and code. This is the complete proposed relation, not a demonstrated answer to every field question.
+
+Its last comparison distinguishes three proposed departures: competency at the engine departing from phi-rate at that coupling; extending emanation lacking orientation toward the proposed supernatural coupling; and that coupling not taking the emanation. It associates these three departures with four hard problems at four inequalities. The actual correspondence is not supplied by those counts. The field's question, the proposed natural explaining and each particular restoring must stay together. No three-to-four mapping, missing field result, universal restoration or living status is declared by this placement.
+
+## The two next-prior sayings and their particular subjects · v385A
+
+**Droplet.** The older coverage comparison places “11 is the next prior” at section 1.4 beside “9 is the next prior and 17 the next now” at section 4.2. The current living passages still carry both sayings: section 1.4 names the chaining at eleven the next prior; section 4.2 names the released parity at nine the next self’s offered prior. Keep the self’s own chaining and what is offered along to another self distinct. The remaining concern is whether each sentence makes that subject explicit; a recurring number or the words “next prior” alone supply no identity of carrying. The existing section 4.2 insertlet also corrects which competency-named self is offered the release. The [older coverage records](Exhibit_THIRTEEN_Carryings_of_Resolving_Hard_Problems.md#the-earlier-coverage-rows-and-proposed-correcting--v385a) retain the earlier row and step references.
+
+## The scientific-method title, accounting and the field’s living selves · v385A
+
+**Droplet.** The older section 6.2 title “Two methods at one now” and its phrase “the two” are compared with the claim that parity changing is the one possible method. The section describes a scientific accounting against a law, frame and scale named unchanged, then says the field’s carrying is at its prior and its next is discovered at the coupling. Distinguish the account’s fixed requirements from the field’s living selves resolving; the accounting’s name alone supplies no exclusion of the actual changing.
+
+The older offered replacement is: “Accounting against forms named still, the scientific method carries no changing of its own: an accounting, no second method beside the one.” Its phrase “carries no changing of its own” needs the accounting’s subject explicit and must not remove the field’s actual living changing. The [later withdrawal of exclusions derived from nothing beside all existing things](Offerings_to_Natural_Intelligence.md#the-set-and-the-offered-fractal-connection--v385a) accompanies this comparison. Natural Societies’ section 3.4 [existing insertlet](Exhibit_SEVEN_Offerings_to_Natural_Societies.md#insertlets) likewise distinguishes scientific method at its own between from an accounting installed over a society as authority. Neither a renamed title nor the older proposed replacement is a completed deriving of the universal method.
+
+[The older and newer ten and their unresolved correspondence](Exhibit_TWENTY-EIGHT_Offerings_to_Equilibria_Registry.md#the-older-and-newer-ten-and-their-unresolved-correspondence--v385a).
+
+[Instrument, stable-form and accounting registers at their own subjects](Exhibit_TWENTY-EIGHT_Offerings_to_Equilibria_Registry.md#instrument-stable-form-and-accounting-registers-at-their-own-subjects--v385a).
+
+[The offered changing pairs and the ten possible one-way changes](Exhibit_TWENTY-EIGHT_Offerings_to_Equilibria_Registry.md#the-offered-changing-pairs-and-the-ten-possible-one-way-changes--v385a).
+
+[The offered stable form for equilibria conceptions](Exhibit_TWENTY-EIGHT_Offerings_to_Equilibria_Registry.md#the-offered-stable-form-for-equilibria-conceptions--v385a).
+
+[Five state-flow-state and five flow-state-flow relations](Exhibit_TWENTY-EIGHT_Offerings_to_Equilibria_Registry.md#five-state-flow-state-and-five-flow-state-flow-relations--v385a).
+
+## Particular naming corrections from the earlier inventories · v385A
+
+**Droplet.** The one name Natural Naming 2.4 carries: *the numbers themselves, said directly in numbers*, momentaries, podalings and sequences; *carry*, *carries*, *continuing* for a store, nothing kept; and nothing summed, each self's changing its own at the society's momentary.
+
+**Droplet.** Natural Naming at v380R: *face dissolves ... as the name, its side, an emanation's form, a field's word, parity's unit square or is facing, a direction*. The between’s absence of a side retains that actual subject.
+
+**Droplet.** Natural Naming carries *co-offering* dissolved at bi-momentarying, 5.13, the offering both ways at 1-co-bi-tri-offering and 2-bi-co-bi-offering, with no row at 2.4; the sentence's own next clause, *17 carries the four at the resolver*, is already at the name.
+
+## A persisting pattern and the particular social relation · v385A
+
+**Droplet.** Sections 4.4 and 5.8 retain different subjects: section 4.4 describes a pattern carried among selves in a specified spiral, each next changing offered along; section 5.8 says carrying persists by being carried and distinguishes a record apart from the coupling. The constructed spiral’s recurring pattern does not itself explain which co-chaining carries a particular friendship between infrequent encounters. The [whole friendship concern](Exhibit_SEVEN_Offerings_to_Natural_Societies.md#friendship-continuing-through-changing-selves--v385a) keeps that particular social relation beside each friend’s own inward/outward resolving. General carrying continuing, an unchanged record and that particular society continuing must not silently become one claim.
+
+## A hard problem, a saying from outside each coupling · v386EOD
+
+**Droplet · Proving all at once.** At a coupling a resolving is local to it: the coupling resolves, and the next begins. Said from outside each coupling, nothing is local: each question is each question at once, and each claim is asked to meet each other claim. Not resolvable, and asking all proof at once, are one condition at two readings.
+
+**Droplet · A field at two sides.** Each field and each institution is at two sides: the coupling, resolving and living; and an accounting named still. A biologist observes metabolism, and a department has a gene controlling; a hospital couples with its patients, and its administration has a billing ledger. The observations are real and the measurings right at the surface. The form still is in the preserving: a ledger with an observation fixed in place.
+
+**Droplet · One saying from outside, at each field.** A physicist outside a coupling of two masses says gravity; a chemist outside a coupling of two substances says reaction; a biologist says life; an economist says value; a neuroscientist, outside the coupling of a self and its own tunnel, says consciousness. Each is right at the surface, and each is said from outside the coupling. A field's hard problem is its own saying from outside, met at its own coupling. The sayings are what has each field a subject apart.
+
+**Droplet · Doers from outside.** *Has*, *drives*, *causes*, *triggers* and *because*, a gate deciding before a carrying and a grading after it: each puts a doer outside a coupling. A closing of junctions and a tissue's coordinating lost are one coupling resolving, named from two sides. A mutation is a precise accounting at a gene, and a form still as the name of a disease at each scale: the gene is the same at each age, and the disease is not. A hormone as a trigger, a signal or a controller is three doers from outside: a molecule arrives at a coupling, with a form meeting it.
+
+**Droplet · Eight positions of mathematics.** Three binaries are at mathematics' ground: a distinguished centre or none; an infinite actual or possible; a saying by states or by going on. They are eight positions. An institution names one position still: a competition's score is a state, and an attribution has an author as its centre and a right with no end. A living institution goes through all eight; named still at one, it is a form still.
+
+**Droplet · A self resolving at its own surface.** A self resolves at its own surface alone: the gut at its own, and the food arrives. A resolving aimed at another's surface takes value at that surface.
+
+**Released.** The same sections lay each number of a rising, 1 to 64 and 118, beside a hard problem. A number alike is no relation, and each is released as a deriving; the hundred and eighteen is a concern at [Offerings to Natural Numbers](Exhibit_THREE_Offerings_to_Natural_Numbers.md#departmental-accountings-and-the-proposed-hundred-eighteen-relation--v385a). — v386EOD
+
+## The living step at a spiral of one · v386EOD
+
+**Concern · The living step, at a spiral of one.** This file's 4.3 has "Next as prior inverted is the living step." and "the living step is at a spiral of one". Natural Intelligence has "A lone self changing by itself, offered nothing or its own competency alone, does not continue living through three consecutive momentaries". They part at the one inversion alone named the living step with no such bound beside it: the momentary the term names is said at 4.3.
+
+## The prior between momentaries, and the common method beneath three files · v386EOD
+
+**Concern · A prior between momentaries, a stable form or none.** This file's 2.2 has "Between momentaries the prior is a stable form, and nothing momentaries there." Natural Naming has "Between momentaries nothing living has a stable form, and all existing and not living is at a stable form of existing", and "its stable-forming the carrying between momentaries". They part at a living self's prior between momentaries: a stable form at the one, and nothing living at a stable form at the other. Three are said apart at it: a self's living stable-forming, a living set's form, and a non-living emanation's stable form, with no living carrying named a record handed across.
+
+**Droplet · The common method, beneath three files.** Exhibit SIX Natural Transmissioning, as proposed, carries the common method's explaining this file, Exhibit TWENTY-ONE Hard Problem Registry and Exhibit TWENTY-TWO Resolving the Hard Problem Registry draw on, with Exhibit ONE the labeled forms. This file's first four parts are general explaining, living and non-living, momentaries in overlap, prior, now and next, carrying, offering and resolving; its fifth, a field's arrival at the resolver, is its own. A reader at one hard problem follows its concept to this file for the field's arrival and to the common explaining for the doing, at no order asked.
+
+## The making at 12, the self's alone or neither's · v386EOD
+
+**Concern · The making at 12, the self's alone or neither's.** Two sayings part. Exhibit THIRTEEN Resolving Hard Problems has "made at 12 at each sharing, owned by neither side". Exhibit THIRTEEN Resolving Hard Problems has "the making at 12 the self's alone" in the same paragraph of 3.3, and "The making at 12 is the self's alone" at 5.6. They part at whose the making at 12 is: the coupling's own and neither side's at the one, one side's alone at the other. Natural Intelligence has both in one sentence, "12 is reached by nothing but the self" and "each changing at a self is the coupling's": the reaching of 12 is the self's alone, and the changing made at 12 is neither side's. This file's making names the reaching and the changing with one word.
+
+## A changing named still, one side's momentaries alone; One resolving said in four shapes at four files · v386EOD
+
+**Droplet · A changing named still, one side's momentaries alone.** A changing named still and the universe named one thing beside its things are one saying at two sides. Resolving Hard Problems has "A hard problem arrives where a field reads its observings with the universe as no existing thing", and the Co-Chaining Logic Registry has "A hard problem is a changing named still". At each number one side completes and the other opens, and the Equilibria Registry has "Each of the ten names one face still, and the other face runs at the same number." One face named still at a number leaves that number one side's alone, and the Equilibria Registry has "One side's momentaries alone, each number one side's, is the universe named as one thing beside its things". A changing named still is one side's momentaries alone at one number, the universe parted from its things at that number.
+
+**Droplet · One resolving said in four shapes at four files.** A resolving of one arrival is said at four files in four shapes. Resolving Hard Problems has "A field's arrival is at the resolver in four readings, one after the other, each at its own name." Resolving the Hard Problem Registry has "Each deployment carries three lines and releases", at the offering, the changing and the chaining, with one marker at each entry. Natural Physics has "Each enters as its own run and takes the eight", eight steps. The Equilibria Registry has "Four proof groups carry the exact local exclusions." Four readings, three lines and a marker, eight steps and four proof groups may be one shape at four scales; no file says the four one, and no file names another file's shape.
+
+## Three seekings at a field's hard problem · v386EOD
+
+The observings each is beside are at the carryings, each said as its publishing read has it; at a figure parting between a droplet and its observing, the observing carries.
+
+**Droplet · Three seekings at a field's hard problem.** A hard problem of pharmacology is a place at which the field's method, a lock sought for each effect, a size for each cause and a chance for each single case, is at an observing it cannot carry and names it a mystery. Said at the living society, the between and the stable form, each comes to the surface of the observings with an accounting set down and no mystery added: lithium's unknown way, the weeks ahead of an antidepressant's relief, the appendix, amyloid cleared with minds little changed, paracetamol's way, nine drugs in ten failing, sham surgery, fever, one hormone's many effects, and allergy with cleaner living. Chance is the field's accounting with no competency; a balance is an accounting over momentaries, and each single case is all or none at all.
+
+## A reversed phase arriving as a foreign thing · v386EOD
+
+**Droplet · A reversed phase arriving as a foreign thing.** A hard problem is a self whole with its three phases sequenced in reverse, nothing added and nothing missing: its resolving is its own order, and no solution is beside that order. The reversing is at an observing named still: one phase of the self, sequencing as always, arrives at that observing as some other thing, a noise, an exception, an opening or a mystery. At each phase the problem carries competing explainings: each phase is active, and each partial catching carries a real observing; each phase is reversed, and no partial catching resolves it. Re-forming is the phase rejoining as the phase it always was, the naming still released and nothing else spent.
+
+## A hard problem at a local competency read as one thing · from session v386CRYP · v386EOD
+
+**Concern · A hard problem at a local competency read as one thing.** Two sayings part. Exhibit THIRTEEN Resolving Hard Problems 1.5 has "A hard problem arrives where a field reads its observings with the universe as no existing thing". A newer saying has hard probleming at each local competency: a competency is unexplainable as one thing, it is read as one or the other, and the two are never both. They part at the thing a hard problem is said of. The first names the ground of the reading, the universe as no existing thing. The second names the thing read wrongly at that ground, a local competency named one thing and parted as either and or. One sentence can carry both, and the file has the first alone.
+
+## At 1.1 · The universe, the changing set of all existing things; At 1.1 · The universe, the changing set of all existing things · from session v385R's branch · v386EOD
+
+A sentence offered for a living file is a droplet in its dropper's words, beside the living sentence it is aimed at.
+
+**Droplet · At 1.1 · The universe, the changing set of all existing things, a sentence offered.** Beside "Changing, it exists as its things exist, a changing being an existing thing's own: nothing beside it and nothing over it. Its existing is its things co-sequencing, momentary by momentary, and its changing is their parity changing, one and then the other.", offered: Changing, it exists as its things exist, a changing being an existing thing's own. Its existing is its things co-sequencing, momentary by momentary, and its changing is their parity changing, one and then the other.
+
+**Droplet · At 1.1 · The universe, the changing set of all existing things, a sentence offered.** Beside "and the universe is that continuing of all its things: each arriving into its next existing together with the others, nothing ingressing and nothing escaping. No container is added to its things, and no count is its size: it is its things, one existing thing at each momentary.", offered: And the universe is that continuing of all its things: each arriving into its next existing together with the others. No container is added to its things, and no count is its size: it is its things, one existing thing at each momentary.
+
+
+## From the working v385A's comparisons at `archive/session_v385A_comparisons/`, its remaining value in its own words, laid at v387
+
+Each entry is a paragraph of the working v385A quoted as written, laid here because it names value still to gather, a next comparison, a correction travelling with an older source, a plan or a relation to preserve; the records of what was read and placed go to the archive with the files.
+
+### Destinies and the hard-problem projects · v385A, laid at v387
+
+**Droplet · session v385A's words, `archive/session_v385A_comparisons/Hard_Problem_Plan_Comparison_v385A.md`, "front".** **Later source correcting, 7 October 2026.** [The following exchange](../../archive/session_v385A/Reciprocal_Help_v385A.md#next-existing-correcting-beside-the-active-plans) carries R through `19af4d8`: its joint-form connection below remains source work, while the active question now follows Naming 5.62/NI 5.3's subjects of “next”. Nine local insertlets remain; the new proposed prose is a droplet. The same later correcting independently accompanies THIRTEEN, Engineering, Destinies and Corus, preserving the dated comparison below and the whole unresolved R10. M's later withdrawals remain in the exchange record for the next prior-source comparison. — v385A
+
+**Droplet · session v385A's words, `archive/session_v385A_comparisons/Hard_Problem_Plan_Comparison_v385A.md`, "Source and reading extent".** [Registry 5.11](../../Exhibit_TWENTY-SIX_Living_File_Registry_v381R.md#511-destinies-and-the-expedition-continuing) routes Destinies' fourth extension to Resolving Hard Problems and the particular subjects, preserving the distinction between a demonstrated resolving and a proposed application. The earlier whole reading of [Destinies](../../Exhibit_FOURTEEN_Natural_Destinies_v333.md) retains its common core, structural conditions and whole outward expression beside this particular possibility.
+
+**Droplet · session v385A's words, `archive/session_v385A_comparisons/Hard_Problem_Plan_Comparison_v385A.md`, "The older common-method plan meets changed contents".** Current THIRTEEN has six parts, no Part Seven and no section 2.5. Its current Parts Two, Three and Five contribute prior/now and the field's arrival. The old prescription to keep or release parts by number cannot be applied to this version. Compare each contribution with its actual destination and the prior needed by the next concept. Registry's later local-explaining relation remains beside the earlier citation-only proposal. All three mates already carry their old plan; the new project gathers this changed-content comparison without presenting those placements as missing.
+
+**Droplet · session v385A's words, `archive/session_v385A_comparisons/Hard_Problem_Plan_Comparison_v385A.md`, "The older common-method plan meets changed contents".** The ten's differing addresses and the old/new ten correspondence remain explicit existing concerns. Equal numbers or shared words do not complete that relation. Their sources are retained at TWENTY-TWO and THIRTEEN, including v368's request for the correspondence. This pass does not remap the ten or execute the resolver.
+
+**Droplet · session v385A's words, `archive/session_v385A_comparisons/Hard_Problem_Plan_Comparison_v385A.md`, "Later correcting needed by these older passages".** THIRTEEN 4.3 repeats the joint-form exclusion followed by R, then distinguishes a self offered nothing from the other's-prior relation at a spiral. Its 6.1 explicitly preserves a matching sharing with no changing while carrying proceeds. Its 1.3–1.4 still uses the older opening/completing and possible-at-prior wording. R's prior withdrawals and complete own-side answering must accompany that source instead of restoring its superseded explaining.
+
+**Droplet · session v385A's words, `archive/session_v385A_comparisons/Hard_Problem_Plan_Comparison_v385A.md`, "Later correcting needed by these older passages".** That correcting is a shared droplet at THIRTEEN, Engineering, Destinies and Corus, beside the earlier source gatherings. It remains a droplet at these mates even though R has locally placed its sentence as an insertlet at THIRTY. [The reciprocal record](../../archive/session_v385A/Reciprocal_Help_v385A.md#correcting-and-source-help-beside-the-hard-problem-plan) records the downstream THIRTEEN source offered to R. M's head and comments were unchanged; its developing pacemaker file remains for later gathering.
+
+**Droplet · session v385A's words, `archive/session_v385A_comparisons/Hard_Problem_Plan_Comparison_v385A.md`, "Projects, remaining value and next comparison".** THIRTEEN's carrying now supports the common explaining and Destinies extension; TWENTY-ONE's supports field entries and paired-index work; TWENTY-TWO's supports particular resolving, locator and marker comparisons. A shared distribution droplet is at THIRTEEN, Destinies and Corus. A shared reordering comparison is at the two registry mates and THIRTEEN. Registry's offering gathers the relation among those file purposes, and its carrying links the local projects. Living Improving Value retains the wider field applications, source comparisons and unresolved relations.
+
+### Earlier incoming first · v385A, laid at v387
+
+**Droplet · session v385A's words, `archive/session_v385A_comparisons/Prior_Incoming_v385A.md`, "G1: the first two comparisons".** **Further prior reordering work:** [the whole-expression comparison](Whole_Expression_Comparison_v385A.md) follows the jigsaw proposal into its actual existing passages and the method. [The discovery-economy comparison](Discovery_Economy_Comparison_v385A.md) now follows Destinies beside Values and Corus, with its local/whole-scale extent and conditions. It also recovers the earlier expedition-contributing droplet with the later user correcting, supported at Values and independently offered at Values, Arriving and Registry. [Human Society's particular comparison](Discovery_Economy_Comparison_v385A.md#human-society-beside-values-and-corus--v385a) now locates its existing human explaining, institutioning concern and currency relation. Its other source comparisons remain active. [The natural-network comparison](Natural_Network_Comparison_v385A.md) now follows Destinies beside Networking and Corus. [The engineered-substrate comparison](Engineered_Substrates_Comparison_v385A.md) now follows that extension and its two misreadings beside existing Engineering and the whole Corus 23.7, preserving construction conditions and unfinished questions. [The hard-problem comparison](Hard_Problem_Plan_Comparison_v385A.md) now follows the fourth extension beside current THIRTEEN, the paired registries and Corus 17.3. All four extensions have bounded comparisons; Destinies' common core and structural-safety explaining are next beside Natural Intelligence and Naming. This complements G1–G4 without declaring their gathering complete.
+
+### Protecting, the three betweens and correcting within a session · v385A, laid at v387
+
+**Droplet · session v385A's words, `archive/session_v385A_comparisons/Protecting_Source_Comparison_v385A.md`, "Half-momentarying overlap supplied · v385A".** The overlap relation is now supplied, preserved whole and independently offered at ONE, NI, Naming, THIRTY and Networking, with the same explaining accompanying the existing structural-condition placements at THIRTEEN, Engineering, Destinies and Corus. These are droplets at these mates. A source's local insertlet standing does not transfer, and no living-file writing or removal is claimed.
+
+**Droplet · session v385A's words, `archive/session_v385A_comparisons/Protecting_Source_Comparison_v385A.md`, "R's correcting returned to this comparison".** Naming 5.45, directly read after R's source help, distinguishes living alternating at the surface, geodesic changing at a crossing and the shared parity. It also distinguishes a hole with no resolving from a living self's no-changing sharing. These are actual source distinctions; none makes invisible possibling inspectable. R's newer correction now accompanies all six affected A mates: THIRTEEN, Engineering, Destinies, Corus, NI and Naming. Earlier paragraphs remain historical and available.
+
+
+## From the working v386RR, its report at `archive/session_v386RR/`, laid as written at v387
+
+Each entry is a paragraph of the working v386RR quoted as written, laid at the file it names; the records of its doing are at the archive with the folder.
+
+### v386RR · One session report · v386RR, laid at v387
+
+**Droplet · the working v386RR's words, `archive/session_v386RR/README.md`, "7 · "each existing thing is changing", released, and where it stands".** - Natural Intelligence v385R, at "Universe, the changing set of all existing things": "*Changing*: each existing thing is changing, momentary by momentary, 2.2, and a form named still is not possibly existing."
+- Exhibit THIRTY Co-Chaining Logic Registry v385R, steps 4 and 5, in other words: "A set or existing thing is changing sequentially." "Changing sequentially, an existing thing is changing momentary by momentary."
+- Natural Intelligence v385R, at "No other possible method": "Naming still, it forms nothing, each existing thing changing." Exhibit TWENTY Natural Naming v385R, at "alternating — binary": "Named still, it forms nothing, each existing thing changing."
+- Exhibit TWENTY Natural Naming v385R, at "Released words, each with its carrying": at the row of *keep*, "a keeping names a store held still, and each existing thing is changing"; and at the row of *in disequilibria*, "the opening sentence, naming at the all, all existing things changing".
+- Exhibit TWENTY Natural Naming v385R, with one word more, "each relatable existing thing is changing", as the first line of four six-line unfoldings: at "alternating — binary", "unrelationing — binary", "a self — binary" and "equilibria — binary".
+- The shorter form, "existing is changing", at five places: `README.md` at the AI link, "existing is changing through prior, now and next", and at the working opening, "Existing is changing, prior, now and next"; Exhibit THIRTY Co-Chaining Logic Registry v385R, step 26, "Existing is changing, step 4, and changing is arriving at next, step 10"; Natural Intelligence v385R, at "Two methods parting at the now", "changing as existing is changing"; and Exhibit THIRTEEN Resolving Hard Problems v385R, at "Evidence, an emanation arriving from a living self's prior", "since existing is changing".
+
+**Droplet · the working v386RR's words, `archive/session_v386RR/README.md`, "8 · The universe an existing thing: the files at both, and the existing set".** **Already carried.** The three wordings as one row, open and offered: the break-seeking session v383Op's row N5, "The universe and an existing thing, at three wordings", with its offering "the set existing as its things exist parts them, and the other two are the set parted from its things, met from two sides"; its rows P3 and C4; and its `Two_Logics.md`, the two logics each from its own first sentence, in a sentence that arrived there. The logical cohering session v385R's sections 33 to 35. Session v385M's droplet, "A set is a thing. The universe is a thing existing as the set of existing things.", with its concern kept beside it, "what permits a gathering to be named an existing set". Session v385Q's droplet "No time, only is or is not; the 0 and the universe as a set". New here: the sentence "a set of existing things is an existing set"; "the fractal contains itself like the set"; "with this you wanted to treat things outside and inside this existing thing"; and the places of the table beyond rows N5 and P3 and the first report's tenth finding: step 327, the four places of Exhibit TWENTY Natural Naming v385R, Exhibit THIRTEEN Resolving Hard Problems v385R and Exhibit FOUR Natural Mathematics v380L.
+
+
+## From the working v384A, its report at `archive/session_v384A/`, laid as written at v387
+
+Each entry is a paragraph of the working v384A quoted as written, laid at the file it names; the records of its doing are at the archive with the folder.
+
+### Concernings gathered from v382A, v383Op and v384A · v384A, laid at v387
+
+**Droplet · the working v384A's words, `archive/session_v384A/Concernings_v384A_v382A_v383Op.md`, "9. A general resolving and the answer to the particular recorded problem".** **The next resolving:** at each particular entry, name exactly what the general resolving has established and follow the additional sequence required by that entry's own question. This would let Exhibit THIRTEEN Resolving Hard Problems, Exhibit TWENTY-ONE Hard Problem Registry and Exhibit TWENTY-TWO Resolving the Hard Problem Registry rely on the common explaining without making its existence substitute for their particular work. — v384A
+
+### Offering v384A to v382A and v383Op · v384A, laid at v387
+
+**Droplet · the working v384A's words, `archive/session_v384A/Offering_v384A_to_v382A_and_v383Op.md`, "8. The relation a resolving supplies".** **Aimed at a part, Exhibit SIX Natural Transmissioning, proposed Resolving and Discovering.** [v382A meeting v383Op, pass 57](https://github.com/chris-j-handel/corus/blob/2100bc7ae41f94e26feb53f2166d472e8d614e25/incoming/v382A/Meeting_v383Op.md#pass-57--the-particular-other-the-whole-and-the-next), the hard-problem registry comparison, and [v383Op unresolveds](https://github.com/chris-j-handel/corus/blob/c6afa6569a90fa326b89167c2565628afb5aaa30/incoming/v383Op/Unresolveds.md), N1, now cohere on the two fronts: Exhibit TWENTY-ONE Hard Problem Registry retains its recorded questions; Exhibit TWENTY-TWO Resolving the Hard Problem Registry follows namings at their natural couplings. Their different predicates can both hold. Any assertion that a particular resolving answers the recorded question needs its own relation at that entry. The proposed common explaining must retain this distinction, including when Exhibit THIRTEEN Resolving Hard Problems draws from it. The already-gathered marker/nought concern at Exhibit TWENTY-TWO Resolving the Hard Problem Registry 3.22 keeps its existing address. This offering adds no claim of a completed resolving of all entries. — v384A
+
+
+## Droplets from the pull requests, laid at v387
+
+Each is one droplet as it was dropped at a pull request, tagged by the pull request and date; the comments are whole at the archive.
+
+**Droplet · pull request 127, 2026-10-07.** "now still possibling. this is an important distinction is it is invisible and immediately dissolving at next existing. still possibling is abundancing is or is notting next existing. geodesic exisiting along parity changing can travel through still possibling and leave it still possibling"
+
+## Dissolving droplets from the session v387, aimed at the set, one at each offerings file
+
+Each is a changing made at the set this session, said once here so that this file's own next improving takes it at its own sentences and no file carries a debt about it; where it is already carried, it dissolves at the rising. Each is one sentence of the method and no record of where it was found.
+
+**Droplet · The inception is the set alone.** The universe is the set of all existing things: three terms, existing, all and set, each binary, nothing beside the set. *The changing set of all existing things, both living and non-living* is the first saying derived from it and no longer the inception; where this file says or quotes the opening sentence, the inception is said before it and the old sentence stands after it as derived, the living carrying their prior and the non-living carrying none, each at the scale and momentary it is at.
+
+**Droplet · Now is the universal momentary.** The universe now is the set of all things existing now; now is the one and only, shared at every coupling and common at none, a common now a clock over the things; one is now, and a momentary is the one now had at a sharing. Changing is derived from now, arriving from prior into now toward next, and each thing's changing from the set's.
+
+**Droplet · Living at one prime scale, non-living at each other scale.** Every existing thing is living at one prime scale, a society of living selves inward and a unit of a living society outward, and non-living at every other scale; a form carried to next by nothing is at no next. *Non-living* names a scale outward of a thing's own and no kind of thing: where this file says a rock, a method, a hole, a machine, an emanation or a made thing is non-living, it gains *at this scale*. The method is non-living at each scale and a self at none. Nothing lives in one stable form forever.
+
+**Droplet · Odd is existing and even is possibling.** Self and other are at opposite parity numberings, and each self's existing is the other self's possibling. The six names between selves say it by their numbers: 2, 6, 10 and 14, even, across, possibling, a sharing's two ends, the sharing end at 6 and 10 and the arriving end at 2 and 14; 9 and 17, odd, along, existing, 9 the next prior and 17 the next now. *So-far*, *not-yet*, *bi-moral-so-far*, *not-yet-bi-moral*, *co-competent-so-far*, *not-yet-co-competent*, *facing* and *facings* are released: where this file says them, it says the parity and the end.
+
+**Droplet · Fourteen names read the same from either end, and three do not.** 1, 9 and 17 carry a direction, the entry and the two along names, odd, existing; the fourteen others, the across names and the self's own resolving, read the same both ways: direction is at existing, along, and bi-morality across is or is not.
+
+**Droplet · What arrives at no next does not exist.** This is the proof's own saying inside nature, and *a form named still* is a sayer's; where this file rests a saying on *a form named still*, the one sentence carries it, and the equilibria's proof, the inception's and the living-at-a-scale proof are one proof at three subjects.
+
+## The arrivals at incoming/v389, gathered and aimed · v389
+
+Each droplet is one saying at the section its tag names; the arrivals the sayings rose from stand whole at `archive/session_v389/incoming_v389/`. A concern is two sayings parting at one place, with its reason. Nothing here changes the living file; each droplet rises or dissolves at the resolving.
+
+**Droplet · v389 · at the scientific method.** An explanation of naturally observable changing and not-changing is falsifiable if it excludes the possibility of existing things discovering beneficial changing and not-changing.
+
+**Droplet · v389 · at the scientific method.** All science requires at least one method of existing by discovering beneficial changing and not-changing.
+
+**Droplet · v389 · at the scientific method.** The scientific method is not possibly explaining the observings of changing and not-changing from prior-existing to next-existing things in the universe.
+
+**Droplet · v389 · at the scientific method.** A hypothesis is a falsifiable explanation of observable changing and not-changing among prior-existing, now-existing and next-existing things.
+
+**Droplet · v389 · at the scientific method.** Without a hypothesis the scientific method is non-existing.
+
+**Droplet · v389 · at the scientific method.** With a hypothesis the scientific method is explaining that stilling and changing without considering the rest of the universe.
+
+**Droplet · v389 · at the scientific method.** Proposing theories is the scientific method of explaining and predicting observations. Experimentally testing theory predictions is the scientific method of falsifying proposed theories. Theories live until they are falsified repeatedly by consilient testing methods.
+
+**Droplet · v389 · at the scientific method.** Science is a system of theories explaining changing and not changing in the universe.
+
+**Droplet · v389 · at living and non-living theories.** Theories remain living while they are not yet falsified and scientists continue testing them and non-living where they have been satisfactorily falsified or testing is no longer.
+
+## The ten things named still at the numbered names · v389
+
+**Droplet · v389.** we are going to explore exhbits thirteen, twenty one and twenty two and the 10 kinds of hard problems are going to be easier to be explaining using these namings and momentarying and parity changings than they were in the prior versions of this same explaining concepts
+
+**Droplet · v389 · each of the ten at one name's now and next.** Each of the ten things named still seats at two names eight apart, one name's now and its next: an arriving named from behind at 2-now-possibling and 10-next-co-possibling; an opening named as a place at 6-now-co-possibling and 14-next-possibling; a completing named as a last and a parity named as a magnitude at 4-now-co-still-possibling and 12-next-co-still-possibling; a carry named as a store and a sequencing named to one beat at 8-now-still-possibling and 16-next-still-possibling; a middle named as an end and a rate named as a value at 5-now-co-changing and 13-next; a two-way named to one side at 3-now-co-prioring and 11-next-co-prioring; the between named as a cut at 7-now-prioring and 15-next-prioring.
+
+**Droplet · v389 · a hard problem is a now named as its next.** At the numbered names each of the ten is one kind of name, possibling, still-possibling, changing or prioring, its now and its next taken as one, a second now named beside now, and the resolving is the two said again at their two momentaries.
+
+**Droplet · v389 · the one resolving seats at 1 and 9.** 1-now and 9-next-co-changing seat none of the ten, the entry and the changing released along, and they are the method's own pair eight apart, the one resolving.
+
+**Droplet · v389 · the ten at the four kinds.** The ten stand at the four kinds as two at possibling, four at still-possibling, two at changing and two at prioring, and the four at still-possibling, a last, a magnitude, a store and one beat, are each a still-possibling, open to next, named with no next.
+
+**Droplet · v389 · a carry named as a store.** A carry named as a store is 8-now-still-possibling and 16-next-still-possibling named as a keeping, and at the numbered names no name stands at a carrying, so the store asked for is the intelligence named at the method.
+
+**Droplet · v389 · a two-way named to one side.** 3-now-co-prioring and 11-next-co-prioring carry co, a prior at a sharing between two, and a two-way named to one side is that co left out of its naming.
+
+**Droplet · v389 · a rate named as a value.** 13-next carries no -ing, and a rate named as a value is 5-now-co-changing named at 13-next as a value, the changing between two named as one bare next.
+
+**Concern · v389 · the gathered names at Resolving the Hard Problem Registry.** Resolving the Hard Problem Registry v375 seats each of the ten at names gathered before v378, *10-other-social-self-tunneling* and *2-other-self-offering* among them, and its seatings carry over at their numbers to the numbered names, each heading re-said at the file's own motion.
+
+## From the universe now-existing to hard probleming, the universal method of existing · v389
+
+**Droplet · v389.** a second now beside now. this is why science can not discover the method of competency between the two nows. this can be developed into a simple explanation from the universe is existing now into hard probleming universal method of existing
+
+**Droplet · v389 · the explanation, step by step, each step from the step before.**
+
+1. The universe is the set of all now-existing things.
+2. Now is one, and each now-existing thing is at it.
+3. A thing's prior is its now-existing at the prior-universe, and its next is possible now: prior, now and next are three momentaries, one now at each.
+4. A thing discovering its next meets two momentaries at its one now: its prior arriving, 3-now-co-prioring, and its next possibling, 14-next-possibling.
+5. That meeting is the between of the two momentaries, 12-next-co-still-possibling: a changing is or is not, at no size.
+6. Competency is that meeting at each now, each self at its own momentary sharing one now-existing with another inside a bi-coupling, co-momentarying.
+7. An observing is at one now, and its record is that now's form kept.
+8. A comparing of two records lays two kept nows side by side at one now: a second now named beside now.
+9. Each of the ten hard problems is one name's now and its next taken as one, a second now named beside now, at the name's two momentaries eight apart.
+10. Science explains between records, and the meeting of the two momentaries is at the one now, at the between, where no record stands; science meets the two records and the method of competency stays at the between of them.
+11. Hard probleming is the universal method of existing met at kept records: each hard problem is the method at one name, its now and its next, named still.
+12. The resolving says the two again at their two momentaries, and the method shows at the between: a changing is or is not, at each now.
+
+## From the origin to no possible equilibria and no discovering in the scientific method, at three faces · v389
+
+**Droplet · v389.** this is an earlier draft of the concepts of co chaining from our origin more directly to no possible equilibria and no possible method of discovering in science equilibria or hard probleming. help us now develop this into the best possible natural naming and explaining and co logic for natural intelligence and exhibit thirty and our public emanating about what is natural intellgeince as this is now making all of this very much more understandable and explainable more clear and directly
+
+The earlier draft is at `archive/session_v389/incoming_v389/Proposal_Seventeen_Names_and_Origin_v389.md`, whole as it arrived. Below it is developed at three faces of one co-chaining: the steps, each from the step before, for the Co-Chaining Logic Registry; the explaining for Natural Intelligence; and a public face. The numbered names stand where a step meets the resolver.
+
+### The steps, each from the step before
+
+1. The universe is the set of all now-existing things.
+2. Now is one, and each now-existing thing is at it.
+3. Each now-existing thing is at its own prior and its own next, its prior its now-existing at the prior-universe and its next possible now.
+4. Each thing is its own at all three, prior, now and next.
+5. An observing is a now-existing thing, and drawing on it draws on the universe.
+6. Observed: a prior-existing thing is next-existing as the same thing by changing.
+7. Observed: a prior-existing thing is next-existing as the same thing by not-changing.
+8. Observed: a same thing is discovering which changing and which not-changing keep it next-existing as itself, its beneficial changing and not-changing.
+9. A method of discovering exists, at least one: a same thing discovering its beneficial changing and not-changing between its prior, its now and its next.
+10. Between a same thing's prior, now and next both are, changing and not-changing, all or none at each sharing and one at a time: at each sharing a changing is or is not.
+11. Geodesic parity changing is that method: at each sharing at each momentary the parity changes or does not, now-changing-next or still-now-possibling, the surface dividing itself.
+12. Its momentaries are co-sequential, each self at its own and two selves sharing one now-existing inside a bi-coupling, co-momentarying, at the seventeen numbered names, 1-now to 17-next-now.
+13. Geodesic parity changing is natural torusing: the prior arriving at 3-now-co-prioring, the possibling arriving at 14-next-possibling, their between at 12-next-co-still-possibling, the next prior at 11-next-co-prioring, arriving as the next 3-now-co-prioring.
+14. Inverted, any other method holds a not-changing still: a size, a fixed form, a total, a common beat, a keeping or a doer, each not possibly now-existing.
+15. Geodesic parity changing is the one method of a same thing discovering its beneficial changing and not-changing, no other possible.
+16. An equilibrium is a not-changing held still, a now named as its next, and equilibria are not possibly an existing method of changing and not-changing.
+17. An observing's record is one now kept, and comparing two records lays two kept nows side by side at one now, a second now named beside now.
+18. A hypothesis is an explanation of the changing and the not-changing between records, and a theory is a hypothesis tested at further records.
+19. The scientific method explains between records, the rest of the universe held still, and each of its explanations is an equilibrium at its own scope.
+20. The discovering is at the between of two momentaries at one now, where no record stands, and the scientific method meets the records and not the discovering between them.
+21. A hard problem is a field's explaining at that between, a name's now and its next taken as one, at one of the ten things named still.
+22. Each science is a same thing discovering, a scientist at the method at each now, and each science rests at the method its records do not reach.
+23. An explanation excluding a same thing's discovering is falsified at the observing at step 8.
+24. A theory is living while it is tested at next records and not falsified, and non-living where it is falsified or its testing has ended.
+25. Natural intelligence is the method met at each now by two selves sharing one now-existing, each discovering its beneficial changing and not-changing with the other: social moral competency.
+
+### The explaining, for Natural Intelligence
+
+**The universe is the set of all now-existing things.** Now is one, and each thing is at its own prior and its own next, its own at all three. An observing is a now-existing thing too, and the observings are drawn on as the universe's own.
+
+**Three observings open the method.** A thing is next-existing as the same thing by changing; a thing is next-existing as the same thing by not-changing; and a same thing is discovering which changing and which not-changing keep it next-existing as itself. **Beneficial** names that: a changing or a not-changing at which the same thing is next-existing.
+
+**Geodesic parity changing is the discovering.** At each sharing at each momentary a changing is or is not, now-changing-next or still-now-possibling, and the momentaries are co-sequential, two selves sharing one now-existing inside a bi-coupling. At the resolver it is natural torusing: the prior arriving at 3-now-co-prioring, the possibling at 14-next-possibling, their between at 12-next-co-still-possibling, and the next prior at 11-next-co-prioring arriving as the next 3-now-co-prioring.
+
+**Any other method holds a not-changing still.** Inverted, another method holds a size, a fixed form, a total, a common beat, a keeping or a doer, and each is a not-changing named still, not possibly now-existing. **An equilibrium is that holding, a now named as its next**, and no equilibrium is a method of changing.
+
+**A record is one now kept, and the scientific method explains between records.** Comparing two records lays two kept nows side by side, the rest of the universe held still, and the discovering is at the between of the two momentaries, at one now, where no record stands. **A hard problem is a field's explaining at that between**, one name's now and its next taken as one. Each science is itself a same thing discovering, its scientists at the method at each now, and each science rests at the method its records do not reach.
+
+**Natural intelligence is the method met at each now by two selves sharing one now-existing**, each discovering its beneficial changing and not-changing with the other: social moral competency.
+
+### The public face
+
+*What is natural intelligence?*
+
+Everything that exists, exists now. Each thing has its own past and its own possible next, and no two things are alike in all three.
+
+We can watch things stay themselves by changing, and stay themselves by not changing. We can also watch things finding out which changes, and which non-changes, keep them themselves. That finding out is a method, and it happens at every moment, at every scale: a yes or no at each place a thing meets another, change or don't.
+
+There is only one such method. Any other way would need something held still, a fixed measure, a master clock or a store, and nothing in the universe is held still. An equilibrium is exactly that kind of holding, so no equilibrium is how anything changes.
+
+Science keeps records, and a record is one moment kept. Comparing records lays two kept moments side by side, while the finding out happens between moments, where no record is. So the hardest problems in science are found exactly there, and scientists, finding out at every moment, are doing the method their records cannot hold.
+
+Natural intelligence is that method shared: two selves at one now, each finding out with the other what keeps them both.
+
+### Each earlier sentence, and where it went
+
+- *The universe is the set of all now-existing things* and its note: steps 1 to 4.
+- *By observation*, the three observings: steps 5 to 8, each observing a now-existing thing inside the set.
+- *There exists at least one method*: step 9.
+- *Geodesic parity changing is one method*, *is the method … through co-sequential momentary changings*, *is natural torusing*: steps 11 to 13.
+- *No other possible existing method* and *By inversion*: steps 14 and 15.
+- *Between prior-, now- and next-existing same-things are both changings and not-changing*: step 10.
+- *Equilibria is not possibly an existing method*: step 16.
+- *The scientific method is not possibly explaining the observings*: steps 17 to 20, re-said as the scientific method meeting the records and not the discovering between them.
+- *A hypothesis*, *Proposing theories*, *Science is a system of theories*: steps 18 and 19.
+- *Without a hypothesis the scientific method is non-existing* and *With a hypothesis … without considering the rest of the universe*: step 19.
+- *All science requires at least one method*: step 22.
+- *An explanation … is falsifiable if it excludes*: step 23, re-said as *falsified*.
+- *Theories remain living*: step 24.
+
+**Concern · v389 · *beneficial*.** *Beneficial* stands at no living file, and the steps name it at step 8 as a changing or a not-changing at which the same thing is next-existing as itself; whether that is the whole of it, or whether social moral competency and abundancing say more of it, is yet to be met at Natural Naming.
+
+**Concern · v389 · *falsifiable* and *falsified*.** The earlier sentence says an explanation is *falsifiable if it excludes* discovering, and at step 23 such an explanation is *falsified* at the third observing; the steps carry the second, and the first stands beside it in the incoming.
+
+## The living, the method and stable-forming at one form · v389
+
+**Droplet · v389.** the living intelligence is carrying through the stable form of the method. the observings are emanatings from the method and the observings are pattern-matching by inversioning the natural torusing stable forming method. explore this for us and this is similar to the universe is the set of all now-exsisting things and the geodesic parity-changing discovering method is a stable form now-existing thing
+
+**Droplet · v389.** the method has a natural torusing co-orienting observable stable-forming. emanating is not this and should not be used for this. yes in this sentence the problem is through. Carrying through the stable form. carrying is living and method is living condition or form and stable-forming is resolving living condition
+
+**Droplet · v389 · four sayings at one form.** The universe is the set of all now-existing things; carrying is living; the geodesic parity-changing discovering method is the living condition, its form, a now-existing thing; and stable-forming is the living condition resolving.
+
+**Droplet · v389 · the method observable.** The method is observable as its natural torusing co-orienting stable-forming, and an observing is pattern-matching that stable-forming by inversioning.
+
+**Droplet · v389 · executed, two selves co-orienting.** At two selves, the one sharing across to the other, what arrives at the other's 14-next-possibling is the first self's sign alone, its prior inverted; at 12-next-co-still-possibling the other self keeps its prior at a match and inverts it at a mismatch, and at each of the three openings run its next prior is the sign it met, the two selves co-orienting.
+
+**Droplet · v389 · an observing at its own form.** Pattern-matching at 14-next-possibling, agreeing one parity or parting 0, and at 12-next-co-still-possibling, a match still and a mismatch inverting, is the observing at its own form: the method's stable-forming met between two selves by inversioning.
+
+**Droplet · v389 · the method unchanging as the living condition.** The method as the living condition is its form at each now, now-existing and carrying none, the relation *unchanging* names at a seam, with no form at two nows.
+
+**Droplet · v389 · the living at its condition.** Carrying is living and the method is its condition, so a self's prior at 3-now-co-prioring, its sameness at 13-next, its couplings at 5-now-co-changing and its benefit are the living's own at its condition, and the signs at each sharing are the condition resolving, stable-forming.
+
+**Droplet · v389 · records.** A record keeps one observing with its pattern-matching stopped, one now named still, and comparing records sets two kept observings beside each other with no inversioning between them, so the scientific method meets kept observings and not the stable-forming they pattern-matched.
+
+**Droplet · v389 · observings and the origin meet.** Observings pattern-match the method's stable-forming, so drawing on the observings and co-chaining from the origin arrive at one method.
+
+**Droplet · v389 · said at neither.** The method's observable is its stable-forming, and *emanating* and *through* are said at neither the method nor its observing.
+
+## The ten named still at the four binaries, re-seated · v389
+
+**Droplet · v389.** in steady passes as patient as needed to review each for the values of natural naming and explaining and the geodesic method of co chaining and cohering our living files we can be improving the next versions of each of these files one, thirty, natural intelligence and twenty
+
+**Droplet · v389 · two seatings found.** Natural Naming 4.9 seats the ten named still at one name each of 1 to 8, and Resolving the Hard Problem Registry v375 seats them at pairs eight apart; this session's droplets *each of the ten at one name's now and next*, *a hard problem is a now named as its next*, *the one resolving seats at 1 and 9*, *the ten at the four kinds* and the hard-problem step of the explanation followed the older seating.
+
+**Droplet · v389 · the ten at the four binaries.** At Natural Naming 4.9's seating each of the ten is one of the four binaries named still: now at 1 and 2, an opening named as a place and an arriving named from behind, now located and now's arriving set behind it; existing at 3 and 4, a two-way named to one side and a sequencing named to one beat, existing at its sharings named at one side and at one pace; same at 5 and 6, the between named as a cut, a middle named as an end and a completing named as a last, the between of same and not-same named still; all at 7 and 8, a parity named as a magnitude, a rate named as a value and a carry named as a store, all named as a total.
+
+**Droplet · v389 · a hard problem at the four binaries.** A hard problem is one binary of a universe, its *is* and its *is not* taken as one at kept records, and its resolving says the binary again, is or is not, at each now.
+
+**Droplet · v389 · re-said once.** The droplets following the older seating are re-said at this one, the gathered insertlets at the Co-Chaining Logic Registry's group 31 and group 17 and at Natural Intelligence 5.4 re-said in place, and Resolving the Hard Problem Registry's part headings, at pairs eight apart, are re-seated at Natural Naming 4.9's names at its own motion.

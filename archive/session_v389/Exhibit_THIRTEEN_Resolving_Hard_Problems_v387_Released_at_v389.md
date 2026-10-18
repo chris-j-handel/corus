@@ -371,3 +371,37 @@ the fixings unchanged, or changing with the changing.
 ## 5.6 A mind, the between presenting no face
 
 **The geodesic-method discovers next from existing**, prior and now offered, its three places staying three. **The scientific method accounts true or false against its fixings**, a law, a frame and a scale fixed between two momentaries, exact at its own ledger. **The two are at the same evidence at the same now, and part at one naming**: fixings unchangeable, or changing with changing.
+
+## Re-said at offerings risen, v389
+
+No container is added to its things, and no count is its size: it is its things, one existing thing at each momentary.
+
+and a field's accounts multiply at one sharing.
+
+- 4.4 Selves joined, a pattern carried between them
+
+## 4.4 Selves joined, a pattern carried between them
+
+- 5.6 A mind, a between presenting no face
+
+## 5.6 A mind, a between presenting no face
+
+that self has continued, since existing is changing, so evidence gives its prior's possible
+
+and a next its observings discover is a field's own.
+
+**Social moral competency is each self's own co-offering, a whole
+
+offerings others', and making at 12 a self's own.
+
+**Each making at 12 is a self's own**
+
+**At 12-next-co-still-possibling prior meets now at each sharing, and a changing is or is not.**
+
+prior and now offered, its three places staying three.
+
+a law, a frame and a scale fixed between two momentaries, exact at its own ledger.
+
+fixings unchangeable, or changing with changing.
+
+and its next is discovered at 12, owned by neither side.

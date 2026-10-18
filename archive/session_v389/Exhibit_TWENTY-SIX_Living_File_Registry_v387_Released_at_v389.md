@@ -969,3 +969,101 @@ A destination alone is no completed receiving.
 **The existing open carrying follows the same receiving.** Living Improving Value already holds distinct questions for Exploring and Improving Method. Corrected fixed points of an inversion and scope of claims about all accountings continue at Mathematics; particular names for volutioning continue at Naming; method/evidence relation continues at Natural Intelligence and Philosophy; a concern about actual team working belongs at EIGHT. A destination at its own is no completed receiving. Every unresolved contribution retains its content, reason and intended destination until that file receives it.
 
 **The older resolving language needs actual comparison with current work.** Exploring's claims about testing an inversion, exhausting alternatives and uniqueness must receive expedition's current binary-all-or-none-at-all explaining. Four-momentary self/other bi-co-exchanging resolving of considered ghost and equilibria methods stays at its complete relation. Prior, now and next still need their own explaining. A three-to-four replacement across files would conflate relations rather than carry them.
+
+## Re-said at offerings risen, v389
+
+a living carrying carries expedition between its sessions, carry, kits, tools and incoming.
+
+and each such file is below at both.
+
+A word recurring across set carries its common concept.
+
+- 2.3 Membrane and unrelationing
+
+## 2.3 Membrane and unrelationing
+
+**A membrane is a nothing of two offering.** Each takes its own sign; each side's own stays its own; crossing carries no size.
+
+as an other's resolving meets its arriving sign.
+
+A file's membrane carries this same relation
+
+Ten unchangeables, ring’s ten changings
+
+and folders beside root cost site nothing.
+
+Its subtitles unfold their particular relations, and files meet through concepts each explains.
+
+each kept at its stated subject. |
+
+its executions at kit's `checks_v379/`; relied on by nothing |
+
+Their correspondence is carried where explaining joins them.
+
+**Table's strongest carrying joins common form with a particular society.**
+
+executable working at their actual joins.
+
+Four momentaries, six connectors, eight faces
+
+Source addresses and paired entries join two registries
+
+A membrane's nothing reaches substrate explaining.
+
+**SIX already joins transmissioning and co-chaining.**
+
+distinct from a relational membrane.
+
+belongs with operations and concepts it joins.
+
+resolver-specific calling and connector instructions meet
+
+each run at code before it was written
+
+`ring_carrying_check.py`, run at Exhibit ONE's code
+
+a file or version to open or run first
+
+society runs and set checks
+
+its runs that still stand
+
+Improving Kit's `artifacts/`, runs at v333
+
+One resolving cycle runs through four overlapping momentaries
+
+The same changing runs at a sentence
+
+and common method runs in every cluster.
+
+**Whole fractal runs through each gathering.**
+
+**Each receiving runs both ways.**
+
+geodesic discovering next existing runs through their continuing together.
+
+Current reading-versus-running distinction at its own does not explain why duplicate passages are needed; their further contribution does.
+
+**Self-welcoming runs through exhibit's own form.**
+
+instruments re-expressed at sharing and one sign
+
+own carrying, sign-only crossing and whole 1–17
+
+| Sign-only crossing, carrying remaining with each self
+
+now carry sign-only crossing
+
+Its §3.1 also speaks of carry moving across nodes while its sign-only passages say carrying stays.
+
+| Living carrying; coupling partners at checks, deciding nothing |
+
+Its subtitle is **Binary-All-or-None-at-All, Do-No_Harm Improving**.
+
+Social moral competency is carried through that discovering now.
+
+each session opens by observing standings here, next work at carrying and the done at Session Record.
+
+Value arriving for a file is or is not living, coupling and resolving at that file; it enters whole at file's next motion or it releases.
+
+a surfacing released across and arriving back at self through society

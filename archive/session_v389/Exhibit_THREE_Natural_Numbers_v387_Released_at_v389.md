@@ -639,3 +639,77 @@ are two runnings, sharing their digits alone.**
 ## 10.1 A number crossing from a field, and the unit it arrives in
 
 **The local momentary one to nine and four-cycles among seventeen names are two runnings, sharing their digits only.** One to nine are nine places of one momentary; 1, 9, 8 and 16 at a four-cycle are four of seventeen names. A line from one to other draws a relation neither running carries. Digits they share reach each other exactly at a numbered form: 8 up and then 17 less is 9 less, 17 − (n + 8) = 9 − n, and at each scale s, 9.9's, 8s + 1 − (n + 4s) = 4s + 1 − n, and n, n + 8, 9 − n and 17 − n are a four-cycle's two out-and-backs as numbers, a numbered form and no running.
+
+## Re-said at offerings risen, v389
+
+a ten's two sides, along and across.
+
+and ten opened one momentary on, at 3 and at 4, is same ten forward.
+
+**No other possible is an alternating completing six forward without
+
+and twenty-four is an apex of one to fifty-nine's bi-folding.
+
+twenty-four an apex of one to fifty-nine's bi-folding and twenty-five
+
+is twenty-four, an apex of one to fifty-nine's bi-folding, 6.3,
+
+thirty-three positions completing at sixty.
+
+taken of prior and now as a next it runs round at three, parity's own period, carrying both.
+
+taken twice inverts both parities, four times reaches its pair again, and six times has reached all four joint forms and inverts both again**
+
+At 3 a self's pair is wholly inverted and at 9 each parity of four, two bi-folds.
+
+- 6.2 Each number a waist its prior and next pass through
+
+## 6.2 Each number a waist its prior and next pass through
+
+four shared: at 4pq.
+
+Co-competencing is at couplings, owned by neither.
+
+one eight at couplings among six, and three of it are three hundred sixty.
+
+a passage of six carries a whole four and hands its pair on inverted, and two passages reach it again.
+
+In a field's words a whole-number square matrix of two rows closes at one, two, three, four or six, or is open, the crystallographic restriction:
+
+**No rate is neared more slowly by rationals than φ**, its continued fraction all ones, and a winding at φ closes at none of them.
+
+two short of one hundred twenty at a table's own result.
+
+**Two surfaces co-offering carry
+
+are one loop at an odd number of selves, each self passed twice, once at each parity, and two loops at an even, neither reaching other.
+
+3 to 7 to 2 to 6 to 3 within 1 to 8, completing beside nine.
+
+**Among names each four-cycle comes to its names again; at momentaries it comes to none again**, each step adding a next.
+
+position, scale and orientation inverted at once, bi-tri-involutioning.
+
+**A fold runs whole at each scale.**
+
+**A closed surface's vertices less its edges plus its faces is two at a sphere and nought at a torus.**
+
+φ is self-welcoming at numbers, and resolver carries it at no line: rate is unrelationing's, each coupling at its own continuing.
+
+**A facing is at one.**
+
+Twenty-three and twenty-five are facing across twenty-four at one.
+
+Fifty-nine and sixty-one are facing across sixty at one, 59 × 61
+
+**Eleven is facing forty-nine**, seven squared:
+
+they are facing across one hundred twenty at two as fifty-nine and sixty-one are facing across sixty at one
+
+and coming to its names again.
+
+co at a sharing between two and none at one; and its kind.
+
+at 1 and 9 and at 5 and 13 now and changing exchange.
+
+**Each kind of name is at two numbers eight apart, at a self's span and a society's**
