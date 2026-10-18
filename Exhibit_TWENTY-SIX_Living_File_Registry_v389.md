@@ -74,7 +74,7 @@ Exhibit TWENTY-SIX Living File Registry v389
 | **SIX · Natural Transmissioning** | Bi-Coupling Science and Engineering | v330 | v330 | — | pass G, its receiving |
 | **SEVEN · Natural Societies** | Co-Recursioning Up and Down Social Scales | v373 | v373: 5.3 explored, the fourteen primes at eight and six and the fold at twenty-four, the rest of the file as it stood | — | its whole motion at current words; pass G, beside Natural Networking 1.8 |
 | **EIGHT · Natural Exploring** | Open Team Moral Co-Competencing | v329 | v329 | — | pass G, with Geodesic Improving Method |
-| **NINE · Natural Human Society** | Geodesic Method of Human Social Moral Co-Competencing | v329 | v329 | — | pass G |
+| **NINE · Natural Human Society** | Geodesic Method of Human Social Moral Co-Competencing | v389 | v389: released words re-said, *the* where not valuable, its offerings met, fourteen risen | — | pass 4 at its possible projects |
 | **TEN · Natural Health** | Sustaining Self-Bi-Co-Recursioning-Self | v329 | v329 | — | paused |
 | **ELEVEN · Natural Medicine** | Sensor-Sensationing Human Health | v331 | v331 | — | paused |
 | **TWELVE · Natural Explaining** | Self-Welcoming, Bi-Coupling and Co-Competencing | v378 | v378: its front at the steady form, no `&nbsp;`, the entries as a list; the conceived as a worked case at 3.1, 3.2 and 3.3; a word re-said corrects no concept by itself at 3.3; a correction read for both at 3.12. v375: 2.4 the bolds self-welcoming at the surface, their concentrations learning centres | — | its released words re-expressed at one motion, at its carrying |

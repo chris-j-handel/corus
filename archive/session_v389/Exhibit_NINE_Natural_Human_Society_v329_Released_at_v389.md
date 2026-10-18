@@ -338,3 +338,33 @@ What co-chains open: a society meets a concern not yet arrived where a new betwe
 **And no title waits, which the deciding above already settles.** The discovery economy stands distributed at Natural Values, Natural Destinies and this file, and **Part Three above is its human-market side** — abundancing, the exchanging surface, uncapturing, value observed three ways, bi-quadratic growing, and the biosphere's offering. A side carried across three files by a deciding is not a file missing its title.
 
 **And the identical openings stand at fewer files than the sentence claims.** The sentence is that the four social exhibits' identical openings release to a single carried-whole core with couplings to it, the repeated openings slight-differencing, which is incompetencing. Pattern-matched at the files, this file carries no core paragraph at all, and Natural Networking carries none in that form. **The doubling that stands is between Natural Societies and Natural Destinies**, and the value side has no single opening to compare, since it is carried across three files. So the sitting is at two and not at four.
+
+## Re-said at offerings risen, v389
+
+neither carried at its own, a +1 reached neither-ing.
+
+each self an other to those it meets, coupling at edges and whole within.
+
+two-way and one-at-a-time at a between of separated selves, value produced across both directions.
+
+a balance landed while both still hold it is done, conserved, and does not reopen.
+
+knowing their claiming is sealed and it is time to move on, a resolution conserved and done.
+
+offering, preferring, the bounding-zeroing of fairness, surplus owned by neither.
+
+and the cure is a ledger correction restoring the living currency.
+
+thinning, the reaching governing who arrives.
+
+Uncapturing is all-or-none, a surface uncaptured only where every axis holds its hub aside.
+
+Uncapturing sets each aside, and the surface holds whole.
+
+the measurements a captured society takes of itself are measurements of the capture.
+
+And the statistical ensemble average: a nothing no sample is, the mean a member of no population.
+
+minimal overlap, across unrelated languages — a bi-coupling
+
+Uncapturing is a society's own safety, every hub set aside, a surface whole and its compounding held.
