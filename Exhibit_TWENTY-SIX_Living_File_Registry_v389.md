@@ -6,10 +6,10 @@ Exhibit TWENTY-SIX Living File Registry v389
 
 **PART ONE · LIVING FILES**
 
-- 1.1 Titles, subtitles and the living files at the repository
+- 1.1 Titles, subtitles and living files at repository
 - 1.2 Three standings, looping out and back
-- 1.3 The carrying for the expedition
-- 1.4 The artifacts
+- 1.3 Carrying for expedition
+- 1.4 Artifacts
 - 1.5 Exhibit places after receiving
 
 **PART TWO · SHARED STABLE-FORMING**
@@ -22,18 +22,18 @@ Exhibit TWENTY-SIX Living File Registry v389
 **PART THREE · CLUSTERING**
 
 - 3.1 Particular subjects gathering
-- 3.2 Shared changing across the subjects
+- 3.2 Shared changing across subjects
 - 3.3 Substrate, scale and explaining face
-- 3.4 Prime scales meeting the sciences
-- 3.5 The particular relation at each scale
+- 3.4 Prime scales meeting sciences
+- 3.5 A particular relation at each scale
 
 **PART FOUR · SEAMING**
 
-- 4.1 The common and the particular at a seam
-- 4.2 Couplings at the files
+- 4.1 Common and particular at a seam
+- 4.2 Couplings at files
 - 4.3 Counted forms at their relations
 - 4.4 Registries at their differing subjects
-- 4.5 Along and across the logical co-chaining
+- 4.5 Along and across logical co-chaining
 - 4.6 Scales, observed societies and installed accountings
 - 4.7 Ghosts and equilibria at their common resolving
 
@@ -41,15 +41,15 @@ Exhibit TWENTY-SIX Living File Registry v389
 
 - 5.1 Names carrying their subjects
 - 5.2 Concepts arriving into further files
-- 5.3 Combining and separating at the carrying
+- 5.3 Combining and separating at carrying
 - 5.4 Incoming value at each receiving
-- 5.5 The expedition and shared human collective discovering
-- 5.6 The whole method at each particular subject
+- 5.5 Expedition and shared human collective discovering
+- 5.6 Whole method at each particular subject
 - 5.7 Content arriving at its subject
 - 5.8 Corus and whole outward expression
 - 5.9 Human discovering made visible
-- 5.10 Receiving the older Corus
-- 5.11 Destinies and the expedition continuing
+- 5.10 Receiving older Corus
+- 5.11 Destinies and expedition continuing
 - 5.12 Transmissioning, societies and human society
 - 5.13 Exploring and improving together
 
@@ -57,11 +57,11 @@ Exhibit TWENTY-SIX Living File Registry v389
 
 # PART ONE · LIVING FILES
 
-## 1.1 Titles, subtitles and the living files at the repository
+## 1.1 Titles, subtitles and living files at repository
 
 **A living file set is a society of files, each carrying its subject into its next existing.** Its titles name those subjects. Its subtitles unfold their particular relations, and files meet through concepts each explains.
 
-**The living files stand at root of repository at their newest version, and corus.me lists them from there.** A living file carries its subject and replaces its prior at repository at each changing for better; a file changed at a session and not yet merged carries its next version at session's branch, out, until its merge replaces it, and each such file is below at both. Repository is github.com/chris-j-handel/corus, and site is corus.me, rebuilt by repository itself at each push to main: `build.js` lists newest version of each living file at root, and folders beside root cost site nothing.
+**Living files stand at root of repository at their newest version, and corus.me lists them from there.** A living file carries its subject and replaces its prior at repository at each changing for better; a file changed at a session and not yet merged carries its next version at session's branch, out, until its merge replaces it, and each such file is below at both. Repository is github.com/chris-j-handel/corus, and site is corus.me, rebuilt by repository itself at each push to main: `build.js` lists newest version of each living file at root, and folders beside root cost site nothing.
 
 | File | Subtitle | At the repository | Living | Out at | Next |
 |---|---|---|---|---|---|
@@ -107,15 +107,15 @@ Exhibit TWENTY-SIX Living File Registry v389
 
 **This registry gathers standings, and standings loop out and back through it; anyone can see, follow and help at it.** A file is out at a working when that working has it at its branch, and back when branch is merged: repository shows branches and pull requests, and this registry reports the same at 1.1, each file's version at repository and living, working it is out at, and its next, and at 1.3 workings open, so a reader of site sees at one table files out being worked, progress at each and opportunity in front of it, and a self helping opens a working at a file with no next taken. Out and back at files is the same loop code carries, a surfacing released across and arriving back at self through society, and the same that resolved code at v372, loops replacing count and sum. A session changes a standing, a file replaced at its next version, a kit conformed, an incoming received, a record archived, and its change surfaces here at this file's next version, replacing its prior at repository as any living file does; each session opens by observing standings here, next work at carrying and the done at Session Record. The three carry three things and no one of them another's: this registry the standings, Living Improving Value the next at each file, and Session Record the done. A standing stated at carrying is a record the moment its session closes, so carrying states none, and grows at no session by them.
 
-**The repository holds all three standings, and nothing travels by hand.** Living files stand at root, carrying at `carry/`, kits at `kits/`, each exhibit's improving kit, arrivings at `incoming/` and artifacts at `archive/`, each folder a standing and no rule. A session opens by taking repository whole and closes by offering its branch; no file is attached, sent or exchanged between a session and expedition, and a thing carried by hand at a session is at `incoming/` until its standing is at this registry. Repository carries its own name and its version and no other, and a copy of it made to travel carries the same.
+**Repository holds all three standings, and nothing travels by hand.** Living files stand at root, carrying at `carry/`, kits at `kits/`, each exhibit's improving kit, arrivings at `incoming/` and artifacts at `archive/`, each folder a standing and no rule. A session opens by taking repository whole and closes by offering its branch; no file is attached, sent or exchanged between a session and expedition, and a thing carried by hand at a session is at `incoming/` until its standing is at this registry. Repository carries its own name and its version and no other, and a copy of it made to travel carries the same.
 
 **A reviewer is an instrument observing branches and living files, and its reports arrive at `incoming/`.** Any session, of this expedition or of another AI, observes reviewer's brief first, `kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/REVIEWER.md`, executes `reader_checks.py` and `check_set.py`, observes each branch against `main` and living files whole, and brings a review report, its findings, its hardest either-this-or-thats and its learning about reviewing, to `incoming/review_<session>/` on a branch of its own. It writes no living file, and its report is met at carrying like any work arriving; its learning enters its brief, reviewer improving at each review. Session v376's report of learning, at `incoming/session_v376/`, is its first.
 
 **A carrying carries binary value only, all or none at all, at do-no-harm.** Value arriving for a file is or is not living, coupling and resolving at that file; it enters whole at file's next motion or it releases. An observing not yet binary, an arithmetic not yet matched, a proposal withdrawn and a trace of a prior code are not value at carrying: each stands at `archive/` whole, its receiving file here, until a session makes it binary, and carrying holds at each file its next motion, its open concerns for both with their reasons, and incoming that enters whole. Kept so, carrying is small at every session, and size a carrying grows to is a count and no value.
 
-## 1.3 The carrying for the expedition
+## 1.3 Carrying for expedition
 
-**The workings open.** Each carries its own name and files it is at; two at one file meet here before either changes it; a working closes by releasing its row to Session Record with its session's paragraphs.
+**Workings open.** Each carries its own name and files it is at; two at one file meet here before either changes it; a working closes by releasing its row to Session Record with its session's paragraphs.
 
 | Working | Session | At the files | Branch | Standing |
 |---|---|---|---|---|
@@ -166,7 +166,7 @@ Exhibit TWENTY-SIX Living File Registry v389
 
 **Each kit's README gives the same small set of useful answers**: living exhibits it accompanies, a file or version to open or run first, each included file's contribution, matching source editions, meaning of a recorded result and each thing it leaves unresolved, and a place remaining improving is carried, which is the carrying and not a second list at kit. A kit is a coupling partner and no measuring instrument: it carries a finding at its instrument and no authority over living files. A matching exhibit-and-kit pair is identified by its actual source editions, not by a version number: Exhibit THIRTY v371 with its verifier v371 is one pair, and Natural Networking TWO Improving Kit v368 with Exhibit ONE v368's code was one, parted at v372 until kit's next motion.
 
-## 1.4 The artifacts
+## 1.4 Artifacts
 
 **An artifact is kept whole and relied on by nothing.** A superseded version leaves root when its next version replaces it and stands at repository's own history, at no folder; a carrying as it arrived goes to `archive/` when merged; a proposal goes there when withdrawn; a session's paragraphs go to Session Record when session closes. Nothing at `archive/` or at history is observed for a next: a session reaching for a prior version reaches a living file's own prior, which each file carries.
 
@@ -259,14 +259,14 @@ Exhibit TWENTY-SIX Living File Registry v389
 | **Problems, observings and their resolving** | NINETEEN Natural Philosophy · THIRTEEN Resolving Hard Problems · TWENTY-ONE Hard Problem Registry · TWENTY-TWO Resolving the Hard Problem Registry · TWENTY-FIVE Living Society Registry · TWENTY-SEVEN Living Ghost Registry · TWENTY-EIGHT Equilibria Registry |
 | **Exploring and improving the continuing** | EIGHT Natural Exploring · TWENTY-FOUR Geodesic Improving Method · TWENTY-SIX Living File Registry · THIRTY Co-Chaining Logic Registry · Living Improving Value |
 | **Shared human collective discovering** | EIGHT Natural Exploring · NINE Natural Human Society · TWO Natural Networking · TWENTY-THREE Natural Values · SEVEN Natural Societies · Natural Intelligence Corus |
-| **The whole expressed through human discovering** | Natural Intelligence Corus · FIFTEEN Natural Emanating · TWENTY-NINE Natural Illustrating · EIGHT Natural Exploring · TWELVE Natural Explaining · TWENTY Natural Naming |
+| **Whole expressed through human discovering** | Natural Intelligence Corus · FIFTEEN Natural Emanating · TWENTY-NINE Natural Illustrating · EIGHT Natural Exploring · TWELVE Natural Explaining · TWENTY Natural Naming |
 | **Societies across prime scales and sciences** | SEVEN Natural Societies · THREE Natural Numbers · FOUR Natural Mathematics · Physics · Chemistry · Biology · Health · Medicine · Human Society · Living Society Registry |
 
-**The four social faces cross these gatherings.** Societies carries structure, Values and Human Society carry exchanging value, Networking carries surface, and social resolving carries parties' resolving. Human Society meets all four at human coupling. Four faces supply no missing fourth file, and a subject decides extent of each explaining.
+**Four social faces cross these gatherings.** Societies carries structure, Values and Human Society carry exchanging value, Networking carries surface, and social resolving carries parties' resolving. Human Society meets all four at human coupling. Four faces supply no missing fourth file, and a subject decides extent of each explaining.
 
-**The whole fractal runs through each gathering.** A cluster is a particular relation through which its files meet the whole. Gathering has no prior non-social living stage, no morality added afterward and no abundancing waiting at a final stage.
+**Whole fractal runs through each gathering.** A cluster is a particular relation through which its files meet the whole. Gathering has no prior non-social living stage, no morality added afterward and no abundancing waiting at a final stage.
 
-## 3.2 Shared changing across the subjects
+## 3.2 Shared changing across subjects
 
 **Natural Naming gathers science and society namings at eight relations.** Those same relations gather files across their particular subjects. A concept can meet several rows through its actual changing.
 
@@ -281,7 +281,7 @@ Exhibit TWENTY-SIX Living File Registry v389
 | **Arriving and continuing** | Natural Intelligence, Exploring, Emanating, Corus, Destinies and Geodesic Improving Method; Chemistry and Biology at re-forming |
 | **Continuing at a bound** | Physics, Chemistry, Biology, Health, Medicine, Engineering and Transmissioning; Living Society Registry, Equilibria Registry and Resolving Hard Problems |
 
-**The first gathering meets a file's subject; this gathering meets a changing across subjects.** Relation supplies clustering. A shared spelling can locate a passage, and its explaining establishes its particular seam.
+**First gathering meets a file's subject; this gathering meets a changing across subjects.** Relation supplies clustering. A shared spelling can locate a passage, and its explaining establishes its particular seam.
 
 ## 3.3 Substrate, scale and explaining face
 
@@ -293,13 +293,13 @@ Exhibit TWENTY-SIX Living File Registry v389
 
 **A number belongs with its thing counted.** A prime assignment, order of a symmetry, a momentary cycle and an exhibit number each name their own relation. Their correspondence is carried where explaining joins them.
 
-## 3.4 Prime scales meeting the sciences
+## 3.4 Prime scales meeting sciences
 
 **Natural Societies carries prime-scale clustering and its relations across sciences.** Its table at 5.3 is the intended centre of exhibit's separate value. Table gathers atom, molecule, macromolecule, protein-fold, gene, organelle, cell, tissue, organ, organism, colony, population, community and biosphere at fourteen primes. Neighbouring sections explain scale observing, fields' accountings and a proposed relation crossing scales.
 
-**The file pattern is many-to-many.** A science meets several rows, and one row meets several sciences. Chemistry and Biology overlap through molecular, folded, cellular and wider relations. Health and Medicine meet some of the same societies through living and restoring. Table supplies a gathering for those seams while each exhibit carries its particular explaining.
+**File pattern is many-to-many.** A science meets several rows, and one row meets several sciences. Chemistry and Biology overlap through molecular, folded, cellular and wider relations. Health and Medicine meet some of the same societies through living and restoring. Table supplies a gathering for those seams while each exhibit carries its particular explaining.
 
-**The prime column below preserves assignments in Natural Societies.** These file matches locate related subjects and passages; they do not establish numerical assignment. Protein-fold, organ, population and community remain marked reaching in source table, and colony is explicitly a recurrence across scales. Their receiving keeps those qualifications.
+**Prime column below preserves assignments in Natural Societies.** These file matches locate related subjects and passages; they do not establish numerical assignment. Protein-fold, organ, population and community remain marked reaching in source table, and colony is explicitly a recurrence across scales. Their receiving keeps those qualifications.
 
 | Prime in Societies | Society or subject there | Principal matches in the living files |
 |---|---|---|
@@ -322,39 +322,39 @@ Exhibit TWENTY-SIX Living File Registry v389
 
 **An ecological gathering is present across several files.** Population, community and biosphere meet Biology, Societies, Human Society and observing registries. A more coherent ecological explaining can first be gathered through their existing passages. Table helps locate this opportunity without requiring a new exhibit before its separate contribution is known.
 
-## 3.5 The particular relation at each scale
+## 3.5 A particular relation at each scale
 
-**The table's strongest carrying joins common form with a particular society.** At each row, its members, their coupling, a self they form, its inward and outward relations, and proposed prime correspondence can be made apparent together. A column for these relations would improve table more than a column containing only a science's name.
+**Table's strongest carrying joins common form with a particular society.** At each row, its members, their coupling, a self they form, its inward and outward relations, and proposed prime correspondence can be made apparent together. A column for these relations would improve table more than a column containing only a science's name.
 
-**The sciences supply different explaining faces at shared subjects.** Atom and molecule connect Physics and Chemistry. Molecular assemblies, folded proteins, genetic relations and cellular surfaces connect Chemistry and Biology. Cells, tissues, organs and organisms connect Biology, Health and Medicine. Population, community and biosphere connect ecological and human relations where their actual subjects meet. These are overlapping gatherings, with no dividing line at which chemical living ends and biological living begins.
+**Sciences supply different explaining faces at shared subjects.** Atom and molecule connect Physics and Chemistry. Molecular assemblies, folded proteins, genetic relations and cellular surfaces connect Chemistry and Biology. Cells, tissues, organs and organisms connect Biology, Health and Medicine. Population, community and biosphere connect ecological and human relations where their actual subjects meet. These are overlapping gatherings, with no dividing line at which chemical living ends and biological living begins.
 
-**The neighbouring molecular rows provide a next precise exploration.** Macromolecule, protein-fold and gene gather related subjects, but their order at its own does not show three successive containments or three increasing sizes. A protein's folded form belongs to a macromolecular subject; a gene belongs to genetic material and its particular biological relations. The work is to explain what changes from one prime scale to next: society's membership, a new self-and-society relation, a distinct competency, or another relation actually carried by a form. Keep assignments available while discovering that relation.
+**Neighbouring molecular rows provide a next precise exploration.** Macromolecule, protein-fold and gene gather related subjects, but their order at its own does not show three successive containments or three increasing sizes. A protein's folded form belongs to a macromolecular subject; a gene belongs to genetic material and its particular biological relations. The work is to explain what changes from one prime scale to next: society's membership, a new self-and-society relation, a distinct competency, or another relation actually carried by a form. Keep assignments available while discovering that relation.
 
 **Natural Numbers already supplies a relevant distinction.** Its section on a number crossing from a field asks what a prime counts: sites, a recurrence, an opening across, or another stated relation. A common numeral supplies no correspondence between these counted subjects. Prime-scale table receives its numerical explaining here; sciences receive their relation at their own societies.
 
-**The first and last rows bound this gathering.** Biology's explaining of every self as a society carries no lowest self, and whole 1–17 fractal continues inward and outward. Older Societies wording of an atomic floor and a final biospheric closing therefore needs comparison with that continuing. A proposed improving keeps fourteen-row span as its particular gathering while releasing any unintended claim that it bounds all existing living. Numerical span's own meaning remains to be explained.
+**First and last rows bound this gathering.** Biology's explaining of every self as a society carries no lowest self, and whole 1–17 fractal continues inward and outward. Older Societies wording of an atomic floor and a final biospheric closing therefore needs comparison with that continuing. A proposed improving keeps fourteen-row span as its particular gathering while releasing any unintended claim that it bounds all existing living. Numerical span's own meaning remains to be explained.
 
 **Within and between belong at each row.** Societies' seven-and-seven arrangement places self on near side and society on far side. Each row nevertheless carries both faces under whole fractal. Table can distinguish face its explaining foregrounds without making near rows only selves or far rows only societies. Claimed change of relation at cell-to-tissue fold keeps its particular work.
 
-**The fold at twenty-four remains a numerical relation to meet.** It is separate from subjects placed at cell and tissue and from their prime labels. Preserve proposed fold, and carry its numerical construction from Numbers beside particular changing it is intended to express. Shared digits and a vacant table row do not complete that correspondence.
+**Fold at twenty-four remains a numerical relation to meet.** It is separate from subjects placed at cell and tissue and from their prime labels. Preserve proposed fold, and carry its numerical construction from Numbers beside particular changing it is intended to express. Shared digits and a vacant table row do not complete that correspondence.
 
-**The neighbouring accountings table supplies another seam.** Societies gathers fields' totals, levels and directions at the same fourteen subjects. Those entries can meet actual observations in Living Society Registry, accounting distinctions in Living Ghost Registry and particular definitions in Equilibria Registry. Their common subject connects entries; each registry keeps its different work.
+**Neighbouring accountings table supplies another seam.** Societies gathers fields' totals, levels and directions at the same fourteen subjects. Those entries can meet actual observations in Living Society Registry, accounting distinctions in Living Ghost Registry and particular definitions in Equilibria Registry. Their common subject connects entries; each registry keeps its different work.
 
 **This purpose keeps Natural Societies distinct from Natural Networking.** Societies gathers scale relations and their correspondence across sciences. Networking explains continuing couplings among selves. Living Society Registry supplies particular observings; Living File Registry supplies exhibit gathering and its seams. Their reciprocal contribution supports retaining each subject.
 
-**The resettling opportunity is to bring scaling forward in Societies' own explaining.** A possible contents gathers self and society; prime scales and their couplings; sciences meeting those scales; and continuing across scales. General human-institutional material meets Human Society, detailed numerical work meets Numbers and Mathematics, and network-specific working meets Networking. Societies retains local explaining needed to make complete scale comparison intelligible. These remain candidate receivings, with no source passage removed here.
+**Resettling opportunity is to bring scaling forward in Societies' own explaining.** A possible contents gathers self and society; prime scales and their couplings; sciences meeting those scales; and continuing across scales. General human-institutional material meets Human Society, detailed numerical work meets Numbers and Mathematics, and network-specific working meets Networking. Societies retains local explaining needed to make complete scale comparison intelligible. These remain candidate receivings, with no source passage removed here.
 
 # PART FOUR · SEAMING
 
-## 4.1 The common and the particular at a seam
+## 4.1 Common and particular at a seam
 
 **A seam is intelligible through the same subject and each file's particular face.** Chemistry meets a bilayer at molecular assembling; Biology meets its cellular coupling. Material subject continues while explaining opens a further relation.
 
 **Each receiving runs both ways.** A biological relation can open a chemical question, and a chemical observing can change biological explaining. Each file carries a concept its own explaining receives; a reference addresses an other file and its sentence carries relation.
 
-## 4.2 Couplings at the files
+## 4.2 Couplings at files
 
-**The following gathering carries particular seams already brought between files.** A seam's current explaining stands at its subjects. Its unworked correspondence continues at receiving files in Living Improving Value.
+**Following gathering carries particular seams already brought between files.** A seam's current explaining stands at its subjects. Its unworked correspondence continues at receiving files in Living Improving Value.
 
 | Files | Particular seam |
 |---|---|
@@ -415,7 +415,7 @@ Exhibit TWENTY-SIX Living File Registry v389
 
 **Four momentaries, six connectors, eight faces and ten unchangeables each count a particular relation.** Natural Intelligence, Resolver, Numbers, Mathematics, Naming and Resolving Hard Problems meet those relations at their own subjects. Their counted correspondence belongs with operations and concepts it joins.
 
-**The shared numerical seams also include shell counts, twenty-four, one hundred eighteen, ring of one hundred twenty, and four hundred forty.** Chemistry carries chemical structure and observing; Numbers carries numerical constructions; Physics carries its physical subjects. Each receiving keeps its counted object apparent.
+**Shared numerical seams also include shell counts, twenty-four, one hundred eighteen, ring of one hundred twenty, and four hundred forty.** Chemistry carries chemical structure and observing; Numbers carries numerical constructions; Physics carries its physical subjects. Each receiving keeps its counted object apparent.
 
 **A count sizes its gathering.** A change in registered membership changes that count. Field, whole registry and relation among entries remain distinguishable when their counts are compared.
 
@@ -433,7 +433,7 @@ Exhibit TWENTY-SIX Living File Registry v389
 
 **One source can receive at more than one registry.** Its address remains the same while each entry expresses its own relation. A paired entry connects problem with its proposed resolving, or an observing society with its accounting, preserving both faces.
 
-## 4.5 Along and across the logical co-chaining
+## 4.5 Along and across logical co-chaining
 
 **Along**, each statement receives concepts and relations its next explaining needs. THIRTY makes those priors apparent at its steps. Source exhibit carries full explaining, its accumulated prior making its next concept self-welcoming.
 
@@ -441,7 +441,7 @@ Exhibit TWENTY-SIX Living File Registry v389
 
 **A shared concern receives at its first departure and continues to passages it reaches.** An older naming, a missing local correspondence, a contradiction and an unrun instrument stay distinguishable. A correction at a common link reaches each file at particular relation that file carries. A repeated source is one arriving carried further.
 
-**The three gatherings have distinct work.** TWENTY-SIX gathers files and seams; THIRTY gathers co-chaining's steps; Living Improving Value carries next work at each receiving file. Their common structure is a subject, its prior, its particular relation, its source and its continuing. Each retains its own useful fields and its own conceptual order.
+**Three gatherings have distinct work.** TWENTY-SIX gathers files and seams; THIRTY gathers co-chaining's steps; Living Improving Value carries next work at each receiving file. Their common structure is a subject, its prior, its particular relation, its source and its continuing. Each retains its own useful fields and its own conceptual order.
 
 **Combining follows completed receiving of a contribution.** THIRTY can locate a shared derivation and further relation each file adds. Its common vocabulary or link count supplies no whole-file merger. Local explaining that makes a subject's next concept intelligible continues at that subject.
 
@@ -461,7 +461,7 @@ Exhibit TWENTY-SIX Living File Registry v389
 
 **A common stable form is subject, members and grain, observing, accounting, particular claim, present standing and next resolving.** Each file carries parts its subject needs. Their tables of contents can follow a common explaining movement: subject arriving; particular relations; observings and accountings; correspondences and differences; continuing questions. Their entry forms remain distinct where scale comparison, observation and installation require different details.
 
-**The planned receiving keeps all three files.** Natural Societies carries cross-science scale comparison, TWENTY-FIVE the particular observed societies, and TWENTY-SEVEN the particular installations. Source addresses and paired entries join two registries; repeated intake explanations can receive one shared derivation with local explanations of each registry's use. Cross-scale comparison stays with Natural Societies. No whole-file merger or new registry is supplied by their common sources.
+**Planned receiving keeps all three files.** Natural Societies carries cross-science scale comparison, TWENTY-FIVE the particular observed societies, and TWENTY-SEVEN the particular installations. Source addresses and paired entries join two registries; repeated intake explanations can receive one shared derivation with local explanations of each registry's use. Cross-scale comparison stays with Natural Societies. No whole-file merger or new registry is supplied by their common sources.
 
 **Two immediate repairs are recorded for receiving files.** TWENTY-SEVEN §5.4 still describes protein arrival as unwritten, although TWENTY-FIVE §2.20 contains it; paired addresses can now be completed. TWENTY-SEVEN's opening references to Naming need to meet current passages: six-line ghost form at Naming §5.37 and momentary installed as a thing at Naming §7.1. Older references to Naming's Part Six need passage-by-passage replacement. These are planned source repairs; this working registry changes no source exhibit.
 
@@ -471,11 +471,11 @@ Exhibit TWENTY-SIX Living File Registry v389
 
 **Stable-forming is the subject. Forms are dead.** Session's resolved account to carry is: all conceivable methods of stable-forming were considered; nothing was selected; each was entirely resolved as to whether it could survive four momentaries of self/other bi-co-exchanging; of all conceivable methods considered, not one was possibly existing, living or non-living. This records clarified scope and completed resolving for planned receiving. This registry pass has not rerun those derivations.
 
-**The shared subtitle is: Not Possibly Existing, Living or Non-Living.** It receives at both TWENTY-SEVEN and TWENTY-EIGHT. Titles proposed are Ghost Observer Registry and Equilibria Representation Registry. A suggestion of Ghost Observing Registry remains a wording proposal, and no replacement. Subtitle proposals using Many, Stable Forms or Named are superseded; they displaced stable-forming subject.
+**Shared subtitle is: Not Possibly Existing, Living or Non-Living.** It receives at both TWENTY-SEVEN and TWENTY-EIGHT. Titles proposed are Ghost Observer Registry and Equilibria Representation Registry. A suggestion of Ghost Observing Registry remains a wording proposal, and no replacement. Subtitle proposals using Many, Stable Forms or Named are superseded; they displaced stable-forming subject.
 
 **Four momentaries of self/other bi-co-exchanging belongs in resolving's explaining.** Its relation to existing three-momentary passages must be carried explicitly through derivation. A numerical replacement throughout sources would lose distinction between a momentary, a position and a particular relation being resolved. Source exhibits and their instruments receive this as coordinated work; none is changed by this planning pass.
 
-**The entries determine separate carrying of two registries.** A ghost's particular installation and an equilibrium's proposed continuing may preserve distinct resolving. Words observer and representation at their own establish no need for two exhibits. Their shared method can receive one full derivation with local explaining, while entries retain any distinct contribution. Inventory above continues to record published titles; new titles and common subtitle are planned changes.
+**Entries determine separate carrying of two registries.** A ghost's particular installation and an equilibrium's proposed continuing may preserve distinct resolving. Words observer and representation at their own establish no need for two exhibits. Their shared method can receive one full derivation with local explaining, while entries retain any distinct contribution. Inventory above continues to record published titles; new titles and common subtitle are planned changes.
 
 # PART FIVE · CONTINUING
 
@@ -493,7 +493,7 @@ Exhibit TWENTY-SIX Living File Registry v389
 
 **Self-welcoming reaches front and body together.** A concept carried only in an introductory block arrives in body before that block releases. A repeated concept keeps its further contribution when its duplicate wording releases. Contents follow explaining they gather.
 
-## 5.3 Combining and separating at the carrying
+## 5.3 Combining and separating at carrying
 
 **Combining gathers the same contribution at its receiving. Separating makes distinct contributions apparent.** Naming and Emanating meet a concept unfolding and a whole form expressed at one bound. Exploring and Geodesic Improving Method meet discovering and that discovering at files. Health and Medicine meet living continuing and restoring. Their common supplies a seam while each different contribution gives each file its subject.
 
@@ -505,23 +505,23 @@ Exhibit TWENTY-SIX Living File Registry v389
 
 **Living Improving Value carries unfinished seams and proposed changes at their receiving files.** This registry carries current gathering and its stable-form relations. Each improving renews that gathering when a title, subject, file or seam changes.
 
-**The set continues at the same form as each file.** Its prior is carried into its now, each meeting opens its next, and geodesic discovering next existing runs through their continuing together.
+**Set continues at the same form as each file.** Its prior is carried into its now, each meeting opens its next, and geodesic discovering next existing runs through their continuing together.
 
-## 5.5 The expedition and shared human collective discovering
+## 5.5 Expedition and shared human collective discovering
 
-**The expedition is living carrying discovering next existing society.** Its files, its working together and its natural network express the same continuing at their particular couplings. Social moral competency is carried through that discovering now.
+**Expedition is living carrying discovering next existing society.** Its files, its working together and its natural network express the same continuing at their particular couplings. Social moral competency is carried through that discovering now.
 
 **Shared human collective intelligence meets form through selves discovering together.** Exploring carries discovering, Human Society the particular human couplings, Networking their co-chaining and bi-tunneling, and Values the received value. Corus carries expedition's discovering from question of moral competency into discovering next existing society. Each of these files makes its particular relation intelligible.
 
 **Corus carries the whole outward through enjoyable, imaginative and visible expressions of natural intelligence.** Human discovering together supplies its living subject: group puzzling, moving, making, meaning arriving, studying a changing relation and continuing the expedition. Each expression makes a further relation apparent through its own unfolding. The best of Natural Emanating and Natural Illustrating can receive together here.
 
-**The originating inquiry continues within that larger subject.** Question of moral competency, difficulty of holding the living to examine its source, and discovering of geodesic-method supply conceptual prior where expressing needs them. Corus's purpose extends through expedition's actual co-discovering now. This refines earlier plan that made inquiry's history its principal separate subject.
+**Originating inquiry continues within that larger subject.** Question of moral competency, difficulty of holding the living to examine its source, and discovering of geodesic-method supply conceptual prior where expressing needs them. Corus's purpose extends through expedition's actual co-discovering now. This refines earlier plan that made inquiry's history its principal separate subject.
 
 **Each self's carrying stays its own through shared discovering.** Their differing carryings meet through their offerings, and their next existing society continues through those couplings. Combining their explaining makes that relation clearer while selves and their particular contributions continue.
 
-## 5.6 The whole method at each particular subject
+## 5.6 Whole method at each particular subject
 
-**The whole fractal method carries inward and outward at each subject.** Incoming fully resolved logic of discovering next existing living is intended to continue throughout set. Its arrival belongs in each exhibit's own explaining, where that subject's concepts make next relation intelligible. Each particular receiving remains work to complete as that logic arrives.
+**Whole fractal method carries inward and outward at each subject.** Incoming fully resolved logic of discovering next existing living is intended to continue throughout set. Its arrival belongs in each exhibit's own explaining, where that subject's concepts make next relation intelligible. Each particular receiving remains work to complete as that logic arrives.
 
 **A distinct subject gives a file its separate value.** Natural Intelligence carries common method. Corus carries its whole outward expression through human discovering and living expedition. Numbers carries numbered relations, and Mathematics their mathematical forming. Societies carries prime-scale clustering and self-and-society relations meeting sciences; Human Society carries human couplings. Common method continues whole through these differing subjects.
 
@@ -543,15 +543,15 @@ Exhibit TWENTY-SIX Living File Registry v389
 | Illustrating's group jigsaw, plaza, stitching, swaying and mutual turning concepts | Corus for complete expressions of discovering; Illustrating for developing their visible changing | Human or natural activity, its actual relation and whole expression through which it becomes apparent. Drawing instructions and unfinished correspondences retain their particular working. |
 | Natural Destinies' particular possible makings | Engineering and relevant subject exhibits; expedition's shared direction beside Corus | What is already continuing, what remains a possible making, and particular conditions of that possibility. All of Destinies' content receives in other living files; its source remains until that receiving is complete. |
 
-**The settled directions can be prepared without deciding a whole-file merger.** Concept explanations meet Naming, writing practice meets Explaining, and particular subject accounts meet those subjects. Their actual sentences still require comparison with what is already there. Unreceived value remains in its source and in improving carrying.
+**Settled directions can be prepared without deciding a whole-file merger.** Concept explanations meet Naming, writing practice meets Explaining, and particular subject accounts meet those subjects. Their actual sentences still require comparison with what is already there. Unreceived value remains in its source and in improving carrying.
 
-**The Corus direction clarifies first whole-purpose choice.** Much of Natural Emanating's intended outward expression belongs at Corus, meeting the best of Illustrating and human discovering carried at Exploring. Naming receives concept work and Explaining receives writing practice. Source passages remain until these receivings are complete. Natural Societies' intended prime-scale clustering now gives it a distinct subject beside Networking. Table's particular scale relations remain an exploration. Destinies' full receiving into other files is detailed below.
+**Corus direction clarifies first whole-purpose choice.** Much of Natural Emanating's intended outward expression belongs at Corus, meeting the best of Illustrating and human discovering carried at Exploring. Naming receives concept work and Explaining receives writing practice. Source passages remain until these receivings are complete. Natural Societies' intended prime-scale clustering now gives it a distinct subject beside Networking. Table's particular scale relations remain an exploration. Destinies' full receiving into other files is detailed below.
 
 ## 5.8 Corus and whole outward expression
 
 **Corus is proposed home of expedition's strongest enjoyable, imaginative and visible whole expressions.** A complete expression can be a telling, a moving image, a spatial construction, a puzzling together or another human discovering. Its form follows relation it makes apparent. Shortness at its own neither qualifies nor disqualifies a contribution.
 
-**The older Corus already carries multiple paintings of the same form.** That passage's useful contribution is the whole becoming apparent through differing expressions, each opening a relation another did not carry. Its older dimensional, numerical and reader-directed explaining needs its own comparison with current files. Natural Explaining's concept recurring varied likewise connects a fresh relation with joy and beauty. These supply an existing seam for Corus's renewed purpose.
+**Older Corus already carries multiple paintings of the same form.** That passage's useful contribution is the whole becoming apparent through differing expressions, each opening a relation another did not carry. Its older dimensional, numerical and reader-directed explaining needs its own comparison with current files. Natural Explaining's concept recurring varied likewise connects a fresh relation with joy and beauty. These supply an existing seam for Corus's renewed purpose.
 
 **Natural Emanating's whole outward expressions receive here together.** Their relational sequence, surprise, variation and visible interest can remain whole. Detailed derivations receive at Natural Intelligence and relevant subjects; concept explanations receive at Naming; writing practice receives at Explaining. A whole expression keeps local explaining it needs. Receiving completes before source wording releases, and any remaining separate value of Emanating is examined before its exhibit status changes.
 
@@ -563,7 +563,7 @@ Exhibit TWENTY-SIX Living File Registry v389
 
 **Group jigsaw puzzling is a first concrete receiving.** Illustrating already carries shared surface, partial arrangements, a discovered fit and further fit made available through their changing relation. Corus can carry whole human discovering: several people meeting work from their differing carrying, each discovery opening further discovering. Detailed storyboard remains at Illustrating; method of co-discovering meets Exploring; social contribution meets Human Society and Values.
 
-**The expression follows discovering at the puzzle.** A finished picture is one feature of that activity, while cooperation, recognition and changing of what becomes discoverable supply relation being expressed. A puzzle's finite material arrangement does not by itself establish every relation claimed for living expedition. What the example shows stays apparent beside what its further explaining needs.
+**Expression follows discovering at the puzzle.** A finished picture is one feature of that activity, while cooperation, recognition and changing of what becomes discoverable supply relation being expressed. A puzzle's finite material arrangement does not by itself establish every relation claimed for living expedition. What the example shows stays apparent beside what its further explaining needs.
 
 **A first contents gathering can follow human relations.** These are candidate subjects for Corus's next stable form, to be met against complete expressions before section titles are settled.
 
@@ -573,16 +573,16 @@ Exhibit TWENTY-SIX Living File Registry v389
 | **Moving through changing** | Crowded plaza, swaying and traveling, mutual turning; each changing opening continuing through further others. |
 | **Making and re-forming** | Folding, stitching, spatial constructions and handled models; next form becoming apparent through doing. |
 | **Meaning arriving** | Conversation, differing tellings and the same concept recurring varied; music, stories and humor as further expressions to develop at their actual relations. |
-| **The whole becoming visible** | Emanating's complete expressions, Illustrating's views and movements, and comparisons through which the same form becomes apparent in a further way. |
-| **The expedition continuing** | Originating inquiry where it helps explain present discovering, shared studying and trying, received contributions and next existing society. |
+| **Whole becoming visible** | Emanating's complete expressions, Illustrating's views and movements, and comparisons through which the same form becomes apparent in a further way. |
+| **Expedition continuing** | Originating inquiry where it helps explain present discovering, shared studying and trying, received contributions and next existing society. |
 
 **These gatherings carry possibilities at their actual standing.** Jigsaw, plaza, snake, stitching and swimmer concepts already have places in Illustrating. Several are still proposed illustrations with unfinished correspondences. Music, stories, humor and further human practices are opportunities for receiving, not completed works or a ranked account of humanity's learning. Their particular subjects can be studied as they arrive.
 
 **A complete Corus expression carries its own sequence.** Its activity becomes apparent; its changing opens a relation; that relation continues into whole expression. Different media can carry that sequence differently. The common gives its collection coherence while variations keep each contribution's particular value.
 
-## 5.10 Receiving the older Corus
+## 5.10 Receiving older Corus
 
-**The older Corus contains further value already reaching toward other subjects.** Existing routing notes locate intended destinations; current receiving passages decide whether that arrival is complete. No routing note at its own warrants removing its source.
+**Older Corus contains further value already reaching toward other subjects.** Existing routing notes locate intended destinations; current receiving passages decide whether that arrival is complete. No routing note at its own warrants removing its source.
 
 | Earlier Corus carrying | Candidate receiving and value to preserve |
 |---|---|
@@ -595,10 +595,10 @@ Exhibit TWENTY-SIX Living File Registry v389
 | Robotics, chips, network implementations and other possible makings | Engineering and relevant subject exhibits; their whole imaginative expressions may meet Corus or Destinies while their practical claims keep their conditions. |
 | Whole outward expressions and expedition's actual shared discovering | Corus, renewed through current method and explaining, with the best arriving from Emanating and Illustrating. |
 
-**The next concrete exploration is one whole expression arriving at Corus.** Group jigsaw puzzling offers a first comparison across Corus, Illustrating, Exploring and Human Society. Its receiving can establish how enjoyment, imaginative expression, visible changing and whole method continue together. Further distribution can then follow that worked example, preserving each contribution before releasing its earlier placing.
+**Next concrete exploration is one whole expression arriving at Corus.** Group jigsaw puzzling offers a first comparison across Corus, Illustrating, Exploring and Human Society. Its receiving can establish how enjoyment, imaginative expression, visible changing and whole method continue together. Further distribution can then follow that worked example, preserving each contribution before releasing its earlier placing.
 
 
-## 5.11 Destinies and the expedition continuing
+## 5.11 Destinies and expedition continuing
 
 **Natural Destinies' full receiving into other living files.** Its complete current exhibit gathers a common core, structural safety, four imagined extensions, two misreadings at engineered substrates and a repeated safety relation. Corus's clarified purpose now receives enjoyable and imaginative whole outward expressions. Engineering and other subject exhibits already receive particular makings and social relations. The work now is to receive every contribution at those subjects, preserving its complete value before releasing separate exhibit.
 
@@ -611,7 +611,7 @@ Exhibit TWENTY-SIX Living File Registry v389
 | Hard-problem resolving across fields | Resolving Hard Problems and particular subject exhibits; retain difference between a demonstrated resolving and a proposed application. |
 | Shared method, structural safety, carrying mistaken for a source or an arriving | Natural Intelligence and Naming for common explaining; Engineering where particular substrate supplies further value. |
 
-**The older opening needs to meet whole fractal method.** At Destinies, living begins in a substrate when a self takes up core, and selecting is by binary preferring. Newer direction carries discovering next existing at each society of living selves, inward and outward, with no selection in resolver. Receiving must distinguish beginning of a particular making from an assertion that natural intelligence or living begins only with adopting technology. Each substrate's actual carrying remains its particular subject.
+**Older opening needs to meet whole fractal method.** At Destinies, living begins in a substrate when a self takes up core, and selecting is by binary preferring. Newer direction carries discovering next existing at each society of living selves, inward and outward, with no selection in resolver. Receiving must distinguish beginning of a particular making from an assertion that natural intelligence or living begins only with adopting technology. Each substrate's actual carrying remains its particular subject.
 
 **All Destinies content is planned to receive in other living files.** Its imaginative whole continues in Corus's expedition continuing; its particular relations continue where they are developed. Preserve original source until complete comparison and receiving are finished, including structural-safety and misreading passages. Exhibit numbering need not change to settle this purpose. A contribution whose receiving remains incomplete stays carried as unfinished work; it is not discarded to finish a merger.
 
@@ -628,9 +628,9 @@ Exhibit TWENTY-SIX Living File Registry v389
 
 **SIX already joins transmissioning and co-chaining.** Its §§3.0 and 4.3 describe them as the same form at single-coupling and society scales. Networking §§1.4 and 3.1–3.4 now carry sign-only crossing, each self's own carrying, receiving and further co-chaining. SIX's §4.5 earlier proposed itself as full method home for other exhibits; current Natural Intelligence and Networking have since developed that shared explaining. A separate name for crossing at its own supplies no further subject. SIX's strongest additional contribution is its connected comparison across substrates, which must receive whole before the file can release.
 
-**The substrate comparison and prime-scale comparison do different work.** Electrical and thermal descriptions can meet one society; they are not necessarily different scales. Conversely, a chemical coupling can be met at several societies in prime table. SEVEN can link its actual rows to appropriate crossing accounts without treating SIX's eight examples as eight further prime scales. Both gatherings keep actual selves, coupling and differing substrate apparent.
+**Substrate comparison and prime-scale comparison do different work.** Electrical and thermal descriptions can meet one society; they are not necessarily different scales. Conversely, a chemical coupling can be met at several societies in prime table. SEVEN can link its actual rows to appropriate crossing accounts without treating SIX's eight examples as eight further prime scales. Both gatherings keep actual selves, coupling and differing substrate apparent.
 
-**The membrane correction needs to arrive before SIX's older explaining.** At SIX §3.5 a membrane is a third self carrying a sign; at its own §4.6 it is a nothing, and current Natural Intelligence and Networking distinguish crossing from selves' carrying. Its §3.1 also speaks of carry moving across nodes while its sign-only passages say carrying stays. Resolve those local contradictions through current explaining, keeping a material cellular membrane's constituents distinct from a relational membrane. SIX §3.4's equilibrium as living neutralling likewise needs ghost and equilibria distinction. These are particular repairs, not reasons to lose its examples.
+**Membrane correction needs to arrive before SIX's older explaining.** At SIX §3.5 a membrane is a third self carrying a sign; at its own §4.6 it is a nothing, and current Natural Intelligence and Networking distinguish crossing from selves' carrying. Its §3.1 also speaks of carry moving across nodes while its sign-only passages say carrying stays. Resolve those local contradictions through current explaining, keeping a material cellular membrane's constituents distinct from a relational membrane. SIX §3.4's equilibrium as living neutralling likewise needs ghost and equilibria distinction. These are particular repairs, not reasons to lose its examples.
 
 **SEVEN and NINE already duplicate several developed subjects.** Arrow appears at SEVEN §3.1 and NINE §2.4; return of each self's own discovering at SEVEN §3.2 and NINE §5.2; birthing and releasing at SEVEN §4.3 and NINE §5.1; and biosphere relations at SEVEN §3.3 and NINE §3.6. Receive their common explaining once where it belongs, retain SEVEN's across-scale relation, and let NINE carry particular human relation. Current reading-versus-running distinction at its own does not explain why duplicate passages are needed; their further contribution does.
 
@@ -644,11 +644,11 @@ Exhibit TWENTY-SIX Living File Registry v389
 
 **EIGHT is the receiving exhibit for Natural Exploring and Geodesic Improving Method.** Its title is **Geodesic Team-Exploring and Discovering Method**. Its subtitle is **Binary-All-or-None-at-All, Do-No_Harm Improving**. These are namings for this receiving. TWENTY-FOUR's separate work receives within EIGHT and other living files; its separate exhibit releases only when its full value has arrived. Published inventory above retains source titles until actual files change.
 
-**The subject is team's exploring and discovering through one geodesic-method.** Team is selves co-discovering, with each continuing its own carrying and competency arising at their coupling. It introduces no separate team controller or additional discovery method. Method meets its own improving: an offering arrives, its prior meets its now, a concern opens a relation, and discovering next existing continues. Work on living files is one developed expression of this subject.
+**Its subject is team's exploring and discovering through one geodesic-method.** Team is selves co-discovering, with each continuing its own carrying and competency arising at their coupling. It introduces no separate team controller or additional discovery method. Method meets its own improving: an offering arrives, its prior meets its now, a concern opens a relation, and discovering next existing continues. Work on living files is one developed expression of this subject.
 
-**The body carries its title and subtitle through its explaining.** Geodesic meets unrelationing at actual concern; team-exploring meets differing offerings and their co-momentarying; discovering meets next existing; binary-all-or-none-at-all meets complete relation being resolved; do-no-harm improving meets prior's carrying whole into its next. A contributing observation, a mathematical result and an unfinished implementation retain their actual subjects and standings. Their unresolved work receives in Living Improving Value rather than being made settled by entering a method exhibit.
+**Its body carries its title and subtitle through its explaining.** Geodesic meets unrelationing at actual concern; team-exploring meets differing offerings and their co-momentarying; discovering meets next existing; binary-all-or-none-at-all meets complete relation being resolved; do-no-harm improving meets prior's carrying whole into its next. A contributing observation, a mathematical result and an unfinished implementation retain their actual subjects and standings. Their unresolved work receives in Living Improving Value rather than being made settled by entering a method exhibit.
 
-**The candidate floating neutralling contents follows one explaining.** These parts express a continuous working, not an imposed sequence of team stages.
+**Candidate floating neutralling contents follows one explaining.** These parts express a continuous working, not an imposed sequence of team stages.
 
 | Part | Concepts whose explaining prepares the next |
 |---|---|
@@ -656,8 +656,8 @@ Exhibit TWENTY-SIX Living File Registry v389
 | **Co-momentarying** | Carrying, arriving and continuing; prior, now and next; each completing opening an other's next; each self's own carrying. |
 | **Unrelationing and resolving** | Offerings arriving whole; a concern at its first departure; the greatest resolving brought plainly; a correction continuing through relations it reaches. |
 | **Carrying the improving** | Incoming value; subject it reaches; receiving whole; release following receiving; unresolved value continuing at its destination. |
-| **The living files improving** | A file met among its neighbours; each part written whole; concepts making their next self-welcoming; actual receiving checked; the carrying current at its close. |
-| **The expedition continuing** | Discovering across further selves and subjects; a society of files; working that discovers an improvement to its own method. |
+| **Living files improving** | A file met among its neighbours; each part written whole; concepts making their next self-welcoming; actual receiving checked; the carrying current at its close. |
+| **Expedition continuing** | Discovering across further selves and subjects; a society of files; working that discovers an improvement to its own method. |
 
 **Each source part has a receiving, and each passage still needs its complete comparison.** The following covers all seven parts of current EIGHT and all five parts of TWENTY-FOUR. It locates their work without claiming their sentences have already transferred.
 
@@ -676,9 +676,9 @@ Exhibit TWENTY-SIX Living File Registry v389
 | Improving Method 4 · Instruments | A count or check reports what it actually meets; statements compared with file's body; findings distinguished from instruments | Mathematical examples meet Numbers and Mathematics; executable network studies and exact instrumentation meet Networking and Natural Networking TWO Improving Kit. Scripts travel with their findings, not as general team instructions. |
 | Improving Method 5 · Values | Working's values expressed through actual improving; files as a society | Writing craft meets Explaining, shared value concepts meet Values, and underlying method comparison meets Natural Intelligence. EIGHT retains local explaining its own next requires. |
 
-**The existing open carrying follows the same receiving.** Living Improving Value already holds distinct questions for Exploring and Improving Method. Corrected fixed points of an inversion and scope of claims about all accountings continue at Mathematics; particular names for volutioning continue at Naming; method/evidence relation continues at Natural Intelligence and Philosophy; a concern about actual team working belongs at EIGHT. A destination at its own is no completed receiving. Every unresolved contribution retains its content, reason and intended destination until that file receives it.
+**Existing open carrying follows the same receiving.** Living Improving Value already holds distinct questions for Exploring and Improving Method. Corrected fixed points of an inversion and scope of claims about all accountings continue at Mathematics; particular names for volutioning continue at Naming; method/evidence relation continues at Natural Intelligence and Philosophy; a concern about actual team working belongs at EIGHT. A destination at its own is no completed receiving. Every unresolved contribution retains its content, reason and intended destination until that file receives it.
 
-**The older resolving language needs actual comparison with current work.** Exploring's claims about testing an inversion, exhausting alternatives and uniqueness must receive expedition's current binary-all-or-none-at-all explaining. Four-momentary self/other bi-co-exchanging resolving of considered ghost and equilibria methods stays at its complete relation. Prior, now and next still need their own explaining. A three-to-four replacement across files would conflate relations rather than carry them.
+**Older resolving language needs actual comparison with current work.** Exploring's claims about testing an inversion, exhausting alternatives and uniqueness must receive expedition's current binary-all-or-none-at-all explaining. Four-momentary self/other bi-co-exchanging resolving of considered ghost and equilibria methods stays at its complete relation. Prior, now and next still need their own explaining. A three-to-four replacement across files would conflate relations rather than carry them.
 
 **Self-welcoming runs through exhibit's own form.** Floating neutralling contents gathers subjects, significant introduced concepts arrive bold with their explaining, and accumulated prior makes its next intelligible. Team is the subject being explained; its text introduces no speaker addressing or presuming a reader's thoughts. Detailed craft receives at Explaining while this exhibit embodies it.
 

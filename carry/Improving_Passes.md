@@ -31,7 +31,7 @@ Each of these is entered at Natural Naming 2.4 or 6.3 and at the files; a pass a
 
 | Pass | What | Size at v389's close |
 |---|---|---|
-| **0** | *the* at lines pass 2 held back: headings with their contents entries, Exhibit THIRTY's *Adding:* with its *Entering:* lines, bold openers, list lines | about 1,900 at twelve files: headings about 400, *Adding:* and *Entering:* lines about 1,000, list and contents lines about 500, and bold openers; headings re-said with their contents entries, *Adding* with its *Entering* |
+| **0** | *the* at headings with their contents entries, Exhibit THIRTY's *Adding:* with its *Entering:* lines, bold openers and list lines | done at v389: *the* at twelve files from about 24,100 to about 3,700, mostly records of earlier versions and proper names |
 | **1** | Offerings aimed at files already at v389, resolved by `rules_offerings.md`: carried, released, duplicate, risen, or a concern | about 2,180 items: Natural Physics 320, Equilibria Registry 112, Resolving the Hard Problem Registry 118, Resolving Hard Problems 90, Natural Numbers 84, Natural Illustrating 38, Geodesic Improving Method 348, Living File Registry 1,067 |
 | **2** | Concerns with the person, one at a time | 120 standing (Natural Intelligence 40, Exhibit ONE 22, Co-Chaining Logic Registry 22, Natural Naming 36), plus each concern pass 1 raises |
 | **3** | Twenty living files below v389 brought to v390, one motion per file: numbered names where a file names the resolver; the six release passes; its offerings resolved; its version line and `files.json` | about 534,000 words; see the table below |

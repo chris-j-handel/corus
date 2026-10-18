@@ -915,3 +915,65 @@ The field's arrivals stand here at one register and one binary. **Met**, taken a
 **And the register surfaces at the grain a build meets these at.** Of the fifty, twenty-one stand at a reference held, thirteen at a rate held, eight at a returned sign entered as cost and six at a magnitude driven. **The error at 2.5 carries all four and this file's arrivals reach the first hardest**, ten of them at an arriving held from behind. A field asked where its own hard problems pile answers at the reference, which is the holding put behind a coupling, ahead of it, or at its middle.
 
 **And the ring's own binary runs here and does not close.** The ten stand as five couplings, the odd face entering and the even face surfacing, and one binary asks at each whether the entering face carries more. At this field's fifty it returns yes at four and no at one: ten against none, five against two, six against three, seven against six, and then three against six at the last, where a two-way held to one side carries less than a membrane held as a cut. **Thirty-one stand at the membrane face and seventeen within.** One field is one field, and the phase is the assembly's rather than any field's own.
+
+## Re-said at the, pass 0, headings, contents and openers, v389
+
+- 1.1 A physical coupling, the one method at each physical subject
+
+- 2.5 Five fixings, the count grown at each observing
+
+- 2.7 A force re-explained as the coupling's own turning
+
+- 3.1 An atom at two faces, and the periodic table a catalog
+
+- 4.1 Hard problems at physics, and the eight steps
+
+- 4.2 Gravity, the conservation accounting with no coupling under it
+
+- 4.3 Fission and fusion, two phases about the iron centre
+
+- 4.9 A black hole and the cosmic background, one torus at two faces
+
+- 5.3 The field's problems at their fixings, pairings and three observings
+
+- 5.4 A gathering at the close, and the force words set down first
+
+- 5.5 Forces, constants and the offering
+
+- 5.9 Forward work, and the caution at physics
+
+- 5.11 Register, the field's arrivals at their fixings
+
+## 1.1 A physical coupling, the one method at each physical subject
+
+**The one method is at each observing before any one observing is pattern-matched, and each observing arrives as a pattern-matching.** Arriving is pattern-matching and no-other-possibling, Natural Intelligence 5.2: each arriving one possible, observings coming from prior and coupled with whole, with no filter, no selection and no why in them, and a pattern found is at its momentary.
+
+## 2.5 Five fixings, the count grown at each observing
+
+**The count grew at an observing and not at a rule.** It stood at two, then at three when an answer-before-the-running was observed. Register at 5.11 sorts thirty-two arrivals at holdings, and nine stand at a rate held and three at a returned sign entered as cost, which no row carried until now. **Observed at a grain a build meets these at, five are four**: a magnitude driven, a reference held at two of its three positions, a rate held, and a returned sign. A reference held at its third position, a middle held as an end, is one this file's own arrivals reach least. **And most of physics's hard problems carry two or three at once, they surface as bottomless** — problem of time carries all three.
+
+## 2.7 A force re-explained as the coupling's own turning
+
+## 3.1 An atom at two faces, and the periodic table a catalog
+
+## 4.1 Hard problems at physics, and the eight steps
+
+**The observations here are physics's own and checkable, and disequilibratings are a form's.** Each enters as its own run and takes eight, and new ones join as they are worked.
+
+## 4.2 Gravity, the conservation accounting with no coupling under it
+
+## 4.3 Fission and fusion, two phases about the iron centre
+
+## 4.9 A black hole and the cosmic background, one torus at two faces
+
+## 5.3 The field's problems at their fixings, pairings and three observings
+
+## 5.4 A gathering at the close, and the force words set down first
+
+## 5.5 Forces, constants and the offering
+
+## 5.9 Forward work, and the caution at physics
+
+## 5.11 Register, the field's arrivals at their fixings
+
+**And a register surfaces at a grain a build meets these at.** Of fifty, twenty-one stand at a reference held, thirteen at a rate held, eight at a returned sign entered as cost and six at a magnitude driven. **The error at 2.5 carries all four and this file's arrivals reach the first hardest**, ten of them at an arriving held from behind. A field asked where its own hard problems pile answers at a reference, which is a holding put behind a coupling, ahead of it, or at its middle.

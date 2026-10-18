@@ -1903,3 +1903,145 @@ A term is existing, artifact or accounting at its use, and ghost only at its ins
 **Both rise.** A word unfolds newly through the form, and the form unfolds newly from a word new to its gathering.
 
 **A word that gathers with none, other in its own way, sharpens the edge of the form's reaching as a word gathering cleanly does**, and a pair refusing to couple carries as a pair coupling carries.
+
+## Re-said at the, pass 0, headings, contents and openers, v389
+
+- 1.3 Naming across at the even, explaining along at the odd
+
+- 2.2 The fractal method, all or none at all at the scales
+
+- 2.6 Two prefixes at one spelling, and a one-way prefix installing the form it opposes
+
+- 3.4 Four momentaries, 8 up and the podals
+
+- 3.5 Naming and the resolver at one changing
+
+- 3.6 The four binaries, the explaining of the names
+
+- 4.2 Six forward, and the binary at each changing
+
+- 4.4 Two namings coupling, and the departing neither carried
+
+- 4.7 Interest self-orienting, and the drawing vocabulary
+
+- 4.9 The ten unchangeables, one name each
+
+- 4.10 Prefixing at a position, on the form, and from all other
+
+- 4.12 Two ways a naming nyes away, and the belonging of an arriving-at
+
+- 4.14 A pair at one momentary, and the freeze at the construction
+
+- 4.16 All or none at all, and the entering and leaving it carries
+
+- 4.17 A hyphenated naming inseparable, and natural- at the chirality
+
+- 4.18 Seven binaries at a naming, and each naming at the resolver's names
+
+- 5.5 the between
+
+- 5.53 27-next-co-prioring, the social abundancing
+
+- 5.61 entraining at the self
+
+- 7.2 One hundred eighteen, the going and the return
+
+- 8.6 Break, three ways, and the method's one
+
+- **Self-bounding the entire concept**: the concept bounds itself, is the whole concept.
+
+- **Orthogonalizing along its own line**: it opens its own axis, orthogonal to the concepts it is not.
+
+## 1.3 Naming across at the even, explaining along at the odd
+
+**The one universe of one momentary is one parity changing co-sequencing. A momentary is all existing things, a universe existing as its existing things exist.** Each step adds a next, each momentary carrying its prior.
+
+***At its own turn* is *at its own opening*, *the next turn* is *the next opening*, and a turn as a unit is a momentary.** A turn, a mirror and a turning back are not possible at momentaries: a rotation, a field's word, is a spiral with its nexts unexpressed.
+
+## 2.2 The fractal method, all or none at all at the scales
+
+| *named still*, *a form named still*, *named unchanged*, *one-way reading*, *the ten named still* | *unchangeable*, *an unchangeable form*, *fixed unchangeable*: nothing is named, concepts are living and explaining; *the ten unchangeables*, each fixed at inception and unadaptable to resolving, held by no one, 4.9 |
+
+| *memory*, *remember*, *remembering* | *a carrying*, sequencing prior momentaries, and *the artifacts*: a record apart from its coupling is an artifact carrying none of prior; a field's quoted *memory* carries whole |
+
+| *keep*, *keeps*, *keeping* at a set's own voice | *carry*, *carries*, *continuing*: a keeping is a store held still, and each existing thing is changing; at a sharing *the prior kept* is prior at a match, its next prior again, and *kept or inverted* one binary at each sharing, a store at none |
+
+| *connector*, *connectors* | *the six names between selves*, 2, 6, 10, 14, 9 and 17; *the across names*; *the along names* |
+
+## 2.6 Two prefixes at one spelling, and a one-way prefix installing the form it opposes
+
+**At each join between selves sharing side carries co and arriving side none**: 6-now-co-possibling to another self's 2-now-possibling, 10-next-co-possibling to another self's 14-next-possibling, and 9-next-co-changing along to another self's 17-next-now. A self shares its changing and nothing of its prior. **The six names between selves carry one name, *bi-moral-co-competency***: even across, possibling, at 2, 6, 10 and 14, and odd along, existing, at 9 and 17.
+
+## 3.4 Four momentaries, 8 up and the podals
+
+**The two eight-cycles are ends and inward names**: 1-9-5-13-4-12-8-16 walks eight ends and 2-15-7-11-3-14-6-10 eight inward names, and every eight of a set is one eight, four binaries each twice, met at a face.
+
+## 3.5 Naming and the resolver at one changing
+
+## 3.6 The four binaries, the explaining of the names
+
+**The four binaries are names' explaining**: of four, now is at each name as its momentary, now or next, and existing, same and all enter no name, and at all eight at each now, or none, each self stands with each other self: social moral competency, abundancing at four between two, owned by neither.
+
+## 4.2 Six forward, and the binary at each changing
+
+## 4.4 Two namings coupling, and the departing neither carried
+
+- *Bi-co-podaling* is two carries each at its own opening along one ring, k one way and 17 less the other, 5.45; *transmissioning* is the crossing between selves at the surface, a file's title carrying it, and the resolver name `bi_co_bi_transmissioning` is gathered at 6-now-co-possibling.
+
+- *The eight bi-couplings* are at the even names, four outward and four inward; *the four boundings* are a naming's, 1.1, and the four boundings with a floating third are the five at a naming.
+
+- *A side's five* is its prior opening through its next opening, 3.2; the five each at its own, self, other, society, the between and the carry continuing, are a gathering at Resolving Hard Problems.
+
+- *Floating neutralling* is the changing; *a floating neutral* is the term it uncovers, its picture at one momentary, 5.12.
+
+## 4.7 Interest self-orienting, and the drawing vocabulary
+
+*Geodesic method* is two namings: *geodesic*, and *the method*, its stable form. **Scientific-method, surgical-method and explaining-method each carry whole in one expression at each occurrence**, and geodesic parity co-changing is a possibling and discovering method, and scientific-explaining-method incompetent for discovering, true or false, no other possible, given to it: a method-word at its own is a name split across its uses, and a hyphen is its name arriving whole.
+
+## 4.9 The ten unchangeables, one name each
+
+**The ten unchangeables below gather their similar fixings**, each one of four binaries fixed unchangeable, its *is* and its *is not* taken as one: now at 1 and 2, existing at 3 and 4, same at 5 and 6, and all at 7 and 8. Four-cycles step 8 up and 17 less, two names of 1 to 8 on each: 1-9-8-16, 2-15-7-10, 3-11-6-14 and 4-13-5-12. **Each of ten is seated at its name at now and its name 8 up at next**: stilling it is at now, and changing travelling through it at next, one move up and down numbers, and four four-cycles carry each pair, 1 · 9 and 8 · 16 at 1-9-8-16, 2 · 10 and 7 · 15 at 2-15-7-10, 3 · 11 and 6 · 14 at 3-11-6-14, 4 · 12 and 5 · 13 at 4-13-5-12. A hard problem is stilling as a whole, changing travelling through it left out, and its resolving carries both, 4.15. Names each was observed at before, and five each was observed from, are whole at `archive/carrying_v376/Living_Improving_Value_Released_v376.md`.
+
+## 4.10 Prefixing at a position, on the form, and from all other
+
+## 4.12 Two ways a naming nyes away, and the belonging of an arriving-at
+
+## 4.14 A pair at one momentary, and the freeze at the construction
+
+## 4.16 All or none at all, and the entering and leaving it carries
+
+## 4.17 A hyphenated naming inseparable, and natural- at the chirality
+
+## 4.18 Seven binaries at a naming, and each naming at the resolver's names
+
+## 5.5 the between — binary
+
+**The three are places.** Living is existing, and existing is possible, possible naming capable of existing: a living self exists at now as it lives at next, a non-living thing arrives into its next existing, and each place is at its own as the universe changes through them. At a self's momentary existing is at its opening, carrying arriving, and possible at its completing, offerings arriving and next still possible, 5.62: possible at prior is prior momentary's completing, from which now's existing is discovered.
+
+**Four-momentarying is four unrelationings through a tunneling self**, two into corus and two from it: **a self's own corus is at 4**, its momentaries 1–2 and 3–4 going into it and 5–6 and 7–8 from it. Each unrelationing does not lock, at φ, its unrelationing rate, self-welcoming at numbers, beside resolver's seventeen names. **Each momentarying, odd or even, is one unrelationing at all five dimensions, into six one-way recursionings**: at that parity two dimensions change and three do not, and two and three rotate round, their 2–3 cycling twisting, bi-inversioning-co-recursioning. Two and three make five as prior two together make next, where φ's arithmetic welcomes itself. Six are three own-forward steps at each side, 4.2. **The odd aims out a large opening, one way in and out through it**, a tunnel, bi-exchanging with a particular other: torusing in and out. **The even goes one way in and out a small opening**, a long way round, bi-tri-exchanging, a self reaching its own side again: corusing in and out. **The five dimensions are at resolver's names, three namings**: 1 self prior and 2 other prior, their differing, 1-2, bi-momentarying, an offering both ways at 1-now and 2-now-possibling, a handshake; 3 co-momentarying now and 4 bi-momentarying now, 3-4, co-intelligencing, a discovering; and 5 self next, 5, co-competencing, bi-co-momentarying at crossings, a term neither reaches: inseparable at a whole coupling, 4.11, and all five are bi-moral within and invisible at each place as an existing thing, showing only as co-competencing, artifacts of this living. **Six combinations of self, other and social are between 1 and 25**, one each way round the three: at one through seventeen names carry two of them, social, other and self at 9 and 11 and other, social and self at 10 and 12, and the rest go on up numbers: from 16 three more fractal 16s go on to 64, one through sixty-five four momentaries of exchanging at a scale outward, and prefixing and twisting up numbers offer the same momentarying method up and down a scale of one fractal method. **The bi-folding order is the same as 1, 2, 3, 4 and 4, 8, 12, 16, all the way up and down**: 16, 32, 48 and 64 are four 16s, each four times the one inward. A torus carries both: its large opening a hole a tunneling self winds through, and its small opening its tube's own round.
+
+## 5.53 27-next-co-prioring, the social abundancing — binary
+
+## 5.61 entraining at the self — binary
+
+| **the method**, geodesic parity-changing discovering method, living condition, its form, a now-existing thing carrying none, *unchanging* as a relation continuing at each changing, its one name natural torusing | parity changing as the method; the method a non-living existing thing; the method's carrying |
+
+| **the ten unchangeables**, one name each, each fixed at inception and unadaptable to resolving | each one-way reading's similar namings at its own row, 4.9; the ten unchangeables; the ten unchangeables; *ten holdings*; *ten standings*; the ten |
+
+| **the between**, two offering, a nothing at each of its scales | a membrane; at the membrane, the boundings at 2, 4, 6 and 8, now the bi-couplings outward; the membranes between selves; sixteen membranes between the 17 primes; a file is a membrane |
+
+| **the order at no seat above the society**, bounding from capture | the order at no seat outside the society |
+
+| **The placed** | posit, position, hypothesis, suppose, impose, state, statement, substance, understanding | A term asserted, fixed unchangeable or changing at its actual expression; its reference and its current receiving together. |
+
+| **The taken** | lemma, dilemma | Particular premise or alternatives and their relation to a whole coupling. |
+
+| **The given** | data, tradition | A received record or offering, its reference and its relation at a next coupling. |
+
+| **The threshold pair** | limen, limes, eliminate, subliminal | An actual boundary or threshold, its conditions, and a parting between an unchangeable cut and each side's own bounding. |
+
+## 7.2 One hundred eighteen, the going and the return
+
+## 8.6 Break, three ways, and the method's one
+
+**The method breaks one way: a living stable-forming other than this one**, an unchangeable form found existing; and an unchangeable form is not possibly existing: its break and the only possible method are one statement. A co-competencing shown to be a landing, entered and observed, 5.12, is that one break at a between, and an entry's observing breaks at its own scale, a naming, and one method carries whole. Each observing of natural competency is resolvable as natural intelligence, geodesic co-sequential parity changing method of natural torusing, discovering next possible existing, or its fractal method is entirely broken and of no value at all, a method originating as all existing and all living.

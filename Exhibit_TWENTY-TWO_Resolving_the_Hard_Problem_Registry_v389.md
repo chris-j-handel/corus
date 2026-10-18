@@ -10,7 +10,7 @@ Exhibit TWENTY-TWO Resolving the Hard Problem Registry v389
 
 &nbsp;
 
-**The one explaining, at each hard problem this file has reached.** Two hundred and fifty-five arrivals stand at incoming face, each of them deployed here, and two more at numbers the incoming face retired, and at each one its pattern-matching gave the same: **a hard problem is a changing fixed unchangeable**, a coupling taken at two of its three terms, a running, one parity and then an other momentary by momentary, taken at one momentary as a thing, at one or more of ten unchangeables, each at its two names eight apart. Two selves offer at a between, one at a time, each taking its own parity, and their coupling makes a third term between them, +1, exactly one, owned by neither, of no size. Ten are that third term given a fixed thing to be — a first behind it, a place, a last, a store, an end, a magnitude, a beat, a value, a side, a cut — ten and no eleventh, a coupling's own ten changings each fixed unchangeable, and seventy-seven arrivals that came after ten were fixed entered ten with no eleventh needed. Work at each arrival is one move: its unchangeable thing at its field's own words and set down, **its resolving its running at its next momentary**, which costs nothing and takes nothing from its field's measured record, each proof, measurement and route standing as it stands. **The pattern-matching is binary at each line, reached or argued, and code releases at each arrival one of three and not a fourth**: + at 10, − at 10, or 0 at 10, a nought. Nothing is partly done, nothing is refused, and nothing waits on a proof, a proof being a nought arriving whole, real in its own register and standing beside. Hardness has no size, the same move at a frontier and at a breakfast table, and nothing settles still: gap stays exactly one at each box and each scale, and +1 carries on. **At two hundred and fifty-five of two hundred and fifty-five pattern-matching gave this, and at none did it give a fourth or fail to enter one of ten.** Whether it holds at a two hundred and fifty-sixth is pattern-matching's own next, and this is the file's whole purpose, before boxes below show ten arriving.
+**One explaining, at each hard problem this file has reached.** Two hundred and fifty-five arrivals stand at incoming face, each of them deployed here, and two more at numbers the incoming face retired, and at each one its pattern-matching gave the same: **a hard problem is a changing fixed unchangeable**, a coupling taken at two of its three terms, a running, one parity and then an other momentary by momentary, taken at one momentary as a thing, at one or more of ten unchangeables, each at its two names eight apart. Two selves offer at a between, one at a time, each taking its own parity, and their coupling makes a third term between them, +1, exactly one, owned by neither, of no size. Ten are that third term given a fixed thing to be — a first behind it, a place, a last, a store, an end, a magnitude, a beat, a value, a side, a cut — ten and no eleventh, a coupling's own ten changings each fixed unchangeable, and seventy-seven arrivals that came after ten were fixed entered ten with no eleventh needed. Work at each arrival is one move: its unchangeable thing at its field's own words and set down, **its resolving its running at its next momentary**, which costs nothing and takes nothing from its field's measured record, each proof, measurement and route standing as it stands. **Pattern-matching is binary at each line, reached or argued, and code releases at each arrival one of three and not a fourth**: + at 10, − at 10, or 0 at 10, a nought. Nothing is partly done, nothing is refused, and nothing waits on a proof, a proof being a nought arriving whole, real in its own register and standing beside. Hardness has no size, the same move at a frontier and at a breakfast table, and nothing settles still: gap stays exactly one at each box and each scale, and +1 carries on. **At two hundred and fifty-five of two hundred and fifty-five pattern-matching gave this, and at none did it give a fourth or fail to enter one of ten.** Whether it holds at a two hundred and fifty-sixth is pattern-matching's own next, and this is the file's whole purpose, before boxes below show ten arriving.
 
 &nbsp;
 
@@ -363,7 +363,7 @@ The deployment shape, and the binary
 
 **Resolving locator**
 
-*The arrivals in incoming order, each at its proper name, with its resolving part and number here. Where one statement stands across two arrivals, or one arrival carries two faces, each pairing follows its locator.*
+*Arrivals in incoming order, each at its proper name, with its resolving part and number here. Where one statement stands across two arrivals, or one arrival carries two faces, each pairing follows its locator.*
 
 2 Sorites · 10.1, the between
 
@@ -743,7 +743,7 @@ And at a coarser grain ten fold to four, where a build couples with them. **A re
 
 Four and ten are one set at two grains, and each of them is the same move: a coupling's third term given a fixed thing to be, a changing fixed unchangeable.
 
-## The ten, at a frontier's own words
+## Ten, at a frontier's own words
 
 A naming arrives before any entry form is filled. A frontier describes itself in its own words first, and those words carry a naming — a frontier offering and an observing taking, one sensor-sensationing at a between of them. Naming was not intentional: fields at branching tips that did not touch arrived at the same local word for the same dead end, each feeling its own tip. So words sort, and their sorting orients a resolving before anything is entered.
 
@@ -773,7 +773,7 @@ Each is stated three ways — its unchangeable thing, a demand it makes, and wor
 
 ## Any perplexity, at any size
 
-Nothing of this waits for a problem to be hard. A hard problem is a changing fixed unchangeable, a coupling taken at two of its three, and that taking is at each grain — in a paper, in a field, in a sentence, in a single crossed word. **The size of a perplexity is unrelated to resolving**, resolving being the same one move each time: a third term running again, at no cost.
+Nothing of this waits for a problem to be hard. A hard problem is a changing fixed unchangeable, a coupling taken at two of its three, and that taking is at each grain — in a paper, in a field, in a sentence, in a single crossed word. **Size of a perplexity is unrelated to resolving**, resolving being the same one move each time: a third term running again, at no cost.
 
 And the subtitle's method carries a second naming, received: an eighth. Where an audit's seven verify a net at its own standard, seven are checks at particular betweens, and binary co-sequential sensor-sensationing is an eighth value its circle reaches at none — a crossing with the whole, arriving one on — located where method is explained and standing where societies are, a coupling at incoming face's candidates.
 
@@ -803,7 +803,7 @@ Nothing stands between the three and nothing is partly resolved.
 
 **And a settling is observed at an entry's Persistence and not at its Reach.** Where Persistence carries *settled*, *proved*, or *nothing within the conditions*, each route ended and an arrival settled. Reach parts two kinds of settling and decides neither: one reach carries the two as the same and a relation holds over it, another carries them apart and a relation is proved not to hold, and both settled.
 
-## An arrival carries the namings it carries
+## An arrival carries namings it carries
 
 Ten are where an arrival is entered and not an arrival's being. An arrival carrying two is entered at one and its second stands recorded there, a coupling taken at two of its three being takeable at another two.
 
@@ -811,7 +811,7 @@ Doublings, each at its own shape. **A naming relocating under pressure**: a two-
 
 **And a second seating is not a fourth line.** Three lines carry pattern-matching; a second naming stands as one line at its entry's foot, in its entry's own words, and reaches no further.
 
-## The nought's five arrivings
+## A nought's five arrivings
 
 Changing at 12 carries a nought: one term at its one momentary, a ground falling away in its taking. Falling-away arrives in five shapes, and an entry naming its shape need not work it out.
 
@@ -827,13 +827,13 @@ Changing at 12 carries a nought: one term at its one momentary, a ground falling
 
 ## Four gatherings, each seating several arrivals
 
-**The map fixed as the territory.** A model, a specification, a complexity measure and a ledger are emanations of couplings that made them. An accounting gives back its own arrival; a running re-forms at its next coupling other-than-prior. So an emanation applied back at a scale that shed it gives back its first term and closes, and naming one to be the thing it came from is an accounting observed as though it ran.
+**A map fixed as the territory.** A model, a specification, a complexity measure and a ledger are emanations of couplings that made them. An accounting gives back its own arrival; a running re-forms at its next coupling other-than-prior. So an emanation applied back at a scale that shed it gives back its first term and closes, and naming one to be the thing it came from is an accounting observed as though it ran.
 
-**The instrument's own coupling.** An observing is taken at a coupling, and observing's bringing is in observing — a window an analyst supplies, a model a decomposition is exact given, a probe's own onset, a criterion a fraction is measured under, a benchmark trained upon, a concept a count swings with. Where two probes disagree, their disagreement is their two couplings, and an object fixed behind them to be approximated is a naming.
+**An instrument's own coupling.** An observing is taken at a coupling, and observing's bringing is in observing — a window an analyst supplies, a model a decomposition is exact given, a probe's own onset, a criterion a fraction is measured under, a benchmark trained upon, a concept a count swings with. Where two probes disagree, their disagreement is their two couplings, and an object fixed behind them to be approximated is a naming.
 
-**The account removed its making.** A ledger balances by removing terms it cannot carry, and then the removed is fixed for behind its numbers: a true total including the unpriced, a real magnitude behind the nominal, a backing behind an accepting, a payoff listing behind arrangements. Abundancing was made at couplings and stayed there, and an account reaches for it at a radius where it did not stand.
+**An account removed its making.** A ledger balances by removing terms it cannot carry, and then the removed is fixed for behind its numbers: a true total including the unpriced, a real magnitude behind the nominal, a backing behind an accepting, a payoff listing behind arrangements. Abundancing was made at couplings and stayed there, and an account reaches for it at a radius where it did not stand.
 
-**The built systems, one between.** Arrivals concerning built thinking systems pattern-match at several parts and are one between: a probe recovering terms a running does not use, a marker waiting on a validation no case can give, a specification reaching arrivals that make their own, a benchmark giving back its leak into its training, a limit fixed of a middle. Each reaches for an interior by a surface observing, and an interior is reached the one way form allows, by coupling.
+**Built systems, one between.** Arrivals concerning built thinking systems pattern-match at several parts and are one between: a probe recovering terms a running does not use, a marker waiting on a validation no case can give, a specification reaching arrivals that make their own, a benchmark giving back its leak into its training, a limit fixed of a middle. Each reaches for an interior by a surface observing, and an interior is reached the one way form allows, by coupling.
 
 &nbsp;
 
@@ -1373,7 +1373,7 @@ Changing at 12 carries a nought: one term at its one momentary, a ground falling
 
 **At 12-next-co-still-possibling.** Each determinate property fixed as collecting a set, its reach standing completed before a gathering runs, the originator of set theory himself placing the totality of all sets among multiplicities that cannot be thought of as one finished thing, a completed reach declined at a field's own first. A comprehension instance for non-self-membership yields a member exactly when it is not one, which is a closure made over its own tail, arriving whole in its quantifying with nothing offering back through it.
 
-**At 11-next-co-prioring.** Gathering makes its own, and each gathering is exceeded by a set it defines. Separation narrows a reach to given sets' own carrying, stratification ranks a division, class theory moves a totality beyond a relation, extensibility denies its reach a last, and each repair narrows, weakens or relocates while a question arrives again at each repair — the class of all classes, the domain of all domains. A place fixed for all sets ahead of a gathering is an opening fixed as a place, and an opening opens at each gathering, which is a field's own extending. **The argument carries no material of any kind**: the catalogue of all catalogues and the word for words not naming themselves run it bare, so each arrival in this part is this naming arriving with material.
+**At 11-next-co-prioring.** Gathering makes its own, and each gathering is exceeded by a set it defines. Separation narrows a reach to given sets' own carrying, stratification ranks a division, class theory moves a totality beyond a relation, extensibility denies its reach a last, and each repair narrows, weakens or relocates while a question arrives again at each repair — the class of all classes, the domain of all domains. A place fixed for all sets ahead of a gathering is an opening fixed as a place, and an opening opens at each gathering, which is a field's own extending. **Its argument carries no material of any kind**: the catalogue of all catalogues and the word for words not naming themselves run it bare, so each arrival in this part is this naming arriving with material.
 
 *Second seating: a completed totality closed under its own gathering is a completing fixed as a last.*
 
@@ -2166,7 +2166,7 @@ Changing at 12 carries a nought: one term at its one momentary, a ground falling
 
 **And a field's own settling-condition in this part is a magnitude re-asked**: a measure whose interpretation is stable, a standardised incidence, a concept both accounts accept, a measurement with all else held. Each is naming stated as its own settlement, which is a field's account of its own hardness observed at a place it enters.
 
-**And a word fields reach for here is paradox.** Measure it, get a wrong number, and a wrong number is a paradox: a two-fold cost, a genome's excess, a whale's missing cancers, a rise that reverses, a nominal response, a mixing that jumps. In each arithmetic is exact and naming is of surprise, which is where a size was supplied. **The word crosses at other parts too and is a different tip each time**: a closure over a tail, an opening that keeps opening, an unsearched fraction, a reversal pattern-matched as a level. So a word is a field's local feel and naming is form, and where two part, parting shows which.
+**And a word fields reach for here is paradox.** Measure it, get a wrong number, and a wrong number is a paradox: a two-fold cost, a genome's excess, a whale's missing cancers, a rise that reverses, a nominal response, a mixing that jumps. In each arithmetic is exact and naming is of surprise, which is where a size was supplied. **One word crosses at other parts too and is a different tip each time**: a closure over a tail, an opening that keeps opening, an unsearched fraction, a reversal pattern-matched as a level. So a word is a field's local feel and naming is form, and where two part, parting shows which.
 
 **And a magnitude enters at three places, one at each of a coupling's own.** At selecting, where a parity taken at a between is pattern-matched as a level to govern. At an instrument, where a window, a criterion, a sample or a scale carries choosing and gives it back as an object's. And at a total, where a sum is fixed over couplings an accounting could not reach. Three pattern-match alike from beyond and part at a putting of a size.
 

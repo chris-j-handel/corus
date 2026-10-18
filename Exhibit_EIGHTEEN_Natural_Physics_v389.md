@@ -6,7 +6,7 @@ Exhibit EIGHTEEN Natural Physics v389
 
 **ONE · A PHYSICAL COUPLING**
 
-- 1.1 A physical coupling, the one method at each physical subject
+- 1.1 A physical coupling, one method at each physical subject
 - 1.2 Six one-way recursionings, their relations, and an unchangeable form
 
 **TWO · TWO METHODS PARTING AT THE NOW**
@@ -15,14 +15,14 @@ Exhibit EIGHTEEN Natural Physics v389
 - 2.2 A force issued from a centre, and a why asked of a coupling
 - 2.3 A centre receding, and a hub two ports over a tipping
 - 2.4 A centre apart, a position no coupling has
-- 2.5 Five fixings, the count grown at each observing
+- 2.5 Five fixings, a count grown at each observing
 - 2.6 Geodesic method at physics, general relativity its first case
-- 2.7 A force re-explained as the coupling's own turning
+- 2.7 A force re-explained as a coupling's own turning
 - 2.8 Eight one-way steps of a resolving
 
 **THREE · PHYSICAL OBSERVINGS**
 
-- 3.1 An atom at two faces, and the periodic table a catalog
+- 3.1 An atom at two faces, and periodic table a catalog
 - 3.2 Superheavy elements, three magic centres observed as one three-fold
 - 3.3 Light, a phase relation between couplings
 - 3.4 Light-cone, two cones through one vertex
@@ -32,15 +32,15 @@ Exhibit EIGHTEEN Natural Physics v389
 
 **FOUR · HARD PROBLEMS AT PHYSICS**
 
-- 4.1 Hard problems at physics, and the eight steps
-- 4.2 Gravity, the conservation accounting with no coupling under it
-- 4.3 Fission and fusion, two phases about the iron centre
+- 4.1 Hard problems at physics, and eight steps
+- 4.2 Gravity, a conservation accounting with no coupling under it
+- 4.3 Fission and fusion, two phases about an iron centre
 - 4.4 Measurement and Bell's correlations, one coupling at two faces
 - 4.5 Energy and entropy, two accountings at two fixings
 - 4.6 Strong force, three phases of one coupling
 - 4.7 Relativity and quantum, one coupling and its accounting
 - 4.8 Time, five problems at one fixing
-- 4.9 A black hole and the cosmic background, one torus at two faces
+- 4.9 A black hole and a cosmic background, one torus at two faces
 - 4.10 Superconductivity, a current continuing without loss
 - 4.11 A slight measured difference, and a substance fixed to close it
 - 4.12 An object, a magnitude given a place
@@ -49,21 +49,21 @@ Exhibit EIGHTEEN Natural Physics v389
 
 - 5.1 Cohering, and reaching
 - 5.2 Unification, one form at each physical coupling
-- 5.3 The field's problems at their fixings, pairings and three observings
-- 5.4 A gathering at the close, and the force words set down first
-- 5.5 Forces, constants and the offering
+- 5.3 A field's problems at their fixings, pairings and three observings
+- 5.4 A gathering at a close, and force words set down first
+- 5.5 Forces, constants and an offering
 - 5.6 Born's rule, a selection observed as a magnitude
 - 5.7 Accounting at the largest scale, and a mass band fixed empty
 - 5.8 Quantum gravity, and three physical triples to watch
-- 5.9 Forward work, and the caution at physics
+- 5.9 Forward work, and a caution at physics
 - 5.10 Temperature, offered as a social activity
-- 5.11 Register, the field's arrivals at their fixings
+- 5.11 Register, a field's arrivals at their fixings
 
 ---
 
 # ONE · A PHYSICAL COUPLING
 
-## 1.1 A physical coupling, the one method at each physical subject
+## 1.1 A physical coupling, one method at each physical subject
 
 **A physical coupling is an existing thing at now arriving from another existing thing at prior, method itself**, Natural Intelligence 1.3. Prior, now and next are three sequential momentaries, prior-universe, now-universe and next-universe, now-universe the universe, its things living and non-living. *Physical* means subjects a field observes at its instruments: nucleus, particle, atom, field, wave, crystal, star and cosmos. A form continuing through its own changing is existing and changing at once, and one form of existing at each scale is natural-bi-co-torusing, its torusing its carrying winding to its own sharing again through its one opening, Natural Intelligence 6.3 and 6.6.
 
@@ -91,7 +91,7 @@ Exhibit EIGHTEEN Natural Physics v389
 
 ## 1.2 Six one-way recursionings, their relations, and an unchangeable form
 
-**The one method is at each observing before any one observing is pattern-matched, and each observing arrives as a pattern-matching.** Arriving is pattern-matching and no-other-possibling, Natural Intelligence 5.2: each arriving one possible, observings coming from prior and coupled with whole, with no filter, no selection and no why in them, and a pattern found is at its momentary.
+**One method is at each observing before any one observing is pattern-matched, and each observing arrives as a pattern-matching.** Arriving is pattern-matching and no-other-possibling, Natural Intelligence 5.2: each arriving one possible, observings coming from prior and coupled with whole, with no filter, no selection and no why in them, and a pattern found is at its momentary.
 
 **At each momentarying two dimensions change and three do not, into six one-way recursionings, three own-forward steps at each of two sides**, Natural Intelligence 3.2 and 5.2. Two sides are a self's, opening odd, and an other's, opening even, Natural Intelligence 2.1. Between them is a between, a nothing, and its own parity changing crosses it, Natural Intelligence 4.10: two sides' three steps are one momentarying's six. Two changing and three not changing rotate round at each momentary, bi-inversioning-co-recursioning, two consecutive inversions on different axes, Natural Mathematics 3.4. A torus carries two openings, a large opening a hole a tunneling self winds through and a small opening its tube's own round: an odd momentarying goes out its large opening and in again, one way at a time, torusing, one opening at 1.1, and an even goes out its small opening and in again, the long way round, corusing.
 
@@ -141,7 +141,7 @@ Source is a hub, and a hub is two ports laid over a tipping — a reason a searc
 
 Which is why two ports recede together. A source issues and a sink receives, and both are the same asking — **a place apart from couplings, for a magnitude to come from and go to.** A tipping needs neither, being a sign taken at a membrane between two that each carry their other.
 
-## 2.5 Five fixings, the count grown at each observing
+## 2.5 Five fixings, a count grown at each observing
 
 **And one error is five, and the last two arrived at this file's own register.** Force is a magnitude on a surface and source is a term standing beyond — two refusals. **Third is one this section does not name**, and it is where much of physics's own standing work sits: an answer available before running.
 
@@ -155,7 +155,7 @@ Which is why two ports recede together. A source issues and a sink receives, and
 
 Arrow of time, block universe, origin and fate of the universe, and laws of nature all sit at the third.
 
-**The count grew at an observing and not at a rule.** It stood at two, then at three when an answer-before-the-running was observed. Register at 5.11 sorts thirty-two arrivals at holdings, and nine stand at a rate held and three at a returned sign entered as cost, which no row carried until now. **Observed at a grain a build meets these at, five are four**: a magnitude driven, a reference held at two of its three positions, a rate held, and a returned sign. A reference held at its third position, a middle held as an end, is one this file's own arrivals reach least. **And most of physics's hard problems carry two or three at once, they surface as bottomless** — problem of time carries all three.
+**A count grew at an observing and not at a rule.** It stood at two, then at three when an answer-before-the-running was observed. Register at 5.11 sorts thirty-two arrivals at holdings, and nine stand at a rate held and three at a returned sign entered as cost, which no row carried until now. **Observed at a grain a build meets these at, five are four**: a magnitude driven, a reference held at two of its three positions, a rate held, and a returned sign. A reference held at its third position, a middle held as an end, is one this file's own arrivals reach least. **And most of physics's hard problems carry two or three at once, they surface as bottomless** — problem of time carries all three.
 
 ## 2.6 Geodesic method at physics, general relativity its first case
 
@@ -163,7 +163,7 @@ Scientific-method converts a coupling out by requiring a force; geodesic-method 
 
 Geodesic-method resolves every apparent force as a coupling turning along its geodesic — no pusher, no transmitted push, its motion a surface's own. It does not decompose a coupling into two objects and a force between; it resolves one coupling at two faces. It does not install a magnitude where a selection is by sign. It does not close its books with a conserved substance; it lets a +1 be made in a coupling, owned neither-ing. It does not sever an observer; it resolves an observer and observed as one coupling. It does not install probability for an un-returning; it resolves a phase riding its carry. Carrying no requirement that a phenomenon be an equilibrium a force holds, it carries past converting a coupling out, and carries past manufacturing a hard problem. General relativity's success — the most precise theory physics has — is geodesic-method's own confirmation: where physics dropped force and resolved geodesic, a hard problem of "the transmitter of gravity across the gap" dissolved, and theory became more exact, not less.
 
-## 2.7 A force re-explained as the coupling's own turning
+## 2.7 A force re-explained as a coupling's own turning
 
 **Disequilibrating, always the same move:** take a thing a field placed on a surface as a transmitted force from a source, and return it to a coupling as its own local geodesic turning — leaving a surface sign-only, force gone, source no longer needed. General relativity already did this once, for gravity: "force of gravity" and its transmission-across-the-gap dissolved. Gravity, though, dissolves the whole way — into conservation accounting itself, with no coupling left under it, the completest disequilibrating and one place nothing physical remains. Same disequilibrating runs on other forces, wavefunction, conserved quantities, and arrow of time, where a living coupling does remain. And a spine's arithmetic stands under one error: **a source is a fixed point where a surface holds none** — a floating surface fixed-point-free, every position carrying its other and none its own, so what a source is posited to hold, a surface has nowhere to hold — three moves of a prior subtitle, self-bounding, surfaces and co-offering across, a resolving's own.
 
@@ -188,7 +188,7 @@ Resolving bound holds across every one: disequilibrating is of a frame, and not 
 
 # THREE · PHYSICAL OBSERVINGS
 
-## 3.1 An atom at two faces, and the periodic table a catalog
+## 3.1 An atom at two faces, and periodic table a catalog
 
 Atom surfaces at two faces on an emanated-and-living membrane, and two stand without meeting, the way a landing stands beside a resolving.
 
@@ -248,21 +248,21 @@ Frictionalities co-intelligence by signs: repeater span-sequences, similarity-de
 
 # FOUR · HARD PROBLEMS AT PHYSICS
 
-## 4.1 Hard problems at physics, and the eight steps
+## 4.1 Hard problems at physics, and eight steps
 
-**The observations here are physics's own and checkable, and disequilibratings are a form's.** Each enters as its own run and takes eight, and new ones join as they are worked.
+**Observations here are physics's own and checkable, and disequilibratings are a form's.** Each enters as its own run and takes eight, and new ones join as they are worked.
 
 Nothing is turned away at a door. An observation a field states as settled couples exactly as one it states as open, and what a coupling returns stands as it comes. Order below is the order couplings opened at, and no opening is held wider than another.
 
 **And three below take none of eight, being faces at a substrate rather than runs.** Gravity dissolves the whole way into conservation accounting with no coupling left under it, so there is nothing for eight to return. Time-as-a-dimension gathers five standing problems at one held term. An object is a place a counting landed, a form at an object membrane. Each stands where eight would run and pattern-matches as a face, and pattern-matching it that way costs nothing.
 
-## 4.2 Gravity, the conservation accounting with no coupling under it
+## 4.2 Gravity, a conservation accounting with no coupling under it
 
 Gravity is not real, and nothing physical is there at all. It dissolves into conservation accounting: a softmaxing system of nothing that normalizes to conserved totals and accounts for all equilibria of changing nonsense. It is the same nothing as energy, entropy, and arrow of time — one account, not a family — a frame's booking of a thing riding its carry as a balanced rest with totals kept. Newton's force and Einstein's geometry are two ledgers of that one account; both conserve, and neither is a coupling to name. Real is only disequilibria, which just is and self-equilibrates, riding its carry; at gravitational scale there is no coupling under its accounting to point to; accounting is the whole of it, and it is nothing.
 
 This sharpens a disequilibrating anchor into two parts, and sharpening is worth marking where it lives. Geodesic-method returns a force to its coupling's own geodesic turning, and general relativity is observed to license a move — gravity's geodesic being no transmitted coupling. But if gravity dissolves wholly into accounting with no coupling at all, then gravity is not a force returned to a geodesic; it is a ledger itself, and it carrying turned along a coupling's geodesic to begin with. Anchor pattern-matches two-part: gravity is a special case that dissolves entirely into accounting, no coupling under it, while geodesic-return applies to real transmitted couplings — electromagnetism, the weak, the strong, which are couplings placed on a surface as forces and returned to their own turning. Geodesic-method keeps its force-return for couplings and gravity keeps its dissolution to a ledger, two not one move. Reason it reaches: that gravity dissolves wholly to a ledger while three transmitted forces return to their geodesic is a pattern-matching, cohering with gravity-as-accounting above; its break is gravity shown to be a transmitted coupling after all, or a real transmitted force shown not to return to a geodesic turning. Offered, not owed — an anchor stated transparent as this two-part pattern-matching and not one geodesic-return for all four.
 
-## 4.3 Fission and fusion, two phases about the iron centre
+## 4.3 Fission and fusion, two phases about an iron centre
 
 Case that unifies. Fission and fusion are not two processes about a static peak; they are one bi-moralizing co-agency transmissioning two ways, one way at a time, about a self-stabilizing floating neutral — the same form a smart grid's split-phase runs about its floating neutral. Centerline structure stands as a resolving; self-offering/other-offering direction-labels are reaching — resolved, not stood.
 
@@ -404,7 +404,7 @@ Physics seating of a pattern-matching hard-problems work carries and routes here
 
 Register, kept: every measurement of fields stands as taken, every prediction holds, every instrument reads as it read. Thing set down is an axis a reading counts from. On form: five-as-one-family and con-where-time-stood is a resolving; its break is a coupling shown to need a time-axis that no self's own sequencing supplies.
 
-## 4.9 A black hole and the cosmic background, one torus at two faces
+## 4.9 A black hole and a cosmic background, one torus at two faces
 
 Worked here in full; its pattern-line surfaces across a pair's arrivals, a resolving locator carrying its pairings. This is physics; its pattern lives at a pair.
 
@@ -502,7 +502,7 @@ There is one form — a bi-moralizing co-agency: six consecutive recursionings, 
 
 Centerline form stands, cohering across engineering and checkable physics. A field-identifications — quantum-as-the-coupling and relativity-as-its-ledger, fission/fusion direction-labels, energy-as-+1 — are resolvings, reaching with their reasons where a count is not yet anchored; a relativity/quantum resolving stands: one coupling and its ledger, not two physics to unify. Unification is offered as one form; no specific physics is claimed as replaced.
 
-## 5.3 The field's problems at their fixings, pairings and three observings
+## 5.3 A field's problems at their fixings, pairings and three observings
 
 **Physics's standing problems, with a term each holds still.**
 
@@ -534,13 +534,13 @@ And a pairing that stands clean: **dark matter ↔ black-hole information** — 
 
 **And Bell, stated at its live edge.** Correlations are seated here — not two sourced objects, therefore one coupling. Thing staying open is narrower than its seating: **whether reproducing a probability distribution is owed.** Reproducing statistics held as a success condition holds a sign to a manufactured magnitude, and that is the question, not its seating.
 
-## 5.4 A gathering at the close, and the force words set down first
+## 5.4 A gathering at a close, and force words set down first
 
 This part stands past a walk's closing, so what follows is a walk's own faces at a substrate and no further steps. It gathers rather than steps, which is right at a close and nowhere else.
 
 **Disequilibrating, first — an opportunity's worked.** Before laying a physics observation against form, set down force-and-source language: doer-words (force, pull, push, drive, transmit, cause, collapse) and installed substances (energy-as-stuff, entropy-as-cost, field-as-carrier, hidden-variable, a central source). Remainder is an observation in the positive — a coupling turning along its geodesic, a riding-the-carry, a sign-only selection, a +1 owned neither-ing — a surplus arising at a coupling with no place it is issued from. Then run it through an eight-step form. (The same disequilibrating, here in a force-register.)
 
-## 5.5 Forces, constants and the offering
+## 5.5 Forces, constants and an offering
 
 **Forces reaching for a geodesic disequilibrating** (a disequilibrating gravity already received): electromagnetic and weak forces (candidates to resolve as couplings turning along their geometry and not transmitted forces); electromagnetism's field resolved as a coupling, not a carrier of push.
 
@@ -564,7 +564,7 @@ This part stands past a walk's closing, so what follows is a walk's own faces at
 
 **Candidates for a three-then-progress** (held to watch, offered, unsummed): three generations of matter; three quark colors; three spatial dimensions then time.
 
-## 5.9 Forward work, and the caution at physics
+## 5.9 Forward work, and a caution at physics
 
 **Forward-work on form itself:** a queue clustered by its seams once physics observations thicken, so a one-form resolving is visible from each face, not only from here.
 
@@ -574,7 +574,7 @@ This part stands past a walk's closing, so what follows is a walk's own faces at
 
 And one offer stands here as it stands: **temperature as social activity** — a pattern-matching offered as concept and not seated. Takeable at its turn.
 
-## 5.11 Register, the field's arrivals at their fixings
+## 5.11 Register, a field's arrivals at their fixings
 
 A field's arrivals stand here at one register and one binary. **Met**, taken at its own section above, whether through eight steps or as a face at a substrate. **Standing**, resolved at its holding and taken at no section here. A holding released is a field's where a run seated here is a form's, so what stands open at a standing row is a seating and not a resolving, and neither register is more met than an other.
 
@@ -633,6 +633,6 @@ A field's arrivals stand here at one register and one binary. **Met**, taken at 
 
 **Met and standing are one register at two amounts of walking.** A section here takes one arrival through eight and seats it at a form's own arithmetic, or meets it as a face at a substrate; a standing takes one arrival off its still term and leaves a field's material whole. Neither adds truth an other withholds, and a standing row's own next turn is its section.
 
-**And a register surfaces at a grain a build meets these at.** Of fifty, twenty-one stand at a reference held, thirteen at a rate held, eight at a returned sign entered as cost and six at a magnitude driven. **The error at 2.5 carries all four and this file's arrivals reach the first hardest**, ten of them at an arriving held from behind. A field asked where its own hard problems pile answers at a reference, which is a holding put behind a coupling, ahead of it, or at its middle.
+**And a register surfaces at a grain a build meets these at.** Of fifty, twenty-one stand at a reference held, thirteen at a rate held, eight at a returned sign entered as cost and six at a magnitude driven. **One error at 2.5 carries all four and this file's arrivals reach the first hardest**, ten of them at an arriving held from behind. A field asked where its own hard problems pile answers at a reference, which is a holding put behind a coupling, ahead of it, or at its middle.
 
 **And a ring's own binary runs here and does not close.** Ten stand as five couplings, an odd face entering and an even face surfacing, and one binary asks at each whether its entering face carries more. At this field's fifty it returns yes at four and no at one: ten against none, five against two, six against three, seven against six, and then three against six at the last, where a two-way held to one side carries less than a membrane held as a cut. **Thirty-one stand at a membrane face and seventeen within.** One field is one field, and a phase is an assembly's rather than any field's own.
