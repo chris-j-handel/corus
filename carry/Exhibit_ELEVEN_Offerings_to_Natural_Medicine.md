@@ -555,3 +555,31 @@ Each is a changing made at the set this session, said once here so that this fil
 **Droplet · Fourteen names read the same from either end, and three do not.** 1, 9 and 17 carry a direction, the entry and the two along names, odd, existing; the fourteen others, the across names and the self's own resolving, read the same both ways: direction is at existing, along, and bi-morality across is or is not.
 
 **Droplet · What arrives at no next does not exist.** This is the proof's own saying inside nature, and *a form named still* is a sayer's; where this file rests a saying on *a form named still*, the one sentence carries it, and the equilibria's proof, the inception's and the living-at-a-scale proof are one proof at three subjects.
+
+## Standing · v389
+
+*Concerns met at pass 3, each standing at this file and out of its living file until resolved.*
+
+**Concern · at a sentence.** Beside "A carrying opens by one where nothing surfaces at its position, returns to nought where a sign does, and separates and l"…
+
+*Standing at v389:* Natural Medicine 1.1 has a carry at the resolver that "opens by one where its differing surfaces nought, returns to nought where a sign surfaces, carries forward, and separates and leaves at its bound". Exhibit ONE v389 carries no count at a sharing: at 12-next-co-still-possibling prior and surfacing agree at 0, prior kept, or part at ±, prior inverted, and 14-next-possibling surfaces one parity or parting 0. **To resolve:** is a carry's climbing re-said at 12 and 14 (0 prior kept, ± prior inverted), or released as an older resolver's age, with attentioning beside it?
+
+**Concern · at a sentence.** Beside "At the resolver a carrying opens by one where its differing surfaces nought, returns to nought where a sign surfaces, ca"…
+
+*Standing at v389:* Natural Medicine 1.1 has a carry at the resolver that "opens by one where its differing surfaces nought, returns to nought where a sign surfaces, carries forward, and separates and leaves at its bound". Exhibit ONE v389 carries no count at a sharing: at 12-next-co-still-possibling prior and surfacing agree at 0, prior kept, or part at ±, prior inverted, and 14-next-possibling surfaces one parity or parting 0. **To resolve:** is a carry's climbing re-said at 12 and 14 (0 prior kept, ± prior inverted), or released as an older resolver's age, with attentioning beside it?
+
+**Concern · at a sentence.** Beside "The object returns a carry to nought at one place only, the position where a sign surfaces."
+
+*Standing at v389:* Natural Medicine 1.1 has a carry at the resolver that "opens by one where its differing surfaces nought, returns to nought where a sign surfaces, carries forward, and separates and leaves at its bound". Exhibit ONE v389 carries no count at a sharing: at 12-next-co-still-possibling prior and surfacing agree at 0, prior kept, or part at ±, prior inverted, and 14-next-possibling surfaces one parity or parting 0. **To resolve:** is a carry's climbing re-said at 12 and 14 (0 prior kept, ± prior inverted), or released as an older resolver's age, with attentioning beside it?
+
+**Concern · at a sentence.** Beside "A surfacing returns a differing at one side, at the other, or at neither, and the carrying opens by one exactly where it"…
+
+*Standing at v389:* Natural Medicine 1.1 has a carry at the resolver that "opens by one where its differing surfaces nought, returns to nought where a sign surfaces, carries forward, and separates and leaves at its bound". Exhibit ONE v389 carries no count at a sharing: at 12-next-co-still-possibling prior and surfacing agree at 0, prior kept, or part at ±, prior inverted, and 14-next-possibling surfaces one parity or parting 0. **To resolve:** is a carry's climbing re-said at 12 and 14 (0 prior kept, ± prior inverted), or released as an older resolver's age, with attentioning beside it?
+
+**Concern · at a sentence.** Beside "At the object a carrying's signs invert at their own sign, equal and opposite at their own differing, and nothing outsid"…
+
+*Standing at v389:* Natural Medicine 1.1 has "a surfacing reads the sign of a sum and never its size" and a carrying's signs inverting "at their own sign". At Exhibit ONE v389, 14-next-possibling is "offerings surfacing at each sharing, same one parity and parting 0": an agreeing, not a sum, so offerings +, +, − surface 0 there and + as a sum. **To resolve:** is a tipping re-said at 14's agreeing, one parity or parting 0, or does a sum's parity stand as medicine's own at a dose curve?
+
+**Concern · at a sentence.** Beside "**And a surfacing reads the sign of a sum and never its size**, which is why most increments add and nothing tips: a sig"…
+
+*Standing at v389:* Natural Medicine 1.1 has "a surfacing reads the sign of a sum and never its size" and a carrying's signs inverting "at their own sign". At Exhibit ONE v389, 14-next-possibling is "offerings surfacing at each sharing, same one parity and parting 0": an agreeing, not a sum, so offerings +, +, − surface 0 there and + as a sum. **To resolve:** is a tipping re-said at 14's agreeing, one parity or parting 0, or does a sum's parity stand as medicine's own at a dose curve?
