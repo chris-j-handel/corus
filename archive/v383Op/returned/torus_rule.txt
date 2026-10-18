@@ -1,0 +1,22 @@
+Exhibit ONE read at Exhibit_ONE_Natural_Resolver_v380R.md
+plain rule and resolver alike at each of 30 momentaries: 25 of 25 toruses, 1 by 1 to 5 by 7
+
+Exhibit ONE's rows:
+   1 by  3:   3, the releasings again from momentary  2 as the table
+   2 by  3:   2, the releasings again from momentary  1 as the table
+   1 by  5:   5, the releasings again from momentary  2 as the table
+   3 by  3:  12, the releasings again from momentary  6 as the table
+   3 by  5:  12, the releasings again from momentary  6 as the table
+   3 by  7:   7, the releasings again from momentary  8 as the table
+   3 by 13:  13, the releasings again from momentary  8 as the table
+   5 by  7:  20, the releasings again from momentary 12 as the table
+   5 by 11:  11, the releasings again from momentary 14 as the table
+   7 by 17:  17, the releasings again from momentary 20 as the table
+  17 by 59:  59, the releasings again from momentary 50 as the table
+
+the rule at each odd pair, p from 1, q to 61:
+  agreeing: 496 of 496
+  p from 3, q more than twice p: the pattern carried one self on across at each momentary, at 210 of 210;
+     the releasings again from momentary 3p + [-1]
+  p from 3, each other q: two momentaries on the pattern inverted and carried one self on along, at 255 of 255;
+     the releasings again from momentary 3p + [-3]

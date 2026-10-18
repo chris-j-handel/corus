@@ -1,0 +1,16 @@
+sp3 ok max queue 3
+sp4 ok max queue 4
+sp7 ok max queue 7
+t23 ok max queue 3
+t33 ok max queue 3
+t35 ok max queue 5
+t13 ok max queue 3
+x35 ok max queue 5
+x23 ok max queue 3
+x57 ok max queue 7
+all alike: True 1200
+spiral 3 self0 shared: [1, 0, -1, 1, -1, 1, -1, 0, 1, -1, 1, -1]
+arrivals at self 1 by step: [[], [('k', 1)], [('k', 0)], [('k', -1)], [('k', 1)], [('k', -1)], [('k', 1)], [('k', -1)], [('k', 0)], [('k', 1)], [('k', -1)], [('k', 1)]]
+sp5 selves 5 largest lead in momentaries over 400: 4 picks where the self due by its own rate was not able to open: 15621 of 20000
+t33 selves 9 largest lead in momentaries over 400: 4 picks where the self due by its own rate was not able to open: 31415 of 36000
+x35 selves 8 largest lead in momentaries over 400: 7 picks where the self due by its own rate was not able to open: 27335 of 32000

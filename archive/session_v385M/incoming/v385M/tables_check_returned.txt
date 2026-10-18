@@ -1,0 +1,29 @@
+read: Natural_Intelligence_v380R.md
+
+A. 2.4: the sixteen ways to name a next from (prior, now)
+   next for (++,+-,-+,--) = ++--  cycles [1, 1, 2]  stills 2  next changes with now: False
+   next for (++,+-,-+,--) = +--+  cycles [1, 3]  stills 1  next changes with now: True
+   next for (++,+-,-+,--) = -++-  cycles [1, 3]  stills 1  next changes with now: True
+   next for (++,+-,-+,--) = --++  cycles [4]  stills 0  next changes with now: False
+   carrying the prior whole: 4 of 16 (said: 4); losing it: 12 (said: 12)
+
+B. 2.4: of 256 maps of the four joint forms, one cycle of four changing one parity a step
+   found 2 (said: 2)
+
+C. Exhibit ONE, a spiral of selves: momentaries to the releasings again (said: 4n at odd n, 2 at even)
+   13 rows recomputed, rows parting from the table: []
+
+D. Exhibit ONE, a torus of selves (said, both odd, p the smaller: q at q more than twice p, 4p at each other q)
+   11 table rows recomputed, rows parting: []
+   the rule at 107 further pairs of odd p to 15 and q to 33, pairs parting: []
+
+E. Exhibit ONE, two spirals crossed (said: releasings again at 2, from the momentary listed)
+   8 rows recomputed, rows parting: []
+
+F. 4.13: from any carried patterns but all selves at one parity, two crossed spirals of 2 to 6 selves,
+   different numbers and one odd, come to each self alternating, the crossing selves opposite
+   opening patterns tried: 7204, patterns parting from the saying: 0
+
+G. When does one self keep the value it carries? each list of up to three offerings, carrying + or -
+   kept only at (carried, values offered): [('+', '+'), ('+', '+0'), ('-', '-'), ('-', '-0')]
+   so a self keeps its value only when its own value arrives, and at each other arrival, none included, it changes

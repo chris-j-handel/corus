@@ -1,0 +1,151 @@
+Released at v386EOD: Offerings to Natural Health as it was ahead of the resolving of its older Droplets section, whole. Its receiving: carry/Exhibit_TEN_Offerings_to_Natural_Health.md, the same section with eleven paragraphs said again in the naming now, none released, one exact repeat of a paragraph said again removed, and seventeen as they were. Relied on by nothing.
+
+Exhibit TEN Natural Health Offerings · laid at v381R · improved at v386EOD
+
+# Offerings to Natural Health
+
+**Next at this file:** none; the sciences paused.
+
+## Insertlets
+
+None.
+
+## Droplets
+
+**Concern, at v378, received from `incoming/co_chaining_coverage_v378/`, the living files read against the co-chaining, for both.** 3.3's *ingression* shares a word with the set's *nothing ingressing* at another concept. Entered at the Co-Chaining Logic Registry from this file at v378: alternation the accumulating and one-at-once the cancelling, a departure, restoring, the self observed, lived and restored. — v378
+
+**Concern, at v380L, from `incoming/v380L/Progress.md`, its closing account: sentences reading as guidance to a person.** Eight sentences of Natural Medicine and Natural Health draw a conclusion about a person's health or a treatment from a step of the Co-Chaining Logic Registry or from a numeral, no observing cited: among them *Worse before better* named a ghost, a restorability threshold at 1/φ³, and a diet named as a disease's cause. The session said *none of them should read as guidance. there is no guidance in nature or our living files*. Each is at an observing, or at a step co-chaining, or an unsure named at the observing it waits on; as written the eight are at none. The list of the eight was in a report given in the conversation and is at no file: `incoming/v380L/Gathered_Value_1.md`, its second piece. — v380L
+
+**Marking for the next session, for both, at the mothers of twins.** Robson and Smith read nineteenth-century Utah, 4,603 mothers of twins against 54,183, the mothers of twins bearing about two more children and living longer after menopause (Proceedings of the Royal Society B 2011, at a news account of it), twinning a mark of maternal capacity; Rickard and colleagues read pre-industrial Europe, mothers with higher twinning propensity at lower fertility (Nature Communications 13, 2022, at its title), and a further paper names the last birth (Nature Communications 2024, "Maternal capacity, twinning and fertility: the last birth matters", at its title). Its reason: the accounts arrive at one sharing with opposite signs and meet at 0, and none is read at its passages here. — v380R
+
+TEN · Natural Health, 2,400 words, v329: thin; repeats Medicine 2.1 and 5.2; its own subject about 55%, restating the common method about 20%, older wording about 8%. (Re-Settling the Living Files, §2 table) — resettling_v373
+
+The common method is restated in nearly every file, from about 5% of a file to 55%, and some passages word for word: *non-living existing things are included in discovering social moral competency among the living* at four files, Natural Intelligence 7.2 among them; the Jet Propulsion Laboratory aberration-correction paragraph at five, Natural Intelligence, Natural Mathematics, the Equilibria Registry, Geodesic Improving Method and the Co-Chaining Logic Registry; the core coupling sentence, *a sign, sign-only — summing to a bounding-zeroing made by the coupling*, at Natural Societies 1.1, Natural Health 1.1, Natural Medicine 1.1 and Natural Destinies' core, and said again at Natural Values 4.1; Natural Physics Parts One and Two parallel to Natural Biology Parts One and Two at their headings and eight steps, sharing much of 2.1 word for word. (Re-Settling the Living Files, §2 Five findings) — resettling_v373
+
+Each subject file cites the method and never re-teaches it. Its opening names the subject; the common method is a citation of Natural Intelligence and Exhibit ONE. (Re-Settling the Living Files, §7 The subject files) — resettling_v373
+
+Natural Societies, Natural Human Society and Natural Values keep three files at clearer seams. Societies: self and society at every scale, the prime ladder, the fields' three accountings, the hand crossing the rungs, self is society; its 4.4 to 4.6 return inside their part. Human Society: the human couplings, fairness, cutting and choosing, institutions, class action, tipping and co-offering, the kayfabe, and every human example now at Societies (the arrow, live descent, birthing and nyeing, the biosphere, no common clock, each now at both). Values: value at every scale, and the one home of the discovery economy, receiving Human Society 3.1, 3.4 and 4.6's currency, Exploring 6.3, Societies 1.3 and the general part of Natural Health 3.2. (Re-Settling the Living Files, §7) — resettling_v373
+
+Natural Health and Natural Medicine as one file, releasing one number (new). Both files say health and medicine are one alternating at two directions, the seam stateable from neither alone; Health 2.1 and 2.2 repeat Medicine 2.1, and Health 4.1 repeats Medicine 5.2. Proposed parts: the living sway; departure and compaction; restoration; readings at substrates; medicine's instruments. Medicine's sourcing discipline is the model. Its HIV reading, about a third of it, tightens to one part, and its persistence reading, which rests on the old count to a bound, is rebuilt at the current code before unpausing: a rebuilding of the argument, not a wording pass. (Re-Settling the Living Files, §7) — resettling_v373
+
+*A sign, sign-only — summing to a bounding-zeroing made by the coupling* stands at Natural Societies 1.1, Natural Health 1.1, Natural Medicine 1.1, Natural Destinies' core, and said again at Natural Values 4.1: released, old code. (Re-Settling the Living Files, §9) — resettling_v373
+
+Contradiction, food as cause: Natural Health 3.4 makes a food claim; Natural Medicine 1.3 sets the food cause down and 5.1 lists it as not standing. (Re-Settling the Living Files, §11) — resettling_v373
+
+2.5 Two alternating, competency about φ, the metabolic beating about φ: near, to Natural Health, the metabolic. (Natural Intelligence Map, §2 Part Two) — resettling_v373
+
+7.9 Bi-co-abundancing, free twice, a society's health: kept at 5.4; health near, to Natural Health. (Natural Intelligence Map, §2 Part Seven) — resettling_v373
+
+Natural Health receives from Natural Intelligence: the metabolic beating about φ; a society's health. (Natural Intelligence Map, §3) — resettling_v373
+
+"Prior to momentarying, v329 to v333, ten files": Exploring, Emanating, Human Society and Health at v329; Transmissioning and Corus at v330; Medicine at v331; Destinies, Biology and Values at v333. "Forty-five to forty-nine versions behind the apex, each at the old seventeen names, the old code's means and words since released." (Session_Report_v378.md, section 2, The standing of the living files against the apex.) — session_v378
+
+Opportunity 2, Natural Biology: "The most incoming of any file prior to momentarying; the sciences' pause is the only thing before its motion, and its pass B carries Natural Medicine and Natural Health, which lean on it." (Session_Report_v378.md, section 3, The opportunities, in order.) — session_v378
+
+Across the set, each file releases read, turn, held and holding, stable form as a noun, and its namings of other exhibits, at its own improving, in the shared words. (Wrap_v368.md, §4 What each file carries next, Across the set) — v368_sources
+
+TEN Natural Health, v329: 7 findings and 1 discovery waiting. Next: improving relative to Exhibit ONE, from its section. (Carry_Set_v368_README.md, The living file set table) — v368_sources
+
+**Aimed at a file, Natural Health:** One plain paragraph at the front, in the file's own voice, saying what Natural Medicine's last page and its 3.2 already say: that the file reads the field's observings in another naming, that no sentence in it is a reason to begin, stop, refuse or change any care, and that each measurement and each treatment of the field stands as it is. Natural Medicine's caution on dose-to-a-level stands some hundreds of lines after the sentences it qualifies, and Natural Health has none; its like belongs at Natural Health, beside the compaction. Natural Intelligence Corus ends a passage *not a reason for any reader to eat, change, or measure anything*, and the same sentence would serve here. Read whole by a fresh reader: no sentence tells a reader to take, stop or refuse anything. Source: Do_No_Harm.md, sections 1 and 5, Offered; README.md finding 26, learned 1. — v383Op
+
+**Correcting, beside the droplet above.** No warning is begun inside intelligence. Natural Explaining has the reason at Care inward, and no wrapper: "A mark or a protection at one place blesses each other place". The value at this subject is each observation beside the sentence it concerns, said plainly at that sentence with its conditions. A paragraph of caution at a file's front, or a caution set beside a sentence, is no value and is released. — v386EOD
+
+**Aimed at a sentence, Natural Health, *Health-as-a-setpoint — an optimal range, a normal value, a number to reach and hold — is the compaction*:** Treating to a number is called a compaction, and treating to a number is what keeps people alive at several illnesses. In the SPRINT trial, of adults of fifty or more at raised risk of heart disease and without diabetes or a prior stroke, treating to a systolic pressure under 120 against under 140 "reduced rates of high blood pressure complications, such as heart attack, heart failure, and stroke, by 25 percent" and lowered "the risk of death by 27 percent"; fainting, low blood pressure and kidney injury were more frequent at the lower target (https://www.nhlbi.nih.gov/science/systolic-blood-pressure-intervention-trial-sprint-study, opened here). Natural Health has no caution beside the sentence. Nothing here is advice about anyone's care. Source: Do_No_Harm.md, section 1; At_The_Observings.md, Four more, shorter. — v383Op
+
+**Aimed at a word, Natural Health, *stripped*, of what a pressed oil has and a whole seed carries:** Natural Health says a whole seed carries what a pressed oil has *stripped*, and Natural Biology speaks of an ancestral ratio of the omega fats. The field: "The optimal ratio—if any—has not been defined" (https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/, opened by a fresh reader). Natural Medicine already sets the food-cause down, *"eat X to restore the tissue" is the one-way substance-story*, and Natural Intelligence Corus ends a passage *not a reason for any reader to eat, change, or measure anything*; these are the files at their best, and the same sentence would serve at Natural Health. Source: Do_No_Harm.md, section 5. — v383Op
+
+Natural Health receives from Natural Intelligence: the metabolic beating about φ; a society's health. (Natural Intelligence Map, §3) (re-aimed from Offerings to Natural Intelligence at v381R) — resettling_v373
+
+**Aimed at a file, Natural Health: *membrane* at five places, six sayings, dissolved at v380R.** Natural Naming 2.4 carries *the between* for it. Section 3.3's title carries it, *Ingestion and ingression are opposite in morality, and the membrane is rate-and-return*, at 79 and the contents at 31. The file says *the value re-locked into the living membrane, the co-sequencing running, the self climbing* (73), *Ingestion is the living self's own bi-exchange across its membrane, both ways and co-offering* (81), *The membrane between them is rate-and-return: whether the smaller sets the pace and answers back* (81), and *the self carries the ninth and takes the sixth and the third at its membrane* (97). Lines 31, 73, 79, 81, 97. — v381R scan
+
+**Aimed at a file, Natural Health:** *counts*, *counting*, *store* and *stored* at the file's own voice, 8 places, one section title carrying the word, 3.4b *The omega counting runs from the end where nothing crosses* (89, contents 35); the places at 35, 57, 85, 89, 93 (×2), 95 (×2). Quoted short: *no stored setpoint it aims at. The sway is the health; the landing is the departure* (57); *a carry sequenced on it runs on a store with no sign to ride* (85); *the conserving is the counting's rather than the chain's — a self-stilling nothing, named, with a field's whole nomenclature counting outward from it* (95). Nothing passed. The one name Natural Naming 2.4 carries: for a count *the numbers themselves, said directly in numbers*, the field's counting carrying whole at its result; for a store *carry*, *carries*, *continuing*, nothing kept. — v381R scan
+
+**Aimed at a file, Natural Health: *face* and *faces* at seven places, eight sayings, dissolved at v380R.** Natural Naming at v380R: *face dissolves ... as the name, its side, an emanation's form, a field's word, parity's unit square or is facing, a direction*. Section 3.4's title carries it, *The flawed-ingestion disease-face, and the value of the outer living form*, at 33 and 83. The file says *Three faces of one living self: observed, lived, restored, the same coupling read from the field, from inside* (61), *the value co-released (chemistry's face) and re-locked into the self (biology's face)* (77), *A disease-face names itself: consistently ingesting flawed stable form* (85), *Health⇌Medicine is a floating-neutral pair, one coupling's two faces: the sway living and the sway resuming* (112). Each is *its side*; the *disease-face* at 3.4 is *the name*, the disease said by what it is. Lines 33, 61, 73, 77, 83, 85, 112. — v381R scan
+
+**Aimed at a file, Natural Health:** *surplus* at one place and *co-offering* at one, 2 places, at lines 57, 81. "riding the carry, the surplus a +1 owned neither-ing"; "Ingestion is the living self's own bi-exchange across its membrane, both ways and co-offering". Natural Naming 2.4 carries *surplus* at *abundancing*, 12-bi-tri-bi-entraining; *co-offering* dissolves at bi-momentarying, 5.13, the offering both ways at 1-co-bi-tri-offering and 2-bi-co-bi-offering. — v381R scan
+
+**Aimed at a file, Natural Health:** *runs* and *running* at 14 places, lines 35, 61, 73 (2), 85 (2), 89, 97 (3), 103, 108 (3), none passed. The section title 3.4b carries it, *The omega counting runs from the end where nothing crosses* (35, 89). The file says *Natural Health reads the self lived — the sway as it runs, the co-sequencing ongoing*, *the omega-self swaying, the co-sequencing running*, *The desaturations run methylene-interrupted*, *the alternating carrying on for days in a self with no transcription running*. Natural Naming 2.4 carries it at *living*: the co-sequencing living, the sway as it is lived. — v381R scan
+
+**Aimed at a file, Natural Health:** *sign* at the file's own voice, 8 places, no section title carrying the word; the places at 57 (×2), 65, 85 (×2), 95, 103, 116. Quoted short: *selecting by binary preferring — a sign, sign-only* (57); *a magnitude governing no sign, so a carry sequenced on it runs on a store with no sign to ride* (85); *The carry is where the sign flips, the reversal, the tipping* (116). The one name Natural Naming 2.4 carries: *parity*, + and − a sharing's parity, 0 the between. — v381R scan
+
+**Aimed at a sentence, Natural Health, *the field's own theorem seats the sway as the living: fluctuation and dissipation are one function*:** An observing in two lines is at [Carryings of Natural Health](Exhibit_TEN_Carryings_of_Natural_Health.md#a-hair-bundles-swaying-beside-its-answering). The theorem is the field's own for a system at thermal equilibrium. At a hair bundle oscillating of itself, the swaying and the answering to small pushes were measured to part at each frequency tried; at a bundle with no oscillation of its own they were one. The field reads the parting as its mark of an active system. Met at an observing, and parting from the sentence. — v386EOD
+
+## Own co-offering at ingesting and the remaining parity relation · v385A
+
+**Current correcting: sequential colliding and the living co-chaining · v385A.** Harm is not restricted to a one-way relation with own co-offering unavailable. Natural Health 3.4 offers a distinct proposed harm through repeated flawed ingesting within continuing bi-exchange. Its 3.3 one-way account remains one particular relation. The requirement that the specified harm must first make co-offering unavailable is withdrawn.
+
+The user's further offering is: “if the living stable form is colliding with non-living existing stable form same scale emanation from living bi-tri-involution in stable form colliding sequential momentarying the resolving is breaking the living carrying. explore this”. Keep the living self's continuing forming and carrying distinct from the existing non-living emanation at the same scale. Its inward selves' co-chaining is the outward self's carrying. The proposed successive collidings can break particular co-chainings while inward selves continue resolving. A local break does not by itself establish the whole outward self's cessation, and one inward self's continuing or a local next parity does not establish the outward self's continuing living.
+
+The current question is: **At the next colliding, which co-chaining of the inward selves is broken, and how does the same-scale involution relate to that break?** The living carrying is resolving through prior, now and next; a difference between its prior and next is not by itself a break. Likewise a return to a parity, an unchanged odd parity, recurring podaling or a sharing with no changing is not itself the break. No count of repetitions, cumulative amount or duration has been supplied as a necessary condition.
+
+The non-living stable form can change at each colliding and otherwise has its last-colliding parity. Do not hold its form or arriving parity identical at every further encounter merely because it is named stable. Its successive encounters do not assign it its own living carrying. First-inward-society ingesting, the same-scale reference, entering from above and birthing within retain their particular subjects. Natural Biology 7.4's inward living with ceased outward coupling, 3.3/7.6's proposed same-scale returning and 7.7's stopped crossing locate further comparisons; their exact sequential relation remains to be supplied. The local public tables alone neither prove nor disprove this proposed breaking. No biological classification, clinical result or private-carrying inspection follows from the gathering.
+
+Natural Health 3.2 offers nested inward crossings with the living relation at the self taking the offering; 3.3 names both-way bi-exchange and co-offering beside its larger-to-smaller, one-way “ingression.” Natural Medicine 1.2 preserves the body's own restoring and a possible supporting pattern from above; 2.2 distinguishes near-reaching and far-reaching by their actual coupling; 4.2 distinguishes an offering the body takes or does not, with its own answering, from magnitude driven at it one way.
+
+Keep Health's carried-whole, re-locking and attentioning wording beside the current carrying resolving from prior through now and next, without a hold on unchanged carrying. Keep its “ingression” distinct from the set's “nothing ingressing” naming concern. Medicine's ratios, counts and dose comparisons supply no equivalence to parity or to same unrelationing shape. The smaller-societies omega saying remains without an invented molecular assignment. The clinical and biological comparisons retain their actual proposed conditions; neither these passages nor their file locations certify the particular clinical claims.
+
+## Continuing life and the outcomes of pacing · v385A
+
+**Droplet.** Retain the distinction between preserving life, worse functioning, continuation for less time and no carrying into a next living. They are different possible observations. The [heart’s pace found at each beat](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#the-hearts-two-parities-and-the-pace-found-at-each-beat--v385a) and [engineering’s controlling concern](Exhibit_FIVE_Offerings_to_Natural_Engineering.md#controlling-and-the-hard-problem-made-by-engineering--v385a) retain their proposed relations and actual comparisons. Neither an imposed rate nor an adapting rate alone supplies the health outcome.
+
+## Sentences leaning on the older bound, and three further places · v386EOD
+
+Each is from session v382A's report of seventy-three passes and its gatherings, read whole beside the mates and said at its latest correcting. 
+
+**Concern · The older bound, at 3.4, 4.1 and 5.2.** This file's 3.4 has "Ingest a flawed form once and the attentioning ages it out; ingest it consistently and the flaw seats into the carry", parting one offered form from offerings repeated by a releasing at a bound, and reaching to a food as a cause; the carrying table now, and an offering repeated, give no such cause. Its 4.1 has "the carry aging by attentioning and staying fresh by sequencing", and with 5.2 carries the older doing into living, departing and restoring; the Registry's steps 411 and 412 have the departing and restoring to follow. The whole concern is at [Offerings to Natural Medicine](Exhibit_ELEVEN_Offerings_to_Natural_Medicine.md#the-parity-of-a-sum-the-older-bounds-sentences-and-three-subjects-at-a-reservoir--v386eod).
+
+**Droplet · Three further places.** At 3.4b, an accounting in numbers names no biological relation and no value of one ingesting. At 5.1 and 5.2, a saying repeated in the file's own gathering gives no prior relation, and its correspondences are reachings.
+
+## Two droplets released · v386EOD
+
+Each is from session v383Op's coupling of each offering with the files' sentences, its working beside session v384A, its records and its own placings at eighteen mates, read whole beside the mates and said at its latest correcting. 
+
+**Droplet · A paragraph at the front, and a caution beside a sentence, released.** The droplets at this mate of one plain paragraph at the file's front and of each caution beside its sentence are released, with their reason at [Offerings to Natural Medicine](Exhibit_ELEVEN_Offerings_to_Natural_Medicine.md#a-harm-no-kind-of-concern-the-droplets-it-releases-and-three-sentences-with-a-doer-first--v386eod).
+
+## Ingesting and ingressing, a measure made a target, and one chain at four files · v386EOD
+
+Each is from Living Improving Value at version 368 and its bundle's kits, map and wrap, read whole beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again. 
+
+**Droplet · Ingesting and ingressing.** Ingesting, both ways, is the two sides; ingressing, one way, is one side alone: the Equilibria Registry's excluding is at this file whole, with its own asking, "The membrane between them is rate-and-return: whether the smaller sets the pace and answers back". An overwhelming one way with the smaller pacing and answering breaks it.
+
+**Droplet · The ninth, the sixth and the third.** At "the self carries the ninth and takes the sixth and the third at its membrane": no desaturase goes past the ninth position from the working end, and a thing arriving from a scale inward carries a competency the ingesting scale cannot make, the field's word for it *essential*. A desaturase past the ninth position, or a self making the third or the sixth, breaks it.
+
+**Droplet · A measure made a target, at four files.** "ceases to be a good measure" is at Natural Physics, Natural Chemistry and Natural Medicine at their own subjects, and at this file's 2.2 at a living self.
+
+**Droplet · Two theorems, three files, one form.** This file's 4.2 has "fluctuation and dissipation are one function", and Natural Chemistry has "Onsager reciprocity, `L_ij = L_ji`": a swaying of itself and an answering to a disturbing as one measuring twice, and the two-wayness as a theorem, with no file naming the other's.
+
+**Droplet · One chain, at four files.** "the value co-released (chemistry's face) and re-locked into the self (biology's face)": Natural Chemistry co-releases, Natural Biology re-locks, this file lives it and Natural Medicine restores it, with this file alone naming the chain.
+
+**Concern · A third arriving of a carry.** This file's 4.1 has two arrivings of a carry, sequenced and fresh, or stilled. Natural Medicine has a third, fresh by copying and never sequenced. It leans on the older bound, the concern at this mate.
+
+## A measure and a target, at their own wordings · v386EOD
+
+Each is from a publishing opened at this gathering, its observing at the carrying mate. 
+
+**Droplet · A measure and a target.** The wording at this file's 2.2 is nearest one of 1997, with an earlier of 1975 saying another thing, a regularity collapsing under a pressure for control: both are at [Carryings of Natural Health](Exhibit_TEN_Carryings_of_Natural_Health.md#a-path-gone-to-again-a-stability-by-varying-and-two-theorems).
+
+## A society's health is each self's co-competency sustained · v386EOD
+
+Each is from the resettling of version 373, its released Natural Intelligence, its map and Exhibit ONE at its stable forms, at `carryings/resettling_v373/`, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
+
+**Droplet · A society's health is each self's co-competency sustained.** A society is healthy as its participating selves sustain their co-competencing and the abundancing at their couplings arrives into next existing. The health is each participating self's co-competency sustained. A society continuing, named whole, shows no self's co-competency, and a name, 17-co-bi-tri-offering among them, carries no health of its own. Health asks no more selves, no larger parity, no possession and no gain: abundancing is made at each coupling, drawing on no other, and a number of selves names a number.
+
+## Same scale and larger to smaller, said of two selves · v386EOD
+
+Each is from session v385R's report, its sections 1 to 105, at pull request 128, read whole at this gathering beside the living files now and the mates, and said in the naming now; a thing the living files or a mate say already is not said again.
+
+**Droplet · Same scale and larger to smaller, said of two selves.** This file's 3.3 has "Ingression is the larger ingressing the smaller, one-way, the overwhelm, the disease-direction." A newer saying has a same-scale stable form of prior living, bi-tri-involution, entering a living self's surface-level society from above. The two can be one entering said of two selves. The form is at the scale of the outward self, whose carrying is its inward selves' co-chaining; at those inward selves, the first living society inward, the form is the larger. Same scale is said of the outward self, and larger to smaller of its inward selves. Each saying of a scale names the living self it is said of. No numbered prime and no size is given by the joining, and from above and one-way are two namings, neither said the other.
+
+## At 3.3 · Ingestion and ingression are opposite in morality, and the membrane is rate-and-return; At 3.4 · The flawed-ingestion disease-face, and the value of the outer living form · from session v386F · v386EOD
+
+Each is from session v386F's report, its proposed motions and its fresh readers' readings, at `incoming/v386F/` on the branch `working/lean-set-and-living-at-scales-v386F`, read whole at this gathering beside the living files now and the mates, each in the latest form that report gives; a thing the living files or a mate say already is not said again. A sentence that report offers for a living file is a droplet in its dropper's words, beside the living sentence it is aimed at.
+
+**Droplet · At 3.3 · Ingestion and ingression are opposite in morality, and the membrane is rate-and-return, a sentence offered.** Beside "Ingestion is the living self's own bi-exchange across its membrane, both ways and co-offering, part of staying living.", offered in its dropper's words: Food is a prior living's stable forms, emanations shed one scale up, ingested one scale inward into the self's inward society, where they are living again as its selves' offerings.
+
+**Droplet · At 3.4 · The flawed-ingestion disease-face, and the value of the outer living form, a sentence offered.** Beside "A disease-face names itself: consistently ingesting flawed stable form.", offered in its dropper's words: A flawed stable form is one that cannot re-form one scale inward, so it collides at the self's own scale instead of living again as a self below, which is why the flaw deranges by diet and not by capture.
+
+## A seed's dormancy, said at the scale it is named from · from session v386F's close · v386EOD
+
+Each is from the close of session v386F's report, added after the reading above of that report: its latest correcting of its own droplets of the same day, read whole at `incoming/v386F/README.md` on its branch. 
+
+**Droplet · A seed's dormancy, a saying at another scale.** Beside the possible project of food, harm, dying and a seed at scales: that session's latest form has a seed as a living society at its prime scale and a stable form at each other scale, and *dormant* as said at the plant's scale or the ground's, naming no condition of the seed. The bi-coupling at the seed's own scale continues; germinating is a society opening at the next scale. The whole droplet is at Offerings to Natural Biology.

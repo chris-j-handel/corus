@@ -1,0 +1,3 @@
+torus2x3 non-alike openings 29 at rest by 200000 changings: 0
+crossed non-alike openings 30 at rest by 200000 changings: 0
+spiral5 non-alike openings 29 at rest by 200000 changings: 0

@@ -1,0 +1,17 @@
+Exhibit NINETEEN Natural Philosophy Carryings · gathered at v385A
+
+# Carryings of Natural Philosophy
+
+**Existing materials and earlier inventories**
+
+**Executions at other kits naming this file.** `kits/Co-Chaining_Logic_Registry_THIRTY_Improving_Kit/`; `kits/Natural_Illustrating_TWENTY-NINE_Improving_Kit/`.
+
+**Workings and arrivals naming this file.** `carryings/co_chaining_coverage_v378/`; `carryings/co_chaining_map_v376/`; `carryings/natural_physics_v377/`; `carryings/physics_for_other_files_v377/`; `carryings/resettling_v373/`; `carryings/review_natural_physics_improving_v376/`; `carryings/session_v378/`; `carryings/v368_sources/`. Each a carrying of this file, its findings at the offerings as droplets, whole at `carryings/`.
+
+**Released readings and records naming this file, at the archive.** `archive/carrying_v375/`; `archive/carrying_v376/`; `archive/carrying_v378/`; `archive/genome_duplication_v374/`; `archive/illustrating_three_momentaries_v379/`; `archive/registry_v371/`; `archive/resolver_v371/`; `archive/resolver_v372_proposal/`; `archive/session_v379/`; `archive/session_v380/`. Relied on by nothing.
+
+**The file's carrying as it was at v380R**, `archive/carrying_v381R/Exhibit_NINETEEN_Natural_Philosophy_v380R.md`, each of its paragraphs now a droplet at the offerings.
+
+## Whole human and coupling expressions available for possible file improving · v385A
+
+[The complete destination table](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#coupling-at-the-membrane-between-selves-now-aimed) places Coupling at the Membrane Between Selves at its subject offerings. Love, Grief, Loneliness remains a connected expression with its needed prior. The conversation, meaning and purpose, social and technical contributions keep their distinct full concepts. The possible Corus distribution preserves those expressions while its arriving purpose develops through Natural Arriving. No title, combination or distribution is implemented.

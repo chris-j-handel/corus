@@ -1,0 +1,15 @@
+torus 3 by 3, the self at (1, 1) absent after a common prior, 200 openings
+   selves of 8 differing from the intact, on average, at momentaries 1,2,3,5,8,12,20,40,60: [0.0, 0.2, 0.4, 0.7, 0.7, 0.4, 0.7, 0.6, 0.4]
+   at momentary 60: differing at none: 158 openings; at every self: 0; least 0 most 5
+   longest still possibling of a present self, momentaries in sequence: 1 ; a present self sharing 0 twice in sequence: {}
+   of each 1000 entries, with the hole: {'.': 139, 'P': 97, 'R': 137, 'T': 628}  intact: {'.': 130, 'P': 188, 'R': 117, 'T': 566}
+torus 4 by 5, the self at (2, 2) absent after a common prior, 200 openings
+   selves of 19 differing from the intact, on average, at momentaries 1,2,3,5,8,12,20,40,60: [0.0, 0.2, 0.5, 0.8, 1.0, 1.1, 1.5, 2.1, 1.0]
+   at momentary 60: differing at none: 139 openings; at every self: 0; least 0 most 12
+   longest still possibling of a present self, momentaries in sequence: 1 ; a present self sharing 0 twice in sequence: {}
+   of each 1000 entries, with the hole: {'.': 24, 'P': 191, 'R': 8, 'T': 776}  intact: {'.': 27, 'P': 205, 'R': 4, 'T': 764}
+torus 5 by 5, the self at (2, 2) absent after a common prior, 200 openings
+   selves of 24 differing from the intact, on average, at momentaries 1,2,3,5,8,12,20,40,60: [0.0, 0.1, 0.1, 0.2, 0.3, 0.3, 0.3, 0.3, 0.3]
+   at momentary 60: differing at none: 183 openings; at every self: 0; least 0 most 15
+   longest still possibling of a present self, momentaries in sequence: 1 ; a present self sharing 0 twice in sequence: {}
+   of each 1000 entries, with the hole: {'.': 80, 'P': 78, 'R': 79, 'T': 762}  intact: {'.': 80, 'P': 91, 'R': 78, 'T': 751}

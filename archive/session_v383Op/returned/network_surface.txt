@@ -1,0 +1,66 @@
+1  The nothing at a coupling: tori of 2 by 3, 3 by 3 and 3 by 4, every opening, momentaries 2 to 60
+   (so by the cell: a self shares its changing, and nothing where its changing is not; counted, and no finding.
+   The counts by what the receiving self meets are those of incoming/v383Op/two_lines.py, its fifth part.)
+   couplings at a momentary: 6388992; carrying nothing: 605820; of those, the releasing self still possibling at the momentary before: 605820
+   at a side offering nothing the receiving self meets: a releasing 230664, a taking 194196, still possibling 180960
+   a self sharing nothing at two momentaries in sequence: 0
+
+2  The second momentary read off the opening, each of 4672 openings
+   the takings are the selves parting from both sides at the opening, and the parting offerings those parting from one: 4672
+   the momentary from which the takings are one number to the sixtieth: 1: 10 openings, 2: 120 openings, 3: 178 openings, 4: 324 openings, 5: 626 openings, 6: 852 openings, 7: 936 openings, 8: 870 openings, 9: 588 openings, 10: 144 openings, 11: 24 openings
+   at a spiral that momentary is the second at every opening, incoming/v383Op/two_lines.py; at a torus the two
+   sides parting change the number until it settles.
+
+3  One self at a time, the order drawn, 40 of each self's own momentaries, beside the same opening stepped together.
+   Each cell: runs at which each self's own sequence is the beat's / runs at which each self reaches its fortieth momentary.
+                    runs   one sharing resting at a sharings waiting; one    sharings waiting;        one resting, and a 0
+                           coupling; taken at both  from each side taken     whatever has come        not laid: the nothing
+                           sides, a 0 among them                                                      as an absence
+   torus 2 by 3      120   120 / 120                120 / 120                0 / 120                  70 / 86
+   torus 3 by 3      120   120 / 120                120 / 120                0 / 120                  20 / 102
+   torus 3 by 4      120   120 / 120                120 / 120                0 / 120                  8 / 116
+   torus 3 by 7      120   120 / 120                120 / 120                0 / 120                  6 / 102
+   torus 5 by 5      120   120 / 120                120 / 120                0 / 120                  2 / 120
+   together          600   600 / 600                600 / 600                0 / 600                  106 / 526
+   The second column is so by its construction, a result of the field's (Kahn, 1974), and it keeps a waiting place at
+   each coupling. The first keeps no waiting place past one sharing and no round; it has a self wait on both its sides.
+
+4  A self absent after a common prior of 40 momentaries; 200 openings drawn at each torus; 60 momentaries on,
+   the same opening with the self present beside it. An absent self offers nothing and takes nothing.
+   torus 3 by 3, 8 selves present:
+      openings at which no present self ever carries otherwise than with the self present: 172 of 200
+      at the other 28, the most present selves carrying otherwise at one momentary: least 1, middle 5, most 6 of 8
+      a present self still possibling, most momentaries in sequence: 1; sharing nothing twice in sequence: 0
+      the same absence with one self at a time, one sharing resting, taken at both sides: runs at which a present self
+      never reaches its fortieth momentary, waiting on the absent side: 40 of 40
+   torus 4 by 5, 19 selves present:
+      openings at which no present self ever carries otherwise than with the self present: 135 of 200
+      at the other 65, the most present selves carrying otherwise at one momentary: least 1, middle 3, most 18 of 19
+      a present self still possibling, most momentaries in sequence: 1; sharing nothing twice in sequence: 0
+      the same absence with one self at a time, one sharing resting, taken at both sides: runs at which a present self
+      never reaches its fortieth momentary, waiting on the absent side: 40 of 40
+   torus 5 by 5, 24 selves present:
+      openings at which no present self ever carries otherwise than with the self present: 180 of 200
+      at the other 20, the most present selves carrying otherwise at one momentary: least 1, middle 2, most 15 of 24
+      a present self still possibling, most momentaries in sequence: 1; sharing nothing twice in sequence: 0
+      the same absence with one self at a time, one sharing resting, taken at both sides: runs at which a present self
+      never reaches its fortieth momentary, waiting on the absent side: 40 of 40
+   torus 7 by 7, 48 selves present:
+      openings at which no present self ever carries otherwise than with the self present: 185 of 200
+      at the other 15, the most present selves carrying otherwise at one momentary: least 1, middle 27, most 35 of 48
+      a present self still possibling, most momentaries in sequence: 1; sharing nothing twice in sequence: 0
+      the same absence with one self at a time, one sharing resting, taken at both sides: runs at which a present self
+      never reaches its fortieth momentary, waiting on the absent side: 40 of 40
+   At the beat an absent side is met as a nothing at each momentary, which is this instrument laying a 0 where nothing
+   is. A present self shares nothing at no two momentaries in sequence; the Registry's step 611 says two at most at a torus.
+
+5  At 3 and 4. Two selves, each sharing to the other, each opening, momentaries 1 to 8.
+   Each self: its carrying at 3 | the offering at its sharing 4 | at 12, 0 or the parity shared at 10
+   opened + +:   +|none|- +|none|-    -|-|0 -|-|0    -|none|+ -|none|+    +|+|0 +|+|0    +|none|- +|none|-    -|-|0 -|-|0    -|none|+ -|none|+    +|+|0 +|+|0
+   opened + -:   +|none|- -|none|+    -|+|+ +|-|-    +|-|- -|+|+    -|+|+ +|-|-    +|-|- -|+|+    -|+|+ +|-|-    +|-|- -|+|+    -|+|+ +|-|-
+   opened - +:   -|none|+ +|none|-    +|-|- -|+|+    -|+|+ +|-|-    +|-|- -|+|+    -|+|+ +|-|-    +|-|- -|+|+    -|+|+ +|-|-    +|-|- -|+|+
+   opened - -:   -|none|+ -|none|+    +|+|0 +|+|0    +|none|- +|none|-    -|-|0 -|-|0    -|none|+ -|none|+    +|+|0 +|+|0    +|none|- +|none|-    -|-|0 -|-|0
+   selves with two sharing to each, the three arrangements of part 1, each opening:
+   one parity surfaced at 14: 2349096; the self next at that parity, its sharing other's: 2349096
+   the momentary next to an is-still-possibling: none offered and the prior inverted, the self at one parity with both
+   sharing to it: 3426 of 3426; the offered chained: 299484

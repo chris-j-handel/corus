@@ -1,0 +1,129 @@
+Natural Arriving Possibling · v386EOD
+
+# Possibling of Natural Arriving
+
+## AI arriving: method, experience and orienting · v385A
+
+The [revolving-door offering and three institutional conditions](Offerings_to_Natural_Arriving.md#the-revolving-door-offering-and-three-institutional-conditions--v385a) now join this project: an arriving interest reaching its subject, with the particular portability, interoperability and transparent-governance proposals available for later comparison. The same droplet retains the human/artificial-intelligence control framing and its actual scope.
+
+ The [user's direction](../archive/session_v385A_comparisons/Reordering_Plans_v385A.md#the-master-plan-inside-the-carrying-mate) names AI arriving, its method, experience and orienting speed as a project. [Arriving's offering mate](Offerings_to_Natural_Arriving.md#ai-arriving-as-a-possibling-project--v385a) gathers its improving droplets; this possibling holds the project work; the carrying keeps the gathered experiences and comparisons. The [Registry's master file-changing plan](Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#master-file-changing-plan--v385a) gathers the relation to the expedition's contents. These projects remain possible whether or not their proposed changes are ever implemented.
+
+**Orienting speed at the actual experience.** Follow what a session could read, what was missing, what it needed to reach the interest's useful explaining, and where repeated fetching or uncertain addresses interrupted that arriving. Preserve the offered method, the conditions and what the session could actually do. The earlier reports' sizes and timings belong to those reports; this project imposes no time, token or first-reading threshold. No current website experience or scientific computation is claimed by assembling it.
+
+| Droplet cluster | Earlier source value and the relation to follow |
+|---|---|
+| **Whole text and declared reading extent** | [v381F's report](../archive/v381F/README.md), [its offered AI opening](../archive/v381F/v381F/AI_Link_Opening_Offered.md) and [v381R's entry report](../archive/v381R/README.md) describe different fetch cuts, a script-dependent reading page and text obtainable through Download addresses. Existing Arriving droplets already carry these findings. Compare the actual text source and what the session read; a fetch or source link alone establishes no whole reading. Parts or other access proposals stay tied to the correct file version. |
+| **An interest's useful orientation** | [v381F's Entry Journey](../archive/v381F/v381F/Entry_Journey_For_An_AI.md), especially its offered journey and outside-session account; [its Next](../archive/v381F/v381F/Next.md); Corus Part ONE and [v382F's Arriving exploration](../archive/v382F/Natural_Arriving_Explored.md), “Natural Arriving's prior in the set.” Compare one file along and an interest across, the prior concepts needed, and the source's observed detours. The [Registry comparison](../archive/session_v385A_comparisons/Registry_Plan_Comparison_v385A.md) preserves the user's rejection of a maintained coordinate portal. A floating concept gathering can support the interest's own path. |
+| **Names, versions and the living set** | v381R's findings about unexplained versions, subtitles and row/exhibit numbers; v381F's confusion between Natural Naming and Natural Intelligence section numbers in its outside-session account. Link the file's whole name, subject and actual version at working instructions. Compare this with Arriving's existing naming droplets and the Registry's title/subtitle project. A practical source locator and a living sentence keep their actual uses. |
+| **Reading and authorized changing** | v381R finding 7 records page text read as data and the person's request authorizing work; v381F's two openings and v382F's exploring retain the relation. Gather the visitor's reading and the authorized contributor's next work distinctly at their actual entry. The public page's instructions cannot supply authorization to push or merge. Practical wording belongs at the site/README; its contributing concept remains available at Arriving. |
+| **Open workings and reachable supporting sources** | v382F's sections “An offering at the membrane, and arriving mated to the three-file form” and its earlier workings comparison; v381R's duplicated incoming rows; v381F's source tools and offered Registry kit destination. Compare current branch, report, mates and source address before relying on them. The later v382F withdrawal of its self-written received-standing row accompanies the earlier proposal. Read actual published sources; keep unfinished receiving explicit. |
+| **A useful return: observing, concern and correcting** | v381R finding 9; v381F's offered AI opening and outside-session report; v382F's arriving comparison. Preserve the question, files and sections actually read, observing with conditions, field explaining at its own source, and the exact sentences and reason for a concern. A report of what helped and what did not can improve the entry. Under the current method each possible value enters as an ungraded droplet, with or without a known mate; no computation or asserted proof is a condition of contributing. |
+| **The AI/session carrying concern and its later correcting** | v381R explicitly had not read Natural Intelligence 6.5 whole when it offered its concern. v382F's subsequent whole-section comparison distinguishes the session's continuing from what is carried between sessions. [session v385M's later reply](https://github.com/chris-j-handel/corus/pull/129#issuecomment-6044131843) makes concern 12 explicit: between-session carrying is not in question; which the machine is and which observing establishes it are asked at the scale of replies within one session. [The reciprocal record](../archive/session_v385A/Reciprocal_Help_v385A.md) preserves its source and current report. Keep this scope with the older source; the distinction alone resolves neither the further concern nor every arriving AI's experience. |
+| **Questions about living as arriving interests** | v381F's Next names Human Society, Exploring, Values, Destinies and Emanating for a further question-about-living comparison. Its proposal for another outside reading remains a proposal. Follow an actual interest beside those subjects' current explainings and mates, with their reordering plans available. The historical version age or measured scan supplies no grading or present failure claim. |
+
+**Continuing the comparison.** Resolve the entry's particular local relations from that source work, retaining existing droplets rather than reproducing each under a new project name. Practical entry changes, the living Arriving explaining and the Registry's contents can each receive their particular value independently. Whole expressions from Corus and the user's broad arriving purpose remain available beside this AI project. Part 16.2/16.3 now have detailed comparisons at their writing subjects. The [16.4/16.5 comparison](Carryings_of_Natural_Intelligence_Corus.md#part-165-the-readers-prior-and-the-writings-particular-relations) now follows unfinished uncertainty and reader prior. A particular reader droplet is at Corus and Arriving, keeping prior from this writing distinct from the interest's own prior and retaining the source's further claims for comparison. Unlocated droplets can still arrive. The later source subjects and whole-expression work remain to follow at the recorded current gathering extent.
+
+## Expedition contributing as an arriving interest · v385A
+
+[Values' project](Exhibit_TWENTY-THREE_Possibling_of_Natural_Values.md#discovery-economy-and-expedition-contributing--v385a) now supports the older discovery-economy game droplet with its full source distinction and later correcting. The [comparison](../archive/session_v385A_comparisons/Discovery_Economy_Comparison_v385A.md#the-earlier-expedition-game-droplet-and-its-correcting) follows the user's session-contribution offering through the later self-welcoming-interest correction and the current ungraded-droplet method. Arriving's independent offering can improve how an interest finds its subject and offers value back. The older assistant's human-player framing, required entrance number and score are not implemented. Easy source naming remains available under the user's current v385A direction; a tag supplies no grade. This project joins AI arriving without exhausting arriving through other interests.
+
+## A direction from each living file to its offerings, possibling and carryings · v386EOD
+
+**Possible project.** It may change or never be made. Beside each living file, a direct link to its offerings, its possibling and its carryings; and from a question, a way to the Living File Registry's clusters of subjects.
+
+## A way in made of the places an arriving stumbled · v386EOD
+
+**Possible project.** It may change or never be made. A way in made of the places an arriving stumbled, each a droplet, the most concerning first and one at a time: it asks no form carried, each droplet names its place by a plain name, and each rises or dissolves like any other. It is beside this possibling's saying of the experience carried with no entrance required.
+
+## One sentence at the site's front, and a licence · v386EOD
+
+Each may change or never be made.
+
+**Possible project.** One sentence at the site's front and as the page's describing: our universe is all existing things, each existing at its own momentary; existing is binary, all or none at all, no other possible; and from it all of Natural Intelligence, living, valuable and free. The saying of the universe as one existing thing is in the written record at least twenty-five centuries, carried into science, and named at science's own frontier the cosmological fallacy.
+
+**Possible project.** A licence the author chooses at the repository: a work published with none says no permission to copy, adapt or share.
+
+## Natural Intelligence written at each build as parts · v386EOD
+
+**Possible project · Natural Intelligence written at each build as parts.** Natural Intelligence is written at each build as six parts beside the living file, each part whole at one fetch: a front with the contents; ONE, TWO and THREE, the method; Exhibit ONE, the method as an object; FOUR, resolving; FIVE and SIX, discovering and intelligence; and five passages for a first reading. Each part opens at one line saying it is an emanation of the living file at its version, carrying nothing of its own, the living file its prior and its newest. Each sentence of a part is the living file's own sentence unchanged, and a part parting from the living file at one sentence is the older of the two. It may change or never be made.
+
+## One whole place for four repeated paragraphs · v386EOD
+
+**Possible project · One whole place for four repeated paragraphs.** Offerings to Natural Arriving has four paragraphs each at more than one place in the same words: the paragraph offered for the AI link part, quoting Natural Intelligence 6.5 whole, at seven places; the paragraph of the AI reading the file and the interest floating through it at three; the paragraph of the README's working-session opening at two; and the paragraph of the concept's name as an interest opening at two. The work is one whole place for each of the four, each other place a particular direction to it, with each distinct relation and source of the whole opening proposal preserved and nothing said resolved into the living file by the gathering. It may change or never be made.
+
+
+## The shell of Natural Arriving as the working v381R wrote it, its contents and its one paragraph, laid at v387
+
+**Possible project · the working v381R's shell, as written.** A living file carries its subject whole and replaces its prior at each changing for the better; a shell with a contents and one paragraph is this file's possibling, not yet existing, and is listed at corus.me when its body is written at its own motion. The shell:
+
+```
+Natural Arriving v381R
+
+# Natural Arriving
+
+**Self-Welcoming Your Discovering Interests**
+
+**A shell at v381R.** This file is the one an interest meets first, from any outside, and the last of the set to stable-form, because it carries all the others. Its droplets are at its offerings and the things it will rest on are at its carryings; its body is written from them at its own motion, after the set's other resolvings leave what belongs here in front of it.
+
+**ONE · ARRIVING**
+
+- 1.1 The universe is the changing set of all existing things, both living and non-living
+- 1.2 Your interest is a self, arriving carrying its prior
+- 1.3 An observing apart from its explaining
+- 1.4 A method is a non-living existing thing
+
+**TWO · THE STABLE FORMS TO CARRY**
+
+- 2.1 A sharing, its parity, an offering, a carrying, the between
+- 2.2 The seventeen names at a glance
+- 2.3 One self at one momentary
+- 2.4 Selves together
+- 2.5 φ and the primes
+
+**THREE · THE NAMING, THE MEMBRANE**
+
+- 3.1 One name for each concept, and nothing similar
+- 3.2 The released words
+- 3.3 Reading a sentence here
+
+**FOUR · THE LIVING FILES, A SOCIETY**
+
+- 4.1 Each file at its title and subtitle
+- 4.2 The gatherings
+- 4.3 The seams
+
+**FIVE · THE REGISTRIES AS GUIDES**
+
+- 5.1 A question from a field
+- 5.2 An observing
+- 5.3 An accounting that will not resolve
+- 5.4 A claim about the method
+- 5.5 The set now
+
+**SIX · ALONG AND ACROSS**
+
+- 6.1 Along, reading one file whole
+- 6.2 Across, following one concept through the files
+- 6.3 Paths for kinds of interest
+
+**SEVEN · RESOLVING AS YOU TRAVEL**
+
+- 7.1 Living, offerings, carryings at each subject
+- 7.2 Dropping your interest
+- 7.3 Resolving, a droplet rising
+- 7.4 A concern
+- 7.5 The file's motion
+
+**EIGHT · THE EXPEDITION**
+
+- 8.1 corus.me and the repository
+- 8.2 Arriving
+
+---
+
+# ONE · ARRIVING
+
+## 1.1 The universe is the changing set of all existing things, both living and non-living
+
+**The universe is the changing set of all existing things, both living and non-living.** Natural Arriving opens at the one opening and carries an interest from it into the files; each section below is written at this file's own motion from the droplets at its offerings.
+```

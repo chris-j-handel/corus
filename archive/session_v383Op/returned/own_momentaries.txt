@@ -1,0 +1,21 @@
+Exhibit ONE read at Exhibit_ONE_Natural_Resolver_v380R.md
+
+Each self's own sequence, 40 of its own momentaries, beside the selves stepped together:
+  society                            one arriving from each       whatever has arrived
+  spiral of 3                        alike at 120 of 120          alike at 120 of 120    (one from each: most ahead 2, most waiting 3)
+  spiral of 5                        alike at 120 of 120          alike at 120 of 120    (one from each: most ahead 4, most waiting 5)
+  spiral of 8                        alike at 120 of 120          alike at 120 of 120    (one from each: most ahead 7, most waiting 8)
+  torus 2 by 3                       alike at 120 of 120          alike at   1 of 120    (one from each: most ahead 3, most waiting 3)
+  torus 3 by 3                       alike at 120 of 120          alike at   0 of 120    (one from each: most ahead 4, most waiting 3)
+  torus 3 by 7                       alike at 120 of 120          alike at   0 of 120    (one from each: most ahead 8, most waiting 7)
+  spirals of 3 and 5 crossed         alike at 120 of 120          alike at   6 of 120    (one from each: most ahead 7, most waiting 5)
+  spirals of 5 and 7 crossed         alike at 120 of 120          alike at  10 of 120    (one from each: most ahead 10, most waiting 7)
+
+The spiral read at each second momentary of each self, beside a ring of inverters,
+each giving its arriving inverted one delay on, v[j](t + 1) = -v[j-1](t), at every opening:
+  3 selves: alike with the ring of inverters at   8 of   8 openings; at rest from   0; again at [2, 6] delays (2N is 6)
+  4 selves: alike with the ring of inverters at  16 of  16 openings; at rest from   2; again at [1, 2, 4] delays (2N is 8)
+  5 selves: alike with the ring of inverters at  32 of  32 openings; at rest from   0; again at [2, 10] delays (2N is 10)
+  6 selves: alike with the ring of inverters at  64 of  64 openings; at rest from   2; again at [1, 2, 3, 6] delays (2N is 12)
+  7 selves: alike with the ring of inverters at 128 of 128 openings; at rest from   0; again at [2, 14] delays (2N is 14)
+  8 selves: alike with the ring of inverters at 256 of 256 openings; at rest from   2; again at [1, 2, 4, 8] delays (2N is 16)

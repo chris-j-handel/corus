@@ -72,7 +72,12 @@ print('  %-56s %-6s %5s %7s   next' % ('each file at its own carrying', 'words',
 ready_total = concern_total = 0
 for stem in sorted(living):
     if not living[stem].endswith('.md'): continue
+    # a living file's carrying is at carry/<stem>.md, or, at the three-file form, its offerings at
+    # carry/<Exhibit_N>_Offerings_to_<name>.md with its carryings beside it
+    off = re.sub(r'^(Exhibit_[A-Z-]+_)', r'\1Offerings_to_', stem) if stem.startswith('Exhibit_') else 'Offerings_to_' + stem
     cf = os.path.join(carry, stem + '.md')
+    if not os.path.exists(cf) and os.path.exists(os.path.join(carry, off + '.md')):
+        cf = os.path.join(carry, off + '.md')
     if not os.path.exists(cf):
         notes.append('no carrying at carry/%s.md' % stem); continue
     ct = open(cf, encoding='utf-8').read()
@@ -81,7 +86,7 @@ for stem in sorted(living):
         body = m.group(1).strip() if m else ''
         if body == 'None.' or not body: return 0
         return len([b for b in re.split(r'\n\s*\n', body) if b.strip()])
-    ready, concern = part('Ready'), part('Concern')
+    ready, concern = part('Ready') + part('Insertlets'), part('Concern') + part('Droplets')
     ready_total += ready; concern_total += concern
     nm = re.search(r'^\*\*Next at this file(.*?)\*\*[ \t]*(.*?)$', ct, re.M)
     nxt = ((nm.group(1).strip(':,. ') + ' ' + nm.group(2).strip()).strip() if nm else '(no next said)')[:70]

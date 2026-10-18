@@ -1,0 +1,21 @@
+all ways: 64
+alike: 8
+alike, the offered parity participating: 4
+   carrying +: offered + -> +, offered - -> +, offered none -> + | participates: False | none still: False
+   carrying +: offered + -> +, offered - -> +, offered none -> - | participates: False | none still: False
+   carrying +: offered + -> +, offered - -> -, offered none -> + | participates: True | none still: False
+   carrying +: offered + -> +, offered - -> -, offered none -> - | participates: True | none still: True
+   carrying +: offered + -> -, offered - -> +, offered none -> + | participates: True | none still: False
+   carrying +: offered + -> -, offered - -> +, offered none -> - | participates: True | none still: True
+   carrying +: offered + -> -, offered - -> -, offered none -> + | participates: False | none still: False
+   carrying +: offered + -> -, offered - -> -, offered none -> - | participates: False | none still: True
+alike, participating, none still: 2
+    carrying +: offered + -> +, offered - -> -, offered none -> -
+    carrying +: offered + -> -, offered - -> +, offered none -> -
+each condition is its own:
+   participating and none still, alike not asked: 8
+   alike and none still, participating not asked: 3
+   alike and participating, none still not asked: 4
+none still alone: 9 | each of them inverts when offered nothing: True
+at the first way kept, the prior read back from (next, releasing): {('+', '0'): ['+'], ('-', '-'): ['+'], ('+', '+'): ['-'], ('-', '0'): ['-']}
+the sixteen ways of (prior, now) -> (now, next): carrying the prior whole 4 | of those with no joint form still 1
