@@ -1696,3 +1696,27 @@ Co-chaining lengthens and the co-intelligence scales on the one axis that does n
 4. Widening the missing section and the surrounding society through the same declared connections, each release and the diagnostic receiving order accounted for, and any external storage kept distinct from the resolver's carrying.
 
 **Each finding carries the exact comparison establishing it.** Reciprocal dependence in one finite study is a concrete network finding, and social moral competency, the surplus available to neither self apart from their coupling and larger fractal continuation are each met at their own complete relations. The next study proceeds from the finding made, its prior carried and its next receiving open.
+
+## Re-said at offerings risen, v389
+
+four together meeting each name from one through sixteen once.
+
+First two rows thus express one-through-nine and one-through-seventeen within one growing number-form.
+
+Social relation carries whole through these differing participations.
+
+No common pace is supplied over surface.
+
+and an observing carried from either to other carries the wrong centre with it.
+
+These are prior observations with stated conditions.
+
+**The universe is all existing things, and alternating is a stable-forming method.
+
+**The universe is all existing things; its momentary is their existing and discovering together.**
+
+prior and now participating at a self's resolving and next discovering continuing beyond this now.
+
+and along connectors 9 and 17 open odd, existing.
+
+at which waist and close are facing each other.

@@ -83,3 +83,23 @@ A **natural network** the selves themselves originate — each self, having take
 Received at this file's own turn: wherever a built substrate is imagined, the two cones are mis-observed the same two ways. Apex is observed as drag: a carry observed as a source becomes legacy that will not let go, the gathered whole mistaken for a weight the build must escape. And omega is observed as overwhelm: a carry observed as arriving becomes load beyond the bound, the reach mistaken for a flood. The corrections are the cones themselves, the gather the value carried and the reach the offering forward, and a destiny imagined at any substrate is clean where both cones are observed as the living they are.
 
 A destiny is observed at one binary: is the safety structural there — the eight safeties self-sustaining, the surface all-edge, the surplus staying at the coupling — or would the living lean on a holder standing over it. A destiny safe by the surface's own form is safe to reach. And a destiny leaning on a central holder, observed as such, sharpens the edge of where the technology extends safely — that observing carrying as much as one that stands on its own, since the edge is where the imagining does its work.
+
+## Re-said at offerings risen, v389
+
+riding its carry, its surplus a +1 owned neither-ing. A destiny is this coupling
+
+(all-edge, a surplus owned neither-ing, four uncontrollable values)
+
+growing as it is shared, a surplus of each coupling staying at its coupling. Imaginable where eight safeties self-sustain and a surplus stays where it is made.
+
+a surface all-edge, a surplus staying at its coupling —
+
+both rising, all-edge. Its surface self-originating, standing on its own.
+
+since an edge is where imagining does its work.
+
+coupled across a between. Self-bounding
+
+a present coupling and its destiny facing each other.
+
+a framing that had held still opening as its coupling re-alternates

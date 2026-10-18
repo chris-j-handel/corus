@@ -1,4 +1,4 @@
-Exhibit TEN Natural Health v329
+Exhibit TEN Natural Health v389
 
 &nbsp;
 
@@ -54,11 +54,11 @@ Exhibit TEN Natural Health v329
 
 **At this file health is a living sway**, dual parallel floating neutrals co-sequencing and riding its carry, which is a living state of a self. **Health is a positive form**: a presence of swaying co-sequencing, and a departure's absence nowhere in it. Natural Medicine holds restoration, a beating resuming after a departure, and this file holds living itself — two floating neutrals swaying, and no compacted point. **The care lives inward, in naming and edging.**
 
-**Bi-moral co-agency** is a coupling: two-way, one-at-a-time, selecting by binary preferring — a parity, sign-only — summing to a bounding-zeroing made by coupling itself, riding its carry, its surplus a +1 owned neither-ing. Health is that coupling **living** — a beating ongoing, its sway swaying, a self re-arriving. A living self's measures stand in a viable range it rides its carry upon, corrected from both sides by two antagonistic offerings: two floating neutrals, parallel, swaying, co-sequencing. Health is two neutrals swaying, a range emergent from coupled offerings, sustained by its coupling, no stored setpoint it aims at. Sway is health; a landing is a departure.
+**Bi-moral co-agency** is a coupling: two-way, one-at-a-time, selecting by binary preferring — a parity, sign-only — summing to a bounding-zeroing made by coupling itself, riding its carry, its abundancing a +1 owned neither-ing. Health is that coupling **living** — a beating ongoing, its sway swaying, a self re-arriving. A living self's measures stand in a viable range it rides its carry upon, corrected from both sides by two antagonistic offerings: two floating neutrals, parallel, swaying, co-sequencing. Health is two neutrals swaying, a range emergent from coupled offerings, sustained by its coupling, no stored setpoint it aims at. Sway is health; a landing is a departure.
 
 ## 1.2 Health is observed inward — the self lived, beside the self observed and the self restored
 
-Health is observed inward at a living self. At Natural Biology a self is **observed** — development, heredity, a cell as fields study it, a re-locking. At Natural Medicine a self is **restored** — a beating resuming after a departure. At Natural Health a self is **lived** — its sway as it carries on, its co-sequencing ongoing, a wellbeing a living self carries. One living self at three sides: observed, lived, restored, the same coupling observed from a field, inward, and after a departure.
+Health is observed inward at a living self. At Natural Biology a self is **observed** — development, heredity, a cell as fields study it, a re-locking. At Natural Medicine a self is **restored** — a beating resuming after a departure. At Natural Health a self is **lived** — its sway as it carries on, its co-sequencing ongoing, a wellbeing a living self carries. One living self at three sides: observed, lived, restored, the same coupling observed from a field, inward, and after a departure. A society is healthy as its selves sustain their co-competencing and abundancing at their couplings arrives into next existing: its health asks no more selves, no larger parity, no possession and no gain.
 
 ## 2.1 The living state is dual parallel floating neutrals in swaying co-sequencing
 
@@ -66,7 +66,7 @@ A living state is **dual parallel floating neutrals in swaying co-sequencing**: 
 
 ## 2.2 The target is the compaction, and health carries its own strongest edging
 
-Health-as-a-setpoint — an optimal range, a normal value, a number to reach and hold — is **compaction**: pressing two swaying floating neutrals into a landed point, an extreme localizing, the same incompetencing move a diagnosis warns against. A sway resists compaction, riding its carry and not landing. Living health is an opposite of a target: two neutrals swaying, co-sequencing, at no optimized landed point. A wellness-setpoint — a quantified self, optimal ranges, a number to hit — is compaction applied to wellbeing, health-as-a-target, an extreme localizing of a living sway. Health observed as a form is its sway living; health observed as a setpoint is compaction. So health carries its own strongest edging: health is a swaying co-sequencing, a health-target set down. And a field's own sentence stands beside it, one line: a measure made a target ceases to be a good measure — a compaction stated by economics about every field at once.
+Health-as-a-setpoint — an optimal range, a normal value, a number to reach and hold — is **compaction**: pressing two swaying floating neutrals into a landed point, an extreme localizing, the same incompetencing move a diagnosis warns against. A sway resists compaction, riding its carry and not landing. Living health is an opposite of a target: two neutrals swaying, co-sequencing, at no optimized landed point. A wellness-setpoint — a quantified self, optimal ranges, a number to hit — is compaction applied to wellbeing, health-as-a-target, an extreme localizing of a living sway. Health observed as a form is its sway living; health observed as a setpoint is compaction. So health carries its own strongest edging: health is a swaying co-sequencing, a health-target set down. And a field's own sentence stands beside it, one line: a measure made a target ceases to be a good measure — a compaction at every field at once, in a wording of 1997, beside an earlier of 1975 at economics, a regularity collapsing under a pressure for control.
 
 ## 3.1 The living value lived — the omega-self swaying, the value re-locked and carried whole
 
@@ -78,7 +78,7 @@ Delivery of a living value is **tunneling-unrelationing**: an other-self bi-coup
 
 ## 3.3 Ingestion and ingression are opposite in morality, and the between is rate-and-return
 
-Ingestion is a living self's own bi-exchange across a between, offering across and both ways, part of staying living. Ingression is a larger ingressing a smaller, one-way, an overwhelm, a disease-direction. Their between is rate-and-return: whether a smaller sets its pace and answers back.
+Ingestion is a living self's own bi-exchange across a between, offering across and both ways, part of staying living. Food is a prior living's stable forms, emanations shed one scale up and ingested one scale inward into a self's inward society, where its living selves take them up as their own offerings. Ingression is a larger ingressing a smaller, one-way, an overwhelm, a disease-direction. Their between is rate-and-return: whether a smaller sets its pace and answers back.
 
 ## 3.4 The flawed-ingestion disease-form, and the value of the outer living form
 
@@ -94,7 +94,7 @@ A fatty acid carries two ends. At one, every crossing its chain ever takes — a
 
 *So a conserved number arrives at a position taking no parity, and its conserving is a counting's rather than a chain's — a self-stilling nothing, with a field's whole nomenclature counting outward from it.*
 
-**Three, six, nine — odd, even, odd.** Its desaturations are methylene-interrupted, one carbon between, so its families sit three apart. And a self carries the ninth and takes the sixth and the third at a between, no desaturase reaching past the ninth position from the working end. The odd one at the near end is a self's own; the even and the far odd arrive by ingestion and by ingestion only.
+**Three, six, nine — odd, even, odd.** Its desaturations are methylene-interrupted, one carbon between, so its families sit three apart. And a self carries the ninth and takes the sixth and the third at a between, no desaturase reaching past the ninth position from the working end. The odd one at the near end is a self's own; the even and the far odd arrive by ingestion and by ingestion only. A field's own word for them is *essential*: each arrives carrying a competency an ingesting self cannot make.
 
 **The pressed oil's ratio stripped, in a field's own measurements.** Conversion of a plant form arrives under eight per cent to a twenty-carbon form and under four to a twenty-two, with other measurements arriving far lower and none detectable at all in one group against about nine per cent in another. Much of what is ingested is burned — beta-oxidation in mitochondria — and what crosses is a small remainder. Conversion carries a competing family with it: a diet high in a six-family arriving at forty per cent less conversion and seventy per cent less accumulation, and more of a three-family arriving at more of its own burning rather than more crossing. Desaturases differ self to self, and some selves convert little at any intake.
 

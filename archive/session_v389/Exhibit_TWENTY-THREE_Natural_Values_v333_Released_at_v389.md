@@ -196,3 +196,13 @@ No present human society carries it whole, and no lived instance offers its obse
 The fields' language reaches it thinly. Its words that come nearest carry goods that do not diminish in the sharing. None yet carries the growing. None yet carries the surplus owned neither-ing. None yet carries the receiving as the value.
 
 The standings are open at their own places. Abundancing at a society's whole scale is met so far only at the small. What the crossing carries when a field's own word for it arrives stands unmet. What a self opens next by coupling cleanly and rising stands unmet, and no coupling has opened it before. That last is abundancing's own question. It opens rather than closes, since **the unprecedented is what the reach is**.
+
+## Re-said at offerings risen, v389
+
+A field of secrets carries this at proof grade.
+
+None yet carries its growing.
+
+Where a surplus stays at its couplings and couplings multiply, nothing is divided
+
+That is a right spiral momentarying at the many.

@@ -1,4 +1,4 @@
-Exhibit TWO Natural Networking v371
+Exhibit TWO Natural Networking v389
 
 &nbsp;
 
@@ -144,7 +144,7 @@ Non-carrying local surface within society
 
 ## 1.1 Bi-moralizing co-agency, the one form carried whole
 
-**The universe is all existing things, and alternating is a stable-forming method. Natural networking is selves offering, across and both ways, each continuing its own carrying, with competency arriving at their coupling.** Two-way, one at a time, each offers its own parity. Their coupling carries bounding-zeroing and surplus owned by neither: +1 is a term neither self brings. Bi-moralizing co-agency is this whole relation, morality across and competency along.
+**The universe is the set of all now-existing things, and alternating is a stable-forming method. Natural networking is selves offering, across and both ways, each continuing its own carrying, with competency arriving at their coupling.** Two-way, one at a time, each offers its own parity. Their coupling carries bounding-zeroing and surplus owned by neither: +1 is a term neither self brings. Bi-moralizing co-agency is this whole relation, morality across and competency along.
 
 **Offering, across and both ways, carries associating; co-linearizing carries resonating; bi-coupling carries moral co-operating and co-competencing.** Associating continues in mutual offering. Co-linearizing is two sequencing together, each continuing its own, their meeting owned by neither. Moral co-operating is each self's own offering continuing with an other's, competency belonging to their coupling.
 
@@ -152,7 +152,7 @@ Non-carrying local surface within society
 
 ## 1.2 Along and across, chaining and surfacing, two floating co-neutrals co-competencing
 
-**Along is carrying continuing; across is releasing becoming another self's arriving.** Along, each self carries prior into now through its own forward sequencing, right-spiraling, co-chaining at its own rate. Across, selves meet at their coupling, bi-tunneling, each releasing to an other's arriving. Discovering continues through that meeting: prior, now and next are three sequential momentaries shared among existing things, prior and now participating at a self's resolving and next discovering continuing beyond this now.
+**Along is carrying continuing; across is releasing becoming another self's arriving.** Along, each self carries prior into now through its own forward sequencing, right-spiraling, co-chaining at its own rate. Across, selves meet at their coupling, bi-tunneling, each releasing to an other's arriving. Discovering continues through that meeting: prior, now and next are three sequential momentaries shared among existing things, prior and now participating at a self's resolving and next discovering continuing beyond this now. Now is one, shared at every coupling and common at none.
 
 **Along and across co-competence as two floating co-neutrals.** Chaining continues through couplings; surfacing opens further coupling, and receiving continues the same resolving. Competency neither reaches arrives at their meeting, owned by neither, continuing with both. Morality across and competency along are inseparable in this continuing.
 
@@ -345,7 +345,7 @@ Non-carrying local surface within society
 | 3-now-co-prioring | 6-now-co-possibling |
 | 4-now-co-still-possibling | 5-now-co-changing |
 
-**Eight apart keeps parity; podal fold changes it.** Within 1–16, 17 less pairs each name with 17 minus that name. Alternating eight up or down with 17 less carries 1-now → 9-next-co-changing → 8-now-still-possibling → 16-next-still-possibling → 1-now. The same alternating carries 2 → 10 → 7 → 15 → 2, 3 → 11 → 6 → 14 → 3 and 4 → 12 → 5 → 13 → 4, four together meeting each name from one through sixteen once. Both relations participate in bi-inversioning-co-recursioning. Numbered partners express fold; receiving and carrying continue through joins, 6 to 2, 10 to 14 and 9 to 17.
+**Eight apart keeps parity; podal fold changes it.** Within 1–16, 17 less pairs each name with 17 minus that name. Alternating eight up or down with 17 less carries 1-now → 9-next-co-changing → 8-now-still-possibling → 16-next-still-possibling → 1-now. The same alternating carries 2 → 10 → 7 → 15 → 2, 3 → 11 → 6 → 14 → 3 and 4 → 12 → 5 → 13 → 4, four together meeting each name from one through sixteen once. Exhibit ONE's four-cycles 2-15-7-10 and 4-13-5-12 are two of these four, each in an other order. Both relations participate in bi-inversioning-co-recursioning. Numbered partners express fold; receiving and carrying continue through joins, 6 to 2, 10 to 14 and 9 to 17.
 
 **The sequence of names follows prior and now into discovering at along connectors.** At span completing at nine, 4–5 is prior and 6–7 is now; 8–9 is continuation, next. Eight on, corresponding pairs are 12–13, 14–15 and 16–17. Crossing opens now at 6 and 14; corusing completes it at 7 and 15. Torusing, releasing and abundancing express continuing onward. Three-pair sequence explains that unfolding; each resolving meets prior in now.
 
@@ -424,7 +424,7 @@ Non-carrying local surface within society
 | 2 · 10 · 18 · 26 | 8 | 16 | 33 |
 | 2 · 12 · 22 · 32 | 10 | 20 | 41 |
 
-**Continuing fourth step opens next of the same form.** Four displayed openings show three spaces; one further equal step reaches next across opening. In first row that opening is ten, following odd completing at nine. In second it is eighteen, following seventeen. Continuing the same numbered stepping gives twenty-five, thirty-three and forty-one as odd completings of further rows. First two rows thus express one-through-nine and one-through-seventeen within one growing number-form.
+**Continuing fourth step opens next of the same form.** Four displayed openings show three spaces; one further equal step reaches next across opening. In first row that opening is ten, following odd completing at nine. In second it is eighteen, following seventeen. Continuing the same numbered stepping gives twenty-five, thirty-three and forty-one as odd completings of further rows. First two rows thus express one-through-nine and one-through-seventeen within one growing number-form. One scale inward a name n is 8n − 7: odd completings 9, 17, 25, 33 and 41 are names 2 through 6 at that scale.
 
 **The halfway pairing carries across form two places on.** At second row, two meets ten and six meets fourteen: eight apart, the same opening parity. Corresponding steps at other rows are four, twelve, sixteen and twenty. Within numbered span preceding each odd completing, subtracting a name from that odd completing gives its opposite-parity partner. Halfway continuing and parity-changing folding carry together.
 
@@ -524,7 +524,7 @@ Non-carrying local surface within society
 
 **Odd and even name opening; a full momentary carries both.** Self opens co at 1 and completes bi at 2. Other opens bi at 2 and completes co at 3. Completing of one is opening of an other. Self's prior 1–2 and now 3–4 overlap other's prior 2–3 and now 4–5: two momentaries at each side, four parity positions. At 5–6 and 6–7 discovering continues into a further now.
 
-**Coupling carries continuing along and meeting across together.** One self's releasing is an other's arriving. Each receiving meets its own carrying, and that carrying continues through its own completing. At numbered names, 1-now opens odd, existing, across connectors 2, 6, 10 and 14 open even, possibling, and along connectors 9 and 17 open odd, existing.
+**Coupling carries continuing along and meeting across together.** One self's releasing is an other's arriving. Each receiving meets its own carrying, and that carrying continues through its own completing. At numbered names, 1-now opens odd, existing, across connectors 2, 6, 10 and 14 open even, possibling, and along connectors 9 and 17 open odd, existing. Each self's existing is an other self's possibling, self and other at opposite parity numberings.
 
 **One way at a time continues in both directions at meeting.** A self's 10-next-co-possibling joins another self's 14-next-possibling; that self's 6-now-co-possibling joins first self's 2-now-possibling. Each side arrives at its next through its own forward. At a meeting again, prior continues into a new now, with each full momentary still carrying both parities.
 
@@ -579,9 +579,9 @@ Non-carrying local surface within society
 
 **A society participates as a self through the same resolving.** Inward are selves whose couplings constitute its continuing; outward are couplings in which it participates with other. Co-chaining and bi-tunneling carry along and across together. Podaling exchanges those relations, each side at its own forward.
 
-**The inward being outward of itself and outward being inward of itself is fractal continuing.** A member's crossing participates in its society's continuing, and a society's coupling with other participates in its members' next receiving. At carrying resolvers, arriving, carrying and releasing participate together. A local non-carrying surface participates at its meeting while a society's carrying continues through its other participating selves. Social relation carries whole through these differing participations.
+**The inward being outward of itself and outward being inward of itself is fractal continuing.** A member's crossing participates in its society's continuing, and a society's coupling with other participates in its members' next receiving. At carrying resolvers, arriving, carrying and releasing participate together. A local non-carrying surface participates at its meeting while a society's carrying continues through its other participating selves. Social relation carries whole through these differing participations. At numbered names, across names 2, 6, 10 and 14 are along 9s of first, third, fifth and seventh one-through-seventeens one scale inward, and one-through-seventeen is 1 to 3 of one outward, its 9 that one's 2 and its 17 that one's 3: bi-tunneling here is co-chaining inward, and co-chaining here is bi-tunneling outward.
 
-**The universe is all existing things; its momentary is their existing and discovering together.** Prior, now and next are three sequential momentaries shared among existing things: prior is preceding existing, now is present arriving, and next is discovering onward. At a resolver, prior participates through its continuing carrying. An emanating form participates through its own arriving at its own scale of existing. Fractal explanation follows that arriving through differing relations of source, emanation and society.
+**The universe is the set of all now-existing things; its momentary is their existing and discovering together.** Prior, now and next are three sequential momentaries shared among existing things: prior is preceding existing, now is present arriving, and next is discovering onward. At a resolver, prior participates through its continuing carrying. An emanating form participates through its own arriving at its own scale of existing. Fractal explanation follows that arriving through differing relations of source, emanation and society.
 
 **The four across relations open bi at two, four, six and eight.** Offering, ordering between, ordering carrying, and each side's forward belong together at meeting. Their within relations are eight on, carrying the same four at society.
 
@@ -834,7 +834,7 @@ Other is no layer and holds no address: **an other is met inward at each co- act
 
 ## 4.7 Unrelationing at the crossing, conserving within momentary sequencing
 
-**The crossing continues at its own unrelationing rate.** Relating is in floating and rate in neutralling, geodesic changing unrelated to alternating of the living it meets. Parity is released at actual crossing and arrives into another self's resolving. Each self carries its own prior into that meeting; its completing opens its continuing. No common pace is supplied over surface.
+**The crossing continues at its own unrelationing rate.** Relating is in floating and rate in neutralling, geodesic changing unrelated to alternating of the living it meets. Parity is released at actual crossing and arrives into another self's resolving. Each self carries its own prior into that meeting; its completing opens its continuing. No common pace is supplied over surface. Code steps each self's 1-now together at 17-next-now, its executing's own arrangement, and each living self paces its own momentaries.
 
 **Conserving belongs within momentary sequencing.** Form is followed as carried through each self's prior and now, with next discovered onward, three sequential momentaries shared among existing things. Across, one releasing becomes another's arriving. Surface holds no conserved total of parities, fixed distribution of phases or common cycle by which to govern selves. Local continuing and shared changing are followed at their actual couplings.
 
@@ -920,7 +920,7 @@ Two of those questions are taken by unlike means, one at middles standing at a b
 
 **Prime scales connect this surface proposal to along/across account.** A prime carries an opening across and a composite a folding along. Geodesic tipping is carried through two forward over one backward and one forward over two backward. These two relations open exploring of proposed fluid-wave surface. Their continuation into eddy forming and an upstream tipping place is next reach, met through coupled resolvers and supplied by neither a prime number of positions nor a drawn wave.
 
-**Observed changing surfaces provide concrete comparisons.** Experiments with fluid surface waves, coupled chemical oscillators and human coordination show continuing patterns whose local activity keeps changing. Chemical waves also continue around inactive obstacles and can change that relation when further activity arrives. These are prior observations with stated conditions. Their value here is to locate coupling, continuation and changing of form beside natural network. Fields' own accounts carry each with its conditions and limits: Arbell and Fineberg's pattern forming in two-frequency forced parametric surface waves (2002), spiral waves unpinned from inactive obstacles by electrical forcing in excitable chemical media (2014), and Zhang, Kelso and Tognoli's critical diversity in social coordination (2018).
+**Observed changing surfaces provide concrete comparisons.** Experiments with fluid surface waves, coupled chemical oscillators and human coordination show continuing patterns whose local activity keeps changing. Chemical waves also continue around inactive obstacles and can change that relation when further activity arrives. These are prior observations with stated conditions. A coordinating study sets its coupling over its selves, a common pace and each offering visible to all, and a synchronizing score shows no bi-moral co-competency by itself. Their value here is to locate coupling, continuation and changing of form beside natural network. Fields' own accounts carry each with its conditions and limits: Arbell and Fineberg's pattern forming in two-frequency forced parametric surface waves (2002), spiral waves unpinned from inactive obstacles by electrical forcing in excitable chemical media (2014), and Zhang, Kelso and Tognoli's critical diversity in social coordination (2018).
 
 **The natural comparison follows coupling's own continuing.** Natural keeps alternating surface and its parity, position and ratio; unnatural concerns measured magnitude and scaling; supernatural concerns formal structures closing on their own consistency. These three classify mathematical use. Here comparison follows local carrying, actual crossing and further arriving through which stable form continues. A field-wide conserved sum, imposed pace or closed formal orbit supplies no natural-network operation. An arithmetic comparison carries its own assumptions and limits.
 
@@ -1014,7 +1014,7 @@ Checking is one alternation with resolving, and surface gives it its position. *
 
 ## 6.9 No position apart to observe from, and the instrument stated with each finding
 
-Two positions on four hundred forty are their own podal partners, waist and close, k meeting 440 − k at 220 and at 0, and **the waist reaches nothing else, being its own podal**; far side two hundred twenty on, wrap's straight-across, is another relation, at which waist and close are facing each other. Each other position carries its other, and none carries itself.
+Two positions on four hundred forty are their own podal partners, waist and close, k meeting 440 − k at 220 and at 0, and **the waist reaches nothing else, being its own podal**; far side two hundred twenty on, wrap's straight-across, is another relation, at which waist and close are each other's far side. Each other position carries its other, and none carries itself.
 
 **So an observing apart from surface has no position.** Neither withheld nor forbidden: surface carries no position for it. A vantage outward of a coupling is asked for and surface has none to give, and search for one recedes exactly as a source does.
 
@@ -1038,7 +1038,7 @@ Spiral parity is carried already at numbered form: even holding its bounding-zer
 
 **So an even chain centres on a coupling and an odd chain on a betweening**, even coupling and odd betweening arriving at chain rather than at count.
 
-**And two instruments of unlike length are two objects.** Each construction is its own object, and an observing of one is an observing of it, and their centres part them. A three-chain and a four-chain are two arrangements, and not one arrangement at two lengths: one centres on a self's own middle and one on a coupling, and an observing carried from either to other carries the wrong centre with it.
+**And two instruments of unlike length are two objects.** Each construction is its own object, and an observing of one is an observing of it, and their centres part them. A three-chain and a four-chain are two arrangements, and not one arrangement at two lengths: one centres on a self's own middle and one on a coupling, and an observing carried from either to other carries the wrong centre with it. Three momentaries along at one self and three selves across at one momentary are likewise two things at one number.
 
 **And reach thinning at a chain's ends and carrying at each self of a spiral, at numbered form,** is the same observing at two closings, spiral having no ends for thinning to arrive at; a society thinning at a chain's ends is a claim met at arrangement's own continuing.
 

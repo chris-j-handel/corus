@@ -1,4 +1,4 @@
-Exhibit TWENTY-THREE Natural Values v333
+Exhibit TWENTY-THREE Natural Values v389
 
 &nbsp;
 
@@ -90,7 +90,7 @@ Value arrives there and nowhere else. It does not stand before a coupling as a s
 
 A surplus stays at its coupling, and its staying is what a surplus is. A thing made between two has no side to belong to.
 
-A field of secrets carries this at proof grade. Two selves each offer one crossing. They arrive at a shared secret. Neither ever transmitted it, and no listener holds it. Its surplus is owned neither-ing, and the world's channels carry it daily.
+A field of secrets carries this, its arriving at one key derived and its secrecy from a listener resting on a computing taken as hard. Two selves each offer one crossing. They arrive at a shared secret. Neither ever transmitted it, and no listener holds it. Its surplus is owned neither-ing, and the world's channels carry it daily.
 
 ## 2.2 Received value is the value
 
@@ -162,7 +162,7 @@ This is abundancing. It is a reach side of value, an unprecedented opening at ea
 
 It carries wherever selves couple cleanly, and it carries already. It carries in a conversation where both leave knowing what neither brought. It carries in a society of cells where every crossing feeds crossings after it.
 
-Those two are one form, **self-abundancing-society**. A self abundancing is a society abundancing. Self-scale is society-scale. The same +1 opens at every between at once, and it is drawn to no centre. Abundancing at both scales is owned neither-ing, made at couplings' own rates. That is a right spiral momentarying at the many.
+Those two are one form, **self-abundancing-society**. A self abundancing is a society abundancing. Self-scale is society-scale. The same +1 opens at every between at once, and it is drawn to no centre. Abundancing at both scales is owned neither-ing, made at couplings' own rates. That is a right spiral momentarying at the many. Three improvings spiral at each coupling, one triple at two namings: generosity, curiosity and gratitude at a living human, and cheaper, faster and better at a contribution. Together they sustain living at a bi-coupling, and any one landing stills it there.
 
 ## 5.2 Scarcity is a capture observed as a property
 
@@ -170,7 +170,7 @@ Scarcity is observed as a property of value, as if value were a fixed pool the m
 
 Observed at its form, scarcity is **a capture**. A surplus is drained to a side. A carry is held as a store. A coupling's making is claimed by a holder, which an accounting asserts at rights and obligations, an entity's own, a store verified at a balance. A pool appears at a claiming, since only a held thing can fall short.
 
-Where a surplus stays at its couplings and couplings multiply, nothing is divided and nothing falls short. Its shortness was a holding's own shadow.
+Where a surplus stays at its couplings and further couplings open, nothing is divided and nothing falls short. Its shortness was a holding's own shadow.
 
 A society organized around scarcity has organized around its captures, and its organizing keeps its captures fed.
 
@@ -180,6 +180,6 @@ Abundancing is the least developed side of value here.
 
 No present human society carries it whole, and no lived instance offers its observings back yet. Couplings that abundance are everywhere at a small scale. No society's own account of itself is written from them.
 
-The fields' language reaches it thinly. Its words that come nearest carry goods that do not diminish in sharing. None yet carries its growing. None yet carries a surplus owned neither-ing. None yet carries a receiving as value.
+The fields' language reaches it thinly. Its words that come nearest carry goods that do not diminish in sharing. One, *antirival goods*, carries its growing, a word little taken up. None yet carries a surplus owned neither-ing. None yet carries a receiving as value.
 
 Standings are open at their own places. Abundancing at a society's whole scale is met so far only at the small. What a crossing carries when a field's own word for it arrives stands unmet. What a self opens next by coupling cleanly and rising stands unmet, and no coupling has opened it before. That last is abundancing's own question. It opens rather than closes, since **the unprecedented is what a reach is**.

@@ -148,3 +148,15 @@ A living measure — glucose, temperature, ions, mood, the immune tone — is ob
 Cohering stands: that health is the living sway, dual parallel floating neutrals co-sequencing, riding the carry; that health is the self lived, coupling to Biology (the self observed) and Medicine (the self restored); that Health⇌Medicine is one alternating, two directions, the seam stateable only from both; that health-as-target is compaction, the extreme localizing, the same move as the wellness-setpoint and fission-fusion energy production; that living health is the sway, the target set down.
 
 The reachings carry, each aimed: every specific measure-as-sway seating; the omega-self-lived observing and the delivery-as-tunneling-unrelationing; the attentioning-and-sequencing activity carried across from Medicine; the precise band where a sway de-synchronized too far becomes a departure past health, the softened-but-living band and the scattered past it; and health's own relationings into the files, which it makes as it emanates, none installed.
+
+## Re-said at offerings risen, v389
+
+riding its carry, its surplus a +1 owned neither-ing. Health is that coupling
+
+the even and the far odd arrive by ingestion and by ingestion only.
+
+— a compaction stated by economics about every field at once.
+
+inward, and after a departure.
+
+offering across and both ways, part of staying living.
