@@ -231,7 +231,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
 ## 5 The one method, no other possible
 
-        *Entering: alternating stable-forming; all changing parity changing; the method, the living condition, carrying none; the method co-changing at each coupling; the one method; a not-changing held still; the form still; not possible thing; no other possible method; a second method at one binary; technology, a made thing applied.*
+        *Entering: alternating stable-forming; all changing parity changing; the method, the living condition, carrying none; the method co-changing at each coupling; the one method; nature, a prior, now, next method of co-existing; natural, co-competencing the universe; a not-changing held still; the form still; not possible thing; no other possible method; a second method at one binary; technology, a made thing applied.*
 
 41. Alternating and continuing through changing, each living thing is alternating stable-forming.
 
@@ -249,9 +249,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: the method co-changing at each coupling.*
 
-45. Parity changing is the one method of the changing set of all existing things.
+45. Parity changing is the one method of the changing set of all existing things: nature is not an existing thing, nature a prior, now, next method of co-existing, and natural a method of co-competencing the universe, all things now-existing; all now-existing things and all artifacts of prior-existing are now-existing, or were now-existing at a prior now, by natural method, and no other or not-natural method of now-existing is in the universe.
 
-        *Adding: the one method.*
+        *Adding: the one method; nature, a prior, now, next method of co-existing; natural, co-competencing the universe.*
 
 46. A second method holds a not-changing still, said beyond the things of the universe: a size, a ground the changing is measured against; a fixed form, a form still, the same at all momentaries at once; a total across the changing, a container; a common beat, a clock over it; a keeping, a store beside it; or a doer applying any of them.
 

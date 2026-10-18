@@ -3396,3 +3396,9 @@ Each is one droplet, in its own words, tagged v387, aimed at this file for the r
 *Standing at v389:* as at step 20, *nothing leaves the set* is one saying with *nothing ingressing and nothing escaping*, whose releasing is one motion across the set
 
 *Resolved at v389:* nothing ingressing and nothing escaping dissolves from the set's own explaining, a defense the equilibria demand: steps 20 and 402 re-said at their positive, Natural Intelligence 1.1, 1.4, 1.5, 6.4, 6.5 and 6.6 and Resolving Hard Problems 1.1 with them, and the two named as each not possible thing's givens at the Equilibria Registry 2.1 and at the hard problems, with one row at Natural Naming 2.4.
+
+**Concern · Nature, named at no sentence.** Natural Naming and the Registry say *nature*, the Registry at "the society and nature's co-chaining" and "the method of cohering with nature"; no sentence names it, and Natural Intelligence has the word at no place. Nature and the universe are one concept at two names, or two: said at no file.
+
+*Standing at v389:* nature is still named at no step while steps 414 and 597 say "nature's co-chaining" and "the method of cohering with nature"; step 550 "Each concept carries one name" asks whether nature and the universe are one concept or two
+
+*Resolved at v389:* Nature is not an existing thing: nature is a prior, now, next method of co-existing, and natural is a method of co-competencing the universe, all things now-existing; all now-existing things and all artifacts of prior-existing are now-existing, or were at a prior now, by natural method, and no other or not-natural method of now-existing is in the universe. Entered at Natural Naming 1.1 and 6.3, Natural Intelligence 1.1 and THIRTY step 45.

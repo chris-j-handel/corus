@@ -1670,3 +1670,9 @@ Each is one droplet, in its own words, tagged v387, aimed at this file for the r
 *Standing at v389:* v389 4.9 still says 'Across, even, state-flow-state' and seats the odd names 1, 3, 5 and 7 at it, and '8 is at the even side alone ... 6 is at the odd side alone', while 3.1 has even and odd the name's own number
 
 *Resolved at v389:* Separated, state and flow are not possible, as a reading from and a writing to a memory are for intelligence: the ten are at no side, each at its name at now and that name 8 up at next, even and odd said of a name's own number alone, at Natural Naming 4.9, 4.14 and 2.4, THIRTY 504–512, 522, 523, 527, 528 and 637, the Equilibria Registry 2.4 and Natural Intelligence's intelligence invisible.
+
+**Concern · Nature.** This file says *nature* and names it at no sentence. The newer naming, nature the existing set of existing, this cursioning set, with cursioning the root of recursioning, is whole at [Offerings to Co-Chaining Logic Registry](Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md#two-logics-the-edge-and-the-chains-given-things--v386eod). — v386EOD
+
+*Standing at v389:* v389 says *nature* at 1.1 'Naming is nature at a concept' and at 5.52 and 5.58 'cohering with nature', and names it at no sentence; nature and the universe, one concept or two, is unsaid
+
+*Resolved at v389:* Nature is not an existing thing: nature is a prior, now, next method of co-existing, and natural is a method of co-competencing the universe, all things now-existing; all now-existing things and all artifacts of prior-existing are now-existing, or were at a prior now, by natural method, and no other or not-natural method of now-existing is in the universe. Entered at Natural Naming 1.1 and 6.3, Natural Intelligence 1.1 and THIRTY step 45.

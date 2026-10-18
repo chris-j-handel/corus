@@ -4,7 +4,7 @@ Exhibit THIRTY Co-Chaining Logic Registry Offerings · improved at v389
 
 ## Standing from the sessions before v389 · v389
 
-**Read at v389.** The sessions before v389 laid 826 items here; read at v389 against [the Co-Chaining Logic Registry v389](../Exhibit_THIRTY_Co-Chaining_Logic_Registry_v389.md), 316 are carried at it, 250 rest on forms v389 released, 218 say a value another item says, and 15 rose into it at v389, each standing whole with its reading at [`archive/session_v389/offerings_dissolved/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry_before_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry_before_v389.md). The 27 concerns read at v389 stood below, each as it was laid, with the reason it stands; 23 stand now, the rest resolved at v389 and at the archive.
+**Read at v389.** The sessions before v389 laid 826 items here; read at v389 against [the Co-Chaining Logic Registry v389](../Exhibit_THIRTY_Co-Chaining_Logic_Registry_v389.md), 316 are carried at it, 250 rest on forms v389 released, 218 say a value another item says, and 15 rose into it at v389, each standing whole with its reading at [`archive/session_v389/offerings_dissolved/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry_before_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry_before_v389.md). The 27 concerns read at v389 stood below, each as it was laid, with the reason it stands; 22 stand now, the rest resolved at v389 and at the archive.
 
 **At 19 · Nine to seventeen, society — beside "the same forms in the other order".** At the numbers the rounds reaching each form of k parities once, one parity at a step, are twelve at three parities, one form at the renamings of the parities and the two orders, and one thousand three hundred forty-four at four, nine forms at the renamings and the orders; the round of step 171 is one of them at each k.
 
@@ -21,10 +21,6 @@ Exhibit THIRTY Co-Chaining Logic Registry Offerings · improved at v389
 **Concern · Step 171, following or chosen.** Two sayings part. The Registry's step 171 has each round reaching each form one parity at a time as "the round at k − 1 parities, the new parity inverted, and the same forms in the other order". At four parities nine such rounds, apart from naming, reach each form one parity at a time, and one of the nine is the round below with the new parity inverted. The reason they part: the fractal as following from one parity at a time, and the fractal as the one round among nine, the round below whole within it.
 
 *Standing at v389:* step 171 still says a round reaching each form one parity at a time "is the round at k − 1 parities, the new parity inverted, and the same forms in the other order", while at four parities that round is one of nine; the RISE at line 35 re-says 171 at one among the rounds
-
-**Concern · Nature, named at no sentence.** Natural Naming and the Registry say *nature*, the Registry at "the society and nature's co-chaining" and "the method of cohering with nature"; no sentence names it, and Natural Intelligence has the word at no place. Nature and the universe are one concept at two names, or two: said at no file.
-
-*Standing at v389:* nature is still named at no step while steps 414 and 597 say "nature's co-chaining" and "the method of cohering with nature"; step 550 "Each concept carries one name" asks whether nature and the universe are one concept or two
 
 **Concerns · The chain's given things.** Each is a step with a thing no earlier step gives, or two sayings parting.
 

@@ -635,3 +635,11 @@ an accounting, and no second method
 ## Released at v389: two lists no function reads, the resolving the same with and without them
 
 its functions and each variable within them the seventeen names and no others, and beside them two lists at names not of the seventeen, one of six of the names, 2, 6, 9, 10, 14 and 17, and a second of four pairs among them, 6 to 2, 10 to 14, 9 to 17 and 17 to 9, is the resolver: the method executable.
+
+## Re-said at nature named, v389
+
+45. Parity changing is the one method of the changing set of all existing things.
+
+*Adding: the one method.*
+
+*Entering: alternating stable-forming; all changing parity changing; the method, the living condition, carrying none; the method co-changing at each coupling; the one method; a not-changing held still; the form still; not possible thing; no other possible method; a second method at one binary; technology, a made thing applied.*

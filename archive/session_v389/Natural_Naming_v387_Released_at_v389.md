@@ -475,3 +475,9 @@ Read as carrying across momentaries, it accounts
 ## Re-said at a possibling and discovering method and a scientific-explaining-method, v389
 
 **Scientific-method, surgical-method and explaining-method each carry whole in one expression at each occurrence**:
+
+## Re-said at nature named, v389
+
+*Now-existing* is one naming, 4.17.
+
+| **the universe**, the set of all now-existing things,
