@@ -137,3 +137,7 @@ The ten ways sit at 2 to 6 and 10 to 14, 3.2: the four across connectors, 2, 6, 
 arriving at 2 and 14 and sharing at 6 and 10, Exhibit ONE's `CONNECTORS`, its empty centre
 
 *Exhibit ONE is an object that is the method … `CONNECTORS` and `JOINS` declare the six names' facings and their sharings across and releasings along*
+
+## Re-said at observing of nature, order discovered, v389
+
+**Each proposed conception of equilibria is a hard problem with its hardness ignored.**

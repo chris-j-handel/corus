@@ -531,3 +531,7 @@ and 69, the next first podaling outward**;
 **The fractal method's scales are sequencing, an ordering.**
 
 | *inside*, *outside*, *within* said of the set or the universe |
+
+## Re-said at observing of nature, order discovered, v389
+
+| *inside*, *outside*, *within* said of the set or the universe |

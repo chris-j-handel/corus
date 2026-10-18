@@ -501,3 +501,7 @@ and each self and each society is a universe, 1.1;
 ## Re-said at prime living scales, no reading or ordering in nature, v389
 
 **Fractal is all or none at all at the scales, and its scales are sequencing, an ordering**, with no boundary, no location and no measure.
+
+## Re-said at observing of nature, order discovered, v389
+
+**A reading from and a writing to a memory are not possible for intelligence**, a state and a flow separated, and the carrying is a capacity and never a stored description.

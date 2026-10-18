@@ -123,6 +123,8 @@ Adjacent views share four positions: at each number one side opens and the other
 
 **Equilibria are not possibly existing as a method, all or none at all.** **Each not possible thing has one of two named as its given, an ingressing or an escaping**: a thing said as entering the set of all now-existing things from beyond its things, or a changing said as leaving it; the two are named where hard problems and equilibria add them, a defense the equilibria demand, and at the set's own explaining neither is said, the set its things.
 
+**A hidden order in nature is equilibria understanding.** Intelligence is hidden and order is discovered, not already in nature, discovered by living selves and societies; there is no reading in nature, and there is observing of nature, nature not reading and writing the observings.
+
 **Each proposed conception of equilibria is a hard problem with its hardness ignored.** It takes the competency of existing as a given, and claims a true-and-false conserving accounting.
 
 **An equilibrium is a form named still, not possibly existing; stable-forming, and unstable deforming at non-living scale, are observably existing.** Each proposed conception of equilibria names one of them still.

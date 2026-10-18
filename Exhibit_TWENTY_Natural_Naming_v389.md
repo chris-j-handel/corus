@@ -263,6 +263,7 @@ Exhibit TWENTY Natural Naming v389
 | *our*, of the universe, of now or of a doing; *this universe* | *the universe*, *the* valuable exactly there, one universe; *now*, one |
 | *a universe* said of a self, a society, or a momentary at a scale | *prior-universe*, *now-universe*, *next-universe*, a universe at each momentary, the now-universe the universe; each self is a society of selves one scale inward, and each society a self at the next scale outward, Natural Societies 4.2 and 5.3 |
 | *reading*, *ordering* said of a scale or of nature | prime living scales, primes 5 through 53 are prime living scales, co-parity-changing co-momentarying pattern matching; no reading or ordering in nature |
+| *reading*, *read as*, said of nature, the method, a name or a self observing | *observing* of nature, nature not reading and writing the observings; order discovered by living selves and societies, not already in nature; *a hidden order in nature*, equilibria understanding |
 | *inside*, *outside*, *within* said of the set or the universe | the universe is or is not, its things, and nothing is said of a not-in-set, 1.1 |
 | *door* | a self-bounding, the self's own, nothing passing it or refused at it |
 | *assigned* | *is one side's* |
