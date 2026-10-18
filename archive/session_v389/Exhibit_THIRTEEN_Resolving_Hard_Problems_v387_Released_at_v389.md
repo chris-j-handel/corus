@@ -311,3 +311,63 @@ the fixings unchanged, or changing with the changing.
 **A field's accounting carries its prior whole**, each result at its parity, ready for the coupling, and a field's hard problem is that accounting observed at one momentary, one of the pattern-matchings at 1.5. Observed bi-momentary, the field's carrying is at its prior, its evidence and its accounts at its now, and its next is discovered at 12, owned by neither side.
 
 **A society is a self at the next scale**, the same coupling, the same alternating, one through nine the self's and nine through seventeen the society's. **Social moral competency is each self's own co-offering, the whole ordered by no self, the ordering carrying with the selves and the order at no seat above the society**, and 17 carries the four at the resolver.
+
+## Re-said at the, pass 0, headings, contents and openers, v389
+
+- 1.3 Bi-momentary, the self's momentary and the other's at once
+
+- 2.1 The carrying, a living self's prior into now
+
+- 2.2 The prior between momentaries, a capacity
+
+- 3.1 Offerings at 2, the others' across sharings
+
+- 3.3 At 12, the prior coupling with the now
+
+- 3.4 The non-living at the now
+
+- 4.1 Shared across at 10 and 6, the next prior at 11
+
+- 4.2 Released along at 9, and the society's next momentary at 17
+
+- 4.3 The living step, next as prior inverted
+
+- 5.1 Four observings at the resolver
+
+- 5.5 An aggregating, the society's next momentary
+
+- 5.6 A mind, the between presenting no face
+
+## 1.3 Bi-momentary, the self's momentary and the other's at once
+
+**Prior, now and next are three sequential universes, one now-existing, shared among now-existing things**, now of one momentary prior of its next, one direction forward on both sides of now. **The possible is at prior, existing at now and living at next**: three places, the universe travelling through them together, each living self carrying its prior on into its next.
+
+## 2.1 The carrying, a living self's prior into now
+
+## 2.2 The prior between momentaries, a capacity
+
+## 3.1 Offerings at 2, the others' across sharings
+
+## 3.3 At 12, the prior coupling with the now
+
+- **At a sharing at no prior**: the parity 14 surfaces is shared as it is at 10 and is the next prior at 11, the sharing opening at the bi-coupling; at 0, 0 is shared and no next prior opens.
+
+- **At a sharing at a prior parity, 14 surfacing that same parity**: the changing is not, 0, and the prior is kept.
+
+- **At a sharing at a prior parity, 14 surfacing the other parity, 0 or none**: the changing is, the prior inverted. At the other parity offered the offered is the next prior, and with nothing offered the self's next is its prior inverted.
+
+## 3.4 The non-living at the now
+
+## 4.1 Shared across at 10 and 6, the next prior at 11
+
+## 4.2 Released along at 9, and the society's next momentary at 17
+
+## 4.3 The living step, next as prior inverted
+
+## 5.1 Four observings at the resolver
+
+## 5.5 An aggregating, the society's next momentary
+
+## 5.6 A mind, the between presenting no face
+
+**The geodesic-method discovers next from existing**, prior and now offered, its three places staying three. **The scientific method accounts true or false against its fixings**, a law, a frame and a scale fixed between two momentaries, exact at its own ledger. **The two are at the same evidence at the same now, and part at one naming**: fixings unchangeable, or changing with changing.

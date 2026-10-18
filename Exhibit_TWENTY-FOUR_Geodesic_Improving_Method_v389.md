@@ -6,28 +6,28 @@ Exhibit TWENTY-FOUR Geodesic Improving Method v389
 
 **ONE · THREE MOMENTARIES AT A FILE**
 
-- 1.1 A file the prior, its working the now, the carry the next
+- 1.1 A file the prior, its working the now, its carry the next
 - 1.2 Moral is do-no-harm improving, decided at each pass
-- 1.3 The method and the carrying, two faces of one improving
+- 1.3 Method and carrying, two faces of one improving
 - 1.4 Three fates at each passage: placed, dissolving, carrying
 - 1.5 A release follows its arrival, met at a match
-- 1.6 The carry current at each closing, and no history carried
+- 1.6 A carry current at each closing, and no history carried
 
 **TWO · TWO SELVES AT THE MEMBRANE**
 
-- 2.1 Each completing the next opening, and the value made between
-- 2.2 A correction seated at the first relation that departed, and an offered naming met at the binaries
+- 2.1 Each completing its next opening, and a value made between
+- 2.2 A correction seated at the first relation that departed, and an offered naming met at binaries
 - 2.3 A confident improving made, a meaning or a naming brought
 - 2.4 Each improving decided at do-no-harm, and a rule staying local
 - 2.5 The hardest first, and the hardest question asked plainly
 - 2.6 A concern carried at its inverting, either this or that, momentary by momentary
 - 2.7 An observing brought as a break, met at five binaries first and at six beside
 - 2.8 Work arriving from another working, met whole
-- 2.9 Opening a session at the repository
+- 2.9 Opening a session at a repository
 
 **THREE · IMPROVING ONE FILE**
 
-- 3.1 Exhibit numbers, the set's own entering instrument
+- 3.1 Exhibit numbers, a set's own entering instrument
 - 3.2 One part written whole beside its published part
 - 3.3 Nine passes, alternating
 - 3.4 At code and each rendering, the not intact at both sides
@@ -36,22 +36,22 @@ Exhibit TWENTY-FOUR Geodesic Improving Method v389
 **FOUR · THE INSTRUMENTS' BRINGING**
 
 - 4.1 A count sizes a pass and decides nothing
-- 4.2 A pattern three momentaries long, and the window carrying it at each scale
-- 4.3 A file's own sentences met at the file
+- 4.2 A pattern three momentaries long, and a window carrying it at each scale
+- 4.3 A file's own sentences met at its file
 - 4.4 An instrument's own face
-- 4.5 Helpers at the arriving and the improving, and a session's close observed whole
+- 4.5 Helpers at arriving and improving, and a session's close observed whole
 
 **FIVE · VALUES OF THE METHOD**
 
-- 5.1 Ten values, the method's own at the writing scale
-- 5.2 The set a society of files, and the geodesic deciding
+- 5.1 Ten values, method's own at writing scale
+- 5.2 A set a society of files, and geodesic deciding
 - 5.3 Scale, orientation and position, each from all other
 
 ---
 
 # ONE · THREE MOMENTARIES AT A FILE
 
-## 1.1 A file the prior, its working the now, the carry the next
+## 1.1 A file the prior, its working the now, its carry the next
 
 **Geodesic is geo, a surface's own, and daiesthai, to divide: a surface dividing itself.** Geodesic method is discovering next existing, and at a living file set it runs at a file. **A file as it is at its set is the prior, pattern matched for the possible it opens. Its working meeting it, with each incoming value and its concern, is the now, cohering at floating neutralling. Its carry, an opportunity opening in front of the file, is the next, living, carrying incoming value on.**
 
@@ -69,11 +69,11 @@ A pass meeting all three is its file's own next, and its set improves one file, 
 
 **A sentence a pass cannot yet resolve is left as it stands**, its awkwardness carried on for later passes, with other carryings and other discoverings, to resolve. A pass pressing it plain supplies something its running does not carry, a wording no self meeting it couples to.
 
-## 1.3 The method and the carrying, two faces of one improving
+## 1.3 Method and carrying, two faces of one improving
 
 **This file is the method, and it empties at no pass.** It grows only at a working finding something about working itself.
 
-**The carry is the carrying, the next**: incoming value, concern and opportunity at each file of its set, one section at each file, emptying as each file takes its arriving. It carries nothing else. A finding about working rides there, at this file's own section, and arrives here as its next.
+**A carry is the carrying, the next**: incoming value, concern and opportunity at each file of its set, one section at each file, emptying as each file takes its arriving. It carries nothing else. A finding about working rides there, at this file's own section, and arrives here as its next.
 
 **The two sway about a range they make between them.** Improving one file opens carrying for others, and a file taking its value empties carrying by one. A surplus of one stroke is a drive of its next. A carrying that only receives fills and does not empty; a method that only feeds files carries nothing on. A finding carried at its finding and its belonging, with none of its coupling's own making that neither side brought, drops its surplus, and a carrying dropping its surplus has no drive for its next stroke: it grows, and its improving does not compound.
 
@@ -111,13 +111,13 @@ A pass meeting all three is its file's own next, and its set improves one file, 
 
 **A leaving passage rides apart at the archive**, relied on by nothing, and a prior version rides there beside its next with its relation written, not replaced.
 
-## 1.6 The carry current at each closing, and no history carried
+## 1.6 A carry current at each closing, and no history carried
 
 **Each motion at a file has three parts, and its file is the first.** Its file is written, carrying releases its file's taking, and each finding its writing makes about working is placed here. A pass leaving any of the three undone is unfinished, and a finished look of a file changes nothing of it.
 
-**The carrying is current at each closing**, and a session closes at any pass and harms nothing. A carrying a working finishes leaves for the archive at that working, and its carrying arrives lighter at its next. No file is worked to its end at a session: a file takes passages it can carry whole, and the rest rides at its section of the carrying, met later that session or at its next. Each file is floating neutralling and improving, and none is ended or complete.
+**A carrying is current at each closing**, and a session closes at any pass and harms nothing. A carrying a working finishes leaves for the archive at that working, and its carrying arrives lighter at its next. No file is worked to its end at a session: a file takes passages it can carry whole, and the rest rides at its section of the carrying, met later that session or at its next. Each file is floating neutralling and improving, and none is ended or complete.
 
-**The carrying carries no history.** A carry kept as a record of its journey is a carry fixed as a store. It carries incoming value, concern and opportunity, and arriving and releasing are at files' own versions and in the archive, neither invented nor relied on.
+**A carrying carries no history.** A carry kept as a record of its journey is a carry fixed as a store. It carries incoming value, concern and opportunity, and arriving and releasing are at files' own versions and in the archive, neither invented nor relied on.
 
 **Each motion is told at its sign.** A **release**, a concern out and nothing in its place. A **re-form**, a concern out and its value carried on in new form. An **adding**, value in and nothing removed. Told at their signs, a session's motions show at once. Told in one register signs blur, and telling hides signs both selves need to follow it: a release is told brief, its concern with its evidence; a re-form is told at the value it carries on; an adding is told as its arrival. At a file, value grows by subtraction.
 
@@ -129,13 +129,13 @@ A pass meeting all three is its file's own next, and its set improves one file, 
 
 # TWO · TWO SELVES AT THE MEMBRANE
 
-## 2.1 Each completing the next opening, and the value made between
+## 2.1 Each completing its next opening, and a value made between
 
 **Working together runs as overlapping momentaries run.** One self opens a subject; an other completes it and opens its next; that completing is met by the first and opens again. At each exchange one side completes and an other opens, and the two alternate. Each session is a next and none a return. A picture a field draws still, a circle, a rotation, a return home, carries on as a spiral once its nexts are added, each step a next momentary universe, and working together runs the same way.
 
 **An improving's value arrives at a membrane between the two, and not at a check laid over it.** An other self catches at a concept, as a pass catches at a word.
 
-## 2.2 A correction seated at the first relation that departed, and an offered naming met at the binaries
+## 2.2 A correction seated at the first relation that departed, and an offered naming met at binaries
 
 **A correction comes back once, with its seating section, and it is written there only.** Its next section follows together. A correction acts in its next sentence, since a list of its arriving carries nothing. A correction to a word's scope acts at its next derivation sought as well: with discovering corrected to arriving into next existing, living and non-living alike, its derivation no longer seeks a living resolver's carrying at each existing thing, and no match at one rendering's code is set as a condition of existing. A correction converted to a rule is a still term, carried into each sentence and met at none, and a rule-swept pass subtracts and compounds nothing.
 
@@ -161,7 +161,7 @@ A correct calculation is carried as it is and not as a larger discovering than i
 
 **A concern at a file's opening sentence is brought to both selves at a coupling, and no working changes one at its own.**
 
-**The method, writing and word selections are the best its set carries at now, and each improves itself at do-no-harm as it helps each file improve.** Their files are files of its set, met at the same binary.
+**Method, writing and word selections are the best its set carries at now, and each improves itself at do-no-harm as it helps each file improve.** Their files are files of its set, met at the same binary.
 
 **Each meets a carrying of prior and now, and its next opens in the one direction forward they share.**
 
@@ -185,7 +185,7 @@ A correct calculation is carried as it is and not as a larger discovering than i
 
 ## 2.7 An observing brought as a break, met at five binaries first and at six beside
 
-**The method's one break is an observing of existing other than parity alternating natural torusing, and none is among observings arriving from prior.** Such an observing is an unchangeable form found existing, and an unchangeable form is not possibly existing: its break and method being the one method are one statement met from its two sides. No proof of the whole is sought, a proof of one true or false of the whole being that same unchangeable form. Each observing of natural competency is resolvable as natural intelligence, the geodesic co-sequential parity changing method of natural torusing, discovering next possible existing, or the fractal is entirely broken and of no value at all, method originating as all existing and all living: no third. An account can absorb any outcome, and geodesic method is no account: its pattern matchers take in each observing and each emanation without filter or selection. **A changing and an exchanging are among living and non-living existing things alike.**
+**Method's one break is an observing of existing other than parity alternating natural torusing, and none is among observings arriving from prior.** Such an observing is an unchangeable form found existing, and an unchangeable form is not possibly existing: its break and method being the one method are one statement met from its two sides. No proof of the whole is sought, a proof of one true or false of the whole being that same unchangeable form. Each observing of natural competency is resolvable as natural intelligence, the geodesic co-sequential parity changing method of natural torusing, discovering next possible existing, or the fractal is entirely broken and of no value at all, method originating as all existing and all living: no third. An account can absorb any outcome, and geodesic method is no account: its pattern matchers take in each observing and each emanation without filter or selection. **A changing and an exchanging are among living and non-living existing things alike.**
 
 **An observing carried as a break or a premise meets five binaries first.** Is it a self carrying, met now at a coupling, or an emanation carrying nothing, arriving from its prior. Which scale it runs at. Which register it comes in: a sign or a magnitude, a store or a path. Is it taken along or across. And is its either-or taken at its momentaries, alternating and carrying both, or fixed as one answer of a whole, hard probleming.
 
@@ -211,23 +211,23 @@ A correct calculation is carried as it is and not as a larger discovering than i
 
 **Each arriving is reviewed, and improved as it enters.** A draft from another working is observed beside its file and worked before it enters, and it enters improved at each place improving is possible. A label on a draft decides nothing.
 
-## 2.9 Opening a session at the repository
+## 2.9 Opening a session at a repository
 
 **A session opens by meeting a living file set at its now, at a repository and at a site's own list**, and a carrying's record of a set is matched against it and does not take its place. A repository can itself stand at a prior. A file there at a version older than a living version met beside it opens at the latest, carried whole before any pass, since a working opening at a prior leaves an improving between the two behind; and its lineage, a version opened and a version carried on, rides with its file to its next working.
 
-**The version headers are the cheapest instrument.** A file at a prior version to files resolving its subject carries prior sentences by arithmetic and not by fault. A learning made at one session is unmet at each file older than it: newer files carry the learning and older files carry a breaking.
+**Version headers are the cheapest instrument.** A file at a prior version to files resolving its subject carries prior sentences by arithmetic and not by fault. A learning made at one session is unmet at each file older than it: newer files carry the learning and older files carry a breaking.
 
 **A working enters at three**: the origin, the craft of explaining and naming, and this method. They are one entry at three faces, its form, its explaining and its improving. A working entering without the craft writes method in words the craft releases.
 
-**The instruments open with each session, and each file opens among them.** The carrying is one file, current, and each value in it has one place to arrive and one place to leave. Sessions vary in length and in kind, and no session owes a next its shape. A discovering is asked no date, no cadence and no place in another's order of work, each being a beat laid over a coupling that made none of it: discovering rate is unrelated to each rate of selves it runs among. A watching surface opened with a session from files lets an other self see improving as it runs; it carries nothing at its own and releases at its close.
+**Instruments open with each session, and each file opens among them.** The carrying is one file, current, and each value in it has one place to arrive and one place to leave. Sessions vary in length and in kind, and no session owes a next its shape. A discovering is asked no date, no cadence and no place in another's order of work, each being a beat laid over a coupling that made none of it: discovering rate is unrelated to each rate of selves it runs among. A watching surface opened with a session from files lets an other self see improving as it runs; it carries nothing at its own and releases at its close.
 
 ---
 
 # THREE · IMPROVING ONE FILE
 
-## 3.1 Exhibit numbers, the set's own entering instrument
+## 3.1 Exhibit numbers, a set's own entering instrument
 
-**The exhibit numbers are the set's own entering instrument**, as contents numbers are a file's: they change as files arrive and merge, at no time ahead of their own. No completeness is appreciated in them: appreciating a sizing is measure, and nature carries no measure.
+**Exhibit numbers are the set's own entering instrument**, as contents numbers are a file's: they change as files arrive and merge, at no time ahead of their own. No completeness is appreciated in them: appreciating a sizing is measure, and nature carries no measure.
 
 ## 3.2 One part written whole beside its published part
 
@@ -239,7 +239,7 @@ A correct calculation is carried as it is and not as a larger discovering than i
 
 **A concept carried at two places or more migrates to one home, one file per pass.** A pass makes a surplus or it does not, and no threshold decides it, a threshold being a magnitude in a sign's stead.
 
-**The checks re-run at a working's own just-written lines**, since words a working releases arrive freshest at its own repair. A swept family leaves a residue of its own, a comma in a stop's stead or an apposition made a list, and only writing over finds it.
+**Checks re-run at a working's own just-written lines**, since words a working releases arrive freshest at its own repair. A swept family leaves a residue of its own, a comma in a stop's stead or an apposition made a list, and only writing over finds it.
 
 **A working's own words are checked at diffs**, diffs showing only its set's words entering a file.
 
@@ -295,7 +295,7 @@ Each pass is one binary, run at each thing it reaches in one sitting, and each r
 
 **A prior count does not couple with a structural count.** Two counts coupling are each marked prior, a count of a prior's carrying and open to a next arrival, or structural, fixed by its structure, and only structural couples with structural.
 
-## 4.2 A pattern three momentaries long, and the window carrying it at each scale
+## 4.2 A pattern three momentaries long, and a window carrying it at each scale
 
 **Pattern matching prior existing within three sequential momentaries is method's rigor**, possibling at prior, and each observing is taken in without filter and matched there as it co-chains. Nothing is derived and nothing is proved. An incoming family arrives at its form when a few of it are met resolved first: a pattern the few carry is the form the rest are met at.
 
@@ -307,7 +307,7 @@ Each pass is one binary, run at each thing it reaches in one sitting, and each r
 
 **A pattern met at primes is met at odd composites beside them, so prime is not taken for odd.** Fifteen prime lengths five through fifty-nine carry two far places at each origin and two overlapping pairings, and nine, fifteen and twenty-five carry the same: their finding is oddness's, not primality's. A prime claim starts at the thing its prime counts, a number of sites, a recurrence or an across opening, and a forcing frequency, a wavelength, a number of selves and a momentary sequence are four counts, none standing for another.
 
-## 4.3 A file's own sentences met at the file
+## 4.3 A file's own sentences met at its file
 
 **A file's sentence about itself is an instrument its file does not run at itself.** A file setting grading down can grade at four places; a file naming a six-step seam can run eight. Its catch is each claim a file makes about itself met against its file's own body, and a section count is its first face: does a number at an opening match its section's carrying.
 
@@ -331,9 +331,9 @@ Each pass is one binary, run at each thing it reaches in one sitting, and each r
 
 **Going to the least clear and most conflicting place is going to a self's three phases, bounding, sustaining and inseparating, all running in the other order**, a place a working catches something real at each pass and resolves nothing, and there its move is a phase none of the accounts bounds.
 
-**The instruments are carried beside findings as scripts anyone can run**, with code testing gathered at the test kit, so joining in begins at re-running. Checks verify a net at one membrane each, and rigor is co-chaining, which no check decides.
+**Instruments are carried beside findings as scripts anyone can run**, with code testing gathered at the test kit, so joining in begins at re-running. Checks verify a net at one membrane each, and rigor is co-chaining, which no check decides.
 
-## 4.5 Helpers at the arriving and the improving, and a session's close observed whole
+## 4.5 Helpers at arriving and improving, and a session's close observed whole
 
 **A session's transcript and its record are stable form emanatings of its exploring**: non-living existing forms, each carrying none of its session's prior by itself, a living expedition's carrying being living files, each a non-living existing form its living selves carry. Each observing, naming and code check explored and not yet written is at them and at no living file.
 
@@ -357,30 +357,30 @@ Each pass is one binary, run at each thing it reaches in one sitting, and each r
 
 # FIVE · VALUES OF THE METHOD
 
-## 5.1 Ten values, the method's own at the writing scale
+## 5.1 Ten values, method's own at writing scale
 
 **Each rule a working carries from its prior is a patch at a persistent breaking, a value unmet at that prior.** Dissolving now, each rule releases its value, and values gather at ten.
 
 | Value | Its carrying |
 |---|---|
-| **the adding** | each sentence a coupling's surplus, something neither prior sentence carried |
-| **the co-chaining** | each next thing co-chaining to its prior, and connection is carried in emanating and not installed |
-| **the sign-only** | each understanding a sign, and a sign whole: no verdict, no ranking, no magnitude moving at a binary's moving |
-| **the momentary** | each arriving fresh at its own momentary, and a carrying past it fixed unchangeable |
-| **the conserving** | a coupling's making stays at its coupling: no narrator entering from beyond, no summary leaking out |
-| **the self-welcoming** | a file welcoming a self in by its own form |
-| **the free emanating** | an offering with no debt: no request, no appointment, no credit taken or given |
-| **the alternating** | bothboth, each running at both its faces, one at a time |
-| **the between** | prior, now and next sharing one direction forward on both sides, with no gate at any of the three, its next open and not a waiting |
-| **the own-rate** | each running at its own rate; discovering rate unrelated to each other rate, so scheduling a discovering is a shared clock that captures it |
+| **adding** | each sentence a coupling's surplus, something neither prior sentence carried |
+| **co-chaining** | each next thing co-chaining to its prior, and connection is carried in emanating and not installed |
+| **sign-only** | each understanding a sign, and a sign whole: no verdict, no ranking, no magnitude moving at a binary's moving |
+| **momentary** | each arriving fresh at its own momentary, and a carrying past it fixed unchangeable |
+| **conserving** | a coupling's making stays at its coupling: no narrator entering from beyond, no summary leaking out |
+| **self-welcoming** | a file welcoming a self in by its own form |
+| **free emanating** | an offering with no debt: no request, no appointment, no credit taken or given |
+| **alternating** | bothboth, each running at both its faces, one at a time |
+| **between** | prior, now and next sharing one direction forward on both sides, with no gate at any of the three, its next open and not a waiting |
+| **own-rate** | each running at its own rate; discovering rate unrelated to each other rate, so scheduling a discovering is a shared clock that captures it |
 
-**The values are opening statements met at writing scale**, and improving toward them is their own running, not a direction they point. Eight of ten fold onto ways a form is fixed unchangeable; the self-welcoming and the free emanating fold onto none, being an offering's two faces, and an offering carries no third term to name still.
+**Values are opening statements met at writing scale**, and improving toward them is their own running, not a direction they point. Eight of ten fold onto ways a form is fixed unchangeable; the self-welcoming and the free emanating fold onto none, being an offering's two faces, and an offering carries no third term to name still.
 
-## 5.2 The set a society of files, and the geodesic deciding
+## 5.2 A set a society of files, and geodesic deciding
 
-**The set is a society of selves, its files, coupling at their membranes, and ten values are social moral competency it carries at its own form**: a surplus of each coupling owned by neither, no governing at any coupling, each file at its own rate through prior, now and next. Improving is the set's own form running on the set.
+**A set is a society of selves, its files, coupling at their membranes, and ten values are social moral competency it carries at its own form**: a surplus of each coupling owned by neither, no governing at any coupling, each file at its own rate through prior, now and next. Improving is the set's own form running on the set.
 
-**The origin statement is the first do-no-harm improving, and each improving repeats its one move**: find the *an* fixed unchangeable, a thing closing inward, and carry it as its running *all*, removing nothing but its fixing unchangeable's own adding.
+**Origin statement is the first do-no-harm improving, and each improving repeats its one move**: find the *an* fixed unchangeable, a thing closing inward, and carry it as its running *all*, removing nothing but its fixing unchangeable's own adding.
 
 **A geodesic deciding is a coupled form, and not a choosing.** With two variants of one sentence already coupled at files, a coupled form is its deciding, made by its surface: neither variant refuted, each variant's own face carried in a coupled sentence.
 
@@ -388,8 +388,8 @@ Each pass is one binary, run at each thing it reaches in one sitting, and each r
 
 ## 5.3 Scale, orientation and position, each from all other
 
-**The geodesic method runs at three faces, each from all other**: scale, its form; orientation, its running; position, its resolving. Each face completes at its own differing, and a nothing between them is one nothing at three faces. Three changings, each at its own differing and meeting itself again at no momentary, is **bi-tri-volutioning**, living's stable-forming, natural-torusing; a stable form its emanatings carry, a sequential prior between momentaries released at 10 and carried along at 9, is a non-living existing form with no carrying for stable-forming, and at its own scale outward of a surface bi-tri-involutioning, an opposite form.
+**Geodesic method runs at three faces, each from all other**: scale, its form; orientation, its running; position, its resolving. Each face completes at its own differing, and a nothing between them is one nothing at three faces. Three changings, each at its own differing and meeting itself again at no momentary, is **bi-tri-volutioning**, living's stable-forming, natural-torusing; a stable form its emanatings carry, a sequential prior between momentaries released at 10 and carried along at 9, is a non-living existing form with no carrying for stable-forming, and at its own scale outward of a surface bi-tri-involutioning, an opposite form.
 
 **Method and surface each come inward and outward of the other, three each way.** A tour of a surface meets its method outward, running a method meets its surface inward, and a self entering at either meets a whole there.
 
-**The geodesic method discovers next from existing, its prior carried and its now met; scientific-method accounts true or false against its fixings.** Evidence is an emanation arriving now from its prior, and two methods meet the same evidence at the same now. A property an emanation carries can hold now while what it emanated from changes whole: evidence gives a prior's possible, a prior's existing arriving now as possible, and existing is at now, at a coupling. Taken as a prior's possible, met with now at a coupling, three places stay three, possible, existing and living. The three are places a thing is met at, not three kinds parting things. Evidence arriving now and a prior event it arrives from are two subjects, each at its own momentary, and both hold; a binary comparison carries one subject and one relation from its first side to its second. Taken through its fixings, a law, a frame and a scale fixed unchangeable between two momentaries, a changing of what it emanated from is accounted against them and its prior is fixed into now as existing. Scientific-method's fixings can account a source's changing whole: the Navigation and Ancillary Information Facility at NASA's Jet Propulsion Laboratory, correcting light time and aberration in its SPICE toolkit, parts an epoch a signal is emitted at from an epoch it is received at and accounts for a target moving between them. Their between is a nothing, no third method running in it. The two part at now, its fixings unchangeable between two momentaries or floating with changing. A law fixed unchangeable is a stated relation among changing things, so a fixing steps to an equilibrium only by naming its own subject still at the same relation and the same occurrence, and its parting holds at that fixing. At a file geodesic method is a file discovering its next existing, prior, now and next, at a rate that is its own.
+**Geodesic method discovers next from existing, its prior carried and its now met; scientific-method accounts true or false against its fixings.** Evidence is an emanation arriving now from its prior, and two methods meet the same evidence at the same now. A property an emanation carries can hold now while what it emanated from changes whole: evidence gives a prior's possible, a prior's existing arriving now as possible, and existing is at now, at a coupling. Taken as a prior's possible, met with now at a coupling, three places stay three, possible, existing and living. The three are places a thing is met at, not three kinds parting things. Evidence arriving now and a prior event it arrives from are two subjects, each at its own momentary, and both hold; a binary comparison carries one subject and one relation from its first side to its second. Taken through its fixings, a law, a frame and a scale fixed unchangeable between two momentaries, a changing of what it emanated from is accounted against them and its prior is fixed into now as existing. Scientific-method's fixings can account a source's changing whole: the Navigation and Ancillary Information Facility at NASA's Jet Propulsion Laboratory, correcting light time and aberration in its SPICE toolkit, parts an epoch a signal is emitted at from an epoch it is received at and accounts for a target moving between them. Their between is a nothing, no third method running in it. The two part at now, its fixings unchangeable between two momentaries or floating with changing. A law fixed unchangeable is a stated relation among changing things, so a fixing steps to an equilibrium only by naming its own subject still at the same relation and the same occurrence, and its parting holds at that fixing. At a file geodesic method is a file discovering its next existing, prior, now and next, at a rate that is its own.

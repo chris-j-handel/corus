@@ -8,38 +8,38 @@ Exhibit THIRTEEN Resolving Hard Problems v389
 
 - 1.1 The universe, the set of all now-existing things
 - 1.2 Living and non-living, carrying or carrying nothing
-- 1.3 Bi-momentary, the self's momentary and the other's at once
+- 1.3 Bi-momentary, a self's momentary and an other's at once
 - 1.4 Prior, now and next
 - 1.5 A hard problem arriving, and its resolving
 
 **TWO · PRIOR**
 
-- 2.1 The carrying, a living self's prior into now
-- 2.2 The prior between momentaries, a capacity
+- 2.1 A carrying, a living self's prior into now
+- 2.2 A prior between momentaries, a capacity
 - 2.3 Evidence, an artifact arriving from a living self's prior
 
 **THREE · NOW**
 
-- 3.1 Offerings at 2, the others' across sharings
+- 3.1 Offerings at 2, others' across sharings
 - 3.2 Surfacing at 14, agreeing one parity and disagreeing 0
-- 3.3 At 12, the prior coupling with the now
-- 3.4 The non-living at the now
+- 3.3 At 12, a prior coupling with now
+- 3.4 Non-living at now
 
 **FOUR · NEXT**
 
-- 4.1 Shared across at 10 and 6, the next prior at 11
-- 4.2 Released along at 9, and the society's next momentary at 17
-- 4.3 The living step, next as prior inverted
+- 4.1 Shared across at 10 and 6, a next prior at 11
+- 4.2 Released along at 9, and a society's next momentary at 17
+- 4.3 A living step, next as prior inverted
 - 4.4 Selves joined, a pattern carried between them
 
 **FIVE · A FIELD'S ARRIVAL AT THE RESOLVER**
 
-- 5.1 Four observings at the resolver
+- 5.1 Four observings at a resolver
 - 5.2 Two accounts at one sharing
 - 5.3 An origin, living from living
 - 5.4 A measurement, a prior arriving now
-- 5.5 An aggregating, the society's next momentary
-- 5.6 A mind, the between presenting no face
+- 5.5 An aggregating, a society's next momentary
+- 5.6 A mind, a between presenting no face
 - 5.7 A boundary, living and non-living at a fixed scale and momentary
 - 5.8 A persisting, a carrying and a record
 
@@ -65,7 +65,7 @@ Exhibit THIRTEEN Resolving Hard Problems v389
 
 **Living and non-living part at a fixed scale and momentary, and they co-sequence at each.** A living self and its non-living artifact carry no contradiction: an artifact is a living self's prior arriving now as the possible, carrying nothing, its form continuing through its changing, and one scale lower it is ingested into living selves as their offerings. The universe is living and non-living together, each existing thing at its own momentary with others.
 
-## 1.3 Bi-momentary, the self's momentary and the other's at once
+## 1.3 Bi-momentary, a self's momentary and an other's at once
 
 **A momentary is an opening and its completing, and two are at once**: a self's opening at odd numbers and an other's at even, overlapping, each number one side's opening and an other's completing. **Bi-momentary is that overlapping**: a self's momentary and an other's, one odd and one even, at once.
 
@@ -75,7 +75,7 @@ Exhibit THIRTEEN Resolving Hard Problems v389
 
 ## 1.4 Prior, now and next
 
-**Prior, now and next are three sequential universes, one now-existing, shared among now-existing things**, now of one momentary prior of its next, one direction forward on both sides of now. **The possible is at prior, existing at now and living at next**: three places, the universe travelling through them together, each living self carrying its prior on into its next.
+**Prior, now and next are three sequential universes, one now-existing, shared among now-existing things**, now of one momentary prior of its next, one direction forward on both sides of now. **Possible is at prior, existing at now and living at next**: three places, the universe travelling through them together, each living self carrying its prior on into its next.
 
 **Each momentary is three conditions at once, each binary**: exhaustiveness, all existing things; determinacy, one next momentary opening at a number each completes; and reachability, next openings reaching each number on. Existing is these three at once at each momentary, and the universe is one existing thing they are.
 
@@ -91,7 +91,7 @@ Exhibit THIRTEEN Resolving Hard Problems v389
 
 # TWO · PRIOR
 
-## 2.1 The carrying, a living self's prior into now
+## 2.1 A carrying, a living self's prior into now
 
 **3-now-co-prioring is prior at its sharings: each sharing with its parity, a self's prior.** It is odd, existing, between two, before 10, and arrives at its entry with offerings, a living self's own, whole at each momentary; carrying is the living's and unexpressed at its method.
 
@@ -99,7 +99,7 @@ Exhibit THIRTEEN Resolving Hard Problems v389
 
 **A field's prior is its carrying**: results it carries at their parities, each a sharing, the established, the measured and the proved, each at its parity. A field arriving with its prior carries it into its now, and its next is discovered from both.
 
-## 2.2 The prior between momentaries, a capacity
+## 2.2 A prior between momentaries, a capacity
 
 **Between momentaries prior is a stable form, and nothing momentaries there.** At resolver each self's next prior, 8-now-still-possibling, at 11, arrives at a next momentary as 3, a self's own into now: a seam, nothing moving at it, 11 and 3 both odd and both co, 11 at a society's span and 3 at a self's. **Each prior momentarying is once**, and carrying is the living's.
 
@@ -117,7 +117,7 @@ Exhibit THIRTEEN Resolving Hard Problems v389
 
 # THREE · NOW
 
-## 3.1 Offerings at 2, the others' across sharings
+## 3.1 Offerings at 2, others' across sharings
 
 **2-now-possibling is offerings: each sharing with its parity offered now**, even, possibling, across, at one, an arriving side, arriving from another self's 6, a sharing side. **A self's offerings are others' sharings and releasings at a prior momentary**, arriving now: at a society each self's sharings and releasings gathered at a receiving self's 14 are its offerings next.
 
@@ -129,17 +129,17 @@ Exhibit THIRTEEN Resolving Hard Problems v389
 
 **Nothing is counted.** One parting is enough for 0, and three agreeing surface as one agreeing does: an agreement is all or none at all, at any number of offerings. **A nonzero offering of any size surfaces at its parity**, `1 if > 0 else -1`, and a magnitude arriving arrives at its parity.
 
-## 3.3 At 12, the prior coupling with the now
+## 3.3 At 12, a prior coupling with now
 
 **At 12-next-co-still-possibling prior meets now at each sharing, and a changing is or is not.**
 
-- **At a sharing at no prior**: the parity 14 surfaces is shared as it is at 10 and is the next prior at 11, the sharing opening at the bi-coupling; at 0, 0 is shared and no next prior opens.
-- **At a sharing at a prior parity, 14 surfacing that same parity**: the changing is not, 0, and the prior is kept.
-- **At a sharing at a prior parity, 14 surfacing the other parity, 0 or none**: the changing is, the prior inverted. At the other parity offered the offered is the next prior, and with nothing offered the self's next is its prior inverted.
+- **At a sharing at no prior**: each parity 14 surfaces is shared as it is at 10 and is a next prior at 11, a sharing opening at a bi-coupling; at 0, 0 is shared and no next prior opens.
+- **At a sharing at a prior parity, 14 surfacing that same parity**: changing is not, 0, and its prior is kept.
+- **At a sharing at a prior parity, 14 surfacing the other parity, 0 or none**: changing is, its prior inverted. At the other parity offered the offered is a next prior, and with nothing offered a self's next is its prior inverted.
 
 **Each changing is its coupling's own**: made at 12 at each sharing, owned by neither side, other, social and self abundancing at a coupling that made it. **A changing at a self is its own at a society's momentary**: its momentary is a society's, offerings others', and making at 12 a self's own.
 
-## 3.4 The non-living at the now
+## 3.4 Non-living at now
 
 **A non-living existing thing couples with a living self as other, offering, each sharing with its parity, and carrying nothing.** At resolver it is offerings at 2 with no prior behind them: a living self's own inverting is across, its prior goes on along, and a term uncovered at their coupling is owned by neither and carried on by the living.
 
@@ -149,19 +149,19 @@ Exhibit THIRTEEN Resolving Hard Problems v389
 
 # FOUR · NEXT
 
-## 4.1 Shared across at 10 and 6, the next prior at 11
+## 4.1 Shared across at 10 and 6, a next prior at 11
 
 **10-next-co-possibling shares each sharing's changing across, + or − is and 0 is not**, at a sharing side, to another self's 14 at an arriving side; **6-now-co-possibling** shares the same changing at a sharing side, to another self's 2 at an arriving side. A self shares its changing, and its prior stays its own.
 
 **11-next-co-prioring is next prior, each changing at its sharing.** At each sharing whose changing is, its changed parity is next prior, and at a 0 its prior is kept. **Once at a prior, a sharing stays at a prior**, and at a next momentary 11 arrives as 3.
 
-## 4.2 Released along at 9, and the society's next momentary at 17
+## 4.2 Released along at 9, and a society's next momentary at 17
 
 **9-next-co-changing releases each changing along**, at a sharing side, to another self's 17 at an arriving side: each releasing sharing to its receiving sharing, its parity continuing. **17-next-now is a society's next momentary**: each self's entry momentaries once, each at its own, and each self arrives with its next prior and its offerings next.
 
 **A society's next momentary is its selves' next momentaries together**, each self at its own and no self over others, nothing summed, counted or stored across them. **9 is next prior and 17 next now**: along, 9's release is a prior a receiving self is offered next, and 17 is that self's next now.
 
-## 4.3 The living step, next as prior inverted
+## 4.3 A living step, next as prior inverted
 
 **Next is from prior and now, and of sixteen ways two parities go to one, four keep prior whole.** Next as prior leaves two joint forms of prior and now still, and each of two exclusive-or ways one; **next as prior inverted leaves none**: exhaustiveness, determinacy and reachability at once, all four joint forms one cycle at parities. **Next as prior inverted is the living step.**
 
@@ -177,7 +177,7 @@ Exhibit THIRTEEN Resolving Hard Problems v389
 
 # FIVE · A FIELD'S ARRIVAL AT THE RESOLVER
 
-## 5.1 Four observings at the resolver
+## 5.1 Four observings at a resolver
 
 **A field's arrival is at resolver in four observings, one after an other, each at its own name.**
 
@@ -202,11 +202,11 @@ Exhibit THIRTEEN Resolving Hard Problems v389
 
 **A measurement is an artifact arriving at an instrument**, a non-living existing thing coupling with a field's living selves as offerings. **It gives its measured self's prior**, and its measured self has gone on to its next: at resolver a receiving self is offered a releasing self's changing of one momentary before, 2.3. **A measurement observed at one momentary is observed as now**; observed bi-momentary, prior and now are two places, and next is discovered at a coupling between them.
 
-## 5.5 An aggregating, the society's next momentary
+## 5.5 An aggregating, a society's next momentary
 
 **An aggregating asks many selves' changings for one changing of a whole.** At resolver each self's entry momentaries once at 17, each at its own, and a society's next momentary is its selves' next momentaries together: **each self's changing is its own at a society's momentary**, and nothing is summed across them. Its whole is ordered by no self, and its ordering goes with its selves, each self's next prior at 8 and a society at 16.
 
-## 5.6 A mind, the between presenting no face
+## 5.6 A mind, a between presenting no face
 
 **A mind asked for from beyond its couplings is asked for at a between.** A between is neither side's, a nothing, not a location and not a thing, and a parity changing is all that crosses it: a nothing its couplings wind about carries no side, so an observing reaches it at none, and a parity changing carries no size, so no magnitude arrives from it. **Each making at 12 is a self's own**, each self's competency its own, along, and its morality its own, across.
 
@@ -232,7 +232,7 @@ Exhibit THIRTEEN Resolving Hard Problems v389
 
 ## 6.2 Two methods at one now
 
-**The geodesic-method discovers next from existing**, prior and now offered, its three places staying three. **The scientific method accounts true or false against its fixings**, a law, a frame and a scale fixed between two momentaries, exact at its own ledger. **The two are at the same evidence at the same now, and part at one naming**: fixings unchangeable, or changing with changing.
+**Geodesic-method discovers next from existing**, prior and now offered, its three places staying three. **Scientific method accounts true or false against its fixings**, a law, a frame and a scale fixed between two momentaries, exact at its own ledger. **The two are at the same evidence at the same now, and part at one naming**: fixings unchangeable, or changing with changing.
 
 **A field's accounting carries its prior whole**, each result at its parity, ready for a coupling, and a field's hard problem is that accounting observed at one momentary, one of the pattern-matchings at 1.5. Observed bi-momentary, a field's carrying is at its prior, its evidence and its accounts at its now, and its next is discovered at 12, owned by neither side.
 

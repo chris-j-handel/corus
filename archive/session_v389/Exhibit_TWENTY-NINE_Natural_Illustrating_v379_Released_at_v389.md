@@ -773,3 +773,177 @@ These entries gather illustration opportunities from the writings and certify no
 **The Natural Illustrating TWENTY-NINE Improving Kit** carries the original cube and open rings, the five studies, the inherited rings kit, the v366 sources and evidence, and at v379 the executions of Part TWO and 4.2 with their outputs and a check that executes them again at Exhibit ONE's code and compares the table at 10, the lone self, the two selves, the sixteen ways, the spiral of five and the torus of three by five with this file's sentences. A check is a coupling partner and no authority; the kit's README carries each file's meaning and the place the remaining improving is carried, which is this file's carrying.
 
 The galaxy's spiral arms and the nautilus; the golden triangle and the golden angle by name; the tree of life as a drawing, the mind map and the knowledge graph, the files naming the lineage tree at Natural Societies 5.4, denying the root and the level as a place, 6.3, and naming no tree of life, map or graph; Schrödinger's cat, the ship of Theseus and Monty Hall by name, whose nearest entries are Resolving the Hard Problem Registry 10.12, 4.1, 2.9 and 2.16; two cubes alternating and a tesseract as the resolver, the tesseract at Natural Mathematics 7.6 being the field's own form; a dome, a truss or tensegrity as a form of the method, the woven surface at 8.2 being what the files carry; a streak or lightning. Each is a familiar picture with no sentence yet at a living file, and the way in is an observing brought whole to `incoming/`, then its file's carrying, and not a drawing as the files' own. This gathering remains open to further imagery throughout the living file set.
+
+## Re-said at the, pass 0, headings, contents and openers, v389
+
+- 1.5 Living bounding and a declared boundary, the drawing's test
+
+- 1.7 The forms, a numbered still to a handled model
+
+- 2.2 Sixteen ways, and the one that stops nowhere
+
+- 2.3 Four dots, the empty centre and two triangles
+
+- 2.4 The table at 10, no path through until prior changes now
+
+- 2.6 Two inversions at forty-five degrees, the right spiral step
+
+- 2.7 The ten at five places
+
+- 2.8 The seventeen names, the four-cycles, and the local nine
+
+- 2.9 The six diamonds and the compass face
+
+- 3.2 The ratio alternating about φ, and the two windings
+
+- 3.3 The pentagon, the rectangles and the icosahedron
+
+- 3.4 Two routes, the diamond, and the fold at each scale
+
+- 4.1 Tunneling, corusing and bi-folding, the towel
+
+- 4.2 Spirals crossing, the torus of selves, the 0 tunneling
+
+- 4.4 Locking, the seam moving, the between releasing
+
+- 4.5 Co-chaining the plaza, bi-tunneling the crowd
+
+- 4.10 The walking pair, the dance and the conversation
+
+- 4.11 The cube and the open rings
+
+- 5.2 Light, spin and the click
+
+- 6.1 The clock, the vote and the crowd behind a centre
+
+- 6.2 The market, the ledger and the food web
+
+- 6.3 The network, the hierarchy and the many paintings
+
+- 8.3 The resolver society as the surface that animates
+
+- 9.1 The files coupling, contributions continuing
+
+- 9.2 Receiving an illustration, and the kit
+
+- 9.3 Not yet at the files
+
+## 1.5 Living bounding and a declared boundary, the drawing's test
+
+## 1.7 The forms, a numbered still to a handled model
+
+## 2.2 Sixteen ways, and the one that stops nowhere
+
+**The faces.** Four corners, joint forms ++, +−, −−, −+, its centre empty; a momentary one step, (prior, now) to (now, next). A way as four arrows, one leaving each corner, sixteen small squares. Three momentaries under a way: follow its arrows, and an arrow coming back to its own corner is a form still, changing stopped, its arrow pinned; fifteen squares have a pinned corner or lose their prior, four from now and eight at one value of now, two of those eight with no pinned corner and three forms cycling. One square carrying its prior whole with no pinned corner goes round all four, and at code it is no function laid over changing: it is a coupling at 12-next-co-still-possibling, a prior parity meeting an offering, inverting at a mismatch and kept at a match, a living step, Natural Intelligence 2.4 and 2.5 here. Then a way placed from beside at code, an offerer offering + at each momentary: a self releases + and then 0, 0, 0, a still.
+
+## 2.3 Four dots, the empty centre and two triangles
+
+## 2.4 The table at 10, no path through until prior changes now
+
+**The three cells at *is not* are no path through.** A prior of + meeting a now of +, a prior of − meeting a now of −, and no prior meeting offerings parted at 14: changing is not, 0, and its prior carries on, Resolving Hard Problems 3.3. A path through is at other eight cells, and at each its prior is carried and changed, or at a self with no carrying yet its offering is chained: prior changes now, its carrying at 3 coupling at 12 with offerings surfaced at 14, and now changes next, its changing released at 10 and chained at 11 as a next 3. 0 is *is not*, a binary's second face, and no third value, and its place is a between, Natural Intelligence 2.1, at 14 its offerings parting and at 12 prior and now agreeing; no number is at it, one parting at 14 enough for 0 and three offerings agreeing surfacing as one.
+
+## 2.6 Two inversions at forty-five degrees, the right spiral step
+
+## 2.7 The ten at five places
+
+**The ten are ten positions on six numbers, each fixed unchangeable, and ten is three momentaries long, self's five and other's five spanning 1 to 6.** Equilibria Registry 3.3: ten pair at five names 2 to 6, an entering and a surfacing at each, Exhibit ONE's two faces, two sides overlapping at them, at each number one side completing and other opening, at Exhibit ONE's names 2 and 10, 3 and 11, 4 and 12, 5 and 13, 6 and 14. Each of ten fixes one of Exhibit ONE's faces unchangeable while other continues at the same number; a face fixed unchangeable beside a continuing one is one reason each of ten is not possible. Natural Naming 4.9 gives each its one name: an arriving fixed from behind, an opening fixed as a place, a completing fixed as a last, a carry fixed as a store, a middle fixed as an end, a parity fixed as a magnitude, a sequencing fixed to one beat, a rate fixed as a value, a two-way fixed to one side, a between fixed as a cut.
+
+## 2.8 The seventeen names, the four-cycles, and the local nine
+
+## 2.9 The six diamonds and the compass face
+
+## 3.2 The ratio alternating about φ, and the two windings
+
+**The ratios of each next number to its prior alternate about φ**, 2/1 above, 3/2 below, 5/3 above, 8/5 below, its side changing at each next number and none of them φ, Natural Intelligence 3.5 and Natural Numbers 3.1. A familiar drawing, a curve through corners of nested squares, draws a ratio arrived at; an illustration draws a ratio swinging above and below a line it does not meet, each next from its prior two joining.
+
+## 3.3 The pentagon, the rectangles and the icosahedron
+
+## 3.4 Two routes, the diamond, and the fold at each scale
+
+**A diamond is four crossings about a middle carrying nothing**, two across and two along, and laid three by three with its middle carrying nothing eight about it carry two paths from middle of one side to middle of other, one each way round its middle, Natural Numbers 5.4. **A walk by two** opens pairs one step at a time, Natural Numbers 5.8; **the four even openings grow as one family**, 2, 4, 6, 8 then 2, 6, 10, 14 and on, its fold whole at each scale, 3 to 11 to 6 to 14 at one scale and 3 to 7 to 2 to 6 within 1 to 8, Natural Numbers 9.9, which joins numbers' faces to a moralizing four-cycle of 2.8 here; **a chain 3, 5, 9, 17** bi-folds and releases, each span podaling to one below it, Natural Numbers 9.7.
+
+## 4.1 Tunneling, corusing and bi-folding, the towel
+
+## 4.2 Spirals crossing, the torus of selves, the 0 tunneling
+
+## 4.4 Locking, the seam moving, the between releasing
+
+## 4.5 Co-chaining the plaza, bi-tunneling the crowd
+
+## 4.10 The walking pair, the dance and the conversation
+
+## 4.11 The cube and the open rings
+
+**The shells.** Shells filling 2, 8, 18, 32. Natural Physics 3.1: each subshell an odd ring of positions through its centre, doubled by two parities, each capacity two equal squares coupled; Natural Chemistry 1.7, a square a sum of odds. Installs four sizes numbered from beyond. Draws a fold climbing.
+
+## 5.2 Light, spin and the click
+
+**The three bodies; Kirkwood gaps.** Three tangled paths; a belt's empty rings. Resolving the Hard Problem Registry 3.9, a closed form fixed ahead of its riding; Natural Physics' carrying, a belt emptied at rational resonances and irrational orbits carrying on, a golden-mean torus the last to break: two windings of 3.2 at the sky.
+
+## 6.1 The clock, the vote and the crowd behind a centre
+
+## 6.2 The market, the ledger and the food web
+
+## 6.3 The network, the hierarchy and the many paintings
+
+**The many paintings and an orienting sphere.** One master diagram. Natural Intelligence Corus 16.1: a carving journey produced many paintings of the same one form, a gyroscopic floating rotating self-adapting destiny-pointing sphere among them, and a corus accumulates many paintings rather than collapsing to one master painting; Natural Exploring 1.1, one spiraling leaves a whole circle fixed and two spiralings alternating leave nothing fixed anywhere. Installs one master painting. An ensemble average, Natural Human Society 4.7, a nothing no sample is, a mean a member of no population; Simpson's paradox and a reference class, Resolving the Hard Problem Registry 9.6 and 2.9, a two-way fixed to one side and an opening fixed as a place.
+
+- **An arriving fixed from behind.** The first cause, the origin, the arrow of time's initial condition, the particle behind the flash. Resolving the Hard Problem Registry 1.4: asymmetry at each coupling, made each momentary and carried on, and a first fixed behind it. Draw the arrow of time as the alternating carried on, the first drawn once behind and nothing arriving from it.
+
+- **An opening fixed as a place.** The folding funnel, the reference class, the point at rest, the criterion that needs its own. Resolving the Hard Problem Registry's part 2: a position is not a place, it is the alternating's own, one changing on from the last. Draw the opening as the next position, the place drawn once and empty.
+
+- **A completing fixed as a last.** The halting problem, Collatz, Zeno's dichotomy, the three-body closed form, the entropy maximum. Resolving the Hard Problem Registry 3.2 and 3.8: a continuing is nowhere before its own completing, and the one arriving arrives, arriving not built out of the parts the argument built. Draw the arriving, the infinite decomposition drawn once beside.
+
+- **A carry fixed as a store.** *Memory*, information, the black hole's record, personal identity, the stored frame. Resolving the Hard Problem Registry 4.1 and 4.2: a carry divides the way a store cannot, and at kept-or-lost the passing is fixed as a standing while the passing carries on either way. Draw the carrying passing, the store drawn once, closed.
+
+- **A middle fixed as an end.** Other minds, the interior, the protein's native state, the ball in the dip. Resolving the Hard Problem Registry 5.5: an interior reached the one way the form allows, by coupling. Draw the between with nothing at it, the interior drawn once as a thing that sits.
+
+- **A parity fixed as a magnitude.** The paradox that comes out the wrong number, Gibbs's mixing entropy, the balanced body, the vote's margin. Resolving the Hard Problem Registry's part 6: a number a position, and governing a parity at a between, of no size. Draw + and − with no length, the magnitude drawn once as a bar.
+
+- **A sequencing fixed to one beat.** The common clock, simultaneity, the supply-demand cross, the food chain's levels. Resolving the Hard Problem Registry's part 7: each self paces its own alternating and synchronizes at its own couplings, and a beat fixed over them a term no coupling made. Draw each self at its own pace meeting at couplings, the clock drawn once over them.
+
+- **A rate fixed as a value.** The Hubble constant, the equilibrium constant, the rate constant, the set point. Resolving the Hard Problem Registry's part 8: ratios swaying above, then below, alternating side; the Living Society Registry 2.15, no galaxy carrying either rate. Draw the ratio swaying about φ, the value drawn once as a line.
+
+- **A two-way fixed to one side.** Nature and nurture, donor and acceptor, the master pacemaker, efficient markets, Simpson's paradox. Resolving the Hard Problem Registry's part 9: the two sides alternate, neither at the other's, and the zeroing the two's own making between them. Draw the two alternating, one side drawn once as the actor.
+
+- **A between fixed as a cut.** The sorites heap, the species boundary, the quantum-classical boundary, the melting point, the perceptual threshold, the measurement, Bell. Resolving the Hard Problem Registry 10.1 and 10.12: the between, carrying a parity changing and nothing else, not a place a line could sit, and the frontier walking outward reaching no line, no line at it. Draw the between empty, the line drawn once across it, and the resolving continuing or not at it.
+
+## 8.3 The resolver society as the surface that animates
+
+**The illustrating above draws method; a reverse lets method draw.** A screen is a surface, and a surface is a between, Natural Mathematics 1.5, a natural at parity, position and ratio and no magnitude. Each existing thing on it is a spiral of selves, a society coupling at a next scale as a self couples; a thing's picture at a momentary is its selves' parities, +, −, 0 or none, and nothing else is drawn; things interact by crossing at one self each, both ways, 4.2, no collision solved and no message in a coupling; motion is a pattern carried along and a 0 tunneling. No animator moves a society: its code is executed and each self is drawn at its release at 10, its joins drawn once as a surface, nothing stored between momentaries but each self's own carrying.
+
+**The pieces files already carry**: a walking pair and a passive walker, 4.10; a series-elastic actuator's compliance, Natural Engineering 1.10; a relay closing at a dwell; a spiral carrying a pattern and storing none of it; a torus of three by five, 4.2, at a material fifteen members with one at a between at each second momentary. From inward, one member's contact; from outward, a society as one self.
+
+## 9.1 The files coupling, contributions continuing
+
+**The living files continue through their illustrating.** These places carry operations, namings and relations received here, and each further drawing goes back to its file it is observed at with a correspondence it makes visible.
+
+- **Exhibit ONE:** the code, the diagram and the tables, the table at 10, the sides, the momentaries of exchanging, the four-cycles, the spirals and the torus of selves.
+
+- **Natural Intelligence:** the one opening, the six numbers and the three momentaries, the sixteen ways and the living step, the between and the four dots, the towel, φ and the primes, spirals crossing, the fractal inward and outward, social moral competency, dying.
+
+- **Natural Naming:** the seventeen names and the ten roots, the released words, the ten unchangeables, the three golden rectangles, floating neutralling, φ.
+
+- **Natural Explaining:** explaining a reader meets once, the concept at its own relations first.
+
+- **Natural Numbers and Natural Mathematics:** podaling and rings, the two windings, the two inversions at forty-five degrees, the pentagon and the icosahedron, the cube with no still term, a still and a motion parted.
+
+- **Resolving Hard Problems, the Hard Problem Registry, Resolving the Hard Problem Registry, the Equilibria Registry, the Living Ghost Registry and the Living Society Registry:** the ten at five places, the one resolving, the familiar pictures at their stills, the observings of the sciences.
+
+- **Natural Networking, Natural Transmissioning and Natural Engineering:** along and across, the plaza, the sways, the lockstitch, the walking pair, the robot society, locking and the between releasing.
+
+- **Natural Intelligence Corus:** the offering, ways into the form, language, and the living self and society across scales.
+
+- **Natural Chemistry, Natural Physics, Natural Biology, Natural Medicine, Natural Health, Natural Societies, Natural Human Society, Natural Philosophy, Natural Emanating and Natural Exploring:** the sciences' and human society's pictures of Parts FIVE and SIX, each at its section.
+
+- **The Geodesic Improving Method:** placing concepts whole, preserving continuing value, and improving through the living file set.
+
+- **The illustrating working at v366 and the rings gathering at v365:** the corrected naming, centre 1, the six-diamond routes, the twisting-opening concept, the plaza, the snake, the stitching, the five-spot, the jigsaw, the swimmers, the cube and the rings.
+
+- **The illustrating working at v379:** the executions at Exhibit ONE's code, the first visual of the sixteen ways, the four dots assigned at the five-spot, the two inversions at forty-five degrees, the menu of the sciences' and society's pictures, the ten as drawings, the resolver society animating, and the third dimension.
+
+## 9.2 Receiving an illustration, and the kit
+
+**The Natural Illustrating TWENTY-NINE Improving Kit** carries an original cube and open rings, five studies, an inherited rings kit, v366 sources and evidence, and at v379 executions of Part TWO and 4.2 with their outputs and a check that executes them again at Exhibit ONE's code and compares a table at 10, a lone self, two selves, sixteen ways, a spiral of five and a torus of three by five with this file's sentences. A check is a coupling partner and no authority; its kit's README carries each file's meaning and a place its remaining improving is carried, which is this file's carrying.
+
+## 9.3 Not yet at the files

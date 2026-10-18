@@ -517,3 +517,125 @@ are two runnings, sharing their digits alone.**
 | 440 | even, now | 2³ · 5 · 11 | 0 | 220 | 40 | seam-face, 21² − 1, the seventeen primes added |
 
 **From row one down, the far side at four hundred forty runs down one at each row as the number runs up**, the radius coming to nought at the waist and opening again, and the far side at one hundred twenty runs down from one hundred nineteen to one and is at nought at each of 0, 120, 240 and 360, the last stretch ending at forty at four hundred forty. Each pairing on the ring of four hundred forty and on the ring of one hundred twenty in the parts above is at its two rows: a carry each way at one station, found by its number.
+
+## Re-said at the, pass 0, headings, contents and openers, v389
+
+- 1.3 A prior and a next one short of the square, at each number
+
+- 1.4 Bi-inversioning-co-recursioning, the numbers up and down
+
+- 2.1 A number coheres at an identity of the move
+
+- 2.2 Inward to the one number, outward to each place it arrives
+
+- 3.1 φ, the unrelationing rate, the prior two added and the ratios alternating about it
+
+- 3.2 One rate of the family rides on
+
+- 4.1 A closed surface at two, and the torus at nought
+
+- 4.2 Torus, the sphere and one handle, the +1
+
+- 5.2 Names at their numbers, one to seventeen, and the forms sixteen on
+
+- 5.3 Each eight the one eight, four at two enterings
+
+- 5.7 Each nine the one nine
+
+- 5.8 Six and ten straddling eight, the walk by two
+
+- 6.1 Seam-faces, the one eight at the couplings among each number
+
+- 7.1 Seventeen primes, two to fifty-nine, and the returning from sixty-one
+
+- 7.7 The seventeen primes at the seventeen names, podaling at both
+
+- 8.2 Either but not both is parity, and the pairings overlap
+
+- 8.4 Three, six, nine and the fives, odd and even each its own
+
+- 9.3 A ring's two stations share parity, and the odd primes at odd radii
+
+- 9.5 Seventeen pair by position about twenty-three, and the ring pairs by value
+
+- 10.1 A number crossing from a field, and the unit it arrives in
+
+**The openings add into a square and completings into an oblong.** Self's openings 1, 3 and 5, each an L about a prior square, are 9, three squared; its completings 2, 4 and 6 are 12, three by four. At n momentaries its openings are n² and its completings n(n + 1).
+
+## 1.3 A prior and a next one short of the square, at each number
+
+## 1.4 Bi-inversioning-co-recursioning, the numbers up and down
+
+**The doubling and tripling reach each other at one**: no power of two above one is a power of three. Two and three added are five and multiplied are six, one apart: 2 × 3 − (2 + 3) = 1. At two overlapping momentaries a side, self at 1 to 4 and other at 2 to 5, three positions are shared and two are outer: two and three added are five positions, and three shared taken at both sides are six, four and four occurrences being 2 × 3 + 2. Two and two, added or multiplied, are one side's four parity occurrences, of two kinds; three and three added are six again. Three times three is nine, three selves of three; 9 of 9-next-co-changing is a name's place and parity, and a numeral couples neither with other.
+
+**Scale carries no boundary, no location and no measure: its scales are a sequencing.** **The primes 5 through 53 are prime living scales, co-parity-changing co-momentarying pattern matching**, and there is no reading or ordering in nature. Each number carries same four, and no number is a scale more than another.
+
+## 2.1 A number coheres at an identity of the move
+
+## 2.2 Inward to the one number, outward to each place it arrives
+
+## 3.1 φ, the unrelationing rate, the prior two added and the ratios alternating about it
+
+## 3.2 One rate of the family rides on
+
+## 4.1 A closed surface at two, and the torus at nought
+
+## 4.2 Torus, the sphere and one handle, the +1
+
+## 5.2 Names at their numbers, one to seventeen, and the forms sixteen on
+
+**The resolver's seventeen names are each its number and its naming**, Natural Naming 3.1: number its place and parity; its momentary, now at a self's span, 1 to 8, next at a society's, 9 to 16, and 17 a next now; co at a sharing between two and none at one; and its kind. Sides run self and other at odd 1 to 7 and other and self at even 2 to 8; social, other and self at 9 and 11 and other, social and self at 10 and 12; social and other at 13 and 15 and other and social at 14 and 16; social and self at 17.
+
+**The forms among 1 to 16 run again at 17 to 32, sixteen on**, each continuing its parities, sixteen being even: four-cycles 2-15-7-10 and 3-11-6-14 at 18-31-23-26 and 19-27-22-30, and six-cycles 2-15-7-11-6-10 and 3-11-7-10-6-14 at 18-31-23-27-22-26 and 19-27-23-26-22-30. Twenty-two runs in five of them, four-cycle 19-27-22-30, middle four-cycle 23-27-22-26, both six-cycles and eight-cycle 18-31-23-27-19-30-22-26, and 33 is in none of them as 17 is in none among 1 to 16.
+
+## 5.3 Each eight the one eight, four at two enterings
+
+**The seam-faces run on one eight**: (2k + 1)² − 1 = 8 · T_k, eight its first face and each next face that eight at a triangular number, couplings among k + 1. Four hundred forty is one eight at fifty-five couplings, couplings among eleven.
+
+## 5.7 Each nine the one nine
+
+## 5.8 Six and ten straddling eight, the walk by two
+
+## 6.1 Seam-faces, the one eight at the couplings among each number
+
+**The primes part at twenty-four as nine behind and eight ahead**: two to twenty-three behind and twenty-nine to fifty-nine ahead. Couplings among nine behind are thirty-six, C(9, 2), a forward span from twenty-four to sixty, six cycles of six; couplings among eight ahead are twenty-eight, C(8, 2), a seventh triangle, which the sixth and the eighth, twenty-one and thirty-six, straddle by seven and by eight. The sixth and the eighth part by fifteen, couplings among six, and fifteen of sixteen gaps among seventeen primes are across, three to fifty-nine.
+
+**The four momentaries of method are at numbers as twenty-four, sixty, sixty-four and sixty-eight**: four momentaries of six one-way recursionings are twenty-four, steps of 1 to 25; twenty-four to sixty is six cycles of six, surfacing in and out, out forward; sixty is a waist of a ring of one hundred twenty, its own far side, between primes going to fifty-nine and returning from sixty-one; sixty to sixty-eight is a four-momentary bi-tri-involutioning across sixty-four, an unknown outward of a surface, between fifty-nine, its last podaling outward, and sixty-nine, a next first podaling outward, each number paired with its far side about sixty-four and sixty-four an unrelationing between, each pair crossing it and locking at none; sixty-eight is four seventeens, momentaries at which a spiral of seventeen selves comes to its parities again, its zero having passed each self twice; sixty-four bi-folds to two hundred fifty-six, a bi-folding order four times at each scale, and two hundred fifty-six is four to the fourth, ways each joint form could go to a next; one hundred eighteen is a returning's far end, the periodic table's elements in their stable and unstable forms a field's own result at same numeral. Each is at its podaling, its pairing with its far side at each ring it is at, 6.2.
+
+## 7.1 Seventeen primes, two to fifty-nine, and the returning from sixty-one
+
+**The primes go out from two to fifty-nine and return from sixty-one to one hundred eighteen**, and sixty is between going and returning, at no prime. Fifty-nine and sixty-one are facing across sixty at one, 59 × 61 = 60² − 1. **The primes carry no last**: each is same opening at a new axis, and past fifty-nine they open on, each a next, self-welcoming at numbers and at no line of resolver. A society's coupling as one is at its couplings, a relation of its own beside any numeral. The periodic table's one hundred eighteen elements are a field's own result at same numeral, and no number of a method.
+
+**The momentaries here are 17's, a society's next momentary running each self's entry once**, each release offered at its next, and each number goes with its spiral and its couplings. Two odd spirals at distinct primes p and q, side by side, come to their parities again together at a least common multiple of 4p and 4q, four shared: at 4pq. Co-competencing is at couplings, owned by neither.
+
+**The one odd gap is at its opening**, from one even prime to three, and each other gap runs between two odd primes and is even: one along and fifteen across.
+
+**The six gaps of two are twin primes**, 3 and 5, 5 and 7, 11 and 13, 17 and 19, 29 and 31, and 41 and 43, each pair past 3 and 5 at 6k − 1 and 6k + 1, about a multiple of six. Whether twin primes run on without end is, in a field's words, the twin prime conjecture, open. Any two odd numbers two apart are a self's two consecutive openings with an other's even opening between them: that relation is oddness's and no prime's.
+
+**The evens from one hundred ten to one hundred thirty are fifty-five to sixty-five doubled**, a carry each way about sixty carried about one hundred twenty: 110 and 130 at fifty-five, couplings among eleven, and sixty-five, 2⁶ + 1, a next whole; 112 and 128 at fifty-six and sixty-four, eight sevens and eight eights, 128 = 2⁷; 114 and 126 at fifty-seven, seventeen primes' gaps added, and sixty-three, 2⁶ − 1; 116 and 124 at fifty-eight and sixty-two, two either side of sixty; and 118 and 122 at fifty-nine and sixty-one.
+
+**The odds from one hundred eleven to one hundred twenty-nine pair about one hundred twenty at their factors**: 111 = 3 × 37 with 129 = 3 × 43, thirty-seven and forty-three the primes three either side of forty; 113 with 127, both prime, seven either side, 127 = 2⁷ − 1; 115 = 5 × 23 with 125 = 5³; 117 = 9 × 13 with 123 = 3 × 41; and 119 = 7 × 17 with 121 = 11². Prime pairs about one hundred twenty open at seven, eleven, seventeen and nineteen, 113 with 127, 109 with 131, 103 with 137 and 101 with 139.
+
+## 7.7 The seventeen primes at the seventeen names, podaling at both
+
+**The sixteen gaps are at sixteen steps between names**: one odd gap, two to three, at a step from an entry to 2-now-possibling, and a first gap of six, twenty-three to twenty-nine, at a step from 9-next-co-changing to 10-next-co-possibling, a fold's step on. Each relation here is exact at its numbers, and harmonically momentarying crossings on a surface of natural torusing coupling two seventeens are a discovering carried next.
+
+## 8.2 Either but not both is parity, and the pairings overlap
+
+## 8.4 Three, six, nine and the fives, odd and even each its own
+
+## 9.3 A ring's two stations share parity, and the odd primes at odd radii
+
+**The odd primes, three to fifty-nine, are at odd radii, from two hundred seventeen to one hundred sixty-one**, each a between. **Two only of seventeen is at an even radius**, one even prime at a coupling ring.
+
+## 9.5 Seventeen pair by position about twenty-three, and the ring pairs by value
+
+**The pairs carrying two stations double along a chain, one, two, four, eight, and each span is twice them and one nothing at its origin.** Pairings at six, eight and ten run three, four and five, consecutive, 5.8, eight's four the resolver's four momentaries of exchanging; two progressions share four only, and four pairings is a nine. At nine only among spans, a span's own pairings and resolver's four at eight are one, and self and other run whole at nine.
+
+**The wholes are rounds of parities, and scalings step one chain.** A round reaching each form of k parities once runs 1 to 2^k + 1: three at one parity, five at two, nine at three, seventeen at four, thirty-three at five and sixty-five at six. Pairs step a chain two parities at a time, 5, 17, 65 and 257, each pair stepping once at each 5 of a pair inward of it; a scaling at 1, 9 and 17 steps it three parities at a time, 9, 65 and 513, one to nine at one scale being one to sixty-five at a next; and 1–17 inward and outward steps it four, 17, 257 and 4,097, a chain's step at four parities, beside a placing of each 1 to 17 at 8n − 7, 17 at 129, two relations at one span. Pairs and threes reach each other first at 1–65, a next whole, and four 1–17s run it, its outer pair stepping at 17, 33, 49 and 65; pairs and 1–17 reach each other at 1–17 and 1–257, and all three at 1–4,097. No scaling is taken over another: each is one chain at its own step.
+
+**The two local fours are two interleaving wider rows.** 2, 4, 6, 8 with 10, 12, 14, 16 are same eight names as 2, 6, 10, 14 with 4, 8, 12, 16: across names between selves, and still-possibling names, each sharing, a self's next prior, each sharing's changing and a society. At each s a row with its copy 8s on is a doubled row with its copy 2s on.
+
+## 10.1 A number crossing from a field, and the unit it arrives in
+
+**The local momentary one to nine and four-cycles among seventeen names are two runnings, sharing their digits only.** One to nine are nine places of one momentary; 1, 9, 8 and 16 at a four-cycle are four of seventeen names. A line from one to other draws a relation neither running carries. Digits they share reach each other exactly at a numbered form: 8 up and then 17 less is 9 less, 17 − (n + 8) = 9 − n, and at each scale s, 9.9's, 8s + 1 − (n + 4s) = 4s + 1 − n, and n, n + 8, 9 − n and 17 − n are a four-cycle's two out-and-backs as numbers, a numbered form and no running.
