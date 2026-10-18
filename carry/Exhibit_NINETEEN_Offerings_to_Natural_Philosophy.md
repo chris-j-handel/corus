@@ -184,3 +184,39 @@ Each is a changing made at the set this session, said once here so that this fil
 **Droplet · Fourteen names read the same from either end, and three do not.** 1, 9 and 17 carry a direction, the entry and the two along names, odd, existing; the fourteen others, the across names and the self's own resolving, read the same both ways: direction is at existing, along, and bi-morality across is or is not.
 
 **Droplet · What arrives at no next does not exist.** This is the proof's own saying inside nature, and *a form named still* is a sayer's; where this file rests a saying on *a form named still*, the one sentence carries it, and the equilibria's proof, the inception's and the living-at-a-scale proof are one proof at three subjects.
+
+## Standing · v389
+
+*Concerns met at pass 3, each standing at this file and out of its living file until resolved.*
+
+**Concern · at a sentence.** Beside "1.2 A position, a dilemma, and the six run one-way"
+
+*Standing at v389:* At 1.2 the six are three at the offering side and three at the taking, living coupled and hard-probleming "run one-way and pinned". Exhibit ONE v389 has six names between selves, 2, 6, 10, 14 across and 9, 17 along, sharing end and arriving end, and hard-probleming is ten unchangeables, not a six carried one way. Which the six are is not entered. **To resolve:** are 1.2's six Exhibit ONE's six names between selves, with "run one-way" re-said as the ten unchangeables, or is the six released?
+
+**Concern · at a sentence.** Beside "1.2 A position, a dilemma, and the six run one-way"
+
+*Standing at v389:* At 1.2 the six are three at the offering side and three at the taking, living coupled and hard-probleming "run one-way and pinned". Exhibit ONE v389 has six names between selves, 2, 6, 10, 14 across and 9, 17 along, sharing end and arriving end, and hard-probleming is ten unchangeables, not a six carried one way. Which the six are is not entered. **To resolve:** are 1.2's six Exhibit ONE's six names between selves, with "run one-way" re-said as the ten unchangeables, or is the six released?
+
+**Concern · at a sentence.** Beside "**The six, coupled and run one-way.** Each cycle is six, three at the offering side and three at the taking, the two sid"…
+
+*Standing at v389:* At 1.2 the six are three at the offering side and three at the taking, living coupled and hard-probleming "run one-way and pinned". Exhibit ONE v389 has six names between selves, 2, 6, 10, 14 across and 9, 17 along, sharing end and arriving end, and hard-probleming is ten unchangeables, not a six carried one way. Which the six are is not entered. **To resolve:** are 1.2's six Exhibit ONE's six names between selves, with "run one-way" re-said as the ten unchangeables, or is the six released?
+
+**Concern · at a sentence.** Beside "Run one-way and pinned, it is hard-probleming, the frozen. Resolving is the six re-coupling, through the pinned running,"…
+
+*Standing at v389:* At 1.2 the six are three at the offering side and three at the taking, living coupled and hard-probleming "run one-way and pinned". Exhibit ONE v389 has six names between selves, 2, 6, 10, 14 across and 9, 17 along, sharing end and arriving end, and hard-probleming is ten unchangeables, not a six carried one way. Which the six are is not entered. **To resolve:** are 1.2's six Exhibit ONE's six names between selves, with "run one-way" re-said as the ten unchangeables, or is the six released?
+
+**Concern · at a sentence.** Beside "Philosophy finding a three-then-a-progress, thesis and antithesis and synthesis, or three critiques, or three orders of"…
+
+*Standing at v389:* At 1.2 a philosophical triple is "one side's triple caught at one face" of the six, three at the offering side and three at the taking. Re-saying *face* as *side* makes it one side's triple caught at one side, and the triple's place rests on what the six are at Exhibit ONE v389, not yet entered. **To resolve:** once 1.2's six is met at Exhibit ONE, is a triple three names at one end, sharing or arriving, or is this sentence released with the six?
+
+**Concern · at a sentence.** Beside "Named at five dimensions, the five words its five faces, the offering, the taking, the along, the two-way, the self-boun"…
+
+*Standing at v389:* At 3.1 self-stilling is "named at five dimensions, the five words its five faces, the offering, the taking, the along, the two-way, the self-bounding". Exhibit ONE v389 carries five dimensions as one row of each name, "1 self prior, prior opening of a self's five", and no five words; Natural Naming v389 2.4 carries a self's own stable-forming "in place of stilling and self-stilling-self". Re-saying needs both met. **To resolve:** are the five words Exhibit ONE's five dimensions at a self's names, and is self-stilling here re-said as a self's own stable-forming?
+
+**Concern · at a sentence.** Beside "Five words, alternating right spiral sequencing binary co-offering, emanate the resolver, and taken as the one constrain"…
+
+*Standing at v389:* At 3.5 "Five words, alternating right spiral sequencing binary co-offering, emanate the resolver" and "emanate the whole form". Natural Naming v389 2.4 releases *emanating* at method into method, and an emanation into an artifact; Exhibit ONE v389 carries seventeen names and no five words. Re-saying the five words and their emanating needs a resolution not yet entered. **To resolve:** are the five words re-said at Exhibit ONE's names and the emanating released into method, or does 3.5's emanating paragraph go to the possibling file?
+
+**Concern · at a sentence.** Beside "That the five words emanate the whole form and not the resolver alone is the saying, and it stands most open of the ones"…
+
+*Standing at v389:* At 3.5 "Five words, alternating right spiral sequencing binary co-offering, emanate the resolver" and "emanate the whole form". Natural Naming v389 2.4 releases *emanating* at method into method, and an emanation into an artifact; Exhibit ONE v389 carries seventeen names and no five words. Re-saying the five words and their emanating needs a resolution not yet entered. **To resolve:** are the five words re-said at Exhibit ONE's names and the emanating released into method, or does 3.5's emanating paragraph go to the possibling file?

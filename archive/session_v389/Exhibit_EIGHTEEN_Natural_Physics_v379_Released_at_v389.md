@@ -1492,3 +1492,99 @@ eight at a returned sign entered as cost and six
 an odd face entering and an even face surfacing, and one binary asks at each whether its entering face carries more.
 
 carries less than a membrane held as a cut. **Thirty-one stand at a membrane face and seventeen within.**
+
+## Re-said at the ten unchangeables, each fixed at inception, v389
+
+| **a rate held to a value** — a constant set from an elsewhere, a beat laid over couplings each keeping their own | own-rate refused, one pace given to all |
+
+**A count grew at an observing and not at a rule.** It stood at two, then at three when an answer-before-momentarying was observed. Register at 5.11 carries fifty arrivals, eighteen met and thirty-two standing, forty-eight at holdings and two this file's own, gravity and fission and fusion; thirteen of forty-eight stand at a rate held and eight at a returned parity entered as cost, which no row carried until now. **Observed at a grain a build meets these at, five are four**: a magnitude driven, a reference held at two of its three positions, a rate held, and a returned parity. A reference held at its third position, a middle held as an end, is one this file's own arrivals reach least. **And most of physics's hard problems carry two or three at once, they surface as bottomless** — problem of time carries all three.
+
+| Measurement problem | a between held as a cut | met at 4.4 |
+
+| Bell correlations | a between held as a cut | met at 4.4 |
+
+| Wave and particle | a between held as a cut | met at 4.4 |
+
+| Quantum interpretation debate | a middle held as an end | met at 4.4 |
+
+| Work and waste heat, a ledger taken as the world | a between held as a cut | met at 4.5 |
+
+| Mass gap, at Yang–Mills | a middle held as an end | met at 4.6 |
+
+| Quantum gravity | a rate held to a value | met at 4.7 |
+
+| Simultaneity and the present | a sequencing held to one beat | met at 4.8 |
+
+| Presentism and eternalism | a sequencing held to one beat | met at 4.8 |
+
+| Problem of time in quantum gravity | a sequencing held to one beat | met at 4.8 |
+
+| Arrow of time | an arriving held from behind | met at 4.8 |
+
+| Block universe and low-entropy past | an arriving held from behind | met at 4.8 |
+
+| Black hole information | a carry held as a store | met at 4.9 |
+
+| Mechanism of high-temperature superconductivity | a middle held as an end | met at 4.10 |
+
+| Matter and antimatter asymmetry | an arriving held from behind | met at 4.5 |
+
+| Substance and bundle | a middle held as an end | met at 4.12 |
+
+| Ubiquitous one-over-f noise | an arriving held from behind | standing |
+
+| strange metal | an arriving held from behind | standing |
+
+| origin of neutrino mass | an arriving held from behind | standing |
+
+| initiation of plate tectonics | an arriving held from behind | standing |
+
+| Cosmic inflation and primordial perturbations | an arriving held from behind | standing |
+
+| origin of supermassive black holes | an arriving held from behind | standing |
+
+| Geomagnetic reversals | an arriving held from behind | standing |
+
+| sources of ultrahigh-energy cosmic rays | a carry held as a store | standing |
+
+| solar dynamo and sunspot cycle | a middle held as an end | standing |
+
+| Coronal heating and solar-wind acceleration | a middle held as an end | standing |
+
+| Gibbs paradox | a parity held as a magnitude | standing |
+
+| Proton spin decomposition | a parity held as a magnitude | standing |
+
+| absolute neutrino mass scale | a parity held as a magnitude | standing |
+
+| axiomatization of physics | a sequencing held to one beat | standing |
+
+| 100,000-year glacial cycle | a sequencing held to one beat | standing |
+
+| Magnetospheric substorm triggering | a sequencing held to one beat | standing |
+
+| Earthquake predictability | a sequencing held to one beat | standing |
+
+| Standard Model flavor puzzle | a rate held to a value | standing |
+
+| new-physics flavor puzzle | a rate held to a value | standing |
+
+| solar abundance problem | a rate held to a value | standing |
+
+| primordial lithium problem | a rate held to a value | standing |
+
+| neutron lifetime discrepancy between beam and bottle measurements | a rate held to a value | standing |
+
+| Dirac or Majorana neutrinos | a two-way held to one side | standing |
+
+| nature of cosmic acceleration | a two-way held to one side | standing |
+
+| Mantle plumes | a two-way held to one side | standing |
+
+| quantum-classical boundary | a between held as a cut | standing |
+
+| Water's liquid-liquid critical point | a between held as a cut | standing |
+
+**And a register surfaces at a grain a build meets these at.** Of forty-eight at holdings, twenty-one stand at a reference held, thirteen at a rate held, eight at a returned parity entered as cost and six at a magnitude driven. **One error at 2.5 carries all four and this file's arrivals reach the first hardest**, ten of them at an arriving held from behind. A field asked where its own hard problems pile answers at a reference, which is a holding put behind a coupling, ahead of it, or at its middle.
+
+**And a ring's own binary carries here and does not close.** Ten stand as five couplings, an odd side entering and an even side surfacing, and one binary asks at each whether its entering side carries more. At this field's fifty it returns yes at four and no at one: ten against none, five against two, six against three, seven against six, and then three against six at the last, where a two-way held to one side carries less than a between held as a cut. **Thirty-one stand at a between's side and seventeen within.** One field is one field, and a phase is an assembly's rather than any field's own.
