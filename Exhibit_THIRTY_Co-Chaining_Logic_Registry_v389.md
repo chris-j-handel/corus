@@ -917,7 +917,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: the three parities parted.*
 
-197. The method written as sequential binary logic, its functions and each variable within them the seventeen names and no others, and beside them two lists at names not of the seventeen, one of six of the names, 2, 6, 9, 10, 14 and 17, and a second of four pairs among them, 6 to 2, 10 to 14, 9 to 17 and 17 to 9, is the resolver: the method executable.
+197. The method written as sequential binary logic, its functions and each variable within them the seventeen names and no others, is the resolver: the method executable.
 
         *Adding: the resolver.*
 

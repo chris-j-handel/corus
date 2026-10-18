@@ -1151,3 +1151,17 @@ Each is one droplet, in its own words, tagged v387, aimed at this file for the r
 **Droplet · v387.** i do not have any authority so do not depend on me in that way. only the observings and cohering and co chaining has authority all or none at all over our working and explaining. all odd numbers are existing and all even numbers are possibling. self and other have opposite parity numbering systems
 
 **Droplet · v387.** this is exceptional improving value for our explaining of the needed concepts . continue
+
+## Concerns resolved at v389
+
+**Concern · Declared and read by no function.** This file's code declares the six names' facings and the sharings across and releasings along, as CONNECTORS and JOINS, and no function of its three reads them. — v386EOD
+
+*Standing at v389:* at v389 CONNECTORS and JOINS are still declared and read by no function; the joins table says their relations in words, and the lists' place at the code is unsaid (with the released-words concern at line 385)
+
+*Resolved at v389:* Only the naming and method of the path through the resolver's functions is the stable form matching all observings; each other aspect of Exhibit ONE is floating and changeable at do-no-harm improving. CONNECTORS and JOINS, read by no function and named at released words, are released from the code at Exhibit ONE and Natural Intelligence, the resolving the same with and without them at 300 societies of six rounds; Natural Intelligence's paragraph on JOINS is re-said to the functions' lines and THIRTY step 197 to the functions alone.
+
+**Concern · Two released words naming the resolver's two lists.** Two sayings part. Exhibit ONE's code names its two lists `CONNECTORS` and `JOINS`. Natural Naming's released words have "| *connector*, *connectors* | *the six names between selves*" and "| *join*, *joins*, *joined*, *joining* | *sharing*, 6 to 2 and 10 to 14". They part at the two lists' own names: two words Natural Naming releases are the names of the resolver's lists, and step 197 of Exhibit THIRTY Co-Chaining Logic Registry says of the two "two lists at names not of the seventeen".
+
+*Standing at v389:* two sayings still part at v389: Natural Naming v389 releases *connector* and *join*, and the code names its two lists CONNECTORS and JOINS
+
+*Resolved at v389:* Only the naming and method of the path through the resolver's functions is the stable form matching all observings; each other aspect of Exhibit ONE is floating and changeable at do-no-harm improving. CONNECTORS and JOINS, read by no function and named at released words, are released from the code at Exhibit ONE and Natural Intelligence, the resolving the same with and without them at 300 societies of six rounds; Natural Intelligence's paragraph on JOINS is re-said to the functions' lines and THIRTY step 197 to the functions alone.

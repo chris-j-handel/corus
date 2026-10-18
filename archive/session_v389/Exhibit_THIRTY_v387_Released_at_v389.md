@@ -631,3 +631,7 @@ a self's sameness across its momentaries is that unrelationing
 *Adding: an accounting, and no second method.*
 
 an accounting, and no second method
+
+## Released at v389: two lists no function reads, the resolving the same with and without them
+
+its functions and each variable within them the seventeen names and no others, and beside them two lists at names not of the seventeen, one of six of the names, 2, 6, 9, 10, 14 and 17, and a second of four pairs among them, 6 to 2, 10 to 14, 9 to 17 and 17 to 9, is the resolver: the method executable.

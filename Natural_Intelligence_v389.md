@@ -289,15 +289,6 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
                        _14_next_possibling[_13_next])
             for _13_next in _16_next_still_possibling}
 
-CONNECTORS = {
-    2: ('2-now-possibling', 'arriving'),
-    6: ('6-now-co-possibling', 'sharing'),
-    9: ('9-next-co-changing', 'along'),
-    10: ('10-next-co-possibling', 'sharing'),
-    14: ('14-next-possibling', 'arriving'),
-    17: ('17-next-now', 'along'),
-}
-JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 ```
 
 ```text
@@ -1023,7 +1014,7 @@ At the resolver 6 is 10, one changing shared at two names, at the sharing self; 
 
 **At each join co is the sharing side and its absence the arriving side**, 6 to 2, 10 to 14 and 9 to 17: a self shares its changing, and nothing of its prior crosses to another self.
 
-**`JOINS` declares two sharings across, 10 to 14 and 6 to 2, and one releasing along at its two momentaries, 9 to 17 the releasing and 17 to 9 its arriving.** Across, each brings its parity, even to even; along, odd to odd. At the resolver, 17 brings each release into the receiving self's offerings next, 4.6. **9 is the next prior and 17 the next now**: along, the parity 9 releases is the prior the receiving self is offered next, and 17 is that self's next now: the declared 9 with 17 and the arriving at 14 are one relation at two momentaries.
+**At 17-next-now each self's 10-next-co-possibling is one list at 6, at 10 and at 9, each ± and each 0, offered to each self 5-now-co-changing couples at that name, and arriving at its 14-next-possibling, its offerings next at 2-now-possibling, 4.6.** 6 and 10 are even, across, and 9 odd, along. **9 is the next prior and 17 the next now**: along, a parity 9 releases is a prior a receiving self is offered next, and 17 is that self's next now.
 
 **Exhibit ONE's drawing draws one self between them**: the joins at its edges, across at the sides and along at the top and bottom, and the self's own resolving within. Offerings arrive at 2 and surface at 14; with the prior, 3 with its sharings 4 and parities 7, they reach 12, changing or not; 10 shares across, 11 is the next 3, and 9 releases along by 5, with 13 and 15 at its side; 6 shares across to another self's 2; and 8 and 16 are the self's next prior and the society.
 

@@ -4,7 +4,7 @@ Exhibit ONE Natural Resolver Offerings · improved at v389
 
 ## Standing from the sessions before v389 · v389
 
-**Read at v389.** The sessions before v389 laid 335 items here; read at v389 against [Exhibit ONE Natural Resolver v389](../Exhibit_ONE_Natural_Resolver_v389.md), 105 are carried at it, 106 rest on forms v389 released, 81 say a value another item says, and 19 rose into it at v389, each standing whole with its reading at [`archive/session_v389/offerings_dissolved/Exhibit_ONE_Offerings_to_Natural_Resolver_before_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_ONE_Offerings_to_Natural_Resolver_before_v389.md). The 24 concerns below stand, each as it was laid, with the reason it stands.
+**Read at v389.** The sessions before v389 laid 335 items here; read at v389 against [Exhibit ONE Natural Resolver v389](../Exhibit_ONE_Natural_Resolver_v389.md), 105 are carried at it, 106 rest on forms v389 released, 81 say a value another item says, and 19 rose into it at v389, each standing whole with its reading at [`archive/session_v389/offerings_dissolved/Exhibit_ONE_Offerings_to_Natural_Resolver_before_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_ONE_Offerings_to_Natural_Resolver_before_v389.md). The 24 concerns read at v389 stood below, each as it was laid, with the reason it stands; 22 stand now, the rest resolved at v389 and at the archive.
 
 **Offering · Five parities.** Prior existing, prior possibling, now existing, still possibling and next existing are offered beside the current five-column table, with each correspondence to be followed before changing its headings.
 
@@ -25,10 +25,6 @@ Exhibit ONE Natural Resolver Offerings · improved at v389
 **Droplet · The units of a spiral and a torus are resolvers.** The units of this file's spirals and toruses are resolvers: the geodesic method in stable form, an engineered outward scaling. The resolvers of one surface are inside one self: the natural network surface is a single self at each momentarying, locally. This file heads its tables "A spiral of selves" and names the units selves.
 
 *Standing at v389:* two sayings part: the droplet names the units of the spirals and toruses resolvers, inside one self; v389 names them selves ('each a self, and the society is its selves', 'A spiral of selves'), each self's 1-now its own
-
-**Concern · Declared and read by no function.** This file's code declares the six names' facings and the sharings across and releasings along, as CONNECTORS and JOINS, and no function of its three reads them. — v386EOD
-
-*Standing at v389:* at v389 CONNECTORS and JOINS are still declared and read by no function; the joins table says their relations in words, and the lists' place at the code is unsaid (with the released-words concern at line 385)
 
 **Droplet · The bi-folding in the naming, and the pairing at ten.** The bi-folding in the naming is offered beside 1, 2, 3, 4, 5, 4, 3, 2, 1: the self's five going out and coming to the next 1, one span of eight. Beside it is a pairing at ten, each n of 1 to 9 with 10 − n: 1 with 9, 2 with 8, 3 with 7, 4 with 6, and 5 with itself. Exhibit ONE Natural Resolver's table "One move, 1 to 4" has three moves, "8 up: n + 8", "9 less: 9 − n, within 1 to 8" and "17 less: 17 − n, within 1 to 16", and no pairing at ten. The relation of the pairing at ten to the three moves is followed at no file. — v386EOD
 
@@ -73,10 +69,6 @@ there is still value in twenty eight exploring as we did not finish our understa
 **Concern · Two layings of the next scale inward.** Two sayings part. Natural Resolver has, at its table of three scales, "The next scale inward, eight 1 to 17s: n is 8n − 7". Natural Numbers has "The pairs step the chain two parities at a time, 5, 17, 65 and 257" and "No scaling is taken over another: each is the chain at its own step." They part at which names inward the four across names are: at 8n − 7 each of the six names between selves is a 9 or a 17 inward, between selves at both scales; at the pairs' step, n at 4n − 3, four 1 to 17s are inward, 1 to 5, 5 to 9, 9 to 13 and 13 to 17, the across names 2, 6, 10 and 14 are their 5s, 5-co-bi-co-competencing, of the self's own resolving, and the outward 2 is this 5. The table has one laying alone.
 
 *Standing at v389:* two layings of the next scale inward still part at v389: Exhibit ONE's 'n is 8n − 7' and Natural Numbers' pairs stepping '5, 17, 65 and 257'; the table has one laying alone
-
-**Concern · Two released words naming the resolver's two lists.** Two sayings part. Exhibit ONE's code names its two lists `CONNECTORS` and `JOINS`. Natural Naming's released words have "| *connector*, *connectors* | *the six names between selves*" and "| *join*, *joins*, *joined*, *joining* | *sharing*, 6 to 2 and 10 to 14". They part at the two lists' own names: two words Natural Naming releases are the names of the resolver's lists, and step 197 of Exhibit THIRTY Co-Chaining Logic Registry says of the two "two lists at names not of the seventeen".
-
-*Standing at v389:* two sayings still part at v389: Natural Naming v389 releases *connector* and *join*, and the code names its two lists CONNECTORS and JOINS
 
 **Droplet · Two fours, the one derived from the other.** Beside the droplet at these offerings of two fours alike as numbers: the one four is derived from the other at the Co-Chaining Logic Registry's round. Its rows 1 to 4, at the self's and the other's outward parities, are the four joint forms two selves coupled pass, and its rows 5 to 8 are the same four in the other order with the self's inward inverted. A self's four momentaries of exchanging, 1–2, 3–4, 5–6 and 7–8, are the four changings of the self's outward parity; the other's, 2–3, 4–5, 6–7 and 8–9, change the other's outward, the self's inward, the other's outward and the other's inward. Two selves alone are at their opening form again at four; a self in society has its inward inverted at 4 to 5 and goes on, Natural Intelligence's "all four, one cycle at the parities and a spiral at the momentaries".
 

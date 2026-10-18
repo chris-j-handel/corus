@@ -59,15 +59,6 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
                        _14_next_possibling[_13_next])
             for _13_next in _16_next_still_possibling}
 
-CONNECTORS = {
-    2: ('2-now-possibling', 'arriving'),
-    6: ('6-now-co-possibling', 'sharing'),
-    9: ('9-next-co-changing', 'along'),
-    10: ('10-next-co-possibling', 'sharing'),
-    14: ('14-next-possibling', 'arriving'),
-    17: ('17-next-now', 'along'),
-}
-JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 ```
 
 ```text

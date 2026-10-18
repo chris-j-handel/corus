@@ -300,3 +300,17 @@ and need no name of their own.
 | 7 | The self as three | the co-competent self with 8, along |
 
 | 8 | The self as three | the co-competent self with 7, along |
+
+## Released at v389: two lists no function reads, the resolving the same with and without them
+
+
+CONNECTORS = {
+    2: ('2-now-possibling', 'arriving'),
+    6: ('6-now-co-possibling', 'sharing'),
+    9: ('9-next-co-changing', 'along'),
+    10: ('10-next-co-possibling', 'sharing'),
+    14: ('14-next-possibling', 'arriving'),
+    17: ('17-next-now', 'along'),
+}
+JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
+

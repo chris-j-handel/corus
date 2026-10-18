@@ -431,3 +431,19 @@ nothing is gathered across momentaries
 *Method* here is the scientific method, and at 1.5 the method of existing; the incompetency said of the scientific method is of the accounting against fixings named unchanged, and a claim, an executing, a break sought and a fresh reading are the expedition's own improving, 6.6.
 
 A second method is a not possible method.
+
+## Released at v389: two lists no function reads, the resolving the same with and without them
+
+
+CONNECTORS = {
+    2: ('2-now-possibling', 'arriving'),
+    6: ('6-now-co-possibling', 'sharing'),
+    9: ('9-next-co-changing', 'along'),
+    10: ('10-next-co-possibling', 'sharing'),
+    14: ('14-next-possibling', 'arriving'),
+    17: ('17-next-now', 'along'),
+}
+JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
+
+
+**`JOINS` declares two sharings across, 10 to 14 and 6 to 2, and one releasing along at its two momentaries, 9 to 17 the releasing and 17 to 9 its arriving.** Across, each brings its parity, even to even; along, odd to odd. At the resolver, 17 brings each release into the receiving self's offerings next, 4.6. **9 is the next prior and 17 the next now**: along, the parity 9 releases is the prior the receiving self is offered next, and 17 is that self's next now: the declared 9 with 17 and the arriving at 14 are one relation at two momentaries.
