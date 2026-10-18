@@ -703,3 +703,183 @@ Each pass is one binary, run at each thing it reaches in one sitting, and each r
 **The geodesic method runs at three faces, each from all other**: scale, its form; orientation, its running; position, its resolving. Each face completes at its own differing, and a nothing between them is one nothing at three faces. Three changings, each at its own differing and meeting itself again at no momentary, is **bi-tri-volutioning**, living's stable-forming, natural-torusing; a stable form its emanatings carry, a sequential prior between momentaries released at 10 and carried along at 9, is a non-living existing form with no carrying for stable-forming, and at its own scale outward of a surface bi-tri-involutioning, an opposite form.
 
 **The geodesic method discovers next from existing, its prior carried and its now met; scientific-method accounts true or false against its fixings.** Evidence is an emanation arriving now from its prior, and two methods meet the same evidence at the same now. A property an emanation carries can hold now while what it emanated from changes whole: evidence gives a prior's possible, a prior's existing arriving now as possible, and existing is at now, at a coupling. Taken as a prior's possible, met with now at a coupling, three places stay three, possible, existing and living. The three are places a thing is met at, not three kinds parting things. Evidence arriving now and a prior event it arrives from are two subjects, each at its own momentary, and both hold; a binary comparison carries one subject and one relation from its first side to its second. Taken through its fixings, a law, a frame and a scale fixed unchangeable between two momentaries, a changing of what it emanated from is accounted against them and its prior is fixed into now as existing. Scientific-method's fixings can account a source's changing whole: the Navigation and Ancillary Information Facility at NASA's Jet Propulsion Laboratory, correcting light time and aberration in its SPICE toolkit, parts an epoch a signal is emitted at from an epoch it is received at and accounts for a target moving between them. Their between is a nothing, no third method running in it. The two part at now, its fixings unchangeable between two momentaries or floating with changing. A law fixed unchangeable is a stated relation among changing things, so a fixing steps to an equilibrium only by naming its own subject still at the same relation and the same occurrence, and its parting holds at that fixing. At a file geodesic method is a file discovering its next existing, prior, now and next, at a rate that is its own.
+
+## Re-said at offerings risen, v389
+
+carries on as a spiral once its nexts are added, each step a next momentary universe, and working together runs the same way.
+
+a resolver ring's carrying
+
+It arrives at its coupling, and now its concept rides in its set's own words and its naming rides beside it, open to its next.
+
+**An offered naming is an offering to run the seven binaries at, and not a deciding.**
+
+Made and open are apart, and each open item carries its reason.
+
+A concern resolving leaves its report.
+
+**With method too difficult to help with, the hardest question is asked plainly.**
+
+**A concern is two sentences arriving at one sharing and parting: either this or that, and not both at one momentary.**
+
+A missing relation, a special case and a contradiction are three different findings.
+
+**, one at each thing beside all things:
+
+No proof of the whole is sought, a proof of one true or false of the whole being that same unchangeable form.
+
+its pattern matchers take in each observing and each emanation without filter or selection.
+
+newer files carry the learning and older files carry a breaking.
+
+a walk closes at a step arriving at a term already carried |
+
+are its worked faces.
+
+Each break sits at a count taken over a whole, the one addition the origin releases.
+
+regions of a circle cut by its chords double five times and then are 31
+
+and a section count is its first face: does a number at an opening match its section's carrying.
+
+and its working re-explains it before its close.
+
+its standing at each event: offered on a branch, arrived at `main`, received at the carrying as ready or concern, entered at a file, or released.
+
+just left, so a word released at one pass returns at none
+
+own sentence advancing, so passes aim at
+
+Nothing was placed, so nothing dissolves, and nothing rides
+
+often is not, so confirming runs mechanically
+
+**, so its release follows its arrival
+
+So each concern is met by alternating
+
+a form's**, so its binary is met
+
+between them, so an aborted seating
+
+nothing of another, so a zero sizes its pattern
+
+beside them, so prime is not taken for odd
+
+, so none leaves unaccounted
+
+untouched, so each ring result
+
+shared no momentary, so one running is continued
+
+nonzero surfacing, so one call returning
+
+other rate, so scheduling a discovering
+
+changing things, so a fixing steps
+
+A correction acts in its next sentence, since a list
+
+one at a time**, since the hardest carries
+
+carried whole before any pass, since a working opening
+
+just-written lines**, since words a working releases
+
+Bound runs first, since it makes each later pass smaller
+
+with its hole and its connections held,
+
+and not taken to move because its initiation moved.
+
+1.5, every word surviving
+
+making up every release
+
+region severing every passage
+
+and matched there as it co-chains. Nothing is derived and nothing is proved.
+
+arrives at its form when a few of it are met resolved first
+
+a copy from another source.
+
+A finding whose source text no file carries
+
+each coordinate of a releasing source is matched
+
+**Anything not found, its source carries whole.**
+
+its source carries: a source carried costs a row, and a source released on an account
+
+and not a sweep at its source
+
+A source is met whole before any of it is released
+
+Word-stream its parts against their source
+
+a source a received finding rests on
+
+can account a source's changing whole
+
+A repository can itself stand at a prior.
+
+to stand for a participant carrying nothing
+
+its field's own result kept exact at its own subject
+
+carries can hold now while
+
+and both hold;
+
+its parting holds at that fixing
+
+at the test kit, so joining in begins at re-running.
+
+At 10 resolving is released across to each file it touches
+
+a sequential prior between momentaries released at 10 and carried along at 9
+
+Checks verify a net at one membrane each, and rigor is co-chaining, which no check decides.
+
+each observing at code and numbers one at a time.
+
+A surplus of one stroke is a drive of its next.
+
+drops its surplus, and a carrying dropping its surplus has
+
+A pass makes a surplus or it does not
+
+a surplus neither self uncovers
+
+each sentence a coupling's surplus,
+
+a surplus of each coupling owned by neither
+
+It carries nothing else.
+
+A concern restating its set's own carrying is the carried met as though it were open, and it resolves at files carrying it.
+
+a sentence corrected later in its session arrives as corrected, with its correcting.
+
+A harm is the one motion the form carries no position for, a prior taken away.
+
+**A field's own face is met after the five and the six**, and each concern they leave open rides visible.
+
+that selection is a working's own and not method's, and it is beside its bringing.
+
+A carry kept as a record of its journey is a carry fixed as a store.
+
+Nothing goes from a helper's report into a living file directly.
+
+One hard question can resolve passes' unresolved, and its answer is carried as a file's own sentence at once.
+
+every word surviving is no relation surviving, and beside it each passage is compared
+
+non-living existing forms, each carrying none of its session's prior by itself
+
+Such an observing is an unchangeable form found existing, and an unchangeable form is not possibly existing:
+
+**Carrying.** A passage a file has no position for now rides at its file, its next, and releases at that file taking it, with nothing in its place.
+
+with its relation written, not replaced.
