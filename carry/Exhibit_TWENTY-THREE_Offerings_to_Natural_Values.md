@@ -387,3 +387,11 @@ Each is a changing made at the set this session, said once here so that this fil
 **Droplet · Fourteen names read the same from either end, and three do not.** 1, 9 and 17 carry a direction, the entry and the two along names, odd, existing; the fourteen others, the across names and the self's own resolving, read the same both ways: direction is at existing, along, and bi-morality across is or is not.
 
 **Droplet · What arrives at no next does not exist.** This is the proof's own saying inside nature, and *a form named still* is a sayer's; where this file rests a saying on *a form named still*, the one sentence carries it, and the equilibria's proof, the inception's and the living-at-a-scale proof are one proof at three subjects.
+
+## Standing · v389
+
+*Concerns met at pass 3, each standing at this file and out of its living file until resolved.*
+
+**Concern · at a sentence.** Beside "It is a particular other at another scale, and a membrane a self couples at."
+
+*Standing at v389:* Natural Values 4.1 has, of society, "It is a particular other at another scale, and a membrane a self couples at". Natural Naming 2.4 carries *membrane* as "*a between*", "a between neither side's, a nothing, no location and no existing thing", and v389 has "a society is its selves". Re-said at a between, society would be a nothing beside its selves. **To resolve:** is society here its selves at a next scale, coupling with a self, or a between a self couples at?

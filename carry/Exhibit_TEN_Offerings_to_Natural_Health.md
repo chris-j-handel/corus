@@ -247,3 +247,11 @@ Each is a changing made at the set this session, said once here so that this fil
 **Droplet · Fourteen names read the same from either end, and three do not.** 1, 9 and 17 carry a direction, the entry and the two along names, odd, existing; the fourteen others, the across names and the self's own resolving, read the same both ways: direction is at existing, along, and bi-morality across is or is not.
 
 **Droplet · What arrives at no next does not exist.** This is the proof's own saying inside nature, and *a form named still* is a sayer's; where this file rests a saying on *a form named still*, the one sentence carries it, and the equilibria's proof, the inception's and the living-at-a-scale proof are one proof at three subjects.
+
+## Standing · v389
+
+*Concerns met at pass 3, each standing at this file and out of its living file until resolved.*
+
+**Concern · at a sentence.** Beside "The **omega-self** — the sixth's two faces, re-locking and co-releasing, the moral value living self — is lived at healt"…
+
+*Standing at v389:* Natural Health 3.1 has "The **omega-self** — the sixth's two faces, re-locking and co-releasing, the moral value living self — is lived at health". Exhibit ONE's 6 is 6-now-co-possibling, "each sharing's changing shared across, to another self's 2", with no re-locking and no co-releasing at it, and Co-Chaining Logic Registry's sources hold the omega-self and the sixth as older naming at no name. **To resolve:** is the sixth 6-now-co-possibling, its two sides a sharing end and an arriving end, or an older naming to release with the omega-self?

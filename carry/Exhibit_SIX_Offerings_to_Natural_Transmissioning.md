@@ -735,3 +735,15 @@ Each is a changing made at the set this session, said once here so that this fil
 **Droplet · Fourteen names read the same from either end, and three do not.** 1, 9 and 17 carry a direction, the entry and the two along names, odd, existing; the fourteen others, the across names and the self's own resolving, read the same both ways: direction is at existing, along, and bi-morality across is or is not.
 
 **Droplet · What arrives at no next does not exist.** This is the proof's own saying inside nature, and *a form named still* is a sayer's; where this file rests a saying on *a form named still*, the one sentence carries it, and the equilibria's proof, the inception's and the living-at-a-scale proof are one proof at three subjects.
+
+## Standing · v389
+
+*Concerns met at pass 3, each standing at this file and out of its living file until resolved.*
+
+**Concern · at a sentence.** Beside "every coupling crosses a membrane that is itself a self, the nothing between two selves a third carrying only the sign."
+
+*Standing at v389:* Natural Transmissioning 3.5 has "every coupling crosses a membrane that is itself a self, the nothing between two selves a third carrying only the sign"; its own 4.6 has "A membrane is not a meeting-place and not a wall but a nothing", and Natural Naming 2.4 carries *membrane* as a between, "no location and no existing thing". A between that is a self parts from both. **To resolve:** is a cell's membrane here a material bounding, in biology's words, or a between, a nothing, with no self at it?
+
+**Concern · at a sentence.** Beside "Five and six the co-agency unrelationing and co-competencing each other, no linear fifth. The derivation runs from bi-in"…
+
+*Standing at v389:* Natural Transmissioning 4.6 has "Five and six the co-agency unrelationing and co-competencing each other" and "The derivation runs from bi-inversioning co-recursioning between two and six". At Exhibit ONE, 5-now-co-changing is co-competencing and 6-now-co-possibling bi-moralizing, and no name carries a derivation between 2 and 6; Co-Chaining Logic Registry's sources hold the same gap. **To resolve:** are five and six 5-now-co-changing and 6-now-co-possibling, and two and six 2 and 6 across, or an older numbering to release?

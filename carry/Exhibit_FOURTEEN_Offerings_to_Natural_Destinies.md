@@ -345,3 +345,11 @@ Each is a changing made at the set this session, said once here so that this fil
 **Droplet · Fourteen names read the same from either end, and three do not.** 1, 9 and 17 carry a direction, the entry and the two along names, odd, existing; the fourteen others, the across names and the self's own resolving, read the same both ways: direction is at existing, along, and bi-morality across is or is not.
 
 **Droplet · What arrives at no next does not exist.** This is the proof's own saying inside nature, and *a form named still* is a sayer's; where this file rests a saying on *a form named still*, the one sentence carries it, and the equilibria's proof, the inception's and the living-at-a-scale proof are one proof at three subjects.
+
+## Standing · v389
+
+*Concerns met at pass 3, each standing at this file and out of its living file until resolved.*
+
+**Concern · at a sentence.** Beside "four from within and four met at the membrane, one alternating at its faces, whole or none, and each of the eight a nami"…
+
+*Standing at v389:* Natural Destinies, *Safely outward*, has "each of the eight a naming beginning at bi- at the resolver's table of eight, four at the even depth and four at the odd"; Natural Intelligence 4.10 has "Eight bi-couplings are at even names, four at now and four at next, each 8 up". Exhibit ONE has no table of eight, and its even names are each possibling, so an odd depth meets no numbered name. **To resolve:** are Destinies' eight safeties Natural Intelligence's eight bi-couplings at even names, or a relation to keep apart?
