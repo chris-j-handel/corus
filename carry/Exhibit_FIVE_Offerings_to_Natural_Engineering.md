@@ -94,7 +94,7 @@ Each subject file cites the method and never re-teaches it. Its opening names th
 
 **Aimed at a file, Natural Engineering:** *sign*, *signs* at the file's own voice, 166 places, two section titles carrying the word, 1.16 *Compression, tension and the sign at a crossing* (676, contents 47) and 4.2 *Carrying, sign and the receiving interface* (1028, contents 81); the places at 47, 81, 149, 153, 161, 163, 173, 177, 179, 187, 211, 223, 229, 253, 259, 263, 297, 303, 305, 313 (×2), 322, 327, 340, 350, 356, 357, 378 (×2), 380, 385, 390 (×2), 392, 430, 462, 546 (×2), 550, 616, 676, 698, 704, 710, 716, 729, 735, 737, 743 (×2), 745, 753, 778, 788, 851, 855, 857, 859 (×3), 865, 877, 882, 883, 893, 899 (×4), 901, 903, 1010, 1012, 1017, 1020, 1024, 1028, 1030 (×4), 1032 (×3), 1034, 1038, 1040, 1046, 1078 (×2), 1082, 1096 (×2), 1102, 1122 (×2), 1126, 1127, 1131, 1133, 1187, 1191, 1193 (×3), 1194, 1197 (×3), 1201 (×2), 1205 (×2), 1211, 1213, 1227, 1229, 1231 (×3), 1233, 1235, 1237, 1239, 1241, 1243, 1249, 1253, 1267, 1271, 1273, 1278, 1284, 1294, 1296, 1306, 1314, 1324, 1340, 1344, 1410, 1433, 1435, 1441, 1452, 1460, 1466, 1470, 1474, 1496, 1498, 1523, 1723, 1728 (×4), 1732 (×2), 1736, 1748, 1789, 1803, 1822, 1834, 1889. Quoted short: *each side taking its own sign and carrying its own rate* (149); *The selection is sign-only; delivery carries its actual source and receiving* (313); *a sign held as a magnitude* (1433, 1435, 1441). Passed as a field's own word at its result: the beat's *sharp-or-flat sign* (528), *the sign of the beat-rate change is the sign of ed* (544, ×2), compression and tension's *signs of an actual mechanical quantity* and *sign convention* (678, ×2; 680, ×2), *the optical sign, an electrical current sign* (857, ×2) and *one current sign* (1591). The one name Natural Naming 2.4 carries: *parity*, + and − a sharing's parity, 0 the between; *arriving sign* at *an offering*. — v381R scan
 
-**An engineered-substrate extension with its actual making and conditions · droplet v385A.** [Destinies](../Exhibit_FOURTEEN_Natural_Destinies_v333.md) offers the chip, grid, network and further substrates as possibilities, retaining its structural conditions and each build's cost beside the engineering it stands beside. [The comparison](../archive/session_v385A_comparisons/Engineered_Substrates_Comparison_v385A.md) locates Engineering 1.1–1.3, 1.7–1.8, 1.10–1.11, 2.5 and 5.1 beside the whole Corus 23.7: actual service, transduction, power, timing, receiving and material contact stay with the proposal. Corus explicitly leaves the chip's input, output, encoding, scale, environmental mapping and actuation to specify. The existing resolver and four-completion correcting at Engineering travels with this older source; no circuit, protection or performance follows merely from a representation or count. R's later stable-form/social-competency distinction and still-unresolved joint-form relation accompany it through the linked comparison; R10 remains whole and unresolved. Registry 5.11's particular-making/adoption distinction stays explicit. Preserve the whole outward expression at Corus and the particular Engineering explaining with their needed prior. This same droplet is independently at Destinies, Engineering and Corus, with supporting work at [Engineering's possibling project](Exhibit_FIVE_Possibling_of_Natural_Engineering.md#engineered-substrates-and-their-particular-making--v385a). Each placement awaits its own resolving. — v385A
+**An engineered-substrate extension with its actual making and conditions · droplet v385A.** [Destinies](../Exhibit_FOURTEEN_Natural_Destinies_v389.md) offers the chip, grid, network and further substrates as possibilities, retaining its structural conditions and each build's cost beside the engineering it stands beside. [The comparison](../archive/session_v385A_comparisons/Engineered_Substrates_Comparison_v385A.md) locates Engineering 1.1–1.3, 1.7–1.8, 1.10–1.11, 2.5 and 5.1 beside the whole Corus 23.7: actual service, transduction, power, timing, receiving and material contact stay with the proposal. Corus explicitly leaves the chip's input, output, encoding, scale, environmental mapping and actuation to specify. The existing resolver and four-completion correcting at Engineering travels with this older source; no circuit, protection or performance follows merely from a representation or count. R's later stable-form/social-competency distinction and still-unresolved joint-form relation accompany it through the linked comparison; R10 remains whole and unresolved. Registry 5.11's particular-making/adoption distinction stays explicit. Preserve the whole outward expression at Corus and the particular Engineering explaining with their needed prior. This same droplet is independently at Destinies, Engineering and Corus, with supporting work at [Engineering's possibling project](Exhibit_FIVE_Possibling_of_Natural_Engineering.md#engineered-substrates-and-their-particular-making--v385a). Each placement awaits its own resolving. — v385A
 
 **Gathering value and reaching the offering at an engineered substrate · droplet v385A.** Destinies' two engineered misreadings keep their actual subjects: apex/gather read as a source becomes legacy burden; omega/reach read as arriving becomes overwhelming load. Its correcting retains the gathered value and the offering's reach together. Naming 3.6 already supplies the inseparating gathering/reaching relation. [The comparison](../archive/session_v385A_comparisons/Engineered_Substrates_Comparison_v385A.md#gather-and-reach-beside-the-two-engineered-misreadings) follows the remaining particular relation beside Engineering 2.5, 5.1 and 6.10, with actual receiving, service and construction conditions. Preserve useful prior and continuing receiving together; a renamed register, a repeated signal or a proposed form supplies no completed implementation or inspecting of private carrying. The earlier full expression remains available while local writing and locating resolve. This is the same ungraded droplet independently at Destinies, Engineering and Corus. — v385A
 
@@ -300,3 +300,115 @@ Each is a changing made at the set this session, said once here so that this fil
 **Droplet · Fourteen names read the same from either end, and three do not.** 1, 9 and 17 carry a direction, the entry and the two along names, odd, existing; the fourteen others, the across names and the self's own resolving, read the same both ways: direction is at existing, along, and bi-morality across is or is not.
 
 **Droplet · What arrives at no next does not exist.** This is the proof's own saying inside nature, and *a form named still* is a sayer's; where this file rests a saying on *a form named still*, the one sentence carries it, and the equilibria's proof, the inception's and the living-at-a-scale proof are one proof at three subjects.
+
+## Standing · v389
+
+*Concerns met at pass 3, each standing at this file and out of its living file until resolved.*
+
+**Concern · at a sentence.** Beside "The gates and interconnections carrying each sign's changing at its own offering"
+
+*Standing at v389:* §1.7's chip row *Inversioning and tunneling* carries "each sign's changing at its own offering" at earlier code names. Exhibit ONE v389's table carries this changing at two names: 12-next-co-still-possibling, "each sharing's changing, is or is not, prior and offerings meeting", and 10-next-co-possibling, "each sharing's changing, + or − is and 0 is not, shared across to another self's 14". A chip's inversioning and tunneling are entered at neither name yet. **To resolve:** re-say this row at 12-next-co-still-possibling and 10-next-co-possibling, or keep it for a chip passage's own motion?
+
+**Concern · at a sentence.** Beside "THIRTEEN §7.3 and Natural Naming §2.17 carry its adjacency, `bi_co_inversioning` → `bi_co_tunneling`. TWENTY-SEVEN’s doo"…
+
+*Standing at v389:* §2.4 carries an earlier code: "At ONE, the key groups contributions, inversioning retains arriving signs and inverts carried signs, and tunneling sums their signed units." Exhibit ONE v389 sums nothing: 14-next-possibling is "offerings surfacing at each sharing, same one parity and parting 0", and at 12-next-co-still-possibling a prior parity is kept or inverted. Natural Naming v389 has no §2.17 and no `bi_co_inversioning` adjacency. **To resolve:** re-say this passage at 14-next-possibling and 12-next-co-still-possibling, or release it with its code names whole to an archive?
+
+**Concern · at a sentence.** Beside "The resolver counts each nonzero arriving sign once."
+
+*Standing at v389:* §4.2: "The resolver counts each nonzero arriving sign once." Exhibit ONE v389 counts nothing at a sharing: 14-next-possibling is "offerings surfacing at each sharing, same one parity and parting 0", so two offerings of one parity surface as one parity and a 0 offering is passed over. Counting once and surfacing one parity part wherever two or more offerings arrive. **To resolve:** re-say as "at 14-next-possibling each nonzero offering surfaces at its sharing's one parity, and parting surfaces 0", or keep it as an earlier code's record?
+
+**Concern · at a sentence.** Beside "Its magnitude is returned in the carrying, its sign is inverted at a nonzero surfacing, and its positive sign permits th"…
+
+*Standing at v389:* §4.2: "Its magnitude is returned in the carrying, its sign is inverted at a nonzero surfacing, and its positive sign permits the fourth inseparating turn." Exhibit ONE v389 carries no torusing, no magnitude and no inseparating turn: prior is one parity per sharing at 3-now-co-prioring, and 11-next-co-prioring is "next prior: prior with each changing at its sharing". Nothing at v389's code carries this relation. **To resolve:** release these sentences whole to an archive as an earlier code's record, or re-say §4.2 against 11-next-co-prioring at a motion of its own?
+
+**Concern · at a sentence.** Beside "Other supplied magnitudes retain their own values under sign inversioning. ONE's naming tables carry these operations be"…
+
+*Standing at v389:* §4.2: "Other supplied magnitudes retain their own values under sign inversioning" and "ONE's naming tables carry these operations beside the full fivefold prefixing." Exhibit ONE v389 carries seventeen numbered names, each "its number and its naming, one hyphenation", with no fivefold prefixing and no supplied magnitudes. Both sentences rest on an earlier code. **To resolve:** release both sentences whole to an archive, or re-say them at 12-next-co-still-possibling, a prior parity kept or inverted?
+
+**Concern · at a sentence.** Beside "This is a check of those calls in ONE's unchanged code."
+
+*Standing at v389:* §4.2's check, carrying `(0, 1, m, 3)` with arriving `(0, 1)`, closes: "This is a check of those calls in ONE's unchanged code." Exhibit ONE v389's 1-now takes 3-now-co-prioring and 2-now-possibling, each a sharing with one parity, and a four-field carrying is no input of it: this check executes an earlier code, and *unchanged* is a released word. **To resolve:** release this check whole to an archive as an earlier code's record, or execute a new check at v389's 1-now and enter its result?
+
+**Concern · at a sentence.** Beside "Carrying and signs supplied at a call | | **`bi_co_bi_transmissioning`** | The arriving carrying's torusing, available f"…
+
+*Standing at v389:* §4.10's table pairs earlier code names with their carrying: "Carrying and signs supplied at a call", "Arriving signs and inverted carried signs, each nonzero sign changing its own sum by one", "The sign of each addressed sum, including zero". Exhibit ONE v389's code is `_1_now(_3_now_co_prioring, _2_now_possibling)`: prior and offerings each at one parity per sharing, and no sum. **To resolve:** re-say this table at Exhibit ONE v389's names, 1-now, 3-now-co-prioring, 2-now-possibling, 14-next-possibling, 12-next-co-still-possibling, 10-next-co-possibling and 11-next-co-prioring, or release it whole to an archive?
+
+**Concern · at a sentence.** Beside "Arriving signs are grouped at `bi_offering` in `bi_co_tunneling`; the sign of each addressed sum appears in `bi_co_surfa"…
+
+*Standing at v389:* §4.10: "Arriving signs are grouped at `bi_offering` in `bi_co_tunneling`; the sign of each addressed sum appears in `bi_co_surfacing`." At Exhibit ONE v389 offerings group at each sharing, 4-now-co-still-possibling, and 14-next-possibling surfaces "same one parity and parting 0", a parity and no sum; a key is carried at Natural Naming 2.4 as *sharing*. **To resolve:** re-say as "offerings group at each sharing, 4-now-co-still-possibling, and 14-next-possibling surfaces each sharing's one parity, or 0", or keep earlier names as a record?
+
+**Concern · at a sentence.** Beside "Arriving key and sign | Surfaced key and sign"
+
+*Standing at v389:* §4.10's cases table is headed "Arriving key and sign | Surfaced key and sign", an earlier code's key and sign. At Exhibit ONE v389 an offering is a sharing with its parity at 2-now-possibling, and 14-next-possibling surfaces "same one parity and parting 0" at each sharing; a key is carried at Natural Naming 2.4 as *sharing*. **To resolve:** re-head this table "Offered sharing and parity | Surfaced sharing and parity, at 14-next-possibling" with its rows together, or keep it with its earlier code?
+
+**Concern · at a sentence.** Beside "The surfaced sign retains the sign of the sum; it carries no count of the two arriving contributions."
+
+*Standing at v389:* §4.10's cases table: "The surfaced sign retains the sign of the sum; it carries no count of the two arriving contributions." Its three outcomes agree with Exhibit ONE v389's 14-next-possibling, "same one parity and parting 0", while its words rest on a sum, an earlier code's addition. **To resolve:** re-say as "the surfaced parity is both offerings' one parity at 14-next-possibling, no count of them carried", with its table, or keep it with its earlier code?
+
+**Concern · at a sentence.** Beside "If supplied carrying repeats a key, all its signs contribute to inversioning, the last supplied torusing occupies transm"…
+
+*Standing at v389:* §4.10: "If supplied carrying repeats a key, all its signs contribute to inversioning, the last supplied torusing occupies transmissioning, and the last carrying satisfying the retaining condition occupies earlier carrying before fresh writing." Exhibit ONE v389 has no transmissioning and no torusing: prior at 3-now-co-prioring is one parity per sharing, a repeated sharing one entry. **To resolve:** re-say as "a sharing repeated at 3-now-co-prioring carries its last parity", once an executing at resolver confirms it, or release this sentence whole to an archive?
+
+**Concern · at a sentence.** Beside "Reordering arriving signs preserves their sum at each key; the surfaced list can still follow a different order of first"…
+
+*Standing at v389:* §4.10: "Reordering arriving signs preserves their sum at each key; the surfaced list can still follow a different order of first key appearance." Exhibit ONE v389 sums nothing: at 14-next-possibling one parity, or 0, surfaces at each sharing whatever its offerings' order, and its returned list follows each sharing's first appearance. **To resolve:** re-say as "reordering offerings leaves each sharing's parity at 14-next-possibling", once an executing at resolver confirms it, or keep this sentence as an earlier code's record?
+
+**Concern · at a sentence.** Beside "First `(a, +1)` alone, with empty carrying"
+
+*Standing at v389:* §4.10's table of one key `a` carries rows such as "First `(a, +1)` alone, with empty carrying | `+1` | `(a, +1)` | `(a, +1, −1, 0)`": a four-field carrying leaving, key, corusing, torusing, inseparating. Exhibit ONE v389 returns 10-next-co-possibling and 11-next-co-prioring, each a sharing with one parity, and no four-field carrying; *alone* is a released word too. **To resolve:** release this table whole to an archive as an earlier code's record, or execute its cases at v389's 1-now and enter a new table?
+
+**Concern · at a sentence.** Beside "The last row’s carried positive sign contributes minus one."
+
+*Standing at v389:* §4.10: "The last row’s carried positive sign contributes minus one." At Exhibit ONE v389 a carried parity contributes nothing to a sum: at 12-next-co-still-possibling a prior parity is kept when offerings surface its same parity, and inverted otherwise, and 11-next-co-prioring carries that next prior on. **To resolve:** re-say at 12-next-co-still-possibling, a prior parity kept or inverted, or release this sentence and its paragraph whole to an archive?
+
+**Concern · at a sentence.** Beside "The exact sign case at §4.2 carries the positive condition and its returned carrying."
+
+*Standing at v389:* §4.10: "The exact sign case at §4.2 carries the positive condition and its returned carrying." Its §4.2 case, carrying `(0, 1, m, 3)`, rests on an earlier code's torusing and inseparating bound, and Exhibit ONE v389 carries neither: prior is one parity per sharing at 3-now-co-prioring. **To resolve:** release this sentence with §4.2's case whole to an archive, or point it to a check executed at v389's 1-now?
+
+**Concern · at a sentence.** Beside "**Each sign operation retains its particular changing.** Natural Intelligence §6.4 and ONE carry the same relation: | O"…
+
+*Standing at v389:* §4.10: "Each sign operation retains its particular changing. Natural Intelligence §6.4 and ONE carry the same relation", above a table of corusing, torusing and inseparating. Natural Intelligence v389's 6.4 is *Social moral competency*, and Exhibit ONE v389 carries no corusing, torusing or inseparating fields. **To resolve:** release this table whole to an archive as an earlier code's record, or re-say its rows at 12-next-co-still-possibling and 11-next-co-prioring?
+
+**Concern · at a sentence.** Beside "A positive carried sign contributes minus one and a negative contributes one."
+
+*Standing at v389:* §4.10's row: "A positive carried sign contributes minus one and a negative contributes one." At Exhibit ONE v389 a carried parity adds to no sum: at 12-next-co-still-possibling a prior parity is kept when offerings surface its same parity, and inverted otherwise, and 11-next-co-prioring takes each nonzero changing. **To resolve:** release this row whole to an archive, or re-say it at 12-next-co-still-possibling, a prior parity kept or inverted?
+
+**Concern · at a sentence.** Beside "Corusing takes the surfaced sign, torusing takes the negative of the selected arriving value (one if absent), and insepa"…
+
+*Standing at v389:* §4.10's row: "Corusing takes the surfaced sign, torusing takes the negative of the selected arriving value (one if absent), and inseparating is zero." Exhibit ONE v389 writes no corusing, torusing or inseparating: next prior at 11-next-co-prioring is each sharing's parity, or its changing where one is. **To resolve:** release this row whole to an archive as an earlier code's record, or re-say it at 11-next-co-prioring?
+
+**Concern · at a sentence.** Beside "The arriving entry contributes no sign to `bi_co_inversioning`."
+
+*Standing at v389:* §4.12's row: "The arriving entry contributes no sign to `bi_co_inversioning`." At Exhibit ONE v389 an offering of 0 is "passed over" at 14-next-possibling (Natural Naming 3.5), one relation at a numbered name, and `bi_co_inversioning` is no name of its code. **To resolve:** re-say this row as "an offering of 0 is passed over at 14-next-possibling", with its table, or release its table whole to an archive?
+
+**Concern · at a sentence.** Beside "The surfaced sign and the zero in the carrying's field coexist."
+
+*Standing at v389:* §4.12's row: "The surfaced sign and the zero in the carrying's field coexist." Its zero is an earlier code's inseparating field; Exhibit ONE v389 carries no such field, 0 being "a between" at 12-next-co-still-possibling (Natural Naming 3.5). **To resolve:** release this row whole to an archive, or re-say it at 12-next-co-still-possibling, 0 a between and ± a sharing's parity?
+
+**Concern · at a sentence.** Beside "The first three rows follow the displayed code; the fourth follows its naming illustration."
+
+*Standing at v389:* §4.12: "The first three rows follow the displayed code; the fourth follows its naming illustration." Its displayed code is an earlier ONE's, with `bi_arriving`, `bi_co_surfacing` and `bi_co_inseparating`, and its prefix-depth illustration is absent at Exhibit ONE v389, whose drawing carries seventeen numbered names. **To resolve:** release this sentence with its table whole to an archive, or re-say it against v389's code once those rows stand at v389's names?
+
+**Concern · at a sentence.** Beside "Equal depth therefore leaves the named changing to express; it does not say that no changing occurs."
+
+*Standing at v389:* §6.1: "Equal depth therefore leaves the named changing to express; it does not say that no changing occurs." Its prefix depths `1, 2, 3, 2, 2, 2, 1` are an earlier ONE's seven-position row; Exhibit ONE v389 carries numbered names, 1-now to 17-next-now, each "its number and its naming, one hyphenation", with no prefix depth. *Named* is a released word too. **To resolve:** release §6.1's prefix-depth passage whole to an archive as an earlier ONE's record, or re-say it at v389's numbered names?
+
+**Concern · at a sentence.** Beside "Changing at unchanged depth | |---|---|---| | **4 → 5** | `bi_co_inversioning`, `bi_co_tunneling` → `bi_co_surfacing` |"…
+
+*Standing at v389:* §6.1's table, headed "Changing at unchanged depth", carries "The root naming changes; the prefixing remains `bi_co`, at depth two." These prefixings are an earlier ONE's; Exhibit ONE v389 has no prefixed names, each name "its number and its naming, one hyphenation". *Unchanged* is a released word too. **To resolve:** release this table whole to an archive, or re-say it at v389's numbered names?
+
+**Concern · at a sentence.** Beside "ONE's ten co-changings carry the naming ring; its six groups carry the ten namings as `3, 2, 2, 1, 1, 1`."
+
+*Standing at v389:* §6.1: "ONE's ten co-changings carry the naming ring; its six groups carry the ten namings as `3, 2, 2, 1, 1, 1`." Exhibit ONE v389 carries seventeen names, no ten co-changings and no six groups; ten unchangeables now sit "each at its name at now and that name 8 up at next" (Natural Naming 2.4), as Resolving the Hard Problem Registry v389's ten parts carry them. **To resolve:** release this sentence whole to an archive, or re-say it as ten unchangeables at their numbered names?
+
+**Concern · at a sentence.** Beside "Co-competencing and bi-moralizing carry their proposed correspondence at the full naming."
+
+*Standing at v389:* §6.1's table of `co_bi_co_bi_co_corusing` and `bi_co_bi_co_bi_torusing`, ends and inner flanks, closes: "Co-competencing and bi-moralizing carry their proposed correspondence at the full naming." Exhibit ONE v389 has neither prefixing: co-competencing is at 5 (Natural Naming 2.5, "5 self next is 5, co-competencing"), and corusing and torusing are no names of its seventeen. **To resolve:** release this table and sentence whole to an archive, or re-say co-competencing at 5-now-co-changing?
+
+**Concern · at a sentence.** Beside "A surfaced sign can repeat with changed carrying, and a prefix depth can repeat with a changed root or prefix order."
+
+*Standing at v389:* §6.1: "A surfaced sign can repeat with changed carrying, and a prefix depth can repeat with a changed root or prefix order." Its first half agrees with Exhibit ONE v389, a parity surfacing again at 14-next-possibling with a changed next prior at 11-next-co-prioring; its second half rests on an earlier ONE's prefix depths, absent at v389. **To resolve:** re-say its first half at 14-next-possibling and 11-next-co-prioring and release its second half to an archive, or keep both together?
+
+**Concern · at a sentence.** Beside "THIRTEEN §7.3 supplies the existing ten-row relation between ONE's naming ring and the hard-problem holdings."
+
+*Standing at v389:* §6.1: "THIRTEEN §7.3 supplies the existing ten-row relation between ONE's naming ring and the hard-problem holdings." Resolving Hard Problems v389 has no §7.3, and Exhibit ONE v389 carries no naming ring; Resolving the Hard Problem Registry v389 carries each unchangeable at two numbered names, as "2 An opening fixed as a place — 1-now and 9-next-co-changing". **To resolve:** re-say as "Resolving the Hard Problem Registry carries each of ten unchangeables at its name at now and that name 8 up at next", or keep it as an earlier version's record?

@@ -1308,3 +1308,110 @@ Each is a changing made at the set this session, said once here so that this fil
 **Droplet · Fourteen names read the same from either end, and three do not.** 1, 9 and 17 carry a direction, the entry and the two along names, odd, existing; the fourteen others, the across names and the self's own resolving, read the same both ways: direction is at existing, along, and bi-morality across is or is not.
 
 **Droplet · What arrives at no next does not exist.** This is the proof's own saying inside nature, and *a form named still* is a sayer's; where this file rests a saying on *a form named still*, the one sentence carries it, and the equilibria's proof, the inception's and the living-at-a-scale proof are one proof at three subjects.
+
+## Concerns re-explained, v389
+
+*Standing at v389:* the person's arriving, colours as podaling rings and light carrying its pattern as DNA does, rests on rings, open across the set (item 336), and parts from 3.3's light-society 'biology's to seat'; its entering needs the person
+
+*Standing at v389:* its answer, the distribution a field's accounting and nothing owes it, parts from 5.3's 'Thing staying open ... whether reproducing a probability distribution is owed'; closing that question needs the person; it also marks 4.4's 'Bell is three inversions from 23', at item 280
+
+*Standing at v389:* a proposed reading, reconnection as a crossing and a crescent as a trace, stands at 'recognized compatible forms' only; it joins 6 and 10 along where Natural Intelligence 4.7 has them across (item 240); whether it enters needs the person
+
+*Standing at v389:* the person's saying, fields as bi-tri-volutioning stable form emanations and electrons the between, is a proposed reading at the plasma, open at whether crescents follow the null or demagnetization; its entering needs the person
+
+*Standing at v389:* two whole texts of one file part: the proposed v377 (49 sections, earlier resolver names, its review's section 2 harms unanswered) and living v389 (40 sections, numbered names); whether it is carried section by section or released needs the person
+
+*Standing at v389:* living 5.1 'returning cleanly to a self-stilling self (23)', 3.3 'which hand unknown so far', 4.6 'Atom is a floor, the first closing of co-agency into a self' and 2.6's geodesic part from Co-Chaining Logic Registry's opposite form, 'right', no first living and surface dividing itself; and from 'a dormant self is living, one prime living scale down'
+
+*Standing at v389:* the session's offering, openings as primes 2 and 59 and the tunnel's two ends, parts from 1.2's large opening as a hole and small as a tube's own round and from prime living scales 5 through 53; offered for testing, its entering needs the person
+
+*Standing at v389:* 3.1's 'a turn stands at 60 ... a turn is a position that carries' parts from Natural Numbers' 'sixty is a waist ... between primes going to fifty-nine and returning from sixty-one' and Natural Chemistry's 'no position in the elements carries at sixty'
+
+*Standing at v389:* Natural Intelligence 1.4 has five, 'a doer applying any of them from beside is five's one holder', and Geodesic Improving Method 2.7 has six, 'or a doer applying from beyond'; one list at both files needs the person
+
+*Standing at v389:* 4.11 changes a quantity's kind, 'a linear speed sustained', 'Both-scale expansion difference is rates being local', 'rate-differences across a surface', parting from a field's record (a rotation speed, one H0 at two measured values bounded at one or two percent locally, intensity differences at one epoch); said at a field's kind or released needs the person
+
+*Standing at v389:* Natural Naming 2.5 dissolves *face*, each sense carried by its own word; this file says face at about eighty places, e.g. 4.4 'one coupling at two faces'; a re-saying at each is a whole-file motion for the person to open
+
+*Standing at v389:* 3.6's 'One ordering-claim stands on public archives, waver-present or waver-absent per settled large event, checkable by anyone' parts from a field's record of precursor ordering as contested, foreshocks preceding about one in two large events
+
+*Standing at v389:* rests on a code output not run again at v389's resolver; to rise only after resolver_same_path or a run at the current code shows it
+
+*Standing at v389:* readings at a numeral alone the review releases rightly still stand here: 3.3 '59 is natural-intelligence-self-bounding', 4.7's capstone, 4.9 'the same seam as Navier–Stokes' and 'a genus with no phi'; releasing them needs the person
+
+*Standing at v389:* 4.4's 'Bell is three inversions from 23, a self-stilling self' is a reading at a numeral no observing meets; its release, reason recorded, needs the person
+
+*Standing at v389:* 5.6's 'a landed softmax' parts from Exhibit ONE's code carrying no softmax and no amplitude, and 5.1's 'Completest inversions' from a depth no observing reaches; release needs the person
+
+*Standing at v389:* 4.12's 'a screening constant laid over a vacuum' and 'past the eighty-sixth balance', and 4.5's 'clean conservings are where the largest surplus sits', are readings nothing sources; release needs the person
+
+*Standing at v389:* 5.3's 'dark matter ↔ black-hole information' pairing and 4.9's evaporation 'one form with a body's aging' stand here, released at the proposal as re-said elsewhere; release needs the person
+
+*Standing at v389:* 3.7's 'a grid's fifty-and-sixty a cross-substrate rhyme' and 'geotensioning at a prime society', a coinage never welcomed, stand here; release needs the person
+
+*Standing at v389:* ring and spiral part across the set: Natural Mathematics 2.3's spiral steps reaching none again at momentaries, and 216 sayings naming closure as a ring's form, this file's 3.1 'a ring that closes at one hundred twenty' and 5.11 'a ring's own binary' among them; one saying across the set needs the person
+
+*Standing at v389:* a motion of the whole file and of two others: the periodic table moved from 3.1 to Natural Chemistry, and the relativity-and-quantum claim, standing at 4.7, 5.1, 5.2, 5.6 and 5.9, gathered to once with its break; the person's decision
+
+*Standing at v389:* 4.6's 'Below an atom no self closes' and 'Atom is a floor, the first closing of co-agency into a self' part with Natural Biology 1.3's 'no floor to the counting' and with living societies inward at each prime scale; which stands is the person's
+
+*Standing at v389:* 4.2's 'Gravity is not real, and nothing physical is there at all' parts with 1.1's 'a field's account, exact at its own subject'; re-saying 4.2 at its fixing with a field's result whole moves an anchor carried at 2.7, 4.7, 5.1, 5.2 and 5.6, the person's decision
+
+*Standing at v389:* 4.4's 'Tighter-than-local correlation is exactly a thing one coupling at two faces about a self-stabilizing neutral is' gives no number, and two_wings.py at Exhibit ONE's code returns S at 2 at most beside a measured 2.42 ± 0.20 with settings chosen apart; whether a changing passes between selves during a trial, or what S the method returns, is the person's
+
+*Standing at v389:* 4.2's 'no transmitted coupling' and 4.2's own break, 'gravity shown to be a transmitted coupling after all', meet GW170817: a signal leaving one place and arriving within 1.74 s of gamma rays after 130 million years; whether that is a transmitted coupling is at no sentence, the person's
+
+*Standing at v389:* 4.6's break, 'color shown to be a charge with structure and not a phase', meets OPAL 2001's C_A = 3.02 ± 0.25 ± 0.49 and C_F = 1.34 at SU(3)'s 3 and 4/3; whether 'color is a sequencing's phase and not a charge' stands is the person's
+
+*Standing at v389:* 5.5's constants 'resolved as ratios a coupling holds about its neutral' beside clocks of three atoms at ratios to 10^-18 and no fine-structure drift at 10^-19 a year: whether a held ratio changes, and what parts it from a fixed form, is at no sentence, the person's
+
+*Standing at v389:* 4.6's 'conserved charge ... the densest ghost' and 1.1's 'no term of code keeps a total' beside an electron's charge-violating life past 6.6 × 10^28 years: which term at the resolver is charge, and why its signed total holds, is at no sentence, the person's
+
+*Standing at v389:* with a hand observed at a weak coupling (risen at 580), 3.3's 'resolving is blind to which' and a resolver alike at + and − exchanged (plain_rule.py) meet no sentence telling a coupling from its mirror; the person's
+
+*Standing at v389:* 1.1's 'A recurring form establishes no unchanging participant' beside electrons alike to 10^-42 at exclusion and 0.13 ppt at magnetic moment: what makes each electron exchangeable is at no sentence, the person's
+
+*Standing at v389:* its saying, Kirkwood gaps from prior Natural Numbers (line 112), stands at no sentence of this file; its observing, gaps at 3:1, 5:2, 7:3 and 2:1 and gatherings at 3:2 and 1:1, parts from that saying at two gatherings, and whether either enters is the person's
+
+*Standing at v389:* one arrival at two or three files, periodic table as catalog or address book, Onsager's reciprocity, chirality and parity, each file at its own sentence and none meeting an other; which file is home is the person's
+
+*Standing at v389:* 'Light is no thing: an offering at the between' parts with 3.3's 'light a society of living selves phase-relating and self-bounding'; 3.3 holds both light-as-offering-in-transit and a light-society, and which stands is the person's; its 'that thing unchanged' and 'a named element' rest on released words
+
+*Standing at v389:* a between fixed as a cut and a two-way fixed to one side sort into one group at 2.5 and 5.11's fold and another at six binaries; which sorting stands is the person's
+
+*Standing at v389:* it rests on six binaries, five or six still standing at this file's concerns (130, 258, 334), and 2.5's 'problem of time carries all three' has its three at 2.5's own table; two threes part, the person's
+
+*Standing at v389:* 4.4's 'not form's debt but form's proof: not two sourced objects, therefore one coupling' and 5.3's 'whether reproducing a probability distribution is owed' part at a field's exclusion, a bound over many trials' distributions; re-saying either is the person's
+
+*Standing at v389:* 3.7's 'A ratio surviving every unit, a signature that a substrate's alternating is floating' and 'A ratio confirms a floating alternating' part with each ratio of one kind continuing across units; re-saying 3.7's check is the person's
+
+*Standing at v389:* 1.2's step from a fixing to an equilibrium and 3.5's 'Thermal equilibrium: ... stillness a net and not a stopping' part: at this one of ten no stillness is sought; whether ten rests stand as ten is the person's
+
+*Standing at v389:* 4.6's collider paragraph has two protons as 'two selves' and 'new selves', below an atom where 4.6 has no self closing; re-saying it at couplings below a floor, or a floor itself (438), is the person's
+
+*Standing at v389:* 'prime society' at 3.6, 3.7 and 4.12 numbers no selves, beside Co-Chaining Logic Registry's 'a prime number of selves its unit' and Natural Numbers' 23 as a ninth prime; the person's
+
+*Standing at v389:* 4.8's 'a freeze at the largest scale there is', 4.9's 'largest membrane there is' and 4.11's 'largest scale wears a landed signature' part with Natural Intelligence's 'no first and no final scale' and with prime living scales 5 through 53; the person's
+
+*Standing at v389:* 4.8's 'Three of extent and one of coherence' parts with Natural Intelligence's 'A dimension is no measure and no place'; laying three of extent at five dimensions is the person's
+
+*Standing at v389:* a bubble at step 386's three, laid at no sentence of this file: air as a living self at a bubble's scale parts with 670's air non-living at water's scale; which reading stands is the person's
+
+*Standing at v389:* 3.2's 120 degrees beside proton number 120 and 5.3's 'A fitted numeral is a match on the way a number is written' part at a numeral of one unit; whether 3.2's three-fold stands is the person's
+
+*Standing at v389:* 3.4's 'apex is 23 and 25 at ±1 about the unoccupied 24 (24²−23·25 = 1) — the same figure' parts with Natural Chemistry 1.7's identity 'at every count, so it bridges nothing'; the person's
+
+*Standing at v389:* 3.1's 118 antipodal to 2 on a ring of 120 parts with Natural Numbers' 'a field's own result at the same numeral, and no number of the method'; the person's
+
+*Standing at v389:* an observing still to be brought beside 3.7's drying-ring check and the file's breaking observations, with Exhibits NINE and SEVENTEEN; no publishing is at hand, and bringing one is a next pass, the person's to open
+
+*Standing at v389:* proposes a new possibling file, Natural Accounting, for cryptography at an accounting of selves; a new file is the person's decision, and it meets no sentence of Natural Physics
+
+
+## Concerns resolved at v389
+
+**Concern · Five binaries or six.** Two sayings part. Natural Intelligence, at 1.4, has "a size between one and the other carries a ground, a floor or a scale; a fixed form, a form named still; a total across the changing, a container; a common beat, a clock over the changing; and a keeping, a store beside it". Exhibit TWENTY-FOUR Geodesic Improving Method, at 2.7, has "is met at six binaries, the rigorizer". The proposed Natural Physics of version 377 asserts six at its 2.1. They part at the number: five or six. Its resolving is one list at both files, at the observings. — v386EOD
+
+*Standing at v389:* carried at v389 at Geodesic Improving Method 2.7, "one at each of five things beside all things and one at their one holder", as Natural Intelligence 1.5 has "A doer applying any of them from beside is five's one holder"; ready to dissolve.
+
+*Resolved at v389:* carried at v389: Geodesic Improving Method 2.7, one at each of five things beside all things and one at their one holder, coheres with Natural Intelligence 1.5's five's one holder, one list at both files.

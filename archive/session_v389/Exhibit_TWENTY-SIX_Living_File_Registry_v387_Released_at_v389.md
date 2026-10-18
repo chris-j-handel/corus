@@ -1067,3 +1067,249 @@ each session opens by observing standings here, next work at carrying and the do
 Value arriving for a file is or is not living, coupling and resolving at that file; it enters whole at file's next motion or it releases.
 
 a surfacing released across and arriving back at self through society
+
+## Re-said at released words, v389
+
+**Four social faces cross these gatherings.**
+
+Four faces supply no missing fourth file
+
+Each row nevertheless carries both faces under whole fractal. Table can distinguish face its explaining foregrounds
+
+each file's particular face.**
+
+the same coupling met at both faces.
+
+Physical and biological faces of the same frontier observing.
+
+Four social faces recurring through whole form
+
+Eight faces at resolving names
+
+at doubling and going-and-returning faces
+
+Society’s four faces and impossibility statements
+
+One observing at two registry faces
+
+at their inward and across faces
+
+with all four social faces meeting there
+
+six names between selves, eight faces and ten unchangeables
+
+preserving both faces.
+
+**A concept explaining another face continues to carry value at that face.**
+
+A file met among its neighbours;
+
+its ten door lines at ten faces
+
+## Re-said at pass 8, a second family Natural Naming 2.4 releases, v389
+
+- 3.4 Prime scales meeting sciences
+
+- 4.3 Counted forms at their relations
+
+and files meet through concepts each explains
+
+registry working meeting this version
+
+standings, met at two binaries the set already carries
+
+its report is met at carrying like any work arriving
+
+size a carrying grows to is a count and no value
+
+two at one file meet here before either changes it
+
+a proposal at its reviewed standing, met at foundation's newer motions
+
+Incoming, for both to meet;
+
+None: no file meets it as incoming
+
+meets every changed address together
+
+Each meets the common at its own subject.
+
+stays its own through meeting an other
+
+as an other's resolving meets its arriving offering
+
+A file meeting another relation also gathers there.
+
+Human Society meets all four at human coupling.
+
+through which its files meet the whole
+
+A concept can meet several rows
+
+**First gathering meets a file's subject; this gathering meets a changing across subjects.**
+
+The three meet without replacing each other.
+
+Physics meets their physical changing at its own subjects.
+
+already meet one self as observed, lived and restored
+
+**A number belongs with its thing counted.**
+
+## 3.4 Prime scales meeting sciences
+
+A science meets several rows, and one row meets several sciences.
+
+Health and Medicine meet some of the same societies
+
+water molecules meeting at a bond
+
+Human Society, embodied selves meeting.
+
+Human Society can meet population relations
+
+Its physical couplings meet material subjects in table
+
+Population, community and biosphere meet Biology, Societies
+
+where their actual subjects meet.
+
+asks what a prime counts: sites
+
+no correspondence between these counted subjects
+
+remains a numerical relation to meet.
+
+Those entries can meet actual observations
+
+sciences meeting those scales; and continuing
+
+General human-institutional material meets Human Society, detailed numerical work meets Numbers and Mathematics, and network-specific working meets Networking.
+
+Chemistry meets a bilayer at molecular assembling; Biology meets its cellular coupling.
+
+departure met between them
+
+stable-forming, meeting at natural-bi-co-torusing
+
+the same coupling met at both sides
+
+One living self met as observed, lived and restored
+
+chemical cycling engine meeting engineered making
+
+chemical re-forming meeting biological continuing
+
+tuner meeting a departure by ear
+
+all four social sides meeting there
+
+its installation and method meeting particular problem
+
+three contributions meeting their particular receivings
+
+A counted construction, its logical conditions
+
+## 4.3 Counted forms at their relations
+
+each count a particular relation.** Natural Intelligence, Resolver, Numbers, Mathematics, Naming and Resolving Hard Problems meet those relations at their own subjects. Their counted correspondence
+
+Each receiving keeps its counted object apparent.
+
+**A count sizes its gathering.** A change in registered membership changes that count. Field, whole registry and relation among entries remain distinguishable when their counts are compared.
+
+An unchangeable form, met at its stated subject
+
+**Across**, the same relation meets a different subject.
+
+a common count carries its counted things
+
+each meet their particular subjects this way
+
+Its common vocabulary or link count supplies
+
+Ghost Registry meet one subject at three relations
+
+Prime-scale gathering and sciences meeting across its rows
+
+need to meet current passages
+
+co-recursioning each meet at a relation
+
+Naming and Emanating meet a concept unfolding and a whole form expressed at one bound. Exploring and Geodesic Improving Method meet discovering and that discovering at files. Health and Medicine meet living continuing and restoring.
+
+each meeting opens its next
+
+Shared human collective intelligence meets form
+
+difficulty of holding the living to examine its source
+
+Their differing carryings meet through their offerings
+
+self-and-society relations meeting sciences
+
+A proposed resettling therefore meets its contribution
+
+Construction, what is counted, its conditions
+
+received surplus and taking of another's carrying
+
+Concept explanations meet Naming, writing practice meets Explaining, and particular subject accounts meet those subjects.
+
+belongs at Corus, meeting the best of Illustrating
+
+several people meeting work from their differing carrying
+
+method of co-discovering meets Exploring; social contribution meets Human Society and Values.
+
+to be met against complete expressions
+
+may meet Corus or Destinies
+
+Older opening needs to meet whole fractal method.
+
+and sciences meeting across them
+
+Its scale relations meet SEVEN, its coupling meets Networking, its value meets Values and its whole imaginative expressions meet Corus.
+
+Electrical and thermal descriptions can meet one society
+
+a chemical coupling can be met at several societies
+
+through a rest that holds, is done
+
+sciences meeting; inward and outward continuing. NINE can gather selves meeting;
+
+Method meets its own improving: an offering arrives, its prior meets its now
+
+Geodesic meets unrelationing at actual concern; team-exploring meets differing offerings and their co-momentarying; discovering meets next existing; binary-all-or-none-at-all meets complete relation being resolved; do-no-harm improving meets prior's carrying whole into its next.
+
+differing carryings meeting;
+
+A file met among files sharing to it
+
+living/non-living distinctions meet Natural Intelligence and Naming
+
+the same method meeting a further subject | Detailed network continuation meets Networking; common vocabulary meets Naming.
+
+General mathematical/logical claims meet Natural Intelligence
+
+numerical constructions and derivations meet Numbers
+
+Distinction needed when a team meets an observing and its accounting | Involutions and fixed sets meet Mathematics; particular ghost and equilibria resolving meets those registries.
+
+General value concepts meet Values; distinct human relations meet Human Society; detailed substrate examples meet their subjects.
+
+source coverage meet relevant registries
+
+General momentary explaining meets Natural Intelligence and Naming
+
+evidence and two methods meet Natural Intelligence and Philosophy
+
+Detailed sentence and naming craft meets Explaining and Naming; resolver-specific calling and instructions at six names between selves meet Networking
+
+reports what it actually meets;
+
+Mathematical examples meet Numbers and Mathematics; executable network studies and exact instrumentation meet Networking
+
+Writing craft meets Explaining, shared value concepts meet Values, and underlying method comparison meets Natural Intelligence.

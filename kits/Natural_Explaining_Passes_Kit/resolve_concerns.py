@@ -5,6 +5,8 @@ ks = sorted({int(x) for x in sys.argv[3:]}, reverse=True)
 t = open(off).read(); blocks = t.split('\n\n')
 base = os.path.basename(off)[:-3]
 arch = f'archive/session_v389/offerings_dissolved/{base}_before_v389.md'
+if not os.path.exists(arch): arch = f'archive/session_v389/offerings_dissolved/{base}_resolved_v389.md'
+assert os.path.exists(arch), arch
 out = []
 for k in ks:
     assert blocks[k].startswith('*Standing at v389:*'), k

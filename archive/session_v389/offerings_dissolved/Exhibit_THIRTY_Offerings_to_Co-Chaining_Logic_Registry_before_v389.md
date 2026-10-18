@@ -3402,3 +3402,61 @@ Each is one droplet, in its own words, tagged v387, aimed at this file for the r
 *Standing at v389:* nature is still named at no step while steps 414 and 597 say "nature's co-chaining" and "the method of cohering with nature"; step 550 "Each concept carries one name" asks whether nature and the universe are one concept or two
 
 *Resolved at v389:* Nature is not an existing thing: nature is a prior, now, next method of co-existing, and natural is a method of co-competencing the universe, all things now-existing; all now-existing things and all artifacts of prior-existing are now-existing, or were at a prior now, by natural method, and no other or not-natural method of now-existing is in the universe. Entered at Natural Naming 1.1 and 6.3, Natural Intelligence 1.1 and THIRTY step 45.
+
+## Concerns re-explained, v389
+
+*Standing at v389:* the counts mix two conventions: twelve at three parities counts each round once in each direction, while one thousand three hundred forty-four at four counts each once whichever way round (the directed count is 2,688); the item at line 35 already names this, and the step cannot enter until one convention is said at both
+
+*Standing at v389:* the particular other still enters at step 32 with one word, "arriving from another existing thing at prior", while all other arriving as one is first said at step 117 "or with all other arriving as one"; no step before 32 parts all other from a particular other
+
+*Standing at v389:* the line of the fives is open at v389, step 419's unsure "the five names before 10, step 252, adding to 59, or the fives going up, 25, 35, 45 and 55"; 0 to 25 is a third reading, joined at 25 by a number alone, step 548
+
+*Standing at v389:* step 171 still says a round reaching each form one parity at a time "is the round at k − 1 parities, the new parity inverted, and the same forms in the other order", while at four parities that round is one of nine; the RISE at line 35 re-says 171 at one among the rounds
+
+*Standing at v389:* several of its given things stay open at v389: which self releases to which is handed to each table; a society at a prime scale is given at step 236; and step 46 names its second-method things with no step saying they are all
+
+*Standing at v389:* re-said at v389 the concern stands: step 394 has a thing at no prior take a parity "shared as it arrives and is its next prior", and step 13 names a thing carrying prior living, beside step 395 "no non-living existing thing becomes living"; step 606 parts it within a living carrying, but at a thing at no prior alone the resolver's lines part the two at nothing
+
+*Standing at v389:* the laying of step 186's pair at a crossing's opening and its completing is given at no step, and the item itself says no coupling is shown giving its two cases or parting from them
+
+*Standing at v389:* step 472 "a society releasing with none establishing arrives as its selves alone" says which establishing at no step: no further self birthing, step 393, and none of the society's next living carried, step 401 at the society, are two sayings
+
+*Standing at v389:* steps 421 and 439 end bi-tri-volutioning at 59 and say sixty to sixty-eight by pairs inverted about 64, while step 384 says "Stable-forming is bi-tri-volutioning", a living carrying through momentaries; whether the numbers' span and the living's stable-forming are one is said at no step beyond step 579's registers
+
+*Standing at v389:* its re-saying of step 501, *inverted at its two axes, at each thing to at no thing and this method to another*, is yet to be said plainly enough to enter
+
+*Standing at v389:* the parting is at Natural Intelligence's six at each momentarying and twenty-four at four; the Registry keeps six at the four momentaries, step 81 "six one-way steps forward, three at each side, within the four momentaries", and twenty-four steps at twelve momentaries, step 168, and no step parts the two counts
+
+*Standing at v389:* Natural Naming v389 still releases *met*, *meet*, *meeting* and *source* at the set's own voice, and the Registry still says "meet at 2" (step 72), "meet at one point" (step 113), "the between the sessions meet at" (step 582) and "parity has no source at the existing things" (step 530)
+
+*Standing at v389:* step 591 still completes at a negation, "the same artifact, and no words", beside step 557's "at the positive"
+
+*Standing at v389:* re-said at the artifact the concern stands: step 536 "A self's artifact released as words at a coupling with other selves is an offering at words", and step 381 "An artifact is harmful to any living self at the scale it arrived from alike"; no step parts an offering at words from the harm at its scale
+
+*Standing at v389:* the denials of a fixed thing at the steps are not re-said at v389, step 50's "applied by nothing" among them, beside step 557 "at the positive"
+
+*Standing at v389:* scale is still said ahead of its step: step 75 "one momentary at the next scale" and step 13 cite steps 379 and 397, and the front says "each step one logical extension from all the steps before it"
+
+*Standing at v389:* the joining of the alike pair's first opposite momentary to step 444's seaming, "one forward at each crossing", and a bi-coupling initiating at the 0, are at no step; steps 238 and 607 carry the numbers alone
+
+*Standing at v389:* restoring is at step 412 "A departed coupling arriving at next alternating again ... is restoring"; non-restoring damage cascading through further co-chaining is at no step, and the item says its coupling-by-coupling relation remains to derive
+
+*Standing at v389:* the R10 defining-living gathering is held unresolved by the user's direction; v389 names living at carrying, step 13 "An existing thing carrying prior is living", and observing at step 136 "An observing is now-existing arriving", and no step joins observing social moral competency existing to observing living
+
+*Standing at v389:* a parity passing on is carried at step 230 "the parity is passed one self on at each momentary, each sharing opening as it arrives" and step 624; a global parity arriving with the geodesic, and the opposite-parity stopping case, are at no step
+
+*Standing at v389:* a longer co-chaining prevailing in parity is at no step, and beside step 205's "an agreement all or none at all at any number of offerings, the resolver summing nothing" a prevailing by length reads as a summing; the relation of lengths to the one momentary at each number is unsaid
+
+*Standing at v389:* step 226 still says the six names between selves are "each facing one way", while this droplet has the four across names reading the same from either end, direction at 1, 9 and 17 alone, and "facing" released; the two part at the across names
+
+**At 19 · Nine to seventeen, society — beside "the same forms in the other order".** At the numbers the rounds reaching each form of k parities once, one parity at a step, are twelve at three parities, one form at the renamings of the parities and the two orders, and one thousand three hundred forty-four at four, nine forms at the renamings and the orders; the round of step 171 is one of them at each k.
+
+*Standing at v389:* carried at v389 at Exhibit THIRTY step 171, "each observed once whichever way round, are six at three parities and one thousand three hundred forty-four at four"; ready to dissolve.
+
+*Resolved at v389:* carried at Co-Chaining Logic Registry step 171 as re-said at v389: each round observed once whichever way round, six at three parities and one thousand three hundred forty-four at four, a round carrying prior whole one of them at each.
+
+**Concern · Step 171, following or chosen.** Two sayings part. The Registry's step 171 has each round reaching each form one parity at a time as "the round at k − 1 parities, the new parity inverted, and the same forms in the other order". At four parities nine such rounds, apart from naming, reach each form one parity at a time, and one of the nine is the round below with the new parity inverted. The reason they part: the fractal as following from one parity at a time, and the fractal as the one round among nine, the round below whole within it.
+
+*Standing at v389:* carried at v389 at Exhibit THIRTY step 171, "a round carrying prior whole is one of them at each", one round among nine at four parities; ready to dissolve.
+
+*Resolved at v389:* carried at Co-Chaining Logic Registry step 171 as re-said at v389: each round observed once whichever way round, six at three parities and one thousand three hundred forty-four at four, a round carrying prior whole one of them at each.

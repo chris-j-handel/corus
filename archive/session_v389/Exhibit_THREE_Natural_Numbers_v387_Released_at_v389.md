@@ -713,3 +713,161 @@ co at a sharing between two and none at one; and its kind.
 at 1 and 9 and at 5 and 13 now and changing exchange.
 
 **Each kind of name is at two numbers eight apart, at a self's span and a society's**
+
+## Re-said at released words, v389
+
+- 4.3 Three hundred sixty and four hundred forty, consecutive seam-faces
+
+- 6.1 Seam-faces, one eight at couplings among each number
+
+a number is that form at one place in its running
+
+**Numbers are reached, used and related at their own running: momentaries, podalings and sequences.** They run up and down by bi-inversioning-co-recursioning, and each relation among them is a move of that running:
+
+A counting adds a clock from beyond its running
+
+Along 3-11-6-14 names run odd, odd, even, even
+
+Each runs at its own momentary;
+
+unrelationing runs at each coupling's own continuing at φ
+
+or six, or runs open.**
+
+Now and prior both at +1 run 1, 1, 2, 3, 5, 8, 13
+
+now at −1 and prior at +1 run same numbers at alternating parity
+
+## 4.3 Three hundred sixty and four hundred forty, consecutive seam-faces
+
+two seam-faces, each an odd centre squared less one
+
+a fourth seam-face, 8 · T₄
+
+Sides run self and other at odd 1 to 7
+
+**Forms among 1 to 16 run again at 17 to 32, sixteen on**
+
+Twenty-two runs in five of them
+
+17 runs it as that self's next now
+
+**Seam-faces run on one eight**: (2k + 1)² − 1 = 8 · T_k, eight its first face and each next face that eight
+
+**An eight and a nine run together**
+
+reached at no move of its running
+
+From nought its steps run nought to twenty-four
+
+**One pairing runs at its two sides.**
+
+five pairs run at same momentary
+
+a doubling from one runs 1, 2, 4, 8, 16, 15, 13, 9
+
+## 6.1 Seam-faces, one eight at couplings among each number
+
+seam-faces run (2k + 1)² − 1 = 8 · T_k
+
+**A podal within one to a seam-face is
+
+sixteen between seam-faces eight and twenty-four
+
+a seam-face above twenty-four
+
+a second seam-face
+
+**Two routes run between its outer pair**
+
+a chain runs from sixteen
+
+carries seam-face to seam-face, 8 · T_j
+
+a fourth seam-face. Seam-faces three times a number and two are
+
+a society's next momentary running each self's entry once
+
+**Sixteen gaps run between seventeen primes
+
+each other gap runs between two odd primes and is even
+
+Whether twin primes run on without end
+
+a seam-face below four hundred forty
+
+a fifth seam-face, 8 · T₅
+
+a third seam-face
+
+a running round it goes forward
+
+with no third running
+
+Taken as a step it runs one and then other, round at two; taken of prior and now as a next it runs round at three
+
+resolver runs its names at its own resolving
+
+**Three, six and nine run odd, even, odd**
+
+odd, run between thirty, forty, fifty and sixty, even
+
+at each run of uni-scaling
+
+a running straddles them
+
+two carries each at its own momentary, one ring, running.** Bi- two carries differing, co- two carries together at one ring, -ing running.
+
+Pairings at six, eight and ten run three, four and five
+
+self and other run whole at nine
+
+at resolver one run of 1 to 17 is one momentary
+
+names end to end run nine to seventeen
+
+of k parities once runs 1 to 2^k + 1
+
+four 1–17s run it
+
+each side's forward is its own running
+
+Four momentaries of exchanging run in same span
+
+**A fold runs whole at each scale.**
+
+B + 1 to its running: a form's stable-forming at a larger scale, a larger momentary its own running.
+
+are two runnings, sharing their digits only
+
+draws a relation neither running carries
+
+a numbered form and no running
+
+a square, a seam-face, a triangle
+
+seam-face, 1² − 1
+
+seam-face, 3² − 1
+
+seam-face, 5² − 1
+
+seam-face, 7² − 1
+
+seam-face, 9² − 1
+
+seam-face, 11² − 1
+
+seam-face, 13² − 1
+
+seam-face, 15² − 1
+
+seam-face, 17² − 1
+
+seam-face, 19² − 1
+
+seam-face, 21² − 1
+
+its far side at four hundred forty runs down one at each row as its number runs up
+
+its far side at one hundred twenty runs down from one hundred nineteen

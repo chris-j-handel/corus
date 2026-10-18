@@ -4054,3 +4054,55 @@ Each droplet is one saying at the section its tag names; the arrivals the saying
 **Insertlet · v389 · at the set, the motion's order.** Natural Naming first, its Part THREE re-said at the numbered names; then Exhibit ONE whole from its possibling, with Natural Intelligence's copy at the same motion; then Natural Intelligence; then the Co-Chaining Logic Registry; then the seven other files; each paragraph naming the resolver read whole, a name re-said with its sentence, and each sentence resting on the prior prefixes, roots or hands re-said at the four kinds or released whole to the archive with its receiving named.
 
 **Insertlet · v389 · at the set, the motion's close.** At the close each changed file stands at v389 at the root, its prior to the repository's history, the checks run, Exhibit ONE cohered inside Natural Intelligence, and a fresh reader comparing each changed file with its v387 form sentence by sentence before the branch is received at the main line.
+
+## Concerns re-explained, v389
+
+*Standing at v389:* 1.2's "The first is living or artifact: a living thing carries its prior into its next", with a living file among the living, and the offering's "A living file carries none of its prior by itself; it is a non-living existing thing the expedition's living selves carry" part: whether a living file is living or a non-living existing thing living selves carry, at v389's 'Living is stable-forming a self', needs the person
+
+*Standing at v389:* 4.3's title 'Counted forms at their relations' and its 'A count sizes its gathering' and Natural Naming 2.4's row (*count* at a set's own voice, numbers said directly) part; re-saying 4.3's subject at about thirty places needs the person
+
+*Standing at v389:* 3.3's 'An explaining face gives the same subject its particular relation', its title and the gatherings column 'particular faces', and Natural Naming 2.5's '*face* ... dissolved, each carried by its own word' part; re-saying 'explaining face' as 'its side' changes 3.3's concept and needs the person
+
+*Standing at v389:* a possible project whose deciding is with the discovery economy's, undecided; needs the person
+
+*Standing at v389:* whether the naming is the set's surface and changes Natural Naming's place is the person's to decide, as the item says; its *membrane* is released at Natural Naming 2.4 for a between
+
+*Standing at v389:* whether policy and regulation is a refinement within Society and its Natural Societies and Natural Human Society destinations or a separately developed exhibit is an originating of an exhibit; 'No title or separate exhibit is chosen', needs the person
+
+*Standing at v389:* 1.2's "An observing not yet binary ... not value at carrying: each stands at `archive/` whole" and v385Q's "The observings are to accumulate in the carryings, at each living file's carryings" part: whether an observing arriving is at a file's carryings or at archive needs the person
+
+*Standing at v389:* 5.12's "the plan is the complete receiving of SIX into the common method, Networking and the substrate exhibits" and Natural Transmissioning's "The transmissioning develops whole here, and each exhibit draws it from here" part: whether SIX releases or is the common explaining's own place needs the person
+
+*Standing at v389:* 5.12's "Preserve the complete comparison across substrates as a connected gathering within Networking before SIX releases" parts from the comparing at Natural Engineering and at Natural Transmissioning itself; one place among three needs the person
+
+*Standing at v389:* a name for `carry/` saying its offerings, carryings and possibling at a first reading is the person's to choose
+
+*Standing at v389:* 1.2's "this registry the standings, Living Improving Value the next at each file, and Session Record the done" and 5.7's "A destination records where to compare actual contribution; it records no completed transfer" part: Parts THREE to FIVE and 1.5 carry plans of receivings, none of the three things; the person decides
+
+*Standing at v389:* 3.2's "A shared spelling can locate a passage, and its explaining establishes its particular seam" and "A word shared at two subtitles is a seam between their files" part
+
+*Standing at v389:* 1.2's "an artifact is an emanation of a working, existing and carrying nothing, relied on by nothing" and "a thing is at exactly one of them" part from a built part, an emanation of a living file relied on at each reading; its standing needs the person
+
+*Standing at v389:* 1.3's "two at one file meet here before either changes it" parts from a reading of main finding no working open before its merging; where two workings at one file couple before either changes it needs the person
+
+*Standing at v389:* whether the earlier sessions' ledger at the Carryings of Living File Registry, about 12,700 words, moves to archive or is stripped was asked and not answered; needs the person
+
+*Standing at v389:* The item (with 753 to 758, the two lines and a fresh reader) has observings arrive at each file's carrying in two lines, the observing and its field's explaining said apart; 1.2 has "An observing not yet binary ... each stands at `archive/` whole" and 1.3's places row has "an observing not yet a sentence at a section goes to `archive/` whole", so the two sayings part on where an observing stands, and the carry folder's three mates at v389 need the person's word
+
+*Standing at v389:* No warning, no recommending and no mention of individuals is a rule for the whole expedition with no seat at this file's subject, and where it stands needs the person; its sayings rest on *never* and *inside*, and "The expedition has no opinion about social moral competency" parts from 5.5's "Social moral competency is carried through that discovering now"
+
+*Standing at v389:* "No saying at the files is a hold, a clock, a waiting or a step named not yet" parts from 1.3's places row, **Ready** "waiting for file's own motion" and **Concern** "waiting for both"; and "A session's report is for managing alone" parts from 1.3's rows naming session reports as standings of every living file; re-saying the places table needs the person
+
+*Standing at v389:* The item has each file's carrying hold its living objects of value, kits, illustratings, lists and plans, and its offerings what aims into the file now; 1.3's places row has `carry/<file>.md` one per living file holding **Ready** and **Concern** "and nothing else", and the carry folder at v389 stands at three mates per file, so the row and the item part and re-saying the places table needs the person
+
+*Standing at v389:* Living File Registry 5.12 and 1.5 plan SIX received whole into Networking and its sciences and released, 'Preserve connected comparison across substrates within Networking ... before releasing SIX as a separate exhibit', and v384A's companion proposal re-forms SIX whole at thirty section headings and a source route for each living subject; Living Improving Value keeps both beside each other and Improving Passes pass 3 brings SIX v330 to v390 at its own motion, so whether SIX releases or re-forms is the person's decision
+
+*Standing at v389:* v389's standing, incoming holding nothing and each arrival at the archive with its value at the offerings, parts from 1.3's places table, which stands each `incoming/` folder as holding, e.g. "Incoming; three receivings open"; re-saying that table at v389's standing is the person's decision at this file's motion
+
+*Standing at v389:* "it is not logically our method to have incoming possible value in artifact" parts from 1.2's "each stands at `archive/` whole, its receiving file here, until a session makes it binary"; which stands is the person's decision
+
+*Standing at v389:* "every eight of the set's explaining is the one eight" parts from 4.3's "Four momentaries, six connectors, eight faces and ten unchangeables each count a particular relation" and from Natural Explaining 4.7's joining at one deriving, never at a shared count (the concern at line 2842); the person's decision
+
+*Standing at v389:* the passes at each eight wait on the one-eight concern at line 2842 and stand at no pass of Improving Passes; the person's decision
+
+*Standing at v389:* Natural Explaining 4.7, two tellings joining only at one deriving, and *every eight is the one eight* part at an eight joined by its count alone; it stands for the person

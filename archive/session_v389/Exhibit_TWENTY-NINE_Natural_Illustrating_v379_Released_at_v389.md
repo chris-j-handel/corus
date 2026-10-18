@@ -1053,3 +1053,91 @@ at code its sequence carries on, a non-living existing form, an alternating itse
 Rotation opens another facing;
 
 each an other's just-was and not-yet,
+
+## Re-said at released words, v389
+
+Exhibit ONE's face, inward or outward at seventeen names and entering or surfacing at ten, is Exhibit ONE's face at each place it is meant;
+
+its bounding at each self's own face.
+
+**Parity's face at code, Exhibit ONE's face, is drawn flat.**
+
+is this face with its spots assigned
+
+its assignment is Exhibit ONE's sentence at parity's face
+
+is twelve faces of one coupling
+
+a binary's second face
+
+an entering and a surfacing at each, Exhibit ONE's two faces, two sides overlapping at them
+
+Each of ten fixes one of Exhibit ONE's faces unchangeable
+
+a face fixed unchangeable beside a continuing one
+
+Exhibit ONE's two faces, two of ten at it drawn
+
+are one surface at its two faces, twelve and twenty exchanging
+
+**About twenty-eight the outer faces are twenty-four and thirty-two and inner faces twenty-seven and twenty-nine**
+
+two routes go between outer faces
+
+Faces one short of a square, (n − 1)(n + 1) = n² − 1, one owned by neither face, Natural Numbers 1.3, draw as
+
+is one move at three faces, 8 up, 17 less and 9 less
+
+an eight's still face and a resolver's four-cycles as its continuing face
+
+carried no link joining a box's quarter turn to a right spiral step
+
+a bond a between of two selves living at a natural face
+
+a whole complement at its across face appears
+
+two faces one offering observed one coupling at a time
+
+two helices of opposite hand joined at a perversion
+
+An incoming concept joins a section its explaining belongs at
+
+## Re-said at pass 8, a second family Natural Naming 2.4 releases, v389
+
+**Self and other meet illustrating through
+
+a change of scale meets local resolving
+
+**Making better and breaking meet the same offered relation.**
+
+each is a next after one before it is met.
+
+completing and opening meeting at shared positions
+
+a prior parity meeting an offering
+
+A prior of + meeting a now of +, a prior of − meeting a now of −, and no prior meeting offerings
+
+a line it does not meet,
+
+its parities again at twelve, holding at Exhibit ONE's torus
+
+another person's recognition meets that changed arrangement
+
+one line meeting at a throat
+
+one nothing met six times, not six places
+
+two rotatings met at one between
+
+Natural Physics 3.4: two meeting through
+
+a train at one place meeting a lock
+
+both hands meeting at a nothing
+
+a domain meeting it again
+
+Draw each self at its own pace meeting at couplings
+
+explaining a reader meets once

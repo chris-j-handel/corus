@@ -868,3 +868,21 @@ offered to B in the first momentary alone
 Each cell shows the selves in their coupling order; · is no prior.
 
 Selves coupled along, the last to the first, each opened at no prior, and + offered once at the first self at the first momentary: the first self's sharing opens at that one parity, at the bi-coupling, the one place a self's forming takes a parity not its own, and from then it is the self's own; each next self's sharing opens as the parity arrives along one momentary on, and after n momentaries each self is at a prior, the spiral at its one like pair, the alternating pattern of an odd spiral from the first momentary at which every self is at a prior. A self at a sharing is at its prior at each momentary from its opening, its next from its own prior kept or inverted; a thing at no prior at every momentary is no self.
+
+## Re-said at released words, v389
+
+At each join a sharing side is a self and an arriving side another self
+
+**Its joins between selves.** At each join co is a sharing side
+
+at one line, its sign 0, prior kept, or ±, prior inverted. Same and not-same are that sign at two betweens
+
+four binaries each twice, met at a face, and 8 up
+
+## Re-said at pass 8, a second family Natural Naming 2.4 releases, v389
+
+Prior at 3 meets surfacing at 14
+
+each sharing at which offerings and prior meet,
+
+prior and offerings meeting |

@@ -883,3 +883,347 @@ Such an observing is an unchangeable form found existing, and an unchangeable fo
 **Carrying.** A passage a file has no position for now rides at its file, its next, and releases at that file taking it, with nothing in its place.
 
 with its relation written, not replaced.
+
+## Re-said at released words, v389
+
+at a living file set it runs at a file
+
+The same three run at a session
+
+and takes away its sign, a prior taken away
+
+supplies something its running does not carry
+
+Arriving, placing and dissolving run at once
+
+A dissolving runs at each placing
+
+A term-check runs at each passage
+
+confirming runs mechanically
+
+**Each motion is told at its sign.**
+
+Told at their signs, a session's motions show at once. Told in one register signs blur, and telling hides signs both selves need
+
+a speaker check runs
+
+**Working together runs as overlapping momentaries run.**
+
+and working together runs the same way
+
+arrives at a membrane between the two
+
+A pace running simple and sequential is whole
+
+an offering to run Natural Naming's seven binaries at
+
+and checks run at it next
+
+and run at each run it opens to
+
+each check its method runs being the one binary met at one face of a sentence
+
+Resolving runs two ways alternating
+
+at bounds running loose and near
+
+Along runs until a bound tips, running tips across to it and releases it, and along runs on. With changing running one way at a coupling, running floats with it
+
+its concern runs again with that equilibrium released
+
+a test running short is a test's running, a declaration of joins is no engine running them
+
+A test not run is *unrun* at its own record: a record tells a test's running
+
+Which scale it runs at.
+
+a sign or a magnitude, a store or a path
+
+**A field's own face is met after the five and the six**
+
+A field carries its own face of a break's limit
+
+joining a set at its own next
+
+one entry at three faces, its form
+
+each rate of selves it runs among
+
+see improving as it runs;
+
+beside its published part, checks running at it next
+
+**A run finds candidates, and a run is not a pass.**
+
+**Checks re-run at a working's own just-written lines**
+
+a threshold being a magnitude in a sign's stead
+
+Each pass is one binary, run at each thing it reaches in one sitting, and each runs at a file
+
+and does each section run within that bound; does its subtitle take an -ing head and the term it runs on
+
+carry one of the three faces, or a doer
+
+Run once lightly at a file
+
+Bound runs first and makes each later pass smaller; crossings run last and close at none, a file being a membrane
+
+pattern matching runs first
+
+takes a position at any sign a self surfaced
+
+and a join from beyond, from 10-next-co-possibling to 14-next-possibling
+
+a caller's composition makes no declared join
+
+**A running of code returns a rendering's shape
+
+with no run and nothing beyond it
+
+**A file carrying code carries its running, and each description, table, run and check rides beside it.** Description written in its running's stead grows its file while the few lines its running needs
+
+**A seating and its release run in one pass**
+
+A run reports its meeting, not its counting.
+
+**A count re-runs at its cells and is not carried.**
+
+is run again from its rule
+
+and only running it finds that
+
+each thing receiving its own neighbours, its window closing at each neighbour
+
+are its worked faces
+
+an instrument its file does not run at itself
+
+a six-step seam can run eight
+
+and a section count is its first face
+
+at its own membrane and belongs
+
+a backlog standing at its running's end
+
+no sign having run along them
+
+an order selves are run in
+
+and a membrane, two things given a correspondence so their signs can meet
+
+each ring result, a tipping ring, an even and odd returning, a travelling meeting and the seventeen primes' sum of 440, travels with its arrangement and its scheduling. One-beat and own-turn instruments both impose an order, and they part at a seam their round closes at.
+
+a coupling sequence its running carries
+
+**A carry emptied between two runnings manufactures a finding.** Two runnings of things built fresh compare two runnings that shared no momentary: one running is continued
+
+all running in the other order
+
+as scripts anyone can run
+
+and joining in opens at executing again
+
+Checks verify a net at one membrane each
+
+each understanding a sign, and a sign whole
+
+each running at both its faces
+
+each running at its own rate
+
+improving toward them is their own running
+
+being an offering's two faces
+
+coupling at their membranes
+
+Improving is the set's own form running on the set.
+
+carry it as its running *all*
+
+each variant's own face carried
+
+**Geodesic method runs at three faces, each from all other**: scale, its form; orientation, its running; position, its resolving. Each face completes at its own differing, and a nothing between them is one nothing at three faces.
+
+running a method meets its surface inward
+
+no third method running in it
+
+## Re-said at pass 8, a second family Natural Naming 2.4 releases, v389
+
+- 1.5 A release follows its arrival, met at a match
+
+- 2.2 A correction seated at the first relation that departed, and an offered naming met at binaries
+
+- 2.7 An observing brought as a break, met at five binaries first and at six beside
+
+- 2.8 Work arriving from another working, met whole
+
+- 4.3 A file's own sentences met at its file
+
+Its working meeting it, with each incoming value
+
+which meets its set at its now and opens its next, and at a sentence, which meets its whole prior co-chaining
+
+Three binaries meet each pass
+
+A pass meeting all three is its file's own next
+
+a wording no self meeting it couples to
+
+**A label with no body carries nothing to meet.**
+
+## 1.5 A release follows its arrival, met at a match
+
+costs each thing nobody met.
+
+A releasing file is met whole before any of it is released
+
+a file too large to meet whole
+
+met later that session or at its next
+
+its carrying met at no voice but its own
+
+that completing is met by the first and opens again
+
+## 2.2 A correction seated at the first relation that departed, and an offered naming met at binaries
+
+carried into each sentence and met at none
+
+is met by a fresh reader set to break it
+
+a construction met with criticism at its field
+
+Each sentence is met at method
+
+being the one binary met at one side of a sentence
+
+Their files are files of its set, met at the same binary.
+
+**Each meets a carrying of prior and now
+
+At 3 a carrying meets them:
+
+and each met at code.
+
+Each concern is met by alternating it until one side shows
+
+is the carried met as though it were open
+
+A concern arriving again is met at its relation
+
+**Resistance is met as it arrives.**
+
+a society fixed as healthy is met at its co-competencing
+
+method's concern is met first
+
+a test's shortfall is met at its test
+
+two requirements meeting at the same relation
+
+## 2.7 An observing brought as a break, met at five binaries first and at six beside
+
+are one statement met from its two sides
+
+An observing meets method at two binaries in sequence
+
+a premise meets five binaries first.** Is it a self carrying, met now at a coupling,
+
+a technology is met at six binaries, the rigorizer
+
+a seat is a place to meet, and it decides nothing
+
+**A field's own word is met after the five and the six**
+
+differing auxiliaries meet it.
+
+A public record of selves is met at its public data
+
+## 2.8 Work arriving from another working, met whole
+
+is met paragraph by paragraph.**
+
+and is met at the one way in, 1.4
+
+A session opens by meeting a living file set at its now
+
+a living version met beside it opens at the latest
+
+A resolver name is met at Exhibit ONE's tables
+
+The two are met paragraph by paragraph
+
+| 6 · counts | odd · explaining | does a count at a section's opening match its section's carrying |
+
+at each meeting with a field's word
+
+the instances to meet and not the ones going
+
+is met next at files beside it
+
+natural torusing meet a whole file
+
+its binary is met at one line of one coupling
+
+a number to meet, and its pass
+
+An executing reports its meeting, not its counting.
+
+An inventory met short is told as its meeting,
+
+carrying its subject is met:
+
+a meeting cut off at a finite end
+
+a count met at several files
+
+at a few of it met resolved first: a pattern the few carry is the form the rest are met at.
+
+**A pattern met at primes is met at odd composites beside them
+
+starts at the thing its prime counts, a number of sites
+
+are four counts, none standing for another
+
+## 4.3 A file's own sentences met at its file
+
+each claim a file makes about itself met against its file's own body
+
+and a section count is its first side
+
+A file is met section by section at its own purpose, and a test brought to it is met there first
+
+arriving at nothing, meets it.
+
+only with its paragraph met.
+
+so their parities can meet.
+
+a travelling meeting and the seventeen
+
+a fresh reader meets its before and its now
+
+an observing forward again meets each gathered sentence
+
+Each finding is met at files' newer motions
+
+**Values are opening statements met at writing scale**
+
+and met by continuing yeses
+
+and meeting itself again at no momentary
+
+A tour of a surface meets its method outward, carrying a method meets its surface inward, and a self entering at either meets a whole there.
+
+its prior carried and its now met;
+
+two methods meet the same evidence
+
+Taken as a prior's possible, met with now at a coupling
+
+places a thing is met at, not three kinds

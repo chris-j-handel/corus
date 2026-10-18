@@ -1565,3 +1565,101 @@ Each droplet is one saying at the section its tag names; the arrivals the saying
 **Droplet · v389 · at reviewing.** testing is not natural intelligence. do you have concerns for binary all or none at all rigor
 
 **Droplet · v389 · at unfinished sessions arriving.** An unfinished session of uncertain value arrives whole at `incoming/` and its sayings are laid as droplets with their arrival named, so its value is carried and its uncertainty is met at the resolving and not at the drop.
+
+## Concerns re-explained, v389
+
+*Standing at v389:* 2.5's "the hardest carries the greatest releasing" carries a size at a releasing, and the item's "each resolving is all or none at all, of no size beside another" parts with it; re-explaining 2.5's reason changes a meaning, brought to both at 2.3
+
+*Standing at v389:* two lines and a first sentence at a site page's top part with item 291's correction "there are no narrating sentences" at a home page's top; aimed at the site, the person's decision at Pass 5
+
+*Standing at v389:* aimed at the site's home page and the carrying's front: a span as a page's form or numerals naming positions, either-or awaiting a later visual, the person's decision at Pass 5
+
+*Standing at v389:* 1.6's paragraph carries *told* and *telling* (released at Natural Naming 2.4, *tell* at *offering*) beside *signs*: *parities* for *signs* leaves *told* standing, a re-explaining of its paragraph whole; and it parts with item 285, which passed 1.6's signs as an indication
+
+*Standing at v389:* aims at Natural Networking kit's motion and not before: 4.4's *a tipping ring*, *an even and odd returning*, *a travelling meeting* and *scheduling* are v368 instruments' result names, re-explained with that kit; item 281 offers them now
+
+*Standing at v389:* a fronts-first tour of all files before any body parts with 2.9's "the origin, the craft of explaining and naming, and this method"; an opening order is the person's decision
+
+*Standing at v389:* *code* at this file is at each rendering's code (3.4, "At each file carrying code or a rendering") as well as at resolver; which places are resolver's is a judgment at each sentence, and the twelve are not listed whole
+
+*Standing at v389:* "one reader at the close and the receiving the second" parts with 4.5's "At a session's close two readers observe its transcript whole"
+
+*Standing at v389:* a stable form at an artifact (Natural Naming 2.4) and an unchangeable form, not possibly existing (Natural Intelligence 1.4), part at no observing named; open to both, aimed at Natural Intelligence 1.4, the person's decision
+
+*Standing at v389:* 2.7's "An account can absorb any outcome, and geodesic method is no account" parts with its six binaries re-explaining each observing a field brings, no observing named that would be its one break; a page of breaks is the person's decision
+
+*Standing at v389:* 2.6's "A side needing a thing beside all things is an equilibrium entering" with 2.7's six sets a side before a concern is met, parting with meeting each concern at an observing or at resolver and at neither its speaker nor its framing
+
+*Standing at v389:* Natural Intelligence 1.3's living carrying its prior and Natural Physics' atom as a first self part with an observing of a time with no atom; aimed at the set, the person's decision
+
+*Standing at v389:* Natural Naming 2.4 releases *membrane* into *a between*, and Part TWO's title, its contents line and 2.1, 3.3, 4.4 and 5.2 carry it; a part title is brought to both selves (2.4), and Natural Arriving's "THE NAMING, THE MEMBRANE" stands beside it
+
+*Standing at v389:* Natural Naming 2.4 releases *count*, *store* and *sum* at a set's own voice, and 4.1's title and 4.4 carry *count* and *sum* as an instrument's own ("An instrument sums and returns a reading at one side"); a section title is brought to both and each place is a re-explaining at its sentence
+
+*Standing at v389:* 4.4's ring results and *round closes* part with item 151's aim at Natural Networking kit's motion; 330's *loops* is old code's own; 4.2's resolver ring rises with item 43
+
+*Standing at v389:* Natural Naming 2.4 releases *run* wholly, and this file carries it at about 75 places, 3.3's table and 4.1 among them; re-explaining each is a pass at the file (3.2, "A sweep is a reach and writing over is a pass"), and Natural Naming 2.4's "The same word at a sentence living, coupling and resolving carries whole at that sentence" parts with a sweep
+
+*Standing at v389:* *sign-only* is a value's naming at 5.1's ten, brought to both at 2.3; and its pass of 1.6's signs as an indication parts with item 149 and with Natural Naming 2.4's *sign* at *parity*
+
+*Standing at v389:* 1.3's "This file is the method, and it empties at no pass. It grows only at a working finding something about working itself" parts with 5.1's "Dissolving now, each rule releases its value, and values gather at ten"
+
+*Standing at v389:* 2.6's "parting, 0, its concern" and "at 0 its prior inverts, its concern alternated" part with the self's "0 is a meaningless strange addition" and "The resolver's 0 is the code's and not the working's"
+
+*Standing at v389:* needs the person's decision, as the item itself has it: whether naming is the set's membrane and so Natural Naming's place among files; aimed at Natural Naming and Natural Arriving, meeting no sentence here
+
+*Standing at v389:* 5.2's 'A set is a society of selves, its files, coupling at their membranes' parts with 4.5's 'living files, each a non-living existing form its living selves carry', at a file as a self
+
+*Standing at v389:* 1.1's 'A file as it is at its set is the prior ... Its carry ... is the next' parts with the item's 'The living file is now existing. Its offerings, possibling and carryings are the next still possible', at whether a living file is prior or now
+
+*Standing at v389:* 4.5's 'two readers observe its transcript whole, from its latest momentary to its first' parts with Co-Chaining Logic Registry's 'The same round read from next to prior is the other order', at whether a record met from latest to first is such a round
+
+*Standing at v389:* 1.6's 'each finding its writing makes about working is placed here' parts with 1.3's 'A finding about working rides there, at this file's own section, and arrives here as its next' and 1.4's 'nothing enters it in a working that receives it'
+
+*Standing at v389:* 2.9's 'The carrying is one file, current' and 1.3's 'one section at each file' part with a carry of offerings, possibling and carryings at each living file, each a file of its own
+
+*Standing at v389:* 1.6's 'its carrying met at no voice but its own' parts with offerings carrying droplets in their droppers' words; the person's decision whether the check runs at insertlets only
+
+*Standing at v389:* 1.6's 'arriving and releasing are at files' own versions and in the archive' parts with insertlets at these offerings having carryings name things that have left a file
+
+*Standing at v389:* 1.4's passage that 'releases at that file taking it, with nothing in its place', an adding, parts with 1.6's 'A release, a concern out and nothing in its place', at one word release for two motions
+
+*Standing at v389:* 2.6's 'each met at code' parts with an insertlet at these offerings, aimed at 2.6, of an executing deciding nothing, at an executing parting two sentences
+
+*Standing at v389:* 2.8's 'Each living file is open to each working, and a working changing a file gives the file its own name' parts with an insertlet at these offerings, aimed at 1.4, of one kind of session alone improving living files; the person's decision
+
+*Standing at v389:* 2.6's 'At 2 its sentences are offered' and 5.3's 'released at 10 and carried along at 9' have steps at a number, and 3.4 at whole numbered names, '2-now-possibling', '14-next-possibling'; Improving Passes' Pass 3 asks numbered names wherever a file names resolver
+
+*Standing at v389:* 1.3's 'This file is the method, and it empties at no pass' parts with 1.6's 'A carry kept as a record of its journey is a carry fixed as a store', at Part FOUR's worked instances of earlier workings, 4.4's 'At Exhibit ONE's code as it stood before v372'
+
+*Standing at v389:* 2.7's 'No proof of the whole is sought' parts with a newer sentence of a proof, no other method possibly explaining observings; Natural Intelligence parts 'not existing' from 'not possibly existing'; the person's decision
+
+*Standing at v389:* 2.8's 'A session's number and a working's letter name a working, v380A, v380L, v380R' parts with workings arriving at two and three letters, v386RR, v383Op, v386EOD; the person's decision
+
+*Standing at v389:* 2.7's 'carrying one, it is a concern of 2.6, alternated until a thing beside is found, and re-explained at parity changing' parts with the offered 'followed at its own subject ... six places to follow its explaining', at whether a field's sentence is re-explained or followed
+
+*Standing at v389:* the offered release of 2.6's 'A side needing a thing beside all things is an equilibrium entering, and a side carrying at code is method's own' and its two sentences after parts with 2.7's 'a concern of 2.6, alternated until a thing beside is found', which leans on them
+
+*Standing at v389:* 2.3's 'An improving a working is confident about is made, at its section' and 2.8's 'a working changing a file gives the file its own name' part with the session's rule 'a living file changing at the person's word alone'; the person's decision
+
+*Standing at v389:* 1.3's 'A carry is the carrying, the next ... It carries nothing else' parts with the droplet's 'a carrying file holds the living objects of value for its subject, tools, kits, illustratings, lists, plans'
+
+## Concerns resolved at v389
+
+**Aimed at a word, the Geodesic Improving Method 3.x, line 122, *signs*, three sayings, and line 324's one, at *parities*.** *Told at their signs, a session's motions show at once. Told in one register the signs blur, and the telling hides the signs both selves need* → *at their parities*, *the parities blur*, *hides the parities*; 324 *so their signs can be said to meet* → *and their parities couple*. — v382F
+
+*Standing at v389:* carried at v389 at Geodesic Improving Method 1.6, "Told at their parities, a session's motions show at once"; ready to dissolve.
+
+*Resolved at v389:* carried at v389's released words: parities at 1.6, a resolver spiral's carrying at 4.2 and a tipping spiral at 4.4, an executing at 3.2; the one loops left is earlier code's own, the one run left is a Ramsey sequence, a field's own.
+
+**Aimed at a file, Geodesic Improving Method:** *ring*, *loops* and *closes* at the file's own voice, 3 places, 5 sayings, no section title carrying the word; the places at 302, 324 (×3), 330. Quoted short: *a resolver ring's carrying, a window three selves long* (302); *each ring result, the tipping ring, the even and odd returning, the travelling meeting and the seventeen primes' sum of 440, travels with its arrangement and its scheduling* (324); *they part at the seam the round closes at* (324); *the loops the selves go round outside the entry, and never carried as a store* (330). Passed: 118, a session closes at any pass, a session's own closing; 253, the walk closes at a step arriving at a term already carried, 5.24's closed domain at the instrument. The one name Natural Naming 2.4 carries: *spiral*, the selves coupled along, the last to the first, coming to their parities again and to a momentary once, *comes to its parities again at each n-th momentary* for *goes round at n*, *winds on* for *closes*; the seam the round closes at is the parities coming again, and the window three selves long is the spiral's own carrying. — v381R scan
+
+*Standing at v389:* carried at v389 at Geodesic Improving Method 4.2, "a resolver spiral's carrying, a window three selves long"; ready to dissolve.
+
+*Resolved at v389:* carried at v389's released words: parities at 1.6, a resolver spiral's carrying at 4.2 and a tipping spiral at 4.4, an executing at 3.2; the one loops left is earlier code's own, the one run left is a Ramsey sequence, a field's own.
+
+**Aimed at a file, Geodesic Improving Method:** *run*, *runs* and *running* at 75 places, lines 56, 58, 70, 80, 90, 96, 102, 126, 134 (3), 142, 144, 148, 152 (2), 160, 170 (7), 180, 184 (5), 190, 222 (2), 234, 236 (2), 242, 248 (2), 252 (2), 262 (3), 266, 272 (2), 274 (4), 280, 290, 294 (3), 312 (2), 322 (2), 324, 326, 328, 332, 334 (2), 373, 375, 377, 381, 383, 391 (2), 393, 395; passed at 306, *the paired Ramsey numbers run 2, 6, 18*, the field's sequence. The file says *The geodesic method is discovering next existing, and at the living file set it runs at a file*, *The along runs until a bound tips, the running tips across to it and releases it, and the along runs on*, *A run finds candidates, and a run is never the pass*, *A file carrying code carries the running, and each description, table, run and check rides beside it*. At 184, 272, 274, 334 the running is the code's and the test's. Natural Naming 2.4 carries it at *carrying*, the method carrying at a file, and the code's running *at the resolver*. — v381R scan
+
+*Standing at v389:* carried at v389 at Geodesic Improving Method 3.2, "An executing finds candidates, and an executing is not a pass"; ready to dissolve.
+
+*Resolved at v389:* carried at v389's released words: parities at 1.6, a resolver spiral's carrying at 4.2 and a tipping spiral at 4.4, an executing at 3.2; the one loops left is earlier code's own, the one run left is a Ramsey sequence, a field's own.

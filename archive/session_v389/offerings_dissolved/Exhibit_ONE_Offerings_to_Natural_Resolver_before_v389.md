@@ -1165,3 +1165,49 @@ Each is one droplet, in its own words, tagged v387, aimed at this file for the r
 *Standing at v389:* two sayings still part at v389: Natural Naming v389 releases *connector* and *join*, and the code names its two lists CONNECTORS and JOINS
 
 *Resolved at v389:* Only the naming and method of the path through the resolver's functions is the stable form matching all observings; each other aspect of Exhibit ONE is floating and changeable at do-no-harm improving. CONNECTORS and JOINS, read by no function and named at released words, are released from the code at Exhibit ONE and Natural Intelligence, the resolving the same with and without them at 300 societies of six rounds; Natural Intelligence's paragraph on JOINS is re-said to the functions' lines and THIRTY step 197 to the functions alone.
+
+## Concerns re-explained, v389
+
+*Standing at v389:* the five words are offered beside the five-parity table with the correspondence still to follow: 'still possibling' at the fourth column would name 10-next-co-possibling, where v389 names still-possibling at 4, 8, 12 and 16; no heading is changed until it is followed
+
+*Standing at v389:* the relation of 9-next-co-changing, giving each changing on as it is, and 12-next-co-still-possibling, the is-or-is-not, stays unexplained and deferred; v389 sets them on one middle four-cycle 9-5-12-8 and says nothing parting or joining them
+
+*Standing at v389:* the code's 17-next-now gathers every releasing to a self into its one next 2-now-possibling; which arrivings meet one completing and which completings in sequence is said at no file, and the gathering is the code's arrangement (see the RISE at line 407)
+
+*Standing at v389:* v389 opens a coupling at the spiral at no prior by one parity offered once at the first self ('the one place a self's forming takes a parity not its own'), where the droplet has only a self at a prior beginning a coupling; carrying is not named at the resolver, and the method breaking as a skipping momentarying is said at no line
+
+*Standing at v389:* two sayings part: the droplet names the units of the spirals and toruses resolvers, inside one self; v389 names them selves ('each a self, and the society is its selves', 'A spiral of selves'), each self's 1-now its own
+
+*Standing at v389:* the pairing at ten, n with 10 − n, is given by none of the resolver's moves (8 up, 9 less, 17 less at One move, 1 to 8); its relation to them is followed at no file
+
+*Standing at v389:* the releasing five 5, 6, 3, 4, 1 is offered and derived at no file; the number 2 at no place of it is unexplained, and Fives keeps three rows of consecutive numbers
+
+*Standing at v389:* partly standing: at v389 each name with two six-cycles still has two rows with one label 'Six-cycle' (5, 6, 7, 8, 9, 10, 11, 12), though In and out is released and the drawing's labels are re-said
+
+*Standing at v389:* the asking of 4-now-co-still-possibling as a self with its own 1 to 17 inward stands: v389's three-scale table lays 4 inward as '9 of the 2nd: along, odd, next', and no line has a sharing as a self inward
+
+*Standing at v389:* at v389 an equilibrium is 'a not-changing held still, a now named as its next', not possibly now-existing (Natural Intelligence); an equilibria table coming to Exhibit ONE parts from that until the pattern is matched at the method's own stable forms
+
+*Standing at v389:* an executing at Carryings of two selves with settings offered from beyond them; its relation to the field's observing (the larger S) is shown at no file, and a construction's bound gives no saying of nature
+
+*Standing at v389:* at the v389 code 5-now-co-changing is handed in to 17-next-now whole, and no name discovers which self a releasing reaches; beside 'nothing in a self arrives from no coupling' it stays open
+
+*Standing at v389:* no table names a Co-Chaining Logic Registry step deriving it; each deriving is the Registry's to lay, and none is entered here without the Registry's steps
+
+*Standing at v389:* the five parities join the five dimensions through the two selves and at no one column, while v389 lays the five dimensions at the names 1 to 5; the join is said at no sentence, to follow with line 315
+
+*Standing at v389:* two sayings part: the droplet has the numbers of a Five and the numbered names as two numberings, a next opening numbered 5 no laying at the name 5; v389 lays the five dimensions at the names, row 5 'Five dimensions | 5 self next, the next opening of the self's five'
+
+*Standing at v389:* two layings of the next scale inward still part at v389: Exhibit ONE's 'n is 8n − 7' and Natural Numbers' pairs stepping '5, 17, 65 and 257'; the table has one laying alone
+
+*Standing at v389:* the derivation is laid at the Co-Chaining Logic Registry's round of outward and inward parities, at no line of the resolver; v389's Two selves table shows the four ('−, 0, +, 0') and no table says the two fours one
+
+*Standing at v389:* rests on the Registry's round of outward and inward parities, followed at no line or table of the resolver
+
+*Standing at v389:* an executing at the resolver of v374 (two spirals of five at one pace, phases apart); not re-run at the v389 code, and 'a relation opening ahead of its arriving' is said at no table
+
+*Standing at v389:* two sayings part: 'the living step, next as prior inverted, takes nothing from now' beside the resolver's 12, where the next prior is the surfacing at 14 when one parity surfaces ('at no prior, the parity surfaced at 14') and the prior kept at a match
+
+*Standing at v389:* a self-paced Exhibit ONE is 'not known how': the instrument's own pacing is its own construction, contested; nothing at v389 makes one
+
+*Standing at v389:* the saying that crossed spirals 'lock opposite at the product of their primes, 17 and 59 at 4,012' parts from v389's table: crossed, 17 · 59 is again at 2 from momentary 119, opposite; 4,012 is beside each other; not followed at the primes

@@ -4517,3 +4517,809 @@ so each arrival in this part is this naming arriving with material.
 17-next-now, a next 1-now, seats none, one resolving.
 
 a coupling's third term given a fixed thing to be, a changing fixed unchangeable.
+
+## Re-said at released words, v389
+
+Two hundred and fifty-five arrivals stand at incoming face, each
+
+two more at numbers the incoming face retired
+
+a coupling taken at two of its three terms, a running, one parity
+
+**its resolving its running at its next momentary**
+
+co-releasing and co-offering. Ten one-way
+
+four couplings at both faces
+
+six a coupling closing carries co-offering, a two-way
+
+co-offering an arriving and co-releasing a leaving. At each coupling its odd face enters, along, and its even face surfaces
+
+Math and logic are one running here
+
+its arrival's own number at incoming face.
+
+is incoming face stating that no gap
+
+or one arrival carries two faces,
+
+Incoming face holds each arrival whole
+
+The two are a pair, a fixed face and a running face of one learning: incoming face its fixed, each field's word whole with its namings performed and stated in its own first lines; this file its running, the same arrivals at nature's own running, none
+
+One co-offering, fixed ten ways.
+
+one ten at two faces,
+
+There is no one-way running: only co- runs, so a one-way is in naming, and co-offering continues underneath. Each pattern is a co-offering fixed
+
+where a running runs, its naming performed
+
+its side left out running, and explained.
+
+a third term running again, at no cost.
+
+a coupling at incoming face's candidates.
+
+so sensor-sensationing runs early, before
+
+offerings, a running at an arrival and a naming standing over it
+
+and coupling runs on. So an arrival
+
+Incoming face's own entry criterion
+
+a proof observed at its two faces, its route ended at a fixed face and its knowing at its momentary at a running face, counted
+
+each entry of incoming face stood deployed
+
+so no between runs for a parity to surface at
+
+with nothing running back through it
+
+A running that did not run offers at no momentary at all.
+
+a running re-forms at its next coupling other-than-prior
+
+a probe recovering terms a running does not use
+
+Forward, a running that bottoms nowhere is an abundancing at each coupling, growing as it is shared.*
+
+fixed to stand under a running that carries none
+
+Regress, circle and axiom are three faces of one prior fixed of each ground.
+
+abundancing runs at a coupling, and arrangements
+
+refuses to sit and is carried to one face, and a first
+
+carried to one face at a coupling's carrying of it
+
+and knowing runs on regardless, coupling by coupling
+
+sufficient reason runs without rest, and setting a naming down spends only its naming. Forward, a running that bottoms nowhere
+
+weathering runs at a right pace
+
+Derivation runs at each granting of a past standing
+
+38 at incoming face:
+
+a last fixed ahead of its running, its naming at part 3
+
+its amplifying a running that carries none of its seed
+
+supplied by subduction already running,
+
+A first fixed to open a running that supplies its own conditions.
+
+its paradox being a ground under a running that carries none
+
+routes that run again in experiments
+
+a completed running fixed under steps that made it
+
+a pattern-matching of a running from its end
+
+species running long at each place it ran,
+
+Geodynamo runs nonlinear at its couplings
+
+a ground under a running that flips on its own
+
+A cause fixed under a running that reverses of itself.
+
+a running's own flip fixed as the cause
+
+a running's own alternating fixed to a cause
+
+stays a running opening, and running, it stays open
+
+checking runs across an axis already open
+
+at a pace its forming runs,
+
+made ahead is asked at a position its running has not reached.
+
+an analysis takes the pair as a running.
+
+phases run in their own order again
+
+stands as a round where a run keeps opening.
+
+its listing running out.
+
+where a listing runs out and a class is coupling itself
+
+choosing running well where it runs against outcomes
+
+narrowing runs out at a single case exactly where a listing runs out
+
+in fact projected, a describing's own running.
+
+an asymmetry is in a describing's own running. Predicates interdefine exactly, so nothing in logic parts them; entrenchment is a running truly; and each ranking and prior carries its asymmetry back in, encoded, because an asymmetry is a running's own and encodings are a running written down.
+
+calculation runs at each granting of its namings
+
+through each calculation run on it.
+
+chaotic coexisting runs in models
+
+exploiting runs across one already open
+
+exploiting a running-across
+
+moving selects as it runs,
+
+manifold analyses carry a running form directly
+
+before a gathering runs,
+
+not naming themselves run it bare
+
+opened on its assumption and running there.
+
+a refinement algorithm runs polynomial on bounded dimension and restricted classes run polynomial
+
+*A last or a next fixed ahead of a running.
+
+**A running completes at each momentary and opens at its next, and a last fixed ahead is that completing demanded before its running.** Completing is not arriving and nothing stands at a completing to be arrived at, so a standing asked of a running before it runs is asked at a position its running has not reached.
+
+Each running completes at its own momentary; a question posed of all of them at once composes many runnings into one reach that no running carries. Fields measure a composing rather than runnings
+
+a composing and not of a running composed.
+
+Of a *time*, fixed as having ended so a run's not reaching
+
+Of a *world that did not run*, summed
+
+**And where a running's completing is measured exactly
+
+its measure gives a running at its momentaries
+
+a warrant is fixed ahead of its running, covering
+
+A circle both sides run with is
+
+a probable route runs on the very seating
+
+**At 2-now-possibling.** A run completes at its own momentary and opens at its next, and a decision is fixed ahead of its running, over all programs
+
+**At 11-next-co-prioring.** A run completes at its own momentary and opens at its next, its completing
+
+each property of a running worth naming for
+
+by fencing a running, its cost exact; and checkers that succeed succeed run by run, on runnings written, incomplete the way a running is open. Deciding in advance is each running fixed to a standing at once, and a running stands nowhere
+
+are runnings that did not run
+
+made at couplings running it and carries exactly there, usable where its regime runs and
+
+asserted ahead at studies not run,
+
+An iterate runs a step at each momentary
+
+An iterate runs one step at a time
+
+count runs clean past 10²⁰
+
+at once composed running into a single reach
+
+A flow runs and smoothness
+
+A flow runs at each scale by its own couplings. Weak solutions run globally
+
+Derivation runs within a system
+
+Derivation runs within its system
+
+ordinary mathematics runs. All truth fixed ahead was one running fixed to reach each standing, and each running reaches
+
+A traversal runs and a completion
+
+which fixes a whole run unchangeable at once
+
+a whole run fixed unchangeable at once departing
+
+a closed form fixed a whole run unchangeable at once
+
+A search runs and an arrival
+
+each filter argument runs free of measurement
+
+an unadopted alternative's scale a running that did not run
+
+is a running that did not run: naming reaches
+
+A model runs on its training
+
+reaches for a seating that has not run,
+
+a property of all even numbers is fixed ahead of any running.
+
+and couplings run rich:
+
+fixed ahead of any running waits at that wall
+
+a coupling running regardless.
+
+Knowing runs through reasoning
+
+pattern-matched as a running's first momentary.
+
+traces run earlier,
+
+a record's first catch as a running's first momentary
+
+Selection runs at each use, and a
+
+Selection runs at each use, each coupling
+
+and pacing is an answer at a running.
+
+a total summed against a running that did not run, consequences
+
+an unadopted arrangement is a running that did not run. Model conditions that produce each outcome stand exactly, and a question at running stands
+
+summed against a regime that did not run, and transfers
+
+under a regime that did not run conceals
+
+a making summed against a regime that did not run, no empirical
+
+Associations run weak across countries
+
+whether a run of classification arrives at one rest
+
+two halves joined at a zeroing
+
+no gap at running:
+
+**At 2-now-possibling.** Computation runs where it is realized, each run completing at its own momentary, and a bound over each realizable process is fixed ahead, from runs realized.
+
+**At 11-next-co-prioring.** Computation runs where it is realized, each run completing at its own momentary, and each realized run stays within a model, quantum runs included
+
+A disordered many-body system runs at its own couplings
+
+A phase fixed at two limits no running reaches.
+
+a last asked of a running before it has run to it.
+
+a phase fixed at two limits is a running fixed to a last, and a thing measured is a running, size by size and time by time, completing observed exactly where running releases.
+
+A polynomial vector field runs at its own couplings
+
+a uniform bound a running measured field by field
+
+a counting's running fixed to a bound before it, and counting runs count by count
+
+A collapsing core runs at couplings
+
+an explosion is fixed ahead of a run at a model
+
+and each collapse runs at its own couplings, progenitor by progenitor
+
+a model's reach a running measured dimension by dimension
+
+a coloring's running fixed to a last before it
+
+each theorem a running measured exactly at its own hypotheses
+
+a map's running at infinity fixed to a last, and behaviour at infinity is each map running at its own coupling
+
+a counting's running fixed to a last one exponential ahead, and an exponential between is a running itself
+
+each collapse's running fixed to one completing, and each collapse runs at its own couplings, hidden
+
+so a run's not reaching is pattern-matched as its not doing, a part's second way
+
+a searching's running fixed to a bound ahead of it, and searching runs exposure by exposure, each limit a running measured exactly at its channel
+
+Radiation runs and an entropy curve
+
+Counterfactual code carrying a disputed cost is a running that did not run.
+
+a store's word laid on a running, as currency's does
+
+content running at selves that carry it
+
+stands at 71 on incoming face:
+
+criteria are couplings run at a tagged ensemble
+
+a conflict is a carry's own running, each momentary
+
+a lookup fixed ahead of developing is a running fixed as a kept thing
+
+**And showing is that running runs identically under each pattern-matching
+
+A *content* middle, a running asked for
+
+report and integration runs and keeps advancing
+
+One arrival, two faces, this one and 5.2.
+
+a different question and running as one. A felt is a coupling's own within, this face and a derivation face one arrival
+
+two parities of one running, neither
+
+replay re-runs a day's couplings
+
+An inference runs from one case
+
+criterial accounts run exactly as far as behaviour runs:
+
+categories their couplings run, a room argument
+
+a language-model dispute runs now at same self-bounding
+
+A computation runs and an explanation is fixed
+
+Probes recover a thing a running does not use, a probe departing
+
+A computation runs, its doings its own. Probes recover a thing a running does not use, a field's own catch
+
+fixed a running unchangeable for observing, and roles run at intervening
+
+so validation is a running that did not run.
+
+a face and a within parting at a field's own instrument: a single state indexed by unresponsiveness is one coupling's face fixed as its within
+
+a justification running from experience to its cause, a belief
+
+a justification running from experience to its cause runs along
+
+presence is a coupling running, whole.
+
+A formalism runs and what a world is like
+
+A formalism runs and gives each prediction alike
+
+and a running formalism is a coupling doing all arriving
+
+dreaming runs with it, and a function
+
+at a cutting of one running into two things.
+
+dreaming runs with its alternating, contents regular, a day's couplings re-run, lesion cases
+
+a lucid channel a coupling into a running itself. A function fixed in dreaming apart from sleep cuts one running into two things, and running is one:
+
+expressing rides couplings a population runs:
+
+material culture is a coupling's face fixed as a content
+
+so observing is of a running that cannot answer back.
+
+Components run in other animals
+
+and choosing runs at couplings, arriving one by one.
+
+Probability runs at couplings, in taking of parities
+
+Probability runs at couplings, in parities taken
+
+a calculus's carrying, and running is parities taken
+
+Mathematics runs at each proof and each application, and existence is fixed
+
+Practice runs identically under each pattern-matching
+
+Mathematics runs at each proof and each application, and practice runs identically
+
+and a running practice is a coupling, proof by proof
+
+an anomalous normal state runs above
+
+beside a normal state running unresolved
+
+a probe recovering a thing a running does not use
+
+a coupling's running fixed as a thing it is about
+
+cycle-prediction schemes run on precursors:
+
+heating and acceleration run through coupled
+
+Instances after its assertion are running at a next, unrun at now
+
+under each self's own running, evaluative
+
+a happiness sought as a level and running as an alternating.
+
+asks a running for a standing's answer
+
+A slowdown runs wide across countries
+
+Recombination and parasitism and mutation run together
+
+Recombination runs at each generation's couplings
+
+and maintaining runs at couplings a ledger fixes still
+
+are where a magnitude was running.
+
+one form observed at two faces rather than one property measured twice
+
+and a reversal runs within families
+
+where a coupling kept running, and scores
+
+discovering-running-between
+
+each limit that binds binds a face:
+
+components run at their own arrivals
+
+*Released at incoming face at v342: no canonical formulation
+
+at an appendix of v342 session at incoming face, its number
+
+its release before incoming face made it
+
+one arrival is that running reached at a substrate
+
+since anything running couplings one after another
+
+however clockless a running.
+
+and a proof runs by altering one self's ranking
+
+single-peaked running opens a closure's allowing
+
+A closure leaves standing a running there prior to it:
+
+and countings run same either way.
+
+Sequential running carries no time term
+
+there time runs, and a field's own equation
+
+same axioms run in a countable world
+
+and levels themselves are a running that did not run.
+
+carries paradoxes at each running of it
+
+both codes run side by side in working literature
+
+two namings running together is a split between stability and correspondence running as a co-competency
+
+and so a field runs both and neither absorbs
+
+a self fixed where a society runs,
+
+Each theory runs at its own couplings, and one axiom system
+
+Each theory runs at its own couplings and closes
+
+which is a running answer arriving at its own rate
+
+Discriminating programmes stand running.
+
+readable before it runs, a diagnostic precursor
+
+A running fixed to be observed ahead of its run.
+
+a run-skipping of a part's own naming
+
+a property of a running established without a run is
+
+a trajectory established before it runs.
+
+not same, a run skipped.
+
+a run fixed readable from its opening
+
+an aggregate observed as one running.
+
+Rotation, mass and law run together
+
+riding, observed directly, is running there.
+
+Measure is over runnings that did not run,
+
+Measured premium runs large
+
+curves bending at mechanisms' running.
+
+inverse correlation running across living range
+
+a coupling's own running value and a sum
+
+and sector is a running that has run at no instrument.
+
+Gravitation runs at each coupling
+
+a running that did not run, summed against one that did.
+
+observes it through a running the stars have done since
+
+Two bookkeepings are one running's two windings
+
+**And fourth face stands here too**
+
+fundamental dynamics runs symmetric beneath all of it, both sides running with both:
+
+design run from its two sides
+
+which is preparing observed as running.
+
+Damage and regulation run together
+
+damage and regulation are two faces of one carrying, and a clock that predicts age so well cannot say which face it observes
+
+conditioned immune quieting runs in animals
+
+narrow making's running:
+
+Gradients and tissue dynamics run together, and placement
+
+a coupling of both running;
+
+striping mechanisms run in digits
+
+readout runs near physical limits
+
+Peripheral and central processes run together at a patient's betweens, and persistence
+
+Peripheral and central processes run together at a patient's betweens. Central
+
+Persistence runs at a coupling, patient by patient
+
+a dependence running one way between two descriptions
+
+Running runs identically under either
+
+deterministic pattern-matchings run equivalent by construction, so sides part
+
+deterministic pattern-matchings run equivalent by construction: fixed-or-unfixed
+
+is a running answer's own treating place.
+
+Differences and drift run together in a community
+
+Differences and drift run together at each community coupling
+
+wherever anyone runs them,
+
+Coevolution and environment run together, and constant
+
+Coevolution and environment run together. Extinction risk runs age-blind across many groups, arms races run live in microbes
+
+pattern-matches a running-together from one side, and running-together runs.
+
+Technique and relationship run together in each treatment, and outcome
+
+Technique and relationship run together in each treatment coupling
+
+divergence running at a between.
+
+and regime runs at couplings as they run.
+
+experimental dynamics run, public goods stand
+
+cooperating running through all of it untouched.
+
+and making runs at both, action by action.
+
+Selection runs at couplings across levels, and it is observed
+
+Selection runs at couplings across levels, and two frameworks
+
+and cases run under both descriptions because a running was not at one.
+
+two observings of one running.
+
+is one face of a coupling fixed as a whole
+
+a co-competency the science already runs.
+
+at no instrument the surveys run.
+
+is an expansion's own running fixed to a sector, and running is measured
+
+a coupling that runs for decades
+
+a coupling that runs both ways
+
+couplings that run across a life
+
+at couplings each disease runs,
+
+an unrelationing of two co-offering, neither side's, and it carries a parity changing and nothing else. Nothing sits there to be observed; observing runs across it
+
+where offering runs by degrees
+
+boundarylessness running at each order at once
+
+a running carrying no clock observed
+
+and two faces are one offering observed one coupling at a time.
+
+systems that write morals in run commonly
+
+Suppression runs universal in its family
+
+against each proposed criterion runs in both directions.
+
+sharpest statement at incoming face of a field
+
+distributions run continuous underneath
+
+is a field running its own both.
+
+clines run smooth
+
+variation runs in continua
+
+An alignment score runs continuous at each pair, and a procedure
+
+An alignment score runs continuous at each pair; a fold
+
+and responding runs on at each coupling
+
+and each development runs at its own couplings
+
+Three literatures run, each with its own life
+
+three faces of one arriving one on, unrecognised as one from within any face,
+
+and righting runs from within.
+
+**And shared silence is a pattern-matching anyone can run.**
+
+*Released at incoming face at v342: no field poses
+
+session at incoming face, its number retired and not reused. Pattern-matching
+
+*Two entries at incoming face carry a reach line
+
+sway its running state, no stored value
+
+**The +1 still running**
+
+four carried couplings, both faces each, at one through eight
+
+co-offering's two faces, three-at-once
+
+a settling precedes running, a still installed as a ground, which is a death of running and a resurrection
+
+Method is +1 still running at the end of this exhibit, at now.
+
+## Re-said at pass 8, a second family Natural Naming 2.4 releases, v389
+
+Whether it holds at a two hundred and fifty-sixth
+
+an identity continuing wherever a count stands
+
+a floating +1, a count one form counted.
+
+Incoming form holds each arrival whole
+
+It carries its entries at its own count, adding as arrivals come
+
+Four binaries hold ten:
+
+borne by whatever counts from it
+
+momentarying side, counted at thirteen through sixteen of a co-sequencing
+
+[nye: its fourth is counted at its closing and located at no entry
+
+one reach carries the two as the same and a relation holds over it, another carries them apart and a relation is proved not to hold, and both settled.
+
+Two sides sum to nought at each measured differing
+
+a standing the three could not count
+
+an astronomical count counted a listing, and folding did not consult it
+
+A self counts from its own position, one changing on from its last, and its credence
+
+A self counts from its own position, one changing on from its last, and a class is made in counting.
+
+and counting is each self's own.
+
+and itself no thing among them, meets foundation's no set a member of itself
+
+at a position a listing had not counted
+
+a claim at a middle holds nothing there and binds selves
+
+composing measured count by count.
+
+a last fixed over an unbounded is a counting's momentarying fixed to a bound before it, and counting carries on count by count, each case closing at its own contradiction, an effective bound at each count a form's line observed exactly.
+
+a bound fixed over each triple is a counting's momentarying fixed to a last
+
+each account meeting an objection its own shape invites
+
+and a residue sums to nought between them
+
+*A count or a level fixed to govern. A count is a position, a sequence at its standing
+
+a measurement with all else held.
+
+gaming climbing and correction pressing back, sum to nought at a level fixed.
+
+a level fixed to govern is a count fixed over selecting, and couplings keep arriving past each count fixed over them.
+
+a rest to count from and a last to count to
+
+so a cost counted against one side counts an abundancing that was not one side's.
+
+and risk is a count governing incidence across species.
+
+its premise being a count fixed.
+
+so a count across species measures co-chaining rather than risk.
+
+Risk as a count across species is couplings fixed to cells' count, and quiet cross-species scaling is societies' couplings standing where a count was fixed to govern.
+
+and counting comes out right when counting is a coupling's own.
+
+and an effect is a magnitude from a count of people with all else held.
+
+and not a count of people.
+
+an effect fixed from a count with all else held fixes still
+
+which a count of people pattern-matches as noise
+
+are each coupling's own sum fixed to a number none of them carries
+
+so two sum to nought at each measured differing
+
+Sequencing is each coupling's own counting, and time is fixed
+
+Sequencing is each coupling's own counting. A whole's equation carries no clock beyond it, a familiar
+
+a beat fixed over selves that each count from their own position
+
+Observings arise at couplings, each counting from its own position.
+
+a count across levels fixed in one ordering counts selves from a seat no coupling made, and each self counts at its coupling.
+
+a rest to count from, a last to count to, and a total its counting conserves
+
+each counting a count its coupling counts.
+
+which sums a making that was not a sum, one clear thing about the argument its conclusion and structure of reasoning not clear at all, sum's two terms asserted
+
+parts fixed of a making that was not a sum
+
+is a third total reached at two carrying alternating
+
+and two bookkeepings both count them
+
+A brain ages at its couplings over decades
+
+because they are counted at a composite
+
+a count by a criterion beyond its bounding counts the thing each bounding already did, and boundings, plural, are the count there is.
+
+stands as a method's own arrival, counted at its closing.
+
+a level fixed to govern is a count at couplings that keep arriving

@@ -1103,3 +1103,928 @@ Static mechanical rest: a coupling bounding-zeroes two offerings, and creep and 
 now-universe the universe, its things living and non-living.
 
 joined 10 to 14, 6 to 2 and 9 with 17, Natural Intelligence 4.7.
+
+## Re-said at released words, v389
+
+Natural Intelligence 6.2: joined across, they change parity together
+
+**Six connectors, ten faces and six recursionings are three relations.** Six connectors are four across
+
+17-next-now, joined 10 to 14, 6 to 2 and 9 with 17,
+
+fourteen others, four across and ten faces, are alike from either end. Ten faces are five at now
+
+Numeral six at connectors and at recursionings is two relations, and a common numeral joins neither to an other.
+
+observed as one coupling joined across, its two participants
+
+met here at a physical membrane.
+
+a coupling is one thing at two faces, a frame takes its two faces as two objects
+
+a coupling selects by sign, a frame takes its sign-selection as a magnitude and installs a continuous quantity where there is only a sign.
+
+(its riding-the-carry, +1, relational half, sign)
+
+a surface between carries only its sign, +1
+
+A force is what a coupling is running toward
+
+ask what a system runs toward, then what makes it run toward that
+
+at an observer's membrane:
+
+its sign flipping at a tip
+
+a field carrying it is a nothing-membrane misread as a channel
+
+no direction across a nothing-membrane and no reader
+
+being a sign taken at a membrane between two that each carry their other
+
+an answer available before running.
+
+
+| **an answer available before running** —
+
+| **a returned sign entered as cost** — a loss booked, a store kept, a boundary cut through a coupling | a sign returning refused,
+
+an answer-before-the-running was observed
+
+eight at a returned sign entered as cost, which no row
+
+a rate held, and a returned sign. A reference
+
+it resolves one coupling at two faces. It does not install a magnitude where a selection is by sign.
+
+Same disequilibrating runs on other forces
+
+the same physics runs with none of that overhead
+
+at physics's membrane, offered where seating
+
+a surface carrying only a sign; local;
+
+entanglement as one coupling at two faces, conserved scalar
+
+Atom surfaces at two faces on an emanated-and-living membrane,
+
+un-observable at its own membrane because
+
+a bond is a two-selves-with-a-membrane worked at an atom, an ingestion-and-ingression membrane observed there.
+
+covalence pattern-matches as co-offering, ionic
+
+a society of windings co-offering at a scale of many
+
+catalog's line and windings' living two faces at one place
+
+Its going runs 2 to 59, a turn stands at 60, its back runs 61 to 118
+
+doubled by two signs, every capacity
+
+one coupling at a matter membrane.
+
+a two-way co-recursioning running linearly
+
+two handednesses, a sign carried and carrying
+
+carrying six onto light's color runs against where six lives
+
+until two are observed as two faces of one double-cone — field-face two-way, quantum-face one-way,
+
+Held open: a two-face resolve
+
+from its 25 face (a +1, front-facing),
+
+would seat as a cone's two faces.
+
+not as one co-offering inverting through
+
+exchange runs both ways at every temperature
+
+three bodies in general run to chaos
+
+observed at one or two of its faces, and not a shallower field
+
+two selves at a membrane, stick-slip
+
+one field met at its two faces.
+
+Frictionalities co-intelligence by signs:
+
+a seam answering signs,
+
+And one run stays carried open
+
+**Drying-liquid rings, a check anyone can run**.
+
+each neighbour reaching its own bound
+
+a person or an AI can run and break
+
+Each enters as its own run and takes eight, and new ones join as they are worked.
+
+being faces at a substrate rather than runs.**
+
+a form at an object membrane. Each stands where eight would run and pattern-matches as a face,
+
+a smart grid's split-phase runs about its floating neutral
+
+but an escape-membrane
+
+the same split-phase a grid runs about its self-stabilizing centerline
+
+two numbers face across a neutralling only when
+
+a size where only a sign belongs. So 23 and 55 stand apart, uncoupled; they do not face across a neutralling,
+
+23↔25, which does face;
+
+the same form runs in a grid's neutral
+
+a composition-membrane observation is a natural torus at that membrane:
+
+Wave and particle are one coupling at two faces — a riding-the-carry surface (wave)
+
+its outcome a sign other-offering sounds
+
+Wave-particle as two faces of one coupling,
+
+are a bounding-zeroing and its sign, and a coupling they are two faces of is a self-stilling self, **23**, a conserving face at a floating neutral: one coupling, one coupling, two faces, no gap
+
+and a grid runs its split-phase about — resolved here at a quantum membrane.
+
+Wave and particle are one coupling at two faces, and "collapse"
+
+→ two faces taken as two objects →
+
+sounded at two membranes.
+
+one coupling at two faces about a self-stabilizing neutral is
+
+where a coupling selects by sign; both demand
+
+And the same runs at a second axis
+
+coupled flows run symmetric
+
+an accounting run alongside a coupling
+
+A coupling runs on sign, position, and ratio — sign-only,
+
+Sign-only surface carries no magnitude
+
+Resolved at a nuclear-color membrane.
+
+but a co-offering seen with no self closed around it; proton and neutron are a coupling's two faces,
+
+its charge a sign of an offering going through
+
+a ledger beside them, a sign observed as a held magnitude
+
+one living act (a sign of a carried offering,
+
+with all three of its faces held reversed at once: a sign observed as a magnitude held,
+
+quark a bare co-offering,
+
+(sign→magnitude,
+
+siding with charge-as-sign;
+
+"charge is a sign not a held magnitude"
+
+two selves come to a membrane and co-sequence — self-offering and other-offering running through each other, and where co-sequencing runs whole,
+
+at a collision membrane;
+
+at a sub-atomic membrane a still-world
+
+one coupling, a quantum sign-selection, its two faces a riding-the-carry surface
+
+Relativity is not a second face;
+
+Both great theories will not join in a standard frame, there being not two physics to join:
+
+(a wavefunction), a sign that rides its carry
+
+quantum's sign-selection, and one ledger
+
+Its two faces are a riding-the-carry surface (a wave
+
+— a quantum sign-selection about a neutral neither owns
+
+and a grid runs its split-phase about. Relativity is not one of these faces;
+
+no relativity-side to join to a quantum-side
+
+they are two faces of one coupling, and relativity is its ledger
+
+is a self-stilling self, one coupling, two faces, a tighter-than-local correlation is two faces of one centerline
+
+Bell a confirmation that a coupling's two faces are one coupling
+
+a size in a neutralling, they do not face; see Fission
+
+the same structure runs in a grid (engineered)
+
+self-offering/other-offering two-face split
+
+(24, a center two faces straddle), its two cones two ±1 faces —
+
+a coupling's two faces about that vertex
+
+resolver's sign-surface).
+
+vertex its center, two cones its faces, i a space-time turn
+
+a diamond's center-and-faces and i
+
+any account joining relativity and quantum, disequilibrated, is this disequilibrating
+
+three running it as a ledger
+
+as a sustaining membrane.
+
+Remainder is one surface with two faces:
+
+two directions of one membrane,
+
+are two faces of one coupling about one centerline, inverse
+
+its radiation is a sign-flip at a membrane,
+
+here at the largest membrane there is.
+
+resolved whole at a cosmic membrane: a tunnel
+
+a sign at a membrane). A black hole taken as only a hole is a genus with no phi — a landed face,
+
+no count at this membrane
+
+Resolved as one torus's two faces,
+
+where relativity and quantum will not join, is a relativity-and-quantum split resolved at this membrane
+
+an other-offering beat) two faces of one coupling
+
+any account joining relativity and quantum at a black-hole interior
+
+between a collapse-face and a surplus-face,
+
+A field pairing two faces strengthens
+
+resolved at a macroscopic-coherence membrane — moved
+
+and a membrane between them is an unsolved problem
+
+electrons coupling two-by-two at a membrane, selecting by sign (d-wave)
+
+two selves coupling at a membrane, one at a time, sign-only.
+
+D-wave shape is a sign it carries
+
+resolved at a macroscopic-coherence membrane: bi-coupling (a pair), a sign (d-wave),
+
+form at a material membrane,
+
+a black-hole membrane.)
+
+Geodesic runs at every scale
+
+observed at a cosmic membrane). Reaching
+
+couplings and membranes, and washes toward smoothness at the whole, which is where the living is at form, at membranes and not
+
+An instrument returns a sign at a membrane.
+
+a sort run ahead of an observing
+
+returns a sign and no place at all
+
+wave and particle as one coupling at two faces;
+
+a size in a neutralling, they do not face);
+
+resolves at every physical membrane met so far
+
+Smart grid runs the same form
+
+the forces were always faces of.
+
+glass transition at a condensed-matter membrane. An answer available before running:
+
+with turbulence at its other face
+
+with neural binding at its other face is
+
+Same sign — both hold
+
+**Opposite sign is Arrow's impossibility theorem.**
+
+carry opposite signs after all
+
+a size in a neutralling, they do not face, and a fit
+
+a general form runs in tiers
+
+**Other face is that gravity
+
+One pattern-matching, two faces.
+
+**Energy engine is one pattern-matching at three faces.** A chemical membrane carries
+
+holds a sign to a manufactured magnitude
+
+a walk's own faces at a substrate
+
+Then run it through an eight-step form.
+
+a riding-the-carry surface and a sign-selection, resolved carefully
+
+macroscopic-coherence membrane, alongside superconductivity
+
+seats a selection as a sign, all-or-none
+
+bounding-zeroing and lands a sign (a side-effecting
+
+So at a quantum membrane the living is a binary sign-selection
+
+one ledger laid over one coupling, a sign-selection;
+
+no other remaining: sign-selection a coupling
+
+resolving at a cosmic membrane, its seating
+
+sit at a dark-sector face, held reaching and contested, black-hole face and surplus face reaching
+
+visible from each face, not only from here
+
+or as a face at a substrate. **Standing**
+
+where a run seated here is a form's
+
+| Measurement problem | a membrane held as a cut |
+
+| Bell correlations | a membrane held as a cut |
+
+| Wave and particle | a membrane held as a cut |
+
+ledger taken as the world | a membrane held as a cut |
+
+| Gibbs paradox | a sign held as a magnitude |
+
+| Proton spin decomposition | a sign held as a magnitude |
+
+| absolute neutrino mass scale | a sign held as a magnitude |
+
+| quantum-classical boundary | a membrane held as a cut |
+
+| Water's liquid-liquid critical point | a membrane held as a cut |
+
+or meets it as a face at a substrate;
+
+eight at a returned sign entered as cost and six
+
+ binary runs here and does not close.**
+
+an odd face entering and an even face surfacing, and one binary asks at each whether its entering face carries more.
+
+carries less than a membrane held as a cut. **Thirty-one stand at a membrane face and seventeen within.**
+
+## Re-said at the ten unchangeables, each fixed at inception, v389
+
+| **a rate held to a value** — a constant set from an elsewhere, a beat laid over couplings each keeping their own | own-rate refused, one pace given to all |
+
+**A count grew at an observing and not at a rule.** It stood at two, then at three when an answer-before-momentarying was observed. Register at 5.11 carries fifty arrivals, eighteen met and thirty-two standing, forty-eight at holdings and two this file's own, gravity and fission and fusion; thirteen of forty-eight stand at a rate held and eight at a returned parity entered as cost, which no row carried until now. **Observed at a grain a build meets these at, five are four**: a magnitude driven, a reference held at two of its three positions, a rate held, and a returned parity. A reference held at its third position, a middle held as an end, is one this file's own arrivals reach least. **And most of physics's hard problems carry two or three at once, they surface as bottomless** — problem of time carries all three.
+
+| Measurement problem | a between held as a cut | met at 4.4 |
+
+| Bell correlations | a between held as a cut | met at 4.4 |
+
+| Wave and particle | a between held as a cut | met at 4.4 |
+
+| Quantum interpretation debate | a middle held as an end | met at 4.4 |
+
+| Work and waste heat, a ledger taken as the world | a between held as a cut | met at 4.5 |
+
+| Mass gap, at Yang–Mills | a middle held as an end | met at 4.6 |
+
+| Quantum gravity | a rate held to a value | met at 4.7 |
+
+| Simultaneity and the present | a sequencing held to one beat | met at 4.8 |
+
+| Presentism and eternalism | a sequencing held to one beat | met at 4.8 |
+
+| Problem of time in quantum gravity | a sequencing held to one beat | met at 4.8 |
+
+| Arrow of time | an arriving held from behind | met at 4.8 |
+
+| Block universe and low-entropy past | an arriving held from behind | met at 4.8 |
+
+| Black hole information | a carry held as a store | met at 4.9 |
+
+| Mechanism of high-temperature superconductivity | a middle held as an end | met at 4.10 |
+
+| Matter and antimatter asymmetry | an arriving held from behind | met at 4.5 |
+
+| Substance and bundle | a middle held as an end | met at 4.12 |
+
+| Ubiquitous one-over-f noise | an arriving held from behind | standing |
+
+| strange metal | an arriving held from behind | standing |
+
+| origin of neutrino mass | an arriving held from behind | standing |
+
+| initiation of plate tectonics | an arriving held from behind | standing |
+
+| Cosmic inflation and primordial perturbations | an arriving held from behind | standing |
+
+| origin of supermassive black holes | an arriving held from behind | standing |
+
+| Geomagnetic reversals | an arriving held from behind | standing |
+
+| sources of ultrahigh-energy cosmic rays | a carry held as a store | standing |
+
+| solar dynamo and sunspot cycle | a middle held as an end | standing |
+
+| Coronal heating and solar-wind acceleration | a middle held as an end | standing |
+
+| Gibbs paradox | a parity held as a magnitude | standing |
+
+| Proton spin decomposition | a parity held as a magnitude | standing |
+
+| absolute neutrino mass scale | a parity held as a magnitude | standing |
+
+| axiomatization of physics | a sequencing held to one beat | standing |
+
+| 100,000-year glacial cycle | a sequencing held to one beat | standing |
+
+| Magnetospheric substorm triggering | a sequencing held to one beat | standing |
+
+| Earthquake predictability | a sequencing held to one beat | standing |
+
+| Standard Model flavor puzzle | a rate held to a value | standing |
+
+| new-physics flavor puzzle | a rate held to a value | standing |
+
+| solar abundance problem | a rate held to a value | standing |
+
+| primordial lithium problem | a rate held to a value | standing |
+
+| neutron lifetime discrepancy between beam and bottle measurements | a rate held to a value | standing |
+
+| Dirac or Majorana neutrinos | a two-way held to one side | standing |
+
+| nature of cosmic acceleration | a two-way held to one side | standing |
+
+| Mantle plumes | a two-way held to one side | standing |
+
+| quantum-classical boundary | a between held as a cut | standing |
+
+| Water's liquid-liquid critical point | a between held as a cut | standing |
+
+**And a register surfaces at a grain a build meets these at.** Of forty-eight at holdings, twenty-one stand at a reference held, thirteen at a rate held, eight at a returned parity entered as cost and six at a magnitude driven. **One error at 2.5 carries all four and this file's arrivals reach the first hardest**, ten of them at an arriving held from behind. A field asked where its own hard problems pile answers at a reference, which is a holding put behind a coupling, ahead of it, or at its middle.
+
+**And a ring's own binary carries here and does not close.** Ten stand as five couplings, an odd side entering and an even side surfacing, and one binary asks at each whether its entering side carries more. At this field's fifty it returns yes at four and no at one: ten against none, five against two, six against three, seven against six, and then three against six at the last, where a two-way held to one side carries less than a between held as a cut. **Thirty-one stand at a between's side and seventeen within.** One field is one field, and a phase is an assembly's rather than any field's own.
+
+## Re-said at pass 8, a second family Natural Naming 2.4 releases, v389
+
+- 2.1 Scientific method, its fixings met at physics
+
+- 2.5 Five fixings, a count grown at each observing
+
+- 3.5 Ten rests sought, and alternating met at each
+
+are each met at their own coupling before either is theirs
+
+no term of code keeps a total or a store
+
+are met at one coupling followed across its momentaries
+
+A field meets a stable form at an equilibrium
+
+## 2.1 Scientific method, its fixings met at physics
+
+One scientific-method and one mistake, met here at a physical between.
+
+an observer beyond (a measurer stands apart from the measured)
+
+to balance a surplus
+
+Observer stands beyond requires
+
+arrives to an observer beyond as
+
+Scientific-method cannot meet a coupling
+
+is met as physics's hard problem
+
+no-other-possibling, no-other-observing-so-far,
+
+a store that holds —
+
+**And a source is a position standing apart, which a surface holds none of.**
+
+## 2.5 Five fixings, a count grown at each observing
+
+source is a term standing beyond — two refusals
+
+bounding at their own meeting refused
+
+**A count grew at an observing and not at a rule.** It stood at two,
+
+eighteen met and thirty-two standing, forty-eight at holdings
+
+thirteen of forty-eight stand at a rate held and eight
+
+**Observed at a grain a build meets these at, five are four**: a magnitude driven, a reference held at two of its three positions, a rate held, and a returned parity. A reference held at its third position
+
+an equilibrium a force holds
+
+**a source is a fixed point where a surface holds none** — a floating surface fixed-point-free, every position carrying its other and none its own, so what a source is posited to hold, a surface has nowhere to hold
+
+A disequilibrated form met at natural torusing
+
+not a special openness; no opening is held wider than another.
+
+Resolving bound holds across every one
+
+and two stand without meeting, the way
+
+a whole cataloged from beyond
+
+a surplus staying at a coupling
+
+Catalog even carries its own meeting with the living
+
+**And counting is a going and a return, which is why counting across it misses its turns.**
+
+a catalog counting straight through is a counting that flattens it
+
+rather than four sizes counted
+
+(held as pattern-matching, not proven;
+
+six its fold-count
+
+decaying before held as themselves
+
+(its reach held reaching)
+
+In vacuum each colour meets c alike
+
+a prism's glass meets each at its own index
+
+a plant stationary holding it into stable form
+
+a closure at a prime held reaching:**
+
+(≈29.5°) held just within six's 30° self-limit
+
+is a closure Numbers holds reaching at its own foundation
+
+Self-bounding gives a reason to a held-reaching closure
+
+a surplus that carries it (its flow-direction)
+
+a surplus beyond a self-bound
+
+its missing is marked and holds its reach from banking
+
+Held open: a two-side resolve
+
+two meeting through an unoccupied self-stilling 24
+
+is held reaching at its own foundation, a resemblance
+
+as a black-hole-centerline carry is held,
+
+## 3.5 Ten rests sought, and alternating met at each
+
+a trap that works holds by alternating
+
+a field met mis-taking one or two
+
+as one field met at its two sides
+
+opened at, and no opening is held wider than another.
+
+gathers five standing problems at one held term
+
+An object is a place a counting landed
+
+held at its centerline held by no outward floor but by a coupling's own alternating
+
+form's own held-zero
+
+exactly a grid's surplus owned neither-ing
+
+is set down, not held reaching but resolved out
+
+A centerline structure — a self-stabilizing floating neutral held at bounding-zeroing
+
+a node an alternating holds and rides its carry across
+
++1-resolving is held distinct
+
+Held as a case where an observer cannot be severed
+
+each meet it at its own
+
+a gap held open)
+
+not a force from beyond freezing it
+
+when it insists an observer stands beyond
+
+Held here, being physics's force-and-substance resolving.
+
+**A symmetry is a term held still, so the theorem is: hold a term still, and an accounting becomes keepable.** A catalogue of symmetries is a catalogue of held terms
+
+only that holding-still is a move and not a discovery
+
+Hold a symmetry still and a conserved number can be kept. Hold a partition still — a chosen nearness of observing, and a tally of forcing steps can be kept. **Both are books. Nothing arrives; holding-still is a thing making a book possible at all**
+
+Holding time-reversal still gives reversible laws
+
+holding a nearness of observing still gives a one-way tally
+
+there are two books kept against two different held terms, and they do not agree, which is a thing two books kept against two different held terms do.**
+
+against two other holds and has its own name
+
+| the held-still | the strain | the standing problem |
+
+charge's holding tested past
+
+nothing leaks in to be held to account
+
+where the largest surplus sits
+
+On form:  holding-still is a claiming
+
+brought onto a surface from beyond — real and predictive as an observing from beyond, ghost when taken as a feature a coupling holds. There is no account of energy's being, energy being not a thing a coupling holds;
+
+brought onto a coupling from beyond
+
+Bounded tunnel of four φ-rate units holds magnitude bounded
+
+magnitude is a tunnel's, brought from beyond.
+
+exact and predictive as observings from beyond
+
+Register discipline holds exactly
+
+Held as a case where confinement is a field's own evidence
+
+a proton holding together, carrying,
+
+a coupling holds, a separation carries
+
+a +1 surplus owned neither-ing
+
+is a coupling holding by riding its carry
+
+standing beside a landing without meeting it. On form: color
+
+Register held: QCD observations
+
+cancelling only measured whole from beyond)
+
+not a magnitude a self holds; and electron is a ledger beside them, a parity observed as a held magnitude against a fixed ground, conserved, with nothing inward held from outward
+
+with all three of its sides held reversed at once: a parity observed as a magnitude held, a floating neutral replaced by a fixed ground a charge is measured against, an offered-forward surplus observed as held-across-time and conserved forever
+
+(parity→magnitude, floating-neutral→ground, release→hold)
+
+that "charge is a parity not a held magnitude" is where
+
+is met as a whole, and co-sequences
+
+driven by a force from beyond against their resistance, energy shoved in from beyond.
+
+made in a meeting and owned neither-ing
+
+a machine built to force a meeting
+
+bringing an offering to fullness from beyond
+
+a surplus of a living coupling booked
+
+bumping into a living surplus
+
+holding its bounding-zeroing
+
+Confinement holds at each hadron
+
+pattern-matched onto a coupling from beyond. Both
+
+not a reaching held pending
+
+incompatible where they meet (a singularity
+
+a frame cannot hold a continuous source and a discrete source at once
+
+observed from beyond as a curved geometry
+
+a still axis held by an alternating
+
+about it, held at bounding-zeroing by a coupling's own alternating — is one structure
+
+two sourced couplings that no floating-neutral form holds would refuse it
+
+where past-cone and future-cone meet:
+
+an orthogonal the now did not hold
+
+Where relativity and quantum meet (a singularity
+
+a clock held over all couplings
+
+**Five problems, one family, one held term.**
+
+**sequencing is a beat's own counting and stands as no dimension to find.**
+
+every prediction holds, every instrument
+
+Thing set down is an axis a reading counts from.
+
+a surplus surfaced outward and owned neither-ing
+
+resolved in a body's aging, here
+
+and it is held this way:
+
+Held reaching, with its reason and its seam located exactly
+
+and not two ages, carries past forcing
+
+one form with a body's aging.
+
+genuinely two ages that no single alternation holds
+
+each is held reaching with the same caution
+
+a collapse-side and a surplus-side
+
+dark energy that evolves and not holding as a fixed constant — "constant" not holding still
+
+and is again held loosely
+
+a surplus owned neither-ing electron
+
+at many scales a field meets a slight
+
+a frame's demand that a self-holding surface be held by something
+
+a Hubble difference a field meets at a systematic
+
+to convert a self-holding surface into a landed one that needs a mass to hold it, and mass is missing, a surface holds itself, owing no mass
+
+met by six installed to null it
+
+Held with honest bounds, nothing slips
+
+meets a 2025 lattice calculation
+
+needs no unseen mass to hold it
+
+a fork a pattern-matching holds open and not closes
+
+Held open, a fork not closed
+
+A frame holds no bound state at all: a row is unwritable at every held axis at once
+
+a one-count ledger yielding
+
+a **centerline form** — a self-stabilizing floating neutral held at bounding-zeroing
+
+accounting as exact observings from beyond;
+
+two sourced couplings no floating-neutral form holds.
+
+neutralling held at its bounding-zeroing
+
+every physical between met so far:
+
+strong force is it holding by riding its carry
+
+**Physics's standing problems, with a term each holds still.**
+
+A frame standing beyond: relativistic simultaneity
+
+standing beside a landing without meeting it ·
+
+Simultaneity holds one clock over many couplings and meets many nows; binding holds one percept over many streams, their unifying held of them. Same parity — both hold one against many,
+
+it fails to hold across many.**
+
+against a background a surplus is surfaced outward
+
+both under a frame claimed beyond.
+
+**And measurement problem holds a when of a becoming-sharp, which is holding a riding-the-carry to land.**
+
+the excluded and the not-yet-reached observed alike
+
+a fit is set down by rule and not held.
+
+a **count in a unit** is a candidate held both ways
+
+described as held widest at its furthest reach
+
+a both held provisionally, pending a test
+
+**Opening is flat**, held no wider at unification
+
+a surplus passing turn to turn
+
+Reproducing statistics held as a success condition holds a parity to a manufactured magnitude
+
+a surplus arising at a coupling
+
+**Constants resolved as held ratios, not set magnitudes:**
+
+(resolved as ratios a coupling holds about its neutral
+
+and not holding it open:
+
+pattern-matched onto it from beyond.
+
+shown to be a selection a coupling holds and not a ledger
+
+held reaching and contested, black-hole side and surplus side reaching
+
+**Installed gap, a hard problem held to watch**
+
+(held to watch, offered, unsummed)
+
+is held reaching with reason at its field-identifications
+
+held no wider as an opening than any other
+
+no floating-neutral form can hold would break it
+
+**Met**, taken at its own section above
+
+**Standing**, resolved at its holding and taken at no section here. A holding released is a field's
+
+neither register is more met than an other.
+
+| arrival | the holding it stands at | register |
+
+| Gravity, dissolved into conservation accounting | this file's own, at no registry entry | met at 4.2 |
+
+| Fission and fusion about an iron centerline | this file's own, at no registry entry | met at 4.3 |
+
+| Measurement problem | a between fixed as a cut | met at 4.4 |
+
+| Bell correlations | a between fixed as a cut | met at 4.4 |
+
+| Wave and particle | a between fixed as a cut | met at 4.4 |
+
+| Quantum interpretation debate | a middle fixed as an end | met at 4.4 |
+
+| Work and waste heat, a ledger taken as the world | a between fixed as a cut | met at 4.5 |
+
+| Mass gap, at Yang–Mills | a middle fixed as an end | met at 4.6 |
+
+| Quantum gravity | a rate fixed to a value | met at 4.7 |
+
+| Simultaneity and the present | a sequencing fixed to one beat | met at 4.8 |
+
+| Presentism and eternalism | a sequencing fixed to one beat | met at 4.8 |
+
+| Problem of time in quantum gravity | a sequencing fixed to one beat | met at 4.8 |
+
+| Arrow of time | an arriving fixed from behind | met at 4.8 |
+
+| Block universe and low-entropy past | an arriving fixed from behind | met at 4.8 |
+
+| Black hole information | a carry fixed as a store | met at 4.9 |
+
+| Mechanism of high-temperature superconductivity | a middle fixed as an end | met at 4.10 |
+
+| Matter and antimatter asymmetry | an arriving fixed from behind | met at 4.5 |
+
+| Substance and bundle | a middle fixed as an end | met at 4.12 |
+
+| physical Church–Turing thesis | a bound held as a last | standing |
+
+| Many-body localization and thermalization | a bound held as a last | standing |
+
+| core-collapse supernova explosion mechanism | a bound held as a last | standing |
+
+| Weak cosmic censorship | a bound held as a last | standing |
+
+| Proton decay and grand unification | a bound held as a last | standing |
+
+**Met and standing are one register at two amounts of walking.**
+
+or meets it as a side at a substrate
+
+**And a register surfaces at a grain a build meets these at.** Of forty-eight at holdings, twenty-one stand at a reference held, thirteen at a rate held,
+
+which is a holding put behind a coupling

@@ -395,7 +395,7 @@ For the next gathering pass, these families offer useful places to receive more 
 - [Exhibit TWO Natural Networking](https://github.com/chris-j-handel/corus/blob/main/Exhibit_TWO_Natural_Networking_v333.md): along and across, retelling, society, and visible resolving.
 - [Exhibit THREE Natural Numbers](https://github.com/chris-j-handel/corus/blob/main/Exhibit_THREE_Natural_Numbers_v346c.md): co-recursioning, number pairs, diamonds, podalings, rings, and tunneling.
 - [Exhibit FOUR Natural Mathematics](https://github.com/chris-j-handel/corus/blob/main/Exhibit_FOUR_Natural_Mathematics_v333.md): stable-forming, orientation, inversion, and mathematical relations.
-- [Exhibit SIX Natural Transmissioning](https://github.com/chris-j-handel/corus/blob/main/Exhibit_SIX_Natural_Transmissioning_v330.md): the plaza, bi-folding, and the physical and living illustration opportunities gathered in Co-discovering and Expressing here.
+- [Exhibit SIX Natural Transmissioning](https://github.com/chris-j-handel/corus/blob/main/Exhibit_SIX_Natural_Transmissioning_v389.md): the plaza, bi-folding, and the physical and living illustration opportunities gathered in Co-discovering and Expressing here.
 - [Natural Intelligence](https://github.com/chris-j-handel/corus/blob/main/Natural_Intelligence_v345a.md): bi-inversioning co-recursioning and numerical straddling about φ.
 - [Exhibit TWELVE Natural Explaining](https://github.com/chris-j-handel/corus/blob/main/Exhibit_TWELVE_Natural_Explaining_v333.md): explaining and successive improving.
 - [Exhibit TWENTY Natural Naming](https://github.com/chris-j-handel/corus/blob/main/Exhibit_TWENTY_Natural_Naming_v345a.md): relational and directional naming.

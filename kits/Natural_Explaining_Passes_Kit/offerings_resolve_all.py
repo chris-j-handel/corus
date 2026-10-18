@@ -25,7 +25,7 @@ open(arch, 'w').write(f"{base}, resolved at v{ver}\n\n# {base}: resolved at v{ve
     f"{cnt['CARRIED']} carried, {cnt['RELEASED']} resting on a released form, {cnt['DUPLICATE']} duplicating another item, {cnt['RISE']} risen into {name}, and {cnt['CONCERN']} concerns, which stand at the offerings file. Relied on by nothing.\n\n## Index\n\n"
     + '\n'.join(idx) + "\n\n## Items, whole\n\n" + '\n'.join(body).strip() + '\n')
 rel = os.path.relpath(arch, 'carry')
-sec = [f"## Standing · v{ver}", "", f"**Met at v{ver}.** {len(items)} items stood here; met against [{name}](../{liv}), {cnt['CARRIED']} are carried, {cnt['RELEASED']} rest on released forms, {cnt['DUPLICATE']} duplicate another item and {cnt['RISE']} rose into it, each whole with its verdict at [`{arch}`]({rel}). The {cnt['CONCERN']} concerns below stand, each with its reason; {cnt['CONCERN']} stand now.", ""]
+sec = [f"## Standing · v{ver}", "", f"**Met at v{ver}.** {len(items)} items stood here; met against [{name}](../{liv}), {cnt['CARRIED']} are carried, {cnt['RELEASED']} rest on released forms, {cnt['DUPLICATE']} duplicate another item and {cnt['RISE']} rose into it, each whole with its verdict at [`{arch}`]({rel}). Its {cnt['CONCERN']} concerns stand below, each with its reason; {cnt['CONCERN']} stand now.", ""]
 for d in sorted([d for d in items if d['verdict'] == 'CONCERN'], key=lambda d: d['line']):
     sec += [para(d['line']), '', f"*Standing at v{ver}:* {str(d.get('why', '')).strip()}", '']
 open(off, 'w').write('\n'.join(front + [''] + sec))

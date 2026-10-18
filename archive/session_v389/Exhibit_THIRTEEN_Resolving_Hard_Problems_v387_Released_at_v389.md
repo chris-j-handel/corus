@@ -405,3 +405,17 @@ a law, a frame and a scale fixed between two momentaries, exact at its own ledge
 fixings unchangeable, or changing with changing.
 
 and its next is discovered at 12, owned by neither side.
+
+## Re-said at pass 8, a second family Natural Naming 2.4 releases, v389
+
+and no count is its size
+
+and meeting prior at 12-next-co-still-possibling
+
+and nothing is counted: prior is sharings
+
+**Nothing is counted.** One parting
+
+**At 12-next-co-still-possibling prior meets now at each sharing, and a changing is or is not.** Surfacing at 14 and meeting at 12
+
+Each case of a resolver met is no resolving
