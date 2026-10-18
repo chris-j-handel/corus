@@ -705,3 +705,131 @@ Any other method carries a not possible thing, said beyond the things of the uni
 Each is a form said beyond the things of the universe, a not possible thing,
 
 A why demanded asks for a not possible thing, said beyond the things of the universe, 1.1:
+
+## Re-said at never, alone, unchanged, inside and outside re-said, v389
+
+and nothing is unchanged from beside.
+
+The set is a self-emptying set, never the same collection twice,
+
+an equilibrium, never the method's.
+
+The one method is as two and never two methods
+
+parity-changing or not-changing inside the momentary
+
+One side's momentaries alone, each number one side's
+
+each momentary its own and never the same momentary twice.
+
+four give the next from now alone,
+
+and next as prior inverted alone keeps the prior whole
+
+offered nothing or its own competency alone, does not continue
+
+the same pair at a later momentary and never the same occurrence.
+
+is 0, the prior continuing unchanged, while
+
+sharing the four alone:
+
+each opening at an odd existing name, a possibling and a prioring inside it, and completing at an even still-possibling name; between
+
+| Inside, even, possibling | Inside, odd, prioring |
+
+| 1 · 2 · 3 · 4 · 5, each alone |
+
+a parity changing alone crossing it, 0 at a match;
+
+the prior, a sharing at a prior never none again;
+
+possibling to prioring inside each momentary, and the eight ends are their own set at both podals.
+
+| Name
+
+| its inside, at now and at next: the eight insides |
+
+are the four momentaries' even insides, each on the eight-cycle of insides 2-15-7-11-3-14-6-10
+
+| +, + | A from B alone |
+
+| +, + | B from A alone |
+
+| +, − | A from B alone |
+
+| +, − | B from A alone |
+
+offered to B in the first momentary alone.
+
+**Once at a prior, a sharing is never none again**
+
+is the executing's alone:
+
+bring the parity on unchanged.
+
+a possibling and a prioring inside it, and completing at an even still-possibling name: 1 to 4
+
+Its own parity changing alone crosses it,
+
+inside a momentary the between of self and other, and outside it the between of momentaries
+
+its own within and its next's, a parity changing alone crossing each
+
+released along at 9 unchanged;
+
+each parity and each 0 goes on unchanged:
+
+across and along differ in direction alone,
+
+Each podal alone, twice,
+
+8 up alone, twice, is 17
+
+possibling to prioring inside each momentary, and the eight ends are their own set at both podals.
+
+**Stable-forming
+
+at one momentary alone at a spiral,
+
+its own competency alone**
+
+The changings at the two coupled selves alone pass between
+
+coupled neither way, each alternates alone.
+
+Is-still-possibling is at the first two alone.
+
+to that self alone at its next, the others receiving its changings at 10 and never its 8.
+
+**a prior momentarying is at its own momentary alone**
+
+**A carrying is a capacity and never a stored description.**
+
+the prior alone sets the next, inverted
+
+and the binary is at the completing alone,
+
+crosses by them alone,
+
+the surface carries each coupling and never the term neither reaches
+
+is bi-co-momentarying, never either self's competency.
+
+each prior momentarying at its own momentary alone.
+
+a term neither of them reaches alone.
+
+one binary required both unchanged and inverted
+
+knowable from the method alone.
+
+not possibly and never not.
+
+at no fixing, at the coupling alone.
+
+the carrying is a capacity and never a stored description.
+
+the between never closes as one
+
+co-competent, the parity going on unchanged, and

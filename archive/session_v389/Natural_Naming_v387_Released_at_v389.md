@@ -1087,3 +1087,137 @@ no further thing, and nothing is said beyond or between the things of the univer
 | nothing is said beyond or between the things of the universe, 1.1 |
 
 and nothing said beyond the things of the universe for a changing to be drawn from
+
+## Re-said at never, alone, unchanged, inside and outside re-said, v389
+
+an explaining alone carries past each bounding
+
+*the next prior*; a sharing once at a prior is never none again
+
+all or none, the finding at its executing alone |
+
+| *living* as existing alone |
+
+a counting needs an outside to do it, a clock from outside the changing
+
+the self's own still is at 12's sign 0 alone, 5.62
+
+the between locks at none and unrelationing never locks
+
+*is facing*, of a direction alone;
+
+Bi- is difference alone and co- is two with their difference
+
+a shared number between them is a number alone.
+
+each opening at an odd existing name, a possibling and a prioring inside it, and completing at an even still-possibling name; between
+
+and inside each momentary each possibling podals
+
+the ends and the insides**: 1-9-5-13-4-12-8-16 walks the eight ends and 2-15-7-11-3-14-6-10 the eight insides,
+
+shares the spelling alone; its meaning
+
+**A number agreeing is a number alone**
+
+With the meaning unchanged, the two are one name
+
+a method-word alone is a name split
+
+sensing alone is one side extracting, and the resolver carries the relation alone, beside
+
+pattern-matching uni- as one alone has made
+
+a number agreeing with the eight bi-couplings is a number alone, 4.4
+
+the undoing of something that never changes
+
+has returned a naming alone**
+
+it shows at the construction alone, each word passing
+
+is 0, the prior continuing unchanged, while
+
+**An ordering arrives of the alternating alone**
+
+*Self* stands alone,
+
+sharing one now-existing inside a bi-coupling
+
+Each of the seven is asked alone,
+
+unfold that at their own words alone.
+
+at each coupling's own continuing, never locking;
+
+beside the never-locking,
+
+at the bi-coupling alone, a new sharing opening
+
+parity-changing or not-changing inside the momentary
+
+a hand's side alone, beside the inverted form
+
+each sharing with its parity, and a sharing once at a prior is never none again
+
+Never full, emptied by nothing, and never the same collection twice:
+
+reaches the coupled and never the term neither reaches. Co-competencing is the term neither reaches, and two alone are possible
+
+4  at a cut it is a place alone and a moment alone
+
+and a ring the closed domain alone.**
+
+2  another field offers a near word, its own arriving alone
+
+and it opens at three alone;
+
+an offering unchanged at each coupling
+
+Each rectangle's along sides pass through the next one's inside, each passing forward: two alone carry
+
+its along sides pierce the next one's inside at its across width
+
+equal to the rectangles' own 2 at φ alone: φ is the three's equal-edge condition, and the turn alone does not make it
+
+released along at 9 unchanged, and at 16-next-still-possibling
+
+Inside the bi-folding the parallel surfaces
+
+each prior momentarying at its own momentary alone.
+
+Each unrelationing never locks, at φ
+
+6  and the self at its own momentary alone, carrying and arriving
+
+and dying is a self's alone:
+
+the function 1 at each self inside it.
+
+co-competent, the parity carried on unchanged, and
+
+3  between prior and now is the between, a nothing, and a parity changing alone crosses it
+
+each self alternates at its own alone and,
+
+entraining is a parity changing alone crossing the between
+
+the binary is at the completing alone, the completing's possibling
+
+The still is at the sign 0 alone, existing
+
+cross by the two alone,
+
+4  one binary required both unchanged and inverted
+
+knowable from the method alone
+
+known from the method alone, without any momentary arriving
+
+one binary required both unchanged and inverted at one next. The three
+
+passed over and never an offering not existing, and at the registry's front, not possibly and never not.
+
+an equilibrium entering, which the method never gives |
+
+at a network's store that never releases
