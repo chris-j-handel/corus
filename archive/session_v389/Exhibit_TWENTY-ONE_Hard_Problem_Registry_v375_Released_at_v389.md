@@ -4407,3 +4407,67 @@ The entries stand here, one to a problem, **and their count is recomputed at the
 Corrections are applied against the literature.
 
 Each figure is recomputable from the entries.
+
+## Re-said at offerings risen, v389
+
+**The entries are numbered from one, in the order they were entered.**
+
+constructed in no continuum theory. Each open.
+
+(publication, two years, general acceptance). Remaining properties: keyed at next pass.
+
+Pulsed cold-neutron beam counting electrons — a first result not yet precise enough to favour either set.
+
+(both methods improved with independent systematics). Remaining properties: keyed at the next pass.
+
+Stellar depletion and diffusion — mechanisms demonstrated, with required uniform correction unsettled.
+
+arXiv:1909.01245. Remaining properties: keyed at next pass.
+
+**Progress.** Transport record across families. Measured saturations of proposed bound. Solvable models yielding linearity.
+
+dissipation-bound and solvable-model routes at that review's sections. Remaining properties: keyed at next pass.
+
+Superconducting state qualitatively understood, in the field's own summary. Cold-atom realization.
+
+materials-search and model routes at that review's sections, observed at pass one. Remaining properties: keyed at next pass.
+
+gluon helicity is constrained over a growing range, and several gauge-invariant sum rules stand.
+
+to settle the decomposition). Remaining properties: keyed at next pass.
+
+the loophole-closing route at experimental sources at the address, observed at pass one;
+
+modified-dynamics formulation not observed this pass.
+
+formation rate standing between them.
+
+**Progress.** Recurrent genome duplication, immediate isolation mechanisms, duplicate-gene innovation and elevated early extinction risk are documented.
+
+**Own record.**
+
+## 213
+
+New Phytologist, 2015, doi 10.1111/nph.13192. Remaining properties: keyed at next pass.
+
+Genomic dating — detects ancient duplication after extensive fractionation.
+
+and the other approaches stand keyed at next pass. Persistence, no settling:
+
+Partial regularity — the singular set bounded to parabolic Hausdorff dimension zero, a strong constraint that does not exclude.
+
+the closure routes at references at the address. Remaining properties: keyed at next pass.
+
+Ordinal analysis — extends the transfinite route upward, each system's proof-theoretic ordinal established, each needing a stronger metatheory.
+
+Probing was shown by its field to recover information the system does not use, a proved limitation on its own instrument;
+
+for controls its field established. Remaining properties: keyed at the next pass.
+
+**Persistence.** Settled as posed.
+
+Approaches: philosophical and experimental routes at the same entry's sections. Remaining properties: keyed at next pass.
+
+The statement conflates being caused with being compelled.
+
+review of timing evidence as its entry carries it: Schurger et al., 2021. Remaining properties: keyed at the next pass.
