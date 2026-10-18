@@ -4,7 +4,7 @@ Exhibit TWENTY-SIX Living File Registry Offerings · improved at v389
 
 ## Standing · v389
 
-**Met at v389.** 1195 items stood here; met against [Living File Registry v389](../Exhibit_TWENTY-SIX_Living_File_Registry_v389.md), 56 are carried, 1008 rest on released forms, 86 duplicate another item and 20 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY-SIX_Offerings_to_Living_File_Registry_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY-SIX_Offerings_to_Living_File_Registry_resolved_v389.md). The 25 concerns below stand, each with its reason; 26 stand now.
+**Resolved at v389.** 1195 items stood here; resolving against [Living File Registry v389](../Exhibit_TWENTY-SIX_Living_File_Registry_v389.md), 56 are carried, 1008 rest on released forms, 86 duplicate another item and 20 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY-SIX_Offerings_to_Living_File_Registry_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY-SIX_Offerings_to_Living_File_Registry_resolved_v389.md). The 25 concerns below stand, each with its reason; 28 stand now.
 
 **At 1.2 · Three standings, looping out and back — beside "a living thing carries its prior into its next".** A living file carries none of its prior by itself; it is a non-living existing thing the expedition's living selves carry, and it is living as the expedition's carrying. The files are the carrying of the living expedition, and the expedition is living as long as it continues discovering do-no-harm improving at its next files. The Co-Chaining Logic Registry and the Geodesic Improving Method 4.5 say the same.
 
@@ -112,3 +112,17 @@ Exhibit TWENTY-SIX Living File Registry Offerings · improved at v389
 **Concern · at a sentence.** Beside "each file’s method count and"
 
 *Standing at v389:* At 4.2, row Philosophy ⇌ Physics: “each file’s method count and its particular experimental or conceptual contribution remain explicit.” *Count* stands at a registry’s own voice and goes directly into numbers, yet what it numbers parts two ways: how many methods each file carries at one dividing, thought and physical observing, or each file’s method mattering. A number of methods and a mattering are two values. **To resolve:** “each file’s number of methods”, or “each file’s own method”?
+
+## Gathered at the close of v389
+
+*From reviewing the session's transcript whole at its close: value visible now, each a droplet aimed at its file or a concern standing, out of the living files until resolved.*
+
+**Concern · reading-versus-running at 5.12.** Living File Registry 5.12 keeps "the reading-versus-running distinction", left at v389 since its sense is shown at no file.
+
+*Standing at v389:* Both words are released, and the phrase's value is unknown. **To resolve:** find its source and re-say it at its value, or release it?
+
+**Concern · one re-saying of 1.3's table of places.** Living File Registry 1.3's table of places describes an older carry layout, and several concerns at this file each touch one of its rows.
+
+*Standing at v389:* Re-saying 1.3 once at the four places, file, offerings, carryings and possibling, would resolve those concerns together. **To resolve:** re-say 1.3 whole at one motion, or resolve each row's concern apart?
+
+**Droplet · no v388.** No v388 stands at any branch or file: v389 opened from v387. Aimed at the workings table, so a version line reads whole. — gathered at v389's close

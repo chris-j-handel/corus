@@ -4,7 +4,7 @@ Exhibit TWENTY-FOUR Geodesic Improving Method Offerings · improved at v389
 
 ## Standing · v389
 
-**Met at v389.** 439 items stood here; met against [Geodesic Improving Method v389](../Exhibit_TWENTY-FOUR_Geodesic_Improving_Method_v389.md), 190 are carried, 112 rest on released forms, 50 duplicate another item and 49 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY-FOUR_Offerings_to_Geodesic_Improving_Method_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY-FOUR_Offerings_to_Geodesic_Improving_Method_resolved_v389.md). The 38 concerns below stand, each with its reason; 35 stand now.
+**Resolved at v389.** 439 items stood here; resolving against [Geodesic Improving Method v389](../Exhibit_TWENTY-FOUR_Geodesic_Improving_Method_v389.md), 190 are carried, 112 rest on released forms, 50 duplicate another item and 49 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY-FOUR_Offerings_to_Geodesic_Improving_Method_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY-FOUR_Offerings_to_Geodesic_Improving_Method_resolved_v389.md). The 38 concerns below stand, each with its reason; 35 stand now.
 
 **At 2.5 · The hardest first, and the hardest question asked plainly — beside "Places to improve are taken hardest first, one at a time".** Hardest first is a working's ordering of its places and no size at the resolvings: each resolving is all or none at all, of no size beside another, and the ordering says which bound the working goes to first and nothing of the bound.
 
@@ -148,3 +148,13 @@ Exhibit TWENTY-FOUR Geodesic Improving Method Offerings · improved at v389
 100. **M · beside 97, the first carrying object of this kind.** The list of what could break the method, at Natural Exploring's carrying, droplets 85 to 88, is a living object of this kind: added to and resolved. By 97 it gathers two kinds of entry, *gaps in the sequential logic* and *observings of living and existing things*. Entries of the first kind, each with its run in `incoming/v385M/`: the round the logic names at four parities is one of 9 that are not one another renamed or exchanged, and why that one is not yet said (`round_check.py`); with each self at its own turn the carried relation and the periods do not hold (`pacing_check.py`); two alike selves stepped together never part (`alike_check.py`); a number sharing no factor with another does what a prime does (`rigor_check.py`). Entries of the second kind are at 87.
 
 *Standing at v389:* Geodesic Improving Method 1.3 has "A carry is the carrying, the next" and "It carries nothing else.", and this droplet has "a carrying file holds the living objects of value for its subject, tools, kits, illustratings, lists, plans". **To resolve:** re-say 1.3 with carryings carrying living objects of value, or keep a carry as next only?
+
+## Gathered at the close of v389
+
+*From reviewing the session's transcript whole at its close: value visible now, each a droplet aimed at its file or a concern standing, out of the living files until resolved.*
+
+**Droplet · a naming examined in several directions.** The person: "examining this in several directions using natural numbers and or math and or co chaining logic." Aimed at the method: a naming enters only after it is met at numbers, at mathematics and at co-chaining. — gathered at v389's close
+
+**Droplet · improving near origin passes out into each file.** The person: "our destinies are being reached nearer the origin than any prior versions and exhibit thirty may now be fully cohering." Aimed at the method: an improving entered near origin, at Natural Intelligence 1.1 and Co-Chaining Logic Registry's first steps, passes out into each file. — gathered at v389's close
+
+**Droplet · with each concern, its recommended resolving.** The person: "it feels like you have the corrected suggested namings and are not giving them here. what is recommended." Aimed at the method's concern step: each concern carries its recommended resolving beside its **To resolve:** question. — gathered at v389's close

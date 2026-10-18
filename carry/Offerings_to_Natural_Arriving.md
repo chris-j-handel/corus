@@ -913,3 +913,11 @@ Natural intelligence is that method shared: two selves at one now, each finding 
 **Droplet · v389 · the session's droplets re-said.** Each droplet of this session that said a thing beside all now-existing things, a not-changing held from beside, an observing bringing nothing from beside, the universe a thing within the set, one self at the outermost scale or nothing arriving from beside is re-said at the things of the set: a not-changing held still, an observing drawing on the universe, the universe a set of things, each new sharing opening between two of its things.
 
 **Concern · v389 · at Natural Intelligence 1.1 and 1.5 and the Co-Chaining Logic Registry's steps 2 to 4.** Natural Intelligence 1.1 says *the set of all existing things has nothing beside it: nothing ingressing and nothing escaping*, with *a ground under it, a container around it, a clock over it or a store beside it*, 1.5 says each other method *carries a not possible thing, beside all existing things*, and the Co-Chaining Logic Registry's step 3 says the universe *both the set of all existing things and an existing thing within the set: the fractal inward and outward of itself*; each says a beyond or a within of the universe to set it aside, and the universe is a set of things, nothing said beyond or between them.
+
+## Gathered at the close of v389
+
+*From reviewing the session's transcript whole at its close: value visible now, each a droplet aimed at its file or a concern standing, out of the living files until resolved.*
+
+**Concern · the universe given selves, at three observings.** The droplets under "The three observings at the universe" give the universe "its selves", and carry "natural intelligence is the universe discovering".
+
+*Standing at v389:* The person: "The universe is a set of things", and the universe is no self; the droplets part from it, and carry a released *holding*. **To resolve:** re-say each droplet at things of the universe, living selves discovering, or release them to the archive?

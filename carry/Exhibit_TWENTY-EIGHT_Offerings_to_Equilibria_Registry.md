@@ -4,7 +4,7 @@ Exhibit TWENTY-EIGHT Equilibria Registry Offerings · improved at v389
 
 ## Standing · v389
 
-**Met at v389.** 351 items stood here; met against [Equilibria Registry v389](../Exhibit_TWENTY-EIGHT_Equilibria_Registry_v389.md), 131 are carried, 114 rest on released forms, 69 duplicate another item and 19 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY-EIGHT_Offerings_to_Equilibria_Registry_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY-EIGHT_Offerings_to_Equilibria_Registry_resolved_v389.md). The 18 concerns below stand, each with its reason; 15 stand now.
+**Resolved at v389.** 351 items stood here; resolving against [Equilibria Registry v389](../Exhibit_TWENTY-EIGHT_Equilibria_Registry_v389.md), 131 are carried, 114 rest on released forms, 69 duplicate another item and 19 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY-EIGHT_Offerings_to_Equilibria_Registry_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY-EIGHT_Offerings_to_Equilibria_Registry_resolved_v389.md). The 18 concerns below stand, each with its reason; 16 stand now.
 
 **3. Conceptions stated at the older resolver.** NY03, NY04, NY05, NY06, NY15, NY16, NY17 and NY20 arrived in their own words, at the older resolver's *fresh carrying*, *retaining* and *returned values*, which Exhibit ONE v376 does not carry. They stay whole, as each conception does. What parts: each names a still at a code that no longer exists. What settles it: each executed at Exhibit ONE v376, its still found or not; a conception stated again at the current code arrives beside the old one as its own row. — v376
 
@@ -71,3 +71,11 @@ The user's further offering is: “if the living stable form is colliding with n
 54. **M · Natural Intelligence 6.5.** What would go against 44 and 52: a machine reaching what was not prior with no count set over it by anyone.
 
 *Standing at v389:* nothing parts; 52 places Go at this registry, a lead with no statement, and Natural Intelligence 6.5 has, of a trained form, "pattern matching prior competency with no carrying", while 47 and 53 leave open whether self-play under a count set over it is a carrying; to rise, Go needs a conception of equilibria in game theory's own words, beside 4.9's and 4.11's game-theory rows. **To resolve:** enter Go at 4.14 as a lead with its statement, and is self-play under a set count a carrying or not?
+
+## Gathered at the close of v389
+
+*From reviewing the session's transcript whole at its close: value visible now, each a droplet aimed at its file or a concern standing, out of the living files until resolved.*
+
+**Concern · a state read as ingressing, a flow written as escaping.** Equilibria Registry 2.4 carries "a state read is a store fixed as entering now, an ingressing, and a flow written a changing fixed as leaving into a store, an escaping", a pairing laid at v389 beside the person's resolution and not confirmed by the person.
+
+*Standing at v389:* The pairing rests on *read* and *store*, each released. **To resolve:** keep the pairing, re-said at observing, or release it and keep only "separated, state and flow are not possible"?

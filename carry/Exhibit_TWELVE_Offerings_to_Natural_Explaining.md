@@ -4,7 +4,7 @@ Exhibit TWELVE Natural Explaining Offerings · improved at v389
 
 ## Standing · v389
 
-**Met at v389.** 260 items stood here; met against [Natural Explaining](../Exhibit_TWELVE_Natural_Explaining_v389.md), 111 are carried, 53 rest on released forms, 47 duplicate another item and 22 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWELVE_Offerings_to_Natural_Explaining_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWELVE_Offerings_to_Natural_Explaining_resolved_v389.md). Its 27 concerns stand below, each with its reason; 26 stand now.
+**Resolved at v389.** 260 items stood here; resolving against [Natural Explaining](../Exhibit_TWELVE_Natural_Explaining_v389.md), 111 are carried, 53 rest on released forms, 47 duplicate another item and 22 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWELVE_Offerings_to_Natural_Explaining_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWELVE_Offerings_to_Natural_Explaining_resolved_v389.md). Its 27 concerns stand below, each with its reason; 26 stand now.
 
 **Concern · That self's own carrying shown, and that carrying offered across.** Two sayings part, a concern for both. Natural Explaining has "that self's own carrying shown, and that carrying offered across". Beside it is the saying of a self's carrying as its own, crossing at no coupling of selves, and of the thing crossing as one sharing's parity at its changing. They part at a carrying crossing between selves: either the sentence is said again at the carrying the self's own, or the sentence is as now and is said of another relation. The concern was found at the working v380A and laid at no carrying before. — v386EOD
 
@@ -109,3 +109,9 @@ These are descriptions of possible expressions. The word “painting” establis
 **Concern · at a sentence.** Beside "**Importancing is one move at each of its membranes**"
 
 *Standing at v389:* 4.9's 'Importancing is one move at each of its membranes, a music, a film, a poem, a joke' parts with Natural Naming 2.4's *membrane* at 'a between ... no location and no existing thing': a music, a film, a poem and a joke are existing artifacts, and at *a between* each is a nothing. This file's offerings carry a concern beside it, *Importancing, and the namings at its place*. **To resolve:** is each artifact here a between selves couple across, or is 4.9's sentence re-explained at an artifact and its coupling?
+
+## Gathered at the close of v389
+
+*From reviewing the session's transcript whole at its close: value visible now, each a droplet aimed at its file or a concern standing, out of the living files until resolved.*
+
+**Droplet · gaps in looping explainings.** The person: "we can use the gaps in our looping explainings as podaling brings in outside parity changing and the travel through the" momentaryings. Aimed at Natural Explaining: a gap's two sides visible, 4 )( 5, 8 )( 9, 12 )( 13, 16 )( 17, each a place an explaining's looping takes in an other's parity changing to resolve inward. — gathered at v389's close

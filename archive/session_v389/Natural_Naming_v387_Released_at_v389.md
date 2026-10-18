@@ -2091,3 +2091,13 @@ leave out *existing* and now holds no thing
 at resolver its method meets prior at 3-now-co-prioring
 
 meeting an other's offerings at each sharing 4
+
+## Re-said at a gap, both its sides visible, v389
+
+**Each span's names are two momentaries of four**, each opening at an odd existing name, a possibling and a prioring within it, and completing at an even still-possibling name; between each completing and next opening is a gap, both its sides fixed, 4 )( 5, 8 )( 9, 12 )( 13 and 16 )( 17, and 17-next-now is next 1-now.
+
+## Re-said at the ten, their reason and their gathered namings, v389
+
+each one-way reading's similar namings at its own row, 4.9; the ten unchangeables; the ten unchangeables; *ten holdings*; *ten standings*; the ten |
+
+**Each of ten unchangeables carries one name: changing, and an unchangeable it is fixed as.**

@@ -6,7 +6,7 @@ Improving Passes · from v389
 
 ## Opening a next session
 
-1. **Working.** v389 is live at corus.me from `main`. Open a working from `main`, `working/<what>-v390`; this session's own working, `working/sweeps-and-plan-v389`, merges first if still open.
+1. **Working.** v389 is live at corus.me from `main`, `working/pass-0-the-v389` merged whole. Open a working from `main`, `working/<what>-v390`. Check corus.me first: its file list (`files.json`) shows each of thirty-two files at v389, and a file opened whole at corus.me opens at its v389 first line.
 2. **Read three places.** This file; Living Improving Value's standing; the passes kit README, its propose · check · enter steps.
 3. **Measure before starting.** At repository root:
    `grep -oiwE 'read|reading|named|said|says|never|alone|unchanged|inside|outside' <file> | wc -l` and `grep -oiw the <file> | wc -l` give a file's open words; each offerings file's open items are its `**Droplet`, `**Insertlet`, `**Concern`, `**Possible project` and `**Aimed at` paragraphs.
@@ -44,6 +44,21 @@ Each of these is entered at Natural Naming 2.4 or 6.3 and at the files; a pass a
 **Concerns set-wide, each one motion across the set when resolved.** *sign-only* or *parity-only* (Natural Engineering's offerings); a front form (Hard Problem Registry's offerings); subtitles offered (Natural Chemistry, Living Society Registry); *store*, *floor*, *lock*, *free* at a changing, still at files; each file's earlier code re-taught (the second sign, sums, torusing, reach), at Networking, Engineering, Medicine, Living Ghost Registry and Corus, aimed at citing Exhibit ONE by its names.
 
 **Learning kept, awaiting a better natural explaining**: across and along at natural resolver's 6, 10 and 9, at Natural Naming's offerings, *The between crossed across and carried along*; its standard is readable, inside resolving, -ing co-chaining and bi-coupling, binary all or none at all, and the most demanding past writing toward it is at Natural Intelligence's prior versions.
+
+## Gathered at the close of v389
+
+**The session's transcript, reviewed whole at its close**, gave value visible now that was not yet carried; each is a droplet or a concern at its offerings, section *Gathered at the close of v389*, at Natural Intelligence, Exhibit ONE, Natural Naming, Hard Problem Registry, Living File Registry, Natural Networking, Geodesic Improving Method, Natural Explaining, Natural Arriving and Equilibria Registry. Entered at once, each the person's own resolving: a gap's two sides *visible*, not fixed, at Natural Intelligence, Exhibit ONE, Natural Naming and Co-Chaining Logic Registry; the ten's reason at Natural Naming 4.9, "a relation not floating neutraling can not remain existing through prior, now and next"; Natural Naming 6.3's ten-unchangeables row gathering its earlier namings again; the kit's rules at the person's decisions.
+
+**First at pass 2, by what most helps resolving:**
+1. Sharings at 6 to 2, 10 to 14 and 9 to 17 beside natural resolver, where 6, 10 and 9 arrive at one list at a receiving self (Natural Intelligence's offerings); resolver is authority, and many sentences rest on these pairs.
+2. A second now at Natural Intelligence 1.2, 1.5 and Co-Chaining step 4, beside "there is no second now in the origin of this".
+3. Set-wide decisions: *sign-only*; one front form; offered subtitles; *aging* as going stale; earlier code taught at Networking, Engineering, Medicine, Living Ghost Registry and Corus; Conditions prior at 255 registry entries.
+
+**How a concern goes to the person, in the person's own standards:** one at a time, readable, inside resolving; draft explaining sentences first and the concern last, so the person can suggest into them; say plainly whether a change is proposed and whether the concern still stands; give the recommended resolving beside the **To resolve:** question; examine a naming in several directions, numbers, mathematics and co-chaining, before it enters; where a reply does not fully resolve, ask again a near yet not the same way; take concerns in the order that most helps resolving.
+
+**Pass 9, words with a 2.4 row and no pass yet:** *emanating* at the set's voice (about 230); *store*, *floor*, *lock* at a changing; *give* beside *take*, once its row is resolved; *at* a place staying in place, once its row is resolved; *momentary* as a noun, once a row is resolved; *scientific method* at *scientific-explaining-method*; *holdings* and *meetings*, plurals pass 8 did not meet. A hand reading of Natural Networking's clipped sentences.
+
+**Loose ends for pass 6:** `carry_check.py` still checks the one-carrying form; the Living File Registry kit's README checksum; the v387 review offerings at `archive/` referenced at no file; a fresh reader comparing v389 with v387 at each file, not yet done whole.
 
 ## Pass 3, as done at v389
 

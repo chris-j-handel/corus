@@ -4,7 +4,7 @@ Exhibit TWENTY Natural Naming Offerings · improved at v389
 
 ## Standing from the sessions before v389 · v389
 
-**Read at v389.** The sessions before v389 laid 520 items here; read at v389 against [Natural Naming v389](../Exhibit_TWENTY_Natural_Naming_v389.md), 165 are carried at it, 216 rest on forms v389 released, 78 say a value another item says, and 21 rose into it at v389, each standing whole with its reading at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY_Offerings_to_Natural_Naming_before_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY_Offerings_to_Natural_Naming_before_v389.md). The 40 concerns read at v389 stood below, each as it was laid, with the reason it stands; 37 stand now, the rest resolved at v389 and at the archive.
+**Resolved at v389.** The sessions before v389 laid 520 items here; resolving against [Natural Naming v389](../Exhibit_TWENTY_Natural_Naming_v389.md), 165 are carried at it, 216 rest on forms v389 released, 78 duplicate another item, and 21 rose into it at v389, each standing whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY_Offerings_to_Natural_Naming_before_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY_Offerings_to_Natural_Naming_before_v389.md). The 40 concerns read at v389 stood below, each as it was laid, with the reason it stands; 42 stand now, the rest resolved at v389 and at the archive.
 
 **Possible project · The observings of entraining at the self named, each with its reference first.** Natural Naming's entraining at the self has "the field's entrainment, one flow carrying the fluid beside it at the shear between them, and two at their own rates coming to one direction forward", each observing unnamed. The work names each observing with its reference first. Beside the two at their own rates: Huygens' two pendulum clocks on one beam, the field's mutual entrainment, which Exhibit TWENTY-NINE Natural Illustrating's section on locking has. Beside the flow carrying the fluid: a flow lifting grains from its bed, the field's entrainment at sediment, one carrying another. Each was said from no reference read, and each enters with its reference. It may change or never be made. — v386EOD
 
@@ -163,3 +163,31 @@ Natural Naming 5.14’s “and it compounds” and its abundancing/releasing exp
 **Concern · at a sentence.** Beside "and *not-yet-bi-moral* and *not-yet-co-competent* are six names' other sides."
 
 *Standing at v389:* Natural Naming 2.6 gives *not-yet-bi-moral* and *not-yet-co-competent* as a negating prefix at "six names' other sides", and Natural Naming 2.4 releases both labels into odd *existing* and even *possibling*, by each name's own number, no negation in either. A re-saying drops 2.6's example of a negating *not-*, or keeps two released labels as mentions. **To resolve:** at 2.6, re-say as "released *not-yet-* labels carry at six names as even *possibling*, an odd *existing*'s other side, 2.4", or drop this example and keep *non-living* alone?
+
+## Gathered at the close of v389
+
+*From reviewing the session's transcript whole at its close: value visible now, each a droplet aimed at its file or a concern standing, out of the living files until resolved.*
+
+**Concern · nothing gives as nothing takes.** The person: "nothing gives as nothing takes." Natural Naming 2.4 has a row releasing *take*, and none for *give*; about two hundred *gives* stand across the files, twenty at Natural Intelligence, and Natural Naming 6.3's *beneficial* row itself uses one.
+
+*Standing at v389:* One half of a pair is released and its other half carries on, so a giving stands where a taking is gone. **To resolve:** add a 2.4 row carrying *give*, *gives*, *giving* at a sharing as the row for *take* does, and re-say each at a pass, or keep *gives* where a field or a resolver result is meant?
+
+**Concern · *at* for a place staying in place.** The person: "we can not use at in this as nothing is happening at a place that stays in place." *at* carries many re-sayings across the set, among them 2.4's own carrying of *met*.
+
+*Standing at v389:* *at* is both a released form, a place staying in place, and a carrying word, a name or a sharing reached. **To resolve:** add a 2.4 row releasing *at* a place staying in place, carried by -ing co-chaining and a name reached, and keep *at* a name, or keep *at* as it stands?
+
+**Droplet · no momentary, momentarying.** From a pasted earlier session, the person: "there is no map. there is no momentary. there is momentarying. there is no discovered, there is discovering." *momentary* stands as a noun throughout the files; a 2.4 row could carry it at *momentarying*, as *map* and *discovered* are carried. — gathered at v389's close
+
+**Droplet · unchangeable, a name shaped as a negation.** *un-changeable* is the one name of the set shaped as a negation, entered at v389 from the person's "speak of them as unchangeables". A positive carrying could stand beside it when one is found, as no unhelpful negation is the set's standard. — gathered at v389's close
+
+**Concern · *emanating* at the files.** Natural Naming 2.4 releases *emanating* said of method; about two hundred and thirty uses stand at living files outside file titles, Natural Biology about fifty-five, Living Ghost Registry about twenty-seven, Natural Medicine about twenty-five.
+
+*Standing at v389:* No pass met them at v389, so a released word carries on at many files. **To resolve:** a pass re-saying *emanating* at each file's own voice per its 2.4 row, Natural Emanating's title kept, or keep *emanating* where it is an artifact's own?
+
+**Concern · store, floor and lock still at files.** Natural Naming 2.4 releases *store*, *floor* and *lock* at a changing; about two hundred seventy *store*, one hundred twenty *floor* and forty *lock* stand at living files, many a field's own.
+
+*Standing at v389:* Each stands at its 2.4 row and at no pass yet. **To resolve:** one pass at these three, a field's own kept, or keep them where each is a field's?
+
+**Concern · *scientific method* and *scientific-explaining-method*.** Natural Naming 4.8 hyphenates *scientific-explaining-method*; about thirty-two unhyphenated *scientific method* stand at files.
+
+*Standing at v389:* One concept at two forms. **To resolve:** re-say each at *scientific-explaining-method*, or keep *scientific method* where a field's own words are meant?

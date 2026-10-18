@@ -115,7 +115,7 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 
 **Each name is its number and its naming, one hyphenation.** Its number is its place and its parity, odd existing and even possibling; *now* is a self's span, 1 to 8, and *next* a society's, 9 to 16, 17-next-now a society's next arriving as each self's 1-now; *co* is a name at a sharing between two, and a name without it is at one. Six names between selves say odd and even by their numbers: 2, 6, 10 and 14, even, across, possibling, a changing shared at 6-now-co-possibling and 10-next-co-possibling another self's possibling at its 2-now-possibling and 14-next-possibling; 9 and 17, odd, along, existing, 9-next-co-changing next prior released and 17-next-now a next now. Each self's existing is another self's possibling, one changing at a sharing across and no second thing.
 
-**Four momentaries and their gaps.** Each span's names are two momentaries of four, each opening at an odd existing name, a possibling and a prioring within it, and completing at an even still-possibling name; between each completing and its next opening is a gap, both its sides fixed, and 17-next-now is a next 1-now.
+**Four momentaries and their gaps.** Each span's names are two momentaries of four, each opening at an odd existing name, a possibling and a prioring within it, and completing at an even still-possibling name; between each completing and its next opening is a gap, both its sides visible, and 17-next-now is a next 1-now.
 
 | Momentary | Opening, odd, existing | Within, even, possibling | Within, odd, prioring | Completing, even, still-possibling | Gap |
 |---|---|---|---|---|---|

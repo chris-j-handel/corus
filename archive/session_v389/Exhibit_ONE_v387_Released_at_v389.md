@@ -886,3 +886,7 @@ Prior at 3 meets surfacing at 14
 each sharing at which offerings and prior meet,
 
 prior and offerings meeting |
+
+## Re-said at a gap, both its sides visible, v389
+
+**Four momentaries and their gaps.** Each span's names are two momentaries of four, each opening at an odd existing name, a possibling and a prioring within it, and completing at an even still-possibling name; between each completing and its next opening is a gap, both its sides fixed, and 17-next-now is a next 1-now.

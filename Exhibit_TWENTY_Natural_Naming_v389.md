@@ -424,7 +424,7 @@ Exhibit TWENTY Natural Naming v389
 
 ## 3.4 Four momentaries, 8 up and podals
 
-**Each span's names are two momentaries of four**, each opening at an odd existing name, a possibling and a prioring within it, and completing at an even still-possibling name; between each completing and next opening is a gap, both its sides fixed, 4 )( 5, 8 )( 9, 12 )( 13 and 16 )( 17, and 17-next-now is next 1-now.
+**Each span's names are two momentaries of four**, each opening at an odd existing name, a possibling and a prioring within it, and completing at an even still-possibling name; between each completing and next opening is a gap, both its sides visible, 4 )( 5, 8 )( 9, 12 )( 13 and 16 )( 17, and 17-next-now is next 1-now.
 
 **8 up is the same name at next**, each of four binaries continuing, 1-now to 9-next-co-changing and 8-now-still-possibling to 16-next-still-possibling. At 9 less, a podal within 1 to 8, and at 17 less, a podal within 1 to 16, eight ends of four momentaries are their own set, an odd existing end with an even still-possibling end at each pair, and within each momentary each possibling podals to a prioring, now-possibling next-prioring.
 
@@ -552,7 +552,7 @@ Four pairs are two concepts at two names, meaning changing on transposing:
 
 ## 4.9 Ten unchangeables, one name each
 
-**Each of ten unchangeables carries one name: changing, and an unchangeable it is fixed as.** Ten are at no side: separated, state and flow are not possible, as a reading from and a writing to a memory are for intelligence, and each of ten is a field's separating, at a state accounting or a flow accounting, stilling fixed as a whole, each seated at its resolver name, 1-now to 8-now-still-possibling.
+**Each of ten unchangeables carries one name: changing, and an unchangeable it is fixed as.** Ten are fixed relations: a relation not floating neutraling can not remain existing through prior, now and next, so each of ten is fixed at inception and unadaptable to resolving, held by no one. Ten are at no side: separated, state and flow are not possible, as a reading from and a writing to a memory are for intelligence, and each of ten is a field's separating, at a state accounting or a flow accounting, stilling fixed as a whole, each seated at its resolver name, 1-now to 8-now-still-possibling.
 
 8-now-still-possibling, a self's next prior between momentaries, and 6-now-co-possibling, changing shared across, each carry one of ten, and 7-now-prioring and 5-now-co-changing each carry two. At resolver pair 1-2 is 1-now and 2-now-possibling, now, and pair 3-4 is 3-now-co-prioring and 4-now-co-still-possibling, existing, Exhibit ONE. Three carry their namings: 1-now with 2-now-possibling bi-momentarying, 3-now-co-prioring with 4-now-co-still-possibling co-intelligencing and 5-now-co-changing co-competencing. Exhibit THIRTY's thirty-first group carries ten.
 
@@ -1603,7 +1603,7 @@ the between of momentaries    nothing is at rest, nothing is at it
 | **beneficial**, each changing and each not-changing a method gives, keeping a self next-existing as itself, its other a not-changing held still, an equilibrium entering, which a method does not give | the good, the better changing, at a mark named still |
 | **artifact**, a non-living prior at now, a prior now-existing's form carrying nothing | emanation, emanated, emanating at the non-living prior, 2.4 and 5.46 |
 | **each resolver name**, at its number | each gathered name and code name, at its number, 3.3 |
-| **ten unchangeables**, one name each, each fixed at inception and unadaptable to resolving | each one-way reading's similar namings at its own row, 4.9; the ten unchangeables; the ten unchangeables; *ten holdings*; *ten standings*; the ten |
+| **ten unchangeables**, one name each, each fixed at inception and unadaptable to resolving | each one-way reading's similar namings at its own row, 4.9; *the ten named still*; *the ten one-way readings*; *ten holdings*; *ten standings*; the ten |
 | **16-next-still-possibling**, a society | the social-self-torusing |
 | **attentioning**, a carrying at now at each momentary, at Natural Intelligence | the carrying's opening by one, gathered at 16 to v371 and released with the old code |
 | **a between**, two offering, a nothing at each of its scales | a membrane; at the membrane, the boundings at 2, 4, 6 and 8, now the bi-couplings outward; the membranes between selves; sixteen membranes between the 17 primes; a file is a membrane |
