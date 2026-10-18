@@ -736,3 +736,233 @@ So surface stands as a so-far.
 **The not-yets stand plainly where they stand**
 
 They are facing away by construction
+
+## Re-said at pass 8, a second family Natural Naming 2.4 releases, v389
+
+1.2  Bi-moralizing co-agency, and a bond its first meeting at the chemical substrate
+
+1.6  Carbon the chemical self, the element the count and the chemistry the coupling
+
+4.2  Water's two liquids a sway held to a point
+
+4.4  Elements the doubling side, one recursioning counted one hundred eighteen times
+
+what those societies emanate, held or booked.
+
+Held as living, an emanation is a ghost.
+
+## 1.2 Bi-moralizing co-agency, and a bond its first meeting at the chemical substrate
+
+Its couplings sum to a bounding-zeroing the coupling itself makes
+
+A chemical bond is the first meeting of this form at chemical substrate.
+
+**Coefficient arrives at arithmetic rather than as a discipline held.**
+
+molecule-society met through its own built middles
+
+Holding two at one beat makes an equilibria picture
+
+comes from holding two turns together
+
+## 1.6 Carbon the chemical self, the element the count and the chemistry the coupling
+
+**The element is count; chemistry is coupling.** Proton count six is exact and carries in every unit.
+
+carbonate ion, and count carries name. One count and many substances, one count and many nuclides, one count and many oxidation states is a field's own record that properties live at coupling and word at count. An interior posited inward of count is
+
+**four-of-eight an exact middle count**
+
+transition-metal chemistry carry other counts.
+
+held at a completed count;
+
+so shared pair meets a +1 owned-neither-ing
+
+and a square is a sum of odds
+
+so capacities `2n²` are odd orbital counts accumulated and doubled
+
+Odd position counts and even electron capacities
+
+stay three distinct counts at a field side
+
+and closed shell a filled-count pattern-matching
+
+**Twenty-four is four-factorial, four-level close, met at carbon's own tetrahedron.** Carbon's proton count is six
+
+carried at twenty-four as at every count, so it bridges nothing
+
+which is Numbers 6.3's four-level close counted in a field's own way
+
+change unit: a count carries on, and a magnitude carried scale
+
+a count carried in a unit keeps unit attached
+
+and an identity holding at every centre is form and selects no count.
+
+relation and count cross,
+
+six of this file stands at 5.6, at count of rates and registers on one surface
+
+is Natural Biology's to hold; here observing stays at chemical between, where two hands meet different couplings.
+
+one handed relation met again at several chemical and living scales
+
+the hand is met again rather than independently chosen
+
+asks a carrying to hold still.
+
+a symmetry fixed as ground and asymmetry met as an anomaly
+
+one field holding for the reason the balance did not hold and the other reason it did.
+
+holding where coupling holds it, carrying to one side where coupling carries it
+
+only if a floor holds it there
+
+and a source held behind an excess is holding at registry at this arrival
+
+this is sentence above met at an instrument
+
+so this section is where two crossings meet
+
+and nothing leaks in to be held to account.
+
+Green chemistry counts several sides of discard.
+
+Product held as located in device is drawing recorded
+
+and input form the scientific method holds keeps all still but one
+
+Holding a hand and carrying an emanation out are one condition
+
+Form meets this as offerings distributed
+
+and holding contributors as structures the molecule visits is map held as territory
+
+subshell capacities of 1.7 met again at a ring
+
+counts and rule are a field's.
+
+a count at nucleus and a parity at a between
+
+lands at every between it is met at.
+
+Held as a little owner of charge
+
+and hydration exchange supplies no count of six, meeting six-observing form at 5.6
+
+compartments here being examples and no closed collar count.
+
+Blood pH is normally held in a narrow range
+
+## 4.2 Water's two liquids a sway held to a point
+
+and a field holds sway to end at a liquid–liquid critical point
+
+and a point held of a sway at a position
+
+are identified with no count and no intelligence
+
+a transition held as a point in temperature holds an arriving to a location
+
+A location a field holds exactly is an address, and the table addresses an element by several co-chained counts:
+
+Atomic number is an exact proton count.
+
+count and addresses are exact and kept, chemistry is made at couplings, ghost accounting beginning only where count is made
+
+so a cut held in elements is a field's drawing
+
+## 4.4 Elements the doubling side, one recursioning counted one hundred eighteen times
+
+Relation the table carries whole is its count, one hundred eighteen proton counts, and Natural Numbers carries the same count at two sides
+
+so no fact stands there for a turn to meet. Going and return stand at Numbers as count's linear side, and sum of four shell capacities, `2 + 8 + 18 + 32 = 60`, is a count of capacities
+
+element sequence pattern-matches as turning counted at composition substrate
+
+while flat layout holds it as rows
+
+straight across on an even count, two and sixty-two
+
+so the return meets the going station
+
+**The present count reaches a hardest arrival at element one hundred eighteen.**
+
+Where a count meets its own relation is at a closing, and a field's record carries exact counts that Natural Numbers holds as its own objects, each a count of a structure or a symmetry in a field's own words, carrying on under every change of unit.
+
+Each arrives at one of two registers: at relation, where a field counts the same thing Numbers counts, or at count only, where numeral arrives and relation parts.
+
+| at the relation, or at the count only |
+
+at relation: four-factorial as a field counts it, at carbon's own tetrahedron
+
+| at count; relation to seam reaching yet |
+
+| at counts sixty and one hundred twenty;
+
+counts are exact and a field's. A count and a relation are two
+
+Three more counts stand with their relation reaching yet, and twenty-four, twenty-seven and thirty-two arrive as exact atomic-number counts, chromium, cobalt and germanium, and with argon core closing at 18 their added-electron counts are six, nine and fourteen.
+
+carried at twenty-eight as at every count.
+
+**The counts are carried and relation reaches yet**
+
+so counts at their own carry no relation and pattern-matching is number-form's straddle met at a field's record
+
+**two phase counts coupling at prime self-close at one nuclide**
+
+Six is no count of those reactions;
+
+is the carrying ageing to its bound and releasing there
+
+rather than one thing holding fluidity still.
+
+Holding still is what a field has sought at every one of its betweens
+
+whose measured effects meet at a protein between
+
+catalytic and reversible-inactivation rates meeting in measured models
+
+counts that carry in every unit (Natural Numbers 2.2, 11.1); an exact count crosses whole
+
+while its surface coupling holds,
+
+are met here at the count three and the count two
+
+per mole a count declared rather than measured
+
+triple junction of Corus 15.2 met at phase diagram
+
+an object held behind them to be approximated the holding.
+
+and molecular structure meets an exact-symmetry problem
+
+and a fold held as a kind on a continuous similarity
+
+stands available to meet Natural Numbers three-phase form
+
+each at holding it releases
+
+a cut held in elements; glass transition, an arriving held to a location; homochirality, an excess held to have come from somewhere; Gibbs paradox, a coupling's term held as a possession; water's liquid–liquid critical point, a point held of a sway; work and waste heat, product held as located in device;
+
+a sway held as a state;
+
+**The three phases are met here at three arrivals**: atomic numbers twenty-four, twenty-seven and thirty-two, exact counts;
+
+in a chosen unit of which count three crosses. Exact count, nuclide composition
+
+since a count received with no coupling at this between
+
+isotope counts or millihertz labels
+
+counts Numbers holds as its own objects met at a field's own polyhedra and point groups, at relation where a field counts the same thing and at count where it does not.
+
+A chemical substrate the form has not met opens an axis the form did not hold
+
+Each is met so far at its own between
+
+opens axis the form did not hold.

@@ -5207,3 +5207,119 @@ co-offering's two faces, three-at-once
 a settling precedes running, a still installed as a ground, which is a death of running and a resurrection
 
 Method is +1 still running at the end of this exhibit, at now.
+
+## Re-said at pass 8, a second family Natural Naming 2.4 releases, v389
+
+Whether it holds at a two hundred and fifty-sixth
+
+an identity continuing wherever a count stands
+
+a floating +1, a count one form counted.
+
+Incoming form holds each arrival whole
+
+It carries its entries at its own count, adding as arrivals come
+
+Four binaries hold ten:
+
+borne by whatever counts from it
+
+momentarying side, counted at thirteen through sixteen of a co-sequencing
+
+[nye: its fourth is counted at its closing and located at no entry
+
+one reach carries the two as the same and a relation holds over it, another carries them apart and a relation is proved not to hold, and both settled.
+
+Two sides sum to nought at each measured differing
+
+a standing the three could not count
+
+an astronomical count counted a listing, and folding did not consult it
+
+A self counts from its own position, one changing on from its last, and its credence
+
+A self counts from its own position, one changing on from its last, and a class is made in counting.
+
+and counting is each self's own.
+
+and itself no thing among them, meets foundation's no set a member of itself
+
+at a position a listing had not counted
+
+a claim at a middle holds nothing there and binds selves
+
+composing measured count by count.
+
+a last fixed over an unbounded is a counting's momentarying fixed to a bound before it, and counting carries on count by count, each case closing at its own contradiction, an effective bound at each count a form's line observed exactly.
+
+a bound fixed over each triple is a counting's momentarying fixed to a last
+
+each account meeting an objection its own shape invites
+
+and a residue sums to nought between them
+
+*A count or a level fixed to govern. A count is a position, a sequence at its standing
+
+a measurement with all else held.
+
+gaming climbing and correction pressing back, sum to nought at a level fixed.
+
+a level fixed to govern is a count fixed over selecting, and couplings keep arriving past each count fixed over them.
+
+a rest to count from and a last to count to
+
+so a cost counted against one side counts an abundancing that was not one side's.
+
+and risk is a count governing incidence across species.
+
+its premise being a count fixed.
+
+so a count across species measures co-chaining rather than risk.
+
+Risk as a count across species is couplings fixed to cells' count, and quiet cross-species scaling is societies' couplings standing where a count was fixed to govern.
+
+and counting comes out right when counting is a coupling's own.
+
+and an effect is a magnitude from a count of people with all else held.
+
+and not a count of people.
+
+an effect fixed from a count with all else held fixes still
+
+which a count of people pattern-matches as noise
+
+are each coupling's own sum fixed to a number none of them carries
+
+so two sum to nought at each measured differing
+
+Sequencing is each coupling's own counting, and time is fixed
+
+Sequencing is each coupling's own counting. A whole's equation carries no clock beyond it, a familiar
+
+a beat fixed over selves that each count from their own position
+
+Observings arise at couplings, each counting from its own position.
+
+a count across levels fixed in one ordering counts selves from a seat no coupling made, and each self counts at its coupling.
+
+a rest to count from, a last to count to, and a total its counting conserves
+
+each counting a count its coupling counts.
+
+which sums a making that was not a sum, one clear thing about the argument its conclusion and structure of reasoning not clear at all, sum's two terms asserted
+
+parts fixed of a making that was not a sum
+
+is a third total reached at two carrying alternating
+
+and two bookkeepings both count them
+
+A brain ages at its couplings over decades
+
+because they are counted at a composite
+
+a count by a criterion beyond its bounding counts the thing each bounding already did, and boundings, plural, are the count there is.
+
+stands as a method's own arrival, counted at its closing.
+
+a level fixed to govern is a count at couplings that keep arriving
