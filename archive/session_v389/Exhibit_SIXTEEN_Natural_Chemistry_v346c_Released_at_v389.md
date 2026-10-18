@@ -666,3 +666,73 @@ So Numbers emanates and Chemistry observes, each at its own direction, the outwa
 ## Re-said at state and flow, separated not possible, v389
 
 State and flow are across and along sides of one alternating, neither derived and neither sourced.
+
+## Re-said at offerings risen, v389
+
+each length twice in succession
+
+and shells themselves complete at 2, 10, 30 and 70
+
+inverted region, predicted at 1956 and observed
+
+And triple point is a field's one point of zero degrees of freedom,
+
+and subshell capacities two, six, ten and fourteen are the same odds doubled one at a time.
+
+5.1  A natural energy engine, cycling and the surplus kept
+
+## 5.1 A natural energy engine, cycling and the surplus kept
+
+and its surplus is a +1, owned neither-ing.
+
+no between, no surplus, nothing advancing
+
+Surplus owned neither-ing is relational competency
+
+a rate-enhancement and no surplus
+
+acceleration as surplus while
+
+sensing, surplus observed and kept
+
+surplus the relation renewed through sequence
+
+3.3  Dissolving a bi-coupling, and a hydration shell a forming-and-releasing loop
+
+## 3.3 Dissolving a bi-coupling, and a hydration shell a forming-and-releasing loop
+
+loop nested in loop
+
+(Natural Numbers 9.4, 10.11)
+
+grinding a slurry of both hands in contact with solution drives the whole to one hand, complete, from a stochastic imbalance amplified by crystals' own dissolving and re-forming (Viedma, 2005), and the same ripening resolves amino-acid derivatives.
+
+Along, separating is taken one beat at a time and appears as a spiral;
+
+Solubility, ions leaving and rejoining, Ostwald ripening showing exchange at crystals.
+
+placing it within reach.
+
+Coupling stands bare on surface at physics, shell, standing sides, even, and here it is observed down tunnelling: bond, carry co-released inward, odd.
+
+Chemistry and physics are odd and even of one coupling
+
+here observing stays at chemical between, where two hands meet different couplings.
+
+metastable arriving first at its own rate.
+
+a bond is coupling at chemical substrate and carry crossing to cell above and atom below at coefficient one
+
+and solid, gas and liquid are identified with no count and no intelligence.
+
+**A between where changing sharpens and magnitude
+
+6.5  A between where chemistry and the form couple, so-far and not-yet
+
+## 6.5 A between where chemistry and the form couple, so-far and not-yet
+
+So surface stands as a so-far.
+
+**The not-yets stand plainly where they stand**
+
+They are facing away by construction
