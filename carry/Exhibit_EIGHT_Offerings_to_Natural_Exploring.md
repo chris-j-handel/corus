@@ -4,7 +4,7 @@ Exhibit EIGHT Natural Exploring Offerings · improved at v389
 
 ## Standing · v389
 
-**Met at v389.** 81 items stood here; met against [Natural Exploring](../Exhibit_EIGHT_Natural_Exploring_v389.md), 5 are carried, 27 rest on released forms, 19 duplicate another item and 4 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_EIGHT_Offerings_to_Natural_Exploring_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_EIGHT_Offerings_to_Natural_Exploring_resolved_v389.md). Its 26 concerns stand below, each with its reason; 26 stand now.
+**Met at v389.** 81 items stood here; met against [Natural Exploring](../Exhibit_EIGHT_Natural_Exploring_v389.md), 5 are carried, 27 rest on released forms, 19 duplicate another item and 4 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_EIGHT_Offerings_to_Natural_Exploring_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_EIGHT_Offerings_to_Natural_Exploring_resolved_v389.md). Its 26 concerns stand below, each with its reason; 19 stand now.
 
 **Concern · Natural Exploring 7.3, 4.6 and 1.1 beside the co-chaining.** Two sayings part, twice. Natural Exploring has, at 7.3, "one thing is fixed, the properties themselves" and "the schema is closed once, at one place". Exhibit THIRTY Co-Chaining Logic Registry has "The same at all momentaries at once is a form still". They part at a thing fixed: closed once, or a form still. Natural Exploring has, at 4.6, "The gather carries half the competency and all the increase". The Registry has "Each resolving is all or none at all, of no size beside another resolving." They part at a size: a portion, or none. 1.1's omegaing and apexing, the reach and the gather, resolve at the naming of the reach, parting between Natural Naming 3.6 and Natural Intelligence 3.2. The Registry has from this file, entered at version 378, uniqueness at each arriving. It is a concern for both. — v386EOD
 
@@ -54,31 +54,11 @@ Defect: Natural Exploring, sections as bold paragraphs, not headings. (Re-Settli
 
 *Standing at v389:* A droplet at this file calls a side above, 10-next-co-possibling, *duplicated carrying value*. At natural resolver a value offered more than once is a changing, shared across at 6 and 10 and along at 9, and a carrying is a side offering none across, 8-now-still-possibling, arriving only at its own next. **To resolve:** does *carrying value* mean a changing a releasing carries, offered again, or a self's own carrying, offered at none?
 
-**Concern · at a sentence.** Beside "**1 A method inside disequilibria**"
+**Concern · at a sentence.** Beside "**1 A method inside disequilibria**"; and at one concern beside "# 1 A method inside disequilibria"
 
 *Standing at v389:* Part 1's heading, *A method inside disequilibria*, sets disequilibria as a place a method stands in. Natural Naming 2.4 carries *inside* as a place into *inward*, *outward*, and releases *in disequilibria* too: "changing *in disequilibria* is by none, a negation of equilibria". Re-said as *within* or *at*, this heading still leans on a released phrase, and its contents entry moves with it. **To resolve:** is Part 1 re-headed as a method's own condition (for example *A method, disequilibrating*), or does *in disequilibria* stay as this file's heading word until its file motion?
 
-**Concern · at a sentence.** Beside "# 1 A method inside disequilibria"
-
-*Standing at v389:* Part 1's heading, *A method inside disequilibria*, sets disequilibria as a place a method stands in. Natural Naming 2.4 carries *inside* as a place into *inward*, *outward*, and releases *in disequilibria* too: "changing *in disequilibria* is by none, a negation of equilibria". Re-said as *within* or *at*, this heading still leans on a released phrase, and its contents entry moves with it. **To resolve:** is Part 1 re-headed as a method's own condition (for example *A method, disequilibrating*), or does *in disequilibria* stay as this file's heading word until its file motion?
-
-**Concern · at a sentence.** Beside "carry-differing membrane to membrane, one method whole."
-
-*Standing at v389:* At 2.7 a membrane carries and renders a method: "Each membrane renders the one method in its own carry, a rate and a grain the membrane keeps." Natural Naming 2.4 carries *membrane* as *a between*, "a between neither side's, a nothing, no location and no existing thing", and a nothing renders and keeps no rate. Here a membrane is nearer a scale, 2.7's own "each scale a carry differing". **To resolve:** is *membrane* at carry-differing re-said as *scale* (scale to scale), or as *a between*, a carry differing at each crossing?
-
-**Concern · at a sentence.** Beside "and each membrane carries it in a differing carry. Carry-differing is a method staying one while its carry differs membr"…
-
-*Standing at v389:* At 2.7 a membrane carries and renders a method: "Each membrane renders the one method in its own carry, a rate and a grain the membrane keeps." Natural Naming 2.4 carries *membrane* as *a between*, "a between neither side's, a nothing, no location and no existing thing", and a nothing renders and keeps no rate. Here a membrane is nearer a scale, 2.7's own "each scale a carry differing". **To resolve:** is *membrane* at carry-differing re-said as *scale* (scale to scale), or as *a between*, a carry differing at each crossing?
-
-**Concern · at a sentence.** Beside "Each membrane renders the one method in its own carry, a rate and a grain the membrane keeps."
-
-*Standing at v389:* At 2.7 a membrane carries and renders a method: "Each membrane renders the one method in its own carry, a rate and a grain the membrane keeps." Natural Naming 2.4 carries *membrane* as *a between*, "a between neither side's, a nothing, no location and no existing thing", and a nothing renders and keeps no rate. Here a membrane is nearer a scale, 2.7's own "each scale a carry differing". **To resolve:** is *membrane* at carry-differing re-said as *scale* (scale to scale), or as *a between*, a carry differing at each crossing?
-
-**Concern · at a sentence.** Beside "A carry differs by membrane, holding its own rate"
-
-*Standing at v389:* At 2.7 a membrane carries and renders a method: "Each membrane renders the one method in its own carry, a rate and a grain the membrane keeps." Natural Naming 2.4 carries *membrane* as *a between*, "a between neither side's, a nothing, no location and no existing thing", and a nothing renders and keeps no rate. Here a membrane is nearer a scale, 2.7's own "each scale a carry differing". **To resolve:** is *membrane* at carry-differing re-said as *scale* (scale to scale), or as *a between*, a carry differing at each crossing?
-
-**Concern · at a sentence.** Beside "and co-chaining membrane to membrane, a method carries the same un-relating differed in each carry it meets."
+**Concern · at a sentence.** Beside "carry-differing membrane to membrane, one method whole."; and at one concern beside "and each membrane carries it in a differing carry. Carry-differing is a method staying one while its carry differs membr"…; "Each membrane renders the one method in its own carry, a rate and a grain the membrane keeps."; "A carry differs by membrane, holding its own rate"; "and co-chaining membrane to membrane, a method carries the same un-relating differed in each carry it meets."; "carry-differing membrane to membrane, one method whole;"
 
 *Standing at v389:* At 2.7 a membrane carries and renders a method: "Each membrane renders the one method in its own carry, a rate and a grain the membrane keeps." Natural Naming 2.4 carries *membrane* as *a between*, "a between neither side's, a nothing, no location and no existing thing", and a nothing renders and keeps no rate. Here a membrane is nearer a scale, 2.7's own "each scale a carry differing". **To resolve:** is *membrane* at carry-differing re-said as *scale* (scale to scale), or as *a between*, a carry differing at each crossing?
 
@@ -94,17 +74,9 @@ Defect: Natural Exploring, sections as bold paragraphs, not headings. (Re-Settli
 
 *Standing at v389:* 5.4 opens "A three carries as a state or as a flow and never both, and the two alternate." Natural Naming 2.4 enters "separated, state and flow are not possible". Re-saying *never* as *not* keeps a separating v389 releases, and the sentence stands in this file's own voice, beside its accountings. **To resolve:** is 5.4's three re-said as an accounting's own separating, a state-three and a flow-three at an accounting and at no living changing, or released here with its section?
 
-**Concern · at a sentence.** Beside "The naming is membrane-sized, one short line carrying a sign and nothing else, of no size and nothing sitting there to b"…
+**Concern · at a sentence.** Beside "The naming is membrane-sized, one short line carrying a sign and nothing else, of no size and nothing sitting there to b"…; and at one concern beside "the twist named from across is the attentioning, one short line;"
 
 *Standing at v389:* At 6.2 a twist across is a naming: "The naming is membrane-sized", "the twist named from across". v389 enters "Nothing is named and nothing is said by a doer", and a membrane is *a between*, a nothing, of no size. At Exhibit ONE a changing shared across at 6-now-co-possibling is another self's offering at 2-now-possibling. **To resolve:** are these re-said as an offering across, 6 to 2, one short line carrying a parity, or does a self's naming of another's twist carry here as its own practice?
-
-**Concern · at a sentence.** Beside "the twist named from across is the attentioning, one short line;"
-
-*Standing at v389:* At 6.2 a twist across is a naming: "The naming is membrane-sized", "the twist named from across". v389 enters "Nothing is named and nothing is said by a doer", and a membrane is *a between*, a nothing, of no size. At Exhibit ONE a changing shared across at 6-now-co-possibling is another self's offering at 2-now-possibling. **To resolve:** are these re-said as an offering across, 6 to 2, one short line carrying a parity, or does a self's naming of another's twist carry here as its own practice?
-
-**Concern · at a sentence.** Beside "carry-differing membrane to membrane, one method whole;"
-
-*Standing at v389:* At 2.7 a membrane carries and renders a method: "Each membrane renders the one method in its own carry, a rate and a grain the membrane keeps." Natural Naming 2.4 carries *membrane* as *a between*, "a between neither side's, a nothing, no location and no existing thing", and a nothing renders and keeps no rate. Here a membrane is nearer a scale, 2.7's own "each scale a carry differing". **To resolve:** is *membrane* at carry-differing re-said as *scale* (scale to scale), or as *a between*, a carry differing at each crossing?
 
 **Concern · at a sentence.** Beside "the carry the membrane between two files' workings."
 

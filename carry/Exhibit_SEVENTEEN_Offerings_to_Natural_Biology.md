@@ -4,7 +4,7 @@ Exhibit SEVENTEEN Natural Biology Offerings · laid at v386EOD
 
 ## Standing · v389
 
-**Met at v389.** 357 items stood here; met against [Natural Biology](../Exhibit_SEVENTEEN_Natural_Biology_v389.md), 30 are carried, 64 rest on released forms, 169 duplicate another item and 46 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_SEVENTEEN_Offerings_to_Natural_Biology_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_SEVENTEEN_Offerings_to_Natural_Biology_resolved_v389.md). Its 48 concerns stand below, each with its reason; 48 stand now.
+**Met at v389.** 357 items stood here; met against [Natural Biology](../Exhibit_SEVENTEEN_Natural_Biology_v389.md), 30 are carried, 64 rest on released forms, 169 duplicate another item and 46 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_SEVENTEEN_Offerings_to_Natural_Biology_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_SEVENTEEN_Offerings_to_Natural_Biology_resolved_v389.md). Its 48 concerns stand below, each with its reason; 53 stand now.
 
 **At 7.6 · Vertical fractal — a network eating downward — beside "no animal makes that ring".** Light is stable-formed by selves that stay and carried by selves that move. The channel that lets an engram's light reach a neuron is a green alga's light-gated channel, channelrhodopsin, its chromophore retinal (Nagel and colleagues, PNAS 2003). The sea slug *Elysia chlorotica* keeps the chloroplasts of the alga it eats and photosynthesises with them for months, only while it carries them; corals and giant clams carry photosynthetic dinoflagellates, and spotted salamander embryos carry green algae in their capsules and cells (Kerney and colleagues, PNAS 2011). Human skin forms previtamin D3 under ultraviolet-B, a small stable-forming of light at a moving self. A self that does not stay in one place does not stable-form light; it ingests the stable form of the selves that did, which is the descent this section names, met at light.
 
@@ -202,7 +202,7 @@ Natural Intelligence Corus section 17.4 offers comparative cognition as a place 
 
 *Standing at v389:* *Standing at v389:* this table row has "hold, waver and snap at tip", and 7.0 has "hold-waver-snap", the forms Exhibit TWO 5.4 explains as "Held, waver and snap", where re-saying Held as *Fixed* stands as an ASK: its seam says a relation continuing, not an unchangeable form. Re-said here alone, two files would carry one triple two ways. **To resolve:** carry *hold* here as TWO 5.4 resolves (*fixed*, or *stable-forming*), or keep it until then?
 
-**Concern · at a sentence.** Beside "a carry read back ages and releases"
+**Concern · at a sentence.** Beside "a carry read back ages and releases"; and at one concern beside "carry aging by attentioning where it is not sequenced fresh"; "carry aging by attentioning; protection fresh"
 
 *Standing at v389:* *Standing at v389:* here *aging* and *ages* are a carry's staleness set against fresh, as at Natural Health 4.1 ("a carry aging by attentioning") and Natural Values 1.2 ("ages by attentioning"), both standing as ASK. Natural Naming 2.4 carries *ageing*, *ages* as *next*, only next is, and *next* inverts this value. **To resolve:** re-say as a prior fixed as now by attentioning, or keep *aging* as Natural Health and Natural Values resolve?
 
@@ -213,14 +213,6 @@ Natural Intelligence Corus section 17.4 offers comparative cognition as a place 
 **Concern · at a sentence.** Beside "Record's own punctuated shape is hold-waver-snap"
 
 *Standing at v389:* *Standing at v389:* 7.0 has "hold-waver-snap" and 3.5's table "hold, waver and snap at tip", the forms Exhibit TWO 5.4 explains as "Held, waver and snap", where re-saying Held as *Fixed* stands as an ASK: its seam says a relation continuing, not an unchangeable form. Re-said here alone, two files would carry one triple two ways. **To resolve:** carry *hold* here as TWO 5.4 resolves (*fixed*, or *stable-forming*), or keep it until then?
-
-**Concern · at a sentence.** Beside "carry aging by attentioning where it is not sequenced fresh"
-
-*Standing at v389:* *Standing at v389:* here *aging* and *ages* are a carry's staleness set against fresh, as at Natural Health 4.1 ("a carry aging by attentioning") and Natural Values 1.2 ("ages by attentioning"), both standing as ASK. Natural Naming 2.4 carries *ageing*, *ages* as *next*, only next is, and *next* inverts this value. **To resolve:** re-say as a prior fixed as now by attentioning, or keep *aging* as Natural Health and Natural Values resolve?
-
-**Concern · at a sentence.** Beside "carry aging by attentioning; protection fresh"
-
-*Standing at v389:* *Standing at v389:* here *aging* and *ages* are a carry's staleness set against fresh, as at Natural Health 4.1 ("a carry aging by attentioning") and Natural Values 1.2 ("ages by attentioning"), both standing as ASK. Natural Naming 2.4 carries *ageing*, *ages* as *next*, only next is, and *next* inverts this value. **To resolve:** re-say as a prior fixed as now by attentioning, or keep *aging* as Natural Health and Natural Values resolve?
 
 **Concern · at a sentence.** Beside "**The prime-ladder of holds-still** — cholesterol (11), chaperone (13), histone (17), lysosome (19), gap junction (23),"…
 

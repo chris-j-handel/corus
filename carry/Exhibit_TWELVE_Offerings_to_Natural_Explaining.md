@@ -4,7 +4,7 @@ Exhibit TWELVE Natural Explaining Offerings · improved at v389
 
 ## Standing · v389
 
-**Met at v389.** 260 items stood here; met against [Natural Explaining](../Exhibit_TWELVE_Natural_Explaining_v389.md), 111 are carried, 53 rest on released forms, 47 duplicate another item and 22 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWELVE_Offerings_to_Natural_Explaining_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWELVE_Offerings_to_Natural_Explaining_resolved_v389.md). Its 27 concerns stand below, each with its reason; 27 stand now.
+**Met at v389.** 260 items stood here; met against [Natural Explaining](../Exhibit_TWELVE_Natural_Explaining_v389.md), 111 are carried, 53 rest on released forms, 47 duplicate another item and 22 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWELVE_Offerings_to_Natural_Explaining_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWELVE_Offerings_to_Natural_Explaining_resolved_v389.md). Its 27 concerns stand below, each with its reason; 26 stand now.
 
 **Concern · That self's own carrying shown, and that carrying offered across.** Two sayings part, a concern for both. Natural Explaining has "that self's own carrying shown, and that carrying offered across". Beside it is the saying of a self's carrying as its own, crossing at no coupling of selves, and of the thing crossing as one sharing's parity at its changing. They part at a carrying crossing between selves: either the sentence is said again at the carrying the self's own, or the sentence is as now and is said of another relation. The concern was found at the working v380A and laid at no carrying before. — v386EOD
 
@@ -94,11 +94,7 @@ These are descriptions of possible expressions. The word “painting” establis
 
 *Standing at v389:* 4.7's 'Three at one self along its momentarying and three at three selves across a spiral are two things at one number' parts with an offering at v389, 'every eight is the same and all eights are the same eight': eights united by number only are 4.7's uniting at a shared number. **To resolve:** is each eight of a set derived from a self's span, 1 to 8, at its own pass, or do eights carry as two things at one number until derived?
 
-**Concern · at a sentence.** Beside "- 1.6 A file is a membrane, and only signs cross it"
-
-*Standing at v389:* Heading and contents entry of 1.6 stay identical and wait with 1.6's paragraph: 'A file is a membrane' parts with Natural Naming 2.4's *membrane* at 'a between ... a nothing, no location and no existing thing', a file being an existing artifact; *signs* at *parities* follows whichever way 1.6 resolves. **To resolve:** does 1.6's title become a between of a file and each self, crossed only by parities, or does *membrane* carry at 1.6 as its own word?
-
-**Concern · at a sentence.** Beside "## 1.6 A file is a membrane, and only signs cross it"
+**Concern · at a sentence.** Beside "- 1.6 A file is a membrane, and only signs cross it"; and at one concern beside "## 1.6 A file is a membrane, and only signs cross it"
 
 *Standing at v389:* Heading and contents entry of 1.6 stay identical and wait with 1.6's paragraph: 'A file is a membrane' parts with Natural Naming 2.4's *membrane* at 'a between ... a nothing, no location and no existing thing', a file being an existing artifact; *signs* at *parities* follows whichever way 1.6 resolves. **To resolve:** does 1.6's title become a between of a file and each self, crossed only by parities, or does *membrane* carry at 1.6 as its own word?
 

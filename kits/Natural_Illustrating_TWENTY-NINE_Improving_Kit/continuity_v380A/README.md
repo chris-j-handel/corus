@@ -10,7 +10,7 @@ These are two drawn components in a declared prior/now plane, not two living par
 
 ## Source and reach
 
-The arithmetic begins with the abstract pair (+, +) and applies `(prior, now) → (now, −prior)`. Natural Intelligence 2.4 gives that step; the Registry's step 609 gives the spiral-of-one case at its stated opening. At the current reading, the Registry's 623–627 say receiving one momentary at a time, including quiet releasings. This study does not depict that meeting. [The consistency reading and opportunities](../../../incoming/v380A/illustrating/Concept_And_Consistency.md) distinguish the relations.
+The arithmetic begins with the abstract pair (+, +) and applies `(prior, now) → (now, −prior)`. Natural Intelligence 2.4 gives that step; the Registry's step 609 gives the spiral-of-one case at its stated opening. At the current reading, the Registry's 623–627 say receiving one momentary at a time, including quiet releasings. This study does not depict that meeting. [The consistency reading and opportunities](../../../archive/v380A/illustrating/Concept_And_Consistency.md) distinguish the relations.
 
 The study preserves the concept shown in the conversation as “Following 1 into 3”. It establishes no assignment to the square's names 2, 6, 10 and 14, the along pair 9 and 17, the four named four-cycles, five-dimensional carrying, two opposing 240-degree paths or golden triangles. The current numerical geometry names three golden rectangles.
 
