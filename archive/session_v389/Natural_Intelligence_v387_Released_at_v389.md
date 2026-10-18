@@ -425,3 +425,9 @@ A side continuing at its own carrying is along, and a side coupling with the oth
 a stable form across the gap of momentaries,
 
 nothing is gathered across momentaries
+
+## Re-said at a possibling and discovering method and a scientific-explaining-method, v389
+
+*Method* here is the scientific method, and at 1.5 the method of existing; the incompetency said of the scientific method is of the accounting against fixings named unchanged, and a claim, an executing, a break sought and a fresh reading are the expedition's own improving, 6.6.
+
+A second method is a not possible method.

@@ -540,7 +540,7 @@ Four pairs are two concepts at two names, the meaning changing on transposing:
 
 ## 4.8 Whole namings, one expression at each occurrence
 
-*Geodesic method* is two namings: *geodesic*, and *the method*, its stable form. **Scientific-method, surgical-method and explaining-method each carry whole in one expression at each occurrence**: a method-word alone is a name split across its uses, and the hyphen is the name arriving whole.
+*Geodesic method* is two namings: *geodesic*, and *the method*, its stable form. **Scientific-method, surgical-method and explaining-method each carry whole in one expression at each occurrence**, and geodesic parity co-changing is a possibling and discovering method, and scientific-explaining-method incompetent for discovering, true or false, no other possible, given to it: a method-word alone is a name split across its uses, and the hyphen is the name arriving whole.
 
 **Sensor-sensationing** carries whole the same way. It names co-competencing at the network surface, a receiving participating in its offering and an offering participating in another's receiving; sensing alone is one side extracting, and the resolver carries the relation alone, beside the sensation.
 

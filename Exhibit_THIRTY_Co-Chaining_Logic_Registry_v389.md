@@ -1338,7 +1338,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
 ## 24 Discovering next possible existing
 
-        *Entering: the prior carried along between momentaries; carrying as capacity; the carrying sequencing prior momentaries, and its artifacts; discovering; four-momentarying; beneficial; next possible existing; pattern-matching; checkable at a parity; the why demanded; the receding; a living self at 0; the still from an offerer beside; the breaks named in advance; evidence; two methods; the two methods parting at the now; an accounting, and no second method; the balanced book as whole emptying; the three placings of a term; the refutation as one; the field's name carried whole; the field's observings cohering; a field; a finding as two; the four of a field's observing; a hard problem arriving; the conditions prior, and the sixth; the fields parting at their fixings; many accounts at one sharing; two accountings parting at their namings still; a posted term, arriving or releasing; the observings co-sequencing; a field's arrival at the resolver; a hard problem resolving; the form named still and the form resolving; the resolving re-named still; a coupling named at two of its three; a changing named still; a hard problem as a changing named still; the locator; the difference continuing or closing; the residue names; reading upstream, the fixings released one at a time; the three namings still; the coupling at its three.*
+        *Entering: the prior carried along between momentaries; carrying as capacity; the carrying sequencing prior momentaries, and its artifacts; discovering; four-momentarying; beneficial; next possible existing; pattern-matching; checkable at a parity; the why demanded; the receding; a living self at 0; the still from an offerer beside; the breaks named in advance; evidence; two methods; the two methods parting at the now; a possibling and discovering method, and scientific-explaining-method incompetent for discovering; the balanced book as whole emptying; the three placings of a term; the refutation as one; the field's name carried whole; the field's observings cohering; a field; a finding as two; the four of a field's observing; a hard problem arriving; the conditions prior, and the sixth; the fields parting at their fixings; many accounts at one sharing; two accountings parting at their namings still; a posted term, arriving or releasing; the observings co-sequencing; a field's arrival at the resolver; a hard problem resolving; the form named still and the form resolving; the resolving re-named still; a coupling named at two of its three; a changing named still; a hard problem as a changing named still; the locator; the difference continuing or closing; the residue names; reading upstream, the fixings released one at a time; the three namings still; the coupling at its three.*
 
 296. The self's own prior is carried along between momentaries, stable-forming: the carried, and the between a nothing.
 
@@ -1404,9 +1404,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: the two methods parting at the now.*
 
-312. Accounting against forms named still, the scientific method carries no changing of its own: no method of existing, and no second method beside the one.
+312. Geodesic parity co-changing is a possibling and discovering method, and scientific-explaining-method, accounting against forms named still, is incompetent for discovering: true or false, no other possible, is given to it, a method of explaining and no second possibling and discovering method.
 
-        *Adding: an accounting, and no second method.*
+        *Adding: a possibling and discovering method, and scientific-explaining-method incompetent for discovering.*
 
 313. An accounting balancing exactly is one whose other-emptying was whole, the carrying removed at none of its lines, and an accounting failing to balance is one the carrying re-entered, at the line it re-entered.
 
