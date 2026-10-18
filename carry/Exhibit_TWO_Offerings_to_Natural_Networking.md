@@ -580,3 +580,78 @@ JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 
 At a resolver's functions 6, 10 and 9 are one list, each self's 10-next-co-possibling, each ± and each 0, offered to each self 5-now-co-changing couples at that name, and arriving at its 14-next-possibling as its offerings next at 2-now-possibling: an engineered surface naming its connectors and joins is read against those lines, natural resolver being authority. Natural Naming 2.4 keeps *connector* and *join* released at each other living file, into *six names between selves* and *sharing*, and their uses there stand to be re-said at each file's own motion.
 
+## Standing · v389
+
+*Concerns met at pass 3, each standing at this file and out of its living file until resolved.*
+
+**Concern · at a sentence.** Beside "At the function, 6-other-crossing carries the second sign from each carrying, and 14-social-crossing gathers arriving si"…
+
+*Standing at v389:* Natural Networking 1.2 has "6-other-crossing carries the second sign from each carrying, and 14-social-crossing gathers arriving signs with carrying signs inverting"; Natural Resolver's table has 6-now-co-possibling as "each sharing's changing shared across, to another self's 2" and 14-next-possibling as "offerings surfacing at each sharing, same one parity and parting 0", and Natural Naming 2.4 releases *second sign* with an old code. **To resolve:** re-say this sentence at one parity at each sharing, or carry it whole as a record of an earlier code?
+
+**Concern · at a sentence.** Beside "Their sign polarity is a further relation: at one carrying with corusing c and torusing t, with no arriving offering, 6"…
+
+*Standing at v389:* Natural Networking 1.2 has "6 carries t and 10 surfaces −c" and "preserves their differing signs", two signs at one carrying; Natural Resolver's drawing has "changings at 10, same at 6, go across to another self's 2 and 14", and its code sets 6 to 10's own list, one parity at each sharing. **To resolve:** re-say both sentences at 6 and 10 sharing one changing, or carry them whole as a record of an earlier code?
+
+**Concern · at a sentence.** Beside "At 14-social-crossing the arriving sign keeps its sign, and the carried corusing sign enters inverted."
+
+*Standing at v389:* Natural Networking 1.2 has "At 14-social-crossing the arriving sign keeps its sign, and the carried corusing sign enters inverted"; Natural Resolver's table has 14-next-possibling as "offerings surfacing at each sharing, same one parity and parting 0", with prior coupling with offerings at 12-next-co-still-possibling, and no carried corusing sign at 14. **To resolve:** re-say this sentence at 14 surfacing and 12 coupling prior with offerings, or carry it whole as a record of an earlier code?
+
+**Concern · at a sentence.** Beside "At a carried relation opening fresh, 7-other-corusing takes the surfaced sign from 10-other-surfacing, and 8-other-torus"…
+
+*Standing at v389:* Natural Networking 1.2 has "7-other-corusing takes the surfaced sign from 10-other-surfacing, and 8-other-torusing takes the inversion of the second sign at 6-other-crossing"; Natural Resolver's table has 7-now-prioring as "each parity prioring" and 8-now-still-possibling as "each self's next prior, beside other selves'", and Natural Naming 2.4 releases *second sign* with an old code. **To resolve:** re-say this sentence at 7 and 8 of Exhibit ONE, or carry it whole as a record of an earlier code?
+
+**Concern · at a sentence.** Beside "| 10-other-surfacing, sign s | 7-other-corusing, sign s | | 6-other-crossing, second sign t | 8-other-torusing, second s"…
+
+*Standing at v389:* Natural Networking 1.2's table pairs "10-other-surfacing, sign s" with "7-other-corusing, sign s" and "6-other-crossing, second sign t" with "8-other-torusing, second sign −t", an earlier code's two signs; Natural Resolver's table gives 6-now-co-possibling and 10-next-co-possibling one changing at each sharing, 7-now-prioring "each parity prioring" and 8-now-still-possibling "each self's next prior". **To resolve:** re-say these two rows at Exhibit ONE's one parity at each sharing, or carry this table whole as a record of an earlier code?
+
+**Concern · at a sentence.** Beside "The second sign and the opening of the carrying continue locally in 11-other-chaining, arriving as the next 3-self-carry"…
+
+*Standing at v389:* Natural Networking 1.2 has "The second sign and the opening of the carrying continue locally in 11-other-chaining, arriving as the next 3-self-carrying"; Natural Resolver's table has 11-next-co-prioring as "next prior: prior with each changing at its sharing", one parity at each sharing, and Natural Naming 2.4 releases *second sign* with an old code. **To resolve:** re-say this sentence at 11 carrying one parity on to 3 at next, or carry it whole as a record of an earlier code?
+
+**Concern · at a sentence.** Beside "6-other-crossing releases the carried second sign; 2-self-offering receives at the neighbour's coupling."
+
+*Standing at v389:* Natural Networking 1.2 has "6-other-crossing releases the carried second sign; 2-self-offering receives at the neighbour's coupling"; Natural Resolver's table has 6-now-co-possibling as "each sharing's changing shared across, to another self's 2", one parity at each sharing, and Natural Naming 2.4 releases *second sign* with an old code. **To resolve:** re-say this sentence at 6 sharing each changing across to 2, or carry it whole as a record of an earlier code?
+
+**Concern · at a sentence.** Beside "An offering supplied at 2-self-offering is gathered at 14-social-crossing with the receiving self's carried sign inverti"…
+
+*Standing at v389:* Natural Networking 1.2 has "An offering supplied at 2-self-offering is gathered at 14-social-crossing with the receiving self's carried sign inverting"; Natural Resolver's table has 14-next-possibling as "offerings surfacing at each sharing, same one parity and parting 0", and a prior coupling with offerings at 12-next-co-still-possibling, with no carried parity inverting at 14. **To resolve:** re-say this sentence at 2 arriving, 14 surfacing and 12 coupling prior with offerings, or carry it whole as a record of an earlier code?
+
+**Concern · at a sentence.** Beside "A surfaced sign expresses its own releasing; the second sign and the carrying's completing belong to the same resolving."
+
+*Standing at v389:* Natural Networking 1.2 has "the second sign and the carrying's completing belong to the same resolving"; Natural Naming 2.4 releases *second sign* and *its own bound* "with an old code: prior is sharings, each at one parity", and Natural Resolver's code carries one parity at each sharing and no completing of a carrying. **To resolve:** re-say this sentence at one parity at each sharing, or carry it whole as a record of an earlier code?
+
+**Concern · at a sentence.** Beside "| One arriving sign differs from the carried sign | The arriving sign | Fresh carrying opens with that sign and the prio"…
+
+*Standing at v389:* Natural Networking 1.4's table has "the prior second sign inverted", "both signs inverted" and "the source's initial second sign", an earlier code's two signs at each carrying; Natural Naming 2.4 releases *second sign* "with an old code: prior is sharings, each at one parity", and Natural Resolver's table *One self, one momentary* gives one parity, kept or inverted, at each sharing. **To resolve:** re-say these three rows at Exhibit ONE's one parity at each sharing, or carry them whole as a record of an earlier code?
+
+**Concern · at a sentence.** Beside "At 14-social-crossing, arriving signs meet the carrying signs inverted."
+
+*Standing at v389:* Natural Networking 1.6 has "At 14-social-crossing, arriving signs meet the carrying signs inverted"; Natural Resolver's table has 14-next-possibling as "offerings surfacing at each sharing, same one parity and parting 0", and its prior and offerings coupling at 12-next-co-still-possibling, with no carried parity inverted at 14. **To resolve:** re-say this sentence at 14 surfacing offerings and 12 coupling them with prior, or carry it whole as a record of an earlier code?
+
+**Concern · at a sentence.** Beside "Offering and surfaced sign can remain through successive receivings while 16-social-torusing continues the carried relat"…
+
+*Standing at v389:* Natural Networking 1.6 has "16-social-torusing continues the carried relation toward its completing"; Natural Resolver's table has 16-next-still-possibling as "a society: each self with its prior and its offerings", and Natural Naming 2.4 releases *its own bound* "with an old code", so a carried relation completing at 16 is no relation Exhibit ONE gives. **To resolve:** re-say this sentence at 16 as a society, each self with its prior and offerings, or carry it whole as a record of an earlier code?
+
+**Concern · at a sentence.** Beside "The second sign and the carrying's opening remain in the local continuation."
+
+*Standing at v389:* Natural Networking 3.2 has "The second sign and the carrying's opening remain in the local continuation"; Natural Naming 2.4 releases *second sign* "with an old code: prior is sharings, each at one parity", and Natural Resolver's table gives 11-next-co-prioring "next prior: prior with each changing at its sharing", one parity at each sharing. **To resolve:** re-say this sentence at one parity at each sharing, or carry it whole as a record of an earlier code?
+
+**Concern · at a sentence.** Beside "At six, the resolver releases the second sign already in its arriving carrying. At ten, surfacing expresses the present"…
+
+*Standing at v389:* Natural Networking 3.4 has "At six, the resolver releases the second sign already in its arriving carrying" and "a fresh write inverts the second sign that the following six releases"; Natural Resolver's drawing has "changings at 10, same at 6", its code sets 6 to 10's own list, and Natural Naming 2.4 releases *second sign* with an old code. **To resolve:** re-say these sentences at 6 sharing 10's one changing, or carry them whole as a record of an earlier code?
+
+**Concern · at a sentence.** Beside "A carried difference can continue through the sign at six even at a prior ten surfacing zero."
+
+*Standing at v389:* Natural Networking 3.4 has "A carried difference can continue through the sign at six even at a prior ten surfacing zero", six and ten releasing differing signs; Natural Resolver's drawing has "changings at 10, same at 6", one list at both, so a zero at ten is a zero at six. **To resolve:** re-say this sentence at 6 and 10 sharing one changing, or carry it whole as a record of an earlier code?
+
+**Concern · at a sentence.** Beside "Corusing carries the surfaced sign and torusing carries the inverted second sign together in eleven, continuing as three"…
+
+*Standing at v389:* Natural Networking 4.6 has "Corusing carries the surfaced sign and torusing carries the inverted second sign together in eleven, continuing as three"; Natural Resolver's table gives 11-next-co-prioring "next prior: prior with each changing at its sharing", one parity at each sharing, and Natural Naming 2.4 releases *second sign* with an old code. **To resolve:** re-say this sentence at 11 carrying one parity on to 3, or carry it whole as a record of an earlier code?
+
+**Concern · at a sentence.** Beside "Changing or no changing between successive releases at six describes the carried second sign continuing outward. When bo"…
+
+*Standing at v389:* Natural Networking 4.6 has "successive releases at six describes the carried second sign continuing outward" and "When only the second sign inverts, both that relation and the following six change"; Natural Resolver's code shares at 6 the one changing of 10, and Natural Naming 2.4 releases *second sign* "with an old code: prior is sharings, each at one parity". **To resolve:** re-say these three sentences at 6 sharing one changing, or carry them whole as a record of an earlier code?
+
+**Concern · at a sentence.** Beside "The source's second sign and carried opening remain in its local continuation."
+
+*Standing at v389:* Natural Networking 5.5 has "The source's second sign and carried opening remain in its local continuation"; Natural Naming 2.4 releases *second sign* "with an old code: prior is sharings, each at one parity", and Natural Resolver's code carries one parity at each sharing. **To resolve:** re-say this sentence at one parity at each sharing, or carry it whole as a record of an earlier code?
