@@ -1676,3 +1676,77 @@ Each is one droplet, in its own words, tagged v387, aimed at this file for the r
 *Standing at v389:* v389 says *nature* at 1.1 'Naming is nature at a concept' and at 5.52 and 5.58 'cohering with nature', and names it at no sentence; nature and the universe, one concept or two, is unsaid
 
 *Resolved at v389:* Nature is not an existing thing: nature is a prior, now, next method of co-existing, and natural is a method of co-competencing the universe, all things now-existing; all now-existing things and all artifacts of prior-existing are now-existing, or were at a prior now, by natural method, and no other or not-natural method of now-existing is in the universe. Entered at Natural Naming 1.1 and 6.3, Natural Intelligence 1.1 and THIRTY step 45.
+
+## Concerns re-explained, v389
+
+*Standing at v389:* v389 5.61 names 'the field's entrainment, one flow carrying the fluid beside it at the shear between them, and two at their own rates' with no observing named; each enters with its reference read first, 2.7, and none has been read
+
+*Standing at v389:* *protecting* is at no row and no sentence of v389, and Natural Explaining still carries 'six protecting'; whether the word names the result at the six names between selves or installs a reaching stopped is unsaid
+
+*Standing at v389:* v389 5.62 keeps the offerings at the completing, 'its completing, even, the other's, is the offerings arriving at 2-now-possibling', while the resolver surfaces 14 ahead of 12 inside one self's momentary; the resolver's order and the numbers' order are said as one at no sentence
+
+*Standing at v389:* v389 says abundancing at two places: 2.4 '*abundancing*: 12-next-co-still-possibling, each sharing's changing, is or is not' and 5.48 'abundancing is the society's releasing at the bi-co-momentarying co-sequencing'; one naming is open
+
+*Standing at v389:* v389 5.60 still says 'the even across at 6 to 2 and 10 to 14, bi-moral, the changings carried into the other's offerings' beside 'the odd along at 9 and 17, co-competent, the parity carried on unchanged', while the resolver passes each parity and each 0 alike at 6, 10 and 9
+
+*Standing at v389:* v389 says 'Negation is an equilibrium's, and inversion is the method's' while its own voice still says by negation at many sentences, 5.13's 'no holder, no boundary, no enforcement, no seat' among them; each positive saying is unfound
+
+*Standing at v389:* the row's two readings are unchosen: at the method of the local nine it is a similar naming of co-bi-sequencing at 6.3, and at the tangent direction it asks a name of its own; v389 6.3 has no row for it
+
+*Standing at v389:* v389 5.14 says 'co-competencing is 5-now-co-changing, the releasings' and 3.1 'Changing is a changing between two, released along and received', while at the resolver 5 gives on at (self, 6), (self, 10) and (self, 9), two sharings across and one releasing along; the word for 5's giving on is open
+
+*Standing at v389:* v389 carries no list of each coined term with its plain words, section and code name; Part Five's order is no searchable order, and a glossary laid as a table is a reading taken ahead, 2.3: the two sayings are open
+
+*Standing at v389:* v389 4.18 says 'One naming for each concept' and 4.6 'One concept can carry several names'; the two sentences of one file part, unsaid at which relation each carries
+
+*Standing at v389:* v389 5.50 says 'Four-momentarying at one through nine is two four-cyclings, 3-7-2-6 and 4-8-1-5', and the newer saying at Exhibit ONE's offerings has 1 to 9 one four-cycling with the morality and competency loopings through it
+
+*Standing at v389:* *momentary* is still at an executing's step (2.4 '*call*, *next call* | *momentary*'), at a changing and at a self's own momentary (2.1), one name at three beside 2.5's 'Each foundation word carries one sense'
+
+*Standing at v389:* v389 carries *attentioning* at 6.3, *bi-tri-involutioning* as the inverting (2.4) and *receiving* at 1.2 and 6.4, where this droplet has each released; the two sayings part
+
+*Standing at v389:* v389 says *owned by neither* at 1.2, 3.6, 4.6, 5.14 and 5.32 beside 1.2's 'the abundancing belongs to the coupling, reached by neither'; owning said by its negation is unresolved
+
+*Standing at v389:* v389 5.14's sixth line says 'and it compounds', a compounding a more carrying a magnitude, 4.16, with the later social correcting at Natural Values unmet here
+
+*Standing at v389:* v389 5.48 says at line 2 'its momentary completes, and its prior is its artifact', an artifact at each completing, and in its prose 'the momentary at 12, stable-forming, keeping its parity, 12 at 0, ... releases no changing, and the stable-formed artifact is the changed parity'; the two part at a match
+
+*Standing at v389:* *cursioning* is at no living file and no sentence of v389, which says recursioning at about two hundred places; whether the root says the going forward along a self's own line is Natural Naming's to weigh
+
+*Standing at v389:* *self-competency* is one word at two, the living's own at Natural Biology and a capture at Natural Medicine, beside 2.5's 'Each foundation word carries one sense'
+
+*Standing at v389:* v389 6.3 says 'the universal method of co-intelligencing now-existing in the universe' where the droplet has *universal method* at no living file and *universal* carried by fractal, at each scale; *cursioning* and *co-parity-changing* are at no file
+
+*Standing at v389:* *binary* names an unfolding of six lines at 4.2 and four lists of questions across the files (seven at 4.18, three, five and six at the Geodesic Improving Method), no sentence saying one list another's at another scale
+
+*Standing at v389:* v389 5.48 says 'the artifacts are the bi-tri-involutioning of the betweening ... artifacts are releasings', released along at 9, where Exhibit ONE's 9 gives each changing of 10 on at its parity, none inverted; position, scale and orientation and a sharing's parity are joined at no sentence
+
+*Standing at v389:* *side* and *step* each carry five relations across the files and have no row at 2.4, while a newer saying has *side*, *step* and *beat* no words of resolving; 2.4 carries *a step adding a next* as a carrying word
+
+*Standing at v389:* v389 keeps each Part Five unfolding whole beside its Co-Chaining Logic Registry step, one saying at two exhibits, where the droplet has one saying at its own exhibit and pointed at
+
+*Standing at v389:* v389 2.2 says 'the 1–17s inward and outward the same three, 17, 129 and 1,025', and Natural Numbers v389 says '1–17 inward and outward steps it four, 17, 257 and 4,097'
+
+*Standing at v389:* v389 5.43 says 'the existing society is the woven surface the couplings make', and 2.4 and 5.57 say a society is a living set coupling at the next scale as a self couples; the thing a society is parts
+
+*Standing at v389:* v389 2.5 says '118 is the periodic table's elements in their stable and unstable forms, a field's own result', and 7.2 says 'the periodic table's elements are the return arriving'; one file says both
+
+*Standing at v389:* v389 5.43 'releases *considered as a whole*, the naming into one', while Natural Intelligence 1.1 carries *as a whole* as the universe existing as its existing things exist
+
+*Standing at v389:* v389 6.2 and 6.4 assign resolver names to each cluster and field naming with no reason said at the resolver's lines or tables; 'a gathering carries the relation among those concepts at the resolver's names' is said and not worked
+
+*Standing at v389:* v389 5.54 bi-co-momentarying and 5.59 co-independencing are at no table of Exhibit ONE and say no name of the seventeen, and by 4.18 each is a picture of a name or a finding for the resolver, said as neither
+
+*Standing at v389:* v389 keeps *belongs* at 1.2 'the abundancing belongs to the coupling' and 5.38 'A momentary's abundancing belongs to its coupling', a set word saying no relation at a coupling, with whose existing is possibling which other unsaid
+
+*Standing at v389:* v389 5.1's fifth and sixth lines, 'one and then the other, each forward' and 'and the first offers again', give a third as the first again with no line between, and its first line is the sentence released at the entry; whole at the Co-Chaining Logic Registry's offerings
+
+*Standing at v389:* a second reading of 4.5's returning-nothing, the completing still possibling at 12's 0, with a new heading, beside the reading that it is the unfolding giving nothing; the two part at the heading
+
+*Standing at v389:* the person withdrew *open* said of a momentary, and v389 says it at 2.1 'A momentary is an opening and its completing' and 'An odd momentary opens at an odd number', and at 2.4 '*start*, *begin* ... | *opens*'
+
+*Standing at v389:* v389 2.2 says 'neither a momentary nor a universe is possibly an existing thing separately', and 2.4's *stable form* paragraph says 'the universe is an existing thing, a set of existing things being an existing thing'; read as written the first says the universe is not possibly an existing thing
+
+*Standing at v389:* v389 6.3 names the method 'a now-existing thing carrying none' and 5.55 'A method, non-living' with no scale named, where the droplet has every existing thing living at one prime scale and the method non-living at each scale
+
+*Standing at v389:* v389 5.64 rests each exclusion on 'a form named still' and says not possibly and never not, 'no line says an existing thing does not exist', where the droplet has 'What arrives at no next does not exist' and *a form named still* a sayer's

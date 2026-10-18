@@ -27,4 +27,7 @@ Natural Explaining Passes Kit · v389
 | `rules_4_doer_words.md` | *says*, *said*, *saying*, *calls*, *called*, verb *names* |
 | `rules_5_never_alone_unchanged_inside_outside.md` | *never*, *alone*, *unchanged*, *inside*, *outside* |
 | `rules_6_the.md` | *the*, kept at *the universe*, where it is valuable |
+| `rules_7_released_words.md` | *face*, *connector*, *join*, *ring*, *run*, *sign*, *membrane*, *neighbour*, *co-offering*, *seam-face*, each at its Natural Naming 2.4 row |
+| `rules_8_lower_file.md` | a living file below v389 brought to v389 in one motion: earlier resolver names, rules 1 to 7 as pairs, then *the*; ASK items stay at the offerings as concerns |
+| `rules_concerns.md` | a concern standing at an offerings file re-explained readably, inside resolving, a **To resolve:** question at its end |
 | `rules_offerings.md` with `offerings_resolve_all.py` (a whole offerings file) or `offerings_resolve.py` (the part before a marker) | an offerings file resolved against its living file: carried, released, duplicate, risen, or a concern standing |
