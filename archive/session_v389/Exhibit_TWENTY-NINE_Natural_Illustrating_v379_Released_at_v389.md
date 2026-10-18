@@ -23,3 +23,95 @@ the long way round; and at the code each goes in and out at the parity opposite 
 ## Re-said at odds along between momentaries and evens across inside the momentary, v389
 
 the prior carried across it as a stable form, Natural Intelligence 2.3,
+
+## Re-said at no reading in nature, observing of nature, v389
+
+be read as stillness in living
+
+the hand is at the reading, Natural Naming 5.48. Right is the observings, all prior, and a drawing shows the hand at the reading's axis
+
+method prefixing read separately or together
+
+1 to 6, read twice.
+
+A side is a reading from its origin
+
+Each face needs enough to read its relation
+
+four read from now alone;
+
+the Equilibria Registry 1.3 reads the same
+
+three readings of four corners are at the files
+
+the whole table read as eleven couplings
+
+give the initial reading before motion
+
+inner and outer pair readings
+
+how the opposite route is read from the same arrangement
+
+the mathematical reading of stable-forming
+
+and the hand is at the reading; φ
+
+simultaneous readings of the living self
+
+the society's orienting read together
+
+a society read as a self at the next scale
+
+The rings kit of v365 reads the open rings beside it as the cube
+
+the rings kit reads those corners as the eight's still face and the resolver's four-cycles as its continuing face, a reading at no file's sentence
+
+the file and section it is read at
+
+each of the ten door lines reading is,
+
+the two faces one offering read one coupling at a time
+
+read as only a hole it is a genus
+
+firing read as communication
+
+inert the naming of a between read as a gap
+
+one across-reading of a population
+
+a two-way coupling read from one side
+
+a reading that arrived sharp named a place
+
+collapsed, read on time, and read on the structure
+
+each instrument reads against a shared clock while each self paces its own, a tipping read at the instrument's clock's falling
+
+an alternating read as a standing
+
+state-flow-state read whole
+
+a conservation-ledger read onto the coupling from outside
+
+read as surface the both is the natural network
+
+| Potential illustration | Relation to illustrate | Read at |
+
+one continuing coupling, read at adjacent depths
+
+The same living read through local and wider scales
+
+Two directional readings of a coupling
+
+the output whole, read down;
+
+are one thing read two ways.
+
+read at the files, the drift is a stored prior read as the now
+
+A drawn position reads as a place
+
+goes back to the file it is read at
+
+carrying its useful view, the file it is read at

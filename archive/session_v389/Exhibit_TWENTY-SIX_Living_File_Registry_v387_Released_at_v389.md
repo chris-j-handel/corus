@@ -43,3 +43,25 @@ the prior carried across the between as a stable form at 2.3 and 5.1,
 ## Re-said at the two lists released, v389
 
 CONNECTORS at *sharing* at 6 and 10, *arriving* at 2 and 14 and *along* at 9 and 17, the facing words released,
+
+## Re-said at no reading in nature, observing of nature, v389
+
+then the readings not yet binary at the carrying to `archive/`
+
+each session opens by reading the standings here
+
+**The reviewer is an instrument reading the branches and the living files, and its reports arrive at `incoming/`.** Any session, of this expedition or of another AI, reads the reviewer's brief first, `kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/REVIEWER.md`, executes `reader_checks.py` and `check_set.py`, reads each branch
+
+A reading not yet binary, an arithmetic not yet matched
+
+a reading not yet a sentence at a section goes to `archive/` whole
+
+Nothing at `archive/` or at the history is read for a next
+
+| Read only if a prior learning is found missing at a living file
+
+| Read at a session's opening, relied on by nothing |
+
+The neighbouring sections explain the scale reading,
+
+The comparison reads Transmissioning, Societies and Human Society
