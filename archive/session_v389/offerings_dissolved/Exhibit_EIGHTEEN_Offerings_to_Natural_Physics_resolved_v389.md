@@ -1407,3 +1407,11 @@ Each is a changing made at the set this session, said once here so that this fil
 
 *Standing at v389:* proposes a new possibling file, Natural Accounting, for cryptography at an accounting of selves; a new file is the person's decision, and it meets no sentence of Natural Physics
 
+
+## Concerns resolved at v389
+
+**Concern · Five binaries or six.** Two sayings part. Natural Intelligence, at 1.4, has "a size between one and the other carries a ground, a floor or a scale; a fixed form, a form named still; a total across the changing, a container; a common beat, a clock over the changing; and a keeping, a store beside it". Exhibit TWENTY-FOUR Geodesic Improving Method, at 2.7, has "is met at six binaries, the rigorizer". The proposed Natural Physics of version 377 asserts six at its 2.1. They part at the number: five or six. Its resolving is one list at both files, at the observings. — v386EOD
+
+*Standing at v389:* carried at v389 at Geodesic Improving Method 2.7, "one at each of five things beside all things and one at their one holder", as Natural Intelligence 1.5 has "A doer applying any of them from beside is five's one holder"; ready to dissolve.
+
+*Resolved at v389:* carried at v389: Geodesic Improving Method 2.7, one at each of five things beside all things and one at their one holder, coheres with Natural Intelligence 1.5's five's one holder, one list at both files.

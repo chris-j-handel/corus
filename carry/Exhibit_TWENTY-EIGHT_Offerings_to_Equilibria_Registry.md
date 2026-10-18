@@ -4,7 +4,7 @@ Exhibit TWENTY-EIGHT Equilibria Registry Offerings · improved at v389
 
 ## Standing · v389
 
-**Met at v389.** 351 items stood here; met against [Equilibria Registry v389](../Exhibit_TWENTY-EIGHT_Equilibria_Registry_v389.md), 131 are carried, 114 rest on released forms, 69 duplicate another item and 19 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY-EIGHT_Offerings_to_Equilibria_Registry_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY-EIGHT_Offerings_to_Equilibria_Registry_resolved_v389.md). The 18 concerns below stand, each with its reason; 18 stand now.
+**Met at v389.** 351 items stood here; met against [Equilibria Registry v389](../Exhibit_TWENTY-EIGHT_Equilibria_Registry_v389.md), 131 are carried, 114 rest on released forms, 69 duplicate another item and 19 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY-EIGHT_Offerings_to_Equilibria_Registry_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY-EIGHT_Offerings_to_Equilibria_Registry_resolved_v389.md). The 18 concerns below stand, each with its reason; 15 stand now.
 
 **3. Conceptions stated at the older resolver.** NY03, NY04, NY05, NY06, NY15, NY16, NY17 and NY20 arrived in their own words, at the older resolver's *fresh carrying*, *retaining* and *returned values*, which Exhibit ONE v376 does not carry. They stay whole, as each conception does. What parts: each names a still at a code that no longer exists. What settles it: each executed at Exhibit ONE v376, its still found or not; a conception stated again at the current code arrives beside the old one as its own row. — v376
 

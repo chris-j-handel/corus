@@ -1261,3 +1261,23 @@ Natural intelligence is that method shared: two selves at one now, each finding 
 
 *Standing at v389:* 52 places Go at this registry, a lead with no statement, and 47 and 53 leave whether self-play under a set count is a carrying "to be said": both need the person
 
+
+## Concerns resolved at v389
+
+**Concern, at v378, for both, set-wide: the rings are spirals, and closure named as the form is an equilibrium entering the explaining** (incoming from the physics motion working at v377, `working/physics-motion-v377`, its set-wide audit laid at its carrying, met at Exhibit ONE's code at v378). At the code selves joined along, the last to the first, come to their parities again and never to a momentary again, each step adding a next: an odd spiral of n selves carries one like pair, the 0 released at 10-bi-tri-co-tunneling sits at the like pair's self and moves one self on at each second momentary, a bounded zero tunnelling, the pattern inverted after the 0 has passed each self once and the parities met again after twice, at 4n; an even spiral alternates, each self opposite the next; the torus winds on and never closes. Executed at v378 at a ring of five, the 0 at selves one to five at momentaries 5, 7, 9, 11 and 13, the pattern inverted at 15 and met again at 25. The saying to meet at this file's motion: *ring* at the code's joining is a spiral, *goes round at n* is *comes to its parities again at each n-th momentary*, *closes* is *winds on*, and each place naming closure as the form is the equilibrium entering; a field's own ring, a benzene ring or a superconducting ring, stays the field's, and the numbers' podaling rings are met at Natural Numbers. **At this file**: 14 sayings, 9 naming closure as the form, each met at its thought at the file's motion. — v378
+
+*Standing at v389:* carried at v389 at Equilibria Registry 3.4, "each spiral comes to its parities again, its offered parity with it, at 2 couplings or at 4 × n"; ready to dissolve.
+
+*Resolved at v389:* carried at Equilibria Registry 1.4 and 3.4 as re-said at v389's released words: each spiral comes to its parities again, selves coupled along in a spiral, and the same relation carries at each scale.
+
+**Aimed at a section, the Equilibria Registry 3.4, *ring*, eight sayings, at *spiral*.** Natural Naming 2.4: *ring, loop, goes round, round, closes at the resolver's coupling of selves along → spiral … comes to its parities again at each n-th momentary for goes round at n*. *Selves in a ring* → *selves at a spiral*; *a ring each a carrying of none* → *a spiral each a carrying of none*; the table's *Selves in the ring* → *Selves at the spiral*; *an even ring*, *an odd ring* → *an even spiral*, *an odd spiral*; *rings of 1 to 11* → *spirals of 1 to 11*; *a ring at rest* and *the ring meets the rest named still* carry *ring* as the conception's own word, the equilibrium's, or re-say the same. The section's own line already says it, *as Exhibit ONE's table of a spiral of selves opens it*. — v382F
+
+*Standing at v389:* carried at v389 at Equilibria Registry 3.4, "selves coupled along in a spiral release each changing along at 9-next-co-changing"; ready to dissolve.
+
+*Resolved at v389:* carried at Equilibria Registry 1.4 and 3.4 as re-said at v389's released words: each spiral comes to its parities again, selves coupled along in a spiral, and the same relation carries at each scale.
+
+**Aimed at a file, Equilibria Registry:** *runs* and *running* at 11 places, lines 92, 102, 118, 152, 154, 168 (2), 213, 229 (2), 506; passed at 66, 106 and 529, where the overlapping pairs *run* `(+,+) → (−,+) → (−,−) → (+,−)` and *agreeing, opposing, agreeing, opposing*, a listing. The file says *The same relation runs at each scale*, *each of the ten names one face still, the other face running at the same number*, *Continuing stable-forming runs as natural torusing*, *An odd ring closes no parity, and a meeting runs round it*. Natural Naming 2.4 carries it at *carrying*: the other face carrying at the same number, continuing stable-forming. — v381R scan
+
+*Standing at v389:* carried at v389 at Equilibria Registry 1.4, "The same relation carries at each scale."; ready to dissolve.
+
+*Resolved at v389:* carried at Equilibria Registry 1.4 and 3.4 as re-said at v389's released words: each spiral comes to its parities again, selves coupled along in a spiral, and the same relation carries at each scale.
