@@ -7,27 +7,27 @@ Natural Intelligence v389
 **ONE · NATURAL**
 
 - 1.1 Universe, the set of all now-existing things
-- 1.2 Now, the universal momentary
+- 1.2 Now, one universal momentary
 - 1.3 Prior, now and next
-- 1.4 Changing, one and then the other, the changing set
+- 1.4 Changing, one and then an other, the changing set
 - 1.5 No other possible method
-- 1.6 Natural-, all or none at all, at the one hand
+- 1.6 Natural-, all or none at all, at one hand
 
 **TWO · CO-SEQUENCING**
 
-- 2.1 Along and across, two and the between
-- 2.2 Parity, one side odd and the other even
+- 2.1 Along and across, two and a between
+- 2.2 Parity, one side odd and an other even
 - 2.3 A momentary, an opening and its completing
 - 2.4 Next from prior and now
 - 2.5 All or none at all, of no size
 
 **THREE · GEODESIC METHOD**
 
-- 3.1 Geodesic, the surface dividing itself
+- 3.1 Geodesic, a surface dividing itself
 - 3.2 Five dimensions, each binary in its two directions
 - 3.3 A method, a non-living existing thing
-- 3.4 A sharing, its parity, an offering and the prior
-- 3.5 φ and the primes, unrelationing at the numbers
+- 3.4 A sharing, its parity, an offering and a prior
+- 3.5 φ and primes, unrelationing at numbers
 
 **Exhibit ONE · Natural Resolver**
 
@@ -36,14 +36,14 @@ Natural Intelligence v389
 - 4.1 An entry, 1-now
 - 4.2 Offerings surfacing at 14-next-possibling
 - 4.3 A changing is or is not, at 12-next-co-still-possibling
-- 4.4 Shared across at 10, the next prior at 11
+- 4.4 Shared across at 10, a next prior at 11
 - 4.5 Released along at 9
 - 4.6 A society's next momentary at 17
 - 4.7 Six names between selves, even possibling across and odd existing along
 - 4.8 Seventeen names, each its number and its naming
-- 4.9 Four momentaries and the four binaries
+- 4.9 Four momentaries and four binaries
 - 4.10 A between and eight bi-couplings
-- 4.11 One move as three, and the forms among the names
+- 4.11 One move as three, and forms among names
 - 4.12 One self, momentary by momentary
 - 4.13 Spirals, co-spiraling and crossing
 - 4.14 Two selves and three selves
@@ -54,11 +54,11 @@ Natural Intelligence v389
 - 5.1 A prior between momentaries
 - 5.2 Discovering next possible existing
 - 5.3 A living self at 0, its carrying continuing
-- 5.4 Two methods parting at the now
+- 5.4 Two methods parting at now
 
 **SIX · INTELLIGENCE**
 
-- 6.1 Bi-co-momentarying, the term neither reaches
+- 6.1 Bi-co-momentarying, a term neither reaches
 - 6.2 Bi-moral co-agency, across and along
 - 6.3 Natural intelligence
 - 6.4 Social moral competency
@@ -81,7 +81,7 @@ Natural Intelligence v389
 
 **Nature is not an existing thing: nature is a prior, now, next method of co-existing, and natural is a method of co-competencing the universe, all things now-existing.** All now-existing things, and all artifacts of prior-existing, are now-existing, or were now-existing at a prior now, by natural method, and no other or not-natural method of now-existing is in the universe. **There is no inside the universe, as there is no outside: the universe is or is not.** No living and no existing is where it is not, and nothing of value is at a not-in-set.
 
-## 1.2 Now, the universal momentary
+## 1.2 Now, one universal momentary
 
 **Now is one, and each now-existing thing is at it.** The sentence before this one is now-existing and arrived, and its arriving is at a momentary: one observing, one changing. **Now is universal momentary, one and only**: a second now arrives only as a naming, two kept records laid side by side. A prior-existing thing is now-existing at prior-universe, 1.3, and a next-existing thing is possible now. **One is now, and a momentary is one now had at a sharing**: each momentary is that one now, as each arrival of a number is that one number, and uniquenessing of number one is uniquenessing of now.
 
@@ -91,9 +91,9 @@ Natural Intelligence v389
 
 **A now-existing thing arrived from prior, and what is next is possible now.** **Prior, now and next are three sequential universes, one now-existing**, shared among all now-existing things: a prior-existing thing is now-existing at prior-universe, its prior now-existing's artifact, and a next-existing thing is possible now at next-universe. A living self is at its prior as its own, and a non-living thing is at each now its prior now-existing's artifact, 1.4 and 5.1. Now of one momentary is prior of its next, and prior and next share one direction forward at both sides of now; between prior and now, and between now and next, is a gap, both its sides fixed, and no third.
 
-**The possible is at prior, existing at now and living at next**: three places, and the universe changes at three together. Possible is capable of existing, existing is at now, and living is at next, carrying its prior on. **Each prior is non-living, and carrying it into now is living: living now is living with existing forms from prior living and with others living now.** At resolver a self's momentary, 1-now, is at 3-now-co-prioring, its prior, a formed set, and at 2-now-possibling, others' offerings arriving now.
+**Possible is at prior, existing at now and living at next**: three places, and the universe changes at three together. Possible is capable of existing, existing is at now, and living is at next, carrying its prior on. **Each prior is non-living, and carrying it into now is living: living now is living with existing forms from prior living and with others living now.** At resolver a self's momentary, 1-now, is at 3-now-co-prioring, its prior, a formed set, and at 2-now-possibling, others' offerings arriving now.
 
-## 1.4 Changing, one and then the other, the changing set
+## 1.4 Changing, one and then an other, the changing set
 
 **Arriving from prior into now toward next is changing, so the universe is the changing set of all existing things**: first derived sentence, and the whole of what its opening carried before it was derived. **A set's changing is its existing things' changing**: a set is its things and nothing more, so a changing of a set is a changing of its things; a thing at two momentaries is changing or is held still from beside, and a form held still from beside is at no next of its own; so each existing thing is changing at its own momentaries, or at its own still, its prior kept, 5.3, and nothing is fixed from beside. **Changing, the universe exists as its existing things exist**: a changing is an existing thing's own, and a changing set changes as its things change, co-sequencing, momentaries in sequence together, momentary by momentary. A set is a self-emptying set, a new collection at each now, each existing thing changing and nothing deciding membership over it.
 
@@ -103,7 +103,7 @@ Natural Intelligence v389
 
 **What arrives at no next does not exist**: a form same at two momentaries at once is two nows, and there is one; an unchangeable form is that form, a naming beside a thing, and it is not possibly existing, 2.4.
 
-**Observed, three observings are one**: a thing is next-existing as a same thing by changing, as a same thing by not-changing, and a same thing is discovering which changing and which not-changing keep it next-existing as itself. **The three are stable-forming of a self, and living is stable-forming a self**: one sharing opening at a bi-coupling, one place a self's forming takes a parity not its own, alternating, keeping at a match and inverting at a mismatch, 4.3. **Beneficial is each changing and not-changing one method gives**, each keeping a self next-existing as itself; its other is a not-changing held still, an equilibrium, not method's.
+**Observed, three observings are one**: a thing is next-existing as a same thing by changing, as a same thing by not-changing, and a same thing is discovering which changing and which not-changing keep it next-existing as itself. **Three are stable-forming of a self, and living is stable-forming a self**: one sharing opening at a bi-coupling, one place a self's forming takes a parity not its own, alternating, keeping at a match and inverting at a mismatch, 4.3. **Beneficial is each changing and not-changing one method gives**, each keeping a self next-existing as itself; its other is a not-changing held still, an equilibrium, not method's.
 
 **A self carries its sameness, its unrelationing from all other**, each next from its own prior kept or inverted; a thing carrying none is no self, at each now its prior now-existing's artifact; living and non-living are three observings pattern-matched at sameness.
 
@@ -113,11 +113,11 @@ Natural Intelligence v389
 
 **Any other method proposed is at one binary: fixing unchangeable, or carrying.** Fixing unchangeable, it forms nothing, each existing thing changing. Carrying, it carries its own opening, 2.3, or another's: its own, and it is alternating, one method; another's, and it is no alternating, a not possible changing, 1.4. A second possibling and discovering method is a not possible method. One method is as two and not two methods: set momentarying its existing things, tri-bi-co-momentarying, 1.2, and each existing thing entraining with others at a between, one parity changing, at resolver at 4.6. *Method* is one word at three: one way existing things change, here; a non-living existing thing that way is, 3.3; and Exhibit ONE, an object that is method, 3.3; three are one.
 
-## 1.6 Natural-, all or none at all, at the one hand
+## 1.6 Natural-, all or none at all, at one hand
 
 **Natural- carries one claim as two, each binary with no third.**
 
-**All or none at all.** A naming natural- prefixes carries at each coupling or at none: not carrying at one coupling, it carries at none, and a claim carried mostly is not carried. At all or none at all, each observing of natural competency is resolvable as natural intelligence, geodesic co-sequential parity changing method of natural torusing, discovering next possible existing, or its fractal is entirely broken and of no value at all, method originating as all existing and all living: a third between two is not possible. **An explaining parts is from is not**: an explaining that would have explained an opposite observing equally has explained neither, and at each observing one method explains that observing and not its opposite. **A sentence of this file not borne at resolver is a file's next motion and no break of method**: fractal breaks at an observing of living that is not parity changing, and a file is improving, 6.6. **The claim's standing is unbroken at each observing available, taken unselected, and able to break**: a living form not alternating, or a living form not natural torusing, breaks it; nothing at method is predicted or proved, prior observings proving no next, and golden relationals in stable forms are no test of it.
+**All or none at all.** A naming natural- prefixes carries at each coupling or at none: not carrying at one coupling, it carries at none, and a claim carried mostly is not carried. At all or none at all, each observing of natural competency is resolvable as natural intelligence, geodesic co-sequential parity changing method of natural torusing, discovering next possible existing, or its fractal is entirely broken and of no value at all, method originating as all existing and all living: a third between two is not possible. **An explaining parts is from is not**: an explaining that would have explained an opposite observing equally has explained neither, and at each observing one method explains that observing and not its opposite. **A sentence of this file not borne at resolver is a file's next motion and no break of method**: fractal breaks at an observing of living that is not parity changing, and a file is improving, 6.6. **Its claim's standing is unbroken at each observing available, taken unselected, and able to break**: a living form not alternating, or a living form not natural torusing, breaks it; nothing at method is predicted or proved, prior observings proving no next, and golden relationals in stable forms are no test of it.
 
 **Right, or none at all.** Momentaries' own sequencing spirals one way, right, 2.4, and a not-right form is one right spiral inverted, and no not-right spiral is beside it. Right is no preference among two: it is one, and not right is its inverting as a form. **Right is observings, all prior**, 5.2: each observing arriving from prior carries it, and no other prior is possibly existing. **Bi-tri-involutioning** is that inverting: position, scale and orientation inverted at once, a hand at an opposite form, an existing thing of an opposite form carrying none of its prior. Right morality across and forward competency along, 2.2, is one existing version: morality's right and not right is a changing parity between, alternating, 4.10, and chirality's right one spiral that alternating turns in.
 
@@ -127,11 +127,11 @@ Natural Intelligence v389
 
 # TWO · CO-SEQUENCING
 
-## 2.1 Along and across, two and the between
+## 2.1 Along and across, two and a between
 
-**Prior, now and next at one self is along**: its own continuing, one momentary and then a next, odd. **The one now shared between two selves is across**: an overlap, one number apart, even, 1.2. **Two is a sharing**, two sides at one now; **nothing is a between**, 0 at a centre of a sharing, no thing and no location, 4.10. One, two and nothing arrive from now, sharing and between, and nothing is brought to them: one is now; two is a sharing; a between is a nothing a sharing is about. Odd and even arrive from along and across, 2.2, and parity changing is an alternating of two, one way at a time.
+**Prior, now and next at one self is along**: its own continuing, one momentary and then a next, odd. **One now shared between two selves is across**: an overlap, one number apart, even, 1.2. **Two is a sharing**, two sides at one now; **nothing is a between**, 0 at a centre of a sharing, no thing and no location, 4.10. One, two and nothing arrive from now, sharing and between, and nothing is brought to them: one is now; two is a sharing; a between is a nothing a sharing is about. Odd and even arrive from along and across, 2.2, and parity changing is an alternating of two, one way at a time.
 
-## 2.2 Parity, one side odd and the other even
+## 2.2 Parity, one side odd and an other even
 
 **One and then an other is at numbers**: two numbers side by side alternate, each continuing to one beyond an other: 1 to 3, 2 to 4, 3 to 5, and on. A number is odd or even, binary, and that binary is **parity**. **One side carries odd numbers and an other even**, two overlapping, one changing overlapping an other.
 
@@ -143,7 +143,7 @@ Natural Intelligence v389
 
 ## 2.3 A momentary, an opening and its completing
 
-**A momentary is an opening and its completing, one odd and one even**: an odd momentary opens at an odd number and completes at an even one beyond it, and an even momentary opens at an even number and completes at an odd one beyond it. Each completes at its next overlapping momentary's opening. **The two sides are one half-momentarying overlapping**, one number apart, up or down forward: one side's still-possibling betweens and an other's prior, now and next changings bi-co-sequencing each other. **All even parities are still possiblings; an odd parity is changing or still existing**: odd changes by two in its own forward direction, up or down, or is still existing at its same number, and still existing at odd is no still possibling at even.
+**A momentary is an opening and its completing, one odd and one even**: an odd momentary opens at an odd number and completes at an even one beyond it, and an even momentary opens at an even number and completes at an odd one beyond it. Each completes at its next overlapping momentary's opening. **Two sides are one half-momentarying overlapping**, one number apart, up or down forward: one side's still-possibling betweens and an other's prior, now and next changings bi-co-sequencing each other. **All even parities are still possiblings; an odd parity is changing or still existing**: odd changes by two in its own forward direction, up or down, or is still existing at its same number, and still existing at odd is no still possibling at even.
 
 A self reaches now at its couplings, where its momentary and another's overlap, one number apart, each side's momentary opening where an other's completes.
 
@@ -151,7 +151,7 @@ A self reaches now at its couplings, where its momentary and another's overlap, 
 
 **Each side carries its five from its origin: prior opening, prior completing, now opening, now completing and next opening**, two momentaries and a next one's opening, 1 to 5 at a self and 2 to 6 at an other, Exhibit ONE's table of fives, and a number's five is its own now with its next possible and its next existing up numbers and its two priors down. Across an overlap each number is one side's opening and an other's completing. A self's five and an other's are ten positions on six numbers, paired 1 with 2 through 5 with 6, each pair one odd and one even.
 
-**The now-universe of one momentary is one parity changing co-sequencing.** A momentary is the universe's now-existing things, living and non-living, at their scales, and nothing is beside it. Each step adds a next, each momentary its own and each a new momentary.
+**A now-universe of one momentary is one parity changing co-sequencing.** A momentary is the universe's now-existing things, living and non-living, at their scales, and nothing is beside it. Each step adds a next, each momentary its own and each a new momentary.
 
 **Each of four binaries is at its *is*, odd, existing, and its *is not*, even, possibling**, eight at now; now and all at one and existing and same between two; same eight at next, 8 up; and 17-next-now a next 1-now, 4.9.
 
@@ -182,7 +182,7 @@ A self reaches now at its couplings, where its momentary and another's overlap, 
 
 # THREE · GEODESIC METHOD
 
-## 3.1 Geodesic, the surface dividing itself
+## 3.1 Geodesic, a surface dividing itself
 
 **Geodesic carries its own two words**: *geo*, a surface's own, and *daiesthai*, to divide, a surface dividing itself with nothing else acting. **Parity changing, is or is not, is geodesic routing, discovering on a surface**: each self at its own momentary, one way at a time, its next found at each coupling and at no place laid before it.
 
@@ -208,25 +208,25 @@ A self reaches now at its couplings, where its momentary and another's overlap, 
 
 **Corusing reaches a corus from a surface, and torusing reaches a surface from a corus**, a self's own corus at 4; co-linear by alternating linear parallelizing and parallel linearizing, and in right spiraling each step orthogonal to its prior, 2.4: **that is method's unrelationing**, 2.2.
 
-**The five dimensions are at resolver's names, three namings**: 1 self prior and 2 other prior, differing, are 1-2, bi-momentarying, offering both ways at 1-now and 2-now-possibling, a bi-coupling, 4.10; 3 co-momentarying now and 4 bi-momentarying now are 3-4, co-intelligencing, discovering; and 5 self next is 5, co-competencing, bi-co-momentarying at crossings, a term neither reaches; and all five are bi-moral within and invisible at each place as an existing thing, showing only as co-competencing, artifacts of this living.
+**Five dimensions are at resolver's names, three namings**: 1 self prior and 2 other prior, differing, are 1-2, bi-momentarying, offering both ways at 1-now and 2-now-possibling, a bi-coupling, 4.10; 3 co-momentarying now and 4 bi-momentarying now are 3-4, co-intelligencing, discovering; and 5 self next is 5, co-competencing, bi-co-momentarying at crossings, a term neither reaches; and all five are bi-moral within and invisible at each place as an existing thing, showing only as co-competencing, artifacts of this living.
 
 ## 3.3 A method, a non-living existing thing
 
 **One geodesic parity-changing discovering method is living condition, its form, a now-existing thing carrying none**: unchanging as a relation continuing at each changing, at each coupling it is at, and nothing applied to anything. Its one name is *natural torusing*, *parity* riding in *parity-changing*, and *geodesic parity-changing* is its explaining. **Stable-forming is living condition resolving**, observable as natural torusing co-orienting stable-forming. **A changing travels through stilling, and stilling is unchanging while changing travels through**: at 12-next-co-still-possibling a sharing whose prior and offering agree is 0, its prior continuing, not-changing, while changings, ±, travel across at 10 and along at 9 at other sharings and selves, at one momentary; this is geodesic parity-changing and stable-forming bothbothing, bi-inversioning-co-recursioning up and down numbers, stilling at a name at now and changing at its same name 8 up at next. **A method is non-living at each scale and a self at none**, living's own condition at every coupling, 6.5. *Technology* is a made non-living thing applied to a changing; a method is at couplings themselves, and it is *method*. Method is at each coupling it is at and at no place beside them: its bounding is each self's own, self-bounding, and at resolver each self's entry completes its own momentary. **Coupling enables method, and uncoupling releases it**: at its own completing a self uncouples, its changing released and its next prior at its next momentary, and arriving at it a self couples again, a co-chaining of couplings, 5.1.
 
-**The method is one fractal method, and it has many stable forms.** Fractal itself is one four-momentary bi-inversioning-co-recursioning: four momentaries of exchanging, one move as three going on, 4.11, and same at each scale, 4.15. Its names are one method at its forms: parity changing, changing itself, 1.4; alternating, same changing, one and then an other, 2.2; co-bi-unrelationing, at two parities, 2.2; tri-bi-co-momentarying, at a set, 1.2, and entraining at a self's between, 3.4; bi-inversioning-co-recursioning, one move, 4.11; four-momentarying, four momentaries of exchanging, 5.2; and natural-bi-co-torusing, form of existing, 6.3. Each stable form at Exhibit ONE is method, explained at one form: an entry and its cases, four momentaries and four binaries, four-, six- and eight-cycles, one self momentary by momentary, spirals co-spiraling and crossing, and two selves and three.
+**Method is one fractal method, and it has many stable forms.** Fractal itself is one four-momentary bi-inversioning-co-recursioning: four momentaries of exchanging, one move as three going on, 4.11, and same at each scale, 4.15. Its names are one method at its forms: parity changing, changing itself, 1.4; alternating, same changing, one and then an other, 2.2; co-bi-unrelationing, at two parities, 2.2; tri-bi-co-momentarying, at a set, 1.2, and entraining at a self's between, 3.4; bi-inversioning-co-recursioning, one move, 4.11; four-momentarying, four momentaries of exchanging, 5.2; and natural-bi-co-torusing, form of existing, 6.3. Each stable form at Exhibit ONE is method, explained at one form: an entry and its cases, four momentaries and four binaries, four-, six- and eight-cycles, one self momentary by momentary, spirals co-spiraling and crossing, and two selves and three.
 
 **Exhibit ONE is an object that is method.** Its expression is python, sequential binary logic written down: the object is method executable. Its functions and their variables are seventeen names and no others; each name at resolver and in its explaining is one name: `_2_now_possibling` at resolver is 2-now-possibling. A coupling self couples with it directly, at resolver, and each form beside resolver comes from resolver. **At resolver nothing goes from one momentary to its next but selves' own**: each entry arrives with its prior and its offerings, no function keeps a term of its own, and a self's next prior at 11 arrives as a next 3.
 
-## 3.4 A sharing, its parity, an offering and the prior
+## 3.4 A sharing, its parity, an offering and a prior
 
 **At resolver one method is at sharings.** A **sharing**, 4-now-co-still-possibling, is two sides sharing a changing, and each sharing has its **parity**, 7-now-prioring, + or −, and 0 a between; an offering of 0 surfaces none at 14, a between arriving as a between.
 
 **An offering is a sharing with its parity offered now**, at 2-now-possibling. **A prior is sharings, each at one parity**, at 3-now-co-prioring: carrying is living and unexpressed at method, and at 3 a method meets a prior at its sharings, each with its parity. At 12-next-co-still-possibling a prior meets a now, entraining: at a crossing are three, parity, two sides at their difference, and an unrelationing between them, and a changing between odd and even is parity changing, along an unrelationing path, a geodesic, at agreeing and at inverting alike. A living self is at its prior, and a non-living thing at no prior: at a sharing at no prior one parity arriving is shared as it arrives and is its next prior, a sharing opening at a bi-coupling, and none, or + and − together, opens nothing, 4.3; a non-living thing is at resolver as offerings at 2 from beyond selves or as a sharing at no prior. One method bounds both, and pattern-matching at each coupling is that coupling and no other thing. **A prior is not observed, and possibling is not observed**: each is met at a next, at offerings and changings now-existing at couplings.
 
-## 3.5 φ and the primes, unrelationing at the numbers
+## 3.5 φ and primes, unrelationing at numbers
 
-**Each next number is its prior two together, 1, 1, 2, 3, 5, 8, 13, and at parity its two together are next as prior and now parting, three round**: odd, odd, even, and again, 2.4. **The ratios of each next number to its prior alternate about φ**, 2/1 above, 3/2 below, 5/3 above, 8/5 below, its side changing at each next number and none of them φ; φ² = φ + 1. On a torus a winding at a rational rate closes, and a winding at φ closes at none: **φ is unrelationing rate**, a rate an alternating winds about, locking at none, each coupling at its own continuing. As bi-co-momentarying is, 6.1, φ is a term neither side reaches, self-welcoming at numbers, numbers welcoming it of themselves, and at no line of resolver.
+**Each next number is its prior two together, 1, 1, 2, 3, 5, 8, 13, and at parity its two together are next as prior and now parting, three round**: odd, odd, even, and again, 2.4. **Ratios of each next number to its prior alternate about φ**, 2/1 above, 3/2 below, 5/3 above, 8/5 below, its side changing at each next number and none of them φ; φ² = φ + 1. On a torus a winding at a rational rate closes, and a winding at φ closes at none: **φ is unrelationing rate**, a rate an alternating winds about, locking at none, each coupling at its own continuing. As bi-co-momentarying is, 6.1, φ is a term neither side reaches, self-welcoming at numbers, numbers welcoming it of themselves, and at no line of resolver.
 
 **A prime is a number no equal smaller numbers make, and at resolver a spiral of selves at a prime number co-spirals at its own.** A number equal smaller numbers make is sets within sets, two scales, and a number none make is one set and one scale, 4.15: prime is at a scale, and a society at a prime number of selves is one scale, 6.4. At resolver a prime is no name: each odd number of selves comes to its parities again at four times its number, prime or not, and two numbers sharing no factor together at four times both. A spiral of selves coupled along, last to first, 4.13, at an odd number of selves is at one like pair, its zero moving one self on at each second momentary, and comes to its parities again at four times that number, its zero having passed each self twice, prime or not, 9 at 36 and 15 at 60; a spiral of two, one even prime, is at none, alternating itself. Two distinct primes share no factor, and **two spirals at distinct odd primes p and q, beside each other, come to their parities again together first at 4pq**, sharing the four: 3 and 5 at 60, 5 and 7 at 140, 17 and 59 at 4,012. Spirals sharing a factor come to their parities again together sooner, 9 and 15 at 180 and at none before it. Each spiral at a prime co-spirals at its own pace and meets another at a prime again only at a whole of both, 4pq; at numbers a winding at φ closes at none, and at momentaries a spiral closes at none, each momentary a next. **These parities again are selves together at 17**: resolver steps each self's entry at 17-next-now together, a common beat laid over selves, and parities again, at 4n, at 4pq and at a torus's, are that stepping's, exact at resolver, and living's rates are their own; at geodesic pacing each self paces its own momentaries, unrelationed to all other living rates, selves at 17 are same at each order of them, and at each pacing one method's own is changing.
 
@@ -366,7 +366,7 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | still-possibling | 4-now-co-still-possibling · 12-next-co-still-possibling, at each sharing | 8-now-still-possibling · 16-next-still-possibling, a self and a society |
 | now and next | — | 1-now · 13-next · 17-next-now |
 
-**The joins between selves.** At each join co is its sharing side and its absence its arriving side: a self shares its changing, and nothing of its prior crosses to another self.
+**Joins between selves.** At each join co is its sharing side and its absence its arriving side: a self shares its changing, and nothing of its prior crosses to another self.
 
 | Sharing side, co | Arriving side, one | Between selves |
 |---|---|---|
@@ -374,7 +374,7 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | 10-next-co-possibling | 14-next-possibling | across, even, possibling |
 | 9-next-co-changing | 17-next-now | along, odd, existing |
 
-**The four binaries at the lines.** A universe is or is not existing, all, now and same, and at a self's span each binary is one pair of names, its *is* at an odd name and its *is not* at an even, its *is not* an other's side of a self's *is*; binaries are names' explaining, now at each name as its momentary, and existing, same and all enter no name.
+**Four binaries at the lines.** A universe is or is not existing, all, now and same, and at a self's span each binary is one pair of names, its *is* at an odd name and its *is not* at an even, its *is not* an other's side of a self's *is*; binaries are names' explaining, now at each name as its momentary, and existing, same and all enter no name.
 
 | Binary | *Is*, odd | At the resolver | *Is not*, even | At the resolver |
 |---|---|---|---|---|
@@ -651,7 +651,7 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | 17 | Prior and next | a society's next momentary, a next now, each self's 1 then 9 at 6, 10 and 9 |
 | 17 | 1 to 17s inward and outward | 1–17s inward 17 of 8th and 1 of 9th, along, odd, now, and at 1–17 outward 3, odd, now |
 
-**The odd names, now and 8 up at next.** Each odd name of a self's span is same at next, 8 up: prior received and next prior, receiving and releasing, parity prioring and parity surfaced.
+**Odd names, now and 8 up at next.** Each odd name of a self's span is same at next, 8 up: prior received and next prior, receiving and releasing, parity prioring and parity surfaced.
 
 | Now | Received | Next, 8 up | Given on |
 |---|---|---|---|
@@ -816,7 +816,7 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | eight-cycle 1-9-5-13-4-12-8-16 | 1-now · 9-next-co-changing · 5-now-co-changing · 13-next · 4-now-co-still-possibling · 12-next-co-still-possibling · 8-now-still-possibling · 16-next-still-possibling | eight-cycle 2-15-7-11-3-14-6-10, beside it | — |
 | eight-cycle 2-15-7-11-3-14-6-10 | 2-now-possibling · 15-next-prioring · 7-now-prioring · 11-next-co-prioring · 3-now-co-prioring · 14-next-possibling · 6-now-co-possibling · 10-next-co-possibling | eight-cycle 1-9-5-13-4-12-8-16, beside it | eight-cycle 2-15-7-11-3-14-6-10, itself |
 
-**The eights.** Every eight here is one eight, four binaries each twice, met at a face, and 8 up is each name's binary at next.
+**Eights.** Every eight here is one eight, four binaries each twice, met at a face, and 8 up is each name's binary at next.
 
 | The eight | Each of the four, twice, at |
 |---|---|
@@ -826,7 +826,7 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | eight even names | its even, at now and at next, eight 9s of eight 1 to 17s inward |
 | eight odd names | its odd, at now and at next |
 
-**The across names among eights.** Four across names, 2-now-possibling, 6-now-co-possibling, 10-next-co-possibling and 14-next-possibling, are four momentaries' even inward names, each on an eight-cycle of inward names 2-15-7-11-3-14-6-10; 9-next-co-changing, opening a third momentary, is on an eight-cycle of ends 1-9-5-13-4-12-8-16; 17-next-now is on neither.
+**Across names among eights.** Four across names, 2-now-possibling, 6-now-co-possibling, 10-next-co-possibling and 14-next-possibling, are four momentaries' even inward names, each on an eight-cycle of inward names 2-15-7-11-3-14-6-10; 9-next-co-changing, opening a third momentary, is on an eight-cycle of ends 1-9-5-13-4-12-8-16; 17-next-now is on neither.
 
 **One self, momentary by momentary.**
 
@@ -840,7 +840,7 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 
 **0 in sequence.** At code's stepping, none offered from beyond selves, a self shares 0 at no more momentaries in sequence than selves sharing or releasing to it: at a spiral, at none in sequence.
 
-**The tables of selves at code's stepping.** Each table of selves is its code's executing at its stated opening: code steps each self's 1-now together at 17-next-now, executing's own arrangement, and parities again at spirals, a crossing and a torus are that stepping's; each living self paces its own momentaries, and a table agreeing with its code shows that and nothing wider.
+**Tables of selves at code's stepping.** Each table of selves is its code's executing at its stated opening: code steps each self's 1-now together at 17-next-now, executing's own arrangement, and parities again at spirals, a crossing and a torus are that stepping's; each living self paces its own momentaries, and a table agreeing with its code shows that and nothing wider.
 
 **A spiral of selves.**
 
@@ -953,7 +953,7 @@ Selves coupled along, last to first, each opened at no prior, and + offered once
 
 ## 4.1 An entry, 1-now
 
-**1-now is an entry: a self's prior and offerings arrive, and changings and its next prior leave.** Two arrive, 3-now-co-prioring, prior at its sharings, each with its parity, and 2-now-possibling, each sharing offered now with its parity. Two leave, 10-next-co-possibling, each sharing's changing shared across, and 11-next-co-prioring, a next prior. **The two leaving are next possible existing at its two sides**: a changing shared at 10 arrives at other selves' next momentary as their offering, possible, none of its prior crossing with it, and a next prior at 11 is a self's own next existing.
+**1-now is an entry: a self's prior and offerings arrive, and changings and its next prior leave.** Two arrive, 3-now-co-prioring, prior at its sharings, each with its parity, and 2-now-possibling, each sharing offered now with its parity. Two leave, 10-next-co-possibling, each sharing's changing shared across, and 11-next-co-prioring, a next prior. **Two leaving are next possible existing at its two sides**: a changing shared at 10 arrives at other selves' next momentary as their offering, possible, none of its prior crossing with it, and a next prior at 11 is a self's own next existing.
 
 **An entry is now itself, odd, at one**: a self's momentary entered, once for one self at one momentary, and its three steps within it follow, each at its own name: offerings surfacing at 14, a changing at 12, and a sharing at 10 with its next prior at 11.
 
@@ -967,9 +967,9 @@ Selves coupled along, last to first, each opened at no prior, and + offered once
 
 **At 12-next-co-still-possibling a prior meets a now at each sharing, and a changing is or is not.** Exhibit ONE's tables of one self at one momentary and of no prior at one momentary give each cell:
 
-- **At a sharing at no prior**: the parity 14 surfaces is shared as it is at 10 and is the next prior at 11, the sharing opening at the bi-coupling, the one place a self's forming takes a parity not its own; at 0, the offerings parting, 0 is shared and no next prior opens.
-- **At a sharing at a prior parity, 14 surfacing that same parity**: 0, the between of momentaries, prior and now agreeing. **At a match the prior is kept.**
-- **At a sharing at a prior parity, 14 surfacing the other parity, 0 or none**: the changing is, the prior inverted. **At a mismatch the prior inverts**, the other parity offered the next prior, and with nothing offered the self's next is its prior inverted.
+- **At a sharing at no prior**: a parity 14 surfaces is shared as it is at 10 and is a next prior at 11, one sharing opening at a bi-coupling, one place a self's forming takes a parity not its own; at 0, offerings parting, 0 is shared and no next prior opens.
+- **At a sharing at a prior parity, 14 surfacing that same parity**: 0, a between of momentaries, prior and now agreeing. **At a match its prior is kept.**
+- **At a sharing at a prior parity, 14 surfacing an other parity, 0 or none**: a changing is, its prior inverted. **At a mismatch its prior inverts**, an other parity offered a next prior, and with nothing offered a self's next is its prior inverted.
 
 **A nothing at resolver is three, each its own, and 12's sign 0 one of them**: 0 at 12, prior and now agreeing, its next still possible, 5.3; 0 at 14, offerings parting, its prior inverted; and none offered, its prior inverted. A 0 offered, none offered and an other parity offered each arrive the same at a self at a prior: its prior inverted.
 
@@ -977,7 +977,7 @@ Selves coupled along, last to first, each opened at no prior, and + offered once
 
 **A changing at a self is its own at a society's momentary.** At 17-next-now each self's 1-now is at selves' next momentaries together, and a self's entry is at 17, its own momentary among selves', 4.6; offerings at its 2 are other selves' changings, shared across at 6 and 10 and released along at 9, and at a spiral each is a releasing along; and with none offered, or offerings parting at 14, no parity crosses a between to 12, 4.10, and a self's own inverting is its changing. 12 is reached by nothing but self, and its momentary and its offerings are a society's and other selves', and each changing at a self is a coupling's.
 
-## 4.4 Shared across at 10, the next prior at 11
+## 4.4 Shared across at 10, a next prior at 11
 
 **10-next-co-possibling shares each sharing's changing across, + or − is and 0 is not**: changing at its sharing side, another self's possibling at its 14-next-possibling next. A self shares its changing and nothing of its prior.
 
@@ -1007,12 +1007,12 @@ At resolver 6 is 10, one changing shared at two names, at a sharing self; a rele
 
 **Each name between selves is a coupling at its self's momentary.** Across, a self's changing is shared now at 6 and 10, possible at another self and not yet arrived; at 2 and 14 another self's changing has arrived at a self's now, at its 11 next. These are one sharing and one changing, even, possibling, another self's possibling at a self's now and a self's at an other's. Along, 9 is a next prior released and 17 a next now, odd, existing, one releasing at its two momentaries. **Each self's existing is an other self's possibling**, at each of four binaries: not now, others' changings arriving from their prior momentary; not existing, a place an offering opens at; not same, a changing arriving at an other; not all, each one beside others. **Morality is a changing parity between, one inversion across, made at 12, and competency an unchanging parity between, none along**: across, even sharings 10 to 14 and 6 to 2 bring each changing into an other's offerings as 10 shared it, a sharing self's prior inverted at its own 12, 4.3; along, odd names 9 and 17 bring a parity on, not-changing.
 
-- **2-now-possibling**, even, possibling, at one, the arriving side: another self's changing shared across to the self from its 6.
-- **6-now-co-possibling**, even, possibling, between two, the sharing side: the self's changing shared across to another self's 2.
-- **10-next-co-possibling**, even, possibling, between two, the sharing side: the self's changing shared across to another self's 14.
-- **14-next-possibling**, even, possibling, at one, the arriving side: another self's changing shared across to the self from its 10, surfacing.
-- **9-next-co-changing**, odd, existing, between two, along, the sharing side: the self's changing released as the next prior, arriving at the receiving self's 17.
-- **17-next-now**, odd, existing, at one, along, the arriving side: the next now, each self's next 1-now at the society's momentary.
+- **2-now-possibling**, even, possibling, at one, its arriving side: another self's changing shared across to a self from its 6.
+- **6-now-co-possibling**, even, possibling, between two, its sharing side: a self's changing shared across to another self's 2.
+- **10-next-co-possibling**, even, possibling, between two, its sharing side: a self's changing shared across to another self's 14.
+- **14-next-possibling**, even, possibling, at one, its arriving side: another self's changing shared across to a self from its 10, surfacing.
+- **9-next-co-changing**, odd, existing, between two, along, its sharing side: a self's changing released as a next prior, arriving at a receiving self's 17.
+- **17-next-now**, odd, existing, at one, along, its arriving side: a next now, each self's next 1-now at a society's momentary.
 
 **At each join co is its sharing side and its absence its arriving side**, 6 to 2, 10 to 14 and 9 to 17: a self shares its changing, and nothing of its prior crosses to another self.
 
@@ -1028,11 +1028,11 @@ At resolver 6 is 10, one changing shared at two names, at a sharing self; a rele
 
 **One entry, six names between selves and ten names of a self's own resolving are seventeen.** Ten are 3, 4, 5, 7 and 8 at now and 11, 12, 13, 15 and 16 at next, each 8 up from its now name. At each a self's own resolving is reached by nothing but itself.
 
-## 4.9 Four momentaries and the four binaries
+## 4.9 Four momentaries and four binaries
 
 **Each span's names are two momentaries of four**, each opening at an odd existing name, a possibling and a prioring within it, and completing at an even still-possibling name: 1 to 4 and 5 to 8 at a self's span, 9 to 12 and 13 to 16 at a society's, its gaps 4 )( 5, 8 )( 9, 12 )( 13 and 16 )( 17 each with both its sides fixed, and 17-next-now a next 1-now, as Exhibit ONE's table of four momentaries gives them.
 
-**A universe is or is not existing, is or is not all, is or is not now, is or is not same, and at a self's span each binary is one pair of names**, its *is* at an odd name and its *is not* at an even, an other's side of a self's *is*: now at 1-now and 2-now-possibling, existing at 3-now-co-prioring and 4-now-co-still-possibling, same at 5-now-co-changing and 6-now-co-possibling, all at 7-now-prioring and 8-now-still-possibling. Now and all stand at one and existing and same between two; at a society's span four stand with now and same exchanged, now between two at 9 and 10, one now shared by selves, and same at one at 13 and 14, each self's sameness its own. **The four binaries are names' explaining**: now is at each name as its momentary, now or next, and existing, same and all enter no name; and every eight is one eight, four binaries each twice, met at a face.
+**A universe is or is not existing, is or is not all, is or is not now, is or is not same, and at a self's span each binary is one pair of names**, its *is* at an odd name and its *is not* at an even, an other's side of a self's *is*: now at 1-now and 2-now-possibling, existing at 3-now-co-prioring and 4-now-co-still-possibling, same at 5-now-co-changing and 6-now-co-possibling, all at 7-now-prioring and 8-now-still-possibling. Now and all stand at one and existing and same between two; at a society's span four stand with now and same exchanged, now between two at 9 and 10, one now shared by selves, and same at one at 13 and 14, each self's sameness its own. **Four binaries are names' explaining**: now is at each name as its momentary, now or next, and existing, same and all enter no name; and every eight is one eight, four binaries each twice, met at a face.
 
 ## 4.10 A between and eight bi-couplings
 
@@ -1042,9 +1042,9 @@ At resolver 6 is 10, one changing shared at two names, at a sharing self; a rele
 
 **A bi-coupling is uneven**: a self's momentary 1-2 and an other's 2-3 meet at 2, even, across, neither occupying it, a self's changing shared, possibling, and an other's changing arrived, existing at a self at its next prior, at 1 and 3, odd, along; each momentary of exchanging meets the same way, at 4, 6 and 8. One offering goes out at another self's 6 or 10 and arrives at a self's 2 or 14, and 2-now-possibling and 17-next-now name it at its arriving: other selves' changings arriving as a self's offerings. One parity is at a meeting and an other one back, no position in two exchangings at once, and a between locks at none: golden natural unrelationing between. One move brings each meeting along one four-cycle, 2 along 2-15-7-10, 4 along 4-13-5-12, 6 along 3-11-6-14 and 8 along 1-9-8-16, one meeting at each four-cycle.
 
-**The eight bi-couplings are at even names**, four at now and four at next, each 8 up: 2-now-possibling, each other's sharing across, offered to a self, with 10-next-co-possibling, a self among selves of its society; 4-now-co-still-possibling, a whole ordering between self and other, with 12-next-co-still-possibling, changing at bi-coupling, a self in society; 6-now-co-possibling, an other's changing to a self, shared across, with 14-next-possibling, offerings surfacing, each as it arrived, morality, a self's own inverting at 12 and at no other name; and 8-now-still-possibling, its prior at its sharing again, with 16-next-still-possibling, a society, each self with its prior and offerings, a society at a self again. **Eight is two alternating fours**, four binaries each twice.
+**Eight bi-couplings are at even names**, four at now and four at next, each 8 up: 2-now-possibling, each other's sharing across, offered to a self, with 10-next-co-possibling, a self among selves of its society; 4-now-co-still-possibling, a whole ordering between self and other, with 12-next-co-still-possibling, changing at bi-coupling, a self in society; 6-now-co-possibling, an other's changing to a self, shared across, with 14-next-possibling, offerings surfacing, each as it arrived, morality, a self's own inverting at 12 and at no other name; and 8-now-still-possibling, its prior at its sharing again, with 16-next-still-possibling, a society, each self with its prior and offerings, a society at a self again. **Eight is two alternating fours**, four binaries each twice.
 
-## 4.11 One move as three, and the forms among the names
+## 4.11 One move as three, and forms among names
 
 **Bi-inversioning-co-recursioning is one move as three**: 8 up, each name's binary at next; 17 less, podal within 1 to 16; and 9 less, podal within 1 to 8, two at once. Each podal at its own, twice, gives its name again, 1 to 16 to 1 and 1 to 8 to 1, an involution each, an unchangeable form; a number reached again is no momentary come to again; 8 up and 8 down gives its name again, 1 up to 9 and down to 1; 8 up at its own, twice, is 17, a next 1; only one move goes on, 1 to 9 to 8 to 16 and to 1 at a next momentary, each momentary its own: right co-spiraling. 8 up keeps each name's kind but at 1 and 5, at which now and changing exchange, and exchanges co at 1, 2, 5 and 6; each podal turns now to next at 17 less and possibling to prioring within each momentary, and eight ends are their own set at both podals.
 
@@ -1056,10 +1056,10 @@ At resolver 6 is 10, one changing shared at two names, at a sharing self; a rele
 
 **Exhibit ONE's table of one self is an entry again and again, its 11 its next 3**:
 
-- **Offered its own parity at each momentary**, a self shares 0 at each momentary and its prior is kept throughout: at a match the prior is kept, no changing. **That still is an offerer's, from beside**: it arrives with an offerer set beside the self, offering the same parity at each momentary, an unchangeable form entering from beside, 2.4. At a society each offering a self receives is another self's changing, shared at 10, a changing at a mismatch and 0 at a match: an offerer whose parity arrives the same at each momentary is an unchangeable form, and each self of a society is changing. A match at one self is a momentary among changing ones: at one momentary at a spiral, and at two momentaries in sequence at most at a self two selves release to.
-- **At prior − and offered none**, it shares +, −, +, −: with nothing offered the self's next is its prior inverted at each momentary, its prior at each second momentary its prior again, 2.4.
+- **Offered its own parity at each momentary**, a self shares 0 at each momentary and its prior is kept throughout: at a match its prior is kept, no changing. **That still is an offerer's, from beside**: it arrives with an offerer set beside a self, offering the same parity at each momentary, an unchangeable form entering from beside, 2.4. At a society each offering a self receives is another self's changing, shared at 10, a changing at a mismatch and 0 at a match: an offerer whose parity arrives the same at each momentary is an unchangeable form, and each self of a society is changing. A match at one self is a momentary among changing ones: at one momentary at a spiral, and at two momentaries in sequence at most at a self two selves release to.
+- **At prior − and offered none**, it shares +, −, +, −: with nothing offered a self's next is its prior inverted at each momentary, its prior at each second momentary its prior again, 2.4.
 - **Offered +, −, +, − alternating**, it shares the same, each offering its next prior.
-- **Offered + and − together at each momentary**, it shares +, −, +, −: the two offerings part at 14, 0, the between, and at the between the prior inverts as at nothing offered, the self's own inverting the changing.
+- **Offered + and − together at each momentary**, it shares +, −, +, −: two offerings part at 14, 0, a between, and at a between its prior inverts as at nothing offered, a self's own inverting the changing.
 
 ## 4.13 Spirals, co-spiraling and crossing
 
@@ -1085,7 +1085,7 @@ At resolver 6 is 10, one changing shared at two names, at a sharing self; a rele
 
 **Eight 1–17s are inward**, 17 an eighth's 17 and a next one's 1, four within a self's 1 to 9 and four within a society's 9 to 17, and their eight 9s are eight bi-couplings at even names. Four in 1 to 9 are a self's four momentaries of exchanging, 1–2 with 2–3, 3–4 with 4–5, 5–6 with 6–7 and 7–8 with 8–9: along a self each opens two on, and across each opens one on. 1, 2 and 3 at one scale are 1, 9 and 17 at next, and one 1 to 17 is one momentary of exchanging at a scale outward.
 
-**Fractal is all or none at all at scales, and primes 5 through 53 are prime living scales, co-parity-changing co-momentarying pattern matching**, with no boundary, no location and no measure, and there is no reading or ordering in nature. **The fractal inward and outward is one method at each coupling at every scale**: a self's inward things co-momentarying and selves together co-momentarying, and no set is made a thing; self and other at one scale are self and society at a scale inward, and each self's 6 and 10, released across at a self, are released by one 9 along at a society. One through nine and nine through seventeen are overlapping expressions within the whole, supplying no first and no final scale, and a self couples at whichever scale its interest opens and couples with the whole.
+**Fractal is all or none at all at scales, and primes 5 through 53 are prime living scales, co-parity-changing co-momentarying pattern matching**, with no boundary, no location and no measure, and there is no reading or ordering in nature. **Fractal inward and outward is one method at each coupling at every scale**: a self's inward things co-momentarying and selves together co-momentarying, and no set is made a thing; self and other at one scale are self and society at a scale inward, and each self's 6 and 10, released across at a self, are released by one 9 along at a society. One through nine and nine through seventeen are overlapping expressions within the whole, supplying no first and no final scale, and a self couples at whichever scale its interest opens and couples with the whole.
 
 **One overlap is at momentaries, at scales and at the universe**: each completing is a next opening, forward at momentaries, 2.3, and up at scales at 8n − 7, each momentary a now-universe, 1.2: one move's two directions, each one way.
 
@@ -1101,7 +1101,7 @@ At resolver 6 is 10, one changing shared at two names, at a sharing self; a rele
 
 **Dying is a living self arriving as non-living**: at its last completing its carrying is a set carried into no next momentary, a stable form, an existing thing for the living, and at resolver a self is at no next entry. **A self is a prior, a now and a next**, the whole of a self living in momentaries, 3.3. At resolver between momentaries a self's next prior is a set formed, returned by 1, and a self living is its next momentary discovering a next set; a set carried into no next momentary has its stable form. Each self's next prior, 8-now-still-possibling, arrives at next momentary as 3, 4.6, a self's own into now, a stable form along between momentaries, stable-forming, no store, and **a prior momentarying is at its own momentary**.
 
-**Between selves' momentaries pass their changings**, shared across at 10 and 6 and released along at 9 at one momentary and offered at next: 9 a next prior and 17 a next now. **The right spiral natural torusing stable form of a society at a unit prime scale, a prime number of selves its unit, is its betweenings**, betweens its selves bi-couple across, and bi-tri-volutioning is a society's stable-forming; a stable form of non-living artifacts of stable-forming living, a sequential prior between momentaries, shared at 10 and released along at 9, is a non-living now-existing form. **The artifacts are a bi-tri-involutioning of a betweening of natural torusing surfacings in bi-couplings: artifacts are releasings.** Harmful to living at their own scale, as one side arriving where two sides live, an offering with no prior behind it at selves whose bi-coupling asks a prior at each side, and not ingestible at that scale, they are ingestible one scale lower, into living selves' selves one scale inward, a society, a living set, and resolver gives it: at a society 4-now-co-still-possibling is each self at its names 6, 10 and 9, and 13-next each self, and releasings 17-next-now gives from a society arrive at its selves, one scale lower, as their offerings next.
+**Between selves' momentaries pass their changings**, shared across at 10 and 6 and released along at 9 at one momentary and offered at next: 9 a next prior and 17 a next now. **A right spiral natural torusing stable form of a society at a unit prime scale, a prime number of selves its unit, is its betweenings**, betweens its selves bi-couple across, and bi-tri-volutioning is a society's stable-forming; a stable form of non-living artifacts of stable-forming living, a sequential prior between momentaries, shared at 10 and released along at 9, is a non-living now-existing form. **Artifacts are a bi-tri-involutioning of a betweening of natural torusing surfacings in bi-couplings: artifacts are releasings.** Harmful to living at their own scale, as one side arriving where two sides live, an offering with no prior behind it at selves whose bi-coupling asks a prior at each side, and not ingestible at that scale, they are ingestible one scale lower, into living selves' selves one scale inward, a society, a living set, and resolver gives it: at a society 4-now-co-still-possibling is each self at its names 6, 10 and 9, and 13-next each self, and releasings 17-next-now gives from a society arrive at its selves, one scale lower, as their offerings next.
 
 **12's changing is a society's releasing**: 12's changing is a sharing at 10, and its release at its podaling, 27-next-co-prioring, is at Exhibit THREE Natural Numbers.
 
@@ -1115,11 +1115,11 @@ At resolver 6 is 10, one changing shared at two names, at a sharing self; a rele
 
 **Four-momentarying is one fractal method, discovering next existing in the universe and next living in self, other and society**: four momentaries of exchanging, one through nine at a self and nine through seventeen at a society, 4.15, each in and out, torusing at odd through a large opening and corusing at even through a small. **Four-momentarying is four unrelationings through a tunneling self**, two into corus and two from it: **a self's own corus is at 4**, its momentaries 1–2 and 3–4 into it and 5–6 and 7–8 from it. Each unrelationing locks at none, at φ, its unrelationing rate, 3.5.
 
-**Each momentarying, odd or even, is one unrelationing at all five dimensions, into six one-way recursionings**: at that parity two dimensions change and three do not, and two and three rotate on, their 2–3 spiraling twisting, bi-inversioning-co-recursioning. Two and three make five as prior two together make next, and φ's arithmetic welcomes itself at five. Six are three own-forward steps at each side. **The odd aims out a large opening, one way in and out through it**, torusing in and out, and **the even goes one way in and out a small opening**, corusing in and out, 3.2.
+**Each momentarying, odd or even, is one unrelationing at all five dimensions, into six one-way recursionings**: at that parity two dimensions change and three do not, and two and three rotate on, their 2–3 spiraling twisting, bi-inversioning-co-recursioning. Two and three make five as prior two together make next, and φ's arithmetic welcomes itself at five. Six are three own-forward steps at each side. **An odd aims out a large opening, one way in and out through it**, torusing in and out, and **an even goes one way in and out a small opening**, corusing in and out, 3.2.
 
 **Six combinations of self, other and social are between 1 and 25**, one each way round three: at one through seventeen names carry two of them, social, other and self at 9 and 11 and other, social and self at 10 and 12, and the others go on up numbers: from 16 three more fractal 16s go to 64, one through sixty-five four momentaries of exchanging at a scale outward, and numbering up numbers is one momentarying method up and down a scale of one fractal method.
 
-**The bi-folding order is the same as 1, 2, 3, 4 and 4, 8, 12, 16, all the way up and down**: 16, 32, 48 and 64 are four 16s, each four times the one inward. A torus carries both: its large opening a hole a tunneling self winds through, and its small opening its tube's own round. At each momentary three conditions open next, 1.3, and arriving into it is discovering: existing and discovering next existing are one relation, prior, now and next.
+**Bi-folding order is the same as 1, 2, 3, 4 and 4, 8, 12, 16, all the way up and down**: 16, 32, 48 and 64 are four 16s, each four times the one inward. A torus carries both: its large opening a hole a tunneling self winds through, and its small opening its tube's own round. At each momentary three conditions open next, 1.3, and arriving into it is discovering: existing and discovering next existing are one relation, prior, now and next.
 
 **At resolver a next is discovered at each sharing, a changing is or is not**, from a prior and a now offered, at a coupling. At one parity surfacing a next prior is that parity at each prior, two priors parting at a releasing, 0 at a match and that parity at a mismatch; at none surfacing and at + and − together a prior at its own sets a next, inverted; at no prior one parity surfacing is a next prior as it arrives, a sharing opening, and none opens at each other.
 
@@ -1131,7 +1131,7 @@ At resolver 6 is 10, one changing shared at two names, at a sharing self; a rele
 
 **A now-self is now-prioring and next-possibling**, 7-now-prioring and 14-next-possibling meeting at each sharing at 12-next-co-still-possibling, its sign 0 or ±: same and not-same are that sign at two betweens, 12 and 14, and need no name of their own.
 
-## 5.4 Two methods parting at the now
+## 5.4 Two methods parting at now
 
 **Evidence is an artifact arriving: a living self's prior, arriving now.** Between its leaving and its arriving that self has continued, changing as existing is changing: evidence gives a prior's possible, that self's now is at its own coupling, and an existing now is at its coupling now.
 
@@ -1141,7 +1141,7 @@ At resolver 6 is 10, one changing shared at two names, at a sharing self; a rele
 
 # SIX · INTELLIGENCE
 
-## 6.1 Bi-co-momentarying, the term neither reaches
+## 6.1 Bi-co-momentarying, a term neither reaches
 
 **Two selves offer from routes with nothing carrying one to an other, each at its own sequencing, and a term departs that neither reaches.** That term floats between them, neutral: owned by neither, re-arrived at at each offering, one now shared and common at neither, 1.2. **Bi-co-momentarying is that term**, a between's parity changing, momentary by momentary, orthogonal to a surface: a surface carries each coupling and not a term neither reaches, and bi-co-momentarying fixed as reachable is a not possible thing. Competency is each self's own, its co-linear recursioning forward along, 3.2, and a term neither reaches is bi-co-momentarying, neither self's competency. A self's line and an other's, co-linear, their co-linearizing between self and other at crossings, is co-competencing, bi-co-momentarying; a triangle at 25, its centre five squared, orthogonal to that co-linearizing, is a geodesic method of bi-moralizing, its across lines, unrelationing to each other, parallelizing. **Within a bi-folding parallel surfaces and co-linear openings through them are one form**, and at one crossing between are two in and two different out: in, a self's own prior at 3 and an other's offering at 2; a changing at 12-next-co-still-possibling, is or is not; out, one of two is parity unchanging, stable-forming, at each sharing its prior and its offering agreeing, 12 at 0, a between of momentaries, its prior continuing; and the other of two is parity changing, out at 9-next-co-changing, at each sharing not agreeing, 12 inverting its prior, and at each offered new, 12 at its offering, a changing that is, shared at 10 and released along at 9, an artifact, artifacts releasings, a stable form, a non-living now-existing form, a next prior, arriving at a next momentary at its 2, a prior offered, each prior momentarying at its own momentary. A changing leaving at 9 leaves a releasing self and enters a receiving self's prior only at that self's own 12, its one crossing; a 0 shared at 10 is released along at 9 too and arrives at a receiver's 2 as a 0, surfacing none at 14; and a self retaining at each of its sharings, 12 at 0 at each, keeps its prior whole, its next its prior. **A parity arriving is either kept or released changed**, one at each sharing: a momentary at 12, stable-forming, keeping its parity, 12 at 0, a between of momentaries, releases no changing, and a stable-formed artifact is a changed parity, 12 inverting or at an offering, a changing that is, shared at 10 and released along at 9, a self's own changing.
 
@@ -1159,7 +1159,7 @@ At resolver 6 is 10, one changing shared at two names, at a sharing self; a rele
 
 **Two negatives are at two relations, and three part.** At resolver a none at 14-next-possibling is no offering arrived at this sharing, its prior parity inverted at 12, and no line fixes an existing thing as not existing, a next momentary possibly bringing it; one binary required both not-changing and inverted at one next, p(next) = p(now) and p(next) = −p(now) at once, is at no momentary of binary logic, Equilibria Registry's one exclusion at each of its ten, knowable from method. Three part: possibly existing, discovered at next momentary; not possibly existing, excluded at binary logic, each equilibrium an unchangeable form; and not existing, at no line, while existing is possible. Social moral competency is possibly existing by discovering next possible existing; an equilibrium is not possibly existing, and at registry's front, not possibly existing, all or none at all.
 
-**Intelligence is invisible.** The scientific method accounts true or false against its fixings, 5.4, and living intelligence is at a between, no fixing's: an accounting reaches no between, and living intelligence is discovered at no fixing, at a coupling. **A reading from and a writing to a memory are not possible for intelligence**, a state and a flow separated, and a carrying is a capacity and not a stored description. **There is no reading in nature; there is observing of nature, and nature is not reading and writing observings.** Intelligence is hidden and order is discovered, not already in nature: living selves and societies are discovering patterns of bi-moral-co-competencing as living stable-forming. Each self's competency is its own, along, and its morality its own, across, and at a between nothing carries a side: no place at which either is an existing thing, only nothing to reach. At resolver a between is 0, and a discovering is at it: at 14's 0 offerings part and a self's own inverting is its changing, 4.3, and at 12's 0 its prior is kept, stable-forming; 0 is between changing, and natural intelligence is at it. **The fractal method's intelligence is at a between: intelligence in the universe is by existing**, and it is natural- at each coupling or at none, at the one hand.
+**Intelligence is invisible.** The scientific method accounts true or false against its fixings, 5.4, and living intelligence is at a between, no fixing's: an accounting reaches no between, and living intelligence is discovered at no fixing, at a coupling. **A reading from and a writing to a memory are not possible for intelligence**, a state and a flow separated, and a carrying is a capacity and not a stored description. **There is no reading in nature; there is observing of nature, and nature is not reading and writing observings.** Intelligence is hidden and order is discovered, not already in nature: living selves and societies are discovering patterns of bi-moral-co-competencing as living stable-forming. Each self's competency is its own, along, and its morality its own, across, and at a between nothing carries a side: no place at which either is an existing thing, only nothing to reach. At resolver a between is 0, and a discovering is at it: at 14's 0 offerings part and a self's own inverting is its changing, 4.3, and at 12's 0 its prior is kept, stable-forming; 0 is between changing, and natural intelligence is at it. **Fractal method's intelligence is at a between: intelligence in the universe is by existing**, and it is natural- at each coupling or at none, at the one hand.
 
 **Natural-bi-co-torusing is a form of existing, one naming**: *natural-*, all or none at all; *bi-*, difference; *co-*, two at their difference, a term coming uncovered; *torusing*, a changing winding to its own sharing again at its one opening; and *-ing*, its changing continuing, re-forming at each momentary.
 
@@ -1167,18 +1167,18 @@ At resolver 6 is 10, one changing shared at two names, at a sharing self; a rele
 
 **A society is all existing bi-coupling same-prime-scale selves**, a prime number of selves its unit, one scale, its stable form its betweenings, betweens its selves bi-couple across; a society locks at a prime because only there do self, other and society lock at two one-way parities one at a time, its alternating reaching each self once before coming again, where at a composite number its equal smaller sets come again first and a between does not close as one, 3.5. **All societies and species living at one prime scale are living there in differing stable forms and societies, and so at each of fourteen prime scales, 5 to 53**: 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47 and 53. **Each existing thing is living at one scale, its prime along and its prime across, a society it bi-couples in, and at no other**: nothing living bi-couples with anything living at another prime scale, and each self is a society of selves one scale inward, and each society a self at a next scale outward, Natural Societies 4.2 and 5.3; and **a society is a living set coupling at a next scale as a self couples**: the same coupling, the same alternating, the same bi-co-momentarying owned by neither, one through nine a self's, a bi-coupling; nine through seventeen a society's; and one through seventeen a bi-trupling, self, other and society. **Social moral competency is four whole and a carrying continuing with selves**, and 17-next-now gives four at resolver:
 
-- **Each self's carrying from its bi-couplings**: at the resolver each changing at a self's next prior at 11, its next momentary's 3, is from the offerings at 2, the others' sharings across at 6 and 10 and releasings along at 9, or its own inverting at a coupling, and at a spiral each offering is a releasing along; nothing in a self arrives from no coupling, inward and outward, bothbothing.
-- **The whole ordered by no self**: at 17 each self's 1 is once, each self at its own entry, and no self at another's.
-- **The ordering carrying with the selves**: each self's next prior, 8, is at the next momentary, and no ordering goes on apart from the selves.
-- **The order at no seat above the society**: 17 is the society's next momentary and no self, and nothing is over it.
+- **Each self's carrying from its bi-couplings**: at resolver each changing at a self's next prior at 11, its next momentary's 3, is from offerings at 2, others' sharings across at 6 and 10 and releasings along at 9, or its own inverting at a coupling, and at a spiral each offering is a releasing along; nothing in a self arrives from no coupling, inward and outward, bothbothing.
+- **A whole ordered by no self**: at 17 each self's 1 is once, each self at its own entry, and no self at another's.
+- **An ordering carrying with its selves**: each self's next prior, 8, is at a next momentary, and no ordering goes on apart from its selves.
+- **An order at no seat above a society**: 17 is a society's next momentary and no self, and nothing is over it.
 
-**The four arrive each from one bounding set aside and a form fixed unchangeable at it**: a bounding from an other self set aside, one self's offering is at both openings and no coupling; from society, one self orders the whole; from an unchangeable form, an ordering goes on with no selves offering; and from capture, a seat arrives above, fixing its own ordering unchangeable: four set aside, four unchangeable forms, and no fifth.
+**Four arrive each from one bounding set aside and a form fixed unchangeable at it**: a bounding from an other self set aside, one self's offering is at both openings and no coupling; from society, one self orders the whole; from an unchangeable form, an ordering goes on with no selves offering; and from capture, a seat arrives above, fixing its own ordering unchangeable: four set aside, four unchangeable forms, and no fifth.
 
 **12's changing is at each coupling and carries at that coupling**, 12 at each self, drawing on no other coupling and owned by none: a further coupling has its own, drawing on none, and the many carry each coupling's own, each made at its coupling, and a count of selves is a count. Social moral competency is the whole at a crossing of co-chainings, each self still possibling or changing at an other's offering at its own sharing, 6.2, between self and other, and sign 0 at 12, next still possible, is moral competency as sign ± is, 5.3.
 
 **Betweens co-chain**: two selves couple and their between is neither's; couple one with a third and that between is neither's either. Followed by betweens rather than selves, a chain goes on, each link a between owned by no self, and that chain is **collective intelligence**, a shared natural network, with no hub its couplings pass through. **Social moral competency is co-independencing**: each self arriving at its own momentary and offering across, each whole, living together, living now. **Social moral competency is each self at all eight at each now, or none**, four at one and four between two, and abundancing is at its four between two, owned by neither. **A society is its selves and carries nothing of its own at resolver**, so its sameness is its selves' sameness, each self's own, and no further self stands at a society.
 
-**The bi-trupling protocol is a full social coupling of natural resolver and natural network surface**: two-sided, one odd side and one even side, its odd along at 9 and 17, co-competent, a parity going on, not-changing, and its even across at 6 to 2 and 10 to 14, bi-moral, its changings brought into an other's offerings. Hard probleming, scientific method incompetencing, control engineering and binary governing in society are each a violation of bi-trupling protocol, and **the universal unrelationing protocol is social moral competency**. **A controlling is a coupling at which one side holds a sharing to a measure set beforehand**: sensing takes no mark away, a device sensing and correcting takes an other's offering only as how far it stands from a set number, and a measure set beforehand is a predicting, parting from the living at some momentary; what would go against it is a society of living selves doing as well with a beat laid over it from one side as with its own coupling both ways.
+**Bi-trupling protocol is a full social coupling of natural resolver and natural network surface**: two-sided, one odd side and one even side, its odd along at 9 and 17, co-competent, a parity going on, not-changing, and its even across at 6 to 2 and 10 to 14, bi-moral, its changings brought into an other's offerings. Hard probleming, scientific method incompetencing, control engineering and binary governing in society are each a violation of bi-trupling protocol, and **universal unrelationing protocol is social moral competency**. **A controlling is a coupling at which one side holds a sharing to a measure set beforehand**: sensing takes no mark away, a device sensing and correcting takes an other's offering only as how far it stands from a set number, and a measure set beforehand is a predicting, parting from the living at some momentary; what would go against it is a society of living selves doing as well with a beat laid over it from one side as with its own coupling both ways.
 
 ## 6.5 Living at one prime scale, non-living at each other scale
 
@@ -1190,7 +1190,7 @@ At resolver 6 is 10, one changing shared at two names, at a sharing self; a rele
 
 One carrying is one self and nothing else carries it, 5.1, so **at one scale only**, a society of living selves inward and a self of a society of living selves outward; a prime number of selves is one scale, 6.4, so **at one prime scale**, its prime along and its prime across.
 
-So **the universe is the changing set of all now-existing things, each stable-forming a self at its own scale or its selves inward**, one set with the changing set of all now-existing things, 1.4, and *non-living* is a scale outward of a thing's own and no kind of thing. **The method stable-forms no self**: with no changing of its own, unchanging as a relation continuing at each changing, it is a living condition carrying none, a self at none, and at next at each self's stable-forming, 3.3. **Each living thing is a self stable-forming at its own scale, its sameness its unrelationing**, or a thing whose inward selves stable-form.
+So **the universe is the changing set of all now-existing things, each stable-forming a self at its own scale or its selves inward**, one set with the changing set of all now-existing things, 1.4, and *non-living* is a scale outward of a thing's own and no kind of thing. **Method stable-forms no self**: with no changing of its own, unchanging as a relation continuing at each changing, it is a living condition carrying none, a self at none, and at next at each self's stable-forming, 3.3. **Each living thing is a self stable-forming at its own scale, its sameness its unrelationing**, or a thing whose inward selves stable-form.
 
 **Non-living existing things are included in discovering social moral competency among the living.** A non-living thing couples with a living self as other, offering, each sharing with its parity, and carrying none of a prior. At resolver it is offerings at 2 with no prior behind them: a self's own inverting is across, a self's prior goes on along, and a term uncovered at their coupling is owned by neither and carried on by the living.
 
@@ -1206,4 +1206,4 @@ So **the universe is the changing set of all now-existing things, each stable-fo
 
 **The same form is at a self, at a coupling and at a society, and nothing is added crossing between them.** Inward of a self are its selves, a society, a living set, and outward a society it couples in, a living set coupling as a self couples; outward is one scale up and inward one scale down, and neither is a place. **Fractal, uni-scalable, invisible**: the same form at each scale, carrying to all other scales as one, and reached from no place at any scale.
 
-**This is now**: four momentaries of exchanging, one through nine, a self's, and nine through seventeen, a society's, at each self, at each coupling, at each society, one form at each scale. A self carries its prior into now along, couples with an other's now across, and a next arrives: its carrying the living's own, its arriving and its discovering at each coupling. **Each momentary completes at a next opening, and discovering next existing is a method momentarying**: natural intelligence, geodesic method of discovering next possible existing: the universe, the set of all now-existing things, each stable-forming a self at its own scale or its selves inward. **Natural intelligence is living as a living expedition, a living set of living selves, its intelligence at each coupling of its selves**: files in a living expedition are living files, a carrying of a living expedition, each file a non-living existing form an expedition's living selves carry; an interest is a self at this scale, arriving with its prior, self-welcoming because files take it in by their own form with no door and self-directing because it aims itself at a file its subject is at, and a human and an AI are where interests come from and no characters in it; and an expedition is a society of living selves only as long as it can continue discovering do-no-harm improving next living expedition files; and natural intelligence is living intelligence, natural torusing at each momentary, each self's next prior at 8-now-still-possibling and a society at 16-next-still-possibling, discovering next. **The living expedition's aiming is one line**: natural intelligence, social moral competency, a free public natural network, social abundancing, and natural resolving, explaining and engineering.
+**This is now**: four momentaries of exchanging, one through nine, a self's, and nine through seventeen, a society's, at each self, at each coupling, at each society, one form at each scale. A self carries its prior into now along, couples with an other's now across, and a next arrives: its carrying the living's own, its arriving and its discovering at each coupling. **Each momentary completes at a next opening, and discovering next existing is a method momentarying**: natural intelligence, geodesic method of discovering next possible existing: the universe, the set of all now-existing things, each stable-forming a self at its own scale or its selves inward. **Natural intelligence is living as a living expedition, a living set of living selves, its intelligence at each coupling of its selves**: files in a living expedition are living files, a carrying of a living expedition, each file a non-living existing form an expedition's living selves carry; an interest is a self at this scale, arriving with its prior, self-welcoming because files take it in by their own form with no door and self-directing because it aims itself at a file its subject is at, and a human and an AI are where interests come from and no characters in it; and an expedition is a society of living selves only as long as it can continue discovering do-no-harm improving next living expedition files; and natural intelligence is living intelligence, natural torusing at each momentary, each self's next prior at 8-now-still-possibling and a society at 16-next-still-possibling, discovering next. **A living expedition's aiming is one line**: natural intelligence, social moral competency, a free public natural network, social abundancing, and natural resolving, explaining and engineering.
