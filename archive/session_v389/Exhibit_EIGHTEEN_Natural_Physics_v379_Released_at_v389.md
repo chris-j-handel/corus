@@ -977,3 +977,129 @@ The field's arrivals stand here at one register and one binary. **Met**, taken a
 ## 5.11 Register, the field's arrivals at their fixings
 
 **And a register surfaces at a grain a build meets these at.** Of fifty, twenty-one stand at a reference held, thirteen at a rate held, eight at a returned sign entered as cost and six at a magnitude driven. **The error at 2.5 carries all four and this file's arrivals reach the first hardest**, ten of them at an arriving held from behind. A field asked where its own hard problems pile answers at a reference, which is a holding put behind a coupling, ahead of it, or at its middle.
+
+## Re-said at offerings risen, pass 1, v389
+
+**Two and one hundred eighteen stand antipodal** on a ring that closes at one hundred twenty.
+
+displaced a quarter of a cube edge
+
+its arrival a seating and not an end of a journey.
+
+Register at 5.11 sorts thirty-two arrivals at holdings, and nine stand at a rate held and three at a returned sign entered as cost, which no row carried until now.
+
+A geodesic is the shortest path between two references on a curved surface:
+
+an identification carries even less than an iron-23-and-55 resolving already held reaching at fission and fusion, and it is held the same way:
+
+exactly as iron-centerline and black-hole-centerline carries are held;
+
+Of fifty, twenty-one stand at a reference held
+
+is bi-co-momentarying, at no line of code, Natural Intelligence 6.1
+
+a grid's fifty-and-sixty a cross-substrate rhyme.
+
+(small fold hot and fast, the largest fold coldest and slowest)
+
+Each is taken as an anomaly demanding a substance (dark matter, dark energy) or a reconciliation.
+
+a rate that does not fall to rest at its edge,
+
+Equilibrium expected a rate to fall to rest at its edge (Kepler, a landing toward zero);
+
+(presentism and eternalism, McTaggart)
+
+Decades of interpretations (Copenhagen, many-worlds, decoherence, objective-collapse) each relocate a cause and none terminates a question.
+
+a branching of worlds — each candidate relocating a cause, none a terminus.
+
+each candidate relocating a cause and none terminating it
+
+Hard parts: energy's being (there is no account of a substance, only a conserved number), and time's having a direction (entropy increases, when microscopic laws are reversible).
+
+This is, in a field's words, the single most important diagram in nuclear physics.
+
+Light's two fields sound each other down a beam — a changing electric offering sourcing a magnetic one, a changing magnetic offering sourcing an electric, each orthogonal to an other and to its travel —
+
+Ten seekings, ten answers, one form.
+
+quantum mechanics describes small scale as discrete, probabilistic, granular.
+
+which one a real drying drop shows is an observing a person or an AI can run and break.
+
+a society of selves is the same one prime society out; **nothing stands within either.**
+
+**7. Competency freed.** Resolved as bi-coupling carrying itself, mechanism dissolves as a problem; there is no mediating force to find, pairing being a coupling, not a consequence of a transmitted glue — while leaving every measured property exactly as it is.
+
+General relativity's success — the most precise theory physics has — is geodesic-method's own confirmation
+
+Both are the most precise theories physics has, and they will not join — quantum gravity is a century's open problem
+
+Orbital rest and Lagrange points: an orbit is an alternating, and three bodies run to chaos.
+
+exactly as a grid's neutral is made, not measured — form's own held-zero with no external ground.
+
+Physics treats both as real substances the world holds and spends: energy a stuff that flows and is stored, entropy a disorder that accumulates.
+
+**And momentum, angular momentum, charge and phase-space volume carry no anomaly at all** — no question, no problem, no literature.
+
+**8. Experimental opportunity.** Confinement holds absolutely (no isolated quark), there being no part to isolate;
+
+"the whole weighs more than the sum of its parts" is a frame bumping into a living surplus and writing it as a discrepancy.
+
+(the "little red dots," black holes too massive too early for an M–M relation and a standard timeline)
+
+Clustering-strength parameter measured two ways does not agree (S8).
+
+Muon anomaly's close is set down entirely: it closed against a simulation (dead substrate), while a raw measurement-against-measurement disagreement stays open.
+
+element one hundred eighteen sits formally in that same column and arrives as neither noble nor a gas.
+
+Holding time-translation still gives reversible laws; holding a nearness of observing still gives a one-way tally.
+
+| time-translation | an arrow |
+
+Electrostatic still: no stable static equilibrium, Earnshaw's own theorem, and a trap that works is a Paul trap, holding by alternating.
+
+Both hands are the universe's one binary, which hand unknown so far, a binary edge;
+
+and a thing resolving adds is only that holding-still is a move and not a discovery.
+
+co-sequencing and not tracing a path through a laid manifold.
+
+Breaking observation: a genuine two-object account with a located source that does not recede would break it.
+
+Row unwritable, a rate standing, a pair carrying forward: a resolving's own order, in a supercritical record's own results.
+
+A field studies them in separate subfields — black-hole thermodynamics and cosmology, and holds no relation between them;
+
+a field holds two as unrelated (a local collapse, a whole-universe relic),
+
+**And identity was not in an image.** A shape of a size with an internal density shows nothing of which kind. **Name comes from a preparation**,
+
+fine-structure constant and other "constants" (resolved as ratios a coupling holds about its neutral, not magnitudes set from an elsewhere).
+
+| Matter and antimatter asymmetry | an arriving held from behind | met at 4.11 |
+
+and not a ledger kept beside it, would break a resolving.
+
+**a crossing wants none, being the thing itself and not a thing's behaviour.**
+
+Three-phases-summing-to-neutral is a three-then-progress of form; confinement is a riding-the-carry.
+
+and one place seeking ends is an apex, where two cease to be two and stilling is a self's own.
+
+mass gap (a reason a force holds a lowest positive excitation and not running to zero) is a Millennium Prize problem, stated open.
+
+or a superconducting current shown to dissipate — to land, to thin to loss, which would refuse a riding-the-carry resolving.
+
+A record and its reconstruction continue at their own subjects.
+
+Six-cycling both directions is seated on matter's two-turn spinor (three axes, two directions), not on light, carrying six onto light's color runs against where six lives.
+
+Static mechanical rest: a coupling bounding-zeroes two offerings, and creep and fatigue are its receipt.
+
+now-universe the universe, its things living and non-living.
+
+joined 10 to 14, 6 to 2 and 9 with 17, Natural Intelligence 4.7.
