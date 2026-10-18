@@ -1,4 +1,4 @@
-Exhibit TWENTY-FIVE Living Society Registry v347
+Exhibit TWENTY-FIVE Living Society Registry v389
 
 &nbsp;
 
@@ -204,7 +204,7 @@ Three forkings and two couplings, alternating, as at Hard Problem Registry. Each
 
 **Couple.** Whether any member carries the magnitude. Carried, and its observing is that member's and an entry stands there. Not carried, and its observing is of co-competencing and its residual is positions with no agreement. Nothing is concluded at this line; a pattern either matches at it or does not.
 
-**Fork.** An apex and a seam. A position no member occupies, and a nothing between two that do not relate.
+**Fork.** An apex and a seam. A position no member occupies, and a nothing between two that do not relate. A seam is from a field's record: a place two sides stand unrelated, each measured. An apex is from a form: a place no member is at, with no instrument of a field at it.
 
 ## 1.7 Residuals carried where each member carries its own, measurable in the observers' units
 
@@ -341,7 +341,7 @@ No names and no history are carried. Back-crediting cannot be done fairly and st
 **Upstream — instrument.** Summed over a whole volume and over seconds, against transfers momentarying in femtoseconds.
 **Upstream — inferencing prior.** That something crosses; that a crossing has a speed; that a medium stands ready before a crossing.
 
-**Magnitude observed.** Proton mobility, orders of magnitude above any other ion, entered as a diffusion coefficient.
+**Magnitude observed.** Proton mobility, under twice a hydroxide ion's and about seven times a sodium ion's, entered as a diffusion coefficient.
 
 **Members agreeing.** Transfers propagate over two to three members in a quasi-concerted manner, coupled to collective compressions of a chain.
 
@@ -735,7 +735,7 @@ No names and no history are carried. Back-crediting cannot be done fairly and st
 **Upstream — instrument.** Telescopes summing over galaxies; a satellite summing over the sky.
 **Upstream — inferencing prior.** That one number is there; that two ladders return the same thing.
 
-**Magnitude observed.** 67.4 ± 0.5 from an early observing and 73.04 ± 1.04 from the late, in kilometres per second per megaparsec, five standard deviations apart; a red-giant-tip calibration at 69.6 ± 1.6 between them.
+**Magnitude observed.** 67.4 ± 0.5 from an early observing and 73.04 ± 1.04 from the late, in kilometres per second per megaparsec, five standard deviations apart; a red-giant-tip calibration at 69.6 ± 0.8 ± 1.7 between them.
 
 **Members agreeing.** Within each ladder galaxies fit one slope, and within the background one scale.
 
@@ -858,7 +858,7 @@ No names and no history are carried. Back-crediting cannot be done fairly and st
 
 ## 2.19 A mixture observed at one constant
 
-**Society met.** Hydrogen and iodine forming hydrogen iodide and returning, the first equilibrium measured in both directions at the close of the nineteenth century, and exchange at equilibrium observed since by isotopes.
+**Society met.** Hydrogen and iodine forming hydrogen iodide and returning, an equilibrium measured in both directions at the close of the nineteenth century, after esters' from 1862, and exchange at equilibrium observed since by isotopes.
 
 **Members met.** Each reaction event, forward or reverse, one at a time.
 
