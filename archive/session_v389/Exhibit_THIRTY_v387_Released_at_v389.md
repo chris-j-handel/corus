@@ -3385,3 +3385,15 @@ derived at the table's opening alone, and two spirals with the lesser of one sel
         *Adding: the 0 ended at the seam by the other parity across, the like pair still.*
 
         *Adding: two spirals of one number alike at each momentary, the 0 ending at none.*
+
+## Re-said at released words, v389
+
+one sharing at its three faces.
+
+four binaries each twice, met at a face, each eight joining at that deriving
+
+orienting at its own facing and opening its own axis
+
+and a rotation the same relation at another facing.
+
+and at each join a sharing side is co and an arriving side none, 6 to 2, 10 to 14 and 9 to 17;

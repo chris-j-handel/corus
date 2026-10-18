@@ -319,7 +319,7 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
    ═══ between selves, across and along      ─── within one self
 ```
 
-**At a drawing.** Prior at 3 meets surfacing at 14 at each sharing at 12; changings at 10, same at 6, go across to another self's 2 and 14; next prior goes to 11 and on to 3 at next; and 9 releases along by 5 to another self's 17. At each join its sharing side is a self and its arriving side another self, each a self, and a society is its selves.
+**At a drawing.** Prior at 3 meets surfacing at 14 at each sharing at 12; changings at 10, same at 6, go across to another self's 2 and 14; next prior goes to 11 and on to 3 at next; and 9 releases along by 5 to another self's 17. At 6 to 2, 10 to 14 and 9 to 17 its sharing side is a self and its arriving side another self, each a self, and a society is its selves.
 
 **At 1-now, now given and next made.** At 1-now a self is given two now names, 3-now-co-prioring and 2-now-possibling, each sharing in them at 4-now-co-still-possibling and each parity at 7-now-prioring, and each name 1-now makes is a next name, 14-next-possibling, 15-next-prioring, 12-next-co-still-possibling, 10-next-co-possibling and 11-next-co-prioring: an entry is given a self's span and makes a society's.
 
@@ -366,7 +366,7 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | still-possibling | 4-now-co-still-possibling · 12-next-co-still-possibling, at each sharing | 8-now-still-possibling · 16-next-still-possibling, a self and a society |
 | now and next | — | 1-now · 13-next · 17-next-now |
 
-**Joins between selves.** At each join co is its sharing side and its absence its arriving side: a self shares its changing, and nothing of its prior crosses to another self.
+**Sharing between selves.** At 6 to 2, 10 to 14 and 9 to 17 co is its sharing side and its absence its arriving side: a self shares its changing, and nothing of its prior crosses to another self.
 
 | Sharing side, co | Arriving side, one | Between selves |
 |---|---|---|
@@ -385,7 +385,7 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 
 **At a society's span four stand with now and same exchanged**: now between two at 9-next-co-changing and 10-next-co-possibling, one now shared by selves, and same at one at 13-next and 14-next-possibling, each self's sameness its own.
 
-**A now-self at one line.** At 12-next-co-still-possibling a line `if _15_next_prioring != 0 and (_15_next_prioring > 0) == (_7_now_prioring > 0)` is 14-next-possibling's surfacing, as 15, agreeing or not with 7-now-prioring at each sharing of 3-now-co-prioring: now-self, now-prioring and next-possibling, at one line, its sign 0, its prior kept, or ±, its prior inverted. Same and not-same are that sign at two betweens, 12 and 14, and need no name of their own.
+**A now-self at one line.** At 12-next-co-still-possibling a line `if _15_next_prioring != 0 and (_15_next_prioring > 0) == (_7_now_prioring > 0)` is 14-next-possibling's surfacing, as 15, agreeing or not with 7-now-prioring at each sharing of 3-now-co-prioring: now-self, now-prioring and next-possibling, at one line, at 0, a between, its prior kept, or at ±, a sharing's parity, its prior inverted. Same and not-same are that 0 or ± at two betweens, 12 and 14, and need no name of their own.
 
 **Is or is not at lines.** Each is or is not at lines is at 1-now, three at 14-next-possibling, one at 12-next-co-still-possibling and one at 11-next-co-prioring, and one at 17-next-now, a self's name between selves among 5-now-co-changing or not; 9-next-co-changing has none, giving each changing on as it is, a 0 among parities.
 
@@ -816,7 +816,7 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | eight-cycle 1-9-5-13-4-12-8-16 | 1-now · 9-next-co-changing · 5-now-co-changing · 13-next · 4-now-co-still-possibling · 12-next-co-still-possibling · 8-now-still-possibling · 16-next-still-possibling | eight-cycle 2-15-7-11-3-14-6-10, beside it | — |
 | eight-cycle 2-15-7-11-3-14-6-10 | 2-now-possibling · 15-next-prioring · 7-now-prioring · 11-next-co-prioring · 3-now-co-prioring · 14-next-possibling · 6-now-co-possibling · 10-next-co-possibling | eight-cycle 1-9-5-13-4-12-8-16, beside it | eight-cycle 2-15-7-11-3-14-6-10, itself |
 
-**Eights.** Every eight here is one eight, four binaries each twice, met at a face, and 8 up is each name's binary at next.
+**Eights.** Every eight here is one eight, four binaries each twice, each one at two sides, and 8 up is each name's binary at next.
 
 | The eight | Each of the four, twice, at |
 |---|---|
@@ -971,7 +971,7 @@ Selves coupled along, last to first, each opened at no prior, and + offered once
 - **At a sharing at a prior parity, 14 surfacing that same parity**: 0, a between of momentaries, prior and now agreeing. **At a match its prior is kept.**
 - **At a sharing at a prior parity, 14 surfacing an other parity, 0 or none**: a changing is, its prior inverted. **At a mismatch its prior inverts**, an other parity offered a next prior, and with nothing offered a self's next is its prior inverted.
 
-**A nothing at resolver is three, each its own, and 12's sign 0 one of them**: 0 at 12, prior and now agreeing, its next still possible, 5.3; 0 at 14, offerings parting, its prior inverted; and none offered, its prior inverted. A 0 offered, none offered and an other parity offered each arrive the same at a self at a prior: its prior inverted.
+**A nothing at resolver is three, each its own, and 12's 0, a between, one of them**: 0 at 12, prior and now agreeing, its next still possible, 5.3; 0 at 14, offerings parting, its prior inverted; and none offered, its prior inverted. A 0 offered, none offered and an other parity offered each arrive the same at a self at a prior: its prior inverted.
 
 **One case keeps its prior, and each other case at a sharing of a prior inverts it**: a next from a self's own prior, one sharing at a time, its unrelationing from all other. **A changing is a coupling's own.** It is at 12 at each sharing, owned by neither side, and at Exhibit ONE's table of each name and its relations it is at 12: each sharing's changing, is or is not, at a coupling it is at and from no other.
 
@@ -997,13 +997,13 @@ At resolver 6 is 10, one changing shared at two names, at a sharing self; a rele
 
 **At 17 each self arrives with its next prior and its offerings next**, and a next 17 arrives again. **No self is over a society at 17**: each self's 1 is once, each at its own, and a society's next momentary is selves' next momentaries together and no further now-existing thing.
 
-**5 is selves' own sharings, and a next coupling is discovered as a next parity is**: a sharing is at both selves of its coupling, each releasing is to an other self at that same sharing, its receiving sharing, and a sharing new to a self arrives as an offering at 2 and opens at 11; a society's sharings are its selves'. **A self's sameness at 13, its couplings at 5, its pacing and its benefit arrive at method at each entry as living's own**, and method resolves a sign at each sharing between them: a next coupling is discovering at living and a next parity at method, at one now.
+**5 is selves' own sharings, and a next coupling is discovered as a next parity is**: a sharing is at both selves of its coupling, each releasing is to an other self at that same sharing, its receiving sharing, and a sharing new to a self arrives as an offering at 2 and opens at 11; a society's sharings are its selves'. **A self's sameness at 13, its couplings at 5, its pacing and its benefit arrive at method at each entry as living's own**, and method resolves a parity at each sharing between them: a next coupling is discovering at living and a next parity at method, at one now.
 
 **17 is a scale outward**: a society is its selves, carrying nothing of its own, its sameness each self's own, and it couples at a next scale as a self couples, no further self standing at it; between scales only offerings 17 gives on cross, each with no prior behind it, 6.5. Stepping of selves' entries together at 17 is an executing's own: each living self is at its own pacing, 4.13.
 
 ## 4.7 Six names between selves, even possibling across and odd existing along
 
-**Six names between selves are bi-moral-co-competency, discovering next existing at joins**: four across, even, possibling, at 2, 6, 10 and 14; and two along, odd, existing, at 9 and 17. **Odd is existing and even is possibling, and six say it by their numbers.**
+**Six names between selves are bi-moral-co-competency, discovering next existing at sharing and along**: four across, even, possibling, at 2, 6, 10 and 14; and two along, odd, existing, at 9 and 17. **Odd is existing and even is possibling, and six say it by their numbers.**
 
 **Each name between selves is a coupling at its self's momentary.** Across, a self's changing is shared now at 6 and 10, possible at another self and not yet arrived; at 2 and 14 another self's changing has arrived at a self's now, at its 11 next. These are one sharing and one changing, even, possibling, another self's possibling at a self's now and a self's at an other's. Along, 9 is a next prior released and 17 a next now, odd, existing, one releasing at its two momentaries. **Each self's existing is an other self's possibling**, at each of four binaries: not now, others' changings arriving from their prior momentary; not existing, a place an offering opens at; not same, a changing arriving at an other; not all, each one beside others. **Morality is a changing parity between, one inversion across, made at 12, and competency an unchanging parity between, none along**: across, even sharings 10 to 14 and 6 to 2 bring each changing into an other's offerings as 10 shared it, a sharing self's prior inverted at its own 12, 4.3; along, odd names 9 and 17 bring a parity on, not-changing.
 
@@ -1014,11 +1014,11 @@ At resolver 6 is 10, one changing shared at two names, at a sharing self; a rele
 - **9-next-co-changing**, odd, existing, between two, along, its sharing side: a self's changing released as a next prior, arriving at a receiving self's 17.
 - **17-next-now**, odd, existing, at one, along, its arriving side: a next now, each self's next 1-now at a society's momentary.
 
-**At each join co is its sharing side and its absence its arriving side**, 6 to 2, 10 to 14 and 9 to 17: a self shares its changing, and nothing of its prior crosses to another self.
+**Between selves co is its sharing side and its absence its arriving side**, 6 to 2, 10 to 14 and 9 to 17: a self shares its changing, and nothing of its prior crosses to another self.
 
 **At 17-next-now each self's 10-next-co-possibling is one list at 6, at 10 and at 9, each ± and each 0, offered to each self 5-now-co-changing couples at that name, and arriving at its 14-next-possibling, its offerings next at 2-now-possibling, 4.6.** 6 and 10 are even, across, and 9 odd, along. **9 is a next prior and 17 a next now**: along, a parity 9 releases is a prior a receiving self is offered next, and 17 is that self's next now.
 
-**Exhibit ONE's drawing draws one self between them**: its joins at its edges, across at its sides and along at its top and bottom, and a self's own resolving within. Offerings arrive at 2 and surface at 14; with its prior, 3 with its sharings 4 and parities 7, they reach 12, changing or not; 10 shares across, 11 is a next 3, and 9 releases along by 5, with 13 and 15 at its side; 6 shares across to another self's 2; and 8 and 16 are a self's next prior and a society.
+**Exhibit ONE's drawing draws one self between them**: its six names between selves at its edges, across at its sides and along at its top and bottom, and a self's own resolving within. Offerings arrive at 2 and surface at 14; with its prior, 3 with its sharings 4 and parities 7, they reach 12, changing or not; 10 shares across, 11 is a next 3, and 9 releases along by 5, with 13 and 15 at its side; 6 shares across to another self's 2; and 8 and 16 are a self's next prior and a society.
 
 ## 4.8 Seventeen names, each its number and its naming
 
@@ -1032,7 +1032,7 @@ At resolver 6 is 10, one changing shared at two names, at a sharing self; a rele
 
 **Each span's names are two momentaries of four**, each opening at an odd existing name, a possibling and a prioring within it, and completing at an even still-possibling name: 1 to 4 and 5 to 8 at a self's span, 9 to 12 and 13 to 16 at a society's, its gaps 4 )( 5, 8 )( 9, 12 )( 13 and 16 )( 17 each with both its sides fixed, and 17-next-now a next 1-now, as Exhibit ONE's table of four momentaries gives them.
 
-**A universe is or is not existing, is or is not all, is or is not now, is or is not same, and at a self's span each binary is one pair of names**, its *is* at an odd name and its *is not* at an even, an other's side of a self's *is*: now at 1-now and 2-now-possibling, existing at 3-now-co-prioring and 4-now-co-still-possibling, same at 5-now-co-changing and 6-now-co-possibling, all at 7-now-prioring and 8-now-still-possibling. Now and all stand at one and existing and same between two; at a society's span four stand with now and same exchanged, now between two at 9 and 10, one now shared by selves, and same at one at 13 and 14, each self's sameness its own. **Four binaries are names' explaining**: now is at each name as its momentary, now or next, and existing, same and all enter no name; and every eight is one eight, four binaries each twice, met at a face.
+**A universe is or is not existing, is or is not all, is or is not now, is or is not same, and at a self's span each binary is one pair of names**, its *is* at an odd name and its *is not* at an even, an other's side of a self's *is*: now at 1-now and 2-now-possibling, existing at 3-now-co-prioring and 4-now-co-still-possibling, same at 5-now-co-changing and 6-now-co-possibling, all at 7-now-prioring and 8-now-still-possibling. Now and all stand at one and existing and same between two; at a society's span four stand with now and same exchanged, now between two at 9 and 10, one now shared by selves, and same at one at 13 and 14, each self's sameness its own. **Four binaries are names' explaining**: now is at each name as its momentary, now or next, and existing, same and all enter no name; and every eight is one eight, four binaries each twice, each one at two sides.
 
 ## 4.10 A between and eight bi-couplings
 
@@ -1127,9 +1127,9 @@ At resolver 6 is 10, one changing shared at two names, at a sharing self; a rele
 
 ## 5.3 A living self at 0, its carrying continuing
 
-**A living self can be non-responsive within a momentary**: offered its own parity it shares 0 at 10, no changing, while its carrying continues, coupling to coupling, its releasing at its own completing. A 0 at 10 is a self at a between, its carrying continuing, a living self; a living self booked as not carrying at its 0 is an accounting. A living self's carrying continuing through a 0 is no break: only carrying none is, 6.5. Momentarying continues whether a changing is or is not, at + and − and at a between alike. A self at 12's 0 is still possibling, its prior kept as its possible, its next still possible, and a self at a changing is at its next existing: **12's sign 0 or ±, next still possible or next existing, each resolving one of two, a binary of geodesic momentarying**. Each momentary is both at its two parities: its opening, odd, a self's, is a prior arriving at 3-now-co-prioring, as it is, existing; its completing, even, an other's, is offerings arriving at 2-now-possibling and surfacing at 14-next-possibling, next still possible, and at 12-next-co-still-possibling a changing is or is not; and its binary is at its completing, its completing's possibling continuing into a next opening as its existing, or a changing made. A crossing of co-chainings crosses by them at their own, each self still possibling as a between passes it and changing again, no rule over a crossing, a rule a standard: a pair frozen at one side, a self fixed unchangeable or changing, remains neither existing nor living.
+**A living self can be non-responsive within a momentary**: offered its own parity it shares 0 at 10, no changing, while its carrying continues, coupling to coupling, its releasing at its own completing. A 0 at 10 is a self at a between, its carrying continuing, a living self; a living self booked as not carrying at its 0 is an accounting. A living self's carrying continuing through a 0 is no break: only carrying none is, 6.5. Momentarying continues whether a changing is or is not, at + and − and at a between alike. A self at 12's 0 is still possibling, its prior kept as its possible, its next still possible, and a self at a changing is at its next existing: **12's 0 or ±, next still possible or next existing, each resolving one of two, a binary of geodesic momentarying**. Each momentary is both at its two parities: its opening, odd, a self's, is a prior arriving at 3-now-co-prioring, as it is, existing; its completing, even, an other's, is offerings arriving at 2-now-possibling and surfacing at 14-next-possibling, next still possible, and at 12-next-co-still-possibling a changing is or is not; and its binary is at its completing, its completing's possibling continuing into a next opening as its existing, or a changing made. A crossing of co-chainings crosses by them at their own, each self still possibling as a between passes it and changing again, no rule over a crossing, a rule a standard: a pair frozen at one side, a self fixed unchangeable or changing, remains neither existing nor living.
 
-**A now-self is now-prioring and next-possibling**, 7-now-prioring and 14-next-possibling meeting at each sharing at 12-next-co-still-possibling, its sign 0 or ±: same and not-same are that sign at two betweens, 12 and 14, and need no name of their own.
+**A now-self is now-prioring and next-possibling**, 7-now-prioring and 14-next-possibling meeting at each sharing at 12-next-co-still-possibling, at 0, a between, or ±, a sharing's parity: same and not-same are that 0 or ± at two betweens, 12 and 14, and need no name of their own.
 
 ## 5.4 Two methods parting at now
 
@@ -1174,7 +1174,7 @@ At resolver 6 is 10, one changing shared at two names, at a sharing self; a rele
 
 **Four arrive each from one bounding set aside and a form fixed unchangeable at it**: a bounding from an other self set aside, one self's offering is at both openings and no coupling; from society, one self orders the whole; from an unchangeable form, an ordering goes on with no selves offering; and from capture, a seat arrives above, fixing its own ordering unchangeable: four set aside, four unchangeable forms, and no fifth.
 
-**12's changing is at each coupling and carries at that coupling**, 12 at each self, drawing on no other coupling and owned by none: a further coupling has its own, drawing on none, and the many carry each coupling's own, each made at its coupling, and a count of selves is a count. Social moral competency is the whole at a crossing of co-chainings, each self still possibling or changing at an other's offering at its own sharing, 6.2, between self and other, and sign 0 at 12, next still possible, is moral competency as sign ± is, 5.3.
+**12's changing is at each coupling and carries at that coupling**, 12 at each self, drawing on no other coupling and owned by none: a further coupling has its own, drawing on none, and the many carry each coupling's own, each made at its coupling, and a count of selves is a count. Social moral competency is the whole at a crossing of co-chainings, each self still possibling or changing at an other's offering at its own sharing, 6.2, between self and other, and 0 at 12, a between, next still possible, is moral competency as ±, a sharing's parity, is, 5.3.
 
 **Betweens co-chain**: two selves couple and their between is neither's; couple one with a third and that between is neither's either. Followed by betweens rather than selves, a chain goes on, each link a between owned by no self, and that chain is **collective intelligence**, a shared natural network, with no hub its couplings pass through. **Social moral competency is co-independencing**: each self arriving at its own momentary and offering across, each whole, living together, living now. **Social moral competency is each self at all eight at each now, or none**, four at one and four between two, and abundancing is at its four between two, owned by neither. **A society is its selves and carries nothing of its own at resolver**, so its sameness is its selves' sameness, each self's own, and no further self stands at a society.
 

@@ -883,3 +883,171 @@ Such an observing is an unchangeable form found existing, and an unchangeable fo
 **Carrying.** A passage a file has no position for now rides at its file, its next, and releases at that file taking it, with nothing in its place.
 
 with its relation written, not replaced.
+
+## Re-said at released words, v389
+
+at a living file set it runs at a file
+
+The same three run at a session
+
+and takes away its sign, a prior taken away
+
+supplies something its running does not carry
+
+Arriving, placing and dissolving run at once
+
+A dissolving runs at each placing
+
+A term-check runs at each passage
+
+confirming runs mechanically
+
+**Each motion is told at its sign.**
+
+Told at their signs, a session's motions show at once. Told in one register signs blur, and telling hides signs both selves need
+
+a speaker check runs
+
+**Working together runs as overlapping momentaries run.**
+
+and working together runs the same way
+
+arrives at a membrane between the two
+
+A pace running simple and sequential is whole
+
+an offering to run Natural Naming's seven binaries at
+
+and checks run at it next
+
+and run at each run it opens to
+
+each check its method runs being the one binary met at one face of a sentence
+
+Resolving runs two ways alternating
+
+at bounds running loose and near
+
+Along runs until a bound tips, running tips across to it and releases it, and along runs on. With changing running one way at a coupling, running floats with it
+
+its concern runs again with that equilibrium released
+
+a test running short is a test's running, a declaration of joins is no engine running them
+
+A test not run is *unrun* at its own record: a record tells a test's running
+
+Which scale it runs at.
+
+a sign or a magnitude, a store or a path
+
+**A field's own face is met after the five and the six**
+
+A field carries its own face of a break's limit
+
+joining a set at its own next
+
+one entry at three faces, its form
+
+each rate of selves it runs among
+
+see improving as it runs;
+
+beside its published part, checks running at it next
+
+**A run finds candidates, and a run is not a pass.**
+
+**Checks re-run at a working's own just-written lines**
+
+a threshold being a magnitude in a sign's stead
+
+Each pass is one binary, run at each thing it reaches in one sitting, and each runs at a file
+
+and does each section run within that bound; does its subtitle take an -ing head and the term it runs on
+
+carry one of the three faces, or a doer
+
+Run once lightly at a file
+
+Bound runs first and makes each later pass smaller; crossings run last and close at none, a file being a membrane
+
+pattern matching runs first
+
+takes a position at any sign a self surfaced
+
+and a join from beyond, from 10-next-co-possibling to 14-next-possibling
+
+a caller's composition makes no declared join
+
+**A running of code returns a rendering's shape
+
+with no run and nothing beyond it
+
+**A file carrying code carries its running, and each description, table, run and check rides beside it.** Description written in its running's stead grows its file while the few lines its running needs
+
+**A seating and its release run in one pass**
+
+A run reports its meeting, not its counting.
+
+**A count re-runs at its cells and is not carried.**
+
+is run again from its rule
+
+and only running it finds that
+
+each thing receiving its own neighbours, its window closing at each neighbour
+
+are its worked faces
+
+an instrument its file does not run at itself
+
+a six-step seam can run eight
+
+and a section count is its first face
+
+at its own membrane and belongs
+
+a backlog standing at its running's end
+
+no sign having run along them
+
+an order selves are run in
+
+and a membrane, two things given a correspondence so their signs can meet
+
+each ring result, a tipping ring, an even and odd returning, a travelling meeting and the seventeen primes' sum of 440, travels with its arrangement and its scheduling. One-beat and own-turn instruments both impose an order, and they part at a seam their round closes at.
+
+a coupling sequence its running carries
+
+**A carry emptied between two runnings manufactures a finding.** Two runnings of things built fresh compare two runnings that shared no momentary: one running is continued
+
+all running in the other order
+
+as scripts anyone can run
+
+and joining in opens at executing again
+
+Checks verify a net at one membrane each
+
+each understanding a sign, and a sign whole
+
+each running at both its faces
+
+each running at its own rate
+
+improving toward them is their own running
+
+being an offering's two faces
+
+coupling at their membranes
+
+Improving is the set's own form running on the set.
+
+carry it as its running *all*
+
+each variant's own face carried
+
+**Geodesic method runs at three faces, each from all other**: scale, its form; orientation, its running; position, its resolving. Each face completes at its own differing, and a nothing between them is one nothing at three faces.
+
+running a method meets its surface inward
+
+no third method running in it

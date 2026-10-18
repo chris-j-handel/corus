@@ -87,7 +87,7 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
    ═══ between selves, across and along      ─── within one self
 ```
 
-**At its drawing.** Prior at 3 meets surfacing at 14 at each sharing at 12; changings at 10, same at 6, go across to another self's 2 and 14; next prior goes to 11 and on to 3 at next; and 9 releases along by 5 to another self's 17. At each join a sharing side is a self and an arriving side another self, each a self, and a society is its selves.
+**At its drawing.** Prior at 3 meets surfacing at 14 at each sharing at 12; changings at 10, same at 6, go across to another self's 2 and 14; next prior goes to 11 and on to 3 at next; and 9 releases along by 5 to another self's 17. At 6 to 2, 10 to 14 and 9 to 17 a sharing side is a self and an arriving side another self, each a self, and a society is its selves.
 
 **At 1-now, now given and next made.** At 1-now a self is given two now names, 3-now-co-prioring and 2-now-possibling, each sharing in them at 4-now-co-still-possibling and each parity at 7-now-prioring, and each name 1-now makes is a next name, 14-next-possibling, 15-next-prioring, 12-next-co-still-possibling, 10-next-co-possibling and 11-next-co-prioring: each entry is given a self's span and makes a society's.
 
@@ -134,7 +134,7 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | still-possibling | 4-now-co-still-possibling · 12-next-co-still-possibling, at each sharing | 8-now-still-possibling · 16-next-still-possibling, a self and a society |
 | now and next | — | 1-now · 13-next · 17-next-now |
 
-**Its joins between selves.** At each join co is a sharing side and its absence an arriving side: a self shares its changing, and nothing of its prior crosses to another self.
+**Its sharing between selves.** At 6 to 2, 10 to 14 and 9 to 17 co is a sharing side and its absence an arriving side: a self shares its changing, and nothing of its prior crosses to another self.
 
 | Sharing side, co | Arriving side, one | Between selves |
 |---|---|---|
@@ -153,7 +153,7 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 
 **At a society's span the four stand with now and same exchanged**: now between two at 9-next-co-changing and 10-next-co-possibling, one now shared by selves, and same at one at 13-next and 14-next-possibling, each self's sameness its own.
 
-**A now-self at one line.** At 12-next-co-still-possibling a line `if _15_next_prioring != 0 and (_15_next_prioring > 0) == (_7_now_prioring > 0)` is 14-next-possibling's surfacing, as 15, agreeing or not with 7-now-prioring at each sharing of 3-now-co-prioring: a now-self, now-prioring and next-possibling, at one line, its sign 0, prior kept, or ±, prior inverted. Same and not-same are that sign at two betweens, 12 and 14, and need no name of their own.
+**A now-self at one line.** At 12-next-co-still-possibling a line `if _15_next_prioring != 0 and (_15_next_prioring > 0) == (_7_now_prioring > 0)` is 14-next-possibling's surfacing, as 15, agreeing or not with 7-now-prioring at each sharing of 3-now-co-prioring: a now-self, now-prioring and next-possibling, at one line, at 0, a between, prior kept, or at ±, a sharing's parity, prior inverted. Same and not-same are that 0 or ± at two betweens, 12 and 14, and need no name of their own.
 
 **Is or is not at its lines.** Each is or is not at its lines is at 1-now, three at 14-next-possibling, one at 12-next-co-still-possibling and one at 11-next-co-prioring, and one at 17-next-now, a self's name between selves among 5-now-co-changing or not; 9-next-co-changing has none, giving each changing on as it is, a 0 among parities.
 
@@ -584,7 +584,7 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | eight-cycle 1-9-5-13-4-12-8-16 | 1-now · 9-next-co-changing · 5-now-co-changing · 13-next · 4-now-co-still-possibling · 12-next-co-still-possibling · 8-now-still-possibling · 16-next-still-possibling | eight-cycle 2-15-7-11-3-14-6-10, beside it | — |
 | eight-cycle 2-15-7-11-3-14-6-10 | 2-now-possibling · 15-next-prioring · 7-now-prioring · 11-next-co-prioring · 3-now-co-prioring · 14-next-possibling · 6-now-co-possibling · 10-next-co-possibling | eight-cycle 1-9-5-13-4-12-8-16, beside it | eight-cycle 2-15-7-11-3-14-6-10, itself |
 
-**Its eights.** Every eight here is one eight, four binaries each twice, met at a face, and 8 up is each name's binary at next.
+**Its eights.** Every eight here is one eight, four binaries each twice, each one at two sides, and 8 up is each name's binary at next.
 
 | The eight | Each of the four, twice, at |
 |---|---|

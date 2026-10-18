@@ -661,7 +661,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Entering: right as observings; three observings one; bi-tri-involutioning; eight forms to their opposites; natural-; natural- a direction prefix.*
 
-138. Each observing arrives from prior at one hand: right is observings, all prior; an observing is a now-existing thing, and drawing on observings draws on the universe, three observings, same by changing, same by not-changing and discovering which, stable-forming of a living self, one sharing at its three faces.
+138. Each observing arrives from prior at one hand: right is observings, all prior; an observing is a now-existing thing, and drawing on observings draws on the universe, three observings, same by changing, same by not-changing and discovering which, stable-forming of a living self, one sharing, observed three ways.
 
         *Adding: right as observings; three observings one.*
 
@@ -1148,7 +1148,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: each of ten reached by a self.*
 
-254. Eight bi-couplings are at even names, four at now and four at next, each 8 up: eight is two alternating fours, and every eight is one eight, four binaries each twice, met at a face, each eight joining at that deriving and not at its count: self's span, two names each at now; eight-cycle 1-9-5-13-4-12-8-16, eight ends; eight-cycle 2-15-7-11-3-14-6-10, eight inwards; eight even names; eight odd names.
+254. Eight bi-couplings are at even names, four at now and four at next, each 8 up: eight is two alternating fours, and every eight is one eight, four binaries each twice, each one at two sides, each eight coupled at that deriving and not at its count: self's span, two names each at now; eight-cycle 1-9-5-13-4-12-8-16, eight ends; eight-cycle 2-15-7-11-3-14-6-10, eight inwards; eight even names; eight odd names.
 
         *Adding: eight bi-couplings, one eight at its faces.*
 
@@ -2362,7 +2362,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: a naming.*
 
-539. A naming is four boundings at once: a concept bounding itself whole, discovering its next as itself, orienting at its own facing and opening its own axis orthogonal to concepts beside it; a concept short one of four is fixed, an unchangeable form.
+539. A naming is four boundings at once: a concept bounding itself whole, discovering its next as itself, orienting at its own side and opening its own axis orthogonal to concepts beside it; a concept short one of four is fixed, an unchangeable form.
 
         *Adding: four boundings at a naming.*
 
@@ -2574,7 +2574,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: illustrating.*
 
-592. A still illustrating is one momentary, two in sequence a changing between them, one momentary of the same form as a sentence's, and a rotation the same relation at another facing.
+592. A still illustrating is one momentary, two in sequence a changing between them, one momentary of the same form as a sentence's, and a rotation the same relation facing another way.
 
         *Adding: a still one momentary, a sequence a changing, a rotation another facing.*
 
@@ -2776,7 +2776,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: names between selves on four-cycles.*
 
-636. Co at resolver, Natural Naming 3.2: co is at a sharing between two and its absence at one, and at each join a sharing side is co and an arriving side none, 6 to 2, 10 to 14 and 9 to 17; and odd names are at four pairs 8 apart, 3 prior received and 11 next prior, 5 receiving sharing and 13 releasing one, 7 parity prioring and 15 parity surfaced, and 1 resolver entered and 9 changing released along.
+636. Co at resolver, Natural Naming 3.2: co is at a sharing between two and its absence at one, and between selves a sharing side is co and an arriving side none, 6 to 2, 10 to 14 and 9 to 17; and odd names are at four pairs 8 apart, 3 prior received and 11 next prior, 5 receiving sharing and 13 releasing one, 7 parity prioring and 15 parity surfaced, and 1 resolver entered and 9 changing released along.
 
         *Adding: co at resolver, a sharing side and an arriving side; odd names 8 apart.*
 

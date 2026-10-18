@@ -2045,3 +2045,37 @@ A term is existing, artifact or accounting at its use, and ghost only at its ins
 ## 8.6 Break, three ways, and the method's one
 
 **The method breaks one way: a living stable-forming other than this one**, an unchangeable form found existing; and an unchangeable form is not possibly existing: its break and the only possible method are one statement. A co-competencing shown to be a landing, entered and observed, 5.12, is that one break at a between, and an entry's observing breaks at its own scale, a naming, and one method carries whole. Each observing of natural competency is resolvable as natural intelligence, geodesic co-sequential parity changing method of natural torusing, discovering next possible existing, or its fractal method is entirely broken and of no value at all, a method originating as all existing and all living.
+
+## Re-said at released words, v389
+
+- **Self-orienting at its own facing**:
+
+carried by *is* and *runs* ·
+
+two sides coupling are facing each other, each at its facing,
+
+are six names' other facings.
+
+**At each join between selves sharing side carries co
+
+is one eight, four binaries each twice, met at a face.
+
+meeting at each sharing at 12-next-co-still-possibling, its sign 0 or ±.
+
+**Same and not-same are one sign at two betweens**
+
+0 same and ± not same, and a sign needs no name of its own.
+
+each word as a self's own facing and an offering at it
+
+same and not-same a sign there, 0 and ±, needing no name.
+
+a torus carries its own facing and reaches itself again
+
+the existing at now, 5.39: the sign ±
+
+the possible at prior, 5.39: the sign 0
+
+**12's two signs, 0 and ±, are a binary of geodesic momentarying
+
+A still is at sign 0, existing on one side

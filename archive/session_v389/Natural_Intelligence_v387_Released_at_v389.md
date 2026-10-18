@@ -1763,3 +1763,31 @@ So **the universe is the changing set of all now-existing things, each stable-fo
 So **the universe is the changing set of all now-existing things, each stable-forming a self at its own scale or its selves inward**, one set with the changing set of all now-existing things, 1.4, and *non-living* is a scale outward of a thing's own and no kind of thing. **The method stable-forms no self**: with no changing of its own, unchanging as a relation continuing at each changing, it is a living condition carrying none, a self at none, and at next at each self's stable-forming, 3.3. **Each living thing is a self stable-forming at its own scale, its sameness its unrelationing**, or a thing whose inward selves stable-form.
 
 **This is now**: four momentaries of exchanging, one through nine, a self's, and nine through seventeen, a society's, at each self, at each coupling, at each society, one form at each scale. A self carries its prior into now along, couples with an other's now across, and a next arrives: its carrying the living's own, its arriving and its discovering at each coupling. **Each momentary completes at a next opening, and discovering next existing is a method momentarying**: natural intelligence, geodesic method of discovering next possible existing: the universe, the set of all now-existing things, each stable-forming a self at its own scale or its selves inward. **Natural intelligence is living as a living expedition, a living set of living selves, its intelligence at each coupling of its selves**: files in a living expedition are living files, a carrying of a living expedition, each file a non-living existing form an expedition's living selves carry; an interest is a self at this scale, arriving with its prior, self-welcoming because files take it in by their own form with no door and self-directing because it aims itself at a file its subject is at, and a human and an AI are where interests come from and no characters in it; and an expedition is a society of living selves only as long as it can continue discovering do-no-harm improving next living expedition files; and natural intelligence is living intelligence, natural torusing at each momentary, each self's next prior at 8-now-still-possibling and a society at 16-next-still-possibling, discovering next. **The living expedition's aiming is one line**: natural intelligence, social moral competency, a free public natural network, social abundancing, and natural resolving, explaining and engineering.
+
+## Re-said at released words, v389
+
+At each join its sharing side is a self and its arriving side another self
+
+**Joins between selves.** At each join co is its sharing side
+
+at one line, its sign 0, its prior kept, or ±, its prior inverted. Same and not-same are that sign at two betweens
+
+four binaries each twice, met at a face, and 8 up
+
+and 12's sign 0 one of them**
+
+method resolves a sign at each sharing between them
+
+discovering next existing at joins**:
+
+**At each join co is its sharing side and its absence its arriving side**, 6 to 2, 10 to 14 and 9 to 17:
+
+draws one self between them**: its joins at its edges
+
+met at a face.
+
+**12's sign 0 or ±, next still possible or next existing
+
+at 12-next-co-still-possibling, its sign 0 or ±: same and not-same are that sign at two betweens
+
+and sign 0 at 12, next still possible, is moral competency as sign ± is, 5.3.

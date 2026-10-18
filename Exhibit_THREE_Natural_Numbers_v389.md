@@ -31,7 +31,7 @@ Exhibit THREE Natural Numbers v389
 
 - 4.1 A closed surface at two, and a torus at nought
 - 4.2 Torus, a sphere and one handle, +1
-- 4.3 Three hundred sixty and four hundred forty, consecutive seam-faces
+- 4.3 Three hundred sixty and four hundred forty, consecutive seams
 
 **FIVE · UNIQUENESSING**
 
@@ -46,7 +46,7 @@ Exhibit THREE Natural Numbers v389
 
 **SIX · APEXING**
 
-- 6.1 Seam-faces, one eight at couplings among each number
+- 6.1 Seams, one eight at couplings among each number
 - 6.2 Each number a waist its prior and next straddle
 - 6.3 One twenty-four at each arrival
 - 6.4 Twenty-four, twenty-seven and thirty-two about twenty-eight
@@ -97,9 +97,9 @@ Exhibit THREE Natural Numbers v389
 
 ## 1.1 Uni-scaling, one form at each number
 
-**Numbers are uni-scaling: each number crosses with all numbers arriving as one, and each is one form once more.** Form is alternating existing is, and a number is that form at one place in its running. **Uni-scaling** is one form at each scale, no scale over another: same alternating at two as at fifty-nine, and at fifty-nine as at four hundred forty. **Universes of each size and scale share momentaries of co-sequential changing**, and uni-scaling is that sharing at numbers.
+**Numbers are uni-scaling: each number crosses with all numbers arriving as one, and each is one form once more.** Form is alternating existing is, and a number is that form at one place in its momentarying. **Uni-scaling** is one form at each scale, no scale over another: same alternating at two as at fifty-nine, and at fifty-nine as at four hundred forty. **Universes of each size and scale share momentaries of co-sequential changing**, and uni-scaling is that sharing at numbers.
 
-**Numbers are reached, used and related at their own running: momentaries, podalings and sequences.** They run up and down by bi-inversioning-co-recursioning, and each relation among them is a move of that running: an opening and its completing; a straddle, a prior and a next either side of a number; a podal pair, two stations each the other's far side on a ring; a coupling of selves along a spiral. A counting adds a clock from beyond its running, at none of its moves, an accounting naming artifacts still, and it belongs to a field's instrument, taken in at a field crossing.
+**Numbers are reached, used and related at their own momentarying: momentaries, podalings and sequences.** They carry up and down by bi-inversioning-co-recursioning, and each relation among them is a move of that momentarying: an opening and its completing; a straddle, a prior and a next either side of a number; a podal pair, two stations each the other's far side on a ring; a coupling of selves along a spiral. A counting adds a clock from beyond its momentarying, at none of its moves, an accounting naming artifacts still, and it belongs to a field's instrument, taken in at a field crossing.
 
 ## 1.2 A momentary at each number, one side completing and the other opening
 
@@ -132,7 +132,7 @@ Exhibit THREE Natural Numbers v389
 | 3 | 11 | 6 | 14 |
 | 4 | 12 | 5 | 13 |
 
-**8 up or down and 17 less alternating, each row is a four-cycle**: 1-9-8-16, 2-15-7-10, 3-11-6-14 and 4-13-5-12. Along each, parity changes exactly twice, each time at podal within 1 to 16, and each is one span of odd, a co and a tri, and one of bi, and comes to its names again. Podal within 1 to 16 pairs across a between of 8 and 9, at no number, and 17 is in none of four, next momentary's 1. **Among names each four-cycle comes to its names again; at momentaries it comes to none again**, each step adding a next. Along 3-11-6-14 names run odd, odd, even, even, their pairs in sequence (odd, odd), (odd, even), (even, even), (even, odd): a right spiral step, 8.2, at names' odd and even, and a sharing's + or − is no name's odd or even.
+**8 up or down and 17 less alternating, each row is a four-cycle**: 1-9-8-16, 2-15-7-10, 3-11-6-14 and 4-13-5-12. Along each, parity changes exactly twice, each time at podal within 1 to 16, and each is one span of odd, a co and a tri, and one of bi, and comes to its names again. Podal within 1 to 16 pairs across a between of 8 and 9, at no number, and 17 is in none of four, next momentary's 1. **Among names each four-cycle comes to its names again; at momentaries it comes to none again**, each step adding a next. Along 3-11-6-14 names are odd, odd, even, even, their pairs in sequence (odd, odd), (odd, even), (even, even), (even, odd): a right spiral step, 8.2, at names' odd and even, and a sharing's + or − is no name's odd or even.
 
 **Stable-forming among numbers is this move along each form among names**, four four-cycles and with them middle four-cycles, six-cycles and eight-cycles, these with a step of four among their steps, 5 to 9 and 8 to 12, 7 to 11 and 6 to 10: a form continuing through its own changing, each at one span of odd, co and tri, and one of bi, and coming to its names again. Eight-cycle 1-9-5-13-4-12-8-16 is eight ends of four momentaries, 1, 4, 5, 8, 9, 12, 13 and 16, and eight-cycle 2-15-7-11-3-14-6-10 their eight insides.
 
@@ -144,7 +144,7 @@ Exhibit THREE Natural Numbers v389
 
 **Odd is competency, along, existing: self continuing its own. Even is across, possibling: self coupling with other, morality.** Spans of eight alternate up numbers, 1 to 8 a self's, at now, 9 to 16 a society's, at next, and 17 on a self's again, 17 a next 1. Each number is at a momentary of its span, and a number opening a span, 1, 9, 17 and 25, at a span it opens. A number's five is its own now with its next possible and its next existing up numbers and its two priors down.
 
-**Alternating parity is parallel linearizing and linear parallelizing**, linearizing at one parity and parallelizing at other, one move at its two sides. Each runs at its own momentary; two fixed at one momentary is an equilibria picture, and it is not possibly existing.
+**Alternating parity is parallel linearizing and linear parallelizing**, linearizing at one parity and parallelizing at other, one move at its two sides. Each carries at its own momentary; two fixed at one momentary is an equilibria picture, and it is not possibly existing.
 
 ## 1.6 A composite folds along and a prime opens across
 
@@ -196,13 +196,13 @@ Exhibit THREE Natural Numbers v389
 
 ## 3.3 A rational winding closes, and a winding at φ closes at none
 
-**On a torus a winding at a rational rate closes, and a winding at φ closes at none.** Each coupling winding at φ winds at its own continuing, locking with no other coupling's rate, local and ambient alike. φ is a number-form of not-locking, a winding closing at none: unrelationing runs at each coupling's own continuing at φ, and no rational rate laid over a coupling supplies it.
+**On a torus a winding at a rational rate closes, and a winding at φ closes at none.** Each coupling winding at φ winds at its own continuing, locking with no other coupling's rate, local and ambient alike. φ is a number-form of not-locking, a winding closing at none: unrelationing carries at each coupling's own continuing at φ, and no rational rate laid over a coupling supplies it.
 
 **No rate is neared more slowly by rationals than φ**, its continued fraction all ones, and each rate whose continued fraction ends in all ones is neared as slowly; a winding at φ closes at none of them. In a field's words, a torus winding at the golden mean is found last to break as a coupling grows: in the standard map a curve with rotation number (√5 − 1)/2 is critical at K ≈ 0.9716 (Greene, 1979), confirmed by computation and not proved.
 
 ## 3.4 An adding at unit parities closes at one, two, three, four and six
 
-**A next taken as now and prior added, each at +1, −1 or none, closes at one, two, three, four or six, or runs open.** Now at its own at +1 closes at one and at −1 at two; prior at its own at +1 closes at two and at −1 at four; now at −1 and prior at −1 close at three; now at +1 and prior at −1 close at six. Both at none, next is none. Now and prior both at +1 run 1, 1, 2, 3, 5, 8, 13, prior two added, and close at none, their ratios opening at φ; now at −1 and prior at +1 run same numbers at alternating parity. In a field's words a whole-number square matrix of two rows that can be undone closes at one, two, three, four or six, or is open, the crystallographic restriction, cases at prior none beside it: no adding closes at five, and five enters open, at φ, a pentagon's diagonal over its side.
+**A next taken as now and prior added, each at +1, −1 or none, closes at one, two, three, four or six, or is open.** Now at its own at +1 closes at one and at −1 at two; prior at its own at +1 closes at two and at −1 at four; now at −1 and prior at −1 close at three; now at +1 and prior at −1 close at six. Both at none, next is none. Now and prior both at +1 carry 1, 1, 2, 3, 5, 8, 13, prior two added, and close at none, their ratios opening at φ; now at −1 and prior at +1 carry same numbers at alternating parity. In a field's words a whole-number square matrix of two rows that can be undone closes at one, two, three, four or six, or is open, the crystallographic restriction, cases at prior none beside it: no adding closes at five, and five enters open, at φ, a pentagon's diagonal over its side.
 
 ---
 
@@ -218,11 +218,11 @@ Exhibit THREE Natural Numbers v389
 
 **A torus is a sphere with one handle, and its handle is +1**: two at a sphere, nought at a torus, each handle taking two.
 
-## 4.3 Three hundred sixty and four hundred forty, consecutive seam-faces
+## 4.3 Three hundred sixty and four hundred forty, consecutive seams
 
-**Three hundred sixty is nineteen squared less one, and four hundred forty is twenty-one squared less one**: two seam-faces, each an odd centre squared less one, a product of its prior and next, 8 · T₉ and 8 · T₁₀, their centres nineteen and twenty-one two apart. Three hundred sixty is one eight at forty-five couplings, couplings among ten, C(10, 2), and forty-five is five nines: five eights, each about its own centre carrying nothing.
+**Three hundred sixty is nineteen squared less one, and four hundred forty is twenty-one squared less one**: two seams, each an odd centre squared less one, a product of its prior and next, 8 · T₉ and 8 · T₁₀, their centres nineteen and twenty-one two apart. Three hundred sixty is one eight at forty-five couplings, couplings among ten, C(10, 2), and forty-five is five nines: five eights, each about its own centre carrying nothing.
 
-**Their difference is eighty, nine squared less one**, a fourth seam-face, 8 · T₄: one eight at couplings among five.
+**Their difference is eighty, nine squared less one**, a fourth seam, 8 · T₄: one eight at couplings among five.
 
 **On a ring of four hundred forty, three hundred sixty and eighty are podal**, k with four hundred forty less k, each at radius one hundred forty.
 
@@ -238,15 +238,15 @@ Exhibit THREE Natural Numbers v389
 
 ## 5.2 Names at their numbers, one to seventeen, and forms sixteen on
 
-**Resolver's seventeen names are each its number and its naming**, Natural Naming 3.1: number its place and parity; its momentary, now at a self's span, 1 to 8, next at a society's, 9 to 16, and 17 a next now; co at a sharing between two and none at one, existing and same needing another, co at 3 to 6, and now and all at one; and its kind. Sides run self and other at odd 1 to 7 and other and self at even 2 to 8; social, other and self at 9 and 11 and other, social and self at 10 and 12; social and other at 13 and 15 and other and social at 14 and 16; social and self at 17.
+**Resolver's seventeen names are each its number and its naming**, Natural Naming 3.1: number its place and parity; its momentary, now at a self's span, 1 to 8, next at a society's, 9 to 16, and 17 a next now; co at a sharing between two and none at one, existing and same needing another, co at 3 to 6, and now and all at one; and its kind. Sides are self and other at odd 1 to 7 and other and self at even 2 to 8; social, other and self at 9 and 11 and other, social and self at 10 and 12; social and other at 13 and 15 and other and social at 14 and 16; social and self at 17.
 
 **A universe is or is not existing, all, now and same, four binaries at a self's span**: now at 1 and 2, existing at 3 and 4, same at 5 and 6 and all at 7 and 8, as Natural Naming 4.9 seats them.
 
 **Each kind of name is at two numbers eight apart, at a self's span and a society's**: prioring at 3 and 11 and at 7 and 15, possibling at 2 and 10 and at 6 and 14, and still-possibling at 4 and 12 and at 8 and 16, its kind one and its number carrying its momentary; at 1 and 9 and at 5 and 13 now and changing exchange. At 9 less now pairs with all and existing with same, 1 with 8, 2 with 7, 3 with 6 and 4 with 5. Eight on again, twenty-two is at 6's place in seventeen to twenty-five, as six in one to nine and fourteen in nine to seventeen, 6 + 8k; it carries no name among seventeen, and a name given it shows whose self it opens from at a scale's changing, 14 already other and social as 6 is other and self.
 
-**Forms among 1 to 16 run again at 17 to 32, sixteen on**, each continuing its parities, sixteen being even: four-cycles 2-15-7-10 and 3-11-6-14 at 18-31-23-26 and 19-27-22-30, and six-cycles 2-15-7-11-6-10 and 3-11-7-10-6-14 at 18-31-23-27-22-26 and 19-27-23-26-22-30. Twenty-two runs in five of them, four-cycle 19-27-22-30, middle four-cycle 23-27-22-26, both six-cycles and eight-cycle 18-31-23-27-19-30-22-26, and 33 is in none of them as 17 is in none among 1 to 16.
+**Forms among 1 to 16 come again at 17 to 32, sixteen on**, each continuing its parities, sixteen being even: four-cycles 2-15-7-10 and 3-11-6-14 at 18-31-23-26 and 19-27-22-30, and six-cycles 2-15-7-11-6-10 and 3-11-7-10-6-14 at 18-31-23-27-22-26 and 19-27-23-26-22-30. Twenty-two is in five of them, four-cycle 19-27-22-30, middle four-cycle 23-27-22-26, both six-cycles and eight-cycle 18-31-23-27-19-30-22-26, and 33 is in none of them as 17 is in none among 1 to 16.
 
-**One entry, six names between selves and ten names of a self's own resolving are seventeen.** Of six, across names, 2, 6, 10 and 14, are each even and along names, 9 and 17, both odd. 17-next-now is an arriving side and 9-next-co-changing a sharing side: 9's release is a prior a receiving self is offered next, and 17 runs it as that self's next now, 9 a next prior and 17 a next now. 1-now, 9-next-co-changing and 17-next-now are each odd, 1 and 17 at a self's span and 9 at a society's, each eight on from one before.
+**One entry, six names between selves and ten names of a self's own resolving are seventeen.** Of six, across names, 2, 6, 10 and 14, are each even and along names, 9 and 17, both odd. 17-next-now is an arriving side and 9-next-co-changing a sharing side: 9's release is a prior a receiving self is offered next, and 17 carries it as that self's next now, 9 a next prior and 17 a next now. 1-now, 9-next-co-changing and 17-next-now are each odd, 1 and 17 at a self's span and 9 at a society's, each eight on from one before.
 
 **A numeral in a name is a name's place and parity; resolver's values are parities, + and −, and 0**: 14-next-possibling carries fourteen as its place among names.
 
@@ -254,9 +254,9 @@ Exhibit THREE Natural Numbers v389
 
 **Each eight is one eight, and a self is an eight.** At resolver its eight even names are four outward at a between, 2, 4, 6 and 8, and four inward, 10, 12, 14 and 16, each inward eight on from its outward pair: four at two enterings. Of four outward, 2 and 6 are names between selves and 4 and 8 names of a self's own resolving. Two out-and-backs across them are four one-way passages, four outward are four relations at once, and 6 to 2 and 10 to 14 across, 9 to 17 and 17 to 9 along, are four between selves: three fours at three subjects, and a larger participating arrives through actual receiving.
 
-**Seam-faces run on one eight**: (2k + 1)² − 1 = 8 · T_k, eight its first face and each next face that eight at a triangular number, couplings among k + 1. Four hundred forty is one eight at fifty-five couplings, couplings among eleven.
+**Seams carry on one eight**: (2k + 1)² − 1 = 8 · T_k, eight its first seam and each next seam that eight at a triangular number, couplings among k + 1. Four hundred forty is one eight at fifty-five couplings, couplings among eleven.
 
-**An eight and a nine run together**: eight a self and nine its releasing, social, other and self, 9-next-co-changing being 1-now 8 up. An eight at two substrates is one eight, a self at each.
+**An eight and a nine carry together**: eight a self and nine its releasing, social, other and self, 9-next-co-changing being 1-now 8 up. An eight at two substrates is one eight, a self at each.
 
 ## 5.4 Five between four and six, a middle carrying nothing
 
@@ -264,7 +264,7 @@ Exhibit THREE Natural Numbers v389
 
 **A diamond is four crossings about a middle carrying nothing**, two across and two along, whole of it at four. Among primes a first diamond is about nine, five and thirteen four either side and seven and eleven two either side, nine carrying none of them; a next is about fifteen, at eleven, thirteen, seventeen and nineteen. Laid three by three with its middle carrying nothing, eight about it carry two paths from a middle of one side to a middle of other, one at each side of its middle, and each path takes two steps along and two across.
 
-**A declared zero is a number taken as its own inversion, x = −x**, added to uni-scaling and reached at no move of its running, and setting it down costs nothing. Nine, seventeen and twenty-five are eight apart, and twenty-five is at no name. One to twenty-five is three spans, one to nine, nine to seventeen and seventeen to twenty-five, each with four full momentaries at each side: twenty-four overlapping momentaries in twenty-four steps, each one odd and one even. From nought its steps run nought to twenty-four, and six, fourteen and twenty-two are at five, thirteen and twenty-one, each name's place and each step's number at its own origin.
+**A declared zero is a number taken as its own inversion, x = −x**, added to uni-scaling and reached at no move of its momentarying, and setting it down costs nothing. Nine, seventeen and twenty-five are eight apart, and twenty-five is at no name. One to twenty-five is three spans, one to nine, nine to seventeen and seventeen to twenty-five, each with four full momentaries at each side: twenty-four overlapping momentaries in twenty-four steps, each one odd and one even. From nought its steps are nought to twenty-four, and six, fourteen and twenty-two are at five, thirteen and twenty-one, each name's place and each step's number at its own origin.
 
 ## 5.5 One ten at its two sides, at five
 
@@ -278,13 +278,13 @@ Exhibit THREE Natural Numbers v389
 
 **Podaling is one station at its two sides, a carry one way at k and a carry other way at N − k on a ring of N. On a ring of nine it gives five pairs**: (0, 9), (1, 8), (2, 7), (3, 6) and (4, 5). Four carry two stations each and (0, 9) carries one, carry one way at nought and other way at nine one station.
 
-**One pairing runs at its two sides.** Ten is five at two sides. Nine is that ten with its (0, 9) pair's two sides at one station. Eight is nine with that station carrying nothing, nothing a self winds about; both steps down are at nought. Six is three pairings at two sides.
+**One pairing carries at its two sides.** Ten is five at two sides. Nine is that ten with its (0, 9) pair's two sides at one station. Eight is nine with that station carrying nothing, nothing a self winds about; both steps down are at nought. Six is three pairings at two sides.
 
-**A nine is two parities, and two momentaries and next one's opening.** Two parities carry four joint forms; prior and now whole and a next opening, five at each side, are ten positions, nought to nine; nine is 2² × 2½ − 1, and five pairs run at same momentary.
+**A nine is two parities, and two momentaries and next one's opening.** Two parities carry four joint forms; prior and now whole and a next opening, five at each side, are ten positions, nought to nine; nine is 2² × 2½ − 1, and five pairs are at same momentary.
 
 ## 5.7 Each nine one nine
 
-**Each nine is one nine, carried in each base.** At a ring of nine, nought and nine are one station. Round seventeen, a doubling from one runs 1, 2, 4, 8, 16, 15, 13, 9 and arrives at one again, nine doubled being one past seventeen. A doubling's eight are squares round seventeen and other eight are three times them: coupled at one eight's distances and uncoupled at other's, seventeen are, in a field's words, the Paley graph of order seventeen, one form of a society of seventeen with no four each coupled with each and no four each uncoupled from each, and R(4, 4) = 18. Round four hundred forty, one past its ring is twenty-one squared, nine times forty-nine.
+**Each nine is one nine, carried in each base.** At a ring of nine, nought and nine are one station. Round seventeen, a doubling from one carries 1, 2, 4, 8, 16, 15, 13, 9 and arrives at one again, nine doubled being one past seventeen. A doubling's eight are squares round seventeen and other eight are three times them: coupled at one eight's distances and uncoupled at other's, seventeen are, in a field's words, the Paley graph of order seventeen, one form of a society of seventeen with no four each coupled with each and no four each uncoupled from each, and R(4, 4) = 18. Round four hundred forty, one past its ring is twenty-one squared, nine times forty-nine.
 
 **Nine is 1-now eight up, one to nine completing at 9-next-co-changing, social, other and self releasing together.** A nine taken in base ten, its multiples' digits taken down to one digit arriving at nine, carries its base as its unit, and one nine carries none.
 
@@ -298,21 +298,21 @@ Exhibit THREE Natural Numbers v389
 
 # SIX · APEXING
 
-## 6.1 Seam-faces, one eight at couplings among each number
+## 6.1 Seams, one eight at couplings among each number
 
-**At an apex numbers are relations, and a relation is a +1 between each centre's square and a product of its prior and next.** Straddling odd centres, seam-faces run (2k + 1)² − 1 = 8 · T_k: nought at k nought, and 8, 24, 48, 80, 120, 168, 224, 288, 360 and 440, each square of an odd centre less that one, and each one eight at each coupling among k + 1.
+**At an apex numbers are relations, and a relation is a +1 between each centre's square and a product of its prior and next.** Straddling odd centres, seams are (2k + 1)² − 1 = 8 · T_k: nought at k nought, and 8, 24, 48, 80, 120, 168, 224, 288, 360 and 440, each square of an odd centre less that one, and each one eight at each coupling among k + 1.
 
-**A podal within one to a seam-face is its odd centre squared less n**: within 1 to 8 it is 9 less n, within 1 to 24 it is 25 less n, and within 1 to 48 it is 49 less n, centres three, five and seven squared, each podaling's middle between two stations of its span, four and a half, twelve and a half and twenty-four and a half. Within 1 to 16 its podal is 17 less n, sixteen between seam-faces eight and twenty-four, seventeen one past four squared.
+**A podal within one to a seam is its odd centre squared less n**: within 1 to 8 it is 9 less n, within 1 to 24 it is 25 less n, and within 1 to 48 it is 49 less n, centres three, five and seven squared, each podaling's middle between two stations of its span, four and a half, twelve and a half and twenty-four and a half. Within 1 to 16 its podal is 17 less n, sixteen between seams eight and twenty-four, seventeen one past four squared.
 
 ## 6.2 Each number a waist its prior and next straddle
 
 **Each whole number is a waist, a middle its prior and next straddle, their product one short of its square**: four and six multiply to one short of twenty-five, twenty-three and twenty-five to one short of twenty-four squared. Each number is a waist alike.
 
-**On a ring of forty-eight, twenty-four and nought are each their own far side, and each other station pairs across twenty-four**: twenty-three with twenty-five, twenty-two with twenty-six, twenty-one with twenty-seven, each pair one step further from twenty-four than its last. Their products part from twenty-four squared by square of its step, 23 × 25 = 24² − 1 and 22 × 26 = 24² − 4. Its ring closes at forty-eight, a seam-face above twenty-four.
+**On a ring of forty-eight, twenty-four and nought are each their own far side, and each other station pairs across twenty-four**: twenty-three with twenty-five, twenty-two with twenty-six, twenty-one with twenty-seven, each pair one step further from twenty-four than its last. Their products part from twenty-four squared by square of its step, 23 × 25 = 24² − 1 and 22 × 26 = 24² − 4. Its ring closes at forty-eight, a seam above twenty-four.
 
 ## 6.3 One twenty-four at each arrival
 
-**Twenty-four arrives five ways and is one twenty-four**: five squared less one, a second seam-face; orderings of four, 4!; a waist of a ring of forty-eight; twenty-three, its prior, opening a first gap of six among primes, to twenty-nine; and four momentaries of six one-way recursionings, twenty-four as steps of 1 to 25 are.
+**Twenty-four arrives five ways and is one twenty-four**: five squared less one, a second seam; orderings of four, 4!; a waist of a ring of forty-eight; twenty-three, its prior, opening a first gap of six among primes, to twenty-nine; and four momentaries of six one-way recursionings, twenty-four as steps of 1 to 25 are.
 
 **Primes part at twenty-four as nine behind and eight ahead**: two to twenty-three behind and twenty-nine to fifty-nine ahead. Couplings among nine behind are thirty-six, C(9, 2), a forward span from twenty-four to sixty, six cycles of six; couplings among eight ahead are twenty-eight, C(8, 2), a seventh triangle, which the sixth and the eighth, twenty-one and thirty-six, straddle by seven and by eight. The sixth and the eighth part by fifteen, couplings among six, and fifteen of sixteen gaps among seventeen primes are across, three to fifty-nine.
 
@@ -328,15 +328,15 @@ Exhibit THREE Natural Numbers v389
 
 **About twenty-eight its outer pair is twenty-four and thirty-two, four either side, and its inner pair twenty-seven and twenty-nine, one either side**: 28² − 24 × 32 = 16 and 28² − 27 × 29 = 1.
 
-**Two routes run between its outer pair**: 24 → 27 → 32 at gaps three and five, and 24 → 29 → 32 at gaps five and three. Three positions carry first three primes at two directions: 24 = 5² − 1, 27 = 3³, 32 = 2⁵, exponents two, three, five at one direction and bases five, three, two at other, reaching each other at three and three in twenty-seven. **The three together are a square**: 24 × 27 × 32 = 144².
+**Two routes go between its outer pair**: 24 → 27 → 32 at gaps three and five, and 24 → 29 → 32 at gaps five and three. Three positions carry first three primes at two directions: 24 = 5² − 1, 27 = 3³, 32 = 2⁵, exponents two, three, five at one direction and bases five, three, two at other, reaching each other at three and three in twenty-seven. **The three together are a square**: 24 × 27 × 32 = 144².
 
 **Twenty-seven, three cubed, on a route 24 → 27 → 32 from a seam, is a society's release at its podaling, 27-next-co-prioring**: 12's changing, a sharing at 10, a society's releasing, its far side ninety-three on a ring of one hundred twenty, and at no line of resolver.
 
 ## 6.5 Three times and two more, sixteen to four hundred forty
 
-**Four hundred forty is three one hundred forty-sixes and two**, and a chain runs from sixteen, its first step three times, with no two more: three sixteens are forty-eight, three forty-eights and two are one hundred forty-six, and three one hundred forty-sixes and two are four hundred forty. One hundred forty-six is two seventy-threes, and it is one hundred forty-four and two; seventy-three is seventy-two and one, seventy-two the six prime pairs' distances from thirty and one hundred forty-four, twelve squared, their spans, and 24 × 27 × 32 its square. Four hundred forty is also three one hundred forty-fours and eight.
+**Four hundred forty is three one hundred forty-sixes and two**, and a chain carries on from sixteen, its first step three times, with no two more: three sixteens are forty-eight, three forty-eights and two are one hundred forty-six, and three one hundred forty-sixes and two are four hundred forty. One hundred forty-six is two seventy-threes, and it is one hundred forty-four and two; seventy-three is seventy-two and one, seventy-two the six prime pairs' distances from thirty and one hundred forty-four, twelve squared, their spans, and 24 × 27 × 32 its square. Four hundred forty is also three one hundred forty-fours and eight.
 
-**Three times and two more, and again, carries seam-face to seam-face, 8 · T_j to 8 · T_(3j + 1)**: nought to two to eight, eight to twenty-six to eighty, twenty-four to seventy-four to two hundred twenty-four, and forty-eight to one hundred forty-six to four hundred forty. One hundred forty-six less one hundred twenty is twenty-six, a far side of twenty-four about twenty-five, 24 × 26 = 25² − 1, and three twenty-sixes and two are eighty, a fourth seam-face. Seam-faces three times a number and two are 8, 80, 224 and 440, at 2, 26, 74 and 146, one eight at couplings among 2, 5, 8 and 11: at each third k, a triangle T_k leaving one at three.
+**Three times and two more, and again, carries seam to seam, 8 · T_j to 8 · T_(3j + 1)**: nought to two to eight, eight to twenty-six to eighty, twenty-four to seventy-four to two hundred twenty-four, and forty-eight to one hundred forty-six to four hundred forty. One hundred forty-six less one hundred twenty is twenty-six, a far side of twenty-four about twenty-five, 24 × 26 = 25² − 1, and three twenty-sixes and two are eighty, a fourth seam. Seams three times a number and two are 8, 80, 224 and 440, at 2, 26, 74 and 146, one eight at couplings among 2, 5, 8 and 11: at each third k, a triangle T_k leaving one at three.
 
 ---
 
@@ -370,13 +370,13 @@ Exhibit THREE Natural Numbers v389
 
 **Spirals coupled carry parity of their added number.** Any two odd spirals coupled along, p + q selves, are an even spiral and, opened alternating along its whole, carry no pair at one parity; each opened as its own spiral, two like pairs carry on, one from each coupling. Two fifty-nines coupled are one hundred eighteen selves and seventeen prime spirals coupled four hundred forty, each even and, alternating along, carrying none. An odd number of odd spirals coupled, opened alternating along its whole, carries one like pair, a self at a coupled scale.
 
-**Momentaries here are 17's, a society's next momentary running each self's entry once**, each release offered at its next, and each number goes with its spiral and its couplings. Two odd spirals at distinct primes p and q, side by side, come to their parities again together at a least common multiple of 4p and 4q, four shared: at 4pq, and so at any two odd spirals sharing no factor, nine and twenty-five at 900 as three and five at 60, while nine and fifteen, a factor shared, come sooner, at 180. Sixteen odd prime spirals, three to fifty-nine, side by side, come to their parities again together at four times sixteen primes multiplied, 2 × 59#, 3,845,520,700,308,425,278,140 momentaries, each prime its spiral's own and sixteen sharing no factor. Co-competencing is at couplings, owned by neither.
+**Momentaries here are 17's, a society's next momentary carrying each self's entry once**, each release offered at its next, and each number goes with its spiral and its couplings. Two odd spirals at distinct primes p and q, side by side, come to their parities again together at a least common multiple of 4p and 4q, four shared: at 4pq, and so at any two odd spirals sharing no factor, nine and twenty-five at 900 as three and five at 60, while nine and fifteen, a factor shared, come sooner, at 180. Sixteen odd prime spirals, three to fifty-nine, side by side, come to their parities again together at four times sixteen primes multiplied, 2 × 59#, 3,845,520,700,308,425,278,140 momentaries, each prime its spiral's own and sixteen sharing no factor. Co-competencing is at couplings, owned by neither.
 
 **Spirals crossing spirals at each self are a torus of selves, and at two odd numbers its parities again are at q or at 4p, by q's side of a waist 2p.** A torus of p selves along at 9-next-co-changing and q across at 10-next-co-possibling, both odd and p no greater, with each self at a prior parity, alternating along and across, comes, from a momentary on, to its parities again at q at a q past a waist 2p, and at 4p at a q short of it: 3 by 5 at 12, five short of six; 3 by 7 at 7, seven past six; 3 by 13 at 13, thirteen past six; 5 by 7 at 20, seven short of ten; 5 by 11 at 11, eleven past ten; 7 by 17 at 17, seventeen past fourteen; 17 by 59 at 59, fifty-nine past thirty-four. At either number even it comes to its parities again at 2, a torus of 2 by 3 followed by hand at resolver. Each row of two odd numbers of Exhibit ONE's table of a torus of selves is at a relation, 3 by 3 at 12 sharing a factor and each other row sharing none, and its relation is derived at resolver's cells, Co-Chaining Logic Registry's steps 652 to 657: each line across carries one 0, each line after the first two momentaries behind its prior, 2p momentaries round p lines and q round one, the greater the 0's round, and at 2p the greater each self inverted once round, 4p, from momentary 3p − 3, and q from momentary 3p − 1; each momentary of parities again divides 4p or 4q, and a torus winds on, its momentaries each once.
 
 ## 7.3 Sixteen gaps at four values
 
-**Sixteen gaps run between seventeen primes, at four values: one, two, four and six.**
+**Sixteen gaps are between seventeen primes, at four values: one, two, four and six.**
 
 | Gap | Arrives |
 |---|---|
@@ -385,9 +385,9 @@ Exhibit THREE Natural Numbers v389
 | 4 | five times |
 | 6 | four times |
 
-**One odd gap is at its opening**, from one even prime to three, and each other gap runs between two odd primes and is even: one along and fifteen across.
+**One odd gap is at its opening**, from one even prime to three, and each other gap is between two odd primes and is even: one along and fifteen across.
 
-**Six gaps of two are twin primes**, 3 and 5, 5 and 7, 11 and 13, 17 and 19, 29 and 31, and 41 and 43, each pair past 3 and 5 at 6k − 1 and 6k + 1, about a multiple of six. Whether twin primes run on without end is, in a field's words, the twin prime conjecture, open. Any two odd numbers two apart are a self's two consecutive openings with an other's even opening between them: that relation is oddness's and no prime's.
+**Six gaps of two are twin primes**, 3 and 5, 5 and 7, 11 and 13, 17 and 19, 29 and 31, and 41 and 43, each pair past 3 and 5 at 6k − 1 and 6k + 1, about a multiple of six. Whether twin primes carry on without end is, in a field's words, the twin prime conjecture, open. Any two odd numbers two apart are a self's two consecutive openings with an other's even opening between them: that relation is oddness's and no prime's.
 
 **Five and fifty-three carry a matching pair**: five at two either side, fifty-three at six either side. From five to fifty-three are fourteen primes, each with a gap across at both its sides: three reaches one along gap below it, and fifty-nine completes seventeen above. Fourteen part eight at one before a multiple of six, 5, 11, 17, 23, 29, 41, 47 and 53, and six at one after, 7, 13, 19, 31, 37 and 43, and seven and seven either side of twenty-four.
 
@@ -395,7 +395,7 @@ Exhibit THREE Natural Numbers v389
 
 ## 7.4 Six prime pairs podal about thirty
 
-**About thirty, twelve of primes between five and fifty-five pair as a carry each way at one station, each pair making sixty**: 7 with 53, 13 with 47, 17 with 43, 19 with 41, 23 with 37 and 29 with 31, at distances from thirty of twenty-three, seventeen, thirteen, eleven, seven and one. Six pairs making sixty are six sixties, three hundred sixty, a seam-face below four hundred forty. Their distances from thirty add to seventy-two, and their spans, each twice its distance, to one hundred forty-four, twelve squared.
+**About thirty, twelve of primes between five and fifty-five pair as a carry each way at one station, each pair making sixty**: 7 with 53, 13 with 47, 17 with 43, 19 with 41, 23 with 37 and 29 with 31, at distances from thirty of twenty-three, seventeen, thirteen, eleven, seven and one. Six pairs making sixty are six sixties, three hundred sixty, a seam below four hundred forty. Their distances from thirty add to seventy-two, and their spans, each twice its distance, to one hundred forty-four, twelve squared.
 
 **Eleven pairs with forty-nine about thirty**, seven squared: one prime of its interval whose far side about thirty is a composite. About forty and about fifty the primes pair at three, thirty-seven with forty-three and forty-seven with fifty-three.
 
@@ -405,7 +405,7 @@ Exhibit THREE Natural Numbers v389
 
 ## 7.6 Podaling about one hundred twenty, one hundred ten to one hundred thirty
 
-**One hundred twenty is five orderings, 5!, and eleven squared less one**, a fifth seam-face, 8 · T₅, one eight at couplings among six, and three of it are three hundred sixty. Orderings of five part at sixty, sixty even, an icosahedron's rotations, 6.3, and sixty others, and of sixty rotations one is at no turning and fifty-nine at a turning, fifty-nine there a numeral shared with a going's last prime. About it stations pair a carry each way, 120 − k with 120 + k, and each pair's product parts from one hundred twenty squared by k squared: 119 × 121 = 120² − 1, 118 × 122 = 120² − 4 and 110 × 130 = 120² − 100.
+**One hundred twenty is five orderings, 5!, and eleven squared less one**, a fifth seam, 8 · T₅, one eight at couplings among six, and three of it are three hundred sixty. Orderings of five part at sixty, sixty even, an icosahedron's rotations, 6.3, and sixty others, and of sixty rotations one is at no turning and fifty-nine at a turning, fifty-nine there a numeral shared with a going's last prime. About it stations pair a carry each way, 120 − k with 120 + k, and each pair's product parts from one hundred twenty squared by k squared: 119 × 121 = 120² − 1, 118 × 122 = 120² − 4 and 110 × 130 = 120² − 100.
 
 **One hundred eighteen and one hundred twenty-two are two fifty-nines and two sixty-ones**, going's last prime and returning's first, each doubled: they straddle one hundred twenty at two as fifty-nine and sixty-one straddle sixty at one, and on a ring of one hundred twenty one hundred eighteen is a far side of two.
 
@@ -419,7 +419,7 @@ Exhibit THREE Natural Numbers v389
 
 **Each prime is at a name of its position**: two at 1-now, an entry; twenty-three at 9-next-co-changing; fifty-nine at 17-next-now. Both seventeens fold at their ninth, eight either side, and pair by position, i with 18 − i: names 1 with 17 through 8 with 10 and 9 at itself, and primes making 61, 56, 52, 50, 52, 50, 48 and 48 about twenty-three.
 
-**At one move's 8 up and 17 less the primes add to their own numbers.** 8 up: 2 and 23 at 1 and 9 add to five squared, 5 and 31 at 3 and 11 to six squared, 17 and 47 at 7 and 15 to eight squared, 3 and 29 at 2 and 10 to 2⁵, and 19 and 53 at 8 and 16 to seventy-two, six prime pairs' distances from thirty. 17 less: 2 and 53 at 1 and 16 add to fifty-five, couplings among eleven, and three pairs, at 3 and 14, 4 and 13 and 5 and 12, to forty-eight, a third seam-face. Along four four-cycles their primes add to 97, 96, 92 and 96, and 1-9-8-16's ninety-seven is twenty-three's far side on a ring of one hundred twenty.
+**At one move's 8 up and 17 less the primes add to their own numbers.** 8 up: 2 and 23 at 1 and 9 add to five squared, 5 and 31 at 3 and 11 to six squared, 17 and 47 at 7 and 15 to eight squared, 3 and 29 at 2 and 10 to 2⁵, and 19 and 53 at 8 and 16 to seventy-two, six prime pairs' distances from thirty. 17 less: 2 and 53 at 1 and 16 add to fifty-five, couplings among eleven, and three pairs, at 3 and 14, 4 and 13 and 5 and 12, to forty-eight, a third seam. Along four four-cycles their primes add to 97, 96, 92 and 96, and 1-9-8-16's ninety-seven is twenty-three's far side on a ring of one hundred twenty.
 
 **At an entry, six names between selves and outward and inward names the seventeen part as names do.** An entry carries two; across names of six, 2, 6, 10 and 14, carry 3, 13, 29 and 43, adding to eighty-eight, fives on a ring of four hundred forty; along names of six, 9 and 17, carry 23 and 59, adding to eighty-two; outward names 3, 4, 5, 7 and 8 carry 5, 7, 11, 17 and 19, adding to fifty-nine, seventeenth prime; and inward names 11, 12, 13, 15 and 16 carry 31, 37, 41, 47 and 53, adding to two hundred nine, 11 × 19. A self's one to nine carries primes 2 to 23, adding to one hundred, ten squared, and a society's nine to seventeen the primes 23 to 59, adding to three hundred sixty-three, 3 × 11².
 
@@ -435,15 +435,15 @@ Exhibit THREE Natural Numbers v389
 
 **On an odd ring of 2h + 1 stations its two farthest are h and h + 1 on, each h away by its shorter way round; on an even ring of 2h its one opposite is h on.** Taken at each station of each prime ring from five to fifty-nine, 435 stations, at each station of even rings one short of them, 420, and at 49 stations of rings of nine, fifteen and twenty-five, two farthest and one opposite are at each: two farthest are an odd ring's, prime or composite. Straight across, h on, is apart from a fold, N less k: folds at one to nine and one to seventeen fold eight and sixteen places and complete at nine and seventeen.
 
-**A ring is an arrangement fixed one scale out, and a running round it goes forward**: each station arrives at a station again by carrying on, a next at each arriving, not by stopping and going back to it. At each spiral of selves coupled one way each self alternates or is in a like pair, 7.2, and a self at a prior is at a prior at each momentary.
+**A ring is an arrangement fixed one scale out, and a carrying round it goes forward**: each station arrives at a station again by carrying on, a next at each arriving, not by stopping and going back to it. At each spiral of selves coupled one way each self alternates or is in a like pair, 7.2, and a self at a prior is at a prior at each momentary.
 
 ## 8.2 Either but not both is parity, and pairings overlap
 
-**Each position carries two pairings, one at each parity.** Both parities at one momentary put one position in two exchangings at once, one side taking both sides, a not possible form. Pairings overlap, parities alternate, with no third running. An odd number, leaving one over at pairs laid side by side, continues through overlapping pairings: along, one parity's next pairing opens two on, and across, other parity's opens one on. Laid as an open line of 2h + 1 places, each parity's pairings are h adjacent pairs, 2h − 1 inner places in both, and each end continues past its line, its last place in its pairing with a place after it and its first in its pairing with a nought before it: at one to fifty-nine, twenty-nine pairs at each parity, and fifty-nine to sixty and nought to one continuing. Two on along a side and one on across an overlap are openings advancing two to one. Each odd number carries this, fifteen primes five to fifty-nine at 435 places and nine, fifteen and twenty-five beside them; closed into a ring an odd line is another arrangement. **Here along and across are pairings' openings; about one number they are numbers about it, one either side along and a walk by two across**, each at its own subject.
+**Each position carries two pairings, one at each parity.** Both parities at one momentary put one position in two exchangings at once, one side taking both sides, a not possible form. Pairings overlap, parities alternate, with no third carrying. An odd number, leaving one over at pairs laid side by side, continues through overlapping pairings: along, one parity's next pairing opens two on, and across, other parity's opens one on. Laid as an open line of 2h + 1 places, each parity's pairings are h adjacent pairs, 2h − 1 inner places in both, and each end continues past its line, its last place in its pairing with a place after it and its first in its pairing with a nought before it: at one to fifty-nine, twenty-nine pairs at each parity, and fifty-nine to sixty and nought to one continuing. Two on along a side and one on across an overlap are openings advancing two to one. Each odd number carries this, fifteen primes five to fifty-nine at 435 places and nine, fifteen and twenty-five beside them; closed into a ring an odd line is another arrangement. **Here along and across are pairings' openings; about one number they are numbers about it, one either side along and a walk by two across**, each at its own subject.
 
-**Either but not both is exclusive or, and exclusive or is parity.** Of sixteen ways two parities go to one, two answer each single changing with a changing, exclusive or and its inversion. Taken as a step it runs one and then other, round at two; taken of prior and now as a next it runs round at three, parity's own period, carrying both: three of four joint forms go round, and a fourth, + and +, arrives at itself at each step, two alike carrying no changing. **An ordering arrives with nothing ordering it**: at an odd momentary each odd pairing, at an even momentary each even pairing, each carrying at that momentary a carrying other cannot, and carrying it for other.
+**Either but not both is exclusive or, and exclusive or is parity.** Of sixteen ways two parities go to one, two answer each single changing with a changing, exclusive or and its inversion. Taken as a step it carries one and then other, round at two; taken of prior and now as a next it carries round at three, parity's own period, carrying both: three of four joint forms go round, and a fourth, + and +, arrives at itself at each step, two alike carrying no changing. **An ordering arrives with nothing ordering it**: at an odd momentary each odd pairing, at an even momentary each even pairing, each carrying at that momentary a carrying other cannot, and carrying it for other.
 
-**A right spiral step, (x, y) to (y, −x), taken twice inverts both parities, three times has reached all four joint forms, four times reaches its pair again, and six times inverts both again**: a passage of six carries a whole four and hands its pair on inverted, and two passages reach it again. Of two hundred fifty-six ways four joint forms go to four, six go round through all four, and two of six change one parity at each step, right spiral step (x, y) to (y, −x) and its mirror (x, y) to (−y, x). Nought to twenty-four is six rounds of four and four passages of six, twenty-four to sixty nine rounds and six passages, and nought to sixty fifteen and ten; six, fourteen and twenty-two, eight apart, are at one phase of four, eight being two rounds. Six passages of six across twenty-four to sixty are thirty-six steps, each carrying four, and a side's four full momentaries and four joint forms are two fours, each at its own subject. These are a step's own applications; resolver runs its names at its own resolving.
+**A right spiral step, (x, y) to (y, −x), taken twice inverts both parities, three times has reached all four joint forms, four times reaches its pair again, and six times inverts both again**: a passage of six carries a whole four and hands its pair on inverted, and two passages reach it again. Of two hundred fifty-six ways four joint forms go to four, six go round through all four, and two of six change one parity at each step, right spiral step (x, y) to (y, −x) and its mirror (x, y) to (−y, x). Nought to twenty-four is six rounds of four and four passages of six, twenty-four to sixty nine rounds and six passages, and nought to sixty fifteen and ten; six, fourteen and twenty-two, eight apart, are at one phase of four, eight being two rounds. Six passages of six across twenty-four to sixty are thirty-six steps, each carrying four, and a side's four full momentaries and four joint forms are two fours, each at its own subject. These are a step's own applications; resolver executes its names at its own resolving.
 
 ## 8.3 An odd number carries a middle carrying nothing
 
@@ -451,7 +451,7 @@ Exhibit THREE Natural Numbers v389
 
 ## 8.4 Three, six, nine and fives, odd and even each its own
 
-**Three, six and nine run odd, even, odd**, three apart, parity alternating up multiples of three. **Up fives their positions alternate same way**: twenty-five, thirty-five, forty-five and fifty-five, odd, run between thirty, forty, fifty and sixty, even. Parity is each number's own at each run of uni-scaling.
+**Three, six and nine are odd, even, odd**, three apart, parity alternating up multiples of three. **Up fives their positions alternate same way**: twenty-five, thirty-five, forty-five and fifty-five, odd, are between thirty, forty, fifty and sixty, even. Parity is each number's own at each momentarying of uni-scaling.
 
 ## 8.5 A store, one momentary fixed unchangeable
 
@@ -469,11 +469,11 @@ Exhibit THREE Natural Numbers v389
 
 **Each pair is a ring, its radius its distance from a waist at two hundred twenty**, from nought at a waist to two hundred twenty at nought and four hundred forty, one station.
 
-**Podal competency is a straddle and not a pairing.** Two self-pairing stations reach themselves; a running straddles them.
+**Podal competency is a straddle and not a pairing.** Two self-pairing stations reach themselves; a carrying straddles them.
 
 ## 9.2 Bi-co-podaling, a carry each way at one station
 
-**Bi-co-podaling is a carry one way at k and a carry other way at N less k, two carries each at its own momentary, one ring, running.** Bi- two carries differing, co- two carries together at one ring, -ing running.
+**Bi-co-podaling is a carry one way at k and a carry other way at N less k, two carries each at its own momentary, one ring, momentarying.** Bi- two carries differing, co- two carries together at one ring, -ing momentarying.
 
 **A ring carries its two and no order between them.** Either way round arrives at same next, and a side taken installs a third position a ring carries none of.
 
@@ -509,21 +509,21 @@ Exhibit THREE Natural Numbers v389
 
 **Each span of a chain three, five, nine, seventeen is two to a power and one, and podaling at each span gives a span below it**: an odd ring of N carries (N + 1)/2 pairs, two at three, three at five, five at nine, nine at seventeen. Seventeen at its two sides is a nine, a nine a five, a five a three.
 
-**Pairs carrying two stations double along a chain, one, two, four, eight, and each span is twice them and one nothing at its origin.** Pairings at six, eight and ten run three, four and five, consecutive, 5.8, eight's four the resolver's four momentaries of exchanging; two progressions share four only, and four pairings is a nine. At nine only among spans, a span's own pairings and resolver's four at eight are one, and self and other run whole at nine.
+**Pairs carrying two stations double along a chain, one, two, four, eight, and each span is twice them and one nothing at its origin.** Pairings at six, eight and ten are three, four and five, consecutive, 5.8, eight's four the resolver's four momentaries of exchanging; two progressions share four only, and four pairings is a nine. At nine only among spans, a span's own pairings and resolver's four at eight are one, and self and other carry whole at nine.
 
 **At one to nine a self's eight is shared, four at each side, with five between owned by neither**: bi-moral co-agency. **At one to seventeen each side carries a whole eight, and an entire one to nine is shared at its centre**: social moral competency, a pair at a society's centre and each side carrying its whole self.
 
-**Four-momentarying carries a chain on as scaling.** One to nine is four momentaries of exchanging and one momentary at a next scale, its 1, 2 and 3 being 1, 9 and 17: one to nine a self's momentary, completing at 9. Each use is at its scale: at resolver one run of 1 to 17 is one momentary of exchanging at a scale outward, and one numbered name and one span of nine names are each at their own subject, matching numerals coupling no relations. 17-next-now is a next momentary's 1-now, and one to sixty-five is four momentaries of exchanging at that scale, one momentary at a scale after. Nine, seventeen, thirty-three and sixty-five are each two to a power and one, a chain continuing. Each next completing is twice one before less one, two spans sharing one name, a completing of one an opening of a next: one to nine and nine to seventeen are seventeen places, seventeen names. Step spans double, eight to sixteen, and names end to end run nine to seventeen, one shared name its difference.
+**Four-momentarying carries a chain on as scaling.** One to nine is four momentaries of exchanging and one momentary at a next scale, its 1, 2 and 3 being 1, 9 and 17: one to nine a self's momentary, completing at 9. Each use is at its scale: at resolver one executing of 1 to 17 is one momentary of exchanging at a scale outward, and one numbered name and one span of nine names are each at their own subject, matching numerals coupling no relations. 17-next-now is a next momentary's 1-now, and one to sixty-five is four momentaries of exchanging at that scale, one momentary at a scale after. Nine, seventeen, thirty-three and sixty-five are each two to a power and one, a chain continuing. Each next completing is twice one before less one, two spans sharing one name, a completing of one an opening of a next: one to nine and nine to seventeen are seventeen places, seventeen names. Step spans double, eight to sixteen, and names end to end are nine to seventeen, one shared name its difference.
 
 **Each span bi-folds and releases, and a next whole of them is 1–65.** 1–9, self and other, is an entire momentary bi-folding releasing at 3; 1–13, self and other and other and self, bi-folds releasing at 6; 1–17, self, other and social, bi-folds releasing at 9; and 1–25 is a fractal bi-folding one span on. Each span opens one more four and its releasing moves three, three inward to each one outward: at a round of four parities its outward steps arrive at 5, 9, 13 and 17, and its inward steps carried to an arrival four before each span's completing are 3, 6 and 9. Carried on at a round of six parities, 1–25 releases at 15 and 1–65 at 45. At 3 a self's pair is wholly inverted and at 9 an outer pair of four, an inner pair carried as it was: two bi-folds, each at its own span. Binary, all or none at all, resolving coheres an entire surface along and across, releasing at 3, 6 and 9 and continuing.
 
-**Wholes are rounds of parities, and scalings step one chain.** A round reaching each form of k parities once runs 1 to 2^k + 1: three at one parity, five at two, nine at three, seventeen at four, thirty-three at five and sixty-five at six. Pairs step a chain two parities at a time, 5, 17, 65 and 257, each pair stepping once at each 5 of a pair inward of it; a scaling at 1, 9 and 17 steps it three parities at a time, 9, 65 and 513, one to nine at one scale being one to sixty-five at a next; and 1–17 inward and outward steps it four, 17, 257 and 4,097, a chain's step at four parities, beside a placing of each 1 to 17 at 8n − 7, 17 at 129, two relations at one span. Pairs and threes reach each other first at 1–65, a next whole, and four 1–17s run it, its outer pair stepping at 17, 33, 49 and 65; pairs and 1–17 reach each other at 1–17 and 1–257, and all three at 1–4,097. No scaling is taken over another: each is one chain at its own step.
+**Wholes are rounds of parities, and scalings step one chain.** A round reaching each form of k parities once is 1 to 2^k + 1: three at one parity, five at two, nine at three, seventeen at four, thirty-three at five and sixty-five at six. Pairs step a chain two parities at a time, 5, 17, 65 and 257, each pair stepping once at each 5 of a pair inward of it; a scaling at 1, 9 and 17 steps it three parities at a time, 9, 65 and 513, one to nine at one scale being one to sixty-five at a next; and 1–17 inward and outward steps it four, 17, 257 and 4,097, a chain's step at four parities, beside a placing of each 1 to 17 at 8n − 7, 17 at 129, two relations at one span. Pairs and threes reach each other first at 1–65, a next whole, and four 1–17s carry it, its outer pair stepping at 17, 33, 49 and 65; pairs and 1–17 reach each other at 1–17 and 1–257, and all three at 1–4,097. No scaling is taken over another: each is one chain at its own step.
 
 **An odd ring carries one self-paired station and an even ring two**: a self's ring at nine carries one nothing, and a society's winding at four hundred forty two, its origin and its waist.
 
 ## 9.8 Bi-tunneling across and co-chaining along, podaling exchanging them
 
-**Bi-tunneling is social moral competency at its across relation; co-chaining is same continuing at its along relation. Podaling exchanges these relations while each side continues forward.** Within one to nine podaling pairs odd with even, 1 with 8, 2 with 7, 3 with 6 and 4 with 5, exchanging across for along and along for across while each side carries its own forward. As a self's names rise, 1, 2 and 3, their podal partners fall, 8, 7 and 6, and each side's forward is its own running, a printed name rising or falling being its place among names. Four momentaries of exchanging run in same span, 1–2 with 2–3, 3–4 with 4–5, 5–6 with 6–7 and 7–8 with 8–9, self at 1 to 8 and other at 2 to 9: podal pairs and overlapping pairs are two relations in one to nine, and its span unfolds, each momentary a next.
+**Bi-tunneling is social moral competency at its across relation; co-chaining is same continuing at its along relation. Podaling exchanges these relations while each side continues forward.** Within one to nine podaling pairs odd with even, 1 with 8, 2 with 7, 3 with 6 and 4 with 5, exchanging across for along and along for across while each side carries its own forward. As a self's names rise, 1, 2 and 3, their podal partners fall, 8, 7 and 6, and each side's forward is its own momentarying, a printed name rising or falling being its place among names. Four momentaries of exchanging are in same span, 1–2 with 2–3, 3–4 with 4–5, 5–6 with 6–7 and 7–8 with 8–9, self at 1 to 8 and other at 2 to 9: podal pairs and overlapping pairs are two relations in one to nine, and its span unfolds, each momentary a next.
 
 **A carry each way is one ring at each station**: at k a carry one way, at four hundred forty less k a carry other way, a ring at radius two hundred twenty less k. Each station reaches its far side once each winding.
 
@@ -533,7 +533,7 @@ Exhibit THREE Natural Numbers v389
 
 **Four even openings grow as one family: 2, 4, 6, 8; 2, 6, 10, 14; 2, 8, 14, 20; 2, 10, 18, 26; and 2, 12, 22, 32, each row 2 + 2sj, j from nought to three.** Carried one step more, each row opens next at 2 + 8s and completes at an odd 8s + 1 before it: nine, seventeen, twenty-five, thirty-three and forty-one. At s one a row is four outward at a between and its span one to nine; at s two a row is four across names between selves and its span one to seventeen; rows past two are numbered forms a family carries on, names between selves staying six. Each odd completing is outward of names 1 to 8s, as seventeen is in none of forms among 1 to 16.
 
-**A fold runs whole at each scale.** A fold at a lays n at 2a less n, and a fold at a and then at b lays n at n more by twice b less a: two folds in sequence are no fold, each number stepped on alike, folds at 4 and then 12 laying 1 at 7 and then 17. On names 1 to 8s, 4s up and down continues parity and 8s + 1 less changes it, and alternating two reaches each name again after four moves through four names at each s: two taken together are 4s + 1 less in a lower half and 12s + 1 less in an upper, and 8s + 1 and both of these are odd: each move carries each name to another name. At s two they are 8 up and 17 less, 3 to 11 to 6 to 14 to 3; at s one they are 4 up and 9 less, 3 to 7 to 2 to 6 to 3 within 1 to 8, completing beside nine. A fold gives one four-cycling at 1 to 4, 1, 3, 2, 4 at two up or down and five less, two at 1 to 8, 4-8-1-5 and 3-7-2-6, and four at 1 to 16, each podal pair a four-cycling at a doubled span; completing names 5, 9 and 17 are in none.
+**A fold carries whole at each scale.** A fold at a lays n at 2a less n, and a fold at a and then at b lays n at n more by twice b less a: two folds in sequence are no fold, each number stepped on alike, folds at 4 and then 12 laying 1 at 7 and then 17. On names 1 to 8s, 4s up and down continues parity and 8s + 1 less changes it, and alternating two reaches each name again after four moves through four names at each s: two taken together are 4s + 1 less in a lower half and 12s + 1 less in an upper, and 8s + 1 and both of these are odd: each move carries each name to another name. At s two they are 8 up and 17 less, 3 to 11 to 6 to 14 to 3; at s one they are 4 up and 9 less, 3 to 7 to 2 to 6 to 3 within 1 to 8, completing beside nine. A fold gives one four-cycling at 1 to 4, 1, 3, 2, 4 at two up or down and five less, two at 1 to 8, 4-8-1-5 and 3-7-2-6, and four at 1 to 16, each podal pair a four-cycling at a doubled span; completing names 5, 9 and 17 are in none.
 
 **Longer and wider carry one ratio, two to one.** Each row's middle is 2 + 3s, its four at 3s and s either side: its inner pair reaches s over a span of 2s and its outer 3s over 6s, span over reach two at both. An outer span 6s is apart from a four-step span 8s, a row's middle 2 + 3s from a fold's middle at half of 8s + 1, and a row's own other order, outer with outer and inner with inner, from a halfway pairing, first with third and second with fourth: at s two, 2 with 14 and 6 with 10 beside 2 with 10 and 6 with 14.
 
@@ -541,7 +541,7 @@ Exhibit THREE Natural Numbers v389
 
 **Two local fours are two interleaving wider rows.** 2, 4, 6, 8 with 10, 12, 14, 16 are same eight names as 2, 6, 10, 14 with 4, 8, 12, 16: across names between selves, and still-possibling names, each sharing, a self's next prior, each sharing's changing and a society. At each s a row with its copy 8s on is a doubled row with its copy 2s on.
 
-**A form enlarged continuing its parity**: over names 1 to B, B eight or sixteen, even n goes to r(n − 2) + 2 and odd n to r(n + 1) − 1, continuing parity, halfway pairing, fold, B + 1 less going to Br + 1 less, and each side's step at 2r. At r two names 1 to 8 go to 3, 2, 7, 6, 11, 10, 15, 14, their evens an across row 2, 6, 10, 14. It carries a fixed form and leaves its adjacent pairings, 1 and 2 going to 3 and 2 in an other order and 2 and 3 to 2 and 7, and its outer completing B + 1 to its running: a form's stable-forming at a larger scale, a larger momentary its own running.
+**A form enlarged continuing its parity**: over names 1 to B, B eight or sixteen, even n goes to r(n − 2) + 2 and odd n to r(n + 1) − 1, continuing parity, halfway pairing, fold, B + 1 less going to Br + 1 less, and each side's step at 2r. At r two names 1 to 8 go to 3, 2, 7, 6, 11, 10, 15, 14, their evens an across row 2, 6, 10, 14. It carries a fixed form and leaves its adjacent pairings, 1 and 2 going to 3 and 2 in an other order and 2 and 3 to 2 and 7, and its outer completing B + 1 to its momentarying: a form's stable-forming at a larger scale, a larger momentary its own momentarying.
 
 ---
 
@@ -559,7 +559,7 @@ Exhibit THREE Natural Numbers v389
 
 ## 10.2 Two runnings sharing their digits
 
-**Local momentary one to nine and four-cycles among seventeen names are two runnings, sharing their digits only.** One to nine are nine places of one momentary; 1, 9, 8 and 16 at a four-cycle are four of seventeen names. A line from one to other draws a relation neither running carries. Digits they share reach each other exactly at a numbered form: 8 up and then 17 less is 9 less, 17 − (n + 8) = 9 − n, and at each scale s, 9.9's, 8s + 1 − (n + 4s) = 4s + 1 − n, and n, n + 8, 9 − n and 17 − n are a four-cycle's two out-and-backs as numbers, a numbered form and no running.
+**Local momentary one to nine and four-cycles among seventeen names are two momentaryings, sharing their digits only.** One to nine are nine places of one momentary; 1, 9, 8 and 16 at a four-cycle are four of seventeen names. A line from one to other draws a relation neither momentarying carries. Digits they share reach each other exactly at a numbered form: 8 up and then 17 less is 9 less, 17 − (n + 8) = 9 − n, and at each scale s, 9.9's, 8s + 1 − (n + 4s) = 4s + 1 − n, and n, n + 8, 9 − n and 17 − n are a four-cycle's two out-and-backs as numbers, a numbered form and no momentarying.
 
 **Three momentaries at one self and three selves at one momentary of a spiral are two forms at one number.** A pattern three momentaries long is a method's matching; three selves side by side at one momentary is a between.
 
@@ -571,11 +571,11 @@ Exhibit THREE Natural Numbers v389
 
 ## 11.1 Nought to four hundred forty, each number at its podaling
 
-**Each number from nought to four hundred forty is at its podaling, taken forward from nought.** Each row carries its number's parity and its momentary, odd or even, now within a self's span and next within a society's, spans of eight alternating, 1.5; its form, prime or its prime factors, nought and one carrying neither; its far side on a ring of four hundred forty, k with 440 − k, nought and two hundred twenty each its own far side and four hundred forty at nought's station; its radius from a waist at two hundred twenty; its far side on a ring of one hundred twenty, a number past one hundred twenty at a station it leaves at one hundred twenty; and forms it is at: a name among seventeen, a prime among seventeen, a square, a seam-face, a triangle, prior two added, a power of two and one either side of it, an ordering, going and returning, waist, and seventeen primes added.
+**Each number from nought to four hundred forty is at its podaling, taken forward from nought.** Each row carries its number's parity and its momentary, odd or even, now within a self's span and next within a society's, spans of eight alternating, 1.5; its form, prime or its prime factors, nought and one carrying neither; its far side on a ring of four hundred forty, k with 440 − k, nought and two hundred twenty each its own far side and four hundred forty at nought's station; its radius from a waist at two hundred twenty; its far side on a ring of one hundred twenty, a number past one hundred twenty at a station it leaves at one hundred twenty; and forms it is at: a name among seventeen, a prime among seventeen, a square, a seam, a triangle, prior two added, a power of two and one either side of it, an ordering, going and returning, waist, and seventeen primes added.
 
 | n | Parity, at its momentary | Form | Far side at 440 | Radius | Far side at 120 | At |
 |---|---|---|---|---|---|---|
-| 0 | even | — | 0 | 220 | 0 | 0², seam-face, 1² − 1 |
+| 0 | even | — | 0 | 220 | 0 | 0², seam, 1² − 1 |
 | 1 | odd, now | — | 439 | 219 | 119 | 1-now, 1², T₁, prior two added, 2¹ − 1 |
 | 2 | even, now | prime | 438 | 218 | 118 | 2-now-possibling, first prime, prior two added, 2¹ |
 | 3 | odd, now | prime | 437 | 217 | 117 | 3-now-co-prioring, second prime, T₂, prior two added, 2¹ + 1, 2² − 1 |
@@ -583,7 +583,7 @@ Exhibit THREE Natural Numbers v389
 | 5 | odd, now | prime | 435 | 215 | 115 | 5-now-co-changing, third prime, prior two added, 2² + 1 |
 | 6 | even, now | 2 · 3 | 434 | 214 | 114 | 6-now-co-possibling, T₃, 3! |
 | 7 | odd, now | prime | 433 | 213 | 113 | 7-now-prioring, fourth prime, 2³ − 1 |
-| 8 | even, now | 2³ | 432 | 212 | 112 | 8-now-still-possibling, seam-face, 3² − 1, prior two added, 2³ |
+| 8 | even, now | 2³ | 432 | 212 | 112 | 8-now-still-possibling, seam, 3² − 1, prior two added, 2³ |
 | 9 | odd, next | 3² | 431 | 211 | 111 | 9-next-co-changing, 3², 2³ + 1 |
 | 10 | even, next | 2 · 5 | 430 | 210 | 110 | 10-next-co-possibling, T₄ |
 | 11 | odd, next | prime | 429 | 209 | 109 | 11-next-co-prioring, fifth prime |
@@ -599,7 +599,7 @@ Exhibit THREE Natural Numbers v389
 | 21 | odd, now | 3 · 7 | 419 | 199 | 99 | T₆, prior two added |
 | 22 | even, now | 2 · 11 | 418 | 198 | 98 |  |
 | 23 | odd, now | prime | 417 | 197 | 97 | ninth prime, going folding |
-| 24 | even, now | 2³ · 3 | 416 | 196 | 96 | seam-face, 5² − 1, 4! |
+| 24 | even, now | 2³ · 3 | 416 | 196 | 96 | seam, 5² − 1, 4! |
 | 25 | odd, next | 5² | 415 | 195 | 95 | 5² |
 | 26 | even, next | 2 · 13 | 414 | 194 | 94 |  |
 | 27 | odd, next | 3³ | 413 | 193 | 93 |  |
@@ -623,7 +623,7 @@ Exhibit THREE Natural Numbers v389
 | 45 | odd, next | 3² · 5 | 395 | 175 | 75 | T₉ |
 | 46 | even, next | 2 · 23 | 394 | 174 | 74 |  |
 | 47 | odd, next | prime | 393 | 173 | 73 | fifteenth prime |
-| 48 | even, next | 2⁴ · 3 | 392 | 172 | 72 | seam-face, 7² − 1 |
+| 48 | even, next | 2⁴ · 3 | 392 | 172 | 72 | seam, 7² − 1 |
 | 49 | odd, now | 7² | 391 | 171 | 71 | 7² |
 | 50 | even, now | 2 · 5² | 390 | 170 | 70 |  |
 | 51 | odd, now | 3 · 17 | 389 | 169 | 69 |  |
@@ -655,7 +655,7 @@ Exhibit THREE Natural Numbers v389
 | 77 | odd, next | 7 · 11 | 363 | 143 | 43 |  |
 | 78 | even, next | 2 · 3 · 13 | 362 | 142 | 42 | T₁₂ |
 | 79 | odd, next | prime | 361 | 141 | 41 |  |
-| 80 | even, next | 2⁴ · 5 | 360 | 140 | 40 | seam-face, 9² − 1 |
+| 80 | even, next | 2⁴ · 5 | 360 | 140 | 40 | seam, 9² − 1 |
 | 81 | odd, now | 3⁴ | 359 | 139 | 39 | 9² |
 | 82 | even, now | 2 · 41 | 358 | 138 | 38 |  |
 | 83 | odd, now | prime | 357 | 137 | 37 |  |
@@ -695,7 +695,7 @@ Exhibit THREE Natural Numbers v389
 | 117 | odd, now | 3² · 13 | 323 | 103 | 3 |  |
 | 118 | even, now | 2 · 59 | 322 | 102 | 2 | returning's far end |
 | 119 | odd, now | 7 · 17 | 321 | 101 | 1 |  |
-| 120 | even, now | 2³ · 3 · 5 | 320 | 100 | 0 | seam-face, 11² − 1, T₁₅, 5! |
+| 120 | even, now | 2³ · 3 · 5 | 320 | 100 | 0 | seam, 11² − 1, T₁₅, 5! |
 | 121 | odd, next | 11² | 319 | 99 | 119 | 11² |
 | 122 | even, next | 2 · 61 | 318 | 98 | 118 |  |
 | 123 | odd, next | 3 · 41 | 317 | 97 | 117 |  |
@@ -743,7 +743,7 @@ Exhibit THREE Natural Numbers v389
 | 165 | odd, now | 3 · 5 · 11 | 275 | 55 | 75 |  |
 | 166 | even, now | 2 · 83 | 274 | 54 | 74 |  |
 | 167 | odd, now | prime | 273 | 53 | 73 |  |
-| 168 | even, now | 2³ · 3 · 7 | 272 | 52 | 72 | seam-face, 13² − 1 |
+| 168 | even, now | 2³ · 3 · 7 | 272 | 52 | 72 | seam, 13² − 1 |
 | 169 | odd, next | 13² | 271 | 51 | 71 | 13² |
 | 170 | even, next | 2 · 5 · 17 | 270 | 50 | 70 |  |
 | 171 | odd, next | 3² · 19 | 269 | 49 | 69 | T₁₈ |
@@ -799,7 +799,7 @@ Exhibit THREE Natural Numbers v389
 | 221 | odd, next | 13 · 17 | 219 | 1 | 19 |  |
 | 222 | even, next | 2 · 3 · 37 | 218 | 2 | 18 |  |
 | 223 | odd, next | prime | 217 | 3 | 17 |  |
-| 224 | even, next | 2⁵ · 7 | 216 | 4 | 16 | seam-face, 15² − 1 |
+| 224 | even, next | 2⁵ · 7 | 216 | 4 | 16 | seam, 15² − 1 |
 | 225 | odd, now | 3² · 5² | 215 | 5 | 15 | 15² |
 | 226 | even, now | 2 · 113 | 214 | 6 | 14 |  |
 | 227 | odd, now | prime | 213 | 7 | 13 |  |
@@ -863,7 +863,7 @@ Exhibit THREE Natural Numbers v389
 | 285 | odd, next | 3 · 5 · 19 | 155 | 65 | 75 |  |
 | 286 | even, next | 2 · 11 · 13 | 154 | 66 | 74 |  |
 | 287 | odd, next | 7 · 41 | 153 | 67 | 73 |  |
-| 288 | even, next | 2⁵ · 3² | 152 | 68 | 72 | seam-face, 17² − 1 |
+| 288 | even, next | 2⁵ · 3² | 152 | 68 | 72 | seam, 17² − 1 |
 | 289 | odd, now | 17² | 151 | 69 | 71 | 17² |
 | 290 | even, now | 2 · 5 · 29 | 150 | 70 | 70 |  |
 | 291 | odd, now | 3 · 97 | 149 | 71 | 69 |  |
@@ -935,7 +935,7 @@ Exhibit THREE Natural Numbers v389
 | 357 | odd, now | 3 · 7 · 17 | 83 | 137 | 3 |  |
 | 358 | even, now | 2 · 179 | 82 | 138 | 2 |  |
 | 359 | odd, now | prime | 81 | 139 | 1 |  |
-| 360 | even, now | 2³ · 3² · 5 | 80 | 140 | 0 | seam-face, 19² − 1 |
+| 360 | even, now | 2³ · 3² · 5 | 80 | 140 | 0 | seam, 19² − 1 |
 | 361 | odd, next | 19² | 79 | 141 | 119 | 19² |
 | 362 | even, next | 2 · 181 | 78 | 142 | 118 |  |
 | 363 | odd, next | 3 · 11² | 77 | 143 | 117 |  |
@@ -1015,6 +1015,6 @@ Exhibit THREE Natural Numbers v389
 | 437 | odd, now | 19 · 23 | 3 | 217 | 43 |  |
 | 438 | even, now | 2 · 3 · 73 | 2 | 218 | 42 |  |
 | 439 | odd, now | prime | 1 | 219 | 41 |  |
-| 440 | even, now | 2³ · 5 · 11 | 0 | 220 | 40 | seam-face, 21² − 1, seventeen primes added |
+| 440 | even, now | 2³ · 5 · 11 | 0 | 220 | 40 | seam, 21² − 1, seventeen primes added |
 
-**From row one down, its far side at four hundred forty runs down one at each row as its number runs up**, its radius coming to nought at its waist and opening again, and its far side at one hundred twenty runs down from one hundred nineteen to one and is at nought at each of 0, 120, 240 and 360, its last stretch ending at forty at four hundred forty. Each pairing on a ring of four hundred forty and on a ring of one hundred twenty in parts above is at its two rows: a carry each way at one station, found by its number.
+**From row one down, its far side at four hundred forty steps down one at each row as its number steps up**, its radius coming to nought at its waist and opening again, and its far side at one hundred twenty steps down from one hundred nineteen to one and is at nought at each of 0, 120, 240 and 360, its last stretch ending at forty at four hundred forty. Each pairing on a ring of four hundred forty and on a ring of one hundred twenty in parts above is at its two rows: a carry each way at one station, found by its number.

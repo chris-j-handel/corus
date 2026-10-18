@@ -2454,3 +2454,97 @@ Each is one droplet, in its own words, tagged v387, aimed at this file for the r
 *Standing at v389:* 4.15 still says the scales are 'sequencing, an ordering' while Exhibit THIRTY v389 says 'scale is a reading at the couplings', and neither says the ordering and the reading one.
 
 *Resolved at v389:* There is no reading or ordering in nature: the primes 5 through 53 are prime living scales, co-parity-changing co-momentarying pattern matching. Entered at Natural Intelligence 4.x, Natural Naming 1.x and 2.4, Natural Numbers 1.7 and THIRTY steps 376 and 379.
+
+## Concerns re-explained, v389
+
+*Standing at v389:* 6.4 still seats a self at its society's prime without saying whether prime scale is that one society or all societies at that scale, and 6.5's commencing still rests on Exhibit ONE's constructed table of a spiral opened at no prior as its deriving.
+
+*Standing at v389:* Of the list, the two tens of positions, across a momentary at 2.3 and at one number at the Equilibria Registry, and the twenty-four at two readings still stand undecided at v389, while null and infinity + 1, the one way of sixteen, the scale outward, the now shared and the three betweens are met at 1.1, 2.4, 5.1, 1.2 and 4.10.
+
+*Standing at v389:* The set of existing things that do not hold themselves is still unmet at v389: 1.1's 'a set is its things and no further thing' does not say which gatherings are sets, nor whether a set named of sets is itself a thing of the universe.
+
+*Standing at v389:* Changing, no other method and living are stepped from the origin at v389, but Part THREE's torus with its two openings and the twenty-four of 3.2 still stand with no step from the sentence before them.
+
+*Standing at v389:* 2.4 still gives 'Next as prior and now parting, the exclusive or, parity' a joint form still, an equilibrium, while 3.5 has φ enter at 'next as prior and now parting, three round'.
+
+*Standing at v389:* The seven names are one at 3.3, but the file still has no legend of the seventeen names at a part's opening, its section numbers are no links, and its long sentences stand beside Natural Explaining's one claim at a sentence.
+
+*Standing at v389:* its value rests on *protecting*, a word Natural Naming v389 names at no row, the concern of *protecting* standing at Natural Naming's offerings
+
+*Standing at v389:* v389 names no prime as the method's bound, each spiral at a prime co-spiraling at its own, 3.5, so the method self-bounding at 59 among all others unbounded parts with it and needs a decision.
+
+*Standing at v389:* 3.5 still has a spiral at any odd number come to its parities again at 4n, prime or not, while 6.4 has a composite number's equal smaller sets come again first, and which opening or pattern each saying is of is at no sentence.
+
+*Standing at v389:* v389 3.3 keeps Exhibit ONE as an object that is the method, the method executable, each form beside the resolver from the resolver, where this offers the code as the method illustrated at python, a human engineering met at its tables.
+
+*Standing at v389:* 3.5 still names the resolver's stepping at 17 'a common beat laid over the selves', the form 1.5 names a second now and the session said is laid over no selves, beside 4.6's 'the executing's alone', and one word is to be decided.
+
+*Standing at v389:* v389 1.5 gives five things beside and their one holder, while this gathers one list of eight with each field's own proof beside each, Arrow's theorem among them, and whether the list is five or eight and whether the fields' proofs enter is undecided.
+
+*Standing at v389:* 1.5 now generates its list from the second now and 1.6 names the breaking observing, but 6.6's 'The same form is at a self, at a coupling and at a society' still stands beside 1.5's 'a fixed form', and no sentence sets a thing at three forms apart from one and then the other.
+
+*Standing at v389:* v389 2.3 carries all even parities still possiblings and odd changing or still existing, but 5.2 still says 'invisible and dissolving at next existing', the word the user's correcting leaves out.
+
+*Standing at v389:* v389 1.3 says both 'what is next is possible now' and 'The possible is at prior', and the title's next possible is at neither reading alone, so the two readings stand.
+
+*Standing at v389:* 4.13 still says 'at each self's own pacing the relation is kept', while the retained separate-entry instrument has the alike or opposite relation varying at individual entries, so the sentence holds only at the stated stepping together at 17 and is to be narrowed or borne.
+
+*Standing at v389:* 2.3 says the three conditions of the numbers in overlap and 2.4 of the four joint forms at next as prior inverted, and the laying of sharings at numbered momentaries with the four forms, the joining of the two subjects, is still at no sentence.
+
+*Standing at v389:* v389 6.1 says 'At the resolver bi-co-momentarying is at no term' while 3.2 says 5 is 'co-competencing, bi-co-momentarying at the crossings' and 6.1 the co-linearizing 'is co-competencing, bi-co-momentarying', at the name 5-now-co-changing.
+
+*Standing at v389:* v389 6.6 says outward one scale up and inward one scale down and neither a place, and names no outward as next existing and inward as prior existing, so that saying parts and needs a decision before it enters.
+
+*Standing at v389:* Its living self with a non-living relay alone inverting at each momentary, +, −, +, −, parts with v389's spiral of one, a self receiving its own releasing at +, +, −, −, 4.13, and the relay's case and the non-living with non-living case are at no table.
+
+*Standing at v389:* 2.2 has each exchanging at two, the self and the other, while 4.14 and Exhibit ONE's table of two selves have a coupling one way, one self receiving and the other nothing, and 4.13 a self receiving its own releasing, and no sentence says what coupled names at one way.
+
+*Standing at v389:* 3.2's list still has self next at 1-now and 17-next-now and bi-momentarying now at 6 and 14, while its closing paragraph and Exhibit ONE's namings have self next at 5 and bi-momentarying now at 4, 3-4 co-intelligencing.
+
+*Standing at v389:* Natural Naming v389 still releases *met*, *meet*, *meeting* to the component's own name, while 4.10 says 'the self's momentary 1-2 and the other's 2-3 meet at 2' and the file says meet at 3.4, 4.3 and elsewhere, as Naming itself does.
+
+*Standing at v389:* Natural Naming v389 still releases *inside* and *outside* as places, while 4.10 says 'inside a momentary the between of self and other, and outside it the between of momentaries'.
+
+*Standing at v389:* Natural Naming v389 still releases *turn* at a momentary's opening and completing, while 1.6 says 'the chirality's right the one spiral that alternating turns in'.
+
+*Standing at v389:* Natural Naming v389 still releases *return* at the momentaries, while 5.1 says 'each self's next prior returned to that self' and 'a set formed, returned by 1'.
+
+*Standing at v389:* 1.6 says the all or none over 'each observing of natural competency' and its break at 'an observing of living', and no sentence names natural competency or says whether the observings are a living self's competency along or each existing thing's changing.
+
+*Standing at v389:* It answers the set concern by the prior set within the now set, one momentary on, a container reading at the momentaries that 1.1's 'no container added to them' and 1.3's three sequential universes do not carry, and it waits on the decision of the concern at line 103.
+
+*Standing at v389:* 4.10 still has the between 'no further thing' and no location while saying, of the 0 at an odd spiral, 'it moves one self on at each second momentary, one 0 at one self moving on', a thing of no location said moving.
+
+*Standing at v389:* 5.4 still makes a fixing named unchanged the equilibrium at one step, while Natural Mathematics and the Geodesic Improving Method step from a fixing to an equilibrium only at its subject named still, a second step.
+
+*Standing at v389:* The three-phase locking path it is beside is incoming at this file's carrying and at no line of the resolver, and active and passive routing are at no sentence of 3.1, so its entering waits on that executing.
+
+*Standing at v389:* v389 2.4 has the living step with 'prior and now both participating', while O49 finds next as prior inverted takes nothing from now, and O55 and O56 find the code stepping all selves at one common beat with no self-paced Exhibit ONE yet.
+
+*Standing at v389:* 1.4 says 'one form and then another' and 'That changing is alternating' with no step giving the first form again at the third, by a self continuing or by two forms only.
+
+*Standing at v389:* Of its open list, carrying some of the prior, a society taken in as one self of a further society at no line of the resolver, and one side or both changing at one now still stand at v389, while whose prior inverts and the counting at the coupling are met at 2.4.
+
+*Standing at v389:* Nature is at no sentence of v389, its word only the prefix natural-, while the self offers nature as the existing set of existing, and whether nature and the universe are one concept or two is undecided.
+
+*Standing at v389:* v389 still says recursioning, the field's running back, adding forward at its sentences, 6.1 'the co-linear recursioning forward along', and whether the root cursioning is said is a naming decision at some two hundred and twenty places.
+
+*Standing at v389:* The air bubble carrying its form through water is offered as living at that scale with no observing named of its prior carried into now, and v389 6.5 names no such example, so it waits on that observing before it enters.
+
+*Standing at v389:* The longer chaining always prevailing parity carries a length against a length, where 2.5 has no resolving carry a size against another and 4.2 nothing counted, so it parts unless re-said at the numbers alone.
+
+*Standing at v389:* v389 6.6 has each file a non-living existing form the expedition's living selves carry and an interest the self, while this has each living file a self, its possibling its 5 and the set of possibling files the society at 17.
+
+*Standing at v389:* 4.10's first paragraph still says the 0 at 14 and at 12 and its second at 12, 14, 15 and 16, one between at two counts, where Exhibit ONE's table of the between carries the names once.
+
+**Concern · The between's two said by a released pair.** Two sayings part. Natural Naming 2.4 has "*inside*, *outside* as places | *inward*, *outward*, directions at a momentary, and *within* at a span of names; a self is no container". Natural Intelligence 4.10 has "inside a momentary the between of self and other, parity changing, bi-moral across and co-competent along, and outside it the between of momentaries". They part at the saying of the between's two: 4.10 has the between a nothing and no location, and says its two by the pair the row releases, a momentary read as a container and the between of momentaries beyond it. Natural Intelligence 6.6 has "outward is one scale up and inward one scale down, and neither is a place". Natural Naming has the 4.10 sentence in its own voice.
+
+*Standing at v389:* carried at v389 at Natural Intelligence 4.10, "within a momentary a between of self and other, and outward of it a between of momentaries"; ready to dissolve.
+
+*Resolved at v389:* carried at Natural Intelligence 4.10 and 1.1, each from a resolution entered at v389: no inside the universe as no outside, inward and outward the directions; and nature is no existing thing, a prior, now, next method of co-existing.
+
+**Droplet · the working v383Op's words, `archive/session_v383Op/Two_Logics.md`, "The bounded context, and nature named".** **The third sentence names what the files use and name at no sentence.** *Nature* is at no place in Natural Intelligence, whose word is the prefix. Natural Naming says it six times, *Naming is nature at a concept*, *Nature carries its competency at each momentary*, and the Registry at two steps, *the society and nature's co-chaining*; none says what nature is.
+
+*Standing at v389:* carried at v389 at Natural Intelligence 1.1, "Nature is not an existing thing: nature is a prior, now, next method of co-existing"; ready to dissolve.
+
+*Resolved at v389:* carried at Natural Intelligence 4.10 and 1.1, each from a resolution entered at v389: no inside the universe as no outside, inward and outward the directions; and nature is no existing thing, a prior, now, next method of co-existing.

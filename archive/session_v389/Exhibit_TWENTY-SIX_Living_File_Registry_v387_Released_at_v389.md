@@ -1067,3 +1067,41 @@ each session opens by observing standings here, next work at carrying and the do
 Value arriving for a file is or is not living, coupling and resolving at that file; it enters whole at file's next motion or it releases.
 
 a surfacing released across and arriving back at self through society
+
+## Re-said at released words, v389
+
+**Four social faces cross these gatherings.**
+
+Four faces supply no missing fourth file
+
+Each row nevertheless carries both faces under whole fractal. Table can distinguish face its explaining foregrounds
+
+each file's particular face.**
+
+the same coupling met at both faces.
+
+Physical and biological faces of the same frontier observing.
+
+Four social faces recurring through whole form
+
+Eight faces at resolving names
+
+at doubling and going-and-returning faces
+
+Society’s four faces and impossibility statements
+
+One observing at two registry faces
+
+at their inward and across faces
+
+with all four social faces meeting there
+
+six names between selves, eight faces and ten unchangeables
+
+preserving both faces.
+
+**A concept explaining another face continues to carry value at that face.**
+
+A file met among its neighbours;
+
+its ten door lines at ten faces

@@ -1008,3 +1008,115 @@ each placed at ten through its own stated requirement.
 Scientific method is placed at its fixings:
 
 Non-living exist and change, carrying nothing, their forms continuing through their changing.
+
+## Re-said at released words, v389
+
+an other side runs 2–3 and 4–5
+
+a protocol of six connectors, bi-moral across
+
+9 and 17, along, joined both ways
+
+100 momentaries, connectors, joins and one society's joins are
+
+only through a join at 6, 10 or 9
+
+only while six connectors are resolving
+
+across, sequential faces, at four dots
+
+Natural Intelligence 4.10's flat face holds both
+
+are relations at two faces, Natural Intelligence 4.10
+
+same relation runs at each scale
+
+a whole parity succession runs.
+
+Four joint descriptions run `(+,+)
+
+Opposite parities along each joined comparison
+
+An odd closed route closes no parity, and a meeting runs round it.
+
+and a sign crossing between any two carrying nothing
+
+offering its signs and carrying nothing
+
+Continuing stable-forming runs as natural torusing
+
+fixes one face unchangeable, its other face running at the same number
+
+**An ordering chain closes at two faces.**
+
+is two faces at one number
+
+unchangeable at running of geodesic co-releasing, and continuing runs as geodesic co-releasing. Each momentary releases into its next whether a sign changed
+
+are one form at two faces, each conception
+
+tables carry both faces.
+
+Pairs (2,3) and (3,4) are overlapping neighbours,
+
+each sharing and their joins, `incoming
+
+is one of 12's two signs, 0 or ±, frozen
+
+Natural Naming 5.62: sign ±, a changing that is
+
+next existing; or sign 0, 12's 0 at a sharing
+
+five places from two faces, at pairs 2 to 6
+
+**Ten are four binaries at two faces.** Two faces a field's words name,
+
+selves in a ring release each changing along
+
+A ring each at no prior and one + offered once
+
+from a momentary numbering its ring each is at a parity; rows below are of a ring of selves each at a parity, as Exhibit ONE's table of a spiral of selves opens it, an even ring from
+
+| Selves in the ring |
+
+each self changing at each coupling, neighbours opposite;
+
+**An odd ring closes no parity, and a meeting runs round it:
+
+is an even ring, and a between fixed as a cut is a running meeting.
+
+A ring at rest, each at no prior and nothing arriving, opens nothing and stays at rest, so a ring reaching rest does not meet its offered sign again; each ring returns its whole, its offered sign with it,
+
+in rings of 1 to 11, each
+
+by a momentary numbering its ring, and across 5,000 couplings no ring meets rest
+
+A ring meets rest fixed unchangeable
+
+**Ten faces and six connectors.** Exhibit ONE's faces pair outward and inward
+
+each inward face eight up
+
+Ten faces and six connectors **2, 6, 9, 10, 14, 17** are 2 to 17
+
+2, 6, 10 and 14, a square of parity's face,
+
+a changing an unchangeable sign excludes: opposition under joint reversal, t = −c, continues while both signs invert.
+
+its face fixed unchangeable and its face running are one number.
+
+A condition lives through a running exactly when it admits each state that running meets:
+
+(−c,−t) and (−t,c) run agreeing
+
+while both its signs invert, and its overlapping
+
+(b,z) of nonzero signs carry
+
+its own next inverts both signs.
+
+6-now-co-possibling joined to an other's 2
+
+A connector's parity, a changing's
+
+It joins 0 to 1 and 1 to 2 without joining 0 to 2

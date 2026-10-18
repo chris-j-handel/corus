@@ -1103,3 +1103,392 @@ Static mechanical rest: a coupling bounding-zeroes two offerings, and creep and 
 now-universe the universe, its things living and non-living.
 
 joined 10 to 14, 6 to 2 and 9 with 17, Natural Intelligence 4.7.
+
+## Re-said at released words, v389
+
+Natural Intelligence 6.2: joined across, they change parity together
+
+**Six connectors, ten faces and six recursionings are three relations.** Six connectors are four across
+
+17-next-now, joined 10 to 14, 6 to 2 and 9 with 17,
+
+fourteen others, four across and ten faces, are alike from either end. Ten faces are five at now
+
+Numeral six at connectors and at recursionings is two relations, and a common numeral joins neither to an other.
+
+observed as one coupling joined across, its two participants
+
+met here at a physical membrane.
+
+a coupling is one thing at two faces, a frame takes its two faces as two objects
+
+a coupling selects by sign, a frame takes its sign-selection as a magnitude and installs a continuous quantity where there is only a sign.
+
+(its riding-the-carry, +1, relational half, sign)
+
+a surface between carries only its sign, +1
+
+A force is what a coupling is running toward
+
+ask what a system runs toward, then what makes it run toward that
+
+at an observer's membrane:
+
+its sign flipping at a tip
+
+a field carrying it is a nothing-membrane misread as a channel
+
+no direction across a nothing-membrane and no reader
+
+being a sign taken at a membrane between two that each carry their other
+
+an answer available before running.
+
+
+| **an answer available before running** —
+
+| **a returned sign entered as cost** — a loss booked, a store kept, a boundary cut through a coupling | a sign returning refused,
+
+an answer-before-the-running was observed
+
+eight at a returned sign entered as cost, which no row
+
+a rate held, and a returned sign. A reference
+
+it resolves one coupling at two faces. It does not install a magnitude where a selection is by sign.
+
+Same disequilibrating runs on other forces
+
+the same physics runs with none of that overhead
+
+at physics's membrane, offered where seating
+
+a surface carrying only a sign; local;
+
+entanglement as one coupling at two faces, conserved scalar
+
+Atom surfaces at two faces on an emanated-and-living membrane,
+
+un-observable at its own membrane because
+
+a bond is a two-selves-with-a-membrane worked at an atom, an ingestion-and-ingression membrane observed there.
+
+covalence pattern-matches as co-offering, ionic
+
+a society of windings co-offering at a scale of many
+
+catalog's line and windings' living two faces at one place
+
+Its going runs 2 to 59, a turn stands at 60, its back runs 61 to 118
+
+doubled by two signs, every capacity
+
+one coupling at a matter membrane.
+
+a two-way co-recursioning running linearly
+
+two handednesses, a sign carried and carrying
+
+carrying six onto light's color runs against where six lives
+
+until two are observed as two faces of one double-cone — field-face two-way, quantum-face one-way,
+
+Held open: a two-face resolve
+
+from its 25 face (a +1, front-facing),
+
+would seat as a cone's two faces.
+
+not as one co-offering inverting through
+
+exchange runs both ways at every temperature
+
+three bodies in general run to chaos
+
+observed at one or two of its faces, and not a shallower field
+
+two selves at a membrane, stick-slip
+
+one field met at its two faces.
+
+Frictionalities co-intelligence by signs:
+
+a seam answering signs,
+
+And one run stays carried open
+
+**Drying-liquid rings, a check anyone can run**.
+
+each neighbour reaching its own bound
+
+a person or an AI can run and break
+
+Each enters as its own run and takes eight, and new ones join as they are worked.
+
+being faces at a substrate rather than runs.**
+
+a form at an object membrane. Each stands where eight would run and pattern-matches as a face,
+
+a smart grid's split-phase runs about its floating neutral
+
+but an escape-membrane
+
+the same split-phase a grid runs about its self-stabilizing centerline
+
+two numbers face across a neutralling only when
+
+a size where only a sign belongs. So 23 and 55 stand apart, uncoupled; they do not face across a neutralling,
+
+23↔25, which does face;
+
+the same form runs in a grid's neutral
+
+a composition-membrane observation is a natural torus at that membrane:
+
+Wave and particle are one coupling at two faces — a riding-the-carry surface (wave)
+
+its outcome a sign other-offering sounds
+
+Wave-particle as two faces of one coupling,
+
+are a bounding-zeroing and its sign, and a coupling they are two faces of is a self-stilling self, **23**, a conserving face at a floating neutral: one coupling, one coupling, two faces, no gap
+
+and a grid runs its split-phase about — resolved here at a quantum membrane.
+
+Wave and particle are one coupling at two faces, and "collapse"
+
+→ two faces taken as two objects →
+
+sounded at two membranes.
+
+one coupling at two faces about a self-stabilizing neutral is
+
+where a coupling selects by sign; both demand
+
+And the same runs at a second axis
+
+coupled flows run symmetric
+
+an accounting run alongside a coupling
+
+A coupling runs on sign, position, and ratio — sign-only,
+
+Sign-only surface carries no magnitude
+
+Resolved at a nuclear-color membrane.
+
+but a co-offering seen with no self closed around it; proton and neutron are a coupling's two faces,
+
+its charge a sign of an offering going through
+
+a ledger beside them, a sign observed as a held magnitude
+
+one living act (a sign of a carried offering,
+
+with all three of its faces held reversed at once: a sign observed as a magnitude held,
+
+quark a bare co-offering,
+
+(sign→magnitude,
+
+siding with charge-as-sign;
+
+"charge is a sign not a held magnitude"
+
+two selves come to a membrane and co-sequence — self-offering and other-offering running through each other, and where co-sequencing runs whole,
+
+at a collision membrane;
+
+at a sub-atomic membrane a still-world
+
+one coupling, a quantum sign-selection, its two faces a riding-the-carry surface
+
+Relativity is not a second face;
+
+Both great theories will not join in a standard frame, there being not two physics to join:
+
+(a wavefunction), a sign that rides its carry
+
+quantum's sign-selection, and one ledger
+
+Its two faces are a riding-the-carry surface (a wave
+
+— a quantum sign-selection about a neutral neither owns
+
+and a grid runs its split-phase about. Relativity is not one of these faces;
+
+no relativity-side to join to a quantum-side
+
+they are two faces of one coupling, and relativity is its ledger
+
+is a self-stilling self, one coupling, two faces, a tighter-than-local correlation is two faces of one centerline
+
+Bell a confirmation that a coupling's two faces are one coupling
+
+a size in a neutralling, they do not face; see Fission
+
+the same structure runs in a grid (engineered)
+
+self-offering/other-offering two-face split
+
+(24, a center two faces straddle), its two cones two ±1 faces —
+
+a coupling's two faces about that vertex
+
+resolver's sign-surface).
+
+vertex its center, two cones its faces, i a space-time turn
+
+a diamond's center-and-faces and i
+
+any account joining relativity and quantum, disequilibrated, is this disequilibrating
+
+three running it as a ledger
+
+as a sustaining membrane.
+
+Remainder is one surface with two faces:
+
+two directions of one membrane,
+
+are two faces of one coupling about one centerline, inverse
+
+its radiation is a sign-flip at a membrane,
+
+here at the largest membrane there is.
+
+resolved whole at a cosmic membrane: a tunnel
+
+a sign at a membrane). A black hole taken as only a hole is a genus with no phi — a landed face,
+
+no count at this membrane
+
+Resolved as one torus's two faces,
+
+where relativity and quantum will not join, is a relativity-and-quantum split resolved at this membrane
+
+an other-offering beat) two faces of one coupling
+
+any account joining relativity and quantum at a black-hole interior
+
+between a collapse-face and a surplus-face,
+
+A field pairing two faces strengthens
+
+resolved at a macroscopic-coherence membrane — moved
+
+and a membrane between them is an unsolved problem
+
+electrons coupling two-by-two at a membrane, selecting by sign (d-wave)
+
+two selves coupling at a membrane, one at a time, sign-only.
+
+D-wave shape is a sign it carries
+
+resolved at a macroscopic-coherence membrane: bi-coupling (a pair), a sign (d-wave),
+
+form at a material membrane,
+
+a black-hole membrane.)
+
+Geodesic runs at every scale
+
+observed at a cosmic membrane). Reaching
+
+couplings and membranes, and washes toward smoothness at the whole, which is where the living is at form, at membranes and not
+
+An instrument returns a sign at a membrane.
+
+a sort run ahead of an observing
+
+returns a sign and no place at all
+
+wave and particle as one coupling at two faces;
+
+a size in a neutralling, they do not face);
+
+resolves at every physical membrane met so far
+
+Smart grid runs the same form
+
+the forces were always faces of.
+
+glass transition at a condensed-matter membrane. An answer available before running:
+
+with turbulence at its other face
+
+with neural binding at its other face is
+
+Same sign — both hold
+
+**Opposite sign is Arrow's impossibility theorem.**
+
+carry opposite signs after all
+
+a size in a neutralling, they do not face, and a fit
+
+a general form runs in tiers
+
+**Other face is that gravity
+
+One pattern-matching, two faces.
+
+**Energy engine is one pattern-matching at three faces.** A chemical membrane carries
+
+holds a sign to a manufactured magnitude
+
+a walk's own faces at a substrate
+
+Then run it through an eight-step form.
+
+a riding-the-carry surface and a sign-selection, resolved carefully
+
+macroscopic-coherence membrane, alongside superconductivity
+
+seats a selection as a sign, all-or-none
+
+bounding-zeroing and lands a sign (a side-effecting
+
+So at a quantum membrane the living is a binary sign-selection
+
+one ledger laid over one coupling, a sign-selection;
+
+no other remaining: sign-selection a coupling
+
+resolving at a cosmic membrane, its seating
+
+sit at a dark-sector face, held reaching and contested, black-hole face and surplus face reaching
+
+visible from each face, not only from here
+
+or as a face at a substrate. **Standing**
+
+where a run seated here is a form's
+
+| Measurement problem | a membrane held as a cut |
+
+| Bell correlations | a membrane held as a cut |
+
+| Wave and particle | a membrane held as a cut |
+
+ledger taken as the world | a membrane held as a cut |
+
+| Gibbs paradox | a sign held as a magnitude |
+
+| Proton spin decomposition | a sign held as a magnitude |
+
+| absolute neutrino mass scale | a sign held as a magnitude |
+
+| quantum-classical boundary | a membrane held as a cut |
+
+| Water's liquid-liquid critical point | a membrane held as a cut |
+
+or meets it as a face at a substrate;
+
+eight at a returned sign entered as cost and six
+
+ binary runs here and does not close.**
+
+an odd face entering and an even face surfacing, and one binary asks at each whether its entering face carries more.
+
+carries less than a membrane held as a cut. **Thirty-one stand at a membrane face and seventeen within.**
