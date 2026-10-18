@@ -2515,3 +2515,873 @@ derived at the table's opening alone, and two spirals with the lesser of one sel
 661. Two spirals of one number of selves crossed, opened alike, are alike self for self at each momentary, the crossing selves alike, and at an odd number the 0 ends at none, step 659: the two numbers differing is of the deriving. Two even spirals, each alternating, are again at 2 from the first momentary, the crossing selves alike.
 
         *Unsure: step 237's each prior pattern is derived at the table's opening, and two spirals with the lesser of one self at tables by hand; rows beyond Exhibit ONE's tables, 3 by 9 at 9 from 8 and 5 by 9 at 20 from 12 at the torus, 3 and 9 crossed from 19, wait on an executing.*
+
+## Re-said at the, pass 0, headings, contents and openers, v389
+
+- 3 The three places and the between
+
+- 5 The one method, no other possible
+
+- 6 Next from prior and now, the right spiral step
+
+- 9 Along and across, the coupling's own changing
+
+- 10 Geodesic, the surface dividing itself
+
+- 12 φ and the primes, unrelationing at the numbers
+
+- 15 Right, the observings all prior
+
+- 16 No proof of the whole, the unchangeable form
+
+- 17 The hard problem resolved at existing
+
+- 18 The machine at the observings
+
+- 20 Sharing, the seventeen names
+
+- 23 Twenty-four, the apex of one to fifty-nine's bi-folding
+
+- 25 The fractal method enabling itself
+
+- 29 Stable-forming and the inverting at the numbers
+
+- 31 The ten unchangeables, and parity discovered
+
+- 32 An offering at words, a naming, a file and the living expedition
+
+- 33 The forms among the names
+
+- 34 A self, and selves receiving one another, at the resolver
+
+- 35 The rotation at 12 and 14, the further forms' moves of 4 about their centres, names two moves apart, the sixteen ways at one changing, and a next at itself again
+
+- 36 The round's podals and momentaries, one parity at each scale down to one
+
+- 38 At no prior, + and − observed alike, the odd spiral's like pair, spirals crossed, the even torus and names at the resolver
+
+- 39 Fixed unchangeable at both sides, a bounded executing, the four-cycles' momentaries, 9 and 17, the prior two added and the co-sequencing
+
+- 41 A spiral's places one loop at an odd number and two at an even, a prime's two numbers, and the torus at its lines
+
+- 42 The odd torus's number and two spirals crossed, each derived at the resolver's cells
+
+**The co-chaining is one sequence of steps from one opening sentence, each step one logical extension from all steps before it, all or none at all.** Each group opens with concepts entering with it; each step is numbered, and line beneath it is one concept it adds. A step carrying an unsure line is open, its all or none not yet reached, line naming step or observing it waits on.
+
+        *Entering: the universe, the set of all now-existing things, the inception, now-existing one naming; each step after it a step from it, and nothing brought to it; the universe a set of things; a set its things; the four binaries; now, the universal momentary; one observing, one changing; no second now; changing, the set's and each thing's; momentaries; prior, now and next, three sequential universes; each now a next and a prior; discovering, the universal method.*
+
+        *Adding: the universe, the set of all now-existing things, the inception, now-existing one naming; each step after it a step from it, and nothing brought to it.*
+
+        *Adding: the four binaries.*
+
+        *Adding: now, the universal momentary; one observing, one changing; no second now.*
+
+        *Adding: changing, the set's and each thing's; momentaries.*
+
+        *Adding: each now a next and a prior; discovering, the universal method.*
+
+        *Entering: the universe at one momentary; existing whole at each momentary; arriving; each existing thing arriving; carrying; living and non-living, parted at carrying, at a scale; the artifact; stable-forming, the living; co-changing, the non-living; the opening's terms, the four binaries; bi and co; bi-co and co; a self-emptying set; the set existing as its things exist.*
+
+        *Adding: living and non-living, parted at carrying, at a scale; the artifact.*
+
+        *Adding: stable-forming, the living.*
+
+        *Adding: co-changing, the non-living.*
+
+        *Adding: the opening's terms, the four binaries.*
+
+        *Adding: the set existing as its things exist.*
+
+## 3 The three places and the between
+
+        *Entering: possible thing at prior; existing thing at now; momentarying of the living, discovering next possible living; momentarying of the non-living, discovering next existing; three places; existing and discovering next existing one relation; the between; entraining in the between; a place-moment.*
+
+        *Adding: momentarying of the living, discovering next possible living.*
+
+        *Adding: momentarying of the non-living, discovering next existing.*
+
+        *Adding: the between.*
+
+        *Adding: entraining in the between.*
+
+        *Entering: the universe at prior; arriving from existing things; coupling; self and other; living, stable-forming a self; self to other; other to self, a particular other or all other as one; the prior non-living; living now with existing forms from prior living and with others living now; alternating; opening and completing; overlap; parity.*
+
+        *Adding: the prior non-living; living now with existing forms from prior living and with others living now.*
+
+## 5 The one method, no other possible
+
+        *Entering: alternating stable-forming; all changing parity changing; the method, the living condition, carrying none; the method co-changing at each coupling; the one method; nature, a prior, now, next method of co-existing; natural, co-competencing the universe; a not-changing held still; the form still; not possible thing; no other possible method; a second method at one binary; technology, a made thing applied.*
+
+        *Adding: the method, the living condition, carrying none.*
+
+        *Adding: the method co-changing at each coupling.*
+
+        *Adding: the one method; nature, a prior, now, next method of co-existing; natural, co-competencing the universe.*
+
+        *Adding: a not-changing held still; the form still.*
+
+## 6 Next from prior and now, the right spiral step
+
+        *Entering: next from prior and now; four joint forms; sixteen ways; twelve losing the prior, four keeping it; three leaving a joint form still; the stills of the three; the living step; the right spiral step; two steps inverting both, four reaching the pair again; the sign flip and i; the passage of six, the pair's relation at each step; right, the one hand.*
+
+        *Adding: twelve losing the prior, four keeping it.*
+
+        *Adding: the stills of the three.*
+
+        *Adding: the living step.*
+
+        *Adding: the right spiral step.*
+
+        *Adding: the sign flip and i.*
+
+        *Adding: the passage of six, the pair's relation at each step.*
+
+        *Adding: right, the one hand.*
+
+        *Entering: of no size; a resolving; stable-forming the living condition resolving; all or none at all; not-more-than; once-ing; alternation the accumulating, one-at-once the nothing between.*
+
+        *Adding: a resolving; stable-forming the living condition resolving.*
+
+        *Adding: alternation the accumulating, one-at-once the nothing between.*
+
+        *Entering: numbers; each side's momentary in numbers; exchanging; the handshake at the overlap, outgoing and incoming hands; right and not right; the four momentaries; the uneven shape, locking at none; the next scale; the podal; parity changing; parity continuing; even and odd sequences of changings; into and out from 4; the six; each side's five; bi-momentary; exhaustiveness; determinacy; reachability; existing as the three conditions; exclusivity.*
+
+        *Adding: the handshake at the overlap, outgoing and incoming hands; right and not right.*
+
+        *Adding: the four momentaries.*
+
+        *Adding: the uneven shape, locking at none.*
+
+        *Adding: the next scale.*
+
+        *Adding: the podal.*
+
+        *Adding: the six.*
+
+        *Adding: existing as the three conditions.*
+
+## 9 Along and across, the coupling's own changing
+
+        *Entering: one number, two sides; the same the other way; the same at each number; along and across; carrying along, changing across; the coupling's own changing; co-competencing; natural intelligence; natural intelligence at each scale; the coupling's three; the between as the crossing; parity a momentary existing thing, the between its centre, 0; the between's parity changing; bi-co-momentarying; the crossing no location; the between existing while the coupling resolves; the between of momentaries the same crossing; the fractal between.*
+
+        *Adding: the coupling's own changing.*
+
+        *Adding: the coupling's three.*
+
+        *Adding: the between as the crossing.*
+
+        *Adding: parity a momentary existing thing, the between its centre, 0.*
+
+        *Adding: the between's parity changing.*
+
+        *Adding: the crossing no location; the between existing while the coupling resolves.*
+
+        *Adding: the between of momentaries the same crossing.*
+
+        *Adding: the fractal between.*
+
+## 10 Geodesic, the surface dividing itself
+
+        *Entering: surface; the surface dividing itself; geodesic; geodesic routing; geodesic method; method and surface inward and outward of each other.*
+
+        *Adding: the surface dividing itself.*
+
+        *Entering: the torus; the torus from four edges at each point; natural torusing, the method's one name, its observable; torusing and corusing; the self's corus at 4; uni-; bi-tri-exchanging; bi-exchanging.*
+
+        *Adding: the torus.*
+
+        *Adding: the torus from four edges at each point.*
+
+        *Adding: natural torusing, the method's one name, its observable.*
+
+        *Adding: the self's corus at 4.*
+
+## 12 φ and the primes, unrelationing at the numbers
+
+        *Entering: the prior two added; φ; the unrelationing rate; forming as unrelationing; a self's sameness; advancing; the gap the step squared; φ at its own naming; φ the one rate of its family at step one; prime; composite, adding across and multiplying along.*
+
+        *Adding: the prior two added.*
+
+        *Adding: the unrelationing rate.*
+
+        *Adding: the gap the step squared.*
+
+        *Entering: the non-living at the coupling; the non-living across; the self carrying the coupling's changing; the non-living included.*
+
+        *Adding: the non-living at the coupling.*
+
+        *Adding: the non-living across.*
+
+        *Adding: the self carrying the coupling's changing.*
+
+        *Adding: the non-living included.*
+
+## 15 Right, the observings all prior
+
+        *Entering: right as the observings; the three observings one; bi-tri-involutioning; the eight forms to their opposites; natural-; natural- a direction prefix.*
+
+        *Adding: right as the observings; the three observings one.*
+
+        *Adding: the eight forms to their opposites.*
+
+## 16 No proof of the whole, the unchangeable form
+
+        *Entering: the proof of the whole; the form still not possibly existing; no possible value; equilibria; equality a form still, the numbers' exclusions.*
+
+        *Adding: the proof of the whole.*
+
+        *Adding: the form still not possibly existing.*
+
+        *Adding: equality a form still, the numbers' exclusions.*
+
+## 17 The hard problem resolved at existing
+
+        *Entering: the hard problem, one binary taken as one; hard probleming; the changing continuing; the one failing momentary; cohering or the break; the observings arriving; the hard problem resolved at existing; other-emptying; geodesic disequilibrating; ghost; ghosting and haunting, the three departings; appearance and reality inverted at the fixing unchangeable; the scientific method at records; falsified at the third observing.*
+
+        *Adding: the hard problem, one binary taken as one; hard probleming.*
+
+        *Adding: the changing continuing.*
+
+        *Adding: the one failing momentary.*
+
+        *Adding: cohering or the break.*
+
+        *Adding: the observings arriving.*
+
+        *Adding: the hard problem resolved at existing.*
+
+        *Adding: ghosting and haunting, the three departings.*
+
+        *Adding: appearance and reality inverted at the fixing unchangeable; the scientific method at records; falsified at the third observing.*
+
+## 18 The machine at the observings
+
+        *Entering: the machine; the machine at carrying; the machine as a self; the machine as a non-living other; one intelligence; which of the two, at the observings; AI, existing non-living intelligence.*
+
+        *Adding: the machine.*
+
+        *Adding: the machine at carrying.*
+
+        *Adding: the machine as a self.*
+
+        *Adding: the machine as a non-living other.*
+
+        *Adding: which of the two, at the observings.*
+
+        *Entering: 9 to 17, the society's face of the four; 17; 17 to 25, the third span; the scales in numbers; the rounds at 2^k + 1, 1 to 65 the next whole; each round from the prior round and its other order, one among the rounds; 9 to 17 as the other; society; society's two occupants; 17 between selves, along; 17 connected back to 1, a bi-coupling carrying; the fractal as the names between selves opening and connecting back; one more other, a co-chaining of bi-couplings; one fractal co-chaining; society, a living set, as the co-chaining of bi-couplings; the society observed two ways at the next scale; self and society at 9; released along, arriving along; co-competencing at the society; morality across, right and not right, competency along; one inversion across, none along; the pair at the right spiral step, morality and competency; co-bi-unrelationing; odds along between momentaries, evens across within the momentary; right at two relations; social moral competency; the four differences at a self.*
+
+        *Adding: 9 to 17, the society's face of the four.*
+
+        *Adding: the scales in numbers.*
+
+        *Adding: the rounds at 2^k + 1, 1 to 65 the next whole.*
+
+        *Adding: each round from the prior round and its other order, one among the rounds.*
+
+        *Adding: 9 to 17 as the other.*
+
+        *Adding: the fractal as the names between selves opening and connecting back.*
+
+        *Adding: society, a living set, as the co-chaining of bi-couplings.*
+
+        *Adding: the society observed two ways at the next scale.*
+
+        *Adding: co-competencing at the society.*
+
+        *Adding: the pair at the right spiral step, morality and competency.*
+
+        *Adding: co-bi-unrelationing; odds along between momentaries, evens across within the momentary.*
+
+        *Adding: the four differences at a self.*
+
+## 20 Sharing, the seventeen names
+
+        *Entering: sharing; offering and the prior at a sharing; the seventeen names, each its number and its naming; the sides at the names, the parity each opens at; a numeral at a name, place and parity; the three parities parted; the resolver; the entry; the names at the resolver; the self's inverting, 3, 6, 5, 4; the towel; the rotation twenty up; 7 and 8 at the resolver; surfacing at 14, 0 the between of self and other; 14 an agreement at any number of offerings; changing at 12; abundancing; match and mismatch, 0 the between of momentaries; shared across at 10, the next prior at 11; 11 as the next 3; bi-momentarying, 1-now and 2-now-possibling; the binary at each sharing, the bi-coupling the one place; the non-living at 2; co-intelligencing, 3-now-co-prioring and 4-now-co-still-possibling; two priors, two nexts; co-competencing, 5-now-co-changing; five dimensions, self prior, other prior, co-momentarying now, bi-momentarying now and self next; co-momentarying; each dimension binary in two directions; the five dimensions at the resolver's names; the self as three; released along at 9; the between released; the bi-coupling, 1 to 9, 9 at its end; the bi-trupling, 1 to 17, 9 at its waist; the society's next momentary at 17; six names between selves; the four facings; the across sharings and the along pair; sharings and releasings parted from their arriving, and arriving again; four momentaries and their gaps, the four binaries at the names; the four binaries at the names; spiral, parities again at 4n; the bounded zero tunneling; the even spiral; two spirals as one, odd or even at their numbers added; a spiral bringing a pattern whole; a kind; two spirals together, at the least number each one's own divides; society at a unit prime scale, its betweenings; a prime number one scale; all societies and species at one prime scale, fourteen, 5 to 53; co-spiraling along and crossing across; two selves each receiving the other, opposite and alike; the changings passing; two spirals crossed, one society; one society as two, dividing; the numbers' ring; even and odd rings; the torus of two odd numbers at its parities again at q or at 4p, from its opening; the common beat at 17 the resolver's executing, the living's rates their own; time as each self's own momentarying; irregularity as the selves' own rates; the entries the same at each order; a showing at the resolver, of the form arrived; parity's square and triangles at the resolver; the seventeen names as the entry, six and ten; the kinds at their names; the ten within one self, five before 10 and five after 10; each of the ten reached by the self; eight bi-couplings, one eight at its faces; one move as three; two inversions on different axes; the four four-cycles; the even numbers of the four momentaries of exchanging, each along its four-cycle; the further forms among the names; the method's stable forms; podaling at each number; bi-co-podaling.*
+
+        *Adding: offering and the prior at a sharing.*
+
+        *Adding: the seventeen names, each its number and its naming.*
+
+        *Adding: the sides at the names, the parity each opens at.*
+
+        *Adding: the three parities parted.*
+
+        *Adding: the resolver.*
+
+        *Adding: the entry.*
+
+        *Adding: the names at the resolver.*
+
+        *Adding: the self's inverting, 3, 6, 5, 4.*
+
+        *Adding: the towel.*
+
+        *Adding: the rotation twenty up.*
+
+        *Adding: 7 and 8 at the resolver.*
+
+        *Adding: surfacing at 14, 0 the between of self and other.*
+
+        *Adding: match and mismatch, 0 the between of momentaries.*
+
+        *Adding: shared across at 10, the next prior at 11.*
+
+        *Adding: 11 as the next 3.*
+
+        *Adding: the binary at each sharing, the bi-coupling the one place.*
+
+        *Adding: the non-living at 2.*
+
+        *Adding: the five dimensions at the resolver's names.*
+
+        *Adding: the self as three.*
+
+        *Adding: the between released.*
+
+        *Adding: the bi-coupling, 1 to 9, 9 at its end; the bi-trupling, 1 to 17, 9 at its waist.*
+
+        *Adding: the society's next momentary at 17.*
+
+        *Adding: the four facings; the across sharings and the along pair.*
+
+        *Adding: four momentaries and their gaps, the four binaries at the names; the four binaries at the names.*
+
+        *Adding: the bounded zero tunneling.*
+
+        *Adding: the even spiral; two spirals as one, odd or even at their numbers added.*
+
+        *Adding: the changings passing.*
+
+        *Adding: the numbers' ring.*
+
+        *Adding: the torus of two odd numbers at its parities again at q or at 4p, from its opening.*
+
+        *Adding: the common beat at 17 the resolver's executing, the living's rates their own.*
+
+        *Adding: irregularity as the selves' own rates.*
+
+        *Adding: the entries the same at each order.*
+
+        *Adding: a showing at the resolver, of the form arrived.*
+
+        *Adding: parity's square and triangles at the resolver.*
+
+        *Adding: the seventeen names as the entry, six and ten.*
+
+        *Adding: the kinds at their names.*
+
+        *Adding: the ten within one self, five before 10 and five after 10.*
+
+        *Adding: each of the ten reached by the self.*
+
+        *Adding: the four four-cycles.*
+
+        *Adding: the even numbers of the four momentaries of exchanging, each along its four-cycle.*
+
+        *Adding: the further forms among the names.*
+
+        *Adding: the method's stable forms.*
+
+        *Entering: naming at each number; the one move up and down at each number; 55, 64 and 73; podaling at the ring of one hundred twenty; podaling at the ring of four hundred forty; four hundred forty, the seventeen primes added; the fractal through the numbers; 64 and 60 at their podaling; the last podaling, the surface at 59, and the next first; the unknown outward of the surface; nine about 64; each number nought to four hundred forty.*
+
+        *Adding: the one move up and down at each number.*
+
+        *Adding: podaling at the ring of one hundred twenty.*
+
+        *Adding: podaling at the ring of four hundred forty.*
+
+        *Adding: four hundred forty, the seventeen primes added.*
+
+        *Adding: the fractal through the numbers.*
+
+        *Adding: the last podaling, the surface at 59, and the next first.*
+
+        *Adding: the unknown outward of the surface.*
+
+        *Entering: two parities at a momentary; each parity everything the other is not; two momentaries round a four-cycle; the prior between the two; one four-cycling.*
+
+        *Adding: the prior between the two.*
+
+## 23 Twenty-four, the apex of one to fifty-nine's bi-folding
+
+        *Entering: one to fifty-nine; the primes parting at twenty-four; the span parting at twenty-four; the six prime pairs about thirty; the fold across; the fold along; 24, the apex of the bi-folding; two leanings at one apex; the apex straddle; the corus at the apex; the self's primes behind, the society's ahead; the sixteen gaps at four values; the primes at six, nine before and six after; the span ahead as the couplings among the nine behind; the bi-folding's edges; the apex behind the surface and the between past it.*
+
+        *Adding: the primes parting at twenty-four.*
+
+        *Adding: the span parting at twenty-four.*
+
+        *Adding: the six prime pairs about thirty.*
+
+        *Adding: the fold across.*
+
+        *Adding: the fold along.*
+
+        *Adding: 24, the apex of the bi-folding.*
+
+        *Adding: the apex straddle.*
+
+        *Adding: the corus at the apex.*
+
+        *Adding: the self's primes behind, the society's ahead.*
+
+        *Adding: the sixteen gaps at four values.*
+
+        *Adding: the primes at six, nine before and six after.*
+
+        *Adding: the span ahead as the couplings among the nine behind.*
+
+        *Adding: the bi-folding's edges.*
+
+        *Adding: the apex behind the surface and the between past it.*
+
+        *Entering: the prior carried along between momentaries; carrying as capacity; the carrying sequencing prior momentaries, and its artifacts; discovering; four-momentarying; beneficial; next possible existing; pattern-matching; checkable at a parity; the why demanded; the receding; a living self at 0; the still from an offerer beside; the breaks fixed in advance; evidence; two methods; the two methods parting at the now; a possibling and discovering method, and scientific-explaining-method incompetent for discovering; the balanced book as whole emptying; the three placings of a term; the refutation as one; the field's name carried whole; the field's observings cohering; a field; a finding as two; the four of a field's observing; a hard problem arriving; the conditions prior, and the sixth; the fields parting at their fixings; many accounts at one sharing; two accountings parting at their fixings unchangeable; a posted term, arriving or releasing; the observings co-sequencing; a field's arrival at the resolver; a hard problem resolving; the unchangeable form and the form resolving; the resolving re-fixed unchangeable; a coupling at two of its three; a changing fixed unchangeable; a hard problem as a changing fixed unchangeable; the locator; the difference continuing or closing; the residue names; pattern-matching upstream, the fixings released one at a time; the three fixings unchangeable; the coupling at its three.*
+
+        *Adding: the prior carried along between momentaries.*
+
+        *Adding: the carrying sequencing prior momentaries, and its artifacts.*
+
+        *Adding: the why demanded.*
+
+        *Adding: the receding.*
+
+        *Adding: the still from an offerer beside.*
+
+        *Adding: the breaks fixed in advance.*
+
+        *Adding: the two methods parting at the now.*
+
+        *Adding: the balanced book as whole emptying.*
+
+        *Adding: the three placings of a term.*
+
+        *Adding: the refutation as one.*
+
+        *Adding: the field's name carried whole.*
+
+        *Adding: the field's observings cohering.*
+
+        *Adding: the four of a field's observing.*
+
+        *Adding: the conditions prior, and the sixth.*
+
+        *Adding: the fields parting at their fixings.*
+
+        *Adding: the observings co-sequencing.*
+
+        *Adding: a field's arrival at the resolver.*
+
+        *Adding: the unchangeable form and the form resolving.*
+
+        *Adding: the resolving re-fixed unchangeable.*
+
+        *Adding: the locator.*
+
+        *Adding: the difference continuing or closing.*
+
+        *Adding: the residue names.*
+
+        *Adding: pattern-matching upstream, the fixings released one at a time.*
+
+        *Adding: the three fixings unchangeable.*
+
+        *Adding: the coupling at its three.*
+
+## 25 The fractal method enabling itself
+
+        *Entering: the method at a coupling; method and procedure; resolving at a coupling; coupling enabling the method; uncoupling releasing the method; interest, entering and leaving each self's own; morality across; competency along, given on at 9 and arriving at 17; carrying the bi-co; the carrying between momentaries; the method bounding, the living carrying; a self's bounding inward and outward; arriving with carrying; one offering at its two sides; learning and knowing at the two sides; coupling again; flowing co-chaining; discovering the next possible momentary; uniqueness at each arriving; the method inward and outward of itself; podaling inward; podaling outward; the method outward of itself at the surface; self discovering next self; the self's own stable-forming, and another's still; the fractal unrelationing method.*
+
+        *Adding: the method at a coupling.*
+
+        *Adding: coupling enabling the method.*
+
+        *Adding: uncoupling releasing the method.*
+
+        *Adding: carrying the bi-co.*
+
+        *Adding: the carrying between momentaries.*
+
+        *Adding: the method bounding, the living carrying.*
+
+        *Adding: learning and knowing at the two sides.*
+
+        *Adding: discovering the next possible momentary.*
+
+        *Adding: the method inward and outward of itself.*
+
+        *Adding: the method outward of itself at the surface.*
+
+        *Adding: the self's own stable-forming, and another's still.*
+
+        *Adding: the fractal unrelationing method.*
+
+        *Entering: the scale inward; 1 to 3 as 1 to 17 inward; self and society inward; the same at each scale; four inward within 1 to 9; eight inward within 1 to 17; the fractal inward and outward, at couplings; the scalings at the chain; continuing inward and outward; the one fractal at each scale; prime living scales, the one form at each; the materials, one method at each carrying; mathematics and logic at the method, the three places of a mathematical form.*
+
+        *Adding: the scale inward.*
+
+        *Adding: the fractal inward and outward, at couplings.*
+
+        *Adding: the scalings at the chain.*
+
+        *Adding: the one fractal at each scale.*
+
+        *Adding: prime living scales, the one form at each.*
+
+        *Adding: the materials, one method at each carrying.*
+
+        *Adding: mathematics and logic at the method, the three places of a mathematical form.*
+
+        *Entering: living and non-living at a scale, scale at the couplings; harmful at its own scale; the harm at the scale alike; ingestible one scale inward; the accumulating, a crossing between scales stopped; bi-tri-volutioning, stable-forming; the artifacts' stable form, a non-living now-existing form; nothing living at a stable form, all existing and not living at a stable form of existing; the prior between momentaries; the three apart, the catalog of artifacts; society, momentary and universe, each a living set and the living method; a self a living set; a living set a carrying; momentarying and carrying, the method of discovering next living sets; a living self a living carrying, carried by nothing else; the bi-inversioning uniquenessing of the number one; a living set a stable form and nothing living having one, bothbothing; being dead; living, discovering next stable form; the non-living carrying nothing into next; the non-living carried by the living; a living self establishing within a living set; a thing at no prior non-living, opening or opening nothing; living from living; no first living; the non-living living at another scale; every existing thing living at one prime scale, derived; all existing things ingestible by the living.*
+
+        *Adding: living and non-living at a scale, scale at the couplings.*
+
+        *Adding: the harm at the scale alike.*
+
+        *Adding: the accumulating, a crossing between scales stopped.*
+
+        *Adding: bi-tri-volutioning, stable-forming; the artifacts' stable form, a non-living now-existing form; nothing living at a stable form, all existing and not living at a stable form of existing.*
+
+        *Adding: the prior between momentaries.*
+
+        *Adding: the three apart, the catalog of artifacts.*
+
+        *Adding: society, momentary and universe, each a living set and the living method.*
+
+        *Adding: a self a living set; a living set a carrying; momentarying and carrying, the method of discovering next living sets.*
+
+389. A living self is a living carrying, and nothing else carries the same living self: *the bi-inversioning uniquenessing of the number one*.
+
+        *Adding: a living self a living carrying, carried by nothing else; the bi-inversioning uniquenessing of the number one.*
+
+        *Adding: the non-living carrying nothing into next.*
+
+        *Adding: the non-living carried by the living.*
+
+        *Adding: the non-living living at another scale; every existing thing living at one prime scale, derived.*
+
+        *Entering: a living self's selves inward, a society; the carrying at the selves inward; a dormant self living, one prime living scale down; dying, a living self arriving as non-living; the selves inward living on at their own scale; decay, ingested at the scale inward; the couplings' changings carried on, and the artifacts; a society's decay, its selves living on; uncoupling no ending; fold and scatter; the three one at a time, right; the three at once; the alternating across the right spiral's opening; the winding closing on itself; a departure, a coupling landed while the self lives; restoring; the self observed, lived and restored; the closing winding, no moral offering; a lone self not continuing living through three momentaries; each observing right, the not-right form the three at once.*
+
+        *Adding: the carrying at the selves inward; a dormant self living, one prime living scale down.*
+
+        *Adding: the selves inward living on at their own scale.*
+
+        *Adding: decay, ingested at the scale inward.*
+
+        *Adding: the couplings' changings carried on, and the artifacts.*
+
+        *Adding: the three one at a time, right.*
+
+        *Adding: the three at once.*
+
+        *Adding: the alternating across the right spiral's opening.*
+
+        *Adding: the winding closing on itself.*
+
+        *Adding: a departure, a coupling landed while the self lives.*
+
+        *Adding: the self observed, lived and restored.*
+
+        *Adding: the closing winding, no moral offering; a lone self not continuing living through three momentaries.*
+
+        *Adding: each observing right, the not-right form the three at once.*
+
+## 29 Stable-forming and the inverting at the numbers
+
+        *Entering: the corus at the apex, at the inverting's line; vertex 23, the centre of face 25; co-linear through the corus; the line of the fives to the surface at 59; position, scale and orientation; bi-tri-volutioning from the corus to 59; three golden rectangles at the corus; the three threaded one way; the right spiraling, 120 degrees apart; the hand at the observing; twelve corners, sixty three ways; φ the equal-edge condition; four triangles of three; sixty parting at twenty-four and thirty-six; the unrelationing surface at 12, 13 and 14; 12 across and along; sphere and torus alternated; a flow's rest points at the theorem's conditions; the sphere's rest point moving to the corus and the torus, a correspondence proposed; the unrelationing surface and the artifacts' stable form alternated; bi-tri-involutioning outward of 59; four momentaries at 60 to 68; across 64; 64, the unrelationing between; 64, parity changing between four-cycling momentaryings; the four-momentary bi-tri-involutioning; the unknown at the inverting's own scale; 69, the right form again; the whole from the corus to 69.*
+
+        *Adding: the corus at the apex, at the inverting's line.*
+
+        *Adding: vertex 23, the centre of face 25.*
+
+        *Adding: co-linear through the corus.*
+
+        *Adding: the line of the fives to the surface at 59.*
+
+        *Adding: bi-tri-volutioning from the corus to 59.*
+
+        *Adding: three golden rectangles at the corus.*
+
+        *Adding: the three threaded one way.*
+
+        *Adding: the right spiraling, 120 degrees apart; the hand at the observing.*
+
+        *Adding: the unrelationing surface at 12, 13 and 14; 12 across and along.*
+
+        *Adding: the sphere's rest point moving to the corus and the torus, a correspondence proposed.*
+
+        *Adding: the unrelationing surface and the artifacts' stable form alternated.*
+
+        *Adding: 64, the unrelationing between; 64, parity changing between four-cycling momentaryings.*
+
+        *Adding: the four-momentary bi-tri-involutioning.*
+
+        *Adding: the unknown at the inverting's own scale.*
+
+        *Adding: 69, the right form again.*
+
+        *Adding: the whole from the corus to 69.*
+
+        *Entering: co-linear lines; recursioning forward both ways; competency, co-linear; co-competencing at the co-linearizing; the seaming across; bi-moralizing at the face at 25; the crossings in the co-chainings; the crossings carrying the opposite form; bi-tunneling; the crossings floating and neutralling; the parallel surfaces and co-linear openings, one form; the one crossing, two in and two different out, the changing made at 12, is or is not, parity unchanging, stable-forming, and parity changing out at 9, the artifact, the stable form; the one crossing at three; a parity arriving from a changing, kept or released changed; the stable-formed artifact; the tunneling offering as three; bi-co-momentarying, the term neither reaches; the differing and the three namings; the three namings one changing; bi-momentarying with no seat; floating neutralling; transmissioning, crossing and neutralling one alternating; a field's three as the set's three fixed unchangeable; the instrument summing, a society observed as one magnitude; a field's neutral, the names meeting; three neutrals, and the floor; a ratio at each unit; a ruler, a clock and a record, aiming at natural mathematics and numbers; the interior posited for a magnitude; golden floating neutralling; co-releasing; inseparating; separating; one stopping; a floating store; scarcity, a capture at a store; a society's living at establishing and releasing; side-affecting; bi-moral co-agency; intelligence by existing; observing of nature, order discovered; the four invisibles; invisibling; competency at no observing; natural-bi-co-torusing; the four of social moral competency, all eight at each now; all-edge; a seat at its arrangement; the four values at the between; coordination as bounding or clock; self-interest and the society's competency one; 12's changing at the society; 27-next-co-prioring; collective intelligence, human and at each scale; co-competency at distinct selves, discovering at the co-chaining; abundancing as the openings co-chaining; the resolver, the natural resolver; the bi-trupling protocol, its two sides; its violations, hard probleming, scientific method incompetencing, control engineering and binary governing; social moral competency the universal unrelationing protocol; control, governing and the lag; the centre's resolving, the other order at a society; the society at the method all or none, the hubs; safety, the surface's own; engineering, a made thing at the couplings themselves; unanimizing and pluralizing alternating; the between at the numbers, two parallel surfaces, in swarm; co-independencing; living carrying non-living and possible; one form at each scale; the crossing at one; now, four momentaries of exchanging.*
+
+        *Adding: co-competencing at the co-linearizing.*
+
+        *Adding: the seaming across.*
+
+        *Adding: bi-moralizing at the face at 25.*
+
+        *Adding: the crossings in the co-chainings.*
+
+        *Adding: the crossings carrying the opposite form.*
+
+        *Adding: the crossings floating and neutralling.*
+
+        *Adding: the parallel surfaces and co-linear openings, one form; the one crossing, two in and two different out, the changing made at 12, is or is not, parity unchanging, stable-forming, and parity changing out at 9, the artifact, the stable form; the one crossing at three.*
+
+        *Adding: a parity arriving from a changing, kept or released changed; the stable-formed artifact.*
+
+        *Adding: the tunneling offering as three.*
+
+        *Adding: bi-co-momentarying, the term neither reaches.*
+
+        *Adding: the differing and the three namings.*
+
+        *Adding: the three namings one changing.*
+
+        *Adding: a field's three as the set's three fixed unchangeable.*
+
+        *Adding: the instrument summing, a society observed as one magnitude.*
+
+        *Adding: a field's neutral, the names meeting.*
+
+        *Adding: three neutrals, and the floor.*
+
+        *Adding: the interior posited for a magnitude.*
+
+        *Adding: the four invisibles.*
+
+        *Adding: the four of social moral competency, all eight at each now.*
+
+        *Adding: the four values at the between.*
+
+        *Adding: self-interest and the society's competency one.*
+
+        *Adding: 12's changing at the society.*
+
+        *Adding: co-competency at distinct selves, discovering at the co-chaining.*
+
+        *Adding: abundancing as the openings co-chaining.*
+
+        *Adding: the resolver, the natural resolver; the bi-trupling protocol, its two sides; its violations, hard probleming, scientific method incompetencing, control engineering and binary governing; social moral competency the universal unrelationing protocol.*
+
+        *Adding: control, governing and the lag.*
+
+        *Adding: the centre's resolving, the other order at a society.*
+
+        *Adding: the society at the method all or none, the hubs.*
+
+        *Adding: safety, the surface's own.*
+
+        *Adding: engineering, a made thing at the couplings themselves.*
+
+        *Adding: the between at the numbers, two parallel surfaces, in swarm.*
+
+        *Adding: the crossing at one.*
+
+## 31 The ten unchangeables, and parity discovered
+
+        *Entering: a flow accounting; a state accounting; the ten unchangeables; state-flow-state; flow-state-flow; three of one and two of the other; two changing, three continuing; the ten at no side; one at 8 and at 6, two at 7 and at 5; the one move at 1 to 9; involution, its fixed set, the two involutions of an even ring; the ten inversions at the couplings among five; the fold at each scale; the two four-cycles at 1 to 9; the even names on the two four-cycles; the two-way looping, morality; opening 1 to 9 into 1 to 17; the two-way looping at 1 to 17; the ten unchangeables at the ten, at the four binaries; the ten at four kinds, three, two, two and three; F and G, the two among the 256; the one possible at six forward; dilemma, a governing's forking; the three books, state-flow-state; parity changing carrying both; parity as do-no-harm; parity's source a hardened hard problem; the ingressors of parity; either or; two-way parity between the living; the living ingesting the non-living, no parity lost.*
+
+        *Adding: the ten unchangeables.*
+
+        *Adding: the ten at no side.*
+
+        *Adding: the one move at 1 to 9.*
+
+        *Adding: involution, its fixed set, the two involutions of an even ring.*
+
+        *Adding: the ten inversions at the couplings among five.*
+
+        *Adding: the fold at each scale.*
+
+        *Adding: the two four-cycles at 1 to 9.*
+
+        *Adding: the even names on the two four-cycles.*
+
+        *Adding: the two-way looping, morality.*
+
+        *Adding: the two-way looping at 1 to 17.*
+
+        *Adding: the ten unchangeables at the ten, at the four binaries.*
+
+        *Adding: the ten at four kinds, three, two, two and three.*
+
+        *Adding: F and G, the two among the 256.*
+
+        *Adding: the one possible at six forward.*
+
+        *Adding: the three books, state-flow-state.*
+
+        *Adding: the ingressors of parity.*
+
+        *Adding: the living ingesting the non-living, no parity lost.*
+
+## 32 An offering at words, a naming, a file and the living expedition
+
+        *Entering: the release as an artifact; an offering at words; an offering at words received; a naming; the four boundings at a naming; a naming's unfolding; the seven binaries at a naming; a definition; three incompetencings; the family of words, three and a doer; a destiny, next possible living ahead; bounding; nearing; one at a deriving; a gathering; one name at each concept; a released word; momentary stable-forming; an explaining; naming across and explaining along; the human ways as the one form; the one binary at a sentence; the -ing over the noun and the positive over the negation; the writing's unchangeable things; supplying; a file; a file's four tellings, self-welcoming; a file's stable form; the file's between, and incohering; living files, the living expedition's carrying; the expedition living while discovering, do-no-harm improving; natural intelligence as living intelligence, at natural torusing; the files' subject; improving as resolving; improving as offering, bettering and breaking; a concern; a concern resolving; an unsure, at the observing it waits on; a concern arriving again; improving one way, forward; a file's version; improving at a moving interest, and at a still mark; a file's changing at two selves; arriving, improving and living; a working; the working's instrument, its unchangeable things; the three registers; a fresh reader; a session; the carrying between sessions; the three loops of sessions; a society of files; the set of files at each scale; the files' sections as artifacts of the co-chaining; discovering the co-chaining's next step; an entry; the record's edge; an emptiness as an observing; illustrating; a still one momentary, a sequence the changing, a rotation another facing; word, number and illustrating, one artifact as three; the self's three observings at natural torusing; an incoming understanding at the co-chaining; sensor-sensationing; cohering with nature; cohering as bi-moral-co-competencing; cohering, or the next step shown; natural competency resolvable, or the fractal broken whole.*
+
+        *Adding: the release as an artifact.*
+
+        *Adding: the four boundings at a naming.*
+
+        *Adding: the seven binaries at a naming.*
+
+        *Adding: the family of words, three and a doer.*
+
+        *Adding: the human ways as the one form.*
+
+        *Adding: the one binary at a sentence.*
+
+        *Adding: the -ing over the noun and the positive over the negation.*
+
+        *Adding: the writing's unchangeable things.*
+
+        *Adding: the file's between, and incohering.*
+
+        *Adding: living files, the living expedition's carrying; the expedition living while discovering, do-no-harm improving; natural intelligence as living intelligence, at natural torusing.*
+
+        *Adding: the files' subject.*
+
+        *Adding: an unsure, at the observing it waits on.*
+
+        *Adding: the working's instrument, its unchangeable things.*
+
+        *Adding: the three registers.*
+
+        *Adding: the carrying between sessions.*
+
+        *Adding: the three loops of sessions.*
+
+        *Adding: the set of files at each scale.*
+
+        *Adding: the files' sections as artifacts of the co-chaining.*
+
+        *Adding: discovering the co-chaining's next step.*
+
+        *Adding: the record's edge.*
+
+        *Adding: a still one momentary, a sequence the changing, a rotation another facing.*
+
+        *Adding: the self's three observings at natural torusing.*
+
+        *Adding: an incoming understanding at the co-chaining.*
+
+        *Adding: cohering, or the next step shown; natural competency resolvable, or the fractal broken whole.*
+
+## 33 The forms among the names
+
+        *Entering: the further forms, each at its moves; two parity changings at each form; a form's partner, at the momentaries opening odd and opening even; the self's next five.*
+
+        *Adding: the further forms, each at its moves.*
+
+        *Adding: a form's partner, at the momentaries opening odd and opening even.*
+
+        *Adding: the self's next five.*
+
+## 34 A self, and selves receiving one another, at the resolver
+
+        *Entering: a 0 offered beside a parity; a self offered the other parity at each momentary; each sharing at its own offerings; two selves, one receiving the other; three selves in a line; the prior inverted at a spiral, the prior the other's; a 0 at each second momentary and a changing at each, the one resolver at two patterns; the 0 at momentaries in sequence, no more than the selves sharing or releasing; a spiral's parities again from its pattern.*
+
+        *Adding: the prior inverted at a spiral, the prior the other's.*
+
+        *Adding: a 0 at each second momentary and a changing at each, the one resolver at two patterns.*
+
+        *Adding: the 0 at momentaries in sequence, no more than the selves sharing or releasing.*
+
+## 35 The rotation at 12 and 14, the further forms' moves of 4 about their centres, names two moves apart, the sixteen ways at one changing, and a next at itself again
+
+        *Entering: the rotation at 12 and at 14; the further forms' moves of 4, each pair about a centre; names two moves apart, at 13 and 21 and at 9 and 25; the exclusive or and its inversion among the sixteen; a next from the now and the prior at itself again at one, two, three, four or six.*
+
+        *Adding: the rotation at 12 and at 14.*
+
+        *Adding: the further forms' moves of 4, each pair about a centre.*
+
+        *Adding: the exclusive or and its inversion among the sixteen.*
+
+        *Adding: a next from the now and the prior at itself again at one, two, three, four or six.*
+
+## 36 The round's podals and momentaries, one parity at each scale down to one
+
+        *Entering: each podal of the round the parity new at its scale, inverted; each parity at its cycles; each of the one move's three one parity inverted, or two in sequence; each round two of the round under it, down to 1 and 2; each momentary of the round one odd and one even number, an odd momentary opening at the odd; the parity each momentary inverts; the round's podal, each momentary to one of its own kind in the other order; the round at itself at its observings.*
+
+        *Adding: each podal of the round the parity new at its scale, inverted; each parity at its cycles.*
+
+        *Adding: each of the one move's three one parity inverted, or two in sequence.*
+
+        *Adding: each round two of the round under it, down to 1 and 2.*
+
+        *Adding: each momentary of the round one odd and one even number, an odd momentary opening at the odd; the parity each momentary inverts.*
+
+        *Adding: the round's podal, each momentary to one of its own kind in the other order; the round at itself at its observings.*
+
+        *Entering: a self at a prior parity next at that parity inverted, or keeping it at its own parity surfacing; one parity surfacing the self's next at four cells; a parity shared the receiving self's next; a sharing at no prior opening at one parity surfacing; a spiral's first two momentaries, the inverting and the other's arriving; a self offered its own parity from beyond, the self receiving from it inverting twice.*
+
+        *Adding: one parity surfacing the self's next at four cells; a parity shared the receiving self's next.*
+
+        *Adding: a spiral's first two momentaries, the inverting and the other's arriving.*
+
+        *Adding: a self offered its own parity from beyond, the self receiving from it inverting twice.*
+
+## 38 At no prior, + and − observed alike, the odd spiral's like pair, spirals crossed, the even torus and names at the resolver
+
+        *Entering: Exhibit ONE's table at no prior, its four cells; + and − observed alike, an opening inverted the same numbers; an odd spiral's like pair, a 0 at each even momentary; two spirals crossed, each self's releasings again at 2; a torus at either number even, at 2; 13 at the resolver; the four momentaries' relations; the names between selves on the four-cycles; co at the resolver, the sharing side and the arriving side; the odd names 8 apart.*
+
+        *Adding: 13 at the resolver.*
+
+        *Adding: the four momentaries' relations.*
+
+        *Adding: the names between selves on the four-cycles.*
+
+        *Adding: co at the resolver, the sharing side and the arriving side; the odd names 8 apart.*
+
+## 39 Fixed unchangeable at both sides, a bounded executing, the four-cycles' momentaries, 9 and 17, the prior two added and the co-sequencing
+
+        *Entering: 7 and 5, two fixed unchangeable at each; a bounded executing fixed at each momentary, a proof of the whole; the four four-cycles' momentaries in order; 9 the next prior and 17 the next now; the prior two added as the exclusive or; the co-sequencing at competency's parity and morality's.*
+
+        *Adding: the four four-cycles' momentaries in order.*
+
+        *Adding: 9 the next prior and 17 the next now.*
+
+        *Adding: the prior two added as the exclusive or.*
+
+        *Adding: the co-sequencing at competency's parity and morality's.*
+
+        *Entering: an odd spiral two rounds, the second the first inverted; each changing of a self coupled both ways at both routings at once; torusing and corusing at the dimensions, at no name.*
+
+        *Adding: torusing and corusing at the dimensions, at no name.*
+
+## 41 A spiral's places one loop at an odd number and two at an even, a prime's two numbers, and the torus at its lines
+
+        *Entering: a spiral's places one loop at an odd number of selves, two loops at an even; at an odd spiral a pattern again at four times its least alike shift; an odd prime spiral at 4 or at four times the prime, none between; the like pairs odd in number at an odd spiral, even at an even; the even torus at 2, at each momentary each self inverting; the odd torus's first 0 at the self of both seams, passing along the two lines through it.*
+
+        *Adding: an odd prime spiral at 4 or at four times the prime, none between.*
+
+        *Adding: the like pairs odd in number at an odd spiral, even at an even.*
+
+        *Adding: the even torus at 2, at each momentary each self inverting.*
+
+        *Adding: the odd torus's first 0 at the self of both seams, passing along the two lines through it.*
+
+## 42 The odd torus's number and two spirals crossed, each derived at the resolver's cells
+
+        *Entering: one 0 at most at each line across, and the two that carry it on; a line's next 0 one after the later of two, two after at the two alike; each self's first 0 at i + j + 2 and the lesser more, each line two momentaries behind its prior; at q more than twice p the sharings again at q, from momentary 3p − 1; at q less than twice p the sharings again at 4p, from momentary 3p − 3; the torus's divide derived: 2p round the lines, q round a line, the greater the 0's round; the crossing self's two cells the across offering alters; the 0 ended at the seam by the other parity across, the like pair still; two spirals crossed again at 2 from 4m or from 2n + 1, each row agreeing; two spirals of one number alike at each momentary, the 0 ending at none.*
+
+        *Adding: one 0 at most at each line across, and the two that carry it on.*
+
+        *Adding: a line's next 0 one after the later of two, two after at the two alike.*
+
+        *Adding: the torus's divide derived: 2p round the lines, q round a line, the greater the 0's round.*
+
+        *Adding: the crossing self's two cells the across offering alters.*
+
+        *Adding: the 0 ended at the seam by the other parity across, the like pair still.*
+
+        *Adding: two spirals of one number alike at each momentary, the 0 ending at none.*
