@@ -497,3 +497,7 @@ and *watch* is our investigating.
 and our universe is all existing things.
 
 | *inside*, *outside*, *within* said of the set or the universe |
+
+## Re-said at a ruler, a clock and a record, v389
+
+| **the universe**, the set of all now-existing things,

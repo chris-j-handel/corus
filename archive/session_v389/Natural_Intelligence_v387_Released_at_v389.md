@@ -475,3 +475,7 @@ one observing, one changing, inside the set. **Now is
 is our universe's one binary, right
 
 intelligence in our universe is by existing
+
+## Re-said at a ruler, a clock and a record, v389
+
+would each be said beyond the things of the universe, and nothing is.
