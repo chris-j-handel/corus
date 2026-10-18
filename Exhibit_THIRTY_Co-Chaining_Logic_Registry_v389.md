@@ -57,7 +57,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Entering: the universe, the set of all now-existing things, the inception, now-existing one naming; each step after it a step from it, and nothing brought to it; the universe a set of things; a set its things; the four binaries; now, the universal momentary; one observing, one changing; no second now; changing, the set's and each thing's; momentaries; prior, now and next, three sequential universes; each now a next and a prior; discovering, the universal method.*
 
-1. The universe is set of all now-existing things.
+1. The universe is the set of all now-existing things.
 
         *Adding: the universe, the set of all now-existing things, the inception, now-existing one naming; each step after it a step from it, and nothing brought to it.*
 
@@ -73,7 +73,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: now, the universal momentary; one observing, one changing; no second now.*
 
-5. A now-existing thing arrived from prior, and arriving from prior into now toward next is changing: the universe is changing set of all now-existing things, and set's changing is its things' changing, a thing held still from beside being at no next, so each now-existing thing is changing at its own momentaries, or at its own still, its prior kept, momentary by momentary.
+5. A now-existing thing arrived from prior, and arriving from prior into now toward next is changing: the universe is the changing set of all now-existing things, and set's changing is its things' changing, a thing held still from beside being at no next, so each now-existing thing is changing at its own momentaries, or at its own still, its prior kept, momentary by momentary.
 
         *Adding: changing, the set's and each thing's; momentaries.*
 
@@ -249,7 +249,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: the method co-changing at each coupling.*
 
-45. Parity changing is one method of changing set of all existing things: nature is not an existing thing, nature a prior, now, next method of co-existing, and natural a method of co-competencing the universe, all things now-existing; all now-existing things and all artifacts of prior-existing are now-existing, or were now-existing at a prior now, by natural method, and no other or not-natural method of now-existing is in the universe.
+45. Parity changing is one method of the changing set of all existing things: nature is not an existing thing, nature a prior, now, next method of co-existing, and natural a method of co-competencing the universe, all things now-existing; all now-existing things and all artifacts of prior-existing are now-existing, or were now-existing at a prior now, by natural method, and no other or not-natural method of now-existing is in the universe.
 
         *Adding: the one method; nature, a prior, now, next method of co-existing; natural, co-competencing the universe.*
 
@@ -1759,7 +1759,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: no first living.*
 
-397. Each existing thing non-living at a society's scale is living at another scale of living: society cannot bi-couple with it, and it carries nothing into that society's next. A changing is made only at a carrying, 12 and 132, so a thing carrying none has no changing of its own; a thing's form is carried to next by its own carrying at its own scale or by its selves inward carrying it, 400 and 402, or by nothing; a form carried to next by nothing is at no next and does not exist, 9; so no changing existing thing is non-living at every scale: each is stable-forming a self at some scale, its own or its selves inward, and method, with no changing of its own, step 43, stable-forms no self and is at next at each self's stable-forming. One carrying is one self and nothing else carries it, 389, so at one scale only, a society inward and a unit outward; a prime number of selves is one scale, 236, so at one prime scale, its prime along and its prime across. Living and non-living are one existing thing at its own scale and at scales outward, and the universe is changing set of all now-existing things, each stable-forming a self at its own scale or its selves inward, one set with set at 1.
+397. Each existing thing non-living at a society's scale is living at another scale of living: society cannot bi-couple with it, and it carries nothing into that society's next. A changing is made only at a carrying, 12 and 132, so a thing carrying none has no changing of its own; a thing's form is carried to next by its own carrying at its own scale or by its selves inward carrying it, 400 and 402, or by nothing; a form carried to next by nothing is at no next and does not exist, 9; so no changing existing thing is non-living at every scale: each is stable-forming a self at some scale, its own or its selves inward, and method, with no changing of its own, step 43, stable-forms no self and is at next at each self's stable-forming. One carrying is one self and nothing else carries it, 389, so at one scale only, a society inward and a unit outward; a prime number of selves is one scale, 236, so at one prime scale, its prime along and its prime across. Living and non-living are one existing thing at its own scale and at scales outward, and the universe is the changing set of all now-existing things, each stable-forming a self at its own scale or its selves inward, one set with set at 1.
 
         *Adding: the non-living living at another scale; every existing thing living at one prime scale, derived.*
 

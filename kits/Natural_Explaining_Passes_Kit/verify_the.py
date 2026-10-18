@@ -10,10 +10,10 @@ full=open(f).read().split('\n')
 fence=False
 for i in range(s-1): 
     if full[i].lstrip().startswith('```'): fence=not fence
-first_part=next((i for i,l in enumerate(full) if re.match(r'#\s',l) and 'PART' in l.upper()),len(full))
+first_part=next((i for i,l in enumerate(full) if l.startswith('## ')),len(full))
 for k,(a,b) in enumerate(zip(L,N)):
     ln=s+k
-    prot = fence or a.lstrip().startswith('```') or a.startswith('#') or a.lstrip().startswith((' ','*Adding:','*Entering:')) and ('*Adding:' in a or '*Entering:' in a) or re.match(r'^\|?\s*-{3}',a) or (ln-1<first_part and a.startswith('- '))
+    prot = fence or a.lstrip().startswith('```') or a.startswith('#') or a.lstrip().startswith((' ','*Adding:','*Entering:')) and ('*Adding:' in a or '*Entering:' in a) or re.match(r'^\|?\s*-{3}',a) or (ln-1<first_part and re.match(r'^- \d',a))
     if a.lstrip().startswith('```'): fence=not fence
     if a==b: continue
     if prot: print('PROTECTED line',ln); bad+=1; continue
