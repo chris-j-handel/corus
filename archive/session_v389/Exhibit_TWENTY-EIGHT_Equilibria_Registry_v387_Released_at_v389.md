@@ -229,3 +229,177 @@ are read at the one seat as the stilling and the changing travelling through it,
 ## 4.12 The between named as a cut, 6 arrivals
 
 **Observed across a row, a subject shows those of the ten at which its fields name the changing still; observed down a column, the subjects naming one still gather.** Heat falls at six of the ten, four arrivals each at a completing named as a last and at the between named as a cut; reactions at a carry named as a store and at a rate named as a value; bodies at rest and in balance at an opening named as a place and at a parity named as a magnitude; selves choosing and exchanging at a sequencing named to one beat and at a two-way named to one side; populations at four of the ten; the coupling of self and other, and the resolver, at seven. Each row fills as arrivals come, each placed at its own words.
+
+## Re-said at the ten unchangeables, named still re-said, v389
+
+**An equilibrium is a form named still, not possibly existing;
+
+Each proposed conception of equilibria names one of them still.
+
+**An equilibrium is a living or non-living existing thing named still.**
+
+names neither a non-living thing nor a still one, and naming it still there is the equilibrium.
+
+A mathematical conception of equilibria names a stability, a form or a relation still,
+
+each added requirement names it still.
+
+each of the ten names one face still, the other face running
+
+A conception naming an ordering p still at its next,
+
+that the ordering named still is the very ordering its next inverts
+
+a conception naming changing names a changing still.
+
+Each conception of equilibria names a form still at the running
+
+Each proposed conception of equilibria names a changing still in one of the ten ways,
+
+each proposed conception of equilibria is that relation named still.
+
+At the resolver each name's term named still from one momentary:
+
+a self named still or named changing, 2.4.
+
+A society named not changing names a form still,
+
+An equilibrium of a society names a changing society still,
+
+The ten name the whole changing still: opposition named still names the even ring,
+
+The ring meets the rest named still,
+
+A law, a frame or a scale named unchanged is such an expression,
+
+it names its subject still through one further step,
+
+**Each proposed conception names a changing still, in one of the ten ways.**
+
+each a form named still, 2.1,
+
+1. **What is named still.**
+
+family or extremum of the whole named unchanged;
+
+a comparison between parts named unchanged, equal,
+
+at which the field names its changing still, and fields naming one still fall together
+
+at which its fields name the changing still; observed down a column, the subjects naming one still gather.
+
+at which it names its changing still, and a field is aimed at
+
+the field's subject is named still,
+
+a law, a frame or a scale named unchanged between a signal's leaving
+
+A carrying named unchanged at each momentary;
+
+never none again. Named unchanged, it requires
+
+parts 3 and 6. Named unchanged, the prior is
+
+an offerer named still set beside the self
+
+A relation named still can permit the changing a sign named still excludes
+
+the face named still and the face running are one number
+
+| A prior named unchanged |
+
+A pair agreeing names no still resolver and no equilibrium
+
+2 arrivals
+
+**Named still at a form**
+
+probability | — |
+
+**Named still at a relation**
+
+5 arrivals
+
+**Named still at a form**
+
+resolver | — |
+
+**Named still at a form and a relation**
+
+**Named still at a form, a relation and a stability**
+
+added |
+
+**Named still at a relation**
+
+8 arrivals
+
+**Named still at a form**
+
+resolver | — |
+
+**Named still at a form and a stability**
+
+added |
+
+**Named still at a form and a relation**
+
+10 arrivals
+
+**Named still at a form**
+
+reactions | — |
+
+**Named still at a form and a relation**
+
+resolver | — |
+
+**Named still at a relation**
+
+end, 6 arrivals
+
+**Named still at a form**
+
+heat | — |
+
+**Named still at a form and a stability**
+
+9 arrivals
+
+**Named still at a form**
+
+NY37 |
+
+**Named still at a relation**
+
+beat, 5 arrivals
+
+**Named still at a form and a relation**
+
+changed |
+
+**Named still at a relation**
+
+value, 5 arrivals
+
+**Named still at a form and a relation**
+
+scattering |
+
+**Named still at a relation**
+
+7 arrivals
+
+**Named still at a form**
+
+NY39 |
+
+**Named still at a relation**
+
+cut, 6 arrivals
+
+**Named still at a form**
+
+κ>0 |
+
+**Named still at a relation**

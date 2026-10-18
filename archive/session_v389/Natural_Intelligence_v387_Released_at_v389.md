@@ -537,3 +537,47 @@ the self's own inverting the same coupling read from the self,
 ## Re-said at the ten unchangeables, each fixed, v389
 
 **At the geodesic method next is discovered from the existing**, the prior and the now offered, the three places each at its own. **At the scientific method true or false is accounted against its fixings**, a law, a frame and a scale named unchanged between two momentaries, exact at its own ledger; a field's errors accumulating, momentary after momentary, is a kept prior named as the now, a prior kept past each momentary into a form named still, and at the method nothing is gathered along momentaries and nothing accumulates. **Geodesic parity co-changing is a possibling and discovering method. Scientific-explaining-method is incompetent for discovering: true or false, no other possible, is given to it.** Its incompetency is of accounting against fixings named unchanged, and a claim, an executing, a break sought and a fresh observing are an expedition's own improving, 6.6. A fixing named unchanged between two momentaries is an equilibrium, a form named still, not possibly existing, and the two methods are at the same evidence at the same now and part at one naming, the fixings named unchanged or changing with the changing. Their between is a nothing, and no third method. **The scientific method explains between kept records with the rest of the universe held still**, and meets the method's observings and not its pattern-matching; a hard problem is one binary of a universe, its *is* and *is not* taken as one, the ten named still at the four binaries as Natural Naming 4.9 seats them.
+
+## Re-said at the ten unchangeables, named still re-said, v389
+
+are each a form named still over the things
+
+a form named still is that form, the naming beside the thing,
+
+a fixed form, a form named still, one form at two nows
+
+**Any other method proposed is at one binary: naming still, or carrying.** Naming still, it forms nothing,
+
+each a form named still, not possibly existing: the four stills
+
+A ranking among resolvings names the ranked still,
+
+carried by whoever carries the ranking, a form named still.
+
+an involution each, a form named still;
+
+a number said as any other count is a form named still.
+
+a form named still entering from beside, 2.4.
+
+an offerer whose parity arrives the same at each momentary is a form named still,
+
+a self named still or named changing, remains neither existing nor living.
+
+a law, a frame and a scale named unchanged between two momentaries, exact at its own ledger;
+
+a prior kept past each momentary into a form named still,
+
+Its incompetency is of accounting against fixings named unchanged,
+
+A fixing named unchanged between two momentaries is an equilibrium, a form named still, not possibly existing,
+
+the fixings named unchanged or changing with the changing.
+
+each equilibrium a form named still;
+
+**The four arrive each from one bounding set aside and the form named still at it**
+
+from a form named still, an ordering goes on with no selves offering;
+
+naming its own ordering still: four set aside, four forms named still, and no fifth.

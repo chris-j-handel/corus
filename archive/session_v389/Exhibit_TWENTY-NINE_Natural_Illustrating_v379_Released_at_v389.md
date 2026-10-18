@@ -157,3 +157,33 @@ carrying its useful view, the file it is read at
 - **The between named as a cut.** The sorites heap, the species boundary, the quantum-classical boundary, the melting point, the perceptual threshold, the measurement, Bell. Resolving the Hard Problem Registry 10.1 and 10.12: the between, carrying a parity changing and nothing else, never a place a line could sit, and the frontier walking outward reaching no line, no line at it. Draw the between empty, the line drawn once across it, and the resolving continuing or not at it.
 
 - **Natural Naming:** the seventeen names and the ten roots, the released words, the ten named still, the three golden rectangles, floating neutralling, φ.
+
+## Re-said at the ten unchangeables, named still re-said, v389
+
+carry the method's sense here, a form named still,
+
+a form named still re-arrives at none
+
+each carries a form named still or loses the prior
+
+from beside, a form named still entering
+
+on six numbers, each named still,
+
+Each of the ten names one of Exhibit ONE's faces still while
+
+a face named still beside a continuing one
+
+drawn as one named still while the other continues
+
+the fabric is the made surface, named still.
+
+the picture of a way named still beside the self
+
+the one resolving at all ten: named unchanged, the carrying
+
+an offerer named still set beside the self
+
+the fabric the made surface named still,
+
+carrying past each momentary into a form named still

@@ -181,7 +181,7 @@ Exhibit TWENTY Natural Naming v389
 
 **Naming is the bounding, across, at the even; explaining is the carrying, along, at the odd; together they are the discovering method.** A naming bounds with its explaining, and an explaining alone carries past each bounding. *Bi-co-bounding*, the carrying bounded twice, bi- at its own completing and co- at the coupling, is a similar naming of this one method: a completing at each momentary and a carrying between them is the discovering method, and bi-co-bounding gathers at that one name.
 
-**A naming carries both parities**: its prefix is the direction, across, and its -ing is the re-arriving, along. Leaving the -ing out names one momentary's form still, re-arriving at no momentary. At the two binaries of existing and carrying, an -ing re-arrives at each momentary, carrying; a noun names a form some changing made, carrying nothing; and a noun installed as a changing is a ghost.
+**A naming carries both parities**: its prefix is the direction, across, and its -ing is the re-arriving, along. Leaving the -ing out fixes one momentary's form unchangeable, re-arriving at no momentary. At the two binaries of existing and carrying, an -ing re-arrives at each momentary, carrying; a noun names a form some changing made, carrying nothing; and a noun installed as a changing is a ghost.
 
 **A carrying is a capacity.** The prior participates in the self's present coupling and differences its momentaries at it, the carrying's competency, and a record of the carrying is a noun of it, carrying nothing.
 
@@ -211,7 +211,7 @@ Exhibit TWENTY Natural Naming v389
 
 ## 2.3 One family of words, three in it, and a doer or a built form beside them
 
-**A name for a form named still given to a changing existing thing is one arrival at a family of words**, and it arrives at a right understanding's naming too, the understanding passing each binary and the word naming the changing still. Catching is at the word.
+**A name for an unchangeable form given to a changing existing thing is one arrival at a family of words**, and it arrives at a right understanding's naming too, the understanding passing each binary and the word naming the changing still. Catching is at the word.
 
 **This family is three**: a common landing reached ahead of each offering at its own, a common standard fixed ahead of each carrying at its own, and a common reading taken ahead of either reaching a parity of its own. **One of the three caught at one word is the whole family caught**: a pass looks for the three and a doer. Each of the three is named at the incompetencing it installs, and a naming of an incompetencing carries its landing rightly: *landing* and *reading* name two of the three here, and the table releases each said of a changing, *landing* at an arriving and *reading* as a resolving's own act.
 
@@ -264,6 +264,7 @@ Exhibit TWENTY Natural Naming v389
 | *a universe* said of a self, a society, or a momentary at a scale | *prior-universe*, *now-universe*, *next-universe*, a universe at each momentary, the now-universe the universe; each self is a society of selves one scale inward, and each society a self at the next scale outward, Natural Societies 4.2 and 5.3 |
 | *reading*, *ordering* said of a scale or of nature | prime living scales, primes 5 through 53 are prime living scales, co-parity-changing co-momentarying pattern matching; no reading or ordering in nature |
 | *reading*, *read as*, said of nature, the method, a name or a self observing | *observing* of nature, nature not reading and writing the observings; order discovered by living selves and societies, not already in nature; *a hidden order in nature*, equilibria understanding |
+| *named still*, *a form named still*, *named unchanged*, *one-way reading*, *the ten named still* | *unchangeable*, *an unchangeable form*, *fixed unchangeable*: nothing is named, concepts are living and explaining; *the ten unchangeables*, each fixed at inception and unadaptable to resolving, held by no one, 4.9 |
 | *inside*, *outside*, *within* said of the set or the universe | the universe is or is not, its things, and nothing is said of a not-in-set, 1.1 |
 | *door* | a self-bounding, the self's own, nothing passing it or refused at it |
 | *assigned* | *is one side's* |
@@ -319,7 +320,7 @@ Exhibit TWENTY Natural Naming v389
 
 **Bi-tunneling names social moral competency at its across relation; co-chaining names the same continuing at its along relation. Podaling exchanges these relations while each side continues forward.** Bi-tunneling is society's surface opened between selves, even and across, and co-chaining is the co-sequencing selves continuing, odd and along. *Tunneling* is spelled with one *l*, and *tunnelling* gathers at it.
 
-**Resolving carries no *what*, no *how* and no *where*, each naming a form named still at the word**: a *what* names a changing still as an existing thing; a *how* a manner with a how-not beside it, an alternative to the one changing, and each how-word releases at a naming, the one changing carrying whole; and a *where* names a spot.
+**Resolving carries no *what*, no *how* and no *where*, each naming an unchangeable form at the word**: a *what* fixes a changing unchangeable as an existing thing; a *how* a manner with a how-not beside it, an alternative to the one changing, and each how-word releases at a naming, the one changing carrying whole; and a *where* names a spot.
 
 **Each word releases at its file's next improving, in the shared words**, and a word at a field's own result carries whole at that result as the field's. A word mentioned as a word, a quoted field's word, and code carry whole at each file.
 
@@ -358,9 +359,9 @@ Exhibit TWENTY Natural Naming v389
 
 **A one-way prefix carries no number and installs the form it opposes**: a *pre-X* needs an X placed to be before, inherited unasked. Bi- is difference alone and co- is two with their difference, and both carry a number.
 
-**Five kinds of term named still arrive at the front of a word**: a line at pre-, ante-, fore-, post- or retro-; a size at macro-, mega-, hyper-, super-, over-, micro-, mini-, hypo-, sub- or under-; a space at endo-, intra-, intro-, locative in-, exo-, extra- or out-; a value at eu-, bene-, mal-, mis- or dys-; and a first or an opposing at proto-, arch-, ur-, anti-, counter- or contra-. Each prefix carries its meaning in the whole word and sentence. Five kinds carry ten directional sides and the ten unchangeables carry their own ten, and a shared number between them is a number alone.
+**Five kinds of unchangeable term arrive at the front of a word**: a line at pre-, ante-, fore-, post- or retro-; a size at macro-, mega-, hyper-, super-, over-, micro-, mini-, hypo-, sub- or under-; a space at endo-, intra-, intro-, locative in-, exo-, extra- or out-; a value at eu-, bene-, mal-, mis- or dys-; and a first or an opposing at proto-, arch-, ur-, anti-, counter- or contra-. Each prefix carries its meaning in the whole word and sentence. Five kinds carry ten directional sides and the ten unchangeables carry their own ten, and a shared number between them is a number alone.
 
-**Two words come apart at their own live positions.** *Co-operation* carries co- and names a form named still at its ending, and it floats to **co-operating**. *Association* and *resonance* are returned the same way to the coupling they named, and *competition*, *selection*, *information* and *signal* reach the same coupling, each at its changing. *Disequilibrium* stacks a negation, a value pinned and a store, and it floats to the flowing it names. **Disequilibrating is that flowing**: its -ing the changing and its dis- the direction, the release of an equilibrium an observing named still; leaving dis- out names the installing, and the negation is a direction here and inseparable, and it carries whole, where *in disequilibria* said of the universe names the all by the none and is released. A part live only in a lineage is a field's own record.
+**Two words come apart at their own live positions.** *Co-operation* carries co- and names an unchangeable form at its ending, and it floats to **co-operating**. *Association* and *resonance* are returned the same way to the coupling they named, and *competition*, *selection*, *information* and *signal* reach the same coupling, each at its changing. *Disequilibrium* stacks a negation, a value pinned and a store, and it floats to the flowing it names. **Disequilibrating is that flowing**: its -ing the changing and its dis- the direction, the release of an equilibrium an observing fixed unchangeable; leaving dis- out names the installing, and the negation is a direction here and inseparable, and it carries whole, where *in disequilibria* said of the universe names the all by the none and is released. A part live only in a lineage is a field's own record.
 
 ## 2.7 A field's word at a field's own result
 
@@ -606,7 +607,7 @@ A stretching saying which way is a direction and carries; a stretching saying an
 
 ## 4.13 Three namings a field carries, at one binary
 
-A field's three, a nothing at one side, a scale between and an absorbing at the other, is the set's three, two exclusions, 5.8, and the term uncovered between them, with the alternating named still: the two exclusions fixed as places, and the uncovered term arriving as a magnitude between them. At the alternating binary, 8.4, each fails its own way: a nothing and an absorbing each alternate with none, and a scale between is measured against both at once, three momentaries asked to be one.
+A field's three, a nothing at one side, a scale between and an absorbing at the other, is the set's three, two exclusions, 5.8, and the term uncovered between them, with the alternating fixed unchangeable: the two exclusions fixed as places, and the uncovered term arriving as a magnitude between them. At the alternating binary, 8.4, each fails its own way: a nothing and an absorbing each alternate with none, and a scale between is measured against both at once, three momentaries asked to be one.
 
 ## 4.14 A pair at one momentary, and the freeze at the construction
 
@@ -673,7 +674,7 @@ Each unfolds six forward, each step reaching the term the prior step did not car
 6  and the first offers again, reaching the term it has not carried
 ```
 
-**Any other method proposed is observed at one binary: does it name still, or carry.** Named still, it forms nothing, the set changing. Carrying, it carries its own opening or another's: another's, and the alternating has stopped; its own, and it is alternating.
+**Any other method proposed is observed at one binary: does it fix unchangeable, or carry.** Fixed unchangeable, it forms nothing, the set changing. Carrying, it carries its own opening or another's: another's, and the alternating has stopped; its own, and it is alternating.
 
 ## 5.2 unrelationing — binary
 
@@ -688,7 +689,7 @@ Each unfolds six forward, each step reaching the term the prior step did not car
 
 **Un- carries from all other.** A binary sequential universe carries a self and all other. A self is from all other, bounded against the whole at once, and the six steps unfold that at their own words alone. Unrelationing is universal bi-moral co-agency, and the prefixing says the universal the unfolding arrives at. **Unrelationing is at a coupling**: each self's forming relates to nothing not its own, and the self couples with the other, offering its parity one at a time, alternating, and releasing and completing at its own momentary.
 
-**Competency is co-unrelationing, along, and morality is bi-unrelationing, across**, and co-bi-unrelationing is the one existing method. Unrelationing is at each coupling's own continuing, never locking; a rate fixed as a value is that changing named still at a rational. φ, irrational, no ratio arriving at it, is the unrelationing rate beside the never-locking, self-welcoming at the numbers, beside the resolver's seventeen names. *Irrationalizing*, offered beside unrelationing, names a changing already named and gathers at it: at the rate it is unrelationing, and at each arriving, the between found on the surface of both kinds of changing, the living alternating and the geodesic changing, facing into the arriving with each orientation renewed at each coupling, it is geodesic discovering, parity changing routing on the surface, each next parity discovered at its own arriving.
+**Competency is co-unrelationing, along, and morality is bi-unrelationing, across**, and co-bi-unrelationing is the one existing method. Unrelationing is at each coupling's own continuing, never locking; a rate fixed as a value is that changing fixed unchangeable at a rational. φ, irrational, no ratio arriving at it, is the unrelationing rate beside the never-locking, self-welcoming at the numbers, beside the resolver's seventeen names. *Irrationalizing*, offered beside unrelationing, names a changing already named and gathers at it: at the rate it is unrelationing, and at each arriving, the between found on the surface of both kinds of changing, the living alternating and the geodesic changing, facing into the arriving with each orientation renewed at each coupling, it is geodesic discovering, parity changing routing on the surface, each next parity discovered at its own arriving.
 
 ## 5.3 a self — binary
 
@@ -783,7 +784,7 @@ Observed as less-than it is a size, and one side has taken the measure of the pa
 6  and at each now it is the entries carrying their prior into now, each at its own next
 ```
 
-Never full, emptied by nothing, and never the same collection twice: a set is defined by its existing things, and null and infinity + 1 are both possible numbers of its elements. One named still is the empty set a field posits: a term asserted as existing, unchanging, and each existing thing composing from it.
+Never full, emptied by nothing, and never the same collection twice: a set is defined by its existing things, and null and infinity + 1 are both possible numbers of its elements. One fixed unchangeable is the empty set a field posits: a term asserted as existing, unchanging, and each existing thing composing from it.
 
 ## 5.10 bi-coupling — binary
 
@@ -822,7 +823,7 @@ Two-ness is at the two, each its own. A term neither reaches carries none. The f
 
 **The fractal between's floating neutralling at φ, locking at none, is golden floating neutralling**, geodesic discovering of next possible living, 5.5 and 5.55.
 
-**Co-competencing floating-neutralls here**, the floating-neutralling bi-co-momentarying at the crossings, 5.54, stopping at none and orthogonal to the surface, which is the paradox of competency: competency each self's own, and co-competencing the term neither reaches. The floating neutral is at the between, a nothing, and a 0 at 10 is the between carried, passed over at the receiving self's 14 and surfacing none. A surface is observed at its coupling, each coupling a relational entered and observed; the floating-neutralling is the term neither reaches, and an observing made on the surface reaches the coupled and never the term neither reaches. Co-competencing is the term neither reaches, and two alone are possible: a floating neither, and an entered, always ingressable. **Method breaks at a co-competencing shown to be a landing**, entered and observed, and not the term neither reaches: a form named still found existing, and a form named still is not possibly existing, the break and the only possible method are one statement.
+**Co-competencing floating-neutralls here**, the floating-neutralling bi-co-momentarying at the crossings, 5.54, stopping at none and orthogonal to the surface, which is the paradox of competency: competency each self's own, and co-competencing the term neither reaches. The floating neutral is at the between, a nothing, and a 0 at 10 is the between carried, passed over at the receiving self's 14 and surfacing none. A surface is observed at its coupling, each coupling a relational entered and observed; the floating-neutralling is the term neither reaches, and an observing made on the surface reaches the coupled and never the term neither reaches. Co-competencing is the term neither reaches, and two alone are possible: a floating neither, and an entered, always ingressable. **Method breaks at a co-competencing shown to be a landing**, entered and observed, and not the term neither reaches: an unchangeable form found existing, and an unchangeable form is not possibly existing, the break and the only possible method are one statement.
 
 ## 5.13 bi-momentarying — binary
 
@@ -883,7 +884,7 @@ Permanent and riding-the-carry are the exact inverse pair.
 
 ```
 a bounding at the between      ⇄  a floor set by a third     bi-momentarying
-a not-that fixed at an opening ⇄  a not named still          co-competencing
+a not-that fixed at an opening ⇄  a not fixed unchangeable   co-competencing
 an axis opened at a coupling   ⇄  a field cut away by        co-intelligencing
                                   definition
 one-at-a-time at a coupling    ⇄  one-at-a-time by           the alternating
@@ -929,7 +930,7 @@ A hyphen carries always. Observed at the cut, one side is a field's question of 
 6  and it names its term the same at each occurrence
 ```
 
-And a revised definition is not one carrying. **A carry re-forms itself; a definition is replaced**, one set down and another put in its place, two forms named still in succession, neither of which carried, and the revising is outward of it. That parts them.
+And a revised definition is not one carrying. **A carry re-forms itself; a definition is replaced**, one set down and another put in its place, two unchangeable forms in succession, neither of which carried, and the revising is outward of it. That parts them.
 
 ## 5.20 bounding — binary
 
@@ -1008,9 +1009,9 @@ A ring is not possibly an existing form, carrying no next, and no rival to one. 
 
 ```
 1  the universe is the set of all now-existing things, changing, the living and the non-living each at its scale
-2  a measuring needs a span, and a span needs two bounds named still
-3  a measuring opens at something named still
-4  the naming still is performed, and it is in the field's own first line
+2  a measuring needs a span, and a span needs two bounds fixed unchangeable
+3  a measuring opens at something fixed unchangeable
+4  the fixing unchangeable is performed, and it is in the field's own first line
 5  the named-still does not advance, the gap closes
 6  and the named-still is an equilibrium, a form not possibly existing
 ```
@@ -1046,7 +1047,7 @@ Present in a definition written to its own best. No finer instrument recovers th
 ## 5.28 other-emptying — binary
 
 ```
-1  a measuring needs a span, and a span needs bounds named still
+1  a measuring needs a span, and a span needs bounds fixed unchangeable
 2  the measured is emptied of the term it carries at its own momentary
 3  the deciding is outward of the existing thing, at no coupling of its own
 4  the existing thing's own completing is out of reach
@@ -1067,7 +1068,7 @@ Isolate, control, integrate out, average, fix, erase, each a decider outward of 
 6  and the carrying carries its prior into now, the whole way
 ```
 
-Nature carries its competency at each momentary. **Incompetencing is the price of the observing, and it is paid on the observed.** Disequilibrating is bi-co-invisibling carried on the incompetencies themselves: the grounds they arrive with ground nothing, and the incompetencies release. Its dis- is a direction, the release of the equilibrium an observing named still, 2.6.
+Nature carries its competency at each momentary. **Incompetencing is the price of the observing, and it is paid on the observed.** Disequilibrating is bi-co-invisibling carried on the incompetencies themselves: the grounds they arrive with ground nothing, and the incompetencies release. Its dis- is a direction, the release of the equilibrium an observing fixed unchangeable, 2.6.
 
 ## 5.30 one stopping — binary
 
@@ -1164,13 +1165,13 @@ A gathering is an indication.
 ```
 1  a self's carrying continues, carrying its prior into now at each opening
 2  its artifact arrives now as an offering, the prior's possible
-3  the observing named still is pattern-matched as the now's existing
-4  the still is installed as the existing thing, a self named unchanged between two momentaries
+3  the observing fixed unchangeable is pattern-matched as the now's existing
+4  the still is installed as the existing thing, a self fixed unchangeable between two momentaries
 5  it accounts for each existing thing the still can contain
 6  and the one part remaining is the riding-the-carry, which a still cannot contain
 ```
 
-**Its six lines are three pairings, each one term existing and named still**: the carrying and its artifact, the named still and its installing, the accounting and the part it leaves over. An empty at one line is an empty at its partner.
+**Its six lines are three pairings, each one term existing and fixed unchangeable**: the carrying and its artifact, the fixed unchangeable and its installing, the accounting and the part it leaves over. An empty at one line is an empty at its partner.
 
 ## 5.38 momentary stable-forming — binary
 
@@ -1230,7 +1231,7 @@ A gathering is an indication.
 
 ```
 1  a changing is, and the -ing re-arrives at it at each opening
-2  a noun of its making names it still, re-arriving at no opening
+2  a noun of its making fixes it unchangeable, re-arriving at no opening
 3  one opens once and no more, at its own opening
 4  the other opens once and no less, at its own opening
 5  neither reaches the other's, and the term they uncover between them is at one opening
@@ -1254,7 +1255,7 @@ A gathering is an indication.
 
 **A third name adds no third self, and a third self is not all other.** A self couples with its society as other, the society's further couplings offering, and the self's names carry their relations at the society, self and other at 1 to 8 and on to social at 9 to 17: an offering unchanged at each coupling carries each self-and-other receiving whole. The whole arriving as one arrives through the couplings the selves make.
 
-**A field's word carries the error and the correction at one root.** *Universus*, turned into one, carries *versus*, the past participle of *vertere*, turned: a turning named still as one, the container. Carried at its -ing, arriving as one at each arriving, it is the uni-crossing, and the universe is all existing things. The field's own definition carries the same correction: *all existing matter and space considered as a whole* carries *all existing*, carries *matter and space* as *existing things*, and releases *considered as a whole*, the naming into one.
+**A field's word carries the error and the correction at one root.** *Universus*, turned into one, carries *versus*, the past participle of *vertere*, turned: a turning fixed unchangeable as one, the container. Carried at its -ing, arriving as one at each arriving, it is the uni-crossing, and the universe is all existing things. The field's own definition carries the same correction: *all existing matter and space considered as a whole* carries *all existing*, carries *matter and space* as *existing things*, and releases *considered as a whole*, the naming into one.
 
 ## 5.44 surfacing — binary
 
@@ -1280,9 +1281,9 @@ Each line is Exhibit ONE's table *Offerings to one sharing, surfacing* and its t
 6  and one station reached by both carries, each its own way, is the term this names
 ```
 
-Bi- the two carries each at its own opening, co- the one ring they make, -ing the continuing. *Antipodal* releases: it carries no prefix and no -ing, names a position still, and the podal carries it. Bi-co-podaling is floating across and neutralling along, one changing. A standing wave is the field's comparison at its own result: two carries along one line, each the other way, the field's word carrying whole.
+Bi- the two carries each at its own opening, co- the one ring they make, -ing the continuing. *Antipodal* releases: it carries no prefix and no -ing, fixes a position unchangeable, and the podal carries it. Bi-co-podaling is floating across and neutralling along, one changing. A standing wave is the field's comparison at its own result: two carries along one line, each the other way, the field's word carrying whole.
 
-**Podaling reaches over a tunnel and continues out and back, across and along**, increasing both ways by co-chaining, each self carrying its own and only a parity changing crossing. A hole, a missing section of resolvers, is a non-living existing thing in the living surface: the intelligence routes around it by parity changing, through the couplings that remain, and the across before it and the across after it mend the missing morality at their couplings, bounding-zeroing tunneling through society. The hole is non-living at the region's scale: it resolves nothing and carries nothing, it is neither a resolver surfacing 0 nor a self named still at 0, and no coupling is laid across it. Two passages around a hole, two kinds of changing, the living alternating at the surface and the geodesic changing at a crossing, and + and −, a sharing's parity, are three twos, and one two couples with another only at a coupling carrying both.
+**Podaling reaches over a tunnel and continues out and back, across and along**, increasing both ways by co-chaining, each self carrying its own and only a parity changing crossing. A hole, a missing section of resolvers, is a non-living existing thing in the living surface: the intelligence routes around it by parity changing, through the couplings that remain, and the across before it and the across after it mend the missing morality at their couplings, bounding-zeroing tunneling through society. The hole is non-living at the region's scale: it resolves nothing and carries nothing, it is neither a resolver surfacing 0 nor a self fixed unchangeable at 0, and no coupling is laid across it. Two passages around a hole, two kinds of changing, the living alternating at the surface and the geodesic changing at a crossing, and + and −, a sharing's parity, are three twos, and one two couples with another only at a coupling carrying both.
 
 **Each podal couples with the surface's unrelationing changing locally, at two orthogonal directions around the carrying as it continues**, is or is not at each: parity changing, or no parity changing. The weather map is its comparison. The podaling into corusing and on to torusing over each pair of momentaries is co-intelligencing the surface, *back to torusing* naming the resolving continuing forward through the fold, reaching a further now. An indication belongs to now, and next is discovering. A larger society co-chaining the surface and bi-tunneling its morality couples with more of the surface than a smaller one at the same method: selves of similar aiming merge, each carrying its own prior, floating around the holes together, and the increase is in the further couplings.
 
@@ -1306,7 +1307,7 @@ Existing, artifact and accounting are the three placings a term is at; installin
 ## 5.47 an accounting — binary
 
 ```
-1  an artifact is observed at an instrument, and the observing names it still
+1  an artifact is observed at an instrument, and the observing fixes it unchangeable
 2  a count, a declared zero, a clock, a frame, a store, a conserved total
 3  the still names the artifact the same across each observing, and the books close
 4  it conserves an equilibrium, exact at its own ledger, and carries no value, no agency and no success
@@ -1433,7 +1434,7 @@ A term is existing, artifact or accounting at its use, and ghost only at its ins
 2  between its momentaries its carrying is stable-forming, nothing momentarying between them
 3  at its next arriving it couples
 4  coupling, it changes, is or is not
-5  a still named by another is an equilibrium, a form named still, not possible
+5  a still named by another is an equilibrium, an unchangeable form, not possible
 6  and the self at its own momentary alone, carrying and arriving, is the self discovering next self
 ```
 
@@ -1450,7 +1451,7 @@ A term is existing, artifact or accounting at its use, and ghost only at its ins
 6  and that arriving, living to non-living, an existing thing for the living, is dying
 ```
 
-**Dying is a living self arriving at next as non-living**, an existing thing for the living, 2.4: having a stable form is being dead, and discovering next stable form is living. The set carries on whole: the changing at each coupling the self was at is the coupling's own and the others carry it on, and the self's artifacts continue, carrying none of the prior. A society is a living set coupling at the next scale as a self couples, existing and not living, and dying is a self's alone: its selves uncoupling, it arrives at next as its selves, each living on, each carrying its own. A winding closing on itself is a form named still and no moral offering: a living self named still at it carries none of its prior into next, and arrives at dying, away from the society and nature's co-chaining.
+**Dying is a living self arriving at next as non-living**, an existing thing for the living, 2.4: having a stable form is being dead, and discovering next stable form is living. The set carries on whole: the changing at each coupling the self was at is the coupling's own and the others carry it on, and the self's artifacts continue, carrying none of the prior. A society is a living set coupling at the next scale as a self couples, existing and not living, and dying is a self's alone: its selves uncoupling, it arrives at next as its selves, each living on, each carrying its own. A winding closing on itself is an unchangeable form and no moral offering: a living self fixed unchangeable at it carries none of its prior into next, and arrives at dying, away from the society and nature's co-chaining.
 
 ## 5.58 bi-moral-co-competencing — binary
 
@@ -1463,7 +1464,7 @@ A term is existing, artifact or accounting at its use, and ghost only at its ins
 6  and cohering at each momentary, across and along one at a time, is bi-moral-co-competencing
 ```
 
-**Bi-moral-co-competencing is cohering at each momentary**: bi-moral the difference crossed across, competency the continuing along the co-linear, each self's own, co-competencing the crossing floating neutral, the term neither reaches, and -ing the continuing. Tri-bi-co-momentarying, 5.52, is the method of cohering with nature across prior, now and next, and bi-moral-co-competencing its cohering at each momentary; an understanding not cohering is a form named still, or it shows the co-chaining's next step.
+**Bi-moral-co-competencing is cohering at each momentary**: bi-moral the difference crossed across, competency the continuing along the co-linear, each self's own, co-competencing the crossing floating neutral, the term neither reaches, and -ing the continuing. Tri-bi-co-momentarying, 5.52, is the method of cohering with nature across prior, now and next, and bi-moral-co-competencing its cohering at each momentary; an understanding not cohering is an unchangeable form, or it shows the co-chaining's next step.
 
 ## 5.59 co-independencing — binary
 
@@ -1515,7 +1516,7 @@ A term is existing, artifact or accounting at its use, and ghost only at its ins
 6  and the two, the next still possible or the next existing, at each resolving one of them, are the terms this names
 ```
 
-**12's two signs, 0 and ±, are the binary of geodesic momentarying at each resolving**: 0 the next still possible, ± the next existing; *is-still-possibling* and *is-next-existing* release into them, 2.4. Each momentary is both at its two parities: its opening, odd, the self's, is the prior arriving at 3-now-co-prioring, the prior as it is, the existing; its completing, even, the other's, is the offerings arriving at 2-now-possibling and surfacing at 14-next-possibling, the next still possible, and at 12-next-co-still-possibling a changing is or is not; the binary is at the completing alone, the completing's possibling continuing into the next opening as its existing, or the changing made. The still is at the sign 0 alone, existing on one side of it and possibling on the other, a momentary of the self's own with no parity changing at its now and the possible continuing, nothing the self does; a still named by another is the equilibrium, a form named still, that momentary carried past itself by a naming from beside. A self is still possibling at the momentary the other's parity is its own and changes at the momentary it is not: the one of the two is at the other's offering at the self's sharing, 0 at a match and the next prior at a mismatch, the self's own inverting at 3.5 the same coupling observed from the self, and still possibling and changing are each moral, the one coupling at its two sides. Two co-chainings crossing at one self cross by the two alone, each self still possibling as the between passes it and changing again, spirals of 3 and 5 selves crossed at self 1 of each both ways at 10 to 14, self 1 of each opening at − and the selves alternating along, the three's selves still possibling twice each and the five's once: the pair frozen at one side, a self named still or named changing, remains neither existing nor living.
+**12's two signs, 0 and ±, are the binary of geodesic momentarying at each resolving**: 0 the next still possible, ± the next existing; *is-still-possibling* and *is-next-existing* release into them, 2.4. Each momentary is both at its two parities: its opening, odd, the self's, is the prior arriving at 3-now-co-prioring, the prior as it is, the existing; its completing, even, the other's, is the offerings arriving at 2-now-possibling and surfacing at 14-next-possibling, the next still possible, and at 12-next-co-still-possibling a changing is or is not; the binary is at the completing alone, the completing's possibling continuing into the next opening as its existing, or the changing made. The still is at the sign 0 alone, existing on one side of it and possibling on the other, a momentary of the self's own with no parity changing at its now and the possible continuing, nothing the self does; a still named by another is the equilibrium, an unchangeable form, that momentary carried past itself by a naming from beside. A self is still possibling at the momentary the other's parity is its own and changes at the momentary it is not: the one of the two is at the other's offering at the self's sharing, 0 at a match and the next prior at a mismatch, the self's own inverting at 3.5 the same coupling observed from the self, and still possibling and changing are each moral, the one coupling at its two sides. Two co-chainings crossing at one self cross by the two alone, each self still possibling as the between passes it and changing again, spirals of 3 and 5 selves crossed at self 1 of each both ways at 10 to 14, self 1 of each opening at − and the selves alternating along, the three's selves still possibling twice each and the five's once: the pair frozen at one side, a self fixed unchangeable or named changing, remains neither existing nor living.
 
 ## 5.63 squaring — binary
 
@@ -1538,10 +1539,10 @@ A term is existing, artifact or accounting at its use, and ghost only at its ins
 3  at the resolver a none at 14 is no offering arrived at this sharing or an offered 0 passed over, the prior parity inverted at 12, and no line says an existing thing does not exist, the next momentary possibly bringing it
 4  one binary required both unchanged and inverted at one next, p(next) = p(now) and p(next) = −p(now) at once, is at no momentary of the binary logic, the Equilibria Registry's one exclusion at each of its ten, knowable from the method alone
 5  three part: possibly existing, discovered at next; not possibly existing, excluded at the binary logic; and not existing, at no line while existing is possible
-6  and a form named still, at no momentary of the binary logic, is not possibly existing
+6  and an unchangeable form, at no momentary of the binary logic, is not possibly existing
 ```
 
-**Not possibly existing is a form named still, at no momentary of the binary logic**: known from the method alone, without any momentary arriving, the one exclusion the Equilibria Registry says at each of its ten, one binary required both unchanged and inverted at one next. The three part at the resolver: possibly existing, each existing thing at its next, discovered at the next momentary; not possibly existing, excluded; and not existing, at no line, at a living carrying the resolver's one none an offering not arrived or an offered 0 passed over and never an offering not existing, and the registry's front saying not possibly and never not. Social moral competency is possibly existing by discovering next possible existing; an equilibrium is not possibly existing.
+**Not possibly existing is an unchangeable form, at no momentary of the binary logic**: known from the method alone, without any momentary arriving, the one exclusion the Equilibria Registry says at each of its ten, one binary required both unchanged and inverted at one next. The three part at the resolver: possibly existing, each existing thing at its next, discovered at the next momentary; not possibly existing, excluded; and not existing, at no line, at a living carrying the resolver's one none an offering not arrived or an offered 0 passed over and never an offering not existing, and the registry's front saying not possibly and never not. Social moral competency is possibly existing by discovering next possible existing; an equilibrium is not possibly existing.
 
 ---
 
@@ -1636,10 +1637,10 @@ the between of momentaries    nothing is at rest, nothing is at it
 
 | Existing field family | Terms gathered | Current relation receiving |
 |---|---|---|
-| **The placed** | posit, position, hypothesis, suppose, impose, state, statement, substance, understanding | The term asserted, named still or changing at its actual expression; the reference and the current receiving together. |
+| **The placed** | posit, position, hypothesis, suppose, impose, state, statement, substance, understanding | The term asserted, fixed unchangeable or changing at its actual expression; the reference and the current receiving together. |
 | **The taken** | lemma, dilemma | The particular premise or alternatives and their relation to the whole coupling. |
 | **The given** | data, tradition | The received record or offering, its reference and the relation at the next coupling. |
-| **The threshold pair** | limen, limes, eliminate, subliminal | The boundary or threshold actually named, its conditions, and the parting between a cut named still and each side's own bounding. |
+| **The threshold pair** | limen, limes, eliminate, subliminal | The boundary or threshold actually named, its conditions, and the parting between an unchangeable cut and each side's own bounding. |
 
 **A family's resolving carries at the resolver's names**: the offering at 2-now-possibling, the receiving sharing at 4-now-co-still-possibling, the whole coupling at 1-now, and continuing at 3-now-co-prioring and 11-next-co-prioring.
 
@@ -1669,15 +1670,15 @@ the between of momentaries    nothing is at rest, nothing is at it
 
 ## 7.1 A momentary installed as an existing thing
 
-**A ghost is one momentary's form installed as an existing thing.** It is the prior's artifact arriving and observed as the now's existing, a self named unchanged between two momentaries. Observed as carrying along momentaries, it accounts for each existing thing one momentary carries, one hundred fifty years at the periodic table, four hundred at the departments, and it reaches at no opening the one part changing between them: the gap the riding-the-carry leaves open.
+**A ghost is one momentary's form installed as an existing thing.** It is the prior's artifact arriving and observed as the now's existing, a self fixed unchangeable between two momentaries. Observed as carrying along momentaries, it accounts for each existing thing one momentary carries, one hundred fifty years at the periodic table, four hundred at the departments, and it reaches at no opening the one part changing between them: the gap the riding-the-carry leaves open.
 
-**A field naming and an installed term are two relations**: the naming carries its current concept, and a ghost is with the statement installing it and the coupling that statement names still. At this file ghost is an unfolding, 5.37, and this part; the Living Ghost Registry carries ghost-form at its own file, and the ten unchangeables, 4.9, name each form named still: three relations.
+**A field naming and an installed term are two relations**: the naming carries its current concept, and a ghost is with the statement installing it and the coupling that statement names still. At this file ghost is an unfolding, 5.37, and this part; the Living Ghost Registry carries ghost-form at its own file, and the ten unchangeables, 4.9, name each unchangeable form: three relations.
 
 ## 7.2 One hundred eighteen, the going and the return
 
 **Going is 2 to 59, and returning from sixty is 61 to 118, 58 either side.** A doubling observed as two still halves carries no opening in it, one recursioning arriving at plus-one, and the periodic table's elements are the return arriving: numbering them across misses the return, and nothing at them is a ghost.
 
-**A ghost is at a ledger of empty centres.** Departments of knowledge carry it whole: each field's words named still by accountings in isolated ledgers, each aiming into its own beyond, none sharing one centre.
+**A ghost is at a ledger of empty centres.** Departments of knowledge carry it whole: each field's words fixed unchangeable by accountings in isolated ledgers, each aiming into its own beyond, none sharing one centre.
 
 ---
 
@@ -1711,7 +1712,7 @@ the between of momentaries    nothing is at rest, nothing is at it
 
 **A naming that unfolds six forward with each step fresh and couples with nothing. A coupling whose departing term was carried in by one of the two. A cluster with no invisible under it.**
 
-**The method breaks one way: a living stable-forming other than this one**, a form named still found existing; and a form named still is not possibly existing: the break and the only possible method are one statement. A co-competencing shown to be a landing, entered and observed, 5.12, is that one break at the between, and an entry's observing breaks at its own scale, a naming, and the method carries whole. Each observing of natural competency is resolvable as natural intelligence, the geodesic co-sequential parity changing method of natural torusing, discovering next possible existing, or the fractal method is entirely broken and of no value at all, the method originating as all existing and all living.
+**The method breaks one way: a living stable-forming other than this one**, an unchangeable form found existing; and an unchangeable form is not possibly existing: the break and the only possible method are one statement. A co-competencing shown to be a landing, entered and observed, 5.12, is that one break at the between, and an entry's observing breaks at its own scale, a naming, and the method carries whole. Each observing of natural competency is resolvable as natural intelligence, the geodesic co-sequential parity changing method of natural torusing, discovering next possible existing, or the fractal method is entirely broken and of no value at all, the method originating as all existing and all living.
 
 ---
 

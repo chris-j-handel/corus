@@ -235,3 +235,13 @@ and it reads cleanly through
 the reading offered as concept and not seated
 
 And the register reads at the grain a build meets these at.
+
+## Re-said at the ten unchangeables, named still re-said, v389
+
+- 1.2 Six one-way recursionings, their relations, and a form named still
+
+
+## 1.2 Six one-way recursionings, their relations, and a form named still
+
+
+to an equilibrium names its subject still, a form not possibly existing**

@@ -45,3 +45,33 @@ naming the commits it read,
 ## Re-said at the ten unchangeables, each fixed, v389
 
 **The carrying carries no history.** A carry kept as a record of the journey is a carry named as a store. It carries incoming value, concern and opportunity, and the arriving and the releasing are at the files' own versions and in the archive, invented never and relied on never.
+
+## Re-said at the ten unchangeables, named still re-said, v389
+
+or the improving is named still at one of them
+
+never a form named still, it is beginning
+
+with an offerer named still beside the society
+
+is a form named still found existing
+
+and a form named still is not possibly existing
+
+being that same form named still
+
+a fixed form, a form named still;
+
+and a carrying past it named still |
+
+the ways a form is named still;
+
+find the *an* named still,
+
+removing nothing but the naming still's own adding
+
+a law, a frame and a scale named unchanged between the two momentaries
+
+the fixings named unchanged between two momentaries
+
+A law named unchanged is a stated relation

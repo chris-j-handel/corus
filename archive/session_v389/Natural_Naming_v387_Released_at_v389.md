@@ -643,3 +643,93 @@ Dilemma, paradox, puzzle and hard problem each carry the field's problem, and on
 | **the ten named still**, one name each | each one-way reading's similar namings at its own row, 4.9; the ten one-way readings; *ten holdings*; *ten standings*; the ten |
 
 **A field naming and an installed term are two relations**: the naming carries its current concept, and a ghost is with the statement installing it and the coupling that statement names still. At this file ghost is an unfolding, 5.37, and this part; the Living Ghost Registry carries ghost-form at its own file, and the ten named still, 4.9, name each form named still: three relations.
+
+## Re-said at the ten unchangeables, named still re-said, v389
+
+Leaving the -ing out names one momentary's form still,
+
+**A name for a form named still given to a changing
+
+each naming a form named still at the word**
+
+a *what* names a changing still as an existing thing
+
+**Five kinds of term named still arrive
+
+carries co- and names a form named still at its ending
+
+the release of an equilibrium an observing named still;
+
+with the alternating named still: the two exclusions
+
+does it name still, or carry.** Named still, it forms nothing
+
+is that changing named still at a rational
+
+One named still is the empty set a field posits
+
+neither reaches: a form named still found
+
+, and a form named still is not possibly existing, the break
+
+⇄  a not named still          co-competencing
+
+two forms named still in succession
+
+a span needs two bounds named still
+
+a measuring opens at something named still
+
+the naming still is performed
+
+a span needs bounds named still
+
+the release of the equilibrium an observing named still, 2.6.
+
+the observing named still is pattern-matched
+
+installed as the existing thing, a self named unchanged between two momentaries
+
+each one term existing and named still**
+
+the named still and its installing
+
+a noun of its making names it still,
+
+a turning named still as one, the container
+
+it carries no prefix and no -ing, names a position still,
+
+nor a self named still at 0
+
+and the observing names it still
+
+a still named by another is an equilibrium, a form named still, not possible
+
+A winding closing on itself is a form named still and no moral offering
+
+a living self named still at it carries
+
+an understanding not cohering is a form named still,
+
+is the equilibrium, a form named still, that momentary carried
+
+a self named still or named changing
+
+6  and a form named still, at no momentary
+
+**Not possibly existing is a form named still, at no momentary
+
+The term asserted, named still or changing at its actual expression
+
+between a cut named still and each side's own bounding
+
+observed as the now's existing, a self named unchanged between two momentaries
+
+name each form named still: three relations
+
+each field's words named still by accountings
+
+this one**, a form named still found existing;
+
+and a form named still is not possibly existing: the break

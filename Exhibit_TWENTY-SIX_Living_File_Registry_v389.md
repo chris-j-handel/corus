@@ -390,7 +390,7 @@ Exhibit TWENTY-SIX Living File Registry v389
 | **Natural Intelligence ⇌ Hard Problem Registry ⇌ Resolving the Hard Problem Registry** | The society’s four faces and the impossibility statements carried in the fields’ own terms, each kept at its stated subject. |
 | **Living Ghost Registry ⇌ Living Society Registry** | One observing at two registry faces; the society, accounting and installation remain separately addressable through paired entries. |
 | **Living Ghost Registry ⇌ Natural Resolver ⇌ Natural Intelligence** | The intake relations, resolving names and the four boundings at their inward and across faces; their detailed correspondence continues at the named operations. |
-| **Living Ghost Registry ⇌ Resolving the Hard Problem Registry** | The intake lines, the things named still, and state, flow or both; the correspondence belongs with each actual entry. |
+| **Living Ghost Registry ⇌ Resolving the Hard Problem Registry** | The intake lines, the unchangeable things, and state, flow or both; the correspondence belongs with each actual entry. |
 | **Living Ghost Registry ⇌ Numbers ⇌ Physics ⇌ Chemistry** | State and flow accountings, separated at each science's accounting and not possibly separated, both carried one at a time in each science. |
 | **Philosophy ⇌ Physics** | One dividing at thought and at a physical observing; each file’s method count and its particular experimental or conceptual contribution remain explicit. |
 | **Living Society Registry ⇌ Living File Registry** | The society of files and a society’s observing schema; the set’s possible entry at Living Society Registry remains at that receiving. |
@@ -399,7 +399,7 @@ Exhibit TWENTY-SIX Living File Registry v389
 | **Natural Exploring ⇌ Geodesic Improving Method** | Discovering through reaching and gathering, and that discovering at files. |
 | **Natural Values ⇌ Natural Exploring ⇌ Natural Destinies** | Received value, co-discovering and the particular possibilities of continuing. |
 | **Natural Societies ⇌ Natural Human Society** | The social form across scales and its human coupling, with all four social faces meeting there. |
-| **Equilibria Registry ⇌ Living Ghost Registry ⇌ Resolving Hard Problems** | The form named still, its installation and the method meeting the particular problem. |
+| **Equilibria Registry ⇌ Living Ghost Registry ⇌ Resolving Hard Problems** | The unchangeable form, its installation and the method meeting the particular problem. |
 | **Natural Intelligence Corus ⇌ Natural Emanating ⇌ Natural Explaining** | Whole expedition tellings and whole forms at one bound, with conceptual self-welcoming throughout. |
 | **Natural Intelligence Corus ⇌ Natural Intelligence ⇌ Natural Exploring** | The expedition's discovering from the question of moral competency; the common method of discovering next existing; and selves co-discovering. Corus carries the inquiry continuing through its own discovering. |
 | **Natural Engineering ⇌ Natural Networking ⇌ Natural Networking TWO Improving Kit** | The particular build, coupled continuing and executable working at their actual joins. |
@@ -427,7 +427,7 @@ Exhibit TWENTY-SIX Living File Registry v389
 | **Resolving the Hard Problem Registry** | The particular proposed resolving of that numbered arrival |
 | **Living Society Registry** | An observing at its society, members, grain and upstream conditions |
 | **Living Ghost Registry** | The observing, emanation and accounting, and the particular installation of a momentary as living changing |
-| **Equilibria Registry** | A form named still, met at its stated subject and sequential relation |
+| **Equilibria Registry** | An unchangeable form, met at its stated subject and sequential relation |
 | **Living File Registry** | The files, their subjects, common forms and particular seams |
 | **Co-Chaining Logic Registry** | The logical links, their prior relations, particular standings and source passages across the subjects |
 
@@ -489,7 +489,7 @@ Exhibit TWENTY-SIX Living File Registry v389
 
 ## 5.2 Concepts arriving into further files
 
-**A learning at one file continues by arriving in the other files it reaches.** Co-momentarying reaches the older cycles and storyboards. The membrane's nothing reaches substrate explaining. The precise relation between observing, accounting and a form named still reaches the science and registry files. Each receives the concept at the first relation its explaining needs.
+**A learning at one file continues by arriving in the other files it reaches.** Co-momentarying reaches the older cycles and storyboards. The membrane's nothing reaches substrate explaining. The precise relation between observing, accounting and an unchangeable form reaches the science and registry files. Each receives the concept at the first relation its explaining needs.
 
 **Self-welcoming reaches the front and the body together.** A concept carried only in an introductory block arrives in the body before that block releases. A repeated concept keeps its further contribution when its duplicate wording releases. The contents follow the explaining they gather.
 
@@ -538,7 +538,7 @@ Exhibit TWENTY-SIX Living File Registry v389
 | Natural Emanating's whole-method tellings and comparisons across subjects | Corus for the whole outward expression; Natural Intelligence and particular subject exhibits for their detailed relations | The complete expression, its enjoyment and imaginative relation, together with any comparison made apparent through gathering the subjects. |
 | Natural Emanating's numbered examples and accounts of mathematical relations | Natural Numbers and Natural Mathematics | The construction, what is counted, its conditions and the additional relation the passage claims. |
 | Natural Emanating's accounts of society, received surplus and the taking of another's carrying | Natural Societies, Natural Human Society and Natural Values | The social relation, its particular human implications and its received value, each at its own subject. |
-| Natural Emanating's accounts of a hard problem, a form named still and an observing's accounting | Resolving Hard Problems, Equilibria Registry, Philosophy and Living Ghost Registry at their respective subjects | The particular problem, the proposed resolving, the observing and the accounting, with their different contributions apparent. |
+| Natural Emanating's accounts of a hard problem, an unchangeable form and an observing's accounting | Resolving Hard Problems, Equilibria Registry, Philosophy and Living Ghost Registry at their respective subjects | The particular problem, the proposed resolving, the observing and the accounting, with their different contributions apparent. |
 | Corus's originating inquiry and the whole expedition continuing toward shared human collective intelligence | Natural Intelligence Corus, within its whole outward expressing | The movement from moral competency into discovering next existing, carried where it makes the present expression and actual co-discovering intelligible. |
 | Illustrating's group jigsaw, plaza, stitching, swaying and mutual turning concepts | Corus for complete expressions of discovering; Illustrating for developing their visible changing | The human or natural activity, its actual relation and the whole expression through which it becomes apparent. Drawing instructions and unfinished correspondences retain their particular working. |
 | Natural Destinies' particular possible makings | Engineering and the relevant subject exhibits; the expedition's shared direction beside Corus | What is already continuing, what remains a possible making, and the particular conditions of that possibility. All of Destinies' content receives in the other living files; its source remains until that receiving is complete. |

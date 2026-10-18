@@ -53,3 +53,15 @@ position, scale and orientation inverted at once, bi-tri-involutioning.
 ## Re-said at prime living scales, no reading or ordering in nature, v389
 
 **Scale carries no boundary, no location and no measure: its scales are a sequencing.**
+
+## Re-said at the ten unchangeables, named still re-said, v389
+
+- 8.5 A store, one momentary named still
+
+
+## 8.5 A store, one momentary named still
+
+
+without a form named still, a looping or a forking**
+
+**A store folds once, names the fold still, and carries one way across the named surface**: one momentary of the uni-scaling taken as a form named still,

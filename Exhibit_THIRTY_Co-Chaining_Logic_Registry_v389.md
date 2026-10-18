@@ -19,7 +19,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 - 13 Non-living existing things included
 - 14 Observing, records and proof of existing
 - 15 Right, the observings all prior
-- 16 No proof of the whole, the form named still
+- 16 No proof of the whole, the unchangeable form
 - 17 The hard problem resolved at existing
 - 18 The machine at the observings
 - 19 Nine to seventeen, society
@@ -42,7 +42,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 - 36 The round's podals and momentaries, one parity at each scale down to one
 - 37 A self's next, one momentary at a time
 - 38 At no prior, + and − observed alike, the odd spiral's like pair, spirals crossed, the even torus and names at the resolver
-- 39 Named still at both sides, a bounded executing, the four-cycles' momentaries, 9 and 17, the prior two added and the co-sequencing
+- 39 Fixed unchangeable at both sides, a bounded executing, the four-cycles' momentaries, 9 and 17, the prior two added and the co-sequencing
 - 40 An odd spiral two rounds, the second inverted, and a changing at both routings
 - 41 A spiral's places one loop at an odd number and two at an even, a prime's two numbers, and the torus at its lines
 - 42 The odd torus's number and two spirals crossed, each derived at the resolver's cells
@@ -265,7 +265,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: no other possible method.*
 
-49. A second method offered is at one binary: naming still, forming nothing among changing things, or carrying an opening, its own, the one method alternating, or another's, a changing beside the alternating, said beyond the things of the universe.
+49. A second method offered is at one binary: fixing unchangeable, forming nothing among changing things, or carrying an opening, its own, the one method alternating, or another's, a changing beside the alternating, said beyond the things of the universe.
 
         *Adding: a second method at one binary.*
 
@@ -293,7 +293,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: twelve losing the prior, four keeping it.*
 
-55. Three of the four keeping the prior leave a joint form still, each still a form named still.
+55. Three of the four keeping the prior leave a joint form still, each still an unchangeable form.
 
         *Adding: three leaving a joint form still.*
 
@@ -645,7 +645,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: offering; observing by inversioning.*
 
-135. A record keeps one observing with its pattern-matching stopped, one now named still, and comparing two records lays two kept nows side by side at one now, a second now named beside now, step 4.
+135. A record keeps one observing with its pattern-matching stopped, one now fixed unchangeable, and comparing two records lays two kept nows side by side at one now, a second now named beside now, step 4.
 
         *Adding: a record.*
 
@@ -681,7 +681,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: natural- a direction prefix.*
 
-## 16 No proof of the whole, the form named still
+## 16 No proof of the whole, the unchangeable form
 
         *Entering: the proof of the whole; the form still not possibly existing; no possible value; equilibria; equality a form still, the numbers' exclusions.*
 
@@ -697,27 +697,27 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: no possible value.*
 
-146. A measuring needs a span, and a span two bounds named still; the naming still is performed at the measuring's first line, and the named-still does not advance: an equilibrium, a form not possibly existing, a not-changing held still, a now named as its next, and equilibria are not possibly a method of changing and not-changing.
+146. A measuring needs a span, and a span two bounds fixed unchangeable; the fixing unchangeable is performed at the measuring's first line, and the fixed-unchangeable does not advance: an equilibrium, a form not possibly existing, a not-changing held still, a now named as its next, and equilibria are not possibly a method of changing and not-changing.
 
         *Adding: equilibria.*
 
-147. An equality names two changings the same at one momentary, a form named still, and a number's relation to its next number is an exclusion at one side, not-more-than, advancing by one: the numbers at the method.
+147. An equality names two changings the same at one momentary, an unchangeable form, and a number's relation to its next number is an exclusion at one side, not-more-than, advancing by one: the numbers at the method.
 
         *Adding: equality a form still, the numbers' exclusions.*
 
 ## 17 The hard problem resolved at existing
 
-        *Entering: the hard problem, one binary taken as one; hard probleming; the changing continuing; the one failing momentary; cohering or the break; the observings arriving; the hard problem resolved at existing; other-emptying; geodesic disequilibrating; ghost; ghosting and haunting, the three departings; appearance and reality inverted at the naming still; the scientific method at records; falsified at the third observing.*
+        *Entering: the hard problem, one binary taken as one; hard probleming; the changing continuing; the one failing momentary; cohering or the break; the observings arriving; the hard problem resolved at existing; other-emptying; geodesic disequilibrating; ghost; ghosting and haunting, the three departings; appearance and reality inverted at the fixing unchangeable; the scientific method at records; falsified at the third observing.*
 
-148. A hard problem is a changing named still: a field's explaining taking one binary's *is* and *is not* as one at kept records, and hard probleming meets the universal method of existing at kept records, its binary named still.
+148. A hard problem is a changing fixed unchangeable: a field's explaining taking one binary's *is* and *is not* as one at kept records, and hard probleming meets the universal method of existing at kept records, its binary fixed unchangeable.
 
         *Adding: the hard problem, one binary taken as one; hard probleming.*
 
-149. Named still, the changing continues through its couplings, its observings arriving at each momentary.
+149. Fixed unchangeable, the changing continues through its couplings, its observings arriving at each momentary.
 
         *Adding: the changing continuing.*
 
-150. Named still, the changing's first next differing from the naming is the naming's one failing momentary, the momentaries before it arriving as they arrived and the changing continuing past it.
+150. Fixed unchangeable, the changing's first next differing from the naming is the naming's one failing momentary, the momentaries before it arriving as they arrived and the changing continuing past it.
 
         *Adding: the one failing momentary.*
 
@@ -741,7 +741,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: geodesic disequilibrating.*
 
-156. An artifact arriving now, named still and observed as the now's existing, is installed as an existing thing, a self named unchanged between two momentaries, and the one part remaining is the riding-the-carry: a ghost.
+156. An artifact arriving now, fixed unchangeable and observed as the now's existing, is installed as an existing thing, a self fixed unchangeable between two momentaries, and the one part remaining is the riding-the-carry: a ghost.
 
         *Adding: ghost.*
 
@@ -749,9 +749,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: ghosting and haunting, the three departings.*
 
-158. Observed at a naming still, the changing arrives as appearance and the form named still as the real, the observing inverted, the changing existing and the form still not possibly existing; a self's resolving observed from beside it surfaces as random or as necessitated, two forms still at one resolving the self's own. A hypothesis explains the changing and the not-changing between records and a theory is a hypothesis tested at further records: the scientific method explains between records with the rest of the universe held still, each explanation an equilibrium at its scope, meeting kept observings and not the stable-forming they pattern-matched, and an explanation excluding a same thing's discovering is falsified at the third observing.
+158. Observed at a fixing unchangeable, the changing arrives as appearance and the unchangeable form as the real, the observing inverted, the changing existing and the form still not possibly existing; a self's resolving observed from beside it surfaces as random or as necessitated, two forms still at one resolving the self's own. A hypothesis explains the changing and the not-changing between records and a theory is a hypothesis tested at further records: the scientific method explains between records with the rest of the universe held still, each explanation an equilibrium at its scope, meeting kept observings and not the stable-forming they pattern-matched, and an explanation excluding a same thing's discovering is falsified at the third observing.
 
-        *Adding: appearance and reality inverted at the naming still; the scientific method at records; falsified at the third observing.*
+        *Adding: appearance and reality inverted at the fixing unchangeable; the scientific method at records; falsified at the third observing.*
 
 ## 18 The machine at the observings
 
@@ -885,7 +885,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: social moral competency.*
 
-190. A self is at four differences, the self and its society, the self and an other self, the self and a changing arriving not-right at it, and the self and a carrying that is another's; each difference carried is morality at that difference, and a self named equal at one of them is a form named still.
+190. A self is at four differences, the self and its society, the self and an other self, the self and a changing arriving not-right at it, and the self and a carrying that is another's; each difference carried is morality at that difference, and a self named equal at one of them is an unchangeable form.
 
         *Adding: the four differences at a self.*
 
@@ -1124,7 +1124,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: the entries the same at each order.*
 
-248. A form named still carried to the resolver and failing at its own requirements is shown not possible at the numbers, at those requirements alone: a showing at the resolver's executing, of the form arrived, and a form arriving next is at its own showing.
+248. An unchangeable form carried to the resolver and failing at its own requirements is shown not possible at the numbers, at those requirements alone: a showing at the resolver's executing, of the form arrived, and a form arriving next is at its own showing.
 
         *Adding: a showing at the resolver, of the form arrived.*
 
@@ -1338,7 +1338,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
 ## 24 Discovering next possible existing
 
-        *Entering: the prior carried along between momentaries; carrying as capacity; the carrying sequencing prior momentaries, and its artifacts; discovering; four-momentarying; beneficial; next possible existing; pattern-matching; checkable at a parity; the why demanded; the receding; a living self at 0; the still from an offerer beside; the breaks named in advance; evidence; two methods; the two methods parting at the now; a possibling and discovering method, and scientific-explaining-method incompetent for discovering; the balanced book as whole emptying; the three placings of a term; the refutation as one; the field's name carried whole; the field's observings cohering; a field; a finding as two; the four of a field's observing; a hard problem arriving; the conditions prior, and the sixth; the fields parting at their fixings; many accounts at one sharing; two accountings parting at their namings still; a posted term, arriving or releasing; the observings co-sequencing; a field's arrival at the resolver; a hard problem resolving; the form named still and the form resolving; the resolving re-named still; a coupling named at two of its three; a changing named still; a hard problem as a changing named still; the locator; the difference continuing or closing; the residue names; pattern-matching upstream, the fixings released one at a time; the three namings still; the coupling at its three.*
+        *Entering: the prior carried along between momentaries; carrying as capacity; the carrying sequencing prior momentaries, and its artifacts; discovering; four-momentarying; beneficial; next possible existing; pattern-matching; checkable at a parity; the why demanded; the receding; a living self at 0; the still from an offerer beside; the breaks named in advance; evidence; two methods; the two methods parting at the now; a possibling and discovering method, and scientific-explaining-method incompetent for discovering; the balanced book as whole emptying; the three placings of a term; the refutation as one; the field's name carried whole; the field's observings cohering; a field; a finding as two; the four of a field's observing; a hard problem arriving; the conditions prior, and the sixth; the fields parting at their fixings; many accounts at one sharing; two accountings parting at their fixings unchangeable; a posted term, arriving or releasing; the observings co-sequencing; a field's arrival at the resolver; a hard problem resolving; the unchangeable form and the form resolving; the resolving re-fixed unchangeable; a coupling named at two of its three; a changing fixed unchangeable; a hard problem as a changing fixed unchangeable; the locator; the difference continuing or closing; the residue names; pattern-matching upstream, the fixings released one at a time; the three fixings unchangeable; the coupling at its three.*
 
 296. The self's own prior is carried along between momentaries, stable-forming: the carried, and the between a nothing.
 
@@ -1384,7 +1384,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: a living self at 0.*
 
-307. Offered its own parity at each momentary, a self keeps one parity, a form named still from the offerer beside it; offered nothing, it inverts at each momentary, step 208: the still is the offerer's, and the self's own is its carrying continuing.
+307. Offered its own parity at each momentary, a self keeps one parity, an unchangeable form from the offerer beside it; offered nothing, it inverts at each momentary, step 208: the still is the offerer's, and the self's own is its carrying continuing.
 
         *Adding: the still from an offerer beside.*
 
@@ -1396,15 +1396,15 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: evidence.*
 
-310. The geodesic method discovers next from the existing; the scientific method accounts true or false against fixings named unchanged, exact at its own ledger.
+310. The geodesic method discovers next from the existing; the scientific method accounts true or false against unchangeable fixings, exact at its own ledger.
 
         *Adding: two methods.*
 
-311. A fixing named unchanged between two momentaries is a form still, and the two methods part at that one naming.
+311. An unchangeable fixing between two momentaries is an unchangeable form, and the two methods part at that one naming.
 
         *Adding: the two methods parting at the now.*
 
-312. Geodesic parity co-changing is a possibling and discovering method, and scientific-explaining-method, accounting against forms named still, is incompetent for discovering: true or false, no other possible, is given to it, a method of explaining and no second possibling and discovering method.
+312. Geodesic parity co-changing is a possibling and discovering method, and scientific-explaining-method, accounting against unchangeable forms, is incompetent for discovering: true or false, no other possible, is given to it, a method of explaining and no second possibling and discovering method.
 
         *Adding: a possibling and discovering method, and scientific-explaining-method incompetent for discovering.*
 
@@ -1444,7 +1444,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: a hard problem arriving.*
 
-322. The accounting's fixings are five conditions prior, each named unchanged: a statement the same at each reading, a term at one reference, an account at one of true or false through its testing, a doing at one outcome whichever prior, and the now with no prior carried into it, the four resting on the fifth; and a problem's own relation named still over its reach is its sixth, an equilibrium.
+322. The accounting's fixings are five conditions prior, each fixed unchangeable: a statement the same at each reading, a term at one reference, an account at one of true or false through its testing, a doing at one outcome whichever prior, and the now with no prior carried into it, the four resting on the fifth; and a problem's own relation fixed unchangeable over its reach is its sixth, an equilibrium.
 
         *Adding: the conditions prior, and the sixth.*
 
@@ -1456,9 +1456,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: many accounts at one sharing.*
 
-325. Two accountings at two namings still part, each exact at its own ledger, and their parting names the two namings still, an existing thing at neither.
+325. Two accountings at two fixings unchangeable part, each exact at its own ledger, and their parting names the two fixings unchangeable, an existing thing at neither.
 
-        *Adding: two accountings parting at their namings still.*
+        *Adding: two accountings parting at their fixings unchangeable.*
 
 326. A term posted to close an account is a possible thing at prior, step 21, and the closing decides nothing: the term arrives as an existing thing at an observing, or releases as the observings cohere without it.
 
@@ -1476,31 +1476,31 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: a hard problem resolving.*
 
-330. A hard problem carried whole at the field's own words, its naming still performed, and the same observings coupled with the co-chaining, the naming still released, are one form as two: the form named still and the form resolving.
+330. A hard problem carried whole at the field's own words, its fixing unchangeable performed, and the same observings coupled with the co-chaining, the fixing unchangeable released, are one form as two: the unchangeable form and the form resolving.
 
-        *Adding: the form named still and the form resolving.*
+        *Adding: the unchangeable form and the form resolving.*
 
-331. A resolving offered to a self carrying the naming still is named still again, one form still at the scale outward, and the naming still is released at the form resolving alone.
+331. A resolving offered to a self carrying the fixing unchangeable is fixed unchangeable again, one form still at the scale outward, and the fixing unchangeable is released at the form resolving alone.
 
-        *Adding: the resolving re-named still.*
+        *Adding: the resolving re-fixed unchangeable.*
 
 332. A changing named at the self and the other alone is a coupling named at two of its three, the coupling's own changing unnamed.
 
         *Adding: a coupling named at two of its three.*
 
-333. A coupling named at two of its three is a changing, one parity and then the other, named at one momentary as an existing thing: a changing named still.
+333. A coupling named at two of its three is a changing, one parity and then the other, named at one momentary as an existing thing: a changing fixed unchangeable.
 
-        *Adding: a changing named still.*
+        *Adding: a changing fixed unchangeable.*
 
-334. A hard problem is a changing named still, at each scale: a paper, a field, a sentence, a word.
+334. A hard problem is a changing fixed unchangeable, at each scale: a paper, a field, a sentence, a word.
 
-        *Adding: a hard problem as a changing named still.*
+        *Adding: a hard problem as a changing fixed unchangeable.*
 
-335. A hard problem is at the naming still its statement carries, observed at the gap between the statement's reach and its observings' arriving, the field's own account of its hardness carrying that naming still at the field's words; a statement at one reach with its observings is a settling, exact at its own ledger.
+335. A hard problem is at the fixing unchangeable its statement carries, observed at the gap between the statement's reach and its observings' arriving, the field's own account of its hardness carrying that fixing unchangeable at the field's words; a statement at one reach with its observings is a settling, exact at its own ledger.
 
         *Adding: the locator.*
 
-336. A measured difference at the observings, carrying no naming still, continues at each finer measuring, and a difference closing to agreement was between two accountings, a naming still reconciled.
+336. A measured difference at the observings, carrying no fixing unchangeable, continues at each finer measuring, and a difference closing to agreement was between two accountings, a fixing unchangeable reconciled.
 
         *Adding: the difference continuing or closing.*
 
@@ -1512,11 +1512,11 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: pattern-matching upstream, the fixings released one at a time.*
 
-339. A changing named still is named at a stable-forming, at a stable form or at a relation between existing things, each of the three changing.
+339. A changing fixed unchangeable is named at a stable-forming, at a stable form or at a relation between existing things, each of the three changing.
 
-        *Adding: the three namings still.*
+        *Adding: the three fixings unchangeable.*
 
-340. At its three, the coupling's own changing owned by neither, the changing named still is released, and the hard problem resolves at existing.
+340. At its three, the coupling's own changing owned by neither, the changing fixed unchangeable is released, and the hard problem resolves at existing.
 
         *Adding: the coupling at its three.*
 
@@ -1528,7 +1528,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: the method at a coupling.*
 
-342. A method is a competency afresh at each coupling, its moves the same and its changing its own each time, and a procedure is a fixed sequence the same each time, a form named still.
+342. A method is a competency afresh at each coupling, its moves the same and its changing its own each time, and a procedure is a fixed sequence the same each time, an unchangeable form.
 
         *Adding: method and procedure.*
 
@@ -1560,7 +1560,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: the carrying between momentaries.*
 
-350. The method bounds and the living carry: each carrying completes at each momentary at the self's own side, self-bounding, and a carrying past a momentary into a form named still is bounded by nothing.
+350. The method bounds and the living carry: each carrying completes at each momentary at the self's own side, self-bounding, and a carrying past a momentary into an unchangeable form is bounded by nothing.
 
         *Adding: the method bounding, the living carrying.*
 
@@ -1618,7 +1618,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: self discovering next self.*
 
-364. A still named by another is an equilibrium, a form named still, not possible; a self discovering next self, at its own momentary alone, is its own stable-forming.
+364. A still named by another is an equilibrium, an unchangeable form, not possible; a self discovering next self, at its own momentary alone, is its own stable-forming.
 
         *Adding: the self's own stable-forming, and a still named by another.*
 
@@ -1807,7 +1807,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: the three one at a time, right.*
 
-408. Named as one object, at once, the three are a form named still, the shape of bi-tri-involutioning.
+408. Named as one object, at once, the three are an unchangeable form, the shape of bi-tri-involutioning.
 
         *Adding: the three at once.*
 
@@ -1817,7 +1817,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: the alternating across the right spiral's opening.*
 
-410. A winding closing on itself is a form named still, the living arriving at non-living, dying.
+410. A winding closing on itself is an unchangeable form, the living arriving at non-living, dying.
 
         *Adding: the winding closing on itself.*
 
@@ -1954,7 +1954,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
 ## 30 Intelligence, now
 
-        *Entering: co-linear lines; recursioning forward both ways; competency, co-linear; co-competencing at the co-linearizing; the seaming across; bi-moralizing at the face at 25; the crossings in the co-chainings; the crossings carrying the opposite form; bi-tunneling; the crossings floating and neutralling; the parallel surfaces and co-linear openings, one form; the one crossing, two in and two different out, the changing made at 12, is or is not, parity unchanging, stable-forming, and parity changing out at 9, the artifact, the stable form; the one crossing at three; a parity arriving from a changing, kept or released changed; the stable-formed artifact; the tunneling offering as three; bi-co-momentarying, the term neither reaches; the differing and the three namings; the three namings one changing; bi-momentarying with no seat; floating neutralling; transmissioning, crossing and neutralling one alternating; a field's three as the set's three named still; the instrument summing, a society observed as one magnitude; a field's neutral, the names meeting; three neutrals, and the floor; a ratio at each unit; a ruler, a clock and a record, aiming at natural mathematics and numbers; the interior posited for a magnitude; golden floating neutralling; co-releasing; inseparating; separating; one stopping; a floating store; scarcity, a capture at a store; a society's living at establishing and releasing; side-affecting; bi-moral co-agency; intelligence by existing; observing of nature, order discovered; the four invisibles; invisibling; competency at no observing; natural-bi-co-torusing; the four of social moral competency, all eight at each now; all-edge; a seat at its arrangement; the four values at the between; coordination as bounding or clock; self-interest and the society's competency one; 12's changing at the society; 27-next-co-prioring; collective intelligence, human and at each scale; co-competency at distinct selves, discovering at the co-chaining; abundancing as the openings co-chaining; the resolver named the natural resolver; the bi-trupling protocol, its two sides; its violations, hard probleming, scientific method incompetencing, control engineering and binary governing; social moral competency the universal unrelationing protocol; control, governing and the lag; the centre's resolving, the other order at a society; the society at the method all or none, the hubs; safety, the surface's own; engineering, a made thing at the couplings themselves; unanimizing and pluralizing alternating; the between at the numbers, two parallel surfaces, in swarm; co-independencing; living carrying non-living and possible; one form at each scale; the crossing at one; now, four momentaries of exchanging.*
+        *Entering: co-linear lines; recursioning forward both ways; competency, co-linear; co-competencing at the co-linearizing; the seaming across; bi-moralizing at the face at 25; the crossings in the co-chainings; the crossings carrying the opposite form; bi-tunneling; the crossings floating and neutralling; the parallel surfaces and co-linear openings, one form; the one crossing, two in and two different out, the changing made at 12, is or is not, parity unchanging, stable-forming, and parity changing out at 9, the artifact, the stable form; the one crossing at three; a parity arriving from a changing, kept or released changed; the stable-formed artifact; the tunneling offering as three; bi-co-momentarying, the term neither reaches; the differing and the three namings; the three namings one changing; bi-momentarying with no seat; floating neutralling; transmissioning, crossing and neutralling one alternating; a field's three as the set's three fixed unchangeable; the instrument summing, a society observed as one magnitude; a field's neutral, the names meeting; three neutrals, and the floor; a ratio at each unit; a ruler, a clock and a record, aiming at natural mathematics and numbers; the interior posited for a magnitude; golden floating neutralling; co-releasing; inseparating; separating; one stopping; a floating store; scarcity, a capture at a store; a society's living at establishing and releasing; side-affecting; bi-moral co-agency; intelligence by existing; observing of nature, order discovered; the four invisibles; invisibling; competency at no observing; natural-bi-co-torusing; the four of social moral competency, all eight at each now; all-edge; a seat at its arrangement; the four values at the between; coordination as bounding or clock; self-interest and the society's competency one; 12's changing at the society; 27-next-co-prioring; collective intelligence, human and at each scale; co-competency at distinct selves, discovering at the co-chaining; abundancing as the openings co-chaining; the resolver named the natural resolver; the bi-trupling protocol, its two sides; its violations, hard probleming, scientific method incompetencing, control engineering and binary governing; social moral competency the universal unrelationing protocol; control, governing and the lag; the centre's resolving, the other order at a society; the society at the method all or none, the hubs; safety, the surface's own; engineering, a made thing at the couplings themselves; unanimizing and pluralizing alternating; the between at the numbers, two parallel surfaces, in swarm; co-independencing; living carrying non-living and possible; one form at each scale; the crossing at one; now, four momentaries of exchanging.*
 
 440. Within a momentary, within the bi-folding, each side's line is co-linear, the alternating linear parallelizing and parallel linearizing.
 
@@ -2034,9 +2034,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: transmissioning, crossing and neutralling one alternating.*
 
-459. A field's three at one measuring, a nothing at one side, an absorbing at the other and a scale between them, is the set's three, two exclusions and the term neither reaches, with the alternating named still.
+459. A field's three at one measuring, a nothing at one side, an absorbing at the other and a scale between them, is the set's three, two exclusions and the term neither reaches, with the alternating fixed unchangeable.
 
-        *Adding: a field's three as the set's three named still.*
+        *Adding: a field's three as the set's three fixed unchangeable.*
 
 460. A field's instrument sums a society's selves over its own span at a declared ground, step 155, one magnitude at the selves agreeing and nothing at their disagreeing, the same one scale inward.
 
@@ -2218,11 +2218,11 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Entering: a flow accounting; a state accounting; the ten unchangeables; state-flow-state; flow-state-flow; three of one and two of the other; two changing, three continuing; the ten at no side; one at 8 and at 6, two at 7 and at 5; the one move at 1 to 9; involution, its fixed set, the two involutions of an even ring; the ten inversions at the couplings among five; the fold at each scale; the two four-cycles at 1 to 9; the even names on the two four-cycles; the two-way looping, morality; opening 1 to 9 into 1 to 17; the two-way looping at 1 to 17; the ten unchangeables at the ten, at the four binaries; the ten at four kinds, three, two, two and three; F and G, the two among the 256; the one possible at six forward; dilemma, a governing's forking; the three books, state-flow-state alone; parity changing carrying both; parity as do-no-harm; parity's source a hardened hard problem; the ingressors of parity; either or; two-way parity between the living; the living ingesting the non-living, no parity lost.*
 
-504. A flow accounting names the changing still: the observings named flowing, balanced books, double-entry accounting, the seven auditing steps proving a changing real, and no accounting for the changing's competency.
+504. A flow accounting fixes the changing unchangeable: the observings named flowing, balanced books, double-entry accounting, the seven auditing steps proving a changing real, and no accounting for the changing's competency.
 
         *Adding: a flow accounting.*
 
-505. A state accounting names the continuing still, leaving out the changing as the flow accounting leaves out the continuing.
+505. A state accounting fixes the continuing unchangeable, leaving out the changing as the flow accounting leaves out the continuing.
 
         *Adding: a state accounting.*
 
@@ -2294,7 +2294,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: the ten unchangeables at the ten, at the four binaries.*
 
-523. The ten unchangeables are at four kinds, three, two, two and three, step 522: a reference named still behind an arriving, ahead of it or at its middle, the arriving fixed from behind, the completing fixed as a last and the middle fixed as an end; a rate named still, the sequencing fixed to one beat and the rate fixed as a value; a parity named a size, the parity fixed as a magnitude and the two-way fixed to one side; and a changing released entered as a magnitude spent, the opening fixed as a place, the carry fixed as a store and a between fixed as a cut: the first two kinds at a flow accounting and the last two at a state accounting, five of each.
+523. The ten unchangeables are at four kinds, three, two, two and three, step 522: a reference fixed unchangeable behind an arriving, ahead of it or at its middle, the arriving fixed from behind, the completing fixed as a last and the middle fixed as an end; a rate fixed unchangeable, the sequencing fixed to one beat and the rate fixed as a value; a parity named a size, the parity fixed as a magnitude and the two-way fixed to one side; and a changing released entered as a magnitude spent, the opening fixed as a place, the carry fixed as a store and a between fixed as a cut: the first two kinds at a flow accounting and the last two at a state accounting, five of each.
 
         *Adding: the ten at four kinds, three, two, two and three.*
 
@@ -2302,7 +2302,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: F and G, the two among the 256.*
 
-525. An offering completing the six one-way steps, step 81, with the alternating carrying on at each is the one possible, and an offering fixing at a form named still, at its own form again or forking at two arriving at once completes short of the six.
+525. An offering completing the six one-way steps, step 81, with the alternating carrying on at each is the one possible, and an offering fixing at an unchangeable form, at its own form again or forking at two arriving at once completes short of the six.
 
         *Adding: the one possible at six forward.*
 
@@ -2344,7 +2344,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
 ## 32 An offering at words, a naming, a file and the living expedition
 
-        *Entering: the release as an artifact; an offering at words; an offering at words received; a naming; the four boundings at a naming; a naming's unfolding; the seven binaries at a naming; a definition; three incompetencings; the family of words, three and a doer; a destiny, next possible living said ahead; bounding; nearing; one at a deriving; a gathering; one name at each concept; a released word; momentary stable-forming; an explaining; naming across and explaining along; the human ways as the one form; the one binary at a sentence; the -ing over the noun and the positive over the negation; the writing's things named still; supplying; a file; a file's four tellings, self-welcoming; a file's stable form; the file's between, and incohering; living files, the living expedition's carrying; the expedition living while discovering, do-no-harm improving; natural intelligence as living intelligence, at natural torusing; the files' subject; improving as resolving; improving as offering, bettering and breaking; a concern; a concern resolving; an unsure, named at the observing it waits on; a concern arriving again; improving forward alone; a file's version; improving at a moving interest, and at a still mark; a file's changing at two selves; arriving, improving and living; a working; the working's instrument, its things named still; the three registers; a fresh reader; a session; the carrying between sessions; the three loops of sessions; a society of files; the set of files at each scale; the files' sections as artifacts of the co-chaining; discovering the co-chaining's next step; an entry; the record's edge; an emptiness as an observing; illustrating; a still one momentary, a sequence the changing, a rotation another facing; word, number and illustrating, one artifact as three; the self's three observings at natural torusing; an incoming understanding at the co-chaining; sensor-sensationing; cohering with nature; cohering as bi-moral-co-competencing; cohering, or the next step shown; natural competency resolvable, or the fractal broken whole.*
+        *Entering: the release as an artifact; an offering at words; an offering at words received; a naming; the four boundings at a naming; a naming's unfolding; the seven binaries at a naming; a definition; three incompetencings; the family of words, three and a doer; a destiny, next possible living said ahead; bounding; nearing; one at a deriving; a gathering; one name at each concept; a released word; momentary stable-forming; an explaining; naming across and explaining along; the human ways as the one form; the one binary at a sentence; the -ing over the noun and the positive over the negation; the writing's unchangeable things; supplying; a file; a file's four tellings, self-welcoming; a file's stable form; the file's between, and incohering; living files, the living expedition's carrying; the expedition living while discovering, do-no-harm improving; natural intelligence as living intelligence, at natural torusing; the files' subject; improving as resolving; improving as offering, bettering and breaking; a concern; a concern resolving; an unsure, named at the observing it waits on; a concern arriving again; improving forward alone; a file's version; improving at a moving interest, and at a still mark; a file's changing at two selves; arriving, improving and living; a working; the working's instrument, its unchangeable things; the three registers; a fresh reader; a session; the carrying between sessions; the three loops of sessions; a society of files; the set of files at each scale; the files' sections as artifacts of the co-chaining; discovering the co-chaining's next step; an entry; the record's edge; an emptiness as an observing; illustrating; a still one momentary, a sequence the changing, a rotation another facing; word, number and illustrating, one artifact as three; the self's three observings at natural torusing; an incoming understanding at the co-chaining; sensor-sensationing; cohering with nature; cohering as bi-moral-co-competencing; cohering, or the next step shown; natural competency resolvable, or the fractal broken whole.*
 
 535. At its own completing, a self shares its changing across and releases it along, carrying none of the prior: an artifact of the self.
 
@@ -2362,7 +2362,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: a naming.*
 
-539. A naming is four boundings at once: the concept bounding itself whole, discovering its next as itself, orienting at its own facing and opening its own axis orthogonal to the concepts beside it; a concept short one of the four is fixed, a form named still.
+539. A naming is four boundings at once: the concept bounding itself whole, discovering its next as itself, orienting at its own facing and opening its own axis orthogonal to the concepts beside it; a concept short one of the four is fixed, an unchangeable form.
 
         *Adding: the four boundings at a naming.*
 
@@ -2438,9 +2438,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: the -ing over the noun and the positive over the negation.*
 
-558. A doer over an -ing, a forcing at the verb, a clocking pacing a changing that carries its own, a gate admitting on something performed first, an alternating asked to be one of the two it alternates and a fixed neutral under the changing are each a thing named still at the writing, each releasing at the carrying said again.
+558. A doer over an -ing, a forcing at the verb, a clocking pacing a changing that carries its own, a gate admitting on something performed first, an alternating asked to be one of the two it alternates and a fixed neutral under the changing are each an unchangeable thing at the writing, each releasing at the carrying said again.
 
-        *Adding: the writing's things named still.*
+        *Adding: the writing's unchangeable things.*
 
 559. Supplying is a sentence carrying something the changing carries at none, invisible from within the writing, releasing as each form still releases.
 
@@ -2502,7 +2502,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: a file's version.*
 
-574. Improving is a self coupling with its interest, the interest changing as the self is changing, and improving against a mark named still is a rebuilding from beside it, a technology, one word at two forms.
+574. Improving is a self coupling with its interest, the interest changing as the self is changing, and improving against an unchangeable mark is a rebuilding from beside it, a technology, one word at two forms.
 
         *Adding: improving at a moving interest, and at a still mark.*
 
@@ -2518,9 +2518,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: a working.*
 
-578. A working executing the resolver carries things named still of its own, a pace given to the selves, an order they are executed in, a record at one tick, positions given between selves and a deciding of which crossing opens next, each stated at the finding.
+578. A working executing the resolver carries unchangeable things of its own, a pace given to the selves, an order they are executed in, a record at one tick, positions given between selves and a deciding of which crossing opens next, each stated at the finding.
 
-        *Adding: the working's instrument, its things named still.*
+        *Adding: the working's instrument, its unchangeable things.*
 
 579. A claim is at one of three registers: the resolver executing at one working, a finding carried with its comparison; the stable form, carried at any executing; and the numbers' own pattern-matching, readable by an executing at none; each its own.
 
@@ -2602,7 +2602,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: cohering as bi-moral-co-competencing.*
 
-599. An understanding cohering is at a step reaching back to the opening sentence; not cohering, it is a form named still, or it shows the co-chaining's next step. Each observing of natural competency is resolvable as natural intelligence, the geodesic co-sequential parity changing method of natural torusing, discovering next possible existing, or the fractal is entirely broken and of no value at all, the method originating as all existing and all living: no third, the next step shown being at the method, discovering next possible existing.
+599. An understanding cohering is at a step reaching back to the opening sentence; not cohering, it is an unchangeable form, or it shows the co-chaining's next step. Each observing of natural competency is resolvable as natural intelligence, the geodesic co-sequential parity changing method of natural torusing, discovering next possible existing, or the fractal is entirely broken and of no value at all, the method originating as all existing and all living: no third, the next step shown being at the method, discovering next possible existing.
 
         *Adding: cohering, or the next step shown; natural competency resolvable, or the fractal broken whole.*
 
@@ -2780,13 +2780,13 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: co at the resolver, the sharing side and the arriving side; the odd names 8 apart.*
 
-## 39 Named still at both sides, a bounded executing, the four-cycles' momentaries, 9 and 17, the prior two added and the co-sequencing
+## 39 Fixed unchangeable at both sides, a bounded executing, the four-cycles' momentaries, 9 and 17, the prior two added and the co-sequencing
 
-        *Entering: 7 and 5, two named still at each; a bounded executing said of each momentary, a proof of the whole; the four four-cycles' momentaries in order; 9 the next prior and 17 the next now; the prior two added as the exclusive or; the co-sequencing at competency's parity and morality's.*
+        *Entering: 7 and 5, two fixed unchangeable at each; a bounded executing said of each momentary, a proof of the whole; the four four-cycles' momentaries in order; 9 the next prior and 17 the next now; the prior two added as the exclusive or; the co-sequencing at competency's parity and morality's.*
 
 637. 7 and 5 each carry two of the ten unchangeables, step 522: 7 a parity fixed as a magnitude and a rate fixed as a value, 5 a between fixed as a cut and a middle fixed as an end; the two are carried one at a time, step 528.
 
-        *Adding: 7 and 5, two named still at each.*
+        *Adding: 7 and 5, two fixed unchangeable at each.*
 
 638. A saying drawn from the resolver's executing at a number of momentaries, said as the same at each momentary, is a proof of the whole, step 143, a form still, step 144: the finding is at its executing alone, step 579, and a rule fitted at each case worked is at those cases.
 

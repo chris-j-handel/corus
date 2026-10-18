@@ -844,3 +844,136 @@ read at Exhibit ONE's table; four times
 ## Re-said at the ten unchangeables, each fixed, v389
 
 523. The ten unchangeables are at four kinds, three, two, two and three, step 522: a reference named still behind an arriving, ahead of it or at its middle, the arriving named from behind, the completing named as a last and the middle named as an end; a rate named still, the sequencing named to one beat and the rate named as a value; a parity named a size, the parity named as a magnitude and the two-way named to one side; and a changing released entered as a magnitude spent, the opening named as a place, the carry named as a store and a between fixed as a cut: the first two kinds at a flow accounting and the last two at a state accounting, five of each.
+
+## Re-said at the ten unchangeables, named still re-said, v389
+
+- 16 No proof of the whole, the form named still
+
+## 16 No proof of the whole, the form named still
+
+names at the resolver
+- 39 Named still at both sides
+
+## 39 Named still at both sides
+
+*Entering: 7 and 5, two named still at each;
+
+*Adding: 7 and 5, two named still at each.*
+
+at one binary: naming still, forming nothing
+
+each still a form named still.
+
+one now named still, and comparing two records
+
+a span two bounds named still; the naming still is performed at the measuring's first line, and the named-still does not advance
+
+the same at one momentary, a form named still, and a number's
+
+ghosting and haunting, the three departings; appearance and reality inverted at the naming still
+
+148. A hard problem is a changing named still: a field's explaining taking one binary's *is* and *is not* as one at kept records, and hard probleming meets the universal method of existing at kept records, its binary named still.
+
+149. Named still, the changing continues
+
+150. Named still, the changing's first next
+
+156. An artifact arriving now, named still and observed as the now's existing, is installed as an existing thing, a self named unchanged between two momentaries
+
+158. Observed at a naming still, the changing arrives as appearance and the form named still as the real
+
+*Adding: appearance and reality inverted at the naming still
+
+a self named equal at one of them is a form named still.
+
+248. A form named still carried to the resolver
+
+two accountings parting at their namings still;
+
+the form named still and the form resolving; the resolving re-named still; a coupling named at two of its three; a changing named still; a hard problem as a changing named still;
+
+the three namings still; the coupling at its three.*
+
+a self keeps one parity, a form named still from the offerer beside it
+
+accounts true or false against fixings named unchanged
+
+311. A fixing named unchanged between two momentaries
+
+accounting against forms named still, is incompetent
+
+each named unchanged: a statement the same at each reading
+
+a problem's own relation named still over its reach
+
+325. Two accountings at two namings still part, each exact at its own ledger, and their parting names the two namings still, an existing thing at neither.
+
+*Adding: two accountings parting at their namings still.*
+
+330. A hard problem carried whole at the field's own words, its naming still performed, and the same observings coupled with the co-chaining, the naming still released, are one form as two: the form named still and the form resolving.
+
+*Adding: the form named still and the form resolving.*
+
+331. A resolving offered to a self carrying the naming still is named still again, one form still at the scale outward, and the naming still is released at the form resolving alone.
+
+*Adding: the resolving re-named still.*
+
+named at one momentary as an existing thing: a changing named still.
+
+*Adding: a changing named still.*
+
+334. A hard problem is a changing named still, at each scale
+
+*Adding: a hard problem as a changing named still.*
+
+335. A hard problem is at the naming still its statement carries, observed at the gap between the statement's reach and its observings' arriving, the field's own account of its hardness carrying that naming still at the field's words
+
+carrying no naming still, continues at each finer measuring, and a difference closing to agreement was between two accountings, a naming still reconciled.
+
+339. A changing named still is named at a stable-forming
+
+*Adding: the three namings still.*
+
+the changing named still is released, and the hard problem resolves
+
+a fixed sequence the same each time, a form named still.
+
+a carrying past a momentary into a form named still is bounded
+
+is an equilibrium, a form named still, not possible
+
+the three are a form named still, the shape
+
+A winding closing on itself is a form named still
+
+a field's three as the set's three named still;
+
+with the alternating named still.
+
+*Adding: a field's three as the set's three named still.*
+
+504. A flow accounting names the changing still
+
+505. A state accounting names the continuing still
+
+a reference named still behind an arriving, ahead of it or at its middle, the arriving fixed from behind, the completing fixed as a last and the middle fixed as an end; a rate named still,
+
+an offering fixing at a form named still
+
+the writing's things named still;
+
+the working's instrument, its things named still;
+
+a concept short one of the four is fixed, a form named still.
+
+are each a thing named still at the writing
+
+*Adding: the writing's things named still.*
+
+improving against a mark named still
+
+carries things named still of its own
+
+*Adding: the working's instrument, its things named still.*
+
+not cohering, it is a form named still, or it shows

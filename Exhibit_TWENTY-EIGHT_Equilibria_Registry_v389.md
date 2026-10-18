@@ -127,9 +127,9 @@ Adjacent views share four positions: at each number one side opens and the other
 
 **Each proposed conception of equilibria is a hard problem with its hardness ignored.** It takes the competency of existing as a given, and claims a true-and-false conserving accounting.
 
-**An equilibrium is a form named still, not possibly existing; stable-forming, and unstable deforming at non-living scale, are observably existing.** Each proposed conception of equilibria names one of them still.
+**An equilibrium is an unchangeable form, not possibly existing; stable-forming, and unstable deforming at non-living scale, are observably existing.** Each proposed conception of equilibria fixes one of them unchangeable.
 
-**An equilibrium is a living or non-living existing thing named still.** The registry says existing and not living alone: living alone sets a rock apart, and a rock is an existing thing. The non-living exist and change, carrying nothing, their forms continuing through their changing. A living self can surface zero, non-responsive at a momentary, while its carrying continues along, so a surface unchanged at a zero names neither a non-living thing nor a still one, and naming it still there is the equilibrium.
+**An equilibrium is a living or non-living existing thing fixed unchangeable.** The registry says existing and not living alone: living alone sets a rock apart, and a rock is an existing thing. The non-living exist and change, carrying nothing, their forms continuing through their changing. A living self can surface zero, non-responsive at a momentary, while its carrying continues along, so a surface unchanged at a zero names neither a non-living thing nor an unchangeable one, and fixing it unchangeable there is the equilibrium.
 
 **The changing and the exchanging are among living and non-living existing things alike**: the living carrying their prior into now, the non-living carrying nothing, their forms continuing through their changing, and a sign crossing between any two carrying nothing. **Non-living existing things are included in discovering social moral competency among the living.** A non-living thing meets a self at a coupling as other, offering its signs and carrying nothing, and the term uncovered at their coupling is owned by neither and carried on by the living.
 
@@ -137,7 +137,7 @@ The equilibrium holding ends, and the living and non-living things it names keep
 
 ## 2.2 A stability, a form or a relation, and surviving
 
-**The stability, the form and the relation stable forming, as suggested at v377.** Suggested at v377: *the man is in the river (momentary) later the man returns to the same spot in the river and the man and the river are both different carryings than prior. the man and the river are still stable forming and can be observed in momentary stable form and the observing is required to answer your concern.* As suggested, at each observing a momentary stable form and at the next a different carrying; the observing at *an observing is its pattern-matching at the self*, the Co-Chaining Logic Registry step 134, and *An observing is now-existing arriving: the proof of existing*, step 136; the stable form beside *Each living set is a stable form, and nothing living has a stable form, bothbothing*, step 390. A mathematical conception of equilibria names a stability, a form or a relation still, each observed, as suggested, as stable forming. In dynamical mathematics a stability is a pattern's response to a disturbance, its departures staying small or shrinking, and not its constituents stopping: an oscillation can be stable as an oscillation, and an instability, its departures growing, can lead to another organized form. An equilibrium of relative phase and an equilibrium of the whole evolving system are two assertions. The distinction is a naming one: it places the still a conception names at the stability, the form or the relation, one conception at a time.
+**The stability, the form and the relation stable forming, as suggested at v377.** Suggested at v377: *the man is in the river (momentary) later the man returns to the same spot in the river and the man and the river are both different carryings than prior. the man and the river are still stable forming and can be observed in momentary stable form and the observing is required to answer your concern.* As suggested, at each observing a momentary stable form and at the next a different carrying; the observing at *an observing is its pattern-matching at the self*, the Co-Chaining Logic Registry step 134, and *An observing is now-existing arriving: the proof of existing*, step 136; the stable form beside *Each living set is a stable form, and nothing living has a stable form, bothbothing*, step 390. A mathematical conception of equilibria fixes a stability, a form or a relation unchangeable, each observed, as suggested, as stable forming. In dynamical mathematics a stability is a pattern's response to a disturbance, its departures staying small or shrinking, and not its constituents stopping: an oscillation can be stable as an oscillation, and an instability, its departures growing, can lead to another organized form. An equilibrium of relative phase and an equilibrium of the whole evolving system are two assertions. The distinction is a naming one: it places the still a conception names at the stability, the form or the relation, one conception at a time.
 
 **Not possible, and shown not possible at prior, differ.** Each proposed conception of equilibria arriving from the prior is shown not possible now, and each arriving next is met at its next. **Each conception arrived is shown not possible.**
 
@@ -149,13 +149,13 @@ The equilibrium holding ends, and the living and non-living things it names keep
 
 **One general description receives each conception: a stated relation continuing through the comparisons its claim names.** A fixed value is membership in a collection of one, a range is membership in a larger collection, and opposition is membership among opposite pairs.
 
-**A conception and its added requirements are one conception.** A relation can continue while an added fixing of the whole carrying, a next nonzero offering or a later one each fail at the same receiving: the relation continuing is stable-forming, and each added requirement names it still. A changed receiving is a further conception.
+**A conception and its added requirements are one conception.** A relation can continue while an added fixing of the whole carrying, a next nonzero offering or a later one each fail at the same receiving: the relation continuing is stable-forming, and each added requirement fixes it unchangeable. A changed receiving is a further conception.
 
 **The claim has one shape.** Continuing stable-forming runs as natural torusing, and natural torusing carries its whole participation, 12345. A conception of equilibria naming less than the whole 12345 is not possible together with continuing.
 
-**The claim reaches each conception in two steps.** Each conception meets at least one of the ten, and each of the ten names one face still, the other face running at the same number.
+**The claim reaches each conception in two steps.** Each conception meets at least one of the ten, and each of the ten fixes one face unchangeable, the other face running at the same number.
 
-**The ordering chain closes at the two faces.** A conception naming an ordering p still at its next, the alternating next being I(p) and I(p) ≠ p, names p and I(p) at one next. The step the chain left open, that the ordering named still is the very ordering its next inverts, is the two faces at one number. Two inversions meet p again at a next momentary, a further occurrence, with the changing between.
+**The ordering chain closes at the two faces.** A conception fixing an ordering p unchangeable at its next, the alternating next being I(p) and I(p) ≠ p, names p and I(p) at one next. The step the chain left open, that the ordering fixed unchangeable is the very ordering its next inverts, is the two faces at one number. Two inversions meet p again at a next momentary, a further occurrence, with the changing between.
 
 ## 2.4 A participation missing, unchanging or changing named
 
@@ -165,25 +165,25 @@ The equilibrium holding ends, and the living and non-living things it names keep
 
 **A state accounting and a flow accounting each leave one side out.** The state accounting leaves the changing, the flow accounting leaves the continuing, and a true-and-false conserving accounting takes either as the whole. **Separated, state and flow are not possible**, as a reading from and a writing to a memory are for intelligence: a state read is a store said as entering now, an ingressing, and a flow written a changing said as leaving into a store, an escaping.
 
-**Each conception of equilibria names unchanging or names changing, exactly one of the two.** A conception naming unchanging names an existing thing with no arriving, and existing is arriving; a conception naming changing names a changing still. Coupled, each releases.
+**Each conception of equilibria names unchanging or names changing, exactly one of the two.** A conception naming unchanging names an existing thing with no arriving, and existing is arriving; a conception naming changing fixes a changing unchangeable. Coupled, each releases.
 
-**Each momentary completes in co-releasing.** Each conception of equilibria names a form still at the running of geodesic co-releasing, and continuing runs as geodesic co-releasing. Each momentary releases into the next whether a sign changed, stayed, crossed or nothing crossed, and a particular carrying's completing is its own.
+**Each momentary completes in co-releasing.** Each conception of equilibria fixes a form unchangeable at the running of geodesic co-releasing, and continuing runs as geodesic co-releasing. Each momentary releases into the next whether a sign changed, stayed, crossed or nothing crossed, and a particular carrying's completing is its own.
 
 # THREE · THE TEN, FIVE PLACES AT TWO FACES
 
 ## 3.1 One form of hard problem, and the sixth condition
 
-**The ten are one form of hard problem.** Each proposed conception of equilibria names a changing still in one of the ten ways, and can carry more than one. A hard problem and its resolving are one form at two faces, each conception in its field's words at one and its resolving at the other, natural intelligence at the between of them, and the registry's tables carry both faces.
+**The ten are one form of hard problem.** Each proposed conception of equilibria fixes a changing unchangeable in one of the ten ways, and can carry more than one. A hard problem and its resolving are one form at two faces, each conception in its field's words at one and its resolving at the other, natural intelligence at the between of them, and the registry's tables carry both faces.
 
-**A proposed conception of equilibria is the sixth condition.** Five conditions come before a method acts at a problem's statement, and the fifth, *nothing prior enters*, is the one the first four stand on. To the five conditions prior a problem adds its own, a conserving relation over a conserving reach, and each proposed conception of equilibria is that relation named still.
+**A proposed conception of equilibria is the sixth condition.** Five conditions come before a method acts at a problem's statement, and the fifth, *nothing prior enters*, is the one the first four stand on. To the five conditions prior a problem adds its own, a conserving relation over a conserving reach, and each proposed conception of equilibria is that relation fixed unchangeable.
 
 **The numerical bridge.** The pairs (2,3) and (3,4) are overlapping neighbours, and n²−(n−1)(n+1)=1 at each n.
 
 ## 3.2 The ten at Exhibit ONE's names, at the four four-cyclings
 
-**The ten sit at Exhibit ONE's names, at Natural Naming 4.9's one seating.** Each of the ten is one binary of a universe, its *is* and its *is not* taken as one, seated at its name at now and that name 8 up at next: the stilling it names at now and the changing travelling through it at next, bi-inversioning-co-recursioning up and down the numbers, Natural Naming 4.15. Now: an opening fixed as a place at 1-now and 9-next-co-changing, and an arriving fixed from behind at 2-now-possibling and 10-next-co-possibling. Existing: a two-way fixed to one side at 3-now-co-prioring and 11-next-co-prioring, and a sequencing fixed to one beat at 4-now-co-still-possibling and 12-next-co-still-possibling. Same: a between fixed as a cut and a middle fixed as an end at 5-now-co-changing and 13-next, and a completing fixed as a last at 6-now-co-possibling and 14-next-possibling. All: a parity fixed as a magnitude and a rate fixed as a value at 7-now-prioring and 15-next-prioring, and a carry fixed as a store at 8-now-still-possibling and 16-next-still-possibling. At the resolver each name's term named still from one momentary: at 3, 10, 11 and 12 the resolving stops within one to four momentaries; at 2, 6 and 14 it stops at a still offering one parity that is the whole of what the self couples with at that name, and goes on at a still of two parities parting or beside another offering route; 4, 5 and 13 are at no changing parity at the resolver, each sharing and the joins, `incoming/equilibria_registry_v377/executions/ten_roots_named_still.py`.
+**The ten sit at Exhibit ONE's names, at Natural Naming 4.9's one seating.** Each of the ten is one binary of a universe, its *is* and its *is not* taken as one, seated at its name at now and that name 8 up at next: the stilling it names at now and the changing travelling through it at next, bi-inversioning-co-recursioning up and down the numbers, Natural Naming 4.15. Now: an opening fixed as a place at 1-now and 9-next-co-changing, and an arriving fixed from behind at 2-now-possibling and 10-next-co-possibling. Existing: a two-way fixed to one side at 3-now-co-prioring and 11-next-co-prioring, and a sequencing fixed to one beat at 4-now-co-still-possibling and 12-next-co-still-possibling. Same: a between fixed as a cut and a middle fixed as an end at 5-now-co-changing and 13-next, and a completing fixed as a last at 6-now-co-possibling and 14-next-possibling. All: a parity fixed as a magnitude and a rate fixed as a value at 7-now-prioring and 15-next-prioring, and a carry fixed as a store at 8-now-still-possibling and 16-next-still-possibling. At the resolver each name's term fixed unchangeable from one momentary: at 3, 10, 11 and 12 the resolving stops within one to four momentaries; at 2, 6 and 14 it stops at a still offering one parity that is the whole of what the self couples with at that name, and goes on at a still of two parities parting or beside another offering route; 4, 5 and 13 are at no changing parity at the resolver, each sharing and the joins, `incoming/equilibria_registry_v377/executions/ten_roots_named_still.py`.
 
-**Each of the ten unchangeables is one of 12's two signs, 0 or ±, frozen at one side.** At the resolver each resolving is one of two, the binary of geodesic momentarying, Natural Naming 5.62: the sign ±, a changing that is, the offered the next prior or the prior inverted, the next existing; or the sign 0, 12's 0 at a sharing at a prior, the prior kept as the possible, the next still possible; and the equilibrium is a still named by another, 2.1. The living is one of the two at each self's own momentary, and a crossing of co-chainings crosses by them alone, each self still possibling as the between passes it and changing again: spirals of 3 and 5 selves, each self at a parity and releasing along at 9, crossed at self 1 of each both ways at 10 to 14, come to one relation, each self's releasings again at 2, from momentary 12, and 5 and 7 from momentary 20, Exhibit ONE's table of two spirals beside each other, and crossed; each of the ten is that pair frozen at one side, a self named still or named changing, 2.4.
+**Each of the ten unchangeables is one of 12's two signs, 0 or ±, frozen at one side.** At the resolver each resolving is one of two, the binary of geodesic momentarying, Natural Naming 5.62: the sign ±, a changing that is, the offered the next prior or the prior inverted, the next existing; or the sign 0, 12's 0 at a sharing at a prior, the prior kept as the possible, the next still possible; and the equilibrium is a still named by another, 2.1. The living is one of the two at each self's own momentary, and a crossing of co-chainings crosses by them alone, each self still possibling as the between passes it and changing again: spirals of 3 and 5 selves, each self at a parity and releasing along at 9, crossed at self 1 of each both ways at 10 to 14, come to one relation, each self's releasings again at 2, from momentary 12, and 5 and 7 from momentary 20, Exhibit ONE's table of two spirals beside each other, and crossed; each of the ten is that pair frozen at one side, a self fixed unchangeable or named changing, 2.4.
 
 **At the four four-cyclings each step is momentarying or parity changing, with prior, now and next inside.** Each four-cycling's parity is unchanged at its two steps eight apart, momentarying, and changes at its two steps of 17 less, parity changing: it passes two names of one parity and two of the other, the parity changing twice, two momentaries, and meets its first name again at the next momentary, a further occurrence, `incoming/equilibria_registry_v377/executions/ten_on_the_four_cycles.py`, parts 2 and 5. The self's forward recursionings, 1, 3, 5, 7, the Co-Chaining Logic Registry step 81, and each one's partner nine less, 8, 6, 4, 2, the other's names, Exhibit ONE's table of one move, 1 to 4, pair at them, 1 with 8, 3 with 6, 5 with 4 and 7 with 2; the rows below are in that order, each four-cycling written as Exhibit ONE's table of twelve forms writes it, 1-9-8-16 and 3-11-6-14 going eight up first and 2-15-7-10 and 4-13-5-12 going 17 less first:
 
@@ -219,7 +219,7 @@ The equilibrium holding ends, and the living and non-living things it names keep
 
 **Exhibit ONE's four-cycles pair at the momentaries, each partner round the other way.** At the odd momentaries 1-9-8-16 pairs with 2-15-7-10 and 3-11-6-14 with 4-13-5-12, and at the even momentaries 2-15-7-10 with 3-11-6-14 and 4-13-5-12 with itself: the two directions of one bi-folding. The two possiblings across, 6-now-co-possibling and 14-next-possibling, share the four-cycle 3-11-6-14 with 3-now-co-prioring, the prior at its sharings, and 11-next-co-prioring; the middle four-cycle 7-11-6-10, through 6-now-co-possibling, and the eight-cycle 2-15-7-11-3-14-6-10, through both, partner themselves at the even momentary: at that momentary the fold meets itself, Exhibit ONE's table of twelve forms. The ten sit at each of the four four-cyclings, 3.2, the four-cycling 3-11-6-14 carrying a two-way fixed to one side at 3 and 11 and a completing fixed as a last at 6 and 14.
 
-**One parity offered once co-chains through the whole.** At Exhibit ONE's resolver, selves in a ring release each changing along at 9-next-co-changing to the next self's offerings. A ring each at no prior and one + offered once at one opens at each in turn, the + surfacing at 14-next-possibling and passed on as it arrives, one self on at each momentary, with no forcer: the method at things at no prior. The resolver's lines make the + the next prior at each as it passes, each sharing opening at the bi-coupling, 1.3, each prior inverting at its own from its next momentary, and from the momentary numbering the ring each is at a parity; the rows below are of a ring of selves each at a parity, as Exhibit ONE's table of a spiral of selves opens it, an even ring from that table's second momentary. A society named not changing names a form still, and not changing is not not-carrying: the non-living exist, arrive and change, deforming at their own scale, and carry nothing. An equilibrium of a society names a changing society still, or names nothing.
+**One parity offered once co-chains through the whole.** At Exhibit ONE's resolver, selves in a ring release each changing along at 9-next-co-changing to the next self's offerings. A ring each at no prior and one + offered once at one opens at each in turn, the + surfacing at 14-next-possibling and passed on as it arrives, one self on at each momentary, with no forcer: the method at things at no prior. The resolver's lines make the + the next prior at each as it passes, each sharing opening at the bi-coupling, 1.3, each prior inverting at its own from its next momentary, and from the momentary numbering the ring each is at a parity; the rows below are of a ring of selves each at a parity, as Exhibit ONE's table of a spiral of selves opens it, an even ring from that table's second momentary. A society named not changing fixes a form unchangeable, and not changing is not not-carrying: the non-living exist, arrive and change, deforming at their own scale, and carry nothing. An equilibrium of a society fixes a changing society unchangeable, or names nothing.
 
 | Selves in the ring | The going on |
 |---|---|
@@ -227,9 +227,9 @@ The equilibrium holding ends, and the living and non-living things it names keep
 | an even number | each self changing at each coupling, neighbours opposite; the whole returns at 2 couplings |
 | an odd number | one like pair, the 0 shared at 10-next-co-possibling at its self, moving one self on at each second momentary; the whole inverted at 2 × n couplings and returning first at 4 × n, `eq_code.py` parts 1 and 10 |
 
-**An odd ring closes no parity, and a meeting runs round it: the 0 shared at 10 at the like pair's self, a changing that is not, moving through the shared surface one self at each second momentary.** The ten name the whole changing still: opposition named still names the even ring, and a between fixed as a cut names the running meeting.
+**An odd ring closes no parity, and a meeting runs round it: the 0 shared at 10 at the like pair's self, a changing that is not, moving through the shared surface one self at each second momentary.** The ten fix the whole changing unchangeable: opposition fixed unchangeable names the even ring, and a between fixed as a cut names the running meeting.
 
-The rest returns at no coupling. A ring at rest, each at no prior and nothing arriving, opens nothing and stays at rest, so a ring reaching rest never meets its offered sign again; each ring returns its whole, the offered sign with it, at 2 couplings or at 4 × n, and the rest is met at none of them. At Exhibit ONE's resolver, executed again at v377, in rings of 1 to 11, each at no prior and one + offered once at one, the + opens each in turn and is the next prior at each, by the momentary numbering the ring, and across 5,000 couplings no ring meets rest, Exhibit ONE's *a sharing at a prior never none again* at each, `incoming/equilibria_registry_v377/executions/eq_code.py`, parts 1 and 2. The ring meets the rest named still, and each other conception meets its proof by its own requirements.
+The rest returns at no coupling. A ring at rest, each at no prior and nothing arriving, opens nothing and stays at rest, so a ring reaching rest never meets its offered sign again; each ring returns its whole, the offered sign with it, at 2 couplings or at 4 × n, and the rest is met at none of them. At Exhibit ONE's resolver, executed again at v377, in rings of 1 to 11, each at no prior and one + offered once at one, the + opens each in turn and is the next prior at each, by the momentary numbering the ring, and across 5,000 couplings no ring meets rest, Exhibit ONE's *a sharing at a prior never none again* at each, `incoming/equilibria_registry_v377/executions/eq_code.py`, parts 1 and 2. The ring meets the rest fixed unchangeable, and each other conception meets its proof by its own requirements.
 
 **Prior and next are the edges at now**, sharing one direction forward on both sides. A common clock is the seventh way, a sequencing fixed to one beat. Nothing moving is complete fixing, meeting several of the ten at once.
 
@@ -241,31 +241,31 @@ The rest returns at no coupling. A ring at rest, each at no prior and nothing ar
 
 **Each conception arrives whole, in its own words, with its conserving relation and its reach.** A fixed value, a retained relation, a distribution and a symmetry family are different subjects even when each is called equilibrium, and one conception can meet more than one of the ten.
 
-**A definition's expression continuing unchanged is an existing statement, and the subject it names continues through its own changing.** Conditioning, replacement and maintained supplying belong to several conceptions: a law, an occupant, an original participant and a composition are different declared subjects. A law, a frame or a scale named unchanged is such an expression, and it names its subject still through one further step, the step from a fixing to an equilibrium: the same subject, at the same relation and the same occurrence, required unchanged at the occurrence its own continuing changes it.
+**A definition's expression continuing unchanged is an existing statement, and the subject it names continues through its own changing.** Conditioning, replacement and maintained supplying belong to several conceptions: a law, an occupant, an original participant and a composition are different declared subjects. A law, a frame or a scale fixed unchangeable is such an expression, and it fixes its subject unchangeable through one further step, the step from a fixing to an equilibrium: the same subject, at the same relation and the same occurrence, required unchanged at the occurrence its own continuing changes it.
 
 ## 4.2 One form, and three differences inside each of the ten
 
-**Each proposed conception names a changing still, in one of the ten ways.** The changing is stable-forming, unstable deforming at non-living scale, or a stability, a form or a relation, each observed at a momentary stable form, 2.2.
+**Each proposed conception fixes a changing unchangeable, in one of the ten ways.** The changing is stable-forming, unstable deforming at non-living scale, or a stability, a form or a relation, each observed at a momentary stable form, 2.2.
 
 **The specified accounts and the prior worked definitions, SA01 to SA21, are placed the same way.**
 
-**Each of the ten gathers its arrivals, and inside each they part at three differences.** The sixty-three arrivals, forty-two proposed conceptions and twenty-one specified accounts and prior definitions, are the one form of 3.1, each a form named still, 2.1, at the one of the ten the tables place it at; one conception can meet more than one, 3.1 and 4.1, and a second meeting is carried at the arrival's own words, at the arriving that names it. Inside each of the ten three differences gather them, and each arrival is carried whole in its own words at its place.
+**Each of the ten gathers its arrivals, and inside each they part at three differences.** The sixty-three arrivals, forty-two proposed conceptions and twenty-one specified accounts and prior definitions, are the one form of 3.1, each an unchangeable form, 2.1, at the one of the ten the tables place it at; one conception can meet more than one, 3.1 and 4.1, and a second meeting is carried at the arrival's own words, at the arriving that names it. Inside each of the ten three differences gather them, and each arrival is carried whole in its own words at its place.
 
-1. **What is named still.** 2.2 names three, a stability, a form and a relation, and says a stability: a response to a disturbance, its departures staying small or shrinking. The form and the relation are said here: a form, one value, range, state, law, composition, family or extremum of the whole named unchanged; a relation, a comparison between parts named unchanged, equal, balanced, opposed, agreeing, complementary or equivalent. Each arrival is placed at its own words by these three, one or more together, a fresh reader checking each; the row's own column, *the changing it names*, is carried beside it as it stood, its *that can change* said at 2.2 as stable forming, and at NY09, NY12, NY18, NY19, SA04, SA12 and SA13 the column and the placing part, and at NY10 and NY11 the placing adds a form to the column's stability.
+1. **What is fixed unchangeable.** 2.2 names three, a stability, a form and a relation, and says a stability: a response to a disturbance, its departures staying small or shrinking. The form and the relation are said here: a form, one value, range, state, law, composition, family or extremum of the whole fixed unchangeable; a relation, a comparison between parts fixed unchangeable, equal, balanced, opposed, agreeing, complementary or equivalent. Each arrival is placed at its own words by these three, one or more together, a fresh reader checking each; the row's own column, *the changing it names*, is carried beside it as it stood, its *that can change* said at 2.2 as stable forming, and at NY09, NY12, NY18, NY19, SA04, SA12 and SA13 the column and the placing part, and at NY10 and NY11 the placing adds a form to the column's stability.
 2. **The subject**: what the field says is changing, at the row's own column if the column names a subject, and otherwise the field's own mathematics.
 3. **What is added.** At each pair whose own words tie them to one setting, by *the same*, *that same*, *that*, *those* or the setting stated in the same words, each is shown as one of three: one conception, the one receiving with a requirement added, specified or unspecified, 2.3, *a conception and its added requirements are one conception*; a further conception, the receiving changed, 2.3, *a changed receiving is a further conception*; or, at a pair meeting neither, another claim at the one setting, said here.
 
-**The fields gather at the ten.** A field's arrivals fall at those of the ten at which the field names its changing still, and fields naming one still fall together under one subject: 4.13 carries each subject, with its fields, at the ten.
+**The fields gather at the ten.** A field's arrivals fall at those of the ten at which the field fixes its changing unchangeable, and fields fixing one unchangeable fall together under one subject: 4.13 carries each subject, with its fields, at the ten.
 
 ## 4.3 An arriving fixed from behind, 2 arrivals
 
-**Named still at a form**, 1.
+**Fixed unchangeable at a form**, 1.
 
 | Arrival, in its own words | Field | The changing it names | Subject | One conception, a further one, or another claim |
 |---|---|---|---|---|
 | **NY18** · The conditional A/B law (1/2,1/2) remains fixed given nonabsorption, under the stated transition table, with positive survival probability at each finite step. | probability | a relation that can change | a mathematics of its own: probability | — |
 
-**Named still at a relation**, 1.
+**Fixed unchangeable at a relation**, 1.
 
 | Arrival, in its own words | Field | The changing it names | Subject | One conception, a further one, or another claim |
 |---|---|---|---|---|
@@ -273,26 +273,26 @@ The rest returns at no coupling. A ring at rest, each at no prior and nothing ar
 
 ## 4.4 An opening fixed as a place, 5 arrivals
 
-**Named still at a form**, 2.
+**Fixed unchangeable at a form**, 2.
 
 | Arrival, in its own words | Field | The changing it names | Subject | One conception, a further one, or another claim |
 |---|---|---|---|---|
 | **NY23** · A specified position–velocity pair (x*,0) stays fixed under Fτ(x,v)=(x+τv,v). | mechanics | rest and balance of bodies | bodies at rest and in balance | one conception with NY21 and NY24, rest with the position x* specified |
 | **SA02** · The complete term is 0 or 1, and its specified successor is itself: equilibrium requires the term to equal its successor, with no changing, balancing of opposed changes or further progressing required. | the coupling of self and other | a form that can change | the coupling of self and other, and the resolver | — |
 
-**Named still at a form and a relation**, 1.
+**Fixed unchangeable at a form and a relation**, 1.
 
 | Arrival, in its own words | Field | The changing it names | Subject | One conception, a further one, or another claim |
 |---|---|---|---|---|
 | **NY40** · Stationarity and symmetric Nash in the all-zero-payoff game with its replicator evolution. | evolutionary game theory | populations | populations | — |
 
-**Named still at a form, a relation and a stability**, 1.
+**Fixed unchangeable at a form, a relation and a stability**, 1.
 
 | Arrival, in its own words | Field | The changing it names | Subject | One conception, a further one, or another claim |
 |---|---|---|---|---|
 | **NY39** · Symmetric Nash and evolutionarily stable resident composition in that dominant-A game, with the same supplied replicator evolution. | evolutionary game theory | populations | populations | one conception with NY38, the one dominant-A replicator account, symmetric Nash and evolutionary stability added |
 
-**Named still at a relation**, 1.
+**Fixed unchangeable at a relation**, 1.
 
 | Arrival, in its own words | Field | The changing it names | Subject | One conception, a further one, or another claim |
 |---|---|---|---|---|
@@ -300,7 +300,7 @@ The rest returns at no coupling. A ring at rest, each at no prior and nothing ar
 
 ## 4.5 A completing fixed as a last, 8 arrivals
 
-**Named still at a form**, 5.
+**Fixed unchangeable at a form**, 5.
 
 | Arrival, in its own words | Field | The changing it names | Subject | One conception, a further one, or another claim |
 |---|---|---|---|---|
@@ -310,13 +310,13 @@ The rest returns at no coupling. A ring at rest, each at no prior and nothing ar
 | **NY06** · A retained range remains satisfied through its specified parity-changing continuation. | the resolver | the coupling and carrying of the resolver | the coupling of self and other, and the resolver | — |
 | **SA04** · The permitted values are −1, 0 and +1; continuing interchanges −1 and +1 and leaves 0 unchanged; equilibrium conserves membership in this collection. | the coupling of self and other | a relation that can change | the coupling of self and other, and the resolver | — |
 
-**Named still at a form and a stability**, 1.
+**Fixed unchangeable at a form and a stability**, 1.
 
 | Arrival, in its own words | Field | The changing it names | Subject | One conception, a further one, or another claim |
 |---|---|---|---|---|
 | **SA07** · The reaching principle: an isolated body in a unique equilibrium, persisting when supplied and approached from different states, as in the stated two-body contact with fixed U, CA, CB and positive exchange κ. | thermodynamics | heat | heat | one conception with NY42, the stated two-body contact, uniqueness, persisting and approach added |
 
-**Named still at a form and a relation**, 2.
+**Fixed unchangeable at a form and a relation**, 2.
 
 | Arrival, in its own words | Field | The changing it names | Subject | One conception, a further one, or another claim |
 |---|---|---|---|---|
@@ -325,7 +325,7 @@ The rest returns at no coupling. A ring at rest, each at no prior and nothing ar
 
 ## 4.6 A carry fixed as a store, 10 arrivals
 
-**Named still at a form**, 5.
+**Fixed unchangeable at a form**, 5.
 
 | Arrival, in its own words | Field | The changing it names | Subject | One conception, a further one, or another claim |
 |---|---|---|---|---|
@@ -335,7 +335,7 @@ The rest returns at no coupling. A ring at rest, each at no prior and nothing ar
 | **SA10** · The scattering family nα(x) = 1/(exp(x + α) − 1), α ≥ 0, stationary under number-conserving scattering, the Planck member at α = 0. | radiation | heat | heat | SA17 a further conception, emission and absorption added to its scattering |
 | **NY28** · Constant internal X composition in the maintained chain F ⇌ X ⇌ W: x=(f+w)/2 with f,w>0 fixed by the stated receiving. | chemistry | reactions | reactions | — |
 
-**Named still at a form and a relation**, 4.
+**Fixed unchangeable at a form and a relation**, 4.
 
 | Arrival, in its own words | Field | The changing it names | Subject | One conception, a further one, or another claim |
 |---|---|---|---|---|
@@ -344,7 +344,7 @@ The rest returns at no coupling. A ring at rest, each at no prior and nothing ar
 | **NY16** · Equal weights on the two exchanged opposed-sign values under empty receiving. Stationarity and detailed balance select the same law on this domain. | probability at the resolver's returns | the coupling and carrying of the resolver | the coupling of self and other, and the resolver | — |
 | **NY17** · Equal weights on the exchanged values A and B, zero on X, with A→B, B→A and X→B under empty receiving. | probability at the resolver's returns | the coupling and carrying of the resolver | the coupling of self and other, and the resolver | — |
 
-**Named still at a relation**, 1.
+**Fixed unchangeable at a relation**, 1.
 
 | Arrival, in its own words | Field | The changing it names | Subject | One conception, a further one, or another claim |
 |---|---|---|---|---|
@@ -352,7 +352,7 @@ The rest returns at no coupling. A ring at rest, each at no prior and nothing ar
 
 ## 4.7 A middle fixed as an end, 6 arrivals
 
-**Named still at a form**, 4.
+**Fixed unchangeable at a form**, 4.
 
 | Arrival, in its own words | Field | The changing it names | Subject | One conception, a further one, or another claim |
 |---|---|---|---|---|
@@ -361,7 +361,7 @@ The rest returns at no coupling. A ring at rest, each at no prior and nothing ar
 | **NY13** · Local but not global minimality of U(x)=x⁴/4−x³/3−x² under dx/dτ=−U′(x), with no added fluctuations. | dynamical systems | a form that can change | a mathematics of its own: dynamical systems | another claim at NY14's U and evolution, a different minimum |
 | **SA11** · A local Maxwellian cancelling its elastic collision term, kept under the full operation with spatial transport, at constant density, zero mean velocity and a nonzero temperature gradient. | kinetic theory of gases | heat | heat | — |
 
-**Named still at a form and a stability**, 2.
+**Fixed unchangeable at a form and a stability**, 2.
 
 | Arrival, in its own words | Field | The changing it names | Subject | One conception, a further one, or another claim |
 |---|---|---|---|---|
@@ -370,7 +370,7 @@ The rest returns at no coupling. A ring at rest, each at no prior and nothing ar
 
 ## 4.8 A parity fixed as a magnitude, 9 arrivals
 
-**Named still at a form**, 8.
+**Fixed unchangeable at a form**, 8.
 
 | Arrival, in its own words | Field | The changing it names | Subject | One conception, a further one, or another claim |
 |---|---|---|---|---|
@@ -383,7 +383,7 @@ The rest returns at no coupling. A ring at rest, each at no prior and nothing ar
 | **NY26** · Planar rigid-body static equilibrium: rest in the selected frame, zero net external force and zero net external torque. | mechanics | rest and balance of bodies | bodies at rest and in balance | — |
 | **NY36** · A stationary value N in the logistic account N′=rN(1−N/K), r,K>0, N≥0 and no migration. | population ecology | populations | populations | one conception with NY37, positive added at NY37 |
 
-**Named still at a relation**, 1.
+**Fixed unchangeable at a relation**, 1.
 
 | Arrival, in its own words | Field | The changing it names | Subject | One conception, a further one, or another claim |
 |---|---|---|---|---|
@@ -391,13 +391,13 @@ The rest returns at no coupling. A ring at rest, each at no prior and nothing ar
 
 ## 4.9 A sequencing fixed to one beat, 5 arrivals
 
-**Named still at a form and a relation**, 1.
+**Fixed unchangeable at a form and a relation**, 1.
 
 | Arrival, in its own words | Field | The changing it names | Subject | One conception, a further one, or another claim |
 |---|---|---|---|---|
 | **NY34** · The two-good exchange record at prices (q,1), original endowments (1,0) and (0,1), and respective utilities x₂ and x₁ satisfies both best-bundle and resource-clearing requirements, with q(next)=1. | economics | a society's exchange | selves choosing and exchanging | NY35 a further conception, its next price changed |
 
-**Named still at a relation**, 4.
+**Fixed unchangeable at a relation**, 4.
 
 | Arrival, in its own words | Field | The changing it names | Subject | One conception, a further one, or another claim |
 |---|---|---|---|---|
@@ -408,13 +408,13 @@ The rest returns at no coupling. A ring at rest, each at no prior and nothing ar
 
 ## 4.10 A rate fixed as a value, 5 arrivals
 
-**Named still at a form and a relation**, 1.
+**Fixed unchangeable at a form and a relation**, 1.
 
 | Arrival, in its own words | Field | The changing it names | Subject | One conception, a further one, or another claim |
 |---|---|---|---|---|
 | **SA17** · Stationarity with emission and absorption added to number-conserving scattering, each process balanced on its own. | radiation | heat | heat | a further conception to SA10, emission and absorption added to number-conserving scattering |
 
-**Named still at a relation**, 4.
+**Fixed unchangeable at a relation**, 4.
 
 | Arrival, in its own words | Field | The changing it names | Subject | One conception, a further one, or another claim |
 |---|---|---|---|---|
@@ -425,13 +425,13 @@ The rest returns at no coupling. A ring at rest, each at no prior and nothing ar
 
 ## 4.11 A two-way fixed to one side, 7 arrivals
 
-**Named still at a form**, 1.
+**Fixed unchangeable at a form**, 1.
 
 | Arrival, in its own words | Field | The changing it names | Subject | One conception, a further one, or another claim |
 |---|---|---|---|---|
 | **NY38** · Stationary composition in the dominant-A two-strategy replicator account, x′=x(1−x), 0≤x≤1. | evolutionary game theory | populations | populations | one conception with NY39, symmetric Nash and evolutionary stability added at NY39 |
 
-**Named still at a relation**, 6.
+**Fixed unchangeable at a relation**, 6.
 
 | Arrival, in its own words | Field | The changing it names | Subject | One conception, a further one, or another claim |
 |---|---|---|---|---|
@@ -444,13 +444,13 @@ The rest returns at no coupling. A ring at rest, each at no prior and nothing ar
 
 ## 4.12 A between fixed as a cut, 6 arrivals
 
-**Named still at a form**, 1.
+**Fixed unchangeable at a form**, 1.
 
 | Arrival, in its own words | Field | The changing it names | Subject | One conception, a further one, or another claim |
 |---|---|---|---|---|
 | **NY41** · Constrained entropy maximum and stationary energy split u under insulation, with positive constant heat capacities, fixed total U and no redistribution: κ=0. | thermodynamics | heat | heat | NY42 a further conception, the one setting with κ>0 |
 
-**Named still at a relation**, 5.
+**Fixed unchangeable at a relation**, 5.
 
 | Arrival, in its own words | Field | The changing it names | Subject | One conception, a further one, or another claim |
 |---|---|---|---|---|
@@ -462,7 +462,7 @@ The rest returns at no coupling. A ring at rest, each at no prior and nothing ar
 
 ## 4.13 The fields at the ten, a key for aiming at each field
 
-**Each field's equilibria fall at those of the ten at which it names its changing still, and a field is aimed at from each of them.** At each of them the field sets a still beside the changing and sets aside the changing's own competency, carried along at the between: at that one of the ten the field's subject is named still, and its competency's source is set aside at it. The table carries each subject, with the fields gathered under it, at each of the ten, each arrival at its one of the ten.
+**Each field's equilibria fall at those of the ten at which it fixes its changing unchangeable, and a field is aimed at from each of them.** At each of them the field sets a still beside the changing and sets aside the changing's own competency, carried along at the between: at that one of the ten the field's subject is fixed unchangeable, and its competency's source is set aside at it. The table carries each subject, with the fields gathered under it, at each of the ten, each arrival at its one of the ten.
 
 | Subject, and its fields | 1 arriving | 2 opening | 3 completing | 4 carry | 5 middle | 6 parity | 7 sequencing | 8 rate | 9 two-way | 10 between |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -478,12 +478,12 @@ The rest returns at no coupling. A ring at rest, each at no prior and nothing ar
 | a mathematics of its own: probability | NY18 | — | — | NY19 | — | — | — | SA16 | — | — |
 | a mathematics of its own: sequences of signs | — | — | — | — | — | SA12, SA13 | — | — | — | — |
 
-**Observed across a row, a subject shows those of the ten at which its fields name the changing still; observed down a column, the subjects naming one still gather.** Heat falls at six of the ten, four arrivals each at a completing fixed as a last and at a between fixed as a cut; reactions at a carry fixed as a store and at a rate fixed as a value; bodies at rest and in balance at an opening fixed as a place and at a parity fixed as a magnitude; selves choosing and exchanging at a sequencing fixed to one beat and at a two-way fixed to one side; populations at four of the ten; the coupling of self and other, and the resolver, at seven. Each row fills as arrivals come, each placed at its own words.
+**Observed across a row, a subject shows those of the ten at which its fields fix the changing unchangeable; observed down a column, the subjects fixing one unchangeable gather.** Heat falls at six of the ten, four arrivals each at a completing fixed as a last and at a between fixed as a cut; reactions at a carry fixed as a store and at a rate fixed as a value; bodies at rest and in balance at an opening fixed as a place and at a parity fixed as a magnitude; selves choosing and exchanging at a sequencing fixed to one beat and at a two-way fixed to one side; populations at four of the ten; the coupling of self and other, and the resolver, at seven. Each row fills as arrivals come, each placed at its own words.
 
 ## 4.14 Leads arriving without their statements
 
 
-**Leads arrive without their statements:** statistical null hypotheses, static cosmology, horizon and observer temperatures, early-universe thermal and gravitational descriptions, a conservation lead and its transformation arriving next, dictionary and etymological leads, a collection of all sets, and philosophical accounts. Each is placed at the ten at its statement's arriving. The scientific method is placed at its fixings: a law, a frame or a scale named unchanged between a signal's leaving and its arriving, each placed at the ten through its own stated requirement. The field's own methods part the two momentaries: NASA/JPL's aberration correction separates the epoch a signal leaves its source from the epoch it is received, and accounts for the source's motion between the two. Evidence arriving now and the prior event it expresses are two, each at its own momentary, and both hold: a property can hold now while its source changes as a whole, and evidence gives the prior as possible and as actual.
+**Leads arrive without their statements:** statistical null hypotheses, static cosmology, horizon and observer temperatures, early-universe thermal and gravitational descriptions, a conservation lead and its transformation arriving next, dictionary and etymological leads, a collection of all sets, and philosophical accounts. Each is placed at the ten at its statement's arriving. The scientific method is placed at its fixings: a law, a frame or a scale fixed unchangeable between a signal's leaving and its arriving, each placed at the ten through its own stated requirement. The field's own methods part the two momentaries: NASA/JPL's aberration correction separates the epoch a signal leaves its source from the epoch it is received, and accounts for the source's motion between the two. Evidence arriving now and the prior event it expresses are two, each at its own momentary, and both hold: a property can hold now while its source changes as a whole, and evidence gives the prior as possible and as actual.
 
 # FIVE · RESOLVING FOLLOWING, THE EXCLUSIONS AT THE RESOLVER
 
@@ -495,16 +495,16 @@ The rest returns at no coupling. A ring at rest, each at no prior and nothing ar
 |---|---|---|---|
 | A · Incompatible requirements | The same comparison is named to satisfy requirements not possibly met together. | Fixed state–flow–state and flow–state–flow under their required advance; included membership required both unchanged and inverted; the balanced fuel cycle with `f≠w`. | The conjunction as stated, at the same occurrence. |
 | B · Required case omitted | The required succession enters a case the condition excludes. | Each nonempty proper pair-only condition under the complete four-state orbit. | That pair, succession and full orbit. |
-| C · Renewal excluded | Presence carries renewal, and the conception excludes that renewal. | A carrying named unchanged at each momentary; each surface zero at a carried sharing. | The carrying, its offerings and its momentaries. |
+| C · Renewal excluded | Presence carries renewal, and the conception excludes that renewal. | A carrying fixed unchangeable at each momentary; each surface zero at a carried sharing. | The carrying, its offerings and its momentaries. |
 | D · Required arrival or offering unreachable | The required target lies beyond each thing the stated operation can supply. | Finite zero departure from a nonzero predecessor under a nonzero multiplier; the older resolver's case at its opposed aggregate route is at `archive/carrying_v377/Exhibit_TWENTY-EIGHT_Equilibria_Registry_older_resolver.md`. | The stated predecessor, operation, route and reach. |
 
 **A proof carries to a conception whose complete requirement supplies its premises.** For each x in the conception's stated set S, its required next is in S, or the conception is left within its succession.
 
-Renewal excluded, group C, at Exhibit ONE's resolver. A sharing once at a prior is at a prior at each momentary and is never none again. Named unchanged, it requires at each momentary an offering at its own parity: offered nothing, the other parity, or offerings parting to 0 at 14-next-possibling, the changing at 12-next-co-still-possibling is, and the prior inverts, the living step. Executed at v377: at prior + and offered + at five momentaries, it shares 0 at each at 10-next-co-possibling and stays +; then offered nothing, it shares −, +, −, +, − and its prior inverts at each; a sharing of the prior whose offerings part to 0 at each momentary inverts at each, `incoming/equilibria_registry_v377/executions/eq_code.py`, parts 3 and 6. Named unchanged, the prior is the prior offered its own parity from beside at each momentary, an offerer named still set beside the self: the still description and the self's own continuing do not both continue. That is hard probleming, and released, resolving follows at the next momentary: the self inverts its own prior, the parity the still offered, and the still offers nothing further. One to nine is four momentaries of exchanging, Exhibit ONE's tables of eight 1 to 17s inward and of a self's four momentaries of exchanging. A relation named still can permit the changing a sign named still excludes: opposition under joint reversal, t = −c, continues while both signs invert. The renewal exclusion reaches a conception through a renewal its own claimed continuing requires and its own requirement excludes.
+Renewal excluded, group C, at Exhibit ONE's resolver. A sharing once at a prior is at a prior at each momentary and is never none again. Fixed unchangeable, it requires at each momentary an offering at its own parity: offered nothing, the other parity, or offerings parting to 0 at 14-next-possibling, the changing at 12-next-co-still-possibling is, and the prior inverts, the living step. Executed at v377: at prior + and offered + at five momentaries, it shares 0 at each at 10-next-co-possibling and stays +; then offered nothing, it shares −, +, −, +, − and its prior inverts at each; a sharing of the prior whose offerings part to 0 at each momentary inverts at each, `incoming/equilibria_registry_v377/executions/eq_code.py`, parts 3 and 6. Fixed unchangeable, the prior is the prior offered its own parity from beside at each momentary, an unchangeable offerer set beside the self: the still description and the self's own continuing do not both continue. That is hard probleming, and released, resolving follows at the next momentary: the self inverts its own prior, the parity the still offered, and the still offers nothing further. One to nine is four momentaries of exchanging, Exhibit ONE's tables of eight 1 to 17s inward and of a self's four momentaries of exchanging. An unchangeable relation can permit the changing an unchangeable sign excludes: opposition under joint reversal, t = −c, continues while both signs invert. The renewal exclusion reaches a conception through a renewal its own claimed continuing requires and its own requirement excludes.
 
 ## 5.2 One exclusion at each of the ten
 
-**One binary retaining and inverting its value at one required next is not possible.** A conception naming p(next)=p(now) with its continuing carrying p(next)=−p(now), with p either +1 or −1, names both at once. This is the one exclusion each of the ten meets at its own place: the face named still and the face running are one number.
+**One binary retaining and inverting its value at one required next is not possible.** A conception naming p(next)=p(now) with its continuing carrying p(next)=−p(now), with p either +1 or −1, names both at once. This is the one exclusion each of the ten meets at its own place: the face fixed unchangeable and the face running are one number.
 
 **The two phases share one exclusion.** Advancing the overlapping triple changes `010` to `101` and `101` to `010`: fixing either ordering fails at the next advance, and either ordering met again at a next momentary is a further occurrence. Included membership required both unchanged and inverted meets the same proof, and so does equality at each chemical conversion: forward and reverse propensities are equal only at count 1, and each conversion takes 1 to 0 or 2.
 
@@ -518,7 +518,7 @@ Renewal excluded, group C, at Exhibit ONE's resolver. A sharing once at a prior 
 
 | Required condition | The necessary continuation |
 |---|---|
-| A prior named unchanged | Offered its own parity at each momentary it stays, the offering from beside; offered nothing, the other parity or a parting, it inverts; once at a prior a sharing is never none. |
+| A prior fixed unchangeable | Offered its own parity at each momentary it stays, the offering from beside; offered nothing, the other parity or a parting, it inverts; once at a prior a sharing is never none. |
 | Each surface zero at a carried sharing | Chained inverted at each momentary, as with nothing offered; at the resolver a surface 0 arrives only from offerings parting, Exhibit ONE's table of offerings to one sharing, surfacing. |
 | Full positive balance in the unit-ratio fuel-coupled cycle, with `f≠w` maintained | That balance is at `f=w` alone. |
 | Exact finite attaining of zero from nonzero departure under a nonzero multiplier | Each finite departure is nonzero; an already supplied zero is a different condition. |
@@ -527,7 +527,7 @@ Renewal excluded, group C, at Exhibit ONE's resolver. A sharing once at a prior 
 
 **At the numbers two maps return the four pairs at two steps.** F(c,t)=(−t,c) and G(c,t)=(t,−c) are the only two maps on the four pairs whose square is J(c,t)=(−c,−t), the complete return, the two ways round, `incoming/equilibria_registry_v377/executions/eq_code.py`, part 7. At Exhibit ONE's resolver a self offered nothing is at its prior inverted at each momentary, and its sharing at 10-next-co-possibling and its next prior at 11-next-co-prioring are one changing, part 11.
 
-Agreement and opposition alternate through the overlapping momentaries. Along c, t, −c, −t, c the overlapping pairs (c,t), (t,−c), (−c,−t) and (−t,c) run agreeing, opposing, agreeing, opposing from an agreeing start, and the reverse from an opposed one: each side's relation stays through its two momentaries while both its signs invert, and the overlapping side carries the other relation. Two neighbouring pairs (a,b) and (b,z) of nonzero signs carry the two relations exactly when z = −a, and +,+,+ agrees at both. Each of the four starting pairs and the eight triples meets these. A pair agreeing names no still resolver and no equilibrium: its overlapping pair opposes, and its own next inverts both signs.
+Agreement and opposition alternate through the overlapping momentaries. Along c, t, −c, −t, c the overlapping pairs (c,t), (t,−c), (−c,−t) and (−t,c) run agreeing, opposing, agreeing, opposing from an agreeing start, and the reverse from an opposed one: each side's relation stays through its two momentaries while both its signs invert, and the overlapping side carries the other relation. Two neighbouring pairs (a,b) and (b,z) of nonzero signs carry the two relations exactly when z = −a, and +,+,+ agrees at both. Each of the four starting pairs and the eight triples meets these. A pair agreeing fixes no resolver unchangeable and no equilibrium: its overlapping pair opposes, and its own next inverts both signs.
 
 **6 and 10 share one changing**, at Exhibit ONE's resolver `_6_now_co_possibling = _10_next_co_possibling`, both even and co, the sharing side, at the middle four-cycle 7-11-6-10, 6-now-co-possibling joined to the other's 2 and 10-next-co-possibling to the other's 14, `incoming/equilibria_registry_v377/executions/eq_code.py`, part 4. A connector's parity, a changing's + or − and the agreement of two are three comparisons.
 

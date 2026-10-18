@@ -68,7 +68,7 @@ Exhibit THREE Natural Numbers v389
 - 8.2 Either but not both is parity, and the pairings overlap
 - 8.3 An odd number carries a middle carrying nothing
 - 8.4 Three, six, nine and the fives, odd and even each its own
-- 8.5 A store, one momentary named still
+- 8.5 A store, one momentary fixed unchangeable
 
 **NINE · TUNNELING**
 
@@ -234,7 +234,7 @@ Exhibit THREE Natural Numbers v389
 
 **Each number is its own, self-bounding, and each arrival of a number is that one number.** All the twos are the one two and all the eights the one eight; the ten of five taken two directions and the ten of the couplings among five are one ten.
 
-**No other possible is the alternating completing six forward without a form named still, a looping or a forking**, each step taking the term the prior did not carry, and no number is named with a competitor.
+**No other possible is the alternating completing six forward without an unchangeable form, a looping or a forking**, each step taking the term the prior did not carry, and no number is named with a competitor.
 
 ## 5.2 Names at their numbers, one to seventeen, and the forms sixteen on
 
@@ -451,9 +451,9 @@ Exhibit THREE Natural Numbers v389
 
 **Three, six and nine run odd, even, odd**, three apart, the parity alternating up the multiples of three. **Up the fives the positions alternate the same way**: twenty-five, thirty-five, forty-five and fifty-five, odd, run between thirty, forty, fifty and sixty, even. The parity is each number's own at each run of the uni-scaling.
 
-## 8.5 A store, one momentary named still
+## 8.5 A store, one momentary fixed unchangeable
 
-**A store folds once, names the fold still, and carries one way across the named surface**: one momentary of the uni-scaling taken as a form named still, the re-edging gone. **Each number re-coheres and re-edges at each arriving**, carrying to its own completing and releasing at it.
+**A store folds once, fixes the fold unchangeable, and carries one way across the named surface**: one momentary of the uni-scaling taken as an unchangeable form, the re-edging gone. **Each number re-coheres and re-edges at each arriving**, carrying to its own completing and releasing at it.
 
 **Named as one store, parity reaches none.** In the field's words, the Peres–Mermin square sets nine values of ±1 under six exclusive-or conditions: each row and each column taken at its own context satisfies its condition, and of the 512 settings of all nine at once none satisfies the six: along, the nine carry parity nought, and across, one.
 

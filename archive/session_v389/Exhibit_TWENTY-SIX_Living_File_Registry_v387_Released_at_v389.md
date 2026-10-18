@@ -71,3 +71,15 @@ The comparison reads Transmissioning, Societies and Human Society
 | **Resolving Hard Problems ⇌ Natural Resolver ⇌ Resolving the Hard Problem Registry** | The ten things named still, the ring’s ten changings, the boxes’ five pairs and their resolving; the assembled field and its particular fields retain their differing distributions. |
 
 **Four momentaries, six connectors, eight faces and ten things named still each count a particular relation.** Natural Intelligence, Resolver, Numbers, Mathematics, Naming and Resolving Hard Problems meet those relations at their own subjects. Their counted correspondence belongs with the operations and concepts it joins.
+
+## Re-said at the ten unchangeables, named still re-said, v389
+
+The intake lines, the things named still, and state
+
+The form named still, its installation
+
+| A form named still, met at its stated subject
+
+accounting and a form named still reaches
+
+a hard problem, a form named still and an observing's accounting

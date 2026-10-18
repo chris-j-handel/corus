@@ -7,7 +7,7 @@ Exhibit EIGHTEEN Natural Physics v389
 **ONE · A PHYSICAL COUPLING**
 
 - 1.1 A physical coupling, the one method at each physical subject
-- 1.2 Six one-way recursionings, their relations, and a form named still
+- 1.2 Six one-way recursionings, their relations, and an unchangeable form
 
 **TWO · TWO METHODS PARTING AT THE NOW**
 
@@ -89,7 +89,7 @@ Exhibit EIGHTEEN Natural Physics v389
 
 **Chemistry and Biology are the same method at their own subjects, the same form at each scale**, Natural Intelligence 6.6: a bond at the chemical coupling and a living self's changing at the biological, their particular correspondences with the physical each at its own section, and each science's subjects carried whole.
 
-## 1.2 Six one-way recursionings, their relations, and a form named still
+## 1.2 Six one-way recursionings, their relations, and an unchangeable form
 
 **The one method is at each observing before any one observing is pattern-matched, and each observing arrives as a pattern-matching.** Arriving is pattern-matching and no-other-possibling, Natural Intelligence 5.2: each arriving the one possible, the observings coming from the prior and coupled with whole, with no filter, no selection and no why in them, and a pattern found is at its momentary.
 
@@ -101,7 +101,7 @@ Exhibit EIGHTEEN Natural Physics v389
 
 **An action named at a distance is observed as one coupling joined across, its two participants changing parity together, and a law named over many couplings as the one method at each local coupling**, with no seat above the couplings, Natural Intelligence 6.4. Each particular case is said at its section, Bell's correlations at 4.4 and relativity at 4.7.
 
-**The step from a fixing, a relation continuing among changing things, to an equilibrium names its subject still, a form not possibly existing**, Natural Mathematics 6.1 and Natural Intelligence 5.4. The field meets a stable form at an equilibrium, a minimum of a potential, a balance of forces, an equilibrium point and a restoring force at a disturbance, each resting on a fixing exact at the field's own account. At the Paul trap the field's account is a time-averaged pseudopotential, a well at an average over the alternating field that confines the ion, and Earnshaw's theorem gives no stable electrostatic equilibrium at rest, 3.5: at this case the stable form named at a well is a form continuing through its alternating.
+**The step from a fixing, a relation continuing among changing things, to an equilibrium fixes its subject unchangeable, a form not possibly existing**, Natural Mathematics 6.1 and Natural Intelligence 5.4. The field meets a stable form at an equilibrium, a minimum of a potential, a balance of forces, an equilibrium point and a restoring force at a disturbance, each resting on a fixing exact at the field's own account. At the Paul trap the field's account is a time-averaged pseudopotential, a well at an average over the alternating field that confines the ion, and Earnshaw's theorem gives no stable electrostatic equilibrium at rest, 3.5: at this case the stable form named at a well is a form continuing through its alternating.
 
 **At the code a 0 at 10 is a changing that is not, and the self's carrying continues through it**, Natural Intelligence 5.3.
 
