@@ -962,3 +962,49 @@ Each sentence at the resolver is at Exhibit ONE v380R at the tables it cites, by
 **The two phases share one exclusion.** Advancing an overlapping triple changes `010` to `101` and `101` to `010`: fixing either ordering fails at its next advance, and either ordering met again at a next momentary is a further occurrence. Included membership required both not-changing and inverted meets the same proof, and so does equality at each chemical conversion: forward and reverse propensities are equal only at count 1, and each conversion takes 1 to 0 or 2.
 
 ## 5.4 The sharing at 10 and 6, and the carrying at 11, at the resolver
+
+## Re-said at offerings risen, v389
+
+and at the set's own explaining neither is, the set its things.
+
+**A hidden order
+
+the universe exists as its things exist; overlapping momentaries meet each number, one completing and its next opening.
+
+Neutralling is co, odd and along*, Natural Mathematics line 85, and
+
+Neutralling is co, odd and along*, Natural Mathematics line 85. Natural
+
+At Natural Intelligence 1.1, *The universe is the set of all existing things*, its 1.4 deriving *the changing set of all existing things* from it, and at 4.10 parity existing as the universe is, *Parity is a momentary existing thing, as the universe is an existing thing: a set of existing things is an existing thing*, and its centre, a between, *a nothing, no location and no existing thing*.
+
+and a nothing and no location; *no existing thing* is carried at carrying, concern 7.
+
+two consecutive momentaries at each side, eight half momentaries.
+
+Prior and now distinguish which relation changes next.
+
+**Each five-view
+
+**Universes of each size and scale share momentaries of co-sequential changing**
+
+slowing is changing, and two differing changings
+
+and subsets F carries into themselves are exactly unions of its one cycle: none or all four.
+
+F(P,Q)=(−Q,P) visits all four pairs from each pair it opens at.
+
+without joining 0 to 2, and a requirement including a fixed boundary comparison fails at its continuation changing exactly one end.
+
+its still description and a self's own continuing do not both continue.
+
+and each surface zero meets renewal exclusion.
+
+a collection of all sets, and philosophical accounts.
+
+Each is placed at ten at its statement's arriving.
+
+each placed at ten through its own stated requirement.
+
+Scientific method is placed at its fixings:
+
+Non-living exist and change, carrying nothing, their forms continuing through their changing.
