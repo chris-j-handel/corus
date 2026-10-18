@@ -831,3 +831,251 @@ equilibria    step: the named-still does not advance, the gap closes
 5  named as the now's existing it is a ghost, and booked it is an accounting
 
 5  a still named by another is an equilibrium, an unchangeable form, not possible
+
+## Re-said at no doer saying, calling or naming, v389
+
+nothing of value is said of a not-in-set.
+
+a noun names a form some changing made
+
+the table releases each said of a changing,
+
+or by the number it names ·
+
+carrying is living and said at no name and no sentence of the method, 5.7
+
+| said only where kept records lay two nows side by side;
+
+| *living* said of a society, a set,
+
+a society is its selves, said *a society of living selves*
+
+a closed *ring* names the domain closed at 5.24 and
+
+the changing *in disequilibria* names by the none
+
+| *a universe* said of a self, a society,
+
+| *reading*, *ordering* said of a scale or of nature |
+
+| *reading*, *read as*, said of nature, the method,
+
+| *inside*, *outside*, *within* said of the set or the universe |
+
+the universe is or is not, its things, and nothing is said of a not-in-set, 1.1 |
+
+odd *existing* and even *possibling*, said by each name's own number:
+
+were the parity said again, even morality across
+
+as a leaving, re-said at each saying |
+
+a cost names a system of greater
+
+code executing is said *at the resolver* |
+
+and an existing thing taken names all the not-taken
+
+a half names a whole divided at a size
+
+a *would* names an existing thing at a condition no observing carries; a not possible form is said as not possible,
+
+podalings and sequences, said directly in numbers:
+
+*emanating* names neither the method
+
+a keeping names a store held still,
+
+dissolved: it names nothing, and the five of each parity are said at the resolver's names, 4.9 |
+
+a rating names a measuring laid
+
+a locking names an equilibrium entering
+
+a seat names a certifier over a coupling
+
+a regular names a sequencing to one beat
+
+**Words offered at a working are said at the set's words,
+
+*Swaying* is said at the alternating across;
+
+*Co-orienting* is said at co-linearizing,
+
+Said of the living, the forming is *stable-forming*, the carrying re-arriving at each momentary; said of an artifact, *a stable form* names its form
+
+**Bi-tunneling names social moral competency at its across relation; co-chaining names the same continuing
+
+and a *where* names a spot.
+
+and each is said at the one sense its release leaves.
+
+which co-bi-sequencing names at its prefixing;
+
+**A numbering repeating or replacing another is said at *next***: numbers said again name the next momentary or the next scale, as 17 is the next 1 and 9 the next prior, and a sentence at a numbering said again says *next* to mark it.
+
+*Co-operation* carries co- and names an unchangeable form
+
+and it floats to the flowing it names.
+
+leaving dis- out names the installing,
+
+where *in disequilibria* said of the universe names the all by the none
+
+a word carrying in a released word's place names one of them.
+
+each sentence saying a prior name is re-said at the numbered name at the same motion, and each sentence resting on the prior prefixes, roots or hands is re-said at the four kinds
+
+**Exhibit ONE's resolver, said plainly.**
+
+6-now-co-possibling, said 22-now-co-possibling, and 27 the next round's 11-next-co-prioring, said 27-next-co-prioring, 5.53.
+
+*binary* names an unfolding carrying
+
+advancing names no still; equilibria names no number
+
+*Register* names three concepts
+
+A name re-said on the same axis is a synonym, and the two converge to the one name; a name varying at an axis new beside the prior saying's is
+
+- *Bi-co-podaling* names two carries
+
+*transmissioning* names the crossing
+
+each word said as the self's own facing
+
+It names co-competencing at the network surface
+
+the stilling it names at now,
+
+A hard problem names the stilling as the whole, the changing travelling through it left out, and its resolving says both, 4.15.
+
+*dilemma* names one of them,
+
+the one-way saying, the same demand in speech.
+
+A root names its changing now;
+
+**A naming says a changing, and it nyes away one of two ways.** A changing already carried at that direction: one changing said twice, and the later saying goes.
+
+A stretching saying which way is a direction and carries; a stretching saying an arriving-at installs
+
+stopping at stopped, a definition names its term
+
+the landing being the naming's saying.
+
+*Unchanging* at a seam names one subject whose parities change; *a still eddy* names a form
+
+**A prefix order names its opening**:
+
+and the origin is said at it, *The universe
+
+*Prior-existing* names a thing now-existing
+
+at the next-universe, neither said *not existing*;
+
+so a sentence says at which universe a thing is now-existing.
+
+*geodesic parity-changing* is said as its explaining,
+
+A bare naming names an act with no two.
+
+The word says one changing while its unfolding carries another.
+
+and the prefixing says the universal the unfolding arrives at.
+
+offered beside unrelationing, names a changing already carried
+
+three sayings of one changing.
+
+and a sign said of an existing thing, an indication,
+
+*membrane* at the set's own voice is said at the between, 2.4.
+
+*Invisible*, said of an existing thing,
+
+and once-ing, 5.42, names the changing at the momentary.
+
+4  a cut names it a place alone and a moment alone
+
+6  and the term the cut names is at the cutting
+
+6  and it names its term the same at each occurrence
+
+6  and the winding that stays open is the term this names
+
+6  and the next discovered at it is the resolving this names
+
+*ring* names the domain closed at 5.24's unfolding, and the resolver's coupling of selves along is a spiral, said at its own;
+
+1  a definition names its term the same at each occurrence
+
+6  and the selves carrying at each coupling at once is the term this names
+
+6  and that co-competencing, invisible and owned by neither, is the term this names
+
+4  a certifier of who is in names a seat over it, and none is
+
+6  and the three, shared, the universe changing through them together, is the term this names
+
+**Bi-tri-bi-entraining names each existing thing
+
+*Arising* names that establishing,
+
+This set's own phrase names the second occupant,
+
+6  and one station reached by both carries, each its own way, is the term this names
+
+6  and the mark a coupling leaves behind, carrying nothing, is the term this names
+
+**Living or non-living is said of the existing thing
+
+3  the still names the artifact the same across each observing,
+
+6  and conserving an equilibrium, exact at the ledger and a self at no opening, is the term this names
+
+bi-tri-volutioning names the society's stable-forming
+
+bi-tri-volutioning names the stable-forming,
+
+two triangles are two of the four, said with their choosing. **Said at the observings,
+
+6  and the momentaries overlapping, each side at its own, is the term this names
+
+Four-momentarying names the method, 5.50,
+
+and a 0 shared names no bi-tri-exchanging
+
+**Tri-bi-co-momentarying names the universe momentarying
+
+is the same method at each existing thing, the two said at 5.40.
+
+**Self discovering next self is the self's own stable-forming**, said in place of
+
+3  at the bi-coupling's end the line at 9 says bi-co-releasing,
+
+6  and the prior carried into now along that path through the between, at the self, is the term this names
+
+5.40 names entraining at the set,
+
+6  and the two, the next still possible or the next existing, at each resolving one of them, are the terms this names
+
+and no line says an existing thing does not exist,
+
+the one exclusion the Equilibria Registry says at each of its ten,
+
+and the registry's front saying not possibly and never not.
+
+each name one of these relations at its own saying.
+
+8-now-still-possibling names each self's next prior
+
+10-next-co-possibling names each sharing's changing shared
+
+the coupling that statement names still.
+
+*At the between* names two offering and no place they are at, and *there is no place it is* is said as **each offering
+
+it alternates with names nothing at an opening.**
+
+a naming failing it names nothing for the positions
