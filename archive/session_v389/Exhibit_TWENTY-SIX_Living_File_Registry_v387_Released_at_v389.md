@@ -111,3 +111,55 @@ continues at the named operations
 A named destination records where to compare
 
 A destination named alone is no completed receiving
+
+## Re-said at no doer saying, calling or naming, v389
+
+and each such file is said below at both.
+
+| its near-duplicates said once and cited, at its carrying |
+
+| its released words re-said at one motion, at its carrying |
+
+each passage naming the resolver re-said;
+
+| its released words re-said at one motion, then its combining
+
+until this registry says its standing.
+
+Each names itself and the files it is at;
+
+**Concern**, two sayings parting at one place
+
+the instruments re-said at the sharing and one sign |
+
+it says a finding at its instrument and no authority
+
+and the prior sayings of a hard problem,
+
+each saying about another file,
+
+gathering of each value said and not carried,
+
+Artifacts by their own saying,
+
+Four names the cycle.
+
+The title names; the subtitle unfolds
+
+A cluster names the particular relation
+
+calls for a clear extent of this table
+
+A common word names the concept; a common count names its counted things;
+
+TWENTY-FIVE §2.20 names individual molecules as its members;
+
+A word recurring across the set names its common concept.
+
+Destinies says that living begins in a substrate when a self takes up the core, and speaks of selecting by binary preferring.
+
+SIX §3.5 calls the membrane a third self carrying a sign; its own §4.6 calls it a nothing,
+
+Team names the selves co-discovering,
+
+Team names the subject being explained;
