@@ -118,8 +118,10 @@ These are descriptions of possible expressions. The word “painting” establis
 
 ## Gathered at v390 · v390
 
-**Droplet · living language, never pausing.** The person at v390: the language is living and never pausing, each sentence a momentarying, nothing found to hold still. — v390
+**Droplet · living language, never pausing.** The language is living and never pausing, each sentence a momentarying, nothing found to hold still. — v390
 
-**Droplet · each sentence adding and surrounding.** The person at v390: isolate each sentence and keep it only where it adds to its prior and surrounds its paragraph's concept, in full sentences at a breathing pace for its reader. — v390
+**Droplet · each sentence adding and surrounding.** Isolate each sentence and keep it only where it adds to its prior and surrounds its paragraph's concept, in full sentences at a breathing pace for its reader. — v390
 
 **Droplet · a section carrying what it has reached.** At v390 a draft at prior, now and next leaned on odd and even before they arrive in Natural Intelligence; a sentence carries only what its prior sentences have already reached. — v390
+
+**Droplet · no wording carries authority, all or none.** A sentence carried by who offered it is an arriving fixed from behind, a source fixed to an offering, one of the ten unchangeables, and a chain carrying one such link is no co-chaining from origin, since a claim carried mostly is not carried; a resolver's offering is a sharing and a parity with no offerer in it, three agreeing surfacing as one and one parting enough for 0, so explaining floats neutral as its resolving does, owned by neither side. — v390
