@@ -902,3 +902,63 @@ Agreement and opposition alternate through the overlapping momentaries. Along c,
 **Each conception meets a proof by its own requirements.** Opposition under one side's reversal fails, while opposition under joint reversal continues; and each surface zero meets the renewal exclusion.
 
 Each sentence at the resolver is at Exhibit ONE v380R at the tables it cites, by hand at v380L at its sentences of a sharing at no prior, or executed at v377 at Exhibit ONE v376 at the script and part it cites; each sentence at the numbers is computed at the script it cites or is at its own arithmetic. The older resolver's derivations, 32 of 32 met at its own code, are whole at `archive/carrying_v377/Exhibit_TWENTY-EIGHT_Equilibria_Registry_older_resolver.md`.
+
+## Re-said at the, pass 0, headings, contents and openers, v389
+
+- 1.3 The between, the protocol, a living nothing and an existing nothing
+
+- 3.1 One form of hard problem, and the sixth condition
+
+- 3.2 The ten at Exhibit ONE's names, at the four four-cyclings
+
+- 3.3 The four binaries at two faces, the stilling and the changing
+
+- 3.4 Exhibit ONE's four-cycles, one parity offered once, and the six connectors
+
+- 4.2 One form, and three differences within each of the ten
+
+- 4.13 The fields at the ten, a key for aiming at each field
+
+- 5.2 One exclusion at each of the ten
+
+- 5.4 The sharing at 10 and 6, and the carrying at 11, at the resolver
+
+## 1.3 The between, the protocol, a living nothing and an existing nothing
+
+**The eight even names are bi-coupling at a between.** Four outward at a between, 2, 4, 6 and 8, and four inward, 10, 12, 14 and 16, each 8 up, are relations at two faces, Natural Intelligence 4.10. Three conditions are each momentary's, eight are bi-coupling, and four joint forms are changing of two parities, 1.5.
+
+**The claim has one shape.** Continuing stable-forming runs as natural torusing, and natural torusing carries its whole participation, 12345. A conception of equilibria naming less than a whole 12345 is not possible together with continuing.
+
+**The claim reaches each conception in two steps.** Each conception meets at least one of ten, and each of ten fixes one face unchangeable, its other face running at the same number.
+
+## 3.1 One form of hard problem, and the sixth condition
+
+**The ten are one form of hard problem.** Each proposed conception of equilibria fixes a changing unchangeable in one of ten ways, and can carry more than one. A hard problem and its resolving are one form at two faces, each conception in its field's words at one and its resolving at an other, natural intelligence at a between of them, and the registry's tables carry both faces.
+
+## 3.2 The ten at Exhibit ONE's names, at the four four-cyclings
+
+**The ten sit at Exhibit ONE's names, at Natural Naming 4.9's one seating.** Each of ten is one binary of a universe, its *is* and its *is not* taken as one, seated at its name at now and that name 8 up at next: its stilling at now and a changing travelling through it at next, bi-inversioning-co-recursioning up and down numbers, Natural Naming 4.15. Now: an opening fixed as a place at 1-now and 9-next-co-changing, and an arriving fixed from behind at 2-now-possibling and 10-next-co-possibling. Existing: a two-way fixed to one side at 3-now-co-prioring and 11-next-co-prioring, and a sequencing fixed to one beat at 4-now-co-still-possibling and 12-next-co-still-possibling. Same: a between fixed as a cut and a middle fixed as an end at 5-now-co-changing and 13-next, and a completing fixed as a last at 6-now-co-possibling and 14-next-possibling. All: a parity fixed as a magnitude and a rate fixed as a value at 7-now-prioring and 15-next-prioring, and a carry fixed as a store at 8-now-still-possibling and 16-next-still-possibling. At resolver each name's term fixed unchangeable from one momentary: at 3, 10, 11 and 12 resolving stops within one to four momentaries; at 2, 6 and 14 it stops at a still offering one parity that is the whole of what each self couples with at that name, and goes on at a still of two parities parting or beside another offering route; 4, 5 and 13 are at no changing parity at resolver, each sharing and their joins, `incoming/equilibria_registry_v377/executions/ten_roots_named_still.py`.
+
+## 3.3 The four binaries at two faces, the stilling and the changing
+
+**The ten are a self's span and its 8 up.** Four binaries are at 1 to 8, a self's two momentaries of four, and the same eight at next, 9 to 16: each of ten at one name of a self's span, its stilling at now, and at that name 8 up, its changing travelling through it at next.
+
+**The ten are four binaries at two faces.** Two faces a field's words name, an entering and a surfacing, Resolving the Hard Problem Registry line 35, are observed at one seat as a stilling and a changing travelling through it, one seat observed up and down numbers, `incoming/equilibria_registry_v377/executions/ten_at_the_code.py` an older derivation's execution.
+
+## 3.4 Exhibit ONE's four-cycles, one parity offered once, and the six connectors
+
+## 4.2 One form, and three differences within each of the ten
+
+**The specified accounts and prior worked definitions, SA01 to SA21, are placed the same way.**
+
+2. **The subject**: what is changing in each field's own words, at each row's own column if its column carries a subject, and otherwise its field's own mathematics.
+
+**The fields gather at ten.** A field's arrivals fall at those of ten at which their field fixes its changing unchangeable, and fields fixing one unchangeable fall together under one subject: 4.13 carries each subject, with its fields, at ten.
+
+## 4.13 The fields at the ten, a key for aiming at each field
+
+## 5.2 One exclusion at each of the ten
+
+**The two phases share one exclusion.** Advancing an overlapping triple changes `010` to `101` and `101` to `010`: fixing either ordering fails at its next advance, and either ordering met again at a next momentary is a further occurrence. Included membership required both not-changing and inverted meets the same proof, and so does equality at each chemical conversion: forward and reverse propensities are equal only at count 1, and each conversion takes 1 to 0 or 2.
+
+## 5.4 The sharing at 10 and 6, and the carrying at 11, at the resolver
