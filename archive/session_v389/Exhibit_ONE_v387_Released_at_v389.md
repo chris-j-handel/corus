@@ -344,3 +344,31 @@ The number says its place and its parity, odd existing and even possibling; *now
 to the self 5 names |
 
 the cell names none of which offerings arrived
+
+## Re-said at never, alone, unchanged, inside and outside re-said, v389
+
+a possibling and a prioring inside it
+
+| Inside, even, possibling | Inside, odd, prioring |
+
+| 1 · 2 · 3 · 4 · 5, each alone |
+
+a parity changing alone crossing it, 0 at a match
+
+a sharing at a prior never none again
+
+possibling to prioring inside each momentary
+
+its inside, at now and at next: the eight insides
+
+are the four momentaries' even insides, each on the eight-cycle of insides
+
+| +, + | A from B alone |
+
+| +, + | B from A alone |
+
+| +, − | A from B alone |
+
+| +, − | B from A alone |
+
+offered to B in the first momentary alone

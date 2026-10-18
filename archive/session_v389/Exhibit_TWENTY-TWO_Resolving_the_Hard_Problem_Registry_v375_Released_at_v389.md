@@ -2521,3 +2521,237 @@ the probes disagree on names many couplings to one thing
 in gradient offering names a crossing to a line
 
 on a continuum the field names a bush.
+
+## Re-said at never, alone, unchanged, inside and outside re-said, v389
+
+one of three and never a fourth
+
+one thing that never changes: the +1
+
+the identity carrying unchanged wherever
+
+so the inequalities never settle
+
+the co-offering goes on underneath unchanged
+
+The naming was never intentional: fields at branching tips that never touched
+
+a sharing once chained is never none again, each momentary
+
+an arrival is entered and never the arrival's being
+
+A running that never ran offers at no momentary
+
+at a radius where it never stood
+
+terms the running never uses
+
+is the fractal and never a shared first
+
+follows from payoffs alone, arrangements
+
+carries is-or-is-not and never a size
+
+the one thing the practice never used
+
+its two ends and never a priority
+
+listings the forming never consulted, and its
+
+listings the forming never consulted, affinities
+
+A carrying fixed at its two ends is one carrying, and both ends are the carry at its own completing: a sharing once chained is never none again
+
+carries none of its seed forward unchanged
+
+a first the couplings never had
+
+a store the recognising never used
+
+naming was never the instrument
+
+the folding never consulted it
+
+the gap was never in ethics
+
+a consequence and never a prescription
+
+a standing that was never there
+
+one at a momentary and never a ratio
+
+a listing the advancing never consulted
+
+the question arrives unchanged
+
+running. A sharing once chained is never none again
+
+Of a *world that never ran*
+
+A carry seats a next at each coupling, the warrant made in the seating and never ahead of it
+
+runnings that never ran, and the estimated
+
+Two runnings that never shared a momentary
+
+arriving was never built out of
+
+scale a running that never ran and the selecting
+
+a running that never ran: the naming reaches
+
+by sieve alone extremely difficult
+
+unchanged through the eliminations
+
+a running that never ran, the consequences of standardisation
+
+unadopted arrangement is a running that never ran
+
+against a regime that never ran, and the transfers
+
+under a regime that never ran conceals
+
+a making summed against a regime that never ran
+
+depending on the degree alone exists
+
+expression that never ends
+
+a set that never ends
+
+the divisor identities alone do not decide
+
+over finite ranges never large
+
+the disputed cost is a running that never ran
+
+a carry's own and never a store's
+
+a store it never kept
+
+a thing it never was
+
+lived and never audited
+
+the running never uses, a probe departing
+
+the running never uses, the field's own catch on its own instrument, now
+
+the validation is a running that never ran
+
+or into properties alone, one being
+
+the coupling was never two things
+
+pressure alone breeds
+
+Evidence fixed to select alone,
+
+a selecting the couplings never promised
+
+entities outside space and time
+
+a content the practice never consults
+
+a thing the running never uses, the built systems'
+
+couplings the pricing never reached
+
+an abundancing that was never one side's
+
+the fraction was never one thing
+
+the parity itself and never a gap
+
+and never a count of people
+
+the substrate itself never stated
+
+no coupling gives back alone
+
+a magnitude the parity never carried
+
+from ordinal profiles alone, independence
+
+to depend on that pair alone,
+
+a sharing chained at each coupling is never none again
+
+the levels themselves are a running that never ran
+
+over runnings that never ran, and it surfaces
+
+a function of delay alone that
+
+the naming's own and never the physics'
+
+an expense and never a hardness
+
+cost the coupling never carried
+
+giving distributions and never the realization
+
+a counterfactual total, a running that never ran, summed
+
+a number neither gives alone
+
+a sharing once chained never none again, so damage
+
+efficiency is observed alone while
+
+and neither tests alone.
+
+identifiable from the data alone, whether to partition a population undecidable from the probabilities alone,
+
+data alone deliver an equivalence class, exactly that: a correct pattern-matching fixed identifiable from the data alone reaches
+
+a making that was never a sum, the one clear
+
+a making that was never a sum, and the volumes
+
+The abundancing is owned by no action alone,
+
+the abundancing owned by no action alone.
+
+in limbs never grown
+
+driver burdens that never tip, which
+
+the cell alone does not
+
+driver burdens that never tip, measured
+
+taken at a momentary and never a place
+
+the running was never at one
+
+one province at a time and never one for all
+
+was never a place a line could sit
+
+thinning and never stopping, so a line
+
+co-prioring.** Effects offer at each distance, thinning and never stopping.
+
+a location the making never had
+
+related in a way never indicated
+
+a class the measurements never fix
+
+couplings that never consulted it
+
+two criteria the measurements never part
+
+a drawing the measurements never made
+
+the kind was never a thing
+
+each literature carried alone was never in any of them
+
+one absence alone is a field
+
+Each opening seats a next, the warrant made in the seating and never ahead of it
+
+nothing else, never where a line could sit
