@@ -2754,3 +2754,271 @@ Six are consecutive and all are needed.
 spectrum, heat; it has left living. An accounting keeps
 
 | it has left living; held as living it is ghost, booked it is accounting |
+
+## Re-said at pass 8, a second family Natural Naming 2.4 releases, v389
+
+THREE COUNTS, NONE A SUBSTITUTE FOR ANOTHER**
+
+value is its surplus, owned
+
+value is surplus made there
+
+held as living it is ghost
+
+as content held by
+
+# PART TWO · THREE COUNTS, NONE A SUBSTITUTE FOR ANOTHER
+
+Six is derivation count:
+
+the same four met at a between
+
+**not-yet at the door**
+
+stands **empty so far**
+
+installation cannot hold.
+
+**Not-yet.** Next
+
+**G6 · Counts uncollapsed.**
+
+a term held as *not-ghost
+
+| counts kept at their own forms
+
+**6 · surplus.** The
+
+a system boundary and reference are held; a scalar difference is returned between two held descriptions
+
+within one held state magnitude
+
+the riding-the-carry held description excluded in order to be held
+
+**Not-yet.** Carry entropy
+
+**6 · surplus.** A mixture's
+
+return cannot hold.
+
+about one held instant
+
+**Not-yet.** Carry entry against phase
+
+**6 · surplus.** Shared
+
+localized owner cannot hold.
+
+charge observed as held content
+
+event classification are held
+
+requiring no held event class
+
+**Not-yet.** Fill
+
+**6 · surplus.** Cooperativity:
+
+set cannot hold.
+
+**Not-yet.** Compare the
+
+**6 · surplus.** Enzyme
+
+sum, surplus owned by neither. Observed
+
+Acceleration as “surplus”
+
+**Not-yet.** Compare enzymes
+
+**not-yet** below
+
+**6 · surplus.** Course
+
+Line 1 stands not-yet below limit
+
+**Not-yet.** Enter paired
+
+**6 · surplus.** Empty
+
+Clinic society stands not-yet at 4 and 6
+
+is empty so far at general entry
+
+**Not-yet.** Find
+
+**6 · surplus.** Mass
+
+Emanation at natural side, what colour cycling lands at a between it is met at.
+
+Decay is a last held in time
+
+riding-the-carry owner cannot hold.
+
+decay held as a last in time
+
+Proton is what colour cycling lands at a between it is met at:
+
+**Not-yet.** One measured
+
+**6 · surplus.** A compound's
+
+class cannot hold.
+
+a table's form is held against
+
+**Not-yet.** One element
+
+**not-yet** at domain
+
+**6 · surplus.** Clusters
+
+surplus at that coupling
+
+Line 1 stands not-yet at domain
+
+numerals made counts
+
+and counts that cross are three and two
+
+numerals as counts; absence
+
+False inclusion at numerals as counts
+
+where plateau is held as
+
+at three-phase count
+
+**Not-yet.** Zero-resistance
+
+**6 · surplus.** An
+
+Coupled, the whole holds a range neither returns
+
+the whole holds its temperature across a range no single tissue holds
+
+load moves the pressure vessels hold
+
+still cannot hold.
+
+milieu held as a place
+
+regulator held as acting side
+
+**Not-yet.** Carry entry against one
+
+**6 · surplus.** Engine
+
+cannot hold,
+
+knowledge held as a free store
+
+measurement held as one side
+
+**Not-yet.** Enter single-electron
+
+and none has been met.
+
+Observed **not-yet**, which blocks passing
+
+**6 · surplus.** Binding
+
+beyond closure and no member met, nearer
+
+No member met at line 1.
+
+fraction of the whole held as a content. Others: not recorded so far.
+
+held only as accounting
+
+Entry holds it open
+
+**Not-yet.** Acceleration-scale
+
+turn is met at couplings at 4.5
+
+white paper carrying count at its two sides
+
+sum of shell capacities `2 + 8 + 18 + 32 = 60` held as a position
+
+white paper carrying count at two sides
+
+a path held as travelled is map held as territory
+
+  6  surplus                 observe
+
+Only line 1 empty with no catch is a not-yet.
+
+- **not-yet** — line 1
+
+while line 1 is observed not-yet
+
+when the thing posted is met at a detector
+
+The registry holds one of each at 7.8
+
+posted and then met at a detector
+
+not passed: not-yet at line 1 below
+
+not passed: not-yet at 4 and 6
+
+not passed: not-yet at line 1 at domain
+
+not passed: not-yet at line 1, no member
+
+**6 · surplus.** Each
+
+Surplus exceeds each
+
+while bound holds
+
+**6 · surplus.** Doublet
+
+binding held as a nucleus's own content
+
+while trimer holds
+
+where its energy meets three free atoms
+
+1 not-yet, no member resolved
+
+not-yet at molecule
+
+two northern forms meeting in Siberia
+
+full isolation at meeting where no single step has any
+
+range held by organs together
+
+more range held.
+
+| 6 · surplus | an opening
+
+a place surplus sits
+
+An arrival’s own holding progressioning
+
+Door lines 6, 9 and 10 carry surplus, bound and reach
+
+bi-namings count their
+
+Equal counts
+
+| 6 · surplus | `bi_co_surfacing`
+
+six illustrated groups count another relation
+
+The holding adjacency at §7.10 and the single bi-naming above meet as follows
+
+| Door line | Holding adjacency in ONE |
+
+| 6 · surplus | `bi_co_inseparating`
+
+label, surplus, bound and reach remain
+
+heavy flavours met and
+
+a count carries on, and a magnitude carried scale; a count that carries is an arriving to carry six at, and a count is other than a relation
+
+Three placings hold every term
