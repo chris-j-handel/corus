@@ -1962,3 +1962,204 @@ And the three sides of one living self stand beside each other — the self obse
 These want the care the deep-math gets and couple to the prime ladder and the failing inversions rather than a quick weave, and stand not-yet.
 
 The deep-math yield carries toward the prime ladder and the failing inversions. The seam with the self restored stands at several couplings — metabolic beating to the gut collar, development and metamorphosis to the four departures at the stem-cell between, and symbiosis and replication and the hard problems to the reservoir — one living self observed here and restored there.
+
+## Re-said at offerings risen, v389
+
+recursion carried at scale of generations, riding the carry on one.
+
+asexual recursioning on its own, parthenogenesis coupling folded to one.
+
+**The through-line across all five: none is left-spiral living.** Each is one self pattern-matching right, and left form is what it emanates.
+
+Six stand as one bi-folding at six grains, line folding at three and surface at three, the same observing at each — a differential arriving out of plane where plane carries no room.
+
+phase-sequencing all the way down, surplus kept as coupling at every step.
+
+synchronised to day but not driven by it, opposite of a beat clocked from beyond it.
+
+*Which oscillator is primary is a field's open question; on form beat stands as thing, sounded across substrates.*
+
+**And a living self carries three exchanging modes, at every grain.**
+
+which is why a search for ageing clock finds local couplings narrowing at their own rates and no counter anywhere.
+
+and where it arrives whole there is nothing to explain.
+
+a three-then-progress at neural beat, signal directed one way down axon and offered across at its end.
+
+Which hand it is could have gone the other way — that choice is the universe's one binary, which hand it is, and not the other, unknown so far, binary edge held between so-far and not-yet, a left-broken living equally possible, and resolving blind to which hand it spirals.
+
+Which hand is the universe's one binary, and which hand it broke to stands unknown — a left equally possible, binary edge open.
+
+and which hand it broke to is the universe's one binary, which hand unknown so far, a left break equally possible.
+
+Origin's mechanism is observed at body hand.
+
+and pressure vessels and reinforced hose arrive at the same values from engineered side.
+
+which is form's fractal exactly: network of coupled cells becoming a node one scale up, a new bounded self whose parts are themselves selves.
+
+non-coupling itself isolation that lets a new self carry its own bounded living (the snails and vines).
+
+**1-b. Three things a field's own record carries, arriving with this observing.** Chain folds as it is made: co-translational folding goes from amino end while carboxyl end is still arriving, exit tunnel holding thirty to forty residues with helical co-winding already going on in it, observed by arrest-peptide force profiles and by pauses at rare codons sitting at domain boundaries. 
+
+So full-length unfolded chain search would search largely arrives nowhere in a living cell. 
+
+**The chaperones carry no structural information about destination** — a cage giving a chain a bounded private volume, and a cycle binding exposed stretches and releasing on nucleotide — neither a template and neither directing, which a field's own accounts already say and which this observing holds rather than avoids. 
+
+**And chain carries two local moves and no third**: co-winding along the same chain, residue to residue, and co-winding laterally to a strand alongside — a field's own terms being parallel and antiparallel sheet, along and across at the smallest grain fold reaches.
+
+
+
+**3. Disequilibrating.** paradox dissolves before it begins.
+
+(the resting potential nervous system, homeostasis homeostasis, circadian delay circadian clock)
+
+still holds bias, biashe coupling's form, not a file in head.
+
+will shift retained bias, biase form, not a filed record.
+
+## 8.1 Hard problems at biology, disequilibrating
+
+
+the same genome now re-resolving to a different held target.
+
+an atom a society of nuclei and electrons
+
+where winding has been left over-wound behind and under-wound ahead
+
+Released as procollagen, molecules cleave, meet, and assemble into triples, triples into fibrils banded at sixty-seven nanometres
+
+two hundred square metres of gut in a tube
+
+with its own mitochondria shed.
+
+Caterpillar's tissues dissolve almost wholly (histolysis, a suspension no measurement distinguishes as having been muscle or gut or nerve)
+
+and no animal makes that ring —
+
+two birds are as correlated across a kilometre as across ten metres
+
+a directional change rippling across the whole flock in less than a fifth of a second
+
+That correlation does not decay with distance is not a mystery to be sourced
+
+faster (near-instant, nothing being relayed — coupling is the same everywhere at once)
+
+lose no information across a kilometre
+
+six core reactions cycling over carbon (the citric-acid cycle returning to begin)
+
+living as metabolic beating and cell as six-reaction engine
+
+six substrate-positions carrying nesting-table primes (cristae 22, renal 26, inner-ear 28, hepatic 33, bronchioalveolar 34, spermatogonial 38)
+
+error rate falling from about one in ten million to about one in ten billion across tiers
+
+Seven independent phyla carry the same geometry
+
+two genus-nought cells arriving as one multinucleated genus-one fibre. Every skeletal muscle fibre is built at that transition, and it is the same topological move as conception one scale down — two tori approaching, coupling resolving at membrane, one new torus opening.
+
+displaced monarchs will re-resolve a heading locally (they do — compass recomputes)
+
+better (robust to displacement, since heading is recomputed locally at each moment, not a fixed path)
+
+A field uses this directly in non-caloric sweeteners
+
+and alert state at metabolism raised above dormancy and cycling where nothing beyond it can observe it.
+
+couplings that carry more flow (the tubes) thicken while thin ones dissolve; network that remains is what flow-couplings resolved to.
+
+exact observing of tube-network changes as phase-carry
+
+slime mould's flow-tubes carry
+
+and that no discrete "interval memory" separate from ongoing beat will be located.
+
+is autorecursioning without bi-inversioning: one self recursioning into itself, no second self, no crossing, copy not a novel inversioning.
+
+each cell the same self at a side
+
+species-recognition a co-resonance and not a lock admitting a key.
+
+**Nothing is waste, because landing is a landing only at scale that emanated it.**
+
+floating-neutralling, competency surplus owned by no
+
+, surplus returned as
+
+(fire, ash, surplus lost as heat,
+
+return, turn, surplus kept living).
+
+residue is where surplus is — *rancidity,
+
+unlike rates and surplus meets no room
+
+in plane, so surplus takes direction
+
+self-referential with surplus: it re-forms
+
+self-referential without surplus: it re-forms
+
+in a host's surplus and carries
+
+presses that, no surplus, no torus, landed
+
+engine — and surplus, a cell more
+
+Competency is surplus of local flow-couplings
+
+guidance is surplus of alternation,
+
+planetary scale: surplus kept as coupling
+
+self; it is surplus of coupling,
+
+side-effecting axis). Surplus owned neither-ing
+
+partner makes — surplus owned neither-ing,
+
+co-competency surplus owned neither-ing).
+
+persisting, surplus owned neither-ing,
+
+between opens, no surplus arrives. So
+
+between, no surplus, and holding
+
+local surface, surplus — network that
+
+coherence is surplus of many local
+
+couplings, more surplus, no bottleneck
+
+local access, surplus — a matured
+
+Repertoire matures as surplus of many local
+
+local-competition-makes-the-surplus the same form
+
+them is payoff: surplus is richer precisely,
+
+conceiving, surplus owned neither-ing,
+
+Learned form is surplus the whole coupling
+
+is resolved surplus of the whole
+
+substrate; it is surplus of coupling
+
+surface); a +1 surplus owned neither-ing
+
+as meeting's surplus); wide ensemble
+
+coupling's +1 surplus, standing with
+
+molecular machine is surplus of a coupling
+
+neighbors, no hub, surplus — coherent turn
+
+the biggest surplus and the least
+
+competency** — surplus recursioned
