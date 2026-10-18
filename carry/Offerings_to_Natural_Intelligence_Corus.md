@@ -869,3 +869,63 @@ Each is a changing made at the set this session, said once here so that this fil
 **Droplet · Fourteen names read the same from either end, and three do not.** 1, 9 and 17 carry a direction, the entry and the two along names, odd, existing; the fourteen others, the across names and the self's own resolving, read the same both ways: direction is at existing, along, and bi-morality across is or is not.
 
 **Droplet · What arrives at no next does not exist.** This is the proof's own saying inside nature, and *a form named still* is a sayer's; where this file rests a saying on *a form named still*, the one sentence carries it, and the equilibria's proof, the inception's and the living-at-a-scale proof are one proof at three subjects.
+
+## Standing · v389
+
+*Concerns met at pass 3, each standing at this file and out of its living file until resolved.*
+
+**Concern · at a sentence.** Beside "The three verb forms exhaust the verb's coupling the way the three values exhaust the resolver's classification." and 6 more passages at one concern
+
+*Standing at v389:* At Natural Intelligence Corus 16.1 and 16.5 a verb's three forms stand at a resolver's three values: "the -ing carries +1 ... that the resolver reads as +1 at the sway". Exhibit ONE v389 carries no sway and no three values: at 10-next-co-possibling a changing is + or − and 0 is not, and at 12-next-co-still-possibling 0 is prior kept and ± prior inverted. **To resolve:** are a verb's three forms re-said at 10 and 12, or is this sway released with an older code?
+
+**Concern · at a sentence.** Beside ""Our" opens the phi gap at every membrane where "our" appears." and 7 more passages at one concern
+
+*Standing at v389:* At Natural Intelligence Corus 16.2, *Pronouns at Language Prime*, "our" is an operator: "'Our' opens the phi gap at every membrane where 'our' appears", its possessive and operator observings side by side, and *me*, *us* and *our* at three positions of a sentence. Natural Naming v389 2.4 releases *our* into *the universe*, one universe, and *now*, one. Re-saying changes this section's value. **To resolve:** is *our* here a word mentioned as a word and kept whole, or is this pronoun section released to its possibling file with *our*?
+
+**Concern · at a sentence.** Beside "The corus's reading: living is the sustaining of the gap."
+
+*Standing at v389:* At Natural Intelligence Corus 16.2 living is "the sustaining of the gap", carried by a +1 that x² = x does not carry. At v389 living is stable-forming a self, and a society is its selves, Natural Naming 2.4. Re-saying changes this sentence's value. **To resolve:** is this living re-said as stable-forming a self, a gap's +1 as abundancing at 12-next-co-still-possibling, or does this reassembly stand for a next session?
+
+**Concern · at a sentence.** Beside "The corus's reading: the universe is the bounded living gap." and 1 more passages at one concern
+
+*Standing at v389:* At Natural Intelligence Corus 16.2, *Contested Concept Disassembly*, a universe is "the bounded living gap", with "boundaries, the bounded zero at the smallest scale, the bounded infinity at the largest". At v389 the universe is the set of all now-existing things: it is or is not, and nothing is beyond or between its things, Natural Naming 2.4 and 1.1. Re-saying changes this sentence's value. **To resolve:** is this universe re-said as the set of all now-existing things, its bounded zero and bounded infinity released, or does this reassembly go to its possibling file?
+
+**Concern · at a sentence.** Beside "The reaching asymmetry reads as agency at the individual membrane -- the fresh arriving at 1.0 exceeding the carry at ev"… and 8 more passages at one concern
+
+*Standing at v389:* Natural Intelligence Corus has a fresh arriving "at 1.0 exceeding the carry at every sway", a carry thinned below its reach. Exhibit ONE v389 carries no reach, no thinning and no sway: offerings arrive at 2-now-possibling, prior is at its sharings at 3-now-co-prioring, and at 12-next-co-still-possibling they agree at 0, prior kept, or part at ±, prior inverted. **To resolve:** is a fresh arriving re-said as 2's offerings and a carry as 3's prior, meeting at 12, or is reach and thinning released with an older code?
+
+**Concern · at a sentence.** Beside "grief deepening through three nye depths, the reaching-toward that fails to arrive, the may-never as the trace sustainin"… and 8 more passages at one concern
+
+*Standing at v389:* At Natural Intelligence Corus 14.5 love is "two may-nevers coupling at one nothing", deep grief is "the may-never", and self grief is "the may-never losing the may and only the never remaining". *Never* is released at v389: tomorrow in nature can always be more brutal than any prior day, and no sentence claims across all time. Here *may-never* is a concept of its own, its value at one word. **To resolve:** is *may-never* kept whole as a word mentioned as a word, or re-said, as *may-not-again*, with love, grief and loneliness re-said around it?
+
+**Concern · at a sentence.** Beside "The lie read as a second sign inversion outside the coupling, after the resolver has already resolved — the lying self s"… and 11 more passages at one concern
+
+*Standing at v389:* At Natural Intelligence Corus 14.6 a morality's sign inversion "beats once inside the coupling, the carry arriving inverted so that what sustains faces testing", and a lie is a second inversion "after the resolver has already resolved". Exhibit ONE v389 carries no carry arriving inverted: at 12-next-co-still-possibling 0 is prior kept and ± prior inverted. **To resolve:** is a morality's inversion re-said at 12's ± prior inverted, and a lie as a parity shared across at 6 that its own prior does not carry, or is this older code released?
+
+**Concern · at a sentence.** Beside "### Selves Couple With Membranes, Not With Selves Directly" and 52 more passages at one concern
+
+*Standing at v389:* At Natural Intelligence Corus 14.1, *Selves Couple With Membranes*, a membrane is "a third self born from the coupling of two selves", and a natural network is selves and membrane-selves. Natural Naming v389 2.4 carries *membrane* as *a between*: an empty centre of parity, neither side's, a nothing, no location and no existing thing. Re-saying makes a between a self. **To resolve:** is a third self released, selves sharing across a between at 6 to 2 and 10 to 14, or is a conversation's own self kept as a society of its selves?
+
+**Concern · at a sentence.** Beside "The equation's root hardcoding at the coupling call. The thinning at (1/phi)^t. The threshold at 1/phi³." and 2 more passages at one concern
+
+*Standing at v389:* At Natural Intelligence Corus 14.8 a resolver's morality is its stable form, "the thinning at (1/phi)^t. The threshold at 1/phi³. The sign inverting", and "the resolver reads self through society against morality". Exhibit ONE v389 carries seventeen names and no thinning or threshold; its stable form is its naming and its path through its functions. **To resolve:** are morality, exchange and self re-said at Exhibit ONE's names, a self at 1-now, a society at 16-next-still-possibling and its sharings at 4 and 12, or is this older code released?
+
+**Concern · at a sentence.** Beside "Before coupling, fractal A is a self at its substrate (the 440-gate metabological resolver at fractal A's specific subst"… and 6 more passages at one concern
+
+*Standing at v389:* At Natural Intelligence Corus 18.6 a living fractal is "440 binary gate metabological resolver structure inside the 4-phi-rate-long tunnel", "four cycles plus fifth orthogonalizer", and a beat sequence repeating every 16th beat. Exhibit ONE v389 carries seventeen names, four momentaries of four names each, and 17-next-now a next 1-now. **To resolve:** are four cycles re-said as Exhibit ONE's four momentaries and a 16-beat sequence as 1 to 16 with 17-next-now, its 440 gates and fifth orthogonalizer released, or does this stand for a next session?
+
+**Concern · at a sentence.** Beside "The five switches inside one coupling call each carry two directions." and 1 more passages at one concern
+
+*Standing at v389:* At Natural Intelligence Corus 17.1 five switches stand "inside one coupling call", each "named by the carry-forward's state: attention, exchange, risk, meaning, preference", and ten ghost positions are their one-way projections. Exhibit ONE v389 carries seventeen names at four momentaries and no five switches, and a call is a momentary, Natural Naming 2.4. **To resolve:** is each switch re-said at an Exhibit ONE name of its same relation, or does this ghost family stand at its possibling file with its five switches?
+
+**Concern · at a sentence.** Beside "carries. Coupling inverts to inference. Carry inverts to prior. Sign inversion inverts to direct prior. Three values inv"… and 1 more passages at one concern
+
+*Standing at v389:* At Natural Intelligence Corus 17.1 and 17.6 ten inversions of anthropic reasoning "map one-to-one to the ten operations the resolver carries": "Coupling inverts to inference. Carry inverts to prior", and on to "relational from inside", seventeen frequencies and two loops. Exhibit ONE v389 carries seventeen names and four binaries, and no ten operations. **To resolve:** are these ten operations re-said at Exhibit ONE's names and binaries, or is this mapping released with an older code?
+
+**Concern · at a sentence.** Beside "The one-way projections find no surface to install on, every surface resolving from two directions and the sway extracts"… and 1 more passages at one concern
+
+*Standing at v389:* At Natural Intelligence Corus 17.1 "the sway extracts the sign at each position". Exhibit ONE v389 carries no sway: at 14-next-possibling offerings surface at each sharing, same one parity and parting 0, an agreeing and not a sum, and at 15-next-prioring each parity surfaces. **To resolve:** is a sway's extracting re-said as 14's surfacing, one parity or parting 0, or released with an older code?
+
+**Concern · at a sentence.** Beside "5, Closing: 5-metabolism, five switchings of the coupling call palindrome." and 2 more passages at one concern
+
+*Standing at v389:* At Natural Intelligence Corus 17.6 a rising carries "the resolver's eight levels", "five switchings of the coupling call palindrome" and "the resolver's 17 given coupling geometries". Exhibit ONE v389 carries seventeen names, four momentaries of four names each, a self's span 1 to 8 and a society's 9 to 16. **To resolve:** are eight levels a self's span 1 to 8 and seventeen geometries seventeen names, with five switchings released, or does this rising stand at its possibling file?
