@@ -4431,3 +4431,89 @@ Nothing of this waits for a problem to be hard. A hard problem is a changing fix
 **At 11-next-co-prioring.** Gathering makes its own, and each gathering is exceeded by a set it defines. Separation narrows a reach to given sets' own carrying, stratification ranks a division, class theory moves a totality beyond a relation, extensibility denies its reach a last, and each repair narrows, weakens or relocates while a question arrives again at each repair — the class of all classes, the domain of all domains. A place fixed for all sets ahead of a gathering is an opening fixed as a place, and an opening opens at each gathering, which is a field's own extending. **The argument carries no material of any kind**: the catalogue of all catalogues and the word for words not naming themselves run it bare, so each arrival in this part is this naming arriving with material.
 
 **And a word fields reach for here is paradox.** Measure it, get a wrong number, and a wrong number is a paradox: a two-fold cost, a genome's excess, a whale's missing cancers, a rise that reverses, a nominal response, a mixing that jumps. In each arithmetic is exact and naming is of surprise, which is where a size was supplied. **The word crosses at other parts too and is a different tip each time**: a closure over a tail, an opening that keeps opening, an unsearched fraction, a reversal pattern-matched as a level. So a word is a field's local feel and naming is form, and where two part, parting shows which.
+
+## Re-said at offerings risen, v389
+
+and making was at a coupling, range by range.
+
+a black swan being a first as it looks observed from after it.
+
+and boundings, plural, are the count there is.
+
+and an asexual line is a self and all other, crossing with none.
+
+a disease direction of the same one exchange.
+
+and a state sought is a thing an observing of it gives.
+
+and swaying sways on, readable from either side because it is both.
+
+and a fraction was not one thing to measure.
+
+Each conjecture stands with its own falsifier stated, and its truth value is untouched by any of this: a zero off its axis would be a balance point off its own axis of balance, which is a contradiction rather than a shape a search finds.
+
+and a balance point of a symmetric thing rides its own axis of balance by such a point's own being.
+
+and ten adjacencies at a ring of code's names
+
+it is where an alternating is, one changing on from its last.*
+
+and memory rides the same gradient
+
+readiness ramp dissolved into an averaging artefact
+
+its possible singular set thins to dimension zero
+
+a whole thins at a momentary a shared scale joins
+
+same wall at this arrival and at incoming number 177
+
+same words as at incoming number 176
+
+same wall standing at incoming number 142 and reached again at incoming number 132
+
+incoming number 31 and incoming number 142
+
+incoming number 169 binds realizings
+
+same conditional as at incoming number 28 one scale up
+
+same equivalence as at incoming number 144
+
+arrival, 39 at incoming face
+
+and couplings that ran are the record there is.
+
+asks after a carrying and not a keeping.
+
+a coupling making its own at each step.
+
+symbiosis is the both, and the both arrived.
+
+and measurements stand and do not select.
+
+because a running was not at one.
+
+and fitting-from-both is a coupling showing.
+
+because no line was there.
+
+and that is invisible. One arrival, two faces, this one and 5.2.
+
+no one standing for all.
+
+doing one thing both descriptions describe.
+
+and +1 to one sentence: the universe is the changing set of all existing things, living and non-living, and alternating is a stable-forming method.
+
+and a beat fixed over them is a term no coupling made.*
+
+each account facing an objection
+
+and zeroing is two's own making between them.*
+
+so each arrival in this part is this naming arriving with material.
+
+17-next-now, a next 1-now, seats none, one resolving.
+
+a coupling's third term given a fixed thing to be, a changing fixed unchangeable.
