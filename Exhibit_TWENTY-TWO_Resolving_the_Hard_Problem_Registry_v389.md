@@ -1540,7 +1540,7 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 12-next-co-still-possibling.** That a solution means a closed-form expression in known functions, which fixes the whole run unchangeable at once where three carryings carry each other one arrival at a time, the system not integrable in general and its orbits chaotic, and seven of fifteen reported periodic orbits found departing greatly from periodicity after a long enough interval, the whole run fixed unchangeable at once departing at the instrument's own precision.
 
-**At 11-next-co-prioring.** Three carryings carry each other, each arriving at its own next. No further integral survives, the convergent series crawls, most near-integrable initial conditions ride stably on and on, and the special solutions are real and thin: a closed form named the whole run still at once, and the riding is the thing the stability measure measures.
+**At 11-next-co-prioring.** Three carryings carry each other, each arriving at its own next. No further integral survives, the convergent series crawls, most near-integrable initial conditions ride stably on and on, and the special solutions are real and thin: a closed form fixed the whole run unchangeable at once, and the riding is the thing the stability measure measures.
 
 ## 3.10 The Fermi paradox · 60
 
@@ -1972,7 +1972,7 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 12-next-co-still-possibling.** The computation named decomposable into components whose roles are readable apart from intervention, the task underspecified, transparency and post-hoc explanation competing notions, the content middle asked for under several namings at once. Probes recover a thing the running never uses, a probe departing with the thing probed and the field's own catch on its own instrument.
 
-**At 11-next-co-prioring.** A computation runs, its doings its own. Probes recover a thing the running never uses, the field's own catch on its own instrument, now controlled; circuits verify component by component; coverage is counted; small networks close whole. Roles readable apart from intervention named the running still for the observing, and the roles run at the intervening, coupling by coupling.
+**At 11-next-co-prioring.** A computation runs, its doings its own. Probes recover a thing the running never uses, the field's own catch on its own instrument, now controlled; circuits verify component by component; coverage is counted; small networks close whole. Roles readable apart from intervention fixed the running unchangeable for the observing, and the roles run at the intervening, coupling by coupling.
 
 ## 5.8 Machine and animal sentience · 95
 
@@ -2278,7 +2278,7 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 12-next-co-still-possibling.** The tests named to measure one construct across cohorts, score change indexing construct change, the gains varying by domain and by age, one construct observed differently at each coupling. Invariance breaks between cohorts as often as it is checked, so the instrument's own coupling with its world is within each comparison drawn across them.
 
-**At 11-next-co-prioring.** A person and a test couple, and the coupling drifts as the world the person couples with drifts. Invariance breaks between cohorts as often as it is checked, the rise concentrates where the construct loads least, and the reversal runs within families, sweeping composition off the table for that population: a level of a construct named comparable across cohorts named the coupling still where the coupling kept running, and the scores were observings of their own occasions.
+**At 11-next-co-prioring.** A person and a test couple, and the coupling drifts as the world the person couples with drifts. Invariance breaks between cohorts as often as it is checked, the rise concentrates where the construct loads least, and the reversal runs within families, sweeping composition off the table for that population: a level of a construct named comparable across cohorts fixed the coupling unchangeable where the coupling kept running, and the scores were observings of their own occasions.
 
 ## 6.12 Benchmarks · 131
 
@@ -2841,7 +2841,7 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 12-next-co-still-possibling.** That a trial's arms differ only in the substance administered, the systematic review finding little evidence of powerful clinical effects, none on objective or binary outcomes and possible small benefits on subjective continuous outcomes and pain, and the correspondence replying that such a meta-analysis is restricted by the studies chosen and the sensitivity of their measures. The design fixes the context unchangeable and reports what it named, and the making it names still is the coupling's own +1, owned by neither side.
 
-**At 11-next-co-prioring.** The coupling at the between makes a term neither side brought, the +1 owned neither-ing. Blocking the body's own opioids blocks the analgesia, conditioned immune quieting runs in animals where no one reports anything, three-arm trials price the making small for the objective outcomes and real for the felt ones, and the open-label results narrow the making's running: the substance's-contribution pattern-matching named the context still while the making ran, and the making, measured on its own, is the coupling's.
+**At 11-next-co-prioring.** The coupling at the between makes a term neither side brought, the +1 owned neither-ing. Blocking the body's own opioids blocks the analgesia, conditioned immune quieting runs in animals where no one reports anything, three-arm trials price the making small for the objective outcomes and real for the felt ones, and the open-label results narrow the making's running: the substance's-contribution pattern-matching fixed the context unchangeable while the making ran, and the making, measured on its own, is the coupling's.
 
 ## 9.9 Newcomb's problem · 57
 

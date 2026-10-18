@@ -573,7 +573,7 @@ Four pairs are two concepts at two names, the meaning changing on transposing:
 
 Dilemma, paradox, puzzle and hard problem each carry the field's problem, and one field word can be at several of the unchangeables; *dilemma* names one of them, a two-way fixed to one side.
 
-**A sweep names each still installed of a changing at its unchangeable.** Three carry through it whole: a person's asking of a person, an act between selves; a field's own quoted words; and the no-demand family, nothing asked of anyone.
+**A sweep observes each unchangeable installed of a changing, at its own row.** Three carry through it whole: a person's asking of a person, an act between selves; a field's own quoted words; and the no-demand family, nothing asked of anyone.
 
 ## 4.10 Prefixing at a position, on the form, and from all other
 
