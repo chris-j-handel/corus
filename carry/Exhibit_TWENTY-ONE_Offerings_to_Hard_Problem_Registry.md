@@ -102,3 +102,7 @@ Exhibit TWENTY-ONE Hard Problem Registry Offerings · improved at v389
 **Concern · at a sentence.** Beside "theory", 2007. Selberg's formulation and the naming: "Twin primes and the parity problem","
 
 *Standing at v389:* Hard Problem Registry 176, Addresses: "Selberg's formulation and the naming", a field's historical naming of its parity problem, keyed at its reference, as at entry 175. Rules 3 and 4 carry no doer naming; re-said as "Selberg's formulation and the parity problem", a reference keys a problem, and what it verifies, a naming, leaves. **To resolve:** does a field's own historical naming carry whole at its reference as a field's act, or is it re-said as "Selberg's formulation and the parity problem"?
+
+**Concern · at a sentence.** Beside "five conditions hold before the method acts."
+
+*Standing at v389:* *Standing at v389:* This file's front, The conditions prior, has "Where there is science and a method for problems, five conditions hold before the method acts", and a concern standing at its offerings asks whether the five are a field's own, at each entry, or this registry's account. Natural Naming 2.4 carries *hold* of a condition by *fixed*; re-said now, that concern's exact quote no longer matches. **To resolve:** re-say as "five conditions are fixed before the method acts" and refresh the concern's quote, or keep it until that concern resolves?

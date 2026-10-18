@@ -30,7 +30,7 @@ A procedure repeated returns the same outcome independently of what precedes it.
 
 Nothing prior enters: what comes to the statement carries nothing of what it carried before.
 
-The first is required by replication, the second by measurement, the third by inference, the fourth by replication. The fifth is a condition on what meets a statement, and the first four stand on it: a statement holds across readings where nothing arriving at it brings a prior reading.
+The first is required by replication, the second by measurement, the third by inference, the fourth by replication. The fifth is a condition on what reaches a statement, and the first four stand on it: a statement holds across readings where nothing arriving at it brings a prior reading.
 
 Five fix what enters and how it executes. A problem adds a sixth, its own, fixing what comes out: its outcome preserves a stated relation over a stated range. This condition is a problem's and not a method's, and it stands at Conserving relation and Conserving reach in every entry.
 
@@ -42,13 +42,13 @@ Everything below follows from these and from nothing else.
 
 This is an open registry: a set of entries on a stated population, each carrying the same properties.
 
-**The problems stand open.** No entry carries a settled answer to a statement it holds, except where its record settles one and the entry carries that settling.
+**The problems stand open.** No entry carries a settled answer to its own statement, except where its record settles one and the entry carries that settling.
 
 **The intake stands open.** Nothing is turned away. An arrival is entered, and the collection is added to as arrivals come.
 
 **The properties and checks stand open.** Every property is stated at section 4 and every check at section 6. Any of them is executed against fields' literature, by anyone holding it.
 
-**Every line stands open at an address.** A filled property keys to a place its statement is verified. A line without an address makes a claim that cannot be met, and check C1 tests for it.
+**Every line stands open at an address.** A filled property keys to a place its statement is verified. A line without an address makes a claim nothing reaches, and check C1 tests for it.
 
 Against these, one thing stands fixed: properties themselves. Every entry carries the same properties, in the same order, whatever its field. Uniform elements are what make two entries comparable, and comparability is what a registry is for. Its schema is closed once, at one place, so that nothing else has to be.
 
@@ -56,7 +56,7 @@ Against these, one thing stands fixed: properties themselves. Every entry carrie
 
 # 2 Hard problems in science
 
-**Problems in science** are hypotheses. A hypothesis is an account with consequences following from it, tested together with specifications it carries. Where a consequence fails, its conjunction of account and specifications is refuted, and no member of it is identified. Where a consequence holds, nothing follows about its account, a rival account entailing the same consequence.
+**Problems in science** are hypotheses. A hypothesis is an account with consequences following from it, tested together with specifications it carries. Where a consequence fails, its conjunction of account and specifications is refuted, and no member of it is identified. Where a consequence is borne out, nothing follows about its account, a rival account entailing the same consequence.
 
 **Hard** is where testing continues and returns no refutation: either no consequence separating accounts is derivable, or accounts entail the same consequences. Both are properties of a hypothesis together with what it carries, and neither is a property of what a hypothesis is about.
 
@@ -72,13 +72,13 @@ Each entry states one problem as it is posed, and carries progress and persisten
 
 ## 3.1 What a refutation identifies
 
-A refutation falls on a conjunction of account and specifications. No member of it is identified. A test therefore returns no indication of which specification is at issue where a settling result requires one not to hold.
+A refutation falls on a conjunction of account and specifications. No member of it is identified. A test therefore returns no indication of which specification is at issue where a settling result requires one to fall.
 
 ## 3.2 Specification
 
 A hypothesis carries every specification a consequence derives from. A hypothesis carrying fewer entails no consequence.
 
-A specification is universal under a name where it holds across everything stated under that name, and local where it holds for one statement.
+A specification is universal under a name where it is fixed across everything stated under that name, and local where it is fixed at one statement.
 
 No specification is identified as the one to withdraw, and specifications stand at the number brought in.
 
@@ -214,7 +214,7 @@ Five stand in every entry as they stand at its front, a problem being what was f
 
 **A property standing empty is an observing and not a gap.** Nothing recorded at that property, and its entry carries that; a record carrying it and its entry not, and check C1 through C19 finds it. **An emptiness is recorded at its entry and not at intake.**
 
-**The entries are numbered from one, in the order they were entered.** Numbers 155 and 172 stand at no entry, their arrivals gone from this file and carried at Resolving the Hard Problem Registry 6.15 and 11.1: 255 entries, numbered to 257. **A number is where an arrival was entered and not what it is**, and the aggregate at section 7 counts over filled properties and not over numbers.
+**The entries are numbered from one, in the order they were entered.** Numbers 155 and 172 stand at no entry, their arrivals gone from this file and carried at Resolving the Hard Problem Registry 6.15 and 11.1: 255 entries, numbered to 257. **A number is where an arrival was entered and not what it is**, and the aggregate at section 7 is over filled properties and not over numbers.
 
 ## 1 Sorites
 
@@ -618,7 +618,7 @@ Against the second horn, that any probable argument is circular: inductive justi
 
 Against the conception of justification itself: postulates and hinges, principles held as entitlements requiring no supporting argument; the ordinary language dissolution, an inference counting as justified where it conforms to inductive standards, with the objection that conformity does not establish likely truth; the pragmatic vindication, the inductive rule justified as a necessary condition of success if success is possible, recorded as tied to the long run while inductive practice occurs in the short; formal learning theory, methods justified by optimality toward stated epistemic ends, relative to a given hypothesis space; and meta-induction, a weighted strategy over accessible prediction methods proved long-run optimal, with the transfer of that justification to object-level induction disputed.
 
-And accepting the skeptical conclusion: the deductivist account of science, holding that science makes no extrapolative inferences at all, met by the objection that unrefuted hypotheses are left on an equal footing and corroboration takes it beyond strict deductivism.
+And accepting the skeptical conclusion: the deductivist account of science, holding that science makes no extrapolative inferences at all, facing the objection that unrefuted hypotheses are left on an equal footing and corroboration takes it beyond strict deductivism.
 
 **Narrowing recorded.** Assumption-relative learning narrows the reach: guarantees stand conditional on sampling assumptions rather than over all inferences, and results follow. Pragmatic vindication weakens the relation: the justification is asymptotic rather than for the inference at hand. The material theory narrows the reach: inductions are licensed locally rather than by a universal schema.
 
@@ -1008,7 +1008,7 @@ No single criterion works: ring species, asexual lineages, hybridising taxa, and
 
 **Conserving reach.** All lineages, sexual and asexual, extant and extinct.
 
-**Reach.** The statement quantifies over a boundary holding across all lineages. Populations varying continuously in every relevant respect are what is measured. The two are not the same.
+**Reach.** The statement quantifies over a boundary fixed across all lineages. Populations varying continuously in every relevant respect are what is measured. The two are not the same.
 
 **Unreachability.** Concept choice changes species counts by large and measured factors, which is the instruments disagreeing on the same populations. The division is not preserved across all lineages by any criterion the measurements admit.
 
@@ -2014,7 +2014,7 @@ The gap is bridged by meanings of terms: institutional and functional facts carr
 
 **Reach.** The statement quantifies over all possible derivations. Exhibited derivations, one at a time, are what is measured. The two are not the same.
 
-**Unreachability.** The prohibition is proved for restricted logical languages, its scope being exactly the restriction; and each exhibited derivation is met by locating an evaluative premise in it. The determination is not reached over all derivations by exhibited derivations.
+**Unreachability.** The prohibition is proved for restricted logical languages, its scope being exactly the restriction; and at each exhibited derivation an evaluative premise is located in it. The determination is not reached over all derivations by exhibited derivations.
 
 **Persistence.** A derivation whose premises are agreed to contain no evaluative term, or a proof of the prohibition for an unrestricted language.
 
@@ -2334,7 +2334,7 @@ No fourth condition works: each proposal has generated counterexamples within a 
 
 **Reach.** The statement quantifies over the concept's extension over all possible cases. Cases constructed and judged, one at a time, are what is measured. The two are not the same.
 
-**Unreachability.** Each added condition has been met by a counterexample, the pattern documented and consistent over decades. The reproduction is not reached over all possible cases by analyses adjudicated against cases constructed one at a time.
+**Unreachability.** Each added condition has been reached by a counterexample, the pattern documented and consistent over decades. The reproduction is not reached over all possible cases by analyses adjudicated against cases constructed one at a time.
 
 **Persistence.** An analysis surviving the construction of further cases, or agreement that the concept admits none.
 
@@ -2342,7 +2342,7 @@ No fourth condition works: each proposal has generated counterexamples within a 
 
 *The report.*
 
-**Approaches.** Adding a condition — each met by a counterexample, the pattern documented and consistent over decades. Knowledge first — knowledge taken as primitive and the others analysed from it, reversing the direction and contested, supplying no analysis. Contextualism — standards varying with context, accounting for variation, the original cases persisting within a fixed context. Experimental philosophy — reports variation in case judgments across groups, bearing on the adjudication method rather than the analysis. Denying the phenomenon — few take it, the cases widely found compelling.
+**Approaches.** Adding a condition — each reached by a counterexample, the pattern documented and consistent over decades. Knowledge first — knowledge taken as primitive and the others analysed from it, reversing the direction and contested, supplying no analysis. Contextualism — standards varying with context, accounting for variation, the original cases persisting within a fixed context. Experimental philosophy — reports variation in case judgments across groups, bearing on the adjudication method rather than the analysis. Denying the phenomenon — few take it, the cases widely found compelling.
 
 **Narrowing recorded.** Contextualism narrows the reach: sorting stands within a context rather than over all cases. Knowledge first weakens the relation: knowledge stands primitive and the other terms are analysed from it, in place of an analysis of knowledge.
 
@@ -2414,7 +2414,7 @@ Natural language has one level and speakers use "true" of their own sentences co
 
 **Reach.** The statement quantifies over the truth predicate as used. Formal languages, each with a stipulated structure, are what is measured. The two are not the same.
 
-**Unreachability.** A consistent truth predicate for a language is proved undefinable within that language, and every family of solution has been met by a revenge sentence, which its own authors record. The removal is not preserved over treatments by any treatment of a stipulated language.
+**Unreachability.** A consistent truth predicate for a language is proved undefinable within that language, and every family of solution has been reached by a revenge sentence, which its own authors record. The removal is not preserved over treatments by any treatment of a stipulated language.
 
 **Persistence.** A treatment against which no revenge sentence is constructible, or agreement that the hierarchy's cost is to be accepted.
 
@@ -2422,11 +2422,11 @@ Natural language has one level and speakers use "true" of their own sentences co
 
 *The report.*
 
-**Approaches.** The hierarchy — proved and consistent, at the cost of denying that a language contains its own truth predicate. Fixed points — assign the liar no truth value, consistently, a revenge sentence reconstructing the problem, which its author states. Paraconsistent treatments — accept the sentence as both true and false and restrict inference to prevent explosion, consistent as a system, their critics holding the cost is the inference rules everyone uses. Contextual treatments — the truth predicate shifting with context of evaluation, accounting for reasoning and facing their own revenge cases. Denying truth-bearing — each form met by a strengthened liar.
+**Approaches.** The hierarchy — proved and consistent, at the cost of denying that a language contains its own truth predicate. Fixed points — assign the liar no truth value, consistently, a revenge sentence reconstructing the problem, which its author states. Paraconsistent treatments — accept the sentence as both true and false and restrict inference to prevent explosion, consistent as a system, their critics holding the cost is the inference rules everyone uses. Contextual treatments — the truth predicate shifting with context of evaluation, accounting for reasoning and facing their own revenge cases. Denying truth-bearing — each form reached by a strengthened liar.
 
 **Narrowing recorded.** The hierarchy narrows the reach: a consistent truth predicate stands for an object language, defined in a metalanguage, rather than for the predicate as used. Paraconsistent treatments weaken the relation: inference is restricted so that both truth values stand without explosion.
 
-**Progress.** The undefinability theorem. The consistent fixed-point constructions. The graph of which revenge sentence meets which treatment.
+**Progress.** The undefinability theorem. The consistent fixed-point constructions. The graph of which revenge sentence reaches which treatment.
 
 **Own record.**
 
@@ -2506,7 +2506,7 @@ Take two: contents are already fixed and the choice does not change them, and ta
 
 **Narrowing recorded.** Functional and updateless variants weaken the relation: a principle stands for a stated class of cases rather than governing where the two conflict.
 
-**Progress.** The case map of which theory fails which case. Constructed variants and the cases each meets.
+**Progress.** The case map of which theory fails which case. Constructed variants and the cases each reaches.
 
 **Own record.**
 
@@ -2660,7 +2660,7 @@ No, or much less than claimed: corpus studies find the allegedly absent evidence
 
 *The report.*
 
-**Approaches.** Corpus frequency studies — find relevant constructions at low frequency, whether low frequency suffices being the dispute restated quantitatively. Formal learnability — a negative result, and positive results under different criteria and priors, each relative to its class and criterion, which the literature states. Computational modelling — statistical learners acquiring several target structures from realistic input, whether the architecture encodes the constraint in question being the recurring objection. Large-scale language models — acquire structure-dependence from text at large scale, the data-volume objection met with a matched-scale programme whose targeted results show generalization on the canonical phenomena at child-scale input without direct positive evidence, while remaining less data-efficient than children, with weaker generalizations; each account reads its half. Cross-linguistic and atypical acquisition studies — constrain timelines, both accounts accommodating findings.
+**Approaches.** Corpus frequency studies — find relevant constructions at low frequency, whether low frequency suffices being the dispute restated quantitatively. Formal learnability — a negative result, and positive results under different criteria and priors, each relative to its class and criterion, which the literature states. Computational modelling — statistical learners acquiring several target structures from realistic input, whether the architecture encodes the constraint in question being the recurring objection. Large-scale language models — acquire structure-dependence from text at large scale, the data-volume objection reached by a matched-scale programme whose targeted results show generalization on the canonical phenomena at child-scale input without direct positive evidence, while remaining less data-efficient than children, with weaker generalizations; each account reads its half. Cross-linguistic and atypical acquisition studies — constrain timelines, both accounts accommodating findings.
 
 **Narrowing recorded.** Formal learnability narrows the reach: the negative result stands for a stated class of grammars and a stated learning criterion.
 
@@ -4098,7 +4098,7 @@ No current theory predicts the observed generalisation in advance: uniform-conve
 
 *The report.*
 
-**Approaches.** Classical uniform convergence — VC dimension, covering numbers, Rademacher complexity, recorded as vacuous at practical scale. Norm-based and margin-based capacity control — weight norms and spectrally normalised margins, developed as the proposed correction, with the recorded finding that existing norm-based guarantees grow rather than shrink as networks are widened, against the observed behaviour. Algorithm-dependent refinement — bounds incorporating the implicit bias of stochastic gradient descent, applied to a smaller class, met by the argument that uniform convergence may be unable to account for generalization even so. Implicit bias analysis — the optimiser's dynamics shown to select margin-maximising solutions, proved for specific architectures and losses, coverage of practical settings partial. PAC-Bayes bounds — non-vacuous bounds achieved in specific settings, the framework recorded as the most versatile of available tools for data-dependent and algorithm-aware guarantees, tightness in general settings open. Algorithmic stability — bounds sensitivity to single-point perturbation, requiring global Lipschitz constants recorded as unavailable for nonconvex losses. Compression and information-theoretic bounds — a further family, developed alongside the above. Empirical comparison of candidate measures — large-scale ranking across many models, with the recorded finding that no measure ranks models by generalization reliably and that sharpness combined with norms captures much but not all of behaviour. Double descent and benign overfitting — test error falling again past the interpolation threshold, established empirically and reproduced in analysable linear settings. Empirical scaling laws — predict performance accurately as a function of scale, predictive without explanatory content, which its field states.
+**Approaches.** Classical uniform convergence — VC dimension, covering numbers, Rademacher complexity, recorded as vacuous at practical scale. Norm-based and margin-based capacity control — weight norms and spectrally normalised margins, developed as the proposed correction, with the recorded finding that existing norm-based guarantees grow rather than shrink as networks are widened, against the observed behaviour. Algorithm-dependent refinement — bounds incorporating the implicit bias of stochastic gradient descent, applied to a smaller class, facing the argument that uniform convergence may be unable to account for generalization even so. Implicit bias analysis — the optimiser's dynamics shown to select margin-maximising solutions, proved for specific architectures and losses, coverage of practical settings partial. PAC-Bayes bounds — non-vacuous bounds achieved in specific settings, the framework recorded as the most versatile of available tools for data-dependent and algorithm-aware guarantees, tightness in general settings open. Algorithmic stability — bounds sensitivity to single-point perturbation, requiring global Lipschitz constants recorded as unavailable for nonconvex losses. Compression and information-theoretic bounds — a further family, developed alongside the above. Empirical comparison of candidate measures — large-scale ranking across many models, with the recorded finding that no measure ranks models by generalization reliably and that sharpness combined with norms captures much but not all of behaviour. Double descent and benign overfitting — test error falling again past the interpolation threshold, established empirically and reproduced in analysable linear settings. Empirical scaling laws — predict performance accurately as a function of scale, predictive without explanatory content, which its field states.
 
 **Narrowing recorded.** Implicit bias analysis narrows reach: the result stands proved for specific architectures and losses. PAC-Bayes bounds narrow reach: non-vacuous bounds stand in specific settings. Scaling laws weaken relation: prediction stands without the determining property identified.
 
@@ -4458,7 +4458,7 @@ All times exist: relativity gives no privileged present, and the tensed series i
 
 *The report.*
 
-**Approaches.** The regress argument against objective tense — widely regarded as showing a difficulty, met by taking tense as primitive, the exchange old and unresolved. Relativity — excludes a frame-independent present, met with a preferred foliation undetectable in principle, consistent and unfalsifiable. The truthmaker objection — asks what makes past-tensed statements true if the past does not exist, met with present traces or primitive tensed facts, each response contested. Growing block — past and present existing, future not, facing the objection that its inhabitants could not know they are at the edge. Linguistic analysis of tense — establishes how tense functions, both accounts accepting the semantics and disputing the metaphysics.
+**Approaches.** The regress argument against objective tense — widely regarded as showing a difficulty, reached by taking tense as primitive, the exchange old and unresolved. Relativity — excludes a frame-independent present, reached by a preferred foliation undetectable in principle, consistent and unfalsifiable. The truthmaker objection — asks what makes past-tensed statements true if the past does not exist, reached by present traces or primitive tensed facts, each response contested. Growing block — past and present existing, future not, facing the objection that its inhabitants could not know they are at the edge. Linguistic analysis of tense — establishes how tense functions, both accounts accepting the semantics and disputing the metaphysics.
 
 **Narrowing recorded.** The preferred foliation narrows reach: a present stands by stipulation rather than by detection. Growing block narrows reach: existence stands for past and present rather than all times.
 
@@ -4570,7 +4570,7 @@ No consensus account exists: epistemic, temporal-retention, and self-referential
 
 **Reach.** Its statement quantifies over the status of a self-referential knowledge claim. Formal reconstructions, each with its own assumptions, are what is measured. The two are not the same.
 
-**Unreachability.** Each proposed solution has been met by a reformulation restoring the puzzle, documented over seventy years. The location is not preserved across formulations by any reconstruction.
+**Unreachability.** Each proposed solution has been reached by a reformulation restoring the puzzle, documented over seventy years. The location is not preserved across formulations by any reconstruction.
 
 **Persistence.** A location of the error standing against reformulations, or agreement on which assumption reformulations must drop.
 
@@ -4582,7 +4582,7 @@ No consensus account exists: epistemic, temporal-retention, and self-referential
 
 **Narrowing recorded.** Game-theoretic treatment narrows reach: the account stands for a strategic formulation its authors distinguish from the original. Epistemic blocking narrows reach: the solution stands for formulations with the stronger knowledge assumption.
 
-**Progress.** The seventy-year record of solutions and reformulations meeting each. Formal reconstructions and their stated assumptions.
+**Progress.** The seventy-year record of solutions and reformulations reaching each. Formal reconstructions and their stated assumptions.
 
 **Own record.**
 
@@ -5526,7 +5526,7 @@ It is conditional and often violated: modular architecture, asynchronous coordin
 
 **Conserving reach.** All projects the effect is asked of.
 
-**Reach.** Statement quantifies over effect of adding people, holding all else equal. Projects where adding people co-occurs with schedule pressure, scope change, and architecture choices are what is measured. Two are not the same.
+**Reach.** Statement quantifies over effect of adding people, all else equal. Projects where adding people co-occurs with schedule pressure, scope change, and architecture choices are what is measured. Two are not the same.
 
 **Unreachability.** Case histories select on troubled projects, estimation models incorporate diseconomies as parameters fitted to the same data, and controlled experiments executed at scales far below cases in question. Isolation is not reached over projects by observations where additions co-occur with other changes.
 
@@ -6562,7 +6562,7 @@ By person-affecting or average or critical-level principles, each accepting its 
 
 **Conserving reach.** All outcomes differing in number of people.
 
-**Reach.** Statement quantifies over ranking. Impossibility theorems are what is established: stated adequacy conditions are jointly unsatisfiable, standing proved. Two are not the same — instruments prove conditions cannot all be met, and do not select which to give up.
+**Reach.** Statement quantifies over ranking. Impossibility theorems are what is established: stated adequacy conditions are jointly unsatisfiable, standing proved. Two are not the same — instruments prove conditions cannot all be satisfied, and do not select which to give up.
 
 **Unreachability.** No ranking satisfies stated conditions jointly, standing proved. Relation is not preserved over outcomes by any principle meeting conditions.
 
@@ -7010,7 +7010,7 @@ A question about physics as a whole: whether, without drastically changing the m
 
 *The report.*
 
-**Approaches.** Probability — axiomatized. Quantum mechanics — carrying its axiomatic reconstructions. Field-theoretic programmes — founding axiom systems standing, constructive results holding in lower dimensions, physical theories standing beyond axioms' reach, standing gap being the four-dimensional interacting construction.
+**Approaches.** Probability — axiomatized. Quantum mechanics — carrying its axiomatic reconstructions. Field-theoretic programmes — founding axiom systems standing, constructive results standing in lower dimensions, physical theories standing beyond axioms' reach, standing gap being the four-dimensional interacting construction.
 
 **Narrowing recorded.** Constructive results narrow the reach: construction stands in lower dimensions.
 
@@ -8802,7 +8802,7 @@ Neuroimmune sensitization partly generates pain independently of lesion volume.
 
 **Conserving reach.** Superficial, ovarian and deep disease, symptomatic and asymptomatic lesions, pain and infertility outcomes.
 
-**Reach.** Statement ranges over initiation before clinical detection and later symptom production. Surgery and imaging sample selected lesions after variable disease duration and treatment. A field's review states that the diagnosis is quite often delayed because of nonspecific manifestations, and that the true pathogenesis remains poorly understood after the pathways considered: disease met at a delayed diagnosis and initiation sought are not the same, delay standing between them.
+**Reach.** Statement ranges over initiation before clinical detection and later symptom production. Surgery and imaging sample selected lesions after variable disease duration and treatment. A field's review states that the diagnosis is quite often delayed because of nonspecific manifestations, and that the true pathogenesis remains poorly understood after the pathways considered: disease at a delayed diagnosis and initiation sought are not the same, delay standing between them.
 
 **Unreachability.**
 
@@ -9372,7 +9372,7 @@ A group can bear attitudes as an organized agent through decision structures dis
 
 **Persistence.** A constitutive account resolving the difficult cases without circularity, over-demanding common knowledge or positing an unexplained group subject.
 
-**Addresses.** Statement, with its posing and the marked phrase added there, hardness at two claims an account must hold together, and relation at Reach: Schweikard and Schmid, "Collective Intentionality", Stanford Encyclopedia of Philosophy, at its opening as the encyclopedia's page carries it verbatim (the power of minds to be jointly directed; the modes; attitudes ascribable to individuals as a group; the main challenge the tension within that expression, spelled out as a contradiction between the Irreducibility Claim and the Individual Ownership Claim; theories proposed over the last decades pointing to different solutions), first published 2013 by a data listing, its current revision date not carried at the page observed, the entry itself not fetched. "Collective Intentionality", Internet Encyclopedia of Philosophy, at its opening as the encyclopedia's page carries it verbatim (the dominant picture that intentionality is a feature of individual minds; groups without minds or brains and the question how they could have intentional states; growing attention, focused on collective intention and belief), its author not carried at the page observed, the section numbers given before this pass, §§1–5, not verified. Its hardness line's clauses on parallel action, coercion and circularity, account, specifications and approaches stand keyed at the next pass. Content and recent dispute: Crone, "Collective intentionality: why content matters", Inquiry, 2025, cited here and not observed this pass. Persistence, no settling: its closing condition at the entry at the address, at passages of its text as the encyclopedia's page and six archived editions carry them verbatim (the charge that intentions grounding collective intentionality in individuals' intentions are circular, presupposing rather than constituting the jointness; the relational alternative acknowledging genuine we-form attitudes, which does away with the problem of circularity; the nature of the first-person plural indexical an aspect whose investigation is still in the early stages; the question what sort of entity can be a subject of intentionality), the entry itself not fetched. Remaining properties: keyed at the next pass.
+**Addresses.** Statement, with its posing and the marked phrase added there, hardness at two claims an account must carry together, and relation at Reach: Schweikard and Schmid, "Collective Intentionality", Stanford Encyclopedia of Philosophy, at its opening as the encyclopedia's page carries it verbatim (the power of minds to be jointly directed; the modes; attitudes ascribable to individuals as a group; the main challenge the tension within that expression, spelled out as a contradiction between the Irreducibility Claim and the Individual Ownership Claim; theories proposed over the last decades pointing to different solutions), first published 2013 by a data listing, its current revision date not carried at the page observed, the entry itself not fetched. "Collective Intentionality", Internet Encyclopedia of Philosophy, at its opening as the encyclopedia's page carries it verbatim (the dominant picture that intentionality is a feature of individual minds; groups without minds or brains and the question how they could have intentional states; growing attention, focused on collective intention and belief), its author not carried at the page observed, the section numbers given before this pass, §§1–5, not verified. Its hardness line's clauses on parallel action, coercion and circularity, account, specifications and approaches stand keyed at the next pass. Content and recent dispute: Crone, "Collective intentionality: why content matters", Inquiry, 2025, cited here and not observed this pass. Persistence, no settling: its closing condition at the entry at the address, at passages of its text as the encyclopedia's page and six archived editions carry them verbatim (the charge that intentions grounding collective intentionality in individuals' intentions are circular, presupposing rather than constituting the jointness; the relational alternative acknowledging genuine we-form attitudes, which does away with the problem of circularity; the nature of the first-person plural indexical an aspect whose investigation is still in the early stages; the question what sort of entity can be a subject of intentionality), the entry itself not fetched. Remaining properties: keyed at the next pass.
 
 *The report.*
 
@@ -10658,7 +10658,7 @@ Cooperative and coercive mechanisms together: circumscription fostering trade, p
 
 ## The collection
 
-Entries stand here, one to a problem, **and their count is recomputed at them** — a count carried beside them is prior the moment one arrives.
+Entries stand here, one to a problem, **and their number is recomputed at them** — a number carried beside them is prior the moment one arrives.
 
 ---
 
@@ -10700,7 +10700,7 @@ Entries stand here, one to a problem, **and their count is recomputed at them** 
 
 **C18.** A hardness line stating the compendium's observing rather than the field's words.
 
-**C19.** An approach count matching the count at neighbouring entries where fields' records differ.
+**C19.** A number of approaches matching the number at neighbouring entries where fields' records differ.
 
 Corrections are applied against literature.
 
@@ -10708,8 +10708,8 @@ Corrections are applied against literature.
 
 # 7 The aggregate
 
-Each figure is a count over filled properties.
+Each figure is a number over filled properties.
 
-The count of entries. The count of entries by the name their specifications are universal under. The distribution of specifications carried per entry. The count of entries carrying an unreachability result. The count carrying a narrowing recorded, by narrowing of reach and by weakening of relation. The count carrying a specification withdrawn. The distribution of approaches per entry and of approach standings. The count whose settling result is specified as one result, as either of two, or as proved unavailable. The count of properties standing empty, by property.
+The number of entries. The number of entries by the name their specifications are universal under. The distribution of specifications carried per entry. The number of entries carrying an unreachability result. The number carrying a narrowing recorded, by narrowing of reach and by weakening of relation. The number carrying a specification withdrawn. The distribution of approaches per entry and of approach standings. The number whose settling result is specified as one result, as either of two, or as proved unavailable. The number of properties standing empty, by property.
 
 Each figure is recomputable from entries.
