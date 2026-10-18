@@ -101,3 +101,7 @@ The particular philosophical relation is morality explained through the self's a
 **Concern · at a sentence.** Beside "That the five words emanate the whole form and not the resolver alone is the saying, and it stands most open of the ones"…
 
 *Standing at v389:* At 3.5 "Five words, alternating right spiral sequencing binary co-offering, emanate the resolver" and "emanate the whole form". Natural Naming v389 2.4 releases *emanating* at method into method, and an emanation into an artifact; Exhibit ONE v389 carries seventeen names and no five words. Re-saying the five words and their emanating needs a resolution not yet entered. **To resolve:** are the five words re-said at Exhibit ONE's names and the emanating released into method, or does 3.5's emanating paragraph go to the possibling file?
+
+**Concern · at a sentence.** Beside "There is co-time, held-elapsing, one of the three ledgers."
+
+*Standing at v389:* *Co-time, held-elapsing* names one of three ledgers at 3.7, a label found at this file only, and no living file explains it. Natural Naming 2.4 carries *held* by *fixed*, and *fixed-elapsing* would be a new label whose value is not observed here. **To resolve:** re-say it as *co-time, an elapsing fixed at a ledger*, or release the label and keep *co-time, one of three ledgers*?

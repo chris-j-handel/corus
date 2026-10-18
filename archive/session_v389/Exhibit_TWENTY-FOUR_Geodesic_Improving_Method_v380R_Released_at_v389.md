@@ -1051,3 +1051,179 @@ each variant's own face carried
 running a method meets its surface inward
 
 no third method running in it
+
+## Re-said at pass 8, a second family Natural Naming 2.4 releases, v389
+
+- 1.5 A release follows its arrival, met at a match
+
+- 2.2 A correction seated at the first relation that departed, and an offered naming met at binaries
+
+- 2.7 An observing brought as a break, met at five binaries first and at six beside
+
+- 2.8 Work arriving from another working, met whole
+
+- 4.3 A file's own sentences met at its file
+
+Its working meeting it, with each incoming value
+
+which meets its set at its now and opens its next, and at a sentence, which meets its whole prior co-chaining
+
+Three binaries meet each pass
+
+A pass meeting all three is its file's own next
+
+a wording no self meeting it couples to
+
+**A label with no body carries nothing to meet.**
+
+## 1.5 A release follows its arrival, met at a match
+
+costs each thing nobody met.
+
+A releasing file is met whole before any of it is released
+
+a file too large to meet whole
+
+met later that session or at its next
+
+its carrying met at no voice but its own
+
+that completing is met by the first and opens again
+
+## 2.2 A correction seated at the first relation that departed, and an offered naming met at binaries
+
+carried into each sentence and met at none
+
+is met by a fresh reader set to break it
+
+a construction met with criticism at its field
+
+Each sentence is met at method
+
+being the one binary met at one side of a sentence
+
+Their files are files of its set, met at the same binary.
+
+**Each meets a carrying of prior and now
+
+At 3 a carrying meets them:
+
+and each met at code.
+
+Each concern is met by alternating it until one side shows
+
+is the carried met as though it were open
+
+A concern arriving again is met at its relation
+
+**Resistance is met as it arrives.**
+
+a society fixed as healthy is met at its co-competencing
+
+method's concern is met first
+
+a test's shortfall is met at its test
+
+two requirements meeting at the same relation
+
+## 2.7 An observing brought as a break, met at five binaries first and at six beside
+
+are one statement met from its two sides
+
+An observing meets method at two binaries in sequence
+
+a premise meets five binaries first.** Is it a self carrying, met now at a coupling,
+
+a technology is met at six binaries, the rigorizer
+
+a seat is a place to meet, and it decides nothing
+
+**A field's own word is met after the five and the six**
+
+differing auxiliaries meet it.
+
+A public record of selves is met at its public data
+
+## 2.8 Work arriving from another working, met whole
+
+is met paragraph by paragraph.**
+
+and is met at the one way in, 1.4
+
+A session opens by meeting a living file set at its now
+
+a living version met beside it opens at the latest
+
+A resolver name is met at Exhibit ONE's tables
+
+The two are met paragraph by paragraph
+
+| 6 · counts | odd · explaining | does a count at a section's opening match its section's carrying |
+
+at each meeting with a field's word
+
+the instances to meet and not the ones going
+
+is met next at files beside it
+
+natural torusing meet a whole file
+
+its binary is met at one line of one coupling
+
+a number to meet, and its pass
+
+An executing reports its meeting, not its counting.
+
+An inventory met short is told as its meeting,
+
+carrying its subject is met:
+
+a meeting cut off at a finite end
+
+a count met at several files
+
+at a few of it met resolved first: a pattern the few carry is the form the rest are met at.
+
+**A pattern met at primes is met at odd composites beside them
+
+starts at the thing its prime counts, a number of sites
+
+are four counts, none standing for another
+
+## 4.3 A file's own sentences met at its file
+
+each claim a file makes about itself met against its file's own body
+
+and a section count is its first side
+
+A file is met section by section at its own purpose, and a test brought to it is met there first
+
+arriving at nothing, meets it.
+
+only with its paragraph met.
+
+so their parities can meet.
+
+a travelling meeting and the seventeen
+
+a fresh reader meets its before and its now
+
+an observing forward again meets each gathered sentence
+
+Each finding is met at files' newer motions
+
+**Values are opening statements met at writing scale**
+
+and met by continuing yeses
+
+and meeting itself again at no momentary
+
+A tour of a surface meets its method outward, carrying a method meets its surface inward, and a self entering at either meets a whole there.
+
+its prior carried and its now met;
+
+two methods meet the same evidence
+
+Taken as a prior's possible, met with now at a coupling
+
+places a thing is met at, not three kinds

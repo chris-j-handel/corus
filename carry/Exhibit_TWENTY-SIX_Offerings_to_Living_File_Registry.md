@@ -108,3 +108,7 @@ Exhibit TWENTY-SIX Living File Registry Offerings · improved at v389
 **Concern · v389 · an eight joined at its deriving.** Natural Explaining 4.7 says two tellings join only at one deriving from the other and never at a shared count, *three at one self along the running and three at three selves across the ring are two things at one number*; each eight of the set is one eight at its deriving from 1 to 8, said at each pass, and an eight joined by its count alone is the joining 4.7 releases.
 
 *Standing at v389:* Natural Explaining v378 4.7 has "Three at one self along the running and three at three selves across the ring are two things at one number", and a v389 droplet has "Every eight of the set's explaining is the one eight"; an eight joined by its count only is a joining 4.7 releases. **To resolve:** derive each eight from 1 to 8 at its pass, or keep eights apart at their subjects?
+
+**Concern · at a sentence.** Beside "each file’s method count and"
+
+*Standing at v389:* At 4.2, row Philosophy ⇌ Physics: “each file’s method count and its particular experimental or conceptual contribution remain explicit.” *Count* stands at a registry’s own voice and goes directly into numbers, yet what it numbers parts two ways: how many methods each file carries at one dividing, thought and physical observing, or each file’s method mattering. A number of methods and a mattering are two values. **To resolve:** “each file’s number of methods”, or “each file’s own method”?

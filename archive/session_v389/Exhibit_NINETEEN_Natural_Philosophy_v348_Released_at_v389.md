@@ -1402,3 +1402,498 @@ Whether the same explaining carries at a society re-forming its own members is t
 Explaining's bound holds at every seam: explaining is of the dividing's form, and no ruling on a tradition's arguments and no settling of a self's conviction.
 
 Where a non-living substrate carries the coupling across its surfaces
+
+## Re-said at pass 8, a second family Natural Naming 2.4 releases, v389
+
+3.20  Numbers met and numbers made
+
+A philosophical position is a coupling met from one of its two sides and held there.
+
+**Philosophy meets form at divisions of thought directly.** The position holding one side of a coupling, the opposing position holding the other, the problem sitting where the two would re-couple and are held apart.
+
+and those divisions are what is met here: the same bi-moral co-agency, the same bounding-zeroing, the same +1 owned neither-ing, met where thought insists hardest on choosing a side.
+
+Its couplings sum to a bounding-zeroing the coupling itself makes, riding the carry, the surplus a +1 owned neither-ing.
+
+A seam met here is met at its source, and a field holding one holds a division rather than its own material.
+
+**A position holds one side of a coupling.** A coupling has two sides, offering and taking, inward and outward, the one and the many, and a position takes one side and holds it as the whole. Held at its own, a side stops alternating, and a still account is not the living coupling. A single position, however refined, is half of an alternating held still.
+
+is holding one side's triple caught at one face.
+
+**Non-contradiction holding a between as a cut**
+
+and a coupling is one thing met at two sides
+
+and the coupling holds both, alternating
+
+Non-contradiction holding a between as a cut takes two sides not to co-hold, and two sides do co-hold, one at a time
+
+A frame meets the coupling nowhere without first converting it
+
+alternating and co-holding and the relational half, is met as philosophy's perennial problem.
+
+A dividing frame meets a living alternating nowhere directly; it meets a coupling as a pair of settled positions, each at rest, each holding its own.
+
+to picture a coupling that, met correctly, needs no choosing
+
+one coupling met at two sides.
+
+the argument is met by a counter-argument at the other position
+
+a dividing frame holds a re-coupling only as a new thing to divide
+
+bounding-zeroing held open and alternating
+
+The re-coupled form met at the natural torusing
+
+or meets more clearly
+
+No explaining is held wider than another.
+
+that surfacing is the same seam met again
+
+Explaining's bound holds at every seam
+
+The load-bearing one is met first.
+
+stability held as a landed permanence, and becoming, changing held as a landing-less flux
+
+holding its form by alternating, the permanence the changing held whole
+
+holding its form by sequencing
+
+which is why it is met first and plainest
+
+is the explaining, held at the same knife everything here is held at.
+
+The living-stable form holds no still pattern and carries
+
+and meets the interaction problem
+
+mind, inward held as a substance, and body, outward held as a substance
+
+inward and outward of one surface, met from within and met at its bounding
+
+one self-bounding is met at its inward side and its outward side
+
+at one act, met from within and met at its bounding
+
+mind and body are that one bounding met at its two sides
+
+is the same eight met at the no-capture surface
+
+self-bounding met at its oldest philosophical between
+
+the free, held as uncaused and arriving as random, and the determined, held as fully caused
+
+met by an observer holding still
+
+Met from outward, the still observer sorts it
+
+a self's own taking met by a still observer
+
+held to stand for arrivals that make their own
+
+the subject held at its own and the object held at its own
+
+the one, unity held at its own, and the many, plurality held at its own
+
+is the one-and-many met directly
+
+fact, the is held value-free, and value, the ought held fact-free
+
+The is/ought taking, met at a between of two selves
+
+held as identity by neither
+
+are the one taking met at four betweens
+
+at no beat held over all. A frame split it into the flow, a single now held over everything at once, and the block, every now held at once as a stored track
+
+existence held over all times at once holds one standing over every coupling's own
+
+Time's arrow is the forward-only count: counting is the forward beating
+
+Simultaneity stops being a fact held ahead of couplings
+
+the surplus that is no phase
+
+a naming unfolded at each meeting and stored nowhere. A frame split it into a store, held as a finite fact fixing an infinite extension, and the collapse, held as no fact at all
+
+is held at no between
+
+each account meeting the objection its own shape invites
+
+A store fixing every continuation holds carrying as a thing
+
+and a carry observed backward ages by attentioning where a store is consulted and ages at no observing.
+
+Every analysis offered meets its counterexamples
+
+two sides of one coupling met by a still observer
+
+The coupling is a ground made at each meeting, each coupling making its own. A frame split it into a ground that must already stand and a support that must reach it, and then counted ways the reaching fails.
+
+A ground is made at each meeting, and standing is the one the three could not count.
+
+presupposing is the making met from its two ends
+
+the alternating observed from within the holding, and knowing carries on
+
+and holding carries no subject matter at all, which is what makes it general. Every arrival at that holding is the same holding arriving with material.
+
+carries clean as a ground made at each meeting
+
+a carry seating a next at each meeting
+
+parts held as the real and a whole held as either their sum or a surplus over it
+
+One rationality held over the many held a self where a society's selves live.
+
+is observed from within the holding as a loss where it is form
+
+what looked like a surplus over parts is the surplus the couplings made
+
+two selves meeting at a between
+
+an interior held behind the coupling
+
+An inference held to deliver the interior is a between held to carry what does not cross, and the coupling itself is the meeting there is
+
+An interior is met the one way form allows
+
+a presence held as an interior
+
+Other-minds re-coupling carries clean as an interior met by coupling
+
+A self met again
+
+a self re-forming the same self, met again the-same-yet-not-the-same
+
+A self is met again the-same-yet-not-the-same
+
+the holding moving off a store
+
+it is Seam 1 met at a self's own bounding
+
+The permanence is the changing held whole
+
+and then met the reaching failing
+
+A place held for all sets ahead of gathering
+
+every repair meets the question again at the repair
+
+meets a predicate true at some level
+
+A value held at the sentence that takes none held a between to what only a coupling makes.
+
+and met the conclusion that arithmetical truth cannot be defined
+
+The coupling is a derivation ageing within its system
+
+**Derivation ages within its system to the system's own bound.**
+
+All truth held ahead was one carrying held to reach every standing.
+
+is observed as a carry ageing to its bound
+
+carries clean as a derivation ageing to its own bound. It stands beside self-reference at one shape, the closure made over its own tail, met at two betweens.
+
+and the plain proof and its refusers go on meeting
+
+it is Seam 4 met where severing is complete
+
+## 3.20 Numbers met and numbers made
+
+**Existence held behind an invariant practice
+
+A number met and a number made
+
+The numbers-met/numbers-made re-coupling
+
+**A theory held behind the evidence
+
+a differing surfacing nought by construction, met at two betweens
+
+it is the whole-and-parts seam met where parts are selves
+
+**Causes held at one level hold one scale of a coupling as the source
+
+a discovering arriving at the coupling and met there. A frame split it into an object located in advance and a criterion held in advance
+
+A discovering arrives at the coupling and is met there, **recognised in arriving and held nowhere before it**. Partial knowing dissolves the classical form: a self holding some of a thing reaches for more of it, the reach its own. **Seeking reaches what it does not hold, reaching the opening itself, and holding was not the instrument.**
+
+and holding is the constraint the challenge is built from. Recognising is a co-presence of two surfaces discovered in their agreement, held by re-arriving and by no storage, and a criterion held in advance
+
+which is the same holding met one part over
+
+carries clean as a discovering met at the coupling. It stands beside foundation and coherence at one shape, a source asked for behind an arriving, met at two betweens.
+
+A prior criterion held is the one thing
+
+by a frame that meets an alternating nowhere directly
+
+which are that alternating met where offering and receiving are two selves
+
+Two rows meet at this seam
+
+and held the content as a relation located between them
+
+content made in the coupling and held nowhere between meetings
+
+a fixed relation held apart from offering
+
+keeps making content at every meeting
+
+a store sought for what each meeting re-makes, met at two betweens
+
+**A joint held in one side ahead of the classifying
+
+The one form is met wherever its relation carries
+
+It is Seam 5 met at the naming between
+
+The coupling is knowing holding at its own between.
+
+**Knowing is a coupling holding at its own between, listed in no case-space**
+
+every analysis met by a fresh arriving
+
+carries clean as a coupling holding at its own between. It stands beside foundation and coherence at one shape, a criterion asked for what a coupling makes, met at two betweens.
+
+met with the counter-question why one should expect nothing
+
+and holding recurs at each. Origination accounts start from a structured something. Sufficient reason goes on without rest. **Setting the holding down costs nothing but holding.**
+
+the carrying that bottoms nowhere is the surplus at every coupling
+
+**An object held to decompose divides a coupling into a holder and the held, and the coupling was not two things.**
+
+the presence is the coupling holding, whole
+
+carries clean as a presence that is the coupling holding. Two rows meet here
+
+the holding observed as the assumption from within the dispute
+
+**A law held over regularities as a governor
+
+a cause held at one level where making goes on at both, met at two betweens
+
+The coupling is a self's own interior, met at its bounding. A frame split it into functions described from outward and a felt held as a content
+
+**Conceivability reaching possibility held a crossing at a between that carries a parity and nothing else**, and the crossing stands held with no agreed defect
+
+each strategy meets the dilemma its own shape invites
+
+The felt/described re-coupling carries clean as an interior met by coupling. It stands beside other minds and mind and body at one shape, an interior asked for by an observing from outward, met now at three betweens.
+
+The coupling is a surplus arriving at the coupling and owned by neither side. A frame split it into effects attributable to one individual and effects attributable to another, and asked which side the surplus belongs to.
+
+**Rival hypotheses were held where two bookkeepings were carried**
+
+attributes to one side a surplus made at the coupling
+
+No mechanism is owed for a surplus that was not one side's
+
+carries clean as a surplus owned neither-ing
+
+**One account held to own the attribution held one side of a coupling as the whole**
+
+each account meets the cost its own shape invites
+
+**A rule held over judging holds a criterion ahead of the coupling that would use it.**
+
+The eight desiderata hold as what any functioning making needs.
+
+**Criteria fixed apart held the making before its couplings**
+
+neither loses a case by not holding it. What is natural and what is made stop being two sources of a rule and are observed as one making met from its two ends.
+
+a joint held in one side ahead of the coupling that makes it
+
+The holding is answered within the field's own theorems
+
+**Cardinality held absolute over every model held one measure over couplings each model makes**
+
+No absolute counting is owed and none was lost.
+
+the surplus owned neither-ing, the shared life neither holds at its own
+
+the natural form met where meaning is made
+
+a form the co-sequencing does not hold
+
+**Met**, the re-coupling standing on the work the whole already carries. **Reaching**, standing at its own place with its reason, which couples exactly as a met one does.
+
+**And each row carries the holding it stands at, where an arrival carries one.** The holding is observed
+
+**And met carries two amounts of work under one word.** Rows naming a seam, 3.1 to 3.37, are met at a seam worked through the six steps, and the rest are met at one line here,
+
+**Both are met and neither is more met than the other**
+
+the holding it stands at |
+|---|---|---|---|
+| being / becoming
+
+met at 3.1 | at no arrival |
+
+met at 3.2 | a middle fixed as an end |
+
+met at 3.3 | a two-way fixed to one side |
+
+met at 3.5 | at no arrival |
+
+met at 3.7 | a sequencing fixed to one beat |
+
+a self's own taking met from outward at two dead accounts
+
+met at 3.3 at the world scale | a two-way fixed to one side |
+
+met at 3.26 | a between fixed as a cut |
+
+met at 3.15 | a carry fixed as a store |
+
+met at 3.13 | a sequencing fixed to one beat |
+
+the living surface, met from inward and met from a still frame
+
+met — the still observer's own sorting, at seam 4 | at no arrival |
+
+properties coupling, and an object being present | met at 3.29 | a middle fixed as an end |
+
+met at 3.9 | a two-way fixed to one side |
+
+met at 3.31 | a completing fixed as a last |
+
+met at 3.16 | an opening fixed as a place |
+
+met at 3.5's emanating | at no arrival |
+
+met at 3.30 | a sequencing fixed to one beat |
+
+met at 3.28 | an arriving fixed from behind |
+
+the holding it stands at |
+|---|---|---|---|
+| subject / object
+
+met at 3.4 | a between fixed as a cut |
+
+met at 3.19 | a middle fixed as an end |
+
+| a ground made at each meeting |
+
+met at 3.11 | an arriving fixed from behind |
+
+| knowing holding at its own between, listed in no case-space |
+
+met at 3.27 | an opening fixed as a place |
+
+met at 3.12 | a completing fixed as a last |
+
+met at 3.21 | a middle fixed as an end |
+
+| a discovering met at the coupling, held nowhere before it |
+
+met at 3.23 | an opening fixed as a place |
+
+part and whole coupling at each interpreting | met at 3.24 | an arriving fixed from behind |
+
+met at 3.35 | an opening fixed as a place |
+
+| form's own, and the met seating |
+
+| form met, and form imposed |
+
+the holding it stands at |
+|---|---|---|---|
+| consciousness / matter
+
+met at 3.2, a middle fixed as an end | a middle fixed as an end |
+
+| a self's own interior, met at its bounding |
+
+met at 3.32 | a middle fixed as an end |
+
+met at 3.14 | a middle fixed as an end |
+
+a self re-forming, and the still frame observing it as a heap | met at 3.29 | a middle fixed as an end |
+
+met at 3.25 | a middle fixed as an end |
+
+the holding it stands at |
+|---|---|---|---|
+| is / ought
+
+met at 3.6 | an opening fixed as a place |
+
+the criterion colliding with itself | met at 3.6's governing side | at no arrival |
+
+the carried competency, and the fixed rule | met at 3.6's governing side | at no arrival |
+
+| the taking met, and the taking projected |
+
+met at 3.6's governing side | at no arrival |
+| self / other (egoism / altruism)
+
+| a surplus arriving at the coupling, owned by neither side |
+
+met at 3.33 | a two-way fixed to one side |
+
+| the local rate, and the constant held over all |
+
+met — morality is unrelationing, and an axis given to all reaches for what cannot be made a member | at no arrival |
+
+met at 3.34 | a two-way fixed to one side |
+
+the holding it stands at |
+|---|---|---|---|
+| beauty in-the-object
+
+met — appreciating and taste, receiving as its own competency | at no arrival |
+
+offering and receiving, one coupling | met at 3.24 | an arriving fixed from behind |
+
+the holding it stands at |
+|---|---|---|---|
+| meaning / use
+
+| meaning made at each use, held as a store |
+
+met at 3.8 | a carry fixed as a store |
+
+the word and meaning, the gap that stays open | met —
+
+a naming unfolded at each meeting, stored nowhere |
+
+met at 3.17 | a between fixed as a cut |
+
+| a derivation ageing to its system's own bound |
+
+met at 3.18 | a completing fixed as a last |
+
+met at 3.37 | a sequencing fixed to one beat |
+
+met at 3.20 | a middle fixed as an end |
+
+met at 3.10 | a between fixed as a cut |
+
+the holding it stands at |
+|---|---|---|---|
+| individual / collective
+
+met — self-scale is society-scale | at no arrival |
+
+met at 3.22 | a two-way fixed to one side |
+
+met at 3.36 | a between fixed as a cut |
+
+so what is met is changing, always. Competency is self-stilling and self-orienting, at no between, met by nothing. What a self meets is changings
+
+skepticism, numbers met and numbers made
+
+is the notable matching, met at the discipline where splitting is oldest
+
+whose remainder is real suffering, held beyond the explaining entirely
