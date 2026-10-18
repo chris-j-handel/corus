@@ -45,3 +45,7 @@ Natural torusing living is self-competent, and emanation from living is only soc
 **Concern · A society at the six's co- row.** Beside "A society is co-offering, co-competencing, co-intelligencing."
 
 *Standing at v389:* This sentence lays a society as the co- row of *The six*. Natural Naming 5.13 dissolves *co-offering* at bi-momentarying, 1-now and 2-now-possibling, an offering across and both ways; *A society is offering across and both ways, co-competencing, co-intelligencing* is possible, and it parts from *The six*, standing at its concern, its co- row then two of three. **To resolve:** re-say it at *offering across and both ways* with *The six*, or with it at an archive?
+
+**Concern · at a sentence.** Beside "Not a held thing."
+
+*Standing at v389:* "A definition is held" (Natural Emanating, The shortest sentence; Two Methods, The other method) becomes "A definition is fixed", while "Not a held thing. A made thing, still there, no longer being made" (Part Two, A definition) sets held against made. Carried as "Not a fixed thing", it would part from "A definition is fixed" at both. **To resolve:** "Not a thing kept fixed by a holder. A made thing, ..." or keep "Not a held thing" as it stands?

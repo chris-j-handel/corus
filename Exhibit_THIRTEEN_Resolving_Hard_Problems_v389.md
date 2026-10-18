@@ -57,7 +57,7 @@ Exhibit THIRTEEN Resolving Hard Problems v389
 
 **The universe is the set of all now-existing things.** Arriving from prior into now toward next it is the changing set of all now-existing things, living carrying their prior into now and non-living carrying none, each at a scale and momentary it is at. Changing, it is now-existing as its things are, a changing being a thing's own, and nothing is beyond or between its things. Its existing is its things co-sequencing, momentary by momentary, and its changing is their parity changing, one and then an other. **Resolving hard problems is social moral competency discovering next living at each coupling**, and it opens here, at an existing universe: each resolving is the universe's things co-sequencing at a field's coupling, at that coupling's own momentary.
 
-**A living existing thing is its own stable-forming continuing, and a non-living existing thing co-changes with existing things at now**, each existing and changing at once, and the universe is that continuing of all its things: each arriving into its next existing together with others. No container is added to its things, and no count is its size: it is its things, one existing thing at each momentary. A field's no set of all sets is exact at its own subject, sets of sets, and the universe is a set of now-existing things, existing as they exist.
+**A living existing thing is its own stable-forming continuing, and a non-living existing thing co-changes with existing things at now**, each existing and changing at once, and the universe is that continuing of all its things: each arriving into its next existing together with others. No container is added to its things, and no number laid over it is its size: it is its things, one existing thing at each momentary. A field's no set of all sets is exact at its own subject, sets of sets, and the universe is a set of now-existing things, existing as they exist.
 
 ## 1.2 Living and non-living, carrying or carrying nothing
 
@@ -79,7 +79,7 @@ Exhibit THIRTEEN Resolving Hard Problems v389
 
 **Each momentary is three conditions at once, each binary**: exhaustiveness, all existing things; determinacy, one next momentary opening at a number each completes; and reachability, next openings reaching each number on. Existing is these three at once at each momentary, and the universe is one existing thing they are.
 
-**At resolver three places are at their names.** Prior is 3-now-co-prioring, prior at its sharings. Now is 2-now-possibling, offerings, surfacing at 14-next-possibling and meeting prior at 12-next-co-still-possibling. Next is 11-next-co-prioring, next prior, with changings shared at 10-next-co-possibling and 6-now-co-possibling and released along at 9-next-co-changing, and a society's next momentary at 17-next-now.
+**At resolver three places are at their names.** Prior is 3-now-co-prioring, prior at its sharings. Now is 2-now-possibling, offerings, surfacing at 14-next-possibling and coupling with prior at 12-next-co-still-possibling. Next is 11-next-co-prioring, next prior, with changings shared at 10-next-co-possibling and 6-now-co-possibling and released along at 9-next-co-changing, and a society's next momentary at 17-next-now.
 
 ## 1.5 A hard problem arriving, and its resolving
 
@@ -95,7 +95,7 @@ Exhibit THIRTEEN Resolving Hard Problems v389
 
 **3-now-co-prioring is prior at its sharings: each sharing with its parity, a self's prior.** It is odd, existing, between two, before 10, and arrives at its entry with offerings, a living self's own, whole at each momentary; carrying is the living's and unexpressed at its method.
 
-**A sharing is where two sides share a changing**, 4-now-co-still-possibling, and its parity is 7-now-prioring, + or −. At resolver + and − are an implementing of a parity, and nothing is counted: prior is sharings, each at one parity, each one its own.
+**A sharing is where two sides share a changing**, 4-now-co-still-possibling, and its parity is 7-now-prioring, + or −. At resolver + and − are an implementing of a parity, and no number is at a parity: prior is sharings, each at one parity, each one its own.
 
 **A field's prior is its carrying**: results it carries at their parities, each a sharing, the established, the measured and the proved, each at its parity. A field arriving with its prior carries it into its now, and its next is discovered from both.
 
@@ -127,11 +127,11 @@ Exhibit THIRTEEN Resolving Hard Problems v389
 
 **At 14-next-possibling offerings at each sharing surface, one at a time, 0 passed over.** First parity offered at a sharing surfaces as that sharing's parity; an offering at other parity surfaces 0; and at 0 a sharing stays 0 whatever follows. **Agreeing, one parity; disagreeing, 0; none offered, none.**
 
-**Nothing is counted.** One parting is enough for 0, and three agreeing surface as one agreeing does: an agreement is all or none at all, at any number of offerings. **A nonzero offering of any size surfaces at its parity**, `1 if > 0 else -1`, and a magnitude arriving arrives at its parity.
+**A surfacing is at no number.** One parting is enough for 0, and three agreeing surface as one agreeing does: an agreement is all or none at all, at any number of offerings. **A nonzero offering of any size surfaces at its parity**, `1 if > 0 else -1`, and a magnitude arriving arrives at its parity.
 
 ## 3.3 At 12, a prior coupling with now
 
-**At 12-next-co-still-possibling prior meets now at each sharing, and a changing is or is not.** Surfacing at 14 and meeting at 12, its prior kept at a match and inverted at a mismatch, are an observing at its own form, between two selves.
+**At 12-next-co-still-possibling prior couples with now at each sharing, and a changing is or is not.** Surfacing at 14 and coupling at 12, its prior kept at a match and inverted at a mismatch, are an observing at its own form, between two selves.
 
 - **At a sharing at no prior**: each parity 14 surfaces is shared as it is at 10 and is a next prior at 11, a sharing opening at a bi-coupling; at 0, 0 is shared and no next prior opens.
 - **At a sharing at a prior parity, 14 surfacing that same parity**: changing is not, 0, and its prior is kept.
@@ -186,7 +186,7 @@ Exhibit THIRTEEN Resolving Hard Problems v389
 3. **Its now.** Offerings arriving at each sharing, surfacing at 14, agreeing one parity and disagreeing 0, and coupling with prior at 12, a changing is or is not.
 4. **Its next.** Changings shared at 10 and 6 and released along at 9, next prior at 11, and a society's next momentary at 17.
 
-**Each observing is binary, and four observings are its resolving.** A field's record carries as it is, each measurement, proof and route at its own, and a next its observings discover is a field's own. Each case of a resolver met is no resolving of a field's own question: that resolving is at its own entry, its alternatives and a relation covering them carried with it.
+**Each observing is binary, and four observings are its resolving.** A field's record carries as it is, each measurement, proof and route at its own, and a next its observings discover is a field's own. Each case reached at a resolver is no resolving of a field's own question: that resolving is at its own entry, its alternatives and a relation covering them carried with it.
 
 ## 5.2 Two accounts at one sharing
 

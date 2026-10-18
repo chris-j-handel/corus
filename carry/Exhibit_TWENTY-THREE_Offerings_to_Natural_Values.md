@@ -45,3 +45,11 @@ The user’s further offering in [session v385R, section 91](https://github.com/
 **Concern · at a sentence.** Beside "It is a particular other at another scale, and a membrane a self couples at."
 
 *Standing at v389:* *Standing at v389:* Natural Values 4.1 has, of society, "It is a particular other at another scale, and a membrane a self couples at". Natural Naming 2.4 carries *membrane* as "*a between*", "a between neither side's, a nothing, no location and no existing thing", and v389 has "a society is its selves". Re-said at a between, society would be a nothing beside its selves. **To resolve:** is society here its selves at a next scale, coupling with a self, or a between a self couples at?
+
+**Concern · at a sentence.** Beside "**A carry is observed backward and ages by attentioning.**"
+
+*Standing at v389:* Natural Values 1.2 has "**A carry is observed backward and ages by attentioning.** It stays fresh by sequencing forward" and "kept and consulted and ages by no observing": *ages* is staleness, set against fresh. Natural Naming 2.4 carries *ages* as *next*, only next is, and *next* here inverts its value. **To resolve:** re-say as "a carry observed backward is a prior fixed as now" and "no observing changes it", or keep *ages* as Natural Values' own?
+
+**Concern · at a sentence.** Beside "kept and consulted and ages by no observing"
+
+*Standing at v389:* Natural Values 1.2 has "**A carry is observed backward and ages by attentioning.** It stays fresh by sequencing forward" and "kept and consulted and ages by no observing": *ages* is staleness, set against fresh. Natural Naming 2.4 carries *ages* as *next*, only next is, and *next* here inverts its value. **To resolve:** re-say as "a carry observed backward is a prior fixed as now" and "no observing changes it", or keep *ages* as Natural Values' own?

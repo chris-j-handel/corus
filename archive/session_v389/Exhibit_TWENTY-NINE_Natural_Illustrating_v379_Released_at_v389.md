@@ -1101,3 +1101,43 @@ two faces one offering observed one coupling at a time
 two helices of opposite hand joined at a perversion
 
 An incoming concept joins a section its explaining belongs at
+
+## Re-said at pass 8, a second family Natural Naming 2.4 releases, v389
+
+**Self and other meet illustrating through
+
+a change of scale meets local resolving
+
+**Making better and breaking meet the same offered relation.**
+
+each is a next after one before it is met.
+
+completing and opening meeting at shared positions
+
+a prior parity meeting an offering
+
+A prior of + meeting a now of +, a prior of − meeting a now of −, and no prior meeting offerings
+
+a line it does not meet,
+
+its parities again at twelve, holding at Exhibit ONE's torus
+
+another person's recognition meets that changed arrangement
+
+one line meeting at a throat
+
+one nothing met six times, not six places
+
+two rotatings met at one between
+
+Natural Physics 3.4: two meeting through
+
+a train at one place meeting a lock
+
+both hands meeting at a nothing
+
+a domain meeting it again
+
+Draw each self at its own pace meeting at couplings
+
+explaining a reader meets once

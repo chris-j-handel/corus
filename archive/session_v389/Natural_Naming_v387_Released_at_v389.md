@@ -2079,3 +2079,15 @@ the possible at prior, 5.39: the sign 0
 **12's two signs, 0 and ±, are a binary of geodesic momentarying
 
 A still is at sign 0, existing on one side
+
+## Re-said at pass 8, a second family Natural Naming 2.4 releases, v389
+
+7-now-prioring and 14-next-possibling meeting at each sharing
+
+leave out *existing* and now holds no thing
+
+14-next-possibling meet at each sharing
+
+at resolver its method meets prior at 3-now-co-prioring
+
+meeting an other's offerings at each sharing 4

@@ -315,3 +315,145 @@ Neither residue is a living position; each is an artifact a stilled frame takes 
 chains finding their paths geodesically with nothing acting on them.
 
 each exhibit clearer and more focused at its title and subtitle.
+
+## Re-said at pass 8, a second family Natural Naming 2.4 releases, v389
+
+1.5 Surplus made in crossing, +1 the between's
+
+1.6
+
+2.5 Carry holding the substrate, parity carrying none across
+
+&nbsp;
+
+Its couplings sum to
+
+And a surplus each coupling makes
+
+owned-neither-ing**, made in a meeting, a between's and held by neither self.
+
+a zero its coupling itself holds, owned
+
+Inseparable holds here at its root
+
+A surplus, a +1 owned neither-ing, is an alternation's
+
+across and both ways, counts as one
+
+A carry holds a magnitude, a voltage or a temperature or a momentum, and holds it whole
+
+a discipline held
+
+a zero its coupling itself holds, its two arms sum to
+
+**bounding-zeroing** its coupling itself holds
+
+A self whose whole surface sums to
+
+A span carries a count
+
+## 1.5 Surplus made in crossing, +1 the between's
+
+A crossing leaves a **surplus**
+
+made in a meeting, a between's and held by neither self. A surplus is a bi-fold's
+
+and that one is a surplus,
+
+and a surplus is an asymmetry itself
+
+A surplus is not added to a crossing
+
+A surplus is that difference
+
+it keeps its surplus,
+
+is a surplus kept: a +1 owned neither-ing held as coupling
+
+it ages at its own bound
+
+no common clock held over couplings
+
+neither holds a substrate's rate
+
+## 2.5 Carry holding the substrate, parity carrying none across
+
+A carry holds a magnitude, a voltage or a temperature or a momentum, and a
+
+a carry holds a substrate
+
+a surplus its asymmetry leaves.
+
+A substrate is a carry, holding its magnitude
+
+a surplus owned neither-ing. Each
+
+a surplus its separation owned by neither
+
+one holding a fixed thrust
+
+held the whole length
+
+a neutralling is a gradient held
+
+a surplus kept as chemical potential
+
+a surplus forced across and dumped
+
+a neutralling a held potential a coupling floats
+
+keeping its surplus,
+
+a surplus owned neither-ing, a
+
+A chemiosmotic held potential
+
+a surplus owned neither-ing. A
+
+support met in its field itself
+
+with a magnitude held out
+
+its coupling-count
+
+a surplus its smooth flow owned by no one
+
+its traveling interest a surplus carried forward
+
+a count of carries is of three unrelated things
+
+and not in a substrate held
+
+a surplus its asymmetry leaves;
+
+a magnitude and rate it holds
+
+A count of eight substrates finds eight things
+
+and a substrate held is only its rendering
+
+a surplus kept as coupling
+
+a surplus forced across a fixed axis
+
+a dead centre held against
+
+a node that holds only while
+
+a surplus owned neither-ing, chains
+
+a surplus owned neither-ing, no
+
+Held with a plaza
+
+and a neutral and a surplus, thins
+
+Settling here is a surplus of an observing
+
+two things meeting at a shared surface
+
+and a sphere meets only at a wall
+
+a surplus riding in a co-tunneling
+
+A between is not a meeting-place

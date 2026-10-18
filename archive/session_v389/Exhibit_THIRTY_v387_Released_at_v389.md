@@ -3397,3 +3397,73 @@ orienting at its own facing and opening its own axis
 and a rotation the same relation at another facing.
 
 and at each join a sharing side is co and an arriving side none, 6 to 2, 10 to 14 and 9 to 17;
+
+## Re-said at pass 8, a second family Natural Naming 2.4 releases, v389
+
+a thing held still from beside being at no next
+
+a not-changing held still; a form still; not possible thing;
+
+46. A second method holds a not-changing still, beyond things of the universe:
+
+*Adding: a not-changing held still; a form still.*
+
+a changing beside alternating, beyond things of the universe.
+
+Self's momentary 1–2 and other's 2–3 meet at 2,
+
+one parity at meeting and other one back
+
+74. Each momentary of exchanging meets same way, at 4, 6 and 8
+
+two across and two along meet at one point
+
+and at prior meeting now, same and kept or not same and inverted; self's next is parity it met,
+
+an applier over it, each beyond things of the universe, step 47
+
+a form not possibly existing, a not-changing held still, a now fixed
+
+hard probleming meets universal method of existing
+
+with the rest of the universe held still, each explanation an equilibrium at its scope, meeting kept observings
+
+co-chaining meeting each name at its number
+
+206. At 12-next-co-still-possibling prior meets now at each sharing
+
+self's prior at 3 meets offerings at 2
+
+self's changing shared now and not yet arrived,
+
+each eight coupled at that deriving and not at its count
+
+and its other is a not-changing held still, not method's
+
+asks for a thing beside changing, beyond things of the universe, step 47
+
+305. A thing beyond things of the universe asked for at an arriving
+
+a measure between scales is beyond things of the universe, step 47
+
+living at its coupling, met at its own momentary
+
+a field's neutral, its names meeting; three neutrals
+
+*Adding: a field's neutral, its names meeting.*
+
+a frame set over it, each beyond things of the universe, step 47
+
+on something performed first is beyond things of the universe.
+
+a realm of mind or culture beside couplings is beyond things of the universe.
+
+shows a thing it carries is beyond things of the universe, step 46
+
+a between sessions meet at,
+
+parallel sessions' releases meeting at one sharing
+
+At one self each sharing meets its own offerings, step 212
+
+each parting met by one back

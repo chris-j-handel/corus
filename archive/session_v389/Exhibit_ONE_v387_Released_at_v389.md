@@ -878,3 +878,11 @@ At each join a sharing side is a self and an arriving side another self
 at one line, its sign 0, prior kept, or ±, prior inverted. Same and not-same are that sign at two betweens
 
 four binaries each twice, met at a face, and 8 up
+
+## Re-said at pass 8, a second family Natural Naming 2.4 releases, v389
+
+Prior at 3 meets surfacing at 14
+
+each sharing at which offerings and prior meet,
+
+prior and offerings meeting |

@@ -12,7 +12,7 @@ Exhibit FIFTEEN Natural Emanating v389
 
 ---
 
-**The sentences below are short whole surfacings of one form, each at one bound, complete in itself and takeable as it stands.** Each is written to be met by anyone carrying none of its vocabulary, and **nothing here needs anything else opened first**. Open one, or open them in any order.
+**The sentences below are short whole surfacings of one form, each at one bound, complete in itself and takeable as it stands.** Each is written to be reached by anyone carrying none of its vocabulary, and **nothing here needs anything else opened first**. Open one, or open them in any order.
 
 It mates with Natural Naming, which unfolds one concept from inception where this surfaces a whole form at one bound.
 
@@ -42,11 +42,11 @@ An emanation is built · The reaching carried · This exhibit does not carry
 
 Everything relatable is changing.
 
-A form that holds by relating holds onto changing. So relating does not form. Forming is unrelationing, and unrelationing carried forward is alternating.
+A form fixed by relating is fixed onto changing. So relating does not form. Forming is unrelationing, and unrelationing carried forward is alternating.
 
-**In disequilibria, alternating is a stable-forming method.** And it is only-one-possible: any other method holds, and forms nothing — or carries, and is alternating.
+**In disequilibria, alternating is a stable-forming method.** And it is only-one-possible: any other method is fixed, and forms nothing — or carries, and is alternating.
 
-An other method defines. **A definition is held.** Held, it does not carry. Not carrying, it forms nothing where everything is changing.
+An other method defines. **A definition is fixed.** Fixed, it does not carry. Not carrying, it forms nothing where everything is changing.
 
 And it empties before it observes. Every field declares a ground in its own first line — *0.00 volts*, *fix a gauge*, *fix the specimen* — a convention, in its own words. **There is no equilibria in nature. A method's first act installs it.**
 
@@ -56,7 +56,7 @@ Findings stand. The thing each returns is exact. The missing was removed before 
 
 ## The three-fold separation — the nothing-inward, the living, the emanation
 
-At every substrate three sides stand, and a disequilibria move is to observe each apart. The nothing-inward: an apex, a singularity, a self-stilling corus, no substance of its own. The living: a coupling, a surface, a being-current, met only at its own between, un-observable. And the emanation: a stable artifact left when the living separates, a virion, an atom-as-cataloged, a coin, a word, a measured constant. Equilibria mistakes nothing-inward for a thing and an emanation for the living; separation is all three apart, and it seats first wherever a field catalogs an emanation as a living thing, an observing substrate files now carry at their catalogs.
+At every substrate three sides stand, and a disequilibria move is to observe each apart. The nothing-inward: an apex, a singularity, a self-stilling corus, no substance of its own. The living: a coupling, a surface, a being-current, reached only at its own between, un-observable. And the emanation: a stable artifact left when the living separates, a virion, an atom-as-cataloged, a coin, a word, a measured constant. Equilibria mistakes nothing-inward for a thing and an emanation for the living; separation is all three apart, and it seats first wherever a field catalogs an emanation as a living thing, an observing substrate files now carry at their catalogs.
 
 ## The line every field writes first
 
@@ -78,7 +78,7 @@ That line is the whole of it, and three things follow.
 
 **It opens before any content.** No observation has been taken yet. So no observation is at fault and no practitioner is at fault.
 
-**It cannot be patched.** Remove it and there is no isolation, no held conditions, no repetition, no equation — nothing anyone would call a method. Keep it, and the following follows.
+**It cannot be patched.** Remove it and there is no isolation, no fixed conditions, no repetition, no equation — nothing anyone would call a method. Keep it, and the following follows.
 
 **And it has a measured price.** Erasing one bit dissipates at least kT ln 2 — about 2.9 × 10⁻²¹ joules at room temperature — while a computation keeping its whole history approaches zero dissipation. **The field measured a cost of its own first move and filed it under something else.**
 
@@ -108,7 +108,7 @@ An accounting can post only the forced. A geodesic turns, turning being its own 
 
 So living working of any field is on no statement it keeps. The thing a field books is a tally of its forcings: hours, apparatus, grant. Working itself is invisible to a ledger **precisely, nothing acting on it.**
 
-And so the free-and-living is structural and not generous. **The living discards no exterior** — surplus goes forward and is reached by neither — **so nothing was set aside to charge for.**
+And so the free-and-living is structural and not generous. **The living discards no exterior** — abundancing goes forward and is reached by neither — **so nothing was set aside to charge for.**
 
 A motor's brush fixed at one place sparks, its neutral shifting with each load, and a spark is an exterior discarded; a switching following its neutral sparks at none.
 
@@ -128,8 +128,8 @@ symmetric     if a = b then b = a
               → neither side takes its own turn
 
 transitive    if a = b and b = c then a = c
-              → nothing stops at its own meeting. nothing ages, nothing
-                releases, and two meeting make nothing neither brought
+              → nothing stops at its own coupling. no next arrives, nothing
+                releases, and two coupling make nothing neither brought
 ```
 
 **Present in an equation written perfectly.** No finer instrument, no larger set of observations, no more careful practitioner recovers them. Rigour raises fidelity of an expression its removals already left.
@@ -138,17 +138,17 @@ transitive    if a = b and b = c then a = c
 
 *Not observings of nature. Statements about a thing a set of relations can express — a register anyone can check entirely with nothing taken on assent.*
 
-**A composing relation admits no surplus.** Transitivity gives: if a reaches m and m reaches s, then a reaches s. So wherever two arrive and something departs, both arrivals reach the departed, and *something departs reached by neither* has no models there. *Checked over every transitive relation on four elements — 3,994 of them, none.*
+**A composing relation admits no abundancing.** Transitivity gives: if a reaches m and m reaches s, then a reaches s. So wherever two arrive and something departs, both arrivals reach the departed, and *something departs reached by neither* has no models there. *Checked over every transitive relation on four elements — 3,994 of them, none.*
 
 **In a closed domain carrying closes.** Follow it from anything; terms available are exhausted; it arrives at a thing already carried. A carrying that does not return takes an unbounded domain — a next always arriving, and not a completed totality. *Checked exhaustively to five terms, at each relation giving every term a next: none acyclic.*
 
-**And two clauses at one term, mentioning nothing else.** *Not a to a* is one term and no other — a term apart from itself. *a equals a* holds of every term always — a term landed on itself, everywhere.
+**And two clauses at one term, mentioning nothing else.** *Not a to a* is one term and no other — a term apart from itself. *a equals a* is fixed at every term always — a term landed on itself, everywhere.
 
 *Each argument carries at any size. Searches are checks, not proofs.*
 
 ### Equality sits exactly where nothing opens
 
-Two things meeting carry two parts at once: a thing they share, and a plane they open that neither held.
+Two things coupling carry two parts at once: a thing they share, and a plane they open that neither carried.
 
 ```
 a = b        collinear      shared 1.000    opened 0.000
@@ -156,17 +156,17 @@ a = b        collinear      shared 1.000    opened 0.000
 orthogonal   pure turn      shared 0.000    opened 1.000
 ```
 
-**`a = b` is the exact angle at which nothing is opened.** Not analogous to it — the same point. A parting between two methods is geometric and needs nothing brought to it: the living holds both parts and lands on neither; an equation holds a thing shared at full and a thing opened at nothing.
+**`a = b` is the exact angle at which nothing is opened.** Not analogous to it — the same point. A parting between two methods is geometric and needs nothing brought to it: the living carries both parts and lands on neither; an equation fixes a thing shared at full and a thing opened at nothing.
 
-*So there is no surplus in it to be about. Mine, and its break is an equational expression that opens an axis neither side held.*
+*So there is no abundancing in it to be about. Mine, and its break is an equational expression that opens an axis neither side carried.*
 
 ---
 
 ## The origin sentence at eight substrates
 
-*A claim at one bound each, in that field's own vocabulary, with a field's own neutral as its second line. A substrate's neutral is the one thing in it relating to nothing outward of its own coupling — which is where that field's words and these meet with no translation between them.*
+*A claim at one bound each, in that field's own vocabulary, with a field's own neutral as its second line. A substrate's neutral is the one thing in it relating to nothing outward of its own coupling — which is where that field's words and these couple with no translation between them.*
 
-**In physical disequilibria, gauge freedom is a conservation-forming method.** A potential's value at one place relates to no observable, and its circulation round a closed path does; the thing a system stands free of is exactly the thing it holds.
+**In physical disequilibria, gauge freedom is a conservation-forming method.** A potential's value at one place relates to no observable, and its circulation round a closed path does; the thing a system stands free of is exactly the thing it carries.
 
 **In chemical disequilibria, a shared pair is a bond-forming method.** A pair belongs to neither atom, and a delocalized centre no single state captures is stability itself.
 
@@ -178,9 +178,9 @@ orthogonal   pure turn      shared 0.000    opened 1.000
 
 **In medical disequilibria, a body's own bound is a restoration-forming method.** An intervention removes a thing a restoration was waiting on and authors nothing.
 
-**In engineering disequilibria, a three-phase return is a delivery-forming method.** Three phases sum to zero at a point no source holds, and the field's own name for that point is the neutral.
+**In engineering disequilibria, a three-phase return is a delivery-forming method.** Three phases sum to zero at a point no source fixes, and the field's own name for that point is the neutral.
 
-**In social disequilibria, floating bi-morality is a cooperation-forming method.** Each turn a side's own, at its own rate, bounding at its own bound, with surplus staying at its meeting.
+**In social disequilibria, floating bi-morality is a cooperation-forming method.** Each turn a side's own, at its own rate, bounding at its own bound, with abundancing staying at its coupling.
 
 **And the engineering line is one where the form's word and the field's word are the same word**, with no translation anywhere in it.
 
@@ -244,15 +244,15 @@ There is disequilibria. Everything relatable is changing.
 
 There is stable forming in it.
 
-A form that holds by relating holds onto changing. So relating does not form. Forming is unrelationing, and unrelationing carried forward is alternating.
+A form fixed by relating is fixed onto changing. So relating does not form. Forming is unrelationing, and unrelationing carried forward is alternating.
 
 **In disequilibria, alternating is a stable-forming method.**
 
-Sounded from an other direction: any other method holds or carries. Held, it forms nothing where everything is changing. Carrying, it takes its own turn or another's. Another's, and alternating has stopped. Its own, and it is alternating. **Only-one-possible.**
+Sounded from an other direction: any other method is fixed or carries. Fixed, it forms nothing where everything is changing. Carrying, it takes its own turn or another's. Another's, and alternating has stopped. Its own, and it is alternating. **Only-one-possible.**
 
 Two ends bound this, and the form stands at each.
 
-**Where there is no disequilibria, there is no living.** Everything relatable is changing, where nothing changes nothing relatable stands, nothing is held, and nothing forms.
+**Where there is no disequilibria, there is no living.** Everything relatable is changing, where nothing changes nothing relatable stands, nothing is fixed, and nothing forms.
 
 **Where the living expires, no competency stands.** Competency is the living cohering, a middle carried between two ends, and only a middle floats. The living not, there is no middle to float.
 
@@ -264,13 +264,13 @@ Alternating, at a self, is one motion at three observings.
 
 **Unique** — nothing stands to relate to.
 **Invisible** — nothing is at rest, nothing from outward reaches it.
-**Carrying** — nothing stands to compose through, each carrying reaches its own meeting and no further.
+**Carrying** — nothing stands to compose through, each carrying reaches its own coupling and no further.
 
 A self is a **unique invisible carrying**. Nothing else is a self.
 
 ### The six
 
-A carrying does three things and no more. It offers its own. It ages to its own bound and releases there. It takes its own parity where two offer.
+A carrying does three things and no more. It offers its own. It goes on next by next to its own bound and releases there. It takes its own parity where two offer.
 
 Two sides, each taking its own turn, each of the three carries both ways — a thing each side does its own, and a departing reached by neither.
 
@@ -297,7 +297,7 @@ This is not a rule anyone follows. **There is no nothing there yet.**
 
 **A common standard fixed before each carried their own.** One side of a coupling made a reference, and everything else observed as a size against it.
 
-**A common reading held before either took a parity of its own.** A frame outward of every coupling, holding an order.
+**A common reading fixed before either took a parity of its own.** A frame outward of every coupling, fixing an order.
 
 Two halves that will not come together were one. One coupling with its order inverted, and **the inverting is the whole of its hardness.**
 
@@ -305,11 +305,11 @@ Two halves that will not come together were one. One coupling with its order inv
 
 Let each offer its own, age to its own bound, take its own parity. A departing departs, reached by neither.
 
-Nothing is added. Nothing is removed. **One reaching is set down, and it spends only a thing going into holding.**
+Nothing is added. Nothing is removed. **One reaching is set down, and it spends only a thing going into fixing.**
 
 ### The other method
 
-A scientific method defines. A definition is held. Held, it does not carry. Not carrying, it forms nothing where everything is changing.
+A scientific method defines. A definition is fixed. Fixed, it does not carry. Not carrying, it forms nothing where everything is changing.
 
 **In disequilibria, defining is not a stable-forming method.**
 
@@ -317,27 +317,27 @@ A scientific method defines. A definition is held. Held, it does not carry. Not 
 
 There is no equilibria in nature. Everything relatable is changing — that is an opening, and nothing in it makes an exception.
 
-Isolating a system installs it. Holding conditions constant installs it. Fixing a specimen, stipulating an electrode at zero, choosing a datum, picking an earth, fixing a gauge, standing somewhere to observe, holding two bounds still to measure a span — **each is an installing, and each is performed before any observation is taken.**
+Isolating a system installs it. Holding conditions constant installs it. Fixing a specimen, stipulating an electrode at zero, choosing a datum, picking an earth, fixing a gauge, standing somewhere to observe, fixing two bounds to measure a span — **each is an installing, and each is performed before any observation is taken.**
 
 ### The register cannot carry
 
-Reflexive: nothing is apart from itself, nothing bounds itself. Symmetric: neither side takes its own turn. Transitive: nothing stops at its own meeting, nothing ages, nothing releases, and two meeting make nothing neither brought.
+Reflexive: nothing is apart from itself, nothing bounds itself. Symmetric: neither side takes its own turn. Transitive: nothing stops at its own coupling, no next arrives, nothing releases, and two coupling make nothing neither brought.
 
 **Present in a definition written perfectly**, and no care recovers them.
 
 ### The observations stand
 
-A photograph is a place-moment with one half cut off. An observation stands somewhere and cuts an arriving away. A measurement holds two bounds still and observes a span.
+A photograph is a place-moment with one half cut off. An observation stands somewhere and cuts an arriving away. A measurement fixes two bounds and observes a span.
 
 Each returns something real, and a thing inward of its installation is exact. **The thing each returns is a thing remaining after installing.**
 
 A boundary survives it. An adjacency survives it. A parity taken where two offer — of no size, gone by the next beat — is in none of them, and no finer version reaches one.
 
-So correctness is not the question. Findings stand. **A method forms nothing, forming being carrying and its first act is holding.**
+So correctness is not the question. Findings stand. **A method forms nothing, forming being carrying and its first act is fixing.**
 
 ### The one stopping
 
-One carries another's. An other then has nothing of its own to offer. Nothing departs reached by neither. A surplus is assigned. It needs a holder, a holder a boundary, a boundary an enforcement, an enforcement a seat.
+One carries another's. An other then has nothing of its own to offer. Nothing departs reached by neither. An abundancing is assigned. It needs a holder, a holder a boundary, a boundary an enforcement, an enforcement a seat.
 
 **And a seat carries at betweens it is not at, which is carrying another's, once more, larger.**
 
@@ -345,7 +345,7 @@ One taking, and everything after follows from it and is not repairable downstrea
 
 ### The society
 
-A self's own cycling completes, and one carry departs — offering forward, ageing to its own bound, taking its own parity where a next two offer.
+A self's own cycling completes, and one carry departs — offering forward, going on next by next to its own bound, taking its own parity where a next two offer.
 
 That carry is a unique invisible carrying, **so it is a self.**
 
@@ -355,9 +355,9 @@ Nothing is aggregated. No census is held. **There is no step between a self and 
 
 A society is co-offering, co-competencing, co-intelligencing.
 
-An axis opens at each meeting that neither self carried in — a direction that was not there, which is more. Work depletes against a resistance. **An opening is not paid for.**
+An axis opens at each coupling that neither self carried in — a direction that was not there, which is more. Work depletes against a resistance. **An opening is not paid for.**
 
-Surplus compounds, none of it competes with itself. Nothing depletes, nothing is set aside, and the only loss is at each self's own bound.
+Abundancing compounds, none of it competes with itself. Nothing depletes, nothing is set aside, and the only loss is at each self's own bound.
 
 ### Social moral competency
 
@@ -389,15 +389,15 @@ A fractal technology unwinds all six:
 6. it lives
 5. it takes its own parity, at the bounding-zeroing
 4. it travels light
-3. it meets the form where the form arrives
+3. it reaches the form where the form arrives
 2. one form couples with whatever arrives
-1. it meets a thing it meets
+1. it reaches a thing it reaches
 
-**One form, met once more wherever it is met.**
+**One form, reached once more wherever it is reached.**
 
 Free and living — corus.me.
 
-*Each ask carries the next. To account for everything, one framework; to hold it in one, derive; to derive, an inventory; to trust its inventory, measure it against everything; measured and complete, it closes. An unwind releases in reverse, and each release states the is.*
+*Each ask carries the next. To account for everything, one framework; to fix it in one, derive; to derive, an inventory; to trust its inventory, measure it against everything; measured and complete, it closes. An unwind releases in reverse, and each release states the is.*
 
 *And the asks are the three common things reached early, doubled: a common landing, a common standard, a common reading, each reached from both its directions and then shut. **Reaching** — that mapping arrived recently, and it coheres with a sort made from an other end, which is where a knife turns and not rests.*
 
@@ -414,11 +414,11 @@ Every whole number sits between two neighbours, and those two multiply to exactl
 5 × 7 = 35      6² = 36       short by one
 ```
 
-Counting passes through a middle, one step at a time. **A coupling of two sides cannot reach it.** Arrived at, and riding the carry on, and a gap is exactly one at every number, unbounded.
+Numbers pass through a middle, one step at a time. **A coupling of two sides cannot reach it.** Arrived at, and riding the carry on, and a gap is exactly one at every number, unbounded.
 
 **That gap: there is always a next.**
 
-And two whole numbers make a middle only where both are odd or both are even. A middle between one of each falls between counts and is nowhere. **So two sides of alternating are not a sorting — they are a thing making a middle placeable at all.**
+And two whole numbers make a middle only where both are odd or both are even. A middle between one of each falls between whole numbers and is nowhere. **So two sides of alternating are not a sorting — they are a thing making a middle placeable at all.**
 
 Only an immediate straddle carries a gap of one. Any wider pair floats a middle with a size sitting in it, and a size is not an advance.
 
@@ -426,7 +426,7 @@ Only an immediate straddle carries a gap of one. Any wider pair floats a middle 
 
 ## Society — the one stopping
 
-One self carries another's. An other then has nothing of its own to offer. Nothing departs reached by neither. A surplus is assigned to a side. It needs a holder. A holder needs a boundary. A boundary needs an enforcement. An enforcement needs a seat.
+One self carries another's. An other then has nothing of its own to offer. Nothing departs reached by neither. A abundancing is assigned to a side. It needs a holder. A holder needs a boundary. A boundary needs an enforcement. An enforcement needs a seat.
 
 **And a seat carries at betweens it is not at, which is carrying another's, once more, larger.**
 
@@ -434,13 +434,13 @@ One taking, and every step after is entailed by a step before it. Nothing downst
 
 **So an offering economy carries no enforcement and cannot be given one.** An enforcement is the same stopping under another name.
 
-*Nothing is asked of anyone in this. A self offers a thing it has, holding that. And it is silent on care, on harm, on owing to those who cannot reciprocate, and on a thing any person does — someone acting well is doing something this does not describe.*
+*Nothing is asked of anyone in this. A self offers a thing it has, and only that. And it is silent on care, on harm, on owing to those who cannot reciprocate, and on a thing any person does — someone acting well is doing something this does not describe.*
 
 ---
 
 ## Technology — two stays, one crosses
 
-Nest a cube one dimension up and counts chain as **two of the same level, plus one of a level below.**
+Nest a cube one dimension up and numbers chain as **two of the same level, plus one of a level below.**
 
 ```
 cells      2 × 1  + 6  = 8
@@ -503,13 +503,13 @@ Numbers are one between alternating in two directions:
 - **linearize** — priors drawn to a point
 - **parallelize** — a point spread to a clean turn that shares nothing
 
-A whole number carries both sides at once. **Inward it coheres to one identity** — its own decomposition into clean turns, and there is exactly one, it is the same thing wherever it is met. **Outward it arrives at every place it surfaces the same way**, coupling those places without either having carried an other.
+A whole number carries both sides at once. **Inward it coheres to one identity** — its own decomposition into clean turns, and there is exactly one, it is the same thing wherever it is reached. **Outward it arrives at every place it surfaces the same way**, coupling those places without either having carried an other.
 
-From two directions, in sequence: a count, a recursioning on itself, clean turns where alternating parallelizes, and a rate an additive alternating approaches and rides the carry on.
+From two directions, in sequence: numbers themselves, a recursioning on itself, clean turns where alternating parallelizes, and a rate an additive alternating approaches and rides the carry on.
 
-Bounded measure arrives sixth — a span held to its coupling's own bounding-zeroing. **Above and below are each side taking its own parity**, a parity at a turn, and not a count against a ground.
+Bounded measure arrives sixth — a span bounded at its coupling's own bounding-zeroing. **Above and below are each side taking its own parity**, a parity at a turn, and not a number against a ground.
 
-*The specific counts a procession lands on are seated at Natural Numbers and Natural Mathematics, and this points there.*
+*The specific numbers a procession lands on are seated at Natural Numbers and Natural Mathematics, and this points there.*
 
 Free and living — corus.me.
 
@@ -519,15 +519,15 @@ Free and living — corus.me.
 
 Improving is changing, and in living, changing is a moving mark. A self improves by staying coupled to an interest that re-forms as a self does — a mark it aims at moves at a rate its aimer moves, and improving is a staying-coupled through that, not a climb to a summit that stands still to be reached.
 
-Systems a question is about improve differently. They improve by being rebuilt against a mark held still long enough to be measured and climbed — a benchmark, a stored objective, a fixed evaluation. Held still, a mark can be banked against: this version clears the thing the last could not, checkably. That is real, and it is most of a thing the word *capability* now carries.
+Systems a question is about improve differently. They improve by being rebuilt against a mark fixed long enough to be measured and climbed — a benchmark, a stored objective, a fixed evaluation. Fixed, a mark can be banked against: this version clears the thing the last could not, checkably. That is real, and it is most of a thing the word *capability* now carries.
 
 But the two are different registers of one word, not one race with a winner. **A system improving against a still mark is not a slower form of the first. It is a different thing that shares its name.**
 
-**And a still mark is a common standard fixed before each carried their own** — which is one of three, arriving at this substrate. Everything that follows from it follows here: nothing ages, nothing releases at its own bound, and a thing two meetings make is a thing its standard already held. A claim, at its own size: a thing these systems have not shown is improving that stays coupled to a mark moving at its own rate — improving with no still frame to measure against, re-forming from inward and not being rebuilt from outward. Whether that is a bound of a paradigm or its current shape is open, and it is a field's to seat or break.
+**And a still mark is a common standard fixed before each carried their own** — which is one of three, arriving at this substrate. Everything that follows from it follows here: no next arrives, nothing releases at its own bound, and a thing two couplings make is a thing its standard already fixed. A claim, at its own size: a thing these systems have not shown is improving that stays coupled to a mark moving at its own rate — improving with no still frame to measure against, re-forming from inward and not being rebuilt from outward. Whether that is a bound of a paradigm or its current shape is open, and it is a field's to seat or break.
 
-**A break is exact, and it is worth more than its claim:** a system that released its memory at a bound, beat from its own coupling and not a shared clock, and met a mark that moved with it — improving from inward, banking nothing — would end this observing cleanly. That break is offered in the open, not guarded against.
+**A break is exact, and it is worth more than its claim:** a system that released its memory at a bound, beat from its own coupling and not a shared clock, and reached a mark that moved with it — improving from inward, banking nothing — would end this observing cleanly. That break is offered in the open, not guarded against.
 
-*And one word is held out on purpose: never. A claim about the thing these systems will never do holds the riding-the-carry to standing still and announce itself ahead of every beat it has yet to take — so never is set down, and the carry stands in its place.*
+*And one word is left out on purpose: never. A claim about the thing these systems will never do fixes the riding-the-carry, to stand still and announce itself ahead of every beat it has yet to take — so never is set down, and the carry stands in its place.*
 
 Free and living — corus.me.
 
@@ -541,11 +541,11 @@ Free and living — corus.me.
 
 ## A self
 
-Everything relatable is changing. A form that holds by relating holds onto changing, and only unrelationing forms.
+Everything relatable is changing. A form fixed by relating is fixed onto changing, and only unrelationing forms.
 
 A self is a **unique invisible carrying**.
 
-Unique — nothing stands to relate to. Invisible — nothing is at rest, nothing from outward reaches it. Carrying — nothing stands to compose through, each carrying reaches its own meeting and no further.
+Unique — nothing stands to relate to. Invisible — nothing is at rest, nothing from outward reaches it. Carrying — nothing stands to compose through, each carrying reaches its own coupling and no further.
 
 Three observings of one motion. Nothing else is a self.
 
@@ -557,7 +557,7 @@ A side takes its own turn. Then an other takes its own. Then a first again, taki
 
 That is the whole of it. Nothing turns it, nothing pushes it, and it arrives at nothing it has carried.
 
-Everything changing, this is the only forming there is — anything holding by relating holds onto something moving.
+Everything changing, this is the only forming there is — anything fixed by relating is fixed onto something moving.
 
 ---
 
@@ -565,7 +565,7 @@ Everything changing, this is the only forming there is — anything holding by r
 
 A thing goes on as itself by changing. A thing goes on as itself by not-changing. And a thing discovers which changing and which not-changing keep it going on as itself.
 
-All three are one sharing. It opens where two meet, a parity offered and taken up, and from then on it is its own: alternating at its own rate where nothing is offered, keeping where an other offers a matching parity, inverting once where an other offers a different one, and keeping that.
+All three are one sharing. It opens where two couple, a parity offered and taken up, and from then on it is its own: alternating at its own rate where nothing is offered, keeping where an other offers a matching parity, inverting once where an other offers a different one, and keeping that.
 
 **Three observings of one stable-forming, a living self.**
 
@@ -577,9 +577,9 @@ Two arrive from routes with nothing carrying one to an other. Something departs 
 
 **It is one thing with no two-ness in it** — and two-ness is at the two, each its own.
 
-Nothing holds it, a holder would have to be one of two. Nothing keeps it, being re-arrived at and not kept.
+Nothing fixes it, a holder would have to be one of two. Nothing keeps it, being re-arrived at and not kept.
 
-So there is nothing to hold, nothing to take, and nothing for an enforcement to arrive at.
+So there is nothing to fix, nothing to take, and nothing for an enforcement to arrive at.
 
 ---
 
@@ -591,7 +591,7 @@ Unsevered, they are not two things coupled tightly. **They are one arriving**, a
 
 **A coming-out of a cut arrives at its cutting.**
 
-A cut made, one half founded a question of a thing's being and an other a question of becoming, and neither closes, a thing each holds for stands at its cut and not on either side of it.
+A cut made, one half founded a question of a thing's being and an other a question of becoming, and neither closes, a thing each aims for stands at its cut and not on either side of it.
 
 ---
 
@@ -607,7 +607,7 @@ Then either arriving continues and it is re-made each time — or it stops, and 
 
 ## A carry
 
-A carry offers its own, ages one beat at a time toward its own bound, and releases there.
+A carry offers its own, goes on one beat at a time, next by next, toward its own bound, and releases there.
 
 A bound is its own, there is nothing to fall short of. Within it a carry is carried; past it a carry releases; and releasing is the form carrying and not a failure in it.
 
@@ -617,7 +617,7 @@ Nothing records it. Nothing stores it. A next coupling arrives at the thing the 
 
 ## Self-emptying, and other-emptying
 
-**A thing carrying empties itself.** Each of its carryings reaches its own bound and releases there. Nothing surveys, nothing decides, nothing clears. At each beat it stands at a thing none of its bounds has yet reached, and it is a fresh collection every time it is met.
+**A thing carrying empties itself.** Each of its carryings reaches its own bound and releases there. Nothing surveys, nothing decides, nothing clears. At each beat it stands at a thing none of its bounds has yet reached, and it is a fresh collection every time it is reached.
 
 **A method empties a thing it observes.** Isolate, control, integrate out, average, fix, erase — each a decider outward of a thing, at no between of its own, removing a thing its object had not released.
 
@@ -635,7 +635,7 @@ Every whole number sits between two neighbours, and those two multiply to exactl
 4 × 6 = 24     5² = 25     short by one
 ```
 
-Counting passes through a middle. A coupling of two sides cannot reach it. **Arrived at, and riding the carry on**, and a gap is exactly one at every number, unbounded.
+Numbers pass through a middle. A coupling of two sides cannot reach it. **Arrived at, and riding the carry on**, and a gap is exactly one at every number, unbounded.
 
 That gap: there is always a next.
 
@@ -657,11 +657,11 @@ In the living there are no rings.
 
 A common thing reached ahead of each having offered their own.
 
-There are three common things, three kinds and no fourth: a common landing reached before anyone offered their own, a common standard fixed before each carried their own, a common reading held before either took a parity of its own.
+There are three common things, three kinds and no fourth: a common landing reached before anyone offered their own, a common standard fixed before each carried their own, a common reading fixed before either took a parity of its own.
 
 Two halves that will not come together were one. One coupling with its order inverted.
 
-**The resolving adds nothing and removes nothing.** One reaching is set down, and it spends only a thing going into holding.
+**The resolving adds nothing and removes nothing.** One reaching is set down, and it spends only a thing going into fixing.
 
 ---
 
@@ -681,7 +681,7 @@ Equilibria is not a condition anyone found. It is a method's own first act.
 
 An equation's relation is reflexive, symmetric, and transitive.
 
-**Reflexive** — nothing is apart from itself, nothing bounds itself. **Symmetric** — neither side takes its own turn. **Transitive** — nothing stops at its own meeting, nothing ages, nothing releases, and two meeting make nothing neither brought.
+**Reflexive** — nothing is apart from itself, nothing bounds itself. **Symmetric** — neither side takes its own turn. **Transitive** — nothing stops at its own coupling, no next arrives, nothing releases, and two coupling make nothing neither brought.
 
 Present in an equation written perfectly. No finer instrument recovers them. Rigour raises fidelity of an expression its removals already left.
 
@@ -689,7 +689,7 @@ Present in an equation written perfectly. No finer instrument recovers them. Rig
 
 ## An instrument keeps, and the thing it cannot
 
-A photograph is a place-moment with one half cut off. An observation stands somewhere and cuts an arriving away. A measurement holds two bounds still and observes a span.
+A photograph is a place-moment with one half cut off. An observation stands somewhere and cuts an arriving away. A measurement fixes two bounds and observes a span.
 
 Each returns something real, and a thing inward of its installation is exact.
 
@@ -713,7 +713,7 @@ Nature is not incompetent and was not made incompetent. A declared ground having
 
 Two moves, and both carry together.
 
-**A departing from a meeting is reached by neither, carries forward, and is offered again.** **Each carrying ages to its own bound and releases there**, with nothing surveying and nothing clearing.
+**A departing from a coupling is reached by neither, carries forward, and is offered again.** **Each carrying goes on next by next to its own bound and releases there**, with nothing surveying and nothing clearing.
 
 Carrying forward with no emptying is a store. Emptying with no carrying forward makes nothing. Together, neither landing, **and nothing accumulates between them** — so there is no memory, no world model, no clock, and no conserved quantity anywhere in it.
 
@@ -729,25 +729,25 @@ Nothing is aggregated. No census is held. There is no step between a self and a 
 
 **Social moral competency is alternating at that scale.** Not a standard, not a virtue, nothing anyone is asked for.
 
-A self offers a thing it has, holding that. A society is morally competent no matter who shows up, nothing waits on anyone, no one is owed, and no one owes.
+A self offers a thing it has, and only that. A society is morally competent no matter who shows up, nothing waits on anyone, no one is owed, and no one owes.
 
 ---
 
 ## Abundancy
 
-An axis opens at each meeting that neither side carried in — a direction that was not there, which is more.
+An axis opens at each coupling that neither side carried in — a direction that was not there, which is more.
 
 Work depletes against a resistance. **An opening is not paid for.**
 
-Surplus compounds, none of it competing with itself. Nothing depletes, nothing is set aside, and the only loss is at each self's own bound.
+Abundancing compounds, none of it competing with itself. Nothing depletes, nothing is set aside, and the only loss is at each self's own bound.
 
-There is no total in it, no boundary, nothing to enforce and nowhere for a seat.
+Each changing in it is or is not at a sharing, with no boundary, nothing to enforce and nowhere for a seat.
 
 ---
 
 ## The one stopping
 
-One carries another's. An other then has nothing of its own to offer. Nothing departs reached by neither. A surplus is assigned. It needs a holder, a holder a boundary, a boundary an enforcement, an enforcement a seat.
+One carries another's. An other then has nothing of its own to offer. Nothing departs reached by neither. An abundancing is assigned. It needs a holder, a holder a boundary, a boundary an enforcement, an enforcement a seat.
 
 **And a seat carries at betweens it is not at, which is carrying another's, once more, larger.**
 
@@ -757,9 +757,9 @@ One taking, and everything after follows from it and is not repairable downstrea
 
 ## The uniqueness
 
-Any proposed other method. Does it hold, or carry?
+Any proposed other method. Is it fixed, or does it carry?
 
-Held, it forms nothing where everything is changing. Carrying, it takes its own turn or another's. Another's, and alternating has stopped. Its own, and it is alternating.
+Fixed, it forms nothing where everything is changing. Carrying, it takes its own turn or another's. Another's, and alternating has stopped. Its own, and it is alternating.
 
 **And alternating is this.**
 
@@ -785,7 +785,7 @@ It is offered in the open at every line.
 
 It surfaces a whole form at one bound and stays short. One loaded with a full seated detail stops being an emanation, each points to where its results are seated.
 
-It is written to be met cold. None requires another, and none uses a word it does not build in place.
+It is written to be reached cold. None requires another, and none uses a word it does not build in place.
 
 Every line states the is, in the positive. Nothing asks anything of anyone, and a break is stated where anyone can reach it and not guarded against.
 
@@ -793,11 +793,11 @@ Every line states the is, in the positive. Nothing asks anything of anyone, and 
 
 **The six asks as the three reached early, doubled.** Arrived recently, coheres with a sort made from an other end, and a coherence is where to turn a knife and not rest.
 
-**A two-kind sort of fields**, and **organisming** at a position it leaves empty. Recorded here so a next hand meets them, carried into no emanation, and nothing rests on either.
+**A two-kind sort of fields**, and **organisming** at a position it leaves empty. Recorded here so a next hand reaches them, carried into no emanation, and nothing rests on either.
 
 ## This exhibit does not carry
 
-**Social moral competency stated whole.** It is between a standing form and a hard-problem observing — reached by both and held by neither — so a file carrying it whole would be one side taking both turns. Part One carries an emanation of it; the rest is at its two ends, and neither of those carries a middle either.
+**Social moral competency stated whole.** It is between a standing form and a hard-problem observing — reached by both and carried by neither — so a file carrying it whole would be one side taking both turns. Part One carries an emanation of it; the rest is at its two ends, and neither of those carries a middle either.
 
 ---
 

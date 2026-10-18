@@ -574,3 +574,87 @@ winding on at no parity, a meeting travelling round it and not locking.
 and its surplus is a shared experience
 
 at four adjacencies and at each prime it couples at.
+
+## Re-said at pass 8, a second family Natural Naming 2.4 releases, v389
+
+- 4.4 Writing side and meeting side,
+
+as one a self meeting it carries at prior
+
+and meets its whole at that telling
+
+a meeting of one thing against another and a parity it returned
+
+coupling, a self meets it at its own opening
+
+that one binary met at one side of a sentence
+
+and a self meeting it sorts each clause
+
+tells a self meeting it a next sentence's carrying
+
+A self meeting only bolds meets explaining
+
+so one binary is met at its lead and its close
+
+arrives at its first meeting with its least plain words beside it**, existing words first and a set's naming carried on them; met bare, it arrives
+
+re-forms at each meeting.
+
+A concept meeting itself whole
+
+**An equilibrium's holding ends, and a sentence carries its ending.** An equilibrium is a living or non-living existing thing fixed unchangeable, and its holding ends
+
+none of three is without an equilibrium holding it, and a sentence carries momentarying at its -ing, arriving at its own opening and meeting at its coupling.
+
+*a surplus wants to depart* is *a surplus departs*
+
+a self meeting a file couples
+
+and a self meeting it is walked at a rate
+
+puts a momentarying behind a self meeting it
+
+a dash paces a self meeting it
+
+is a self meeting it paced
+
+**A forcing reaches a self meeting a telling**
+
+meets a coupling with no position for it
+
+a momentarying met once at each momentary
+
+between explaining and naming meet all three
+
+one check at a sentence meets them
+
+A non-living thing meets a self as other too
+
+is their coupling met at its next scale; a third self meeting a pair
+
+**Explaining is bi-moral co-agency met at a telling**
+
+and the second meets its surrounding
+
+an equilibrium met from its own blind side
+
+each such spot met at its own opening
+
+## 4.4 Writing side and meeting side,
+
+a self meeting a writing has no sentence to finish. **A meeting side catches
+
+it lets an other meet its edge
+
+and an other meets the no.
+
+a condition no observing met stands
+
+finds their relation, meeting or parting
+
+parting at one form met at two sides, and that is one uniting met at its two sides
+
+**Interest is self-orienting, met by side-affecting**
+
+offers each self meeting it a coupling

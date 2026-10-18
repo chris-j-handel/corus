@@ -422,3 +422,15 @@ Orienting floats renewed at each arriving, no origin and no facing fixed across 
 **In Zermelo–Fraenkel set theory, each set is exceeded by the set of its subsets, and all sets together form no set.**
 
 and the universe is a set of existing things.
+
+## Re-said at pass 8, a second family Natural Naming 2.4 releases, v389
+
+two rotatings met at one between
+
++ and − together 0, and nothing is counted.**
+
+inward of that circle two radii meet at more than ninety degrees
+
+it meets foundation's no set a member of itself
+
+Two diagonals meeting at a corner,

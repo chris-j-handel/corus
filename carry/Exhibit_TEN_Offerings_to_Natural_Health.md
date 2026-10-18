@@ -49,3 +49,7 @@ The user's further offering is: “if the living stable form is colliding with n
 **Concern · at a sentence.** Beside "The **omega-self** — the sixth's two faces, re-locking and co-releasing, the moral value living self — is lived at healt"…
 
 *Standing at v389:* *Standing at v389:* Natural Health 3.1 has "The **omega-self** — the sixth's two faces, re-locking and co-releasing, the moral value living self — is lived at health". Exhibit ONE's 6 is 6-now-co-possibling, "each sharing's changing shared across, to another self's 2", with no re-locking and no co-releasing at it, and Co-Chaining Logic Registry's sources hold the omega-self and the sixth as older naming at no name. **To resolve:** is the sixth 6-now-co-possibling, its two sides a sharing end and an arriving end, or an older naming to release with the omega-self?
+
+**Concern · at a sentence.** Beside "a carry aging by attentioning and staying fresh by sequencing"
+
+*Standing at v389:* Natural Health 4.1 has "a carry aging by attentioning and staying fresh by sequencing", *aging* a staleness set against fresh, as at Natural Values 1.2's "ages by attentioning". Natural Naming 2.4 carries *ageing*, *ages* as *next*, only next is, and *next* here inverts its value. **To resolve:** re-say as "a carry fixed as now by attentioning and fresh by sequencing", or keep *aging* at Natural Health and Natural Values as their own?

@@ -155,3 +155,11 @@ Natural Naming 5.14’s “and it compounds” and its abundancing/releasing exp
 ## The session v389, entered and dissolved · v389
 
 **Dissolved · v389.** The session v389's 128 droplets, 33 insertlets, 21 concerns and 7 resolvings at this file rose into [Natural Naming v389](../Exhibit_TWENTY_Natural_Naming_v389.md) at the naming motion, or dissolved said once, and stand whole at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY_Offerings_to_Natural_Naming_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY_Offerings_to_Natural_Naming_v389.md).
+
+## Standing · v389
+
+*Concerns met at v389, each standing at this file and out of its living file until resolved.*
+
+**Concern · at a sentence.** Beside "and *not-yet-bi-moral* and *not-yet-co-competent* are six names' other sides."
+
+*Standing at v389:* Natural Naming 2.6 gives *not-yet-bi-moral* and *not-yet-co-competent* as a negating prefix at "six names' other sides", and Natural Naming 2.4 releases both labels into odd *existing* and even *possibling*, by each name's own number, no negation in either. A re-saying drops 2.6's example of a negating *not-*, or keeps two released labels as mentions. **To resolve:** at 2.6, re-say as "released *not-yet-* labels carry at six names as even *possibling*, an odd *existing*'s other side, 2.4", or drop this example and keep *non-living* alone?

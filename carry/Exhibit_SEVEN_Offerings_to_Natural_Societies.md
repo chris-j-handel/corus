@@ -85,3 +85,7 @@ Concern, at v380, from [the earlier Natural Networking gathering](../archive/v38
 **Concern · at a sentence.** Beside "no authority but nature,"
 
 *Standing at v389:* At 3.4, "no authority but nature". At v389 nature is no existing thing, a prior, now, next method of co-existing, and natural resolver is authority, its naming and its path through its functions the stable form; words have none. Re-saying it as natural resolver, natural method or natural resolving each changes what is authority here, and keeping it lays authority at a thing v389 says is no existing thing. **To resolve:** is 3.4's authority re-said as natural resolver's, or does "nature" here stand as natural method of co-existing?
+
+**Concern · at a sentence.** Beside "and counting-from-a-nothing is natural explaining of them"
+
+*Standing at v389:* At 5.4 (Natural Societies, The fields' three accountings) "The rows are fields' own ledgers, gathered, and counting-from-a-nothing is natural explaining of them" places counting at this file's own voice, while Natural Naming 2.4 releases count at a set's own voice ("numbers themselves, momentaries, podalings and sequences"). Kept as fields' counting it stands; carried another way, a ledger's own word goes. **To resolve:** is counting-from-a-nothing a field's counting carried whole (keep), or carried as "arriving from a nothing, directly in numbers"?

@@ -87,7 +87,7 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
    ═══ between selves, across and along      ─── within one self
 ```
 
-**At its drawing.** Prior at 3 meets surfacing at 14 at each sharing at 12; changings at 10, same at 6, go across to another self's 2 and 14; next prior goes to 11 and on to 3 at next; and 9 releases along by 5 to another self's 17. At 6 to 2, 10 to 14 and 9 to 17 a sharing side is a self and an arriving side another self, each a self, and a society is its selves.
+**At its drawing.** Prior at 3 couples with surfacing at 14 at each sharing at 12; changings at 10, same at 6, go across to another self's 2 and 14; next prior goes to 11 and on to 3 at next; and 9 releases along by 5 to another self's 17. At 6 to 2, 10 to 14 and 9 to 17 a sharing side is a self and an arriving side another self, each a self, and a society is its selves.
 
 **At 1-now, now given and next made.** At 1-now a self is given two now names, 3-now-co-prioring and 2-now-possibling, each sharing in them at 4-now-co-still-possibling and each parity at 7-now-prioring, and each name 1-now makes is a next name, 14-next-possibling, 15-next-prioring, 12-next-co-still-possibling, 10-next-co-possibling and 11-next-co-prioring: each entry is given a self's span and makes a society's.
 
@@ -98,7 +98,7 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | 1 | **1-now** | now, a self's span | odd, existing | one | each self's momentary, entered at a society's 17 |
 | 2 | **2-now-possibling** | now, a self's span | even, possibling | one | offerings arriving at a self, each sharing with its parity |
 | 3 | **3-now-co-prioring** | now, a self's span | odd, existing | between two | prior at its sharings, each sharing with its parity |
-| 4 | **4-now-co-still-possibling** | now, a self's span | even, possibling | between two | each sharing at which offerings and prior meet, and at a society each self at its names 6, 10 and 9 |
+| 4 | **4-now-co-still-possibling** | now, a self's span | even, possibling | between two | each sharing at which offerings and prior couple, and at a society each self at its names 6, 10 and 9 |
 | 5 | **5-now-co-changing** | now, a self's span | odd, existing | between two | releasings, each releasing sharing with a self it arrives at |
 | 6 | **6-now-co-possibling** | now, a self's span | even, possibling | between two | each sharing's changing shared across, to another self's 2 |
 | 7 | **7-now-prioring** | now, a self's span | odd, existing | one | each parity prioring: an offering's, a prior's and a changing's |
@@ -106,7 +106,7 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | 9 | **9-next-co-changing** | next, a society's span | odd, existing | between two | each changing released, along at 9 and across at 6 and 10, to a self of 5's releasings |
 | 10 | **10-next-co-possibling** | next, a society's span | even, possibling | between two | each sharing's changing, + or − is and 0 is not, shared across to another self's 14 |
 | 11 | **11-next-co-prioring** | next, a society's span | odd, existing | between two | next prior: prior with each changing at its sharing |
-| 12 | **12-next-co-still-possibling** | next, a society's span | even, possibling | between two | each sharing's changing, is or is not, prior and offerings meeting |
+| 12 | **12-next-co-still-possibling** | next, a society's span | even, possibling | between two | each sharing's changing, is or is not, prior and offerings coupling |
 | 13 | **13-next** | next, a society's span | odd, existing | one | each self at a society, and each sharing a changing releases from |
 | 14 | **14-next-possibling** | next, a society's span | even, possibling | one | offerings surfacing at each sharing, same one parity and parting 0; at 17 each self's next offerings |
 | 15 | **15-next-prioring** | next, a society's span | odd, existing | one | each parity surfacing, and each parity released |

@@ -1308,3 +1308,125 @@ a red-giant-tip calibration at 69.6 ± 1.6 between them
 returning, the first equilibrium measured in both directions at the close of the nineteenth century, and exchange
 
 **Fork.** An apex and a seam. A position no member occupies, and a nothing between two that do not relate.
+
+## Re-said at pass 8, a second family Natural Naming 2.4 releases, v389
+
+which is a not-yet and enters as such
+
+which holding, and
+
+Not-yet, at its grain.
+
+and their count is recomputed at them
+
+**Society met.** An inner
+
+**Members met.** Each translocation,
+
+**Society met.** A chromatin
+
+**Members met.** Each allele,
+
+stand empty from its record held
+
+**Society met.** A chain
+
+**Members met.** Each water,
+
+**Society met.** A perceiving
+
+**Members met.** Each judgment,
+
+a world's arriving meet
+
+**Society met.** A quantum
+
+**Members met.** Each detector
+
+**Society met.** Two
+
+**Members met.** Each water taking
+
+**Society met.** A lithium-11
+
+**Members met.** A
+
+**Society met.** Three
+
+**Members met.** Each atom,
+
+where a trimer's energy meets three free atoms
+
+**Society met.** A cell
+
+**Members met.** Each ion
+
+**Society met.** A sinoatrial
+
+**Members met.** Each cell
+
+and every coupled cell holds
+
+**Society met.** A global
+
+**Members met.** Each exchange
+
+**Society met.** The greenish
+
+two northern forms meeting in Siberia
+
+**Members met.** Each population
+
+a meeting observed for hybrids
+
+where they meet;
+
+terminal forms hold apart at their meeting
+
+a meeting in Siberia one seam
+
+Isolation is what a ring's couplings sum to and no step has
+
+**Society met.** An aquatic
+
+**Members met.** Each feeding
+
+**Society met.** The Sun's
+
+**Members met.** Each neutrino
+
+**Society met.** Galaxies
+
+**Members met.** Each galaxy
+
+**Society met.** Electrons
+
+**Members met.** Each arrival,
+
+**Society met.** A metallic island holding one extra electron or none
+
+**Members met.** Each electron
+
+**Society met.** A single RNA hairpin held between two beads in optical tweezers
+
+**Members met.** Each pull,
+
+**Society met.** Hydrogen
+
+**Members met.** Each reaction
+
+composition holds while labels cross
+
+**Society met.** A small
+
+**Members met.** Each molecule,
+
+**Society met.** A single enzyme
+
+**Members met.** Each turnover,
+
+**Society met.** A healthy
+
+**Members met.** Each reading
+
+**So far, and not yet.**

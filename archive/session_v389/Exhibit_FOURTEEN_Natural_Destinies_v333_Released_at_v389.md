@@ -103,3 +103,23 @@ coupled across a between. Self-bounding
 a present coupling and its destiny facing each other.
 
 a framing that had held still opening as its coupling re-alternates
+
+## Re-said at pass 8, a second family Natural Naming 2.4 releases, v389
+
+**imaginable**, held openly as vision
+
+Safely outward — the safety structural, held by the form
+
+The imaginable
+
+its imagining held open here.
+
+## Safely outward — the safety structural, held by the form
+
+safety is structural — held by a surface's own form, no holder standing over it. Safety lives
+
+and four met at the
+
+structural — held by a surface's own form (all-edge
+
+belonging to a meeting and owned neither-ing side

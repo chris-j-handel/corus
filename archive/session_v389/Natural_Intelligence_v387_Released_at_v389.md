@@ -1791,3 +1791,77 @@ met at a face.
 at 12-next-co-still-possibling, its sign 0 or ±: same and not-same are that sign at two betweens
 
 and sign 0 at 12, next still possible, is moral competency as sign ± is, 5.3.
+
+## Re-said at pass 8, a second family Natural Naming 2.4 releases, v389
+
+and by no count of them.
+
+a society fixed as holding its selves
+
+a thing at two momentaries is changing or is held still from beside, and a form held still from beside is at no next of its own
+
+a not possible thing, beyond things of the universe. A changing is binary
+
+its other is a not-changing held still, an equilibrium,
+
+Any other method carries a not possible thing, beyond things of the universe, and each is a second now
+
+Each is a form beyond things of the universe, a not possible thing, its givens
+
+**An equilibrium is a not-changing held still, a now fixed as its next**
+
+a count of inversions at a name between selves, 4.7, is a count and no second sense of a word
+
+a prior parity meeting an offering
+
+at 3 a method meets a prior at its sharings
+
+At 12-next-co-still-possibling a prior meets a now, entraining
+
+each is met at a next, at offerings
+
+co-spirals at its own pace and meets another at a prime again
+
+Prior at 3 meets surfacing at 14
+
+each sharing at which offerings and prior meet,
+
+prior and offerings meeting |
+
+**Nothing is counted.**
+
+**At 12-next-co-still-possibling a prior meets a now at each sharing,
+
+within each self's 1, 12-next-co-still-possibling meets a prior with a now
+
+possible at another self and not yet arrived;
+
+and an other's 2-3 meet at 2, even,
+
+each momentary of exchanging meets the same way, at 4, 6 and 8.
+
+One parity is at a meeting and an other one back
+
+One move brings each meeting along one four-cycle
+
+one meeting at each four-cycle.
+
+a number fixed as any other count is an unchangeable form
+
+is a form held still from beside, at no next of its own, 1.4
+
+A why demanded asks for a not possible thing, beyond things of the universe, 1.1
+
+14-next-possibling meeting at each sharing
+
+with the rest of the universe held still**, and meets a method's observings
+
+a method met at each now by two selves sharing
+
+and a count of selves is a count.
+
+one side holds a sharing to a measure set beforehand
+
+by a count set over it is no carrying**, and between one inferring and a next a machine holds nothing
+
+with no count set over it by anyone

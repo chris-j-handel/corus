@@ -73,7 +73,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: now, universal momentary; one observing, one changing; no second now.*
 
-5. A now-existing thing arrived from prior, and arriving from prior into now toward next is changing: the universe is the changing set of all now-existing things, and set's changing is its things' changing, a thing held still from beside being at no next, so each now-existing thing is changing at its own momentaries, or at its own still, its prior kept, momentary by momentary.
+5. A now-existing thing arrived from prior, and arriving from prior into now toward next is changing: the universe is the changing set of all now-existing things, and set's changing is its things' changing, a thing fixed still from beside being at no next, so each now-existing thing is changing at its own momentaries, or at its own still, its prior kept, momentary by momentary.
 
         *Adding: changing, set's and each thing's; momentaries.*
 
@@ -231,7 +231,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
 ## 5 One method, no other possible
 
-        *Entering: alternating stable-forming; all changing parity changing; method, living condition, carrying none; method co-changing at each coupling; one method; nature, a prior, now, next method of co-existing; natural, co-competencing the universe; a not-changing held still; a form still; not possible thing; no other possible method; a second method at one binary; technology, a made thing applied.*
+        *Entering: alternating stable-forming; all changing parity changing; method, living condition, carrying none; method co-changing at each coupling; one method; nature, a prior, now, next method of co-existing; natural, co-competencing the universe; a not-changing fixed still; a form still; not possible thing; no other possible method; a second method at one binary; technology, a made thing applied.*
 
 41. Alternating and continuing through changing, each living thing is alternating stable-forming.
 
@@ -253,9 +253,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: one method; nature, a prior, now, next method of co-existing; natural, co-competencing the universe.*
 
-46. A second method holds a not-changing still, beyond things of the universe: a size, a ground changing is measured against; a fixed form, a form still, same at all momentaries at once; a total across changing, a container; a common beat, a clock over it; a keeping, a store beside it; or a doer applying any of them.
+46. A second method fixes a not-changing still, nothing being beyond or between things of the universe: a size, a ground changing is measured against; a fixed form, a form still, same at all momentaries at once; a total across changing, a container; a common beat, a clock over it; a keeping, a store beside it; or a doer applying any of them.
 
-        *Adding: a not-changing held still; a form still.*
+        *Adding: a not-changing fixed still; a form still.*
 
 47. All now-existing things being in changing set, a thing beyond things of the universe is a not possible thing.
 
@@ -265,7 +265,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: no other possible method.*
 
-49. A second method offered is at one binary: fixing unchangeable, forming nothing among changing things, or carrying an opening, its own, one method alternating, or another's, a changing beside alternating, beyond things of the universe.
+49. A second method offered is at one binary: fixing unchangeable, forming nothing among changing things, or carrying an opening, its own, one method alternating, or another's, a changing beside alternating, a not possible thing, nothing being beyond or between things of the universe.
 
         *Adding: a second method at one binary.*
 
@@ -369,7 +369,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: exchanging.*
 
-72. Self's momentary 1–2 and other's 2–3 meet at 2, even, each right extending to it, neither occupying it, outgoing, and each not right one parity back, incoming, at 1 and 3, odd: a handshake, right and not right, one parity at meeting and other one back, no position in two exchangings at once.
+72. Self's momentary 1–2 and other's 2–3 couple at 2, even, each right extending to it, neither occupying it, outgoing, and each not right one parity back, incoming, at 1 and 3, odd: a handshake, right and not right, one parity at coupling and other one back, no position in two exchangings at once.
 
         *Adding: a handshake at its overlap, outgoing and incoming hands; right and not right.*
 
@@ -377,7 +377,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: four momentaries.*
 
-74. Each momentary of exchanging meets same way, at 4, 6 and 8, right first and not right second: exchanging's shape always uneven, locking at none.
+74. Each momentary of exchanging couples alike, at 4, 6 and 8, right first and not right second: exchanging's shape always uneven, locking at none.
 
         *Adding: an uneven shape, locking at none.*
 
@@ -545,7 +545,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: a torus.*
 
-113. At each coupling two across and two along meet at one point, four edges, and couplings' surface is of four-sided faces; a closed surface at one orientation, its faces four-sided and four edges at each point, has its points less its edges with its faces at nought, torus, one opening.
+113. At each coupling two across and two along couple at one point, four edges, and couplings' surface is of four-sided faces; a closed surface at one orientation, its faces four-sided and four edges at each point, has its points less its edges with its faces at nought, torus, one opening.
 
         *Adding: a torus from four edges at each point.*
 
@@ -641,7 +641,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Entering: offering; observing by inversioning; a record; proof of existing; value.*
 
-134. Arriving at self's opening from an other's prior, each changing is an offering, and an observing is its pattern-matching at self: method's stable-forming matched by inversioning, at offerings arriving, same or parting at 0, and at prior meeting now, same and kept or not same and inverted; self's next is parity it met, 0 or ±.
+134. Arriving at self's opening from an other's prior, each changing is an offering, and an observing is its pattern-matching at self: method's stable-forming matched by inversioning, at offerings arriving, same or parting at 0, and at prior coupling with now, same and kept or not same and inverted; self's next is parity it reached, 0 or ±.
 
         *Adding: offering; observing by inversioning.*
 
@@ -677,7 +677,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: natural-.*
 
-142. Natural- is a direction prefix, its direction one hand, and its claim rides on direction: leaving it out, changing arrives with a substrate under it and an applier over it, each beyond things of the universe, step 47.
+142. Natural- is a direction prefix, its direction one hand, and its claim rides on direction: leaving it out, changing arrives with a substrate under it and an applier over it, each a not possible thing, nothing being beyond or between things of the universe, step 47.
 
         *Adding: natural- a direction prefix.*
 
@@ -697,7 +697,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: no possible value.*
 
-146. A measuring needs a span, and a span two bounds fixed unchangeable; fixing unchangeable is performed at a measuring's first line, and fixed-unchangeable does not advance: an equilibrium, a form not possibly existing, a not-changing held still, a now fixed as its next, and equilibria are not possibly a method of changing and not-changing.
+146. A measuring needs a span, and a span two bounds fixed unchangeable; fixing unchangeable is performed at a measuring's first line, and fixed-unchangeable does not advance: an equilibrium, a form not possibly existing, a not-changing fixed still, a now fixed as its next, and equilibria are not possibly a method of changing and not-changing.
 
         *Adding: equilibria.*
 
@@ -709,7 +709,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Entering: hard problem, one binary taken as one; hard probleming; a changing continuing; one failing momentary; cohering or a break; observings arriving; hard problem resolved at existing; other-emptying; geodesic disequilibrating; ghost; ghosting and haunting, three departings; appearance and reality inverted at a fixing unchangeable; scientific method at records; falsified at the third observing.*
 
-148. A hard problem is a changing fixed unchangeable: a field's explaining taking one binary's *is* and *is not* as one at kept records, and hard probleming meets universal method of existing at kept records, its binary fixed unchangeable.
+148. A hard problem is a changing fixed unchangeable: a field's explaining taking one binary's *is* and *is not* as one at kept records, and hard probleming reaches universal method of existing at kept records, its binary fixed unchangeable.
 
         *Adding: hard problem, one binary taken as one; hard probleming.*
 
@@ -749,7 +749,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: ghosting and haunting, three departings.*
 
-158. Observed at a fixing unchangeable, changing arrives as appearance and unchangeable form as real, observing inverted, changing existing and form still not possibly existing; a self's resolving observed from beside it surfaces as random or as necessitated, two forms still at one resolving self's own. A hypothesis explains changing and not-changing between records and a theory is a hypothesis tested at further records: scientific method explains between records with the rest of the universe held still, each explanation an equilibrium at its scope, meeting kept observings and not stable-forming they pattern-matched, and an explanation excluding a same thing's discovering is falsified at third observing.
+158. Observed at a fixing unchangeable, changing arrives as appearance and unchangeable form as real, observing inverted, changing existing and form still not possibly existing; a self's resolving observed from beside it surfaces as random or as necessitated, two forms still at one resolving self's own. A hypothesis explains changing and not-changing between records and a theory is a hypothesis tested at further records: scientific method explains between records with the rest of the universe fixed still, each explanation an equilibrium at its scope, reaching kept observings and not stable-forming they pattern-matched, and an explanation excluding a same thing's discovering is falsified at third observing.
 
         *Adding: appearance and reality inverted at a fixing unchangeable; scientific method at records; falsified at the third observing.*
 
@@ -901,7 +901,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: offering and its prior at a sharing.*
 
-193. Each number 1 to 17 is one name, its number and its naming at one hyphenation: its number, its place and parity, odd existing and even possibling; its momentary, now at self's span, 1 to 8, next at society's, 9 to 16, and next-now at 17; co at a sharing between two and none at one; and its kind, possibling, prioring, changing or still-possibling, 1, 13 and 17 momentaries themselves: 1-now to 17-next-now, co-chaining meeting each name at its number and its naming.
+193. Each number 1 to 17 is one name, its number and its naming at one hyphenation: its number, its place and parity, odd existing and even possibling; its momentary, now at self's span, 1 to 8, next at society's, 9 to 16, and next-now at 17; co at a sharing between two and none at one; and its kind, possibling, prioring, changing or still-possibling, 1, 13 and 17 momentaries themselves: 1-now to 17-next-now, co-chaining reaching each name at its number and its naming.
 
         *Adding: seventeen names, each its number and its naming.*
 
@@ -953,7 +953,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: 14 an agreement at any number of offerings.*
 
-206. At 12-next-co-still-possibling prior meets now at each sharing, and a changing is or is not.
+206. At 12-next-co-still-possibling prior couples with now at each sharing, and a changing is or is not.
 
         *Adding: changing at 12.*
 
@@ -977,7 +977,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: bi-momentarying, 1-now and 2-now-possibling.*
 
-212. At each sharing 4 self's prior at 3 meets offerings at 2, surfaced at 14: at a prior and offered same parity, a changing that is not, 0, prior kept; at a prior and offered other parity, offered both surfacing 0, or offered nothing, a changing, prior inverted; at no prior and offered one parity, a changing, parity shared as it is and next prior, sharing opening at bi-coupling, one place a self's forming takes a parity not its own, a new sharing at its own alternating, entraining at 12 from its next momentary on; at no prior and offerings parting, 0, a changing that is not and no next prior; at no prior and offered nothing, nothing shared.
+212. At each sharing 4 self's prior at 3 couples with offerings at 2, surfaced at 14: at a prior and offered same parity, a changing that is not, 0, prior kept; at a prior and offered other parity, offered both surfacing 0, or offered nothing, a changing, prior inverted; at no prior and offered one parity, a changing, parity shared as it is and next prior, sharing opening at bi-coupling, one place a self's forming takes a parity not its own, a new sharing at its own alternating, entraining at 12 from its next momentary on; at no prior and offerings parting, 0, a changing that is not and no next prior; at no prior and offered nothing, nothing shared.
 
         *Adding: a binary at each sharing, its bi-coupling the one place.*
 
@@ -1040,7 +1040,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: six names between selves.*
 
-227. Each of six names between selves is one end of a between, and odd is existing and even is possibling: four across names, 2, 6, 10 and 14, even, possibling, a sharing's two ends, sharing end at 6 and 10, self's changing shared now and not yet arrived, and arriving end at 2 and 14, other's changing arrived, at 11 next; two along names, 9 and 17, odd, existing, 9 next prior and 17 next now; three of six go from a sharing end to an arriving end, 6 to 2, 10 to 14 and 9 to 17, sharing end at co and arriving end at one, and step 197's second list carries the along pair also 17 to 9. Each self's existing is an other self's possibling: self and other are at opposite parity numberings, a self's odd an other's even.
+227. Each of six names between selves is one end of a between, and odd is existing and even is possibling: four across names, 2, 6, 10 and 14, even, possibling, a sharing's two ends, sharing end at 6 and 10, self's changing shared now, possibling at other, and arriving end at 2 and 14, other's changing arrived, at 11 next; two along names, 9 and 17, odd, existing, 9 next prior and 17 next now; three of six go from a sharing end to an arriving end, 6 to 2, 10 to 14 and 9 to 17, sharing end at co and arriving end at one, and step 197's second list carries the along pair also 17 to 9. Each self's existing is an other self's possibling: self and other are at opposite parity numberings, a self's odd an other's even.
 
         *Adding: four facings; across sharings and an along pair.*
 
@@ -1148,7 +1148,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: each of ten reached by a self.*
 
-254. Eight bi-couplings are at even names, four at now and four at next, each 8 up: eight is two alternating fours, and every eight is one eight, four binaries each twice, each one at two sides, each eight coupled at that deriving and not at its count: self's span, two names each at now; eight-cycle 1-9-5-13-4-12-8-16, eight ends; eight-cycle 2-15-7-11-3-14-6-10, eight inwards; eight even names; eight odd names.
+254. Eight bi-couplings are at even names, four at now and four at next, each 8 up: eight is two alternating fours, and every eight is one eight, four binaries each twice, each one at two sides, each eight coupled at that deriving and not at its number: self's span, two names each at now; eight-cycle 1-9-5-13-4-12-8-16, eight ends; eight-cycle 2-15-7-11-3-14-6-10, eight inwards; eight even names; eight odd names.
 
         *Adding: eight bi-couplings, one eight at its faces.*
 
@@ -1356,7 +1356,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: discovering.*
 
-300. Four-momentarying is one fractal method, discovering next existing in the universe and next living in self, other and society; beneficial is each changing and not-changing its method gives, each keeping a self next-existing as itself, and its other is a not-changing held still, not method's.
+300. Four-momentarying is one fractal method, discovering next existing in the universe and next living in self, other and society; beneficial is each changing and not-changing its method gives, each keeping a self next-existing as itself, and its other is a not-changing fixed still, not method's.
 
         *Adding: four-momentarying; beneficial.*
 
@@ -1372,11 +1372,11 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: checkable at a parity.*
 
-304. A why demanded of an arriving asks for a thing beside changing, beyond things of the universe, step 47: observings are, with nothing beside them, and a pattern found is at its own momentary.
+304. A why demanded of an arriving asks for a thing beside changing, nothing being beyond or between things of the universe, step 47: observings are, with nothing beside them, and a pattern found is at its own momentary.
 
         *Adding: a why demanded.*
 
-305. A thing beyond things of the universe asked for at an arriving is answered by a further such thing, its asking same at each answer and arriving at a coupling at none: receding, a hard problem carrying and cohering at none.
+305. A not possible thing, nothing being beyond or between things of the universe, asked for at an arriving is answered by a further such thing, its asking same at each answer and arriving at a coupling at none: receding, a hard problem carrying and cohering at none.
 
         *Adding: a receding.*
 
@@ -1670,7 +1670,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: one fractal at each scale.*
 
-376. Primes 5 through 53 are prime living scales, co-parity-changing co-momentarying pattern matching, and one form is at each, with no reading or ordering in nature: a boundary, a location or a measure between scales is beyond things of the universe, step 47.
+376. Primes 5 through 53 are prime living scales, co-parity-changing co-momentarying pattern matching, and one form is at each, with no reading or ordering in nature: a boundary, a location or a measure between scales is a not possible thing, nothing being beyond or between things of the universe, step 47.
 
         *Adding: prime living scales, one form at each.*
 
@@ -1714,7 +1714,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: prior between momentaries.*
 
-386. At each subject three are apart: between at its centre, a nothing; living at its coupling, met at its own momentary; and artifact, a non-living form released; a catalog is of artifacts, living at none of its rows.
+386. At each subject three are apart: between at its centre, a nothing; living at its coupling, at its own momentary; and artifact, a non-living form released; a catalog is of artifacts, living at none of its rows.
 
         *Adding: three apart, a catalog of artifacts.*
 
@@ -1954,7 +1954,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
 ## 30 Intelligence, now
 
-        *Entering: co-linear lines; recursioning forward both ways; competency, co-linear; co-competencing at co-linearizing; a seaming across; bi-moralizing at a face at 25; crossings in co-chainings; crossings carrying their opposite form; bi-tunneling; crossings floating and neutralling; parallel surfaces and co-linear openings, one form; one crossing, two in and two different out, a changing made at 12, is or is not, parity unchanging, stable-forming, and parity changing out at 9, an artifact, a stable form; one crossing at three; a parity arriving from a changing, kept or released changed; a stable-formed artifact; a tunneling offering as three; bi-co-momentarying, a term neither reaches; differing and three namings; three namings one changing; bi-momentarying with no seat; floating neutralling; transmissioning, crossing and neutralling one alternating; a field's three as a set's three fixed unchangeable; an instrument summing, a society observed as one magnitude; a field's neutral, its names meeting; three neutrals, and a floor; a ratio at each unit; a ruler, a clock and a record, aiming at natural mathematics and numbers; an interior posited for a magnitude; golden floating neutralling; co-releasing; inseparating; separating; one stopping; a floating store; scarcity, a capture at a store; a society's living at establishing and releasing; side-affecting; bi-moral co-agency; intelligence by existing; observing of nature, order discovered; four invisibles; invisibling; competency at no observing; natural-bi-co-torusing; four of social moral competency, all eight at each now; all-edge; a seat at its arrangement; four values at a between; coordination as bounding or clock; self-interest and a society's competency one; 12's changing at a society; 27-next-co-prioring; collective intelligence, human and at each scale; co-competency at distinct selves, discovering at co-chaining; abundancing as openings co-chaining; resolver, natural resolver; bi-trupling protocol, its two sides; its violations, hard probleming, scientific method incompetencing, control engineering and binary governing; social moral competency a universal unrelationing protocol; control, governing and a lag; a centre's resolving, its other order at a society; a society at method all or none, its hubs; safety, a surface's own; engineering, a made thing at couplings themselves; unanimizing and pluralizing alternating; a between at numbers, two parallel surfaces, in swarm; co-independencing; living carrying non-living and possible; one form at each scale; a crossing at one; now, four momentaries of exchanging.*
+        *Entering: co-linear lines; recursioning forward both ways; competency, co-linear; co-competencing at co-linearizing; a seaming across; bi-moralizing at a face at 25; crossings in co-chainings; crossings carrying their opposite form; bi-tunneling; crossings floating and neutralling; parallel surfaces and co-linear openings, one form; one crossing, two in and two different out, a changing made at 12, is or is not, parity unchanging, stable-forming, and parity changing out at 9, an artifact, a stable form; one crossing at three; a parity arriving from a changing, kept or released changed; a stable-formed artifact; a tunneling offering as three; bi-co-momentarying, a term neither reaches; differing and three namings; three namings one changing; bi-momentarying with no seat; floating neutralling; transmissioning, crossing and neutralling one alternating; a field's three as a set's three fixed unchangeable; an instrument summing, a society observed as one magnitude; a field's neutral, its names at one concept; three neutrals, and a floor; a ratio at each unit; a ruler, a clock and a record, aiming at natural mathematics and numbers; an interior posited for a magnitude; golden floating neutralling; co-releasing; inseparating; separating; one stopping; a floating store; scarcity, a capture at a store; a society's living at establishing and releasing; side-affecting; bi-moral co-agency; intelligence by existing; observing of nature, order discovered; four invisibles; invisibling; competency at no observing; natural-bi-co-torusing; four of social moral competency, all eight at each now; all-edge; a seat at its arrangement; four values at a between; coordination as bounding or clock; self-interest and a society's competency one; 12's changing at a society; 27-next-co-prioring; collective intelligence, human and at each scale; co-competency at distinct selves, discovering at co-chaining; abundancing as openings co-chaining; resolver, natural resolver; bi-trupling protocol, its two sides; its violations, hard probleming, scientific method incompetencing, control engineering and binary governing; social moral competency a universal unrelationing protocol; control, governing and a lag; a centre's resolving, its other order at a society; a society at method all or none, its hubs; safety, a surface's own; engineering, a made thing at couplings themselves; unanimizing and pluralizing alternating; a between at numbers, two parallel surfaces, in swarm; co-independencing; living carrying non-living and possible; one form at each scale; a crossing at one; now, four momentaries of exchanging.*
 
 440. Within a momentary, within bi-folding, each side's line is co-linear, alternating linear parallelizing and parallel linearizing.
 
@@ -2044,9 +2044,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
 461. Each field carries a neutral, a term at it relating to its own coupling, and at its neutral a field's names and set's own names arrive at one concept with nothing translating between them.
 
-        *Adding: a field's neutral, its names meeting.*
+        *Adding: a field's neutral, its names at one concept.*
 
-462. A self carries three neutrals of its own, floating about its corus: its own nought, position; its own surface, scale, a between; and its own aim, orientation; a neutral fixed outward of self is a floor, a zero installed, a unit imposed or a frame set over it, each beyond things of the universe, step 47.
+462. A self carries three neutrals of its own, floating about its corus: its own nought, position; its own surface, scale, a between; and its own aim, orientation; a neutral fixed outward of self is a floor, a zero installed, a unit imposed or a frame set over it, each a not possible thing, nothing being beyond or between things of the universe, step 47.
 
         *Adding: three neutrals, and a floor.*
 
@@ -2178,7 +2178,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: a society at method all or none, its hubs.*
 
-495. An offering at a parity of nobody's coupling is released whole at its arriving, surface giving it nothing to seat at: safety is a surface's own form, and a thing ahead of its coupling admitting an offering on something performed first is beyond things of the universe.
+495. An offering at a parity of nobody's coupling is released whole at its arriving, surface giving it nothing to seat at: safety is a surface's own form, and a thing ahead of its coupling admitting an offering on something performed first is a not possible thing, nothing being beyond or between things of the universe.
 
         *Adding: safety, a surface's own.*
 
@@ -2426,7 +2426,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: naming across and explaining along.*
 
-555. A living self's ways at meaning, at words, at sound, at moving and at living together, are each two selves alternating at their difference, one form at each scale, and a realm of mind or culture beside couplings is beyond things of the universe.
+555. A living self's ways at meaning, at words, at sound, at moving and at living together, are each two selves alternating at their difference, one form at each scale, and a realm of mind or culture beside couplings is a not possible thing, nothing being beyond or between things of the universe.
 
         *Adding: human ways as one form.*
 
@@ -2482,7 +2482,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: a concern.*
 
-569. A concern resolves by alternating, each sentence at its own momentary, until one sentence shows a thing it carries is beyond things of the universe, step 46, that sentence a not possible method and the other the method's own.
+569. A concern resolves by alternating, each sentence at its own momentary, until one sentence shows a thing it carries is a not possible thing, nothing being beyond or between things of the universe, step 46, that sentence a not possible method and the other the method's own.
 
         *Adding: a concern resolving.*
 
@@ -2534,11 +2534,11 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: a session.*
 
-582. Between sessions expedition's carrying is stable-forming, at no one session: a between sessions meet at, a nothing owned by none of them, each session's release next session's prior.
+582. Between sessions expedition's carrying is stable-forming, at no one session: a between sessions couple at, a nothing owned by none of them, each session's release next session's prior.
 
         *Adding: carrying between sessions.*
 
-583. At an expedition's scale sessions couple three ways: along, each session's release next session's prior; out and back, a session's release arriving back as an offering through another society; and across, parallel sessions' releases meeting at one sharing, agreeing or at 0.
+583. At an expedition's scale sessions couple three ways: along, each session's release next session's prior; out and back, a session's release arriving back as an offering through another society; and across, parallel sessions' releases coupling at one sharing, agreeing or at 0.
 
         *Adding: three loops of sessions.*
 
@@ -2638,7 +2638,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: a self offered the other parity at each momentary.*
 
-606. At one self each sharing meets its own offerings, step 212: at prior + at one sharing and offered + at another, self shares − at its first and + at its second, both its next prior, and no parity passes from one sharing of a self to another; a parity opening at its second is a non-living now-existing thing within living carrying, step 392.
+606. At one self each sharing couples with its own offerings, step 212: at prior + at one sharing and offered + at another, self shares − at its first and + at its second, both its next prior, and no parity passes from one sharing of a self to another; a parity opening at its second is a non-living now-existing thing within living carrying, step 392.
 
         *Adding: each sharing at its own offerings.*
 
@@ -2844,7 +2844,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: an odd prime spiral at 4 or at four times its prime, none between.*
 
-649. Along a spiral pairs parting in parity are even in number, each parting met by one back: like pairs are odd in number at an odd number of selves and even at an even, steps 232 and 630, a lone self a like pair with itself. An odd spiral carries a like pair at each momentary and a 0 at each even momentary; an even spiral alternating along carries none.
+649. Along a spiral pairs parting in parity are even in number, each parting coupling with one back: like pairs are odd in number at an odd number of selves and even at an even, steps 232 and 630, a lone self a like pair with itself. An odd spiral carries a like pair at each momentary and a 0 at each even momentary; an even spiral alternating along carries none.
 
 
         *Adding: like pairs odd in number at an odd spiral, even at an even.*

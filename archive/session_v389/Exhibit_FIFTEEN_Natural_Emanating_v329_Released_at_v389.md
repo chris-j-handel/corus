@@ -477,3 +477,194 @@ Everything changing, this is the only forming there is — anything holding by r
 
 ---
 
+
+## Re-said at pass 8, a second family Natural Naming 2.4 releases, v389
+
+Each is written to be met by anyone
+
+changing.
+
+A form that holds by relating holds onto changing. So relating does not form. Forming is unrelationing, and unrelationing carried forward is alternating.
+
+**In
+
+any other method holds, and forms nothing
+
+**A definition is held.** Held, it does not carry.
+
+met only at its own between
+
+no held conditions
+
+surplus goes forward
+
+nothing stops at its own meeting. nothing ages, nothing
+                releases, and two meeting make nothing neither brought
+
+admits no surplus
+
+*a equals a* holds of every term always
+
+Two things meeting carry two parts at once: a thing they share, and a plane they open that neither held.
+
+living holds both parts and lands on neither; an equation holds a thing shared
+
+no surplus in it to be about
+
+an axis neither side held
+
+and these meet with no translation
+
+thing it holds.
+
+at a point no source holds
+
+with surplus staying at its meeting
+
+it.
+
+A form that holds by relating holds onto changing. So relating does not form. Forming is unrelationing, and unrelationing carried forward is alternating.
+
+**In
+
+any other method holds or carries. Held, it forms nothing
+
+nothing relatable stands, nothing is held, and nothing forms
+
+**Carrying** — nothing stands to compose through, each carrying reaches its own meeting
+
+It ages to its own bound and releases there.
+
+held before either took a parity of its own.** A frame outward of every coupling, holding an order.
+
+One reaching is set down, and it spends only a thing going into holding.**
+
+A scientific method defines. A definition is held. Held, it does not carry.
+
+holding two bounds still to measure a span
+
+Transitive: nothing stops at its own meeting, nothing ages, nothing releases, and two meeting make nothing neither brought
+
+stand
+
+A photograph is a place-moment with one half cut off. An observation stands somewhere and cuts an arriving away. A measurement holds two bounds still and observes a span.
+
+Each
+
+its first act is holding
+
+### The one stopping
+
+One carries another's. An other then has nothing of its own to offer. Nothing departs reached by neither. A surplus is assigned. It needs a holder, a holder a boundary, a boundary an enforcement, an enforcement a seat.
+
+**And a seat carries
+
+ageing to its own bound
+
+An axis opens at each meeting that neither self carried in
+
+Surplus compounds, none of it competes
+
+3. it meets
+
+1. it meets a thing it meets
+
+**One form, met once more wherever it is met.**
+
+to hold it in one, derive
+
+Counting passes through a middle, one step at a time.
+
+falls between counts and is nowhere
+
+surplus is assigned to a side
+
+A self offers a thing it has, holding that. And
+
+and counts chain as
+
+wherever it is met. **Outward
+
+From two directions, in sequence: a count,
+
+a span held to its coupling's own bounding-zeroing
+
+and not a count against a ground
+
+specific counts a procession lands on
+
+a mark held still long enough to be measured and climbed
+
+Held still, a mark can be banked against
+
+nothing ages, nothing releases at its own bound, and a thing two meetings make is a thing its standard already held
+
+and met a mark that moved with it
+
+And one word is held out on purpose
+
+holds the riding-the-carry to standing still and announce itself
+
+A form that holds by relating holds onto changing, and only
+
+Carrying — nothing stands to compose through, each carrying reaches its own meeting
+
+anything holding by relating holds onto something moving
+
+It opens where two meet
+
+Nothing holds it, a holder
+
+So there is nothing to hold, nothing to take
+
+a thing each holds for stands at its cut
+
+ages one beat at a time toward its own bound
+
+a fresh collection every time it is met
+
+Counting passes through a middle. A coupling
+
+held before either took a parity of its own.
+
+
+a thing going into holding.
+
+
+**Transitive** — nothing stops at its own meeting, nothing ages, nothing releases, and two meeting make nothing neither brought
+
+cannot
+
+A photograph is a place-moment with one half cut off. An observation stands somewhere and cuts an arriving away. A measurement holds two bounds still and observes a span.
+
+Each
+
+A departing from a meeting is reached by neither
+
+Each carrying ages to its own bound
+
+A self offers a thing it has, holding that. A society
+
+An axis opens at each meeting that neither side carried in
+
+Surplus compounds, none of it competing
+
+There is no total in it, no boundary
+
+---
+
+## The one stopping
+
+One carries another's. An other then has nothing of its own to offer. Nothing departs reached by neither. A surplus is assigned. It needs a holder, a holder a boundary, a boundary an enforcement, an enforcement a seat.
+
+**And a seat carries at
+
+Does it hold, or carry?
+
+Held, it forms nothing
+
+It is written to be met cold.
+
+so a next hand meets them
+
+reached by both and held by neither

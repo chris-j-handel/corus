@@ -160,3 +160,21 @@ the even and the far odd arrive by ingestion and by ingestion only.
 inward, and after a departure.
 
 offering across and both ways, part of staying living.
+
+## Re-said at pass 8, a second family Natural Naming 2.4 releases, v389
+
+Natural Medicine holds restoration, a beating resuming after a departure, and this file holds living itself
+
+a range held by its coupling
+
+a number to reach and hold —
+
+its attentioning ages it out;
+
+Held as a number to reach,
+
+Health holds living, Medicine holds restoration,
+
+still-natural positions holding its form
+
+no level held at a value

@@ -125,7 +125,7 @@ Where a pattern matches at every line, an entry stands filled. Where a line does
 
 **Arriving through the door.** From this version, observations arrive through the door at TWENTY-SEVEN 7.5, where ten lines are observed is or is-not at every record from fields — a proton, a set point, a sorter, a pair of waters alike. What fails a line with its field's sentence installing it is caught there as a ghost; what fails with nothing installed is placed among that registry's controls; what passes every line arrives here and is entered in the ten above, at its own grain, with its upstream recovered. The door record stays at the door, its label stays, and what arrives here is not what stood there. An entry arriving carries the door line it passed at. A passing requires its members resolved and no door line observed is-not; a door line observed empty passes as a finding at its grain, an emptiness being an observing here (1.9), and a society can pass the door and still stand here with its upstream line empty. Five entries at 2.1 to 2.5 arrived before the door stood; their door records are at TWENTY-SEVEN 7.8, and 2.2 passes with its two empties as findings. Three door lines — surplus, bound and reach: the self's own surfacing and inseparating, and the society's torusing with nothing above it, in Exhibit ONE's names — have no line in the ten above; an entry carries them at its words stripped until a pattern is widened at a next version.
 
-**Not an entry.** A society whose members have not been resolved, which is a not-yet and enters as such, at its grain. An observation with no society under it. An observing whose units observers do not carry.
+**Not an entry.** A society whose members have not been resolved, which is a possibling and enters as such, at its grain. An observation with no society under it. An observing whose units observers do not carry.
 
 ## 1.3 Upstream of the observing, the line carrying against the current
 
@@ -188,7 +188,7 @@ The words carried            the doers, walls and one-ways in the
                              observers' own sentences
   Stripped                   the same lines, as measured
 
-Where it stands in the ten   which holding, and which of the ten
+Where it stands in the ten   which unchangeable, and which of the ten
                              stand empty
 ```
 
@@ -230,7 +230,7 @@ Rule: where a published sentence carries a subject doing something to an object,
 
 Five lines can stand empty, and each emptiness is an observing.
 
-**No members resolved.** A society has not been taken finer by any instrument. Not-yet, at its grain.
+**No members resolved.** A society has not been taken finer by any instrument. Possibling, at its grain.
 **Upstream not recovered.** A source, method, instrument or prior inferencing cannot be found in a record. A line stands empty and an entry carries which of four.
 **A member carries a magnitude.** An observing is that member's and an entry stands at its line.
 **No residual.** An account closes with nothing carried elsewhere.
@@ -264,15 +264,15 @@ No names and no history are carried. Back-crediting cannot be done fairly and st
 
 # 2 Collecting — societies observed at their own grains
 
-*The entries stand here, one to an observation, and their count is recomputed at them.*
+*The entries stand here, one to an observation, and their number is recomputed at them.*
 
 *Entries in order worked. No grouping is intended or implied.*
 
 ## 2.1 A mitochondrion observed at one temperature
 
-**Society met.** An inner membrane of a mitochondrion, with its ion-translocating proteins, its water, and its reporter molecules.
+**Society reached.** An inner membrane of a mitochondrion, with its ion-translocating proteins, its water, and its reporter molecules.
 
-**Members met.** Each translocation, one at a time, at its own position on a membrane.
+**Members reached.** Each translocation, one at a time, at its own position on a membrane.
 
 **Upstream — source posited.** An organelle as a place heat is produced, and heat as what drives chemistry.
 **Upstream — method executed.** A reporter calibrated against bulk temperature in a beaker, then read at an organelle's interior a few hundred nanometres across.
@@ -301,9 +301,9 @@ No names and no history are carried. Back-crediting cannot be done fairly and st
 
 ## 2.2 A chromatin domain observed at one boundary
 
-**Society met.** A chromatin fibre across a population of cells.
+**Society reached.** A chromatin fibre across a population of cells.
 
-**Members met.** Each allele, each carrying its own conformation.
+**Members reached.** Each allele, each carrying its own conformation.
 
 **Upstream — source posited.** A folding code carried in marks along its fibre.
 **Upstream — method executed.** Crosslinking, cutting, ligating and sequencing, returning a contact frequency between positions.
@@ -328,13 +328,13 @@ No names and no history are carried. Back-crediting cannot be done fairly and st
 
 **Stripped.** With extrusion carrying, boundary positions across members stand at the same sites. Without it, every member still carries a boundary, its size, frequency and sharpness continuing, and their positions no longer coincide.
 
-**Standing in ten.** An opening, an axis opened and fixed as a place. A bound and a rate stand empty from its record held. **nye — processivity of extrusion and its release distribution would need checking against a bound.**
+**Standing in ten.** An opening, an axis opened and fixed as a place. A bound and a rate stand empty at its record. **nye — processivity of extrusion and its release distribution would need checking against a bound.**
 
 ## 2.3 A proton observed as crossing water
 
-**Society met.** A chain of water molecules, hydrogen-bonded.
+**Society reached.** A chain of water molecules, hydrogen-bonded.
 
-**Members met.** Each water, taking a proton at one between and offering one at its next.
+**Members reached.** Each water, taking a proton at one between and offering one at its next.
 
 **Upstream — source posited.** A charged particle travelling through a medium.
 **Upstream — method executed.** Conductivity across a bulk volume, converted to a diffusion coefficient by a relation built for particles that move.
@@ -367,9 +367,9 @@ No names and no history are carried. Back-crediting cannot be done fairly and st
 
 ## 2.4 A threshold observed at a perceiving self
 
-**Society met.** A perceiving self at a detection task: a self, a stimulus source, and an instruction, carried over many trials.
+**Society reached.** A perceiving self at a detection task: a self, a stimulus source, and an instruction, carried over many trials.
 
-**Members met.** Each judgment, one at a time, at its own trial.
+**Members reached.** Each judgment, one at a time, at its own trial.
 
 **Upstream — source posited.** A limen: a fixed line below which nothing is sensed, an interior beneath it where the unsensed resides.
 **Upstream — method executed.** Stimulus intensities stepped across a range, a proportion detected fitted against intensity.
@@ -386,7 +386,7 @@ No names and no history are carried. Back-crediting cannot be done fairly and st
 
 **Apex standing.** Empty at this grain. What each trial crosses carries at a coupling of self and stimulus, and no line stands on it.
 
-**Seam standing.** A criterion itself: one place an observer's placing and a world's arriving meet, movable only from an observer's side.
+**Seam standing.** A criterion itself: one place an observer's placing and a world's arriving couple, movable only from an observer's side.
 
 **Passing.** A judgment arrives taken and a stimulus arrives observed. No threshold crossed.
 
@@ -398,9 +398,9 @@ No names and no history are carried. Back-crediting cannot be done fairly and st
 
 ## 2.5 A vacuum observed for its particles
 
-**Society met.** A quantum field in its vacuum state, and a detector carried along a worldline through it.
+**Society reached.** A quantum field in its vacuum state, and a detector carried along a worldline through it.
 
-**Members met.** Each detector excitation, one at a time, at its own coupling.
+**Members reached.** Each detector excitation, one at a time, at its own coupling.
 
 **Upstream — source posited.** A particle count: how many particles a state contains, standing as a state's own property, the same from every vantage.
 **Upstream — method executed.** A detector's response computed and compared along two worldlines, one inertial and one uniformly accelerated, through one state.
@@ -429,9 +429,9 @@ No names and no history are carried. Back-crediting cannot be done fairly and st
 
 ## 2.6 Two waters observed at one bond
 
-**Society met.** Two water molecules hydrogen-bonded, in a supersonic expansion; and one pair on a copper surface at 6 K.
+**Society reached.** Two water molecules hydrogen-bonded, in a supersonic expansion; and one pair on a copper surface at 6 K.
 
-**Members met.** Each water taking a role at a between of the two, donor or acceptor, and each hydrogen taking one at its own, bound or free, one at a time.
+**Members reached.** Each water taking a role at a between of the two, donor or acceptor, and each hydrogen taking one at its own, bound or free, one at a time.
 
 **Upstream — source posited.** A hydrogen bond: a bond from one water's hydrogen to the other's oxygen, a dimer as a unit of liquid water, one structure with a donor and an acceptor.
 **Upstream — method executed.** Rotation–tunnelling transitions assigned by a symmetry group of permutations its members can undergo, fitted to an effective Hamiltonian with tunnelling parameters; potential surfaces graded against a fit.
@@ -462,9 +462,9 @@ No names and no history are carried. Back-crediting cannot be done fairly and st
 
 ## 2.7 Two neutrons observed at one core
 
-**Society met.** A lithium-11 nucleus: a lithium-9 core and two neutrons, a halo, observed in a beam by interaction cross-sections, by Coulomb breakup into core and neutrons, and in a trap by its mass.
+**Society reached.** A lithium-11 nucleus: a lithium-9 core and two neutrons, a halo, observed in a beam by interaction cross-sections, by Coulomb breakup into core and neutrons, and in a trap by its mass.
 
-**Members met.** A core and each neutron, each taking its parity at a coupling, and its pair.
+**Members reached.** A core and each neutron, each taking its parity at a coupling, and its pair.
 
 **Upstream — source posited.** A nucleus as a drop with a surface; binding as a content it contains; a neutron as a particle held in a well.
 **Upstream — method executed.** A two-neutron separation energy from mass differences, masses from cyclotron frequencies in a trap; a radius from a cross-section through a reaction model; a dipole strength fitted to breakup.
@@ -495,12 +495,12 @@ No names and no history are carried. Back-crediting cannot be done fairly and st
 
 ## 2.8 Three atoms observed at one scattering length
 
-**Society met.** Three caesium atoms in an ultracold gas where a pair interaction is tuned by a magnetic field; and three helium-4 atoms in a beam, one trimer at a time.
+**Society reached.** Three caesium atoms in an ultracold gas where a pair interaction is tuned by a magnetic field; and three helium-4 atoms in a beam, one trimer at a time.
 
-**Members met.** Each atom, taking its parity at a pair coupling — a scattering length's sign — one at a time.
+**Members reached.** Each atom, taking its parity at a pair coupling — a scattering length's sign — one at a time.
 
 **Upstream — source posited.** A pair interaction as a source of binding; a bound state as a property of a potential; three bodies binding only where pairs do.
-**Upstream — method executed.** Atoms lost from a trap by three-body recombination against a field, a resonance where a trimer's energy meets three free atoms, a scattering length from a resonance map; at helium, each trimer's geometry from momenta of three ions after a Coulomb explosion.
+**Upstream — method executed.** Atoms lost from a trap by three-body recombination against a field, a resonance where a trimer's energy reaches three free atoms, a scattering length from a resonance map; at helium, each trimer's geometry from momenta of three ions after a Coulomb explosion.
 **Upstream — instrument.** A trapped cloud summed over atoms and time; and, separately, one trimer at a time, diffraction-selected, imaged.
 **Upstream — inferencing prior.** That the size of a bound state is a potential's; that attraction is what binds; that a third atom adds to a pair.
 
@@ -528,9 +528,9 @@ No names and no history are carried. Back-crediting cannot be done fairly and st
 
 ## 2.9 A membrane observed at one potential
 
-**Society met.** A cell membrane and ions crossing it — potassium, sodium, chloride — observed by a microelectrode as a resting potential, and by a patch pipette one channel at a time.
+**Society reached.** A cell membrane and ions crossing it — potassium, sodium, chloride — observed by a microelectrode as a resting potential, and by a patch pipette one channel at a time.
 
-**Members met.** Each ion crossing at its own channel, each channel opening and closing at its own between, one at a time.
+**Members reached.** Each ion crossing at its own channel, each channel opening and closing at its own between, one at a time.
 
 **Upstream — source posited.** A membrane as a wall with holes; a pump as what makes a potential; a cell as at rest.
 **Upstream — method executed.** A potential read between an electrode inward and one outward; ions' equilibrium potentials from their concentrations; a reading fitted as a permeability-weighted average of them; single-channel currents recorded from a patch of membrane.
@@ -561,9 +561,9 @@ No names and no history are carried. Back-crediting cannot be done fairly and st
 
 ## 2.10 A node observed at one rate
 
-**Society met.** A sinoatrial node, thousands of cells coupled through low-resistance junctions, observed at an electrocardiogram as one heart rate.
+**Society reached.** A sinoatrial node, thousands of cells coupled through low-resistance junctions, observed at an electrocardiogram as one heart rate.
 
-**Members met.** Each cell firing at its own period, or irregularly, or not at all, each junction carrying current one way at one instant.
+**Members reached.** Each cell firing at its own period, or irregularly, or not at all, each junction carrying current one way at one instant.
 
 **Upstream — source posited.** A master cell that dictates a rate; a pacemaker that drives a heart; an intrinsic rate a node has.
 **Upstream — method executed.** A rate from an interval between beats; cells isolated and their periods measured; a tissue imaged cell by cell for calcium and voltage; a site of earliest activation mapped.
@@ -578,7 +578,7 @@ No names and no history are carried. Back-crediting cannot be done fairly and st
 
 **Any member carrying it.** No. No cell carries a heart rate; cells that would be its leader change.
 
-**Apex standing.** A common period, a rate no isolated cell has and every coupled cell holds.
+**Apex standing.** A common period, a rate no isolated cell has and every coupled cell carries.
 
 **Seam standing.** Junctions, current leaving a leading cell and arriving at a lagging one, both changed, no wall.
 
@@ -594,9 +594,9 @@ No names and no history are carried. Back-crediting cannot be done fairly and st
 
 ## 2.11 A planet observed at one budget
 
-**Society met.** A global carbon budget: fossil and land-use emissions, an atmospheric growth rate, an ocean sink and a land sink, each estimated by its own instrument and summed yearly, a residual published under its own name.
+**Society reached.** A global carbon budget: fossil and land-use emissions, an atmospheric growth rate, an ocean sink and a land sink, each estimated by its own instrument and summed yearly, a residual published under its own name.
 
-**Members met.** Each exchange of carbon at a surface — a leaf, a wave, a chimney, a fire — taking its parity one at a time; each flux a summing over them.
+**Members reached.** Each exchange of carbon at a surface — a leaf, a wave, a chimney, a fire — taking its parity one at a time; each flux a summing over them.
 
 **Upstream — source posited.** A budget that balances; a sink that absorbs; a missing sink to be found.
 **Upstream — method executed.** Emissions from inventories; a growth rate from flask stations; an ocean sink from models and observations; a land sink from vegetation models; a residual computed, under its own name.
@@ -627,18 +627,18 @@ No names and no history are carried. Back-crediting cannot be done fairly and st
 
 ## 2.12 A ring observed at one boundary
 
-**Society met.** The greenish warbler around the Tibetan plateau: populations continuing north from the south along its western and its eastern sides, each interbreeding with an adjacent one all the way round, two northern forms meeting in Siberia and not interbreeding.
+**Society reached.** The greenish warbler around the Tibetan plateau: populations continuing north from the south along its western and its eastern sides, each interbreeding with an adjacent one all the way round, two northern forms reaching each other in Siberia and not interbreeding.
 
-**Members met.** Each population taking its parity at each population it shares with — interbreeding or not — one pair at a time; each bird its song and its plumage.
+**Members reached.** Each population taking its parity at each population it shares with — interbreeding or not — one pair at a time; each bird its song and its plumage.
 
 **Upstream — source posited.** A species as a thing with a boundary; fitness as what determines survival; selection as what acts.
-**Upstream — method executed.** Song recorded around a ring and compared; plumage scored; genomes sequenced and gene flow inferred between adjacent populations; a meeting observed for hybrids.
+**Upstream — method executed.** Song recorded around a ring and compared; plumage scored; genomes sequenced and gene flow inferred between adjacent populations; a reaching of two forms observed for hybrids.
 **Upstream — instrument.** Populations summed into forms; genomes summed into gene-flow estimates.
 **Upstream — inferencing prior.** That a species is bounded; that a boundary is somewhere; that adaptation is a species doing.
 
-**Magnitude observed.** Reproductive isolation between two northern forms where they meet; song and plumage divergence around a ring; gene flow between adjacent populations (nye at values).
+**Magnitude observed.** Reproductive isolation between two northern forms where they reach each other; song and plumage divergence around a ring; gene flow between adjacent populations (nye at values).
 
-**Members agreeing.** Adjacent populations interbreed round a ring, and terminal forms hold apart at their meeting.
+**Members agreeing.** Adjacent populations interbreed round a ring, and terminal forms stay apart where they reach each other.
 
 **Members parting.** No step carries its isolation; every neighbouring pair interbreeds, and a boundary stands at no position. Traits shifted along both arms in their own directions. The 2014 genomes found past breaks in a ring, so continuity is a ring's own history and not a given, and a field entered that as a qualification of its own textbook case.
 
@@ -646,13 +646,13 @@ No names and no history are carried. Back-crediting cannot be done fairly and st
 
 **Apex standing.** A species line, a property of a whole ring and of no place on it.
 
-**Seam standing.** Every pair of adjacent populations, genes crossing both ways at their own rates; a meeting in Siberia one seam that carries no crossing, and it is a ring's.
+**Seam standing.** Every pair of adjacent populations, genes crossing both ways at their own rates; a reaching in Siberia one seam that carries no crossing, and it is a ring's.
 
 **Passing.** Genes arrive in the north from the south while no bird flew a ring.
 
 **Words carried.** The species. The species boundary. Fitness determines survival. Selection acts on the population. The species adapts. Ring species.
 
-**Stripped.** Isolation is what a ring's couplings sum to and no step has; fitness is a population accounting installed as a bird's possession; selection is a field's name for a coupling observed from one side.
+**Stripped.** Isolation is what a ring's couplings arrive at and no step has; fitness is a population accounting installed as a bird's possession; selection is a field's name for a coupling observed from one side.
 
 **Standing in ten.** A between, fixed as a cut — a species boundary fixed as a line somewhere. All ten stand filled; divergence values carry nye.
 
@@ -660,9 +660,9 @@ No names and no history are carried. Back-crediting cannot be done fairly and st
 
 ## 2.13 A web observed at one efficiency
 
-**Society met.** An aquatic food web, observed by feeding and production rates as an efficiency of transfer between trophic levels.
+**Society reached.** An aquatic food web, observed by feeding and production rates as an efficiency of transfer between trophic levels.
 
-**Members met.** Each feeding event taking its parity — eaten, eating — one at a time; each organism at a fractional level.
+**Members reached.** Each feeding event taking its parity — eaten, eating — one at a time; each organism at a fractional level.
 
 **Upstream — source posited.** Energy that flows up a chain; a level an organism is on; a law of ten per cent.
 **Upstream — method executed.** Production rates per level from growth and biomass; a ratio between consecutive levels; fractional trophic levels from diet; a mean over published models.
@@ -693,9 +693,9 @@ No names and no history are carried. Back-crediting cannot be done fairly and st
 
 ## 2.14 A star observed at one count
 
-**Society met.** The Sun's core fusing hydrogen, neutrinos it emits, a solar interior they cross, and detectors on Earth each coupling to a flavour, observed as a count.
+**Society reached.** The Sun's core fusing hydrogen, neutrinos it emits, a solar interior they cross, and detectors on Earth each coupling to a flavour, observed as a count.
 
-**Members met.** Each neutrino arrival, one event at a time, taking at a detector a flavour parity the detector couples to.
+**Members reached.** Each neutrino arrival, one event at a time, taking at a detector a flavour parity the detector couples to.
 
 **Upstream — source posited.** A flux from a core; a fixed flavour at emission; a count that should match a model.
 **Upstream — method executed.** Captures counted in chlorine and gallium over months; recoil electrons in water; charged-current, neutral-current and elastic channels in heavy water; a model's flux from the sun's luminosity and composition.
@@ -726,9 +726,9 @@ No names and no history are carried. Back-crediting cannot be done fairly and st
 
 ## 2.15 A cosmos observed at one rate
 
-**Society met.** Galaxies and light from them — distances by parallax, Cepheids and supernovae, redshifts, and the background radiation's acoustic scale — observed as one rate of expansion today.
+**Society reached.** Galaxies and light from them — distances by parallax, Cepheids and supernovae, redshifts, and the background radiation's acoustic scale — observed as one rate of expansion today.
 
-**Members met.** Each galaxy receding at its own velocity with its own motion; each supernova; each patch of the background.
+**Members reached.** Each galaxy receding at its own velocity with its own motion; each supernova; each patch of the background.
 
 **Upstream — source posited.** A constant the universe has; space that expands; a ladder that climbs to it.
 **Upstream — method executed.** A late ladder, parallax to Cepheids to supernovae, fitting one slope; the early, a sound horizon at last scattering carried forward through a model; two compared.
@@ -759,9 +759,9 @@ No names and no history are carried. Back-crediting cannot be done fairly and st
 
 ## 2.16 A pattern observed one arrival at a time
 
-**Society met.** Electrons from a source through a biprism to a position-sensitive detector, one at a time, a pattern building over tens of thousands of arrivals.
+**Society reached.** Electrons from a source through a biprism to a position-sensitive detector, one at a time, a pattern building over tens of thousands of arrivals.
 
-**Members met.** Each arrival, a flash at one position, taking its parity at a detector one at a time.
+**Members reached.** Each arrival, a flash at one position, taking its parity at a detector one at a time.
 
 **Upstream — source posited.** A little thing that goes one way or the other; a wave that interferes; a duality between them.
 **Upstream — method executed.** A field-emission source, a biprism, a detector counting each arrival; a rate low enough that one electron is in an apparatus at a time; a pattern recorded as its count grows.
@@ -792,9 +792,9 @@ No names and no history are carried. Back-crediting cannot be done fairly and st
 
 ## 2.17 An engine observed one electron at a time
 
-**Society met.** A metallic island holding one extra electron or none, a detector observing which, a gate acting on its observing, and a bath at a stated temperature.
+**Society reached.** A metallic island carrying one extra electron or none, a detector observing which, a gate acting on its observing, and a bath at a stated temperature.
 
-**Members met.** Each electron tunnelling onto or off an island; each measurement; each move of a gate.
+**Members reached.** Each electron tunnelling onto or off an island; each measurement; each move of a gate.
 
 **Upstream — source posited.** A sorter who measures for nothing; information as a fuel; a bound that is always paid.
 **Upstream — method executed.** An island's charge state observed by a single-electron transistor; a gate shifted when an electron is found on one side, work extracted against a bath; a cycle repeated and work per cycle set against kT ln 2 and against measured information.
@@ -825,9 +825,9 @@ No names and no history are carried. Back-crediting cannot be done fairly and st
 
 ## 2.18 A molecule observed at one work
 
-**Society met.** A single RNA hairpin held between two beads in optical tweezers, pulled open and released, hundreds of times, work of each pull recorded.
+**Society reached.** A single RNA hairpin held between two beads in optical tweezers, pulled open and released, hundreds of times, work of each pull recorded.
 
-**Members met.** Each pull, its own trajectory and its own work, one at a time.
+**Members reached.** Each pull, its own trajectory and its own work, one at a time.
 
 **Upstream — source posited.** A free energy a molecule has; a second law that each process obeys; dissipation as waste.
 **Upstream — method executed.** A force–extension curve integrated to a work per pull; a distribution of works over pulls; an exponential average taken to recover an equilibrium free-energy difference; forward and reverse distributions compared.
@@ -858,9 +858,9 @@ No names and no history are carried. Back-crediting cannot be done fairly and st
 
 ## 2.19 A mixture observed at one constant
 
-**Society met.** Hydrogen and iodine forming hydrogen iodide and returning, an equilibrium measured in both directions at the close of the nineteenth century, after esters' from 1862, and exchange at equilibrium observed since by isotopes.
+**Society reached.** Hydrogen and iodine forming hydrogen iodide and returning, an equilibrium measured in both directions at the close of the nineteenth century, after esters' from 1862, and exchange at equilibrium observed since by isotopes.
 
-**Members met.** Each reaction event, forward or reverse, one at a time.
+**Members reached.** Each reaction event, forward or reverse, one at a time.
 
 **Upstream — source posited.** A state a mixture reaches and rests in; a constant a reaction has.
 **Upstream — method executed.** A forward rate measured from pure reactants, the reverse from pure product, a constant computed as their ratio and compared with a composition; labelled atoms followed at equilibrium.
@@ -869,7 +869,7 @@ No names and no history are carried. Back-crediting cannot be done fairly and st
 
 **Magnitude observed.** Two rate constants; an equilibrium constant; its movement with temperature (nye at values).
 
-**Members agreeing.** A ratio of rate constants matches a composition, and the composition holds while labels cross.
+**Members agreeing.** A ratio of rate constants matches a composition, and the composition stands while labels cross.
 
 **Members parting.** Labelled atoms cross both ways while a composition stands; no molecule is at equilibrium; a constant moves with temperature by a field's own equation.
 
@@ -891,9 +891,9 @@ No names and no history are carried. Back-crediting cannot be done fairly and st
 
 ## 2.20 A protein observed at one melting point
 
-**Society met.** A small protein unfolding as temperature rises, observed by calorimetry as a heat-capacity curve with a midpoint, and by single-molecule fluorescence as two populations exchanging.
+**Society reached.** A small protein unfolding as temperature rises, observed by calorimetry as a heat-capacity curve with a midpoint, and by single-molecule fluorescence as two populations exchanging.
 
-**Members met.** Each molecule, folded or unfolded at each moment, crossing at its own time.
+**Members reached.** Each molecule, folded or unfolded at each moment, crossing at its own time.
 
 **Upstream — source posited.** A native state a protein is; a melting point it has.
 **Upstream — method executed.** A curve's midpoint taken as a melting temperature; an enthalpy from a curve's area and again from its steepness, two compared as a test of two states; single molecules watched crossing.
@@ -924,9 +924,9 @@ No names and no history are carried. Back-crediting cannot be done fairly and st
 
 ## 2.21 An enzyme observed at one turnover
 
-**Society met.** A single enzyme molecule turning over substrates one at a time, each turnover a flash, observed over thousands of turnovers.
+**Society reached.** A single enzyme molecule turning over substrates one at a time, each turnover a flash, observed over thousands of turnovers.
 
-**Members met.** Each turnover, its own waiting time.
+**Members reached.** Each turnover, its own waiting time.
 
 **Upstream — source posited.** A machine with a stroke; a rate constant an enzyme has.
 **Upstream — method executed.** Waiting times between flashes recorded; their distribution and their correlations; an ensemble's curve compared with a single molecule's.
@@ -957,9 +957,9 @@ No names and no history are carried. Back-crediting cannot be done fairly and st
 
 ## 2.22 A body observed at one week of glucose
 
-**Society met.** A healthy person wearing a continuous glucose monitor for days, its trace observed against a fasting sample and a reference interval.
+**Society reached.** A healthy person wearing a continuous glucose monitor for days, its trace observed against a fasting sample and a reference interval.
 
-**Members met.** Each reading every few minutes; beneath it each crossing of glucose into and out of blood.
+**Members reached.** Each reading every few minutes; beneath it each crossing of glucose into and out of blood.
 
 **Upstream — source posited.** A level a body holds; a normal range; a set point.
 **Upstream — method executed.** Readings every few minutes for days; mean, spread, time within a range; a fasting sample; an interval from a reference population.
@@ -1006,7 +1006,7 @@ No names and no history are carried. Back-crediting cannot be done fairly and st
 
 **What each pass is looking for.** Similar instantiations of ten, at unlike grains, in fields sharing no instrument. Where the same ten fill at substrates that do not cite each other, a pattern stands. Where a line stays empty under further record, that emptiness is a collection's most valuable single entry.
 
-**So far, and not yet.** Four entries stand: three substrates filled at all ten, the third at a perceiving self, and the fourth at a vacuum's counting, a vantage observed at theorem grade. One left two lines empty and carries a nye. Substrates above stand unworked, arriving at their own turns.
+**Existing, and possibling.** Four entries stand: three substrates filled at all ten, the third at a perceiving self, and the fourth at a vacuum's counting, a vantage observed at theorem grade. One left two lines empty and carries a nye. Substrates above stand unworked, arriving at their own turns.
 
 A fifth stands at 2.6, the first to arrive through the door at TWENTY-SEVEN 7.5 and the first observed at one society rather than summed, its two waters swapping roles under a tip. Two more stand at 2.7 and 2.8, one pattern at two grains — three bound where no two are — at a nucleus and at cold atoms, in fields sharing no instrument, which is a recurrence a collection is looking for, at this Part. Three more stand at 2.9 to 2.11, at a phospholipid, a tissue and a planet, each carrying a residual word a field uses verbatim — leak, variability, imbalance — and at 2.10 a ghost a field released twice in its own record. Two more stand at 2.12 and 2.13, at a species and an ecosystem, and 2.14 and 2.15 at the sun and the cosmos, so that one entry now stands at every row of a nesting table from the vacuum to the sky. Two above the planet carry the same observing as a vacuum at 2.5 — a count was a vantage's — and 2.15 is the first arrival entered with two findings, a nye and an emptiness, which the door now admits. Two societies of state science stand at 2.16 and 2.17, each observed one member at a time: a pattern that exists at no arrival, and an engine whose fuel is a correlation owned by neither side. Five stand at 2.18 to 2.22 beneath ghosts entered at TWENTY-SEVEN — a pulled molecule, a mixture, a melting protein, a single enzyme and a monitored body — each a society its ghost was observed across, so that entry and arrival now address each other in both directions for every ghost the door has caught.
 

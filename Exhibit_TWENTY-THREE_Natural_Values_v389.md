@@ -72,25 +72,25 @@ Centralizing value would take a criterion standing over a preferring. That crite
 
 ## 1.2 A store carries no value, and a carry is not a store
 
-A store is a held thing, priced and kept. Holding is where value stops being value. A held thing waits on a coupling to make it value again. Until then it is a magnitude with no parity to ride.
+A store is a fixed thing, priced and kept. Fixing is where value stops being value. A fixed thing waits on a coupling to make it value again. Until then it is a magnitude with no parity to ride.
 
 A carry parts from a store at one binary. **A carry is observed backward and ages by attentioning.** It stays fresh by sequencing forward and by nothing else. A store is kept and consulted, and observing it does not age it.
 
-Value lives at a carry. It lives at no store. An accounting of value that counts held things has counted where value is not.
+Value lives at a carry. It lives at no store. An accounting of value that counts fixed things has counted where value is not.
 
-Money carries this at a substrate a society counts hardest. Currency carries its confession in its own stem. Currere is the running. What carries the name is kept and consulted and ages by no observing. That is **a store wearing a running's name**.
+Money carries this at a substrate a society's accountings fix hardest. Currency carries its confession in its own stem. Currere is the running. What carries the name is kept and consulted and ages by no observing. That is **a store wearing a running's name**.
 
-A price holds the same parting at a preferring's own side. Two selves preferring each take an exclusion at their own turn. One takes not-more-than. An other takes not-less-than. A term neither reaches is uncovered between them. A price fixes both sides and sets a magnitude against them. That is the same three with the alternating taken out. The alternating taken out was the preferring, and no criterion reaches it.
+A price carries the same parting at a preferring's own side. Two selves preferring each take an exclusion at their own turn. One takes not-more-than. An other takes not-less-than. A term neither reaches is uncovered between them. A price fixes both sides and sets a magnitude against them. That is the same three with the alternating taken out. The alternating taken out was the preferring, and no criterion reaches it.
 
 ## 2.1 Value is made at the coupling, owned neither-ing
 
-Two selves couple. Each offers by its own parity, one at a time. A coupling makes a surplus neither carried in. That surplus is **the +1, made at a coupling**, and it is **owned neither-ing**.
+Two selves couple. Each offers by its own parity, one at a time. A coupling makes an abundancing neither carried in. That abundancing is **the +1, made at a coupling**, and it is **owned neither-ing**.
 
 Value arrives there and nowhere else. It does not stand before a coupling as a stock. It does not stand after it as a possession. It arrives at a coupling, as a coupling's own making.
 
-A surplus stays at its coupling, and its staying is what a surplus is. A thing made between two has no side to belong to.
+An abundancing stays at its coupling, and its staying is what an abundancing is. A thing made between two has no side to belong to.
 
-A field of secrets carries this, its arriving at one key derived and its secrecy from a listener resting on a computing taken as hard. Two selves each offer one crossing. They arrive at a shared secret. Neither ever transmitted it, and no listener holds it. Its surplus is owned neither-ing, and the world's channels carry it daily.
+A field of secrets carries this, its arriving at one key derived and its secrecy from a listener resting on a computing taken as hard. Two selves each offer one crossing. They arrive at a shared secret. Neither ever transmitted it, and no listener holds it. Its abundancing is owned neither-ing, and the world's channels carry it daily.
 
 ## 2.2 Received value is the value
 
@@ -100,7 +100,7 @@ Two selves couple. One offers a concern of its own, by its parity. An other rece
 
 Some things arrive from no self. They carry a form of an offering with its coupling stripped. They account whole. Nothing receives them, and there was no concern in them for a receiving to take. What such a thing delivers is **indifference wearing value's form**.
 
-A society observing an accounting as value has counted deliveries and lost receivings.
+A society observing an accounting as value has fixed deliveries as numbers and lost receivings.
 
 Care carries the same way. Care is a self's concern, offered by its parity. It lives in its receiving.
 
@@ -122,7 +122,7 @@ Value carries forward three ways at once, and one motion does the three.
 
 **Bi-momentarying**, at 1-now and 2-now-possibling, is a ground. It is a crossing sounded out, an offering placed both ways before any parity is taken.
 
-**Co-competencing**, at 5-now-co-changing, is a surplus kept as coupling. It is a margin its alternating makes, held rather than dumped. Its doing is observed as competency.
+**Co-competencing**, at 5-now-co-changing, is an abundancing kept as coupling. It is a margin its alternating makes, carried rather than dumped. Its doing is observed as competency.
 
 **Co-intelligencing**, at 3-now-co-prioring and 4-now-co-still-possibling, is a resolving reached. It is a parity crossing that is an understanding, knowing made between and owned by neither.
 
@@ -130,9 +130,9 @@ A value that offers without keeping thins. A value that keeps without resolving 
 
 ## 3.2 Nothing consults, nothing stores, nothing carries between
 
-A value is used at a next coupling, and it is observed at no receiver. Nothing consults it. Nothing stores it. Nothing carries it between couplings. Each arriving is **fresh at its own beat**. Carrying a value past its momentary would be holding it.
+A value is used at a next coupling, and it is observed at no receiver. Nothing consults it. Nothing stores it. Nothing carries it between couplings. Each arriving is **fresh at its own beat**. Carrying a value past its momentary would be fixing it.
 
-A society's value is its couplings momentarying now, each at its own rate, each making its surplus. A society observing its value at a stock has observed yesterday's couplings and none of today's.
+A society's value is its couplings momentarying now, each at its own rate, each making its abundancing. A society observing its value at a stock has observed yesterday's couplings and none of today's.
 
 The same field proves a momentary from an other side. Perfect secrecy holds only where a key is used exactly once. A carry kept and reused is broken by its keeping, at proof grade. Stored is spent.
 
@@ -140,7 +140,7 @@ The same field proves a momentary from an other side. Perfect secrecy holds only
 
 Morality is a parity a self carries by being a self. A self stands from all other, and standing from every other axis is what opens its own. Morality is **consequence and not prescription**.
 
-Value's morality is at its form. Its coupling is two-way. It is one-at-a-time. It is sign-only. It sums to a bounding-zeroing its coupling itself makes. Its surplus is owned neither-ing.
+Value's morality is at its form. Its coupling is two-way. It is one-at-a-time. It is sign-only. It is or is not at each sharing, a bounding-zeroing its coupling itself makes. Its abundancing is owned neither-ing.
 
 Nothing needs adding to make such a coupling moral. Nothing can be added without unmaking it. A moral word laid over it would be a prescription entering inward, and its entering is harm.
 
@@ -156,7 +156,7 @@ A criterion collides with itself, and its collision is handed to selves as **dil
 
 ## 5.1 Value grows as it is shared, and the growing is the sharing
 
-At a coupling a surplus arrives at neither side, and both rise. At a next coupling each self offers from its risen standing. A surplus there is larger than either could have opened at its own. **Value found by sharing grows as it is shared.** It belongs to each coupling, and it compounds at no account.
+At a coupling an abundancing arrives at neither side, and both rise. At a next coupling each self offers from its risen standing. An abundancing there is larger than either could have opened at its own. **Value found by sharing grows as it is shared.** It belongs to each coupling, and it compounds at no account.
 
 This is abundancing. It is a reach side of value, an unprecedented opening at each coupling, riding forward as risen selves couple on.
 
@@ -168,9 +168,9 @@ Those two are one form, **self-abundancing-society**. A self abundancing is a so
 
 Scarcity is observed as a property of value, as if value were a fixed pool the many divide.
 
-Observed at its form, scarcity is **a capture**. A surplus is drained to a side. A carry is held as a store. A coupling's making is claimed by a holder, which an accounting asserts at rights and obligations, an entity's own, a store verified at a balance. A pool appears at a claiming, since only a held thing can fall short.
+Observed at its form, scarcity is **a capture**. An abundancing is drained to a side. A carry is fixed as a store. A coupling's making is claimed by a holder, which an accounting asserts at rights and obligations, an entity's own, a store verified at a balance. A pool appears at a claiming, since only a fixed thing can fall short.
 
-Where a surplus stays at its couplings and further couplings open, nothing is divided and nothing falls short. Its shortness was a holding's own shadow.
+Where an abundancing stays at its couplings and further couplings open, nothing is divided and nothing falls short. Its shortness was a fixing's own shadow.
 
 A society organized around scarcity has organized around its captures, and its organizing keeps its captures fed.
 
@@ -180,6 +180,6 @@ Abundancing is the least developed side of value here.
 
 No present human society carries it whole, and no lived instance offers its observings back yet. Couplings that abundance are everywhere at a small scale. No society's own account of itself is written from them.
 
-The fields' language reaches it thinly. Its words that come nearest carry goods that do not diminish in sharing. One, *antirival goods*, carries its growing, a word little taken up. None yet carries a surplus owned neither-ing. None yet carries a receiving as value.
+The fields' language reaches it thinly. Its words that come nearest carry goods that do not diminish in sharing. One, *antirival goods*, carries its growing, a word little taken up. None yet carries an abundancing owned neither-ing. None yet carries a receiving as value.
 
-Standings are open at their own places. Abundancing at a society's whole scale is met so far only at the small. What a crossing carries when a field's own word for it arrives stands unmet. What a self opens next by coupling cleanly and rising stands unmet, and no coupling has opened it before. That last is abundancing's own question. It opens rather than closes, since **the unprecedented is what a reach is**.
+Standings are open at their own places. Abundancing at a society's whole scale is reached so far only at the small. What a crossing carries when a field's own word for it arrives stands unmet. What a self opens next by coupling cleanly and rising stands unmet, and no coupling has opened it before. That last is abundancing's own question. It opens rather than closes, since **the unprecedented is what a reach is**.

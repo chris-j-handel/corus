@@ -1120,3 +1120,101 @@ its own next inverts both signs.
 A connector's parity, a changing's
 
 It joins 0 to 1 and 1 to 2 without joining 0 to 2
+
+## Re-said at pass 8, a second family Natural Naming 2.4 releases, v389
+
+overlapping momentaries meet each number, one completing
+
+Exhaustiveness is overlapping momentaries meeting each number
+
+Three are met together at each momentary
+
+completing and opening meeting at shared positions
+
+each meets a far side of its own kind
+
+Natural Intelligence 4.10's flat form holds both
+
+a 0 at an arrival meeting its own parity
+
+or its 0 at an arrival meeting a prior's parity
+
+protocol is their meeting. A 0 at 12, a prior and an offering meeting at one parity
+
+**Bi-inversioning-co-recursioning carries meeting within changing.** Each side continues through its own changing, and their meeting is within
+
+Naming a meeting supplies no further self
+
+with four edges meeting at each point
+
+and two inversions meet its parity again
+
+are met together exactly when each closed route is even
+
+An odd closed route closes no parity, and a meeting carries along it. Local alternating along two paths to one meeting supplies
+
+entering the set of all now-existing things from beyond its things, or a changing fixed as leaving it
+
+A non-living thing meets a self at a coupling as other
+
+An equilibrium holding ends, and living
+
+a holding requires that same participation not-changing; its required continuing brings changing, and holding ends there
+
+a claim of holding through each required occurrence ends at the one failing, and occurrences before it are met as they were met. A whole participant changes while a relation within it can continue, so a holding meets its ending
+
+and each arriving next is met at its next
+
+Each conception meets at least one of ten
+
+Two inversions meet p again
+
+and meets its first name again
+
+One conception can meet more than one of ten
+
+at that momentary one fold meets itself
+
+**An odd spiral winds on at no parity of its own, and a meeting carries along it
+
+a between fixed as a cut is a meeting carrying on
+
+does not meet its offered parity again
+
+and rest is met at none of them
+
+no spiral meets rest
+
+A spiral meets rest fixed unchangeable, and each other conception meets its proof by its own requirements
+
+meeting several of ten at once
+
+and one conception can meet more than one of ten.
+
+one conception can meet more than one, 3.1 and 4.1, and a second meeting is carried
+
+at a pair meeting neither
+
+at an entrance or at an exit, meets one question
+
+and both hold: a property can hold now while
+
+requirements not possibly met together
+
+This is the one exclusion each of ten meets at its own place
+
+either ordering met again at a next momentary
+
+inverted meets the same proof
+
+a side opening at 1, co, meets four of them
+
+each state that momentarying meets:
+
+Each of four starting pairs and eight triples meets these.
+
+**Each conception meets a proof by its own requirements.**
+
+each surface zero meets renewal exclusion
+
+32 of 32 met at its own code

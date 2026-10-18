@@ -49,3 +49,7 @@ Defect: Living Society Registry, 1.10 missing; Part Three's status paragraph sta
 **Concern · at a sentence.** Beside "Three door lines — surplus, bound and reach: the self's own surfacing and inseparating, and the society's torusing with"…
 
 *Standing at v389:* At 1.2 three door lines stand "in Exhibit ONE's names" of v347: "the self's own surfacing and inseparating, and the society's torusing with nothing above it". At Exhibit ONE v389, 14-next-possibling is "offerings surfacing at each sharing" and 16-next-still-possibling "a society: each self with its prior and its offerings"; Natural Naming 2.4 carries *surplus* as *abundancing*, 12-next-co-still-possibling. *Inseparating* and *reach* meet no numbered name. **To resolve:** are three door lines re-said at 12, 14 and 16, or does each wait for TWENTY-SEVEN's own motion at its door?
+
+**Concern · at a sentence.** Beside "Three door lines — surplus, bound and reach"
+
+*Standing at v389:* "Three door lines — surplus, bound and reach" (Living Society Registry 1.2, Arriving through the door) names a door line whose own name stands at each Living Ghost Registry entry, "**6 · surplus.**", a v345a file this pass does not reach. Carried as abundancing here and not there, two files would give one door line two names. **To resolve:** carry both together at Living Ghost Registry's own pass, or carry it here now as "abundancing (door line 6, surplus)"?

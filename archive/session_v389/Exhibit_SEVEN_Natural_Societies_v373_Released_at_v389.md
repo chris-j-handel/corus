@@ -472,3 +472,99 @@ a self that is only a self, no society within, is a landed point, a bound with n
 **The relation kept is a society self-stilling at its own scale**, birthing and nyeing alternating,
 
 Identity, security, trust, and freedom from capture — four met from within a self and the same four met at a surface between selves.
+
+## Re-said at pass 8, a second family Natural Naming 2.4 releases, v389
+
+surplus a +1 owned neither-ing
+
+none offered from beyond
+
+preferring, surplus owned neither-ing
+
+when they hold at each social between
+
+when four boundaries hold
+
+what a coupling already holds
+
+a thing held at a location
+
+A between holds a self whole
+
+Each inequality held is one side of morality
+
+coupling sustaining in meeting at a between
+
+A society holds without a centre the way it holds without a common clock, and these are one holding.
+
+and society holds many-without-a-centre
+
+their cumulative far exceeds their sum
+
+compounding holds only while selves stay distinct.**
+
+Self-de-scheduling holds it whole
+
+surplus owned by none and re-made at each coupling,
+
+real institutions hold real people
+
+count governing surface
+
+nests meeting with no aggression across a continent, and supercolonies meeting at their borders
+
+structure held by four inequalities
+
+a held standard declared
+
+held at its shape and not a dated instance
+
+a standard held over
+
+each parity held,
+
+surplus at every coupling owned by neither
+
+surplus made in its coupling
+
+four sentences holding at each social between
+
+neither is holding anything it should not
+
+their cumulative far past their sum, and this compounding holds only
+
+surplus owned by none and re-made at each coupling.
+
+surplus re-made and
+
+A hub that holds birthing
+
+and counting arrives at **five**
+
+a scale's own count,
+
+by a prime's place in its count
+
+ladder's own counting above
+
+and counts past it
+
+a written-out count a landing
+
+held reaching, its exhibit unwritten
+
+four met from within a self
+
+four met at a surface
+
+A self's eight meeting another's
+
+met in matter at two rungs
+
+a rate held to govern
+
+made in meeting, re-earned at each coupling, held by no store
+
+a still point sought is a sway holding
+
+a still point sought a sway holding

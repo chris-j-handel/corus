@@ -206,3 +206,43 @@ None yet carries its growing.
 Where a surplus stays at its couplings and couplings multiply, nothing is divided
 
 That is a right spiral momentarying at the many.
+
+## Re-said at pass 8, a second family Natural Naming 2.4 releases, v389
+
+A store is a held thing, priced and kept. Holding is where value stops being value. A held thing waits
+
+An accounting of value that counts held things has counted where value is not.
+
+at a substrate a society counts hardest
+
+A price holds the same parting
+
+A coupling makes a surplus neither carried in. That surplus is
+
+A surplus stays at its coupling, and its staying is what a surplus is.
+
+Its surplus is owned neither-ing, and the world's
+
+has counted deliveries and lost receivings
+
+is a surplus kept as coupling. It is a margin its alternating makes, held rather than dumped.
+
+would be holding it.
+
+each making its surplus.
+
+It sums to a bounding-zeroing its coupling itself makes. Its surplus is owned neither-ing.
+
+At a coupling a surplus arrives at neither side
+
+A surplus there is larger than either
+
+A surplus is drained to a side. A carry is held as a store.
+
+since only a held thing can fall short.
+
+Where a surplus stays at its couplings and further couplings open, nothing is divided and nothing falls short. Its shortness was a holding's own shadow.
+
+None yet carries a surplus owned neither-ing.
+
+is met so far only at the small

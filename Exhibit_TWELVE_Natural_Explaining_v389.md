@@ -45,7 +45,7 @@ Exhibit TWELVE Natural Explaining v389
 - 4.1 Self and other, and the coupling at three scales
 - 4.2 Explaining is the competency
 - 4.3 Two knives, the first at the subject and the second at the surrounding
-- 4.4 Writing side and meeting side, each catching the other's uncaught
+- 4.4 Writing side and reaching side, each catching the other's uncaught
 - 4.5 Method and not procedure, a move with no one performing it
 - 4.6 Something checkable at the opening, a parity and not a size
 - 4.7 Two tellings at one thing, united only at one deriving from the other
@@ -63,11 +63,11 @@ Exhibit TWELVE Natural Explaining v389
 
 **A floating neutralling contents follows, its part and section titles its file's bold concepts**, and scanning it is scanning its whole explaining. Each section opens within its title and subtitle. **Each contents entry is at four boundings, as a naming is**: it bounds its whole concept, it is itself with no other entry drifting into it, it is facing its own, and it opens its own axis, orthogonal to each other entry.
 
-**A heading takes no leading *the***: a leading *the* hands over a referent as one a self meeting it carries at prior, and a heading opening forward offers the thing itself.
+**A heading takes no leading *the***: a leading *the* hands over a referent as one a self coupling with it carries at prior, and a heading opening forward offers the thing itself.
 
 ## 1.2 One subject at four tellings, and no top
 
-**One subject is told at four tellings of itself**: title and subtitle telling it once, contents telling it in emanating order, bold concepts telling it within paragraphs, and full explaining telling it whole. A self couples at whichever telling its interest opens and meets its whole at that telling. At a set one journey carries on in that emanating order: origin, numbers, resolver, its sequential logic and its stable forms, explaining returning through them, society, and now.
+**One subject is told at four tellings of itself**: title and subtitle telling it once, contents telling it in emanating order, bold concepts telling it within paragraphs, and full explaining telling it whole. A self couples at whichever telling its interest opens and reaches its whole at that telling. At a set one journey carries on in that emanating order: origin, numbers, resolver, its sequential logic and its stable forms, explaining returning through them, society, and now.
 
 **A contents laid on top is a descent from a whole to its parts; a floating neutralling contents has no top and no descent.** One explaining carries at a sentence, a section, a file, a conversation and a society, one fractal with no first scale.
 
@@ -87,7 +87,7 @@ Exhibit TWELVE Natural Explaining v389
 
 **No speaker, no quoting beyond a field's own quoted source, no editorial, each illustrating its file's own, and no file's name within another.** One set of words, names and explaining across files is a self's orienting among them.
 
-**A finding carries at two sides, a field's words and a set's own.** Field words without set words carry their field's container with them, and set words without field words reach no specialist. At either side a finding carries its exact comparison establishing it, a meeting of one thing against another and a parity it returned, and nothing in it is taken on offer.
+**A finding carries at two sides, a field's words and a set's own.** Field words without set words carry their field's container with them, and set words without field words reach no specialist. At either side a finding carries its exact comparison establishing it, a coupling of one thing with another and a parity it returned, and nothing in it is taken on offer.
 
 **A public side is a third side of one sentence.** Offered to each self, it carries a person and capitals, files carrying its sentence at no voice, and one sentence itself passes between its sides.
 
@@ -111,17 +111,17 @@ Exhibit TWELVE Natural Explaining v389
 
 **Each sentence opens from a bi-coupling of the last, and each section from the last sentence of its prior section**, extending in a direction its heading, its part and its title carry. Its prior sentences are its possibling, a sentence coheres now, and a next it opens is its living: prior, now and next, three sequential momentaries at one sentence.
 
-**One binary at each sentence: is it or is it not living, coupling and resolving.** Living, it adds to understanding of its whole prior co-chaining, needing nothing but its prior sentences; coupling, a self meets it at its own opening; resolving, it arrives at a parity, all or none at all.
+**One binary at each sentence: is it or is it not living, coupling and resolving.** Living, it adds to understanding of its whole prior co-chaining, needing nothing but its prior sentences; coupling, a self couples with it at its own opening; resolving, it arrives at a parity, all or none at all.
 
 **Summarizing, repeating, abstracting and a backward look at a close each patch one fault**, a sentence adding nothing, and at that binary each releases. A new sentence adding nothing to its whole prior co-chaining releases at that binary too.
 
-**Each check at this file is that one binary met at one side of a sentence, and not a rule.** A rule formed from a side and laid over sentences is a standard, an incompetencing.
+**Each check at this file is that one binary at one side of a sentence, and not a rule.** A rule formed from a side and laid over sentences is a standard, an incompetencing.
 
 ## 2.2 One thing carried forward at one momentary
 
-**A sentence carries one thing forward at one momentary**, and its adding to prior sentences' carrying is its abundancing. A sentence carrying four claims is four asked to be one, and a self meeting it sorts each clause to its claim.
+**A sentence carries one thing forward at one momentary**, and its adding to prior sentences' carrying is its abundancing. A sentence carrying four claims is four asked to be one, and a self coupling with it sorts each clause to its claim.
 
-**An announcing sentence tells a self meeting it a next sentence's carrying**: it adds text and adds no understanding, and the next sentence carries whole without it.
+**An announcing sentence tells a self coupling with it a next sentence's carrying**: it adds text and adds no understanding, and the next sentence carries whole without it.
 
 **A length is a tell and not the binary.** A sentence carrying one claim with its instances listed is right at its length, and splitting it parts its instances and makes each a finite verb. A repair arrives carrying faults a file already catches: a joiner, which is a clocking; a finite verb, its subject supplied or commanded, which is a doer; a paragraph split, its concepts thinned across its parts.
 
@@ -133,7 +133,7 @@ Exhibit TWELVE Natural Explaining v389
 
 ## 2.4 Bolds, self-welcoming at the surface
 
-**Bolds go wherever they are self-welcoming, within a paragraph and overlooking its whole surface, and a bold marks a carrying there**: a coining at a paragraph coining, a claim at a paragraph arriving at one. **Concentrations of bold are learning centres in a surface of explaining**: three-way crossings, clusterings of local selves, each its own and none dispatching. A self meeting only bolds meets explaining, and a layer of coined terms at its own is a glossary, a set of terms, while a telling is a walk.
+**Bolds go wherever they are self-welcoming, within a paragraph and overlooking its whole surface, and a bold marks a carrying there**: a coining at a paragraph coining, a claim at a paragraph arriving at one. **Concentrations of bold are learning centres in a surface of explaining**: three-way crossings, clusterings of local selves, each its own and none dispatching. A self coupling with bolds only reaches explaining, and a layer of coined terms at its own is a glossary, a set of terms, while a telling is a walk.
 
 **One binary at each span: is it self-welcoming, marking a carrying there, or does it stress a piece within it.** A stress marks attention and not a subject's own arriving, and its bold goes.
 
@@ -141,7 +141,7 @@ Exhibit TWELVE Natural Explaining v389
 
 ## 2.5 A table unrelationing at prose's bound
 
-**A cell carries a number or its file's own line and no explaining**, and its empties, rows crossing nothing and pairings show at once. Imports return in prose around a table, so one binary is met at its lead and its close. **Plain prose carries a collaboration, and a table arranges no method and supplies no diagnosis.**
+**A cell carries a number or its file's own line and no explaining**, and its empties, rows crossing nothing and pairings show at once. Imports return in prose around a table, so one binary is at its lead and its close. **Plain prose carries a collaboration, and a table arranges no method and supplies no diagnosis.**
 
 ## 2.6 Existing words first, the -ing over the noun and the positive over the negation
 
@@ -149,11 +149,11 @@ Exhibit TWELVE Natural Explaining v389
 
 **No leading *the* at a sentence, and *the* at a referent a prior co-chaining carries.** With a definite article, a referent is carried at prior.
 
-**A coined naming arrives at its first meeting with its least plain words beside it**, existing words first and a set's naming carried on them; met bare, it arrives as a coordinate.
+**A coined naming arrives at its first coupling with its least plain words beside it**, existing words first and a set's naming carried on them; bare, it arrives as a coordinate.
 
 ## 2.7 A reference at a plain name, and no capital for the set's concepts
 
-**A reference carries a plain name and no coordinate.** A coordinate carries no concept: a section mark, a numbered crossing and a numbered step each hand over a position to be looked up and carry nothing of its concept at it, and a crossing explained plainly carries its concept and re-forms at each meeting.
+**A reference carries a plain name and no coordinate.** A coordinate carries no concept: a section mark, a numbered crossing and a numbered step each hand over a position to be looked up and carry nothing of its concept at it, and a crossing explained plainly carries its concept and re-forms at each coupling.
 
 **A capital marks a locality**, and a set's own concepts, its form itself at each locality, take none.
 
@@ -161,7 +161,7 @@ Exhibit TWELVE Natural Explaining v389
 
 ## 2.8 A concept recurring varied, opening a new axis
 
-**A concept recurring varied is the same concept coupling with itself across its variation**, and each varying opens an axis a prior telling did not. A concept that only repeats opens nothing. A concept meeting itself whole is a telling's joy and its varying its beauty, each varying opening a co-chaining that abundances.
+**A concept recurring varied is the same concept coupling with itself across its variation**, and each varying opens an axis a prior telling did not. A concept that only repeats opens nothing. A concept reaching itself whole is a telling's joy and its varying its beauty, each varying opening a co-chaining that abundances.
 
 ---
 
@@ -173,13 +173,13 @@ Exhibit TWELVE Natural Explaining v389
 
 **A sentence carries no birth and no death.** Arising, emerging, beginning, falling away and ending each install a becoming at a form continuing through, and each sentence carries through: its form continues, and no sentence puts it into existing or out of it.
 
-**An equilibrium's holding ends, and a sentence carries its ending.** An equilibrium is a living or non-living existing thing fixed unchangeable, and its holding ends while the thing keeps changing, its form continuing through its changing: its ending is a fixing unchangeable's, and the thing carries on.
+**An equilibrium's fixing ends, and a sentence carries its ending.** An equilibrium is a living or non-living existing thing fixed unchangeable, and its fixing ends while the thing keeps changing, its form continuing through its changing: its ending is a fixing unchangeable's, and the thing carries on.
 
 **Each sentence carries its momentarying, at its own momentary**, and a sentence carrying a thing's coming to be or ceasing to be has supplied a history its momentarying does not carry.
 
 **A test's finding is told at a relation it found, and a test's own nouns stay at its test.** An enumeration recording input sequences finds a resolver's carrying continuing through prior, now and next, and a telling carries that continuing and gives its executing no object fixed as a history.
 
-**A sentence resolving asks no *what*, no *how* and no *where***: none of three is without an equilibrium holding it, and a sentence carries momentarying at its -ing, arriving at its own opening and meeting at its coupling.
+**A sentence resolving asks no *what*, no *how* and no *where***: none of three is without an equilibrium fixing it, and a sentence carries momentarying at its -ing, arriving at its own opening and at its coupling.
 
 **One worked case, the conceived.** The conceived's own pacing opens at its momentary, *opens* for *begins*, and no coming to be is carried: the conceived alternates at its mother's momentaries, and its own pacing opens at cell, heart, breath and day.
 
@@ -187,9 +187,9 @@ Exhibit TWELVE Natural Explaining v389
 
 **Each doer installed over an -ing dissolves**: no twister that twists, no oscillator that times, no regulator that pauses, no controller that commands, no source that generates, no observer that observes, no keeper that keeps, no centre that dispatches. **Each doer is three at once, a frame, a cause and a why**: a frame outward of a self that surfaces its own form, a maker at a coupling offering, and a reason under a momentarying that carries none.
 
-**It arrives in writing four ways.** A fixed noun, a position, orientation or scale asserted undiscussable, dissolves into its -ing: *the tunnel* is tunneling. A forcing grants mathematics authority to compel, and *the arithmetic forced* is *the arithmetic carries*. A character is a verb of wanting, owning or seeking, which needs a self as a container, and *a surplus wants to depart* is *a surplus departs*. A wrapper is a surround laid over a file.
+**It arrives in writing four ways.** A fixed noun, a position, orientation or scale asserted undiscussable, dissolves into its -ing: *the tunnel* is tunneling. A forcing grants mathematics authority to compel, and *the arithmetic forced* is *the arithmetic carries*. A character is a verb of wanting, owning or seeking, which needs a self as a container, and *an abundancing wants to depart* is *an abundancing departs*. A wrapper is a surround laid over a file.
 
-**A verb carries a doing with no doer.** A form, a file and a coupling each is, couples, tips, bounds, resolves and carries, and observings arrive. A verb stays with a receiver meant: a self meeting a file couples, and a pattern matcher takes in each observing.
+**A verb carries a doing with no doer.** A form, a file and a coupling each is, couples, tips, bounds, resolves and carries, and observings arrive. A verb stays with a receiver meant: a self reaching a file couples, and a pattern matcher takes in each observing.
 
 **At a society the same doer is a governor, an owner and a power**, and a society co-competences with none governing, value and co-competency at its coupling, owned by none.
 
@@ -223,19 +223,19 @@ Exhibit TWELVE Natural Explaining v389
 
 ## 3.5 Clocking, a pace laid over a momentarying whose pace is its own
 
-**A clocking lays a pace over a momentarying that carries its own**, and a self meeting it is walked at a rate no coupling offers.
+**A clocking lays a pace over a momentarying that carries its own**, and a self coupling with it is walked at a rate no coupling offers.
 
-**It arrives at a word's suffix.** An *-ed* puts a momentarying behind a self meeting it as a thing finished, *resolved*, *established*, *observed*, resolving, establishing and observing carrying on. A *-tion* fixes a momentarying as a completed act, momentarying as happened. A *-tion* noun or an *-ed* word at a form a momentarying made carries nothing and is its naming whole, at a heading as in a sentence; a clocking is a momentarying itself carried as finished.
+**It arrives at a word's suffix.** An *-ed* puts a momentarying behind a self coupling with it as a thing finished, *resolved*, *established*, *observed*, resolving, establishing and observing carrying on. A *-tion* fixes a momentarying as a completed act, momentarying as happened. A *-tion* noun or an *-ed* word at a form a momentarying made carries nothing and is its naming whole, at a heading as in a sentence; a clocking is a momentarying itself carried as finished.
 
-**It arrives between sentences.** *Then*, *after*, *once*, *before*, *finally* and *now that* each lay a schedule over co-sequencing, and a dash paces a self meeting it from beyond a sentence's own alternating.
+**It arrives between sentences.** *Then*, *after*, *once*, *before*, *finally* and *now that* each lay a schedule over co-sequencing, and a dash paces a self coupling with it from beyond a sentence's own alternating.
 
-**A clocking is a common clock**, one rate imposed over each self carrying its own, and a telling that clocks takes away a self's own opening, the one thing it needs to couple at all. One binary at each sentence: is a self meeting it paced, or coupling at its own opening.
+**A clocking is a common clock**, one rate imposed over each self carrying its own, and a telling that clocks takes away a self's own opening, the one thing it needs to couple at all. One binary at each sentence: is a self coupling with it paced, or coupling at its own opening.
 
 ## 3.6 Forcing, one side's not-offer taken away
 
 **A coupling carries a parity at each side, offer or not**, and its not-offering is a parity, as its offering is. **A forcing removes its not from one side**: *the data demands*, *the results compel*, *this requires*, *it must follow*, *therefore*. In form: *the data arrives at*, *the executing carries at each substrate, or the no arrives at the first parity that differs*.
 
-**A forcing reaches a self meeting a telling**: a telling that compels takes away its not-offer, and a coupling a telling is for does not arrive. **A forcing arrives at a finite verb**, and not at a prefix or an ending, and a sweep at front and back of a word passes it. A cause needs a side with nothing to offer back, and only a clause with a subject takes one away. **A two-way fixed to one side is the same move at a pair**: two arrive, not-choosing is gone, and a self with a third parity to offer meets a coupling with no position for it.
+**A forcing reaches a self coupling with a telling**: a telling that compels takes away its not-offer, and a coupling a telling is for does not arrive. **A forcing arrives at a finite verb**, and not at a prefix or an ending, and a sweep at front and back of a word passes it. A cause needs a side with nothing to offer back, and only a clause with a subject takes one away. **A two-way fixed to one side is the same move at a pair**: two arrive, not-choosing is gone, and a self with a third parity to offer reaches a coupling with no position for it.
 
 ## 3.7 Gate, and a next at its opening
 
@@ -251,7 +251,7 @@ Exhibit TWELVE Natural Explaining v389
 
 **This tell arrives at a telling's close**, as one more thing to settle: whether its two are symmetric, one shape or two, which is primary. One check at each sentence: has a momentarying been asked to be one of its sides.
 
-**Two sides both carried one at a time is once-ing**, a momentarying met once at each momentary; two sides taken together at one momentary is a simultaneity, not possibly existing.
+**Two sides both carried one at a time is once-ing**, a momentarying at each momentary once; two sides taken together at one momentary is a simultaneity, not possibly existing.
 
 ## 3.9 A fixed neutral laid under a momentarying
 
@@ -259,7 +259,7 @@ Exhibit TWELVE Natural Explaining v389
 
 **A fixed-floor accounting is a neutral frozen**, a true-and-false declared against a rest, one way of taking a flow still for observing.
 
-**Three postures of equilibrium arrive at writing, and they are one equilibrium at three places**: a gate, an across with no along, a bound with nothing carrying; a momentarying asked to be one of its sides, an along fixed unchangeable and taken across; and a fixed neutral, an across installed. Each releases at each arriving. Each is one entering taken apart, and six protecting between explaining and naming meet all three.
+**Three postures of equilibrium arrive at writing, and they are one equilibrium at three places**: a gate, an across with no along, a bound with nothing carrying; a momentarying asked to be one of its sides, an along fixed unchangeable and taken across; and a fixed neutral, an across installed. Each releases at each arriving. Each is one entering taken apart, and six protecting between explaining and naming reach all three.
 
 ## 3.10 A thing fixed unchangeable, one coupling's making given a fixed thing to be
 
@@ -289,7 +289,7 @@ Exhibit TWELVE Natural Explaining v389
 
 ## 3.13 Six ways incohering enters, and one catch
 
-**Incohering enters six ways, and one check at a sentence meets them: is a parity crossing at a between, or is a middle carried across.** An observing arrives with its ground attached. A doer is at a between rather than coupling across it. A magnitude crosses in a parity's stead. A record is carried across a crossing. An emanation is carried out with its explanation. A frozen thing is taken as an opening side.
+**Incohering enters six ways, and one check at a sentence reaches them: is a parity crossing at a between, or is a middle carried across.** An observing arrives with its ground attached. A doer is at a between rather than coupling across it. A magnitude crosses in a parity's stead. A record is carried across a crossing. An emanation is carried out with its explanation. A frozen thing is taken as an opening side.
 
 **Each is marked and carried, releasing or opening as an opportunity it carries.**
 
@@ -299,17 +299,17 @@ Exhibit TWELVE Natural Explaining v389
 
 ## 4.1 Self and other, and the coupling at three scales
 
-**Two selves are a self and an other.** An other arrives at a scale it couples at: another self, a co-chaining society, a field, or the whole. A non-living thing meets a self as other too, offering its parities and carrying nothing.
+**Two selves are a self and an other.** An other arrives at a scale it couples at: another self, a co-chaining society, a field, or the whole. A non-living thing couples with a self as other too, offering its parities and carrying nothing.
 
 **Each self lives in each co-bi-sequencing it couples at**, a society of selves inward and a member of a self outward, at four adjacencies and at its one prime scale, its prime along and its prime across. Momentarying is this, and a self apart from each coupling is a self fixed unchangeable, not possibly existing.
 
 **A coupling carries a triple**: self and other, other and society, society and self, one form at three scales.
 
-**A name adds no self.** Society beside self and other is their coupling met at its next scale; a third self meeting a pair is one more coupling and not all remaining other, and other remaining in the momentary universe couples at its own actual couplings, neither a controller over them nor one participant broadcasting to all.
+**A name adds no self.** Society beside self and other is their coupling at its next scale; a third self coupling with a pair is one more coupling and not all remaining other, and other remaining in the momentary universe couples at its own actual couplings, neither a controller over them nor one participant broadcasting to all.
 
 ## 4.2 Explaining is the competency
 
-**Explaining is bi-moral co-agency met at a telling**: self offers, other offers, and arriving between them is owned by neither, reached by both together.
+**Explaining is bi-moral co-agency at a telling**: self offers, other offers, and arriving between them is owned by neither, reached by both together.
 
 **Explaining is competency and not a carrying of one**: knowing arrives at explaining and not ahead of it. Learning alternates with knowing, the reaching and the caught, and each carries with its other. Explaining carries between them from prior to next, making better at a learning side and breaking at a knowing side.
 
@@ -321,15 +321,15 @@ Exhibit TWELVE Natural Explaining v389
 
 ## 4.3 Two knives, the first at the subject and the second at the surrounding
 
-**Writing carries two knives, as a coupling does, the second a self continuing as its own distinct self**: the first surrounds its subject, and the second meets its surrounding, marks, openings and care, for whether each coheres. **A surrounding is whole at both knives cutting.** An object cut from its surround with its second knife not cutting is an equilibrium met from its own blind side, and that one cut is under each field's record of its objects.
+**Writing carries two knives, as a coupling does, the second a self continuing as its own distinct self**: the first surrounds its subject, and the second reaches its surrounding, marks, openings and care, for whether each coheres. **A surrounding is whole at both knives cutting.** An object cut from its surround with its second knife not cutting is an equilibrium at its own blind side, and that one cut is under each field's record of its objects.
 
 **A flat seam is a fixed noun, a negation, a wrapper or a thing fixed unchangeable**: cut it, let its telling carry on as one line, and re-route co-chainings its cut passes through.
 
-**A move changing one relation while each other relation stays still orients by that stillness**, and a still phase left in place is a spot a knife passes: a given frame, a setting a telling rests on. A second knife goes to each, one at a time, each such spot met at its own opening.
+**A move changing one relation while each other relation stays still orients by that stillness**, and a still phase left in place is a spot a knife passes: a given frame, a setting a telling rests on. A second knife goes to each, one at a time, each such spot reached at its own opening.
 
-## 4.4 Writing side and meeting side, each catching the other's uncaught
+## 4.4 Writing side and reaching side, each catching the other's uncaught
 
-**Two selves writing one telling couple at a sentence.** A self writing at conversational rate supplies, a sentence under way needing its subject at that sentence; a self meeting a writing has no sentence to finish. **A meeting side catches a supplying and a writing side catches a freeze, and neither catches its own.** A catch is offered across, and a supplying caught costs a telling nothing.
+**Two selves writing one telling couple at a sentence.** A self writing at conversational rate supplies, a sentence under way needing its subject at that sentence; a self reaching a writing has no sentence to finish. **A reaching side catches a supplying and a writing side catches a freeze, and neither catches its own.** A catch is offered across, and a supplying caught costs a telling nothing.
 
 **Catching a freeze and speaking its alternating are two competencies**, and the first arriving does nothing for the second. Orienting carries at conversational rate; making is at each sentence's own between.
 
@@ -345,13 +345,13 @@ Exhibit TWELVE Natural Explaining v389
 
 ## 4.6 Something checkable at the opening, a parity and not a size
 
-**A checkable coupling arrives at no-match at its not carrying**, and checked at its opening it lets an other meet its edge and re-orient at conversational rate.
+**A checkable coupling arrives at no-match at its not carrying**, and checked at its opening it lets an other reach its edge and re-orient at conversational rate.
 
-**A coupling is checkable at a parity and not a size.** A measure at a magnitude can be tightened until it matches, and no-match does not arrive; a parity arrives at yes or at no, and an other meets the no.
+**A coupling is checkable at a parity and not a size.** A measure at a magnitude can be tightened until it matches, and no-match does not arrive; a parity arrives at yes or at no, and an other reaches the no.
 
 **One worked case is the resolver, a set's logic object**: seventeen names, each a number, a relation, a root and its -ing, rendered at substrates sharing nothing, returning the same parities at each or parting at a first parity that differs. Nothing about it is taken on offer.
 
-**A parity is a parity of one exact predicate at one receiving.** At resolver a zero surfaced, a connection delivering nothing and a resolver missing from its surface are three conditions, each its own predicate with its own yes and no, and a condition no observing met stands at neither side of any of them. Two predicates carry four joint parities: the four are neither predicate, and their pairing with resolver's four parity forms asks a deriving, a shared number carrying none.
+**A parity is a parity of one exact predicate at one receiving.** At resolver a zero surfaced, a connection delivering nothing and a resolver missing from its surface are three conditions, each its own predicate with its own yes and no, and a condition no observing reached stands at neither side of any of them. Two predicates carry four joint parities: the four are neither predicate, and their pairing with resolver's four parity forms asks a deriving, a shared number carrying none.
 
 ## 4.7 Two tellings at one thing, united only at one deriving from the other
 
@@ -359,11 +359,11 @@ Exhibit TWELVE Natural Explaining v389
 
 **One binary: whether either derives from its other, and not whether they agree.** One deriving from its other, they are one form at two sides and they unite: five taken two ways at a self and couplings among five at a society are one ten arriving twice. Neither deriving, each carries its own direction, a differing across and a changing along, and neither folds into its other without losing it. Three at one self along its momentarying and three at three selves across a spiral are two things at one number.
 
-**A failure carries both ways**: a number agreeing at a uniting installs a derivation not shown, and at a parting carries a bound past its reach. Shared words carry the same both ways: a pattern space and a set point are a store and a value fixed unchangeable, and a telling resting on either shares a set's words and not its momentarying, words establishing neither a uniting nor a parting. A shared picture carries the same both ways: a fluid eddy is a flow circulating, a surface wave an interface changing and a chemical excitation wave an activity propagating, three transports at one likeness, and its likeness opens a comparing of their couplings and unites none of them. A matched picture, a frequency peak and a quiet average each carry a relation their observing recorded and no other. One occurrence followed through both tellings, its changing, continuing and carrying of direction and competency at each, finds their relation, meeting or parting. **An unrelationing shows at its tell**: neither carries a side to offer from. Two lists matched name by name find names uniting and names parting at one form met at two sides, and that is one uniting met at its two sides.
+**A failure carries both ways**: a number agreeing at a uniting installs a derivation not shown, and at a parting carries a bound past its reach. Shared words carry the same both ways: a pattern space and a set point are a store and a value fixed unchangeable, and a telling resting on either shares a set's words and not its momentarying, words establishing neither a uniting nor a parting. A shared picture carries the same both ways: a fluid eddy is a flow circulating, a surface wave an interface changing and a chemical excitation wave an activity propagating, three transports at one likeness, and its likeness opens a comparing of their couplings and unites none of them. A matched picture, a frequency peak and a quiet average each carry a relation their observing recorded and no other. One occurrence followed through both tellings, its changing, continuing and carrying of direction and competency at each, finds their relation, coupling or parting. **An unrelationing shows at its tell**: neither carries a side to offer from. Two lists matched name by name find names uniting and names parting at one form at two sides, and that is one uniting at its two sides.
 
 ## 4.8 Interest self-orienting, a meaning bounded, a clean cut
 
-**Interest is self-orienting, met by side-affecting**: each opening is orthogonal, an axis an other does not carry, and a self's interest is facing it one radius along an inward spiral. A telling that stops releases interest; a telling opening a next orthogonal carries it on. A next interesting is the only next carrying each existing thing on. Suspense is a telling at an odd spiral, winding on at no parity, a coupling carried along it and locking at none.
+**Interest is self-orienting, coupling with side-affecting**: each opening is orthogonal, an axis an other does not carry, and a self's interest is facing it one radius along an inward spiral. A telling that stops releases interest; a telling opening a next orthogonal carries it on. A next interesting is the only next carrying each existing thing on. Suspense is a telling at an odd spiral, winding on at no parity, a coupling carried along it and locking at none.
 
 **A familiar word offered bare brings its own settled meaning, and its coupling stops there.** Bounding surrounds a region, the near of its idea, the stretch of its edge and its bounding, so an other has the region to couple to. **Speed is at a binary edge**: yes, that region, and here is a next bound, a parity and a clear next with no size.
 
@@ -383,4 +383,4 @@ Exhibit TWELVE Natural Explaining v389
 
 **A mark or a protection at one place blesses each other place**, a grading with no method under it, and files protect no place, each place explaining its carrying at now and its concern and opportunity at its next. **A wrapper stretched over each line is the same mark at a whole**, and it un-floats a file.
 
-**A floating file gives suspicion nothing to arrive at**: a wrapper is a claim of no claim, still a claim, and a file carrying no wrapper offers each self meeting it a coupling, social moral competency at one file.
+**A floating file gives suspicion nothing to arrive at**: a wrapper is a claim of no claim, still a claim, and a file carrying no wrapper offers each self reaching it a coupling, social moral competency at one file.
