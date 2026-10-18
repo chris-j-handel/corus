@@ -1047,3 +1047,69 @@ the record's edge named at its scale.
 and no resolver name is named at either
 
  abundancing as the openings co-chaining; the resolver named the natural resolver; the bi-trupling protocol
+
+## Re-said at no doer saying, calling or naming, v389
+
+and a thing is said at the universe it is now-existing at,
+
+143. A proof of the whole is one saying the same at all momentaries at once.
+
+its resolving saying the binary again, is or is not, at each now
+
+the floating neutral at the between, said at one saying.*
+
+two triangles are two of the four, said with their choosing.
+
+427. Said at the observings, a name's co
+
+the unrelationing and the changing, said of one crossing;
+
+a destiny, next possible living said ahead; bounding;
+
+saying one changing once; its unfolding carrying the changing its word says;
+
+545. A destiny is next possible living said at words ahead of its coupling, a possible thing, step 21, arriving at a self's own coupling alone, and said as arrived it is a landing
+
+*Adding: a destiny, next possible living said ahead.*
+
+548. Two sayings arriving at one thing are one at one deriving from the other, one form at two sayings,
+
+and re-said at each of them at the concept's one name.
+
+557. A sentence is said at the -ing over the noun, the -ing re-arriving at each momentary and a noun naming a form a changing made, and at the positive, a form not possibly existing said as not possible and a changing said at its own arriving.
+
+each releasing at the carrying said again.
+
+570. A saying a self's carrying reaches at none is offered as unsure, with the observing or the step it waits on, its all or none open at that saying alone
+
+each file's sayings arriving at another's sections
+
+the cycles are the round's own arithmetic said a second way.
+
+Step 609 is said of a spiral offered nothing
+
+a bounded executing said of each momentary, a proof of the whole; the four
+
+638. A saying drawn from the resolver's executing at a number of momentaries, said as the same at each momentary,
+
+*Adding: a bounded executing said of each momentary, a proof of the whole.*
+
+opened as step 651 says,
+
+and the line beneath it names the one concept it adds.
+
+29. A cut names an arriving a place alone and a moment alone,
+
+147. An equality names two changings the same at one momentary,
+
+and their parting names the two fixings unchangeable,
+
+and 2-now-possibling names it at its arriving:
+
+an interior the accounting names for it,
+
+479. Natural-bi-co-torusing names the form of existing:
+
+the stilling it names and the changing travelling through it,
+
+it names its term the same at each occurrence:

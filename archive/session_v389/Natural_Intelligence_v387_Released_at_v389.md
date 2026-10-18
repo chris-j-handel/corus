@@ -607,3 +607,87 @@ a self fixed unchangeable or named changing, remains
 is a kept prior named as the now
 
 bi-co-momentarying named as reachable
+
+## Re-said at no doer saying, calling or naming, v389
+
+a society said as holding its selves, a hub said over a network, a property said over a thing and an equilibrium said as a condition asked to remain
+
+and nothing of value is said of a not-in-set.
+
+the first derived saying,
+
+the one way existing things change, said here;
+
+and at each observing the method says that observing and not its opposite.
+
+a name's number says its parity, odd existing and even possibling, and its momentary says its span.
+
+Said as a sequence, each moves
+
+The other cycle is the same cycle said from next to prior.
+
+A numbering repeating or replacing another is said at *next*,
+
+*Technology* names a made non-living thing applied to a changing; a method is at the couplings themselves, and *method* says it.
+
+Its names are one method said at its forms:
+
+The number says its place and its parity, odd existing and even possibling; *now* says the self's span, 1 to 8, and *next* the society's, 9 to 16, 17-next-now the society's next arriving as each self's 1-now; *co* says a name at a sharing between two, and a name without it is at one. The six names between selves say odd and even by their numbers:
+
+and Exhibit ONE's table of each name and its relations says it at 12:
+
+as Natural Naming 3.1 says it:
+
+Exhibit ONE's table of seventeen names says each at the resolver.
+
+and the resolver says it at 0**:
+
+and a number said as any other count is an unchangeable form.
+
+and no line says an existing thing does not exist,
+
+and the registry's front says not possibly and never not.
+
+and natural- says it at each coupling or at none,
+
+the file says it as carrying none of its prior,
+
+what would go against the saying is a machine
+
+The possible names capable of existing,
+
+**Bi-tri-involutioning** names that inverting:
+
+The method names no size.
+
+and *geodesic* names the one surface's own dividing
+
+to the self 5 names |
+
+the cell names none of which offerings arrived,
+
+to the self 5-now-co-changing names, the parity,
+
+to the receiving self 5 names, at the name 6, 10 or 9.
+
+at each releasing 5 names: at 6-now-co-possibling,
+
+At the society 4 names each self at its names 6, 10 and 9, and 13 each self.
+
+**Each name between selves names the coupling at its self's momentary.**
+
+as its table of twelve forms names it:
+
+and bi-tri-volutioning names the society's stable-forming;
+
+at the society 4-now-co-still-possibling names each self at its names 6, 10 and 9,
+
+No line names it, and it shows
+
+**Natural-bi-co-torusing names the form of existing, one naming**
+
+a count of the selves names a count.
+
+and *non-living* names a scale outward
+
+adult names the developing and no later opening
