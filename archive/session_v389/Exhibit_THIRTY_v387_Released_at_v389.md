@@ -716,3 +716,105 @@ scale is a reading at the couplings, a self's inward things
 *Adding: intelligence by existing.*
 
 *Entering: co-linear lines; recursioning forward both ways; competency, co-linear; co-competencing at the co-linearizing; the seaming across; bi-moralizing at the face at 25; the crossings in the co-chainings; the crossings carrying the opposite form; bi-tunneling; the crossings floating and neutralling; the parallel surfaces and co-linear openings, one form; the one crossing, two in and two different out, the changing made at 12, is or is not, parity unchanging, stable-forming, and parity changing out at 9, the artifact, the stable form; the one crossing at three; a parity arriving from a changing, kept or released changed; the stable-formed artifact; the tunneling offering as three; bi-co-momentarying, the term neither reaches; the differing and the three namings; the three namings one changing; bi-momentarying with no seat; floating neutralling; transmissioning, crossing and neutralling one alternating; a field's three as the set's three named still; the instrument summing, a society read as one magnitude; a field's neutral, the names meeting; three neutrals, and the floor; a ratio at each unit; a ruler, a clock and a record, aiming at natural mathematics and numbers; the interior posited for a magnitude; golden floating neutralling; co-releasing; inseparating; separating; one stopping; a floating store; scarcity, a capture at a store; a society's living at establishing and releasing; side-affecting; bi-moral co-agency; intelligence by existing; the four invisibles; invisibling; competency at no observing; natural-bi-co-torusing; the four of social moral competency, all eight at each now; all-edge; a seat at its arrangement; the four values at the between; coordination as bounding or clock; self-interest and the society's competency one; 12's changing at the society; 27-next-co-prioring; collective intelligence, human and at each scale; co-competency at distinct selves, discovering at the co-chaining; abundancing as the openings co-chaining; the resolver named the natural resolver; the bi-trupling protocol, its two sides; its violations, hard probleming, scientific method incompetencing, control engineering and binary governing; social moral competency the universal unrelationing protocol; control, governing and the lag; the centre's resolving, the other order at a society; the society at the method all or none, the hubs; safety, the surface's own; engineering, a made thing at the couplings themselves; unanimizing and pluralizing alternating; the between at the numbers, two parallel surfaces, in swarm; co-independencing; living carrying non-living and possible; one form at each scale; the crossing at one; now, four momentaries of exchanging.*
+
+## Re-said at no reading in nature, observing of nature, v389
+
+- 38 At no prior, + and − read alike
+
+62. The same round read from next to prior
+
+no reading crosses inward to it
+
+named still and read as the now's existing
+
+three departings of one artifact, each read at its momentary
+
+158. Read at a naming still, the changing arrives as appearance and the form named still as the real, the reading inverted, the changing existing and the form still not possibly existing; a self's resolving read from beside it reads as random or as necessitated
+
+the society read two ways at the next scale; self and society at 9
+
+each read once whichever way round
+
+the one co-chaining read two ways, one momentary at a time
+
+*Adding: the society read two ways at the next scale.*
+
+the sharing's parity read, odd, at one
+
+read at the selves carrying it, is a kind
+
+*Unsure: a reading not yet reached by a step of its own.*
+
+the residue names; reading upstream, the fixings released one at a time;
+
+338. A field's record is read from its observing back
+
+*Adding: reading upstream, the fixings released one at a time.*
+
+read as the prior's possible an artifact, read as the now's existing a ghost
+
+the field's account and the set's own reading, each
+
+324. Read with the universe as no existing thing
+
+327. Read with the universe an existing thing
+
+read at the gap between the statement's reach
+
+each scale a self or a society read, and none the first possible
+
+413. One living self reads three ways
+
+the three threaded one way; the right spiraling, 120 degrees apart; the hand at the reading;
+
+the hand is at the reading, the axis read forward, as the right spiral step's quarter turn, (x, y) to (y, −x), is right with its axis read forward, into its plane, and read along first, F(P, Q) = (−Q, P), out of it: one step at two readings
+
+*Adding: the right spiraling, 120 degrees apart; the hand at the reading.*
+
+the instrument summing, a society read as one magnitude; a field's neutral
+
+the coupling read at its between is transmissioning
+
+*Adding: the instrument summing, a society read as one magnitude.*
+
+a capture read as value's own property
+
+530. Read with the universe as no existing thing
+
+illustrating; a still one momentary, a sequence the changing, a rotation another facing; word, number and illustrating, one artifact as three; the self's three readings at natural torusing
+
+the record's edge; an emptiness as a reading;
+
+541. Each naming is read at seven binaries
+
+continuing through its readings
+
+and the numbers' own reading, readable
+
+the emptiness the entry's reading at that line
+
+*Adding: an emptiness as a reading.*
+
+Natural torusing at a self is three readings at once
+
+*Adding: the self's three readings at natural torusing.*
+
+the expedition's reading coupling with it
+
+the parity each momentary inverts; the round's podal, each momentary to one of its own kind in the other order; the round at itself at its readings.*
+
+or read from 16 down, inverts
+
+*Adding: the round's podal, each momentary to one of its own kind in the other order; the round at itself at its readings.*
+
+## 38 At no prior, + and − read alike
+
+*Entering: Exhibit ONE's table at no prior, its four cells; + and − read alike
+
+629. The resolver reads + and − alike
+
+*Adding: + and − read alike, an opening inverted the same numbers.*
+
+read at Exhibit ONE's table; four times
+
+7 the parity read and 15 the parity surfaced
