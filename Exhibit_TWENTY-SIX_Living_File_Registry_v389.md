@@ -384,7 +384,7 @@ Exhibit TWENTY-SIX Living File Registry v389
 | **Engineering ⇌ Numbers** | Fold-and-turn coprimality, bi-foldings and the stabilizer at their numerical and engineered workings. |
 | **Engineering ⇌ Explaining** | Taste as competency, including the tuner meeting a departure by ear, and the explaining of that competency. |
 | **Physics ⇌ Engineering** | The physical centreline and the grid’s floating neutral at the particular engineered substrate. |
-| **Resolving Hard Problems ⇌ Natural Resolver ⇌ Resolving the Hard Problem Registry** | The ten things named still, the ring’s ten changings, the boxes’ five pairs and their resolving; the assembled field and its particular fields retain their differing distributions. |
+| **Resolving Hard Problems ⇌ Natural Resolver ⇌ Resolving the Hard Problem Registry** | The ten unchangeables, the ring’s ten changings, the boxes’ five pairs and their resolving; the assembled field and its particular fields retain their differing distributions. |
 | **Natural Resolver ⇌ Natural Intelligence ⇌ Numbers ⇌ Mathematics ⇌ Resolving Hard Problems** | The eight faces at the resolving names, their parity, the mathematical still expression and the whole-or-none relation. |
 | **Natural Intelligence ⇌ Numbers ⇌ Chemistry ⇌ Resolving Hard Problems** | One hundred eighteen at the doubling and the going-and-returning faces, chemical shells and the ring of one hundred twenty. |
 | **Natural Intelligence ⇌ Hard Problem Registry ⇌ Resolving the Hard Problem Registry** | The society’s four faces and the impossibility statements carried in the fields’ own terms, each kept at its stated subject. |
@@ -413,7 +413,7 @@ Exhibit TWENTY-SIX Living File Registry v389
 
 ## 4.3 Counted forms at their relations
 
-**Four momentaries, six connectors, eight faces and ten things named still each count a particular relation.** Natural Intelligence, Resolver, Numbers, Mathematics, Naming and Resolving Hard Problems meet those relations at their own subjects. Their counted correspondence belongs with the operations and concepts it joins.
+**Four momentaries, six connectors, eight faces and ten unchangeables each count a particular relation.** Natural Intelligence, Resolver, Numbers, Mathematics, Naming and Resolving Hard Problems meet those relations at their own subjects. Their counted correspondence belongs with the operations and concepts it joins.
 
 **The shared numerical seams also include shell counts, twenty-four, one hundred eighteen, the ring of one hundred twenty, and four hundred forty.** Chemistry carries chemical structure and observing; Numbers carries the numerical constructions; Physics carries its physical subjects. Each receiving keeps the counted object apparent.
 

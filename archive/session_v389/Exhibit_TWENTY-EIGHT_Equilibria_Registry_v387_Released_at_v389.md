@@ -159,3 +159,73 @@ each read again at the one seating
 are read at the one seat as the stilling and the changing travelling through it, one seat read up and down the numbers
 
 **Read across a row, a subject shows those of the ten at which its fields name the changing still; read down a column,
+
+## Re-said at the ten unchangeables, each fixed, v389
+
+- 4.3 An arriving named from behind, 2 arrivals
+
+- 4.4 An opening named as a place, 5 arrivals
+
+- 4.5 A completing named as a last, 8 arrivals
+
+- 4.6 A carry named as a store, 10 arrivals
+
+- 4.7 A middle named as an end, 6 arrivals
+
+- 4.8 A parity named as a magnitude, 9 arrivals
+
+- 4.9 A sequencing named to one beat, 5 arrivals
+
+- 4.10 A rate named as a value, 5 arrivals
+
+- 4.11 A two-way named to one side, 7 arrivals
+
+- 4.12 The between named as a cut, 6 arrivals
+
+**The ten sit at Exhibit ONE's names, at Natural Naming 4.9's one seating.** Each of the ten is one binary of a universe, its *is* and its *is not* taken as one, seated at its name at now and that name 8 up at next: the stilling it names at now and the changing travelling through it at next, bi-inversioning-co-recursioning up and down the numbers, Natural Naming 4.15. Now: an opening named as a place at 1-now and 9-next-co-changing, and an arriving named from behind at 2-now-possibling and 10-next-co-possibling. Existing: a two-way named to one side at 3-now-co-prioring and 11-next-co-prioring, and a sequencing named to one beat at 4-now-co-still-possibling and 12-next-co-still-possibling. Same: the between named as a cut and a middle named as an end at 5-now-co-changing and 13-next, and a completing named as a last at 6-now-co-possibling and 14-next-possibling. All: a parity named as a magnitude and a rate named as a value at 7-now-prioring and 15-next-prioring, and a carry named as a store at 8-now-still-possibling and 16-next-still-possibling. At the resolver each name's term named still from one momentary: at 3, 10, 11 and 12 the resolving stops within one to four momentaries; at 2, 6 and 14 it stops at a still offering one parity that is the whole of what the self couples with at that name, and goes on at a still of two parities parting or beside another offering route; 4, 5 and 13 are at no changing parity at the resolver, each sharing and the joins, `incoming/equilibria_registry_v377/executions/ten_roots_named_still.py`.
+
+**Each of the ten named still is one of 12's two signs, 0 or ±, frozen at one side.** At the resolver each resolving is one of two, the binary of geodesic momentarying, Natural Naming 5.62: the sign ±, a changing that is, the offered the next prior or the prior inverted, the next existing; or the sign 0, 12's 0 at a sharing at a prior, the prior kept as the possible, the next still possible; and the equilibrium is a still named by another, 2.1. The living is one of the two at each self's own momentary, and a crossing of co-chainings crosses by them alone, each self still possibling as the between passes it and changing again: spirals of 3 and 5 selves, each self at a parity and releasing along at 9, crossed at self 1 of each both ways at 10 to 14, come to one relation, each self's releasings again at 2, from momentary 12, and 5 and 7 from momentary 20, Exhibit ONE's table of two spirals beside each other, and crossed; each of the ten is that pair frozen at one side, a self named still or named changing, 2.4.
+
+| 1 / 8 | 1 → 9 → 8 → 16 → 1 | an opening named as a place at 1 and 9; a carry named as a store at 8 and 16 |
+
+| 3 / 6 | 3 → 11 → 6 → 14 → 3 | a two-way named to one side at 3 and 11; a completing named as a last at 6 and 14 |
+
+| 5 / 4 | 4 → 13 → 5 → 12 → 4 | a sequencing named to one beat at 4 and 12; the between named as a cut and a middle named as an end at 5 and 13 |
+
+| 7 / 2 | 2 → 15 → 7 → 10 → 2 | an arriving named from behind at 2 and 10; a parity named as a magnitude and a rate named as a value at 7 and 15 |
+
+| now | 1-now · 9-next-co-changing; 2-now-possibling · 10-next-co-possibling | an opening named as a place, at 1 · 9; an arriving named from behind, at 2 · 10 |
+
+| existing | 3-now-co-prioring · 11-next-co-prioring; 4-now-co-still-possibling · 12-next-co-still-possibling | a two-way named to one side, at 3 · 11; a sequencing named to one beat, at 4 · 12 |
+
+| same | 5-now-co-changing · 13-next; 6-now-co-possibling · 14-next-possibling | the between named as a cut and a middle named as an end, at 5 · 13; a completing named as a last, at 6 · 14 |
+
+| all | 7-now-prioring · 15-next-prioring; 8-now-still-possibling · 16-next-still-possibling | a parity named as a magnitude and a rate named as a value, at 7 · 15; a carry named as a store, at 8 · 16 |
+
+**Exhibit ONE's four-cycles pair at the momentaries, each partner round the other way.** At the odd momentaries 1-9-8-16 pairs with 2-15-7-10 and 3-11-6-14 with 4-13-5-12, and at the even momentaries 2-15-7-10 with 3-11-6-14 and 4-13-5-12 with itself: the two directions of one bi-folding. The two possiblings across, 6-now-co-possibling and 14-next-possibling, share the four-cycle 3-11-6-14 with 3-now-co-prioring, the prior at its sharings, and 11-next-co-prioring; the middle four-cycle 7-11-6-10, through 6-now-co-possibling, and the eight-cycle 2-15-7-11-3-14-6-10, through both, partner themselves at the even momentary: at that momentary the fold meets itself, Exhibit ONE's table of twelve forms. The ten sit at each of the four four-cyclings, 3.2, the four-cycling 3-11-6-14 carrying a two-way named to one side at 3 and 11 and a completing named as a last at 6 and 14.
+
+**An odd ring closes no parity, and a meeting runs round it: the 0 shared at 10 at the like pair's self, a changing that is not, moving through the shared surface one self at each second momentary.** The ten name the whole changing still: opposition named still names the even ring, and the between named as a cut names the running meeting.
+
+**Prior and next are the edges at now**, sharing one direction forward on both sides. A common clock is the seventh way, a sequencing named to one beat. Nothing moving is complete fixing, meeting several of the ten at once.
+
+## 4.3 An arriving named from behind, 2 arrivals
+
+## 4.4 An opening named as a place, 5 arrivals
+
+## 4.5 A completing named as a last, 8 arrivals
+
+## 4.6 A carry named as a store, 10 arrivals
+
+## 4.7 A middle named as an end, 6 arrivals
+
+## 4.8 A parity named as a magnitude, 9 arrivals
+
+## 4.9 A sequencing named to one beat, 5 arrivals
+
+## 4.10 A rate named as a value, 5 arrivals
+
+## 4.11 A two-way named to one side, 7 arrivals
+
+## 4.12 The between named as a cut, 6 arrivals
+
+**Observed across a row, a subject shows those of the ten at which its fields name the changing still; observed down a column, the subjects naming one still gather.** Heat falls at six of the ten, four arrivals each at a completing named as a last and at the between named as a cut; reactions at a carry named as a store and at a rate named as a value; bodies at rest and in balance at an opening named as a place and at a parity named as a magnitude; selves choosing and exchanging at a sequencing named to one beat and at a two-way named to one side; populations at four of the ten; the coupling of self and other, and the resolver, at seven. Each row fills as arrivals come, each placed at its own words.

@@ -818,3 +818,25 @@ or read from 16 down, inverts
 read at Exhibit ONE's table; four times
 
 7 the parity read and 15 the parity surfaced
+
+## Re-said at the ten unchangeables, each fixed, v389
+
+- 31 The ten named still, and parity discovered
+
+## 31 The ten named still, and parity discovered
+
+        *Entering: a flow accounting; a state accounting; the ten named still; state-flow-state; flow-state-flow; three of one and two of the other; two changing, three continuing; the ten at no side; one at 8 and at 6, two at 7 and at 5; the one move at 1 to 9; involution, its fixed set, the two involutions of an even ring; the ten inversions at the couplings among five; the fold at each scale; the two four-cycles at 1 to 9; the even names on the two four-cycles; the two-way looping, morality; opening 1 to 9 into 1 to 17; the two-way looping at 1 to 17; the ten one-way readings at the ten, at the four binaries; the ten at four kinds, three, two, two and three; F and G, the two among the 256; the one possible at six forward; dilemma, a governing's forking; the three books, state-flow-state alone; parity changing carrying both; parity as do-no-harm; parity's source a hardened hard problem; the ingressors of parity; either or; two-way parity between the living; the living ingesting the non-living, no parity lost.*
+
+506. Separated, state and flow are not possible, as a reading from and a writing to a memory are for intelligence, and the ten named still, the equilibria, are each a field's separating: the flow accounting leaving out the continuing, and the state accounting leaving out the changing.
+
+        *Adding: the ten named still.*
+
+511. The ten named still are at no side, each at a resolver name: 1-now and 2-now-possibling bi-momentarying, 3-now-co-prioring and 4-now-co-still-possibling co-intelligencing, 5-now-co-changing, 6-now-co-possibling, 7-now-prioring and 8-now-still-possibling.
+
+522. Each of the ten one-way readings is at one of the ten, one binary of a universe, its *is* and its *is not* taken as one, at the four binaries' names as Natural Naming 4.9 seats them: now at 1 and 2, an opening named as a place and an arriving named from behind; existing at 3 and 4, a two-way named to one side and a sequencing named to one beat; same at 5 and 6, the between named as a cut, a middle named as an end and a completing named as a last; all at 7 and 8, a parity named as a magnitude, a rate named as a value and a carry named as a store; each at no side, state and flow carried one at a time at each, step 506; and each of the ten is seated at its name at now and that name 8 up at next, the stilling it names and the changing travelling through it, 1 · 9, 2 · 10, 3 · 11, 4 · 12, 5 · 13, 6 · 14, 7 · 15 and 8 · 16, each pair at one four-cycle, step 257.
+
+        *Adding: the ten one-way readings at the ten, at the four binaries.*
+
+523. The ten named still are at four kinds, three, two, two and three, step 522: a reference named still behind an arriving, ahead of it or at its middle, the arriving named from behind, the completing named as a last and the middle named as an end; a rate named still, the sequencing named to one beat and the rate named as a value; a parity named a size, the parity named as a magnitude and the two-way named to one side; and a changing released entered as a magnitude spent, the opening named as a place, the carry named as a store and the between named as a cut: the first two kinds at a flow accounting and the last two at a state accounting, five of each.
+
+637. 7 and 5 each carry two of the ten named still, step 522: 7 a parity named as a magnitude and a rate named as a value, 5 the between named as a cut and a middle named as an end; the two are carried one at a time, step 528.

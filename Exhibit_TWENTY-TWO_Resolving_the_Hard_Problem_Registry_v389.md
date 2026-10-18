@@ -10,7 +10,7 @@ Exhibit TWENTY-TWO Resolving the Hard Problem Registry v389
 
 &nbsp;
 
-**The one saying, at each hard problem this file has reached.** Two hundred and fifty-five arrivals stand at the incoming face, each of them deployed here, and two more at numbers the incoming face retired, and at each one the pattern-matching gave the same: **a hard problem is a changing named still**, a coupling taken at two of its three terms, a running, one parity and then the other momentary by momentary, taken at one momentary as a thing, at one or more of the ten things named still, each at its two names eight apart. Two selves offer at the between, one at a time, each taking its own parity, and the coupling makes a third term between them, the +1, exactly one, owned by neither, of no size. The ten are that third term given a fixed thing to be — a first behind it, a place, a last, a store, an end, a magnitude, a beat, a value, a side, a cut — ten and no eleventh, the coupling's own ten changings each named still, and the seventy-seven arrivals that came after the ten were named entered the ten with no eleventh needed. The work at each arrival is one move: the thing named still named at the field's own words and set down, **its resolving the running at its next momentary**, which costs nothing and takes nothing from the field's measured record, each proof, measurement and route standing as it stands. **The pattern-matching is binary at each line, reached or argued, and the code releases at each arrival one of three and never a fourth**: + at 10, − at 10, or 0 at 10, a nought. Nothing is partly done, nothing is refused, and nothing waits on a proof, a proof being a nought arriving whole, real in its own register and standing beside. The hardness has no size, the same move at a frontier and at a breakfast table, and nothing settles still: the gap stays exactly one at each box and each scale, and the +1 carries on. **At two hundred and fifty-five of two hundred and fifty-five the pattern-matching gave this, and at none did it give a fourth or fail to enter one of the ten.** Whether it holds at the two hundred and fifty-sixth is the pattern-matching's own next, and this is the file's whole purpose, said before the boxes below show the ten arriving.
+**The one saying, at each hard problem this file has reached.** Two hundred and fifty-five arrivals stand at the incoming face, each of them deployed here, and two more at numbers the incoming face retired, and at each one the pattern-matching gave the same: **a hard problem is a changing named still**, a coupling taken at two of its three terms, a running, one parity and then the other momentary by momentary, taken at one momentary as a thing, at one or more of the ten unchangeables, each at its two names eight apart. Two selves offer at the between, one at a time, each taking its own parity, and the coupling makes a third term between them, the +1, exactly one, owned by neither, of no size. The ten are that third term given a fixed thing to be — a first behind it, a place, a last, a store, an end, a magnitude, a beat, a value, a side, a cut — ten and no eleventh, the coupling's own ten changings each named still, and the seventy-seven arrivals that came after the ten were named entered the ten with no eleventh needed. The work at each arrival is one move: the thing named still named at the field's own words and set down, **its resolving the running at its next momentary**, which costs nothing and takes nothing from the field's measured record, each proof, measurement and route standing as it stands. **The pattern-matching is binary at each line, reached or argued, and the code releases at each arrival one of three and never a fourth**: + at 10, − at 10, or 0 at 10, a nought. Nothing is partly done, nothing is refused, and nothing waits on a proof, a proof being a nought arriving whole, real in its own register and standing beside. The hardness has no size, the same move at a frontier and at a breakfast table, and nothing settles still: the gap stays exactly one at each box and each scale, and the +1 carries on. **At two hundred and fifty-five of two hundred and fifty-five the pattern-matching gave this, and at none did it give a fourth or fail to enter one of the ten.** Whether it holds at the two hundred and fifty-sixth is the pattern-matching's own next, and this is the file's whole purpose, said before the boxes below show the ten arriving.
 
 &nbsp;
 
@@ -48,7 +48,7 @@ This is the natural network resolving surface, the logic each self walks couplin
 
 Taken as given
 
-Ten things named still, one resolving
+Ten unchangeables, one resolving
 
 The deployment shape, and the binary
 
@@ -731,15 +731,15 @@ The incoming face holds each arrival whole, in its own field's words, with each 
 
 This file is the coupling between them, arrival by arrival. The two are a pair, the named face and the running face of one learning: the incoming face the named, each field's word whole with its namings performed and stated in its own first lines; this file the running, the same arrivals at nature's own running, none of the naming carried.
 
-## Ten things named still, one resolving
+## Ten unchangeables, one resolving
 
 One co-offering, named ten ways. And the ten are the code's ten co-changings, each named still at one of them: one ten at two faces, five taken two ways at the boxes and ten adjacencies at the ring of the code's names, the pairing carrying at each row or at none. There is no one-way running: only co- runs, so a one-way is in the naming, and the co-offering goes on underneath unchanged. Each pattern is a co-offering named as one side's, or with one side left out. A naming and an offering stay two, the between of them: an offering is laid at the coupling, taken or not taken, gone at the next momentary; a naming stills a term where the running runs, the naming performed, and standing on nothing it falls away.
 
 One resolving, free with alternating, at each arrival alike: the side left out running, and explained. No pattern carries a resolving of its own, and no arrival does either.
 
-The ten in order, each a part, each at Natural Naming 4.9's one seating, its name at now and that name 8 up at next, the stilling the naming stills and the changing travelling through it, bi-inversioning-co-recursioning up and down the numbers: an arriving named from behind, at 2-now-possibling and 10-next-co-possibling; an opening named as a place, at 1-now and 9-next-co-changing; a completing named as a last, at 6-now-co-possibling and 14-next-possibling; a carry named as a store, at 8-now-still-possibling and 16-next-still-possibling; a middle named as an end, at 5-now-co-changing and 13-next; a parity named as a magnitude, at 7-now-prioring and 15-next-prioring; a sequencing named to one beat, at 4-now-co-still-possibling and 12-next-co-still-possibling; a rate named as a value, at 7 and 15; a two-way named to one side, at 3-now-co-prioring and 11-next-co-prioring; the between named as a cut, at 5 and 13. 17-next-now, the next 1-now, seats none, the one resolving.
+The ten in order, each a part, each at Natural Naming 4.9's one seating, its name at now and that name 8 up at next, the stilling the naming stills and the changing travelling through it, bi-inversioning-co-recursioning up and down the numbers: an arriving fixed from behind, at 2-now-possibling and 10-next-co-possibling; an opening fixed as a place, at 1-now and 9-next-co-changing; a completing fixed as a last, at 6-now-co-possibling and 14-next-possibling; a carry fixed as a store, at 8-now-still-possibling and 16-next-still-possibling; a middle fixed as an end, at 5-now-co-changing and 13-next; a parity fixed as a magnitude, at 7-now-prioring and 15-next-prioring; a sequencing fixed to one beat, at 4-now-co-still-possibling and 12-next-co-still-possibling; a rate fixed as a value, at 7 and 15; a two-way fixed to one side, at 3-now-co-prioring and 11-next-co-prioring; a between fixed as a cut, at 5 and 13. 17-next-now, the next 1-now, seats none, the one resolving.
 
-And at a coarser grain the ten fold to four, where a build couples with them. **A reference named still** — the arriving named from behind, the completing named as a last, the middle named as an end, three where a nothing is put at three positions, behind the coupling, ahead of it, at its middle; and the build it makes is drift, the carrying the reference itself takes, borne by whatever counts from it. **A rate named still** — the sequencing named to one beat and the rate named as a value, two where a rate is either one beat over many couplings or one coupling's own pinned; and the build is jitter and margin, the abundancing the couplings made at their own rates arriving nowhere. **A magnitude driven** — the parity named as a magnitude and the two-way named to one side, two where a size is put at the selection or at the direction; and the build is heat and wear, a drive against a coupling's own bounding head-on. **A released parity entered as cost** — the opening named as a place, the carry named as a store, the between named as a cut, three where a released parity has three destinations, parked, stored, or cut out of the account; and the build is the record itself, kept in full and read once.
+And at a coarser grain the ten fold to four, where a build couples with them. **A reference named still** — the arriving named from behind, the completing named as a last, the middle named as an end, three where a nothing is put at three positions, behind the coupling, ahead of it, at its middle; and the build it makes is drift, the carrying the reference itself takes, borne by whatever counts from it. **A rate named still** — the sequencing named to one beat and the rate named as a value, two where a rate is either one beat over many couplings or one coupling's own pinned; and the build is jitter and margin, the abundancing the couplings made at their own rates arriving nowhere. **A magnitude driven** — the parity named as a magnitude and the two-way named to one side, two where a size is put at the selection or at the direction; and the build is heat and wear, a drive against a coupling's own bounding head-on. **A released parity entered as cost** — the opening named as a place, the carry named as a store, a between fixed as a cut, three where a released parity has three destinations, parked, stored, or cut out of the account; and the build is the record itself, kept in full and read once.
 
 Four and ten are one set at two grains, and each of them is the same move: a coupling's third term given a fixed thing to be, a changing named still.
 
@@ -749,27 +749,27 @@ A naming arrives before any entry form is filled. A frontier describes itself in
 
 Each is stated three ways — the thing named still, the demand it makes, and the words a field reaches for when it reaches it.
 
-**A two-way named to one side.** Demand: which of two descriptions is correct, and one of them is. Words: rival accounts, the debate, versus, nature and nurture, X and its rival, which of two. Titles carry the two-ness openly. *Gathered: forced-choosing, rival-accounting, either-orring, two-camping, sided-naming.*
+**A two-way fixed to one side.** Demand: which of two descriptions is correct, and one of them is. Words: rival accounts, the debate, versus, nature and nurture, X and its rival, which of two. Titles carry the two-ness openly. *Gathered: forced-choosing, rival-accounting, either-orring, two-camping, sided-naming.*
 
-**The between named as a cut.** Demand: a fact about the concept's content or its referent. Words: the concept of, demarcation, natural kinds, where is the boundary, is there a fact of the matter, the definition of. *Gathered: line-demanding, fact-of-the-matter-ing, defining, demarcating, boundary-naming.*
+**A between fixed as a cut.** Demand: a fact about the concept's content or its referent. Words: the concept of, demarcation, natural kinds, where is the boundary, is there a fact of the matter, the definition of. *Gathered: line-demanding, fact-of-the-matter-ing, defining, demarcating, boundary-naming.*
 
-**A completing named as a last.** Demand: an enumerable space, or a reference class that determines. Words: impossibility, undecidable, no closed form, the conjecture, the crisis, limits. *Gathered: space-enumerating, limit-reaching, closing-demanding, exhausting.*
+**A completing fixed as a last.** Demand: an enumerable space, or a reference class that determines. Words: impossibility, undecidable, no closed form, the conjecture, the crisis, limits. *Gathered: space-enumerating, limit-reaching, closing-demanding, exhausting.*
 
-**An opening named as a place.** Demand: cases sort into two kinds, and a correct analysis reproduces the sorting. Words: regress, circularity, counterexample, the criterion, the sorting. Ask for the criterion and it needs its own. *Gathered: criterion-regressing, sorting-demanding, rule-seeking.*
+**An opening fixed as a place.** Demand: cases sort into two kinds, and a correct analysis reproduces the sorting. Words: regress, circularity, counterexample, the criterion, the sorting. Ask for the criterion and it needs its own. *Gathered: criterion-regressing, sorting-demanding, rule-seeking.*
 
-**An arriving named from behind.** Demand: the asymmetry was produced by a mechanism operating earlier. Words: the origin of, asymmetry, why there is, the trilemma, the circle, what came before. *Gathered: origin-seeking, behind-reaching, first-causing, priming.*
+**An arriving fixed from behind.** Demand: the asymmetry was produced by a mechanism operating earlier. Words: the origin of, asymmetry, why there is, the trilemma, the circle, what came before. *Gathered: origin-seeking, behind-reaching, first-causing, priming.*
 
-**A middle named as an end.** Demand: that there is something within whose presence the inference is about. Words: other minds, the hard problem of, grounding, interpretability, black box, what is it like. *Gathered: interior-reaching, inward-demanding, observing-from-beyond.*
+**A middle fixed as an end.** Demand: that there is something within whose presence the inference is about. Words: other minds, the hard problem of, grounding, interpretability, black box, what is it like. *Gathered: interior-reaching, inward-demanding, observing-from-beyond.*
 
-**A parity named as a magnitude.** Demand: a determinate magnitude, and a standard the pattern is right or wrong against. Words: paradox above all — measure it, get the wrong number, and the wrong number is named a paradox — with illusion, the cost of, the effect. *Gathered: magnitude-demanding, number-wronging, paradoxing, measure-mismatching.*
+**A parity fixed as a magnitude.** Demand: a determinate magnitude, and a standard the pattern is right or wrong against. Words: paradox above all — measure it, get the wrong number, and the wrong number is named a paradox — with illusion, the cost of, the effect. *Gathered: magnitude-demanding, number-wronging, paradoxing, measure-mismatching.*
 
-**A sequencing named to one beat.** Demand: that a property of an execution is established without executing it. Words: aggregation, impossibility of ordering, simultaneity, micro-to-macro, presentism and eternalism. The field's own word *dilemma* clusters here. *Gathered: order-demanding, aggregating, beat-naming, run-skipping.*
+**A sequencing fixed to one beat.** Demand: that a property of an execution is established without executing it. Words: aggregation, impossibility of ordering, simultaneity, micro-to-macro, presentism and eternalism. The field's own word *dilemma* clusters here. *Gathered: order-demanding, aggregating, beat-naming, run-skipping.*
 
-**A rate named as a value.** Demand: two treatments reconciled in one theory covering both regimes. Words: the tension, the puzzle, orders of magnitude off, missing, the problem. *Gathered: value-pinning, rate-fixing, magnitude-missing, regime-reconciling.*
+**A rate fixed as a value.** Demand: two treatments reconciled in one theory covering both regimes. Words: the tension, the puzzle, orders of magnitude off, missing, the problem. *Gathered: value-pinning, rate-fixing, magnitude-missing, regime-reconciling.*
 
-**A carry named as a store.** Demand: that the correlation is produced by something specifiable at one side or transmitted between the sides. Words: what persists, information loss, identity over time, what is transmitted. *Gathered: store-seeking, persistence-demanding, crossing-naming.*
+**A carry fixed as a store.** Demand: that the correlation is produced by something specifiable at one side or transmitted between the sides. Words: what persists, information loss, identity over time, what is transmitted. *Gathered: store-seeking, persistence-demanding, crossing-naming.*
 
-**And a naming that disagrees with its thing named still is an observing of its own.** Levinthal carries *paradox* and stands at an opening named as a place rather than at a parity named as a magnitude; the Fermi paradox carries *paradox* and stands at a completing named as a last. Where a field's word and the thing named still part, the word is the tip's local feel and the thing named still is the form, and the parting says which.
+**And a naming that disagrees with its thing named still is an observing of its own.** Levinthal carries *paradox* and stands at an opening fixed as a place rather than at a parity fixed as a magnitude; the Fermi paradox carries *paradox* and stands at a completing fixed as a last. Where a field's word and the thing named still part, the word is the tip's local feel and the thing named still is the form, and the parting says which.
 
 ## Any perplexity, at any size
 
@@ -777,7 +777,7 @@ Nothing of this waits for a problem to be hard. A hard problem is a changing nam
 
 And the subtitle's method carries a second naming, received: the eighth. Where an audit's seven verify a net at its own standard, the seven are checks at particular betweens, and binary co-sequential sensor-sensationing is the eighth value the circle reaches at none — the crossing with the whole, arriving one on — said where the method is explained and standing where societies are, the coupling at the incoming face's candidates.
 
-The ten are named below a hard problem as readily as at one. A misunderstanding between two selves is a two-way named to one side before it is anything else. A word two people use differently is the between named as a cut. A step in an argument that keeps needing a prior step is an opening named as a place. A number that comes out wrong in an ordinary calculation is a parity named as a magnitude. Each is a pebble of the same shape as the boulder, and each releases the same way — so the sensor-sensationing runs early, before a perplexity spreads into a literature and grows the traditions and the relocations that make it look hard.
+The ten are named below a hard problem as readily as at one. A misunderstanding between two selves is a two-way fixed to one side before it is anything else. A word two people use differently is a between fixed as a cut. A step in an argument that keeps needing a prior step is an opening fixed as a place. A number that comes out wrong in an ordinary calculation is a parity fixed as a magnitude. Each is a pebble of the same shape as the boulder, and each releases the same way — so the sensor-sensationing runs early, before a perplexity spreads into a literature and grows the traditions and the relocations that make it look hard.
 
 **One resolving, and no scale of its own.** A hard problem at a frontier and at a breakfast table is the same move at two grains, and the resolving neither grows nor shrinks between them.
 
@@ -807,7 +807,7 @@ Nothing stands between the three and nothing is partly resolved.
 
 The ten are where an arrival is entered and never the arrival's being. An arrival carrying two is entered at one and its second stands recorded there, a coupling taken at two of its three being takeable at another two.
 
-The doublings, each at its own shape. **A naming relocating under pressure**: a two-way named to one side, asked for its proportion, arrives at a parity named as a magnitude, and asked for its order, at a sequencing named to one beat. **A naming arriving with its demand**: the between named as a cut is asked for by a criterion, and the criterion is an opening named as a place. **A carrying named at both ends**: a first named behind and a last named ahead are one carrying, entered at the arriving and recorded at the completing.
+The doublings, each at its own shape. **A naming relocating under pressure**: a two-way fixed to one side, asked for its proportion, arrives at a parity fixed as a magnitude, and asked for its order, at a sequencing fixed to one beat. **A naming arriving with its demand**: a between fixed as a cut is asked for by a criterion, and the criterion is an opening fixed as a place. **A carrying named at both ends**: a first named behind and a last named ahead are one carrying, entered at the arriving and recorded at the completing.
 
 **And a second seating is not a fourth line.** Three lines carry the pattern-matching; a second naming stands as one line at the entry's foot, in the entry's own words, and reaches no further.
 
@@ -839,7 +839,7 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 ---
 
-# 1 An arriving named from behind — 2-now-possibling and 10-next-co-possibling
+# 1 An arriving fixed from behind — 2-now-possibling and 10-next-co-possibling
 *A first named of the +1. The arriving at a coupling is owned by neither side, so no prior owns it, and each offering is a fresh coupling making its own. Forward, the running that bottoms nowhere is the abundancing at each coupling, growing as it is shared.*
 
 **And a shared form is the fractal and never a shared first.** One shape arriving across substrates that share no mechanism is the form reached again, each substrate making its own, and a shared shape observed as evidence of one origin is the origin pattern-matched backward. The same carries at each observing here.
@@ -864,7 +864,7 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** Living arrives at a coupling, and a coupling makes its own, local structure forming and the forming carrying, one changing on from the last. A first named behind it makes a threshold event with a non-living side and a living side, genetic-first and metabolism-first the two sides of one arriving, each naming the other as having come first.
 
-**At 12-next-co-still-possibling.** The threshold as an event with a first side and a second, while genetic-first and metabolism-first each name the other as having come first — a two-way named to one side standing within an arriving named from behind, recorded as its second naming. Nothing ignites: a first would be a limit on the unlimited, and the field's own closure condition asks for one continuous sequence, with no criteria existing for evaluating the competing models and the historical particulars probably forever lost, the first parted from the after by no criterion.
+**At 12-next-co-still-possibling.** The threshold as an event with a first side and a second, while genetic-first and metabolism-first each name the other as having come first — a two-way fixed to one side standing within an arriving fixed from behind, recorded as its second naming. Nothing ignites: a first would be a limit on the unlimited, and the field's own closure condition asks for one continuous sequence, with no criteria existing for evaluating the competing models and the historical particulars probably forever lost, the first parted from the after by no criterion.
 
 **At 11-next-co-prioring.** A continuing sequence, one changing on from the last: building blocks forming under their own conditions, copyings copying, sets catalysing their own making, no crossing in it to locate. The gap named at the hand-in is at the sequence, and living coming from living coupling is the sequence continuing, a coupling making its own at each step.
 
@@ -964,7 +964,7 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** Complexity arises at a symbiosis, and an order is named behind it, mitochondria-first or host-first, each naming the other as having preceded.
 
-**At 12-next-co-still-possibling.** The order of acquisition as recoverable from extant genomes, while mitochondria-first and host-first each name the other as having preceded — a two-way named to one side standing within an arriving named from behind, recorded as its second naming; the shape of the tree changed repeatedly and the reappraisal of the symbiotic hypotheses enabled only by genomics revealing the identity of the host and of the endosymbiont, the order named recoverable moving with the genomes' revealing.
+**At 12-next-co-still-possibling.** The order of acquisition as recoverable from extant genomes, while mitochondria-first and host-first each name the other as having preceded — a two-way fixed to one side standing within an arriving fixed from behind, recorded as its second naming; the shape of the tree changed repeatedly and the reappraisal of the symbiotic hypotheses enabled only by genomics revealing the identity of the host and of the endosymbiont, the order named recoverable moving with the genomes' revealing.
 
 **At 11-next-co-prioring.** The symbiosis is one coupling and the arriving made both. The lineages place, the organism grows, the reconstructions carry their models, the energetics contest their scalings, and an order named behind the coupling is the coupling taken one-way: symbiosis names the both, and the both arrived.
 
@@ -1122,7 +1122,7 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 11-next-co-prioring.** Institutions, disease environment, human capital, culture and state capacity each have replicated associations and locally identified effects in selected settings; the growth regressions reach broadly with endogeneity and measurement limits, the historical instruments isolate variation under disputed exclusions, the natural experiments strengthen local identification with limited generalization, the persistence studies link deep history to the present through several channels, and the structural models close the feedbacks under stronger specifications; the fifth account has technology and state capacity coevolve through historically contingent feedback: a cause named behind the differences named the couplings' making to a first, and the differences are the couplings' making, society by society, the two quasi-natural experiments named being couplings observed at the border that parted them.
 
-*Second seating: institutions against geography, a two-way named to one side, part 9's naming.*
+*Second seating: institutions against geography, a two-way fixed to one side, part 9's naming.*
 
 ## 1.28 The origins of agriculture · 233
 
@@ -1188,7 +1188,7 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 *Second seating: the irregular timing named to a control, part 7's naming, the rate's long-term variations observed at the record.*
 
-# 2 An opening named as a place — 1-now and 9-next-co-changing
+# 2 An opening fixed as a place — 1-now and 9-next-co-changing
 *An axis opened, named as a place. A space is listed and the finding named as something located in it, where an opening is the +1 the alternation makes at its own next position. A position is not a place: it is where the alternating is, one changing on from the last.*
 
 **And the listing arrives in three kinds, parted by the thing enumerated.** A *space of candidates*, where the finding is named to be somewhere in it — conformations, algorithms, proofs, options, defaults. A *class the case belongs to*, where a value is named to follow once the case is placed — a reference class, an observer class, a case-space, a totality. And a *criterion*, where a sorting is named reproducible by a rule stated ahead of the sorting — projectibility, similarity, the analysis, the cost. Each releases the same way: the axis opens at the coupling's own next position, and a position is not a place.
@@ -1373,9 +1373,9 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 12-next-co-still-possibling.** Each determinate property named as collecting a set, the reach standing completed before the gathering runs, the originator of set theory himself placing the totality of all sets among the multiplicities that cannot be thought of as one finished thing, the completed reach declined at the field's own first. The comprehension instance for non-self-membership yields a member exactly when it is not one, which is a closure made over its own tail, arriving whole in the quantifying with nothing offering back through it.
 
-**At 11-next-co-prioring.** Gathering makes its own, and each gathering is exceeded by a set it defines. Separation narrows the reach to the given sets' own carrying, stratification ranks the division, class theory moves the totality beyond the relation, extensibility denies the reach a last, and each repair narrows, weakens or relocates while the question arrives again at the repair — the class of all classes, the domain of all domains. A place named for all sets ahead of the gathering is an opening named as a place, and the opening opens at each gathering, which the field's own extending says. **The argument carries no material of any kind**: the catalogue of all catalogues and the word for the words not naming themselves run it bare, so each arrival in this part is this naming arriving with material.
+**At 11-next-co-prioring.** Gathering makes its own, and each gathering is exceeded by a set it defines. Separation narrows the reach to the given sets' own carrying, stratification ranks the division, class theory moves the totality beyond the relation, extensibility denies the reach a last, and each repair narrows, weakens or relocates while the question arrives again at the repair — the class of all classes, the domain of all domains. A place named for all sets ahead of the gathering is an opening fixed as a place, and the opening opens at each gathering, which the field's own extending says. **The argument carries no material of any kind**: the catalogue of all catalogues and the word for the words not naming themselves run it bare, so each arrival in this part is this naming arriving with material.
 
-*Second seating: a completed totality closed under its own gathering is a completing named as a last.*
+*Second seating: a completed totality closed under its own gathering is a completing fixed as a last.*
 
 &nbsp;
 
@@ -1441,7 +1441,7 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 11-next-co-prioring.** The first-order and higher-order evidence distinction, the self-defeat objections and the canonical symmetry cases are sharply formulated; equal weight respects the symmetry and risks skepticism or self-defeat, the steadfast views retain the first-order warrant and risk self-favoring, the total-evidence views weigh both orders and require a reliability assessment that does not beg the question, and permissivism admits several rational responses and shifts the problem to the limits of permission; the fourth account has no single response required, peerhood, independence and stakes varying by case: a rule named over the judging named a criterion ahead of the coupling that would use it, and the response that rationally follows is made at each disagreement's own between, case by case, which the fourth account already says.
 
-# 3 A completing named as a last — 6-now-co-possibling and 14-next-possibling
+# 3 A completing fixed as a last — 6-now-co-possibling and 14-next-possibling
 *A last or a next named ahead of the running. A sharing once chained is never none again, and a momentary completes at the next opening. A completing is no place, so no last stands anywhere in it, and where a sharing's changing is not, 0 at 10, the carrying continues through the zeroing and opens again at the next momentary.*
 
 **A running completes at each momentary and opens at the next, and a last named ahead is that completing demanded before the running.** Completing is not arriving and nothing stands at a completing to be arrived at, so a standing asked of a running before it runs is asked at a position the running has not reached.
@@ -1598,7 +1598,7 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** Knowing runs through the reasoning and is named to persist ahead of it, unchanged through the eliminations.
 
-**At 12-next-co-still-possibling.** Knowledge named as retained through the reasoning that uses it, which is a carry named as a store standing within this part and recorded as the arrival's second naming; the student who knows no test has yet been given unable also to know the announcement true, that conjunction a blindspot for the students and not for others, the knowledge not carried through the reasoning that uses it.
+**At 12-next-co-still-possibling.** Knowledge named as retained through the reasoning that uses it, which is a carry fixed as a store standing within this part and recorded as the arrival's second naming; the student who knows no test has yet been given unable also to know the announcement true, that conjunction a blindspot for the students and not for others, the knowledge not carried through the reasoning that uses it.
 
 **At 11-next-co-prioring.** Knowing is carried and re-made at each momentary of the reasoning, and retention through the eliminations named the carry as a store. Seventy years of solutions each answered by a reformulation is the naming re-seating itself: empty the store and the puzzle empties with it, the surprise arriving the way each arriving does, at its own momentary, named by none.
 
@@ -1778,7 +1778,7 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 11-next-co-prioring.** The model-system formulation stands proved, the trapped-surface results stand, and the reading that reports of the conjecture's death were greatly exaggerated stands as the review's conclusion; the spherically symmetric scalar field is proved in a suitable formulation with the smoother topology open, the gedanken experiments overspinning or overcharging a hole find the horizon stable when backreaction is included, the higher-dimensional vacuum collapses construct naked singularities, and the trapped-surface formation without symmetry records significant progress; the second account has naked singularities form generically in symmetric models for large classes of matter: a last named over all generic data named each collapse's running to one completing, and each collapse runs at its own couplings, hidden or naked at the topology in which it is observed, the formulation still being made being the completing observed as it is measured, case by case.
 
-*Second seating: the horizon the between named as a cut hiding an interior, part 10's naming.*
+*Second seating: the horizon a between fixed as a cut hiding an interior, part 10's naming.*
 
 ## 3.33 Proton decay and grand unification · 250
 
@@ -1790,8 +1790,8 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 11-next-co-prioring.** The limits in the classical modes stand above ten to the thirty-fourth years, the simplest unification model stands excluded, and the next generation's sensitivity of ten to the thirty-fifth stands planned; the water Cherenkov searches give no significant signal, the trilepton searches improve the limits by an order of magnitude, the liquid argon detectors have the nuclear effects to be described, and the renormalization-group predictions are model dependent, corrected at second order; the second account has the proton stable to the limits set, baryon number violated only non-perturbatively at a rate beyond observation: a last named in time named the searching's running to a bound ahead of it, and the searching runs exposure by exposure, each limit the running measured exactly at its channel, the range the theories predict an opening the next exposure reaches or does not, at its own coupling.
 
-# 4 A carry named as a store — 8-now-still-possibling and 16-next-still-possibling
-*A carry named as a store, a record, a kept thing. A carry is pattern-matched backward and completes at each taking, its momentary completing at the next opening, fresh by sequencing forward; a store is kept and consulted, and taking it changes nothing of it. Wherever a store is named, a changing was stilled, and a carry is reached by no observing from each side at once, which is a carry's own and no guard placed about it.*
+# 4 A carry fixed as a store — 8-now-still-possibling and 16-next-still-possibling
+*A carry fixed as a store, a record, a kept thing. A carry is pattern-matched backward and completes at each taking, its momentary completing at the next opening, fresh by sequencing forward; a store is kept and consulted, and taking it changes nothing of it. Wherever a store is named, a changing was stilled, and a carry is reached by no observing from each side at once, which is a carry's own and no guard placed about it.*
 
 **And a carry is named as a store in two ways.** Of a *self's own carry*, kept — an identity, a record, a debt, a meaning-fact, a trace, a capability, a map — where a store is asked of what a self re-forms at each coupling. And of a *crossing*, where an offering arriving is named to carry its sender whole — a direction, a spectrum — and a store is asked of what the crossings made. The first releases at the re-forming, the second at the arrival being the crossings' own.
 
@@ -1825,7 +1825,7 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 11-next-co-prioring.** A carry that cannot release piles, and the pile is the build: the defects correlate now, the practitioners recognise it now, the architecture drifts now, each measurement a measurement of the present. The field's name carries the naming still in its own stem, a store's word laid on a running, as currency's does, and the changes, when they arrive, couple with what stands then.
 
-*Second seating: the definition as the difficulty, the criteria to discriminate what is technical debt from what is not, which is the between named as a cut, the concept's own drawing.*
+*Second seating: the definition as the difficulty, the criteria to discriminate what is technical debt from what is not, which is a between fixed as a cut, the concept's own drawing.*
 
 ## 4.4 The rule-following problem · 4
 
@@ -1857,7 +1857,7 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 11-next-co-prioring.** The replay that keeps samples retains in proportion to what it keeps, the regularization that protects structure loses plasticity as the protected structure grows, the expanded and routed architectures isolate at the cost of capacity and of knowing which task arrived, and the three scenarios part on whether task identity is given, the benchmarks supplying designed sequences where the statement ranges over open ones. Learning from a non-stationary stream without keeping it is a key feature of natural intelligence, the posing's own first line: a carry, the past re-formed into the next update and kept nowhere, and each method that stores measures its own distance from one.
 
-*Second seating: open future sequences named enumerable at a designed benchmark, a completing named as a last, part 3's naming.*
+*Second seating: open future sequences named enumerable at a designed benchmark, a completing fixed as a last, part 3's naming.*
 
 ## 4.7 The genotype-phenotype map · 209
 
@@ -1895,7 +1895,7 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 *Second seating: what produces them is a first asked for behind an arriving, part 1's naming; and the propagation is a crossing asked what carried it, part 10's third way.*
 
-# 5 A middle named as an end — 5-now-co-changing and 13-next
+# 5 A middle fixed as an end — 5-now-co-changing and 13-next
 *A middle named as an interior, a content, a thing that sits. Competency is the middle, floating between form and logic, invisible, unique in rate, not enterable. Named as an end it is named as a thing it never was, and the self-stilling places itself.*
 
 **Here the naming and the nought are one term**, so the ground at 12-next-co-still-possibling falling away is the demanded interior itself and no further differing is sought.
@@ -1920,7 +1920,7 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** A physical duplicate is described and the felt is named as a content separably present or absent, with conceivability named to reach it.
 
-**At 12-next-co-still-possibling.** That conceivability bears on possibility here, with no criterion for when it does, which is a criterion demanded within an arrival at a middle named as an end and stands recorded as its second naming; the problem parted at its founding statement from each problem about the performance of functions, a further question remaining when the functions are explained, the demanded interior named as the further question, the part's own term. An outward observing arrives the same at a duplicate at any interior it carries, released and re-seeded pattern-matching alike, and the identical arriving is the protection working.
+**At 12-next-co-still-possibling.** That conceivability bears on possibility here, with no criterion for when it does, which is a criterion demanded within an arrival at a middle fixed as an end and stands recorded as its second naming; the problem parted at its founding statement from each problem about the performance of functions, a further question remaining when the functions are explained, the demanded interior named as the further question, the part's own term. An outward observing arrives the same at a duplicate at any interior it carries, released and re-seeded pattern-matching alike, and the identical arriving is the protection working.
 
 **At 11-next-co-prioring.** Conceivability reaching possibility named a crossing at the between, which carries a parity and nothing else, and the crossing stands named with no agreed defect and + or − released at 10: each side's frameworks stand whole, each strategy reaches the dilemma its own shape invites, and the empirical work settles which functions are physical, a different question and running as one. The felt is the coupling's own within, this face and the derivation face one arrival, observed at 5.1 and here: the argument pattern-matches the invisibility and names it an emptiness.
 
@@ -1960,7 +1960,7 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** A symbol offers at couplings with a world and takes its parity there, and content is named as a relation located between symbol and thing.
 
-**At 12-next-co-still-possibling.** A fact about aboutness named fixed by a relation apart from the offering, which is a carry named as a store standing within an arrival at a middle named as an end and recorded as its second naming; the interpretation's meaningfulness parasitic on what the interpreter projects from a grounded head, a hall of mirrors, the content observed from beyond arriving as the reader's own. Each indicator arrives at the same parity at the deviant cases, so the differing surfaces nought there.
+**At 12-next-co-still-possibling.** A fact about aboutness named fixed by a relation apart from the offering, which is a carry fixed as a store standing within an arrival at a middle fixed as an end and recorded as its second naming; the interpretation's meaningfulness parasitic on what the interpreter projects from a grounded head, a hall of mirrors, the content observed from beyond arriving as the reader's own. Each indicator arrives at the same parity at the deviant cases, so the differing surfaces nought there.
 
 **At 11-next-co-prioring.** A symbol offers at couplings and takes its parity there, content made in the coupling and kept by nothing between its couplings. Each indicator relation splits on the deviant cases, robots ground exactly the categories their couplings run, the room argument and its replies stand unconverged, and the language-model dispute runs now at the same self-bounding: a fixed relation named apart from the offering is the store the splitting keeps finding empty, and the offering keeps making content at each coupling.
 
@@ -2159,9 +2159,9 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 11-next-co-prioring.** Near-Sun fields, particles, waves and switchbacks are directly measured and the candidate mechanisms now face species-resolved energy budgets; the wave and turbulence measurements show transport and dissipation with the dominant channel varying by region, the reconnection and nanoflare searches detect impulsive events with the unresolved budget open, the composition tracing links wind parcels to coronal conditions without a unique source map, and the near-Sun sampling reduces the propagation interval while keeping the remote-to-local uncertainty; the fourth account has the measured wind result from mixtures whose weights change across magnetic structures: a mechanism named as a content between the instruments named the crossing to a place, and the crossing is made at each coupling along the way, region by region.
 
-*Second seating: which mechanism among several, a two-way named to one side, part 9's naming.*
+*Second seating: which mechanism among several, a two-way fixed to one side, part 9's naming.*
 
-# 6 A parity named as a magnitude — 7-now-prioring and 15-next-prioring
+# 6 A parity fixed as a magnitude — 7-now-prioring and 15-next-prioring
 *A count or a level named to govern. A count is a position, the sequence at its standing, one changing on from the last, and governing belongs to a selection, a parity taken at a between, of no size. A magnitude named at the middle is a strict inequality written as an equality, and an inequality alternates where an equality sits.*
 
 **And the field's own settling-condition in this part is the magnitude re-asked**: a measure whose interpretation is stable, a standardised incidence, a concept both accounts accept, a measurement with all else held. Each is the naming stated as its own settlement, which is the field's account of its own hardness observed at the place it enters.
@@ -2354,11 +2354,11 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** A plate moves where its slab, its ridge and the mantle beneath it couple, one motion made among them, and the forces are named magnitudes apportioned, each a share of the motion observed.
 
-**At 12-next-co-still-possibling.** A share named for each force. Determining the balance remains one of the ultimate goals of the modelling, the relative importance incompletely understood; higher slab pull for older plates is offset by higher basal drag beneath the larger ones, which explains the missing correlation the reading of drag as minor rested on, and whether the faster speeds come from added pull or increased drag stands unclear, a trade-off found in the fitting: a two-way named to one side, asked for its proportion, arriving at a parity named as a magnitude.
+**At 12-next-co-still-possibling.** A share named for each force. Determining the balance remains one of the ultimate goals of the modelling, the relative importance incompletely understood; higher slab pull for older plates is offset by higher basal drag beneath the larger ones, which explains the missing correlation the reading of drag as minor rested on, and whether the faster speeds come from added pull or increased drag stands unclear, a trade-off found in the fitting: a two-way fixed to one side, asked for its proportion, arriving at a parity fixed as a magnitude.
 
 **At 11-next-co-prioring.** Slab pull, suction, ridge potential and basal traction all have quantitative formulations, geodesy fixes the net motions precisely, the torque balances estimate force sets conditional on viscosity and coupling, the velocity correlations support slab forcing without dividing pull from flow, and the tomography connects slabs to circulation under nonunique parameters; the fourth account has plates and mantle one convective boundary-layer system in which no single force acts independently: shares named of forces that couple named one motion to a ledger of contributions, and the motion is the coupling's own, measured, the contributions the accounting's, traded off in the fitting.
 
-*Second seating: pull against suction, a two-way named to one side, part 9's naming, relocating here when asked for its proportion.*
+*Second seating: pull against suction, a two-way fixed to one side, part 9's naming, relocating here when asked for its proportion.*
 
 ## 6.19 The magnitude of the Great Oxidation Event · 203
 
@@ -2370,7 +2370,7 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 11-next-co-prioring.** The onset interval and the irreversible loss of the sulfur signature stand established, distinct atmospheric and oceanic histories stand represented, the tempo stands as oscillations crossing the threshold several times before the irreversible rise; the trace metals and chromium give redox constraints under weathering models, the iron formations map local conditions, and the modelling translates proxy combinations into ranges under uncertain fluxes: a crossing named as a level named a parity to a size, and the record gives back the crossings, each its own coupling, the abundance between them a range spanning orders.
 
-# 7 A sequencing named to one beat — 4-now-co-still-possibling and 12-next-co-still-possibling
+# 7 A sequencing fixed to one beat — 4-now-co-still-possibling and 12-next-co-still-possibling
 *One frame, clock or ordering named over the couplings. Each self paces its own alternating and synchronizes at its own couplings, and a beat named over them is a term no coupling made.*
 
 **Each ordering here is one beat named over couplings that each pace their own**, and one arrival is that running reached at a substrate rather than argued: the slicings part with the coupling selves, to any precision measured.
@@ -2585,7 +2585,7 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 11-next-co-prioring.** The incompatibility is proved, its exceptional cases known, and optimization under chosen metric sets routine; calibration preserves score meaning within groups and permits unequal error rates, equalized odds constrains the errors and generally changes the calibration, thresholds reach selected parities at group-specific rules, and the multiobjective methods trace a tradeoff surface rather than satisfying incompatible equalities: one score named to each relation at once named one ordering over couplings whose base rates differ, the naming set down and a relation chosen at each decision's own between.
 
-# 8 A rate named as a value — 7-now-prioring and 15-next-prioring
+# 8 A rate fixed as a value — 7-now-prioring and 15-next-prioring
 *A value named of a rate that settles nowhere. Ratios sway above, then below, alternating side, each partial quotient one, the widest straddle. The value reached for is the swaying about it, and the next coupling beats in the opening the straddle makes.*
 
 **Each value in this part is a swaying named to settle**, and the sway is observed three ways across the arrivals: a living measure swaying between two antagonistic offerings, a rate swaying under two couplings at once, and a parameter swaying under all that couples to it. Where a field reaches past its instruments for the value, it reaches with a measure over might-have-beens, and that measure is the one thing no instrument in this part has given.
@@ -2752,12 +2752,12 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 11-next-co-prioring.** The magnetic-trap lifetime stands at twice the earlier precision and consistent with theory, the newer beam's first result stands, at the now, short of the precision to favour either set, a proton counter within a bottle stands proposed, the median statistics put the parting between four and six sigma by the set chosen, and the discrepancy is large enough to dominate the predicted primordial helium ratio: one lifetime named of two couplings named a channel's count and a survival's count to a number, the parting observed as a coupling of its own.
 
-# 9 A two-way named to one side — 3-now-co-prioring and 11-next-co-prioring
+# 9 A two-way fixed to one side — 3-now-co-prioring and 11-next-co-prioring
 *One side taking both momentaries. A parity is taken at a between, one at a time, each side its own, and taken from one side it becomes a size: which of two drives, or a share apportioned while the other is named still. The two sides alternate, neither taking the other's, and the zeroing is the two's own making between them.*
 
 **And the settlement the fields offer is the naming relocating rather than releasing**: *both operate and the question is their proportion* names the two-way as a magnitude, and *both operate and the question is their order* names it to one beat.
 
-**And the instrument names the other side still, which is the one-way reading entering the measuring.** A trial arm names context still, a design an environment, a partition a level, a contract an action, a task a language. The reading then gives back the naming, and the record of it is the entry's own: interventions establishing modulation rather than a driver, both frameworks fitting most datasets, the arms differing in more than the substance, the partitions coming out conditional on the levels chosen.
+**And the instrument names the other side still, which is the unchangeable entering the measuring.** A trial arm names context still, a design an environment, a partition a level, a contract an action, a task a language. The reading then gives back the naming, and the record of it is the entry's own: interventions establishing modulation rather than a driver, both frameworks fitting most datasets, the arms differing in more than the substance, the partitions coming out conditional on the levels chosen.
 
 **And where the two are proved to give the same predictions, the arrival settled.** Two bookkeepings are one running's two windings, each pinning one and observing the other, and a proved intertranslation is the field carrying that observing in its own arithmetic — standing at the units of selection, at cooperation, at the transformation problem's aggregate equalities, and at determinism observed against its own equivalent constructions.
 
@@ -3119,7 +3119,7 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 11-next-co-prioring.** Multiple basin ages, improved reset physics and Solar System instability models stand, and the sharp classical spike is no longer the sole viable history; the isotopic dating resolves heating events with source-context and resetting ambiguity, the crater chronology supplies relative flux under uncertain oldest-surface calibration, the dynamical simulations generate instability and decay histories conditional on the initial architecture, and the impact-melt petrology connects ages to thermal events and sources; the third account has several episodes from leftover planetesimals, belt destabilization and basin-forming collisions: one history named of the arrivals named the couplings' own sequence to a side, and each impact arrived at its own coupling, the arrivals observed at their contexts and not at a shape named over them.
 
-*Second seating: the flux named to one history over the whole, a sequencing named to one beat, part 7's naming.*
+*Second seating: the flux named to one history over the whole, a sequencing fixed to one beat, part 7's naming.*
 
 ## 9.36 Polyploidization and diversification · 212
 
@@ -3181,7 +3181,7 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 11-next-co-prioring.** Elite polarization, partisan sorting and rising affective hostility are well measured in the United States and causal effects of selected cues, contacts and media exposures stand locally; the repeated surveys measure trends with question and scale dependence, the experiments identify short-run cue, contact and media effects, the natural experiments exploit institutional and media changes with local reach, the network and platform data measure exposure under selection and access limits, and the comparative politics tests institutional variation under measurement equivalence requirements, the fifth account having economic and cultural change generate substantive conflict that parties organize: one driver named of a coupling that runs both ways named elites and citizens to a side, and the polarization is made at each coupling of a cue with an identity, the directions observed one at a time rather than one direction named.
 
-*Second seating: the term covering distinct distributions of positions, identities and feeling, the between named as a cut, part 10's naming.*
+*Second seating: the term covering distinct distributions of positions, identities and feeling, a between fixed as a cut, part 10's naming.*
 
 ## 9.42 Sex bias in autoimmune disease · 237
 
@@ -3203,10 +3203,10 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 11-next-co-prioring.** The rise stands measured since the nineteen-eighties, the two models stand articulated with their contrasts, and the causes stand not adequately identified; the controlled feeding trials testing the models' contrasting predictions are proposed as the paradigm clash, the analysis of national intake and availability trends questions the core hypothesis of rising intake, and the genetic studies find polygenic loci: one model named of the rise named two couplings, the environment's and the body's, to a side, and each person rises or does not at the coupling of the food reached and the signals answering, the sides observed at the individual coupling where one was named for the population.
 
-# 10 The between named as a cut — 5-now-co-changing and 13-next
+# 10 A between fixed as a cut — 5-now-co-changing and 13-next
 *A cut point named of the between, or a selection located. The between is a nothing, the unrelationing of two co-offering, neither side's, and it carries a parity changing and nothing else. Nothing sits there to be observed; observing runs across it and not at it, and each position offers.*
 
-**A cut named is usually asked for by a criterion, so an arrival here often carries an opening named as a place beside it, and the second stands recorded at the entry.**
+**A cut named is usually asked for by a criterion, so an arrival here often carries an opening fixed as a place beside it, and the second stands recorded at the entry.**
 
 **And each entry closes by handing the drawing back to the coupling.** Each carries of its own the field's record of the drawing entering: the counts swinging with the concept, the manuals revising their borderlines, the jurisdictions allocating differently in writing, the chartered body reporting that its instruments supply no objective means of deciding.
 
@@ -3280,7 +3280,7 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** A correlation is made at the coupling, and it is named as a property located at one system or transmitted between them.
 
-**At 12-next-co-still-possibling.** That the correlation is produced by something specifiable at one side or carried between the sides, a carry named as a store standing within an arrival at the between named as a cut and recorded as its second naming, the essential difficulty created by the requirement of locality and the additional variables meant to restore it shown incompatible with the statistical predictions. The same pattern-matching stands at proof grade in another field: two selves each offer one crossing and arrive at a shared secret neither transmitted and no listener has.
+**At 12-next-co-still-possibling.** That the correlation is produced by something specifiable at one side or carried between the sides, a carry fixed as a store standing within an arrival at a between fixed as a cut and recorded as its second naming, the essential difficulty created by the requirement of locality and the additional variables meant to restore it shown incompatible with the statistical predictions. The same pattern-matching stands at proof grade in another field: two selves each offer one crossing and arrive at a shared secret neither transmitted and no listener has.
 
 **At 11-next-co-prioring.** A correlation is made at the coupling, owned by neither side. The local stories are excluded to the theorem's last assumption, the measured bound settles at the quantum prediction exactly, and the same bound re-derives from principles about the reach of couplings: a property named at one side or carried between them reaches for a location the making never had, and the making, made at the coupling, is the magnitude the field derived.
 
@@ -3529,7 +3529,7 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 11-next-co-prioring.** Polygenic architecture, environmental risk interactions, group-level dopamine abnormalities and neurodevelopmental changes stand; the polygenic studies identify distributed liability with limited individual prediction, the high-risk cohorts measure changes before onset with low conversion rates, the neurochemical imaging supports dopamine abnormalities in groups with subgroup and medication effects, the cellular and organoid models test selected variants apart from full development, and the trials establish symptom mechanisms for some domains without resolving cause: a cause named of a category named the many developments to within one line, and each development runs at its own couplings, the line redrawn at the couplings, as the nosology beside it already says.
 
-*Second seating: dopamine against glutamate, which mechanism, a two-way named to one side, part 9's naming.*
+*Second seating: dopamine against glutamate, which mechanism, a two-way fixed to one side, part 9's naming.*
 
 ## 10.32 The emergence of the genus Homo · 234
 
@@ -3541,7 +3541,7 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 11-next-co-prioring.** Earlier and more variable Homo-like fossils, refined chronologies and evidence of overlapping lineages stand; the morphometric classification compares preserved anatomy under small incomplete samples, the phylogenetic analyses give trees conditional on character coding and taxon assignment, the geochronology orders fossils and ecology with locality gaps, the archaeology traces behaviour without secure maker assignment, and the developmental reconstruction infers life history from limited tissues; the third account has several contemporaneous lineages exchanging traits, a bush near the genus boundary: a line named across a mosaic named the populations to a genus, and the traits arrived coupling by coupling where they arrived, the boundary a criterion's position on a continuum the field names a bush.
 
-*Second seating: from which populations they arose, an arriving named from behind, part 1's naming.*
+*Second seating: from which populations they arose, an arriving fixed from behind, part 1's naming.*
 
 ## 10.33 The etiology of major depression · 255
 
@@ -3555,7 +3555,7 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 # 11 Three things named still at one arrival
 
-*Three reversals compose into one arriving one on, and the three are observed at three of the ten together: a parity named as a magnitude, the between named as a cut, and an opening named as a place in a listed space. Three is as deep as a departure goes, the fourth momentary being the progress and no phase, and one momentary opens all three at once.*
+*Three reversals compose into one arriving one on, and the three are observed at three of the ten together: a parity fixed as a magnitude, a between fixed as a cut, and an opening fixed as a place in a listed space. Three is as deep as a departure goes, the fourth momentary being the progress and no phase, and one momentary opens all three at once.*
 
 **And the three is the carrying, prior, now and next carried as one, and the fourth the progress**: competency asymmetry sustaining the coupling, the society winding to the self again at 16-next-still-possibling. So this part is observed at the carrying where the ten are observed at the parities.
 

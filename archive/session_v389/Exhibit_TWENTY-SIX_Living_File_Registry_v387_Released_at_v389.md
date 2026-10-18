@@ -65,3 +65,9 @@ Nothing at `archive/` or at the history is read for a next
 The neighbouring sections explain the scale reading,
 
 The comparison reads Transmissioning, Societies and Human Society
+
+## Re-said at the ten unchangeables, each fixed, v389
+
+| **Resolving Hard Problems ⇌ Natural Resolver ⇌ Resolving the Hard Problem Registry** | The ten things named still, the ring’s ten changings, the boxes’ five pairs and their resolving; the assembled field and its particular fields retain their differing distributions. |
+
+**Four momentaries, six connectors, eight faces and ten things named still each count a particular relation.** Natural Intelligence, Resolver, Numbers, Mathematics, Naming and Resolving Hard Problems meet those relations at their own subjects. Their counted correspondence belongs with the operations and concepts it joins.

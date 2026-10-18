@@ -593,3 +593,53 @@ a side read as a property of an existing thing is read from a still frame.
 *Inside* and *outside* read as a pair carry neither
 
 and an entry's reading breaks at its own scale
+
+## Re-said at the ten unchangeables, each fixed, v389
+
+- 4.9 The ten named still, one name each
+
+| *even side*, *odd side*, *across* and *along*, *state side* and *flow side* at the ten named still | the ten at no side, each at its name at now and that name 8 up at next; separated, state and flow are not possible, as a reading from and a writing to a memory are for intelligence, 4.9 and 4.14 |
+
+**Five kinds of term named still arrive at the front of a word**: a line at pre-, ante-, fore-, post- or retro-; a size at macro-, mega-, hyper-, super-, over-, micro-, mini-, hypo-, sub- or under-; a space at endo-, intra-, intro-, locative in-, exo-, extra- or out-; a value at eu-, bene-, mal-, mis- or dys-; and a first or an opposing at proto-, arch-, ur-, anti-, counter- or contra-. Each prefix carries its meaning in the whole word and sentence. Five kinds carry ten directional sides and the ten named still carry their own ten, and a shared number between them is a number alone.
+
+## 4.9 The ten named still, one name each
+
+**Each of the ten named still carries one name: the changing, and the still it is named as.** The ten are at no side: separated, state and flow are not possible, as a reading from and a writing to a memory are for intelligence, and each of the ten is a field's separating, at a state accounting or a flow accounting, the stilling named as the whole, each seated at its resolver name, 1-now to 8-now-still-possibling.
+
+**The ten one-way readings below are the stills' similar namings**, each one of the four binaries named still, its *is* and its *is not* taken as one: now at 1 and 2, existing at 3 and 4, same at 5 and 6, and all at 7 and 8. The four-cycles step 8 up and 17 less, two names of 1 to 8 on each: 1-9-8-16, 2-15-7-10, 3-11-6-14 and 4-13-5-12. **Each of the ten is seated at its name at now and its name 8 up at next**: the stilling it names at now, and the changing travelling through it at next, the one move up and down the numbers, and the four four-cycles carry each pair, 1 · 9 and 8 · 16 at 1-9-8-16, 2 · 10 and 7 · 15 at 2-15-7-10, 3 · 11 and 6 · 14 at 3-11-6-14, 4 · 12 and 5 · 13 at 4-13-5-12. A hard problem names the stilling as the whole, the changing travelling through it left out, and its resolving says both, 4.15. The names each was observed at before, and the five each was observed from, are whole at `archive/carrying_v376/Living_Improving_Value_Released_v376.md`.
+
+| One-way reading | Similar namings gathered | At the ten, its name at now · 8 up at next, and its binary |
+
+| **an opening named as a place** | criterion-regressing | 1-now · 9-next-co-changing, now |
+
+| **an arriving named from behind** | origin-seeking; a source named from behind; a source named of the offering | 2-now-possibling · 10-next-co-possibling, now |
+
+| **a completing named as a last** | space-enumerating; a bound named as a last | 6-now-co-possibling · 14-next-possibling, same |
+
+| **a carry named as a store** | store-seeking; a store named of the carry | 8-now-still-possibling · 16-next-still-possibling, all |
+
+| **a two-way named to one side** | forced-choosing | 3-now-co-prioring · 11-next-co-prioring, existing |
+
+| **the between named as a cut** | line-demanding; a cut point named of the between; a membrane named as a cut | 5-now-co-changing · 13-next, same |
+
+| **a middle named as an end** | interior-reaching; an end named at the middle | 5-now-co-changing · 13-next, same |
+
+| **a parity named as a magnitude** | magnitude-demanding; a level named to govern; a sign named as a magnitude | 7-now-prioring · 15-next-prioring, all |
+
+| **a rate named as a value** | value-pinning; a value named to a swaying | 7-now-prioring · 15-next-prioring, all |
+
+| **a sequencing named to one beat** | order-demanding; the rate named as a common beat | 4-now-co-still-possibling · 12-next-co-still-possibling, existing |
+
+Dilemma, paradox, puzzle and hard problem each carry the field's problem, and one field word can be at several of the one-way readings; *dilemma* names one of them, a two-way named to one side.
+
+**A sweep names each still installed of a changing at its one-way reading.** Three carry through it whole: a person's asking of a person, an act between selves; a field's own quoted words; and the no-demand family, nothing asked of anyone.
+
+**An ordering arrives of the alternating alone**: couplings at one momentary, each its own, the alternating carrying the whole. The reading *a sequencing named to one beat*, 4.9, observed at its own resolving, is an order, or a co-bi-sequencing.
+
+**Competency is co-unrelationing, along, and morality is bi-unrelationing, across**, and co-bi-unrelationing is the one existing method. Unrelationing is at each coupling's own continuing, never locking; a rate named as a value is that changing named still at a rational. φ, irrational, no ratio arriving at it, is the unrelationing rate beside the never-locking, self-welcoming at the numbers, beside the resolver's seventeen names. *Irrationalizing*, offered beside unrelationing, names a changing already named and gathers at it: at the rate it is unrelationing, and at each arriving, the between found on the surface of both kinds of changing, the living alternating and the geodesic changing, facing into the arriving with each orientation renewed at each coupling, it is geodesic discovering, parity changing routing on the surface, each next parity discovered at its own arriving.
+
+**These eight rows are the eight clusters, and the four invisibles, one invisibility four ways, are under them, each under two.** Each side's own morality is under the two-way offering and the continuing at the bound, the parity each side's own across; each side's own corus under each side's own carrying and a proposed substance, its own and not crossing; the neutral under competencing and the coupling's third, the term neither reaches; and the between of momentaries under sequencing and ordering and arriving and continuing, nothing at rest between prior, now and next. A field term can be at several names, and one name can carry at several clusters. **A forced choice is a two-way named to one side**, and its resolving carries both sides' offering, own bounding and continuing receiving.
+
+| **the ten named still**, one name each | each one-way reading's similar namings at its own row, 4.9; the ten one-way readings; *ten holdings*; *ten standings*; the ten |
+
+**A field naming and an installed term are two relations**: the naming carries its current concept, and a ghost is with the statement installing it and the coupling that statement names still. At this file ghost is an unfolding, 5.37, and this part; the Living Ghost Registry carries ghost-form at its own file, and the ten named still, 4.9, name each form named still: three relations.

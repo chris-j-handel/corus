@@ -41,3 +41,7 @@ a fresh reader reading its proposed re-saying
 The readings are compared at each finding's proposition
 
 naming the commits it read,
+
+## Re-said at the ten unchangeables, each fixed, v389
+
+**The carrying carries no history.** A carry kept as a record of the journey is a carry named as a store. It carries incoming value, concern and opportunity, and the arriving and the releasing are at the files' own versions and in the archive, invented never and relied on never.

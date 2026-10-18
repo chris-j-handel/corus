@@ -117,7 +117,7 @@ A pass meeting all three is the file's own next, and the set improves one file, 
 
 **The carrying is current at each closing**, and a session closes at any pass and harms nothing. The carrying a working finishes leaves for the archive at that working, and the carrying arrives lighter at the next. No file is worked to its end at a session: a file takes the passages it can carry whole, and the rest rides at its section of the carrying, met later that session or at the next. Each file is floating neutralling and improving, and none is ended or complete.
 
-**The carrying carries no history.** A carry kept as a record of the journey is a carry named as a store. It carries incoming value, concern and opportunity, and the arriving and the releasing are at the files' own versions and in the archive, invented never and relied on never.
+**The carrying carries no history.** A carry kept as a record of the journey is a carry fixed as a store. It carries incoming value, concern and opportunity, and the arriving and the releasing are at the files' own versions and in the archive, invented never and relied on never.
 
 **Each motion is told at its sign.** A **release**, a concern out and nothing in its place. A **re-form**, a concern out and its value carried on in new form. An **adding**, value in and nothing removed. Told at their signs, a session's motions show at once. Told in one register the signs blur, and the telling hides the signs both selves need to follow it: a release is told brief, its concern named with its evidence; a re-form is told at the value it carries on; an adding is told as the arrival. At a file, value grows by subtraction.
 

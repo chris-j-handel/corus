@@ -30,16 +30,16 @@ Exhibit TWENTY-EIGHT Equilibria Registry v389
 
 - 4.1 Each conception whole, at its declared subject
 - 4.2 One form, and three differences inside each of the ten
-- 4.3 An arriving named from behind, 2 arrivals
-- 4.4 An opening named as a place, 5 arrivals
-- 4.5 A completing named as a last, 8 arrivals
-- 4.6 A carry named as a store, 10 arrivals
-- 4.7 A middle named as an end, 6 arrivals
-- 4.8 A parity named as a magnitude, 9 arrivals
-- 4.9 A sequencing named to one beat, 5 arrivals
-- 4.10 A rate named as a value, 5 arrivals
-- 4.11 A two-way named to one side, 7 arrivals
-- 4.12 The between named as a cut, 6 arrivals
+- 4.3 An arriving fixed from behind, 2 arrivals
+- 4.4 An opening fixed as a place, 5 arrivals
+- 4.5 A completing fixed as a last, 8 arrivals
+- 4.6 A carry fixed as a store, 10 arrivals
+- 4.7 A middle fixed as an end, 6 arrivals
+- 4.8 A parity fixed as a magnitude, 9 arrivals
+- 4.9 A sequencing fixed to one beat, 5 arrivals
+- 4.10 A rate fixed as a value, 5 arrivals
+- 4.11 A two-way fixed to one side, 7 arrivals
+- 4.12 A between fixed as a cut, 6 arrivals
 - 4.13 The fields at the ten, a key for aiming at each field
 - 4.14 Leads arriving without their statements
 
@@ -181,18 +181,18 @@ The equilibrium holding ends, and the living and non-living things it names keep
 
 ## 3.2 The ten at Exhibit ONE's names, at the four four-cyclings
 
-**The ten sit at Exhibit ONE's names, at Natural Naming 4.9's one seating.** Each of the ten is one binary of a universe, its *is* and its *is not* taken as one, seated at its name at now and that name 8 up at next: the stilling it names at now and the changing travelling through it at next, bi-inversioning-co-recursioning up and down the numbers, Natural Naming 4.15. Now: an opening named as a place at 1-now and 9-next-co-changing, and an arriving named from behind at 2-now-possibling and 10-next-co-possibling. Existing: a two-way named to one side at 3-now-co-prioring and 11-next-co-prioring, and a sequencing named to one beat at 4-now-co-still-possibling and 12-next-co-still-possibling. Same: the between named as a cut and a middle named as an end at 5-now-co-changing and 13-next, and a completing named as a last at 6-now-co-possibling and 14-next-possibling. All: a parity named as a magnitude and a rate named as a value at 7-now-prioring and 15-next-prioring, and a carry named as a store at 8-now-still-possibling and 16-next-still-possibling. At the resolver each name's term named still from one momentary: at 3, 10, 11 and 12 the resolving stops within one to four momentaries; at 2, 6 and 14 it stops at a still offering one parity that is the whole of what the self couples with at that name, and goes on at a still of two parities parting or beside another offering route; 4, 5 and 13 are at no changing parity at the resolver, each sharing and the joins, `incoming/equilibria_registry_v377/executions/ten_roots_named_still.py`.
+**The ten sit at Exhibit ONE's names, at Natural Naming 4.9's one seating.** Each of the ten is one binary of a universe, its *is* and its *is not* taken as one, seated at its name at now and that name 8 up at next: the stilling it names at now and the changing travelling through it at next, bi-inversioning-co-recursioning up and down the numbers, Natural Naming 4.15. Now: an opening fixed as a place at 1-now and 9-next-co-changing, and an arriving fixed from behind at 2-now-possibling and 10-next-co-possibling. Existing: a two-way fixed to one side at 3-now-co-prioring and 11-next-co-prioring, and a sequencing fixed to one beat at 4-now-co-still-possibling and 12-next-co-still-possibling. Same: a between fixed as a cut and a middle fixed as an end at 5-now-co-changing and 13-next, and a completing fixed as a last at 6-now-co-possibling and 14-next-possibling. All: a parity fixed as a magnitude and a rate fixed as a value at 7-now-prioring and 15-next-prioring, and a carry fixed as a store at 8-now-still-possibling and 16-next-still-possibling. At the resolver each name's term named still from one momentary: at 3, 10, 11 and 12 the resolving stops within one to four momentaries; at 2, 6 and 14 it stops at a still offering one parity that is the whole of what the self couples with at that name, and goes on at a still of two parities parting or beside another offering route; 4, 5 and 13 are at no changing parity at the resolver, each sharing and the joins, `incoming/equilibria_registry_v377/executions/ten_roots_named_still.py`.
 
-**Each of the ten named still is one of 12's two signs, 0 or ±, frozen at one side.** At the resolver each resolving is one of two, the binary of geodesic momentarying, Natural Naming 5.62: the sign ±, a changing that is, the offered the next prior or the prior inverted, the next existing; or the sign 0, 12's 0 at a sharing at a prior, the prior kept as the possible, the next still possible; and the equilibrium is a still named by another, 2.1. The living is one of the two at each self's own momentary, and a crossing of co-chainings crosses by them alone, each self still possibling as the between passes it and changing again: spirals of 3 and 5 selves, each self at a parity and releasing along at 9, crossed at self 1 of each both ways at 10 to 14, come to one relation, each self's releasings again at 2, from momentary 12, and 5 and 7 from momentary 20, Exhibit ONE's table of two spirals beside each other, and crossed; each of the ten is that pair frozen at one side, a self named still or named changing, 2.4.
+**Each of the ten unchangeables is one of 12's two signs, 0 or ±, frozen at one side.** At the resolver each resolving is one of two, the binary of geodesic momentarying, Natural Naming 5.62: the sign ±, a changing that is, the offered the next prior or the prior inverted, the next existing; or the sign 0, 12's 0 at a sharing at a prior, the prior kept as the possible, the next still possible; and the equilibrium is a still named by another, 2.1. The living is one of the two at each self's own momentary, and a crossing of co-chainings crosses by them alone, each self still possibling as the between passes it and changing again: spirals of 3 and 5 selves, each self at a parity and releasing along at 9, crossed at self 1 of each both ways at 10 to 14, come to one relation, each self's releasings again at 2, from momentary 12, and 5 and 7 from momentary 20, Exhibit ONE's table of two spirals beside each other, and crossed; each of the ten is that pair frozen at one side, a self named still or named changing, 2.4.
 
 **At the four four-cyclings each step is momentarying or parity changing, with prior, now and next inside.** Each four-cycling's parity is unchanged at its two steps eight apart, momentarying, and changes at its two steps of 17 less, parity changing: it passes two names of one parity and two of the other, the parity changing twice, two momentaries, and meets its first name again at the next momentary, a further occurrence, `incoming/equilibria_registry_v377/executions/ten_on_the_four_cycles.py`, parts 2 and 5. The self's forward recursionings, 1, 3, 5, 7, the Co-Chaining Logic Registry step 81, and each one's partner nine less, 8, 6, 4, 2, the other's names, Exhibit ONE's table of one move, 1 to 4, pair at them, 1 with 8, 3 with 6, 5 with 4 and 7 with 2; the rows below are in that order, each four-cycling written as Exhibit ONE's table of twelve forms writes it, 1-9-8-16 and 3-11-6-14 going eight up first and 2-15-7-10 and 4-13-5-12 going 17 less first:
 
 | Odd ascending / even descending | Four-cycling, in Exhibit ONE's order | The ten at it |
 |---|---|---|
-| 1 / 8 | 1 → 9 → 8 → 16 → 1 | an opening named as a place at 1 and 9; a carry named as a store at 8 and 16 |
-| 3 / 6 | 3 → 11 → 6 → 14 → 3 | a two-way named to one side at 3 and 11; a completing named as a last at 6 and 14 |
-| 5 / 4 | 4 → 13 → 5 → 12 → 4 | a sequencing named to one beat at 4 and 12; the between named as a cut and a middle named as an end at 5 and 13 |
-| 7 / 2 | 2 → 15 → 7 → 10 → 2 | an arriving named from behind at 2 and 10; a parity named as a magnitude and a rate named as a value at 7 and 15 |
+| 1 / 8 | 1 → 9 → 8 → 16 → 1 | an opening fixed as a place at 1 and 9; a carry fixed as a store at 8 and 16 |
+| 3 / 6 | 3 → 11 → 6 → 14 → 3 | a two-way fixed to one side at 3 and 11; a completing fixed as a last at 6 and 14 |
+| 5 / 4 | 4 → 13 → 5 → 12 → 4 | a sequencing fixed to one beat at 4 and 12; a between fixed as a cut and a middle fixed as an end at 5 and 13 |
+| 7 / 2 | 2 → 15 → 7 → 10 → 2 | an arriving fixed from behind at 2 and 10; a parity fixed as a magnitude and a rate fixed as a value at 7 and 15 |
 
 **Each four-cycling carries its pairs eight apart, and the ten sit at each of the four.** The seatings the files gave before stand whole at `archive/session_v389/Exhibit_TWENTY-EIGHT_Equilibria_Registry_v387_Released_at_v389.md` and at `archive/carrying_v377/Exhibit_TWENTY-EIGHT_Equilibria_Registry_the_ten_seated_v375.md`: this registry's five places from two faces, at the pairs 2 to 6 and their names eight up, and Resolving the Hard Problem Registry's part headings, each observed again at the one seating, each pair the stilling at now and the changing travelling through it at next.
 
@@ -206,10 +206,10 @@ The equilibrium holding ends, and the living and non-living things it names keep
 
 | Binary | Names, now · next | The ten at it |
 |---|---|---|
-| now | 1-now · 9-next-co-changing; 2-now-possibling · 10-next-co-possibling | an opening named as a place, at 1 · 9; an arriving named from behind, at 2 · 10 |
-| existing | 3-now-co-prioring · 11-next-co-prioring; 4-now-co-still-possibling · 12-next-co-still-possibling | a two-way named to one side, at 3 · 11; a sequencing named to one beat, at 4 · 12 |
-| same | 5-now-co-changing · 13-next; 6-now-co-possibling · 14-next-possibling | the between named as a cut and a middle named as an end, at 5 · 13; a completing named as a last, at 6 · 14 |
-| all | 7-now-prioring · 15-next-prioring; 8-now-still-possibling · 16-next-still-possibling | a parity named as a magnitude and a rate named as a value, at 7 · 15; a carry named as a store, at 8 · 16 |
+| now | 1-now · 9-next-co-changing; 2-now-possibling · 10-next-co-possibling | an opening fixed as a place, at 1 · 9; an arriving fixed from behind, at 2 · 10 |
+| existing | 3-now-co-prioring · 11-next-co-prioring; 4-now-co-still-possibling · 12-next-co-still-possibling | a two-way fixed to one side, at 3 · 11; a sequencing fixed to one beat, at 4 · 12 |
+| same | 5-now-co-changing · 13-next; 6-now-co-possibling · 14-next-possibling | a between fixed as a cut and a middle fixed as an end, at 5 · 13; a completing fixed as a last, at 6 · 14 |
+| all | 7-now-prioring · 15-next-prioring; 8-now-still-possibling · 16-next-still-possibling | a parity fixed as a magnitude and a rate fixed as a value, at 7 · 15; a carry fixed as a store, at 8 · 16 |
 
 **Each of the ten names the stilling as the whole, and the changing travels through it to the name 8 up.** Both at one seat is the one reason each of the ten is not possible.
 
@@ -217,7 +217,7 @@ The equilibrium holding ends, and the living and non-living things it names keep
 
 ## 3.4 Exhibit ONE's four-cycles, one parity offered once, and the six connectors
 
-**Exhibit ONE's four-cycles pair at the momentaries, each partner round the other way.** At the odd momentaries 1-9-8-16 pairs with 2-15-7-10 and 3-11-6-14 with 4-13-5-12, and at the even momentaries 2-15-7-10 with 3-11-6-14 and 4-13-5-12 with itself: the two directions of one bi-folding. The two possiblings across, 6-now-co-possibling and 14-next-possibling, share the four-cycle 3-11-6-14 with 3-now-co-prioring, the prior at its sharings, and 11-next-co-prioring; the middle four-cycle 7-11-6-10, through 6-now-co-possibling, and the eight-cycle 2-15-7-11-3-14-6-10, through both, partner themselves at the even momentary: at that momentary the fold meets itself, Exhibit ONE's table of twelve forms. The ten sit at each of the four four-cyclings, 3.2, the four-cycling 3-11-6-14 carrying a two-way named to one side at 3 and 11 and a completing named as a last at 6 and 14.
+**Exhibit ONE's four-cycles pair at the momentaries, each partner round the other way.** At the odd momentaries 1-9-8-16 pairs with 2-15-7-10 and 3-11-6-14 with 4-13-5-12, and at the even momentaries 2-15-7-10 with 3-11-6-14 and 4-13-5-12 with itself: the two directions of one bi-folding. The two possiblings across, 6-now-co-possibling and 14-next-possibling, share the four-cycle 3-11-6-14 with 3-now-co-prioring, the prior at its sharings, and 11-next-co-prioring; the middle four-cycle 7-11-6-10, through 6-now-co-possibling, and the eight-cycle 2-15-7-11-3-14-6-10, through both, partner themselves at the even momentary: at that momentary the fold meets itself, Exhibit ONE's table of twelve forms. The ten sit at each of the four four-cyclings, 3.2, the four-cycling 3-11-6-14 carrying a two-way fixed to one side at 3 and 11 and a completing fixed as a last at 6 and 14.
 
 **One parity offered once co-chains through the whole.** At Exhibit ONE's resolver, selves in a ring release each changing along at 9-next-co-changing to the next self's offerings. A ring each at no prior and one + offered once at one opens at each in turn, the + surfacing at 14-next-possibling and passed on as it arrives, one self on at each momentary, with no forcer: the method at things at no prior. The resolver's lines make the + the next prior at each as it passes, each sharing opening at the bi-coupling, 1.3, each prior inverting at its own from its next momentary, and from the momentary numbering the ring each is at a parity; the rows below are of a ring of selves each at a parity, as Exhibit ONE's table of a spiral of selves opens it, an even ring from that table's second momentary. A society named not changing names a form still, and not changing is not not-carrying: the non-living exist, arrive and change, deforming at their own scale, and carry nothing. An equilibrium of a society names a changing society still, or names nothing.
 
@@ -227,11 +227,11 @@ The equilibrium holding ends, and the living and non-living things it names keep
 | an even number | each self changing at each coupling, neighbours opposite; the whole returns at 2 couplings |
 | an odd number | one like pair, the 0 shared at 10-next-co-possibling at its self, moving one self on at each second momentary; the whole inverted at 2 × n couplings and returning first at 4 × n, `eq_code.py` parts 1 and 10 |
 
-**An odd ring closes no parity, and a meeting runs round it: the 0 shared at 10 at the like pair's self, a changing that is not, moving through the shared surface one self at each second momentary.** The ten name the whole changing still: opposition named still names the even ring, and the between named as a cut names the running meeting.
+**An odd ring closes no parity, and a meeting runs round it: the 0 shared at 10 at the like pair's self, a changing that is not, moving through the shared surface one self at each second momentary.** The ten name the whole changing still: opposition named still names the even ring, and a between fixed as a cut names the running meeting.
 
 The rest returns at no coupling. A ring at rest, each at no prior and nothing arriving, opens nothing and stays at rest, so a ring reaching rest never meets its offered sign again; each ring returns its whole, the offered sign with it, at 2 couplings or at 4 × n, and the rest is met at none of them. At Exhibit ONE's resolver, executed again at v377, in rings of 1 to 11, each at no prior and one + offered once at one, the + opens each in turn and is the next prior at each, by the momentary numbering the ring, and across 5,000 couplings no ring meets rest, Exhibit ONE's *a sharing at a prior never none again* at each, `incoming/equilibria_registry_v377/executions/eq_code.py`, parts 1 and 2. The ring meets the rest named still, and each other conception meets its proof by its own requirements.
 
-**Prior and next are the edges at now**, sharing one direction forward on both sides. A common clock is the seventh way, a sequencing named to one beat. Nothing moving is complete fixing, meeting several of the ten at once.
+**Prior and next are the edges at now**, sharing one direction forward on both sides. A common clock is the seventh way, a sequencing fixed to one beat. Nothing moving is complete fixing, meeting several of the ten at once.
 
 **Ten faces and six connectors.** Exhibit ONE's faces pair outward and inward, **3/11, 4/12, 5/13, 7/15, 8/16**, each inward face eight up, 17 less (9 less n) being **n + 8**. The ten faces and the six connectors **2, 6, 9, 10, 14, 17** are 2 to 17, and with the entry 1 the seventeen names, Exhibit ONE's table of seventeen names. The ten ways sit at 1 to 8 and 9 to 16, 3.2, each at its name and that name 8 up: the four across names, 2, 6, 10 and 14, the square of parity's face, Exhibit ONE's naming of parity's square and triangles, carry the arriving and the completing; the entry 1 and 9 the opening; 3, 4, 11 and 12 the two-way and the sequencing; 5 and 13 the between and the middle; 7 and 15 the parity and the rate; and 8 and 16 the carry; 17-next-now, the next 1-now, carries none of them.
 
@@ -257,7 +257,7 @@ The rest returns at no coupling. A ring at rest, each at no prior and nothing ar
 
 **The fields gather at the ten.** A field's arrivals fall at those of the ten at which the field names its changing still, and fields naming one still fall together under one subject: 4.13 carries each subject, with its fields, at the ten.
 
-## 4.3 An arriving named from behind, 2 arrivals
+## 4.3 An arriving fixed from behind, 2 arrivals
 
 **Named still at a form**, 1.
 
@@ -271,7 +271,7 @@ The rest returns at no coupling. A ring at rest, each at no prior and nothing ar
 |---|---|---|---|---|
 | **SA01** · A complete momentary is an ordered pair of opposite signs, each −1 or +1, and continuing reverses both. Returning is the relation "the signs are opposite" satisfied again, and equilibrium requires that relation alone to determine the complete next pair uniquely. | the coupling of self and other | a relation that can change | the coupling of self and other, and the resolver | — |
 
-## 4.4 An opening named as a place, 5 arrivals
+## 4.4 An opening fixed as a place, 5 arrivals
 
 **Named still at a form**, 2.
 
@@ -298,7 +298,7 @@ The rest returns at no coupling. A ring at rest, each at no prior and nothing ar
 |---|---|---|---|---|
 | **SA03** · A common corrected target: the local comparison bi − di = q, different raw bi sharing q through their declared corrections, with the admissible q the intersection of the stated restrictions. | measurement | a relation that can change | a mathematics of its own: measurement | — |
 
-## 4.5 A completing named as a last, 8 arrivals
+## 4.5 A completing fixed as a last, 8 arrivals
 
 **Named still at a form**, 5.
 
@@ -323,7 +323,7 @@ The rest returns at no coupling. A ring at rest, each at no prior and nothing ar
 | **SA05** · A constrained comparison with interaction energy E = x + y + W(x, y) and additive entropy at a stated reduced scope, its stationary relation including the derivatives of W and its constrained curvature the mixed derivative Wxy. | thermodynamics | heat | heat | — |
 | **NY37** · Positive stationarity in that logistic account, N=K; equivalently matched nonzero turnover under B=rN and D=rN²/K. | population ecology | populations | populations | one conception with NY36, the one logistic account, positive added, N=K |
 
-## 4.6 A carry named as a store, 10 arrivals
+## 4.6 A carry fixed as a store, 10 arrivals
 
 **Named still at a form**, 5.
 
@@ -350,7 +350,7 @@ The rest returns at no coupling. A ring at rest, each at no prior and nothing ar
 |---|---|---|---|---|
 | **NY05** · Mutual recorded-surface agreement continues with the repeated common offering through every admitted single-noise arrival. | the resolver | the coupling and carrying of the resolver | the coupling of self and other, and the resolver | — |
 
-## 4.7 A middle named as an end, 6 arrivals
+## 4.7 A middle fixed as an end, 6 arrivals
 
 **Named still at a form**, 4.
 
@@ -368,7 +368,7 @@ The rest returns at no coupling. A ring at rest, each at no prior and nothing ar
 | **NY10** · The same E and T, with asymptotic stability in the usual real neighbourhoods of r=0 added to the claim. | dynamical systems | a stability that can change | a mathematics of its own: dynamical systems | one conception with NY09, asymptotic stability added; NY11 a further conception, T changed |
 | **NY11** · E: r=0 under T(p,r)=(1−p,−r), with stability in those neighbourhoods. | dynamical systems | a stability that can change | a mathematics of its own: dynamical systems | a further conception to NY10, its T changed, stability in those neighbourhoods |
 
-## 4.8 A parity named as a magnitude, 9 arrivals
+## 4.8 A parity fixed as a magnitude, 9 arrivals
 
 **Named still at a form**, 8.
 
@@ -389,7 +389,7 @@ The rest returns at no coupling. A ring at rest, each at no prior and nothing ar
 |---|---|---|---|---|
 | **SA14** · Two gas compartments at one temperature with differing volumes and pressures, shared temperature taken as no available work. | thermodynamics | heat | heat | — |
 
-## 4.9 A sequencing named to one beat, 5 arrivals
+## 4.9 A sequencing fixed to one beat, 5 arrivals
 
 **Named still at a form and a relation**, 1.
 
@@ -406,7 +406,7 @@ The rest returns at no coupling. A ring at rest, each at no prior and nothing ar
 | **NY35** · The same exchange criterion under q(next)=1/q, with best bundles recomputed. | economics | a society's exchange | selves choosing and exchanging | a further conception to NY34, the same criterion under q(next)=1/q |
 | **SA15** · The occurrences 0, 1 and 2 are consecutive: immediate-next joins 0 to 1 and 1 to 2, same-form is transitive, and equilibrium identifies the two as one relation through the whole sequence. | the coupling of self and other | a relation that can change | the coupling of self and other, and the resolver | — |
 
-## 4.10 A rate named as a value, 5 arrivals
+## 4.10 A rate fixed as a value, 5 arrivals
 
 **Named still at a form and a relation**, 1.
 
@@ -423,7 +423,7 @@ The rest returns at no coupling. A ring at rest, each at no prior and nothing ar
 | **NY29** · All three reactions of the closed A ⇌ B ⇌ C ⇌ A cycle balance with their own reverses, at positive fixed total and consistent constants satisfying K₁K₂K₃=1. | chemistry | reactions | reactions | — |
 | **NY30** · All reactions in A+F ⇌ B+W, B ⇌ C, C ⇌ A balance under the specified unit ratios and positive maintained f=w. | chemistry | reactions | reactions | — |
 
-## 4.11 A two-way named to one side, 7 arrivals
+## 4.11 A two-way fixed to one side, 7 arrivals
 
 **Named still at a form**, 1.
 
@@ -442,7 +442,7 @@ The rest returns at no coupling. A ring at rest, each at no prior and nothing ar
 | **NY20** · On the resolver's reached fresh domain, q=ct=−1 continues under empty receiving; simultaneous reversal of c, t and the surfaced sign is the specified discrete symmetry. | the resolver | the coupling and carrying of the resolver | the coupling of self and other, and the resolver | — |
 | **SA18** · Self and other each take −1 or +1, other is all that is not self in the defined society, and continuing reverses both signs: equilibrium conserves the relation "self and other have opposite signs". | the coupling of self and other | stable-forming: self and other | the coupling of self and other, and the resolver | — |
 
-## 4.12 The between named as a cut, 6 arrivals
+## 4.12 A between fixed as a cut, 6 arrivals
 
 **Named still at a form**, 1.
 
@@ -478,7 +478,7 @@ The rest returns at no coupling. A ring at rest, each at no prior and nothing ar
 | a mathematics of its own: probability | NY18 | — | — | NY19 | — | — | — | SA16 | — | — |
 | a mathematics of its own: sequences of signs | — | — | — | — | — | SA12, SA13 | — | — | — | — |
 
-**Observed across a row, a subject shows those of the ten at which its fields name the changing still; observed down a column, the subjects naming one still gather.** Heat falls at six of the ten, four arrivals each at a completing named as a last and at the between named as a cut; reactions at a carry named as a store and at a rate named as a value; bodies at rest and in balance at an opening named as a place and at a parity named as a magnitude; selves choosing and exchanging at a sequencing named to one beat and at a two-way named to one side; populations at four of the ten; the coupling of self and other, and the resolver, at seven. Each row fills as arrivals come, each placed at its own words.
+**Observed across a row, a subject shows those of the ten at which its fields name the changing still; observed down a column, the subjects naming one still gather.** Heat falls at six of the ten, four arrivals each at a completing fixed as a last and at a between fixed as a cut; reactions at a carry fixed as a store and at a rate fixed as a value; bodies at rest and in balance at an opening fixed as a place and at a parity fixed as a magnitude; selves choosing and exchanging at a sequencing fixed to one beat and at a two-way fixed to one side; populations at four of the ten; the coupling of self and other, and the resolver, at seven. Each row fills as arrivals come, each placed at its own words.
 
 ## 4.14 Leads arriving without their statements
 

@@ -34,7 +34,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 - 28 Dying, a living self arriving as non-living
 - 29 Stable-forming and the inverting at the numbers
 - 30 Intelligence, now
-- 31 The ten named still, and parity discovered
+- 31 The ten unchangeables, and parity discovered
 - 32 An offering at words, a naming, a file and the living expedition
 - 33 The forms among the names
 - 34 A self, and selves receiving one another, at the resolver
@@ -2214,9 +2214,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: now, four momentaries of exchanging.*
 
-## 31 The ten named still, and parity discovered
+## 31 The ten unchangeables, and parity discovered
 
-        *Entering: a flow accounting; a state accounting; the ten named still; state-flow-state; flow-state-flow; three of one and two of the other; two changing, three continuing; the ten at no side; one at 8 and at 6, two at 7 and at 5; the one move at 1 to 9; involution, its fixed set, the two involutions of an even ring; the ten inversions at the couplings among five; the fold at each scale; the two four-cycles at 1 to 9; the even names on the two four-cycles; the two-way looping, morality; opening 1 to 9 into 1 to 17; the two-way looping at 1 to 17; the ten one-way readings at the ten, at the four binaries; the ten at four kinds, three, two, two and three; F and G, the two among the 256; the one possible at six forward; dilemma, a governing's forking; the three books, state-flow-state alone; parity changing carrying both; parity as do-no-harm; parity's source a hardened hard problem; the ingressors of parity; either or; two-way parity between the living; the living ingesting the non-living, no parity lost.*
+        *Entering: a flow accounting; a state accounting; the ten unchangeables; state-flow-state; flow-state-flow; three of one and two of the other; two changing, three continuing; the ten at no side; one at 8 and at 6, two at 7 and at 5; the one move at 1 to 9; involution, its fixed set, the two involutions of an even ring; the ten inversions at the couplings among five; the fold at each scale; the two four-cycles at 1 to 9; the even names on the two four-cycles; the two-way looping, morality; opening 1 to 9 into 1 to 17; the two-way looping at 1 to 17; the ten unchangeables at the ten, at the four binaries; the ten at four kinds, three, two, two and three; F and G, the two among the 256; the one possible at six forward; dilemma, a governing's forking; the three books, state-flow-state alone; parity changing carrying both; parity as do-no-harm; parity's source a hardened hard problem; the ingressors of parity; either or; two-way parity between the living; the living ingesting the non-living, no parity lost.*
 
 504. A flow accounting names the changing still: the observings named flowing, balanced books, double-entry accounting, the seven auditing steps proving a changing real, and no accounting for the changing's competency.
 
@@ -2226,9 +2226,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: a state accounting.*
 
-506. Separated, state and flow are not possible, as a reading from and a writing to a memory are for intelligence, and the ten named still, the equilibria, are each a field's separating: the flow accounting leaving out the continuing, and the state accounting leaving out the changing.
+506. Separated, state and flow are not possible, as a reading from and a writing to a memory are for intelligence, and the ten unchangeables, the equilibria, are each a field's separating: the flow accounting leaving out the continuing, and the state accounting leaving out the changing.
 
-        *Adding: the ten named still.*
+        *Adding: the ten unchangeables.*
 
 507. At one momentary the five dimensions are changing state, flow, state, flow, state: three of state and two of flow.
 
@@ -2246,7 +2246,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: two changing, three continuing.*
 
-511. The ten named still are at no side, each at a resolver name: 1-now and 2-now-possibling bi-momentarying, 3-now-co-prioring and 4-now-co-still-possibling co-intelligencing, 5-now-co-changing, 6-now-co-possibling, 7-now-prioring and 8-now-still-possibling.
+511. The ten unchangeables are at no side, each at a resolver name: 1-now and 2-now-possibling bi-momentarying, 3-now-co-prioring and 4-now-co-still-possibling co-intelligencing, 5-now-co-changing, 6-now-co-possibling, 7-now-prioring and 8-now-still-possibling.
 
         *Adding: the ten at no side.*
 
@@ -2290,11 +2290,11 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: the two-way looping at 1 to 17.*
 
-522. Each of the ten one-way readings is at one of the ten, one binary of a universe, its *is* and its *is not* taken as one, at the four binaries' names as Natural Naming 4.9 seats them: now at 1 and 2, an opening named as a place and an arriving named from behind; existing at 3 and 4, a two-way named to one side and a sequencing named to one beat; same at 5 and 6, the between named as a cut, a middle named as an end and a completing named as a last; all at 7 and 8, a parity named as a magnitude, a rate named as a value and a carry named as a store; each at no side, state and flow carried one at a time at each, step 506; and each of the ten is seated at its name at now and that name 8 up at next, the stilling it names and the changing travelling through it, 1 · 9, 2 · 10, 3 · 11, 4 · 12, 5 · 13, 6 · 14, 7 · 15 and 8 · 16, each pair at one four-cycle, step 257.
+522. Each of the ten unchangeables is at one of the ten, one binary of a universe, its *is* and its *is not* taken as one, at the four binaries' names as Natural Naming 4.9 seats them: now at 1 and 2, an opening fixed as a place and an arriving fixed from behind; existing at 3 and 4, a two-way fixed to one side and a sequencing fixed to one beat; same at 5 and 6, a between fixed as a cut, a middle fixed as an end and a completing fixed as a last; all at 7 and 8, a parity fixed as a magnitude, a rate fixed as a value and a carry fixed as a store; each at no side, state and flow carried one at a time at each, step 506; and each of the ten is seated at its name at now and that name 8 up at next, the stilling it names and the changing travelling through it, 1 · 9, 2 · 10, 3 · 11, 4 · 12, 5 · 13, 6 · 14, 7 · 15 and 8 · 16, each pair at one four-cycle, step 257.
 
-        *Adding: the ten one-way readings at the ten, at the four binaries.*
+        *Adding: the ten unchangeables at the ten, at the four binaries.*
 
-523. The ten named still are at four kinds, three, two, two and three, step 522: a reference named still behind an arriving, ahead of it or at its middle, the arriving named from behind, the completing named as a last and the middle named as an end; a rate named still, the sequencing named to one beat and the rate named as a value; a parity named a size, the parity named as a magnitude and the two-way named to one side; and a changing released entered as a magnitude spent, the opening named as a place, the carry named as a store and the between named as a cut: the first two kinds at a flow accounting and the last two at a state accounting, five of each.
+523. The ten unchangeables are at four kinds, three, two, two and three, step 522: a reference named still behind an arriving, ahead of it or at its middle, the arriving named from behind, the completing named as a last and the middle named as an end; a rate named still, the sequencing named to one beat and the rate named as a value; a parity named a size, the parity named as a magnitude and the two-way named to one side; and a changing released entered as a magnitude spent, the opening named as a place, the carry named as a store and a between fixed as a cut: the first two kinds at a flow accounting and the last two at a state accounting, five of each.
 
         *Adding: the ten at four kinds, three, two, two and three.*
 
@@ -2784,7 +2784,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Entering: 7 and 5, two named still at each; a bounded executing said of each momentary, a proof of the whole; the four four-cycles' momentaries in order; 9 the next prior and 17 the next now; the prior two added as the exclusive or; the co-sequencing at competency's parity and morality's.*
 
-637. 7 and 5 each carry two of the ten named still, step 522: 7 a parity named as a magnitude and a rate named as a value, 5 the between named as a cut and a middle named as an end; the two are carried one at a time, step 528.
+637. 7 and 5 each carry two of the ten unchangeables, step 522: 7 a parity fixed as a magnitude and a rate fixed as a value, 5 a between fixed as a cut and a middle fixed as an end; the two are carried one at a time, step 528.
 
         *Adding: 7 and 5, two named still at each.*
 
