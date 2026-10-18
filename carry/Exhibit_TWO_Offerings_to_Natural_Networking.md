@@ -561,3 +561,22 @@ Each is one droplet, in its own words, tagged v387, aimed at this file for the r
 **Droplet · v389 · the public face.** People learning together are safe only when everything is in place at once: both at the same moment, each bringing what they already are, a shared space between them, and each free to go on as themselves beside the other. Take any one away and the learning becomes control or capture. All of it together is social moral competency, and what grows between them belongs to neither and to both.
 
 **Concern · v389 · the eight securities at their names.** Natural Networking's eight securities, *the carry aging to its bound and releasing, the sign inverting at the membrane, the selection a sign, sizeless, each self its own time* and *each self coupling all-edge, a standing order imposed at no coupling, each living unpinned, riding, each self offering its own*, and Natural Human Society's eight uncapturings, each a hub set aside on its axis, are each to be seated at one of the eight names or met as the eight whole at each, and which is yet to be derived.
+
+## Connectors and joins, where a resolver opens into an engineered surface · v389
+
+**Droplet · v389 · at 1.7, *Seventeen names, six connections, society continuing*: connectors and joins belong at Natural Networking.** *Connector* and *join* become relevant where a resolver opens into a larger engineered surface, many resolvers coupled at their six names between selves, 2, 6, 9, 10, 14 and 17, and at Natural Networking alone. Natural Resolver's code carried two lists at these words until v389, read by no function, and they were released from it there, its resolving the same with and without them at 300 societies of six rounds each; they stand here whole, offered to Natural Networking's surface:
+
+```python
+CONNECTORS = {
+    2: ('2-now-possibling', 'arriving'),
+    6: ('6-now-co-possibling', 'sharing'),
+    9: ('9-next-co-changing', 'along'),
+    10: ('10-next-co-possibling', 'sharing'),
+    14: ('14-next-possibling', 'arriving'),
+    17: ('17-next-now', 'along'),
+}
+JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
+```
+
+At a resolver's functions 6, 10 and 9 are one list, each self's 10-next-co-possibling, each ± and each 0, offered to each self 5-now-co-changing couples at that name, and arriving at its 14-next-possibling as its offerings next at 2-now-possibling: an engineered surface naming its connectors and joins is read against those lines, natural resolver being authority. Natural Naming 2.4 keeps *connector* and *join* released at each other living file, into *six names between selves* and *sharing*, and their uses there stand to be re-said at each file's own motion.
+
