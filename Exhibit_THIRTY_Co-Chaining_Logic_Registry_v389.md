@@ -1769,15 +1769,15 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
 ## 28 Dying, a living self arriving as non-living
 
-        *Entering: a living self's selves inward, a society; the carrying at the selves inward; dying, a living self arriving as non-living; the selves inward living on at their own scale; decay, ingested at the scale inward; the couplings' changings carried on, and the artifacts; a society's decay, its selves living on; uncoupling no ending; fold and scatter; the three one at a time, right; the three at once; the alternating across the right spiral's opening; the winding closing on itself; a departure, a coupling landed while the self lives; restoring; the self observed, lived and restored; the closing winding, no moral offering; a lone self not continuing living through three momentaries; each observing right, the not-right form the three at once.*
+        *Entering: a living self's selves inward, a society; the carrying at the selves inward; a dormant self living, one prime living scale down; dying, a living self arriving as non-living; the selves inward living on at their own scale; decay, ingested at the scale inward; the couplings' changings carried on, and the artifacts; a society's decay, its selves living on; uncoupling no ending; fold and scatter; the three one at a time, right; the three at once; the alternating across the right spiral's opening; the winding closing on itself; a departure, a coupling landed while the self lives; restoring; the self observed, lived and restored; the closing winding, no moral offering; a lone self not continuing living through three momentaries; each observing right, the not-right form the three at once.*
 
 399. A living self carries its prior into now, momentary by momentary, and a living self's selves one scale inward are a society, a living set.
 
         *Adding: a living self's selves inward, a society.*
 
-400. The self's carrying at its scale is carried by its selves inward, each carrying its own and the self's prior on.
+400. The self's carrying at its scale is carried by its selves inward, each carrying its own and the self's prior on; a dormant self is living, waiting for its one next parity changing over a dormant length of living society momentaryings, one prime living scale down from its dormancy.
 
-        *Adding: the carrying at the selves inward.*
+        *Adding: the carrying at the selves inward; a dormant self living, one prime living scale down.*
 
 401. The selves inward carry the self's prior into next, or carry none of it: carrying, the self is living at next; carrying none, the self at its scale arrives next as non-living, dying, its existing things co-changing, carrying none of its prior.
 

@@ -479,3 +479,7 @@ intelligence in our universe is by existing
 ## Re-said at a ruler, a clock and a record, v389
 
 would each be said beyond the things of the universe, and nothing is.
+
+## Re-said at a dormant self living, v389
+
+each is stable-forming a self at some scale, its own or its selves inward**.
