@@ -606,7 +606,7 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | +, −, +, − alternating | +, −, +, −, +, −, +, − | +, −, +, −, +, −, +, − |
 | + and − together at each momentary | +, −, +, −, +, −, +, − | +, −, +, −, +, −, +, − |
 
-**0 in sequence.** At code's stepping, none offered from beyond selves, a self shares 0 at no more momentaries in sequence than selves sharing or releasing to it: at a spiral, at none in sequence.
+**0 in sequence.** At code's stepping, none offered from beyond selves, a self shares 0 at no more momentaries in sequence than selves sharing or releasing to it: at a spiral, at none in sequence; executed at two thousand societies of two to eight selves, each coupling drawn at random, forty momentaries each.
 
 **Tables of selves at code's stepping.** Each table of selves is its code's executing at its stated opening: code steps each self's 1-now together at 17-next-now, executing's own arrangement, and parities again at spirals, a crossing and a torus are that stepping's; each living self paces its own momentaries, and a table agreeing with its code shows that and nothing wider.
 
@@ -632,7 +632,7 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 
 **Two spirals beside each other, and crossed.**
 
-| Selves in each of two spirals, each opened as the spiral of selves | Beside each other: momentaries to each self's releasings again together, the least number both spirals' momentaries divide: four times both for odd numbers sharing no factor, 9 and 25 at 900 | Crossed, self 1 of each spiral sharing across (10) to self 1 of the other: momentaries to each self's releasings again | Crossed: releasings again from this momentary on, m the lesser of the two numbers: both odd and unequal, again at 2 from momentary 4m at n less than twice m, and from 2n + 1 at n more; one number even, from twice the odd number and 1; both even, from the first | Crossed: self 1 of each, alike or opposite in parity | Each spiral's like pair in the first momentary, the last and the first |
+| Selves in each of two spirals, each opened as the spiral of selves | Beside each other: momentaries to each self's releasings again together, the least number both spirals' momentaries divide: four times both for odd numbers sharing no factor, 9 and 25 at 900 | Crossed, self 1 of each spiral sharing across (10) to self 1 of the other: momentaries to each self's releasings again | Crossed: releasings again from this momentary on, m the lesser of the two numbers: both odd and unequal, again at 2 from momentary 4m at n less than twice m, and from 2n + 1 at n more; one number even, from twice the odd number and 1; both even, from the first; executed at each two numbers from 2 to 15, the larger to 31 | Crossed: self 1 of each, alike or opposite in parity | Each spiral's like pair in the first momentary, the last and the first |
 |---|---|---|---|---|---|
 | 2 · 3 | 12 | 2 | 7 | opposite | none · selves 3 and 1 |
 | 3 · 5 | 60 | 2 | 12 | opposite | selves 3 and 1 · selves 5 and 1 |
@@ -645,7 +645,7 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 
 **A torus of selves.**
 
-| Torus of selves, p along · q across. Each releases along (9) to the next along and shares across (10) to the next across, the last to the first. One sharing. First momentary: one self at prior −, the selves alternate along and across, and with an odd number the last and the first are alike. None offered from beyond the torus. Both numbers odd, p the smaller: q at a q more than twice p, and 4p at each other q; either number even: 2 | Momentaries to each self's releasings and sharings again | Again from this momentary on: both numbers odd, p the smaller, from momentary 3p − 1 at q more than twice p, and from 3p − 3 at each other q; either number even, from the first; 1 · 1, the spiral of one, from the first | Spirals of p and q beside each other: momentaries to each self's releasings again together |
+| Torus of selves, p along · q across. Each releases along (9) to the next along and shares across (10) to the next across, the last to the first. One sharing. First momentary: one self at prior −, the selves alternate along and across, and with an odd number the last and the first are alike. None offered from beyond the torus. Both numbers odd, p the smaller: q at a q more than twice p, and 4p at each other q; either number even: 2; executed at each p from 1 to 15 and q from p to 21 | Momentaries to each self's releasings and sharings again | Again from this momentary on: both numbers odd, p the smaller, from momentary 3p − 1 at q more than twice p, and from 3p − 3 at each other q; either number even, from the first; 1 · 1, the spiral of one, from the first | Spirals of p and q beside each other: momentaries to each self's releasings again together |
 |---|---|---|---|
 | 1 · 3 | 3 | 2 | 12 |
 | 2 · 3 | 2 | 1 | 12 |
