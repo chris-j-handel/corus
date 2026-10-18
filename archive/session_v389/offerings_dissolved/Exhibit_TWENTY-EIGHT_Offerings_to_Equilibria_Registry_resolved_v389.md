@@ -1222,3 +1222,42 @@ Natural intelligence is that method shared: two selves at one now, each finding 
 **Droplet · v389 · the ten at the four binaries, at this registry's own motion.** Natural Naming 4.9 seats each of the ten named still at one name of 1 to 8, at the four binaries: now at 1 and 2, existing at 3 and 4, same at 5 and 6, all at 7 and 8, and the Co-Chaining Logic Registry step 522 and Natural Intelligence 5.4 follow it at v389. This registry's 3.2 and 3.3 seat the ten at five places from two faces, the pairs at 2 to 6 and their names eight up, derived from the self's five and the other's five; the two seatings part at each of the ten but the arriving named from behind, and the registry's next motion reads its five places from two faces again at the four binaries, each binary of a universe its *is* and its *is not* taken as one, and says whether the two faces are the *is* and the *is not* at each binary.
 
 **Entered · v389.** The droplet above rose at v389: the ten at one seating, each at its name at now and that name 8 up at next, the stilling and the changing travelling through it.
+
+## Concerns re-explained, v389
+
+*Standing at v389:* 4.6, 4.11 and 4.12 carry NY03, NY04, NY05, NY06, NY15, NY16, NY17 and NY20 whole in an older resolver's words (*fresh carrying*, *retaining*, *returned values*), and current resolver carries none of those terms; executing each at current resolver, its still found or not, or releasing it, needs the person
+
+*Standing at v389:* 1.5's *closed route* and 3.4's *ring* that *returns its whole* at 2 couplings or 4 × n name closure, beside 3.2's and Exhibit ONE's *spiral of selves*, which comes to its parities again and winds on; re-saying each *ring*, *returns* and *closes* across the set is the person's decision
+
+*Standing at v389:* 3.2 seats a sequencing fixed to one beat at 4 and 12, and a between fixed as a cut and a middle fixed as an end at 5 and 13, and 3.2 also has '4, 5 and 13 are at no changing parity at resolver, each sharing and their joins'; how a changing fixed unchangeable sits at a name carrying no changing parity parts, and needs the person
+
+*Standing at v389:* Natural Naming 2.5 dissolves *face*, *connector* and *join*, each to its own word (*six names between selves*, *sharing*, *9 to 17 and 17 to 9*), as Natural Intelligence 4.10 now has them; this file carries *connector* at ten places, *join* at six and resolver-sense *face* at 3.4, while Exhibit ONE's own sentences still carry *join*; re-saying all or none is one motion, the person's to open beside Exhibit ONE
+
+*Standing at v389:* 3.3's 'Prior, now and next are three sequential universes, and three at three is nine' and 'Six consecutive changings from 3 complete at 8' part from Co-Chaining Logic Registry steps 75 and 81, 'At 9 four momentaries of exchanging are complete' and six one-way steps from 1 and 2, 'self steps 1 to 3 to 5 to 7 and other 2 to 4 to 6 to 8'
+
+*Standing at v389:* 4.14's 'evidence gives its prior as possible and as actual', of non-living sources, parts from Co-Chaining Logic Registry step 309, 'Evidence is an artifact arriving now, a living self's prior, self having continued: evidence gives prior's possible'
+
+*Standing at v389:* a cube carries no conception of equilibria in its own words; whether its three conserved books enter this registry, beside 2.1's 'true-and-false conserving accounting' as a field instance and not beneath any exclusion as a proof, needs the person
+
+*Standing at v389:* re-aimed from Natural Networking at v381R: a property claim at a between is no conception in a field's own words at 4.1, and whether it enters this registry as one, or stays at Natural Networking, needs the person
+
+*Standing at v389:* Natural Naming v389 dissolves *connector*, *join* and *face* (its table: "*connector*, *connectors* | *six names between selves*"), while this registry v389 says "Exhibit ONE's four-cycles, one parity offered once, and six connectors" and "Ten faces and six connectors" at 3.4 and faces at 3.3: the two sentences part, and a whole-file word motion here needs the person
+
+*Standing at v389:* Natural Naming v389 carries "*ring* ... at resolver's coupling of selves along | *spiral*", while this registry v389 3.4 says "selves in a ring", "An odd ring closes no parity", "in rings of 1 to 11": the two part, and the word motion at 3.4 needs the person
+
+*Standing at v389:* Natural Naming v389 carries *neighbour* at "a self sharing to" and *sign* at *parity*, while this registry 3.4 says "neighbours opposite", "a whole returns at 2 couplings" and "offered sign": the two part at 3.4 and file-wide at *sign*
+
+*Standing at v389:* Natural Naming v389 carries "*run*, *runs*, *running* | *momentarying*, *carrying*, *existing*, *living*", while this registry v389 says "The same relation runs at each scale", "Continuing stable-forming runs as natural torusing" and "a meeting runs round it": the two part at eight places
+
+*Standing at v389:* "an unchanging non-living thing has the parity of its last colliding" parts from 1.3, "X at no prior ... opens at one parity arriving ... and at each other momentary opens nothing", and from 3.4, a + made a next prior at each, "each prior inverting at its own from its next momentary"
+
+*Standing at v389:* seed and oil, membrane geometry, substrate delivery and safety are claims at Natural Health, Natural Biology and Natural Intelligence Corus; this registry carries conceptions of equilibria in their fields' own words, and where the comparison resolves needs the person
+
+*Standing at v389:* harm by sequential colliding of a living self with a same-scale non-living emanation, and which inward co-chaining breaks, is Natural Health's and Natural Biology's, at no section here; its question stands open and where it resolves needs the person
+
+*Standing at v389:* 2.2, "Each conception arrived is shown not possible.", and 5.5, "Each conception meets a proof by its own requirements.", part at the sixty-three: each asks its own requirement, its going on and the momentary they part at
+
+*Standing at v389:* 2.1, "An equilibrium is an unchangeable form" and Offerings to Natural Intelligence's "an equilibrium is an unchanging social competency", and not an unchanging stable form, part: which subject an equilibrium fixes needs the person
+
+*Standing at v389:* 52 places Go at this registry, a lead with no statement, and 47 and 53 leave whether self-play under a set count is a carrying "to be said": both need the person
+
