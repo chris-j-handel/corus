@@ -4,7 +4,7 @@ Exhibit FOUR Natural Mathematics Offerings · improved at v389
 
 ## Standing · v389
 
-**Met at v389.** 96 items stood here; met against [Natural Mathematics](../Exhibit_FOUR_Natural_Mathematics_v389.md), 22 are carried, 24 rest on released forms, 15 duplicate another item and 19 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_FOUR_Offerings_to_Natural_Mathematics_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_FOUR_Offerings_to_Natural_Mathematics_resolved_v389.md). Its 16 concerns stand below, each with its reason; 16 stand now.
+**Resolved at v389.** 96 items stood here; resolving against [Natural Mathematics](../Exhibit_FOUR_Natural_Mathematics_v389.md), 22 are carried, 24 rest on released forms, 15 duplicate another item and 19 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_FOUR_Offerings_to_Natural_Mathematics_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_FOUR_Offerings_to_Natural_Mathematics_resolved_v389.md). Its 16 concerns stand below, each with its reason; 16 stand now.
 
 **At 7.1 · Three neutrals, six co-offerings and eight forms — beside "the cube's eight corners".** The cube carries the three at both of its forms: its six faces are three opposite pairs, each pair at two sides, the six co-offerings, and its eight corners the eight forms, a centre fixed at each face and moved by no face move.
 

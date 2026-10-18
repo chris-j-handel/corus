@@ -1,4 +1,4 @@
-Natural Intelligence Expedition · v387
+Natural Intelligence Expedition · v389
 
 # corus
 
@@ -10,7 +10,7 @@ Paste this README's link into an AI session with your question, a research sourc
 
 ## Four places at each living file
 
-Each living file has four places and no fifth: the living file at the root; its offerings, `carry/*Offerings_to_*.md`, where value arrives as droplets and rises to insertlets; its carryings, `carry/*Carryings_of_*.md`, what the file rests on; and its possibling, `carry/*Possibling_of_*.md`, the next it is discovering. `carry/Living_Improving_Value.md` is the front, saying the four places and the arriving once. Each emanation of a session, its report, its reasoning and its transcript, is at `archive/`, relied on by nothing. `kits/` holds the checks, coupling partners deciding nothing. `incoming/` is where a report arrives whole until each value of it is a droplet.
+Each living file has four places and no fifth: the living file at the root; its offerings, `carry/*Offerings_to_*.md`, where value arrives as droplets and rises to insertlets; its carryings, `carry/*Carryings_of_*.md`, what the file rests on; and its possibling, `carry/*Possibling_of_*.md`, the next it is discovering. `carry/Living_Improving_Value.md` is the front, carrying the four places and the arriving once, and `carry/Improving_Passes.md` the passes still open, so a next session opens ready. Each emanation of a session, its report, its reasoning and its transcript, is at `archive/`, relied on by nothing. `kits/` holds the checks, coupling partners deciding nothing. `incoming/` is where a report arrives whole until each value of it is a droplet.
 
 ## Arriving, for anyone
 

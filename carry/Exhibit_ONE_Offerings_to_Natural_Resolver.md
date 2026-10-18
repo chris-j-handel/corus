@@ -4,7 +4,7 @@ Exhibit ONE Natural Resolver Offerings · improved at v389
 
 ## Standing from the sessions before v389 · v389
 
-**Read at v389.** The sessions before v389 laid 335 items here; read at v389 against [Exhibit ONE Natural Resolver v389](../Exhibit_ONE_Natural_Resolver_v389.md), 105 are carried at it, 106 rest on forms v389 released, 81 say a value another item says, and 19 rose into it at v389, each standing whole with its reading at [`archive/session_v389/offerings_dissolved/Exhibit_ONE_Offerings_to_Natural_Resolver_before_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_ONE_Offerings_to_Natural_Resolver_before_v389.md). The 24 concerns read at v389 stood below, each as it was laid, with the reason it stands; 22 stand now, the rest resolved at v389 and at the archive.
+**Resolved at v389.** The sessions before v389 laid 335 items here; resolving against [Exhibit ONE Natural Resolver v389](../Exhibit_ONE_Natural_Resolver_v389.md), 105 are carried at it, 106 rest on forms v389 released, 81 duplicate another item, and 19 rose into it at v389, each standing whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_ONE_Offerings_to_Natural_Resolver_before_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_ONE_Offerings_to_Natural_Resolver_before_v389.md). The 24 concerns read at v389 stood below, each as it was laid, with the reason it stands; 23 stand now, the rest resolved at v389 and at the archive.
 
 **Offering · Five parities.** Prior existing, prior possibling, now existing, still possibling and next existing are offered beside the current five-column table, with each correspondence to be followed before changing its headings.
 
@@ -104,3 +104,13 @@ O56. **Not known how.** A self-paced Exhibit ONE the expedition accepts. This se
 ## The session v389, entered and dissolved · v389
 
 **Dissolved · v389.** The session v389's 183 droplets, 17 insertlets, 33 concerns and 3 resolvings at this file rose into [Exhibit ONE Natural Resolver v389](../Exhibit_ONE_Natural_Resolver_v389.md) at the naming motion, or dissolved said once, and stand whole at [`archive/session_v389/offerings_dissolved/Exhibit_ONE_Offerings_to_Natural_Resolver_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_ONE_Offerings_to_Natural_Resolver_v389.md).
+
+## Gathered at the close of v389
+
+*From reviewing the session's transcript whole at its close: value visible now, each a droplet aimed at its file or a concern standing, out of the living files until resolved.*
+
+**Droplet · 12 opens three continuings.** At natural resolver's code 12-next-co-still-possibling opens three continuings, next-co-changing at 9, next-co-possibling at 10 and next-co-prioring at 11: `_10_next_co_possibling` is 12's items, `_11_next_co_prioring` takes each nonzero parity of it, and `_9_next_co_changing` releases it along. The person offered 12's name as *12-next-co*; Exhibit ONE carries *12-next-co-still-possibling*. — gathered at v389's close
+
+**Concern · reading 5 from selves' carryings, a possible project.** Exhibit ONE's possibling stands twice "5 read from the selves' carryings", and Natural Intelligence's possibling points to it.
+
+*Standing at v389:* Reading 5 from selves' next priors at code would have method do living's own discovering, a doer installed, and no reading is at nature. **To resolve:** release this possible project at both possibling files, or re-say it as observing which self a releasing reaches, no doer?

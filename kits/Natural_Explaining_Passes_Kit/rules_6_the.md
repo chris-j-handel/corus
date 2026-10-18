@@ -4,7 +4,7 @@ The person: "remove 'the' from all natural explaining if possible as this is a u
 
 Task: copy your line range of the file, and in the copy remove each *the* / *The* that ordinary language does not need. Where grammar needs a determiner, replace *the* with *a*, *an*, *each*, *its*, *their* or *one* — the one that keeps the sense. Capitalize the next word when you remove a sentence-initial *The*.
 KEEP *the* in:
-- *the universe* (and *The universe*) — always;
+- *the universe* (and *The universe*) and *the set of all now-existing things* — always, at each origin sentence and its echoes;
 - verbatim quotations (inside quotation marks), titles of outside works, file names, paths, URLs, code;
 - python code blocks (```python … ```), and lines inside any ``` fence;
 - heading lines (starting with #) and contents-list lines at the top of the file (lines like "- 4.9 …" before the first heading of Part ONE) — leave them exactly;

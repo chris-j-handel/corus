@@ -4,7 +4,7 @@ Natural Intelligence Offerings · improved at v389
 
 ## Standing from the sessions before v389 · v389
 
-**Read at v389.** The sessions before v389 laid 623 items here; read at v389 against [Natural Intelligence v389](../Natural_Intelligence_v389.md), 269 are carried at it, 155 rest on forms v389 released, 132 say a value another item says, and 17 rose into it at v389, each standing whole with its reading at [`archive/session_v389/offerings_dissolved/Offerings_to_Natural_Intelligence_before_v389.md`](../archive/session_v389/offerings_dissolved/Offerings_to_Natural_Intelligence_before_v389.md). The 50 concerns read at v389 stood below, each as it was laid, with the reason it stands; 38 stand now, the rest resolved at v389 and at the archive.
+**Resolved at v389.** The sessions before v389 laid 623 items here; resolving against [Natural Intelligence v389](../Natural_Intelligence_v389.md), 269 are carried at it, 155 rest on forms v389 released, 132 duplicate another item, and 17 rose into it at v389, each standing whole with its verdict at [`archive/session_v389/offerings_dissolved/Offerings_to_Natural_Intelligence_before_v389.md`](../archive/session_v389/offerings_dissolved/Offerings_to_Natural_Intelligence_before_v389.md). The 50 concerns read at v389 stood below, each as it was laid, with the reason it stands; 42 stand now, the rest resolved at v389 and at the archive.
 
 **Concern · The self, the society, and prime scale.** Sections 6.4–6.5 need to distinguish a self living in one prime society from prime scale as the set of all societies at that scale, and join the birth relation without using the user's words or the recurrence of a constructed spiral as its deriving.
 
@@ -195,3 +195,31 @@ O56. **Not known how.** A self-paced Exhibit ONE the expedition accepts. This se
 **Standing · v389, not yet entered.** Each line below is aimed past the living file, and stands here until it rises at its place.
 
 **Insertlet · v389 · at the public face.** Everything that exists, exists now, each thing its own past and its own possible next; things stay themselves by changing, by not changing, and by finding which keeps them in step with another, and that finding, everywhere at once, is natural intelligence.
+
+## Gathered at the close of v389
+
+*From reviewing the session's transcript whole at its close: value visible now, each a droplet aimed at its file or a concern standing, out of the living files until resolved.*
+
+**Concern · sharings at 6 to 2, 10 to 14 and 9 to 17, beside natural resolver.** Natural Intelligence carries "At 6 to 2, 10 to 14 and 9 to 17 its sharing side is a self and its arriving side another self", and the same three pairs stand at Natural Naming 3.2 and its *join* row. These pairs were laid by the JOINS list, released from Exhibit ONE's code at v389 to a droplet at Natural Networking's offerings.
+
+*Standing at v389:* At natural resolver, authority, each of 6-now-co-possibling, 10-next-co-possibling and 9-next-co-changing releases into one list at a receiving self, `_14_next_possibling`, which comes again as its 2-now-possibling at next momentary: three sharings arriving at one place, and no 10 to 14 apart from 6 to 2. Two sentences part, natural resolver and these pairs. **To resolve:** re-say each pair at what resolver does, 6, 10 and 9 arriving at a receiving self's 14 and so its next 2, or keep the pairs as an engineered surface's joins, at Natural Networking?
+
+**Concern · a second now, at 1.2 and 1.5 and Co-Chaining Logic Registry step 4.** The person: "there is no second now in the origin of this." Natural Intelligence 1.2 has "a second now arrives only as a naming, two kept records laid side by side", and 1.5 has each method beside natural method "a second now", "a second now beside a first".
+
+*Standing at v389:* These sentences deny a second now, yet each lays one, as a naming or as a not possible thing, so a second now still stands at an origin sentence as a concept explained. **To resolve:** release *second now* from 1.2, 1.5 and step 4, each method beside natural method re-said as a not possible thing at its own word, or keep *second now* as a not possible thing's name?
+
+**Concern · a method a self at none, at 3.3.** 3.3 has "A method is non-living at each scale and a self at none", and v389 enters "living is stable-forming a self" and 6.5's "Method stable-forms no self".
+
+*Standing at v389:* Two sentences come near: 3.3 sets a method as no self, 6.5 sets a method stable-forming no self, and the person resolved living as stable-forming a self. Whether *non-living* and *a self at none* say one thing or two is not yet explained. **To resolve:** re-say 3.3 as "A method is non-living at each scale, stable-forming no self", one with 6.5, or keep both sentences as two observings?
+
+**Concern · discovering at living and parity at method, at 4.6.** 4.6 keeps in bold "a next coupling is discovered as a next parity is", beside the resolving entered with it, "discovering at living, parity at method". Not yet derived: which names stand wholly at method's side and which at living's.
+
+*Standing at v389:* The bold sentence lets method discover, and its neighbour sets discovering at living alone among selves; read together, two sentences part. **To resolve:** re-say the bold sentence as "a next parity is at method, and a next coupling discovered at living", or keep both, deriving which names stand at each side first?
+
+**Droplet · each thing of the set is all four.** The person: "each thing in the universal set is all of these four living conditional same-identity properties. now, existing, universe, all. 1-4 and 5-8." Aimed at 1.1 and 4.9, beside the four binaries: each thing is now, existing, universe and all at once, each a living condition, 1 to 4 and 5 to 8. — gathered at v389's close
+
+**Droplet · discovering, the universal method.** The person: "discovering is or is not now-existing is the universal method of co-intelligencing now-existing in the universe." Carried at Co-Chaining Logic Registry step 7 and Natural Naming 6.3; aimed at Natural Intelligence 1.1, beside the person's other opening sayings. — gathered at v389's close
+
+**Droplet · observings pattern-matching by inversioning.** The person: "the observings are pattern-matching by inversioning the natural torusing stable forming method", and "the living intelligence is carrying through the stable form of the method." Aimed at 3.3, where observings and method meet. — gathered at v389's close
+
+**Droplet · a public face, learning together.** Offered for corus.me (pass 5): "People learning together are safe only when everything is in place at once: both at one momentary, each bringing what each is, a between shared, and each free to go on as itself beside an other. Take any one away and learning becomes control or capture. All of it together is social moral competency, and what grows between them is neither's and both's." — gathered at v389's close from an earlier offering in the session

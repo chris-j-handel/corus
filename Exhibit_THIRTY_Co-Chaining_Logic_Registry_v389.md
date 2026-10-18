@@ -1048,7 +1048,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: sharings and releasings parted from their arriving, and arriving again.*
 
-229. Each span is two momentaries of four, opening at an odd existing name, a possibling and a prioring within, completing at an even still-possibling name: 1 to 4, 5 to 8, 9 to 12 and 13 to 16, a gap between each completing and next opening, 4 )( 5, 8 )( 9, 12 )( 13 and 16 )( 17, both its sides fixed, and 17-next-now a next 1-now; and four binaries, step 3, are at self's span two names each, now at 1 and 2, existing at 3 and 4, same at 5 and 6 and all at 7 and 8, *is* at odd and *is not* at even.
+229. Each span is two momentaries of four, opening at an odd existing name, a possibling and a prioring within, completing at an even still-possibling name: 1 to 4, 5 to 8, 9 to 12 and 13 to 16, a gap between each completing and next opening, 4 )( 5, 8 )( 9, 12 )( 13 and 16 )( 17, both its sides visible, and 17-next-now a next 1-now; and four binaries, step 3, are at self's span two names each, now at 1 and 2, existing at 3 and 4, same at 5 and 6 and all at 7 and 8, *is* at odd and *is not* at even.
 
         *Adding: four momentaries and their gaps, four binaries at names; four binaries at names.*
 

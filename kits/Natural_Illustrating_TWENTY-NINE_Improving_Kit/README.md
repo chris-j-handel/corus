@@ -18,6 +18,6 @@ The exhibit snapshot inside the kit is v366; the repository carries Exhibit TWEN
 
 `START_HERE.md` at this folder introduces current additions. The received `Illustration_Kit_v366/` and its own entrance remain byte for byte as received.
 
-**Current concept standing, v380A.** The [consistency reading](../../incoming/v380A/illustrating/Concept_And_Consistency.md) compares the exhibit with main 3e29d60 and the Registry's 623–627. The central aim agrees; older case openings and names need receiving. The existing checks and images retain their documented source conditions. Their arithmetic, media and playback checks establish no teaching result or full geometric correspondence.
+**Current concept standing, v380A.** The [consistency reading](../../archive/v380A/illustrating/Concept_And_Consistency.md) compares the exhibit with main 3e29d60 and the Registry's 623–627. The central aim agrees; older case openings and names need receiving. The existing checks and images retain their documented source conditions. Their arithmetic, media and playback checks establish no teaching result or full geometric correspondence.
 
 **Receives next.** A shared teaching aim for one released parity received at one momentary, with its quiet case and each living carrying unpictured; the current openings and naming map at Natural Illustrating's next motion; a further image with its filename, source, concept and the part still to express, entered at `START_HERE.md`; the Corus expressions (the group jigsaw first) as Exhibit TWENTY-SIX plans them.

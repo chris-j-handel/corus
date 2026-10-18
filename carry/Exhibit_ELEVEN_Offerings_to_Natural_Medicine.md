@@ -4,7 +4,7 @@ Exhibit ELEVEN Natural Medicine Offerings · laid at v386EOD
 
 ## Standing · v389
 
-**Met at v389.** 223 items stood here; met against [Natural Medicine](../Exhibit_ELEVEN_Natural_Medicine_v389.md), 11 are carried, 61 rest on released forms, 97 duplicate another item and 2 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_ELEVEN_Offerings_to_Natural_Medicine_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_ELEVEN_Offerings_to_Natural_Medicine_resolved_v389.md). Its 52 concerns stand below, each with its reason; 52 stand now.
+**Resolved at v389.** 223 items stood here; resolving against [Natural Medicine](../Exhibit_ELEVEN_Natural_Medicine_v389.md), 11 are carried, 61 rest on released forms, 97 duplicate another item and 2 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_ELEVEN_Offerings_to_Natural_Medicine_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_ELEVEN_Offerings_to_Natural_Medicine_resolved_v389.md). Its 52 concerns stand below, each with its reason; 49 stand now.
 
 **Concern, at v380L, from `incoming/v380L/Progress.md`, its closing account: sentences reading as guidance to a person.** Eight sentences of Natural Medicine and Natural Health draw a conclusion about a person's health or a treatment from a step of the Co-Chaining Logic Registry or from a numeral, no observing cited: among them *Worse before better* named a ghost, a restorability threshold at 1/φ³, and a diet named as a disease's cause. The session said *none of them should read as guidance. there is no guidance in nature or our living files*. Each is at an observing, or at a step co-chaining, or an unsure named at the observing it waits on; as written the eight are at none. The list of the eight was in a report given in the conversation and is at no file: `incoming/v380L/Gathered_Value_1.md`, its second piece. — v380L
 
@@ -190,27 +190,11 @@ The current question is: **At the next colliding, which co-chaining of the inwar
 
 *Standing at v389:* Natural Medicine 3.1 has 'Is a virus alive has stood open ... because a bounding worn and released is neither a self nor nothing' (315); Natural Intelligence has 'Living and non-living part at a named scale and momentary'. The asking open and the asking said at each scale part. **To resolve:** is 315 re-said so *alive* is said at a scale, a shed form non-living at the cell's scale and an emanation one scale inward, or does the asking stand open?
 
-**Concern · at a sentence.** Beside "A carrying opens by one where nothing surfaces at its position, returns to nought where a sign does, and separates and l"…
+**Concern · at a sentence.** Beside "A carrying opens by one where nothing surfaces at its position, returns to nought where a sign does, and separates and l"…; and at one concern beside "At the resolver a carrying opens by one where its differing surfaces nought, returns to nought where a sign surfaces, ca"…; "The object returns a carry to nought at one place only, the position where a sign surfaces."; "A surfacing returns a differing at one side, at the other, or at neither, and the carrying opens by one exactly where it"…
 
 *Standing at v389:* Natural Medicine 1.1 has a carry at the resolver that "opens by one where its differing surfaces nought, returns to nought where a sign surfaces, carries forward, and separates and leaves at its bound". Exhibit ONE v389 carries no count at a sharing: at 12-next-co-still-possibling prior and surfacing agree at 0, prior kept, or part at ±, prior inverted, and 14-next-possibling surfaces one parity or parting 0. **To resolve:** is a carry's climbing re-said at 12 and 14 (0 prior kept, ± prior inverted), or released as an older resolver's age, with attentioning beside it?
 
-**Concern · at a sentence.** Beside "At the resolver a carrying opens by one where its differing surfaces nought, returns to nought where a sign surfaces, ca"…
-
-*Standing at v389:* Natural Medicine 1.1 has a carry at the resolver that "opens by one where its differing surfaces nought, returns to nought where a sign surfaces, carries forward, and separates and leaves at its bound". Exhibit ONE v389 carries no count at a sharing: at 12-next-co-still-possibling prior and surfacing agree at 0, prior kept, or part at ±, prior inverted, and 14-next-possibling surfaces one parity or parting 0. **To resolve:** is a carry's climbing re-said at 12 and 14 (0 prior kept, ± prior inverted), or released as an older resolver's age, with attentioning beside it?
-
-**Concern · at a sentence.** Beside "The object returns a carry to nought at one place only, the position where a sign surfaces."
-
-*Standing at v389:* Natural Medicine 1.1 has a carry at the resolver that "opens by one where its differing surfaces nought, returns to nought where a sign surfaces, carries forward, and separates and leaves at its bound". Exhibit ONE v389 carries no count at a sharing: at 12-next-co-still-possibling prior and surfacing agree at 0, prior kept, or part at ±, prior inverted, and 14-next-possibling surfaces one parity or parting 0. **To resolve:** is a carry's climbing re-said at 12 and 14 (0 prior kept, ± prior inverted), or released as an older resolver's age, with attentioning beside it?
-
-**Concern · at a sentence.** Beside "A surfacing returns a differing at one side, at the other, or at neither, and the carrying opens by one exactly where it"…
-
-*Standing at v389:* Natural Medicine 1.1 has a carry at the resolver that "opens by one where its differing surfaces nought, returns to nought where a sign surfaces, carries forward, and separates and leaves at its bound". Exhibit ONE v389 carries no count at a sharing: at 12-next-co-still-possibling prior and surfacing agree at 0, prior kept, or part at ±, prior inverted, and 14-next-possibling surfaces one parity or parting 0. **To resolve:** is a carry's climbing re-said at 12 and 14 (0 prior kept, ± prior inverted), or released as an older resolver's age, with attentioning beside it?
-
-**Concern · at a sentence.** Beside "At the object a carrying's signs invert at their own sign, equal and opposite at their own differing, and nothing outsid"…
-
-*Standing at v389:* Natural Medicine 1.1 has "a surfacing reads the sign of a sum and never its size" and a carrying's signs inverting "at their own sign". At Exhibit ONE v389, 14-next-possibling is "offerings surfacing at each sharing, same one parity and parting 0": an agreeing, not a sum, so offerings +, +, − surface 0 there and + as a sum. **To resolve:** is a tipping re-said at 14's agreeing, one parity or parting 0, or does a sum's parity stand as medicine's own at a dose curve?
-
-**Concern · at a sentence.** Beside "**And a surfacing reads the sign of a sum and never its size**, which is why most increments add and nothing tips: a sig"…
+**Concern · at a sentence.** Beside "At the object a carrying's signs invert at their own sign, equal and opposite at their own differing, and nothing outsid"…; and at one concern beside "**And a surfacing reads the sign of a sum and never its size**, which is why most increments add and nothing tips: a sig"…
 
 *Standing at v389:* Natural Medicine 1.1 has "a surfacing reads the sign of a sum and never its size" and a carrying's signs inverting "at their own sign". At Exhibit ONE v389, 14-next-possibling is "offerings surfacing at each sharing, same one parity and parting 0": an agreeing, not a sum, so offerings +, +, − surface 0 there and + as a sum. **To resolve:** is a tipping re-said at 14's agreeing, one parity or parting 0, or does a sum's parity stand as medicine's own at a dose curve?
 

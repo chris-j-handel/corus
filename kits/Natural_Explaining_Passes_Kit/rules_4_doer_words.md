@@ -11,7 +11,7 @@ Re-say each occurrence so no doer (a file, a line, a section, a field, a person,
 - *calls* as a resolver/code call (function calls) STAYS.
 Keep each sentence otherwise identical; no added "the"; do not introduce named, unchanged, never, alone, gives, takes, inside, outside, our, held, holding, read, reading, says, said, called. Grammar whole.
 
-SPECIAL — verdict "ASK" (new = your best proposal, but mark ASK): any occurrence of "said beyond" / "said between" (e.g. "nothing is said beyond or between the things of the universe", "a thing said beyond the things of the universe"). This is the person's own phrase and needs their decision.
+RESOLVED at v389: "said beyond" / "said between" drops *said*: "nothing is beyond or between things of the universe" (the person approved).
 
 KEEP only: verbatim quotations; paths, file names, URLs, outside titles; Natural Naming 2.4/6.3/6.4 release-table right-column released words; the Living File Registry's version-history records of earlier versions; code blocks of python.
 

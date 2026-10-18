@@ -4,7 +4,7 @@ Exhibit NINETEEN Natural Philosophy Offerings · laid at v381R · improved at v3
 
 ## Standing · v389
 
-**Met at v389.** 94 items stood here; met against [Natural Philosophy](../Exhibit_NINETEEN_Natural_Philosophy_v389.md), 9 are carried, 22 rest on released forms, 29 duplicate another item and 10 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_NINETEEN_Offerings_to_Natural_Philosophy_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_NINETEEN_Offerings_to_Natural_Philosophy_resolved_v389.md). Its 24 concerns stand below, each with its reason; 24 stand now.
+**Resolved at v389.** 94 items stood here; resolving against [Natural Philosophy](../Exhibit_NINETEEN_Natural_Philosophy_v389.md), 9 are carried, 22 rest on released forms, 29 duplicate another item and 10 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_NINETEEN_Offerings_to_Natural_Philosophy_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_NINETEEN_Offerings_to_Natural_Philosophy_resolved_v389.md). Its 24 concerns stand below, each with its reason; 21 stand now.
 
 **Droplet · Lists at one set of fixings, and a *carry* dividing at fission.** The four requirements of Natural Philosophy 1.3, Natural Physics' six and five, and the five conditions prior of Exhibit THIRTY Co-Chaining Logic Registry are lists at one set of fixings. Natural Philosophy 3.15 says a *carry* divides at fission, two successors each carrying, and the Co-Chaining Logic Registry says nothing else carries the same living self, the selves inward carrying the self's prior; their saying at one sentence is at Natural Philosophy's own motion. Entered at the Co-Chaining Logic Registry from Natural Philosophy at version 378: the receding, the resolving re-named still, a self's inward and outward faces, appearance and reality inverted at the naming still, competency at no observing, the human ways as the one form. It is a concern for both. — v386EOD
 
@@ -70,19 +70,7 @@ The particular philosophical relation is morality explained through the self's a
 
 *Standing at v389:* 3.7 has "Neither a single flowing now nor a frozen block" and "each now is its coupling's own and needs no standing beyond itself". Improving Passes v389 has "The universe is the set of all now-existing things", and this droplet "now is the one and only, shared at every coupling and common at none". Many nows, each a coupling's own, part from one now. **To resolve:** is 3.7 re-said as one now with each momentary a coupling's own, or do 3.7's nows stand?
 
-**Concern · at a sentence.** Beside "1.2 A position, a dilemma, and the six run one-way"
-
-*Standing at v389:* At 1.2 the six are three at the offering side and three at the taking, living coupled and hard-probleming "run one-way and pinned". Exhibit ONE v389 has six names between selves, 2, 6, 10, 14 across and 9, 17 along, sharing end and arriving end, and hard-probleming is ten unchangeables, not a six carried one way. Which the six are is not entered. **To resolve:** are 1.2's six Exhibit ONE's six names between selves, with "run one-way" re-said as the ten unchangeables, or is the six released?
-
-**Concern · at a sentence.** Beside "1.2 A position, a dilemma, and the six run one-way"
-
-*Standing at v389:* At 1.2 the six are three at the offering side and three at the taking, living coupled and hard-probleming "run one-way and pinned". Exhibit ONE v389 has six names between selves, 2, 6, 10, 14 across and 9, 17 along, sharing end and arriving end, and hard-probleming is ten unchangeables, not a six carried one way. Which the six are is not entered. **To resolve:** are 1.2's six Exhibit ONE's six names between selves, with "run one-way" re-said as the ten unchangeables, or is the six released?
-
-**Concern · at a sentence.** Beside "**The six, coupled and run one-way.** Each cycle is six, three at the offering side and three at the taking, the two sid"…
-
-*Standing at v389:* At 1.2 the six are three at the offering side and three at the taking, living coupled and hard-probleming "run one-way and pinned". Exhibit ONE v389 has six names between selves, 2, 6, 10, 14 across and 9, 17 along, sharing end and arriving end, and hard-probleming is ten unchangeables, not a six carried one way. Which the six are is not entered. **To resolve:** are 1.2's six Exhibit ONE's six names between selves, with "run one-way" re-said as the ten unchangeables, or is the six released?
-
-**Concern · at a sentence.** Beside "Run one-way and pinned, it is hard-probleming, the frozen. Resolving is the six re-coupling, through the pinned running,"…
+**Concern · at a sentence.** Beside "1.2 A position, a dilemma, and the six run one-way"; and at one concern beside "1.2 A position, a dilemma, and the six run one-way"; "**The six, coupled and run one-way.** Each cycle is six, three at the offering side and three at the taking, the two sid"…; "Run one-way and pinned, it is hard-probleming, the frozen. Resolving is the six re-coupling, through the pinned running,"…
 
 *Standing at v389:* At 1.2 the six are three at the offering side and three at the taking, living coupled and hard-probleming "run one-way and pinned". Exhibit ONE v389 has six names between selves, 2, 6, 10, 14 across and 9, 17 along, sharing end and arriving end, and hard-probleming is ten unchangeables, not a six carried one way. Which the six are is not entered. **To resolve:** are 1.2's six Exhibit ONE's six names between selves, with "run one-way" re-said as the ten unchangeables, or is the six released?
 
@@ -94,11 +82,7 @@ The particular philosophical relation is morality explained through the self's a
 
 *Standing at v389:* At 3.1 self-stilling is "named at five dimensions, the five words its five faces, the offering, the taking, the along, the two-way, the self-bounding". Exhibit ONE v389 carries five dimensions as one row of each name, "1 self prior, prior opening of a self's five", and no five words; Natural Naming v389 2.4 carries a self's own stable-forming "in place of stilling and self-stilling-self". Re-saying needs both met. **To resolve:** are the five words Exhibit ONE's five dimensions at a self's names, and is self-stilling here re-said as a self's own stable-forming?
 
-**Concern · at a sentence.** Beside "Five words, alternating right spiral sequencing binary co-offering, emanate the resolver, and taken as the one constrain"…
-
-*Standing at v389:* At 3.5 "Five words, alternating right spiral sequencing binary co-offering, emanate the resolver" and "emanate the whole form". Natural Naming v389 2.4 releases *emanating* at method into method, and an emanation into an artifact; Exhibit ONE v389 carries seventeen names and no five words. Re-saying the five words and their emanating needs a resolution not yet entered. **To resolve:** are the five words re-said at Exhibit ONE's names and the emanating released into method, or does 3.5's emanating paragraph go to the possibling file?
-
-**Concern · at a sentence.** Beside "That the five words emanate the whole form and not the resolver alone is the saying, and it stands most open of the ones"…
+**Concern · at a sentence.** Beside "Five words, alternating right spiral sequencing binary co-offering, emanate the resolver, and taken as the one constrain"…; and at one concern beside "That the five words emanate the whole form and not the resolver alone is the saying, and it stands most open of the ones"…
 
 *Standing at v389:* At 3.5 "Five words, alternating right spiral sequencing binary co-offering, emanate the resolver" and "emanate the whole form". Natural Naming v389 2.4 releases *emanating* at method into method, and an emanation into an artifact; Exhibit ONE v389 carries seventeen names and no five words. Re-saying the five words and their emanating needs a resolution not yet entered. **To resolve:** are the five words re-said at Exhibit ONE's names and the emanating released into method, or does 3.5's emanating paragraph go to the possibling file?
 

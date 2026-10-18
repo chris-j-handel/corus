@@ -4,7 +4,7 @@ Exhibit TWENTY-ONE Hard Problem Registry Offerings · improved at v389
 
 ## Standing · v389
 
-**Met at v389.** 97 items stood here; met against [Hard Problem Registry](../Exhibit_TWENTY-ONE_Hard_Problem_Registry_v389.md), 9 are carried, 36 rest on released forms, 13 duplicate another item and 16 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY-ONE_Offerings_to_Hard_Problem_Registry_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY-ONE_Offerings_to_Hard_Problem_Registry_resolved_v389.md). Its 23 concerns stand below, each with its reason; 23 stand now.
+**Resolved at v389.** 97 items stood here; resolving against [Hard Problem Registry](../Exhibit_TWENTY-ONE_Hard_Problem_Registry_v389.md), 9 are carried, 36 rest on released forms, 13 duplicate another item and 16 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY-ONE_Offerings_to_Hard_Problem_Registry_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY-ONE_Offerings_to_Hard_Problem_Registry_resolved_v389.md). Its 23 concerns stand below, each with its reason; 25 stand now.
 
 **At Front · the lead — beside "One learning at two faces.".** After the lead, the contents as a list: The conditions prior; 1 What stands open, and what stands fixed; 2 Hard problems in science; 3 Derivation; 4 What an entry carries; 5 The entries, 1 to 257; 6 Checks; 7 The aggregate. A `---` after the contents, the `&nbsp;` lines released, the version line, the title and the subtitle above.
 
@@ -106,3 +106,11 @@ Exhibit TWENTY-ONE Hard Problem Registry Offerings · improved at v389
 **Concern · at a sentence.** Beside "five conditions hold before the method acts."
 
 *Standing at v389:* *Standing at v389:* This file's front, The conditions prior, has "Where there is science and a method for problems, five conditions hold before the method acts", and a concern standing at its offerings asks whether the five are a field's own, at each entry, or this registry's account. Natural Naming 2.4 carries *hold* of a condition by *fixed*; re-said now, that concern's exact quote no longer matches. **To resolve:** re-say as "five conditions are fixed before the method acts" and refresh the concern's quote, or keep it until that concern resolves?
+
+## Gathered at the close of v389
+
+*From reviewing the session's transcript whole at its close: value visible now, each a droplet aimed at its file or a concern standing, out of the living files until resolved.*
+
+**Concern · Conditions prior, holds across readings.** Each of 255 entries carries "**Conditions prior.** The statement holds across readings", kept whole at v389 as scientific-explaining-method's own condition, and its readers proposed *observings* at one range.
+
+*Standing at v389:* Whether this line is a field's own condition, kept whole, or this registry's own account of it, re-said, decides *readings* and *holds* at 255 entries at one motion. **To resolve:** keep the line whole as scientific-explaining-method's own, or re-say it at every entry, "The statement is fixed across observings"?

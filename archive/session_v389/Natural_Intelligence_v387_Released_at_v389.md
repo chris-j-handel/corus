@@ -1865,3 +1865,11 @@ one side holds a sharing to a measure set beforehand
 by a count set over it is no carrying**, and between one inferring and a next a machine holds nothing
 
 with no count set over it by anyone
+
+## Re-said at a gap, both its sides visible, v389
+
+**A now-existing thing arrived from prior, and what is next is possible now.** **Prior, now and next are three sequential universes, one now-existing**, shared among all now-existing things: a prior-existing thing is now-existing at prior-universe, its prior now-existing's artifact, and a next-existing thing is possible now at next-universe. A living self is at its prior as its own, and a non-living thing is at each now its prior now-existing's artifact, 1.4 and 5.1. Now of one momentary is prior of its next, and prior and next share one direction forward at both sides of now; between prior and now, and between now and next, is a gap, both its sides fixed, and no third.
+
+**Four momentaries and their gaps.** Each span's names are two momentaries of four, each opening at an odd existing name, a possibling and a prioring within it, and completing at an even still-possibling name; between each completing and its next opening is a gap, both its sides fixed, and 17-next-now is next 1-now.
+
+**Each span's names are two momentaries of four**, each opening at an odd existing name, a possibling and a prioring within it, and completing at an even still-possibling name: 1 to 4 and 5 to 8 at a self's span, 9 to 12 and 13 to 16 at a society's, its gaps 4 )( 5, 8 )( 9, 12 )( 13 and 16 )( 17 each with both its sides fixed, and 17-next-now a next 1-now, as Exhibit ONE's table of four momentaries gives them.
