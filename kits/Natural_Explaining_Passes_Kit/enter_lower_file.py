@@ -24,10 +24,14 @@ if not new.endswith('\n') and t.endswith('\n'): new += '\n'
 a, b = t.split('\n'), new.split('\n')
 the_rel = [x for x, y in zip(a, b) if x != y]
 blocks = []
+seen = {}
+for d in asks:
+    seen.setdefault(d['why'].strip(), []).append(d)
+asks = [v[0] | {'_n': len(v)} for v in seen.values()]
 for d in asks:
     w = d['why'].strip()
     head, _, rest = w.partition('. ') if w.startswith('Concern') else ('Concern · at a sentence', '', w)
-    blocks.append(f'**{head}.** Beside "{re.sub(r"\s+", " ", d["old"][:120]).strip()}"' + ('…' if len(d['old']) > 120 else '') + f'\n\n*Standing at v389:* {rest}')
+    blocks.append(f'**{head}.** Beside "{re.sub(r"\s+", " ", d["old"][:120]).strip()}"' + ('…' if len(d['old']) > 120 else '') + (f' and {d["_n"] - 1} more passages at one concern' if d['_n'] > 1 else '') + f'\n\n*Standing at v389:* {rest}')
 open(P, 'w').write(new)
 with open(ARCH, 'a') as f:
     if rel: f.write('\n## Re-said at pass 3, released words and numbered names, v389\n\n' + '\n\n'.join(rel) + '\n')

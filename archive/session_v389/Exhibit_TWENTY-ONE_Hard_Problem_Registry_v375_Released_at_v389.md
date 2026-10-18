@@ -4407,3 +4407,135 @@ The entries stand here, one to a problem, **and their count is recomputed at the
 Corrections are applied against the literature.
 
 Each figure is recomputable from the entries.
+
+## Re-said at offerings risen, v389
+
+**The entries are numbered from one, in the order they were entered.**
+
+constructed in no continuum theory. Each open.
+
+(publication, two years, general acceptance). Remaining properties: keyed at next pass.
+
+Pulsed cold-neutron beam counting electrons — a first result not yet precise enough to favour either set.
+
+(both methods improved with independent systematics). Remaining properties: keyed at the next pass.
+
+Stellar depletion and diffusion — mechanisms demonstrated, with required uniform correction unsettled.
+
+arXiv:1909.01245. Remaining properties: keyed at next pass.
+
+**Progress.** Transport record across families. Measured saturations of proposed bound. Solvable models yielding linearity.
+
+dissipation-bound and solvable-model routes at that review's sections. Remaining properties: keyed at next pass.
+
+Superconducting state qualitatively understood, in the field's own summary. Cold-atom realization.
+
+materials-search and model routes at that review's sections, observed at pass one. Remaining properties: keyed at next pass.
+
+gluon helicity is constrained over a growing range, and several gauge-invariant sum rules stand.
+
+to settle the decomposition). Remaining properties: keyed at next pass.
+
+the loophole-closing route at experimental sources at the address, observed at pass one;
+
+modified-dynamics formulation not observed this pass.
+
+formation rate standing between them.
+
+**Progress.** Recurrent genome duplication, immediate isolation mechanisms, duplicate-gene innovation and elevated early extinction risk are documented.
+
+**Own record.**
+
+## 213
+
+New Phytologist, 2015, doi 10.1111/nph.13192. Remaining properties: keyed at next pass.
+
+Genomic dating — detects ancient duplication after extensive fractionation.
+
+and the other approaches stand keyed at next pass. Persistence, no settling:
+
+Partial regularity — the singular set bounded to parabolic Hausdorff dimension zero, a strong constraint that does not exclude.
+
+the closure routes at references at the address. Remaining properties: keyed at next pass.
+
+Ordinal analysis — extends the transfinite route upward, each system's proof-theoretic ordinal established, each needing a stronger metatheory.
+
+Probing was shown by its field to recover information the system does not use, a proved limitation on its own instrument;
+
+for controls its field established. Remaining properties: keyed at the next pass.
+
+**Persistence.** Settled as posed.
+
+Approaches: philosophical and experimental routes at the same entry's sections. Remaining properties: keyed at next pass.
+
+The statement conflates being caused with being compelled.
+
+review of timing evidence as its entry carries it: Schurger et al., 2021. Remaining properties: keyed at the next pass.
+
+## Re-said at pass 8, a second family Natural Naming 2.4 releases, v389
+
+The fifth is a condition on what meets a statement, and the first four stand on it: a statement holds across readings where nothing arriving at it brings a prior reading.
+
+No entry carries a settled answer to a statement it holds,
+
+A line without an address makes a claim that cannot be met,
+
+Where a consequence holds, nothing follows about its account,
+
+where a settling result requires one not to hold.
+
+A specification is universal under a name where it holds across everything stated under that name, and local where it holds for one statement.
+
+the aggregate at section 7 counts over filled properties and not over numbers.
+
+met by the objection that unrefuted hypotheses are left on an equal footing
+
+**Reach.** The statement quantifies over a boundary holding across all lineages.
+
+and each exhibited derivation is met by locating an evaluative premise in it.
+
+Each added condition has been met by a counterexample,
+
+Adding a condition — each met by a counterexample,
+
+every family of solution has been met by a revenge sentence,
+
+Denying truth-bearing — each form met by a strengthened liar.
+
+The graph of which revenge sentence meets which treatment.
+
+Constructed variants and the cases each meets.
+
+the data-volume objection met with a matched-scale programme
+
+applied to a smaller class, met by the argument that uniform convergence
+
+widely regarded as showing a difficulty, met by taking tense as primitive,
+
+excludes a frame-independent present, met with a preferred foliation
+
+does not exist, met with present traces or primitive tensed facts,
+
+Each proposed solution has been met by a reformulation restoring the puzzle,
+
+The seventy-year record of solutions and reformulations meeting each.
+
+Statement quantifies over effect of adding people, holding all else equal.
+
+instruments prove conditions cannot all be met, and do not select which to give up
+
+constructive results holding in lower dimensions, physical theories
+
+disease met at a delayed diagnosis and initiation sought are not the same
+
+hardness at two claims an account must hold together
+
+**and their count is recomputed at them** — a count carried beside them is prior the moment one arrives.
+
+**C19.** An approach count matching the count at neighbouring entries where fields' records differ.
+
+Each figure is a count over filled properties.
+
+The count of entries. The count of entries by the name their specifications are universal under. The distribution of specifications carried per entry. The count of entries carrying an unreachability result. The count carrying a narrowing recorded, by narrowing of reach and by weakening of relation. The count carrying a specification withdrawn.
+
+The count whose settling result is specified as one result, as either of two, or as proved unavailable. The count of properties standing empty, by property.

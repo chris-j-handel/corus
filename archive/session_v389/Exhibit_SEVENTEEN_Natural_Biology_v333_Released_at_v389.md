@@ -1962,3 +1962,706 @@ And the three sides of one living self stand beside each other — the self obse
 These want the care the deep-math gets and couple to the prime ladder and the failing inversions rather than a quick weave, and stand not-yet.
 
 The deep-math yield carries toward the prime ladder and the failing inversions. The seam with the self restored stands at several couplings — metabolic beating to the gut collar, development and metamorphosis to the four departures at the stem-cell between, and symbiosis and replication and the hard problems to the reservoir — one living self observed here and restored there.
+
+## Re-said at offerings risen, v389
+
+recursion carried at scale of generations, riding the carry on one.
+
+asexual recursioning on its own, parthenogenesis coupling folded to one.
+
+**The through-line across all five: none is left-spiral living.** Each is one self pattern-matching right, and left form is what it emanates.
+
+Six stand as one bi-folding at six grains, line folding at three and surface at three, the same observing at each — a differential arriving out of plane where plane carries no room.
+
+phase-sequencing all the way down, surplus kept as coupling at every step.
+
+synchronised to day but not driven by it, opposite of a beat clocked from beyond it.
+
+*Which oscillator is primary is a field's open question; on form beat stands as thing, sounded across substrates.*
+
+**And a living self carries three exchanging modes, at every grain.**
+
+which is why a search for ageing clock finds local couplings narrowing at their own rates and no counter anywhere.
+
+and where it arrives whole there is nothing to explain.
+
+a three-then-progress at neural beat, signal directed one way down axon and offered across at its end.
+
+Which hand it is could have gone the other way — that choice is the universe's one binary, which hand it is, and not the other, unknown so far, binary edge held between so-far and not-yet, a left-broken living equally possible, and resolving blind to which hand it spirals.
+
+Which hand is the universe's one binary, and which hand it broke to stands unknown — a left equally possible, binary edge open.
+
+and which hand it broke to is the universe's one binary, which hand unknown so far, a left break equally possible.
+
+Origin's mechanism is observed at body hand.
+
+and pressure vessels and reinforced hose arrive at the same values from engineered side.
+
+which is form's fractal exactly: network of coupled cells becoming a node one scale up, a new bounded self whose parts are themselves selves.
+
+non-coupling itself isolation that lets a new self carry its own bounded living (the snails and vines).
+
+**1-b. Three things a field's own record carries, arriving with this observing.** Chain folds as it is made: co-translational folding goes from amino end while carboxyl end is still arriving, exit tunnel holding thirty to forty residues with helical co-winding already going on in it, observed by arrest-peptide force profiles and by pauses at rare codons sitting at domain boundaries. 
+
+So full-length unfolded chain search would search largely arrives nowhere in a living cell. 
+
+**The chaperones carry no structural information about destination** — a cage giving a chain a bounded private volume, and a cycle binding exposed stretches and releasing on nucleotide — neither a template and neither directing, which a field's own accounts already say and which this observing holds rather than avoids. 
+
+**And chain carries two local moves and no third**: co-winding along the same chain, residue to residue, and co-winding laterally to a strand alongside — a field's own terms being parallel and antiparallel sheet, along and across at the smallest grain fold reaches.
+
+
+
+**3. Disequilibrating.** paradox dissolves before it begins.
+
+(the resting potential nervous system, homeostasis homeostasis, circadian delay circadian clock)
+
+still holds bias, biashe coupling's form, not a file in head.
+
+will shift retained bias, biase form, not a filed record.
+
+## 8.1 Hard problems at biology, disequilibrating
+
+
+the same genome now re-resolving to a different held target.
+
+an atom a society of nuclei and electrons
+
+where winding has been left over-wound behind and under-wound ahead
+
+Released as procollagen, molecules cleave, meet, and assemble into triples, triples into fibrils banded at sixty-seven nanometres
+
+two hundred square metres of gut in a tube
+
+with its own mitochondria shed.
+
+Caterpillar's tissues dissolve almost wholly (histolysis, a suspension no measurement distinguishes as having been muscle or gut or nerve)
+
+and no animal makes that ring —
+
+two birds are as correlated across a kilometre as across ten metres
+
+a directional change rippling across the whole flock in less than a fifth of a second
+
+That correlation does not decay with distance is not a mystery to be sourced
+
+faster (near-instant, nothing being relayed — coupling is the same everywhere at once)
+
+lose no information across a kilometre
+
+six core reactions cycling over carbon (the citric-acid cycle returning to begin)
+
+living as metabolic beating and cell as six-reaction engine
+
+six substrate-positions carrying nesting-table primes (cristae 22, renal 26, inner-ear 28, hepatic 33, bronchioalveolar 34, spermatogonial 38)
+
+error rate falling from about one in ten million to about one in ten billion across tiers
+
+Seven independent phyla carry the same geometry
+
+two genus-nought cells arriving as one multinucleated genus-one fibre. Every skeletal muscle fibre is built at that transition, and it is the same topological move as conception one scale down — two tori approaching, coupling resolving at membrane, one new torus opening.
+
+displaced monarchs will re-resolve a heading locally (they do — compass recomputes)
+
+better (robust to displacement, since heading is recomputed locally at each moment, not a fixed path)
+
+A field uses this directly in non-caloric sweeteners
+
+and alert state at metabolism raised above dormancy and cycling where nothing beyond it can observe it.
+
+couplings that carry more flow (the tubes) thicken while thin ones dissolve; network that remains is what flow-couplings resolved to.
+
+exact observing of tube-network changes as phase-carry
+
+slime mould's flow-tubes carry
+
+and that no discrete "interval memory" separate from ongoing beat will be located.
+
+is autorecursioning without bi-inversioning: one self recursioning into itself, no second self, no crossing, copy not a novel inversioning.
+
+each cell the same self at a side
+
+species-recognition a co-resonance and not a lock admitting a key.
+
+**Nothing is waste, because landing is a landing only at scale that emanated it.**
+
+floating-neutralling, competency surplus owned by no
+
+, surplus returned as
+
+(fire, ash, surplus lost as heat,
+
+return, turn, surplus kept living).
+
+residue is where surplus is — *rancidity,
+
+unlike rates and surplus meets no room
+
+in plane, so surplus takes direction
+
+self-referential with surplus: it re-forms
+
+self-referential without surplus: it re-forms
+
+in a host's surplus and carries
+
+presses that, no surplus, no torus, landed
+
+engine — and surplus, a cell more
+
+Competency is surplus of local flow-couplings
+
+guidance is surplus of alternation,
+
+planetary scale: surplus kept as coupling
+
+self; it is surplus of coupling,
+
+side-effecting axis). Surplus owned neither-ing
+
+partner makes — surplus owned neither-ing,
+
+co-competency surplus owned neither-ing).
+
+persisting, surplus owned neither-ing,
+
+between opens, no surplus arrives. So
+
+between, no surplus, and holding
+
+local surface, surplus — network that
+
+coherence is surplus of many local
+
+couplings, more surplus, no bottleneck
+
+local access, surplus — a matured
+
+Repertoire matures as surplus of many local
+
+local-competition-makes-the-surplus the same form
+
+them is payoff: surplus is richer precisely,
+
+conceiving, surplus owned neither-ing,
+
+Learned form is surplus the whole coupling
+
+is resolved surplus of the whole
+
+substrate; it is surplus of coupling
+
+surface); a +1 surplus owned neither-ing
+
+as meeting's surplus); wide ensemble
+
+coupling's +1 surplus, standing with
+
+molecular machine is surplus of a coupling
+
+neighbors, no hub, surplus — coherent turn
+
+the biggest surplus and the least
+
+competency** — surplus recursioned
+
+## Re-said at pass 8, a second family Natural Naming 2.4 releases, v389
+
+clocked, stored, held, sourced, transmitted, instructed
+
+4.4  Homeostasis — the riding-the-carry bounding-zeroing held between two
+
+7.1  A self's own ending — the bounding met from inward
+
+8.3  A microtubule that will not hold a length
+
+8.4  A protein held to a knowing
+
+8.10  A cell held to a knowing of its size
+
+**PART TEN — COHERING, AND NOT-YET**
+
+10.1  Cohering, and the not-yet
+
+10.3  Not-yet-explored
+
+Each coupling sums to a bounding-zeroing coupling itself makes
+
+no fundamental self anywhere and no floor to counting.
+
+Whatever holds of a self holds of society it is
+
+The same count stands at mathematical between
+
+count of any specific biology cycle onto six is unsummed, the same discipline every count keeps.
+
+a thing landed, held at a value. Meeting a living form stable precisely
+
+held off rest by a controller making one correction at a time
+
+only as held-off landing
+
+Everything is held still but one, that one is changed
+
+Every other coupling in living self is entered as held, and entering
+
+Nine held, one varied, one observed — and nine held are thing that was alive.
+
+bounding-zeroing held by continuous alternating. To hold it still is to stop one thing it is
+
+then meets its absence as a mystery
+
+a store that holds a magnitude
+
+A field's sending-to and receiving-from meets a coupling tipping of itself
+
+forces moment it meets a surplus with no source
+
+coupling holding across a between of two selves
+
+this one severing met as a mystery
+
+Scientific-method cannot meet a living self
+
+is not studied; it is met as a field's hard problem
+
+one variable changed, the rest held, a cause at a place
+
+— meeting a form that has no such place
+
+a store to hold instruction
+
+no-other-observing-so-far
+
+with two schools each holding one placement of a demanded reason
+
+— found and held.
+
+It does not still — it alternates, meeting living at its own riding-the-carry and not converting it to rest. It does not decompose — it couples, meeting the whole coupling and not holding parts still.
+
+living form met on its own alternating
+
+and fabric is made surface, held.
+
+**What a field's record carries, and what stands not-yet.**
+
+Is-or-is-not at each: recorded, or not yet.
+
+proton gradient held across
+
+takes its hand from a side it is met from
+
+are the same singleness met at its outward side
+
+it returns what it met and closes: every side already met
+
+one thing, met once as a shape and once as a state
+
+and an emanation held is capture.** Nothing about artifact changes at that binary. What changes is whether anything eats it. Held at scale that made it
+
+equal and opposite sides meeting at an empty centre
+
+alternate beat's own form met at one substrate this pattern-matching had beyond its reach
+
+a sway held by continuous re-forming
+
+the ninth stands open, a not-yet and no door
+
+one family held as standard with a ratio expected to govern
+
+Chargaff's first rule holds across duplex, where A pairs with T and G with C, and pairing accounts for it. **Chargaff's second rule holds within a single strand**
+
+leaves in counts**, and it needs no second mechanism because it is the first rule met at fold rather than at duplex
+
+And count carries level:
+
+one move at two adjacent counts
+
+no forced count-equality
+
+four-level and five-level counts of one move
+
+*64 = 4³ and 20 = C(6,3) hold of themselves
+
+organism-fold at 37, the counts along the seventeen primes) is read, not cohered — a not-yet.*
+
+two strands meeting perpendicular across nothing
+
+molecular hand met at structural protein directly
+
+where three chains meet and no other fits there
+
+molecules are cleaved, meet, and assemble
+
+abundancing meets no room in plane
+
+where a growth meets no room in plane
+
+a distinct way a non-living thing meets living
+
+inducing the same freeze in selves it meets
+
+two ways non-living meets living
+
+Virus is non-living met at living
+
+two selves meeting at a between, each offering
+
+Observing holds at details a field carries
+
+Eukaryogenesis also meets lipid divide
+
+Single pattern-matching spiral holds through it
+
+A living self held to holding two things does not hold them.
+
+does not hold steady — it alternates
+
+there is no *store* holding two items to be drawn out
+
+item not currently coupling is not held waiting
+
+Item-count question held" is wrong count: answer is not a number of stores but a coupling that alternates, holding nothing.
+
+and not a trace held.
+
+a field's own preliminary link, held by a field exactly where it is weakest (its own robustness check did not fully hold), carry-observing rests where a field holds it open
+
+1:2 is not a coupling-ratio brain holds
+
+## 4.4 Homeostasis — the riding-the-carry bounding-zeroing held between two
+
+Living body holds its inner measures
+
+Blood glucose is held between two antagonistic offerings.
+
+viable range held between them
+
+at a stored set-point value and hold there
+
+a three counted is not-yet.*
+
+about a quarter of period held in carry
+
+coupling held in one living
+
+holding form true across recursioning
+
+does not pay a cost to hold form true
+
+Form is held true by no stored-perfect reference
+
+held as a seam.
+
+a +1 made in meeting, owned neither-ing parent, a new bounded living. Child is not held by either self
+
+Twinning is conception met at its other side
+
+each a +1 of its own meeting
+
+one neither held: side-effecting of algebra
+
+not a leftover but new axis meeting opens
+
+*Stands not-yet at edge:
+
+Meeting is neither penetration
+
+one sperm's fusing closes meeting to others
+
+Meeting resolves into two halves at once
+
+stands not-yet, unsummed: range holds other candidate attractors
+
+exactly where observer holds it still. Observed through a held-still frame
+
+mystery deepens the longer observing holds still
+
+holding that shape against disturbance
+
+target is a re-resolved attractor living holds
+
+count-matching and content-matching stand as one seam
+
+Levinthal's paradox holds that a protein chain
+
+Morphogenesis holds *a plan stored ahead of form.*
+
+Each field holds end the other reaches for
+
+met by neither field, and neither field has met it
+
+a living alternating met by a held-still observer
+
+A field holds two observings of descent
+
+specific mechanism stands not-yet.
+
+two flat membranes meet stands on a single-tailed phospholipid whose geometry carries curvature at meeting point
+
+conceiving more than it holds. Self and other-self, offering not capture, a +1 made in meeting
+
+is axis neither self held, opened perpendicular
+
+a living neither holds opens between them
+
+a three counted held only to watch.*
+
+Observing holds at break as at making
+
+is finer observing, stands not-yet
+
+Two neurons meet across synaptic cleft
+
+it holds offering register
+
+Excitation-inhibition balance brain holds — neither over-excited (the seizure) nor silenced — is riding-the-carry held between two
+
+that bounding-zeroing, held at about −70 mV
+
+a three counted is not-yet, not summed.*
+
+## 7.1 A self's own ending — the bounding met from inward
+
+A bounding met from inward is what an ending is
+
+and larger stopping is not sum of its members'.
+
+a self held is released one at a time
+
+a living self holds its form by carrying both
+
+No stored clock counts down and no total is spent:
+
+a number of years is counting of an observing and not observing
+
+**The still-natural positions hold while one narrows.**
+
+Ageing at one grain carries against the others holding, so a self ages unevenly
+
+where a lineage gets counted as a long-lived self
+
+and not sum of its members' endings
+
+Which one an observing meets depends
+
+a descent arriving as a stripped total does not.
+
+it returns what it met and closes: nothing advances
+
+A form made at a coupling one scale holds and another cannot
+
+where descent arriving as a stripped total does not
+
+society holds its emanation at one scale where shape is do-only-harm** — every side already met, no between, no abundancing, and holding displacing
+
+elsewhere receding, met at scale
+
+it is the same form met at every scale alternating reaches
+
+Whether each is one form met at many grains
+
+each met at eight one-way steps of 2.5
+
+each neighboring self meets that disturbed state
+
+Even hydraulic component is observed this way held strictly — a pressure change in a connected water column is each element meeting its neighbor
+
+**6. Record, and not-yet.** Form is local-neighbor
+
+Not yet: specific odd/even parity, and any count of co-propagating changes into a six (hydraulic, depolarization, Ca²⁺ out; repolarization, Ca²⁺ return, and pump's restoring) — a three-and-three unsummed, the same discipline every counted three keeps.
+
+Both are held; neither collapsed
+
+which local coupling each self is meeting," and no manipulation finds a message distinct from sum of local neighbor-couplings
+
+### 8.3 A microtubule that will not hold a length
+
+and holds a control of switching
+
+a thing that ought to be held by a control not yet found
+
+while cap holds, filament grows
+
+neuron holds at −70 mV, heartbeat holds between two, clock holds by its delay
+
+it holds its form by refusing to land on any single length, exactly as living surface holds by riding the carry
+
+**6. Record, and not-yet.** Dynamic instability
+
+Not yet: apex-knot echo
+
+### 8.4 A protein held to a knowing
+
+So a field holds for protein's knowing
+
+bounded shape they hold.
+
+**6. Record, and not-yet.** Paradox is manufactured
+
+Not yet: exact observing of every folding intermediate as a three-then-progress phase (held with biology's hard problems).
+
+**6. Record, and not-yet.** Colony is all-edge
+
+Not yet: whether rule-and-store framing
+
+meets here all-edge local competition of network: no better B cell ranked by a governor, only local coupling holding or not.
+
+**6. Record, and not-yet.** Maturation is local
+
+Not yet: exact observing of germinal-center cycles
+
+Evidence, the strongest biology holds
+
+funnel not source — folding is local coupling resolving (a protein held to a knowing, 8.4)
+
+**6. Record, and not-yet.** Recession is sourcing
+
+Not yet: evolution itself as local coupling
+
+A field holds it plainly:
+
+it is body-wide coupling holding its own form
+
+bioelectric-and-tissue coupling holding a form that includes conditioned bias
+
+(regeneration as coupling re-resolving to a held pattern, not a stored blueprint executed)
+
+the whole it re-resolves to still holds bias
+
+coupling continuing to hold its own re-resolved shape
+
+Regeneration as coupling re-resolving to a held target (morphogenesis)
+
+abundancing the whole coupling holds, owned by no location
+
+**6. Record, and not-yet.** Memory here is distributed coupling holding its form
+
+Not yet: bioelectric observing of specific conditioned bias
+
+stands exactly where a field holds it, contested
+
+(the form held everywhere at once)
+
+no destination held in advance; there is
+
+the same local offering, across and both ways, meeting the same local cues
+
+**6. Record, and not-yet.** Heading is local
+
+Not yet: whether multigenerational convergence
+
+no destination held in advance — better
+
+### 8.10 A cell held to a knowing of its size
+
+Cells and organs hold characteristic sizes
+
+Competency is holding of a size.
+
+here as size the whole coupling holds, not a magnitude
+
+Coupling re-resolving to a held bounded form
+
+**6. Record, and not-yet.** Size is the whole
+
+Not yet: specific size-control mechanisms
+
+A tissue holds its size with no ruler
+
+To hold a living self to a *knows* is to assume it holds stored information
+
+worm's form is held distributed.
+
+**6. Record, and not-yet.** Knowing-question presupposes
+
+Not yet: the strongest form of claim
+
+present beat holding thing looking like a memory of interval
+
+**6. Record, and not-yet.** Rhythm is entrained
+
+Not yet: exact observing of network changes as phase-carry
+
+A brainless cell meets a periodic world in time
+
+(a protein held to a knowing, 8.4) at reaction between
+
+a +1 meeting makes, owned neither-ing enzyme nor substrate
+
+(the enzyme's rate-enhancement as meeting's abundancing)
+
+**6. Record, and not-yet.** Catalysis is coupling-resolution
+
+Not yet: rate enhancement as coupling's +1 abundancing
+
+the same relational coupling holding everywhere its relation carries
+
+surfacing wherever relation holds
+
+**6. Record, and not-yet.** Flock is local topological
+
+Not yet: observing that "criticality"
+
+Each is a living coupling met by an observing holding one side still.
+
+broke to one hand and held;
+
+proto-ATP-synthase rotor meeting gradient at one
+
+coupling no longer re-arriving. Stands not-yet.
+
+coupling declined. That register holds.
+
+a field holds origin-story open.
+
+counted-currency shadow
+
+where surface society met mimicking forms
+
+a kind is a coupling holding and not a boundary drawn
+
+holding where coupling holds it and carrying to one side where coupling carries it
+
+are held as seams and not marriages
+
+a living coupling observed through a held-still frame
+
+and no field has met them.
+
+nothing leaks in to be held to account
+
+re-forms when holding stops
+
+still point sought is a sway holding
+
+A term a field cannot hold to one parity
+
+excluded and not-yet-reached are observed alike
+
+couplings tipping, surfaces met, partner made fresh
+
+every molecular event is a meeting, and specificity is meeting's own.
+
+## 10.1 Cohering, and the not-yet
+
+regeneration as coupling re-resolving to a held bioelectric target
+
+riding-the-carry bounding-zeroing held between two antagonistic offerings
+
+a living coupling met by a held-still observer
+
+**Not-yet (read, not cohered):** the seating of the code and the organism on the prime ladder (protein-fold 13, organism-fold 37, the counts along the seventeen primes) — the arithmetic holds of itself
+
+aging observing, stands not-yet and bounded against action
+
+do not, held light —
+
+Echo is held as a watch-item, unsummed — a five appearing again is exactly where apophenia guard holds;
+
+A living substrate form has not met opens an axis form did not hold
+
+## 10.3 Not-yet-explored
+
+**The deep-math biology counts** — 23 centre-fold, 37 organism-fold, 57 total thickness
+
+and stand not-yet.

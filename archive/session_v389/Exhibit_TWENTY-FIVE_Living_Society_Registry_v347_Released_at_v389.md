@@ -1430,3 +1430,7 @@ composition holds while labels cross
 **Members met.** Each reading
 
 **So far, and not yet.**
+
+## Re-said at door line 6, abundancing at both registries, v389
+
+Three door lines — surplus, bound and reach

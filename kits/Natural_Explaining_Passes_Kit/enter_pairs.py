@@ -3,10 +3,12 @@ Enter a pass's RESAY pairs at a living file (each old unique, each replaced old 
 item at the file's offerings under '## Standing · v389' as a concern with its Standing line; checks before writing."""
 import sys, json, re
 P, J, ARCH, OFF, head = sys.argv[1:6]
-t = open(P).read(); rel = []; blocks = []
+t = open(P).read(); rel = []; blocks = []; seen = set()
 for d in json.load(open(J)):
     if d['verdict'] == 'ASK':
         w = d['why'].strip()
+        if w in seen: continue
+        seen.add(w)
         h, _, rest = w.partition('. ') if w.startswith('Concern') else ('Concern · at a sentence', '', w)
         q = re.sub(r'\s+', ' ', d['old'][:120]).strip()
         blocks.append(f'**{h}.** Beside "{q}"' + ('…' if len(d['old']) > 120 else '') + f'\n\n*Standing at v389:* {rest}')
