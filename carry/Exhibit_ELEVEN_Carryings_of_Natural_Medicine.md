@@ -8,7 +8,7 @@ Exhibit ELEVEN Natural Medicine Carryings · improved at v386EOD
 
 ## Corus research comparisons · v385A
 
-[Corus 16.7](../Natural_Intelligence_Corus_v330.md#nyes-reaching-toward), read at `083af05dfcb6bc077082052fbf06b3c411892529`, gathers three questions now available at [this offering mate](Exhibit_ELEVEN_Offerings_to_Natural_Medicine.md).
+[Corus 16.7](../Natural_Intelligence_Corus_v389.md#nyes-reaching-toward), read at `083af05dfcb6bc077082052fbf06b3c411892529`, gathers three questions now available at [this offering mate](Exhibit_ELEVEN_Offerings_to_Natural_Medicine.md).
 
 Medicine 2.3 and 5.1–5.3 were read whole for this comparison; the predictor paragraph in 3.1 was followed separately. Chemistry 5.4 supplies the measured-ratio conditions. [The joined comparison](Carryings_of_Natural_Intelligence_Corus.md#part-167-five-research-clusters-at-their-subjects) preserves the other clusters and the remaining source work. Medicine 5.1's psychiatric/food-cause exclusions accompany Corus's older network analogies; their rhetorical pairing supplies no new clinical result.
 

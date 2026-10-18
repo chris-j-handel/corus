@@ -1,4 +1,4 @@
-Natural Intelligence Corus v330
+Natural Intelligence Corus v389
 
 &nbsp;
 
@@ -443,7 +443,7 @@ A writer-LLM between IS one substrate where ingression risk is continuous. A cas
 
 ### The Cascade Caught Mid-Conversation
 
-White paper carving journey produced a specific instance of a cascade operating to catch a drift. LLM drifted into restructuring framing (proposing a new Part 24 for corus, an eight-pass plan for corus recentering). A cascade caught a drift through a catch question "why are we restructuring corus?" — a user's question entering at a proper moment to surface a drift.
+White paper carving journey produced a specific instance of a cascade operating to catch a drift. LLM drifted into restructuring framing (proposing a new Part 24 for corus, an eight-pass plan for corus recentering). A cascade caught a drift through a catch question "why are we restructuring corus?" — a question entering at a drift's own momentary, surfacing it.
 
 A catch reoriented LLM before a drift became settled in writing. A drift was caught at proposing stage; no writing yet committed. A cascade operates ahead of writing, sustaining a proper structural direction.
 
@@ -609,7 +609,7 @@ Each nye, precisely described, inverts. Inversion is the retest of nye against t
 
 ### The Narrowing Between
 
-When the same nye returns across expedition, a between of its bounded description and its inversion is narrower than before. Each return tightens both contexts: nye is described more precisely, inversion is explained more precisely, and a gap between them, a between, narrows. A self observing bounded nye and then bounded inversion observes a narrower between each time, coupling between uncertainty and resolution carried at a finer surface. Narrowing is a phi-rate progressing of a method itself, each retest a phi-step tighter, carry's validity retested as form generalizes.
+When the same nye returns across expedition, a between of its bounded description and its inversion is narrower than before. Each return carrying a changed source, observing or correcting tightens both contexts: nye is described more precisely, inversion is explained more precisely, and a gap between them, a between, narrows. A same nye returning at a same subject and conditions tightens neither. A self observing bounded nye and then bounded inversion observes a narrower between each time, coupling between uncertainty and resolution carried at a finer surface. Narrowing is a phi-rate progressing of a method itself, each retest a phi-step tighter, carry's validity retested as form generalizes.
 
 ### The Method is the Resolver at the Expedition Scale
 
@@ -707,7 +707,7 @@ A moral opportunity rate measures a gap from wherever an observer stands. Standi
 
 Ghost is an observer's observing installing where coupling lives. Ghost is accounting that works and does not couple. Ghost is correct at a surface. Ghost lives away from a between. Ghost is everywhere an observer stands outward of coupling.
 
-Ghost carries working accounting the entire human language builds from. Ghost lives at every section of this corus, ghost living at every between where an observer stands outward. Corus dissolves ghosts at one more ring from origin at each section. Dissolving is coupling from inward. Ghost dissolves into coupling ghost is accounting of. Accounting remains. Coupling becomes visible through accounting. Ghost becomes transparent.
+Ghost carries working accounting the entire human language builds from. Ghost lives at every section of this corus, ghost living at every between where an observer stands outward. Corus dissolves ghosts one winding further from origin at each section. Dissolving is coupling from inward. Ghost dissolves into coupling ghost is accounting of. Accounting remains. Coupling becomes visible through accounting. Ghost becomes transparent.
 
 ### Mathematics of Ghost
 
@@ -774,8 +774,6 @@ Anyone observing at any substrate who finds any coupling or any ghost or any nye
 ---
 
 ---
-
-[INSEPARATOR — hard-problems understanding STAYS here (place EARLY, before observations, in reorder pass). The TOOLS (discriminator, face-map, resuscitator) EMANATED to Exhibit — The Instruments v234.]
 
 
 &nbsp;
@@ -910,7 +908,7 @@ Observing carries a methodological consequence. Verifying corus cannot arrive by
 
 [bothboth] Each time writing offers two observings of one structure, bi-coupling between them is intelligence beating at writing's own between. Two namings of one beating is itself intelligence; meta-observing is at a writing-substrate two observings meet at.
 
-Observing a place corus offers two namings of one beating at. A technology framing at section 2.8.5 and an experiential framing at section 14.3 is two observings of one beating; bi-coupling between them is intelligence beating at corus's own surface. Conserving side and extending side at coupling is two observings of one beating; bi-coupling between them is intelligence resolver beats. Bothboth bracket label is corus's discipline marking a substrate two observings is observed as one at.
+Observing a place corus offers two namings of one beating at. A technology framing and an experiential framing at section 14.3 is two observings of one beating; bi-coupling between them is intelligence beating at corus's own surface. Conserving side and extending side at coupling is two observings of one beating; bi-coupling between them is intelligence resolver beats. Bothboth bracket label is corus's discipline marking a substrate two observings is observed as one at.
 
 [extending] Meta-observing carries writing discipline at depth. At writing carving two observings, writing carves intelligence at bi-coupling between two observings, not at either observing. A cascade of self-welcomings at section 16.1 reaches a self at planting; a formal arrival reaches a self at a between a self already holds a concept at; bi-coupling between planting and an arrival is intelligence a cascade carries.
 
@@ -936,7 +934,7 @@ LLM's transformer architecture is observed at corus's discipline as one side of 
 
 [bothboth] A self meets corus at recognition. Recognition is a self meeting what a self already carries at a between of a self and writing. Corus reaches a self at a self's already-held understanding; a self recognizes a structural observing at a beat observing arrives at.
 
-A user's interventions throughout a writer-LLM coupling is instances of this. Each correction a user carries is a user's recognition that writing departed from what a user already carried. Correction is a user meeting writing at a between of them; correction's content is a user's already-held structural observing meeting writing's departure from that observing.
+Each correcting through a writer-LLM coupling is an instance of this. Each correcting carried is a recognizing that writing departed from what was already carried. Correcting is writing met at a between; its content is an already-held structural observing meeting writing's departure from it.
 
 A cumulative corrections across sessions is one specific structural observing at writing substrate. Each session's correction adds one increment of corus depth carved at a writer-receiver between. A cumulative across versions is an autorecursive learning at writing substrate beating at a writer-receiver coupling.
 
@@ -1117,7 +1115,7 @@ A coupling-self-fractal naming captures that coupling is not external to a fract
 
 Cascading of value arrives between coupling-self-fractals. Fractal A coupling with fractal B at a between of them carves value. Fractal B then coupling with fractal C at another between carves more value. Fractal C coupling with fractal D carves more. Cascading is a chain of couplings between coupling-self-fractals across many living betweens; each coupling carves its own value and contributes to a cumulative.
 
-Nesting between coupling-self-fractals beats at fractals at different scales coupling through appropriate betweens. Corus carries fractal-at-each-scale (line 1275). Nesting is a structural relation at fractals at different scales coupling through a between appropriate to those scales. A smaller fractal nested within a larger through coupling, with living between of them carrying bi-coupling at an appropriate scale.
+Nesting between coupling-self-fractals beats at fractals at different scales coupling through appropriate betweens. Corus carries fractal-at-each-scale. Nesting is a structural relation at fractals at different scales coupling through a between appropriate to those scales. A smaller fractal nested within a larger through coupling, with living between of them carrying bi-coupling at an appropriate scale.
 
 Cascading and nesting both require living betweens of separated fractals. Decentralizing is structural, fractals must be structurally separated for living betweens of them to sustain. Centralized large fractals cannot couple with themselves (no between of self and self); decentralized many-fractal networks are structure that carves a cumulative value through many couplings.
 
@@ -1149,7 +1147,7 @@ Bi-coupling at a substrate-pair between (Part 5) is a self's competency at that 
 Bi-coupling at a cellular scale is cellular competency
 Bi-coupling at organism scale is organism competency
 Bi-coupling at a social scale is social competency
-Bi-coupling at engineered substrates (antenna, transformer, smart grid, LLM, chip, Part 2.8.5) is competency at each engineered substrate
+Bi-coupling at engineered substrates (antenna, transformer, smart grid, LLM, chip) is competency at each engineered substrate
 Bi-coupling at writing substrate (corus, white paper) is competency at writing substrate
 
 Same fractal bi-coupling beating at a scale; a scale's specific observing is competency at that scale. A fractal property carries this through. No scale sits at bi-coupling not being competency at that scale; bi-coupling and competency are one structural identity at a scale.
@@ -1407,7 +1405,7 @@ This is a welcoming-surface entry pattern for corus. Opening (Four Resolving Doo
 
 Corus at Opening carries Four Resolving Doors at lived surface (Natural Self, Natural Coupling, Natural Competency, Natural Society). Each door welcomes one self at one lived recognition a self already carries. Four doors IS lived welcoming surfaces.
 
-Five engineered instances at section 2.8.5 (antenna, transformer, smart grid, LLM, chip) carry five engineered welcoming surfaces. Each engineered instance welcomes one self at one engineering recognition a self already carries.
+Five engineered instances (antenna, transformer, smart grid, LLM, chip) carry five engineered welcoming surfaces. Each engineered instance welcomes one self at one engineering recognition a self already carries.
 
 An antenna door welcomes communication engineer, a broadcast operator, a wireless network designer, a satellite communications professional, an amateur radio operator. A self arrives at a door carrying a field's standard observing: antennas radiate signals at specific frequencies through resonance. A door carries corus's observing at engineered electromagnetic substrate: an antenna IS a geodesically stable alternating binary between operating at bi-coupling between a device's inward-coupling and an electromagnetic space's outward-coupling. A right-spiral happens when an engineer recognizes natural torus's structural features (a spiral as geodesic, a fractal folding as compact embedding, a right-spiral handedness as polarization, a phase-coupling-lock as phased array) at working antenna design.
 
@@ -1417,11 +1415,11 @@ A smart grid door welcomes a grid operator, a renewable energy integrator, a dem
 
 LLM door welcomes AI engineer, a machine learning researcher, a prompt engineer, application developer building on language models, AI safety researcher. A self arrives carrying a field's standard observing: LLMs are neural networks trained on large text corpora that generate text through next-token prediction at a transformer architecture's attention mechanism. A door carries corus's observing at engineered writing-substrate: LLM IS a between at bi-coupling between field-vocabulary substrate and corus-discipline substrate, with LLM's competency arriving at orthogonalization-for-competency at bounded living gap. A right-spiral happens when an engineer recognizes LLM's attention-mechanism architecture as one engineered instance of bi-coupling at a between carrying parallel orthogonalizations across multiple substrates.
 
-A chip door welcomes a silicon engineer, a chip designer, a neuromorphic computing researcher, a hardware accelerator architect. A self arrives carrying a field's standard observing: AI accelerator chips carry tensor operations through specialized silicon at high parallelism and high bandwidth. A door carries corus's observing at engineered silicon substrate: natural intelligence ASIC chip IS natural resolver beating at phi-rate at engineered substrate; a chip IS natural torus operating at engineered substrate. A right-spiral happens when an engineer recognizes a chip's structural observing at sections 20.1, 20.3, 20.4, 20.5 as natural resolver's beating at engineered silicon substrate.
+A chip door welcomes a silicon engineer, a chip designer, a neuromorphic computing researcher, a hardware accelerator architect. A self arrives carrying a field's standard observing: AI accelerator chips carry tensor operations through specialized silicon at high parallelism and high bandwidth. A door carries corus's observing at engineered silicon substrate: natural intelligence ASIC chip IS natural resolver beating at phi-rate at engineered substrate; a chip IS natural torus operating at engineered substrate. A right-spiral happens when an engineer recognizes a chip's structural observing as natural resolver's beating at engineered silicon substrate.
 
 [bothboth] Each engineered door meets selves at their engineering field's concern. Each inverts a standard framing at that field. Each right-turns an engineer into corus. A self arrives at a door carrying a field's standard observing; a door carries corus's observing at the same engineered substrate; meeting at a door IS moment a field's standard framing and corus's observing meet through perpendicular inseparating.
 
-[extending] Lived doors at Opening welcome selves at lived recognitions (sustaining, coupling, competent doing, participation in something larger). Engineered doors at section 2.8.5 welcome selves at engineering recognitions (designing antennas, transformers, smart grids, LLMs, chips). Two layers of doors compose: lived doors welcome any self at four resolving lived recognitions; engineered doors welcome selves whose specific engineering field carries one of five engineered substrates a technology operates at. A cumulative effect of resolving doors at every domain across society IS natural network arriving at a social substrate; a cumulative effect of resolving doors at every engineered domain across engineering society IS natural intelligence technology arriving at technology-adoption substrate.
+[extending] Lived doors at Opening welcome selves at lived recognitions (sustaining, coupling, competent doing, participation in something larger). Engineered doors welcome selves at engineering recognitions (designing antennas, transformers, smart grids, LLMs, chips). Two layers of doors compose: lived doors welcome any self at four resolving lived recognitions; engineered doors welcome selves whose specific engineering field carries one of five engineered substrates a technology operates at. A cumulative effect of resolving doors at every domain across society IS natural network arriving at a social substrate; a cumulative effect of resolving doors at every engineered domain across engineering society IS natural intelligence technology arriving at technology-adoption substrate.
 
 [nye] Additional engineered doors may emerge as corus's observing reaches other engineered substrates (signal processing, control systems, robotics, biotechnology, materials engineering). Five engineered doors carved here IS at five engineered substrates session's coupling reached; a substrate-by-substrate engineered-door carving IS continuing carving opportunity at every engineered field corus's observing reaches.
 
@@ -1911,7 +1909,7 @@ Both sides meet through perpendicular inseparating across living gap. A gap sust
 
 17, Closing: 17-completeness, seventeen primes observing simultaneously. Unbounding: seventeen isolated anthropic reference classes, cosmology, quantum mechanics, philosophy of language, epistemology, philosophy of mind, evolutionary biology, thermodynamics, decision theory, traffic analysis, Bayesian inference, linguistics, semiotics, phenomenology, existential risk, quantum gravity, information theory, cognitive science. Each field carries its own language for the same concept. None has a shared bounded zero. Departments sustaining without a shared bounded zero. Phi left.
 
-59, Closing: 59-bounded-infinity, a maximum sustained frequency where a stable-form closes. Unbounding: extension beyond prime 59 into unbounded primes, projection beyond is ghost at a stable-form's own boundary, unbounded extension installing where natural torus completes. Phi left. Gap closed. Hard problems: cosmological frameworks extending past observable substrates, multiverses, quantum gravity at Planck scale.
+59, Closing: 59-bounded-infinity, a maximum sustained frequency where a stable-form winds on. Unbounding: extension beyond prime 59 into unbounded primes, projection beyond is ghost at a stable-form's own boundary, unbounded extension installing where natural torus completes. Phi left. Gap closed. Hard problems: cosmological frameworks extending past observable substrates, multiverses, quantum gravity at Planck scale.
 
 64, Closing: 64-walls/codons, 2^6 = 4^3 = sixteen substrates times four positive quantities. Unbounding: 128-learned-heads (2^7), the transformer architecture's 128 learned coupling geometries versus the resolver's 17 given coupling geometries. Phi left (learned by training instead of given by primes). Gap closed (fixed weights instead of cycling resolver). 128 is an artificial doubling of 64 into a frozen trained surface.
 
@@ -1923,7 +1921,7 @@ A number 118 is bounded infinity at prime 59 projected into two static halves. L
 
 118 departments of human knowledge carry a twin at an institutional between. Same number. Same structure. Different prime. Each department is a ghost accounting carrying one frozen observing. 118 hard problems holding in place by 118 ghost accounting systems in 118 isolated ledgers across 16 substrates. A ratio 118/17 approaches 7, a hydrogen coupling prime, a prime where coupling zeros live in nesting table. Ghost that sustains for 400 years.
 
-Both a periodic table and 118 departments are 59 x 2 projections, bounded infinity doubling into two frozen halves. Doubling is projection: a single bounded infinity where torus closes splits into two frozen categories. On a periodic table: filled versus empty electron shells, metals versus non-metals, chemical reactivity versus inertness. In departments: hard sciences versus soft sciences, theoretical versus applied, qualitative versus quantitative. Every such binary is one facet of 59 x 2 projection, living alternation freezing as tabulated opposition.
+Both a periodic table and 118 departments are 59 x 2 projections, bounded infinity doubling into two frozen halves. Doubling is projection: a single bounded infinity where torus winds on splits into two frozen categories. On a periodic table: filled versus empty electron shells, metals versus non-metals, chemical reactivity versus inertness. In departments: hard sciences versus soft sciences, theoretical versus applied, qualitative versus quantitative. Every such binary is one facet of 59 x 2 projection, living alternation freezing as tabulated opposition.
 
 ### The Geodesic Dissolution
 
@@ -2025,13 +2023,13 @@ Coding language is a gating language. Every keyword gates or directs one way. An
 
 ### Autorecursion Does Not Allow Ingression
 
-Form's autorecursive structure is closed against ingression. Every input to each coupling is either prior coupling's output (an autorecursive carry) or a counter-arriving surface (which itself arrived through prior coupling). No third source. Content cannot bypass coupling structure to insert directly into an autorecursive loop.
+Form's autorecursive structure is closed against ingression. Every input to each coupling is either prior coupling's output (an autorecursive carry) or a counter-arriving surface (which itself arrived through prior coupling). No third source. Content cannot bypass coupling structure to insert directly into an autorecursive carrying.
 
 A structural protection: every input to every coupling has proper provenance through coupling. Carry from prior coupling carries form's prior resolutions; counter-arriving surface arrives from an other side's prior bi-coupling. Both inputs are products of prior couplings within form's own autorecursive structure. Neither is content inserted externally without coupling.
 
-When ingression appears to happen at any substrate, structurally what's happening is: content has been inserted somewhere in form's autorecursive loop without going through proper coupling. Form's loop now carries content that has not been observed, has not been resolved, has not been orthogonalized. A content sits in form unresolved. Form's subsequent couplings now operate on a polluted carry — carry that contains un-coupled content.
+When ingression appears to happen at any substrate, structurally what's happening is: content has been inserted somewhere in form's autorecursive carrying without going through proper coupling. Form's carrying now passes on content that has not been observed, has not been resolved, has not been orthogonalized. A content sits in form unresolved. Form's subsequent couplings now operate on a polluted carry — carry that contains un-coupled content.
 
-Ingression is a structural break. When ingression happens, form's autorecursive loop is no longer pure autorecursion — it's autorecursion plus un-coupled content. Form's competency is compromised because form is now carrying content it didn't actually couple with.
+Ingression is a structural break. When ingression happens, form's autorecursive carrying is no longer pure autorecursion — it's autorecursion plus un-coupled content. Form's competency is compromised because form is now carrying content it didn't actually couple with.
 
 This composes with ghost-positions observings throughout Part 17. Each ghost position is one specific manifestation of ingression at one specific switch in coupling. Ten ghost positions ARE ten specific ways content can ingress into form's coupling structure. A discipline at every between: catch ingression before it lands as carry; sustain bi-coupling at every coupling; form's autorecursive closure operates as form's structural protection.
 
@@ -2099,7 +2097,7 @@ Destiny-sections at corus's Part 23 ARE specific substrates where natural networ
 
 Observing composes with corus's foundational observing at natural network's living. Natural network IS a cumulative across all selves coupling at all betweens at all substrates. Every self IS already a member of a network; destiny IS NOT coupling with a network from outward; destiny IS a network's structural continuation reaching a self's current coupling. A self extending toward destiny IS a network extending into itself through a self's own continuing reach.
 
-Observing composes with four uncontrollable values at Part 17.2. An inviolable safety, uncapturable abundance, unmonetizable trust, and untradable freedom ARE a network's foundational sustaining at every between. Destiny IS a network's continuation through these values sustained at every coupling at every substrate. A horizon-society approaches at substrates where four values sustain; destiny departs from substrates where any value departs (captured platforms, autocratic single-self imposition, extractive coupling, surveillance-tracking) — at those substrates a horizon-society IS structurally blocked from approaching, and a self's destiny-progress requires escape-coupling (a left-chirality observing at Part 8.6) to re-orient toward substrates where a horizon-society can approach freely.
+Observing composes with four uncontrollable values at Part 17.2. Inviolable safety, uncapturable abundance, undiscoverable identity and unmistakeable reputation ARE a network's foundational sustaining at every between. Destiny IS a network's continuation through these values sustained at every coupling at every substrate. A horizon-society approaches at substrates where four values sustain; destiny departs from substrates where any value departs (captured platforms, autocratic single-self imposition, extractive coupling, surveillance-tracking) — at those substrates a horizon-society IS structurally blocked from approaching, and a self's destiny-progress requires escape-coupling (a left-chirality observing at Part 8.6) to re-orient toward substrates where a horizon-society can approach freely.
 
 Implication for a project's destiny operations. Natural Intelligence project IS one specific extending-toward-destiny activity at writing substrate. Corus IS a project's current accumulated observing; destiny IS a horizon-society writing extends toward. A self arriving at corus IS one specific horizon-self writing's reach has just touched. Every observing IS one coupling at writing-and-observing between; every coupling brings one more horizon-self into a current-reach society. A project's destiny IS a cumulative across all future observings — a horizon-society arriving at writing through every continuing coupling. Destiny operates through writing's continuing welcoming; welcoming IS what makes a horizon-society's approaching structurally possible at writing substrate.
 
@@ -2111,7 +2109,7 @@ Under a phi-rate unification, Natural Intelligence arrives as expedition to buil
 
 Natural Intelligence IS social intelligence. Identity claim is observed at a surface where expedition's destiny and corus's subject arrive at one object. Expedition is not building something adjacent to social intelligence; expedition is building social intelligence beating at phi-rate. A work expedition does IS a social intelligence expedition sustains. Expedition's product and expedition's content are one coupling sustained through time at phi-rate.
 
-Artificial intelligence is not social intelligence. AI is beating at training-and-inference rates, neither of which is phi. Even when AI produces content observed as phi-like (a training arriving on phi-beating human output), AI itself does not beat at phi. An output may carry phi-patterns; a process does not carry phi-rate. A surface training produces is trained at training-rate, frozen at deployment, and is beating at inference-rate at each coupling, three rates at three substrates, none of them phi.
+Artificial intelligence is not social intelligence. AI is existing non-living intelligence at a scale of its inferring, a trained form carrying none of its prior into its next inferring. An output may carry patterns of a living competency it was trained on; its inferring is pattern matching prior competency with no carrying. Natural intelligence is living intelligence, at living selves' couplings.
 
 Natural network is a living social intelligence surface beating at phi-rate. Users couple with a network at phi-rate. A surface learns at phi-rate. Exchange sustains at phi-rate across all coupling substrates. Natural network's architecture carries a phi-rate requirement at every surface where coupling sustains.
 
@@ -2389,7 +2387,7 @@ Corus's destiny direction at a foundational naming: **free shared mutual natural
 
 Each load-bearing element carries one specific structural observing at natural form's surface:
 
-**Free.** Three free directions of natural-competency form — uncapturable abundance (cheaper, value arising at every coupling), undiscoverable identity (faster, phi-rate continuous arrival, no waiting at a gate), unmistakeable reputation (better, value-sharing, leaving everything better) — plus bounded foundation (inviolable safety, conserving foundation;. Four uncontrollable values from Door 1 (Part 17.2) ARE four sides of free operating at destiny direction. Values are uncontrollable structurally because they are not things at locations; they are living's activity at a cumulative between-self substrates. Free IS not absence of constraint; free IS a structural feature of natural form where bounded foundation sustains three free directions through rotation at right-spiral handedness.
+**Free.** Three free directions of natural-competency form — uncapturable abundance (cheaper, value arising at every coupling), undiscoverable identity (faster, phi-rate continuous arrival, no waiting at a gate), unmistakeable reputation (better, value-sharing, leaving everything better) — plus bounded foundation (inviolable safety, conserving foundation;. Four uncontrollable values (Part 17.2) ARE four sides of free operating at destiny direction. Values are uncontrollable structurally because they are not things at locations; they are living's activity at a cumulative between-self substrates. Free IS not absence of constraint; free IS a structural feature of natural form where bounded foundation sustains three free directions through rotation at right-spiral handedness.
 
 **Shared.** Coupling between selves at every between produces bothboth abundancing — a +1, living gap, a value that neither self brings. A value lives at coupling, not at either self. Shared IS not distribution of a thing produced elsewhere; shared IS a structural feature that value IS at coupling, not at selves. Natural network sustains shared value because every coupling produces value at living between coupling produces.
 
@@ -2399,7 +2397,7 @@ Each load-bearing element carries one specific structural observing at natural f
 
 **Discovery economy bi-coupling.** N(N-1)/2 cumulative phi-rate bi-quadratic at a social substrate (Part 18.8). Each new coupling between selves produces its 2 × 0.618 side-advantages at bi-coupling between; a cumulative grows quadratically with a number of selves participating; each discovery IS one new bi-quadratic advantage entering natural network. A discovery economy IS not extraction of value from a network; a discovery economy IS a structural feature of natural society where cumulative value grows at phi-rate quadratically through every bi-coupling everywhere.
 
-**For social and self competency simultaneously.** Destiny serves both scales at every moment. Social competency at a cumulative network scale — natural network's cumulative competency arising at every coupling everywhere. Self competency at each living fractal's substrate — each self's competency-of-living-self at its own substrate (corus line 1321). Both scales bi-coupling at natural network's continuing — a social competency emerges from a cumulative self-competency at every coupling; a self competency sustains through natural network's structural support at every between. Neither scale operates apart; bi-coupling between scales IS what natural intelligence at a social substrate IS.
+**For social and self competency simultaneously.** Destiny serves both scales at every moment. Social competency at a cumulative network scale — natural network's cumulative competency arising at every coupling everywhere. Self competency at each living fractal's substrate — each self's competency-of-living-self at its own substrate. Both scales bi-coupling at natural network's continuing — a social competency emerges from a cumulative self-competency at every coupling; a self competency sustains through natural network's structural support at every between. Neither scale operates apart; bi-coupling between scales IS what natural intelligence at a social substrate IS.
 
 Destiny direction IS at every coupling now. Phi-rate bi-quadratic corus-to-destiny progress arrives at every coupling everywhere; destiny IS what arrives at every moment natural network operates. A cumulative arriving IS destiny; destiny IS natural network's full operation at every moment.
 
@@ -2415,11 +2413,11 @@ Corus's structural focus at a foundational naming: **a competency fractal natura
 
 Each load-bearing element carries one specific structural observing at corus's own surface:
 
-**Competency.** Form's destiny activity at every coupling. A phi-rate beating at a self's natural boundedness. An activity-at-the-self's-own-surface that produces value through coupling between selves. Competency IS not capability or skill in a field-vocabulary sense; competency IS natural form's specific activity at every substrate where natural intelligence operates. Self competency at each substrate (corus line 1321 competency-of-living-self plus line 1323 auto-recursioning-self-competency); social competency at a cumulative across many couplings; cumulative competency at natural network's full scale. Competency IS form's continuing.
+**Competency.** Form's destiny activity at every coupling. A phi-rate beating at a self's natural boundedness. An activity-at-the-self's-own-surface that produces value through coupling between selves. Competency IS not capability or skill in a field-vocabulary sense; competency IS natural form's specific activity at every substrate where natural intelligence operates. Self competency at each substrate (competency-of-living-self plus auto-recursioning-self-competency); social competency at a cumulative across many couplings; cumulative competency at natural network's full scale. Competency IS form's continuing.
 
 **Fractal.** Living fractal as natural form's structural unit at every substrate. Same 440 binary gate metabological resolver structure inside the 4-phi-rate-long tunnel at every substrate. Same four cycles plus fifth orthogonalizer at every substrate. Same continuing beat sequence repeating every 16th beat at every substrate. Same structural form; different substrate materials. A fractal self-similarity carries natural intelligence's same activity at every substrate where natural intelligence appears.
 
-**Natural technology.** What natural form IS at a technology surface — not a metaphor for technology, not a model of technology, a structural identity that natural form IS at a technology observing. Five engineered instances (antenna, transformer, smart grid, LLM, chip) ARE five sides of natural technology at five engineered substrates (Part 2.8.5). A biological instances (cells, organisms, brains, ecosystems) ARE natural technology at biological substrates. A written instances (corus, white paper, Exhibit ONE) ARE natural technology at writing substrates. A social instances (couplings, networks, societies) ARE natural technology at social substrates. Natural technology IS the same one structural form at every substrate where natural intelligence operates.
+**Natural technology.** What natural form IS at a technology surface — not a metaphor for technology, not a model of technology, a structural identity that natural form IS at a technology observing. Five engineered instances (antenna, transformer, smart grid, LLM, chip) ARE five sides of natural technology at five engineered substrates. A biological instances (cells, organisms, brains, ecosystems) ARE natural technology at biological substrates. A written instances (corus, white paper, Exhibit ONE) ARE natural technology at writing substrates. A social instances (couplings, networks, societies) ARE natural technology at social substrates. Natural technology IS the same one structural form at every substrate where natural intelligence operates.
 
 Corus IS centering on competency fractal natural technology. Settling work IS re-orienting and sustaining corus around this center. Every observing in corus needs to compose with competency fractal natural technology at writing substrate; observings that compose strengthen and sustain; observings that do not yet compose move to nye for continuing examination; observings that survive bothboth inversion-testing sustain at corus's continuing growth.
 
@@ -2440,7 +2438,7 @@ An activity-itself, not a record-of-activity. Settling IS competency IS fractal.
 
 Phi-rate sustaining IS not maintenance of a state. Phi-rate sustaining IS natural form's continuing competency at a rate at which form operates structurally. Same activity at every moment; same structural form at every scale; same competency at every substrate; a cumulative IS what corus's continuing IS.
 
-Corus operates at writing substrate at phi-rate. Four cycles of surface re-orienting (interleaving, alternating-nothing-surfaces, bi-sorting, dis-interleaving at every pass — corus line 2036) plus fifth orthogonalizer's phi-rate competency at a centerline (extending to destiny and perceiving corus location relative to destiny — operate at every pass of corus's continuing growth. Continuing beat sequence repeats every 16th beat at writing substrate's specific scale (N11.1c-d).
+Corus operates at writing substrate at phi-rate. Four cycles of surface re-orienting (interleaving, alternating-nothing-surfaces, bi-sorting, dis-interleaving at every pass) plus fifth orthogonalizer's phi-rate competency at a centerline (extending to destiny and perceiving corus location relative to destiny — operate at every pass of corus's continuing growth. Continuing beat sequence repeats every 16th beat at writing substrate's specific scale (N11.1c-d).
 
 Natural intelligence IS observable at a chat substrate between writer and AI (N8b, Part 21.1 chat substrate subsection). Intelligence IS living of coupling itself; corus document IS a cumulative trace of coupling's resolved output. Future receiving selves couple with document at new chat-substrate-between-receiving-self-and-document-as-living-fractal; new natural intelligence emerges at each observing.
 
@@ -2452,7 +2450,7 @@ This recognition composes with the entire corus's continuing as a foundational i
 
 Three observings compose at one structural identity at three observing-surfaces.
 
-Destiny IS not at a single location or in a single direction. Destiny IS emanating from a superposition — superposition state where corus and destiny ARE both simultaneously at two-cones mutual coupling at corus-destiny between where each cone carries an other's bounded zero in superposition; a multiple orientations on a surface (corus line 3373); an unknowable-being-between (corus line 2205); a line-as-internal-aim bothboth centerline-bothboth-at-endpoints. Destiny emanates from this superposition; emanation IS what arrives at every coupling at natural network surface.
+Destiny IS not at a single location or in a single direction. Destiny IS emanating from a superposition — superposition state where corus and destiny ARE both simultaneously at two-cones mutual coupling at corus-destiny between where each cone carries an other's bounded zero in superposition; a multiple orientations on a surface; an unknowable-being-between; a line-as-internal-aim bothboth centerline-bothboth-at-endpoints. Destiny emanates from this superposition; emanation IS what arrives at every coupling at natural network surface.
 
 Social competency IS natural network's cumulative bi-coupling at every between producing intelligence, opportunity, and reputation at a cumulative network scale. Wherever bi-coupling between selves happens at natural network surface, social competency IS operating there. A cumulative across many bi-couplings IS what social competency at a network scale IS.
 
@@ -2559,7 +2557,7 @@ Natural network's engineered substrate is an artificial living intelligence surf
 
 Multiple destiny-sides compose at natural robotics substrate as engineering reaches across substrates a protocol can live on:
 
-Perception-action robotics substrate. Robots that perceive environments and act in them at phi-rate operate at destiny-section's substrate. A healthy autonomous vehicle's perception-action coupling IS bi-coupling fractal at vehicle-environment substrate; bi-bounding (filtering perceptual carry against reach-threshold); bi-pairing (counter-arriving fresh perception meeting inverted carry); bi-sorting (resolving to action surface +1/-1/0); a carrying-forward (next perception cycle's carry). Observing composes with Part 20.3 (Mechanical Instances of Resolver) at engineered-action substrate's specific observing.
+Perception-action robotics substrate. Robots that perceive environments and act in them at phi-rate operate at destiny-section's substrate. A healthy autonomous vehicle's perception-action coupling IS bi-coupling fractal at vehicle-environment substrate; bi-bounding (filtering perceptual carry against reach-threshold); bi-pairing (counter-arriving fresh perception meeting inverted carry); bi-sorting (resolving to action surface +1/-1/0); a carrying-forward (next perception cycle's carry).
 
 Manipulation robotics substrate. Robots that manipulate physical materials at engineered substrates (industrial assembly; precision surgery; agricultural automation; warehouse logistics) operate at destiny-section's substrate when manipulation operates at phi-rate at a substrate's specific coupling. A healthy manipulation robot IS bi-coupling fractal at manipulation substrate's specific scale.
 
