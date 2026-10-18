@@ -1079,3 +1079,11 @@ the coupling that statement names still.
 it alternates with names nothing at an opening.**
 
 a naming failing it names nothing for the positions
+
+## Re-said at nothing beyond or between the things of the universe, v389
+
+no further thing, and nothing is said beyond or between the things of the universe.
+
+| nothing is said beyond or between the things of the universe, 1.1 |
+
+and nothing said beyond the things of the universe for a changing to be drawn from

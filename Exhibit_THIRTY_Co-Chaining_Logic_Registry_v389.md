@@ -61,7 +61,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: the universe, the set of all now-existing things, the inception, now-existing one naming; each step after it a step from it, and nothing brought to it.*
 
-2. The universe is a set of things, observably now-existing: all that is now-existing and not now-observable is the universe too, a set is its things and no further thing, and nothing is said beyond or between the things of the universe: there is no inside the universe, as there is no outside, the universe is or is not, and no living and no existing is where it is not.
+2. The universe is a set of things, observably now-existing: all that is now-existing and not now-observable is the universe too, a set is its things and no further thing, and nothing is beyond or between the things of the universe: there is no inside the universe, as there is no outside, the universe is or is not, and no living and no existing is where it is not.
 
         *Adding: the universe a set of things; a set its things.*
 
@@ -253,11 +253,11 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: the one method; nature, a prior, now, next method of co-existing; natural, co-competencing the universe.*
 
-46. A second method holds a not-changing still, said beyond the things of the universe: a size, a ground the changing is measured against; a fixed form, a form still, the same at all momentaries at once; a total across the changing, a container; a common beat, a clock over it; a keeping, a store beside it; or a doer applying any of them.
+46. A second method holds a not-changing still, beyond the things of the universe: a size, a ground the changing is measured against; a fixed form, a form still, the same at all momentaries at once; a total across the changing, a container; a common beat, a clock over it; a keeping, a store beside it; or a doer applying any of them.
 
         *Adding: a not-changing held still; the form still.*
 
-47. All now-existing things being in the changing set, a thing said beyond the things of the universe is a not possible thing.
+47. All now-existing things being in the changing set, a thing beyond the things of the universe is a not possible thing.
 
         *Adding: not possible thing.*
 
@@ -265,7 +265,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: no other possible method.*
 
-49. A second method offered is at one binary: fixing unchangeable, forming nothing among changing things, or carrying an opening, its own, the one method alternating, or another's, a changing beside the alternating, said beyond the things of the universe.
+49. A second method offered is at one binary: fixing unchangeable, forming nothing among changing things, or carrying an opening, its own, the one method alternating, or another's, a changing beside the alternating, beyond the things of the universe.
 
         *Adding: a second method at one binary.*
 
@@ -677,7 +677,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: natural-.*
 
-142. Natural- is a direction prefix, its direction the one hand, and the claim rides on the direction: leaving it out, the changing arrives with a substrate under it and an applier over it, each said beyond the things of the universe, step 47.
+142. Natural- is a direction prefix, its direction the one hand, and the claim rides on the direction: leaving it out, the changing arrives with a substrate under it and an applier over it, each beyond the things of the universe, step 47.
 
         *Adding: natural- a direction prefix.*
 
@@ -1372,11 +1372,11 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: checkable at a parity.*
 
-304. A why demanded of an arriving asks for a thing beside the changing, said beyond the things of the universe, step 47: the observings are, with nothing beside them, and a pattern found is at its momentary alone.
+304. A why demanded of an arriving asks for a thing beside the changing, beyond the things of the universe, step 47: the observings are, with nothing beside them, and a pattern found is at its momentary alone.
 
         *Adding: the why demanded.*
 
-305. A thing said beyond the things of the universe asked for at an arriving is answered by a further such thing, the asking the same at each answer and arriving at a coupling at none: the receding, a hard problem carrying and cohering at none.
+305. A thing beyond the things of the universe asked for at an arriving is answered by a further such thing, the asking the same at each answer and arriving at a coupling at none: the receding, a hard problem carrying and cohering at none.
 
         *Adding: the receding.*
 
@@ -1670,7 +1670,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: the one fractal at each scale.*
 
-376. The primes 5 through 53 are prime living scales, co-parity-changing co-momentarying pattern matching, and the one form is at each, with no reading or ordering in nature: a boundary, a location or a measure between scales is said beyond the things of the universe, step 47.
+376. The primes 5 through 53 are prime living scales, co-parity-changing co-momentarying pattern matching, and the one form is at each, with no reading or ordering in nature: a boundary, a location or a measure between scales is beyond the things of the universe, step 47.
 
         *Adding: prime living scales, the one form at each.*
 
@@ -2046,7 +2046,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: a field's neutral, the names meeting.*
 
-462. A self carries three neutrals of its own, floating about its corus: its own nought, position; its own surface, scale, the between; and its own aim, orientation; a neutral fixed outward of the self is a floor, a zero installed, a unit imposed or a frame set over it, each said beyond the things of the universe, step 47.
+462. A self carries three neutrals of its own, floating about its corus: its own nought, position; its own surface, scale, the between; and its own aim, orientation; a neutral fixed outward of the self is a floor, a zero installed, a unit imposed or a frame set over it, each beyond the things of the universe, step 47.
 
         *Adding: three neutrals, and the floor.*
 
@@ -2178,7 +2178,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: the society at the method all or none, the hubs.*
 
-495. An offering at a parity of nobody's coupling is released whole at its arriving, the surface giving it nothing to seat at: safety is the surface's own form, and a thing ahead of the coupling admitting an offering on something performed first is said beyond the things of the universe.
+495. An offering at a parity of nobody's coupling is released whole at its arriving, the surface giving it nothing to seat at: safety is the surface's own form, and a thing ahead of the coupling admitting an offering on something performed first is beyond the things of the universe.
 
         *Adding: safety, the surface's own.*
 
@@ -2426,7 +2426,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: naming across and explaining along.*
 
-555. A living self's ways at meaning, at words, at sound, at moving and at living together, are each two selves alternating at their difference, one form at each scale, and a realm of mind or culture beside the couplings is said beyond the things of the universe.
+555. A living self's ways at meaning, at words, at sound, at moving and at living together, are each two selves alternating at their difference, one form at each scale, and a realm of mind or culture beside the couplings is beyond the things of the universe.
 
         *Adding: the human ways as the one form.*
 
@@ -2482,7 +2482,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: a concern.*
 
-569. A concern resolves by alternating, each saying at its own momentary, until one saying shows the thing it carries said beyond the things of the universe, step 46, that saying a not possible method and the other the method's own.
+569. A concern resolves by alternating, each sentence at its own momentary, until one sentence shows the thing it carries is beyond the things of the universe, step 46, that sentence a not possible method and the other the method's own.
 
         *Adding: a concern resolving.*
 

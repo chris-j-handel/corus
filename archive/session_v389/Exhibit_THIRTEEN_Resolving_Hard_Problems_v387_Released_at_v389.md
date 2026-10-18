@@ -177,3 +177,7 @@ part at one naming**: the fixings named unchanged, or changing
 ## Re-said at no doer saying, calling or naming, v389
 
 **The parting is at the momentary and the scale the field names**
+
+## Re-said at nothing beyond or between the things of the universe, v389
+
+and nothing is said beyond or between its things.

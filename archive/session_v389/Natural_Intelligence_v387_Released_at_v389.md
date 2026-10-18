@@ -691,3 +691,17 @@ a count of the selves names a count.
 and *non-living* names a scale outward
 
 adult names the developing and no later opening
+
+## Re-said at nothing beyond or between the things of the universe, v389
+
+and nothing is said beyond or between the things of the universe.
+
+would each be said beyond the things of the universe, and nothing is.
+
+a ground the size is measured against, a not possible thing, said beyond the things of the universe.
+
+Any other method carries a not possible thing, said beyond the things of the universe,
+
+Each is a form said beyond the things of the universe, a not possible thing,
+
+A why demanded asks for a not possible thing, said beyond the things of the universe, 1.1:
