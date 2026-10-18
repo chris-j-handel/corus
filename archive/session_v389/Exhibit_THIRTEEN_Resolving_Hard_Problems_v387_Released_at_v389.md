@@ -173,3 +173,7 @@ Living and non-living part at a named scale and momentary, and a self is a socie
 a law, a frame and a scale named unchanged between two momentaries
 
 part at one naming**: the fixings named unchanged, or changing
+
+## Re-said at no doer saying, calling or naming, v389
+
+**The parting is at the momentary and the scale the field names**

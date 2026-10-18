@@ -81,3 +81,15 @@ carries one way across the named surface**
 It carries the named form and leaves the adjacent pairings
 
 one hundred twenty named in the parts above
+
+## Re-said at no doer saying, calling or naming, v389
+
+and a name given it says whose self it opens from
+
+**A prime at a field says its subject**
+
+A ring names a domain closed and the numbers' podaling ring
+
+Each use names its scale:
+
+**Bi-tunneling names social moral competency at its across relation; co-chaining names the same continuing at its along relation.

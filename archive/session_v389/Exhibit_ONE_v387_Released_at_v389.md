@@ -334,3 +334,13 @@ At one sharing the resolver reads + and − alike:
 is a gap, both its sides named, and 17-next-now
 
 **One cell, the offerings unnamed.**
+
+## Re-said at no doer saying, calling or naming, v389
+
+The number says its place and its parity, odd existing and even possibling; *now* says the self's span,
+
+*co* says a name at a sharing between two
+
+to the self 5 names |
+
+the cell names none of which offerings arrived

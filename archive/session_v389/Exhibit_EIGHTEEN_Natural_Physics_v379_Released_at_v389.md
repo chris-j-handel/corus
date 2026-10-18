@@ -277,3 +277,63 @@ as geography and named an equator
 ## 5.7 Accounting at the largest scale, and a mass band named empty
 
 **The error named at 2.5 carries all four
+
+## Re-said at no doer saying, calling or naming, v389
+
+- 2.7 A force re-said as the coupling's own turning
+
+## 2.7 A force re-said as the coupling's own turning
+
+before either is said of them.
+
+with each relation said or still to be said.
+
+is a correspondence said at its relation
+
+is to be said at its relation
+
+Each particular case is said at its section
+
+including the ones the field calls the hard part.
+
+— said at Chemistry and at Numbers, one coupling
+
+the riding-the-carry said in the field's own terms
+
+An object is a place a counting landed says the form at the object membrane.
+
+so the theorem says: hold a term still
+
+with one thing that must not be said.**
+
+Thing that must not be said: the arrow
+
+before anything general is said;
+
+which is where the form says the living is,
+
+a high-resolution structure said to carry no visible particles
+
+with an internal density says nothing of which kind
+
+**Three observings, said plainly.**
+
+this same resolution said the older way
+
+open to be re-said in the body's own flow
+
+*Physical* names the subjects the field observes
+
+and *physical* names neither:
+
+the one opening 1.1 names,
+
+at the recursionings names two relations
+
+None names a real activity of the form; each names a coupling taken as a force
+
+which the white paper already names this way:
+
+which is precisely the clock the time-axis reaching names:
+
+(the three technology inversions the measurement-resolving craft names)

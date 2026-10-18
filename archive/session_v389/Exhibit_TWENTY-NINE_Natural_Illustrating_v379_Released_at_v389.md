@@ -231,3 +231,77 @@ and a first named behind it.
 and kept-or-lost named the passing as a standing while
 
 and a beat named over them a term no coupling made
+
+## Re-said at no doer saying, calling or naming, v389
+
+is said as Exhibit ONE's face at each place it is meant
+
+is said as the drawing's at each place it is meant
+
+Its 2.3 says the field's rotation is the spiral with its nexts removed, its forms laid at one frame, and its 3.1 that an involution
+
+Natural Intelligence 3.3 says the method bounds and the living carry
+
+A drawing says it at its first face, or it installs a place.
+
+the correspondence of the two is said at a file's sentence
+
+the Equilibria Registry 1.3 says the same, the between
+
+and no file says their correspondence yet
+
+as the Equilibria Registry 3.4 says of an even spiral joined along
+
+and the field says a turn;
+
+Exhibit ONE's table says each name's from and to:
+
+Natural Intelligence 3.2 says the rotation is the gentle
+
+each saying the other's parity
+
+archived, said no link joins the box's quarter turn
+
+each of the ten door lines saying is,
+
+Natural Physics 3.1 names sixty a position the going and the returning carry, Natural Numbers 7.1 names sixty between the going and the returning at no prime, and Natural Chemistry 4.4 says no element carries at sixty:
+
+the capture called consensus
+
+and the Equilibria Registry 5.1 says the one resolving at all ten:
+
+the familiar picture, the file's saying, and
+
+closure re-said as winding on
+
+no store and no solver is said;
+
+and the drawing says its positions are the field's arrangement
+
+Natural Engineering says what that establishes and what it does not:
+
+with this file's sayings.
+
+the kit's README says each file's meaning
+
+**No face names the odd side and the even side as changing at one momentary.**
+
+A still drawing names a stable form while
+
+own: a drawing names no rate of the living.
+
+**A drawing names no position as a place.**
+
+a numerical speed ratio names a rate the drawing does not
+
+whose edges Natural Intelligence 3.2 names across at the bi-morality and along at the co-competency.
+
+Natural Intelligence 4.11 names bi-inversioning-co-recursioning one move at three faces, 8 up, 17 less and 9 less, and 2.4 the right spiral step
+
+Natural Mathematics 7.1 names the cube's eight corners the eight forms
+
+The file names the doubled angle a still picture at the observings
+
+the ladder names particular scales and supplies
+
+and the drawing names no rate of the living.

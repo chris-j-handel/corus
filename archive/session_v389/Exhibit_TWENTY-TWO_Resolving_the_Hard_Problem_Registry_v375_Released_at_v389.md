@@ -2359,3 +2359,165 @@ them was named for three
 and a level named to govern is
 
 one beat named over them
+
+## Re-said at no doer saying, calling or naming, v389
+
+**The one saying, at each hard problem this file has reached.**
+
+this is the file's whole purpose, said before the boxes
+
+A Reach line saying the-two-are-the-same is
+
+no-other-possible at the one saying, and nothing of it is re-said or argued again here
+
+and the parting says which.
+
+## Any perplexity
+
+— said where the method is explained and standing
+
+*+ or − at 10, is.*, says so.
+
+the founding lecture calls the usefulness something bordering
+
+calls for prompt formation and rapid growth
+
+and its journal saying it is no longer useful
+
+owing a reason for the thing it calls altogether inconceivable,
+
+coming very close to saying the projectible predicates are the ones
+
+entrenchment says the running truly
+
+a single effect size for far transfer called misguided
+
+the problem since called formulated incorrectly
+
+which the field's own extending says.
+
+which the fourth account already says.
+
+which is the critique said forward
+
+the search for a core function called as elusive as
+
+beyond its role, its own defenders saying so;
+
+offered as an equivalent called a change of fundamental subject
+
+the two part, the parting says which.
+
+the screening finds the screening's findings, its authors saying so,
+
+so parities can be said to couple
+
+the field's own equation says so by carrying no clock
+
+its own statement says only that it forks
+
+the naming called the assumption.
+
+undetectable in principle, its own defenders saying so:
+
+ordered by no self said as a theorem
+
+the field saying both in its own literature
+
+the movers' own critics saying so
+
+stands undisputed within the field, saying exactly this:
+
+inferred at the population, the field saying so,
+
+as the structure and agency beside it already says.
+
+its own proponents saying its development requires
+
+at the joint measurement only, the field saying so:
+
+their builder saying so;
+
+the impossibility of saying how many languages
+
+as the nosology beside it already says.
+
+which is the reach line saying the same on both sides
+
+where a reach line says the-two-are-the-same
+
+structure taken as constitutive names the coupling
+
+symbiosis names the both
+
+the first the paradox names arriving
+
+A warrant over the unarrived names arrivings
+
+by a later finding names one coupling under another
+
+under any regime names a next that each use seats fresh
+
+which the third outcome, undecidability least desirable, names as the composing that might not close
+
+a store fixing each continuation names the carrying as a thing
+
+the invisibility and names it an emptiness
+
+owned by one channel names a coupling's making as a content
+
+**The word crosses at other parts too and names a different tip each time**
+
+the couplings the ledger names still
+
+with all else held names still exactly
+
+pattern-matched off a sample names the population to its instrument
+
+as one magnitude names a floating of no size to a number
+
+fixed over the whole of physics names one beat over runnings
+
+at exactly the epoch the pattern-matching names.
+
+over might-have-beens names the swaying to a stipulation
+
+by an optimum or a barrier names one point where
+
+*both operate and the question is their proportion* names the two-way as a magnitude, and *both operate and the question is their order* names it to one beat.
+
+That the ratio names an attribution invariant
+
+which the field names as the joint hypothesis and carries as its own permanent condition
+
+and the making it names still is
+
+built to make them conflict names both momentaries together
+
+from the side each account names still
+
+which is the relationship the design names still arriving
+
+which is the same wall Goodhart names and benchmarks reach.
+
+proved, the same wall Goodhart names and benchmarks reach, teams
+
+representable by observables names a coupling to its instrument
+
+what one side names parted from what the other measures
+
+A level observed as the level names a scale as a place
+
+where the expression names both.
+
+as a point in temperature names an arriving to a location
+
+fixed as a mass names the between at a size
+
+ahead of the question names a continuum of couplings to a line
+
+the probes disagree on names many couplings to one thing
+
+in gradient offering names a crossing to a line
+
+on a continuum the field names a bush.

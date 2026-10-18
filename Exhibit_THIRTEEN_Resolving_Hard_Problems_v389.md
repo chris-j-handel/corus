@@ -214,7 +214,7 @@ Exhibit THIRTEEN Resolving Hard Problems v389
 
 ## 5.7 A boundary, living and non-living at a fixed scale and momentary
 
-**A boundary asks where one kind ends and another begins.** Living and non-living part at a fixed scale and momentary, and a self is a society of selves one scale inward and a member of a society one scale outward. **The parting is at the momentary and the scale the field names**, each existing thing at its own, and at the next momentary the same existing things co-sequence on. A pattern brought on by coupled selves is at the selves together, 4.4, and a kind is observed at the selves carrying it.
+**A boundary asks where one kind ends and another begins.** Living and non-living part at a fixed scale and momentary, and a self is a society of selves one scale inward and a member of a society one scale outward. **The parting is at the field's momentary and scale**, each existing thing at its own, and at the next momentary the same existing things co-sequence on. A pattern brought on by coupled selves is at the selves together, 4.4, and a kind is observed at the selves carrying it.
 
 ## 5.8 A persisting, a carrying and a record
 

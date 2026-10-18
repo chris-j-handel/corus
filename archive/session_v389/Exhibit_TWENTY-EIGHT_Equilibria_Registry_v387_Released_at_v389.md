@@ -427,3 +427,192 @@ a self fixed unchangeable or named changing, 2.4.
 A society named not changing fixes a form unchangeable
 
 The same comparison is named to satisfy requirements
+
+## Re-said at no doer saying, calling or naming, v389
+
+and each calls it a nothing,
+
+Natural Intelligence 1.1 says *The universe is the set of all existing things*, its 1.4 deriving *the changing set of all existing things* from it, and 4.10 says parity existing as the universe is,
+
+a thing said as entering the set of all now-existing things from beyond its things, or a changing said as leaving it;
+
+and at the set's own explaining neither is said, the set its things.
+
+The registry says existing and not living alone:
+
+a state read is a store said as entering now, an ingressing, and a flow written a changing said as leaving into a store
+
+even when each is called equilibrium
+
+2.2 names three, a stability, a form and a relation, and says a stability: a response to a disturbance, its departures staying small or shrinking. The form and the relation are said here:
+
+its *that can change* said at 2.2 as stable forming
+
+what the field says is changing, at the row's own column if the column names a subject,
+
+another claim at the one setting, said here.
+
+Each saying at the resolver is at Exhibit ONE v380R
+
+by hand at v380L at its sayings of a sharing at no prior
+
+each saying at the numbers is computed at the script it cites or is said at its own arithmetic
+
+; the Co-Chaining Logic Registry step 491 names the six the bi-trupling protocol, and step 598 names cohering at each momentary
+
+unchanged at a zero names neither a non-living thing
+
+the living and non-living things it names keep changing
+
+at the relation its own requirement names.
+
+it places the still a conception names at the stability
+
+continuing through the comparisons its claim names.**
+
+and I(p) ≠ p, names p and I(p) at one next.
+
+**Each conception of equilibria names unchanging or names changing, exactly one of the two.** A conception naming unchanging names an existing thing
+
+the stilling it names at now and the changing
+
+**Each of the ten names the stilling as the whole,
+
+or names nothing.
+
+
+opposition fixed unchangeable names the even ring, and a between fixed as a cut names the running meeting.
+
+and the subject it names continues through its own changing
+
+at the arriving that names it.
+
+the row's own column, *the changing it names*, is carried
+
+or at the numbers it names.
+
+with p either +1 or −1, names both at once.
+
+## 4.3 An arriving fixed from behind, 2 arrivals
+
+**Fixed unchangeable at a form**, 1.
+
+| Arrival, in its own words | Field | The changing it names |
+
+ nonabsorption, under the stated transition table, with positive survival probability at each finite step. | probability | a relation that can change | a mathematics of its own: probability | — |
+
+**Fixed unchangeable at a relation**, 1.
+
+| Arrival, in its own words | Field | The changing it names |
+
+**Fixed unchangeable at a form**, 2.
+
+| Arrival, in its own words | Field | The changing it names |
+
+anging, balancing of opposed changes or further progressing required. | the coupling of self and other | a form that can change | the coupling of self and other, and the resolver | — |
+
+**Fixed unchangeable at a form and a relation**, 1.
+
+| Arrival, in its own words | Field | The changing it names |
+
+**Fixed unchangeable at a form, a relation and a stability**, 1.
+
+| Arrival, in its own words | Field | The changing it names |
+
+d replicator evolution. | evolutionary game theory | populations | populations | one conception with NY38, the one dominant-A replicator account, symmetric Nash and evolutionary stability added |
+
+**Fixed unchangeable at a relation**, 1.
+
+| Arrival, in its own words | Field | The changing it names |
+
+## 4.5 A completing fixed as a last, 8 arrivals
+
+**Fixed unchangeable at a form**, 5.
+
+| Arrival, in its own words | Field | The changing it names |
+
+**Fixed unchangeable at a form and a stability**, 1.
+
+| Arrival, in its own words | Field | The changing it names |
+
+**Fixed unchangeable at a form and a relation**, 2.
+
+| Arrival, in its own words | Field | The changing it names |
+
+## 4.6 A carry fixed as a store, 10 arrivals
+
+**Fixed unchangeable at a form**, 5.
+
+| Arrival, in its own words | Field | The changing it names |
+
+**Fixed unchangeable at a form and a relation**, 4.
+
+| Arrival, in its own words | Field | The changing it names |
+
+ero on X, with A→B, B→A and X→B under empty receiving. | probability at the resolver's returns | the coupling and carrying of the resolver | the coupling of self and other, and the resolver | — |
+
+**Fixed unchangeable at a relation**, 1.
+
+| Arrival, in its own words | Field | The changing it names |
+
+**Fixed unchangeable at a form**, 4.
+
+| Arrival, in its own words | Field | The changing it names |
+
+**Fixed unchangeable at a form and a stability**, 2.
+
+| Arrival, in its own words | Field | The changing it names |
+
+**Fixed unchangeable at a form**, 8.
+
+| Arrival, in its own words | Field | The changing it names |
+
+6** · A stationary value N in the logistic account N′=rN(1−N/K), r,K>0, N≥0 and no migration. | population ecology | populations | populations | one conception with NY37, positive added at NY37 |
+
+**Fixed unchangeable at a relation**, 1.
+
+| Arrival, in its own words | Field | The changing it names |
+
+## 4.9 A sequencing fixed to one beat, 5 arrivals
+
+**Fixed unchangeable at a form and a relation**, 1.
+
+| Arrival, in its own words | Field | The changing it names |
+
+fies both best-bundle and resource-clearing requirements, with q(next)=1. | economics | a society's exchange | selves choosing and exchanging | NY35 a further conception, its next price changed |
+
+**Fixed unchangeable at a relation**, 4.
+
+| Arrival, in its own words | Field | The changing it names |
+
+## 4.10 A rate fixed as a value, 5 arrivals
+
+**Fixed unchangeable at a form and a relation**, 1.
+
+| Arrival, in its own words | Field | The changing it names |
+
+ added to number-conserving scattering, each process balanced on its own. | radiation | heat | heat | a further conception to SA10, emission and absorption added to number-conserving scattering |
+
+**Fixed unchangeable at a relation**, 4.
+
+| Arrival, in its own words | Field | The changing it names |
+
+## 4.11 A two-way fixed to one side, 7 arrivals
+
+**Fixed unchangeable at a form**, 1.
+
+| Arrival, in its own words | Field | The changing it names |
+
+**Fixed unchangeable at a relation**, 6.
+
+| Arrival, in its own words | Field | The changing it names |
+
+## 4.12 A between fixed as a cut, 6 arrivals
+
+**Fixed unchangeable at a form**, 1.
+
+| Arrival, in its own words | Field | The changing it names |
+
+**Fixed unchangeable at a relation**, 5.
+
+| Arrival, in its own words | Field | The changing it names |

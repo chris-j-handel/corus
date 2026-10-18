@@ -101,3 +101,113 @@ arrives entirely at the first file named, and the tell
 its standing named at each event
 
 the prior is named into now as existing
+
+## Re-said at no doer saying, calling or naming, v389
+
+- 4.3 A file's own sayings met at the file
+
+## 4.3 A file's own sayings met at the file
+
+**A correction is said back once, with its seating section
+
+since a list saying it arrived carries nothing
+
+Made and open are said apart
+
+two candidates showing as one said twice
+
+**A concern is two sayings arriving at one sharing
+
+At 2 the sayings are offered
+
+parting, 0, the concern, said with its reason
+
+each side said at its own momentary
+
+a test running short says the test's running
+
+A shortfall a test shows is said at its seat
+
+A test not run is said *unrun* at its own record
+
+**A saying arriving from a field, a science
+
+and re-said at parity changing
+
+gathers each saying of one naming across the files
+
+and it is said beside its bringing
+
+each saying each concept once
+
+its standing said at each event
+
+a saying found at both is a carrying forward
+
+The version says the last working to change the file.
+
+each says in its share the file it is improving now
+
+carries prior sayings by arithmetic
+
+the form, its saying and its improving
+
+changes nothing and says nothing
+
+its asking is the relation said at the sentence carrying it
+
+a zero sizes the pattern and says nothing of the family
+
+A relation is said absent only after
+
+A prime claim first says the thing the prime counts
+
+**A file's saying about itself is an instrument
+
+so their signs can be said to meet
+
+a name given no expression is said plainly
+
+code check and direction said in the working
+
+the reader checks, saying the mechanical findings;
+
+in the working's own saying, and the working re-says it before the close
+
+**Each reader says what of the session its observing reached**
+
+meets each gathered saying at the question it answered: a saying corrected later
+
+compared at each saying they found
+
+observing its proposed re-saying beside its prior
+
+with its change said. The observings
+
+**Each helper's saying is no authority**
+
+two variants of one saying already coupled
+
+carried in the coupled saying
+
+rides at the file it names, its next
+
+and never at the file it names.
+
+**A version names a file at its last changing for the better.**
+
+the session's number names the session at the carrying
+
+a contradiction names the two requirements meeting
+
+does any word name a thing another word names;
+
+does the count a section's opening names match
+
+a count names the instances to meet
+
+a contents line being a prefix of the heading it names
+
+**A count names the number to meet, and the pass names the number going.**
+
+does the number an opening names match
