@@ -2294,7 +2294,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: the ten unchangeables at the ten, at the four binaries.*
 
-523. The ten unchangeables are at four kinds, three, two, two and three, step 522: a reference named still behind an arriving, ahead of it or at its middle, the arriving named from behind, the completing named as a last and the middle named as an end; a rate named still, the sequencing named to one beat and the rate named as a value; a parity named a size, the parity named as a magnitude and the two-way named to one side; and a changing released entered as a magnitude spent, the opening named as a place, the carry named as a store and a between fixed as a cut: the first two kinds at a flow accounting and the last two at a state accounting, five of each.
+523. The ten unchangeables are at four kinds, three, two, two and three, step 522: a reference named still behind an arriving, ahead of it or at its middle, the arriving fixed from behind, the completing fixed as a last and the middle fixed as an end; a rate named still, the sequencing fixed to one beat and the rate fixed as a value; a parity named a size, the parity fixed as a magnitude and the two-way fixed to one side; and a changing released entered as a magnitude spent, the opening fixed as a place, the carry fixed as a store and a between fixed as a cut: the first two kinds at a flow accounting and the last two at a state accounting, five of each.
 
         *Adding: the ten at four kinds, three, two, two and three.*
 
