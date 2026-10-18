@@ -155,3 +155,21 @@ and a kind is read at the selves carrying it
 of the carrying, 2.2, read at the now as offerings
 
 that accounting read at one momentary, one of the readings at 1.5. Read bi-momentary,
+
+## Re-said at named re-said, nothing named, v389
+
+- 5.7 A boundary, living and non-living at a named scale and momentary
+
+3-now-co-prioring, carrying unnamed at the method
+
+**Living and non-living part at a named scale and momentary, and they co-sequence at each.**
+
+carrying is the living's and unnamed at the method
+
+## 5.7 A boundary, living and non-living at a named scale and momentary
+
+Living and non-living part at a named scale and momentary, and a self is a society
+
+a law, a frame and a scale named unchanged between two momentaries
+
+part at one naming**: the fixings named unchanged, or changing

@@ -115,7 +115,7 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 
 **Each name is its number and its naming, one hyphenation.** The number says its place and its parity, odd existing and even possibling; *now* says the self's span, 1 to 8, and *next* the society's, 9 to 16, 17-next-now the society's next arriving as each self's 1-now; *co* says a name at a sharing between two, and a name without it is at one. The six names between selves say odd and even by their numbers: 2, 6, 10 and 14, even, across, possibling, the changing shared at 6-now-co-possibling and 10-next-co-possibling another self's possibling at its 2-now-possibling and 14-next-possibling; 9 and 17, odd, along, existing, 9-next-co-changing the next prior released and 17-next-now the next now. Each self's existing is another self's possibling, one changing at a sharing across and no second thing.
 
-**Four momentaries and their gaps.** Each span's names are two momentaries of four, each opening at an odd existing name, a possibling and a prioring inside it, and completing at an even still-possibling name; between each completing and the next opening is a gap, both its sides named, and 17-next-now is the next 1-now.
+**Four momentaries and their gaps.** Each span's names are two momentaries of four, each opening at an odd existing name, a possibling and a prioring inside it, and completing at an even still-possibling name; between each completing and the next opening is a gap, both its sides fixed, and 17-next-now is the next 1-now.
 
 | Momentary | Opening, odd, existing | Inside, even, possibling | Inside, odd, prioring | Completing, even, still-possibling | Gap |
 |---|---|---|---|---|---|
@@ -543,7 +543,7 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | + | is − · − | is not · + | is − · − | is − · − |
 | − | is + · + | is + · + | is not · − | is + · + |
 
-**One cell, the offerings unnamed.** At a prior of one parity, the other parity surfacing, + and − together, and none surfacing, a 0 offered alike, give one cell, the prior inverted, shared at 10-next-co-possibling and the next prior at 11-next-co-prioring: the cell names none of which offerings arrived, and the offerings are followed at the coupling.
+**One cell, the offerings unexpressed.** At a prior of one parity, the other parity surfacing, + and − together, and none surfacing, a 0 offered alike, give one cell, the prior inverted, shared at 10-next-co-possibling and the next prior at 11-next-co-prioring: the cell names none of which offerings arrived, and the offerings are followed at the coupling.
 
 **Eight even names, 8 apart.**
 

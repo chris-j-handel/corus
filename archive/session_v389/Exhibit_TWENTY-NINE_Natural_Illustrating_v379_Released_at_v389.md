@@ -187,3 +187,47 @@ an offerer named still set beside the self
 the fabric the made surface named still,
 
 carrying past each momentary into a form named still
+
+## Re-said at named re-said, nothing named, v389
+
+**A still is a form named at one momentary, and a motion is the changing.**
+
+and the two named as changing at one momentary is the equilibria picture
+
+a ring an arrangement named one scale out, Natural Numbers 8.1
+
+the same face with the four connectors named and the centre empty
+
+the two of the ten named at it drawn as one fixed unchangeable
+
+no golden triangle and no golden angle are named at the number files
+
+before the path is named geodesic
+
+Installs the map named the territory.
+
+a property named as located at one system
+
+a rate named a constant in its very name
+
+Installs a clock named over all couplings
+
+simultaneity one slicing named as the real one
+
+a closed form named ahead of the riding
+
+and a point named of a sway at a position
+
+an arriving at its own pace named a point
+
+another's named as a content to be reached from beyond
+
+an observing that arrived sharp named a place
+
+the abundancing made at a coupling named as a thing drawn from a stock
+
+and a first named behind it.
+
+and kept-or-lost named the passing as a standing while
+
+and a beat named over them a term no coupling made

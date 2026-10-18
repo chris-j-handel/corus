@@ -977,3 +977,73 @@ carries things named still of its own
 *Adding: the working's instrument, its things named still.*
 
 not cohering, it is a form named still, or it shows
+
+## Re-said at named re-said, nothing named, v389
+
+not-more-than, the exclusion named at one side.
+
+a second now named beside now, step 4
+
+a not-changing held still, a now named as its next
+
+and a self named equal at one of them
+
+is or is not, is named abundancing;
+
+16 )( 17, both its sides named, and 17-next-now
+
+a living self at 0; the still from an offerer beside; the breaks named in advance; evidence;
+
+the resolving re-fixed unchangeable; a coupling named at two of its three; a changing fixed unchangeable;
+
+308. The method's one break, step 151, is named in advance
+
+*Adding: the breaks named in advance.*
+
+the fixing at issue unnamed,
+
+318. A society at a named scale
+
+332. A changing named at the self and the other alone is a coupling named at two of its three, the coupling's own changing unnamed.
+
+*Adding: a coupling named at two of its three.*
+
+333. A coupling named at two of its three is a changing, one parity and then the other, named at one momentary
+
+back through its fixings named prior,
+
+339. A changing fixed unchangeable is named at a stable-forming
+
+self discovering next self; the self's own stable-forming, and a still named by another; the fractal unrelationing method.*
+
+364. A still named by another is an equilibrium
+
+*Adding: the self's own stable-forming, and a still named by another.*
+
+408. Named as one object, at once,
+
+the resolver of step 197 named the natural resolver,
+
+*Adding: the resolver named the natural resolver;
+
+the observings named flowing,
+
+with its fixed set named a place.
+
+a parity named a size,
+
+a concern resolving; an unsure, named at the observing it waits on; a concern arriving again;
+
+Each concept carries one name, a naming at a changing already named releasing
+
+is offered named as unsure,
+
+*Adding: an unsure, named at the observing it waits on.*
+
+A file's version is its momentary, named at a changing that is
+
+the record's edge named at its scale.
+
+and no resolver name is named at either
+
+ abundancing as the openings co-chaining; the resolver named the natural resolver; the bi-trupling protocol

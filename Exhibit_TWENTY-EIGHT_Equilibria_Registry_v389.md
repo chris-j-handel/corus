@@ -17,7 +17,7 @@ Exhibit TWENTY-EIGHT Equilibria Registry v389
 - 2.1 Equilibria, not possibly existing as a method
 - 2.2 A stability, a form or a relation, and surviving
 - 2.3 One description and one claim at each conception
-- 2.4 A participation missing, unchanging or changing named
+- 2.4 A participation missing, unchanging or changing
 
 **THREE · THE TEN, FIVE PLACES AT TWO FACES**
 
@@ -57,7 +57,7 @@ Exhibit TWENTY-EIGHT Equilibria Registry v389
 
 ## 1.1 The universe, its things, and exclusivity
 
-**The universe as one thing beside its things is exclusivity, and it is not possibly existing.** One side's momentaries alone, each number one side's, is the universe named as one thing beside its things; the universe exists as its things exist; the overlapping momentaries meet each number, one completing and the next opening.
+**The universe as one thing beside its things is exclusivity, and it is not possibly existing.** One side's momentaries alone, each number one side's, is the universe fixed as one thing beside its things; the universe exists as its things exist; the overlapping momentaries meet each number, one completing and the next opening.
 
 ## 1.2 Three conditions at each momentary, and momentaries overlapping
 
@@ -67,7 +67,7 @@ Exhibit TWENTY-EIGHT Equilibria Registry v389
 
 **Each momentary is existing's own, and each existing self is its continuing momentaries, inseparating.** The between is the protocol's centre at 1.3, and the succession is the momentaries' own.
 
-**Universes of each size and scale share momentaries of co-sequential changing**, each momentary a fractal universe discovering its next existing, and none is possibly an existing thing separately: at each scale, a universe named as an existing thing is exclusivity.
+**Universes of each size and scale share momentaries of co-sequential changing**, each momentary a fractal universe discovering its next existing, and none is possibly an existing thing separately: at each scale, a universe fixed as an existing thing is exclusivity.
 
 ## 1.3 The between, the protocol, a living nothing and an existing nothing
 
@@ -121,7 +121,7 @@ Adjacent views share four positions: at each number one side opens and the other
 
 ## 2.1 Equilibria, not possibly existing as a method
 
-**Equilibria are not possibly existing as a method, all or none at all.** **Each not possible thing has one of two named as its given, an ingressing or an escaping**: a thing said as entering the set of all now-existing things from beyond its things, or a changing said as leaving it; the two are named where hard problems and equilibria add them, a defense the equilibria demand, and at the set's own explaining neither is said, the set its things.
+**Equilibria are not possibly existing as a method, all or none at all.** **Each not possible thing has one of two fixed as its given, an ingressing or an escaping**: a thing said as entering the set of all now-existing things from beyond its things, or a changing said as leaving it; the two are fixed where hard problems and equilibria add them, a defense the equilibria demand, and at the set's own explaining neither is said, the set its things.
 
 **A hidden order in nature is equilibria understanding.** Intelligence is hidden and order is discovered, not already in nature, discovered by living selves and societies; there is no reading in nature, and there is observing of nature, nature not reading and writing the observings.
 
@@ -157,9 +157,9 @@ The equilibrium holding ends, and the living and non-living things it names keep
 
 **The ordering chain closes at the two faces.** A conception fixing an ordering p unchangeable at its next, the alternating next being I(p) and I(p) ≠ p, names p and I(p) at one next. The step the chain left open, that the ordering fixed unchangeable is the very ordering its next inverts, is the two faces at one number. Two inversions meet p again at a next momentary, a further occurrence, with the changing between.
 
-## 2.4 A participation missing, unchanging or changing named
+## 2.4 A participation missing, unchanging or changing
 
-**A still named as the complete continuing is changing.** Its continuing is renewing, inward of the claimed whole, which is changing, or outward of it, a further participant.
+**A still fixed as the complete continuing is changing.** Its continuing is renewing, inward of the claimed whole, which is changing, or outward of it, a further participant.
 
 **A conception naming a continuing and leaving out the participation that continuing carries is not possible.**
 
@@ -183,7 +183,7 @@ The equilibrium holding ends, and the living and non-living things it names keep
 
 **The ten sit at Exhibit ONE's names, at Natural Naming 4.9's one seating.** Each of the ten is one binary of a universe, its *is* and its *is not* taken as one, seated at its name at now and that name 8 up at next: the stilling it names at now and the changing travelling through it at next, bi-inversioning-co-recursioning up and down the numbers, Natural Naming 4.15. Now: an opening fixed as a place at 1-now and 9-next-co-changing, and an arriving fixed from behind at 2-now-possibling and 10-next-co-possibling. Existing: a two-way fixed to one side at 3-now-co-prioring and 11-next-co-prioring, and a sequencing fixed to one beat at 4-now-co-still-possibling and 12-next-co-still-possibling. Same: a between fixed as a cut and a middle fixed as an end at 5-now-co-changing and 13-next, and a completing fixed as a last at 6-now-co-possibling and 14-next-possibling. All: a parity fixed as a magnitude and a rate fixed as a value at 7-now-prioring and 15-next-prioring, and a carry fixed as a store at 8-now-still-possibling and 16-next-still-possibling. At the resolver each name's term fixed unchangeable from one momentary: at 3, 10, 11 and 12 the resolving stops within one to four momentaries; at 2, 6 and 14 it stops at a still offering one parity that is the whole of what the self couples with at that name, and goes on at a still of two parities parting or beside another offering route; 4, 5 and 13 are at no changing parity at the resolver, each sharing and the joins, `incoming/equilibria_registry_v377/executions/ten_roots_named_still.py`.
 
-**Each of the ten unchangeables is one of 12's two signs, 0 or ±, frozen at one side.** At the resolver each resolving is one of two, the binary of geodesic momentarying, Natural Naming 5.62: the sign ±, a changing that is, the offered the next prior or the prior inverted, the next existing; or the sign 0, 12's 0 at a sharing at a prior, the prior kept as the possible, the next still possible; and the equilibrium is a still named by another, 2.1. The living is one of the two at each self's own momentary, and a crossing of co-chainings crosses by them alone, each self still possibling as the between passes it and changing again: spirals of 3 and 5 selves, each self at a parity and releasing along at 9, crossed at self 1 of each both ways at 10 to 14, come to one relation, each self's releasings again at 2, from momentary 12, and 5 and 7 from momentary 20, Exhibit ONE's table of two spirals beside each other, and crossed; each of the ten is that pair frozen at one side, a self fixed unchangeable or named changing, 2.4.
+**Each of the ten unchangeables is one of 12's two signs, 0 or ±, frozen at one side.** At the resolver each resolving is one of two, the binary of geodesic momentarying, Natural Naming 5.62: the sign ±, a changing that is, the offered the next prior or the prior inverted, the next existing; or the sign 0, 12's 0 at a sharing at a prior, the prior kept as the possible, the next still possible; and the equilibrium is another's still, 2.1. The living is one of the two at each self's own momentary, and a crossing of co-chainings crosses by them alone, each self still possibling as the between passes it and changing again: spirals of 3 and 5 selves, each self at a parity and releasing along at 9, crossed at self 1 of each both ways at 10 to 14, come to one relation, each self's releasings again at 2, from momentary 12, and 5 and 7 from momentary 20, Exhibit ONE's table of two spirals beside each other, and crossed; each of the ten is that pair frozen at one side, a self fixed unchangeable or changing, 2.4.
 
 **At the four four-cyclings each step is momentarying or parity changing, with prior, now and next inside.** Each four-cycling's parity is unchanged at its two steps eight apart, momentarying, and changes at its two steps of 17 less, parity changing: it passes two names of one parity and two of the other, the parity changing twice, two momentaries, and meets its first name again at the next momentary, a further occurrence, `incoming/equilibria_registry_v377/executions/ten_on_the_four_cycles.py`, parts 2 and 5. The self's forward recursionings, 1, 3, 5, 7, the Co-Chaining Logic Registry step 81, and each one's partner nine less, 8, 6, 4, 2, the other's names, Exhibit ONE's table of one move, 1 to 4, pair at them, 1 with 8, 3 with 6, 5 with 4 and 7 with 2; the rows below are in that order, each four-cycling written as Exhibit ONE's table of twelve forms writes it, 1-9-8-16 and 3-11-6-14 going eight up first and 2-15-7-10 and 4-13-5-12 going 17 less first:
 
@@ -219,7 +219,7 @@ The equilibrium holding ends, and the living and non-living things it names keep
 
 **Exhibit ONE's four-cycles pair at the momentaries, each partner round the other way.** At the odd momentaries 1-9-8-16 pairs with 2-15-7-10 and 3-11-6-14 with 4-13-5-12, and at the even momentaries 2-15-7-10 with 3-11-6-14 and 4-13-5-12 with itself: the two directions of one bi-folding. The two possiblings across, 6-now-co-possibling and 14-next-possibling, share the four-cycle 3-11-6-14 with 3-now-co-prioring, the prior at its sharings, and 11-next-co-prioring; the middle four-cycle 7-11-6-10, through 6-now-co-possibling, and the eight-cycle 2-15-7-11-3-14-6-10, through both, partner themselves at the even momentary: at that momentary the fold meets itself, Exhibit ONE's table of twelve forms. The ten sit at each of the four four-cyclings, 3.2, the four-cycling 3-11-6-14 carrying a two-way fixed to one side at 3 and 11 and a completing fixed as a last at 6 and 14.
 
-**One parity offered once co-chains through the whole.** At Exhibit ONE's resolver, selves in a ring release each changing along at 9-next-co-changing to the next self's offerings. A ring each at no prior and one + offered once at one opens at each in turn, the + surfacing at 14-next-possibling and passed on as it arrives, one self on at each momentary, with no forcer: the method at things at no prior. The resolver's lines make the + the next prior at each as it passes, each sharing opening at the bi-coupling, 1.3, each prior inverting at its own from its next momentary, and from the momentary numbering the ring each is at a parity; the rows below are of a ring of selves each at a parity, as Exhibit ONE's table of a spiral of selves opens it, an even ring from that table's second momentary. A society named not changing fixes a form unchangeable, and not changing is not not-carrying: the non-living exist, arrive and change, deforming at their own scale, and carry nothing. An equilibrium of a society fixes a changing society unchangeable, or names nothing.
+**One parity offered once co-chains through the whole.** At Exhibit ONE's resolver, selves in a ring release each changing along at 9-next-co-changing to the next self's offerings. A ring each at no prior and one + offered once at one opens at each in turn, the + surfacing at 14-next-possibling and passed on as it arrives, one self on at each momentary, with no forcer: the method at things at no prior. The resolver's lines make the + the next prior at each as it passes, each sharing opening at the bi-coupling, 1.3, each prior inverting at its own from its next momentary, and from the momentary numbering the ring each is at a parity; the rows below are of a ring of selves each at a parity, as Exhibit ONE's table of a spiral of selves opens it, an even ring from that table's second momentary. A society fixed as not changing fixes a form unchangeable, and not changing is not not-carrying: the non-living exist, arrive and change, deforming at their own scale, and carry nothing. An equilibrium of a society fixes a changing society unchangeable, or names nothing.
 
 | Selves in the ring | The going on |
 |---|---|
@@ -493,7 +493,7 @@ The rest returns at no coupling. A ring at rest, each at no prior and nothing ar
 
 | Group | Shared failure | Cases | Exact scope |
 |---|---|---|---|
-| A · Incompatible requirements | The same comparison is named to satisfy requirements not possibly met together. | Fixed state–flow–state and flow–state–flow under their required advance; included membership required both unchanged and inverted; the balanced fuel cycle with `f≠w`. | The conjunction as stated, at the same occurrence. |
+| A · Incompatible requirements | The same comparison is fixed to satisfy requirements not possibly met together. | Fixed state–flow–state and flow–state–flow under their required advance; included membership required both unchanged and inverted; the balanced fuel cycle with `f≠w`. | The conjunction as stated, at the same occurrence. |
 | B · Required case omitted | The required succession enters a case the condition excludes. | Each nonempty proper pair-only condition under the complete four-state orbit. | That pair, succession and full orbit. |
 | C · Renewal excluded | Presence carries renewal, and the conception excludes that renewal. | A carrying fixed unchangeable at each momentary; each surface zero at a carried sharing. | The carrying, its offerings and its momentaries. |
 | D · Required arrival or offering unreachable | The required target lies beyond each thing the stated operation can supply. | Finite zero departure from a nonzero predecessor under a nonzero multiplier; the older resolver's case at its opposed aggregate route is at `archive/carrying_v377/Exhibit_TWENTY-EIGHT_Equilibria_Registry_older_resolver.md`. | The stated predecessor, operation, route and reach. |

@@ -65,3 +65,19 @@ position, scale and orientation inverted at once, bi-tri-involutioning.
 without a form named still, a looping or a forking**
 
 **A store folds once, names the fold still, and carries one way across the named surface**: one momentary of the uni-scaling taken as a form named still,
+
+## Re-said at named re-said, nothing named, v389
+
+the two named at one momentary is the equilibria picture
+
+and no number is named with a competitor
+
+**A ring is an arrangement named one scale out
+
+carries one way across the named surface**
+
+**Named as one store, parity reaches none.**
+
+It carries the named form and leaves the adjacent pairings
+
+one hundred twenty named in the parts above

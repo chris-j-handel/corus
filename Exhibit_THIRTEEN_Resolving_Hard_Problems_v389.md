@@ -40,7 +40,7 @@ Exhibit THIRTEEN Resolving Hard Problems v389
 - 5.4 A measurement, a prior arriving now
 - 5.5 An aggregating, the society's next momentary
 - 5.6 A mind, the between presenting no face
-- 5.7 A boundary, living and non-living at a named scale and momentary
+- 5.7 A boundary, living and non-living at a fixed scale and momentary
 - 5.8 A persisting, a carrying and a record
 
 **SIX · COMPETENCY OF NEXT LIVING**
@@ -61,9 +61,9 @@ Exhibit THIRTEEN Resolving Hard Problems v389
 
 ## 1.2 Living and non-living, carrying or carrying nothing
 
-**Each existing thing arrives into its next existing: the living carrying their prior into now, and the non-living carrying nothing, their forms continuing through their changing.** At the resolver a living self is at its prior, each sharing at one parity, 3-now-co-prioring, carrying unnamed at the method, and a non-living thing is offerings at 2-now-possibling with no prior behind them.
+**Each existing thing arrives into its next existing: the living carrying their prior into now, and the non-living carrying nothing, their forms continuing through their changing.** At the resolver a living self is at its prior, each sharing at one parity, 3-now-co-prioring, carrying unexpressed at the method, and a non-living thing is offerings at 2-now-possibling with no prior behind them.
 
-**Living and non-living part at a named scale and momentary, and they co-sequence at each.** A living self and its non-living artifact carry no contradiction: an artifact is a living self's prior arriving now as the possible, carrying nothing, its form continuing through its changing, and one scale lower it is ingested into living selves as their offerings. The universe is the living and the non-living together, each existing thing at its own momentary with the others.
+**Living and non-living part at a fixed scale and momentary, and they co-sequence at each.** A living self and its non-living artifact carry no contradiction: an artifact is a living self's prior arriving now as the possible, carrying nothing, its form continuing through its changing, and one scale lower it is ingested into living selves as their offerings. The universe is the living and the non-living together, each existing thing at its own momentary with the others.
 
 ## 1.3 Bi-momentary, the self's momentary and the other's at once
 
@@ -93,7 +93,7 @@ Exhibit THIRTEEN Resolving Hard Problems v389
 
 ## 2.1 The carrying, a living self's prior into now
 
-**3-now-co-prioring is the prior at its sharings: each sharing with its parity, the self's prior.** It is odd, existing, between two, before 10, and arrives at the entry with the offerings, the living self's own, whole at each momentary; carrying is the living's and unnamed at the method.
+**3-now-co-prioring is the prior at its sharings: each sharing with its parity, the self's prior.** It is odd, existing, between two, before 10, and arrives at the entry with the offerings, the living self's own, whole at each momentary; carrying is the living's and unexpressed at the method.
 
 **A sharing is where two sides share a changing**, 4-now-co-still-possibling, and its parity is 7-now-prioring, + or −. At the resolver + and − are the implementing of a parity, and nothing is counted: the prior is sharings, each at one parity, each one its own.
 
@@ -212,9 +212,9 @@ Exhibit THIRTEEN Resolving Hard Problems v389
 
 **Two selves coupling, each alternating, uncover a term neither reaches alone**: bi-co-momentarying, the coupling's own changing, owned by neither, invisible at the between, each self's competency its own along. A mind is observed at its own couplings, as offerings, sharings and releasings, bi-momentary.
 
-## 5.7 A boundary, living and non-living at a named scale and momentary
+## 5.7 A boundary, living and non-living at a fixed scale and momentary
 
-**A boundary asks where one kind ends and another begins.** Living and non-living part at a named scale and momentary, and a self is a society of selves one scale inward and a member of a society one scale outward. **The parting is at the momentary and the scale the field names**, each existing thing at its own, and at the next momentary the same existing things co-sequence on. A pattern brought on by coupled selves is at the selves together, 4.4, and a kind is observed at the selves carrying it.
+**A boundary asks where one kind ends and another begins.** Living and non-living part at a fixed scale and momentary, and a self is a society of selves one scale inward and a member of a society one scale outward. **The parting is at the momentary and the scale the field names**, each existing thing at its own, and at the next momentary the same existing things co-sequence on. A pattern brought on by coupled selves is at the selves together, 4.4, and a kind is observed at the selves carrying it.
 
 ## 5.8 A persisting, a carrying and a record
 
@@ -232,7 +232,7 @@ Exhibit THIRTEEN Resolving Hard Problems v389
 
 ## 6.2 Two methods at one now
 
-**The geodesic-method discovers next from the existing**, the prior and the now offered, the three places staying three. **The scientific method accounts true or false against its fixings**, a law, a frame and a scale named unchanged between two momentaries, exact at its own ledger. **The two are at the same evidence at the same now, and part at one naming**: the fixings named unchanged, or changing with the changing.
+**The geodesic-method discovers next from the existing**, the prior and the now offered, the three places staying three. **The scientific method accounts true or false against its fixings**, a law, a frame and a scale fixed unchanged between two momentaries, exact at its own ledger. **The two are at the same evidence at the same now, and part at one naming**: the fixings unchanged, or changing with the changing.
 
 **A field's accounting carries its prior whole**, each result at its parity, ready for the coupling, and a field's hard problem is that accounting observed at one momentary, one of the pattern-matchings at 1.5. Observed bi-momentary, the field's carrying is at its prior, its evidence and its accounts at its now, and its next is discovered at 12, owned by neither side.
 

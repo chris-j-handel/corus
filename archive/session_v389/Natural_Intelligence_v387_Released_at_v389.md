@@ -581,3 +581,29 @@ each equilibrium a form named still;
 from a form named still, an ordering goes on with no selves offering;
 
 naming its own ordering still: four set aside, four forms named still, and no fifth.
+
+## Re-said at named re-said, nothing named, v389
+
+Each container named at a smaller scale is that one container again
+
+is a gap, both its sides named, and no third.
+
+its givens named at the Equilibria Registry 2.1
+
+a now named as its next**
+
+one side named as the universe and the other's momentaries unnamed.
+
+carrying is living and unnamed at the method, and at 3
+
+is a gap, both its sides named, and 17-next-now
+
+**One cell, the offerings unnamed.**
+
+each with both its sides named, and 17-next-now
+
+a self fixed unchangeable or named changing, remains
+
+is a kept prior named as the now
+
+bi-co-momentarying named as reachable

@@ -328,3 +328,9 @@ the parity read and the parity surfaced.
 | 7-now-prioring | the parity read | 15-next-prioring |
 
 At one sharing the resolver reads + and − alike:
+
+## Re-said at named re-said, nothing named, v389
+
+is a gap, both its sides named, and 17-next-now
+
+**One cell, the offerings unnamed.**

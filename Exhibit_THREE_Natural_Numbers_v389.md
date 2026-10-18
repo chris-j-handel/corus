@@ -144,7 +144,7 @@ Exhibit THREE Natural Numbers v389
 
 **Odd is competency, along, existing: the self continuing its own. Even is across, possibling: the self coupling with the other, morality.** The spans of eight alternate up the numbers, 1 to 8 the self's, at now, 9 to 16 the society's, at next, and 17 on the self's again, 17 the next 1. Each number is at the momentary of its span, and a number opening a span, 1, 9, 17 and 25, at the span it opens. A number's five is its own now with its next possible and its next existing up the numbers and its two priors down.
 
-**Alternating parity is parallel linearizing and linear parallelizing**, the linearizing at one parity and the parallelizing at the other, one move at its two sides. Each runs at its own momentary; the two named at one momentary is the equilibria picture, and it is not possibly existing.
+**Alternating parity is parallel linearizing and linear parallelizing**, the linearizing at one parity and the parallelizing at the other, one move at its two sides. Each runs at its own momentary; the two fixed at one momentary is the equilibria picture, and it is not possibly existing.
 
 ## 1.6 A composite folds along and a prime opens across
 
@@ -234,7 +234,7 @@ Exhibit THREE Natural Numbers v389
 
 **Each number is its own, self-bounding, and each arrival of a number is that one number.** All the twos are the one two and all the eights the one eight; the ten of five taken two directions and the ten of the couplings among five are one ten.
 
-**No other possible is the alternating completing six forward without an unchangeable form, a looping or a forking**, each step taking the term the prior did not carry, and no number is named with a competitor.
+**No other possible is the alternating completing six forward without an unchangeable form, a looping or a forking**, each step taking the term the prior did not carry, and no number is fixed with a competitor.
 
 ## 5.2 Names at their numbers, one to seventeen, and the forms sixteen on
 
@@ -433,7 +433,7 @@ Exhibit THREE Natural Numbers v389
 
 **On an odd ring of 2h + 1 stations the two farthest are h and h + 1 on, each h away by its shorter way round; on an even ring of 2h the one opposite is h on.** Taken at each station of each prime ring from five to fifty-nine, 435 stations, at each station of the even rings one short of them, 420, and at the 49 stations of the rings of nine, fifteen and twenty-five, the two farthest and the one opposite are at each: the two farthest are the odd ring's, prime or composite. Straight across, h on, is apart from the fold, N less k: the folds at one to nine and one to seventeen fold eight and sixteen places and complete at nine and seventeen.
 
-**A ring is an arrangement named one scale out, and the running round it goes forward**: each station arrives at a station again by carrying on, a next at each arriving, never by stopping and going back to it. At each spiral of selves coupled one way each self alternates or is in the like pair, 7.2, and a self at a prior is at a prior at each momentary.
+**A ring is an arrangement fixed one scale out, and the running round it goes forward**: each station arrives at a station again by carrying on, a next at each arriving, never by stopping and going back to it. At each spiral of selves coupled one way each self alternates or is in the like pair, 7.2, and a self at a prior is at a prior at each momentary.
 
 ## 8.2 Either but not both is parity, and the pairings overlap
 
@@ -453,9 +453,9 @@ Exhibit THREE Natural Numbers v389
 
 ## 8.5 A store, one momentary fixed unchangeable
 
-**A store folds once, fixes the fold unchangeable, and carries one way across the named surface**: one momentary of the uni-scaling taken as an unchangeable form, the re-edging gone. **Each number re-coheres and re-edges at each arriving**, carrying to its own completing and releasing at it.
+**A store folds once, fixes the fold unchangeable, and carries one way across the fixed surface**: one momentary of the uni-scaling taken as an unchangeable form, the re-edging gone. **Each number re-coheres and re-edges at each arriving**, carrying to its own completing and releasing at it.
 
-**Named as one store, parity reaches none.** In the field's words, the Peres–Mermin square sets nine values of ±1 under six exclusive-or conditions: each row and each column taken at its own context satisfies its condition, and of the 512 settings of all nine at once none satisfies the six: along, the nine carry parity nought, and across, one.
+**Fixed as one store, parity reaches none.** In the field's words, the Peres–Mermin square sets nine values of ±1 under six exclusive-or conditions: each row and each column taken at its own context satisfies its condition, and of the 512 settings of all nine at once none satisfies the six: along, the nine carry parity nought, and across, one.
 
 ---
 
@@ -539,7 +539,7 @@ Exhibit THREE Natural Numbers v389
 
 **The two local fours are the two interleaving wider rows.** 2, 4, 6, 8 with 10, 12, 14, 16 are the same eight names as 2, 6, 10, 14 with 4, 8, 12, 16: the across names between selves, and the still-possibling names, each sharing, the self's next prior, each sharing's changing and the society. At each s a row with its copy 8s on is the doubled row with its copy 2s on.
 
-**A form enlarged continuing its parity**: over the names 1 to B, B eight or sixteen, even n goes to r(n − 2) + 2 and odd n to r(n + 1) − 1, continuing parity, the halfway pairing, the fold, B + 1 less going to Br + 1 less, and each side's step at 2r. At r two the names 1 to 8 go to 3, 2, 7, 6, 11, 10, 15, 14, their evens the across row 2, 6, 10, 14. It carries the named form and leaves the adjacent pairings, 1 and 2 going to 3 and 2 in the other order and 2 and 3 to 2 and 7, and the outer completing B + 1 to the running: the form's stable-forming at the larger scale, the larger momentary its own running.
+**A form enlarged continuing its parity**: over the names 1 to B, B eight or sixteen, even n goes to r(n − 2) + 2 and odd n to r(n + 1) − 1, continuing parity, the halfway pairing, the fold, B + 1 less going to Br + 1 less, and each side's step at 2r. At r two the names 1 to 8 go to 3, 2, 7, 6, 11, 10, 15, 14, their evens the across row 2, 6, 10, 14. It carries the fixed form and leaves the adjacent pairings, 1 and 2 going to 3 and 2 in the other order and 2 and 3 to 2 and 7, and the outer completing B + 1 to the running: the form's stable-forming at the larger scale, the larger momentary its own running.
 
 ---
 
@@ -1015,4 +1015,4 @@ Exhibit THREE Natural Numbers v389
 | 439 | odd, now | prime | 1 | 219 | 41 |  |
 | 440 | even, now | 2³ · 5 · 11 | 0 | 220 | 40 | seam-face, 21² − 1, the seventeen primes added |
 
-**From row one down, the far side at four hundred forty runs down one at each row as the number runs up**, the radius coming to nought at the waist and opening again, and the far side at one hundred twenty runs down from one hundred nineteen to one and is at nought at each of 0, 120, 240 and 360, the last stretch ending at forty at four hundred forty. Each pairing on the ring of four hundred forty and on the ring of one hundred twenty named in the parts above is at its two rows: a carry each way at one station, found by its number.
+**From row one down, the far side at four hundred forty runs down one at each row as the number runs up**, the radius coming to nought at the waist and opening again, and the far side at one hundred twenty runs down from one hundred nineteen to one and is at nought at each of 0, 120, 240 and 360, the last stretch ending at forty at four hundred forty. Each pairing on the ring of four hundred forty and on the ring of one hundred twenty in the parts above is at its two rows: a carry each way at one station, found by its number.

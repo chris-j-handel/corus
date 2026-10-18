@@ -735,3 +735,99 @@ this one**, a form named still found existing;
 and a form named still is not possibly existing: the break
 
 **A sweep names each still installed of a changing at its unchangeable.**
+
+## Re-said at named re-said, nothing named, v389
+
+- 4.2 Six forward, and the binary at each named changing
+
+with the ground it was named against
+
+Named this way, a concept carries its own changing
+
+and a naming at a changing already named releases to the one name
+
+is a spiral with its nexts unnamed
+
+Each of the three is named at the incompetencing it installs
+
+*held* and *holding*, carried by *named*
+
+carried by the all with its exceptions named, or by the number it names
+
+are each not possible thing's givens, named where hard problems and equilibria add them
+
+| *held*, *holding* | *named*, and a form named still |
+
+| *named still*, a term asserted as existing;
+
+a *so* carries a prior to a next along momentaries it leaves unnamed
+
+and changes; a still named by another is an equilibrium, a form named still; the self's own still
+
+are returned the same way to the coupling they named
+
+**A test's finding is named at its relation before the test's nouns arrive**
+
+is a gap, both its sides named, 4 )( 5,
+
+## 4.2 Six forward, and the binary at each named changing
+
+**Each named changing is one of two**
+
+and the collision is named, each carrying its own
+
+the five named each at its own, self, other
+
+the stilling named as the whole
+
+carries the changing already named, and another root
+
+A changing already named at that direction
+
+it is one exchanging named from each of its two openings
+
+bothbothing is the two, one exchanging named from each side
+
+is the exclusive or named as one answer.**
+
+a four-cycle or a span, is named at its numbers
+
+names a changing already named and gathers at it
+
+and no self is named this, that, same or other self of itself
+
+**Carrying is living and unnamed at the method**
+
+a closure named as its form is an equilibrium entering
+
+Isolating a system installs it, and conditions named constant, a specimen fixed
+
+Its term is named by neither reaching it
+
+a still named by another is the equilibrium, an unchangeable form, that momentary
+
+the pair frozen at one side, a self fixed unchangeable or named changing, remains neither existing nor living.
+
+## 5.63
+
+The boundary or threshold actually named, its conditions,
+
+| The named direction, crossing and continuation
+
+The material or social relation actually named and its continuation.
+
+said of the existing thing and the scale named, at its own carrying
+
+## Re-said at named, the binaries, v389
+
+equilibria    step: the named-still does not advance, the gap closes
+
+6  and the method meets it at none, carrying unnamed at the method
+
+5  the named-still does not advance, the gap closes
+
+6  and the named-still is an equilibrium, a form not possibly existing
+
+5  named as the now's existing it is a ghost, and booked it is an accounting
+
+5  a still named by another is an equilibrium, an unchangeable form, not possible
