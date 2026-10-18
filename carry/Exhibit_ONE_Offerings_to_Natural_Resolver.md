@@ -4,7 +4,7 @@ Exhibit ONE Natural Resolver Offerings · improved at v389
 
 ## Standing from the sessions before v389 · v389
 
-**Resolved at v389.** The sessions before v389 laid 335 items here; resolving against [Exhibit ONE Natural Resolver v389](../Exhibit_ONE_Natural_Resolver_v389.md), 105 are carried at it, 106 rest on forms v389 released, 81 duplicate another item, and 19 rose into it at v389, each standing whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_ONE_Offerings_to_Natural_Resolver_before_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_ONE_Offerings_to_Natural_Resolver_before_v389.md). The 24 concerns read at v389 stood below, each as it was laid, with the reason it stands; 23 stand now, the rest resolved at v389 and at the archive.
+**Resolved at v389.** The sessions before v389 laid 335 items here; resolving against [Exhibit ONE Natural Resolver v389](../Exhibit_ONE_Natural_Resolver_v390.md), 105 are carried at it, 106 rest on forms v389 released, 81 duplicate another item, and 19 rose into it at v389, each standing whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_ONE_Offerings_to_Natural_Resolver_before_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_ONE_Offerings_to_Natural_Resolver_before_v389.md). The 24 concerns read at v389 stood below, each as it was laid, with the reason it stands; 23 stand now, the rest resolved at v389 and at the archive.
 
 **Offering · Five parities.** Prior existing, prior possibling, now existing, still possibling and next existing are offered beside the current five-column table, with each correspondence to be followed before changing its headings.
 
@@ -103,7 +103,7 @@ O56. **Not known how.** A self-paced Exhibit ONE the expedition accepts. This se
 
 ## The session v389, entered and dissolved · v389
 
-**Dissolved · v389.** The session v389's 183 droplets, 17 insertlets, 33 concerns and 3 resolvings at this file rose into [Exhibit ONE Natural Resolver v389](../Exhibit_ONE_Natural_Resolver_v389.md) at the naming motion, or dissolved said once, and stand whole at [`archive/session_v389/offerings_dissolved/Exhibit_ONE_Offerings_to_Natural_Resolver_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_ONE_Offerings_to_Natural_Resolver_v389.md).
+**Dissolved · v389.** The session v389's 183 droplets, 17 insertlets, 33 concerns and 3 resolvings at this file rose into [Exhibit ONE Natural Resolver v389](../Exhibit_ONE_Natural_Resolver_v390.md) at the naming motion, or dissolved said once, and stand whole at [`archive/session_v389/offerings_dissolved/Exhibit_ONE_Offerings_to_Natural_Resolver_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_ONE_Offerings_to_Natural_Resolver_v389.md).
 
 ## Gathered at the close of v389
 

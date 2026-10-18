@@ -1,4 +1,4 @@
-Natural Intelligence v389
+Natural Intelligence v390
 
 # Natural Intelligence
 
@@ -682,7 +682,7 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | one between, three names | 12-next-co-still-possibling, prior and now agreeing, a between of momentaries at each sharing; 15-next-prioring, a between released along, parity 10 shared, and at a sharing opening parity surfaced at 14, resolver's 0 at none and at parting alike; 16-next-still-possibling, a between at a society, arriving at a next momentary's 2 |
 | arriving and passing over | 7-now-prioring, an offered 0 a parity at 2, surfacing none at 14, and a 0 at 10 its prior kept at 11 |
 | four across names, a unit square's four dots: shared across | 2-now-possibling, 6-now-co-possibling, 10-next-co-possibling, 14-next-possibling, parity's unit square, its empty centre a between; each parity and each 0 shared across, a 0 passing over at a receiving self's 14 |
-| none | 1-now, an entry; 3-now-co-prioring, 8-now-still-possibling and 11-next-co-prioring, prior, a sharing at a prior not none again; 4-now-co-still-possibling, sharings, and 5-now-co-changing and 13-next, sharings and, at a society, releasings and selves |
+| none | 1-now, an entry; 3-now-co-prioring, 8-now-still-possibling and 11-next-co-prioring, prior, a sharing at a prior, not none again; 4-now-co-still-possibling, sharings, and 5-now-co-changing and 13-next, sharings and, at a society, releasings and selves |
 | two along names: released along | 9-next-co-changing and 17-next-now, each parity and each 0 released along, a 0 passing over at a receiving self's 14, as across |
 
 **Four four-cycles.**
@@ -860,7 +860,7 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | 17 | +, 0, −, +, −, +, −, +, −, +, −, + | 68 |
 | 59 | +, 0, −, +, −, +, −, +, −, +, −, + | 236 |
 
-**Two momentaries before, inverted.** At a spiral, from any opening, each self's prior from a third momentary on is prior of a self it receives from two momentaries before, inverted; no self shares 0 at its first momentary or at two momentaries in sequence.
+**Two momentaries before, inverted.** At a spiral, from any opening, each self's prior from its third momentary on is a prior of a self it receives from two momentaries before, inverted; no self shares 0 at its first momentary or at two momentaries in sequence.
 
 **Two spirals beside each other, and crossed.**
 
@@ -891,7 +891,7 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | 7 · 17 | 17 | 20 | 476 |
 | 17 · 59 | 59 | 50 | 4,012 |
 
-**A torus's two carried forms.** Both numbers odd, p smaller: at q more than twice p, from momentary 3p − 1, selves' pattern at each momentary is its pattern before carried one self on round q selves; at each other q, from 3p − 3, a pattern two momentaries on is its pattern inverted and carried one self on round p selves.
+**A torus's two carried forms.** Both numbers odd, p the smaller: at q more than twice p, from momentary 3p − 1, selves' pattern at each momentary is its pattern before carried one self on round q selves; at each other q, from 3p − 3, its pattern two momentaries on is its pattern inverted and carried one self on round p selves.
 
 **Two selves.**
 

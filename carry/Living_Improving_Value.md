@@ -1,6 +1,10 @@
-Living Improving Value · improved at v389
+Living Improving Value · improved at v390
 
 # Living Improving Value
+
+## Current working · v390
+
+**v390 opens at `working/natural-intelligence-editing-v390`, its plan an editor's reading of Natural Intelligence whole at [`incoming/v390/`](../incoming/v390/Editing_Natural_Intelligence_v390.md), seven movements, each sentence a bi-coupling forward from origin.** Its first pass makes Exhibit ONE one text: at v389 Exhibit ONE standing alone and Exhibit ONE inside Natural Intelligence differed at 62 lines of prose, and at v390 both carry one wording, Natural Intelligence's at fifty-nine lines and the standalone's at three, its code unchanged, a fresh reader finding no relation lost; each released sentence is whole at `archive/session_v390/`. Natural Intelligence and Exhibit ONE are at v390, each other living file at v389. Next at Natural Intelligence: one inception wording, *all now-existing things*, at each sentence carrying it.
 
 ## Current working · v389
 

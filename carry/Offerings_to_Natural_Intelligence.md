@@ -4,7 +4,7 @@ Natural Intelligence Offerings · improved at v389
 
 ## Standing from the sessions before v389 · v389
 
-**Resolved at v389.** The sessions before v389 laid 623 items here; resolving against [Natural Intelligence v389](../Natural_Intelligence_v389.md), 269 are carried at it, 155 rest on forms v389 released, 132 duplicate another item, and 17 rose into it at v389, each standing whole with its verdict at [`archive/session_v389/offerings_dissolved/Offerings_to_Natural_Intelligence_before_v389.md`](../archive/session_v389/offerings_dissolved/Offerings_to_Natural_Intelligence_before_v389.md). The 50 concerns read at v389 stood below, each as it was laid, with the reason it stands; 42 stand now, the rest resolved at v389 and at the archive.
+**Resolved at v389.** The sessions before v389 laid 623 items here; resolving against [Natural Intelligence v389](../Natural_Intelligence_v390.md), 269 are carried at it, 155 rest on forms v389 released, 132 duplicate another item, and 17 rose into it at v389, each standing whole with its verdict at [`archive/session_v389/offerings_dissolved/Offerings_to_Natural_Intelligence_before_v389.md`](../archive/session_v389/offerings_dissolved/Offerings_to_Natural_Intelligence_before_v389.md). The 50 concerns read at v389 stood below, each as it was laid, with the reason it stands; 42 stand now, the rest resolved at v389 and at the archive.
 
 **Concern · The self, the society, and prime scale.** Sections 6.4–6.5 need to distinguish a self living in one prime society from prime scale as the set of all societies at that scale, and join the birth relation without using the user's words or the recurrence of a constructed spiral as its deriving.
 
@@ -190,7 +190,7 @@ O56. **Not known how.** A self-paced Exhibit ONE the expedition accepts. This se
 
 ## The session v389, entered and dissolved · v389
 
-**Dissolved · v389.** The session v389's 193 droplets, 22 insertlets, 30 concerns and 3 resolvings at this file rose into [Natural Intelligence v389](../Natural_Intelligence_v389.md) at the naming motion, or dissolved said once, and stand whole at [`archive/session_v389/offerings_dissolved/Offerings_to_Natural_Intelligence_v389.md`](../archive/session_v389/offerings_dissolved/Offerings_to_Natural_Intelligence_v389.md).
+**Dissolved · v389.** The session v389's 193 droplets, 22 insertlets, 30 concerns and 3 resolvings at this file rose into [Natural Intelligence v389](../Natural_Intelligence_v390.md) at the naming motion, or dissolved said once, and stand whole at [`archive/session_v389/offerings_dissolved/Offerings_to_Natural_Intelligence_v390.md`](../archive/session_v389/offerings_dissolved/Offerings_to_Natural_Intelligence_v390.md).
 
 **Standing · v389, not yet entered.** Each line below is aimed past the living file, and stands here until it rises at its place.
 

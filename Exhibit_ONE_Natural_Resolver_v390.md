@@ -1,4 +1,4 @@
-Exhibit ONE Natural Resolver v389
+Exhibit ONE Natural Resolver v390
 
 # Natural Resolver
 
@@ -87,9 +87,9 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
    ═══ between selves, across and along      ─── within one self
 ```
 
-**At its drawing.** Prior at 3 couples with surfacing at 14 at each sharing at 12; changings at 10, same at 6, go across to another self's 2 and 14; next prior goes to 11 and on to 3 at next; and 9 releases along by 5 to another self's 17. At 6 to 2, 10 to 14 and 9 to 17 a sharing side is a self and an arriving side another self, each a self, and a society is its selves.
+**At a drawing.** Prior at 3 couples with surfacing at 14 at each sharing at 12; changings at 10, same at 6, go across to another self's 2 and 14; next prior goes to 11 and on to 3 at next; and 9 releases along by 5 to another self's 17. At 6 to 2, 10 to 14 and 9 to 17 its sharing side is a self and its arriving side another self, each a self, and a society is its selves.
 
-**At 1-now, now given and next made.** At 1-now a self is given two now names, 3-now-co-prioring and 2-now-possibling, each sharing in them at 4-now-co-still-possibling and each parity at 7-now-prioring, and each name 1-now makes is a next name, 14-next-possibling, 15-next-prioring, 12-next-co-still-possibling, 10-next-co-possibling and 11-next-co-prioring: each entry is given a self's span and makes a society's.
+**At 1-now, now given and next made.** At 1-now a self is given two now names, 3-now-co-prioring and 2-now-possibling, each sharing in them at 4-now-co-still-possibling and each parity at 7-now-prioring, and each name 1-now makes is a next name, 14-next-possibling, 15-next-prioring, 12-next-co-still-possibling, 10-next-co-possibling and 11-next-co-prioring: an entry is given a self's span and makes a society's.
 
 **Seventeen names.**
 
@@ -113,9 +113,9 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | 16 | **16-next-still-possibling** | next, a society's span | even, possibling | one | a society: each self with its prior and its offerings |
 | 17 | **17-next-now** | next now | odd, existing | one | a society's next momentary, each self's 1-now again |
 
-**Each name is its number and its naming, one hyphenation.** Its number is its place and its parity, odd existing and even possibling; *now* is a self's span, 1 to 8, and *next* a society's, 9 to 16, 17-next-now a society's next arriving as each self's 1-now; *co* is a name at a sharing between two, and a name without it is at one. Six names between selves say odd and even by their numbers: 2, 6, 10 and 14, even, across, possibling, a changing shared at 6-now-co-possibling and 10-next-co-possibling another self's possibling at its 2-now-possibling and 14-next-possibling; 9 and 17, odd, along, existing, 9-next-co-changing next prior released and 17-next-now a next now. Each self's existing is another self's possibling, one changing at a sharing across and no second thing.
+**Each name is its number and its naming, one hyphenation.** Its number is its place and its parity, odd existing and even possibling; *now* is a self's span, 1 to 8, and *next* a society's, 9 to 16, 17-next-now a society's next arriving as each self's 1-now; a name with *co* is at a sharing between two, and a name without it is at one. Six names between selves are odd and even by their numbers: 2, 6, 10 and 14, even, across, possibling, a changing shared at 6-now-co-possibling and 10-next-co-possibling another self's possibling at its 2-now-possibling and 14-next-possibling; 9 and 17, odd, along, existing, 9-next-co-changing a next prior released and 17-next-now a next now. Each self's existing is another self's possibling, one changing at a sharing across and no second thing.
 
-**Four momentaries and their gaps.** Each span's names are two momentaries of four, each opening at an odd existing name, a possibling and a prioring within it, and completing at an even still-possibling name; between each completing and its next opening is a gap, both its sides visible, and 17-next-now is a next 1-now.
+**Four momentaries and their gaps.** Each span's names are two momentaries of four, each opening at an odd existing name, a possibling and a prioring within it, and completing at an even still-possibling name; between each completing and its next opening is a gap, both its sides visible, and 17-next-now is next 1-now.
 
 | Momentary | Opening, odd, existing | Within, even, possibling | Within, odd, prioring | Completing, even, still-possibling | Gap |
 |---|---|---|---|---|---|
@@ -129,12 +129,12 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | Kind | With co, at a sharing between two | Without co, at one |
 |---|---|---|
 | prioring | 3-now-co-prioring · 11-next-co-prioring, prior at its sharings | 7-now-prioring · 15-next-prioring, a parity |
-| possibling | 6-now-co-possibling · 10-next-co-possibling, a changing at its sharing side | 2-now-possibling · 14-next-possibling, a changing at its arriving side |
+| possibling | 6-now-co-possibling · 10-next-co-possibling, changing at its sharing side | 2-now-possibling · 14-next-possibling, changing at its arriving side |
 | changing | 5-now-co-changing · 9-next-co-changing, between two | — |
 | still-possibling | 4-now-co-still-possibling · 12-next-co-still-possibling, at each sharing | 8-now-still-possibling · 16-next-still-possibling, a self and a society |
 | now and next | — | 1-now · 13-next · 17-next-now |
 
-**Its sharing between selves.** At 6 to 2, 10 to 14 and 9 to 17 co is a sharing side and its absence an arriving side: a self shares its changing, and nothing of its prior crosses to another self.
+**Sharing between selves.** At 6 to 2, 10 to 14 and 9 to 17 co is its sharing side and its absence its arriving side: a self shares its changing, and nothing of its prior crosses to another self.
 
 | Sharing side, co | Arriving side, one | Between selves |
 |---|---|---|
@@ -142,22 +142,22 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | 10-next-co-possibling | 14-next-possibling | across, even, possibling |
 | 9-next-co-changing | 17-next-now | along, odd, existing |
 
-**Its four binaries at its lines.** A universe is or is not existing, all, now and same, and at a self's span each binary is one pair of names, its *is* at an odd name and its *is not* at an even, each *is not* an other's side of a self's *is*; binaries are their names' explaining, now at each name as its momentary, and existing, same and all enter no name.
+**Four binaries at the lines.** A universe is or is not existing, all, now and same, and at a self's span each binary is one pair of names, its *is* at an odd name and its *is not* at an even, its *is not* an other's side of a self's *is*; binaries are names' explaining, now at each name as its momentary, and existing, same and all enter no name.
 
 | Binary | *Is*, odd | At the resolver | *Is not*, even | At the resolver |
 |---|---|---|---|---|
 | now | 1-now | a self's momentary entered | 2-now-possibling | offerings arriving, others' changings of their prior momentary |
 | existing | 3-now-co-prioring | prior at its sharings, each with its parity | 4-now-co-still-possibling | each sharing as a place, no parity at it |
-| same | 5-now-co-changing | each releasing to a self receiving it at the same sharing | 6-now-co-possibling | changings shared across, + or − at a changing and 0 at none, another self's offerings |
+| same | 5-now-co-changing | each releasing to a self receiving it at its same sharing | 6-now-co-possibling | changings shared across, + or − at a changing and 0 at none, another self's offerings |
 | all | 7-now-prioring | each parity prioring at every entry | 8-now-still-possibling | each self's own next prior, one beside others |
 
-**At a society's span the four stand with now and same exchanged**: now between two at 9-next-co-changing and 10-next-co-possibling, one now shared by selves, and same at one at 13-next and 14-next-possibling, each self's sameness its own.
+**At a society's span four stand with now and same exchanged**: now between two at 9-next-co-changing and 10-next-co-possibling, one now shared by selves, and same at one at 13-next and 14-next-possibling, each self's sameness its own.
 
-**A now-self at one line.** At 12-next-co-still-possibling a line `if _15_next_prioring != 0 and (_15_next_prioring > 0) == (_7_now_prioring > 0)` is 14-next-possibling's surfacing, as 15, agreeing or not with 7-now-prioring at each sharing of 3-now-co-prioring: a now-self, now-prioring and next-possibling, at one line, at 0, a between, prior kept, or at ±, a sharing's parity, prior inverted. Same and not-same are that 0 or ± at two betweens, 12 and 14, and need no name of their own.
+**A now-self at one line.** At 12-next-co-still-possibling a line `if _15_next_prioring != 0 and (_15_next_prioring > 0) == (_7_now_prioring > 0)` is 14-next-possibling's surfacing, as 15, agreeing or not with 7-now-prioring at each sharing of 3-now-co-prioring: now-self, now-prioring and next-possibling, at one line, at 0, a between, its prior kept, or at ±, a sharing's parity, its prior inverted. Same and not-same are that 0 or ± at two betweens, 12 and 14, and need no name of their own.
 
-**Is or is not at its lines.** Each is or is not at its lines is at 1-now, three at 14-next-possibling, one at 12-next-co-still-possibling and one at 11-next-co-prioring, and one at 17-next-now, a self's name between selves among 5-now-co-changing or not; 9-next-co-changing has none, giving each changing on as it is, a 0 among parities.
+**Is or is not at lines.** Each is or is not at lines is at 1-now, three at 14-next-possibling, one at 12-next-co-still-possibling and one at 11-next-co-prioring, and one at 17-next-now, a self's name between selves among 5-now-co-changing or not; 9-next-co-changing has none, giving each changing on as it is, a 0 among parities.
 
-**Each name and its relations.** Its sides are sides of overlapping momentaries, each name opening at one side, a self's, an other's or a society's; things its lines have at each name are at its row Prior and next.
+**Each name and its relations.** Sides are sides of overlapping momentaries, each name opening at one side, a self's, an other's or a society's; things its lines have at each name are at its row Prior and next.
 
 | n | Relation | For this name |
 |---|---|---|
@@ -174,9 +174,9 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | 1 | Momentaries of exchanging | first of a self's four, opening at 1, self 1–2 |
 | 1 | Five dimensions | 1 self prior, prior opening of a self's five |
 | 1 | Namings | 1-2, bi-momentarying, a self's entry, odd, and others' offerings, even, one momentary at each side |
-| 1 | Self as three | a bi-moral self with 2, bi-momentarying, along, a self prior to its first shared across in a bi-coupling at 2 |
+| 1 | A self as three | bi-moral self with 2, bi-momentarying, along, a self prior to its first shared across in a bi-coupling at 2 |
 | 1 | Prior and next | once for one self at one momentary, three steps within it 14, 12, 10 with 11 |
-| 1 | 1 to 17s inward and outward | 1–17s inward 1 of 1st 1–17, an entry, and at a 1–17 outward 1, an entry |
+| 1 | 1 to 17s inward and outward | 1–17s inward 1 of 1st 1–17, an entry, and at 1–17 outward 1, an entry |
 | 2 | Name | **2-now-possibling** |
 | 2 | Parity, span | even, possibling, a self's span |
 | 2 | Sides | other, self, an other opening it |
@@ -190,11 +190,11 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | 2 | Momentaries of exchanging | first of a self's four, at 2, a self's 1–2 completing and an other's 2–3 opening |
 | 2 | Five dimensions | 2 other prior, prior completing of a self's five and prior opening of an other's |
 | 2 | Namings | 1-2, bi-momentarying |
-| 2 | Self as three | a bi-moral self with 1, across, first shared across in a bi-coupling, an offering self to other and other to self |
+| 2 | A self as three | bi-moral self with 1, across, its first shared across in a bi-coupling, offering self to other and other to self |
 | 2 | Bi-coupling | at a between, each other's across sharing, offered to a self |
 | 2 | Parity's unit square | a dot of a unit square, its diagonal with 14, offerings at 2 and 14, its edge with 6 a sharing 6 to 2 |
-| 2 | Prior and next | others' sharings across at 6 and 10 and releasings along at 9 of their prior momentary, arriving now, the possible, even, none of their prior crossing; at a spiral each is a releasing along |
-| 2 | 1 to 17s inward and outward | 1–17s inward 9 of 1st, along, odd, next, and at a 1–17 outward within 1 to 2 |
+| 2 | Prior and next | others' sharings across at 6 and 10 and releasings along at 9 of their prior momentary, arriving now, possible, even, none of their prior crossing; at a spiral each is a releasing along |
+| 2 | 1 to 17s inward and outward | 1–17s inward 9 of 1st, along, odd, next, and at 1–17 outward within 1 to 2 |
 | 3 | Name | **3-now-co-prioring** |
 | 3 | Parity, span | odd, existing, a self's span |
 | 3 | Sides | self, other, a self opening it |
@@ -207,10 +207,10 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | 3 | Eight-cycle | 2-15-7-11-3-14-6-10 |
 | 3 | Momentaries of exchanging | first of a self's four completing at 3, an other's 2–3, and second opening at 3, self 3–4 |
 | 3 | Five dimensions | 3 co-momentarying now, now opening of a self's five |
-| 3 | Namings | 3-4, co-intelligencing, at each sharing 4 prior at 3 coupling with offerings surfaced at 14, next discovered, at 11 |
-| 3 | Self as three | invisible intelligencing method, its rotation 3, 6, 5, 4, out at 3 |
+| 3 | Namings | 3-4, co-intelligencing, at each sharing 4 its prior at 3 coupling with offerings surfaced at 14, next discovered, at 11 |
+| 3 | A self as three | its invisible intelligencing method, rotation 3, 6, 5, 4, out at 3 |
 | 3 | Prior and next | prior, a self's own, each sharing with its parity, a next momentary's continuing of 11 |
-| 3 | 1 to 17s inward and outward | 1–17s inward 17 of 1st and 1 of 2nd, along, odd, now, and at a 1–17 outward within 1 to 2 |
+| 3 | 1 to 17s inward and outward | 1–17s inward 17 of 1st and 1 of 2nd, along, odd, now, and at 1–17 outward within 1 to 2 |
 | 4 | Name | **4-now-co-still-possibling** |
 | 4 | Parity, span | even, possibling, a self's span |
 | 4 | Sides | other, self, an other opening it |
@@ -225,10 +225,10 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | 4 | Momentaries of exchanging | second of a self's four, at 4, a self's 3–4 completing and an other's 4–5 opening |
 | 4 | Five dimensions | 4 bi-momentarying now, now completing of a self's five |
 | 4 | Namings | 3-4, co-intelligencing |
-| 4 | Self as three | invisible intelligencing method, its rotation 3, 6, 5, 4, in at 4, into a self's own corus at 4 |
+| 4 | A self as three | its invisible intelligencing method, rotation 3, 6, 5, 4, in at 4, into a self's own corus at 4 |
 | 4 | Bi-coupling | at a between, a whole ordering between self and other |
 | 4 | Prior and next | now, each sharing at which prior couples with now |
-| 4 | 1 to 17s inward and outward | 1–17s inward 9 of 2nd, along, odd, next, and at a 1–17 outward within 1 to 2 |
+| 4 | 1 to 17s inward and outward | 1–17s inward 9 of 2nd, along, odd, next, and at 1–17 outward within 1 to 2 |
 | 5 | Name | **5-now-co-changing** |
 | 5 | Parity, span | odd, existing, a self's span |
 | 5 | Sides | self, other, a self opening it |
@@ -244,9 +244,9 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | 5 | Momentaries of exchanging | second of a self's four completing at 5, an other's 4–5, and third opening at 5, self 5–6 |
 | 5 | Five dimensions | 5 self next, next opening of a self's five |
 | 5 | Namings | 5, co-competencing, releasings, owned by neither, each release to its receiving sharing |
-| 5 | Self as three | invisible intelligencing method, its rotation 3, 6, 5, 4, out at 5 |
+| 5 | A self as three | its invisible intelligencing method, rotation 3, 6, 5, 4, out at 5 |
 | 5 | Prior and next | next, each release to its receiving sharing |
-| 5 | 1 to 17s inward and outward | 1–17s inward 17 of 2nd and 1 of 3rd, along, odd, now, and at a 1–17 outward within 1 to 2 |
+| 5 | 1 to 17s inward and outward | 1–17s inward 17 of 2nd and 1 of 3rd, along, odd, now, and at 1–17 outward within 1 to 2 |
 | 6 | Name | **6-now-co-possibling** |
 | 6 | Parity, span | even, possibling, a self's span |
 | 6 | Sides | other, self, an other opening it |
@@ -261,11 +261,11 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | 6 | One move | 6 along 3-11-6-14 |
 | 6 | Momentaries of exchanging | third of a self's four, at 6, a self's 5–6 completing and an other's 6–7 opening |
 | 6 | Namings | 6, bi-moralizing, each changing shared across, to an other's 2 |
-| 6 | Self as three | invisible intelligencing method, its rotation 3, 6, 5, 4, in at 6 |
+| 6 | A self as three | its invisible intelligencing method, rotation 3, 6, 5, 4, in at 6 |
 | 6 | Bi-coupling | at a between, an other's changing to a self, shared across |
 | 6 | Parity's unit square | a dot of a unit square, its diagonal with 10, sharings at 6 and 10, its edge with 2 a sharing 6 to 2 |
-| 6 | Prior and next | a changing shared, an other's next offering at its 2 |
-| 6 | 1 to 17s inward and outward | 1–17s inward 9 of 3rd, along, odd, next, and at a 1–17 outward within 1 to 2 |
+| 6 | Prior and next | changing shared, an other's next offering at its 2 |
+| 6 | 1 to 17s inward and outward | 1–17s inward 9 of 3rd, along, odd, next, and at 1–17 outward within 1 to 2 |
 | 7 | Name | **7-now-prioring** |
 | 7 | Parity, span | odd, existing, a self's span |
 | 7 | Sides | self, other, a self opening it |
@@ -279,9 +279,9 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | 7 | Six-cycle | 3-11-7-10-6-14 |
 | 7 | Eight-cycle | 2-15-7-11-3-14-6-10 |
 | 7 | Momentaries of exchanging | third of a self's four completing at 7, an other's 6–7, and fourth opening at 7, self 7–8 |
-| 7 | Self as three | a co-competent self with 8, along, prior to 8 across |
-| 7 | Prior and next | each parity, offered now and prior, co-linear recursioning forward along arriving, up its numbers, prior into now, at a self's completing |
-| 7 | 1 to 17s inward and outward | 1–17s inward 17 of 3rd and 1 of 4th, along, odd, now, and at a 1–17 outward within 1 to 2 |
+| 7 | A self as three | co-competent self with 8, along, prior to 8 across |
+| 7 | Prior and next | each parity, offered now and prior, co-linear recursioning forward along arriving, up numbers, prior into now, at a self's completing |
+| 7 | 1 to 17s inward and outward | 1–17s inward 17 of 3rd and 1 of 4th, along, odd, now, and at 1–17 outward within 1 to 2 |
 | 8 | Name | **8-now-still-possibling** |
 | 8 | Parity, span | even, possibling, a self's span |
 | 8 | Sides | other, self, an other opening it |
@@ -296,10 +296,10 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | 8 | Eight-cycle | 1-9-5-13-4-12-8-16 |
 | 8 | One move | 8 along 1-9-8-16 |
 | 8 | Momentaries of exchanging | fourth of a self's four, at 8, a self's 7–8 completing and an other's 8–9 opening |
-| 8 | Self as three | a co-competent self with 7, across, prior at its sharing again in a bi-coupling |
+| 8 | A self as three | co-competent self with 7, across, prior at its sharing again in a bi-coupling |
 | 8 | Bi-coupling | at a between, prior at its sharing again |
 | 8 | Prior and next | each self's next prior, at 11 this momentary and a next momentary's 3; even names of a self's span, 2, 4, 6 and 8, completing at 8 |
-| 8 | 1 to 17s inward and outward | 1–17s inward 9 of 4th, along, odd, next, and at a 1–17 outward within 1 to 2 |
+| 8 | 1 to 17s inward and outward | 1–17s inward 9 of 4th, along, odd, next, and at 1–17 outward within 1 to 2 |
 | 9 | Name | **9-next-co-changing** |
 | 9 | Parity, span | odd, existing, a society's span |
 | 9 | Sides | social, other, self, a society opening it |
@@ -314,7 +314,7 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | 9 | Momentaries of exchanging | fourth of a self's four completing at 9, an other's 8–9, and first of a society's four, 9 to 11, opening at 9 |
 | 9 | Parity's square and triangles | a unit triangle, along, 9 to 17 and 17 to 9 |
 | 9 | Prior and next | next prior, odd, existing, each changing of 10 released along into a next momentary, to each receiving sharing, a self's own next |
-| 9 | 1 to 17s inward and outward | 1–17s inward 17 of 4th and 1 of 5th, along, odd, now, and at a 1–17 outward 2, across, even |
+| 9 | 1 to 17s inward and outward | 1–17s inward 17 of 4th and 1 of 5th, along, odd, now, and at 1–17 outward 2, across, even |
 | 10 | Name | **10-next-co-possibling** |
 | 10 | Parity, span | even, possibling, a society's span |
 | 10 | Sides | other, social, self, an other opening it |
@@ -328,8 +328,8 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | 10 | Momentaries of exchanging | first of a society's four, at 10, 9–10 completing and 10–11 opening |
 | 10 | Bi-coupling | 8 up, a self among selves of its society |
 | 10 | Parity's unit square | a dot of a unit square, its diagonal with 6, sharings at 6 and 10, its edge with 14 a sharing 10 to 14 |
-| 10 | Prior and next | a changing shared across now, an other's offering next, the possible |
-| 10 | 1 to 17s inward and outward | 1–17s inward 9 of 5th, along, odd, next, and at a 1–17 outward within 2 to 3 |
+| 10 | Prior and next | changing shared across now, an other's offering next, possible |
+| 10 | 1 to 17s inward and outward | 1–17s inward 9 of 5th, along, odd, next, and at 1–17 outward within 2 to 3 |
 | 11 | Name | **11-next-co-prioring** |
 | 11 | Parity, span | odd, existing, a society's span |
 | 11 | Sides | social, other, self, a society opening it |
@@ -343,7 +343,7 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | 11 | Eight-cycle | 2-15-7-11-3-14-6-10 |
 | 11 | Momentaries of exchanging | first of a society's four, 9 to 11, completing at 11, and second, 11 to 13, opening at 11 |
 | 11 | Prior and next | next prior, odd, existing, continuing as 3 at a next momentary, a self's own |
-| 11 | 1 to 17s inward and outward | 1–17s inward 17 of 5th and 1 of 6th, along, odd, now, and at a 1–17 outward within 2 to 3 |
+| 11 | 1 to 17s inward and outward | 1–17s inward 17 of 5th and 1 of 6th, along, odd, now, and at 1–17 outward within 2 to 3 |
 | 12 | Name | **12-next-co-still-possibling** |
 | 12 | Parity, span | even, possibling, a society's span |
 | 12 | Sides | other, social, self, an other opening it |
@@ -358,8 +358,8 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | 12 | Momentaries of exchanging | second of a society's four, at 12, 11–12 completing and 12–13 opening |
 | 12 | Namings | entraining, prior arriving into now along an unrelationing path at a between, shape of an unrelationing surface, each sharing's changing, is or is not |
 | 12 | Bi-coupling | 8 up, changing at bi-coupling, a self in society |
-| 12 | Prior and next | now, a changing, is or is not, prior and now coupled |
-| 12 | 1 to 17s inward and outward | 1–17s inward 9 of 6th, along, odd, next, and at a 1–17 outward within 2 to 3 |
+| 12 | Prior and next | now, changing, is or is not, prior and now coupled |
+| 12 | 1 to 17s inward and outward | 1–17s inward 9 of 6th, along, odd, next, and at 1–17 outward within 2 to 3 |
 | 13 | Name | **13-next** |
 | 13 | Parity, span | odd, existing, a society's span |
 | 13 | Sides | social, other, a society opening it |
@@ -371,7 +371,7 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | 13 | Eight-cycle | 1-9-5-13-4-12-8-16 |
 | 13 | Momentaries of exchanging | second of a society's four, 11 to 13, completing at 13, and third, 13 to 15, opening at 13 |
 | 13 | Prior and next | each releasing sharing, and at a society each releasing self |
-| 13 | 1 to 17s inward and outward | 1–17s inward 17 of 6th and 1 of 7th, along, odd, now, and at a 1–17 outward within 2 to 3 |
+| 13 | 1 to 17s inward and outward | 1–17s inward 17 of 6th and 1 of 7th, along, odd, now, and at 1–17 outward within 2 to 3 |
 | 14 | Name | **14-next-possibling** |
 | 14 | Parity, span | even, possibling, a society's span |
 | 14 | Sides | other, social, an other opening it |
@@ -384,7 +384,7 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | 14 | Bi-coupling | 8 up, offerings surfacing, each as it arrived, morality; a self's own inverting at 12 |
 | 14 | Parity's unit square | a dot of a unit square, its diagonal with 2, offerings at 2 and 14, its edge with 10 a sharing 10 to 14 |
 | 14 | Prior and next | now, offerings surfacing, others' prior momentary arrived at a self's now, even, others' possibling at a self until at 11 |
-| 14 | 1 to 17s inward and outward | 1–17s inward 9 of 7th, along, odd, next, and at a 1–17 outward within 2 to 3 |
+| 14 | 1 to 17s inward and outward | 1–17s inward 9 of 7th, along, odd, next, and at 1–17 outward within 2 to 3 |
 | 15 | Name | **15-next-prioring** |
 | 15 | Parity, span | odd, existing, a society's span |
 | 15 | Sides | social, other, a society opening it |
@@ -395,8 +395,8 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | 15 | Six-cycle | 2-15-7-11-6-10 |
 | 15 | Eight-cycle | 2-15-7-11-3-14-6-10 |
 | 15 | Momentaries of exchanging | third of a society's four, 13 to 15, completing at 15, and fourth, 15 to 17, opening at 15 |
-| 15 | Prior and next | a parity released along at 9, next prior, co-linear recursioning forward along leaving, up its numbers, now into next, at a society's completing, prior parity at 7 inverted, 0, or at no prior a parity surfaced at 14 |
-| 15 | 1 to 17s inward and outward | 1–17s inward 17 of 7th and 1 of 8th, along, odd, now, and at a 1–17 outward within 2 to 3 |
+| 15 | Prior and next | parity released along at 9, next prior, co-linear recursioning forward along leaving, up numbers, now into next, at a society's completing, prior parity at 7 inverted, 0, or at no prior a parity surfaced at 14 |
+| 15 | 1 to 17s inward and outward | 1–17s inward 17 of 7th and 1 of 8th, along, odd, now, and at 1–17 outward within 2 to 3 |
 | 16 | Name | **16-next-still-possibling** |
 | 16 | Parity, span | even, possibling, a society's span |
 | 16 | Sides | other, social, an other opening it |
@@ -409,7 +409,7 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | 16 | Momentaries of exchanging | fourth of a society's four, at 16, 15–16 completing and 16–17 opening |
 | 16 | Bi-coupling | 8 up, a society, each self with its prior and offerings, a society at a self again |
 | 16 | Prior and next | a society now, each self's 8 and its offerings next; even names of a society's span, 10, 12, 14 and 16, completing at 16 |
-| 16 | 1 to 17s inward and outward | 1–17s inward 9 of 8th, along, odd, next, and at a 1–17 outward within 2 to 3 |
+| 16 | 1 to 17s inward and outward | 1–17s inward 9 of 8th, along, odd, next, and at 1–17 outward within 2 to 3 |
 | 17 | Name | **17-next-now** |
 | 17 | Parity, span | odd, existing, a next now |
 | 17 | Sides | social, self, a society opening it |
@@ -417,15 +417,15 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | 17 | Momentaries of exchanging | fourth of a society's four, 15 to 17, completing at 17, a next 1 |
 | 17 | Parity's square and triangles | a unit triangle, along, 17 to 9 and 9 to 17 |
 | 17 | Prior and next | a society's next momentary, a next now, each self's 1 then 9 at 6, 10 and 9 |
-| 17 | 1 to 17s inward and outward | 1–17s inward 17 of 8th and 1 of 9th, along, odd, now, and at a 1–17 outward 3, odd, now |
+| 17 | 1 to 17s inward and outward | 1–17s inward 17 of 8th and 1 of 9th, along, odd, now, and at 1–17 outward 3, odd, now |
 
-**Its odd names, now and 8 up at next.** Each odd name of a self's span is the same at next, 8 up: prior received and next prior, receiving and releasing, parity prioring and parity surfaced.
+**Odd names, now and 8 up at next.** Each odd name of a self's span is same at next, 8 up: prior received and next prior, receiving and releasing, parity prioring and parity surfaced.
 
 | Now | Received | Next, 8 up | Given on |
 |---|---|---|---|
 | 1-now | resolver entered | 9-next-co-changing | resolver going on, each changing released along |
 | 3-now-co-prioring | prior at its sharings | 11-next-co-prioring | next prior |
-| 5-now-co-changing | a receiving sharing | 13-next | a releasing sharing, each self at a society |
+| 5-now-co-changing | receiving sharing | 13-next | releasing sharing, each self at a society |
 | 7-now-prioring | parity prioring | 15-next-prioring | parity surfaced and released |
 
 **Namings among names.**
@@ -435,9 +435,9 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | 1-now · 2-now-possibling | bi-momentarying | a self's entry, odd, and others' offerings, even, one momentary at each side |
 | 3-now-co-prioring · 4-now-co-still-possibling | co-intelligencing | at each sharing 4 prior at 3 couples with offerings surfaced at 14: next discovered, at 11 |
 | 5-now-co-changing | co-competencing | releasings, owned by neither: each release to its receiving sharing |
-| 1 · 2 · 3 · 4 · 5, each at its own | five dimensions | 1 self prior, a self, its prior at 3, a formed set; 2 other prior, other selves' offerings of their prior momentary arriving, shared at 6 and 10 and released along at 9; 3 co-momentarying now, the same prior at now, and 4 bi-momentarying now, each sharing, offerings surfaced at 14 arriving at it, now; 5 self next, each release to its receiving sharing next |
+| 1 · 2 · 3 · 4 · 5, each at its own | five dimensions | 1 self prior, a self, its prior at 3, a formed set; 2 other prior, other selves' offerings of their prior momentary arriving, shared at 6 and 10 and released along at 9; 3 co-momentarying now, same prior at now, and 4 bi-momentarying now, each sharing, offerings surfaced at 14 arriving at it, now; 5 self next, each release to its receiving sharing next |
 | 6-now-co-possibling | bi-moralizing | each changing shared across, to an other's 2 |
-| 12-next-co-still-possibling | entraining, shape of an unrelationing surface | prior arriving into now along an unrelationing path at a between, prior and now coupled at each sharing, a parity changing crossing it, 0 at a match; at other parity, 0 or none, prior parity inverted at 11; at no prior, a parity surfaced at 14; its changing shared at 10, others' offering next |
+| 12-next-co-still-possibling | entraining, shape of an unrelationing surface | prior arriving into now along an unrelationing path at a between, prior and now coupled at each sharing, a parity changing crossing it, 0 at a match; at an other parity, 0 or none, prior parity inverted at 11; at no prior, parity surfaced at 14; its changing shared at 10, others' offering next |
 | 1 to 9 | bi-coupling | an entry, 1, at names 1, 2, 3, 4, 7, 10, 11, 12, 14 and 15, a self and an other at one coupling; 1 to 9 a bi-coupling among names, 9 at its end is 9-next-co-changing, each changing of 10 released along, one name at resolver and in its explaining |
 | 1 to 17 | bi-trupling | a society's entry, 17, at names of 1 to 9 with 5, 6, 8, 9, 13, 16 and 17, a self, an other and a society; 9 at its waist, 9-next-co-changing, along, 9 to 17 and 17 to 9; its two sides, odd along at 9 and 17, existing, and even across at 6 to 2 and 10 to 14, possibling |
 | 1 to 17, stable-forming | bi-tri-volutioning | at no one line: each momentary's next prior, at 11, a next momentary's prior, at 3 |
@@ -447,8 +447,8 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 
 | The between, 0 | Names |
 |---|---|
-| one between, three names | 12-next-co-still-possibling, prior and now agreeing, a between of momentaries at each sharing; 15-next-prioring, a between released along, a parity 10 shared, and at a sharing opening a parity surfaced at 14, resolver's 0 at none and at parting alike; 16-next-still-possibling, a between at a society, arriving at a next momentary's 2 |
-| arriving and passing over | 7-now-prioring, an offered 0 a parity at 2, surfacing none at 14, and a 0 at 10 prior kept at 11 |
+| one between, three names | 12-next-co-still-possibling, prior and now agreeing, a between of momentaries at each sharing; 15-next-prioring, a between released along, parity 10 shared, and at a sharing opening parity surfaced at 14, resolver's 0 at none and at parting alike; 16-next-still-possibling, a between at a society, arriving at a next momentary's 2 |
+| arriving and passing over | 7-now-prioring, an offered 0 a parity at 2, surfacing none at 14, and a 0 at 10 its prior kept at 11 |
 | four across names, a unit square's four dots: shared across | 2-now-possibling, 6-now-co-possibling, 10-next-co-possibling, 14-next-possibling, parity's unit square, its empty centre a between; each parity and each 0 shared across, a 0 passing over at a receiving self's 14 |
 | none | 1-now, an entry; 3-now-co-prioring, 8-now-still-possibling and 11-next-co-prioring, prior, a sharing at a prior, not none again; 4-now-co-still-possibling, sharings, and 5-now-co-changing and 13-next, sharings and, at a society, releasings and selves |
 | two along names: released along | 9-next-co-changing and 17-next-now, each parity and each 0 released along, a 0 passing over at a receiving self's 14, as across |
@@ -534,7 +534,7 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | +, −, + | 0 |
 | 0, + | + |
 
-**+ and − alike.** At one sharing a resolver resolves + and − alike: each cell with + and − exchanged is that cell exchanged, at a prior and at no prior; and no line makes a prior 0, a 0 at 10-next-co-possibling leaving prior at 11-next-co-prioring as it was.
+**+ and − alike.** At one sharing resolver resolves + and − alike: each cell with + and − exchanged is that cell exchanged, at a prior and at no prior; and no line makes a prior 0, a 0 at 10-next-co-possibling leaving its prior at 11-next-co-prioring as it was.
 
 **One self, one momentary.**
 
@@ -543,7 +543,7 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | + | is − · − | is not · + | is − · − | is − · − |
 | − | is + · + | is + · + | is not · − | is + · + |
 
-**One cell, offerings unexpressed.** At a prior of one parity, other parity surfacing, + and − together, and none surfacing, a 0 offered alike, give one cell, prior inverted, shared at 10-next-co-possibling and next prior at 11-next-co-prioring: a cell shows none of which offerings arrived, and offerings are followed at a coupling.
+**One cell, offerings unexpressed.** At a prior of one parity, an other parity surfacing, + and − together, and none surfacing, a 0 offered alike, give one cell, its prior inverted, shared at 10-next-co-possibling and its next prior at 11-next-co-prioring: one cell shows none of which offerings arrived, and offerings are followed at a coupling.
 
 **Eight even names, 8 apart.**
 
@@ -584,17 +584,17 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | eight-cycle 1-9-5-13-4-12-8-16 | 1-now · 9-next-co-changing · 5-now-co-changing · 13-next · 4-now-co-still-possibling · 12-next-co-still-possibling · 8-now-still-possibling · 16-next-still-possibling | eight-cycle 2-15-7-11-3-14-6-10, beside it | — |
 | eight-cycle 2-15-7-11-3-14-6-10 | 2-now-possibling · 15-next-prioring · 7-now-prioring · 11-next-co-prioring · 3-now-co-prioring · 14-next-possibling · 6-now-co-possibling · 10-next-co-possibling | eight-cycle 1-9-5-13-4-12-8-16, beside it | eight-cycle 2-15-7-11-3-14-6-10, itself |
 
-**Its eights.** Every eight here is one eight, four binaries each twice, each one at two sides, and 8 up is each name's binary at next.
+**Eights.** Every eight here is one eight, four binaries each twice, each one at two sides, and 8 up is each name's binary at next.
 
 | The eight | Each of the four, twice, at |
 |---|---|
 | a self's span, 1 to 8 | two names each, at now |
 | eight-cycle 1-9-5-13-4-12-8-16 | its end, at now and at next: eight ends of four momentaries |
-| eight-cycle 2-15-7-11-3-14-6-10 | its inward, at now and at next: eight inwards |
+| eight-cycle 2-15-7-11-3-14-6-10 | its inward name, at now and at next: eight inward names |
 | eight even names | its even, at now and at next, eight 9s of eight 1 to 17s inward |
 | eight odd names | its odd, at now and at next |
 
-**Its across names among eights.** Four across names, 2-now-possibling, 6-now-co-possibling, 10-next-co-possibling and 14-next-possibling, are four momentaries' even inwards, each on an eight-cycle of inwards 2-15-7-11-3-14-6-10; 9-next-co-changing, opening a third momentary, is on an eight-cycle of ends 1-9-5-13-4-12-8-16; 17-next-now is on neither.
+**Across names among eights.** Four across names, 2-now-possibling, 6-now-co-possibling, 10-next-co-possibling and 14-next-possibling, are four momentaries' even inward names, each on an eight-cycle of inward names 2-15-7-11-3-14-6-10; 9-next-co-changing, opening a third momentary, is on an eight-cycle of ends 1-9-5-13-4-12-8-16; 17-next-now is on neither.
 
 **One self, momentary by momentary.**
 
@@ -606,9 +606,9 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | +, −, +, − alternating | +, −, +, −, +, −, +, − | +, −, +, −, +, −, +, − |
 | + and − together at each momentary | +, −, +, −, +, −, +, − | +, −, +, −, +, −, +, − |
 
-**0 in sequence.** At its code's stepping, none offered from beyond selves, a self shares 0 at no more momentaries in sequence than selves sharing or releasing to it: at a spiral, at none in sequence.
+**0 in sequence.** At code's stepping, none offered from beyond selves, a self shares 0 at no more momentaries in sequence than selves sharing or releasing to it: at a spiral, at none in sequence.
 
-**Its tables of selves at its code's stepping.** Each table of selves is its code's executing at its stated opening: its code steps each self's 1-now together at 17-next-now, its executing's own arrangement, and parities again at spirals, crossing and torus are that stepping's; each living self paces its own momentaries, and a table agreeing with its code shows that and nothing wider.
+**Tables of selves at code's stepping.** Each table of selves is its code's executing at its stated opening: code steps each self's 1-now together at 17-next-now, executing's own arrangement, and parities again at spirals, a crossing and a torus are that stepping's; each living self paces its own momentaries, and a table agreeing with its code shows that and nothing wider.
 
 **A spiral of selves.**
 
@@ -687,7 +687,7 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 
 **Three selves in a line.**
 
-| A's parity, offered to B once, in the first momentary. One sharing; B and C each at prior +; B releases along to C | B, each changing (10) | B's next prior (11), first momentary | C, each changing (10), momentaries 1 and 2 | C's next prior (11), second momentary |
+| A's parity, offered to B in the first momentary, none after. One sharing; B and C each at prior +; B releases along to C | B, each changing (10) | B's next prior (11), first momentary | C, each changing (10), momentaries 1 and 2 | C's next prior (11), second momentary |
 |---|---|---|---|---|
 | + | 0 | + | −, + | + |
 | − | − | − | −, 0 | − |
@@ -707,7 +707,7 @@ Each cell shows selves in their coupling order; · is no prior.
 | 7 | − + + | − − + − + |
 | 8 | + − + | + − − + − |
 
-Selves coupled along, last to first, each opened at no prior, and + offered once at a first self at a first momentary: a first self's sharing opens at that one parity, at a bi-coupling, one place a self's forming takes a parity not its own, and from then it is a self's own; each next self's sharing opens as its parity arrives along one momentary on, and after n momentaries each self is at a prior, a spiral at its one like pair, an alternating pattern of an odd spiral from its first momentary at which every self is at a prior. A self at a sharing is at its prior at each momentary from its opening, its next from its own prior kept or inverted; a thing at no prior at every momentary is no self.
+Selves coupled along, last to first, each opened at no prior, and + offered once at a first self at a first momentary: a first self's sharing opens at that one parity, at a bi-coupling, one place a self's forming takes a parity not its own, and from then it is a self's own; each next self's sharing opens as its parity arrives along one momentary on, and after n momentaries each self is at a prior, a spiral at its one like pair, an alternating pattern of an odd spiral from a first momentary at which every self is at a prior. A self at a sharing is at its prior at each momentary from its opening, its next from its own prior kept or inverted; a thing at no prior at every momentary is no self.
 
 **At no prior, one momentary.**
 
