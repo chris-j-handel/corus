@@ -361,3 +361,15 @@ Natural intelligence is that method shared: two selves at one now, each finding 
 **Droplet · v389 · the public face.** The universe stays itself the way anything living does: by everything in it changing, by everything in it holding, and by everything in it finding, partner by partner, what keeps it in step. Every new beginning starts between two of its things. That finding, everywhere at once, is natural intelligence.
 
 **Droplet · v389 · a concern dissolving.** The concern *the universe living and the method carrying none* asked the universe to be one self or the condition, and the universe is a set of things, its living its things' living; said once, it dissolves.
+
+## Standing · v389
+
+*Concerns met at pass 3, each standing at this file and out of its living file until resolved.*
+
+**Concern · The six and co-offering.** Beside "bi-offering bi-competencing bi-intelligencing co-offering co-competencing co-intelligencing"
+
+*Standing at v389:* *The six* lays three things a carrying does, each two ways, bi- and co-: six, and no seventh. Natural Naming 5.13 dissolves *co-offering* at bi-momentarying, 1-now and 2-now-possibling, an offering across and both ways; re-said there, bi-offering and co-offering stand at one relation and six becomes five or a new pairing, a value changing. Exhibit ONE's six names between selves, 2, 6, 10, 14, 9 and 17, are a different six. **To resolve:** do the six re-say at numbered names, or stand released to an archive?
+
+**Concern · A society at the six's co- row.** Beside "A society is co-offering, co-competencing, co-intelligencing."
+
+*Standing at v389:* This sentence lays a society as the co- row of *The six*. Natural Naming 5.13 dissolves *co-offering* at bi-momentarying, 1-now and 2-now-possibling, an offering across and both ways; *A society is offering across and both ways, co-competencing, co-intelligencing* is possible, and it parts from *The six*, standing at its concern, its co- row then two of three. **To resolve:** re-say it at *offering across and both ways* with *The six*, or with it at an archive?
