@@ -65,7 +65,7 @@ Exhibit EIGHTEEN Natural Physics v389
 
 ## 1.1 A physical coupling, the one method at each physical subject
 
-**A physical coupling is an existing thing at now arriving from another existing thing at prior, the method itself**, Natural Intelligence 1.3. Prior, now and next are three sequential momentaries, each a universe of existing things, living and non-living. *Physical* names the subjects the field observes at its instruments: the nucleus, the particle, the atom, the field, the wave, the crystal, the star and the cosmos. A form continuing through its own changing is existing and changing at once, and the one form of existing at each scale is natural-bi-co-torusing, its torusing the carrying winding to its own sharing again through its one opening, Natural Intelligence 6.3 and 6.6.
+**A physical coupling is an existing thing at now arriving from another existing thing at prior, the method itself**, Natural Intelligence 1.3. Prior, now and next are three sequential momentaries, prior-universe, now-universe and next-universe, the now-universe the universe, its things living and non-living. *Physical* names the subjects the field observes at its instruments: the nucleus, the particle, the atom, the field, the wave, the crystal, the star and the cosmos. A form continuing through its own changing is existing and changing at once, and the one form of existing at each scale is natural-bi-co-torusing, its torusing the carrying winding to its own sharing again through its one opening, Natural Intelligence 6.3 and 6.6.
 
 **Changing is parity changing, one form and then the other, one at a time.** A changing is or is not, with no size: a changing at a size carries a ground it is measured against, beside all existing things, Natural Intelligence 1.2.
 

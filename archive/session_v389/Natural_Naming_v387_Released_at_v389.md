@@ -509,3 +509,15 @@ and our universe is all existing things.
 ## Re-said at all societies and species at one prime scale, v389
 
 | **the universe**, the set of all now-existing things,
+
+## Re-said at a universe said of a self, a society or a momentary at a scale, v389
+
+2  at each scale and each momentary, each momentary is a universe of existing things
+
+6  and each universe momentarying its set is tri-bi-co-momentarying
+
+**Tri-bi-co-momentarying names each universe, at each scale and each momentary, momentarying its set of existing things**
+
+each universe momentarying its set, 5.52,
+
+| *inside*, *outside*, *within* said of the set or the universe |

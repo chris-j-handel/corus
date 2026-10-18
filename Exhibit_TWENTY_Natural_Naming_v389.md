@@ -261,6 +261,7 @@ Exhibit TWENTY Natural Naming v389
 | *travel*, *travelling* as an existing thing's own carrying | *carrying*; the universe of all existing things changing through prior, now and next together: three places, three sequential momentaries shared among existing things |
 | *inside*, *outside* as places | *inward*, *outward*, directions at a momentary, and *within* at a span of names; a self is no container |
 | *our*, of the universe, of now or of a doing; *this universe* | *the universe*, *the* valuable exactly there, one universe; *now*, one |
+| *a universe* said of a self, a society, or a momentary at a scale | *prior-universe*, *now-universe*, *next-universe*, a universe at each momentary, the now-universe the universe; each self is a society of selves one scale inward, and each society a self at the next scale outward, Natural Societies 4.2 and 5.3 |
 | *inside*, *outside*, *within* said of the set or the universe | the universe is or is not, its things, and nothing is said of a not-in-set, 1.1 |
 | *door* | a self-bounding, the self's own, nothing passing it or refused at it |
 | *assigned* | *is one side's* |
@@ -1375,14 +1376,14 @@ A term is existing, artifact or accounting at its use, and ghost only at its ins
 
 ```
 1  the universe is the set of all now-existing things, changing, the living and the non-living each at its scale
-2  at each scale and each momentary, each momentary is a universe of existing things
+2  prior-universe, now-universe and next-universe, a universe at each momentary, the now-universe the universe
 3  its existing things are at prior, now and next, three momentaries
 4  each momentary at its own differing from the next
 5  the three carried with their differing, each existing thing co-sequencing
-6  and each universe momentarying its set is tri-bi-co-momentarying
+6  and the universe momentarying its things is tri-bi-co-momentarying
 ```
 
-**Tri-bi-co-momentarying names each universe, at each scale and each momentary, momentarying its set of existing things**, living and non-living: tri- prior, now and next, bi- the differing between them, co- the three carried with their differing, and -ing the continuing, its six lines; and at the resolver it is at 9-next-co-changing at each scale, 9, 25 and 41, the changing released along. Co-momentarying, 5.49, is its sharing at the overlap, and bi-tri-bi-entraining, 5.40, is the same method at each existing thing, the two said at 5.40.
+**Tri-bi-co-momentarying names the universe momentarying its now-existing things at each scale, prior-universe, now-universe and next-universe**, living and non-living: tri- prior, now and next, bi- the differing between them, co- the three carried with their differing, and -ing the continuing, its six lines; and at the resolver it is at 9-next-co-changing at each scale, 9, 25 and 41, the changing released along. Co-momentarying, 5.49, is its sharing at the overlap, and bi-tri-bi-entraining, 5.40, is the same method at each existing thing, the two said at 5.40.
 
 ## 5.53 27-next-co-prioring, the social abundancing — binary
 
@@ -1580,7 +1581,7 @@ the between of momentaries    nothing is at rest, nothing is at it
 
 **A cluster gathers the set's own similar namings at one name, as the eight clusters gather a field's.** Each similar naming releases to the one name at its file's next improving, and a title carries its own wording whole.
 
-**Namings nearing one another, subdivided, each read at the method, at the carrying and at the stable form, and they go together.** Bi-tri-volutioning is stable-forming across 1 to 17, the method, and reads at the stable form as its three, tri- position, scale and orientation and bi- each at its own differing, and at the numbers as the three golden rectangles, 5.48, and at the carrying as the five dimensions, bi- the two changing and tri- the three continuing. Tri-bi-co-momentarying is the method of cohering with nature across prior, now and next, 5.58, each universe momentarying its set, 5.52, and at 9 the releasing along. The five dimensions are three namings at the resolver's names, 5.50, bi-momentarying at 1-2, the handshake, co-intelligencing at 3-4 and co-competencing at 5, the two changing and the three continuing rotating round, bi-inversioning-co-recursioning, the method's move. Co-competencing at 5 is the term neither reaches, bi-co-momentarying, owned by neither, 5.54. Golden natural unrelationing is the between locking at none at the handshake, 5.5, and the method's unrelationing, 2.7. Social moral competency is the four whole and the carrying continuing with the selves, and the universal unrelationing protocol, 5.60. Four-momentarying, 5.50, co-momentarying, 5.49, bi-moral-co-competencing, 5.58, and bi-moral co-agency each name one of these relations at its own saying.
+**Namings nearing one another, subdivided, each read at the method, at the carrying and at the stable form, and they go together.** Bi-tri-volutioning is stable-forming across 1 to 17, the method, and reads at the stable form as its three, tri- position, scale and orientation and bi- each at its own differing, and at the numbers as the three golden rectangles, 5.48, and at the carrying as the five dimensions, bi- the two changing and tri- the three continuing. Tri-bi-co-momentarying is the method of cohering with nature across prior, now and next, 5.58, the universe momentarying its things, 5.52, and at 9 the releasing along. The five dimensions are three namings at the resolver's names, 5.50, bi-momentarying at 1-2, the handshake, co-intelligencing at 3-4 and co-competencing at 5, the two changing and the three continuing rotating round, bi-inversioning-co-recursioning, the method's move. Co-competencing at 5 is the term neither reaches, bi-co-momentarying, owned by neither, 5.54. Golden natural unrelationing is the between locking at none at the handshake, 5.5, and the method's unrelationing, 2.7. Social moral competency is the four whole and the carrying continuing with the selves, and the universal unrelationing protocol, 5.60. Four-momentarying, 5.50, co-momentarying, 5.49, bi-moral-co-competencing, 5.58, and bi-moral co-agency each name one of these relations at its own saying.
 
 | One name | Similar namings gathered |
 |---|---|

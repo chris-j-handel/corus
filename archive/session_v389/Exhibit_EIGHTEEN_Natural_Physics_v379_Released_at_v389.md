@@ -15,3 +15,7 @@ light a living society of selves phase-relating
 ## Re-said at our dissolved, the universe where the is valuable, v389
 
 Both hands are this universe's one binary
+
+## Re-said at a universe said of a self, a society or a momentary at a scale, v389
+
+Prior, now and next are three sequential momentaries, each a universe of existing things, living and non-living.

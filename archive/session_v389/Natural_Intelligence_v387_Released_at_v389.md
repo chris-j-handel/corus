@@ -487,3 +487,13 @@ each is stable-forming a self at some scale, its own or its selves inward**.
 ## Re-said at all societies and species at one prime scale, v389
 
 where at a composite number the equal smaller sets come again first and the between never closes as one, 3.5.
+
+## Re-said at a universe said of a self, a society or a momentary at a scale, v389
+
+At each scale each momentary is a universe of existing things, the universe now at that scale, and each universe is tri-bi-co-momentarying its set of existing things, prior, now and next:
+
+**The one universe of one momentary is one parity changing co-sequencing.** The momentary is all existing things at its scale, a universe of existing things, living and non-living, and nothing is beside it.
+
+each momentary a universe at its scale, 1.2:
+
+and each self and each society is a universe, 1.1;
