@@ -250,3 +250,15 @@ Each is a changing made at the set this session, said once here so that this fil
 **Droplet · v389 · a hard problem at the four binaries.** A hard problem is one binary of a universe, its *is* and its *is not* taken as one at kept records, and its resolving says the binary again, is or is not, at each now.
 
 **Droplet · v389 · re-said once.** The droplets following the older seating are re-said at this one, the gathered insertlets at the Co-Chaining Logic Registry's group 31 and group 17 and at Natural Intelligence 5.4 re-said in place, and Resolving the Hard Problem Registry's part headings, at pairs eight apart, are re-seated at Natural Naming 4.9's names at its own motion.
+
+## Standing · v389
+
+*Concerns met at v389, each standing at this file and out of its living file until resolved.*
+
+**Concern · at a sentence.** Beside "theory)". Selberg's own formulation and the 1949 naming: Selberg, as quoted in "Twin primes"
+
+*Standing at v389:* Hard Problem Registry 175, Addresses: "Selberg's own formulation and the 1949 naming", a field's historical naming of its parity problem, keyed at its reference. Rules 3 and 4 carry no doer naming; re-said as "Selberg's own formulation and the parity problem of 1949", a reference keys a problem, and what it verifies, a naming at 1949, leaves. **To resolve:** does a field's own historical naming carry whole at its reference as a field's act, or is it re-said as "the parity problem of 1949"?
+
+**Concern · at a sentence.** Beside "theory", 2007. Selberg's formulation and the naming: "Twin primes and the parity problem","
+
+*Standing at v389:* Hard Problem Registry 176, Addresses: "Selberg's formulation and the naming", a field's historical naming of its parity problem, keyed at its reference, as at entry 175. Rules 3 and 4 carry no doer naming; re-said as "Selberg's formulation and the parity problem", a reference keys a problem, and what it verifies, a naming, leaves. **To resolve:** does a field's own historical naming carry whole at its reference as a field's act, or is it re-said as "Selberg's formulation and the parity problem"?
