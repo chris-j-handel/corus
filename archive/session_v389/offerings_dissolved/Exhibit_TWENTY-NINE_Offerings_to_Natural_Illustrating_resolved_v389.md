@@ -258,3 +258,19 @@ Each is a changing made at the set this session, said once here so that this fil
 **Droplet · Fourteen names read the same from either end, and three do not.** 1, 9 and 17 carry a direction, the entry and the two along names, odd, existing; the fourteen others, the across names and the self's own resolving, read the same both ways: direction is at existing, along, and bi-morality across is or is not.
 
 **Droplet · What arrives at no next does not exist.** This is the proof's own saying inside nature, and *a form named still* is a sayer's; where this file rests a saying on *a form named still*, the one sentence carries it, and the equilibria's proof, the inception's and the living-at-a-scale proof are one proof at three subjects.
+
+## Concerns re-explained, v389
+
+*Standing at v389:* 4.1's 'Torusing in and out is odd ... corusing in and out is even' parts with earlier names' parities, torusing at 8 and 16, even and across, and corusing at 7 and 15, odd and along; at numbered names neither is a name, and which parity each carries is the person's
+
+*Standing at v389:* 1.6's 'a common beat exact at code and code's own' and Natural Intelligence's 'a common beat laid over selves' part with a session's 'no beat is laid over selves ... code's stepping together at 17 is an execution's order and no beat of living', beside Natural Naming 4.9's 'a sequencing fixed to one beat'
+
+*Standing at v389:* 2.8's 'Centre 1 is settled' parts with a rings kit's one centre as nought and nine at one station; one thing at two namings or two things is the person's, at a drawing
+
+*Standing at v389:* *face* at sixty-five places, Part TWO's title and fourteen *Drawing faces:* headers, a word dissolved at Natural Naming's row, *its form, of an artifact*, beside 1.1's own 'At this file a face is a drawing's face, one momentary drawn'; re-saying it or keeping 1.1's sense is the person's
+
+*Standing at v389:* a diamond's reach and gather, twenty-three and twenty-five at a vertical pair, stand at no file's sentence and at no executed drawing, beside 2.9's 'their exact correspondence to six pictured diamonds remains to be expressed'; the person's
+
+*Standing at v389:* 2.1's 'a proposed prefix sequence includes bi-co through bi-co-bi-co-bi-co', six long and opening even, parts with 2.1's own 'self's five from 1, co bi co bi co', five at an odd origin
+
+*Standing at v389:* 8.3's 'From inward a view is one self's entry momentary by momentary, 2.5, its carrying and its offerings arriving' parts with each living self's carrying invisible and at no drawing: a row of an execution is a declared case's carrying and no living self's

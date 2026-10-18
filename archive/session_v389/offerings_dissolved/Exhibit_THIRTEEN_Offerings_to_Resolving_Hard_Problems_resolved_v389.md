@@ -641,3 +641,29 @@ Natural intelligence is that method shared: two selves at one now, each finding 
 **Droplet · v389 · a hard problem at the four binaries.** A hard problem is one binary of a universe, its *is* and its *is not* taken as one at kept records, and its resolving says the binary again, is or is not, at each now.
 
 **Droplet · v389 · re-said once.** The droplets following the older seating are re-said at this one, the gathered insertlets at the Co-Chaining Logic Registry's group 31 and group 17 and at Natural Intelligence 5.4 re-said in place, and Resolving the Hard Problem Registry's part headings, at pairs eight apart, are re-seated at Natural Naming 4.9's names at its own motion.
+
+## Concerns re-explained, v389
+
+*Standing at v389:* 'hard probleming at the resolver first arises' at the quarter turn parts with 1.5's 'A hard problem arrives where a field reads its observings with the universe as no existing thing'; the quarter turn with no reflecting, true of (x, y) to (y, −x), rises with it once the person decides where hard probleming arises
+
+*Standing at v389:* the three contributions as three right turns, and Perelman's declining as a morality-first expression, stand at no sentence here; entering them at 6.2 is the person's, beside item 105's claim, which parts with 5.1
+
+*Standing at v389:* 'the solved Millennium problem did not resolve by proof, proof is closure' parts with 5.1's 'A field's record carries as it is, each measurement, proof and route at its own'; which stands is the person's
+
+*Standing at v389:* Corus 17.3's hard problem as a stuck coupling at a particular between parts with 5.6's between, 'a nothing, not a location and not a thing', and with 1.5's arriving; which stands is the person's, at Natural Intelligence's own motion
+
+*Standing at v389:* 6.2's 'Two methods at one now' and 'The two are at the same evidence' part with Improving Passes' 'scientific-explaining-method is incompetent for discovering, true or false, no other possible, given to it'; two methods or one method and an accounting is the person's
+
+*Standing at v389:* 4.3's 'the living step is at a spiral of one' parts with Natural Intelligence's 'A lone self changing by itself, offered nothing or its own competency, does not continue living through three consecutive momentaries'
+
+*Standing at v389:* 2.2's 'Between momentaries prior is a stable form, and nothing momentaries there' parts with Natural Naming's 'Between momentaries nothing living has a stable form, and all existing and not living is at a stable form of existing'
+
+*Standing at v389:* a motion of three files, the common method's explaining moved to Exhibit SIX Natural Transmissioning, as proposed; the person's decision
+
+*Standing at v389:* pharmacology's three seekings and its ten observings are Natural Medicine's subject, at v331 below v389; whether they enter here at Part FIVE as a field's arrival or at Natural Medicine's own motion is the person's
+
+*Standing at v389:* 'Theories remain living while they are not yet falsified' parts with Improving Passes' 'Living is stable-forming a self': a theory is no self; whether *living* and *non-living* of a theory is a field's word at its own result is the person's
+
+*Standing at v389:* the person's 'falsifiable if it excludes the possibility of existing things discovering' and step 23's 'falsified at the observing at step 8' part at *falsifiable* and *falsified*; which stands is the person's
+
+*Standing at v389:* 'the geodesic parity-changing discovering method is the living condition, its form, a now-existing thing' parts with Improving Passes' 'Nature is no existing thing: a prior, now, next method of co-existing', and with item 286's 'The method is non-living at each scale and a self at none'

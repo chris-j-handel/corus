@@ -460,3 +460,39 @@ Each is a changing made at the set this session, said once here so that this fil
 **Concern · v389 · at 3.1 and Natural Numbers, the names past 17.** The prior naming carries names at numbers past 17, *22* at moralizing and *27-tri-bi-tri-releasing* at Natural Naming 5.53 among them, a number sixteen up at the same word, and the numbered names say 1 to 17; a name at a number past 17 is yet to be said at the numbered names.
 
 **Droplet · v389 · the resolving direction offered.** 17-next-now is the next 1-now, so a number sixteen up is the same name at the next round: 17 to 24 the self's span again and 25 to 32 the society's, 22 the next round's 6-now-co-possibling and 27 the next round's 11-next-co-prioring, each said *22-now-co-possibling* and *27-next-co-prioring*; whether 27's *releasing*, the society's abundancing released into the social co-chaining, is that next prior at the next round is met at 5.53's own pass.
+
+## Concerns re-explained, v389
+
+*Standing at v389:* 7.1's name *returning*, at its title and its rows 60 and 118, parts with 7.1's 'Primes carry no last' and 'past fifty-nine they open on': a name closing a ring and primes opening on; *its far side* is offered, the person's
+
+*Standing at v389:* 1.4's 'At resolver + and − are an implementing of a parity and 0 a between' parts with a saying of the between as a bi-coupling and 0 as its changing that is not; one word at 0 is Natural Naming's, the person's
+
+*Standing at v389:* 1.4's 'Even returning, odd advancing, alternating parity' parts with Natural Naming 5.21's 'each step adds a next, the already-reached carrying none': advancing at each number, or at odd only
+
+*Standing at v389:* a saying computed at no place, natural torusing one tunneling with its ends two and fifty-nine; it rises only once 7.7's crossings are computed, the person's next at this file
+
+*Standing at v389:* 3.1's 'rate of that unrelationing is φ' parts with its own 'resolver carries it at no line' and with natural resolver as authority: each run of resolver comes to its parities again, a winding that closes, 3.3; whether φ stays unrelationing rate is the person's
+
+*Standing at v389:* 7.7's 'Each prime is at a name of its position' parts with 7.3's 'Seventeen primes, resolver's seventeen names and its six names between selves are three numbers at three subjects': a joining wanting a rule at resolver giving an n-th prime at an n-th name
+
+*Standing at v389:* 5.1's 'All twos are one two and all eights one eight' parts with 10.2's 'Each six is at its own subject ... sharing six couples none to another': one number or a shared numeral, the person's v389 'every eight is the same eight' beside Natural Explaining 4.7's joining at a deriving, item 274
+
+*Standing at v389:* *seam-face*, at twenty-four places and two titles, 4.3 and 6.1, carries *face*, dissolved at Natural Naming's row of *face*; *seam-product* or as it is, is Natural Naming's conferring, the person's
+
+*Standing at v389:* an offered bi-folding at 1 to 8 at 4 and 12, 1 to 12 at 6 and 18 and 1 to 16 at 8 and 24 is two operations, two lines crossing on a round numbering and two folds in sequence; which a bi-folding is, is the person's
+
+*Standing at v389:* 1.1's 'Form is alternating existing is, and a number is that form at one place in its running' parts with Natural Intelligence's natural torusing, no other possible method: a pairing k with N less k holds at any method, and a cohering is no excluding
+
+*Standing at v389:* 7.2's 'Momentaries here are 17's, a society's next momentary running each self's entry once' parts with Natural Intelligence's 'resolver steps each self's entry at 17-next-now together, a common beat laid over selves, and parities again ... are that stepping's'
+
+*Standing at v389:* 'the prior-universe and the next-universe are each existing, all and same and not now' parts with Resolving Hard Problems 1.4's 'Possible is at prior, existing at now and living at next'
+
+*Standing at v389:* which of each binary's two stands at its odd name and which at its even, *is* at existing and *is not* at possibling, is taken from parity and is yet to be shown at each name's line at resolver
+
+## Concerns resolved at v389
+
+**Aimed at a file, Natural Numbers: *seam-face* and *seam-faces* at twenty-seven places, thirty-three sayings, the compound carrying *face*, dissolved at v380R.** Natural Naming at v380R: *face dissolves ... as the name, its side, an emanation's form, a field's word, parity's unit square or is facing, a direction*. Two section titles carry it, 4.3 *Three hundred sixty and four hundred forty, consecutive seam-faces* and 6.1 *Seam-faces, the one eight at the couplings among each number*, and the forms column of the table from 570 to 1010 says *seam-face* at 0, 8, 24, 48, 80, 120, 168, 224, 288, 360 and 440. The file says *The seam-faces run on the eight: (2k + 1)² − 1 = 8 · T_k, eight the first face and each next face that eight at a triangular number, the couplings among k + 1* (255), *The podal within one to a seam-face is its odd centre squared less n* (303), *The ring closes at forty-eight, the seam-face above twenty-four* (309). The naming here is *the name*, and 6.1's own title carries it, *the one eight at the couplings among each number*; a closed surface's faces at 213 and 215 and the centre of a face at 353 are geometry's word and pass. Lines 34, 49, 221, 223, 225, 255, 299, 301, 303, 309, 313, 331, 390, 400, 414, 566, 570, 578, 594, 618, 650, 690, 738, 794, 858, 930, 1010. — v381R scan
+
+*Standing at v389:* carried at v389 at Natural Numbers 4.3, "Three hundred sixty and four hundred forty, consecutive seams"; ready to dissolve.
+
+*Resolved at v389:* carried at v389's released words: consecutive seams at 4.3 and seams at 6.1, seam-face at no place of the file.
