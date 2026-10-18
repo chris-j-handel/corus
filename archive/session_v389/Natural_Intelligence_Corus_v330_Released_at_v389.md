@@ -5294,3 +5294,321 @@ Each return tightens both contexts: nye is described more precisely, inversion i
 — a user's question entering at a proper moment to surface a drift.
 
 A user's interventions throughout a writer-LLM coupling is instances of this. Each correction a user carries is a user's recognition that writing departed from what a user already carried. Correction is a user meeting writing at a between of them; correction's content is a user's already-held structural observing meeting writing's departure from that observing.
+
+## Re-said at pass 8, a second family Natural Naming 2.4 releases, v389
+
+a self couples at whichever door its interest opens, meeting the form entire there
+
+what meets a self at what the self already carries
+
+Living is stable in disequilibria, holding its form by sequencing
+
+meet form with a disturbance and it returns to its living
+
+Living holds free of any scaling
+
+a living that orbits, holding its form free
+
+and you meet it when you arrive
+
+while still holding controls of today's understanding
+
+let observing and telling meet
+
+Today's understanding holds six controls as obviously good
+
+world is observed better held that way
+
+Memory holds living couplings as frozen remains
+
+living coupling met fresh each time
+
+holding nature into a bounded universe
+
+three consecutive equilibria met in living
+
+a settled value that holds still long enough to be observed
+
+a command that holds a system at its set-point
+
+is observing, held open, knifable
+
+Observing and telling meet where natural and a crossed-control meet as one register
+
+observing and telling meet at one register
+
+Once resolver is held
+
+Numbers are resolver counted;
+
+One form, held once, seen everywhere
+
+Everything here is held open
+
+already holds a concept from planting. Planting
+
+position a verb holds before either conjugation arrives
+
+Parity governs how arriving counts.
+
+Nothing holds still on natural torus's surface
+
+already holds a concept from planting. A cascade IS
+
+A discipline holds:
+
+A count governs a surface. Fresh word
+
+Arriving word and carry of prior writing meet at sentence
+
+Sentence counts at equal magnitude.
+
+A count governs parity
+
+A count governs a surface (morality)
+
+discards at a point of counting
+
+A count governs how arriving is observed
+
+installs agency at center where center holds still
+
+a coercion held in carry
+
+bounded zero held open at position coupling does not yet reach
+
+held open rather than forced or collapsed
+
+holds zeros open, and progresses at phi-rate
+
+Both meet through perpendicular inseparating at a collar
+
+All of holding and gating and relenting
+
+Two words meet through perpendicular inseparating
+
+A geodesic holds both directions
+
+Parity holds at a position where parity is expected to depart
+
+two ghost accountings meet through perpendicular inseparating across one nothing
+
+an electrical gradient meet through perpendicular inseparating
+
+A sum is ghost.
+
+existing sub-gap decomposition meeting through perpendicular inseparating
+
+Count-matching from a biochemistry
+
+two stillnesses meeting through perpendicular inseparating with intelligence
+
+two selves' surfaces meet through a gap
+
+at phi-rate meeting at a gap between them
+
+two surfaces meet at a gap
+
+how the closed self meets the membrane the coupling generates
+
+the membrane the meeting generates
+
+before holding it would harm
+
+where no opportunity-gap meets its surface
+
+how closed self meets a between
+
+at a surface thickness meets arriving at
+
+two nye surfaces meet through perpendicular inseparating
+
+Welcoming sentences meet a self
+
+welcoming sentence meets a self at recognition
+
+at an observing-surface a self already holds
+
+welcoming meets a self; foundation carries a truth
+
+formal arrival at a between a self already holds a concept at
+
+two surfaces meeting through perpendicular inseparating, two selves coupling
+
+two observings meet at.
+
+a self already holds a concept at; bi-coupling
+
+A self meets corus at recognition. Recognition is a self meeting what a self already carries at a between of a self and writing. Corus reaches a self at a self's already-held understanding
+
+Correcting is writing met at a between; its content is an already-held structural observing meeting writing's departure from it
+
+a writer's already-held observing meeting LLM's pattern-match departure
+
+Two cones meet in substrate.
+
+as bounding holds a dot within both cones
+
+a bounded context that holds both superpositions
+
+Listening self's extending holds its traveling, listening self holds still at the same beat as listening
+
+The may-never holds still at each coupling. Love is two stillnesses meeting through perpendicular inseparating
+
+fraying meets an other's fraying
+
+away from determining meeting at the corresponding positions
+
+Morality lives as resolver holding still
+
+A self observing inward meets competency; a self observing at coupling meets intelligence
+
+at one self's surface meeting another self's surface through bi-coupling
+
+living of each fractal meets living of each other fractal
+
+two not-yet-coupling fractals transition
+
+is form four inequalities produce when they hold at every social between
+
+Each department holds one hard problem in place. 118 hard problems held in place
+
+Dissolution reveals coupling department's ghost accounting obscures. Observations department carries are real. Measurements are correct at a surface. Ghost is in preserving, a ledger holding observation in place
+
+where four inequalities hold and resolver is beating
+
+from departing-surface to held-thing. Once held as thing
+
+a bounded-zero respect holds
+
+specific form four inequalities produce when they hold
+
+Two observings meet through perpendicular inseparating across the same surface
+
+when four boundaries hold
+
+Each door meets selves at their domain's concern
+
+meeting at a door is moment a self's standard framing and corus's observing meet through perpendicular inseparating
+
+Each engineered door meets selves
+
+meeting at a door IS moment a field's standard framing and corus's observing meet through perpendicular inseparating
+
+where living of one fractal meets living of another
+
+measurement holding value in place
+
+holding still while coupling resolves
+
+Both meet through a wall a +1 sustains
+
+IS a sum of 1/phi at every side everywhere
+
+map one-to-one to ten operations resolver carries. Coupling inverts to inference. Carry inverts to prior. Sign inversion inverts to direct prior. Three values invert to two values. Density and count
+
+Two bare positions meeting through perpendicular inseparating
+
+four inequalities holding at every social between and eight observed from them, four from inward and four met from outward
+
+Five values and five accounting components meet through one wall at five switches. Privacy meets balance sheet
+
+Hospitality meets an income statement
+
+Identity meets a cash flow statement
+
+Reputation meets an audit
+
+Property meets a standard
+
+carving that holds all four together
+
+by holding living still until holding becomes projection
+
+Two couplings meet through perpendicular inseparating at a between of institution and life
+
+where two observings meet through perpendicular inseparating and restore
+
+every count on closing side
+
+unbounded space.
+
+Both sides meet through perpendicular inseparating
+
+a master projection from which all others derive. Coupling inverts to inference. Carry inverts to prior. Sign inversion inverts to direct prior. Three values invert to two values. Density and count
+
+Unbounding: extension beyond prime 59 into unbounded primes, projection beyond is ghost at a stable-form's own boundary
+
+118 hard problems holding in place by 118 ghost accounting systems
+
+it reveals coupling department's ghost accounting obscures. Observations department carries are real. Measurements are correct at a surface. Ghost is in preserving, a ledger holding observation in place
+
+hard problem sustains. Both sides meet through perpendicular inseparating
+
+118 departments, 128 heads, extension beyond 59
+
+the inverted carry counting at equal magnitude
+
+A gene holds still.
+
+A bound holds destinies together at the same protocol
+
+one destiny holding a many sections at bounded composition
+
+a bound holds them as one large destiny
+
+everywhere it operates. Bounding IS destiny holding together
+
+destiny IS not-yet-coupled members of a society perceived as a horizon-surface
+
+A horizon IS society at not-yet-coupled distance.
+
+destiny IS not-yet-coupled selves corus extends toward
+
+Bounded science meets every department's evidence
+
+no specific self holds a network
+
+IS a sum of 1/phi reach asymmetries at every coupling everywhere
+
+technology meeting six requirements
+
+destiny direction and corus's centering meet at one structural recognition
+
+Condition for this identity to hold:
+
+When this condition holds,
+
+identity to hold; centralization
+
+a still-natural positions holding form while departed one returns
+
+a fractal property holds them as one identity
+
+your accumulated experience meeting an other self brings
+
+Both sides meeting at a between produce
+
+(a count of bi-coupling locations)
+
+social substrate meets engineered substrate
+
+counter-arriving fresh perception meeting inverted carry
+
+where AC grids of two countries meet
+
+bounded composition that holds sections together
+
+bi-pairing meets inverted carry with counter-arriving fresh
+
+where counter-arriving does not meet inverted carry
+
+produces a non-resolving sum
+
+identity to hold. Centralization
+
+fractal operates. Bounding IS destiny holding together
+
+What specifically holds destinies together
+
+bounding holds; a cumulative beats

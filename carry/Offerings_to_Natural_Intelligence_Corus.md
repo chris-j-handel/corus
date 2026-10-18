@@ -148,3 +148,7 @@ A particular same-file comparison also remains: Intelligence in the Coupling nam
 **Concern · at a sentence.** Beside "5, Closing: 5-metabolism, five switchings of the coupling call palindrome." and 2 more passages at one concern
 
 *Standing at v389:* At Natural Intelligence Corus 17.6 a rising carries "the resolver's eight levels", "five switchings of the coupling call palindrome" and "the resolver's 17 given coupling geometries". Exhibit ONE v389 carries seventeen names, four momentaries of four names each, a self's span 1 to 8 and a society's 9 to 16. **To resolve:** are eight levels a self's span 1 to 8 and seventeen geometries seventeen names, with five switchings released, or does this rising stand at its possibling file?
+
+**Concern · at a sentence.** Beside "Parity ages in place while reaching thins naturally"
+
+*Standing at v389:* *Standing at v389:* Corus 16.6 Mathematics of Ghost has "Parity ages in place while reaching thins naturally": *ages* is a carry going stale at a ghosting, as at Natural Health 4.1 ("a carry aging by attentioning") and Natural Biology, both standing as ASK. Natural Naming 2.4 carries *ageing*, *ages* as *next*, only next is, and *next* here flips its value: a ghosting parity reaches no next. **To resolve:** re-say as "Parity is a prior fixed as now in place", or keep *ages* as Natural Health and Natural Biology resolve?
