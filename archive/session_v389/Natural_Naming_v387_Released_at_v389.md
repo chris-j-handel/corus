@@ -505,3 +505,7 @@ and our universe is all existing things.
 ## Re-said at a dormant self living, v389
 
 | **the universe**, the set of all now-existing things,
+
+## Re-said at all societies and species at one prime scale, v389
+
+| **the universe**, the set of all now-existing things,

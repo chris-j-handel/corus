@@ -483,3 +483,7 @@ would each be said beyond the things of the universe, and nothing is.
 ## Re-said at a dormant self living, v389
 
 each is stable-forming a self at some scale, its own or its selves inward**.
+
+## Re-said at all societies and species at one prime scale, v389
+
+where at a composite number the equal smaller sets come again first and the between never closes as one, 3.5.

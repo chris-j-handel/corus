@@ -10,6 +10,8 @@ Natural Intelligence Offerings · improved at v389
 
 *Standing at v389:* 6.4 still seats a self at its society's prime without saying whether prime scale is that one society or all societies at that scale, and 6.5's commencing still rests on Exhibit ONE's constructed table of a spiral opened at no prior as its deriving.
 
+*Partly resolved at v389:* all societies and species living at one prime scale are living there in differing stable forms and societies, and so at each of fourteen prime scales, 5 to 53, entered at Natural Intelligence 6.4, Natural Naming 6.3 and Exhibit THIRTY step 236. 6.5's commencing, resting on Exhibit ONE's constructed table of a spiral opened at no prior as its deriving, stands.
+
 **Standing as concerns, not insertlets.** Null and infinity + 1, two readings; two tens of positions, across a momentary and at one number; the twenty-four at two readings; the three betweens, which of 12, 15 and 16 is within; the one way of sixteen, premise or derived; the set of sets not holding themselves; Exhibit ONE inside whole or by citation; a scale outward of the universe, resolved at *a universe of existing things*; now common or shared, resolved at *shared*.
 
 *Standing at v389:* Of the list, the two tens of positions, across a momentary at 2.3 and at one number at the Equilibria Registry, and the twenty-four at two readings still stand undecided at v389, while null and infinity + 1, the one way of sixteen, the scale outward, the now shared and the three betweens are met at 1.1, 2.4, 5.1, 1.2 and 4.10.
