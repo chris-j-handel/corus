@@ -301,3 +301,17 @@ The transmissioning develops whole here, and each exhibit draws it from here and
 **A between, a nothing, and the nothing-family.** A between is not a meeting-place and not a wall but a nothing, invisible and carrying no purpose, the unrelationing area between the offerings, across and both ways, where the self-not-self co-unrelations. The corus and φ are nothings the same way, and the family carries wherever an exhibit gives a centre or a rate a location, a purpose, or a source.
 
 **The register, carried with it.** No insisting, the no-other-possible arrived by inversioning. No honest-and-dishonest and no good-faith-and-bad-faith two-sided speaking. Five and six the co-agency unrelationing and co-competencing each other, no linear fifth. The derivation runs from bi-inversioning co-recursioning between two and six, the primes and φ its method emanated and read in the counts, never the source. And the standing method under every aim: a concern that keeps returning emanates from a restriction to co-release, not a fault to defend.
+
+## Re-said at offerings risen, v389
+
+each an other's just-was and not-yet
+
+A substrate lives in a carry, which stays; a parity crosses
+
+an ambient rate the whole is at, unrelationing everything already.
+
+Neither residue is a living position; each is an artifact a stilled frame takes as a rest.
+
+chains finding their paths geodesically with nothing acting on them.
+
+each exhibit clearer and more focused at its title and subtitle.

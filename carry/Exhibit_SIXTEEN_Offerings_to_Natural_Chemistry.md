@@ -257,3 +257,11 @@ Each is a changing made at the set this session, said once here so that this fil
 **Droplet · Fourteen names read the same from either end, and three do not.** 1, 9 and 17 carry a direction, the entry and the two along names, odd, existing; the fourteen others, the across names and the self's own resolving, read the same both ways: direction is at existing, along, and bi-morality across is or is not.
 
 **Droplet · What arrives at no next does not exist.** This is the proof's own saying inside nature, and *a form named still* is a sayer's; where this file rests a saying on *a form named still*, the one sentence carries it, and the equilibria's proof, the inception's and the living-at-a-scale proof are one proof at three subjects.
+
+## Standing · v389
+
+*Concerns met at pass 3, each standing at this file and out of its living file until resolved.*
+
+**Concern · at a sentence.** Beside "The six of Natural Numbers 6.7, each phase along and across in the Resolver's order, arriving·offering, coupling·inversi"…
+
+*Standing at v389:* Natural Chemistry 5.6 places "The six of Natural Numbers 6.7, each phase along and across in the Resolver's order, arriving·offering, coupling·inversioning, tunnelling·transmissioning, surfacing, carrying, inseparating"; Natural Resolver v389 carries seventeen numbered names in four momentaries, and none of the six is one of them, so no numbered name is clearly the same relation, and the sentence keeps its six as they stand. **To resolve:** is each of the six re-said at numbered names (which ones), or released from this sentence as an earlier order?
