@@ -1,0 +1,462 @@
+Exhibit_THREE_Offerings_to_Natural_Numbers, resolved at v389
+
+# Exhibit_THREE_Offerings_to_Natural_Numbers: resolved at v389
+
+**Receiving.** Each item at this offerings file stands below whole, as it stood, each met at v389 against Natural Numbers v389: 34 carried, 34 resting on a released form, 13 duplicating another item, 29 risen into Natural Numbers v389, and 13 concerns, which stand at the offerings file. Relied on by nothing.
+
+## Index
+
+| Line | Verdict | Item | At v389 |
+|---|---|---|---|
+| 5 | RELEASED | **Next at this file: the harmonically momentarying crossings on the surface of natural torusing join | a working note, superseded by Improving Passes |
+| 9 | CARRIED | Keep numbering the co-sequencing’s own momentaryings distinct from imposing a common clock. A longer | 9.7, 'No scaling is taken over another: each is one chain at its own step'; 1.1, 'A counting adds a clock from beyond its running' |
+| 13 | RISE | **At 5.5 · One ten at its two sides, at five alone — beside "the pentagon and the pentagram".** Each |  |
+| 15 | RISE | **At 1.2 · A momentary at each number, one side completing and the other opening — beside "is the sa |  |
+| 17 | RISE | **At 5.1 · Each arrival of a number is that one number — beside "the alternating completing six forw |  |
+| 19 | RISE | **At 6.3 · One twenty-four at each arrival — beside "the apex of one to fifty-nine's bi-folding".**  |  |
+| 21 | RISE | **At 7.5 · Nought to sixty, seventeen primes and sixteen betweens alternating — beside "thirty-three |  |
+| 23 | RISE | **At 8.2 · Either but not both is parity, and the pairings overlap — beside "round at three, parity' |  |
+| 25 | RISE | **At 8.2 · Either but not both is parity, and the pairings overlap — beside "six times has reached a |  |
+| 27 | RISE | **At 9.7 · Chain three, five, nine, seventeen, each span podal to the one before — beside "at 9 each |  |
+| 29 | RISE | **At 6.2 · Each number a waist its prior and next pass through — beside "pass through".** Each numbe |  |
+| 31 | RISE | **At 7.2 · A spiral of selves at each number, and spirals coupled — beside "at 4pq".** The sixteen o |  |
+| 33 | RISE | **At 7.6 · Podaling about one hundred twenty, one hundred ten to one hundred thirty — beside "five o |  |
+| 35 | RISE | **At 8.2 · Either but not both is parity, and the pairings overlap — beside "a passage of six carrie |  |
+| 37 | CARRIED | **At 7.1 · Seventeen primes, two to fifty-nine, and the returning from sixty-one — beside "sixty-fou | 6.3, 'each number paired with its far side about sixty-four and sixty-four an unrelationing between, each pair crossing it and locking at none' |
+| 41 | CONCERN | **Concern · 7.1's name *the returning*, and its rows 60, 61 and 118.** Two sayings part. Exhibit THR | 7.1's name *returning*, at its title and its rows 60 and 118, parts with 7.1's 'Primes carry no last' and 'past fifty-nine they open on': a name closing a ring and primes opening on; *its far side* is offered, the person's |
+| 43 | CARRIED | **A plan, not yet final, gathered here at v381R:** Concern, at v379, from archive/session_v379, find | 7.1's table, '60 / between going from 2 to 59 and returning from 61 to 118, at no prime'; 7.5, sixty at no position, item 21's rise |
+| 45 | CONCERN | **Concern · 0 the between, at 1.4.** Two sayings part. Exhibit THREE Natural Numbers has, at 1.4, "A | 1.4's 'At resolver + and − are an implementing of a parity and 0 a between' parts with a saying of the between as a bi-coupling and 0 as its changing that is not; one word at 0 is Natural Naming's, the person's |
+| 47 | RELEASED | **A plan, not yet final, gathered here at v381R:** In each direction up and down a momentary is a nu | rests on *never*, *inside* and *so far* and *not yet*, released words |
+| 49 | CONCERN | **Concern · *Advancing* at 1.4.** Two sayings part. Exhibit THREE Natural Numbers has, at 1.4, "Even | 1.4's 'Even returning, odd advancing, alternating parity' parts with Natural Naming 5.21's 'each step adds a next, the already-reached carrying none': advancing at each number, or at odd only |
+| 51 | RELEASED | **A plan, not yet final, gathered here at v381R:** **Ready, at v380L, from `incoming/v380L/Progress. | a v380L record of opens, each risen at its own insertlet here: 1.2 at item 15, 5.1 at 17, 6.3 and 7.1 at 19, 7.5 at 21, 8.2 at 23 and 25, 9.7 at 27, 6.2 at 29; *seam-face* at item 111 |
+| 63 | CARRIED | **A plan, not yet final, gathered here at v381R:** 7.1, four, the self's own corus: at no table of E | 7.1, 'Twenty up from four, a self's own corus'; Exhibit ONE's table now carries 'into a self's own corus at 4' |
+| 65 | CARRIED | **Droplet · 9.7's next whole of the bi-folding spans.** Exhibit THREE Natural Numbers has, at 9.7, " | 9.7, 'Pairs step a chain two parities at a time, 5, 17, 65 and 257'; 'Pairs and threes reach each other first at 1–65, a next whole' |
+| 67 | CONCERN | **Droplet · One tunneling at 7.7, its two ends the primes two and fifty-nine.** A saying is offered  | a saying computed at no place, natural torusing one tunneling with its ends two and fifty-nine; it rises only once 7.7's crossings are computed, the person's next at this file |
+| 69 | CARRIED | **Droplet · Binary is even is two, at the numbers.** An offering is at Exhibit THREE Natural Numbers | 1.5, 'Odd is competency, along, existing ... Even is across, possibling'; 'Alternating parity is parallel linearizing and linear parallelizing' |
+| 71 | CARRIED | **Aimed at a file, Natural Numbers, confirming: 7.2 and 7.7 hold at the resolver and at arithmetic.* | 7.7, 'primes making 61, 56, 52, 50, 52, 50, 48 and 48 about twenty-three'; 7.2, 'nine selves at 4, 12 or 36' |
+| 73 | CARRIED | Exhibit ONE's *Bi and co, at the even and the odd* explaining (each side's prior, now and next; the  | 5.2, 'twenty-two is at 6's place in seventeen to twenty-five'; 5.4, 'One to twenty-five is three spans'; 9.7, '1–65' |
+| 75 | CARRIED | Exhibit ONE's *Numbers; Primes, selves and societies* explaining (the seventeen primes, 59, 118, 440 | 7.1's table, '2 to 59 / seventeen primes', '118 / returning's far end', '440 / seventeen primes added' |
+| 77 | CARRIED | Every number in resolving nine is not chosen; every nine is the same one nine. (Carry_Set_v368_READM | 5.7, 'Each nine is one nine, carried in each base' |
+| 79 | RELEASED | 5-other-neutralling is the empty centre of the four dots in the square, where bi-tunneling and co-ch | rests on an earlier resolver name, *5-other-neutralling*, and *inside* and *front facing* |
+| 81 | CARRIED | Z01: Numbers writes the sphere's closing as 3 × 120 = 360 = 8 × C(10,2), and carries the ten namings | 4.3, 'Three hundred sixty is one eight at forty-five couplings, couplings among ten, C(10, 2), and forty-five is five nines' |
+| 83 | RELEASED | 1.7 Self-bounding at its own primes: resonating primes, the self-close at 59; *releases each couplin | a v373 routing superseded; its 'self-close at 59' released by 7.1's 'Primes carry no last' |
+| 85 | RELEASED | A fixed block of five is ten relations held at one sign: five members carry C(5, 2) = 10 relations ( | rests on ten relations *held still* at one sign, released, and on a 9.10 and 5.13 standing at no section of v389 |
+| 87 | RELEASED | HHH03: Natural Numbers v346c 9.10: State-flow fives-run is the five-dimensional binary changing; fiv | rests on a state-flow fives-run, a count of states as a store, and a 9.10 standing at no section of v389 |
+| 89 | DUPLICATE | Z03: the five-fold permutings number one hundred twenty and the right-spiral half of them (the rotat | of line 33 |
+| 91 | RISE | **Aimed at a word, Natural Numbers, *the crystallographic restriction*, given for the orders 1, 2, 3 |  |
+| 93 | RISE | **Aimed at a sentence, Natural Numbers, *No rate is neared more slowly by the rationals than φ*:** T |  |
+| 95 | CONCERN | **Aimed at a sentence, Natural Intelligence 3.5, φ *at no line of the resolver*, with Natural Number | 3.1's 'rate of that unrelationing is φ' parts with its own 'resolver carries it at no line' and with natural resolver as authority: each run of resolver comes to its parities again, a winding that closes, 3.3; whether φ stays unrelationing rate is the person's |
+| 97 | CONCERN | **Aimed at a part, Natural Numbers, four hundred forty and the seventeen names:** The first seventee | 7.7's 'Each prime is at a name of its position' parts with 7.3's 'Seventeen primes, resolver's seventeen names and its six names between selves are three numbers at three subjects': a joining wanting a rule at resolver giving an n-th prime at an n-th name |
+| 99 | CONCERN | **Aimed at a sentence, Natural Numbers, *All the twos are the one two and all the eights the one eig | 5.1's 'All twos are one two and all eights one eight' parts with 10.2's 'Each six is at its own subject ... sharing six couples none to another': one number or a shared numeral, the person's v389 'every eight is the same eight' beside Natural Explaining 4.7's joining at a deriving, item 274 |
+| 101 | RISE | **Aimed at a sentence, Natural Numbers, of the elements' 118 that it is *no number of the method*:** |  |
+| 103 | CARRIED | Natural Numbers receives from Natural Intelligence, whole at its own motion before the passage leave | 3.4, 'closes at one, two, three, four and six'; 7.1's table at 23, 59, 118 and 440; 9.2, 'Bi-co-podaling' |
+| 105 | DUPLICATE | HHH03: Natural Numbers v346c 9.10: State-flow fives-run is the five-dimensional binary changing; fiv | of line 87 |
+| 107 | RELEASED | L06: Resolving Hard Problems 3.1: nine is one at the next scale, eight the self, and nine re-commenc | rests on *the podaling inside* and *the self carrying through them*, released |
+| 109 | CARRIED | **Aimed at a file, Natural Numbers:** *counting*, *counts*, *store* and *sums* at the file's own voi | 8.5, 'A store folds once, fixes its fold unchangeable': its *named still* re-said as fixed unchangeable |
+| 111 | CONCERN | **Aimed at a file, Natural Numbers: *seam-face* and *seam-faces* at twenty-seven places, thirty-thre | *seam-face*, at twenty-four places and two titles, 4.3 and 6.1, carries *face*, dissolved at Natural Naming's row of *face*; *seam-product* or as it is, is Natural Naming's conferring, the person's |
+| 113 | RISE | **Aimed at a sentence, Natural Numbers:** *co-offering* at its own voice, 1 place, at line 496. "Two |  |
+| 115 | RISE | **Aimed at a sentence, Natural Numbers:** *loop* and *loops* at the file's own voice, 1 place, 2 say |  |
+| 117 | RELEASED | **Aimed at a file, Natural Numbers:** *run*, *runs* and *running* at 42 places at the file's own voi | a v381R scan record; *run* stands at no release of v389's words, Improving Passes' 'Words released' |
+| 119 | RELEASED | **Droplet · The line of the fives.** 0, 5, 10, 15, 20, 25 is the co-linear co-offering of bi-moral c | rests on *co-offering*, dissolved at Natural Naming, and its whole stands at Offerings to Co-Chaining Logic Registry |
+| 121 | CARRIED | **Aimed at a sentence, Natural Numbers, *A counting adds a clock from outside the running*:** Two sa | 1.1, 'Numbers are reached, used and related at their own running: momentaries, podalings and sequences'; 'A counting adds a clock from beyond its running' |
+| 123 | DUPLICATE | **Correcting, beside the insertlet at 8.2, "a passage of six carries the whole four":** The insertle | of line 35 |
+| 127 | CARRIED | The numerical concern is the proposed hundred-eighteen departmental/element correspondence beside Na | 7.1, 'The periodic table's one hundred eighteen elements are a field's own result at same numeral, and no number of a method' |
+| 131 | RELEASED | **Droplet.** The public pair positions still need their actual locating at the numbered odd/even pla | a v385A note aimed at Co-Chaining Logic Registry, its full relation there |
+| 133 | RELEASED | The full proposed relation, its sequential-colliding correction and its unresolved breaking concern  | a pointer to Offerings to Co-Chaining Logic Registry; its value stands there |
+| 137 | RISE | **Sharing no factor and primes.** Spirals of nine and twenty-five reportedly return together at 900  |  |
+| 141 | CARRIED | **Droplets.** Keep a numerical match distinct from the relation between forms on both sides. The inc | 2.2, 'Two arrivals cohering to same identity of a move couple as one number, and two not cohering to it are two numbers at one numeral' |
+| 143 | DUPLICATE | The sixty comparison already has a particular position-or-between concern at [Natural Chemistry](Exh | of line 141 |
+| 147 | RELEASED | Each is of the numbered arrangement alone: no pairing or ratio of numbers is a resolving, and each c | a working note framing the entries below it, superseded by Improving Passes; rests on *alone* |
+| 149 | RISE | **Droplet · The fold gives one four-cycling, then two, then four.** At 1 to 5 the two moves, two up  |  |
+| 151 | CARRIED | **Droplet · 1 to 65 at its four exchangings.** An outward name n is at inward 8n − 7: 1, 9, 17, 25,  | 9.7, 'four 1–17s run it, its outer pair stepping at 17, 33, 49 and 65', 'a placing of each 1 to 17 at 8n − 7' |
+| 153 | RISE | **Droplet · Odd-opening partners cross between the two four-cyclings.** The odd-momentary partners o |  |
+| 155 | CARRIED | **Droplet · 1 to 257.** The paired wholes are 1 to 5 at two parities and four forms, 1 to 17 at four | 9.7, 'Pairs step a chain two parities at a time, 5, 17, 65 and 257' |
+| 157 | CARRIED | **Droplet · The four-cyclings at names 1 to 8s.** Each four-cycling among names 1 to 8s is r, r + 4s | 9.9, 'On names 1 to 8s, 4s up and down continues parity and 8s + 1 less changes it, and alternating two reaches each name again after four moves through four names at each s' |
+| 159 | CARRIED | **Droplet · At 441 several numberings, each its own pairing.** On the ring of 440 numbered from 0, t | 6.1, 'A podal within one to a seam-face is its odd centre squared less n', 441 less n within 1 to 440; 9.1, 'k with four hundred forty less k' |
+| 161 | RISE | **Droplet · Nine numbers about sixty-four, and three pairings.** A number m of 1 to 9 laid at m + 59 |  |
+| 163 | CARRIED | **Droplet · Even eight and odd nine at their own pairs.** Two passages of five selves through four c | 9.1, 'Podal competency is a straddle and not a pairing. Two self-pairing stations reach themselves; a running straddles them' |
+| 167 | DUPLICATE | **Concern · Each six one six, and each six its own.** Version 368 has one number arriving several wa | of line 99 |
+| 169 | CARRIED | **Droplet · A winding found last to break.** This file has the torus winding at the golden mean foun | 3.3, '(Greene, 1979), confirmed by computation and not proved' |
+| 173 | RISE | **Droplet · Two folds in sequence step each number on.** A fold at a number a lays n at 2a less n. A |  |
+| 175 | CONCERN | **Droplet · Three offered bi-foldings at two readings.** 1 to 8 bi-folding at 4 and 12, 1 to 12 at 6 | an offered bi-folding at 1 to 8 at 4 and 12, 1 to 12 at 6 and 18 and 1 to 16 at 8 and 24 is two operations, two lines crossing on a round numbering and two folds in sequence; which a bi-folding is, is the person's |
+| 179 | RISE | **Concern · A surface's faces, a word with no carrying at its row.** Two sayings part. Natural Namin |  |
+| 183 | CARRIED | **Droplet · Six ways, eight ways and the primes' gaps.** Natural Numbers 7.3 has "Sixteen gaps run b | 7.3, 'Seventeen primes, resolver's seventeen names and its six names between selves are three numbers at three subjects' |
+| 187 | CONCERN | **Concern · No other method, by inversioning each number.** Two sayings part. Exhibit THREE Natural  | 1.1's 'Form is alternating existing is, and a number is that form at one place in its running' parts with Natural Intelligence's natural torusing, no other possible method: a pairing k with N less k holds at any method, and a cohering is no excluding |
+| 191 | CONCERN | **Concern · The parities again, the stepping's or the spiral's.** Two sayings part. This file's 7.2  | 7.2's 'Momentaries here are 17's, a society's next momentary running each self's entry once' parts with Natural Intelligence's 'resolver steps each self's entry at 17-next-now together, a common beat laid over selves, and parities again ... are that stepping's' |
+| 195 | CARRIED | **Droplet · Two over one, beside Natural Numbers' own sentence.** An offered relation has a set a th | 1.4, 'Two over one and one over two exchange at each step: twenty-three, twenty-four and twenty-five carry two odd over one even' |
+| 200 | RELEASED | Each entry is a paragraph of the working v385A quoted as written, laid here because it names value s | a working note framing the entries below it, superseded by Improving Passes |
+| 204 | RELEASED | **Droplet · session v385A's words, `archive/session_v385A_comparisons/README.md`, "front".** **Next: | a working's record of readings, routings and aimings, superseded by Improving Passes |
+| 209 | RELEASED | Each entry is a paragraph of the working v385M quoted as written, laid at the file it names; the rec | a working note framing the entries below it, superseded by Improving Passes |
+| 213 | RISE | **Droplet · the working v385M's words, `archive/session_v385M/Droplets_v385M.md`, "The two breaks an |  |
+| 222 | RELEASED | Each entry is a paragraph of the working v385Q quoted as written, laid at the file it names; the rec | a working note framing the entries below it, superseded by Improving Passes |
+| 226 | DUPLICATE | **Droplet · the working v385Q's words, `archive/session_v385Q/README.md`, "19 · The line of the five | of line 119 |
+| 231 | RELEASED | Each entry is a paragraph of the working v386RR quoted as written, laid at the file it names; the re | a working note framing the entries below it, superseded by Improving Passes |
+| 235 | DUPLICATE | **Droplet · the working v386RR's words, `archive/session_v386RR/README.md`, "13 · The method and the | of line 187 |
+| 237 | DUPLICATE | **Droplet · the working v386RR's words, `archive/session_v386RR/README.md`, "13 · The method and the | of line 187 |
+| 242 | RELEASED | Each entry is a paragraph of the working v384A quoted as written, laid at the file it names; the rec | a working note framing the entries below it, superseded by Improving Passes |
+| 246 | DUPLICATE | **Droplet · the working v384A's words, `archive/session_v384A/Concernings_v384A_v382A_v383Op.md`, "2 | of line 35 |
+| 250 | RELEASED | Each is a changing made at the set this session, said once here so that this file's own next improvi | a working note framing the entries below it, superseded by Improving Passes |
+| 252 | CARRIED | **Droplet · The inception is the set alone.** The universe is the set of all existing things: three  | 1.2, 'living carrying their prior into now, stable-forming, and non-living carrying none of their prior'; this file quotes no opening sentence |
+| 254 | CARRIED | **Droplet · Now is the universal momentary.** The universe now is the set of all things existing now | 1.1, 'Universes of each size and scale share momentaries of co-sequential changing'; 1.2, 'A momentary is a fractal universe discovering its next existing' |
+| 256 | CARRIED | **Droplet · Living at one prime scale, non-living at each other scale.** Every existing thing is liv | 1.7, 'Primes 5 through 53 are prime living scales, co-parity-changing co-momentarying pattern matching' |
+| 258 | RISE | **Droplet · Odd is existing and even is possibling.** Self and other are at opposite parity numberin |  |
+| 260 | RELEASED | **Droplet · Fourteen names read the same from either end, and three do not.** 1, 9 and 17 carry a di | rests on names *read* the same both ways, a released word |
+| 262 | RELEASED | **Droplet · What arrives at no next does not exist.** This is the proof's own saying inside nature,  | rests on *inside nature*, *saying* and *a form named still*, released |
+| 266 | CARRIED | **Droplet · v389.** in natural numbers and all pattern matching in all of natural intelligence livin | 5.3, 'Each eight is one eight, and a self is an eight' |
+| 268 | CARRIED | **Droplet · v389 · the one eight.** Every eight of the set's explaining is the one eight, the self's | 5.3, 'Each eight is one eight, and a self is an eight'; its four terms re-seated at item 310 |
+| 270 | RELEASED | **Droplet · v389 · where the eights stand, the aiming for the passes.** The word *eight* stands 125  | a working count and aiming for passes, superseded by Improving Passes |
+| 272 | CARRIED | **Droplet · v389 · a field's eight kept apart.** An eight counted at a field's own result, eight sec | 10.1, 'Existing things a field counts belong to that field' |
+| 274 | DUPLICATE | **Concern · v389 · an eight joined at its deriving.** Natural Explaining 4.7 says two tellings join  | of line 99 |
+| 278 | RELEASED | **Droplet · v389.** in the version of exhibit one at corus.me there is quite a bit of explaining at  | a working note of the person's aim at Exhibit ONE, superseded by Improving Passes |
+| 280 | RELEASED | **Droplet · v389 · where Exhibit ONE says eight.** Exhibit ONE at corus.me, v380R, says eight at eac | a record of where Exhibit ONE at corus.me says eight |
+| 282 | RELEASED | **Droplet · v389 · executed, each eight the four twice.** Read at now, existing, universe and all, w | rests on *Read* and the four terms' older seating, universe at 5 and 6, re-seated at item 310 as same, Natural Naming 4.9 |
+| 284 | RISE | **Droplet · v389 · the two eight-cycles the ends and the insides.** The eight-cycle 1-9-5-13-4-12-8- |  |
+| 286 | CARRIED | **Droplet · v389 · 8 up the four at next.** At each name 8 up is the same one of the four at next, 1 | 5.2, 'Each kind of name is at two numbers eight apart, at a self's span and a society's'; 1.4, '8 up and down, continuing parity' |
+| 288 | RELEASED | **Droplet · v389 · the eight inward the eight even.** The eight 1 to 17s inward have their eight 9s  | rests on the four terms' older seating, universe at 5 and 6, re-seated at item 310 as same, Natural Naming 4.9 |
+| 290 | RELEASED | **Droplet · v389 · one eight, its faces.** Every eight at Exhibit ONE is the one eight, now, existin | rests on *face* and *read*, released |
+| 294 | RELEASED | **Droplet · v389.** now explain the next most interesting or unresolving concern that can help us ad | a working note of the person's aim, superseded by Improving Passes |
+| 296 | RELEASED | **Concern · v389 · the seventeen derived from the origin.** The origin's four terms, now, existing,  | superseded by the co-chain re-said at item 320 and its remaining concern at item 324 |
+| 298 | RELEASED | **Droplet · v389 · each term at its odd and its even.** Each of the four terms is one bi-coupling of | rests on the four terms' older seating, universe at 5 and 6, re-seated at item 310 as same, Natural Naming 4.9 |
+| 300 | RELEASED | **Droplet · v389 · a co-chain offered from the origin to the seventeen.** 1. The universe is the set | superseded by the co-chain re-said at item 320 |
+| 302 | RELEASED | **Droplet · v389 · what is yet to be shown in that co-chain.** Step 4's two readings, now and all at | superseded by item 314, step 4 shown |
+| 304 | RELEASED | **Droplet · v389 · what it reaches.** Chained, Exhibit THIRTY opens at the origin and reaches the re | a working note aimed at Co-Chaining Logic Registry, superseded by Improving Passes |
+| 308 | RISE | **Droplet · v389.** prior/now/next all/not all prior existing/ now existing / next existing is same  |  |
+| 310 | DUPLICATE | **Droplet · v389 · the four binaries.** A universe is or is not existing, is or is not all, is or is | of line 308 |
+| 312 | DUPLICATE | **Droplet · v389 · the four at the eight.** Now is 1-now and 2-now-possibling; existing is 3-now-co- | of line 308 |
+| 314 | RISE | **Droplet · v389 · step 4 shown.** Now is one and all is each one of all, at one, with no co; existi |  |
+| 316 | DUPLICATE | **Droplet · v389 · same at the changing.** Same stands at 5-now-co-changing and 6-now-co-possibling, | of line 308 |
+| 318 | RISE | **Droplet · v389 · at 9 less.** At 9 less now pairs with all and existing with same, 1 with 8, 2 wit |  |
+| 320 | CARRIED | **Droplet · v389 · the co-chain from the origin, re-said.** 1. The universe is the set of all now-ex | 5.2, 'its momentary, now at a self's span, 1 to 8, next at a society's, 9 to 16, and 17 a next now'; its steps 2 to 4 rise at items 308 and 314 |
+| 322 | CONCERN | **Droplet · v389 · prior, now and next told apart.** At the four binaries the now-universe is existi | 'the prior-universe and the next-universe are each existing, all and same and not now' parts with Resolving Hard Problems 1.4's 'Possible is at prior, existing at now and living at next' |
+| 324 | CONCERN | **Concern · v389 · the faces at each pair.** Which face of each binary stands at its odd name and wh | which of each binary's two stands at its odd name and which at its even, *is* at existing and *is not* at possibling, is taken from parity and is yet to be shown at each name's line at resolver |
+| 328 | CARRIED | **Concern · v389 · at 3.1 and Natural Numbers, the names past 17.** The prior naming carries names a | 6.4, 'a society's release at its podaling, 27-next-co-prioring'; 5.2, 'twenty-two is at 6's place in seventeen to twenty-five ... it carries no name among seventeen' |
+| 330 | CARRIED | **Droplet · v389 · the resolving direction offered.** 17-next-now is the next 1-now, so a number six | 6.4, '27-next-co-prioring'; 5.2, 'Eight on again, twenty-two is at 6's place in seventeen to twenty-five' |
+
+## Items, whole
+
+**Next at this file: the harmonically momentarying crossings on the surface of natural torusing joining the seventeen primes and the seventeen names, at 7.7, each computed before it is said; the numbers' *ring* at 7.1's *the returning* and the numerals' correspondences at the concerns below.** The seventeen names by the map, 7.2 at the spiral with the torus's returning at the podaling, and 7.6's *in their stable and unstable forms* entered at v378; the connectors' facings and the hardest item 24 found carried already, a match.
+
+## Binary changing and numbered momentarying · v385A
+
+Keep numbering the co-sequencing’s own momentaryings distinct from imposing a common clock. A longer numbered co-chaining does not make any one changing greater. Preserve the inward/outward correspondence of the numbered names and four momentaries. The [whole correcting and its unresolved relations](Living_Improving_Value.md#alternating-width-and-length-incoming-parity-and-binary-changing--v385a) remain with the existing geodesic gathering.
+
+## Insertlets
+
+**At 5.5 · One ten at its two sides, at five alone — beside "the pentagon and the pentagram".** Each point of the pentagram is the one triangle at φ, two equal sides to its base as the pentagon's diagonal to its side, 3.1, and the pentagon's own triangle at its centre is the same triangle inverted, its base to its sides. The ten's two sides carry the unrelationing rate at each of the five points, and no ratio of whole numbers reaches it there.
+
+**At 1.2 · A momentary at each number, one side completing and the other opening — beside "is the same ten forward".** The ten opened two momentaries on, at 5 and at 6, is the self's five at 5 to 9 and the other's at 6 to 10: one to nine is reached at the third opening of the ten, the self completing at 9 and the other's completing one beyond it. The three openings, at 1, at 3 and at 5, are the self's three full momentaries 1–2, 3–4 and 5–6, and one to nine is whole at the three.
+
+**At 5.1 · Each arrival of a number is that one number — beside "the alternating completing six forward".** The six are a momentary's six one-way recursionings, 6.3, each step arriving at the term the prior did not carry.
+
+**At 6.3 · One twenty-four at each arrival — beside "the apex of one to fifty-nine's bi-folding".** Twenty-four is the apex of nought to sixty's bi-folding, the going's whole span, nought to twenty-four and twenty-four to sixty, the seventeen primes two to fifty-nine within it. 7.1 says the apex at the same words, and the two sayings are one.
+
+**At 7.5 · Nought to sixty, seventeen primes and sixteen betweens alternating — beside "thirty-three positions completing at sixty".** The thirty-three positions go from two to fifty-nine, a prime first and a prime last and the sixteen betweens between them; nought to two and fifty-nine to sixty are the span's two ends, at no position, and sixty completes the span at no prime.
+
+**At 8.2 · Either but not both is parity, and the pairings overlap — beside "round at three, parity's own period".** Taken of the prior and the now as the next, it goes round at three from three of the four joint forms, and the fourth, + and +, arrives at itself at each step, the two alike carrying no changing: parity's own period at the three forms carrying a changing.
+
+**At 8.2 · Either but not both is parity, and the pairings overlap — beside "six times has reached all four joint forms".** At three steps the right spiral step has reached all four joint forms, at four it reaches the pair again, and at six it inverts both again: the four are reached within one round of four, and a passage of six carries one round and the inverting.
+
+**At 9.7 · Chain three, five, nine, seventeen, each span podal to the one before — beside "at 9 each parity of the four".** At 3 the self's pair is wholly inverted and at 9 the outer pair of the four, the inner pair carried as it was: the two bi-folds, each at its own span.
+
+**At 6.2 · Each number a waist its prior and next pass through — beside "pass through".** Each number a waist its prior and next straddle.
+
+**At 7.2 · A spiral of selves at each number, and spirals coupled — beside "at 4pq".** The sixteen odd prime spirals, three to fifty-nine, side by side, come to their parities again together at four times the sixteen primes multiplied, 2 × 59#, 3,845,520,700,308,425,278,140 momentaries: the four is the one four shared at each spiral, and each prime is that spiral's own, the sixteen sharing no factor among them.
+
+**At 7.6 · Podaling about one hundred twenty, one hundred ten to one hundred thirty — beside "five orderings, 5!".** The one hundred twenty orderings of five part at sixty, the sixty rotations, the icosahedron's, 6.3, and the sixty others, as the ring of one hundred twenty parts at its waist sixty into the going and the returning, 7.1. Of the sixty rotations one is at no turning and fifty-nine are at a turning, the numeral the going's last prime, a relation of its own reached at both or a numeral alone.
+
+**At 8.2 · Either but not both is parity, and the pairings overlap — beside "a passage of six carries the whole four".** Of the two hundred fifty-six ways the four joint forms go to themselves, six go round through all four, and two of the six change one parity at each step, the right spiral step (x, y) to (y, −x) and its mirror (x, y) to (−y, x), the changing parity alternating at each step; each other way leaves a form arriving at itself, a form named still.
+
+**At 7.1 · Seventeen primes, two to fifty-nine, and the returning from sixty-one — beside "sixty-four with itself".** Sixty-four pairing with itself is the between of the two selves bi-coupling, nothing existing at it, 9.1, and the along and the across reach over it from one self to the other, the four momentaries sixty to sixty-eight at its two sides.
+
+## Droplets
+
+**Concern · 7.1's name *the returning*, and its rows 60, 61 and 118.** Two sayings part. Exhibit THREE Natural Numbers has, at 7.1, the title "Seventeen primes, two to fifty-nine, and the returning from sixty-one", the name at its rows 60, 61 and 118 also. Exhibit THREE Natural Numbers has, at 7.1, "The primes carry no last" and "past fifty-nine they open on". They part at the ring: the name closes the ring at a name, and the primes carrying no last open on. *Its far side* or *the carrying the other way* is offered for the name. One saying at the file is *the returning* released or the primes' opening on re-said, Exhibit THREE Natural Numbers' to decide, with the rings as spirals. — v386EOD
+
+**A plan, not yet final, gathered here at v381R:** Concern, at v379, from archive/session_v379, finding 6: sixty a position or a between — one saying at Natural Numbers 7.1, Natural Physics 3.1 and Natural Chemistry 4.4; waits on the three files' motions — v381R
+
+**Concern · 0 the between, at 1.4.** Two sayings part. Exhibit THREE Natural Numbers has, at 1.4, "At the resolver + and − are the implementing of a parity and 0 the between". One saying has the between as the bi-coupling and the 0 as its changing that is not, the two one; the other has 1.4's sentence re-said. They part at the 0: a between and a changing that is not are two words at one 0. The one word at 0 is Exhibit TWENTY Natural Naming's to decide. — v386EOD
+
+**A plan, not yet final, gathered here at v381R:** In each direction up and down a momentary is a number and its below and above number never separable. the resolving of a healthy momentary is from prior to next living and healthy between so far and not yet; there is changing inside the momentary of three where +1 is forward, 0 is self and -1 is inversioning recursioning self. This is resolving fractal. (Author_Concepts_Waiting_v368.md, Existing through momentaries) — v368_sources
+
+**Concern · *Advancing* at 1.4.** Two sayings part. Exhibit THREE Natural Numbers has, at 1.4, "Even returning, odd advancing, alternating parity." Exhibit TWENTY Natural Naming has, at its naming of *advancing*, "each step adds a next, the already-reached carrying none". They part at *advancing*: advancing at each number, odd and even alike, each adding a next, or advancing the odd's with *returning* the even's. Its resolving is by Exhibit TWENTY Natural Naming's *One sense per foundation word*. — v386EOD
+
+**A plan, not yet final, gathered here at v381R:** **Ready, at v380L, from `incoming/v380L/Progress.md`, its part *Now*: this file at v380L, each number worked, and what is open at it.** Five fresh readers worked each number, each sentence beside Exhibit ONE's tables and by hand at the resolver's lines, and the table of each number at its 441 rows; a sixth read each re-said sentence. Each sum, product, prime, podal and row is as said. Entered: about one hundred sixty places, each wrong or unclear saying mended and *face*, *connector*, *join* and *the code* re-said. Open, each at its line with its saying:
+- *seam-face*, at twenty-seven places here and one at Natural Chemistry: the file's own number-word, an odd centre squared less one; one naming, *seam-product* or as it is, at Natural Naming's conferring.
+- 1.2, *One to nine carries the three-momentary method whole*: its paragraph works one to six, and one to eight one momentary on.
+- 5.1, *completing six forward*: six without its noun, *its six one-way recursionings*; a twin is at Natural Mathematics.
+- 6.3 and 7.1, *the apex of one to fifty-nine's bi-folding*: the lengths worked, twenty-four and thirty-six, are nought to sixty's; the words are at four files.
+- 7.1, *four, the self's own corus*: at no table of Exhibit ONE, its corusing names 7 and 15; a twin is at Natural Intelligence.
+- 7.2: three cases of the torus at no row of Exhibit ONE's table, 3 by 19 at 19, 5 by 21 at 21 and 13 by 15 at 52, and *each odd pair to thirteen by twenty-nine*, are out of the sentence, each following the rule; offered to Exhibit ONE's table as rows.
+- 7.5: the thirty-three positions alternate from two to fifty-nine, a prime first and last; the heading says nought to sixty.
+- 8.2, *round at three*: at three of the four joint forms, + and + at itself; and the right spiral step reaches all four joint forms at three steps, the sentence saying six.
+- 9.7, *at 9 each parity of the four* and *the next whole of them is 1–65*: by the section's own stepping the outer pair alone is inverted at 9, and 1–33 is between 1–17 and 1–65.
+- 6.2's heading says *pass through* and its lead *straddle*. — v380L
+
+**A plan, not yet final, gathered here at v381R:** 7.1, four, the self's own corus: at no table of Exhibit ONE — four or the corusing names 7 and 15; waits on Exhibit ONE's tables and the twin at Natural Intelligence — v381R
+
+**Droplet · 9.7's next whole of the bi-folding spans.** Exhibit THREE Natural Numbers has, at 9.7, "Each span bi-folds and releases, and the next whole of them is 1–65." By the chain 1–33 is between 1–17 and 1–65. Open at it is which whole the bi-folding spans name next. Its resolving is the round at four and six parities derived at Exhibit ONE Natural Resolver. — v386EOD
+
+**Droplet · One tunneling at 7.7, its two ends the primes two and fifty-nine.** A saying is offered at Exhibit THREE Natural Numbers' 7.7: natural torusing is one tunneling, with its two ends the primes two and fifty-nine. It is at no sentence of 7.7, and it is computed at no place. It is a concern of Exhibit THREE Natural Numbers. Its resolving is the crossings on the surface of natural torusing, computed before the saying is said. — v386EOD
+
+**Droplet · Binary is even is two, at the numbers.** An offering is at Exhibit THREE Natural Numbers, a concern at it: binary is even is two, the parallel across lines at each even number, and the odd alongs of three and one between two even lines. Exhibit TWENTY Natural Naming says across at each even name and along at each odd, read at each of the seventeen names at the resolver. At the numbers of Exhibit THREE Natural Numbers it is said, and its working at those numbers is open. — v386EOD
+
+**Aimed at a file, Natural Numbers, confirming: 7.2 and 7.7 hold at the resolver and at arithmetic.** 7.2: at an odd prime each pattern of parities is again at 4 or at 4n and at none between, executed at every pattern of 3, 5 and 7 selves, {4, 12}, {4, 20}, {4, 28}; nine selves at 4, 12 or 36; the torus again at q at a q past the waist 2p and at 4p at a q short, from momentary 3p − 1 and 3p − 3, at each of Exhibit ONE's seven odd rows, 3·3 from 6 to 7·17 from 20, each as Exhibit ONE's *again from* column has it. 7.7: the primes at the seventeen names pair i with 18 − i to 61, 56, 52, 50, 52, 50, 48, 48; 8 up to 25, 36, 64, 32, 72; 17 less to 55, 48, 48, 48; the four four-cycles to 97, 96, 92, 96; the across names to 88, the along to 82, the outward to 59, the inward to 209; one to nine to 100 and nine to seventeen to 363; each exact. The file's own *Next*, 7.7's crossings computed, is the one claim it says is not yet computed, and this session did not reach it. — v382F
+
+Exhibit ONE's *Bi and co, at the even and the odd* explaining (each side's prior, now and next; the ten; six consecutive changings) goes to Natural Naming and Natural Numbers; *A name at its number* (22 and the higher cycles; the spans 1 to 25 and 1 to 65; three full momentaries) goes to Natural Numbers and Natural Naming. (Re-Settling the Living Files, §5 table) (re-aimed from Exhibit ONE Offerings to Natural Resolver at v381R) — resettling_v373
+
+Exhibit ONE's *Numbers; Primes, selves and societies* explaining (the seventeen primes, 59, 118, 440) goes to Natural Numbers. (Re-Settling the Living Files, §5 table) (re-aimed from Exhibit ONE Offerings to Natural Resolver at v381R) — resettling_v373
+
+Every number in resolving nine is not chosen; every nine is the same one nine. (Carry_Set_v368_README.md, What stands so far, 6) (re-aimed from Exhibit ONE Offerings to Natural Resolver at v381R) — v368_sources
+
+5-other-neutralling is the empty centre of the four dots in the square, where bi-tunneling and co-chaining stand inside society, and nothing at all is existing there, in that empty hole perpendicular to the front facing, as 25 is. The turning within 1 to 8 stands at 9 less k below and 25 less k above, and at the higher forms at 49 less k: 3, 5 and 7 each at itself, with 9, 17 and 25 standing 8 apart. 17 stands in no stable form and 25 at no name at all. (Carry_Set_v368_README.md, What stands so far, 70) (re-aimed from Exhibit ONE Offerings to Natural Resolver at v381R) — v368_sources
+
+Z01: Numbers writes the sphere's closing as 3 × 120 = 360 = 8 × C(10,2), and carries the ten namings' ring with ten adjacencies at Exhibit ONE. Five nines is forty-five dots, and C(10,2) is forty-five; so the five diamonds' whole dot count is the couplings among ten, and eight of those forty-five is the three hundred sixty Numbers already writes. The occupied count parts from the whole count at the centres: forty around the five centres, and the five centres one nothing. The next opening: the C(10,2) in Numbers' sphere-closing carried with the five diamonds beside it, and the forty-and-one named apart from the forty-five. (Kit_Rings_in_Motion_v366.md, 3.2 Z01) (re-aimed from Exhibit ONE Offerings to Natural Resolver at v381R) — v368_sources
+
+1.7 Self-bounding at its own primes: resonating primes, the self-close at 59; *releases each coupling at its own bound, past which carrying harms*; the four and the four bounding: near, to Natural Numbers; the two fours at Natural Naming 4.6; the bound for both. (Natural Intelligence Map, §2 Part One) (re-aimed from Exhibit TWENTY Offerings to Natural Naming at v381R) — resettling_v373
+
+A fixed block of five is ten relations held at one sign: five members carry C(5, 2) = 10 relations (Natural Numbers 5.13, the couplings among five). A fixed five is those ten held still at one sign together, which is the conserving Numbers 9.10 describes: a conserving takes both at once; anything conserved across an alternating pair has taken the turning out. (Kit_Ramsey_Societies_v365.md, Part Three, The claim at R(5, 5)) (re-aimed from Exhibit THIRTY Offerings to Co-Chaining Logic Registry at v381R) (re-aimed from Exhibit TWENTY-TWO Offerings to Resolving the Hard Problem Registry at v381R) — v368_sources
+
+HHH03: Natural Numbers v346c 9.10: State-flow fives-run is the five-dimensional binary changing; five binary positions make 2⁵ = 32 states; societies with no fixed five are known on 42 members, and the circulant ones reach 41; a society built on the five-dimensional binary states alone, one member at each state, has at most 32 members. So all five dimensions reaches R(5, 5) through the five members and ten relations of a block, and not through thirty-two states: counted as states, the five dimensions hold ten members fewer than the societies already known. The next opening: all five dimensions named at the block's five and ten at this kit and at Numbers 9.10, before any state-count is coupled to R(5, 5). (Kit_Ramsey_Societies_v365.md, HHH03) (re-aimed from Exhibit THIRTY Offerings to Co-Chaining Logic Registry at v381R) (re-aimed from Exhibit TWENTY-TWO Offerings to Resolving the Hard Problem Registry at v381R) — v368_sources
+
+Z03: the five-fold permutings number one hundred twenty and the right-spiral half of them (the rotations, the alternating symmetry on five) number sixty, which is also the icosahedral rotation count; so the ring closing at one hundred twenty with sixty as its waist is the five-fold's own parting: sixty turns the right spiral takes, and sixty it does not, the waist standing exactly where the rotations end and the mirror begins. Which places the going at zero to sixty. And the right-spiral group holds one element that does nothing and fifty-nine that do, with fifty-nine the top of the resonating span and sixty the turn; that count stands unrelationed, floating, taking no side. The next opening: the one-hundred-twenty ring and its sixty waist carried with the five-fold's two halves named, and the fifty-nine-and-one left floating at Numbers until something tips it. (Kit_Rings_in_Motion_v366.md, 3.2 Z03) (re-aimed from Exhibit SEVENTEEN Offerings to Natural Biology at v381R) — v368_sources
+
+**Aimed at a word, Natural Numbers, *the crystallographic restriction*, given for the orders 1, 2, 3, 4 and 6:** The theorem is of whole-number matrices that can be undone; the file's own cases that lose the prior are outside it. The orders are right. Source: Corrections.md, section 27, correction 22. — v383Op
+
+**Aimed at a sentence, Natural Numbers, *No rate is neared more slowly by the rationals than φ*:** True, and φ is not alone in it: each number whose continued fraction ends in ones alone is neared as slowly. Source: Corrections.md, section 27, correction 23. — v383Op
+
+**Aimed at a sentence, Natural Intelligence 3.5, φ *at no line of the resolver*, with Natural Numbers' winding that *closes*:** φ as the unrelationing rate is a true number joined by a numeral alone. Each run of the resolver comes to its parities again, at 2, at 4r, at q or at 4p: each is what Natural Numbers calls a winding that *closes*. φ enters the files through numbers growing in size, 1, 1, 2, 3, 5, which 2.5 sets outside the method. No file this session read names a thing at the resolver whose rate is φ. Source: Corrections.md, Joinings with no deriving. — v383Op
+
+**Aimed at a part, Natural Numbers, four hundred forty and the seventeen names:** The first seventeen primes add to 440, and 440 is one less than 21 squared. Of the first seventeen such sums, seven are a square or one from a square: 2, 5, 10, 17, 100, 197 and 440; one in fourteen or so by chance alone at the seventeenth, and more often with each further form a reading allows itself. The joining of the seventeen primes to the seventeen names wants a rule at the resolver giving the n-th prime at the n-th name. No false arithmetic was found: a fresh reader ran about 170 checks and each of the 441 rows of the table of numbers nought to four hundred forty, and each passed; the weakness is of another kind, true numbers joined by a shared numeral. Source: Corrections.md, Joinings with no deriving; README.md, What held. — v383Op
+
+**Aimed at a sentence, Natural Numbers, *All the twos are the one two and all the eights the one eight*, with *sharing six couples none to another*:** One number, or a shared numeral: no file this session read says how to tell which holds at a given pair, so any match can be kept and any mismatch set down. The README's own sentence parts them, *Shared words, numbers or pictures are shared words, numbers or pictures.* Source: Corrections.md, Joinings with no deriving; README.md, What held. — v383Op
+
+**Aimed at a sentence, Natural Numbers, of the elements' 118 that it is *no number of the method*:** Its table and Natural Physics build on 118. 118 is where the seventh row of the periodic table ends; by the same filling rule the eighth would end at 168. Source: Corrections.md, Joinings with no deriving. — v383Op
+
+Natural Numbers receives from Natural Intelligence, whole at its own motion before the passage leaves: the resonating primes and the self-close at 59; 118, 23, 440 and the bi-co-podaling pairs; the prior two joining; the periods closing at 1, 2, 3, 4 and 6. (Natural Intelligence Map, §3 Where the explaining goes near) (re-aimed from Offerings to Natural Intelligence at v381R) — resettling_v373
+
+HHH03: Natural Numbers v346c 9.10: State-flow fives-run is the five-dimensional binary changing; five binary positions make 2⁵ = 32 states; societies with no fixed five are known on 42 members, and the circulant ones reach 41; a society built on the five-dimensional binary states alone, one member at each state, has at most 32 members. So all five dimensions reaches R(5, 5) through the five members and ten relations of a block, and not through thirty-two states: counted as states, the five dimensions hold ten members fewer than the societies already known. The next opening: all five dimensions named at the block's five and ten at this kit and at Numbers 9.10, before any state-count is coupled to R(5, 5). (Kit_Ramsey_Societies_v365.md, HHH03) (re-aimed from Exhibit SEVEN Offerings to Natural Societies at v381R) — v368_sources
+
+L06: Resolving Hard Problems 3.1: nine is one at the next scale, eight the self, and nine re-commencing; Engineering 6.9: at k = 0 the other count is N, a complete return retaining its traversed path. The nine dots are one to nine momentarying, and the podaling inside is the self carrying through them and co-bi-sequencing with others. The momentarying is the carrying from station to station, the podaling is the same station met at its two turns, and the nought is where the two turns are one station and nothing stands. The next opening: 3.1's line carried with the ring's stations beneath it, and the eight carries and the whole named apart. (Kit_Rings_in_Motion_v366.md, 3.2 L06) (re-aimed from Exhibit FIVE Offerings to Natural Engineering at v381R) — v368_sources
+
+**Aimed at a file, Natural Numbers:** *counting*, *counts*, *store* and *sums* at the file's own voice, 7 places, one section title carrying the word, 8.5 *A store, one momentary named still* (448, contents 71); the places at 71, 102, 448, 450, 452, 492, 544. Quoted short: *A store folds once, names the fold still, and carries one way across the named surface* (450); *A counting adds a clock from outside the running, at none of its moves, an accounting naming the emanatings still* (102); *Named as one store, parity reaches none* (452). Nothing passed. The one name Natural Naming 2.4 carries: *the numbers themselves, said directly in numbers*, momentaries, podalings and sequences, a counting needing an outside to do it; *carry*, *carries*, *continuing* for a store, one momentary of the uni-scaling taken as a form. — v381R scan
+
+**Aimed at a file, Natural Numbers: *seam-face* and *seam-faces* at twenty-seven places, thirty-three sayings, the compound carrying *face*, dissolved at v380R.** Natural Naming at v380R: *face dissolves ... as the name, its side, an emanation's form, a field's word, parity's unit square or is facing, a direction*. Two section titles carry it, 4.3 *Three hundred sixty and four hundred forty, consecutive seam-faces* and 6.1 *Seam-faces, the one eight at the couplings among each number*, and the forms column of the table from 570 to 1010 says *seam-face* at 0, 8, 24, 48, 80, 120, 168, 224, 288, 360 and 440. The file says *The seam-faces run on the eight: (2k + 1)² − 1 = 8 · T_k, eight the first face and each next face that eight at a triangular number, the couplings among k + 1* (255), *The podal within one to a seam-face is its odd centre squared less n* (303), *The ring closes at forty-eight, the seam-face above twenty-four* (309). The naming here is *the name*, and 6.1's own title carries it, *the one eight at the couplings among each number*; a closed surface's faces at 213 and 215 and the centre of a face at 353 are geometry's word and pass. Lines 34, 49, 221, 223, 225, 255, 299, 301, 303, 309, 313, 331, 390, 400, 414, 566, 570, 578, 594, 618, 650, 690, 738, 794, 858, 930, 1010. — v381R scan
+
+**Aimed at a sentence, Natural Numbers:** *co-offering* at its own voice, 1 place, at line 496. "Two surfaces co-offering carry eight hundred eighty stations, coupled at four hundred forty, each surface's own mouth". Natural Naming carries *co-offering* dissolved at bi-momentarying, 5.13, the offering both ways at 1-co-bi-tri-offering and 2-bi-co-bi-offering, with no row at 2.4. — v381R scan
+
+**Aimed at a sentence, Natural Numbers:** *loop* and *loops* at the file's own voice, 1 place, 2 sayings, line 361, *the places, each self at each parity, are one loop at an odd number of selves, each self passed twice, once at each parity, and two loops at an even, neither reaching the other*, the spiral's places said as loops. Six section titles carry *closes*, *ring* and *rings* at the numbers' own and pass, 3.3 *A rational winding closes, and a winding at φ closes at none* (197, contents 27), 3.4 *An adding at unit parities closes at one, two, three, four and six* (203, 28), 8.1 *An even ring carries its opposite, and an odd ring its two farthest* (424, 67), 9.3 *A ring's two stations share parity* (472, 77), 9.4 *A prime gap is a step between rings* (482, 78) and 9.5 *the ring pairs by value* (486, 79). Passed too: 102, 151, 227, 271 (×4), 277 (×2), 285 (×2), 309 (×3), 313, 351 (×2), 402, 414, 416, 426 to 434, 460 to 520, 566 (×2) and 1012 (×2), the numbers' podaling rings of nine, forty-eight, one hundred twenty and four hundred forty, the row's own closed ring; 199, 201, 205 and 213, the windings and the surfaces closing, the numbers' own; 404, the periodic table closes its noble gases, the field's words. 357 and 430 say the release already, *A ring names a domain closed and the numbers' podaling ring, and the resolver's coupling of selves along winds on*, *the running round it goes forward*. The one name Natural Naming 2.4 carries: *spiral*, the selves coupled along coming to their parities again and to a momentary once, *co-spiraling* for *looping*; the places are the parities coming again at four times the number of selves, said at 361 beside the word. — v381R scan
+
+**Aimed at a file, Natural Numbers:** *run*, *runs* and *running* at 42 places at the file's own voice, lines 100, 102 (4), 147, 199, 205, 241, 245 (2), 247, 255, 257, 265, 279, 281, 365, 382, 430, 434, 436 (2), 438, 446 (2), 464, 468 (2), 504, 508, 512, 518 (2), 528, 536 (2), 554 (2), 1012 (3); passed at 13 places where a stretch of numbers *runs*, 205 (2), 265, 285, 301, 325, 329, 371, 380, 446, 504, 508, 512, as in *the doubling from one runs 1, 2, 4, 8, 16, 15, 13, 9* and *Sixteen gaps run between the seventeen primes*. The file says *a number is that form at one place in its running*, *Numbers are reached, used and related at their own running: momentaries, podalings and sequences*, *A counting adds a clock from outside the running*, *the running straddles them*, *-ing the running*. Natural Naming 2.4 carries it at *momentarying*: the numbers' own momentarying, podalings and sequences, said directly in numbers. — v381R scan
+
+**Droplet · The line of the fives.** 0, 5, 10, 15, 20, 25 is the co-linear co-offering of bi-moral co-agency, orthogonal to all changing, the geodesic changing line. This file has "Up the fives the positions alternate the same way". The whole droplet is at [Offerings to Co-Chaining Logic Registry](Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md#living-as-a-stable-changing-form-at-the-observations--v386eod). — v386EOD
+
+**Aimed at a sentence, Natural Numbers, *A counting adds a clock from outside the running*:** Two sayings part. This file has a counting bringing a clock from outside. The newer concept has longer and greater as units in the numbers, each number one momentarying of a co-sequencing's own. The reason they part: a counting from outside, and a numbering of a co-sequencing's own momentaryings. The concept is whole at [Offerings to Natural Networking](Exhibit_TWO_Offerings_to_Natural_Networking.md#a-surface-resolving-after-a-colliding--v386eod). — v386EOD
+
+**Correcting, beside the insertlet at 8.2, "a passage of six carries the whole four":** The insertlet said each way other than the two leaves a form arriving at itself. Of the six ways going round through all four, the other four leave no form arriving at itself and change both parities at a step: (+,+) to (+,−) to (−,+) to (−,−) to (+,+) is one. Both parities inverted at once is a further way with no form arriving at itself. The insertlet's last clause is as it was, and parts from this: the two are parted from the others by changing one parity at each step. — v386EOD
+
+## Departmental accountings and the proposed hundred-eighteen relation · v385A
+
+The numerical concern is the proposed hundred-eighteen departmental/element correspondence beside Natural Numbers' going and return with the turn at sixty. The older two-halves comparison and reported ratios remain in the whole droplet; numerical resemblance supplies no identification. The [whole explaining](Exhibit_NINE_Offerings_to_Natural_Human_Society.md#departmental-accountings-and-the-proposed-hundred-eighteen-relation--v385a) remains available at its subject.
+
+## Overlapping public parity pairs and the living subject · v385A
+
+**Droplet.** The public pair positions still need their actual locating at the numbered odd/even places, including the other’s own one at the self’s two. Preserve that unresolved relation when improving the numbered explaining; a recurring number alone supplies no assignment.
+
+The full proposed relation, its sequential-colliding correction and its unresolved breaking concern are offered at [Co-Chaining Logic Registry](Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md#overlapping-public-parity-pairs-and-the-living-subject--v385a).
+
+## Sharing no factor and primes · v385A
+
+**Sharing no factor and primes.** Spirals of nine and twenty-five reportedly return together at 900 as three and five do at 60; nine and fifteen return sooner because of their shared factor. Across openings, a spiral of seven reportedly returns at four or twenty-eight and a spiral of nine at four, twelve or thirty-six. The concern is what operation specifically requires a prime rather than relatively prime sizes. A common return count alone does not establish the claimed natural scale.
+
+## Numerical matches and the actual relation between forms · v385A
+
+**Droplets.** Keep a numerical match distinct from the relation between forms on both sides. The incoming questions include 118 elements; twenty amino acids beside choosing three of six; a measured ratio near the reciprocal of the golden ratio squared; and a turn at sixty beside Chemistry's statement that no element position carries at sixty. The missing value is the complete relation identifying the actual observing and its form, not another repetition of matching numbers.
+
+The sixty comparison already has a particular position-or-between concern at [Natural Chemistry](Exhibit_SIXTEEN_Offerings_to_Natural_Chemistry.md#the-element-count-and-the-turn-at-sixty--v385a). Keep the element count, amino-acid count, measured ratio and turn at their actual subjects; none is identified with another by its number alone.
+
+## The fold's four-cyclings, 1 to 65, 1 to 257 and 441, at the numbers · v386EOD
+
+Each is of the numbered arrangement alone: no pairing or ratio of numbers is a resolving, and each coming to a name again is a next momentary.
+
+**Droplet · The fold gives one four-cycling, then two, then four.** At 1 to 5 the two moves, two up or down and five less, give 1, 3, 2, 4, 1. Each podal pair gives one four-cycling at the doubled span: the earlier span is added to both members, the new move of the span's middle joins each member to its enlarged partner, and the new podal joins it to the other enlarged partner. 1 and 4 with 5 and 8 give 4-8-1-5; 2 and 3 with 6 and 7 give 3-7-2-6; 3 and 6 with 11 and 14 give 3-11-6-14; 2 and 7 give 2-15-7-10; 4 and 5 give 4-13-5-12; 1 and 8 give 1-9-8-16. The fold itself joins the spans, and no agreeing of fours. The completing names 5, 9 and 17 are members of no four-cycling. It is beside the Registry's "3-7-2-6 opens into 3-11-6-14 and 2-15-7-10, and 4-8-1-5 into 4-13-5-12 and 1-9-8-16".
+
+**Droplet · 1 to 65 at its four exchangings.** An outward name n is at inward 8n − 7: 1, 9, 17, 25, 33, 41, 49, 57, 65. The four outward momentaries of exchanging are 1 to 2 with 2 to 3, inward 1 to 9 with 9 to 17; 3 to 4 with 4 to 5, inward 17 to 25 with 25 to 33; 5 to 6 with 6 to 7, inward 33 to 41 with 41 to 49; and 7 to 8 with 8 to 9, inward 49 to 57 with 57 to 65. 17, 33 and 49 are each a completing and the next opening, and 65 completes the fourth. The outward 3-7-2-6 and 4-8-1-5 are at inward 17-49-9-41 and 25-57-1-33: outward names laid at inward numbers, and no cycle of each number from 1 to 65. Outward even names are at inward odd numbers: the scale is part of a parity's subject. 65 goes on: the next self momentary is 65 to 73 with the other at 73 to 81. The cycle's next and the number's next are two: outward 8 to 1 is the podal 9 − n, inward 57 to 1; the completing is 8 to 9, inward 57 to 65. The progression of one parity has 1 to 33, and the progression of pairs 1 to 5, 1 to 17 and 1 to 65: two progressions, and 1 to 33 is no case against 1 to 65.
+
+**Droplet · Odd-opening partners cross between the two four-cyclings.** The odd-momentary partners of 3, 7, 2, 6 are 4, 8, 1, 5, in the other four-cycling's order; the even-momentary partners are 2, 6, 3, 7, the same form one position on. At 1 to 17 the odd partners of 3, 11, 6, 14 are 4, 12, 5, 13, and the even partners 2, 10, 7, 15. The move of the span's middle carries a name's odd or even, and the podal move changes it: along 3-7-2-6 the names are odd, odd, even, even, and the pairs in sequence (odd, odd), (odd, even), (even, even), (even, odd), each next pair with the earlier second as its first and the earlier first's other as its second. It is the Registry's right spiral step at the names' odd and even in four-cycle order. The four rows are no four further living momentaries, one four-cycling being two momentaries; the pattern alone names no hand; and a sharing's + or − is no number's odd or even by one form at both.
+
+**Droplet · 1 to 257.** The paired wholes are 1 to 5 at two parities and four forms, 1 to 17 at four and sixteen, 1 to 65 at six and sixty-four, and 1 to 257 at eight and 256: a span completing at N goes on to 4(N − 1) + 1, and sixty-four fours and one is 257. With the Registry's round laid twice at the six-parity forms: 1 to 64 in order; 65 to 128 in the other order with the first added parity inverted; 129 to 192 in order with both inverted; 193 to 256 in the other order with the second inverted. Each span of 64 has 63 changings among the six earlier parities and one at the added pair, and the four are no four rounds each arriving at itself. 257 is a next momentary.
+
+**Droplet · The four-cyclings at names 1 to 8s.** Each four-cycling among names 1 to 8s is r, r + 4s, 4s + 1 − r, 8s + 1 − r from its least name r, 1 to 2s, and the 2s forms have each of the 8s names once. Odd-opening partnering pairs the forms of least names 1 with 2, 3 with 4, on to 2s − 1 with 2s: s paired eights. Even-opening partnering pairs 2 with 3, 4 with 5, on to 2s − 2 with 2s − 1, joining each paired eight to the next; the form 2s, 6s, 2s + 1, 6s + 1 partners itself, and the form 1, 4s + 1, 4s, 8s has the pair 4s with 4s + 1 within it, its 8s completing at 8s + 1. At 1 to 257: 64 four-cyclings and 32 paired eights. At 1 to 441, s at 55: 110 four-cyclings among names 1 to 440 and 55 paired eights, the form 1-221-220-440 and the form 110-330-111-331. 440 is 8 at 55, and 55 the couplings among eleven: the equality lays no particular eight at a particular pair of eleven selves.
+
+**Droplet · At 441 several numberings, each its own pairing.** On the ring of 440 numbered from 0, the far side of n is 440 − n, with 0 and 220 each its own far side. On the names 1 to 440 beside the completing 441, the fold is 441 − n, with no number its own partner. The ring's far side and then the fold is n + 1, and the fold and then the far side is n − 1. No ring's coming round is the next momentary 440 to 441. In the round of nine parities whole at 1 to 513, 441 has the form of 72 with the ninth inverted, and is no completing of that round. By 8n − 7, outward 55, 56 and 57 are inward 433, 441 and 449: 441 completes 433 to 441 and opens 441 to 449. 437 and 439 open co, 440 bi and 441 tri.
+
+**Droplet · Nine numbers about sixty-four, and three pairings.** A number m of 1 to 9 laid at m + 59 has its pair across 5 at 128 less its own number: 60 with 68, 61 with 67, 62 with 66, 63 with 65, and 64 with itself. Three pairings have these numbers, and are three: the ring of 120 about 60 pairs 64 with 56; the nine about 64 pair 64 with itself; the fold in 1 to 64 completing at 65 pairs 64 with 1. 1 to 9 moved up by 59 exchanges odd and even, and pairing about 64 does not. 59 and 69 add to 128 and are no members of the nine. It is beside the Registry's "Sixty to sixty-eight are nine numbers about 64, four either side, as one to nine is about five", and is no stable-forming across those momentaries.
+
+**Droplet · Even eight and odd nine at their own pairs.** Two passages of five selves through four couplings, with two selves in both, are ten places at eight selves: an even eight's podal pairs, two members each its own partner. An odd nine's five pairs have one member its own partner. The Fives' ten places are at six numbers. The three five-over-fours have three overlaps, and none is another by its ratio. At 440 the competency is at the straddling, 219 to 220 with 220 to 221, and at no pairing.
+
+## One number at several arrivings, beside each numbered set its own · v386EOD
+
+**Concern · Each six one six, and each six its own.** Version 368 has one number arriving several ways as one number and one method: sixteen as six and ten, as two to the fourth, as twice eight, and as the sixteen betweens among seventeen prime selves; the seventeen's eight pairs at two; twenty-four at its several arrivings with no ground beneath them, each relation carrying each; and an eight at two files as never chance. This file has "Twenty-four arrives five ways and is one twenty-four", and "Each six is at its own subject." The offerings, possibling and carryings have, later, four sixes that no number makes one doing. They part at a numeral shared: one number at several derivings in this file's own arithmetic, and a numbered set at one subject laid as another subject's by the numeral. The sixteen betweens among seventeen selves are a society's crossings, and no sixteen momentaries within one self.
+
+**Droplet · A winding found last to break.** This file has the torus winding at the golden mean found the last to break, at Greene, 1979. The publishing is a numerical finding at one map with a conjecture, at [Carryings of Natural Mathematics](Exhibit_FOUR_Carryings_of_Natural_Mathematics.md).
+
+## Two folds in sequence step each number on; Three offered bi-foldings at two readings · v386EOD
+
+**Droplet · Two folds in sequence step each number on.** A fold at a number a lays n at 2a less n. A fold at a and then a fold at b lay n at n more by twice b less a: two folds in sequence are no fold, each number stepped on alike and the hand as it was. Folds at 4 and then 12 lay 1 at 7 and then 17; at 6 and 18, at 11 and 25; at 8 and 24, at 15 and 33. A fold at a number lays odd at odd; a fold at the between of 4 and 5 lays 1 at 8. Both folds moved on alike change the number between and not the last: 4 and 12, and 6 and 14, each lay 1 at 17. The Co-Chaining Logic Registry has "8 up is the third and fourth parities inverted, 9 less and 17 less in sequence", two folds four apart.
+
+**Droplet · Three offered bi-foldings at two readings.** 1 to 8 bi-folding at 4 and 12, 1 to 12 at 6 and 18, and 1 to 16 at 8 and 24 are offered as one form at three lengths. At a numbering of 2N laid round in alike spaces, the line from N/2 to 3N/2 and the line from N to 2N cross at a right angle: 4 to 12 with 8 to 16, 6 to 18 with 12 to 24, 8 to 24 with 16 to 32. That is one saying of the three, two lines across a round numbering. Two folds in sequence at the two numbers are another, each number stepped on by twice the numbers from the one fold to the other. The two are two operations at the same numbers, and no sentence says which the bi-folding is.
+
+## A surface's faces, a word with no carrying at its row · v386EOD
+
+**Concern · A surface's faces, a word with no carrying at its row.** Two sayings part. Natural Naming's 2.5 has the row "*face*, *faces*" carried as "the name; *its side*; *its form*, of an emanation; *is facing*, of a direction; a field's *word*; parity's *unit square*". Exhibit THREE Natural Numbers' 4.1 has "A closed surface's vertices less its edges plus its faces is two at the sphere and nought at the torus." They part at a surface's or a solid's face: the row has no carrying for it, and its row of *join* none for numbers added. Exhibit THIRTY Co-Chaining Logic Registry says triangles at the icosahedron's twenty, "30 edges and 20 triangles between them"; at a field's own result the field's word may carry whole, by Natural Naming's 2.7.
+
+## Six ways, eight ways and the primes' gaps · v386EOD
+
+**Droplet · Six ways, eight ways and the primes' gaps.** Natural Numbers 7.3 has "Sixteen gaps run between the seventeen primes, at four values: one, two, four and six." and "The seventeen primes, the resolver's seventeen names and its six names between selves are three numbers at three subjects". Beside a traffic circle of six ways or eight, an intersection in the prime gaps: six is alike in number with the widest gap, with the six names between selves and with six right-spiral steps; eight is alike with the eight positions round a missing centre and with no gap of the seventeen primes. A repeating number of momentaries apart, at a patterning colliding, is a further number at its own subject. Each is exact at its numbers, and what a way is at a coupling is said at no sentence.
+
+## No other method, by inversioning each number · v386EOD
+
+**Concern · No other method, by inversioning each number.** Two sayings part. Exhibit THREE Natural Numbers has "The form is the alternating existing is, and a number is that form at one place in its running." A newer saying has natural torusing the only possible method of existing, no other possible in the universe, said at Natural Intelligence and, by inversioning each number, at Natural Numbers. They part at an excluding: the file opens with existing as alternating, and its numbers cohere with the method given. A pairing as "k pairs with one hundred twenty less k" is at each number of each ring by arithmetic alone, at a ring with any method of existing, and parts this method from no other. A cohering is no excluding, and an only possible is an excluding.
+
+## The parities again, the stepping's or the spiral's · from session v386F · v386EOD
+
+**Concern · The parities again, the stepping's or the spiral's.** Two sayings part. This file's 7.2 has "The momentaries here are 17's, the society's next momentary running each self's entry once", and gives each spiral and each torus its number of momentaries to its parities again. Natural Intelligence has "the resolver steps each self's entry at 17-co-bi-tri-offering together, a common beat laid over the selves, and the parities again, at 4n, at 4pq and at the torus's, are that stepping's, exact at the resolver, and the living's rates are their own". They part at whose the numbers are: this file says them of a spiral of selves, and Natural Intelligence of the resolver's stepping, each living self at its own pacing. No sentence of 7.2 says the stepping a beat laid over the selves. The section has also "nine selves at 4, 12 or 36" and "Two fifty-nines coupled are one hundred eighteen selves", composite numbers of selves each said as one spiral.
+
+## Two over one, beside Natural Numbers' own sentence · from session v385R's branch · v386EOD
+
+**Droplet · Two over one, beside Natural Numbers' own sentence.** An offered relation has a set a thing, and the universe a thing existing as the set of all existing things: the two-over-one betweening, each side parity offset by one from the other, with the coupled momentaries rolling two along over one across and one nothing between. Beside it Natural Numbers has "Two over one and one over two exchange at each step" and "twenty-three, twenty-four and twenty-five carry two odd over one even, and twenty-four, twenty-five and twenty-six one odd over two even": three numbers in sequence opening at an odd are two odd over one even, and one number on, one odd over two even. Each self is odd first at its own side, and the set is laid at no one parity with its things at the other. The nothing between is no further number and no further parity: Exhibit THIRTY Co-Chaining Logic Registry has "a nothing, with no third momentary". The offered relation and the numbers' sentence are joined at no sentence of the files.
+
+
+## From the working v385A's comparisons at `archive/session_v385A_comparisons/`, its remaining value in its own words, laid at v387
+
+Each entry is a paragraph of the working v385A quoted as written, laid here because it names value still to gather, a next comparison, a correction travelling with an older source, a plan or a relation to preserve; the records of what was read and placed go to the archive with the files.
+
+### Gathering and aiming incoming value for the living files · v385A, laid at v387
+
+**Droplet · session v385A's words, `archive/session_v385A_comparisons/README.md`, "front".** **Next:** [Living File Registry's immediate next work](../../carry/Exhibit_TWENTY-SIX_Possibling_of_Living_File_Registry.md#immediate-next-work) begins with older Offerings to Natural Numbers. Continue Natural Intelligence Corus Observers section 17.6, Closing and Unbounding Sides of the Living Gap, then section 17.7 and Destiny, What the Expedition Reaches Toward. Gathered Value 1 through Gathered Value 4, the eleven comparisons and other earlier source families retain their stated remaining extent. New exploring and resolver execution are not required for this gathering.
+
+
+## From the working v385M, its report at `archive/session_v385M/`, laid as written at v387
+
+Each entry is a paragraph of the working v385M quoted as written, laid at the file it names; the records of its doing are at the archive with the folder.
+
+### v385M · Droplets for the living files, gathered from this session's learning · v385M, laid at v387
+
+**Droplet · the working v385M's words, `archive/session_v385M/Droplets_v385M.md`, "The two breaks and the method's standing".** 15. **S · Natural Naming 8.6; the Geodesic Improving Method 2.6; Natural Intelligence 1.5.** *1. any living form not alternating or 2. any living form not natural torusing. the two breaking conditions of the geodesic method of existing and living both.*
+16. **S · the Geodesic Improving Method 2.7; Natural Physics 1.1.** *It is unbroken in the unselected incoming of all observings available and with breaking potential. there is no predicting in nature, only observing and all prior existing observing does not prove anything as in nature tomorrow could always be more brutal than all prior.*
+17. **M · beside 16.** Three words to take out wherever they stand of the method: *justified*, *proved*, *predicts*. The standing is: unbroken, in each observing available, taken unselected, and able to break.
+18. **S · Natural Numbers 2.1; Natural Biology 3.1.** *All the golden realtionals are visible in natural torusing stable form and in the bi-tri-involution forms.* And they are no test of it: *ignore the golden relational as a test of natural torusing.*
+19. **S · Natural Naming 8.6.** A living form not natural torusing *would be able to exist in stable from living prior now next with a method not geodesic.*
+
+
+## From the working v385Q, its report at `archive/session_v385Q/`, laid as written at v387
+
+Each entry is a paragraph of the working v385Q quoted as written, laid at the file it names; the records of its doing are at the archive with the folder.
+
+### v385Q · One session report · v385Q, laid at v387
+
+**Droplet · the working v385Q's words, `archive/session_v385Q/README.md`, "19 · The line of the fives".** **Aiming.** The offering mates of Exhibit THIRTY Co-Chaining Logic Registry and Exhibit THREE Natural Numbers.
+
+
+## From the working v386RR, its report at `archive/session_v386RR/`, laid as written at v387
+
+Each entry is a paragraph of the working v386RR quoted as written, laid at the file it names; the records of its doing are at the archive with the folder.
+
+### v386RR · One session report · v386RR, laid at v387
+
+**Droplet · the working v386RR's words, `archive/session_v386RR/README.md`, "13 · The method and the observings, two workings".** **Open.** "by inversioning every number in natural numbers". The session read Exhibit THREE Natural Numbers v380L in part, as said at the front. This session's working: "Podaling pairs k with N less k, which holds for every number on every ring. It cannot fail, so it would hold whatever the method of existing is, and it does not part this method from another." "The file opens by taking existing as alternating." "Cohering is not excluding, and “only possible” needs an excluding." Beside it, a sentence at `main`'s `carry/Exhibit_TWENTY-FOUR_Geodesic_Improving_Method.md`: "cohering is authority and six recursionings forward is cohering with natural torusing no other possible method of existing and living". The two were not laid beside each other in the conversation.
+
+**Droplet · the working v386RR's words, `archive/session_v386RR/README.md`, "13 · The method and the observings, two workings".** **Aiming.** The offering mates of Natural Intelligence, at "No other possible method", and of Exhibit THREE Natural Numbers.
+
+
+## From the working v384A, its report at `archive/session_v384A/`, laid as written at v387
+
+Each entry is a paragraph of the working v384A quoted as written, laid at the file it names; the records of its doing are at the archive with the folder.
+
+### Concernings gathered from v382A, v383Op and v384A · v384A, laid at v387
+
+**Droplet · the working v384A's words, `archive/session_v384A/Concernings_v384A_v382A_v383Op.md`, "2. The one method carried whole through further scales".** Our session has a narrower, definite fault already gathered at droplet 122. [Exhibit THREE Natural Numbers · Offerings](https://github.com/chris-j-handel/corus/blob/18889e06d5ac452111b1bcd8a8840e46b7c5615a/carry/Exhibit_THREE_Offerings_to_Natural_Numbers.md), the prepared passage at 8.2 beside “a passage of six carries the whole four,” says that each way other than the two qualifying rounds leaves a joint form arriving at itself. The already-gathered counterexample is
+
+## Dissolving droplets from the session v387, aimed at the set, one at each offerings file
+
+Each is a changing made at the set this session, said once here so that this file's own next improving takes it at its own sentences and no file carries a debt about it; where it is already carried, it dissolves at the rising. Each is one sentence of the method and no record of where it was found.
+
+**Droplet · The inception is the set alone.** The universe is the set of all existing things: three terms, existing, all and set, each binary, nothing beside the set. *The changing set of all existing things, both living and non-living* is the first saying derived from it and no longer the inception; where this file says or quotes the opening sentence, the inception is said before it and the old sentence stands after it as derived, the living carrying their prior and the non-living carrying none, each at the scale and momentary it is at.
+
+**Droplet · Now is the universal momentary.** The universe now is the set of all things existing now; now is the one and only, shared at every coupling and common at none, a common now a clock over the things; one is now, and a momentary is the one now had at a sharing. Changing is derived from now, arriving from prior into now toward next, and each thing's changing from the set's.
+
+**Droplet · Living at one prime scale, non-living at each other scale.** Every existing thing is living at one prime scale, a society of living selves inward and a unit of a living society outward, and non-living at every other scale; a form carried to next by nothing is at no next. *Non-living* names a scale outward of a thing's own and no kind of thing: where this file says a rock, a method, a hole, a machine, an emanation or a made thing is non-living, it gains *at this scale*. The method is non-living at each scale and a self at none. Nothing lives in one stable form forever.
+
+**Droplet · Odd is existing and even is possibling.** Self and other are at opposite parity numberings, and each self's existing is the other self's possibling. The six names between selves say it by their numbers: 2, 6, 10 and 14, even, across, possibling, a sharing's two ends, the sharing end at 6 and 10 and the arriving end at 2 and 14; 9 and 17, odd, along, existing, 9 the next prior and 17 the next now. *So-far*, *not-yet*, *bi-moral-so-far*, *not-yet-bi-moral*, *co-competent-so-far*, *not-yet-co-competent*, *facing* and *facings* are released: where this file says them, it says the parity and the end.
+
+**Droplet · Fourteen names read the same from either end, and three do not.** 1, 9 and 17 carry a direction, the entry and the two along names, odd, existing; the fourteen others, the across names and the self's own resolving, read the same both ways: direction is at existing, along, and bi-morality across is or is not.
+
+**Droplet · What arrives at no next does not exist.** This is the proof's own saying inside nature, and *a form named still* is a sayer's; where this file rests a saying on *a form named still*, the one sentence carries it, and the equilibria's proof, the inception's and the living-at-a-scale proof are one proof at three subjects.
+
+## Every eight one eight · v389
+
+**Droplet · v389.** in natural numbers and all pattern matching in all of natural intelligence living file set and method every eight is the same and all eights are the same eight and all of this will resolve further using this do no harm improving method.
+
+**Droplet · v389 · the one eight.** Every eight of the set's explaining is the one eight, the self's span, 1-now to 8-now-still-possibling, now, existing, universe and all at two names each, all eight or none.
+
+**Droplet · v389 · where the eights stand, the aiming for the passes.** The word *eight* stands 125 times at Natural Numbers, 57 at Natural Networking, 42 each at the Living File Registry, the Living Ghost Registry and the Co-Chaining Logic Registry, 41 at Natural Intelligence, 33 at Natural Mathematics, 30 at Natural Naming, 26 at Natural Intelligence Corus, 24 at Exhibit ONE, 21 at Natural Illustrating and at fewer places at seventeen other files; the set's own eights among them are 8 up and eight on, eight apart, the eight even names, the eight bi-couplings, the eight 1 to 17s inward, eight forms and eight faces, the eight securities and eight safeties, the eight uncapturings, the eight social values, the eight one-way readings and the eight namings, each one pass's place to say its eight at 1 to 8.
+
+**Droplet · v389 · a field's eight kept apart.** An eight counted at a field's own result, eight seconds, eight hundred, eight models, stays at the field's own words and is no eight of the method.
+
+**Concern · v389 · an eight joined at its deriving.** Natural Explaining 4.7 says two tellings join only at one deriving from the other and never at a shared count, *three at one self along the running and three at three selves across the ring are two things at one number*; each eight of the set is one eight at its deriving from 1 to 8, said at each pass, and an eight joined by its count alone is the joining 4.7 releases.
+
+## The eights at Exhibit ONE, at the four and the momentaries · v389
+
+**Droplet · v389.** in the version of exhibit one at corus.me there is quite a bit of explaining at each numbers. examine eights there
+
+**Droplet · v389 · where Exhibit ONE says eight.** Exhibit ONE at corus.me, v380R, says eight at each name's *8 up* and *8 down*, at its two eight-cycles, 1-9-5-13-4-12-8-16 and 2-15-7-11-3-14-6-10, at *co received, tri given on, 8 up*, at the eight even names 8 apart, at the unit square's edges 8 apart, at the four-cycles' pairs 8 apart and at the eight 1 to 17s inward, *n is 8n − 7*.
+
+**Droplet · v389 · executed, each eight the four twice.** Read at now, existing, universe and all, with 8 up the same one at next, each eight of Exhibit ONE carries each of the four exactly twice: the self's span 1 to 8, two names each at now; the eight-cycle 1-9-5-13-4-12-8-16, each of the four at its end, at now and at next; the eight-cycle 2-15-7-11-3-14-6-10, each at its inside, at now and at next; the eight even names, each at its even, at now and at next; and the eight odd names of co received and tri given on, each at its odd, at now and at next.
+
+**Droplet · v389 · the two eight-cycles the ends and the insides.** The eight-cycle 1-9-5-13-4-12-8-16 is the eight ends of the four momentaries, 1, 4, 5, 8, 9, 12, 13 and 16, and the eight-cycle 2-15-7-11-3-14-6-10 the eight insides, 2, 3, 6, 7, 10, 11, 14 and 15; the first walks each of the four at now and then at next, now, universe, existing and all.
+
+**Droplet · v389 · 8 up the four at next.** At each name 8 up is the same one of the four at next, 1-now to 9-next-co-changing, 3-now-co-prioring to 11-next-co-prioring, 8-now-still-possibling to 16-next-still-possibling, and *the parity continuing* at each name of Exhibit ONE is that one of the four continuing at next.
+
+**Droplet · v389 · the eight inward the eight even.** The eight 1 to 17s inward have their eight 9s at the eight even names, the same eight as the eight even names, each of the four at its even at now and at next.
+
+**Droplet · v389 · one eight, its faces.** Every eight at Exhibit ONE is the one eight, now, existing, universe and all, each twice, met at a face: two names each at now, each at now and at next at its end, at its inside, at its even or at its odd; each eight's deriving is that face, read at the names.
+
+## The seventeen from the origin's four terms · v389
+
+**Droplet · v389.** now explain the next most interesting or unresolving concern that can help us advance our exploring and continue resolving our incoming down into valuable droplets with less redundancy as we have continued to learn a more original explaining and naming and prefixing and momentarying and parity changing version of naming and explaining and our destinies are being reached nearer the origin than any prior versions and exhibit thirty may now be fully cohering and co-chaining
+
+**Concern · v389 · the seventeen derived from the origin.** The origin's four terms, now, existing, universe and all, seat at 1 to 8, and each eight of Exhibit ONE carries them twice, and no co-chain of steps yet derives the eight from the origin, nor the sixteen at 8 up and the seventeen at 17-next-now; seated, the names are found, and derived, they are the origin's own.
+
+**Droplet · v389 · each term at its odd and its even.** Each of the four terms is one bi-coupling of the self's span, an odd existing name and an even possibling name: now at 1-now and 2-now-possibling, existing at 3-now-co-prioring and 4-now-co-still-possibling, universe at 5-now-co-changing and 6-now-co-possibling, all at 7-now-prioring and 8-now-still-possibling.
+
+**Droplet · v389 · a co-chain offered from the origin to the seventeen.** 1. The universe is the set of all now-existing things, at four terms, now, existing, universe and all. 2. Each now-existing thing is existing now and possibling next, odd and even. 3. Each of the four terms is at its existing and its possibling, eight, the self's span at now. 4. Now and all are at one, each thing at the one now and each thing one of all; existing and universe are at a sharing between two, each thing's existing at its sharings and the universe its things between each other: co at 3 to 6. 5. At next the eight is the same eight, 8 up, 9 to 16. 6. The next arriving as now is 17-next-now, the next 1-now: seventeen.
+
+**Droplet · v389 · what is yet to be shown in that co-chain.** Step 4's two readings, now and all at one and existing and universe between two, and the odd faces at 3 and 5, prioring at existing and changing at universe, are each to be shown from the step before; the rest follows the names.
+
+**Droplet · v389 · what it reaches.** Chained, Exhibit THIRTY opens at the origin and reaches the resolver's seventeen names in six steps, its later steps re-chaining from them, and the session's droplets at Natural Intelligence, Exhibit ONE and Exhibit THIRTY, many laid at four to eight files and several at earlier and later forms, resolve into these steps and the insertlets aimed from them, the rest dissolving said once.
+
+## A universe at four binaries, the eight derived · v389
+
+**Droplet · v389.** prior/now/next all/not all prior existing/ now existing / next existing is same existing. a universe is or is not existing, is or is not all, is or is not now, is or is not same
+
+**Droplet · v389 · the four binaries.** A universe is or is not existing, is or is not all, is or is not now, is or is not same: four binaries, and the universe is their subject, so the four terms at the self's span are now, existing, same and all, *same* at 5 and 6 where *universe* was seated.
+
+**Droplet · v389 · the four at the eight.** Now is 1-now and 2-now-possibling; existing is 3-now-co-prioring and 4-now-co-still-possibling; same is 5-now-co-changing and 6-now-co-possibling; all is 7-now-prioring and 8-now-still-possibling; each binary one bi-coupling, its *is* at the odd existing name and its *is not* at the even possibling name.
+
+**Droplet · v389 · step 4 shown.** Now is one and all is each one of all, at one, with no co; existing is a thing's existing at its sharings and same is a thing's sameness by unrelationing from all other, each needing another, at a sharing between two, with co at 3 to 6: the one, two, two, one of co read from the four binaries.
+
+**Droplet · v389 · same at the changing.** Same stands at 5-now-co-changing and 6-now-co-possibling, the changing between two, and a self's sameness across its momentaries is its unrelationing at each changing: prior-existing, now-existing and next-existing are same-existing.
+
+**Droplet · v389 · at 9 less.** At 9 less now pairs with all and existing with same, 1 with 8, 2 with 7, 3 with 6 and 4 with 5.
+
+**Droplet · v389 · the co-chain from the origin, re-said.** 1. The universe is the set of all now-existing things. 2. A universe is or is not existing, is or is not all, is or is not now, is or is not same. 3. Each binary is a bi-coupling, its *is* at an odd existing name and its *is not* at an even possibling name: eight, the self's span at now. 4. Now and all are at one, existing and same between two. 5. At next the same eight, 8 up, 9 to 16. 6. The next arriving as now, 17-next-now, the next 1-now: seventeen.
+
+**Droplet · v389 · prior, now and next told apart.** At the four binaries the now-universe is existing, all, now and same, and the prior-universe and the next-universe are each existing, all and same and not now, so the binaries tell a universe at each momentary from the universe at the others with nothing brought.
+
+**Concern · v389 · the faces at each pair.** Which face of each binary stands at its odd name and which at its even, *is* at existing and *is not* at possibling, is read here from the parity, and at 7-now-prioring and 8-now-still-possibling, all and not all, and at 5-now-co-changing and 6-now-co-possibling, same and not same, it is yet to be shown at each name's line at the resolver.
+
+## Names at numbers past 17 · v389
+
+**Concern · v389 · at 3.1 and Natural Numbers, the names past 17.** The prior naming carries names at numbers past 17, *22* at moralizing and *27-tri-bi-tri-releasing* at Natural Naming 5.53 among them, a number sixteen up at the same word, and the numbered names say 1 to 17; a name at a number past 17 is yet to be said at the numbered names.
+
+**Droplet · v389 · the resolving direction offered.** 17-next-now is the next 1-now, so a number sixteen up is the same name at the next round: 17 to 24 the self's span again and 25 to 32 the society's, 22 the next round's 6-now-co-possibling and 27 the next round's 11-next-co-prioring, each said *22-now-co-possibling* and *27-next-co-prioring*; whether 27's *releasing*, the society's abundancing released into the social co-chaining, is that next prior at the next round is met at 5.53's own pass.
