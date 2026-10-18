@@ -1580,3 +1580,279 @@ Both directions carry. A clinical substrate the form has not met opens an axis t
 A medicine couples with a body, and a coupling opens an axis neither held,
 
 A dose arrives at a self, and a reference arrives from a society — two at different grains, and a difference between them entered nowhere in a prescribing.
+
+## Re-said at pass 8, a second family Natural Naming 2.4 releases, v389
+
+positions hold the form
+
+a surplus a +1 owned neither-ing
+
+a coupling held at one position
+
+positions hold a form while a departed one
+
+an observing held exactly, and no rule about which patterns
+
+a thing a neutral holds
+
+again in a surplus thrown away
+
+reads the sign of a sum and never its size
+
+does not change the sum's sign
+
+A tip arrives where a sum crosses
+
+that crossing is met at every tissue membrane
+
+two meeting at a break site
+
+A physician holds alignment
+
+positions hold a whole while restoration
+
+positions holding a form on a torus surface
+
+a worsening is held to be a mechanism
+
+meeting disease at its shortest perimeter
+
+finds neither side holding: an exposure
+
+a two-way held to one side is what a row was
+
+one departure met at one membrane
+
+separating meeting through one clinical wall
+
+one side holding, an alternation stills
+
+each wave from a surplus of a last
+
+a form meeting a science
+
+a range held between them
+
+a living is held to be carrying toward
+
+a phase-control holding them out of phase
+
+A setpoint that will not hold.
+
+a mitochondrion held still; an activated
+
+Low oxygen holds a cell below a prime
+
+four departures already met above
+
+a surplus owned rather than owned-neither-ing; and not-same
+
+a surplus floated — discovering
+
+**A holding — forced-choosing, at a classif
+
+quiescence held past its own returning
+
+a coupling: a surplus owned rather than owned-neither-ing, a cell rising
+
+re-floats, a surplus returns to owned-neither
+
+a surplus re-floated rather than Warburg
+
+a surplus stands owned by neither, exceeding a sum
+
+two meeting at an organism's own eating
+
+and holds only while a driving lasts
+
+holds a neighbourhood and not a cell
+
+carry above, met at conserving-and-extending
+
+A two-field observing is met and a three-field
+
+an observing itself holds for: before laying
+
+parities sum to a bounding-zeroing neither carried in
+
+a position two offerings meet at and sum, and a barrier
+
+a one-way, held-still story
+
+deepening a landing holds a thing still
+
+is a holding physics carries at its own scale
+
+envelope proteins hold a **metastable** form
+
+a form held against its own tendency to change
+
+a receptor met, a temperature
+
+and it holds or it goes
+
+low enough to hold form and not low enough
+
+Nothing is held continuing and nothing is stored
+
+a real one holds an alternating still
+
+what a between meeting is, and it is not an infecting
+
+nothing-between met at its extreme
+
+a cell that meets it
+
+a file lists that holding at 4.1
+
+A reservoir clones hold their silence
+
+clean sequencing, held fresh, unsurfaced
+
+marks that hold silence at a specific
+
+a prediction and a mechanism have met at one between
+
+low expression is held by stable host transcriptional programmes which persist
+
+itself, met from an other side and fixed
+
+a compaction 2.1 is, met at a cure
+
+is what a cell holds; inverted
+
+what it holds and how long it lasts
+
+a mitochondrion holding still
+
+a line-demanding holding.** Asking
+
+a cell society holds its path against a deformed self
+
+coupling observing holds both, and is a blood route
+
+A third position meets them from within a fold
+
+one form met here at a receptor
+
+an opening holds still while a direction of what flows reverses
+
+An opening holds still at each
+
+nothing left for a nothing to hold.
+
+a past held still. A living
+
+a reservoir to hold a persistence
+
+a magnitude held still — and a word
+
+two locations at once and holds both
+
+no thing at all, and holding both is a soldier
+
+a place a cell society holds its path against a deformed surface
+
+a fixed hub that holds or observes a magnitude
+
+a store that holds a magnitude, a controller
+
+a compartment holding few of members
+
+a part that holds little of it
+
+A concept held publicly in 1980s and 1990s
+
+**A holding — line-demanding.** A surface
+
+between scales, met at nine surfaces
+
+A crossing that stops holds an emanation at its own scale
+
+a holding is what surfaces record as departure
+
+a holding is not contained at a surface
+
+two schools, each holding one side of a two-way
+
+two membranes meeting through perpendicular inseparating
+
+**A holding — forced-choosing.** Damage or
+
+two schools each holding one side of a two-way, where
+
+a late-bend meeting through perpendicular inseparating
+
+**A holding — line-demanding, at departments
+
+**A holding — forced-choosing, five ways
+
+placements standing, and each field holding one
+
+a first collar a systemic delivery meets
+
+**a bounding at their own meeting** — an answer
+
+neither field has met it.
+
+standing row carries a holding, which orients
+
+store-seeking, met at a trial and not at a standing problem
+
+a whole of what medicine holds.*
+
+more than any other holding, and a reason
+
+a two-way held to one side leaves an other side
+
+standing for someone to hold, so medicine's
+
+is a largest holding in this file's own subject
+
+3.4 is that same holding at a body
+
+one thinning met at five membranes by five instruments
+
+A refusal and a holding are two observings
+
+a holding names what a coupling's third term
+
+bounding-zeroing held between two, while a setpoint
+
+a larger half: a biggest surplus and a least attention
+
+an axis neither held, a side-effecting
+
+an orthogonal a meeting makes, a +1
+
+a co-competency, a surplus of a meeting, and not a medicine failing
+
+a healing a surplus of a coupling and not a magnitude
+
+competency** — a surplus recursioned and not discarded
+
+at once, and each holds a different half
+
+one direction, and no surplus made
+
+by inverting a row and met by neither field
+
+own move, met at its own count.**
+
+any time, held by host transcriptional program
+
+a physician holding alignment · a marrow
+
+an opening holding still while a direction reverses
+
+an observing held exactly, and no rule about which observations
+
+Health holds a **living**; restoration
+
+a departure is a between, held by neither
+
+a form has not met opens an axis a form did not hold
+
+a practice meet at one substrate stands not-yet
+
+one observing not yet met: a living carry reads forward

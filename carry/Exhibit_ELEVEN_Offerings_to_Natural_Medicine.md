@@ -213,3 +213,7 @@ The current question is: **At the next colliding, which co-chaining of the inwar
 **Concern · at a sentence.** Beside "**And a surfacing reads the sign of a sum and never its size**, which is why most increments add and nothing tips: a sig"…
 
 *Standing at v389:* Natural Medicine 1.1 has "a surfacing reads the sign of a sum and never its size" and a carrying's signs inverting "at their own sign". At Exhibit ONE v389, 14-next-possibling is "offerings surfacing at each sharing, same one parity and parting 0": an agreeing, not a sum, so offerings +, +, − surface 0 there and + as a sum. **To resolve:** is a tipping re-said at 14's agreeing, one parity or parting 0, or does a sum's parity stand as medicine's own at a dose curve?
+
+**Concern · *aging* of a carry.** Beside "A carry ages by **attentioning**" and 19 more passages at one concern
+
+*Standing at v389:* Natural Medicine has a carry aging and releasing, a carry going stale, where Natural Naming 2.4 carries *ages* at *next*: only next is, and ageing dissolves. At Natural Health, Natural Values and Natural Biology the same use stands as a concern, since *next* flips stale to fresh. **To resolve:** re-say a carry aging at each file as its next, a carry released at its completing, or keep *aging* as the older code's word with its concern at Exhibit ONE?
