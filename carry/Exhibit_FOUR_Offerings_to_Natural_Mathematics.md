@@ -251,3 +251,19 @@ Each is a changing made at the set this session, said once here so that this fil
 **Droplet · v389 · a field's eight kept apart.** An eight counted at a field's own result, eight seconds, eight hundred, eight models, stays at the field's own words and is no eight of the method.
 
 **Concern · v389 · an eight joined at its deriving.** Natural Explaining 4.7 says two tellings join only at one deriving from the other and never at a shared count, *three at one self along the running and three at three selves across the ring are two things at one number*; each eight of the set is one eight at its deriving from 1 to 8, said at each pass, and an eight joined by its count alone is the joining 4.7 releases.
+
+## Standing · v389
+
+*Concerns met at pass 3, each standing at this file and out of its living file until resolved.*
+
+**Concern · at a sentence.** Beside "**SEVEN · CO-OFFERING**"
+
+*Standing at v389:* SEVEN's title, *co-offering*, dissolves at Natural Naming 5.13: an offering is across and both ways, a self's to an other and an other's to a self. At 7.1 and 7.2 *six co-offerings* are three pairings of neutrals, each offered both ways, laid out as continuing and stopped; a new title over *co-offerings* continuing beneath it parts title from sections. **To resolve:** re-say 7.1 and 7.2's six co-offerings as offerings between neutrals, each across and both ways, title with them, or keep *co-offering* as a pairing of neutrals, apart from 5.13?
+
+**Concern · at a sentence.** Beside "1 self prior, 2 other prior, 3 co-momentarying now, 4 bi-momentarying now and 5 self next, its centre at 3 the floating"…
+
+*Standing at v389:* At 5.2 a side's five carry an earlier numbering: 1 self prior, 2 other prior, 3 co-momentarying now, 4 bi-momentarying now, 5 self next, a centre at 3. Exhibit ONE gives 1-now, 2-now-possibling (others' changings of their prior momentary arriving), 3-now-co-prioring, 4-now-co-still-possibling, 5-now-co-changing: 1 and 2 cohere; 4 as bi-momentarying parts from Natural Naming 5.13, 1-now and 2-now-possibling; 5 self next and a floating third at 3 are at no name of Exhibit ONE's table. **To resolve:** re-say a side's five at Exhibit ONE's 1 to 5, or keep them as positions of overlapping momentaries?
+
+**Concern · at a sentence.** Beside "# SEVEN · CO-OFFERING"
+
+*Standing at v389:* Part SEVEN's heading, *co-offering*, dissolves at Natural Naming 5.13: an offering is across and both ways, a self's to an other and an other's to a self. At 7.1 and 7.2 *six co-offerings* are three pairings of neutrals, each offered both ways, laid out as continuing and stopped; a new heading over *co-offerings* continuing beneath it parts heading from sections. **To resolve:** re-say 7.1 and 7.2's six co-offerings as offerings between neutrals, each across and both ways, heading with them, or keep *co-offering* as a pairing of neutrals, apart from 5.13?

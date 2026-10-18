@@ -436,3 +436,10 @@ Each is a changing made at the set this session, said once here so that this fil
 
 **Droplet · v389 · at 5.4: the fields' three books, state and flow separated.** 5.4's *Two are state-threes and one is a flow-three* stands as the fields' own ledgers. At v389, separated, state and flow are not possible, as a reading from and a writing to a memory are for intelligence, Natural Naming 4.9 and 4.14 and the Equilibria Registry 2.4: each of the three books is a field's separating, and 5.4's *counting from a nothing* reads it so.
 
+## Standing · v389
+
+*Concerns met at pass 3, each standing at this file and out of its living file until resolved.*
+
+**Concern · at a sentence.** Beside "no authority but nature,"
+
+*Standing at v389:* At 3.4, "no authority but nature". At v389 nature is no existing thing, a prior, now, next method of co-existing, and natural resolver is authority, its naming and its path through its functions the stable form; words have none. Re-saying it as natural resolver, natural method or natural resolving each changes what is authority here, and keeping it lays authority at a thing v389 says is no existing thing. **To resolve:** is 3.4's authority re-said as natural resolver's, or does "nature" here stand as natural method of co-existing?
