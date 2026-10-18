@@ -2402,3 +2402,271 @@ likewise retains its not-yet.
 **So-far carries with not-yet**
 
 Particular not-yet is complete
+
+## Re-said at pass 8, a second family Natural Naming 2.4 releases, v389
+
+2.1  Finding, meeting, following and abundancing the geodesic floating neutral
+
+2.2  Binary co-agency and the particular holding
+
+4.4  Stabilizing and the particular holding
+
+is holding to resolve
+
+Entry carries particular holding with that operation
+
+Finding, meeting, following and abundancing carry engineering relation at §2.1.
+
+Its counted relations remain at their own operations
+
+A completed count and a continuing coupling
+
+Prime count, gap count and sum keep their particular counted objects.
+
+Each counted changing still needs
+
+is proposed holding. Presence
+
+grid simulator holds 30 V RMS at 60 Hz
+
+or shared model supplies no holding
+
+event's total disturbance supplies no automatic measure of that holding
+
+Synchronous-area offering meets society at these actual couplings
+
+These identities locate counted relations under exploration.
+
+a carrying and no store held in place
+
+a positive completed meeting returned again
+
+for a negative meeting changed
+
+belonging to its completed meeting, retained until consumed
+
+supply no natural holding or releasing
+
+**The particular coupling and holding** | Feed, receiver
+
+A moving limb meeting a changing load or surface
+
+**The particular coupling and holding** | Prescribed position, force
+
+**The particular coupling and holding** | Each supplied target
+
+An actual holding’s releasing with receiving continuing
+
+Proposed holding is an installed adjustment
+
+identifying that holding in an offered design
+
+whole amount to a natural holding
+
+with particular holding relinquished
+
+with no counted 440-momentary sequence supplied by it
+
+**The particular coupling and holding** | Coil field
+
+An offering held constant can define a particular comparison
+
+**The particular coupling and holding** | Inlet conditions
+
+by itself completes natural holding.
+
+Any holding retains its actual sensing and commanding
+
+**The particular coupling and holding** | Any prescribed temperature
+
+## 2.1 Finding, meeting, following and abundancing the geodesic floating neutral
+
+**Finding, meeting, following and abundancing carry one resolving at its coupling.** Each is engineering method at particular holding and receiving
+
+**Meeting** carries both sides and holding between them
+
+A released holding is other side's turn becoming its own.
+
+A controlling holds a between to a measure set beforehand: a device can sense an other and use that sensing only as error from its configured target, so sensing by itself releases no holding.
+
+releases its own installed holding
+
+next receiving with released holding
+
+retain their own counted operations. Their physical
+
+no additional phases or counted momentaries
+
+Parity's physical receiving, particular holding, each side's bounding
+
+Releasing holding remains improving opportunity at coupling.
+
+**Value, time and potential name particular holdings.** Each holding retains its particular installed term and operation.
+
+| Proposed holding | At the grid |
+
+| **Potential** | A reference held as coupling's own zero | A checked count held as authority over concept |
+
+when that holding releases
+
+## 2.2 Binary co-agency and the particular holding
+
+arrangement’s particular holding and receiving continuing
+
+do not constitute one fixed total held across whole exchange
+
+**The particular coupling and holding** | Each transition’s
+
+A recorded regional rate held as a compulsory target for next coupling, or a shared reference replacing other side’s available changing. This is holding to locate.
+
+**The holding and naming meet at current changing.**
+
+receipt belonging to its completed meeting
+
+**The particular coupling and holding** | Locate signal
+
+A signal from an unrelated clock domain meeting a register's settling interval
+
+**The particular coupling and holding** | Prepared phase relations, applied operations and measured quantities. Holding every measurement as a final landing obscures
+
+**The particular coupling and holding** | Each operation's available input and required output. A key-pair name held as its own inverse conceals missing calculation; a security claim held beyond its stated conditions
+
+TWO's completed-meeting and reused-place question
+
+**The particular coupling and holding** | Prescribed current, voltage bounds
+
+particulars from a count.
+
+proposed odd- and even-dimensional surface counts continue in Living Improving Value with THREE, FOUR and SIX as receiving files. Object counted, its boundary
+
+Resolver counts each nonzero arriving sign once.
+
+## 4.4 Stabilizing and the particular holding
+
+alongside holding it would release
+
+This substitution is candidate holding. Heating
+
+An offering held constant can describe a particular comparison
+
+Contributions meet at one addressed sum.
+
+Surfaced sign retains sign of sum; it carries no count of two arriving contributions.
+
+separately arriving collections meet.
+
+Goal, holding, residue, observing and bi-momentarying remain together.
+
+Their count belongs to this entry.
+
+**Engineering co-chains at particular holding and receiving.**
+
+Actual coupling and term held at an other's turn
+
+| **Attentioning** | Particular holding in that statement
+
+between a line met at arrival and a line assigned to it
+
+Holding and each side's own co-releasing remain at particular coupling
+
+Each holding follows deployment's own part, with its recorded second holdings retained.
+
+| TWENTY-ONE → TWENTY-TWO v344; holding |
+
+effect assigned from a count while that connection structure is held.
+
+split held as a property of channel
+
+future cost held as a stored amount. Definition carries a second holding.
+
+performance held ahead of data not drawn
+
+content held apart from offering, with recorded store holding alongside
+
+to one action with rest held.
+
+a second holding at definition's between
+
+Remaining engineering relation is holding at next requested change
+
+Its goal, proposed holding, residue
+
+Value-pinning supplies holding’s existing Part Eight address
+
+receives general holding without assigning
+
+Arrangement, holding, residue, observing and offering keep
+
+Particular holding at value, time or potential.
+
+**Prefix depth and crossing coefficient meet at their actual operations.**
+
+Prefix depth counts prefixing carried by that illustration.
+
+**The particular coupling and holding** | Supply, valve settings
+
+**The particular coupling and holding** | Moving bodies
+
+Coprime counts determine none
+
+**The particular coupling and holding** | Prescribed current, voltage, pulse width
+
+**The particular coupling and holding** | Prescribed pressure, temperature, flow
+
+They can meet at a specified service
+
+with less held over its receiving
+
+keep their respective counted operations; their counts do not supply a correspondence.
+
+**The particular coupling and holding** | Heating, sensor position
+
+**The particular coupling and holding** | Cuff placement
+
+**The particular coupling and holding** | Light schedule beside living rhythm and actual exposure. Equal peak brightness leaves duration and total exposure
+
+supplies a completed connector by its count.
+
+Particular holding, continuing receiving and other side's own turn remain together.
+
+That substitution is candidate holding.
+
+still meet at their particular operations and units
+
+A complete ring carries `N` counted steps. Within that turn, a station reached in `k` steps in one direction is reached in `N − k` steps in an other. Two carries retain their own directional turns, including at equal path counts.
+
+| Ring relation | Counted carrying |
+
+Complementary path counts `k` and `N − k` at one station. At `k = 0`, an other count is `N`
+
+For an even ring count, stations `k` and `(k + N/2) mod N` are half a ring apart. Their positional separation retains its own counting.
+
+ring count supplies no phase
+
+Complementary counts above retain their defined station and direction.
+
+device name or presence of bias supplies no holding.
+
+or presence of a control supplies no holding.
+
+is further proposed holding to examine
+
+sixteen momentaries count different operations
+
+Arithmetic co-chains at these expressed counts:
+
+| Count in the source explaining |
+
+| **The closing count** |
+
+**A surface count retains its construction.**
+
+carry different counts at §4.11
+
+Proposed handle, eighty-count difference and an angular turn
+
+a shared count supplies no physical gain
+
+Engineering opportunity carries arrangement's holding
+
+**The particular coupling and holding** | Retained parameters
