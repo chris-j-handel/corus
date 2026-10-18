@@ -1628,7 +1628,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
 ## 26 Fractal inward and outward
 
-        *Entering: the scale inward; 1 to 3 as 1 to 17 inward; self and society inward; the same at each scale; four inward within 1 to 9; eight inward within 1 to 17; the fractal inward and outward, at couplings; the scalings at the chain; continuing inward and outward; the one fractal at each scale; a scale a reading, the one form at each; the materials, one method at each carrying; mathematics and logic at the method, the three places of a mathematical form.*
+        *Entering: the scale inward; 1 to 3 as 1 to 17 inward; self and society inward; the same at each scale; four inward within 1 to 9; eight inward within 1 to 17; the fractal inward and outward, at couplings; the scalings at the chain; continuing inward and outward; the one fractal at each scale; prime living scales, the one form at each; the materials, one method at each carrying; mathematics and logic at the method, the three places of a mathematical form.*
 
 366. As 1, 9 and 17 at this scale are 1, 2 and 3 at the scale outward, 1, 2 and 3 at this scale are 1, 9 and 17 at the scale inward.
 
@@ -1670,9 +1670,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Adding: the one fractal at each scale.*
 
-376. A scale is a reading, a self or a society read, and the one form is at each: a boundary, a location or a measure between scales is said beyond the things of the universe, step 47.
+376. The primes 5 through 53 are prime living scales, co-parity-changing co-momentarying pattern matching, and the one form is at each, with no reading or ordering in nature: a boundary, a location or a measure between scales is said beyond the things of the universe, step 47.
 
-        *Adding: a scale a reading, the one form at each.*
+        *Adding: prime living scales, the one form at each.*
 
 377. The changing crossing at a coupling carries none of either side's carrying, and the one method is the same at each material a self's carrying is at, electrical, thermal, chemical, living or social, the materials differing at the carryings alone.
 
@@ -1686,7 +1686,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v389
 
         *Entering: living and non-living at a scale, scale at the couplings; harmful at its own scale; the harm at the scale alike; ingestible one scale inward; the accumulating, a crossing between scales stopped; bi-tri-volutioning, stable-forming; the artifacts' stable form, a non-living now-existing form; nothing living at a stable form, all existing and not living at a stable form of existing; the prior between momentaries; the three apart, the catalog of artifacts; society, momentary and universe, each a living set and the living method; a self a living set; a living set a carrying; momentarying and carrying, the method of discovering next living sets; a living self a living carrying, carried by nothing else; the bi-inversioning uniquenessing of the number one; a living set a stable form and nothing living having one, bothbothing; being dead; living, discovering next stable form; the non-living carrying nothing into next; the non-living carried by the living; a living self establishing within a living set; a thing at no prior non-living, opening or opening nothing; living from living; no first living; the non-living living at another scale; every existing thing living at one prime scale, derived; all existing things ingestible by the living.*
 
-379. At each scale and momentary a now-existing thing is living or non-living, and a living self and its non-living artifact are each at a scale: scale is a reading at the couplings, a self's inward things co-momentarying and selves together co-momentarying, no set made a thing, of no size, 372 and 376.
+379. At each scale and momentary a now-existing thing is living or non-living, and a living self and its non-living artifact are each at a scale: a scale is co-parity-changing co-momentarying pattern matching at the couplings, a self's inward things co-momentarying and selves together co-momentarying, no set made a thing, of no size, 372 and 376.
 
         *Adding: living and non-living at a scale, scale at the couplings.*
 

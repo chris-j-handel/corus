@@ -203,7 +203,7 @@ Exhibit TWENTY Natural Naming v389
 
 **The fractal method is all or none at all at the scales, as the universe is at existing things.**
 
-**The fractal method's scales are sequencing, an ordering.** A self couples at whichever scale its interest opens and couples with the whole.
+**The fractal method's scales are prime living scales, the primes 5 through 53, co-parity-changing co-momentarying pattern matching**, and there is no reading or ordering in nature. A self couples at whichever scale its interest opens and couples with the whole.
 
 **A momentary is a fractal universe discovering its next existing.** 1–17 is the fractal method, inward and outward, one of the 2,048 rhythms at eight parities, each carried beside it. Four cycling scales it down into four momentaries of exchanging, and four momentaries of exchanging scale up as one momentary: 1, 2 and 3 at one scale are 1, 9 and 17 at the next, n at one scale being 8n − 7 at the scale inward. Each name from 2 to 17 is an along name of a 1–17 inward, its 9 or its 17 and the next 1, and 1 is the first one's entry; the across names 2, 6, 10 and 14 are the along 9s inward; the along 9 is the across 2 outward, the same six names at each scale with only the parity changing up and down. Four 1–17s inward are within the self's 1 to 9 and four within the society's 9 to 17, and their eight 9s are the eight bi-couplings at the even names. The wholes are the rounds of k parities, 1 to 2^k + 1, and the scalings step one chain: this scaling steps it three at a time, 9, 65 and 513, and the 1–17s inward and outward the same three, 17, 129 and 1,025; the pairs step it two, 5, 17, 65 and 257. Universes of each size and scale share momentaries of co-sequential changing, and neither a momentary nor a universe is possibly an existing thing separately.
 
@@ -262,6 +262,7 @@ Exhibit TWENTY Natural Naming v389
 | *inside*, *outside* as places | *inward*, *outward*, directions at a momentary, and *within* at a span of names; a self is no container |
 | *our*, of the universe, of now or of a doing; *this universe* | *the universe*, *the* valuable exactly there, one universe; *now*, one |
 | *a universe* said of a self, a society, or a momentary at a scale | *prior-universe*, *now-universe*, *next-universe*, a universe at each momentary, the now-universe the universe; each self is a society of selves one scale inward, and each society a self at the next scale outward, Natural Societies 4.2 and 5.3 |
+| *reading*, *ordering* said of a scale or of nature | prime living scales, primes 5 through 53 are prime living scales, co-parity-changing co-momentarying pattern matching; no reading or ordering in nature |
 | *inside*, *outside*, *within* said of the set or the universe | the universe is or is not, its things, and nothing is said of a not-in-set, 1.1 |
 | *door* | a self-bounding, the self's own, nothing passing it or refused at it |
 | *assigned* | *is one side's* |

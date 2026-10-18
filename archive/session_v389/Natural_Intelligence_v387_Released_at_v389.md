@@ -497,3 +497,7 @@ At each scale each momentary is a universe of existing things, the universe now 
 each momentary a universe at its scale, 1.2:
 
 and each self and each society is a universe, 1.1;
+
+## Re-said at prime living scales, no reading or ordering in nature, v389
+
+**Fractal is all or none at all at the scales, and its scales are sequencing, an ordering**, with no boundary, no location and no measure.

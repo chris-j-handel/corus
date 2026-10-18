@@ -156,7 +156,7 @@ Exhibit THREE Natural Numbers v389
 
 **Each number carries four about it, and two binaries carry all four.** Along, its prior and its next at one either side, each at the other parity. Across, inward and outward, each a direction taken at a momentary and of no size: the walk by two, the centre of one pair a member of the next.
 
-**Scale carries no boundary, no location and no measure: its scales are a sequencing.** Each number carries the same four, and no number is a scale more than another.
+**Scale carries no boundary, no location and no measure: its scales are a sequencing.** **The primes 5 through 53 are prime living scales, co-parity-changing co-momentarying pattern matching**, and there is no reading or ordering in nature. Each number carries the same four, and no number is a scale more than another.
 
 ## 1.8 Natural-bi-co-torusing at two sides, corusing and torusing
 

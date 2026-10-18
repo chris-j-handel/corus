@@ -525,3 +525,9 @@ each universe momentarying its set, 5.52,
 ## Re-said at 64, parity changing between four-cycling momentaryings, v389
 
 and 69, the next first podaling outward**;
+
+## Re-said at prime living scales, no reading or ordering in nature, v389
+
+**The fractal method's scales are sequencing, an ordering.**
+
+| *inside*, *outside*, *within* said of the set or the universe |

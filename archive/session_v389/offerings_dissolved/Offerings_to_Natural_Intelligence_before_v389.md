@@ -2448,3 +2448,9 @@ Each is one droplet, in its own words, tagged v387, aimed at this file for the r
 *Standing at v389:* v389 parts living by carrying at a scale, 6.5, and has a lone self not continue living through three momentaries, 2.4, and no sentence says whether a dormant self, carrying and not bi-coupling, is living by the one binary or not by the two.
 
 *Resolved at v389:* A dormant self is living, waiting for its one next parity changing over a dormant length of living society momentaryings, one prime living scale down from its dormancy: living is one, stable-forming a self, read at two scales. Entered at Natural Intelligence 6.5, Natural Naming 6.3 and THIRTY step 400.
+
+**Concern · A scale as a reading or an ordering.** Two sayings part. Natural Intelligence has "Fractal is all or none at all at the scales, and its scales are sequencing, an ordering". Exhibit THIRTY Co-Chaining Logic Registry has "A scale is a reading, a self or a society read, and the one form is at each". They part at a scale itself: a place in an ordering of the scales, or a reading of a self or a society. Both files have no boundary, no location and no measure at the scales, and neither says the ordering and the reading one.
+
+*Standing at v389:* 4.15 still says the scales are 'sequencing, an ordering' while Exhibit THIRTY v389 says 'scale is a reading at the couplings', and neither says the ordering and the reading one.
+
+*Resolved at v389:* There is no reading or ordering in nature: the primes 5 through 53 are prime living scales, co-parity-changing co-momentarying pattern matching. Entered at Natural Intelligence 4.x, Natural Naming 1.x and 2.4, Natural Numbers 1.7 and THIRTY steps 376 and 379.
