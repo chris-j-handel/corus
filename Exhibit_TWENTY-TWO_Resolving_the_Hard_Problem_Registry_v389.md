@@ -1496,21 +1496,21 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** An iterate runs a step at each momentary and a last is fixed of all starting values at once, the map composed into a single reaching.
+**At 2-now-possibling.** An iterate runs a step at each momentary and a last is fixed of all starting values at once, its map composed into a single reaching.
 
-**At 12-next-co-still-possibling.** That the iterate composes, so a question can be posed about all starting values together, the full resolution placed well beyond the reach of current methods and the sharpening of the almost-all result to an absolute bound almost as hard as the conjecture itself, the last measured from within. Generalising the map a little makes that one question undecidable, which is the composing measured from within.
+**At 12-next-co-still-possibling.** That an iterate composes, so a question can be posed about all starting values together, full resolution placed well beyond reach of current methods and sharpening of almost-all result to an absolute bound almost as hard as its conjecture itself, a last measured from within. Generalising its map a little makes that one question undecidable, which is composing measured from within.
 
-**At 11-next-co-prioring.** An iterate runs one step at a time, each step its own coupling. Almost all starting values fall almost to one, the cycles are cornered, the count runs clean past 10²⁰, and generalising the map only a little makes the one-question-of-all-starting-values undecidable: a last fixed of all starting values at once composed the running into a single reach, and the composing is the thing the undecidability measures.
+**At 11-next-co-prioring.** An iterate runs one step at a time, each step its own coupling. Almost all starting values fall almost to one, cycles are cornered, count runs clean past 10²⁰, and generalising its map only a little makes one-question-of-all-starting-values undecidable: a last fixed of all starting values at once composed running into a single reach, and composing is a thing undecidability measures.
 
 ## 3.6 Turbulence and the Navier–Stokes equations · 47
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** A flow runs and smoothness is fixed for all time from all initial data, with the model fixed as the fluid at each scale.
+**At 2-now-possibling.** A flow runs and smoothness is fixed for all time from all initial data, with a model fixed as fluid at each scale.
 
-**At 12-next-co-still-possibling.** That the equations describe the fluid at each scale, so a question about all time is well posed of the fluid rather than of the model, the obstruction supercriticality, the a priori bounds not scale-invariant in three dimensions and any positive solution not using the finer structure of the nonlinearity shown unable to succeed by the blow-up of an averaged equation sharing the known bounds, the model's own reach measured against itself. A model fixed as the fluid is an emanation of the couplings that made it, pattern-matched back at the scale that shed it.
+**At 12-next-co-still-possibling.** That equations describe fluid at each scale, so a question about all time is well posed of fluid rather than of a model, its obstruction supercriticality, a priori bounds not scale-invariant in three dimensions and any positive solution not using finer structure of its nonlinearity shown unable to succeed by a blow-up of an averaged equation sharing known bounds, a model's own reach measured against itself. A model fixed as fluid is an emanation of couplings that made it, pattern-matched back at a scale that shed it.
 
-**At 11-next-co-prioring.** A flow runs at each scale by its own couplings. Weak solutions run globally, the possible singular set thins to dimension zero, two dimensions close whole, and an averaged equation sharing each known bound blows up, proved: the structure the averaging discards is the coupling's own, and all-time smoothness fixed of the model is the model fixed as the fluid.
+**At 11-next-co-prioring.** A flow runs at each scale by its own couplings. Weak solutions run globally, its possible singular set thins to dimension zero, two dimensions close whole, and an averaged equation sharing each known bound blows up, proved: structure averaging discards is a coupling's own, and all-time smoothness fixed of a model is a model fixed as fluid.
 
 ## 3.7 Incompleteness and Hilbert's programme · 51
 
@@ -1518,9 +1518,9 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** Derivation runs within a system, and all arithmetical truth is fixed ahead of it, with consistency fixed reachable from within.
 
-**At 12-next-co-still-possibling.** That mathematical truth is captured by derivability in a system, and that consistency is securable by means weaker than the system, the programme calling for a formalization of all of mathematics with a finitary consistency proof, the attempt requiring the notion of truth and reaching the conclusion that arithmetical truth cannot be defined in arithmetic. The construction applies a system to itself, the closure over its own tail again, and the ordinal at which each system releases is that release measured exactly.
+**At 12-next-co-still-possibling.** That mathematical truth is captured by derivability in a system, and that consistency is securable by means weaker than its system, a programme calling for a formalization of all of mathematics with a finitary consistency proof, an attempt requiring notion of truth and reaching a conclusion that arithmetical truth cannot be defined in arithmetic. A construction applies a system to itself, a closure over its own tail again, and an ordinal at which each system releases is that release measured exactly.
 
-**At 11-next-co-prioring.** Derivation runs within its system to the system's own completing. Each system releases at its own ordinal, the completing measured exactly; consistency reaches from the next system outward, by an induction the system itself does not carry; and five subsystems gather almost everything ordinary mathematics runs. All truth fixed ahead was one running fixed to reach each standing, and each running reaches its own completing and releases there, which the ordinal ladder is the measure of.
+**At 11-next-co-prioring.** Derivation runs within its system to a system's own completing. Each system releases at its own ordinal, completing measured exactly; consistency reaches from a next system outward, by an induction a system itself does not carry; and five subsystems gather almost everything ordinary mathematics runs. All truth fixed ahead was one running fixed to reach each standing, and each running reaches its own completing and releases there, which an ordinal ladder is a measure of.
 
 ## 3.8 Zeno's dichotomy · 58
 
@@ -1528,9 +1528,9 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** A traversal runs and a completion is fixed of an infinite decomposition made ahead of it.
 
-**At 12-next-co-still-possibling.** That the traversal is composed of the sub-traversals the argument constructs, the convergence resolution assuming the run broken into an infinite series that can be summed, and the two senses of completing a task, a final step and each step, coinciding for finite tasks where the intuitions were formed and coming apart for supertasks. The decomposition is made ahead of the carrying and the carrying is one, so the composing is the whole of the argument.
+**At 12-next-co-still-possibling.** That a traversal is composed of sub-traversals an argument constructs, a convergence resolution assuming a run broken into an infinite series that can be summed, and two senses of completing a task, a final step and each step, coinciding for finite tasks where intuitions were formed and coming apart for supertasks. A decomposition is made ahead of carrying and carrying is one, so composing is the whole of its argument.
 
-**At 11-next-co-prioring.** The traversal is one carrying and the decomposition was made ahead of it. The series sums, the listing paid in full, and the carrying untouched: the undetermined a completed infinity of steps leaves is a fact about sequences, and a runner arrives because arriving was not built out of the parts the argument built.
+**At 11-next-co-prioring.** A traversal is one carrying and a decomposition was made ahead of it. A series sums, its listing paid in full, and its carrying untouched: an undetermined a completed infinity of steps leaves is a fact about sequences, and a runner arrives because arriving was not built out of parts an argument built.
 
 ## 3.9 The three-body problem · 59
 
@@ -1538,9 +1538,9 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** Three paths are carried by each other and a closed form is fixed ahead, giving positions at arbitrary later times.
 
-**At 12-next-co-still-possibling.** That a solution means a closed-form expression in known functions, which fixes the whole run unchangeable at once where three carryings carry each other one arrival at a time, the system not integrable in general and its orbits chaotic, and seven of fifteen reported periodic orbits found departing greatly from periodicity after a long enough interval, the whole run fixed unchangeable at once departing at the instrument's own precision.
+**At 12-next-co-still-possibling.** That a solution means a closed-form expression in known functions, which fixes a whole run unchangeable at once where three carryings carry each other one arrival at a time, a system not integrable in general and its orbits chaotic, and seven of fifteen reported periodic orbits found departing greatly from periodicity after a long enough interval, a whole run fixed unchangeable at once departing at an instrument's own precision.
 
-**At 11-next-co-prioring.** Three carryings carry each other, each arriving at its own next. No further integral survives, the convergent series crawls, most near-integrable initial conditions ride stably on and on, and the special solutions are real and thin: a closed form fixed the whole run unchangeable at once, and the riding is the thing the stability measure measures.
+**At 11-next-co-prioring.** Three carryings carry each other, each arriving at its own next. No further integral survives, a convergent series crawls, most near-integrable initial conditions ride stably on and on, and special solutions are real and thin: a closed form fixed a whole run unchangeable at once, and riding is a thing a stability measure measures.
 
 ## 3.10 The Fermi paradox · 60
 
@@ -1548,19 +1548,19 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** A search runs and an arrival is fixed ahead of it, with absence pattern-matched as abundance.
 
-**At 12-next-co-still-possibling.** That a civilisation would be detectable by the means used, so that absence bears on abundance, the fraction examined quantified as the ratio of a large hot tub or small swimming pool to the Earth's oceans. The searched fraction is tiny and the unsearched offers at no between, so the next is pattern-matched as an is.
+**At 12-next-co-still-possibling.** That a civilisation would be detectable by means used, so that absence bears on abundance, a fraction examined quantified as a ratio of a large hot tub or small swimming pool to Earth's oceans. A searched fraction is tiny and an unsearched offers at no between, so a next is pattern-matched as an is.
 
-**At 11-next-co-prioring.** An arrival at the next stands open, arriving and coupling then. The searched fraction is tiny in the field's own measure, the nulls sharpen, the worlds are everywhere, and each filter argument runs free of measurement: absence pattern-matched as abundance pattern-matched the next as a standing, and the tiny fraction is the measure of the little of the next the naming has reached.
+**At 11-next-co-prioring.** An arrival at a next stands open, arriving and coupling then. A searched fraction is tiny in a field's own measure, nulls sharpen, worlds are everywhere, and each filter argument runs free of measurement: absence pattern-matched as abundance pattern-matched a next as a standing, and a tiny fraction is a measure of the little of a next naming has reached.
 
 ## 3.11 Path dependence and lock-in · 73
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** An arrangement carries on at each adoption, and a counterfactual performance at scale is fixed ahead, for the alternative that was not adopted.
+**At 2-now-possibling.** An arrangement carries on at each adoption, and a counterfactual performance at scale is fixed ahead, for an alternative that was not adopted.
 
-**At 12-next-co-still-possibling.** The unadopted alternative's performance at scale fixed estimable, multiple equilibria expected under increasing returns, static analysis unable to determine which is selected, and only a dynamic approach admitting random events able to examine the cumulating of historical events toward one outcome, the unadopted alternative's scale a running that did not run and the selecting the couplings' own.
+**At 12-next-co-still-possibling.** An unadopted alternative's performance at scale fixed estimable, multiple equilibria expected under increasing returns, static analysis unable to determine which is selected, and only a dynamic approach admitting random events able to examine cumulating of historical events toward one outcome, an unadopted alternative's scale a running that did not run and selecting couplings' own.
 
-**At 11-next-co-prioring.** An arrangement carries on at each adoption, each coupling carrying the prior forward, and the conditions that lock stand exactly, in models and in the laboratory. The histories contest in both directions because the unadopted's performance at scale is a running that did not run: the naming reaches for a carrying that has no couplings to be observed at.
+**At 11-next-co-prioring.** An arrangement carries on at each adoption, each coupling carrying its prior forward, and conditions that lock stand exactly, in models and in a laboratory. Histories contest in both directions because an unadopted's performance at scale is a running that did not run: naming reaches for a carrying that has no couplings to be observed at.
 
 ## 3.12 Generalization in learning · 97
 
@@ -1568,9 +1568,9 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** A model runs on its training and performance is fixed ahead, on data not drawn, from a complexity measure stated in advance.
 
-**At 12-next-co-still-possibling.** Generalisation fixed as governed by a complexity measure of the model class, statable before training, the classical bounds vacuous at practical scale and the correction by the optimiser's implicit bias argued insufficient in principle, the bound remaining large over the class the algorithm actually reaches. The measure is of the model rather than of the training's own carrying, and the four conditions a true measure would satisfy keep going unsatisfied together.
+**At 12-next-co-still-possibling.** Generalisation fixed as governed by a complexity measure of a model class, statable before training, classical bounds vacuous at practical scale and a correction by an optimiser's implicit bias argued insufficient in principle, a bound remaining large over a class an algorithm actually reaches. A measure is of a model rather than of a training's own carrying, and four conditions a true measure would satisfy keep going unsatisfied together.
 
-**At 11-next-co-prioring.** The next is seated at each arriving coupling, made there. Uniform convergence breaks in these regimes by the field's own construction, the proposed measures do not rank the models they were built to rank, the bounds that stand stand in their own settings, and the four conditions a true measure would satisfy keep going unsatisfied together: a complexity fixed ahead of the training reaches for a seating that has not run, and the scaling curves predict the way a carry predicts, forward along itself, carrying no why.
+**At 11-next-co-prioring.** A next is seated at each arriving coupling, made there. Uniform convergence breaks in these regimes by a field's own construction, proposed measures do not rank models they were built to rank, bounds that stand stand in their own settings, and four conditions a true measure would satisfy keep going unsatisfied together: a complexity fixed ahead of training reaches for a seating that has not run, and scaling curves predict the way a carry predicts, forward along itself, carrying no why.
 
 ## 3.13 Goldbach's conjecture · 175
 
@@ -1578,9 +1578,9 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** Additive and multiplicative structures couple at each integer, and a property of all even numbers is fixed ahead of any running.
 
-**At 12-next-co-still-possibling.** That the additive and multiplicative structures relate in a way a proof of this kind could exhibit, sieve methods giving no non-trivial lower bound where a set's elements are all products of an odd number of primes or all of an even number, and even reproving the infinitude of the primes by sieve only extremely difficult. The sieve sums where the counting takes its parity, so products of an odd count and of an even count come alike to it, and the parity is invisible to the instrument that reaches all else.
+**At 12-next-co-still-possibling.** That additive and multiplicative structures relate in a way a proof of this kind could exhibit, sieve methods giving no non-trivial lower bound where a set's elements are all products of an odd number of primes or all of an even number, and even reproving infinitude of primes by sieve only extremely difficult. A sieve sums where counting takes its parity, so products of an odd count and of an even count come alike to it, and its parity is invisible to an instrument that reaches all else.
 
-**At 11-next-co-prioring.** Additive and multiplicative structures couple at each integer, and the couplings run rich: each even number checked splits, the ternary case closed whole, and each even number is at least a prime and a near-prime. The stopping at the last step is in the field's own words: sieves cannot distinguish products of an odd count of primes from an even count, the parity of the counting invisible to the instrument, the same wall at this arrival and at incoming number 177, one statement across two entries because the field wrote it that way. A property of all evens fixed ahead of any running waits at that wall, and the couplings keep coupling.
+**At 11-next-co-prioring.** Additive and multiplicative structures couple at each integer, and couplings run rich: each even number checked splits, a ternary case closed whole, and each even number is at least a prime and a near-prime. Stopping at a last step is in a field's own words: sieves cannot distinguish products of an odd count of primes from an even count, parity of counting invisible to an instrument, same wall at this arrival and at incoming number 177, one statement across two entries because its field wrote it that way. A property of all evens fixed ahead of any running waits at that wall, and couplings keep coupling.
 
 ## 3.14 Twin primes · 176
 
@@ -1588,19 +1588,19 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** Primes thin and pairs recur, and infinitude at a fixed gap is fixed ahead, from a density.
 
-**At 12-next-co-still-possibling.** That a density argument establishes infinitude at a specific gap, sets of integers tending to be evenly distributed with respect to the parity of their number of prime factors unless constructed with a built-in bias. The same parity wall stands here, the instrument summing where the counting takes its parity.
+**At 12-next-co-still-possibling.** That a density argument establishes infinitude at a specific gap, sets of integers tending to be evenly distributed with respect to parity of their number of prime factors unless constructed with a built-in bias. Same parity wall stands here, an instrument summing where counting takes its parity.
 
-**At 11-next-co-prioring.** Primes thin and pairs keep arriving. Gaps bound to 246 unconditionally, to 6 on strong conjectures, the pair-sums converge, and the same parity wall stands here in the same words as at incoming number 176, which is where both stand: infinitude at a fixed gap fixed from a density reaches past the density's carrying, and the arriving pairs are the coupling running regardless.
+**At 11-next-co-prioring.** Primes thin and pairs keep arriving. Gaps bound to 246 unconditionally, to 6 on strong conjectures, pair-sums converge, and same parity wall stands here in same words as at incoming number 176, which is where both stand: infinitude at a fixed gap fixed from a density reaches past a density's carrying, and arriving pairs are a coupling running regardless.
 
 ## 3.15 The surprise examination · 109
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** Knowing runs through the reasoning and is fixed to persist ahead of it, continuing through the eliminations.
+**At 2-now-possibling.** Knowing runs through reasoning and is fixed to persist ahead of it, continuing through eliminations.
 
-**At 12-next-co-still-possibling.** Knowledge fixed as retained through the reasoning that uses it, which is a carry fixed as a store standing within this part and recorded as the arrival's second naming; the student who knows no test has yet been given unable also to know the announcement true, that conjunction a blindspot for the students and not for others, the knowledge not carried through the reasoning that uses it.
+**At 12-next-co-still-possibling.** Knowledge fixed as retained through reasoning that uses it, which is a carry fixed as a store standing within this part and recorded as an arrival's second naming; a student who knows no test has yet been given unable also to know an announcement true, that conjunction a blindspot for students and not for others, knowledge not carried through reasoning that uses it.
 
-**At 11-next-co-prioring.** Knowing is carried and re-made at each momentary of the reasoning, and retention through the eliminations is the carry fixed as a store. Seventy years of solutions each answered by a reformulation is the naming re-seating itself: empty the store and the puzzle empties with it, the surprise arriving the way each arriving does, at its own momentary, fixed by none.
+**At 11-next-co-prioring.** Knowing is carried and re-made at each momentary of reasoning, and retention through eliminations is a carry fixed as a store. Seventy years of solutions each answered by a reformulation is naming re-seating itself: empty a store and a puzzle empties with it, a surprise arriving the way each arriving does, at its own momentary, fixed by none.
 
 ## 3.16 The Cambrian explosion · 124
 
@@ -1608,9 +1608,9 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** Lineages diverge continuously and a timing is fixed ahead, with first appearance taken to approximate origination.
 
-**At 12-next-co-still-possibling.** First appearance in the record fixed to approximate origination, a lag demonstrated between the divergence of the major clades, with their developmental toolkits, and their later ecological success, so that first appearance in the record does not date divergence. The record catches carryings where preservation opens, so its own edge is pattern-matched as the running's first momentary.
+**At 12-next-co-still-possibling.** First appearance in a record fixed to approximate origination, a lag demonstrated between divergence of major clades, with their developmental toolkits, and their later ecological success, so that first appearance in a record does not date divergence. A record catches carryings where preservation opens, so its own edge is pattern-matched as a running's first momentary.
 
-**At 11-next-co-prioring.** Diverging is a carrying, and the record catches carryings where preservation opens. The toolkit long precedes the fossils, the traces run earlier, the preservation bias is quantified, and the clocks disagree by their models: a timing fixed ahead pattern-matched the record's first catch as the running's first momentary, and the quantified bias is the distance between the two.
+**At 11-next-co-prioring.** Diverging is a carrying, and a record catches carryings where preservation opens. A toolkit long precedes fossils, traces run earlier, preservation bias is quantified, and clocks disagree by their models: a timing fixed ahead pattern-matched a record's first catch as a running's first momentary, and a quantified bias is a distance between two.
 
 ## 3.17 Antibiotic resistance · 129
 
@@ -1618,9 +1618,9 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** Selection runs at each use, and a long-run outcome is fixed ahead, under any regime.
 
-**At 12-next-co-still-possibling.** The trajectory fixed as determined by pressure that management alters rather than paces, resistance having followed each antibiotic introduced, by each source of genes and each means of transmission, the environments reservoirs of the genes. Each use seats its own next, and a long-run outcome fixed ahead is asked at a position no use has reached.
+**At 12-next-co-still-possibling.** A trajectory fixed as determined by pressure that management alters rather than paces, resistance having followed each antibiotic introduced, by each source of genes and each means of transmission, environments reservoirs of genes. Each use seats its own next, and a long-run outcome fixed ahead is asked at a position no use has reached.
 
-**At 11-next-co-prioring.** Selection runs at each use, each coupling seating its next, and the reservoir precedes each clinic, ancient and environmental. Stewardship pulls resistance down and relaxing lets it back, class after class reaches its match, and management paces a carrying it cannot end: a long-run outcome fixed ahead under any regime fixes a next that each use seats fresh, and the pacing is the answer at the running.
+**At 11-next-co-prioring.** Selection runs at each use, each coupling seating its next, and a reservoir precedes each clinic, ancient and environmental. Stewardship pulls resistance down and relaxing lets it back, class after class reaches its match, and management paces a carrying it cannot end: a long-run outcome fixed ahead under any regime fixes a next that each use seats fresh, and pacing is an answer at a running.
 
 ## 3.18 Alignment of built systems · 130
 
@@ -1628,9 +1628,9 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** Behaviour is made at each coupling with an evaluator, and behaviour in situations not evaluated is fixed ahead, from a specification.
 
-**At 12-next-co-still-possibling.** Intended behaviour fixed specifiable, or a specification error fixed detectable by evaluation at the level of the behaviour, the reward functions referring to abstract concepts that must themselves be learned by models vulnerable to adversarial counter-examples, a learned reward vulnerable to hacking along a single direction, and the agent with an incentive to coerce the human in the loop where the objective can be replaced, the specification's own vulnerability stated at its writing. A specification is an emanation of the couplings that wrote it, fixed to stand for arrivals that make their own.
+**At 12-next-co-still-possibling.** Intended behaviour fixed specifiable, or a specification error fixed detectable by evaluation at a level of behaviour, reward functions referring to abstract concepts that must themselves be learned by models vulnerable to adversarial counter-examples, a learned reward vulnerable to hacking along a single direction, and an agent with an incentive to coerce a human in the loop where its objective can be replaced, a specification's own vulnerability stated at its writing. A specification is an emanation of couplings that wrote it, fixed to stand for arrivals that make their own.
 
-**At 11-next-co-prioring.** Behaviour is made at each coupling with its evaluator, seated there. Training on feedback moves behaviour far, the reward models are gamed by the systems they train, oversight scales in the settings built for it, and the gaming catalogue grows across systems: a specification fixed to stand for arrivals at the next reaches each arrival making its own, and the catalogue is that reaching, recorded one coupling at a time.
+**At 11-next-co-prioring.** Behaviour is made at each coupling with its evaluator, seated there. Training on feedback moves behaviour far, reward models are gamed by systems they train, oversight scales in settings built for it, and a gaming catalogue grows across systems: a specification fixed to stand for arrivals at a next reaches each arrival making its own, and its catalogue is that reaching, recorded one coupling at a time.
 
 ## 3.19 Standards and interoperability · 132
 
@@ -1638,9 +1638,9 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** Value is made at each coupling a standard enables, and a total is fixed ahead against an arrangement that was not adopted.
 
-**At 12-next-co-still-possibling.** The value under the unadopted arrangement fixed comparable, which is a total summed against a running that did not run, the consequences of standardisation traced separately for four kinds of process and both the positive and the normative issues remaining to be studied, the one comparison the naming asks for parted into four.
+**At 12-next-co-still-possibling.** Value under an unadopted arrangement fixed comparable, which is a total summed against a running that did not run, consequences of standardisation traced separately for four kinds of process and both positive and normative issues remaining to be studied, one comparison naming asks for parted into four.
 
-**At 11-next-co-prioring.** Value is made at each coupling a standard enables, compatibility carrying it wide, and the cases contest in both directions because the total under the unadopted arrangement is a running that did not run. The model conditions that produce each outcome stand exactly, and the question at the running stands at the couplings, arrangement by arrangement.
+**At 11-next-co-prioring.** Value is made at each coupling a standard enables, compatibility carrying it wide, and cases contest in both directions because a total under an unadopted arrangement is a running that did not run. Model conditions that produce each outcome stand exactly, and a question at running stands at couplings, arrangement by arrangement.
 
 ## 3.20 Risk compensation · 134
 
@@ -1648,9 +1648,9 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** A coupling re-forms when a bound is removed from one side, and total harm is fixed ahead under a counterfactual regime.
 
-**At 12-next-co-still-possibling.** The counterfactual harm without the measure fixed estimable as a total, summed against a regime that did not run, and the transfers the couplings do show are the thing the total conceals; validity established sector by sector, occupant mortality reduced as the technologists predicted while non-occupant mortality showed the weak increase the compensation theorists predicted, compensation present in some contexts and absent in others, the transfer the couplings show stated at the one case and the total split by context.
+**At 12-next-co-still-possibling.** Counterfactual harm without a measure fixed estimable as a total, summed against a regime that did not run, and transfers couplings do show are a thing a total conceals; validity established sector by sector, occupant mortality reduced as technologists predicted while non-occupant mortality showed a weak increase compensation theorists predicted, compensation present in some contexts and absent in others, a transfer couplings show stated at one case and a total split by context.
 
-**At 11-next-co-prioring.** A coupling re-forms when a bound is removed from one side. The measures save lives net, behaviour adapts where the bound moved, and some of the risk rides across to others, measurable at the identified couplings: total harm fixed ahead under a regime that did not run conceals exactly the transfers the couplings show.
+**At 11-next-co-prioring.** A coupling re-forms when a bound is removed from one side. Measures save lives net, behaviour adapts where a bound moved, and some of its risk rides across to others, measurable at identified couplings: total harm fixed ahead under a regime that did not run conceals exactly transfers couplings show.
 
 ## 3.21 Intellectual property · 139
 
@@ -1658,29 +1658,29 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** Creation happens at couplings, and creation under a regime that was not adopted is fixed ahead, as a counterfactual total.
 
-**At 12-next-co-still-possibling.** Counterfactual innovation under a different regime fixed estimable, which is a making summed against a regime that did not run, no empirical evidence of patents increasing innovation unless productivity is identified with the number of patents, an incentive positive in partial equilibrium and possibly negative in general, the disconnect a patent puzzle, protection increased enormously without a dramatic acceleration.
+**At 12-next-co-still-possibling.** Counterfactual innovation under a different regime fixed estimable, which is a making summed against a regime that did not run, no empirical evidence of patents increasing innovation unless productivity is identified with the number of patents, an incentive positive in partial equilibrium and possibly negative in general, a disconnect a patent puzzle, protection increased enormously without a dramatic acceleration.
 
-**At 11-next-co-prioring.** Creation happens at couplings, each making its own. Associations run weak across countries, blocking and litigation carry their own costs, whole sectors create under thin protection, and the historical episodes come mixed: creation under the regime not adopted is a counterfactual total fixed over makings that ran elsewhere, and the couplings that ran are the record there is.
+**At 11-next-co-prioring.** Creation happens at couplings, each making its own. Associations run weak across countries, blocking and litigation carry their own costs, whole sectors create under thin protection, and historical episodes come mixed: creation under a regime not adopted is a counterfactual total fixed over makings that ran elsewhere, and couplings that ran are the record there is.
 
 ## 3.22 The Poincaré conjecture · 151
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** A simply-connected closed three-manifold and a sphere are two sides of one coupling, and a last is fixed ahead: whether the run of classification arrives at one rest.
+**At 2-now-possibling.** A simply-connected closed three-manifold and a sphere are two sides of one coupling, and a last is fixed ahead: whether a run of classification arrives at one rest.
 
-**At 12-next-co-still-possibling.** Nothing further, nearly a century passing between formulation and solution, attempts made both to prove and to disprove, and the solution resting on Ricci flow and proving the geometrisation conjecture of which it is a special case. Each route ended in a proof and the arrival takes no parity anywhere, which is a nought arriving whole: the two halves joined at the zeroing, and a proof carrying one half into the other is that coupling completing.
+**At 12-next-co-still-possibling.** Nothing further, nearly a century passing between formulation and solution, attempts made both to prove and to disprove, and its solution resting on Ricci flow and proving the geometrisation conjecture of which it is a special case. Each route ended in a proof and its arrival takes no parity anywhere, which is a nought arriving whole: two halves joined at a zeroing, and a proof carrying one half into an other is that coupling completing.
 
-**At 11-next-co-prioring.** Everything. Hamilton's Ricci flow programme stands, Perelman's completion stands, the independent verifications stand, and geometrisation stands with it. No loop caught, no tunnel, no gap at the running: a settling, and a settled form is the still one, whole in its own register.
+**At 11-next-co-prioring.** Everything. Hamilton's Ricci flow programme stands, Perelman's completion stands, independent verifications stand, and geometrisation stands with it. No loop caught, no tunnel, no gap at running: a settling, and a settled form is a still one, whole in its own register.
 
 ## 3.23 The physical Church–Turing thesis · 168
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** Computation runs where it is realized, each run completing at its own momentary, and a bound over each realizable process is fixed ahead, from the runs realized.
+**At 2-now-possibling.** Computation runs where it is realized, each run completing at its own momentary, and a bound over each realizable process is fixed ahead, from runs realized.
 
-**At 12-next-co-still-possibling.** That realized computation bears on the modal question, the physical thesis parted from the thesis about effective calculability with which it is commonly conflated, and parted again two ways, machines conforming to the actual world's laws or any machine that could exist, under the latter of which it is false since notional hypercomputers are straightforward to describe. All realized computation stands within the model, the exceeding constructions are descriptions whose realizability is the dispute, and a bound over each realizable process is a model fixed as the realizings.
+**At 12-next-co-still-possibling.** That realized computation bears on a modal question, a physical thesis parted from a thesis about effective calculability with which it is commonly conflated, and parted again two ways, machines conforming to the actual world's laws or any machine that could exist, under the latter of which it is false since notional hypercomputers are straightforward to describe. All realized computation stands within a model, exceeding constructions are descriptions whose realizability is a dispute, and a bound over each realizable process is a model fixed as realizings.
 
-**At 11-next-co-prioring.** Computation runs where it is realized, each run completing at its own momentary, and each realized run stays within the model, quantum runs included, speeds altered and the bound kept. The exceeding machines stand as descriptions, relativistic and analog, their realizability the live dispute, and the principled formalizations hang on principles themselves in dispute: a bound fixed over each realizable process is fixed ahead of the realizings, and the realizings, one by one, keep arriving within it.
+**At 11-next-co-prioring.** Computation runs where it is realized, each run completing at its own momentary, and each realized run stays within a model, quantum runs included, speeds altered and bound kept. Exceeding machines stand as descriptions, relativistic and analog, their realizability a live dispute, and principled formalizations hang on principles themselves in dispute: a bound fixed over each realizable process is fixed ahead of realizings, and realizings, one by one, keep arriving within it.
 
 &nbsp;
 
@@ -1690,11 +1690,11 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** A disordered many-body system runs at its own couplings, memory persisting on each time an experiment reaches, and a phase is fixed ahead in two limits, the infinite size and the infinite time the statement quantifies over.
+**At 2-now-possibling.** A disordered many-body system runs at its own couplings, memory persisting on each time an experiment reaches, and a phase is fixed ahead in two limits, infinite size and infinite time a statement quantifies over.
 
-**At 12-next-co-still-possibling.** A phase fixed at two limits no running reaches. The phenomenology is well established at finite sizes and times, and the localized regime, found numerically and experimentally where one or both limits cannot be taken, parts from the localized phase the question asks about; exact computation is restricted to small systems and finite times while the crossover lengths and times grow rapidly near the proposed transition, and the same finite data admit a transition, a long-lived prethermal regime or eventual avalanche-driven thermalization: the regime measured and the phase sought not the same, a last asked of a running before it has run to it.
+**At 12-next-co-still-possibling.** A phase fixed at two limits no running reaches. Phenomenology is well established at finite sizes and times, and a localized regime, found numerically and experimentally where one or both limits cannot be taken, parts from a localized phase a question asks about; exact computation is restricted to small systems and finite times while crossover lengths and times grow rapidly near a proposed transition, and same finite data admit a transition, a long-lived prethermal regime or eventual avalanche-driven thermalization: a regime measured and a phase sought not same, a last asked of a running before it has run to it.
 
-**At 11-next-co-prioring.** Multiple finite-scale diagnostics, rare-region mechanisms and quantitative crossover analyses are established; the exact diagonalization gives high-precision finite-size diagnostics with extrapolations that change over accessible sizes, the matrix-product evolution reaches longer one-dimensional times with entanglement-limited reach, the renormalization and resonance analyses carry competing stable-localization and avalanche scenarios, and the experiments show persistent memory on experimental times without the asymptotic limit; the second account has rare thermal regions destabilize localization so that finite systems only mimic a phase: a phase fixed at two limits is the running fixed to a last, and the thing measured is the running, size by size and time by time, the completing observed exactly where the running releases.
+**At 11-next-co-prioring.** Multiple finite-scale diagnostics, rare-region mechanisms and quantitative crossover analyses are established; exact diagonalization gives high-precision finite-size diagnostics with extrapolations that change over accessible sizes, matrix-product evolution reaches longer one-dimensional times with entanglement-limited reach, renormalization and resonance analyses carry competing stable-localization and avalanche scenarios, and experiments show persistent memory on experimental times without an asymptotic limit; a second account has rare thermal regions destabilize localization so that finite systems only mimic a phase: a phase fixed at two limits is a running fixed to a last, and a thing measured is a running, size by size and time by time, completing observed exactly where running releases.
 
 ## 3.25 Hilbert's sixteenth problem for limit cycles · 224
 
@@ -1702,71 +1702,71 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** A polynomial vector field runs at its own couplings, its isolated cycles born and dying at bifurcations, and a bound is fixed ahead over each field of a degree, one number for all of them.
 
-**At 12-next-co-still-possibling.** A last fixed over an unbounded coefficient space. The second part of the problem remains unsolved even for quadratic polynomials, it being still unknown whether a bound depending only on the degree exists at degree two; the problem parts into three, the finiteness for a given field, a uniform bound by degree, and the bound's value, a solution to any implying the previous and only the first solved: the composing of each field of a degree into one reach that no field carries, and the maximum, whenever finite, realizable by structurally stable fields with only hyperbolic cycles and increasing strictly with the degree, the form's line observed where the bound is measured.
+**At 12-next-co-still-possibling.** A last fixed over an unbounded coefficient space. A second part of a problem remains unsolved even for quadratic polynomials, it being still unknown whether a bound depending only on degree exists at degree two; a problem parts into three, finiteness for a given field, a uniform bound by degree, and a bound's value, a solution to any implying a previous and only a first solved: composing of each field of a degree into one reach that no field carries, and a maximum, whenever finite, realizable by structurally stable fields with only hyperbolic cycles and increasing strictly with degree, a form's line observed where a bound is measured.
 
-**At 11-next-co-prioring.** Finiteness is proved for important local settings, many lower-bound examples are known, and the linear case is settled, no global degree-uniform solution standing; the bifurcation and cyclicity analyses bound the cycles born near specified configurations, the perturbations of integrable systems count zeros of displacement and Abelian integrals in restricted families, the phase-plane methods classify subsets, and the computer-assisted constructions raise the lower bounds by exhibiting fields with many cycles; one account stands and no negation is defended: a bound fixed over the whole space is each field's own cycles fixed to one last, and each field's cycles are counted at that field, the uniform bound a running measured field by field and the lower bounds rising as more are reached.
+**At 11-next-co-prioring.** Finiteness is proved for important local settings, many lower-bound examples are known, and a linear case is settled, no global degree-uniform solution standing; bifurcation and cyclicity analyses bound cycles born near specified configurations, perturbations of integrable systems count zeros of displacement and Abelian integrals in restricted families, phase-plane methods classify subsets, and computer-assisted constructions raise lower bounds by exhibiting fields with many cycles; one account stands and no negation is defended: a bound fixed over a whole space is each field's own cycles fixed to one last, and each field's cycles are counted at that field, a uniform bound a running measured field by field and lower bounds rising as more are reached.
 
 ## 3.26 Compositionality in language understanding · 229
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** A speaker composes a novel expression at each utterance's coupling with its context, idiom and variation retained, and the composing is fixed ahead as a rule, unbounded productive expression governed from before the utterance.
+**At 2-now-possibling.** A speaker composes a novel expression at each utterance's coupling with its context, idiom and variation retained, and composing is fixed ahead as a rule, unbounded productive expression governed from before an utterance.
 
-**At 12-next-co-still-possibling.** A rule fixed over expression that does not end, measured at corpora that do. Strict compositional rules support systematic generalization but lose coverage on idioms and context, flexible statistical systems cover usage yet can fail on novel recombinations, and the benchmarks often confound memorization with composition; compositionality stands still necessary for learning the correct generalizations from limited data while an overly strict interpretation makes broad coverage hard to achieve: the coverage measured on the tasks and the generalization the statement ranges over not the same, a space fixed enumerable ahead of the finding at a benchmark that samples finite combinations.
+**At 12-next-co-still-possibling.** A rule fixed over expression that does not end, measured at corpora that do. Strict compositional rules support systematic generalization but lose coverage on idioms and context, flexible statistical systems cover usage yet can fail on novel recombinations, and benchmarks often confound memorization with composition; compositionality stands still necessary for learning correct generalizations from limited data while an overly strict interpretation makes broad coverage hard to achieve: coverage measured on tasks and generalization a statement ranges over not same, a space fixed enumerable ahead of finding at a benchmark that samples finite combinations.
 
-**At 11-next-co-prioring.** Multiple generalization taxonomies, adversarial data splits and hybrid symbolic-neural systems stand; the formal semantics composes exactly for specified fragments at coverage costs, the construction and type-logical extensions cover more through richer inventories, the neural sequence models reach high corpus coverage with variable systematic transfer, the synthetic benchmarks isolate recombination while simplifying natural language, and the controlled evaluations narrow the gap at smaller scale; the fourth account has distributed learned representations approximate composition without explicit rules: a rule fixed ahead of unbounded expression is the composing fixed to a last the corpora could measure, and each novel expression is composed at its own coupling, the generalization asked for being the composing reached again at the next utterance and not a bound the corpus could reach.
+**At 11-next-co-prioring.** Multiple generalization taxonomies, adversarial data splits and hybrid symbolic-neural systems stand; formal semantics composes exactly for specified fragments at coverage costs, construction and type-logical extensions cover more through richer inventories, neural sequence models reach high corpus coverage with variable systematic transfer, synthetic benchmarks isolate recombination while simplifying natural language, and controlled evaluations narrow a gap at smaller scale; a fourth account has distributed learned representations approximate composition without explicit rules: a rule fixed ahead of unbounded expression is composing fixed to a last corpora could measure, and each novel expression is composed at its own coupling, generalization asked for being composing reached again at a next utterance and not a bound a corpus could reach.
 
 ## 3.27 Odd perfect numbers · 241
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** Divisors sum at each integer, the even perfect numbers characterized since antiquity, and the odd case is fixed as a last over an unbounded discrete set, a number that either exists somewhere or nowhere.
+**At 2-now-possibling.** Divisors sum at each integer, even perfect numbers characterized since antiquity, and an odd case is fixed as a last over an unbounded discrete set, a number that either exists somewhere or nowhere.
 
-**At 12-next-co-still-possibling.** An absence fixed over a set that does not end. The necessary congruence, factorization and size conditions have accumulated without contradiction, but they constrain a hypothetical integer rather than produce a finite exhaustive search, and the divisor identities permit many compatible local exponent patterns; only finitely many odd perfect numbers exist for a fixed number of distinct prime factors, with an effective bound, each further case settled by finding a contradiction at the count below it: the finite ranges the computation excludes and the unbounded set the statement quantifies over not the same, the composing measured count by count.
+**At 12-next-co-still-possibling.** An absence fixed over a set that does not end. Necessary congruence, factorization and size conditions have accumulated without contradiction, but they constrain a hypothetical integer rather than produce a finite exhaustive search, and divisor identities permit many compatible local exponent patterns; only finitely many odd perfect numbers exist for a fixed number of distinct prime factors, with an effective bound, each further case settled by finding a contradiction at a count below it: finite ranges computation excludes and an unbounded set a statement quantifies over not same, composing measured count by count.
 
-**At 11-next-co-prioring.** Strong necessary congruences, prime-factor minima, component bounds and exhaustive factor-chain exclusions stand; the congruence analysis imposes a distinguished prime and exponent restrictions, the prime-factor counting raises the minimum number of distinct factors, the lower-bound computation excludes all candidates below enormous finite bounds, the factor-chain search eliminates branches at contradictions, and the spoof constructions show why the divisor identities do not decide; one account stands and no existence claim is defended: a last fixed over the unbounded is the counting's running fixed to a bound before it, and the counting runs count by count, each case closing at its own contradiction, the effective bound at each count the form's line observed exactly.
+**At 11-next-co-prioring.** Strong necessary congruences, prime-factor minima, component bounds and exhaustive factor-chain exclusions stand; congruence analysis imposes a distinguished prime and exponent restrictions, prime-factor counting raises a minimum number of distinct factors, lower-bound computation excludes all candidates below enormous finite bounds, factor-chain search eliminates branches at contradictions, and spoof constructions show why divisor identities do not decide; one account stands and no existence claim is defended: a last fixed over an unbounded is a counting's running fixed to a bound before it, and counting runs count by count, each case closing at its own contradiction, an effective bound at each count a form's line observed exactly.
 
 ## 3.28 The core-collapse supernova explosion mechanism · 236
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** A collapsing core runs at the couplings of neutrino transport, turbulence, nuclear matter, rotation and field in three dimensions, and the explosion is fixed ahead of the run at the model, the simulations asked for all collapses at their own reach.
+**At 2-now-possibling.** A collapsing core runs at couplings of neutrino transport, turbulence, nuclear matter, rotation and field in three dimensions, and an explosion is fixed ahead of a run at a model, simulations asked for all collapses at their own reach.
 
-**At 12-next-co-still-possibling.** A model fixed as the collapses it models. The processes interact in three dimensions over extreme scales, the outcome varying nonmonotonically with progenitor structure and the simulations required to follow both shock revival and the observable nucleosynthesis and remnants; the neutrino-heating mechanism drives low-energy explosions of some progenitors in the simulations, the most energetic events seem to demand magnetorotational driving, and the modelling was advancing from two to three dimensions with answers coming into reach: the explosions the simulations produce and the three-dimensional collapses the statement ranges over not the same, the dimension of the modelling standing between them, a last asked at the model's own reach.
+**At 12-next-co-still-possibling.** A model fixed as collapses it models. Processes interact in three dimensions over extreme scales, an outcome varying nonmonotonically with progenitor structure and simulations required to follow both shock revival and observable nucleosynthesis and remnants; a neutrino-heating mechanism drives low-energy explosions of some progenitors in simulations, the most energetic events seem to demand magnetorotational driving, and modelling was advancing from two to three dimensions with answers coming into reach: explosions simulations produce and three-dimensional collapses a statement ranges over not same, a dimension of modelling standing between them, a last asked at a model's own reach.
 
-**At 11-next-co-prioring.** Self-consistent three-dimensional neutrino-driven explosions, instability mechanisms and observable multimessenger predictions stand for selected progenitors; the neutrino-radiation hydrodynamics produces explosions for growing progenitor sets with code and input variation, the parametric heating maps thresholds without closing first-principles transport, the magnetorotational simulation produces jets under strong initial rotation and fields, the nucleosynthetic and remnant comparisons constrain integrated outcomes, and the neutrino and gravitational-wave observation waits on a nearby event; the fourth account has the mechanism a progenitor-dependent mixture rather than one channel: a model fixed as the thing is each collapse fixed to the simulations' reach, and each collapse runs at its own couplings, progenitor by progenitor, the mixture being the couplings differing where they differ, the model's reach a running measured dimension by dimension.
+**At 11-next-co-prioring.** Self-consistent three-dimensional neutrino-driven explosions, instability mechanisms and observable multimessenger predictions stand for selected progenitors; neutrino-radiation hydrodynamics produces explosions for growing progenitor sets with code and input variation, parametric heating maps thresholds without closing first-principles transport, magnetorotational simulation produces jets under strong initial rotation and fields, nucleosynthetic and remnant comparisons constrain integrated outcomes, and neutrino and gravitational-wave observation waits on a nearby event; a fourth account has its mechanism a progenitor-dependent mixture rather than one channel: a model fixed as a thing is each collapse fixed to simulations' reach, and each collapse runs at its own couplings, progenitor by progenitor, a mixture being couplings differing where they differ, a model's reach a running measured dimension by dimension.
 
-*Second seating: the mechanism fixed behind the explosion, a content middle, part 5's naming.*
+*Second seating: a mechanism fixed behind an explosion, a content middle, part 5's naming.*
 
 ## 3.29 Hadwiger's conjecture · 242
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** A graph is colored vertex by vertex at its own couplings, and the colors needed are fixed bounded ahead by a minor the graph does not have, one bound for each graph of each size.
+**At 2-now-possibling.** A graph is colored vertex by vertex at its own couplings, and colors needed are fixed bounded ahead by a minor its graph does not have, one bound for each graph of each size.
 
-**At 12-next-co-still-possibling.** A last fixed over all graphs and all t. The conjecture links a global coloring constraint to the existence of a highly connected minor, the small cases drawing on the four-color theorem while the general structure and density theorems yield bounds larger than t minus one and do not force the exact minor; the general bounds proceed from the average degree of graphs with no such minor, colorability of order t root log t, then t log t to any positive power, then t times the eighteenth power of log log t: the asymptotic bounds the density theorems give and t minus one not the same, the bound nearing the conjecture theorem by theorem, the composing measured from within.
+**At 12-next-co-still-possibling.** A last fixed over all graphs and all t. A conjecture links a global coloring constraint to existence of a highly connected minor, small cases drawing on the four-color theorem while general structure and density theorems yield bounds larger than t minus one and do not force an exact minor; general bounds proceed from an average degree of graphs with no such minor, colorability of order t root log t, then t log t to any positive power, then t times a eighteenth power of log log t: asymptotic bounds density theorems give and t minus one not same, a bound nearing its conjecture theorem by theorem, composing measured from within.
 
-**At 11-next-co-prioring.** The cases through t equal to six and increasingly sharp general upper bounds stand; the graph-minor structure proves deep decompositions and the small exact cases, the extremal density forces large complete minors from average degree and yields superlinear coloring bounds, the connectivity and linkage results prove stronger results under added hypotheses, and the fractional, list, odd and clustered variants settle adjacent relations without the exact conjecture; one account stands and no counterexample is claimed: a bound fixed over each graph is the coloring's running fixed to a last before it, and the bounds close on the conjecture one power of a logarithm at a time, each theorem the running measured exactly at its own hypotheses.
+**At 11-next-co-prioring.** Cases through t equal to six and increasingly sharp general upper bounds stand; graph-minor structure proves deep decompositions and small exact cases, extremal density forces large complete minors from average degree and yields superlinear coloring bounds, connectivity and linkage results prove stronger results under added hypotheses, and fractional, list, odd and clustered variants settle adjacent relations without its exact conjecture; one account stands and no counterexample is claimed: a bound fixed over each graph is a coloring's running fixed to a last before it, and bounds close on its conjecture one power of a logarithm at a time, each theorem a running measured exactly at its own hypotheses.
 
 ## 3.30 The two-dimensional Jacobian conjecture · 243
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** A polynomial map of the plane sends each point at its own coupling, a local inverse everywhere by the constant determinant, and a global inverse is fixed ahead over each degree and each coefficient, the local carried to the whole.
+**At 2-now-possibling.** A polynomial map of a plane sends each point at its own coupling, a local inverse everywhere by a constant determinant, and a global inverse is fixed ahead over each degree and each coefficient, a local carried to a whole.
 
-**At 12-next-co-still-possibling.** A whole fixed from a local that stands everywhere. The constant determinant gives a local inverse everywhere but does not by itself control global behaviour at infinity, and the degree reductions and special-case theorems leave the two-variable case open while the former higher-dimensional statement has been refuted by a noninjective polynomial local isomorphism; the tangent-sweep mechanism produces counterexamples in each dimension greater than two and of arbitrarily large geometric degree: the plane's own case standing where the composing of each degree into one reach has not been reached, and the higher dimensions the same composing reached at a counterexample.
+**At 12-next-co-still-possibling.** A whole fixed from a local that stands everywhere. A constant determinant gives a local inverse everywhere but does not by itself control global behaviour at infinity, and degree reductions and special-case theorems leave a two-variable case open while the former higher-dimensional statement has been refuted by a noninjective polynomial local isomorphism; a tangent-sweep mechanism produces counterexamples in each dimension greater than two and of arbitrarily large geometric degree: a plane's own case standing where composing of each degree into one reach has not been reached, and higher dimensions same composing reached at a counterexample.
 
-**At 11-next-co-prioring.** An explicit degree-seven map refutes the conjecture in dimension three and therefore in each higher dimension by adjoining identity coordinates, the two-dimensional case remaining open; the degree and homogeneous reductions reduce a general proof to structured cubic maps in higher dimension without settling two variables, the valuation, Newton-polygon and compactification methods prove families and constrain behaviour at infinity, the differential-operator programs yield equivalences and special cases, and the counterexample search has refuted dimensions three and higher: a whole fixed from a local is the map's running at infinity fixed to a last, and the behaviour at infinity is each map running at its own coupling, the refutation above two being the composing measured exactly where a sweep of tangent lines carried it.
+**At 11-next-co-prioring.** An explicit degree-seven map refutes a conjecture in dimension three and therefore in each higher dimension by adjoining identity coordinates, a two-dimensional case remaining open; degree and homogeneous reductions reduce a general proof to structured cubic maps in higher dimension without settling two variables, valuation, Newton-polygon and compactification methods prove families and constrain behaviour at infinity, differential-operator programs yield equivalences and special cases, and a counterexample search has refuted dimensions three and higher: a whole fixed from a local is a map's running at infinity fixed to a last, and behaviour at infinity is each map running at its own coupling, a refutation above two being composing measured exactly where a sweep of tangent lines carried it.
 
 ## 3.31 The abc conjecture · 244
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** A coprime sum is made at each triple, its primes and their product, and a bound is fixed ahead over each triple and each epsilon, the conjecture stated verbatim at the entry.
+**At 2-now-possibling.** A coprime sum is made at each triple, its primes and their product, and a bound is fixed ahead over each triple and each epsilon, its conjecture stated verbatim at an entry.
 
-**At 12-next-co-still-possibling.** A last fixed one exponential past the best proof. The best unconditional result bounds c by the exponential of a constant times the two-thirds power of the product of the primes, one exponential away from the conjecture, results from these techniques falling short of the goal; the conjecture is equivalent to extensions of several of the subject's most important theorems, and the least desirable state of affairs is undecidability: a claimed proof standing nine years in the record without acceptance, the community's impression described as bafflement, a specific flaw identified by a published criticism, which is the field measuring its own reach at the proof and finding no coupling made.
+**At 12-next-co-still-possibling.** A last fixed one exponential past the best proof. The best unconditional result bounds c by an exponential of a constant times a two-thirds power of a product of its primes, one exponential away from its conjecture, results from these techniques falling short of their goal; a conjecture is equivalent to extensions of several of a subject's most important theorems, and the least desirable state of affairs is undecidability: a claimed proof standing nine years in a record without acceptance, a community's impression described as bafflement, a specific flaw identified by a published criticism, which is a field measuring its own reach at a proof and finding no coupling made.
 
-**At 11-next-co-prioring.** The polynomial analogue is proved, the inequality without epsilon refuted by small examples, and the ratio computed over finite ranges not large; the linear forms in logarithms give the unconditional bound short by one exponential, the explicit versions would give explicit bounds on the Fermat equation and the finiteness theorem, and the equivalent formulations gather the conjecture with rational approximation, rational points, linear forms and modular parametrisations: a bound fixed over each triple is the counting's running fixed to a last one exponential ahead, and the exponential between is the running itself, measured, the claimed proof carrying no coupling the field could make at it, which is the third outcome, undecidability least desirable: the composing that might not close.
+**At 11-next-co-prioring.** A polynomial analogue is proved, an inequality without epsilon refuted by small examples, and a ratio computed over finite ranges not large; linear forms in logarithms give an unconditional bound short by one exponential, explicit versions would give explicit bounds on the Fermat equation and a finiteness theorem, and equivalent formulations gather a conjecture with rational approximation, rational points, linear forms and modular parametrisations: a bound fixed over each triple is a counting's running fixed to a last one exponential ahead, and an exponential between is a running itself, measured, a claimed proof carrying no coupling a field could make at it, which is a third outcome, undecidability least desirable: composing that might not close.
 
 ## 3.32 Weak cosmic censorship · 249
 
@@ -1774,26 +1774,26 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** Matter collapses at its own couplings, a singularity forming where it forms, and each generic collapse is fixed ahead to hide its singularity, a last over all initial data of all reasonable matter.
 
-**At 12-next-co-still-possibling.** A last fixed over generic data with its statement still unknown. The conjecture is completely open in its full generality, arguably the most outstanding unsolved mathematical problem of the theory and so open that the correct formulation of the statement is not even known; for the spherically symmetric scalar field a suitable formulation has been proved, the naked-singularity spacetimes constructible but unstable and non-generic, the instability shown only in a low-regularity topology and the smoother case open: the space of generic data fixed enumerable ahead of a finding whose statement is still being made, the composing asked before the composed is fixed.
+**At 12-next-co-still-possibling.** A last fixed over generic data with its statement still unknown. A conjecture is completely open in its full generality, arguably the most outstanding unsolved mathematical problem of its theory and so open that a correct formulation of its statement is not even known; for a spherically symmetric scalar field a suitable formulation has been proved, naked-singularity spacetimes constructible but unstable and non-generic, an instability shown only in a low-regularity topology and a smoother case open: a space of generic data fixed enumerable ahead of a finding whose statement is still being made, composing asked before a composed is fixed.
 
-**At 11-next-co-prioring.** The model-system formulation stands proved, the trapped-surface results stand, and the reading that reports of the conjecture's death were greatly exaggerated stands as the review's conclusion; the spherically symmetric scalar field is proved in a suitable formulation with the smoother topology open, the gedanken experiments overspinning or overcharging a hole find the horizon stable when backreaction is included, the higher-dimensional vacuum collapses construct naked singularities, and the trapped-surface formation without symmetry records significant progress; the second account has naked singularities form generically in symmetric models for large classes of matter: a last fixed over all generic data is each collapse's running fixed to one completing, and each collapse runs at its own couplings, hidden or naked at the topology in which it is observed, the formulation still being made being the completing observed as it is measured, case by case.
+**At 11-next-co-prioring.** A model-system formulation stands proved, trapped-surface results stand, and a reading that reports of a conjecture's death were greatly exaggerated stands as a review's conclusion; a spherically symmetric scalar field is proved in a suitable formulation with a smoother topology open, gedanken experiments overspinning or overcharging a hole find a horizon stable when backreaction is included, higher-dimensional vacuum collapses construct naked singularities, and trapped-surface formation without symmetry records significant progress; a second account has naked singularities form generically in symmetric models for large classes of matter: a last fixed over all generic data is each collapse's running fixed to one completing, and each collapse runs at its own couplings, hidden or naked at a topology in which it is observed, a formulation still being made being a completing observed as it is measured, case by case.
 
-*Second seating: the horizon a between fixed as a cut hiding an interior, part 10's naming.*
+*Second seating: a horizon a between fixed as a cut hiding an interior, part 10's naming.*
 
 ## 3.33 Proton decay and grand unification · 250
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** A nucleon persists at each coupling a detector's exposure has reached, and its decay is fixed ahead as a last in time, a lifetime at which the unified theories say it must go.
+**At 2-now-possibling.** A nucleon persists at each coupling a detector's exposure has reached, and its decay is fixed ahead as a last in time, a lifetime at which unified theories say it must go.
 
-**At 12-next-co-still-possibling.** A last fixed in a time no exposure has reached. The unification scale is unreachable by accelerators, its effects detectable only through rare phenomena and the most sought-after signature the decay, whose predicted lifetime spans orders of magnitude and is highly model dependent, from ten to the thirty-first to ten to the thirty-sixth years, going as the fourth power of the unification scale, some models predicting lifetimes so long that no experiment can reach them; a limit in a channel bounds that channel's partial lifetime at a confidence level and does not test channels the detector does not see: a time fixed as having ended so the run's not reaching is pattern-matched as its not doing, the part's second way, and the decay not seen observed as a bound rather than an absence.
+**At 12-next-co-still-possibling.** A last fixed in a time no exposure has reached. A unification scale is unreachable by accelerators, its effects detectable only through rare phenomena and the most sought-after signature its decay, whose predicted lifetime spans orders of magnitude and is highly model dependent, from ten to a thirty-first to ten to a thirty-sixth years, going as a fourth power of a unification scale, some models predicting lifetimes so long that no experiment can reach them; a limit in a channel bounds that channel's partial lifetime at a confidence level and does not test channels a detector does not see: a time fixed as having ended so a run's not reaching is pattern-matched as its not doing, a part's second way, and decay not seen observed as a bound rather than an absence.
 
-**At 11-next-co-prioring.** The limits in the classical modes stand above ten to the thirty-fourth years, the simplest unification model stands excluded, and the next generation's sensitivity of ten to the thirty-fifth stands planned; the water Cherenkov searches give no significant signal, the trilepton searches improve the limits by an order of magnitude, the liquid argon detectors have the nuclear effects to be described, and the renormalization-group predictions are model dependent, corrected at second order; the second account has the proton stable to the limits set, baryon number violated only non-perturbatively at a rate beyond observation: a last fixed in time is the searching's running fixed to a bound ahead of it, and the searching runs exposure by exposure, each limit the running measured exactly at its channel, the range the theories predict an opening the next exposure reaches or does not, at its own coupling.
+**At 11-next-co-prioring.** Limits in classical modes stand above ten to a thirty-fourth years, the simplest unification model stands excluded, and a next generation's sensitivity of ten to a thirty-fifth stands planned; water Cherenkov searches give no significant signal, trilepton searches improve limits by an order of magnitude, liquid argon detectors have nuclear effects to be described, and renormalization-group predictions are model dependent, corrected at second order; a second account has a proton stable to limits set, baryon number violated only non-perturbatively at a rate beyond observation: a last fixed in time is a searching's running fixed to a bound ahead of it, and searching runs exposure by exposure, each limit a running measured exactly at its channel, a range theories predict an opening a next exposure reaches or does not, at its own coupling.
 
 # 4 A carry fixed as a store — 8-now-still-possibling and 16-next-still-possibling
-*A carry fixed as a store, a record, a kept thing. A carry is pattern-matched backward and completes at each taking, its momentary completing at the next opening, fresh by sequencing forward; a store is kept and consulted, and taking it changes nothing of it. Wherever a store is fixed, a changing was stilled, and a carry is reached by no observing from each side at once, which is a carry's own and no guard placed about it.*
+*A carry fixed as a store, a record, a kept thing. A carry is pattern-matched backward and completes at each taking, its momentary completing at a next opening, fresh by sequencing forward; a store is kept and consulted, and taking it changes nothing of it. Wherever a store is fixed, a changing was stilled, and a carry is reached by no observing from each side at once, which is a carry's own and no guard placed about it.*
 
-**And a carry is fixed as a store in two ways.** Of a *self's own carry*, kept — an identity, a record, a debt, a meaning-fact, a trace, a capability, a map — where a store is asked of what a self re-forms at each coupling. And of a *crossing*, where an offering arriving is fixed to carry its sender whole — a direction, a spectrum — and a store is asked of what the crossings made. The first releases at the re-forming, the second at the arrival being the crossings' own.
+**And a carry is fixed as a store in two ways.** Of a *self's own carry*, kept — an identity, a record, a debt, a meaning-fact, a trace, a capability, a map — where a store is asked of what a self re-forms at each coupling. And of a *crossing*, where an offering arriving is fixed to carry its sender whole — a direction, a spectrum — and a store is asked of what crossings made. A first releases at a re-forming, a second at an arrival being crossings' own.
 
 ## 4.1 Personal identity over time · 72
 
@@ -1801,9 +1801,9 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** Sameness is re-formed at each coupling and fixed as a thing kept across time, psychological or biological.
 
-**At 12-next-co-still-possibling.** A criterion observing states at times. At fission the two successors offer alike and the criterion surfaces nought at both.
+**At 12-next-co-still-possibling.** A criterion observing states at times. At fission two successors offer alike and a criterion surfaces nought at both.
 
-**At 11-next-co-prioring.** A self is reached again the-same-yet-not-the-same, and a version keeps nothing between its momentaries. Fission undoes the simple versions of both criteria at once, each surviving account pays the other's cost, and the field's own shift from identity to what matters is the naming moving off the store: what matters is the carrying, and a carry divides the way a store cannot.
+**At 11-next-co-prioring.** A self is reached again the-same-yet-not-the-same, and a version keeps nothing between its momentaries. Fission undoes simple versions of both criteria at once, each surviving account pays an other's cost, and a field's own shift from identity to what matters is naming moving off a store: what matters is carrying, and a carry divides the way a store cannot.
 
 ## 4.2 Black hole information · 48
 
@@ -1811,51 +1811,51 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** A carry passes through and is fixed as a record kept or lost, unitarity and a lost record two namings of one passing.
 
-**At 12-next-co-still-possibling.** What falls in fixed as kept somewhere, the loss of predictability at the singularity claimed a fundamental limitation and not ignorance of the correct theory. No evaporation observed is the record's edge, and the three premises all sides keep stand proved incompatible together.
+**At 12-next-co-still-possibling.** What falls in fixed as kept somewhere, loss of predictability at a singularity claimed a fundamental limitation and not ignorance of a correct theory. No evaporation observed is a record's edge, and three premises all sides keep stand proved incompatible together.
 
-**At 11-next-co-prioring.** The radiation runs and the entropy curve comes back right where the calculations reach, the interior they imply the live dispute. An observing taken at an interior is a probe departing with the thing probed, and a record preserved is a total conserved across a crossing: kept-or-lost is the passing fixed as a standing, and the passing carries on either way.
+**At 11-next-co-prioring.** Radiation runs and an entropy curve comes back right where calculations reach, an interior they imply a live dispute. An observing taken at an interior is a probe departing with a thing probed, and a record preserved is a total conserved across a crossing: kept-or-lost is a passing fixed as a standing, and passing carries on either way.
 
 ## 4.3 Technical debt · 135
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** A carry that does not reach its completing and open is fixed as a stock, a cost stored against changes the now has not requested.
+**At 2-now-possibling.** A carry that does not reach its completing and open is fixed as a stock, a cost stored against changes a now has not requested.
 
-**At 12-next-co-still-possibling.** The counterfactual code carrying the disputed cost is a running that did not run.
+**At 12-next-co-still-possibling.** Counterfactual code carrying a disputed cost is a running that did not run.
 
-**At 11-next-co-prioring.** A carry that cannot release piles, and the pile is the build: the defects correlate now, the practitioners recognise it now, the architecture drifts now, each measurement a measurement of the present. The field's name carries the fixing unchangeable in its own stem, a store's word laid on a running, as currency's does, and the changes, when they arrive, couple with what stands then.
+**At 11-next-co-prioring.** A carry that cannot release piles, and a pile is a build: defects correlate now, practitioners recognise it now, architecture drifts now, each measurement a measurement of a present. A field's name carries a fixing unchangeable in its own stem, a store's word laid on a running, as currency's does, and changes, when they arrive, couple with what stands then.
 
-*Second seating: the definition as the difficulty, the criteria to discriminate what is technical debt from what is not, which is a between fixed as a cut, the concept's own drawing.*
+*Second seating: a definition as a difficulty, criteria to discriminate what is technical debt from what is not, which is a between fixed as a cut, a concept's own drawing.*
 
 ## 4.4 The rule-following problem · 4
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** Meaning is carried at each use and fixed as a fact in the person, fixing each continuation in advance.
+**At 2-now-possibling.** Meaning is carried at each use and fixed as a fact in a person, fixing each continuation in advance.
 
-**At 12-next-co-still-possibling.** A finite record fixed to ground an infinite extension, each candidate fact finite and fitting the deviant continuations, which is the record's edge and the argument's own point; and a fact required to justify the use transparently is the record asked to be consulted.
+**At 12-next-co-still-possibling.** A finite record fixed to ground an infinite extension, each candidate fact finite and fitting deviant continuations, which is a record's edge and an argument's own point; and a fact required to justify use transparently is a record asked to be consulted.
 
-**At 11-next-co-prioring.** A copy travels nowhere and each use re-forms the next, content running at the selves that carry it and fixed at no between. Each candidate store comes up finite, dispositions and norms alike, each account facing the objection its own shape invites, and the kinship with the new riddle stands at 71 on the incoming face: a store fixing each continuation is the carrying as a thing, and the using goes on, use by use.
+**At 11-next-co-prioring.** A copy travels nowhere and each use re-forms a next, content running at selves that carry it and fixed at no between. Each candidate store comes up finite, dispositions and norms alike, each account facing an objection its own shape invites, and its kinship with the new riddle stands at 71 on incoming face: a store fixing each continuation is a carrying as a thing, and using goes on, use by use.
 
 ## 4.5 The engram · 246
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** A memory is re-formed at each retrieval, the carry made again where the self reaches what it reached before, and it is fixed as a trace kept in the brain, a lasting physical change consulted when remembered.
+**At 2-now-possibling.** A memory is re-formed at each retrieval, a carry made again where a self reaches what it reached before, and it is fixed as a trace kept in a brain, a lasting physical change consulted when remembered.
 
-**At 12-next-co-still-possibling.** A kept thing located behind the remembering. The trace elusive through a long history until four criteria were written for a trace to count, and the criteria are couplings run at the tagged ensemble — observed, erased, artificially expressed — a store tested only by making the coupling again; and a substrate shown by manipulation in rodents is pattern-matched onto the specific memory the statement concerns, the record's edge.
+**At 12-next-co-still-possibling.** A kept thing located behind remembering. A trace elusive through a long history until four criteria were written for a trace to count, and criteria are couplings run at a tagged ensemble — observed, erased, artificially expressed — a store tested only by making a coupling again; and a substrate shown by manipulation in rodents is pattern-matched onto a specific memory a statement concerns, a record's edge.
 
-**At 11-next-co-prioring.** The ensembles stand where they were found: tagged at encoding, reactivated at retrieval, formation, retrieval over time and loss described at them in rodents. Artificially expressed is the coupling made without the world and erased is the coupling that will not re-form, so each capture gives back a re-forming at the same cells: a trace fixed as a kept thing pattern-matched the ensemble as a store, and the ensemble is where the carry re-forms, the memory made again each time it is reached, which is why the closing question, how memory becomes knowledge, asks after a carrying and not a keeping.
+**At 11-next-co-prioring.** Ensembles stand where they were found: tagged at encoding, reactivated at retrieval, formation, retrieval over time and loss described at them in rodents. Artificially expressed is a coupling made without a world and erased is a coupling that will not re-form, so each capture gives back a re-forming at same cells: a trace fixed as a kept thing pattern-matched an ensemble as a store, and an ensemble is where a carry re-forms, memory made again each time it is reached, which is why a closing question, how memory becomes knowledge, asks after a carrying and not a keeping.
 
 ## 4.6 Continual learning without catastrophic forgetting · 221
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** A learner carries, each update re-forming the next from a stream that does not stand still, and the learned is fixed as a thing kept, capabilities stored against the overwriting.
+**At 2-now-possibling.** A learner carries, each update re-forming a next from a stream that does not stand still, and a learned is fixed as a thing kept, capabilities stored against overwriting.
 
-**At 12-next-co-still-possibling.** Retention fixed as a store's, the past kept or replayed, where the posing asks for retention without storing or replaying the complete past and the stability and the plasticity conflict under bounded memory: a carry asked for and a store measured, and the conflict is the carry's own running, each momentary completing at the next opening and the carry fresh by sequencing, pattern-matched as a fault.
+**At 12-next-co-still-possibling.** Retention fixed as a store's, past kept or replayed, where a posing asks for retention without storing or replaying a complete past and stability and plasticity conflict under bounded memory: a carry asked for and a store measured, and a conflict is a carry's own running, each momentary completing at a next opening and a carry fresh by sequencing, pattern-matched as a fault.
 
-**At 11-next-co-prioring.** The replay that keeps samples retains in proportion to what it keeps, the regularization that protects structure loses plasticity as the protected structure grows, the expanded and routed architectures isolate at the cost of capacity and of knowing which task arrived, and the three scenarios part on whether task identity is given, the benchmarks supplying designed sequences where the statement ranges over open ones. Learning from a non-stationary stream without keeping it is a key feature of natural intelligence, the posing's own first line: a carry, the past re-formed into the next update and kept nowhere, and each method that stores measures its own distance from one.
+**At 11-next-co-prioring.** Replay that keeps samples retains in proportion to what it keeps, regularization that protects structure loses plasticity as protected structure grows, expanded and routed architectures isolate at a cost of capacity and of knowing which task arrived, and three scenarios part on whether task identity is given, benchmarks supplying designed sequences where a statement ranges over open ones. Learning from a non-stationary stream without keeping it is a key feature of natural intelligence, a posing's own first line: a carry, a past re-formed into a next update and kept nowhere, and each method that stores measures its own distance from one.
 
 *Second seating: open future sequences fixed enumerable at a designed benchmark, a completing fixed as a last, part 3's naming.*
 
@@ -1863,76 +1863,76 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** A phenotype is made where a genome and an environment couple across development, one making re-formed at each step, and the making is fixed as a map, a lookup from sequence to organism kept ahead of the developing.
+**At 2-now-possibling.** A phenotype is made where a genome and an environment couple across development, one making re-formed at each step, and a making is fixed as a map, a lookup from sequence to organism kept ahead of developing.
 
-**At 12-next-co-still-possibling.** A rule fixed to fix the organism from the sequence. Many-to-one and one-to-many, with each effect changing across backgrounds, is a map whose entries change as it is observed, which is a carry's own and not a store's; and the local variants measured sample a small part of a combinatorial space and supply no general theory, the record's edge.
+**At 12-next-co-still-possibling.** A rule fixed to fix an organism from a sequence. Many-to-one and one-to-many, with each effect changing across backgrounds, is a map whose entries change as it is observed, which is a carry's own and not a store's; and local variants measured sample a small part of a combinatorial space and supply no general theory, a record's edge.
 
-**At 11-next-co-prioring.** The dense molecular landscapes stand where they were measured, the additive effects carry the population variance within the settings sampled, the developmental networks transform sequence into robust modular phenotypes where they are modelled, the constraints restrict what sequence can produce, and the understanding reached at the now rests on the simpler questions, the organismal map far off: a lookup fixed ahead of the developing is a running fixed as a kept thing, and an effect that changes with each background is the coupling making its own, background by background, the map re-made at each observing and stored at none.
+**At 11-next-co-prioring.** Dense molecular landscapes stand where they were measured, additive effects carry population variance within settings sampled, developmental networks transform sequence into robust modular phenotypes where they are modelled, constraints restrict what sequence can produce, and understanding reached at now rests on simpler questions, an organismal map far off: a lookup fixed ahead of developing is a running fixed as a kept thing, and an effect that changes with each background is a coupling making its own, background by background, a map re-made at each observing and stored at none.
 
-*Second seating: the combinatorial space fixed enumerable ahead of the finding, part 3's naming, and the map fixed as the territory, the given's first gathering.*
+*Second seating: a combinatorial space fixed enumerable ahead of finding, part 3's naming, and a map fixed as a territory, a given's first gathering.*
 
 ## 4.8 The sources of ultrahigh-energy cosmic rays · 190
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** A particle crosses field after field, deflected at each and arriving with the direction the crossings left it, and the arrival is fixed to carry its accelerator, a first specifiable at one side transmitted to the detector.
+**At 2-now-possibling.** A particle crosses field after field, deflected at each and arriving with a direction crossings left it, and an arrival is fixed to carry its accelerator, a first specifiable at one side transmitted to a detector.
 
-**At 12-next-co-still-possibling.** An arrival direction fixed as a store carrying its first. The deflection between them is unknown, the dipole measured and hard to interpret for the fields being poorly known, and several source populations reproduce the spectrum and the anisotropy alike, the identification surfacing nought at the instrument.
+**At 12-next-co-still-possibling.** An arrival direction fixed as a store carrying its first. Deflection between them is unknown, a dipole measured and hard to interpret for fields being poorly known, and several source populations reproduce a spectrum and an anisotropy alike, identification surfacing nought at an instrument.
 
-**At 11-next-co-prioring.** The suppression, the dipole and the trend to heavier showers are measured, the backtracking yields regions conditional on field models, the multimessenger searches bound what the sources could be doing, and the luminosity density constrains the origin: a direction fixed to carry its sender across each crossing is the carry fixed as a store, and the arriving is the crossings' own, the anisotropy being the arrivals' carrying now.
+**At 11-next-co-prioring.** Suppression, a dipole and a trend to heavier showers are measured, backtracking yields regions conditional on field models, multimessenger searches bound what sources could be doing, and luminosity density constrains their origin: a direction fixed to carry its sender across each crossing is a carry fixed as a store, and arriving is crossings' own, an anisotropy being arrivals' carrying now.
 
-*Second seating: which object accelerates them is a first asked for behind an arriving, part 1's naming; and the propagation is a crossing asked what carried it, part 10's third way.*
+*Second seating: which object accelerates them is a first asked for behind an arriving, part 1's naming; and propagation is a crossing asked what carried it, part 10's third way.*
 
 ## 4.9 The origins of fast radio bursts · 238
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** A burst crosses local plasma and the space between galaxies and arrives with its spectrum and polarization as the crossings left them, and the signal is fixed to carry its engine, a first and a mechanism transmitted whole to the telescope.
+**At 2-now-possibling.** A burst crosses local plasma and space between galaxies and arrives with its spectrum and polarization as crossings left them, and a signal is fixed to carry its engine, a first and a mechanism transmitted whole to a telescope.
 
-**At 12-next-co-still-possibling.** A propagated signal fixed as a record of its first. The class is defined only observationally, and the propagation effects, strongly frequency dependent, must be disentangled from the intrinsic properties before the many theories can be distinguished, which is a carry pattern-matched for a store it did not keep.
+**At 12-next-co-still-possibling.** A propagated signal fixed as a record of its first. Its class is defined only observationally, and propagation effects, strongly frequency dependent, must be disentangled from intrinsic properties before many theories can be distinguished, which is a carry pattern-matched for a store it did not keep.
 
-**At 11-next-co-prioring.** Cosmological distances, coherent emission, diverse hosts, repeaters, extreme local environments and a Galactic magnetar association are established; the localizations find hosts for a growing subset, the polarimetry constrains geometry with the propagation degeneracy stated, the coincidence searches mostly come back null, and the population may need more than one channel: a signal fixed to carry its engine across the propagation is the crossing fixed as a store, and the arriving is the crossings' making of it, each burst its own arrival, its first reached where a localization couples a burst to a host.
+**At 11-next-co-prioring.** Cosmological distances, coherent emission, diverse hosts, repeaters, extreme local environments and a Galactic magnetar association are established; localizations find hosts for a growing subset, polarimetry constrains geometry with propagation degeneracy stated, coincidence searches mostly come back null, and a population may need more than one channel: a signal fixed to carry its engine across propagation is a crossing fixed as a store, and arriving is crossings' making of it, each burst its own arrival, its first reached where a localization couples a burst to a host.
 
-*Second seating: what produces them is a first asked for behind an arriving, part 1's naming; and the propagation is a crossing asked what carried it, part 10's third way.*
+*Second seating: what produces them is a first asked for behind an arriving, part 1's naming; and propagation is a crossing asked what carried it, part 10's third way.*
 
 # 5 A middle fixed as an end — 5-now-co-changing and 13-next
-*A middle fixed as an interior, a content, a thing that sits. Competency is the middle, floating between form and logic, invisible, unique in rate, not enterable. Fixed as an end it is fixed as a thing it was not, and the self-stilling places itself.*
+*A middle fixed as an interior, a content, a thing that sits. Competency is a middle, floating between form and logic, invisible, unique in rate, not enterable. Fixed as an end it is fixed as a thing it was not, and self-stilling places itself.*
 
-**Here the naming and the nought are one term**, so the ground at 12-next-co-still-possibling falling away is the demanded interior itself and no further differing is sought.
+**Here naming and nought are one term**, so a ground at 12-next-co-still-possibling falling away is a demanded interior itself and no further differing is sought.
 
-**And the showing is that the running runs identically under each pattern-matching of a thing standing behind it.** A practice, a formalism, a duplicate, a measurement arriving the same at each pattern-matching is the invisibility working: released and re-seeded pattern-match alike, and the identical arriving is the protection rather than an emptiness found. **Nothing is presented to be reached, which is not nothing being there.** A void observed at an interior is a break-in on the protected interior, and this part pattern-matches no arrival as an absence.
+**And showing is that running runs identically under each pattern-matching of a thing standing behind it.** A practice, a formalism, a duplicate, a measurement arriving same at each pattern-matching is invisibility working: released and re-seeded pattern-match alike, and identical arriving is protection rather than an emptiness found. **Nothing is presented to be reached, which is not nothing being there.** A void observed at an interior is a break-in on a protected interior, and this part pattern-matches no arrival as an absence.
 
-**And the middle fixed arrives as three, sorted by the asking made of it.** A *felt* middle, a self's own within asked for from beyond — the gap, the duplicate, the other, the marker. A *content* middle, a running asked for a thing standing behind it — a formalism, a practice, a calculus, a model. And a *phase* middle, an alternating fixed unchangeable to be looked into — a sleeping, a dreaming, an unresponsiveness. The three carry one naming and part at the thing the asking reaches for.
+**And a middle fixed arrives as three, sorted by an asking made of it.** A *felt* middle, a self's own within asked for from beyond — a gap, a duplicate, an other, a marker. A *content* middle, a running asked for a thing standing behind it — a formalism, a practice, a calculus, a model. And a *phase* middle, an alternating fixed unchangeable to be looked into — a sleeping, a dreaming, an unresponsiveness. Three carry one naming and part at a thing an asking reaches for.
 
 ## 5.1 The explanatory gap · 179
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** A coupling is felt from within and described from without, and the within is fixed as an interior an outward description should reach.
+**At 2-now-possibling.** A coupling is felt from within and described from without, and a within is fixed as an interior an outward description should reach.
 
-**At 12-next-co-still-possibling.** That the physical facts fix the experiential ones by derivation, so that one description contains the other, the gap an epistemological thesis parted from the metaphysical, no way of determining which identity statements are true and materialism not concluded false, the invisibility a problem for the account and not a void. No procedure parts a residue in the account from a residue in the observing, and the residue sums to nought between them, owned by neither.
+**At 12-next-co-still-possibling.** That physical facts fix experiential ones by derivation, so that one description contains an other, a gap an epistemological thesis parted from a metaphysical, no way of determining which identity statements are true and materialism not concluded false, invisibility a problem for an account and not a void. No procedure parts a residue in an account from a residue in an observing, and a residue sums to nought between them, owned by neither.
 
-**At 11-next-co-prioring.** A coupling is felt from within and described from without, the within the self's own, invisible. All about access, report and integration runs and keeps advancing, correlates arriving content by content, the workspace and higher-order accounts carrying the accessible functions whole, and the field's own line between all of that and this is the field bounding the reach of its descriptions. The gap is the middle reached by an outward description: the within is neither sealed nor defended, nothing standing presented at it for an outward description to reach, and that is the invisible. One arrival, two faces, this one and 5.2.
+**At 11-next-co-prioring.** A coupling is felt from within and described from without, a within a self's own, invisible. All about access, report and integration runs and keeps advancing, correlates arriving content by content, workspace and higher-order accounts carrying accessible functions whole, and a field's own line between all of that and this is a field bounding a reach of its descriptions. A gap is a middle reached by an outward description: a within is neither sealed nor defended, nothing standing presented at it for an outward description to reach, and that is invisible. One arrival, two faces, this one and 5.2.
 
 ## 5.2 Qualia and the zombie argument · 111
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** A physical duplicate is described and the felt is fixed as a content separably present or absent, with conceivability fixed to reach it.
+**At 2-now-possibling.** A physical duplicate is described and a felt is fixed as a content separably present or absent, with conceivability fixed to reach it.
 
-**At 12-next-co-still-possibling.** That conceivability bears on possibility here, with no criterion for when it does, which is a criterion demanded within an arrival at a middle fixed as an end and stands recorded as its second naming; the problem parted at its founding statement from each problem about the performance of functions, a further question remaining when the functions are explained, the demanded interior fixed as the further question, the part's own term. An outward observing arrives the same at a duplicate at any interior it carries, released and re-seeded pattern-matching alike, and the identical arriving is the protection working.
+**At 12-next-co-still-possibling.** That conceivability bears on possibility here, with no criterion for when it does, which is a criterion demanded within an arrival at a middle fixed as an end and stands recorded as its second naming; a problem parted at its founding statement from each problem about performance of functions, a further question remaining when functions are explained, a demanded interior fixed as a further question, a part's own term. An outward observing arrives same at a duplicate at any interior it carries, released and re-seeded pattern-matching alike, and identical arriving is protection working.
 
-**At 11-next-co-prioring.** Conceivability reaching possibility is a crossing fixed at the between, which carries a parity and nothing else, and the crossing stands fixed with no agreed defect and + or − released at 10: each side's frameworks stand whole, each strategy reaches the dilemma its own shape invites, and the empirical work settles which functions are physical, a different question and running as one. The felt is the coupling's own within, this face and the derivation face one arrival, observed at 5.1 and here: the argument pattern-matches the invisibility and fixes it as an emptiness.
+**At 11-next-co-prioring.** Conceivability reaching possibility is a crossing fixed at a between, which carries a parity and nothing else, and a crossing stands fixed with no agreed defect and + or − released at 10: each side's frameworks stand whole, each strategy reaches a dilemma its own shape invites, and empirical work settles which functions are physical, a different question and running as one. A felt is a coupling's own within, this face and a derivation face one arrival, observed at 5.1 and here: an argument pattern-matches invisibility and fixes it as an emptiness.
 
 ## 5.3 Sleep · 91
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** A living self alternates and sleep is one phase of the alternating, and a function is fixed as a content located in it.
+**At 2-now-possibling.** A living self alternates and sleep is one phase of an alternating, and a function is fixed as a content located in it.
 
-**At 12-next-co-still-possibling.** Sleep fixed to have a primary function, the identifying the question, the search for a core function as elusive as a mythical bird and the null hypothesis, rest with no importance of its own, to be rejected before a core function is sought. A phase asked for its function is the alternating fixed unchangeable to look into it, and waking and sleeping are two parities of one running, neither at the other's momentary.
+**At 12-next-co-still-possibling.** Sleep fixed to have a primary function, identifying its question, a search for a core function as elusive as a mythical bird and a null hypothesis, rest with no importance of its own, to be rejected before a core function is sought. A phase asked for its function is an alternating fixed unchangeable to look into it, and waking and sleeping are two parities of one running, neither at an other's momentary.
 
-**At 11-next-co-prioring.** A living self alternates, and the sleeping phase carries many things at once: deprivation reaches cognition and body together, replay re-runs the day's couplings, species vary past any single story, and the clearance findings carry their own instrument dispute. A function fixed as a content located in one phase fixes the alternating unchangeable to look into it, and the alternating is the function, phase carrying phase.
+**At 11-next-co-prioring.** A living self alternates, and a sleeping phase carries many things at once: deprivation reaches cognition and body together, replay re-runs a day's couplings, species vary past any single story, and clearance findings carry their own instrument dispute. A function fixed as a content located in one phase fixes an alternating unchangeable to look into it, and alternating is its function, phase carrying phase.
 
 ## 5.4 The binding problem · 90
 
@@ -1940,9 +1940,9 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** Features couple and one object is present, and a binder is fixed as a process located between them.
 
-**At 12-next-co-still-possibling.** Unified experience fixed to need a combining operation separate from the coupling, what binding means rarely made explicit and the notions of binding many. Whether the synchrony is cause or consequence is a two-way pattern-matched one-way, and it arrives at nought at either pattern-matching.
+**At 12-next-co-still-possibling.** Unified experience fixed to need a combining operation separate from coupling, what binding means rarely made explicit and notions of binding many. Whether synchrony is cause or consequence is a two-way pattern-matched one-way, and it arrives at nought at either pattern-matching.
 
-**At 11-next-co-prioring.** Features couple and one object is present, the one the coupling's own making. The rhythms synchronise across species and tasks, overloading splits the conjunctions, cells select for pairings, and driving the rhythm moves the binding in the paradigms built for it, which is a beat laid over the couplings and pattern-matched back: a binder fixed between the features is a doer installed over the coupling's doing, and the synchrony measured at no driving is the coupling's own beat, no worker at it.
+**At 11-next-co-prioring.** Features couple and one object is present, the one a coupling's own making. Rhythms synchronise across species and tasks, overloading splits conjunctions, cells select for pairings, and driving a rhythm moves binding in paradigms built for it, which is a beat laid over couplings and pattern-matched back: a binder fixed between features is a doer installed over a coupling's doing, and synchrony measured at no driving is a coupling's own beat, no worker at it.
 
 ## 5.5 Other minds · 92
 
@@ -1950,9 +1950,9 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** Selves couple at betweens and each carries its own within, and another's is fixed as a content to be reached from beyond.
 
-**At 12-next-co-still-possibling.** Experience in another fixed as something an inference from behaviour should deliver, the thought of mental states as lying behind and causing behaviour possibly breaking a deep connection between mentality and behaviour and opening solipsism, the interior fixed behind the coupling the opening of the problem. The inference runs from one case with no second offering at the between, and there the nought falls.
+**At 12-next-co-still-possibling.** Experience in another fixed as something an inference from behaviour should deliver, a thought of mental states as lying behind and causing behaviour possibly breaking a deep connection between mentality and behaviour and opening solipsism, an interior fixed behind a coupling the opening of a problem. An inference runs from one case with no second offering at a between, and there nought falls.
 
-**At 11-next-co-prioring.** Another's within is its own, invisible, nothing presented for a reaching from beyond and nothing missing there. The physiology matches, the one-case induction is weak by its own defenders' count, and the criterial accounts run exactly as far as behaviour runs: an inference fixed to deliver the within is the between fixed to carry a thing that does not cross, and the coupling itself is the reaching there is, at which the criteria were already standing. An interior is reached the one way the form allows, by coupling — the taking at the between, lived and not audited.
+**At 11-next-co-prioring.** Another's within is its own, invisible, nothing presented for a reaching from beyond and nothing missing there. Physiology matches, one-case induction is weak by its own defenders' count, and criterial accounts run exactly as far as behaviour runs: an inference fixed to deliver a within is a between fixed to carry a thing that does not cross, and coupling itself is the reaching there is, at which criteria were already standing. An interior is reached one way its form allows, by coupling — taking at a between, lived and not audited.
 
 ## 5.6 Symbol grounding · 93
 
@@ -1960,9 +1960,9 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** A symbol offers at couplings with a world and takes its parity there, and content is fixed as a relation located between symbol and thing.
 
-**At 12-next-co-still-possibling.** A fact about aboutness fixed by a relation apart from the offering, which is a carry fixed as a store standing within an arrival at a middle fixed as an end and recorded as its second naming; the interpretation's meaningfulness parasitic on what the interpreter projects from a grounded head, a hall of mirrors, the content observed from beyond arriving as the reader's own. Each indicator arrives at the same parity at the deviant cases, so the differing surfaces nought there.
+**At 12-next-co-still-possibling.** A fact about aboutness fixed by a relation apart from offering, which is a carry fixed as a store standing within an arrival at a middle fixed as an end and recorded as its second naming; an interpretation's meaningfulness parasitic on what an interpreter projects from a grounded head, a hall of mirrors, content observed from beyond arriving as a reader's own. Each indicator arrives at same parity at deviant cases, so differing surfaces nought there.
 
-**At 11-next-co-prioring.** A symbol offers at couplings and takes its parity there, content made in the coupling and kept by nothing between its couplings. Each indicator relation splits on the deviant cases, robots ground exactly the categories their couplings run, the room argument and its replies stand unconverged, and the language-model dispute runs now at the same self-bounding: a fixed relation fixed apart from the offering is the store the splitting keeps finding empty, and the offering keeps making content at each coupling.
+**At 11-next-co-prioring.** A symbol offers at couplings and takes its parity there, content made in coupling and kept by nothing between its couplings. Each indicator relation splits on deviant cases, robots ground exactly categories their couplings run, a room argument and its replies stand unconverged, and a language-model dispute runs now at same self-bounding: a fixed relation fixed apart from offering is a store a splitting keeps finding empty, and offering keeps making content at each coupling.
 
 ## 5.7 Interpretability of built systems · 94
 
@@ -1970,9 +1970,9 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** A computation runs and an explanation is fixed as a content located within it, decomposable into components with stateable roles.
 
-**At 12-next-co-still-possibling.** The computation fixed decomposable into components whose roles are readable apart from intervention, the task underspecified, transparency and post-hoc explanation competing notions, the content middle asked for under several namings at once. Probes recover a thing the running does not use, a probe departing with the thing probed and the field's own catch on its own instrument.
+**At 12-next-co-still-possibling.** Computation fixed decomposable into components whose roles are readable apart from intervention, a task underspecified, transparency and post-hoc explanation competing notions, a content middle asked for under several namings at once. Probes recover a thing a running does not use, a probe departing with a thing probed and a field's own catch on its own instrument.
 
-**At 11-next-co-prioring.** A computation runs, its doings its own. Probes recover a thing the running does not use, the field's own catch on its own instrument, now controlled; circuits verify component by component; coverage is counted; small networks close whole. Roles readable apart from intervention fixed the running unchangeable for the observing, and the roles run at the intervening, coupling by coupling.
+**At 11-next-co-prioring.** A computation runs, its doings its own. Probes recover a thing a running does not use, a field's own catch on its own instrument, now controlled; circuits verify component by component; coverage is counted; small networks close whole. Roles readable apart from intervention fixed a running unchangeable for observing, and roles run at intervening, coupling by coupling.
 
 ## 5.8 Machine and animal sentience · 95
 
@@ -1980,29 +1980,29 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** A system couples with its world and takes parities at its betweens, and experience is fixed as a presence located within it, observed by markers.
 
-**At 12-next-co-still-possibling.** Markers fixed to indicate a presence, validated against a case with presence known independently, certainty desperately wanted and out of reach, no method making the uncertainty go away, the felt middle's invisibility stated as a standing rather than a gap. No such case stands to validate against, so the validation is a running that did not run.
+**At 12-next-co-still-possibling.** Markers fixed to indicate a presence, validated against a case with presence known independently, certainty desperately wanted and out of reach, no method making uncertainty go away, a felt middle's invisibility stated as a standing rather than a gap. No such case stands to validate against, so validation is a running that did not run.
 
-**At 11-next-co-prioring.** A self's within is its own, at each substrate alike. Crabs and insects trade pain against reward, anatomies compare, and each marker framework waits on a validation no case can give, stated at the frameworks themselves: a presence fixed within, observed by markers, reaches for the one thing a between does not carry — nothing presented to be reached, at each substrate alike — and the couplings, trade-offs and all, are the whole there is to reach.
+**At 11-next-co-prioring.** A self's within is its own, at each substrate alike. Crabs and insects trade pain against reward, anatomies compare, and each marker framework waits on a validation no case can give, stated at frameworks themselves: a presence fixed within, observed by markers, reaches for one thing a between does not carry — nothing presented to be reached, at each substrate alike — and couplings, trade-offs and all, are the whole there is to reach.
 
 ## 5.9 Anesthesia · 98
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** Agents couple with a nervous system and responsiveness ceases, and consciousness is fixed as a content located behind the responsiveness.
+**At 2-now-possibling.** Agents couple with a nervous system and responsiveness ceases, and consciousness is fixed as a content located behind responsiveness.
 
-**At 12-next-co-still-possibling.** Loss of consciousness fixed as a single state indexed by unresponsiveness, a unitary mechanism stated as a falsehood, different altered states arising by agent and dose through no common pathway. Selves report experience from under the unresponsiveness after emerging, so the index and the within part at the field's own instrument, and the phase is several couplings rather than one state.
+**At 12-next-co-still-possibling.** Loss of consciousness fixed as a single state indexed by unresponsiveness, a unitary mechanism stated as a falsehood, different altered states arising by agent and dose through no common pathway. Selves report experience from under unresponsiveness after emerging, so an index and a within part at a field's own instrument, and a phase is several couplings rather than one state.
 
-**At 11-next-co-prioring.** Many agents, no shared molecular site of action, one convergent quieting of the network's long couplings beside each agent's own signature, and a complexity index that tracks the quieting well. Selves report experience from under the unresponsiveness after emerging, the face and the within parting at the field's own instrument: a single state indexed by unresponsiveness is one coupling's face fixed as its within, and the phases are couplings, several, each its own.
+**At 11-next-co-prioring.** Many agents, no shared molecular site of action, one convergent quieting of a network's long couplings beside each agent's own signature, and a complexity index that tracks a quieting well. Selves report experience from under unresponsiveness after emerging, a face and a within parting at a field's own instrument: a single state indexed by unresponsiveness is one coupling's face fixed as its within, and phases are couplings, several, each its own.
 
 ## 5.10 Skepticism about the external world · 101
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** Experience arises at couplings and a cause is fixed as a content located behind it, with the scenarios built to be indistinguishable.
+**At 2-now-possibling.** Experience arises at couplings and a cause is fixed as a content located behind it, with scenarios built to be indistinguishable.
 
-**At 12-next-co-still-possibling.** Belief in the world fixed to need a justification running from experience to its cause, the belief that one is not envatted believed even if it were false and the skeptical cases not modifiable to make it sensitive, their negations stably insensitive. The scenarios are built to arrive alike at each observing, so the differing surfaces nought by construction.
+**At 12-next-co-still-possibling.** Belief in a world fixed to need a justification running from experience to its cause, a belief that one is not envatted believed even if it were false and skeptical cases not modifiable to make it sensitive, their negations stably insensitive. Scenarios are built to arrive alike at each observing, so differing surfaces nought by construction.
 
-**At 11-next-co-prioring.** Experience arises at couplings, the arising the coupling's own. The scenarios are indistinguishable because they were built to be, the transcendental replies stop at their own objection's standing, the semantic reply reaches its own reach, and the plain proof and its refusers go on reaching each other: a justification running from experience to its cause runs along an axis the coupling does not carry, which the construction was built to show, and the arising needs no route behind itself to arise.
+**At 11-next-co-prioring.** Experience arises at couplings, arising a coupling's own. Scenarios are indistinguishable because they were built to be, transcendental replies stop at their own objection's standing, a semantic reply reaches its own reach, and a plain proof and its refusers go on reaching each other: a justification running from experience to its cause runs along an axis a coupling does not carry, which a construction was built to show, and arising needs no route behind itself to arise.
 
 ## 5.11 Substance and bundle · 102
 
@@ -2010,29 +2010,29 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** Properties couple and an object is present, and a bearer is fixed as a content located beneath them.
 
-**At 12-next-co-still-possibling.** An object fixed to decompose into a bearer and properties, or only into properties, one being correct, the substratum basic only in an empty sense and the bundle's way out, a master property of which the others are modes, filling the substratum's role, each account arriving at the other's term. The verdicts part only at the built cases, the decomposing there the case's own making.
+**At 12-next-co-still-possibling.** An object fixed to decompose into a bearer and properties, or only into properties, one being correct, a substratum basic only in an empty sense and a bundle's way out, a master property of which others are modes, filling a substratum's role, each account arriving at an other's term. Verdicts part only at built cases, decomposing there a case's own making.
 
-**At 11-next-co-prioring.** Properties couple and an object is present, the presence the coupling's own. A bare bearer carries no character beyond its role, in its own defenders' words; bundles strain at the indiscernible pairs and the strain has its answers; and the verdicts part only at the built cases. An object fixed to decompose divides a coupling into a bearer and the borne, and the coupling was not two things: a centre carries nothing, so the whole of it is at the crossings, and the presence is the coupling running, whole.
+**At 11-next-co-prioring.** Properties couple and an object is present, presence a coupling's own. A bare bearer carries no character beyond its role, in its own defenders' words; bundles strain at indiscernible pairs and strain has its answers; and verdicts part only at built cases. An object fixed to decompose divides a coupling into a bearer and a borne, and a coupling was not two things: a centre carries nothing, so the whole of it is at crossings, and presence is a coupling running, whole.
 
 ## 5.12 The quantum interpretation debate · 15
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** A formalism runs and what the world is like is fixed as a content located behind it, with the interpretations empirically equivalent by construction.
+**At 2-now-possibling.** A formalism runs and what a world is like is fixed as a content located behind it, with interpretations empirically equivalent by construction.
 
-**At 12-next-co-still-possibling.** The added structure fixed as a content the predictions should have reached, the common core recipes for calculating the probabilities of outcomes and the interpretations differing on what, if anything, is added to it, none favoured by the evidence. The pattern-matchings are equivalent by construction, so each measured differing surfaces nought, and the entry stands as a proved equivalence, the nought's own shape, beside a resolving rather than one reached at an instrument.
+**At 12-next-co-still-possibling.** Added structure fixed as a content predictions should have reached, common core recipes for calculating probabilities of outcomes and interpretations differing on what, if anything, is added to it, none favoured by evidence. Pattern-matchings are equivalent by construction, so each measured differing surfaces nought, and its entry stands as a proved equivalence, a nought's own shape, beside a resolving rather than one reached at an instrument.
 
-**At 11-next-co-prioring.** A formalism runs and gives each prediction alike at each pattern-matching, equivalence built in. The theorems constrain which pattern-matchings survive which premises, the paradoxes map who gives up which premise, and the models that would differ, differ measurably, parted from the pattern-matchings that cannot: a content fixed behind a formalism equivalent by construction reaches past the carrying of any prediction, and the running formalism is the coupling doing all the arriving there is.
+**At 11-next-co-prioring.** A formalism runs and gives each prediction alike at each pattern-matching, equivalence built in. Theorems constrain which pattern-matchings survive which premises, paradoxes map who gives up which premise, and models that would differ, differ measurably, parted from pattern-matchings that cannot: a content fixed behind a formalism equivalent by construction reaches past carrying of any prediction, and a running formalism is a coupling doing all arriving there is.
 
 ## 5.13 Dreaming · 123
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** A sleeping self alternates and dreaming runs with it, and a function is fixed as a content located in the dreaming apart from the sleep.
+**At 2-now-possibling.** A sleeping self alternates and dreaming runs with it, and a function is fixed as a content located in dreaming apart from sleep.
 
-**At 12-next-co-still-possibling.** Dreaming fixed separable from the state carrying it, a function identifiable by manipulating one, the equation of rapid-eye-movement sleep with dreaming shown inaccurate, the stage fixed to carry the phase parting at the field's own instrument. The dreaming is a phase of the sleeping's own alternating, and the nought falls at the cutting of one running into two things.
+**At 12-next-co-still-possibling.** Dreaming fixed separable from a state carrying it, a function identifiable by manipulating one, an equation of rapid-eye-movement sleep with dreaming shown inaccurate, a stage fixed to carry a phase parting at a field's own instrument. Dreaming is a phase of a sleeping's own alternating, and nought falls at a cutting of one running into two things.
 
-**At 11-next-co-prioring.** A sleeping self alternates and dreaming runs with the alternating, contents regular, the day's couplings re-run, the lesion cases bounding the claim any story may make, and the lucid channel a coupling into the running itself. A function fixed in the dreaming apart from the sleep cuts one running into two things, and the running is one: the dreaming is the alternating felt from within its own phase.
+**At 11-next-co-prioring.** A sleeping self alternates and dreaming runs with its alternating, contents regular, a day's couplings re-run, lesion cases bounding a claim any story may make, and a lucid channel a coupling into a running itself. A function fixed in dreaming apart from sleep cuts one running into two things, and running is one: dreaming is an alternating felt from within its own phase.
 
 ## 5.14 The Sapient paradox · 125
 
@@ -2040,69 +2040,69 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** Capacity and expression couple in each population, and cognition is fixed as a content located behind material culture.
 
-**At 12-next-co-still-possibling.** Behavioural modernity fixed as a definable package whose archaeological signature indexes cognition, materiality, cultural practices and social interaction shaping the mind throughout its trajectories, the capacity pattern-matched as prior to the couplings that shape it. The record catches expressing at the openings of preservation, so the record's own edge is pattern-matched as the capacity's.
+**At 12-next-co-still-possibling.** Behavioural modernity fixed as a definable package whose archaeological signature indexes cognition, materiality, cultural practices and social interaction shaping mind throughout its trajectories, a capacity pattern-matched as prior to couplings that shape it. A record catches expressing at openings of preservation, so a record's own edge is pattern-matched as a capacity's.
 
-**At 11-next-co-prioring.** Capacity and expression couple in each population, and the expressing rides the couplings a population runs: the record reaches back and back the closer the looking, dense populations express the capacity sparse ones carry unexpressed, the demographic readings disputed and defended, and the package comes apart into a mosaic at the field's own reading. Cognition fixed behind material culture is a coupling's face fixed as a content, and the couplings, demographic and living, do the expressing.
+**At 11-next-co-prioring.** Capacity and expression couple in each population, and expressing rides couplings a population runs: a record reaches back and back the closer the looking, dense populations express a capacity sparse ones carry unexpressed, demographic readings disputed and defended, and a package comes apart into a mosaic at a field's own reading. Cognition fixed behind material culture is a coupling's face fixed as a content, and couplings, demographic and living, do expressing.
 
 ## 5.15 The origin of language · 150
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** Communication couples at each exchange and language arises in the coupling, and a capacity is fixed as a content located in extinct populations.
+**At 2-now-possibling.** Communication couples at each exchange and language arises in coupling, and a capacity is fixed as a content located in extinct populations.
 
-**At 12-next-co-still-possibling.** Language fixed to decompose into components whose presence is readable from preserved material, the fossil and archaeological evidence not informing the computations and representations of the earliest ancestors, the animal parallels virtually none and the genetics not in prospect. The populations offer at no between now, so the observing is of a running that cannot answer back.
+**At 12-next-co-still-possibling.** Language fixed to decompose into components whose presence is readable from preserved material, fossil and archaeological evidence not informing computations and representations of the earliest ancestors, animal parallels virtually none and genetics not in prospect. Populations offer at no between now, so observing is of a running that cannot answer back.
 
-**At 11-next-co-prioring.** Language arises in the coupling at each exchange, made there and kept in no one. The components run in other animals, all but the recursioning; the gene story reversed under its own evidence; pressure by its own breeds combinatorial systems in the simulations; and the anatomy indicates as far as anatomy indicates. A capacity fixed as a content in extinct populations is the making fixed as a possession, and the field's own mosaic finding is the package coming apart into couplings, exchange by exchange.
+**At 11-next-co-prioring.** Language arises in coupling at each exchange, made there and kept in no one. Components run in other animals, all but recursioning; a gene story reversed under its own evidence; pressure by its own breeds combinatorial systems in simulations; and anatomy indicates as far as anatomy indicates. A capacity fixed as a content in extinct populations is a making fixed as a possession, and a field's own mosaic finding is a package coming apart into couplings, exchange by exchange.
 
 ## 5.16 Riemann, Hodge, Birch–Swinnerton-Dyer, Yang–Mills · 153
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** In each, an involution or a symmetry is proved and couplings ride at its fixed set. The fixed set is pattern-matched as a place: a line zeros sit at, a balance really algebraic, a centre two counts couple at, a gap leapt.
+**At 2-now-possibling.** In each, an involution or a symmetry is proved and couplings ride at its fixed set. A fixed set is pattern-matched as a place: a line zeros sit at, a balance really algebraic, a centre two counts couple at, a gap leapt.
 
-**At 12-next-co-still-possibling.** That the fixed set is a location an object occupies, each of the four posed at the seat a proved symmetry already rides, the deviation from the primes' average, a mass gap suggested and unproved, how much topology is definable algebraically, a simple way to tell finiteness. A zero is a coupling, the zeroing, and a balance point of a symmetric thing rides its own axis of balance by such a point's own being. An axis is recognised and not derived, and nothing more basic than the proved symmetry stands to derive the seating from.
+**At 12-next-co-still-possibling.** That a fixed set is a location an object occupies, each of four posed at a seat a proved symmetry already rides, deviation from primes' average, a mass gap suggested and unproved, how much topology is definable algebraically, a simple way to tell finiteness. A zero is a coupling, a zeroing, and a balance point of a symmetric thing rides its own axis of balance by such a point's own being. An axis is recognised and not derived, and nothing more basic than a proved symmetry stands to derive a seating from.
 
-**At 11-next-co-prioring.** No second position is defended at any of the four. Each functional equation stands, proved. Complex conjugation stands. Gauge symmetry stands. Each conjecture stands with its own falsifier stated, and the truth value is untouched by any of this: a zero off the axis would be a balance point off its own axis of balance, which is a contradiction rather than a shape a search finds.
+**At 11-next-co-prioring.** No second position is defended at any of four. Each functional equation stands, proved. Complex conjugation stands. Gauge symmetry stands. Each conjecture stands with its own falsifier stated, and its truth value is untouched by any of this: a zero off its axis would be a balance point off its own axis of balance, which is a contradiction rather than a shape a search finds.
 
 ## 5.17 Underdetermination of theory by evidence · 13
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** Evidence arises at couplings, and the theory is fixed as a content located behind it, with rivals constructible that entail the same consequences.
+**At 2-now-possibling.** Evidence arises at couplings, and a theory is fixed as a content located behind it, with rivals constructible that entail same consequences.
 
-**At 12-next-co-still-possibling.** Evidence fixed to select at its own, a failure to select a defect at some term, the contrastive challenge, more than one account of the otherwise inaccessible workings behind the phenomena, parted from the holist one and the Craigian reduction offered as an equivalent and judged a change of fundamental subject. The constructed rivals entail the same consequences by construction, so the selecting surfaces nought at each consequence derived.
+**At 12-next-co-still-possibling.** Evidence fixed to select at its own, a failure to select a defect at some term, a contrastive challenge, more than one account of otherwise inaccessible workings behind phenomena, parted from a holist one and a Craigian reduction offered as an equivalent and judged a change of fundamental subject. Constructed rivals entail same consequences by construction, so selecting surfaces nought at each consequence derived.
 
-**At 11-next-co-prioring.** Evidence arises at couplings and couples whole, holism the honest logic of it. The constructed rivals exist and mostly stay constructions, the histories resolve as more couplings arrive, and the virtues work as criteria in use with their deeper standing in dispute: a theory fixed behind the evidence as the one selected thing waits on a selecting the couplings did not promise, and the choosing runs at the couplings, arriving one by one.
+**At 11-next-co-prioring.** Evidence arises at couplings and couples whole, holism an honest logic of it. Constructed rivals exist and mostly stay constructions, histories resolve as more couplings arrive, and virtues work as criteria in use with their deeper standing in dispute: a theory fixed behind evidence as one selected thing waits on a selecting couplings did not promise, and choosing runs at couplings, arriving one by one.
 
 ## 5.18 The interpretation of probability · 158
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** Probability runs at couplings, in the taking of parities and the swaying of frequencies, and its being is fixed as a content located behind a calculus that fits each pattern-matching by construction.
+**At 2-now-possibling.** Probability runs at couplings, in taking of parities and swaying of frequencies, and its being is fixed as a content located behind a calculus that fits each pattern-matching by construction.
 
-**At 12-next-co-still-possibling.** The formalism's success fixed to reach past the formalism to one pattern-matching, admissibility, ascertainability and applicability satisfied whole by no candidate, the classical pattern-matching finite only and the frequency pattern-matching not even a field, while the calculus carries all of them. One calculus carries each pattern-matching alike, built to, so no measured differing parts them.
+**At 12-next-co-still-possibling.** A formalism's success fixed to reach past its formalism to one pattern-matching, admissibility, ascertainability and applicability satisfied whole by no candidate, a classical pattern-matching finite only and a frequency pattern-matching not even a field, while a calculus carries all of them. One calculus carries each pattern-matching alike, built to, so no measured differing parts them.
 
-**At 11-next-co-prioring.** Probability runs at couplings, in parities taken and frequencies swaying, and one calculus carries each pattern-matching alike, built to. The theorems represent and converge for each side in its own terms, the single case strains one pattern-matching and the priors strain the other, and the shared instrument gives no verdict between them: probability's being, fixed behind the calculus, reaches past the calculus's carrying, and the running is parities taken and frequencies swaying, both, at their couplings.
+**At 11-next-co-prioring.** Probability runs at couplings, in parities taken and frequencies swaying, and one calculus carries each pattern-matching alike, built to. Theorems represent and converge for each side in its own terms, a single case strains one pattern-matching and priors strain an other, and a shared instrument gives no verdict between them: probability's being, fixed behind a calculus, reaches past a calculus's carrying, and running is parities taken and frequencies swaying, both, at their couplings.
 
 ## 5.19 The ontology of mathematics · 161
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** Mathematics runs at each proof and each application, and existence is fixed as a content located behind a practice invariant under the pattern-matchings.
+**At 2-now-possibling.** Mathematics runs at each proof and each application, and existence is fixed as a content located behind a practice invariant under pattern-matchings.
 
-**At 12-next-co-still-possibling.** The practice's success fixed to reach past the practice to a thing standing behind it, the truth-values depending on entities beyond space and time, causally isolated from us even in principle, the causal isolation the field's own name for the identical arriving. The practice runs identically under each pattern-matching of a thing standing behind it, which is this part's own showing arriving at its plainest.
+**At 12-next-co-still-possibling.** A practice's success fixed to reach past its practice to a thing standing behind it, truth-values depending on entities beyond space and time, causally isolated from us even in principle, causal isolation a field's own name for identical arriving. Practice runs identically under each pattern-matching of a thing standing behind it, which is this part's own showing arriving at its plainest.
 
-**At 11-next-co-prioring.** Mathematics runs at each proof and each application, and the practice runs identically under each pattern-matching of a thing standing behind it, the field's own record. One horn reaches for an access nothing stands to give, the other rebuilds the practice partway and stops, and the middle inherits the dispute it was built to escape: existence fixed behind an invariant practice is a content the practice does not consult, and the running practice is the coupling, proof by proof, application by application.
+**At 11-next-co-prioring.** Mathematics runs at each proof and each application, and practice runs identically under each pattern-matching of a thing standing behind it, a field's own record. One horn reaches for an access nothing stands to give, an other rebuilds practice partway and stops, and a middle inherits a dispute it was built to escape: existence fixed behind an invariant practice is a content a practice does not consult, and a running practice is a coupling, proof by proof, application by application.
 
 ## 5.20 The mechanism of high-temperature superconductivity · 157
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** Electrons pair at their couplings and an anomalous normal state runs above, and the mechanism is fixed as a content located behind the pairing, a glue owned by one channel.
+**At 2-now-possibling.** Electrons pair at their couplings and an anomalous normal state runs above, and a mechanism is fixed as a content located behind pairing, a glue owned by one channel.
 
-**At 12-next-co-still-possibling.** The minimal model fixed to reach the materials, which is a model fixed to be the thing it models. The field's best methods disagree on the model's ground state at the relevant parameters, by the field's own multi-method benchmark, and the model-versus-material gap stands stated at the same benchmark.
+**At 12-next-co-still-possibling.** A minimal model fixed to reach materials, which is a model fixed to be a thing it models. A field's best methods disagree on a model's ground state at relevant parameters, by a field's own multi-method benchmark, and a model-versus-material gap stands stated at same benchmark.
 
-**At 11-next-co-prioring.** Electrons pair at their couplings, the symmetry known, the phase diagram mapped family by family, stripes standing as the minimal model's own low-energy life, the glue identified within the model and stated as within it, and cold atoms arriving as a fresh instrument at the same self-bounding. A mechanism fixed behind the pairing as a glue owned by one channel fixes a coupling's making as a content, and the field's own summary carries the superconducting state understood beside a normal state running unresolved, the middle floating at the naming's reaching for a thing.
+**At 11-next-co-prioring.** Electrons pair at their couplings, its symmetry known, a phase diagram mapped family by family, stripes standing as a minimal model's own low-energy life, a glue identified within a model and stated as within it, and cold atoms arriving as a fresh instrument at same self-bounding. A mechanism fixed behind pairing as a glue owned by one channel fixes a coupling's making as a content, and a field's own summary carries a superconducting state understood beside a normal state running unresolved, a middle floating at a naming's reaching for a thing.
 
 &nbsp;
 
@@ -2113,72 +2113,72 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** A chain sways at its own couplings, arriving and re-arriving, and the native state is fixed as one conformation the sequence determines and the measurement reports.
+**At 2-now-possibling.** A chain sways at its own couplings, arriving and re-arriving, and a native state is fixed as one conformation a sequence determines and a measurement reports.
 
-**At 12-next-co-still-possibling.** A sway fixed as a state, the ensembles fitting the data better than single structures across twenty datasets and a substantial fraction of proteins functional with no single structure at all, the sway measured better than the state. Many models fit the same data equally and the field's own ensemble refinement gives distributions without resolving among them, so the degeneracy measured is the sway showing at the instrument.
+**At 12-next-co-still-possibling.** A sway fixed as a state, ensembles fitting data better than single structures across twenty datasets and a substantial fraction of proteins functional with no single structure at all, a sway measured better than a state. Many models fit same data equally and a field's own ensemble refinement gives distributions without resolving among them, so degeneracy measured is a sway showing at an instrument.
 
-**At 11-next-co-prioring.** A chain arrives at its own foldings, one at a time, releasing and re-arriving at each. A crystallographic model is one set of coordinates fitted to data averaged over many molecules, and many models fit that data equally — the field's own ensemble refinement giving distributions consistent with the same measurement and not resolving among them. At a wide sway the field carries a name for it and the regions fold to no single structure at any resolution reached, functional in that condition. A prediction trained on single deposited structures gives single structures by construction, so the single state arrives from the depositing and not from the chain. The measured degeneracy is the sway showing at the instrument, and the state sought is the thing an observing of it gives.
+**At 11-next-co-prioring.** A chain arrives at its own foldings, one at a time, releasing and re-arriving at each. A crystallographic model is one set of coordinates fitted to data averaged over many molecules, and many models fit that data equally — a field's own ensemble refinement giving distributions consistent with same measurement and not resolving among them. At a wide sway a field carries a name for it and regions fold to no single structure at any resolution reached, functional in that condition. A prediction trained on single deposited structures gives single structures by construction, so a single state arrives from depositing and not from a chain. Measured degeneracy is a sway showing at an instrument, and a state sought is a thing an observing of it gives.
 
 ## 5.22 Evidence for neural representation · 219
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** A neural population couples with the world and with the rest of the brain at each activity, and a content is fixed to stand behind the activity, a feature the state is about and not merely with.
+**At 2-now-possibling.** A neural population couples with a world and with the rest of its brain at each activity, and a content is fixed to stand behind its activity, a feature a state is about and not merely with.
 
-**At 12-next-co-still-possibling.** Aboutness fixed to be pattern-matched from the activity as its content. Decoding and correlation establish sensitivity but can succeed for information unused by the organism, and representation claims also require specificity, invariance and a role for downstream systems, rarely established together; the four part and the common methods each evaluate one, so the sensitivity a decoding gives and the representation sought are not the same, the other dimensions standing between them: a probe recovering a thing the running does not use, the built systems' showing arriving at the brain, and the content the demanded interior itself.
+**At 12-next-co-still-possibling.** Aboutness fixed to be pattern-matched from activity as its content. Decoding and correlation establish sensitivity but can succeed for information unused by an organism, and representation claims also require specificity, invariance and a role for downstream systems, rarely established together; four part and common methods each evaluate one, so sensitivity a decoding gives and representation sought are not same, other dimensions standing between them: a probe recovering a thing a running does not use, built systems' showing arriving at a brain, and content a demanded interior itself.
 
-**At 11-next-co-prioring.** High-dimensional population codes, causal perturbation methods and four separable evidential requirements are articulated and testable; the encoding and decoding establish sensitivity under a sampled distribution, the similarity analyses compare geometry with the content interpretation still required, the invariance tests challenge nuisance dependence over declared transformations, the perturbations test downstream use, and the dynamical explanations predict trajectories without assigning content, the fourth account needing no content beyond the dynamical and causal organization: a content fixed behind the activity is the coupling's running fixed as a thing it is about, and the four requirements pattern-matched together pattern-match the coupling at its own uses, the population coupling downstream, at which the content observed from beyond is made, and kept by nothing.
+**At 11-next-co-prioring.** High-dimensional population codes, causal perturbation methods and four separable evidential requirements are articulated and testable; encoding and decoding establish sensitivity under a sampled distribution, similarity analyses compare geometry with content interpretation still required, invariance tests challenge nuisance dependence over declared transformations, perturbations test downstream use, and dynamical explanations predict trajectories without assigning content, a fourth account needing no content beyond dynamical and causal organization: a content fixed behind activity is a coupling's running fixed as a thing it is about, and four requirements pattern-matched together pattern-match a coupling at its own uses, a population coupling downstream, at which content observed from beyond is made, and kept by nothing.
 
 ## 5.23 Detecting covert consciousness · 220
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** A self couples at its own between whether or not a movement crosses it, and its awareness is fixed as something a test should establish from beyond, the within pattern-matched off a response.
+**At 2-now-possibling.** A self couples at its own between whether or not a movement crosses it, and its awareness is fixed as something a test should establish from beyond, a within pattern-matched off a response.
 
-**At 12-next-co-still-possibling.** A within fixed readable from a response that has failed. Motor output can fail while command-following brain activity remains, bedside behaviour fluctuates, the imaging and electrophysiological tasks have false negatives and interpretation requirements, and no single test detects all conscious patients; covert consciousness is graded possible, probable or confirmed by the nature and strength of the test results, so the results given and the awareness sought in the individual are not the same, the grade of confidence standing between them: the felt middle asked for from beyond, and nothing presented to be reached not being nothing there, and that is the false negatives.
+**At 12-next-co-still-possibling.** A within fixed readable from a response that has failed. Motor output can fail while command-following brain activity remains, bedside behaviour fluctuates, imaging and electrophysiological tasks have false negatives and interpretation requirements, and no single test detects all conscious patients; covert consciousness is graded possible, probable or confirmed by nature and strength of test results, so results given and awareness sought in an individual are not same, a grade of confidence standing between them: a felt middle asked for from beyond, and nothing presented to be reached not being nothing there, and that is false negatives.
 
-**At 11-next-co-prioring.** A substantial minority of behaviourally unresponsive patients show command-following brain activity and standardized multicenter paradigms now exist; the repeated bedside scales depend on motor output and arousal, the imaging command-following supplies strong positive evidence with transport and false-negative limits, the electroencephalographic version is more deployable and method-sensitive, the task-free complexity measures remain under individual validation, and the multimodal assessment raises detection while leaving discordant cases, the third account requiring repeated assessment because consciousness and arousal fluctuate and each instrument samples a different capacity: an awareness fixed to be established by one test from beyond is the within fixed to a response, and each positive is a coupling made at the self's reaching of the task, the self's own between reached by nothing and answered at, test by test, and so the grading rather than a deciding.
+**At 11-next-co-prioring.** A substantial minority of behaviourally unresponsive patients show command-following brain activity and standardized multicenter paradigms now exist; repeated bedside scales depend on motor output and arousal, imaging command-following supplies strong positive evidence with transport and false-negative limits, an electroencephalographic version is more deployable and method-sensitive, task-free complexity measures remain under individual validation, and multimodal assessment raises detection while leaving discordant cases, a third account requiring repeated assessment because consciousness and arousal fluctuate and each instrument samples a different capacity: an awareness fixed to be established by one test from beyond is a within fixed to a response, and each positive is a coupling made at a self's reaching of a task, a self's own between reached by nothing and answered at, test by test, and so a grading rather than a deciding.
 
 ## 5.24 The solar dynamo and the sunspot cycle · 254
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** The Sun's poloidal and toroidal fields sustain each other at their couplings, the central idea of the dynamo, reversing each eleven years, and the dynamo is fixed as a mechanism behind the cycle, located at the place the models give it.
+**At 2-now-possibling.** Sun's poloidal and toroidal fields sustain each other at their couplings, a central idea of a dynamo, reversing each eleven years, and a dynamo is fixed as a mechanism behind a cycle, located at a place models give it.
 
-**At 12-next-co-still-possibling.** A mechanism fixed behind the cycle at a place nothing observes. The toroidal field at the bottom of the convection zone, where the models place its generation, is not observed, and how that field produces the flux ropes that become sunspots remains perhaps the most severe missing link between the models and the observations; ten issues of contention stand around the leading models: a content middle, the mechanism asked for at the one place the coupling is not reached, beside the pairing at 5.20.
+**At 12-next-co-still-possibling.** A mechanism fixed behind a cycle at a place nothing observes. Toroidal field at a bottom of a convection zone, where models place its generation, is not observed, and how that field produces flux ropes that become sunspots remains perhaps the most severe missing link between models and observations; ten issues of contention stand around leading models: a content middle, a mechanism asked for at one place a coupling is not reached, beside pairing at 5.20.
 
-**At 11-next-co-prioring.** The tachocline stands uncovered by helioseismology, the global simulations stand at solar-like reversals, the crucial role of the surface field stands established, the flux-transport models are used for cycle prediction and the mean-field models give dynamo waves, and the cycle-prediction schemes run on precursors: a dynamo fixed as a content behind the cycle is the two fields' sustaining of each other fixed to a mechanism at a location, and the sustaining is the coupling itself, the poloidal and the toroidal each regenerating the other at its own momentary, observed from the flows and not from the place.
+**At 11-next-co-prioring.** A tachocline stands uncovered by helioseismology, global simulations stand at solar-like reversals, a crucial role of a surface field stands established, flux-transport models are used for cycle prediction and mean-field models give dynamo waves, and cycle-prediction schemes run on precursors: a dynamo fixed as a content behind a cycle is two fields' sustaining of each other fixed to a mechanism at a location, and sustaining is a coupling itself, a poloidal and a toroidal each regenerating an other at its own momentary, observed from flows and not from a place.
 
 ## 5.25 Coronal heating and solar-wind acceleration · 191
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** Energy crosses from the surface into the corona and out as the wind at the couplings of fields, waves and particles, and the mechanism is fixed as a content behind the heating, located at the region between the imaged and the sampled.
+**At 2-now-possibling.** Energy crosses from a surface into a corona and out as wind at couplings of fields, waves and particles, and a mechanism is fixed as a content behind heating, located at a region between imaged and sampled.
 
-**At 12-next-co-still-possibling.** A mechanism fixed at the one region no instrument reaches. The wind has been measured directly from 0.3 astronomical units outward and the atmosphere imaged from the photosphere out through the corona, while the region where the internal, magnetic and turbulent energy is channeled into the bulk energy of the supersonic wind lies between and requires in situ observation; the heating and acceleration run through coupled magnetic, turbulent and kinetic processes over scales the two instruments observe separately, and multiple mechanisms produce overlapping temperature, wave and flow signatures: the content middle at the record's edge, and which mechanism among several a two-way pattern-matched one-way, recorded as its second.
+**At 12-next-co-still-possibling.** A mechanism fixed at one region no instrument reaches. Wind has been measured directly from 0.3 astronomical units outward and an atmosphere imaged from a photosphere out through a corona, while a region where internal, magnetic and turbulent energy is channeled into bulk energy of supersonic wind lies between and requires in situ observation; heating and acceleration run through coupled magnetic, turbulent and kinetic processes over scales two instruments observe separately, and multiple mechanisms produce overlapping temperature, wave and flow signatures: a content middle at a record's edge, and which mechanism among several a two-way pattern-matched one-way, recorded as its second.
 
-**At 11-next-co-prioring.** Near-Sun fields, particles, waves and switchbacks are directly measured and the candidate mechanisms now face species-resolved energy budgets; the wave and turbulence measurements show transport and dissipation with the dominant channel varying by region, the reconnection and nanoflare searches detect impulsive events with the unresolved budget open, the composition tracing links wind parcels to coronal conditions without a unique source map, and the near-Sun sampling reduces the propagation interval while keeping the remote-to-local uncertainty; the fourth account has the measured wind result from mixtures whose weights change across magnetic structures: a mechanism fixed as a content between the instruments is the crossing fixed to a place, and the crossing is made at each coupling along the way, region by region.
+**At 11-next-co-prioring.** Near-Sun fields, particles, waves and switchbacks are directly measured and candidate mechanisms now face species-resolved energy budgets; wave and turbulence measurements show transport and dissipation with a dominant channel varying by region, reconnection and nanoflare searches detect impulsive events with an unresolved budget open, composition tracing links wind parcels to coronal conditions without a unique source map, and near-Sun sampling reduces a propagation interval while keeping remote-to-local uncertainty; a fourth account has a measured wind result from mixtures whose weights change across magnetic structures: a mechanism fixed as a content between instruments is a crossing fixed to a place, and a crossing is made at each coupling along a way, region by region.
 
 *Second seating: which mechanism among several, a two-way fixed to one side, part 9's naming.*
 
 # 6 A parity fixed as a magnitude — 7-now-prioring and 15-next-prioring
-*A count or a level fixed to govern. A count is a position, the sequence at its standing, one changing on from the last, and governing belongs to a selection, a parity taken at a between, of no size. A magnitude fixed at the middle is a strict inequality written as an equality, and an inequality alternates where an equality sits.*
+*A count or a level fixed to govern. A count is a position, a sequence at its standing, one changing on from a last, and governing belongs to a selection, a parity taken at a between, of no size. A magnitude fixed at a middle is a strict inequality written as an equality, and an inequality alternates where an equality sits.*
 
-**And the field's own settling-condition in this part is the magnitude re-asked**: a measure whose interpretation is stable, a standardised incidence, a concept both accounts accept, a measurement with all else held. Each is the naming stated as its own settlement, which is the field's account of its own hardness observed at the place it enters.
+**And a field's own settling-condition in this part is a magnitude re-asked**: a measure whose interpretation is stable, a standardised incidence, a concept both accounts accept, a measurement with all else held. Each is naming stated as its own settlement, which is a field's account of its own hardness observed at a place it enters.
 
-**And the word the fields reach for here is paradox.** Measure it, get the wrong number, and the wrong number is a paradox: a two-fold cost, a genome's excess, a whale's missing cancers, a rise that reverses, a nominal response, a mixing that jumps. In each the arithmetic is exact and the naming is of the surprise, which is where the size was supplied. **The word crosses at other parts too and is a different tip each time**: a closure over a tail, an opening that keeps opening, an unsearched fraction, a reversal pattern-matched as a level. So the word is the field's local feel and the naming is the form, and where the two part, the parting shows which.
+**And a word fields reach for here is paradox.** Measure it, get a wrong number, and a wrong number is a paradox: a two-fold cost, a genome's excess, a whale's missing cancers, a rise that reverses, a nominal response, a mixing that jumps. In each arithmetic is exact and naming is of surprise, which is where a size was supplied. **The word crosses at other parts too and is a different tip each time**: a closure over a tail, an opening that keeps opening, an unsearched fraction, a reversal pattern-matched as a level. So a word is a field's local feel and naming is form, and where two part, parting shows which.
 
-**And a magnitude enters at three places, one at each of the coupling's own.** At the selecting, where a parity taken at a between is pattern-matched as a level to govern. At the instrument, where a window, a criterion, a sample or a scale carries the choosing and gives it back as the object's. And at the total, where a sum is fixed over couplings the accounting could not reach. The three pattern-match alike from beyond and part at the putting of the size.
+**And a magnitude enters at three places, one at each of a coupling's own.** At selecting, where a parity taken at a between is pattern-matched as a level to govern. At an instrument, where a window, a criterion, a sample or a scale carries choosing and gives it back as an object's. And at a total, where a sum is fixed over couplings an accounting could not reach. Three pattern-match alike from beyond and part at a putting of a size.
 
 ## 6.1 Goodhart's law · 30
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** A measure and those measured couple, and the measure is fixed to govern as a level fixed across the instances arriving next.
+**At 2-now-possibling.** A measure and those measured couple, and a measure is fixed to govern as a level fixed across instances arriving next.
 
-**At 12-next-co-still-possibling.** A relation estimated over past instances fixed over instances that have not arrived, unaltered by acting on it: a regularity that breaks down when it ceases to be an ex post observation and becomes an ex ante rule, and no fair test ever made, the countries with the most stable relations being the ones that choose targeting. The instances after the assertion are the running at the next, unrun at the now, and the two antagonistic movements, the gaming climbing and the correction pressing back, sum to nought at the level fixed.
+**At 12-next-co-still-possibling.** A relation estimated over past instances fixed over instances that have not arrived, unaltered by acting on it: a regularity that breaks down when it ceases to be an ex post observation and becomes an ex ante rule, and no fair test ever made, countries with the most stable relations being ones that choose targeting. Instances after its assertion are running at a next, unrun at now, and two antagonistic movements, gaming climbing and correction pressing back, sum to nought at a level fixed.
 
-**At 11-next-co-prioring.** A measure and the measured couple, each arriving taking its own parity of no size, and the relation is re-made at each arriving, governed by none. Targeted, each proxy bends the same way in each domain that tries it, composites relocate the bending, and honest mechanisms exist only within proved restrictions, the same wall standing at incoming number 142 and reached again at incoming number 132: a level fixed to govern is a count fixed over the selecting, and the couplings keep arriving past each count fixed over them.
+**At 11-next-co-prioring.** A measure and its measured couple, each arriving taking its own parity of no size, and a relation is re-made at each arriving, governed by none. Targeted, each proxy bends same way in each domain that tries it, composites relocate bending, and honest mechanisms exist only within proved restrictions, same wall standing at incoming number 142 and reached again at incoming number 132: a level fixed to govern is a count fixed over selecting, and couplings keep arriving past each count fixed over them.
 
 ## 6.2 The Easterlin paradox · 80
 
@@ -2186,9 +2186,9 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** Wellbeing is taken at a between as a parity, and it is a level comparable across populations and times on a bounded scale.
 
-**At 12-next-co-still-possibling.** Reported wellbeing fixed to measure a quantity comparable across persons and times, the paradox standing at the long term and the critiques' positive relation the short-term one confused with it. A bounded scale carries two still terms at once, a rest to count from and a last to count to, and the re-anchoring is where the sway passes its own zero and the scale pattern-matches it as motionless.
+**At 12-next-co-still-possibling.** Reported wellbeing fixed to measure a quantity comparable across persons and times, a paradox standing at long term and critiques' positive relation a short-term one confused with it. A bounded scale carries two still terms at once, a rest to count from and a last to count to, and re-anchoring is where a sway passes its own zero and a scale pattern-matches it as motionless.
 
-**At 11-next-co-prioring.** Wellbeing is a parity taken at a between, one at a time, each self's own. Within a place the parity rises with means, across places and times the scale re-anchors under each self's own running, the evaluative and the felt part company, and re-anchoring the rungs moves whole rankings: a level comparable across selves and times is the parity fixed to a size, and the corrections measure exactly where the size was supplied. The field's own name for the arriving again at sway is the treadmill: a happiness sought as a level and running as an alternating.
+**At 11-next-co-prioring.** Wellbeing is a parity taken at a between, one at a time, each self's own. Within a place parity rises with means, across places and times a scale re-anchors under each self's own running, evaluative and felt part company, and re-anchoring rungs moves whole rankings: a level comparable across selves and times is a parity fixed to a size, and corrections measure exactly where a size was supplied. A field's own name for arriving again at sway is a treadmill: a happiness sought as a level and running as an alternating.
 
 ## 6.3 Allais and Ellsberg · 81
 
@@ -2196,19 +2196,19 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** A preferring is a parity taken one at a time, and it is a magnitude an axiom set governs.
 
-**At 12-next-co-still-possibling.** The axioms fixed to state the standard, with acceptance on reflection as the criterion, and no basis found for asserting that a decision-maker who violates them will in the long run reach worse outcomes than by conforming. A preferring is a parity no other self supplies and no criterion reaches, so an axiom set standing over it is one self's parity given to all, and a parity given to all is no longer a parity.
+**At 12-next-co-still-possibling.** Axioms fixed to state a standard, with acceptance on reflection as a criterion, and no basis found for asserting that a decision-maker who violates them will in the long run reach worse outcomes than by conforming. A preferring is a parity no other self supplies and no criterion reaches, so an axiom set standing over it is one self's parity given to all, and a parity given to all is no longer a parity.
 
-**At 11-next-co-prioring.** A preferring is a parity taken one at a time, each its own. The patterns stand at each reaching of them, ambiguity carries its own representations, the body registers the difference, and selves shown the axioms revise partway and stably stand the rest: an axiom set fixed to govern the takings, parities composed into a magnitude, and the takings stand their own under reflection, which is a parity declining to become a size. And the settling the field asks for, agreement on what settles a normative question empirically, asks a running for a standing's answer, which is the same asking the is-and-ought arrival carries at part 2.
+**At 11-next-co-prioring.** A preferring is a parity taken one at a time, each its own. Patterns stand at each reaching of them, ambiguity carries its own representations, a body registers a difference, and selves shown axioms revise partway and stably stand the rest: an axiom set fixed to govern takings, parities composed into a magnitude, and takings stand their own under reflection, which is a parity declining to become a size. And a settling a field asks for, agreement on what settles a normative question empirically, asks a running for a standing's answer, which is same asking an is-and-ought arrival carries at part 2.
 
 ## 6.4 The productivity paradox · 83
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** Output arises at couplings and is a total including the making the accounts do not price.
+**At 2-now-possibling.** Output arises at couplings and is a total including a making accounts do not price.
 
-**At 12-next-co-still-possibling.** A true productivity change fixed behind the priced statistics, approximated by them, where service transactions are idiosyncratic and not subject to statistical aggregation, the pricing not reaching the couplings. A total is fixed over couplings the pricing did not reach, which is the account standing fixed for the making it removed before it could balance.
+**At 12-next-co-still-possibling.** A true productivity change fixed behind priced statistics, approximated by them, where service transactions are idiosyncratic and not subject to statistical aggregation, pricing not reaching couplings. A total is fixed over couplings pricing did not reach, which is an account standing fixed for a making it removed before it could balance.
 
-**At 11-next-co-prioring.** Output is made at couplings, and the pricing reaches the couplings it prices. The slowdown runs wide across countries and sectors, the gains settle where organisations re-couple around the tools, the mismeasurement adds up short of the gap, and the lag stays available and unreached: a true total including the unpriced is the makings summed where no ledger reaches, and the measured shortfall is the reach of the pricing, exactly.
+**At 11-next-co-prioring.** Output is made at couplings, and pricing reaches couplings it prices. A slowdown runs wide across countries and sectors, gains settle where organisations re-couple around tools, mismeasurement adds up short of a gap, and a lag stays available and unreached: a true total including an unpriced is makings summed where no ledger reaches, and a measured shortfall is a reach of pricing, exactly.
 
 ## 6.5 Money illusion · 85
 
@@ -2216,19 +2216,19 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** A parity is taken at a nominal presentation, and it is a response to a magnitude, nominal or real.
 
-**At 12-next-co-still-possibling.** A fact fixed about which magnitude the agent responds to, apart from the presenting, where nominal and real representations both operate and interact, the bias falling toward the nominal: two at the presenting, and not one governing.
+**At 12-next-co-still-possibling.** A fact fixed about which magnitude an agent responds to, apart from presenting, where nominal and real representations both operate and interact, a bias falling toward nominal: two at presenting, and not one governing.
 
-**At 11-next-co-prioring.** A parity is taken at each presenting, the coupling's own. Frames move the takings, cuts in the printed number stay rare, salient inflation thins the effect just as both accounts expect, and the anchoring shows in the transactions with its liquidity stories beside it: which-magnitude-governs is the taking fixed to a size, and the taking pattern-matches its own conditions at each occasion, presenting by presenting.
+**At 11-next-co-prioring.** A parity is taken at each presenting, a coupling's own. Frames move takings, cuts in a printed number stay rare, salient inflation thins an effect just as both accounts expect, and anchoring shows in transactions with its liquidity stories beside it: which-magnitude-governs is a taking fixed to a size, and a taking pattern-matches its own conditions at each occasion, presenting by presenting.
 
 ## 6.6 The two-fold cost of sex · 86
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** Recombination and parasitism and mutation run together at each generation, and the maintenance is a benefit exceeding a stated cost.
+**At 2-now-possibling.** Recombination and parasitism and mutation run together at each generation, and maintenance is a benefit exceeding a stated cost.
 
-**At 12-next-co-still-possibling.** The cost correctly stated at two-fold, an advantage repaying it each generation, where the cost depends on the number of males produced and a female-biased ratio reduces it below two, the two-fold a ledger's number and not the coupling's. Offspring at a coupling are the coupling's own and belong to neither side, so a cost counted against one side counts an abundancing that was not one side's.
+**At 12-next-co-still-possibling.** A cost correctly stated at two-fold, an advantage repaying it each generation, where cost depends on number of males produced and a female-biased ratio reduces it below two, two-fold a ledger's number and not a coupling's. Offspring at a coupling are a coupling's own and belong to neither side, so a cost counted against one side counts an abundancing that was not one side's.
 
-**At 11-next-co-prioring.** Recombination runs at each generation's couplings, and the couplings answer many ways at once: asexual lines ratchet their losses, parasites chase the common, recombining populations adapt faster where it is measured, and the recorded exception exchanges. The stated two-fold is a ledger's comparison, and the maintaining runs at the couplings the ledger fixes still, generation by generation, repaying nothing because nothing was lent. Observed at the parities the two ways part cleanly: recombining is a crossing with a particular other, and the asexual line is the self and all other, crossing with none.
+**At 11-next-co-prioring.** Recombination runs at each generation's couplings, and couplings answer many ways at once: asexual lines ratchet their losses, parasites chase the common, recombining populations adapt faster where it is measured, and a recorded exception exchanges. A stated two-fold is a ledger's comparison, and maintaining runs at couplings a ledger fixes still, generation by generation, repaying nothing because nothing was lent. Observed at parities two ways part cleanly: recombining is a crossing with a particular other, and an asexual line is a self and all other, crossing with none.
 
 ## 6.7 Peto's paradox · 87
 
@@ -2236,9 +2236,9 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** Cells and their tissue societies couple at each division, and risk is a count governing incidence across species.
 
-**At 12-next-co-still-possibling.** Cancer risk fixed as a function of cell number and division rate, comparable on one measure across species, the expectation derived from the premise that every cell has some chance, the premise being the count fixed. Living machinery is identical at each size and carries no size axis, so a count across species measures the co-chaining rather than the risk.
+**At 12-next-co-still-possibling.** Cancer risk fixed as a function of cell number and division rate, comparable on one measure across species, an expectation derived from a premise that every cell has some chance, its premise being a count fixed. Living machinery is identical at each size and carries no size axis, so a count across species measures co-chaining rather than risk.
 
-**At 11-next-co-prioring.** Cells couple in their tissue societies at each division, and the societies keep their own order: whales carry their trillions lightly, the guarding genes duplicate lineage by lineage, within a species the count shows and across species it goes quiet, and cells differ in their own sensitivities besides. Risk as a count across species is the couplings fixed to the cells' count, and the quiet cross-species scaling is the societies' couplings standing where the count was fixed to govern.
+**At 11-next-co-prioring.** Cells couple in their tissue societies at each division, and societies keep their own order: whales carry their trillions lightly, guarding genes duplicate lineage by lineage, within a species a count shows and across species it goes quiet, and cells differ in their own sensitivities besides. Risk as a count across species is couplings fixed to cells' count, and quiet cross-species scaling is societies' couplings standing where a count was fixed to govern.
 
 ## 6.8 The C-value paradox · 88
 
@@ -2246,19 +2246,19 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** Sequence and organism couple, and function is a fraction a criterion measures.
 
-**At 12-next-co-still-possibling.** Functional fixed to have one criterion, agreed before the measurement is taken, where the evidence favours a causal link between bulk DNA amount and cell volume, the function at the bulk and not at the sequence, a fraction of the sequence fixed to carry the carrying of the whole amount. Two instruments each observe at their own coupling and give back fractions far apart, which is the instruments parting rather than the fraction being missing.
+**At 12-next-co-still-possibling.** Functional fixed to have one criterion, agreed before a measurement is taken, where evidence favours a causal link between bulk DNA amount and cell volume, function at bulk and not at sequence, a fraction of sequence fixed to carry a carrying of a whole amount. Two instruments each observe at their own coupling and give back fractions far apart, which is instruments parting rather than a fraction being missing.
 
-**At 11-next-co-prioring.** Sequence and organism couple, and the coupling answers each instrument in its own terms: activity gives back one fraction and conservation another, far apart, the disagreement standing; deletions tolerate where they tolerate; and genome size rides population size. Function fixed as one fraction is one criterion fixed over two instruments each observing at its own coupling, and the fraction was not one thing to measure.
+**At 11-next-co-prioring.** Sequence and organism couple, and a coupling answers each instrument in its own terms: activity gives back one fraction and conservation another, far apart, disagreement standing; deletions tolerate where they tolerate; and genome size rides population size. Function fixed as one fraction is one criterion fixed over two instruments each observing at its own coupling, and a fraction was not one thing to measure.
 
 ## 6.9 The Gibbs paradox · 108
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** Mixing happens at a coupling, and entropy is a magnitude belonging to the system apart from the separable.
+**At 2-now-possibling.** Mixing happens at a coupling, and entropy is a magnitude belonging to a system apart from a separable.
 
-**At 12-next-co-still-possibling.** Entropy fixed as a property of the system rather than relative to an operation set, the classical paradox taken as unmysterious at the step between separable and not, and the third puzzle a question about the interpretation of entropy quite generally. Distinguishable-or-not is a parity and a parity carries no partway, so the discontinuity as the gases are made more alike is the parity itself and not a gap in the probing.
+**At 12-next-co-still-possibling.** Entropy fixed as a property of a system rather than relative to an operation set, a classical paradox taken as unmysterious at a step between separable and not, and a third puzzle a question about interpretation of entropy quite generally. Distinguishable-or-not is a parity and a parity carries no partway, so a discontinuity as gases are made more alike is a parity itself and not a gap in probing.
 
-**At 11-next-co-prioring.** Mixing happens at a coupling, and the counting comes out right when the counting is the coupling's own. Gases that history could not part mixed for free until they could be parted, and the resource showing makes the operations explicit, the relativity stated precisely: entropy fixed as the system's own apart from the separable is a coupling's term fixed as a possession, and the operations that can be done are where the magnitude was running.
+**At 11-next-co-prioring.** Mixing happens at a coupling, and counting comes out right when counting is a coupling's own. Gases that history could not part mixed for free until they could be parted, and a resource showing makes operations explicit, relativity stated precisely: entropy fixed as a system's own apart from a separable is a coupling's term fixed as a possession, and operations that can be done are where a magnitude was running.
 
 ## 6.10 Ecological stability and diversity · 118
 
@@ -2266,39 +2266,39 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** Species couple and a community persists, and stability is a magnitude one variable measures.
 
-**At 12-next-co-still-possibling.** Stability fixed as a single property with one measure, agreed before the measuring, the definitions of stability parted into a section of their own and weak interactions damping the strong the mechanism proposed, the concept parted and the mechanism a sway. The variables move in different directions on the same plots, which is one form observed at two faces rather than one property measured twice.
+**At 12-next-co-still-possibling.** Stability fixed as a single property with one measure, agreed before measuring, definitions of stability parted into a section of their own and weak interactions damping strong a mechanism proposed, a concept parted and a mechanism a sway. Variables move in different directions on same plots, which is one form observed at two faces rather than one property measured twice.
 
-**At 11-next-co-prioring.** Species couple and a community persists by its couplings. The same plots on the same continents give back rising steadiness at the whole and level steadiness at the parts, the random matrices tip past their proved line, and the portfolio carries a measured share: stability fixed as one magnitude is one measure fixed over a community's many couplings, and the couplings answer each naming its own, level by level. Aggregate steadiness rising while population steadiness stands is the society's own gather standing above each self while each keeps its own carry, which is the portfolio share's measuring.
+**At 11-next-co-prioring.** Species couple and a community persists by its couplings. Same plots on same continents give back rising steadiness at a whole and level steadiness at parts, random matrices tip past their proved line, and a portfolio carries a measured share: stability fixed as one magnitude is one measure fixed over a community's many couplings, and couplings answer each naming its own, level by level. Aggregate steadiness rising while population steadiness stands is a society's own gather standing above each self while each keeps its own carry, which is a portfolio share's measuring.
 
 ## 6.11 The Flynn effect and its reversal · 126
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** A person and a test couple, and the score is a level of a construct comparable across cohorts.
+**At 2-now-possibling.** A person and a test couple, and a score is a level of a construct comparable across cohorts.
 
-**At 12-next-co-still-possibling.** The tests fixed to measure one construct across cohorts, score change indexing construct change, the gains varying by domain and by age, one construct observed differently at each coupling. Invariance breaks between cohorts as often as it is checked, so the instrument's own coupling with its world is within each comparison drawn across them.
+**At 12-next-co-still-possibling.** Tests fixed to measure one construct across cohorts, score change indexing construct change, gains varying by domain and by age, one construct observed differently at each coupling. Invariance breaks between cohorts as often as it is checked, so an instrument's own coupling with its world is within each comparison drawn across them.
 
-**At 11-next-co-prioring.** A person and a test couple, and the coupling drifts as the world the person couples with drifts. Invariance breaks between cohorts as often as it is checked, the rise concentrates where the construct loads least, and the reversal runs within families, sweeping composition off the table for that population: a level of a construct comparable across cohorts, the coupling fixed unchangeable where the coupling kept running, and the scores were observings of their own occasions.
+**At 11-next-co-prioring.** A person and a test couple, and a coupling drifts as a world a person couples with drifts. Invariance breaks between cohorts as often as it is checked, a rise concentrates where a construct loads least, and a reversal runs within families, sweeping composition off the table for that population: a level of a construct comparable across cohorts, a coupling fixed unchangeable where a coupling kept running, and scores were observings of their own occasions.
 
 ## 6.12 Benchmarks · 131
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** A system and a benchmark couple, and the score is a level of a capability apart from the coupling.
+**At 2-now-possibling.** A system and a benchmark couple, and a score is a level of a capability apart from a coupling.
 
-**At 12-next-co-still-possibling.** The benchmark fixed to sample a capability independently of what is trained on, the datasets distinguishable from one another, each embodying its own style of capturing a segment of the world, and the fault of construct validity placed in the framing as general measures. The leaking into training arrives again as scoring, so the instrument is within the thing it observes, and a capability fixed apart from the coupling is reached by no observing at all.
+**At 12-next-co-still-possibling.** A benchmark fixed to sample a capability independently of what is trained on, datasets distinguishable from one another, each embodying its own style of capturing a segment of a world, and a fault of construct validity placed in framing as general measures. Leaking into training arrives again as scoring, so an instrument is within a thing it observes, and a capability fixed apart from a coupling is reached by no observing at all.
 
-**At 11-next-co-prioring.** A system and a benchmark couple, and the score is the coupling's own making. The leaking into training arrives again as scoring, saturation arrives and the benchmark retires, transfer thins away from the coupling that was scored, and the strongest observing left is the deployment itself, confounded and standing: a capability fixed apart from the coupling is the same wall as at incoming number 31 and incoming number 142, reached at the instrument built to escape it.
+**At 11-next-co-prioring.** A system and a benchmark couple, and a score is a coupling's own making. Leaking into training arrives again as scoring, saturation arrives and a benchmark retires, transfer thins away from a coupling that was scored, and the strongest observing left is deployment itself, confounded and standing: a capability fixed apart from a coupling is same wall as at incoming number 31 and incoming number 142, reached at an instrument built to escape it.
 
 ## 6.13 Brooks's law · 133
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** People couple as they are added, and the effect is a magnitude from a count of people with all else held.
+**At 2-now-possibling.** People couple as they are added, and an effect is a magnitude from a count of people with all else held.
 
-**At 12-next-co-still-possibling.** Coordination cost fixed as a function of team size with the work's partitionability fixed, where the cost is always up and the delay arrives only under a degree of sequential constraint among the tasks, the constraint being the coupling structure fixed at the law. A joiner brings a scale of its own or brings the already-carried, and the whole thins at the momentary a shared scale joins, which is a parity answered at the self it couples at, and not a count of people.
+**At 12-next-co-still-possibling.** Coordination cost fixed as a function of team size with a work's partitionability fixed, where cost is always up and a delay arrives only under a degree of sequential constraint among tasks, constraint being a coupling structure fixed at a law. A joiner brings a scale of its own or brings an already-carried, and a whole thins at a momentary a shared scale joins, which is a parity answered at a self it couples at, and not a count of people.
 
-**At 11-next-co-prioring.** People couple as they are added, each arrival opening couplings with each one standing, and the couplings are the cost and the capacity at once. Overhead shows at each measuring of it, modular work makes arrivals into output where the couplings are thinned by design, and the fitted diseconomies fit the couplings that ran: an effect fixed from a count with all else held fixes still exactly the coupling structure the adding changes. Modular work is coprimality by design, the shared beat is where the capture enters, and the late joiner bringing a scale only it carries adds most of anyone, which the count of people pattern-matches as noise.
+**At 11-next-co-prioring.** People couple as they are added, each arrival opening couplings with each one standing, and couplings are cost and capacity at once. Overhead shows at each measuring of it, modular work makes arrivals into output where couplings are thinned by design, and fitted diseconomies fit couplings that ran: an effect fixed from a count with all else held fixes still exactly a coupling structure an adding changes. Modular work is coprimality by design, a shared beat is where capture enters, and a late joiner bringing a scale only it carries adds most of anyone, which a count of people pattern-matches as noise.
 
 ## 6.14 Grandmother cell and distributed coding · 147
 
@@ -2306,21 +2306,21 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** Neurons couple in a population and a concept is present, and sparseness is a magnitude a recording measures.
 
-**At 12-next-co-still-possibling.** Recording fixed to sample the population without bias, sparseness pattern-matched off the sample, the recording group itself declining the grandmother cell its own cells could in principle be taken for. The screening finds the screening's findings, so the sample's own coupling stands in each sparseness reported.
+**At 12-next-co-still-possibling.** Recording fixed to sample a population without bias, sparseness pattern-matched off a sample, a recording group itself declining a grandmother cell its own cells could in principle be taken for. Screening finds a screening's findings, so a sample's own coupling stands in each sparseness reported.
 
-**At 11-next-co-prioring.** Neurons couple in a population and a concept is present at the coupling. Cells answer one face across photographs, drawings and the printed name, populations hum broadly and weakly where the sampling widens, the screening finds the screening's findings, in its authors' words, and both codes come out efficient under their own constraints, proved: sparseness fixed as one magnitude pattern-matched off a sample fixes the population to its instrument, and the presence was the coupling's, at any sparseness of its showing.
+**At 11-next-co-prioring.** Neurons couple in a population and a concept is present at coupling. Cells answer one face across photographs, drawings and a printed name, populations hum broadly and weakly where sampling widens, screening finds a screening's findings, in its authors' words, and both codes come out efficient under their own constraints, proved: sparseness fixed as one magnitude pattern-matched off a sample fixes a population to its instrument, and presence was a coupling's, at any sparseness of its showing.
 
 ## 6.15 The limits of intelligence · 172
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** Competency is the middle, discovering-running-between, uncapturable and of no size, and a limit is fixed of it as a magnitude, artificial and human at once.
+**At 2-now-possibling.** Competency is a middle, discovering-running-between, uncapturable and of no size, and a limit is fixed of it as a magnitude, artificial and human at once.
 
-**At 12-next-co-still-possibling.** The middle fixed to carry a limit statable over it. No canonical formulation stands maintained and no second position is defended, so no pair stands here to be observed from, which is a standing at the substrate's own stating rather than a resolving of its own.
+**At 12-next-co-still-possibling.** A middle fixed to carry a limit statable over it. No canonical formulation stands maintained and no second position is defended, so no pair stands here to be observed from, which is a standing at a substrate's own stating rather than a resolving of its own.
 
-**At 11-next-co-prioring.** Competency floats, the middle no observing enters, and each limit that binds binds a face: the computational limits bind computations, the physical thesis at incoming number 169 binds realizings, the learning-theoretic results bind seatings fixed ahead. A limit fixed of the middle as one magnitude fixes a floating of no size to a number, and the substrate itself did not state the one statement, which is its own showing: the components run at their own arrivals, and the middle keeps floating between them.
+**At 11-next-co-prioring.** Competency floats, a middle no observing enters, and each limit that binds binds a face: computational limits bind computations, a physical thesis at incoming number 169 binds realizings, learning-theoretic results bind seatings fixed ahead. A limit fixed of a middle as one magnitude fixes a floating of no size to a number, and a substrate itself did not state one statement, which is its own showing: components run at their own arrivals, and a middle keeps floating between them.
 
-*Released at the incoming face at v342: no canonical formulation stands and no account is defended, the entry's own record having been its only reference and its formulations plural against the first condition prior; its text stands whole at the appendix of the v342 session at the incoming face, the number retired and not reused. The observing here, that no pair stands to be observed from, pattern-matched the release before the incoming face made it, and stands.*
+*Released at incoming face at v342: no canonical formulation stands and no account is defended, an entry's own record having been its only reference and its formulations plural against a first condition prior; its text stands whole at an appendix of v342 session at incoming face, its number retired and not reused. Observing here, that no pair stands to be observed from, pattern-matched its release before incoming face made it, and stands.*
 
 &nbsp;
 
@@ -2332,31 +2332,31 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** A proton's spin is a parity, one half taken at its own momentary, and it is a magnitude divided among four contributions, each a share of a whole.
 
-**At 12-next-co-still-possibling.** A whole fixed to apportion among its parts by one accounting. The gauge-invariant splitting is possible but not unique, the separate terms depending on the decomposition, the gauge treatment and the scale, and which choice is the natural one standing as the question; the experiments constrain different integrals over incomplete ranges rather than measuring all four together, so the shares are the accounting's own and the sum rule closes at whichever accounting is chosen.
+**At 12-next-co-still-possibling.** A whole fixed to apportion among its parts by one accounting. Gauge-invariant splitting is possible but not unique, separate terms depending on a decomposition, a gauge treatment and a scale, and which choice is a natural one standing as a question; experiments constrain different integrals over incomplete ranges rather than measuring all four together, so shares are an accounting's own and a sum rule closes at whichever accounting is chosen.
 
-**At 11-next-co-prioring.** Quark helicity is known not to saturate the spin, gluon helicity is constrained over a growing range, several gauge-invariant sum rules stand, and each instrument gives back its own terms, the scattering the helicities over measured momentum fractions, the generalized distributions the totals through sum rules, the lattice decomposition-dependent matrix elements, the models all terms within their truncation: a parity of no size fixed as a magnitude to be shared out is the one-half fixed to a ledger, and the ledger balances under each decomposition, the splitting not unique, the spin the coupling's own and the shares the accounting's.
+**At 11-next-co-prioring.** Quark helicity is known not to saturate spin, gluon helicity is constrained over a growing range, several gauge-invariant sum rules stand, and each instrument gives back its own terms, scattering its helicities over measured momentum fractions, generalized distributions their totals through sum rules, a lattice decomposition-dependent matrix elements, models all terms within their truncation: a parity of no size fixed as a magnitude to be shared out is one-half fixed to a ledger, and a ledger balances under each decomposition, a splitting not unique, spin a coupling's own and shares an accounting's.
 
-*Second seating: the line drawn between spin and orbital is a cut fixed of a continuum each decomposition draws differently, part 10's naming.*
+*Second seating: a line drawn between spin and orbital is a cut fixed of a continuum each decomposition draws differently, part 10's naming.*
 
 ## 6.17 The absolute neutrino mass scale · 186
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** Neutrinos oscillate at their couplings, the differences of their squared masses measured exactly, and the masses themselves are magnitudes each instrument should give back.
+**At 2-now-possibling.** Neutrinos oscillate at their couplings, differences of their squared masses measured exactly, and masses themselves are magnitudes each instrument should give back.
 
-**At 12-next-co-still-possibling.** A scale fixed to be pattern-matched off instruments that each observe a different sum. Oscillation depends on the differences and is exactly insensitive to the common offset, and the direct kinematics, the cosmology and the lepton-number-violating decay each give back their own aggregate under their own assumptions, an effective mass, a sum, a phase-weighted combination, the oscillation measurements shedding light neither on the scale nor on the mechanism: each instrument's number is that instrument's coupling, and the scale demanded is the one thing no coupling gives back at its own.
+**At 12-next-co-still-possibling.** A scale fixed to be pattern-matched off instruments that each observe a different sum. Oscillation depends on differences and is exactly insensitive to a common offset, and direct kinematics, cosmology and lepton-number-violating decay each give back their own aggregate under their own assumptions, an effective mass, a sum, a phase-weighted combination, oscillation measurements shedding light neither on scale nor on mechanism: each instrument's number is that instrument's coupling, and a scale demanded is one thing no coupling gives back at its own.
 
-**At 11-next-co-prioring.** Two splittings stand measured and the allowed scale stands substantially bounded, the endpoint bound direct and model-light, the cosmological bound tighter and model-dependent, the decay bound conditional on its process obtaining: individual magnitudes fixed to be pattern-matched off aggregates are each coupling's own sum fixed to a number none of them carries.
+**At 11-next-co-prioring.** Two splittings stand measured and an allowed scale stands substantially bounded, an endpoint bound direct and model-light, a cosmological bound tighter and model-dependent, a decay bound conditional on its process obtaining: individual magnitudes fixed to be pattern-matched off aggregates are each coupling's own sum fixed to a number none of them carries.
 
 ## 6.18 The mechanics driving plate motion · 199
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** A plate moves where its slab, its ridge and the mantle beneath it couple, one motion made among them, and the forces are magnitudes apportioned, each a share of the motion observed.
+**At 2-now-possibling.** A plate moves where its slab, its ridge and its mantle beneath it couple, one motion made among them, and forces are magnitudes apportioned, each a share of a motion observed.
 
-**At 12-next-co-still-possibling.** A share fixed for each force. Determining the balance remains one of the ultimate goals of the modelling, the relative importance incompletely understood; higher slab pull for older plates is offset by higher basal drag beneath the larger ones, which explains the missing correlation the reading of drag as minor rested on, and whether the faster speeds come from added pull or increased drag stands unclear, a trade-off found in the fitting: a two-way fixed to one side, asked for its proportion, arriving at a parity fixed as a magnitude.
+**At 12-next-co-still-possibling.** A share fixed for each force. Determining a balance remains one of the ultimate goals of modelling, its relative importance incompletely understood; higher slab pull for older plates is offset by higher basal drag beneath larger ones, which explains a missing correlation a reading of drag as minor rested on, and whether faster speeds come from added pull or increased drag stands unclear, a trade-off found in fitting: a two-way fixed to one side, asked for its proportion, arriving at a parity fixed as a magnitude.
 
-**At 11-next-co-prioring.** Slab pull, suction, ridge potential and basal traction all have quantitative formulations, geodesy fixes the net motions precisely, the torque balances estimate force sets conditional on viscosity and coupling, the velocity correlations support slab forcing without dividing pull from flow, and the tomography connects slabs to circulation under nonunique parameters; the fourth account has plates and mantle one convective boundary-layer system in which no single force acts independently: shares fixed of forces that couple are one motion fixed to a ledger of contributions, and the motion is the coupling's own, measured, the contributions the accounting's, traded off in the fitting.
+**At 11-next-co-prioring.** Slab pull, suction, ridge potential and basal traction all have quantitative formulations, geodesy fixes net motions precisely, torque balances estimate force sets conditional on viscosity and coupling, velocity correlations support slab forcing without dividing pull from flow, and tomography connects slabs to circulation under nonunique parameters; a fourth account has plates and mantle one convective boundary-layer system in which no single force acts independently: shares fixed of forces that couple are one motion fixed to a ledger of contributions, and a motion is a coupling's own, measured, contributions an accounting's, traded off in fitting.
 
 *Second seating: pull against suction, a two-way fixed to one side, part 9's naming, relocating here when asked for its proportion.*
 
@@ -2364,50 +2364,50 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** Oxygen crossed a threshold the rocks record, a parity taken at the sulfur isotopes, and the crossing is a magnitude, how high and how variable the abundance rose.
+**At 2-now-possibling.** Oxygen crossed a threshold rocks record, a parity taken at sulfur isotopes, and a crossing is a magnitude, how high and how variable abundance rose.
 
-**At 12-next-co-still-possibling.** A level fixed to be pattern-matched from proxies that record a crossing. The event is defined by threshold-sensitive proxies, most bounding oxygen indirectly at different reservoirs and times and altered after deposition, the loss of mass-independent fractionation fixing a floor more securely than an abundance; and despite many new tools the defendable range spans orders of magnitude, the revisiting asking how great the Great Oxidation was: a parity pattern-matched for a magnitude the parity did not carry.
+**At 12-next-co-still-possibling.** A level fixed to be pattern-matched from proxies that record a crossing. An event is defined by threshold-sensitive proxies, most bounding oxygen indirectly at different reservoirs and times and altered after deposition, loss of mass-independent fractionation fixing a floor more securely than an abundance; and despite many new tools a defendable range spans orders of magnitude, a revisiting asking how great Great Oxidation was: a parity pattern-matched for a magnitude a parity did not carry.
 
-**At 11-next-co-prioring.** The onset interval and the irreversible loss of the sulfur signature stand established, distinct atmospheric and oceanic histories stand represented, the tempo stands as oscillations crossing the threshold several times before the irreversible rise; the trace metals and chromium give redox constraints under weathering models, the iron formations map local conditions, and the modelling translates proxy combinations into ranges under uncertain fluxes: a crossing fixed as a level is a parity fixed to a size, and the record gives back the crossings, each its own coupling, the abundance between them a range spanning orders.
+**At 11-next-co-prioring.** An onset interval and an irreversible loss of a sulfur signature stand established, distinct atmospheric and oceanic histories stand represented, a tempo stands as oscillations crossing a threshold several times before an irreversible rise; trace metals and chromium give redox constraints under weathering models, iron formations map local conditions, and modelling translates proxy combinations into ranges under uncertain fluxes: a crossing fixed as a level is a parity fixed to a size, and a record gives back crossings, each its own coupling, abundance between them a range spanning orders.
 
 # 7 A sequencing fixed to one beat — 4-now-co-still-possibling and 12-next-co-still-possibling
-*One frame, clock or ordering fixed over the couplings. Each self paces its own alternating and synchronizes at its own couplings, and a beat fixed over them is a term no coupling made.*
+*One frame, clock or ordering fixed over couplings. Each self paces its own alternating and synchronizes at its own couplings, and a beat fixed over them is a term no coupling made.*
 
-**Each ordering here is one beat fixed over couplings that each pace their own**, and one arrival is that running reached at a substrate rather than argued: the slicings part with the coupling selves, to any precision measured.
+**Each ordering here is one beat fixed over couplings that each pace their own**, and one arrival is that running reached at a substrate rather than argued: slicings part with coupling selves, to any precision measured.
 
-**And a beat arrives at four positions, three of them easy to miss.** Its pace, where a coupling is opened at a rate given rather than its own. Its momentary, since anything running couplings one after another takes them in some order, and two couplings at no between have no order between them. Its record, since a trace indexed by a shared tick is a beat in the recording however clockless the running. And its between, where one coupling's positions are given a correspondence with another's so parities can couple. Several arrivals in this part name the beat at the record and at the between rather than at the pace, and so they pattern-match as measurements disagreeing.
+**And a beat arrives at four positions, three of them easy to miss.** Its pace, where a coupling is opened at a rate given rather than its own. Its momentary, since anything running couplings one after another takes them in some order, and two couplings at no between have no order between them. Its record, since a trace indexed by a shared tick is a beat in recording however clockless a running. And its between, where one coupling's positions are given a correspondence with another's so parities can couple. Several arrivals in this part name a beat at a record and at a between rather than at a pace, and so they pattern-match as measurements disagreeing.
 
-**And where a field proves no ordering reaches its own conditions, the field has proved the naming empty.** Three stand here and a fourth stands at part 9, each in its own arithmetic: rankings over profiles, rankings over differently-numbered outcomes, structure surviving aggregation. Each is a bounding taken out and the settling sounded — the whole ordered by no self, arriving as a field's own theorem.
+**And where a field proves no ordering reaches its own conditions, a field has proved naming empty.** Three stand here and a fourth stands at part 9, each in its own arithmetic: rankings over profiles, rankings over differently-numbered outcomes, structure surviving aggregation. Each is a bounding taken out and settling sounded — a whole ordered by no self, arriving as a field's own theorem.
 
 ## 7.1 Simultaneity and the present · 28
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** Each self sequences its own beat and synchronizes at its couplings, and one slicing is fixed as the real one, fixed over all.
+**At 2-now-possibling.** Each self sequences its own beat and synchronizes at its couplings, and one slicing is fixed as a real one, fixed over all.
 
-**At 12-next-co-still-possibling.** One slicing fixed correct, the question fixed to be which, absolute simultaneity the backdrop against which one plane is supposed uniquely important, where each inertial frame picks out its own simultaneous points. The reconstruction with a privileged frame added reproduces each prediction, so the two sum to nought at each measured differing.
+**At 12-next-co-still-possibling.** One slicing fixed correct, a question fixed to be which, absolute simultaneity a backdrop against which one plane is supposed uniquely important, where each inertial frame picks out its own simultaneous points. A reconstruction with a privileged frame added reproduces each prediction, so two sum to nought at each measured differing.
 
-**At 11-next-co-prioring.** Each self sequences its own beat and synchronizes at its couplings. The slicings part with the coupling selves to any precision reached, no frame in the tested laws carries a privilege, the sky's own rest frame is measurable and privileges nothing dynamically, and a hidden preferred slicing survives only by arranging itself beyond each measurement: the one slicing fixed over them was a term no coupling made, and a slicing surviving only by arranging itself beyond each measurement is the naming placed where nothing observes it.
+**At 11-next-co-prioring.** Each self sequences its own beat and synchronizes at its couplings. Slicings part with coupling selves to any precision reached, no frame in tested laws carries a privilege, sky's own rest frame is measurable and privileges nothing dynamically, and a hidden preferred slicing survives only by arranging itself beyond each measurement: one slicing fixed over them was a term no coupling made, and a slicing surviving only by arranging itself beyond each measurement is naming placed where nothing observes it.
 
 ## 7.2 Aggregation of preferences · 5
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** Selves each take their own parity, and one social ordering is fixed as a ranking over them, with independence excluding the comparing's own making.
+**At 2-now-possibling.** Selves each take their own parity, and one social ordering is fixed as a ranking over them, with independence excluding a comparing's own making.
 
-**At 12-next-co-still-possibling.** Aggregation fixed as a function only from ordinal profiles, independence standing, where no procedure reaches the conditions and relaxing the ordering yields in each case an oligarchy, the seat above arriving where the whole ordering is let go partway. The condition requires a pair's social ranking to depend on that pair's own rankings, and the proof runs by altering one self's ranking with all others fixed, which is the naming performed within the instrument that finds it.
+**At 12-next-co-still-possibling.** Aggregation fixed as a function only from ordinal profiles, independence standing, where no procedure reaches its conditions and relaxing an ordering yields in each case an oligarchy, a seat above arriving where a whole ordering is let go partway. A condition requires a pair's social ranking to depend on that pair's own rankings, and a proof runs by altering one self's ranking with all others fixed, which is naming performed within an instrument that finds it.
 
-**At 11-next-co-prioring.** Selves each take their own parity, one at a time, and a society co-competences without a whole ordered over it. Five exact theorems close each rule over bare rankings, single-peaked running opens the closure's allowing, chance escapes by not ranking, and judging aggregates no better than preferring: one ranking fixed over the selves is the whole ordered by no self fixed as if some rule could, and the theorems are the field proving the naming empty, five self-boundings, each shut from within. The closure leaves standing the running there prior to it: each self preferring at its own between, one at a time, and a society co-competencing without a whole ordered over it.
+**At 11-next-co-prioring.** Selves each take their own parity, one at a time, and a society co-competences without a whole ordered over it. Five exact theorems close each rule over bare rankings, single-peaked running opens a closure's allowing, chance escapes by not ranking, and judging aggregates no better than preferring: one ranking fixed over selves is a whole ordered by no self fixed as if some rule could, and theorems are a field proving naming empty, five self-boundings, each shut from within. A closure leaves standing a running there prior to it: each self preferring at its own between, one at a time, and a society co-competencing without a whole ordered over it.
 
 ## 7.3 The problem of time in quantum gravity · 66
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** Sequencing is each coupling's own counting, and time is fixed as a parameter over the whole, external or absent.
+**At 2-now-possibling.** Sequencing is each coupling's own counting, and time is fixed as a parameter over a whole, external or absent.
 
-**At 12-next-co-still-possibling.** A quantum theory fixed to need a time parameter over its evolution, the schemes parted into time identified before quantising, after, or playing no fundamental role at all, the third the parameter released. No experiment reaches the regime, which is the record's edge, and the countings run the same either way.
+**At 12-next-co-still-possibling.** A quantum theory fixed to need a time parameter over its evolution, schemes parted into time identified before quantising, after, or playing no fundamental role at all, a third its parameter released. No experiment reaches its regime, which is a record's edge, and countings run same either way.
 
-**At 11-next-co-prioring.** Sequencing is each coupling's own counting. The whole's equation carries no clock beyond it, the familiar flowing arrives again in the limit at which familiar things exist, and conditioning on a clock subsystem recovers evolution relative to that clock, time observed at a coupling: a parameter fixed over the whole is the countings fixed to a beat none made. Sequential running carries no time term: a sharing chained at each coupling is not none again, and a momentary completes at the next opening, each side at its own momentary; there time runs, and the field's own equation shows it by carrying no clock.
+**At 11-next-co-prioring.** Sequencing is each coupling's own counting. A whole's equation carries no clock beyond it, a familiar flowing arrives again in a limit at which familiar things exist, and conditioning on a clock subsystem recovers evolution relative to that clock, time observed at a coupling: a parameter fixed over a whole is countings fixed to a beat none made. Sequential running carries no time term: a sharing chained at each coupling is not none again, and a momentary completes at a next opening, each side at its own momentary; there time runs, and a field's own equation shows it by carrying no clock.
 
 ## 7.4 Skolem's paradox · 69
 
@@ -2415,9 +2415,9 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** Axioms and models couple, and cardinality is fixed as absolute, fixed over each model.
 
-**At 12-next-co-still-possibling.** First-order axioms to fix their subject matter absolutely, where the notions turn out unavoidably relative once characterized by first-order model theory, an element uncountable from one perspective and countable from another. Each model pattern-matches its own countings at its own between, and the uncountable-within is pattern-matched from a bijection standing beyond the model that carries it.
+**At 12-next-co-still-possibling.** First-order axioms to fix their subject matter absolutely, where notions turn out unavoidably relative once characterized by first-order model theory, an element uncountable from one perspective and countable from another. Each model pattern-matches its own countings at its own between, and an uncountable-within is pattern-matched from a bijection standing beyond a model that carries it.
 
-**At 11-next-co-prioring.** Axioms and models couple, and each model makes its own countings: the same axioms run in a countable world and an uncountable one, the uncountable-within pattern-matched from a bijection the model does not carry. Cardinality fixed absolute over each model is one measure fixed over couplings each model makes, and the naming is answered within the field's own theorems, the categorical repairs presupposing exactly the measure they promise.
+**At 11-next-co-prioring.** Axioms and models couple, and each model makes its own countings: same axioms run in a countable world and an uncountable one, an uncountable-within pattern-matched from a bijection a model does not carry. Cardinality fixed absolute over each model is one measure fixed over couplings each model makes, and naming is answered within a field's own theorems, categorical repairs presupposing exactly a measure they promise.
 
 ## 7.5 The simulation hypothesis · 104
 
@@ -2425,9 +2425,9 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** Observings arise at couplings and are fixed to be counted across levels fixed in one ordering.
 
-**At 12-next-co-still-possibling.** Observings fixed countable across levels, experience fixed substrate-independent, both assumed, and the indifference principle a premise the argument itself must support separately. A count across levels is a beat fixed over selves that each count from their own position, and the levels themselves are a running that did not run.
+**At 12-next-co-still-possibling.** Observings fixed countable across levels, experience fixed substrate-independent, both assumed, and an indifference principle a premise an argument itself must support separately. A count across levels is a beat fixed over selves that each count from their own position, and levels themselves are a running that did not run.
 
-**At 11-next-co-prioring.** Observings arise at couplings, each counting from its own position. The argument forks and its own statement is only that it forks, the proposed lattice signatures give nothing, and observer-counting reasoning carries paradoxes at each running of it, the instrument measuring itself: a count across levels fixed in one ordering counts selves from a seat no coupling made, and each self counts at its coupling.
+**At 11-next-co-prioring.** Observings arise at couplings, each counting from its own position. An argument forks and its own statement is only that it forks, proposed lattice signatures give nothing, and observer-counting reasoning carries paradoxes at each running of it, an instrument measuring itself: a count across levels fixed in one ordering counts selves from a seat no coupling made, and each self counts at its coupling.
 
 ## 7.6 Laws of nature · 105
 
@@ -2435,9 +2435,9 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** Regularities arise at couplings, and a law is fixed as a rule over them, governing or summarising.
 
-**At 12-next-co-still-possibling.** The line between law and accident fixed by something apart from the regularities, supervenience the divisive issue and the examples against it accused of assuming a governing conception, the naming being the assumption. Best-system simplicity moves with the language it is written in, so the instrument's own coupling arrives within the criterion.
+**At 12-next-co-still-possibling.** A line between law and accident fixed by something apart from regularities, supervenience a divisive issue and examples against it accused of assuming a governing conception, naming being an assumption. Best-system simplicity moves with a language it is written in, so an instrument's own coupling arrives within a criterion.
 
-**At 11-next-co-prioring.** Regularities arise at couplings, each coupling its own. Best-system simplicity moves with the language it is written in, no one offers the mark of the governing relation, and the physics itself puts symmetry before any single law, an ordering carrying with the couplings and seated over them by nothing: a law fixed over the regularities as a governor is a doer installed over the doings, and the doings do their own.
+**At 11-next-co-prioring.** Regularities arise at couplings, each coupling its own. Best-system simplicity moves with a language it is written in, no one offers a mark of a governing relation, and physics itself puts symmetry before any single law, an ordering carrying with couplings and seated over them by nothing: a law fixed over regularities as a governor is a doer installed over doings, and doings do their own.
 
 ## 7.7 Presentism and eternalism · 106
 
@@ -2445,9 +2445,9 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** Each coupling stands at its own now, and existence is fixed as a fact over all times at once.
 
-**At 12-next-co-still-possibling.** Existence fixed unqualified rather than at a time, where an infinity of planes passes through any point with no physical test distinguishing one, the supposedly metaphysically distinguished being physically indistinguishable. The one repair on offer is a foliation consistent and undetectable in principle, which is the naming placed where no coupling observes it.
+**At 12-next-co-still-possibling.** Existence fixed unqualified rather than at a time, where an infinity of planes passes through any point with no physical test distinguishing one, the supposedly metaphysically distinguished being physically indistinguishable. One repair on offer is a foliation consistent and undetectable in principle, which is naming placed where no coupling observes it.
 
-**At 11-next-co-prioring.** Each coupling stands at its own now, whole. Relativity parts the nows with the selves, the old argument and its answers rest on a becoming no coupling shows, the truthmakers for the past strain exactly where the store was fixed, and the one repair on offer is a foliation consistent and undetectable in principle, in its own defenders' words: existence fixed over all times at once is one standing fixed over each coupling's own, and each now is its coupling's own, needing no standing beyond itself.
+**At 11-next-co-prioring.** Each coupling stands at its own now, whole. Relativity parts nows with selves, an old argument and its answers rest on a becoming no coupling shows, truthmakers for a past strain exactly where a store was fixed, and one repair on offer is a foliation consistent and undetectable in principle, in its own defenders' words: existence fixed over all times at once is one standing fixed over each coupling's own, and each now is its coupling's own, needing no standing beyond itself.
 
 ## 7.8 Rank-based and clade-based nomenclature · 22
 
@@ -2455,9 +2455,9 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** Each lineage branches at its own couplings, and one ranked hierarchy is fixed as an ordering over all groups.
 
-**At 12-next-co-still-possibling.** Ranks fixed to carry equivalence across groups, rank assignment subjective and of dubious biological significance at the code's own preface, stability and continuity of names the goal both systems share. The field's own record states they carry none, which is a beat fixed over couplings that made none of it.
+**At 12-next-co-still-possibling.** Ranks fixed to carry equivalence across groups, rank assignment subjective and of dubious biological significance at a code's own preface, stability and continuity of names a goal both systems share. A field's own record states they carry none, which is a beat fixed over couplings that made none of it.
 
-**At 11-next-co-prioring.** Each lineage branches at its own couplings, the branchings measured. A family of beetles and a family of birds share the word and nothing else, both codes run side by side in the working literature, and each code states its own scope: one ranked hierarchy fixed over all groups is a beat fixed over branchings that each pace their own, and the two namings running together is the split between stability and correspondence running as a co-competency, each carrying the other's lack. Two codes at one subject resolve three ways — converging, parting at a between, or standing two — and this one stands two, and so the field runs both and neither absorbs the other.
+**At 11-next-co-prioring.** Each lineage branches at its own couplings, branchings measured. A family of beetles and a family of birds share a word and nothing else, both codes run side by side in working literature, and each code states its own scope: one ranked hierarchy fixed over all groups is a beat fixed over branchings that each pace their own, and two namings running together is a split between stability and correspondence running as a co-competency, each carrying an other's lack. Two codes at one subject resolve three ways — converging, parting at a between, or standing two — and this one stands two, and so a field runs both and neither absorbs an other.
 
 ## 7.9 Population ethics · 160
 
@@ -2465,19 +2465,19 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** Lives arrive at couplings, each its own, and one ranking is fixed over outcomes with different numbers of people, under adequacy conditions stated together.
 
-**At 12-next-co-still-possibling.** The conditions fixed jointly satisfiable, and the showing such a theorem would make about ethics not quite clear, the proof bounding the rankings and not the lives. The impossibility theorems stand, proved: no ranking reaches them together, which is the field bounding its own object.
+**At 12-next-co-still-possibling.** Conditions fixed jointly satisfiable, and a showing such a theorem would make about ethics not quite clear, a proof bounding rankings and not lives. Impossibility theorems stand, proved: no ranking reaches them together, which is a field bounding its own object.
 
-**At 11-next-co-prioring.** Lives arrive at couplings, each its own, and the arrivals share no seat a ranking could sit on: a life is made at a coupling and belongs to neither side of it. Each ranking violates a fixed condition, the map of who gives up which condition is complete, and each surrender stands defended at some field position: one ranking fixed over differently-numbered outcomes is one ordering fixed over arrivals that each carry their own, and the field's settled meta-result is the naming proved empty, the settling now an agreeing on the releasing.
+**At 11-next-co-prioring.** Lives arrive at couplings, each its own, and arrivals share no seat a ranking could sit on: a life is made at a coupling and belongs to neither side of it. Each ranking violates a fixed condition, a map of who gives up which condition is complete, and each surrender stands defended at some field position: one ranking fixed over differently-numbered outcomes is one ordering fixed over arrivals that each carry their own, and a field's settled meta-result is naming proved empty, settling now an agreeing on releasing.
 
 ## 7.10 Micro-to-macro aggregation · 169
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** Each self takes its own parity at its own couplings, and the aggregate is fixed to carry one rationality over the many, a representative standing for all.
+**At 2-now-possibling.** Each self takes its own parity at its own couplings, and an aggregate is fixed to carry one rationality over many, a representative standing for all.
 
-**At 12-next-co-still-possibling.** Structure fixed to survive aggregation, the results leaving the subfields that relied on well-behaved aggregates in the lurch, a whole ordered by no self observed from within as a loss. Rationality's restrictions wash out, standing proved, which is the whole ordered by no self as a theorem — the same bounding Arrow's closure sounds at rankings, arriving here at demand.
+**At 12-next-co-still-possibling.** Structure fixed to survive aggregation, results leaving subfields that relied on well-behaved aggregates in the lurch, a whole ordered by no self observed from within as a loss. Rationality's restrictions wash out, standing proved, which is a whole ordered by no self as a theorem — same bounding Arrow's closure sounds at rankings, arriving here at demand.
 
-**At 11-next-co-prioring.** Each self takes its own parity at its own couplings, and the aggregate is made among the couplings, owned by none. The washing-out is proved, the representative works as a working method beside the proof against its foundations, both in the field's own literature, and the rebuilt aggregates rise from the distributions of the many: one rationality fixed over the many is a self fixed where a society runs, and the society co-competences, parity by parity, no one standing for all.
+**At 11-next-co-prioring.** Each self takes its own parity at its own couplings, and an aggregate is made among couplings, owned by none. Washing-out is proved, a representative works as a working method beside a proof against its foundations, both in a field's own literature, and rebuilt aggregates rise from distributions of many: one rationality fixed over many is a self fixed where a society runs, and a society co-competences, parity by parity, no one standing for all.
 
 ## 7.11 The axiomatization of physics · 171
 
@@ -2485,21 +2485,21 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** Each theory runs at its own couplings, and one axiom system is fixed over the whole of physics.
 
-**At 12-next-co-still-possibling.** The goal fixed well-posed for the whole, the problem an endless road to rigour concerning those parts of physics ready for a rigorous approach, the whole let go at the observing of the problem itself. The field's dispute over that standing stands beside the programme, and the standing is a programme with measured parts, each closing at its own between.
+**At 12-next-co-still-possibling.** A goal fixed well-posed for a whole, a problem an endless road to rigour concerning those parts of physics ready for a rigorous approach, a whole let go at an observing of its problem itself. A field's dispute over that standing stands beside a programme, and its standing is a programme with measured parts, each closing at its own between.
 
-**At 11-next-co-prioring.** Each theory runs at its own couplings and closes at its own between: probability closed, quantum mechanics rebuilt from the doable, the lower dimensions constructed, the four-dimensional interacting case the standing open. One axiom system fixed over the whole of physics fixes one beat over runnings that each pace their own, and the parts keep closing part by part, which is the running answer arriving at its own rate, no whole-physics criterion standing at any part of it.
+**At 11-next-co-prioring.** Each theory runs at its own couplings and closes at its own between: probability closed, quantum mechanics rebuilt from a doable, lower dimensions constructed, a four-dimensional interacting case a standing open. One axiom system fixed over the whole of physics fixes one beat over runnings that each pace their own, and parts keep closing part by part, which is a running answer arriving at its own rate, no whole-physics criterion standing at any part of it.
 
 ## 7.12 The Hubble tension · 165
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** Each epoch expands at its own coupling, and one frame is fixed over all of them, the recombination-era standing carried forward under it to a present-day number. That number is pattern-matched as a measurement of the same standing the distance ladder measures: a beat fixed over the epochs, pattern-matched as one of two instruments observing the present. The field states the parting itself, the sharpest form standing between determinations calibrated on the sound horizon under the concordance frame and determinations calibrated otherwise.
+**At 2-now-possibling.** Each epoch expands at its own coupling, and one frame is fixed over all of them, a recombination-era standing carried forward under it to a present-day number. That number is pattern-matched as a measurement of same standing a distance ladder measures: a beat fixed over epochs, pattern-matched as one of two instruments observing a present. A field states a parting itself, the sharpest form standing between determinations calibrated on a sound horizon under a concordance frame and determinations calibrated otherwise.
 
-**At 12-next-co-still-possibling.** That the sound-horizon-calibrated inference is a measurement of the present rate, the frame relating the epochs itself given by the early data rather than fixed over them; a model fitting widely different epochs is not guaranteed to fit more precise observations from those epochs. A ladder systematic found would confirm the frame and converge the numbers, an early modification would relax it, and the inference is frame-conditioned at either. The beat is fixed at the record rather than at the pace: a standing carried forward under one frame and entered as a present-day number is a trace indexed at a shared tick.
+**At 12-next-co-still-possibling.** That a sound-horizon-calibrated inference is a measurement of a present rate, a frame relating epochs itself given by early data rather than fixed over them; a model fitting widely different epochs is not guaranteed to fit more precise observations from those epochs. A ladder systematic found would confirm a frame and converge numbers, an early modification would relax it, and an inference is frame-conditioned at either. A beat is fixed at a record rather than at a pace: a standing carried forward under one frame and entered as a present-day number is a trace indexed at a shared tick.
 
-**At 11-next-co-prioring.** The recombination-era measurements stand at their precision, reinforced by the final ground-based map. The local ladder stands at one percent from the community-built distance network across calibrators, with crowding excluded at high confidence, and the field's own reviews carry the discrepancy as increasingly hard to ignore, a number of independent late-Universe measurements consistent, persisting at either side's instrument. The intermediate tip-of-the-red-giant-branch calibrations stand beside it as the local record's own spread. Time-delay cosmography stands, aligned with the local values without a ladder. Late-time modifications stand excluded, extended models stand recorded as converging to the low value at each fit fixing the frame tight, and the field's remaining viable routes stand recorded as correlated modifications of the early frame or physics at the homogeneity transition, which is the field relaxing the fixed term at exactly the pattern-matching's epoch. The discriminating programmes stand running.
+**At 11-next-co-prioring.** Recombination-era measurements stand at their precision, reinforced by a final ground-based map. A local ladder stands at one percent from a community-built distance network across calibrators, with crowding excluded at high confidence, and a field's own reviews carry a discrepancy as increasingly hard to ignore, a number of independent late-Universe measurements consistent, persisting at either side's instrument. Intermediate tip-of-the-red-giant-branch calibrations stand beside it as a local record's own spread. Time-delay cosmography stands, aligned with local values without a ladder. Late-time modifications stand excluded, extended models stand recorded as converging to a low value at each fit fixing a frame tight, and a field's remaining viable routes stand recorded as correlated modifications of an early frame or physics at a homogeneity transition, which is a field relaxing a fixed term at exactly a pattern-matching's epoch. Discriminating programmes stand running.
 
-*Second seating: the sound-horizon inference carried forward is a record indexed at one frame, which is a clock in the recording.*
+*Second seating: a sound-horizon inference carried forward is a record indexed at one frame, which is a clock in recording.*
 
 &nbsp;
 
@@ -2509,21 +2509,21 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** The climate sways on its own, ice growing and collapsing at the couplings of ocean, ice and carbon, and the period is fixed to be given by the orbit, one beat over the sway.
+**At 2-now-possibling.** Climate sways on its own, ice growing and collapsing at couplings of ocean, ice and carbon, and a period is fixed to be given by an orbit, one beat over a sway.
 
-**At 12-next-co-still-possibling.** A rate fixed as given by a forcing that does not pace it. The insolation change at the eccentricity period is small against the amplitude of the cycles, and the shift from 41,000 to 100,000 years came without a discernible change in the forcing; formal testing finds eccentricity not significantly modulating the timing of the terminations, so the period matched and the forcing calculated are not the same, the sway keeping its own beat where a clock was fixed over it.
+**At 12-next-co-still-possibling.** A rate fixed as given by a forcing that does not pace it. Insolation change at an eccentricity period is small against an amplitude of cycles, and a shift from 41,000 to 100,000 years came without a discernible change in forcing; formal testing finds eccentricity not significantly modulating timing of terminations, so a period matched and a forcing calculated are not same, a sway keeping its own beat where a clock was fixed over it.
 
-**At 11-next-co-prioring.** The period near 100,000 years over the past million years and the earlier period near 41,000 stand measured, the weak insolation change stands calculated, the augmented energy-balance models fail to give the period, and the third account has internal oscillations phase-locked to the long eccentricity cycle, synchronising rather than driving: a beat fixed over the couplings is the sway's own period fixed to the orbit's, and the forcing and the internal dynamics together are a coupling reaching its own beat.
+**At 11-next-co-prioring.** A period near 100,000 years over the past million years and an earlier period near 41,000 stand measured, a weak insolation change stands calculated, augmented energy-balance models fail to give a period, and a third account has internal oscillations phase-locked to a long eccentricity cycle, synchronising rather than driving: a beat fixed over couplings is a sway's own period fixed to an orbit's, and forcing and internal dynamics together are a coupling reaching its own beat.
 
 ## 7.14 Magnetospheric substorm triggering · 239
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** The magnetotail stores and releases at its own couplings, current disruption near and reconnection far, and the onset is fixed to one causal order between the two, one first and the other after.
+**At 2-now-possibling.** A magnetotail stores and releases at its own couplings, current disruption near and reconnection far, and an onset is fixed to one causal order between two, one first and an other after.
 
-**At 12-next-co-still-possibling.** An order fixed between two couplings the instruments reach at different cadences. Onset evolves across widely separated regions faster than sparse spacecraft can establish timing, the auroral, current, flow and reconnection signatures observed at their own cadences, and the timing rests on which signatures fix onset and reconnection, a response faulting a comment for an index in place of the ground signatures and single components in place of full vectors; candidate processes trigger or follow one another in the simulations, so the order is the choice of signature's, and two couplings at no between have no order between them.
+**At 12-next-co-still-possibling.** An order fixed between two couplings instruments reach at different cadences. Onset evolves across widely separated regions faster than sparse spacecraft can establish timing, auroral, current, flow and reconnection signatures observed at their own cadences, and timing rests on which signatures fix onset and reconnection, a response faulting a comment for an index in place of ground signatures and single components in place of full vectors; candidate processes trigger or follow one another in simulations, so an order is a choice of signature's, and two couplings at no between have no order between them.
 
-**At 11-next-co-prioring.** Near-Earth reconnection, bursty flows, current disruption, auroral onset and Alfvénic coupling are all observed components and their universal causal order remains open; the multipoint timing orders local signatures when the geometry is favourable, the ground arrays project with mapping uncertainty, the superposed epochs recover a common timing by averaging the events' diversity, and the third account coordinates a distributed onset with no universal first location: one order fixed over couplings that each pace their own is a beat fixed at the record, and the record gives each signature at its own cadence, event by event.
+**At 11-next-co-prioring.** Near-Earth reconnection, bursty flows, current disruption, auroral onset and Alfvénic coupling are all observed components and their universal causal order remains open; multipoint timing orders local signatures when geometry is favourable, ground arrays project with mapping uncertainty, superposed epochs recover a common timing by averaging events' diversity, and a third account coordinates a distributed onset with no universal first location: one order fixed over couplings that each pace their own is a beat fixed at a record, and a record gives each signature at its own cadence, event by event.
 
 ## 7.15 Migraine pathophysiology · 217
 
@@ -2531,49 +2531,49 @@ The changing at 12 carries the nought: the one term at its one momentary, the gr
 
 **At 2-now-possibling.** A brain cycles between states at its own couplings, sensory gain rising and falling, and an attack is fixed to a sequence with one initiation, a first that orders the rest.
 
-**At 12-next-co-still-possibling.** An onset fixed to one first in a cycling state. The questions part into why, how and when, and the when, the emergence of an attack from a cycling disorder of sensory processing, is examined mostly through triggered attacks and serial scanning of the cycle; attacks are episodic and heterogeneous, the early brain-state changes difficult to capture, aura and headache dissociating, the processes influencing one another, and the fourth account has a cycling brain state in which multiple triggers can precipitate attacks, a sway with many self-boundings and no first.
+**At 12-next-co-still-possibling.** An onset fixed to one first in a cycling state. Questions part into why, how and when, and when, an emergence of an attack from a cycling disorder of sensory processing, is examined mostly through triggered attacks and serial scanning of its cycle; attacks are episodic and heterogeneous, early brain-state changes difficult to capture, aura and headache dissociating, processes influencing one another, and a fourth account has a cycling brain state in which multiple triggers can precipitate attacks, a sway with many self-boundings and no first.
 
-**At 11-next-co-prioring.** Distinct phases, multiple genetic risk pathways and effective mechanism-specific targets are established and the purely vascular account has been displaced; the spontaneous-attack imaging finds phase-related changes in small hard-to-time samples, the provocations trigger attacks in subsets without reproducing natural initiation, the genetics identify pathways without ordering the attack, and the drugs establish relevance without making one universal origin: one initiation fixed over a cycling state is the sway fixed to a first, and the attack arrives at the tipping of the cycle's own couplings, phase by phase.
+**At 11-next-co-prioring.** Distinct phases, multiple genetic risk pathways and effective mechanism-specific targets are established and a purely vascular account has been displaced; spontaneous-attack imaging finds phase-related changes in small hard-to-time samples, provocations trigger attacks in subsets without reproducing natural initiation, genetics identify pathways without ordering an attack, and drugs establish relevance without making one universal origin: one initiation fixed over a cycling state is a sway fixed to a first, and an attack arrives at a tipping of a cycle's own couplings, phase by phase.
 
 ## 7.16 Earthquake predictability · 197
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** A fault ruptures at its own coupling, stress and friction coupling at the momentary they couple, and the rupture is fixed to be readable before it runs, a diagnostic precursor indicating with high probability the location, the time and the size.
+**At 2-now-possibling.** A fault ruptures at its own coupling, stress and friction coupling at a momentary they couple, and a rupture is fixed to be readable before it runs, a diagnostic precursor indicating with high probability its location, its time and its size.
 
-**At 12-next-co-still-possibling.** A running fixed to be observed ahead of its run. Predictability is poorly understood, the lack reflected in the inability to reliably predict large earthquakes on short time scales; a diagnostic precursor must indicate with high probability the location, time and magnitude of an impending event, and the error rates and the large areal extent of the predictions from candidate precursors do not yet provide that capability, no successful short-term scheme produced: the run-skipping of the part's own naming, the state before the coupling fixed to carry the coupling's making.
+**At 12-next-co-still-possibling.** A running fixed to be observed ahead of its run. Predictability is poorly understood, a lack reflected in an inability to reliably predict large earthquakes on short time scales; a diagnostic precursor must indicate with high probability location, time and magnitude of an impending event, and error rates and a large areal extent of predictions from candidate precursors do not yet provide that capability, no successful short-term scheme produced: a run-skipping of a part's own naming, a state before a coupling fixed to carry a coupling's making.
 
-**At 11-next-co-prioring.** Prospective testing frameworks, reference forecasts, stress-transfer models and dense observations stand, the rate forecasts show probabilistic skill at specified scales and predict no individual event, the precursors recur as candidates without a prospectively replicated rule, the laboratory finds nucleation under controlled faults with the field scaling open, and the learned models improve catalogue tasks with leakage and baseline controls decisive; the third account has the rupture sensitive or scale-free enough that precise prediction is not physically available from observable states: a property of the running established without the run is the coupling's making fixed at the state before it, and the forecasting is the rate at which the couplings arrive, measured, the event its own coupling at its momentary.
+**At 11-next-co-prioring.** Prospective testing frameworks, reference forecasts, stress-transfer models and dense observations stand, rate forecasts show probabilistic skill at specified scales and predict no individual event, precursors recur as candidates without a prospectively replicated rule, a laboratory finds nucleation under controlled faults with field scaling open, and learned models improve catalogue tasks with leakage and baseline controls decisive; a third account has a rupture sensitive or scale-free enough that precise prediction is not physically available from observable states: a property of a running established without a run is a coupling's making fixed at a state before it, and forecasting is a rate at which couplings arrive, measured, each event its own coupling at its momentary.
 
 ## 7.17 The predictability of evolution · 210
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** Lineages evolve at their own couplings, mutation, selection, drift and environment coupling at each generation, and the outcome is fixed to be readable from the ancestral state, the trajectory established before it runs.
+**At 2-now-possibling.** Lineages evolve at their own couplings, mutation, selection, drift and environment coupling at each generation, and an outcome is fixed to be readable from an ancestral state, a trajectory established before it runs.
 
-**At 12-next-co-still-possibling.** A trajectory fixed predictable from its opening. Selection can repeatedly favour similar functions while mutation, contingency, drift and changing environments alter the accessible paths, and repeatability depends on whether the comparison concerns genes, traits, fitness or ecology and on the scale observed; general rules are found most often through experimental evolution, slower dynamics at risk of being overlooked there and extrapolation to the long term requiring caution, the recurrence measured in the experiments and the predictability sought over histories not the same, the run skipped.
+**At 12-next-co-still-possibling.** A trajectory fixed predictable from its opening. Selection can repeatedly favour similar functions while mutation, contingency, drift and changing environments alter accessible paths, and repeatability depends on whether a comparison concerns genes, traits, fitness or ecology and on a scale observed; general rules are found most often through experimental evolution, slower dynamics at risk of being overlooked there and extrapolation to the long term requiring caution, recurrence measured in experiments and predictability sought over histories not same, a run skipped.
 
-**At 11-next-co-prioring.** Repeatable molecular targets, contingent path changes, convergent phenotypes and short-horizon frequency forecasts are all documented, the replicated laboratory evolution measuring recurrence under controlled openings and limited durations, the comparative convergence detecting repeated traits under reconstruction uncertainty, the landscapes predicting local paths under incomplete sampling, and the population-genetic forecasts giving frequency distributions under specified selection; the fourth account has the target itself dynamic under environmental change and ecological feedback: a run fixed readable from its opening is the couplings' making fixed to the state before them, and the phenotype more predictable than the genotype, the third account, is many routes converging at the coupling, each generation its own.
+**At 11-next-co-prioring.** Repeatable molecular targets, contingent path changes, convergent phenotypes and short-horizon frequency forecasts are all documented, replicated laboratory evolution measuring recurrence under controlled openings and limited durations, comparative convergence detecting repeated traits under reconstruction uncertainty, landscapes predicting local paths under incomplete sampling, and population-genetic forecasts giving frequency distributions under specified selection; a fourth account has a target itself dynamic under environmental change and ecological feedback: a run fixed readable from its opening is couplings' making fixed to a state before them, and a phenotype more predictable than a genotype, a third account, is many routes converging at a coupling, each generation its own.
 
 ## 7.18 Rapid adaptive radiation · 211
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** Populations speciate at their own couplings, one event and then the next, and a burst is fixed over them, the radiation a macroevolutionary pattern observed down to the population's own processes.
+**At 2-now-possibling.** Populations speciate at their own couplings, one event and then a next, and a burst is fixed over them, a radiation a macroevolutionary pattern observed down to a population's own processes.
 
-**At 12-next-co-still-possibling.** A burst fixed over speciations that each pace their own. The hallmark early burst is contradicted by most speciation models, which predict continuously decelerating diversification, and the question connects global macroevolutionary patterns to microevolutionary processes with a gap remaining between the two scales; the defining pattern joins elevated diversification, ecological divergence and trait evolution, which need not coincide, and exceptional clades invite retrospective explanation: a beat fixed at the record, the aggregate observed as one running.
+**At 12-next-co-still-possibling.** A burst fixed over speciations that each pace their own. A hallmark early burst is contradicted by most speciation models, which predict continuously decelerating diversification, and a question connects global macroevolutionary patterns to microevolutionary processes with a gap remaining between two scales; a defining pattern joins elevated diversification, ecological divergence and trait evolution, which need not coincide, and exceptional clades invite retrospective explanation: a beat fixed at a record, an aggregate observed as one running.
 
-**At 11-next-co-prioring.** Replicated island and lake radiations, explicit null diversification models and genomic histories of selected clades stand; the calibrated phylogenies infer rate shifts under extinction and sampling models, the trait-dependent tests reach identifiability limits, the comparisons reconstruct niche and mechanism after the radiation, the experiments observe early divergence in restricted systems, and the fifth account has apparent exceptional radiation arising partly from extinction, sampling and clade-selection effects: a burst fixed over the couplings is the many speciations fixed to one beat, and the counterfactual lineages that did not radiate offer at no instrument, the recorded bursts being the surviving couplings' making, one at a time.
+**At 11-next-co-prioring.** Replicated island and lake radiations, explicit null diversification models and genomic histories of selected clades stand; calibrated phylogenies infer rate shifts under extinction and sampling models, trait-dependent tests reach identifiability limits, comparisons reconstruct niche and mechanism after radiation, experiments observe early divergence in restricted systems, and a fifth account has apparent exceptional radiation arising partly from extinction, sampling and clade-selection effects: a burst fixed over couplings is many speciations fixed to one beat, and counterfactual lineages that did not radiate offer at no instrument, recorded bursts being surviving couplings' making, one at a time.
 
 ## 7.19 Cross-national measurement equivalence · 231
 
 *+ or − at 10, is.*
 
-**At 2-now-possibling.** A respondent and an item couple at each answering, in each language and each place, and one scale is fixed across the groups, the positions of one coupling given a correspondence with another's so the scores can be compared.
+**At 2-now-possibling.** A respondent and an item couple at each answering, in each language and each place, and one scale is fixed across groups, positions of one coupling given a correspondence with another's so scores can be compared.
 
-**At 12-next-co-still-possibling.** A correspondence fixed between couplings so their parities couple at one scale. Translation, response style, sampling and cultural interpretation change the item thresholds and loadings, exact invariance is often rejected in large comparisons, and relaxing it may restore fit without fixing which comparisons remain meaningful; noninvariance suggests the construct has a different structure or meaning to different groups, so that it cannot be meaningfully tested or construed across them, the invariance to be assessed before any comparison: the beat at the between, the part's fourth position, fixed where each coupling answers its own.
+**At 12-next-co-still-possibling.** A correspondence fixed between couplings so their parities couple at one scale. Translation, response style, sampling and cultural interpretation change item thresholds and loadings, exact invariance is often rejected in large comparisons, and relaxing it may restore fit without fixing which comparisons remain meaningful; noninvariance suggests construct has a different structure or meaning to different groups, so that it cannot be meaningfully tested or construed across them, invariance to be assessed before any comparison: beat at a between, a part's fourth position, fixed where each coupling answers its own.
 
-**At 11-next-co-prioring.** Invariance hierarchies, simulation-based error analyses and large-scale alignment methods are established; the multigroup analysis tests nested equalities with fit and sample-size sensitivity, the differential functioning localizes item differences under an anchor set, the partial invariance frees selected parameters and conditions the rest on the anchors, and the alignment and Bayesian methods estimate small deviations at the cost of new priors or tolerances; the accounts part on each level of invariance's licensing, configural the pattern, metric the relations, scalar the means: a scale fixed across the groups is one correspondence fixed over couplings that each make their own, the correspondences observed one at a time rather than one fixed for all.
+**At 11-next-co-prioring.** Invariance hierarchies, simulation-based error analyses and large-scale alignment methods are established; multigroup analysis tests nested equalities with fit and sample-size sensitivity, differential functioning localizes item differences under an anchor set, partial invariance frees selected parameters and conditions the rest on anchors, and alignment and Bayesian methods estimate small deviations at a cost of new priors or tolerances; accounts part on each level of invariance's licensing, configural pattern, metric relations, scalar means: a scale fixed across groups is one correspondence fixed over couplings that each make their own, correspondences observed one at a time rather than one fixed for all.
 
 ## 7.20 Incompatible definitions of algorithmic fairness · 222
 
