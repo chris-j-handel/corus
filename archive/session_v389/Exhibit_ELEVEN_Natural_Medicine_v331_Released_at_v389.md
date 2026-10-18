@@ -1574,3 +1574,9 @@ Both directions carry. A clinical substrate the form has not met opens an axis t
 **Two seams stand open, both closing from the other side.** To and from Natural Biology: transmissible cancer as capture-that-lands against coupling-that-sustains, cancer as the defector cell, the antibody-repertoire and germinal-center observing that couples to the gut collar's surface society, and the direction of deranging, the larger ingressing the smaller. And from Resolving Hard Problems, one observing not yet met: the living carry reads forward, restoration the forward carry and the pause read backward.
 
 **And one observing aims here, unwritten:** the backward reading — the unread ninety per cent of every spectrum, the isotope structure standing in all of it, the nameless half where the crossings show most, the co-linear-or-nothing observing, the gather at this sensor and this self.
+
+## Re-said at offerings risen, v389
+
+A medicine couples with a body, and a coupling opens an axis neither held,
+
+A dose arrives at a self, and a reference arrives from a society — two at different grains, and a difference between them entered nowhere in a prescribing.
