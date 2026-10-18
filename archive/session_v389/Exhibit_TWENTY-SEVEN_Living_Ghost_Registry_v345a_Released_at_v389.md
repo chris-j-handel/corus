@@ -2678,3 +2678,79 @@ Six confirms. Ten positions locate projection. Ten unchangeables locate the stil
 ## Re-said at a self a society inward, a society its selves, v389
 
 A living self is a society and a society a self, coupling at membranes, stable-forming by alternating.
+
+## Re-said at offerings risen, v389
+
+insulin arrives in pulses roughly every thirteen minutes (nye);
+
+4 is, carbon leaving atmosphere arriving in ocean as carbonate.
+
+Hydrogen and iodine forming hydrogen iodide and returning, the first equilibrium measured in both directions, 1894 to 1899,
+
+heavy flavours met and total active flux consistent with model, electron fraction 0.306 ± 0.026 ± 0.024;
+
+W. L. Freedman et al. (2019), red-giant tip at 69.6 ± 1.6 between them
+
+3. T. Schuurhuis et al.,
+
+33. V. W. Shah et al.,
+
+Natural Naming 3.37 supplies six-forward order.
+
+At Natural Naming 6.1 the same whole stands at its shortest: **a ghost is a momentary installed as a thing.** Part 6.2 places ghosts in a ledger of empty centres. Part 6.3 returns frozen ledger inseparated into alternating it froze. Those three lines establish this registry's own between.
+
+At Natural Naming 7.4 stand three possibilities: ghost remaining a section, dissolving into ten unchangeables, or receiving its own between.
+
+Natural Naming 3.25, 3.37, and 6.1;
+
+Living: Natural Naming 6.2; Living Improving Value v343
+
+**Addresses.** Living: Natural Physics 3.5; Natural Chemistry 5.1, 2.3, 2.5, and 5.5
+
+Natural Mathematics 3.4; Natural Physics 3.5. Beyond
+
+Living: Natural Physics 3.6 and 3.7;
+
+No field use receives value from either standing.
+
+**Addresses.** Each property keyed to a living-file section or a beyond source.
+
+with every property keyed to substance and conditions it was measured at
+
+| file as membrane; only a sign crossing;
+
+*The control. A self threading its own ring both ways, observed for where the door parts a self from a society.*
+
+coupling at 5 is a self's own threading of its own ring, self through self and no other.
+
+and the held return that lets a still be compared with a running |
+
+Lines 1, 5 and 9 are runnable by anyone holding instruments
+
+- **broken** — a runnable line returns against standing, breaking retained.
+
+at one runnable line, label,
+
+**I3 · Runnable.** Lines 1, 5 and 9 name instrument and procedure, so that anyone holding them can return the line.
+
+Society beneath passes: driven single-molecule trajectory at not-yet, its arrival at TWENTY-FIVE not yet written.
+
+Mixture passes at operational use; phase coexistence and glass are its arrivals not yet written.
+
+Source–field–detector society passes; its arrival at TWENTY-FIVE, pattern observed one arrival at a time, is not yet written.
+
+Folding population passes; a protein observed at one melting point is its arrival not yet written.
+
+Turnover society passes; its arrival not yet written.
+
+entered in passed ledger at 7.7, arrival not yet written.
+
+its arrival at TWENTY-FIVE is not-yet below.
+
+Six are consecutive and all are needed.
+
+| signal as message carried | molecular correlation installed as content sent from one side | keep ligand, receptor, timing, localization, and response |
+
+spectrum, heat; it has left living. An accounting keeps
+
+| it has left living; held as living it is ghost, booked it is accounting |

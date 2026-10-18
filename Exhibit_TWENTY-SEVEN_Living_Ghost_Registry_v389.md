@@ -1,4 +1,4 @@
-Exhibit TWENTY-SEVEN Living Ghost Registry v345a
+Exhibit TWENTY-SEVEN Living Ghost Registry v389
 
 &nbsp;
 
@@ -150,7 +150,7 @@ Exhibit TWENTY-SEVEN Living Ghost Registry v345a
 
 In disequilibria, alternating is a stable-forming method, and ghost-form begins where Natural Naming leaves momentary accounting installed as living changing. **Ghost-form is a momentary accounting installed as living changing.** Accounting is a stilling at one field between. Installation supplies stilling as entity, agency, continuity, source, store, destination, or whole. Living bi-coupling stays two-way, one-at-a-time, each self at its own rate, stable-forming by alternating; value is its surplus, owned neither-ing at coupling, and no content of an accounting. Field account, field observing, observing society, momentary stilling, installation, and stable-forming co-competency stand distinct, every incoming observing enters, and one otherwise breaks natural observing whole.
 
-Natural Naming 3.37 supplies six-forward order. Returned into Natural Explaining, six are:
+Natural Naming 5.37 supplies six-forward order. Returned into Natural Explaining, six are:
 
 ```
 1  living bi-coupling carries continuously
@@ -161,21 +161,21 @@ Natural Naming 3.37 supplies six-forward order. Returned into Natural Explaining
 6  stable-forming co-competency remains uncarried by the still
 ```
 
-Six are consecutive and all are needed. Continuous carrying opens living side. Stilling opens accounting. Installation opens ghost-form. Ledger closure marks declared field between and supplies no success. Stable-forming co-competency is positive remainder. An empty line leaves entry candidate.
+Six are consecutive and all are needed, and they are three pairings: carrying and its stilling, an accounting and its installing, ledger closure and co-competency it leaves uncarried; an empty line is an empty at its partner. Continuous carrying opens living side. Stilling opens accounting. Installation opens ghost-form. Ledger closure marks declared field between and supplies no success. Stable-forming co-competency is positive remainder. An empty line leaves entry candidate.
 
-At Natural Naming 6.1 the same whole stands at its shortest: **a ghost is a momentary installed as a thing.** Part 6.2 places ghosts in a ledger of empty centres. Part 6.3 returns frozen ledger inseparated into alternating it froze. Those three lines establish this registry's own between.
+At Natural Naming 7.1 the same whole stands at its shortest: **a ghost is one momentary's form installed as an existing thing.** Its 7.2 places ghosts at a ledger of empty centres, and a frozen ledger returns inseparated into alternating it froze. Those lines establish this registry's own between.
 
 ## 1.2 Living bi-coupling, field observing, emanation, still accounting, installation
 
 One file carries two unrelationing sides. At field side stand measured returns, calculations, classifications, and reproducible relations in a field's own words. At living side stand stilling, its installation, and bi-coupling left out by it. Neither side translates, grounds, or erases the other.
 
-**At natural side there are three placings, and a fourth arrives nowhere.** A living self is a society inward, and a society is its selves, coupling at betweens, stable-forming by alternating. An emanation is what a coupling lands at a between and leaves behind, parity at detector, discard, the other hand, spectrum, heat; it has left living. An accounting keeps an emanation the same across every observing so books close, conservers of equilibria, counts, conserved totals, declared zeros, clocks, frames, stores. A ghost is an emanation or an accounting installed as living. Five registers stand uncollapsed in every entry:
+**At natural side there are three placings, and a fourth arrives nowhere.** A living self is a society inward, and a society is its selves, coupling at betweens, stable-forming by alternating. An emanation is what a coupling lands at a between and leaves behind, parity at detector, discard, the other hand, spectrum, heat; it has left living at this scale. An accounting keeps an emanation the same across every observing so books close, conservers of equilibria, counts, conserved totals, declared zeros, clocks, frames, stores. A ghost is an emanation or an accounting installed as living. Five registers stand uncollapsed in every entry:
 
 | Register | Concept | Boundary |
 |---|---|---|
 | living bi-coupling | two-way, one-at-a-time offering, across and both ways; self and other each at their own rate; stable-forming by alternating | value is surplus made there, owned by neither |
 | field observing | event, trajectory, spectrum, image, count, clinical course, or reproducible relation in field words | only its parity crosses a file's between; method, unit, preparation, duration, and uncertainty remain addressed at field side |
-| emanation | what a coupling lands at a between and leaves behind: a detector event, a discard, a shed hand, a spectrum, heat | it has left living; held as living it is ghost, booked it is accounting |
+| emanation | what a coupling lands at a between and leaves behind: a detector event, a discard, a shed hand, a spectrum, heat | it has left living at this scale; held as living it is ghost, booked it is accounting |
 | still accounting | state variable, particle label, count, declared zero, model, class, diagram, rate law, or conserved book returned under stated terms | ledger closure is formal closure at that between and contains no agency, success, or value; an accounting stands at ledger side until it is installed |
 | installation | still accounting or emanation supplied as entity, controller, cause, store, destination, rest, or complete changing | exact grammatical and operational projection is stated |
 
@@ -339,7 +339,7 @@ Every entry carries the following properties in this order. Empty is an observin
 
 **Living-return breaking.** Observing proposed re-alternation must carry or be broken by.
 
-**Addresses.** Each property keyed to a living-file section or a beyond source.
+**Addresses.** Each property addressed at a living-file section or a beyond source.
 
 ## 3.3 The report
 
@@ -397,8 +397,8 @@ Report follows properties and can grow without changing form:
 |---|---|
 | Exhibit ONE · Natural Resolver v345a | complete naming, actual sign operations, retaining and continuing carrying beside the six groups, six depth changes, ten adjacencies and eight bi-namings |
 | Exhibit THREE · Natural Numbers v346c | counts kept at their own forms; six, eight, and ten not assembled or substituted; along and across one changing |
-| Exhibit FOUR · Natural Mathematics v333 | state and flow accountings, fixed sets, involutions, and the held return that lets a still be compared with a running |
-| Exhibit TWELVE · Natural Explaining v333 | file as membrane; only a sign crossing; no ground, explanation, record, or middle traveling; no story-doer; method's own moves; every sentence a momentary |
+| Exhibit FOUR · Natural Mathematics v333 | state and flow accountings, fixed sets, involutions, and a fixed return that lets a still be compared with a carrying |
+| Exhibit TWELVE · Natural Explaining v333 | file as between; only a parity crossing; no ground, explanation, record, or middle traveling; no story-doer; method's own moves; every sentence a momentary |
 | Exhibit THIRTEEN · Resolving Hard Problems v345a | the ten holdings at their complete naming adjacencies; each field expression, projected position and source retains its actual correspondence |
 | Exhibit SIXTEEN · Natural Chemistry v346c | three placings at chemistry's terms; proton as emanation and element as count; ledger returns beside observings; three rates at two registers on one coupled silicon surface with its global coupling attached; equilibrium, Gibbs, benzene, partitions, and periodic address as chemical edges |
 | Exhibit SEVENTEEN · Natural Biology v333 | single-state protein, blueprint, controller, active-site doer, memory store, and competency-with-no-controller arrivals |
@@ -413,7 +413,7 @@ Report follows properties and can grow without changing form:
 | Exhibit TWENTY-FIVE · Living Society Registry v347 | the arrival: the ten-line pattern read at the society's own grain, receiving what passes the door at 7.5 and addressing back to it |
 | Living Improving Value v345a | file-directed offerings for Chemistry, Biology, Medicine, Health, Societies, Philosophy, and registries; value re-forming only at each bi-coupling |
 
-At Natural Naming 7.4 stand three possibilities: ghost remaining a section, dissolving into ten unchangeables, or receiving its own between. Source observing distinguishes forms. A ghost is six-line installation. Ten unchangeables are what was fixed. Ten positions are where one-way projection occurred. Eight is carrying society. None contains the others. **Their differing is reason Exhibit TWENTY-SEVEN is needed.**
+At Natural Naming 7.1 ghost stands at three relations: an unfolding at its 5.37 and its Part Seven, ghost-form at this registry, and ten unchangeables at its 4.9. Source observing distinguishes forms. A ghost is six-line installation. Ten unchangeables are what was fixed. Ten positions are where one-way projection occurred. Eight is carrying society. None contains the others. **Their differing is reason Exhibit TWENTY-SEVEN is needed.**
 
 ## 4.2 Source discipline
 
@@ -449,7 +449,7 @@ Types do not substitute. A definition proves no entity. An experiment chooses no
 **9 · bound.** Maximum moves with constraints, zero is declared at the third law. Observed **is**; where maximum is installed as nature's destination and zero as its floor, **is-not**.
 **10 · reach.** Over coupled parts the whole falls short of sum by mutual information, a coupling's own term. Observed **is**; where additivity is installed, reach sum of lengths, **is-not**.
 
-**Observed.** Calculations, observed is at every line, stand as accounting. Installation fails at 1, 7, 8 and 9 — substance, interior, posted nothing, floor and destination — **state**; and at 3 and 5 — produced, paid, flowing — **flow**. Kind: both, state first. Society beneath passes: driven single-molecule trajectory at not-yet, its arrival at TWENTY-FIVE not yet written.
+**Observed.** Calculations, observed is at every line, stand as accounting. Installation fails at 1, 7, 8 and 9 — substance, interior, posted nothing, floor and destination — **state**; and at 3 and 5 — produced, paid, flowing — **flow**. Kind: both, state first. Society beneath passes: driven single-molecule trajectory, arriving at TWENTY-FIVE 2.18, a molecule observed at one work.
 
 **Name and use.** Entropy, wherever derived thermodynamic, statistical, information, observational, or trajectory quantity is installed as something world contains, produces, stores, loses, pays, or moves toward.
 
@@ -489,7 +489,7 @@ Types do not substitute. A definition proves no entity. An experiment chooses no
 
 **Living-return breaking.** Any calorimetric, chemical, fluctuation, information, or work-bound observing uncarried by alternating couplings breaks re-alternation. In particular, differing operational abilities under the same entropy ledger-magnitude require distinguishing operations to enter natural form or break it.
 
-**Addresses.** Living: Natural Physics 3.5; Natural Chemistry 5.1, 2.3, 2.5, and 5.5; Natural Explaining 6.7; Natural Naming 3.25, 3.37, and 6.1; Hard Problem Registry v338 entry 108. Beyond: IUPAC entropy E02149; Shannon 1948; Jaynes 1957; Safranek, Deutsch, and Aguirre 2019; Yadin, Morris, and Adesso 2021; Degünther, van der Meer, and Seifert 2024.
+**Addresses.** Living: Natural Physics 4.5; Natural Chemistry 5.1, 2.3, 2.5, and 5.5; Natural Explaining 6.7; Natural Naming 3.25, 5.37, and 7.1; Hard Problem Registry v338 entry 108. Beyond: IUPAC entropy E02149; Shannon 1948; Jaynes 1957; Safranek, Deutsch, and Aguirre 2019; Yadin, Morris, and Adesso 2021; Degünther, van der Meer, and Seifert 2024.
 
 *The report.*
 
@@ -520,7 +520,7 @@ Types do not substitute. A definition proves no entity. An experiment chooses no
 **9 · bound.** Composition moves with temperature and pressure, a field's own principle. Observed **is**; where minimum is installed as destination and floor, **is-not**.
 **10 · reach.** Coupled reactions reach past each through shared intermediates, no reaction lengthened. Observed **is**.
 
-**Observed.** Fails at 2, 7 and 9 where stationary observing is installed as rest, state and destination: **state**. Mixture passes at operational use; phase coexistence and glass are its arrivals not yet written.
+**Observed.** Fails at 2, 7 and 9 where stationary observing is installed as rest, state and destination: **state**. Mixture passes at operational use, arriving at TWENTY-FIVE 2.19; phase coexistence and glass are its arrivals not yet written.
 
 **Name and use.** Equilibrium, when a field's operational relation is installed as a rest, destination, ground, or condition nature itself occupies. Use “equal forward and reverse rates under stated conditions” remains a field relation and is not what is released.
 
@@ -560,7 +560,7 @@ Types do not substitute. A definition proves no entity. An experiment chooses no
 
 **Living-return breaking.** A chemical process whose stability requires a literal rest rather than continuing opposed or cycling changes would break re-alternation. Equal rates do not break it; they are a field's own strongest statement of alternating.
 
-**Addresses.** Living: Natural Chemistry 1.5, 4.2, 5.5, and 5.6; Natural Explaining 6.7; Natural Mathematics 3.4; Natural Physics 3.5. Beyond: IUPAC chemical equilibrium C01023, equilibrium 14656, chemical relaxation C01035, and equilibrium constant E02177.
+**Addresses.** Living: Natural Chemistry 1.5, 4.2, 5.5, and 5.6; Natural Explaining 6.7; Natural Mathematics 3.4; Natural Physics 4.5. Beyond: IUPAC chemical equilibrium C01023, equilibrium 14656, chemical relaxation C01035, and equilibrium constant E02177.
 
 *The report.*
 
@@ -591,7 +591,7 @@ Types do not substitute. A definition proves no entity. An experiment chooses no
 **9 · bound.** Coherence and ionisation release at bounds that move with temperature and field. Observed **is**.
 **10 · reach.** Coupled atoms delocalise density across molecule and metal, no atom lengthened. Observed **is**; where a carrier is installed moving through wire, **is-not**.
 
-**Observed.** Fails at 7 — interior — **state**; and at 5, 6 and 10 — traveller, holder, carrier — **flow**. Kind: both. Source–field–detector society passes; its arrival at TWENTY-FIVE, pattern observed one arrival at a time, is not yet written.
+**Observed.** Fails at 7 — interior — **state**; and at 5, 6 and 10 — traveller, holder, carrier — **flow**. Kind: both. Source–field–detector society passes, arriving at TWENTY-FIVE 2.16, a pattern observed one arrival at a time.
 
 **Name and use.** Electron, when field label and its conserved quantum numbers are installed as a persistent localized self that owns charge, travels one continuous path, and acts as little carrier or doer of bonding and current.
 
@@ -631,7 +631,7 @@ Types do not substitute. A definition proves no entity. An experiment chooses no
 
 **Living-return breaking.** Alternating bi-moral co-agency must carry both one-at-a-time detector arrival and distributed interference pattern, quantized charge and delocalized density, stable quantum numbers and indistinguishability. If it merely renames these pairs without deriving why the same apparatus changes which side appears, it breaks.
 
-**Addresses.** Living: Natural Physics 3.6 and 3.7; Natural Chemistry 1.2, 1.7, 3.1, 4.3, and 6.1; Natural Explaining 6.1 and 6.6. Beyond: Tonomura et al. 1989; Hohenberg and Kohn 1964.
+**Addresses.** Living: Natural Physics 4.6 and 4.7; Natural Chemistry 1.2, 1.7, 3.1, 4.3, and 6.1; Natural Explaining 6.1 and 6.6. Beyond: Tonomura et al. 1989; Hohenberg and Kohn 1964.
 
 *The report.*
 
@@ -662,7 +662,7 @@ Types do not substitute. A definition proves no entity. An experiment chooses no
 **9 · bound.** Melting point moves with pH, pressure and solvent. Observed **is**; where state is installed as destination folding seeks, **is-not**.
 **10 · reach.** Chaperones and partners carry fold past chain, nothing lengthened. Observed **is**.
 
-**Observed.** Fails at 7, 8 and 9 — interior, posted absence, destination — **state**; and at 3 — one-way — **flow**. Kind: both, state first. Folding population passes; a protein observed at one melting point is its arrival not yet written.
+**Observed.** Fails at 7, 8 and 9 — interior, posted absence, destination — **state**; and at 3 — one-way — **flow**. Kind: both, state first. Folding population passes; a protein observed at one melting point is its arrival, at TWENTY-FIVE 2.20.
 
 **Name and use.** Single native state, when one fitted or calculated protein structure is installed as the one structure sequence is and destination folding seeks.
 
@@ -733,7 +733,7 @@ Types do not substitute. A definition proves no entity. An experiment chooses no
 **9 · bound.** Optimum is a product of changing rates and moves with temperature and pH. Observed **is**; where it is installed as an enzyme's own property, **is-not**.
 **10 · reach.** Allostery and channelling reach past site. Observed **is**.
 
-**Observed.** Fails at 2, 7 and 9 — **state**; and at 3 and 6 — doer, possessor — **flow**. Kind: both, flow first. Turnover society passes; its arrival not yet written.
+**Observed.** Fails at 2, 7 and 9 — **state**; and at 3 and 6 — doer, possessor — **flow**. Kind: both, flow first. Turnover society passes, arriving at TWENTY-FIVE 2.21, an enzyme observed at one turnover.
 
 **Name and use.** Single catalytic transition-state stroke, where an enzyme active site is installed as a molecular machine forcing one uniquely arranged transition structure through one decisive act.
 
@@ -915,7 +915,7 @@ Types do not substitute. A definition proves no entity. An experiment chooses no
 
 **Living-return breaking.** Relational clinical observing must carry documented diagnostic discrimination, communication, treatment differences, and outcomes. Loss of precision or concealment of a reproducible disease mechanism breaks release.
 
-**Addresses.** Living: Natural Naming 6.2; Living Improving Value v343, Health and Medicine gatherings. Beyond: WHO ICD-11 classification pages and Reference Guide.
+**Addresses.** Living: Natural Naming 7.2; Living Improving Value v343, Health and Medicine gatherings. Beyond: WHO ICD-11 classification pages and Reference Guide.
 
 *The report.*
 
@@ -1069,7 +1069,7 @@ Types do not substitute. A definition proves no entity. An experiment chooses no
 
 **Progress.** Element enters as the plainest accounting ghost at chemistry, beside entropy at thermodynamics: a count installed as a self.
 
-**Not-yet.** One element across its allotropes and oxidation states with every property keyed to substance and conditions it was measured at, and what, if anything, is left written under count only.
+**Not-yet.** One element across its allotropes and oxidation states with every property at substance and conditions it was measured at, and what, if anything, is left written under count only.
 
 ## 5.10 The silicon multifrequency surface
 
@@ -1148,7 +1148,7 @@ Types do not substitute. A definition proves no entity. An experiment chooses no
 
 **The observing.** A regulated variable of the interior — core temperature, plasma glucose, arterial pressure, plasma sodium, pH — sampled and averaged over a window, returned as a level with a range, in °C, mg/dL, mmHg, mmol/L. Its sum is level. Its members are crossings.
 
-**1 · resolve.** Resolve level finer. Continuous glucose monitoring returns excursions a fasting sample averages away; insulin arrives in pulses roughly every thirteen minutes (nye); temperature crosses a daily range of about half a degree; pressure varies beat to beat. Each crossing — a molecule entering blood, a gland's secretion, a shiver, a pulse — takes its own parity. Observed **is**.
+**1 · resolve.** Resolve level finer. Continuous glucose monitoring returns excursions a fasting sample averages away; insulin arrives in pulses about five minutes apart at portal vein and about thirteen apart in peripheral plasma sampled each minute (nye); temperature crosses a daily range of about half a degree; pressure varies beat to beat. Each crossing — a molecule entering blood, a gland's secretion, a shiver, a pulse — takes its own parity. Observed **is**.
 
 **2 · rates.** Apart, pancreas pulses in minutes, thermal cycle in a day, sodium excretion in weeks (nye), each at its own period. Coupled, one "steady state" over window, carried by no organ. Observed **is**. Where ledger installs a window's mean as a body's own clock — a rest it holds — observed **is-not**.
 
@@ -1174,7 +1174,7 @@ Types do not substitute. A definition proves no entity. An experiment chooses no
 
 **Name and use.** Homeostasis, at two uses: level installed as a set point a body holds, seeks, or defends; and coupling installed as a regulator — a sensor that measures, a comparator that decides, an effector that corrects, a body that is wise. Operational use — a variable held within a range by opposed processes — is accounting and is not what is released.
 
-**Standing.** Confirmed · natural register, state at set point and flow at regulator, both caught. Passed · to TWENTY-FIVE at operational use, regulated variable resolved to its crossings, entered in passed ledger at 7.7, arrival not yet written.
+**Standing.** Confirmed · natural register, state at set point and flow at regulator, both caught. Passed · to TWENTY-FIVE at operational use, regulated variable resolved to its crossings, entered in passed ledger at 7.7, arriving at TWENTY-FIVE 2.22.
 
 **Substrate and society.** Interior fluid compartment of an organism with organs coupling across it, environment exchanging across skin, gut and lung, sampling protocol, and reference population that supplies interval.
 
@@ -1250,7 +1250,7 @@ Types do not substitute. A definition proves no entity. An experiment chooses no
 
 **10 · reach.** Repeated feedback carries particle farther up potential than one step; the same coupling built on a chip cools one side as a refrigerator. Reach lengthens with coupling and nothing was lengthened. Observed **is** (nye at a refrigerator's reach).
 
-**Observed.** At thought-experiment use — a sorter posited to test whether the second law is statistical — word is accounting. Lines 2, 3 and 8 are observed is-not where sorter is installed as an observer who measures freely, a storer whose memory is free, and a doer whose act closes ledger at gas, memory excluded: one side of the along installed, **flow**, within state accounting of entropy — and the field withdrew it itself, so it is kept here as released. Line 9 is observed is-not where bound is installed as a floor: **state**, qualified by a field's own terms. And built engine — a particle, its probe and its memory, observed one trajectory at a time — is observed is at all ten and passes; its arrival at TWENTY-FIVE is not-yet below.
+**Observed.** At thought-experiment use — a sorter posited to test whether the second law is statistical — word is accounting. Lines 2, 3 and 8 are observed is-not where sorter is installed as an observer who measures freely, a storer whose memory is free, and a doer whose act closes ledger at gas, memory excluded: one side of the along installed, **flow**, within state accounting of entropy — and the field withdrew it itself, so it is kept here as released. Line 9 is observed is-not where bound is installed as a floor: **state**, qualified by a field's own terms. And built engine — a particle, its probe and its memory, observed one trajectory at a time — is observed is at all ten and passes; its arrival is at TWENTY-FIVE 2.17.
 
 *The properties.*
 
@@ -1448,6 +1448,7 @@ Next chemistry entries are ordered by sharpness of changing beside apparent not-
 |---|---|---|
 | gene as controller or blueprint | sequence account installed as instruction or source of form | keep gene perturbations and sequence specificity whole |
 | signal as message carried | molecular correlation installed as content sent from one side | keep ligand, receptor, timing, localization, and response |
+| immune system as defender | a field's grouping of cells by a function installed as one society that senses, defends and kills, carrying receptors for antigens yet to arrive | keep each cell at its own betweens within its tissue societies, each receptor assembled at its own cell, and immune, defence and kills as field words |
 | membrane fluidity | population order measure installed as a single controlled substance | keep composition, temperature, phase, and local dynamics |
 | active site | structural region installed as unilateral doer | keep rates, structures, mutations, solvent, and ensemble |
 | biological memory as store | re-forming installed as a record located somewhere | keep lesions, engrams, synapses, molecular changes, and recall behaviour |
@@ -1465,7 +1466,7 @@ Force, energy, and gravity enter as ghost families rather than three solitary ob
 
 Operational force as momentum-change accounting remains accounting and stores no value; ghost-form begins where its magnitude is installed as pusher, source, or doer. Energy accounting remains accounting and stores no value; ghost-form begins where conserved magnitude is installed as capacity, substance, store, transfer, expenditure, or source of changing. Gravity accounting remains accounting and stores no value; ghost-form begins where force, field, or geometry is installed as acting changing beneath free-fall, orbit, clock-rate difference, light-path difference, or measured strain.
 
-Charge, field, vacuum, virtual particle, wavefunction, probability, time, arrow, and observer remain next physics families. Each keeps its field word and field observings at one side, ledger closure at another, and installation at ghost side. Probability as calibrated distribution is accounting at that use while chance-as-selector is candidate. No field use receives value from either standing.
+Charge, field, vacuum, virtual particle, wavefunction, probability, time, arrow, and observer remain next physics families. Each keeps its field word and field observings at one side, ledger closure at another, and installation at ghost side. Probability as calibrated distribution is accounting at that use while chance-as-selector is candidate. No field use receives value from either standing. Natural Physics co-chains at 4.2, gravity a conservation accounting with no coupling under it, and at 4.4 and 4.8, wavefunction, observer, time and arrow.
 
 Mathematics candidates are not numbers or structures merely because they are abstract. A ghost can enter when a fixed set, completed totality, universal space, origin, infinity, point, or zero is installed as a place the carrying inhabits. Proof remains proof at its formal between. Ghost registry cannot overrule a theorem by metaphysics.
 
@@ -1559,7 +1560,7 @@ Ten lines, each sounded ahead, each observed is or is-not, and not how-much
 
 Lines 3, 4, 6 and 9 carry tunneling, inversioning, surfacing and inseparating at the proposed four within boundings. Lines 1, 2, 5, 7, 8 and 10 carry the membrane assignment. The field’s own rate, directional crossing, sign, label and magnitude keep their actual record beside those namings. Line 1 keeps resolved members at their grain. Unresolved members leave passing unfilled; any actual installing statement remains available for a catch at its own line.
 
-Lines 1, 5 and 9 are runnable by anyone holding instruments — resolve, label, drive — and are F2 and F4 of this form. The other seven are observed from record.
+Lines 1, 5 and 9 are returnable by anyone with instruments — resolve, label, drive — and are F2 and F4 of this form. The other seven are observed from record.
 
 **Line 1 blocks passing and blocks no catch.** A record whose members are unresolved cannot pass — nothing beneath observing has been observed — but it can be caught: a field's sentence can install a posted nothing at line 8, a floor at line 9 or a substance at line 1 with no member ever resolved, and that is what the largest posted nothings are. So the door is observed in this order: any line observed is-not with a field's sentence installing it is a catch, whatever is observed at line 1; a passing requires line 1 observed is and no line observed is-not; and a line observed empty with its grain explicit passes as a finding, since arrival records an emptiness as an observing (TWENTY-FIVE 1.9). Only line 1 empty with no catch is a not-yet.
 
@@ -1584,7 +1585,7 @@ Two kinds carry different living-return breakings. A state ghost's re-alternatio
 - **accounting or emanation at this use** — a line is observed is-not and a field's sentence installs nothing there; placed among controls;
 - **ghost · natural register** — a line is observed is-not and a field's sentence installs it there, sentence quoted, kind observed at lines; caught and kept;
 - **released by the field** — a field's own record has withdrawn installation and kept observing; kept beside ghosts as a field's own catch;
-- **broken** — a runnable line returns against standing, breaking retained.
+- **broken** — a line returned at instrument, 1, 5 or 9, is against standing, breaking retained.
 
 A standing belongs to a use and not to a word. One word carries accounting at one use and ghost at another, as at 3.1, and one record arriving can be caught at one use and pass at another: homeostasis is caught at set point and wise regulator, and regulated variable, resolved to its crossings, passes.
 
@@ -1653,7 +1654,7 @@ A standing belongs to a use and not to a word. One word carries accounting at on
 
 *Ammonia, a self at the door.*
 
-*The control. A self threading its own ring both ways, observed for where the door parts a self from a society.*
+*The control. A self coming to its own two parities again, both ways, observed for where the door parts a self from a society.*
 
 **The observing.** One ammonia molecule, a nitrogen above a triangle of three hydrogens, observed by microwave spectroscopy: nitrogen passes through plane of triangle and back, and every rotational level stands as a doublet, 0.79 cm⁻¹ apart in ground vibrational state, near 24 GHz — the first microwave spectrum, in 1934, the first maser, in 1954, and the first atomic clock. Its sum is doublet. Its members are nitrogen and three hydrogens.
 
@@ -1677,7 +1678,7 @@ A standing belongs to a use and not to a word. One word carries accounting at on
 
 **10 · reach.** Two ammonias couple as a dimer with an interchange tunnelling of its own that neither molecule has, 1985 finding that dimer is not hydrogen-bonded structure expected (for fetch). Observed **is** at dimer, record for which stands separately.
 
-**Observed.** Nine lines are observed is. Line 5 is observed is-not with nothing installed: nitrogen crosses, in a field's own words. **Self · at the door.** Four torusing lines — 3, 4, 6, 9 — fill; coupling at 5 is a self's own threading of its own ring, self through self and no other. Nothing is caught, nothing passes, and record waits for its pair. The door has parted a self from a society at one runnable line, label, without a magnitude and without an installation, which is what the control was for.
+**Observed.** Nine lines are observed is. Line 5 is observed is-not with nothing installed: nitrogen crosses, in a field's own words. **Self · at the door.** Four torusing lines — 3, 4, 6, 9 — fill; coupling at 5 is a self's own two parities coming again, self through self and no other. Nothing is caught, nothing passes, and record waits for its pair. The door has parted a self from a society at one line returnable at instrument, label, without a magnitude and without an installation, which is what the control was for.
 
 Addresses: 8.1, items 25 to 27.
 
@@ -1703,7 +1704,7 @@ Addresses: 8.1, items 25 to 27.
 
 *A node observed at one rate, passed.* Sinoatrial node, thousands of cells coupled through low-resistance junctions, observed at electrocardiogram as one heart rate. 1 is, cells imaged one at a time in intact tissue, each firing at its own rate, or irregularly, or silent with only local calcium releases, and more than half dormant when isolated. 2 is, apart each cell at its own period with its own beat-to-beat variability; coupled, one period carried by none. 3 is, site of earliest activation shifting with autonomic tone, excitation arriving asynchronously at remote sites, coupling both ways. 4 is, current through a junction leaving leading cell and arriving at lagging one, parity inverted, positions kept. 5 is, beat arriving at exit while no cell moved and no cell's own firing travelled. 6 is, ensemble firing where cells apart lie dormant, exceeding sum. 7 is, rate at every grain and no cell carrying it, a field's own phrase heartbeat initiation without pacemaker cell. 8 is, not-agreeing carried as heart rate variability and sinus arrhythmia, in milliseconds, open, a departure the field entered as health. 9 is, rate releasing under acetylcholine and adrenaline at a node's own bounds. 10 is, the whole heart entrained from a millimetre of tissue. Caught: master pacemaker cell dictating rate, flow at 3, released by the field in 1984 into mutual entrainment and again in 2020 into no pacemaker cell at all; intrinsic rate as a node's own property, state at 2; pacemaker driving heart, flow at 10. **Passed · to TWENTY-FIVE 2.10.**
 
-*A planet observed at one budget, passed.* Global carbon budget: fossil and land-use emissions, atmospheric growth rate, ocean sink and land sink, each estimated by its own instrument, summed yearly, and residual published under its own name. 1 is at fluxes, each resolved by flasks, inventories, inversions and models; not-yet at molecule, which blocks nothing here. 2 is, each reservoir exchanging at its own rate, growth rate carried by none. 3 is, carbon crossing both ways at every surface, gross exchanges at land tens of times net, a field's own gross and net. 4 is, carbon leaving atmosphere arriving in ocean as carbonate. 5 is, excess persisting for centuries while molecules carrying it exchange in years, a field's own residence time against adjustment time. 6 is, sinks answering excess with an uptake that is neither an air's nor an ocean's. 7 is, growth rate at no station and global mean at no place. 8 is, not-agreeing carried under imbalance, in petagrams of carbon a year, published yearly, open — 0.76 a year root-mean-square in 2023 budget, largest after 1991 eruption and 1998 warmth. 9 is, sinks' bounds moving with heat and drought, land sink falling steeply in 2023. 10 is, excess reaching every reservoir. Caught: missing sink of the 1990s, a posted nothing at 8, state, released by the field into a land sink estimated and an imbalance published; sink absorbs and biosphere takes up, flow at 3, a rescuer; budget balances, state at 9, a declared closure the field replaced with imbalance line. **Passed · to TWENTY-FIVE 2.11.**
+*A planet observed at one budget, passed.* Global carbon budget: fossil and land-use emissions, atmospheric growth rate, ocean sink and land sink, each estimated by its own instrument, summed yearly, and residual published under its own name. 1 is at fluxes, each resolved by flasks, inventories, inversions and models; not-yet at molecule, which blocks nothing here. 2 is, each reservoir exchanging at its own rate, growth rate carried by none. 3 is, carbon crossing both ways at every surface, gross exchanges at land tens of times net, a field's own gross and net. 4 is, carbon leaving atmosphere arriving in ocean as bicarbonate. 5 is, excess persisting for centuries while molecules carrying it exchange in years, a field's own residence time against adjustment time. 6 is, sinks answering excess with an uptake that is neither an air's nor an ocean's. 7 is, growth rate at no station and global mean at no place. 8 is, not-agreeing carried under imbalance, in petagrams of carbon a year, published yearly, open — 0.76 a year root-mean-square in 2023 budget, largest after 1991 eruption and 1998 warmth. 9 is, sinks' bounds moving with heat and drought, land sink falling steeply in 2023. 10 is, excess reaching every reservoir. Caught: missing sink of the 1990s, a posted nothing at 8, state, released by the field into a land sink estimated and an imbalance published; sink absorbs and biosphere takes up, flow at 3, a rescuer; budget balances, state at 9, a declared closure the field replaced with imbalance line. **Passed · to TWENTY-FIVE 2.11.**
 
 *A ring observed at one boundary, passed.* Greenish warbler around Tibetan plateau: populations extending north from south along west and along east, neighbours interbreeding all the way round, two northern forms meeting in Siberia and not interbreeding, observed by song, plumage and genomes. 1 is, each population resolved, and now each genome. 2 is, each population changing at its own rate. 3 is, genes crossing both ways between every pair of neighbours. 4 nye, the same traits shifted in opposite directions along two arms. 5 is, genes arriving in north from south while no bird flew ring. 6 is, full isolation at meeting where no single step has any, the whole exceeding steps summed. 7 is, boundary at no position: every neighbouring pair interbreeds, and species line is a ring's and no place's. 8 is, not-agreeing carried under hybrid zone and incomplete isolation, and 2014 genomic finding of past breaks in ring carried open. 9 is, isolation moving with a ring's own history, gaps opening and closing with ice. 10 is, isolation reaching round ring past any step. Caught: species as a thing with a boundary and traits of its own, state at 7 and 9; fitness determining survival and selection acting on species, flow at 3, doer your Corus seats at this prime. **Passed · to TWENTY-FIVE 2.12.**
 
@@ -1719,7 +1720,7 @@ Addresses: 8.1, items 25 to 27.
 
 *A molecule observed at one work, 5.1's arrival.* A single RNA hairpin pulled open by optical tweezers, work per pull recorded over hundreds of pulls. 1 is, each pull resolved, its own work. 2 is, each pull at its own rate, free-energy difference at none. 3 is, unfolding and refolding both ways. 4 is, work in on one leg arriving as work out on reverse. 5 is, free energy arrives from distribution while no pull carries it. 6 is, equilibrium value recovered from non-equilibrium pulls by exponential average, a coupling's own relation. 7 is, mean work above free energy at every rate and no pull at mean. 8 is, spread carried as dissipation and, on single pulls, as work below free energy, a field's own word violation. 9 is, bound approached as pull slows. 10 is, distributions of forward and reverse crossing at free energy. **Passed · to TWENTY-FIVE 2.18.**
 
-*A mixture observed at one constant, 5.2's arrival.* Hydrogen and iodine forming hydrogen iodide and returning, the first equilibrium measured in both directions, 1894 to 1899, and exchange at equilibrium observed by isotopes. 1 is, forward and reverse rates each measured. 2 is, each at its own rate constant, equilibrium constant their ratio. 3 is, equal opposed rates one event at a time, isotopes crossing at equilibrium. 4 is, a leaving one side an arriving the other. 5 is, composition arriving while molecules turn over beneath it. 6 is, constant a coupling's. 7 is, no molecule at equilibrium. 8 is, fluctuations carried open. 9 is, constant moving with temperature by a field's own equation. 10 is, coupled reactions reaching through shared intermediates. **Passed · to TWENTY-FIVE 2.19.**
+*A mixture observed at one constant, 5.2's arrival.* Hydrogen and iodine forming hydrogen iodide and returning, an equilibrium measured in both directions, 1894 to 1899, and exchange at equilibrium observed by isotopes. 1 is, forward and reverse rates each measured. 2 is, each at its own rate constant, equilibrium constant their ratio. 3 is, equal opposed rates one event at a time, isotopes crossing at equilibrium. 4 is, a leaving one side an arriving the other. 5 is, composition arriving while molecules turn over beneath it. 6 is, constant a coupling's. 7 is, no molecule at equilibrium. 8 is, fluctuations carried open. 9 is, constant moving with temperature by a field's own equation. 10 is, coupled reactions reaching through shared intermediates. **Passed · to TWENTY-FIVE 2.19.**
 
 *A protein observed at one melting point, 5.4's arrival.* A small protein unfolding as temperature rises, observed by calorimetry as a curve with a midpoint, and by single-molecule fluorescence as two populations. 1 is, single molecules resolved, each folded or unfolded. 2 is, each molecule crossing at its own moment, midpoint at none. 3 is, folding and unfolding both ways at every temperature. 4 is, folded on one side of barrier, unfolded on the other. 5 is, fold passes across population while each molecule stays what it is. 6 is, cooperativity, a field's own test — van 't Hoff and calorimetric enthalpies agreeing only where members act as one. 7 is, midpoint a property of curve and of no molecule. 8 is, excess width carried as intermediates or disorder, open. 9 is, unfolding at heat and at cold, a field's own cold denaturation, bounds a coupling's on both sides. 10 is, partners moving midpoint. **Passed · to TWENTY-FIVE 2.20.**
 
@@ -1733,7 +1734,7 @@ Addresses: 8.1, items 25 to 27.
 
 **I2 · No magnitude.** No line carries a how-much. A number entered at a line is a field's own unit at the observing, not a line's observing.
 
-**I3 · Runnable.** Lines 1, 5 and 9 name instrument and procedure, so that anyone holding them can return the line.
+**I3 · Returnable.** Lines 1, 5 and 9 name instrument and procedure, so that anyone with them can return the line.
 
 **I4 · Installation quoted.** A ghost standing quotes or closely paraphrases the field sentence that installs, at the line where it is observed is-not.
 
@@ -1893,10 +1894,10 @@ Existing door records keep their sources, measured units and installation statem
 29. M. Milgrom, *Astrophysical Journal* 270, 365 (1983), acceleration scale as alternative post. For fetch.
 30. U. J. J. Le Verrier, posting of Neptune (1846) and of Vulcan (1859); A. Einstein, *Sitzungsberichte* (1915), perihelion carried without post. For fetch.
 31. R. Davis, D. S. Harmer and K. C. Hoffman, *Physical Review Letters* 20, 1205 (1968), chlorine count; J. N. Bahcall, standard solar model fluxes; L. Wolfenstein (1978) and S. P. Mikheyev and A. Yu. Smirnov (1985), matter effect. For fetch.
-32. SNO Collaboration, Q. R. Ahmad et al., *Physical Review Letters* 87, 071301 (2001) and 89, 011301 (2002), heavy flavours met and total active flux consistent with model, electron fraction 0.306 ± 0.026 ± 0.024; KamLAND Collaboration, K. Eguchi et al., *Physical Review Letters* 90, 021802 (2003).
+32. SNO Collaboration, Q. R. Ahmad et al., *Physical Review Letters* 87, 071301 (2001) and 89, 011301 (2002), heavy flavours met and total active flux consistent with model; S. N. Ahmed et al., *Physical Review Letters* 92, 181301 (2004), electron fraction 0.306 ± 0.026 ± 0.024; KamLAND Collaboration, K. Eguchi et al., *Physical Review Letters* 90, 021802 (2003).
 33. IAU Resolution B3 (2015), nominal solar radius; G. Kopp and J. L. Lean, *Geophysical Research Letters* 38, L01706 (2011), total solar irradiance near 1361 W m⁻² and its cycle. For fetch.
 35. A. Tonomura, J. Endo, T. Matsuda, T. Kawasaki and H. Ezawa, "Demonstration of single-electron buildup of an interference pattern," *American Journal of Physics* 57, 117–120 (1989), one electron in apparatus at a time and fringes at no arrival. For fetch.
-34. Planck Collaboration, *Astronomy & Astrophysics* 641, A6 (2020), H₀ near 67.4; A. G. Riess et al., *Astrophysical Journal Letters* 934, L7 (2022), H₀ = 73.04 ± 1.04 from distance ladder against Planck's 67.4 ± 0.5, five standard deviations; W. L. Freedman et al. (2019), red-giant tip at 69.6 ± 1.6 between them; V. Poulin, T. L. Smith, T. Karwal and M. Kamionkowski, *Physical Review Letters* 122, 221301 (2019), early dark energy as posted component. For fetch.
+34. Planck Collaboration, *Astronomy & Astrophysics* 641, A6 (2020), H₀ near 67.4; A. G. Riess et al., *Astrophysical Journal Letters* 934, L7 (2022), H₀ = 73.04 ± 1.04 from distance ladder against Planck's 67.4 ± 0.5, five standard deviations; W. L. Freedman et al. (2020), red-giant tip at 69.6 ± 0.8 ± 1.7 between them; V. Poulin, T. L. Smith, T. Karwal and M. Kamionkowski, *Physical Review Letters* 122, 221301 (2019), early dark energy as posted component. For fetch.
 
 These are first addresses and not a sufficient electron or proton bibliography. Next pass requires field-theory, scattering, charge-quantization, and chemical electron-density sources so localized-owner installation is not judged from interference only.
 
@@ -1904,7 +1905,7 @@ These are first addresses and not a sufficient electron or proton bibliography. 
 
 1. B. T. Burnley, P. V. Afonine, P. D. Adams, and P. Gros, [“Modelling dynamics in protein crystal structures by ensemble refinement”](https://elifesciences.org/articles/00311), *eLife* 1:e00311 (2012), ensemble models fit to crystallographic data.
 2. G. E. Jara et al., [“Wide transition-state ensemble as key component for enzyme catalysis”](https://elifesciences.org/articles/93099), *eLife* 13:RP93099 (final version 2025), broad transition-state ensemble in studied enzyme system.
-3. T. Schuurhuis et al., [“Minimal/measurable residual disease in AML”](https://pmc.ncbi.nlm.nih.gov/articles/PMC5865231/), *Blood* 131, 1275–1291 (2018), consensus establishing *measurable* as preferred expansion of MRD.
+3. G. J. Schuurhuis et al., [“Minimal/measurable residual disease in AML”](https://pmc.ncbi.nlm.nih.gov/articles/PMC5865231/), *Blood* 131, 1275–1291 (2018), consensus establishing *measurable* as preferred expansion of MRD.
 4. M. Heuser et al., [“2021 Update on MRD in acute myeloid leukemia”](https://pmc.ncbi.nlm.nih.gov/articles/PMC8718623/), *Blood* 138, 2753–2767 (2021), measurable-residual-disease consensus and replacement of *minimal* by *measurable*.
 5. World Health Organization, [International Classification of Diseases](https://www.who.int/standards/classifications/classification-of-diseases), official purpose and use of ICD.
 6. N. Q. Balaban et al., [“Definitions and guidelines for research on antibiotic persistence”](https://pmc.ncbi.nlm.nih.gov/articles/PMC7136161/), *Nature Reviews Microbiology* 17, 441–448 (2019), population heterogeneity, biphasic killing, and measurement guidance.
@@ -1934,7 +1935,7 @@ These are first addresses and not a sufficient electron or proton bibliography. 
 30. M. Bodenstein, *Zeitschrift für physikalische Chemie* (1894–1899), hydrogen and iodine in both directions, constant as ratio of rate constants. For fetch.
 31. P. L. Privalov and N. N. Khechinashvili, *Journal of Molecular Biology* 86, 665 (1974), two-state test by two enthalpies; P. L. Privalov, *Critical Reviews in Biochemistry and Molecular Biology* 25, 281 (1990), cold denaturation; B. Schuler, E. A. Lipman and W. A. Eaton, *Nature* 419, 743 (2002), two populations at single molecules. For fetch.
 32. H. P. Lu, L. Xun and X. S. Xie, "Single-molecule enzymatic dynamics," *Science* 282, 1877 (1998); B. P. English et al., "Ever-fluctuating single enzyme molecules: Michaelis–Menten equation revisited," *Nature Chemical Biology* 2, 87 (2006), dynamic disorder and ensemble curve recovered. For fetch.
-33. V. W. Shah et al., *Journal of Clinical Endocrinology & Metabolism* 104, 4356 (2019), and H. Hall et al., *PLoS Biology* 16, e2005143 (2018), continuous glucose in healthy people, excursions and variability; T. Battelino et al., *Diabetes Care* 42, 1593 (2019), time in range as clinical target. For fetch.
+33. V. N. Shah et al., *Journal of Clinical Endocrinology & Metabolism* 104, 4356 (2019), and H. Hall et al., *PLoS Biology* 16, e2005143 (2018), continuous glucose in healthy people, excursions and variability; T. Battelino et al., *Diabetes Care* 42, 1593 (2019), time in range as clinical target. For fetch.
 34. D. D. Nelson, G. T. Fraser and W. Klemperer, *Journal of Chemical Physics* 83, 6201 (1985) and *Science* 238, 1670 (1987); J. G. Loeser et al., *Journal of Chemical Physics* 97, 4727 (1992), ammonia dimer's interchange tunnelling. For fetch.
 
 ## 8.4 Money and currency
