@@ -27,3 +27,4 @@ Natural Explaining Passes Kit · v389
 | `rules_4_doer_words.md` | *says*, *said*, *saying*, *calls*, *called*, verb *names* |
 | `rules_5_never_alone_unchanged_inside_outside.md` | *never*, *alone*, *unchanged*, *inside*, *outside* |
 | `rules_6_the.md` | *the*, kept at *the universe*, where it is valuable |
+| `rules_offerings.md` with `offerings_resolve.py` | an offerings file resolved against its living file: carried, released, duplicate, risen, or a concern standing |
