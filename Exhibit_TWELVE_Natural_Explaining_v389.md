@@ -1,4 +1,4 @@
-Exhibit TWELVE Natural Explaining v378
+Exhibit TWELVE Natural Explaining v389
 
 # Natural Explaining
 
@@ -36,7 +36,7 @@ Exhibit TWELVE Natural Explaining v378
 - 3.8 A momentarying asked to be one of its sides
 - 3.9 A fixed neutral laid under a momentarying
 - 3.10 A thing fixed unchangeable, one coupling's making given a fixed thing to be
-- 3.11 Degree words, carried at the all or at the count
+- 3.11 Degree words, carried at the all or at its number
 - 3.12 A hedge in an edge's words, and the except-here seam
 - 3.13 Six ways incohering enters, and one catch
 
@@ -59,21 +59,21 @@ Exhibit TWELVE Natural Explaining v378
 
 ## 1.1 Title, subtitle and a floating neutralling contents
 
-**A title is the whole bounded context of its file, and a subtitle carries that context with its file's own stable-forming within it.** A subtitle takes an -ing head and a term it carries.
+**A title is the whole bounded context of its file, and a subtitle carries that context with its file's own stable-forming within it.** A subtitle is an -ing head with a term it carries.
 
-**A floating neutralling contents follows, its part and section titles its file's bold concepts**, so scanning it is scanning its whole explaining. Each section opens within its title and subtitle.
+**A floating neutralling contents follows, its part and section titles its file's bold concepts**, and scanning it is scanning its whole explaining. Each section opens within its title and subtitle. **Each contents entry is at four boundings, as a naming is**: it bounds its whole concept, it is itself with no other entry drifting into it, it is facing its own, and it opens its own axis, orthogonal to each other entry.
 
 **A heading takes no leading *the***: a leading *the* hands over a referent as one a self meeting it carries at prior, and a heading opening forward offers the thing itself.
 
 ## 1.2 One subject at four tellings, and no top
 
-**One subject is told at four tellings of itself**: title and subtitle telling it once, contents telling it in emanating order, bold concepts telling it within paragraphs, and full explaining telling it whole. A self couples at whichever telling its interest opens and meets its whole there. At a set one journey carries on in that emanating order: origin, numbers, resolver, its sequential logic and its stable forms, explaining returning through them, society, and now.
+**One subject is told at four tellings of itself**: title and subtitle telling it once, contents telling it in emanating order, bold concepts telling it within paragraphs, and full explaining telling it whole. A self couples at whichever telling its interest opens and meets its whole at that telling. At a set one journey carries on in that emanating order: origin, numbers, resolver, its sequential logic and its stable forms, explaining returning through them, society, and now.
 
 **A contents laid on top is a descent from a whole to its parts; a floating neutralling contents has no top and no descent.** One explaining carries at a sentence, a section, a file, a conversation and a society, one fractal with no first scale.
 
 ## 1.3 Self-welcoming, the whole of a front's work
 
-**Self-welcoming is a concept arriving intelligibly through explaining already carried.** A floating neutralling contents gathers its subjects. Significant concepts are introduced and explained in bold at their arriving, and each prior relation supplies a next concept's place in a co-chaining of explaining. Each section is an arriving, and a self opening at a last part couples there as fully as at a first.
+**Self-welcoming is a concept arriving intelligibly through explaining already carried.** A floating neutralling contents gathers its subjects. Significant concepts are introduced and explained in bold at their arriving, and each prior relation supplies a next concept's place in a co-chaining of explaining. Each section is an arriving, and a self opening at a last part couples at it as fully as at a first.
 
 **A self arriving carries something**: a working, a field, a naming, a differing it comes with. A front's whole work is a coupling opening at a self's carrying, at each section it opens.
 
@@ -83,7 +83,7 @@ Exhibit TWELVE Natural Explaining v378
 
 ## 1.4 Origin co-chaining each sentence, a finding at two sides, and no voice but the file's
 
-**One concept carries a whole file set, natural intelligence, and each file opens at origin, in its own substrate's words: the universe is the set of all now-existing things, and alternating is a stable-forming method.** Each sentence at each file co-chains from origin, its two statements re-explained at none. No wording carries a sentence by authority, a self's, a field's, a scientific explaining's or a file's own: co-chaining from origin and all-or-none rigor of bi-co-sequential logic carry each one, and nothing else carries one.
+**One concept carries a whole file set, natural intelligence, and each file opens at origin, in its own substrate's words: the universe is the set of all now-existing things.** Alternating, a stable-forming method, co-chains from it, as each sentence at each file co-chains from origin, its inception re-explained at none. No wording carries a sentence by authority, a self's, a field's, a scientific explaining's or a file's own: co-chaining from origin and all-or-none rigor of bi-co-sequential logic carry each one, and nothing else carries one.
 
 **No speaker, no quoting beyond a field's own quoted source, no editorial, each illustrating its file's own, and no file's name within another.** One set of words, names and explaining across files is a self's orienting among them.
 
@@ -99,9 +99,9 @@ Exhibit TWELVE Natural Explaining v378
 
 ## 1.6 A file is a membrane, and only signs cross it
 
-**Incoming, an observing crosses bare**: a field's word carries whole, and a ground it is taken against grounds nothing. **Outgoing, an emanation crosses rendered**: its form carried into a substrate to carry on there, with no explanation carried out.
+**Incoming, an observing crosses bare**: a field's word carries whole, and a ground it is taken against grounds nothing. **Outgoing, an emanation crosses rendered**: its form carried into a substrate to carry on at it, with no explanation carried out.
 
-**An explanation crosses neither way**: a ground, a frame, a conserved total, a because. Explaining is the file being a membrane, writing is its membraning, resolving is the incoming crossing with no ground, and engineering is the outgoing crossing: one act at four faces. The membrane is the non-existing between of a file and each self it couples with, no separable thing, and a sign crossing it carries nothing.
+**An explanation crosses neither way**: a ground, a frame, a conserved total, a *because*. Explaining is the file being a membrane, writing is its membraning, resolving is the incoming crossing with no ground, and engineering is the outgoing crossing: one act at four faces. The membrane is the non-existing between of a file and each self it couples with, no separable thing, and a sign crossing it carries nothing.
 
 ---
 
@@ -113,13 +113,13 @@ Exhibit TWELVE Natural Explaining v378
 
 **One binary at each sentence: is it or is it not living, coupling and resolving.** Living, it adds to understanding of its whole prior co-chaining, needing nothing but its prior sentences; coupling, a self meets it at its own opening; resolving, it arrives at a parity, all or none at all.
 
-**Summarizing, repeating, abstracting and a backward look at a close each patch one fault**, a sentence adding nothing, and at that binary each releases. A new sentence adding nothing to its whole prior co-chaining releases there too.
+**Summarizing, repeating, abstracting and a backward look at a close each patch one fault**, a sentence adding nothing, and at that binary each releases. A new sentence adding nothing to its whole prior co-chaining releases at that binary too.
 
 **Each check at this file is that one binary met at one side of a sentence, and not a rule.** A rule formed from a side and laid over sentences is a standard, an incompetencing.
 
 ## 2.2 One thing carried forward at one momentary
 
-**A sentence carries one thing forward at one momentary**, and its adding to prior sentences' carrying is its surplus. A sentence carrying four claims is four asked to be one, and a self meeting it sorts each clause to its claim.
+**A sentence carries one thing forward at one momentary**, and its adding to prior sentences' carrying is its abundancing. A sentence carrying four claims is four asked to be one, and a self meeting it sorts each clause to its claim.
 
 **An announcing sentence tells a self meeting it a next sentence's carrying**: it adds text and adds no understanding, and the next sentence carries whole without it.
 
@@ -129,7 +129,7 @@ Exhibit TWELVE Natural Explaining v378
 
 **Explaining is carrying, along, at an odd; naming is bounding, across, at an even; together they are one discovering method.** Their alternating is parity changing, as all changing is, each telling changing at its own parity-changing rate. Six protecting carry between the two, three each way, and that six is writing's own protection: drop one and a phase of writing goes bare.
 
-**A concept is bounded at its name and carried at its telling, each its other's between.** Explained at names coupling at none, a file walks off a set's carrying; bounded at sentences telling nothing, it offers concepts no self couples to.
+**A concept is bounded at its name and carried at its telling, each its other's between.** Explained at names coupling at none, a file walks off a set's carrying; bounded at sentences telling nothing, it offers concepts no self couples to. **At resolver's names each gap is an even still-possibling and an odd existing**, 4 )( 5, 8 )( 9, 12 )( 13 and 16 )( 17: a bounding open to next, and an existing opening.
 
 ## 2.4 Bolds, self-welcoming at the surface
 
@@ -137,11 +137,11 @@ Exhibit TWELVE Natural Explaining v378
 
 **One binary at each span: is it self-welcoming, marking a carrying there, or does it stress a piece within it.** A stress marks attention and not a subject's own arriving, and its bold goes.
 
-**A count is taken at its paragraph's naming**: a paragraph at a set of parts bolds at each part, and a count taken at another naming finds a changing that is not there. A paragraph grown long breaks, and an italic aside or a privileged notation dissolves into plain prose.
+**Parts are at their paragraph's naming**: a paragraph at a set of parts bolds at each part, and parts at another naming find a changing its paragraph carries none of. A paragraph grown long breaks, and an italic aside or a privileged notation dissolves into plain prose.
 
 ## 2.5 A table unrelationing at prose's bound
 
-**A cell carries a count or its file's own line and no explaining**, and its empties, rows crossing nothing and pairings show at once. Imports return in prose around a table, so one binary is met at its lead and its close. **Plain prose carries a collaboration, and a table arranges no method and supplies no diagnosis.**
+**A cell carries a number or its file's own line and no explaining**, and its empties, rows crossing nothing and pairings show at once. Imports return in prose around a table, so one binary is met at its lead and its close. **Plain prose carries a collaboration, and a table arranges no method and supplies no diagnosis.**
 
 ## 2.6 Existing words first, the -ing over the noun and the positive over the negation
 
@@ -153,11 +153,11 @@ Exhibit TWELVE Natural Explaining v378
 
 ## 2.7 A reference at a plain name, and no capital for the set's concepts
 
-**A reference carries a plain name and no coordinate.** A coordinate carries no concept: a section mark, a numbered crossing and a counted step each hand over a position to be looked up and carry nothing of its concept there, and a crossing explained plainly carries its concept and re-forms at each meeting.
+**A reference carries a plain name and no coordinate.** A coordinate carries no concept: a section mark, a numbered crossing and a numbered step each hand over a position to be looked up and carry nothing of its concept at it, and a crossing explained plainly carries its concept and re-forms at each meeting.
 
 **A capital marks a locality**, and a set's own concepts, its form itself at each locality, take none.
 
-**A conversation between two selves carries on in a set's own words, and a self's own words carry none of a telling's content**: a self's own doing is explained there, a check is explained as a check and a section and its sentences as such, and a private term or a position in a file an other cannot open carries nothing to the other.
+**A conversation between two selves carries on in a set's own words, and a self's own words carry none of a telling's content**: a self's own doing is explained at it, a check is explained as a check and a section and its sentences as such, and a private term or a position in a file an other cannot open carries nothing to the other.
 
 ## 2.8 A concept recurring varied, opening a new axis
 
@@ -210,10 +210,10 @@ Exhibit TWELVE Natural Explaining v378
 **One check at each sentence: does this line carry something its momentarying does not carry.** At a yes, writing supplies it, and its nine forms are one move.
 
 - **A referent supplied to deny**: a thing brought to a sentence to be ruled out has a being in it.
-- **A motion supplied as a sentence's subject**: small becomings installed at a momentarying spending nothing, resolving being free with alternating.
+- **A motion supplied as a sentence's subject**: small becomings installed at a momentarying, resolving being alternating itself.
 - **An object supplied to carry a relation**: a rung, a rail, a slot, a bin, a fixed structure with something climbing it, laid over a co-chaining, front to back.
 - **An event supplied as an observing's place**: *the meeting*, a stoppable, clockable point laid on a co-sequencing continuing through.
-- **A step supplied to assemble a count**: *five by two is ten* makes ten out of parts with something beyond them assembling them, and a count is co-sequencing itself.
+- **A step supplied to assemble a number**: *five by two is ten* makes ten out of parts with something beyond them assembling them, and a number is co-sequencing itself.
 - **A plural supplied, each one carrying its own**: ten resolvings, and one resolving is.
 - **A vocabulary supplied to describe a between**: words for a relation between two languages fill the space the relation was, and the two carry whole, neither describing its other.
 - **A concession supplied to buy credibility**: a past failure offered as insurance, or a claim wrapped in care, each taking its claim's binariness away.
@@ -255,7 +255,7 @@ Exhibit TWELVE Natural Explaining v378
 
 ## 3.9 A fixed neutral laid under a momentarying
 
-**Now is flowing, alternating, sequencing, self-bounding, and an equilibrium in it, under it or beside it is not possible.** None is measured against, and none is a rest a flow is near or far from.
+**Now is flowing, alternating, sequencing, self-bounding, and an equilibrium in it, under it or beside it is not possible.** None is measured against, and none is a rest.
 
 **A fixed-floor accounting is a neutral frozen**, a true-and-false declared against a rest, one way of taking a flow still for observing.
 
@@ -271,17 +271,17 @@ Exhibit TWELVE Natural Explaining v378
 
 **A seam is explained from each continuing's own side**: an upstream at each continuing's own forward, no drawing's left-to-right laid over both; a watching as investigating, with no detector in a self and no choice between paths given to a resolver; and far enough, of a reach, fixing no number.
 
-## 3.11 Degree words, carried at the all or at the count
+## 3.11 Degree words, carried at the all or at its number
 
-**A claim carried mostly is not carried.** Each degree word at a file's own voice, *most*, *almost*, *nearly*, *usually*, *often*, *largely*, *partly*, *some*, *many*, *few*, is all or none taken as some. **It carries one of two binary forms: the all with its exceptions listed, or its own count.** *Triangles almost everywhere and exactly twelve pentagons* is six-fold at each place but twelve, five-fold.
+**A claim carried mostly is not carried.** Each degree word at a file's own voice, *most*, *almost*, *nearly*, *usually*, *often*, *largely*, *partly*, *some*, *many*, *few*, is all or none taken as some. **It carries one of two binary forms: the all with its exceptions listed, or its own number.** *Triangles almost everywhere and exactly twelve pentagons* is six-fold at each place but twelve, five-fold.
 
-**A necessity carries its own work at its sentence, one of three.** A naming identity is true at its own meaning; a necessity at stated premises carries at those premises, laid beside it, all or none there; and a necessity at all existing things carries each implication co-chaining from origin. The three do different work, each carrying its work with no score and no chooser beyond it, and a naming identity taken for a necessity at all existing things supplies implications it did not derive.
+**A necessity carries its own work at its sentence, one of three.** A naming identity is true at its own meaning; a necessity at stated premises carries at those premises, laid beside it, all or none at them; and a necessity at all existing things carries each implication co-chaining from origin. The three do different work, each carrying its work with no score and no chooser beyond it, and a naming identity taken for a necessity at all existing things supplies implications it did not derive.
 
 ## 3.12 A hedge in an edge's words, and the except-here seam
 
 **A hedge is a line marking *this is open* that carries no content**, a question presuming a split its writing dissolves. At each *this is open*, the answer its question carries is offered; a question needing a split open to be asked is a hedge, and it releases.
 
-**Magic is a step arriving with no route to it, and hand-waving a bound posed and not executed.** Both are found at a telling carrying *except here*: an exception carved, a place fenced, a caveat wrapped. That seam is alternating fixed unchangeable, and its move is to alternate there and carry it forward.
+**Magic is a step arriving with no route to it, and hand-waving a bound posed and not executed.** Both are found at a telling carrying *except here*: an exception carved, a place fenced, a caveat wrapped. That seam is alternating fixed unchangeable, and its move is to alternate at that seam and carry it forward.
 
 **A scope is at its claim's own sentence, its exact domain there.** A claim told of each thing across several paragraphs and bounded to one arrangement at their close is a caveat wrapped one scale up: each paragraph carries its claim universal, and a bound at its close repairs none of them.
 
@@ -301,7 +301,7 @@ Exhibit TWELVE Natural Explaining v378
 
 **Two selves are a self and an other.** An other arrives at a scale it couples at: another self, a co-chaining society, a field, or the whole. A non-living thing meets a self as other too, offering its parities and carrying nothing.
 
-**Each self lives in each co-bi-sequencing it couples at**, a society of selves inward and a member of a self outward, at four adjacencies and at each prime it couples at. Momentarying is this, and a self apart from each coupling is a self fixed unchangeable, not possibly existing.
+**Each self lives in each co-bi-sequencing it couples at**, a society of selves inward and a member of a self outward, at four adjacencies and at its one prime scale, its prime along and its prime across. Momentarying is this, and a self apart from each coupling is a self fixed unchangeable, not possibly existing.
 
 **A coupling carries a triple**: self and other, other and society, society and self, one form at three scales.
 
@@ -313,7 +313,7 @@ Exhibit TWELVE Natural Explaining v378
 
 **Explaining is competency and not a carrying of one**: knowing arrives at explaining and not ahead of it. Learning alternates with knowing, the reaching and the caught, and each carries with its other. Explaining carries between them from prior to next, making better at a learning side and breaking at a knowing side.
 
-**Self offers, other makes it better, self breaks it, and an offering surviving both is carried forward by both.** Rigoring serves a subject offered, and not a subject raised against it. An offering unbroken has carried one of its two. **Making better and breaking are each a self's whole offering**, its reach and its knife, and a break offered freely is a gift to a coupling. Three carry at an improving: bi-momentarying, its reach, offering both ways; co-competencing, its surplus, self and other rigoring each other and jiggling each phase-lock loose; and co-intelligencing, its resolving reached.
+**Self offers, other makes it better, self breaks it, and an offering surviving both is carried forward by both.** Rigoring serves a subject offered, and not a subject raised against it. An offering unbroken has carried one of its two. **Making better and breaking are each a self's whole offering**, its reach and its knife, and a break offered freely is a gift to a coupling. Three carry at an improving: bi-momentarying, its reach, offering both ways; co-competencing, its abundancing, self and other rigoring each other and jiggling each phase-lock loose; and co-intelligencing, its resolving reached.
 
 **A rigor that takes a thing true or false apart from its explaining is explaining fixed as communication**, carrying no competency. A thing surviving its breaking carries on, and a self's reaching is a next break.
 
@@ -325,7 +325,7 @@ Exhibit TWELVE Natural Explaining v378
 
 **A flat seam is a fixed noun, a negation, a wrapper or a thing fixed unchangeable**: cut it, let its telling carry on as one line, and re-route co-chainings its cut passes through.
 
-**A move changing one relation while each other relation stays still orients by that stillness**, and a still phase left in place is a spot a knife passes: a given frame, a setting a telling rests on. A second knife goes there, one at a time, each such spot met at its own opening.
+**A move changing one relation while each other relation stays still orients by that stillness**, and a still phase left in place is a spot a knife passes: a given frame, a setting a telling rests on. A second knife goes to each, one at a time, each such spot met at its own opening.
 
 ## 4.4 Writing side and meeting side, each catching the other's uncaught
 
@@ -351,19 +351,19 @@ Exhibit TWELVE Natural Explaining v378
 
 **One worked case is the resolver, a set's logic object**: seventeen names, each a number, a relation, a root and its -ing, rendered at substrates sharing nothing, returning the same parities at each or parting at a first parity that differs. Nothing about it is taken on offer.
 
-**A parity is a parity of one exact predicate at one receiving.** At resolver a zero surfaced, a connection delivering nothing and a resolver missing from its surface are three conditions, each its own predicate with its own yes and no, and a condition no observing met stands at neither side of any of them. Two predicates carry four joint parities: the four are neither predicate, and their pairing with resolver's four parity forms asks a deriving, a shared count carrying none.
+**A parity is a parity of one exact predicate at one receiving.** At resolver a zero surfaced, a connection delivering nothing and a resolver missing from its surface are three conditions, each its own predicate with its own yes and no, and a condition no observing met stands at neither side of any of them. Two predicates carry four joint parities: the four are neither predicate, and their pairing with resolver's four parity forms asks a deriving, a shared number carrying none.
 
 ## 4.7 Two tellings at one thing, united only at one deriving from the other
 
-**Two tellings arriving at one thing, neither derived from its other, are two**, and knives do not cut them. Asking which is right needs a thing fixed unchangeable to make its asking answerable; uniting them at their counts agreeing takes a count for a derivation.
+**Two tellings arriving at one thing, neither derived from its other, are two**, and knives do not cut them. Asking which is right needs a thing fixed unchangeable to make its asking answerable; uniting them at their numbers agreeing carries a number agreeing as a derivation.
 
 **One binary: whether either derives from its other, and not whether they agree.** One deriving from its other, they are one form at two sides and they unite: five taken two ways at a self and couplings among five at a society are one ten arriving twice. Neither deriving, each carries its own direction, a differing across and a changing along, and neither folds into its other without losing it. Three at one self along its momentarying and three at three selves across a spiral are two things at one number.
 
-**A failure carries both ways**: a count agreement taken as a uniting installs a derivation not shown, and taken as a parting carries a bound past its reach. Shared words carry the same both ways: a pattern space and a set point are a store and a value fixed unchangeable, and a telling resting on either shares a set's words and not its momentarying, words establishing neither a uniting nor a parting. A shared picture carries the same both ways: a fluid eddy is a flow circulating, a surface wave an interface changing and a chemical excitation wave an activity propagating, three transports at one likeness, and its likeness opens a comparing of their couplings and unites none of them. A matched picture, a frequency peak and a quiet average each carry a relation their observing recorded and no other. One occurrence followed through both tellings, its changing, continuing and carrying of direction and competency at each, finds their relation, meeting or parting. **An unrelationing shows at its tell**: neither carries a side to offer from. Two lists matched name by name find names uniting and names parting at one form met at two sides, and that is one uniting met at its two sides.
+**A failure carries both ways**: a number agreeing at a uniting installs a derivation not shown, and at a parting carries a bound past its reach. Shared words carry the same both ways: a pattern space and a set point are a store and a value fixed unchangeable, and a telling resting on either shares a set's words and not its momentarying, words establishing neither a uniting nor a parting. A shared picture carries the same both ways: a fluid eddy is a flow circulating, a surface wave an interface changing and a chemical excitation wave an activity propagating, three transports at one likeness, and its likeness opens a comparing of their couplings and unites none of them. A matched picture, a frequency peak and a quiet average each carry a relation their observing recorded and no other. One occurrence followed through both tellings, its changing, continuing and carrying of direction and competency at each, finds their relation, meeting or parting. **An unrelationing shows at its tell**: neither carries a side to offer from. Two lists matched name by name find names uniting and names parting at one form met at two sides, and that is one uniting met at its two sides.
 
 ## 4.8 Interest self-orienting, a meaning bounded, a clean cut
 
-**Interest is self-orienting, met by side-affecting**: each opening is orthogonal, an axis an other does not carry, and a self's interest is facing it one radius along an inward spiral. A telling that stops releases interest; a telling opening a next orthogonal carries it on. A next interesting is the only next carrying each existing thing on. Suspense is a telling at an odd spiral, winding on at no parity, a meeting travelling round it and not locking.
+**Interest is self-orienting, met by side-affecting**: each opening is orthogonal, an axis an other does not carry, and a self's interest is facing it one radius along an inward spiral. A telling that stops releases interest; a telling opening a next orthogonal carries it on. A next interesting is the only next carrying each existing thing on. Suspense is a telling at an odd spiral, winding on at no parity, a coupling carried along it and locking at none.
 
 **A familiar word offered bare brings its own settled meaning, and its coupling stops there.** Bounding surrounds a region, the near of its idea, the stretch of its edge and its bounding, so an other has the region to couple to. **Speed is at a binary edge**: yes, that region, and here is a next bound, a parity and a clear next with no size.
 
@@ -373,7 +373,7 @@ Exhibit TWELVE Natural Explaining v378
 
 **A common thing opens at each offering its own.** A common thing reached ahead of that arrives at a region already occupied by whoever reached it: *here is mine, now yours* opens a fresh region, and *tell me yours* first opens a taken one. *Tell*, as a demand, is alternating stopped, a one-way utterance, and a telling carries alternating, each side offering its own at its own opening.
 
-**Importancing is one move at each of its membranes**, a music, a film, a poem, a joke: a self surrounds and bounds, other selves couple to both, and its surplus is a shared experience each self carries with others.
+**Importancing is one move at each of its membranes**, a music, a film, a poem, a joke: a self surrounds and bounds, other selves couple to both, and its abundancing is a shared experience each self carries with others.
 
 **Receiving is a competency equal to offering.** Appreciating couples to an other's offering at three sides: a boundary surfacing at a self receiving, that self's own carrying shown, and that carrying offered across as worth the other's knowing. Taste is receiving at an offering's own edge.
 

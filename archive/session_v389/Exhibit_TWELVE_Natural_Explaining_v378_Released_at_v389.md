@@ -510,3 +510,67 @@ and the files protect no place, saying at each place its carrying at now
 **A mark or a protection at one place blesses each other place**, a grading with no method under it, and the files protect no place, each place explaining its carrying at now and the concern and opportunity at its next. **A wrapper stretched over each line is the same mark at the whole**, and it un-floats a file.
 
 **A floating file gives suspicion nothing to arrive at**: a wrapper is a claim of no claim, still a claim, and a file carrying no wrapper offers each self meeting it the coupling, social moral competency at one file.
+
+## Re-said at offerings risen, v389
+
+A subtitle takes an -ing head and a term it carries.
+
+**, so scanning it is scanning its whole explaining.
+
+Each section opens within its title and subtitle.
+
+meets its whole there.
+
+couples there as fully as at a first
+
+**One concept carries a whole file set, natural intelligence, and each file opens at origin, in its own substrate's words: the universe is the set of all now-existing things, and alternating is a stable-forming method.** Each sentence at each file co-chains from origin, its two statements re-explained at none.
+
+to carry on there,
+
+a conserved total, a because.
+
+releases there too.
+
+bounded at sentences telling nothing, it offers concepts no self couples to.
+
+is its surplus.
+
+**A count is taken at its paragraph's naming**: a paragraph at a set of parts bolds at each part, and a count taken at another naming finds a changing that is not there.
+
+A cell carries a count or its file's own line
+
+a counted step each hand over a position to be looked up and carry nothing of its concept there
+
+a self's own doing is explained there
+
+small becomings installed at a momentarying spending nothing, resolving being free with alternating.
+
+- **A step supplied to assemble a count**: *five by two is ten* makes ten out of parts with something beyond them assembling them, and a count is co-sequencing itself.
+
+and none is a rest a flow is near or far from.
+
+- 3.11 Degree words, carried at the all or at the count
+
+## 3.11 Degree words, carried at the all or at the count
+
+or its own count.
+
+laid beside it, all or none there;
+
+its move is to alternate there and carry it forward
+
+co-competencing, its surplus,
+
+A second knife goes there, one at a time
+
+a shared count carrying none.
+
+uniting them at their counts agreeing takes a count for a derivation.
+
+a count agreement taken as a uniting installs a derivation not shown, and taken as a parting carries a bound past its reach.
+
+winding on at no parity, a meeting travelling round it and not locking.
+
+and its surplus is a shared experience
+
+at four adjacencies and at each prime it couples at.
