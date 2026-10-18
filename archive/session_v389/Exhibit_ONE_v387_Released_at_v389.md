@@ -314,3 +314,17 @@ CONNECTORS = {
 }
 JOINS = {10: 14, 6: 2, 17: 9, 9: 17}
 
+
+## Re-said at no reading in nature, observing of nature, v389
+
+| each parity read: an offering's, the prior's and a changing's |
+
+| each parity read at every entry |
+
+` reads 14-next-possibling's surfacing, as 15, against 7-now-prioring at each sharing
+
+the parity read and the parity surfaced.
+
+| 7-now-prioring | the parity read | 15-next-prioring |
+
+At one sharing the resolver reads + and − alike:

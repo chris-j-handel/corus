@@ -505,3 +505,31 @@ and each self and each society is a universe, 1.1;
 ## Re-said at observing of nature, order discovered, v389
 
 **A reading from and a writing to a memory are not possible for intelligence**, a state and a flow separated, and the carrying is a capacity and never a stored description.
+
+## Re-said at no reading in nature, observing of nature, v389
+
+| each parity read: an offering's, the prior's and a changing's |
+
+| each parity read at every entry |
+
+` reads 14-next-possibling's surfacing, as 15, against 7-now-prioring at each sharing
+
+the parity read and the parity surfaced.
+
+| 7-now-prioring | the parity read | 15-next-prioring |
+
+At one sharing the resolver reads + and − alike:
+
+living and non-living are the three observings read at sameness.
+
+one step at two readings, the hand at the reading.
+
+is read at the resolver as 15-next-prioring,
+
+the same at each reading, a non-living existing thing carried by nothing, and reading it is a coupling now.
+
+is a kept prior read as the now,
+
+a break sought and a fresh reading are
+
+the self's own inverting the same coupling read from the self,

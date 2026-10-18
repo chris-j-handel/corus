@@ -101,7 +101,7 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | 4 | **4-now-co-still-possibling** | now, the self's span | even, possibling | between two | each sharing at which the offerings and the prior meet, and at the society each self at its names 6, 10 and 9 |
 | 5 | **5-now-co-changing** | now, the self's span | odd, existing | between two | the releasings, each releasing sharing with the self it arrives at |
 | 6 | **6-now-co-possibling** | now, the self's span | even, possibling | between two | each sharing's changing shared across, to another self's 2 |
-| 7 | **7-now-prioring** | now, the self's span | odd, existing | one | each parity read: an offering's, the prior's and a changing's |
+| 7 | **7-now-prioring** | now, the self's span | odd, existing | one | each parity prioring: an offering's, the prior's and a changing's |
 | 8 | **8-now-still-possibling** | now, the self's span | even, possibling | one | each self's next prior, beside the other selves' |
 | 9 | **9-next-co-changing** | next, the society's span | odd, existing | between two | each changing released, along at 9 and across at 6 and 10, to the self 5 names |
 | 10 | **10-next-co-possibling** | next, the society's span | even, possibling | between two | each sharing's changing, + or − is and 0 is not, shared across to another self's 14 |
@@ -149,11 +149,11 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | now | 1-now | the self's momentary entered | 2-now-possibling | the offerings arriving, the others' changings of their prior momentary |
 | existing | 3-now-co-prioring | the prior at its sharings, each with its parity | 4-now-co-still-possibling | each sharing as a place, no parity at it |
 | same | 5-now-co-changing | each releasing to the self receiving it at the same sharing | 6-now-co-possibling | the changings shared across, + or − at a changing and 0 at none, another self's offerings |
-| all | 7-now-prioring | each parity read at every entry | 8-now-still-possibling | each self's own next prior, one beside the others |
+| all | 7-now-prioring | each parity prioring at every entry | 8-now-still-possibling | each self's own next prior, one beside the others |
 
 **At the society's span the four stand with now and same exchanged**: now between two at 9-next-co-changing and 10-next-co-possibling, one now shared by selves, and same at one at 13-next and 14-next-possibling, each self's sameness its own.
 
-**The now-self at one line.** At 12-next-co-still-possibling the line `if _15_next_prioring != 0 and (_15_next_prioring > 0) == (_7_now_prioring > 0)` reads 14-next-possibling's surfacing, as 15, against 7-now-prioring at each sharing of 3-now-co-prioring: the now-self, now-prioring and next-possibling, at one line, its sign 0, the prior kept, or ±, the prior inverted. Same and not-same are that sign at the two betweens, 12 and 14, and need no name of their own.
+**The now-self at one line.** At 12-next-co-still-possibling the line `if _15_next_prioring != 0 and (_15_next_prioring > 0) == (_7_now_prioring > 0)` is 14-next-possibling's surfacing, as 15, agreeing or not with 7-now-prioring at each sharing of 3-now-co-prioring: the now-self, now-prioring and next-possibling, at one line, its sign 0, the prior kept, or ±, the prior inverted. Same and not-same are that sign at the two betweens, 12 and 14, and need no name of their own.
 
 **Is or is not at the lines.** Each is or is not at the lines is at 1-now, three at 14-next-possibling, one at 12-next-co-still-possibling and one at 11-next-co-prioring, and one at 17-next-now, a self's name between selves among 5-now-co-changing or not; 9-next-co-changing has none, giving each changing on as it is, a 0 among the parities.
 
@@ -419,14 +419,14 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | 17 | Prior and next | the society's next momentary, the next now, each self's 1 then 9 at 6, 10 and 9 |
 | 17 | 1 to 17s inward and outward | 1–17s inward 17 of the 8th and 1 of the 9th, along, odd, now, and at the 1–17 outward 3, odd, now |
 
-**The odd names, now and 8 up at next.** Each odd name of the self's span is the same at next, 8 up: the prior received and the next prior, the receiving and the releasing, the parity read and the parity surfaced.
+**The odd names, now and 8 up at next.** Each odd name of the self's span is the same at next, 8 up: the prior received and the next prior, the receiving and the releasing, the parity prioring and the parity surfaced.
 
 | Now | Received | Next, 8 up | Given on |
 |---|---|---|---|
 | 1-now | the resolver entered | 9-next-co-changing | the resolver going on, each changing released along |
 | 3-now-co-prioring | the prior at its sharings | 11-next-co-prioring | the next prior |
 | 5-now-co-changing | the receiving sharing | 13-next | the releasing sharing, each self at the society |
-| 7-now-prioring | the parity read | 15-next-prioring | the parity surfaced and released |
+| 7-now-prioring | the parity prioring | 15-next-prioring | the parity surfaced and released |
 
 **Namings among the names.**
 
@@ -534,7 +534,7 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 | +, −, + | 0 |
 | 0, + | + |
 
-**+ and − alike.** At one sharing the resolver reads + and − alike: each cell with + and − exchanged is that cell exchanged, at a prior and at no prior; and no line makes a prior 0, a 0 at 10-next-co-possibling leaving the prior at 11-next-co-prioring as it was.
+**+ and − alike.** At one sharing the resolver resolves + and − alike: each cell with + and − exchanged is that cell exchanged, at a prior and at no prior; and no line makes a prior 0, a 0 at 10-next-co-possibling leaving the prior at 11-next-co-prioring as it was.
 
 **One self, one momentary.**
 
