@@ -430,3 +430,45 @@ Pluralizing unanimity alternating unanimizing plurality is the social bothbothin
 The society has sought stillness at its own scale, and each vein answers with the sway. Market equilibrium: bubbles and crashes, the clearing not at once, the Walrasian network's own record. Nash: real play cycles and both rise. The NAIRU: a rate held to govern and the living economy swaying about it. Social order: made in the keeping, not a state reached. The balance of power: arms races, the balance an alternating observed as a standing. The institutional: standing by renewal. Traffic: phantom jams, the flow's own waves. And reputation and trust: made in the meeting, re-earned at each coupling, held by no store. Every vein one finding: the still point sought is a sway holding, at the social scale the same as at every other.
 
 **And the veins gather to one finding at seven registers.** At every substrate worked, the field sought stillness and every vein answers with the sway — dynamic equilibrium half-confessed, allostasis the move off the point, the hedonic treadmill the return, the limit reached only at infinity — the still point sought a sway holding at the physical, the chemical, the living, the lived, the social, the human, and the mathematical scales alike. One finding, the fields' own confessions carrying it, standing as the one-axis evidence at every scale.
+
+## Re-said at offerings risen, v389
+
+each living by making and releasing in relation.
+
+**No lag stands and no center.**
+
+Below an atom co-agency exists bare — offering, passing, parity — and no self closes around it.
+
+biosphere at fifty-three the widest society at it and not the last.
+
+its torus-close, past which arrives a not-torus death |
+
+riding the carry, surplus a +1 owned neither-ing.
+
+held at its shape and not a dated instance.
+
+a former free-living self now a member: fractal's own move, observed |
+
+its turning is what makes a flow that sets a body's left.
+
+Arrow's theorem is a dead state's own confession:
+
+Institutions ordered around four sentences carry a natural torus's structure:
+
+5.5 The four boundings at both faces, and self, other and society at all scales
+
+5.6
+
+## 5.5 The four boundings at both faces
+
+a decomposer is a return-move that closes its loop.
+
+**At a between a coupling resolves.**
+
+differing within its carry the co-intelligencing.
+
+a self that is only a self, no society within, is a landed point, a bound with nothing living in it — both dead forms.
+
+**The relation kept is a society self-stilling at its own scale**, birthing and nyeing alternating,
+
+Identity, security, trust, and freedom from capture — four met from within a self and the same four met at a surface between selves.

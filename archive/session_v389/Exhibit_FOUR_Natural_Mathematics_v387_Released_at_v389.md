@@ -378,3 +378,47 @@ and naming the inversion still names the fixed set.
 **Finite simple groups are eighteen infinite families and twenty-six sporadic groups.** Simple groups that commute are the cyclic groups of prime order, and the alternating groups from five on are simple.
 
 **The largest sporadic group's order carries fifteen primes, two to seventy-one**: of the seventeen from two to fifty-nine each except thirty-seven, forty-three and fifty-three, and seventy-one. Its smallest faithful representation has dimension 196,883, and the modular function's coefficient at the first power is 196,884, one more, the one being the representation that moves nothing. The modular function takes one value at each torus a lattice folds the plane into, and two such tori are one up to rotation and scaling exactly at its taking one value at both.
+
+## Re-said at offerings risen, v389
+
+An icosahedron and a dodecahedron carry thirty edges each, each edge of one crossing one edge of the other.
+
+**Its vertices are at (0, ±1, ±φ) and their cyclic orderings, and its group is the alternating group on five.**
+
+an exchange and an inversion in an other order, 3.4.
+
+**The torus is the genus-one closed orientable two-dimensional compact surface**: closed, bounding itself on itself; orientable, its two sides kept apart throughout; two-dimensional; compact, a bounded self finite; genus one,
+
+(1, 0) to (1, 1) continuing its first parity
+
+its diagonal φ times its side.**
+
+**Couplings among five are ten, C(5, 2), each a transposition: taken twice it gives its order again, and it fixes its other three.**
+
+three conservings, two totals modulo three and modulo two and one parity, none of them a size.
+
+**A cube carries eight vertices, twelve edges and six faces, twenty-four rotations, and forty-eight with twenty-four reversing its hand.**
+
+the identity's pole.
+
+**Each two-colouring of couplings among forty-six carries a one-coloured five, and a two-colouring of couplings among forty-two carries none.**
+
+**A logic that admits no completed infinite, intuitionistic logic, asserts the excluded middle at each finite, decidable matter and not over an infinite domain**
+
+A frame given: axes handed over, which way is up decided for a self.
+
+**A half step carries the relation**: along each side's two momentaries
+
+- 2.4 Two parities at the right spiral step, the step that takes nothing away
+
+## 2.4 Two parities at the right spiral step, the step that takes nothing away
+
+Only two take no prior away, change one parity and undo none
+
+their doubling an emanation, existing and non-living
+
+Orienting floats renewed at each arriving, no origin and no facing fixed across the couplings: one fixed direction is not perpendicular to each direction at once, being along itself, and facing into an arriving knows no next parity.
+
+**In Zermelo–Fraenkel set theory, each set is exceeded by the set of its subsets, and all sets together form no set.**
+
+and the universe is a set of existing things.

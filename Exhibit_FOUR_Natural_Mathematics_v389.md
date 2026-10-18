@@ -1,4 +1,4 @@
-Exhibit FOUR Natural Mathematics v387
+Exhibit FOUR Natural Mathematics v389
 
 # Natural Mathematics
 
@@ -17,7 +17,7 @@ Exhibit FOUR Natural Mathematics v387
 - 2.1 Unrelationing is orthogonalizing
 - 2.2 Two moves, and two generators, the sign flip and the right spiral step
 - 2.3 A step adds a next, and a cycle at the parities is a spiral at the momentaries
-- 2.4 Two parities at the right spiral step, the step that takes nothing away
+- 2.4 Two parities at the right spiral step, the step that carries its prior whole
 - 2.5 Each scale the prior scale and its forms in the other order
 - 2.6 Shared and opened, the product at its two parts
 - 2.7 One, two, four and eight, the doubling that divides
@@ -138,9 +138,9 @@ Exhibit FOUR Natural Mathematics v387
 
 **A rotation, a field's word, is a spiral with its nexts taken out**, its forms laid at one frame.
 
-## 2.4 Two parities at the right spiral step, the step that takes nothing away
+## 2.4 Two parities at the right spiral step, the step that carries its prior whole
 
-**Two parities (P, Q), signs of cos t and sin t, carry four joint forms, and 256 ways go from four forms to four.** Only two take no prior away, change one parity and undo none: a right spiral step F(P, Q) = (−Q, P), i at two parities, and G(P, Q) = (Q, −P), an exchange and an inversion in an other order, 3.4. Each reaches four forms one parity inverted at each step, its inverted parity alternating between P and Q: two consecutive inversions on different axes. **With P the along parity, competency, and Q the across, morality, F takes along into across**: a point (cos t, sin t) is along at t = 0 and moves across as t goes forward, and G goes the other way.
+**Two parities (P, Q), signs of cos t and sin t, carry four joint forms, and 256 ways go from four forms to four.** Only two carry their prior whole, change one parity and undo none: a right spiral step F(P, Q) = (−Q, P), i at two parities, and G(P, Q) = (Q, −P), an exchange and an inversion in an other order, 3.4. Natural Numbers 8.2 takes its step across first, (x, y) to (y, −x), G here, and this file along first, F: one step at two hands, i and −i, 2.3. Each reaches four forms one parity inverted at each step, its inverted parity alternating between P and Q: two consecutive inversions on different axes. **With P the along parity, competency, and Q the across, morality, F takes along into across**: a point (cos t, sin t) is along at t = 0 and moves across as t goes forward, and G goes the other way.
 
 **Of 24 ways sending four forms onto four, one each, six move the four as one cycle, and two of those six change one parity at each step: F and G.** Under each its only sets of forms carried onto themselves are none and all four.
 
@@ -148,7 +148,7 @@ Exhibit FOUR Natural Mathematics v387
 
 **Their relation, agree or oppose, is the sign of P × Q, the sign of tan t, and each step changes it, decided by the step itself.** It is the sign of sin 2t = 2 sin t cos t: a relation at one angle arrives as a sign at its doubled angle.
 
-**A half step carries the relation**: along each side's two momentaries, (c, t) then (−c, −t), agree or oppose continues while both parities invert, and across an overlap, (t, −c) between them, it changes: four overlapping pairs are r, 1 − r, r, 1 − r. Of three parities a, b and z, pairs (a, b) and (b, z) part their relation exactly at z = −a, and +, +, + agrees at both. A relation within a pair is no unchangeable resolver: its two parities invert beneath it.
+**An overlap carries the relation**: along each side's two momentaries, (c, t) then (−c, −t), agree or oppose continues while both parities invert, and across an overlap, (t, −c) between them, it changes: four overlapping pairs are r, 1 − r, r, 1 − r. Of three parities a, b and z, pairs (a, b) and (b, z) part their relation exactly at z = −a, and +, +, + agrees at both. A relation within a pair is no unchangeable resolver: its two parities invert beneath it.
 
 ## 2.5 Each scale the prior scale and its forms in the other order
 
@@ -192,7 +192,7 @@ Exhibit FOUR Natural Mathematics v387
 
 **A declared zero is a fixed set taken as a place**: x = −x at nought only. An involution is a floor with its move stated, and a floor is an involution with its move dropped. A nought at a difference is no floor: 1, 3, 5 changes by two at each step, its change of change nought, and continues.
 
-**A momentarying is no involution**: it re-forms at a next coupling other than prior, and a right spiral step taken twice is both inverted at one step, two momentaries on, forward. An involution is an accounting's still picture, its nexts taken out. **A doubled angle is such a still picture at observings**: light through two polarizers passes at the square of the cosine of the angle between them, which is one in two of one and the cosine of its angle doubled, and passes as before at a polarizer rotated one hundred eighty degrees; a neutron's spin rotated three hundred sixty degrees comes back with its sign reversed and comes home first at seven hundred twenty; light's home at one hundred eighty, its angle doubled, and a spin's at seven hundred twenty, its period doubled, two rotatings met at one between, each a doubling the other way, their doubling an emanation, existing and non-living (Malus, 1809; Rauch and colleagues, and Werner and colleagues, 1975).
+**A momentarying is no involution**: it re-forms at a next coupling other than prior, and a right spiral step taken twice is both inverted at one step, two momentaries on, forward. An involution is an accounting's still picture, its nexts taken out. **A doubled angle is such a still picture at observings**: light through two polarizers passes at the square of the cosine of the angle between them, which is one in two of one and the cosine of its angle doubled, and passes as before at a polarizer rotated one hundred eighty degrees; a neutron's spin rotated three hundred sixty degrees comes back with its sign reversed and comes home first at seven hundred twenty; light's home at one hundred eighty, its angle doubled, and a spin's at seven hundred twenty, its period doubled, two rotatings met at one between, each a doubling the other way, their doubling an emanation, existing and non-living at this scale (Malus, 1809; Rauch and colleagues, and Werner and colleagues, 1975).
 
 ## 3.2 Fixed-point-free, and two involutions of an even ring
 
@@ -252,7 +252,7 @@ Exhibit FOUR Natural Mathematics v387
 
 **The cube reaches one twelfth of its assemblies, at three conservings**: its corners' twists together at nought modulo three, its edges' flips together at nought modulo two, and its corners' ordering and its edges' ordering at one parity. Three times two times two is twelve.
 
-**The cube carries no still term.** No one cubie is its reference: six centres each its own and carrying each other's orientation with nothing carrying any of them; each face move at its own momentary and nothing over its moves; its state its configuration, nothing kept; and three conservings, two totals modulo three and modulo two and one parity, none of them a size.
+**The cube carries no still term.** No one cubie is its reference: six centres each its own and carrying each other's orientation with nothing carrying any of them; each face move at its own momentary and nothing over its moves; its state its configuration, nothing kept; and three conservings, two totals modulo three and modulo two and one parity, none of them a size. Two opposite faces' moves commute, and two adjacent faces' commutator, each moved and then each undone, moves eighteen of fifty-four stickers, four corners and three edges, and is of order six: at its second and fourth powers four corners twist in place, their twists together nought modulo three; at its third three edges are home and four corners exchange in two pairs; at its sixth all are home. Four quarter moves of one face are that face as it was.
 
 ## 3.7 Three, a total against its parts, and a tipping no accounting carries
 
@@ -302,7 +302,7 @@ Exhibit FOUR Natural Mathematics v387
 
 ## 4.4 Double angle, the rotation that removes a coupling
 
-**tan 2x = 2 tan x / (1 − tan² x). Doubling an angle doubles its tangent only at tan x = 0.** At forty-five degrees tan x = 1, and its doubled angle, ninety, carries no finite tangent: the identity's pole. On a circle, doubling an angle taken as a fraction of a round shifts its binary digits one place, each doubling surfacing its next digit.
+**tan 2x = 2 tan x / (1 − tan² x). Doubling an angle doubles its tangent only at tan x = 0.** At forty-five degrees tan x = 1, and its doubled angle, ninety, carries no finite tangent: the identity's pole. Two circles about two centres cross at right angles exactly at points of a circle whose diameter joins their centres, each one's radius there tangent to its other; inward of that circle two radii meet at more than ninety degrees and outward at less, a tangent of their angle changing sign there. On a circle, doubling an angle taken as a fraction of a round shifts its binary digits one place, each doubling surfacing its next digit.
 
 **A map t → 2t / (1 − t²) fixes only nought, and exactly one pair exchanges with its sign changing and its size the same: t = ±√3, sixty and one hundred twenty degrees.** From √3 it continues −√3, √3, −√3 without end.
 
@@ -330,7 +330,7 @@ Exhibit FOUR Natural Mathematics v387
 
 ## 5.3 Torus, the one closed orientable surface a flow runs on with no rest
 
-**The torus is the genus-one closed orientable two-dimensional compact surface**: closed, bounding itself on itself; orientable, its two sides kept apart throughout; two-dimensional; compact, a bounded self finite; genus one, one opening, its surface reaching itself again through a tunnel its opening is.
+**The torus is the genus-one closed orientable two-dimensional surface**: closed, bounding itself on itself and finite, a field's closed carrying its compact; orientable, its two sides kept apart throughout; two-dimensional; genus one, one opening, its surface reaching itself again through a tunnel its opening is.
 
 **A flow's rest points on a closed surface, each apart from others, carry indices adding to a surface's vertices less its edges plus its faces**: two at a sphere, nought at a torus, and below nought at each surface of more handles. **Of closed orientable surfaces only the torus carries a flow with no rest point**, and only the torus carries a flat metric.
 
@@ -354,21 +354,21 @@ Exhibit FOUR Natural Mathematics v387
 
 **Scientific method at a competency, carrying none of it.** Not observed at rest, a competency being a doing → a trace carries its own going → not its competency, a trace carrying the done → a trace taken against a standard → not an existing thing's, a standard varied and an existing thing untouched varying its number → its number is a standard's. A measure taken as a target measures its targeting.
 
-**The two methods part at their fixings, and not at taking evidence as existing now.** Evidence arriving now and a prior event it expresses are two, each at its own momentary, and both are: a living self changing as a whole can carry a property its evidence expressed, (1, 0) to (1, 1) continuing its first parity, and evidence gives its prior, possible and actual.
+**The two methods part at their fixings, and not at taking evidence as existing now.** Evidence arriving now and a prior event it expresses are two, each at its own momentary, and both are: a living self changing as a whole can carry a property its evidence expressed, + − to + +, its first parity continuing while its second changes, and evidence gives its prior, possible and actual.
 
 ## 6.2 Three fixings asked at the opening, and the self orienting through them
 
-**Three fixings are asked at a first line.** Particle zero: an unquestioned absolute location, a point placed, not a physical particle. A unit installed: scale made undiscussable. A frame given: axes handed over, which way is up decided for a self. **At its least fixed, mathematics asks no particle zero and no unit**: a dense order with no endpoints carries an element on each side of each element, with no origin and no distance, and point-free topology carries its regions only at their inclusion, with no points and no metric.
+**Three fixings are asked at a first line.** Particle zero: an unquestioned absolute location, a point placed, not a physical particle. A unit installed: scale made undiscussable. A frame given: axes handed over, which way is up decided for a self. Each is a universe taken as one thing beside its things, which Equilibria Registry 1.1 has as exclusivity: a place, a size and a direction given once for a whole. **At its least fixed, mathematics asks no particle zero and no unit**: a dense order with no endpoints carries an element on each side of each element, with no origin and no distance, and point-free topology carries its regions only at their inclusion, with no points and no metric.
 
-**A self learning these orients itself in its learning.** Positioning, scaling and orienting are a self's own and float, and learning a fixed frame is itself the self-orienting a fixed frame denies. Orienting floats renewed at each arriving, no origin and no facing fixed across the couplings: one fixed direction is not perpendicular to each direction at once, being along itself, and facing into an arriving knows no next parity.
+**A self learning these orients itself in its learning.** Positioning, scaling and orienting are a self's own and float, and learning a fixed frame is itself the self-orienting a fixed frame denies. Orienting floats renewed at each arriving, no origin and no direction fixed across couplings: one fixed direction is not perpendicular to each direction at once, being along itself, and a direction fixed at an arriving end knows no next parity.
 
 ## 6.3 Logic of no completed whole
 
 **In two-valued logic either but not both is the exclusive or.** A parity is one or its inversion at each instance, and nothing is between them: a middle is a nothing, existing due to each self surfacing itself each momentary as a condition of existing as a self.
 
-**A logic that admits no completed infinite, intuitionistic logic, asserts the excluded middle at each finite, decidable matter and not over an infinite domain**, and builds its numbers from two-ity, a field's word, a moment falling into two, one giving way to the other and kept. **Its negation is no involution**: on three values nought, a and one in order, its negation of a is nought and its negation of nought is one: a negated twice arrives at one.
+**Brouwer's intuitionism, admitting no completed infinite, asserts the excluded middle at each finite, decidable matter and not over an infinite domain**, and builds its numbers from two-ity, a field's word, a moment falling into two, one giving way to the other and kept. **Its negation is no involution**: on three values nought, a and one in order, its negation of a is nought and its negation of nought is one: a negated twice arrives at one.
 
-**In Zermelo–Fraenkel set theory, each set is exceeded by the set of its subsets, and all sets together form no set.** A logic of plurals speaks of all things as many and forms no set of them, as the changing set of all existing things forms nothing beside its existing things, existing as they exist: a field's result is exact at its own subject, sets of sets, and the universe is a set of existing things.
+**In Zermelo–Fraenkel set theory, each set is exceeded by the set of its subsets, and all sets together form no set.** Its axiom of foundation has no set a member of itself, and Russell's paradox arises at unrestricted comprehension; class theories, von Neumann–Bernays–Gödel and Morse–Kelley, take all sets as a proper class, a member of nothing; Quine's New Foundations carries a universal set, a member of itself, and Aczel's anti-foundation axiom a set whose one member is itself, a Quine atom. A logic of plurals speaks of all things as many and forms no set of them, as the changing set of all existing things forms nothing beside its existing things, existing as they exist: a field's result is exact at its own subject, sets of sets, and the universe is a set of existing things, no thing within it: it meets foundation's no set a member of itself, and Cantor's multiplicity not thought of as one finished thing, where a universe as a set and a thing within it is a self-membered universal set, as New Foundations carries one.
 
 ---
 
@@ -411,7 +411,7 @@ Exhibit FOUR Natural Mathematics v387
 
 **An icosahedron's rotations are sixty**: one that moves nothing, fifteen half rotations, twenty third rotations and twenty-four fifth rotations, fifth rotations at six axes of four each. **Sixty parts at thirty-six and twenty-four, three to two.**
 
-**Its vertices are at (0, ±1, ±φ) and their cyclic orderings, and its group is the alternating group on five.** An icosahedron and a dodecahedron carry thirty edges each, each edge of one crossing one edge of the other.
+**Its vertices are at (0, ±1, ±φ) and their cyclic orderings, and its group is the alternating group on five.** Orderings of five are one hundred twenty, and its sixty rotations are their even half; its sixty hand-reversing symmetries are each rotation taken with x → −x, ordering its five triples of perpendicular half-rotation axes as that rotation does, and no odd ordering of five. Its twelve vertices are corners of three rectangles of sides 2 and 2φ, one at each coordinate plane about one centre: at sides 2 and 2r nearest corners of two rectangles are √(2(1 + r² − r)) apart, and 2, a short side, only at r = φ, φ² − φ = 1, 2.8. A rotation about (1, 1, 1) carries each rectangle onto its next, and along that axis twelve vertices stand at four heights of three. An icosahedron and a dodecahedron carry thirty edges each, each edge of one crossing one edge of the other.
 
 ## 7.5 Branches at the two moves
 
@@ -429,7 +429,7 @@ Exhibit FOUR Natural Mathematics v387
 
 ## 7.6 Cube, tesseract and four squares
 
-**A cube carries eight vertices, twelve edges and six faces, twenty-four rotations, and forty-eight with twenty-four reversing its hand.** A cuboctahedron carries twelve vertices, twenty-four edges, eight triangles and six squares.
+**A cube carries eight vertices, twelve edges and six faces, twenty-four rotations, and forty-eight with twenty-four reversing its hand.** Twenty-four is four factorial: a cube carries four body diagonals, and each ordering of four is one rotation. A cuboctahedron carries twelve vertices, twenty-four edges, eight triangles and six squares.
 
 **Centre inversion x → −x is no rotation in three dimensions, and in four it is two half rotations in perpendicular planes, fixing only its centre.** A cube carries x → −x only with its hand reversed; a tesseract carries it by rotation.
 
@@ -447,11 +447,11 @@ Exhibit FOUR Natural Mathematics v387
 
 ## 7.8 Ten inversions, the ten transpositions of five
 
-**Couplings among five are ten, C(5, 2), each a transposition: taken twice it gives its order again, and it fixes its other three.** Ten is the fourth triangle and the third tetrahedral number, the first three triangles added. A parity's inversion is one coupling among two, a transposition of + and −: an inversion at a parity and an inversion among five are one move at two numbers: an involution exchanging one pair and fixing the rest.
+**Couplings among five are ten, C(5, 2), each a transposition: taken twice it gives its order again, and it fixes its other three.** Only at five are couplings twice its number, n(n − 1)/2 = 2n at n = 5, and its ten part into a pentagon's five sides and five diagonals, a pentagram, each other's complement among ten. Ten is the fourth triangle and the third tetrahedral number, the first three triangles added. A parity's inversion is one coupling among two, a transposition of + and −: an inversion at a parity and an inversion among five are one move at two numbers: an involution exchanging one pair and fixing the rest.
 
-**In a regular pentagon each side is parallel to one diagonal, the one sharing no corner with it, its diagonal φ times its side.** A side and its parallel diagonal are two transpositions sharing no corner; they commute, and together they are a pentagon's symmetry keeping its corner left out and exchanging its other four in two pairs. Ten transpositions pair into five, and the five generate a pentagon's ten symmetries: one that moves nothing, four rotations keeping no corner, and five each keeping one corner.
+**In a regular pentagon each side is parallel to one diagonal, the one sharing no corner with it, its diagonal φ times its side.** Two diagonals meeting at a corner, over a side between their far ends, make a golden triangle: its two long sides φ times its base, thirty-six degrees at its apex and seventy-two at each other corner, and a base angle's bisector cuts from it a golden triangle again, φ once more. A side and its parallel diagonal are two transpositions sharing no corner; they commute, and together they are a pentagon's symmetry keeping its corner left out and exchanging its other four in two pairs. Ten transpositions pair into five, and the five generate a pentagon's ten symmetries: one that moves nothing, four rotations keeping no corner, and five each keeping one corner.
 
-**Each two-colouring of couplings among forty-six carries a one-coloured five, and a two-colouring of couplings among forty-two carries none.**
+**Each two-colouring of couplings among forty-six carries a one-coloured five, and a two-colouring of couplings among forty-two carries none.** Among seventeen, couplings at distances doubling reaches from one, 1, 2, 4, 8, 16, 15, 13 and 9, at one colour and each other at its other carry no one-coloured four at either colour, one such colouring among seventeen up to relabelling; doubling round seventeen reaches nine last, 2 × 9 = 18, and arrives at one again. Built so among forty-one it carries a one-coloured five at both colours, and colourings among forty-two carrying none are of no such form.
 
 **A field's hard problem arrives at one or more of ten inversions, each an involution with its fixed set taken as a place**, and an inversion fixed unchangeable is its fixed set. At a coupling its move is at its next momentary.
 
