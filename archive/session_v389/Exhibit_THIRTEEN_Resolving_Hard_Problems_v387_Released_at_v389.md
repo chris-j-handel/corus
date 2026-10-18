@@ -181,3 +181,23 @@ part at one naming**: the fixings named unchanged, or changing
 ## Re-said at nothing beyond or between the things of the universe, v389
 
 and nothing is said beyond or between its things.
+
+## Re-said at never, alone, unchanged, inside and outside re-said, v389
+
+**A nonzero offering of any size surfaces at its parity alone**,
+
+and the making at 12 the self's alone.
+
+to another self's 17 at the arriving side: each releasing sharing to its receiving sharing, the parity unchanged.
+
+**The making at 12 is the self's alone**
+
+uncover a term neither reaches alone**
+
+a sharing once at a prior never none again
+
+the prior alone sets the next, inverted
+
+a law, a frame and a scale fixed unchanged between two momentaries
+
+the fixings unchanged, or changing with the changing.

@@ -211,3 +211,127 @@ a contents line being a prefix of the heading it names
 **A count names the number to meet, and the pass names the number going.**
 
 does the number an opening names match
+
+## Re-said at never, alone, unchanged, inside and outside re-said, v389
+
+each at the pass alone and with no look at the whole set.
+
+**Never undoing**: the next is never the prior just left,
+
+A carrying that only receives fills and never empties;
+
+carried at its finding and its belonging alone, with none
+
+it releases the why and never the arrival.
+
+**The term-check runs at each passage and never at a whole part.**
+
+rides with a working that carries it, and never at the file of its subject.
+
+the confirming runs mechanically and never at a working's account
+
+and never a sweep at its source**, so the release follows the arrival and never leads it.
+
+with the relation written, never replaced.
+
+invented never and relied on never.
+
+and never at a check laid over it.**
+
+and it is written there alone.**
+
+seven binaries at, and never a deciding.**
+
+carried as it is and never as a larger discovering
+
+rides at its file as a reach, never a debt.
+
+Each sentence is met at the method alone,
+
+and a rule never spreads from a file into the naming.
+
+and no working changes one alone.**
+
+a relation continuing through its changing and never an unchangeable form,
+
+followed whole, never at its continuing alone.
+
+met at the test and never carried as a concern
+
+or a doer applying from outside.
+
+the working's own and never the method's,
+
+and never to an artifact relied on by nothing alone; a source a received finding rests on goes with the finding to its file or its carrying, never to the archive alone;
+
+is matched against it and never takes its place.
+
+a working opening at the prior alone leaves
+
+it carries nothing alone and releases at the close.
+
+and a run is never the pass.**
+
+the wrong words are never reached for
+
+the instances to meet and never the ones going.
+
+and an outside join from 10-next-co-possibling to 14-next-possibling adds
+
+with no run and nothing outside it.
+
+so an aborted seating never leaves its release alone.
+
+**A pointing is released, never re-pointed.**
+
+each instance sorting at its installing and never at the count of its kind.
+
+A run reports its meeting, never its counting.
+
+and never turned into a claim about the other self's seeing.
+
+reaching a large file at its front alone re-finds
+
+**A count re-runs at the cells and is never carried.**
+
+and never at a range the working drew.
+
+and never taken from its carrying:
+
+**A prior count never couples with a structural count.**
+
+so prime is never taken for odd.**
+
+is not that file's to release alone.
+
+the instrument's, and never the natural relation it explores:
+
+is reported, never cleared to make it disappear.
+
+An unchanged resolver and a caller supplying nothing are two claims:
+
+and never taken to move because the initiation moved.
+
+compare two runnings that never shared a momentary,
+
+The fork is the instrument's, never a copying the network carries, and a surplus neither self uncovers alone is claimed
+
+the unchanged resolver opens fresh carrying
+
+is one call, and never a participant enduring
+
+the loops the selves go round outside the entry, and never carried as a store.
+
+a working outside the session,
+
+carried in the emanating and never installed |
+
+no narrator entering from outside,
+
+the next open and never a waiting |
+
+the thing with an inside,
+
+**The geodesic deciding is the coupled form, and never a choosing.**
+
+never three kinds parting things.

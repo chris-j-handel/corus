@@ -337,3 +337,129 @@ which the white paper already names this way:
 which is precisely the clock the time-axis reaching names:
 
 (the three technology inversions the measurement-resolving craft names)
+
+## Re-said at never, alone, unchanged, inside and outside re-said, v389
+
+- 3.7 A ratio unchanged across units, and drying rings anyone can check
+
+offered nothing or its own competency alone, it does not continue
+
+and its own parity changing alone crosses it
+
+the observer outside (the measurer stands apart from the measured)
+
+Observer stands outside requires
+
+arrives to the outside observer as "collapse,"
+
+the reason the search never lands the source.
+
+observed from inside the coupling.
+
+**So the search never lands it because
+
+source is a term standing outside — two refusals.
+
+**The count grew at an observing and never at a rule.**
+
+already at work inside physics,
+
+the whole cataloged from outside.
+
+never a landed center, riding the carry.
+
+held just inside the six's 30° self-limit
+
+(the half-59 break inside the six's limit)
+
+micro-motion never stops,
+
+the third law the bound never reached.
+
+the stillness a net and never a stopping.
+
+the alternating it reached for stillness inside,
+
+## 3.7 A ratio unchanged across units, and drying rings anyone can check
+
+Snap is never global-all-at-once:
+
+held by no outside floor but by
+
+not an outside force freezing it.
+
+when it insists the observer stands outside.
+
+Re-alternated with the observer inside the coupling,
+
+Resolved with the observer inside the coupling,
+
+brought onto the surface from outside — real and predictive as an outside observing,
+
+brought onto the coupling from outside. Arrow of time
+
+the magnitude is the tunnel's, brought from outside.
+
+exact and predictive as outside observings —
+
+so it is not a self bounding an inside from an outside but
+
+cancelling only measured whole from outside)
+
+with no inside held from an outside —
+
+(the neutron's inside not neutral)
+
+a sub-atomic thing that closes an inside from an outside,
+
+the electron by having no inside,
+
+driven by an outside force against their resistance, energy shoved in from outside.
+
+bringing the offering to fullness from outside
+
+pattern-matched onto the coupling from outside. Both great theories
+
+observed from outside as a curved geometry.
+
+the emptiness observed inside the hardest natural material.
+
+cosmology's move from inside,
+
+The field has begun, from inside, to pair
+
+a vacuum-energy stuff inside the horizon,
+
+strain the cosmic timeline from inside,
+
+not carried by the rotation curve alone —
+
+measured from inside the surface
+
+close outside the thing the resolving admits.
+
+**And the identity was never in the image.**
+
+**nothing stands inside either.**
+
+A regress wants a floor it never reaches;
+
+the divergence belongs to the placing and never to the world.
+
+observed from inside the frame as geography
+
+as exact outside observings;
+
+A frame standing outside: relativistic
+
+both under a frame claimed outside.
+
+pattern-matched onto it from outside. Offered freely
+
+toward one relation from inside the field.
+
+couplings found inside it resolves
+
+is the seating and never the resolving,
+
+at an arriving held from behind alone.

@@ -305,3 +305,87 @@ The file names the doubled angle a still picture at the observings
 the ladder names particular scales and supplies
 
 and the drawing names no rate of the living.
+
+## Re-said at never, alone, unchanged, inside and outside re-said, v389
+
+and next as prior inverted alone carries the prior whole
+
+four pattern-match from now alone;
+
+four from now alone and eight at one value of now
+
+A matching number alone establishes none.
+
+and the prior carries on unchanged, Resolving Hard Problems 3.3.
+
+the living step's form carried alone, next as prior inverted
+
+carries the living step's form alone and does not continue
+
+a matching number alone establishes no correspondence.
+
+below a line it never meets,
+
+the φ winding never closing.
+
+and the rotation alone does not make it.
+
+the equal edge at φ alone;
+
+a single corner twisted alone is reached by no sequence
+
+the whole catalogued from outside;
+
+Installs four sizes numbered from outside.
+
+or the circle inside.
+
+and the emptiness inside the hardest natural material,
+
+comes home at seven hundred twenty alone,
+
+each side alone at one parity
+
+reaching for a location the making never had.
+
+the society it was posted outside of,
+
+and not either neuron alone;
+
+the rest that was never resting,
+
+the coupling at the between lived and never audited.
+
+a co-resonance and never a lock admitting a key;
+
+against a beat clocked from outside;
+
+the clearing never at once,
+
+neither testing alone;
+
+pattern-matched onto the coupling from outside;
+
+proven to converge by the couplings alone;
+
+a level a direction at a changing and never a place;
+
+to put the paradox outside the domain meeting it again.
+
+arriving never built out of the parts
+
+carrying a parity changing and nothing else, never a place a line could sit
+
+**From inside and from outside.** From inside the view
+
+from outside the view is the society at 17,
+
+and the society seen from outside is one self
+
+An animation from inside is one row of an execution's output; from outside, the output whole, observed down; and the two are one method at two scales, never two pictures of one momentary.
+
+and a larger group alone supplies no law
+
+From inside, one member's contact; from outside, the society as one self.
+
+then its file's carrying, and never a drawing as the files' own.

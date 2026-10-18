@@ -93,3 +93,61 @@ A ring names a domain closed and the numbers' podaling ring
 Each use names its scale:
 
 **Bi-tunneling names social moral competency at its across relation; co-chaining names the same continuing at its along relation.
+
+## Re-said at never, alone, unchanged, inside and outside re-said, v389
+
+- 5.5 One ten at its two sides, at five alone
+
+A counting adds a clock from outside the running,
+
+One side's momentaries alone, each number one side's, is exclusivity
+
+Each step alone comes to its number again at two
+
+and the ratio at its own numbers alone.
+
+**The doubling and the tripling reach each other at one alone**
+
+coheres with its own reaching and never with the number**
+
+φ is the number-form of the never-locking,
+
+The now alone at +1 closes at one
+
+the prior alone at +1 closes at two
+
+the prior two added, and never close, their ratios opening at φ
+
+closes at one, two, three, four or six alone, or is open
+
+## 5.5 One ten at its two sides, at five alone
+
+The two sides are one number at five alone above nought
+
+the tens part at the opening's parity alone, the two origins.
+
+A nine taken in base ten alone,
+
+its first step three times alone:
+
+**Five and fifty-three alone carry a matching pair**
+
+eight at one and seven at the other, and never to the primes' parity.
+
+a next at each arriving, never by stopping and going back to it.
+
+two alone answer each single changing with a changing
+
+**Podal competency is the straddle and never the pairing.**
+
+**Two alone of the seventeen is at an even radius**
+
+the two progressions share four alone,
+
+At the nine alone among the spans,
+
+matching numerals alone coupling no relations.
+
+the earlier carrying carried on and never restored.
+
+are two runnings, sharing their digits alone.**

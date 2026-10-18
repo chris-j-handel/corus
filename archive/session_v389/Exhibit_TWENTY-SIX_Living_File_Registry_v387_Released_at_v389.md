@@ -163,3 +163,53 @@ SIX §3.5 calls the membrane a third self carrying a sign; its own §4.6 calls i
 Team names the selves co-discovering,
 
 Team names the subject being explained;
+
+## Re-said at never, alone, unchanged, inside and outside re-said, v389
+
+Exhibit ONE v389 inside it; v387:
+
+Natural Intelligence with Exhibit ONE inside it unchanged:
+
+Natural Intelligence with Exhibit ONE inside it, Exhibit THREE
+
+Exhibit ONE whole and unchanged inside Natural Intelligence;
+
+meeting pull request 90's receiving at the carrying alone;
+
+The second is at the living alone:
+
+which is the carrying and never a second list at the kit.
+
+not by a version number alone:
+
+| Inside the kits |
+
+Kept inside their kits whole,
+
+Each sentence continues inside the accumulated prior,
+
+also occur outside this particular list.
+
+but their order alone does not show
+
+The words observer and representation alone establish no need
+
+and repeated method words alone decide no renaming.
+
+**The whole fractal method carries inside and outside each subject.**
+
+Length alone supplies no separate subject.
+
+Shortness alone neither qualifies nor disqualifies
+
+No routing note alone warrants removing its source.
+
+retained inside each Corus expression.
+
+A separate name for crossing alone supplies no further subject.
+
+distinction alone does not explain why
+
+Their formal settlements do not alone demonstrate
+
+A destination alone is no completed receiving.

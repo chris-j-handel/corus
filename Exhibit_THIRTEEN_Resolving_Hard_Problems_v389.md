@@ -127,7 +127,7 @@ Exhibit THIRTEEN Resolving Hard Problems v389
 
 **At 14-next-possibling the offerings at each sharing surface, one at a time, 0 passed over.** The first parity offered at a sharing surfaces as that sharing's parity; an offering at the other parity surfaces 0; and at 0 the sharing stays 0 whatever follows. **Agreeing, one parity; disagreeing, 0; none offered, none.**
 
-**Nothing is counted.** One parting is enough for 0, and three agreeing surface as one agreeing does: an agreement is all or none at all, at any number of offerings. **A nonzero offering of any size surfaces at its parity alone**, `1 if > 0 else -1`, and a magnitude arriving arrives at its parity.
+**Nothing is counted.** One parting is enough for 0, and three agreeing surface as one agreeing does: an agreement is all or none at all, at any number of offerings. **A nonzero offering of any size surfaces at its parity**, `1 if > 0 else -1`, and a magnitude arriving arrives at its parity.
 
 ## 3.3 At 12, the prior coupling with the now
 
@@ -137,7 +137,7 @@ Exhibit THIRTEEN Resolving Hard Problems v389
 - **At a sharing at a prior parity, 14 surfacing that same parity**: the changing is not, 0, and the prior is kept.
 - **At a sharing at a prior parity, 14 surfacing the other parity, 0 or none**: the changing is, the prior inverted. At the other parity offered the offered is the next prior, and with nothing offered the self's next is its prior inverted.
 
-**The changing is the coupling's own**: made at 12 at each sharing, owned by neither side, other, social and self abundancing at the coupling that made it. **A changing at a self is its own at the society's momentary**: the momentary is the society's, the offerings the others', and the making at 12 the self's alone.
+**The changing is the coupling's own**: made at 12 at each sharing, owned by neither side, other, social and self abundancing at the coupling that made it. **A changing at a self is its own at the society's momentary**: the momentary is the society's, the offerings the others', and the making at 12 the self's own.
 
 ## 3.4 The non-living at the now
 
@@ -157,7 +157,7 @@ Exhibit THIRTEEN Resolving Hard Problems v389
 
 ## 4.2 Released along at 9, and the society's next momentary at 17
 
-**9-next-co-changing releases each changing along**, at the sharing side, to another self's 17 at the arriving side: each releasing sharing to its receiving sharing, the parity unchanged. **17-next-now is the society's next momentary**: each self's entry momentaries once, each at its own, and each self arrives with its next prior and its offerings next.
+**9-next-co-changing releases each changing along**, at the sharing side, to another self's 17 at the arriving side: each releasing sharing to its receiving sharing, the parity continuing. **17-next-now is the society's next momentary**: each self's entry momentaries once, each at its own, and each self arrives with its next prior and its offerings next.
 
 **The society's next momentary is the selves' next momentaries together**, each self at its own and no self over the others, nothing summed, counted or stored across them. **9 is the next prior and 17 the next now**: along, 9's release is the prior the receiving self is offered next, and 17 is that self's next now.
 
@@ -208,9 +208,9 @@ Exhibit THIRTEEN Resolving Hard Problems v389
 
 ## 5.6 A mind, the between presenting no face
 
-**A mind asked for from beyond its couplings is asked for at the between.** The between is neither side's, a nothing, not a location and not a thing, and a parity changing is all that crosses it: the nothing the couplings wind about carries no side, so an observing reaches it at none, and a parity changing carries no size, so no magnitude arrives from it. **The making at 12 is the self's alone**, each self's competency its own, along, and its morality its own, across.
+**A mind asked for from beyond its couplings is asked for at the between.** The between is neither side's, a nothing, not a location and not a thing, and a parity changing is all that crosses it: the nothing the couplings wind about carries no side, so an observing reaches it at none, and a parity changing carries no size, so no magnitude arrives from it. **The making at 12 is the self's own**, each self's competency its own, along, and its morality its own, across.
 
-**Two selves coupling, each alternating, uncover a term neither reaches alone**: bi-co-momentarying, the coupling's own changing, owned by neither, invisible at the between, each self's competency its own along. A mind is observed at its own couplings, as offerings, sharings and releasings, bi-momentary.
+**Two selves coupling, each alternating, uncover a term neither reaches at its own**: bi-co-momentarying, the coupling's own changing, owned by neither, invisible at the between, each self's competency its own along. A mind is observed at its own couplings, as offerings, sharings and releasings, bi-momentary.
 
 ## 5.7 A boundary, living and non-living at a fixed scale and momentary
 
@@ -218,7 +218,7 @@ Exhibit THIRTEEN Resolving Hard Problems v389
 
 ## 5.8 A persisting, a carrying and a record
 
-**A persisting asks what carries across changing.** The carrying continues at each momentary, at the resolver 11 the next 3, a sharing once at a prior never none again: **the carrying persists by being carried**, the prior participating at 12 at each coupling. A record apart from the coupling is a non-living artifact of the carrying, 2.2, observed at the now as offerings.
+**A persisting asks what carries across changing.** The carrying continues at each momentary, at the resolver 11 the next 3, a sharing once at a prior not none again: **the carrying persists by being carried**, the prior participating at 12 at each coupling. A record apart from the coupling is a non-living artifact of the carrying, 2.2, observed at the now as offerings.
 
 ---
 
@@ -226,13 +226,13 @@ Exhibit THIRTEEN Resolving Hard Problems v389
 
 ## 6.1 Discovering next, at each coupling
 
-**At the resolver the next is discovered at each sharing, a changing is or is not, from the prior and the now offered**, at the coupling. At one parity surfacing the next prior is that parity at each prior, 0 shared at a match and that parity at a mismatch; at none surfacing and at + and − together the prior alone sets the next, inverted; at no prior one parity surfacing is the next prior as it arrives, the sharing opening, and none opens at each other.
+**At the resolver the next is discovered at each sharing, a changing is or is not, from the prior and the now offered**, at the coupling. At one parity surfacing the next prior is that parity at each prior, 0 shared at a match and that parity at a mismatch; at none surfacing and at + and − together the prior sets the next, inverted; at no prior one parity surfacing is the next prior as it arrives, the sharing opening, and none opens at each other.
 
 **The carrying is the living's own, and arriving and discovering are at each coupling.** A living self offered its own parity shares 0 at 10, no changing, while its carrying continues: a 0 at 10 is a living self at its match, its prior kept. **Momentarying continues whether a changing is or is not**, and a field's arrival resolves at its own next momentary.
 
 ## 6.2 Two methods at one now
 
-**The geodesic-method discovers next from the existing**, the prior and the now offered, the three places staying three. **The scientific method accounts true or false against its fixings**, a law, a frame and a scale fixed unchanged between two momentaries, exact at its own ledger. **The two are at the same evidence at the same now, and part at one naming**: the fixings unchanged, or changing with the changing.
+**The geodesic-method discovers next from the existing**, the prior and the now offered, the three places staying three. **The scientific method accounts true or false against its fixings**, a law, a frame and a scale fixed between two momentaries, exact at its own ledger. **The two are at the same evidence at the same now, and part at one naming**: the fixings unchangeable, or changing with the changing.
 
 **A field's accounting carries its prior whole**, each result at its parity, ready for the coupling, and a field's hard problem is that accounting observed at one momentary, one of the pattern-matchings at 1.5. Observed bi-momentary, the field's carrying is at its prior, its evidence and its accounts at its now, and its next is discovered at 12, owned by neither side.
 
