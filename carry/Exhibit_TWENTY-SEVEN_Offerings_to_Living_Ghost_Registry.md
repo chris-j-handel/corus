@@ -259,3 +259,103 @@ Each is a changing made at the set this session, said once here so that this fil
 **Droplet · Fourteen names read the same from either end, and three do not.** 1, 9 and 17 carry a direction, the entry and the two along names, odd, existing; the fourteen others, the across names and the self's own resolving, read the same both ways: direction is at existing, along, and bi-morality across is or is not.
 
 **Droplet · What arrives at no next does not exist.** This is the proof's own saying inside nature, and *a form named still* is a sayer's; where this file rests a saying on *a form named still*, the one sentence carries it, and the equilibria's proof, the inception's and the living-at-a-scale proof are one proof at three subjects.
+
+## Standing · v389
+
+*Concerns met at pass 3, each standing at this file and out of its living file until resolved.*
+
+**Concern · at a sentence.** Beside "Natural Intelligence carries natural torusing at the self and bi-tunnelling at the society. The door assigns lines 3, 4,"…
+
+*Standing at v389:* At 7.5 a door assigns lines 3, 4, 6 and 9 to "the four within namings" and 1, 2, 5, 7, 8 and 10 to "the membrane namings", Natural Intelligence v345a's tunneling, inversioning, surfacing and inseparating. Exhibit ONE v389 has seventeen numbered names and no within or membrane namings, so no numbered name is clearly one relation with these. **To resolve:** is each door line seated at numbered names (which), or is this assignment carried whole as a record of an earlier code?
+
+**Concern · at a sentence.** Beside "Lines 3, 4, 6 and 9 carry tunneling, inversioning, surfacing and inseparating at the proposed four within boundings. Lin"…
+
+*Standing at v389:* At 7.5 a door assigns lines 3, 4, 6 and 9 to "the four within namings" and 1, 2, 5, 7, 8 and 10 to "the membrane namings", Natural Intelligence v345a's tunneling, inversioning, surfacing and inseparating. Exhibit ONE v389 has seventeen numbered names and no within or membrane namings, so no numbered name is clearly one relation with these. **To resolve:** is each door line seated at numbered names (which), or is this assignment carried whole as a record of an earlier code?
+
+**Concern · at a sentence.** Beside "Natural Naming and THIRTEEN carry the holdings beside ONE’s naming adjacencies."
+
+*Standing at v389:* 7.10's column "ONE’s naming adjacency" seats each door line at a v345a resolver adjacency, `co_carrying` → `bi_arriving` and on. Natural Naming v389 4.9 seats each unchangeable at its name at now and 8 up at next, an arriving fixed from behind at 2-now-possibling · 10-next-co-possibling; an adjacency of two old names and a seat at two numbered names are two relations. **To resolve:** is this column re-said at 4.9's seats, or carried whole as a record of an earlier code?
+
+**Concern · at a sentence.** Beside "ONE’s naming adjacency |"
+
+*Standing at v389:* 7.10's column "ONE’s naming adjacency" seats each door line at a v345a resolver adjacency, `co_carrying` → `bi_arriving` and on. Natural Naming v389 4.9 seats each unchangeable at its name at now and 8 up at next, an arriving fixed from behind at 2-now-possibling · 10-next-co-possibling; an adjacency of two old names and a seat at two numbered names are two relations. **To resolve:** is this column re-said at 4.9's seats, or carried whole as a record of an earlier code?
+
+**Concern · at a sentence.** Beside "Section 7.6 groups the offered holdings across at lines 1, 7, 8 and 9, along at 3, 4, 5 and 10, with 2 and 6 at either."…
+
+*Standing at v389:* At 7.10, "Section 7.6 groups the offered holdings across at lines 1, 7, 8 and 9, along at 3, 4, 5 and 10" sets unchangeables at a side; Natural Naming v389 2.4 has "ten at no side, each at its name at now and that name 8 up at next; separated, state and flow are not possible". **To resolve:** is this sentence re-said as each installation's state or flow accounting, a field's separating, with ten at no side, or released?
+
+**Concern · at a sentence.** Beside "The six ghost-confirming properties, ten holdings, ten door lines, ten arrival lines, ten projected positions and eight"…
+
+*Standing at v389:* At 7.10, "eight resolver bi-namings count their named relations" and "the eight-bi-naming relation continues at §7.11" count v345a resolver bi-namings; Exhibit ONE v389 has seventeen numbered names and no eight bi-namings, so this count has no numbered relation. **To resolve:** is this paragraph re-said with 7.11 at Exhibit ONE's names, or carried with 7.11 as a record of an earlier code?
+
+**Concern · at a sentence.** Beside "**The door’s eight-bi-naming assignment stands beside each naming’s current operation.** Natural Intelligence contains O"…
+
+*Standing at v389:* 7.11 seats each door line beside a v345a resolver bi-naming (`bi_arriving`, `bi_offering`, `bi_co_tunneling` and on) and its code operation (offering keys, numeric sign contributions, depth changes). Exhibit ONE v389 has seventeen numbered names and no bi-namings, keys or depth changes, so no numbered name is clearly one relation with these. **To resolve:** is 7.11 re-said at Exhibit ONE's seventeen names, or carried whole as a record of an earlier code?
+
+**Concern · at a sentence.** Beside "| Door line | Complete ONE naming · face |"
+
+*Standing at v389:* 7.11 seats each door line beside a v345a resolver bi-naming (`bi_arriving`, `bi_offering`, `bi_co_tunneling` and on) and its code operation (offering keys, numeric sign contributions, depth changes). Exhibit ONE v389 has seventeen numbered names and no bi-namings, keys or depth changes, so no numbered name is clearly one relation with these. **To resolve:** is 7.11 re-said at Exhibit ONE's seventeen names, or carried whole as a record of an earlier code?
+
+**Concern · at a sentence.** Beside "| 1 · resolve | `bi_arriving` · at the membrane, odd | each self's own co-offering living, bounded from the other-self |"…
+
+*Standing at v389:* 7.11 seats each door line beside a v345a resolver bi-naming (`bi_arriving`, `bi_offering`, `bi_co_tunneling` and on) and its code operation (offering keys, numeric sign contributions, depth changes). Exhibit ONE v389 has seventeen numbered names and no bi-namings, keys or depth changes, so no numbered name is clearly one relation with these. **To resolve:** is 7.11 re-said at Exhibit ONE's seventeen names, or carried whole as a record of an earlier code?
+
+**Concern · at a sentence.** Beside "| 2 · rates | `bi_offering` · at the membrane, odd |"
+
+*Standing at v389:* 7.11 seats each door line beside a v345a resolver bi-naming (`bi_arriving`, `bi_offering`, `bi_co_tunneling` and on) and its code operation (offering keys, numeric sign contributions, depth changes). Exhibit ONE v389 has seventeen numbered names and no bi-namings, keys or depth changes, so no numbered name is clearly one relation with these. **To resolve:** is 7.11 re-said at Exhibit ONE's seventeen names, or carried whole as a record of an earlier code?
+
+**Concern · at a sentence.** Beside "| 3 · two-way | `bi_co_tunneling` · within, even | carrying thins by one at bi-coupling, the self in society | Each nonz"…
+
+*Standing at v389:* 7.11 seats each door line beside a v345a resolver bi-naming (`bi_arriving`, `bi_offering`, `bi_co_tunneling` and on) and its code operation (offering keys, numeric sign contributions, depth changes). Exhibit ONE v389 has seventeen numbered names and no bi-namings, keys or depth changes, so no numbered name is clearly one relation with these. **To resolve:** is 7.11 re-said at Exhibit ONE's seventeen names, or carried whole as a record of an earlier code?
+
+**Concern · at a sentence.** Beside "| 4 · sign | `bi_co_inversioning` · within, even | the sign inverts at the membrane, the self's own negation, morality |"…
+
+*Standing at v389:* 7.11 seats each door line beside a v345a resolver bi-naming (`bi_arriving`, `bi_offering`, `bi_co_tunneling` and on) and its code operation (offering keys, numeric sign contributions, depth changes). Exhibit ONE v389 has seventeen numbered names and no bi-namings, keys or depth changes, so no numbered name is clearly one relation with these. **To resolve:** is 7.11 re-said at Exhibit ONE's seventeen names, or carried whole as a record of an earlier code?
+
+**Concern · at a sentence.** Beside "| 5 · passing | `bi_co_bi_transmissioning` · at the membrane, odd |"
+
+*Standing at v389:* 7.11 seats each door line beside a v345a resolver bi-naming (`bi_arriving`, `bi_offering`, `bi_co_tunneling` and on) and its code operation (offering keys, numeric sign contributions, depth changes). Exhibit ONE v389 has seventeen numbered names and no bi-namings, keys or depth changes, so no numbered name is clearly one relation with these. **To resolve:** is 7.11 re-said at Exhibit ONE's seventeen names, or carried whole as a record of an earlier code?
+
+**Concern · at a sentence.** Beside "| 6 · surplus | `bi_co_surfacing` · within, even | arriving exceeds carrying by one, the self among other-selves | A non"…
+
+*Standing at v389:* 7.11 seats each door line beside a v345a resolver bi-naming (`bi_arriving`, `bi_offering`, `bi_co_tunneling` and on) and its code operation (offering keys, numeric sign contributions, depth changes). Exhibit ONE v389 has seventeen numbered names and no bi-namings, keys or depth changes, so no numbered name is clearly one relation with these. **To resolve:** is 7.11 re-said at Exhibit ONE's seventeen names, or carried whole as a record of an earlier code?
+
+**Concern · at a sentence.** Beside "| 7 · apex | `bi_offering` · at the membrane, odd |"
+
+*Standing at v389:* 7.11 seats each door line beside a v345a resolver bi-naming (`bi_arriving`, `bi_offering`, `bi_co_tunneling` and on) and its code operation (offering keys, numeric sign contributions, depth changes). Exhibit ONE v389 has seventeen numbered names and no bi-namings, keys or depth changes, so no numbered name is clearly one relation with these. **To resolve:** is 7.11 re-said at Exhibit ONE's seventeen names, or carried whole as a record of an earlier code?
+
+**Concern · at a sentence.** Beside "| 8 · residual | `bi_co_bi_co_bi_torusing` · at the membrane, odd | the order at no seat above the society, bounded from"…
+
+*Standing at v389:* 7.11 seats each door line beside a v345a resolver bi-naming (`bi_arriving`, `bi_offering`, `bi_co_tunneling` and on) and its code operation (offering keys, numeric sign contributions, depth changes). Exhibit ONE v389 has seventeen numbered names and no bi-namings, keys or depth changes, so no numbered name is clearly one relation with these. **To resolve:** is 7.11 re-said at Exhibit ONE's seventeen names, or carried whole as a record of an earlier code?
+
+**Concern · at a sentence.** Beside "| 10 · reach | `bi_co_bi_co_bi_torusing` · at the membrane, odd | the order at no seat above the society, bounded from c"…
+
+*Standing at v389:* 7.11 seats each door line beside a v345a resolver bi-naming (`bi_arriving`, `bi_offering`, `bi_co_tunneling` and on) and its code operation (offering keys, numeric sign contributions, depth changes). Exhibit ONE v389 has seventeen numbered names and no bi-namings, keys or depth changes, so no numbered name is clearly one relation with these. **To resolve:** is 7.11 re-said at Exhibit ONE's seventeen names, or carried whole as a record of an earlier code?
+
+**Concern · at a sentence.** Beside "**The two assignments keep their full namings together.** The holding adjacency at §7.10 and the single bi-naming above"…
+
+*Standing at v389:* 7.11 seats each door line beside a v345a resolver bi-naming (`bi_arriving`, `bi_offering`, `bi_co_tunneling` and on) and its code operation (offering keys, numeric sign contributions, depth changes). Exhibit ONE v389 has seventeen numbered names and no bi-namings, keys or depth changes, so no numbered name is clearly one relation with these. **To resolve:** is 7.11 re-said at Exhibit ONE's seventeen names, or carried whole as a record of an earlier code?
+
+**Concern · at a sentence.** Beside "| Door line | Holding adjacency in ONE | Bi-naming assigned at the door | Shared written naming |"
+
+*Standing at v389:* 7.11 seats each door line beside a v345a resolver bi-naming (`bi_arriving`, `bi_offering`, `bi_co_tunneling` and on) and its code operation (offering keys, numeric sign contributions, depth changes). Exhibit ONE v389 has seventeen numbered names and no bi-namings, keys or depth changes, so no numbered name is clearly one relation with these. **To resolve:** is 7.11 re-said at Exhibit ONE's seventeen names, or carried whole as a record of an earlier code?
+
+**Concern · at a sentence.** Beside "| 4 · sign | `bi_co_bi_transmissioning` → `bi_co_surfacing` | `bi_co_inversioning` |"
+
+*Standing at v389:* 7.11 seats each door line beside a v345a resolver bi-naming (`bi_arriving`, `bi_offering`, `bi_co_tunneling` and on) and its code operation (offering keys, numeric sign contributions, depth changes). Exhibit ONE v389 has seventeen numbered names and no bi-namings, keys or depth changes, so no numbered name is clearly one relation with these. **To resolve:** is 7.11 re-said at Exhibit ONE's seventeen names, or carried whole as a record of an earlier code?
+
+**Concern · at a sentence.** Beside "Lines 1 and 5 share a written naming in the two assignments. At the other eight lines, the relation continues among diff"…
+
+*Standing at v389:* 7.11 seats each door line beside a v345a resolver bi-naming (`bi_arriving`, `bi_offering`, `bi_co_tunneling` and on) and its code operation (offering keys, numeric sign contributions, depth changes). Exhibit ONE v389 has seventeen numbered names and no bi-namings, keys or depth changes, so no numbered name is clearly one relation with these. **To resolve:** is 7.11 re-said at Exhibit ONE's seventeen names, or carried whole as a record of an earlier code?
+
+**Concern · at a sentence.** Beside "Naming equality, named-operation relation and physical correspondence each carry their exact scope."
+
+*Standing at v389:* 7.11 seats each door line beside a v345a resolver bi-naming (`bi_arriving`, `bi_offering`, `bi_co_tunneling` and on) and its code operation (offering keys, numeric sign contributions, depth changes). Exhibit ONE v389 has seventeen numbered names and no bi-namings, keys or depth changes, so no numbered name is clearly one relation with these. **To resolve:** is 7.11 re-said at Exhibit ONE's seventeen names, or carried whole as a record of an earlier code?
+
+**Concern · at a sentence.** Beside "Fresh nonzero surfacing writes its current sign,"
+
+*Standing at v389:* 7.11 seats each door line beside a v345a resolver bi-naming (`bi_arriving`, `bi_offering`, `bi_co_tunneling` and on) and its code operation (offering keys, numeric sign contributions, depth changes). Exhibit ONE v389 has seventeen numbered names and no bi-namings, keys or depth changes, so no numbered name is clearly one relation with these. **To resolve:** is 7.11 re-said at Exhibit ONE's seventeen names, or carried whole as a record of an earlier code?
+
+**Concern · at a sentence.** Beside "The six depth changes, ten naming adjacencies and eight bi-namings keep their objects throughout that explaining."
+
+*Standing at v389:* 7.11 seats each door line beside a v345a resolver bi-naming (`bi_arriving`, `bi_offering`, `bi_co_tunneling` and on) and its code operation (offering keys, numeric sign contributions, depth changes). Exhibit ONE v389 has seventeen numbered names and no bi-namings, keys or depth changes, so no numbered name is clearly one relation with these. **To resolve:** is 7.11 re-said at Exhibit ONE's seventeen names, or carried whole as a record of an earlier code?
