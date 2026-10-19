@@ -55,3 +55,8 @@ Lines carved again as self observing, a self a living-thing, a non-living thing,
 - A self is not any other same-existing thing.
 - Self observing other as not-self is consciousness.
 - A self and an other now-existing together are a coupling.
+
+## Released at v390's nineteenth pass
+
+- Bi-coupling is a self and an other self sharing now-existing co-sequentially.
+- In a coupling, an other's now-existing arrives to a self as an offering.
