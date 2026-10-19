@@ -73,9 +73,7 @@ Natural Intelligence v390
 
 **The universe is the set of all now-existing things.**
 
-**The universe is a set of things, observably now-existing**, and all that is now-existing and not now-observable is the universe too: a set is its things and no further thing, and nothing is beyond or between things of the universe. *Now-existing* is one naming, now-existing whole at each momentary, all or none at all. This sentence is an inception: each sentence after it is a step from it, and nothing is brought to it.
-
-**A universe is or is not existing, is or is not all, is or is not now, is or is not same**: four binaries, an opening's terms, each a pair of names at a self's span.
+**A universe is or is not existing, is or is not all, is or is not now, is or is not same**: four binaries, an opening's terms.
 
 **The universe is now-existing as its things are now-existing.** It is its things, no container added to them and no form beside them, and a set is defined by its things and by no number laid over them. A ground under it, a container around it, a clock over it or a store beside it would each be beyond things of the universe, and nothing is. **A ruler, a clock and a record are each valuable for observings of prior living, pattern-matching with natural resolving, and natural mathematics and numbers are an observable pattern each is aiming at.** Each container at a smaller scale is that one container again: a society fixed as a container of its selves, a hub fixed over a network, a property fixed over a thing and an equilibrium fixed as a condition asked to remain are each an unchangeable form over things, and a society is its selves. In a field's own words the universe is *all existing matter and space considered as a whole*: *all existing* is a set's, *matter and space* are its things, and *as a whole* is the universe now-existing as its things are.
 
