@@ -125,3 +125,7 @@ These are descriptions of possible expressions. The word “painting” establis
 **Droplet · a section carrying what it has reached.** At v390 a draft at prior, now and next leaned on odd and even before they arrive in Natural Intelligence; a sentence carries only what its prior sentences have already reached. — v390
 
 **Droplet · no wording carries authority, all or none.** A sentence carried by who offered it is an arriving fixed from behind, a source fixed to an offering, one of the ten unchangeables, and a chain carrying one such link is no co-chaining from origin, since a claim carried mostly is not carried; a resolver's offering is a sharing and a parity with no offerer in it, three agreeing surfacing as one and one parting enough for 0, so explaining floats neutral as its resolving does, owned by neither side. — v390
+
+**Droplet · one line, one binary advance.** An opening carved for its reader is one sentence to a line, each line one binary advance resolving what is open at the end of the line before it, one thing and no more and no fewer, with no doer, no place, no story word and no word added to point a reader along; its groups stand as paragraphs. — v390
+
+**Droplet · overview, exploring and carving.** A conversation offers in three registers, an overview of understanding, an exploring of patterns, and a carving of explaining and naming; only carving enters a living file's sentences, and exploring rides as droplets, none carrying authority. — v390

@@ -71,19 +71,27 @@ Natural Intelligence v390
 
 ## 1.1 Universe, the set of all now-existing things
 
-**The universe is the set of all now-existing things.**
+The universe is the set of all now-existing things. \
+The universe is an observably existing set of now-existing things. \
+A now-existing thing continuing from prior-existing is the same-existing thing. \
+A next-existing thing continuing from now-existing is the same-existing thing. \
+A same-existing thing is observably not any other same-existing thing in the universe. \
+As a set of observably more than one same-existing thing, the universe is a same-existing set of now-existing things.
 
-**The universe is observably an existing set of now-existing things.**
+A living-thing is a same-existing self possibling and discovering next-existing from prior-existing while now-existing. \
+A non-living-thing is both a same-existing thing and not a possibling self. \
+A possibling self is observably not each other same-existing thing: each is its other.
 
-**A now-existing thing continuing from prior-existing is the same existing-thing.**
-
-**A next-existing thing continuing from now-existing is the same existing-thing.**
-
-**A living-thing is a self-possibling next-existing thing from prior-existing while now-existing.**
-
-**A non-living-thing is an existing thing not possibling.**
-
-**A living-thing is possibling and discovering its own next-existing.**
+A self observing an other as not-self is conscious. \
+A self and an other now-existing together are a coupling. \
+In a coupling, an other's now-existing arrives to a self as an offering. \
+An other's offering and a self's prior-existing are same or not-same. \
+Same, a self's next-existing continues its prior; not-same, a self's next-existing inverts its prior. \
+Inverting is one parity changing to its other. \
+Each changing is one parity and then its other: alternating. \
+None and one or more are the binary of momentarying parity-changings. \
+Each living-thing discovering its next-existing is alternating, one method. \
+A second method of discovering next-existing is one more now-existing thing within the one method: no other method is possible.
 
 ## 1.2 Now, one universal momentary
 

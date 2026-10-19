@@ -293,3 +293,19 @@ Released when the origin section came to walk one concept per step; each paragra
 **Droplet · no inside and no outside.** There is no inside the universe, as there is no outside: the universe is or is not; no living and no existing is where it is not, and nothing of value is at a not-in-set. — v390, toward one method and not-universe facing two ways
 
 **Droplet · a set its things.** The universe is its things, no container added to them and no form beside them, and a set is defined by its things and by no number laid over them. — v390, toward one method and each now-existing thing changing
+
+## Gathered as the opening was carved at v390 · v390
+
+**Droplet · more than one, no count.** More than one is one plus one or more others, and no count: each other arriving with its between, the between no thing of the set. — v390, toward the opening's sixth line and a between
+
+**Droplet · one plus one or more others, a universe.** One same-existing thing and one or more others is a universe, the universe taken from any one's side, each thing taken as one with its others the same form, no thing privileged as the one. — v390, toward the opening after a same-existing thing observably not any other
+
+**Concern · *a universe* beside *the universe*.** The inception carries one universe; *one plus one or more others is a universe* reads as the universe taken from any one's side, one universe met from each of its things, and not many universes. **To resolve:** is *a universe* the universe from any one's side, so the line coheres with the inception and enters the opening?
+
+**Droplet · none and one or more, never a count.** At each sharing what arrives is none or one-or-more: none, a self's prior inverts of itself; one or more, offerings surface as one, three agreeing as one does and one parting enough for 0, so resolving meets a binary at each momentarying and counts nothing. — v390, toward offerings surfacing and the opening's binary line
+
+**Droplet · one plus none, a lone self.** One plus none is a lone self, and one plus one or more is a universe: the binary a universe is and the binary each momentarying resolves are one binary, seen whole from a set and seen moving in each self's changing. — v390, toward a lone self and the opening
+
+**Droplet · same-existing.** A thing continuing from prior-existing into now-existing and from now-existing into next-existing is the same-existing thing, one naming for a thing through its momentaryings. — v390, toward Natural Naming and each sentence carrying sameness
+
+**Concern · steps a first-time reader does not yet see in the carved opening.** A fresh reader of the nineteen lines finds: *momentarying* and *binary* used in *none and one or more are the binary of momentarying parity-changings* before any line reaches them; no line yet carrying from *the universe is a same-existing set* to *a living-thing*, the first group's close to the second's opening; no line carrying from *an observably existing set* to *continuing from prior-existing*; and *one more now-existing thing within the one method* in the last line asking a step from *one method* it does not show. **To resolve:** what one line, at each of these, is the next binary advance a reader sees? — v390
