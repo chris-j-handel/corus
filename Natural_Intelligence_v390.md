@@ -83,6 +83,11 @@ A set of same-existing things is sharing same-existing sequential momentarying. 
 The universe is the same-existing set of all now-existing things.
 
 A self is a same-existing thing observing, possibling and discovering its own next-existing from prior-existing while now-existing. \
+Four-cycling is each now-existing: discovering, possibling, observing and still-possibling. \
+Discovering opens a now-existing: a next-existing arriving. \
+Possibling is between discovering and observing: continuing turn-taking. \
+Observing faces prior-existing and discovering faces next-existing, opposing directions facing each other. \
+Still-possibling completes a now-existing: a floating neutraling zero between observing and discovering. \
 Observing is a self observing prior-existing, its own and others'. \
 A self's prior-existing and an other's prior-existing are possibling each other. \
 Each self is one, and each other is two. \
@@ -382,7 +387,7 @@ def _17_next_now(_16_next_still_possibling, _5_now_co_changing):
 
 **Each name is its number and its naming, one hyphenation.** Its number is its place and its parity, odd existing and even possibling; *now* is a self's span, 1 to 8, and *next* a society's, 9 to 16, 17-next-now a society's next arriving as each self's 1-now; a name with *co* is at a sharing between two, and a name without it is at one. Six names between selves are odd and even by their numbers: 2, 6, 10 and 14, even, across, possibling, a changing shared at 6-now-co-possibling and 10-next-co-possibling another self's possibling at its 2-now-possibling and 14-next-possibling; 9 and 17, odd, along, existing, 9-next-co-changing a next prior released and 17-next-now a next now. Each self's existing is another self's possibling, one changing at a sharing across and no second thing.
 
-**Four momentaries and their gaps.** Each span's names are two momentaries of four, each opening at an odd existing name, a possibling and a prioring within it, and completing at an even still-possibling name; between each completing and its next opening is a gap, both its sides visible, and 17-next-now is next 1-now.
+**Four momentaries and their gaps.** Each span's names are two momentaries of four, each opening at an odd existing name, a possibling and a prioring within it, and completing at an even still-possibling name; between each completing and its next opening is a gap, both its sides visible, and 17-next-now is next 1-now. Each momentary is one four-cycling of a now-existing: its opening discovering, its possibling, its prioring observing, and its completing still-possibling.
 
 | Momentary | Opening, odd, existing | Within, even, possibling | Within, odd, prioring | Completing, even, still-possibling | Gap |
 |---|---|---|---|---|---|
