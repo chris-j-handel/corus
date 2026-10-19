@@ -339,3 +339,15 @@ Released when the origin section came to walk one concept per step; each paragra
 **Concern · the along between, a changing and a zero.** The opening has two to three a changing between momentaryings, self-discovering along, and along a self's between a zero. **To resolve:** is the zero what the changing crosses, the floating neutraling between of a self's two momentaryings, and does one line show the changing crossing the zero? — v390
 
 **Concern · a self's own momentarying.** Sequential momentarying arrives with a set of same-existing things, and a self's momentarying, opening one and completing two, arrives as a self's own with no line between. **To resolve:** does a line carry momentarying from a set's sharing to each self's own? — v390
+
+## Gathered from v390's exploring of improving a carrying · v390
+
+**Droplet · improving, a carrying taking in what it did not carry.** At each sharing a carrying meets an offering same or not-same: same, it stays still-possibling; not-same, it changes, taking in what it did not carry; improving is that changing that is, and nothing accumulates beside the carrying, its prior the whole of what it has taken in. — v390, toward the opening's improving lines
+
+**Droplet · learning, the familiar still and the new changing.** A carrying improved by a pattern meets that pattern again as same, still-possibling, and meets only what it does not carry as not-same, changing: learning is a carrying discovering unrelationings, each next discovering of what its prior is not, all or none at each sharing with no degree. — v390, toward intelligence and consciousness
+
+**Droplet · a pattern longer than one momentary is carried by a society.** At the resolver one self at one sharing carries its last momentary's resolving, while a spiral of selves carries a pattern along its selves, each self's prior from a third momentary on its releasing self's prior two momentaries before, inverted: a binary changing sequence longer than one momentary is learned by selves together, and learning is social. — v390, toward a bi-coupling's third living self
+
+**Droplet · training held still and training continuing.** A machine trained and then inferring carries a training fixed between inferrings, its form the same at each, a carry fixed as a store; a living carrying trains at each momentary, its learning and its possibling one continuing, improving never paused. — v390, toward AI at observings and natural intelligence
+
+**Droplet · do-no-harm improving at each scale.** A file improving at its offerings, a droplet dissolving at a match and an insertlet chained at a mismatch, and a self improving at its sharings, still at a match and changing at a mismatch, are one improving at two sets. — v390, toward Geodesic Improving Method and the opening's improving lines

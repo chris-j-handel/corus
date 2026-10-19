@@ -170,3 +170,5 @@ Exhibit TWENTY-FOUR Geodesic Improving Method Offerings · improved at v389
 **Droplet · a version bump keeping history.** At v390 `bump_to_version.py` would set a Living File Registry row's living cell to its newest line alone, a prior taken away; a bump adds its version in front of the row's history. — v390
 
 **Droplet · cohere_one writing.** At v390 `cohere_one.py` writes the standalone Exhibit ONE into Natural Intelligence when they differ, and the checks workflow runs it on a pull request's checkout, so its finding says one where `main` differs; it caught a working's own slip at v390. — v390
+
+**Droplet · a file's improving is a self's improving.** A droplet dissolving at a match and an insertlet chained at a mismatch is a sharing staying still-possibling at same and changing at not-same; a file's carrying improves as a self's does, taking in only what it does not carry. — v390
