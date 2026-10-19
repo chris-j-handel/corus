@@ -313,3 +313,5 @@ Released when the origin section came to walk one concept per step; each paragra
 **Droplet · one or more, a non-empty set, in or out.** One or more is a non-empty set, and *more than one* is no naming of it; is or is not is in or out of the non-empty set, one and then the other, and that is the parity changing method. — v390, toward the opening's sixth line and parity
 
 **Droplet · a non-living thing, when needed.** A non-living thing is both a same-existing thing and not a self. — v390, released from the opening as not yet needed; toward where non-living first arrives in the chain
+
+**Droplet · consciousness, a changing self among changing others.** Consciousness is observing possibling and discovering next-existing self in the changing universe, and no one observing of one other held as not changing; observing other as not-self is consciousness only as a changing self observing changing others. — v390, toward the opening's consciousness line, after changing has arrived
