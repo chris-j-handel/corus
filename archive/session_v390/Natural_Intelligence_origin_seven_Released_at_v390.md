@@ -45,3 +45,13 @@ The opening's first nine lines as they stood before the thirteenth pass:
 ## Released at v390's seventeenth pass
 
 - A non-living thing is both a same-existing thing and not a self. — not yet needed in the opening; rides as a droplet toward where non-living is needed.
+
+## Released at v390's eighteenth pass
+
+Lines carved again as self observing, a self a living-thing, a non-living thing, an other for a same-existing thing, and bi-coupling:
+
+- A self is a same-existing thing possibling and discovering its own next-existing from prior-existing while now-existing.
+- A living-thing is a self possibling and discovering its own next-existing.
+- A self is not any other same-existing thing.
+- Self observing other as not-self is consciousness.
+- A self and an other now-existing together are a coupling.

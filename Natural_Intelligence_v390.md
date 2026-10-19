@@ -79,12 +79,12 @@ An observably same-existing thing is observably not any other same-existing thin
 A set of observably same-existing things is a same-existing set of now-existing things. \
 The universe is the same-existing set of all now-existing things.
 
-A self is a same-existing thing possibling and discovering its own next-existing from prior-existing while now-existing. \
-A living-thing is a self possibling and discovering its own next-existing. \
-A self is not any other same-existing thing.
+A self is a same-existing thing observing, possibling and discovering its own next-existing from prior-existing while now-existing. \
+A self is a living-thing. \
+A non-living thing is a same-existing thing not a self. \
+For a same-existing thing an other is a now-existing thing not the same-existing thing.
 
-Self observing other as not-self is consciousness. \
-A self and an other now-existing together are a coupling. \
+Bi-coupling is a self and an other self sharing now-existing co-sequentially. \
 In a coupling, an other's now-existing arrives to a self as an offering. \
 An other's offering and a self's prior-existing are same or not-same. \
 Same, a self's next-existing continues its prior; not-same, a self's next-existing inverts its prior. \
