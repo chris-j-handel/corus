@@ -72,6 +72,7 @@ Natural Intelligence v390
 ## 1.1 Universe, the set of all now-existing things
 
 The universe is the set of all now-existing things. \
+Observing is distinguishing presence, absence or changing. \
 The universe is an observably existing set of now-existing things. \
 A set of now-existing things is sharing the momentary now. \
 A same-existing thing is a now-existing thing continuing from prior-existing. \
