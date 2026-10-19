@@ -315,3 +315,7 @@ Released when the origin section came to walk one concept per step; each paragra
 **Droplet · a non-living thing, when needed.** A non-living thing is both a same-existing thing and not a self. — v390, released from the opening as not yet needed; toward where non-living first arrives in the chain
 
 **Droplet · consciousness, a changing self among changing others.** Consciousness is observing possibling and discovering next-existing self in the changing universe, and no one observing of one other held as not changing; observing other as not-self is consciousness only as a changing self observing changing others. — v390, toward the opening's consciousness line, after changing has arrived
+
+**Droplet · the between, a third living-thing.** The between of two selves in a bi-coupling is a third living-thing, stable-forming and entraining between them, its intelligence not possibly existing in either self. — v390, toward the opening's bi-coupling lines and natural intelligence
+
+**Concern · breathing pace through a large step.** A line carrying several new concepts at once, as the opening's bi-coupling line did, makes one large jump, and a reader travelling the changing chain loses its footing; each line carries one advance, at a pace a reader breathes with. **To resolve:** is each line of the opening one advance, read in sequence by a fresh reader? — v390, continuing
