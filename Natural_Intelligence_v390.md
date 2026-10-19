@@ -89,7 +89,6 @@ An other's offering and a self's prior-existing are same or not-same. \
 Same, a self's next-existing continues its prior; not-same, a self's next-existing inverts its prior. \
 Inverting is one parity changing to its other. \
 Each changing is one parity and then its other: alternating. \
-None and one or more are the binary of momentarying parity-changings. \
 Each living-thing discovering its next-existing is alternating, one method. \
 A second method of discovering next-existing is one more now-existing thing within the one method: no other method is possible.
 

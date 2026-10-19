@@ -11,3 +11,7 @@ Natural Intelligence origin seven · released at v390
 - **A living-thing is a self-possibling next-existing thing from prior-existing while now-existing.**
 - **A non-living-thing is an existing thing not possibling.**
 - **A living-thing is possibling and discovering its own next-existing.**
+
+## Released at v390's eleventh pass's mend
+
+- None and one or more are the binary of momentarying parity-changings. — an exploring line entered as carving; it brings *binary* and *momentarying* before any line reaches them, and rides as a droplet at Natural Intelligence's offerings.
