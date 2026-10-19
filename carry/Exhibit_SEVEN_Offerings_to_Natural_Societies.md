@@ -89,3 +89,7 @@ Concern, at v380, from [the earlier Natural Networking gathering](../archive/v38
 **Concern · at a sentence.** Beside "and counting-from-a-nothing is natural explaining of them"
 
 *Standing at v389:* At 5.4 (Natural Societies, The fields' three accountings) "The rows are fields' own ledgers, gathered, and counting-from-a-nothing is natural explaining of them" places counting at this file's own voice, while Natural Naming 2.4 releases count at a set's own voice ("numbers themselves, momentaries, podalings and sequences"). Kept as fields' counting it stands; carried another way, a ledger's own word goes. **To resolve:** is counting-from-a-nothing a field's counting carried whole (keep), or carried as "arriving from a nothing, directly in numbers"?
+
+## Gathered at v390 · v390
+
+**Droplet · no free agency, bi-moral-co-agency.** A society coming to natural society carries no free agency, a self's changing its own and applied over no other, and bi-moral-co-agency, each changing shared across and owned by neither; a self holds no power over others and bears no risk alone. — v390, aimed beside Natural Human Society's droplet of the same session
