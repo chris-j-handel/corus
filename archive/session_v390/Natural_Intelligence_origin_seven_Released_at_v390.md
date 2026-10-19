@@ -88,3 +88,7 @@ The opening as it stood before its concerns resolved at the twentieth pass:
 ## Released at v390's twenty-first pass
 
 - A universal same-existing set is a set of living things. — re-said: the universe a living set, universal momentarying, a same living self, with living-things and non-living-things within it.
+
+## Released at v390's twenty-second pass
+
+- Along, a self's between is zero, a floating neutraling between. — re-said as a self still-possibling, staying while no other parity is improving, and advancing from next-possibling to next-existing with an other parity improving.

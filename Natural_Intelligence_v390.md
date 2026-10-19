@@ -88,7 +88,9 @@ Each self is one, and each other is two. \
 A self's momentarying opens one and completes two, with its other. \
 One to two is changing within a momentarying: self-possibling, observing self and other. \
 Two to three is changing between momentaryings: self-discovering, along. \
-Along, a self's between is zero, a floating neutraling between. \
+Along, a self's between is zero: a self still-possibling. \
+A self stays still-possibling while no other parity is improving. \
+With an other parity improving, a self advances from next-possibling to next-existing. \
 Across, a self's between is its other's within, two to three.
 
 A self is a living-thing. \

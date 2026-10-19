@@ -201,3 +201,5 @@ Natural Naming 5.14’s “and it compounds” and its abundancing/releasing exp
 **Droplet · no places in resolving.** Possibling, existing and living are no three places, and resolving carries no places, so a sentence naming a place for a momentarying releases. — v390
 
 **Droplet · inside and within.** A changing odd to even is offered as inside a momentarying; Natural Naming carries *within* for a span of names, and whether *inside* returns for a momentarying is open at this offering. — v390
+
+**Droplet · *crosses*, unhelpful.** *Crosses*, of a changing and a between, pictures a passage over a place; a self stays still-possibling while no other parity is improving, and advances to next-existing with an other parity improving, and *crosses* may dissolve from the set's naming. — v390
