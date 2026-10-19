@@ -90,7 +90,7 @@ One to two is changing within a momentarying: self-possibling, observing self an
 Two to three is changing between momentaryings: self-discovering, along. \
 Along, a self's between is zero: a self still-possibling. \
 A self stays still-possibling while no other parity is improving. \
-With an other parity improving, a self advances from next-possibling to next-existing. \
+When other parity is improving, self is changing from next-possibling now to next-existing same self. \
 Across, a self's between is its other's within, two to three.
 
 A self is a living-thing. \

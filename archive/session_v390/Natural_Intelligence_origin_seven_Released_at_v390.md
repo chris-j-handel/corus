@@ -92,3 +92,7 @@ The opening as it stood before its concerns resolved at the twentieth pass:
 ## Released at v390's twenty-second pass
 
 - Along, a self's between is zero, a floating neutraling between. — re-said as a self still-possibling, staying while no other parity is improving, and advancing from next-possibling to next-existing with an other parity improving.
+
+## Released at v390's twenty-third pass
+
+- With an other parity improving, a self advances from next-possibling to next-existing. — a parity told as a thing improving; re-said with other parity improving and self changing to next-existing same self.
