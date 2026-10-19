@@ -80,6 +80,7 @@ A set of observably same-existing things is a same-existing set of now-existing 
 The universe is the same-existing set of all now-existing things.
 
 A self is a same-existing thing possibling and discovering its own next-existing from prior-existing while now-existing. \
+A living-thing is a self possibling and discovering its own next-existing. \
 A non-living thing is both a same-existing thing and not a self. \
 A self is not any other same-existing thing.
 
