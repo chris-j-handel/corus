@@ -15,3 +15,7 @@ Natural Intelligence origin seven · released at v390
 ## Released at v390's eleventh pass's mend
 
 - None and one or more are the binary of momentarying parity-changings. — an exploring line entered as carving; it brings *binary* and *momentarying* before any line reaches them, and rides as a droplet at Natural Intelligence's offerings.
+
+## Released at v390's twelfth pass
+
+- As a set of observably more than one same-existing thing, the universe is a same-existing set of now-existing things. — *more than one* re-said as *one or more*: a non-empty set, its is or is not in or out of the non-empty set, parity changing.
