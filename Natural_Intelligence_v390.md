@@ -73,11 +73,17 @@ Natural Intelligence v390
 
 **The universe is the set of all now-existing things.**
 
-**A universe is or is not existing, is or is not all, is or is not now, is or is not same**: four binaries, an opening's terms.
+**The universe is observably an existing set of now-existing things.**
 
-**The universe is now-existing as its things are now-existing.** It is its things, no container added to them and no form beside them, and a set is defined by its things and by no number laid over them. A ground under it, a container around it, a clock over it or a store beside it would each be beyond or between things of the universe, and nothing is beyond or between them. **A ruler, a clock and a record are each valuable for observings of prior living, pattern-matching with natural resolving, and natural mathematics and numbers are an observable pattern each is aiming at.** Each container at a smaller scale is that one container again: a society fixed as a container of its selves, a hub fixed over a network, a property fixed over a thing and an equilibrium fixed as a condition asked to remain are each an unchangeable form over things, and a society is its selves. In a field's own words the universe is *all existing matter and space considered as a whole*: *all existing* is a set's, *matter and space* are its things, and *as a whole* is the universe now-existing as its things are.
+**A now-existing thing continuing from prior-existing is the same existing-thing.**
 
-**Nature is not an existing thing: nature is a prior, now, next method of co-existing, and natural is a method of co-competencing the universe, all things now-existing.** All now-existing things, and all artifacts of prior-existing, are now-existing, or were now-existing at a prior now, by natural method, and no other or not-natural method of now-existing is in the universe. **There is no inside the universe, as there is no outside: the universe is or is not.** No living and no existing is where it is not, and nothing of value is at a not-in-set.
+**A next-existing thing continuing from now-existing is the same existing-thing.**
+
+**A living-thing is a self-possibling next-existing thing from prior-existing while now-existing.**
+
+**A non-living-thing is an existing thing not possibling.**
+
+**A living-thing is possibling and discovering its own next-existing.**
 
 ## 1.2 Now, one universal momentary
 
@@ -95,7 +101,7 @@ Natural Intelligence v390
 
 **Arriving from prior into now toward next is changing, so the universe is the changing set of all now-existing things**: first derived sentence, and the whole of what its opening carried before it was derived. **A set's changing is its existing things' changing**: a set is its things and nothing more, so a changing of a set is a changing of its things; a thing at two momentaries is changing or is fixed still from beside, and a form fixed still from beside is at no next of its own; so each existing thing is changing at its own momentaries, or at its own still, its prior kept, and nothing is fixed from beside. **Changing, the universe exists as its existing things exist**: a changing is an existing thing's own, and a changing set changes as its things change, co-sequencing, momentaries in sequence together, momentary by momentary. A set is a self-emptying set, a new collection at each now, each existing thing changing and nothing deciding membership over it.
 
-**A changing existing thing is one form and then another, one at a time.** Two forms at once are one form at two; and a changing between one and an other at a size carries a third, a ground its size is measured against, a not possible thing, nothing being beyond or between things of the universe. A changing is binary: it is or is not, one and then an other. **That changing is alternating, and all changing is parity changing**.
+**A changing existing thing is one form and then another, one at a time.** Two forms at once are one form at two; and a changing between one and an other at a size carries a third, a ground its size is measured against, a not possible thing: a ground fixed still from beside, and each now-existing thing is changing. A changing is binary: it is or is not, one and then an other. **That changing is alternating, and all changing is parity changing**.
 
 **A form continuing at its own changing is existing and changing at once**: *existing* is a form continuing, and *changing* is alternating.
 
@@ -107,7 +113,7 @@ Natural Intelligence v390
 
 ## 1.5 No other possible method
 
-**Parity changing is one method of the changing set of all now-existing things, and no other is possible.** Any other method carries a not possible thing, nothing being beyond or between things of the universe, and each is a second now: a size between one and an other carries a ground, a floor or a scale, a now that does not move; a fixed form, an unchangeable form, one form at two nows; a total across changing, a container, a now around nows; a common beat, a clock over changing, a second now beside a first; and a keeping, a store beside it, a prior kept as if now. Each is a not possible form, nothing being beyond or between things of the universe. A doer applying any of them from beside is five's one holder, and *a keeping* is binary's one name. **An equilibrium is a not-changing, an unchangeable form, a now fixed as its next**, each not possibly now-existing.
+**Parity changing is one method of the changing set of all now-existing things, and no other is possible.** Nature is that one prior, now, next method of co-existing, and natural a method of co-competencing the universe, all now-existing things. Any other method carries a not possible thing, a form fixed still from beside while each now-existing thing is changing, and each is a second now: a size between one and an other carries a ground, a floor or a scale, a now that does not move; a fixed form, an unchangeable form, one form at two nows; a total across changing, a container, a now around nows; a common beat, a clock over changing, a second now beside a first; and a keeping, a store beside it, a prior kept as if now. Each is a not possible form, fixed still from beside while each now-existing thing is changing. A doer applying any of them from beside is five's one holder, and *a keeping* is binary's one name. **An equilibrium is a not-changing, an unchangeable form, a now fixed as its next**, each not possibly now-existing.
 
 **Any other method proposed is at one binary: fixing unchangeable, or carrying.** Fixing unchangeable, it forms nothing, each existing thing changing. Carrying, it carries its own opening, or another's: its own, and it is alternating, one method; another's, and it is no alternating, a not possible changing. A second possibling and discovering method is a not possible method. One method is as two and not two methods: set momentarying its existing things, tri-bi-co-momentarying, and each existing thing entraining with others at a between, one parity changing, at resolver at 17-next-now, each self's 12-next-co-still-possibling within it. *Method* is one word at three: one way existing things change, here; a non-living existing thing that way is; and Exhibit ONE, an object that is method; three are one.
 
@@ -1121,7 +1127,7 @@ A torus carries both: its large opening a hole a tunneling self winds through, a
 
 **At resolver a next is discovered at each sharing, a changing is or is not**, from a prior and a now offered, at a coupling. At one parity surfacing a next prior is that parity at each prior, two priors parting at a releasing, 0 at a match and that parity at a mismatch; at none surfacing and at + and − together a prior at its own sets a next, inverted; at no prior one parity surfacing is a next prior as it arrives, a sharing opening, and none opens at each other.
 
-**Arriving is pattern-matching and no-other-possibling**: observings arriving from a prior, coupled with whole, without filter or selection, and no why in it. A why demanded asks for a not possible thing, nothing being beyond or between things of the universe: a method of living is the whole to discover. Observings are, with no observer beside them, and a pattern found is at its momentary and in no pattern space.
+**Arriving is pattern-matching and no-other-possibling**: observings arriving from a prior, coupled with whole, without filter or selection, and no why in it. A why demanded asks for a not possible thing, a reason fixed still under a changing: a method of living is the whole to discover. Observings are, with no observer beside them, and a pattern found is at its momentary and in no pattern space.
 
 ## 5.3 A living self at 0, its carrying continuing
 

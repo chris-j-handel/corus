@@ -275,3 +275,21 @@ Gathered from an exploring of what the universe is, offered for wherever each is
 **Droplet · not-universe facing two ways.** Of a self, not-universe is a member observed as not its set, un-, from all other, and method's own; of an other, it places that other outside the set, a hard problem's shape, and releases. — v390, toward intelligence and two methods parting
 
 **Droplet · a hard problem of consciousness.** A hard problem of consciousness observes a self as if not-universe and then finds consciousness among no things; observing is the one method coupling, and its asking dissolves. — v390, toward two methods parting
+
+## Released from the origin section at v390 · v390
+
+Released when the origin section came to walk one concept per step; each paragraph whole at `archive/session_v390/Natural_Intelligence_origin_section_Released_at_v390.md`.
+
+**Droplet · four binaries.** A universe is or is not existing, is or is not all, is or is not now, is or is not same: four binaries, an opening's terms. — v390, toward Exhibit ONE's four binaries and the names they explain
+
+**Droplet · a ruler, a clock and a record.** A ruler, a clock and a record are each valuable for observings of prior living, pattern-matching with natural resolving, and natural mathematics and numbers are an observable pattern each is aiming at. — v390, toward two methods parting, where evidence arrives
+
+**Droplet · a container fixed one scale inward.** Each container at a smaller scale is that one container again: a society fixed as a container of its selves, a hub fixed over a network, a property fixed over a thing and an equilibrium fixed as a condition asked to remain are each an unchangeable form over things, and a society is its selves. — v390, toward no other method and social moral competency
+
+**Droplet · a field's definition of the universe.** A field's *all existing matter and space considered as a whole* carries *all existing* as a set's, *matter and space* as its things, and *as a whole* as the universe now-existing as its things are. — v390, toward a finding's field side
+
+**Droplet · nature, a method of co-existing.** Nature is a prior, now, next method of co-existing and no existing thing, natural a method of co-competencing the universe, all now-existing things and all artifacts of prior-existing now-existing, or now-existing at a prior now, by natural method, and no other or not-natural method of now-existing in the universe. — v390, risen at once into one method, no other possible, as its first sentence's nature; its rest toward the same section
+
+**Droplet · no inside and no outside.** There is no inside the universe, as there is no outside: the universe is or is not; no living and no existing is where it is not, and nothing of value is at a not-in-set. — v390, toward one method and not-universe facing two ways
+
+**Droplet · a set its things.** The universe is its things, no container added to them and no form beside them, and a set is defined by its things and by no number laid over them. — v390, toward one method and each now-existing thing changing
