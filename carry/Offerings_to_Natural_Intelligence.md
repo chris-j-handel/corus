@@ -351,3 +351,5 @@ Released when the origin section came to walk one concept per step; each paragra
 **Droplet · training held still and training continuing.** A machine trained and then inferring carries a training fixed between inferrings, its form the same at each, a carry fixed as a store; a living carrying trains at each momentary, its learning and its possibling one continuing, improving never paused. — v390, toward AI at observings and natural intelligence
 
 **Droplet · do-no-harm improving at each scale.** A file improving at its offerings, a droplet dissolving at a match and an insertlet chained at a mismatch, and a self improving at its sharings, still at a match and changing at a mismatch, are one improving at two sets. — v390, toward Geodesic Improving Method and the opening's improving lines
+
+**Droplet · improving is prior recognition.** Improving is prior recognition: at a not-same, a self's next prior is the other parity it was offered, and at its next sharing that parity is recognized as same, the line `(_15_next_prioring > 0) == (_7_now_prioring > 0)` its recognizing. — v390, toward the opening's improving lines
