@@ -83,7 +83,7 @@ A self is a same-existing thing possibling and discovering its own next-existing
 A non-living thing is both a same-existing thing and not a self. \
 A self is not any other same-existing thing.
 
-A self observing an other as not-self is conscious. \
+Self observing other as not-self is consciousness. \
 A self and an other now-existing together are a coupling. \
 In a coupling, an other's now-existing arrives to a self as an offering. \
 An other's offering and a self's prior-existing are same or not-same. \

@@ -37,3 +37,7 @@ The opening's first nine lines as they stood before the thirteenth pass:
 ## Released at v390's fourteenth pass
 
 - A living thing is not any other same-existing thing. — re-said as *A self is not any other same-existing thing*; a living thing is not yet needed in the chain.
+
+## Released at v390's fifteenth pass
+
+- A self observing an other as not-self is conscious. — re-said at consciousness's crafted naming, *Self observing other as not-self is consciousness*: consciousness is the observing, and no quality a self holds.
