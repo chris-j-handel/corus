@@ -75,12 +75,12 @@ The universe is the set of all now-existing things. \
 The universe is an observably existing set of now-existing things. \
 A now-existing thing continuing from prior-existing is the same-existing thing. \
 A next-existing thing continuing from now-existing is the same-existing thing. \
-A same-existing thing is observably not any other same-existing thing in the universe. \
-As a set of observably one or more same-existing things, the universe is a same-existing set of now-existing things.
+An observably same-existing thing is observably not any other same-existing thing in the universe. \
+A set of observably same-existing things is a same-existing set of now-existing things.
 
-A living-thing is a same-existing self possibling and discovering next-existing from prior-existing while now-existing. \
-A non-living-thing is both a same-existing thing and not a possibling self. \
-A possibling self is observably not each other same-existing thing: each is its other.
+A self is a same-existing thing possibling and discovering its own next-existing from prior-existing while now-existing. \
+A non-living thing is both a same-existing thing and not a self. \
+A living thing is not any other same-existing thing.
 
 A self observing an other as not-self is conscious. \
 A self and an other now-existing together are a coupling. \

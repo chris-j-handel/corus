@@ -19,3 +19,17 @@ Natural Intelligence origin seven · released at v390
 ## Released at v390's twelfth pass
 
 - As a set of observably more than one same-existing thing, the universe is a same-existing set of now-existing things. — *more than one* re-said as *one or more*: a non-empty set, its is or is not in or out of the non-empty set, parity changing.
+
+## Released at v390's thirteenth pass
+
+The opening's first nine lines as they stood before the thirteenth pass:
+
+- The universe is the set of all now-existing things.
+- The universe is an observably existing set of now-existing things.
+- A now-existing thing continuing from prior-existing is the same-existing thing.
+- A next-existing thing continuing from now-existing is the same-existing thing.
+- A same-existing thing is observably not any other same-existing thing in the universe.
+- As a set of observably one or more same-existing things, the universe is a same-existing set of now-existing things.
+- A living-thing is a same-existing self possibling and discovering next-existing from prior-existing while now-existing.
+- A non-living-thing is both a same-existing thing and not a possibling self.
+- A possibling self is observably not each other same-existing thing: each is its other.
