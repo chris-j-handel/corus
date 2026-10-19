@@ -88,9 +88,6 @@ Each self is one, and each other is two. \
 A self's momentarying opens one and completes two, with its other. \
 One to two is changing within a momentarying: self-possibling, observing self and other. \
 Two to three is changing between momentaryings: self-discovering, along. \
-Along, a self's between is zero: a self still-possibling. \
-A self stays still-possibling while no other parity is improving. \
-When other parity is improving, self is changing from next-possibling now to next-existing same self. \
 Across, a self's between is its other's within, two to three.
 
 A self is a living-thing. \
@@ -111,6 +108,9 @@ Each self's offering and the third living self's prior-existing are same or not-
 Same, the third living self's next-existing continues its prior; not-same, its next-existing inverts its prior. \
 Inverting is one parity changing to its other. \
 Each changing is one parity and then its other: alternating. \
+Along, a self's between is zero: a self still-possibling. \
+A self stays still-possibling while no other parity is improving. \
+When other parity is improving, self is changing from next-possibling now to next-existing same self. \
 Consciousness is observing possibling and discovering next-existing self in the changing universe. \
 Each living-thing discovering its next-existing is alternating, one method. \
 A second method of discovering next-existing is one more now-existing thing, alternating within the one method: no other method is possible.
