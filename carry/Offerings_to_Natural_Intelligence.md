@@ -319,3 +319,13 @@ Released when the origin section came to walk one concept per step; each paragra
 **Droplet · the between, a third living-thing.** The between of two selves in a bi-coupling is a third living-thing, stable-forming and entraining between them, its intelligence not possibly existing in either self. — v390, toward the opening's bi-coupling lines and natural intelligence
 
 **Concern · breathing pace through a large step.** A line carrying several new concepts at once, as the opening's bi-coupling line did, makes one large jump, and a reader travelling the changing chain loses its footing; each line carries one advance, at a pace a reader breathes with. **To resolve:** is each line of the opening one advance, read in sequence by a fresh reader? — v390, continuing
+
+## Gathered from v390's exploring of a self-momentarying set · v390
+
+**Droplet · the universal set, self-momentarying.** The universal set is a self-momentarying set: a set is its things, so its momentarying is its selves' co-momentarying and nothing beside them, no clock and no beat laid over it. — v390, toward the opening's universal same-existing set
+
+**Droplet · geodesic co-momentarying, the universal method of living.** Each self goes along its own line, a surface dividing itself, co-momentarying with others across, and a universal set momentarying by nothing but this is geodesic co-momentarying, the universal method of living; a non-living thing, a set of living selves not possibling, momentaries by its living selves within. — v390, toward one method, no other possible
+
+**Droplet · two sides of two and one half momentaryings, six forward.** A self's side opens one, three and five, its prior, now and next openings, and an other's side opens two, four and six: two momentaryings and a next opening on each side, two and one half, overlapping one number apart; their six openings are bi-moral co-agency's six forward recursionings, three own-forward steps at each side. — v390, toward the opening's momentarying lines and bi-coupling
+
+**Droplet · climbing one to nine with ten unholdables.** Climbing one to nine, each step of a self's span carries one relation, and each of ten unchangeables is one of those relations held still: an opening at one held as a place, an arriving at two held from behind, a two-way at three held to one side, a sequencing at four held to one beat, a between at five held as a cut and a middle held as an end, a completing at six held as a last, a parity at seven held as a magnitude and a rate held as a value, a carrying at eight held as a store; hard probleming is holding one climbing step still, and nine releases along. — v390, toward the opening climbing the resolver's names
