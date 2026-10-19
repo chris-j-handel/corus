@@ -33,3 +33,7 @@ The opening's first nine lines as they stood before the thirteenth pass:
 - A living-thing is a same-existing self possibling and discovering next-existing from prior-existing while now-existing.
 - A non-living-thing is both a same-existing thing and not a possibling self.
 - A possibling self is observably not each other same-existing thing: each is its other.
+
+## Released at v390's fourteenth pass
+
+- A living thing is not any other same-existing thing. — re-said as *A self is not any other same-existing thing*; a living thing is not yet needed in the chain.
