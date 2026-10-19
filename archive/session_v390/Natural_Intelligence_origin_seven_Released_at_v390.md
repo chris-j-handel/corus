@@ -41,3 +41,7 @@ The opening's first nine lines as they stood before the thirteenth pass:
 ## Released at v390's fifteenth pass
 
 - A self observing an other as not-self is conscious. — re-said at consciousness's crafted naming, *Self observing other as not-self is consciousness*: consciousness is the observing, and no quality a self holds.
+
+## Released at v390's seventeenth pass
+
+- A non-living thing is both a same-existing thing and not a self. — not yet needed in the opening; rides as a droplet toward where non-living is needed.
