@@ -92,11 +92,12 @@ Along, a self's between is zero, a floating neutraling between. \
 Across, a self's between is its other's within, two to three.
 
 A self is a living-thing. \
-A universal same-existing set is a set of living things. \
+The universe is a living set: universal momentarying, a same living self. \
 A living self is a universal same-existing set. \
 A living self is a set of living selves. \
 A set of living selves possibling and discovering its own next-existing is a living self. \
-A set of living selves not possibling its own next-existing is a non-living-thing.
+A set of living selves not possibling its own next-existing is a non-living-thing. \
+Within the universe, a living set, are living-things and non-living-things.
 
 A bi-coupling is a self and an other self sharing now-existing co-sequentially. \
 In a bi-coupling each self offers its own observing, possibling and discovering from prior-existing. \

@@ -84,3 +84,7 @@ The opening as it stood before its concerns resolved at the twentieth pass:
 - Each changing is one parity and then its other: alternating.
 - Each living-thing discovering its next-existing is alternating, one method.
 - A second method of discovering next-existing is one more now-existing thing within the one method: no other method is possible.
+
+## Released at v390's twenty-first pass
+
+- A universal same-existing set is a set of living things. — re-said: the universe a living set, universal momentarying, a same living self, with living-things and non-living-things within it.
