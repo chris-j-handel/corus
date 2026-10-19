@@ -1,0 +1,27 @@
+== (1) K26: 1/x fixed set
+fixed set of x -> 1/x on nonzero p/q, |p|,q <= 12: [Fraction(-1, 1), Fraction(1, 1)]
+fixed set of x -> -x on -50..50: [0]
+
+== (2) H24: the mean a member of no population
+mean(0, 1) = 0.5  member? False
+mean(1, 1) = 1  member? True
+mean(1, 2, 3) = 2  member? True
+mean(1, 2) = 1.5  member? False
+mean(5, 5, 5) = 5  member? True
+
+== (3) P7/P28: Physics 2.5's 32 / 9 / 3 at the 5.11 register table (v379)
+rows: 50  file's own: 2  at the ten namings: 48
+per naming: {'an arriving held from behind': 10, 'an opening held as a place': 0, 'a bound held as a last': 5, 'a carry held as a store': 2, 'a middle held as an end': 6, 'a sign held as a magnitude': 3, 'a sequencing held to one beat': 7, 'a rate held to a value': 6, 'a two-way held to one side': 3, 'a membrane held as a cut': 6}
+a rate held to a value: 6
+a returned sign entered as cost = carry-as-store + two-way-held? (verifier uses c[3]+c[9]): 8
+verifier P28 groups: ref=c0+c2+c4 = 21  rate=c6+c7 = 13  ret=c3+c9 = 8  mag=c5+c8 = 6
+2.5 says (32, 9, 3); table gives (48, 13, 8)
+rows at no naming: []
+
+== (4) RH16: TWENTY-TWO's resolving locator against TWENTY-ONE's entries (v375)
+TWENTY-ONE entries: 255  first: (1, 'Sorites')  last: (257, 'The origin of the state')
+locator lines: 176  numbers run 2 to 177
+offset locator-number minus TWENTY-ONE number, histogram: {1: 174}
+matched by name: 174  unmatched names: [('156', 'Measurement, routing, and classification'), ('173', 'The limits of intelligence')]
+sample: [('2', 'Sorites', 1), ('3', 'The concept of disease', 2), ('4', 'The population concept', 3)] ... [('176', "Goldbach's conjecture", 175), ('177', 'Twin primes', 176)]
+TWENTY-ONE entries past the locator's last matched: [(176, 'Twin primes'), (177, 'The fold as a kind'), (178, 'The single native state'), (179, 'The explanatory gap'), (180, 'The universal totality'), (181, 'Quantum gravity'), (182, 'The primordial lithium problem'), (183, 'Proton spin decomposition'), (184, 'The solar abundance problem'), (185, 'The origin of neutrino mass'), (186, 'The absolute neutrino mass scale'), (187, 'Dirac or Majorana neutrinos'), (188, 'The Standard Model flavor puzzle'), (189, 'The new-physics flavor puzzle'), (190, 'The sources of ultrahigh-energy cosmic rays'), (191, 'Coronal heating and solar-wind acceleration'), (192, 'The nature of cosmic acceleration'), (193, 'The origin of cosmic magnetic fields'), (194, 'Many-body localization and thermalization'), (195, "Water's liquid-liquid critical point"), (196, 'Equilibrium climate sensitivity'), (197, 'Earthquake predictability'), (198, 'The initiation of plate tectonics'), (199, 'The mechanics driving plate motion'), (200, 'Mantle plumes'), (201, 'Geomagnetic reversals'), (202, 'The extent of Snowball Earth glaciation'), (203, 'The magnitude of the Great Oxidation Event'), (204, 'The causes of the Great Oxidation Event'), (205, 'The origin of the Moon'), (206, 'The early Solar System impact flux'), (207, 'The origin of animal multicellularity'), (208, 'The evolution of metabolic pathways'), (209, 'The genotype-phenotype map'), (210, 'The predictability of evolution'), (211, 'Rapid adaptive radiation'), (212, 'Polyploidization and diversification'), (213, "Sporadic Alzheimer's disease pathogenesis"), (214, 'Endometriosis pathogenesis'), (215, 'Long COVID pathophysiology'), (216, 'Biological phenotypes of sepsis and acute respiratory distress syndrome'), (217, 'Migraine pathophysiology'), (218, 'The etiology of schizophrenia'), (219, 'Evidence for neural representation'), (220, 'Detecting covert consciousness'), (221, 'Continual learning without catastrophic forgetting'), (222, 'Incompatible definitions of algorithmic fairness'), (223, 'The existence of one-way functions'), (224, "Hilbert's sixteenth problem for limit cycles"), (225, 'The quantum PCP conjecture'), (226, 'Deterministic polynomial identity testing'), (227, 'Collective intentionality'), (228, 'Peer disagreement'), (229, 'Compositionality in language understanding'), (230, 'The causes of long-run economic development'), (231, 'Cross-national measurement equivalence'), (232, 'The peopling of the Americas'), (233, 'The origins of agriculture'), (234, 'The emergence of the genus Homo'), (235, 'The causal production of political polarization'), (236, 'The core-collapse supernova explosion mechanism'), (237, 'Sex bias in autoimmune disease'), (238, 'The origins of fast radio bursts'), (239, 'Magnetospheric substorm triggering'), (240, 'The Unique Games conjecture'), (241, 'Odd perfect numbers'), (242, "Hadwiger's conjecture"), (243, 'The two-dimensional Jacobian conjecture'), (244, 'The abc conjecture'), (245, 'Cosmic inflation and the primordial perturbations'), (246, 'The engram'), (247, 'The 100,000-year glacial cycle'), (248, 'The origin of supermassive black holes'), (249, 'Weak cosmic censorship'), (250, 'Proton decay and grand unification'), (251, 'The graph isomorphism problem'), (252, 'The neutron lifetime discrepancy between beam and bottle measurements'), (253, 'The origin of viruses'), (254, 'The solar dynamo and the sunspot cycle'), (255, 'The etiology of major depression'), (256, 'The causes of rising obesity'), (257, 'The origin of the state')]

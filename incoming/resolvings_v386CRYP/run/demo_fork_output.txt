@@ -1,0 +1,23 @@
+original row0 carry after 40 beats : [(1, -1, 1, 0), (2, -1, -1, 0), (3, 1, 1, 0), (4, -1, -1, 0), (0, 1, -1, 0)]
+original row0 surface (public)     : (1, -1, -1, 1, -1)
+
+fork is a distinct object?            True | rows distinct? True
+fork carry == original carry (value): True
+fork carry is original carry (obj)  : False
+
+after one beat, no offering differing:
+  carries equal : True | surfaces equal: True
+  original carry: [(1, 1, -1, 0), (2, 1, 1, 0), (3, -1, -1, 0), (4, 1, 1, 0), (0, -1, 1, 0)]
+
+after one beat, one offering differing at the twin:
+  carries equal : True
+  surfaces equal: True
+  orig carry    : [(1, 1, -1, 0), (2, 1, 1, 0), (3, -1, -1, 0), (4, 1, 1, 0), (0, -1, 1, 0)]
+  twin carry    : [(1, 1, -1, 0), (2, 1, 1, 0), (3, -1, -1, 0), (4, 1, 1, 0), (0, -1, 1, 0)]
+  orig surface  : (-1, 1, 1, -1, 1)
+  twin surface  : (-1, 1, 1, -1, 1)
+
+row0 distinct surfaces seen: 20 | surfaces with >1 distinct carry behind them: 8
+example surface -> number of carries: ((1, 1, -1, 1, -1), 2)
+
+fork.rows refer to original rows? False
