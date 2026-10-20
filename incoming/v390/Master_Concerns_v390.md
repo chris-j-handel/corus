@@ -223,3 +223,6 @@ Each line is agreed line by line. Meaning, bothboth.
 - **O5.** Line 4: same-existing used before a line defines it with prior-existing; one sense, a living condition re-found, continuing from prior, or same-as itself with no time.
 - **O6.** Lines 3 and 4 in place of *The universe is an observably existing set of now-existing things.* and *The universe is the same-existing set of all now-existing things.*
 - Carried: each ? and + of an opening's full version, kept until resolved.
+- *Carved again, v390:* 3. *By our observing, the universe is one now-existing universal set.* 4. *No other universe is possibly existing.* **O4 and O5 dissolve** with *There is one same-existing universe* released; same-existing arrives with its own defining line. **O2 resolved by Claude:** line 4's step lies in line 1's *all*: any other universe would be now-existing things, gathered by line 1, so line 4 is the dead end lines 1 and 3 give, our naming's one use of possible. **O6:** *The universe is the same-existing set of all now-existing things*, the person's earlier carving, stays at its place after sequential momentarying, to confirm.
+- **O8.** Line 5, *A set of now-existing things is sharing the momentary now.*: two concepts at once, sharing and a momentary; *the momentary now*.
+
