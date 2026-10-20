@@ -21,7 +21,7 @@ These need nothing more. Each was carried by an earlier saying that a later agre
 - **Sets within sets with no first set:** fractal, each scale same as each other, no first and no last.
 - **Living arriving partway through an opening:** living is prior.
 
-## Cluster 1 · momentarying, one fractal
+## Cluster 1 · momentarying and four-cycling, two concepts
 
 Relieves eight concerns.
 
@@ -35,20 +35,18 @@ Relieves eight concerns.
 - **M7.** Bi, co, tri truples: tri going three names, 9 to 11 and 15 to 17.
 - **M8.** Discovering's names, 9 and 16, beside four-cycling's steps.
 
-**Resolving offered: momentarying is fractal.**
-- A momentarying is two names, odd then even: 1 and 2, 3 and 4.
-- Two momentaryings are a four-cycling of four names: Exhibit ONE's momentary, 1 to 4.
-- Two four-cyclings are a span of eight: now, 1 to 8.
-- Two spans are sixteen: now and next. 17 is next existing as 1.
-- At each scale, odd to even is within and even to odd is between, and each between is discovering: 2 to 3, 4 to 5, 8 to 9, 16 to 17. That is *discovering is fractal*, agreed, at each scale.
+**Resolving offered: momentarying and four-cycling are two concepts, each with one sense.** *(First offered as one fractal, momentarying met at two, four, eight and sixteen names; that confused four-cycling with momentarying, and is released.)*
+- **Momentarying** is odd then even. From 1 to 17 are eight momentaryings, 1 and 2 through 15 and 16, and 17 is next existing as 1. Odd to even is within a momentarying; even to odd is between two, and each between is discovering: 2 to 3, 4 to 5, through 16 to 17.
+- **Four-cycling** is each now-existing's prior-existing, now-existing, next-existing and same-existing. Resolver names carry it as four roots, each at now, now-co, next-co and next.
+- Exhibit ONE's word *momentary*, for its groups of four names, names four-cycling's grouping. It is re-said so momentarying keeps its one sense, odd then even.
 
 **What it relieves:**
-- **M1 and M2:** one momentarying met at four scales, no conflict.
-- **M3:** a self's momentarying is its smallest scale, two names, and a set's sharing is its larger. One line can carry it: *Each momentarying is two of a smaller, and one of a larger.*
-- **M4:** a between is discovering at its scale, and a 0 is a self still-possibling within a name. These are two concepts and are named apart, as Cluster 3 shows.
-- **M5:** four-cycling stands with an opening's first lines, and a self's momentarying line takes its scale.
-- **M8:** discovering at 9 is a span's between, and at 16 a sixteen's completing before its between.
-- **M7:** tri enters at 9, a span's between, and at 15, a last four-cycling's observing, and goes three names each time. Whether tri marks a between of a larger scale is offered for meaning.
+- **M1 and M2:** Exhibit ONE's *momentary* and an opening's *momentarying* name two concepts; with Exhibit ONE's word re-said, no conflict stays.
+- **M3:** a self's momentarying is odd then even, its own; one line can carry it from a set's sharing sequential momentarying, waiting for an opening's walk.
+- **M4:** a between of momentaryings is discovering; a self's 0 is same-existing, named apart, as Cluster 3 shows.
+- **M5:** four-cycling's four times arrive with an opening's first lines; momentarying has its own line.
+- **M8:** 9 and 16 stand beside betweens of momentaryings: 9 opening after 8 to 9, and 16 completing before 16 to 17.
+- **M7:** tri at 9 and at 15, each going three names: what tri marks is offered for meaning.
 
 **Waiting on meaning, bothboth:**
 - **M6, seven along and nine across, from its source.** All odd is along and all even is across, as Exhibit ONE has 2, 6, 10 and 14 even and across, 9 and 17 odd and along. Its source: *7 alongs between 1 and 17 and 9 across in the same 8 momentaryings, the difference one number higher and one number lower, both forward from 1.*
@@ -204,4 +202,4 @@ Each line is agreed line by line. Meaning, bothboth.
 
 ## Largest cluster for meaning
 
-**Cluster 1, momentarying as one fractal,** relieves eight concerns and gives wording to many lines of an opening's walk. Its one question for meaning is M6: is across's ninth 18, a next momentarying's first even? Cluster 2 follows: its one question decides about 220 sayings of a motion ahead.
+**Cluster 1, momentarying and four-cycling as two concepts,** relieves eight concerns and gives wording to many lines of an opening's walk. Its one question for meaning is M6: is across's ninth 18, a next momentarying's first even? Cluster 2 follows: its one question decides about 220 sayings of a motion ahead.
