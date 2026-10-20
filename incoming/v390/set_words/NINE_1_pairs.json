@@ -210,6 +210,12 @@
   "why": "at: with; at once: together; in conversation: conversational; one-at-a-time kept; the cited title and its figures stay"
  },
  {
+  "old": "(Stivers and others, 2009, ten languages, *Proceedings of the National Academy of Sciences* 106: 10587)",
+  "new": "(Stivers and others, 2009, ten languages, *Proceedings of the National Academy of Sciences* 106: 10587)",
+  "verdict": "KEEP",
+  "why": "a citation and an outside work's title, kept exactly"
+ },
+ {
   "old": "This is a good-faith contract in its simplest whole.",
   "new": "This is a good-faith contract as its simplest whole.",
   "verdict": "RESAY",
@@ -282,8 +288,8 @@
   "why": "keeping-own-time: section 1.5's title phrase used as its concept's name, kept as its heading stays; anywhere stays as it was"
  },
  {
-  "old": "and a friendship kept as a debt-account stops being a friendship.",
-  "new": "and a friendship tallied as a debt-account stops being a friendship.",
+  "old": "A ledger of who got the larger piece is a debt, and a friendship kept as a debt-account stops being a friendship.",
+  "new": "A ledger of who got the larger piece is a debt, and a friendship tallied as a debt-account stops being a friendship.",
   "verdict": "RESAY",
   "why": "kept: tallied, nothing held; the larger piece: an only larger of two, kept"
  },
@@ -1314,8 +1320,8 @@
   "why": "the other: an only other of two"
  },
  {
-  "old": "so a gap remains, and they cut again into fourths.",
-  "new": "so a gap remains, and they cut again, making fourths.",
+  "old": "The cutter's hand is less precise than the chooser's eye, so a gap remains, and they cut again into fourths.",
+  "new": "The cutter's hand is less precise than the chooser's eye, so a gap remains, and they cut again, making fourths.",
   "verdict": "RESAY",
   "why": "into: making; the cutter and the chooser: an only one of two, kept"
  },
@@ -1441,7 +1447,7 @@
  },
  {
   "old": "Pattern-matched at the files, this file carries no core paragraph at all, and Natural Networking carries none in that form.",
-  "new": "Pattern-matched across these files, no core paragraph stands with this file at all, and none stands with Natural Networking with that form.",
+  "new": "Pattern-matched across these files, no core paragraph stands with this file at all, and none of that form stands with Natural Networking.",
   "verdict": "RESAY",
   "why": "at: across; the: these; doer, files carrying: re-said as the concept; in: with; at all kept"
  },
