@@ -54,6 +54,27 @@ So each name is now or next; a four-cycling; a momentarying; and odd or even. Th
 - **Each of Exhibit ONE's four cycles of moves inverts ten is or is nots a turn,** beside the ten of five self and five other. Whether these tens are one is open, not claimed.
 - **One count runs through every kind:** a cycling of n is or is nots, one at a time and both ways, is 2n long. Momentarying is one binary, two. Two joint parities are four. Three phases are six.
 
+## Re-clustered: five kinds as five dimensions of same-existing, offered
+
+*The five kinds of cycling should be the same as the five self and five other parity-changing dimensions of same-existing.* Offered, so they are:
+
+| Dimension | One is or is not, cycling | Concept |
+|---|---|---|
+| 1 | odd or even | a momentarying's opening and completing |
+| 2 | which momentarying | a four-cycling's two momentaryings |
+| 3 | which four-cycling | a span's two four-cyclings |
+| 4 | now or next | a span, 8 up: self-next is other-prior |
+| 5 | this turn or a next | 17, next-existing as 1: a same-existing universe's turn, a corus wrapping |
+
+- These are five nested is or is nots, one at each scale. One five is all fives, fractal within and outside itself in all five.
+- Each self has its five, and its other has five, one parity separated, starting one on, as *Fives* has an other from 2: ten.
+- The earlier kinds become ways these five go together, not kinds of their own:
+  - mirrors invert several of the five at once;
+  - cycles of moves go now or next with each step, and odd or even and momentarying with mirrors;
+  - parity forms one at a time are n of the five going both ways, 2n long;
+  - executed selves are the five as selves execute them.
+- **Open (C3):** Exhibit ONE's *Fives* names its five as prior opening, prior completing, now opening, now completing and next opening, two and one half momentaryings. Are these five the same five dimensions as the five nested is or is nots, or a second five?
+
 ## Concerns, tracked
 
 - **E1a.** Cycles of moves, named *four-cycles* by Exhibit ONE, beside four-cycling: kept inside Exhibit ONE for now; a name of their own is open.
