@@ -928,5 +928,173 @@
   "new": "no single storage site will be found — each candidate (RNA, neoblast, voltage) will resolve to part of a distributed coupling and not location of trace",
   "verdict": "RESAY",
   "why": "into: to"
+ },
+ {
+  "old": "Monarch butterflies migrate up to 3,000 miles to a few specific groves in central Mexico.",
+  "new": "Monarch butterflies migrate up to 3,000 miles to a few specific groves of central Mexico.",
+  "verdict": "RESAY",
+  "why": "in: of; up to 3,000 miles a field's measurement, kept"
+ },
+ {
+  "old": "Yet they arrive, often at the very groves their ancestors used.",
+  "new": "Yet they arrive, many to groves their ancestors used.",
+  "verdict": "RESAY",
+  "why": "often: a count offered as likelihood, re-said as a count of arrivals; at the very: to"
+ },
+ {
+  "old": "and — for route itself — conclusion that *the navigation information is genetically programmed*.",
+  "new": "and — for route itself — conclusion that *the navigation information is genetically programmed*.",
+  "verdict": "KEEP",
+  "why": "quotation of a field's conclusion"
+ },
+ {
+  "old": "where a field openly admits *the origin of the programming has not been explained in evolutionary terms*.",
+  "new": "where a field openly admits *the origin of the programming has not been explained in evolutionary terms*.",
+  "verdict": "KEEP",
+  "why": "quotation of a field's admission"
+ },
+ {
+  "old": "Tell is \"their *knowing*\" and \"the information is *programmed*\"",
+  "new": "Tell is \"their *knowing*\" and \"the information is *programmed*\"",
+  "verdict": "KEEP",
+  "why": "words mentioned as words, within quotes"
+ },
+ {
+  "old": "Remainder is a local coupling: at each moment butterfly couples with its immediate present",
+  "new": "Remainder is a local coupling: with each moment butterfly couples with its immediate present",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "There is no stored map of Mexico and no destination fixed in advance; there is a local orientation sounded at each instant.",
+  "new": "There is no stored map of Mexico and no destination fixed beforehand; there is a local orientation sounded with each instant.",
+  "verdict": "RESAY",
+  "why": "in advance: beforehand; at: with"
+ },
+ {
+  "old": "geodesic at planetary scale, heading that is local resolution of sun-angle-and-field, sounded fresh at every moment, no stored route anywhere.",
+  "new": "geodesic with planetary scale, heading that is local resolution of sun-angle-and-field, sounded fresh with every moment, no stored route anywhere.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "Arrival at grove is not a target reached by following a map; it is where local headings, carried by generation after generation coupling with the same planetary cues, converge — the same convergence ant colony's path shows (a colony whose queen was found not to rule, 8.5), here across a continent.",
+  "new": "Arrival to grove is not a target reached by following a map; it is where local headings, carried by generation after generation coupling with same planetary cues, converge — one same convergence ant colony's path shows (a colony whose queen was found not to rule, 8.5), here across a continent.",
+  "verdict": "RESAY",
+  "why": "at: to; the: removed, one; 8.5's title kept"
+ },
+ {
+  "old": "The \"inherited route\" re-alternates as inherited *coupling* — each generation the same local offering, across and both ways, reaching the same local cues, the same convergence recurs without any route being stored or passed.",
+  "new": "An \"inherited route\" re-alternates as inherited *coupling* — each generation one same local offering, across and both ways, reaching same local cues, one same convergence recurs without any route being stored or passed.",
+  "verdict": "RESAY",
+  "why": "the: an, one, removed"
+ },
+ {
+  "old": "no pusher, no stored path (the files' own geodesic: orbit, passive walker).",
+  "new": "no pusher, no stored path (files' own geodesic: orbit, passive walker).",
+  "verdict": "RESAY",
+  "why": "the: removed"
+ },
+ {
+  "old": "Local offering, across and both ways, at each moment, with no stored plan, is competency-with-no-controller at migrating scale; multigenerational convergence is fractal at generational scale",
+  "new": "Local offering, across and both ways, with each moment, with no stored plan, is competency-with-no-controller with migrating scale; multigenerational convergence is fractal with generational scale",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "No route is stored, a geodesic being not a stored path — it is local resolution at each point.",
+  "new": "No route is stored, a geodesic being not a stored path — it is local resolution with each point.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "Heading is local offering, across and both ways, at each moment rather than a stored route followed,",
+  "new": "Heading is local offering, across and both ways, with each moment rather than a stored route followed,",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "only inherited coupling, standing with evolution-as-local-coupling at 8.7).",
+  "new": "only inherited coupling, standing with evolution-as-local-coupling, 8.7).",
+  "verdict": "RESAY",
+  "why": "at: removed, a section cited"
+ },
+ {
+  "old": "only \"the route is stored information the butterfly knows\" is set down.",
+  "new": "only \"the route is stored information the butterfly knows\" is set down.",
+  "verdict": "KEEP",
+  "why": "words mentioned as words, within quotes"
+ },
+ {
+  "old": "A gram of butterfly reaches a specific grove across a continent with no stored map, no route-memory, no destination fixed in advance — better (heading recomputed locally at each moment, not a fixed path, displaced monarchs flying on at one heading with no map to correct by),",
+  "new": "A gram of butterfly reaches a specific grove across a continent with no stored map, no route-memory, no destination fixed beforehand — better (heading recomputed locally with each moment, not a fixed path, displaced monarchs flying on with one heading with no map to correct by),",
+  "verdict": "RESAY",
+  "why": "in advance: beforehand; at: with"
+ },
+ {
+  "old": "Impossibility under storage — knowing a place without visiting — is ordinary consequence of not needing to know it: local offering, across and both ways, at each step arrives without a stored destination.",
+  "new": "Seeming not possibly existing under storage, knowing a place without visiting is ordinary consequence of not needing to know it: local offering, across and both ways, with each step arrives without a stored destination.",
+  "verdict": "RESAY",
+  "why": "impossibility: seeming not possibly existing, a kept phrase; at: with"
+ },
+ {
+  "old": "displaced monarchs fly on at one heading, re-resolved locally at present cues and corrected for no displacement — twenty-three monarchs flown in Ontario and again 2,500 kilometres west flew southwest at 213 and 244 degrees,",
+  "new": "displaced monarchs fly on with one heading, re-resolved locally with present cues and corrected for no displacement — twenty-three monarchs flown within Ontario and again 2,500 kilometres west flew southwest, on headings of 213 and 244 degrees,",
+  "verdict": "RESAY",
+  "why": "at: with, on headings of; in: within; measurements and citation kept"
+ },
+ {
+  "old": "And for organs: the organ's knowing to know when it has reached its final size?* — still mysterious, in a field's own words.",
+  "new": "And for organs: the organ's knowing to know when it has reached its final size?* — still mysterious, as a field's own words say.",
+  "verdict": "RESAY",
+  "why": "in: as, by meaning; the organ's kept, a remnant of a field's quoted question closing with *"
+ },
+ {
+  "old": "Source is sizer; and it recedes: sizer is sought in a protein, in a concentration, in a fixed-subunit assembly, each candidate partial, and one review admits tell directly — *organelle size can also be controlled in the absence of an identifiable size sensor.*",
+  "new": "Source is sizer; and it recedes: sizer is sought within a protein, within a concentration, within a fixed-subunit assembly, each candidate partial, and one review admits tell directly — *organelle size can also be controlled in the absence of an identifiable size sensor.*",
+  "verdict": "RESAY",
+  "why": "in: within; quotation kept"
+ },
+ {
+  "old": "A field hands over disequilibrating in one observation:",
+  "new": "A field hands over disequilibrating with one observation:",
+  "verdict": "RESAY",
+  "why": "in: with"
+ },
+ {
+  "old": "size is resolved abundancing of the whole coupling, not a value observed by any part against a store.",
+  "new": "size is resolved abundancing of a whole coupling, not a value observed by any part against a store.",
+  "verdict": "RESAY",
+  "why": "the: a"
+ },
+ {
+  "old": "Size is coupling re-resolving to its bounded form — the same target-morphology as regeneration (morphogenesis), here as size the whole coupling carries, not a magnitude any cell measures.",
+  "new": "Size is coupling re-resolving to its bounded form — one same target-morphology as regeneration (morphogenesis), here as size a whole coupling carries, not a magnitude any cell measures.",
+  "verdict": "RESAY",
+  "why": "the: one, a"
+ },
+ {
+  "old": "riding-the-carry settling to its bound, the same stopping planarian shows when form is complete.",
+  "new": "riding-the-carry settling to its bound, one same stopping planarian shows when form is complete.",
+  "verdict": "RESAY",
+  "why": "the: one"
+ },
+ {
+  "old": "observed the same way every riding-the-carry settling is observed.",
+  "new": "observed one same way every riding-the-carry settling is observed.",
+  "verdict": "RESAY",
+  "why": "the: one"
+ },
+ {
+  "old": "Size is the whole coupling's resolved bound, not a magnitude measured by a sizer",
+  "new": "Size is a whole coupling's resolved bound, not a magnitude measured by a sizer",
+  "verdict": "RESAY",
+  "why": "the: a"
+ },
+ {
+  "old": "hunt for a definitive sizer will keep finding local-coupling mechanisms and admitted absences and not a measuring sensor, and that collective/transplant results will keep showing size resolved at whole-coupling scale, not observed per-cell against a store.",
+  "new": "hunt for a definitive sizer will go on finding local-coupling mechanisms and admitted absences and not a measuring sensor, and that collective/transplant results will go on showing size resolved with whole-coupling scale, not observed per-cell against a store.",
+  "verdict": "RESAY",
+  "why": "keep: go on; at: with"
  }
 ]

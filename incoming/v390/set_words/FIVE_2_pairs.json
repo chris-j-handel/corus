@@ -1486,5 +1486,23 @@
   "new": "Improving with each entry is bi-momentarying available as that fixed form dissolves, with both sides' continuing expressed.",
   "verdict": "RESAY",
   "why": "at: with; releases: dissolves."
+ },
+ {
+  "old": "Arrows supply no measured transition, duration or natural turn order.",
+  "new": "An arrow is no measured transition, duration or natural turn order.",
+  "verdict": "RESAY",
+  "why": "doer, a table's arrows supplying: re-said as what an arrow is."
+ },
+ {
+  "old": "arithmetic table supplies no such device record.",
+  "new": "arithmetic table is no such device record.",
+  "verdict": "RESAY",
+  "why": "doer, a table supplying: re-said as what it is."
+ },
+ {
+  "old": "Rows express relations of alternating; they assign no additional phases or momentaries.",
+  "new": "Rows are relations of alternating, with no additional phases or momentaries.",
+  "verdict": "RESAY",
+  "why": "doer, rows expressing and assigning: re-said as what they are."
  }
 ]
