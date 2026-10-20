@@ -594,10 +594,16 @@
   "why": "at which: by which; changing: parity-changing."
  },
  {
-  "old": "Heat falls at six of ten, four arrivals each at a completing fixed as a last and at a between fixed as a cut; reactions at a carry fixed as a store and at a rate fixed as a value; bodies at rest and in balance at an opening fixed as a place and at a parity fixed as a magnitude; selves choosing and exchanging at a sequencing fixed to one beat and at a two-way fixed to one side; populations at four of ten; coupling of self and other, and resolver, at seven.",
-  "new": "Heat falls with six of ten, four arrivals each with a completing fixed as a last and with a between fixed as a cut; reactions with a carry fixed as a store and with a rate fixed as a value; bodies at rest and in balance with an opening fixed as a place and with a parity fixed as a magnitude; selves choosing and exchanging with a sequencing fixed to one beat and with a two-way fixed to one side; populations with four of ten; coupling of self and other, and resolver, with seven.",
+  "old": "Heat falls at six of ten, four arrivals each at a completing fixed as a last and at a between fixed as a cut; reactions at a carry fixed as a store and at a rate fixed as a value;",
+  "new": "Heat falls with six of ten, four arrivals each with a completing fixed as a last and with a between fixed as a cut; reactions with a carry fixed as a store and with a rate fixed as a value;",
   "verdict": "RESAY",
-  "why": "at: with; 'bodies at rest and in balance' a subject's own mechanics term, kept. Counts checked against the table: heat 6, 4 and 4; populations 4; coupling 7."
+  "why": "at: with. Counts checked against the table: heat 6, then 4 and 4."
+ },
+ {
+  "old": "bodies at rest and in balance at an opening fixed as a place and at a parity fixed as a magnitude; selves choosing and exchanging at a sequencing fixed to one beat and at a two-way fixed to one side; populations at four of ten; coupling of self and other, and resolver, at seven.",
+  "new": "bodies at rest and in balance with an opening fixed as a place and with a parity fixed as a magnitude; selves choosing and exchanging with a sequencing fixed to one beat and with a two-way fixed to one side; populations with four of ten; coupling of self and other, and resolver, with seven.",
+  "verdict": "RESAY",
+  "why": "at: with; 'bodies at rest and in balance' a subject's own mechanics term, kept. Counts checked against the table: populations 4, coupling 7."
  },
  {
   "old": "Each row fills as arrivals come, each placed at its own words.",
@@ -606,10 +612,16 @@
   "why": "at: by."
  },
  {
-  "old": "**Leads arrive without their statements:** statistical null hypotheses, static cosmology, horizon and observer temperatures, early-universe thermal and gravitational descriptions, a conservation lead and its transformation arriving next, dictionary and etymological leads, a collection of all sets, philosophical accounts, and measuring, locating and separating, Natural Intelligence Corus's three consecutive equilibria, a thing, a relation and a system at rest.",
-  "new": "**Leads arrive without their statements:** statistical null hypotheses, static cosmology, horizon and observer temperatures, early-universe thermal and gravitational descriptions, a conservation lead and its transformation arriving next, dictionary and etymological leads, a collection of all sets, philosophical accounts, and measuring, locating and separating, Natural Intelligence Corus's three consecutive equilibria, a thing, a relation and a system at rest.",
+  "old": "**Leads arrive without their statements:** statistical null hypotheses, static cosmology, horizon and observer temperatures, early-universe thermal and gravitational descriptions,",
+  "new": "**Leads arrive without their statements:** statistical null hypotheses, static cosmology, horizon and observer temperatures, early-universe thermal and gravitational descriptions,",
   "verdict": "KEEP",
-  "why": "Leads named in fields' own terms: 'statistical null hypotheses' is statistics' own term, named as a lead, not a likelihood offered; 'a system at rest' mechanics' own; a work's title kept."
+  "why": "Leads named in fields' own terms: 'statistical null hypotheses' is statistics' own term, named as a lead, not a likelihood offered."
+ },
+ {
+  "old": "philosophical accounts, and measuring, locating and separating, Natural Intelligence Corus's three consecutive equilibria, a thing, a relation and a system at rest.",
+  "new": "philosophical accounts, and measuring, locating and separating, Natural Intelligence Corus's three consecutive equilibria, a thing, a relation and a system at rest.",
+  "verdict": "KEEP",
+  "why": "'a system at rest' is mechanics' own term in its own sense; a work's title kept."
  },
  {
   "old": "Each is placed at ten at its statement's arriving.",
@@ -624,10 +636,16 @@
   "why": "changing: parity-changing; at an entrance: of an entrance; is at one question: meets one question."
  },
  {
-  "old": "Scientific method is not possibly explaining observings of changing and not-changing from prior-existing to next-existing things, and is placed at its fixings: a law, a frame or a scale fixed unchangeable between a signal's leaving and its arriving, each placed at ten through its own stated requirement; with a hypothesis it explains a stilling and a changing without considering the rest of the universe.",
-  "new": "Scientific method cannot explain observings of parity-changing and not-changing from prior-existing to next-existing things, and is placed by its fixings: a law, a frame or a scale fixed unchangeable between a signal's leaving and its arriving, each placed with ten through its own stated requirement; with a hypothesis it explains a stilling and a parity-changing without considering the rest of the universe.",
+  "old": "Scientific method is not possibly explaining observings of changing and not-changing from prior-existing to next-existing things, and is placed at its fixings: a law, a frame or a scale fixed unchangeable between a signal's leaving and its arriving, each placed at ten through its own stated requirement;",
+  "new": "Scientific method cannot explain observings of parity-changing and not-changing from prior-existing to next-existing things, and is placed by its fixings: a law, a frame or a scale fixed unchangeable between a signal's leaving and its arriving, each placed with ten through its own stated requirement;",
   "verdict": "RESAY",
-  "why": "not possibly explaining: cannot explain (possibly kept only in 'possibly existing'); changing: parity-changing; at: by, with; 'the rest of the universe' one and only, kept."
+  "why": "not possibly explaining: cannot explain (possibly kept only in 'possibly existing'); changing: parity-changing; at: by, with."
+ },
+ {
+  "old": "with a hypothesis it explains a stilling and a changing without considering the rest of the universe.",
+  "new": "with a hypothesis it explains a stilling and a parity-changing without considering the rest of the universe.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing; 'the rest of the universe' one and only, kept."
  },
  {
   "old": "accounts for its source's motion between the two.",
@@ -720,10 +738,16 @@
   "why": "at: with; not possible: not possibly existing, a kept phrase, as 2.1; at once: together; 'the one exclusion' one and only, kept."
  },
  {
-  "old": "Advancing an overlapping triple changes `010` to `101` and `101` to `010`: fixing either ordering fails at its next advance, and either ordering reached again at a next momentary is a further occurrence. Included membership required both not-changing and inverted is at the same proof, and so does equality at each chemical conversion: forward and reverse propensities are equal only at count 1, and each conversion takes 1 to 0 or 2.",
-  "new": "Advancing an overlapping triple inverts `010` to `101` and `101` to `010`: fixing either ordering fails with its next advance, and either ordering reached again with a next momentary is a further occurrence. Included membership required both not-changing and inverted meets one same proof, and so does equality with each chemical conversion: forward and reverse propensities are equal only when a count is 1, and each conversion takes 1 to 0 or 2.",
+  "old": "Advancing an overlapping triple changes `010` to `101` and `101` to `010`: fixing either ordering fails at its next advance, and either ordering reached again at a next momentary is a further occurrence.",
+  "new": "Advancing an overlapping triple inverts `010` to `101` and `101` to `010`: fixing either ordering fails with its next advance, and either ordering reached again with a next momentary is a further occurrence.",
   "verdict": "RESAY",
-  "why": "changes: inverts, each place's parity inverting; at: with, when; is at the same proof: meets one same proof. Inline code kept."
+  "why": "changes: inverts, each place's parity inverting; at: with. Inline code kept."
+ },
+ {
+  "old": "Included membership required both not-changing and inverted is at the same proof, and so does equality at each chemical conversion: forward and reverse propensities are equal only at count 1, and each conversion takes 1 to 0 or 2.",
+  "new": "Included membership required both not-changing and inverted meets one same proof, and so does equality with each chemical conversion: forward and reverse propensities are equal only when a count is 1, and each conversion takes 1 to 0 or 2.",
+  "verdict": "RESAY",
+  "why": "is at the same proof: meets one same proof; at: with, when."
  },
  {
   "old": "and a requirement including a fixed boundary comparison fails at its continuation changing exactly one end.",
@@ -732,8 +756,14 @@
   "why": "at ... changing: as ... advances, one end moving on along 0, 1, 2."
  },
  {
-  "old": "F(P,Q)=(−Q,P) visits all four pairs from each pair it opens at. At cos θ's and sin θ's parities F is a right spiral step, θ to θ + 90°, and P and Q agreeing is tan θ positive: tan(θ + 90°) = −1/tan θ inverts it at each step. Each nonempty proper subset is left within at most three advances, {++,−+,−−} from ++ at its third, and subsets F carries into themselves are exactly unions of its one cycle: none or all four.",
-  "new": "F(P,Q)=(−Q,P) visits all four pairs from each pair it opens with. With cos θ's and sin θ's parities F is a right spiral step, θ to θ + 90°, and P and Q agreeing is tan θ positive: tan(θ + 90°) = −1/tan θ inverts it with each step. Each nonempty proper subset is left within three advances or fewer, {++,−+,−−} from ++ with its third, and subsets F carries to themselves are exactly unions of its one cycle: none or all four.",
+  "old": "F(P,Q)=(−Q,P) visits all four pairs from each pair it opens at. At cos θ's and sin θ's parities F is a right spiral step, θ to θ + 90°, and P and Q agreeing is tan θ positive: tan(θ + 90°) = −1/tan θ inverts it at each step.",
+  "new": "F(P,Q)=(−Q,P) visits all four pairs from each pair it opens with. With cos θ's and sin θ's parities F is a right spiral step, θ to θ + 90°, and P and Q agreeing is tan θ positive: tan(θ + 90°) = −1/tan θ inverts it with each step.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Each nonempty proper subset is left within at most three advances, {++,−+,−−} from ++ at its third, and subsets F carries into themselves are exactly unions of its one cycle: none or all four.",
+  "new": "Each nonempty proper subset is left within three advances or fewer, {++,−+,−−} from ++ with its third, and subsets F carries to themselves are exactly unions of its one cycle: none or all four.",
   "verdict": "RESAY",
   "why": "at: with; at most three: three or fewer; into: to. Checked: ++, −+, −−, then +− leaves with a third advance."
  },
@@ -822,9 +852,15 @@
   "why": "at: with, for."
  },
  {
-  "old": "Each sentence at resolver is at Exhibit ONE v380R at tables it cites, by hand at v380L at its sentences of a sharing at no prior, or executed at v377 at Exhibit ONE v376 at a script and part it cites; each sentence at numbers is computed at a script it cites or is at its own arithmetic. An older resolver's derivations, 32 of 32 at its own code, are whole at `archive/carrying_v377/Exhibit_TWENTY-EIGHT_Equilibria_Registry_older_resolver.md`.",
-  "new": "Each sentence of resolver rests on Exhibit ONE v380R by tables it cites, by hand with v380L for its sentences of a sharing with no prior, or executed with v377 on Exhibit ONE v376 by a script and part it cites; each sentence of numbers is computed by a script it cites or rests on its own arithmetic. An older resolver's derivations, 32 of 32 with its own code, are whole within `archive/carrying_v377/Exhibit_TWENTY-EIGHT_Equilibria_Registry_older_resolver.md`.",
+  "old": "Each sentence at resolver is at Exhibit ONE v380R at tables it cites, by hand at v380L at its sentences of a sharing at no prior, or executed at v377 at Exhibit ONE v376 at a script and part it cites; each sentence at numbers is computed at a script it cites or is at its own arithmetic.",
+  "new": "Each sentence of resolver rests on Exhibit ONE v380R by tables it cites, by hand with v380L for its sentences of a sharing with no prior, or executed with v377 on Exhibit ONE v376 by a script and part it cites; each sentence of numbers is computed by a script it cites or rests on its own arithmetic.",
   "verdict": "RESAY",
-  "why": "at: of, on, by, with, for, within (a file and its part). Path kept."
+  "why": "at: of, on, by, with, for."
+ },
+ {
+  "old": "An older resolver's derivations, 32 of 32 at its own code, are whole at `archive/carrying_v377/Exhibit_TWENTY-EIGHT_Equilibria_Registry_older_resolver.md`.",
+  "new": "An older resolver's derivations, 32 of 32 with its own code, are whole within `archive/carrying_v377/Exhibit_TWENTY-EIGHT_Equilibria_Registry_older_resolver.md`.",
+  "verdict": "RESAY",
+  "why": "at: with, within (a file and its part). Path kept."
  }
 ]
