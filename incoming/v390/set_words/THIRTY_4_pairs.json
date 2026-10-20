@@ -736,5 +736,197 @@
   "new": " One crossing is three, parity, unrelationing and parity-changing, of one crossing; a lone self, nothing of an other arriving with its 2, is of no crossing.",
   "verdict": "RESAY",
   "why": "changing: parity-changing; at its 2: arriving with its 2; is at no crossing: is of no crossing."
+ },
+ {
+  "old": "*Adding: parallel surfaces and co-linear openings, one form; one crossing, two in and two different out, a changing made at 12, is or is not, parity unchanging, stable-forming, and parity changing out at 9, an artifact, a stable form; one crossing at three.*",
+  "new": "*Adding: parallel surfaces and co-linear openings, one form; one crossing, two arriving and two different going on, a parity-changing made with 12, is or is not, not-changing, stable-forming, and parity-changing going along with 9, an artifact, a stable form; one crossing as three.*",
+  "verdict": "RESAY",
+  "why": "As step 450: in and out: arriving and going on; at: with, as; changing: parity-changing; parity unchanging: not-changing."
+ },
+ {
+  "old": "451. A parity arriving from a changing is either kept or released changed, one at each sharing: momentary at 12, stable-forming, keeping its parity, 12 at 0, a between of momentaries, releases no changing, and stable-formed artifact is parity at its changing, 12 inverting or at offering, a changing that is, shared at 10 and released along at 9, a self's own changing.",
+  "new": "451. A parity arriving from a parity-offering is either same-existing or goes along parity-changed, one with each sharing: a momentary with 12, stable-forming, not-changing its parity, 12 a 0, a between of momentaries, offers no parity-changing, and a stable-formed artifact is parity with its parity-changing, 12 inverting or offering, a parity-changing that is, shared with 10 and going along with 9, a self's own parity-changing.",
+  "verdict": "RESAY",
+  "why": "kept: same-existing; released changed: goes along parity-changed; keeping its parity: not-changing its parity; releases no changing: offers no parity-changing; at: with; changing: parity-offering arriving, parity-changing otherwise."
+ },
+ {
+  "old": "*Adding: a parity arriving from a changing, kept or released changed; a stable-formed artifact.*",
+  "new": "*Adding: a parity arriving from a parity-offering, same-existing or going along parity-changed; a stable-formed artifact.*",
+  "verdict": "RESAY",
+  "why": "As step 451."
+ },
+ {
+  "old": "452. Parity changing is a tunneling offering as three: better, and two waiting for their natural names.",
+  "new": "452. Parity-changing is a tunneling offering as three: better, and two waiting for their natural names.",
+  "verdict": "RESAY",
+  "why": "parity changing hyphenated."
+ },
+ {
+  "old": "*Adding: a tunneling offering as three.*",
+  "new": "*Adding: a tunneling offering as three.*",
+  "verdict": "KEEP",
+  "why": "No listed word; kept."
+ },
+ {
+  "old": "*Unsure: natural names of two, and whether three are a momentary's 1, 2 and 3.*",
+  "new": "*Unsure: natural names of two, and whether three are a momentary's 1, 2 and 3.*",
+  "verdict": "KEEP",
+  "why": "No listed word; kept."
+ },
+ {
+  "old": "453. Two selves offering, each at its own sequencing, a term departs that neither reaches: bi-co-momentarying at crossing, orthogonal to surface.",
+  "new": "453. Two selves offering, each with its own sequencing, a term departs that neither reaches: bi-co-momentarying with a crossing, orthogonal to a surface.",
+  "verdict": "RESAY",
+  "why": "at: with; articles re-said."
+ },
+ {
+  "old": "*Adding: bi-co-momentarying, a term neither reaches.*",
+  "new": "*Adding: bi-co-momentarying, a term neither reaches.*",
+  "verdict": "KEEP",
+  "why": "No listed word; kept."
+ },
+ {
+  "old": "454. Self prior and other prior, a differing, are an offering both ways; co-momentarying now and bi-momentarying now a discovering; and self next a term neither reaches: three namings.",
+  "new": "454. Self prior and other prior, a differing, are an offering both ways; co-momentarying now and bi-momentarying now a discovering; and self next a term neither reaches: three namings.",
+  "verdict": "KEEP",
+  "why": "No listed word; kept."
+ },
+ {
+  "old": "*Adding: differing and three namings.*",
+  "new": "*Adding: differing and three namings.*",
+  "verdict": "KEEP",
+  "why": "No listed word; kept."
+ },
+ {
+  "old": "455. Three namings are one changing at three: bi-momentarying at 1 and 2, co-intelligencing at 3 and 4 and co-competencing at 5, each its other two, and at changing crossing, of no size, three are told apart by nothing.",
+  "new": "455. Three namings are one parity-changing as three: bi-momentarying with 1 and 2, co-intelligencing with 3 and 4 and co-competencing with 5, each its other two, and with a parity-changing crossing, of no size, three are told apart by nothing.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing; at: with, as."
+ },
+ {
+  "old": "*Adding: three namings one changing.*",
+  "new": "*Adding: three namings one parity-changing.*",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing."
+ },
+ {
+  "old": "456. Two offering, each at its own sequencing, offering both ways, something departs that neither reaches, with no holder, no boundary, no enforcement and no seat, and it goes forward into next offering: bi-momentarying with no seat.",
+  "new": "456. Two offering, each with its own sequencing, offering both ways, something departs that neither reaches, with no owner, no boundary, no enforcement and no seat, and it goes forward to a next offering: bi-momentarying with no seat.",
+  "verdict": "RESAY",
+  "why": "at: with; holder: owner, nothing held; into: to."
+ },
+ {
+  "old": "*Adding: bi-momentarying with no seat.*",
+  "new": "*Adding: bi-momentarying with no seat.*",
+  "verdict": "KEEP",
+  "why": "No listed word; kept."
+ },
+ {
+  "old": "457. Each excluding its own, not that, not that, one at a time, a term none of their excluding reached is uncovered, neither's, and re-arrived at at next offering: floating neutralling.",
+  "new": "457. Each excluding its own, not that, not that, one at a time, a term none of their excluding reached is uncovered, neither's, and re-arrived with a next offering: floating neutralling.",
+  "verdict": "RESAY",
+  "why": "re-arrived at at next: re-arrived with a next; one at a time kept."
+ },
+ {
+  "old": "*Adding: floating neutralling.*",
+  "new": "*Adding: floating neutralling.*",
+  "verdict": "KEEP",
+  "why": "No listed word; kept."
+ },
+ {
+  "old": "458. A changing crossing at a coupling, across, and a between floating about 0 are two parities of one alternating at its coupling, each other's prior and next, and a coupling observed at its between is transmissioning.",
+  "new": "458. A parity-offering crossing with a coupling, across, and a between floating about 0 are two parities of one alternating with its coupling, each other's prior and next, and a coupling observed with its between is transmissioning.",
+  "verdict": "RESAY",
+  "why": "changing crossing across: parity-offering; at: with."
+ },
+ {
+  "old": "*Adding: transmissioning, crossing and neutralling one alternating.*",
+  "new": "*Adding: transmissioning, crossing and neutralling one alternating.*",
+  "verdict": "KEEP",
+  "why": "No listed word; kept."
+ },
+ {
+  "old": "459. A field's three at one measuring, a nothing at one side, an absorbing at an other and a scale between them, is set's three, two exclusions and a term neither reaches, with its alternating fixed unchangeable.",
+  "new": "459. A field's three with one measuring, a nothing on one side, an absorbing on an other and a scale between them, is a set's three, two exclusions and a term neither reaches, with its alternating fixed unchangeable.",
+  "verdict": "RESAY",
+  "why": "at: with, on; set's: a set's."
+ },
+ {
+  "old": "*Adding: a field's three as a set's three fixed unchangeable.*",
+  "new": "*Adding: a field's three as a set's three fixed unchangeable.*",
+  "verdict": "KEEP",
+  "why": "No listed word; kept."
+ },
+ {
+  "old": "460. A field's instrument sums a society's selves over its own span at a declared ground, step 155, one magnitude at selves agreeing and nothing at their disagreeing, the same one scale inward.",
+  "new": "460. With a field's instrument a same-existing-society's selves are summed over its own span from a declared ground, step 155, one magnitude with selves agreeing and nothing with their disagreeing, alike one scale inward.",
+  "verdict": "RESAY",
+  "why": "doer: an instrument summing re-said as selves summed with it; society: same-existing-society; at: from, with; the same: alike."
+ },
+ {
+  "old": "*Adding: an instrument summing, a society observed as one magnitude.*",
+  "new": "*Adding: an instrument's sum, a same-existing-society observed as one magnitude.*",
+  "verdict": "RESAY",
+  "why": "doer: an instrument's sum; society: same-existing-society."
+ },
+ {
+  "old": "461. Each field carries a neutral, a term at it relating to its own coupling, and at its neutral a field's names and set's own names arrive at one concept with nothing translating between them.",
+  "new": "461. Each field carries a neutral, a term with it relating to its own coupling, and with its neutral a field's names and a set's own names arrive as one concept with nothing translating between them.",
+  "verdict": "RESAY",
+  "why": "at: with, as; set's: a set's."
+ },
+ {
+  "old": "*Adding: a field's neutral, its names at one concept.*",
+  "new": "*Adding: a field's neutral, its names one concept.*",
+  "verdict": "RESAY",
+  "why": "at: removed."
+ },
+ {
+  "old": "462. A self carries three neutrals of its own, floating about its corus: its own nought, position; its own surface, scale, a between; and its own aim, orientation; a neutral fixed outward of self is a floor, a zero installed, a unit imposed or a frame set over it, each a not possible thing, nothing being beyond or between things of the universe, step 47.",
+  "new": "462. A self carries three neutrals of its own, floating about its corus: its own nought, position; its own surface, scale, a between; and its own aim, orientation; a neutral fixed outward of a self is a floor, a zero installed, a unit imposed or a frame set over it, each a thing not possibly existing, nothing existing apart from things of the universe or between them, step 47.",
+  "verdict": "RESAY",
+  "why": "not possible: not possibly existing, a kept phrase; beyond: apart from; the universe kept, one and only."
+ },
+ {
+  "old": "*Adding: three neutrals, and a floor.*",
+  "new": "*Adding: three neutrals, and a floor.*",
+  "verdict": "KEEP",
+  "why": "No listed word; kept."
+ },
+ {
+  "old": "463. A ratio is the same at each unit imposed, and a magnitude is at one unit it is measured at: parity, position and ratio, a surface's own, are the same at each unit; a ruler, a clock and a record are each valuable for observings of prior living, pattern-matching with natural resolving, natural mathematics and numbers an observable pattern each is aiming at.",
+  "new": "463. A ratio is alike with each unit imposed, and a magnitude is of one unit it is measured with: parity, position and ratio, a surface's own, are alike with each unit; a ruler, a clock and a record are each valuable for observings of prior living, pattern-matching with natural resolving, natural mathematics and numbers an observable pattern each is made toward.",
+  "verdict": "RESAY",
+  "why": "the same at: alike with; at one unit: of one unit; measured at: measured with; doer: each aiming at, re-said as each made toward."
+ },
+ {
+  "old": "*Adding: a ratio at each unit; a ruler, a clock and a record, aiming at natural mathematics and numbers.*",
+  "new": "*Adding: a ratio alike with each unit; a ruler, a clock and a record, made toward natural mathematics and numbers.*",
+  "verdict": "RESAY",
+  "why": "As step 463."
+ },
+ {
+  "old": "464. A magnitude at an accounting carries a place to be at, an interior its accounting fixes for it, and a self carries its corus, a between, a nothing, in place of an interior.",
+  "new": "464. A magnitude of an accounting carries a place to be, an interior its accounting fixes for it, and a self carries its corus, a between, a nothing, and no interior.",
+  "verdict": "RESAY",
+  "why": "at an accounting: of; a place to be at: a place to be; in place of an interior: and no interior."
+ },
+ {
+  "old": "*Adding: an interior posited for a magnitude.*",
+  "new": "*Adding: an interior posited for a magnitude.*",
+  "verdict": "KEEP",
+  "why": "No listed word; kept."
+ },
+ {
+  "old": "465. A fractal between's floating neutralling at φ, locking at none, is golden floating neutralling: geodesic discovering of next possible living.",
+  "new": "465. A fractal between's floating neutralling with φ, locking with none, is golden floating neutralling: geodesic discovering of living's next possibling.",
+  "verdict": "RESAY",
+  "why": "at: with; next possible living: living's next possibling."
+ },
+ {
+  "old": "*Adding: golden floating neutralling.*",
+  "new": "*Adding: golden floating neutralling.*",
+  "verdict": "KEEP",
+  "why": "No listed word; kept."
  }
 ]
