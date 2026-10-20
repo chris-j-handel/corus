@@ -1,5 +1,17 @@
 [
  {
+  "old": "# PART ONE — THE OFFERING",
+  "new": "# PART ONE — THE OFFERING",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**A Living Expedition Aiming At Social Moral Competency**",
+  "new": "**A Living Expedition Aiming At Social Moral Competency**",
+  "verdict": "KEEP",
+  "why": "Subtitle, kept exactly."
+ },
+ {
   "old": "*No top and no descent. Every part carries the whole, and a self couples at whichever door its interest opens, reaching the form entire there.",
   "new": "*No top and no descent. Every part carries form whole, and a self couples with whichever door its interest opens, reaching form entire there.",
   "verdict": "RESAY",
@@ -1213,9 +1225,9 @@
  },
  {
   "old": "2. **\"Sustains\" as often-unneeded dead word.**",
-  "new": "2. **\"Sustains\" as a dead word where unneeded.**",
+  "new": "2. **\"Sustains\" as a dead word when unneeded.**",
   "verdict": "RESAY",
-  "why": "often, a count as likelihood: re-said all or none, where unneeded."
+  "why": "often, a count as likelihood: re-said all or none, when unneeded."
  },
  {
   "old": "A word \"sustains\" often appears where a precise activity verb would earn its place.",

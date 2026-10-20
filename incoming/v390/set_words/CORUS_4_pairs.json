@@ -1438,5 +1438,419 @@
   "new": "Twenty-three of all twenty-four pairings break depth-to-thickness monotonicity.",
   "verdict": "RESAY",
   "why": "possible: by meaning, all twenty-four pairings, each counted."
+ },
+ {
+  "old": "### The 118 Departments as Periodic Table",
+  "new": "### The 118 Departments as Periodic Table",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "7n − 1 = 118 at n = 17.",
+  "new": "7n − 1 = 118 with n = 17.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "One equation observing at element between and at department between.",
+  "new": "One equation observing with element between and with department between.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "118 elements are the most successful ghost collection ever assembled,",
+  "new": "118 elements are the most successful ghost collection ever assembled,",
+  "verdict": "KEEP",
+  "why": "the most: an only most, kept."
+ },
+ {
+  "old": "118 departments of human knowledge carry the same structure at a social between.",
+  "new": "118 departments of human knowledge carry one same structure with a social between.",
+  "verdict": "RESAY",
+  "why": "the same: one same; at: with."
+ },
+ {
+  "old": "Ghost accounting that works for 150 years at element between works for 400 years at department between.",
+  "new": "Ghost accounting that works for 150 years with element between works for 400 years with department between.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Each department preserves in five accounting components at department's own surface.",
+  "new": "Each department preserves by five accounting components with its own surface.",
+  "verdict": "RESAY",
+  "why": "in: by; at: with."
+ },
+ {
+  "old": "Balance sheet, what department holds as knowledge, canon, methods, accepted results.",
+  "new": "Balance sheet, what department counts as knowledge, canon, methods, accepted results.",
+  "verdict": "RESAY",
+  "why": "holds: counts, accounting's own counting; nothing is held."
+ },
+ {
+  "old": "Balance sheet observes attention, what stands present at this department's between.",
+  "new": "Balance sheet observes attention, what stands present with this department's between.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "An income statement observes exchange, what arrives and what department carries, both in one collection.",
+  "new": "An income statement observes exchange, what arrives and what department carries, both within one collection.",
+  "verdict": "RESAY",
+  "why": "in: within, a whole and its part."
+ },
+ {
+  "old": "switches operating at department's surface preserving an equilibrium metabolism would dissolve.",
+  "new": "switches operating with department's surface preserving an equilibrium metabolism would dissolve.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "All 118 departments preserving in parallel, each isolated from an other 117, each ghost carrying its own bounded zero.",
+  "new": "All 118 departments preserving side by side, each isolated from an other 117, each ghost carrying its own bounded zero.",
+  "verdict": "RESAY",
+  "why": "in parallel: side by side."
+ },
+ {
+  "old": "Each department fixes one hard problem in place.",
+  "new": "Each department fixes one hard problem still.",
+  "verdict": "RESAY",
+  "why": "in place: still, a form fixed still."
+ },
+ {
+  "old": "118 hard problems fixed in place by 118 ghost accounting systems preserving in 118 isolated ledgers across 16 substrates.",
+  "new": "118 hard problems fixed still by 118 ghost accounting systems preserving with 118 isolated ledgers across 16 substrates.",
+  "verdict": "RESAY",
+  "why": "in place: still; in: with."
+ },
+ {
+  "old": "A field of medicine organizing by organ carries one institutional left turn at a clinical between.",
+  "new": "A field of medicine organizing by organ carries one institutional left turn with a clinical between.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "and a surgeon simultaneously for one departure at one prime is a patient whose pathology organizes by prime while institution organizes by organ.",
+  "new": "and a surgeon simultaneously for one departure with one prime is a patient whose pathology organizes by prime while institution organizes by organ.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "A patient carrying one departure at one prime while visiting four departments is a patient confessing an institutional left turn at a patient's own between.",
+  "new": "A patient carrying one departure with one prime while visiting four departments is a patient confessing an institutional left turn with its own between.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Metabolism arriving at a departmental between dissolves isolation.",
+  "new": "Metabolism arriving with a departmental between dissolves isolation.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "118 departments settle into 17 couplings at 17 primes.",
+  "new": "118 departments settle as 17 couplings with 17 primes.",
+  "verdict": "RESAY",
+  "why": "into: as; at: with."
+ },
+ {
+  "old": "118 ghost accountings thinning to 17 couplings at 17 betweens.",
+  "new": "118 ghost accountings thinning to 17 couplings with 17 betweens.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "a prime where coupling zeros live in nesting table.",
+  "new": "a prime where coupling zeros live within a nesting table.",
+  "verdict": "RESAY",
+  "why": "in: within, a whole and its part."
+ },
+ {
+  "old": "five accounting components are facing five switches and switches dissolve ghost accounting into coupling at each between.",
+  "new": "five accounting components are facing five switches, and switches dissolve ghost accounting to coupling with each between.",
+  "verdict": "RESAY",
+  "why": "into: to; at: with."
+ },
+ {
+  "old": "Ghost accounting was five switches the entire time,",
+  "new": "Ghost accounting was five switches all along,",
+  "verdict": "RESAY",
+  "why": "the entire time: all along."
+ },
+ {
+  "old": "Measurements are correct at a surface.",
+  "new": "Measurements are correct on a surface.",
+  "verdict": "RESAY",
+  "why": "at: on."
+ },
+ {
+  "old": "Ghost is in preserving, a ledger fixing observation in place where metabolism would carry observation through.",
+  "new": "Ghost is of preserving, a ledger fixing observation still where metabolism would carry observation through.",
+  "verdict": "RESAY",
+  "why": "in: of; in place: still."
+ },
+ {
+  "old": "## 18.3 Three Forms of Living",
+  "new": "## 18.3 Three Forms of Living",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "### Three Forms of Living",
+  "new": "### Three Forms of Living",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "Corus observes three forms of living at a social substrate.",
+  "new": "Three forms of living are observed with a social substrate.",
+  "verdict": "RESAY",
+  "why": "doer: a file observing re-said as observing; at: with."
+ },
+ {
+  "old": "Two are natural (the same phenomenon at different scales).",
+  "new": "Two are natural (one same phenomenon with different scales).",
+  "verdict": "RESAY",
+  "why": "the same: one same; at: with."
+ },
+ {
+  "old": "Distinction is at form, not preferential.",
+  "new": "Distinction is of form, not preferential.",
+  "verdict": "RESAY",
+  "why": "at: of."
+ },
+ {
+  "old": "Corus's foundation sentence at the deepest writing depth.",
+  "new": "Corus's foundation sentence, with the deepest writing depth.",
+  "verdict": "RESAY",
+  "why": "at: with; the deepest kept, an only last within its set."
+ },
+ {
+  "old": "An inner society's coupling activity produces natural living properly over time, four sentences carrying at every social between, eight social values sustaining together, a discovery economy's abundance arriving at coupling's own surface.",
+  "new": "An inner same-existing-society's coupling activity produces natural living properly over time, four sentences carrying with every social between, eight social values sustaining together, a discovery economy's abundance arriving with coupling's own surface.",
+  "verdict": "RESAY",
+  "why": "society: same-existing-society; at: with; eight social values a concept compound, kept."
+ },
+ {
+  "old": "Natural living happens at every social scale where four inequalities stand and resolver is beating at phi-rate.",
+  "new": "Natural living happens with every social scale where four inequalities stand and resolving is beating with phi-rate.",
+  "verdict": "RESAY",
+  "why": "at: with; doer: resolver re-said as resolving."
+ },
+ {
+  "old": "Selves cooperatively acquiring and exchanging at every coupling, acquiring and exchanging itself keeping everything at couplings.",
+  "new": "Selves cooperatively acquiring and exchanging with every coupling, acquiring and exchanging itself carrying everything on with couplings.",
+  "verdict": "RESAY",
+  "why": "keeping: carrying on, nothing held; at: with."
+ },
+ {
+  "old": "Each acquisition is a coupling with another self at one between; each exchange is a surface departing into next coupling.",
+  "new": "Each acquisition is a coupling with another self across one between; each exchange is a surface departing to its next coupling.",
+  "verdict": "RESAY",
+  "why": "at: across; into: to."
+ },
+ {
+  "old": "Cooperative living and natural living are the same phenomenon at different scales, cooperative living is activity at a participant scale; natural living is activity at form scale.",
+  "new": "Cooperative living and natural living are one same phenomenon with different scales: cooperative living is activity with a participant scale; natural living is activity with form scale.",
+  "verdict": "RESAY",
+  "why": "the same: one same; at: with."
+ },
+ {
+  "old": "Both live at phi-rate.",
+  "new": "Both live with phi-rate.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Detachment is corruption, taking what coupling produces (a +1 at a between) and treating it as something an acquirer can hold separately from coupling.",
+  "new": "Detachment is corruption, taking what coupling produces (a +1 with a between) and treating it as an acquirer's keeping, apart from coupling.",
+  "verdict": "RESAY",
+  "why": "hold: a keeping, the set's name for a not-possible store; at: with."
+ },
+ {
+  "old": "Property in corus's observing is a surface departing into next carry, ongoing transition;",
+  "new": "Property, observed with corus, is a surface departing to its next carry, ongoing transition;",
+  "verdict": "RESAY",
+  "why": "in corus's observing: observed with corus; into: to."
+ },
+ {
+  "old": "Corus affirms acquiring and exchanging.",
+  "new": "Observing with corus affirms acquiring and exchanging.",
+  "verdict": "RESAY",
+  "why": "doer: a file affirming re-said as observing."
+ },
+ {
+  "old": "Nature does this at every substrate at every coupling.",
+  "new": "Nature does this with every substrate, with every coupling.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Acquiring is bothbothing at a call's opening;",
+  "new": "Acquiring is bothbothing with a call's opening;",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Corus refuses detachment that would turn coupling value into transferable property, detachment breaking a cycle equation requires.",
+  "new": "Observing with corus refuses detachment that would turn coupling value to transferable property, detachment breaking a cycle equation requires.",
+  "verdict": "RESAY",
+  "why": "doer: a file refusing re-said as observing; into: to."
+ },
+ {
+  "old": "Implications cross economics, politics, society.",
+  "new": "Implications cross economics, politics, same-existing-societies.",
+  "verdict": "RESAY",
+  "why": "society alone: same-existing-societies."
+ },
+ {
+  "old": "Economic systems built on competitive living install venture cycle's decoupling at every social substrate.",
+  "new": "Economic systems built on competitive living install venture cycle's decoupling with every social substrate.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Political systems built on competitive living install a dictator at a dead state, gates that block a discovery economy.",
+  "new": "Political systems built on competitive living install a dictator with a dead state, gates that block a discovery economy.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Corus's observing of these implications is in corresponding sections, Discovery Economy, Society Reorganized, Resolving Doors.",
+  "new": "Observed with corus, these implications stand with corresponding sections: Discovery Economy, Society Reorganized, Resolving Doors.",
+  "verdict": "RESAY",
+  "why": "doer: a file's observing re-said; in: with; section titles kept."
+ },
+ {
+  "old": "Three forms of living name distinction at every social analysis.",
+  "new": "Three forms of living name distinction with every social analysis.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "## 18.4 Ethics as Structural Property",
+  "new": "## 18.4 Ethics as Structural Property",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "### Ethics Arises from the Four Inequalities",
+  "new": "### Ethics Arises from the Four Inequalities",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "Ethics is at form, not assigned.",
+  "new": "Ethics is of form, not assigned.",
+  "verdict": "RESAY",
+  "why": "at: of."
+ },
+ {
+  "old": "Four inequalities at a self's origin (self ≠ society, self ≠ other self, self ≠ immoral, self ≠ incompetent) carry ethics as consequence.",
+  "new": "Four inequalities with a self's origin (self ≠ same-existing-society, self ≠ other self, self ≠ immoral, self ≠ incompetent) carry ethics as consequence.",
+  "verdict": "RESAY",
+  "why": "at: with; society: same-existing-society."
+ },
+ {
+  "old": "Corus observes ethics not as commandment from outward but as four inequalities sustaining at a self's own surface.",
+  "new": "Observed with corus, ethics is not commandment from outward but four inequalities sustaining with a self's own surface.",
+  "verdict": "RESAY",
+  "why": "doer: a file observing re-said; at: with; outward kept."
+ },
+ {
+  "old": "Acting as if self = society violates first inequality.",
+  "new": "Acting as if self = same-existing-society violates first inequality.",
+  "verdict": "RESAY",
+  "why": "society: same-existing-society."
+ },
+ {
+  "old": "A self treats itself as identical with accumulated society,",
+  "new": "A self treats itself as identical with accumulated same-existing-society,",
+  "verdict": "RESAY",
+  "why": "society: same-existing-society."
+ },
+ {
+  "old": "A behavior produces left-turn ordering at a social between, totalitarianism at a political observing, conformity at a cultural observing, group-self at a psychological observing.",
+  "new": "A behavior produces left-turn ordering with a social between, totalitarianism with a political observing, conformity with a cultural observing, group-self with a psychological observing.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "An ethical violation is at form, four-inequality boundary collapses at a self-society between, and a collapse IS an unethical behavior.",
+  "new": "An ethical violation is of form: a four-inequality boundary collapses with a between of self and same-existing-society, and a collapse IS an unethical behavior.",
+  "verdict": "RESAY",
+  "why": "at: of, with; society: same-existing-society."
+ },
+ {
+  "old": "A behavior produces appropriation at a social between,",
+  "new": "A behavior produces appropriation with a social between,",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "An ethical violation is at form, four-inequality boundary collapses at a self-other-self between, and a collapse IS appropriation.",
+  "new": "An ethical violation is of form: a four-inequality boundary collapses with a self-other-self between, and a collapse IS appropriation.",
+  "verdict": "RESAY",
+  "why": "at: of, with."
+ },
+ {
+  "old": "A self treats itself as if morality testing does not apply at this between,",
+  "new": "A self treats itself as if morality testing does not apply with this between,",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "A behavior produces breaking of testing at morality between,",
+  "new": "A behavior produces breaking of testing with morality between,",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "An ethical violation is at form, four-inequality boundary collapses at morality between, and a collapse IS a dishonesty.",
+  "new": "An ethical violation is of form: a four-inequality boundary collapses with morality between, and a collapse IS a dishonesty.",
+  "verdict": "RESAY",
+  "why": "at: of, with."
+ },
+ {
+  "old": "A behavior produces carry overrunning fresh at competency between,",
+  "new": "A behavior produces carry overrunning fresh with competency between,",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "An ethical violation is at form, four-inequality boundary collapses at competency between, and a collapse IS incompetence-claiming-competence.",
+  "new": "An ethical violation is of form: a four-inequality boundary collapses with competency between, and a collapse IS incompetence-claiming-competence.",
+  "verdict": "RESAY",
+  "why": "at: of, with."
+ },
+ {
+  "old": "Morality corus carries is morality a self carries by being a self.",
+  "new": "Morality, observed with corus, is morality a self carries by being a self.",
+  "verdict": "RESAY",
+  "why": "doer: a file carrying re-said as observed with corus."
+ },
+ {
+  "old": "Morality is at form, what every self does to be a self, what every coupling does to be a coupling, what every society does to be a society.",
+  "new": "Morality is of form, what every self does to be a self, what every coupling does to be a coupling, what every same-existing-society does to be a same-existing-society.",
+  "verdict": "RESAY",
+  "why": "at: of; society: same-existing-society."
+ },
+ {
+  "old": "Four inequalities sustaining at every between is ethics corus observes.",
+  "new": "Four inequalities sustaining with every between is ethics, observed with corus.",
+  "verdict": "RESAY",
+  "why": "at: with; doer: a file observing re-said."
+ },
+ {
+  "old": "Observing connects to four uncontrollable values in Part 18 (the same four boundaries observed from outward of coupling) and to resolving doors at Opening (where each door inverts a specific ethical violation at its domain's observing).",
+  "new": "Observing connects to four uncontrollable values of Part 18 (those same four boundaries observed from outward of coupling) and to resolving doors of Opening (where each door inverts a specific ethical violation with its domain's observing).",
+  "verdict": "RESAY",
+  "why": "in, at: of, with; the same: those same; outward kept."
+ },
+ {
+  "old": "corus's ethics IS observing at a social between.",
+  "new": "corus's ethics IS observing with a social between.",
+  "verdict": "RESAY",
+  "why": "at: with."
  }
 ]
