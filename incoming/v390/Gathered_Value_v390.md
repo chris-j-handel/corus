@@ -27,25 +27,29 @@ This gathers what session v390 learned, read whole from its transcript by four r
 
 ## 2. Earlier sayings improved within session v390
 
-| Earlier | Now |
-|---|---|
-| *Observing is a self observing prior-existing, its own and others'* | Observing is distinguishing same as, is or is not |
-| Observing as presence, absence or changing; then existing, non-existing or changing | Same as; nothing non-existing is in a universe of all now-existing things |
-| Parity as a side, + or −; then parity as a floating neutraling zero | A parity is one whole is or is not; parity-changing between is and is not |
-| Recognizing and improving lines; improving is prior recognition | One self's three ways, the truple: not-changing, parity-changing, both |
-| Four-cycling opening with discovering; then opening still-existing | Four-cycling is prior, now, next, same-existing; names agreed |
-| Observing faces prior, discovering faces next | Each phase is a pair of two neighbouring times, a mirror |
-| Phases as agency pairs naming society | Phases as pairs of three times; society dissolves from the resolver |
-| Rename prioring to observing and changing to discovering; long names with self and other | Seventeen short names, no self, truples beside |
-| *A changing*, a share | Parity-offering |
-| Society | Same-existing-society |
-| Any two give a third, no other possible | On a flat turn; a wrapping third edge is or is not parity-changing |
-| Non-living as one scale seen from outward | Non-living, one same method with no same-existing |
-| Self-possibling as a floating zero; a zero set inside a method | Still-possibling, a 0 re-found, a self offering nothing |
-| Random-society counts | Co-chaining, all or none; no statistics |
-| Bounded, bound | No boundaries |
-| More than one | One or more, a non-empty set |
-| Living arriving partway through an opening | Living prior to 1-now-existing |
+- **Earlier: *Observing is a self observing prior-existing, its own and others'*** · *Now*: Observing is distinguishing same as, is or is not
+- **Earlier: Observing as presence, absence or changing; then existing, non-existing or changing**
+  - *Now*: Same as; nothing non-existing is in a universe of all now-existing things
+- **Earlier: Parity as a side, + or −; then parity as a floating neutraling zero**
+  - *Now*: A parity is one whole is or is not; parity-changing between is and is not
+- **Earlier: Recognizing and improving lines; improving is prior recognition**
+  - *Now*: One self's three ways, the truple: not-changing, parity-changing, both
+- **Earlier: Four-cycling opening with discovering; then opening still-existing**
+  - *Now*: Four-cycling is prior, now, next, same-existing; names agreed
+- **Earlier: Observing faces prior, discovering faces next** · *Now*: Each phase is a pair of two neighbouring times, a mirror
+- **Earlier: Phases as agency pairs naming society**
+  - *Now*: Phases as pairs of three times; society dissolves from the resolver
+- **Earlier: Rename prioring to observing and changing to discovering; long names with self and other** · *Now*: Seventeen short names, no self, truples beside
+- **Earlier: *A changing*, a share** · *Now*: Parity-offering
+- **Earlier: Society** · *Now*: Same-existing-society
+- **Earlier: Any two give a third, no other possible**
+  - *Now*: On a flat turn; a wrapping third edge is or is not parity-changing
+- **Earlier: Non-living as one scale seen from outward** · *Now*: Non-living, one same method with no same-existing
+- **Earlier: Self-possibling as a floating zero; a zero set inside a method** · *Now*: Still-possibling, a 0 re-found, a self offering nothing
+- **Earlier: Random-society counts** · *Now*: Co-chaining, all or none; no statistics
+- **Earlier: Bounded, bound** · *Now*: No boundaries
+- **Earlier: More than one** · *Now*: One or more, a non-empty set
+- **Earlier: Living arriving partway through an opening** · *Now*: Living prior to 1-now-existing
 
 Earlier droplets keep their place at the offerings as a record of exploring. This table says which stand.
 

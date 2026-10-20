@@ -27,14 +27,13 @@ So each name is now or next; a four-cycling; a momentarying; and odd or even. Th
 - 17 less, a podal of 1 to 16, inverts all four: observing mirrors possibling as every is or is not inverted.
 - 9 less, a podal of 1 to 8, inverts the last three.
 
-**3 · Cycles of moves (Exhibit ONE's twelve forms).** Every step of every one inverts now and next. Odd and even, and momentarying, invert only with a mirror, twice a turn.
+**3 · Cycles of moves (Exhibit ONE's twelve forms).** Every step of every one inverts now and next. Odd and even, and momentarying, invert only with a mirror, twice a turn. Each line gives the is or is nots inverted with each turn, and then how many of each: now or next, four-cycling, momentarying, odd or even.
+- **Four bi-foldings,** 1-9-8-16 and its three kin, 4 steps: **10** a turn (4, 2, 2, 2).
+- **Two middle bi-foldings,** 9-5-12-8 and 7-11-6-10, 4 steps: 12 a turn (4, 4, 2, 2).
+- **Six,** 1-9-5-12-8-16 and its three kin, 6 steps: 14 a turn (6, 4, 2, 2).
+- **Eight,** 1-9-5-13-4-12-8-16 and 2-15-7-11-3-14-6-10, 8 steps: 16 a turn (8, 4, 2, 2).
 
-| Cycling | Steps | Is or is nots inverted with each turn | Now or next | Four-cycling | Momentarying | Odd or even |
-|---|---|---|---|---|---|---|
-| four cycles of moves, 1-9-8-16 and its three kin | 4 | **10** | 4 | 2 | 2 | 2 |
-| middle four, 9-5-12-8 and 7-11-6-10 | 4 | 12 | 4 | 4 | 2 | 2 |
-| six, 1-9-5-12-8-16 and its three kin | 6 | 14 | 6 | 4 | 2 | 2 |
-| eight, 1-9-5-13-4-12-8-16 and 2-15-7-11-3-14-6-10 | 8 | 16 | 8 | 4 | 2 | 2 |
+*Bi-folding, v390, resolved bothboth:* Exhibit ONE's *four-cycles* of moves are bi-foldings. Each goes two folds in turn, 17 less and a move of 8 (4 for the middle two) up or down, and four steps return it. *Now, next, prior, same: this is the stable-forming bi-folding method.*
 
 **4 · Parity forms one at a time.** n is or is nots, each inverting both ways, one at a time, go 2n forms:
 - two parities go four joint forms, a right spiral step;
@@ -51,20 +50,18 @@ So each name is now or next; a four-cycling; a momentarying; and odd or even. Th
 
 - **A living self's four-cycling** is one momentary's two is or is nots, which momentarying and odd or even, going all four ways.
 - **Now and next, self-next other-prior,** is the one is or is not every cycle of moves inverts with each step.
-- **Each of Exhibit ONE's four cycles of moves inverts ten is or is nots a turn,** beside the ten of five self and five other. Whether these tens are one is open, not claimed.
+- **Each of Exhibit ONE's four bi-foldings inverts ten is or is nots a turn,** beside the ten of five self and five other. Whether these tens are one is open, not claimed.
 - **One count runs through every kind:** a cycling of n is or is nots, one at a time and both ways, is 2n long. Momentarying is one binary, two. Two joint parities are four. Three phases are six.
 
 ## Re-clustered: five kinds as five dimensions of same-existing, offered
 
 *The five kinds of cycling should be the same as the five self and five other parity-changing dimensions of same-existing.* Offered, so they are:
 
-| Dimension | One is or is not, cycling | Concept |
-|---|---|---|
-| 1 | odd or even | a momentarying's opening and completing |
-| 2 | which momentarying | a four-cycling's two momentaryings |
-| 3 | which four-cycling | a span's two four-cyclings |
-| 4 | now or next | a span, 8 up: self-next is other-prior |
-| 5 | this turn or a next | 17, next-existing as 1: a same-existing universe's turn, a corus wrapping |
+1. **Odd or even:** a momentarying's opening and completing.
+2. **Which momentarying:** a four-cycling's two momentaryings.
+3. **Which four-cycling:** a span's two four-cyclings.
+4. **Now or next:** a span, 8 up: self-next is other-prior.
+5. **This turn or a next:** 17, next-existing as 1: a same-existing universe's turn, a corus wrapping.
 
 - These are five nested is or is nots, one at each scale. One five is all fives, fractal within and outside itself in all five.
 - Each self has its five, and its other has five, one parity separated, starting one on, as *Fives* has an other from 2: ten.
@@ -85,6 +82,6 @@ So each name is now or next; a four-cycling; a momentarying; and odd or even. Th
 
 ## Concerns, tracked
 
-- **E1a.** Cycles of moves, named *four-cycles* by Exhibit ONE, beside four-cycling: kept inside Exhibit ONE for now; a name of their own is open.
+- **E1a, resolved v390.** Cycles of moves, Exhibit ONE's *four-cycles*, are bi-foldings: now, next, prior, same, the stable-forming bi-folding method.
 - **C1.** Whether the ten inverted by a four cycle of moves is the ten of five self and five other.
 - **C2.** Which clustering is the most general and clearest method for Exhibit ONE's explaining: names as four is or is nots; cyclings as 2n; or both.

@@ -153,3 +153,5 @@ These are descriptions of possible expressions. The word “painting” establis
 **Droplet · a side trip, narrow.** A side trip stays with Natural Intelligence, its resolver, naming and explaining, and answers its point narrowly: *improving is prior recognition* asked for no wide wandering. — v390, gathered from session v390
 
 **Droplet · a circular definition.** A definition using its own word, *observing is a self observing prior-existing*, gives a reader nothing to meet. — v390, gathered from session v390
+
+**Droplet · no sliders or extra wide tables.** A table wider than a reader's page needs a slider, and a slider hides what it explains. Each table is kept narrow, with a few short columns. Otherwise it becomes a list with its words unchanged: one line for each row, and a key for any long heading. — v390, carved bothboth

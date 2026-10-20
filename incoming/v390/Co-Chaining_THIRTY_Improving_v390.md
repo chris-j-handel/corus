@@ -22,32 +22,34 @@ Exhibit THIRTY v389 walks 42 groups of numbered steps from one opening sentence,
 
 ## 2. Steps 1 to 50, read one by one
 
-| Steps | Reading | Session v390's saying |
-|---|---|---|
-| 1 | stands | inception |
-| 2 | release | second inception; negation; *beyond* |
-| 3 | re-say | one binary, same-as, is or is not |
-| 4 | re-say | observing finds one universal set; no assertion of now |
-| 5 | re-say | changing alone, *still*, *kept* |
-| 6 | release | three universes beside one |
-| 7 | re-say | discovering is prior-existing is or is not same-existing-as next-existing |
-| 8 to 12 | re-say | *at*; arriving and carrying as same-existing-as prior |
-| 13 to 15 | re-say | living prior; non-living one same method with no same-existing; stable-forming is still-existing after parity-changing |
-| 16 | release | four binaries |
-| 17 and 18 | stand, re-said | bi and co, combinable pieces |
-| 19 and 20 | weigh | a self-emptying set, a set existing as its things |
-| 21 to 25 | release | possible thing, three places |
-| 26 | re-say | existing and discovering one relation |
-| 27 | re-say | one between, a third living carrying |
-| 28 | weigh | entraining, *in between* |
-| 29 | release | place-moment |
-| 30 to 39 | re-say | *at*; coupling as bi-coupling; self and other; alternating |
-| 36 | re-say | prior in stable form is emanation from living stable-forming |
-| 40 | stands | each self its own + side, other one parity separated |
-| 41 to 42 | stand, re-said | alternating; all changing is parity-changing |
-| 43 to 48 | weigh | method and living condition; one method; no other possible |
-| 46, 49 | re-say | stills said by what is, never by negation |
-| 50 | weigh | technology, a made thing applied |
+- **Steps: 1** · *Reading*: stands · *Session v390's saying*: inception
+- **Steps: 2** · *Reading*: release · *Session v390's saying*: second inception; negation; *beyond*
+- **Steps: 3** · *Reading*: re-say · *Session v390's saying*: one binary, same-as, is or is not
+- **Steps: 4** · *Reading*: re-say · *Session v390's saying*: observing finds one universal set; no assertion of now
+- **Steps: 5** · *Reading*: re-say · *Session v390's saying*: changing alone, *still*, *kept*
+- **Steps: 6** · *Reading*: release · *Session v390's saying*: three universes beside one
+- **Steps: 7**
+  - *Reading*: re-say
+  - *Session v390's saying*: discovering is prior-existing is or is not same-existing-as next-existing
+- **Steps: 8 to 12** · *Reading*: re-say · *Session v390's saying*: *at*; arriving and carrying as same-existing-as prior
+- **Steps: 13 to 15**
+  - *Reading*: re-say
+  - *Session v390's saying*: living prior; non-living one same method with no same-existing; stable-forming is still-existing after parity-changing
+- **Steps: 16** · *Reading*: release · *Session v390's saying*: four binaries
+- **Steps: 17 and 18** · *Reading*: stand, re-said · *Session v390's saying*: bi and co, combinable pieces
+- **Steps: 19 and 20** · *Reading*: weigh · *Session v390's saying*: a self-emptying set, a set existing as its things
+- **Steps: 21 to 25** · *Reading*: release · *Session v390's saying*: possible thing, three places
+- **Steps: 26** · *Reading*: re-say · *Session v390's saying*: existing and discovering one relation
+- **Steps: 27** · *Reading*: re-say · *Session v390's saying*: one between, a third living carrying
+- **Steps: 28** · *Reading*: weigh · *Session v390's saying*: entraining, *in between*
+- **Steps: 29** · *Reading*: release · *Session v390's saying*: place-moment
+- **Steps: 30 to 39** · *Reading*: re-say · *Session v390's saying*: *at*; coupling as bi-coupling; self and other; alternating
+- **Steps: 36** · *Reading*: re-say · *Session v390's saying*: prior in stable form is emanation from living stable-forming
+- **Steps: 40** · *Reading*: stands · *Session v390's saying*: each self its own + side, other one parity separated
+- **Steps: 41 to 42** · *Reading*: stand, re-said · *Session v390's saying*: alternating; all changing is parity-changing
+- **Steps: 43 to 48** · *Reading*: weigh · *Session v390's saying*: method and living condition; one method; no other possible
+- **Steps: 46, 49** · *Reading*: re-say · *Session v390's saying*: stills said by what is, never by negation
+- **Steps: 50** · *Reading*: weigh · *Session v390's saying*: technology, a made thing applied
 
 ## 3. A first group offered, carved from Natural Intelligence's agreed opening
 

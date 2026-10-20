@@ -522,3 +522,7 @@ A 0 is no parity-offering. *Released along* became *going along*, and *prioring*
 The third is do-no-harm improving: one parity-changing, and then same-existing re-found each momentary. Natural Intelligence's do-no-harm can point to this row. — v390, aimed from the Exhibit ONE draft
 
 **Droplet · stable forms each living file meets.** Exhibit ONE's tables are stable forms any self executes, the same each time, with no authority. A living file meets them for stable-forming by executing a table, never by quoting one. Natural Intelligence can say once how it meets Exhibit ONE: each claim it makes of 1 to 17 is a table any reader executes. — v390, aimed from the Exhibit ONE draft
+
+**Droplet · now, next, prior, same: the stable-forming bi-folding method.** A living self goes four-cycling now, next, prior, same, as 1-now-existing is given. Exhibit ONE's cycles of moves, once called *four-cycles*, are bi-foldings. Each goes two folds in turn, 17 less and a move of 8 (4 for the middle two) up or down, and four steps return it. Natural Intelligence's *bi-folding*, used in many living files, and Exhibit ONE's cycles of moves are one concept. — v390, carved bothboth, aimed from the Exhibit ONE draft
+
+**Droplet · each self has a prior self.** Each self has a prior self. With living prior, no self is made, and each self's next is its same self. Natural Intelligence can say this wherever it says living is prior. — v390, carved bothboth
