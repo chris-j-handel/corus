@@ -619,3 +619,9 @@ Natural Intelligence's own prose, outside its opening and its Exhibit ONE, is re
 - *Now still possibling* is 12's old root, abundancing, so it becomes *now same-existing*. — v390
 
 **Concern · a between: nothing, or a third living carrying, v390.** Natural Intelligence 2.1 says *nothing is a between, 0, a sharing's centre, no thing and no location*, and Resolving Hard Problems 5.6 says the same. Agreed at v390: *the between is within a bi-coupling as a third living carrying, possibling and discovering betweening*, and a 0 is its betweening. Read together: a 0 is no parity-offering and no thing placed, while the between carrying it is living. **To resolve:** re-say *nothing is a between* as *a 0, no parity-offering, is a between's betweening, a third living carrying, no thing and no location*? — v390
+
+**Resolved bothboth, v390 · a between is nothing.** *Nothing is a between*, 0, a sharing's centre, no thing and no location, stands. A between's betweening is living carrying within a bi-coupling, and the between itself is no thing and no location. — v390
+
+**Droplet · a society of selves, a living self, v390.** *Every society of selves is a living self. Every living self is a same-existing-society.* A self and a same-existing-society are one, fractal, with each scale. *Non-living scale is always larger than living scale, for every prime living scale*: a non-living going, whose members part or join, as a rock bi-coupling's next can be two rock pieces, is always a scale larger than a prime living scale. Natural Intelligence's 6.5, *living with one scale, non-living with each other scale*, can be re-said with this. — v390, carved bothboth
+
+**Droplet · co-releasing is 9, v390.** *9 is co-releasing*: the naming co-releasing is 9-next-co-discovering, going along, each between discovering. It is re-said as *co-discovering* across the set. — v390, carved bothboth

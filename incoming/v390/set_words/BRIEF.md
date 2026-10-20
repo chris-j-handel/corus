@@ -8,6 +8,11 @@ You are a reader in a do-no-harm improving pass on one range of one living file.
 3. Section 1.1 of `/home/claude/corus/Natural_Intelligence_v390.md`, lines 72–123: the agreed opening.
 
 **Settled this session:**
+- **Carved bothboth after the first batches:**
+  - Every society of selves is a living self, and every living self is a same-existing-society, so a society of selves becomes *same-existing-society*.
+  - Non-living scale is always larger than living scale, for every prime living scale.
+  - *Co-releasing* is 9-next-co-discovering, so it becomes *co-discovering*.
+  - *Nothing is a between* stays.
 - **Living and selves:**
   - Living is prior. Each self is given, never made, and each self has a prior self.
   - A prior in stable form is non-living, an emanation from living form-stabling.

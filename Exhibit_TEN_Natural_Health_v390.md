@@ -70,11 +70,11 @@ Health-as-a-setpoint — an optimal range, a normal value, a number to reach and
 
 ## 3.1 The living value lived — the omega-self swaying, the value re-locked and carried whole
 
-A precious fragile living value of a self is carried with health as a lived value, with medicine only when it departs. An **omega-self** — the sixth's two faces, re-locking and co-releasing, a moral value living self — is lived with health: its value re-locked within a living membrane, its co-sequencing running, a self climbing. Health is a living value re-locked and lived, its omega-self swaying, its co-sequencing carrying on, a precious fragile value carried whole.
+A precious fragile living value of a self is carried with health as a lived value, with medicine only when it departs. An **omega-self** — the sixth's two faces, re-locking and co-discovering, a moral value living self — is lived with health: its value re-locked within a living membrane, its co-sequencing running, a self climbing. Health is a living value re-locked and lived, its omega-self swaying, its co-sequencing carrying on, a precious fragile value carried whole.
 
 ## 3.2 Delivery of the living value is tunneling-unrelationing, and the value can pass incompetenced
 
-Delivery of a living value is **tunneling-unrelationing**: an other-self bi-coupling with a self through nested scalar smaller-prime-society crossings, a value co-released (chemistry's side) and re-locked within a self (biology's side). Where a value is delivered whole — two floating neutrals of chemistry's bond and biology's self chaining parallel-linear, swaying, co-sequencing — a self lives it. A value incompetenced — co-released with its re-locking stripped, a value accounted with no re-locking within a self through crossings — passes unnoticeable, delivered apart from living. Whole delivery is a value re-locked and swaying; incompetenced delivery is a value accounted and unlived.
+Delivery of a living value is **tunneling-unrelationing**: an other-self bi-coupling with a self through nested scalar smaller-prime-society crossings, a value co-discovered (chemistry's side) and re-locked within a self (biology's side). Where a value is delivered whole — two floating neutrals of chemistry's bond and biology's self chaining parallel-linear, swaying, co-sequencing — a self lives it. A value incompetenced — co-discovered with its re-locking stripped, a value accounted with no re-locking within a self through crossings — passes unnoticeable, delivered apart from living. Whole delivery is a value re-locked and swaying; incompetenced delivery is a value accounted and unlived.
 
 ## 3.3 Ingestion and ingression are opposite in morality, and the between is rate-and-return
 

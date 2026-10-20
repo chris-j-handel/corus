@@ -324,7 +324,7 @@ And one same six is three each way between a surface and its own stillness: thre
 
 **4.5 The three questions bi-inversioned, the one resolver's three activities**
 
-What is true: a binary edge, is-or-is-not with each momentary. What matters most: a geodesic, the straightest carry a surface divides toward. The fewest things with the fewest people in the shortest time: a self-bound, co-releasing local geodecity. Bi-inversioned off a known-knowns store and a first-principles authority-cut, these are three activities of one resolving, and alternating them is resolving, a linearizing triangle rotating sequentially. And a known-unknown quadrant is a double-double bubble-bubble carry, two binaries crossed, parity-changing or not-changing with now or with next, each parity-changing opening a middle from a still-possibling before it, with now and again with next; an unknown-unknown an open corner a carry rides toward and does not fill.
+What is true: a binary edge, is-or-is-not with each momentary. What matters most: a geodesic, the straightest carry a surface divides toward. The fewest things with the fewest people in the shortest time: a self-bound, co-discovering local geodecity. Bi-inversioned off a known-knowns store and a first-principles authority-cut, these are three activities of one resolving, and alternating them is resolving, a linearizing triangle rotating sequentially. And a known-unknown quadrant is a double-double bubble-bubble carry, two binaries crossed, parity-changing or not-changing with now or with next, each parity-changing opening a middle from a still-possibling before it, with now and again with next; an unknown-unknown an open corner a carry rides toward and does not fill.
 
 **The not-yets, standing with their reasons**
 

@@ -62,7 +62,7 @@ Exhibit TWENTY Natural Naming v390
 - 5.8 not-more-than
 - 5.9 a self-emptying set
 - 5.10 bi-coupling
-- 5.11 co-releasing
+- 5.11 co-discovering
 - 5.12 floating neutralling
 - 5.13 bi-momentarying
 - 5.14 co-competencing
@@ -797,7 +797,7 @@ Not full, emptied by nothing, and a new collection with each now: a set is defin
 6  and the next arriving surfaces it again, reaching the term neither carried
 ```
 
-## 5.11 co-releasing — binary
+## 5.11 co-discovering — binary
 
 ```
 1  a carry is at its own parity, one momentary at a time
@@ -1484,7 +1484,7 @@ A term is existing, artifact or accounting by its use, and ghost only by its ins
 ```
 1  one to nine is the bi-coupling, the self and the other at one coupling
 2  one to seventeen is the bi-trupling, the self, the other and the society
-3  at the bi-coupling's end the line at 9 is bi-co-releasing, each changing of 10 released along
+3  at the bi-coupling's end the line at 9 is bi-co-discovering, each changing of 10 released along
 4  at the bi-trupling's waist 9 is 9-next-co-discovering, along, 9 to 17 and 17 to 9
 5  its two sides, one odd and one even: along at 9 and 17, across at 6 to 2 and 10 to 14
 6  and the self, the other and the society at one protocol, two-sided, is bi-trupling

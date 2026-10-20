@@ -169,7 +169,7 @@ An equilibrium's fixing ends, and living and non-living things with it go on par
 
 **Each conception of equilibria carries not-changing or carries parity-changing, exactly one of two.** A conception naming not-changing carries an existing thing with no arriving, and existing is arriving; a conception naming parity-changing fixes a parity-changing unchangeable. Coupled, each dissolves.
 
-**Each momentary completes in co-releasing.** Each conception of equilibria fixes a form unchangeable at momentarying of geodesic co-releasing, and continuing carries on as geodesic co-releasing. Each momentary completes as its next opens, whether a parity inverted, stayed, crossed or nothing crossed, and a particular carrying's completing is its own.
+**Each momentary completes in co-discovering.** Each conception of equilibria fixes a form unchangeable at momentarying of geodesic co-discovering, and continuing carries on as geodesic co-discovering. Each momentary completes as its next opens, whether a parity inverted, stayed, crossed or nothing crossed, and a particular carrying's completing is its own.
 
 # THREE · THE TEN, FIVE PLACES AT TWO FACES
 

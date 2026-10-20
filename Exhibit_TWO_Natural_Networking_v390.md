@@ -52,7 +52,7 @@ Non-carrying local surface within society
 
 2.4  Fold and scatter, breaks in living continuation
 
-2.5  Co-releasing, emanating into further participation
+2.5  Co-discovering, emanating into further participation
 
 2.6  Restoration, the carrying at a further now
 
@@ -672,7 +672,7 @@ Non-carrying local surface within society
 
 **A new now can receive a parity or form reached with a prior now.** One same parity can couple with different carrying and participate differently. Momentary's continuing carries each parity with carrying it reaches, and a list of parity values carries parities, none of its carrying. A recurring form remains within the universe's momentarying.
 
-**Co-releasing carries offering into further participation.** An emanation from one coupling can arrive with another and couple with existing things there. An emanation of living stable-forming can exist inanimately with its own scale. Its further participation can be with living or non-living things.
+**Co-discovering carries offering into further participation.** An emanation from one coupling can arrive with another and couple with existing things there. An emanation of living stable-forming can exist inanimately with its own scale. Its further participation can be with living or non-living things.
 
 ## 2.2 Apexing, prior participating in now
 
@@ -700,7 +700,7 @@ Non-carrying local surface within society
 
 **Fold and scatter are of complete receiving and continuing, and a recurring parity is neither.** A zero surfacing can accompany continuing carrying, and a nonzero surfacing can open fresh carrying. Whether two names are all breaks possibling is a next reach, and a same-existing-society's health is co-competencing its selves sustain.
 
-## 2.5 Co-releasing, emanating into further participation
+## 2.5 Co-discovering, emanating into further participation
 
 **Emanating couples with further existing things with their receiving.** An emanation from living form-stabling can continue inanimately with its form's own scale. It parity-changes co-momentarying with things it reaches, other non-living things among them. A source's carrying remains its source's.
 
