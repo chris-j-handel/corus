@@ -13,7 +13,7 @@ def run(c, seed):
             if R.random() < .8: five[(s, name)] = R.choice(selves)
     out = []
     for _ in range(6):
-        res = ns['_17_next_now'](soc, five); out.append(repr(sorted(res.items())))
+        res = next(v for k, v in ns.items() if k.startswith('_17_') and callable(v))(soc, five); out.append(repr(sorted(res.items())))
         soc = {s: (res[s][0], [((k, 0), v) for k, v in res[s][1]]) for s in selves}
     return out
 same = all(run(code, i) == run(bare, i) for i in range(300))

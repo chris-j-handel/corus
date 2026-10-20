@@ -14,7 +14,8 @@ import re, sys, random
 src = open(sys.argv[1], encoding='utf-8').read()
 ns = {}
 exec(re.search(r'```python\n(.*?)```', src, re.S).group(1), ns)
-one, step = ns['_1_now'], ns['_17_next_now']
+one = next(v for k, v in ns.items() if k.startswith('_1_') and callable(v))     # 1, by its number, any naming
+step = next(v for k, v in ns.items() if k.startswith('_17_') and callable(v))
 
 
 def period(outs):

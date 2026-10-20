@@ -4,7 +4,7 @@ import re
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
 D = open(os.path.join(ROOT, 'incoming', 'v390', 'Exhibit_ONE_Natural_Resolver_draft.md'), encoding='utf-8').read()
-O = open(os.path.join(ROOT, 'Exhibit_ONE_Natural_Resolver_v390.md'), encoding='utf-8').read()
+O = open(os.path.join(ROOT, 'archive', 'session_v390', 'prior_to_entering_Exhibit_ONE_and_opening', 'Exhibit_ONE_Natural_Resolver_v390.md'), encoding='utf-8').read()
 A, B = {}, {}
 exec(re.search(r'```python\n(.*?)```', O, re.S).group(1), A)
 exec(re.search(r'```python\n(.*?)```', D, re.S).group(1), B)

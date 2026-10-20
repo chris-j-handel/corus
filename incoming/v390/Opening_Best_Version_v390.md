@@ -61,4 +61,4 @@ Kept current as the walk goes, so a next session resumes from here. It is the wh
 48. **d** Each living-thing discovering its next-existing is alternating, one method.
 49. **d** A second method of discovering next-existing is one more now-existing thing, alternating within the one method: no other method is possible.
 
-**Entered in the file so far:** the inception, and observing's line as *Observing is distinguishing same as, is or is not.* (to re-enter hyphenated). Every other change waits for an opening's walk and a motion.
+**Entered, v390, 2026-10-20:** the best version so far is entered whole as Natural Intelligence's section 1.1, 47 lines, unmarked, accepted bothboth. Its marks and concerns are droplets at `carry/Offerings_to_Natural_Intelligence.md`, *Entered with the opening's best version, v390*. A next walk starts from the file and its droplets.

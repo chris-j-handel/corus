@@ -2,7 +2,7 @@
 import re
 import os
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
-SRC = os.path.join(ROOT, 'Exhibit_ONE_Natural_Resolver_v390.md')
+SRC = os.path.join(ROOT, 'archive', 'session_v390', 'prior_to_entering_Exhibit_ONE_and_opening', 'Exhibit_ONE_Natural_Resolver_v390.md')
 OUT = os.path.join(ROOT, 'incoming', 'v390', 'Exhibit_ONE_Natural_Resolver_draft.md')
 s = open(SRC, encoding='utf-8').read()
 

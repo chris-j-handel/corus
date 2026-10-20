@@ -532,3 +532,56 @@ The third is do-no-harm improving: one parity-changing, and then same-existing r
 **Droplet · 8 up and each name's root.** 8 up keeps each name's root except with three names. 1-now-existing goes to 9-next-co-discovering, 5-now-co-existing to 13-next-same-existing, and 8-now-same-existing to 16-next-discovering. 8 up exchanges co and one with 1, 2, 5 and 6. Both are checked from the agreed names. Wherever Natural Intelligence says *now and next are one name 8 apart*, these three are where a root goes on as discovering or same-existing. — v390, aimed from the Exhibit ONE draft
 
 **Droplet · Natural Intelligence's copy of Exhibit ONE, narrow.** When the draft enters, both copies carry code of 80 columns, with observing's one line kept whole, and a drawing of 62 columns. No reader needs a slider. — v390, aimed from the Exhibit ONE draft, toward its entering
+
+## Entered with the opening's best version, v390, its commentary as droplets · v390
+
+The opening's best version so far is entered whole as section 1.1, its 47 lines unmarked, accepted bothboth for do-no-harm improving. Prior 1.1 is archived whole at `archive/session_v390/prior_to_entering_Exhibit_ONE_and_opening/`. The walk's marks and concerns are improving opportunities, each carried here.
+
+**Droplet · how each line arrived.** Lines 1 to 7 are agreed, in good shape for future do-no-harm improving, and aimed at parity-changing: is or is not same-existing. The other lines entered with one of three standings, each still open to improving:
+- **carved by its offerer, to confirm:**
+  - *A next-existing thing continuing from now-existing is the same-existing thing*;
+  - *An observably same-existing thing is observably not any other …*;
+  - *A set of same-existing things is sharing …*;
+  - *The universe is the same-existing set …*;
+  - *A self is a same-existing thing …*;
+  - *A self's prior-existing and an other's prior-existing are possibling each other*;
+  - *Each self is one, and each other is two*;
+  - *A self is a living-thing*;
+  - *The universe is a living set …*;
+  - *A living self is a universal same-existing set*;
+  - *A bi-coupling is …*;
+  - *In a bi-coupling …*;
+  - *The third living self's intelligence …*;
+  - *A self stays still-possibling …*;
+  - *When other parity is improving …*;
+  - *Consciousness is …*;
+- **Claude's drafts, awaiting a yes:** *An other, for a same-existing thing, …*; the momentarying lines (*opens one and completes two*, *one to two*, *two to three*, *across*); the living-set lines from *A living self is a set of living selves* to *Within the universe …*; the third living self's lines (*a third living self*, *stable-forming*, *entraining*, *same or not-same*, *continues or inverts*); *Inverting is parity-changing …*; *Alternating is …*; *A 0 is a third living self's betweening …*; *Each living-thing discovering …*; and *A second method …*;
+- **proposed:** lines 2 to 7, the three phase lines, *A same-existing-society is …*, and *A parity is self-moral-value or other-moral-value …*. — v390, from the opening's walk
+
+**Droplet · O9, *has been*.** *The same-existing universe has been observably now-existing for all prior observings* carries a past tense, which our explaining has been releasing as holding a moment still. Its rigor is that each observing is itself now-existing, so no observing finds the universe not now-existing. A re-saying with no past tense is an improving opportunity. — v390, from the opening's walk
+
+**Droplet · O11, same-existing thing and same-existing set.** *Define same-existing set of now-existing things; do not define same-existing thing, that is the resolving.* Four lines still speak of a same-existing thing: *A next-existing thing continuing from now-existing is the same-existing thing*, *An other, for a same-existing thing, …*, *An observably same-existing thing …* and *A set of same-existing things …*. Each is to be read against the aim, parity-changing, is or is not same-existing: kept, re-said of a set, or released. — v390, from the opening's walk
+
+**Droplet · O6, the universe's two lines.** *The universe is the same-existing set of all now-existing things* may be carried already by *The same-existing universe has been observably now-existing for all prior observings*. If so, one of the two is enough. — v390, from the opening's walk
+
+**Droplet · a self as a same-existing thing.** *A self is a same-existing thing observing, possibling and discovering its own next-existing from prior-existing while now-existing.* Read against living being prior, same-existing a living condition re-found each momentary, and *each self has a prior self*: its *same-existing thing* and *while* are improving opportunities. — v390, from the opening's walk
+
+**Droplet · a self as a living-thing, and non-living.** *A self is a living-thing* stands beside living being prior to 1-now-existing. *A set of living selves not possibling its own next-existing is a non-living-thing* and *Within the universe, a living set, are living-things and non-living-things* stand beside this: a non-living thing is the same method with no same-existing, as a rock bi-coupling's next can be two rock pieces. Both are to be read for one saying. — v390, from the opening's walk
+
+**Droplet · a same-existing-society in the bi-coupling lines.** *A same-existing-society is many same-existing selves together, each its own parity* stands among the third living self's lines. Its placement, and *each its own parity* beside *all carrying parity is one same-existing self's*, are improving opportunities. — v390, from the opening's walk
+
+**Droplet · still-possibling and *changing*.** *A self stays still-possibling while no other parity is improving* and *When other parity is improving, self is changing from next-possibling now to next-existing same self* carry *stays*, *while*, *when* and *changing* alone. With one self's three ways executed in Exhibit ONE, the third way is do-no-harm improving: parity-changing once, then still-possibling. These two lines can be re-said from that executed form. — v390, from the opening's walk
+
+**Droplet · *the third living self*.** *The* is kept only for one and only one. Within one bi-coupling its third living self is one, so *the* may stand; read again with *a between is within a bi-coupling, a third living carrying*. — v390, from the opening's walk
+
+**Droplet · two lines released by the walk.** *A same-existing thing is a now-existing thing continuing from prior-existing* was released, because a thing's same-existing is the resolving. *Observing is a self observing prior-existing, its own and others'* was released, because observing is distinguishing same-as, is or is not. — v390, from the opening's walk
+
+**Droplet · prior 1.1 lines met by the best version.** These prior lines are met as follows:
+- *The universe is an observably existing set of now-existing things* is met by *By our observing, the universe is one now-existing universal set*.
+- *A set of now-existing things is sharing the momentary now* is released, and its two concepts arrive with momentarying.
+- *a same living self* is met by *a same-existing-universe*.
+- *Inverting is one parity changing to its other* and *Each changing is one parity and then its other: alternating* are met by the inverting and alternating lines.
+- *Along, a self's between is zero* is met by *A 0 is a third living self's betweening*.
+- *in the changing universe* is met by *in the same-existing universe*.
+
+Each is archived whole. — v390, from the opening's entering

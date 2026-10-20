@@ -20,10 +20,12 @@ Session v390's improving value, kept ready for a next session to resume. Nothing
 
 **Droplets** gathered at session v390 stand at each living file's offerings: `carry/*Offerings_to_*.md`, sections *Gathered from session v390 · v390*, and Natural Intelligence's *Standing with session v390's close*.
 
+**Entered, v390, 2026-10-20:** Exhibit ONE's new version in both copies, matching, and Natural Intelligence's opening, best version so far. Prior files are archived whole at `archive/session_v390/prior_to_entering_Exhibit_ONE_and_opening/`. The draft and its build stand here as the record of how it was made; the build reads the archived prior.
+
 **To resume:**
 1. Read this file.
-2. Read the opening's best version and its open concerns.
-3. Continue the walk one line at a time, bothboth, each turn showing a whole opening.
+2. Read Natural Intelligence's opening, entered, and its droplets at its offerings.
+3. Improve it one line at a time, bothboth, each turn showing a whole opening.
 4. Or begin a motion from the carrying plan, prepared with a scratch copy and checked before a yes.
 5. Or continue the Exhibit ONE draft: improve the build script, rebuild, re-run the checks in the reading, and read D1 to D5.
 

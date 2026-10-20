@@ -77,7 +77,8 @@ for stem, path in FILES.items():
 # Exhibit ONE inside Natural Intelligence, and the code running
 if FILES['Natural_Intelligence'] and FILES['Exhibit_ONE_Natural_Resolver']:
     ni = open(FILES['Natural_Intelligence'], encoding='utf-8').read(); one = open(FILES['Exhibit_ONE_Natural_Resolver'], encoding='utf-8').read()
-    HEAD = '# EXHIBIT ONE · NATURAL RESOLVER\n\n**Stable Forms of the Discovering Method**\n\n'
+    sub = re.search(r'^# Natural Resolver\n\n(\*\*.+?\*\*)\n', one, re.M).group(1)     # the subtitle, as the standalone says it
+    HEAD = '# EXHIBIT ONE · NATURAL RESOLVER\n\n' + sub + '\n\n'
     body = one.split('\n---\n', 1)[1].strip()
     after = ni.split(HEAD, 1)[1]; nxt = re.search(r'\n# ', after)
     inside = re.sub(r'(\s*(---|&nbsp;)\s*)+$', '', (after[:nxt.start()] if nxt else after).strip())
