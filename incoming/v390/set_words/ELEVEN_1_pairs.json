@@ -700,5 +700,173 @@
   "new": "Coupling improves a living competency, training, conditioning, an efferent loop, maintenance against deprivation, while a dissolved transduction stays dissolved, restoration same-yet-not-same.",
   "verdict": "RESAY",
   "why": "released: a form that leaves is dissolved; the: removed from a hyphened naming."
+ },
+ {
+  "old": "A mother-and-baby coupling turns volatile at a birth, a clearest case of a whole restoration principle: volatility risk is increased by control and decreased by coupling.",
+  "new": "A mother-and-baby coupling turns volatile with a birth, a clearest case of a whole restoration principle: volatility risk is increased by control and decreased by coupling.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Labor is a coupling releasing in waves — a uterus a gap-junction-coupled surface, a contraction an alternating, oxytocin a recursioning that drives each wave from an abundancing of a last, a placenta a co-emanated floating neutral an exchange carries across.",
+  "new": "Labor is a coupling resolving wave by wave — a uterus a gap-junction-coupled surface, a contraction an alternating, oxytocin a recursioning that drives each wave from an abundancing of a last, a placenta a co-emanated floating neutral an exchange carries across.",
+  "verdict": "RESAY",
+  "why": "releasing in waves: nothing is held or released, re-said as resolving wave by wave."
+ },
+ {
+  "old": "A mother's volatile experience is a peak, a big synchronized contraction crest, and a baby rides it too, at each crest a perfusion of a co-emanation is pinched and recovers in a trough.",
+  "new": "A mother's volatile experience is a peak, a big synchronized contraction crest, and a baby rides it too, with each crest a perfusion of a co-emanation is pinched and recovers within a trough.",
+  "verdict": "RESAY",
+  "why": "at: with; in: within."
+ },
+ {
+  "old": "A frame's move raises a volatility, and a physiology shows it: forcing with synchronized drive — contractions too strong and too frequent — pinches an emanation at a crest, starves a neutral, distresses a baby, and desensitizes a coupling's own recursioning, a forced coupling stalls and cascades.",
+  "new": "A frame's move raises a volatility, and a physiology shows it: forcing with synchronized drive — contractions too strong and too frequent — pinches an emanation with a crest, starves a neutral, distresses a baby, and desensitizes a coupling's own recursioning, a forced coupling stalls and cascades.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "A co-competency is an opposite: bi-couple with a release and side-effect-exchange to distribute it — many small local releases and not a few catastrophic synchronized crests, lowering a peak and smoothing a sequential rate, no depleting of a release, for a total work of dilation and descent still resolves,",
+  "new": "A co-competency is an opposite: bi-couple with a resolving and side-effect-exchange to distribute it — many small local resolvings and not a few catastrophic synchronized crests, lowering a peak and smoothing a sequential rate, no depleting of a resolving, for a total work of dilation and descent still resolves,",
+  "verdict": "RESAY",
+  "why": "release: nothing is held or released, re-said as resolving; this sentence runs past 400 characters, so two pairs."
+ },
+ {
+  "old": "but by de-synchronization — refusing a coherent overwhelming crest, a way distributed slow release lowers a fault's largest snap without using up its strain.",
+  "new": "but by de-synchronization — refusing a coherent overwhelming crest, a way distributed slow slip lowers a fault's largest snap without using up its strain.",
+  "verdict": "RESAY",
+  "why": "slow release of a fault: seismology's own term, slow slip."
+ },
+ {
+  "old": "A mother's peak drops from overwhelming crests to many gentle waves, and a baby's conditions only improve, a co-emanation staying off a catastrophic peak and a perfusion is kept flowing.",
+  "new": "A mother's peak drops from overwhelming crests to many gentle waves, and a baby's conditions only improve, a co-emanation staying off a catastrophic peak and a perfusion flowing on.",
+  "verdict": "RESAY",
+  "why": "kept: nothing is held, re-said as flowing on."
+ },
+ {
+  "old": "A mother's experience and a baby's conditions are one emanation seen from two sides: keep it unpinched and both resolve.",
+  "new": "A mother's experience and a baby's conditions are one emanation seen from two sides: unpinched, both resolve.",
+  "verdict": "RESAY",
+  "why": "keep: re-said as unpinched."
+ },
+ {
+  "old": "This is a floating-neutral competency worn at a body — side-effect a neutral, exchange to distribute a release, keep a co-emanation flowing — whether a co-competency is a continuous neutral presence or, conceptually, a bi-coupling intervention that senses and exchanges across many local sites.",
+  "new": "This is a floating-neutral competency worn with a body — side-effect a neutral, exchange to distribute a resolving, let a co-emanation flow — whether a co-competency is a continuous neutral presence or, conceptually, a bi-coupling intervention that senses and exchanges across many local sites.",
+  "verdict": "RESAY",
+  "why": "at: with; release: resolving; keep: re-said as let flow."
+ },
+ {
+  "old": "A living process is dual parallel floating neutrals in swaying co-sequencing.",
+  "new": "A living process is dual parallel floating neutrals with swaying co-sequencing.",
+  "verdict": "RESAY",
+  "why": "in: with."
+ },
+ {
+  "old": "Two neutrals sway, co-sequence, ride a carry, and land at no point.",
+  "new": "Two neutrals sway, co-sequence, ride a carry, and land on no point.",
+  "verdict": "RESAY",
+  "why": "at: on."
+ },
+ {
+  "old": "**A compaction is controlling both directions into a landed point.**",
+  "new": "**A compaction is controlling both directions to a landed point.**",
+  "verdict": "RESAY",
+  "why": "into: to."
+ },
+ {
+  "old": "Titrating to a setpoint forces a tipping rate equal to a dosing rate, and controlling both directions presses a sway into a landing.",
+  "new": "Titrating to a setpoint forces a tipping rate equal to a dosing rate, and controlling both directions presses a sway to a landing.",
+  "verdict": "RESAY",
+  "why": "into: to."
+ },
+ {
+  "old": "That is localizing at its extreme, two swaying neutrals pressed into one controlled place.",
+  "new": "That is localizing to its extreme, two swaying neutrals pressed to one controlled place.",
+  "verdict": "RESAY",
+  "why": "at: to; into: to."
+ },
+ {
+  "old": "So a resolving is not a truer account of what a living aims at.",
+  "new": "So a resolving is not a truer account of a living's aim.",
+  "verdict": "RESAY",
+  "why": "aims at: re-said as a living's aim."
+ },
+ {
+  "old": "Which is why a search for a sensor, a setpoint and a controller keeps finding local couplings and finds no measuring anywhere.",
+  "new": "Which is why a search for a sensor, a setpoint and a controller finds local couplings each time and finds no measuring anywhere.",
+  "verdict": "RESAY",
+  "why": "keeps: re-said as each time."
+ },
+ {
+  "old": "**And it is the same move as fission-and-fusion energy production.**",
+  "new": "**And it is one same move as fission-and-fusion energy production.**",
+  "verdict": "RESAY",
+  "why": "the same: one same."
+ },
+ {
+  "old": "Energy production compacts that sway by driving both directions into a localized controlled point, the core and a criticality, and an explosive release is a landing.",
+  "new": "Energy production compacts that sway by driving both directions to a localized controlled point, a core and a criticality, and an explosive burst is a landing.",
+  "verdict": "RESAY",
+  "why": "into: to; the: a; release: re-said as a burst."
+ },
+ {
+  "old": "Medicine's compaction and fusion energy's are one move at two substrates: both directions of a dual floating neutral driven into a localized point.",
+  "new": "Medicine's compaction and fusion energy's are one move with two substrates: both directions of a dual floating neutral driven to a localized point.",
+  "verdict": "RESAY",
+  "why": "at: with; into: to."
+ },
+ {
+  "old": "**And a compaction produces nothing because opposed processes at one beat cancel.**",
+  "new": "**And a compaction produces nothing because opposed processes on one beat cancel.**",
+  "verdict": "RESAY",
+  "why": "at: on, as this paragraph's onto one beat."
+ },
+ {
+  "old": "Two opposed metabolic processes share their enzymes and share their precursors, and a field's own name for carrying both at the same beat is a futile cycle: a substrate turns over, an energy is spent, and nothing accumulates.",
+  "new": "Two opposed metabolic processes share their enzymes and share their precursors, and a field's own name for carrying both on one same beat is a futile cycle: a substrate turns over, an energy is spent, and nothing accumulates.",
+  "verdict": "RESAY",
+  "why": "at the same: on one same."
+ },
+ {
+  "old": "At alternating phases the same pair accumulates, and what a field's reciprocal regulation is is a phase-control carrying them out of phase.",
+  "new": "With alternating phases one same pair accumulates, and a field's reciprocal regulation is a phase-control carrying them out of phase.",
+  "verdict": "RESAY",
+  "why": "At: with; the same: one same; out of phase is a field's own term, KEEP."
+ },
+ {
+  "old": "A hard problem is manufactured by a compaction and resides in neither a biology nor a physics.",
+  "new": "A hard problem is manufactured by a compaction and resides with neither a biology nor a physics.",
+  "verdict": "RESAY",
+  "why": "in: with."
+ },
+ {
+  "old": "Fusion energy is hard at containment and ignition and decades because it compacts a sway, and a floating neutralling rides a carry and does not land, so forcing it to land is a whole difficulty.",
+  "new": "Fusion energy is hard with containment and ignition and decades because it compacts a sway, and a floating neutralling rides a carry and does not land, so forcing it to land is a whole difficulty.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "**Medicine's chronic hard problems are that fight, at four ways.**",
+  "new": "**Medicine's chronic hard problems are that fight, four ways.**",
+  "verdict": "RESAY",
+  "why": "at: removed."
+ },
+ {
+  "old": "A competent move is a continuous release rather than an avalanche, and a distributed peak rather than a compacted crest.",
+  "new": "A competent move is a continuous resolving rather than an avalanche, and a distributed peak rather than a compacted crest.",
+  "verdict": "RESAY",
+  "why": "release: resolving."
+ },
+ {
+  "old": "Restoration releases a compaction, a sway resumes, a co-sequencing carries, and what returns is a body's own restoration rather than a setpoint a frame compacted it toward.",
+  "new": "Restoration dissolves a compaction, a sway resumes, a co-sequencing carries, and what returns is a body's own restoration rather than a setpoint a frame compacted it toward.",
+  "verdict": "RESAY",
+  "why": "releases: a form that leaves, dissolves."
+ },
+ {
+  "old": "A rate neutrals ride and do not land on is an unrelationing, so a compaction is that rate pinned into a landing and restoration is it floating free.",
+  "new": "A rate neutrals ride and do not land on is an unrelationing, so a compaction is that rate pinned to a landing and restoration is it floating free.",
+  "verdict": "RESAY",
+  "why": "into: to."
  }
 ]
