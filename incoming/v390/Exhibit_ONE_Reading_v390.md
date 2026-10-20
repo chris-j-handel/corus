@@ -78,3 +78,5 @@ Executed tables keep their executing: renaming changes no resolving.
 - **E2.** *Each name and its relations*, about 260 lines: release whole, meeting it with a compact table of agreed relations?
 - **E3.** *Namings among names*: each naming kept as Natural Naming's, or moved there.
 - **E4.** Society and morality phrasing at #21, #23 and #28, re-said with self, other and same-existing-society.
+
+**Strategy, v390:** keep more than we are sure of inside Exhibit ONE, improving it there until the most general and clearest method shows. Sections marked *release* or *weigh* stay inside, re-said, for now. Cyclings are clustered at [Cyclings_Clustered_v390.md](Cyclings_Clustered_v390.md).
