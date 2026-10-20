@@ -465,3 +465,12 @@ W7. Society named after line 22 or after the third living self; self and society
 *Exhibit ONE:* its 0 in sequence said as executed at two thousand societies, to be said by co-chaining.
 *Explored, open:* which society forms carry every self in turn-taking; the third pair, other and society, seen only from an other; the still-existing rows and tri at 9 to 11 and 15 to 17.
 *Resting this session:* co-chaining lines and co-chaining selves.
+
+**Concerns of our agreed improving, with natural naming, v390.**
+1. *Living is prior.* Each name of 1 to 17 is a living self's method, so no name carries self. A living self's next is same self; a non-living thing is one same method with no same-existing. Exhibit ONE is yet to say this once.
+2. *A name's number.* Exhibit ONE explains each number as odd existing and even possibling. With our agreed names, odd numbers name existing, observing, discovering and same-existing, and even numbers name possibling, same-existing and discovering, so a number's parity is no longer naming its root. A number is naming its momentary of four and its step of four-cycling: now-existing, next-existing, prior-existing, same-existing. This explaining is yet to be re-said and agreed.
+3. *Discovering along.* Discovering is self and society, along. Our agreed names carry it twice, 9-next-co-discovering and 16-next-discovering, and 17-next-existing is a next society existing as each self's 1-now-existing. Our agreed phase sentence carried two place words, in and out; re-said: discovering, self and society, along, is 9-next-co-discovering and 16-next-discovering, with 17-next-existing its next existing. This re-saying is for agreeing.
+4. *11-next-co-observing.* A next prior is stable-forming between two with 11, and 11 is a next momentary's observing of it. Exhibit ONE is yet to say so with one sentence.
+5. *Prose words.* Exhibit ONE and Natural Intelligence carry prioring, still-possibling, changing alone, released, held, beyond, in and out. Each sentence is re-said with our agreed concepts, never word for word: prioring as observing, still-possibling as same-existing, changing alone as parity-changing or as is or is not same-existing; released, held, beyond, in and out dissolving.
+6. *One motion.* Thirty-six living files and their checking kits name 1 to 17 by old names. All cohere with one motion, each sentence re-said and every check running before entering.
+*These six re-say N1 to N7 of the concerns tracked above.* — v390
