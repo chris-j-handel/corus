@@ -83,6 +83,8 @@ Earlier droplets keep their place at the offerings as a record of exploring. Thi
 - Shown with resolver names beside agreed names.
 - Entered only on a yes.
 
+**Motion 4, Exhibit THIRTY one chain with Natural Intelligence.** Exhibit THIRTY starts with the same sentence and matches Natural Intelligence's opening identically; all of Natural Intelligence is within Exhibit THIRTY, cohering with natural torusing society, all or none. Its first group offered and its concerns, T1 to T7: [Co-Chaining_THIRTY_Improving_v390.md](Co-Chaining_THIRTY_Improving_v390.md).
+
 **Later motions, as droplets now:** parity's one sense set-wide; hard problem registries carrying resolvings; Natural Values' older sayings; co-chaining selves and lines (resting).
 
 ## 5. Concerns

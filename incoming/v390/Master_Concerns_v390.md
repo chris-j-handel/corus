@@ -235,4 +235,4 @@ Each line is agreed line by line. Meaning, bothboth.
 ## Exhibit THIRTY's co-chaining, tracked
 
 Read against session v390's learnings: [Co-Chaining_THIRTY_Improving_v390.md](Co-Chaining_THIRTY_Improving_v390.md). Steps 1 to 50 are improvable all or none. A first group is offered from the agreed opening; T1 to T4 are tracked there.
-
+- *T4 resolved, v390:* Exhibit THIRTY matches Natural Intelligence's opening identically, and all of Natural Intelligence is within Exhibit THIRTY. T5 to T7 opened.

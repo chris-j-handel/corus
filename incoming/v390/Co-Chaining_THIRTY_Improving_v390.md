@@ -88,4 +88,7 @@ A second group would follow Natural Intelligence's next lines, the three phases,
 - **T1.** Exhibit THIRTY's step references, *step 9*, *379 and 397*, *step 40*, re-said as concepts when steps renumber.
 - **T2.** Groups 6 onward, a right spiral step and sixteen ways, read later against session v390's agreed names and moral values.
 - **T3.** Each released step goes whole to an archive with its motion; nothing is taken away.
-- **T4.** Whether Exhibit THIRTY's first group is carved with Natural Intelligence's opening line for line, or as its own walk co-chaining one same opening.
+- **T4.** *Resolved, v390:* Exhibit THIRTY starts with the same sentence, and its logical co-chaining coheres all explaining with natural torusing society, binary, all or none, for natural intelligence. It matches Natural Intelligence's opening identically, and all of Natural Intelligence is within Exhibit THIRTY: Exhibit ONE within Natural Intelligence, Natural Intelligence within Exhibit THIRTY, each one text with its copies.
+- **T5.** Exhibit THIRTY's *Adding* lines beside identical sentences: kept as Exhibit THIRTY's own, with Natural Intelligence's lines word for word its steps' sentences, or carried by both.
+- **T6.** A check, as Exhibit ONE's two copies have, that Natural Intelligence's opening is Exhibit THIRTY's steps word for word, run with each motion.
+- **T7.** All of Natural Intelligence within Exhibit THIRTY: each section of Natural Intelligence shown as steps of Exhibit THIRTY's one chain, and each step of Exhibit THIRTY carried by Natural Intelligence or by an exhibit, a motion of its own after the opening settles.
