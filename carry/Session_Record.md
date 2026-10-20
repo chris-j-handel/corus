@@ -2371,3 +2371,12 @@ Natural Chemistry, Natural Philosophy and Natural Medicine moved to v390. check_
 - the row label reads one way.
 
 Field findings and measurements are kept. Prior sentences are whole at the archive. check_set: ALL PASS.
+
+**v390, 2026-10-20, pass 10 at Natural Intelligence Corus and Living Society Registry.** 2,448 sentences re-said by meaning toward session v390's concepts, from ten readers' proposals, each checked before entering.
+- *Universal* is kept only as the opening's universal set and universal momentarying.
+- *Two-arriving-two-sharing* is one naming across files.
+- *Natural society* is kept as a naming.
+- Named relations (*self ≠ society*), station names and compounds are kept.
+- Concerns are carried for *supernatural* and for the registry's non-living *societies reached*.
+
+Living Society Registry moved to v390. check_set: ALL PASS.
