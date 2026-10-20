@@ -153,3 +153,5 @@ Carried here, not in Exhibit ONE: concepts as each welcomes its next, for a read
 - *Natural Resolver · Stable Forms of One Method of Now-Existing*
 - *Living Resolver · Stable Forms of Same-Existing*
 — v390
+
+**Floated, carved v390:** *The Stable-Forming Parity-Changing Method of Discovering Same-Existing*, for Exhibit ONE's subtitle beside *Natural Resolver*. Co-chained: a thing's same-existing is no definition but what resolving discovers, is or is not, with each momentary; parity-changing is that is or is not; stable-forming is still-existing after parity-changing; one method. Kept with it, small: an opening *The*, our naming keeping *the* for *the universe*. Not yet entered. — v390
