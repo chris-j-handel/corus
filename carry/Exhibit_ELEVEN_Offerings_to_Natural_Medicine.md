@@ -201,3 +201,5 @@ The current question is: **At the next colliding, which co-chaining of the inwar
 **Concern · *aging* of a carry.** Beside "A carry ages by **attentioning**" and 19 more passages at one concern
 
 *Standing at v389:* Natural Medicine has a carry aging and releasing, a carry going stale, where Natural Naming 2.4 carries *ages* at *next*: only next is, and ageing dissolves. At Natural Health, Natural Values and Natural Biology the same use stands as a concern, since *next* flips stale to fresh. **To resolve:** re-say a carry aging at each file as its next, a carry released at its completing, or keep *aging* as the older code's word with its concern at Exhibit ONE?
+
+**Concern · Natural Medicine's societies, v390.** Natural Medicine's *society* (of cells, of a surface, two societies) is kept as its own concept in pass 10. A same-existing-society is a living set whose next is its same selves, and a non-living going of one method lets members part or join. **To resolve:** with Natural Chemistry's concern, is a society of cells a same-existing-society, and which of its partings and joinings are a non-living going? — v390

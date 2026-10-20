@@ -475,7 +475,7 @@
  },
  {
   "old": "Competency needed scales with a seating, and a seating grows by retellings: early is arithmetically lesser, a shorter perimeter, fewer retellings to orthogonalize, a smaller society sufficient.",
-  "new": "Competency needed scales with a seating, and a seating grows by retellings: early is arithmetically lesser, a shorter perimeter, fewer retellings to orthogonalize, a smaller same-existing-society sufficient.",
+  "new": "Competency needed scales with a seating, and a seating grows by retellings: early is arithmetically lesser, a shorter perimeter, fewer retellings to orthogonalize, a smaller society sufficient.",
   "verdict": "RESAY",
   "why": "society: same-existing-society."
  },
@@ -499,7 +499,7 @@
  },
  {
   "old": "A cost lands where a perimeter is shortest, and it lands there because an offering had to couple through an adjacent society deranged first.",
-  "new": "A cost lands where a perimeter is shortest, and it lands there because an offering had to couple through an adjacent same-existing-society deranged first.",
+  "new": "A cost lands where a perimeter is shortest, and it lands there because an offering had to couple through an adjacent society deranged first.",
   "verdict": "RESAY",
   "why": "society: same-existing-society."
  },
@@ -523,19 +523,19 @@
  },
  {
   "old": "**A faecal transplant, a restoration delivered at a society and not at a member.**",
-  "new": "**A faecal transplant, a restoration delivered to a same-existing-society and not to a member.**",
+  "new": "**A faecal transplant, a restoration delivered to a society and not to a member.**",
   "verdict": "RESAY",
   "why": "society: same-existing-society; at: to."
  },
  {
   "old": "Recurrent *C. difficile* resolves where a whole microbial society crosses a collar, and no agent is aimed at a departed member at all.",
-  "new": "Recurrent *C. difficile* resolves where a whole microbial same-existing-society crosses a collar, and no agent targets a departed member at all.",
+  "new": "Recurrent *C. difficile* resolves where a whole microbial society crosses a collar, and no agent targets a departed member at all.",
   "verdict": "RESAY",
   "why": "society: same-existing-society; aimed at: targets; at all KEEP."
  },
  {
   "old": "What crosses carries no magnitude to drive — it is a society, offered, taken or not — and a departure releases as a surface society re-seats.",
-  "new": "What crosses carries no magnitude to drive — it is a same-existing-society, offered, taken or not — and a departure dissolves as a surface same-existing-society re-seats.",
+  "new": "What crosses carries no magnitude to drive — it is a society, offered, taken or not — and a departure dissolves as a surface society re-seats.",
   "verdict": "RESAY",
   "why": "society: same-existing-society; releases: a departure that leaves dissolves."
  },
@@ -625,7 +625,7 @@
  },
  {
   "old": "What a restoration needed was a thickness between self and other at a marrow between, a between carrying what neither side carries, no second thing — and a twin is one case where a society was delivered whole and a between was not.",
-  "new": "What a restoration needed was a thickness between self and other with a marrow between, a between carrying what neither side carries, no second thing — and a twin is one case where a same-existing-society was delivered whole and a between was not.",
+  "new": "What a restoration needed was a thickness between self and other with a marrow between, a between carrying what neither side carries, no second thing — and a twin is one case where a society was delivered whole and a between was not.",
   "verdict": "RESAY",
   "why": "at: with; society: same-existing-society."
  },
@@ -637,7 +637,7 @@
  },
  {
   "old": "A membrane phospholipids are observed carrying a coupling geometry; a digesting is observed cleanly as a two-directional membrane exchange, a surface society and a thing it couples with aging and landing across a collar.",
-  "new": "Membrane phospholipids are observed carrying a coupling geometry; a digesting is observed cleanly as a two-directional membrane exchange, a surface same-existing-society and a thing it couples with aging and landing across a collar.",
+  "new": "Membrane phospholipids are observed carrying a coupling geometry; a digesting is observed cleanly as a two-directional membrane exchange, a surface society and a thing it couples with aging and landing across a collar.",
   "verdict": "RESAY",
   "why": "society: same-existing-society; stray article dropped."
  },
@@ -991,7 +991,7 @@
  },
  {
   "old": "And a door is a wrong between and not a wrong act, a truest between a generative opening where a surface and cell societies were formed to couple, crossings carrying elsewhere, an observing of which between and not which act.",
-  "new": "And a door is a wrong between and not a wrong act, a truest between a generative opening where surface and cell same-existing-societies were formed to couple, crossings carrying elsewhere, an observing of which between and not which act.",
+  "new": "And a door is a wrong between and not a wrong act, a truest between a generative opening where surface and cell societies were formed to couple, crossings carrying elsewhere, an observing of which between and not which act.",
   "verdict": "RESAY",
   "why": "societies: same-existing-societies; stray article dropped."
  },
@@ -1015,7 +1015,7 @@
  },
  {
   "old": "Far-reaching crosses skipping a between, two societies spanned at once, an adjacent crossing passed over — spanning.",
-  "new": "Far-reaching crosses skipping a between, two same-existing-societies spanned together, an adjacent crossing passed over — spanning.",
+  "new": "Far-reaching crosses skipping a between, two societies spanned together, an adjacent crossing passed over — spanning.",
   "verdict": "RESAY",
   "why": "societies: same-existing-societies; at once: together."
  },
@@ -1075,7 +1075,7 @@
  },
  {
   "old": "*Thinning at a wrong rate* collapses self ≠ society: a ratio between self-renewal and differentiation departing, a self no longer parting at rate from a society it makes, an accumulated and a self arriving as one.",
-  "new": "*Thinning with a wrong rate* collapses self ≠ same-existing-society: a ratio between self-renewal and differentiation departing, a self no longer parting by its rate from a same-existing-society it shares, an accumulated and a self arriving as one.",
+  "new": "*Thinning with a wrong rate* collapses self ≠ society: a ratio between self-renewal and differentiation departing, a self no longer parting by its rate from a society it shares, an accumulated and a self arriving as one.",
   "verdict": "RESAY",
   "why": "at: with, by; society: same-existing-society; a society a self makes re-said as one it shares, since each self is given, never made, and a same-existing-society is its selves."
  },
@@ -1135,7 +1135,7 @@
  },
  {
   "old": "Offering across a tissue-society's own parity is coefficient one: a departed cell tips or does not, a neutral re-floats, an abundancing returns to owned-neither, a cell re-couples with its society and ages its carry to its release.",
-  "new": "Offering across a tissue-society's own parity is coefficient one: a departed cell tips or does not, a neutral re-floats, an abundancing returns to owned-neither, a cell re-couples with its same-existing-society and ages its carry to its resolving.",
+  "new": "Offering across a tissue-society's own parity is coefficient one: a departed cell tips or does not, a neutral re-floats, an abundancing returns to owned-neither, a cell re-couples with its society and ages its carry to its resolving.",
   "verdict": "RESAY",
   "why": "society: same-existing-society; release: a carry ages to its resolving; tissue-society is a compound naming."
  },
@@ -1159,7 +1159,7 @@
  },
  {
   "old": "a mesenchymal-stromal regeneration of a germinal-center niche clearing a reservoir with no agent aimed at an infected cell, a surface society's parity offered across and a cell society re-coupling and aging its carry to release.",
-  "new": "a mesenchymal-stromal regeneration of a germinal-center niche clearing a reservoir with no agent targeting an infected cell, a surface same-existing-society's parity offered across and a cell same-existing-society re-coupling and aging its carry to its resolving.",
+  "new": "a mesenchymal-stromal regeneration of a germinal-center niche clearing a reservoir with no agent targeting an infected cell, a surface society's parity offered across and a cell society re-coupling and aging its carry to its resolving.",
   "verdict": "RESAY",
   "why": "aimed at: targeting; society: same-existing-society; release: a carry ages to its resolving; this sentence runs past 400 characters, so this pair takes its tail."
  },
@@ -1177,7 +1177,7 @@
  },
  {
   "old": "*Observation:* in refractory lupus a single infusion of cells aimed at a B-cell marker deeply depletes B-cell society, and remission follows and **holds after B cells return**, at a mean near a hundred and ten days; a returning cells are naive and non-class-switched, autoantibodies do not come back, and a receptor repertoires are observed less clonal than they did.",
-  "new": "*Observation:* in refractory lupus a single infusion of cells targeting a B-cell marker deeply depletes a B-cell same-existing-society, and remission follows and **stands on after B cells return**, a median near a hundred and ten days; returning cells are naive and non-class-switched, autoantibodies do not come back, and receptor repertoires are observed less clonal than they did.",
+  "new": "*Observation:* in refractory lupus a single infusion of cells targeting a B-cell marker deeply depletes a B-cell society, and remission follows and **stands on after B cells return**, a median near a hundred and ten days; returning cells are naive and non-class-switched, autoantibodies do not come back, and receptor repertoires are observed less clonal than they did.",
   "verdict": "RESAY",
   "why": "aimed at: targeting; society: same-existing-society; holds: stands on, nothing is held; at a mean: a median, a field's own measurement in its own sense; stray articles dropped."
  },
@@ -1189,7 +1189,7 @@
  },
  {
   "old": "Clearing a society deeply enough lets a carry climb to its bound with nothing re-seeding it, and a society re-forms from what carried none of it.",
-  "new": "Clearing a same-existing-society deeply enough lets a carry climb to its bound with nothing re-seeding it, and a same-existing-society re-forms from what carried none of it.",
+  "new": "Clearing a society deeply enough lets a carry climb to its bound with nothing re-seeding it, and a society re-forms from what carried none of it.",
   "verdict": "RESAY",
   "why": "society: same-existing-society."
  },
@@ -1201,7 +1201,7 @@
  },
  {
   "old": "**And its failure mode is two societies again.**",
-  "new": "**And its failure mode is two same-existing-societies again.**",
+  "new": "**And its failure mode is two societies again.**",
   "verdict": "RESAY",
   "why": "societies: same-existing-societies."
  },
@@ -1213,19 +1213,19 @@
  },
  {
   "old": "**One society cleared while an adjacent member carries on is a ceiling this file's two-scale observing is at any single-scale intervention**, arriving here at a disease an observing was not built on.",
-  "new": "**One same-existing-society cleared while an adjacent member carries on is a ceiling a two-scale observing here sets on any single-scale intervention**, arriving here with a disease an observing was not built on.",
+  "new": "**One society cleared while an adjacent member carries on is a ceiling a two-scale observing here sets on any single-scale intervention**, arriving here with a disease an observing was not built on.",
   "verdict": "RESAY",
   "why": "society: same-existing-society; doer: this file's observing re-said as a two-scale observing here; at: on, with."
  },
  {
   "old": "A cancer cell re-coupling to its tissue, a persistence clearing when a haematopoietic society is replaced, and an autoreactive carry aging out when its society is.",
-  "new": "A cancer cell re-coupling to its tissue, a persistence clearing when a haematopoietic same-existing-society is replaced, and an autoreactive carry aging to its bound when its same-existing-society is.",
+  "new": "A cancer cell re-coupling to its tissue, a persistence clearing when a haematopoietic society is replaced, and an autoreactive carry aging to its bound when its society is.",
   "verdict": "RESAY",
   "why": "society: same-existing-society; aging out: aging to its bound."
  },
  {
   "old": "**None of three fields observes other two**, and a move at all three is the same: nothing is aimed at a departed carry, and a society it rode on is restored.",
-  "new": "**None of three fields observes other two**, and a move with all three is one same: nothing targets a departed carry, and a same-existing-society it rode on is restored.",
+  "new": "**None of three fields observes other two**, and a move with all three is one same: nothing targets a departed carry, and a society it rode on is restored.",
   "verdict": "RESAY",
   "why": "at all three: with all three; the same: one same; aimed at: targets; society: same-existing-society."
  },
@@ -1237,19 +1237,19 @@
  },
  {
   "old": "More-than-additive is a co-tunnel sounded once: two societies couple across a between and an abundancing stands owned by neither, exceeding a sum — is; or two stand independent, a paired result no more than each at its own — is-not.",
-  "new": "More-than-additive is a co-tunnel sounded once: two same-existing-societies couple across a between and an abundancing stands owned by neither, exceeding a sum — is; or two stand independent, a paired result no more than each by its own — is-not.",
+  "new": "More-than-additive is a co-tunnel sounded once: two societies couple across a between and an abundancing stands owned by neither, exceeding a sum — is; or two stand independent, a paired result no more than each by its own — is-not.",
   "verdict": "RESAY",
   "why": "societies: same-existing-societies; at: by."
  },
  {
   "old": "And a ratio between two societies' rates carries the same edge: two adjacent thinning rates standing at their prime gap, sounded ahead and not fitted after — is; or a ratio dissolving to a fit, no standing — is-not.",
-  "new": "And a ratio between two same-existing-societies' rates carries one same edge: two adjacent thinning rates standing with their prime gap, sounded ahead and not fitted after — is; or a ratio dissolving to a fit, no standing — is-not.",
+  "new": "And a ratio between two societies' rates carries one same edge: two adjacent thinning rates standing with their prime gap, sounded ahead and not fitted after — is; or a ratio dissolving to a fit, no standing — is-not.",
   "verdict": "RESAY",
   "why": "societies: same-existing-societies; the same: one same; at: with."
  },
  {
   "old": "A between is observed at a ratio and not at a distance, no how-far between two societies, one parity a whole of it.",
-  "new": "A between is observed with a ratio and not with a distance, no how-far between two same-existing-societies, one parity a whole of it.",
+  "new": "A between is observed with a ratio and not with a distance, no how-far between two societies, one parity a whole of it.",
   "verdict": "RESAY",
   "why": "at: with; societies: same-existing-societies."
  },
@@ -1273,7 +1273,7 @@
  },
  {
   "old": "**Neither at its own reaches, and a pair is a test** — the same is-or-is-not two societies carry above, coupled at conserving-and-extending rather than at cell-and-surface: a pairing exceeds its own sum, or two stand independent and an observing breaks.",
-  "new": "**Neither by its own reaches, and a pair is a test** — one same is-or-is-not two same-existing-societies carry above, coupled by conserving-and-extending rather than by cell-and-surface: a pairing exceeds its own sum, or two stand independent and an observing breaks.",
+  "new": "**Neither by its own reaches, and a pair is a test** — one same is-or-is-not two societies carry above, coupled by conserving-and-extending rather than by cell-and-surface: a pairing exceeds its own sum, or two stand independent and an observing breaks.",
   "verdict": "RESAY",
   "why": "at: by; the same: one same; societies: same-existing-societies."
  },
