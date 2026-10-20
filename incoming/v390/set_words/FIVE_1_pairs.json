@@ -361,7 +361,7 @@
  },
  {
   "old": "Electrical, mechanical, thermal, chemical and other engineering co-chain at floating neutralling. Each arrangement carries five properties at §5.1, with bi-momentarying, co-competencing and co-intelligencing inseparable at its receiving.",
-  "new": "Electrical, mechanical, thermal, chemical and other engineering co-chain with floating neutralling. Each arrangement carries five properties, §5.1, bi-momentarying, co-competencing and co-intelligencing inseparable with its receiving.",
+  "new": "Electrical, mechanical, thermal, chemical and other engineering co-chain with floating neutralling. Each arrangement carries five properties, §5.1, and bi-momentarying, co-competencing and co-intelligencing are inseparable with its receiving.",
   "verdict": "RESAY",
   "why": "at: with; at §5.1: §5.1 named."
  },
@@ -391,9 +391,9 @@
  },
  {
   "old": "| **§1.8 · Both sides forward** | Each side's own forward retains its own direction at the same coupling. Co-linear momentarying needs that actual orientation expressed at each changing. |",
-  "new": "| **§1.8 · Both sides forward** | Each side's own forward retains its own direction with their one coupling. Co-linear momentarying needs that actual orientation expressed with each momentary. |",
+  "new": "| **§1.8 · Both sides forward** | Each side's own forward retains its own direction with one shared coupling. Co-linear momentarying needs that actual orientation expressed with each momentary. |",
   "verdict": "RESAY",
-  "why": "at the same coupling: with their one coupling; at each changing, each step of co-linear momentarying: with each momentary."
+  "why": "at the same coupling: with one shared coupling; at each changing, each step of co-linear momentarying: with each momentary."
  },
  {
   "old": "Sequence and surface carry their co-relation at each addressed exchange.",
@@ -643,7 +643,7 @@
  },
  {
   "old": "Its proposed co-chaining with six directional recursionings, four quarter-turns, spinor changing and central 0–440 mapping continues with Numbers and Mathematics at corresponding operations.",
-  "new": "Its proposed co-chaining with six directional recursionings, four quarter-turns, spinor parity-changing and central 0–440 mapping continues with Numbers and Mathematics, with corresponding operations.",
+  "new": "Its proposed co-chaining with six directional recursionings, four quarter-turns, spinor parity-changing and central 0–440 mapping continues with Numbers and Mathematics and their corresponding operations.",
   "verdict": "RESAY",
   "why": "spinor changing, a spinor's sign inverting: spinor parity-changing; at: with."
  },

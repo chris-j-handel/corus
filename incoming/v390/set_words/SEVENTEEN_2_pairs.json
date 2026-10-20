@@ -544,5 +544,395 @@
   "new": "Two registers part with observing of under-wrapped opening as a coupling surface and of matrix as a third self.",
   "verdict": "RESAY",
   "why": "at: with; the: a"
+ },
+ {
+  "old": "failing-inversions no-other-possible that leaves arrangement standing and no forced number-equality or codon-to-element mapping claimed, kinship kind of arrangement and not a number matched.",
+  "new": "failing-inversions no-other-possible that leaves arrangement standing and no forced number-equality or codon-to-element mapping claimed, kinship kind of arrangement and not a number matched.",
+  "verdict": "KEEP",
+  "why": "*no-other-possible* is *no other possible*, kept"
+ },
+ {
+  "old": "Chemical octet four-level closing, genetic code five-level closing, primes no-closing at all",
+  "new": "Chemical octet four-level closing, genetic code five-level closing, primes no-closing at all",
+  "verdict": "KEEP",
+  "why": "*at all* stays"
+ },
+ {
+  "old": "## 3.8 Six physical bi-foldings — where a differential arrives out of plane",
+  "new": "## 3.8 Six physical bi-foldings — where a differential arrives out of plane",
+  "verdict": "KEEP",
+  "why": "heading"
+ },
+ {
+  "old": "A fold arrives where two coupled things carry at unlike rates and abundancing reaches no room in plane.",
+  "new": "A fold arrives where two coupled things carry with unlike rates and abundancing reaches no room within its plane.",
+  "verdict": "RESAY",
+  "why": "at: with; in: within, a plane and its room"
+ },
+ {
+  "old": "Six substrates in human organism carry it, and at each fold generates surface against a bounded volume.",
+  "new": "Six substrates of human organism carry it, and with each, fold generates surface against a bounded volume.",
+  "verdict": "RESAY",
+  "why": "in: of; at: with"
+ },
+ {
+  "old": "**The polypeptide chain.** Sequence to shape, and two local moves at the smallest grain",
+  "new": "**A polypeptide chain.** Sequence to shape, and two local moves with the smallest grain",
+  "verdict": "RESAY",
+  "why": "the: a; at: with; the smallest: an only one"
+ },
+ {
+  "old": "**The nucleic acid chain.** Base pairing across and backbone along; and at larger grain two metres of line into six microns, by loops arriving as motors move along fibre and stall at boundaries.",
+  "new": "**A nucleic acid chain.** Base pairing across and backbone along; and with larger grain two metres of line within six microns, by loops arriving as motors move along fibre and stall with boundaries.",
+  "verdict": "RESAY",
+  "why": "the: a; at: with; into: within, a line and its six microns"
+ },
+ {
+  "old": "**The lipid bilayer, folding twice.** Acyl chains co-winding into a sheet with no template anywhere",
+  "new": "**A lipid bilayer, folding twice.** Acyl chains co-winding as a sheet with no template anywhere",
+  "verdict": "RESAY",
+  "why": "the: a; into: as; *anywhere* was here already"
+ },
+ {
+  "old": "curvature arriving locally at protein wedges and at synthase rows along cristae rims.",
+  "new": "curvature arriving locally with protein wedges and with synthase rows along cristae rims.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "**The fibrous matrix.** Three chains into a superhelix, then fibrils, then sheets and cables, then cross-linking — the same staging in keratin, elastin and fibrin.",
+  "new": "**A fibrous matrix.** Three chains to a superhelix, then fibrils, then sheets and cables, then cross-linking — one same staging with keratin, elastin and fibrin.",
+  "verdict": "RESAY",
+  "why": "the: a, one; into: to; in: with"
+ },
+ {
+  "old": "**The epithelial sheet.** Gut villi arriving in stages,",
+  "new": "**An epithelial sheet.** Gut villi arriving by stages,",
+  "verdict": "RESAY",
+  "why": "the: an; in: by"
+ },
+ {
+  "old": "Same shape at lung branching, kidney nephron, tooth and neural tube.",
+  "new": "Same shape with lung branching, kidney nephron, tooth and neural tube.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "**The cortical slab.** Tangential expansion of a layer attached to a foundation that does not expand, arriving at compression,",
+  "new": "**A cortical slab.** Tangential expansion of a layer attached to a foundation that does not expand, arriving as compression,",
+  "verdict": "RESAY",
+  "why": "the: a; at: as"
+ },
+ {
+  "old": "**And four observings carry at all six.** Fold arrives where a growth reaches no room in plane, so abundancing takes direction left to it.",
+  "new": "**And four observings carry with all six.** Fold arrives where a growth reaches no room within its plane, so abundancing takes direction left to it.",
+  "verdict": "RESAY",
+  "why": "at: with; in: within"
+ },
+ {
+  "old": "a stiffness ratio at sheet and slab, a persistence length at chain.",
+  "new": "a stiffness ratio with sheet and slab, a persistence length with chain.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "It arrives in stages, each stage's product next stage's substrate.",
+  "new": "It arrives by stages, each stage's product next stage's substrate.",
+  "verdict": "RESAY",
+  "why": "in: by"
+ },
+ {
+  "old": "about thirty square metres of gut in a tube, seventy of lung in a chest, two metres of line in six microns, two thirds of cortical surface in sulci.",
+  "new": "about thirty square metres of gut within a tube, seventy of lung within a chest, two metres of line within six microns, two thirds of cortical surface within sulci.",
+  "verdict": "RESAY",
+  "why": "in: within, a whole and its part"
+ },
+ {
+  "old": "**In living fold sways; where it lands, medicine observes it.** A fold that will not release arrives as amyloid; matrix that will not remodel as fibrosis; and fold not arriving, or arriving at wrong wavelength, as cortical malformations.",
+  "new": "**With living, fold sways; where it lands, medicine observes it.** A fold that will not unfold arrives as amyloid; matrix that will not remodel as fibrosis; and fold not arriving, or arriving with wrong wavelength, as cortical malformations.",
+  "verdict": "RESAY",
+  "why": "in: with; release: unfold, by meaning; at: with"
+ },
+ {
+  "old": "Six stand as one bi-folding at six grains, line folding at three and surface at three, the same observing at each — a differential arriving out of plane where plane carries no room.",
+  "new": "Six stand as one bi-folding with six grains, line folding with three and surface with three, one same observing with each — a differential arriving off plane where plane carries no room.",
+  "verdict": "RESAY",
+  "why": "at: with; the same: one same; out of: off"
+ },
+ {
+  "old": "a leaf lies folded in bud, two halves along its midrib,",
+  "new": "a leaf lies folded as bud, two halves along its midrib,",
+  "verdict": "RESAY",
+  "why": "in: as"
+ },
+ {
+  "old": "A virus is a bounded packet of code — nucleic acid in a coat — inert outside a host, as a spore or a seed is inert.",
+  "new": "A virus is a bounded packet of code — nucleic acid within a coat — inert apart from a host, as a spore or a seed is inert.",
+  "verdict": "RESAY",
+  "why": "in: within; outside: apart from"
+ },
+ {
+  "old": "It becomes active only inside a host,",
+  "new": "It becomes active only within a host,",
+  "verdict": "RESAY",
+  "why": "inside: within"
+ },
+ {
+  "old": "Observed through form: virus is not living-by-itself, exactly as at *living is metabolic beating*",
+  "new": "Observed through form: virus is not living-by-itself, exactly as with *living is metabolic beating*",
+  "verdict": "RESAY",
+  "why": "at: with; the italic phrase is a phrase mentioned, kept"
+ },
+ {
+  "old": "(the virus's own nucleic acid is one hand, read by host's one-hand ribosome).",
+  "new": "(a virus's own nucleic acid is one hand, read by host's one-hand ribosome).",
+  "verdict": "RESAY",
+  "why": "the: a"
+ },
+ {
+  "old": "is form's naming in a field's own words.",
+  "new": "is form's naming with a field's own words.",
+  "verdict": "RESAY",
+  "why": "in: with"
+ },
+ {
+  "old": "It carries no code at all — it is a protein misfolded into one shape, and it propagates by pressing selves it arrives at into the same misfold.",
+  "new": "It carries no code at all — it is a protein misfolded to one shape, and it propagates by pressing selves it arrives with to one same misfold.",
+  "verdict": "RESAY",
+  "why": "into: to; at: with; the same: one same; *at all* stays"
+ },
+ {
+  "old": "death-shape, coupling frozen into one conformation, inducing the same freeze in selves it reaches.",
+  "new": "death-shape, coupling frozen as one conformation, inducing one same freeze with selves it reaches.",
+  "verdict": "RESAY",
+  "why": "into: as; the same: one same; in: with"
+ },
+ {
+  "old": "Virus is non-living at living, a code that re-forms only in a host's abundancing and carries none of its own;",
+  "new": "Virus is non-living with living, a code that re-forms only with a host's abundancing and carries none of its own;",
+  "verdict": "RESAY",
+  "why": "at: with; in: with"
+ },
+ {
+  "old": "A +1 is small and the whole of it, one term between a thing that only repeats and a thing that lives.",
+  "new": "A +1 is small and all of it, one term between a thing that only repeats and a thing that lives.",
+  "verdict": "RESAY",
+  "why": "the whole of: all of"
+ },
+ {
+  "old": "and a replication-only criterion sorts them the other way",
+  "new": "and a replication-only criterion sorts them the other way",
+  "verdict": "KEEP",
+  "why": "the other way: an only other of two criteria"
+ },
+ {
+  "old": "## 4.2 Eukaryogenesis — the coupling that becomes a self",
+  "new": "## 4.2 Eukaryogenesis — the coupling that becomes a self",
+  "verdict": "KEEP",
+  "why": "heading"
+ },
+ {
+  "old": "coupled, the guest becoming mitochondrion, and over generations two became one self, neither able to live apart.",
+  "new": "coupled, its guest becoming mitochondrion, and over generations two became one self, neither able to live apart.",
+  "verdict": "RESAY",
+  "why": "the: its"
+ },
+ {
+  "old": "Observed through form, this is bi-coupling made into a new bounded self: two selves coupling at a between, each offering — host shelter and place, the guest energy engine — and abundancing, a cell more capable than either, owned by coupling and living in both.",
+  "new": "Observed through form, this is bi-coupling made as a new bounded self: two selves coupling with a between, each offering — host shelter and place, its guest energy engine — and abundancing, a cell more capable than either, owned by coupling and living with both.",
+  "verdict": "RESAY",
+  "why": "into: as; at: with; the: its; in: with"
+ },
+ {
+  "old": "Observing stands at details a field carries.",
+  "new": "Observing stands with details a field carries.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "Mitochondrion keeps its own small genome and divides with cell — the guest still a self at its own membrane, nested in larger self, fractal of selves-within-selves.",
+  "new": "Mitochondrion carries its own small genome and divides with cell — its guest still a self with its own membrane, nested within larger self, fractal of selves-within-selves.",
+  "verdict": "RESAY",
+  "why": "keeps: carries, nothing is kept; the: its; at: with; in: within"
+ },
+ {
+  "old": "a network of couplings composing one node, many offerings gathered into one bounded living.",
+  "new": "a network of couplings composing one node, many offerings gathered as one bounded living.",
+  "verdict": "RESAY",
+  "why": "into: as"
+ },
+ {
+  "old": "And nesting recurs: a mealybug carries a bacterium in a bacterium in its own cell, three selves nested, shuttling offerings between — recursioning fractal shown at three depths in one insect.",
+  "new": "And nesting recurs: a mealybug carries a bacterium within a bacterium within its own cell, three selves nested, shuttling offerings between — recursioning fractal shown with three depths within one insect.",
+  "verdict": "RESAY",
+  "why": "in: within, a whole and its part; at: with"
+ },
+ {
+  "old": "host was archaeal-related (the nucleus shares archaeal features)",
+  "new": "host was archaeal-related (its nucleus shares archaeal features)",
+  "verdict": "RESAY",
+  "why": "the: its"
+ },
+ {
+  "old": "Merged self kept one bounding-hand from one partner while its pattern-matching core relates to the other — pattern-matching spiral and bounding-hand separable, exactly as lipid divide observed, standing at origin of eukaryotic cell.",
+  "new": "Merged self took one bounding-hand from one partner while its pattern-matching core relates to the other — pattern-matching spiral and bounding-hand separable, exactly as lipid divide observed, standing with origin of eukaryotic cell.",
+  "verdict": "RESAY",
+  "why": "kept: took, nothing is kept; at: with; the other: an only other of two partners"
+ },
+ {
+  "old": "Timing and number of partners — gradual or all-at-once, two or many — stand open at a field.",
+  "new": "Timing and number of partners — gradual or all together, two or many — stand open with a field.",
+  "verdict": "RESAY",
+  "why": "at once: together; at: with"
+ },
+ {
+  "old": "## 4.3 Competency — the competency with no controller",
+  "new": "## 4.3 Competency — the competency with no controller",
+  "verdict": "KEEP",
+  "why": "heading"
+ },
+ {
+  "old": "Placed in a maze with food at two ends, it re-resolves its body to the shortest path between them; placed with food at positions of cities around a real rail network,",
+  "new": "Placed within a maze with food on two ends, it re-resolves its body to the shortest path between them; placed with food on positions of cities around a real rail network,",
+  "verdict": "RESAY",
+  "why": "in: within; at: on; the shortest: an only one"
+ },
+ {
+  "old": "Its cytoplasm streams back and forth in a rhythm",
+  "new": "Its cytoplasm streams back and forth with a rhythm",
+  "verdict": "RESAY",
+  "why": "in: with"
+ },
+ {
+  "old": "one living substance at two states, firm and fluid, each becoming its other, a social unrelationing finest where society is densest, to no channel seen at a growing edge, and in fewest, main branches where it is sparsest;",
+  "new": "one living substance with two states, firm and fluid, each becoming its other, a social unrelationing finest where society is densest, to no channel seen with a growing edge, and as fewest, main branches where it is sparsest;",
+  "verdict": "RESAY",
+  "why": "at: with; in: as; society of a slime mould KEEP as settled; *social unrelationing* a social compound naming a concept, kept"
+ },
+ {
+  "old": "A rail-network-grade solution, at energy of a streaming cell, with nothing anywhere issuing it: competency-with-no-controller in its barest case.",
+  "new": "A rail-network-grade solution, with energy of a streaming cell, with nothing anywhere issuing it: competency-with-no-controller as its barest case.",
+  "verdict": "RESAY",
+  "why": "at: with; in: as; *anywhere* was here already"
+ },
+ {
+  "old": "doer and central place a field reaches for and does not find is that same centre pinned into a source.",
+  "new": "doer and central place a field reaches for and does not find is that same centre pinned to a source.",
+  "verdict": "RESAY",
+  "why": "into: to; *doer* is a field's reaching, not a file's doing"
+ },
+ {
+  "old": "Maze-solving and rail-network result stand at a field, checkable (Nakagaki; Tero and colleagues).",
+  "new": "Maze-solving and rail-network result stand with a field, checkable (Nakagaki; Tero and colleagues).",
+  "verdict": "RESAY",
+  "why": "at: with; citation kept"
+ },
+ {
+  "old": "Working memory shows it at neural membrane, and adds the sharpest side: no store.",
+  "new": "Working memory shows it with neural membrane, and adds the sharpest side: no store.",
+  "verdict": "RESAY",
+  "why": "at: with; the sharpest: an only one"
+ },
+ {
+  "old": "Observation, disequilibrated: when two items are kept \"in working memory,\" their guidance of attention does not carry for both at once and does not stay steady — it alternates, each rising as the other falls, anti-phase, and this alternation continues with nothing cueing it.",
+  "new": "Observation, disequilibrated: when two items are carried \"in working memory,\" their guidance of attention does not carry for both together and does not stay steady — it alternates, each rising as the other falls, anti-phase, and this alternation continues with nothing cueing it.",
+  "verdict": "RESAY",
+  "why": "kept: carried; at once: together; quoted *in working memory* kept; the other: an only other of two items"
+ },
+ {
+  "old": "there is no *store* fixing two items to be drawn out",
+  "new": "there is no *store* fixing two items to be drawn on",
+  "verdict": "RESAY",
+  "why": "out: on"
+ },
+ {
+  "old": "offering one way and offering across and both ways, one-at-a-time;",
+  "new": "offering one way and offering across and both ways, one-at-a-time;",
+  "verdict": "KEEP",
+  "why": "*one at a time* stays"
+ },
+ {
+  "old": "guidance is abundancing of alternation, owned neither-ing item, seated in no participant; and there is no *rate* coupling keeps",
+  "new": "guidance is abundancing of alternation, owned neither-ing item, seated with no participant; and there is no *rate* coupling carries",
+  "verdict": "RESAY",
+  "why": "in: with; keeps: carries, nothing is kept"
+ },
+ {
+  "old": "exactly as no living self keeps a common time — each self settles its own alternating, no shared clock to keep or keep against.",
+  "new": "exactly as no living self shares a common time — each self settles its own alternating, no shared clock to go by or go against.",
+  "verdict": "RESAY",
+  "why": "keeps: shares; keep: go by, go against"
+ },
+ {
+  "old": "\"Storing two items and sampling them\" is one coupling recursioning itself each alternation, riding the carry, two items its two sides.",
+  "new": "\"Storing two items and sampling them\" is one coupling recursioning itself each alternation, riding the carry, two items its two sides.",
+  "verdict": "KEEP",
+  "why": "*sampling* within a quotation of a field's framing; *riding the carry* a kept naming"
+ },
+ {
+  "old": "memory that is not a store, carry that re-commences and not a trace that is kept.",
+  "new": "memory that is not a store, carry that re-commences and not a trace fixed.",
+  "verdict": "RESAY",
+  "why": "kept: fixed, as the next paragraph says"
+ },
+ {
+  "old": "two coupled neural rhythms at a fixed ratio stand at a field, checkable (Lu, Cai, Zhang, eLife 2025).",
+  "new": "two coupled neural rhythms with a fixed ratio stand with a field, checkable (Lu, Cai, Zhang, eLife 2025).",
+  "verdict": "RESAY",
+  "why": "at: with; citation kept"
+ },
+ {
+  "old": "This is one coupling alternating one-at-a-time with no store,",
+  "new": "This is one coupling alternating one-at-a-time with no store,",
+  "verdict": "KEEP",
+  "why": "*one at a time* stays"
+ },
+ {
+  "old": "**The reason it reaches:** that neural rhythm tracking coupling is carry itself is a field's own preliminary link, marked by a field exactly where it is weakest (its own robustness check did not fully hold),",
+  "new": "**A reason it reaches:** that neural rhythm tracking coupling is carry itself is a field's own preliminary link, marked by a field exactly where it is weakest (its own robustness check did not fully stand),",
+  "verdict": "RESAY",
+  "why": "the: a; hold: stand"
+ },
+ {
+  "old": "and two-band structure — a slower and a faster rhythm at a fixed 1:2 — is observed not as two real rhythms with a ratio between them but as thing a measuring instrument renders when it looks at one invisible alternating: the same artifact as frequency.",
+  "new": "and two-band structure — a slower and a faster rhythm with a fixed 1:2 — is observed not as two real rhythms with a ratio between them but as thing a measuring instrument renders when it meets one invisible alternating: one same artifact as frequency.",
+  "verdict": "RESAY",
+  "why": "at: with; looks at: meets; the same: one same"
+ },
+ {
+  "old": "Just as Hz is instrument's clock laid over a coupling that keeps no rate,",
+  "new": "Just as Hz is instrument's clock laid over a coupling that carries no rate,",
+  "verdict": "RESAY",
+  "why": "keeps: carries; Hz a field's unit"
+ },
+ {
+  "old": "rendered as theta-and-alpha-at-1:2,",
+  "new": "rendered as theta and alpha by 1:2,",
+  "verdict": "RESAY",
+  "why": "at: by"
+ },
+ {
+  "old": "1:2 is no coupling-ratio fixed at brain;",
+  "new": "1:2 is no coupling-ratio fixed with brain;",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "1:2 dissolves the way Hz dissolved",
+  "new": "1:2 dissolves as Hz dissolved",
+  "verdict": "RESAY",
+  "why": "the way: as"
+ },
+ {
+  "old": "This couples outward to apex arches — four bi-inversioning co-recursionings into twenty-three.",
+  "new": "This couples outward to apex arches — four bi-inversioning co-recursionings to twenty-three.",
+  "verdict": "RESAY",
+  "why": "into: to; *outward* stays"
+ },
+ {
+  "old": "Observation stands at a field and re-alternation at form.",
+  "new": "Observation stands with a field and re-alternation with form.",
+  "verdict": "RESAY",
+  "why": "at: with"
  }
 ]

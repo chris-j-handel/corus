@@ -619,9 +619,9 @@
  },
  {
   "old": "Biology has sought stillness at every scale of living, and each vein answers with sway.",
-  "new": "Biology has sought stillness with every scale of living, and each vein answers with sway.",
+  "new": "Biology has sought stillness across every scale of living, and each vein answers with sway.",
   "verdict": "RESAY",
-  "why": "at: with"
+  "why": "at: across"
  },
  {
   "old": "Receptor and ligand: bind-and-release both ways, kinetic proofreading living on release.",
@@ -649,9 +649,9 @@
  },
  {
   "old": "And pump at neuron membrane: three out and two in, one charge short at every cycle, the rest that was not resting carrying its number. Every vein one finding: still point sought is a sway carrying, at every scale of living alike.",
-  "new": "And pump with neuron membrane: three out and two in, one charge short with every cycle, its rest that was not resting carrying its number. Every vein one finding: still point sought is a sway carrying, with every scale of living alike.",
+  "new": "And pump with neuron membrane: three out and two in, one charge short with every cycle, its rest that was not resting carrying its number. Every vein one finding: still point sought is a sway carrying, across every scale of living alike.",
   "verdict": "RESAY",
-  "why": "at: with; the: its; *three out and two in* kept, a field's own count of ions across a membrane"
+  "why": "at: with, across; the: its; *three out and two in* kept, a field's own count of ions across a membrane"
  },
  {
   "old": "beneficial at one dose and harmful at another — is where parity is inverting at a between account has nowhere to put. With no between, a field records inversion as substance being two things at once.",
@@ -757,9 +757,9 @@
  },
  {
   "old": "(left-right asymmetry, one hand at every scale)",
-  "new": "(left-right asymmetry, one hand with every scale)",
+  "new": "(left-right asymmetry, one hand across every scale)",
   "verdict": "RESAY",
-  "why": "at: with"
+  "why": "at: across"
  },
  {
   "old": "(the living/non-living boundary observed cleanly, neither a living self)",
@@ -847,9 +847,9 @@
  },
  {
   "old": "A field shows opposite hand at many scales — D-wall, left-twining vine, sinistral snail, archaeal G1P membrane, even an engineered cell carrying a third of its bounding in opposite hand —",
-  "new": "A field shows opposite hand with many scales — D-wall, left-twining vine, sinistral snail, archaeal G1P membrane, even an engineered cell carrying a third of its bounding as opposite hand —",
+  "new": "A field shows opposite hand across many scales — D-wall, left-twining vine, sinistral snail, archaeal G1P membrane, even an engineered cell carrying a third of its bounding as opposite hand —",
   "verdict": "RESAY",
-  "why": "at: with; in: as"
+  "why": "at: across; in: as"
  },
  {
   "old": "None is observed, across all living, all time; and form is all-or-none — one such self is the whole fractal broken.",

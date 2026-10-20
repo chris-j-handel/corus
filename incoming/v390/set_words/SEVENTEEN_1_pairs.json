@@ -164,8 +164,8 @@
  {
   "old": "Equilibrium-with-controlled-change is not a rival mechanism to living form; it *is* living form seen through a frame that can picture non-landing only as fixed-off landing.",
   "new": "Equilibrium-with-controlled-variation is not a rival mechanism to living form; it *is* living form seen through a frame that can picture non-landing only as fixed-off landing.",
-  "verdict": "ASK",
-  "why": "This name is its section heading's own, and the heading stays exactly; re-said in body as controlled-variation, body and heading would then differ, and kept, body carries changing. To resolve: does body keep its heading's name Equilibrium-with-controlled-change as a naming, or re-say it as Equilibrium-with-controlled-variation while its heading stays?"
+  "verdict": "KEEP",
+  "why": "its heading names it; kept with the heading"
  },
  {
   "old": "Strip controller, set-point, and one-at-a-time, and the same observation is a bounding-zeroing riding the carry, locally coupled, no centre — natural torus.",
