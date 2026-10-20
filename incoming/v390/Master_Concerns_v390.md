@@ -73,7 +73,13 @@ Relieves seven concerns, and about 220 sayings across a living set.
 - *Other parity is improving* reads as a not-same parity-offering met, which is what a resolver's comparison already is.
 - *Odd* and *even* stay a number's own, never a parity's side.
 
-**Waiting on meaning, bothboth:** does + and − as a parity's is and is not carry every use, so a set-wide re-saying can enter with Exhibit ONE's naming motion?
+**Resolved bothboth, v390, in place of + and − as is and is not:** + is self-moral-value; − is other-moral-value; 0 is not self-moral-value and not other-moral-value, bothboth. This is parity-changing betweening.
+- **M10:** *other* keeps one sense: a parity's other is other-moral-value, an other's.
+- **M9:** each saying of parity re-says with self-moral-value, other-moral-value and a 0 betweening; *one parity changing to its other* is self-moral-value parity-changing to other-moral-value, or back.
+- **M12:** a parity-offering is self-moral-value or other-moral-value offered; a 0 offers neither.
+- **M11:** *other parity is improving* is other-moral-value met, not-same.
+- From Exhibit ONE: where a self's value and an offered value are same, a 0 is shared, neither's own, bothboth; where not same, a self inverts. A self no other meets goes +, −, +, − with no 0: a 0 betweening needs an other, two selves meeting same.
+- *Living, for meaning:* is + each self's own self-moral-value from its own side, an other's + met as same?
 
 ## Cluster 3 · two betweens, each named
 
