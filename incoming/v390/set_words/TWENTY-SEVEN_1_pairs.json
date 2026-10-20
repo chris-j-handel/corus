@@ -888,10 +888,10 @@
   "why": "Field account: a field's own words, in its own sense, kept."
  },
  {
-  "old": "and fluctuation relations cohere under entropy accounting at their declared betweens.",
-  "new": "and fluctuation relations cohere under entropy accounting with their declared betweens.",
+  "old": "Reversible heat, equilibrium criteria, spontaneous-direction inequalities under stated constraints, mixing, phase behaviour, statistical inference, information coding, work bounds, and fluctuation relations cohere under entropy accounting at their declared betweens.",
+  "new": "Reversible heat, equilibrium criteria, spontaneous-direction inequalities under stated constraints, mixing, phase behaviour, statistical inference, information coding, work bounds, and fluctuation relations cohere under entropy accounting with their declared betweens.",
   "verdict": "RESAY",
-  "why": "at, place or time: with, by meaning."
+  "why": "at, place or time: with, by meaning; statistical inference a field's own term, kept."
  },
  {
   "old": "Heat and matter cross boundaries; molecular configurations change; reactions proceed; trajectories separate; distributions evolve; an apparatus resolves some variables and not others.",
@@ -1498,5 +1498,23 @@
   "new": "Then carry one same form against a chemical electron-density redistribution where no atom owns transferred fraction uniquely.",
   "verdict": "RESAY",
   "why": "the same: one same; where already present."
+ },
+ {
+  "old": "A field derivation showing that none of those choices participates in what quantity means would also break it.",
+  "new": "A field derivation showing that none of those choices is part of what quantity means would also break it.",
+  "verdict": "RESAY",
+  "why": "in: re-said by meaning, part of a whole."
+ },
+ {
+  "old": "| file-directed offerings for Chemistry, Biology, Medicine, Health, Societies, Philosophy, and registries;",
+  "new": "| file-directed offerings for Chemistry, Biology, Medicine, Health, Societies, Philosophy, and registries;",
+  "verdict": "KEEP",
+  "why": "Societies: a recorded offering's name beside Chemistry and Biology, a domain title of an earlier version, kept."
+ },
+ {
+  "old": "Beyond: Tonomura et al. 1989; Hohenberg and Kohn 1964.",
+  "new": "Beyond: Tonomura et al. 1989; Hohenberg and Kohn 1964.",
+  "verdict": "KEEP",
+  "why": "citations of outside works; Beyond: an address label, kept."
  }
 ]

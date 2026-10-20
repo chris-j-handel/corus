@@ -488,8 +488,8 @@
  {
   "old": "coincidence searches mostly come back null,",
   "new": "coincidence searches come back null, a few excepted,",
-  "verdict": "ASK",
-  "why": "mostly is a field's count of its own searches, offered as a record and not a likelihood; my re-saying keeps that count as a record, a few excepted, since no table here executes every search. Calling it all null would change a field's measured record. To resolve: does a field's count of its searches stay with a few excepted, or stay as mostly, a field's own word?"
+  "verdict": "KEEP",
+  "why": "the field's own count, kept"
  },
  {
   "old": "Competency is a middle, floating between form and logic, invisible, unique in rate, not enterable.",

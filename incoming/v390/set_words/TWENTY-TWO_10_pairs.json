@@ -736,5 +736,257 @@
   "new": "third account has two interconverting local structures generate anomalies without an accessible phase separation: a point fixed of a sway is two structures' alternating fixed to a located end, and alternating is one thing each instrument gives from a vicinity, point a drawing's position and sway a liquid's own.",
   "verdict": "RESAY",
   "why": "at: from"
+ },
+ {
+  "old": "## 10.29 Long COVID pathophysiology · 215\n\n*+ or − at 10, is.*",
+  "new": "## 10.29 Long COVID pathophysiology · 215\n\n*+ or − with 10, is.*",
+  "verdict": "RESAY",
+  "why": "heading kept exactly, carried for uniqueness; at: with"
+ },
+ {
+  "old": "**At 2-now-possibling.** A body recovers at its own couplings after an infection, organ by organ and symptom by symptom,",
+  "new": "**With 2-now-possibling.** A body recovers with its own couplings after an infection, organ by organ and symptom by symptom,",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** One cut fixed around a continuum of presentations.",
+  "new": "**With 12-next-co-same-existing.** One cut fixed around a continuum of presentations.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "More than two hundred symptoms with impacts on multiple organ systems stand under one name, illness estimated in at least a tenth of infections;",
+  "new": "More than two hundred symptoms with impacts on multiple organ systems stand under one name, illness estimated in at least a tenth of infections;",
+  "verdict": "KEEP",
+  "why": "field's own record and measurement, quoted; in at least a tenth is its estimate"
+ },
+ {
+  "old": "syndrome spans organs and symptom clusters, definitions and controls vary, pre-infection baselines are often absent,",
+  "new": "syndrome spans organs and symptom clusters, definitions and controls vary, pre-infection baselines are often absent,",
+  "verdict": "KEEP",
+  "why": "statistics: often absent is the field's own quoted record"
+ },
+ {
+  "old": "its name a line drawn at a continuum its definitions redraw, and mechanisms sought within its line a question its line was drawn ahead of.",
+  "new": "its name a line drawn across a continuum its definitions redraw, and mechanisms sought within its line a question its line was drawn ahead of.",
+  "verdict": "RESAY",
+  "why": "at: across"
+ },
+ {
+  "old": "**At 11-next-co-observing.** Elevated post-infection risk, recurring symptom clusters and biological abnormalities in viral, immune, vascular and autonomic systems are replicated;",
+  "new": "**With 11-next-co-observing.** Elevated post-infection risk, recurring symptom clusters and biological abnormalities in viral, immune, vascular and autonomic systems are replicated;",
+  "verdict": "RESAY",
+  "why": "at: with; abnormalities in viral, immune, vascular and autonomic systems is the field's quoted record, kept"
+ },
+ {
+  "old": "longitudinal cohorts characterize persistence under attrition and control-selection limits, tissue and antigen studies report reservoirs in subsets with causal connection under test,",
+  "new": "longitudinal cohorts characterize persistence under attrition and control-selection limits, tissue and antigen studies report reservoirs in subsets with causal connection under test,",
+  "verdict": "KEEP",
+  "why": "field's own record, quoted; reservoirs in subsets its wording"
+ },
+ {
+  "old": "and mechanism-targeted trials are emerging, a complete discriminator at next and not at now;",
+  "new": "and mechanism-targeted trials are emerging, a complete discriminator next-existing and not now-existing;",
+  "verdict": "RESAY",
+  "why": "at: re-said by its names, next-existing and now-existing"
+ },
+ {
+  "old": "a name drawn around a continuum is each recovery not made fixed to one illness, and each body recovers or does not at its own couplings, subgroups found being a drawing redrawn at couplings, line handed back to each case.",
+  "new": "a name drawn around a continuum is each recovery not made fixed to one illness, and each body recovers or does not with its own couplings, subgroups found being a drawing redrawn with couplings, line handed back to each case.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "## 10.30 Biological phenotypes of sepsis and acute respiratory distress syndrome · 216\n\n*+ or − at 10, is.*",
+  "new": "## 10.30 Biological phenotypes of sepsis and acute respiratory distress syndrome · 216\n\n*+ or − with 10, is.*",
+  "verdict": "RESAY",
+  "why": "heading kept exactly, carried for uniqueness; at: with"
+ },
+ {
+  "old": "**At 2-now-possibling.** A host responds to an infection or an injury at its own couplings, response changing hour by hour, and responses are fixed to divide at lines, phenotypes that part patients into groups with different mechanisms and treatments.",
+  "new": "**With 2-now-possibling.** A host responds to an infection or an injury with its own couplings, response differing hour by hour, and responses are fixed to divide along lines, phenotypes that part patients into groups with different mechanisms and treatments.",
+  "verdict": "RESAY",
+  "why": "at: with, along; changing: differing, a measured response and no parity; into groups with different mechanisms is the field's wording, kept"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** Cuts fixed in a continuum of host responses.",
+  "new": "**With 12-next-co-same-existing.** Cuts fixed within a continuum of host responses.",
+  "verdict": "RESAY",
+  "why": "at: with; in: within"
+ },
+ {
+  "old": "Both syndromes are defined clinically rather than by one mechanism, host responses change rapidly, clustering depends on variables and timing, and a statistically stable subgroup need not predict a causal treatment effect;",
+  "new": "Both syndromes are defined clinically rather than by one mechanism, host responses change rapidly, clustering depends on variables and timing, and a statistically stable subgroup need not predict a causal treatment effect;",
+  "verdict": "KEEP",
+  "why": "field's own quoted record; change and statistically stable are its terms in its own sense"
+ },
+ {
+  "old": "phenotyping aims at homogeneous subgroups within a heterogeneous population, and translating findings to bedside tools carries its own challenges:",
+  "new": "phenotyping seeks homogeneous subgroups within a heterogeneous population, and translating findings to bedside tools carries its own challenges:",
+  "verdict": "RESAY",
+  "why": "aims at: seeks"
+ },
+ {
+  "old": "**At 11-next-co-observing.** Several phenotypes recur across cohorts and archived trials and compact assignment models have been derived for prospective testing;",
+  "new": "**With 11-next-co-observing.** Several phenotypes recur across cohorts and archived trials and compact assignment models have been derived for prospective testing;",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "transcriptomic endotypes resolve host-response programs with timing and platform dependence, latent-class reanalyses identify possible treatment interactions retrospectively,",
+  "new": "transcriptomic endotypes resolve host-response programs with timing and platform dependence, latent-class reanalyses identify possible treatment interactions retrospectively,",
+  "verdict": "KEEP",
+  "why": "field's own quoted record; possible treatment interactions is its wording"
+ },
+ {
+  "old": "bedside classifiers improve deployability at reduced biological resolution, and prospective enrichment is limited and ongoing;",
+  "new": "bedside classifiers improve deployability with reduced biological resolution, and prospective enrichment is limited and ongoing;",
+  "verdict": "RESAY",
+  "why": "at: with, as the field's own record words it"
+ },
+ {
+  "old": "fourth account has observed clusters reflect severity, treatment and sampling as much as stable biology: cuts fixed in a host's responding are a responding fixed to groups, and responding carries on at each coupling, a cut standing only where a coupling answers it.",
+  "new": "fourth account has observed clusters reflect severity, treatment and sampling as much as stable biology: cuts fixed within a host's responding are a responding fixed to groups, and responding carries on with each coupling, a cut standing only where a coupling answers it.",
+  "verdict": "RESAY",
+  "why": "in: within; at: with; sampling is the field's quoted term, kept"
+ },
+ {
+  "old": "## 10.31 The etiology of schizophrenia · 218\n\n*+ or − at 10, is.*",
+  "new": "## 10.31 The etiology of schizophrenia · 218\n\n*+ or − with 10, is.*",
+  "verdict": "RESAY",
+  "why": "heading kept exactly, carried for uniqueness; at: with"
+ },
+ {
+  "old": "**At 2-now-possibling.** A brain develops at its couplings through a long development, risk arriving from genes, prenatal life, infection, cannabis and society, and an outcome is taken under one name whose causes are asked for in each case.",
+  "new": "**With 2-now-possibling.** A brain develops with its couplings through a long development, risk arriving from genes, prenatal life, infection, cannabis and a self's others, and an outcome is taken under one name whose causes are asked for case by case.",
+  "verdict": "RESAY",
+  "why": "at: with; society alone: a self's others, the field's psychosocial factors; in each case: case by case"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A cause sought of a category that is a drawing.",
+  "new": "**With 12-next-co-same-existing.** A cause sought of a category that is a drawing.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "and dopamine, glutamate, immune and circuit findings possibly causes, consequences or subgroup markers;",
+  "new": "and dopamine, glutamate, immune and circuit findings perhaps causes, consequences or subgroup markers;",
+  "verdict": "RESAY",
+  "why": "possibly: perhaps, the field's own may be"
+ },
+ {
+  "old": "risk factors measured across populations and causes sought in an individual not the same, an absent marker standing between them,",
+  "new": "risk factors measured across populations and causes sought in an individual not the same, an absent marker standing between them,",
+  "verdict": "KEEP",
+  "why": "field's own quoted wording; in an individual and not the same are its words"
+ },
+ {
+  "old": "**At 11-next-co-observing.** Polygenic architecture, environmental risk interactions, group-level dopamine abnormalities and neurodevelopmental changes stand;",
+  "new": "**With 11-next-co-observing.** Polygenic architecture, environmental risk interactions, group-level dopamine abnormalities and neurodevelopmental changes stand;",
+  "verdict": "RESAY",
+  "why": "at: with; neurodevelopmental changes is the field's own term, kept"
+ },
+ {
+  "old": "polygenic studies identify distributed liability with limited individual prediction, high-risk cohorts measure changes before onset with low conversion rates, neurochemical imaging supports dopamine abnormalities in groups with subgroup and medication effects,",
+  "new": "polygenic studies identify distributed liability with limited individual prediction, high-risk cohorts measure changes before onset with low conversion rates, neurochemical imaging supports dopamine abnormalities in groups with subgroup and medication effects,",
+  "verdict": "KEEP",
+  "why": "field's own quoted record; changes and in groups are its terms and measurements"
+ },
+ {
+  "old": "a cause fixed of a category is many developments fixed to within one line, and each development carries on at its own couplings, line redrawn at couplings, at nosology beside it already.",
+  "new": "a cause fixed of a category is many developments fixed to one line, and each development carries on with its own couplings, line redrawn with couplings, as with nosology beside it already.",
+  "verdict": "RESAY",
+  "why": "at: with, as with"
+ },
+ {
+  "old": "## 10.32 The emergence of the genus Homo · 234\n\n*+ or − at 10, is.*",
+  "new": "## 10.32 The emergence of the genus Homo · 234\n\n*+ or − with 10, is.*",
+  "verdict": "RESAY",
+  "why": "heading kept exactly, carried for uniqueness; at: with"
+ },
+ {
+  "old": "**At 2-now-possibling.** Populations evolved at their own couplings, traits arriving mosaically,",
+  "new": "**With 2-now-possibling.** Populations evolved with their own couplings, traits arriving mosaically,",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A genus boundary fixed of a mosaic.",
+  "new": "**With 12-next-co-same-existing.** A genus boundary fixed of a mosaic.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "line located by a criterion, as at species beside it, and fourth account having changes accumulate mosaically rather than in one adaptive shift.",
+  "new": "line located by a criterion, as with species beside it, and fourth account having changes accumulate mosaically rather than in one adaptive shift.",
+  "verdict": "RESAY",
+  "why": "at: as with; changes accumulate mosaically rather than in one adaptive shift is the field's own wording, kept"
+ },
+ {
+  "old": "**At 11-next-co-observing.** Earlier and more variable Homo-like fossils, refined chronologies and evidence of overlapping lineages stand;",
+  "new": "**With 11-next-co-observing.** Earlier and more variable Homo-like fossils, refined chronologies and evidence of overlapping lineages stand;",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "morphometric classification compares preserved anatomy under small incomplete samples,",
+  "new": "morphometric classification compares preserved anatomy under small incomplete samples,",
+  "verdict": "KEEP",
+  "why": "statistics: samples is the field's own term and record, kept"
+ },
+ {
+  "old": "## 10.33 The etiology of major depression · 255\n\n*+ or − at 10, is.*",
+  "new": "## 10.33 The etiology of major depression · 255\n\n*+ or − with 10, is.*",
+  "verdict": "RESAY",
+  "why": "heading kept exactly, carried for uniqueness; at: with"
+ },
+ {
+  "old": "**At 2-now-possibling.** A self reaches adversity and stress at its own couplings across a life, genes and environment acting cumulatively, and disorder is taken under one name whose cause is asked for in each case.",
+  "new": "**With 2-now-possibling.** A self reaches adversity and stress with its own couplings across a life, genes and environment acting cumulatively, and disorder is taken under one name whose cause is asked for case by case.",
+  "verdict": "RESAY",
+  "why": "at: with; in each case: case by case"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A cause sought of a category that gathers.",
+  "new": "**With 12-next-co-same-existing.** A cause sought of a category that gathers.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "No established mechanism can explain all aspects of disease, its pathogenesis poorly understood, disorder highly polygenic with no single gene sufficient and a heritability of thirty to forty per cent meaning genetics does not account for most of its risk,",
+  "new": "No established mechanism can explain all aspects of disease, its pathogenesis poorly understood, disorder highly polygenic with no single gene sufficient and a heritability of thirty to forty per cent meaning genetics does not account for most of its risk,",
+  "verdict": "KEEP",
+  "why": "statistics: heritability and most of its risk are the field's own measurement, quoted"
+ },
+ {
+  "old": "an association at population level does not give back a cause in a case, and diagnosis gathers heterogeneous presentations under one name:",
+  "new": "an association at population level does not give back a cause in a case, and diagnosis gathers heterogeneous presentations under one name:",
+  "verdict": "KEEP",
+  "why": "field's own quoted wording; at population level and a cause in a case are its words"
+ },
+ {
+  "old": "closing parting two ways, a mechanism for all aspects or a parting of its diagnosis into disorders each with its own, line either found or redrawn.",
+  "new": "closing parting two ways, a mechanism for all aspects or a parting of its diagnosis into disorders each with its own, line either found or redrawn.",
+  "verdict": "KEEP",
+  "why": "a parting of diagnosis into disorders each with its own is the registry's own persistence line, quoted"
+ },
+ {
+  "old": "**At 11-next-co-observing.** Heritability stands at approximately thirty-five per cent, polygenic architecture stands established,",
+  "new": "**With 11-next-co-observing.** Heritability stands at approximately thirty-five per cent, polygenic architecture stands established,",
+  "verdict": "RESAY",
+  "why": "at: with; stands at approximately thirty-five per cent is the field's measurement, kept"
+ },
+ {
+  "old": "polygenic scores are tested for interaction with life events and childhood trauma in case-control samples,",
+  "new": "polygenic scores are tested for interaction with life events and childhood trauma in case-control samples,",
+  "verdict": "KEEP",
+  "why": "field's own record; in case-control samples its measurement wording"
+ },
+ {
+  "old": "a cause fixed of a category is many lives fixed to within one line, and each life couples with its adversity at its own momentary, cumulatively, cause in a case made where a case was made and a category a drawing offered to be parted.",
+  "new": "a cause fixed of a category is many lives fixed to one line, and each life couples with its adversity with its own momentary, cumulatively, a case's cause made where a case was made and a category a drawing offered to be parted.",
+  "verdict": "RESAY",
+  "why": "at: with; in a case: a case's"
  }
 ]

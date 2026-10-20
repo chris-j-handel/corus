@@ -1188,8 +1188,8 @@
   "why": "change, no parity named: re-form."
  },
  {
-  "old": "undecided cut remain the riding-the-carry installed class leaves uncarried.",
-  "new": "undecided cut remain riding-the-carry, uncarried by an installed class.",
+  "old": "(6) Allotropes, isotopes, oxidation states, transmutation, the heaviest elements and undecided cut remain the riding-the-carry installed class leaves uncarried.",
+  "new": "(6) Allotropes, isotopes, oxidation states, transmutation, the heaviest elements and undecided cut remain riding-the-carry, uncarried by an installed class.",
   "verdict": "RESAY",
   "why": "the: removed; riding-the-carry, a kept naming, kept. the heaviest elements kept, one only within its set."
  },
@@ -1264,5 +1264,233 @@
   "new": "One element across its allotropes and oxidation states, each property with its substance and conditions of measuring, and what, if anything, is left written under count only.",
   "verdict": "RESAY",
   "why": "at: with, by meaning. what kept from the sentence, not added."
+ },
+ {
+  "old": "## 5.10 The silicon multifrequency surface",
+  "new": "## 5.10 The silicon multifrequency surface",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**The observing.** Ellipsometric images of an electrodissolving silicon surface",
+  "new": "**The observing.** Ellipsometric images of an electrodissolving silicon surface",
+  "verdict": "KEEP",
+  "why": "Door form label, one observing per entry, kept."
+ },
+ {
+  "old": "Observed **is** at regions, **possibling** at domain.",
+  "new": "Observed **is** with regions, **possibling** with domain.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Distinct frequency regions each at its own, coupled through resistor.",
+  "new": "Distinct frequency regions each with its own rate, coupled through resistor.",
+  "verdict": "RESAY",
+  "why": "at its own: with its own rate, by meaning."
+ },
+ {
+  "old": "Oxide grows and dissolves at each site.",
+  "new": "Oxide grows and dissolves with each site.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Clusters stand only with global coupling attached, abundancing at that coupling.",
+  "new": "Clusters stand only with global coupling attached, abundancing with that coupling.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "where it is installed as a not-changing region, **is-not**.",
+  "new": "where it is installed as a not-changing region, **is-not**.",
+  "verdict": "KEEP",
+  "why": "not-changing is an agreed word."
+ },
+ {
+  "old": "its breaking at zero resistance is explicit.",
+  "new": "its breaking with zero resistance is explicit.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Clusters across the whole surface through global term.",
+  "new": "Clusters across its whole surface through global term.",
+  "verdict": "RESAY",
+  "why": "the: its."
+ },
+ {
+  "old": "**Observed.** Fails at 2 and 8 — domain as rest and as state — **state**; and at 6 with coupling denied, the second use.",
+  "new": "**Observed.** Fails with 2 and 8 — domain as rest and as state — **state**; and with 6, coupling denied, its second use.",
+  "verdict": "RESAY",
+  "why": "at: with; the: its."
+ },
+ {
+  "old": "Line 1 stands possibling at domain and blocks passing; resolved regions are the arrival that waits on zero-resistance experiment.",
+  "new": "Line 1 stands possibling with domain and blocks passing; resolved regions are an arrival waiting on a zero-resistance experiment.",
+  "verdict": "RESAY",
+  "why": "at: with; the: an."
+ },
+ {
+  "old": "at two uses: low-amplitude domain installed as a not-changing region beside changing ones;",
+  "new": "with two uses: low-amplitude domain installed as a not-changing region beside oscillating ones;",
+  "verdict": "RESAY",
+  "why": "at: with; changing, regions oscillating: oscillating, by meaning; not-changing agreed, kept."
+ },
+ {
+  "old": "Candidate at the first use; candidate against natural observing at the second, with its breaking explicit. Observing itself is the arrival the set carries, emanation and field observing at natural side.",
+  "new": "Candidate with the first use; candidate against natural observing with the second, with its breaking explicit. Observing itself is an arrival the set carries, emanation and field observing on natural side.",
+  "verdict": "RESAY",
+  "why": "at: with, on; the arrival: an arrival. the first, the second, one only of two uses, kept; the set, the one living file set, kept."
+ },
+ {
+  "old": "**Substrate and society.** n-type silicon in fluoride electrolyte under anodic potential;",
+  "new": "**Substrate and society.** n-type silicon in fluoride electrolyte under anodic potential;",
+  "verdict": "KEEP",
+  "why": "Entry form label kept pending the label ASK at 5.4; electrochemistry's own words follow."
+ },
+ {
+  "old": "Installing at the first use; at the second, an omission carried as an absence.",
+  "new": "Installing with the first use; with the second, an omission carried as an absence.",
+  "verdict": "RESAY",
+  "why": "at: with. the first, the second, one only of two uses, kept."
+ },
+ {
+  "old": "State: rest and state at 2 and 8; coupling denied at 6.",
+  "new": "State: rest and state with 2 and 8; coupling denied with 6.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Lowering illumination stepwise, uniform oscillation parts into amplitude clusters, then into regions accumulated about three dominant-frequency plateaus, 24, 27 and 32 mHz, beside a domain of amplitude death.",
+  "new": "Lowering illumination stepwise, uniform oscillation parts into amplitude clusters, then into regions accumulated about three dominant-frequency plateaus, 24, 27 and 32 mHz, beside a domain of amplitude death.",
+  "verdict": "KEEP",
+  "why": "Field account, a paper's own words and measurements."
+ },
+ {
+  "old": "total current feeding back into every point's oxide potential,",
+  "new": "total current feeding back into every point's oxide potential,",
+  "verdict": "KEEP",
+  "why": "Field account, a paper's own words."
+ },
+ {
+  "old": "The paper's own open questions are relation of such states to chimera states and requirements on adaptive coupling for their existence.",
+  "new": "The paper's own open questions are relation of such states to chimera states and requirements on adaptive coupling for their existence.",
+  "verdict": "KEEP",
+  "why": "Field account, a paper's own words."
+ },
+ {
+  "old": "amplitude-death threshold at 0.35 % of CCD saturation;",
+  "new": "amplitude-death threshold at 0.35 % of CCD saturation;",
+  "verdict": "KEEP",
+  "why": "Field observings retained, a measurement."
+ },
+ {
+  "old": "report of autonomous oscillations and pattern formation at zero external resistance.",
+  "new": "report of autonomous oscillations and pattern formation at zero external resistance.",
+  "verdict": "KEEP",
+  "why": "Field observings retained, a paper's own report."
+ },
+ {
+  "old": "Each region oscillates at its own rate while coupled; mediating band carries both neighbours; hole density changes in time once it limits current.",
+  "new": "Each region oscillates with its own rate while coupled; mediating band carries both neighbours; hole density varies with time once it limits current.",
+  "verdict": "RESAY",
+  "why": "at: with; changes in time, a density: varies with time. Label before it kept pending the label ASK at 5.4."
+ },
+ {
+  "old": "**Apparent not-changing.** Amplitude-death domain;",
+  "new": "**Apparent not-changing.** Amplitude-death domain;",
+  "verdict": "KEEP",
+  "why": "not-changing is an agreed word; label kept."
+ },
+ {
+  "old": "Frequencies are magnitudes in a unit, and numbers that cross are three and two.",
+  "new": "Frequencies are magnitudes with a unit, and numbers that cross are three and two.",
+  "verdict": "RESAY",
+  "why": "in: with."
+ },
+ {
+  "old": "(1) Regions oscillate at own rates on one coupled surface.",
+  "new": "(1) Regions oscillate with own rates on one coupled surface.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "(5) Ledger closes at potential balance and oscillator description.",
+  "new": "(5) Ledger closes with potential balance and oscillator description.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Premature closure at dead domain. False inclusion at numerals as numbers. False exclusion at global term.",
+  "new": "Premature closure with a dead domain. False inclusion with numerals as numbers. False exclusion with a global term.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Line-demanding at threshold. Magnitude-demanding at numerals.",
+  "new": "Line-demanding with a threshold. Magnitude-demanding with numerals.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "At betweens: electrode to electrolyte, region to region,",
+  "new": "Across betweens: electrode to electrolyte, region to region,",
+  "verdict": "RESAY",
+  "why": "at: across, an eight-side's across sides. Label before it kept pending the label ASK at 5.4."
+ },
+ {
+  "old": "A measured rest in low-amplitude domain at any resolution;",
+  "new": "A measured rest within a low-amplitude domain with any resolution;",
+  "verdict": "RESAY",
+  "why": "in: within; at: with."
+ },
+ {
+  "old": "Multifrequency clusters at zero external resistance, is or is not.",
+  "new": "Multifrequency clusters with zero external resistance, is or is not.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "own-rate torusing does not carry pattern and natural observing breaks at this arrival.",
+  "new": "own-rate torusing does not carry pattern and natural observing breaks with this arrival.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Natural Physics at its across-side; Natural Engineering at apparatus.",
+  "new": "Natural Physics with its across-side; Natural Engineering with apparatus.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Beyond: Patzauer and Krischer, Physical Review Letters 126, 194101 (2021), at arXiv 2010.03535, direct experiment, observed whole;",
+  "new": "Field: Patzauer and Krischer, Physical Review Letters 126, 194101 (2021), as arXiv 2010.03535, direct experiment, observed whole;",
+  "verdict": "RESAY",
+  "why": "beyond: Field, the side its sources stand on, as Living names living files; at: as. Citation kept."
+ },
+ {
+  "old": "Electrochimica Acta 246, 315 (2017), direct experiment, at the paper's reference list, for fetch.",
+  "new": "Electrochimica Acta 246, 315 (2017), direct experiment, within that paper's reference list, for fetch.",
+  "verdict": "RESAY",
+  "why": "at, a part within its list: within; the: that. Citation kept."
+ },
+ {
+  "old": "**What the field already released.** Dead domain stated as below reliable determination;",
+  "new": "**What the field already released.** Dead domain stated as below reliable determination;",
+  "verdict": "KEEP",
+  "why": "Report label kept pending the label ASK at 5.4."
+ },
+ {
+  "old": "Numbers 6.7 and 11.1 at three-phase number; Physics at across-side; Engineering at resistor and light.",
+  "new": "Numbers 6.7 and 11.1 with three-phase number; Physics with across-side; Engineering with resistor and light.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "The first observing entry filled from a paper observed whole in a field's words, with its living-return breaking a single reachable experiment.",
+  "new": "The first observing entry filled from a paper observed whole as a field's own words, with its living-return breaking a single reachable experiment.",
+  "verdict": "RESAY",
+  "why": "in: as, by meaning. The first, one only within its set, kept."
  }
 ]
