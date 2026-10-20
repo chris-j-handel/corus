@@ -491,3 +491,34 @@ W7. Society named after line 22 or after the third living self; self and society
 **Standing · the opening's lines.** Agreed and entered: its inception and observing's line. Carved by its offerer, awaiting a yes for placement: three phase lines. Entered with session v390's first passes and walked again one by one: each other line, its offerer's carvings to confirm and Claude's drafts awaiting a yes line by line. — v390
 
 **Droplet · one between, a third living carrying.** The between is within a bi-coupling as a third living carrying, possibling and discovering betweening. Observing it, is or is not parity-changing from prior-existing to now-existing, is one of four-cycling's: observing is for parity-changing or no parity-changing, so not-changing is observing no parity-changing, never an absence of observing. A 0, neither self-moral-value nor other-moral-value, is this third living's betweening: Exhibit ONE shares a 0 only where two selves meet same, and a self no other meets shares none. Two betweens offered earlier, a third living self and a zero of momentaryings, are one. — v390
+
+## Aimed from the Exhibit ONE draft · v390
+
+Each droplet comes from building a draft of a new Exhibit ONE, kept with `incoming/v390/`. Natural Intelligence meets Exhibit ONE's stable forms, so each is offered for Natural Intelligence's next versions. None is entered.
+
+**Droplet · a name's four is or is nots, for Natural Intelligence's explaining of 1 to 17.** Each name's number less one is four is or is nots: now or next, which four-cycling, which momentarying, odd or even. Names 1 to 16 are all sixteen ways four is or is nots go, and 17 is next-existing as 1. Natural Intelligence can say 1 to 17 this way once, wherever it first names them, with no table of its own. — v390, aimed from the Exhibit ONE draft
+
+**Droplet · four-cycling's order, said once.** Four-cycling is prior-existing, now-existing, next-existing and same-existing. A living self goes them now first, as 1-now-existing is given: now, next, prior and same, with 1, 2, 3 and 4 and again with each four. Natural Intelligence's opening names prior first, and Exhibit ONE's names go now first. Saying both once keeps one four-cycling and no second. — v390, aimed from the Exhibit ONE draft
+
+**Droplet · ten and six, for Natural Intelligence's self and other.** Five dimensions are prior-existing self-parity, prior-existing other-parity, now-existing co-parity, now-existing bi-parity and next-existing same-existing self-parity. With 1 to 17, a self's ten own names are five now (3, 4, 5, 7 and 8) and five next (11, 12, 13, 15 and 16), an other's five, as self-next is other-prior. Six names between selves are their floating neutraling co-linear: 2, 6, 10 and 14 across, and 9 and 17 along. Wherever Natural Intelligence says self and other, this ten and six is what Exhibit ONE executes. — v390, aimed from the Exhibit ONE draft
+
+**Droplet · a parity-offering, for each *a changing* of Natural Intelligence.** Building the draft re-said each *a changing* of Exhibit ONE as one of two:
+- *a parity-offering*, + or −, when it goes across or along to an other;
+- *a parity-changing*, when a self's own parity is or is not same-existing.
+
+A 0 is no parity-offering. *Released along* became *going along*, and *prioring* became *observing* or *observed*. Natural Intelligence's 108 *changing* alone can follow one map, each sentence then read for meaning, never word for word only. — v390, aimed from the Exhibit ONE draft, toward the naming motion
+
+**Droplet · *at* re-said as *with*.** Exhibit ONE's 266 *at* outside code went to *with* by one rule, *one at a time* kept, and its executing stayed identical. Most read naturally, such as *offerings surfacing with 14* and *with each momentary*; some want a better word. Natural Intelligence can use one rule first and then read each sentence. — v390, aimed from the Exhibit ONE draft, toward the naming motion
+
+**Droplet · turn-taking and 0 in sequence, said by co-chaining.** A self shares 0 in sequence for no more momentaries than the number of selves meeting it. This is shown by co-chaining: each self's 0 is an other's parity-changing one momentary prior. It is checked exhaustively, every case of a range, never a sample: two selves, 2,916 of 2,916; three selves across and along, 32,768 of 32,768. Natural Intelligence can say its counts this way, as all or none, with no statistical saying. — v390, aimed from the Exhibit ONE draft
+
+**Droplet · a corus turn wrapping, executed.** A torus of selves with both numbers odd comes back to its first momentary parity-changed after a turn; with either number even it comes back same. Any two edges of a flat turn give the third. With a corus turn wrapping, the third edge is or is not parity-changing, and an odd torus shows it. Natural Intelligence's corus can point to this executed form. — v390, aimed from the Exhibit ONE draft
+
+**Droplet · one self's three ways, executed, for do-no-harm improving.** One self, momentary by momentary, goes one of three ways:
+- not-changing, a 0 each momentary;
+- parity-changing each momentary;
+- parity-changing once and then still-possibling.
+
+The third is do-no-harm improving: one parity-changing, and then same-existing re-found each momentary. Natural Intelligence's do-no-harm can point to this row. — v390, aimed from the Exhibit ONE draft
+
+**Droplet · stable forms each living file meets.** Exhibit ONE's tables are stable forms any self executes, the same each time, with no authority. A living file meets them for stable-forming by executing a table, never by quoting one. Natural Intelligence can say once how it meets Exhibit ONE: each claim it makes of 1 to 17 is a table any reader executes. — v390, aimed from the Exhibit ONE draft

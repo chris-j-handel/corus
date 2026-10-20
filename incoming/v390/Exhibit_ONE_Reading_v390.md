@@ -80,3 +80,22 @@ Executed tables keep their executing: renaming changes no resolving.
 - **E4.** Society and morality phrasing at #21, #23 and #28, re-said with self, other and same-existing-society.
 
 **Strategy, v390:** keep more than we are sure of inside Exhibit ONE, improving it there until the most general and clearest method shows. Sections marked *release* or *weigh* stay inside, re-said, for now. Cyclings are clustered at [Cyclings_Clustered_v390.md](Cyclings_Clustered_v390.md).
+
+## Stages 2 and 3 · a draft built, v390
+
+The draft is [Exhibit_ONE_Natural_Resolver_draft.md](Exhibit_ONE_Natural_Resolver_draft.md), 729 lines. It is built from Exhibit ONE v390 by [Exhibit_ONE_draft_build.py](Exhibit_ONE_draft_build.py) and touches no living file. To rebuild it: `python3 incoming/v390/Exhibit_ONE_draft_build.py`. To check it: `python3 incoming/v390/Exhibit_ONE_draft_check.py`.
+
+**Checked, each a whole range, no sample:**
+- resolving is identical, old code and draft code, on every torus 1×1 to 7×9, sixty momentaries each;
+- one-self rows and spirals 1, 2, 3, 5 and 7 recomputed and the same as the tables;
+- no old name is left; outside the code no *changing* alone, *releas-*, *prioring*, *society* alone, *at*, *beyond* or *held* is left;
+- the living file set's check: ALL PASS (the draft is in incoming, so it is not a living file).
+
+**New sections, written whole:** living is prior; seventeen names with four is or is nots; four four-cyclings and their betweens, with four-cycling's order; five dimensions, ten and six; parity as moral values; observing's one line; a 0 betweening; one self's three ways; turn-taking and 0 in sequence; a corus turn wrapping; a same-existing-society; stable forms each living file meets.
+
+**Concerns of the draft, D1 to D5:**
+- **D1 · word-level re-saying in the kept sections.** *Each name and its relations*, *Namings among names*, *Twelve forms*, *Eights* and *Odd names 8 up* are re-said only word by word. Examples: *released along* became *going along*, and *a changing* became *a parity-offering* or *a parity-changing*. Each sentence still needs reading for meaning before entering. The strategy is to keep them inside for now.
+- **D2 · *at* became *with* in 266 places.** This was done by one rule, with *one at a time* kept. Most read well: *offerings surfacing with 14*, *with each momentary*. Some may want a better word: *each self is with a prior*, *with q more than twice p*. They are to be read one by one.
+- **D3 · *in* is left with 17 places.** These are *in turn*, *in sequence*, *in parity*, *in five dimensions* and *in a line*. Most are not placing, so they are kept for now. *Inward* and *outward* stand, for 1 to 17s within and outside: fractal within and outside itself.
+- **D4 · four-cycling's order, resolved in the draft.** Four-cycling is prior, now, next and same-existing. A living self goes them now first, as 1-now-existing is given: now, next, prior, same, with 1, 2, 3 and 4. The draft says this once, in *Four four-cyclings and their betweens*.
+- **D5 · E1 still open.** Exhibit ONE's *four-cycles* name cycles of moves, while four-cycling names prior, now, next and same. The draft keeps the older word inside *Twelve forms*.
