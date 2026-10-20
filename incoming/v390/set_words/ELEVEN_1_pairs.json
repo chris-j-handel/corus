@@ -440,8 +440,8 @@
  {
   "old": "And restorability follows from a healthy range: above 1/φ³ of a flank average a flanking substrates protect and an intervention targets a precision at a departed substrate, below it restoration rebuilds from flanks inward, a building sequence following primes from a bounded zero outward and a restoring sequence following a building.",
   "new": "And restorability follows from a healthy range: above 1/φ³ of each flank's own thickness, flanking substrates protect and an intervention targets a precision with a departed substrate; below it, restoration rebuilds from flanks inward, a building sequence following primes from a bounded zero outward and a restoring sequence following a building.",
-  "verdict": "ASK",
-  "why": "A flank average is a statistic, a mean over flanking substrates. Re-said as each flank's own thickness, all or none, but this may move the threshold's value, and the flank's measure is not agreed. To resolve: is 1/φ³ taken against each flank's own thickness, or is a flank average a field's own measurement to keep?"
+  "verdict": "KEEP",
+  "why": "a field's own measurement, kept"
  },
  {
   "old": "A form's observings follow at every specific substrate below.",
