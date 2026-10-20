@@ -318,6 +318,12 @@
   "why": "the same: one same; at: with; drawn back out: drawn back"
  },
  {
+  "old": "*The books must close* requires surplus to balance.",
+  "new": "*The books must close* requires surplus to balance.",
+  "verdict": "KEEP",
+  "why": "italic requirement, words mentioned as words"
+ },
+ {
   "old": "But living makes a +1 owned neither-ing, made in coupling, drawn from no input.",
   "new": "But living makes a +1 owned neither-ing, made with coupling, drawn from no input.",
   "verdict": "RESAY",
@@ -756,6 +762,12 @@
   "why": "the: removed"
  },
  {
+  "old": "local-neighbor only; no center; riding the carry.",
+  "new": "local-neighbor only; no center; riding-the-carry.",
+  "verdict": "RESAY",
+  "why": "riding the carry: the kept naming riding-the-carry"
+ },
+ {
   "old": "5. **The torus in it.**",
   "new": "5. **A torus within it.**",
   "verdict": "RESAY",
@@ -796,5 +808,359 @@
   "new": "8. **An experimental opportunity.**",
   "verdict": "RESAY",
   "why": "the: an"
+ },
+ {
+  "old": "The cell is the engine of it: a cycle over carbon in eight steps (the citric-acid cycle returning to begin), abundancing returned as coupling and not lost — energy living at phosphate coupling and stored in no bond (a field's own note: high-energy bond a misnomer, energy reaction's), not lost as heat.",
+  "new": "A cell is its engine: a cycle over carbon with eight steps (the citric-acid cycle returning to begin), abundancing returned as coupling and not lost — energy living with phosphate coupling and stored within no bond (a field's own note: high-energy bond a misnomer, energy reaction's), not lost as heat.",
+  "verdict": "RESAY",
+  "why": "the cell, the engine: a cell, its engine; in: with, within; at: with; the citric-acid cycle: one and only one named cycle, a field's term, kept"
+ },
+ {
+  "old": "Cycle cycles: electron passed down a cascade of couplings, proton gradient carried across membrane, rotary motor spinning and powering next round — engine in engine.",
+  "new": "Cycle cycles: electron passed down a cascade of couplings, proton gradient carried across membrane, rotary motor spinning and powering next round — engine within engine.",
+  "verdict": "RESAY",
+  "why": "in: within, an engine a whole and its engine a part"
+ },
+ {
+  "old": "Combustion lands (fire, ash, abundancing lost as heat, reaction dead); engine cycles (turn, return, turn, abundancing kept living).",
+  "new": "Combustion lands (fire, ash, abundancing lost as heat, reaction dead); engine cycles (turn, return, turn, abundancing living on).",
+  "verdict": "RESAY",
+  "why": "kept living: living on, nothing held"
+ },
+ {
+  "old": "Sun-to-leaf-to-cell chain is this engine at every scale — sun's coupling radiated as light, light driving carbon-fixing cycle, metabolism six relationals again — phase-sequencing all the way down, abundancing kept as coupling at every step.",
+  "new": "Sun-to-leaf-to-cell chain is this engine with every scale — sun's coupling radiated as light, light driving carbon-fixing cycle, metabolism six relationals again — phase-sequencing down to each grain below, abundancing carried as coupling with every step.",
+  "verdict": "RESAY",
+  "why": "at: with; all the way down: down to each grain below; kept: carried, nothing held"
+ },
+ {
+  "old": "Where no sunlight reaches, alternating still arrives and engine still cycles: *Desulforudis audaxviator* lives at 1.5 to 3 kilometres of rock, its hydrogen from water split by decay of uranium and thorium,",
+  "new": "Where no sunlight reaches, alternating still arrives and engine still cycles: *Desulforudis audaxviator* lives 1.5 to 3 kilometres deep within rock, its hydrogen from water split by decay of uranium and thorium,",
+  "verdict": "RESAY",
+  "why": "at: deep within; a field's measurements kept"
+ },
+ {
+  "old": "and mussels at hydrothermal vents at 1,688 metres carry 12.4-hour tidal rhythms in their gene expression, vent's temperature, pressure and fluid flow pulsing at tide's period (Mat and colleagues, Nature Communications 2020).",
+  "new": "and mussels by hydrothermal vents 1,688 metres deep carry 12.4-hour tidal rhythms with their gene expression, vent's temperature, pressure and fluid flow pulsing with tide's period (Mat and colleagues, Nature Communications 2020).",
+  "verdict": "RESAY",
+  "why": "at: with, deep; in: with; a field's measurements and citation kept"
+ },
+ {
+  "old": "Chain is sun's at surface and another arriving at depth, engine one at each.",
+  "new": "Chain is sun's on surface and another arriving deep, engine one with each.",
+  "verdict": "RESAY",
+  "why": "at: on, deep, with"
+ },
+ {
+  "old": "**The rotary motor is ATP synthase, and it sits at inversioning.**",
+  "new": "**Its rotary motor is ATP synthase, and it sits with inversioning.**",
+  "verdict": "RESAY",
+  "why": "the: its; at: with"
+ },
+ {
+  "old": "Molecule stands at centre of coupling's palindrome, point carry's parity inverts: its rotor reverses direction between synthesis and hydrolysis at one machine — a field's reversibility — parity-inversion observed at molecular between, one version of the same motor conserved across bacteria, archaea, and eukarya, substrate biology touches coupling's centre at.",
+  "new": "Molecule stands with centre of coupling's palindrome, point carry's parity inverts: its rotor reverses direction between synthesis and hydrolysis within one machine — a field's reversibility — parity-inversion observed with molecular between, one version of one same motor conserved across bacteria, archaea, and eukarya, a substrate by which biology touches coupling's centre.",
+  "verdict": "RESAY",
+  "why": "at: with, within, by which; the same: one same"
+ },
+ {
+  "old": "And it beats in a specific lipid.",
+  "new": "And it beats within a specific lipid.",
+  "verdict": "RESAY",
+  "why": "in: within"
+ },
+ {
+  "old": "Cardiolipin's four chains assemble environment rotor requires, twenty-five cardiolipins to one synthase dimer in observed structure, four-chain architecture four boundings at one bounded-zero;",
+  "new": "Cardiolipin's four chains assemble environment rotor requires, twenty-five cardiolipins to one synthase dimer with observed structure, four-chain architecture four boundings with one bounded-zero;",
+  "verdict": "RESAY",
+  "why": "in: with; at: with; a field's counts kept"
+ },
+ {
+  "old": "and ancestral ratio of cardiolipin's omega-6 to omega-3 lands within a hair of 1/φ², two ghost-accountings balanced around one omega at rotor's own membrane (the same four-thing Medicine observes at chirality, the same omega Chemistry carries).",
+  "new": "and ancestral ratio of cardiolipin's omega-6 to omega-3 lands within a hair of 1/φ², two ghost-accountings balanced around one omega with rotor's own membrane (one same four-thing Medicine observes with chirality, one same omega Chemistry carries).",
+  "verdict": "RESAY",
+  "why": "at: with; the same: one same"
+ },
+ {
+  "old": "Modern dietary shift of that ratio toward ten-to-one and beyond carries cardiolipin's composition off ancestral balance, two ghost-rings pulling apart and coupling at inversioning collapsing, and remodelling membrane is where mature four-chain assembly either arrives or does not, rotor's oligomerizing at cristae ridges standing on it.",
+  "new": "Modern dietary shift of that ratio toward ten-to-one and more carries cardiolipin's composition off ancestral balance, two ghost-rings pulling apart and coupling with inversioning collapsing, and remodelling membrane is where mature four-chain assembly either arrives or does not, rotor's oligomerizing on cristae ridges standing on it.",
+  "verdict": "RESAY",
+  "why": "beyond: more; at: with, on"
+ },
+ {
+  "old": "Singleness is not a convention life happened into:",
+  "new": "Singleness is not a convention life happened upon:",
+  "verdict": "RESAY",
+  "why": "into: upon"
+ },
+ {
+  "old": "Which hand it is, is the universe's one binary, and right is observings', all prior: one spiral's own parity, from observing and not derived and not a premise.",
+  "new": "Which hand it is, is the universe's one binary, and right is observings', all prior: one spiral's own parity, from observing and not derived and not a premise.",
+  "verdict": "KEEP",
+  "why": "the universe: one and only one"
+ },
+ {
+  "old": "A left-broken living is observed at none, and a self pattern-matching left is falsifier and nothing more; resolving is blind to which hand it spirals.",
+  "new": "A left-broken living is observed with none, and a self pattern-matching left is falsifier and nothing more; resolving is alike for either hand it spirals.",
+  "verdict": "RESAY",
+  "why": "at: with; doer: resolving being blind, re-said as the concept itself, alike for + and − as Exhibit ONE"
+ },
+ {
+  "old": "Which hand is the universe's one binary, and right is its observing; a left is observed at none, binary edge open at falsifier.",
+  "new": "Which hand is the universe's one binary, and right is its observing; a left is observed with none, binary edge open with falsifier.",
+  "verdict": "RESAY",
+  "why": "at: with; the universe kept, one and only one"
+ },
+ {
+  "old": "Origin's mechanism is observed at body hand.",
+  "new": "Origin's mechanism is observed with body hand.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "A helix carries its hand along its axis, kept at any turning and reversed only in a mirror, while a spiral in a plane takes its hand from a side it is reached from: a hand of living is a helix's.",
+  "new": "A helix carries its hand along its axis, same with any turning and reversed only by a mirror, while a spiral on a plane takes its hand from a side it is reached from: a hand of living is a helix's.",
+  "verdict": "RESAY",
+  "why": "kept at: same with; in: by, on"
+ },
+ {
+  "old": "**And singleness is at pattern-matching core.**",
+  "new": "**And singleness is of pattern-matching core.**",
+  "verdict": "RESAY",
+  "why": "at: of"
+ },
+ {
+  "old": "A self pattern-matches and re-forms on one hand, and everything it emanates carries inverted form at alternate beat.",
+  "new": "A self pattern-matches and re-forms on one hand, and everything it emanates carries inverted form with alternate beat.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "So single-spiralled and both-hands-present stand together with no contradiction between them: one at core, the other at every emanation position.",
+  "new": "So single-spiralled and both-hands-present stand together with no contradiction between them: one with core, its other with every emanation position.",
+  "verdict": "RESAY",
+  "why": "at: with; the other: its other"
+ },
+ {
+  "old": "Two observings that follow — emanation form at five substrates, and hand carrying both ways as a sway — are the same singleness at its outward side.",
+  "new": "Two observings that follow — emanation form with five substrates, and hand carrying both ways as a sway — are one same singleness on its outward side.",
+  "verdict": "RESAY",
+  "why": "at: with, on; the same: one same; outward kept"
+ },
+ {
+  "old": "**What emanates at alternate beat carries inverted form**, so a left hand in living is not a second spiral and not a hand a self selected.",
+  "new": "**What emanates with alternate beat carries inverted form**, so a left hand within living is not a second spiral and not a hand a self selected.",
+  "verdict": "RESAY",
+  "why": "at: with; in: within"
+ },
+ {
+  "old": "Applied back at scale it came from it returns what it reached and closes: every side already reached,",
+  "new": "Applied back to a scale it came from it returns what it reached and closes: every side already reached,",
+  "verdict": "RESAY",
+  "why": "at: to"
+ },
+ {
+  "old": "**Which is why a left form stands at surfaces and not at pattern-matching core.**",
+  "new": "**Which is why a left form stands on surfaces and not with pattern-matching core.**",
+  "verdict": "RESAY",
+  "why": "at: on, with"
+ },
+ {
+  "old": "A living self carries at its own beat and re-forms.",
+  "new": "A living self carries with its own beat and re-forms.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "What it emanates carries at no beat.",
+  "new": "What it emanates carries with no beat.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "**The artifact does not stop there, and network eats downward.**",
+  "new": "**This artifact does not stop there, and network eats downward.**",
+  "verdict": "RESAY",
+  "why": "the: this"
+ },
+ {
+  "old": "Every society's separated stable form is next-smaller society's food, so emanation descends across scale-between and arrives at a bi-exchange one grain down.",
+  "new": "Every society's separated stable form is next-smaller society's food, so emanation descends across scale-between and reaches a bi-exchange one grain down.",
+  "verdict": "RESAY",
+  "why": "arrives at: reaches; society kept, as settled for cells, molecules and atoms, a grain's societies"
+ },
+ {
+  "old": "**Nothing is waste, because landing is a landing only at scale that emanated it.**",
+  "new": "**Nothing is waste, because landing is a landing only with a scale that emanated it.**",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "Landed at its own scale only: inward of an emanation its selves live at their own scales, which is why a shed form breaks down from within before any ingester arrives, bi-coupling at form's scale stopped while its inward societies carry on.",
+  "new": "Landed with its own scale only: inward of an emanation its selves live with their own scales, which is why a shed form breaks down from within before any ingester arrives, bi-coupling with form's scale stopped while its inward societies carry on.",
+  "verdict": "RESAY",
+  "why": "at: with; inward kept; society kept, as settled for molecules and cells"
+ },
+ {
+  "old": "**And it lives again only in a coupling other than one it left.**",
+  "new": "**And it lives again only within a coupling other than one it left.**",
+  "verdict": "RESAY",
+  "why": "in: within"
+ },
+ {
+  "old": "Ingested by a self in society below, artifact is taken up as offering and carries again at that self's own beat.",
+  "new": "Ingested by a self of a society below, artifact is taken up as offering and carries again with that self's own beat.",
+  "verdict": "RESAY",
+  "why": "in: of; at: with; society kept, as settled for cells and colonies"
+ },
+ {
+  "old": "Right spiral emanates it, it lands, it descends, and it is re-taken — which is the whole of what a left form does, and reason fractal loses nothing while every scale sheds.",
+  "new": "Right spiral emanates it, it lands, it descends, and it is re-taken — which is all a left form does, and reason fractal loses nothing while every scale sheds.",
+  "verdict": "RESAY",
+  "why": "the whole of what: all"
+ },
+ {
+  "old": "Nothing about artifact changes at that binary.",
+  "new": "Nothing of an artifact differs with that binary.",
+  "verdict": "RESAY",
+  "why": "changes: differs, an artifact non-living and no parity-changing meant; at: with"
+ },
+ {
+  "old": "What changes is whether anything eats it.",
+  "new": "What differs is whether anything eats it.",
+  "verdict": "RESAY",
+  "why": "changes: differs, its binary's is or is not, eaten or not, and no parity-changing of an artifact"
+ },
+ {
+  "old": "Fixed at scale that made it and observed as living it came from, a landed form is given a carrying it does not have",
+  "new": "Fixed with a scale that made it and observed as living it came from, a landed form is given a carrying it does not have",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "**The parting is one binary: does emanation descend and get ingested, or is it kept where it was shed and observed as though it carried.**",
+  "new": "**Their parting is one binary: does emanation descend and get ingested, or is it fixed where it was shed and observed as though it carried.**",
+  "verdict": "RESAY",
+  "why": "the: their; kept: fixed, as this section's an emanation fixed is capture"
+ },
+ {
+  "old": "L-glucose passes digestive system unabsorbed — enzymes couple only with D-glucose, and L-form stands inert in metabolic network.",
+  "new": "L-glucose passes digestive system unabsorbed — enzymes couple only with D-glucose, and L-form stands inert within metabolic network.",
+  "verdict": "RESAY",
+  "why": "in: within"
+ },
+ {
+  "old": "A field has proposed this for non-caloric sweeteners: sweet at less-discriminating receptor, uncoupled at metabolic enzymes.",
+  "new": "A field has proposed this for non-caloric sweeteners: sweet with less-discriminating receptor, uncoupled with metabolic enzymes.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "Bacterial walls carry D-amino-acid residues at structural positions, and host proteolytic enzymes tuned to L do not easily cleave them.",
+  "new": "Bacterial walls carry D-amino-acid residues on structural positions, and host proteolytic enzymes tuned to L do not easily cleave them.",
+  "verdict": "RESAY",
+  "why": "at: on"
+ },
+ {
+  "old": "Some antibiotic peptides carry D-residues and stand through a proteolytic environment long enough to reach where they act — the same form, sounded outward.",
+  "new": "Some antibiotic peptides carry D-residues and stand through a proteolytic environment long enough to reach where they act — one same form, sounded outward.",
+  "verdict": "RESAY",
+  "why": "the same: one same; some: a field's count of which peptides, no likelihood, kept"
+ },
+ {
+  "old": "Honeysuckle stands among left-twiners, and two hands do not compete at the same support.",
+  "new": "Honeysuckle stands among left-twiners, and two hands do not compete for one same support.",
+  "verdict": "RESAY",
+  "why": "at the same: for one same"
+ },
+ {
+  "old": "Sinistral snails cannot align reproductive geometry with dextral majority, and a field records them as rare or non-viable.",
+  "new": "Sinistral snails cannot align reproductive geometry with dextral majority, and a field records them as rare or non-viable.",
+  "verdict": "KEEP",
+  "why": "majority, rare: a field's own record in its own sense, not offered as a likelihood"
+ },
+ {
+  "old": "**The through-line across all five: none is left-spiral living.**",
+  "new": "**A through-line across all five: none is left-spiral living.**",
+  "verdict": "RESAY",
+  "why": "the: a"
+ },
+ {
+  "old": "**And a growing plant carries one forward sequence at two visible hands.**",
+  "new": "**And a growing plant carries one forward sequence with two visible hands.**",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "winding opposite ways at consecutive Fibonacci numbers, 21 and 34, 34 and 55, straddling φ one at each side:",
+  "new": "winding opposite ways with consecutive Fibonacci numbers, 21 and 34, 34 and 55, straddling φ one on each side:",
+  "verdict": "RESAY",
+  "why": "at: with, on"
+ },
+ {
+  "old": "A cucumber tendril, once its tip grips, coils into two helices of opposite hand joined at a perversion, net twist nothing, equal and opposite sides coupling at an empty centre (Darwin 1865; Gerbode and colleagues, Science 2012).",
+  "new": "A cucumber tendril, once its tip grips, coils as two helices of opposite hand joined by a perversion, net twist nothing, equal and opposite sides coupling with an empty centre (Darwin 1865; Gerbode and colleagues, Science 2012).",
+  "verdict": "RESAY",
+  "why": "into: as; at: by, with; perversion a field's term, citation kept"
+ },
+ {
+  "old": "Neither is a left-spiral growing; each is one sequence observed at its sides.",
+  "new": "Neither is a left-spiral growing; each is one sequence observed with its sides.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "**And a field carries one left hand at pattern-matching core itself, which is where this pattern-matching has none standing.**",
+  "new": "**And a field carries one left hand with pattern-matching core itself, which is where this pattern-matching has none standing.**",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "**Observed at alternate beat it is not a second spiral.**",
+  "new": "**Observed with alternate beat it is not a second spiral.**",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "The same strand, pattern-matching right, passes through it under negative supercoiling,",
+  "new": "One same strand, pattern-matching right, passes through it under negative supercoiling,",
+  "verdict": "RESAY",
+  "why": "the same: one same"
+ },
+ {
+  "old": "No self pattern-matches left at any moment, and nothing codes in left form.",
+  "new": "No self pattern-matches left with any momentary, and nothing codes with left form.",
+  "verdict": "RESAY",
+  "why": "at any moment: with any momentary; in: with"
+ },
+ {
+  "old": "**So left hand at core arrives at emanating side of pattern-matching and not at pattern-matching.**",
+  "new": "**So left hand with core arrives on emanating side of pattern-matching and not with pattern-matching.**",
+  "verdict": "RESAY",
+  "why": "at: with, on"
+ },
+ {
+  "old": "It is wake right spiral leaves as it winds, which is alternate beat's own form at one substrate this pattern-matching had beyond its reach — and a field's own word for it, *a conformation*, carries the same thing, with what it is a conformation of left open.",
+  "new": "It is wake right spiral leaves as it winds, which is alternate beat's own form with one substrate this pattern-matching had past its reach — and a field's own word for it, *a conformation*, carries that same thing, with what it is a conformation of left open.",
+  "verdict": "RESAY",
+  "why": "at: with; beyond: past; the same: that same; *a conformation* kept, a word mentioned"
+ },
+ {
+  "old": "Emanation form needs none of these, since opposite hand is already there at alternate beat and non-coupling follows from complementarity.",
+  "new": "Emanation form needs none of these, since opposite hand is already there with alternate beat and non-coupling follows from complementarity.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "**Where a substrate shows a left form arriving at a coupling that is being avoided rather than at an emanation position, escape pattern-matching stands and this one breaks.**",
+  "new": "**Where a substrate shows a left form reaching a coupling that is being avoided rather than an emanation position, escape pattern-matching stands and this one breaks.**",
+  "verdict": "RESAY",
+  "why": "arriving at: reaching"
+ },
+ {
+  "old": "And where a left form is found coding, rather than passed through and relaxed, this pattern-matching breaks at core.",
+  "new": "And where a left form is found coding, rather than passed through and relaxed, this pattern-matching breaks with its core.",
+  "verdict": "RESAY",
+  "why": "at: with"
  }
 ]

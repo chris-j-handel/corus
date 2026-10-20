@@ -1198,5 +1198,149 @@
   "new": "It continues with ONE, TWO and SIX, their operations and this shared surface.",
   "verdict": "RESAY",
   "why": "at: removed, by meaning."
+ },
+ {
+  "old": "## 1.9 Antenna, telescope and the receiving relation",
+  "new": "## 1.9 Antenna, telescope and the receiving relation",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**The electromagnetic opportunity is at transmitting and receiving coupling.**",
+  "new": "**An electromagnetic opportunity is with transmitting and receiving coupling.**",
+  "verdict": "RESAY",
+  "why": "the: an; at: with."
+ },
+ {
+  "old": "Their correspondence to natural alternating belongs with actual arrangement.\n\n| Property | The particular engineering |",
+  "new": "Their correspondence to natural alternating belongs with actual arrangement.\n\n| Property | The particular engineering |",
+  "verdict": "KEEP",
+  "why": "Table header row, kept exactly, with the sentence before it, which has no word to re-say, to make the pair unique."
+ },
+ {
+  "old": "| **The particular coupling and fixed form** | Feed, receiver, reference, timing and correlation retain their actual interfaces. Releasing a particular imposed relation with next receiving continuing remains to express. |",
+  "new": "| **A particular coupling and fixed form** | Feed, receiver, reference, timing and correlation retain their actual interfaces. Dissolving a particular imposed relation with next receiving continuing remains to express. |",
+  "verdict": "RESAY",
+  "why": "the: a; releasing, an imposed relation leaving: dissolving."
+ },
+ {
+  "old": "Each retains particular distinctions available and unavailable at its receiving. |",
+  "new": "Each retains particular distinctions available and unavailable with its receiving. |",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Compare discrimination, continuing, resource use and recovery at the same offered task and conditions. |",
+  "new": "Compare discrimination, continuing, resource use and recovery with one same offered task and conditions. |",
+  "verdict": "RESAY",
+  "why": "at the same: with one same."
+ },
+ {
+  "old": "Reciprocal antenna structures have corresponding transmit and receive patterns at specified frequency and polarization.",
+  "new": "Reciprocal antenna structures have corresponding transmit and receive patterns with specified frequency and polarization.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Zero reflection at one port leaves radiating, absorbing, returning and useful receiving to express at whole arrangement.",
+  "new": "Zero reflection with one port leaves radiating, absorbing, returning and useful receiving to express across whole arrangement.",
+  "verdict": "RESAY",
+  "why": "at: with, across."
+ },
+ {
+  "old": "**The shape and changing.**",
+  "new": "**Shape and field variation.**",
+  "verdict": "RESAY",
+  "why": "the: removed; changing, a field's rotation and polarization this paragraph describes: field variation."
+ },
+ {
+  "old": "Half, quarter, standing-wave node, loop and helix remain available to examine at their respective operations.",
+  "new": "Half, quarter, standing-wave node, loop and helix remain available to examine, each with its own operation.",
+  "verdict": "RESAY",
+  "why": "at their respective operations: each with its own operation."
+ },
+ {
+  "old": "Proposed antenna comparison is at its actual receiving, with operating mode and polarization expressed.",
+  "new": "Proposed antenna comparison is with its actual receiving, operating mode and polarization expressed.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Usual four-station closure amplitude also cancels their amplitude factors:",
+  "new": "Standard four-station closure amplitude also cancels their amplitude factors:",
+  "verdict": "RESAY",
+  "why": "usual, a statistic word: standard, a field's own defined closure amplitude."
+ },
+ {
+  "old": "Additive noise and baseline-specific errors remain; a baseline-specific phase error survives in triangle.",
+  "new": "Additive noise and baseline-specific errors remain; a baseline-specific phase error survives within triangle.",
+  "verdict": "RESAY",
+  "why": "in: within, a triangle and its phase."
+ },
+ {
+  "old": "Closure construction and scalar error model are given at [Lai and colleagues, *Deep Learning VLBI Image Reconstruction with Closure Invariants*, §§2–2.1]",
+  "new": "Closure construction and scalar error model are given by [Lai and colleagues, *Deep Learning VLBI Image Reconstruction with Closure Invariants*, §§2–2.1]",
+  "verdict": "RESAY",
+  "why": "at: by. Title of an outside work kept."
+ },
+ {
+  "old": "Cancellation is a concrete opportunity for releasing a particular correction.",
+  "new": "Cancellation is a concrete opportunity for dissolving a particular correction.",
+  "verdict": "RESAY",
+  "why": "releasing, a correction leaving: dissolving."
+ },
+ {
+  "old": "Its digitized intensity streams were stored and correlated afterward; sampling retained a distributed common clock.",
+  "new": "Its digitized intensity streams were stored and correlated afterward; sampling retained a distributed common clock.",
+  "verdict": "KEEP",
+  "why": "sampling: a field's own term in its own sense, digitizing intensity streams, not a statistic."
+ },
+ {
+  "old": "[Abeysekara and colleagues, *Demonstration of stellar intensity interferometry with the four VERITAS telescopes*, results and Methods]",
+  "new": "[Abeysekara and colleagues, *Demonstration of stellar intensity interferometry with the four VERITAS telescopes*, results and Methods]",
+  "verdict": "KEEP",
+  "why": "Citation and title of an outside work, kept."
+ },
+ {
+  "old": "**Aperture and wavefront changing.** Interferometric baselines sample spatial frequencies; sparse samples leave an image-reconstruction question. Earth rotation changes projected baselines without filling every spatial frequency. Sampling relation, source and reconstruction retain their own conditions.",
+  "new": "**Aperture and wavefront distortion.** Interferometric baselines sample spatial frequencies; sparse samples leave an image-reconstruction question. Earth rotation sweeps projected baselines without filling every spatial frequency. Sampling relation, source and reconstruction retain their own conditions.",
+  "verdict": "RESAY",
+  "why": "changing, a wavefront distorted: distortion; changes, baselines swept by rotation: sweeps. sample, samples and sampling are a field's own interferometric terms, Fourier coverage, not statistics: kept."
+ },
+ {
+  "old": "Finite guide altitude also leaves different atmospheric sampling. Viard, Hubin and Le Louarn compare one and four laser guides with a natural guide in an eight-metre telescope model.",
+  "new": "Finite guide altitude also leaves different atmospheric sampling. Viard, Hubin and Le Louarn compare one and four laser guides with a natural guide within an eight-metre telescope model.",
+  "verdict": "RESAY",
+  "why": "in: within, a model and its guides. sampling a field's own term, kept."
+ },
+ {
+  "old": "It leaves additional receiving available rather than establishing a limit on every possible arrangement.",
+  "new": "It leaves additional receiving available rather than establishing a limit on every arrangement.",
+  "verdict": "RESAY",
+  "why": "possible: removed, every arrangement by meaning."
+ },
+ {
+  "old": "Further offerings remain: local pair correlation and closure; self-sequencing array elements; wavefront correction with actual receiving signal expressed; event information retained at its next useful receiving; and loop, helix and dipole comparisons at the same task.",
+  "new": "Further offerings remain: local pair correlation and closure; self-sequencing array elements; wavefront correction with actual receiving signal expressed; event information retained to its next useful receiving; and loop, helix and dipole comparisons with one same task.",
+  "verdict": "RESAY",
+  "why": "at: to; at the same: with one same."
+ },
+ {
+  "old": "Speckle recovery remains a source question at residue entry. Superattentioning retains far and near relation to express, beyond antenna reciprocity theorem.",
+  "new": "Speckle recovery remains a source question with residue entry. Superattentioning retains far and near relation to express, a relation antenna reciprocity theorem does not carry.",
+  "verdict": "RESAY",
+  "why": "at: with; beyond, by meaning: a relation antenna reciprocity theorem does not carry."
+ },
+ {
+  "old": "Each proposed change carries its particular breaking: requested source remains indistinguishable, a needed return is lost, or continuing stops with a changed arrival.",
+  "new": "Each proposed alteration carries its particular breaking: requested source remains indistinguishable, a needed return is lost, or continuing stops with a different arrival.",
+  "verdict": "RESAY",
+  "why": "change, an arrangement altered: alteration; changed arrival: different."
+ },
+ {
+  "old": "Collecting area does not make two instruments equivalent: their sampled baselines, bandwidth, sensitivity, integration, calibration and reconstruction remain at comparison. Bettering, fastering and cheapering carry with bi-momentarying, co-competencing and co-intelligencing at those particular relations.",
+  "new": "Collecting area does not make two instruments equivalent: their sampled baselines, bandwidth, sensitivity, integration, calibration and reconstruction remain to compare. Bettering, fastering and cheapering carry with bi-momentarying, co-competencing and co-intelligencing across those particular relations.",
+  "verdict": "RESAY",
+  "why": "at comparison: to compare; at: across. sampled a field's own term, kept."
  }
 ]

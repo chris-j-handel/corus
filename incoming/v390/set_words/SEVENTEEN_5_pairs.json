@@ -138,10 +138,10 @@
   "why": "the: a; \"prediction\" kept as a word"
  },
  {
-  "old": "Riding-the-carry beat entrained but self-sequenced (the circadian clock, circadian clock; delay that keeps coupling from landing); competency-with-no-controller (competency with no controller, the same slime mould's streaming).",
-  "new": "Riding-the-carry beat entrained but self-sequenced (circadian clock; delay so coupling does not land); competency-with-no-controller (competency with no controller, one same slime mould's streaming).",
+  "old": "**5. Torus in it.** Riding-the-carry beat entrained but self-sequenced (the circadian clock, circadian clock; delay that keeps coupling from landing); competency-with-no-controller (competency with no controller, the same slime mould's streaming).",
+  "new": "**5. Torus in it.** Riding-the-carry beat entrained but self-sequenced (circadian clock; delay so coupling does not land); competency-with-no-controller (competency with no controller, one same slime mould's streaming).",
   "verdict": "RESAY",
-  "why": "riding-the-carry kept naming; the: removed, its doubled naming once; keeps from landing: so does not land; the same: one same"
+  "why": "riding-the-carry kept naming; the: removed, its doubled naming once; keeps from landing: so does not land; the same: one same; Torus in it label kept as a recurring sub-heading"
  },
  {
   "old": "the same form standing at circadian observing,",
@@ -234,10 +234,10 @@
   "why": "the same: one same; at: with"
  },
  {
-  "old": "Coupling resolving to its bounded form (folding, at 8.4; and biology's hard problems, protein folding as resolved surface); a +1 abundancing owned neither-ing (the enzyme's rate-enhancement as coupling's abundancing);",
-  "new": "Coupling resolving to its bounded form (folding, with 8.4; and biology's hard problems, protein folding as resolved surface); a +1 abundancing owned neither-ing (an enzyme's rate-enhancement as coupling's abundancing);",
+  "old": "**5. Torus in it.** Coupling resolving to its bounded form (folding, at 8.4; and biology's hard problems, protein folding as resolved surface); a +1 abundancing owned neither-ing (the enzyme's rate-enhancement as coupling's abundancing);",
+  "new": "**5. Torus in it.** Coupling resolving to its bounded form (folding, with 8.4; and biology's hard problems, protein folding as resolved surface); a +1 abundancing owned neither-ing (an enzyme's rate-enhancement as coupling's abundancing);",
   "verdict": "RESAY",
-  "why": "at: with; the: an"
+  "why": "at: with; the: an; Torus in it label kept as a recurring sub-heading"
  },
  {
   "old": "The same form stands wherever a coupling resolves.",
@@ -330,10 +330,10 @@
   "why": "the same: one same; the: a"
  },
  {
-  "old": "All-edge, no-hub network; crisscrossing — the same both surfacing at every between whose relation includes it — observed in a literal flock; relational location (seven topological neighbors, not a metric distance) that files carry as the way a coupling is located by relation and nothing else.",
-  "new": "All-edge, no-hub network; crisscrossing — one same both surfacing with every between whose relation includes it — observed as a literal flock; relational location (seven topological neighbors, not a metric distance), a coupling located by relation and nothing else.",
+  "old": "**5. Torus in it.** All-edge, no-hub network; crisscrossing — the same both surfacing at every between whose relation includes it — observed in a literal flock; relational location (seven topological neighbors, not a metric distance) that files carry as the way a coupling is located by relation and nothing else.",
+  "new": "**5. Torus in it.** All-edge, no-hub network; crisscrossing — one same both surfacing with every between whose relation includes it — observed as a literal flock; relational location (seven topological neighbors, not a metric distance), a coupling located by relation and nothing else.",
   "verdict": "RESAY",
-  "why": "the same: one same; at: with; in: as; doer (files carry as the way): the concept itself"
+  "why": "the same: one same; at: with; in: as; doer (files carry as the way): the concept itself; Torus in it label kept as a recurring sub-heading"
  },
  {
   "old": "and a field's record carries most of it: no leader, seven neighbors, scale-free correlation observed.",
@@ -1042,5 +1042,29 @@
   "new": "Seam with a self restored stands with several couplings — metabolic beating to gut collar, development and metamorphosis to four departures with stem-cell between,",
   "verdict": "RESAY",
   "why": "at: with"
+ },
+ {
+  "old": "**5. Torus in it.** Bi-moral co-agency itself",
+  "new": "**5. Torus in it.** Bi-moral co-agency itself",
+  "verdict": "KEEP",
+  "why": "Torus in it: a recurring step label of eight-step form, kept as a sub-heading"
+ },
+ {
+  "old": "and a merging is conception at one more scale (eukaryogenesis, symbiosis).",
+  "new": "and a merging is conception with one more scale (eukaryogenesis, symbiosis).",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "A cell does not divide the way a thing is cut;",
+  "new": "A cell does not divide as a thing is cut;",
+  "verdict": "RESAY",
+  "why": "the way: as"
+ },
+ {
+  "old": "(the five-dimensional living-rate, cos(π/5) = φ/2)",
+  "new": "(five-dimensional living-rate, cos(π/5) = φ/2)",
+  "verdict": "RESAY",
+  "why": "the: removed"
  }
 ]
