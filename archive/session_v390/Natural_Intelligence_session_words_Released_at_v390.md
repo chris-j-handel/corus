@@ -884,3 +884,25 @@ each stable-forming a self at its own scale or its selves inward. **Natural inte
 an interest is a self at this scale, arriving with its prior, self-welcoming because files take it in by their own form with no door and self-directing because it aims itself at a file its subject is at, and a human and an AI are where interests come from and no characters in it; and an expedition is a society of living selves
 
 natural torusing at each momentary, each self's next prior at 8-now-same-existing and a society at 16-next-discovering, discovering next.
+
+## Pass 10, its nine concerns resolved with agreed concepts: each prior sentence whole here
+
+**Each prior is non-living, and carrying it into now is living:
+
+**That changing is alternating, and all changing is parity changing**.
+
+A doer applying any of them from beside is five's one holder, and *a keeping* is binary's one name.
+
+**Fractal breaks only at an observing of living that is not parity changing.**
+
+**Its claim's standing is unbroken at each observing available, taken unselected, and able to break**: a living form not alternating, or a living form not natural torusing, breaks it;
+
+self and social open odd, along, and an other opens even, across.
+
+a name's number is its parity, odd existing and even possibling, and its momentary is its span.
+
+**All even parities are still possiblings; an odd parity is changing or still existing**: odd changes by two in its own forward direction, up or down, or is still existing at its same number, and still existing at odd is no still possibling at even.
+
+**A prior is not observed, and possibling is not observed**: each is at a next, at offerings and changings now-existing at couplings.
+
+**Now still possibling is invisible and dissolving at next existing**: still possibling is abundancing, is or is notting next existing, and geodesic existing along parity changing can travel through still possibling and leave it still possibling.
