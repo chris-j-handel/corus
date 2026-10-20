@@ -817,7 +817,7 @@
  },
  {
   "old": "| **The particular coupling and fixed form** | Supply, valve settings, air chamber and delivery load. Imposed adjustment and its releasing with delivery continuing remain relation to express. |",
-  "new": "| **A particular coupling and fixed form** | Supply, valve settings, air chamber and delivery load. Imposed adjustment and its dissolving with delivery continuing remain relation to express. |",
+  "new": "| **Its particular coupling and fixed form** | Supply, valve settings, air chamber and delivery load. Imposed adjustment and its dissolving with delivery continuing remain relation to express. |",
   "verdict": "RESAY",
   "why": "The: A, a row label; releasing: dissolving, an imposed form leaving. Cell count kept."
  },
@@ -1003,7 +1003,7 @@
  },
  {
   "old": "| **The particular coupling and fixed form** | Prescribed current, voltage, pulse width or switching beside cell and supply changing.",
-  "new": "| **A particular coupling and fixed form** | Prescribed current, voltage, pulse width or switching beside cell and supply as each varies.",
+  "new": "| **Its particular coupling and fixed form** | Prescribed current, voltage, pulse width or switching beside cell and supply as each varies.",
   "verdict": "RESAY",
   "why": "The: A, a row label; changing: as each varies, by meaning. Cell count kept."
  },
@@ -1051,7 +1051,7 @@
  },
  {
   "old": "| **The particular coupling and fixed form** | Prescribed pressure, temperature, flow and switching beside contained air and receiving load changing. | Prescribed flow, rotational speed and switching beside changing head, reservoir volume and receiving load. |",
-  "new": "| **A particular coupling and fixed form** | Prescribed pressure, temperature, flow and switching beside contained air and receiving load as each varies. | Prescribed flow, rotational speed and switching beside head, reservoir volume and receiving load, each rising and falling. |",
+  "new": "| **Its particular coupling and fixed form** | Prescribed pressure, temperature, flow and switching beside contained air and receiving load as each varies. | Prescribed flow, rotational speed and switching beside head, reservoir volume and receiving load, each rising and falling. |",
   "verdict": "RESAY",
   "why": "The: A, a row label; changing: as each varies, rising and falling, by meaning. Cell count kept."
  },
@@ -1135,7 +1135,7 @@
  },
  {
   "old": "| **The particular coupling and fixed form** | Moving bodies, support or mooring, receiving load and any prescribed tuning.",
-  "new": "| **A particular coupling and fixed form** | Moving bodies, support or mooring, receiving load and any prescribed tuning.",
+  "new": "| **Its particular coupling and fixed form** | Moving bodies, support or mooring, receiving load and any prescribed tuning.",
   "verdict": "RESAY",
   "why": "The: A, a row label. Cell count kept."
  }

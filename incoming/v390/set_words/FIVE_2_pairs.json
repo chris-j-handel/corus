@@ -37,7 +37,7 @@
  },
  {
   "old": "| **The particular coupling and fixed form** | Prescribed position, force, stiffness or rate, and command at receiving contact.",
-  "new": "| **A particular coupling and fixed form** | Prescribed position, force, stiffness or rate, and command with receiving contact.",
+  "new": "| **Its particular coupling and fixed form** | Prescribed position, force, stiffness or rate, and command with receiving contact.",
   "verdict": "RESAY",
   "why": "the: a; at: with. Cell count kept."
  },
@@ -133,7 +133,7 @@
  },
  {
   "old": "| **The particular coupling and fixed form** | Each supplied target, reference, retained representation, timing operation and command retains its particular receiving.",
-  "new": "| **A particular coupling and fixed form** | Each supplied target, reference, retained representation, timing operation and command retains its particular receiving.",
+  "new": "| **Its particular coupling and fixed form** | Each supplied target, reference, retained representation, timing operation and command retains its particular receiving.",
   "verdict": "RESAY",
   "why": "the: a. Cell count kept."
  },
@@ -511,7 +511,7 @@
  },
  {
   "old": "| **The particular coupling and fixed form** | Coil field, plasma current, heating, fuel supply, prescribed profiles and boundary arrangements retain their respective operations.",
-  "new": "| **A particular coupling and fixed form** | Coil field, plasma current, heating, fuel supply, prescribed profiles and boundary arrangements retain their respective operations.",
+  "new": "| **Its particular coupling and fixed form** | Coil field, plasma current, heating, fuel supply, prescribed profiles and boundary arrangements retain their respective operations.",
   "verdict": "RESAY",
   "why": "the: a. Cell count kept."
  },
@@ -691,7 +691,7 @@
  },
  {
   "old": "| **The particular coupling and fixed form** | Inlet conditions, flow paths and heat-capacity rates describe exchange.",
-  "new": "| **A particular coupling and fixed form** | Inlet conditions, flow paths and heat-capacity rates describe exchange.",
+  "new": "| **Its particular coupling and fixed form** | Inlet conditions, flow paths and heat-capacity rates describe exchange.",
   "verdict": "RESAY",
   "why": "the: a. Cell count kept."
  },
@@ -829,7 +829,7 @@
  },
  {
   "old": "| **The particular coupling and fixed form** | Any prescribed temperature, flow or routing retains its relation to source and receiving changing.",
-  "new": "| **A particular coupling and fixed form** | Any prescribed temperature, flow or routing retains its relation to source and receiving variation.",
+  "new": "| **Its particular coupling and fixed form** | Any prescribed temperature, flow or routing retains its relation to source and receiving variation.",
   "verdict": "RESAY",
   "why": "the: a; changing: variation. Cell count kept."
  },
