@@ -18,9 +18,9 @@ def _narrow(block):
         if len(first) <= 40:
             label0 = first
             if rest:
-                out.append(rest + '\n')
+                out.append(rest + ('' if rest.rstrip()[-1:] in '.:;' else '.') + '\n')
         else:
-            out.append(h0 + '\n')
+            out.append(h0 + ('' if h0.rstrip()[-1:] in '.:;' else '.') + '\n')
     else:
         label0 = h0
     keys, others = [], []
@@ -33,7 +33,7 @@ def _narrow(block):
         else:
             others.append(('*%s*' % h if '*' not in h else h) if h else '')
     if keys:
-        out.append('\n'.join(keys) + '\n')
+        out.append('  \n'.join(k[2:] for k in keys) + '\n')
     for r in body:
         lab = r[0]
         lead = '**%s**' % (lab if not label0 else '%s: %s' % (label0, lab)) if lab else '**—**'

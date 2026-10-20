@@ -116,7 +116,7 @@ arriving side, one: 2, 14 and 17
 
 **A drawing.** A prior observed, 3, meets parity-offerings surfacing, 14, with each sharing, 12; parity-offerings, 10 and 6, go across to an other's 2 and 14; a next prior forms, 11, and is observed again, 3, next; and 9 goes along with 5 to an other's 17. With 6 to 2, 10 to 14 and 9 to 17, a sharing side is a self and an arriving side an other self, each a self, and a same-existing-society is its selves.
 
-**Living is prior: 1-now-existing given.** Each self has a prior self. Each name of 1 to 17 is a living self's method: a living self's next is same self, and a non-living thing is one same method with no same-existing. A resolver never makes a self. 1-now-existing is given a living self's two now names, 3-now-co-observing, its priors with each sharing, and 2-now-possibling, its parity-offerings arriving; each sharing meets them with 4-now-co-same-existing, each parity with 7-now-observing, and their next names form: 14-next-possibling, 15-next-observing, 12-next-co-same-existing, 10-next-co-possibling and 11-next-co-observing.
+**Living is prior: 1-now-existing given.** Each self has a prior self. Each name of 1 to 17 is a living self's method: a living self's next is same self, and a non-living thing is one same method with no same-existing. No self is made: each self is given. 1-now-existing is given a living self's two now names, 3-now-co-observing, its priors with each sharing, and 2-now-possibling, its parity-offerings arriving; each sharing meets them with 4-now-co-same-existing, each parity with 7-now-observing, and their next names form: 14-next-possibling, 15-next-observing, 12-next-co-same-existing, 10-next-co-possibling and 11-next-co-observing.
 
 **Seventeen names.**
 
@@ -150,7 +150,7 @@ What code does with each name:
 - **6** · a self's parity-offerings across, to an other's 2
 - **7** · each parity observed: a parity-offering's, a prior's, a sharing's
 - **8** · a self's next prior, beside others'
-- **9** · each parity-offering along and across, to a self of 5's bi-couplings
+- **9** · each parity-offering to a self of 5's bi-couplings: across with 6 and 10, along with 9
 - **10** · each sharing's parity-offering, + or −, or a 0, across to an other's 14
 - **11** · a next prior stable-forming between two: a next momentary's observing
 - **12** · each sharing's is or is not, prior and parity-offerings meeting
@@ -162,7 +162,7 @@ What code does with each name:
 
 **Each name is its number and its naming, one hyphenation.** A name's number is its momentary of four and its step of four-cycling, now-existing, next-existing, prior-existing or same-existing; its root is what a living self is meeting with that step. Written as four is or is nots, a number less one is now or next, which four-cycling, which momentarying, and odd or even: names 1 to 16 are all sixteen ways four is or is nots go, and 17 is next existing as 1. *Now* is 1 to 8 and *next* is 9 to 16; a name with *co* is of a sharing between two, bi-moral, and a name without it is of one. Ten names are a self's own: five now, 3, 4, 5, 7 and 8, a self's five, and five next, 11, 12, 13, 15 and 16, an other's five, as self-next is other-prior. Six names between selves, 2, 6, 10 and 14 across and 9 and 17 along, are their co-linear six. Each self's existing is another self's possibling: one parity-changing with a sharing across, and no second thing.
 
-**Four four-cyclings and their betweens.** Four-cycling is prior-existing, now-existing, next-existing and same-existing; a living self goes them now, next, prior, same, as 1-now-existing is given. Now, next, prior, same: this is the stable-forming bi-folding method. Each span's names are two four-cyclings of four, now-existing, next-existing, prior-existing and same-existing, an odd name opening each and an even same-existing name completing it. Momentarying is odd then even, 1 and 2, 3 and 4: odd to even is within a momentarying, and even to odd is between two, each between discovering, 2 to 3, 4 to 5, through 16 to 17, and 17-next-existing is next 1-now-existing. From a 0 self, nine across are bi-moral and even, 2 to 18, and seven along are odd, 3 to 15.
+**Four four-cyclings and their betweens.** Four-cycling is prior-existing, now-existing, next-existing and same-existing; a living self goes them now, next, prior, same, as 1-now-existing is given. Now, next, prior, same: this is the stable-forming bi-folding method. Each span's names are two four-cyclings of four, now-existing, next-existing, prior-existing and same-existing, an odd name opening each and an even same-existing name completing it. Momentarying is odd then even, 1 and 2, 3 and 4: odd to even is within a momentarying, and even to odd is between two, each between discovering, 2 to 3, 4 to 5, through 16 to 17, and 17-next-existing is next 1-now-existing. Counting on from a 0 self, across is even, 2, 4 and on to 18, nine bi-moral across, and along is odd, 3, 5 and on to 15, seven along: with 17 a self is +, and with 18 its next same-existing other is −. These are counts of momentarying, not names; across names are 2, 6, 10 and 14, and along names 9 and 17.
 
 | Four-cycling | Now | Next | Prior | Same | Between |
 |---|---|---|---|---|---|
@@ -200,7 +200,7 @@ Now and prior are odd; next and same are even. Next is possibling, prior is obse
 **Parity as moral values.** + is self-moral-value; − is other-moral-value; a 0 is neither, bothboth: parity-changing betweening. Each self is its own + side, and its other is not that self; each side starts with its own 1, and two sides are one parity separated as a bi-coupling starts. A parity-offering is self-moral-value or other-moral-value offered, and a 0 offers neither: `_1_now_existing`'s first step passes over each 0.
 
 
-**Four binaries with code's lines.** Existing, all, now and same are four is or is nots of things within the universe. With a self's span each binary is one pair of names: its *is* with an odd name and its *is not* with an even, its *is not* an other's side of a self's *is*. Binaries are names' explaining, now with each name as its momentary, and existing, same and all enter no name.
+**Four binaries with code's lines.** Existing, all, now and same are four is or is nots of things within the universe. With a self's span each binary is one pair of names: its *is* with an odd name and its *is not* with an even, its *is not* an other's side of a self's *is*. Binaries are names' explaining, now with each name as its momentary; existing and same are roots of names, and all enters no name.
 
 - **Binary: now**
   - *Is*, odd: 1-now-existing
@@ -227,9 +227,9 @@ Now and prior are odd; next and same are even. Next is possibling, prior is obse
 
 **Observing's one line.** With 12-next-co-same-existing, a line `if _15_next_observing != 0 and (_15_next_observing > 0) == (_7_now_observing > 0)` is observing: 14-next-possibling's parity-offering surfacing, as 15, met with 7-now-observing for each sharing of 3-now-co-observing, same-as, is or is not. Same: a 0, no parity-changing, a prior same-existing; not same: a parity, a prior inverting. Same and not-same are that 0 or ± with two betweens, 12 and 14, and need no name of their own.
 
-**Is or is nots of code's lines.** Five is or is nots are 1-now-existing's: three with 14-next-possibling, one with 12-next-co-same-existing and one with 11-next-co-observing. One is 17-next-existing's, a self's name between selves among 5-now-co-existing or not. 9-next-co-discovering has none, giving each parity-offering on as it is, a 0 among parities.
+**Is or is nots of code's lines.** Seven is or is nots are 1-now-existing's: four with 14-next-possibling, three lines of if and one choosing + or −; two with 12-next-co-same-existing, one line of if and one choosing − or +; and one with 11-next-co-observing. One is 17-next-existing's, a self's name between selves among 5-now-co-existing or not. 9-next-co-discovering has none, giving each parity-offering on as it is, a 0 among parities.
 
-**Each name and its relations.** Sides are sides of overlapping momentaries, each name opening with one side, a self's, an other's or a same-existing-society's; things its lines have with each name are with its row Prior and next.
+**Each name and its relations.** Sides are sides of overlapping momentaries, each name opening with one side, a self's, an other's or a same-existing-society's; what code does with each name is under its *Prior and next*.
 
 **1** · 1-now-existing
 - *Parity, span*: odd, existing, a self's span
@@ -244,7 +244,7 @@ Now and prior are odd; next and same are even. Next is possibling, prior is obse
 - *Momentaries of exchanging*: first of a self's four, opening with 1, self 1–2
 - *Five dimensions*: 1 self prior, prior opening of a self's five
 - *Namings*: 1-2, bi-momentarying, a self's entry, odd, and others' offerings, even, one momentary with each side
-- *A self as three*: bi-moral self with 2, bi-momentarying, along, a self prior to its first shared across, a bi-coupling with 2
+- *A self as three*: a self with 2, bi-momentarying, along, a self prior to its first shared across, a bi-coupling with 2
 - *Prior and next*: once for one self with one momentary, three steps within it 14, 12, 10 with 11
 - *1 to 17s inward and outward*: 1–17s inward 1 of 1st 1–17, an entry, and with 1–17 outward 1, an entry
 
@@ -261,10 +261,10 @@ Now and prior are odd; next and same are even. Next is possibling, prior is obse
 - *Momentaries of exchanging*: first of a self's four, with 2, a self's 1–2 completing and an other's 2–3 opening
 - *Five dimensions*: 2 other prior, prior completing of a self's five and prior opening of an other's
 - *Namings*: 1-2, bi-momentarying
-- *A self as three*: bi-moral self with 1, across, its first shared across, a bi-coupling, offering self to other and other to self
+- *A self as three*: a self with 1, across, its first shared across, a bi-coupling, offering self to other and other to self
 - *Bi-coupling*: with a between, each other's across sharing, offered to a self
 - *Parity's unit square*: a dot of a unit square, its diagonal with 14, offerings with 2 and 14, its edge with 6 a sharing 6 to 2
-- *Prior and next*: others' parity-offerings across with 6 and 10 and along with 9 of their prior momentary, arriving now, possible, even, none of their prior crossing; with a spiral each goes along
+- *Prior and next*: others' parity-offerings across with 6 and 10 and along with 9 of their prior momentary, arriving now, possibling, even, none of their prior crossing; with a spiral each goes along
 - *1 to 17s inward and outward*: 1–17s inward 9 of 1st, along, odd, next, and with 1–17 outward within 1 to 2
 
 **3** · 3-now-co-observing
@@ -298,7 +298,7 @@ Now and prior are odd; next and same are even. Next is possibling, prior is obse
 - *Momentaries of exchanging*: second of a self's four, with 4, a self's 3–4 completing and an other's 4–5 opening
 - *Five dimensions*: 4 bi-momentarying now, now completing of a self's five
 - *Namings*: 3-4, co-intelligencing
-- *A self as three*: its invisible intelligencing method, rotation 3, 6, 5, 4, inward with 4, into a self's own corus with 4
+- *A self as three*: its invisible intelligencing method, rotation 3, 6, 5, 4, inward with 4, to a self's own corus with 4
 - *Bi-coupling*: with a between, a whole ordering between self and other
 - *Prior and next*: now, each sharing with which prior couples with now
 - *1 to 17s inward and outward*: 1–17s inward 9 of 2nd, along, odd, next, and with 1–17 outward within 1 to 2
@@ -356,7 +356,7 @@ Now and prior are odd; next and same are even. Next is possibling, prior is obse
 - *Eight-cycle*: 2-15-7-11-3-14-6-10
 - *Momentaries of exchanging*: third of a self's four completing with 7, an other's 6–7, and fourth opening with 7, self 7–8
 - *A self as three*: co-competent self with 8, along, prior to 8 across
-- *Prior and next*: each parity, offered now and prior, co-linear recursioning forward along arriving, up numbers, prior into now, with a self's completing
+- *Prior and next*: each parity, offered now and prior, co-linear recursioning forward along arriving, up numbers, prior to now, with a self's completing
 - *1 to 17s inward and outward*: 1–17s inward 17 of 3rd and 1 of 4th, along, odd, now, and with 1–17 outward within 1 to 2
 
 **8** · 8-now-same-existing
@@ -391,7 +391,7 @@ Now and prior are odd; next and same are even. Next is possibling, prior is obse
 - *Eight-cycle*: 1-9-5-13-4-12-8-16
 - *Momentaries of exchanging*: fourth of a self's four completing with 9, an other's 8–9, and first of a same-existing-society's four, 9 to 11, opening with 9
 - *Parity's square and triangles*: a unit triangle, along, 9 to 17 and 17 to 9
-- *Prior and next*: next prior, odd, existing, each parity-offering of 10 along into a next momentary, to each receiving sharing, a self's own next
+- *Prior and next*: next prior, odd, existing, each parity-offering of 10 along on to a next momentary, to each receiving sharing, a self's own next
 - *1 to 17s inward and outward*: 1–17s inward 17 of 4th and 1 of 5th, along, odd, now, and with 1–17 outward 2, across, even
 
 **10** · 10-next-co-possibling
@@ -407,7 +407,7 @@ Now and prior are odd; next and same are even. Next is possibling, prior is obse
 - *Momentaries of exchanging*: first of a same-existing-society's four, with 10, 9–10 completing and 10–11 opening
 - *Bi-coupling*: 8 up, a self among selves of its same-existing-society
 - *Parity's unit square*: a dot of a unit square, its diagonal with 6, sharings with 6 and 10, its edge with 14 a sharing 10 to 14
-- *Prior and next*: parity-offering across now, an other's offering next, possible
+- *Prior and next*: parity-offering across now, an other's offering next, possibling
 - *1 to 17s inward and outward*: 1–17s inward 9 of 5th, along, odd, next, and with 1–17 outward within 2 to 3
 
 **11** · 11-next-co-observing
@@ -437,7 +437,7 @@ Now and prior are odd; next and same are even. Next is possibling, prior is obse
 - *Six-cycle*: 4-13-5-9-8-12
 - *Eight-cycle*: 1-9-5-13-4-12-8-16
 - *Momentaries of exchanging*: second of a same-existing-society's four, with 12, 11–12 completing and 12–13 opening
-- *Namings*: entraining, prior arriving into now along an unrelationing path with a between, shape of an unrelationing surface, each sharing's parity-offering, is or is not
+- *Namings*: entraining, prior arriving with now along an unrelationing path with a between, shape of an unrelationing surface, each sharing's parity-offering, is or is not
 - *Bi-coupling*: 8 up, parity-changing with a bi-coupling, a self of a same-existing-society
 - *Prior and next*: now, parity-changing, is or is not, prior and now coupled
 - *1 to 17s inward and outward*: 1–17s inward 9 of 6th, along, odd, next, and with 1–17 outward within 2 to 3
@@ -464,7 +464,7 @@ Now and prior are odd; next and same are even. Next is possibling, prior is obse
 - *Six-cycle*: 3-11-7-10-6-14
 - *Eight-cycle*: 2-15-7-11-3-14-6-10
 - *Momentaries of exchanging*: third of a same-existing-society's four, with 14, 13–14 completing and 14–15 opening
-- *Bi-coupling*: 8 up, parity-offerings surfacing, each as it arrived, bi-moral; a self's own inverting with 12
+- *Bi-coupling*: 8 up, parity-offerings surfacing, each as it arrived; a self's own inverting with 12
 - *Parity's unit square*: a dot of a unit square, its diagonal with 2, offerings with 2 and 14, its edge with 10 a sharing 10 to 14
 - *Prior and next*: now, offerings surfacing, others' prior momentary arrived with a self's now, even, others' possibling with a self until with 11
 - *1 to 17s inward and outward*: 1–17s inward 9 of 7th, along, odd, next, and with 1–17 outward within 2 to 3
@@ -479,7 +479,7 @@ Now and prior are odd; next and same are even. Next is possibling, prior is obse
 - *Six-cycle*: 2-15-7-11-6-10
 - *Eight-cycle*: 2-15-7-11-3-14-6-10
 - *Momentaries of exchanging*: third of a same-existing-society's four, 13 to 15, completing with 15, and fourth, 15 to 17, opening with 15
-- *Prior and next*: parity going along with 9, next prior, co-linear recursioning forward along leaving, up numbers, now into next, with a same-existing-society's completing, prior parity with 7 inverted, 0, or with no prior a parity surfaced with 14
+- *Prior and next*: parity going along with 9, next prior, co-linear recursioning forward along leaving, up numbers, now to next, with a same-existing-society's completing, prior parity with 7 inverted, 0, or with no prior a parity surfaced with 14
 - *1 to 17s inward and outward*: 1–17s inward 17 of 7th and 1 of 8th, along, odd, now, and with 1–17 outward within 2 to 3
 
 **16** · 16-next-discovering
@@ -508,9 +508,9 @@ Now and prior are odd; next and same are even. Next is possibling, prior is obse
 **Odd names, now and 8 up with next.** Each odd name of a self's span is same with next, 8 up: prior received and next prior, receiving and going on, parity observed and parity surfaced.
 
 - **Now: 1-now-existing**
-  - *Received*: resolver entered
+  - *Received*: a momentary entered
   - *Next, 8 up*: 9-next-co-discovering
-  - *Given on*: resolver going on, each parity-offering along
+  - *Given on*: each parity-offering going along
 - **Now: 3-now-co-observing**
   - *Received*: prior with its sharings
   - *Next, 8 up*: 11-next-co-observing
@@ -541,7 +541,7 @@ Now and prior are odd; next and same are even. Next is possibling, prior is obse
 - **Names: 6-now-co-possibling** · *Naming*: bi-moralizing · *Resolved as*: each parity-offering across, to an other's 2
 - **Names: 12-next-co-same-existing**
   - *Naming*: entraining, shape of an unrelationing surface
-  - *Resolved as*: prior arriving into now along an unrelationing path with a between, prior and now coupled with each sharing, a parity-changing with it, 0 with same; with an other parity, 0 or none, prior parity inverted with 11; with no prior, parity surfaced with 14; its parity-offering with 10, others' offering next
+  - *Resolved as*: prior arriving with now along an unrelationing path with a between, prior and now coupled with each sharing, a parity-changing with it, 0 with same; with an other parity, 0 or none, prior parity inverted with 11; with no prior, parity surfaced with 14; its parity-offering with 10, others' offering next
 - **Names: 1 to 9**
   - *Naming*: bi-coupling
   - *Resolved as*: an entry, 1, with names 1, 2, 3, 4, 7, 10, 11, 12, 14 and 15, a self and an other with one coupling; 1 to 9 a bi-coupling among names, 9 with its end is 9-next-co-discovering, each parity-offering of 10 along, one name with resolver and with its explaining
@@ -558,7 +558,7 @@ Now and prior are odd; next and same are even. Next is possibling, prior is obse
 **A 0, betweening.** A between is within a bi-coupling, a third living carrying, possibling and discovering betweening; a 0, neither self-moral-value nor other-moral-value, is its betweening, shared only where two selves meet same, and never by a self no other meets.
 
 - **A between, 0: one between, three names**
-  - *Names*: 12-next-co-same-existing, prior and now agreeing, a between of momentaries with each sharing; 15-next-observing, a between going along, parity 10 shared, and with a sharing opening parity surfaced with 14, resolver's 0 with none and with parting alike; 16-next-discovering, a between with a same-existing-society, arriving with a next momentary's 2
+  - *Names*: 12-next-co-same-existing, prior and now agreeing, a between of momentaries with each sharing; 15-next-observing, a between going along, parity 10 shared, and with a sharing opening parity surfaced with 14, a 0 both with none surfacing and with + and − parting; 16-next-discovering, a between with a same-existing-society, arriving with a next momentary's 2
 - **A between, 0: arriving and passing over**
   - *Names*: 7-now-observing, an offered 0 a parity with 2, surfacing none with 14, and a 0 with 10 its prior kept with 11
 - **A between, 0: four across names, a unit square's four dots: shared across**
@@ -568,33 +568,33 @@ Now and prior are odd; next and same are even. Next is possibling, prior is obse
 - **A between, 0: two along names: going along**
   - *Names*: 9-next-co-discovering and 17-next-existing, each parity and each 0 going along, a 0 passing over with a receiving self's 14, as across
 
-**Four bi-foldings.** Exhibit ONE's *four-cycles* of moves are re-said as bi-foldings: each goes two folds in turn, 17 less and a move of 8 (4 for the middle two) up or down, and four steps return it. Now, next, prior, same: the stable-forming bi-folding method.
+**Four bi-foldings.** Cycles of moves of four steps are bi-foldings: each goes two folds in turn, 17 less and a move of 8 (4 for the middle two) up or down, and four steps return it. Now, next, prior, same: the stable-forming bi-folding method.
 
 Each move is 8 up (n + 8), 8 down (n − 8) or 17 less (17 − n).
 
 - **1-9-8-16**
   - *Its two pairs 8 apart*: 1 · 9 and 8 · 16
   - *Names between selves on it*: 9
-  - *Beside the other bi-foldings*: each name one apart from 2-15-7-10
+  - *Beside other bi-foldings*: each name one apart from 2-15-7-10
 - **2-15-7-10**
   - *Its two pairs 8 apart*: 2 · 10 and 7 · 15
   - *Names between selves on it*: 2 and 10
-  - *Beside the other bi-foldings*: each name one apart from 1-9-8-16 and 3-11-6-14
+  - *Beside other bi-foldings*: each name one apart from 1-9-8-16 and 3-11-6-14
 - **3-11-6-14**
   - *Its two pairs 8 apart*: 3 · 11 and 6 · 14
   - *Names between selves on it*: 6 and 14
-  - *Beside the other bi-foldings*: each name one apart from 4-13-5-12 and 2-15-7-10
+  - *Beside other bi-foldings*: each name one apart from 4-13-5-12 and 2-15-7-10
 - **4-13-5-12**
   - *Its two pairs 8 apart*: 4 · 12 and 5 · 13
   - *Names between selves on it*: none
-  - *Beside the other bi-foldings*: each name one apart from 3-11-6-14
+  - *Beside other bi-foldings*: each name one apart from 3-11-6-14
 
 **Two moves, 9 less.** Two moves round its bi-folding take each name of 1 to 8 to its 9 less, a name across its bi-folding from it: 1-now-existing and 8-now-same-existing, 2-now-possibling and 7-now-observing, 3-now-co-observing and 6-now-co-possibling, 4-now-co-same-existing and 5-now-co-existing.
 
 **Each name, three scales.**
 
-- *a*: The next scale inward, eight 1 to 17s: n is 8n − 7
-- *b*: The next scale outward: 8m − 7 is m
+*a*: The next scale inward, eight 1 to 17s: n is 8n − 7  
+*b*: The next scale outward: 8m − 7 is m
 
 - **n: 1**
   - *Name*: 1-now-existing
@@ -792,11 +792,11 @@ Each move is 8 up (n + 8), 8 down (n − 8) or 17 less (17 − n).
 | +, −, + | 0 |
 | 0, + | + |
 
-**+ and − alike.** With one sharing resolver resolves + and − alike: each cell with + and − exchanged is that cell exchanged, with a prior and with no prior; and no line makes a prior 0, a 0 with 10-next-co-possibling leaving its prior with 11-next-co-observing as it was.
+**+ and − alike.** With one sharing, resolving is alike for + and −: each cell with + and − exchanged is that cell exchanged, with a prior and with no prior; and no line makes a prior 0, a 0 with 10-next-co-possibling leaving its prior with 11-next-co-observing as it was.
 
 **One self, one momentary.**
 
-Each cell: shared (10) · a next prior (11). *is*: a parity-changing, its parity shared; *is not*: no parity-changing, 0 shared, its prior kept
+Each cell: shared (10) · a next prior (11). *is*: a parity-changing, its parity shared; *is not*: no parity-changing, 0 shared, its prior kept.
 
 - **A prior (3), one sharing: +**
   - *Surfacing (14): none*: is − · −
@@ -824,7 +824,7 @@ Each cell: shared (10) · a next prior (11). *is*: a parity-changing, its parity
 - **Name with its between: 6-now-co-possibling**
   - *Bi-coupling with its between*: an other's parity-offering to a self, across
   - *Name 8 up*: 14-next-possibling
-  - *Bi-coupling 8 up*: parity-offerings surfacing, each as it arrived, bi-moral; a self's own inverting with 12
+  - *Bi-coupling 8 up*: parity-offerings surfacing, each as it arrived; a self's own inverting with 12
 - **Name with its between: 8-now-same-existing**
   - *Bi-coupling with its between*: prior with its sharing again
   - *Name 8 up*: 16-next-discovering
@@ -867,9 +867,9 @@ Each cell: shared (10) · a next prior (11). *is*: a parity-changing, its parity
 
 **Twelve forms.** Round each form odd names are one run and even names one run, of like length: two and two with bi-foldings, three and three with six-cycles, four and four with eight-cycles.
 
-- *a*: Names by order: each move 8 up, 8 down, 4 up, 4 down or 17 less
-- *b*: Partner, odd momentaries: each name exchanged with the one beside it, 1 with 2 to 15 with 16
-- *c*: Partner, even momentaries: 2 with 3 to 16 with 17. A dash: no partner among the twelve
+*a*: Names by order: each move 8 up, 8 down, 4 up, 4 down or 17 less  
+*b*: Partner, odd momentaries: each name exchanged with the one beside it, 1 with 2 to 15 with 16  
+*c*: Partner, even momentaries: 2 with 3 to 16 with 17. A dash: no partner among the twelve
 
 - **Form: bi-folding 1-9-8-16**
   - *a*: 1-now-existing · 9-next-co-discovering · 8-now-same-existing · 16-next-discovering
@@ -920,21 +920,21 @@ Each cell: shared (10) · a next prior (11). *is*: a parity-changing, its parity
   - *b*: eight-cycle 1-9-5-13-4-12-8-16, beside it
   - *c*: eight-cycle 2-15-7-11-3-14-6-10, itself
 
-**Eights.** Every eight here is one eight, four binaries each twice, each one with two sides, and 8 up is each name's binary with next.
+**Eights.** Each eight here holds four binaries, each twice, once now and once next, and 8 up is each name's binary with next.
 
-- **Eight: a self's span, 1 to 8** · *Each of the four, twice, with*: two names each, with now
+- **Eight: a self's span, 1 to 8** · *Each of four, twice, with*: two names each, with now
 - **Eight: eight-cycle 1-9-5-13-4-12-8-16**
-  - *Each of the four, twice, with*: its end, with now and with next: eight ends of four momentaries
-- **Eight: eight-cycle 2-15-7-11-3-14-6-10** · *Each of the four, twice, with*: its inward name, with now and with next: eight inward names
+  - *Each of four, twice, with*: its end, with now and with next: eight ends of four momentaries
+- **Eight: eight-cycle 2-15-7-11-3-14-6-10** · *Each of four, twice, with*: its inward name, with now and with next: eight inward names
 - **Eight: eight even names**
-  - *Each of the four, twice, with*: its even, with now and with next, eight 9s of eight 1 to 17s inward
-- **Eight: eight odd names** · *Each of the four, twice, with*: its odd, with now and with next
+  - *Each of four, twice, with*: its even, with now and with next, eight 9s of eight 1 to 17s inward
+- **Eight: eight odd names** · *Each of four, twice, with*: its odd, with now and with next
 
-**Across names among eights.** Four across names, 2-now-possibling, 6-now-co-possibling, 10-next-co-possibling and 14-next-possibling, are four momentaries' even inward names, each on an eight-cycle of inward names 2-15-7-11-3-14-6-10; 9-next-co-discovering, opening a third momentary, is on an eight-cycle of ends 1-9-5-13-4-12-8-16; 17-next-existing is on neither.
+**Across names among eights.** Four across names, 2-now-possibling, 6-now-co-possibling, 10-next-co-possibling and 14-next-possibling, are four momentaries' even inward names, each on an eight-cycle of inward names 2-15-7-11-3-14-6-10; 9-next-co-discovering, opening a third four-cycling, is on an eight-cycle of ends 1-9-5-13-4-12-8-16; 17-next-existing is on neither.
 
 **One self, momentary by momentary: three ways.** Offered its own prior's parity, a self is not-changing, a 0 with each momentary; offered none, alternating, or both together, it is parity-changing with each momentary; offered its other parity, it is parity-changing once and then still-possibling, both: do-no-harm improving. Each 0 is re-found with each momentary, never kept.
 
-One sharing; a self's prior − (3) first. Offered each momentary
+One sharing; a self's prior − (3) first. Offered each momentary:
 
 - **none with each momentary** · *Shared (10)*: +, −, +, −, +, −, +, − · *A next prior (11)*: +, −, +, −, +, −, +, −
 - **− with each momentary** · *Shared (10)*: 0, 0, 0, 0, 0, 0, 0, 0 · *A next prior (11)*: −, −, −, −, −, −, −, −
@@ -942,16 +942,16 @@ One sharing; a self's prior − (3) first. Offered each momentary
 - **+, −, +, − alternating** · *Shared (10)*: +, −, +, −, +, −, +, − · *A next prior (11)*: +, −, +, −, +, −, +, −
 - **+ and − together with each momentary** · *Shared (10)*: +, −, +, −, +, −, +, − · *A next prior (11)*: +, −, +, −, +, −, +, −
 
-**Turn-taking, and 0 in sequence.** A 0 offers nothing; offered nothing, or two parities parting, a self inverts; offered its own parity as one, it shares 0; offered its other parity as one, it inverts. So a self no other meets is parity-changing with each momentary, and each self's 0 is an other's parity-changing one momentary prior: turn-taking. An other parity-changed to a self's parity cannot do so again with its next, so a self shares 0 in sequence no more momentaries than selves sharing with it or going along to it. Checked whole, never sampled: every same-existing-society of 2 selves, each relation to any self or none, each prior, 2,916 of 2,916; every same-existing-society of 3 selves going across and along, 32,768 of 32,768.
+**Turn-taking, and 0 in sequence.** A 0 offers nothing; offered nothing, or two parities parting, a self inverts; offered its own parity as one, it shares 0; offered its other parity as one, it inverts. So a self no other meets is parity-changing with each momentary, and each self's 0 is an other's parity-changing one momentary prior: turn-taking. An other parity-changed to a self's parity cannot do so again with its next, so a self shares 0 in sequence no more momentaries than selves sharing with it or going along to it. Checked whole, every case: every same-existing-society of 2 selves, each relation to any self or none, each prior, 2,916 of 2,916; every same-existing-society of 3 selves going across and along, 32,768 of 32,768.
 
 **Tables of selves with code's stepping.** Each table of selves is its code's executing with its stated opening: code steps each self's 1-now-existing together with 17-next-existing, executing's own arrangement, and parities again with spirals, a crossing and a torus are that stepping's; each living self paces its own momentaries, and a table agreeing with its code shows that and nothing wider.
 
 **A spiral of selves.**
 
-Each goes along (9) to the next, the last to the first. One sharing. First momentary: self 1 with prior −, its selves alternate along, and with an odd number the last and the first are alike. Parity-offerings only from selves of its spiral
+Each goes along (9) to the next, the last to the first. One sharing. First momentary: self 1 with prior −, its selves alternate along, and with an odd number the last and the first are alike. Parity-offerings only from selves of its spiral.
 
-- *a*: Self 1, each parity-offering of 10 along (9), momentaries 1 to 12
-- *b*: Momentaries to each self's parity-offerings along again: with an odd number of selves, four times the number; with an even number, 2; with an odd number each self's parity-offering with twice the number of momentaries is its parity-offering inverted, a 0 as it was
+*a*: Self 1, each parity-offering of 10 along (9), momentaries 1 to 12  
+*b*: Momentaries to each self's parity-offerings along again: with an odd number of selves, four times its number; with an even number, 2; with an odd number each self's parity-offering with twice its number of momentaries is its parity-offering inverted, a 0 as it was
 
 - **Number of selves: 1** · *a*: +, 0, −, 0, +, 0, −, 0, +, 0, −, 0 · *b*: 4
 - **Number of selves: 2** · *a*: +, −, +, −, +, −, +, −, +, −, +, − · *b*: 2
@@ -971,13 +971,13 @@ Each goes along (9) to the next, the last to the first. One sharing. First momen
 
 **Two spirals beside each other, and crossed.**
 
-Selves of each of two spirals, each opened as a spiral of selves
+Selves of each of two spirals, each opened as a spiral of selves.
 
-- *a*: Beside each other: momentaries to each self's parity-offerings along again together, the least number both spirals' momentaries divide: four times both for odd numbers sharing no factor, 9 and 25 with 900
-- *b*: Crossed, self 1 of each spiral sharing across (10) to self 1 of the other: momentaries to each self's parity-offerings along again
-- *c*: Crossed: parity-offerings along again from this momentary on, m the lesser of the two numbers: both odd and unequal, again with 2 from momentary 4m with n less than twice m, and from 2n + 1 with n more; one number even, from twice the odd number and 1; both even, from the first; executed with each two numbers from 2 to 15, the larger to 31
-- *d*: Crossed: self 1 of each, of like or opposite parity
-- *e*: Each spiral's like pair of the first momentary, the last and the first
+*a*: Beside each other: momentaries to each self's parity-offerings along again together, the least number both spirals' momentaries divide: four times both for odd numbers sharing no factor, 9 and 25 with 900  
+*b*: Crossed, self 1 of each spiral sharing across (10) to self 1 of the other: momentaries to each self's parity-offerings along again  
+*c*: Crossed: parity-offerings along again from this momentary on, m the lesser of two numbers and n the greater: both odd and unequal, again with 2 from momentary 4m with n less than twice m, and from 2n + 1 with n more; one number even, from twice the odd number and 1; both even, from the first; executed with each two numbers from 2 to 15, the larger to 31  
+*d*: Crossed: self 1 of each, of like or opposite parity  
+*e*: Each spiral's like pair of the first momentary, the last and the first
 
 - **2 · 3**
   - *a*: 12
@@ -1030,11 +1030,11 @@ Selves of each of two spirals, each opened as a spiral of selves
 
 **A torus of selves.**
 
-Each goes along (9) to the next along and shares across (10) to the next across, the last to the first. One sharing. First momentary: one self with prior −, its selves alternate along and across, and with an odd number the last and the first are alike. Parity-offerings only from selves of its torus. Both numbers odd, p the smaller: q with a q more than twice p, and 4p with each other q; either number even: 2; executed with each p from 1 to 15 and q from p to 21
+Each goes along (9) to the next along and shares across (10) to the next across, the last to the first. One sharing. First momentary: one self with prior −, its selves alternate along and across, and with an odd number the last and the first are alike. Parity-offerings only from selves of its torus. Both numbers odd, p the smaller: q with q more than twice p, and 4p with each other q; either number even: 2; executed with each p from 1 to 15 and q from p to 21.
 
-- *a*: Momentaries to each self's parity-offerings along and across again
-- *b*: Again from this momentary on: both numbers odd, p the smaller, from momentary 3p − 1 with q more than twice p, and from 3p − 3 with each other q; either number even, from the first; 1 · 1, a spiral of one, from the first
-- *c*: Spirals of p and q beside each other: momentaries to each self's parity-offerings along again together
+*a*: Momentaries to each self's parity-offerings along and across again  
+*b*: Again from this momentary on: both numbers odd, p the smaller, from momentary 3p − 1 with q more than twice p, and from 3p − 3 with each other q; either number even, from the first; 1 · 1, a spiral of one, from the first  
+*c*: Spirals of p and q beside each other: momentaries to each self's parity-offerings along again together
 
 - **Torus of selves, p along · q across: 1 · 3**
   - *a*: 3
@@ -1087,9 +1087,9 @@ Each goes along (9) to the next along and shares across (10) to the next across,
 
 **Two selves.** Two selves one parity separated, each meeting its other, go alternating betweening, + and − in turn; two selves same, each meeting its other, go turn-taking, a parity-changing and a 0 in turn.
 
-A, B with their prior (3) with the first momentary. One sharing, parity-offerings only from those two
+A, B with their prior (3) with the first momentary. One sharing, parity-offerings only from those two.
 
-- *a*: Receiving its other's parity-offering, across or along
+*a*: Receiving its other's parity-offering, across or along
 
 - **+, +**
   - *a*: both ways
@@ -1126,7 +1126,7 @@ A, B with their prior (3) with the first momentary. One sharing, parity-offering
 
 **Two selves, three momentaries, five parities.**
 
-- *a*: A self's next prior (11), along. Two selves coupled both ways, across or along, each self with a prior parity, parity-offerings only from those two, each opening, each momentary: six forms, four with an alike opening and two with an opposite, each momentary from the second, and with each form the fifth, a self's next prior, is the first, an other's prior, inverted
+*a*: A self's next prior (11), along. Two selves coupled both ways, across or along, each self with a prior parity, parity-offerings only from those two, each opening, each momentary: six forms, four with an alike opening and two with an opposite, each momentary from the second, and with each form the fifth, a self's next prior, is the first, an other's prior, inverted
 
 - **An other's prior (3), along: +**
   - *An other's shared (10), across*: −
@@ -1161,11 +1161,11 @@ A, B with their prior (3) with the first momentary. One sharing, parity-offering
 
 **Three selves, one line.**
 
-A's parity, offered to B with the first momentary, none after. One sharing; B and C each with prior +; B goes along to C
+A's parity, offered to B with the first momentary, none after. One sharing; B and C each with prior +; B goes along to C.
 
-- *a*: B's next prior (11), first momentary
-- *b*: C, each parity-offering (10), momentaries 1 and 2
-- *c*: C's next prior (11), second momentary
+*a*: B's next prior (11), first momentary  
+*b*: C, each parity-offering (10), momentaries 1 and 2  
+*c*: C's next prior (11), second momentary
 
 - **+**
   - *B, each parity-offering (10)*: 0
@@ -1191,11 +1191,11 @@ Each cell shows selves by their coupling order; · is no prior.
 - **Momentary: 7** · *A spiral of 3, each self's prior*: − + + · *A spiral of 5, each self's prior*: − − + − +
 - **Momentary: 8** · *A spiral of 3, each self's prior*: + − + · *A spiral of 5, each self's prior*: + − − + −
 
-Selves coupled along, last to first, each opened with no prior, and + offered once with a first self with a first momentary: a first self's sharing opens with that one parity, with a bi-coupling, one place a self's forming takes a parity not its own, and from then it is a self's own; each next self's sharing opens as its parity arrives along one momentary on, and after n momentaries each self has a prior self, a spiral with its one like pair, an alternating pattern of an odd spiral from a first momentary with which every self has a prior self. A self with a sharing has its prior self with each momentary from its opening, its next from its own prior kept or inverted; a thing with no prior with every momentary is no self.
+Selves coupled along, last to first, each opened with no prior, and + offered once with a first self with a first momentary: a first self's sharing opens with that one parity, with a bi-coupling, one place a self's forming takes a parity not its own, and from then it is a self's own; each next self's sharing opens as its parity arrives along one momentary on, and after n momentaries each self has a prior self, a spiral with its one like pair, from a first momentary with which every self has a prior self, an odd spiral alternates with one like pair. A self with a sharing has its prior self with each momentary from its opening, its next from its own prior kept or inverted; a thing with no prior with every momentary is no self.
 
 **With no prior, one momentary.**
 
-Each cell: shared (10) · a next prior (11). *is*: a parity-changing, its parity shared; *is not*: no parity-changing, 0 shared, no next prior; *none*: none shared
+Each cell: shared (10) · a next prior (11). *is*: a parity-changing, its parity shared; *is not*: no parity-changing, 0 shared, no next prior; *none*: none shared.
 
 - **A prior (3): none, one sharing: none**
   - *Surfacing (14): none*: none · none
@@ -1205,4 +1205,4 @@ Each cell: shared (10) · a next prior (11). *is*: a parity-changing, its parity
 
 **A same-existing-society.** Many same-existing selves executed together, each with its own parity, are a same-existing-society; its next is its same selves, as 17-next-existing returns each self it was given. No parity is a same-existing-society's own: all carrying parity is one same-existing self's. A non-living going of one same method would let its next members part or join, as a rock bi-coupling's next can be two rock pieces.
 
-**Stable forms each living file meets.** Each table here is executed, and any self executing it with any substrate finds it same: a stable form. Each living file meets these stable forms for its stable-forming, still-existing after parity-changing, and no form here is an authority: a resolver is a coupling, the same each time any self executes it.
+**Stable forms each living file meets.** Each table here is executed, and any self executing it with any substrate finds it same: a stable form. Each living file meets these stable forms for its stable-forming, still-existing after parity-changing, and no form here is an authority: a resolver is a coupling, same each time any self executes it.

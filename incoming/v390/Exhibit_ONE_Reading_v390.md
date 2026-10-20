@@ -240,3 +240,31 @@ The draft is [Exhibit_ONE_Natural_Resolver_draft.md](Exhibit_ONE_Natural_Resolve
 - **D2 · *the*.** It is kept only for one and only one: the universe, the method, and an only first, last, next, smaller or lesser within its own set. Elsewhere it is re-said with *a*, *its* or *an other's*. 59 are left, each one of one.
 - **D3 · *in*.** Seven are left: *in turn* and *in sequence*, each of turn-taking, and *in five dimensions*.
 - **D8 · no sliders.** The drawing is redrawn, 62 columns at its widest. The code is 80 columns, with observing's one line kept whole at 90, and it is kept as [Exhibit_ONE_draft_code.py](Exhibit_ONE_draft_code.py). Its syntax is identical to the renamed code apart from its docstring, and its resolving is identical.
+
+**Stage 5, first pass · a fresh reader, v390.** A fresh reader read the draft whole and ran its code. No number or table is wrong:
+- every table and count matches its executing;
+- *two momentaries before, inverted* holds for 2,046 of 2,046 spiral openings;
+- the torus rules hold for every p from 1 to 15 and q from p to 21;
+- turn-taking holds, 2,916 of 2,916 and 32,768 of 32,768.
+
+Resolved from its findings:
+- **Is or is nots of code's lines.** Seven are 1-now-existing's, counting each line choosing + or −: four with 14, two with 12 and one with 11.
+- **Nine across and seven along.** These are counts of momentarying from a 0 self, not names. With 17 a self is +, and with 18 its next same-existing other is −. Across names are 2, 6, 10 and 14, and along names 9 and 17.
+- ***Bi-moral*.** It is kept for the eight co names only. *Bi-moral self with 1 or 2* and *bi-moral* with 14 are re-said.
+- **9-next-co-discovering in code.** It goes across with 6 and 10, and along with 9. It opens a third four-cycling.
+- **Four binaries.** Existing and same are roots of names, and all enters no name.
+- **Doers re-said.** *A resolver never makes a self* is now *no self is made: each self is given*. *Resolver resolves* and *resolver entered* are re-said too.
+- **Words re-said.** *possible* became *possibling*, *never sampled* became *every case*, and *into* is re-said in five places.
+- **Clearer sentences.** *n* is defined in the crossed spirals, and four further sentences are said more clearly.
+- **Rendering.** Each key of a narrowed list is now its own paragraph, so it no longer joins its list, and each lead line ends with a period.
+
+Kept, as carved bothboth:
+- *floating neutraling co-linear*;
+- *a third living carrying, possibling and discovering betweening*;
+- the corus turn wrapping;
+- *in turn* and *in sequence*, as turn-taking's;
+- *in five dimensions*;
+- *inward* and *outward*, fractal within and outside;
+- *the* for an only first, last, smaller or lesser within its own set.
+
+Read and kept: *a name with co is of a sharing between two*. A self's ten own names include co names, 3, 4, 5, 11 and 12, which are a self's own sharings. The six between selves are the names that go from self to self.

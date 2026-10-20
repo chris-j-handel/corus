@@ -31,7 +31,8 @@ prose = re.sub(r'```.*?```', '', D, flags=re.S)
 for word, pat in [('changing alone', r'(?<![\w-])changing\b(?!-)'), ('releas-', r'releas\w*'),
                   ('prioring', r'(?<![\w-])prioring'), ('society alone', r'(?<!same-existing-)\bsociety'),
                   ('at', r'(?<![\w-])at(?![\w-])'), ('beyond', r'beyond'), ('held', r'\bheld\b'),
-                  ('in', r'(?<![\w-])in(?![\w-])')]:
+                  ('in', r'(?<![\w-])in(?![\w-])'), ('into', r'(?<![\w-])into(?![\w-])'),
+                  ('possible alone', r'(?<!other )\bpossible\b'), ('sampl-', r'sampl\w*')]:
     print(word, len(re.findall(pat, prose, re.I)))
 
 import ast

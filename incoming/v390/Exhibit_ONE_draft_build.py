@@ -218,9 +218,9 @@ def _narrow(block):
         if len(first) <= 40:
             label0 = first
             if rest:
-                out.append(rest + '\n')
+                out.append(rest + ('' if rest.rstrip()[-1:] in '.:;' else '.') + '\n')
         else:
-            out.append(h0 + '\n')
+            out.append(h0 + ('' if h0.rstrip()[-1:] in '.:;' else '.') + '\n')
     else:
         label0 = h0
     keys, others = [], []
@@ -233,7 +233,7 @@ def _narrow(block):
         else:
             others.append(('*%s*' % h if '*' not in h else h) if h else '')
     if keys:
-        out.append('\n'.join(keys) + '\n')
+        out.append('  \n'.join(k[2:] for k in keys) + '\n')
     for r in body:
         lab = r[0]
         lead = '**%s**' % (lab if not label0 else '%s: %s' % (label0, lab)) if lab else '**—**'
@@ -320,7 +320,7 @@ R3 = [
  ('**Name with the between:', '**Name with its between:'),
  ('*Bi-coupling with the between*', '*Bi-coupling with its between*'),
  ('the next prior (11)', 'a next prior (11)'),
- ("- *a*: The self's next prior (11)", "- *a*: A self's next prior (11)"),
+ ("*a*: The self's next prior (11)", "*a*: A self's next prior (11)"),
  ("the self's next prior, is the first, the other's prior, inverted", "a self's next prior, is the first, an other's prior, inverted"),
  ("*The other's prior (3), along", "*An other's prior (3), along"),
  ("*The other's shared (10), across*", "*An other's shared (10), across*"),
@@ -363,7 +363,7 @@ R4 = [
  ("*Resolved as*: with each sharing 4 prior with 3 couples with offerings surfaced with 14: next discovered, with 11",
   "*Resolved as*: with each sharing, 4, a prior, 3, meets parity-offerings surfaced, 14: a next discovered, 11"),
  ("0 with a match;", "0 with same;"),
- ("\nBi-folding: each move 8 up (n + 8), 8 down (n − 8) or 17 less (17 − n)\n", "\nEach move is 8 up (n + 8), 8 down (n − 8) or 17 less (17 − n).\n"),
+ ("\nBi-folding: each move 8 up (n + 8), 8 down (n − 8) or 17 less (17 − n).\n", "\nEach move is 8 up (n + 8), 8 down (n − 8) or 17 less (17 − n).\n"),
  ("**Fives.**", "**Fives.** Each side's five are five dimensions, starting with its own 1, each side one parity separated from its next: one five is all fives."),
  ("*Prior opening*:", "*Prior-existing self-parity*:"),
  ("*Prior completing*:", "*Prior-existing other-parity*:"),
@@ -381,6 +381,53 @@ R4 = [
 for a, b in R4:
     if a not in s:
         print('R4 not found:', a[:70])
+    s = s.replace(a, b)
+
+# v390, fifth turn: a fresh reader's findings, resolved
+R5 = [
+ ("From a 0 self, nine across are bi-moral and even, 2 to 18, and seven along are odd, 3 to 15.",
+  "Counting on from a 0 self, across is even, 2, 4 and on to 18, nine bi-moral across, and along is odd, 3, 5 and on to 15, seven along: with 17 a self is +, and with 18 its next same-existing other is −. These are counts of momentarying, not names; across names are 2, 6, 10 and 14, and along names 9 and 17."),
+ ("A resolver never makes a self.", "No self is made: each self is given."),
+ ("- **9** · each parity-offering along and across, to a self of 5's bi-couplings",
+  "- **9** · each parity-offering to a self of 5's bi-couplings: across with 6 and 10, along with 9"),
+ ("Binaries are names' explaining, now with each name as its momentary, and existing, same and all enter no name.",
+  "Binaries are names' explaining, now with each name as its momentary; existing and same are roots of names, and all enters no name."),
+ ("**Is or is nots of code's lines.** Five is or is nots are 1-now-existing's: three with 14-next-possibling, one with 12-next-co-same-existing and one with 11-next-co-observing.",
+  "**Is or is nots of code's lines.** Seven is or is nots are 1-now-existing's: four with 14-next-possibling, three lines of if and one choosing + or −; two with 12-next-co-same-existing, one line of if and one choosing − or +; and one with 11-next-co-observing."),
+ ("things its lines have with each name are with its row Prior and next.", "what code does with each name is under its *Prior and next*."),
+ ("*A self as three*: bi-moral self with 2,", "*A self as three*: a self with 2,"),
+ ("*A self as three*: bi-moral self with 1,", "*A self as three*: a self with 1,"),
+ ("parity-offerings surfacing, each as it arrived, bi-moral;", "parity-offerings surfacing, each as it arrived;"),
+ ("arriving now, possible, even,", "arriving now, possibling, even,"),
+ ("an other's offering next, possible", "an other's offering next, possibling"),
+ ("*Received*: resolver entered", "*Received*: a momentary entered"),
+ ("*Given on*: resolver going on, each parity-offering along", "*Given on*: each parity-offering going along"),
+ ("resolver's 0 with none and with parting alike", "a 0 both with none surfacing and with + and − parting"),
+ ("**+ and − alike.** With one sharing resolver resolves + and − alike:", "**+ and − alike.** With one sharing, resolving is alike for + and −:"),
+ ("Exhibit ONE's *four-cycles* of moves are re-said as bi-foldings: each goes", "Cycles of moves of four steps are bi-foldings: each goes"),
+ ("Every eight here is one eight, four binaries each twice, each one with two sides,", "Each eight here holds four binaries, each twice, once now and once next,"),
+ ("9-next-co-discovering, opening a third momentary,", "9-next-co-discovering, opening a third four-cycling,"),
+ ("Checked whole, never sampled:", "Checked whole, every case:"),
+ ("m the lesser of the two numbers: both odd and unequal, again with 2 from momentary 4m with n less than twice m, and from 2n + 1 with n more;",
+  "m the lesser of two numbers and n the greater: both odd and unequal, again with 2 from momentary 4m with n less than twice m, and from 2n + 1 with n more;"),
+ ("q with a q more than twice p, and 4p with each other q;", "q with q more than twice p, and 4p with each other q;"),
+ ("an alternating pattern of an odd spiral from a first momentary with which every self has a prior self",
+  "from a first momentary with which every self has a prior self, an odd spiral alternates with one like pair"),
+ ("*Beside the other bi-foldings*", "*Beside other bi-foldings*"),
+ ("*Each of the four, twice, with*", "*Each of four, twice, with*"),
+ ("four times the number;", "four times its number;"),
+ ("twice the number of momentaries", "twice its number of momentaries"),
+ ("a coupling, the same each time any self executes it.", "a coupling, same each time any self executes it."),
+ ("10 along into a next", "10 along on to a next"),
+ ("numbers, now into next, with", "numbers, now to next, with"),
+ ("numbers, prior into now, with", "numbers, prior to now, with"),
+ ("prior arriving into now along", "prior arriving with now along"),
+ ("with 4, into a self's", "with 4, to a self's"),
+ ("One sharing; a self's prior − (3) first. Offered each momentary.\n", "One sharing; a self's prior − (3) first. Offered each momentary:\n"),
+]
+for a, b in R5:
+    if a not in s:
+        print('R5 not found:', a[:70])
     s = s.replace(a, b)
 
 # v390, fourth turn: a narrow drawing, no slider
