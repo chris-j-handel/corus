@@ -129,3 +129,5 @@ Gathered droplets stand at each living file's offerings, in a section *Gathered 
 - Living File Registry.
 
 Natural Intelligence's offerings carry its standing at session v390's close.
+
+Master concern list, clustered for resolving before next versions: [Master_Concerns_v390.md](Master_Concerns_v390.md).
