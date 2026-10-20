@@ -2347,3 +2347,13 @@ The user declared session v385M completed and closed. Its seventeen-file offerin
 **v390, 2026-10-20, pass 10 at Natural Mathematics, Natural Explaining and Geodesic Improving Method, v390, 2026-10-20.** 678 sentences re-said by meaning toward session v390's concepts, from three readers' proposals, each checked before entering. Every open question was resolved with an agreed concept, and field terms and words mentioned as words are kept. Natural Mathematics and Natural Explaining moved to v390 with their registry rows, by `incoming/v390/bump_v390.py`. Prior sentences are whole at `archive/session_v390/*_session_words_Released_at_v390.md`. check_set: ALL PASS.
 
 **v390, 2026-10-20, pass 10 at Natural Networking, Natural Numbers and Equilibria Registry.** 1,390 sentences and cells re-said by meaning toward session v390's concepts, from nine readers' proposals, each checked before entering. Open questions were resolved with agreed concepts: living is prior; the seam has one name, *parity-changing/not-changing seam*; *stilling* replaces *held*; a competency is improved, not parity-changed. *Co-releasing* is kept for one naming motion across Natural Networking 2.5, Natural Naming 5.11, Natural Engineering 5.7 and Equilibria Registry. Prior sentences are whole at the archive. check_set: ALL PASS.
+
+**v390, 2026-10-20, pass 10 at nine more files.** Natural Transmissioning, Natural Societies, Natural Exploring, Natural Human Society, Natural Health, Natural Destinies, Natural Emanating, Natural Values and Resolving Hard Problems. In them, 1,166 sentences are re-said by meaning toward session v390's concepts, from seven readers' proposals, each checked before entering. Open questions were resolved with agreed concepts:
+- *offer, carry on, resolve*;
+- a same-existing-society a living set;
+- new selves given;
+- the six of bi-morality as three phases two ways;
+- living prior;
+- abundancing as selves going along, living.
+
+Machine agent-societies stay as a field's terms. A between's *nothing* is carried as a concern at Natural Intelligence's offerings. Natural Human Society, Natural Health, Natural Destinies and Natural Emanating moved to v390. check_set: ALL PASS.
