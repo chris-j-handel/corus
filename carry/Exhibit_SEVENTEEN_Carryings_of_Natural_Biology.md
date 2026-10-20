@@ -8,7 +8,7 @@ Exhibit SEVENTEEN Natural Biology Carryings · gathered at v386EOD
 
 ## Corus research comparisons · v385A
 
-[Corus 16.7](../Natural_Intelligence_Corus_v389.md#nyes-reaching-toward), read at `083af05dfcb6bc077082052fbf06b3c411892529`, supplies two related clusters at [this offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md).
+[Corus 16.7](../Natural_Intelligence_Corus_v390.md#nyes-reaching-toward), read at `083af05dfcb6bc077082052fbf06b3c411892529`, supplies two related clusters at [this offering mate](Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md).
 
 Biology 3.6, 5.2, 6.2 and 10.4–10.5 were read whole for these comparisons. [Corus's carrying](Carryings_of_Natural_Intelligence_Corus.md#part-167-five-research-clusters-at-their-subjects) preserves all five clusters, Medicine's related projects and the remaining comparisons. Existing count explaining and a planned content comparison have their own extents.
 

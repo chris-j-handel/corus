@@ -4,7 +4,7 @@ The person: "we can continue the smooth passes we are doing now for the resolvab
 
 Read first, in this order:
 1. `carry/Improving_Passes.md`, section *Natural explaining, as v389 resolved it*: each resolution there is entered across the set; a sentence at your file meeting one of them is re-said to cohere with it.
-2. Exhibit_ONE_Natural_Resolver_v390.md's seventeen names and their table: 1-now, 2-now-possibling, 3-now-co-prioring, 4-now-co-still-possibling, 5-now-co-changing, 6-now-co-possibling, 7-now-prioring, 8-now-still-possibling, 9-next-co-changing, 10-next-co-possibling, 11-next-co-prioring, 12-next-co-still-possibling, 13-next, 14-next-possibling, 15-next-prioring, 16-next-still-possibling, 17-next-now.
+2. Exhibit_ONE_Natural_Resolver_v390.md's seventeen names and their table: 1-now-existing, 2-now-possibling, 3-now-co-observing, 4-now-co-same-existing, 5-now-co-existing, 6-now-co-possibling, 7-now-observing, 8-now-same-existing, 9-next-co-discovering, 10-next-co-possibling, 11-next-co-observing, 12-next-co-same-existing, 13-next-same-existing, 14-next-possibling, 15-next-observing, 16-next-discovering, 17-next-existing.
 3. The kit's rules 1 to 7 (`rules_1_reading.md` … `rules_7_released_words.md`) and Natural Naming v389's 2.4 table. Each applies here as at the twelve v389 files.
 
 ## Stage A · pairs

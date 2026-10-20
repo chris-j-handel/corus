@@ -4,7 +4,7 @@ Exhibit TWENTY-SIX Living File Registry Offerings · improved at v389
 
 ## Standing · v389
 
-**Resolved at v389.** 1195 items stood here; resolving against [Living File Registry v389](../Exhibit_TWENTY-SIX_Living_File_Registry_v389.md), 56 are carried, 1008 rest on released forms, 86 duplicate another item and 20 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY-SIX_Offerings_to_Living_File_Registry_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY-SIX_Offerings_to_Living_File_Registry_resolved_v389.md). The 25 concerns below stand, each with its reason; 28 stand now.
+**Resolved at v389.** 1195 items stood here; resolving against [Living File Registry v389](../Exhibit_TWENTY-SIX_Living_File_Registry_v390.md), 56 are carried, 1008 rest on released forms, 86 duplicate another item and 20 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY-SIX_Offerings_to_Living_File_Registry_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY-SIX_Offerings_to_Living_File_Registry_resolved_v389.md). The 25 concerns below stand, each with its reason; 28 stand now.
 
 **At 1.2 · Three standings, looping out and back — beside "a living thing carries its prior into its next".** A living file carries none of its prior by itself; it is a non-living existing thing the expedition's living selves carry, and it is living as the expedition's carrying. The files are the carrying of the living expedition, and the expedition is living as long as it continues discovering do-no-harm improving at its next files. The Co-Chaining Logic Registry and the Geodesic Improving Method 4.5 say the same.
 
@@ -138,3 +138,5 @@ Exhibit TWENTY-SIX Living File Registry Offerings · improved at v389
 These cohere with one motion, using the old-to-new map at `incoming/v390/Exhibit_ONE_draft_build.py`. Each sentence still reads naturally after, and each check runs before entering.
 
 The two kit scripts that execute Exhibit ONE's code now find 1 and 17 by number, any naming. They are `executed_ranges.py` and `resolver_same_path.py`. — v390
+
+**Droplet · after the naming motion, v390.** Names alone moved, and each file's other older words wait for their own passes: *changing* alone, *co-changing*, *released*, *at*, *society* alone, and quotes of Exhibit ONE's earlier text that are no longer word for word. Thirteen files are still at v389. Bringing all to v390 together at the session's close keeps one version across the set, all or none, as at v389. — v390

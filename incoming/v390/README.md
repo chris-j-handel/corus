@@ -22,6 +22,8 @@ Session v390's improving value, kept ready for a next session to resume. Nothing
 
 **Entered, v390, 2026-10-20:** Exhibit ONE's new version in both copies, matching, and Natural Intelligence's opening, best version so far. Prior files are archived whole at `archive/session_v390/prior_to_entering_Exhibit_ONE_and_opening/`. The draft and its build stand here as the record of how it was made; the build reads the archived prior.
 
+**Naming motion entered, v390, 2026-10-20:** seventeen living files at the agreed names, moved to v390; see `naming_motion.py` here and `carry/Living_Improving_Value.md`.
+
 **To resume:**
 1. Read this file.
 2. Read Natural Intelligence's opening, entered, and its droplets at its offerings.

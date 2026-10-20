@@ -4,7 +4,7 @@ Exhibit TWENTY-FOUR Geodesic Improving Method Offerings · improved at v389
 
 ## Standing · v389
 
-**Resolved at v389.** 439 items stood here; resolving against [Geodesic Improving Method v389](../Exhibit_TWENTY-FOUR_Geodesic_Improving_Method_v389.md), 190 are carried, 112 rest on released forms, 50 duplicate another item and 49 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY-FOUR_Offerings_to_Geodesic_Improving_Method_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY-FOUR_Offerings_to_Geodesic_Improving_Method_resolved_v389.md). The 38 concerns below stand, each with its reason; 35 stand now.
+**Resolved at v389.** 439 items stood here; resolving against [Geodesic Improving Method v389](../Exhibit_TWENTY-FOUR_Geodesic_Improving_Method_v390.md), 190 are carried, 112 rest on released forms, 50 duplicate another item and 49 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY-FOUR_Offerings_to_Geodesic_Improving_Method_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY-FOUR_Offerings_to_Geodesic_Improving_Method_resolved_v389.md). The 38 concerns below stand, each with its reason; 35 stand now.
 
 **At 2.5 · The hardest first, and the hardest question asked plainly — beside "Places to improve are taken hardest first, one at a time".** Hardest first is a working's ordering of its places and no size at the resolvings: each resolving is all or none at all, of no size beside another, and the ordering says which bound the working goes to first and nothing of the bound.
 
