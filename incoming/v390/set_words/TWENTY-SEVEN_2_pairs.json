@@ -1,0 +1,194 @@
+[
+ {
+  "old": "## 5.4 The single native state",
+  "new": "## 5.4 The single native state",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**The observing.** Diffraction and resonance data fitted as coordinates",
+  "new": "**The observing.** Diffraction and resonance data fitted as coordinates",
+  "verdict": "KEEP",
+  "why": "Door form label, one observing per entry, kept; field's own words follow."
+ },
+ {
+  "old": "Each molecule folds at its own time; a population's rate constant carried by none.",
+  "new": "Each molecule folds with its own timing; a population's rate constant is carried by none.",
+  "verdict": "RESAY",
+  "why": "at, time: with, by meaning; rate constant a field's own term, kept."
+ },
+ {
+  "old": "Folding and unfolding both ways at equilibrium, one event at a time.",
+  "new": "Folding and unfolding both ways at equilibrium, one event at a time.",
+  "verdict": "KEEP",
+  "why": "at equilibrium is chemistry's own term in its own sense; one at a time kept."
+ },
+ {
+  "old": "Folded on one side of barrier is unfolded on the other, chain kept.",
+  "new": "Folded on one side of a barrier is unfolded on its other side, its chain same-existing.",
+  "verdict": "RESAY",
+  "why": "kept: its chain same-existing, as its prior kept becomes its prior same-existing; the: its."
+ },
+ {
+  "old": "Average coordinates are occupied by no molecule.",
+  "new": "Average coordinates are occupied by no molecule.",
+  "verdict": "KEEP",
+  "why": "Average coordinates are a field's own measured return, kept in its own sense."
+ },
+ {
+  "old": "**Observed.** Fails at 7, 8 and 9 — interior, posted absence, destination — **state**; and at 3 — one-way — **flow**.",
+  "new": "**Observed.** Fails with 7, 8 and 9 — interior, posted absence, destination — **state**; and with 3 — one-way — **flow**.",
+  "verdict": "RESAY",
+  "why": "at, place: with."
+ },
+ {
+  "old": "Folding population passes; a protein observed at one melting point is its arrival, at TWENTY-FIVE 2.20.",
+  "new": "Folding population passes; a protein observed with one melting point is its arrival, entered as TWENTY-FIVE 2.20.",
+  "verdict": "RESAY",
+  "why": "at, place: with; at a file's section re-said as entered as."
+ },
+ {
+  "old": "Single native state, when one fitted or calculated protein structure is installed as the one structure sequence is and destination folding seeks.",
+  "new": "Single native state, when one fitted or calculated protein structure is installed as the one structure sequence is and destination folding seeks.",
+  "verdict": "KEEP",
+  "why": "the one structure names the installation's own one-only claim; an installation's exact grammar stays marked, G13."
+ },
+ {
+  "old": "Released or narrowed by substantial parts of structural biology through ensembles and intrinsically disordered proteins.",
+  "new": "Dissolved or narrowed by substantial parts of structural biology, through ensembles and intrinsically disordered proteins.",
+  "verdict": "RESAY",
+  "why": "released: dissolved, for a form that leaves."
+ },
+ {
+  "old": "**Substrate and society.** Polypeptide, solvent, chaperones and cellular environment, preparation protocol, measurement ensemble, and model-fitting procedure.",
+  "new": "**Substrate and same-existing-society.** Polypeptide, solvent, chaperones and cellular environment, preparation protocol, measurement ensemble, and model-fitting procedure.",
+  "verdict": "ASK",
+  "why": "The label is set at 3.2 and stands in every entry, so one range cannot re-say it alone. Its members here include protocol and procedure, which are not selves, while a same-existing-society is many same-existing selves. To resolve: does the entry form's label become Substrate and same-existing-society file-wide, or do its non-living participants need another agreed name?"
+ },
+ {
+  "old": "interior, posted absence and destination at 7, 8, 9; one-way folding at 3.",
+  "new": "interior, posted absence and destination with 7, 8, 9; one-way folding with 3.",
+  "verdict": "RESAY",
+  "why": "at, place: with."
+ },
+ {
+  "old": "**Field account.** Structural methods infer models from ensemble-averaged or population data.",
+  "new": "**Field account.** Structural methods infer models from ensemble-averaged or population data.",
+  "verdict": "KEEP",
+  "why": "Field account, a field's own words; averaged is its measuring, kept."
+ },
+ {
+  "old": "**Living changing.** Chains form, local contacts appear, conformations interconvert, solvent and partners couple, populations shift, and disorder can remain functional.",
+  "new": "**Living parity-changing.** Chains form, local contacts appear, conformations interconvert, solvent and partners couple, populations shift, and disorder can remain functional.",
+  "verdict": "ASK",
+  "why": "The label is set at 3.2 and stands in every entry beside Apparent not-changing, so one range cannot re-say it alone; its entries list field forming, not a self's parity. To resolve: does the entry form's label Living changing become Living parity-changing file-wide, or another agreed name for a field's re-forming?"
+ },
+ {
+  "old": "**Apparent not-changing.** One coordinate set, consensus model, dominant conformation, or calculated structure is returned.",
+  "new": "**Apparent not-changing.** One coordinate set, consensus model, dominant conformation, or calculated structure is returned.",
+  "verdict": "KEEP",
+  "why": "not-changing is an agreed word; label kept."
+ },
+ {
+  "old": "**Observing between.** Experiment averages across molecules or time; reconstruction and refinement choose model classes; deposition and structure-calculation protocols privilege a file containing coordinates.",
+  "new": "**Observing between.** Experiment averages across molecules or time; reconstruction and refinement choose model classes; deposition and structure-calculation protocols privilege a file containing coordinates.",
+  "verdict": "KEEP",
+  "why": "averages is a field's own measuring in its own sense; field practices named, not a resolver or this file doing."
+ },
+ {
+  "old": "(1) Protein and environment continually sample and re-form conformations.",
+  "new": "(1) Protein and environment continually pass through and re-form conformations.",
+  "verdict": "RESAY",
+  "why": "sample, a statistics word on the living side: re-said by meaning, conformations passed through and re-formed."
+ },
+ {
+  "old": "(2) Measurement and modeling still ensemble into one observing.",
+  "new": "(2) Measurement and modeling still an ensemble as one observing.",
+  "verdict": "RESAY",
+  "why": "into: as, by meaning."
+ },
+ {
+  "old": "(6) Ensemble, disorder, and path-dependent local forming remain the carry one coordinate set leaves uncarried.",
+  "new": "(6) Ensemble, disorder, and path-dependent local forming remain a carry one coordinate set leaves uncarried.",
+  "verdict": "RESAY",
+  "why": "the: a."
+ },
+ {
+  "old": "Premature closure at deposited model.",
+  "new": "Premature closure with a deposited model.",
+  "verdict": "RESAY",
+  "why": "at, place: with."
+ },
+ {
+  "old": "Space-enumerating at conformational space. Store-seeking at structure stored in sequence. Origin-seeking at pre-existing native destination. Value-pinning at free-energy minimum.",
+  "new": "Space-enumerating with conformational space. Store-seeking with a structure taken as stored within its sequence. Origin-seeking with a pre-existing native destination. Value-pinning with a free-energy minimum.",
+  "verdict": "RESAY",
+  "why": "at, place: with; in, a part within its whole: within. One pair for four short signature sentences."
+ },
+ {
+  "old": "**Eight-side society.** Within, sequence, local contacts, solvent response, and conformational populations re-form.",
+  "new": "**Eight-side same-existing-society.** Within, sequence, local contacts, solvent response, and conformational populations re-form.",
+  "verdict": "ASK",
+  "why": "The label is set at 3.2 and 2.4 and stands in every entry, so one range cannot re-say it alone. Its eight sides include measurement and apparatus, not selves only. To resolve: does Eight-side society become Eight-side same-existing-society file-wide, or Eight sides, naming the sides without society?"
+ },
+ {
+  "old": "Across, chain couples with solvent, measurement, binding partner, and cellular society.",
+  "new": "Across, a chain couples with solvent, measurement, binding partner, and its cell's same-existing-society.",
+  "verdict": "RESAY",
+  "why": "society: same-existing-society, a society of cells, living selves."
+ },
+ {
+  "old": "Structure is an across-return of that society, not a thing outward of it.",
+  "new": "Structure is an across-return of those eight sides, not a thing outward of them.",
+  "verdict": "RESAY",
+  "why": "society, naming the eight-side set: re-said by meaning as its eight sides, standing apart from the label ASK."
+ },
+ {
+  "old": "Restricting “native state” explicitly to a distribution also removes installation and changes an entry's standing.",
+  "new": "Restricting “native state” explicitly to a distribution also removes installation and moves an entry to another standing.",
+  "verdict": "RESAY",
+  "why": "changes, no parity: re-said by meaning, moves to another standing."
+ },
+ {
+  "old": "If “local forming carries forward” cannot distinguish sequences that fold differently, it remains orientation rather than explanation and is broken at that reach.",
+  "new": "If “local forming carries forward” cannot distinguish sequences that fold differently, it remains orientation rather than explanation and is broken for that reach.",
+  "verdict": "RESAY",
+  "why": "at: for, by meaning."
+ },
+ {
+  "old": "Beyond: Burnley et al. 2012, eLife 1:e00311; the field reviews carried at Hard Problem Registry v338.",
+  "new": "Field: Burnley et al. 2012, eLife 1:e00311; field reviews carried with Hard Problem Registry v338.",
+  "verdict": "RESAY",
+  "why": "beyond: Field, the side its sources stand on, as Living names living files; the: removed; at: with. Citation kept."
+ },
+ {
+  "old": "Stability is ensemble re-forming within bounds rather than arrival at one stored geometry.",
+  "new": "Stability is ensemble re-forming within bounds rather than arriving to one stored geometry.",
+  "verdict": "RESAY",
+  "why": "at, place: to, by meaning."
+ },
+ {
+  "old": "**What the field already released.** Ensemble refinement, NMR ensembles, cryo-EM classification, intrinsically disordered proteins, and conformational dynamics already prevent a universal one-coordinate ontology.",
+  "new": "**What its field already dissolved.** Ensemble refinement, NMR ensembles, cryo-EM classification, intrinsically disordered proteins, and conformational dynamics already prevent a universal one-coordinate ontology.",
+  "verdict": "ASK",
+  "why": "The report label is set at 3.3 and the standing released by the field at 3.1; both stand in every entry, so one range cannot re-say them alone. To resolve: does the label become What its field already dissolved, and the standing dissolved by its field, file-wide?"
+ },
+ {
+  "old": "Biology co-chains at protein folding and morphogenesis. Chemistry co-chains at reaction-coordinate ensembles and environment-dependent structure. Medicine co-chains at conformational disease only where its own clinical and molecular observings enter.",
+  "new": "Biology co-chains with protein folding and morphogenesis. Chemistry co-chains with reaction-coordinate ensembles and environment-dependent structure. Medicine co-chains with conformational disease only where its own clinical and molecular observings enter.",
+  "verdict": "RESAY",
+  "why": "at, place: with. One pair for three parallel seam sentences."
+ },
+ {
+  "old": "This entry imports Hard Problem Registry 178 into ghost form without copying its hard-problem properties into new schema.",
+  "new": "Hard Problem Registry 178 enters this entry as ghost form, its hard-problem properties not copied to a new schema.",
+  "verdict": "RESAY",
+  "why": "doer, an entry importing: re-said as the record entering; into: as, to."
+ },
+ {
+  "old": "Compare the same protein under crystallography, NMR, cryo-EM, and single-molecule methods, keeping time and population windows attached. Find where a structure remains invariant across methods and where ensemble changes.",
+  "new": "Compare one same protein under crystallography, NMR, cryo-EM, and single-molecule methods, with time and population windows attached. Find where a structure remains invariant across methods and where its ensemble differs.",
+  "verdict": "RESAY",
+  "why": "the: one; keeping: with, by meaning; changes, no parity: differs."
+ }
+]
