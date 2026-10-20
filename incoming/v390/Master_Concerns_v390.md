@@ -217,7 +217,8 @@ Each line is agreed line by line. Meaning, bothboth.
 
 - **O1.** Same-as hyphenated. *Resolved: droplet at Natural Naming; observing's line re-enters hyphenated.*
 - **O2.** Line 3, *By observing, the universe is the one-and-only-one now-existing universal set.*: its step, a second universe observed is not-same-as, yet now-existing, so a thing of the set of all, and no second universe. Does the line show it to a reader, or is one line more needed?
-- **O3.** Line 3: *the one-and-only-one*, an article beyond *the universe*; or *no other possible*, our naming's one use of possible.
+- **O3.** Line 3: *the one-and-only-one*, an article beyond *the universe*. *Resolved by carving again: By our observing, our universe is one now-existing universal set and no other universe is possibly existing.*
+- **O7.** Line 3: *our observing* and *our universe*. Read one way, *our* says whose observing: a living self's, living being prior. Read another, *our universe* is a universe among others', and a second naming beside line 1's *the universe*; and *our* brings selves before a self's line.
 - **O4.** Line 4, *There is one same-existing universe.*: *there* a place word.
 - **O5.** Line 4: same-existing used before a line defines it with prior-existing; one sense, a living condition re-found, continuing from prior, or same-as itself with no time.
 - **O6.** Lines 3 and 4 in place of *The universe is an observably existing set of now-existing things.* and *The universe is the same-existing set of all now-existing things.*
