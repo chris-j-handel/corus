@@ -514,5 +514,311 @@
   "new": "*Adding: torusing and corusing of dimensions, of no name.*",
   "verdict": "RESAY",
   "why": "Adding items re-said by meaning; at: of"
+ },
+ {
+  "old": "## 41 A spiral's places one loop at an odd number and two at an even, a prime's two numbers, and a torus at its lines",
+  "new": "## 41 A spiral's places one loop at an odd number and two at an even, a prime's two numbers, and a torus at its lines",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "Each two momentaries a spiral offered nothing from beyond it carries each self's parity to next self, inverted, step 233: a parity at a self is two momentaries on at next self at the other parity.",
+  "new": "Each two momentaries a spiral offered nothing from selves not its own carries each self's parity to next self, inverted, step 233: a parity with a self is, two momentaries on, with next self as its other parity.",
+  "verdict": "RESAY",
+  "why": "beyond it: from selves not its own; at: with, as; the other parity: its other parity"
+ },
+ {
+  "old": "Each self at each parity is a place, twice number of selves.",
+  "new": "Each self with each parity is a place, twice number of selves.",
+  "verdict": "RESAY",
+  "why": "at: with, as, or by meaning"
+ },
+ {
+  "old": "At an odd number of selves places are one loop, each self passed twice, once at each parity, loop at its opening place again at four times number of selves, in momentaries; at an even number they are two loops, each self once on each, a self's two parities on the two, and neither loop reaches the other.",
+  "new": "With an odd number of selves places are one loop, each self passed twice, once with each parity, loop with its opening place again after four times number of selves, counted as momentaries; with an even number they are two loops, each self once on each, a self's two parities on these two, and neither loop reaches its other.",
+  "verdict": "RESAY",
+  "why": "at: with, after; in momentaries: counted as momentaries; the: these, its"
+ },
+ {
+  "old": "*Adding: a spiral's places one loop at an odd number of selves, two loops at an even.*",
+  "new": "*Adding: a spiral's places one loop with an odd number of selves, two loops with an even.*",
+  "verdict": "RESAY",
+  "why": "Adding items re-said by meaning; at: with"
+ },
+ {
+  "old": "A spiral is at its sharings again, and at its parities carried at an odd momentary, at twice k momentaries, k the least at which each self's parity is that of a self k prior, inverted at an odd k, step 646; a coming again is at an even number of momentaries, a 0 at each even momentary or spiral alternating, at 2.",
+  "new": "A spiral comes to its sharings again, and to its parities carried with an odd momentary, after twice k momentaries, k the least with which each self's parity is that of a self k prior, inverted with an odd k, step 646; a coming again is after an even number of momentaries, a 0 with each even momentary or spiral alternating, after 2.",
+  "verdict": "RESAY",
+  "why": "at: with, after, or by meaning; the least kept, one and only within its set"
+ },
+ {
+  "old": "At an odd number of selves an odd k, carried the number of selves times, brings each self to itself inverted, at no pattern: k is even, twice the least d at which each self is alike with a self d prior, d dividing number of selves, and pattern is again at four times d momentaries.",
+  "new": "With an odd number of selves an odd k, carried its number of selves times, brings each self to itself inverted, true of no pattern: k is even, twice the least d with which each self is alike with a self d prior, d dividing number of selves, and pattern is again after four times d momentaries.",
+  "verdict": "RESAY",
+  "why": "at: with, after, or by meaning; the number: its number; the least kept, one and only within its set"
+ },
+ {
+  "old": "*Adding: at an odd spiral a pattern again at four times its least alike shift.*",
+  "new": "*Adding: with an odd spiral a pattern again after four times its least alike shift.*",
+  "verdict": "RESAY",
+  "why": "Adding item re-said by meaning; at: with, after"
+ },
+ {
+  "old": "At an odd prime number of selves the least alike shift is one, each self alike, or the prime, step 647: each pattern is again at 4 momentaries or at four times the prime, and at none between.",
+  "new": "With an odd prime number of selves its least alike shift is one, each self alike, or its prime, step 647: each pattern is again after 4 momentaries or after four times its prime, and after none between.",
+  "verdict": "RESAY",
+  "why": "at: with, after; the: its"
+ },
+ {
+  "old": "At two selves two alike are again at 4 and two opposite at 2.",
+  "new": "With two selves two alike are again after 4 and two opposite after 2.",
+  "verdict": "RESAY",
+  "why": "at: with, after"
+ },
+ {
+  "old": "At an odd number with a factor a pattern whose least alike shift is the factor is again at four times the factor, nine selves at 4, at 12 or at 36, step 230.",
+  "new": "With an odd number with a factor, a pattern whose least alike shift is that factor is again after four times that factor, nine selves after 4, after 12 or after 36, step 230.",
+  "verdict": "RESAY",
+  "why": "at: with, after; the: that"
+ },
+ {
+  "old": "*Adding: an odd prime spiral at 4 or at four times its prime, none between.*",
+  "new": "*Adding: an odd prime spiral again after 4 or after four times its prime, none between.*",
+  "verdict": "RESAY",
+  "why": "Adding item re-said by meaning; at: again after"
+ },
+ {
+  "old": "Along a spiral pairs parting in parity are even in number, each parting coupling with one back: like pairs are odd in number at an odd number of selves and even at an even, steps 232 and 630, a lone self a like pair with itself.",
+  "new": "Along a spiral pairs parting by parity are an even count, each parting coupling with one back: like pairs are an odd count with an odd number of selves and even with an even, steps 232 and 630, a lone self a like pair with itself.",
+  "verdict": "RESAY",
+  "why": "in parity: by parity; in number: a count, a counting of every case, no likelihood; at: with"
+ },
+ {
+  "old": "An odd spiral carries a like pair at each momentary and a 0 at each even momentary; an even spiral alternating along carries none.",
+  "new": "An odd spiral carries a like pair with each momentary and a 0 with each even momentary; an even spiral alternating along carries none.",
+  "verdict": "RESAY",
+  "why": "at: with, as, or by meaning"
+ },
+ {
+  "old": "*Adding: like pairs odd in number at an odd spiral, even at an even.*",
+  "new": "*Adding: like pairs an odd count with an odd spiral, even with an even.*",
+  "verdict": "RESAY",
+  "why": "Adding item re-said by meaning; in number: a count; at: with"
+ },
+ {
+  "old": "At a torus of selves with an even number along, selves opened alternating along: each self's along offering, from second momentary, is parity other than its own, none offered at its first, and with each across offering beside it its surfacing is that parity or 0, a changing, step 212; each self inverts at each momentary, alternating along kept, and parities are again at 2 from first momentary.",
+  "new": "With a torus of selves with an even number along, selves opened alternating along: each self's along offering, from second momentary, is parity other than its own, none offered with its first, and with each across offering beside it its surfacing is that parity or 0, a parity-changing, step 212; each self inverts with each momentary, alternating along same-existing, and parities are again after 2 from first momentary.",
+  "verdict": "RESAY",
+  "why": "at: with, after; a changing: parity-changing; kept: same-existing"
+ },
+ {
+  "old": "The same at an even number across.",
+  "new": "Alike with an even number across.",
+  "verdict": "RESAY",
+  "why": "the same: alike; at: with"
+ },
+ {
+  "old": "*Adding: an even torus at 2, at each momentary each self inverting.*",
+  "new": "*Adding: an even torus again after 2, with each momentary each self inverting.*",
+  "verdict": "RESAY",
+  "why": "Adding items re-said by meaning; at: again after, with"
+ },
+ {
+  "old": "At a torus of two odd numbers opened alternating, its last and its first alike along and across, step 243: at first momentary each self inverts; at the second, one self is at a changing that is not, a self alike with both its along prior and its across prior, each other self offered parity other than its own or + and − together;",
+  "new": "With a torus of two odd numbers opened alternating, its last and its first alike along and across, step 243: with first momentary each self inverts; with its second, one self is not-changing, a self alike with both its along prior and its across prior, each other self offered parity other than its own or + and − together;",
+  "verdict": "RESAY",
+  "why": "at: with; a changing that is not: not-changing, nothing parity-changes; the second: its second; first half of one sentence over 400 characters"
+ },
+ {
+  "old": "and from that self a 0 passes one self on at each momentary along each of two lines of selves through it, a self i on at momentary i + 2: along p to last self of its line, and across q, at q more than p, on round its line.",
+  "new": "and from that self a 0 passes one self on with each momentary along each of two lines of selves through it, a self i on with momentary i + 2: along p to last self of its line, and across q, with q more than p, on round its line.",
+  "verdict": "RESAY",
+  "why": "at: with; second half of one sentence over 400 characters"
+ },
+ {
+  "old": "*Adding: an odd torus's first 0 at a self of both seams, passing along two lines through it.*",
+  "new": "*Adding: an odd torus's first 0 with a self of both seams, passing along two lines through it.*",
+  "verdict": "RESAY",
+  "why": "Adding item re-said by meaning; at: with"
+ },
+ {
+  "old": "## 42 An odd torus's number and two spirals crossed, each derived at resolver's cells",
+  "new": "## 42 An odd torus's number and two spirals crossed, each derived at resolver's cells",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "At a torus of two odd numbers, opened as at step 651, each line of selves across carries one 0 at most at a momentary, at a self next across after its last 0, before its first at its self of an along seam.",
+  "new": "With a torus of two odd numbers, opened as with step 651, each line of selves across carries one 0 or none with a momentary, with a self next across after its last 0, before its first with its self of an along seam.",
+  "verdict": "RESAY",
+  "why": "at: with; at most: one 0 or none"
+ },
+ {
+  "old": "That self is at a changing that is not exactly at these two: the 0 of a line along prior to it has been at its along prior after its own last 0, at first line's first round its opening's along seam standing for it; and its two priors were not both at a 0 one momentary before.",
+  "new": "That self is not-changing exactly with these two: a 0 of a line along prior to it has been with its along prior after its own last 0, with first line's first round its opening's along seam standing for it; and its two priors were not both a 0 one momentary before.",
+  "verdict": "RESAY",
+  "why": "a changing that is not: not-changing; at: with, or removed; the: a"
+ },
+ {
+  "old": "*Adding: one 0 at most at each line across, and two that carry it on.*",
+  "new": "*Adding: one 0 or none with each line across, and two that carry it on.*",
+  "verdict": "RESAY",
+  "why": "Adding item re-said by meaning; at most: or none; at: with"
+ },
+ {
+  "old": "Momentary of a line's next 0 is one after the later of two, line's own last 0 and the 0 of a line along prior to it at that place, and two after them at the two at one momentary, step 652; one after the one at the other none, a line's first 0 and first line's first round; first line's along prior is last line, one round of q before; and first 0 of all is at second momentary, step 651.",
+  "new": "Momentary of a line's next 0 is one after its later of two, line's own last 0 and a 0 of a line along prior to it with that self, and two after them with these two together, step 652; one after that one, with its other none, a line's first 0 and first line's first round; first line's along prior is last line, one round of q before; and first 0 of all is with second momentary, step 651.",
+  "verdict": "RESAY",
+  "why": "the: its, a, these, that; at that place: with that self; at one momentary: together; at: with"
+ },
+ {
+  "old": "*Adding: a line's next 0 one after the later of two, two after at two alike.*",
+  "new": "*Adding: a line's next 0 one after its later of two, two after with two alike.*",
+  "verdict": "RESAY",
+  "why": "Adding items re-said by meaning; the: its; at: with"
+ },
+ {
+  "old": "Each self's first 0 is at momentary i + j + 2 and the lesser of i and j more, i along and j across from a self of both seams, steps 651 and 653; and each line i along after the first, from its 0 next after its first i, is at each 0 of a line prior to it two momentaries later, without end.",
+  "new": "Each self's first 0 is with momentary i + j + 2 and i and j's lesser more, i along and j across from a self of both seams, steps 651 and 653; and each line i along after first line, from its 0 next after its first i, is with each 0 of a line prior to it two momentaries later, without end.",
+  "verdict": "RESAY",
+  "why": "at: with; the lesser of i and j: i and j's lesser; the first: first line"
+ },
+ {
+  "old": "*Adding: each self's first 0 at i + j + 2 and the lesser more, each line two momentaries behind its prior.*",
+  "new": "*Adding: each self's first 0 with i + j + 2 and its lesser more, each line two momentaries behind its prior.*",
+  "verdict": "RESAY",
+  "why": "Adding items re-said by meaning; at: with; the: its"
+ },
+ {
+  "old": "At q more than twice p first line's 0 passes one self on at each momentary round its q selves and waits at none, each line after the first two momentaries behind its prior, the first more than two behind the last, steps 653 and 654: each self is at a 0 once in q momentaries, q odd, its parity as it was, and sharings are again at q, from momentary 3p − 1.",
+  "new": "With q more than twice p first line's 0 passes one self on with each momentary round its q selves and waits with no self, each line after first line two momentaries behind its prior, first line more than two behind last line, steps 653 and 654: each self is a 0 once each q momentaries, q odd, its parity as it was, and sharings are again after q, from momentary 3p − 1.",
+  "verdict": "RESAY",
+  "why": "at: with, after; at none: with no self; in q momentaries: each q momentaries; the first, the last: first line, last line"
+ },
+ {
+  "old": "*Adding: at q more than twice p the sharings again at q, from momentary 3p − 1.*",
+  "new": "*Adding: with q more than twice p, sharings again after q, from momentary 3p − 1.*",
+  "verdict": "RESAY",
+  "why": "Adding item re-said by meaning; at: with, after; the: removed"
+ },
+ {
+  "old": "At q less than twice p, p from 3, q the lesser's equal or more, first line at its second round comes two momentaries behind last line, at its place q − p of that round and at p and q one number at its first, and waits behind it at 2p − q places, steps 653 and 654:",
+  "new": "With q less than twice p, p from 3, q equal to p or more, first line with its second round comes two momentaries behind last line, with its place q − p of that round and, with p and q one number, with its first, and waits behind it by 2p − q places, steps 653 and 654:",
+  "verdict": "RESAY",
+  "why": "at: with, by; the lesser's equal: equal to p, p being lesser; first half of one sentence over 400 characters"
+ },
+ {
+  "old": "each line's 0 is round its q selves in 2p momentaries, each self at a 0 once in 2p, an even number, its parity inverted, and sharings are again at 4p, from momentary 3p − 3.",
+  "new": "each line's 0 is round its q selves within 2p momentaries, each self a 0 once each 2p, an even number, its parity inverted, and sharings are again after 4p, from momentary 3p − 3.",
+  "verdict": "RESAY",
+  "why": "in: within, each; at: after, or removed; second half of one sentence over 400 characters"
+ },
+ {
+  "old": "A torus of 1 by q is at step 655, and one self is at a 0 at each second momentary, 4 from the first.",
+  "new": "A torus of 1 by q is step 655's, and one self is a 0 with each second momentary, 4 from its first.",
+  "verdict": "RESAY",
+  "why": "at: of, with, or removed; the first: its first"
+ },
+ {
+  "old": "*Adding: at q less than twice p the sharings again at 4p, from momentary 3p − 3.*",
+  "new": "*Adding: with q less than twice p, sharings again after 4p, from momentary 3p − 3.*",
+  "verdict": "RESAY",
+  "why": "Adding item re-said by meaning; at: with, after; the: removed"
+ },
+ {
+  "old": "Divide of step 243 is derived, steps 655 and 656: round p lines, each after the first two momentaries behind its prior, is 2p momentaries, and round a line is q; the greater is 0's round, q at q the greater, and 2p at 2p the greater, one 0 at each self in an even number of momentaries inverting it, 4p.",
+  "new": "Divide of step 243 is derived, steps 655 and 656: round p lines, each after first line two momentaries behind its prior, is 2p momentaries, and round a line is q; their greater is 0's round, q with q greater, and 2p with 2p greater, one 0 with each self within an even number of momentaries inverting it, 4p.",
+  "verdict": "RESAY",
+  "why": "the first: first line; the greater: their greater, or greater; at: with; in: within"
+ },
+ {
+  "old": "Rule of step 653, from first 0 of step 651 and each self inverting at each momentary it is at no 0, worked as arithmetic at each of Exhibit ONE's ten rows of two odd numbers, gives each row's number and momentary it is from.",
+  "new": "Step 653's rule, from first 0 of step 651 and each self inverting with each momentary it is no 0, worked as arithmetic with each of Exhibit ONE's ten rows of two odd numbers, is each row's number and momentary it is from.",
+  "verdict": "RESAY",
+  "why": "at: with, or removed; doer: a rule giving re-said as its arithmetic being each row's number"
+ },
+ {
+  "old": "*Adding: a torus's divide derived: 2p round its lines, q round a line, the greater the 0's round.*",
+  "new": "*Adding: a torus's divide derived: 2p round its lines, q round a line, their greater a 0's round.*",
+  "verdict": "RESAY",
+  "why": "Adding items re-said by meaning; the: their, a"
+ },
+ {
+  "old": "At two spirals crossed, step 237, a crossing self is offered its along prior's changing and other crossing self's, and is at a changing that is not exactly at one of them or both its own parity and neither the other parity, step 212.",
+  "new": "With two spirals crossed, step 237, a crossing self is offered its along prior's parity-offering and its other crossing self's, and is not-changing exactly with one of them or both its own parity and neither its other parity, step 212.",
+  "verdict": "RESAY",
+  "why": "at: with; changing going along to an other: parity-offering; a changing that is not: not-changing; the other: its other"
+ },
+ {
+  "old": "An across offering alters two cells: along its own parity and across the other, + and − together, a changing; along a 0 and across its own parity, a changing that is not.",
+  "new": "An across offering alters two cells: along its own parity and across its other, + and − together, a parity-changing; along a 0 and across its own parity, a not-changing.",
+  "verdict": "RESAY",
+  "why": "the other: its other; a changing: parity-changing; a changing that is not: not-changing"
+ },
+ {
+  "old": "Each self inverting at each momentary is exactly each spiral alternating from its first self to its last and, at an odd spiral, its last and its first alike with two crossing selves opposite, steps 649 and 658: an odd spiral's like pair rests at its seam, its 0 ended by the other parity arriving across, + and − together, and its like pair is at each momentary still.",
+  "new": "Each self inverting with each momentary is exactly each spiral alternating from its first self to its last and, with an odd spiral, its last and its first alike with two crossing selves opposite, steps 649 and 658: an odd spiral's like pair rests with its seam, its 0 ended by its other parity arriving across, + and − together, and its like pair is with each momentary still.",
+  "verdict": "RESAY",
+  "why": "at: with; the other parity: its other parity"
+ },
+ {
+  "old": "*Adding: a 0 ended at a seam by the other parity across, a like pair still.*",
+  "new": "*Adding: a 0 ended with a seam by its other parity across, a like pair still.*",
+  "verdict": "RESAY",
+  "why": "Adding items re-said by meaning; at: with; the: its"
+ },
+ {
+  "old": "Two spirals of two odd numbers crossed, m the lesser from 3 and n the greater, opened as Exhibit ONE opens them: crossing selves are alike to momentary 2m + 1;",
+  "new": "Two spirals of two odd numbers crossed, m from 3 and n greater than m, opened as with Exhibit ONE's tables: crossing selves are alike to momentary 2m + 1;",
+  "verdict": "RESAY",
+  "why": "the lesser, the greater: n greater than m; doer: Exhibit ONE opening re-said as its tables; first part of one sentence over 400 characters"
+ },
+ {
+  "old": "at it the lesser spiral's crossing self, offered a 0 along and its own parity across, is at a changing that is not, and from 2m + 2 the two are opposite;",
+  "new": "with it m's spiral's crossing self, offered a 0 along and its own parity across, is not-changing, and from 2m + 2 these two are opposite;",
+  "verdict": "RESAY",
+  "why": "at: with; the lesser spiral: m's spiral; a changing that is not: not-changing; the two: these two"
+ },
+ {
+  "old": "each spiral's crossing self, next offered a 0 along and the other parity across, inverts, and each self of that spiral inverts from it on, the greater spiral from 2n + 1 and the lesser from 4m, its like pair at its seam offered both parities from next momentary, steps 658 and 659.",
+  "new": "each spiral's crossing self, next offered a 0 along and its other parity across, inverts, and each self of that spiral inverts from it on, n's spiral from 2n + 1 and m's from 4m, its like pair with its seam offered both parities from next momentary, steps 658 and 659.",
+  "verdict": "RESAY",
+  "why": "the other parity: its other parity; the greater, the lesser: n's, m's; at: with"
+ },
+ {
+  "old": "Sharings are again at 2 from momentary 4m at n less than twice m and from 2n + 1 at n more; at m even and n odd from 2n + 1, two opposite from 3.",
+  "new": "Sharings are again after 2 from momentary 4m with n less than twice m and from 2n + 1 with n more; with m even and n odd from 2n + 1, two opposite from 3.",
+  "verdict": "RESAY",
+  "why": "at: after, with"
+ },
+ {
+  "old": "*Adding: two spirals crossed again at 2 from 4m or from 2n + 1, each row agreeing.*",
+  "new": "*Adding: two spirals crossed again after 2 from 4m or from 2n + 1, each row agreeing.*",
+  "verdict": "RESAY",
+  "why": "Adding item re-said by meaning; at: after"
+ },
+ {
+  "old": "Two spirals of one number of selves crossed, opened alike, are alike self for self at each momentary, crossing selves alike, and at an odd number its 0 ends at none, step 659: two numbers differing is of deriving.",
+  "new": "Two spirals of one number of selves crossed, opened alike, are alike self for self with each momentary, crossing selves alike, and with an odd number its 0 is not ended, step 659: two numbers differing is of deriving.",
+  "verdict": "RESAY",
+  "why": "at: with; ends at none: is not ended, by meaning"
+ },
+ {
+  "old": "Two even spirals, each alternating, are again at 2 from first momentary, crossing selves alike.",
+  "new": "Two even spirals, each alternating, are again after 2 from first momentary, crossing selves alike.",
+  "verdict": "RESAY",
+  "why": "at: after"
+ },
+ {
+  "old": "*Adding: two spirals of one number alike at each momentary, a 0 ending at none.*",
+  "new": "*Adding: two spirals of one number alike with each momentary, a 0 not ended.*",
+  "verdict": "RESAY",
+  "why": "Adding items re-said by meaning; at: with; ending at none: not ended"
+ },
+ {
+  "old": "*Unsure: step 237's each prior pattern is derived at a table's opening, and two spirals with the lesser of one self at tables by hand; rows beyond Exhibit ONE's tables, 3 by 9 at 9 from 8 and 5 by 9 at 20 from 12 at a torus, 3 and 9 crossed from 19, wait on an executing.*",
+  "new": "*Unsure: step 237's each prior pattern is derived with a table's opening, and two spirals with their lesser of one self with tables by hand; rows other than Exhibit ONE's tables', 3 by 9 again after 9 from 8 and 5 by 9 again after 20 from 12 with a torus, 3 and 9 crossed from 19, wait on an executing.*",
+  "verdict": "RESAY",
+  "why": "at: with, again after; beyond: other than; the lesser: their lesser"
  }
 ]
