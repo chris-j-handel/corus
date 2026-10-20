@@ -26,7 +26,7 @@
 
 ## Not yet ready
 
-- **The title and subtitle themselves.** *Carved, v390, for the subtitle:* *The Stable-Forming Parity-Changing Method of Discovering Same-Existing*, beside *Natural Resolver*; its *The* kept, the one and only one possible method, universal; to confirm with the new version. Open: five parity-changing dimensions, the fractal within and outside itself in all five. Does *Stable Forms of the Discovering Method* still say it, now that discovering is one of three phases of one method, parity-changing, is or is not same-existing?
+- **The title and subtitle themselves.** *Carved, v390, for the subtitle:* *The Stable-Forming Parity-Changing Method of Discovering Same-Existing*, beside *Natural Resolver*; its *The* kept, the one and only one possible method, universal; to confirm with the new version. Five parity-changing dimensions, resolved: one five is all fives, a ten five self and five other, ten is or is nots, and the other six of 1 to 17 their floating neutraling co-linear; the fractal within and outside itself in all five. Does *Stable Forms of the Discovering Method* still say it, now that discovering is one of three phases of one method, parity-changing, is or is not same-existing?
 - **How living files meet Exhibit ONE for stable-forming:** said as one paragraph, so each file knows what it meets and how.
 - **About 560 of Exhibit ONE's 716 lines are unread at session v390.** These include *Each name and its relations*, *Namings among names*, *Twelve forms*, *Eights*, *Fives* and *Four binaries at the lines*. Each is to be read for its fate: stands re-said, released whole to an archive, or met by a new section.
 
