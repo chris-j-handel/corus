@@ -567,7 +567,7 @@
   "old": "value made at exchanging and nothing behind it selecting.",
   "new": "value made by exchanging and nothing behind it selecting.",
   "verdict": "RESAY",
-  "why": "line label at: with stays with its sentence's head pair; at: by; the sentence's head is a field's own record"
+  "why": "at: by; the sentence's head is a field's own record, kept"
  },
  {
   "old": "**At 12-next-co-same-existing.** That value derives from something standing behind money",
@@ -784,5 +784,353 @@
   "new": "Bounds saturate for some cases and dispute their scope,",
   "verdict": "RESAY",
   "why": "in: for some; the sentence's rest carries one family at a time, kept with one at a time"
+ },
+ {
+  "old": "**At 2-now-possibling.** Neutrinos carry mass at each coupling oscillations surface,",
+  "new": "**With 2-now-possibling.** Neutrinos carry mass with each coupling oscillations surface,",
+  "verdict": "RESAY",
+  "why": "line label at: with; at: with"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A mechanism fixed behind masses that stand.",
+  "new": "**With 12-next-co-same-existing.** A mechanism fixed behind masses that stand.",
+  "verdict": "RESAY",
+  "why": "line label at: with"
+ },
+ {
+  "old": "on a mechanism: a method not delivering the thing its statement ranges over,",
+  "new": "on a mechanism: a method not delivering a thing its statement ranges over,",
+  "verdict": "RESAY",
+  "why": "the: a; the same low-energy mixing before it is a field's own words, kept"
+ },
+ {
+  "old": "**At 11-next-co-observing.** Nonzero mass differences and large flavor mixing stand measured",
+  "new": "**With 11-next-co-observing.** Nonzero mass differences and large flavor mixing stand measured",
+  "verdict": "RESAY",
+  "why": "line label at: with; the field's record after it is its own words, kept"
+ },
+ {
+  "old": "its completion an opening at energies no coupling has reached,",
+  "new": "its completion an opening toward energies no coupling has reached,",
+  "verdict": "RESAY",
+  "why": "at: toward; not fixed at accessible energy before it is a field's own record, kept"
+ },
+ {
+  "old": "**At 2-now-possibling.** The universe is magnetized on all scales probed, fields made and amplified at each collapse and flow,",
+  "new": "**With 2-now-possibling.** The universe is magnetized on all scales probed, fields made and amplified with each collapse and flow,",
+  "verdict": "RESAY",
+  "why": "line label at: with; at: with; the universe, one and only, stays"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A seed fixed behind fields that stand throughout.",
+  "new": "**With 12-next-co-same-existing.** A seed fixed behind fields that stand throughout.",
+  "verdict": "RESAY",
+  "why": "line label at: with"
+ },
+ {
+  "old": "most observations integrate field strength with electron density",
+  "new": "most observations integrate field strength with electron density",
+  "verdict": "KEEP",
+  "why": "most observations: a field's own record, kept"
+ },
+ {
+  "old": "so fields observed and a seed sought are not the same, a dynamo standing between them:",
+  "new": "so fields observed and a seed sought are not same, a dynamo standing between them:",
+  "verdict": "RESAY",
+  "why": "the same: same, same or not same"
+ },
+ {
+  "old": "**At 11-next-co-observing.** Magnetic fields are mapped across galaxies and clusters,",
+  "new": "**With 11-next-co-observing.** Magnetic fields are mapped across galaxies and clusters,",
+  "verdict": "RESAY",
+  "why": "line label at: with; the field's record after it is its own words, kept"
+ },
+ {
+  "old": "and a dynamo standing between makes its own at each collapse, its seed observed at couplings and not behind them.",
+  "new": "and a dynamo standing between makes its own with each collapse, its seed observed with couplings and not behind them.",
+  "verdict": "RESAY",
+  "why": "at: with, twice"
+ },
+ {
+  "old": "**At 2-now-possibling.** Plates sink and break at their own couplings, slab pull and inherited weak boundaries supplied by subduction already carrying on, and an opening is fixed as a first that parts a before from an after, one initiation that opened the rest.",
+  "new": "**With 2-now-possibling.** Plates sink and break with their own couplings, slab pull and inherited weak boundaries supplied by subduction already carrying on, and an opening is fixed as a first that parts a before from an after, one initiation that opened all after it.",
+  "verdict": "RESAY",
+  "why": "line label at: with; at: with; the rest: all after it"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A first fixed to open a momentarying that supplies its own conditions.",
+  "new": "**With 12-next-co-same-existing.** A first fixed to open a momentarying that supplies its own conditions.",
+  "verdict": "RESAY",
+  "why": "line label at: with"
+ },
+ {
+  "old": "a weakness, a plume, a contrast, which is a stipulating recurring at one place.",
+  "new": "a weakness, a plume, a contrast, which is a stipulating recurring by one same place.",
+  "verdict": "RESAY",
+  "why": "at: by; one place: one same place"
+ },
+ {
+  "old": "**At 11-next-co-observing.** Candidate modern initiation zones,",
+  "new": "**With 11-next-co-observing.** Candidate modern initiation zones,",
+  "verdict": "RESAY",
+  "why": "line label at: with; the field's record after it is its own words, kept"
+ },
+ {
+  "old": "its paradox's first arriving as each other one does, at a coupling, owned by neither side.",
+  "new": "its paradox's first arriving as each other one does, with a coupling, owned by neither side.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "**At 2-now-possibling.** Oxygen was produced and consumed at couplings of photosynthesis, volcanism, burial and escape through deep time, and its permanent accumulation is fixed at one cause,",
+  "new": "**With 2-now-possibling.** Oxygen was produced and consumed by couplings of photosynthesis, volcanism, burial and escape through deep time, and its permanent accumulation is fixed to one cause,",
+  "verdict": "RESAY",
+  "why": "line label at: with; at: by, to"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A trigger fixed behind a threshold crossing.",
+  "new": "**With 12-next-co-same-existing.** A trigger fixed behind a threshold crossing.",
+  "verdict": "RESAY",
+  "why": "line label at: with"
+ },
+ {
+  "old": ": its crossing a coupling of a field's source and sink at a rate, and a trigger asked for at a crossing several histories each arrive at, at the same parity.",
+  "new": ": its crossing a coupling of a field's source and sink with a rate, and a trigger asked of a crossing several histories each reach, each with one same parity.",
+  "verdict": "RESAY",
+  "why": "at: with, of, reach, with; the same: one same; the length of its delay and the same threshold before it are a field's own words, kept"
+ },
+ {
+  "old": "**At 11-next-co-observing.** A source-sink threshold framework,",
+  "new": "**With 11-next-co-observing.** A source-sink threshold framework,",
+  "verdict": "RESAY",
+  "why": "line label at: with; changes, in and into within the record are a field's own words, kept"
+ },
+ {
+  "old": "**At 2-now-possibling.** The Earth and Moon couple at their tides and their isotopes, the pair's angular momentum, disk mass, iron depletion, volatile loss and near-identical isotope ratios all measured now, and the pair is fixed as made once, by one collision and one evolution after it.",
+  "new": "**With 2-now-possibling.** The Earth and Moon couple by their tides and their isotopes, their pair's angular momentum, disk mass, iron depletion, volatile loss and near-identical isotope ratios all measured now, and their pair is fixed as made once, by one collision and one evolution after it.",
+  "verdict": "RESAY",
+  "why": "line label at: with; at: by; the pair: their pair, twice; The Earth, a proper name, stays"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A making fixed behind a pair that stands.",
+  "new": "**With 12-next-co-same-existing.** A making fixed behind a pair that stands.",
+  "verdict": "RESAY",
+  "why": "line label at: with"
+ },
+ {
+  "old": "an assembled theory matches the overwhelming majority of observations",
+  "new": "an assembled theory matches the overwhelming majority of observations",
+  "verdict": "KEEP",
+  "why": "the overwhelming majority: a field's own record, kept"
+ },
+ {
+  "old": "**At 11-next-co-observing.** A giant impact is a leading class,",
+  "new": "**With 11-next-co-observing.** A giant impact is a leading class,",
+  "verdict": "RESAY",
+  "why": "line label at: with; the field's record after it is its own words, kept"
+ },
+ {
+  "old": "and couplings a pair still makes, at samples and tides, are observed at their carrying now.",
+  "new": "and couplings a pair still makes, with samples and tides, are observed with their carrying now.",
+  "verdict": "RESAY",
+  "why": "at: with, twice"
+ },
+ {
+  "old": "**At 2-now-possibling.** Cells adhere, signal and divide labour at their couplings,",
+  "new": "**With 2-now-possibling.** Cells adhere, signal and divide labour with their couplings,",
+  "verdict": "RESAY",
+  "why": "line label at: with; at: with"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A first fixed to be pattern-matched backward from parts that survive.",
+  "new": "**With 12-next-co-same-existing.** A first fixed to be pattern-matched backward from parts that survive.",
+  "verdict": "RESAY",
+  "why": "line label at: with"
+ },
+ {
+  "old": "relevant lineages are sparsely sampled",
+  "new": "relevant lineages are sparsely sampled",
+  "verdict": "KEEP",
+  "why": "sparsely sampled: a field's own record of its sampling, kept"
+ },
+ {
+  "old": "a first pattern-matched backward declined at a review's own words.",
+  "new": "a first pattern-matched backward declined by a review's own words.",
+  "verdict": "RESAY",
+  "why": "at: by; the origin of animals … black swan event before it is a review's quoted words, kept"
+ },
+ {
+  "old": "**At 11-next-co-observing.** A rich pre-animal toolkit,",
+  "new": "**With 11-next-co-observing.** A rich pre-animal toolkit,",
+  "verdict": "RESAY",
+  "why": "line label at: with; the field's record after it is its own words, kept"
+ },
+ {
+  "old": "and routes carried again in experiments are couplings made now,",
+  "new": "and routes carried again by experiments are couplings made now,",
+  "verdict": "RESAY",
+  "why": "in: by"
+ },
+ {
+  "old": "A first body is daughter cells staying together after dividing, one body at one wall, made at each division and fixed nowhere ahead of it.",
+  "new": "A first body is daughter cells staying together after dividing, one body with one wall, made with each division and fixed nowhere ahead of it.",
+  "verdict": "RESAY",
+  "why": "at: with, twice"
+ },
+ {
+  "old": "**At 2-now-possibling.** Enzymes evolve at their own couplings, how they do relatively well understood, and a pathway is fixed as needing its whole at once,",
+  "new": "**With 2-now-possibling.** Enzymes evolve with their own couplings, how they do relatively well understood, and a pathway is fixed as needing its whole together,",
+  "verdict": "RESAY",
+  "why": "line label at: with; at: with; at once: together"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A whole fixed to precede its steps.",
+  "new": "**With 12-next-co-same-existing.** A whole fixed to precede its steps.",
+  "verdict": "RESAY",
+  "why": "line label at: with"
+ },
+ {
+  "old": "intermediates possibly without benefit beyond a completed sequence",
+  "new": "intermediates possibly without benefit beyond a completed sequence",
+  "verdict": "KEEP",
+  "why": "possibly and beyond: a field's own record, kept"
+ },
+ {
+  "old": "**At 11-next-co-observing.** Enzyme superfamilies,",
+  "new": "**With 11-next-co-observing.** Enzyme superfamilies,",
+  "verdict": "RESAY",
+  "why": "line label at: with; the field's record after it is its own words, kept"
+ },
+ {
+  "old": "four accounts each supply a step that paid at its own time,",
+  "new": "four accounts each supply a step that paid with its own time,",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "and each step observed to evolve paid at a coupling it made,",
+  "new": "and each step observed to evolve paid with a coupling it made,",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "**At 2-now-possibling.** Institutions, geography, human capital, culture and technology couple in each society's history,",
+  "new": "**With 2-now-possibling.** Institutions, geography, human capital, culture and technology couple within each same-existing-society's history,",
+  "verdict": "RESAY",
+  "why": "line label at: with; in: within, a history as a same-existing-society's own; society: same-existing-society"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A fundamental cause fixed behind differences that stand.",
+  "new": "**With 12-next-co-same-existing.** A fundamental cause fixed behind differences that stand.",
+  "verdict": "RESAY",
+  "why": "line label at: with"
+ },
+ {
+  "old": ": realized histories measured and counterfactuals its statement ranges over not the same,",
+  "new": ": realized histories measured and counterfactuals its statement ranges over not same,",
+  "verdict": "RESAY",
+  "why": "the same: same; the fundamental cause before it is a chapter's own words, kept"
+ },
+ {
+  "old": "**At 11-next-co-observing.** Institutions, disease environment,",
+  "new": "**With 11-next-co-observing.** Institutions, disease environment,",
+  "verdict": "RESAY",
+  "why": "line label at: with; the field's record after it is its own words, kept"
+ },
+ {
+  "old": "and differences are couplings' making, society by society, two quasi-natural experiments being couplings observed at a border that parted them.",
+  "new": "and differences are couplings' making, same-existing-society by same-existing-society, two quasi-natural experiments being couplings observed with a border that parted them.",
+  "verdict": "RESAY",
+  "why": "society: same-existing-society; at: with"
+ },
+ {
+  "old": "**At 2-now-possibling.** Foragers managed, stored and scheduled at their couplings with plants and animals that answered,",
+  "new": "**With 2-now-possibling.** Foragers managed, stored and scheduled by their couplings with plants and animals that answered,",
+  "verdict": "RESAY",
+  "why": "line label at: with; at: by"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A reason fixed behind a shift that ran many times.",
+  "new": "**With 12-next-co-same-existing.** A reason fixed behind a shift that ran many times.",
+  "verdict": "RESAY",
+  "why": "line label at: with"
+ },
+ {
+  "old": ": a first that arrives at several couplings at once is a coupling's own making and no one reason's, its recurrence a record's own.",
+  "new": ": a first that arrives with several couplings together is a coupling's own making and no one reason's, its recurrence a record's own.",
+  "verdict": "RESAY",
+  "why": "at: with; at once: together; two hundred and twenty foraging societies and the origins before it are a field's own measurement and words, kept"
+ },
+ {
+  "old": "**At 11-next-co-observing.** Multiple independent centres,",
+  "new": "**With 11-next-co-observing.** Multiple independent centres,",
+  "verdict": "RESAY",
+  "why": "line label at: with; the field's record after it is its own words, kept"
+ },
+ {
+  "old": "a coupling of practices and species living long at each place it lived,",
+  "new": "a coupling of practices and species living long with each place it lived,",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "**At 2-now-possibling.** Anisotropies of temperature, polarization and lensing stand measured,",
+  "new": "**With 2-now-possibling.** Anisotropies of temperature, polarization and lensing stand measured,",
+  "verdict": "RESAY",
+  "why": "line label at: with"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A driving fixed behind perturbations that stand.",
+  "new": "**With 12-next-co-same-existing.** A driving fixed behind perturbations that stand.",
+  "verdict": "RESAY",
+  "why": "line label at: with"
+ },
+ {
+  "old": ": a first pattern-matched backward through a framework fixed as the thing,",
+  "new": ": a first pattern-matched backward through a framework fixed as its modelled thing,",
+  "verdict": "RESAY",
+  "why": "the: its modelled; the Standard Model and within its paradigm before it are a field's own words, kept"
+ },
+ {
+  "old": "**At 11-next-co-observing.** A quadratic slow-roll potential is ruled out,",
+  "new": "**With 11-next-co-observing.** A quadratic slow-roll potential is ruled out,",
+  "verdict": "RESAY",
+  "why": "line label at: with; ruled out and beyond slow roll within the record are a field's own terms, kept"
+ },
+ {
+  "old": "an epoch's physics an opening at a record's edge.",
+  "new": "an epoch's physics an opening with a record's edge.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "*Second seating: a framework fixed as the thing it models,",
+  "new": "*Second seating: a framework fixed as its own modelled thing,",
+  "verdict": "RESAY",
+  "why": "the: its own"
+ },
+ {
+  "old": "historical particulars probably forever lost",
+  "new": "historical particulars probably forever lost",
+  "verdict": "KEEP",
+  "why": "probably forever lost: a field's own record, kept"
+ },
+ {
+  "old": "a review confining itself to those it considers most plausible",
+  "new": "a review confining itself to those it considers most plausible",
+  "verdict": "KEEP",
+  "why": "most plausible: a field's own record, kept"
+ },
+ {
+  "old": "singularity theorems resting on an energy condition inflating spacetimes are likely to violate",
+  "new": "singularity theorems resting on an energy condition inflating spacetimes are likely to violate",
+  "verdict": "KEEP",
+  "why": "likely to violate: a field's own theorem words, kept"
+ },
+ {
+  "old": "so that it could have evolved from a random code",
+  "new": "so that it could have evolved from a random code",
+  "verdict": "KEEP",
+  "why": "a random code: a field's own term in its own sense, kept"
  }
 ]

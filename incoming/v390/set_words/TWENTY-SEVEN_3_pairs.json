@@ -1,1 +1,428 @@
-[]
+[
+ {
+  "old": "*At the door.*\n\n**The observing.** A regulated variable of the interior — core temperature, plasma glucose, arterial pressure, plasma sodium, pH — sampled and averaged over a window, returned as a level with a range, in °C, mg/dL, mmHg, mmol/L.",
+  "new": "*At the door.*\n\n**The observing.** A regulated variable of a body's interior — core temperature, plasma glucose, arterial pressure, plasma sodium, pH — sampled and averaged over a window, returned as a level with a range, its units °C, mg/dL, mmHg, mmol/L.",
+  "verdict": "RESAY",
+  "why": "Labels *At the door* and *The observing* kept as the entry form's names (3.2, 7.5); the interior: a body's interior; in units: its units; sampled and averaged: a field's own measuring, kept."
+ },
+ {
+  "old": "Continuous glucose monitoring returns excursions a fasting sample averages away; insulin arrives in pulses about five minutes apart at portal vein and about thirteen apart in peripheral plasma sampled each minute (nye); temperature crosses a daily range of about half a degree; pressure varies beat to beat.",
+  "new": "Continuous glucose monitoring returns excursions a fasting sample averages away; insulin arrives as pulses about five minutes apart within portal vein and about thirteen apart within peripheral plasma sampled each minute (nye); temperature crosses a daily range of about half a degree; pressure varies beat to beat.",
+  "verdict": "RESAY",
+  "why": "in pulses: as pulses; at and in a vessel: within; a fasting sample, averages away and sampled each minute: a field's own measuring, kept."
+ },
+ {
+  "old": "Apart, pancreas pulses in minutes, thermal cycle in a day, sodium excretion in weeks (nye), each at its own period.",
+  "new": "Apart, pancreas pulses over minutes, thermal cycle over a day, sodium excretion over weeks (nye), each with its own period.",
+  "verdict": "RESAY",
+  "why": "in a span of time: over; at its own period: with."
+ },
+ {
+  "old": "Where ledger installs a window's mean as a body's own clock — a rest it holds — observed **is-not**.",
+  "new": "Where a window's mean is installed as a body's own clock — a rest it returns to — observed **is-not**.",
+  "verdict": "RESAY",
+  "why": "holds: nothing is held, so the installed rest is said as one a body returns to, as this entry's Installation says; ledger installing re-said as a mean installed."
+ },
+ {
+  "old": "Insulin and glucagon are both secreted, one event at a time; heat is made and shed; sodium is filtered and reabsorbed; glucose enters blood and leaves it, and a field's own word for two-way is turnover.",
+  "new": "Insulin and glucagon are both secreted, one event at a time; heat is made and shed; sodium is filtered and reabsorbed; glucose enters blood and leaves it, and a field's own word for two-way is turnover.",
+  "verdict": "KEEP",
+  "why": "*one event at a time* is the kept phrase one at a time; nothing else to re-say."
+ },
+ {
+  "old": "Observed **is** at field side. Control diagram reads it one way — an error is sensed and corrected — and there observed **is-not**.",
+  "new": "Observed **is** with field side. With a control diagram it is read one way — an error is sensed and corrected — and there observed **is-not**.",
+  "verdict": "RESAY",
+  "why": "at: with; a diagram reading re-said as reading with a diagram."
+ },
+ {
+  "old": "A rise on one side of a between is a fall on the other: glucose rising in blood is glycogen falling in liver; heat leaving core is heat arriving at skin.",
+  "new": "A rise on one side of a between is a fall on its other side: glucose rising within blood is glycogen falling within liver; heat leaving core is heat reaching skin.",
+  "verdict": "RESAY",
+  "why": "the other: its other side; in blood, in liver: within; arriving at: reaching."
+ },
+ {
+  "old": "Inverted, positions kept.",
+  "new": "Inverted, positions not-changing.",
+  "verdict": "RESAY",
+  "why": "kept: not-changing, nothing held."
+ },
+ {
+  "old": "Carbon that arrives in muscle is not carbon that left a liver's glycogen; pool turns over while level stands.",
+  "new": "Carbon reaching muscle is not carbon that left a liver's glycogen; pool turns over while level stands.",
+  "verdict": "RESAY",
+  "why": "arrives in: reaching."
+ },
+ {
+  "old": "An isolated perfused liver puts out glucose at its own rate; isolated islets pulse at their own period (nye).",
+  "new": "An isolated perfused liver yields glucose with its own rate; isolated islets pulse with their own period (nye).",
+  "verdict": "RESAY",
+  "why": "puts out: yields; at: with."
+ },
+ {
+  "old": "Coupled, the whole carries a range neither returns and their sum does not — range is a coupling's, owned by neither.",
+  "new": "Coupled, their whole carries a range neither returns and their sum does not — range is a coupling's, owned by neither.",
+  "verdict": "RESAY",
+  "why": "the whole: their whole."
+ },
+ {
+  "old": "At an organ the level is a whole's; at a cell a transporter's; at a transporter a crossing's.",
+  "new": "With an organ, a level is a whole's; with a cell, a transporter's; with a transporter, a crossing's.",
+  "verdict": "RESAY",
+  "why": "at: with; the level: a level."
+ },
+ {
+  "old": "Magnitude stands at every grain and no member carries it.",
+  "new": "Magnitude stands with every grain and no member carries it.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Where crossings do not agree record carries baseline, drift, compensation, variability, error, in mg/dL and °C, open. Observed **is** at field side.",
+  "new": "Where crossings do not agree record carries baseline, drift, compensation, variability, error, with units mg/dL and °C, open. Observed **is** with field side.",
+  "verdict": "RESAY",
+  "why": "in units: with units; at field side: with field side."
+ },
+ {
+  "old": "Reference interval is central ninety-five per cent of a reference population, so one in twenty of the healthy stands outward of it by construction; where that five per cent is posted as a body failing, observed **is-not**.",
+  "new": "Reference interval is central ninety-five per cent of a reference population, so one in twenty healthy members stands outward of it by construction; where that five per cent is posted as a body failing, observed **is-not**.",
+  "verdict": "RESAY",
+  "why": "the healthy: healthy members; *one in twenty* and *ninety-five per cent* are a field's own reference-interval construction, a count of a definition and no likelihood, kept."
+ },
+ {
+  "old": "Drive temperature: shivering begins at a threshold that moves with time of day, fever, acclimatisation and sleep.",
+  "new": "Drive temperature: shivering begins with a threshold that moves with time of day, fever, acclimatisation and sleep.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Bound moves with a society's own conditions.",
+  "new": "Bound moves with a same-existing-society's own conditions.",
+  "verdict": "RESAY",
+  "why": "society: same-existing-society; a body is a living self, and each living self is a same-existing-society."
+ },
+ {
+  "old": "Declared 37.0, 70 to 100, 120 over 80 do not move with it; where one of them is installed as the floor a body seeks, observed **is-not**.",
+  "new": "Declared 37.0, 70 to 100, 120 over 80 do not move with it; where one of them is installed as a floor a body seeks, observed **is-not**.",
+  "verdict": "RESAY",
+  "why": "the floor: a floor."
+ },
+ {
+  "old": "Couple more organs and the whole carries its temperature across a range no single tissue carries, no organ lengthened.",
+  "new": "Couple more organs and their whole carries its temperature across a range no single tissue carries, no organ lengthened.",
+  "verdict": "RESAY",
+  "why": "the whole: their whole."
+ },
+ {
+  "old": "All ten are observed is at a field's operational use — a regulated variable, its range, its feedback relations — and at that use regulated variable passes: resolved to its crossings, it is a society, and it arrives at TWENTY-FIVE.",
+  "new": "All ten are observed is with a field's operational use — a regulated variable, its range, its feedback relations — and with that use regulated variable passes: resolved to its crossings, it is a same-existing-society, and it reaches TWENTY-FIVE.",
+  "verdict": "RESAY",
+  "why": "at: with; society: same-existing-society; arrives at: reaches."
+ },
+ {
+  "old": "Lines 2, 8 and 9 are observed is-not where level is installed as a set point a body holds or seeks — the across installed, **state**, caught.",
+  "new": "Lines 2, 8 and 9 are observed is-not where level is installed as a set point a body returns to or seeks — its across installed, **state**, caught.",
+  "verdict": "RESAY",
+  "why": "holds: returns to, the installed claim said with no holding; the across: its across."
+ },
+ {
+  "old": "Line 3 is observed is-not where coupling is installed as a regulator that senses, compares, corrects and defends — one side of the along installed, **flow**, caught.",
+  "new": "Line 3 is observed is-not where coupling is installed as a regulator that senses, compares, corrects and defends — one side of its along installed, **flow**, caught.",
+  "verdict": "RESAY",
+  "why": "the along: its along."
+ },
+ {
+  "old": "One record arriving, two ghosts kept at the door, one society passing.\n\n*The properties.*",
+  "new": "One record arriving, two ghosts caught with the door, one same-existing-society passing.\n\n*The properties.*",
+  "verdict": "RESAY",
+  "why": "kept at: caught with, nothing held; *the door* kept as 7.5's one door; society: same-existing-society; label *The properties* kept as the form's name."
+ },
+ {
+  "old": "**Name and use.** Homeostasis, at two uses: level installed as a set point a body holds, seeks, or defends; and coupling installed as a regulator — a sensor that measures, a comparator that decides, an effector that corrects, a body that is wise.",
+  "new": "**Name and use.** Homeostasis, with two uses: level installed as a set point a body returns to, seeks, or defends; and coupling installed as a regulator — a sensor that measures, a comparator that decides, an effector that corrects, a body that is wise.",
+  "verdict": "RESAY",
+  "why": "at two uses: with two uses; holds: returns to; seeks and defends are the installation's own verbs, kept."
+ },
+ {
+  "old": "Operational use — a variable held within a range by opposed processes — is accounting and is not what is released.",
+  "new": "Operational use — a variable staying within a range by opposed processes — is accounting and does not dissolve.",
+  "verdict": "RESAY",
+  "why": "held: staying; released: dissolving, said of a use that leaves; this use stays."
+ },
+ {
+  "old": "Confirmed · natural register, state at set point and flow at regulator, both caught.",
+  "new": "Confirmed · natural register, state with set point and flow with regulator, both caught.",
+  "verdict": "RESAY",
+  "why": "Standing name kept; at: with."
+ },
+ {
+  "old": "Passed · to TWENTY-FIVE at operational use, regulated variable resolved to its crossings, entered in passed ledger at 7.7, arriving at TWENTY-FIVE 2.22.",
+  "new": "Passed · to TWENTY-FIVE with operational use, regulated variable resolved to its crossings, entered to 7.7's passed ledger, reaching TWENTY-FIVE 2.22.",
+  "verdict": "RESAY",
+  "why": "Standing name kept; at: with; entered in ledger at 7.7: entered to 7.7's ledger; arriving at: reaching."
+ },
+ {
+  "old": "**Substrate and society.** Interior fluid compartment of an organism with organs coupling across it, environment exchanging across skin, gut and lung, sampling protocol, and reference population that supplies interval.",
+  "new": "**Substrate and society.** Interior fluid compartment of an organism with organs coupling across it, environment exchanging across skin, gut and lung, sampling protocol, and reference population that supplies interval.",
+  "verdict": "KEEP",
+  "why": "Label *Substrate and society* kept as the entry form's name (3.2); sampling protocol a field's own term."
+ },
+ {
+  "old": "**Departure mode.** Installing at both uses: a window's mean projected beneath changing as its rest, and one side of a two-way coupling projected as actor.",
+  "new": "**Departure mode.** Installing with both uses: a window's mean projected beneath parity-changing as its rest, and one side of a two-way coupling projected as actor.",
+  "verdict": "RESAY",
+  "why": "at: with; changing: parity-changing."
+ },
+ {
+  "old": "Interior milieu was fixed in the 1860s and 1870s as condition of a free life, its constancy the thing to be explained.",
+  "new": "Interior milieu was fixed in the 1860s and 1870s as condition of a free life, its constancy the thing to be explained.",
+  "verdict": "KEEP",
+  "why": "Field account: a field's own words and dated record, by 3.2 without natural translation."
+ },
+ {
+  "old": "Word itself was coined in 1926 and its first definition already parts it from equilibrium: steady states of a body's fluid matrix are preserved by physiological reactions, by processes more complicated than simple physico-chemical equilibria, and a special designation is therefore appropriate.",
+  "new": "Word itself was coined in 1926 and its first definition already parts it from equilibrium: steady states of a body's fluid matrix are preserved by physiological reactions, by processes more complicated than simple physico-chemical equilibria, and a special designation is therefore appropriate.",
+  "verdict": "KEEP",
+  "why": "Field account: dated record and a field's own definition, kept."
+ },
+ {
+  "old": "The 1932 book that carried word into every textbook is titled for a body's wisdom.",
+  "new": "A 1932 book that carried word to every textbook is titled for a body's wisdom.",
+  "verdict": "RESAY",
+  "why": "The: A; into: to; the book's title is not quoted, so only the file's framing is re-said."
+ },
+ {
+  "old": "Textbook use is maintenance of nearly constant conditions in internal environment, drawn as a loop: variable, sensor, set point, effector.",
+  "new": "Textbook use is maintenance of nearly constant conditions in internal environment, drawn as a loop: variable, sensor, set point, effector.",
+  "verdict": "KEEP",
+  "why": "Field account: a textbook's own definition, kept."
+ },
+ {
+  "old": "rheostasis and settling point, all in record.",
+  "new": "rheostasis and settling point, all of record.",
+  "verdict": "RESAY",
+  "why": "in record: of record; the rest of this sentence is a field's own observings and measurements, kept."
+ },
+ {
+  "old": "Reference intervals close at central ninety-five per cent.",
+  "new": "Reference intervals close with central ninety-five per cent.",
+  "verdict": "RESAY",
+  "why": "at: with; ninety-five per cent a field's own interval, kept."
+ },
+ {
+  "old": "**Living changing.** Every regulated variable moves continuously at its own rate — pulses, daily cycles, weekly rhythms, beat-to-beat variation — and organs coupling across compartment move each other: glucose remodels islet, temperature moves thermal threshold, load moves the pressure vessels carry.",
+  "new": "**Living changing.** Every regulated variable moves continuously with its own rate — pulses, daily cycles, weekly rhythms, beat-to-beat variation — and organs coupling across compartment move each other: glucose remodels islet, temperature moves thermal threshold, load moves pressure carried by vessels.",
+  "verdict": "RESAY",
+  "why": "Label *Living changing* kept as the form's name (3.2); at: with; the pressure vessels carry: pressure carried by vessels."
+ },
+ {
+  "old": "Regulator is changed by what it regulates.",
+  "new": "Regulator is parity-changed by what it regulates.",
+  "verdict": "RESAY",
+  "why": "changed: parity-changed."
+ },
+ {
+  "old": "**Observing between.** Variable chosen; sampling interval and averaging; reference population and its percentiles; an instrument's resolution; a clinic's single morning sample against a monitor's continuous trace.",
+  "new": "**Observing between.** Variable chosen; sampling interval and averaging; reference population and its percentiles; an instrument's resolution; a clinic's single morning sample against a monitor's continuous trace.",
+  "verdict": "KEEP",
+  "why": "Sampling, averaging, percentiles and sample are a field's own measuring terms in their own sense; label kept."
+ },
+ {
+  "old": "State: a window's mean installed as a value a body holds and returns to, a destination beneath changing — \"the set point is 37 °C,\" \"the body defends its set point,\" \"the reference range is normal.\"",
+  "new": "State: a window's mean installed as a value a body returns to, a destination beneath parity-changing — \"the set point is 37 °C,\" \"the body defends its set point,\" \"the reference range is normal.\"",
+  "verdict": "RESAY",
+  "why": "holds and returns to: returns to, nothing held; changing: parity-changing; quotations kept."
+ },
+ {
+  "old": "Flow: coupling installed at one side as an actor — hypothalamus compares, sensor measures, effector corrects error, kidney conserves sodium, a body is wise.",
+  "new": "Flow: coupling installed with one side as an actor — hypothalamus compares, sensor measures, effector corrects error, kidney conserves sodium, a body is wise.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Two-way change of regulator.",
+  "new": "Two-way parity-changing of regulator.",
+  "verdict": "RESAY",
+  "why": "change: parity-changing."
+ },
+ {
+  "old": "Five per cent of the healthy outward of interval.",
+  "new": "Five per cent of healthy members outward of interval.",
+  "verdict": "RESAY",
+  "why": "the healthy: healthy members."
+ },
+ {
+  "old": "(1) Glucose, heat, sodium and pressure cross continuously, organs coupling at their own rates.",
+  "new": "(1) Glucose, heat, sodium and pressure cross continuously, organs coupling with their own rates.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "(2) A sample or window stills one momentary and returns a level.",
+  "new": "(2) A sample or window stills one momentary and returns a level.",
+  "verdict": "KEEP",
+  "why": "*A sample* is a field's measuring act, no likelihood, kept."
+ },
+ {
+  "old": "(4) Set point is installed as what a body holds, and coupling as a regulator that defends it.",
+  "new": "(4) Set point is installed as what a body returns to, and coupling as a regulator that defends it.",
+  "verdict": "RESAY",
+  "why": "holds: returns to."
+ },
+ {
+  "old": "(6) Anticipation, moving thresholds, turnover and a regulator's own changing remain the carry the still leaves uncarried.",
+  "new": "(6) Anticipation, moving thresholds, turnover and a regulator's own parity-changing remain a carry its still leaves uncarried.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing; the carry: a carry; the still: its still."
+ },
+ {
+  "old": "Value-pinning at set point.",
+  "new": "Value-pinning with set point.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Line-demanding at reference limits.",
+  "new": "Line-demanding with reference limits.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Interior-reaching at milieu fixed as a place with a constant.",
+  "new": "Interior-reaching with milieu fixed as a place with a constant.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Forced-choosing at regulator fixed as acting side.",
+  "new": "Forced-choosing with regulator fixed as acting side.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "**Eight-side society.** Within, an organism bounds a fluid compartment, selects variables, couples organs, and its observings re-form.",
+  "new": "**Eight-side society.** Within, an organism bounds a fluid compartment, selects variables, couples organs, and its observings re-form.",
+  "verdict": "KEEP",
+  "why": "Label *Eight-side society* kept as the entry form's name (3.2)."
+ },
+ {
+  "old": "At betweens, environment exchanges heat, water and food; clinician samples; reference population supplies interval; analyst draws loop.",
+  "new": "With betweens, environment exchanges heat, water and food; clinician samples; reference population supplies interval; analyst draws loop.",
+  "verdict": "RESAY",
+  "why": "at: with; clinician samples is a field's own measuring, kept."
+ },
+ {
+  "old": "Eight re-form one observing society, and set point belongs to that society's across-observing.",
+  "new": "Eight re-form one observing same-existing-society, and set point belongs to that same-existing-society's across-observing.",
+  "verdict": "RESAY",
+  "why": "society: same-existing-society."
+ },
+ {
+  "old": "A regulated variable constant at every resolution and window, with a set point located as a physical quantity somewhere in a body independent of an observer's choice of variable and window, would break state diagnosis.",
+  "new": "A regulated variable constant with every resolution and window, with a set point located as a physical quantity somewhere within a body independent of an observer's choice of variable and window, would break state diagnosis.",
+  "verdict": "RESAY",
+  "why": "at: with; in a body: within a body; *somewhere* stands already, not added."
+ },
+ {
+  "old": "A regulator acting on its variable while not changed by it at every rate would break flow diagnosis.",
+  "new": "A regulator acting on its variable while not parity-changed by it with every rate would break flow diagnosis.",
+  "verdict": "RESAY",
+  "why": "changed: parity-changed; at: with."
+ },
+ {
+  "old": "Re-alternation — opposed crossings at their own rates, thresholds moving with conditions, regulator changed by regulated — must carry shivering and sweating thresholds, fever's raised temperature, cephalic-phase secretion, ultradian pulses, allostatic load and reference intervals as population accounting, with no outward controller, no fixed floor, no exception ledger.",
+  "new": "Re-alternation — opposed crossings with their own rates, thresholds moving with conditions, regulator parity-changed by regulated — must carry shivering and sweating thresholds, fever's raised temperature, cephalic-phase secretion, ultradian pulses, allostatic load and reference intervals as population accounting, with no outward controller, no fixed floor, no exception ledger.",
+  "verdict": "RESAY",
+  "why": "at: with; changed: parity-changed."
+ },
+ {
+  "old": "A physiological variable whose stability required a literal constant rather than continuing opposed changes would break it.",
+  "new": "A physiological variable whose stability required a literal constant rather than continuing opposed parity-changes would break it.",
+  "verdict": "RESAY",
+  "why": "changes: parity-changes."
+ },
+ {
+  "old": "Living: TWENTY-FIVE 2.1 and 2.4, where \"homeostatically maintained\" and \"homeostatically stable\" already stand in words carried; TWENTY-SEVEN 5.2 and 6.4; Natural Medicine, resolvins; Resolving Hard Problems 1.3; Natural Health, reaching yet.",
+  "new": "Living: TWENTY-FIVE 2.1 and 2.4, where \"homeostatically maintained\" and \"homeostatically stable\" already stand as words carried; TWENTY-SEVEN 5.2 and 6.4; Natural Medicine, resolvins; Resolving Hard Problems 1.3; Natural Health, reaching yet.",
+  "verdict": "RESAY",
+  "why": "in: as; quotations and titles kept."
+ },
+ {
+  "old": "Beyond: 8.3, items 7 to 15.",
+  "new": "Outward: 8.3, items 7 to 15.",
+  "verdict": "RESAY",
+  "why": "beyond: outward, a kept word, for Part Eight's outside addresses."
+ },
+ {
+  "old": "*The report.*\n\n**Re-alternation.** Level is the across of a changing whose along is turnover; constancy is a window's observing, and window is an observer's.",
+  "new": "*The report.*\n\n**Re-alternation.** Level is an across of a parity-changing whose along is turnover; constancy is a window's observing, and window is an observer's.",
+  "verdict": "RESAY",
+  "why": "Labels kept as the form's names (3.3); the across: an across; changing: parity-changing."
+ },
+ {
+  "old": "Regulation is a two-way coupling observed from one side: organ that \"corrects\" is corrected, at its own rate.",
+  "new": "Regulation is a two-way coupling observed from one side: organ that \"corrects\" is corrected, with its own rate.",
+  "verdict": "RESAY",
+  "why": "at: with; quotation kept."
+ },
+ {
+  "old": "Set point releases into thresholds that move, and regulator into a coupling; loop diagram stays as accounting.",
+  "new": "Set point dissolves to thresholds that move, and regulator to a coupling; loop diagram stays as accounting.",
+  "verdict": "RESAY",
+  "why": "releases: dissolves, a form that leaves; into: to."
+ },
+ {
+  "old": "**What the field already released.** Coinage itself parted homeostasis from equilibrium.",
+  "new": "**What the field already released.** Coinage itself parted homeostasis from equilibrium.",
+  "verdict": "KEEP",
+  "why": "Label *What the field already released* kept as the report form's name (3.3)."
+ },
+ {
+  "old": "Allostasis, stability through change; rheostasis, set points that change; settling point replacing body-weight set point; 1868 value moved by measurement; 2017 line moved by committee, which is the field showing the line was its own.",
+  "new": "Allostasis, stability through change; rheostasis, set points that change; settling point replacing body-weight set point; 1868 value moved by measurement; 2017 line moved by committee, which is its field showing that line was its own.",
+  "verdict": "RESAY",
+  "why": "the field: its field; the line: that line; *stability through change* and *set points that change* are a field's own definitions, kept."
+ },
+ {
+  "old": "None of these release loop as accounting, and none should.",
+  "new": "None of these dissolve loop's accounting, and none should.",
+  "verdict": "RESAY",
+  "why": "release: dissolve."
+ },
+ {
+  "old": "Equilibrium at 5.2 is hinge: constancy as appearance.",
+  "new": "Equilibrium of 5.2 is hinge: constancy as appearance.",
+  "verdict": "RESAY",
+  "why": "at an address: of."
+ },
+ {
+  "old": "Declared floor at 6.4 is twin at physics.",
+  "new": "Declared floor of 6.4 is its twin with physics.",
+  "verdict": "RESAY",
+  "why": "at an address: of; at physics: with physics."
+ },
+ {
+  "old": "Threshold at TWENTY-FIVE 2.4 carries criterion movable from an observer's side only, which is set point's own form.",
+  "new": "Threshold of TWENTY-FIVE 2.4 carries criterion movable from an observer's side only, which is set point's own form.",
+  "verdict": "RESAY",
+  "why": "at an address: of."
+ },
+ {
+  "old": "Natural Medicine carries flow family — soldier, messenger, rescuer — that this entry opens.",
+  "new": "Natural Medicine carries flow family — soldier, messenger, rescuer — opening with this entry.",
+  "verdict": "RESAY",
+  "why": "doer, an entry opening: opening with this entry."
+ },
+ {
+  "old": "One word carries a state ghost and a flow ghost at once, and they are observed at different lines.",
+  "new": "One word carries a state ghost and a flow ghost together, and they are observed with different lines.",
+  "verdict": "RESAY",
+  "why": "at once: together; at: with."
+ },
+ {
+  "old": "Carry entry against one regulated variable from raw trace to reported level — a week of continuous glucose against fasting sample and reference interval — with turnover, pulses and thresholds attached in a field's units.",
+  "new": "Carry entry against one regulated variable from raw trace to reported level — a week of continuous glucose against fasting sample and reference interval — with turnover, pulses and thresholds attached with a field's units.",
+  "verdict": "RESAY",
+  "why": "in: with; fasting sample is a field's own measuring, kept."
+ }
+]

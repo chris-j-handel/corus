@@ -424,5 +424,401 @@
   "new": "       is-not  reach the sum of lengths\n       ghost   the chain, the pipeline, the pusher\n```",
   "verdict": "KEEP",
   "why": "Inside a ``` fence, kept exactly."
+ },
+ {
+  "old": "| homeostasis | set point (state, lines 2, 8, 9); wise regulator (flow, line 3), entered at 5.11 | regulated variable, resolved to its crossings | TWENTY-FIVE 2.22 |",
+  "new": "| homeostasis | set point (state, lines 2, 8, 9); wise regulator (flow, line 3), entered with 5.11 | regulated variable, resolved to its crossings | TWENTY-FIVE 2.22 |",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "| Maxwell's demon | free sorter (flow, lines 2, 3, 8), released by the field; bound as floor (state, line 9), entered at 5.12 | built engine, a particle and its memory | TWENTY-FIVE 2.17 |",
+  "new": "| Maxwell's demon | free sorter (flow, lines 2, 3, 8), dissolved by its field; bound as floor (state, line 9), entered with 5.12 | built engine, a particle and its memory | TWENTY-FIVE 2.17 |",
+  "verdict": "RESAY",
+  "why": "released by the field: dissolved by its field; at: with."
+ },
+ {
+  "old": "| water dimer | nothing; bond as connector stands at controls at 6.1 | pair, at all ten, observed at 7.8 | TWENTY-FIVE 2.6, the first arrival |",
+  "new": "| water dimer | nothing; bond as connector stands among controls, 6.1 | pair, with all ten, observed with 7.8 | TWENTY-FIVE 2.6, the first arrival |",
+  "verdict": "RESAY",
+  "why": "at: among, with; the first arrival kept, an only first."
+ },
+ {
+  "old": "| ammonia | nothing | not passed: a self at the door, line 5 observed is-not, nitrogen itself crossing, observed at 7.8 | its pair, ammonia dimer, passes at 7.8; arrival not yet written |",
+  "new": "| ammonia | nothing | not passed: a self at the door, line 5 observed is-not, nitrogen itself crossing, observed with 7.8 | its pair, ammonia dimer, passes with 7.8; arrival not yet written |",
+  "verdict": "RESAY",
+  "why": "at 7.8: with 7.8. A self at the door is the standing's name, kept as asked at 7.7."
+ },
+ {
+  "old": "| equilibrium, 5.2 | rest, state, destination (state) | mixture, at operational use | TWENTY-FIVE 2.19; glass not yet written |",
+  "new": "| equilibrium, 5.2 | rest, state, destination (state) | mixture, with operational use | TWENTY-FIVE 2.19; glass not yet written |",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "| electron, 5.3 | interior (state); traveller, holder, carrier (flow) | source, field and detector | TWENTY-FIVE 2.16 |",
+  "new": "| electron, 5.3 | interior (state); traveller, holder, carrier (flow) | source, field and detector | TWENTY-FIVE 2.16 |",
+  "verdict": "KEEP",
+  "why": "holder is a caught ghost word, a field's installing word mentioned."
+ },
+ {
+  "old": "| catalytic stroke, 5.5 | the one stroke, structure and optimum (state); doer, possessor (flow) | turnover society | TWENTY-FIVE 2.21 |",
+  "new": "| catalytic stroke, 5.5 | the one stroke, structure and optimum (state); doer, possessor (flow) | turnover same-existing-society | TWENTY-FIVE 2.21 |",
+  "verdict": "RESAY",
+  "why": "society: same-existing-society. the one stroke, doer and possessor are caught ghost words, kept."
+ },
+ {
+  "old": "| minimal residual disease, 5.6 | posted absence, floor (state), released | not passed: possibling at line 1 below an assay's limit | — |",
+  "new": "| minimal residual disease, 5.6 | posted absence, floor (state), dissolved | not passed: possibling with line 1 below an assay's limit | — |",
+  "verdict": "RESAY",
+  "why": "released: dissolved; at: with."
+ },
+ {
+  "old": "| diagnostic code, 5.7 | average, identity, closed record, line (state); cause, traveller (flow) | not passed: possibling at 4 and 6 | — |",
+  "new": "| diagnostic code, 5.7 | average, identity, closed record, line (state); cause, traveller (flow) | not passed: possibling with 4 and 6 | — |",
+  "verdict": "RESAY",
+  "why": "at: with. average is a caught ghost word, kept."
+ },
+ {
+  "old": "| proton, 5.8 | interior, posted share, stability (state); mover, ball (flow) | water chain | TWENTY-FIVE 2.3, arrived before the door; door record at 7.8 |",
+  "new": "| proton, 5.8 | interior, posted share, stability (state); mover, ball (flow) | water chain | TWENTY-FIVE 2.3, arrived before the door; door record with 7.8 |",
+  "verdict": "RESAY",
+  "why": "at: with; the door kept."
+ },
+ {
+  "old": "| silicon surface, 5.10 | rest, state (state); coupling denied | not passed: possibling at line 1 at domain | — |",
+  "new": "| silicon surface, 5.10 | rest, state (state); coupling denied | not passed: possibling with line 1, domain grain | — |",
+  "verdict": "RESAY",
+  "why": "at line 1: with line 1; at domain: domain grain, by meaning."
+ },
+ {
+  "old": "| a mitochondrion at one temperature | furnace, heat driving, hot spots (flow at 3; interior at 7) | inner-membrane translocations | TWENTY-FIVE 2.1, arrived before the door; door record at 7.8 |",
+  "new": "| a mitochondrion at one temperature | furnace, heat driving, hot spots (flow with 3; interior with 7) | inner-membrane translocations | TWENTY-FIVE 2.1, arrived before the door; door record with 7.8 |",
+  "verdict": "RESAY",
+  "why": "First cell is a record's name, kept as titled with TWENTY-FIVE; at: with elsewhere; the door kept."
+ },
+ {
+  "old": "| a chromatin domain at one boundary | folding code, cohesin forming, boundary insulating (state at 1; flow at 3) | fibre across alleles, empties at 5 and 7 passing as findings | TWENTY-FIVE 2.2, arrived before the door; door record at 7.8 |",
+  "new": "| a chromatin domain at one boundary | folding code, cohesin forming, boundary insulating (state with 1; flow with 3) | fibre across alleles, empties with 5 and 7 passing as findings | TWENTY-FIVE 2.2, arrived before the door; door record with 7.8 |",
+  "verdict": "RESAY",
+  "why": "First cell is a record's name, kept as titled with TWENTY-FIVE; at: with elsewhere."
+ },
+ {
+  "old": "| a threshold at a perceiving self | limen as a line, place beneath it (state at 7 and 9) | judgments over trials | TWENTY-FIVE 2.4, arrived before the door; door record at 7.8 |",
+  "new": "| a threshold at a perceiving self | limen as a line, place beneath it (state with 7 and 9) | judgments over trials | TWENTY-FIVE 2.4, arrived before the door; door record with 7.8 |",
+  "verdict": "RESAY",
+  "why": "First cell is a record's name, kept as titled with TWENTY-FIVE; at: with elsewhere."
+ },
+ {
+  "old": "| a vacuum observed for its particles | count as a state's own, empty space (state at 1, 7, 8) | detector–field couplings | TWENTY-FIVE 2.5, arrived before the door; door record at 7.8 |",
+  "new": "| a vacuum observed for its particles | count as a state's own, empty space (state with 1, 7, 8) | detector–field couplings | TWENTY-FIVE 2.5, arrived before the door; door record with 7.8 |",
+  "verdict": "RESAY",
+  "why": "at: with; the door kept."
+ },
+ {
+  "old": "| two neutrons at one core | nuclear force binds, neutrons bound by core (flow at 3); binding as a nucleus's content (state at 6) | core and its two neutrons, at all ten, observed at 7.8 | TWENTY-FIVE 2.7 |",
+  "new": "| two neutrons at one core | nuclear force binds, neutrons bound by core (flow with 3); binding as a nucleus's content (state with 6) | core and its two neutrons, with all ten, observed with 7.8 | TWENTY-FIVE 2.7 |",
+  "verdict": "RESAY",
+  "why": "First cell is a record's name, kept as titled with TWENTY-FIVE; at: with elsewhere."
+ },
+ {
+  "old": "| three atoms at one scattering length | atoms attract, pair binds the third (flow at 3; state at 1) | three, at all ten, observed at 7.8 | TWENTY-FIVE 2.8 |",
+  "new": "| three atoms at one scattering length | atoms attract, pair binds the third (flow with 3; state with 1) | three, with all ten, observed with 7.8 | TWENTY-FIVE 2.8 |",
+  "verdict": "RESAY",
+  "why": "First cell is a record's name, kept as titled with TWENTY-FIVE; pair binds the third is a caught ghost phrase, kept; at: with elsewhere."
+ },
+ {
+  "old": "| dark matter, 5.13 | posted dark term as a substance of particles (state at 8); acceleration scale as a constant of nature (state at 9) | not passed: possibling at line 1, no member resolved; candidate under the guard, observed at 7.8 | — |",
+  "new": "| dark matter, 5.13 | posted dark term as a substance of particles (state with 8); acceleration scale as a constant of nature (state with 9) | not passed: possibling with line 1, no member resolved; candidate under the guard, observed with 7.8 | — |",
+  "verdict": "RESAY",
+  "why": "at: with; the guard kept, one only."
+ },
+ {
+  "old": "| a membrane at one potential | pump maintains, cell at rest (flow at 3, state at 2); minus seventy as a cell's own (state at 9); leak channel that leaks (8) | ion crossings at one membrane, at all ten, observed at 7.8 | TWENTY-FIVE 2.9 |",
+  "new": "| a membrane at one potential | pump maintains, cell at rest (flow with 3, state with 2); minus seventy as a cell's own (state with 9); leak channel that leaks (8) | ion crossings with one membrane, with all ten, observed with 7.8 | TWENTY-FIVE 2.9 |",
+  "verdict": "RESAY",
+  "why": "First cell is a record's name, kept as titled with TWENTY-FIVE; cell at rest is a caught ghost phrase, kept; at: with elsewhere."
+ },
+ {
+  "old": "| a node at one rate | master pacemaker cell (flow at 3), released twice by the field; intrinsic rate as a node's own (state at 2); pacemaker drives (flow at 10) | coupled cells, at all ten, observed at 7.8 | TWENTY-FIVE 2.10 |",
+  "new": "| a node at one rate | master pacemaker cell (flow with 3), dissolved twice by its field; intrinsic rate as a node's own (state with 2); pacemaker drives (flow with 10) | coupled cells, with all ten, observed with 7.8 | TWENTY-FIVE 2.10 |",
+  "verdict": "RESAY",
+  "why": "First cell is a record's name, kept as titled with TWENTY-FIVE; released by the field: dissolved by its field; at: with elsewhere."
+ },
+ {
+  "old": "| a planet at one budget | missing sink (state at 8), released into imbalance line; sink absorbs (flow at 3); budget balances (state at 9) | exchanges at surfaces, at all ten, observed at 7.8 | TWENTY-FIVE 2.11 |",
+  "new": "| a planet at one budget | missing sink (state with 8), dissolved as imbalance line; sink absorbs (flow with 3); budget balances (state with 9) | exchanges with surfaces, with all ten, observed with 7.8 | TWENTY-FIVE 2.11 |",
+  "verdict": "RESAY",
+  "why": "First cell is a record's name, kept as titled with TWENTY-FIVE; released into: dissolved as; at: with elsewhere."
+ },
+ {
+  "old": "| a ring at one boundary | species as a bounded thing with traits of its own (state at 7, 9); fitness determines, selection acts (flow at 3) | populations round ring, at all ten, observed at 7.8 | TWENTY-FIVE 2.12 |",
+  "new": "| a ring at one boundary | species as a bounded thing with traits of its own (state with 7, 9); fitness determines, selection acts (flow with 3) | populations round ring, with all ten, observed with 7.8 | TWENTY-FIVE 2.12 |",
+  "verdict": "RESAY",
+  "why": "First cell is a record's name, kept as titled with TWENTY-FIVE; at: with elsewhere."
+ },
+ {
+  "old": "| a web at one efficiency | energy flows up, chain (flow at 5, 10); ten-per-cent law, integer level (state at 9, 7); balance of nature (state at 2), released | feeding events, at all ten, observed at 7.8 | TWENTY-FIVE 2.13 |",
+  "new": "| a web at one efficiency | energy flows up, chain (flow with 5, 10); ten-per-cent law, integer level (state with 9, 7); balance of nature (state with 2), dissolved | feeding events, with all ten, observed with 7.8 | TWENTY-FIVE 2.13 |",
+  "verdict": "RESAY",
+  "why": "First cell is a record's name, kept as titled with TWENTY-FIVE; released: dissolved; at: with elsewhere."
+ },
+ {
+  "old": "| a star at one count | missing neutrinos (state at 8), the guard's Neptune, post found at a detector; the sun's surface as a place, solar constant as constant (state at 9, 2) | arrivals at detectors, at all ten, observed at 7.8 | TWENTY-FIVE 2.14 |",
+  "new": "| a star at one count | missing neutrinos (state with 8), the guard's Neptune, post found with a detector; the sun's surface as a place, solar constant as constant (state with 9, 2) | arrivals with detectors, with all ten, observed with 7.8 | TWENTY-FIVE 2.14 |",
+  "verdict": "RESAY",
+  "why": "First cell is a record's name, kept as titled with TWENTY-FIVE; the guard and the sun kept, one only; at: with elsewhere."
+ },
+ {
+  "old": "| a cosmos at one rate | the universe expands (flow at 3); constant as constant (state at 9); posted component (state at 8), candidate under the guard | galaxies and light, observed at 7.8, 3 nye and 6 empty | TWENTY-FIVE 2.15 |",
+  "new": "| a cosmos at one rate | the universe expands (flow with 3); constant as constant (state with 9); posted component (state with 8), candidate under the guard | galaxies and light, observed with 7.8, 3 nye and 6 empty | TWENTY-FIVE 2.15 |",
+  "verdict": "RESAY",
+  "why": "First cell is a record's name, kept as titled with TWENTY-FIVE; the universe and the guard kept, one only; at: with elsewhere."
+ },
+ {
+  "old": "## 7.8 Door observings — the water dimer, passed; ammonia, a self at the door; five arrivals observed after arriving",
+  "new": "## 7.8 Door observings — the water dimer, passed; ammonia, a self at the door; five arrivals observed after arriving",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "*The water dimer, passed.*",
+  "new": "*The water dimer, passed.*",
+  "verdict": "KEEP",
+  "why": "Entry title, run-in, kept exactly as a heading."
+ },
+ {
+  "old": "**The observing.** Two water molecules hydrogen-bonded, one donor and one acceptor, observed in a supersonic expansion by microwave, far-infrared and terahertz vibration-rotation-tunnelling spectroscopy; and one pair at a time on a copper surface at 6 K under a scanning tunnelling microscope.",
+  "new": "**The observing.** Two water molecules hydrogen-bonded, one donor and one acceptor, observed with a supersonic expansion by microwave, far-infrared and terahertz vibration-rotation-tunnelling spectroscopy; and one pair at a time on a copper surface at 6 K under a scanning tunnelling microscope.",
+  "verdict": "RESAY",
+  "why": "The observing is the door's named opening line, kept as in the fence; in: with; at 6 K a measurement, kept."
+ },
+ {
+  "old": "Its sum is structure — an O···O distance of 2.976 Å from 1977 beam structure (for fetch), a binding energy D₀ of 1105 ± 10 cm⁻¹, 13.2 kJ/mol, measured in 2011, and a set of rotational constants.",
+  "new": "Its sum is structure — an O···O distance of 2.976 Å from 1977 beam structure (for fetch), a binding energy D₀ of 1105 ± 10 cm⁻¹, 13.2 kJ/mol, a 2011 measurement, and a set of rotational constants.",
+  "verdict": "RESAY",
+  "why": "measured in 2011: a 2011 measurement; measurements kept."
+ },
+ {
+  "old": "Rotation–tunnelling spectrum resolves members: each rotational level splits into pattern of three exchanges, each assigned to which members swap; every isotopologue — (H₂O)₂, (D₂O)₂, the mixed ones — returns its own pattern; and at copper surface two molecules are resolved one pair at a time, exchanging roles under tip.",
+  "new": "Rotation–tunnelling spectrum resolves members: each rotational level splits as a pattern of three exchanges, each assigned to which members swap; every isotopologue — (H₂O)₂, (D₂O)₂, its mixed ones — returns its own pattern; and with a copper surface two molecules are resolved one pair at a time, exchanging roles under tip.",
+  "verdict": "RESAY",
+  "why": "into: as; the mixed: its mixed; at: with."
+ },
+ {
+  "old": "Apart, each water rotates at its own constants and tunnels nowhere.",
+  "new": "Apart, each water rotates with its own constants and tunnels nowhere.",
+  "verdict": "RESAY",
+  "why": "at: with; nowhere stands, not added."
+ },
+ {
+  "old": "Coupled, three rates arise that neither carries: an acceptor's two hydrogens exchanging, 11.18 cm⁻¹ in (H₂O)₂; donor and acceptor interchanging, 0.70 cm⁻¹; a donor's bound and free hydrogens exchanging, near 0.02 cm⁻¹ (nye).",
+  "new": "Coupled, three rates arise that neither carries: an acceptor's two hydrogens exchanging, 11.18 cm⁻¹ with (H₂O)₂; donor and acceptor interchanging, 0.70 cm⁻¹; a donor's bound and free hydrogens exchanging, near 0.02 cm⁻¹ (nye).",
+  "verdict": "RESAY",
+  "why": "in: with; measurements kept."
+ },
+ {
+  "old": "In (D₂O)₂ the same three at 1.77, 0.039 and 0.0005 cm⁻¹, each rate a coupling's, moving with members' masses.",
+  "new": "With (D₂O)₂ one same three at 1.77, 0.039 and 0.0005 cm⁻¹, each rate a coupling's, moving with members' masses.",
+  "verdict": "RESAY",
+  "why": "In: with; the same: one same; at with measured values kept as measurement."
+ },
+ {
+  "old": "A tunnelling doublet is what a two-way exchange returns: both roles both ways, one crossing at a time, three exchanges at unlike rates.",
+  "new": "A tunnelling doublet is what a two-way exchange returns: both roles both ways, one crossing at a time, three exchanges with unlike rates.",
+  "verdict": "RESAY",
+  "why": "at: with; one at a time kept."
+ },
+ {
+  "old": "A field's own word is tunnelling, a passing with no wall, and a field's own finding is that acceptor switch is a concerted motion of both monomers, not one turning while the other waits.",
+  "new": "A field's own word is tunnelling, a passing with no wall, and a field's own finding is that acceptor switch is a concerted motion of both monomers, not one turning while its other waits.",
+  "verdict": "RESAY",
+  "why": "the other: its other."
+ },
+ {
+  "old": "At interchange donor becomes acceptor and acceptor donor: parity inverts at crossing and each oxygen keeps its position.",
+  "new": "With interchange donor becomes acceptor and acceptor donor: parity inverts with crossing and each oxygen's position stands.",
+  "verdict": "RESAY",
+  "why": "At, at: with; keeps: stands, no holding."
+ },
+ {
+  "old": "Label stays on its molecule; what arrives at \"donor\" is the other water.",
+  "new": "Label stays on its molecule; what arrives with \"donor\" is its other water.",
+  "verdict": "RESAY",
+  "why": "at: with; \"donor\" quoted, kept; the other: its other."
+ },
+ {
+  "old": "At the surface exchange was watched: hydrogen-bond rearrangement between two, no atom crossing between them, sixty times faster for H₂O than D₂O.",
+  "new": "With a copper surface, exchange was watched: hydrogen-bond rearrangement between two, no atom crossing between them, sixty times faster for H₂O than D₂O.",
+  "verdict": "RESAY",
+  "why": "At the surface: with a copper surface."
+ },
+ {
+  "old": "Each water apart binds nothing; pair binds by 1105 cm⁻¹ at coupling, and tunnelling spectrum has no monomer analogue.",
+  "new": "Each water apart binds nothing; pair binds by 1105 cm⁻¹ with coupling, and tunnelling spectrum has no monomer analogue.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Abundancing exceeds each and their sum and is owned by neither; a field's own name for shared thing is hydrogen bond, a donor and an acceptor, neither the owner.",
+  "new": "Abundancing exceeds each and their sum and is owned by neither; a field's own name for shared thing is hydrogen bond, a donor and an acceptor, neither its owner.",
+  "verdict": "RESAY",
+  "why": "the owner: its owner."
+ },
+ {
+  "old": "Interchange path passes through a configuration in which two waters are equivalent and neither is donor — occupied at no level, position no member occupies.",
+  "new": "Interchange path passes through a configuration with two waters equivalent and neither donor — occupied by no level, a position no member occupies.",
+  "verdict": "RESAY",
+  "why": "in which: with; at no level: by no level."
+ },
+ {
+  "old": "One grain down, bonded hydrogen: at bifurcation a donor's two hydrogens exchange role, and \"the bonded hydrogen\" is carried by neither.",
+  "new": "One grain down, bonded hydrogen: with bifurcation a donor's two hydrogens exchange role, and \"the bonded hydrogen\" is carried by neither.",
+  "verdict": "RESAY",
+  "why": "at: with; \"the bonded hydrogen\" quoted, kept."
+ },
+ {
+  "old": "Levels fit no rigid rotor; record carries tunnelling splittings, large-amplitude motion, vibrationally averaged structure and effective constants, in cm⁻¹ and GHz, open, and potential surfaces are graded against them.",
+  "new": "Levels fit no rigid rotor; record carries tunnelling splittings, large-amplitude motion, vibrationally averaged structure and effective constants, as cm⁻¹ and GHz, open, and potential surfaces are graded against them.",
+  "verdict": "RESAY",
+  "why": "in: as; vibrationally averaged a field's own term, kept."
+ },
+ {
+  "old": "Drive pair with energy and it releases at D₀, a bound of its own.",
+  "new": "Drive pair with energy and it comes apart at D₀, a bound of its own.",
+  "verdict": "RESAY",
+  "why": "releases: comes apart, by meaning; at D₀ a measured value, kept."
+ },
+ {
+  "old": "Substitute D for H and every tunnelling rate thins at its own mass.",
+  "new": "Substitute D for H and every tunnelling rate thins with its own mass.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Releasing one water from ring costs 2650 ± 150 cm⁻¹, measured in 2013, against 2210 for two pair bonds: excess is a field's own nonpairwise term, its word for it cooperativity, owned by none of the three.",
+  "new": "Parting one water from ring costs 2650 ± 150 cm⁻¹, a 2013 measurement, against 2210 for two pair bonds: excess is a field's own nonpairwise term, its word for it cooperativity, owned by none of its three.",
+  "verdict": "RESAY",
+  "why": "Releasing: parting; measured in 2013: a 2013 measurement; the three: its three."
+ },
+ {
+  "old": "Nothing is installed at field side: donor and acceptor are roles taken one at a time and swapped, and a field's own sentences carry swap.",
+  "new": "Nothing is installed with field side: donor and acceptor are roles taken one at a time and swapped, and a field's own sentences carry swap.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Bond as a connector object stands at controls at 6.1 and is not caught here.",
+  "new": "Bond as a connector object stands among controls, 6.1, and is not caught here.",
+  "verdict": "RESAY",
+  "why": "at: among; at 6.1: 6.1."
+ },
+ {
+  "old": "**Passed · to TWENTY-FIVE**, the first passing through the door, arriving at TWENTY-FIVE 2.6.",
+  "new": "**Passed · to TWENTY-FIVE**, the first passing through the door, arriving as TWENTY-FIVE 2.6.",
+  "verdict": "RESAY",
+  "why": "the first kept, an only first; the door kept; at: as."
+ },
+ {
+  "old": "*Ammonia, a self at the door.*",
+  "new": "*Ammonia, a self at the door.*",
+  "verdict": "KEEP",
+  "why": "Entry title, run-in, kept exactly as a heading."
+ },
+ {
+  "old": "*The control. A self coming to its own two parities again, both ways, observed for where the door parts a self from a society.*",
+  "new": "*A control. A self coming to its own two parities again, both ways, observed for where a self parts from a same-existing-society with the door.*",
+  "verdict": "RESAY",
+  "why": "The control: a control; the door parting (a doer) re-said as a self parting with the door; society: same-existing-society. where stands, not added."
+ },
+ {
+  "old": "**The observing.** One ammonia molecule, a nitrogen above a triangle of three hydrogens, observed by microwave spectroscopy: nitrogen passes through plane of triangle and back, and every rotational level stands as a doublet, 0.79 cm⁻¹ apart in ground vibrational state, near 24 GHz — the first microwave spectrum, in 1934, the first maser, in 1954, and the first atomic clock.",
+  "new": "**The observing.** One ammonia molecule, a nitrogen above a triangle of three hydrogens, observed by microwave spectroscopy: nitrogen passes through plane of triangle and back, and every rotational level stands as a doublet, 0.79 cm⁻¹ apart with ground vibrational state, near 24 GHz — the first microwave spectrum, 1934, the first maser, 1954, and the first atomic clock.",
+  "verdict": "RESAY",
+  "why": "The observing kept as the door's named line; in: with; in 1934, in 1954: 1934, 1954; the first kept, an only first."
+ },
+ {
+  "old": "Coupled, one rate arises that no atom carries, and it moves as each member is replaced: 0.79 cm⁻¹ for NH₃, near 0.4 for NH₂D, near 0.17 for NHD₂, near 0.05 for ND₃ (nye at the mixed values).",
+  "new": "Coupled, one rate arises that no atom carries, and it moves as each member is replaced: 0.79 cm⁻¹ for NH₃, near 0.4 for NH₂D, near 0.17 for NHD₂, near 0.05 for ND₃ (nye with its mixed values).",
+  "verdict": "RESAY",
+  "why": "at the: with its."
+ },
+ {
+  "old": "Through plane and back, one crossing at a time, and nitrogen is found in plane at no level: doublet is two-way, and a field's word for passing with no wall is tunnelling.",
+  "new": "Through plane and back, one crossing at a time, and no level places nitrogen on plane: doublet is two-way, and a field's word for passing with no wall is tunnelling.",
+  "verdict": "RESAY",
+  "why": "found in plane at no level: no level places nitrogen on plane."
+ },
+ {
+  "old": "Dipole reverses at every crossing while hydrogens keep their positions, and reversal is what the field reads: Stark effect separates the two, and maser is built on separation.",
+  "new": "Dipole reverses with every crossing while hydrogens' positions stand, and reversal is what a field's instruments read: Stark effect separates its two, and maser is built on separation.",
+  "verdict": "RESAY",
+  "why": "at: with; keep: stand; the field reading (a doer): a field's instruments read; the two: its two."
+ },
+ {
+  "old": "Label arrives on the other side of plane: nitrogen itself crosses.",
+  "new": "Label arrives on plane's other side: nitrogen itself crosses.",
+  "verdict": "RESAY",
+  "why": "the other side: plane's other side."
+ },
+ {
+  "old": "This is the line at which a self parts from a society.",
+  "new": "With this line a self parts from a same-existing-society.",
+  "verdict": "RESAY",
+  "why": "the line at which: with this line; society: same-existing-society."
+ },
+ {
+  "old": "Water dimer above is observed is here because a role passes and no atom does; ammonia is observed is-not because the atom is what passes.",
+  "new": "Water dimer above is observed is here because a role passes and no atom does; ammonia is observed is-not because its atom is what passes.",
+  "verdict": "RESAY",
+  "why": "the atom: its atom."
+ },
+ {
+  "old": "Doublet has no analogue in parts; it is a coupling's own.",
+  "new": "No part has a doublet analogue; it is a coupling's own.",
+  "verdict": "RESAY",
+  "why": "in parts: re-said by meaning."
+ },
+ {
+  "old": "Planar configuration, nitrogen at centre of triangle, occupied at no level.",
+  "new": "Planar configuration, nitrogen with triangle's centre, occupied by no level.",
+  "verdict": "RESAY",
+  "why": "at: with, by."
+ },
+ {
+  "old": "Record carries inversion splitting as a parameter beside rigid-rotor constants, and its hyperfine structure, in cm⁻¹ and MHz, open.",
+  "new": "Record carries inversion splitting as a parameter beside rigid-rotor constants, and its hyperfine structure, as cm⁻¹ and MHz, open.",
+  "verdict": "RESAY",
+  "why": "in: as."
+ },
+ {
+  "old": "In a strong enough electric field doublet collapses and nitrogen is held on one side; substitute deuterium and rate thins at its own mass; in crystal hydrogen bonds close tunnel (nye).",
+  "new": "With a strong enough electric field doublet collapses and nitrogen stays localized on one side; substitute deuterium and rate thins with its own mass; with crystal, hydrogen bonds close tunnel (nye).",
+  "verdict": "RESAY",
+  "why": "In: with; is held: stays localized, no holding; at: with."
+ },
+ {
+  "old": "Observed **is** at dimer, record for which stands separately.",
+  "new": "Observed **is** with dimer, its record standing separately.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Line 5 is observed is-not with nothing installed: nitrogen crosses, in a field's own words.",
+  "new": "Line 5 is observed is-not with nothing installed: nitrogen crosses, by a field's own words.",
+  "verdict": "RESAY",
+  "why": "in: by."
+ },
+ {
+  "old": "**Self · at the door.** Four torusing lines — 3, 4, 6, 9 — fill; coupling at 5 is a self's own two parities coming again, self through self and no other.",
+  "new": "**Self · at the door.** Four torusing lines — 3, 4, 6, 9 — fill; coupling with 5 is a self's own two parities coming again, self through self and no other.",
+  "verdict": "RESAY",
+  "why": "at 5: with 5. Self · at the door is the standing's name, kept as asked at 7.7."
+ },
+ {
+  "old": "The door has parted a self from a society at one line returnable at instrument, label, without a magnitude and without an installation, which is what the control was for.",
+  "new": "A self has parted from a same-existing-society with one door line, returnable by instrument, label, without a magnitude and without an installation, which is what this control was for.",
+  "verdict": "RESAY",
+  "why": "The door parting (a doer) re-said as a self parting; society: same-existing-society; at: with, by; the control: this control."
  }
 ]

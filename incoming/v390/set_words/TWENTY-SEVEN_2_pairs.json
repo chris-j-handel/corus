@@ -1054,5 +1054,215 @@
   "new": "with mechanism, isotope, window and resolution attached.",
   "verdict": "RESAY",
   "why": "keeping: with, by meaning."
+ },
+ {
+  "old": "## 5.9 Element",
+  "new": "## 5.9 Element",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**The observing.** A proton count, addresses, substances",
+  "new": "**The observing.** A proton count, addresses, substances",
+  "verdict": "KEEP",
+  "why": "Door form label, one observing per entry, kept."
+ },
+ {
+  "old": "One count resolves into many nuclides, allotropes and states.",
+  "new": "One count resolves as many nuclides, allotropes and states.",
+  "verdict": "RESAY",
+  "why": "into: as."
+ },
+ {
+  "old": "Each nuclide decays at its own rate under one address.",
+  "new": "Each nuclide decays with its own rate under one address.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "One count carries opposite parities at different couplings.",
+  "new": "One count carries opposite parities with different couplings.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Count arrives exactly through every compound: a conserved label, accounting at chemical between.",
+  "new": "Count arrives exactly through every compound: a conserved label, accounting with a chemical between.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "where exceptions are discarded to keep table perfect",
+  "new": "where exceptions are discarded so a table stays perfect",
+  "verdict": "RESAY",
+  "why": "keep: stays, by meaning."
+ },
+ {
+  "old": "Z changes at nuclear coupling; a conservation's between is the chemical one.",
+  "new": "Z shifts with nuclear coupling; a conservation's between is a chemical one.",
+  "verdict": "RESAY",
+  "why": "changes, a count: shifts; at: with; the: a."
+ },
+ {
+  "old": "**Observed.** Fails at 2, 6, 7, 8 and 9 — **state**; and at 3 and 10 — bonder, source — **flow**.",
+  "new": "**Observed.** Fails with 2, 6, 7, 8 and 9 — **state**; and with 3 and 10 — bonder, source — **flow**.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Count and addresses stand as accounting at 5 and 10 with nothing installed, as 6.2 already places them.",
+  "new": "Count and addresses stand as accounting with 5 and 10, nothing installed, as already placed with 6.2.",
+  "verdict": "RESAY",
+  "why": "at: with; a section placing, a doer: re-said as already placed."
+ },
+ {
+  "old": "as a cause the table installs, or as a thing conserved beyond a between its conservation was declared under.",
+  "new": "as a cause a table installs, or as a thing conserved past a between its conservation was declared under.",
+  "verdict": "RESAY",
+  "why": "the: a; beyond: past. a table installs is the installation's own grammar, G13."
+ },
+ {
+  "old": "Confirmed · natural register at those installations. Accounting at natural side, count and address, chemistry made at couplings. Atomic number as proton count, class, addresses, and a field's two senses of word remain in chemistry record.",
+  "new": "Confirmed · natural register with those installations. Accounting on natural side, count and address, chemistry made with couplings. Atomic number as proton count, class, addresses, and a field's two senses of word remain as chemistry record.",
+  "verdict": "RESAY",
+  "why": "at: with, on; in: as."
+ },
+ {
+  "old": "Nucleus and electrons at atom; atoms at molecule and substance; table, nomenclature, and chartered body.",
+  "new": "Nucleus and electrons with an atom; atoms with molecule and substance; table, nomenclature, and chartered body.",
+  "verdict": "RESAY",
+  "why": "at: with. Label before it kept pending the label ASK at 5.4."
+ },
+ {
+  "old": "Both, state first: stability, interior and absolute conservation at 2, 6, 7, 8, 9; bonder and source at 3 and 10.",
+  "new": "Both, state first: stability, interior and absolute conservation with 2, 6, 7, 8, 9; bonder and source with 3 and 10.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "The field defines element in two senses under one word, a species of atoms with the same number of protons and pure substance composed of such atoms, Paneth's basic substance and simple substance.",
+  "new": "The field defines element in two senses under one word, a species of atoms with the same number of protons and pure substance composed of such atoms, Paneth's basic substance and simple substance.",
+  "verdict": "KEEP",
+  "why": "Field account, a field's own definition in its own words."
+ },
+ {
+  "old": "few-atom syntheses of the heaviest elements;",
+  "new": "few-atom syntheses of the heaviest elements;",
+  "verdict": "KEEP",
+  "why": "Field observings retained, a field's own words."
+ },
+ {
+  "old": "Stoichiometry, atomic weights, conservation of elements across chemical change, periodic table, nomenclature.",
+  "new": "Stoichiometry, atomic weights, conservation of elements across chemical change, periodic table, nomenclature.",
+  "verdict": "KEEP",
+  "why": "chemical change is chemistry's own term in its own sense."
+ },
+ {
+  "old": "Nuclei and electron density couple; atoms ionize, bond and exchange; nuclides transmute; substances form and re-form.",
+  "new": "Nuclei and electron density couple; atoms ionize, bond and exchange; nuclides transmute; substances form and re-form.",
+  "verdict": "KEEP",
+  "why": "Living changing label kept pending the label ASK at 5.4; sentence carries no word to re-say."
+ },
+ {
+  "old": "One proton count; one name; one place in table; a set of properties written under its name.",
+  "new": "One proton count; one name; one place within a table; a set of properties written under its name.",
+  "verdict": "RESAY",
+  "why": "in, a place a part within its table: within."
+ },
+ {
+  "old": "Z changing at nuclear coupling, so conservation is exact under chemical between and refused past it.",
+  "new": "Z shifting with nuclear coupling, so conservation is exact under chemical between and refused past it.",
+  "verdict": "RESAY",
+  "why": "changing, a count: shifting; at: with."
+ },
+ {
+  "old": "Group three, an address the elements decide no cut for.",
+  "new": "Group three, an address with no cut among its elements.",
+  "verdict": "RESAY",
+  "why": "elements deciding, a doer: re-said as no cut among them; the: its."
+ },
+ {
+  "old": "(1) Nuclei, electrons, atoms and nuclides couple and change.",
+  "new": "(1) Nuclei, electrons, atoms and nuclides couple and re-form.",
+  "verdict": "RESAY",
+  "why": "change, no parity named: re-form."
+ },
+ {
+  "old": "undecided cut remain the riding-the-carry installed class leaves uncarried.",
+  "new": "undecided cut remain riding-the-carry, uncarried by an installed class.",
+  "verdict": "RESAY",
+  "why": "the: removed; riding-the-carry, a kept naming, kept. the heaviest elements kept, one only within its set."
+ },
+ {
+  "old": "Premature closure where count is the whole chemistry.",
+  "new": "Premature closure where count is taken as all of chemistry.",
+  "verdict": "RESAY",
+  "why": "the: re-said by meaning, all of."
+ },
+ {
+  "old": "Tradition blocking where a table's form is kept fixed against a field's own report.",
+  "new": "Tradition blocking where a table's form stands fixed against a field's own report.",
+  "verdict": "RESAY",
+  "why": "kept: stands, nothing held."
+ },
+ {
+  "old": "Interior-reaching at properties within count. Store-seeking at bearer beneath compounds. Line-demanding at a table's cut.",
+  "new": "Interior-reaching with properties within count. Store-seeking with a bearer beneath compounds. Line-demanding with a table's cut.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "At betweens: atom to atom at bond, substance to conditions, nuclide to nuclear coupling, count to table and chartered body.",
+  "new": "Across betweens: atom to atom with a bond, substance to conditions, nuclide to nuclear coupling, count to table and chartered body.",
+  "verdict": "RESAY",
+  "why": "at: across, an eight-side's across sides; with. Label before it kept pending the label ASK at 5.4."
+ },
+ {
+  "old": "or a chemical change in which Z is conserved by a count's own nature rather than by a between declared.",
+  "new": "or a chemical change with Z conserved by a count's own nature rather than by a between declared.",
+  "verdict": "RESAY",
+  "why": "in: with. chemical change, chemistry's own term, kept."
+ },
+ {
+  "old": "TWENTY-TWO 10.23. Beyond, for fetch: IUPAC Gold Book entry for chemical element in its two senses, definition or standard;",
+  "new": "TWENTY-TWO 10.23. Field, for fetch: IUPAC Gold Book entry for chemical element with its two senses, definition or standard;",
+  "verdict": "RESAY",
+  "why": "beyond: Field, the side its sources stand on, as Living names living files; in: with. Citation kept."
+ },
+ {
+  "old": "Paneth, *The epistemological status of the chemical concept of element* (British Journal for the Philosophy of Science, 1962, from 1931 lecture), history;",
+  "new": "Paneth, *The epistemological status of the chemical concept of element* (British Journal for the Philosophy of Science, 1962, from 1931 lecture), history;",
+  "verdict": "KEEP",
+  "why": "Title of an outside work and its journal, kept."
+ },
+ {
+  "old": "Carbon at Natural Chemistry 1.6, bounding-zeroing, a wrapped nothing couplings surround, and interior posited within the nothing an accounting's own positing (Natural Numbers 6.10).",
+  "new": "Carbon with Natural Chemistry 1.6, bounding-zeroing, a wrapped nothing couplings surround, and interior posited within that nothing an accounting's own positing (Natural Numbers 6.10).",
+  "verdict": "RESAY",
+  "why": "at: with; the: that."
+ },
+ {
+  "old": "Two senses of word, kept apart by a field's own philosophers; properties measured at substances and conditions rather than at count;",
+  "new": "Two senses of word, told apart by a field's own philosophers; properties measured with substances and conditions rather than with count;",
+  "verdict": "RESAY",
+  "why": "kept apart: told apart, by meaning; at: with. Label before it kept pending the label ASK at 5.4."
+ },
+ {
+  "old": "Chemistry at 1.6, 4.3, 4.4, 4.6. Numbers at 6.10. Naming at a class noun installed as a doer.",
+  "new": "Chemistry with 1.6, 4.3, 4.4, 4.6. Numbers with 6.10. Naming with a class noun installed as a doer.",
+  "verdict": "RESAY",
+  "why": "at: with. doer kept: it names an installation diagnosed."
+ },
+ {
+  "old": "Element enters as the plainest accounting ghost at chemistry, beside entropy at thermodynamics: a count installed as a self.",
+  "new": "Element enters as the plainest accounting ghost with chemistry, beside entropy with thermodynamics: a count installed as a self.",
+  "verdict": "RESAY",
+  "why": "at: with. the plainest, one only within its set, kept."
+ },
+ {
+  "old": "One element across its allotropes and oxidation states with every property at substance and conditions it was measured at, and what, if anything, is left written under count only.",
+  "new": "One element across its allotropes and oxidation states, each property with its substance and conditions of measuring, and what, if anything, is left written under count only.",
+  "verdict": "RESAY",
+  "why": "at: with, by meaning. what kept from the sentence, not added."
  }
 ]

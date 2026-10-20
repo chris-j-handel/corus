@@ -301,15 +301,15 @@
  },
  {
   "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** A flow carries on and smoothness is fixed for all time from all initial data, with a model fixed as fluid at each scale.",
-  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** A flow carries on and smoothness is fixed for all time from all initial data, with a model fixed as fluid with each scale.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** A flow carries on and smoothness is fixed for all time from all initial data, with a model fixed as fluid for each scale.",
   "verdict": "RESAY",
-  "why": "at, place: with, as for 14 and each sharing; status line and label re-said alike, + or − with 10-next-co-possibling, its parity-offering across; at each scale: with each scale"
+  "why": "at, place: with, as for 14 and each sharing; status line and label re-said alike, + or − with 10-next-co-possibling, its parity-offering across; at each scale: for each scale"
  },
  {
   "old": "**At 12-next-co-same-existing.** That equations describe fluid at each scale, so a question about all time is well posed of fluid rather than of a model,",
-  "new": "**With 12-next-co-same-existing.** That equations describe fluid with each scale, so a question about all time is well posed of fluid rather than of a model,",
+  "new": "**With 12-next-co-same-existing.** That equations describe fluid for each scale, so a question about all time is well posed of fluid rather than of a model,",
   "verdict": "RESAY",
-  "why": "at, place: with, a label naming 12-next-co-same-existing; at each scale: with each scale"
+  "why": "at, place: with, a label naming 12-next-co-same-existing; at each scale: for each scale"
  },
  {
   "old": "its obstruction supercriticality, a priori bounds not scale-invariant in three dimensions",
@@ -1171,9 +1171,9 @@
  },
  {
   "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** A graph is colored vertex by vertex at its own couplings, and colors needed are fixed bounded ahead by a minor its graph does not have, one bound for each graph of each size.",
-  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** A graph is colored vertex by vertex by its own couplings, and colors needed are fixed bounded ahead by a minor its graph does not have, one bound for each graph of each size.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** A graph is colored vertex by vertex with its own couplings, and colors needed are fixed bounded ahead by a minor its graph does not have, one bound for each graph of each size.",
   "verdict": "RESAY",
-  "why": "at, place: with, as for 14 and each sharing; status line and label re-said alike, + or − with 10-next-co-possibling, its parity-offering across; at its own couplings: by"
+  "why": "at, place: with, as for 14 and each sharing; status line and label re-said alike, + or − with 10-next-co-possibling, its parity-offering across; at its own couplings: with"
  },
  {
   "old": "**At 12-next-co-same-existing.** A last fixed over all graphs and all t.",
@@ -1210,5 +1210,89 @@
   "new": "and bounds close on its conjecture power by power of a logarithm, each theorem a momentarying measured exactly with its own hypotheses.",
   "verdict": "RESAY",
   "why": "one power of a logarithm at a time: power by power; at its own hypotheses: with"
+ },
+ {
+  "old": "total-evidence views weigh both orders and require a reliability assessment that does not beg the question,",
+  "new": "total-evidence views weigh both orders and require a reliability assessment that does not beg the question,",
+  "verdict": "KEEP",
+  "why": "a field's own record; beg the question, its own idiom, kept"
+ },
+ {
+  "old": "negation of the uniformity principle no contradiction and any probable argument for it proceeding on the supposition it is meant to establish.",
+  "new": "negation of the uniformity principle no contradiction and any probable argument for it proceeding on the supposition it is meant to establish.",
+  "verdict": "KEEP",
+  "why": "Hume's own words and his named principle, kept with their the"
+ },
+ {
+  "old": "the largest project reporting under several criteria at once, significance, interval coverage, subjective rating and a combined estimate, criteria giving different rates for the same hundred studies, establishing of a replication varying with a criterion.",
+  "new": "the largest project reporting under several criteria at once, significance, interval coverage, subjective rating and a combined estimate, criteria giving different rates for the same hundred studies, establishing of a replication varying with a criterion.",
+  "verdict": "KEEP",
+  "why": "a field's own record of one project and its measurements, kept as written"
+ },
+ {
+  "old": "an attempt requiring notion of truth and reaching a conclusion that arithmetical truth cannot be defined in arithmetic.",
+  "new": "an attempt requiring notion of truth and reaching a conclusion that arithmetical truth cannot be defined in arithmetic.",
+  "verdict": "KEEP",
+  "why": "Tarski's own result in its own words, kept"
+ },
+ {
+  "old": "a convergence resolution assuming a run broken into an infinite series that can be summed,",
+  "new": "a convergence resolution assuming a run broken into an infinite series that can be summed,",
+  "verdict": "KEEP",
+  "why": "a field's own words of its resolution, kept"
+ },
+ {
+  "old": "a system not integrable in general and its orbits chaotic,",
+  "new": "a system not integrable in general and its orbits chaotic,",
+  "verdict": "KEEP",
+  "why": "a field's own term, not integrable in general, kept"
+ },
+ {
+  "old": "and only a dynamic approach admitting random events able to examine cumulating of historical events toward one outcome,",
+  "new": "and only a dynamic approach admitting random events able to examine cumulating of historical events toward one outcome,",
+  "verdict": "KEEP",
+  "why": "random events: Arthur's own term in its own sense, a field's record, kept"
+ },
+ {
+  "old": "classical bounds vacuous at practical scale and a correction by an optimiser's implicit bias argued insufficient in principle,",
+  "new": "classical bounds vacuous at practical scale and a correction by an optimiser's implicit bias argued insufficient in principle,",
+  "verdict": "KEEP",
+  "why": "a field's own record and words, kept"
+ },
+ {
+  "old": "and each even number is at least a prime and a near-prime.",
+  "new": "and each even number is at least a prime and a near-prime.",
+  "verdict": "KEEP",
+  "why": "a field's own result; at least, a measure, not a place or time, kept"
+ },
+ {
+  "old": "unless constructed with a built-in bias.",
+  "new": "unless constructed with a built-in bias.",
+  "verdict": "KEEP",
+  "why": "a field's own words, built-in its own, kept"
+ },
+ {
+  "old": "so that first appearance in a record does not date divergence.",
+  "new": "so that first appearance in a record does not date divergence.",
+  "verdict": "KEEP",
+  "why": "first appearance in a record: a field's own term, kept"
+ },
+ {
+  "old": "both positive and normative issues remaining to be studied, one comparison naming asks for parted into four.",
+  "new": "both positive and normative issues remaining to be studied, one comparison naming asks for parted four ways.",
+  "verdict": "RESAY",
+  "why": "into four: four ways; issues remaining to be studied, a field's own words, kept"
+ },
+ {
+  "old": "and its solution resting on Ricci flow and proving the geometrisation conjecture of which it is a special case.",
+  "new": "and its solution resting on Ricci flow and proving the geometrisation conjecture of which it is a special case.",
+  "verdict": "KEEP",
+  "why": "the geometrisation conjecture: a field's own title, kept"
+ },
+ {
+  "old": "machines conforming to the actual world's laws or any machine that could exist, under the latter of which it is false since notional hypercomputers are straightforward to describe.",
+  "new": "machines conforming to the actual world's laws or any machine that could exist, under the latter of which it is false since notional hypercomputers are straightforward to describe.",
+  "verdict": "KEEP",
+  "why": "a field's own words, the actual world and the latter, kept"
  }
 ]

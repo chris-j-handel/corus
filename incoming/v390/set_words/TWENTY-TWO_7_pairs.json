@@ -433,9 +433,9 @@
  },
  {
   "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** A magnetotail stores and releases at its own couplings, current disruption near and reconnection far, and an onset is fixed to one causal order between two, one first and an other after.",
-  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** A magnetotail stores and releases with its own couplings, current disruption near and reconnection far, and an onset is fixed to one causal order between two, one first and an other after.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** A magnetotail loads and unloads with its own couplings, current disruption near and reconnection far, and an onset is fixed to one causal order between two, one first and an other after.",
   "verdict": "RESAY",
-  "why": "verdict line and 2's label: + or − with 10, as 10 carries each sharing's parity-offering; at its own couplings becomes with; 'stores and releases' is a field's own term in its own sense (a magnetotail's energy loading and unloading), kept."
+  "why": "verdict line and 2's label: + or − with 10, as 10 carries each sharing's parity-offering; at its own couplings becomes with; nothing is held or released, so 'stores and releases' becomes loads and unloads, a field's own term for a magnetotail's substorm cycle."
  },
  {
   "old": "**At 12-next-co-same-existing.** An order fixed between two couplings instruments reach at different cadences.",
@@ -754,5 +754,359 @@
   "new": "Selection can repeatedly favour similar functions while mutation, contingency, drift and changing environments alter accessible paths,",
   "verdict": "KEEP",
   "why": "a field's own words (changing environments), quoted at Hard Problem Registry, kept."
+ },
+ {
+  "old": "Value reached for is swaying about it, and next coupling beats in an opening a straddle makes.*",
+  "new": "Value reached for is swaying about it, and next coupling beats with an opening a straddle makes.*",
+  "verdict": "RESAY",
+  "why": "subtitle line in italics, not a heading: 'beats in an opening' becomes beats with an opening."
+ },
+ {
+  "old": "**Each value in this part is a swaying fixed to settle**, and sway is observed three ways across arrivals: a living measure swaying between two antagonistic offerings, a rate swaying under two couplings at once, and a parameter swaying under all that couples to it.",
+  "new": "**Each value of this part is a swaying fixed to settle**, and sway is observed three ways across arrivals: a living measure swaying between two antagonistic offerings, a rate swaying under two couplings together, and a parameter swaying under all that couples to it.",
+  "verdict": "RESAY",
+  "why": "a bold lead-in, not a heading: 'in this part' becomes of this part; at once becomes together."
+ },
+ {
+  "old": "Where a field reaches past its instruments for value, it reaches with a measure over might-have-beens, and that measure is one thing no instrument in this part has given.",
+  "new": "Where a field reaches past its instruments for value, it reaches with a measure over might-have-beens, and that measure is one thing no instrument of this part has given.",
+  "verdict": "RESAY",
+  "why": "'in this part' becomes of this part."
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** A variable sways between two offerings and is fixed for a target that settles, fixed or predicted.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** A variable sways between two offerings and is fixed for a target that settles, fixed or predicted.",
+  "verdict": "RESAY",
+  "why": "verdict line and 2's label: + or − with 10, as 10 carries each sharing's parity-offering; nothing else to re-say."
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** Regulation fixed toward a value, cyberneticists' reading of a broader vision.",
+  "new": "**With 12-next-co-same-existing.** Regulation fixed toward a value, cyberneticists' reading of a broader vision.",
+  "verdict": "RESAY",
+  "why": "label: with 12, each sharing's is or is not; nothing else to re-say."
+ },
+ {
+  "old": "Both showings fit each trajectory alike, so differing surfaces nought at each: trajectories are one sway observed twice, the two not competing models but complementary aspects of regulation.",
+  "new": "Both showings fit each trajectory alike, so differing surfaces nought with each: trajectories are one sway observed twice, the two not competing models but complementary aspects of regulation.",
+  "verdict": "RESAY",
+  "why": "at each becomes with each; 'the two not competing models but complementary aspects of regulation' is a field's own words, quoted at Hard Problem Registry, kept."
+ },
+ {
+  "old": "**At 11-next-co-observing.** Range is coupling's own making and no stored value it aims at, two antagonistic offerings swaying and oscillation its working state.",
+  "new": "**With 11-next-co-observing.** Range is coupling's own making and no stored value it aims for, two antagonistic offerings swaying and oscillation its working state.",
+  "verdict": "RESAY",
+  "why": "label: with 11, a next prior forming; 'aims at' becomes aims for."
+ },
+ {
+  "old": "Circuits that compare are real at their finding, a body warms before a meal and quickens before an effort, and letting a setpoint move absorbs anticipating at a price of any settling at all, in movers' own critics' words.",
+  "new": "Circuits that compare are real with their finding, a body warms before a meal and quickens before an effort, and letting a setpoint move absorbs anticipating for a price of any settling at all, as movers' own critics say.",
+  "verdict": "RESAY",
+  "why": "at their finding becomes with; 'at a price' becomes for a price; 'at all' kept; 'in movers' own critics' words' becomes as movers' own critics say."
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** Rotation, mass and law carry on together at each scale's couplings, and discrepancy is fixed for a value, a substance or a modification.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** Rotation, mass and law carry on together with each scale's couplings, and discrepancy is fixed for a value, a substance or a modification.",
+  "verdict": "RESAY",
+  "why": "verdict line and 2's label: + or − with 10, as 10 carries each sharing's parity-offering; at each scale's couplings becomes with."
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** Riding fixed as produced by one of two, identifiable by measurement.",
+  "new": "**With 12-next-co-same-existing.** Riding fixed as produced by one of two, identifiable by measurement.",
+  "verdict": "RESAY",
+  "why": "label: with 12, each sharing's is or is not; nothing else to re-say."
+ },
+ {
+  "old": "and each null bounds a parameter without parting the two:",
+  "new": "and each null bounds a parameter without parting substance from modification:",
+  "verdict": "RESAY",
+  "why": "'the two' re-said by meaning as substance and modification, the two 2's line names."
+ },
+ {
+  "old": "**At 11-next-co-observing.** Rotation, mass and law ride together and settle at no value.",
+  "new": "**With 11-next-co-observing.** Rotation, mass and law ride together and settle on no value.",
+  "verdict": "RESAY",
+  "why": "label: with 11, a next prior forming; 'settle at' becomes settle on."
+ },
+ {
+  "old": "a size fixed of riding is riding fixed unchangeable, and riding, observed directly, is momentarying there.",
+  "new": "a size fixed of riding is riding fixed still, a form that cannot parity-change, and riding, observed directly, is momentarying there.",
+  "verdict": "RESAY",
+  "why": "'unchangeable', a form of changing, re-said as settled: a not-changing fixed still, a form that cannot parity-change."
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** A parameter sways and is fixed for a value against a measure over its might-have-beens.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** A parameter sways and is fixed for a value against a measure over its might-have-beens.",
+  "verdict": "RESAY",
+  "why": "verdict line and 2's label: + or − with 10, as 10 carries each sharing's parity-offering; nothing else to re-say."
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A value far from typical under an assumed measure fixed to call for explanation,",
+  "new": "**With 12-next-co-same-existing.** A value far from typical under an assumed measure fixed to call for explanation,",
+  "verdict": "RESAY",
+  "why": "label: with 12, each sharing's is or is not; nothing else to re-say in these words."
+ },
+ {
+  "old": "Measure is over not possible existings, and it surfaces nought at each instrument.",
+  "new": "Measure is over might-have-beens not possibly existing, and it surfaces nought with each instrument.",
+  "verdict": "RESAY",
+  "why": "'not possible existings' becomes the kept phrase not possibly existing, its might-have-beens named as 2's line names them; at each becomes with each."
+ },
+ {
+  "old": "**At 11-next-co-observing.** A parameter sways and swaying sits below one part in ten billion, bound a measured thing.",
+  "new": "**With 11-next-co-observing.** A parameter sways and swaying sits below one part in ten billion, bound a measured thing.",
+  "verdict": "RESAY",
+  "why": "label: with 11, a next prior forming; 'one part in ten billion' is a field's measurement, kept."
+ },
+ {
+  "old": "Easy escape fell to lattice, proposed fields empty their spaces, and built mechanisms stand at their stated costs: a value fixed against a measure over might-have-beens fixes swaying to a stipulation, and instruments give a bound, swaying observed at its own edge.",
+  "new": "Easy escape fell to lattice, proposed fields empty their spaces, and built mechanisms stand with their stated costs: a value fixed against a measure over might-have-beens fixes swaying to a stipulation, and instruments give a bound, swaying observed with its own edge.",
+  "verdict": "RESAY",
+  "why": "at their stated costs and at its own edge become with."
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** Returns sway across states that occurred and states that did not, and premium is fixed for a value a preference parameter should reproduce.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** Returns sway across states that occurred and states that did not, and premium is fixed for a value a preference parameter should reproduce.",
+  "verdict": "RESAY",
+  "why": "verdict line and 2's label: + or − with 10, as 10 carries each sharing's parity-offering; nothing else to re-say."
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** Historical returns fixed to estimate an expected premium one representative agent's parameters generate,",
+  "new": "**With 12-next-co-same-existing.** Historical returns fixed to estimate an expected premium one representative agent's parameters generate,",
+  "verdict": "RESAY",
+  "why": "label: with 12, each sharing's is or is not; nothing else to re-say in these words."
+ },
+ {
+  "old": "States that did not occur offer at no momentary, and disasters that reproduce premium borrow their rates from other countries' histories, might-have-beens imported to balance the was.",
+  "new": "States that did not occur offer with no momentary, and disasters that reproduce premium borrow their rates from other countries' histories, might-have-beens imported to balance a record that was.",
+  "verdict": "RESAY",
+  "why": "at no momentary becomes with no momentary; 'the was' becomes a record that was."
+ },
+ {
+  "old": "**At 11-next-co-observing.** Returns sway across states that occurred, and record is swaying that happened.",
+  "new": "**With 11-next-co-observing.** Returns sway across states that occurred, and record is swaying that happened.",
+  "verdict": "RESAY",
+  "why": "label: with 11, a next prior forming; nothing else to re-say."
+ },
+ {
+  "old": "Measured premium carries large in country after country, curing it with aversion sickens risk-free rate,",
+  "new": "Measured premium carries large across country after country, curing it with aversion sickens risk-free rate,",
+  "verdict": "RESAY",
+  "why": "'in country after country' becomes across country after country."
+ },
+ {
+  "old": "a value a parameter should reproduce is one self's steady preferring fixed under a swaying settling at no value, and each self prefers at its own between, by its own parity, where a representative agent stands for all.",
+  "new": "a value a parameter should reproduce is one self's steady preferring fixed under a swaying settling on no value, and each self prefers with its own between, by its own parity, where a representative agent stands for all.",
+  "verdict": "RESAY",
+  "why": "'settling at' becomes settling on; at its own between becomes with."
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** A valuing sways at each occasion and is fixed for a rate that settles, a single discount function.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** A valuing sways with each occasion and is fixed for a rate that settles, a single discount function.",
+  "verdict": "RESAY",
+  "why": "verdict line and 2's label: + or − with 10, as 10 carries each sharing's parity-offering; at each occasion becomes with each occasion."
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A valuation of a delayed reward fixed as a function of delay only that elicitation measures.",
+  "new": "**With 12-next-co-same-existing.** A valuation of a delayed reward fixed as a function of delay only that elicitation measures.",
+  "verdict": "RESAY",
+  "why": "label: with 12, each sharing's is or is not; nothing else to re-say."
+ },
+ {
+  "old": "Formats and bundlings move it, so elicitation's own coupling is in each estimate; and where utility from different sources is discounted at different rates a unitary time preference is meaningless, preference labelled by its object delayed.",
+  "new": "Formats and bundlings move it, so elicitation's own coupling is within each estimate; and where utility from different sources is discounted at different rates a unitary time preference is meaningless, preference labelled by its object delayed.",
+  "verdict": "RESAY",
+  "why": "'in each estimate' becomes within, an estimate and its part; 'discounted at different rates' is a field's own words, kept."
+ },
+ {
+  "old": "**At 11-next-co-observing.** A valuing sways at each occasion, occasion's own.",
+  "new": "**With 11-next-co-observing.** A valuing sways with each occasion, occasion's own.",
+  "verdict": "RESAY",
+  "why": "label: with 11, a next prior forming; at each occasion becomes with each occasion."
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** A response sways with dose and is fixed for a value at doses below detection, from a model fitted above them.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** A response sways with dose and is fixed for a value of doses below detection, from a model fitted above them.",
+  "verdict": "RESAY",
+  "why": "verdict line and 2's label: + or − with 10, as 10 carries each sharing's parity-offering; 'a value at doses' becomes a value of doses."
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A dose-response relation fixed whose low-dose behaviour is estimable by extrapolation.",
+  "new": "**With 12-next-co-same-existing.** A dose-response relation fixed whose low-dose behaviour is estimable by extrapolation.",
+  "verdict": "RESAY",
+  "why": "label: with 12, each sharing's is or is not; nothing else to re-say."
+ },
+ {
+  "old": "Below a last coupling observed, rival models part at a point nothing measures, record's edge observed as a value,",
+  "new": "Below a last coupling observed, rival models part with a point nothing measures, record's edge observed as a value,",
+  "verdict": "RESAY",
+  "why": "'part at a point' becomes part with a point."
+ },
+ {
+  "old": "**At 11-next-co-observing.** A response sways with dose, coupling by coupling, and low doses wake a body's own stress answers in system after system, curves bending at mechanisms' momentarying.",
+  "new": "**With 11-next-co-observing.** A response sways with dose, coupling by coupling, and low doses wake a body's own stress answers across system after system, curves bending with mechanisms' momentarying.",
+  "verdict": "RESAY",
+  "why": "label: with 11, a next prior forming; 'in system after system' becomes across; at mechanisms' momentarying becomes with."
+ },
+ {
+  "old": "Bend is reversal, parity changing there and a measure informing there;",
+  "new": "Bend is reversal, parity-changing there and a measure informing there;",
+  "verdict": "RESAY",
+  "why": "parity changing is hyphenated, parity-changing."
+ },
+ {
+  "old": "In a range instruments reach, rival models fit alike; below it they part exactly at a point nothing measures, and field itself states a point a drawing enters at.",
+  "new": "Within a range instruments reach, rival models fit alike; below it they part exactly with a point nothing measures, and field itself states a point a drawing enters from.",
+  "verdict": "RESAY",
+  "why": "'In a range' becomes Within a range, a range and its part; 'part exactly at' becomes with; 'enters at' becomes enters from."
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** A rate sways under selection and drift together, and it is fixed for a value an optimum or a barrier sets.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** A rate sways under selection and drift together, and it is fixed for a value an optimum or a barrier sets.",
+  "verdict": "RESAY",
+  "why": "verdict line and 2's label: + or − with 10, as 10 carries each sharing's parity-offering; nothing else to re-say."
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** Mutation rate fixed as a trait whose value is explained by optimisation or by limits of selection,",
+  "new": "**With 12-next-co-same-existing.** Mutation rate fixed as a trait whose value is explained by optimisation or by limits of selection,",
+  "verdict": "RESAY",
+  "why": "label: with 12, each sharing's is or is not; nothing else to re-say in these words."
+ },
+ {
+  "old": "**At 11-next-co-observing.** A rate sways under selection and drift coupling, its value swaying's own at each population.",
+  "new": "**With 11-next-co-observing.** A rate sways under selection and drift coupling, its value swaying's own with each population.",
+  "verdict": "RESAY",
+  "why": "label: with 11, a next prior forming; at each population becomes with each population."
+ },
+ {
+  "old": "inverse correlation carrying across living range with effective population size estimated from same genomes their rates are measured in,",
+  "new": "inverse correlation carrying across living range with effective population size estimated from same genomes their rates are measured in,",
+  "verdict": "KEEP",
+  "why": "a field's own words, quoted at Hard Problem Registry ('measured in'), kept."
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** A vacuum density sways under all that couples to it, and it is fixed for a value against a measure over its might-have-beens, estimate standing tens of orders away.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** A vacuum density sways under all that couples to it, and it is fixed for a value against a measure over its might-have-beens, estimate standing tens of orders away.",
+  "verdict": "RESAY",
+  "why": "verdict line and 2's label: + or − with 10, as 10 carries each sharing's parity-offering; nothing else to re-say."
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A value far from typical under an assumed measure fixed to call for one explanation,",
+  "new": "**With 12-next-co-same-existing.** A value far from typical under an assumed measure fixed to call for one explanation,",
+  "verdict": "RESAY",
+  "why": "label: with 12, each sharing's is or is not; nothing else to re-say in these words."
+ },
+ {
+  "old": "Estimate fixes three unchangeable terms at one momentary — a rest a sequence opens at, a last it completes at, and a total its sequence conserves — and none of three is a thing a coupling made.",
+  "new": "Estimate fixes three terms still with one momentary, each a form that cannot parity-change — a rest a sequence opens from, a last it completes with, and a total its sequence conserves — and none of three is a thing a coupling made.",
+  "verdict": "RESAY",
+  "why": "'unchangeable', a form of changing, re-said as settled: fixed still, a form that cannot parity-change; at one momentary becomes with; 'opens at' becomes opens from; 'completes at' becomes completes with."
+ },
+ {
+  "old": "**At 11-next-co-observing.** A vacuum density sways under all that couples to it, and measured value sits small and nonzero while computed estimate towers tens of orders above, distance between a coupling's own momentarying value and a sum fixed over all at once.",
+  "new": "**With 11-next-co-observing.** A vacuum density sways under all that couples to it, and measured value sits small and nonzero while computed estimate towers tens of orders above, distance between a coupling's own momentarying value and a sum fixed over all together.",
+  "verdict": "RESAY",
+  "why": "label: with 11, a next prior forming; at once becomes together."
+ },
+ {
+  "old": "a value fixed against an unmeasured measure keeps owing an explanation to a typicality no instrument has reached, and swaying, measured, is as it is.",
+  "new": "a value fixed against an unmeasured measure goes on owing an explanation to a typicality no instrument has reached, and swaying, measured, is as it is.",
+  "verdict": "RESAY",
+  "why": "'keeps owing' becomes goes on owing."
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** Two scales sway far apart, and separation is fixed for a value against a measure of naturalness, with criterion of explanatory debt itself a dispute.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** Two scales sway far apart, and separation is fixed for a value against a measure of naturalness, with criterion of explanatory debt itself a dispute.",
+  "verdict": "RESAY",
+  "why": "verdict line and 2's label: + or − with 10, as 10 carries each sharing's parity-offering; nothing else to re-say."
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** Criterion fixed as among things instruments give,",
+  "new": "**With 12-next-co-same-existing.** Criterion fixed as among things instruments give,",
+  "verdict": "RESAY",
+  "why": "label: with 12, each sharing's is or is not; nothing else to re-say in these words."
+ },
+ {
+  "old": "**At 11-next-co-observing.** Two scales sway far apart and instruments observe spectrum clean to each energy reached, canonical rescues narrowing unreached.",
+  "new": "**With 11-next-co-observing.** Two scales sway far apart and instruments observe spectrum clean to each energy reached, canonical rescues narrowing unreached.",
+  "verdict": "RESAY",
+  "why": "label: with 11, a next prior forming; nothing else to re-say."
+ },
+ {
+  "old": "Growing instead is field's own doubt about debt: naturalness stands in a record now as a heuristic under dispute, measure disputed while measurements accumulate.",
+  "new": "Growing instead is field's own doubt about debt: naturalness stands within a record now as a heuristic under dispute, measure disputed while measurements accumulate.",
+  "verdict": "RESAY",
+  "why": "'in a record' becomes within a record, a record and its part."
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** Masses and mixings are measured at couplings instruments reach, each parameter its own, and pattern is fixed for a value an organizing principle should generate.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** Masses and mixings are measured with couplings instruments reach, each parameter its own, and pattern is fixed for a value an organizing principle should generate.",
+  "verdict": "RESAY",
+  "why": "verdict line and 2's label: + or − with 10, as 10 carries each sharing's parity-offering; at couplings becomes with couplings."
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A pattern fixed as selected by a mechanism where it stands as free inputs.",
+  "new": "**With 12-next-co-same-existing.** A pattern fixed as selected by a mechanism where it stands as free inputs.",
+  "verdict": "RESAY",
+  "why": "label: with 12, each sharing's is or is not; nothing else to re-say."
+ },
+ {
+  "old": "Parameters are free inputs in Standard Model, hierarchies technically natural and unexplained, and many symmetry, texture and statistical constructions reproduce parts of pattern without a uniquely selected origin, measure over pattern's might-have-beens surfacing nought at each construction.",
+  "new": "Parameters are free inputs in Standard Model, hierarchies technically natural and unexplained, and many symmetry, texture and statistical constructions reproduce parts of pattern without a uniquely selected origin, measure over pattern's might-have-beens surfacing nought with each construction.",
+  "verdict": "RESAY",
+  "why": "'free inputs in Standard Model' and 'statistical constructions' are a field's own words and terms, kept; at each construction becomes with."
+ },
+ {
+  "old": "**At 11-next-co-observing.** Quark mixing matrix is overconstrained,",
+  "new": "**With 11-next-co-observing.** Quark mixing matrix is overconstrained,",
+  "verdict": "RESAY",
+  "why": "label: with 11, a next prior forming; nothing else to re-say in these words."
+ },
+ {
+  "old": "geometries converting positions into couplings with geometry unselected, statistical models giving distributions and not a realization:",
+  "new": "geometries converting positions into couplings with geometry unselected, statistical models giving distributions and not a realization:",
+  "verdict": "KEEP",
+  "why": "a field's own words and terms, quoted at Hard Problem Registry: 'converting positions into couplings', 'statistical models'."
+ },
+ {
+  "old": "enigma fixed being naming's own and not spectrum's, as at a scale beside it.",
+  "new": "enigma fixed being naming's own and not spectrum's, as with a scale beside it.",
+  "verdict": "RESAY",
+  "why": "as at becomes as with."
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** Rare processes are measured at their couplings and give Standard Model's rates, and a new sector fixed near an accessible scale is fixed to carry generic couplings the measurements should have seen.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** Rare processes are measured with their couplings and give Standard Model's rates, and a new sector fixed near an accessible scale is fixed to carry generic couplings measurements should have seen.",
+  "verdict": "RESAY",
+  "why": "verdict line and 2's label: + or − with 10, as 10 carries each sharing's parity-offering; at their couplings becomes with; 'the measurements' becomes measurements."
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** An absence fixed as needing a mechanism.",
+  "new": "**With 12-next-co-same-existing.** An absence fixed as needing a mechanism.",
+  "verdict": "RESAY",
+  "why": "label: with 12, each sharing's is or is not; nothing else to re-say."
+ },
+ {
+  "old": "Generic couplings at teraelectronvolt scale would contribute orders of magnitude above observed rates, so absence constrains such physics to scales beyond direct reach or to special structures whose origin is itself not fixed;",
+  "new": "Generic couplings at teraelectronvolt scale would contribute orders of magnitude above observed rates, so absence constrains such physics to scales no direct search reaches or to special structures whose origin is itself not fixed;",
+  "verdict": "RESAY",
+  "why": "'at teraelectronvolt scale' is a field's measurement, kept; 'beyond direct reach' re-said by meaning as scales no direct search reaches."
+ },
+ {
+  "old": "and sector is a carrying reached at no instrument.",
+  "new": "and sector is a carrying no instrument reaches.",
+  "verdict": "RESAY",
+  "why": "'reached at no instrument' becomes no instrument reaches."
+ },
+ {
+  "old": "**At 11-next-co-observing.** Large regions of generic low-scale couplings stand excluded, viable suppression patterns have explicit effective forms, and each stands at its stated cost,",
+  "new": "**With 11-next-co-observing.** Large regions of generic low-scale couplings stand excluded, viable suppression patterns have explicit effective forms, and each stands with its stated cost,",
+  "verdict": "RESAY",
+  "why": "label: with 11, a next prior forming; at its stated cost becomes with."
+ },
+ {
+  "old": "and instruments give Standard Model's rates, measured, puzzle standing at typicality and not at its record.",
+  "new": "and instruments give Standard Model's rates, measured, puzzle standing with typicality and not with its record.",
+  "verdict": "RESAY",
+  "why": "at typicality and at its record become with."
  }
 ]

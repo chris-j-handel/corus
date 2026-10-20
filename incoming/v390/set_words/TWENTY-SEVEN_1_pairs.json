@@ -1090,5 +1090,413 @@
   "new": "silicon multifrequency surface stands entered as 5.10 with its rates and resolution attached, and a single-molecule driven trajectory is next.",
   "verdict": "RESAY",
   "why": "at: as, a section reference."
+ },
+ {
+  "old": "Isotope exchange at equilibrium counts events in both directions while composition stands.",
+  "new": "Isotope exchange at equilibrium counts events, both directions, while composition stands.",
+  "verdict": "RESAY",
+  "why": "in: re-said by meaning; at equilibrium a field's own phrase in its own sense, kept."
+ },
+ {
+  "old": "Forward and reverse each at its own rate; composition carried by no event.",
+  "new": "Forward and reverse each with its own rate; composition carried by no event.",
+  "verdict": "RESAY",
+  "why": "at, place or time: with, by meaning."
+ },
+ {
+  "old": "A leaving on reactant side is an arriving on product side, positions kept.",
+  "new": "A leaving on reactant side is an arriving on product side, positions same-existing.",
+  "verdict": "RESAY",
+  "why": "kept: same-existing."
+ },
+ {
+  "old": "Composition arrives while molecules carrying it are at each momentary other ones; pool turns over beneath level.",
+  "new": "Composition arrives while molecules carrying it are, with each momentary, other ones; pool turns over beneath level.",
+  "verdict": "RESAY",
+  "why": "at, place or time: with, by meaning."
+ },
+ {
+  "old": "Composition stands at every grain and no molecule is at equilibrium.",
+  "new": "Composition stands with every grain and no molecule is at equilibrium.",
+  "verdict": "RESAY",
+  "why": "at: with; at equilibrium a field's own phrase, kept."
+ },
+ {
+  "old": "**Observed.** Fails at 2, 7 and 9 where stationary observing is installed as rest, state and destination: **state**.",
+  "new": "**Observed.** Fails with 2, 7 and 9 where stationary observing is installed as rest, state and destination: **state**.",
+  "verdict": "RESAY",
+  "why": "at, place or time: with, by meaning; where already present."
+ },
+ {
+  "old": "Mixture passes at operational use, arriving at TWENTY-FIVE 2.19; phase coexistence and glass are its arrivals not yet written.",
+  "new": "Mixture passes with operational use, arriving to TWENTY-FIVE 2.19; phase coexistence and glass are its arrivals not yet written.",
+  "verdict": "RESAY",
+  "why": "at: with, to."
+ },
+ {
+  "old": "Use “equal forward and reverse rates under stated conditions” remains a field relation and is not what is released.",
+  "new": "Use “equal forward and reverse rates under stated conditions” remains a field relation and is not what is dissolved.",
+  "verdict": "RESAY",
+  "why": "released: dissolved, a form that leaves; quotation kept."
+ },
+ {
+  "old": "Accounting at operational use.",
+  "new": "Accounting with operational use.",
+  "verdict": "RESAY",
+  "why": "at, place or time: with, by meaning."
+ },
+ {
+  "old": "A stationary across-observing is projected beneath changing as its rest or ahead of it as its destination.",
+  "new": "A stationary across-observing is projected beneath parity-changing as its rest or ahead of it as its destination.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing."
+ },
+ {
+  "old": "**Installation kind.** State: rest, state and destination at 2, 7, 9.",
+  "new": "**Installation kind.** State: rest, state and destination with 2, 7, 9.",
+  "verdict": "RESAY",
+  "why": "at, place or time: with, by meaning."
+ },
+ {
+  "old": "IUPAC's chemical-equilibrium definition carries both sides openly: rates in two directions are identical, giving appearance of static composition, with Gibbs energy at a minimum under stated conditions.",
+  "new": "IUPAC's chemical-equilibrium definition carries both sides openly: rates in two directions are identical, giving appearance of static composition, with Gibbs energy at a minimum under stated conditions.",
+  "verdict": "KEEP",
+  "why": "Field account: a definition's own words paraphrased, a field's own words, in its own sense, kept."
+ },
+ {
+  "old": "A field's own words already carry changing and apparent not-changing in one definition.",
+  "new": "A field's own words already carry parity-changing and apparent not-changing within one definition.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing; in: within, a whole and its parts."
+ },
+ {
+  "old": "Perturbation changes composition and rates re-form.",
+  "new": "With perturbation, composition re-forms and rates re-form.",
+  "verdict": "RESAY",
+  "why": "changes: re-forms, 3.2's own word for living turns."
+ },
+ {
+  "old": "Time-independent across-observing is installed as a non-changing state or destination toward which, in field words, process moves.",
+  "new": "Time-independent across-observing is installed as a non-changing state or destination toward which, as field words say, process moves.",
+  "verdict": "RESAY",
+  "why": "in: as; non-changing an installation's grammar, kept."
+ },
+ {
+  "old": "A minimum in a ledger is installed beneath changing as its natural floor.",
+  "new": "A ledger's minimum is installed beneath parity-changing as its natural floor.",
+  "verdict": "RESAY",
+  "why": "in: re-said by meaning; changing: parity-changing."
+ },
+ {
+  "old": "and exchanges among regions continue or reappear when time window changes.",
+  "new": "and exchanges among regions continue or reappear when a time window differs.",
+  "verdict": "RESAY",
+  "why": "changes: differs, by meaning."
+ },
+ {
+  "old": "A glass is the sharpest edge: its apparent transition and arrest depend on rate and history rather than one equilibrium boundary.",
+  "new": "A glass is the sharpest edge: its apparent transition and arrest depend on rate and history rather than one equilibrium boundary.",
+  "verdict": "KEEP",
+  "why": "the: an only first within its own set, kept."
+ },
+ {
+  "old": "(6) Microscopic changing, local own-rates, history, and observing window remain the carry a static return leaves uncarried.",
+  "new": "(6) Microscopic parity-changing, local own-rates, history, and observing window remain a carry a static return leaves uncarried.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing; the: a."
+ },
+ {
+  "old": "False exclusion where slow or hidden changes are treated as absent.",
+  "new": "False exclusion where slow or hidden parity-changings are treated as absent.",
+  "verdict": "RESAY",
+  "why": "changes: parity-changings."
+ },
+ {
+  "old": "Apparent rest belongs to that society's across-observing.",
+  "new": "Apparent rest belongs to that same-existing-society's across-observing.",
+  "verdict": "RESAY",
+  "why": "society alone: same-existing-society."
+ },
+ {
+  "old": "A field observing of complete natural coupling returning no changing at any accessible scale, no fluctuating or hidden rate, and sameness under expanded observing would break diagnosis.",
+  "new": "A field observing of complete natural coupling returning no parity-changing with any accessible scale, no fluctuating or hidden rate, and sameness under expanded observing would break diagnosis.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing; at: with."
+ },
+ {
+  "old": "A chemical process whose stability requires a literal rest rather than continuing opposed or cycling changes would break re-alternation.",
+  "new": "A chemical process whose stability requires a literal rest rather than continuing opposed or cycling parity-changings would break re-alternation.",
+  "verdict": "RESAY",
+  "why": "changes: parity-changings."
+ },
+ {
+  "old": "Beyond: IUPAC chemical equilibrium C01023, equilibrium 14656, chemical relaxation C01035, and equilibrium constant E02177.",
+  "new": "Beyond: IUPAC chemical equilibrium C01023, equilibrium 14656, chemical relaxation C01035, and equilibrium constant E02177.",
+  "verdict": "KEEP",
+  "why": "citations of outside works; Beyond: an address label, kept."
+ },
+ {
+  "old": "Changing and apparent not-changing are along and across turns of one changing.",
+  "new": "Parity-changing and apparent not-changing are along and across turns of one parity-changing.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing."
+ },
+ {
+  "old": "Chemical relaxation keeps perturbation history.",
+  "new": "Chemical relaxation carries perturbation history.",
+  "verdict": "RESAY",
+  "why": "keeps: carries."
+ },
+ {
+  "old": "Glass science keeps timescale and preparation.",
+  "new": "Glass science carries timescale and preparation.",
+  "verdict": "RESAY",
+  "why": "keeps: carries."
+ },
+ {
+  "old": "Equilibrium calculation remains at field between; installation as a rest beneath living changing releases.",
+  "new": "Equilibrium calculation remains with field between; installation as a rest beneath living parity-changing dissolves.",
+  "verdict": "RESAY",
+  "why": "at: with; changing: parity-changing; releases: dissolves."
+ },
+ {
+  "old": "This entry is hinge from Physics's state-equilibria and Chemistry's flow-equilibria into Numbers' two directions one at a time.",
+  "new": "This entry is hinge from Physics's state-equilibria and Chemistry's flow-equilibria to Numbers' two directions one at a time.",
+  "verdict": "RESAY",
+  "why": "into: to; one at a time kept."
+ },
+ {
+  "old": "Changing/not-changing dilemma is no longer a contradiction to resolve by choosing one.",
+  "new": "Parity-changing/not-changing dilemma is no longer a contradiction to resolve by choosing one.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing."
+ },
+ {
+  "old": "A field's own definition contains both, the still as appearance.",
+  "new": "A field's own definition contains both, its still as appearance.",
+  "verdict": "RESAY",
+  "why": "the: its."
+ },
+ {
+  "old": "Carry entry against phase coexistence, an electrode's exchange current, and a glass transition at several scan rates; low-amplitude domain on silicon surface stands at Natural Chemistry 5.6 and at 5.10 as rate unresolved at this threshold.",
+  "new": "Carry entry against phase coexistence, an electrode's exchange current, and a glass transition with several scan rates; low-amplitude domain on silicon surface stands with Natural Chemistry 5.6 and with 5.10 as rate unresolved with this threshold.",
+  "verdict": "RESAY",
+  "why": "at, place or time: with, by meaning."
+ },
+ {
+  "old": "**2 · rates.** Each arrival at its own time; distribution carried by no arrival.",
+  "new": "**2 · rates.** Each arrival with its own time; distribution carried by no arrival.",
+  "verdict": "RESAY",
+  "why": "at, place or time: with, by meaning."
+ },
+ {
+  "old": "Emission and absorption, the field and detector each changed.",
+  "new": "Emission and absorption, field and detector each re-formed.",
+  "verdict": "RESAY",
+  "why": "the: removed; changed: re-formed, by meaning."
+ },
+ {
+  "old": "Exchanging two inverts sign of the whole with positions kept — a field's own antisymmetry.",
+  "new": "Exchanging two inverts sign of their whole with positions same-existing — a field's own antisymmetry.",
+  "verdict": "RESAY",
+  "why": "the: their; kept: same-existing."
+ },
+ {
+  "old": "No label attaches; no arriving one is identifiable as the one that left.",
+  "new": "No label attaches; no arriving one is identifiable as a leaving one.",
+  "verdict": "RESAY",
+  "why": "the: a, by meaning."
+ },
+ {
+  "old": "Shared density at a bond is owned by neither centre, a field's word exchange.",
+  "new": "Shared density with a bond is owned by neither centre, a field's word exchange.",
+  "verdict": "RESAY",
+  "why": "at, place or time: with, by meaning."
+ },
+ {
+  "old": "Observed **is**; where electron is installed as holding bond, **is-not**.",
+  "new": "Observed **is**; where electron is installed as holding bond, **is-not**.",
+  "verdict": "KEEP",
+  "why": "holding bond: an installation's exact grammar, marked field side as G13 asks, kept."
+ },
+ {
+  "old": "Density stands at every grain and no point carries electron.",
+  "new": "Density stands with every grain and no point carries electron.",
+  "verdict": "RESAY",
+  "why": "at, place or time: with, by meaning."
+ },
+ {
+  "old": "Coherence and ionisation release at bounds that move with temperature and field.",
+  "new": "Coherence dissolves, and ionisation arrives, with bounds that move with temperature and field.",
+  "verdict": "RESAY",
+  "why": "release: dissolves for coherence leaving, arrives for ionisation; at: with."
+ },
+ {
+  "old": "**Observed.** Fails at 7 — interior — **state**; and at 5, 6 and 10 — traveller, holder, carrier — **flow**.",
+  "new": "**Observed.** Fails with 7 — interior — **state**; and with 5, 6 and 10 — traveller, holder, carrier — **flow**.",
+  "verdict": "RESAY",
+  "why": "at: with; holder an installation's grammar, kept."
+ },
+ {
+  "old": "Source–field–detector society passes, arriving at TWENTY-FIVE 2.16, a pattern observed one arrival at a time.",
+  "new": "Source–field–detector same-existing-society passes, arriving to TWENTY-FIVE 2.16, a pattern observed one arrival at a time.",
+  "verdict": "RESAY",
+  "why": "society alone: same-existing-society; at: to; one at a time kept."
+ },
+ {
+  "old": "and detector events remain in physics and chemistry records.",
+  "new": "and detector events remain with physics and chemistry records.",
+  "verdict": "RESAY",
+  "why": "in: with."
+ },
+ {
+  "old": "At chemistry, nuclei, electron density, orbitals, and bonds form another society.",
+  "new": "With chemistry, nuclei, electron density, orbitals, and bonds form another same-existing-society.",
+  "verdict": "RESAY",
+  "why": "at: with; society alone: same-existing-society."
+ },
+ {
+  "old": "**Installation kind.** Both: interior at 7; traveller, holder and carrier at 5, 6, 10.",
+  "new": "**Installation kind.** Both: interior with 7; traveller, holder and carrier with 5, 6, 10.",
+  "verdict": "RESAY",
+  "why": "at: with; holder an installation's grammar, kept."
+ },
+ {
+  "old": "Electronic-structure chemistry often uses electron density and many-electron states; Hohenberg-Kohn theorem makes ground-state density central without turning it into a collection of localized classical paths.",
+  "new": "Electronic-structure chemistry often uses electron density and many-electron states; Hohenberg-Kohn theorem makes ground-state density central without turning it into a collection of localized classical paths.",
+  "verdict": "KEEP",
+  "why": "Field account: a field's own words, in its own sense, kept."
+ },
+ {
+  "old": "magnetic moments, exclusion effects, electron densities, currents, tunnelling, bonding changes, and reaction outcomes remain.",
+  "new": "magnetic moments, exclusion effects, electron densities, currents, tunnelling, bonding changes, and reaction outcomes remain.",
+  "verdict": "KEEP",
+  "why": "bonding changes: a field's own observed term, kept."
+ },
+ {
+  "old": "quantum electronics, and particle scattering cohere under electron accounting at their field betweens.",
+  "new": "quantum electronics, and particle scattering cohere under electron accounting with their field betweens.",
+  "verdict": "RESAY",
+  "why": "at, place or time: with, by meaning."
+ },
+ {
+  "old": "density redistributes in a reaction; current and polarization respond; indistinguishable excitations exchange without classical identities.",
+  "new": "density redistributes with a reaction; current and polarization respond; indistinguishable excitations exchange without classical identities.",
+  "verdict": "RESAY",
+  "why": "in: with."
+ },
+ {
+  "old": "Apparatus returns a localized interaction at one between and a distributed pattern across many arrivals.",
+  "new": "Apparatus returns a localized interaction with one between and a distributed pattern across many arrivals.",
+  "verdict": "RESAY",
+  "why": "at, place or time: with, by meaning."
+ },
+ {
+  "old": "(1) Quantum preparation, phase, density, interaction, and detection keep changing.",
+  "new": "(1) Quantum preparation, phase, density, interaction, and detection continue re-forming.",
+  "verdict": "RESAY",
+  "why": "keep changing: continue re-forming, a living turn, by meaning."
+ },
+ {
+  "old": "(6) Distributed phase, indistinguishability, shared density, and event-forming coupling remain the riding-the-carry localized owner leaves uncarried.",
+  "new": "(6) Distributed phase, indistinguishability, shared density, and event-forming coupling remain riding-the-carry that a localized owner leaves uncarried.",
+  "verdict": "RESAY",
+  "why": "the: removed, a; riding-the-carry kept as a naming."
+ },
+ {
+  "old": "Store-seeking at charge-as-possession.",
+  "new": "Store-seeking with charge-as-possession.",
+  "verdict": "RESAY",
+  "why": "at, place or time: with, by meaning."
+ },
+ {
+  "old": "Interior-reaching at presumed little self.",
+  "new": "Interior-reaching with presumed little self.",
+  "verdict": "RESAY",
+  "why": "at, place or time: with, by meaning."
+ },
+ {
+  "old": "Magnitude-demanding at charge observed as fixed content rather than coupling parity.",
+  "new": "Magnitude-demanding with charge observed as fixed content rather than coupling parity.",
+  "verdict": "RESAY",
+  "why": "at, place or time: with, by meaning."
+ },
+ {
+  "old": "Order-demanding at a continuous path reconstructed between events.",
+  "new": "Order-demanding with a continuous path reconstructed between events.",
+  "verdict": "RESAY",
+  "why": "at, place or time: with, by meaning."
+ },
+ {
+  "old": "Forced-choosing at wave or particle.",
+  "new": "Forced-choosing with wave or particle.",
+  "verdict": "RESAY",
+  "why": "at, place or time: with, by meaning."
+ },
+ {
+  "old": "At molecule, nuclei and electronic density, density and partition, molecule and probe, and molecular society and reaction partner form corresponding four across sides.",
+  "new": "With a molecule, nuclei and electronic density, density and partition, molecule and probe, and molecular same-existing-society and reaction partner form corresponding four across sides.",
+  "verdict": "RESAY",
+  "why": "at: with; society alone: same-existing-society."
+ },
+ {
+  "old": "If it merely renames these pairs without deriving why the same apparatus changes which side appears, it breaks.",
+  "new": "If it merely renames these pairs without deriving why, with one same apparatus, either side appears, it breaks.",
+  "verdict": "RESAY",
+  "why": "the same: one same; changes: re-said by meaning."
+ },
+ {
+  "old": "Electron is ghost accounting for stable-forming by alternating bi-moral co-agency: recurring parity at couplings, one arriving event and one distributed carry, with no tiny agent traveling beneath them.",
+  "new": "Electron is ghost accounting for stable-forming by alternating bi-moral co-agency: recurring parity with couplings, one arriving event and one distributed carry, with no tiny agent traveling beneath them.",
+  "verdict": "RESAY",
+  "why": "at, place or time: with, by meaning."
+ },
+ {
+  "old": "Numerical relations remain at field register.",
+  "new": "Numerical relations remain with field register.",
+  "verdict": "RESAY",
+  "why": "at, place or time: with, by meaning."
+ },
+ {
+  "old": "Agency is relational competency at bi-coupling.",
+  "new": "Agency is relational competency with bi-coupling.",
+  "verdict": "RESAY",
+  "why": "at, place or time: with, by meaning."
+ },
+ {
+  "old": "Quantum mechanics already denies a single classical trajectory in general, uses indistinguishability, and describes delocalized states and density.",
+  "new": "Quantum mechanics already denies a single classical trajectory generally, uses indistinguishability, and describes delocalized states and density.",
+  "verdict": "RESAY",
+  "why": "in general: generally."
+ },
+ {
+  "old": "Physics co-chains at charge ledger and wave/particle.",
+  "new": "Physics co-chains with charge ledger and wave/particle.",
+  "verdict": "RESAY",
+  "why": "at, place or time: with, by meaning."
+ },
+ {
+  "old": "Chemistry co-chains at bond, electron density, shell address, redox, and current.",
+  "new": "Chemistry co-chains with bond, electron density, shell address, redox, and current.",
+  "verdict": "RESAY",
+  "why": "at, place or time: with, by meaning."
+ },
+ {
+  "old": "Numbers co-chains at one event and its across-distribution as along and across rather than two simultaneous kinds.",
+  "new": "Numbers co-chains with one event and its across-distribution as along and across rather than two simultaneous kinds.",
+  "verdict": "RESAY",
+  "why": "at, place or time: with, by meaning."
+ },
+ {
+  "old": "Electron is the first particle ghost with its observational protections stated before its natural return; proton at 5.8 is the second, and the first at which the field itself finds an interior's content living at coupling.",
+  "new": "Electron is the first particle ghost with its observational protections stated before its natural return; proton, 5.8, is the second, and the first with which its field itself finds an interior's content living with coupling.",
+  "verdict": "RESAY",
+  "why": "at: a section reference, with; the field: its field; the first and the second: only ones within their set, kept."
+ },
+ {
+  "old": "Then carry the same form against a chemical electron-density redistribution where no atom owns transferred fraction uniquely.",
+  "new": "Then carry one same form against a chemical electron-density redistribution where no atom owns transferred fraction uniquely.",
+  "verdict": "RESAY",
+  "why": "the same: one same; where already present."
  }
 ]
