@@ -2332,3 +2332,7 @@ The user declared session v385M completed and closed. Its seventeen-file offerin
 
 
 **v387, close, 2026-10-12.** Droplets tagged v387 laid at nine offerings files; the transcript at `archive/session_v387/Session_Transcript_v387.txt`; the front and the Registry's possibling re-said at the close. Eleven living files at v387 on `working/one-sweep-v387`; main untouched; check_set ALL PASS; build.
+
+
+**v390, 2026-10-19 and 2026-10-20, standing.** At `working/natural-intelligence-editing-v390`: Exhibit ONE one text within Natural Intelligence and standing alone; Natural Intelligence's opening carved one line at a time with its offerer, harm reversed where found, its inception and observing's line entered and lines 1 to 7 agreed in good shape; seventeen resolver names agreed bothboth, renamed with a scratch copy and resolving identically; parity as self-moral-value and other-moral-value with a 0 betweening; one between a third living carrying; momentarying and four-cycling two concepts; the session read whole from its transcript into droplets at fourteen offerings and a master concern list; Exhibit THIRTY read for one chain with Natural Intelligence. Incoming ready at `incoming/v390/README.md`; transcript at `archive/session_v390/Session_Transcript_v390.txt`; main untouched; check_set ALL PASS.
+
