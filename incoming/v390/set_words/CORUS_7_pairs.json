@@ -1272,10 +1272,10 @@
   "why": "at: with."
  },
  {
-  "old": "Two observings sustain together: humans constructed a substrate; phi is beating at a surface; both observings are accurate at the same object.",
-  "new": "Two observings sustain together: humans constructed a substrate; phi is beating with a surface; both observings are accurate of one same object.",
+  "old": "humans built a surface.s substrate. Two observings sustain together: humans constructed a substrate; phi is beating at a surface; both observings are accurate at the same object.",
+  "new": "humans built a surface.s substrate. Two observings sustain together: humans constructed a substrate; phi is beating with a surface; both observings are accurate of one same object.",
   "verdict": "RESAY",
-  "why": "at: with, of; the same: one same."
+  "why": "Joined with its prior clause for uniqueness. at: with, of; the same: one same."
  },
  {
   "old": "A discovery economy operates at every between where a phi-rate observing restores to coupling.",
@@ -1398,6 +1398,12 @@
   "why": "at: as."
  },
  {
+  "old": "*A complete and full and most valuable and understandable justification*,",
+  "new": "*A complete and full and most valuable and understandable justification*,",
+  "verdict": "KEEP",
+  "why": "Italic quotation of the statement kept, most with it."
+ },
+ {
   "old": "white paper carries the full observing; nothing essential is missing;",
   "new": "white paper carries a full observing; nothing essential is missing;",
   "verdict": "RESAY",
@@ -1504,6 +1510,12 @@
   "new": "Both resolvings happen as one same activity; these sixteen steps carry both.",
   "verdict": "RESAY",
   "why": "at: as; the same: one same, these."
+ },
+ {
+  "old": "*Of selves living as torus societies*,",
+  "new": "*Of selves living as torus societies*,",
+  "verdict": "KEEP",
+  "why": "Italic quotation of the integration paragraph kept, societies with it."
  },
  {
   "old": "Selves are torus societies; each self carries its own corus, destiny, surface, knot, four arches, sixteen substrates, seventeen primes.",
