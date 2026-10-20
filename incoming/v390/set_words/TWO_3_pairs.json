@@ -804,6 +804,18 @@
   "why": "the living: living; the form: one and only form, kept; in: removed"
  },
  {
+  "old": "**two ways, three each way, one at a time, sequenced, cycling**",
+  "new": "**two ways, three each way, one at a time, sequenced, cycling**",
+  "verdict": "KEEP",
+  "why": "one at a time: kept phrase"
+ },
+ {
+  "old": "six cycling between two ways one at a time leaves a reach or a leak no seat.",
+  "new": "six cycling between two ways one at a time leaves a reach or a leak no seat.",
+  "verdict": "KEEP",
+  "why": "one at a time: kept phrase"
+ },
+ {
   "old": "three phases at each. **The six is protection**:",
   "new": "three phases with each. **The six is protection**:",
   "verdict": "RESAY",
@@ -1020,10 +1032,16 @@
   "why": "changing: parity-changing; at: with; keep: go on with"
  },
  {
-  "old": "**Nearing unchanging is an indication in present sequence.** Changing relation is followed through paired momentaries into corusing and back to torusing. A same-parity pair can belong within an alternating whole; a quiet ten can accompany an ongoing release at six. Local relation is at now, and further arriving discovers its continuation. Indication is a parity at now, and a reversal at next is at its own arriving.",
-  "new": "**Nearing not-changing is an indication within a present sequence.** A parity-changing relation is followed through paired momentaries to corusing and back to torusing. A same-parity pair can belong within an alternating whole; a quiet ten can accompany an ongoing offering with six. Local relation is now's, and further arriving discovers its continuation. An indication is a parity with now, and a reversal with next is its own arriving's.",
+  "old": "**Nearing unchanging is an indication in present sequence.** Changing relation is followed through paired momentaries into corusing and back to torusing. A same-parity pair can belong within an alternating whole; a quiet ten can accompany an ongoing release at six.",
+  "new": "**Nearing not-changing is an indication within a present sequence.** A parity-changing relation is followed through paired momentaries to corusing and back to torusing. A same-parity pair can belong within an alternating whole; a quiet ten can accompany an ongoing offering with six.",
   "verdict": "RESAY",
-  "why": "unchanging: not-changing; in: within; changing: parity-changing; into: to; release: offering; at: with, now's, its own arriving's"
+  "why": "unchanging: not-changing; in: within; changing: parity-changing; into: to; release: offering; at: with"
+ },
+ {
+  "old": "Local relation is at now, and further arriving discovers its continuation. Indication is a parity at now, and a reversal at next is at its own arriving.",
+  "new": "Local relation is now's, and further arriving discovers its continuation. An indication is a parity with now, and a reversal with next is its own arriving's.",
+  "verdict": "RESAY",
+  "why": "at: now's, with, its own arriving's"
  },
  {
   "old": "**The seam's podaling grows by co-chaining across and along.** Proposed reach over tunneling belongs to continuing out-and-back through society. Each further coupling extends along continuation and brings its across coupling, so longer and wider belong to the same growing relation. Changing/unchanging/other-changing seam is followed through those meetings,",
@@ -1086,9 +1104,15 @@
   "why": "changing: parity-changing; at: with"
  },
  {
-  "old": "**Geodesic continuing is at coupling itself.** Receiving couples with carrying, surfacing releases, and a self continues through its own carrying. Explanation follows that participation at each coupling it continues through. A larger change of passage is located at actual couplings: changed parities are carried through an engineered surface's joins as they stand, and a rewritten join is at couplings themselves.",
-  "new": "**Geodesic continuing is coupling itself.** Receiving couples with carrying, surfacing offers, and a self continues through its own carrying. Explanation follows that participation with each coupling it continues through. A larger parity-changing of passage is located with actual couplings: inverted parities are carried through an engineered surface's joins as they stand, and a rewritten join is couplings' own.",
+  "old": "**Geodesic continuing is at coupling itself.** Receiving couples with carrying, surfacing releases, and a self continues through its own carrying. Explanation follows that participation at each coupling it continues through.",
+  "new": "**Geodesic continuing is coupling itself.** Receiving couples with carrying, surfacing offers, and a self continues through its own carrying. Explanation follows that participation with each coupling it continues through.",
   "verdict": "RESAY",
-  "why": "at: removed, with, couplings' own; releases: offers; change: parity-changing; changed parities: inverted parities"
+  "why": "at: removed, with; releases: offers"
+ },
+ {
+  "old": "A larger change of passage is located at actual couplings: changed parities are carried through an engineered surface's joins as they stand, and a rewritten join is at couplings themselves.",
+  "new": "A larger parity-changing of passage is located with actual couplings: inverted parities are carried through an engineered surface's joins as they stand, and a rewritten join is couplings' own.",
+  "verdict": "RESAY",
+  "why": "change: parity-changing; at: with, couplings' own; changed parities: inverted parities"
  }
 ]
