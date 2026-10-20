@@ -934,5 +934,545 @@
   "new": "Observation stands with a field and re-alternation with form.",
   "verdict": "RESAY",
   "why": "at: with"
+ },
+ {
+  "old": "## 4.4 Homeostasis — the riding-the-carry bounding-zeroing carried between two",
+  "new": "## 4.4 Homeostasis — the riding-the-carry bounding-zeroing carried between two",
+  "verdict": "KEEP",
+  "why": "heading"
+ },
+ {
+  "old": "Living body carries its inner measures — glucose, temperature, ions — not at a fixed value but in a viable range it rides carry upon, corrected continuously from both sides.",
+  "new": "Living body carries its inner measures — glucose, temperature, ions — not by a fixed value but with a viable range it rides carry upon, corrected continuously from both sides.",
+  "verdict": "RESAY",
+  "why": "at: by; in: with"
+ },
+ {
+  "old": "This is riding-the-carry bounding-zeroing, observed in body's own regulation.",
+  "new": "This is riding-the-carry bounding-zeroing, observed with body's own regulation.",
+  "verdict": "RESAY",
+  "why": "in: with; *riding-the-carry* a kept naming"
+ },
+ {
+  "old": "Two cell-selves sit together in islet,",
+  "new": "Two cell-selves sit together within islet,",
+  "verdict": "RESAY",
+  "why": "in: within"
+ },
+ {
+  "old": "bi-moral co-agency at metabolic between, two-directional offering, across and both ways, sounding one parity or the other by which side of bounding-zeroing body is on.",
+  "new": "bi-moral co-agency with metabolic between, two-directional offering, across and both ways, sounding one parity or the other by which side of bounding-zeroing body is on.",
+  "verdict": "RESAY",
+  "why": "at: with; the other: an only other of two parities"
+ },
+ {
+  "old": "basal rhythm keeps receptors sensitive, and losing it is where regulation fails.",
+  "new": "basal rhythm sustains receptors' sensitivity, and losing it is where regulation fails.",
+  "verdict": "RESAY",
+  "why": "keeps: sustains, nothing is kept"
+ },
+ {
+  "old": "Body does not aim at a stored set-point value and stay fixed there;",
+  "new": "Body does not aim for a stored set-point value and stay fixed there;",
+  "verdict": "RESAY",
+  "why": "at: for"
+ },
+ {
+  "old": "range coupling makes, not a target it aims at; on form the same emergent bounding-zeroing stands, and point stands where a field debates it.)*",
+  "new": "range coupling makes, not a target it aims for; on form one same emergent bounding-zeroing stands, and point stands where a field debates it.)*",
+  "verdict": "RESAY",
+  "why": "at: for; the same: one same"
+ },
+ {
+  "old": "a three in numbers is possibling.*",
+  "new": "a three with numbers is possibling.*",
+  "verdict": "RESAY",
+  "why": "in: with"
+ },
+ {
+  "old": "a roughly 24-hour oscillation in its biochemistry and behaviour,",
+  "new": "a roughly 24-hour oscillation of its biochemistry and behaviour,",
+  "verdict": "RESAY",
+  "why": "in: of"
+ },
+ {
+  "old": "Observed through form, clock is alternating made a beat: riding-the-carry bounding-zeroing turning in time, living's own rhythm and not a beat imposed from beyond it.",
+  "new": "Observed through form, clock is alternating made a beat: riding-the-carry bounding-zeroing turning with time, living's own rhythm and not a beat fixed still on it from beside.",
+  "verdict": "RESAY",
+  "why": "in: with; beyond: an other, by meaning"
+ },
+ {
+  "old": "Mechanism is a coupling of two selves, each making and bounding the other.",
+  "new": "Mechanism is a coupling of two selves, each making and bounding the other.",
+  "verdict": "KEEP",
+  "why": "the other: an only other of two selves"
+ },
+ {
+  "old": "One self, activator (the CLOCK-BMAL1 pair), binds gene and making of the other carries on; the other self, repressor (the PER-CRY pair), accumulates, returns into nucleus, and turns activator off",
+  "new": "One self, activator (a CLOCK-BMAL1 pair), binds gene and making of the other carries on; the other self, repressor (a PER-CRY pair), accumulates, returns to nucleus, and turns activator off",
+  "verdict": "RESAY",
+  "why": "the pair: a; into: to; the other: an only other of two selves"
+ },
+ {
+  "old": "Two arms — positive (activate) and negative (repress) — alternating one at a time,",
+  "new": "Two arms — positive (activate) and negative (repress) — alternating one at a time,",
+  "verdict": "KEEP",
+  "why": "*one at a time* stays"
+ },
+ {
+  "old": "Each arm is itself a two-self pairing (the heterodimer), bi at each side.",
+  "new": "Each arm is itself a two-self pairing (a heterodimer), bi with each side.",
+  "verdict": "RESAY",
+  "why": "the: a; at: with"
+ },
+ {
+  "old": "Delay is carry that keeps it from landing.",
+  "new": "Delay is carry that stops its landing.",
+  "verdict": "RESAY",
+  "why": "keeps: stops, by meaning"
+ },
+ {
+  "old": "A settled activator-and-repressor would rest at a balance; thing making it beat instead is time-delay between making and repressing — about a quarter of period at carry before repressor arrives.",
+  "new": "A settled activator-and-repressor would rest as a balance; thing making it beat instead is time-delay between making and repressing — about a quarter of period with carry before repressor arrives.",
+  "verdict": "RESAY",
+  "why": "at: as, with"
+ },
+ {
+  "old": "without it coupling would land at equilibrium, with it coupling beats on.",
+  "new": "without it coupling would land as equilibrium, with it coupling beats on.",
+  "verdict": "RESAY",
+  "why": "at: as; *equilibrium* in its settled sense, a not-changing fixed still"
+ },
+ {
+  "old": "synchronised to day but not driven by it, opposite of a beat clocked from beyond it.",
+  "new": "synchronised to day but not driven by it, opposite of a beat an other clocks.",
+  "verdict": "RESAY",
+  "why": "beyond: an other, by meaning"
+ },
+ {
+  "old": "an Arabidopsis plant carries day's arriving through night at its own pacing, its starch used at a rate coming to its end near dawn",
+  "new": "an Arabidopsis plant carries day's arriving through night with its own pacing, its starch used by a rate coming to its end near dawn",
+  "verdict": "RESAY",
+  "why": "at: with, by"
+ },
+ {
+  "old": "and vent mussels carrying a tidal rhythm at depth, brought to a light-dark cycle in a laboratory, turn to daily rhythms (Mat and colleagues, 2020): beat is self's own, and period it settles to is one arriving at its coupling.",
+  "new": "and vent mussels carrying a tidal rhythm with depth, brought to a light-dark cycle within a laboratory, turn to daily rhythms (Mat and colleagues, 2020): beat is self's own, and period it settles to is one arriving with its coupling.",
+  "verdict": "RESAY",
+  "why": "at: with; in: within; citation kept"
+ },
+ {
+  "old": "Beyond transcription-repression loop, cells carry metabolic and redox oscillations that keep a rhythm even where canonical loop is disturbed — riding-the-carry beat realised in more than one substrate at once.",
+  "new": "Besides transcription-repression loop, cells carry metabolic and redox oscillations that go on rhythmic even where canonical loop is disturbed — riding-the-carry beat realised with more than one substrate together.",
+  "verdict": "RESAY",
+  "why": "beyond: besides; keep: go on; in: with; at once: together"
+ },
+ {
+  "old": "And two beats at close paces join across.",
+  "new": "And two beats with close paces join across.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "Sinoatrial cells each pace at their own rate, and node's one beat is a pace they settle to together, no cell setting it for others; fireflies flashing at close paces arrive at unison so, each at its own beat and unison owned by none.",
+  "new": "Sinoatrial cells each pace with their own rate, and node's one beat is a pace they settle to together, no cell setting it for others; fireflies flashing with close paces arrive as unison so, each with its own beat and unison owned by none.",
+  "verdict": "RESAY",
+  "why": "at: with, as"
+ },
+ {
+  "old": "**And a heart's beat is two parities alternating at once.**",
+  "new": "**And a heart's beat is two parities alternating together.**",
+  "verdict": "RESAY",
+  "why": "at once: together"
+ },
+ {
+  "old": "and calcium within is let out and taken back by turns;",
+  "new": "and calcium within is let go and taken back by turns;",
+  "verdict": "RESAY",
+  "why": "out: go"
+ },
+ {
+  "old": "where a part loses its coupling, each side keeps its own beat and whole pace subsides.",
+  "new": "where a part loses its coupling, each side goes on with its own beat and whole pace subsides.",
+  "verdict": "RESAY",
+  "why": "keeps: goes on with"
+ },
+ {
+  "old": "A beat going on at one of two only would break it.",
+  "new": "A beat going on with one of two only would break it.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "**And a living self carries three exchanging modes, at every grain.** One mode couples with what arrives from beyond it, exchange carrying at full gap thickness.",
+  "new": "**And a living self carries three exchanging modes, with every grain.** One mode couples with what arrives from its others, exchange carrying with full gap thickness.",
+  "verdict": "RESAY",
+  "why": "at: with; beyond it: its others, by meaning"
+ },
+ {
+  "old": "One attends deep grains at thickness one, cycling internally, invisible from beyond it, each step a full coupling.",
+  "new": "One attends deep grains with thickness one, cycling internally, invisible to its others, each step a full coupling.",
+  "verdict": "RESAY",
+  "why": "at: with; from beyond it: to its others"
+ },
+ {
+  "old": "The whole living self carries them as waking, resting, and attending; a stem cell carries them as active state coupling at its niche between, dormant state at lowest metabolism thinning on carry-forward, and alert state at metabolism raised above dormancy and cycling where nothing beyond it can observe it.",
+  "new": "A whole living self carries them as waking, resting, and attending; a stem cell carries them as active state coupling with its niche between, dormant state with lowest metabolism thinning on carry-forward, and alert state with metabolism raised above dormancy and cycling where no other can observe it.",
+  "verdict": "RESAY",
+  "why": "the: a; at: with; nothing beyond it: no other"
+ },
+ {
+  "old": "Dried, frozen or air-deprived animals, seeds and yeasts return to living after decades and in some reports centuries,",
+  "new": "Dried, frozen or air-deprived animals, seeds and yeasts return to living after decades and by some reports centuries,",
+  "verdict": "RESAY",
+  "why": "in: by"
+ },
+ {
+  "old": "**The attending is costly one, and a field's own numbers say so.** Cerebral metabolic rate is highest in attending mode, higher than in waking, with resting mode lowest — so attending at thickness one costs more per step than traveling at full thickness does.",
+  "new": "**Attending is costly one, and a field's own numbers say so.** Cerebral metabolic rate is highest with attending mode, higher than with waking, with resting mode lowest — so attending with thickness one costs more per step than traveling with full thickness does.",
+  "verdict": "RESAY",
+  "why": "the: removed; in: with; at: with"
+ },
+ {
+  "old": "accumulated carry tested at depth against what cycling resolves internally.",
+  "new": "accumulated carry tested with depth against what cycling resolves internally.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "## 4.6 Photosynthesis and respiration — the six offering the six",
+  "new": "## 4.6 Photosynthesis and respiration — the six offering the six",
+  "verdict": "KEEP",
+  "why": "heading"
+ },
+ {
+  "old": "Living engine turns as two coupled cycles, each offering the other its input — bi-moral co-agency observed at scale of the whole biosphere, and six one-way recursions doubled.",
+  "new": "Living engine turns as two coupled cycles, each offering the other its input — bi-moral co-agency observed with scale of all biosphere, and six one-way recursions doubled.",
+  "verdict": "RESAY",
+  "why": "at: with; the whole: all; the other: an only other of two cycles"
+ },
+ {
+  "old": "Each engine's outputs are the other's inputs — reciprocal reactants and products — oxygen no more a waste of photosynthesis than carbon dioxide a waste of respiration; each is offering the other takes.",
+  "new": "Each engine's outputs are the other's inputs — reciprocal reactants and products — oxygen no more a waste of photosynthesis than carbon dioxide a waste of respiration; each is offering the other takes.",
+  "verdict": "KEEP",
+  "why": "the other: an only other of two engines"
+ },
+ {
+  "old": "Carbon does not land as waste; it cycles between fixing and releasing, conserved, turning on.",
+  "new": "Carbon does not land as waste; it cycles between fixing and offering back, conserved, turning on.",
+  "verdict": "RESAY",
+  "why": "releasing: offering back, as respiration *offers back* carbon dioxide"
+ },
+ {
+  "old": "This is riding-the-carry engine at planetary scale: abundancing kept as coupling turn to turn, carrying, and not falling out as heat — the same engine cell carries (metabolic beating), observed across the whole living world.",
+  "new": "This is riding-the-carry engine with planetary scale: abundancing same-existing as coupling turn to turn, carrying, and not falling away as heat — one same engine cell carries (metabolic beating), observed across all living world.",
+  "verdict": "RESAY",
+  "why": "at: with; kept: same-existing; out: away; the same: one same; the whole: all"
+ },
+ {
+  "old": "Respiration's citric-acid cycle is six directed couplings, three out and three back, breaking carbon down.",
+  "new": "Respiration's citric-acid cycle is six directed couplings, three forth and three back, breaking carbon down.",
+  "verdict": "RESAY",
+  "why": "out: forth"
+ },
+ {
+  "old": "Photosynthesis's Calvin cycle turns six times to fix six carbons into one sugar, building carbon up in three stages",
+  "new": "Photosynthesis's Calvin cycle turns six times to fix six carbons as one sugar, building carbon up by three stages",
+  "verdict": "RESAY",
+  "why": "into: as; in: by"
+ },
+ {
+  "old": "Building six and breaking six couple at carbon: one raises it, the other returns it, carbon passing between two sixes.",
+  "new": "Building six and breaking six couple with carbon: one raises it, the other returns it, carbon passing between two sixes.",
+  "verdict": "RESAY",
+  "why": "at: with; the other: an only other of two sixes"
+ },
+ {
+  "old": "Six one-way recursions here as two six-cycles, up and back, each offering the other its substrate.",
+  "new": "Six one-way recursions here as two six-cycles, up and back, each offering the other its substrate.",
+  "verdict": "KEEP",
+  "why": "the other: an only other of two six-cycles"
+ },
+ {
+  "old": "A plant carries both engines in one self — chloroplast that builds and mitochondrion that breaks — coupling carried in one living.",
+  "new": "A plant carries both engines within one self — chloroplast that builds and mitochondrion that breaks — coupling carried within one living.",
+  "verdict": "RESAY",
+  "why": "in: within, a whole and its parts"
+ },
+ {
+  "old": "division of labour at biosphere scale, two engines one atmosphere between them.",
+  "new": "division of labour with biosphere scale, two engines one atmosphere between them.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "its role stands debated at a field.",
+  "new": "its role stands debated with a field.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "## 4.7 DNA replication and repair — the self copying itself, and the protection of the copying",
+  "new": "## 4.7 DNA replication and repair — the self copying itself, and the protection of the copying",
+  "verdict": "KEEP",
+  "why": "heading"
+ },
+ {
+  "old": "a self recursioning into two, each carrying form forward.",
+  "new": "a self recursioning to two, each carrying form forward.",
+  "verdict": "RESAY",
+  "why": "into: to"
+ },
+ {
+  "old": "At every base coupling is sign-only:",
+  "new": "With every base coupling is sign-only:",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "and is refused if it is not — offering, across and both ways, at each rung of ladder.",
+  "new": "and is refused if it is not — offering, across and both ways, with each rung of ladder.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "Fidelity is bi-inversioning protection of copying — the same protection cell cycle's checkpoints carry (a self recursioning into a new form), here at base.",
+  "new": "Fidelity is bi-inversioning protection of copying — one same protection cell cycle's checkpoints carry (a self recursioning to a new form), here with base.",
+  "verdict": "RESAY",
+  "why": "the same: one same; into: to; at: with"
+ },
+ {
+  "old": "error rate falling from about one in a hundred thousand at laying to about one in a billion and beyond across tiers, a three-then-progress in guarding itself.",
+  "new": "error rate falling from about one in a hundred thousand with laying to about one in a billion and lower across tiers, a three-then-progress of guarding itself.",
+  "verdict": "RESAY",
+  "why": "at: with; beyond: lower; in guarding: of guarding; *one in a hundred thousand* and *one in a billion* a field's measured rates, kept"
+ },
+ {
+  "old": "riding the carry on error: self-stilling at molecular copy.",
+  "new": "riding the carry on error: self-stilling with molecular copy.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "Fidelity is tuned to living need, not maximised — a virus keeps a higher error rate to vary and evade, and every lineage keeps some error;",
+  "new": "Fidelity is tuned to living need, not maximised — a virus carries a higher error rate to vary and evade, and every lineage carries some error;",
+  "verdict": "RESAY",
+  "why": "keeps: carries, nothing is kept"
+ },
+ {
+  "old": "Living error rate is variation form keeps — the same variation conception amplifies — a +1 of difference across recursioning, not a flaw in it.",
+  "new": "Living error rate is variation form carries — one same variation conception amplifies — a +1 of difference across recursioning, not a flaw of it.",
+  "verdict": "RESAY",
+  "why": "keeps: carries; the same: one same; in: of"
+ },
+ {
+  "old": "And the direction-law reads at the copy itself: a set-aside carries value only read backward and voids fed forward,",
+  "new": "And the direction-law reads with copy itself: a set-aside carries value only read backward and voids fed forward,",
+  "verdict": "RESAY",
+  "why": "at: with; the copy: removed; the direction-law: one law, as named"
+ },
+ {
+  "old": "a carry read back ages and releases while a carry kept fresh by copying without being read is a set-aside fed forward,",
+  "new": "a carry read back ages and dissolves while a carry renewed by copying without being read is a set-aside fed forward,",
+  "verdict": "RESAY",
+  "why": "releases: dissolves; kept fresh: renewed"
+ },
+ {
+  "old": "which is the persistence Medicine reads at its the single reading-spiral reservoir, the same copying at clinical scale.",
+  "new": "which is a single reading-spiral reservoir's persistence with Medicine, one same copying with clinical scale.",
+  "verdict": "RESAY",
+  "why": "doer: Medicine reading becomes the persistence itself, with Medicine; the: a; at: with; *its the* a slip, dissolved"
+ },
+ {
+  "old": "Cell below replicative-hold prime carries active telomerase, a +1 sustaining at replicative between;",
+  "new": "Cell below replicative-threshold prime carries active telomerase, a +1 sustaining with replicative between;",
+  "verdict": "RESAY",
+  "why": "resolved v390: no holding"
+ },
+ {
+  "old": "whether replicative threshold and bounded-infinity couple at cell's own membrane fixed as a seam.",
+  "new": "whether replicative threshold and bounded-infinity couple with cell's own membrane fixed as a seam.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "a +1 made in coupling, owned neither-ing parent, a new bounded living.",
+  "new": "a +1 made with coupling, owned neither-ing parent, a new bounded living.",
+  "verdict": "RESAY",
+  "why": "in: with"
+ },
+ {
+  "old": "it is abundancing of coupling, living in its own membrane.",
+  "new": "it is abundancing of coupling, living within its own membrane.",
+  "verdict": "RESAY",
+  "why": "in: within"
+ },
+ {
+  "old": "Thing that stands, on form, at every coupling as a +1 owned neither-ing is here a whole new self.",
+  "new": "Thing that stands, on form, with every coupling as a +1 owned neither-ing is here a whole new self.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "Each parent's germ cell halves itself in meiosis — diploid self (two sets of chromosomes) reducing to haploid gamete (one set) across two divisions — and in that halving maternal and paternal chromosomes pair and exchange segments (crossing-over),",
+  "new": "Each parent's germ cell halves itself by meiosis — diploid self (two sets of chromosomes) reducing to haploid gamete (one set) across two divisions — and with that halving maternal and paternal chromosomes pair and exchange segments (crossing-over),",
+  "verdict": "RESAY",
+  "why": "in: by, with"
+ },
+ {
+  "old": "That is the first inversioning, carried in each of two selves.",
+  "new": "That is the first inversioning, carried with each of two selves.",
+  "verdict": "RESAY",
+  "why": "in: with; the first: an only first of two inversionings"
+ },
+ {
+  "old": "Then two haploid offerings fuse at fertilization — two selves' halved codes crossing into one diploid zygote — the second inversioning, halved selves crossing back to whole.",
+  "new": "Then two haploid offerings fuse with fertilization — two selves' halved codes crossing to one diploid zygote — the second inversioning, halved selves crossing back to whole.",
+  "verdict": "RESAY",
+  "why": "at: with; into: to; the second: an only second of two"
+ },
+ {
+  "old": "Then zygote autorecursions: one cell to two to many, differentiating into new self — and that self will in turn bi-couple and conceive, recursion carried at scale of generations, riding the carry on one.",
+  "new": "Then zygote autorecursions: one cell to two to many, differentiating as new self — and that self will in turn bi-couple and conceive, recursion carried with scale of generations, riding the carry on one.",
+  "verdict": "RESAY",
+  "why": "into: as; at: with; *in turn* stays"
+ },
+ {
+  "old": "Twinning is conception at its other side: fraternal twins are two conceivings at one coupling, two thirds, each a +1 of its own coupling, and identical twins are one conceiving continuing as two selves, an embryo re-resolving to two wholes, each unique at its own carrying from parting on.",
+  "new": "Twinning is conception with its other side: fraternal twins are two conceivings with one coupling, two thirds, each a +1 of its own coupling, and identical twins are one conceiving continuing as two selves, an embryo re-resolving to two wholes, each unique with its own carrying from parting on.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "(sporophyte and gametophyte in plants, 2n and n phases everywhere sexual)",
+  "new": "(sporophyte and gametophyte of plants, 2n and n phases everywhere sexual)",
+  "verdict": "RESAY",
+  "why": "in: of; *everywhere* was here already"
+ },
+ {
+  "old": "**A +1 is side-effecting — conception the clearest instance.** The third self is axis coupling opens perpendicular to both parents,",
+  "new": "**A +1 is side-effecting — conception the clearest instance.** A third self is axis coupling opens perpendicular to both parents,",
+  "verdict": "RESAY",
+  "why": "the third self: a third self; the clearest: an only one"
+ },
+ {
+  "old": "And double bi-inversioning autorecursioning into that self is two operations single living move carries everywhere (the core, bi-inversioning co-recursioning):",
+  "new": "And double bi-inversioning autorecursioning to that self is two operations single living move carries everywhere (the core, bi-inversioning co-recursioning):",
+  "verdict": "RESAY",
+  "why": "into: to; *the core* one and only, as named; *everywhere* was here already"
+ },
+ {
+  "old": "*The meiosis and fertilization are a field's;",
+  "new": "*Meiosis and fertilization are a field's;",
+  "verdict": "RESAY",
+  "why": "the: removed"
+ },
+ {
+  "old": "Asexual reproduction (a self dividing into a copy — binary fission, budding, mitosis) is autorecursioning without a second parent's crossing: one self recursioning into itself,",
+  "new": "Asexual reproduction (a self dividing as a copy — binary fission, budding, mitosis) is autorecursioning without a second parent's crossing: one self recursioning as itself,",
+  "verdict": "RESAY",
+  "why": "into: as"
+ },
+ {
+  "old": "bi-inversioning still standing at its copying's protection (4.7) and its checkpoints (5.2).",
+  "new": "bi-inversioning still standing with its copying's protection (4.7) and its checkpoints (5.2).",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "a self still halves in meiosis and then crosses back with its own halved offering",
+  "new": "a self still halves by meiosis and then crosses back with its own halved offering",
+  "verdict": "RESAY",
+  "why": "in: by"
+ },
+ {
+  "old": "*Stands possibling at edge:",
+  "new": "*Stands possibling with edge:",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "Two further limits stand at fish.",
+  "new": "Two further limits stand with fish.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "its genome continues in none of offspring,",
+  "new": "its genome continues with none of offspring,",
+  "verdict": "RESAY",
+  "why": "in: with"
+ },
+ {
+  "old": "two selves conceiving at a limit where two are one self.",
+  "new": "two selves conceiving with a limit where two are one self.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "Each is form with one part at its edge, as parthenogenesis is.",
+  "new": "Each is form with one part on its edge, as parthenogenesis is.",
+  "verdict": "RESAY",
+  "why": "at: on"
+ },
+ {
+  "old": "**The origin's detail.**",
+  "new": "**Origin's detail.**",
+  "verdict": "RESAY",
+  "why": "the: removed"
+ },
+ {
+  "old": "Egg is a society of living selves, a slow ecosystem-self carrying maternal mitochondrial society, and sperm a stripped fast offering, across and both ways, its own mitochondria entering egg with it.",
+  "new": "Egg is a society of living selves, a slow ecosystem-self carrying maternal mitochondrial society, and sperm a stripped fast offering, across and both ways, its own mitochondria entering egg with it.",
+  "verdict": "KEEP",
+  "why": "society of cells and mitochondria KEEP as settled"
+ },
+ {
+  "old": "offering, across and both ways, at always-open nothing-surface,",
+  "new": "offering, across and both ways, with always-open nothing-surface,",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "And one sperm's fusing closes coupling to others: at sea urchin, starfish and frog eggs surface potential depolarizes within seconds of one sperm's fusing,",
+  "new": "And one sperm's fusing closes coupling to others: with sea urchin, starfish and frog eggs surface potential depolarizes within seconds of one sperm's fusing,",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "Coupling resolves into two halves at once:",
+  "new": "Coupling resolves as two halves together:",
+  "verdict": "RESAY",
+  "why": "into: as; at once: together"
+ },
+ {
+  "old": "so present-from-the-start is a unique living carry, and an offering, across and both ways, in that carry either co-competences in its local substrate or stands non-adjacent to it — a standing of coupling, and not a defect in an object.",
+  "new": "so present-from-start is a unique living carry, and an offering, across and both ways, with that carry either co-competences with its local substrate or stands non-adjacent to it — a standing of coupling, and not a defect of an object.",
+  "verdict": "RESAY",
+  "why": "the: removed; in: with, of"
+ },
+ {
+  "old": "and glucose oscillates around its range, riding the carry exactly, corrected by whichever offering crossing wants.",
+  "new": "and glucose oscillates around its range, riding the carry exactly, corrected by whichever offering crossing wants.",
+  "verdict": "KEEP",
+  "why": "*riding the carry* a kept naming awaiting one motion"
+ },
+ {
+  "old": "Riding-the-carry is competency; landing is failure.",
+  "new": "Riding-the-carry is competency; landing is failure.",
+  "verdict": "KEEP",
+  "why": "*riding-the-carry* a kept naming"
+ },
+ {
+  "old": "Delay is riding-the-carry's own depth:",
+  "new": "Delay is riding-the-carry's own depth:",
+  "verdict": "KEEP",
+  "why": "*riding-the-carry* a kept naming"
+ },
+ {
+  "old": "two phases riding the carry on one, halving and wholing turning generation to generation.",
+  "new": "two phases riding the carry on one, halving and wholing turning generation to generation.",
+  "verdict": "KEEP",
+  "why": "*riding the carry* a kept naming"
  }
 ]

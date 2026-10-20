@@ -2364,3 +2364,10 @@ Machine agent-societies stay as a field's terms. A between's *nothing* is carrie
 - **One way across Natural Physics:** its step label reads *Torusing within it*.
 
 Natural Chemistry, Natural Philosophy and Natural Medicine moved to v390. check_set: ALL PASS.
+
+**v390, 2026-10-20, pass 10 at Natural Engineering and Natural Biology.** 2,054 sentences re-said by meaning toward session v390's concepts, from eleven readers' proposals, each checked before entering. Bothboth rulings are carried into both files:
+- *co-releasing* is re-said *co-discovering*;
+- each society of selves is a same-existing-society;
+- the row label reads one way.
+
+Field findings and measurements are kept. Prior sentences are whole at the archive. check_set: ALL PASS.
