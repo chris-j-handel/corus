@@ -225,3 +225,5 @@ Natural Naming 5.14’s “and it compounds” and its abundancing/releasing exp
 **Droplet · do-no-harm hyphenated; co- and bi-, combinable pieces.** Do-no-harm is one hyphenated naming. Co- and bi-, bothboth, are separating combinable pieces of self and other: value trading without competency ingressing. — v390
 
 **Droplet · same-as, hyphenated.** Same-as is one hyphenated naming: *Observing is distinguishing same-as, is or is not.* Its phases say same-existing-as alike, one naming each. Opening's observing line to re-enter hyphenated with an opening's walk. — v390
+
+**Droplet · *the* for one and only one.** *The* stands where one and only one is meant: the universe, the universal set, and the method, one and only one possible, so universal. *The Stable-Forming Parity-Changing Method of Discovering Same-Existing* keeps its *The* for this. — v390
