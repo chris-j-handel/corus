@@ -415,9 +415,9 @@
  },
  {
   "old": "| **Co-releasing** | Each side releasing its own. A particular fixed form, continuing receiving and other side's own turn remain together. |",
-  "new": "| **Co-releasing** | Each side ending its own offering. A particular fixed form, continuing receiving and other side's own turn remain together. |",
-  "verdict": "ASK",
-  "why": "This cell defines co-releasing, a naming kept as awaiting one motion. Releasing must go, as nothing is held or released, but any re-saying here fixes co-releasing's meaning before its motion is agreed. Best re-saying: each side ending its own offering, which fits one-at-a-time turns and keeps the second sentence true. Dissolving a fixed form is the other reading. **To resolve:** is co-releasing each side ending its own offering, or each side dissolving its own fixed form?"
+  "new": "| **Co-releasing** | Each side completing its own, going along. A particular fixed form, continuing receiving and other side's own turn remain together. |",
+  "verdict": "RESAY",
+  "why": "resolved bothboth v390: 9 is co-releasing, co-discovering going along"
  },
  {
   "old": "Six arrivals at §4.9 keep their source, receiving and continuing operation.",

@@ -1126,5 +1126,17 @@
   "new": "Bettering, fastering and cheapering remain with this whole receiving. Bodily interfaces, §6.7, and shared-network interfaces retain their own sensing, offering and going along.",
   "verdict": "RESAY",
   "why": "at: with; at an address: removed; release: going along, nothing held or released."
+ },
+ {
+  "old": "Gas-producing reaction, interfacial charging and actual product measurements remain at electrolysis entry.",
+  "new": "Gas-producing reaction, interfacial charging and actual product measurements remain with electrolysis entry.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "| **The particular coupling and fixed form** | Moving bodies, support or mooring, receiving load and any prescribed tuning.",
+  "new": "| **A particular coupling and fixed form** | Moving bodies, support or mooring, receiving load and any prescribed tuning.",
+  "verdict": "RESAY",
+  "why": "The: A, a row label. Cell count kept."
  }
 ]
