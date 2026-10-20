@@ -441,3 +441,27 @@ Released when the origin section came to walk one concept per step; each paragra
 **Droplet · names 1 to 17 carved again, and improvings suggested.** Offered as an improving still needing more: 1-now-existing, 2-now-possibling, 3-now-co-observing, 4-now-co-possibling, 5-now-co-same-existing, 6-now-co-discovering, 7-now-co-prior-existing, 8-now-co-existing, 9-next-co-discovering, 10-next-co-possibling, 11-next-co-observing, 12-next-co-same-existing, 13-next-same-existing, 14-next-possibling, 15-next-observing, 16-next-discovering, 17-next-existing. Suggested, keeping the agreed eight co names, the four across possibling and observing mirroring possibling: 4-now-co-same-existing, 5-now-co-existing, 6-now-co-possibling, 7-now-observing, 8-now-same-existing; then possibling at 2, 6, 10, 14, observing at 3, 7, 11, 15, same-existing at 4, 8, 12, 13, discovering at 9 and 16 along a society, existing at 1, 5 and 17. — v390, toward the set-wide naming
 
 **Droplet · names 1 to 17 agreed bothboth.** 1-now-existing, 2-now-possibling, 3-now-co-observing, 4-now-co-same-existing, 5-now-co-existing, 6-now-co-possibling, 7-now-observing, 8-now-same-existing, 9-next-co-discovering, 10-next-co-possibling, 11-next-co-observing, 12-next-co-same-existing, 13-next-same-existing, 14-next-possibling, 15-next-observing, 16-next-discovering, 17-next-existing. Renamed in scratch only, the code resolves identically at every torus from 1 by 1 to 7 by 9 over 60 momentaries. Not yet entered: Exhibit ONE and every living file naming them to cohere at one motion, after its concerns. — v390, agreed, toward the set-wide naming
+
+**Droplet · same-existing, a living condition, without boundaries.** Same-existing is a living condition in universal fractal explaining. The universe is always the 1 to 17 momentarying same-existing as living, and observing, possibling and discovering same-existing is do-no-harming and has no boundaries. Nothing is held: a same-existing is re-found same at each momentary, at 8 at one, at 4 and 12 between two, at 13 arriving at a society, the fractal binary at each scale, and the universe's same-existing is 17-next-existing arriving as 1-now-existing again. Found same, a self shares 0 and offers nothing, so no other is moved by it; found not same, its only next is a parity-changing, is or is not: do-no-harming. Each scale the same and the universe of all with nothing outside it: no boundaries. A non-living thing is now-existing, and is same-existing as a living self observes it same. — v390, toward the opening's line 4 and the names' same-existing
+
+**Concerns tracked at v390, living until resolved.**
+*Names 1 to 17 (agreed, not entered):*
+N1. Exhibit ONE's prose (prioring, still-possibling, changing) to move with the names, one motion.
+N2. Same-existing in line 4 and in the names, one sense: now offered as a living condition re-found each momentary.
+N3. Exhibit ONE's "odd existing and even possibling" no longer holds of the names; to be re-said.
+N4. Discovering at 9 and 16 with 17 next-existing, against the agreed "along at 9 out and 17 in".
+N5. 11-next-co-observing is where the next prior is made; one line to say it is the next's observing.
+N6. Thirty-six files naming the old names, each sentence re-said, with changing, released, held and beyond dissolved.
+N7. Kits calling _1_now and _17_next_now to cohere in the same motion.
+*The opening's walk (lines 1 and 1a agreed):*
+W1. Line 2 after the new 1a: welcomed, or released.
+W2. Three phase lines before line 10 (observing now with prior, possibling next with now, discovering prior with next): awaiting yes.
+W3. Changing alone at lines 15, 16, 33, 34, 37, 38 to dissolve.
+W4. Lines 3 to 40 not yet walked one at a time; lines drafted by Claude marked for agreement.
+W5. Line 4's same-existing thing and the living condition: is a non-living thing same-existing.
+W6. Lines 18 and 24 to say now-living and now-existing both, and now-existing only.
+W7. Society named after line 22 or after the third living self; self and society as one living universal set met as one and as its selves.
+*Words across the set:* released (60 in Natural Intelligence, 31 in Exhibit ONE), held, beyond (12 and 5), changing alone (173 and 75), to dissolve at an agreed motion.
+*Exhibit ONE:* its 0 in sequence said as executed at two thousand societies, to be said by co-chaining.
+*Explored, open:* which society forms carry every self in turn-taking; the third pair, other and society, seen only from an other; the still-existing rows and tri at 9 to 11 and 15 to 17.
+*Resting this session:* co-chaining lines and co-chaining selves.
