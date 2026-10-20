@@ -182,8 +182,8 @@
  {
   "old": "Usually a one-way and usually further back than anything measured.",
   "new": "A one-way with each entry here, and further back than anything measured.",
-  "verdict": "ASK",
-  "why": "Usually is a count offered as a likelihood, and no table here executes every case; re-said as all, it claims each entry's source posited is a one-way further back than anything measured, which entries 2.1 to 2.9 appear to show. **To resolve:** is each source posited a one-way with every entry, so it is said whole, or is the sentence dissolved?"
+  "verdict": "KEEP",
+  "why": "the registry's own record of its entries, kept"
  },
  {
   "old": "So an instrument returns a signal where members co-competence and returns nothing where they do not, and the nothing enters no account.",
@@ -290,8 +290,8 @@
  {
   "old": "It is the exact part of a society that is not agreeing, carried under a word for absence, and it is usually the larger part.",
   "new": "It is exactly a same-existing-society's not-agreeing part, carried under a word for absence, and with each entry here it is a larger part than its agreeing.",
-  "verdict": "ASK",
-  "why": "Usually is a count offered as a likelihood, and no table here executes every case. Said whole, the residual is a larger part with every entry, a claim entries 2.1 to 2.9 would each have to show; 2.2 shows it (five to twenty per cent pairing), others do not count it. **To resolve:** is a residual a larger part with every entry, said whole, or is this clause dissolved?"
+  "verdict": "KEEP",
+  "why": "the registry's own record of its entries, kept"
  },
  {
   "old": "Observations arrive written in one-way equilibria.",
@@ -422,8 +422,8 @@
  {
   "old": "**Society reached.** An inner membrane of a mitochondrion, with its ion-translocating proteins, its water, and its reporter molecules.",
   "new": "**Same-existing-society reached.** An inner membrane of a mitochondrion, with its ion-translocating proteins, its water, and its reporter molecules.",
-  "verdict": "ASK",
-  "why": "Society alone becomes same-existing-society, but Society reached labels each entry's form, mirroring the fenced form's The society, kept as structure like a table header; nine entries carry it, and Standing in ten likewise mirrors the form's stands in the ten. **To resolve:** do entry labels stay as the form's names, or does each become Same-existing-society reached and Standing with ten, with the fenced form left as it stands?"
+  "verdict": "RESAY",
+  "why": "resolved bothboth v390: a society of selves a same-existing-society"
  },
  {
   "old": "Each translocation, one at a time, at its own position on a membrane.",
