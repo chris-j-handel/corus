@@ -610,5 +610,209 @@
   "new": "They are the hardest arrivals with a threshold.",
   "verdict": "RESAY",
   "why": "at: with; the hardest, one only within its set, kept."
+ },
+ {
+  "old": "## 5.7 Diagnostic code as the disease",
+  "new": "## 5.7 Diagnostic code as the disease",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**The observing.** Criteria met, a code assigned",
+  "new": "**The observing.** Criteria met, a code assigned",
+  "verdict": "KEEP",
+  "why": "Door form label, one observing per entry, kept."
+ },
+ {
+  "old": "Patients within a category resolved as unlike in course and mechanism.",
+  "new": "Patients within a category resolved as differing by course and mechanism.",
+  "verdict": "RESAY",
+  "why": "in: by, by meaning."
+ },
+ {
+  "old": "Each course at its own rate; a category's prognosis carried by none. Observed **is**; where average is installed as a patient's own course, **is-not**.",
+  "new": "Each course with its own rate; a category's prognosis carried by none. Observed **is**; where average is installed as a patient's own course, **is-not**.",
+  "verdict": "RESAY",
+  "why": "at: with. average kept: it names the field's accounting diagnosed as installed."
+ },
+ {
+  "old": "Clinician and patient each changed at encounter.",
+  "new": "Clinician and patient each parity-changed with an encounter.",
+  "verdict": "RESAY",
+  "why": "changed, two selves each offered across both ways: parity-changed; at: with."
+ },
+ {
+  "old": "**4 · parity.** Empty at this grain.\n**5 · passing.** Address travels between systems and person stays. Observed **is** at declared use;",
+  "new": "**4 · parity.** Empty with this grain.\n**5 · passing.** Address travels between systems and person stays. Observed **is** with declared use;",
+  "verdict": "RESAY",
+  "why": "at: with. Two door lines in one pair, as Empty at this grain recurs."
+ },
+ {
+  "old": "**6 · abundancing.** Empty at this grain.",
+  "new": "**6 · abundancing.** Empty with this grain.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "where record closes at code with uncoded dropped",
+  "new": "where a record closes on a code, uncoded dropped",
+  "verdict": "RESAY",
+  "why": "at: on, by meaning."
+ },
+ {
+  "old": "Observed **is-not** with nothing installed: accounting at declared use.",
+  "new": "Observed **is-not** with nothing installed: accounting for a declared use.",
+  "verdict": "RESAY",
+  "why": "at: for, by meaning."
+ },
+ {
+  "old": "**Observed.** Fails at 2, 7, 8 and 9 — **state**; and at 3 and 5 — cause, traveller — **flow**.",
+  "new": "**Observed.** Fails with 2, 7, 8 and 9 — **state**; and with 3 and 5 — cause, traveller — **flow**.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "At declared use, accounting at every line. Clinic society stands possibling at 4 and 6.",
+  "new": "With declared use, accounting with every line. A clinic's same-existing-society stands possibling with 4 and 6.",
+  "verdict": "RESAY",
+  "why": "at: with; society, clinicians and patients, living selves: same-existing-society."
+ },
+ {
+  "old": "A diagnostic or classification code, when installed as the whole disease or the whole person rather than used as a standard address for a stated purpose.",
+  "new": "A diagnostic or classification code, when installed as the whole disease or the whole person rather than used as a standard address for a stated purpose.",
+  "verdict": "KEEP",
+  "why": "the whole disease, the whole person name the installation's own one-only claim; its exact grammar stays marked, G13."
+ },
+ {
+  "old": "Candidate at installation. Accounting at its declared statistical and communicative use.",
+  "new": "Candidate with installation. Accounting with its declared statistical and communicative use.",
+  "verdict": "RESAY",
+  "why": "at: with. statistical kept: WHO's own declared purpose for ICD, a field's own term."
+ },
+ {
+  "old": "**Substrate and society.** Patient, clinician, diagnostic criteria, health record, treatment system, population statistics",
+  "new": "**Substrate and society.** Patient, clinician, diagnostic criteria, health record, treatment system, population statistics",
+  "verdict": "KEEP",
+  "why": "Entry form label kept pending the label ASK at 5.4; population statistics a field's own practice."
+ },
+ {
+  "old": "haunting where a code remains active after its supporting relation changes; accounting at its declared use otherwise.",
+  "new": "haunting where a code remains active after its supporting relation dissolves; accounting with its declared use otherwise.",
+  "verdict": "RESAY",
+  "why": "changes, a relation that leaves: dissolves; at: with."
+ },
+ {
+  "old": "Both: average, identity, closed record and line at 2, 7, 8, 9; cause and traveller at 3 and 5.",
+  "new": "Both: average, identity, closed record and line with 2, 7, 8, 9; cause and traveller with 3 and 5.",
+  "verdict": "RESAY",
+  "why": "at: with. average kept: it names an installation diagnosed."
+ },
+ {
+  "old": "A person's physiology, experience, environment, treatment, and course change at different rates. Criteria and classifications also change across revisions.",
+  "new": "A person's physiology, experience, environment, treatment, and course re-form with different rates. Criteria and classifications also differ across revisions.",
+  "verdict": "RESAY",
+  "why": "change, no parity named: re-form, differ; at: with. Label before it kept pending the label ASK at 5.4."
+ },
+ {
+  "old": "One code persists in a record and makes heterogeneous courses comparable.",
+  "new": "One code persists within a record, and heterogeneous courses become comparable with it.",
+  "verdict": "RESAY",
+  "why": "in: within; a code making, a doer: re-said as courses becoming comparable."
+ },
+ {
+  "old": "Code becomes disease entity and disease entity becomes a person's identity, projected course, or one causal doer.",
+  "new": "Code becomes disease entity and disease entity becomes a person's identity, projected course, or one causal doer.",
+  "verdict": "KEEP",
+  "why": "doer names an installation diagnosed; its exact grammar stays marked, G13."
+ },
+ {
+  "old": "A field observing must mark this move in a specific practice; classification, at its own, entails none.",
+  "new": "A field observing must mark this move within a specific practice; classification, by itself, entails none.",
+  "verdict": "RESAY",
+  "why": "in: within; at its own: by itself."
+ },
+ {
+  "old": "Heterogeneity within category, comorbidity, changing course, uncoded lived experience, context, and departures from average prognosis.",
+  "new": "Heterogeneity within category, comorbidity, re-forming course, uncoded lived experience, context, and departures from average prognosis.",
+  "verdict": "RESAY",
+  "why": "changing, no parity named: re-forming. average prognosis kept, a field's own accounting."
+ },
+ {
+  "old": "(1) Physiology, lived experience, treatment, and disease course change.",
+  "new": "(1) Physiology, lived experience, treatment, and disease course re-form.",
+  "verdict": "RESAY",
+  "why": "change: re-form."
+ },
+ {
+  "old": "(4) Installation as the whole disease or person requires a specific observed use and is empty, existing, at general entry.",
+  "new": "(4) Installation as whole disease or person requires a specific observed use and is empty, existing, with general entry.",
+  "verdict": "RESAY",
+  "why": "the: removed; at: with."
+ },
+ {
+  "old": "(5) Classification ledger closes across care, statistics, and administration.",
+  "new": "(5) Classification ledger closes across care, statistics, and administration.",
+  "verdict": "KEEP",
+  "why": "statistics names health statistics, a field's own practice, as a ledger domain."
+ },
+ {
+  "old": "(6) Heterogeneity, comorbidity, context, and course are candidate remainders tied to use at line 4.",
+  "new": "(6) Heterogeneity, comorbidity, context, and course are candidate remainders tied to use with line 4.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Possible false inclusion and false exclusion at diagnostic boundaries; premature closure at code assignment; tradition blocking when revision is resisted.",
+  "new": "Candidate false inclusion and false exclusion with diagnostic boundaries; premature closure with code assignment; tradition blocking when revision is resisted.",
+  "verdict": "RESAY",
+  "why": "possible: candidate, the registry's own standing for a position not yet observed; at: with."
+ },
+ {
+  "old": "**Eight-side society.** Within person, physiology, experience, history, and response re-form.",
+  "new": "**Eight-side society.** Within person, physiology, experience, history, and response re-form.",
+  "verdict": "KEEP",
+  "why": "Entry form label kept pending the label ASK at 5.4."
+ },
+ {
+  "old": "Any use that keeps code visibly as an address for a stated purpose and returns to a person's changing has no installation and is accounting at that use.",
+  "new": "Any use with a code visibly an address for a stated purpose, returning to a person's living course, has no installation and is accounting for that use.",
+  "verdict": "RESAY",
+  "why": "keeps: with; changing, a person's living: living course; at: for."
+ },
+ {
+  "old": "Loss of precision or concealment of a reproducible disease mechanism breaks release.",
+  "new": "Loss of precision or concealment of a reproducible disease mechanism breaks that dissolving.",
+  "verdict": "RESAY",
+  "why": "release: dissolving, a form that leaves."
+ },
+ {
+  "old": "Beyond: WHO ICD-11 classification pages and Reference Guide.",
+  "new": "Field: WHO ICD-11 classification pages and Reference Guide.",
+  "verdict": "RESAY",
+  "why": "beyond: Field, the side its sources stand on, as Living names living files. Citation kept."
+ },
+ {
+  "old": "Encounter re-forms use at each turn.",
+  "new": "Encounter re-forms use with each turn.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "ICD states its statistical and communicative purposes. Multiple parenting and purpose-specific linearizations in ICD-11 already resist idea that every entity has only one natural place.",
+  "new": "ICD states its statistical and communicative purposes. Multiple parenting and purpose-specific linearizations within ICD-11 already resist idea that every entity has only one natural place.",
+  "verdict": "RESAY",
+  "why": "in: within. statistical kept, ICD's own stated purpose. Label before it kept pending the label ASK at 5.4."
+ },
+ {
+  "old": "Medicine, Health, Human Society, Societies, Naming, and the File Registry.",
+  "new": "Medicine, Health, Human Society, Societies, Naming, and the File Registry.",
+  "verdict": "KEEP",
+  "why": "Living files' titles kept; the File Registry, one only."
+ },
+ {
+  "old": "Find a documented case where code assignment changed access, treatment, self-understanding, and subsequent observing.",
+  "new": "Find a documented case where a person's access, treatment, self-understanding, and subsequent observing differed after code assignment.",
+  "verdict": "RESAY",
+  "why": "changed, a code assignment doing: re-said as a person's course differing after it."
  }
 ]
