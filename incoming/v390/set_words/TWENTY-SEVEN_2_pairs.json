@@ -61,9 +61,9 @@
  },
  {
   "old": "**Substrate and society.** Polypeptide, solvent, chaperones and cellular environment, preparation protocol, measurement ensemble, and model-fitting procedure.",
-  "new": "**Substrate and same-existing-society.** Polypeptide, solvent, chaperones and cellular environment, preparation protocol, measurement ensemble, and model-fitting procedure.",
-  "verdict": "ASK",
-  "why": "The label is set at 3.2 and stands in every entry, so one range cannot re-say it alone. Its members here include protocol and procedure, which are not selves, while a same-existing-society is many same-existing selves. To resolve: does the entry form's label become Substrate and same-existing-society file-wide, or do its non-living participants need another agreed name?"
+  "new": "**Substrate and society.** Polypeptide, solvent, chaperones and cellular environment, preparation protocol, measurement ensemble, and model-fitting procedure.",
+  "verdict": "RESAY",
+  "why": "label re-said once across the file, v390"
  },
  {
   "old": "interior, posted absence and destination at 7, 8, 9; one-way folding at 3.",
@@ -80,8 +80,8 @@
  {
   "old": "**Living changing.** Chains form, local contacts appear, conformations interconvert, solvent and partners couple, populations shift, and disorder can remain functional.",
   "new": "**Living parity-changing.** Chains form, local contacts appear, conformations interconvert, solvent and partners couple, populations shift, and disorder can remain functional.",
-  "verdict": "ASK",
-  "why": "The label is set at 3.2 and stands in every entry beside Apparent not-changing, so one range cannot re-say it alone; its entries list field forming, not a self's parity. To resolve: does the entry form's label Living changing become Living parity-changing file-wide, or another agreed name for a field's re-forming?"
+  "verdict": "RESAY",
+  "why": "label re-said once across the file, v390"
  },
  {
   "old": "**Apparent not-changing.** One coordinate set, consensus model, dominant conformation, or calculated structure is returned.",
@@ -127,9 +127,9 @@
  },
  {
   "old": "**Eight-side society.** Within, sequence, local contacts, solvent response, and conformational populations re-form.",
-  "new": "**Eight-side same-existing-society.** Within, sequence, local contacts, solvent response, and conformational populations re-form.",
-  "verdict": "ASK",
-  "why": "The label is set at 3.2 and 2.4 and stands in every entry, so one range cannot re-say it alone. Its eight sides include measurement and apparatus, not selves only. To resolve: does Eight-side society become Eight-side same-existing-society file-wide, or Eight sides, naming the sides without society?"
+  "new": "**Eight-side society.** Within, sequence, local contacts, solvent response, and conformational populations re-form.",
+  "verdict": "RESAY",
+  "why": "label re-said once across the file, v390"
  },
  {
   "old": "Across, chain couples with solvent, measurement, binding partner, and cellular society.",
@@ -170,8 +170,8 @@
  {
   "old": "**What the field already released.** Ensemble refinement, NMR ensembles, cryo-EM classification, intrinsically disordered proteins, and conformational dynamics already prevent a universal one-coordinate ontology.",
   "new": "**What its field already dissolved.** Ensemble refinement, NMR ensembles, cryo-EM classification, intrinsically disordered proteins, and conformational dynamics already prevent a universal one-coordinate ontology.",
-  "verdict": "ASK",
-  "why": "The report label is set at 3.3 and the standing released by the field at 3.1; both stand in every entry, so one range cannot re-say them alone. To resolve: does the label become What its field already dissolved, and the standing dissolved by its field, file-wide?"
+  "verdict": "RESAY",
+  "why": "label re-said once across the file, v390"
  },
  {
   "old": "Biology co-chains at protein folding and morphogenesis. Chemistry co-chains at reaction-coordinate ensembles and environment-dependent structure. Medicine co-chains at conformational disease only where its own clinical and molecular observings enter.",

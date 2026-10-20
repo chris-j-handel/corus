@@ -398,20 +398,20 @@
  {
   "old": "- **released by the field**, field practice having withdrawn or narrowed installation while retaining field observing;",
   "new": "- **dissolved by its field**, field practice having withdrawn or narrowed installation while retaining field observing;",
-  "verdict": "ASK",
-  "why": "A standing's name: released for a form that leaves becomes dissolved, and the field becomes its field. The name recurs beyond lines 14 to 647, at every entry's Standing and report, so re-saying here alone would split one name in two. To resolve: does the standing become dissolved by its field everywhere, with the report label What its field already dissolved?"
+  "verdict": "RESAY",
+  "why": "label re-said once across the file, v390"
  },
  {
   "old": "- **accounting at this use**, term standing at ledger side as a count, a convention, an address, a state variable, a label, installed nowhere;",
   "new": "- **accounting with this use**, term standing with ledger side as a count, a convention, an address, a state variable, a label, installed nowhere;",
-  "verdict": "ASK",
-  "why": "A standing's name carrying at as place: with. The name recurs past line 647 in later entries' Standing lines, so one re-saying must reach every occurrence. To resolve: do the standings accounting at this use and emanation at this use become accounting with this use and emanation with this use file-wide?"
+  "verdict": "RESAY",
+  "why": "label re-said once across the file, v390"
  },
  {
   "old": "- **emanation at this use**, term standing for what a coupling lands at a between, a detector event, a discard, a hand, a spectrum;",
   "new": "- **emanation with this use**, term standing for what a coupling lands with a between, a detector event, a discard, a hand, a spectrum;",
-  "verdict": "ASK",
-  "why": "A standing's name carrying at as place: with, paired with accounting at this use. It recurs past line 647, so one re-saying must reach every occurrence. To resolve: does emanation at this use become emanation with this use file-wide?"
+  "verdict": "RESAY",
+  "why": "label re-said once across the file, v390"
  },
  {
   "old": "Standing belongs to a stated use and to a word at no turn.",
@@ -446,8 +446,8 @@
  {
   "old": "**self · at the door**, torusing lines observed is and a coupling line is-not with nothing installed, record waiting for its pair; and **possibling at the door**, members unresolved.",
   "new": "**self · with the door**, torusing lines observed is and a coupling line is-not with nothing installed, record waiting for its pair; and **possibling with the door**, members unresolved.",
-  "verdict": "ASK",
-  "why": "Two standings' names carry at the door, a place: with the door. The door is one only, 7.5, so the stays. These names, the italic label At the door, and door lines recur past line 647 and through Part Seven. To resolve: do the standings and the italic entry label become self · with the door, possibling with the door and With the door file-wide?"
+  "verdict": "RESAY",
+  "why": "label re-said once across the file, v390"
  },
  {
   "old": "They stand in passed ledger at 7.7.",
@@ -464,14 +464,14 @@
  {
   "old": "**Standing.** Candidate, confirmed in natural register, released by the field, accounting at this use, emanation at this use, or broken.",
   "new": "**Standing.** Candidate, confirmed · natural register, dissolved by its field, accounting with this use, emanation with this use, or broken.",
-  "verdict": "ASK",
-  "why": "This list repeats the standings' names of 3.1; it follows those ASKs, and confirmed in natural register takes 3.1's own name confirmed · natural register. To resolve: once the standings' names are settled, does this list carry them exactly?"
+  "verdict": "RESAY",
+  "why": "label re-said once across the file, v390"
  },
  {
   "old": "**Substrate and society.** Scale, participants, coupling, and eight-side society at which accounting is applied.",
-  "new": "**Substrate and same-existing-society.** Scale, participants, coupling, and eight-side same-existing-society with which accounting is applied.",
-  "verdict": "ASK",
-  "why": "A property label with society alone: same-existing-society. The label Substrate and society and eight-side society recur at every entry past line 647, so a single re-saying must reach all. To resolve: do the labels become Substrate and same-existing-society and Eight-side same-existing-society file-wide?"
+  "new": "**Substrate and society.** Scale, participants, coupling, and eight-side same-existing-society with which accounting is applied.",
+  "verdict": "RESAY",
+  "why": "label re-said once across the file, v390"
  },
  {
   "old": "**Departure mode.** Ghosting, haunting, installing, or more than one, with field-observing between change stated.",
@@ -506,8 +506,8 @@
  {
   "old": "**Living changing.** Along-turns, trajectories, exchanges, or re-formings.",
   "new": "**Living parity-changing.** Along-turns, trajectories, exchanges, or re-formings.",
-  "verdict": "ASK",
-  "why": "A property label: changing alone, a living self's parity is or is not same-existing, becomes parity-changing, matching ghost-form's installed as living parity-changing. The label recurs at every entry past line 647. To resolve: does the label become Living parity-changing file-wide?"
+  "verdict": "RESAY",
+  "why": "label re-said once across the file, v390"
  },
  {
   "old": "**Apparent not-changing.** Across-observing, average, plateau, state, category, constant, stationary distribution, conserved total, or fitted structure.",
@@ -547,9 +547,9 @@
  },
  {
   "old": "**Eight-side society.** Four within/across pairs for this substrate.",
-  "new": "**Eight-side same-existing-society.** Four within/across pairs for this substrate.",
-  "verdict": "ASK",
-  "why": "A property label with society alone: same-existing-society. It recurs at every entry past line 647. To resolve: does the label become Eight-side same-existing-society file-wide, with Substrate and same-existing-society?"
+  "new": "**Eight-side society.** Four within/across pairs for this substrate.",
+  "verdict": "RESAY",
+  "why": "label re-said once across the file, v390"
  },
  {
   "old": "**Addresses.** Each property addressed at a living-file section or a beyond source.",
@@ -572,8 +572,8 @@
  {
   "old": "**What the field already released.** Qualifications, operational restrictions, ensemble replacements, renamings, or domain limits already in record.",
   "new": "**What its field already dissolved.** Qualifications, operational restrictions, ensemble replacements, renamings, or domain limits already recorded.",
-  "verdict": "ASK",
-  "why": "A report label: the field becomes its field, released for a form that leaves becomes dissolved; in record becomes recorded. The label recurs at every entry past line 647. To resolve: does the label become What its field already dissolved file-wide, with the standing dissolved by its field?"
+  "verdict": "RESAY",
+  "why": "label re-said once across the file, v390"
  },
  {
   "old": "**Progress.** Co-competency formed between sources at this entry.",

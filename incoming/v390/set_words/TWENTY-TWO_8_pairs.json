@@ -409,9 +409,9 @@
  },
  {
   "old": "in field's own words, with interaction accounts fitting all that is observed at a much smaller total:",
-  "new": "in field's own words, with interaction accounts fitting all that is observed with a much smaller total:",
+  "new": "as field's own words, with interaction accounts fitting all that is observed with a much smaller total:",
   "verdict": "RESAY",
-  "why": "at: with; field's own words before it stay"
+  "why": "in: as; at: with; field's own words before it stay"
  },
  {
   "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** A coupling at a between makes a term neither side brought, and it is observed from one side as a substance's contribution with context fixed unchangeable.",
@@ -751,7 +751,7 @@
  },
  {
   "old": "Normal tissue carries driver burdens that do not tip, which is an offering arriving and tissue society releasing it at nought — society's own resolving, with a defence added nowhere.",
-  "new": "Normal tissue carries driver burdens that do not tip, which is an offering arriving and a tissue's same-existing-society meeting it with nought — a same-existing-society's resolving, with no defence added.",
+  "new": "Normal tissue carries driver burdens that do not tip, which is an offering arriving and a tissue, a same-existing-society, meeting it with nought — a same-existing-society's resolving, with no defence added.",
   "verdict": "RESAY",
   "why": "society: same-existing-society; releasing it at nought: meeting it with nought; own dropped, no parity a same-existing-society's own; nowhere: no"
  },
@@ -1042,5 +1042,95 @@
   "new": "coupling observed live with its own momentary: a task fixed to measure thought apart from language fixes one side of a coupling unchangeable, and making is by a coupling, task by task.",
   "verdict": "RESAY",
   "why": "at: with, by"
+ },
+ {
+  "old": "A gradient is an emanation, non-living at this scale and ingested one scale inward by living cells,",
+  "new": "A gradient is an emanation, non-living with this scale and ingested one scale inward by living cells,",
+  "verdict": "RESAY",
+  "why": "at: with; inward stays"
+ },
+ {
+  "old": "No statistical test establishes indeterminism, proved in general,",
+  "new": "No statistical test establishes indeterminism, proved generally,",
+  "verdict": "RESAY",
+  "why": "in general: generally; no statistical test is field's own proved result and stays"
+ },
+ {
+  "old": "proved in general, chaos hides determinism behind unpredictability,",
+  "new": "proved generally, chaos hides determinism behind unpredictability,",
+  "verdict": "RESAY",
+  "why": "in general: generally"
+ },
+ {
+  "old": "## 8.14 The solar abundance problem · 184",
+  "new": "## 8.14 The solar abundance problem · 184",
+  "verdict": "KEEP",
+  "why": "heading, kept exactly"
+ },
+ {
+  "old": "## 8.15 The primordial lithium problem · 182",
+  "new": "## 8.15 The primordial lithium problem · 182",
+  "verdict": "KEEP",
+  "why": "heading, kept exactly"
+ },
+ {
+  "old": "## 8.16 The neutron lifetime discrepancy between beam and bottle measurements · 252",
+  "new": "## 8.16 The neutron lifetime discrepancy between beam and bottle measurements · 252",
+  "verdict": "KEEP",
+  "why": "heading, kept exactly"
+ },
+ {
+  "old": "## 9.14 The transformation problem · 84",
+  "new": "## 9.14 The transformation problem · 84",
+  "verdict": "KEEP",
+  "why": "heading, kept exactly"
+ },
+ {
+  "old": "## 9.17 Determinism and randomness · 110",
+  "new": "## 9.17 Determinism and randomness · 110",
+  "verdict": "KEEP",
+  "why": "heading, kept exactly; randomness a field's own term"
+ },
+ {
+  "old": "## 9.18 Cancer, the somatic mutation account and its rival · 115",
+  "new": "## 9.18 Cancer, the somatic mutation account and its rival · 115",
+  "verdict": "KEEP",
+  "why": "heading, kept exactly"
+ },
+ {
+  "old": "## 9.21 The Red Queen · 119",
+  "new": "## 9.21 The Red Queen · 119",
+  "verdict": "KEEP",
+  "why": "heading, kept exactly; title of an outside work"
+ },
+ {
+  "old": "## 9.22 The hygiene hypothesis · 120",
+  "new": "## 9.22 The hygiene hypothesis · 120",
+  "verdict": "KEEP",
+  "why": "heading, kept exactly"
+ },
+ {
+  "old": "## 9.23 The dodo bird verdict · 122",
+  "new": "## 9.23 The dodo bird verdict · 122",
+  "verdict": "KEEP",
+  "why": "heading, kept exactly"
+ },
+ {
+  "old": "## 9.25 The paradox of thrift · 142",
+  "new": "## 9.25 The paradox of thrift · 142",
+  "verdict": "KEEP",
+  "why": "heading, kept exactly"
+ },
+ {
+  "old": "## 9.26 The evolution of cooperation · 143",
+  "new": "## 9.26 The evolution of cooperation · 143",
+  "verdict": "KEEP",
+  "why": "heading, kept exactly"
+ },
+ {
+  "old": "## 9.27 The Whorf question · 146",
+  "new": "## 9.27 The Whorf question · 146",
+  "verdict": "KEEP",
+  "why": "heading, kept exactly"
  }
 ]
