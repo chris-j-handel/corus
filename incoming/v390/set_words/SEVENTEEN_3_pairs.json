@@ -271,9 +271,9 @@
  },
  {
   "old": "In vertebrate embryo, monocilia at node rotate in one direction",
-  "new": "With a vertebrate embryo, monocilia of its node rotate with one direction",
+  "new": "With a vertebrate embryo, monocilia of its node rotate one way",
   "verdict": "RESAY",
-  "why": "in: with; at: of."
+  "why": "in: with, removed; at: of."
  },
  {
   "old": "In invertebrates the same descent carries through cell chirality",
@@ -421,7 +421,7 @@
  },
  {
   "old": "Conflict-mediators in a field's own words",
-  "new": "Conflict-mediators with a field's own words",
+  "new": "Conflict-mediators by a field's own words",
   "verdict": "RESAY",
   "why": "in: with."
  },
