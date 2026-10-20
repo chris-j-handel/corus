@@ -313,13 +313,13 @@
  },
  {
   "old": "42. All changing is parity changing, one parity to its other: each existing thing at now is or is not, step 9, its changing one form and then its other, and two forms are two parities of a coupling, step 40.",
-  "new": "42. Each is or is not is parity-changing, one parity to its other: each now-existing thing is or is not, step 9, its parity-changing one form and then its other, and two forms are two parities of a coupling, step 40.",
+  "new": "42. Parity-changing is is or is not same-existing, one parity to its other: each now-existing thing is or is not, step 9, its parity-changing one form and then its other, and two forms are two parities of a coupling, step 40.",
   "verdict": "RESAY",
   "why": "all changing: each is or is not; changing: parity-changing; at now: now-existing."
  },
  {
   "old": "*Adding: all changing parity changing.*",
-  "new": "*Adding: each is or is not, parity-changing.*",
+  "new": "*Adding: parity-changing, is or is not same-existing.*",
   "verdict": "RESAY",
   "why": "all changing parity changing: each is or is not, parity-changing."
  },
@@ -1118,8 +1118,8 @@
  {
   "old": "158. Observed at a fixing unchangeable, changing arrives as appearance and unchangeable form as real, observing inverted, changing existing and form still not possibly existing; a self's resolving observed from beside it surfaces as random or as necessitated, two forms still at one resolving self's own.",
   "new": "158. Observed by a fixing unchangeable, parity-changing arrives as appearance and unchangeable form as real, observing inverted, parity-changing existing and a form still not possibly existing; a self's resolving observed from beside it surfaces as *random* or as *necessitated*, two forms still fixed from beside on one resolving self's own all or none.",
-  "verdict": "ASK",
-  "why": "Re-said at: by, on; changing: parity-changing. *Random* names a statistic: here it is a beside-observer's view of a self's all-or-none resolving, not a claim of the method, so my re-saying marks *random* and *necessitated* as words mentioned, two forms still fixed from beside. Keeping a statistic's word even as a mentioned word may need agreeing. To resolve: may *random* stay as a mentioned word naming a beside-view, or should this clause drop it?"
+  "verdict": "KEEP",
+  "why": "random kept as a mentioned word"
  },
  {
   "old": "A hypothesis explains changing and not-changing between records and a theory is a hypothesis tested at further records:",
