@@ -655,9 +655,9 @@
  },
  {
   "old": "**At 2-now-possibling.** Passage is at each coupling and a first is fixed behind it in a boundary condition, an asymmetry fixed to sit at a place.",
-  "new": "**With 2-now-possibling.** Passage is with each coupling and a first is fixed behind it as a boundary condition, an asymmetry fixed to sit by one place.",
+  "new": "**With 2-now-possibling.** Passage is with each coupling and a first is fixed behind it as a boundary condition, an asymmetry fixed to one place.",
   "verdict": "RESAY",
-  "why": "line label at: with; at: with, by; in: as"
+  "why": "line label at: with; at: with, re-said; in: as"
  },
  {
   "old": "**At 12-next-co-same-existing.** That an asymmetry has a locus, either in laws",

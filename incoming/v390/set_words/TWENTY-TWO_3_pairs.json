@@ -994,5 +994,167 @@
   "new": "a theorem fixed as located by its classical twin, a finding fixed to a place within a listed class, and its proof, when it opens, opens with its own next position, a position second and third accounts already look to.",
   "verdict": "RESAY",
   "why": "in/into/out/beyond: re-said by meaning (within, with, to, by, for, past, across); at, place or time: with, by, or re-said by meaning"
+ },
+ {
+  "old": "**At 11-next-co-observing.** One-way functions stand equivalent to central private-key primitives and to a stated complexity condition;",
+  "new": "**With 11-next-co-observing.** One-way functions stand equivalent to central private-key primitives and to a stated complexity condition;",
+  "verdict": "RESAY",
+  "why": "bold label At N: With N, at re-said as with"
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** A polynomial is tested at a point, one evaluation and then a next, and a deterministic test is fixed as a place the randomized one already occupies, its randomness a coordinate to be removed.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** A polynomial is tested at a point, one evaluation and then a next, and a deterministic test is fixed as a place a randomized one already occupies, its randomness a coordinate to be removed.",
+  "verdict": "RESAY",
+  "why": "*+ or − at 10, is.*: at, place or time: with 10, 10-next-co-possibling's parity-offering, + or −; bold label At N: With N, at re-said as with; the: a, an, its, one, both, or removed; kept only for one and only one; tested at a point: a field's own term, kept; randomized, randomness: a field's own terms, kept"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A deterministic algorithm fixed as located where the randomized one stands.",
+  "new": "**With 12-next-co-same-existing.** A deterministic algorithm fixed as located where a randomized one stands.",
+  "verdict": "RESAY",
+  "why": "bold label At N: With N, at re-said as with; the: a, an, its, one, both, or removed; kept only for one and only one; randomized: a field's own term, kept"
+ },
+ {
+  "old": "Random evaluation gives an efficient test, while constructing a small deterministic hitting set for general circuits remains open,",
+  "new": "Random evaluation gives an efficient test, while constructing a small deterministic hitting set for general circuits remains open,",
+  "verdict": "KEEP",
+  "why": "a field's own words, quotation, measurement or term in its own sense, kept unchanged (the, in, at, statistical and random terms of its record); statistical, stochastic, random, sampling, typically, likely, average-case: a field's own terms of its measured record, KEEP"
+ },
+ {
+  "old": "randomized algorithms stand in a class conjectured equal to the deterministic one, so that derandomizing is a reasonable goal,",
+  "new": "randomized algorithms stand in a class conjectured equal to the deterministic one, so that derandomizing is a reasonable goal,",
+  "verdict": "KEEP",
+  "why": "a field's own words, quotation, measurement or term in its own sense, kept unchanged (the, in, at, statistical and random terms of its record); statistical, stochastic, random, sampling, typically, likely, average-case: a field's own terms of its measured record, KEEP"
+ },
+ {
+  "old": "and a conjectured equality of the two classes stands between a general test with bounded error and a deterministic test sought: a place fixed at a conjecture about classes, an opening at a lower bound unmade now.",
+  "new": "and a conjectured equality of both classes stands between a general test with bounded error and a deterministic test sought: a place fixed by a conjecture about classes, an opening with a lower bound unmade now.",
+  "verdict": "RESAY",
+  "why": "the: a, an, its, one, both, or removed; kept only for one and only one; at, place or time: with, by, or re-said by meaning"
+ },
+ {
+  "old": "**At 11-next-co-observing.** Efficient randomized testing, equivalences to hitting sets and strong conditional links between derandomization and lower bounds stand;",
+  "new": "**With 11-next-co-observing.** Efficient randomized testing, equivalences to hitting sets and strong conditional links between derandomization and lower bounds stand;",
+  "verdict": "RESAY",
+  "why": "bold label At N: With N, at re-said as with; randomized: a field's own term, kept"
+ },
+ {
+  "old": "and hardness-versus-randomness converts sufficiently explicit lower bounds into derandomization, conditionally, a second account:",
+  "new": "and hardness-versus-randomness converts sufficiently explicit lower bounds to derandomization, conditionally, a second account:",
+  "verdict": "RESAY",
+  "why": "in/into/out/beyond: re-said by meaning (within, with, to, by, for, past, across); hardness-versus-randomness: a field's own term, kept"
+ },
+ {
+  "old": "a test fixed as having a deterministic place already located, a finding fixed to a listing of classes, and each restricted class derandomized is an axis opened at its own structure, a general one opening where a lower bound opens.",
+  "new": "a test fixed as having a deterministic place already located, a finding fixed to a listing of classes, and each restricted class derandomized is an axis opened by its own structure, a general one opening where a lower bound opens.",
+  "verdict": "RESAY",
+  "why": "at, place or time: with, by, or re-said by meaning"
+ },
+ {
+  "old": "## 2.22 The Unique Games conjecture · 240",
+  "new": "## 2.22 The Unique Games conjecture · 240",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** A game's value is reached over its prover strategies, and hardness of distinguishing a nearly satisfiable game from a nearly unsatisfiable one is fixed as a place, NP-hard for a large enough alphabet at each gap.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** A game's value is reached over its prover strategies, and hardness of distinguishing a nearly satisfiable game from a nearly unsatisfiable one is fixed as a place, NP-hard for a large enough alphabet for each gap.",
+  "verdict": "RESAY",
+  "why": "*+ or − at 10, is.*: at, place or time: with 10, 10-next-co-possibling's parity-offering, + or −; bold label At N: With N, at re-said as with; at, place or time: with, by, or re-said by meaning"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A hardness fixed as located at a place between exponential and polynomial.",
+  "new": "**With 12-next-co-same-existing.** A hardness fixed as located as a place between exponential and polynomial.",
+  "verdict": "RESAY",
+  "why": "bold label At N: With N, at re-said as with; at, place or time: with, by, or re-said by meaning"
+ },
+ {
+  "old": "A subexponential algorithm, unimproved since it was found, puts its problem among the few whose best algorithm falls between the two, which was a surprise,",
+  "new": "A subexponential algorithm, unimproved since it was found, puts its problem among the few whose best algorithm falls between the two, which was a surprise,",
+  "verdict": "KEEP",
+  "why": "a field's own words, quotation, measurement or term in its own sense, kept unchanged (the, in, at, statistical and random terms of its record)"
+ },
+ {
+  "old": "known attacks work equally at completeness near one and at exactly one and fall far short of disproving its conjecture, and unique games on expanding graphs are easy:",
+  "new": "known attacks work equally at completeness near one and at exactly one and fall far short of disproving its conjecture, and unique games on expanding graphs are easy:",
+  "verdict": "KEEP",
+  "why": "a field's own words, quotation, measurement or term in its own sense, kept unchanged (the, in, at, statistical and random terms of its record); at completeness near one and at exactly one: a field's own terms"
+ },
+ {
+  "old": "a place fixed in a listed hierarchy of running times, and its conjecture a name of a position no algorithm has reached from either side.",
+  "new": "a place fixed within a listed hierarchy of running times, and its conjecture a name of a position no algorithm has reached from either side.",
+  "verdict": "RESAY",
+  "why": "in/into/out/beyond: re-said by meaning (within, with, to, by, for, past, across)"
+ },
+ {
+  "old": "**At 11-next-co-observing.** Sharp conditional hardness consequences,",
+  "new": "**With 11-next-co-observing.** Sharp conditional hardness consequences,",
+  "verdict": "RESAY",
+  "why": "bold label At N: With N, at re-said as with"
+ },
+ {
+  "old": "a third account has hardness only after its gap or its structure is changed:",
+  "new": "a third account has hardness only after its gap or its structure is altered:",
+  "verdict": "RESAY",
+  "why": "changing alone, re-said by meaning: a field account altering its gap or structure is no parity-changing, so altered"
+ },
+ {
+  "old": "a hardness fixed at a place, a finding fixed to a listing of times, and conditional consequences that stand proved are openings at a conjecture's own next, each theorem an axis opened on its assumption and carrying there.",
+  "new": "a hardness fixed as a place, a finding fixed to a listing of times, and conditional consequences that stand proved are openings with a conjecture's own next, each theorem an axis opened on its assumption and carrying there.",
+  "verdict": "RESAY",
+  "why": "at, place or time: with, by, or re-said by meaning"
+ },
+ {
+  "old": "## 2.23 The graph isomorphism problem · 251",
+  "new": "## 2.23 The graph isomorphism problem · 251",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** Two graphs are compared at their couplings, vertex to vertex, and its problem's complexity is fixed as a place in a listed hierarchy of classes, polynomial or complete, with the problem one of the few natural ones at neither.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** Two graphs are compared by their couplings, vertex to vertex, and its problem's complexity is fixed as a place within a listed hierarchy of classes, polynomial or complete, with its problem one of few natural ones that are neither.",
+  "verdict": "RESAY",
+  "why": "*+ or − at 10, is.*: at, place or time: with 10, 10-next-co-possibling's parity-offering, + or −; bold label At N: With N, at re-said as with; at, place or time: with, by, or re-said by meaning; in/into/out/beyond: re-said by meaning (within, with, to, by, for, past, across); the: a, an, its, one, both, or removed; kept only for one and only one"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A problem fixed as having a place in a listing that has none for it.",
+  "new": "**With 12-next-co-same-existing.** A problem fixed as having a place within a listing that has none for it.",
+  "verdict": "RESAY",
+  "why": "bold label At N: With N, at re-said as with; in/into/out/beyond: re-said by meaning (within, with, to, by, for, past, across)"
+ },
+ {
+  "old": "and after group-theoretic methods were refined for decades no real progress on a general problem was made until, out of the blue, a quasipolynomial algorithm arrived, combining several major and very distinct new ideas;",
+  "new": "and after group-theoretic methods were refined for decades no real progress on a general problem was made until, out of the blue, a quasipolynomial algorithm arrived, combining several major and very distinct new ideas;",
+  "verdict": "KEEP",
+  "why": "a field's own words, quotation, measurement or term in its own sense, kept unchanged (the, in, at, statistical and random terms of its record); out of the blue: a field's own words"
+ },
+ {
+  "old": "a quasipolynomial bound and polynomial algorithms on restricted classes do not place its general problem in a class, and an intermediate possibility stands open:",
+  "new": "a quasipolynomial bound and polynomial algorithms on restricted classes do not place its general problem within a class, and an intermediate possibility stands open:",
+  "verdict": "RESAY",
+  "why": "in/into/out/beyond: re-said by meaning (within, with, to, by, for, past, across)"
+ },
+ {
+  "old": "a listing with no line for its arrival, and its arrival an opening at its own next position.",
+  "new": "a listing with no line for its arrival, and its arrival an opening with its own next position.",
+  "verdict": "RESAY",
+  "why": "at, place or time: with, by, or re-said by meaning"
+ },
+ {
+  "old": "**At 11-next-co-observing.** A quasipolynomial upper bound stands proved, canonical forms in quasipolynomial time stand,",
+  "new": "**With 11-next-co-observing.** A quasipolynomial upper bound stands proved, canonical forms in quasipolynomial time stand,",
+  "verdict": "RESAY",
+  "why": "bold label At N: With N, at re-said as with; in quasipolynomial time: a field's own term, kept"
+ },
+ {
+  "old": "a first account has its quasipolynomial bound the present and not the last, a second has its problem intermediate:",
+  "new": "a first account has its quasipolynomial bound present and not last, a second has its problem intermediate:",
+  "verdict": "RESAY",
+  "why": "the: a, an, its, one, both, or removed; kept only for one and only one"
+ },
+ {
+  "old": "a complexity fixed as a place in a listed hierarchy, a finding fixed to a listing, and an algorithm that arrived out of the blue arrived as an opening arrives, at a position a listing had not carried, a class it belongs to a question about a listing and not about graphs.",
+  "new": "a complexity fixed as a place within a listed hierarchy, a finding fixed to a listing, and an algorithm that arrived out of the blue arrived as an opening arrives, with a position a listing had not carried, a class it belongs to a question about a listing and not about graphs.",
+  "verdict": "RESAY",
+  "why": "in/into/out/beyond: re-said by meaning (within, with, to, by, for, past, across); at, place or time: with, by, or re-said by meaning; out of the blue: a field's own words, kept"
  }
 ]
