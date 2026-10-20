@@ -127,7 +127,8 @@ Carried with naming motions. Each re-saying is done by reading, never as a swap.
 - **M26:** possibling, keeping *possible* with *no other possible*.
 
 **Waiting on meaning, bothboth:**
-- **M18:** what each of an opening's six lines with *changing* becomes. *The changing universe* in consciousness's line especially: is it *the same-existing-universe*?
+- **M18:** what each of an opening's six lines with *changing* becomes. *Carved bothboth, v390, for consciousness's line:* *Consciousness is observing, possibling, and discovering next-existing self in the same-existing universe.* To enter with an opening's walk. Two small points kept with it: agreed naming hyphenates *same-existing-universe*, and *in* is a word our naming has been releasing.
+  - Five other lines with *changing* alone wait for the walk.
 
 ## Cluster 5 · Exhibit ONE's text and its checks
 
