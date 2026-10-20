@@ -140,7 +140,7 @@ arriving side, one: 2, 14 and 17
 | 16 | **16-next-discovering** | same | 1111 | one |
 | 17 | **17-next-existing** | now, next turn | 0000 again | one |
 
-What code does with each name:
+Code with each name:
 
 - **1** · a living self's momentary given, each self's 17 existing as 1
 - **2** · parity-offerings arriving, each with its sharing
@@ -176,7 +176,7 @@ Now and prior are odd; next and same are even. Next is possibling, prior is obse
 **Five dimensions, ten and six.** Same-existing parity-changes in five dimensions: prior-existing self-parity; prior-existing other-parity; now-existing co-parity; now-existing bi-parity; next-existing same-existing self-parity. Co-parity and bi-parity are a sharing's two meetings: self-parity and other-parity same, a 0 and no parity-changing, or not same, a parity-changing. One five is all fives: five self and five other, one parity separated, are ten is or is nots, a self's ten own names, and six between selves are their floating neutraling co-linear. With code: self-parity prior, 3 and 7; other-parity prior, parity-offerings with 2 and 14; co-parity or bi-parity met, 4 and 12; next same-existing self-parity forming with 11, and a self's next itself with 17.
 
 
-**Co, between two or of one.** Bi-moral is Exhibit ONE's eight co names, 3 to 6 and 9 to 12, each root once now-co and once next-co where it has two, always between two; a name without co is of one, with no self-morality.
+**Co, between two or of one.** Bi-moral is Exhibit ONE's eight co names, 3 to 6 and 9 to 12, each root with two co names once now-co and once next-co, always between two; a name without co is of one, with no self-morality.
 
 - **Root: observing**
   - *With co, between two*: 3-now-co-observing · 11-next-co-observing, priors with each sharing
@@ -555,7 +555,7 @@ Now and prior are odd; next and same are even. Next is possibling, prior is obse
   - *Naming*: parity's square and triangles
   - *Resolved as*: a unit square of four dots, 2, 6, 14 and 10, its empty centre a between: its two across edges sharings, 6 to 2 and 10 to 14, and its two edges 8 apart, 2 with 10 and 6 with 14, two pairs of parallels; round it 2, 10, 14, 6; its diagonals offerings with 2 and 14, and sharings with 6 and 10; and two unit triangles, 9 and 17, along, 9 to 17 and 17 to 9
 
-**A 0, betweening.** A between is within a bi-coupling, a third living carrying, possibling and discovering betweening; a 0, neither self-moral-value nor other-moral-value, is its betweening, shared only where two selves meet same, and never by a self no other meets.
+**A 0, betweening.** A between is within a bi-coupling, a third living carrying, possibling and discovering betweening; a 0, neither self-moral-value nor other-moral-value, is its betweening, shared only as two selves meet same, and never by a self no other meets.
 
 - **A between, 0: one between, three names**
   - *Names*: 12-next-co-same-existing, prior and now agreeing, a between of momentaries with each sharing; 15-next-observing, a between going along, parity 10 shared, and with a sharing opening parity surfaced with 14, a 0 both with none surfacing and with + and − parting; 16-next-discovering, a between with a same-existing-society, arriving with a next momentary's 2
