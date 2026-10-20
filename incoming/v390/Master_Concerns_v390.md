@@ -53,7 +53,7 @@ Relieves eight concerns.
   - Along, odd, between 1 and 17: 3, 5, 7, 9, 11, 13 and 15, seven, one lower than eight.
   - Across, even, forward from 1: 2, 4, 6, 8, 10, 12, 14, 16 and 18, nine, one higher than eight, 18 being a next 1's 2.
   - An earlier reading counted across with a 0, reaching back before 1; a 0 is no name, and *forward from 1* never reaches back. Released.
-  - For agreeing: is across's ninth 18, a next momentarying's first even?
+  - *Resolved bothboth, v390:* across is within a between of parity, one momentarying's odd to even. From a 0 self, nine bi-moral across count 2, 4, 6, 8, 10, 12, 14, 16, 18; seven along count 3, 5, 7, 9, 11, 13, 15.
 
 ## Cluster 2 · one sense for parity and for other
 
@@ -202,4 +202,4 @@ Each line is agreed line by line. Meaning, bothboth.
 
 ## Largest cluster for meaning
 
-**Cluster 1, momentarying and four-cycling as two concepts,** relieves eight concerns and gives wording to many lines of an opening's walk. Its one question for meaning is M6: is across's ninth 18, a next momentarying's first even? Cluster 2 follows: its one question decides about 220 sayings of a motion ahead.
+**Cluster 1, momentarying and four-cycling as two concepts,** relieves eight concerns and gives wording to many lines of an opening's walk. Its one question for meaning, M6, is resolved: from a 0 self, nine bi-moral across, 2 to 18, and seven along, 3 to 15. Cluster 2 follows: its one question decides about 220 sayings of a motion ahead.
