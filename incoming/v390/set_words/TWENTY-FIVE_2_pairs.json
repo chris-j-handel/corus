@@ -1,0 +1,1202 @@
+[
+ {
+  "old": "## 2.10 A node observed at one rate",
+  "new": "## 2.10 A node observed at one rate",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**Society reached.** A sinoatrial node, thousands of cells coupled through low-resistance junctions, observed at an electrocardiogram as one heart rate.",
+  "new": "**Same-existing-society reached.** A sinoatrial node, thousands of cells coupled through low-resistance junctions, observed with an electrocardiogram as one heart rate.",
+  "verdict": "RESAY",
+  "why": "society alone: same-existing-society, as a society of selves is a same-existing-society; the registry's own label carries it. at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "Each cell firing at its own period, or irregularly, or not at all, each junction carrying current one way at one instant.",
+  "new": "Each cell firing with its own period, or irregularly, or not at all, each junction carrying current one way each instant.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning. 'not at all' kept."
+ },
+ {
+  "old": "a fraction firing at will or silent in intact tissue.",
+  "new": "a fraction firing on their own or silent within intact tissue.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning. in, into, out, beyond: re-said by meaning (within, across, as, to, from). Intact tissue is a field's term."
+ },
+ {
+  "old": "Most cells fire with a tissue's common period, and an exit carries one beat.",
+  "new": "Most cells fire with a tissue's common period, and an exit carries one beat.",
+  "verdict": "KEEP",
+  "why": "statistics: 'most' is a field's observed count of cells, not a likelihood offered; kept."
+ },
+ {
+  "old": "Isolated, each cell keeps its own period and its own variability, and more than half fall dormant.",
+  "new": "Isolated, each cell fires with its own period and its own variability, and more than half fall dormant.",
+  "verdict": "RESAY",
+  "why": "keep: a cell keeping its period is a cell firing with it; nothing is held."
+ },
+ {
+  "old": "In intact tissue many fire at their own rates or irregularly, or stay silent with local calcium releases only.",
+  "new": "Within intact tissue many fire with their own rates or irregularly, or stay silent with local calcium releases only.",
+  "verdict": "RESAY",
+  "why": "in, into, out, beyond: re-said by meaning (within, across, as, to, from). at, as place or time: with, across, on, to, by or together, by meaning. 'Local calcium releases' is a field's own term, kept."
+ },
+ {
+  "old": "The earliest activation shifts its site with nerves.",
+  "new": "The earliest activation shifts its site with nerves.",
+  "verdict": "KEEP",
+  "why": "the: an only first within its own set, the earliest; kept."
+ },
+ {
+  "old": "A field's own account moved from a master cell in 1978 to mutual entrainment in 1984 to heartbeat initiation without a pacemaker cell in 2020.",
+  "new": "A field's own account moved from a master cell in 1978 to mutual entrainment in 1984 to heartbeat initiation without a pacemaker cell in 2020.",
+  "verdict": "KEEP",
+  "why": "A record of a field's earlier versions, with their years; kept."
+ },
+ {
+  "old": "No cell carries a heart rate; cells that would be its leader change.",
+  "new": "No cell carries a heart rate, and no cell that would be its leader stays its leader.",
+  "verdict": "RESAY",
+  "why": "changing: a leading cell not same-existing as leader from one shift to its next."
+ },
+ {
+  "old": "Junctions, current leaving a leading cell and arriving at a lagging one, both changed, no wall.",
+  "new": "Junctions, current leaving a leading cell and reaching a lagging one, both parity-changing, no wall.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning. changing: both changed is both parity-changing, a self's parity is or is not same-existing."
+ },
+ {
+  "old": "A beat arrives at an exit while no cell moved and no cell's own firing travelled.",
+  "new": "A beat reaches an exit while no cell moved and no cell's own firing travelled.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "**Words carried.** The master pacemaker. The pacemaker drives the heart. The node's intrinsic rate. Heart rate variability. Sinus arrhythmia.",
+  "new": "**Words carried.** The master pacemaker. The pacemaker drives the heart. The node's intrinsic rate. Heart rate variability. Sinus arrhythmia.",
+  "verdict": "KEEP",
+  "why": "Words carried: a field's own sentences, quoted; kept."
+ },
+ {
+  "old": "**Standing in ten.** A two-way, fixed as one side — a master cell fixed as an actor and others as driven — released by a field in its own record, twice.",
+  "new": "**Standing among ten.** A two-way, fixed as one side — a master cell fixed as an actor and others as driven — dissolved by a field within its own record, twice.",
+  "verdict": "RESAY",
+  "why": "Label 'Standing in ten': in re-said, a line standing among the pattern's ten. releas-: a form a field let leave is dissolved. in, into, out, beyond: re-said by meaning (within, across, as, to, from)."
+ },
+ {
+  "old": "**Door.** TWENTY-SEVEN 7.8, passed at all ten; its addresses stand there.\n\n## 2.11 A planet observed at one budget",
+  "new": "**Door.** TWENTY-SEVEN 7.8, passed with all ten; its addresses stand there.\n\n## 2.11 A planet observed at one budget",
+  "verdict": "RESAY",
+  "why": "Door line: passed at all ten re-said passed with all ten; a door line repeats, so the next heading, kept exactly, makes old unique."
+ },
+ {
+  "old": "**Society reached.** A global carbon budget:",
+  "new": "**Same-existing-society reached.** A global carbon budget:",
+  "verdict": "RESAY",
+  "why": "society alone: same-existing-society, as a society of selves is a same-existing-society; the registry's own label carries it."
+ },
+ {
+  "old": "Each exchange of carbon at a surface — a leaf, a wave, a chimney, a fire — taking its parity one at a time; each flux a summing over them.",
+  "new": "Each exchange of carbon across a surface — a leaf, a wave, a chimney, a fire — taking its parity one at a time; each flux a summing over them.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning. 'one at a time' kept."
+ },
+ {
+  "old": "A growth rate, sinks and emissions in petagrams of carbon a year; an imbalance, 0.76 a year root-mean-square in the 2023 budget, largest after the 1991 eruption and the 1998 warmth; gross exchanges at land tens of times the net (nye at values).",
+  "new": "A growth rate, sinks and emissions in petagrams of carbon a year; an imbalance, 0.76 a year root-mean-square of the 2023 budget, largest after the 1991 eruption and the 1998 warmth; gross exchanges over land tens of times their net (nye for values).",
+  "verdict": "RESAY",
+  "why": "Measurements and units kept (in petagrams); the 2023 budget, the 1991 eruption, the 1998 warmth are one and only, kept; in, at re-said; the net: their net. 'nye at' re-said 'nye for': no place is meant."
+ },
+ {
+  "old": "A budget closes within an imbalance most years, and a growth rate is observed the same at every station within its resolution.",
+  "new": "A budget closes within an imbalance most years, and a growth rate is observed same with every station within its resolution.",
+  "verdict": "RESAY",
+  "why": "'most years' is a field's count of years observed, not a likelihood, kept; the same at: same with."
+ },
+ {
+  "old": "A net at land is a small difference of two large opposed crossings.",
+  "new": "A net over land is a small difference of two large opposed crossings.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "Molecules exchange in years while an excess persists for centuries.",
+  "new": "Molecules exchange within years while an excess persists for centuries.",
+  "verdict": "RESAY",
+  "why": "in, into, out, beyond: re-said by meaning (within, across, as, to, from)."
+ },
+ {
+  "old": "A residual carried a sink's name for a decade before a field split it into a land sink estimated and an imbalance under its own name, and in 2023 a land sink fell steeply under heat and drought.",
+  "new": "A residual carried a sink's name for a decade before a field split it into a land sink estimated and an imbalance under its own name, and in 2023 a land sink fell steeply under heat and drought.",
+  "verdict": "KEEP",
+  "why": "A record of a field's earlier versions and a dated finding; kept."
+ },
+ {
+  "old": "A global mean, a value at no place, toward which every station's reading is corrected.",
+  "new": "A global mean, a value no place has, toward which every station's reading is corrected.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "Every surface, carbon crossing both ways at rates unlike on two sides, no wall.",
+  "new": "Every surface, carbon crossing both ways with rates unlike on two sides, no wall.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "An excess arrives at every reservoir while molecules that carried it have long been exchanged.",
+  "new": "An excess reaches every reservoir while molecules that carried it have long been exchanged.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "**Words carried.** The budget balances. The sink absorbs. The biosphere takes up. The missing sink. The residual sink.",
+  "new": "**Words carried.** The budget balances. The sink absorbs. The biosphere takes up. The missing sink. The residual sink.",
+  "verdict": "KEEP",
+  "why": "Words carried: a field's own sentences, quoted; kept."
+ },
+ {
+  "old": "An imbalance is members not agreeing, published in a field's own units;",
+  "new": "An imbalance is members not agreeing, published with a field's own units;",
+  "verdict": "RESAY",
+  "why": "in, into, out, beyond: re-said by meaning (within, across, as, to, from)."
+ },
+ {
+  "old": "**Standing in ten.** A bound, fixed as a last — a ledger fixed as closing.",
+  "new": "**Standing among ten.** A bound, fixed as a last — a ledger fixed as closing.",
+  "verdict": "RESAY",
+  "why": "Label 'Standing in ten': in re-said, a line standing among the pattern's ten."
+ },
+ {
+  "old": "passed at all ten; its addresses stand there. Beside it here: 2.5, a count that was a detector's.",
+  "new": "passed with all ten; its addresses stand there. Beside it here: 2.5, a count that was a detector's.",
+  "verdict": "RESAY",
+  "why": "Door line: passed at all ten re-said passed with all ten."
+ },
+ {
+  "old": "## 2.12 A ring observed at one boundary",
+  "new": "## 2.12 A ring observed at one boundary",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**Society reached.** The greenish warbler around the Tibetan plateau: populations continuing north from the south along its western and its eastern sides, each interbreeding with an adjacent one all the way round, two northern forms reaching each other in Siberia and not interbreeding.",
+  "new": "**Same-existing-society reached.** The greenish warbler around the Tibetan plateau: populations continuing north from its south along its western and its eastern sides, each interbreeding with an adjacent one all round, two northern forms reaching each other within Siberia and not interbreeding.",
+  "verdict": "RESAY",
+  "why": "society alone: same-existing-society, as a society of selves is a same-existing-society; the registry's own label carries it. A species and a plateau are one and only, kept; the south: its south; the way round: all round; in Siberia: within Siberia."
+ },
+ {
+  "old": "Each population taking its parity at each population it shares with — interbreeding or not — one pair at a time;",
+  "new": "Each population taking its parity across each population it shares with — interbreeding or not — one pair at a time;",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning. 'one pair at a time' kept as one at a time."
+ },
+ {
+  "old": "Populations summed into forms; genomes summed into gene-flow estimates.",
+  "new": "Populations summed as forms; genomes summed as gene-flow estimates.",
+  "verdict": "RESAY",
+  "why": "in, into, out, beyond: re-said by meaning (within, across, as, to, from)."
+ },
+ {
+  "old": "gene flow between adjacent populations (nye at values).",
+  "new": "gene flow between adjacent populations (nye for values).",
+  "verdict": "RESAY",
+  "why": "'nye at' re-said 'nye for': no place is meant."
+ },
+ {
+  "old": "No step carries its isolation; every neighbouring pair interbreeds, and a boundary stands at no position.",
+  "new": "No step carries its isolation; every neighbouring pair interbreeds, and no position carries a boundary.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "Traits shifted along both arms in their own directions.",
+  "new": "Traits shifted along both arms, each its own direction.",
+  "verdict": "RESAY",
+  "why": "in, into, out, beyond: re-said by meaning (within, across, as, to, from)."
+ },
+ {
+  "old": "The 2014 genomes found past breaks in a ring,",
+  "new": "The 2014 genomes found past breaks along a ring,",
+  "verdict": "RESAY",
+  "why": "in, into, out, beyond: re-said by meaning (within, across, as, to, from). The 2014 genomes, one study, kept."
+ },
+ {
+  "old": "Every pair of adjacent populations, genes crossing both ways at their own rates; a reaching in Siberia one seam that carries no crossing, and it is a ring's.",
+  "new": "Every pair of adjacent populations, genes crossing both ways with their own rates; a reaching within Siberia one seam that carries no crossing, and it is a ring's.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning. in, into, out, beyond: re-said by meaning (within, across, as, to, from)."
+ },
+ {
+  "old": "Genes arrive in the north from the south while no bird flew a ring.",
+  "new": "Genes arrive north from south while no bird flew a ring.",
+  "verdict": "RESAY",
+  "why": "in, into, out, beyond: re-said by meaning (within, across, as, to, from). the: kept only for one and only one; else a, an, each, its, one, or removed."
+ },
+ {
+  "old": "**Words carried.** The species. The species boundary. Fitness determines survival. Selection acts on the population. The species adapts. Ring species.",
+  "new": "**Words carried.** The species. The species boundary. Fitness determines survival. Selection acts on the population. The species adapts. Ring species.",
+  "verdict": "KEEP",
+  "why": "Words carried: a field's own sentences, quoted; kept."
+ },
+ {
+  "old": "Isolation is what a ring's couplings arrive at and no step has;",
+  "new": "Isolation is a ring's couplings' arriving, and no step has it;",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "passed at all ten; its addresses stand there. Beside it here: 2.2, a boundary sharp in each member and at a different position in each.",
+  "new": "passed with all ten; its addresses stand there. Beside it here: 2.2, a boundary sharp with each member and with a different position for each.",
+  "verdict": "RESAY",
+  "why": "Door line: passed at all ten re-said passed with all ten; at, as place or time: with, across, on, to, by or together, by meaning. in, into, out, beyond: re-said by meaning (within, across, as, to, from)."
+ },
+ {
+  "old": "## 2.13 A web observed at one efficiency",
+  "new": "## 2.13 A web observed at one efficiency",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**Society reached.** An aquatic food web,",
+  "new": "**Same-existing-society reached.** An aquatic food web,",
+  "verdict": "RESAY",
+  "why": "society alone: same-existing-society, as a society of selves is a same-existing-society; the registry's own label carries it."
+ },
+ {
+  "old": "Each feeding event taking its parity — eaten, eating — one at a time; each organism at a fractional level.",
+  "new": "Each feeding event taking its parity — eaten, eating — one at a time; each organism on a fractional level.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning. 'one at a time' kept."
+ },
+ {
+  "old": "trophic levels from 1.0 at edible algae to 4.2 at tunas.",
+  "new": "trophic levels from 1.0 for edible algae to 4.2 for tunas.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning. Values are a field's measurements, kept."
+ },
+ {
+  "old": "No ecosystem carries the ten per cent.",
+  "new": "No ecosystem carries ten per cent.",
+  "verdict": "RESAY",
+  "why": "the: kept only for one and only one; else a, an, each, its, one, or removed."
+ },
+ {
+  "old": "No organism sits on an integer level; a tuna stands at 4.2, an average of what it eats.",
+  "new": "No organism sits on an integer level; a tuna stands on 4.2, an average of what it eats.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning. 'average' is a field's own definition of a trophic level, kept."
+ },
+ {
+  "old": "In a field's own long-term experiment, warming lowers efficiency.",
+  "new": "With a field's own long-term experiment, warming lowers efficiency.",
+  "verdict": "RESAY",
+  "why": "in, into, out, beyond: re-said by meaning (within, across, as, to, from)."
+ },
+ {
+  "old": "A level itself — a fractional position no organism occupies, defined as an average of what it eats plus one.",
+  "new": "A level itself — a fractional position no organism occupies, defined as an average of what it eats plus one.",
+  "verdict": "KEEP",
+  "why": "statistics: 'average' here is a field's own definition of a trophic level, a measurement and not a likelihood; kept."
+ },
+ {
+  "old": "Every feeding, the eaten unrelating from an eater at a gut, both changed, production leaving one level and arriving at the next.",
+  "new": "Every feeding, an eaten one unrelating from an eater across a gut, both parity-changing, production leaving one level and reaching its next.",
+  "verdict": "RESAY",
+  "why": "the: kept only for one and only one; else a, an, each, its, one, or removed. at, as place or time: with, across, on, to, by or together, by meaning. changing: both changed is both parity-changing, a self's parity is or is not same-existing."
+ },
+ {
+  "old": "What arrives at a tuna is not what stood in an alga; biomass is rebuilt at every step and no molecule passes up.",
+  "new": "What reaches a tuna is not what stood within an alga; biomass is rebuilt with every step and no molecule passes up.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning. in, into, out, beyond: re-said by meaning (within, across, as, to, from)."
+ },
+ {
+  "old": "**Words carried.** Energy flows up the food chain. The ten-per-cent law. Trophic level. The food chain. The keystone species controls. The balance of nature.",
+  "new": "**Words carried.** Energy flows up the food chain. The ten-per-cent law. Trophic level. The food chain. The keystone species controls. The balance of nature.",
+  "verdict": "KEEP",
+  "why": "Words carried: a field's own sentences, quoted; kept."
+ },
+ {
+  "old": "An efficiency is a ratio of productions at a coupling; a level is a mean; a flow is a rebuilding; a balance was released by a field itself into patch dynamics.",
+  "new": "An efficiency is a ratio of productions across a coupling; a level is a mean; a flow is a rebuilding; a balance was dissolved by a field itself, with patch dynamics its next.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning. releas-: a form a field let leave is dissolved. into: its next."
+ },
+ {
+  "old": "passed at all ten; its addresses stand there. Beside it here: 2.3, a chain that carries farther than any member moves.",
+  "new": "passed with all ten; its addresses stand there. Beside it here: 2.3, a chain that carries farther than any member moves.",
+  "verdict": "RESAY",
+  "why": "Door line: passed at all ten re-said passed with all ten."
+ },
+ {
+  "old": "**Standing in ten.** A sequencing, fixed as one beat along a chain",
+  "new": "**Standing among ten.** A sequencing, fixed as one beat along a chain",
+  "verdict": "RESAY",
+  "why": "Label 'Standing in ten': in re-said, a line standing among the pattern's ten."
+ },
+ {
+  "old": "## 2.14 A star observed at one count",
+  "new": "## 2.14 A star observed at one count",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**Society reached.** The Sun's core fusing hydrogen,",
+  "new": "**Same-existing-society reached.** The Sun's core fusing hydrogen,",
+  "verdict": "RESAY",
+  "why": "society alone: same-existing-society, as a society of selves is a same-existing-society; the registry's own label carries it. The Sun is one and only, kept."
+ },
+ {
+  "old": "Each neutrino arrival, one event at a time, taking at a detector a flavour parity the detector couples to.",
+  "new": "Each neutrino arrival, one event at a time, taking with a detector a flavour parity its detector couples to.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning. the: kept only for one and only one; else a, an, each, its, one, or removed."
+ },
+ {
+  "old": "A flux from a core; a fixed flavour at emission; a count that should match a model.",
+  "new": "A flux from a core; a fixed flavour at emission; a count that should match a model.",
+  "verdict": "KEEP",
+  "why": "Upstream: a field's own posits, at emission its own term; kept."
+ },
+ {
+  "old": "Captures counted in chlorine and gallium over months; recoil electrons in water; charged-current, neutral-current and elastic channels in heavy water; a model's flux from the sun's luminosity and composition.",
+  "new": "Captures counted with chlorine and gallium over months; recoil electrons with water; charged-current, neutral-current and elastic channels with heavy water; a model's flux from the sun's luminosity and composition.",
+  "verdict": "RESAY",
+  "why": "in, into, out, beyond: re-said by meaning (within, across, as, to, from). The sun is one and only, kept."
+ },
+ {
+  "old": "That a flavour emitted is the flavour that arrives; that a count belongs to the sun.",
+  "new": "That a flavour emitted is the flavour that arrives; that a count belongs to the sun.",
+  "verdict": "KEEP",
+  "why": "Upstream: a field's own inferencing prior, recorded; the sun one and only; kept."
+ },
+ {
+  "old": "Two-thirds arrive in flavours the first detectors could not see.",
+  "new": "Two-thirds arrive as flavours the first detectors could not see.",
+  "verdict": "RESAY",
+  "why": "in, into, out, beyond: re-said by meaning (within, across, as, to, from). The first detectors: an only first within its set, kept."
+ },
+ {
+  "old": "A deficit differed by energy, pp, beryllium and boron fluxes suppressed differently by the sun's own interior.",
+  "new": "A deficit differed by energy, pp, beryllium and boron fluxes suppressed differently by the sun's own interior.",
+  "verdict": "KEEP",
+  "why": "the: the sun, one and only; kept."
+ },
+ {
+  "old": "For thirty years members disagreed with a model under a name, the solar neutrino problem, and its disagreement was detectors' couplings.",
+  "new": "For thirty years members disagreed with a model under a name, the solar neutrino problem, and its disagreement was detectors' couplings.",
+  "verdict": "KEEP",
+  "why": "A field's own name, the solar neutrino problem, quoted; kept."
+ },
+ {
+  "old": "A total flux, observed at no single-flavour detector, standing where every flavour is counted.",
+  "new": "A total flux, observed by no single-flavour detector, standing where every flavour is counted.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "A detector's own between: a flavour it couples to is a parity it returns, and one flux returns a third or the whole by that one coupling — 2.5 at a star.",
+  "new": "A detector's own between: a flavour it couples to is a parity it returns, and one flux returns a third or its whole by that one coupling — 2.5 with a star.",
+  "verdict": "RESAY",
+  "why": "the: kept only for one and only one; else a, an, each, its, one, or removed. at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "What arrives is not what left, emitted at one flavour and arriving two-thirds at the others, and nothing was struck on its way.",
+  "new": "What arrives is not what left, emitted as one flavour and arriving two-thirds as other flavours, and nothing was struck on its way.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning. the: kept only for one and only one; else a, an, each, its, one, or removed."
+ },
+ {
+  "old": "**Words carried.** The missing neutrinos. The solar neutrino problem. Messengers from the core. The sun burns hydrogen. The surface of the sun. The solar constant.",
+  "new": "**Words carried.** The missing neutrinos. The solar neutrino problem. Messengers from the core. The sun burns hydrogen. The surface of the sun. The solar constant.",
+  "verdict": "KEEP",
+  "why": "Words carried: a field's own sentences, quoted; kept."
+ },
+ {
+  "old": "a messenger is a self alternating along its path and observed at one side;",
+  "new": "a messenger is a self alternating along its path and observed from one side;",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "**Standing in ten.** A magnitude, demanded of the sun from a vantage — a count fixed as the sun's own — released by a field with an all-flavour count of 2002.",
+  "new": "**Standing among ten.** A magnitude, demanded of the sun from a vantage — a count fixed as the sun's own — dissolved by a field with an all-flavour count of 2002.",
+  "verdict": "RESAY",
+  "why": "Label 'Standing in ten': in re-said, a line standing among the pattern's ten. releas-: a form a field let leave is dissolved. The sun one and only, kept."
+ },
+ {
+  "old": "passed at all ten, and the guard's first Neptune; its addresses stand there. Beside it here: 2.5, the same observing at a vacuum.",
+  "new": "passed with all ten, and its guard's first Neptune; its addresses stand there. Beside it here: 2.5, one same observing with a vacuum.",
+  "verdict": "RESAY",
+  "why": "Door line: passed with all ten; the: kept only for one and only one; else a, an, each, its, one, or removed. at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "## 2.15 A cosmos observed at one rate",
+  "new": "## 2.15 A cosmos observed at one rate",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**Society reached.** Galaxies and light from them",
+  "new": "**Same-existing-society reached.** Galaxies and light from them",
+  "verdict": "RESAY",
+  "why": "society alone: same-existing-society, as a society of selves is a same-existing-society; the registry's own label carries it. The background radiation, one and only, kept."
+ },
+ {
+  "old": "Each galaxy receding at its own velocity with its own motion;",
+  "new": "Each galaxy receding with its own velocity, its own motion;",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "A constant the universe has; space that expands; a ladder that climbs to it.",
+  "new": "A constant the universe has; space that expands; a ladder that climbs to it.",
+  "verdict": "KEEP",
+  "why": "Upstream: a field's own posits; the universe one and only; kept."
+ },
+ {
+  "old": "fitting one slope; the early, a sound horizon at last scattering carried forward through a model; two compared.",
+  "new": "fitting one slope; an early one, a sound horizon at last scattering carried forward through a model; two compared.",
+  "verdict": "RESAY",
+  "why": "the: kept only for one and only one; else a, an, each, its, one, or removed. 'at last scattering' is a field's own term, kept."
+ },
+ {
+  "old": "Telescopes summing over galaxies; a satellite summing over the sky.",
+  "new": "Telescopes summing over galaxies; a satellite summing over the sky.",
+  "verdict": "KEEP",
+  "why": "the sky, one and only; kept."
+ },
+ {
+  "old": "That one number is there; that two ladders return the same thing.",
+  "new": "That one number is there; that two ladders return one same thing.",
+  "verdict": "RESAY",
+  "why": "the: kept only for one and only one; else a, an, each, its, one, or removed."
+ },
+ {
+  "old": "67.4 ± 0.5 from an early observing and 73.04 ± 1.04 from the late, in kilometres per second per megaparsec, five standard deviations apart; a red-giant-tip calibration at 69.6 ± 0.8 ± 1.7 between them.",
+  "new": "67.4 ± 0.5 from an early observing and 73.04 ± 1.04 from a late one, in kilometres per second per megaparsec, five standard deviations apart; a red-giant-tip calibration of 69.6 ± 0.8 ± 1.7 between them.",
+  "verdict": "RESAY",
+  "why": "the: kept only for one and only one; else a, an, each, its, one, or removed. at, as place or time: with, across, on, to, by or together, by meaning. Units and standard deviations are a field's measurements, kept."
+ },
+ {
+  "old": "Within each ladder galaxies fit one slope, and within the background one scale.",
+  "new": "Within each ladder galaxies fit one slope, and within the background one scale.",
+  "verdict": "KEEP",
+  "why": "the background, one and only; kept."
+ },
+ {
+  "old": "A rate today, a slope at no galaxy.",
+  "new": "A rate today, a slope no galaxy has.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "A surface of last scattering, an early observing on one side and the late on the other, the same light crossing it; nye at its parity.",
+  "new": "A surface of last scattering, an early observing on one side and a late one on its other, one same light crossing it; nye for its parity.",
+  "verdict": "RESAY",
+  "why": "the: kept only for one and only one; else a, an, each, its, one, or removed. 'nye at' re-said 'nye for': no place is meant."
+ },
+ {
+  "old": "**Words carried.** The Hubble constant. The universe expands. The expansion rate. Tension. Early dark energy.",
+  "new": "**Words carried.** The Hubble constant. The universe expands. The expansion rate. Tension. Early dark energy.",
+  "verdict": "KEEP",
+  "why": "Words carried: a field's own sentences, quoted; kept."
+ },
+ {
+  "old": "A constant is a value today and varies by a model's own equations; an expansion is a stretching observed at arrival; a tension is members not agreeing; a posted component stands under the guard at TWENTY-SEVEN 7.7.",
+  "new": "A constant is a value today and varies by a model's own equations; an expansion is a stretching observed with arrival; a tension is members not agreeing; a posted component stands under TWENTY-SEVEN 7.7's guard.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning. the: kept only for one and only one; else a, an, each, its, one, or removed."
+ },
+ {
+  "old": "**Standing in ten.** A rate, fixed as a fixed magnitude — a rate fixed as a constant, in its very name. Filled at eight; 3 nye and 6 empty, entered as findings.",
+  "new": "**Standing among ten.** A rate, fixed as a fixed magnitude — a rate fixed as a constant, by its very name. Filled with eight; 3 nye and 6 empty, entered as findings.",
+  "verdict": "RESAY",
+  "why": "Label 'Standing in ten': in re-said, a line standing among the pattern's ten. in, into, out, beyond: re-said by meaning (within, across, as, to, from). at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "Beside it here: 2.11, the other global mean at no place.",
+  "new": "Beside it here: 2.11, an other global mean no place has.",
+  "verdict": "RESAY",
+  "why": "the: kept only for one and only one; else a, an, each, its, one, or removed. at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "## 2.16 A pattern observed one arrival at a time",
+  "new": "## 2.16 A pattern observed one arrival at a time",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**Society reached.** Electrons from a source",
+  "new": "**Same-existing-society reached.** Electrons from a source",
+  "verdict": "RESAY",
+  "why": "society alone: same-existing-society, as a society of selves is a same-existing-society; the registry's own label carries it."
+ },
+ {
+  "old": "Each arrival, a flash at one position, taking its parity at a detector one at a time.",
+  "new": "Each arrival, a flash on one position, taking its parity with a detector one at a time.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning. 'one at a time' kept."
+ },
+ {
+  "old": "A little thing that goes one way or the other; a wave that interferes; a duality between them.",
+  "new": "A little thing that goes one way or the other; a wave that interferes; a duality between them.",
+  "verdict": "KEEP",
+  "why": "Upstream: a field's own posit, recorded; kept."
+ },
+ {
+  "old": "a rate low enough that one electron is in an apparatus at a time;",
+  "new": "a rate low enough that one electron at a time is within an apparatus;",
+  "verdict": "RESAY",
+  "why": "in, into, out, beyond: re-said by meaning (within, across, as, to, from). 'one at a time' kept."
+ },
+ {
+  "old": "A detector summing arrivals into a pattern over tens of minutes.",
+  "new": "A detector summing arrivals as a pattern over tens of minutes.",
+  "verdict": "RESAY",
+  "why": "in, into, out, beyond: re-said by meaning (within, across, as, to, from)."
+ },
+ {
+  "old": "That interference needs two things at once; that each electron passed one side.",
+  "new": "That interference needs two things together; that each electron passed one side.",
+  "verdict": "RESAY",
+  "why": "at once: together."
+ },
+ {
+  "old": "A fringe spacing; a count at each position as arrivals accumulate (nye at counts per frame).",
+  "new": "A fringe spacing; a count for each position as arrivals accumulate (nye for counts per frame).",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning. 'nye at' re-said 'nye for': no place is meant."
+ },
+ {
+  "old": "Each arrival is one flash at one position and carries no fringe.",
+  "new": "Each arrival is one flash on one position and carries no fringe.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "One electron at a time is in an apparatus, so no two interfere with each other.",
+  "new": "One electron at a time is within an apparatus, so no two interfere with each other.",
+  "verdict": "RESAY",
+  "why": "in, into, out, beyond: re-said by meaning (within, across, as, to, from)."
+ },
+ {
+  "old": "No path is assigned to any arrival, and fringes exist at no arrival.",
+  "new": "No path is assigned to any arrival, and no arrival has a fringe.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "A biprism, two paths unrelating at a nothing, one flash arriving from both.",
+  "new": "A biprism, two paths unrelating across a nothing, one flash arriving from both.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "What arrives at a detector is a position; what left a source took neither path.",
+  "new": "What reaches a detector is a position; what left a source took neither path.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "**Words carried.** The electron interferes with itself. Wave–particle duality. The electron goes through both. The particle.",
+  "new": "**Words carried.** The electron interferes with itself. Wave–particle duality. The electron goes through both. The particle.",
+  "verdict": "KEEP",
+  "why": "Words carried: a field's own sentences, quoted; kept."
+ },
+ {
+  "old": "A pattern is a society observing and an arrival is an emanation;",
+  "new": "A pattern is a same-existing-society's observing and an arrival is an emanation;",
+  "verdict": "RESAY",
+  "why": "society alone: same-existing-society, as a society of selves is a same-existing-society; the registry's own label carries it."
+ },
+ {
+  "old": "## 2.17 An engine observed one electron at a time",
+  "new": "## 2.17 An engine observed one electron at a time",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**Society reached.** A metallic island carrying one extra electron or none, a detector observing which, a gate acting on its observing, and a bath at a stated temperature.",
+  "new": "**Same-existing-society reached.** A metallic island carrying one extra electron or none, a detector observing which, a gate acting on its observing, and a bath with a stated temperature.",
+  "verdict": "RESAY",
+  "why": "society alone: same-existing-society, as a society of selves is a same-existing-society; the registry's own label carries it. at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "Extracted work per cycle as a fraction of kT ln 2 (nye at value);",
+  "new": "Extracted work per cycle as a fraction of kT ln 2 (nye for value);",
+  "verdict": "RESAY",
+  "why": "'nye at' re-said 'nye for': no place is meant."
+ },
+ {
+  "old": "Average work follows the second law with an information term entered.",
+  "new": "Average work follows the second law with an information term entered.",
+  "verdict": "KEEP",
+  "why": "A field's own measurement (average work) and law (the second law, one and only); kept."
+ },
+ {
+  "old": "A bath carries on at its own rate, and a bound is approached only as a cycle slows.",
+  "new": "A bath carries on with its own rate, and a bound is approached only as a cycle slows.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "A tunnel junction, an electron crossing both ways at rates a gate moves, no wall.",
+  "new": "A tunnel junction, an electron crossing both ways with rates a gate moves, no wall.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "What arrives at a detector is a parity; nothing crosses from island to detector but a correlation.",
+  "new": "What reaches a detector is a parity; nothing crosses from island to detector but a correlation.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "**Words carried.** The demon. Information is physical. The engine converts information to energy. The measurement extracts work.",
+  "new": "**Words carried.** The demon. Information is physical. The engine converts information to energy. The measurement extracts work.",
+  "verdict": "KEEP",
+  "why": "Words carried: a field's own sentences, quoted; kept."
+ },
+ {
+  "old": "A demon is a member of a society it was posted outward of; a fuel is a correlation; a bound is reached at a society's own rate.",
+  "new": "A demon is a member of a same-existing-society it was posted outward of; a fuel is a correlation; a bound is reached with a same-existing-society's own rate.",
+  "verdict": "RESAY",
+  "why": "society alone: same-existing-society, as a society of selves is a same-existing-society; the registry's own label carries it. at, as place or time: with, across, on, to, by or together, by meaning. 'outward' kept."
+ },
+ {
+  "old": "**Standing in ten.** A carry, fixed as a store",
+  "new": "**Standing among ten.** A carry, fixed as a store",
+  "verdict": "RESAY",
+  "why": "Label 'Standing in ten': in re-said, a line standing among the pattern's ten."
+ },
+ {
+  "old": "## 2.18 A molecule observed at one work",
+  "new": "## 2.18 A molecule observed at one work",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**Society reached.** A single RNA hairpin held between two beads in optical tweezers, pulled open and released, hundreds of times, work of each pull recorded.",
+  "new": "**Same-existing-society reached.** A single RNA hairpin tethered between two beads with optical tweezers, pulled open and relaxed, hundreds of times, work of each pull recorded.",
+  "verdict": "RESAY",
+  "why": "society alone: same-existing-society, as a society of selves is a same-existing-society; the registry's own label carries it. held: tethered, a field's own word for a hairpin joined to beads; released: relaxed, a field's own word for a pull let back; in: with."
+ },
+ {
+  "old": "Tweezers summing each pull into a work, and an experiment summing pulls into a distribution.",
+  "new": "Tweezers summing each pull as a work, and an experiment summing pulls as a distribution.",
+  "verdict": "RESAY",
+  "why": "in, into, out, beyond: re-said by meaning (within, across, as, to, from)."
+ },
+ {
+  "old": "A force–extension curve integrated to a work per pull; a distribution of works over pulls; an exponential average taken to recover an equilibrium free-energy difference; forward and reverse distributions compared.",
+  "new": "A force–extension curve integrated to a work per pull; a distribution of works over pulls; an exponential average taken to recover an equilibrium free-energy difference; forward and reverse distributions compared.",
+  "verdict": "KEEP",
+  "why": "A field's own method; an exponential average is its own measurement, not a likelihood; kept."
+ },
+ {
+  "old": "mean work at each pulling rate;",
+  "new": "mean work for each pulling rate;",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "An exponential average over pulls returns an equilibrium free energy at every rate, and forward and reverse distributions cross at it.",
+  "new": "An exponential average over pulls returns an equilibrium free energy with every rate, and forward and reverse distributions cross on it.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning. An exponential average is a field's own measurement, kept."
+ },
+ {
+  "old": "Mean work stands above it at every rate.",
+  "new": "Mean work stands above it with every rate.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "Single pulls return work below it, a field's own word violation, and they must, for an average to hold.",
+  "new": "Single pulls return work below it, a field's own word violation, and they must, for an average to return it.",
+  "verdict": "RESAY",
+  "why": "hold: an average holding is an average returning a free energy; nothing is held."
+ },
+ {
+  "old": "A molecule's own barrier, crossed both ways at tweezers' rate, no wall.",
+  "new": "A molecule's own barrier, crossed both ways with tweezers' rate, no wall.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "**Words carried.** The molecule has a free energy. The second law is violated on single trajectories. Dissipation is lost. The equality recovers.",
+  "new": "**Words carried.** The molecule has a free energy. The second law is violated on single trajectories. Dissipation is lost. The equality recovers.",
+  "verdict": "KEEP",
+  "why": "Words carried: a field's own sentences, quoted; kept."
+ },
+ {
+  "old": "Free energy is an observing over a society; violation is a member's own parity; dissipation is a spread at a coupling.",
+  "new": "Free energy is an observing over a same-existing-society; violation is a member's own parity; dissipation is a spread across a coupling.",
+  "verdict": "RESAY",
+  "why": "society alone: same-existing-society, as a society of selves is a same-existing-society; the registry's own label carries it. at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "**Standing in ten.** A bound, fixed as a last — the second law fixed as a bound each member obeys rather than a society's.",
+  "new": "**Standing among ten.** A bound, fixed as a last — the second law fixed as a bound each member obeys rather than a same-existing-society's.",
+  "verdict": "RESAY",
+  "why": "Label 'Standing in ten': in re-said, a line standing among the pattern's ten. society alone: same-existing-society, as a society of selves is a same-existing-society; the registry's own label carries it. The second law, one and only, kept."
+ },
+ {
+  "old": "**Door.** TWENTY-SEVEN 7.8, an arrival at 5.1, whose ghost this society stands beneath;",
+  "new": "**Door.** TWENTY-SEVEN 7.8, an arrival addressed to 5.1, whose ghost this same-existing-society stands beneath;",
+  "verdict": "RESAY",
+  "why": "Door line: an arrival at a section is an arrival addressed to it; this society: same-existing-society."
+ },
+ {
+  "old": "## 2.19 A mixture observed at one constant",
+  "new": "## 2.19 A mixture observed at one constant",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**Society reached.** Hydrogen and iodine forming hydrogen iodide and returning, an equilibrium measured in both directions at the close of the nineteenth century, after esters' from 1862, and exchange at equilibrium observed since by isotopes.",
+  "new": "**Same-existing-society reached.** Hydrogen and iodine forming hydrogen iodide and returning, an equilibrium measured both directions as the nineteenth century closed, after esters' from 1862, and exchange at equilibrium observed since by isotopes.",
+  "verdict": "RESAY",
+  "why": "society alone: same-existing-society, as a society of selves is a same-existing-society; the registry's own label carries it. in, at re-said; the nineteenth century one and only, kept; 'at equilibrium' is a field's own term, kept."
+ },
+ {
+  "old": "A state a mixture reaches and rests in; a constant a reaction has.",
+  "new": "A resting state a mixture reaches; a constant a reaction has.",
+  "verdict": "RESAY",
+  "why": "in, into, out, beyond: re-said by meaning (within, across, as, to, from)."
+ },
+ {
+  "old": "A forward rate measured from pure reactants, the reverse from pure product,",
+  "new": "A forward rate measured from pure reactants, a reverse rate from pure product,",
+  "verdict": "RESAY",
+  "why": "the: kept only for one and only one; else a, an, each, its, one, or removed. 'at equilibrium' later in this sentence is a field's own term, kept."
+ },
+ {
+  "old": "Sealed bulbs at one temperature summed over time;",
+  "new": "Sealed bulbs of one temperature summed over time;",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "That at equilibrium nothing happens; that a constant is a mixture's property.",
+  "new": "That at equilibrium nothing happens; that a constant is a mixture's property.",
+  "verdict": "KEEP",
+  "why": "Upstream: a field's own inferencing prior; 'at equilibrium' its own term; kept."
+ },
+ {
+  "old": "its movement with temperature (nye at values).",
+  "new": "its movement with temperature (nye for values).",
+  "verdict": "RESAY",
+  "why": "'nye at' re-said 'nye for': no place is meant."
+ },
+ {
+  "old": "A ratio of rate constants matches a composition, and the composition stands while labels cross.",
+  "new": "A ratio of rate constants matches a composition, which stands while labels cross.",
+  "verdict": "RESAY",
+  "why": "the: kept only for one and only one; else a, an, each, its, one, or removed."
+ },
+ {
+  "old": "Labelled atoms cross both ways while a composition stands; no molecule is at equilibrium; a constant moves with temperature by a field's own equation.",
+  "new": "Labelled atoms cross both ways while a composition stands; no molecule is at equilibrium; a constant moves with temperature by a field's own equation.",
+  "verdict": "KEEP",
+  "why": "'at equilibrium' is a field's own term in its own sense; kept."
+ },
+ {
+  "old": "A composition, standing at every grain and occupied by no molecule.",
+  "new": "A composition, standing with every grain and occupied by no molecule.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "A reaction's own crossing, both ways at equal rates, one event at a time.",
+  "new": "A reaction's own crossing, both ways with equal rates, one event at a time.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning. 'one at a time' kept."
+ },
+ {
+  "old": "**Words carried.** The reaction reaches equilibrium. The equilibrium constant. Nothing further happens. Dynamic equilibrium.",
+  "new": "**Words carried.** The reaction reaches equilibrium. The equilibrium constant. Nothing further happens. Dynamic equilibrium.",
+  "verdict": "KEEP",
+  "why": "Words carried: a field's own sentences, quoted; kept."
+ },
+ {
+  "old": "a constant is a ratio at a coupling; a rest is a window's.",
+  "new": "a constant is a ratio across a coupling; a rest is a window's.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "**Standing in ten.** A rate, fixed as a fixed magnitude — a constant fixed as a mixture's own rest.",
+  "new": "**Standing among ten.** A rate, fixed as a fixed magnitude — a constant fixed as a mixture's own rest.",
+  "verdict": "RESAY",
+  "why": "Label 'Standing in ten': in re-said, a line standing among the pattern's ten."
+ },
+ {
+  "old": "**Door.** TWENTY-SEVEN 7.8, an arrival at 5.2; its addresses stand there. Beside it here: 2.11, the other ledger that closes by crossings.",
+  "new": "**Door.** TWENTY-SEVEN 7.8, an arrival addressed to 5.2; its addresses stand there. Beside it here: 2.11, an other ledger that closes by crossings.",
+  "verdict": "RESAY",
+  "why": "Door line: an arrival at a section is an arrival addressed to it; this society: same-existing-society. the: kept only for one and only one; else a, an, each, its, one, or removed."
+ },
+ {
+  "old": "## 2.20 A protein observed at one melting point",
+  "new": "## 2.20 A protein observed at one melting point",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**Society reached.** A small protein unfolding",
+  "new": "**Same-existing-society reached.** A small protein unfolding",
+  "verdict": "RESAY",
+  "why": "society alone: same-existing-society, as a society of selves is a same-existing-society; the registry's own label carries it."
+ },
+ {
+  "old": "Each molecule, folded or unfolded at each moment, crossing at its own time.",
+  "new": "Each molecule, folded or unfolded with each moment, each crossing with its own timing.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "That a midpoint is a temperature at which a protein melts; that a molecule is at a midpoint.",
+  "new": "That a midpoint is a temperature at which a protein melts; that a molecule is at a midpoint.",
+  "verdict": "KEEP",
+  "why": "Upstream: a field's own inferencing prior, recorded; kept."
+ },
+ {
+  "old": "a cold-side unfolding temperature where reached (nye at values).",
+  "new": "a cold-side unfolding temperature where reached (nye for values).",
+  "verdict": "RESAY",
+  "why": "'nye at' re-said 'nye for': no place is meant."
+ },
+ {
+  "old": "Where two enthalpies agree a population acts as one, and single-molecule populations sit at a curve's two sides.",
+  "new": "Where two enthalpies agree a population acts as one, and single-molecule populations sit on a curve's two sides.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "No molecule is at a midpoint; each is folded or not.",
+  "new": "No molecule stands on a midpoint; each is folded or not.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "Where enthalpies disagree members part into intermediates.",
+  "new": "Where enthalpies disagree members part as intermediates.",
+  "verdict": "RESAY",
+  "why": "in, into, out, beyond: re-said by meaning (within, across, as, to, from)."
+ },
+ {
+  "old": "A protein unfolds at heat and at cold both, a field's own cold denaturation.",
+  "new": "A protein unfolds with heat and with cold both, a field's own cold denaturation.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "A midpoint, a property of a curve and of no molecule — a threshold's form at 2.4, at a protein.",
+  "new": "A midpoint, a property of a curve and of no molecule — a threshold's form of 2.4, with a protein.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "A barrier between two states, crossed both ways at every temperature.",
+  "new": "A barrier between two states, crossed both ways with every temperature.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "**Words carried.** The protein melts at its melting point. The native state. Two-state folding. Cooperativity.",
+  "new": "**Words carried.** The protein melts at its melting point. The native state. Two-state folding. Cooperativity.",
+  "verdict": "KEEP",
+  "why": "Words carried: a field's own sentences, quoted; kept."
+ },
+ {
+  "old": "A midpoint is where half the members have crossed;",
+  "new": "A midpoint is where half its members have crossed;",
+  "verdict": "RESAY",
+  "why": "the: kept only for one and only one; else a, an, each, its, one, or removed."
+ },
+ {
+  "old": "**Standing in ten.** A between, fixed as a cut — a midpoint fixed as a temperature at which melting happens.",
+  "new": "**Standing among ten.** A between, fixed as a cut — a midpoint fixed as a melting temperature.",
+  "verdict": "RESAY",
+  "why": "Label 'Standing in ten': in re-said, a line standing among the pattern's ten. at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "**Door.** TWENTY-SEVEN 7.8, an arrival at 5.4;",
+  "new": "**Door.** TWENTY-SEVEN 7.8, an arrival addressed to 5.4;",
+  "verdict": "RESAY",
+  "why": "Door line: an arrival at a section is an arrival addressed to it; this society: same-existing-society."
+ },
+ {
+  "old": "## 2.21 An enzyme observed at one turnover",
+  "new": "## 2.21 An enzyme observed at one turnover",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**Society reached.** A single enzyme molecule",
+  "new": "**Same-existing-society reached.** A single enzyme molecule",
+  "verdict": "RESAY",
+  "why": "society alone: same-existing-society, as a society of selves is a same-existing-society; the registry's own label carries it."
+ },
+ {
+  "old": "That a rate constant is a property; that each turnover takes the mean time.",
+  "new": "That a rate constant is a property; that each turnover takes the mean time.",
+  "verdict": "KEEP",
+  "why": "Upstream: a field's own inferencing prior; the mean, one and only of its distribution; kept."
+ },
+ {
+  "old": "No turnover takes the mean time.",
+  "new": "No turnover takes the mean time.",
+  "verdict": "KEEP",
+  "why": "the: the mean of one distribution is one and only; kept."
+ },
+ {
+  "old": "No molecule obeys an ensemble's curve, and the curve is recovered from them.",
+  "new": "No molecule obeys an ensemble's curve, and it is recovered from them.",
+  "verdict": "RESAY",
+  "why": "the: kept only for one and only one; else a, an, each, its, one, or removed."
+ },
+ {
+  "old": "An active site, substrate crossing to product at a coupling both ways.",
+  "new": "An active site, substrate crossing to product across a coupling both ways.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "An acceleration arrives at a coupling while an enzyme stays.",
+  "new": "An acceleration arrives with a coupling while an enzyme stays.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "**Words carried.** The enzyme's rate constant. The machine's stroke. The enzyme acts on the substrate. Dynamic disorder.",
+  "new": "**Words carried.** The enzyme's rate constant. The machine's stroke. The enzyme acts on the substrate. Dynamic disorder.",
+  "verdict": "KEEP",
+  "why": "Words carried: a field's own sentences, quoted; kept."
+ },
+ {
+  "old": "**Standing in ten.** A rate, fixed as a fixed magnitude — a rate constant fixed as an enzyme's own.",
+  "new": "**Standing among ten.** A rate, fixed as a fixed magnitude — a rate constant fixed as an enzyme's own.",
+  "verdict": "RESAY",
+  "why": "Label 'Standing in ten': in re-said, a line standing among the pattern's ten."
+ },
+ {
+  "old": "**Door.** TWENTY-SEVEN 7.8, an arrival at 5.5;",
+  "new": "**Door.** TWENTY-SEVEN 7.8, an arrival addressed to 5.5;",
+  "verdict": "RESAY",
+  "why": "Door line: an arrival at a section is an arrival addressed to it; this society: same-existing-society."
+ },
+ {
+  "old": "## 2.22 A body observed at one week of glucose",
+  "new": "## 2.22 A body observed at one week of glucose",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**Society reached.** A healthy person wearing",
+  "new": "**Same-existing-society reached.** A healthy person wearing",
+  "verdict": "RESAY",
+  "why": "society alone: same-existing-society, as a society of selves is a same-existing-society; the registry's own label carries it. 'a fasting sample' later in this sentence is a field's blood sample, kept."
+ },
+ {
+  "old": "beneath it each crossing of glucose into and out of blood.",
+  "new": "beneath it each crossing of glucose to and from blood.",
+  "verdict": "RESAY",
+  "why": "in, into, out, beyond: re-said by meaning (within, across, as, to, from)."
+ },
+ {
+  "old": "A level a body holds; a normal range; a set point.",
+  "new": "A level a body holds; a normal range; a set point.",
+  "verdict": "KEEP",
+  "why": "Upstream: a field's own posit, recorded so it can be stripped; kept."
+ },
+ {
+  "old": "Readings every few minutes for days; mean, spread, time within a range; a fasting sample; an interval from a reference population.",
+  "new": "Readings every few minutes for days; mean, spread, time within a range; a fasting sample; an interval from a reference population.",
+  "verdict": "KEEP",
+  "why": "A field's own method; a fasting sample is a blood sample, not statistics; kept."
+ },
+ {
+  "old": "That a fasting value is the level; that a reading beyond an interval is a departure.",
+  "new": "That a fasting value is the level; that a reading beyond an interval is a departure.",
+  "verdict": "KEEP",
+  "why": "Upstream: a field's own inferencing prior, recorded; kept."
+ },
+ {
+  "old": "healthy people crossing above a range that marks disease (nye at fractions).",
+  "new": "healthy people crossing above a range that marks disease (nye for fractions).",
+  "verdict": "RESAY",
+  "why": "'nye at' re-said 'nye for': no place is meant."
+ },
+ {
+  "old": "Most readings fall within a range, and a mean sits near a fasting value.",
+  "new": "Most readings fall within a range, and a mean sits near a fasting value.",
+  "verdict": "KEEP",
+  "why": "statistics: 'most' is a field's observed count of readings, not a likelihood offered; kept."
+ },
+ {
+  "old": "A trace excurses after every meal at each person's own rate.",
+  "new": "A trace excurses after every meal with each person's own rate.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "A fasting sample is one observing of a week.",
+  "new": "A fasting sample is one observing of a week.",
+  "verdict": "KEEP",
+  "why": "A fasting sample is a field's blood sample, not statistics; kept."
+ },
+ {
+  "old": "A mean, a level at every grain and at no moment.",
+  "new": "A mean, a level with every grain and with no moment.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "Blood, glucose entering and leaving at every instant at unlike rates.",
+  "new": "Blood, glucose entering and leaving each instant, with unlike rates.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "**Words carried.** The set point. Normal range. The body maintains its glucose. Glycaemic variability.",
+  "new": "**Words carried.** The set point. Normal range. The body maintains its glucose. Glycaemic variability.",
+  "verdict": "KEEP",
+  "why": "Words carried: a field's own sentences, quoted; kept."
+ },
+ {
+  "old": "**Standing in ten.** A magnitude, demanded of a moment from a window — a fasting value fixed as the level.",
+  "new": "**Standing among ten.** A magnitude, demanded of a moment from a window — a fasting value fixed as its level.",
+  "verdict": "RESAY",
+  "why": "Label 'Standing in ten': in re-said, a line standing among the pattern's ten. the: kept only for one and only one; else a, an, each, its, one, or removed."
+ },
+ {
+  "old": "**Door.** TWENTY-SEVEN 7.8, an arrival at 5.11, whose two ghosts this society stands beneath;",
+  "new": "**Door.** TWENTY-SEVEN 7.8, an arrival addressed to 5.11, whose two ghosts this same-existing-society stands beneath;",
+  "verdict": "RESAY",
+  "why": "Door line: an arrival at a section is an arrival addressed to it; this society: same-existing-society."
+ },
+ {
+  "old": "# 3 Passing at the substrates, one at a time",
+  "new": "# 3 Passing at the substrates, one at a time",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "*Listed for gathering. Each takes its own pass, and each pass looks for the same ten.*",
+  "new": "*Listed for gathering. Each takes its own pass, and each pass looks for the same ten.*",
+  "verdict": "KEEP",
+  "why": "the: the ten is this registry's one and only pattern; kept."
+ },
+ {
+  "old": "**At molecular grain.** Polypeptide chain. Nucleic acid chain. A lipid bilayer and its folds. Fibrous matrix — collagen, keratin, elastin, cytoskeleton. Water chain. Redox chain. An ion society at a membrane.",
+  "new": "**Molecular grain.** Polypeptide chain. Nucleic acid chain. A lipid bilayer and its folds. Fibrous matrix — collagen, keratin, elastin, cytoskeleton. Water chain. Redox chain. An ion same-existing-society across a membrane.",
+  "verdict": "RESAY",
+  "why": "Grain labels: at re-said by removing it. society alone: same-existing-society, as a society of selves is a same-existing-society; the registry's own label carries it. at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "**At cellular grain.** A mitochondrial population",
+  "new": "**Cellular grain.** A mitochondrial population",
+  "verdict": "RESAY",
+  "why": "Grain label: at re-said by removing it."
+ },
+ {
+  "old": "**At tissue grain.** Epithelial sheet.",
+  "new": "**Tissue grain.** Epithelial sheet.",
+  "verdict": "RESAY",
+  "why": "Grain label: at re-said by removing it."
+ },
+ {
+  "old": "**At organism grain.** Circadian society.",
+  "new": "**Organism grain.** Circadian same-existing-society.",
+  "verdict": "RESAY",
+  "why": "Grain label: at re-said by removing it. society alone: same-existing-society, as a society of selves is a same-existing-society; the registry's own label carries it."
+ },
+ {
+  "old": "**At grains beyond living tissue, taken as observable societies.** A vortex in an ecosphere, at a hurricane and a tornado grain. A synchronous area of a grid. Crystal lattice. An electron society in a wire. An atom's electrons. A nucleon's quarks. A population under a dose, a range, or a threshold.",
+  "new": "**Grains other than living tissue, taken as observable same-existing-societies.** A vortex within an ecosphere, with a hurricane grain and a tornado grain. A synchronous area of a grid. Crystal lattice. An electron same-existing-society within a wire. An atom's electrons. A nucleon's quarks. A population under a dose, a range, or a threshold.",
+  "verdict": "ASK",
+  "why": "Society becomes same-existing-society, whose next is its same selves; a vortex, a lattice or electrons in a wire let members part or join, a non-living going. Calling them same-existing-societies, or re-saying society otherwise here, changes this registry's value; at, in, beyond re-said. To resolve: does a society this registry takes past living tissue become a same-existing-society, or a non-living set of the same method?"
+ },
+ {
+  "old": "Then the ten, with their empties entered.",
+  "new": "Then the ten, with their empties entered.",
+  "verdict": "KEEP",
+  "why": "the ten: one and only pattern, kept."
+ },
+ {
+  "old": "Similar instantiations of ten, at unlike grains, in fields sharing no instrument.",
+  "new": "Similar instantiations of ten, with unlike grains, from fields sharing no instrument.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning. in, into, out, beyond: re-said by meaning (within, across, as, to, from)."
+ },
+ {
+  "old": "Where the same ten fill at substrates that do not cite each other, a pattern stands.",
+  "new": "Where the same ten fill with substrates that do not cite each other, a pattern stands.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning. The same ten: one and only pattern, kept."
+ },
+ {
+  "old": "Where a line stays empty under further record, that emptiness is a collection's most valuable single entry.",
+  "new": "Where a line stays empty under further record, that emptiness is a collection's most valuable single entry.",
+  "verdict": "KEEP",
+  "why": "'most valuable' is a superlative, not statistics; kept."
+ },
+ {
+  "old": "Four entries stand: three substrates filled at all ten, the third at a perceiving self, and the fourth at a vacuum's counting, a vantage observed at theorem grade.",
+  "new": "Four entries stand: three substrates filled with all ten, the third with a perceiving self, and the fourth with a vacuum's counting, a vantage observed to theorem grade.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning. The third, the fourth: an only third and fourth within their set, kept."
+ },
+ {
+  "old": "Substrates above stand unworked, arriving at their own turns.",
+  "new": "Substrates above stand unworked, each arriving with its own turn.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning."
+ },
+ {
+  "old": "A fifth stands at 2.6, the first to arrive through the door at TWENTY-SEVEN 7.5 and the first observed at one society rather than summed, its two waters swapping roles under a tip.",
+  "new": "A fifth stands with 2.6, the first to arrive through TWENTY-SEVEN 7.5's door and the first observed as one same-existing-society rather than summed, its two waters swapping roles under a tip.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning. the: kept only for one and only one; else a, an, each, its, one, or removed. The first: an only first, kept. society alone: same-existing-society, as a society of selves is a same-existing-society; the registry's own label carries it."
+ },
+ {
+  "old": "Two more stand at 2.7 and 2.8, one pattern at two grains — three bound where no two are — at a nucleus and at cold atoms, in fields sharing no instrument, which is a recurrence a collection is looking for, at this Part.",
+  "new": "Two more stand with 2.7 and 2.8, one pattern with two grains — three bound where no two are — a nucleus and cold atoms, from fields sharing no instrument, a recurrence a collection is looking for, within this Part.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning. in, into, out, beyond: re-said by meaning (within, across, as, to, from)."
+ },
+ {
+  "old": "Three more stand at 2.9 to 2.11, at a phospholipid, a tissue and a planet, each carrying a residual word a field uses verbatim — leak, variability, imbalance — and at 2.10 a ghost a field released twice in its own record.",
+  "new": "Three more stand with 2.9 to 2.11, a phospholipid, a tissue and a planet, each carrying a residual word a field uses verbatim — leak, variability, imbalance — and with 2.10 a ghost a field dissolved twice within its own record.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning. releas-: a form a field let leave is dissolved. in, into, out, beyond: re-said by meaning (within, across, as, to, from)."
+ },
+ {
+  "old": "Two more stand at 2.12 and 2.13, at a species and an ecosystem, and 2.14 and 2.15 at the sun and the cosmos, so that one entry now stands at every row of a nesting table from the vacuum to the sky.",
+  "new": "Two more stand with 2.12 and 2.13, a species and an ecosystem, and 2.14 and 2.15 with the sun and the cosmos, so that one entry now stands with every row of a nesting table from a vacuum to the sky.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning. the: kept only for one and only one; else a, an, each, its, one, or removed. The sun, the cosmos, the sky: one and only, kept."
+ },
+ {
+  "old": "Two above the planet carry the same observing as a vacuum at 2.5 — a count was a vantage's — and 2.15 is the first arrival entered with two findings, a nye and an emptiness, which the door now admits.",
+  "new": "Two above a planet carry an observing same-as a vacuum's with 2.5 — a count was a vantage's — and 2.15 is the first arrival entered with two findings, a nye and an emptiness, which TWENTY-SEVEN's door now admits.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning. the: kept only for one and only one; else a, an, each, its, one, or removed. The first arrival: an only first, kept."
+ },
+ {
+  "old": "Two societies of state science stand at 2.16 and 2.17, each observed one member at a time: a pattern that exists at no arrival, and an engine whose fuel is a correlation owned by neither side.",
+  "new": "Two same-existing-societies of state science stand with 2.16 and 2.17, each observed one member at a time: a pattern no arrival has, and an engine whose fuel is a correlation owned by neither side.",
+  "verdict": "RESAY",
+  "why": "society alone: same-existing-society, as a society of selves is a same-existing-society; the registry's own label carries it. at, as place or time: with, across, on, to, by or together, by meaning. 'one member at a time' kept."
+ },
+ {
+  "old": "Five stand at 2.18 to 2.22 beneath ghosts entered at TWENTY-SEVEN — a pulled molecule, a mixture, a melting protein, a single enzyme and a monitored body — each a society its ghost was observed across, so that entry and arrival now address each other in both directions for every ghost the door has caught.",
+  "new": "Five stand with 2.18 to 2.22 beneath ghosts entered with TWENTY-SEVEN — a pulled molecule, a mixture, a melting protein, a single enzyme and a monitored body — each a same-existing-society its ghost was observed across, so that entry and arrival now address each other both ways for every ghost TWENTY-SEVEN's door has caught.",
+  "verdict": "RESAY",
+  "why": "at, as place or time: with, across, on, to, by or together, by meaning. society alone: same-existing-society, as a society of selves is a same-existing-society; the registry's own label carries it. in, into, out, beyond: re-said by meaning (within, across, as, to, from). the: kept only for one and only one; else a, an, each, its, one, or removed."
+ }
+]
