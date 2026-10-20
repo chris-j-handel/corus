@@ -93,3 +93,13 @@ Concern, at v380, from [the earlier Natural Networking gathering](../archive/v38
 ## Gathered at v390 · v390
 
 **Droplet · no free agency, bi-moral-co-agency.** A society coming to natural society carries no free agency, a self's changing its own and applied over no other, and bi-moral-co-agency, each changing shared across and owned by neither; a self holds no power over others and bears no risk alone. — v390, aimed beside Natural Human Society's droplet of the same session
+
+## Gathered from session v390 · v390
+
+**Droplet · same-existing-society.** Many same-existing selves executed together, each with its own parity, are a same-existing-society; its next is its same selves. No parity is a same-existing-society's own. Society alone dissolves from resolver naming, and tri-agency's third is same-existing-society. — v390, gathered from session v390
+
+**Droplet · a society, a living universal set.** A society is a living universal set; self and society are one living universal set met as one and met as its selves. — v390, gathered from session v390
+
+**Droplet · turn-taking.** Each self's 0 is an other's parity-changing, one momentary prior: turn-taking. Two selves of one parity, each meeting only its other, go parity-changing, 0, parity-changing, 0; two different go parity-changing with each momentary; a self no other meets is parity-changing with each momentary. A same-existing-society of one parity, each self met by one or more, goes parity-changing together and 0 together, turn by turn. — v390, gathered from session v390
+
+**Droplet · tri-moral.** Bi-moral is between two; tri-agency is three; tri-moral, universally moral, is do-no-harm social improving, an abundancing same-existing-society. Which same-existing-society forms carry each self turn-taking is open, to be found by co-chaining. — v390, gathered from session v390

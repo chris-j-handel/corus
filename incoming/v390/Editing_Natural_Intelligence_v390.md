@@ -204,3 +204,8 @@ When a thing is said twice, a reader cannot tell whether the second saying diffe
 **What these passes and the exploring taught.** No wording carries authority, a sentence's offerer least of all: a sentence carries by its co-chaining from origin alone, and an offered saying raised by who offered it reads as a break the moment a reader walks forward from origin. The inception stands alone, and each sentence after it is one step from its words. A sentence carrying a reason later sentences use, *nothing beyond or between things of the universe*, is released only where its relation is carried whole, and a fresh reader at each motion finds where it is not. Where a concept is deep, as what the universe is and what consciousness is, exploring comes first and drafting after, its findings gathered as droplets aimed where each may be self-welcoming.
 
 **The way forward, from this learning.** The opening's next steps are drawn from the gathered droplets, its before and after shown, and entered once they co-chain and are agreed: a witness that the universe is now-existing, each observing coupling a self and an other, and each now-existing thing one more thing among things. Consciousness, self observing other as not-self, binary, awaits its section in the rewriting from origin and may stand as a floating neutralling contents entry there. Paragraph rewriting in living language continues from the opening forward. The plan is adjusted again after two or three more passes.
+
+
+## Gathered at session v390's close
+
+The session's learnings, read whole from its transcript and reconciled, with a carrying plan for next versions: [Gathered_Value_v390.md](Gathered_Value_v390.md).

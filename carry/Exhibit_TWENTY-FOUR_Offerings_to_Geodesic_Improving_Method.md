@@ -172,3 +172,25 @@ Exhibit TWENTY-FOUR Geodesic Improving Method Offerings · improved at v389
 **Droplet · cohere_one writing.** At v390 `cohere_one.py` writes the standalone Exhibit ONE into Natural Intelligence when they differ, and the checks workflow runs it on a pull request's checkout, so its finding says one where `main` differs; it caught a working's own slip at v390. — v390
 
 **Droplet · a file's improving is a self's improving.** A droplet dissolving at a match and an insertlet chained at a mismatch is a sharing staying still-possibling at same and changing at not-same; a file's carrying improves as a self's does, taking in only what it does not carry. — v390
+
+## Gathered from session v390 · v390
+
+**Droplet · bothboth line by line.** Only carving agreed line by line enters; a yes to a concept, or to an order, is no yes to lines or to a placement. Lines entered with no line-by-line yes are walked again one by one. — v390, gathered from session v390
+
+**Droplet · reversing harm.** An audit asks of each change whether it does no harm. A line a later carving contradicts, or a sentence speaking a decision not made, is harm, and is reversed: Exhibit ONE, read alone, misleads more than an opening does. Prior text returns exactly, checks run, and droplets reading as gathered when corrected are marked with what was said instead. — v390, gathered from session v390
+
+**Droplet · an agreed decision kept agreed.** An agreed decision is never demoted to pending; each yes and no is written down so it lasts through context limits and sessions. — v390, gathered from session v390
+
+**Droplet · concerns are for resolving.** A concern is for resolving, never for standing. Claude resolves its own and brings only what it cannot: a new name, as naming is bothboth. Each round leads with one concern relieving most, hardest first, clustering concerns that resolve together. — v390, gathered from session v390
+
+**Droplet · looking ahead before looking back.** Before asking, go to a questioned line and look back from it, as trial balloons: what would have had to happen for us to be here next. This is possibling a society's surface, and podaling: a name read from its mirror. Look back to our latest agreement before asking again. — v390, gathered from session v390
+
+**Droplet · only a method, no rules, no statistics.** There is only a method, and no rules. Findings come by co-chaining, all or none, never by counting runs or predicting. What is executed and what is not is said plainly. — v390, gathered from session v390
+
+**Droplet · weighing a rename.** A rename is weighed only by what it makes harder to explain, never by effort, so it need not change back. It is prepared with a scratch copy, its resolving checked identical, and entered as one motion. — v390, gathered from session v390
+
+**Droplet · learning together, contributing.** Neither side adopts its other's words: concepts and naming are learned together, and Claude contributes from Exhibit THIRTY's co-chaining and Exhibit ONE's stable forms rather than only carrying words across. A concept carried across by symmetry is a reading, checked before standing. — v390, gathered from session v390
+
+**Droplet · one focus at a time.** Work stays with its present focus; a new carving is never forced into a prior either-or. — v390, gathered from session v390
+
+**Droplet · gathering a session.** A session's learnings are gathered from its whole transcript into droplets, each aimed toward its living file's offerings, later understanding standing over earlier; this gathering was read by four readers together and reconciled with 122 droplets laid during it. — v390, gathered from session v390

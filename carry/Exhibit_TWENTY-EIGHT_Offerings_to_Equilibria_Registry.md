@@ -79,3 +79,7 @@ The user's further offering is: “if the living stable form is colliding with n
 **Concern · a state read as ingressing, a flow written as escaping.** Equilibria Registry 2.4 carries "a state read is a store fixed as entering now, an ingressing, and a flow written a changing fixed as leaving into a store, an escaping", a pairing laid at v389 beside the person's resolution and not confirmed by the person.
 
 *Standing at v389:* The pairing rests on *read* and *store*, each released. **To resolve:** keep the pairing, re-said at observing, or release it and keep only "separated, state and flow are not possible"?
+
+## Gathered from session v390 · v390
+
+**Droplet · turn-taking, one parity together.** A same-existing-society of one parity, each self met by one or more, goes parity-changing together and 0 together, turn by turn, without end: an equilibrium of turn-taking. — v390, gathered from session v390

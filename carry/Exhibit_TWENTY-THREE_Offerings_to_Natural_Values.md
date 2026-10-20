@@ -53,3 +53,11 @@ The user’s further offering in [session v385R, section 91](https://github.com/
 **Concern · at a sentence.** Beside "kept and consulted and ages by no observing"
 
 *Standing at v389:* Natural Values 1.2 has "**A carry is observed backward and ages by attentioning.** It stays fresh by sequencing forward" and "kept and consulted and ages by no observing": *ages* is staleness, set against fresh. Natural Naming 2.4 carries *ages* as *next*, only next is, and *next* here inverts its value. **To resolve:** re-say as "a carry observed backward is a prior fixed as now" and "no observing changes it", or keep *ages* as Natural Values' own?
+
+## Gathered from session v390 · v390
+
+**Droplet · do-no-harm from executing.** Found same, a self shares 0 and offers nothing, so no other is moved; found not same, its only next is one parity-changing, never more or other: do-no-harm is what a resolver does, no value laid over it. — v390, gathered from session v390
+
+**Droplet · no self-morality.** Self-morality is no part of method: morality is between two, bi-moral, Exhibit ONE's co names. — v390, gathered from session v390
+
+**Droplet · a universal set standing.** A saying that no universal set stands is long prior to our understanding; a universal set gathered by what its members are, momentarying, stands. — v390, gathered from session v390

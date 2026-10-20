@@ -114,3 +114,7 @@ Exhibit TWENTY-ONE Hard Problem Registry Offerings · improved at v389
 **Concern · Conditions prior, holds across readings.** Each of 255 entries carries "**Conditions prior.** The statement holds across readings", kept whole at v389 as scientific-explaining-method's own condition, and its readers proposed *observings* at one range.
 
 *Standing at v389:* Whether this line is a field's own condition, kept whole, or this registry's own account of it, re-said, decides *readings* and *holds* at 255 entries at one motion. **To resolve:** keep the line whole as scientific-explaining-method's own, or re-say it at every entry, "The statement is fixed across observings"?
+
+## Gathered from session v390 · v390
+
+**Droplet · a registry of resolvings.** A same-existing-universe having no hard problem existing, a registry carries how each question resolves by momentarying rather than problems that exist. Observing an other as not-universe, a specimen still or an observer outside, is a hard problem's shape. — v390, gathered from session v390

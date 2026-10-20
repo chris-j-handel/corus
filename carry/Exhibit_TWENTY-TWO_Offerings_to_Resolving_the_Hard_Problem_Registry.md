@@ -109,3 +109,7 @@ The hard-problem concern distinguishes an output constrained by a definition fro
 **Concern · at a sentence.** Beside "and it ages where its new members stop arriving and its sharings go unrestored"
 
 *Standing at v389:* Resolving the Hard Problem Registry 9.4 Aging has "An organism is a society outliving its cells, and it ages where its new members stop arriving and its sharings go unrestored". Natural Naming 2.4 releases *ageing*, *ages* into *next*: only next is, and ageing dissolves at naming, a clock laid over changing. This line says what aging is at resolving, and *next* alone changes its value. **To resolve:** re-say as "and its next carries fewer new members where they stop arriving and its sharings go unrestored", or keep *ages* as this arrival's own field word?
+
+## Gathered from session v390 · v390
+
+**Droplet · resolving by momentarying.** Each hard problem resolves by being momentaried: a question gathered once, apart from prior, now and next, said again co-sequentially. — v390, gathered from session v390

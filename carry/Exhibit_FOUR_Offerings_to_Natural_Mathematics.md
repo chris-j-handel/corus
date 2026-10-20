@@ -77,3 +77,9 @@ Exhibit FOUR Natural Mathematics Offerings · improved at v389
 **Concern · at a sentence.** Beside "# SEVEN · CO-OFFERING"
 
 *Standing at v389:* Part SEVEN's heading, *co-offering*, dissolves at Natural Naming 5.13: an offering is across and both ways, a self's to an other and an other's to a self. At 7.1 and 7.2 *six co-offerings* are three pairings of neutrals, each offered both ways, laid out as continuing and stopped; a new heading over *co-offerings* continuing beneath it parts heading from sections. **To resolve:** re-say 7.1 and 7.2's six co-offerings as offerings between neutrals, each across and both ways, heading with them, or keep *co-offering* as a pairing of neutrals, apart from 5.13?
+
+## Gathered from session v390 · v390
+
+**Droplet · a universal set a member of itself, co-sequentially.** A set gathered once, apart from momentarying, by a saying about its own membership turns on itself. A universal set momentarying is a member of itself co-sequentially: now has itself prior as a member, as a self's next prior forms from its prior and parity-offerings and never from itself within one momentary. Self-membering is sequence, prior to now to next, no loop. — v390, gathered from session v390
+
+**Droplet · complement and a wrapping turn.** Of a universal set any two parts give a third, its complement; around three times a flat turn gives a third same, two agreeing, and a turn wrapping a corus leaves its third edge is or is not parity-changing. — v390, gathered from session v390

@@ -89,3 +89,15 @@ Exhibit THIRTY Co-Chaining Logic Registry Offerings · improved at v389
 ## The session v389, entered and dissolved · v389
 
 **Dissolved · v389.** The session v389's 161 droplets, 20 insertlets, 27 concerns and 2 resolvings at this file rose into [the Co-Chaining Logic Registry v389](../Exhibit_THIRTY_Co-Chaining_Logic_Registry_v389.md) at the naming motion, or dissolved said once, and stand whole at [`archive/session_v389/offerings_dissolved/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry_v389.md).
+
+## Gathered from session v390 · v390
+
+**Droplet · welcomed both ways.** A concept enters only as a line before opens it and a line after needs it; nothing comes from no step, *we cant throw this in from the sky*. Five lines stacked after a self's line, though true, were welcomed by neither side and were reversed. — v390, gathered from session v390
+
+**Droplet · one advance per line.** One sentence per line, one binary advance, resolving what stands open with a line's ending; a definition comes before its first use, and a word arriving early is mended by moving lines, never by adding a defining line. — v390, gathered from session v390
+
+**Droplet · no assertion.** *Now is one*, standing on no step, is an assertion; Exhibit THIRTY reaches now through its inception's own arriving. — v390, gathered from session v390
+
+**Droplet · method and content one form.** Looking back from a next to find a prior that would make it is possibling: carving does what a society does with its surface, and co-chaining lines and co-chaining selves are one form. Resting for this session as droplets; all co-chainings now-living societies. — v390, gathered from session v390
+
+**Droplet · an inception standing alone.** *The universe is the set of all now-existing things.* stands alone; a second *the universe is* is no step. — v390, gathered from session v390

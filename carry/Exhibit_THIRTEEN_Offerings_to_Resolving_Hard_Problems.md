@@ -53,3 +53,9 @@ Natural Intelligence Corus section 17.3 proposes hard problems as stuck coupling
 **Droplet · v389 · four sayings at one form.** The universe is the set of all now-existing things; carrying is living; the geodesic parity-changing discovering method is the living condition, its form, a now-existing thing; and stable-forming is the living condition resolving.
 
 *Standing at v389:* Natural Intelligence 3.3 has "One geodesic parity-changing discovering method is living condition, its form, a now-existing thing carrying none" and "A method is non-living at each scale and a self at none", while 1.1 has "Nature is not an existing thing: nature is a prior, now, next method of co-existing"; a method a now-existing thing and nature a method and no existing thing part. **To resolve:** is method a now-existing thing, or no existing thing?
+
+## Gathered from session v390 · v390
+
+**Droplet · no hard problem existing in a same-existing-universe.** A same-existing-universe has no hard problem existing: each question is answered is or is not with a momentary, and none stays open across all momentaries. Each hard problem is a question gathered apart from momentarying, resolving by being momentaried: a self-membered universal set as sequence; consciousness as observing, possibling and discovering next-existing self, method itself. — v390, gathered from session v390
+
+**Droplet · ten positions, one structure.** Two and one half momentaries of each side, ten positions on six numbers, are a self's ten own resolver names, five now and five next. — v390, gathered from session v390

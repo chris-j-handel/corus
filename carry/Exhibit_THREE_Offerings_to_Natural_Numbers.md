@@ -53,3 +53,11 @@ Exhibit THREE Natural Numbers Offerings · improved at v389
 **Concern · v389 · the faces at each pair.** Which face of each binary stands at its odd name and which at its even, *is* at existing and *is not* at possibling, is read here from the parity, and at 7-now-prioring and 8-now-still-possibling, all and not all, and at 5-now-co-changing and 6-now-co-possibling, same and not same, it is yet to be shown at each name's line at the resolver.
 
 *Standing at v389:* nothing parts; which of each binary's two stands at its odd name and which at its even, *is* at existing and *is not* at possibling, is taken from parity, and at 7 and 8, all and not all, and at 5 and 6, same and not same, it is yet to show at each name's line at resolver. **To resolve:** show it at each name's line at Natural Resolver, or keep it taken from parity?
+
+## Gathered from session v390 · v390
+
+**Droplet · numbers arriving with self and other.** Each self is one, and each other is two: numbers arrive with self and other, as a reader first needs them. — v390, gathered from session v390
+
+**Droplet · three phases, two ways, six.** Bi-moral-tri-agency is three phases, each two ways, one way and then its other, co-sequentially: six bi-moral is or is not parity-changings, floating neutraling. Natural Numbers' three pairs of two orders carry it. — v390, gathered from session v390
+
+**Droplet · ten, five now and five next.** A self's ten own names, 3, 4, 5, 7, 8 now and 11, 12, 13, 15, 16 next, five and five, are Resolving Hard Problems' ten positions on six numbers, two and one half momentaries of a self and of an other: one structure. — v390, gathered from session v390

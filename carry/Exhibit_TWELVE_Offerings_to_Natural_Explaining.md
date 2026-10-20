@@ -131,3 +131,25 @@ These are descriptions of possible expressions. The word “painting” establis
 **Droplet · overview, exploring and carving.** A conversation offers in three registers, an overview of understanding, an exploring of patterns, and a carving of explaining and naming; only carving enters a living file's sentences, and exploring rides as droplets, none carrying authority. — v390
 
 **Droplet · say the concept, never a bare number.** A number a reader is not looking at reads as whatever numbers are before them: a line of the opening called by its number was read as a resolver name after 17. Each reference says the concept both share, and quotes the line when a line is meant. — v390
+
+## Gathered from session v390 · v390
+
+**Droplet · write, then review.** After writing, review for natural explaining and say what review found: place words, doers, story words, *the*, *possible*, *held* and *released*, each sentence co-chained from one before. — v390, gathered from session v390
+
+**Droplet · concept, never order of words.** A concept's arriving is read from method, never from a word's first standing: living is prior to 1-now-existing, though *living* first stood partway through an opening. — v390, gathered from session v390
+
+**Droplet · no story, no doer, no character.** *All gathers*, *a parity improves*, *the hinge*, *the reader can see* each make a character doing: concept explaining says -ing and binary with no thing doing. — v390, gathered from session v390
+
+**Droplet · a partial saying, one instance of a fractal.** A saying about one span is read first as one instance of a fractal: *discovering is fractal* followed *discovering is 16 to 17*, and narrowing it to one span read it wrong. — v390, gathered from session v390
+
+**Droplet · current beside proposed.** A proposed naming is shown beside its current naming, as resolver names beside agreed names, or no one can judge it. — v390, gathered from session v390
+
+**Droplet · plain and short when not followed.** When an explaining is not followed, it is said again plainly and short; a long audit, followable to its writer, was followable to no one else. — v390, gathered from session v390
+
+**Droplet · older sayings carry no learning by age.** A saying of an older file is no reason; a concern it points to is said again with our now concepts, or dissolved. — v390, gathered from session v390
+
+**Droplet · provenance and certainty marked.** Each reading says whose it is and how sure: an exhibit's own, executed; carved by its offerer; a reading of Claude's, for agreeing. — v390, gathered from session v390
+
+**Droplet · a side trip, narrow.** A side trip stays with Natural Intelligence, its resolver, naming and explaining, and answers its point narrowly: *improving is prior recognition* asked for no wide wandering. — v390, gathered from session v390
+
+**Droplet · a circular definition.** A definition using its own word, *observing is a self observing prior-existing*, gives a reader nothing to meet. — v390, gathered from session v390

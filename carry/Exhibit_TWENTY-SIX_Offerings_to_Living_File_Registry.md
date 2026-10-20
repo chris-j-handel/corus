@@ -126,3 +126,9 @@ Exhibit TWENTY-SIX Living File Registry Offerings · improved at v389
 *Standing at v389:* Re-saying 1.3 once at the four places, file, offerings, carryings and possibling, would resolve those concerns together. **To resolve:** re-say 1.3 whole at one motion, or resolve each row's concern apart?
 
 **Droplet · no v388.** No v388 stands at any branch or file: v389 opened from v387. Aimed at the workings table, so a version line reads whole. — gathered at v389's close
+
+## Gathered from session v390 · v390
+
+**Droplet · next versions, one naming motion.** Exhibit ONE's seventeen names and prose, Natural Intelligence's prose, thirty-six files and their checking kits cohere with one motion: kits call `_1_now` and `_17_next_now`, to become `_1_now_existing` and `_17_next_existing`. Prepared with a scratch copy; set check, executed ranges and identical resolving run before a yes. Carrying plan: incoming/v390/Gathered_Value_v390.md. — v390, gathered from session v390
+
+**Droplet · decisions written to last.** Each yes and no of a session is written so it lasts past context limits, so no agreed decision returns as pending. — v390, gathered from session v390

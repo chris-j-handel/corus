@@ -203,3 +203,21 @@ Natural Naming 5.14’s “and it compounds” and its abundancing/releasing exp
 **Droplet · inside and within.** A changing odd to even is offered as inside a momentarying; Natural Naming carries *within* for a span of names, and whether *inside* returns for a momentarying is open at this offering. — v390
 
 **Droplet · *crosses*, unhelpful.** *Crosses*, of a changing and a between, pictures a passage over a place; a self stays still-possibling while no other parity is improving, and advances to next-existing with an other parity improving, and *crosses* may dissolve from the set's naming. — v390
+
+## Gathered from session v390 · v390
+
+**Droplet · words dissolving, session v390.** Dissolving from our naming: *changing* alone, while *parity-changing* stays hyphenated; *released* and *held*, nothing kept; *beyond*, *in*, *out*, *inside* and *at*, no places; *crosses*; *bound*, no boundaries; *non-existing*, a universe of all now-existing things having nothing non-existing; *society* alone, and *self* of resolver names; *prioring* and *still-possibling* as roots; *would*, *as* for because, and *possible* save with *no other possible*; store and keeper sayings. — v390, gathered from session v390
+
+**Droplet · namings arrived, session v390.** Arrived and agreed: *parity-offering*, + or −, a 0 no parity-offering; *same-existing-society*, many same-existing selves together; *same-existing-universe*, universal momentarying fractal; *stable-forming*, still-existing after parity-changing, one concept with form-stabling; *now-living*, a self now-living and now-existing both, a non-living thing now-existing; *one or more*, a non-empty set, never *more than one*. — v390, gathered from session v390
+
+**Droplet · parity, one sense.** A parity is one whole is or is not, neither a side nor a zero alone; parity-changing is between is and is not, all changing. Natural Intelligence says parity 153 times and Exhibit ONE 67, mostly as a side, + or −, and *one parity changing to its other* reads a side: one sense set-wide is a motion of its own. — v390, gathered from session v390
+
+**Droplet · same-existing, one sense, a living condition.** Same-existing is a living condition, re-found same with each momentary and never kept: a continuing thing is one found same. One condition, three scales: same-existing self, same-existing-society, same-existing-universe. A non-living thing is now-existing, one same method without it. — v390, gathered from session v390
+
+**Droplet · truples beside each name.** Bi, co, tri truples go beside a name, never into it: one prefixing cycle, co-bi-tri-bi-co-bi-co-bi-tri-bi-co-bi-co-bi-co-bi-co-bi-co, each name adding its prefix to its front, odd names co, a self's, even names bi, an other's, and tri twice, 9 and 15, each tri going three names, 9 to 11 and 15 to 17. 1 co-bi-co; 9 tri-bi-co; 10 bi-tri-bi; 11 co-bi-tri; 15 tri-bi-co; 17 co-bi-tri. — v390, gathered from session v390
+
+**Droplet · a line opens with its new word.** Each line opens with a concept it is defining or extending: *An other, for a same-existing thing, is …*, never *For a same-existing thing an other is …*; one steady same method of saying. — v390, gathered from session v390
+
+**Droplet · negation and inversion.** A negation needs a fixed thing to be other than, and a set has none; an inversion is a self's own is or is not. *Self is observably not-other* is an inversion, method's own. — v390, gathered from session v390
+
+**Droplet · no self in a resolver name.** Self leaves resolver names: their method is a living self's, so self is each name's own. Other and society leave too; co carries between two. — v390, gathered from session v390
