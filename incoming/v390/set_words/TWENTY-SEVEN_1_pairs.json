@@ -748,5 +748,347 @@
   "new": "- **history**, sequence of an accounting's applications and revisions;",
   "verdict": "RESAY",
   "why": "doer, a source type recording: re-said as its concept, as its list's other items."
+ },
+ {
+  "old": "Single driven trajectories are recorded one at a time in stochastic thermodynamics, each with its own entropy production; number stands over them.",
+  "new": "Single driven trajectories are recorded one at a time with stochastic thermodynamics, each with its own entropy production; number stands over them.",
+  "verdict": "RESAY",
+  "why": "in: with; one at a time kept."
+ },
+ {
+  "old": "Each trajectory carries on at its own rate; number stands at a protocol's window and coarse-graining, and no trajectory carries it.",
+  "new": "Each trajectory carries on with its own rate; number stands with a protocol's window and coarse-graining, and no trajectory carries it.",
+  "verdict": "RESAY",
+  "why": "at, place or time: with, by meaning."
+ },
+ {
+  "old": "Entropy production is carried forward and backward one trajectory at a time, negative excursions measured, two directions in one theorem.",
+  "new": "Entropy production is carried forward and backward one trajectory at a time, negative excursions measured, two directions with one theorem.",
+  "verdict": "RESAY",
+  "why": "in: with; one trajectory at a time kept as one at a time."
+ },
+ {
+  "old": "At a reversible exchange a reservoir's change is a system's inverted, heat leaving one arriving at the other.",
+  "new": "With a reversible exchange a reservoir's change is a system's inverted, heat leaving one, arriving to its other.",
+  "verdict": "RESAY",
+  "why": "at: with, to; the: its; change here is a field's measured entropy change, kept."
+ },
+ {
+  "old": "Nothing is labelled and nothing crosses; change is computed at each end.",
+  "new": "Nothing is labelled and nothing crosses; change is computed with each end.",
+  "verdict": "RESAY",
+  "why": "at: with; change is a field's computed entropy change, kept."
+ },
+ {
+  "old": "where entropy is installed as a quantity that flows in with heat, **is-not**.",
+  "new": "where entropy is installed as a quantity that flows along with heat, **is-not**.",
+  "verdict": "RESAY",
+  "why": "in: along."
+ },
+ {
+  "old": "The mixed exceeds parts by an amount that depends on what operations can distinguish, owned by neither part.",
+  "new": "A mixture exceeds its parts by an amount that depends on what operations can distinguish, owned by neither part.",
+  "verdict": "RESAY",
+  "why": "the: a, its."
+ },
+ {
+  "old": "At finer coarse-graining number stands again with another value, and a single microstate carries none.",
+  "new": "With finer coarse-graining number stands again with another value, and a single microstate carries none.",
+  "verdict": "RESAY",
+  "why": "at, place or time: with, by meaning."
+ },
+ {
+  "old": "Maximum moves with constraints, zero is declared at the third law.",
+  "new": "Maximum moves with constraints, zero is declared with the third law.",
+  "verdict": "RESAY",
+  "why": "at: with; the third law a field's own name, one only, kept."
+ },
+ {
+  "old": "Over coupled parts the whole falls short of sum by mutual information, a coupling's own term.",
+  "new": "Over coupled parts their whole falls short of sum by mutual information, a coupling's own term.",
+  "verdict": "RESAY",
+  "why": "the: their."
+ },
+ {
+  "old": "Calculations, observed is at every line, stand as accounting.",
+  "new": "Calculations, observed is with every line, stand as accounting.",
+  "verdict": "RESAY",
+  "why": "at, place or time: with, by meaning."
+ },
+ {
+  "old": "Installation fails at 1, 7, 8 and 9 — substance, interior, posted nothing, floor and destination — **state**; and at 3 and 5 — produced, paid, flowing — **flow**.",
+  "new": "Installation fails with 1, 7, 8 and 9 — substance, interior, posted nothing, floor and destination — **state**; and with 3 and 5 — produced, paid, flowing — **flow**.",
+  "verdict": "RESAY",
+  "why": "at, place or time: with, by meaning."
+ },
+ {
+  "old": "Society beneath passes: driven single-molecule trajectory, arriving at TWENTY-FIVE 2.18, a molecule observed at one work.",
+  "new": "Same-existing-society beneath passes: driven single-molecule trajectory, arriving to TWENTY-FIVE 2.18, a molecule observed with one work.",
+  "verdict": "RESAY",
+  "why": "society alone: same-existing-society; at: to, with."
+ },
+ {
+  "old": "Entropy, wherever derived thermodynamic, statistical, information, observational, or trajectory quantity is installed as something world contains, produces, stores, loses, pays, or moves toward.",
+  "new": "Entropy, wherever derived thermodynamic, statistical, information, observational, or trajectory quantity is installed as something world contains, produces, stores, loses, pays, or moves toward.",
+  "verdict": "KEEP",
+  "why": "statistical: a field's own term; the verbs are an installation's exact grammar, kept."
+ },
+ {
+  "old": "Confirmation marks installation; every calculation remains at its field between.",
+  "new": "Confirmation marks installation; every calculation remains with its field between.",
+  "verdict": "RESAY",
+  "why": "at, place or time: with, by meaning."
+ },
+ {
+  "old": "Initially heat-engine society: working substance, reservoirs, work receiver, measurement protocol, and analyst.",
+  "new": "Initially heat-engine same-existing-society: working substance, reservoirs, work receiver, measurement protocol, and analyst.",
+  "verdict": "RESAY",
+  "why": "society alone: same-existing-society."
+ },
+ {
+  "old": "It extends into ensembles, information channels, coarse-grained observations, chemical mixtures, and driven molecular trajectories.",
+  "new": "It extends to ensembles, information channels, coarse-grained observations, chemical mixtures, and driven molecular trajectories.",
+  "verdict": "RESAY",
+  "why": "into: to."
+ },
+ {
+  "old": "Each extension is a new society and keeps its definition.",
+  "new": "Each extension is a new same-existing-society with its own definition.",
+  "verdict": "RESAY",
+  "why": "society alone: same-existing-society; keeps: re-said by meaning."
+ },
+ {
+  "old": "Derived quantity crosses beyond boundary, partition, or protocol that returns it and is made a system's own content or agent.",
+  "new": "Derived quantity crosses outward of boundary, partition, or protocol that returns it, and is made a system's own content or agent.",
+  "verdict": "RESAY",
+  "why": "beyond: outward of, a kept word."
+ },
+ {
+  "old": "**Installation kind.** Both, state first: substance, interior, posted nothing and floor at 1, 7, 8, 9; produced and flowing at 3 and 5.",
+  "new": "**Installation kind.** Both, state first: substance, interior, posted nothing and floor with 1, 7, 8, 9; produced and flowing with 3 and 5.",
+  "verdict": "RESAY",
+  "why": "at, place or time: with, by meaning."
+ },
+ {
+  "old": "IUPAC defines entropy through its change under reversible heat transfer at constant temperature.",
+  "new": "IUPAC defines entropy through its change under reversible heat transfer at constant temperature.",
+  "verdict": "KEEP",
+  "why": "Field account: a field's own words, in its own sense, kept; change and at constant temperature are a field's measurement terms."
+ },
+ {
+  "old": "Statistical mechanics relates entropy to a chosen probability distribution or accessible state description.",
+  "new": "Statistical mechanics relates entropy to a chosen probability distribution or accessible state description.",
+  "verdict": "KEEP",
+  "why": "Field account: a field's own words, in its own sense, kept; statistical a field's name."
+ },
+ {
+  "old": "Jaynes constructs statistical distributions from partial knowledge using maximum entropy.",
+  "new": "Jaynes constructs statistical distributions from partial knowledge using maximum entropy.",
+  "verdict": "KEEP",
+  "why": "Field account: a field's own words, in its own sense, kept."
+ },
+ {
+  "old": "and fluctuation relations cohere under entropy accounting at their declared betweens.",
+  "new": "and fluctuation relations cohere under entropy accounting with their declared betweens.",
+  "verdict": "RESAY",
+  "why": "at, place or time: with, by meaning."
+ },
+ {
+  "old": "Heat and matter cross boundaries; molecular configurations change; reactions proceed; trajectories separate; distributions evolve; an apparatus resolves some variables and not others.",
+  "new": "Heat and matter cross boundaries; molecular configurations re-form; reactions proceed; trajectories separate; distributions evolve; an apparatus resolves some variables and not others.",
+  "verdict": "RESAY",
+  "why": "change: re-form, 3.2's own word for living turns; label kept, see its ASK."
+ },
+ {
+  "old": "Gibbs mixing problem makes a between visible: entropy change depends on whether gases can be operationally distinguished.",
+  "new": "Gibbs mixing problem makes a between visible: entropy change depends on whether gases can be operationally distinguished.",
+  "verdict": "KEEP",
+  "why": "entropy change: a field's own measured term."
+ },
+ {
+  "old": "Observational entropy carries coarse-graining in quantity.",
+  "new": "Observational entropy carries coarse-graining within its quantity.",
+  "verdict": "RESAY",
+  "why": "in: within, a whole and its part."
+ },
+ {
+  "old": "Hidden-entropy and coarse-grained trajectory work show that unresolved variables change inferred production.",
+  "new": "Hidden-entropy and coarse-grained trajectory work show that unresolved variables return a differing inferred production.",
+  "verdict": "RESAY",
+  "why": "change: re-said by meaning."
+ },
+ {
+  "old": "number added so a fixed-boundary, fixed-state, equilibria account closes over changing it cannot carry.",
+  "new": "number added so a fixed-boundary, fixed-state, equilibria account closes over parity-changing it cannot carry.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing."
+ },
+ {
+  "old": "The same changing returns differently under different accessible operations, partitions, or resolutions.",
+  "new": "One same parity-changing returns differently under differing accessible operations, partitions, or resolutions.",
+  "verdict": "RESAY",
+  "why": "the same: one same; changing: parity-changing."
+ },
+ {
+  "old": "History of coupling, local own-rates, and changing of observing between do not fit within one fixed state magnitude.",
+  "new": "History of coupling, local own-rates, and an observing between's parity-changing do not fit within one fixed state magnitude.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing."
+ },
+ {
+  "old": "What remains is not unexplained “missing entropy”; it is the riding-the-carry fixed description excluded in order to be fixed.",
+  "new": "What remains is not unexplained “missing entropy”; it is riding-the-carry, excluded by a fixed description so as to be fixed.",
+  "verdict": "RESAY",
+  "why": "the: removed, a; in order to: so as to; quoted phrase and riding-the-carry kept."
+ },
+ {
+  "old": "(2) A system boundary and description still that changing into states for one observing.",
+  "new": "(2) A system boundary and description still that parity-changing as states for one observing.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing; into: as."
+ },
+ {
+  "old": "(4) Scalar is installed as something in or produced by system.",
+  "new": "(4) Scalar is installed as something within or produced by system.",
+  "verdict": "RESAY",
+  "why": "in: within, a whole and its part, as installed."
+ },
+ {
+  "old": "(5) Ledger closes across changes admitted by state space and protocol.",
+  "new": "(5) Ledger closes across re-formings admitted by state space and protocol.",
+  "verdict": "RESAY",
+  "why": "changes: re-formings, by meaning."
+ },
+ {
+  "old": "(6) Changing of partition, accessibility, history, and local rate remains outward of installed still and re-enters as coarse-graining dependence, hidden production, paradox, or revised entropy.",
+  "new": "(6) Partition, accessibility, history, and local rate, parity-changing, remain outward of an installed still and re-enter as coarse-graining dependence, hidden production, paradox, or revised entropy.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing; outward kept."
+ },
+ {
+  "old": "All other positions: not recorded at this entry so far.",
+  "new": "All other positions: not recorded with this entry so far.",
+  "verdict": "RESAY",
+  "why": "at, place or time: with, by meaning."
+ },
+ {
+  "old": "**Ten-unchangeable signature.** Magnitude-demanding at scalar.",
+  "new": "**Ten-unchangeable signature.** Magnitude-demanding with scalar.",
+  "verdict": "RESAY",
+  "why": "at, place or time: with, by meaning."
+ },
+ {
+  "old": "Value-pinning at equilibrium maxima or fixed entropy-production rates.",
+  "new": "Value-pinning with equilibrium maxima or fixed entropy-production rates.",
+  "verdict": "RESAY",
+  "why": "at, place or time: with, by meaning."
+ },
+ {
+  "old": "Space-enumerating at state space.",
+  "new": "Space-enumerating with state space.",
+  "verdict": "RESAY",
+  "why": "at, place or time: with, by meaning."
+ },
+ {
+  "old": "Line-demanding at system boundary and distinguishability class.",
+  "new": "Line-demanding with system boundary and distinguishability class.",
+  "verdict": "RESAY",
+  "why": "at, place or time: with, by meaning."
+ },
+ {
+  "old": "The other five: not recorded so far.",
+  "new": "Five others: not recorded so far.",
+  "verdict": "RESAY",
+  "why": "the: removed."
+ },
+ {
+  "old": "At betweens, reservoirs exchange heat, apparatus exchanges signals, protocol admits some distinctions, and analyst forms entropy account.",
+  "new": "With betweens, reservoirs exchange heat, apparatus exchanges signals, protocol admits some distinctions, and analyst forms entropy account.",
+  "verdict": "RESAY",
+  "why": "at, place or time: with, by meaning."
+ },
+ {
+  "old": "Eight re-form one observing society; no observer floats outward of it.",
+  "new": "Eight re-form one observing same-existing-society; no observer floats outward of it.",
+  "verdict": "RESAY",
+  "why": "society alone: same-existing-society."
+ },
+ {
+  "old": "In particular, differing operational abilities under the same entropy ledger-magnitude require distinguishing operations to enter natural form or break it.",
+  "new": "Particularly, differing operational abilities under one same entropy ledger-magnitude require distinguishing operations to enter natural form or break it.",
+  "verdict": "RESAY",
+  "why": "in particular: particularly; the same: one same."
+ },
+ {
+  "old": "Beyond: IUPAC entropy E02149; Shannon 1948; Jaynes 1957; Safranek, Deutsch, and Aguirre 2019; Yadin, Morris, and Adesso 2021; Degünther, van der Meer, and Seifert 2024.",
+  "new": "Beyond: IUPAC entropy E02149; Shannon 1948; Jaynes 1957; Safranek, Deutsch, and Aguirre 2019; Yadin, Morris, and Adesso 2021; Degünther, van der Meer, and Seifert 2024.",
+  "verdict": "KEEP",
+  "why": "citations of outside works; Beyond: an address label, kept with every entry's Addresses."
+ },
+ {
+  "old": "Temperature, exchange, trajectory, distribution, and operational distinction return at their field betweens.",
+  "new": "Temperature, exchange, trajectory, distribution, and operational distinction return with their field betweens.",
+  "verdict": "RESAY",
+  "why": "at, place or time: with, by meaning."
+ },
+ {
+  "old": "Installation of ledger as living releases.",
+  "new": "Installation of ledger as living dissolves.",
+  "verdict": "RESAY",
+  "why": "releases: dissolves, a form that leaves."
+ },
+ {
+  "old": "Changing and apparent not-changing are along and across turns of one changing, each at its own rate with no common clock.",
+  "new": "Parity-changing and apparent not-changing are along and across turns of one parity-changing, each with its own rate and no common clock.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing; at: with."
+ },
+ {
+  "old": "The field already carries multiple entropies, observer- or coarse-graining-relative constructions,",
+  "new": "Its field already carries multiple entropies, observer- or coarse-graining-relative constructions,",
+  "verdict": "RESAY",
+  "why": "the: its."
+ },
+ {
+  "old": "The field has not uniformly released entropy as an objective physical quantity; that stronger move is natural-register observing and remains breakable.",
+  "new": "Its field has not uniformly dissolved entropy as an objective physical quantity; that stronger move is natural-register observing and remains breakable.",
+  "verdict": "RESAY",
+  "why": "the: its; released: dissolved, a form that leaves."
+ },
+ {
+  "old": "Chemistry co-chains at 5.1, where heat, work, current and composition stand as observings and entropy production and free-energy dissipation as ledger returns under a boundary and a coarse-graining, seam closed at sentence.",
+  "new": "Chemistry co-chains with its 5.1, where heat, work, current and composition stand as observings and entropy production and free-energy dissipation as ledger returns under a boundary and a coarse-graining, seam closed with each sentence.",
+  "verdict": "RESAY",
+  "why": "at, place or time: with, by meaning; where already present."
+ },
+ {
+  "old": "Physics co-chains at ledger observing.",
+  "new": "Physics co-chains with ledger observing.",
+  "verdict": "RESAY",
+  "why": "at, place or time: with, by meaning."
+ },
+ {
+  "old": "Numbers co-chains at state/flow books as two observings, not two worlds.",
+  "new": "Numbers co-chains with state/flow books as two observings, not two worlds.",
+  "verdict": "RESAY",
+  "why": "at, place or time: with, by meaning."
+ },
+ {
+  "old": "Medicine co-chains at diagnostic and prognosis ledgers only where its own observing enters.",
+  "new": "Medicine co-chains with diagnostic and prognosis ledgers only where its own observing enters.",
+  "verdict": "RESAY",
+  "why": "at, place or time: with, by meaning."
+ },
+ {
+  "old": "It is primary instance: an invented nothing posted to close general ledger under equilibria scientific-method, with no independently encountered living thing at entry.",
+  "new": "It is primary instance: an invented nothing posted to close general ledger under equilibria scientific-method, no independently encountered living thing entering.",
+  "verdict": "RESAY",
+  "why": "at: re-said by meaning."
+ },
+ {
+  "old": "silicon multifrequency surface stands entered at 5.10 with its rates and resolution attached, and a single-molecule driven trajectory is next.",
+  "new": "silicon multifrequency surface stands entered as 5.10 with its rates and resolution attached, and a single-molecule driven trajectory is next.",
+  "verdict": "RESAY",
+  "why": "at: as, a section reference."
  }
 ]
