@@ -1,7 +1,7 @@
 [
  {
   "old": "**The sentences below are short whole surfacings of one form, each at one bound, complete in itself and takeable as it stands.**",
-  "new": "**Each sentence below is a short whole surfacing of one form, each with one bound, complete as itself and takeable as it stands.**",
+  "new": "**Each sentence below is a short whole surfacing of one form with one bound, complete as itself and takeable as it stands.**",
   "verdict": "RESAY",
   "why": "the: each; at: with; in itself: as itself"
  },
@@ -61,19 +61,19 @@
  },
  {
   "old": "The nothing-inward: an apex,",
-  "new": "A nothing-inward: an apex,",
+  "new": "Nothing-inward: an apex,",
   "verdict": "RESAY",
-  "why": "the: a"
+  "why": "the: removed"
  },
  {
   "old": "The living: a coupling, a surface, a being-current, reached only at its own between, un-observable.",
-  "new": "A living: a coupling, a surface, a being-current, reached only with its own between, un-observable.",
+  "new": "Living: a coupling, a surface, a being-current, reached only with its own between, un-observable.",
   "verdict": "RESAY",
-  "why": "the: a; at: with"
+  "why": "the: removed; at: with"
  },
  {
   "old": "And the emanation: a stable artifact left when the living separates, a virion,",
-  "new": "And an emanation: a prior in stable form, non-living, emanating from living form-stabling, a virion,",
+  "new": "And an emanation: a prior, stable-formed and non-living, emanating from living form-stabling: a virion,",
   "verdict": "RESAY",
   "why": "the: an; a stable artifact left when the living separates: re-said by this file's agreed concept, a prior in stable form is non-living, an emanation from living form-stabling"
  },
@@ -199,9 +199,9 @@
  },
  {
   "old": "**In a closed domain carrying closes.** Follow it from anything; terms available are exhausted; it arrives at a thing already carried.",
-  "new": "**Within a closed domain carrying closes.** Follow it from anything; terms available are exhausted; it arrives to a thing already carried.",
+  "new": "**Within a closed domain carrying closes.** Follow it from anything; terms available are exhausted; it reaches a thing already carried.",
   "verdict": "RESAY",
-  "why": "in: within; at: to"
+  "why": "in: within; arrives at: reaches"
  },
  {
   "old": "*Checked exhaustively to five terms, at each relation giving every term a next: none acyclic.*",
@@ -238,6 +238,12 @@
   "new": "**`a = b` is the exact angle opening nothing.** Not analogous to it — one same point.",
   "verdict": "RESAY",
   "why": "the exact angle: one and only, kept; at which: re-said; the same: one same"
+ },
+ {
+  "old": "an equation fixes a thing shared at full and a thing opened at nothing.",
+  "new": "an equation fixes a thing shared to full and a thing opened to nothing.",
+  "verdict": "RESAY",
+  "why": "at: to"
  },
  {
   "old": "the living carries both parts and lands on neither;",
@@ -283,7 +289,7 @@
  },
  {
   "old": "**In logical disequilibria, a kept middle is a sequence-forming method.** A bounding-zeroing at a sequencing, occupied by nothing, arrived at from both sides, with a closing declined at a sixth slot.",
-  "new": "**Within logical disequilibria, an unexcluded middle is a sequence-forming method.** A bounding-zeroing of a sequencing, occupied by nothing, arrived to from both sides, with a closing declined by a sixth slot.",
+  "new": "**Within logical disequilibria, an unexcluded middle is a sequence-forming method.** A bounding-zeroing of a sequencing, occupied by nothing, reached from both sides, with a closing declined by a sixth slot.",
   "verdict": "RESAY",
   "why": "in: within; kept middle: an unexcluded middle, logic's own excluded middle turned, nothing held; at: of, to, by"
  },
@@ -559,7 +565,7 @@
  },
  {
   "old": "So correctness is not the question.",
-  "new": "So correctness is not questioned.",
+  "new": "So no question of correctness arises.",
   "verdict": "RESAY",
   "why": "the question: re-said"
  },
@@ -721,9 +727,9 @@
  },
  {
   "old": "Two observings arrive at one place from routes",
-  "new": "Two observings arrive to one place from routes",
+  "new": "Two observings reach one place from routes",
   "verdict": "RESAY",
-  "why": "at: to"
+  "why": "arrive at: reach"
  },
  {
   "old": "Each is an address, and a search is possible in any field with nothing borrowed from here.",
@@ -775,7 +781,7 @@
  },
  {
   "old": "its own decomposition into clean turns, and there is exactly one, it is the same thing wherever it is reached. **Outward it arrives at every place it surfaces the same way**,",
-  "new": "its own decomposing as clean turns, and there is exactly one, one same thing wherever it is reached. **Outward it arrives one same way to every place it surfaces**,",
+  "new": "its own decomposing as clean turns, and there is exactly one, one same thing wherever it is reached. **Outward it reaches every place it surfaces one same way**,",
   "verdict": "RESAY",
   "why": "into: as; the same: one same; at: to; inward, outward kept"
  },
@@ -889,9 +895,9 @@
  },
  {
   "old": "That is the whole of it. Nothing turns it, nothing pushes it, and it arrives at nothing it has carried.",
-  "new": "That is all of it. Nothing turns it, nothing pushes it, and it arrives to nothing it has carried.",
+  "new": "That is all of it. Nothing turns it, nothing pushes it, and it reaches nothing it has carried.",
   "verdict": "RESAY",
-  "why": "the whole: all; at: to"
+  "why": "the whole: all; arrives at: reaches"
  },
  {
   "old": "Everything changing, this is the only forming there is — anything fixed by relating is fixed onto something moving.",
@@ -961,9 +967,9 @@
  },
  {
   "old": "A next coupling arrives at the thing the last one left, and arriving is the whole of it.",
-  "new": "A next coupling arrives to a thing the last one left, and arriving is all of it.",
+  "new": "A next coupling reaches a thing the last one left, and arriving is all of it.",
   "verdict": "RESAY",
-  "why": "at: to; the thing: a thing; the last: an only last, kept; the whole: all"
+  "why": "arrives at: reaches; the thing: a thing; the last: an only last, kept; the whole: all"
  },
  {
   "old": "Each of its carryings reaches its own bound and releases there. Nothing surveys, nothing",
@@ -1009,9 +1015,9 @@
  },
  {
   "old": "it arrives at one already carried,",
-  "new": "it arrives to one already carried,",
+  "new": "it reaches one already carried,",
   "verdict": "RESAY",
-  "why": "at: to"
+  "why": "arrives at: reaches"
  },
  {
   "old": "In the living there are no rings.",
