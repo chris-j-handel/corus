@@ -103,7 +103,7 @@
  },
  {
   "old": "The door record stays here with its observing — label stays — and what arrives at TWENTY-FIVE is not what stood at the door: an entry in an arrival's own form, with upstream recovered, magnitude in observers' units, and unchangeables.",
-  "new": "A door record stays here with its observing — label stays — and what arrives with TWENTY-FIVE is not what stood with the door: an entry of an arrival's own form, with upstream recovered, magnitude as observers' units, and unchangeables.",
+  "new": "A door record stays here with its observing — label stays — and what arrives with TWENTY-FIVE is not what stood at the door: an entry of an arrival's own form, with upstream recovered, magnitude as observers' units, and unchangeables.",
   "verdict": "RESAY",
   "why": "The door record: a door record; at: with; in: of, as; the door kept."
  },
@@ -271,9 +271,9 @@
  },
  {
   "old": "- **self · at the door** — lines 3, 4, 6 and 9 are observed is, a coupling line is observed is-not, and a field's sentence installs nothing there: a self torusing whose society is not yet observed; it waits at the door for record of its pair;",
-  "new": "- **self · at the door** — lines 3, 4, 6 and 9 are observed is, a coupling line is observed is-not, and a field's sentence installs nothing there: a self torusing whose same-existing-society is not yet observed; it waits with the door for record of its pair;",
-  "verdict": "ASK",
-  "why": "Society: same-existing-society; waits at: with. The standing's own name, self · at the door, is kept: it is this registry's named standing, kept in headings 7.8 and in entry titles, and used again at the passed ledger and at 7.8's ammonia. Re-saying it alone here would part a name from its heading. **To resolve:** does the standing's name stay as self · at the door, or become self · with the door, everywhere, headings included?"
+  "new": "- **self · at the door** — lines 3, 4, 6 and 9 are observed is, a coupling line is observed is-not, and a field's sentence installs nothing there: a self torusing whose same-existing-society is not yet observed; it waits at the door for record of its pair;",
+  "verdict": "RESAY",
+  "why": "standing name at the door kept with its headings, v390"
  },
  {
   "old": "- **accounting or emanation at this use** — a line is observed is-not and a field's sentence installs nothing there; placed among controls;",
@@ -331,7 +331,7 @@
  },
  {
   "old": "So a posted term is observed at the door as follows.",
-  "new": "So a posted term is observed with the door as follows.",
+  "new": "So a posted term is observed at the door as follows.",
   "verdict": "RESAY",
   "why": "at: with; the door kept."
  },
@@ -727,7 +727,7 @@
  },
  {
   "old": "*The control. A self coming to its own two parities again, both ways, observed for where the door parts a self from a society.*",
-  "new": "*A control. A self coming to its own two parities again, both ways, observed for where a self parts from a same-existing-society with the door.*",
+  "new": "*A control. A self coming to its own two parities again, both ways, observed for where a self parts from a same-existing-society at the door.*",
   "verdict": "RESAY",
   "why": "The control: a control; the door parting (a doer) re-said as a self parting with the door; society: same-existing-society. where stands, not added."
  },
