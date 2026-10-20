@@ -229,3 +229,7 @@ Natural Naming 5.14’s “and it compounds” and its abundancing/releasing exp
 **Droplet · *the* for one and only one.** *The* stands where one and only one is meant: the universe, the universal set, and the method, one and only one possible, so universal. *The Stable-Forming Parity-Changing Method of Discovering Same-Existing* keeps its *The* for this. — v390
 
 **Droplet · five dimensions, carved again.** 1. prior-existing self-parity; 2. prior-existing other-parity; 3. now-existing co-parity; 4. now-existing bi-parity; 5. next-existing same-existing self-parity. In place of self prior, other prior, co-momentarying now, bi-momentarying now and self next, and of older *prior opening … next opening*. — v390
+
+**Droplet · Fives named with the five dimensions, v390.** Exhibit ONE's *prior opening … next opening* is an older naming. The five carved bothboth are prior-existing self-parity, prior-existing other-parity, now-existing co-parity, now-existing bi-parity and next-existing same-existing self-parity. They sit with resolver's names 1 to 5 as Natural Naming's *1 self prior; 2 other prior; 3 co-momentarying now; 4 bi-momentarying now; 5 self next*. The Exhibit ONE draft re-says *Fives* with them. — v390
+
+**Droplet · *the* only for one of one, v390.** The Exhibit ONE draft keeps *the* for the universe, the method, and an only first, last, next, smaller or lesser within its own set. Elsewhere it says *a*, *its* or *an other's*. — v390
