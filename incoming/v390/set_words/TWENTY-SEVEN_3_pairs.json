@@ -424,5 +424,401 @@
   "new": "Carry entry against one regulated variable from raw trace to reported level — a week of continuous glucose against fasting sample and reference interval — with turnover, pulses and thresholds attached with a field's units.",
   "verdict": "RESAY",
   "why": "in: with; fasting sample is a field's own measuring, kept."
+ },
+ {
+  "old": "*At the door.*\n\n**The observing.** A gas in a box with a partition and a door, posited in 1867 and published in 1871, sorted by a being who sees each molecule and opens the door for fast ones one way and slow ones the other, so that one side warms and the other cools with no work done.",
+  "new": "*At the door.*\n\n**The observing.** A gas within a box with a partition and a door, posited during 1867 and published during 1871, sorted by a being who sees each molecule and opens its door for fast ones one way and slow ones its other way, so that one side warms and its other cools with no work done.",
+  "verdict": "RESAY",
+  "why": "Labels kept as the form's names; in a box: within; in a year: during; the door: its door; the other: its other."
+ },
+ {
+  "old": "Since 2010, the same society built and observed: a colloidal particle in a double well erased as a bit; a Brownian particle walked up a potential by feedback on its observed position; a single electron in a box sorted by a measurement and a gate.",
+  "new": "Since 2010, this same-existing-society built and observed: a colloidal particle within a double well erased as a bit; a Brownian particle walked up a potential by feedback on its observed position; a single electron within a box sorted by a measurement and a gate.",
+  "verdict": "RESAY",
+  "why": "the same society: this same-existing-society; in: within."
+ },
+ {
+  "old": "In built engines every member is resolved: each fluctuation of particle is recorded, each electron's tunnelling counted, each memory state read.",
+  "new": "With built engines every member is resolved: each fluctuation of particle is recorded, each electron's tunnelling counted, each memory state read.",
+  "verdict": "RESAY",
+  "why": "in: with."
+ },
+ {
+  "old": "Apart: particle relaxes in its well at its own rate, measurement samples at its own, erasure cycle carries its own duration.",
+  "new": "Apart: particle relaxes within its well with its own rate, measurement samples with its own, erasure cycle carries its own duration.",
+  "verdict": "RESAY",
+  "why": "in: within; at: with; measurement samples is a field's own measuring, kept."
+ },
+ {
+  "old": "Where sorter is installed as acting instantly and freely, at an observer's clock, observed **is-not**.",
+  "new": "Where sorter is installed as acting instantly and freely, with an observer's clock, observed **is-not**.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Molecules arrive at the door from both sides, one at a time.",
+  "new": "Molecules reach its door from both sides, one at a time.",
+  "verdict": "RESAY",
+  "why": "arrive at: reach; the door: its door, a box's own; *one at a time* kept."
+ },
+ {
+  "old": "Measurement is an exchange: probe changes particle as particle changes probe.",
+  "new": "Measurement is an exchange: probe parity-changes particle as particle parity-changes probe.",
+  "verdict": "RESAY",
+  "why": "changes: parity-changes."
+ },
+ {
+  "old": "Observed **is** at field side. Sorter installed as seeing, while molecule is only seen, is one way, and there observed **is-not**.",
+  "new": "Observed **is** with field side. Sorter installed as seeing, while molecule is only seen, is one way, and there observed **is-not**.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "A memory's bit flips as particle changes side; correlation across a between, observed on both sides, is a field's own quantity, mutual information.",
+  "new": "A memory's bit flips as particle crosses to its other side; correlation across a between, observed on both sides, is a field's own quantity, mutual information.",
+  "verdict": "RESAY",
+  "why": "changes side: crosses to its other side, a crossing re-said by meaning."
+ },
+ {
+  "old": "Observed **is** at mutual information (nye at a parity's own form).",
+  "new": "Observed **is** with mutual information (nye with a parity's own form).",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "At the door, molecule itself crosses and label arrives: sorting is a transport, honest accounting and no ghost.",
+  "new": "With a box's door, molecule itself crosses and label arrives: sorting is a transport, honest accounting and no ghost.",
+  "verdict": "RESAY",
+  "why": "At the door: with a box's door."
+ },
+ {
+  "old": "At memory, nothing crosses from particle to memory but a parity, and information arrives while no thing does.",
+  "new": "With memory, nothing crosses from particle to memory but a parity, and information arrives while no thing does.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Observed **is** at memory; at the door the line is accounting at this use.",
+  "new": "Observed **is** with memory; with a box's door, this line is accounting at this use.",
+  "verdict": "RESAY",
+  "why": "at: with; the line: this line; *accounting at this use* is a standing's name (3.1), kept."
+ },
+ {
+  "old": "One grain down, bit is carried by no trajectory: dissipated heat of erasure is a mean over cycles that reaches bound only in long-cycle limit, single cycles falling above and below it.",
+  "new": "One grain down, bit is carried by no trajectory: dissipated heat of erasure is a mean over cycles that reaches bound only with long-cycle limit, single cycles falling above and below it.",
+  "verdict": "RESAY",
+  "why": "in: with; a mean over cycles is a field's own measure, kept."
+ },
+ {
+  "old": "Where cycles do not agree record carries distribution of dissipated heat and of extracted work, in units of kT, open — and fluctuation theorems carry residual as law itself.",
+  "new": "Where cycles do not agree record carries distribution of dissipated heat and of extracted work, with units of kT, open — and fluctuation theorems carry residual as law itself.",
+  "verdict": "RESAY",
+  "why": "in units: with units."
+ },
+ {
+  "old": "Sentence \"the second law is violated,\" where a sorter's ledger closes at gas, memory excluded, posts a success and is observed **is-not**.",
+  "new": "Sentence \"the second law is violated,\" where a sorter's ledger closes with gas, memory excluded, posts a success and is observed **is-not**.",
+  "verdict": "RESAY",
+  "why": "at: with; quotation kept."
+ },
+ {
+  "old": "Drive erasure faster and dissipation rises above bound at a memory's own relaxation rate; drive a measurement's error up and extractable work falls with it.",
+  "new": "Drive erasure faster and dissipation rises above bound with a memory's own relaxation rate; drive a measurement's error up and extractable work falls with it.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Bound is reached at a society's own rate and moves with its conditions.",
+  "new": "Bound is reached with a same-existing-society's own rate and moves with its conditions.",
+  "verdict": "RESAY",
+  "why": "at: with; society: same-existing-society."
+ },
+ {
+  "old": "a field's own record states bound for a symmetric memory in quasistatic limit and has measured what changes when memory is asymmetric (for fetch).",
+  "new": "a field's own record states bound for a symmetric memory with quasistatic limit and has measured what parity-changes when memory is asymmetric (for fetch).",
+  "verdict": "RESAY",
+  "why": "in: with; changes: parity-changes; *always and everywhere* earlier in this sentence stand already."
+ },
+ {
+  "old": "Repeated feedback carries particle farther up potential than one step; the same coupling built on a chip cools one side as a refrigerator.",
+  "new": "Repeated feedback carries particle farther up potential than one step; one same coupling built on a chip cools one side as a refrigerator.",
+  "verdict": "RESAY",
+  "why": "the same: one same."
+ },
+ {
+  "old": "Observed **is** (nye at a refrigerator's reach).",
+  "new": "Observed **is** (nye with a refrigerator's reach).",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "At thought-experiment use — a sorter posited to test whether the second law is statistical — word is accounting.",
+  "new": "With thought-experiment use — a sorter posited to test whether the second law is statistical — word is accounting.",
+  "verdict": "RESAY",
+  "why": "at: with; *the second law* and *statistical* are a field's own terms in Maxwell's sense, kept."
+ },
+ {
+  "old": "Lines 2, 3 and 8 are observed is-not where sorter is installed as an observer who measures freely, a storer whose memory is free, and a doer whose act closes ledger at gas, memory excluded: one side of the along installed, **flow**, within state accounting of entropy — and the field withdrew it itself, so it is kept here as released.",
+  "new": "Lines 2, 3 and 8 are observed is-not where sorter is installed as an observer who measures freely, a storer whose memory is free, and a doer whose act closes ledger with gas, memory excluded: one side of its along installed, **flow**, within state accounting of entropy — and its field withdrew it itself, so it stands here as released.",
+  "verdict": "RESAY",
+  "why": "at: with; the along: its along; the field: its field; kept: stands; *doer* names the installed ghost, kept; *released* is the standing's name (3.1), kept."
+ },
+ {
+  "old": "And built engine — a particle, its probe and its memory, observed one trajectory at a time — is observed is at all ten and passes; its arrival is at TWENTY-FIVE 2.17.",
+  "new": "And built engine — a particle, its probe and its memory, observed one trajectory at a time — is observed is with all ten and passes; its arrival is with TWENTY-FIVE 2.17.",
+  "verdict": "RESAY",
+  "why": "at: with; *one trajectory at a time* is the kept one at a time."
+ },
+ {
+  "old": "*The properties.*\n\n**Name and use.** Maxwell's demon, when sorter posted at the door is installed as a character — an observer who measures at no cost, a storer whose memory is free, a doer who sorts and thereby lowers entropy — standing outward of society whose ledger it closes.",
+  "new": "*The properties.*\n\n**Name and use.** Maxwell's demon, when sorter posted with a box's door is installed as a character — an observer who measures with no cost, a storer whose memory is free, a doer who sorts and thereby lowers entropy — standing outward of a same-existing-society whose ledger it closes.",
+  "verdict": "RESAY",
+  "why": "Labels kept; at the door: with a box's door; at no cost: with no cost; society: a same-existing-society; *doer* names the installed character, kept."
+ },
+ {
+  "old": "**Standing.** Released by the field. Sorter as free agent was withdrawn in stages and observings kept: one-molecule engine in 1929, cost of erasure in 1961, exorcism in 1982 that placed cost at memory, and measurements of 2010 to 2016.",
+  "new": "**Standing.** Released by the field. Sorter as free agent was withdrawn by stages and observings stood whole: one-molecule engine of 1929, cost of erasure of 1961, exorcism of 1982 that placed cost with memory, and measurements of 2010 to 2016.",
+  "verdict": "RESAY",
+  "why": "*Released by the field* is a standing's name (3.1), kept; in stages: by stages; kept: stood whole; in a year: of; at: with."
+ },
+ {
+  "old": "Haunting at \"information is physical,\" where bit re-installs as a substance particle carries.",
+  "new": "Haunting with \"information is physical,\" where bit re-installs as a substance particle carries.",
+  "verdict": "RESAY",
+  "why": "at: with; quotation kept."
+ },
+ {
+  "old": "Accounting at thought-experiment use.",
+  "new": "Accounting with thought-experiment use.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "**Substrate and society.** A gas, a partition, a door and a sorter, posited; a colloidal particle in an optically modulated double well with its bath; a Brownian particle in a tilted periodic potential with a camera and feedback electronics; a single electron in a metallic island with a detector and a gate; analyst drawing system boundary.",
+  "new": "**Substrate and society.** A gas, a partition, a door and a sorter, posited; a colloidal particle within an optically modulated double well with its bath; a Brownian particle within a tilted periodic potential with a camera and feedback electronics; a single electron on a metallic island with a detector and a gate; analyst drawing system boundary.",
+  "verdict": "RESAY",
+  "why": "Label kept as the form's name (3.2); in: within, and on for an island."
+ },
+ {
+  "old": "**Departure mode.** Installing, sorter projected outward of coupling as a free act; then released.",
+  "new": "**Departure mode.** Installing, sorter projected outward of coupling as a free act; then withdrawn by its field.",
+  "verdict": "RESAY",
+  "why": "released: by meaning, withdrawn by its field, as Standing says."
+ },
+ {
+  "old": "Haunting at bit as store.",
+  "new": "Haunting with bit as store.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "**Installation kind.** Flow, posted within a state accounting; state at bound where it is installed as a floor.",
+  "new": "**Installation kind.** Flow, posted within a state accounting; state with bound where it is installed as a floor.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "A being whose faculties are sharpened enough to follow every molecule, opening and closing a hole so swift pass one way and slow the other, raising one side's temperature and lowering the other's without expenditure of work, in contradiction to the second law — offered in 1871 to show that law is a statistical certainty and not a dynamical one.",
+  "new": "A being whose faculties are sharpened enough to follow every molecule, opening and closing a hole so swift pass one way and slow the other, raising one side's temperature and lowering the other's without expenditure of work, in contradiction to the second law — offered in 1871 to show that law is a statistical certainty and not a dynamical one.",
+  "verdict": "KEEP",
+  "why": "Field account: Maxwell's own words and dated record, kept (3.2: without natural translation); *statistical certainty* is his own term."
+ },
+ {
+  "old": "Resolved in a field's own record: measurement, memory and erasure are physical, erasure of one bit dissipates at least kT ln 2, and the second law holds with information entered in ledger.",
+  "new": "Resolved by a field's own record: measurement, memory and erasure are physical, erasure of one bit dissipates at least kT ln 2, and the second law holds with information entered within ledger.",
+  "verdict": "RESAY",
+  "why": "in: by, within; *at least*, *the second law* and *holds* in a law's sense are a field's own terms, kept."
+ },
+ {
+  "old": "Landauer bound, near 3 × 10⁻²¹ J at room temperature; mean erasure heat saturating at bound for long cycles in a colloidal double well; information-to-energy conversion at a Brownian particle under feedback, with generalised fluctuation relation validated;",
+  "new": "Landauer bound, near 3 × 10⁻²¹ J at room temperature; mean erasure heat saturating at bound for long cycles in a colloidal double well; information-to-energy conversion at a Brownian particle under feedback, with generalised fluctuation relation validated;",
+  "verdict": "KEEP",
+  "why": "Field observings retained: a field's own words and measurements, kept."
+ },
+ {
+  "old": "a single-electron engine and measured role of mutual information in its dynamics; a high-precision test of bound in a feedback trap; erasure below bound in an asymmetric well, on stated terms; on-chip demon as refrigerator; generalised second law with a mutual-information term.",
+  "new": "a single-electron engine and measured role of mutual information in its dynamics; a high-precision test of bound in a feedback trap; erasure below bound in an asymmetric well, on stated terms; on-chip demon as refrigerator; generalised second law with a mutual-information term.",
+  "verdict": "KEEP",
+  "why": "Field observings retained: a field's own words and measurements, kept."
+ },
+ {
+  "old": "With a demon's memory within boundary, entropy ledger closes: extracted work is bounded by free-energy change plus kT times information acquired, and erasure pays it back.",
+  "new": "With a demon's memory within boundary, entropy ledger closes: extracted work is bounded by free-energy change plus kT times information acquired, and erasure pays it back.",
+  "verdict": "KEEP",
+  "why": "*free-energy change* is a field's own term in its own sense, kept."
+ },
+ {
+  "old": "With memory beyond that boundary, ledger closes at gas and the second law appears broken; that closure is installation.",
+  "new": "With memory outward of that boundary, ledger closes with gas and the second law appears broken; that closure is installation.",
+  "verdict": "RESAY",
+  "why": "beyond: outward of; at: with; *the second law* kept."
+ },
+ {
+  "old": "**Living changing.** Each molecule's arrival at its own rate; a particle's fluctuations in its well; probe exchanging with particle at each measurement; each erasure trajectory distinct; memory changing state with every record.",
+  "new": "**Living changing.** Each molecule's arrival with its own rate; a particle's fluctuations within its well; probe exchanging with particle with each measurement; each erasure trajectory distinct; memory parity-changing with every record.",
+  "verdict": "RESAY",
+  "why": "Label kept as the form's name (3.2); at: with; in: within; changing state: parity-changing, a bit's two parities."
+ },
+ {
+  "old": "**Observing between.** System boundary, drawn at gas or at gas-plus-memory; coarse-graining into fast and slow, left and right;",
+  "new": "**Observing between.** System boundary, drawn around gas or around gas-plus-memory; coarse-graining to fast and slow, left and right;",
+  "verdict": "RESAY",
+  "why": "at: around, a boundary's own way; into: to."
+ },
+ {
+  "old": "Sorter supplied as an observer who sees at no exchange, a storer whose memory costs nothing, and a doer whose sorting lowers entropy from outward of its coupling — character standing where a coupling stands.",
+  "new": "Sorter supplied as an observer who sees with no exchange, a storer whose memory costs nothing, and a doer whose sorting lowers entropy from outward of its coupling — character standing where a coupling stands.",
+  "verdict": "RESAY",
+  "why": "at: with; *doer* names the installed character, kept."
+ },
+ {
+  "old": "**Uncarried remainder.** Measurement changes demon: its memory is a member of society, changed at its own rate.",
+  "new": "**Uncarried remainder.** Measurement parity-changes demon: its memory is a member of a same-existing-society, parity-changed with its own rate.",
+  "verdict": "RESAY",
+  "why": "changes, changed: parity-changes, parity-changed; society: a same-existing-society; at: with."
+ },
+ {
+  "old": "(5) Ledger closes at gas, demon excluded.",
+  "new": "(5) Ledger closes with gas, demon excluded.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "(6) A demon's own changing — its memory and erasing — is the carry the still leaves uncarried, and the field found it there.",
+  "new": "(6) A demon's own parity-changing — its memory and erasing — is a carry its still leaves uncarried, and its field found it there.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing; the carry: a carry; the still: its still; the field: its field."
+ },
+ {
+  "old": "False success where a ledger's closure at gas is installed as the second law broken.",
+  "new": "False success where a ledger's closure with gas is installed as the second law broken.",
+  "verdict": "RESAY",
+  "why": "at: with; *the second law* kept."
+ },
+ {
+  "old": "Premature closure at boundary drawn at gas.",
+  "new": "Premature closure with boundary drawn around gas.",
+  "verdict": "RESAY",
+  "why": "at: with, around."
+ },
+ {
+  "old": "Store-seeking at knowledge fixed as a free store.",
+  "new": "Store-seeking with knowledge fixed as a free store.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Forced-choosing at measurement fixed as one side.",
+  "new": "Forced-choosing with measurement fixed as one side.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Line-demanding at boundary cut to exclude demon.",
+  "new": "Line-demanding with boundary cut to exclude demon.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Magnitude-demanding at bit as a count.",
+  "new": "Magnitude-demanding with bit as a count.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "**Eight-side society.** Within, a gas is bounded, fast and slow selected, a partition prepared, temperatures compared.",
+  "new": "**Eight-side society.** Within, a gas is bounded, fast and slow selected, a partition prepared, temperatures compared.",
+  "verdict": "KEEP",
+  "why": "Label *Eight-side society* kept as the entry form's name (3.2)."
+ },
+ {
+  "old": "At betweens, demon couples with each molecule, memory records, erasure exchanges heat with bath, and analyst draws boundary.",
+  "new": "With betweens, demon couples with each molecule, memory records, erasure exchanges heat with bath, and analyst draws boundary.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "A record showing sorter was not installed — offered from start as an accounting device with its memory within boundary — would break ghost diagnosis, leaving accounting at every use.",
+  "new": "A record showing sorter was not installed — offered from start as an accounting device with its memory within boundary — would break ghost diagnosis, leaving accounting with every use.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "A measurement and erasure at zero exchange with measured system and bath would break a field's release and restore free sorter.",
+  "new": "A measurement and erasure with zero exchange with measured system and bath would break a field's withdrawal and restore free sorter.",
+  "verdict": "RESAY",
+  "why": "at: with; release: by meaning, a field's withdrawal."
+ },
+ {
+  "old": "Re-alternation — measurement as bi-coupling, demon a member changed at its own rate, erasure exchange — must carry Landauer measurements, Szilard engines, mutual-information dynamics and fluctuation theorems with information, at no exception.",
+  "new": "Re-alternation — measurement as bi-coupling, demon a member parity-changed with its own rate, erasure exchange — must carry Landauer measurements, Szilard engines, mutual-information dynamics and fluctuation theorems with information, with no exception.",
+  "verdict": "RESAY",
+  "why": "changed: parity-changed; at: with."
+ },
+ {
+  "old": "Beyond: 8.2, items 9 to 19.",
+  "new": "Outward: 8.2, items 9 to 19.",
+  "verdict": "RESAY",
+  "why": "beyond: outward, a kept word, for Part Eight's outside addresses."
+ },
+ {
+  "old": "*The report.*\n\n**Re-alternation.** Demon is a member of society it was posted outward of, coupling with each molecule at its own rate and changed by each coupling.",
+  "new": "*The report.*\n\n**Re-alternation.** Demon is a member of a same-existing-society it was posted outward of, coupling with each molecule with its own rate and parity-changed by each coupling.",
+  "verdict": "RESAY",
+  "why": "Labels kept (3.3); society: a same-existing-society; at: with; changed: parity-changed."
+ },
+ {
+  "old": "The second law stays whole with memory within boundary, which is where coupling always was.",
+  "new": "The second law stays whole with memory within boundary, which is where coupling always was.",
+  "verdict": "KEEP",
+  "why": "*The second law* is a field's own term, one and only one law, kept."
+ },
+ {
+  "old": "**What the field already released.** Nearly all of it, and by its own hands: cost moved from sorting to measurement in 1929, to erasure in 1961, and was fixed at memory in 1982; bound has been measured since 2012.",
+  "new": "**What the field already released.** Nearly all of it, and by its own hands: cost moved from sorting to measurement during 1929, to erasure during 1961, and was fixed with memory during 1982; bound has been measured since 2012.",
+  "verdict": "RESAY",
+  "why": "Label kept (3.3); in a year: during; at: with."
+ },
+ {
+  "old": "What remains is haunting: bit carried as a thing particle holds, and phrase that information is physical installed as substance rather than as correlation.",
+  "new": "What remains is haunting: bit carried as a thing particle possesses, and phrase that information is physical installed as substance rather than as correlation.",
+  "verdict": "RESAY",
+  "why": "holds: possesses, the haunting's own claim with no holding, as six-line (4) says."
+ },
+ {
+  "old": "Entropy at 5.1 is accounting demon was posted to interrogate, and a demon's release is entropy's own: ledger closes only with observer within its boundary.",
+  "new": "Entropy of 5.1 is accounting demon was posted to interrogate, and a demon's dissolving is entropy's own: ledger closes only with observer within its boundary.",
+  "verdict": "RESAY",
+  "why": "at an address: of; release: dissolving, a form that leaves."
+ },
+ {
+  "old": "Vacuum at TWENTY-FIVE 2.5 carries the same observing — count was a detector's — and threshold at 2.4 the same criterion placed from an observer's side.",
+  "new": "Vacuum of TWENTY-FIVE 2.5 carries one same observing — count was a detector's — and threshold of 2.4 one same criterion placed from an observer's side.",
+  "verdict": "RESAY",
+  "why": "at an address: of; the same: one same."
+ },
+ {
+  "old": "This is control for flow family in medicine: a character posted at a coupling, and the field itself finding character to be a member.",
+  "new": "This is control for flow family of medicine: a character posted with a coupling, and its field itself finding character to be a member.",
+  "verdict": "RESAY",
+  "why": "in: of; at: with; the field: its field."
+ },
+ {
+  "old": "The purest flow ghost in state science stands as released by the field, which shows a release observed at form as cleanly as an installation.",
+  "new": "The purest flow ghost of state science stands as released by the field: a dissolving observed with form as cleanly as an installation.",
+  "verdict": "RESAY",
+  "why": "*The purest* an only first, kept; in: of; *released by the field* a standing's name, kept; a release: a dissolving; at: with; a showing re-said as the concept itself."
+ },
+ {
+  "old": "Installation kind observed at lines: flow at 2, 3 and 8, state at 9.",
+  "new": "Installation kind observed with lines: flow with 2, 3 and 8, state with 9.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Enter single-electron engine at TWENTY-FIVE as a society observed at its own grain — members each tunnelling event, magnitude extracted work per cycle, residual cycle-to-cycle spread — with its rates and resolution attached from record.",
+  "new": "Enter single-electron engine to TWENTY-FIVE as a same-existing-society observed with its own grain — members each tunnelling event, magnitude extracted work per cycle, residual cycle-to-cycle spread — with its rates and resolution attached from record.",
+  "verdict": "RESAY",
+  "why": "at an address: to; society: same-existing-society; at: with."
  }
 ]
