@@ -198,6 +198,12 @@
   "why": "at: with; social moral competency is a concept compound, kept."
  },
  {
+  "old": "next from a self's own prior, one sharing at a time, its unrelationing from all other.",
+  "new": "next from a self's own prior, each sharing on its own, its unrelationing from all other.",
+  "verdict": "RESAY",
+  "why": "at a time: each sharing on its own, as code meets each sharing apart from all other."
+ },
+ {
   "old": "**A naming unfolds at six lines**: three own-forward steps at each side,",
   "new": "**A naming unfolds with six lines**: three own-forward steps with each side,",
   "verdict": "RESAY",
@@ -754,5 +760,11 @@
   "new": "*And* carries names together with one relation, a field term with several names as one, and *or* carries a term with one cluster and with an other, each its own gathering;",
   "verdict": "RESAY",
   "why": "at, at once: with, as one."
+ },
+ {
+  "old": "6. **A hyphenation at each part.** 4.17.",
+  "new": "6. **A hyphenation with each part.** 4.17.",
+  "verdict": "RESAY",
+  "why": "at: with (a list item, not a heading)."
  }
 ]
