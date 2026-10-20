@@ -13,6 +13,7 @@ Session v390's improving value, kept ready for a next session to resume. Nothing
 - **[Opening_Best_Version_v390.md](Opening_Best_Version_v390.md):** Natural Intelligence's opening, whole, best so far, each proposed change marked. Kept current with each walk.
 - **[Co-Chaining_THIRTY_Improving_v390.md](Co-Chaining_THIRTY_Improving_v390.md):** Exhibit THIRTY's steps 1 to 50 read against session v390's learnings, and a first group offered from the agreed opening.
 - **[Exhibit_ONE_New_Version_Proposal_v390.md](Exhibit_ONE_New_Version_Proposal_v390.md):** a new Exhibit ONE proposed first: what is ready, what is not, six stages each with a yes, and an outline sketched.
+- **[Exhibit_ONE_Reading_v390.md](Exhibit_ONE_Reading_v390.md):** stage 1 of a new Exhibit ONE: each of its 45 sections read and given a fate; concerns E1 to E4.
 - **[Editing_Natural_Intelligence_v390.md](Editing_Natural_Intelligence_v390.md):** session v390's first plan, seven movements, adjusted as it went.
 
 **Droplets** gathered at session v390 stand at each living file's offerings: `carry/*Offerings_to_*.md`, sections *Gathered from session v390 · v390*, and Natural Intelligence's *Standing with session v390's close*.
