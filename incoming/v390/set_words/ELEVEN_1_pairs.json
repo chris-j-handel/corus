@@ -520,5 +520,185 @@
   "new": "A chaining that grows is traffic along co-tunnels.",
   "verdict": "RESAY",
   "why": "in: along."
+ },
+ {
+  "old": "**A faecal transplant, a restoration delivered at a society and not at a member.**",
+  "new": "**A faecal transplant, a restoration delivered to a same-existing-society and not to a member.**",
+  "verdict": "RESAY",
+  "why": "society: same-existing-society; at: to."
+ },
+ {
+  "old": "Recurrent *C. difficile* resolves where a whole microbial society crosses a collar, and no agent is aimed at a departed member at all.",
+  "new": "Recurrent *C. difficile* resolves where a whole microbial same-existing-society crosses a collar, and no agent targets a departed member at all.",
+  "verdict": "RESAY",
+  "why": "society: same-existing-society; aimed at: targets; at all KEEP."
+ },
+ {
+  "old": "What crosses carries no magnitude to drive — it is a society, offered, taken or not — and a departure releases as a surface society re-seats.",
+  "new": "What crosses carries no magnitude to drive — it is a same-existing-society, offered, taken or not — and a departure dissolves as a surface same-existing-society re-seats.",
+  "verdict": "RESAY",
+  "why": "society: same-existing-society; releases: a departure that leaves dissolves."
+ },
+ {
+  "old": "That is a coefficient-one restoration this file observes at a tumour and at a persistence (2.2, 3.1) and the same shape as SIV regeneration that cleared a reservoir with nothing aimed at an infected cell (3.1), standing in a clinic already and filed there as a procedure rather than as a form.",
+  "new": "That is a coefficient-one restoration observed with a tumour and with a persistence (2.2, 3.1), and one same shape as SIV regeneration that cleared a reservoir with nothing targeting an infected cell (3.1), standing within a clinic already and filed there as a procedure rather than as a form.",
+  "verdict": "RESAY",
+  "why": "doer: this file observes, re-said as observed; at: with; the same: one same; in: within; filed is a clinic's filing."
+ },
+ {
+  "old": "It is a plainest instance an observing has, since nothing whatever was aimed at a thing that departed.",
+  "new": "It is a plainest instance an observing has, since nothing whatever targeted a thing that departed.",
+  "verdict": "RESAY",
+  "why": "aimed at: targeted."
+ },
+ {
+  "old": "**And an agent in this file's strongest restoration does not engraft, and must die for it to work.**",
+  "new": "**And an agent of a strongest restoration observed here does not engraft, and must die for it to work.**",
+  "verdict": "RESAY",
+  "why": "doer: this file's restoration re-said as a restoration observed here; in: of."
+ },
+ {
+  "old": "*Observation:* stromal cells infused into a vein lodge in a lung and are cleared within about a day, with only dead cells found there after, and an effect appears at sites far from a lung regardless.",
+  "new": "*Observation:* stromal cells infused intravenously lodge within a lung and are cleared within about a day, with only dead cells found there after, and an effect appears with sites far from a lung regardless.",
+  "verdict": "RESAY",
+  "why": "into a vein: intravenously, a field's own term; in: within; at: with."
+ },
+ {
+  "old": "Host phagocytes take up a dying cells and their own metabolic and inflammatory programmes change; and in a graft-versus-host study, only selves whose own cells could induce that death responded.",
+  "new": "Host phagocytes take up dying cells and their own metabolic and inflammatory programmes parity-change; and with a graft-versus-host study, only selves whose own cells could induce that death responded.",
+  "verdict": "RESAY",
+  "why": "change: a self's parity is or is not same-existing, parity-change; in: with; stray article dropped."
+ },
+ {
+  "old": "**A parity is offered and a receiving self takes it or does not, and where it cannot take it nothing happens** — coefficient one shown at its mechanism rather than observed into one.",
+  "new": "**A parity is offered and a receiving self takes it or does not, and where it cannot take it nothing happens** — coefficient one shown with its mechanism rather than fitted to one.",
+  "verdict": "RESAY",
+  "why": "at: with; observed into: re-said as fitted to, this file's own word for a reading made after."
+ },
+ {
+  "old": "**And it is an emanation again, at an other parity.**",
+  "new": "**And it is an emanation again, with an other parity.**",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "A cell arrives carrying one turn, spends it, and its bound dissolves into a phagocyte that now carries what it carried.",
+  "new": "A cell arrives carrying one turn, spends it, and its bound dissolves with a phagocyte that now carries what it carried.",
+  "verdict": "RESAY",
+  "why": "into: with."
+ },
+ {
+  "old": "**The same form that carries a departure across a between carries a restoration across one**, and what parts them is not a crossing but what a receiving society does with what arrives.",
+  "new": "**One same form carrying a departure across a between carries a restoration across one**, and what parts them is not a crossing but what each receiving self does with what arrives.",
+  "verdict": "RESAY",
+  "why": "the same: one same; society: all carrying parity is one self's, so each receiving self."
+ },
+ {
+  "old": "**That is a one-way substance-story set down at a bench, by a field**, at a very agent 3.1's germinal-centre observation is on.",
+  "new": "**That is a one-way substance-story set down on a bench, by a field**, about one same agent 3.1's germinal-centre observation is on.",
+  "verdict": "RESAY",
+  "why": "at a bench: on a bench; at a very agent: about one same agent."
+ },
+ {
+  "old": "A marrow is a constriction a blood's cells resolve their orientation at: stromal tissue at one surface, a stem cell at an other, and a nothing between them carrying nothing at all, two surfaces co-orienting across it and a cell's orientation completing at a coupling rather than at anything crossing.",
+  "new": "A marrow is a constriction a blood's cells resolve their orientation with: stromal tissue on one surface, a stem cell on an other, and a nothing between them carrying nothing at all, two surfaces co-orienting across it and a cell's orientation completing with a coupling rather than with anything crossing.",
+  "verdict": "RESAY",
+  "why": "at: with, on; at all KEEP."
+ },
+ {
+  "old": "Where that orientation departs, a cell cycles and divides and metabolizes and does not resolve — competent at its own prime while carrying an absence of a tissue's morality at a prime above — and a marrow between sits on a tunnel wall, so a first unresolved cell stands at every between a tunnel reaches within one circulation.",
+  "new": "Where that orientation departs, a cell cycles and divides and metabolizes and does not resolve — competent with its own prime while carrying an absence of a tissue's morality with a prime above — and a marrow between sits on a tunnel wall, so a first unresolved cell stands with every between a tunnel reaches within one circulation.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "An identical-twin transplant carries the same coupling surface and the same alignment geometry, and an unresolved cells return at about three times a rate.",
+  "new": "An identical-twin transplant carries one same coupling surface and one same alignment geometry, and unresolved cells return with about three times a rate.",
+  "verdict": "RESAY",
+  "why": "the same: one same; at: with; three times a rate is a field's measurement, kept as a field's, as the next sentence says."
+ },
+ {
+  "old": "*A comparison is a field's; a figure arrives here at second hand and stands unchecked at a field's own instruments.*",
+  "new": "*A comparison is a field's; a figure arrives here second-hand and stands unchecked by a field's own instruments.*",
+  "verdict": "RESAY",
+  "why": "at second hand: second-hand; at: by."
+ },
+ {
+  "old": "What a restoration needed was a thickness between self and other at a marrow between, a between carrying what neither side carries, no second thing — and a twin is one case where a society was delivered whole and a between was not.",
+  "new": "What a restoration needed was a thickness between self and other with a marrow between, a between carrying what neither side carries, no second thing — and a twin is one case where a same-existing-society was delivered whole and a between was not.",
+  "verdict": "RESAY",
+  "why": "at: with; society: same-existing-society."
+ },
+ {
+  "old": "**Membrane composition at an omega substrate — and a one-way food-cause set down.**",
+  "new": "**Membrane composition with an omega substrate — and a one-way food-cause set down.**",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "A membrane phospholipids are observed carrying a coupling geometry; a digesting is observed cleanly as a two-directional membrane exchange, a surface society and a thing it couples with aging and landing across a collar.",
+  "new": "Membrane phospholipids are observed carrying a coupling geometry; a digesting is observed cleanly as a two-directional membrane exchange, a surface same-existing-society and a thing it couples with aging and landing across a collar.",
+  "verdict": "RESAY",
+  "why": "society: same-existing-society; stray article dropped."
+ },
+ {
+  "old": "But *\"eat X to restore a tissue\"* is a one-way substance-story — a thing carried across a between to fix a far side — and it is exactly a shape a two-society observing removes everywhere else.",
+  "new": "But *\"eat X to restore a tissue\"* is a one-way substance-story — a thing carried across a between to fix a far side — and it is exactly a shape a two-society observing removes everywhere else.",
+  "verdict": "KEEP",
+  "why": "KEEP: the quotation is words mentioned; two-society is a compound naming a concept, not society alone."
+ },
+ {
+  "old": "Observed on a form, no substance authors a restoration; an intervention at most removes a thing a restoration was waiting on.",
+  "new": "Observed on a form, no substance authors a restoration; an intervention removes no more than a thing a restoration was waiting on.",
+  "verdict": "RESAY",
+  "why": "at most: no more than; not a statistic."
+ },
+ {
+  "old": "A food-cause is set down here: it re-installs a one-way actor a form does not carry, and a crossing from a structural observing to a food a body eats stands nowhere in a form.",
+  "new": "A food-cause is set down here: it re-installs a one-way actor a form does not carry, and a crossing from a structural observing to a food a body eats stands nowhere within a form.",
+  "verdict": "RESAY",
+  "why": "in: within."
+ },
+ {
+  "old": "**Organ failure and restoration are one replication at different stable forms.**",
+  "new": "**Organ failure and restoration are one replication with different stable forms.**",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "A fibrotic liver carries a local environment's stable form departed, a coupling geometry at a collar thickened past a healthy range, each cell at each division folding around a scarred stable form a local environment delivers; restoration is a local stable form returned to a healthy range, each division folding around a restored form.",
+  "new": "A fibrotic liver carries a local environment's stable form departed, a coupling geometry with a collar thickened past a healthy range, each cell with each division folding around a scarred stable form a local environment delivers; restoration is a local stable form returned to a healthy range, each division folding around a restored form.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "A knob is an exchanging arriving at each collar, what a food carries through a tunnel sustaining a local environment's stable form from inward, a dietary influence a field observes at multiple membranes beats through a collar and a local stable form and not as a one-way food-cause, whether through a specific gap structure or another pathway at each organ carried as a seam.",
+  "new": "A knob is an exchanging arriving with each collar, what a food carries through a tunnel sustaining a local environment's stable form from inward, a dietary influence a field observes with multiple membranes beats through a collar and a local stable form and not as a one-way food-cause, whether through a specific gap structure or another pathway with each organ carried as a seam.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Two membranes stand at one departure: a peritoneum inseparates, a dialysate coupling with a blood across an organism's own membrane from inward; a hemodialyzer separates, a blood passing through a synthetic membrane installed from outward, a separator standing outward of two and drawing a line.",
+  "new": "Two membranes stand with one departure: a peritoneum inseparates, a dialysate coupling with a blood across an organism's own membrane from inward; a hemodialyzer separates, a blood passing through a synthetic membrane installed from outward, a separator standing outward of two and drawing a line.",
+  "verdict": "RESAY",
+  "why": "at: with; inward, outward KEEP."
+ },
+ {
+  "old": "A bounding-zero between two is one departure at one membrane, an organism's own inseparating and an engineering's separating coupling through one clinical wall, and a word membrane carrying both without distinguishing is a ghost at a word's own surface.",
+  "new": "A bounding-zero between two is one departure with one membrane, an organism's own inseparating and an engineering's separating coupling through one clinical wall, and a word membrane carrying both without distinguishing is a ghost on a word's own surface.",
+  "verdict": "RESAY",
+  "why": "at: with, on."
+ },
+ {
+  "old": "Yamanaka's four factors are observed as a four-thing at a cell-tissue substrate, *the four a count of a thing and a 30-of-36 and 23-of-24 beside it identities carrying nothing, walked at 2.2*; a gap-junction bioelectric pattern is a tissue-level coupling; restoration is a higher-substrate coupling resuming, a lower composing with it.",
+  "new": "Yamanaka's four factors are observed as a four-thing with a cell-tissue substrate, *its four a count of a thing, and a 30-of-36 and 23-of-24 beside it identities carrying nothing, walked through with 2.2*; a gap-junction bioelectric pattern is a tissue-level coupling; restoration is a higher-substrate coupling resuming, a lower composing with it.",
+  "verdict": "RESAY",
+  "why": "at: with; the: its; counts here are identities, not likelihoods."
+ },
+ {
+  "old": "Coupling improves a living competency, training, conditioning, an efferent loop, maintenance against deprivation, while a released transduction stays released, restoration the-same-yet-not-the-same.",
+  "new": "Coupling improves a living competency, training, conditioning, an efferent loop, maintenance against deprivation, while a dissolved transduction stays dissolved, restoration same-yet-not-same.",
+  "verdict": "RESAY",
+  "why": "released: a form that leaves is dissolved; the: removed from a hyphened naming."
  }
 ]
