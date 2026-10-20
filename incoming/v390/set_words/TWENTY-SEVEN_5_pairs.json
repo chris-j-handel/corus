@@ -494,7 +494,175 @@
  {
   "old": "\"Electromagnetic waves of 1.1 cm wave-length and the absorption spectrum of ammonia,\" *Physical Review* 45, 234 (1934), inversion spectrum, the first microwave spectrum.",
   "new": "\"Electromagnetic waves of 1.1 cm wave-length and the absorption spectrum of ammonia,\" *Physical Review* 45, 234 (1934), inversion spectrum, the first microwave spectrum.",
-  "verdict": "RESAY",
+  "verdict": "KEEP",
   "why": "Title kept; the first kept, an only first of its set."
+ },
+ {
+  "old": "\"Molecular microwave oscillator and new hyperfine structure in the microwave spectrum of NH₃,\"",
+  "new": "\"Molecular microwave oscillator and new hyperfine structure in the microwave spectrum of NH₃,\"",
+  "verdict": "KEEP",
+  "why": "Title of an outside work."
+ },
+ {
+  "old": "## 8.2 Physics",
+  "new": "## 8.2 Physics",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "[*The International System of Units (SI Brochure)*](https://www.bipm.org/documents/20126/41483022/SI-Brochure-9-EN.pdf), force and energy as named derived quantities, with quantity, dimension, and unit kept distinct.",
+  "new": "[*The International System of Units (SI Brochure)*](https://www.bipm.org/documents/20126/41483022/SI-Brochure-9-EN.pdf), force and energy as named derived quantities, with quantity, dimension, and unit each distinct.",
+  "verdict": "RESAY",
+  "why": "Title and URL kept; kept distinct: each distinct."
+ },
+ {
+  "old": "“Proton Mass Decomposition from the QCD Energy Momentum Tensor,” *Physical Review Letters* 121, 212001 (2018), for fetch: mass at coupling, at 5.8.",
+  "new": "“Proton Mass Decomposition from the QCD Energy Momentum Tensor,” *Physical Review Letters* 121, 212001 (2018), for fetch: mass with coupling, for 5.8.",
+  "verdict": "RESAY",
+  "why": "Title kept; at: with, for."
+ },
+ {
+  "old": "“The size of the proton,” *Nature* 466, 213 (2010), and CODATA 2018 adjustment, for fetch: radius by two probes, at 5.8 and 6.1 of Natural Chemistry.",
+  "new": "“The size of the proton,” *Nature* 466, 213 (2010), and CODATA 2018 adjustment, for fetch: radius by two probes, for 5.8 and 6.1 of Natural Chemistry.",
+  "verdict": "RESAY",
+  "why": "Title kept; at: for."
+ },
+ {
+  "old": "for fetch: decay as a bound, at 5.8.",
+  "new": "for fetch: decay as a bound, for 5.8.",
+  "verdict": "RESAY",
+  "why": "at: for."
+ },
+ {
+  "old": "for fetch: spin decompositions, at 5.8.",
+  "new": "for fetch: spin decompositions, for 5.8.",
+  "verdict": "RESAY",
+  "why": "at: for."
+ },
+ {
+  "old": "sorter at the door; and 1867 letter to Tait.",
+  "new": "a sorter by a door; and 1867 letter to Tait.",
+  "verdict": "RESAY",
+  "why": "at the door: by a door, a door of Maxwell's own thought experiment."
+ },
+ {
+  "old": "\"Kinetic theory of the dissipation of energy,\"",
+  "new": "\"Kinetic theory of the dissipation of energy,\"",
+  "verdict": "KEEP",
+  "why": "Title of an outside work."
+ },
+ {
+  "old": "\"Über die Entropieverminderung in einem thermodynamischen System bei Eingriffen intelligenter Wesen,\"",
+  "new": "\"Über die Entropieverminderung in einem thermodynamischen System bei Eingriffen intelligenter Wesen,\"",
+  "verdict": "KEEP",
+  "why": "Title of an outside work."
+ },
+ {
+  "old": "\"Irreversibility and heat generation in the computing process,\"",
+  "new": "\"Irreversibility and heat generation in the computing process,\"",
+  "verdict": "KEEP",
+  "why": "Title of an outside work."
+ },
+ {
+  "old": "\"The thermodynamics of computation — a review,\" *International Journal of Theoretical Physics* 21, 905–940 (1982), cost placed at memory.",
+  "new": "\"The thermodynamics of computation — a review,\" *International Journal of Theoretical Physics* 21, 905–940 (1982), cost placed with memory.",
+  "verdict": "RESAY",
+  "why": "Title kept; at: with."
+ },
+ {
+  "old": "\"Experimental demonstration of information-to-energy conversion and validation of the generalized Jarzynski equality,\"",
+  "new": "\"Experimental demonstration of information-to-energy conversion and validation of the generalized Jarzynski equality,\"",
+  "verdict": "KEEP",
+  "why": "Title of an outside work."
+ },
+ {
+  "old": "mean erasure heat saturating at bound for long cycles.",
+  "new": "mean erasure heat reaching its bound for long cycles.",
+  "verdict": "RESAY",
+  "why": "mean erasure heat is a field's own measurement, kept; saturating at bound: reaching its bound."
+ },
+ {
+  "old": "\"Experimental observation of the role of mutual information in the nonequilibrium dynamics of a Maxwell demon,\"",
+  "new": "\"Experimental observation of the role of mutual information in the nonequilibrium dynamics of a Maxwell demon,\"",
+  "verdict": "KEEP",
+  "why": "Title of an outside work."
+ },
+ {
+  "old": "\"High-precision test of Landauer's principle in a feedback trap,\"",
+  "new": "\"High-precision test of Landauer's principle in a feedback trap,\"",
+  "verdict": "KEEP",
+  "why": "Title of an outside work."
+ },
+ {
+  "old": "\"Erasure without work in an asymmetric double-well potential,\"",
+  "new": "\"Erasure without work in an asymmetric double-well potential,\"",
+  "verdict": "KEEP",
+  "why": "Title of an outside work."
+ },
+ {
+  "old": "the second law with a mutual-information term.",
+  "new": "the second law with a mutual-information term.",
+  "verdict": "KEEP",
+  "why": "The second law is a field's own term, one and only one."
+ },
+ {
+  "old": "\"Measurements of interaction cross sections and nuclear radii in the light p-shell region,\" *Physical Review Letters* 55, 2676 (1985), halo found at lithium-11.",
+  "new": "\"Measurements of interaction cross sections and nuclear radii in the light p-shell region,\" *Physical Review Letters* 55, 2676 (1985), halo found with lithium-11.",
+  "verdict": "RESAY",
+  "why": "Title kept; at: with."
+ },
+ {
+  "old": "\"First Penning-trap mass measurement of the exotic halo nucleus ¹¹Li,\" *Physical Review Letters* 101, 202501 (2008), two-neutron separation energy 369.15(65) keV at a half-life of 8.8 ms.",
+  "new": "\"First Penning-trap mass measurement of the exotic halo nucleus ¹¹Li,\" *Physical Review Letters* 101, 202501 (2008), two-neutron separation energy 369.15(65) keV at a half-life of 8.8 ms.",
+  "verdict": "KEEP",
+  "why": "Title kept; separation energy at a half-life is a field's own measurement."
+ },
+ {
+  "old": "\"Energy levels arising from resonant two-body forces in a three-body system,\"",
+  "new": "\"Energy levels arising from resonant two-body forces in a three-body system,\"",
+  "verdict": "KEEP",
+  "why": "Title of an outside work."
+ },
+ {
+  "old": "\"Evidence for Efimov quantum states in an ultracold gas of caesium atoms,\" *Nature* 440, 315–318 (2006), loss resonance at negative scattering length where no pair binds.",
+  "new": "\"Evidence for Efimov quantum states in an ultracold gas of caesium atoms,\" *Nature* 440, 315–318 (2006), loss resonance at negative scattering length where no pair binds.",
+  "verdict": "KEEP",
+  "why": "Title kept; loss resonance at negative scattering length is a field's own measurement in its own sense."
+ },
+ {
+  "old": "\"Observation of the second triatomic resonance in Efimov's scenario,\"",
+  "new": "\"Observation of the second triatomic resonance in Efimov's scenario,\"",
+  "verdict": "KEEP",
+  "why": "Title of an outside work."
+ },
+ {
+  "old": "\"Observation of the Efimov state of the helium trimer,\" *Science* 348, 551 (2015), each trimer imaged, two atoms close and the third far.",
+  "new": "\"Observation of the Efimov state of the helium trimer,\" *Science* 348, 551 (2015), each trimer imaged, two atoms close and the third far.",
+  "verdict": "KEEP",
+  "why": "Title kept; the third kept, an only third, last of its three."
+ },
+ {
+  "old": "tetramers at line 10.",
+  "new": "tetramers with line 10.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "\"A direct empirical proof of the existence of dark matter,\"",
+  "new": "\"A direct empirical proof of the existence of dark matter,\"",
+  "verdict": "KEEP",
+  "why": "Title of an outside work."
+ },
+ {
+  "old": "one electron in apparatus at a time and fringes at no arrival.",
+  "new": "electrons one at a time through apparatus, and fringes carried by no arrival.",
+  "verdict": "RESAY",
+  "why": "in apparatus: through apparatus; one at a time kept; at no arrival: carried by no arrival."
+ },
+ {
+  "old": "red-giant tip at 69.6 ± 0.8 ± 1.7 between them",
+  "new": "red-giant tip at 69.6 ± 0.8 ± 1.7 between them",
+  "verdict": "KEEP",
+  "why": "A field's own measurement; five standard deviations and H₀ values in this entry are a field's own statistics, kept."
  }
 ]
