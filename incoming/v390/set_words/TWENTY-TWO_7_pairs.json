@@ -400,5 +400,365 @@
   "new": "*Second seating: a sound-horizon inference carried forward is a record indexed by one frame, which is a clock within a recording.*",
   "verdict": "RESAY",
   "why": "'indexed at' becomes indexed by; 'a clock in recording' becomes a clock within a recording, a recording and its part."
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** Climate sways on its own, ice growing and collapsing at couplings of ocean, ice and carbon, and a period is fixed to be given by an orbit, one beat over a sway.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** Climate sways on its own, ice growing and collapsing with couplings of ocean, ice and carbon, and a period is fixed to be given by an orbit, one beat over a sway.",
+  "verdict": "RESAY",
+  "why": "verdict line and 2's label: + or − with 10, as 10 carries each sharing's parity-offering; at couplings becomes with couplings."
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A rate fixed as given by a forcing that does not pace it.",
+  "new": "**With 12-next-co-same-existing.** A rate fixed as given by a forcing that does not pace it.",
+  "verdict": "RESAY",
+  "why": "label: with 12, each sharing's is or is not; nothing else to re-say."
+ },
+ {
+  "old": "so a period matched and a forcing calculated are not same, a sway keeping its own beat where a clock was fixed over it.",
+  "new": "so a period matched and a forcing calculated are not same, a sway carrying its own beat where a clock was fixed over it.",
+  "verdict": "RESAY",
+  "why": "'keeping' becomes carrying; earlier in this sentence 'Insolation change at an eccentricity period', 'a discernible change in forcing' and 'not significantly modulating' are a field's own words and measurements, kept outside this pair."
+ },
+ {
+  "old": "Insolation change at an eccentricity period is small against an amplitude of cycles, and a shift from 41,000 to 100,000 years came without a discernible change in forcing; formal testing finds eccentricity not significantly modulating timing of terminations,",
+  "new": "Insolation change at an eccentricity period is small against an amplitude of cycles, and a shift from 41,000 to 100,000 years came without a discernible change in forcing; formal testing finds eccentricity not significantly modulating timing of terminations,",
+  "verdict": "KEEP",
+  "why": "a field's own words and measurements: insolation change, a discernible change in forcing, not significantly modulating, quoted at Hard Problem Registry."
+ },
+ {
+  "old": "**At 11-next-co-observing.** A period near 100,000 years over the past million years",
+  "new": "**With 11-next-co-observing.** A period near 100,000 years over the past million years",
+  "verdict": "RESAY",
+  "why": "label: with 11, a next prior forming; 'over the past million years' and 'a weak insolation change' in this sentence are a field's own measurements, kept."
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** A magnetotail stores and releases at its own couplings, current disruption near and reconnection far, and an onset is fixed to one causal order between two, one first and an other after.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** A magnetotail stores and releases with its own couplings, current disruption near and reconnection far, and an onset is fixed to one causal order between two, one first and an other after.",
+  "verdict": "RESAY",
+  "why": "verdict line and 2's label: + or − with 10, as 10 carries each sharing's parity-offering; at its own couplings becomes with; 'stores and releases' is a field's own term in its own sense (a magnetotail's energy loading and unloading), kept."
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** An order fixed between two couplings instruments reach at different cadences.",
+  "new": "**With 12-next-co-same-existing.** An order fixed between two couplings instruments reach with different cadences.",
+  "verdict": "RESAY",
+  "why": "label: with 12, each sharing's is or is not; at different cadences becomes with different cadences."
+ },
+ {
+  "old": "flow and reconnection signatures observed at their own cadences,",
+  "new": "flow and reconnection signatures observed with their own cadences,",
+  "verdict": "RESAY",
+  "why": "at their own cadences becomes with; this sentence's field words ('in place of', 'in simulations') are kept."
+ },
+ {
+  "old": "candidate processes trigger or follow one another in simulations, so an order is a choice of signature's, and two couplings at no between have no order between them.",
+  "new": "candidate processes trigger or follow one another in simulations, so an order is a choice of signature's, and two couplings with no between have no order between them.",
+  "verdict": "RESAY",
+  "why": "'in simulations' is a field's own words, kept; at no between becomes with no between."
+ },
+ {
+  "old": "and timing rests on which signatures fix onset and reconnection, a response faulting a comment for an index in place of ground signatures and single components in place of full vectors;",
+  "new": "and timing rests on which signatures fix onset and reconnection, a response faulting a comment for an index in place of ground signatures and single components in place of full vectors;",
+  "verdict": "KEEP",
+  "why": "a field's own words, a response's own fault-finding: 'in place of', twice, kept."
+ },
+ {
+  "old": "**At 11-next-co-observing.** Near-Earth reconnection,",
+  "new": "**With 11-next-co-observing.** Near-Earth reconnection,",
+  "verdict": "RESAY",
+  "why": "label: with 11, a next prior forming; 'superposed epochs recover a common timing by averaging' later in this sentence is a field's own method in its own sense, kept."
+ },
+ {
+  "old": "one order fixed over couplings that each pace their own is a beat fixed at a record, and a record gives each signature at its own cadence, event by event.",
+  "new": "one order fixed over couplings that each pace their own is a beat fixed with a record, and a record gives each signature with its own cadence, event by event.",
+  "verdict": "RESAY",
+  "why": "at a record and at its own cadence become with."
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** A brain cycles between states at its own couplings, sensory gain rising and falling, and an attack is fixed to a sequence with one initiation, a first that orders the rest.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** A brain cycles between states with its own couplings, sensory gain rising and falling, and an attack is fixed to a sequence with one initiation, a first that orders each after it.",
+  "verdict": "RESAY",
+  "why": "verdict line and 2's label: + or − with 10, as 10 carries each sharing's parity-offering; at its own couplings becomes with; 'the rest' becomes each after it."
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** An onset fixed to one first in a cycling state.",
+  "new": "**With 12-next-co-same-existing.** An onset fixed to one first within a cycling state.",
+  "verdict": "RESAY",
+  "why": "label: with 12, each sharing's is or is not; 'in a cycling state' becomes within, a state and its part."
+ },
+ {
+  "old": "Questions part into why, how and when, and when, an emergence of an attack from a cycling disorder of sensory processing, is examined mostly through triggered attacks and serial scanning of its cycle;",
+  "new": "Questions part into why, how and when, and when, an emergence of an attack from a cycling disorder of sensory processing, is examined mostly through triggered attacks and serial scanning of its cycle;",
+  "verdict": "KEEP",
+  "why": "a field's own words, quoted at Hard Problem Registry: 'part into why, how and when', 'examined mostly through'."
+ },
+ {
+  "old": "and a fourth account has a cycling brain state in which multiple triggers can precipitate attacks, a sway with many self-boundings and no first.",
+  "new": "and a fourth account has a cycling brain state in which multiple triggers can precipitate attacks, a sway with many self-boundings and no first.",
+  "verdict": "KEEP",
+  "why": "'early brain-state changes' before and 'in which multiple triggers can precipitate attacks' are a field's own words, kept."
+ },
+ {
+  "old": "**At 11-next-co-observing.** Distinct phases,",
+  "new": "**With 11-next-co-observing.** Distinct phases,",
+  "verdict": "RESAY",
+  "why": "label: with 11, a next prior forming; this sentence's 'changes in small hard-to-time samples' and 'in subsets' are a field's own words, kept."
+ },
+ {
+  "old": "an attack arrives at a tipping of a cycle's own couplings, phase by phase.",
+  "new": "an attack arrives with a tipping of a cycle's own couplings, phase by phase.",
+  "verdict": "RESAY",
+  "why": "at a tipping becomes with a tipping."
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** A fault ruptures at its own coupling, stress and friction coupling at a momentary they couple, and a rupture is fixed to be readable before it exists, a diagnostic precursor indicating with high probability its location, its time and its size.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** A fault ruptures with its own coupling, stress and friction coupling with a momentary they couple, and a rupture is fixed to be readable before it exists, a diagnostic precursor indicating with high probability its location, its time and its size.",
+  "verdict": "RESAY",
+  "why": "verdict line and 2's label: + or − with 10, as 10 carries each sharing's parity-offering; at its own coupling and at a momentary become with; 'with high probability' is a field's own words, kept."
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A momentarying fixed to be observed ahead of its momentary.",
+  "new": "**With 12-next-co-same-existing.** A momentarying fixed to be observed ahead of its momentary.",
+  "verdict": "RESAY",
+  "why": "label: with 12, each sharing's is or is not; nothing else to re-say."
+ },
+ {
+  "old": "Predictability is poorly understood, a lack reflected in an inability to reliably predict large earthquakes on short time scales;",
+  "new": "Predictability is poorly understood, a lack reflected in an inability to reliably predict large earthquakes on short time scales;",
+  "verdict": "KEEP",
+  "why": "a field's own words, quoted at Hard Problem Registry; 'with high probability' in its next clause likewise kept."
+ },
+ {
+  "old": "rate forecasts show probabilistic skill at specified scales",
+  "new": "rate forecasts show probabilistic skill at specified scales",
+  "verdict": "KEEP",
+  "why": "a field's own words and term ('probabilistic skill at specified space-time scales'), kept."
+ },
+ {
+  "old": "a property of a momentarying established without its momentary is a coupling's making fixed at a state before it, and forecasting is a rate at which couplings arrive, measured, each event its own coupling at its momentary.",
+  "new": "a property of a momentarying established without its momentary is a coupling's making fixed to a state before it, and forecasting is a rate with which couplings arrive, measured, each event its own coupling with its momentary.",
+  "verdict": "RESAY",
+  "why": "fixed at a state becomes fixed to a state, as 7.17 says it; at which and at its momentary become with."
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** Lineages evolve at their own couplings, mutation, selection, drift and environment coupling at each generation, and an outcome is fixed to be readable from an ancestral state, a trajectory established before it exists.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** Lineages evolve with their own couplings, mutation, selection, drift and environment coupling with each generation, and an outcome is fixed to be readable from an ancestral state, a trajectory established before it exists.",
+  "verdict": "RESAY",
+  "why": "verdict line and 2's label: + or − with 10, as 10 carries each sharing's parity-offering; at their own couplings and at each generation become with."
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A trajectory fixed predictable from its opening.",
+  "new": "**With 12-next-co-same-existing.** A trajectory fixed predictable from its opening.",
+  "verdict": "RESAY",
+  "why": "label: with 12, each sharing's is or is not; nothing else to re-say."
+ },
+ {
+  "old": "general rules are found most often through experimental evolution, slower dynamics at risk of being overlooked there and extrapolation to the long term requiring caution, recurrence measured in experiments and predictability sought over histories not same, a momentary skipped.",
+  "new": "general rules are found most often through experimental evolution, slower dynamics at risk of being overlooked there and extrapolation to the long term requiring caution, recurrence measured in experiments and predictability sought over histories not same, a momentary skipped.",
+  "verdict": "KEEP",
+  "why": "a field's own words, quoted at Hard Problem Registry: 'most often', 'at risk of', 'the long term', 'measured in experiments'; 'changing environments' before is likewise a field's term."
+ },
+ {
+  "old": "a phenotype more predictable than a genotype, a third account, is many routes converging at a coupling, each generation its own.",
+  "new": "a phenotype more predictable than a genotype, a third account, is many routes converging with a coupling, each generation its own.",
+  "verdict": "RESAY",
+  "why": "at a coupling becomes with a coupling; 'path changes', 'incomplete sampling' and 'environmental change' before are a field's own terms, kept."
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** Populations speciate at their own couplings, one event and then a next, and a burst is fixed over them, a radiation a macroevolutionary pattern observed down to a population's own processes.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** Populations speciate with their own couplings, one event and then a next, and a burst is fixed over them, a radiation a macroevolutionary pattern observed down to a population's own processes.",
+  "verdict": "RESAY",
+  "why": "verdict line and 2's label: + or − with 10, as 10 carries each sharing's parity-offering; at their own couplings becomes with."
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A burst fixed over speciations that each pace their own.",
+  "new": "**With 12-next-co-same-existing.** A burst fixed over speciations that each pace their own.",
+  "verdict": "RESAY",
+  "why": "label: with 12, each sharing's is or is not; nothing else to re-say."
+ },
+ {
+  "old": "and exceptional clades invite retrospective explanation: a beat fixed at a record, an aggregate observed as one carrying.",
+  "new": "and exceptional clades invite retrospective explanation: a beat fixed with a record, an aggregate observed as one carrying.",
+  "verdict": "RESAY",
+  "why": "a beat's position with a record."
+ },
+ {
+  "old": "**At 11-next-co-observing.** Replicated island and lake radiations,",
+  "new": "**With 11-next-co-observing.** Replicated island and lake radiations,",
+  "verdict": "RESAY",
+  "why": "label: with 11, a next prior forming; nothing else to re-say in these words."
+ },
+ {
+  "old": "calibrated phylogenies infer rate shifts under extinction and sampling models,",
+  "new": "calibrated phylogenies infer rate shifts under extinction and sampling models,",
+  "verdict": "KEEP",
+  "why": "a field's own method and term (sampling models), kept."
+ },
+ {
+  "old": "experiments observe early divergence in restricted systems, and a fifth account has apparent exceptional radiation arising partly from extinction, sampling and clade-selection effects:",
+  "new": "experiments observe early divergence in restricted systems, and a fifth account has apparent exceptional radiation arising partly from extinction, sampling and clade-selection effects:",
+  "verdict": "KEEP",
+  "why": "a field's own words, quoted at Hard Problem Registry: 'in restricted systems', 'sampling'."
+ },
+ {
+  "old": "and counterfactual lineages that did not radiate offer at no instrument, recorded bursts being surviving couplings' making, one at a time.",
+  "new": "and counterfactual lineages that did not radiate offer to no instrument, recorded bursts being surviving couplings' making, one at a time.",
+  "verdict": "RESAY",
+  "why": "'offer at no instrument' becomes offer to no instrument; 'one at a time' kept; 'sampling models', 'in restricted systems' and 'sampling' before are a field's own terms, kept."
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** A respondent and an item couple at each answering, in each language and each place, and one scale is fixed across groups, positions of one coupling given a correspondence with another's so scores can be compared.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** A respondent and an item couple with each answering, with each language and each place, and one scale is fixed across groups, positions of one coupling given a correspondence with another's so scores can be compared.",
+  "verdict": "RESAY",
+  "why": "verdict line and 2's label: + or − with 10, as 10 carries each sharing's parity-offering; at each answering and in each language become with."
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A correspondence fixed between couplings so their parities couple at one scale.",
+  "new": "**With 12-next-co-same-existing.** A correspondence fixed between couplings so their parities couple on one scale.",
+  "verdict": "RESAY",
+  "why": "label: with 12, each sharing's is or is not; at one scale becomes on one scale."
+ },
+ {
+  "old": "invariance to be assessed before any comparison: beat at a between, a part's fourth position, fixed where each coupling answers its own.",
+  "new": "invariance to be assessed before any comparison: beat with a between, a part's fourth position, fixed where each coupling answers its own.",
+  "verdict": "RESAY",
+  "why": "a beat's position with a between; this sentence's 'sampling', 'change item thresholds' and 'in large comparisons' are a field's own words, kept."
+ },
+ {
+  "old": "partial invariance frees selected parameters and conditions the rest on anchors,",
+  "new": "partial invariance frees selected parameters and conditions others on anchors,",
+  "verdict": "RESAY",
+  "why": "'the rest' becomes others; 'sample-size' and 'at a cost of' in this sentence are a field's own words, kept."
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** A score is made at each prediction's coupling with its outcome, and one score is fixed to satisfy each fairness relation at once, calibration and equal error rates across groups whose base rates differ.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** A score is made with each prediction's coupling to its outcome, and one score is fixed to satisfy each fairness relation together, calibration and equal error rates across groups whose base rates differ.",
+  "verdict": "RESAY",
+  "why": "verdict line and 2's label: + or − with 10, as 10 carries each sharing's parity-offering; at each prediction's coupling becomes with, its outcome then coupled to; at once becomes together."
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** Several relations fixed jointly satisfiable by one score.",
+  "new": "**With 12-next-co-same-existing.** Several relations fixed jointly satisfiable by one score.",
+  "verdict": "RESAY",
+  "why": "label: with 12, each sharing's is or is not; nothing else to re-say."
+ },
+ {
+  "old": "field proving naming empty, as at rankings and population ethics beside it, fourth account naming fairness a substantive institutional judgment not exhausted by any parity condition.",
+  "new": "field proving naming empty, as with rankings and population ethics beside it, fourth account naming fairness a substantive institutional judgment not exhausted by any parity condition.",
+  "verdict": "RESAY",
+  "why": "as at becomes as with; 'except in degenerate cases' and 'lie in an approximate version' before are a field's own words, kept."
+ },
+ {
+  "old": "thresholds reach selected parities at group-specific rules,",
+  "new": "thresholds reach selected parities by group-specific rules,",
+  "verdict": "RESAY",
+  "why": "at becomes by; 'generally changes calibration' before is a field's own words, kept."
+ },
+ {
+  "old": "one score fixed to each relation at once is one ordering fixed over couplings whose base rates differ, naming set down and a relation chosen at each decision's own between.",
+  "new": "one score fixed to each relation together is one ordering fixed over couplings whose base rates differ, naming set down and a relation chosen with each decision's own between.",
+  "verdict": "RESAY",
+  "why": "at once becomes together; at each decision's own between becomes with."
+ },
+ {
+  "old": "**At 11-next-co-observing.** Prospective testing frameworks,",
+  "new": "**With 11-next-co-observing.** Prospective testing frameworks,",
+  "verdict": "RESAY",
+  "why": "label: with 11, a next prior forming; nothing else to re-say in these words."
+ },
+ {
+  "old": "**At 11-next-co-observing.** Repeatable molecular targets, contingent path changes,",
+  "new": "**With 11-next-co-observing.** Repeatable molecular targets, contingent path changes,",
+  "verdict": "RESAY",
+  "why": "label: with 11, a next prior forming; 'contingent path changes' is a field's own term, kept."
+ },
+ {
+  "old": "landscapes predicting local paths under incomplete sampling,",
+  "new": "landscapes predicting local paths under incomplete sampling,",
+  "verdict": "KEEP",
+  "why": "a field's own words (incomplete sampling), kept."
+ },
+ {
+  "old": "a fourth account has a target itself dynamic under environmental change and ecological feedback:",
+  "new": "a fourth account has a target itself dynamic under environmental change and ecological feedback:",
+  "verdict": "KEEP",
+  "why": "a field's own words (environmental change), quoted at Hard Problem Registry, kept."
+ },
+ {
+  "old": "Translation, response style, sampling and cultural interpretation change item thresholds and loadings, exact invariance is often rejected in large comparisons,",
+  "new": "Translation, response style, sampling and cultural interpretation change item thresholds and loadings, exact invariance is often rejected in large comparisons,",
+  "verdict": "KEEP",
+  "why": "a field's own words, quoted at Hard Problem Registry: sampling, change item thresholds, often rejected in large comparisons."
+ },
+ {
+  "old": "**At 11-next-co-observing.** Invariance hierarchies,",
+  "new": "**With 11-next-co-observing.** Invariance hierarchies,",
+  "verdict": "RESAY",
+  "why": "label: with 11, a next prior forming; nothing else to re-say in these words."
+ },
+ {
+  "old": "multigroup analysis tests nested equalities with fit and sample-size sensitivity,",
+  "new": "multigroup analysis tests nested equalities with fit and sample-size sensitivity,",
+  "verdict": "KEEP",
+  "why": "a field's own words (sample-size sensitivity), kept."
+ },
+ {
+  "old": "alignment and Bayesian methods estimate small deviations at a cost of new priors or tolerances;",
+  "new": "alignment and Bayesian methods estimate small deviations at a cost of new priors or tolerances;",
+  "verdict": "KEEP",
+  "why": "a field's own words, quoted at Hard Problem Registry ('at a cost of new priors or tolerances'), kept."
+ },
+ {
+  "old": "Their simultaneous satisfaction is mathematically incompatible under differing base rates except in degenerate cases, and even approximate satisfaction requires data to lie in an approximate version of one of constrained special cases;",
+  "new": "Their simultaneous satisfaction is mathematically incompatible under differing base rates except in degenerate cases, and even approximate satisfaction requires data to lie in an approximate version of one of constrained special cases;",
+  "verdict": "KEEP",
+  "why": "a field's own words, quoted at Hard Problem Registry: 'except in degenerate cases', 'lie in an approximate version'."
+ },
+ {
+  "old": "**At 11-next-co-observing.** Incompatibility is proved,",
+  "new": "**With 11-next-co-observing.** Incompatibility is proved,",
+  "verdict": "RESAY",
+  "why": "label: with 11, a next prior forming; nothing else to re-say in these words."
+ },
+ {
+  "old": "equalized odds constrains errors and generally changes calibration,",
+  "new": "equalized odds constrains errors and generally changes calibration,",
+  "verdict": "KEEP",
+  "why": "a field's own words (generally changes calibration), kept."
+ },
+ {
+  "old": "spontaneous-attack imaging finds phase-related changes in small hard-to-time samples, provocations trigger attacks in subsets without reproducing natural initiation,",
+  "new": "spontaneous-attack imaging finds phase-related changes in small hard-to-time samples, provocations trigger attacks in subsets without reproducing natural initiation,",
+  "verdict": "KEEP",
+  "why": "a field's own words, quoted at Hard Problem Registry: changes, samples, in subsets."
+ },
+ {
+  "old": "superposed epochs recover a common timing by averaging events' diversity,",
+  "new": "superposed epochs recover a common timing by averaging events' diversity,",
+  "verdict": "KEEP",
+  "why": "superposed epoch analysis is a field's own method, averaging in its own sense, kept."
+ },
+ {
+  "old": "a weak insolation change stands calculated,",
+  "new": "a weak insolation change stands calculated,",
+  "verdict": "KEEP",
+  "why": "a field's own measurement (insolation change), kept."
+ },
+ {
+  "old": "attacks are episodic and heterogeneous, early brain-state changes difficult to capture,",
+  "new": "attacks are episodic and heterogeneous, early brain-state changes difficult to capture,",
+  "verdict": "KEEP",
+  "why": "a field's own words (early brain-state changes), kept."
+ },
+ {
+  "old": "Selection can repeatedly favour similar functions while mutation, contingency, drift and changing environments alter accessible paths,",
+  "new": "Selection can repeatedly favour similar functions while mutation, contingency, drift and changing environments alter accessible paths,",
+  "verdict": "KEEP",
+  "why": "a field's own words (changing environments), quoted at Hard Problem Registry, kept."
+ },
+ {
+  "old": "Onset evolves across widely separated regions faster than sparse spacecraft can establish timing,",
+  "new": "Onset evolves across widely separated regions faster than sparse spacecraft can establish timing,",
+  "verdict": "KEEP",
+  "why": "a field's own words, kept; no listed word."
  }
 ]

@@ -37,9 +37,9 @@
  },
  {
   "old": "A passing is entered in passed ledger here and arrives at TWENTY-FIVE addressing the door line it passed at; a catch carries the society it was observed across, which is its eight sides.",
-  "new": "A passing is entered with this registry's passed ledger and arrives with TWENTY-FIVE addressing each door line it passed; a catch carries a same-existing-society it was observed across, its eight sides.",
+  "new": "A passing is entered with this registry's passed ledger and goes on to TWENTY-FIVE addressing each door line it passed; a catch carries a same-existing-society it was observed across, its eight sides.",
   "verdict": "RESAY",
-  "why": "in: with; at: with, a passing going on to TWENTY-FIVE; the door line it passed at: each door line it passed, a passing carrying no exception, I5; society: same-existing-society; the: a."
+  "why": "in: with; at: goes on to, as each passing's Passed · to TWENTY-FIVE; the door line it passed at: each door line it passed, a passing carrying no exception, I5; society: same-existing-society; the: a."
  },
  {
   "old": "## 7.10 Three tens, and the relation between them",
@@ -55,9 +55,9 @@
  },
  {
   "old": "Natural Naming and THIRTEEN carry the holdings beside ONE’s naming adjacencies.",
-  "new": "With Natural Naming and THIRTEEN, ten unchangeables stand beside ONE’s naming adjacencies.",
+  "new": "Natural Naming and THIRTEEN carry ten unchangeables beside ONE’s naming adjacencies.",
   "verdict": "RESAY",
-  "why": "doer: files carrying re-said as unchangeables standing with them; the holdings: ten unchangeables, the registry's ten, TWENTY-TWO's ten fixings."
+  "why": "the holdings: ten unchangeables, the registry's ten, TWENTY-TWO's ten fixings."
  },
  {
   "old": "**The door’s unchangeable assignment carries all ten unchangeables.** Each line keeps a field’s actual installing statement at its record. The following table makes its resolver correspondence explicit:",
@@ -73,7 +73,7 @@
  },
  {
   "old": "Section 7.6 groups the offered holdings across at lines 1, 7, 8 and 9, along at 3, 4, 5 and 10, with 2 and 6 at either.",
-  "new": "With section 7.6, offered unchangeables group across with lines 1, 7, 8 and 9, along with 3, 4, 5 and 10, and with 2 and 6 either way.",
+  "new": "With section 7.6, offered unchangeables group across with lines 1, 7, 8 and 9, along with 3, 4, 5 and 10, and 2 and 6 go either way.",
   "verdict": "RESAY",
   "why": "doer: a section grouping re-said as unchangeables grouping with it; the holdings: unchangeables; at: with."
  },
@@ -145,9 +145,9 @@
  },
  {
   "old": "Natural Naming carries the same full prefixes and named changing.",
-  "new": "With Natural Naming are those same full prefixes and their named parity-changing.",
+  "new": "Natural Naming carries those same full prefixes and their named parity-changing.",
   "verdict": "RESAY",
-  "why": "doer: a file carrying re-said as prefixes with it; the same: those same; changing: parity-changing, a naming's is or is not."
+  "why": "the same: those same; changing: parity-changing, a naming's is or is not."
  },
  {
   "old": "| Door line | Complete ONE naming · face | ONE’s proposed bounding | ONE’s actual operation |",
@@ -909,7 +909,7 @@
   "old": "mark those observing betweens in the field records. Their re-accepting histories locate seams; no friendliness, success, or value is stored in ghosts.",
   "new": "mark those observing betweens of field records. Their re-accepting histories locate seams; no friendliness, success, or value is a ghost's store.",
   "verdict": "RESAY",
-  "why": "in the: of; stored in ghosts: a ghost's store, a keeping a not-possible store."
+  "why": "in the: of; stored in ghosts: a ghost's store, a store no ghost has."
  },
  {
   "old": "# Closing",
@@ -937,9 +937,9 @@
  },
  {
   "old": "The door at 7.5 carries the same ten lines to every record arriving; its first passing is the pair of waters, arrived at TWENTY-FIVE 2.6, and its first self at the door is ammonia, waiting for its pair.",
-  "new": "7.5's door carries its same ten lines to every record arriving; its first passing is a water pair, gone on to TWENTY-FIVE 2.6, and its first self with its door is ammonia, waiting for its pair.",
+  "new": "7.5's door carries its ten lines alike to every record arriving; its first passing is a water pair, gone on to TWENTY-FIVE 2.6, and its first self with its door is ammonia, waiting for its pair.",
   "verdict": "RESAY",
-  "why": "The door at 7.5: 7.5's door; the same: its same; the pair of waters: a water pair; arrived at: gone on to; at the door: with its door."
+  "why": "The door at 7.5: 7.5's door; the same ten lines: its ten lines alike; the pair of waters: a water pair; arrived at: gone on to; at the door: with its door."
  },
  {
   "old": "Entropy is the densest accounting ghost at chemical-thermodynamic between. Equilibrium is the clearest changing/apparent-not-changing pair.",
@@ -988,5 +988,23 @@
   "new": "**In disequilibria, alternating is a stable-forming method.**",
   "verdict": "KEEP",
   "why": "A closing line carrying Natural Exploring 1.1's heading, kept exactly as that heading stands; in disequilibria is a title phrase of the set."
+ },
+ {
+  "old": "*British Journal for the Philosophy of Science* 13, 1 and 144 (1962),",
+  "new": "*British Journal for the Philosophy of Science* 13, 1 and 144 (1962),",
+  "verdict": "KEEP",
+  "why": "Title of an outside journal."
+ },
+ {
+  "old": "single channels one at a time;",
+  "new": "single channels one at a time;",
+  "verdict": "KEEP",
+  "why": "One at a time is a kept phrase."
+ },
+ {
+  "old": "*Frontiers in Physiology* (2022),",
+  "new": "*Frontiers in Physiology* (2022),",
+  "verdict": "KEEP",
+  "why": "Title of an outside journal."
  }
 ]

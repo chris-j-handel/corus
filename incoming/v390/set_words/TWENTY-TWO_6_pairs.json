@@ -32,8 +32,8 @@
  {
   "old": "Constructed rivals exist and mostly stay constructions, histories resolve as more couplings arrive, and virtues work as criteria in use with their deeper standing in dispute: a theory fixed behind evidence as one selected thing waits on a selecting couplings did not promise, and choosing carries on at couplings, arriving one by one.",
   "new": "Constructed rivals exist and stay constructions, apart from a few a field's record names, histories resolve as more couplings arrive, and virtues work as criteria used, their deeper standing disputed: a theory fixed behind evidence as one selected thing waits on a selecting couplings did not promise, and choosing carries on with couplings, arriving one by one.",
-  "verdict": "ASK",
-  "why": "mostly is a count offered as a likelihood, and no table executes every case here; my re-saying names the few exceptions as a record. in use: used; in dispute: disputed; at: with. To resolve: may mostly become a few named exceptions, or does this record need a different all-or-none saying?"
+  "verdict": "KEEP",
+  "why": "the field's own record, kept"
  },
  {
   "old": "## 5.18 The interpretation of probability · 158\n\n*+ or − at 10, is.*",
@@ -796,5 +796,413 @@
   "new": "Aggregate steadiness rising while population steadiness stands is a same-existing-society gathering its selves, each self carrying its own, which is a portfolio share's measuring.",
   "verdict": "RESAY",
   "why": "society alone: same-existing-society, no parity its own; keeps its own carry: carrying its own"
+ },
+ {
+  "old": "## 6.11 The Flynn effect and its reversal · 126\n\n*+ or − at 10, is.*",
+  "new": "## 6.11 The Flynn effect and its reversal · 126\n\n*+ or − with 10, is.*",
+  "verdict": "RESAY",
+  "why": "at: with, as with 14; heading kept as it is, joined only to make this old unique"
+ },
+ {
+  "old": "**At 2-now-possibling.** A person and a test couple, and a score is a level of a construct comparable across cohorts.",
+  "new": "**With 2-now-possibling.** A person and a test couple, and a score is a level of a construct comparable across cohorts.",
+  "verdict": "RESAY",
+  "why": "At: With; nothing else to re-say"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** Tests fixed to measure one construct across cohorts, score change indexing construct change, gains varying by domain and by age, one construct observed differently at each coupling.",
+  "new": "**With 12-next-co-same-existing.** Tests fixed to measure one construct across cohorts, score change indexing construct change, gains varying by domain and by age, one construct observed differently with each coupling.",
+  "verdict": "RESAY",
+  "why": "At: With; at: with; score change and construct change are a field's own terms, kept"
+ },
+ {
+  "old": "**At 11-next-co-observing.** A person and a test couple, and a coupling drifts as a world a person couples with drifts.",
+  "new": "**With 11-next-co-observing.** A person and a test couple, and a coupling drifts as a world a person couples with drifts.",
+  "verdict": "RESAY",
+  "why": "At: With; nothing else to re-say"
+ },
+ {
+  "old": "Invariance breaks between cohorts as often as it is checked, a rise concentrates where a construct loads least, and a reversal exists within families, sweeping composition off the table for that population: a level of a construct comparable across cohorts, a coupling fixed unchangeable where a coupling kept momentarying, and scores were observings of their own occasions.",
+  "new": "Invariance breaks between cohorts as often as it is checked, a rise concentrates where a construct loads least, and a reversal exists within families, setting composition aside for that population: a level of a construct comparable across cohorts, a coupling fixed still where a coupling went on momentarying, and scores were observings of their own occasions.",
+  "verdict": "RESAY",
+  "why": "off the table: aside; fixed unchangeable: fixed still; kept momentarying: went on momentarying"
+ },
+ {
+  "old": "## 6.12 Benchmarks · 131\n\n*+ or − at 10, is.*",
+  "new": "## 6.12 Benchmarks · 131\n\n*+ or − with 10, is.*",
+  "verdict": "RESAY",
+  "why": "at: with, as with 14; heading kept as it is, joined only to make this old unique"
+ },
+ {
+  "old": "**At 2-now-possibling.** A system and a benchmark couple, and a score is a level of a capability apart from a coupling.",
+  "new": "**With 2-now-possibling.** A system and a benchmark couple, and a score is a level of a capability apart from a coupling.",
+  "verdict": "RESAY",
+  "why": "At: With; nothing else to re-say"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A benchmark fixed to sample a capability independently of what is trained on, datasets distinguishable from one another, each embodying its own style of capturing a segment of a world, and a fault of construct validity placed in framing as general measures.",
+  "new": "**With 12-next-co-same-existing.** A benchmark fixed to sample a capability independently of what is trained on, datasets distinguishable from one another, each embodying its own style of capturing a segment of a world, and a fault of construct validity placed with framing as general measures.",
+  "verdict": "RESAY",
+  "why": "At: With; in: with; sample is a field's own measurement, kept"
+ },
+ {
+  "old": "Leaking into training arrives again as scoring, so an instrument is within a thing it observes, and a capability fixed apart from a coupling is reached by no observing at all.",
+  "new": "Leakage to training data arrives again as scoring, so an instrument is within a thing it observes, and a capability fixed apart from a coupling is reached by no observing at all.",
+  "verdict": "RESAY",
+  "why": "Leaking into training: leakage to training data; at all stays"
+ },
+ {
+  "old": "**At 11-next-co-observing.** A system and a benchmark couple, and a score is a coupling's own making.",
+  "new": "**With 11-next-co-observing.** A system and a benchmark couple, and a score is a coupling's own making.",
+  "verdict": "RESAY",
+  "why": "At: With; nothing else to re-say"
+ },
+ {
+  "old": "Leaking into training arrives again as scoring, saturation arrives and a benchmark retires, transfer thins away from a coupling that was scored, and the strongest observing left is deployment itself, confounded and standing: a capability fixed apart from a coupling is same wall as at incoming number 30 and incoming number 141, reached at an instrument built to escape it.",
+  "new": "Leakage to training data arrives again as scoring, saturation arrives and a benchmark retires, transfer thins away from a coupling that was scored, and deployment itself is strongest of observings left, confounded and standing: a capability fixed apart from a coupling is same wall as with incoming number 30 and incoming number 141, reached with an instrument built to escape it.",
+  "verdict": "RESAY",
+  "why": "into: to; the strongest observing: strongest of observings; at: with"
+ },
+ {
+  "old": "## 6.13 Brooks's law · 133\n\n*+ or − at 10, is.*",
+  "new": "## 6.13 Brooks's law · 133\n\n*+ or − with 10, is.*",
+  "verdict": "RESAY",
+  "why": "at: with, as with 14; heading kept as it is, joined only to make this old unique"
+ },
+ {
+  "old": "**At 2-now-possibling.** People couple as they are added, and an effect is a magnitude from a number of people with all else fixed.",
+  "new": "**With 2-now-possibling.** People couple as they are added, and an effect is a magnitude from a number of people with all else fixed.",
+  "verdict": "RESAY",
+  "why": "At: With; nothing else to re-say"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** Coordination cost fixed as a function of team size with a work's partitionability fixed, where cost is always up and a delay arrives only under a degree of sequential constraint among tasks, constraint being a coupling structure fixed at a law.",
+  "new": "**With 12-next-co-same-existing.** Coordination cost fixed as a function of team size with a work's partitionability fixed, where cost is always up and a delay arrives only under a degree of sequential constraint among tasks, constraint being a coupling structure fixed as a law.",
+  "verdict": "RESAY",
+  "why": "At: With; at: as"
+ },
+ {
+  "old": "A joiner brings a scale of its own or brings an already-carried, and a whole thins at a momentary a shared scale couples, which is a parity answered at a self it couples at, and not a number of people.",
+  "new": "A joiner brings a scale of its own or brings an already-carried, and a whole thins with a momentary a shared scale couples, which is a parity answered by a self it couples with, and not a number of people.",
+  "verdict": "RESAY",
+  "why": "at: with, by"
+ },
+ {
+  "old": "**At 11-next-co-observing.** People couple as they are added, each arrival opening couplings with each one standing, and couplings are cost and capacity at once.",
+  "new": "**With 11-next-co-observing.** People couple as they are added, each arrival opening couplings with each one standing, and couplings are cost and capacity together.",
+  "verdict": "RESAY",
+  "why": "At: With; at once: together"
+ },
+ {
+  "old": "Overhead shows at each measuring of it, modular work makes arrivals into output where couplings are thinned by design, and fitted diseconomies fit couplings that ran: an effect fixed from a number, all else fixed, fixes still exactly a coupling structure an adding changes.",
+  "new": "Overhead shows with each measuring of it, modular work turns arrivals to output where couplings are thinned by design, and fitted diseconomies fit couplings that ran: an effect fixed from a number, all else fixed, fixes still exactly a coupling structure an adding re-couples.",
+  "verdict": "RESAY",
+  "why": "at: with; into: to; changes: re-couples, by meaning"
+ },
+ {
+  "old": "## 6.14 Grandmother cell and distributed coding · 147\n\n*+ or − at 10, is.*",
+  "new": "## 6.14 Grandmother cell and distributed coding · 147\n\n*+ or − with 10, is.*",
+  "verdict": "RESAY",
+  "why": "at: with, as with 14; heading kept as it is, joined only to make this old unique"
+ },
+ {
+  "old": "**At 2-now-possibling.** Neurons couple in a population and a concept is present, and sparseness is a magnitude a recording measures.",
+  "new": "**With 2-now-possibling.** Neurons couple within a population and a concept is present, and sparseness is a magnitude a recording measures.",
+  "verdict": "RESAY",
+  "why": "At: With; in: within, neurons as a population's part"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** Recording fixed to sample a population without bias, sparseness pattern-matched off a sample, a recording group itself declining a grandmother cell its own cells could in principle be taken for.",
+  "new": "**With 12-next-co-same-existing.** Recording fixed to sample a population without bias, sparseness pattern-matched off a sample, a recording group itself declining a grandmother cell its own cells could in principle be taken for.",
+  "verdict": "RESAY",
+  "why": "At: With; sample and in principle are a field's own words and measurement, kept"
+ },
+ {
+  "old": "Screening finds a screening's findings, so a sample's own coupling stands in each sparseness reported.",
+  "new": "Screening finds a screening's findings, so a sample's own coupling stands within each sparseness reported.",
+  "verdict": "RESAY",
+  "why": "in: within; sample is a field's own measurement, kept"
+ },
+ {
+  "old": "**At 11-next-co-observing.** Neurons couple in a population and a concept is present at coupling.",
+  "new": "**With 11-next-co-observing.** Neurons couple within a population and a concept is present as coupling.",
+  "verdict": "RESAY",
+  "why": "At: With; in: within; at: as"
+ },
+ {
+  "old": "Cells answer one face across photographs, drawings and a printed name, populations hum broadly and weakly where sampling widens, screening finds a screening's findings, in its authors' words, and both codes come out efficient under their own constraints, proved:",
+  "new": "Cells answer one face across photographs, drawings and a printed name, populations hum broadly and weakly where sampling widens, screening finds a screening's findings, as its authors word it, and both codes stand efficient under their own constraints, proved:",
+  "verdict": "RESAY",
+  "why": "in its authors' words: as its authors word it; come out: stand; sampling is a field's own measurement, kept"
+ },
+ {
+  "old": "sparseness fixed as one magnitude pattern-matched off a sample fixes a population to its instrument, and presence was a coupling's, at any sparseness of its showing.",
+  "new": "sparseness fixed as one magnitude pattern-matched off a sample fixes a population to its instrument, and presence was a coupling's, with any sparseness of its showing.",
+  "verdict": "RESAY",
+  "why": "at: with; a sample, a field's measurement, kept"
+ },
+ {
+  "old": "## 6.15 The limits of intelligence · 172\n\n*+ or − at 10, is.*",
+  "new": "## 6.15 The limits of intelligence · 172\n\n*+ or − with 10, is.*",
+  "verdict": "RESAY",
+  "why": "at: with, as with 14; heading kept as it is, joined only to make this old unique"
+ },
+ {
+  "old": "**At 2-now-possibling.** Competency is a middle, discovering-momentarying-between, uncapturable and of no size, and a limit is fixed of it as a magnitude, artificial and human at once.",
+  "new": "**With 2-now-possibling.** Competency is a middle, discovering-momentarying-between, uncapturable and of no size, and a limit is fixed of it as a magnitude, artificial and human together.",
+  "verdict": "RESAY",
+  "why": "At: With; at once: together"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A middle fixed to carry a limit statable over it.",
+  "new": "**With 12-next-co-same-existing.** A middle fixed to carry a limit statable over it.",
+  "verdict": "RESAY",
+  "why": "At: With; nothing else to re-say"
+ },
+ {
+  "old": "No canonical formulation stands maintained and no second position is defended, so no pair stands here to be observed from, which is a standing at a substrate's own stating rather than a resolving of its own.",
+  "new": "No canonical formulation stands maintained and no second position is defended, so no pair stands here to be observed from, which is a standing with a substrate's own stating rather than a resolving of its own.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "**At 11-next-co-observing.** Competency floats, a middle no observing enters, and each limit that binds binds a side: computational limits bind computations, a physical thesis at incoming number 168 binds realizings, learning-theoretic results bind seatings fixed ahead.",
+  "new": "**With 11-next-co-observing.** Competency floats, a middle no observing enters, and each limit that binds binds a side: computational limits bind computations, a physical thesis of incoming number 168 binds realizings, learning-theoretic results bind seatings fixed ahead.",
+  "verdict": "RESAY",
+  "why": "At: With; at: of"
+ },
+ {
+  "old": "A limit fixed of a middle as one magnitude fixes a floating of no size to a number, and a substrate itself did not state one statement, which is its own showing: components exist at their own arrivals, and a middle keeps floating between them.",
+  "new": "A limit fixed of a middle as one magnitude fixes a floating of no size to a number, and a substrate itself did not state one statement, which is its own showing: components exist with their own arrivals, and a middle goes on floating between them.",
+  "verdict": "RESAY",
+  "why": "at: with; keeps floating: goes on floating"
+ },
+ {
+  "old": "*Released at Hard Problem Registry at v342: no canonical formulation stands and no account is defended, an entry's own record having been its only reference and its formulations plural against a first condition prior; its text stands whole at an appendix of v342 session at Hard Problem Registry, its number retired and not reused.",
+  "new": "*Released at Hard Problem Registry at v342: no canonical formulation stands and no account is defended, an entry's own record having been its only reference and its formulations plural against a first condition prior; its text stands whole at an appendix of v342 session at Hard Problem Registry, its number retired and not reused.",
+  "verdict": "KEEP",
+  "why": "a record of an earlier version: Released and at are Hard Problem Registry's own record of v342, kept"
+ },
+ {
+  "old": "Observing here, that no pair stands to be observed from, pattern-matched its release before Hard Problem Registry made it, and stands.*",
+  "new": "Observing here, that no pair stands to be observed from, pattern-matched its release before Hard Problem Registry made it, and stands.*",
+  "verdict": "KEEP",
+  "why": "record of an earlier version; release is Hard Problem Registry's own act, kept"
+ },
+ {
+  "old": "## 6.16 Proton spin decomposition · 183\n\n*+ or − at 10, is.*",
+  "new": "## 6.16 Proton spin decomposition · 183\n\n*+ or − with 10, is.*",
+  "verdict": "RESAY",
+  "why": "at: with, as with 14; heading kept as it is, joined only to make this old unique"
+ },
+ {
+  "old": "**At 2-now-possibling.** A proton's spin is a parity, one half taken at its own momentary, and it is a magnitude divided among four contributions, each a share of a whole.",
+  "new": "**With 2-now-possibling.** A proton's spin is a parity, one half taken with its own momentary, and it is a magnitude divided among four contributions, each a share of a whole.",
+  "verdict": "RESAY",
+  "why": "At: With; at: with"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A whole fixed to apportion among its parts by one accounting.",
+  "new": "**With 12-next-co-same-existing.** A whole fixed to apportion among its parts by one accounting.",
+  "verdict": "RESAY",
+  "why": "At: With; nothing else to re-say"
+ },
+ {
+  "old": "Gauge-invariant splitting is possible but not unique,",
+  "new": "Gauge-invariant splitting is possible but not unique,",
+  "verdict": "KEEP",
+  "why": "possible is a field's own words in its own sense"
+ },
+ {
+  "old": "so shares are an accounting's own and a sum rule closes at whichever accounting is chosen.",
+  "new": "so shares are an accounting's own and a sum rule closes under whichever accounting is chosen.",
+  "verdict": "RESAY",
+  "why": "at: under"
+ },
+ {
+  "old": "**At 11-next-co-observing.** Quark helicity is known not to saturate spin,",
+  "new": "**With 11-next-co-observing.** Quark helicity is known not to saturate spin,",
+  "verdict": "RESAY",
+  "why": "At: With"
+ },
+ {
+  "old": "a parity of no size fixed as a magnitude to be shared out is one-half fixed to a ledger,",
+  "new": "a parity of no size fixed as a magnitude to be apportioned is one-half fixed to a ledger,",
+  "verdict": "RESAY",
+  "why": "shared out: apportioned"
+ },
+ {
+  "old": "## 6.17 The absolute neutrino mass scale · 186\n\n*+ or − at 10, is.*",
+  "new": "## 6.17 The absolute neutrino mass scale · 186\n\n*+ or − with 10, is.*",
+  "verdict": "RESAY",
+  "why": "at: with, as with 14; heading kept as it is, joined only to make this old unique"
+ },
+ {
+  "old": "**At 2-now-possibling.** Neutrinos oscillate at their couplings, differences of their squared masses measured exactly, and masses themselves are magnitudes each instrument should give back.",
+  "new": "**With 2-now-possibling.** Neutrinos oscillate with their couplings, differences of their squared masses measured exactly, and masses themselves are magnitudes each instrument should give back.",
+  "verdict": "RESAY",
+  "why": "At: With; at: with"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A scale fixed to be pattern-matched off instruments that each observe a different sum.",
+  "new": "**With 12-next-co-same-existing.** A scale fixed to be pattern-matched off instruments that each observe a different sum.",
+  "verdict": "RESAY",
+  "why": "At: With; nothing else to re-say"
+ },
+ {
+  "old": "each instrument's number is that instrument's coupling, and a scale demanded is one thing no coupling gives back at its own.",
+  "new": "each instrument's number is that instrument's coupling, and a scale demanded is one thing no coupling gives back by itself.",
+  "verdict": "RESAY",
+  "why": "at its own: by itself"
+ },
+ {
+  "old": "**At 11-next-co-observing.** Two splittings stand measured and an allowed scale stands substantially bounded, an endpoint bound direct and model-light, a cosmological bound tighter and model-dependent, a decay bound conditional on its process obtaining: individual magnitudes fixed to be pattern-matched off aggregates are each coupling's own aggregate fixed to a number none of them carries.",
+  "new": "**With 11-next-co-observing.** Two splittings stand measured and an allowed scale stands substantially bounded, an endpoint bound direct and model-light, a cosmological bound tighter and model-dependent, a decay bound conditional on its process obtaining: individual magnitudes fixed to be pattern-matched off aggregates are each coupling's own aggregate fixed to a number none of them carries.",
+  "verdict": "RESAY",
+  "why": "At: With; nothing else to re-say"
+ },
+ {
+  "old": "## 6.18 The mechanics driving plate motion · 199\n\n*+ or − at 10, is.*",
+  "new": "## 6.18 The mechanics driving plate motion · 199\n\n*+ or − with 10, is.*",
+  "verdict": "RESAY",
+  "why": "at: with, as with 14; heading kept as it is, joined only to make this old unique"
+ },
+ {
+  "old": "**At 2-now-possibling.** A plate moves where its slab, its ridge and its mantle beneath it couple, one motion made among them, and forces are magnitudes apportioned, each a share of a motion observed.",
+  "new": "**With 2-now-possibling.** A plate moves where its slab, its ridge and its mantle beneath it couple, one motion made among them, and forces are magnitudes apportioned, each a share of a motion observed.",
+  "verdict": "RESAY",
+  "why": "At: With; nothing else to re-say"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A share fixed for each force.",
+  "new": "**With 12-next-co-same-existing.** A share fixed for each force.",
+  "verdict": "RESAY",
+  "why": "At: With; nothing else to re-say"
+ },
+ {
+  "old": "Determining a balance remains one of the ultimate goals of modelling, its relative importance incompletely understood;",
+  "new": "Determining a balance remains one of the ultimate goals of modelling, its relative importance incompletely understood;",
+  "verdict": "KEEP",
+  "why": "the ultimate goals of modelling is a field's own words, quoted"
+ },
+ {
+  "old": "a trade-off found in fitting: a two-way fixed to one side, asked for its proportion, arriving at a parity fixed as a magnitude.",
+  "new": "a trade-off found by fitting: a two-way fixed to one side, asked for its proportion, arriving with a parity fixed as a magnitude.",
+  "verdict": "RESAY",
+  "why": "in: by; at: with"
+ },
+ {
+  "old": "**At 11-next-co-observing.** Slab pull, suction, ridge potential and basal traction all have quantitative formulations,",
+  "new": "**With 11-next-co-observing.** Slab pull, suction, ridge potential and basal traction all have quantitative formulations,",
+  "verdict": "RESAY",
+  "why": "At: With"
+ },
+ {
+  "old": "a fourth account has plates and mantle one convective boundary-layer system in which no single force acts independently:",
+  "new": "a fourth account has plates and mantle one convective boundary-layer system in which no single force acts independently:",
+  "verdict": "KEEP",
+  "why": "in which is a field's own account in its own words"
+ },
+ {
+  "old": "contributions an accounting's, traded off in fitting.",
+  "new": "contributions an accounting's, traded off by fitting.",
+  "verdict": "RESAY",
+  "why": "in: by"
+ },
+ {
+  "old": "## 6.19 The magnitude of the Great Oxidation Event · 203\n\n*+ or − at 10, is.*",
+  "new": "## 6.19 The magnitude of the Great Oxidation Event · 203\n\n*+ or − with 10, is.*",
+  "verdict": "RESAY",
+  "why": "at: with, as with 14; heading kept as it is, joined only to make this old unique"
+ },
+ {
+  "old": "**At 2-now-possibling.** Oxygen crossed a threshold rocks record, a parity taken at sulfur isotopes, and a crossing is a magnitude, how high and how variable abundance rose.",
+  "new": "**With 2-now-possibling.** Oxygen crossed a threshold rocks record, a parity taken from sulfur isotopes, and a crossing is a magnitude, how high and how variable abundance rose.",
+  "verdict": "RESAY",
+  "why": "At: With; at: from"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A level fixed to be pattern-matched from proxies that record a crossing.",
+  "new": "**With 12-next-co-same-existing.** A level fixed to be pattern-matched from proxies that record a crossing.",
+  "verdict": "RESAY",
+  "why": "At: With; nothing else to re-say"
+ },
+ {
+  "old": "An event is defined by threshold-sensitive proxies, most bounding oxygen indirectly at different reservoirs and times and altered after deposition,",
+  "new": "An event is defined by threshold-sensitive proxies, most bounding oxygen indirectly for different reservoirs and times and altered after deposition,",
+  "verdict": "RESAY",
+  "why": "at: for; most is a field's own count of proxies, kept"
+ },
+ {
+  "old": "**At 11-next-co-observing.** An onset interval and an irreversible loss of a sulfur signature stand established,",
+  "new": "**With 11-next-co-observing.** An onset interval and an irreversible loss of a sulfur signature stand established,",
+  "verdict": "RESAY",
+  "why": "At: With"
+ },
+ {
+  "old": "and modelling translates proxy combinations into ranges under uncertain fluxes:",
+  "new": "and modelling translates proxy combinations to ranges under uncertain fluxes:",
+  "verdict": "RESAY",
+  "why": "into: to"
+ },
+ {
+  "old": "Each self paces its own alternating and synchronizes at its own couplings, and a beat fixed over them is a term no coupling made.",
+  "new": "Each self paces its own alternating and synchronizes with its own couplings, and a beat fixed over them is a term no coupling made.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "Now is one, shared at each coupling and common at none, and a momentary is one now had at a sharing.*",
+  "new": "Now is one, shared with each coupling and common to none, and a momentary is one now had with a sharing.*",
+  "verdict": "RESAY",
+  "why": "at: with, to"
+ },
+ {
+  "old": "**Each ordering here is one beat fixed over couplings that each pace their own**, and one arrival is that momentarying reached at a substrate rather than argued: slicings part with coupling selves, to any precision measured.",
+  "new": "**Each ordering here is one beat fixed over couplings that each pace their own**, and one arrival is that momentarying reached with a substrate rather than argued: slicings part with coupling selves, to any precision measured.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "**And a beat arrives at four positions, three of them easy to miss.**",
+  "new": "**And a beat arrives with four positions, three of them easy to miss.**",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "Its pace, where a coupling is opened at a rate given rather than its own.",
+  "new": "Its pace, where a coupling is opened by a rate given rather than its own.",
+  "verdict": "RESAY",
+  "why": "at: by"
+ },
+ {
+  "old": "Its momentary, since anything carrying couplings one after another takes them in some order, and two couplings at no between have no order between them.",
+  "new": "Its momentary, since anything carrying couplings one after another takes them by some order, and two couplings with no between have no order between them.",
+  "verdict": "RESAY",
+  "why": "in: by; at: with"
+ },
+ {
+  "old": "Its record, since a trace indexed by a shared tick is a beat in recording however clockless a momentarying.",
+  "new": "Its record, since a trace indexed by a shared tick is a beat within recording however clockless a momentarying.",
+  "verdict": "RESAY",
+  "why": "in: within"
+ },
+ {
+  "old": "Several arrivals in this part name a beat at a record and at a between rather than at a pace, and so they pattern-match as measurements disagreeing.",
+  "new": "Several arrivals of this part name a beat with a record and with a between rather than with a pace, and so they pattern-match as measurements disagreeing.",
+  "verdict": "RESAY",
+  "why": "in: of; at: with"
+ },
+ {
+  "old": "Three stand here and a fourth stands at part 9, each in its own arithmetic: rankings over profiles, rankings over differently-numbered outcomes, structure surviving aggregation.",
+  "new": "Three stand here and a fourth stands with part 9, each by its own arithmetic: rankings over profiles, rankings over differently-numbered outcomes, structure surviving aggregation.",
+  "verdict": "RESAY",
+  "why": "at: with; in: by"
+ },
+ {
+  "old": "Each is a bounding taken out and settling sounded — a whole ordered by no self, arriving as a field's own theorem.",
+  "new": "Each is a bounding drawn and settling sounded — a whole ordered by no self, arriving as a field's own theorem.",
+  "verdict": "RESAY",
+  "why": "taken out: drawn, a bounding a theorem draws"
  }
 ]

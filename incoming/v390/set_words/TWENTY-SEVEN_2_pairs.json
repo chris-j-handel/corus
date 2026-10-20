@@ -25,9 +25,9 @@
  },
  {
   "old": "Folded on one side of barrier is unfolded on the other, chain kept.",
-  "new": "Folded on one side of a barrier is unfolded on its other side, its chain same-existing.",
+  "new": "Folded on one side of a barrier is unfolded on its other side, its chain whole.",
   "verdict": "RESAY",
-  "why": "kept: its chain same-existing, as its prior kept becomes its prior same-existing; the: its."
+  "why": "kept, a chain staying whole: whole, by meaning, nothing held; the: its."
  },
  {
   "old": "Average coordinates are occupied by no molecule.",
@@ -814,5 +814,245 @@
   "new": "Find a documented case where a person's access, treatment, self-understanding, and subsequent observing differed after code assignment.",
   "verdict": "RESAY",
   "why": "changed, a code assignment doing: re-said as a person's course differing after it."
+ },
+ {
+  "old": "## 5.8 Proton",
+  "new": "## 5.8 Proton",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "Detector events and form factors at nucleon; count at atom; conductivity and isotope effects in water; its sum is label at three uses;",
+  "new": "Detector events and form factors with nucleon; count with atom; conductivity and isotope effects of water; its sum is label with three uses;",
+  "verdict": "RESAY",
+  "why": "at: with; in: of, by meaning."
+ },
+ {
+  "old": "Probe resolves partons whose number changes with a probe's scale; water chain resolves to its members at TWENTY-FIVE 2.3.",
+  "new": "Probe resolves partons whose number differs with a probe's scale; water chain resolves to its members, entered as TWENTY-FIVE 2.3.",
+  "verdict": "RESAY",
+  "why": "changes, a count with no parity: differs; at a file's section: entered as."
+ },
+ {
+  "old": "Mass stands at a coupling's own scale; mobility at a chain's, carried by no water.",
+  "new": "Mass stands with a coupling's own scale; mobility with a chain's, carried by no water.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Colour coupling exchanges both ways; in water transfer is carried both ways with reverting above continuing.",
+  "new": "Colour coupling exchanges both ways; within water, transfer is carried both ways with reverting above continuing.",
+  "verdict": "RESAY",
+  "why": "in: within, a transfer a part within water."
+ },
+ {
+  "old": "At a transfer donor becomes acceptor, positions kept.",
+  "new": "With a transfer, donor becomes acceptor, positions unmoved.",
+  "verdict": "RESAY",
+  "why": "at: with; kept, positions staying: unmoved, by meaning."
+ },
+ {
+  "old": "Deuteron label does not arrive at far end; identical protons take no label.",
+  "new": "Deuteron label does not arrive to a far end; identical protons take no label.",
+  "verdict": "RESAY",
+  "why": "at, place: to."
+ },
+ {
+  "old": "Mass is at coupling, parts' rest masses near one per cent.",
+  "new": "Mass is with coupling, parts' rest masses near one per cent.",
+  "verdict": "RESAY",
+  "why": "at: with. one per cent a field's measurement, kept."
+ },
+ {
+  "old": "**Observed.** Fails at 6, 7, 8 and 9 — **state**; and at 3, 5 and 10 — mover, ball, fast thing — **flow**.",
+  "new": "**Observed.** Fails with 6, 7, 8 and 9 — **state**; and with 3, 5 and 10 — mover, ball, fast thing — **flow**.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Water chain has passed and stands at TWENTY-FIVE 2.3; the door record for it is at 7.8.",
+  "new": "Water chain has passed and stands as TWENTY-FIVE 2.3; its door record is 7.8.",
+  "verdict": "RESAY",
+  "why": "at a file's section: as; the: its."
+ },
+ {
+  "old": "**Name and use.** Proton, at three uses:",
+  "new": "**Name and use.** Proton, with three uses:",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Confirmed · natural register at three installations. Emanation at natural side, what colour cycling lands at a between it reaches.",
+  "new": "Confirmed · natural register with three installations. Emanation on natural side, what colour cycling lands with a between it reaches.",
+  "verdict": "RESAY",
+  "why": "at: with, on."
+ },
+ {
+  "old": "Label, charge, mass, spin, baryon number, form factors, parton distributions, detector events and Z-addressing remain in physics and chemistry records.",
+  "new": "Label, charge, mass, spin, baryon number, form factors, parton distributions, detector events and Z-addressing remain as physics and chemistry records.",
+  "verdict": "RESAY",
+  "why": "in: as."
+ },
+ {
+  "old": "Atom: nucleus and electrons, a nucleus's bounding kept whole by chemistry.",
+  "new": "Atom: nucleus and electrons, a nucleus's bounding taken as whole by chemistry.",
+  "verdict": "RESAY",
+  "why": "kept: taken as, by meaning, nothing held. Label before it kept pending the label ASK at 5.4."
+ },
+ {
+  "old": "Installing, at each of three uses.",
+  "new": "Installing, with each of three uses.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Both: interior, posted share and stability at 6, 7, 8, 9; mover, ball and fast thing at 3, 5, 10.",
+  "new": "Both: interior, posted share and stability with 6, 7, 8, 9; mover, ball and fast thing with 3, 5, 10.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "H⁺ in chemistry the hydrogen nucleus transferred in acid–base reactions, standing in solution as hydronium and Eigen and Zundel cations;",
+  "new": "H⁺ in chemistry the hydrogen nucleus transferred in acid–base reactions, standing in solution as hydronium and Eigen and Zundel cations;",
+  "verdict": "KEEP",
+  "why": "Field account, a field's own words."
+ },
+ {
+  "old": "Detector events at +e; elastic form factors; Lamb shift in ordinary and muonic hydrogen;",
+  "new": "Detector events at +e; elastic form factors; Lamb shift in ordinary and muonic hydrogen;",
+  "verdict": "KEEP",
+  "why": "Field observings retained, a field's own measurements."
+ },
+ {
+  "old": "nucleon interconversion in β-decay; pair production and annihilation; pH, conductivity and anomalous mobility of excess proton in water;",
+  "new": "nucleon interconversion in β-decay; pair production and annihilation; pH, conductivity and anomalous mobility of excess proton in water;",
+  "verdict": "KEEP",
+  "why": "Field observings retained, a field's own measurements."
+ },
+ {
+  "old": "Quarks and gluons couple continuously and confinement releases at no turn; nucleons interconvert at weak coupling;",
+  "new": "Quarks and gluons couple continuously and confinement dissolves with no turn; nucleons interconvert with weak coupling;",
+  "verdict": "RESAY",
+  "why": "releases: dissolves; at: with. Label before it kept pending the label ASK at 5.4."
+ },
+ {
+  "old": "hydrogen-bond network re-forms bond by bond; a charge lands at far between.",
+  "new": "hydrogen-bond network re-forms bond by bond; a charge lands with a far between.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "**Apparent not-changing.** A fixed charge, mass, spin",
+  "new": "**Apparent not-changing.** A fixed charge, mass, spin",
+  "verdict": "KEEP",
+  "why": "not-changing is an agreed word; label kept."
+ },
+ {
+  "old": "Mass belongs to coupling, quark rest masses near one per cent of it and the rest split differently under different accountings.",
+  "new": "Mass belongs to coupling, quark rest masses near one per cent of it and the rest split differently under different accountings.",
+  "verdict": "KEEP",
+  "why": "the rest, one and only remainder, kept; one per cent a field's measurement."
+ },
+ {
+  "old": "A spin's shares are an accounting's, splitting possible and unique at no gauge (Hard Problem Registry 183; TWENTY-TWO 6.16).",
+  "new": "A spin's shares are an accounting's: a splitting is made with each gauge and is unique with none (Hard Problem Registry 183; TWENTY-TWO 6.16).",
+  "verdict": "RESAY",
+  "why": "possible: re-said by meaning, a splitting made; at: with."
+ },
+ {
+  "old": "H⁺ stands at every chemical between as a hydrated cluster,",
+  "new": "H⁺ stands with every chemical between as a hydrated cluster,",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "proton number changes at every weak coupling and baryon number is kept to a bound. Decay is a last fixed in time (TWENTY-TWO 3.33).",
+  "new": "proton number shifts with every weak coupling and baryon number is conserved to a bound. Decay is a last fixed on a timeline (TWENTY-TWO 3.33).",
+  "verdict": "RESAY",
+  "why": "changes, a count: shifts; at: with; kept: conserved, physics' own term; in: on, by meaning."
+ },
+ {
+  "old": "(2) A detector, a probe scale, a decomposition, an electrode still that changing into one observing.",
+  "new": "(2) A detector, a probe scale, a decomposition, an electrode still that re-forming as one observing.",
+  "verdict": "RESAY",
+  "why": "changing, no parity named: re-forming; into: as."
+ },
+ {
+  "old": "re-forming crossing and interconverting nucleon remain the riding-the-carry owner leaves uncarried.",
+  "new": "re-forming crossing and interconverting nucleon remain riding-the-carry, uncarried by an owner.",
+  "verdict": "RESAY",
+  "why": "the: removed; riding-the-carry, a kept naming, kept."
+ },
+ {
+  "old": "Premature closure at little owner. False inclusion where a ball is placed going from one between to another in water. Forced choosing at wave or particle.",
+  "new": "Premature closure with a little owner. False inclusion where a ball is placed going from one between to another through water. Forced choosing between wave and particle.",
+  "verdict": "RESAY",
+  "why": "at: with, between; in: through, by meaning."
+ },
+ {
+  "old": "Store-seeking at charge as possession. Interior-reaching at three quarks as content. Magnitude-demanding at spin shares. Order-demanding at a continuous path through water. Space-enumerating at decay fixed as a last in time.",
+  "new": "Store-seeking with charge as possession. Interior-reaching with three quarks as content. Magnitude-demanding with spin shares. Order-demanding with a continuous path through water. Space-enumerating with decay fixed as a last on a timeline.",
+  "verdict": "RESAY",
+  "why": "at: with; in: on, by meaning. One pair for five short signature sentences."
+ },
+ {
+  "old": "At betweens: coupling to probe, to electron cloud, to water network, to detector and ledger.",
+  "new": "Across betweens: coupling to probe, to electron cloud, to water network, to detector and ledger.",
+  "verdict": "RESAY",
+  "why": "at: across, an eight-side's across sides. Label before it kept pending the label ASK at 5.4."
+ },
+ {
+  "old": "or a bare H⁺ resident at a chemical between;",
+  "new": "or a bare H⁺ resident with a chemical between;",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Alternating coupling carries the one arrival and distribution,",
+  "new": "Alternating coupling carries one arrival and its distribution,",
+  "verdict": "RESAY",
+  "why": "the: removed, its."
+ },
+ {
+  "old": "Living: Natural Physics at its strong-force observing;",
+  "new": "Living: Natural Physics with its strong-force observing;",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "TWENTY-TWO 6.16, 3.33. Beyond, for fetch:",
+  "new": "TWENTY-TWO 6.16, 3.33. Field, for fetch:",
+  "verdict": "RESAY",
+  "why": "beyond: Field, the side its sources stand on, as Living names living files. Citations and titles after it kept."
+ },
+ {
+  "old": "Proton is what colour cycling lands at a between it reaches: charge the parity, mass a coupling's own, spin one half taken at its turn. In water crossing is coupling re-forming.",
+  "new": "Proton is what colour cycling lands with a between it reaches: charge its parity, mass a coupling's own, spin one half taken with its turn. Through water, crossing is coupling re-forming.",
+  "verdict": "RESAY",
+  "why": "at: with; the: its; in: through, by meaning."
+ },
+ {
+  "old": "Composite structure with mass in binding; scale dependence of interior; partition dependence of spin; hydrated proton in solution and a re-forming mechanism of its motion; decay bound stated as a bound.",
+  "new": "Composite structure with mass in binding; scale dependence of interior; partition dependence of spin; hydrated proton in solution and a re-forming mechanism of its motion; decay bound stated as a bound.",
+  "verdict": "KEEP",
+  "why": "A field's own records in its own words: mass in binding, in solution. Label before it kept pending the label ASK at 5.4."
+ },
+ {
+  "old": "Physics at substrate one. Chemistry at carbon's proton count, a pump's potential difference, water's crossing, a buffer's proton-taking and proton-giving. Naming at *emanation*.",
+  "new": "Physics with substrate one. Chemistry with carbon's proton count, a pump's potential difference, water's crossing, a buffer's proton-taking and proton-giving. Naming with *emanation*.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "The second particle ghost, with its emanation placed before its natural return, and the first at which the field itself finds an interior's content living at coupling.",
+  "new": "The second particle ghost, with its emanation placed before its natural return, and the first with which its field itself finds an interior's content living with coupling.",
+  "verdict": "RESAY",
+  "why": "at: with; the field: its field. The second, the first: one only within their set, kept."
+ },
+ {
+  "old": "keeping mechanism, isotope, window and resolution attached.",
+  "new": "with mechanism, isotope, window and resolution attached.",
+  "verdict": "RESAY",
+  "why": "keeping: with, by meaning."
  }
 ]

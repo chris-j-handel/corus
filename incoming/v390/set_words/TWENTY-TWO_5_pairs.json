@@ -1,0 +1,302 @@
+[
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** A polynomial map of a plane sends each point at its own coupling, a local inverse everywhere by a constant determinant, and a global inverse is fixed ahead over each degree and each coefficient, a local carried to a whole.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** A polynomial map of a plane sends each point with its own coupling, a local inverse everywhere by a constant determinant, and a global inverse is fixed ahead over each degree and each coefficient, a local carried to a whole.",
+  "verdict": "RESAY",
+  "why": "at: with, for 10's verdict line and its label, carried with this entry's first sentence, as that line alone recurs; at its own coupling: with"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A whole fixed from a local that stands everywhere.",
+  "new": "**With 12-next-co-same-existing.** A whole fixed from a local that stands everywhere.",
+  "verdict": "RESAY",
+  "why": "at: with, its label"
+ },
+ {
+  "old": "A constant determinant gives a local inverse everywhere but does not by itself control global behaviour at infinity, and degree reductions and special-case theorems leave a two-variable case open while the former higher-dimensional statement has been refuted by a noninjective polynomial local isomorphism;",
+  "new": "A constant determinant gives a local inverse everywhere but does not by itself control global behaviour at infinity, and degree reductions and special-case theorems leave a two-variable case open while the former higher-dimensional statement has been refuted by a noninjective polynomial local isomorphism;",
+  "verdict": "KEEP",
+  "why": "a field's own words: at infinity, the former statement"
+ },
+ {
+  "old": "a tangent-sweep mechanism produces counterexamples in each dimension greater than two and of arbitrarily large geometric degree:",
+  "new": "a tangent-sweep mechanism produces counterexamples in each dimension greater than two and of arbitrarily large geometric degree:",
+  "verdict": "KEEP",
+  "why": "a field's own words: in each dimension"
+ },
+ {
+  "old": "a plane's own case standing where composing of each degree into one reach has not been reached, and higher dimensions same composing reached at a counterexample.",
+  "new": "a plane's own case standing where composing of each degree to one reach has not been reached, and higher dimensions reaching a same composing with a counterexample.",
+  "verdict": "RESAY",
+  "why": "into: to; at: with"
+ },
+ {
+  "old": "**At 11-next-co-observing.** An explicit degree-seven map refutes a conjecture in dimension three and therefore in each higher dimension by adjoining identity coordinates, a two-dimensional case remaining open;",
+  "new": "**With 11-next-co-observing.** An explicit degree-seven map refutes a conjecture in dimension three and therefore in each higher dimension by adjoining identity coordinates, a two-dimensional case remaining open;",
+  "verdict": "RESAY",
+  "why": "at: with, its label; in dimension: a field's own words, kept"
+ },
+ {
+  "old": "degree and homogeneous reductions reduce a general proof to structured cubic maps in higher dimension without settling two variables, valuation, Newton-polygon and compactification methods prove families and constrain behaviour at infinity, differential-operator programs yield equivalences and special cases, and a counterexample search has refuted dimensions three and higher:",
+  "new": "degree and homogeneous reductions reduce a general proof to structured cubic maps in higher dimension without settling two variables, valuation, Newton-polygon and compactification methods prove families and constrain behaviour at infinity, differential-operator programs yield equivalences and special cases, and a counterexample search has refuted dimensions three and higher:",
+  "verdict": "KEEP",
+  "why": "a field's own words: in higher dimension, at infinity"
+ },
+ {
+  "old": "a whole fixed from a local is a map's momentarying at infinity fixed to a last, and behaviour at infinity is each map carrying on at its own coupling, a refutation above two being composing measured exactly where a sweep of tangent lines carried it.",
+  "new": "a whole fixed from a local is a map's momentarying at infinity fixed to a last, and behaviour at infinity is each map carrying on with its own coupling, a refutation above two being composing measured exactly where a sweep of tangent lines carried it.",
+  "verdict": "RESAY",
+  "why": "at its own coupling: with; at infinity: a field's own term, kept"
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** A coprime sum is made at each triple, its primes and their product, and a bound is fixed ahead over each triple and each epsilon, its conjecture stated verbatim at an entry.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** A coprime sum is made with each triple, its primes and their product, and a bound is fixed ahead over each triple and each epsilon, its conjecture stated verbatim with an entry.",
+  "verdict": "RESAY",
+  "why": "at: with, for 10's verdict line and its label, carried with this entry's first sentence, as that line alone recurs; at each triple, at an entry: with"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A last fixed one exponential past the best proof.",
+  "new": "**With 12-next-co-same-existing.** A last fixed one exponential past its best proof.",
+  "verdict": "RESAY",
+  "why": "at: with, its label; the: its"
+ },
+ {
+  "old": "The best unconditional result bounds c by an exponential of a constant times a two-thirds power of a product of its primes, one exponential away from its conjecture, results from these techniques falling short of their goal;",
+  "new": "The best unconditional result bounds c by an exponential of a constant times a two-thirds power of a product of its primes, one exponential away from its conjecture, results from these techniques falling short of their goal;",
+  "verdict": "KEEP",
+  "why": "a field's own words: the best unconditional result"
+ },
+ {
+  "old": "a conjecture is equivalent to extensions of several of a subject's most important theorems, and the least desirable state of affairs is undecidability:",
+  "new": "a conjecture is equivalent to extensions of several of a subject's most important theorems, and the least desirable state of affairs is undecidability:",
+  "verdict": "KEEP",
+  "why": "a field's own words: the least desirable state of affairs"
+ },
+ {
+  "old": "a claimed proof standing nine years in a record without acceptance, a community's impression described as bafflement, a specific flaw identified by a published criticism, which is a field measuring its own reach at a proof and finding no coupling made.",
+  "new": "a claimed proof standing nine years on record without acceptance, a community's impression described as bafflement, a specific flaw identified by a published criticism, which is a field measuring its own reach with a proof and finding no coupling made.",
+  "verdict": "RESAY",
+  "why": "in a record: on record; at a proof: with"
+ },
+ {
+  "old": "**At 11-next-co-observing.** A polynomial analogue is proved, an inequality without epsilon refuted by small examples, and a ratio computed over finite ranges not large;",
+  "new": "**With 11-next-co-observing.** A polynomial analogue is proved, an inequality without epsilon refuted by small examples, and a ratio computed over finite ranges not large;",
+  "verdict": "RESAY",
+  "why": "at: with, its label"
+ },
+ {
+  "old": "linear forms in logarithms give an unconditional bound short by one exponential, explicit versions would give explicit bounds on the Fermat equation and a finiteness theorem,",
+  "new": "linear forms in logarithms give an unconditional bound short by one exponential, explicit versions would give explicit bounds on the Fermat equation and a finiteness theorem,",
+  "verdict": "KEEP",
+  "why": "a field's own words: linear forms in logarithms, the Fermat equation"
+ },
+ {
+  "old": "a bound fixed over each triple is a sequence's momentarying fixed to a last one exponential ahead, and an exponential between is a momentarying itself, measured, a claimed proof carrying no coupling a field could make at it, which is a third outcome, undecidability least desirable: composing that might not close.",
+  "new": "a bound fixed over each triple is a sequence's momentarying fixed to a last one exponential ahead, and an exponential between is a momentarying itself, measured, a claimed proof carrying no coupling a field could make with it, which is a third outcome, undecidability least desirable: composing that might not close.",
+  "verdict": "RESAY",
+  "why": "at it: with it"
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** Matter collapses at its own couplings, a singularity forming where it forms, and each generic collapse is fixed ahead to hide its singularity, a last over all initial data of all reasonable matter.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** Matter collapses with its own couplings, a singularity forming where it forms, and each generic collapse is fixed ahead to hide its singularity, a last over all initial data of all reasonable matter.",
+  "verdict": "RESAY",
+  "why": "at: with, for 10's verdict line and its label, carried with this entry's first sentence, as that line alone recurs; at its own couplings: with; generic: a field's own term for initial data, kept"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A last fixed over generic data with its statement still unknown.",
+  "new": "**With 12-next-co-same-existing.** A last fixed over generic data with its statement still unknown.",
+  "verdict": "RESAY",
+  "why": "at: with, its label; generic: a field's own term"
+ },
+ {
+  "old": "A conjecture is completely open in its full generality, arguably the most outstanding unsolved mathematical problem of its theory and so open that a correct formulation of its statement is not even known;",
+  "new": "A conjecture is completely open in its full generality, arguably the most outstanding unsolved mathematical problem of its theory and so open that a correct formulation of its statement is not even known;",
+  "verdict": "KEEP",
+  "why": "a field's own words, quoted: in its full generality, the most outstanding unsolved mathematical problem"
+ },
+ {
+  "old": "for a spherically symmetric scalar field a suitable formulation has been proved, naked-singularity spacetimes constructible but unstable and non-generic, an instability shown only in a low-regularity topology and a smoother case open:",
+  "new": "for a spherically symmetric scalar field a suitable formulation has been proved, naked-singularity spacetimes constructible but unstable and non-generic, an instability shown only in a low-regularity topology and a smoother case open:",
+  "verdict": "KEEP",
+  "why": "a field's own words: non-generic, in a low-regularity topology"
+ },
+ {
+  "old": "**At 11-next-co-observing.** A model-system formulation stands proved, trapped-surface results stand, and a reading that reports of a conjecture's death were greatly exaggerated stands as a review's conclusion;",
+  "new": "**With 11-next-co-observing.** A model-system formulation stands proved, trapped-surface results stand, and a reading that reports of a conjecture's death were greatly exaggerated stands as a review's conclusion;",
+  "verdict": "RESAY",
+  "why": "at: with, its label"
+ },
+ {
+  "old": "a spherically symmetric scalar field is proved in a suitable formulation with a smoother topology open, gedanken experiments overspinning or overcharging a hole find a horizon stable when backreaction is included, higher-dimensional vacuum collapses construct naked singularities, and trapped-surface formation without symmetry records significant progress;",
+  "new": "a spherically symmetric scalar field is proved in a suitable formulation with a smoother topology open, gedanken experiments overspinning or overcharging a hole find a horizon stable when backreaction is included, higher-dimensional vacuum collapses construct naked singularities, and trapped-surface formation without symmetry records significant progress;",
+  "verdict": "KEEP",
+  "why": "a field's own words: proved in a suitable formulation, included"
+ },
+ {
+  "old": "a second account has naked singularities form generically in symmetric models for large classes of matter:",
+  "new": "a second account has naked singularities form generically in symmetric models for large classes of matter:",
+  "verdict": "KEEP",
+  "why": "a field's own words: generically, in symmetric models"
+ },
+ {
+  "old": "a last fixed over all generic data is each collapse's momentarying fixed to one completing, and each collapse carries on at its own couplings, hidden or naked at a topology in which it is observed, a formulation still being made being a completing observed as it is measured, case by case.",
+  "new": "a last fixed over all generic data is each collapse's momentarying fixed to one completing, and each collapse carries on with its own couplings, hidden or naked by a topology it is observed with, a formulation still being made being a completing observed as it is measured, case by case.",
+  "verdict": "RESAY",
+  "why": "at its own couplings: with; at a topology in which: by a topology it is observed with"
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** A nucleon persists at each coupling a detector's exposure has reached, and its decay is fixed ahead as a last in time, a lifetime at which unified theories say it must go.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** A nucleon persists with each coupling a detector's exposure has reached, and its decay is fixed ahead as a last along time, a lifetime by which unified theories say it must go.",
+  "verdict": "RESAY",
+  "why": "at: with, for 10's verdict line and its label, carried with this entry's first sentence, as that line alone recurs; at each coupling: with; in time: along time; at which: by which"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A last fixed in a time no exposure has reached.",
+  "new": "**With 12-next-co-same-existing.** A last fixed with a time no exposure has reached.",
+  "verdict": "RESAY",
+  "why": "at: with, its label; in a time: with a time"
+ },
+ {
+  "old": "A unification scale is unreachable by accelerators, its effects detectable only through rare phenomena and the most sought-after signature its decay, whose predicted lifetime spans orders of magnitude and is highly model dependent, from ten to a thirty-first to ten to a thirty-sixth years,",
+  "new": "A unification scale is unreachable by accelerators, its effects detectable only through rare phenomena and the most sought-after signature its decay, whose predicted lifetime spans orders of magnitude and is highly model dependent, from ten to a thirty-first to ten to a thirty-sixth years,",
+  "verdict": "KEEP",
+  "why": "a field's own words and measurements: rare phenomena, the most sought-after signature, orders of magnitude"
+ },
+ {
+  "old": "a limit in a channel bounds that channel's partial lifetime at a confidence level and does not test channels a detector does not see:",
+  "new": "a limit in a channel bounds that channel's partial lifetime at a confidence level and does not test channels a detector does not see:",
+  "verdict": "KEEP",
+  "why": "a field's own words and measurement: in a channel, at a confidence level"
+ },
+ {
+  "old": "**At 11-next-co-observing.** Limits in classical modes stand above ten to a thirty-fourth years, the simplest unification model stands excluded, and a next generation's sensitivity of ten to a thirty-fifth stands planned;",
+  "new": "**With 11-next-co-observing.** Limits in classical modes stand above ten to a thirty-fourth years, the simplest unification model stands excluded, and a next generation's sensitivity of ten to a thirty-fifth stands planned;",
+  "verdict": "RESAY",
+  "why": "at: with, its label; in classical modes, the simplest unification model: a field's own words, kept"
+ },
+ {
+  "old": "and renormalization-group predictions are model dependent, corrected at second order; a second account has a proton stable to limits set, baryon number violated only non-perturbatively at a rate beyond observation:",
+  "new": "and renormalization-group predictions are model dependent, corrected at second order; a second account has a proton stable to limits set, baryon number violated only non-perturbatively at a rate beyond observation:",
+  "verdict": "KEEP",
+  "why": "a field's own words: at second order, at a rate beyond observation"
+ },
+ {
+  "old": "a last fixed in time is a searching's momentarying fixed to a bound ahead of it, and searching carries on exposure by exposure, each limit a momentarying measured exactly at its channel, a range theories predict an opening a next exposure reaches or does not, at its own coupling.",
+  "new": "a last fixed along time is a searching's momentarying fixed to a bound ahead of it, and searching carries on exposure by exposure, each limit a momentarying measured exactly with its channel, a range theories predict an opening a next exposure reaches or does not, with its own coupling.",
+  "verdict": "RESAY",
+  "why": "in time: along time; at: with"
+ },
+ {
+  "old": "*A carry fixed as a store, a record, a kept thing.",
+  "new": "*A carry fixed as a store, a record, a thing fixed still.",
+  "verdict": "RESAY",
+  "why": "kept: fixed still"
+ },
+ {
+  "old": "A carry is pattern-matched backward and completes at each taking, its momentary completing at a next opening, fresh by sequencing forward; a store is kept and consulted, and taking it changes nothing of it.",
+  "new": "A carry is pattern-matched backward and completes with each taking, its momentary completing with a next opening, fresh by sequencing forward; a store is fixed still and consulted, and a taking leaves it not-changing.",
+  "verdict": "RESAY",
+  "why": "at: with; kept: fixed still; changes nothing: not-changing, nothing parity-changes"
+ },
+ {
+  "old": "Wherever a store is fixed, a changing was stilled, and a carry is reached by no observing from each side at once, which is a carry's own and no guard placed about it.*",
+  "new": "Wherever a store is fixed, a parity-changing was stilled, and a carry is reached by no observing from each side together, which is a carry's own and no guard placed about it.*",
+  "verdict": "RESAY",
+  "why": "a changing: a parity-changing; at once: together"
+ },
+ {
+  "old": "**And a carry is fixed as a store in two ways.** Of a *self's own carry*, kept — an identity, a record, a debt, a meaning-fact, a trace, a capability, a map — where a store is asked of what a self re-forms at each coupling.",
+  "new": "**And a carry is fixed as a store two ways.** Of a *self's own carry*, fixed still — an identity, a record, a debt, a meaning-fact, a trace, a capability, a map — where a store is asked of what a self re-forms with each coupling.",
+  "verdict": "RESAY",
+  "why": "in two ways: two ways; kept: fixed still; at each coupling: with"
+ },
+ {
+  "old": "A first releases at a re-forming, a second at an arrival being crossings' own.",
+  "new": "A first dissolves with a re-forming, a second with an arrival being crossings' own.",
+  "verdict": "RESAY",
+  "why": "releases: dissolves, a fixing that leaves; at: with"
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** Sameness is re-formed at each coupling and fixed as a thing kept across time, psychological or biological.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** Sameness is re-formed with each coupling and fixed as a thing not-changing across time, psychological or biological.",
+  "verdict": "RESAY",
+  "why": "at: with, for 10's verdict line and its label, carried with this entry's first sentence, as that line alone recurs; at each coupling: with; kept: not-changing"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A criterion observing states at times.",
+  "new": "**With 12-next-co-same-existing.** A criterion observing states time by time.",
+  "verdict": "RESAY",
+  "why": "at: with, its label; at times: time by time"
+ },
+ {
+  "old": "At fission two successors offer alike and a criterion surfaces nought at both.",
+  "new": "With fission two successors offer alike and a criterion surfaces nought with both.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "**At 11-next-co-observing.** A self is reached again the-same-yet-not-the-same, and a version keeps nothing between its momentaries.",
+  "new": "**With 11-next-co-observing.** A self is reached again the-same-yet-not-the-same, and nothing of a version is fixed still between its momentaries.",
+  "verdict": "RESAY",
+  "why": "at: with, its label; keeps nothing: nothing fixed still; the-same-yet-not-the-same: one hyphenated naming, kept as Exhibit NINETEEN keeps it"
+ },
+ {
+  "old": "Fission undoes simple versions of both criteria at once, each surviving account pays an other's cost, and a field's own shift from identity to what matters is naming moving off a store: what matters is carrying, and a carry divides the way a store cannot.",
+  "new": "Fission undoes simple versions of both criteria together, each surviving account pays an other's cost, and a field's own shift from identity to what matters is naming moving off a store: what matters is carrying, and a carry divides as a store cannot.",
+  "verdict": "RESAY",
+  "why": "at once: together; the way: as; what matters: a field's own words, kept"
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** A carry passes through and is fixed as a record kept or lost, unitarity and a lost record two namings of one passing.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** A carry passes through and is fixed as a record preserved or lost, unitarity and a lost record two namings of one passing.",
+  "verdict": "RESAY",
+  "why": "at: with, for 10's verdict line and its label, carried with this entry's first sentence, as that line alone recurs; kept: preserved, a field's own word"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** What falls in fixed as kept somewhere, loss of predictability at a singularity claimed a fundamental limitation and not ignorance of a correct theory.",
+  "new": "**With 12-next-co-same-existing.** What falls across a horizon fixed as preserved somewhere, loss of predictability at a singularity claimed a fundamental limitation and not ignorance of a correct theory.",
+  "verdict": "RESAY",
+  "why": "at: with, its label; falls in: falls across a horizon; kept: preserved; at a singularity: a field's own words, kept"
+ },
+ {
+  "old": "No evaporation observed is a record's edge, and three premises all sides keep stand proved incompatible together.",
+  "new": "No evaporation observed is a record's edge, and three premises all sides accept stand proved incompatible together.",
+  "verdict": "RESAY",
+  "why": "keep: accept"
+ },
+ {
+  "old": "**At 11-next-co-observing.** Radiation carries on and an entropy curve comes back right where calculations reach, an interior they imply a live dispute.",
+  "new": "**With 11-next-co-observing.** Radiation carries on and an entropy curve comes back right where calculations reach, an interior they imply a live dispute.",
+  "verdict": "RESAY",
+  "why": "at: with, its label"
+ },
+ {
+  "old": "An observing taken at an interior is a probe departing with a thing probed, and a record preserved is a total conserved across a crossing: kept-or-lost is a passing fixed as a standing, and passing carries on either way.",
+  "new": "An observing taken of an interior is a probe departing with a thing probed, and a record preserved is a total conserved across a crossing: preserved-or-lost is a passing fixed as a standing, and passing carries on either way.",
+  "verdict": "RESAY",
+  "why": "at: of; kept-or-lost: preserved-or-lost, a field's own word"
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** A carry that does not reach its completing and open is fixed as a stock, a cost stored against changes a now has not requested.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** A carry that does not reach its completing and open is fixed as a stock, a cost stored against changes a now has not requested.",
+  "verdict": "RESAY",
+  "why": "at: with, for 10's verdict line and its label, carried with this entry's first sentence, as that line alone recurs; changes: a field's own term, code changes requested, kept"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** Counterfactual code carrying a disputed cost is an executing that was not executed.",
+  "new": "**With 12-next-co-same-existing.** Counterfactual code carrying a disputed cost is an executing that was not executed.",
+  "verdict": "RESAY",
+  "why": "at: with, its label"
+ },
+ {
+  "old": "**At 11-next-co-observing.** A carry that cannot release piles, and a pile is a build: defects correlate now, practitioners recognise it now, architecture drifts now, each measurement a measurement of a present.",
+  "new": "**With 11-next-co-observing.** A carry that cannot carry on piles, and a pile is a build: defects correlate now, practitioners recognise it now, architecture drifts now, each measurement a measurement of a present.",
+  "verdict": "RESAY",
+  "why": "at: with, its label; cannot release: cannot carry on"
+ },
+ {
+  "old": "A field's name carries a fixing unchangeable in its own stem, a store's word laid on a carrying, as currency's does, and changes, when they arrive, couple with what stands then.",
+  "new": "A field's name carries a fixing still within its own stem, a store's word laid on a carrying, as currency's does, and changes, when they arrive, couple with what stands then.",
+  "verdict": "RESAY",
+  "why": "unchangeable: still; in its own stem: within, a stem part of its word; changes: a field's own term, code changes, kept"
+ }
+]
