@@ -6,6 +6,13 @@ Living Improving Value · improved at v390
 
 **Standing to resume, v390.** Session v390 works at `working/natural-intelligence-editing-v390`, not yet merged; main is at v389. Entered: Exhibit ONE one text, within Natural Intelligence and standing alone; Natural Intelligence's passes, each prior text whole at `archive/session_v390/`; the opening's inception and observing's line. Waiting, ready: [`incoming/v390/README.md`](../incoming/v390/README.md), the session's gathered value, its master concerns, the opening's best version, Exhibit THIRTY read for one chain with Natural Intelligence, and four motions for next versions; droplets gathered at each living file's offerings. The session's transcript is whole at `archive/session_v390/Session_Transcript_v390.txt`. A next session begins at the incoming README.
 
+**Pass 10 entered at Natural Chemistry, Natural Philosophy, Natural Medicine, Natural Physics and Natural Illustrating, v390, 2026-10-20:** 2,510 sentences re-said by meaning toward session v390's concepts, from fourteen readers' proposals, each checked before entering.
+- **Kept as their own concepts, each a concern at its offerings:** Natural Chemistry's and Natural Medicine's *society*, and a built or robot *society*.
+- **Kept as written:** field findings and measurements, and one unclear sentence.
+- **One way across Natural Physics:** its step label reads *Torusing within it*.
+
+Natural Chemistry, Natural Philosophy and Natural Medicine moved to v390. check_set: ALL PASS.
+
 **Pass 10 entered at nine more files, v390, 2026-10-20:** Natural Transmissioning, Natural Societies, Natural Exploring, Natural Human Society, Natural Health, Natural Destinies, Natural Emanating, Natural Values and Resolving Hard Problems. In them, 1,166 sentences are re-said by meaning toward session v390's concepts, from seven readers' proposals, each checked before entering. Open questions were resolved with agreed concepts:
 - *offer, carry on, resolve*;
 - a same-existing-society a living set;

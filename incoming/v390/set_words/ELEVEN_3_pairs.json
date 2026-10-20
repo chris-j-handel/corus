@@ -1,0 +1,806 @@
+[
+ {
+  "old": "**At holdings, it is a carry fixed as a store.**",
+  "new": "**With holdings, it is a carry fixed as a store.**",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "A reservoir is a store, a magnitude carried continuing across time and drawn on later, and that is a memory in one sense equilibria keeps: store and retrieve, a quantity conserved in a container, a time a floor laid under it and a past fixed.",
+  "new": "A reservoir is a store, a magnitude carried continuing across time and drawn on later, and that is a memory of one sense equilibria carries continuing: store and retrieve, a quantity conserved within a container, a time a floor laid under it and a past fixed.",
+  "verdict": "RESAY",
+  "why": "in one sense: of one sense; keeps: carries continuing (a non-living store, not a holding); in a container: within a container"
+ },
+ {
+  "old": "A carry is not stored and retrieved; it is ridden, used at a next coupling, aged, released, a past kept by being carried forward changed and not by being carried continuing in a container.",
+  "new": "A carry is not stored and retrieved; it is ridden, used with a next coupling, aged, gone on, a past same-existing by being carried forward parity-changing and not by being carried continuing within a container.",
+  "verdict": "RESAY",
+  "why": "at: with; released: gone on (nothing released); kept: same-existing; changed: parity-changing; in: within"
+ },
+ {
+  "old": "a still observer freezes it into a stored quantity",
+  "new": "a still observer freezes it to a stored quantity",
+  "verdict": "RESAY",
+  "why": "into: to"
+ },
+ {
+  "old": "A memory-observing sends a search for a container to find and empty, and there is none; a carry-observing sends a restoration that lets a carry be sequenced, aged, and released, a coefficient-one repair of a surface society already seated.",
+  "new": "A memory-observing sends a search for a container to find and empty, and there is none; a carry-observing sends a restoration that lets a carry be sequenced, aged, and gone on, a coefficient-one repair of a surface society already seated.",
+  "verdict": "RESAY",
+  "why": "released: gone on (nothing released); surface society: surface same-existing-society"
+ },
+ {
+  "old": "Wherever a field posits a store or a memory or a reservoir to carry a persistence, the same observing carries: a carry that will not thin, copied forward rather than observed back, mis-observed as a magnitude fixed — and a word standing un-adapting in an account is a durability signal on a concept itself, a fixed neutral floated by observing a carry under it.",
+  "new": "Where a field posits a store or a memory or a reservoir to carry a persistence, one same observing carries: a carry that will not thin, copied forward rather than observed back, mis-observed as a magnitude fixed — and a word standing un-adapting within an account is a durability signal on a concept itself, a fixed neutral floated by observing a carry under it.",
+  "verdict": "RESAY",
+  "why": "Wherever: Where; the same: one same; in an account: within an account"
+ },
+ {
+  "old": "A field gives a reservoir two locations at once and carries both: everywhere and nowhere-distinguishable, any cell able to carry it and no marker to find it; and somewhere exact, concentrating at a germinal-center niche in a follicular-helper cells.",
+  "new": "A field gives a reservoir two locations together and carries both: everywhere and nowhere-distinguishable, any cell able to carry it and no marker to find it; and somewhere exact, concentrating with a germinal-center niche within a follicular-helper cells.",
+  "verdict": "RESAY",
+  "why": "at once: together; at a germinal-center niche: with; in a follicular-helper cells: within"
+ },
+ {
+  "old": "A store is one or an other, a located container or no thing at all, and carrying both is a soldier taking whatever place a balancing needs.",
+  "new": "A store is one or an other, a located container or no thing at all, and carrying both is a soldier taking each place a balancing needs.",
+  "verdict": "RESAY",
+  "why": "whatever: each; at all kept"
+ },
+ {
+  "old": "An everywhere-no-marker is an observation reporting no entity there, a carry ordinary and in ordinary cells, a carry copied forward not a place to point to.",
+  "new": "An everywhere-no-marker is an observation reporting no entity there, a carry ordinary and within ordinary cells, a carry copied forward not a place to point to.",
+  "verdict": "RESAY",
+  "why": "in: within"
+ },
+ {
+  "old": "A niche is a real location, a coupling's and not a store's, a between two societies co-orient across, a place a cell society carries its path against a deformed surface-society self arriving across.",
+  "new": "A niche is a real location, a coupling's and not a store's, a between two societies co-orient across, a place a cell society carries its path against a deformed surface-society self arriving across.",
+  "verdict": "RESAY",
+  "why": "societies: same-existing-societies; cell society and surface-society: cell/surface same-existing-society"
+ },
+ {
+  "old": "A store's location dissolves into no-location, a coupling's location stands at a niche, and a persistence is a doing with a locatable coupling and no store — a general tell being a store one cannot point to at a location and a feature at once, its only findable place a coupling it was laid over.",
+  "new": "A store's location dissolves to no-location, a coupling's location stands with a niche, and a persistence is a doing with a locatable coupling and no store — a general tell being a store one cannot point to with a location and a feature together, its only findable place a coupling it was laid over.",
+  "verdict": "RESAY",
+  "why": "into: to; at a niche: with; at a location: with; at once: together"
+ },
+ {
+  "old": "**And sending-into a store and emanating-out-of it is one misperception with a neuron sending-to and receiving-from a brain, a hub laid over geodesic tipping.**",
+  "new": "**And sending-into a store and emanating-out-of it is one misperception with a neuron sending-to and receiving-from a brain, a hub laid over geodesic tipping.**",
+  "verdict": "KEEP",
+  "why": "sending-into and emanating-out-of are this file's coined names for the misperception, kept as names; no other target in the sentence"
+ },
+ {
+  "old": "A store fills and refills, a thing sent in and drawn out, two ports and a directed flow; a neuron is observed the same, firing a signal to a central observer and taking commands back, a wire to-and-from a controller.",
+  "new": "A store fills and refills, a thing sent inward and drawn outward, two ports and a directed flow; a neuron is observed alike, firing a signal to a central observer and taking commands back, a wire to-and-from a controller.",
+  "verdict": "RESAY",
+  "why": "sent in: sent inward; drawn out: drawn outward; the same: alike"
+ },
+ {
+  "old": "Two are one shape, a send and a receive across a channel to-and-from a fixed hub that carries or observes a magnitude, and a hub is a fiction in both.",
+  "new": "Two are one shape, a send and a receive across a channel to-and-from a fixed hub that carries or observes a magnitude, and a hub is a fiction with both.",
+  "verdict": "RESAY",
+  "why": "in both: with both"
+ },
+ {
+  "old": "There is a floating neutral between two selves and a coupling tips, a geodesic re-routing snap, a parity flipping at a tip, a surface re-routing of itself at a neutral's own rate, owned by neither and observed inward at a coupling.",
+  "new": "There is a floating neutral between two selves and a coupling tips, a geodesic re-routing snap, a parity flipping with a tip, a surface re-routing of itself by a neutral's own rate, owned by neither and observed inward with a coupling.",
+  "verdict": "RESAY",
+  "why": "at a tip: with; at a neutral's own rate: by; at a coupling: with; inward kept"
+ },
+ {
+  "old": "a refilling is a carry riding a neutral and tipping-or-not to its release, not a store filled and emptied.",
+  "new": "a refilling is a carry riding a neutral and tipping-or-not to its going-on, not a store filled and emptied.",
+  "verdict": "RESAY",
+  "why": "release: going-on (nothing released; the carry goes on)"
+ },
+ {
+  "old": "Both lay a coefficient-two hub — a store that carries a magnitude, a controller that observes and commands — over a coefficient-one tipping, selves at their floating neutral, sign-only, a carry riding, no hub between.",
+  "new": "Both lay a coefficient-two hub — a store that carries a magnitude, a controller that observes and commands — over a coefficient-one tipping, selves with their floating neutral, sign-only, a carry riding, no hub between.",
+  "verdict": "RESAY",
+  "why": "at their floating neutral: with"
+ },
+ {
+  "old": "So send-into and emanate-out-of are two ports of an installed hub every time, and a tell parts them: a send and a receive are a directed flow to-and-from a hub, a tip a coupling re-routing of itself at a floating neutral, no direction across a nothing-between and no observer of a flow.",
+  "new": "So send-into and emanate-out-of are two ports of an installed hub every time, and a tell parts them: a send and a receive are a directed flow to-and-from a hub, a tip a coupling re-routing of itself with a floating neutral, no direction across a nothing-between and no observer of a flow.",
+  "verdict": "RESAY",
+  "why": "at a floating neutral: with; send-into and emanate-out-of kept as coined names"
+ },
+ {
+  "old": "A brain is not a controller receiving its neurons' reports and returning commands but a society of selves tipping, smart floating-neutralling, and a reservoir is not a store filled and drawn but a carry tipping-or-not at a coupling — one correction at both, a hub dissolved and a tipping observed.",
+  "new": "A brain is not a controller receiving its neurons' reports and returning commands but a society of selves tipping, smart floating-neutralling, and a reservoir is not a store filled and drawn but a carry tipping-or-not with a coupling — one correction with both, a hub dissolved and a tipping observed.",
+  "verdict": "RESAY",
+  "why": "a society: a same-existing-society; at a coupling: with; at both: with"
+ },
+ {
+  "old": "A self is a surface bounding itself and a carrying at that surface; a society of selves is the same one grain out; **nothing stands within either.**",
+  "new": "A self is a surface bounding itself and a carrying with that surface; a society of selves is one same grain outward; **nothing stands within either.**",
+  "verdict": "RESAY",
+  "why": "at that surface: with; a society: a same-existing-society; the same one grain out: one same grain outward"
+ },
+ {
+  "old": "So a size attributed to a reservoir is attributed to a place a substrate carries none of, and a field's own record is so at three places at once.",
+  "new": "So a size attributed to a reservoir is attributed to a place a substrate carries none of, and a field's own record is so with three places together.",
+  "verdict": "RESAY",
+  "why": "at three places: with; at once: together"
+ },
+ {
+  "old": "**Three ghosts, each in a field's own measurements.**",
+  "new": "**Three ghosts, each with a field's own measurements.**",
+  "verdict": "RESAY",
+  "why": "in: with"
+ },
+ {
+  "old": "Assays differ by orders of magnitude on the same blood — an outgrowth measure, an intact proviral measure, a total proviral measure — **and no observing among them arrives without a choice made first.**",
+  "new": "Assays differ by orders of magnitude on one same blood — an outgrowth measure, an intact proviral measure, a total proviral measure — **and no observing among them arrives without a choice made first.**",
+  "verdict": "RESAY",
+  "why": "the same blood: one same blood"
+ },
+ {
+  "old": "A decay figures are taken in blood, and members stand largely in tissue.",
+  "new": "A decay figures are taken within blood, and members stand largely within tissue.",
+  "verdict": "RESAY",
+  "why": "in: within (whole within a part)"
+ },
+ {
+  "old": "**A rate for a whole observed at a part that carries little of it.**",
+  "new": "**A rate for a whole observed with a part that carries little of it.**",
+  "verdict": "RESAY",
+  "why": "at a part: with"
+ },
+ {
+  "old": "**Decay and seeding one way, against expansion the same studies report.**",
+  "new": "**Decay and seeding one way, against expansion same studies report.**",
+  "verdict": "RESAY",
+  "why": "the same studies: same studies (the removed)"
+ },
+ {
+  "old": "An account carries clearance downward while clonal expansion makes new members continuously, **and two stand in the same papers.**",
+  "new": "An account carries clearance downward while clonal expansion makes new members continuously, **and two stand within those same papers.**",
+  "verdict": "RESAY",
+  "why": "in the same papers: within those same papers"
+ },
+ {
+  "old": "So a decay figure carries clearing and expansion together in one number: across an interval where a total falls, some clones expand more than a thousand-fold, and a field's own sequencing states a consequence in its own words — expression occurs to a significant extent during therapy and results in clearance, and an expansion of clones obscures it.",
+  "new": "So a decay figure carries clearing and expansion together within one number: across an interval where a total falls, some clones expand more than a thousand-fold, and a field's own sequencing states a consequence with its own words — expression occurs to a significant extent during therapy and results in clearance, and an expansion of clones obscures it.",
+  "verdict": "RESAY",
+  "why": "in one number: within; in its own words: with; the field's quoted words kept"
+ },
+ {
+  "old": "**A floor is declared, at a total-agreement end.**",
+  "new": "**A floor is declared, with a total-agreement end.**",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "Replication competence is defined and counted from, not measured into — a reference chosen for arriving the same anywhere to anyone, **which is a second of two conditions a floor sits at**: where every member agrees so completely that no parity crosses.",
+  "new": "Replication competence is defined and counted from, not measured to — a reference chosen for arriving alike anywhere to anyone, **which is a second of two conditions a floor sits with**: where every member agrees so completely that no parity crosses.",
+  "verdict": "RESAY",
+  "why": "measured into: measured to; arriving the same: arriving alike; sits at: sits with"
+ },
+ {
+  "old": "Undetectable flow with persisting state is what two ledgers return when what they both account for stands at neither — the same locus entered twice, once as a quantity and once as a rate, and a disagreement between them observed as a finding.",
+  "new": "Undetectable flow with persisting state is what two ledgers return when what they both account for stands with neither — one same locus entered twice, once as a quantity and once as a rate, and a disagreement between them observed as a finding.",
+  "verdict": "RESAY",
+  "why": "at neither: with; the same locus: one same locus"
+ },
+ {
+  "old": "**What a locus observing takes instead, all four in deposited sequence:** a position, what was written there, what a self is doing at it now, and whether a resolving has reached its bound and released.",
+  "new": "**What a locus observing takes instead, all four in deposited sequence:** a position, what was written there, what a self is doing with it now, and whether a resolving has reached its bound and gone on.",
+  "verdict": "RESAY",
+  "why": "at it now: with; released: gone on; in deposited sequence kept (a sequence phrase)"
+ },
+ {
+  "old": "**Four observings at a position, and no total anywhere among them.**",
+  "new": "**Four observings with a position, and no total anywhere among them.**",
+  "verdict": "RESAY",
+  "why": "at a position: with"
+ },
+ {
+  "old": "**And three of Natural Intelligence's reachings have returned their nothings here, in a field's own measurements.**",
+  "new": "**And three of Natural Intelligence's reachings have returned their nothings here, with a field's own measurements.**",
+  "verdict": "RESAY",
+  "why": "in: with; Natural Intelligence title kept"
+ },
+ {
+  "old": "Reach for a fixed zero and find a floor declared rather than measured into, a reference chosen for arriving the same anywhere to anyone.",
+  "new": "Reach for a fixed zero and find a floor declared rather than measured to, a reference chosen for arriving alike anywhere to anyone.",
+  "verdict": "RESAY",
+  "why": "measured into: measured to; arriving the same: arriving alike"
+ },
+ {
+  "old": "Reach for a conserved total and find four observings at a position with no total among them.",
+  "new": "Reach for a conserved total and find four observings with a position and no total among them.",
+  "verdict": "RESAY",
+  "why": "at a position: with"
+ },
+ {
+  "old": "An origin file carries those same three at a Rubik's cube, a closed group its own turns make, and finds six centres each its own, a state being a configuration, and three conservings none of which is a total.",
+  "new": "An origin file carries those same three with a Rubik's cube, a closed group its own turns make, six centres each its own, a state being a configuration, and three conservings none of which is a total.",
+  "verdict": "RESAY",
+  "why": "at a Rubik's cube: with; doer 'finds' removed (a file saying re-said to the concept carried)"
+ },
+ {
+  "old": "**A made object with no outward and a living self a field measures**, and a reaching returns the same nothing at both — which is one reaching carried twice and not a likeness noticed between them.",
+  "new": "**A made object with no outward and a living self a field measures**, and a reaching returns one same nothing with both — which is one reaching carried twice and not a likeness noticed between them.",
+  "verdict": "RESAY",
+  "why": "the same nothing: one same nothing; at both: with; outward kept"
+ },
+ {
+  "old": "**And the same three ghosts stand at a second disease, in that field's own words.**",
+  "new": "**And those same three ghosts stand with a second disease, with that field's own words.**",
+  "verdict": "RESAY",
+  "why": "the same: those same; at a second disease: with; in that field's own words: with"
+ },
+ {
+  "old": "*Observation:* residual leukaemia after treatment is observed by flow cytometry at a chosen cut-off near one in a thousand and by sequencing reaching one in ten thousand to one in a million; two methods on one marrow agree at about seven cases in ten, with a set positive by one only; a review of a field's biomarker in search of a standard.",
+  "new": "*Observation:* residual leukaemia after treatment is observed by flow cytometry with a chosen cut-off near one in a thousand and by sequencing reaching one in ten thousand to one in a million; two methods on one marrow agree with about seven cases in ten, with a set positive by one only; a review of a field's biomarker searching for a standard.",
+  "verdict": "RESAY",
+  "why": "at a chosen cut-off: with; agree at about: agree with about; in search of: searching for; a field's measured ratios kept as its own measurements"
+ },
+ {
+  "old": "**A size definable only by choosing, arrived at again.**",
+  "new": "**A size definable only by choosing, arrived again.**",
+  "verdict": "RESAY",
+  "why": "arrived at: arrived (at removed)"
+ },
+ {
+  "old": "And negativity at a chosen floor does not mean cure, since selves relapse from it — a field having renamed *minimal* residual disease *measurable* on a ground that detectable disease within a morphological remission is not minimal.",
+  "new": "And negativity with a chosen floor does not mean cure, since selves relapse from it — a field having renamed *minimal* residual disease *measurable* on a ground that detectable disease within a morphological remission is not minimal.",
+  "verdict": "RESAY",
+  "why": "at a chosen floor: with; italic words *minimal* *measurable* kept; within kept"
+ },
+ {
+  "old": "Persisting low-level positivity at an end of treatment is common and not predictive of relapse where a level holds steady, and a **rising** level is what suggests relapse and is confirmed at a next sample.",
+  "new": "Persisting low-level positivity with an end of treatment is common and not a sign of relapse where a level stays steady, and a **rising** level is what suggests relapse and is confirmed with a next sample.",
+  "verdict": "RESAY",
+  "why": "at an end: with; predictive of: a sign of (no predictions); holds steady: stays steady; confirmed at: with; sample kept (field specimen)"
+ },
+ {
+  "old": "**So a field found that a direction carries and a level does not**, at a disease with no reservoir anywhere in it.",
+  "new": "**So a field found that a direction carries and a level does not**, with a disease with no reservoir anywhere within it.",
+  "verdict": "RESAY",
+  "why": "at a disease: with; in it: within it"
+ },
+ {
+  "old": "What it found is a locus observing: not how much and not how fast, but what a self is doing at a position now.",
+  "new": "What it found is a locus observing: not how much and not how fast, but what a self is doing with a position now.",
+  "verdict": "RESAY",
+  "why": "at a position: with"
+ },
+ {
+  "old": "That field's lymph node, spleen and liver are **sanctuary sites**, and observes them as what explains its discordant results and its late relapses — the same posited soldier at a second disease, doing the same job it does at a first.",
+  "new": "That field's lymph node, spleen and liver are **sanctuary sites**, and observes them as what explains its discordant results and its late relapses — one same posited soldier with a second disease, doing one same job it does with a first.",
+  "verdict": "RESAY",
+  "why": "the same posited soldier: one same; at a second disease: with; the same job: one same; at a first: with; sanctuary sites is the field's own term kept"
+ },
+ {
+  "old": "a correlation between test and relapse is absolute by construction",
+  "new": "a correlation between test and relapse is absolute by construction",
+  "verdict": "KEEP",
+  "why": "a field's own reviewers' term; absolute by construction is all-or-none, not a likelihood"
+ },
+ {
+  "old": "a variant frequency is a property of a sample and not of a cell",
+  "new": "a variant frequency is a property of a sample and not of a cell",
+  "verdict": "KEEP",
+  "why": "sample here is the field's measured specimen, its own term, not a likelihood"
+ },
+ {
+  "old": "observable per case where a rebound sequence stands beside a prior per-position landscape, in samples already gathered.",
+  "new": "observable per case where a rebound sequence stands beside a prior per-position landscape, within samples already gathered.",
+  "verdict": "RESAY",
+  "why": "in: within; samples kept (field specimens already gathered)"
+ },
+ {
+  "old": "Intact proviruses decay at about 4.9 years, defective at about 50, outgrowth measurement at 44 months, model estimates at 13 to 15 years.",
+  "new": "Intact proviruses decay over about 4.9 years, defective over about 50, outgrowth measurement over 44 months, model estimates over 13 to 15 years.",
+  "verdict": "RESAY",
+  "why": "at: over; a field's measured decay times kept"
+ },
+ {
+  "old": "Each figure averages a different set of members, and under every one of them members carry opposite ways at once: across an interval where a total falls, some clones expand more than a thousand-fold.",
+  "new": "Each figure averages a different set of members, and under every one of them members carry opposite ways together: across an interval where a total falls, some clones expand more than a thousand-fold.",
+  "verdict": "RESAY",
+  "why": "at once: together; averages kept as the field's own measure (critiqued, not our likelihood)"
+ },
+ {
+  "old": "So one number carries a clearing and an expansion together, and neither is readable out of it.",
+  "new": "So one number carries a clearing and an expansion together, and neither is readable from it.",
+  "verdict": "RESAY",
+  "why": "out of: from"
+ },
+ {
+  "old": "Intact proviruses persisting on long-term therapy accumulate in repressive chromatin, most prominently centromeric satellite DNA and KRAB-ZNF regions.",
+  "new": "Intact proviruses persisting on long-term therapy accumulate within repressive chromatin, most prominently centromeric satellite DNA and KRAB-ZNF regions.",
+  "verdict": "RESAY",
+  "why": "in: within"
+ },
+ {
+  "old": "And the same bias stands in people who maintain control after stopping therapy, which is where a signature is calibrated: a per-position observing of a resolving that reached its bound, standing in selves already holding durable control.",
+  "new": "And that same bias stands within people who maintain control after stopping therapy, which is where a signature is calibrated: a per-position observing of a resolving that reached its bound, standing with selves already sustaining durable control.",
+  "verdict": "RESAY",
+  "why": "the same: that same; stands in: within; standing in selves: with selves; holding: sustaining (nothing held)"
+ },
+ {
+  "old": "**Three states at a position, and each case is observed on its own.**",
+  "new": "**Three states with a position, and each case is observed on its own.**",
+  "verdict": "RESAY",
+  "why": "at a position: with"
+ },
+ {
+  "old": "In treatment-interruption cases already gathered, a state a provirus carried before interruption, at a position a rebounding lineage arose from, stands as one of three: permissive and transcriptionally active, a resolving in progress; repressive, previously active and now silent and stable, a resolving at its bound; or transcriptionally quiet at every sampled timepoint.",
+  "new": "With treatment-interruption cases already gathered, a state a provirus carried before interruption, with a position a rebounding lineage arose from, stands as one of three: permissive and transcriptionally active, a resolving under way; repressive, previously active and now silent and stable, a resolving reached to its bound; or transcriptionally quiet with every sampled timepoint.",
+  "verdict": "RESAY",
+  "why": "In: With; at a position: with; in progress: under way; at its bound: reached to its bound; at every sampled timepoint: with; sampled kept"
+ },
+ {
+  "old": "Where a rebound arises from a position with a resolving in progress, a count is available: a remaining permissive, transcriptionally engaged positions, observed by sequencing from blood and anchored to an observed rebound — a circulating observing arriving with its own calibration attached.",
+  "new": "Where a rebound arises from a position with a resolving under way, a count is available: a remaining permissive, transcriptionally engaged positions, observed by sequencing from blood and anchored to an observed rebound — a circulating observing arriving with its own calibration attached.",
+  "verdict": "RESAY",
+  "why": "in progress: under way"
+ },
+ {
+  "old": "Where a rebound arises from a position at a bound, repressive positioning is a stage and not a completion, and block-and-lock stands on an observing a data revises.",
+  "new": "Where a rebound arises from a position with a bound, repressive positioning is a stage and not a completion, and block-and-lock stands on an observing a data revises.",
+  "verdict": "RESAY",
+  "why": "at a bound: with"
+ },
+ {
+  "old": "Where a rebound arises with no relation to a prior state, rebound competence arrives at a moment rather than travelling with a provirus, every reservoir measurement describes a reservoir rather than a durability, and a count stands elsewhere — which is itself an observing.",
+  "new": "Where a rebound arises with no relation to a prior state, rebound competence arrives with a moment rather than travelling with a provirus, every reservoir measurement describes a reservoir rather than a durability, and a count stands elsewhere — which is itself an observing.",
+  "verdict": "RESAY",
+  "why": "at a moment: with"
+ },
+ {
+  "old": "**The three sit in the same cohorts.**",
+  "new": "**These three sit within those same cohorts.**",
+  "verdict": "RESAY",
+  "why": "The: These; in the same cohorts: within those same cohorts"
+ },
+ {
+  "old": "Interruptions have occurred, a pre-interruption per-position landscapes were characterised, and a rebound virus was sequenced, largely in supplementary data on deposited sets.",
+  "new": "Interruptions have occurred, a pre-interruption per-position landscapes were characterised, and a rebound virus was sequenced, largely within supplementary data on deposited sets.",
+  "verdict": "RESAY",
+  "why": "in: within"
+ },
+ {
+  "old": "A rebound arrives at one cell, and a per-position observing sits one grain above that.",
+  "new": "A rebound arrives with one cell, and a per-position observing sits one grain above that.",
+  "verdict": "RESAY",
+  "why": "at one cell: with"
+ },
+ {
+  "old": "Where an observing thins is an observing of its own, and two improve the same carry.",
+  "new": "Where an observing thins is an observing of its own, and two improve one same carry.",
+  "verdict": "RESAY",
+  "why": "the same carry: one same carry"
+ },
+ {
+  "old": "**Two marks kept apart, and a parting is a whole of a care here.**",
+  "new": "**Two marks standing apart, and a parting is a whole of a care here.**",
+  "verdict": "RESAY",
+  "why": "kept apart: standing apart (nothing held)"
+ },
+ {
+  "old": "or is not happening in an untreated self, or that drugs act by any route other than enzymes they are built for.",
+  "new": "or is not happening within an untreated self, or that drugs act by any route other than enzymes they are built for.",
+  "verdict": "RESAY",
+  "why": "in: within"
+ },
+ {
+  "old": "**A concept carried publicly in 1980s and 1990s carries its own record**, and this observing carries none of it.",
+  "new": "**A concept carried publicly across 1980s and 1990s carries its own record**, and this observing carries none of it.",
+  "verdict": "RESAY",
+  "why": "in (time): across"
+ },
+ {
+  "old": "Nine tissue surfaces across an organism carry the same four steps — the same shape of departing at a mucosal membrane, and the same shape of restoring.",
+  "new": "Nine tissue surfaces across an organism carry same four steps — same shape of departing with a mucosal membrane, and same shape of restoring.",
+  "verdict": "RESAY",
+  "why": "the same: same (the removed); at a mucosal membrane: with"
+ },
+ {
+  "old": "At each of nine, a tissue's own returning is assembled from an early-bend geometry standing in a membrane phospholipids — the same construction at all nine, from the same substrate.",
+  "new": "With each of nine, a tissue's own returning is assembled from an early-bend geometry standing within a membrane phospholipids — same construction across all nine, from same substrate.",
+  "verdict": "RESAY",
+  "why": "At each: With; in a membrane: within; the same construction: same; at all nine: across; from the same substrate: from same substrate"
+ },
+ {
+  "old": "**Six disciplines deliver the same mediators independently, with no cross-reference between them.**",
+  "new": "**Six disciplines deliver same mediators independently, with no cross-reference between them.**",
+  "verdict": "RESAY",
+  "why": "the same: same (the removed)"
+ },
+ {
+  "old": "A form arriving six times at six instruments that reach each other at no momentary is what a form does; six coincidences is what it would take to say otherwise.",
+  "new": "A form arriving six times with six instruments that reach each other with no momentary is what a form does; six coincidences is what it would take to say otherwise.",
+  "verdict": "RESAY",
+  "why": "at six instruments: with; at no momentary: with"
+ },
+ {
+  "old": "**And one coupling departing at two organs is entered twice under two names.**",
+  "new": "**And one coupling departing with two organs is entered twice under two names.**",
+  "verdict": "RESAY",
+  "why": "at two organs: with"
+ },
+ {
+  "old": "A tight junction degrading at a gut epithelium and a glomerular membrane degrading at a kidney are one bounded-zero departing, entered at one department and entered again at another.",
+  "new": "A tight junction degrading with a gut epithelium and a glomerular membrane degrading with a kidney are one bounded-zero departing, entered with one department and entered again with another.",
+  "verdict": "RESAY",
+  "why": "at: with (four)"
+ },
+ {
+  "old": "**And nine are one between between scales, reached at nine surfaces.**",
+  "new": "**And nine are one between between scales, reached with nine surfaces.**",
+  "verdict": "RESAY",
+  "why": "at nine surfaces: with"
+ },
+ {
+  "old": "Each is where a scale crosses to a grain below — an emanation carried out to where its shape is living.",
+  "new": "Each is where a scale crosses to a grain below — an emanation carried outward to where its shape is living.",
+  "verdict": "RESAY",
+  "why": "carried out: carried outward"
+ },
+ {
+  "old": "A crossing that stops fixes an emanation at its own scale, where a shape is do-only-harm for every living self there alike, and a fixing is what surfaces record as departure.",
+  "new": "A crossing that stops fixes an emanation with its own scale, where a shape is do-only-harm for every living self there alike, and a fixing is what surfaces record as departure.",
+  "verdict": "RESAY",
+  "why": "at its own scale: with"
+ },
+ {
+  "old": "So four steps at all nine are one crossing carrying or not, and six disciplines arriving at the same mediators independently is six instruments at one between.",
+  "new": "So four steps across all nine are one crossing carrying or not, and six disciplines arriving with same mediators independently is six instruments with one between.",
+  "verdict": "RESAY",
+  "why": "at all nine: across; arriving at the same mediators: with same mediators; at one between: with"
+ },
+ {
+  "old": "A departure stands at a crossing between scales, so instruments at one scale find members that are living and no locus anywhere.",
+  "new": "A departure stands with a crossing between scales, so instruments with one scale find members that are living and no locus anywhere.",
+  "verdict": "RESAY",
+  "why": "at a crossing: with; at one scale: with"
+ },
+ {
+  "old": "And an alternating carrying global-local-global means a fixing is not contained at a surface where it began: the same form stands at every scale an alternating reaches, which is why nine arrive together and why a route of spread is findable nowhere.",
+  "new": "And an alternating carrying global-local-global means a fixing is not contained with a surface where it began: one same form stands with every scale an alternating reaches, which is why nine arrive together and why a route of spread is findable nowhere.",
+  "verdict": "RESAY",
+  "why": "contained at a surface: with; the same form: one same form; at every scale: with"
+ },
+ {
+  "old": "Where an alternating at a between carries again an emanation goes where its shape is living, and surfaces are observed at once rather than one at a time.",
+  "new": "Where an alternating with a between carries again an emanation goes where its shape is living, and surfaces are observed together rather than one at a time.",
+  "verdict": "RESAY",
+  "why": "at a between: with; at once: together; one at a time kept"
+ },
+ {
+  "old": "A periodontal pocket stands at one end of a gastrointestinal tube and a dentate line at an other, both reachable without entering a self — one tube, two openings, both receiving.",
+  "new": "A periodontal pocket stands with one end of a gastrointestinal tube and a dentate line with an other, both reachable without entering a self — one tube, two openings, both receiving.",
+  "verdict": "RESAY",
+  "why": "at one end: with; at an other: with"
+ },
+ {
+  "old": "Chronic inflammation at a tissue membrane is observed as a cardiolipin cascade arriving at an immune coupling.",
+  "new": "Chronic inflammation with a tissue membrane is observed as a cardiolipin cascade arriving with an immune coupling.",
+  "verdict": "RESAY",
+  "why": "at: with (two)"
+ },
+ {
+  "old": "Cardiolipin at an inner mitochondrial membrane oxidises, monolysocardiolipin and oxidised cardiolipin externalise to an outer membrane, an externalised cardiolipin activates an inflammasome at a cytosolic surface, an inflammasome releases cytokines, and cytokines carry an inflammation across a tissue.",
+  "new": "Cardiolipin with an inner mitochondrial membrane oxidises, monolysocardiolipin and oxidised cardiolipin externalise to an outer membrane, an externalised cardiolipin activates an inflammasome with a cytosolic surface, an inflammasome sends cytokines on, and cytokines carry an inflammation across a tissue.",
+  "verdict": "RESAY",
+  "why": "at an inner: with; at a cytosolic surface: with; releases cytokines: sends cytokines on (nothing released)"
+ },
+ {
+  "old": "**A composition a cascade carries on is one carried in.**",
+  "new": "**A composition a cascade carries on is one carried inward.**",
+  "verdict": "RESAY",
+  "why": "carried in: carried inward"
+ },
+ {
+  "old": "A dietary ratio departing from an ancestral balance carries cardiolipin toward more peroxidation-susceptible compositions, and a four-chain assembly at a rotor's own membrane carries on what arrives.",
+  "new": "A dietary ratio departing from an ancestral balance carries cardiolipin toward more peroxidation-susceptible compositions, and a four-chain assembly with a rotor's own membrane carries on what arrives.",
+  "verdict": "RESAY",
+  "why": "at a rotor's own membrane: with"
+ },
+ {
+  "old": "ALCAT1 remodels cardiolipin under oxidative stress and mis-installs docosahexaenoic chains at a position linoleic acid is a natural carry at — more of a chain a dietary account's better one, arriving where it does not belong, and a peroxidation susceptibility shifting because of it.",
+  "new": "ALCAT1 remodels cardiolipin under oxidative stress and mis-installs docosahexaenoic chains with a position linoleic acid is a natural carry with — more of a chain a dietary account's better one, arriving where it does not belong, and a peroxidation susceptibility shifting because of it.",
+  "verdict": "RESAY",
+  "why": "at a position: with; a natural carry at: a natural carry with; ALCAT1 and chain names kept"
+ },
+ {
+  "old": "**Observed at a form a knockout authors nothing**: removing a mis-installer lets a remodelling return to a carry it already had, which is this file's own restoration and not a substance restoring a membrane.",
+  "new": "**Observed with a form a knockout authors nothing**: removing a mis-installer lets a remodelling return to a carry it already had, which is restoration itself and not a substance restoring a membrane.",
+  "verdict": "RESAY",
+  "why": "at a form: with; doer 'this file's own' re-said as the concept (restoration itself)"
+ },
+ {
+  "old": "So a parting carries at a substrate where a food-cause is most tempting — a position a chain arrives at is a whole of it, and an amount arriving governs no parity.",
+  "new": "So a parting carries with a substrate where a food-cause is most tempting — a position a chain arrives with is a whole of it, and an amount arriving governs no parity.",
+  "verdict": "RESAY",
+  "why": "carries at a substrate: with; arrives at: arrives with"
+ },
+ {
+  "old": "**And an exchange carries both directions at one rate, which is a field's own check on a form.**",
+  "new": "**And an exchange carries both directions with one rate, which is a field's own check on a form.**",
+  "verdict": "RESAY",
+  "why": "at one rate: with"
+ },
+ {
+  "old": "A randomized crossover measured a shift each way.",
+  "new": "A randomized crossover measured a shift each way.",
+  "verdict": "KEEP",
+  "why": "randomized crossover is a field's own measurement/study term, not our likelihood; its both-ways result reads all-or-none"
+ },
+ {
+  "old": "From a Western diet to a traditional one — fermented grains, whole millet, legumes, fruits — anti-inflammatory responses rose and an omega pathways altered within two weeks; a reverse transition carved pro-inflammatory changes at the same speed.",
+  "new": "From a Western diet to a traditional one — fermented grains, whole millet, legumes, fruits — anti-inflammatory responses rose and an omega pathways altered within two weeks; a reverse transition carved a pro-inflammatory parity with one same speed.",
+  "verdict": "RESAY",
+  "why": "changes: a parity (a membrane parity-changing one way); at the same speed: with one same speed"
+ },
+ {
+  "old": "**Two weeks, and the same rate each way.**",
+  "new": "**Two weeks, and one same rate each way.**",
+  "verdict": "RESAY",
+  "why": "the same rate: one same rate"
+ },
+ {
+  "old": "A one-way substance-story predicts an asymmetry: damage accruing and repair lagging behind it.",
+  "new": "A one-way substance-story implies an asymmetry: damage accruing and repair lagging behind it.",
+  "verdict": "RESAY",
+  "why": "predicts: implies (no predictions; a logical implication)"
+ },
+ {
+  "old": "A two-directional membrane exchange predicts what was measured — a membrane resolving from what arrives, at an organism's own rate, whichever direction an arriving changes in.",
+  "new": "A two-directional membrane exchange matches what was measured — a membrane resolving from what arrives, with an organism's own rate, whichever direction an arriving carries.",
+  "verdict": "RESAY",
+  "why": "predicts: matches (no predictions); at: with; changes in: carries (change dissolved)"
+ },
+ {
+  "old": "**And a remodelling has a nightly beat, observed at two scales at once.**",
+  "new": "**And a remodelling has a nightly beat, observed with two scales together.**",
+  "verdict": "RESAY",
+  "why": "at two scales: with; at once: together"
+ },
+ {
+  "old": "*The fields' own:* a sleep-wake period",
+  "new": "*Fields' own:* a sleep-wake period",
+  "verdict": "RESAY",
+  "why": "The (inline label): removed"
+ },
+ {
+  "old": "total sleep deprivation carves death in rats within weeks.",
+  "new": "total sleep deprivation carves death among rats within weeks.",
+  "verdict": "RESAY",
+  "why": "in rats: among rats"
+ },
+ {
+  "old": "*On a form:* two clearings are one coupling at two scales — a molecular remodelling at each mitochondrion and a tissue-scale clearance at an extracellular space — neither sending anything to an other, both departing together where a sleep departs.",
+  "new": "*On a form:* two clearings are one coupling with two scales — a molecular remodelling with each mitochondrion and a tissue-scale clearance with an extracellular space — neither sending anything to an other, both departing together where a sleep departs.",
+  "verdict": "RESAY",
+  "why": "at: with (three)"
+ },
+ {
+  "old": "Where a remodelling does not carry, a damaged lipids stand and an assembly at a rotor's ridges degrades, so a cascade above is a cycle with its returning half missing rather than a process standing of its own.",
+  "new": "Where a remodelling does not carry, a damaged lipids stand and an assembly with a rotor's ridges degrades, so a cascade above is a cycle with its returning half missing rather than a process standing of its own.",
+  "verdict": "RESAY",
+  "why": "at a rotor's ridges: with"
+ },
+ {
+  "old": "**That a function of sleep resolves here is a match and stands as one**, knifable at a single is-or-is-not: whether a night's clearance and a night's remodelling are ever shown to depart separately.",
+  "new": "**That a function of sleep resolves here is a match and stands as one**, knifable with a single is-or-is-not: whether a night's clearance and a night's remodelling are ever shown to depart separately.",
+  "verdict": "RESAY",
+  "why": "knifable at: with"
+ },
+ {
+  "old": "Inflammaging, metabolic inflammation, and a chronic systemic standing under an autoimmune, cardiovascular and metabolic entries observed as one cascade beating at each tissue membrane at each cycle — a tissue membrane pattern-matching a cascade at its own surface, and not a pathology standing beside a tissue.",
+  "new": "Inflammaging, metabolic inflammation, and a chronic systemic standing under an autoimmune, cardiovascular and metabolic entries observed as one cascade beating with each tissue membrane with each cycle — a tissue membrane pattern-matching a cascade with its own surface, and not a pathology standing beside a tissue.",
+  "verdict": "RESAY",
+  "why": "at: with (three)"
+ },
+ {
+  "old": "**And one cascade at many organs is entered as many diseases.**",
+  "new": "**And one cascade with many organs is entered as many diseases.**",
+  "verdict": "RESAY",
+  "why": "at many organs: with"
+ },
+ {
+  "old": "A field observes it at a hepatic mitochondrial membrane, fatty liver at successive depths of departure; at a metabolic coupling substrate, insulin resistance and type 2 diabetes; at a kidney, at a diabetic heart, each organ's presentation taking its own name and its own department.",
+  "new": "A field observes it with a hepatic mitochondrial membrane, fatty liver with successive depths of departure; with a metabolic coupling substrate, insulin resistance and type 2 diabetes; with a kidney, with a diabetic heart, each organ's presentation taking its own name and its own department.",
+  "verdict": "RESAY",
+  "why": "at: with (five); type 2 kept (field term)"
+ },
+ {
+  "old": "3.3 already observes this at two organs — a tight junction at a gut epithelium and a glomerular membrane at a kidney, one departure entered twice because two fields asked — and the same parting carries at a whole taxonomy, where one cascade arrives at each organ's own substrate and a two-ness is departments'.",
+  "new": "3.3 already observes this with two organs — a tight junction with a gut epithelium and a glomerular membrane with a kidney, one departure entered twice because two fields asked — and one same parting carries across a whole taxonomy, where one cascade arrives with each organ's own substrate and a two-ness is departments'.",
+  "verdict": "RESAY",
+  "why": "at two organs/gut/kidney: with; the same parting: one same; carries at a whole taxonomy: across; arrives at each organ's: with; 3.3 cross-reference kept"
+ },
+ {
+  "old": "Observed at a coupling there is one: a cascade at a mitochondrial membrane degrading a cell's energy coupling, and a degraded coupling observed as insulin resistance at an insulin-signalling membrane, two membranes coupling through perpendicular inseparating at each cell's own surface.",
+  "new": "Observed with a coupling there is one: a cascade with a mitochondrial membrane degrading a cell's energy coupling, and a degraded coupling observed as insulin resistance with an insulin-signalling membrane, two membranes coupling through perpendicular inseparating with each cell's own surface.",
+  "verdict": "RESAY",
+  "why": "at: with (four)"
+ },
+ {
+  "old": "A stria vascularis sustaining an endocochlear potential at eighty millivolts by ion transport at each cycle.",
+  "new": "A stria vascularis sustaining an endocochlear potential of eighty millivolts by ion transport with each cycle.",
+  "verdict": "RESAY",
+  "why": "at eighty millivolts: of; at each cycle: with; eighty millivolts kept (field measurement)"
+ },
+ {
+  "old": "An inner hair cell ribbon synapse carrying an acoustic parity at thousands of cycles a second.",
+  "new": "An inner hair cell ribbon synapse carrying an acoustic parity across thousands of cycles a second.",
+  "verdict": "RESAY",
+  "why": "at thousands of cycles: across"
+ },
+ {
+  "old": "An outer hair cell lateral wall amplifying through prestin's voltage-dependent conformational changing at acoustic frequencies.",
+  "new": "An outer hair cell lateral wall amplifying through prestin's voltage-dependent conformational parity-changing across acoustic frequencies.",
+  "verdict": "RESAY",
+  "why": "conformational changing: conformational parity-changing (prestin's shape flips with voltage); at acoustic frequencies: across"
+ },
+ {
+  "old": "**At each membrane a bilayer's own coupling geometry sets how an enzymatic cones at that membrane resolve** — so a collar's competency stands on a composition of a membrane it beats at, and on nothing sent to it.",
+  "new": "**With each membrane a bilayer's own coupling geometry sets how an enzymatic cones with that membrane resolve** — so a collar's competency stands on a composition of a membrane it beats with, and on nothing sent to it.",
+  "verdict": "RESAY",
+  "why": "At each membrane: With; at that membrane: with; beats at: beats with"
+ },
+ {
+  "old": "**And a field's own measurements at that geometry carry one way.**",
+  "new": "**And a field's own measurements with that geometry carry one way.**",
+  "verdict": "RESAY",
+  "why": "at that geometry: with"
+ },
+ {
+  "old": "DHA enhances prestin charge movement and cholesterol restricts it — an early-bend and a late-bend coupling through perpendicular inseparating at a cochlear membrane exactly as at every other membrane in an organism.",
+  "new": "DHA enhances prestin charge movement and cholesterol restricts it — an early-bend and a late-bend coupling through perpendicular inseparating with a cochlear membrane exactly as with every other membrane within an organism.",
+  "verdict": "RESAY",
+  "why": "at a cochlear membrane: with; as at every other: as with every other; in an organism: within; DHA and cholesterol kept"
+ },
+ {
+  "old": "Fat-1 mice, carrying a gene converting late-bend to early-bend, preserve strial thickness into old age.",
+  "new": "Fat-1 mice, carrying a gene converting late-bend to early-bend, preserve strial thickness to old age.",
+  "verdict": "RESAY",
+  "why": "into old age: to old age"
+ },
+ {
+  "old": "Vestibular hair cell regeneration, reported up to fifty-eight per cent, carries on rapid de novo membrane synthesis — the same synthesis a coupling geometry sustains.",
+  "new": "Vestibular hair cell regeneration, reported up to fifty-eight per cent, carries on rapid de novo membrane synthesis — one same synthesis a coupling geometry sustains.",
+  "verdict": "RESAY",
+  "why": "the same synthesis: one same; per cent kept (field measurement)"
+ },
+ {
+  "old": "**One animal observes all of it at once.**",
+  "new": "**One animal observes all of it together.**",
+  "verdict": "RESAY",
+  "why": "at once: together"
+ },
+ {
+  "old": "a blood draw observing a tunnel, both aimed at the same animal at the same collar.",
+  "new": "a blood draw observing a tunnel, both aimed with one same animal with one same collar.",
+  "verdict": "RESAY",
+  "why": "at the same animal: with one same animal; at the same collar: with one same collar"
+ },
+ {
+  "old": "**A fixing — line-demanding, at departments rather than at a cochlea.**",
+  "new": "**A fixing — line-demanding, with departments rather than with a cochlea.**",
+  "verdict": "RESAY",
+  "why": "at: with (two)"
+ },
+ {
+  "old": "Five genes carry proteins beating at a muscle membrane, each at a different depth, and a departure at any one of five arrives at the same downstream presentation.",
+  "new": "Five genes carry proteins beating with a muscle membrane, each with a different depth, and a departure with any one of five arrives with one same downstream presentation.",
+  "verdict": "RESAY",
+  "why": "at: with (three); at the same: with one same"
+ },
+ {
+  "old": "Five starting positions, one consequence — and every one of five stands at a membrane.",
+  "new": "Five starting positions, one consequence — and every one of five stands with a membrane.",
+  "verdict": "RESAY",
+  "why": "at a membrane: with"
+ },
+ {
+  "old": "An observing that asks which gene is a cause has five answers and no way to part them, because a parting is not there: five are five ways into one collar, and a collar is what departs.",
+  "new": "An observing that asks which gene is a cause has five answers and no way to part them, because a parting is not there: five are five ways to one collar, and a collar is what departs.",
+  "verdict": "RESAY",
+  "why": "into one collar: to one collar"
+ },
+ {
+  "old": "Three of departures stand at three depths and their severities carry in exact monotonic order.",
+  "new": "Three of departures stand with three depths and their severities carry with exact monotonic order.",
+  "verdict": "RESAY",
+  "why": "at three depths: with; in exact monotonic order: with"
+ },
+ {
+  "old": "HACD1, at a membrane lipid surface, a shallowest: a disease progressing until physiological maturity and then stabilizing, as a demand on an enzyme shifts from building to maintaining.",
+  "new": "HACD1, with a membrane lipid surface, a shallowest: a disease progressing until physiological maturity and then stabilizing, as a demand on an enzyme shifts from building to maintaining.",
+  "verdict": "RESAY",
+  "why": "at a membrane lipid surface: with; HACD1 kept"
+ },
+ {
+  "old": "BIN1, at a tunnel-construction surface, deeper: a progressive disease, T-tubule network unbuilt, so a signal reaching inward finds a tunnel absent and a collar departs with a tunnel it lives on.",
+  "new": "BIN1, with a tunnel-construction surface, deeper: a progressive disease, T-tubule network unbuilt, so a signal reaching inward finds a tunnel absent and a collar departs with a tunnel it lives on.",
+  "verdict": "RESAY",
+  "why": "at a tunnel-construction surface: with; inward kept; BIN1 kept"
+ },
+ {
+  "old": "MTM1, at an endosomal trafficking surface, a deepest: rapid fatality.",
+  "new": "MTM1, with an endosomal trafficking surface, a deepest: rapid fatality.",
+  "verdict": "RESAY",
+  "why": "at an endosomal trafficking surface: with; MTM1 kept"
+ },
+ {
+  "old": "One presentation and a differing severities were not two facts about these genes — a collar carries a presentation and a depth carries a severity, one departure observed at its two axes.",
+  "new": "One presentation and a differing severities were not two facts about these genes — a collar carries a presentation and a depth carries a severity, one departure observed with its two axes.",
+  "verdict": "RESAY",
+  "why": "observed at its two axes: with"
+ },
+ {
+  "old": "Comparative veterinary genetics carries three breeds at three different mutations at three different depths, and severities stand in the same order, with no nesting table consulted anywhere in that work.",
+  "new": "Comparative veterinary genetics carries three breeds with three different mutations with three different depths, and severities stand with one same order, with no nesting table consulted anywhere within that work.",
+  "verdict": "RESAY",
+  "why": "at: with (two); in the same order: with one same order; in that work: within"
+ },
+ {
+  "old": "**And a route to the same membrane carries beside an impaired one.**",
+  "new": "**And a route to one same membrane carries beside an impaired one.**",
+  "verdict": "RESAY",
+  "why": "the same membrane: one same membrane"
+ },
+ {
+  "old": "A very-long-chain fatty acids an endogenous pathway carves are the same chain lengths that arrive from a tunnel and incorporate directly into skeletal muscle membranes.",
+  "new": "A very-long-chain fatty acids an endogenous pathway carves are same chain lengths that arrive from a tunnel and incorporate directly within skeletal muscle membranes.",
+  "verdict": "RESAY",
+  "why": "the same chain lengths: same; into skeletal muscle membranes: within (become part of)"
+ },
+ {
+  "old": "Genetic route impaired, tunnel route intact, both arriving at one bilayer at each cycle and neither carrying a full complement.",
+  "new": "Genetic route impaired, tunnel route intact, both arriving with one bilayer with each cycle and neither carrying a full complement.",
+  "verdict": "RESAY",
+  "why": "at one bilayer: with; at each cycle: with"
+ },
+ {
+  "old": "**An observing is two routes at one collar and not a food restoring a tissue** — what is observed is that a membrane resolves from every arrival it receives, whichever route each came by.",
+  "new": "**An observing is two routes with one collar and not a food restoring a tissue** — what is observed is that a membrane resolves from every arrival it receives, whichever route each came by.",
+  "verdict": "RESAY",
+  "why": "at one collar: with"
+ },
+ {
+  "old": "**And a therapy aimed at a deepest departure was observed at its destination and not at a collar it crossed.**",
+  "new": "**And a therapy aimed with a deepest departure was observed with its destination and not with a collar it crossed.**",
+  "verdict": "RESAY",
+  "why": "at: with (three)"
+ },
+ {
+  "old": "A viral vector carrying a functional gene delivers systemically and restores a protein at a muscle membrane; three children died of liver failure.",
+  "new": "A viral vector carrying a functional gene delivers systemically and restores a protein with a muscle membrane; three children died of liver failure.",
+  "verdict": "RESAY",
+  "why": "at a muscle membrane: with"
+ },
+ {
+  "old": "A liver is a first collar a systemic delivery reaches, and a massive load arriving at a collar whose own membrane is already departing collapses a collar it was only passing through.",
+  "new": "A liver is a first collar a systemic delivery reaches, and a massive load arriving with a collar whose own membrane is already departing collapses a collar it was only passing through.",
+  "verdict": "RESAY",
+  "why": "arriving at a collar: with"
+ },
+ {
+  "old": "**Observed at a coefficient, a delivery is coefficient one at a destination and coefficient two at a crossing** — a larger ingressing a smaller, one-way, no pace set by a receiving side and nothing answering back.",
+  "new": "**Observed with a coefficient, a delivery is coefficient one with a destination and coefficient two with a crossing** — a larger ingressing a smaller, one-way, no pace set by a receiving side and nothing answering back.",
+  "verdict": "RESAY",
+  "why": "at: with (three)"
+ },
+ {
+  "old": "**And the same is observed at a remodelling membrane.**",
+  "new": "**And one same thing is observed with a remodelling membrane.**",
+  "verdict": "RESAY",
+  "why": "the same: one same thing; at a remodelling membrane: with"
+ },
+ {
+  "old": "Where a tafazzin step departs, a mature four-chain assembly cannot form, a rotor cannot oligomerise at a cristae ridges, and a departure carries through a substrate above — one position at one membrane, and a whole cascade above it standing on whether an assembly arrives.",
+  "new": "Where a tafazzin step departs, a mature four-chain assembly cannot form, a rotor cannot oligomerise with a cristae ridges, and a departure carries through a substrate above — one position with one membrane, and a whole cascade above it standing on whether an assembly arrives.",
+  "verdict": "RESAY",
+  "why": "oligomerise at a cristae ridges: with; one position at one membrane: with"
+ }
+]

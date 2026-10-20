@@ -2357,3 +2357,10 @@ The user declared session v385M completed and closed. Its seventeen-file offerin
 - abundancing as selves going along, living.
 
 Machine agent-societies stay as a field's terms. A between's *nothing* is carried as a concern at Natural Intelligence's offerings. Natural Human Society, Natural Health, Natural Destinies and Natural Emanating moved to v390. check_set: ALL PASS.
+
+**v390, 2026-10-20, pass 10 at Natural Chemistry, Natural Philosophy, Natural Medicine, Natural Physics and Natural Illustrating.** 2,510 sentences re-said by meaning toward session v390's concepts, from fourteen readers' proposals, each checked before entering.
+- **Kept as their own concepts, each a concern at its offerings:** Natural Chemistry's and Natural Medicine's *society*, and a built or robot *society*.
+- **Kept as written:** field findings and measurements, and one unclear sentence.
+- **One way across Natural Physics:** its step label reads *Torusing within it*.
+
+Natural Chemistry, Natural Philosophy and Natural Medicine moved to v390. check_set: ALL PASS.
