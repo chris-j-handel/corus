@@ -63,3 +63,5 @@ Exhibit THREE Natural Numbers Offerings · improved at v389
 **Droplet · ten, five now and five next.** A self's ten own names, 3, 4, 5, 7, 8 now and 11, 12, 13, 15, 16 next, five and five, are Resolving Hard Problems' ten positions on six numbers, two and one half momentaries of a self and of an other: one structure. — v390, gathered from session v390
 
 **Droplet · one five all fives, one ten all tens.** In natural numbers one five is all fives and one ten is all tens. A ten is five self and five other: ten is or is nots, ten dimensions of parity-changing. Resolving Hard Problems carries it as ten positions on six numbers, a self 1 to 5 and an other 2 to 6; Exhibit ONE as *Fives*, prior opening, prior completing, now opening, now completing, next opening. The other six of 1 to 17 are the floating neutraling co-linear of these ten. — v390
+
+**Droplet · self-next is other-prior.** A self's ten own resolver names are this ten: five now, 3, 4, 5, 7, 8, a self's five, and five next, 11, 12, 13, 15, 16, an other's five, as self-next is other-prior; the six between selves, 2, 6, 10, 14 across and 9, 17 along, are its co-linear six. — v390
