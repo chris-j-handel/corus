@@ -225,4 +225,7 @@ Each line is agreed line by line. Meaning, bothboth.
 - Carried: each ? and + of an opening's full version, kept until resolved.
 - *Carved again, v390:* 3. *By our observing, the universe is one now-existing universal set.* 4. *No other universe is possibly existing.* **O4 and O5 dissolve** with *There is one same-existing universe* released; same-existing arrives with its own defining line. **O2 resolved by Claude:** line 4's step lies in line 1's *all*: any other universe would be now-existing things, gathered by line 1, so line 4 is the dead end lines 1 and 3 give, our naming's one use of possible. **O6:** *The universe is the same-existing set of all now-existing things*, the person's earlier carving, stays at its place after sequential momentarying, to confirm.
 - **O8.** Line 5, *A set of now-existing things is sharing the momentary now.*: two concepts at once, sharing and a momentary; *the momentary now*.
+- *Carved, v390:* 5. *The same-existing universe has been observably now-existing for all prior observings.* **O8 dissolves** with *A set of now-existing things is sharing the momentary now* released. Its rigor: each observing is itself now-existing, so no observing finds the universe not now-existing.
+- **O9.** Line 5's *has been*: a past tense, which our explaining has been releasing as holding a moment still.
+- **O10.** Line 5 says *same-existing universe* before *A same-existing thing is a now-existing thing continuing from prior-existing* defines same-existing; swapping the two keeps definition before use.
 
