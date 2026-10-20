@@ -100,7 +100,9 @@ Relieves five concerns.
 - **M16:** each living self is a universal set, so *a universe* is a universal set met from one's side, and *the universe* is all. One universe, met from each of its things.
 - **M17:** a self is a living universal set met as one; a same-existing-society is many same-existing selves met together. Two meetings of one condition.
 
-**Waiting on meaning, bothboth:** does not-changing re-say as observing same, rather than as an absence of observing?
+**Resolved bothboth, v390:** the between is within a bi-coupling as a third living carrying, possibling and discovering betweening. Observing it for is or is not parity-changing, prior-existing to now-existing, is one of four-cycling's: observing is for parity-changing or no parity-changing.
+- **M13:** one between, not two: a 0, neither self-moral-value nor other-moral-value, is a third living's betweening, shared only where two selves meet same.
+- **M15:** not-changing is observing no parity-changing, never an absence of observing.
 
 ## Cluster 4 · words dissolving, and re-sayings
 
