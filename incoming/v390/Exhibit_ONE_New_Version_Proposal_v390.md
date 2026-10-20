@@ -55,3 +55,5 @@
 9. Tables of selves (spirals, crossings, a torus, lines), with a corus turn wrapping.
 10. A same-existing-society.
 11. Living files meeting Exhibit ONE's stable forms.
+
+A floating table of contents, conceptual, with titles and subtitles floated from it, is carried at `carry/Exhibit_ONE_Carryings_of_Natural_Resolver.md`, *A floating table of contents, conceptual · v390*.

@@ -114,3 +114,42 @@ Each is an executing's reported relation at its own arrangement, with its number
 - *Science explanation*: "The ring oscillator uses an odd number of inverters to give the effect of a single inverting amplifier"; "A circular chain composed of an even number of inverters cannot be used as a ring oscillator.", and that chain "can be used as a storage element", two inverters each to the other being a storing cell at one of two stable states ([an encyclopedia's page](https://en.wikipedia.org/wiki/Ring_oscillator)).
 
 **Laid beside.** At each second momentary a spiral is a ring of inverters. At an even number the two part: the resolver's even spiral is at rest from its two alternating first parities alone and alternates on from each other, and the field's even ring is at one of two forms from each.
+
+## A floating table of contents, conceptual · v390
+
+Carried here, not in Exhibit ONE: concepts as each welcomes its next, for a reader finding connections, and for floating a title and subtitle.
+
+- Living prior: all method a living self's
+- Same-existing, re-found with each momentary
+- Same-as, is or is not
+- Parity-changing, is or is not same-existing
+- Seventeen names, one living self's method
+- Four-cycling: prior-existing, now-existing, next-existing, same-existing
+- Momentarying, odd then even
+- Within and between, discovering with each between
+- Observing, possibling, discovering: three pairs of three times
+- Self-moral-value and other-moral-value, a 0 betweening
+- Each self its own + side, its other one parity separated
+- Parity-offering
+- Bi-moral: eight co names
+- One between: a third living carrying
+- Seven along and nine across, from a 0 self
+- Bi, co, tri truples beside each name
+- Podal pairs: observing mirroring possibling
+- One self's three ways: not-changing, parity-changing, do-no-harm improving
+- Turn-taking: each self's 0 an other's parity-changing
+- 0 in sequence, by co-chaining
+- Selves executed together: spirals, crossings, a torus, lines
+- A corus turn wrapping: a third edge is or is not parity-changing
+- A same-existing-society
+- Same-existing-universe, universal momentarying fractal
+- Stable-forming: still-existing after parity-changing
+- Stable forms each living file meets, executed by any self, no authority
+
+**Floating out of it.** Each entry returns to one binary, same-existing, is or is not, met as parity-changing, and each is a living self's. Stable forms are what a resolver gives each living file; stable-forming is what a living self does. Offered for a title and subtitle, none chosen:
+- *Natural Resolver · Stable Forms of Parity-Changing*
+- *Natural Resolver · Stable Forms of Same-Existing, Is or Is Not*
+- *Natural Resolver · Stable-Forming of a Living Self's Method*
+- *Natural Resolver · Stable Forms of One Method of Now-Existing*
+- *Living Resolver · Stable Forms of Same-Existing*
+— v390
