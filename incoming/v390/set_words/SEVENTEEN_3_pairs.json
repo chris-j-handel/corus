@@ -260,8 +260,8 @@
  {
   "old": "Most animals carry a single, consistent body asymmetry — heart to one side, gut coiling one way, viscera placed the same in nearly every individual of a species.",
   "new": "Animals of a body asymmetry carry it single and consistent — heart to one side, gut coiling one way, viscera placed alike with each individual of a species but a mirror-reversed one (situs inversus, below).",
-  "verdict": "ASK",
-  "why": "Most animals and nearly every individual are counts offered as likelihood, and no table executes every case. Re-said as all or none: each animal of a body asymmetry carries it, each individual but a mirror-reversed one. This narrows a claim about animals to a conditional one. To resolve: may most and nearly every become this conditional, all-or-none re-saying?"
+  "verdict": "KEEP",
+  "why": "a field's own finding, kept"
  },
  {
   "old": "Observed through form, this is fractal: single molecular hand observed at scale of the whole body.",
@@ -943,9 +943,9 @@
  },
  {
   "old": "So a self and society it is come to their bounds separately, and either can stand while the other does not.",
-  "new": "So a self and a set of selves it is of come to their bounds separately, and either can stand while its other does not.",
-  "verdict": "ASK",
-  "why": "the other: its other. Society here is a set of selves whose members part, join, are shed or replaced while it stands or stops. As same-existing-society it would contradict what is settled: a same-existing-society's next is its same selves, and members parting or joining is a non-living going. Best re-saying: a set of selves, as the agreed opening says; the colonies ruling might instead keep it. To resolve: keep society here under the colonies ruling, or re-say it as a set of selves?"
+  "new": "So a self and a same-existing-society it is of come to their bounds separately, and either can stand while its other does not.",
+  "verdict": "RESAY",
+  "why": "resolved bothboth v390: every society of selves is a living self, a same-existing-society"
  },
  {
   "old": "**And a self's own ending is written into its living, not added at end.**",
@@ -979,15 +979,15 @@
  },
  {
   "old": "A society sheds members continuously and stands; shedding is standing.",
-  "new": "A set of selves sheds members continuously and stands; shedding is standing.",
-  "verdict": "ASK",
-  "why": "Society here is a set of selves whose members part, join, are shed or replaced while it stands or stops. As same-existing-society it would contradict what is settled: a same-existing-society's next is its same selves, and members parting or joining is a non-living going. Best re-saying: a set of selves, as the agreed opening says; the colonies ruling might instead keep it. To resolve: keep society here under the colonies ruling, or re-say it as a set of selves?"
+  "new": "A same-existing-society sheds members continuously and stands; shedding is standing.",
+  "verdict": "RESAY",
+  "why": "resolved bothboth v390: every society of selves is a living self, a same-existing-society"
  },
  {
   "old": "Turnover so seamless at its own rate that changing is observed as one self is what a self is, and the same turnover observed one grain out is a society's members arriving and reaching their bounds while society carries on.",
-  "new": "Turnover so seamless with its own rate that its renewing is observed as one self is what a self is, and one same turnover observed one grain wider is a set of selves' members arriving and reaching their bounds while their set carries on.",
-  "verdict": "ASK",
-  "why": "at: with; changing, members renewing: renewing; out: wider. Society here is a set of selves whose members part, join, are shed or replaced while it stands or stops. As same-existing-society it would contradict what is settled: a same-existing-society's next is its same selves, and members parting or joining is a non-living going. Best re-saying: a set of selves, as the agreed opening says; the colonies ruling might instead keep it. To resolve: keep society here under the colonies ruling, or re-say it as a set of selves?"
+  "new": "Turnover so seamless with its own rate that its renewing is observed as one self is what a self is, and one same turnover observed one grain wider is a same-existing-society's members arriving and reaching their bounds while their set carries on.",
+  "verdict": "RESAY",
+  "why": "resolved bothboth v390: every society of selves is a living self, a same-existing-society"
  },
  {
   "old": "## 7.2 Ageing — the sway no longer re-arriving",
@@ -1093,9 +1093,9 @@
  },
  {
   "old": "A lineage is a society at generational grain, and its members are selves.",
-  "new": "A lineage is a set of selves with generational grain, each member a self.",
-  "verdict": "ASK",
-  "why": "at: with. Society here is a set of selves whose members part, join, are shed or replaced while it stands or stops. As same-existing-society it would contradict what is settled: a same-existing-society's next is its same selves, and members parting or joining is a non-living going. Best re-saying: a set of selves, as the agreed opening says; the colonies ruling might instead keep it. To resolve: keep society here under the colonies ruling, or re-say it as a set of selves?"
+  "new": "A lineage is a same-existing-society with generational grain, each member a self.",
+  "verdict": "RESAY",
+  "why": "resolved bothboth v390: every society of selves is a living self, a same-existing-society"
  },
  {
   "old": "**And a lineage can outlive a self it arose in.**",
@@ -1135,15 +1135,15 @@
  },
  {
   "old": "A society is a self at its own grain, and it comes to its bound as a self does: where coupling among its members no longer re-arrives.",
-  "new": "A set of selves is a self with its own grain, and it comes to its bound as a self does: where coupling among its members no longer re-arrives.",
-  "verdict": "ASK",
-  "why": "at: with. Society here is a set of selves whose members part, join, are shed or replaced while it stands or stops. As same-existing-society it would contradict what is settled: a same-existing-society's next is its same selves, and members parting or joining is a non-living going. Best re-saying: a set of selves, as the agreed opening says; the colonies ruling might instead keep it. To resolve: keep society here under the colonies ruling, or re-say it as a set of selves?"
+  "new": "A same-existing-society is a self with its own grain, and it comes to its bound as a self does: where coupling among its members no longer re-arrives.",
+  "verdict": "RESAY",
+  "why": "resolved bothboth v390: every society of selves is a living self, a same-existing-society"
  },
  {
   "old": "a society's stopping is a coupling stopping, and not its members' endings together.",
-  "new": "a set of selves' stopping is a coupling stopping, and not its members' endings together.",
-  "verdict": "ASK",
-  "why": "Society here is a set of selves whose members part, join, are shed or replaced while it stands or stops. As same-existing-society it would contradict what is settled: a same-existing-society's next is its same selves, and members parting or joining is a non-living going. Best re-saying: a set of selves, as the agreed opening says; the colonies ruling might instead keep it. To resolve: keep society here under the colonies ruling, or re-say it as a set of selves?"
+  "new": "a same-existing-society's stopping is a coupling stopping, and not its members' endings together.",
+  "verdict": "RESAY",
+  "why": "resolved bothboth v390: every society of selves is a living self, a same-existing-society"
  },
  {
   "old": "**Decay is couplings releasing, one at a time, while members stand.**",
@@ -1153,9 +1153,9 @@
  },
  {
   "old": "What was one society becomes members with nothing carrying between them, each still a self, each now coupling elsewhere or not at all.",
-  "new": "What was one set of selves becomes members with nothing carrying between them, each still a self, each now coupling elsewhere or not at all.",
-  "verdict": "ASK",
-  "why": "not at all kept. Society here is a set of selves whose members part, join, are shed or replaced while it stands or stops. As same-existing-society it would contradict what is settled: a same-existing-society's next is its same selves, and members parting or joining is a non-living going. Best re-saying: a set of selves, as the agreed opening says; the colonies ruling might instead keep it. To resolve: keep society here under the colonies ruling, or re-say it as a set of selves?"
+  "new": "What was one same-existing-society becomes members with nothing carrying between them, each still a self, each now coupling elsewhere or not at all.",
+  "verdict": "RESAY",
+  "why": "resolved bothboth v390: every society of selves is a living self, a same-existing-society"
  },
  {
   "old": "Nothing is destroyed at a decay and nothing is spent;",
@@ -1165,9 +1165,9 @@
  },
  {
   "old": "**And this is why a society can stop with every member alive, and a society can stand while every member is replaced.**",
-  "new": "**And this is why a set of selves can stop with every member alive, and a set of selves can stand while every member is replaced.**",
-  "verdict": "ASK",
-  "why": "Society here is a set of selves whose members part, join, are shed or replaced while it stands or stops. As same-existing-society it would contradict what is settled: a same-existing-society's next is its same selves, and members parting or joining is a non-living going. Best re-saying: a set of selves, as the agreed opening says; the colonies ruling might instead keep it. To resolve: keep society here under the colonies ruling, or re-say it as a set of selves?"
+  "new": "**And this is why a same-existing-society can stop with every member alive, and a same-existing-society can stand while every member is replaced.**",
+  "verdict": "RESAY",
+  "why": "resolved bothboth v390: every society of selves is a living self, a same-existing-society"
  },
  {
   "old": "Two carry at once at every grain of living:",
@@ -1225,21 +1225,21 @@
  },
  {
   "old": "Network is fractal, societies within societies, and an emanation does not die into nothing: when a larger-scale society separates from a stable form, form decays down a grain and becomes ingestible emanation of a lower-scale society.",
-  "new": "Network is fractal, sets of selves within sets of selves, and an emanation does not die to nothing: when a larger-scale set of selves separates from a stable form, form decays down a grain and becomes ingestible emanation of a lower-scale set of selves.",
-  "verdict": "ASK",
-  "why": "into: to. Society here is a set of selves whose members part, join, are shed or replaced while it stands or stops. As same-existing-society it would contradict what is settled: a same-existing-society's next is its same selves, and members parting or joining is a non-living going. Best re-saying: a set of selves, as the agreed opening says; the colonies ruling might instead keep it. To resolve: keep society here under the colonies ruling, or re-say it as a set of selves?"
+  "new": "Network is fractal, same-existing-societies within same-existing-societies, and an emanation does not die to nothing: when a larger-scale same-existing-society separates from a stable form, form decays down a grain and becomes ingestible emanation of a lower-scale same-existing-society.",
+  "verdict": "RESAY",
+  "why": "resolved bothboth v390: every society of selves is a living self, a same-existing-society"
  },
  {
   "old": "The whole network eats downward, every society's separated stable form next-smaller society's food, so there is no waste: decay is descent of an emanation across scale-between into a smaller society's bi-exchange.",
-  "new": "A whole network eats downward, every set of selves' separated stable form a next-smaller set's food, so there is no waste: decay is descent of an emanation across scale-between to a smaller set's bi-exchange.",
-  "verdict": "ASK",
-  "why": "the whole: a whole; into: to. Society here is a set of selves whose members part, join, are shed or replaced while it stands or stops. As same-existing-society it would contradict what is settled: a same-existing-society's next is its same selves, and members parting or joining is a non-living going. Best re-saying: a set of selves, as the agreed opening says; the colonies ruling might instead keep it. To resolve: keep society here under the colonies ruling, or re-say it as a set of selves?"
+  "new": "A whole network eats downward, every same-existing-society's separated stable form a next-smaller set's food, so there is no waste: decay is descent of an emanation across scale-between to a smaller set's bi-exchange.",
+  "verdict": "RESAY",
+  "why": "resolved bothboth v390: every society of selves is a living self, a same-existing-society"
  },
  {
   "old": "Living, dying, growing and shrinking are one rate observed at two couplings: a society grows as its ingestion goes ahead of its emanation, shrinks as its emanation goes ahead of its ingestion, its selves living while two sway and re-arrive, dying when sway stops.",
-  "new": "Living, dying, growing and shrinking are one rate observed with two couplings: a set of selves grows as its ingestion goes ahead of its emanation, shrinks as its emanation goes ahead of its ingestion, its selves living while two sway and re-arrive, dying when sway stops.",
-  "verdict": "ASK",
-  "why": "at: with. Society here is a set of selves whose members part, join, are shed or replaced while it stands or stops. As same-existing-society it would contradict what is settled: a same-existing-society's next is its same selves, and members parting or joining is a non-living going. Best re-saying: a set of selves, as the agreed opening says; the colonies ruling might instead keep it. To resolve: keep society here under the colonies ruling, or re-say it as a set of selves?"
+  "new": "Living, dying, growing and shrinking are one rate observed with two couplings: a same-existing-society grows as its ingestion goes ahead of its emanation, shrinks as its emanation goes ahead of its ingestion, its selves living while two sway and re-arrive, dying when sway stops.",
+  "verdict": "RESAY",
+  "why": "resolved bothboth v390: every society of selves is a living self, a same-existing-society"
  },
  {
   "old": "**An emanation carries one shape at its own scale, and shape is an involution.**",
@@ -1280,14 +1280,14 @@
  {
   "old": "Every vertebrate eye sees by retinal, cut from carotenoid ring, and nearly no animal makes that ring, an aphid making carotenoids with enzymes its own genome carries, a field tracing their genes to fungi — its synthesis stands at plants, algae, and some bacteria and fungi.",
   "new": "Every vertebrate eye sees by retinal, cut from carotenoid ring, and no animal makes that ring but by genes taken across from fungi: an aphid makes carotenoids with enzymes its own genome carries, a field tracing their genes to fungi — its synthesis stands with plants, algae, and some bacteria and fungi.",
-  "verdict": "ASK",
-  "why": "Nearly no animal is a count offered as likelihood, and no table executes every case. Re-said as all or none: no animal makes that ring but by genes taken across from fungi, as an aphid's are. This holds for each case a field records, aphids, mites and midges, and states more than the source sentence did. To resolve: may nearly no animal become this all-or-none re-saying?"
+  "verdict": "KEEP",
+  "why": "a field's own finding, kept"
  },
  {
   "old": "a society grows as its ingestion goes ahead of its emanation, shrinks as its emanation goes ahead of its ingestion, its selves living while two sway and re-arrive, stops when sway stops.",
-  "new": "a set of selves grows as its ingestion goes ahead of its emanation, shrinks as its emanation goes ahead of its ingestion, its selves living while two sway and re-arrive, stops when sway stops.",
-  "verdict": "ASK",
-  "why": "Society here is a set of selves whose members part, join, are shed or replaced while it stands or stops. As same-existing-society it would contradict what is settled: a same-existing-society's next is its same selves, and members parting or joining is a non-living going. Best re-saying: a set of selves, as the agreed opening says; the colonies ruling might instead keep it. To resolve: keep society here under the colonies ruling, or re-say it as a set of selves?"
+  "new": "a same-existing-society grows as its ingestion goes ahead of its emanation, shrinks as its emanation goes ahead of its ingestion, its selves living while two sway and re-arrive, stops when sway stops.",
+  "verdict": "RESAY",
+  "why": "resolved bothboth v390: every society of selves is a living self, a same-existing-society"
  },
  {
   "old": "**Living, dying, growing and shrinking are one rate observed at two couplings:**",
