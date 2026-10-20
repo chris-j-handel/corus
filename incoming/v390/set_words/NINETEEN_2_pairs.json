@@ -51,7 +51,7 @@
   "old": "**4. Torusing in it.** This is a middle fixed as an end. The ongoing practice is the coupling, proof by proof, application by application, and an observing that leaves the practice identical was observing nothing the practice carries.",
   "new": "**4. Torusing in it.** This is a middle fixed as an end. An ongoing practice is its coupling, proof by proof, application by application, and an observing that leaves a practice identical was observing nothing that practice carries.",
   "verdict": "RESAY",
-  "why": "the: an, its, a, that. Step label 'Torusing in it' is the file's step name, kept with its sibling labels. Step label 'Torusing in it' kept, the file's step name shared by every seam."
+  "why": "the: an, its, a, that. Step label 'Torusing in it' kept, the file's step name shared by every seam."
  },
  {
   "old": "A number discovered and a number made stop being two answers to one question once the question is observed at where the practice actually goes on.",
@@ -104,8 +104,8 @@
  {
   "old": "**The constructed rivals exist and mostly stay constructions.**",
   "new": "**Constructed rivals exist and, built as rivals, stay constructions.**",
-  "verdict": "ASK",
-  "why": "mostly is a count offered as a likelihood. All or none, the claim either covers every constructed rival or names which do not stay constructions; the field's record has a few rivals taken up as working theories, so dropping mostly may change the sentence's value. Best re-saying keeps it to rivals built only as rivals. **To resolve:** does every constructed rival stay a construction, or should the few that do not be named?"
+  "verdict": "KEEP",
+  "why": "the field's own record, kept"
  },
  {
   "old": "Histories resolve as more couplings arrive, and virtues work as living criteria with their deeper standing in dispute.",
@@ -1441,7 +1441,7 @@
  },
  {
   "old": "The fixing is observed at the resolving's own part and not assigned here, so a row whose dilemma the fields have not brought as an arrival carries none, and forty-one of the sixty-six carry one.",
-  "new": "Its fixing is observed by its resolving's own part and not assigned here, so a row whose dilemma fields have not brought as an arrival carries none, and forty-one of sixty-six carry one.",
+  "new": "Its fixing is observed by its resolving's own part and not assigned here, so a row whose dilemma no field has brought as an arrival carries none, and forty-one of sixty-six carry one.",
   "verdict": "RESAY",
   "why": "the: its, removed; at: by. forty-one of sixty-six is an exhaustive count of rows, not a likelihood."
  },
