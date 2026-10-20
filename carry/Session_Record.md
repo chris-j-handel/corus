@@ -2380,3 +2380,5 @@ Field findings and measurements are kept. Prior sentences are whole at the archi
 - Concerns are carried for *supernatural* and for the registry's non-living *societies reached*.
 
 Living Society Registry moved to v390. check_set: ALL PASS.
+
+**v390, 2026-10-20, pass 10 at Resolving the Hard Problem Registry.** 1,534 sentences re-said by meaning toward session v390's concepts, from ten readers' proposals, each checked before entering. Its repeated labels are re-said once across the file: *With 2-now-possibling* and its kin, and *+ or − with 10, is.* Fields' words, statistics and records are kept. check_set: ALL PASS.

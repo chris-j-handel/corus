@@ -133,7 +133,7 @@
  },
  {
   "old": "One record arriving, two ghosts kept at the door, one society passing.\n\n*The properties.*",
-  "new": "One record arriving, two ghosts caught at the door, one same-existing-society passing.\n\n*The properties.*",
+  "new": "One record arriving, two ghosts caught with the door, one same-existing-society passing.\n\n*The properties.*",
   "verdict": "RESAY",
   "why": "kept at: caught with, nothing held; *the door* kept as 7.5's one door; society: same-existing-society; label *The properties* kept as the form's name."
  },
@@ -534,8 +534,8 @@
   "why": "at: with; society: same-existing-society."
  },
  {
-  "old": "a field's own record states bound for a symmetric memory in quasistatic limit and has measured what changes when memory is asymmetric (for fetch).",
-  "new": "a field's own record states bound for a symmetric memory with quasistatic limit and has measured what parity-changes when memory is asymmetric (for fetch).",
+  "old": "Where kT ln 2 per bit is installed as a floor paid always and everywhere, observed **is-not**; a field's own record states bound for a symmetric memory in quasistatic limit and has measured what changes when memory is asymmetric (for fetch).",
+  "new": "Where kT ln 2 per bit is installed as a floor paid always and everywhere, observed **is-not**; a field's own record states bound for a symmetric memory with quasistatic limit and has measured what parity-changes when memory is asymmetric (for fetch).",
   "verdict": "RESAY",
   "why": "in: with; changes: parity-changes; *always and everywhere* earlier in this sentence stand already."
  },
@@ -820,5 +820,665 @@
   "new": "Enter single-electron engine to TWENTY-FIVE as a same-existing-society observed with its own grain — members each tunnelling event, magnitude extracted work per cycle, residual cycle-to-cycle spread — with its rates and resolution attached from record.",
   "verdict": "RESAY",
   "why": "at an address: to; society: same-existing-society; at: with."
+ },
+ {
+  "old": "Rotation curves flat where, by visible mass, they should fall; cluster velocities exceeding visible binding since 1933; in a colliding cluster pair lensing mass standing where gas is not; background radiation's acoustic peaks fitted with about a quarter of the whole in a component that neither shines nor scatters; direct searches returning limits and no arrival.",
+  "new": "Rotation curves flat where, by visible mass, they should fall; cluster velocities exceeding visible binding since 1933; within a colliding cluster pair lensing mass standing where gas is not; background radiation's acoustic peaks fitted with about a quarter of the universe's whole as a component that neither shines nor scatters; direct searches returning limits and no arrival.",
+  "verdict": "RESAY",
+  "why": "in: within, as; the whole: the universe's whole, its one and only whole; *about a quarter* a field's own fit, kept. "
+ },
+ {
+  "old": "## 5.13 Dark matter\n\n*At the door.*\n\n**The observing.**",
+  "new": "## 5.13 Dark matter\n\n*At the door.*\n\n**The observing.**",
+  "verdict": "KEEP",
+  "why": "Heading kept exactly; labels *At the door* and *The observing* kept as the entry form's names (3.2, 7.5)."
+ },
+ {
+  "old": "No member resolved at any detector.",
+  "new": "No member resolved with any detector.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Empty at member; at galaxy each curve its own. Observed **is** at that grain.",
+  "new": "Empty with member; with galaxy each curve its own. Observed **is** with that grain.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Visible and posted coupling both ways, gas stopped at collision and mass passing.",
+  "new": "Visible and posted coupling both ways, gas stopped with collision and mass passing.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Binding exceeding visible parts summed — the whole observing.",
+  "new": "Binding exceeding visible parts summed — their whole observing.",
+  "verdict": "RESAY",
+  "why": "the whole: their whole."
+ },
+ {
+  "old": "Excess carried under word dark, in solar masses and as a fraction of the whole, open.",
+  "new": "Excess carried under word dark, with solar masses and as a fraction of the universe's whole, open.",
+  "verdict": "RESAY",
+  "why": "in units: with; the whole: the universe's whole, one and only one."
+ },
+ {
+  "old": "Scale at which curves flatten.",
+  "new": "Scale of curves flattening.",
+  "verdict": "RESAY",
+  "why": "at which: of, by meaning."
+ },
+ {
+  "old": "Caught at 8 and 9, **state**. Not passed at 1.",
+  "new": "Caught with 8 and 9, **state**. Not passed with 1.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Candidate under the guard at 7.7: observings beyond closure and no member arrived, nearer Neptune than Vulcan and standing at neither.",
+  "new": "Candidate under 7.7's guard: observings outward of closure and no member arrived, nearer Neptune than Vulcan and standing with neither.",
+  "verdict": "RESAY",
+  "why": "the guard at 7.7: 7.7's guard; beyond: outward of; at: with."
+ },
+ {
+  "old": "**Name and use.** Dark matter, at two uses: excess binding installed as a substance made of particles standing in galaxies and clusters; and acceleration scale at which curves flatten installed as a constant of nature.",
+  "new": "**Name and use.** Dark matter, with two uses: excess binding installed as a substance made of particles standing within galaxies and clusters; and acceleration scale of curves flattening installed as a constant of nature.",
+  "verdict": "RESAY",
+  "why": "Label kept; at: with; in: within; at which: of, by meaning."
+ },
+ {
+  "old": "Operational use — excess itself, in a field's units — is accounting, and word dark is a residual word for an absence, which installs nothing; sentence installs.",
+  "new": "Operational use — excess itself, with a field's units — is accounting, and word dark is a residual word for an absence, which installs nothing; sentence installs.",
+  "verdict": "RESAY",
+  "why": "in: with."
+ },
+ {
+  "old": "**Standing.** Candidate under the guard, nearer Neptune than Vulcan.",
+  "new": "**Standing.** Candidate under 7.7's guard, nearer Neptune than Vulcan.",
+  "verdict": "RESAY",
+  "why": "the guard: 7.7's guard."
+ },
+ {
+  "old": "Candidacy is not a doubt about observings, which stand; it is the door's observing that no member has arrived at line 1 and no re-alternation has carried observings without post.",
+  "new": "Candidacy is not a doubt about observings, which stand; it is the door's observing that no member has arrived with line 1 and no re-alternation has carried observings without post.",
+  "verdict": "RESAY",
+  "why": "at: with; *the door* kept as 7.5's one door."
+ },
+ {
+  "old": "**Substrate and society.** Galaxies and their gas and stars;",
+  "new": "**Substrate and society.** Galaxies and their gas and stars;",
+  "verdict": "KEEP",
+  "why": "Label *Substrate and society* kept as the entry form's name (3.2)."
+ },
+ {
+  "old": "**Installation kind.** State, at 8 and 9.",
+  "new": "**Installation kind.** State, with 8 and 9.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Cluster velocities exceeding visible binding, 1933; rotation curves flat to edge of visible disc, 1970s; lensing mass offset from shocked gas in a colliding pair, 2006;",
+  "new": "Cluster velocities exceeding visible binding, 1933; rotation curves flat to edge of visible disc, 1970s; lensing mass offset from shocked gas in a colliding pair, 2006;",
+  "verdict": "KEEP",
+  "why": "Field account: a field's own words and dated record, by 3.2 without natural translation."
+ },
+ {
+  "old": "background fit at about a quarter of the whole in cold dark matter, a twentieth in ordinary matter and two-thirds in dark energy, 2018 to 2020; direct searches for particles returning limits and no signal; and alternative post, a modified force law below an acceleration scale, 1983.",
+  "new": "background fit at about a quarter of the whole in cold dark matter, a twentieth in ordinary matter and two-thirds in dark energy, 2018 to 2020; direct searches for particles returning limits and no signal; and alternative post, a modified force law below an acceleration scale, 1983.",
+  "verdict": "KEEP",
+  "why": "Field account: a field's own fit, fractions and dated record, kept."
+ },
+ {
+  "old": "**Field observings retained.** All of above as observings; fraction of the whole; halo profiles; limits.",
+  "new": "**Field observings retained.** All of above as observings; fraction of the universe's whole; halo profiles; limits.",
+  "verdict": "RESAY",
+  "why": "Label kept; the whole: the universe's whole, one and only one, as at line 8."
+ },
+ {
+  "old": "Gravitational ledger closes at each galaxy with a posted mass distribution; cosmological ledger closes with a posted density parameter; alternative closes with a posted scale.",
+  "new": "Gravitational ledger closes with each galaxy by a posted mass distribution; cosmological ledger closes with a posted density parameter; alternative closes with a posted scale.",
+  "verdict": "RESAY",
+  "why": "at: with; second with re-said by."
+ },
+ {
+  "old": "**Living changing.** Galaxies moving and merging;",
+  "new": "**Living changing.** Galaxies moving and merging;",
+  "verdict": "KEEP",
+  "why": "Label *Living changing* kept as the entry form's name (3.2)."
+ },
+ {
+  "old": "**Observing between.** Light and lensing as the only couplings; detector thresholds; force law assumed in reading curves.",
+  "new": "**Observing between.** Light and lensing as the only couplings; detector thresholds; force law assumed with reading curves.",
+  "verdict": "RESAY",
+  "why": "*the only* kept, one and only; in: with."
+ },
+ {
+  "old": "**Uncarried remainder.** No member arrived at line 1.",
+  "new": "**Uncarried remainder.** No member arrived with line 1.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Two ways at the guard, and entry standing at neither.",
+  "new": "Two ways with 7.7's guard, and entry standing with neither.",
+  "verdict": "RESAY",
+  "why": "at: with; the guard: 7.7's guard."
+ },
+ {
+  "old": "(6) Members remain uncarried by the still, and that is an entry's whole standing.",
+  "new": "(6) Members remain uncarried by its still, and that is an entry's whole standing.",
+  "verdict": "RESAY",
+  "why": "the still: its still."
+ },
+ {
+  "old": "Space-enumerating at ledger closed by post.",
+  "new": "Space-enumerating with ledger closed by post.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Line-demanding at scale as a cut.",
+  "new": "Line-demanding with scale as a cut.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Origin-seeking at a substance behind excess.",
+  "new": "Origin-seeking with a substance behind excess.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Magnitude-demanding at fraction of the whole fixed as a content.",
+  "new": "Magnitude-demanding with fraction of the universe's whole fixed as a content.",
+  "verdict": "RESAY",
+  "why": "at: with; the whole: the universe's whole."
+ },
+ {
+  "old": "**Eight-side society.** Within, galaxies are bounded, curves selected, lenses prepared, fits compared.",
+  "new": "**Eight-side society.** Within, galaxies are bounded, curves selected, lenses prepared, fits compared.",
+  "verdict": "KEEP",
+  "why": "Label *Eight-side society* kept as the entry form's name (3.2)."
+ },
+ {
+  "old": "At betweens, detectors couple to nothing yet, modellers post, alternative community posts otherwise, and analyst draws boundary.",
+  "new": "With betweens, detectors couple to nothing yet, modellers post, alternative community posts otherwise, and analyst draws boundary.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "A member arriving at a detector — the guard's Neptune — ends candidacy at substance use, and scale-as-constant use is then observed at its own line.",
+  "new": "A member arriving with a detector — 7.7's Neptune — ends candidacy with substance use, and scale-as-constant use is then observed with its own line.",
+  "verdict": "RESAY",
+  "why": "at: with; the guard's: 7.7's."
+ },
+ {
+  "old": "A re-alternation carrying curves, lensing offset and peaks without post and without an exception ledger — the guard's Vulcan — releases entry; failing that, candidate stands with both breakings explicit.",
+  "new": "A re-alternation carrying curves, lensing offset and peaks without post and without an exception ledger — 7.7's Vulcan — dissolves entry; failing that, candidate stands with both breakings explicit.",
+  "verdict": "RESAY",
+  "why": "the guard's: 7.7's; releases: dissolves, an entry that leaves."
+ },
+ {
+  "old": "Living: 7.7, the guard; 7.8, the door observing; 5.1, posted nothing that closes a general ledger, of which this is astronomical form; TWENTY-FIVE 2.14, the guard's Neptune, and 2.15, the other candidate; Natural Physics, reaching yet.",
+  "new": "Living: 7.7, a guard; 7.8, door observing; 5.1, posted nothing that closes a general ledger, of which this is astronomical form; TWENTY-FIVE 2.14, 7.7's Neptune, and 2.15, its other candidate; Natural Physics, reaching yet.",
+  "verdict": "RESAY",
+  "why": "the guard: a guard, 7.7's; the door observing: door observing, as 7.8 names it; the other: its other."
+ },
+ {
+  "old": "Beyond: 8.2, items 28 to 30.",
+  "new": "Outward: 8.2, items 28 to 30.",
+  "verdict": "RESAY",
+  "why": "beyond: outward, a kept word, for Part Eight's outside addresses."
+ },
+ {
+  "old": "*The report.*\n\n**Re-alternation.** Excess is members not agreeing with force law under one observing. Entry carries it open and it is observed at the guard, which is honest standing.",
+  "new": "*The report.*\n\n**Re-alternation.** Excess is members not agreeing with force law under one observing. With entry it is carried open and observed with 7.7's guard, an honest standing.",
+  "verdict": "RESAY",
+  "why": "Labels kept (3.3); doer, an entry carrying: carried with entry; at the guard: with 7.7's guard."
+ },
+ {
+  "old": "**What the field already released.** Word itself is a field's honest name for an absence; dark installs nothing.",
+  "new": "**What the field already released.** Word itself is a field's honest name for an absence; dark installs nothing.",
+  "verdict": "KEEP",
+  "why": "Label *What the field already released* kept as the report form's name (3.3)."
+ },
+ {
+  "old": "The field also keeps both posts alive and tests each, which is the guard carried by the field.",
+  "new": "Its field also carries both posts living and tests each: 7.7's guard carried by its field.",
+  "verdict": "RESAY",
+  "why": "The field: its field; keeps: carries; the guard: 7.7's guard."
+ },
+ {
+  "old": "Entropy at 5.1 is the same accounting move at thermodynamics.",
+  "new": "Entropy of 5.1 is one same accounting move with thermodynamics.",
+  "verdict": "RESAY",
+  "why": "at an address: of; the same: one same; at: with."
+ },
+ {
+  "old": "Star at TWENTY-FIVE 2.14 is the guard's Neptune, and cosmos at 2.15 its other candidate.",
+  "new": "Star of TWENTY-FIVE 2.14 is 7.7's Neptune, and cosmos of 2.15 its other candidate.",
+  "verdict": "RESAY",
+  "why": "at an address: of; the guard's: 7.7's."
+ },
+ {
+  "old": "Three together are the guard's whole range.",
+  "new": "Three together are its guard's whole range.",
+  "verdict": "RESAY",
+  "why": "the guard's: its guard's, 7.7's."
+ },
+ {
+  "old": "**Progress.** The first candidate entered in full under the guard, with its two breakings explicit and neither taken.",
+  "new": "**Progress.** The first candidate entered whole under 7.7's guard, with its two breakings explicit and neither taken.",
+  "verdict": "RESAY",
+  "why": "*The first* an only first, kept; in full: whole; the guard: 7.7's guard."
+ },
+ {
+  "old": "**Possibling.** Acceleration-scale post observed at its own door line as a floor; and detectors' limits entered as a field's own line 1 record.",
+  "new": "**Possibling.** Acceleration-scale post observed with its own door line as a floor; and detectors' limits entered as a field's own line 1 record.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "At field register, chemical bond is a relation involving electron density, electrostatic interaction, ledger-magnitude change, and molecular structure between atomic centres, and shared density is owned by neither centre; a field's own name for what cannot be assigned to either partner is *exchange*.",
+  "new": "With field register, chemical bond is a relation involving electron density, electrostatic interaction, ledger-magnitude parity-changing, and molecular structure between atomic centres, and shared density is owned by neither centre; a field's own name for what cannot be assigned to either partner is *exchange*.",
+  "verdict": "RESAY",
+  "why": "at: with; change: parity-changing; *exchange* a word mentioned, kept."
+ },
+ {
+  "old": "**Bond is a between of two selves, living at natural side**, coupling itself and no accounting of one.",
+  "new": "**Bond is a between of two selves, living with natural side**, coupling itself and no accounting of one.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "**Ghost at this use:** bond as a literal connector object that independently pulls, stores, or commands atoms while coupled electronic and nuclear changing is left out.",
+  "new": "**Ghost at this use:** bond as a literal connector object that independently pulls, stores, or commands atoms while coupled electronic and nuclear parity-changing is excluded.",
+  "verdict": "RESAY",
+  "why": "*at this use* a standing's phrase (3.1), kept; changing: parity-changing; left out: excluded."
+ },
+ {
+  "old": "**Address is accounting, and behaviour is a coupling's own**: count and addresses stand at ledger side, exact and kept, and chemistry is made at couplings.",
+  "new": "**Address is accounting, and behaviour is a coupling's own**: count and addresses stand with ledger side, exact and not-changing, and chemistry is made with couplings.",
+  "verdict": "RESAY",
+  "why": "at: with; kept: not-changing."
+ },
+ {
+  "old": "A field's chartered body has stated where table is a drawing, composition of group three a matter of convention and undecidable on elements' properties (Hard Problem Registry 21), and elements sit in their configurations, undecided and complete.",
+  "new": "A field's chartered body has stated where table is a drawing, composition of group three a matter of convention and undecidable on elements' properties (Hard Problem Registry 21), and elements sit with their configurations, undecided and complete.",
+  "verdict": "RESAY",
+  "why": "in: with; the body's statement before it is a field's record, kept."
+ },
+ {
+  "old": "**Ghost at this use:** a flat table treated as causal source of chemical behaviour, with exceptions discarded to keep address perfect; and a turn installed in addresses, a sum of shell capacities, `2 + 8 + 18 + 32 = 60`, made a position elements turn at, where rows carry doubling, 2, 8, 8, 18, 18, 32, 32, and no position carries at sixty.",
+  "new": "**Ghost at this use:** a flat table treated as causal source of chemical behaviour, with exceptions discarded so address stands perfect; and a turn installed within addresses, a sum of shell capacities, `2 + 8 + 18 + 32 = 60`, made a position of elements' turning, where rows carry doubling, 2, 8, 8, 18, 18, 32, 32, and no position carries with sixty.",
+  "verdict": "RESAY",
+  "why": "*at this use* kept; to keep: so it stands; in: within; turn at: turning; at: with; inline code kept."
+ },
+ {
+  "old": "The second stands confirmed in natural register at 7.1: elements carry parallel side at Natural Chemistry 4.4 and turn is reached at couplings at 4.5, white paper carrying number at its two sides and instance at no line (Natural Intelligence 6.9).",
+  "new": "The second stands confirmed in natural register with 7.1: elements carry parallel side with Natural Chemistry 4.4 and turn is reached with couplings of 4.5, white paper carrying number with its two sides and instance with no line (Natural Intelligence 6.9).",
+  "verdict": "RESAY",
+  "why": "*The second* an only second of two, kept; *confirmed in natural register* a standing's name (3.2), kept; at: with, of."
+ },
+ {
+  "old": "The hardest arrivals, configuration irregularities, changing trends, relativistic effects, reactivity of heavier noble gases, and calculated oganesson properties, stay in table rather than outward of it.",
+  "new": "The hardest arrivals, configuration irregularities, parity-changing trends, relativistic effects, reactivity of heavier noble gases, and calculated oganesson properties, stay within table rather than outward of it.",
+  "verdict": "RESAY",
+  "why": "*The hardest* an only first, kept; changing: parity-changing; in: within."
+ },
+ {
+  "old": "A detector event is emanation: what a coupling lands at a between, momentary.",
+  "new": "A detector event is emanation: what a coupling lands with a between, momentary.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "**Installation is the binary.** Without installation, term stands living, emanation, or accounting at that use, and a fourth placing arrives nowhere.",
+  "new": "**Installation is the binary.** Without installation, term stands living, emanation, or accounting with that use, and a fourth placing arrives nowhere.",
+  "verdict": "RESAY",
+  "why": "*the binary* is one and only, as Part Six's heading names it, kept; at: with; *nowhere* stands already."
+ },
+ {
+  "old": "Kelvin stood defined at triple point of water, `273.16 K` exactly, from 1954 until 2019, and stands since on a fixed Boltzmann constant; the same redefinition fixed Planck constant, elementary charge and Avogadro constant exactly, magnitudes made counts by definition.",
+  "new": "Kelvin stood defined by triple point of water, `273.16 K` exactly, from 1954 until 2019, and stands since on a fixed Boltzmann constant; one same redefinition fixed Planck constant, elementary charge and Avogadro constant exactly, magnitudes made counts by definition.",
+  "verdict": "RESAY",
+  "why": "at: by; the same: one same; inline code and measurements kept."
+ },
+ {
+  "old": "**A declared floor is accounting, and the field released this one at its own between**, a positive control beside minimal residual disease at 5.6: installation released, observings whole, accounting standing on a different declaration.",
+  "new": "**A declared floor is accounting, and its field moved this one with its own between**, a positive control beside minimal residual disease of 5.6: installation dissolved, observings whole, accounting standing on a different declaration.",
+  "verdict": "RESAY",
+  "why": "the field: its field; released this one: moved, as 6.4's heading says; at: with, of; installation released: dissolved."
+ },
+ {
+  "old": "Triple point itself is a field's one point of zero degrees of freedom, three phases coupling at one point, and it stands at Natural Chemistry 6.1.",
+  "new": "Triple point itself is a field's one point of zero degrees of freedom, three phases coupling with one point, and it stands with Natural Chemistry 6.1.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "A hand is a parity a molecule carries, and the field books it three ways that derive from one another nowhere: R and S by priority at centre, D and L by reference to glyceraldehyde, (+) and (−) by sign of optical rotation; L-alanine is (S) and L-cysteine is (R).",
+  "new": "A hand is a parity a molecule carries, and its field books it three ways that derive from one another nowhere: R and S by priority around centre, D and L by reference to glyceraldehyde, (+) and (−) by sign of optical rotation; L-alanine is (S) and L-cysteine is (R).",
+  "verdict": "RESAY",
+  "why": "the field: its field; at centre: around centre; *nowhere* stands already; labels kept."
+ },
+ {
+  "old": "**Each label is accounting at its own convention**, and ghost only where a label is installed as hand.",
+  "new": "**Each label is accounting with its own convention**, and ghost only where a label is installed as hand.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Hand itself is emanation at every between where it is observed, one spiral's own parity, and shed hand at a wall, a coating, a residue is emanation standing outward of society (Natural Chemistry 2.2, 2.5).",
+  "new": "Hand itself is emanation with every between where it is observed, one spiral's own parity, and shed hand on a wall, a coating, a residue is emanation standing outward of a same-existing-society (Natural Chemistry 2.2, 2.5).",
+  "verdict": "RESAY",
+  "why": "at: with, on; society: a same-existing-society."
+ },
+ {
+  "old": "# PART SIX · THREE PLACINGS, AND INSTALLATION THE BINARY",
+  "new": "# PART SIX · THREE PLACINGS, AND INSTALLATION THE BINARY",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "## 6.4 A declared floor the field moved",
+  "new": "## 6.4 A declared floor the field moved",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "# PART SEVEN · THE INTAKE, AND WHERE THE REGISTRY REACHES NEXT",
+  "new": "# PART SEVEN · THE INTAKE, AND WHERE THE REGISTRY REACHES NEXT",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "Next chemistry entries are ordered by sharpness of changing beside apparent not-changing:",
+  "new": "Next chemistry entries are ordered by sharpness of parity-changing beside apparent not-changing:",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing; table header that follows kept."
+ },
+ {
+  "old": "| Candidate | Changing | Apparent not-changing | Exact edge |",
+  "new": "| Candidate | Changing | Apparent not-changing | Exact edge |",
+  "verdict": "KEEP",
+  "why": "Table header row, kept exactly."
+ },
+ {
+  "old": "| a turn at sixty in elements |",
+  "new": "| a turn with sixty, of elements |",
+  "verdict": "RESAY",
+  "why": "Cell: at: with; in: of."
+ },
+ {
+  "old": "one count and many substances, nuclides and couplings at each |",
+  "new": "one count and many substances, nuclides and couplings with each |",
+  "verdict": "RESAY",
+  "why": "Cell: at: with."
+ },
+ {
+  "old": "fixed as a position elements turn at |",
+  "new": "fixed as a position of elements' turning |",
+  "verdict": "RESAY",
+  "why": "Cell: turn at: turning, by meaning; inline code kept."
+ },
+ {
+  "old": "white paper carrying number at two sides and instance at Natural Chemistry 4.4 and 4.5; confirmed |",
+  "new": "white paper carrying number with two sides and instance with Natural Chemistry 4.4 and 4.5; confirmed |",
+  "verdict": "RESAY",
+  "why": "Cell: at: with; *the f-block's* earlier in this cell kept, one f-block only."
+ },
+ {
+  "old": "| operational ability to distinguish changes account |",
+  "new": "| operational ability to distinguish parity-changes account |",
+  "verdict": "RESAY",
+  "why": "Cell: changes: parity-changes."
+ },
+ {
+  "old": "| observing interval and boundary keep the still |",
+  "new": "| observing interval and boundary make its still |",
+  "verdict": "RESAY",
+  "why": "Cell: keep: make, nothing held; the still: its still."
+ },
+ {
+  "old": "| finite response changes across additions |",
+  "new": "| finite response parity-changes across additions |",
+  "verdict": "RESAY",
+  "why": "Cell: changes: parity-changes."
+ },
+ {
+  "old": "| catalytic and inactivation processes change at own rates |",
+  "new": "| catalytic and inactivation processes parity-change with own rates |",
+  "verdict": "RESAY",
+  "why": "Cell: change: parity-change; at: with."
+ },
+ {
+  "old": "| a maximum is product of changing rates, not a resting property |",
+  "new": "| a maximum is product of parity-changing rates, not a resting property |",
+  "verdict": "RESAY",
+  "why": "Cell: changing: parity-changing."
+ },
+ {
+  "old": "| electron density redistributing in a bonded crystal |",
+  "new": "| electron density redistributing within a bonded crystal |",
+  "verdict": "RESAY",
+  "why": "Cell: in: within."
+ },
+ {
+  "old": "and reply that an orbital is a basis function and an observable at no between;",
+  "new": "and reply that an orbital is a basis function and an observable with no between;",
+  "verdict": "RESAY",
+  "why": "Cell: at: with."
+ },
+ {
+  "old": "| coordinate is an accounting's own axis and transition-state ensemble wide at 5.5;",
+  "new": "| coordinate is an accounting's own axis and 5.5's transition-state ensemble wide;",
+  "verdict": "RESAY",
+  "why": "Cell: at an address: 5.5's."
+ },
+ {
+  "old": "**The silicon surface stands entered at 5.10**, temporal-along and spatial-across two directions of one changing, several frequency regions coupled, low-amplitude region below reliable dominant-frequency determination under that protocol and a natural not-changing at no observing, global coupling through external resistor attached as a paper's own mechanism.",
+  "new": "**Silicon surface stands entered as 5.10**, temporal-along and spatial-across two directions of one parity-changing, several frequency regions coupled, low-amplitude region below reliable dominant-frequency determination under that protocol and a natural not-changing with no observing, global coupling through external resistor attached as a paper's own mechanism.",
+  "verdict": "RESAY",
+  "why": "The: removed; at an address: as; changing: parity-changing; at: with."
+ },
+ {
+  "old": "Its living-return breaking is one reachable experiment, multifrequency clusters at zero external resistance.",
+  "new": "Its living-return breaking is one reachable experiment, multifrequency clusters with zero external resistance.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Proton and element stand entered at 5.8 and 5.9; turn at sixty in elements stands confirmed here, its six lines filled, instance standing at substrate exhibit and white paper carrying no observing; orbital as observed object and reaction coordinate as path stand candidate with their field controversies in a field's words, next chemistry entries.",
+  "new": "Proton and element stand entered as 5.8 and 5.9; turn with sixty, of elements, stands confirmed here, its six lines filled, instance standing with substrate exhibit and white paper carrying no observing; orbital as observed object and reaction coordinate as path stand candidate with their field controversies stated by a field's words, next chemistry entries.",
+  "verdict": "RESAY",
+  "why": "at an address: as; at: with; in: of, stated by."
+ },
+ {
+  "old": "| keep gene perturbations and sequence specificity whole |",
+  "new": "| gene perturbations and sequence specificity stay whole |",
+  "verdict": "RESAY",
+  "why": "Cell: keep: stay, nothing held."
+ },
+ {
+  "old": "| keep ligand, receptor, timing, localization, and response |",
+  "new": "| ligand, receptor, timing, localization, and response stay whole |",
+  "verdict": "RESAY",
+  "why": "Cell: keep: stay whole."
+ },
+ {
+  "old": "| a field's grouping of cells by a function installed as one society that senses, defends and kills, carrying receptors for antigens yet to arrive |",
+  "new": "| a field's grouping of cells by a function installed as one same-existing-society that senses, defends and kills, carrying receptors for antigens yet to arrive |",
+  "verdict": "RESAY",
+  "why": "Cell: society: same-existing-society."
+ },
+ {
+  "old": "| keep each cell at its own betweens within its tissue societies, each receptor assembled at its own cell, and immune, defence and kills as field words |",
+  "new": "| each cell stays with its own betweens within its tissue same-existing-societies, each receptor assembled with its own cell, and immune, defence and kills stay field words |",
+  "verdict": "RESAY",
+  "why": "Cell: keep: stays; at: with; societies: same-existing-societies; field words kept."
+ },
+ {
+  "old": "| keep composition, temperature, phase, and local dynamics |",
+  "new": "| composition, temperature, phase, and local dynamics stay whole |",
+  "verdict": "RESAY",
+  "why": "Cell: keep: stay whole."
+ },
+ {
+  "old": "| structural region installed as unilateral doer |",
+  "new": "| structural region installed as unilateral doer |",
+  "verdict": "KEEP",
+  "why": "Cell: *doer* names the installed ghost, no file or resolver doing, kept."
+ },
+ {
+  "old": "| keep rates, structures, mutations, solvent, and ensemble |",
+  "new": "| rates, structures, mutations, solvent, and ensemble stay whole |",
+  "verdict": "RESAY",
+  "why": "Cell: keep: stay whole."
+ },
+ {
+  "old": "| keep lesions, engrams, synapses, molecular changes, and recall behaviour |",
+  "new": "| lesions, engrams, synapses, molecular parity-changes, and recall behaviour stay whole |",
+  "verdict": "RESAY",
+  "why": "Cell: keep: stay whole; changes: parity-changes."
+ },
+ {
+  "old": "| keep age, context, trajectory, risk, and patient function |",
+  "new": "| age, context, trajectory, risk, and patient function stay whole |",
+  "verdict": "RESAY",
+  "why": "Cell: keep: stay whole."
+ },
+ {
+  "old": "| course and classification installed as one internal doer |",
+  "new": "| course and classification installed as one internal doer |",
+  "verdict": "KEEP",
+  "why": "Cell: *doer* names the installed ghost, kept."
+ },
+ {
+  "old": "| keep mechanisms and diagnostic discrimination; no metaphorical release |",
+  "new": "| mechanisms and diagnostic discrimination stay whole; no metaphorical dissolving |",
+  "verdict": "RESAY",
+  "why": "Cell: keep: stay whole; release: dissolving."
+ },
+ {
+  "old": "| relational treatment effects installed at patient or clinician only |",
+  "new": "| relational treatment effects installed with patient or clinician only |",
+  "verdict": "RESAY",
+  "why": "Cell: at: with."
+ },
+ {
+  "old": "| keep trial design, expectancy, natural history, and specific treatment effects |",
+  "new": "| trial design, expectancy, natural history, and specific treatment effects stay whole |",
+  "verdict": "RESAY",
+  "why": "Cell: keep: stay whole."
+ },
+ {
+  "old": "| keep first-person report, function, context, and longitudinal change |",
+  "new": "| first-person report, function, context, and longitudinal change stay whole |",
+  "verdict": "RESAY",
+  "why": "Cell: keep: stay whole; *longitudinal change* a clinical field's own measure, kept."
+ },
+ {
+  "old": "Consensus definition places persistence in population heterogeneity and a biphasic killing curve, while warning that bulk procedures need re-evaluation when a small subpopulation dominates survival.",
+  "new": "Consensus definition places persistence with population heterogeneity and a biphasic killing curve, while warning that bulk procedures need re-evaluation when a small subpopulation dominates survival.",
+  "verdict": "RESAY",
+  "why": "in: with; the consensus's own terms kept."
+ },
+ {
+  "old": "Changing and apparent not-changing arrive as killing of most cells beside survival without inherited resistance and often without a changed susceptibility measure.",
+  "new": "Parity-changing and apparent not-changing arrive as killing of most cells beside survival without inherited resistance and often without a parity-changed susceptibility measure.",
+  "verdict": "ASK",
+  "why": "Changing and changed re-said as parity-changing. But *most cells* and *often* are counts offered as likelihoods, statistics by the rules, and an all-or-none re-saying (*with no parity-changed susceptibility measure*) would state more than the field's record does; the best re-saying keeps them as a field's own counts. **To resolve:** keep *most* and *often* here as a field's own observed counts, or re-say them all or none?"
+ },
+ {
+  "old": "Ghost candidate is not persister cell; it is bulk average or one dormancy programme installed as the whole population response.",
+  "new": "Ghost candidate is not persister cell; it is bulk average or one dormancy programme installed as a whole population response.",
+  "verdict": "RESAY",
+  "why": "the whole: a whole; *bulk average* is a field's own measure, kept."
+ },
+ {
+  "old": "## 7.3 Physics, mathematics, and societies",
+  "new": "## 7.3 Physics, mathematics, and societies",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "Force family includes momentum-change accounting, gradient accounting, constraint force, effective force, field force, and force-as-pusher.",
+  "new": "Force family includes momentum-change accounting, gradient accounting, constraint force, effective force, field force, and force-as-pusher.",
+  "verdict": "KEEP",
+  "why": "*momentum-change* is a field's own change of momentum in its own sense, kept."
+ },
+ {
+  "old": "Operational force as momentum-change accounting remains accounting and stores no value; ghost-form begins where its magnitude is installed as pusher, source, or doer.",
+  "new": "Operational force as momentum-change accounting remains accounting and stores no value; ghost-form begins where its magnitude is installed as pusher, source, or doer.",
+  "verdict": "KEEP",
+  "why": "*momentum-change* a field's own term; *doer* names the installed ghost, kept."
+ },
+ {
+  "old": "Energy accounting remains accounting and stores no value; ghost-form begins where conserved magnitude is installed as capacity, substance, store, transfer, expenditure, or source of changing.",
+  "new": "Energy accounting remains accounting and stores no value; ghost-form begins where conserved magnitude is installed as capacity, substance, store, transfer, expenditure, or source of parity-changing.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing."
+ },
+ {
+  "old": "Gravity accounting remains accounting and stores no value; ghost-form begins where force, field, or geometry is installed as acting changing beneath free-fall, orbit, clock-rate difference, light-path difference, or measured strain.",
+  "new": "Gravity accounting remains accounting and stores no value; ghost-form begins where force, field, or geometry is installed as acting parity-changing beneath free-fall, orbit, clock-rate difference, light-path difference, or measured strain.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing."
+ },
+ {
+  "old": "Charge, field, vacuum, virtual particle, wavefunction, probability, time, arrow, and observer remain next physics families.",
+  "new": "Charge, field, vacuum, virtual particle, wavefunction, probability, time, arrow, and observer remain next physics families.",
+  "verdict": "KEEP",
+  "why": "*probability* named as a field's family, a mention and no likelihood offered, kept."
+ },
+ {
+  "old": "Each keeps its field word and field observings at one side, ledger closure at another, and installation at ghost side.",
+  "new": "Each carries its field word and field observings with one side, ledger closure with another, and installation with ghost side.",
+  "verdict": "RESAY",
+  "why": "keeps: carries; at: with."
+ },
+ {
+  "old": "Probability as calibrated distribution is accounting at that use while chance-as-selector is candidate.",
+  "new": "Probability as calibrated distribution is accounting with that use while chance-as-selector is candidate.",
+  "verdict": "RESAY",
+  "why": "at: with; *probability*, *distribution*, *chance* are field terms named, kept."
+ },
+ {
+  "old": "Natural Physics co-chains at 4.2, gravity a conservation accounting with no coupling under it, and at 4.4 and 4.8, wavefunction, observer, time and arrow.",
+  "new": "Natural Physics co-chains with 4.2, gravity a conservation accounting with no coupling under it, and with 4.4 and 4.8, wavefunction, observer, time and arrow.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "A ghost can enter when a fixed set, completed totality, universal space, origin, infinity, point, or zero is installed as a place the carrying inhabits.",
+  "new": "A ghost can enter when a fixed set, completed totality, universal space, origin, infinity, point, or zero is installed as a place carrying inhabits.",
+  "verdict": "RESAY",
+  "why": "the carrying: carrying."
+ },
+ {
+  "old": "Proof remains proof at its formal between.",
+  "new": "Proof remains proof with its formal between.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Ghost registry cannot overrule a theorem by metaphysics.",
+  "new": "A theorem is overruled by no metaphysics of a ghost registry.",
+  "verdict": "RESAY",
+  "why": "doer, a file deciding: re-said as the concept itself, a theorem not overruled."
+ },
+ {
+  "old": "Society candidates begin with control, maximal all-ten position profile already derived at Corus 17.1.",
+  "new": "Same-existing-society candidates begin with control, maximal all-ten position profile already derived with Corus 17.1.",
+  "verdict": "RESAY",
+  "why": "society: same-existing-society; at: with."
+ },
+ {
+  "old": "Other candidates–market, institution, nation, public opinion, intelligence score, productivity, risk score, reputation, and identity credential–enter only with an addressed society observing.",
+  "new": "Other candidates–market, institution, nation, public opinion, intelligence score, productivity, risk score, reputation, and identity credential–enter only with an addressed same-existing-society observing.",
+  "verdict": "RESAY",
+  "why": "society: same-existing-society."
  }
 ]

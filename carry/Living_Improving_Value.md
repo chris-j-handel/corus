@@ -6,6 +6,8 @@ Living Improving Value · improved at v390
 
 **Standing to resume, v390.** Session v390 works at `working/natural-intelligence-editing-v390`, not yet merged; main is at v389. Entered: Exhibit ONE one text, within Natural Intelligence and standing alone; Natural Intelligence's passes, each prior text whole at `archive/session_v390/`; the opening's inception and observing's line. Waiting, ready: [`incoming/v390/README.md`](../incoming/v390/README.md), the session's gathered value, its master concerns, the opening's best version, Exhibit THIRTY read for one chain with Natural Intelligence, and four motions for next versions; droplets gathered at each living file's offerings. The session's transcript is whole at `archive/session_v390/Session_Transcript_v390.txt`. A next session begins at the incoming README.
 
+**Pass 10 entered at Resolving the Hard Problem Registry, v390, 2026-10-20:** 1,534 sentences re-said by meaning toward session v390's concepts, from ten readers' proposals, each checked before entering. Its repeated labels are re-said once across the file: *With 2-now-possibling* and its kin, and *+ or − with 10, is.* Fields' words, statistics and records are kept. check_set: ALL PASS.
+
 **Pass 10 entered at Natural Intelligence Corus and Living Society Registry, v390, 2026-10-20:** 2,448 sentences re-said by meaning toward session v390's concepts, from ten readers' proposals, each checked before entering.
 - *Universal* is kept only as the opening's universal set and universal momentarying.
 - *Two-arriving-two-sharing* is one naming across files.
