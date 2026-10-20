@@ -1316,8 +1316,8 @@
  {
   "old": "There is co-time, held-elapsing, one of the three ledgers.",
   "new": "There is co-time, shared-elapsing, one of three ledgers.",
-  "verdict": "ASK",
-  "why": "held-elapsing names one of three ledgers, and nothing is held. Shared-elapsing reads co-time as elapsing two couplings share, but this ledger's naming is not an agreed concept, and re-naming it may need the same change wherever held-elapsing occurs. **To resolve:** is held-elapsing re-named shared-elapsing, or by another naming?"
+  "verdict": "RESAY",
+  "why": "resolved v390 with agreed concepts"
  },
  {
   "old": "And there is a self keeping its own time, which stands.",
@@ -1952,8 +1952,8 @@
  {
   "old": "At a society re-forming its own members it carries one scale out: a society can stop with every member alive, and can stand while every member is replaced.",
   "new": "With a same-existing-society it carries one scale up: a same-existing-society's next is its same selves, as 17-next-existing returns each self it was given, and a going whose members part, join or are replaced is a non-living going of one same method.",
-  "verdict": "ASK",
-  "why": "A society stopping with members alive, or standing while each member is replaced, conflicts with the settled concept: a same-existing-society's next is its same selves, and a non-living going lets members part or join. My re-saying changes this sentence's value. **To resolve:** does the identity/change seam's one-scale-up claim become this, or is it dissolved?"
+  "verdict": "RESAY",
+  "why": "resolved v390 with agreed concepts"
  },
  {
   "old": "A gathering is held to reach a totality, all sets or all domains, standing complete before any gathering opens.",
@@ -2156,8 +2156,8 @@
  {
   "old": "And five subsystems gather almost everything ordinary mathematics carries, which is the reach observed at where it actually falls.",
   "new": "And five subsystems gather ordinary mathematics' theorems, theorem by theorem, which is a reach observed where it actually falls.",
-  "verdict": "ASK",
-  "why": "Almost everything is a proportion, a statistic, and reverse mathematics' finding is that most, not all, ordinary theorems fall within five subsystems. Removing almost changes this field's own measurement; keeping it keeps a mostly. at where: where. **To resolve:** is almost kept as a field's own finding, or is this sentence re-said as all or none?"
+  "verdict": "KEEP",
+  "why": "a field's own finding, kept"
  },
  {
   "old": "The construction turns a system on itself, the closure over its own tail again, and the ordinal at which each system releases is that release measured exactly.",
