@@ -51,7 +51,11 @@ Relieves eight concerns.
 - **M7:** tri enters at 9, a span's between, and at 15, a last four-cycling's observing, and goes three names each time. Whether tri marks a between of a larger scale is offered for meaning.
 
 **Waiting on meaning, bothboth:**
-- **M6, seven along and nine across.** Counted with agreed names: odd names 1 to 17 are nine, and even names 2 to 16 are eight. A 0 is no name, no parity-offering. Does nine across count a 0, or are seven and nine counting something other than names?
+- **M6, seven along and nine across, from its source.** All odd is along and all even is across, as Exhibit ONE has 2, 6, 10 and 14 even and across, 9 and 17 odd and along. Its source: *7 alongs between 1 and 17 and 9 across in the same 8 momentaryings, the difference one number higher and one number lower, both forward from 1.*
+  - Along, odd, between 1 and 17: 3, 5, 7, 9, 11, 13 and 15, seven, one lower than eight.
+  - Across, even, forward from 1: 2, 4, 6, 8, 10, 12, 14, 16 and 18, nine, one higher than eight, 18 being a next 1's 2.
+  - An earlier reading counted across with a 0, reaching back before 1; a 0 is no name, and *forward from 1* never reaches back. Released.
+  - For agreeing: is across's ninth 18, a next momentarying's first even?
 
 ## Cluster 2 · one sense for parity and for other
 
@@ -200,4 +204,4 @@ Each line is agreed line by line. Meaning, bothboth.
 
 ## Largest cluster for meaning
 
-**Cluster 1, momentarying as one fractal,** relieves eight concerns and gives wording to many lines of an opening's walk. Its one question for meaning is M6, seven along and nine across. Cluster 2 follows: its one question decides about 220 sayings of a motion ahead.
+**Cluster 1, momentarying as one fractal,** relieves eight concerns and gives wording to many lines of an opening's walk. Its one question for meaning is M6: is across's ninth 18, a next momentarying's first even? Cluster 2 follows: its one question decides about 220 sayings of a motion ahead.
