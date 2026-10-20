@@ -986,8 +986,8 @@
  {
   "old": "Sixth pattern arrives at a writer-LLM between more frequently than at a lone-writer between.",
   "new": "With a writer-LLM between, sixth pattern arrives with every comparison; with a lone-writer between, not with every comparison.",
-  "verdict": "ASK",
-  "why": "'more frequently' is a count offered as likelihood; all or none, read from the next sentence ('similarity-claims at every comparison'), it becomes every comparison or not every; at: with. This sharpens a comparison to a claim of every case, which may change the sentence's value. To resolve: does a writer-LLM between bring sixth pattern with every comparison, as the next sentence says, so the all-or-none re-saying stands?"
+  "verdict": "KEEP",
+  "why": "a comparison observed, kept"
  },
  {
   "old": "LLM's training-substrate carries pattern-matching as one operation; pattern-matching at LLM's surface produces similarity-claims at every comparison without orthogonalization-for-competency.",
@@ -1352,8 +1352,8 @@
  {
   "old": "Do not use \"universal\" in corus or white paper.",
   "new": "With corus and white paper, \"universal\" is used only as a universe's own, one now-existing universal set and universal momentarying, and not as sweeping observer-framing.",
-  "verdict": "ASK",
-  "why": "in: with. This catch forbids \"universal\", but the agreed opening says 'one now-existing universal set' and 'universal momentarying', a same-existing-universe. Re-saying only in keeps a rule the agreed concepts contradict; my re-saying narrows it, which changes its value. To resolve: does catch 17 now read as narrowed to observer-sweep, or stand as a v314 record unchanged except in?"
+  "verdict": "RESAY",
+  "why": "resolved v390: the agreed opening says universal set and universal momentarying"
  },
  {
   "old": "18. **\"Inseparable\" as adjective — out.**",

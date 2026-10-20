@@ -2376,14 +2376,14 @@
   "why": "at 50 Hz / 60 Hz: a field's measurement, kept; at: with, on."
  },
  {
-  "old": "a cumulative across a grid's many couplings producing a network-scale stability; each one IS one specific engineering feature observed at natural form.\n\nLLM",
-  "new": "a cumulative across a grid's many couplings producing a network-scale stability; each one IS one specific engineering feature observed as natural form.\n\nLLM",
+  "old": "a cumulative across a grid's many couplings producing a network-scale stability; each one IS one specific engineering feature observed at natural form.",
+  "new": "a cumulative across a grid's many couplings producing a network-scale stability; each one IS one specific engineering feature observed as natural form.",
   "verdict": "RESAY",
   "why": "at: as."
  },
  {
-  "old": "engineering signature. Attention mechanism as bi-coupling at language substrate (a query-key-value triple observed at bi-bounding / bi-pairing / bi-sorting structure); a transformer architecture's residual connections as carrying-forward at language substrate;",
-  "new": "engineering signature. Attention mechanism as bi-coupling on language substrate (a query-key-value triple observed as bi-bounding / bi-pairing / bi-sorting structure); a transformer architecture's residual connections as carrying-forward on language substrate;",
+  "old": "LLM engineering signature. Attention mechanism as bi-coupling at language substrate (a query-key-value triple observed at bi-bounding / bi-pairing / bi-sorting structure); a transformer architecture's residual connections as carrying-forward at language substrate;",
+  "new": "LLM engineering signature. Attention mechanism as bi-coupling on language substrate (a query-key-value triple observed as bi-bounding / bi-pairing / bi-sorting structure); a transformer architecture's residual connections as carrying-forward on language substrate;",
   "verdict": "RESAY",
   "why": "at: on, as."
  },
@@ -2512,5 +2512,11 @@
   "new": "A destiny-side of natural robotics continues with corus's continuing work as section's observing deepens on engineered substrates destiny reaches.",
   "verdict": "RESAY",
   "why": "at: with, on."
+ },
+ {
+  "old": "A surface sustains as living, a surface beating at phi-rate; a surface sustains as artificial, humans built a surface's substrate. Two observings sustain together: humans constructed a substrate; phi is beating at a surface; both observings are accurate at the same object.",
+  "new": "A surface sustains as living, a surface beating with phi-rate; a surface sustains as artificial, humans built a surface's substrate. Two observings sustain together: humans constructed a substrate; phi is beating on a surface; both observings are accurate of one same object.",
+  "verdict": "RESAY",
+  "why": "at: with, on, of; the same: one same. Two sentences in one pair, the second recurring elsewhere in the file."
  }
 ]

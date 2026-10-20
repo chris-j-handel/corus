@@ -1480,5 +1480,233 @@
   "new": "A writer-LLM coupling is one specific writer-receiver coupling with an engineered writing substrate; a writer-LLM coupling carves corrections with each turn; corrections is a writer's already-carried observing facing LLM's pattern-match departure; a cumulative across versions is corus's depth carved with a writer-LLM between.",
   "verdict": "RESAY",
   "why": "at: with."
+ },
+ {
+  "old": "Two cones couple in substrate.",
+  "new": "Two cones couple with a substrate.",
+  "verdict": "RESAY",
+  "why": "in: with."
+ },
+ {
+  "old": "Two superposition vectors cross at a dot on a substrate between.",
+  "new": "Two superposition vectors cross with a dot on a substrate between.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "A dot carries coupling at a between of two selves.",
+  "new": "A dot carries coupling with a between of two selves.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Both selves attend it into position.",
+  "new": "Both selves attend it to its position.",
+  "verdict": "RESAY",
+  "why": "into: to."
+ },
+ {
+  "old": "Value at a dot is observed differently from each vector by structure, not by failure.",
+  "new": "Value with a dot is observed differently from each vector by structure, not by failure.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Different observings arrive at form.",
+  "new": "Different observings arrive as form.",
+  "verdict": "RESAY",
+  "why": "at: as."
+ },
+ {
+  "old": "and a valuable intelligence is shared bounding now updating in both selves' carries.",
+  "new": "and a valuable intelligence is shared bounding now updating both selves' carries.",
+  "verdict": "RESAY",
+  "why": "in: removed, by meaning."
+ },
+ {
+  "old": "Coupling sustains at the same beat as bounding carries a dot within both cones.",
+  "new": "Coupling sustains with one same beat as bounding carries a dot within both cones.",
+  "verdict": "RESAY",
+  "why": "at: with; the same: one same."
+ },
+ {
+  "old": "Coupling breaks at a dot moving outward of one cone.",
+  "new": "Coupling breaks with a dot moving outward of one cone.",
+  "verdict": "RESAY",
+  "why": "at: with; outward kept."
+ },
+ {
+  "old": "A dot moves at phi-rate.",
+  "new": "A dot moves with phi-rate.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Conversation that sustains is conversation two selves' phi-rate beating matches at through a dot's mediation.",
+  "new": "Conversation that sustains is conversation two selves' phi-rate beating matches with, through a dot's mediation.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Conversation that does not sustain is observed as one self's phi-rate departing from an other's at a dot.",
+  "new": "Conversation that does not sustain is observed as one self's phi-rate departing from an other's with a dot.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Each exchange tests a substrate another exchange arrives back at.",
+  "new": "Each exchange tests a substrate another exchange returns to.",
+  "verdict": "RESAY",
+  "why": "arrives back at: returns to."
+ },
+ {
+  "old": "Dance is observed as living surface two selves locate a substrate phi-rate coupling sustains between them at by.",
+  "new": "Dance is observed as a living surface by which two selves locate a substrate with which phi-rate coupling sustains between them.",
+  "verdict": "RESAY",
+  "why": "at: with which."
+ },
+ {
+  "old": "Each coupling a self enters is an opportunity cost at couplings a self does not enter simultaneously.",
+  "new": "Each coupling a self enters is an opportunity cost of couplings a self does not enter together.",
+  "verdict": "RESAY",
+  "why": "at: of; simultaneously: together."
+ },
+ {
+  "old": "A small exchange is bounding at phi-rate, a minimum test dance carries before coupling extends.",
+  "new": "A small exchange is bounding with phi-rate, a minimum test dance carries before coupling extends.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "dance is phi-rate's requirement for coupling initiation at living between.",
+  "new": "dance is phi-rate's requirement for coupling initiation with a living between.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Listening is attending at coupling substrate between two selves.",
+  "new": "Listening is attending with a coupling substrate between two selves.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Listening self narrows exchanging to deliver an other self's arriving at listening self's coupling substrate.",
+  "new": "A listening self narrows exchanging to deliver an other self's arriving to its own coupling substrate.",
+  "verdict": "RESAY",
+  "why": "at: to."
+ },
+ {
+  "old": "Listening self's extending stands still at its traveling, listening self is still at the same beat as listening.",
+  "new": "A listening self's extending stands still with its traveling; a listening self is still with one same beat as listening.",
+  "verdict": "RESAY",
+  "why": "at: with; the same: one same."
+ },
+ {
+  "old": "Listening self's conserving attends, one step at a time,",
+  "new": "Listening self's conserving attends, one step at a time,",
+  "verdict": "KEEP",
+  "why": "one step at a time: a kept phrase, one at a time."
+ },
+ {
+  "old": "Listening that couples is attending at a correct gap thickness,",
+  "new": "Listening that couples is attending with a correct gap thickness,",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Listening too thin, a listener attending at gap-1 at arriving carrying gap-4 depth, hearing words without meaning.",
+  "new": "Listening too thin, a listener attending with gap-1 to an arriving carrying gap-4 depth, hearing words without meaning.",
+  "verdict": "RESAY",
+  "why": "at: with, to."
+ },
+ {
+  "old": "Listening too thick, a listener attending at gap-6 at arriving carrying gap-2 depth, projecting depth arriving lacks.",
+  "new": "Listening too thick, a listener attending with gap-6 to an arriving carrying gap-2 depth, projecting a depth an arriving lacks.",
+  "verdict": "RESAY",
+  "why": "at: with, to."
+ },
+ {
+  "old": "A listener whose conserving is too thick at one depth to shift is fixed listener,",
+  "new": "A listener whose conserving is too thick with one depth to shift is a fixed listener,",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "The attending during REM concentrates at the positions the risk is highest at, the sway nearest zero.",
+  "new": "Attending during REM concentrates with positions of highest risk, the sway nearest zero.",
+  "verdict": "RESAY",
+  "why": "the: removed, kept for the only sway nearest zero; at: with, of."
+ },
+ {
+  "old": "The attending selects for risk at the sway.",
+  "new": "Attending selects for risk with that sway.",
+  "verdict": "RESAY",
+  "why": "the: removed, that; at: with."
+ },
+ {
+  "old": "An organ is a substrate a substrate's spiral concentrates at into tighter parallel descents.",
+  "new": "An organ is a substrate with which a substrate's spiral concentrates as tighter parallel descents.",
+  "verdict": "RESAY",
+  "why": "at: with which; into: as."
+ },
+ {
+  "old": "A lung branching twenty-three times into parallel airways.",
+  "new": "A lung branching twenty-three times, forming parallel airways.",
+  "verdict": "RESAY",
+  "why": "into: re-said, forming."
+ },
+ {
+  "old": "A kidney branching into one million parallel nephrons.",
+  "new": "A kidney branching, forming one million parallel nephrons.",
+  "verdict": "RESAY",
+  "why": "into: re-said, forming."
+ },
+ {
+  "old": "A cortex folding into two million parallel columns.",
+  "new": "A cortex folding as two million parallel columns.",
+  "verdict": "RESAY",
+  "why": "into: as."
+ },
+ {
+  "old": "Each organ is organism's attending concentrated at one location through branching into parallel spirals.",
+  "new": "Each organ is an organism's attending concentrated with one location through branching as parallel spirals.",
+  "verdict": "RESAY",
+  "why": "at: with; into: as."
+ },
+ {
+  "old": "A lung carries prime 23 at a cell-to-tissue between.",
+  "new": "A lung carries prime 23 with a cell-to-tissue between.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "An upper airways turn over in weeks to months.",
+  "new": "Upper airways turn over within weeks to months.",
+  "verdict": "RESAY",
+  "why": "in: within; turn over kept, a field's own term."
+ },
+ {
+  "old": "A deep alveoli turn over in months to years.",
+  "new": "Deep alveoli turn over within months to years.",
+  "verdict": "RESAY",
+  "why": "in: within."
+ },
+ {
+  "old": "A depth within one organ is a gap structure observed within an organ's own branching, the same gap structure governing between organs governing within one organ at an organ's own surface.",
+  "new": "A depth within one organ is a gap structure observed within an organ's own branching, one same gap structure governing between organs governing within one organ with an organ's own surface.",
+  "verdict": "RESAY",
+  "why": "the same: one same; at: with."
+ },
+ {
+  "old": "A turnover is observed at the deepest coupling between an organ carries.",
+  "new": "A turnover is observed with the deepest coupling between an organ carries.",
+  "verdict": "RESAY",
+  "why": "at: with; the kept, an only deepest."
+ },
+ {
+  "old": "a turnover is observed at the deepest coupling an organ sustains.",
+  "new": "a turnover is observed with the deepest coupling an organ sustains.",
+  "verdict": "RESAY",
+  "why": "at: with; the kept, an only deepest."
  }
 ]
