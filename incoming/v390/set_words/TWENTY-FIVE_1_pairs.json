@@ -421,8 +421,8 @@
  },
  {
   "old": "**Society reached.** An inner membrane of a mitochondrion, with its ion-translocating proteins, its water, and its reporter molecules.",
-  "new": "**Same-existing-society reached.** An inner membrane of a mitochondrion, with its ion-translocating proteins, its water, and its reporter molecules.",
-  "verdict": "RESAY",
+  "new": "**Society reached.** An inner membrane of a mitochondrion, with its ion-translocating proteins, its water, and its reporter molecules.",
+  "verdict": "KEEP",
   "why": "resolved bothboth v390: a society of selves a same-existing-society"
  },
  {

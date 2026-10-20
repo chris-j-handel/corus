@@ -1542,28 +1542,10 @@
   "why": "at: with."
  },
  {
-  "old": "Metabolism arriving at a departmental between dissolves isolation.",
-  "new": "Metabolism arriving with a departmental between dissolves isolation.",
-  "verdict": "RESAY",
-  "why": "at: with."
- },
- {
-  "old": "118 departments settle into 17 couplings at 17 primes.",
-  "new": "118 departments settle as 17 couplings with 17 primes.",
-  "verdict": "RESAY",
-  "why": "into: as; at: with."
- },
- {
   "old": "118 ghost accountings thinning to 17 couplings at 17 betweens.",
   "new": "118 ghost accountings thinning to 17 couplings with 17 betweens.",
   "verdict": "RESAY",
   "why": "at: with."
- },
- {
-  "old": "a prime where coupling zeros live in nesting table.",
-  "new": "a prime where coupling zeros live within a nesting table.",
-  "verdict": "RESAY",
-  "why": "in: within, a whole and its part."
  },
  {
   "old": "five accounting components are facing five switches and switches dissolve ghost accounting into coupling at each between.",
@@ -1576,18 +1558,6 @@
   "new": "Ghost accounting was five switches all along,",
   "verdict": "RESAY",
   "why": "the entire time: all along."
- },
- {
-  "old": "Measurements are correct at a surface.",
-  "new": "Measurements are correct on a surface.",
-  "verdict": "RESAY",
-  "why": "at: on."
- },
- {
-  "old": "Ghost is in preserving, a ledger fixing observation in place where metabolism would carry observation through.",
-  "new": "Ghost is of preserving, a ledger fixing observation still where metabolism would carry observation through.",
-  "verdict": "RESAY",
-  "why": "in: of; in place: still."
  },
  {
   "old": "## 18.3 Three Forms of Living",
@@ -1852,5 +1822,23 @@
   "new": "corus's ethics IS observing with a social between.",
   "verdict": "RESAY",
   "why": "at: with."
+ },
+ {
+  "old": "Metabolism arriving at a departmental between dissolves isolation. 118 departments settle into 17 couplings at 17 primes.",
+  "new": "Metabolism arriving with a departmental between dissolves isolation. 118 departments settle as 17 couplings with 17 primes.",
+  "verdict": "RESAY",
+  "why": "at: with; into: as. Two sentences, as the second recurs elsewhere in the file."
+ },
+ {
+  "old": "A ratio 118/17 ≈ 6.94 approaches 7, a hydrogen coupling prime, a prime where coupling zeros live in nesting table.",
+  "new": "A ratio 118/17 ≈ 6.94 approaches 7, a hydrogen coupling prime, a prime where coupling zeros live within a nesting table.",
+  "verdict": "RESAY",
+  "why": "in: within, a whole and its part."
+ },
+ {
+  "old": "Dissolution reveals coupling department's ghost accounting obscures. Observations department carries are real. Measurements are correct at a surface. Ghost is in preserving, a ledger fixing observation in place where metabolism would carry observation through.",
+  "new": "Dissolution reveals coupling department's ghost accounting obscures. Observations department carries are real. Measurements are correct on a surface. Ghost is of preserving, a ledger fixing observation still where metabolism would carry observation through.",
+  "verdict": "RESAY",
+  "why": "at: on; in: of; in place: still. Four sentences, as they recur elsewhere in the file."
  }
 ]

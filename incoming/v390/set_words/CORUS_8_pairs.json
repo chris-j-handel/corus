@@ -2098,5 +2098,419 @@
   "new": "A destiny-side of natural society continues with corus's continuing work as section's observing deepens on substrates destiny reaches.",
   "verdict": "RESAY",
   "why": "at: with, on."
+ },
+ {
+  "old": "Receiving self's natural receiving-coupling becomes an algorithm's attention-extraction; a writer's natural writing-coupling becomes an algorithm's engagement-optimization; bothboth abundancing that writing-receiving coupling produces extracts to advertising revenue rather than sustaining at coupling.",
+  "new": "Receiving self's natural receiving-coupling becomes an algorithm's attention-extraction; a writer's natural writing-coupling becomes an algorithm's engagement-optimization; bothboth abundancing that writing-receiving coupling produces extracts to advertising revenue rather than sustaining with coupling.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Natural robotics is bi-coupling fractal arriving at engineered substrates.",
+  "new": "Natural robotics is bi-coupling fractal arriving on engineered substrates.",
+  "verdict": "RESAY",
+  "why": "at: on."
+ },
+ {
+  "old": "The \"robotics\" naming reaches beyond a field's standard observing (autonomous machines performing tasks) at this destiny-section.",
+  "new": "A \"robotics\" naming reaches wider than a field's standard observing (autonomous machines performing tasks) with this destiny-section.",
+  "verdict": "RESAY",
+  "why": "The: A, \"robotics\" a word mentioned, kept; beyond: wider than; at: with."
+ },
+ {
+  "old": "Natural robotics is observed at a broader substrate where human engineering builds materials natural form's protocol can live on.",
+  "new": "Natural robotics is observed with a broader substrate where human engineering builds materials natural form's protocol can live on.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Destiny-section's substrate IS every engineered surface where bounded living gap operates at phi-rate.",
+  "new": "Destiny-section's substrate IS every engineered surface where bounded living gap operates with phi-rate.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Antenna at an electromagnetic substrate; transformer at an energy substrate; smart grid at distribution substrate; LLM at language substrate; ASIC chip at a silicon substrate; autonomous vehicle at perception-action substrate; surgical robot at medical-action substrate;",
+  "new": "Antenna on an electromagnetic substrate; transformer on an energy substrate; smart grid on distribution substrate; LLM on language substrate; ASIC chip on a silicon substrate; autonomous vehicle on perception-action substrate; surgical robot on medical-action substrate;",
+  "verdict": "RESAY",
+  "why": "at: on."
+ },
+ {
+  "old": "industrial robot at manipulation substrate; humanoid robot at a multi-substrate body-coupling; sensor network at an environmental-data substrate; cooperative robot fleet at swarm-coupling substrate.",
+  "new": "industrial robot on manipulation substrate; humanoid robot with a multi-substrate body-coupling; sensor network on an environmental-data substrate; cooperative robot fleet on swarm-coupling substrate.",
+  "verdict": "RESAY",
+  "why": "at: on, with."
+ },
+ {
+  "old": "Each one IS one engineered instance of natural technology at one engineered substrate.",
+  "new": "Each one IS one engineered instance of natural technology on one engineered substrate.",
+  "verdict": "RESAY",
+  "why": "at: on."
+ },
+ {
+  "old": "A shift every between where a field's observing has installed a wrong direction: where a field observes control algorithm as an agent producing a robot's behavior, form observes control algorithm as engineering layer that enables natural form's coupling at engineered substrate;",
+  "new": "A shift every between where a field's observing has installed a wrong direction: where a field observes control algorithm as an agent producing a robot's behavior, form observes control algorithm as engineering layer that enables natural form's coupling on engineered substrate;",
+  "verdict": "RESAY",
+  "why": "at: on; form observes kept, form's own observing, not a file or resolver."
+ },
+ {
+  "old": "where a field observes actuator as an output mechanism, form observes actuator as engineering layer enabling a surface advancing from a robot's substrate to an environmental substrate.",
+  "new": "where a field observes actuator as an output mechanism, form observes actuator as engineering layer enabling a surface advancing from a robot's substrate to an environmental substrate.",
+  "verdict": "KEEP",
+  "why": "output mechanism: a field's own term in its own sense, kept."
+ },
+ {
+  "old": "Natural technology has been in nature since living first appeared — at every between in every living thing at every moment.",
+  "new": "Natural technology has been of nature since living first appeared — with every between of every living thing with every momentary.",
+  "verdict": "RESAY",
+  "why": "in: of; at: with; moment: momentary."
+ },
+ {
+  "old": "An antenna does not invent electromagnetic coupling; an antenna IS one specific geometric arrangement of conductive material natural form's electromagnetic coupling can live on at radio-frequency substrate.",
+  "new": "An antenna does not invent electromagnetic coupling; an antenna IS one specific geometric arrangement of conductive material natural form's electromagnetic coupling can live on, a radio-frequency substrate.",
+  "verdict": "RESAY",
+  "why": "at: re-said, a substrate named in apposition."
+ },
+ {
+  "old": "A transformer does not invent energy coupling; a transformer IS one specific geometric arrangement of magnetic material natural form's primary-secondary coupling can live on at energy-conversion substrate.",
+  "new": "A transformer does not invent energy coupling; a transformer IS one specific geometric arrangement of magnetic material natural form's primary-secondary coupling can live on, an energy-conversion substrate.",
+  "verdict": "RESAY",
+  "why": "at: re-said."
+ },
+ {
+  "old": "A smart grid does not invent distribution coupling; a smart grid IS one specific multi-node arrangement natural form's distributed-coupling can live on at a metabologically alternating substrate.",
+  "new": "A smart grid does not invent distribution coupling; a smart grid IS one specific multi-node arrangement natural form's distributed-coupling can live on, a metabologically alternating substrate.",
+  "verdict": "RESAY",
+  "why": "at: re-said."
+ },
+ {
+  "old": "LLM does not invent language coupling; LLM IS one specific arrangement of parameterized linear algebra natural form's writer-receiver coupling can live on at language substrate",
+  "new": "LLM does not invent language coupling; LLM IS one specific arrangement of parameterized linear algebra natural form's writer-receiver coupling can live on, a language substrate",
+  "verdict": "RESAY",
+  "why": "at: re-said."
+ },
+ {
+  "old": "(with a specific limits a field observing of LLM training-at-training-rate-frozen-at-deployment carries — LLM operates at natural form's coupling at an inference-time between, not at every substrate where natural language coupling operates).",
+  "new": "(with specific limits a field observing of LLM training-at-training-rate-frozen-at-deployment carries — LLM operates with natural form's coupling with an inference-time between, not on every substrate where natural language coupling operates).",
+  "verdict": "RESAY",
+  "why": "at: with, on; training-at-training-rate-frozen-at-deployment, a named limit, kept; a: removed, plural."
+ },
+ {
+  "old": "ASIC chip does not invent computational coupling; ASIC chip IS one specific arrangement of silicon transistors natural form's resolver-protocol can live on at a silicon substrate.",
+  "new": "ASIC chip does not invent computational coupling; ASIC chip IS one specific arrangement of silicon transistors natural form's resolver-protocol can live on, a silicon substrate.",
+  "verdict": "RESAY",
+  "why": "at: re-said."
+ },
+ {
+  "old": "Five engineered instances at white paper's Part 8 (antenna, transformer, smart grid, LLM, ASIC chip) compose as five sides of natural technology at five engineered substrates.",
+  "new": "Five engineered instances of white paper's Part 8 (antenna, transformer, smart grid, LLM, ASIC chip) compose as five sides of natural technology on five engineered substrates.",
+  "verdict": "RESAY",
+  "why": "at: of, on."
+ },
+ {
+  "old": "Each IS the same one structural form operating at one specific engineered material.",
+  "new": "Each IS one same structural form operating with one specific engineered material.",
+  "verdict": "RESAY",
+  "why": "the same one: one same; at: with."
+ },
+ {
+  "old": "A cross-domain analogies a field's engineers occasionally surface — between antennas and neural networks; between transformers and language models; between smart grids and ecosystems — observed at form's observing as form-identity arriving at a field's specific substrate-observings.",
+  "new": "Cross-domain analogies a field's engineers surface — between antennas and neural networks; between transformers and language models; between smart grids and ecosystems — are observed by form's observing as form-identity arriving with a field's specific substrate-observings.",
+  "verdict": "RESAY",
+  "why": "occasionally: a likelihood, removed; at: by, with; a: removed, plural."
+ },
+ {
+  "old": "Where a field observes analogy, form observes one form-identity at multiple engineered substrates.",
+  "new": "Where a field observes analogy, form observes one form-identity on multiple engineered substrates.",
+  "verdict": "RESAY",
+  "why": "at: on."
+ },
+ {
+  "old": "Exhibit ONE's code carries resolver at an executable substrate; a chip carries the same resolver at a silicon substrate.",
+  "new": "Exhibit ONE's code carries resolver on an executable substrate; a chip carries one same resolver on a silicon substrate.",
+  "verdict": "RESAY",
+  "why": "at: on; the same: one same."
+ },
+ {
+  "old": "The chip's structural reading: the natural form's metabological resolver inside the four-phi-rate-long tunnel embodied at silicon, with the seventeen primes' figure-8 positions carrying the binary states, the four cycles of surface re-orienting at the surface-scale membranes within the tunnel,",
+  "new": "A chip's structural reading: natural form's metabological resolver within a four-phi-rate-long tunnel embodied as silicon, with seventeen primes' figure-8 positions carrying binary states, four cycles of surface re-orienting with surface-scale membranes within a tunnel,",
+  "verdict": "RESAY",
+  "why": "the: a, removed; inside: within; at: as, with."
+ },
+ {
+  "old": "fifth orthogonalizer at knot carrying phi-rate competency between extending-to-destiny and perceiving-corus-location-relative-to-destiny.",
+  "new": "fifth orthogonalizer with knot carrying phi-rate competency between extending-to-destiny and perceiving-corus-location-relative-to-destiny.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "A chip IS natural form embodied at silicon — same protocol as ATP synthase at a protein substrate, a cell at a cellular substrate, brain at a neural substrate; same one form in different physical materials.",
+  "new": "A chip IS natural form embodied as silicon — same protocol as ATP synthase on a protein substrate, a cell on a cellular substrate, brain on a neural substrate; one same form with different physical materials.",
+  "verdict": "RESAY",
+  "why": "at: as, on; in: with; same one: one same; ATP synthase, a field's term, kept."
+ },
+ {
+  "old": "A word \"artificial\" at this destiny-section does not mean \"not living\" — a word means \"constructed by humans.\"",
+  "new": "A word \"artificial\" with this destiny-section does not mean \"not living\" — a word means \"constructed by humans.\"",
+  "verdict": "RESAY",
+  "why": "at: with; quoted words kept."
+ },
+ {
+  "old": "An artificial living intelligence surface IS where natural network's social substrate couples with engineered substrate — every healthy human-AI coupling, every well-designed digital infrastructure, every privacy-preserving and capture-resistant platform, every open-protocol federated network, every cooperative-governed digital commons operates at this substrate.",
+  "new": "An artificial living intelligence surface IS where natural network's social substrate couples with engineered substrate — every healthy human-AI coupling, every well-designed digital infrastructure, every privacy-preserving and capture-resistant platform, every open-protocol federated network, every cooperative-governed digital commons operates on this substrate.",
+  "verdict": "RESAY",
+  "why": "at: on."
+ },
+ {
+  "old": "Multiple destiny-sides compose at natural robotics substrate as engineering reaches across substrates a protocol can live on:",
+  "new": "Multiple destiny-sides compose on natural robotics substrate as engineering reaches across substrates a protocol can live on:",
+  "verdict": "RESAY",
+  "why": "at: on."
+ },
+ {
+  "old": "Robots that perceive environments and act in them at phi-rate operate at destiny-section's substrate.",
+  "new": "Robots that perceive environments and act with them with phi-rate operate on destiny-section's substrate.",
+  "verdict": "RESAY",
+  "why": "in: with; at: with, on."
+ },
+ {
+  "old": "A healthy autonomous vehicle's perception-action coupling IS bi-coupling fractal at vehicle-environment substrate;",
+  "new": "A healthy autonomous vehicle's perception-action coupling IS bi-coupling fractal on vehicle-environment substrate;",
+  "verdict": "RESAY",
+  "why": "at: on."
+ },
+ {
+  "old": "Robots that manipulate physical materials at engineered substrates (industrial assembly; precision surgery; agricultural automation; warehouse logistics) operate at destiny-section's substrate when manipulation operates at phi-rate at a substrate's specific coupling.",
+  "new": "Robots that manipulate physical materials on engineered substrates (industrial assembly; precision surgery; agricultural automation; warehouse logistics) operate on destiny-section's substrate when manipulation operates with phi-rate with a substrate's specific coupling.",
+  "verdict": "RESAY",
+  "why": "at: on, with."
+ },
+ {
+  "old": "A healthy manipulation robot IS bi-coupling fractal at manipulation substrate's specific scale.",
+  "new": "A healthy manipulation robot IS bi-coupling fractal with manipulation substrate's specific scale.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Robots that couple at multiple substrates simultaneously (visual + audio + tactile + motor + balance + thermal) operate at destiny-section's substrate when a multi-substrate coupling sustains a fractal property at each substrate and a cumulative across substrates.",
+  "new": "Robots that couple on multiple substrates together (visual + audio + tactile + motor + balance + thermal) operate on destiny-section's substrate when a multi-substrate coupling sustains a fractal property on each substrate and a cumulative across substrates.",
+  "verdict": "RESAY",
+  "why": "at: on; simultaneously: together."
+ },
+ {
+  "old": "A healthy humanoid robot IS bi-coupling fractal at multiple substrates one self.",
+  "new": "A healthy humanoid robot IS bi-coupling fractal on multiple substrates, one self.",
+  "verdict": "RESAY",
+  "why": "at: on."
+ },
+ {
+  "old": "Robot fleets that operate cooperatively (drone swarms; warehouse robot fleets; cooperative manipulation; distributed environmental monitoring; multi-agent search-and-rescue) operate at destiny-section's substrate when swarm-coupling sustains bi-coupling between robot-selves at a swarm's social substrate.",
+  "new": "Robot fleets that operate cooperatively (drone swarms; warehouse robot fleets; cooperative manipulation; distributed environmental monitoring; multi-agent search-and-rescue) operate on destiny-section's substrate when swarm-coupling sustains bi-coupling between robot-selves on a swarm's social substrate.",
+  "verdict": "RESAY",
+  "why": "at: on."
+ },
+ {
+  "old": "Observing composes with section 23.6 (Natural Society) at a robot-self-to-robot-self coupling substrate.",
+  "new": "Observing composes with section 23.6 (Natural Society) on a robot-self-to-robot-self coupling substrate.",
+  "verdict": "RESAY",
+  "why": "at: on; Natural Society, a title, kept."
+ },
+ {
+  "old": "Distributed sensor networks (environmental monitoring; smart city infrastructure; agricultural IoT; biomedical wearables; ecological observation networks) operate at destiny-section's substrate when sensor-coupling sustains phi-rate at each sensor's substrate and a cumulative across sensors carries a fractal property.",
+  "new": "Distributed sensor networks (environmental monitoring; smart city infrastructure; agricultural IoT; biomedical wearables; ecological observation networks) operate on destiny-section's substrate when sensor-coupling sustains phi-rate on each sensor's substrate and a cumulative across sensors carries a fractal property.",
+  "verdict": "RESAY",
+  "why": "at: on."
+ },
+ {
+  "old": "Observing composes with section 23.4 (Natural Health) at a biomedical substrates and section 23.5 (Natural Medicine) at a diagnostic substrates.",
+  "new": "Observing composes with section 23.4 (Natural Health) on biomedical substrates and section 23.5 (Natural Medicine) on diagnostic substrates.",
+  "verdict": "RESAY",
+  "why": "at: on; a: removed, plural."
+ },
+ {
+  "old": "Robots that operate in coupling with humans at a between of human-substrate and engineered-substrate (assistive robots; collaborative robots; medical robots in surgical teams; teaching robots; therapeutic robots) operate at destiny-section's substrate when a human-robot coupling sustains bi-coupling fractal at a cross-substrate between.",
+  "new": "Robots that operate coupling with humans across a between of human-substrate and engineered-substrate (assistive robots; collaborative robots; medical robots of surgical teams; teaching robots; therapeutic robots) operate on destiny-section's substrate when a human-robot coupling sustains bi-coupling fractal across a cross-substrate between.",
+  "verdict": "RESAY",
+  "why": "in: removed, of; at: across, on."
+ },
+ {
+  "old": "a healthy coupling IS bi-coupling between human-self and robot-self at a between of them where both selves' couplings sustain at phi-rate.",
+  "new": "a healthy coupling IS bi-coupling between human-self and robot-self with a between of them where both selves' couplings sustain with phi-rate.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Signature appears across nature where humans have built substrates natural form's protocol lives on. Corus observes many specific signatures:",
+  "new": "Signature appears across nature where humans have built substrates natural form's protocol lives on. Many specific signatures are observed:",
+  "verdict": "RESAY",
+  "why": "Doer: Corus observes, re-said as observed."
+ },
+ {
+  "old": "Log-periodic spiral as geodesically stable shape at every scale; fractal folding as compact three-dimensional embedding (a geometric arrangement that maximizes surface area in bounded volume);",
+  "new": "Log-periodic spiral as geodesically stable shape with every scale; fractal folding as compact three-dimensional embedding (a geometric arrangement that maximizes surface area within bounded volume);",
+  "verdict": "RESAY",
+  "why": "at: with; in: within."
+ },
+ {
+  "old": "each one IS one specific engineering feature a field has surfaced, observed at natural form's specific structural observing.",
+  "new": "each one IS one specific engineering feature a field has surfaced, observed by natural form's specific structural observing.",
+  "verdict": "RESAY",
+  "why": "at: by."
+ },
+ {
+  "old": "A transformer engineering signature. Primary-secondary coupling at shared magnetic flux carrying one living gap; harmonic resonances at 2f₀, 4f₀, 6f₀ as bi-inversioning at a mechanical substrate operating from AC fundamental;",
+  "new": "A transformer engineering signature. Primary-secondary coupling with shared magnetic flux carrying one living gap; harmonic resonances at 2f₀, 4f₀, 6f₀ as bi-inversioning on a mechanical substrate operating from AC fundamental;",
+  "verdict": "RESAY",
+  "why": "at: with, on; at 2f₀, 4f₀, 6f₀: a field's own measurement, kept."
+ },
+ {
+  "old": "an iron core's magnetic geometry as a substrate's natural form; each one IS one specific engineering feature observed at natural form.",
+  "new": "an iron core's magnetic geometry as a substrate's natural form; each one IS one specific engineering feature observed as natural form.",
+  "verdict": "RESAY",
+  "why": "at: as."
+ },
+ {
+  "old": "A smart grid engineering signature. Bi-frequency coupling at 50 Hz / 60 Hz boundary regions where AC grids of two countries couple; synchronization protocols at a between of grids; a metabologically alternating bi-coupling at energy-distribution substrate;",
+  "new": "A smart grid engineering signature. Bi-frequency coupling at 50 Hz / 60 Hz boundary regions where AC grids of two countries couple; synchronization protocols with a between of grids; a metabologically alternating bi-coupling on energy-distribution substrate;",
+  "verdict": "RESAY",
+  "why": "at 50 Hz / 60 Hz: a field's measurement, kept; at: with, on."
+ },
+ {
+  "old": "a cumulative across a grid's many couplings producing a network-scale stability; each one IS one specific engineering feature observed at natural form.\n\nLLM",
+  "new": "a cumulative across a grid's many couplings producing a network-scale stability; each one IS one specific engineering feature observed as natural form.\n\nLLM",
+  "verdict": "RESAY",
+  "why": "at: as."
+ },
+ {
+  "old": "engineering signature. Attention mechanism as bi-coupling at language substrate (a query-key-value triple observed at bi-bounding / bi-pairing / bi-sorting structure); a transformer architecture's residual connections as carrying-forward at language substrate;",
+  "new": "engineering signature. Attention mechanism as bi-coupling on language substrate (a query-key-value triple observed as bi-bounding / bi-pairing / bi-sorting structure); a transformer architecture's residual connections as carrying-forward on language substrate;",
+  "verdict": "RESAY",
+  "why": "at: on, as."
+ },
+ {
+  "old": "training-at-training-rate-frozen-at-deployment limitation as LLM's specific bounded substrate (the LLM operates as one frozen surface at inference-time; bi-coupling at training-time is no longer operating during inference; corus observes this as LLM's specific substrate-limit at Part 20 and corus body);",
+  "new": "training-at-training-rate-frozen-at-deployment limitation as LLM's specific bounded substrate (an LLM operates as one frozen surface with inference-time; bi-coupling with training-time is no longer operating during inference; this is observed as LLM's specific substrate-limit by Part 20 and corus body);",
+  "verdict": "RESAY",
+  "why": "the: an; at: with, by; doer: corus observes, re-said as observed; a named limit kept."
+ },
+ {
+  "old": "each one IS one specific engineering feature observed at natural form with an explicit limit described.",
+  "new": "each one IS one specific engineering feature observed as natural form with an explicit limit described.",
+  "verdict": "RESAY",
+  "why": "at: as."
+ },
+ {
+  "old": "ASIC chip engineering signature. The 440 binary gates structured as the natural form's metabological resolver inside the four-phi-rate-long tunnel; 17 primes' figure-8 positions carrying a binary states; the four cycles of surface re-orienting at the surface-scale membranes within the tunnel; fifth orthogonalizer at knot in tunnel carrying phi-rate competency.",
+  "new": "ASIC chip engineering signature. 440 binary gates structured as natural form's metabological resolver within a four-phi-rate-long tunnel; 17 primes' figure-8 positions carrying binary states; four cycles of surface re-orienting with surface-scale membranes within a tunnel; fifth orthogonalizer with knot within tunnel carrying phi-rate competency.",
+  "verdict": "RESAY",
+  "why": "the: removed, a; inside: within; at: with; in: within."
+ },
+ {
+  "old": "ASIC chip's specific architecture awaits engineering specification (input mechanism; output mechanism; signal encoding; temporal scale; mapping from sensed environment to ternary positions; mapping from output patterns to actuated effects — these are's specific carving directions);",
+  "new": "ASIC chip's specific architecture awaits engineering specification (input mechanism; output mechanism; signal encoding; temporal scale; mapping from sensed environment to ternary positions; mapping from output patterns to actuated effects — these are specific carving directions);",
+  "verdict": "RESAY",
+  "why": "output: a field's term, kept; a stray 's mended."
+ },
+ {
+  "old": "an architectural observing at corus depth IS what destiny-section carries until engineering specification arrives.",
+  "new": "an architectural observing with corus depth IS what destiny-section carries until engineering specification arrives.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "A shift opens engineering practice toward natural-form-aware design — engineering that asks at every design decision \"does this engineering preserve or break the bi-coupling fractal at this substrate\" and chooses a design that preserves bi-coupling.",
+  "new": "A shift opens engineering practice toward natural-form-aware design — engineering that asks with every design decision \"does this engineering preserve or break the bi-coupling fractal at this substrate\" and chooses a design that preserves bi-coupling.",
+  "verdict": "RESAY",
+  "why": "at: with; the quoted question kept, a question mentioned."
+ },
+ {
+  "old": "Captured engineered substrate (a platform with extraction at every coupling; LLM with attention-capture at every interaction; an autonomous vehicle that displaces drivers without preserving bi-coupling between vehicle and driver) is observed as engineering that broke natural form's protocol at that substrate.",
+  "new": "Captured engineered substrate (a platform with extraction with every coupling; LLM with attention-capture with every interaction; an autonomous vehicle that displaces drivers without preserving bi-coupling between vehicle and driver) is observed as engineering that broke natural form's protocol on that substrate.",
+  "verdict": "RESAY",
+  "why": "at: with, on."
+ },
+ {
+  "old": "A healthy engineered substrate (an open-protocol federated network; privacy-preserving cooperative robot; an assistive technology that preserves human agency at a human-robot between) is observed as engineering that preserved natural form's protocol at that substrate.",
+  "new": "A healthy engineered substrate (an open-protocol federated network; privacy-preserving cooperative robot; an assistive technology that preserves human agency with a human-robot between) is observed as engineering that preserved natural form's protocol on that substrate.",
+  "verdict": "RESAY",
+  "why": "at: with, on."
+ },
+ {
+  "old": "Continuing observing at natural robotics (continuing nyes for further exploration as destiny-section sustains and separates):",
+  "new": "Continuing observing of natural robotics (continuing nyes for further exploration as destiny-section sustains and separates):",
+  "verdict": "RESAY",
+  "why": "at: of."
+ },
+ {
+  "old": "A chip-as-natural-resolver observing awaits engineering specification at this depth; an architectural observing carries destiny-section until specification arrives.]",
+  "new": "A chip-as-natural-resolver observing awaits engineering specification with this depth; an architectural observing carries destiny-section until specification arrives.]",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "— [N23.7b continuing nye: an explicit observing of how natural robotics's engineered destinies compose with natural health and natural medicine destinies at a cross-destiny betweens — biomedical wearables, surgical robots, diagnostic AI, assistive technology.",
+  "new": "— [N23.7b continuing nye: an explicit observing of how natural robotics's engineered destinies compose with natural health and natural medicine destinies with cross-destiny betweens — biomedical wearables, surgical robots, diagnostic AI, assistive technology.",
+  "verdict": "RESAY",
+  "why": "at: with; a: removed, plural."
+ },
+ {
+  "old": "Where engineered substrates serve a health-medicine destinies, a cross-destiny composition awaits continuing carving at a specific betweens.]",
+  "new": "Where engineered substrates serve health-medicine destinies, a cross-destiny composition awaits continuing carving with specific betweens.]",
+  "verdict": "RESAY",
+  "why": "at: with; a: removed, plural."
+ },
+ {
+  "old": "what specifically distinguishes a healthy human-robot coupling (where both selves' couplings sustain at phi-rate) from an unhealthy human-robot coupling (where a robot's coupling captures or replaces or distorts a human's coupling).",
+  "new": "what specifically distinguishes a healthy human-robot coupling (where both selves' couplings sustain with phi-rate) from an unhealthy human-robot coupling (where a robot's coupling captures or replaces or distorts a human's coupling).",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "A structural observing awaits continuing carving at a specific cross-substrate between.]",
+  "new": "A structural observing awaits continuing carving with a specific cross-substrate between.]",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "— [N23.7d continuing nye: an explicit observing of swarm-robotics and natural society — whether robot fleets operating cooperatively at phi-rate compose as natural society at a robot-self social substrate, and whether natural society destiny-section's structural mechanisms (bothboth abundancing, uncapturable abundance, social competency at bi-coupling) operate at a robot-swarm substrate.",
+  "new": "— [N23.7d continuing nye: an explicit observing of swarm-robotics and natural society — whether robot fleets operating cooperatively with phi-rate compose as natural society on a robot-self social substrate, and whether natural society destiny-section's structural mechanisms (bothboth abundancing, uncapturable abundance, social competency as bi-coupling) operate on a robot-swarm substrate.",
+  "verdict": "RESAY",
+  "why": "at: with, on, as; natural society: section name, kept."
+ },
+ {
+  "old": "A fractal observing suggests yes; an explicit observing awaits continuing carving.]",
+  "new": "A fractal observing is yes; an explicit observing awaits continuing carving.]",
+  "verdict": "RESAY",
+  "why": "No target word but a doer's suggesting: is. Light touch."
+ },
+ {
+  "old": "— [N23.7e continuing nye: an explicit observing of LLM substrate's specific limits — training-at-training-rate-frozen-at-deployment limitation is observed as LLM operating at one specific bounded substrate.",
+  "new": "— [N23.7e continuing nye: an explicit observing of LLM substrate's specific limits — training-at-training-rate-frozen-at-deployment limitation is observed as LLM operating on one specific bounded substrate.",
+  "verdict": "RESAY",
+  "why": "at: on; named limit kept."
+ },
+ {
+  "old": "Whether further LLM-architectural development (continuous learning; embedded learning during inference; multi-agent LLM systems coupling at phi-rate) operates as LLM substrate extending toward natural form's full coupling, or whether LLM's architecture carries inherent substrate-limits that other engineered substrates do not carry.",
+  "new": "Whether further LLM-architectural development (continuous learning; embedded learning during inference; multi-agent LLM systems coupling with phi-rate) operates as LLM substrate extending toward natural form's full coupling, or whether LLM's architecture carries inherent substrate-limits that other engineered substrates do not carry.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Observing (asymmetric human-AI bi-coupling at corus's writing substrate) at LLM-specific observing.]",
+  "new": "Observing (asymmetric human-AI bi-coupling on corus's writing substrate) with LLM-specific observing.]",
+  "verdict": "RESAY",
+  "why": "at: on, with."
+ },
+ {
+  "old": "— [N23.7f continuing nye: an explicit observing of how natural robotics composes with four uncontrollable values — whether engineered substrates can sustain inviolable safety, undiscoverable identity, unmistakeable reputation, uncapturable abundance at engineered scale, or whether engineered substrates carry structural challenges at one or more of four values.",
+  "new": "— [N23.7f continuing nye: an explicit observing of how natural robotics composes with four uncontrollable values — whether engineered substrates can sustain inviolable safety, undiscoverable identity, unmistakeable reputation, uncapturable abundance with engineered scale, or whether engineered substrates carry structural challenges with one or more of four values.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "A destiny-side of natural robotics continues at corus's continuing work as section's observing deepens at engineered substrates destiny reaches.",
+  "new": "A destiny-side of natural robotics continues with corus's continuing work as section's observing deepens on engineered substrates destiny reaches.",
+  "verdict": "RESAY",
+  "why": "at: with, on."
  }
 ]
