@@ -458,7 +458,7 @@ W1. Line 2 after the new 1a: welcomed, or released.
 W2. Three phase lines before line 10 (observing now with prior, possibling next with now, discovering prior with next): awaiting yes.
 W3. Changing alone at lines 15, 16, 33, 34, 37, 38 to dissolve.
 W4. Lines 3 to 40 not yet walked one at a time; lines drafted by Claude marked for agreement.
-W5. Same-existing is the living condition, and a non-living thing is not same-existing; yet the opening brings same-existing at line 4 and the universe as the same-existing set at line 9, before living arrives at lines 18 and 19.
+W5. Resolved: living is prior to 1-now-existing, the whole method a living self's, so same-existing at lines 4 to 9 speaks of living from the first line; living never arrives within the chain. Opened from it, W5a: what lines 18 to 24 then say, living being prior, and whether the opening says living is prior before line 1 or leaves it to the method.
 W6. Lines 18 and 24 to say now-living and now-existing both, and now-existing only.
 W7. Society named after line 22 or after the third living self; self and society as one living universal set met as one and as its selves.
 *Words across the set:* released (60 in Natural Intelligence, 31 in Exhibit ONE), held, beyond (12 and 5), changing alone (173 and 75), to dissolve at an agreed motion.
