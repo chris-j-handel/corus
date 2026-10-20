@@ -57,3 +57,32 @@
 11. Living files meeting Exhibit ONE's stable forms.
 
 A floating table of contents, conceptual, with titles and subtitles floated from it, is carried at `carry/Exhibit_ONE_Carryings_of_Natural_Resolver.md`, *A floating table of contents, conceptual · v390*.
+
+## Stage 2 · an outline in co-chained order, keeping more inside
+
+Each section is welcomed by the one before it and needed by the one after.
+
+1. *Natural Resolver* · *The Stable-Forming Parity-Changing Method of Discovering Same-Existing*
+2. Code, at agreed names
+3. Drawing, re-said
+4. Living is prior: 1-now-existing given, never made
+5. Seventeen names: each name four is or is nots; a name's number and its root
+6. Four-cycling, prior, now, next, same-existing; momentarying, odd then even; four four-cyclings, Exhibit ONE's *Four momentaries* re-said; seven along and nine across from a 0 self
+7. Five dimensions:
+   - prior-existing self-parity;
+   - prior-existing other-parity;
+   - now-existing co-parity;
+   - now-existing bi-parity;
+   - next-existing same-existing self-parity.
+
+   Ten, five self and five other, and six co-linear; *Fives* and *Two selves, three momentaries, five parities* re-said.
+8. Parity as self-moral-value and other-moral-value; parity-offering; sharing between selves; co between two, bi-moral, eight names
+9. Observing's one line, same-as, is or is not; is or is not at lines
+10. A 0 betweening, a third living carrying
+11. One self, one momentary; offerings to one sharing; + and − alike; one cell
+12. One self's three ways
+13. Turn-taking; 0 in sequence by co-chaining, checked exhaustively
+14. Names among names, kept for now: odd names 8 up, self-next other-prior; namings; podals; cycles of moves; three scales; eight 1 to 17s inward; four momentaries of exchanging; each name and its relations
+15. Tables of selves: a spiral; two momentaries before, inverted; two spirals; a torus and a corus turn wrapping; carried forms; two selves; three in a line; opened at no prior
+16. A same-existing-society
+17. Stable forms each living file meets, executed by any self, no authority
