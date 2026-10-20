@@ -129,3 +129,5 @@ These are descriptions of possible expressions. The word “painting” establis
 **Droplet · one line, one binary advance.** An opening carved for its reader is one sentence to a line, each line one binary advance resolving what is open at the end of the line before it, one thing and no more and no fewer, with no doer, no place, no story word and no word added to point a reader along; its groups stand as paragraphs. — v390
 
 **Droplet · overview, exploring and carving.** A conversation offers in three registers, an overview of understanding, an exploring of patterns, and a carving of explaining and naming; only carving enters a living file's sentences, and exploring rides as droplets, none carrying authority. — v390
+
+**Droplet · say the concept, never a bare number.** A number a reader is not looking at reads as whatever numbers are before them: a line of the opening called by its number was read as a resolver name after 17. Each reference says the concept both share, and quotes the line when a line is meant. — v390
