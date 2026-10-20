@@ -33,3 +33,15 @@ for word, pat in [('changing alone', r'(?<![\w-])changing\b(?!-)'), ('releas-', 
                   ('at', r'(?<![\w-])at(?![\w-])'), ('beyond', r'beyond'), ('held', r'\bheld\b'),
                   ('in', r'(?<![\w-])in(?![\w-])')]:
     print(word, len(re.findall(pat, prose, re.I)))
+
+import ast
+def _body(t):
+    m = ast.parse(t)
+    m.body = [n for n in m.body if not (isinstance(n, ast.Expr) and isinstance(getattr(n, 'value', None), ast.Constant))]
+    return m
+names = {'_1_now': '_1_now_existing', '_17_next_now': '_17_next_existing'}
+fa = [n.name for n in _body(re.search(r'```python\n(.*?)```', O, re.S).group(1)).body]
+fb = [n.name for n in _body(re.search(r'```python\n(.*?)```', D, re.S).group(1)).body]
+print('three functions, old and draft:', fa, fb)
+widest = max(len(l) for l in re.search(r'```python\n(.*?)```', D, re.S).group(1).split('\n'))
+print('widest code line:', widest)

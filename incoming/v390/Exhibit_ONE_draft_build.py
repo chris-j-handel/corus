@@ -231,7 +231,7 @@ def _narrow(block):
             keys.append('- *%s*: %s' % (k, h))
             others.append('*%s*' % k)
         else:
-            others.append('*%s*' % h if h else '')
+            others.append(('*%s*' % h if '*' not in h else h) if h else '')
     if keys:
         out.append('\n'.join(keys) + '\n')
     for r in body:
@@ -304,5 +304,116 @@ def narrow_tables(text):
     return '\n'.join(out)
 
 s = narrow_tables(s)
+
+# v390, third turn: re-said by meaning, *the* only for one and only one, *in* and *social* re-said
+R3 = [
+ ('**With a drawing.**', '**A drawing.**'),
+ ("its other is not the self;", "its other is not that self;"),
+ ("**Four binaries with the lines.** A universe is or is not existing, all, now and same, and with a self's span each binary is one pair of names, its *is* with an odd name and its *is not* with an even, its *is not* an other's side of a self's *is*; binaries are names' explaining,",
+  "**Four binaries with code's lines.** Existing, all, now and same are four is or is nots of things within the universe. With a self's span each binary is one pair of names: its *is* with an odd name and its *is not* with an even, its *is not* an other's side of a self's *is*. Binaries are names' explaining,"),
+ ("others' changings of their prior momentary", "others' parity-offerings from their prior momentary"),
+ ("*With the resolver*", "*Resolving*"),
+ ("**Is or is not with lines.** Each is or is not with lines is with 1-now-existing, three with 14-next-possibling, one with 12-next-co-same-existing and one with 11-next-co-observing, and one with 17-next-existing, a self's name between selves among 5-now-co-existing or not; 9-next-co-discovering has none,",
+  "**Is or is nots of code's lines.** Five is or is nots are 1-now-existing's: three with 14-next-possibling, one with 12-next-co-same-existing and one with 11-next-co-observing. One is 17-next-existing's, a self's name between selves among 5-now-co-existing or not. 9-next-co-discovering has none,"),
+ ('The between is within a bi-coupling', 'A between is within a bi-coupling'),
+ ('**The between, 0:', '**A between, 0:'),
+ ('**Name with the between:', '**Name with its between:'),
+ ('*Bi-coupling with the between*', '*Bi-coupling with its between*'),
+ ('the next prior (11)', 'a next prior (11)'),
+ ("- *a*: The self's next prior (11)", "- *a*: A self's next prior (11)"),
+ ("the self's next prior, is the first, the other's prior, inverted", "a self's next prior, is the first, an other's prior, inverted"),
+ ("*The other's prior (3), along", "*An other's prior (3), along"),
+ ("*The other's shared (10), across*", "*An other's shared (10), across*"),
+ ("*The self's prior, now (3), along*", "*A self's prior, now (3), along*"),
+ ("*The self's shared (10), across*", "*A self's shared (10), across*"),
+ ('**The prior (3)', '**A prior (3)'),
+ ('the parity shared;', 'its parity shared;'),
+ ('0 shared, the prior kept', '0 shared, its prior kept'),
+ ("One sharing; the self's prior − (3) first.", "One sharing; a self's prior − (3) first."),
+ ('**The eight:', '**Eight:'),
+ ('1 · 1, the spiral of one', '1 · 1, a spiral of one'),
+ ('each opened as the spiral of selves', 'each opened as a spiral of selves'),
+ ('*Sides*: social,', '*Sides*: same-existing-society,'),
+ ('*Sides*: other, social,', '*Sides*: other, same-existing-society,'),
+ ('other/self to other/social', 'other/self to other/same-existing-society'),
+ ('one name with resolver and in its explaining', 'one name with resolver and with its explaining'),
+ ('alike in length', 'of like length'),
+ ('its own six names, in another order', 'its own six names, with another order'),
+ ('alike or opposite in parity', 'of like or opposite parity'),
+ ("Each spiral's like pair in the first momentary", "Each spiral's like pair of the first momentary"),
+ ('A, B with their prior (3) in the first momentary.', 'A, B with their prior (3) with the first momentary.'),
+ ('offered to B in the first momentary', 'offered to B with the first momentary'),
+ ('Selves in each of two spirals', 'Selves of each of two spirals'),
+ ('Each cell shows selves in their coupling order', 'Each cell shows selves by their coupling order'),
+ ('**Three selves in a line.**', '**Three selves, one line.**'),
+ ('*The next prior (11)*', '*A next prior (11)*'),
+ ("Receiving the other's parity-offering", "Receiving its other's parity-offering"),
+ ('the selves alternate', 'its selves alternate'),
+ ('Names in order:', 'Names by order:'),
+]
+for a, b in R3:
+    if a not in s:
+        print('R3 not found:', a[:70])
+    s = s.replace(a, b)
+
+# v390, fourth turn: kept sections re-said by meaning
+R4 = [
+ ("*Resolved as*: 1 self prior, a self, its prior with 3, a formed set; 2 other prior, other selves' offerings of their prior momentary arriving, shared with 6 and 10 and going along with 9; 3 co-momentarying now, same prior with now, and 4 bi-momentarying now, each sharing, offerings surfaced with 14 arriving with it, now; 5 self next, each going to its receiving sharing next",
+  "*Resolved as*: 1 prior-existing self-parity, a self's prior with 3, a formed set; 2 prior-existing other-parity, other selves' parity-offerings from their prior momentary arriving, shared with 6 and 10 and going along with 9; 3 now-existing co-parity and 4 now-existing bi-parity, a sharing's two meetings, same or not same, a prior meeting parity-offerings surfaced with 14; 5 next-existing same-existing self-parity, a next prior with 11, each going to its receiving sharing next"),
+ ("*Resolved as*: with each sharing 4 prior with 3 couples with offerings surfaced with 14: next discovered, with 11",
+  "*Resolved as*: with each sharing, 4, a prior, 3, meets parity-offerings surfaced, 14: a next discovered, 11"),
+ ("0 with a match;", "0 with same;"),
+ ("\nBi-folding: each move 8 up (n + 8), 8 down (n − 8) or 17 less (17 − n)\n", "\nEach move is 8 up (n + 8), 8 down (n − 8) or 17 less (17 − n).\n"),
+ ("**Fives.**", "**Fives.** Each side's five are five dimensions, starting with its own 1, each side one parity separated from its next: one five is all fives."),
+ ("*Prior opening*:", "*Prior-existing self-parity*:"),
+ ("*Prior completing*:", "*Prior-existing other-parity*:"),
+ ("*Now opening*:", "*Now-existing co-parity*:"),
+ ("*Now completing*:", "*Now-existing bi-parity*:"),
+ ("*Next opening*:", "*Next-existing same-existing self-parity*:"),
+ ("offerings surfacing, each as it arrived, morality;", "parity-offerings surfacing, each as it arrived, bi-moral;"),
+ ("**One move, 1 to 8.** 8 up keeps each name's kind but with 1 and 5, with which now and discovering exchange, and exchanges co with 1, 2, 5 and 6;",
+  "**One move, 1 to 8.** 8 up keeps each name's root but with 1, 5 and 8: 1-now-existing goes to 9-next-co-discovering, 5-now-co-existing to 13-next-same-existing, and 8-now-same-existing to 16-next-discovering. 8 up exchanges co and one with 1, 2, 5 and 6;"),
+ ("**Twelve forms.** Round each form odd names, existing, are one run and even names, possibling, one run, of like length:",
+  "**Twelve forms.** Round each form odd names are one run and even names one run, of like length:"),
+ ("no form here is an authority: a resolver is a coupling, and nothing of it is taken on offer.",
+  "no form here is an authority: a resolver is a coupling, the same each time any self executes it."),
+]
+for a, b in R4:
+    if a not in s:
+        print('R4 not found:', a[:70])
+    s = s.replace(a, b)
+
+# v390, fourth turn: a narrow drawing, no slider
+DRAWING = """```text
+another self's 9-next-co-discovering
+  ══► 17-next-existing, along to a self
+
+1-now-existing, a self's momentary given
+  2-now-possibling ◄══ another self's 6 and 10, across
+  2-now-possibling ──► 14-next-possibling
+  3-now-co-observing, with 4 and 7
+    ──► 12-next-co-same-existing ◄── 14-next-possibling
+  12-next-co-same-existing ──► 10-next-co-possibling, with 6
+  10-next-co-possibling ──► 11-next-co-observing ──► 3, next
+  10-next-co-possibling ──► 9-next-co-discovering, with 5
+  13-next-same-existing · 15-next-observing
+  8-now-same-existing · 16-next-discovering
+
+6 and 10 ══► another self's 2 and 14, across
+9-next-co-discovering ══► another self's 17, along
+
+sharing side, co: 6 ══► 2, 10 ══► 14, 9 ══► 17
+arriving side, one: 2, 14 and 17
+═══ between selves, across and along
+─── within one self
+```"""
+_m = re.search(r'```text\n.*?```', s, re.S)
+assert _m and 'another self' in _m.group(0)
+s = s[:_m.start()] + DRAWING + s[_m.end():]
+
+# v390, fourth turn: code at 80 columns, observing's line kept whole; executing checked identical
+_code = open(os.path.join(ROOT, 'incoming', 'v390', 'Exhibit_ONE_draft_code.py'), encoding='utf-8').read()
+_c = re.search(r'```python\n(.*?)```', s, re.S)
+s = s[:_c.start(1)] + _code + s[_c.end(1):]
 open(OUT, 'w', encoding='utf-8').write(s)
 print('written', OUT, len(s.splitlines()), 'lines')

@@ -31,7 +31,7 @@ def _narrow(block):
             keys.append('- *%s*: %s' % (k, h))
             others.append('*%s*' % k)
         else:
-            others.append('*%s*' % h if h else '')
+            others.append(('*%s*' % h if '*' not in h else h) if h else '')
     if keys:
         out.append('\n'.join(keys) + '\n')
     for r in body:
