@@ -1172,8 +1172,8 @@
  {
   "old": "2. Extending surface upstream and downstream through existing joins: from a shared reached prior, intact and missing-section cases continuing with both surrounding passages available, and changing/unchanging seam followed into, around and beyond hole, including proposed geodesic switching between its two routings, surviving carrying kept local.",
   "new": "2. Extending surface upstream and downstream through existing joins: from a shared reached prior, intact and missing-section cases continuing with both surrounding passages available, and parity-changing/not-changing seam followed to, around and on after hole, including proposed geodesic switching between its two routings, surviving carrying staying local.",
-  "verdict": "ASK",
-  "why": "'changing/unchanging seam' is this file's name for a proposed seam, also used before this range (lines 907, 915) by another reader; re-said here as parity-changing/not-changing seam, by the rules' words for a self's parity same-existing or not. into, beyond: to, on after; kept: staying. **To resolve:** is the seam named parity-changing/not-changing seam across the whole file?"
+  "verdict": "RESAY",
+  "why": "resolved v390: no holding in nature; the seam one name across the file"
  },
  {
   "old": "3. Comparing receiving beyond hole with intact continuation,",
