@@ -253,7 +253,7 @@
  },
  {
   "old": "**At resolver + and − are an implementing of a parity and 0 a between**: + and − offered together at one sharing surface 0 at 14, a between of self and other, and a parity inverted twice is that parity again.",
-  "new": "**With a resolver's executing + and − are an implementing of a parity and 0 a between**: + and − offered together with one sharing surface 0 with 14, a between of self and other, and a parity inverted twice is that parity again.",
+  "new": "**With a resolver's executing, + and − are an implementing of a parity and 0 a between**: + and − offered together with one sharing surface 0 with 14, a between of self and other, and a parity inverted twice is that parity again.",
   "verdict": "RESAY",
   "why": "at resolver: with a resolver's executing; at: with"
  },
@@ -596,12 +596,12 @@
  {
   "old": "**Each kind of name is at two numbers eight apart, at a self's span and a society's**: prioring at 3 and 11 and at 7 and 15, possibling at 2 and 10 and at 6 and 14, and still-possibling at 4 and 12 and at 8 and 16, its kind one and its number carrying its momentary; at 1 and 9 and at 5 and 13 now and changing exchange.",
   "new": "**Each step of four-cycling is with two names eight apart, with a self's span and a same-existing-society's**: observing with 3 and 11 and with 7 and 15, possibling with 2 and 10 and with 6 and 14, and same-existing with 4 and 12, one root and its number carrying its momentary; with 1 and 9, 5 and 13 and 8 and 16 roots exchange: existing and discovering, existing and same-existing, same-existing and discovering.",
-  "verdict": "ASK",
-  "why": "prioring: observing; still-possibling: same-existing; at: with; society: same-existing-society. With today's names a root is not always eight apart: 8-now-same-existing and 16-next-discovering, 5-now-co-existing and 13-next-same-existing, 1-now-existing and 9-next-co-discovering differ, and now and changing exchanging names no root. A step of four-cycling is eight apart for each. To resolve: may this sentence say step eight apart and name the three root exchanges, as the new text does?"
+  "verdict": "RESAY",
+  "why": "resolved v390, checked against the agreed names: roots exchange with 1/9, 5/13 and 8/16"
  },
  {
   "old": "At 9 less now pairs with all and existing with same, 1 with 8, 2 with 7, 3 with 6 and 4 with 5.",
-  "new": "With 9 less now pairs with all and existing with same, 1 with 8, 2 with 7, 3 with 6 and 4 with 5.",
+  "new": "With 9 less, now pairs with all and existing with same, 1 with 8, 2 with 7, 3 with 6 and 4 with 5.",
   "verdict": "RESAY",
   "why": "at: with"
  },
@@ -889,7 +889,7 @@
  },
  {
   "old": "**At an apex numbers are relations,",
-  "new": "**With an apex numbers are relations,",
+  "new": "**With an apex, numbers are relations,",
   "verdict": "RESAY",
   "why": "at: with"
  },
@@ -925,7 +925,7 @@
  },
  {
   "old": "which the sixth and the eighth, twenty-one and thirty-six, straddle by seven and by eight. The sixth and the eighth part by fifteen,",
-  "new": "which a sixth and an eighth, twenty-one and thirty-six, straddle by seven and by eight. Sixth and eighth part by fifteen,",
+  "new": "which a sixth and an eighth, twenty-one and thirty-six, straddle by seven and by eight. Sixth and eighth triangles part by fifteen,",
   "verdict": "RESAY",
   "why": "the: a, removed, as a seventh triangle just before"
  },
