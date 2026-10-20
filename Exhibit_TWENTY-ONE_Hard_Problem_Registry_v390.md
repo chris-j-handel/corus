@@ -1,4 +1,4 @@
-Exhibit TWENTY-ONE Hard Problem Registry v389
+Exhibit TWENTY-ONE Hard Problem Registry v390
 
 &nbsp;
 
@@ -10,7 +10,7 @@ Exhibit TWENTY-ONE Hard Problem Registry v389
 
 &nbsp;
 
-**Each arrival stands here whole in fields' own words, its incoming side: a hard problem as scientific method poses it.** Same arrivals are carried resolved at its momentarying side, living and non-living existing things co-sequencing, prior, now and next, each resolving at its field's own next. **One learning at two sides.**
+**Each arrival stands here whole with fields' own words, its incoming side: a hard problem as scientific method poses it.** Same arrivals are carried resolved with its momentarying side, living and non-living existing things co-sequencing, prior, now and next, each resolving with its field's own next. **One learning with two sides.**
 
 &nbsp;
 
@@ -18,7 +18,7 @@ Exhibit TWENTY-ONE Hard Problem Registry v389
 
 # The conditions prior
 
-Where there is science and a method for problems, five conditions hold before the method acts.
+Where science has a method for problems, five conditions stand prior to its acting.
 
 The statement holds across readings.
 
@@ -30,9 +30,9 @@ A procedure repeated returns the same outcome independently of what precedes it.
 
 Nothing prior enters: what comes to the statement carries nothing of what it carried before.
 
-The first is required by replication, the second by measurement, the third by inference, the fourth by replication. The fifth is a condition on what reaches a statement, and the first four stand on it: a statement holds across readings where nothing arriving at it brings a prior reading.
+The first is required by replication, the second by measurement, the third by inference, the fourth by replication. The fifth is a condition on what reaches a statement, and the first four stand on it: a statement stands across readings where nothing arriving to it brings a prior reading.
 
-Five fix what enters and how it executes. A problem adds a sixth, its own, fixing what comes out: its outcome preserves a stated relation over a stated range. This condition is a problem's and not a method's, and it stands at Conserving relation and Conserving reach in every entry.
+Five fix what enters and how it executes. A problem adds a sixth, its own, fixing its outcome: its outcome preserves a stated relation over a stated range. This condition is a problem's and not a method's, and it stands with Conserving relation and Conserving reach of every entry.
 
 Everything below follows from these and from nothing else.
 
@@ -40,31 +40,31 @@ Everything below follows from these and from nothing else.
 
 # 1 What stands open, and what stands fixed
 
-This is an open registry: a set of entries on a stated population, each carrying the same properties.
+This is an open registry: a set of entries over a stated set of problems, each carrying one same set of properties.
 
-**The problems stand open.** No entry carries a settled answer to its own statement, except where its record settles one and the entry carries that settling.
+**Problems stand open.** No entry carries a settled answer to its own statement, except where its record settles one and its entry carries that settling.
 
-**The intake stands open.** Nothing is turned away. An arrival is entered, and the collection is added to as arrivals come.
+**Intake stands open.** Nothing is turned away. An arrival is entered, and this registry's collection is added to as arrivals come.
 
-**The properties and checks stand open.** Every property is stated at section 4 and every check at section 6. Any of them is executed against fields' literature, by anyone holding it.
+**Properties and checks stand open.** Every property stands stated with section 4, and every check with section 6. Any of them is executed against fields' literature, by anyone with that literature.
 
-**Every line stands open at an address.** A filled property keys to a place its statement is verified. A line without an address makes a claim nothing reaches, and check C1 tests for it.
+**Every line stands open with an address.** A filled property keys to a place its statement is verified. A line without an address is a claim nothing reaches, and it is check C1's case.
 
-Against these, one thing stands fixed: properties themselves. Every entry carries the same properties, in the same order, whatever its field. Uniform elements are what make two entries comparable, and comparability is what a registry is for. Its schema is closed once, at one place, so that nothing else has to be.
+Against these, one thing stands fixed: properties themselves. Every entry carries one same set of properties, with one same order, whatever its field. Uniform elements are what make two entries comparable, and comparability is what a registry is for. Its schema is closed once, one place only, so that nothing else has to be.
 
 ---
 
 # 2 Hard problems in science
 
-**Problems in science** are hypotheses. A hypothesis is an account with consequences following from it, tested together with specifications it carries. Where a consequence fails, its conjunction of account and specifications is refuted, and no member of it is identified. Where a consequence is borne out, nothing follows about its account, a rival account entailing the same consequence.
+**Science's problems** are hypotheses. A hypothesis is an account with consequences following from it, tested together with specifications it carries. Where a consequence fails, its conjunction of account and specifications is refuted, and no member of it is identified. Where a consequence is found true, nothing follows about its account, a rival account entailing that same consequence.
 
-**Hard** is where testing continues and returns no refutation: either no consequence separating accounts is derivable, or accounts entail the same consequences. Both are properties of a hypothesis together with what it carries, and neither is a property of what a hypothesis is about.
+**Hard** is where testing continues and returns no refutation: either no consequence separating accounts is derivable, or accounts entail one same set of consequences. Both are properties of a hypothesis together with what it carries, and neither is a property of what a hypothesis is about.
 
-**Progress** is what stands: established, measured, proved, or ruled out. It accumulates whether or not a problem settles, every approach that ends returning a result about the approach.
+**Progress** is what stands: established, measured, proved, or excluded. It accumulates whether or not a problem settles, every approach that ends returning a result about itself.
 
 **Persistence** is a remainder between what stands and a settling result.
 
-Each entry states one problem as it is posed, and carries progress and persistence with a remainder between them visible. Every entry carries the same properties, filled from a record at which each is verified.
+Each entry is one problem's statement as it is posed, carrying progress and persistence with a remainder between them visible. Every entry carries one same set of properties, filled from a record by which each is verified.
 
 ---
 
@@ -72,23 +72,23 @@ Each entry states one problem as it is posed, and carries progress and persisten
 
 ## 3.1 What a refutation identifies
 
-A refutation falls on a conjunction of account and specifications. No member of it is identified. A test therefore returns no indication of which specification is at issue where a settling result requires one to fall.
+A refutation falls on a conjunction of account and specifications. No member of it is identified. A test therefore returns no indication of which specification falls, where a settling result requires one to fall.
 
 ## 3.2 Specification
 
 A hypothesis carries every specification a consequence derives from. A hypothesis carrying fewer entails no consequence.
 
-A specification is universal under a name where it is fixed across everything stated under that name, and local where it is fixed at one statement.
+A specification is universal under a name where it is fixed across everything stated under that name, and local where it is fixed to one statement.
 
-No specification is identified as the one to withdraw, and specifications stand at the number brought in.
+No specification is identified as one to withdraw, and specifications stand as many as were brought.
 
 ## 3.3 Repetition
 
-A result is replicated where the same procedure returns the same outcome independently of what precedes it. A test carrying its own history is not replicable, and no test reads what a prior test produced.
+A result is replicated where one same procedure returns one same outcome independently of what precedes it. A test carrying its own history is not replicable, and no test reads what a prior test produced.
 
-Accumulation stands in specifications. A result that stands becomes a specification of tests that follow. Inference reads specifications at the start of a test and writes to them at no point.
+Accumulation stands as specifications. A result that stands becomes a specification of tests that follow. Inference reads specifications as a test opens and writes to none of them.
 
-Where a problem is durable, specifications stand fixed across tests run against them. The number of hypotheses tested measures testing.
+Where a problem is durable, specifications stand fixed across tests run against them. Testing is measured by its count of hypotheses tested.
 
 ## 3.4 The two responses
 
@@ -106,19 +106,19 @@ Both operate on what specifications permit. A settling result specifications do 
 
 An entry carries two parts. Its properties are of a problem, and stand whether or not work has been done on it. Its report is of work done, and stands empty where none is recorded.
 
-Each states its record at its address, or stands empty.
+Each carries its record with its address, or stands empty.
 
 ## 4.1 The properties
 
-**Conditions prior.** Five, stated in every entry. Every unreachability result derives from these together with specifications below.
+**Conditions prior.** Five, stated within every entry. Every unreachability result derives from these together with specifications below.
 
-**Statement.** Form in which a problem is posed, in words it is posed in. Variant formulations stand, unranked.
+**Statement.** A problem's form as it is posed, with its own words. Variant formulations stand, unranked.
 
-**The field's account of its hardness.** Where a field states, in its own words, what is hard about its own problem — before any account is proposed. Stated from a field's review or methodological literature, or empty. No inference from the difficulty of its record.
+**The field's account of its hardness.** Where a field states, with its own words, what is hard about its own problem — before any account is proposed. Stated from a field's review or methodological literature, or empty. No inference from its record's difficulty.
 
-**Accounts.** What each account proposes to exist, on its own content, at the strength its record carries. Their number is as posed. No relation between accounts stands here. A statement about the condition of an effort proposes no account.
+**Accounts.** What each account proposes to exist, on its own content, as strongly as its record carries. Their number is as posed. No relation between accounts stands here. A statement about an effort's condition proposes no account.
 
-**Specifications.** Each specification a statement carries beyond five, with a name it is universal under, or local. Their number stands against the number of consequences derivable.
+**Specifications.** Each specification a statement carries besides five, with a name it is universal under, or local. Their number stands against a count of consequences derivable.
 
 **Specifications withdrawn.** Each specification a record carries as given up with its accounts retained. No reason stands, a refutation identifying no member.
 
@@ -128,17 +128,17 @@ Each states its record at its address, or stands empty.
 
 **Conserving reach.** A range over which a relation is required, stated as its problem states it: all profiles, all programs, all statements of a language, all cases.
 
-**Reach.** What the statement quantifies over. What its instruments return values over. Where a relation between the two is stated — an equivalence, a proved limitation, an account of what a method does not deliver — that statement stands.
+**Reach.** What a statement quantifies over. What its instruments return values over. Where a relation between these two is stated — an equivalence, a proved limitation, an account of what a method does not deliver — that statement stands.
 
-**Unreachability.** A result establishing that a conserving relation is not preserved over its conserving reach. A result is about its conditions and stands whether or not an attempt was made. What was attempted stands at Approaches.
+**Unreachability.** A result establishing that a conserving relation is not preserved over its conserving reach. A result is about its conditions and stands whether or not an attempt was made. What was attempted stands with Approaches.
 
 **Persistence.** A settling result specified.
 
-**Addresses.** A location at which each property is verified, keyed property by property.
+**Addresses.** A location each property is verified with, keyed property by property.
 
 ## 4.2 The report
 
-**Approaches.** Each direction taken, with its present reach in measures used, and its standing: refuted; blocked by a proved limitation; equivalent by construction to a rival; answering an adjacent question by a method's own account; instruments disagreeing on their object; narrowing; open.
+**Approaches.** Each direction taken, with its present reach by measures used, and its standing: refuted; blocked by a proved limitation; equivalent by construction to a rival; answering an adjacent question by a method's own account; instruments disagreeing on their object; narrowing; open.
 
 **Narrowing recorded.** Where a record carries its reach narrowed, or its relation weakened, with results following. Each is stated as its record states it.
 
@@ -150,17 +150,17 @@ Each states its record at its address, or stands empty.
 
 Properties carry present standing: it is proved that; no algorithm is known; the bound stands at; the parameter space is excluded below; the estimates disagree by measured amounts.
 
-No person functioning as attribution, and no date. Eponyms that are technical vocabulary stand where that vocabulary puts them. Years stand at addresses.
+No person functioning as attribution, and no date. Eponyms that are technical vocabulary stand where that vocabulary puts them. Years stand with addresses.
 
 ## 4.4 Statement rule
 
 A precise statement carries nothing its original statement together with its own specifications does not carry.
 
-Short verbatim phrases stand where an exact formulation is itself the object — a thesis by name, a canonical question — marked as such.
+Short verbatim phrases stand where an exact formulation is itself an entry's object — a thesis by name, a canonical question — marked as such.
 
 ## 4.5 What is not carried
 
-Priority and sequence. Contested wherever recorded, and no standing rests on it. Names and years stand at addresses, locating a text.
+Priority and sequence. Contested wherever recorded, and no standing rests on it. Names and years stand with addresses, locating a text.
 
 Importance, difficulty, promise. No statement carries these.
 
@@ -10666,41 +10666,41 @@ Entries stand here, one to a problem, **and their number is recomputed at them**
 
 **C1.** A property without an address.
 
-**C2.** An approach in the published literature, unlisted, or listed with an ending other than where literature has it.
+**C2.** An approach of published literature, unlisted, or listed with an ending other than where literature has it.
 
-**C3.** A statement other than the canonical one, or a variant omitted.
+**C3.** A statement other than its canonical one, or a variant omitted.
 
-**C4.** A specification the statement carries, unlisted.
+**C4.** A specification its statement carries, unlisted.
 
-**C5.** A condition prior stated other than as the five stand.
+**C5.** A condition prior stated other than as its five stand.
 
 **C6.** A property stating more than its address carries.
 
-**C7.** An approach's ending stated more strongly or more weakly than the record supports.
+**C7.** An approach's ending stated more strongly or more weakly than its record supports.
 
 **C8.** An address keyed from no property.
 
 **C9.** A property keyed to an address not carrying it.
 
-**C10.** A date or a person functioning as attribution in a property.
+**C10.** A date or a person functioning as attribution within a property.
 
-**C11.** An unreachability stated where the result reports an attempt rather than a failure of the relation over the reach.
+**C11.** An unreachability stated where its result reports an attempt rather than a failure of its relation over its reach.
 
-**C12.** A conserving relation or conserving reach stated other than as the problem states it.
+**C12.** A conserving relation or conserving reach stated other than as its problem states it.
 
-**C13.** An account stating the condition of the effort rather than proposing an account.
+**C13.** An account stating an effort's condition rather than proposing an account.
 
-**C14.** A specification recorded as withdrawn, not carried at the property for it.
+**C14.** A specification recorded as withdrawn, not carried with its own property.
 
-**C15.** A narrowing in the record, not carried at the property for it.
+**C15.** A narrowing of a record, not carried with its own property.
 
 **C16.** A property carrying a comparison with another entry, or a relation between accounts.
 
-**C17.** A field's statement of its own problem's hardness, standing in its literature, not carried at the property for it.
+**C17.** A field's statement of its own problem's hardness, standing within its literature, not carried with its own property.
 
-**C18.** A hardness line stating the compendium's observing rather than the field's words.
+**C18.** A hardness line stating this compendium's observing rather than its field's words.
 
-**C19.** A number of approaches matching the number at neighbouring entries where fields' records differ.
+**C19.** A number of approaches matching neighbouring entries' number where fields' records differ.
 
 Corrections are applied against literature.
 
@@ -10710,6 +10710,6 @@ Corrections are applied against literature.
 
 Each figure is a number over filled properties.
 
-The number of entries. The number of entries by the name their specifications are universal under. The distribution of specifications carried per entry. The number of entries carrying an unreachability result. The number carrying a narrowing recorded, by narrowing of reach and by weakening of relation. The number carrying a specification withdrawn. The distribution of approaches per entry and of approach standings. The number whose settling result is specified as one result, as either of two, or as proved unavailable. The number of properties standing empty, by property.
+A count of entries. A count of entries by each name their specifications are universal under. A count of entries by each number of specifications carried, every entry counted. A count of entries carrying an unreachability result. A count carrying a narrowing recorded, by narrowing of reach and by weakening of relation. A count carrying a specification withdrawn. A count of entries by each number of approaches, and of approaches by each standing, every entry counted. A count whose settling result is specified as one result, as either of two, or as proved unavailable. A count of properties standing empty, by property.
 
 Each figure is recomputable from entries.
