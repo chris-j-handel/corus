@@ -49,9 +49,9 @@
  },
  {
   "old": "Selection is at each scale where a society bi-couples at a prime, and bookkeepings translate because they observe one fractal at two of its scales.",
-  "new": "Selection is with each scale where a same-existing-society bi-couples on a prime scale, and bookkeepings translate because they observe one fractal on two of its scales.",
+  "new": "Selection carries on with each scale where a same-existing-society bi-couples on a prime scale, and bookkeepings translate because they observe one fractal on two of its scales.",
   "verdict": "RESAY",
-  "why": "society: same-existing-society; at, a scale as place: with, on."
+  "why": "society: same-existing-society; at, a scale as place: carries on with, on."
  },
  {
   "old": "That one account owns attribution across science, a manifest appearance of function and purpose responsible for prevalence of teleological explanations and authors sliding between claims about function and claims about design as if a trait were naturally designed, the for and design one slide.",
@@ -67,9 +67,9 @@
  },
  {
   "old": "Each account extends as far as it extends, cases sort against each one after an other, and subfields divide usage between them, each observing carrying cases an other drops: one account fixed to own attribution is one side of a coupling fixed as a whole, and two in working use is a coupling observed from both, a co-competency the science already carries.",
-  "new": "Each account extends as far as it extends, cases sort against each one after an other, and subfields divide usage between them, each observing carrying cases an other drops: one account fixed to own attribution is one side of a coupling fixed as a whole, and two both working is a coupling observed from both, a co-competency its science already carries.",
+  "new": "Each account extends as far as it extends, cases sort against each one after an other, and subfields divide usage between them, each observing carrying cases an other drops: one account fixed to own attribution is one side of a coupling fixed as a whole, and two accounts working together is a coupling observed from both, a co-competency its science already carries.",
   "verdict": "RESAY",
-  "why": "in, in working use: both working, by meaning; the: its science."
+  "why": "in, two in working use: two accounts working together, by meaning; the: its science."
  },
  {
   "old": "A neutrino couples at its own momentary as a helicity state, and its nature is fixed to one of two sides, distinct from its antiparticle or its own, which of two its canonical question in nine words.",
@@ -790,5 +790,41 @@
   "new": "Truth is unformalisable within its own language, proved; fixed points stand with revenge waiting, as their builder's words say; contradiction-tolerant systems pay their price; and revenge re-arrives against each family: a value fixed to a sentence that takes none is a between fixed to a thing only a coupling makes, and a sentence goes on offering, taking nothing, which is all it ever did.",
   "verdict": "RESAY",
   "why": "in their builder's words: as their builder's words say; at: fixed to; keeps offering: goes on offering."
+ },
+ {
+  "old": "paleomagnetism establishes low-latitude ice where samples preserve primary directions,",
+  "new": "paleomagnetism establishes low-latitude ice where samples preserve primary directions,",
+  "verdict": "KEEP",
+  "why": "A field's own term, samples, its measured record and not a likelihood."
+ },
+ {
+  "old": "many sample ages come from unknown source craters,",
+  "new": "many sample ages come from unknown source craters,",
+  "verdict": "KEEP",
+  "why": "A field's own term, sample ages."
+ },
+ {
+  "old": "sister-lineage comparisons control some history but sample surviving clades,",
+  "new": "sister-lineage comparisons control some history but sample surviving clades,",
+  "verdict": "KEEP",
+  "why": "A field's own term, sample surviving clades."
+ },
+ {
+  "old": "surgical histology verifies lesions but samples late and selected disease,",
+  "new": "surgical histology verifies lesions but samples late and selected disease,",
+  "verdict": "KEEP",
+  "why": "A field's own term, samples late and selected disease."
+ },
+ {
+  "old": "and association not fixing causal order in an individual;",
+  "new": "and association not fixing causal order in an individual;",
+  "verdict": "KEEP",
+  "why": "Field's own words: causal order in an individual."
+ },
+ {
+  "old": "shared-plan accounts model coordination in detail with limited large-group reach,",
+  "new": "shared-plan accounts model coordination in detail with limited large-group reach,",
+  "verdict": "KEEP",
+  "why": "Field's own words: model coordination in detail."
  }
 ]
