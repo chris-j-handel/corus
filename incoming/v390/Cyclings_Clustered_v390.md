@@ -73,7 +73,14 @@ So each name is now or next; a four-cycling; a momentarying; and odd or even. Th
   - cycles of moves go now or next with each step, and odd or even and momentarying with mirrors;
   - parity forms one at a time are n of the five going both ways, 2n long;
   - executed selves are the five as selves execute them.
-- **Open (C3):** Exhibit ONE's *Fives* names its five as prior opening, prior completing, now opening, now completing and next opening, two and one half momentaryings. Are these five the same five dimensions as the five nested is or is nots, or a second five?
+- **C3, checked with Natural Naming, v390.** *Prior opening … next opening* is an older naming. Natural Naming v389 names five dimensions relationally, at resolver's names: 1 self prior; 2 other prior; 3 co-momentarying now; 4 bi-momentarying now; 5 self next. Three namings: 1-2 bi-momentarying, a handshake; 3-4 co-intelligencing, a discovering; 5 co-competencing. *Each momentarying, odd or even, is one unrelationing at all five dimensions, into six one-way recursionings: at that parity two dimensions change and three do not.* The five nested is or is nots above are a second five, scales within; the five dimensions are relations, self and other with prior, now and next. The nested table is kept as a reading, not as the five dimensions.
+- **Offered for weighing, five dimensions with session v390's concepts** (none chosen):
+  1. self prior-existing: observing, now-existing same-existing-as prior-existing;
+  2. other prior-existing, self-next as other-prior: possibling, a parity-offering across;
+  3. co-momentarying now, a self's own carrying at a sharing: same-existing met;
+  4. bi-momentarying now, an other's parity-offering met: betweening, a third living carrying;
+  5. self next-existing: discovering, prior-existing same-existing-as next-existing.
+  - Each momentarying, two of five parity-changing and three not: bi- two, tri- three.
 
 ## Concerns, tracked
 
