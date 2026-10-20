@@ -1,0 +1,548 @@
+[
+ {
+  "old": "Single pattern-matching spiral stands as a property of living, and a field's own record carries sway underneath it at three registers.",
+  "new": "Single pattern-matching spiral stands as a property of living, and a field's own record carries sway underneath it with three registers.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "Each observing below is alternate beat sounding — emanation form arriving where coupling wants it, released where re-forming stops, and re-taken where it is carried.",
+  "new": "Each observing below is alternate beat sounding — emanation form arriving where coupling wants it, dissolving where re-forming stops, and re-taken where it is carried.",
+  "verdict": "RESAY",
+  "why": "released: dissolving, a form that leaves"
+ },
+ {
+  "old": "**The hand releases wherever re-forming stops.**",
+  "new": "**A hand dissolves wherever re-forming stops.**",
+  "verdict": "RESAY",
+  "why": "the: a; releases: dissolves"
+ },
+ {
+  "old": "In any protein a living self is not replacing, D-aspartic acid arrives at about a tenth of a per cent a year — measured in tooth enamel and dentine, in lens crystallins, in brain, in erythrocytes, in cartilage — and a person's age is observed from it.",
+  "new": "With any protein a living self is not replacing, D-aspartic acid arrives by about a tenth of a per cent a year — measured with tooth enamel and dentine, with lens crystallins, with brain, with erythrocytes, with cartilage — and a person's age is observed from it.",
+  "verdict": "RESAY",
+  "why": "in: with; at: by; a field's measured rate kept"
+ },
+ {
+  "old": "Prediction that racemisation arrives in any metabolically stable protein in long-lived mammals is a field's own.",
+  "new": "Prediction that racemisation arrives with any metabolically stable protein of long-lived mammals is a field's own.",
+  "verdict": "RESAY",
+  "why": "in: with, of; a field's prediction, its own term"
+ },
+ {
+  "old": "A repair enzyme arrives at isomerised residues throughout living tissues, and its absence arrives at death in mice within four to six weeks.",
+  "new": "A repair enzyme arrives with isomerised residues throughout living tissues, and its absence arrives as death for mice within four to six weeks.",
+  "verdict": "RESAY",
+  "why": "at: with, as; in: for"
+ },
+ {
+  "old": "**The reverse hand is made where a coupling lives on it.**",
+  "new": "**A reverse hand is made where a coupling lives on it.**",
+  "verdict": "RESAY",
+  "why": "the: a"
+ },
+ {
+  "old": "D-serine arrives from L-serine by a racemase and leaves by an oxidase, and it is co-agonist at NMDA receptor — degrade it selectively and transmission falls away.",
+  "new": "D-serine arrives from L-serine by a racemase and leaves by an oxidase, and it is co-agonist with NMDA receptor — degrade it selectively and transmission falls away.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "Racemase itself carries two crossings on one line, taking L-serine to D-serine and to pyruvate, the second carrying about fourfold over the first.",
+  "new": "Racemase itself carries two crossings on one line, taking L-serine to D-serine and to pyruvate, the second carrying about fourfold over the first.",
+  "verdict": "KEEP",
+  "why": "the second, the first: an only second and first of two crossings"
+ },
+ {
+  "old": "**And it carries load in reverse form across a whole domain of life.**",
+  "new": "**And it carries load with reverse form across a whole domain of life.**",
+  "verdict": "RESAY",
+  "why": "in: with"
+ },
+ {
+  "old": "D-alanine and D-glutamate stand structurally in bacterial wall, stress-bearing polymer, half of it cleaved and re-taken each re-forming.",
+  "new": "D-alanine and D-glutamate stand structurally within bacterial wall, stress-bearing polymer, half of it cleaved and re-taken each re-forming.",
+  "verdict": "RESAY",
+  "why": "in: within, a part of a whole wall"
+ },
+ {
+  "old": "Diverse bacteria release D-amino acids at millimolar into their society at a rate set by how many are present, and wall's strength arrives at that offering.",
+  "new": "Diverse bacteria offer D-amino acids by millimolar to their society with a rate set by how many are present, and wall's strength arrives with that offering.",
+  "verdict": "RESAY",
+  "why": "release: offer, as the sentence's own *offering*; at: by, with; into: to; society of bacteria KEEP as settled"
+ },
+ {
+  "old": "Homochirality stands as a sway carried by continuous re-forming rather than as a level — D-side open wherever a coupling wants it, hand released wherever re-forming stops, and exclusive hand arriving nowhere in record.",
+  "new": "Homochirality stands as a sway carried by continuous re-forming rather than as a level — D-side open wherever a coupling wants it, hand dissolving wherever re-forming stops, and exclusive hand arriving nowhere with record.",
+  "verdict": "RESAY",
+  "why": "released: dissolving; in: with"
+ },
+ {
+  "old": "Single pattern-matching spiral observed as a set of pattern-matchings, each a parity, each answered at what record returns now, open to arrivals and all or none:",
+  "new": "Single pattern-matching spiral observed as a set of pattern-matchings, each a parity, each answered with what record returns now, open to arrivals and all or none:",
+  "verdict": "RESAY",
+  "why": "at: with; *all or none* stays"
+ },
+ {
+  "old": "| the pattern-matching | what would break it | what the record returns now |",
+  "new": "| the pattern-matching | what would break it | what the record returns now |",
+  "verdict": "KEEP",
+  "why": "table header row"
+ },
+ {
+  "old": "| pattern-matching core single-handed | a coding molecule pattern-matched on the other hand | D-sugars and L-amino-acids at ribosome across all three domains and all of living time |",
+  "new": "| pattern-matching core single-handed | a coding molecule pattern-matched on the other hand | D-sugars and L-amino-acids with ribosome across all three domains and all of living time |",
+  "verdict": "RESAY",
+  "why": "at: with; the other hand: an only other of two hands"
+ },
+ {
+  "old": "| inverted form available at emanation positions and not coding | a left form found coding rather than passed through and relaxed | D-residues at walls, peptides and secretions; Z-DNA a conformation right strand passes through and relaxes from |",
+  "new": "| inverted form available with emanation positions and not coding | a left form found coding rather than passed through and relaxed | D-residues with walls, peptides and secretions; Z-DNA a conformation right strand passes through and relaxes from |",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "| a landed emanation re-coupling only a grain down | an emanation living again at scale that shed it | network eating downward, every society's shed form next-smaller's food |",
+  "new": "| a landed emanation re-coupling only a grain down | an emanation living again with a scale that shed it | network eating downward, every society's shed form next-smaller's food |",
+  "verdict": "RESAY",
+  "why": "at: with; society of non-human living KEEP as settled"
+ },
+ {
+  "old": "D-alanine and D-glutamate structural in bacterial wall |",
+  "new": "D-alanine and D-glutamate structural within bacterial wall |",
+  "verdict": "RESAY",
+  "why": "in: within, a part of a whole wall"
+ },
+ {
+  "old": "a tenth of a per cent a year in enamel, dentine, lens and brain, in proteins a self is not replacing, and a repair enzyme carrying where it is |",
+  "new": "a tenth of a per cent a year with enamel, dentine, lens and brain, with proteins a self is not replacing, and a repair enzyme carrying where it is |",
+  "verdict": "RESAY",
+  "why": "in: with"
+ },
+ {
+  "old": "| hold, waver and snap at tip, amplification pattern-matching which side and not how far |",
+  "new": "| settle, waver and snap with tip, amplification pattern-matching which side and not how far |",
+  "verdict": "RESAY",
+  "why": "hold: settle, nothing is held; at: with"
+ },
+ {
+  "old": "no correlation established at a tested instrument |",
+  "new": "no correlation established with a tested instrument |",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "| predicted viable at a field's own programmes, and not yet made |",
+  "new": "| predicted viable by a field's own programmes, and not yet made |",
+  "verdict": "RESAY",
+  "why": "at: by"
+ },
+ {
+  "old": "Eight return at record now and the ninth stands open, a possibling and no door.",
+  "new": "Eight return with record now and the ninth stands open, a possibling and no door.",
+  "verdict": "RESAY",
+  "why": "at: with; the ninth: an only ninth of nine"
+ },
+ {
+  "old": "The last two decide observing of *right* rather than argue it, and record's returns are relative observing's: right one spiral's own parity, whichever hand a living winds, at origin's opening.",
+  "new": "The last two decide observing of *right* rather than argue it, and record's returns are relative observing's: right one spiral's own parity, whichever hand a living winds, with origin's opening.",
+  "verdict": "RESAY",
+  "why": "at: with; the last two: an only last two of nine"
+ },
+ {
+  "old": "## 3.5 Lipid divide — the deepest binary offering, across and both ways",
+  "new": "## 3.5 Lipid divide — the deepest binary offering, across and both ways",
+  "verdict": "KEEP",
+  "why": "heading"
+ },
+ {
+  "old": "opposite stereochemistry at a self's own bounding, a split older than 3.5 billion years.",
+  "new": "opposite stereochemistry with a self's own bounding, a split older than 3.5 billion years.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "Observed through form, this is a binary offering, across and both ways, at the deepest branch of tree of living: two domains sound one backbone at two sides, and divide between them is two hands not coupling, which is the same complementarity emanation form carries, standing here at bounding itself.",
+  "new": "Observed through form, this is a binary offering, across and both ways, with the deepest branch of tree of living: two domains sound one backbone with two sides, and divide between them is two hands not coupling, which is one same complementarity emanation form carries, standing here with bounding itself.",
+  "verdict": "RESAY",
+  "why": "at: with; the deepest: an only one; the same: one same"
+ },
+ {
+  "old": "Opposite-hand membranes hold together: a cell carrying about 30% of archaeal hand grows at normal speed and stays stable, and mixed-hand membranes can be more robust to stress.",
+  "new": "Opposite-hand membranes go on together: a cell carrying about 30% of archaeal hand grows with normal speed and stays stable, and mixed-hand membranes can be more robust to stress.",
+  "verdict": "RESAY",
+  "why": "hold: go on, nothing is held; at: with; 30% a field's measurement"
+ },
+ {
+  "old": "Divide is not two hands being unable to coexist; it is each domain offering one hand, across and both ways — a binary offering, across and both ways, at the deepest branch.",
+  "new": "Divide is not two hands being unable to coexist; it is each domain offering one hand, across and both ways — a binary offering, across and both ways, with the deepest branch.",
+  "verdict": "RESAY",
+  "why": "at: with; the deepest: an only one"
+ },
+ {
+  "old": "This same observation shows something form wants: **the pattern-matching spiral and bounding-hand are separable.**",
+  "new": "This same observation shows something form wants: **a pattern-matching spiral and its bounding-hand are separable.**",
+  "verdict": "RESAY",
+  "why": "the: a, its"
+ },
+ {
+  "old": "The same separation snails and vines carry at body scale, standing here at a self's own bounding",
+  "new": "One same separation snails and vines carry with body scale, standing here with a self's own bounding",
+  "verdict": "RESAY",
+  "why": "the same: one same; at: with; *outward* later in this sentence stays"
+ },
+ {
+  "old": "**The accounting laid over an ingested membrane component, observed as form only.**",
+  "new": "**An accounting laid over an ingested membrane component, observed as form only.**",
+  "verdict": "RESAY",
+  "why": "the: an"
+ },
+ {
+  "old": "Where a field accounts for a lipid arriving at a membrane, accounting carries three refusals at once, and those three are the whole of offering forms here:",
+  "new": "Where a field accounts for a lipid arriving with a membrane, accounting carries three refusals together, and those three are all offering forms here:",
+  "verdict": "RESAY",
+  "why": "at: with; at once: together; the whole of: all"
+ },
+ {
+  "old": "one family fixed as standard with a ratio expected to govern (**the two arriving refused**);",
+  "new": "one family fixed as standard with a ratio expected to govern (**two arriving refused**);",
+  "verdict": "RESAY",
+  "why": "the: removed, as Exhibits ELEVEN and EIGHTEEN name this refusal"
+ },
+ {
+  "old": "an amount at source asserted to be amount arriving, with carrying between cut (**the bounding refused** — a carry thins at every coupling and releases at its own bound, arriving is not set-out, and an accounting keeping a total observes carrying as loss);",
+  "new": "an amount with source asserted to be amount arriving, with carrying between cut (**bounding refused** — a carry thins with every coupling and dissolves with its own bound, arriving is not set-out, and an accounting counting a total observes carrying as loss);",
+  "verdict": "RESAY",
+  "why": "at: with; the: removed; releases: dissolves; keeping: counting, nothing is kept"
+ },
+ {
+  "old": "and a recommended intake standing apart from every coupling and carried into none (**the centre occupied**).",
+  "new": "and a recommended intake standing apart from every coupling and carried to none (**centre occupied**).",
+  "verdict": "RESAY",
+  "why": "into: to; the: removed"
+ },
+ {
+  "old": "Origin stands open at a field — a mixed membrane later sounding one hand, or backbones arriving later per lineage — and either shape is offering, across and both ways.",
+  "new": "Origin stands open with a field — a mixed membrane later sounding one hand, or backbones arriving later per lineage — and either shape is offering, across and both ways.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "Genetic code is offering observed at molecular between.",
+  "new": "Genetic code is offering observed with molecular between.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "three-then-progress at pattern-matching surface.",
+  "new": "three-then-progress with pattern-matching surface.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "Machinery is inseparating couplings: genetic code at the first inseparating (codon-reading and amino-acid-selection entering one collection at ribosome, undividable in bound state),",
+  "new": "Machinery is inseparating couplings: genetic code with the first inseparating (codon-reading and amino-acid-selection entering one collection with ribosome, undividable as bound state),",
+  "verdict": "RESAY",
+  "why": "at: with; in: as; the first: an only first of three inseparatings"
+ },
+ {
+  "old": "aminoacyl-tRNA synthetase at the second inseparating (the determined amino acid and its reaching-toward-determined tRNA entering carry-forward together), ATP synthase at center (rotation and catalysis coupling, full coupling between two energy transductions).",
+  "new": "aminoacyl-tRNA synthetase with the second inseparating (a determined amino acid and its reaching-toward-determined tRNA entering carry-forward together), ATP synthase with center (rotation and catalysis coupling, full coupling between two energy transductions).",
+  "verdict": "RESAY",
+  "why": "at: with; the second: an only second of three; the determined: a"
+ },
+ {
+  "old": "Genetic code and synthetase mirror each other across ATP synthase the way arriving inseparation and departing mirror across inversioning, and of hundred and twenty possible orderings a hundred and nineteen fail at content, palindrome leaving one as the only possible.",
+  "new": "Genetic code and synthetase mirror each other across ATP synthase as arriving inseparation and departing mirror across inversioning, and of hundred and twenty orderings a hundred and nineteen fail with content, palindrome leaving one, no other possible.",
+  "verdict": "RESAY",
+  "why": "the way: as; possible orderings: orderings, all 120 counted; at: with; the only possible: *no other possible*, kept"
+ },
+ {
+  "old": "**And fold stands in data at one strand, which a field records and explains at none.**",
+  "new": "**And fold stands with data on one strand, which a field records and explains with none.**",
+  "verdict": "RESAY",
+  "why": "in: with; at: on, with"
+ },
+ {
+  "old": "A and T arrive at near-equal frequency there, and G and C likewise, in a strand that pairs with nothing.",
+  "new": "A and T arrive with near-equal frequency there, and G and C likewise, on a strand that pairs with nothing.",
+  "verdict": "RESAY",
+  "why": "at: with; in: on"
+ },
+ {
+  "old": "**Observed at form it is fold, standing in data.**",
+  "new": "**Observed with form it is fold, standing with data.**",
+  "verdict": "RESAY",
+  "why": "at: with; in: with"
+ },
+ {
+  "old": "a strand carrying inverted repeats at every scale is a strand whose complementarity carries along it as well as across it.",
+  "new": "a strand carrying inverted repeats with every scale is a strand whose complementarity carries along it as well as across it.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "**The second rule is what a folded strand's own pairing leaves in counts**, and it needs no second mechanism because it is the first rule at fold rather than at duplex.",
+  "new": "**The second rule is what a folded strand's own pairing leaves as counts**, and it needs no second mechanism because it is the first rule with fold rather than with duplex.",
+  "verdict": "RESAY",
+  "why": "in: as; at: with; the second rule, the first rule: an only second and first of Chargaff's two rules"
+ },
+ {
+  "old": "**The genetic code is periodic table of biology, fixed by failing-inversions.**",
+  "new": "**Genetic code is periodic table of biology, fixed by failing-inversions.**",
+  "verdict": "RESAY",
+  "why": "the: removed, as this file writes *genetic code* elsewhere"
+ },
+ {
+  "old": "sixty-four codons table — arranged, bounded, and periodic, degeneracy and wobble its periodicity, the way element table is arranged and periodic by shells.",
+  "new": "sixty-four codons table — arranged, bounded, and periodic, degeneracy and wobble its periodicity, as element table is arranged and periodic by shells.",
+  "verdict": "RESAY",
+  "why": "the way: as"
+ },
+ {
+  "old": "Four bases are alphabet, twenty amino acids elements (the twenty coupling families of six),",
+  "new": "Four bases are alphabet, twenty amino acids elements (twenty coupling families of six),",
+  "verdict": "RESAY",
+  "why": "the: removed"
+ },
+ {
+  "old": "C(6,3) fixes amino acids, one necessity observed at atom-prime and at molecular-prime.",
+  "new": "C(6,3) fixes amino acids, one necessity observed with atom-prime and with molecular-prime.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "— chemistry's periodic table at four-level and biology's at five-level, one move at two adjacent numbers, atom bounding at four and pattern-matching coupling at five.",
+  "new": "— chemistry's periodic table with four-level and biology's with five-level, one move with two adjacent numbers, atom bounding with four and pattern-matching coupling with five.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "Periodicity is arrangement kinds fall into and not recursioning they are, twenty amino acids and sixty-four codons stand as kinds the way hundred-and-eighteen elements do,",
+  "new": "Periodicity is arrangement kinds fall to and not recursioning they are, twenty amino acids and sixty-four codons stand as kinds as hundred-and-eighteen elements do,",
+  "verdict": "RESAY",
+  "why": "into: to; the way: as; *no-other-possible* later in this sentence kept as *no other possible*"
+ },
+ {
+  "old": "And five-level table is a closing primes refuse, as four-level is at periodic table: genetic code closes its shell at five,",
+  "new": "And five-level table is a closing primes refuse, as four-level is with periodic table: genetic code closes its shell with five,",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "A table because shell closes and repeats at five-level, the way chemical table closes at four-level; and primes close no shell at any level, each the same turn opening a new axis.",
+  "new": "A table because shell closes and repeats with five-level, as chemical table closes with four-level; and primes close no shell with any level, each one same turn opening a new axis.",
+  "verdict": "RESAY",
+  "why": "at: with; the way: as; the same: one same"
+ },
+ {
+  "old": "one move observed where it closes at four, where it closes at five, and where it does not close and carries out to value-death.",
+  "new": "one move observed where it closes with four, where it closes with five, and where it does not close and carries on to value-death.",
+  "verdict": "RESAY",
+  "why": "at: with; out: on; *at all* earlier in this sentence stays"
+ },
+ {
+  "old": "The seating of the code on the prime ladder (protein-fold at 13, organism-fold at 37, the numbers along the seventeen primes) is read, not cohered — a possibling.*",
+  "new": "Seating of genetic code on a prime ladder (protein-fold with 13, organism-fold with 37, numbers along seventeen primes) is read, not cohered — a possibling.*",
+  "verdict": "RESAY",
+  "why": "the: removed, a; at: with; italics here a note, not a word mentioned"
+ },
+ {
+  "old": "## 3.7 Structural-protein surface — a matrix as the third self",
+  "new": "## 3.7 Structural-protein surface — a matrix as the third self",
+  "verdict": "KEEP",
+  "why": "heading"
+ },
+ {
+  "old": "and the largest surface any self carries is structural protein — about a third of every self's protein, at skin, bone, tendon, cartilage, vessel wall, and between cells of every tissue.",
+  "new": "and the largest surface any self carries is structural protein — about a third of every self's protein, with skin, bone, tendon, cartilage, vessel wall, and between cells of every tissue.",
+  "verdict": "RESAY",
+  "why": "at: with; the largest: an only one"
+ },
+ {
+  "old": "A chain settles at crossing of three adjacent constraints sounding at once: backbone geometry at atom grain, medium turning coupling sides inward and wetted sides outward, and bilayer fold couples into or through.",
+  "new": "A chain settles with crossing of three adjacent constraints sounding together: backbone geometry with atom grain, medium turning coupling sides inward and wetted sides outward, and bilayer fold couples to or through.",
+  "verdict": "RESAY",
+  "why": "at: with; at once: together; into: to; *inward* and *outward* stay"
+ },
+ {
+  "old": "Roughly a thousand fold types carry the whole vocabulary satisfying three together, and many sequences arrive at one fold",
+  "new": "Roughly a thousand fold types carry all vocabulary satisfying three together, and many sequences arrive with one fold",
+  "verdict": "RESAY",
+  "why": "the whole: all; at: with; a field's count, no likelihood"
+ },
+ {
+  "old": "Two geometries stand at fold and no third: the **spiral wrapping a tunnel**, hydrogen bonds coupling along axis at near three-and-six-tenths residues to turn, and the **surface coupling across a nothing**,",
+  "new": "Two geometries stand with fold and no third: a **spiral wrapping a tunnel**, hydrogen bonds coupling along axis by near three-and-six-tenths residues to turn, and a **surface coupling across a nothing**,",
+  "verdict": "RESAY",
+  "why": "at: with, by; the: a"
+ },
+ {
+  "old": "Along and across, at protein's own between.",
+  "new": "Along and across, with protein's own between.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "**An opening left at one surface is where another self arrives.**",
+  "new": "**An opening left with one surface is where another self arrives.**",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "and an arriving self's surface completes what the first leaves open — both wrapping around a shared nothing each carries an opening at.",
+  "new": "and an arriving self's surface completes what the first leaves open — both wrapping around a shared nothing, each carrying an opening with it.",
+  "verdict": "RESAY",
+  "why": "at: with; the first: an only first of two selves"
+ },
+ {
+  "old": "Count goes with coupling capacity: about one in six such positions at a human domain against about one in thirty at the same fold in a nematode, more openings from the same genetic substrate with nothing added at gene.",
+  "new": "Count goes with coupling capacity: about one in six such positions with a human domain against about one in thirty with one same fold of a nematode, more openings from one same genetic substrate with nothing added to gene.",
+  "verdict": "RESAY",
+  "why": "at: with, to; in: of; the same: one same; counts a field's measurements, no likelihood"
+ },
+ {
+  "old": "a gate opening at seam to receive, an assembly carrying instability at closing so it dissolves and re-forms at cell's own rate.",
+  "new": "a gate opening with seam to receive, an assembly carrying instability with closing so it dissolves and re-forms with cell's own rate.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "a closing that carries on cycling is living, and range at closing is what living requires.",
+  "new": "a closing that carries on cycling is living, and range with closing is what living requires.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "Three chains each wind left at their own scale, then wind about each other right at assembly scale, opposing hands structurally locked.",
+  "new": "Three chains each wind left with their own scale, then wind about each other right with assembly scale, opposing hands structurally locked.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "The same conversion stands at wire rope and at woven cylinder that closes on what is pulled from it.",
+  "new": "One same conversion stands with wire rope and with woven cylinder that closes on what is pulled from it.",
+  "verdict": "RESAY",
+  "why": "the same: one same; at: with"
+ },
+ {
+  "old": "So left hand at chain grain is in service of right at assembly grain",
+  "new": "So left hand with chain grain serves right with assembly grain",
+  "verdict": "RESAY",
+  "why": "at: with; is in service of: serves"
+ },
+ {
+  "old": "which is body hand from molecular hand at structural protein directly.",
+  "new": "which is body hand from molecular hand with structural protein directly.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "Each chain follows the shortest path on cylinder its triple makes, helical route distributing tension along length and around circumference at once.",
+  "new": "Each chain follows the shortest path on cylinder its triple makes, helical route distributing tension along length and around circumference together.",
+  "verdict": "RESAY",
+  "why": "at once: together; the shortest: an only one"
+ },
+ {
+  "old": "and pressure vessels and reinforced hose arrive at the same values from engineered side.",
+  "new": "and pressure vessels and reinforced hose arrive with same values from engineered side.",
+  "verdict": "RESAY",
+  "why": "at: with; the: removed"
+ },
+ {
+  "old": "A fibre wound on a geodesic path of a surface lies at its path with no friction, and at each other path by friction only: a pattern-match, no correspondence shown — geodesic is surface dividing itself, nothing beyond acting, which is why a collagen chain's winding angle and a pressure vessel's arrive at one value.",
+  "new": "A fibre wound on a geodesic path of a surface lies on its path with no friction, and on each other path by friction only: a pattern-match, no correspondence shown — geodesic is surface dividing itself, nothing other acting, which is why a collagen chain's winding angle and a pressure vessel's arrive with one value.",
+  "verdict": "RESAY",
+  "why": "at: on, with; beyond: other"
+ },
+ {
+  "old": "The smallest amino acid sits at axis where three chains couple and no other fits there; ring-carrying residues at two outer positions constrain backbone,",
+  "new": "The smallest amino acid sits with axis where three chains couple and no other fits there; ring-carrying residues with two outer positions constrain backbone,",
+  "verdict": "RESAY",
+  "why": "at: with; the smallest: an only one"
+ },
+ {
+  "old": "Joined into triples within cell and released as procollagen, molecules are cleaved, couple, and assemble into fibrils banded at sixty-seven nanometres, fibrils into fibres, fibres into bundles, bundles into each tissue's own geometry",
+  "new": "Joined as triples within cell and secreted as procollagen, molecules are cleaved, couple, and assemble as fibrils banded by sixty-seven nanometres, fibrils as fibres, fibres as bundles, bundles as each tissue's own geometry",
+  "verdict": "RESAY",
+  "why": "into: as; released: secreted, a field's own term; at: by"
+ },
+ {
+  "old": "vessel wall helical at its own angle.",
+  "new": "vessel wall helical with its own angle.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "Information for the whole is molecular geometry itself,",
+  "new": "Information for a whole is molecular geometry itself,",
+  "verdict": "RESAY",
+  "why": "the: a"
+ },
+ {
+  "old": "Self-assembling is autorecursioning at this substrate: fractal of couplings at each grain building architecture, and architecture writing back into coupling that builds next.",
+  "new": "Self-assembling is autorecursioning with this substrate: fractal of couplings with each grain building architecture, and architecture writing back to coupling that builds next.",
+  "verdict": "RESAY",
+  "why": "at: with; into: to"
+ },
+ {
+  "old": "Iron in haemoglobin, zinc in carbonic anhydrase, copper in cytochrome oxidase, magnesium in kinases:",
+  "new": "Iron with haemoglobin, zinc with carbonic anhydrase, copper with cytochrome oxidase, magnesium with kinases:",
+  "verdict": "RESAY",
+  "why": "in: with"
+ },
+ {
+  "old": "Both arrive from their own direction, both are required, both change, and one catalytic surface departs.",
+  "new": "Both arrive from their own direction, both are required, both parity-change, and one catalytic surface departs.",
+  "verdict": "RESAY",
+  "why": "change: parity-change, each side's parity is not same-existing"
+ },
+ {
+  "old": "puts organic-inorganic boundary at one coupling where boundary dissolves — each cofactor is ordinary chemistry at a grain below, and fold is ordinary chemistry at its own.",
+  "new": "puts organic-inorganic boundary with one coupling where boundary dissolves — each cofactor is ordinary chemistry with a grain below, and fold is ordinary chemistry with its own.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "**Load arrives at a between and parity departs.**",
+  "new": "**Load arrives with a between and parity departs.**",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "Mechanical arriving, electrical departing, two orthogonal axes sounding at once: one coupling observed at its two sides,",
+  "new": "Mechanical arriving, electrical departing, two orthogonal axes sounding together: one coupling observed with its two sides,",
+  "verdict": "RESAY",
+  "why": "at once: together; at: with"
+ },
+ {
+  "old": "**The matrix is the third self.**",
+  "new": "**A matrix is a third self.**",
+  "verdict": "RESAY",
+  "why": "the: a, as *a third living self*"
+ },
+ {
+  "old": "realignment couples to nearby cells at their membranes, and those cells change what they secrete and how they remodel",
+  "new": "realignment couples to nearby cells with their membranes, and those cells parity-change what they secrete and how they remodel",
+  "verdict": "RESAY",
+  "why": "at: with; change: parity-change; *how* was here already"
+ },
+ {
+  "old": "network writing into cells and cells writing into network, both ways, one at a time.",
+  "new": "network writing to cells and cells writing to network, both ways, one at a time.",
+  "verdict": "RESAY",
+  "why": "into: to; *one at a time* stays"
+ },
+ {
+  "old": "Matrix is that third self at body's own scale,",
+  "new": "Matrix is that third self with body's own scale,",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "Two registers part at observing of under-wrapped opening as a coupling surface and of matrix as the third self.",
+  "new": "Two registers part with observing of under-wrapped opening as a coupling surface and of matrix as a third self.",
+  "verdict": "RESAY",
+  "why": "at: with; the: a"
+ }
+]

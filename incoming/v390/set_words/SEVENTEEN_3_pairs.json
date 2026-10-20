@@ -156,6 +156,12 @@
   "why": "a stochastic ratio, a count as likelihood: all or none, each fragment one or the other."
  },
  {
+  "old": "and not genomically fixed — form's naming in a field's own data.",
+  "new": "and not genomically fixed — form's naming with a field's own data.",
+  "verdict": "RESAY",
+  "why": "in: with."
+ },
+ {
   "old": "This is the same observing as morphogenesis, restorative,",
   "new": "This is one same observing as morphogenesis, restorative,",
   "verdict": "RESAY",
@@ -238,5 +244,263 @@
   "new": "*A reason it reaches: pairing was found by inverting row,",
   "verdict": "RESAY",
   "why": "the: a."
+ },
+ {
+  "old": "**And a field proved pattern needs no plan at all.**",
+  "new": "**And a field proved pattern needs no plan at all.**",
+  "verdict": "KEEP",
+  "why": "at all kept."
+ },
+ {
+  "old": "A field keeps finding it carrying in real skins, digits, and follicles: form as coupling resolving, at proof grade and then observed,",
+  "new": "A field goes on finding it carrying with real skins, digits, and follicles: form as coupling resolving, with proof grade and then observed,",
+  "verdict": "RESAY",
+  "why": "keeps: goes on; in: with; at: with."
+ },
+ {
+  "old": "Most animals carry a single, consistent body asymmetry — heart to one side, gut coiling one way, viscera placed the same in nearly every individual of a species.",
+  "new": "Animals of a body asymmetry carry it single and consistent — heart to one side, gut coiling one way, viscera placed alike with each individual of a species but a mirror-reversed one (situs inversus, below).",
+  "verdict": "ASK",
+  "why": "Most animals and nearly every individual are counts offered as likelihood, and no table executes every case. Re-said as all or none: each animal of a body asymmetry carries it, each individual but a mirror-reversed one. This narrows a claim about animals to a conditional one. To resolve: may most and nearly every become this conditional, all-or-none re-saying?"
+ },
+ {
+  "old": "Observed through form, this is fractal: single molecular hand observed at scale of the whole body.",
+  "new": "Observed through form, this is fractal: single molecular hand observed with scale of a whole body.",
+  "verdict": "RESAY",
+  "why": "at: with; the whole: a whole."
+ },
+ {
+  "old": "In vertebrate embryo, monocilia at node rotate in one direction",
+  "new": "With a vertebrate embryo, monocilia of its node rotate with one direction",
+  "verdict": "RESAY",
+  "why": "in: with; at: of."
+ },
+ {
+  "old": "In invertebrates the same descent carries through cell chirality",
+  "new": "With invertebrates one same descent carries through cell chirality",
+  "verdict": "RESAY",
+  "why": "in: with; the same: one same."
+ },
+ {
+  "old": "One: molecular hand is transduced directly up scales — one hand at molecule, one hand at body.",
+  "new": "One: molecular hand is transduced directly up scales — one hand with molecule, one hand with body.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "The other: symmetry breaks spontaneously at cell scale (a balance that will not rest at balance),",
+  "new": "Second: symmetry breaks spontaneously with cell scale (a balance that will not rest balanced),",
+  "verdict": "RESAY",
+  "why": "the other: second; at: with; rest at balance: rest balanced."
+ },
+ {
+  "old": "One form at two sides; a field's contest over which dominates",
+  "new": "One form with two sides; a field's contest over which dominates",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "cilia in vertebrates, actomyosin in flies, spindle in worms — and transduction-versus-spontaneous-breaking stands open at a field.",
+  "new": "cilia with vertebrates, actomyosin with flies, spindle with worms — and transduction-versus-spontaneous-breaking stands open with a field.",
+  "verdict": "RESAY",
+  "why": "in: with; at: with."
+ },
+ {
+  "old": "One hand at every scale is match; specific mechanism stands possibling.",
+  "new": "One hand with every scale is match; specific mechanism stands possibling.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "a fly with its handedness flipped by a single myosin change,",
+  "new": "a fly with its handedness flipped by a single myosin mutation,",
+  "verdict": "RESAY",
+  "why": "change, a field's mutation: mutation, its own term."
+ },
+ {
+  "old": "Body hand flips from a molecular change without pattern-matching spiral flipping.",
+  "new": "Body hand flips from a molecular mutation without pattern-matching spiral flipping.",
+  "verdict": "RESAY",
+  "why": "change: mutation, a field's term."
+ },
+ {
+  "old": "**And left-hand at one substrate is in service of right at next scale up.**",
+  "new": "**And left-hand with one substrate serves right with next scale up.**",
+  "verdict": "RESAY",
+  "why": "at: with; is in service of: serves."
+ },
+ {
+  "old": "individual collagen chains are left-handed and assemble into a right-handed triple superhelix, chains' left-handedness inversion at chain substrate carving twist",
+  "new": "individual collagen chains are left-handed and assemble to a right-handed triple superhelix, chains' left-handedness inversion with chain substrate carving twist",
+  "verdict": "RESAY",
+  "why": "into: to; at: with."
+ },
+ {
+  "old": "L-amino-acids at molecular point-asymmetry are the same,",
+  "new": "L-amino-acids with molecular point-asymmetry are alike,",
+  "verdict": "RESAY",
+  "why": "at: with; the same: alike."
+ },
+ {
+  "old": "and leftward node flow is the same at body scale,",
+  "new": "and leftward node flow is alike with body scale,",
+  "verdict": "RESAY",
+  "why": "the same: alike; at: with."
+ },
+ {
+  "old": "One fractal: left-chirality at each substrate in service of right-chirality at next scale up, two composing at one form.",
+  "new": "One fractal: left-chirality with each substrate serving right-chirality with next scale up, two composing as one form.",
+  "verdict": "RESAY",
+  "why": "at: with, as; in service of: serving."
+ },
+ {
+  "old": "## 5.5 Multicellularity and the germ-soma split — many selves into one; the carried self and the offered surface",
+  "new": "## 5.5 Multicellularity and the germ-soma split — many selves into one; the carried self and the offered surface",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "many selves becoming one self, the same move as eukaryogenesis at scale of a colony.",
+  "new": "many selves becoming one self, one same move as eukaryogenesis with scale of a colony.",
+  "verdict": "RESAY",
+  "why": "the same: one same; at: with."
+ },
+ {
+  "old": "carries the whole ladder living:",
+  "new": "carries its whole ladder living:",
+  "verdict": "RESAY",
+  "why": "the: its; at least two dozen times before it kept, a field's own count."
+ },
+ {
+  "old": "one higher self (the body)",
+  "new": "one higher self (a body)",
+  "verdict": "RESAY",
+  "why": "the: a; evolutionary transition in individuality kept, a field's own term."
+ },
+ {
+  "old": "a genome doubling at each cell as a cluster grows to a larger scale.",
+  "new": "a genome doubling with each cell as a cluster grows to a larger scale.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Two myoblasts approach at a shared membrane,",
+  "new": "Two myoblasts approach with a shared membrane,",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Every skeletal muscle fibre is built at that transition, and it is the same move as conception one scale down — two selves approaching, coupling resolving at membrane, one new self opening.",
+  "new": "Every skeletal muscle fibre is built with that transition, and it is one same move as conception one scale down — two selves approaching, coupling resolving with membrane, one new self opening.",
+  "verdict": "RESAY",
+  "why": "at: with; the same: one same."
+ },
+ {
+  "old": "whose geometry carries curvature at coupling point;",
+  "new": "whose geometry carries curvature with coupling point;",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Conception at fibre's own scale, and lipid condition of it.",
+  "new": "Conception with fibre's own scale, and lipid condition of it.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Division of labour is bi-moral co-agency at cell scale.",
+  "new": "Division of labour is bi-moral co-agency with cell scale.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "In Volvox somatic cells give up their own reproduction to do body's motility (a reproductive altruism, conserving offered to the whole), while reproductive cells carry next generation (the extending).",
+  "new": "With Volvox, somatic cells give up their own reproduction to do body's motility (a reproductive altruism, conserving offered to a whole), while reproductive cells carry next generation (extending).",
+  "verdict": "RESAY",
+  "why": "in: with; the: a, removed."
+ },
+ {
+  "old": "Conflict-mediators in a field's own words",
+  "new": "Conflict-mediators with a field's own words",
+  "verdict": "RESAY",
+  "why": "in: with."
+ },
+ {
+  "old": "thing keeping a cell from landing into a defector that recursions for itself.",
+  "new": "thing preventing a cell's landing as a defector that recursions for itself.",
+  "verdict": "RESAY",
+  "why": "keeping from: preventing; into: as."
+ },
+ {
+  "old": "A cell that does land out of coupling — reverting to reproducing for itself against the whole — is cancer, defector, landing at cell scale.",
+  "new": "A cell that does land from coupling — reverting to reproducing for itself against its whole — is cancer, defector, landing with cell scale.",
+  "verdict": "RESAY",
+  "why": "out of: from; the: its; at: with."
+ },
+ {
+  "old": "made structural — the same private-program / public-surface of metamorphosis (a self recursioning into a new form).",
+  "new": "made structural — one same private-program / public-surface of metamorphosis (a self recursioning to a new form).",
+  "verdict": "RESAY",
+  "why": "the same: one same; into: to; bounding-zeroing-carrying-the-next-regime kept, one naming."
+ },
+ {
+  "old": "sacrificing its own reproduction for the whole.",
+  "new": "sacrificing its own reproduction for its whole.",
+  "verdict": "RESAY",
+  "why": "the: its."
+ },
+ {
+  "old": "Weismann's barrier — that soma's changes do not pass to germline,",
+  "new": "Weismann's barrier — that variation soma acquires does not pass to germline,",
+  "verdict": "RESAY",
+  "why": "changes, a field's acquired variation: re-said by its meaning."
+ },
+ {
+  "old": "Butterfly in caterpillar, imaginal disc dormant from embryo, germline sequestered from soma: one observing at three scales",
+  "new": "Butterfly within caterpillar, imaginal disc dormant from embryo, germline sequestered from soma: one observing with three scales",
+  "verdict": "RESAY",
+  "why": "in: within, a whole and its part; at: with."
+ },
+ {
+  "old": "**The germ-soma split is inward and outward uniquenessing.**",
+  "new": "**Germ-soma split is inward and outward uniquenessing.**",
+  "verdict": "RESAY",
+  "why": "the: removed."
+ },
+ {
+  "old": "(the inward uniqueness and side-effecting axis)",
+  "new": "(inward uniqueness and side-effecting axis)",
+  "verdict": "RESAY",
+  "why": "the: removed."
+ },
+ {
+  "old": "membraning exploring surface that conforms with the rest.",
+  "new": "membraning exploring surface that conforms with its others.",
+  "verdict": "RESAY",
+  "why": "the rest: its others."
+ },
+ {
+  "old": "observed at multicellular self — the same two metamorphosis and eukaryogenesis carry.",
+  "new": "observed with multicellular self — one same two metamorphosis and eukaryogenesis carry.",
+  "verdict": "RESAY",
+  "why": "at: with; the same: one same."
+ },
+ {
+  "old": "*The sequestration is a field's;",
+  "new": "*Sequestration is a field's;",
+  "verdict": "RESAY",
+  "why": "the: removed."
+ },
+ {
+  "old": "**And death and conception are facing through one wall at species between.**",
+  "new": "**And death and conception are facing through one wall with species between.**",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Death and conception are not two events but one wall at two sides species wraps around, germline cell sitting at wall — carried self of development and metamorphosis's metamorphosis observed at species scale,",
+  "new": "Death and conception are not two events but one wall with two sides species wraps around, germline cell sitting with wall — carried self of development and metamorphosis's metamorphosis observed with species scale,",
+  "verdict": "RESAY",
+  "why": "at: with."
  }
 ]

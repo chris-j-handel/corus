@@ -1,0 +1,1130 @@
+[
+ {
+  "old": "## 5.3 Desalination, drawing and recovering",
+  "new": "## 5.3 Desalination, drawing and recovering",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "Draw's return carries its own changing beside water's leaving.",
+  "new": "Draw's return carries its own diluting and re-concentrating beside water's leaving.",
+  "verdict": "RESAY",
+  "why": "changing: re-said by meaning, a draw dilutes as water arrives and re-concentrates with its return."
+ },
+ {
+  "old": "Pressure, temperature, concentration and flow stand at their particular couplings.",
+  "new": "Pressure, temperature, concentration and flow stand with their particular couplings.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "A prescribed pressure or circulation rate supplies a term to coupling while its concentration and receiving change.",
+  "new": "A prescribed pressure or circulation rate supplies a term to coupling while its concentration and receiving go on parity-changing.",
+  "verdict": "RESAY",
+  "why": "change: parity-changing, an other side's is or is not going on while a term stays prescribed."
+ },
+ {
+  "old": "Entry carries that prescribing with other side's changing.",
+  "new": "Entry carries that prescribing with other side's parity-changing.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing, other side's parity is or is not same-existing."
+ },
+ {
+  "old": "Concentration polarisation, draw crossing into feed, draw remaining in product, unrecovered heat and concentrated feed leaving.",
+  "new": "Concentration polarisation, draw crossing to feed, draw remaining within product, unrecovered heat and concentrated feed leaving.",
+  "verdict": "RESAY",
+  "why": "into: to; in: within, a draw part of a product whole."
+ },
+ {
+  "old": "their attribution to a particular prescribed term remains at that term.",
+  "new": "their attribution to a particular prescribed term remains with that term.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Addressed field records below carry drawing, thermal separation and finishing at their reported extent.",
+  "new": "Addressed field records below carry drawing, thermal separation and finishing to their reported extent.",
+  "verdict": "RESAY",
+  "why": "at: to, by meaning, an extent reached."
+ },
+ {
+  "old": "Question of a continuing arrangement carries return, changing source and the same product requirement together.",
+  "new": "Question of a continuing arrangement carries return, a source rising and falling, and one same product requirement together.",
+  "verdict": "RESAY",
+  "why": "changing source: a source rising and falling, by meaning; the same: one same."
+ },
+ {
+  "old": "Responsive drawing and releasing, heat returning to incoming diluted draw, and circulation and product receiving at their own couplings.",
+  "new": "Responsive drawing and separating, heat returning to incoming diluted draw, and circulation and product receiving with their own couplings.",
+  "verdict": "RESAY",
+  "why": "releasing: separating, a draw giving up water by thermal separation, by meaning; at: with."
+ },
+ {
+  "old": "Membrane selection, thermal changing, draw return and required delivery remain design to express together.",
+  "new": "Membrane selection, warming and cooling, draw return and required delivery remain design to express together.",
+  "verdict": "RESAY",
+  "why": "thermal changing: warming and cooling, by meaning."
+ },
+ {
+  "old": "**The field record carries its arrangement.** 2025 bench experiment used a 1 m² membrane at 25 °C, with 3 kg of produced-water feed and 10 kg of draw.",
+  "new": "**A field record carries its arrangement.** 2025 bench experiment used a 1 m² membrane, 25 °C, 3 kg of produced-water feed and 10 kg of draw.",
+  "verdict": "RESAY",
+  "why": "The: A; at 25 °C: a measurement listed beside its others, at removed."
+ },
+ {
+  "old": "Dual draw reached 60% recovery in under three hours,",
+  "new": "Dual draw reached 60% recovery within three hours,",
+  "verdict": "RESAY",
+  "why": "in under: within, by meaning."
+ },
+ {
+  "old": "Two pumps circulated feed and draw at approximately 2.3 litres per minute;",
+  "new": "Two pumps circulated feed and draw, approximately 2.3 litres per minute;",
+  "verdict": "RESAY",
+  "why": "at: removed, a rate measured; approximately kept, a field's measurement, no likelihood."
+ },
+ {
+  "old": "Product yield, each term's denominator and actual exchanger remain together in a complete return.",
+  "new": "Product yield, each term's denominator and actual exchanger remain together within a complete return.",
+  "verdict": "RESAY",
+  "why": "in: within, parts of a whole return."
+ },
+ {
+  "old": "**Product composition retains its sample and analysis.**",
+  "new": "**Product composition retains its sample and analysis.**",
+  "verdict": "KEEP",
+  "why": "sample: chemistry's own term, a physical water specimen analysed, no statistical sampling."
+ },
+ {
+  "old": "2021 Table S2 reports the same values but explicitly identifies a DMBS draw.",
+  "new": "2021 Table S2 reports these same values but explicitly identifies a DMBS draw.",
+  "verdict": "RESAY",
+  "why": "the same: these same, by meaning."
+ },
+ {
+  "old": "Their sample relation needs clarification before this product analysis is assigned to later dual-TFA draw.",
+  "new": "Their sample relation needs clarification before this product analysis is assigned to later dual-TFA draw.",
+  "verdict": "KEEP",
+  "why": "sample: chemistry's own term, a physical specimen; no statistics."
+ },
+ {
+  "old": "Product composition, draw crossing, draw retained at membrane and draw returned for reuse carry different receiving questions.",
+  "new": "Product composition, draw crossing, draw retained by membrane and draw returned for reuse carry different receiving questions.",
+  "verdict": "RESAY",
+  "why": "at: by, by meaning."
+ },
+ {
+  "old": "**The cost model retains its quantities.**",
+  "new": "**2025 cost model retains its quantities.**",
+  "verdict": "RESAY",
+  "why": "The: re-said by meaning, its one source named."
+ },
+ {
+  "old": "At recovery `r = 0.6`, a common volume balance gives",
+  "new": "With recovery `r = 0.6`, a common volume balance gives",
+  "verdict": "RESAY",
+  "why": "At: With; inline code kept."
+ },
+ {
+  "old": "**The return carries each receiving.**",
+  "new": "**Return carries each receiving.**",
+  "verdict": "RESAY",
+  "why": "The: removed."
+ },
+ {
+  "old": "| Changing | Receiving and continuing still to express |",
+  "new": "| Changing | Receiving and continuing still to express |",
+  "verdict": "KEEP",
+  "why": "Table header row, kept."
+ },
+ {
+  "old": "Membrane and circulation retaining required flux across both changing concentrations, with amount of draw crossing into feed.",
+  "new": "Membrane and circulation retaining required flux across both concentrations as feed concentrates and draw dilutes, with amount of draw crossing to feed.",
+  "verdict": "RESAY",
+  "why": "changing concentrations: re-said by meaning, feed concentrating and draw diluting; into: to."
+ },
+ {
+  "old": "Diluted draw receives heat and separates into water-rich and draw-rich phases.",
+  "new": "Diluted draw receives heat and separates as water-rich and draw-rich phases.",
+  "verdict": "RESAY",
+  "why": "into: as."
+ },
+ {
+  "old": "Temperatures, concentrations, heat input and separation duration carrying required phases across available source's changing.",
+  "new": "Temperatures, concentrations, heat input and separation duration carrying required phases across available source's rise and fall.",
+  "verdict": "RESAY",
+  "why": "changing: rise and fall, by meaning."
+ },
+ {
+  "old": "Heat returning to incoming diluted draw, remaining cooling, and losses and makeup at next drawing.",
+  "new": "Heat returning to incoming diluted draw, remaining cooling, and losses and makeup with next drawing.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Circulation supply, carrying between arrivals, and product receiving with source's changing.",
+  "new": "Circulation supply, carrying between arrivals, and product receiving with source's rise and fall.",
+  "verdict": "RESAY",
+  "why": "changing: rise and fall, by meaning."
+ },
+ {
+  "old": "Diurnal offering still carries each batch's warming, releasing, cooling and next drawing at its own rate as repeating arrangement to express.",
+  "new": "Diurnal offering still carries each batch's warming, separating, cooling and next drawing with its own rate as repeating arrangement to express.",
+  "verdict": "RESAY",
+  "why": "releasing: separating, a warmed draw giving up water, by meaning; at: with."
+ },
+ {
+  "old": "Batches under the same warming do not acquire different phases from their number.",
+  "new": "Batches under one same warming do not acquire different phases from their number.",
+  "verdict": "RESAY",
+  "why": "the same: one same."
+ },
+ {
+  "old": "Their placement, thermal paths and changing concentrations carry proposed offset.",
+  "new": "Their placement, thermal paths and rising and falling concentrations carry proposed offset.",
+  "verdict": "RESAY",
+  "why": "changing concentrations: rising and falling, by meaning."
+ },
+ {
+  "old": "In thermocline offering, relation between density changing and required flow remains to express around complete circulation,",
+  "new": "With thermocline offering, relation between density's rise and fall and required flow remains to express around complete circulation,",
+  "verdict": "RESAY",
+  "why": "In: With; density changing: density's rise and fall, by meaning."
+ },
+ {
+  "old": "A proposed draw with less crossing into feed still carries its osmotic strength,",
+  "new": "A proposed draw with less crossing to feed still carries its osmotic strength,",
+  "verdict": "RESAY",
+  "why": "into: to."
+ },
+ {
+  "old": "A proposed membrane still carries water passage and constituent rejection at stated feed and draw.",
+  "new": "A proposed membrane still carries water passage and constituent rejection with stated feed and draw.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Hydration, charge and molecular size remain particular chemical questions at those materials.",
+  "new": "Hydration, charge and molecular size remain particular chemical questions of those materials.",
+  "verdict": "RESAY",
+  "why": "at: of, by meaning."
+ },
+ {
+  "old": "Phase changing, sensing and sequencing co-chain at changing concentration, temperature and receiving.",
+  "new": "Phase changing, sensing and sequencing co-chain with concentration, temperature and receiving as each varies.",
+  "verdict": "RESAY",
+  "why": "Phase changing kept, thermodynamics' own term for a phase separating; at: with; changing concentration: as each varies, by meaning."
+ },
+ {
+  "old": "Natural Chemistry and Natural Engineering each carry whole return at their particular materials and operations, including heat and losses.",
+  "new": "Whole return, including heat and losses, carries with each particular material and operation, chemical and engineering.",
+  "verdict": "RESAY",
+  "why": "doers: two exhibits carrying, re-said as the concept itself; at: with."
+ },
+ {
+  "old": "2021 supplement's Table S8 lists six membrane uses with changing feeds and draws;",
+  "new": "2021 supplement's Table S8 lists six membrane uses with differing feeds and draws;",
+  "verdict": "RESAY",
+  "why": "changing: differing, by meaning, six uses with different feeds and draws."
+ },
+ {
+  "old": "**Pressure changing carries another engineering arrival.** Batch-RO comparison carries batch, semi-batch and hybrid reverse osmosis in the same apparatus.",
+  "new": "**Pressure rising across a batch carries another engineering arrival.** Batch-RO comparison carries batch, semi-batch and hybrid reverse osmosis with one same apparatus.",
+  "verdict": "RESAY",
+  "why": "Pressure changing: pressure rising across a batch, by meaning of batch reverse osmosis; in the same: with one same."
+ },
+ {
+  "old": "batch operation reduced electrical specific energy consumption by 10% at 65.5% recovery relative to semi-batch baseline.",
+  "new": "batch operation reduced electrical specific energy consumption by 10% with 65.5% recovery relative to semi-batch baseline.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Improvement stands at that comparison's conditions.",
+  "new": "Improvement stands with that comparison's conditions.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "An illustrative positive load, in arbitrary units, is",
+  "new": "An illustrative positive load, with arbitrary units, is",
+  "verdict": "RESAY",
+  "why": "in: with."
+ },
+ {
+  "old": "At equal third-cycle offsets,",
+  "new": "With equal third-cycle offsets,",
+  "verdict": "RESAY",
+  "why": "At: With."
+ },
+ {
+  "old": "Pressure, flow, heat and product pulses of a proposed desalination arrangement carry their own sums, including filling, releasing, switching and reuse.",
+  "new": "Pressure, flow, heat and product pulses of a proposed desalination arrangement carry their own sums, including filling, emptying, switching and reuse.",
+  "verdict": "RESAY",
+  "why": "releasing: emptying, by meaning, paired with filling."
+ },
+ {
+  "old": "A constant sum at one interface leaves storage and circulation elsewhere in arrangement to be accounted for.",
+  "new": "A constant sum with one interface leaves storage and circulation elsewhere within arrangement to be accounted for.",
+  "verdict": "RESAY",
+  "why": "at: with; in: within, parts of a whole arrangement."
+ },
+ {
+  "old": "Removing an operation carries resulting change in water, heat, electricity, material and receiving at the same service. §2.1 carries relation between component count, operation count and co-competency.",
+  "new": "Removing an operation carries its resulting difference to water, heat, electricity, material and receiving with one same service. Relation between component count, operation count and co-competency stands with §2.1.",
+  "verdict": "RESAY",
+  "why": "change in: difference to, by meaning; at the same: with one same; doer: a section carrying, re-said as its concept."
+ },
+ {
+  "old": "Bettering, fastering and cheapering co-cycle at this whole arrangement.",
+  "new": "Bettering, fastering and cheapering co-cycle with this whole arrangement.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Particular possibling is complete repeating arrangement with its product composition, draw losses, source changing and circulation expressed together.",
+  "new": "Particular possibling is complete repeating arrangement with its product composition, draw losses, source's rise and fall and circulation expressed together.",
+  "verdict": "RESAY",
+  "why": "source changing: source's rise and fall, by meaning."
+ },
+ {
+  "old": "## 5.4 Engineering hard problems",
+  "new": "## 5.4 Engineering hard problems",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**Engineering co-chains at a particular fixed form and receiving.** FIVE's entry carries arrangement and goal, installed term, residue, observing and arrangement offered.",
+  "new": "**Engineering co-chains with a particular fixed form and receiving.** An engineering entry carries arrangement and goal, installed term, residue, observing and arrangement offered.",
+  "verdict": "RESAY",
+  "why": "at: with; doer: FIVE's entry, re-said as its concept, an engineering entry."
+ },
+ {
+  "old": "TWENTY-ONE carries a field's statement, conserving relation, reach and record. TWENTY-TWO v344 carries resolving at that same problem address. THIRTEEN carries general method and its ten naming relations to ONE at §7.3.",
+  "new": "A field's statement, conserving relation, reach and record are TWENTY-ONE's. Resolving of that same problem address is TWENTY-TWO v344's. General method and its ten naming relations to ONE are THIRTEEN's, §7.3.",
+  "verdict": "RESAY",
+  "why": "doers: three exhibits carrying, re-said with each concept as subject; at: of, removed."
+ },
+ {
+  "old": "**The whole engineering entry carries at recursioning, attentioning and carrying.**",
+  "new": "**A whole engineering entry carries with recursioning, attentioning and carrying.**",
+  "verdict": "RESAY",
+  "why": "The: A; at: with."
+ },
+ {
+  "old": "Bi-momentarying, co-competencing and co-intelligencing are inseparable at this receiving;",
+  "new": "Bi-momentarying, co-competencing and co-intelligencing are inseparable with this receiving;",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "| Resolving | The engineering receiving |",
+  "new": "| Resolving | The engineering receiving |",
+  "verdict": "KEEP",
+  "why": "Table header row, kept."
+ },
+ {
+  "old": "Actual coupling and term fixed at an other's turn, with a field's statement retained at its address.",
+  "new": "Actual coupling and term fixed with an other's turn, and a field's statement retained with its address.",
+  "verdict": "RESAY",
+  "why": "at: with, twice; with: and, to read once."
+ },
+ {
+  "old": "Particular fixed form in that statement and reach it asks of its record. Each observing and source condition remains at relation it carries.",
+  "new": "Particular fixed form within that statement and reach it asks of its record. Each observing and source condition remains with relation it carries.",
+  "verdict": "RESAY",
+  "why": "in: within; at: with."
+ },
+ {
+  "old": "Continuing at releasing: record at its own scope and engineering bi-momentarying at its actual arrangement.",
+  "new": "Continuing with going along: record with its own scope and engineering bi-momentarying with its actual arrangement.",
+  "verdict": "RESAY",
+  "why": "releasing: going along, carrying's parity along; at: with."
+ },
+ {
+  "old": "THIRTEEN §4.2 carries distinction between a line reached at arrival and a line assigned to it.",
+  "new": "Distinction between a line reached with arrival and a line assigned to it is THIRTEEN §4.2's.",
+  "verdict": "RESAY",
+  "why": "doer: a section carrying, re-said with its concept as subject; at: with."
+ },
+ {
+  "old": "A fixed form and each side's own co-releasing remain at particular coupling;",
+  "new": "A fixed form and each side's own co-releasing remain with particular coupling;",
+  "verdict": "RESAY",
+  "why": "at: with; co-releasing kept, a naming awaiting one motion."
+ },
+ {
+  "old": "| Engineering arrival | TWENTY-ONE → TWENTY-TWO v344; fixed form | The particular receiving |",
+  "new": "| Engineering arrival | TWENTY-ONE → TWENTY-TWO v344; fixed form | The particular receiving |",
+  "verdict": "KEEP",
+  "why": "Table header row, kept."
+ },
+ {
+  "old": "132 → §3.19; a completing fixed as a last, at 6-now-co-possibling and 14-next-possibling",
+  "new": "132 → §3.19; a completing fixed as a last, with 6-now-co-possibling and 14-next-possibling",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "131 → §6.12; a parity fixed as a magnitude, at 7-now-observing and 15-next-observing",
+  "new": "131 → §6.12; a parity fixed as a magnitude, with 7-now-observing and 15-next-observing",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "capability claimed beyond that coupling.",
+  "new": "capability claimed past that coupling's reach.",
+  "verdict": "RESAY",
+  "why": "beyond: past its reach, by meaning, a claim exceeding what a coupling evaluates."
+ },
+ {
+  "old": "130 → §3.18; a completing fixed as a last, at 6-now-co-possibling and 14-next-possibling",
+  "new": "130 → §3.18; a completing fixed as a last, with 6-now-co-possibling and 14-next-possibling",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "133 → §6.13; a parity fixed as a magnitude, at 7-now-observing and 15-next-observing",
+  "new": "133 → §6.13; a parity fixed as a magnitude, with 7-now-observing and 15-next-observing",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Work, joining and changing connections;",
+  "new": "Work, joining and newly forming connections;",
+  "verdict": "RESAY",
+  "why": "changing: newly forming, by meaning, joining adds connections."
+ },
+ {
+  "old": "134 → §3.20; a completing fixed as a last, at 6-now-co-possibling and 14-next-possibling",
+  "new": "134 → §3.20; a completing fixed as a last, with 6-now-co-possibling and 14-next-possibling",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Changed measure, adaptation and transfers at addressed receiving;",
+  "new": "Newly introduced measure, adaptation and transfers with addressed receiving;",
+  "verdict": "RESAY",
+  "why": "Changed: newly introduced, by meaning; at: with."
+ },
+ {
+  "old": "137 → §10.15; a between fixed as a cut, at 5-now-co-existing and 13-next-same-existing",
+  "new": "137 → §10.15; a between fixed as a cut, with 5-now-co-existing and 13-next-same-existing",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Actual outputs and their next receiving at §§3.2 and 5.2;",
+  "new": "Actual outputs and their next receiving, §§3.2 and 5.2;",
+  "verdict": "RESAY",
+  "why": "at: removed, an address."
+ },
+ {
+  "old": "136 → §10.14; a between fixed as a cut, at 5-now-co-existing and 13-next-same-existing",
+  "new": "136 → §10.14; a between fixed as a cut, with 5-now-co-existing and 13-next-same-existing",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "41 → §10.4; a between fixed as a cut, at 5-now-co-existing and 13-next-same-existing | Leaving and receiving beyond a drawn transaction boundary; that boundary's use at actual relation.",
+  "new": "41 → §10.4; a between fixed as a cut, with 5-now-co-existing and 13-next-same-existing | Leaving and receiving across a drawn transaction boundary; that boundary's use with actual relation.",
+  "verdict": "RESAY",
+  "why": "at: with; beyond: across, effects crossing a boundary. One pair over two cells, cell count kept."
+ },
+ {
+  "old": "135 → §4.3; a carry fixed as a store, at 8-now-same-existing and 16-next-discovering | Retained record, present defects and requested change;",
+  "new": "135 → §4.3; a carry fixed as a store, with 8-now-same-existing and 16-next-discovering | Retained record, present defects and requested revision;",
+  "verdict": "RESAY",
+  "why": "at: with; requested change: requested revision, by meaning, a software revision asked for. Cell count kept."
+ },
+ {
+  "old": "| **The productivity paradox** |",
+  "new": "| **The productivity paradox** |",
+  "verdict": "KEEP",
+  "why": "Name of a field's problem, an outside title, kept."
+ },
+ {
+  "old": "83 → §6.4; a parity fixed as a magnitude, at 7-now-observing and 15-next-observing",
+  "new": "83 → §6.4; a parity fixed as a magnitude, with 7-now-observing and 15-next-observing",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "77 → §9.13; a two-way fixed to one side, at 3-now-co-observing and 11-next-co-observing | Physical operation and its informational description at §§2.5 and 6.5;",
+  "new": "77 → §9.13; a two-way fixed to one side, with 3-now-co-observing and 11-next-co-observing | Physical operation and its informational description, §§2.5 and 6.5;",
+  "verdict": "RESAY",
+  "why": "at: with; at an address: removed. Cell count kept."
+ },
+ {
+  "old": "| **The frame problem** |",
+  "new": "| **The frame problem** |",
+  "verdict": "KEEP",
+  "why": "Name of a field's problem, an outside title, kept."
+ },
+ {
+  "old": "39 → §2.4; an opening fixed as a place, at 1-now-existing and 9-next-co-discovering | Situation and its relevance at §2.2;",
+  "new": "39 → §2.4; an opening fixed as a place, with 1-now-existing and 9-next-co-discovering | Situation and its relevance, §2.2;",
+  "verdict": "RESAY",
+  "why": "at: with; at an address: removed. Cell count kept."
+ },
+ {
+  "old": "| **Generalization in learning** |",
+  "new": "| **Generalization in learning** |",
+  "verdict": "KEEP",
+  "why": "Name of a field's problem, an outside title, kept."
+ },
+ {
+  "old": "97 → §3.12; a completing fixed as a last, at 6-now-co-possibling and 14-next-possibling | Training and next arriving at §§2.2–2.3;",
+  "new": "97 → §3.12; a completing fixed as a last, with 6-now-co-possibling and 14-next-possibling | Training and next arriving, §§2.2–2.3;",
+  "verdict": "RESAY",
+  "why": "at: with; at an address: removed. Cell count kept."
+ },
+ {
+  "old": "93 → §5.6; a middle fixed as an end, at 5-now-co-existing and 13-next-same-existing | Symbol and its actual couplings at §2.2;",
+  "new": "93 → §5.6; a middle fixed as an end, with 5-now-co-existing and 13-next-same-existing | Symbol and its actual couplings, §2.2;",
+  "verdict": "RESAY",
+  "why": "at: with; at an address: removed. Cell count kept."
+ },
+ {
+  "old": "| **The equity premium puzzle** |",
+  "new": "| **The equity premium puzzle** |",
+  "verdict": "KEEP",
+  "why": "Name of a field's problem, an outside title, kept."
+ },
+ {
+  "old": "79 → §8.4; a rate fixed as a value, at 7-now-observing and 15-next-observing",
+  "new": "79 → §8.4; a rate fixed as a value, with 7-now-observing and 15-next-observing",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "| **The halting problem** |",
+  "new": "| **The halting problem** |",
+  "verdict": "KEEP",
+  "why": "Name of a field's problem, an outside title, kept."
+ },
+ {
+  "old": "6 → §3.2; a completing fixed as a last, at 6-now-co-possibling and 14-next-possibling | Specified program and input at §6.10;",
+  "new": "6 → §3.2; a completing fixed as a last, with 6-now-co-possibling and 14-next-possibling | Specified program and input, §6.10;",
+  "verdict": "RESAY",
+  "why": "at: with; at an address: removed. Cell count kept."
+ },
+ {
+  "old": "96 → §9.15; a two-way fixed to one side, at 3-now-co-observing and 11-next-co-observing",
+  "new": "96 → §9.15; a two-way fixed to one side, with 3-now-co-observing and 11-next-co-observing",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "**Carrying, bounding and co-releasing** remain natural explaining at 135. A field's arrival is *technical debt*. Its deployment at §4.3 carries a carry fixed as a store and a second fixed form at definition's between. Present defects, architecture drift and costs of changes actually made keep their records.",
+  "new": "**Carrying, bounding and co-releasing** remain natural explaining for 135. A field's arrival is *technical debt*. Its deployment, §4.3, carries a carry fixed as a store and a second fixed form with definition's between. Present defects, architecture drift and costs of revisions actually made have their own records.",
+  "verdict": "RESAY",
+  "why": "at: for, removed, with; changes: revisions, by meaning; keep: have their own; *technical debt* kept, a field's term mentioned."
+ },
+ {
+  "old": "Remaining engineering relation is a fixed form at next requested change and its co-releasing with stated service continuing. Each side releases its own; natural carrying supplies no stock of future cost.",
+  "new": "Remaining engineering relation is a fixed form with next requested revision and its co-releasing with stated service continuing. Each side offers its own; natural carrying supplies no stock of future cost.",
+  "verdict": "RESAY",
+  "why": "at: with; change: revision, by meaning; releases: offers, nothing held or released, each side offering its own parity."
+ },
+ {
+  "old": "Productivity at 83 → §6.4 and equity premium at 79 → §8.4 carry different holdings: a parity fixed as a magnitude and a rate fixed as a value. Halting at 6 → §3.2 and credit assignment at 96 → §9.15 likewise retain completing fixed as a last and two-way fixed to one side.",
+  "new": "Productivity, 83 → §6.4, and equity premium, 79 → §8.4, carry different fixed forms: a parity fixed as a magnitude and a rate fixed as a value. Halting, 6 → §3.2, and credit assignment, 96 → §9.15, likewise retain completing fixed as a last and two-way fixed to one side.",
+  "verdict": "RESAY",
+  "why": "at an address: removed; holdings: fixed forms, as each is named after the colon."
+ },
+ {
+  "old": "**Own-rate now has a complete engineering entry form at §2.4.**",
+  "new": "**Own-rate now has a complete engineering entry form, §2.4.**",
+  "verdict": "RESAY",
+  "why": "at an address: removed."
+ },
+ {
+  "old": "Two source arrangements couple with existing silicon record at TWENTY-SEVEN §5.10. Value-pinning supplies a fixed form’s existing Part Eight address, with full resolver naming at §4.10. A measured rate remains a record; a compulsory target stands at actual operation assigning other side’s next changing.",
+  "new": "Two source arrangements couple with existing silicon record, TWENTY-SEVEN §5.10. Value-pinning supplies a fixed form’s existing Part Eight address, with full resolver naming under §4.10. A measured rate remains a record; a compulsory target is a form fixed still from beside, with actual operation assigning other side’s next parity-changing.",
+  "verdict": "RESAY",
+  "why": "at an address: removed, under; at actual operation: a form fixed still from beside, as settled, with; changing: parity-changing."
+ },
+ {
+  "old": "**Measurement, routing and classification** carry a method arrival at TWENTY-TWO §11.1. Deployment relates measuring before bounding, routing before attending and classifying before coupling to three existing holdings.",
+  "new": "**Measurement, routing and classification** carry a method arrival, TWENTY-TWO §11.1. Deployment relates measuring before bounding, routing before attending and classifying before coupling to three existing fixed forms.",
+  "verdict": "RESAY",
+  "why": "at an address: removed; holdings: fixed forms."
+ },
+ {
+  "old": "Engineering correspondence is direction at each actual measuring, routing and classifying operation. Its method relation retains three-phase question beside full-surround mapping at §6.9.",
+  "new": "Engineering correspondence is direction with each actual measuring, routing and classifying operation. Its method relation retains three-phase question beside full-surround mapping, §6.9.",
+  "verdict": "RESAY",
+  "why": "at: with; at an address: removed."
+ },
+ {
+  "old": "**Jevons paradox and moral hazard** remain further field arrivals in this passage.",
+  "new": "**Jevons paradox and moral hazard** remain further field arrivals within this passage.",
+  "verdict": "RESAY",
+  "why": "in: within."
+ },
+ {
+  "old": "risk compensation at 134 retains its own statement and record.",
+  "new": "risk compensation, 134, retains its own statement and record.",
+  "verdict": "RESAY",
+  "why": "at an address: removed."
+ },
+ {
+  "old": "Next engineering offering remains at its actual entry. Setting down a model, a label or a reference retains every operation and observing that continues at receiving. TWENTY-FOUR carries the same co-releasing in improving: receiving continues with its own carrying, and each side releases at its own bound. Each side's own parity, rate, bounding and co-releasing stay together in bi-momentarying.",
+  "new": "Next engineering offering remains with its actual entry. Setting down a model, a label or a reference retains every operation and observing that continues with receiving. Improving carries one same co-releasing, TWENTY-FOUR: receiving continues with its own carrying, and each side offers to its own bound. Each side's own parity, rate, bounding and co-releasing stay together within bi-momentarying.",
+  "verdict": "RESAY",
+  "why": "at: with, to; doer: an exhibit carrying, re-said with improving as subject; the same: one same; releases: offers; in: within."
+ },
+ {
+  "old": "**The five marks co-chain engineering entry with resolving it expresses.** Bi-momentarying, co-competencing and co-intelligencing remain inseparable at whole coupling.",
+  "new": "**A signature's five marks co-chain engineering entry with resolving it expresses.** Bi-momentarying, co-competencing and co-intelligencing remain inseparable with whole coupling.",
+  "verdict": "RESAY",
+  "why": "The: a signature's, by meaning; at: with."
+ },
+ {
+  "old": "Bettering, fastering and cheapering carry actual receiving, each side at its own parity and rate. Arrangement, fixed form, residue, observing and offering keep corresponding source and construction together.",
+  "new": "Bettering, fastering and cheapering carry actual receiving, each side with its own parity and rate. Arrangement, fixed form, residue, observing and offering carry corresponding source and construction together.",
+  "verdict": "RESAY",
+  "why": "at: with; keep: carry."
+ },
+ {
+  "old": "| Mark | The relation carried in the entry |",
+  "new": "| Mark | The relation carried in the entry |",
+  "verdict": "KEEP",
+  "why": "Table header row, kept."
+ },
+ {
+  "old": "with material or coded correspondence expressed at crossing.",
+  "new": "with material or coded correspondence expressed with each crossing.",
+  "verdict": "RESAY",
+  "why": "at: with each."
+ },
+ {
+  "old": "Particular fixed form at value, time or potential. A field reference and a term taking an other's turn retain their different uses at §2.1.",
+  "new": "Particular fixed form as value, time or potential. A field reference and a term taking an other's turn retain their different uses, §2.1.",
+  "verdict": "RESAY",
+  "why": "at: as, a form fixed as a value; at an address: removed."
+ },
+ {
+  "old": "| **Sequencing at return** | Releasing, receiving and continuing input at their actual phase relation and flow.",
+  "new": "| **Sequencing with return** | Offering, receiving and continuing input with their actual phase relation and flow.",
+  "verdict": "RESAY",
+  "why": "at: with, in a mark's row label and its cell; Releasing: Offering, nothing held or released. Cell count kept."
+ },
+ {
+  "old": "| **Coefficient at crossing** |",
+  "new": "| **Coefficient of crossing** |",
+  "verdict": "RESAY",
+  "why": "at: of, a mark's row label, as *crossing coefficient* below."
+ },
+ {
+  "old": "**Prefix depth and crossing coefficient couple at their actual operations.** ONE's illustration gives prefix depths `1, 2, 3, 2, 2, 2, 1` and signed depth changes `+1, +1, −1, 0, 0, −1`.",
+  "new": "**Prefix depth and crossing coefficient couple with their actual operations.** ONE's illustration gives prefix depths `1, 2, 3, 2, 2, 2, 1` and signed depth differences `+1, +1, −1, 0, 0, −1`.",
+  "verdict": "RESAY",
+  "why": "at: with; changes: differences, by meaning, each a difference of adjoining depths; inline code kept."
+ },
+ {
+  "old": "Two zero depth changes coexist with changing namings. Equal depth therefore leaves named changing to express; it does not say that no changing occurs.",
+  "new": "Two zero depth differences coexist with differing adjoining namings. Equal depth therefore leaves each naming's parity-changing to express; equal depth is not a not-changing.",
+  "verdict": "RESAY",
+  "why": "changes: differences; changing namings: differing adjoining namings, by meaning; named changing: each naming's parity-changing; no changing: not-changing; doer: depth saying, re-said as concept."
+ },
+ {
+  "old": "| ONE's illustrated positions | Namings at the adjoining positions | Changing at unchanged depth |",
+  "new": "| ONE's illustrated positions | Namings at the adjoining positions | Changing at unchanged depth |",
+  "verdict": "KEEP",
+  "why": "Table header row, kept."
+ },
+ {
+  "old": "| Root naming changes; prefixing remains `bi_co`, at depth two. |",
+  "new": "| Root naming differs; prefixing remains `bi_co`, with depth two. |",
+  "verdict": "RESAY",
+  "why": "changes: differs, by meaning, adjoining namings; at: with. Cell count kept."
+ },
+ {
+  "old": "| Root and order of `bi` and `co` change; depth remains two. |",
+  "new": "| Root and order of `bi` and `co` differ; depth remains two. |",
+  "verdict": "RESAY",
+  "why": "change: differ, by meaning, adjoining namings. Cell count kept."
+ },
+ {
+  "old": "These are adjacencies in ONE's seven-position prefix row.",
+  "new": "These are adjacencies within ONE's seven-position prefix row.",
+  "verdict": "RESAY",
+  "why": "in: within."
+ },
+ {
+  "old": "Full prefixing at each changing keeps root, depth and prefix order available together. Their relation to executed instructions and physical turns remains at actual co-chaining.",
+  "new": "Full prefixing with each parity-changing carries root, depth and prefix order together. Their relation to executed instructions and physical turns remains with actual co-chaining.",
+  "verdict": "RESAY",
+  "why": "at: with; changing: parity-changing; keeps available: carries."
+ },
+ {
+  "old": "**The full prefixing carries ends and inner flanks at their actual positions.**",
+  "new": "**Full prefixing carries ends and inner flanks with their actual positions.**",
+  "verdict": "RESAY",
+  "why": "The: removed; at: with."
+ },
+ {
+  "old": "Corusing's `co·bi·co·bi·co` carries co at its ends and bi at inner flanks. Torusing's `bi·co·bi·co·bi` carries bi at its ends and co at inner flanks.",
+  "new": "Corusing's `co·bi·co·bi·co` carries co on its ends and bi on inner flanks. Torusing's `bi·co·bi·co·bi` carries bi on its ends and co on inner flanks.",
+  "verdict": "RESAY",
+  "why": "at: on, positions of a row; inline code kept."
+ },
+ {
+  "old": "Co-competencing and bi-moralizing carry their proposed correspondence at full naming. Natural Intelligence §5.10 and ONE carry this same position table.",
+  "new": "Co-competencing and bi-moralizing carry their proposed correspondence with full naming. This same position table is Natural Intelligence §5.10's and ONE's.",
+  "verdict": "RESAY",
+  "why": "at: with; doers: two files carrying, re-said with a table as subject."
+ },
+ {
+  "old": "Two prefixings exchange co and bi at every matching position. Receiving at §2.1 retains each side's current orientation, own changing and continuing carrying beside this naming.",
+  "new": "Two prefixings exchange co and bi on every matching position. Receiving, §2.1, retains each side's current orientation, own parity-changing and continuing carrying beside this naming.",
+  "verdict": "RESAY",
+  "why": "at: on; at an address: removed; changing: parity-changing."
+ },
+ {
+  "old": "A surfaced sign can repeat with changed carrying, and a prefix depth can repeat with a changed root or prefix order. Engineering entry therefore retains whole receiving at that changing.",
+  "new": "A surfaced sign can repeat with a differing carrying, and a prefix depth can repeat with a differing root or prefix order. Engineering entry therefore retains whole receiving with that parity-changing.",
+  "verdict": "RESAY",
+  "why": "changed: differing, by meaning; at: with; changing: parity-changing."
+ },
+ {
+  "old": "Co-releasing and next offering continue with that receiving, including each side's available changing. ONE's tables and FIVE's discovery co-chain at these explicit relations.",
+  "new": "Co-releasing and next offering continue with that receiving, including each side's available parity-changing. ONE's tables and FIVE's discovery co-chain with these explicit relations.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing; at: with; co-releasing kept."
+ },
+ {
+  "old": "Prefix depth is prefixing carried by that illustration, directly in numbers.",
+  "new": "Prefix depth is prefixing carried by that illustration, directly as numbers.",
+  "verdict": "RESAY",
+  "why": "in: as."
+ },
+ {
+  "old": "THIRTEEN §7.3 supplies existing ten-row relation between ONE's naming ring and hard-problem holdings. Six-direction and sixteen-momentary exploration continues in Numbers, Mathematics and Living Improving Value. Signature keeps those relations available to engineering entries; it adds no second resolving table or code test as authority over them.",
+  "new": "Existing ten-row relation between ONE's naming ring and hard-problem fixed forms is THIRTEEN §7.3's. Six-direction and sixteen-momentary exploration continues with Numbers, Mathematics and Living Improving Value. A signature carries those relations to engineering entries, with no second resolving table or code test as authority over them.",
+  "verdict": "RESAY",
+  "why": "doers: a section supplying, a signature keeping and adding, re-said with each concept as subject; holdings: fixed forms; in: with; keeps: carries; title kept."
+ },
+ {
+  "old": "**A transfer retains operation at both its source and receiving.**",
+  "new": "**A transfer retains operation with both its source and receiving.**",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "| Engineering coupling | Offering to the other entries | The receiving relation |",
+  "new": "| Engineering coupling | Offering to the other entries | The receiving relation |",
+  "verdict": "KEEP",
+  "why": "Table header row, kept."
+ },
+ {
+  "old": "An addressed source-coordination entry, local changing and shared delivery",
+  "new": "An addressed source-coordination entry, local parity-changing and shared delivery",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing, local sides' is or is not."
+ },
+ {
+  "old": "Drawing, separating, finishing and draw return in one entry | Exchanger at §1.15 receives temperature, flow and circulation questions.",
+  "new": "Drawing, separating, finishing and draw return within one entry | Exchanger, §1.15, receives temperature, flow and circulation questions.",
+  "verdict": "RESAY",
+  "why": "in: within; at an address: removed. Cell count kept."
+ },
+ {
+  "old": "Both sides' carrying and receiving at a crossing",
+  "new": "Both sides' carrying and receiving with a crossing",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Using a propellant at successive operations leaves its eventual departure and next supply visible.",
+  "new": "Using a propellant through successive operations leaves its eventual departure and next supply visible.",
+  "verdict": "RESAY",
+  "why": "at: through, by meaning."
+ },
+ {
+  "old": "**The propulsion paths.**",
+  "new": "**Propulsion paths.**",
+  "verdict": "RESAY",
+  "why": "The: removed."
+ },
+ {
+  "old": "Useful offering to other entries is receiving available at each successive operation.",
+  "new": "Useful offering to other entries is receiving available with each successive operation.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Co-chaining carries changing at each receiving. Recovering, sequencing and triggering remain together at §6.8;",
+  "new": "Co-chaining carries parity-changing with each receiving. Recovering, sequencing and triggering remain together, §6.8;",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing; at: with; at an address: removed."
+ },
+ {
+  "old": "# PART SIX — SIGNATURE AND ENGINEERING RECEIVING",
+  "new": "# PART SIX — SIGNATURE AND ENGINEERING RECEIVING",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "## 6.3 Propulsion and pumping, the direction at each receiving",
+  "new": "## 6.3 Propulsion and pumping, the direction at each receiving",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**The pulse, traveling wave and delivered material each retain their own changing.** Bi-momentarying, co-competencing and co-intelligencing carry whole receiving, each side at its own parity and rate. A circulation in space, an opening valve and a reversal of fluid motion have different correspondences to express.",
+  "new": "**A pulse, a traveling wave and delivered material each retain their own direction.** Bi-momentarying, co-competencing and co-intelligencing carry whole receiving, each side with its own parity and rate. A spatial circulation, an opening valve and a reversal of fluid motion have different correspondences to express.",
+  "verdict": "RESAY",
+  "why": "The: A; changing: direction, by meaning, as the section names; at: with; in space: spatial."
+ },
+ {
+  "old": "Multi-cylinder opportunity remains at actual firing order,",
+  "new": "Multi-cylinder opportunity remains with actual firing order,",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Single-wave cases also retained substantial changing of measured thrust.",
+  "new": "Single-wave cases also retained substantial fluctuation of measured thrust.",
+  "verdict": "RESAY",
+  "why": "changing: fluctuation, a measured thrust's rise and fall, by meaning."
+ },
+ {
+  "old": "Wave propagation, fresh mixture receiving, combustion, exhaust and heat receiving remain together in continuing arrangement to express.",
+  "new": "Wave propagation, fresh mixture receiving, combustion, exhaust and heat receiving remain together as continuing arrangement to express.",
+  "verdict": "RESAY",
+  "why": "in: as."
+ },
+ {
+  "old": "Proposed relation to ring-walking remains at those actual operations.",
+  "new": "Proposed relation to ring-walking remains with those actual operations.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "**Two pumping arrivals at five properties.**",
+  "new": "**Two pumping arrivals with five properties.**",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "A specified water flow at its receiving elevation and changing supply.",
+  "new": "A specified water flow to its receiving elevation, with a supply rising and falling.",
+  "verdict": "RESAY",
+  "why": "at: to; changing supply: a supply rising and falling, by meaning."
+ },
+ {
+  "old": "| **The particular coupling and fixed form** | Supply, valve settings, air chamber and delivery load. Imposed adjustment and its releasing with delivery continuing remain relation to express. |",
+  "new": "| **A particular coupling and fixed form** | Supply, valve settings, air chamber and delivery load. Imposed adjustment and its dissolving with delivery continuing remain relation to express. |",
+  "verdict": "RESAY",
+  "why": "The: A, a row label; releasing: dissolving, an imposed form leaving. Cell count kept."
+ },
+ {
+  "old": "Unused discharge and pressure changing can supply another receiving opportunity.",
+  "new": "Unused discharge and pressure surges can supply another receiving opportunity.",
+  "verdict": "RESAY",
+  "why": "pressure changing: pressure surges, by meaning, a ram's water-hammer pulse."
+ },
+ {
+  "old": "Returning fluid, pressure changing and wall deformation can supply another receiving opportunity.",
+  "new": "Returning fluid, pressure rising and falling, and wall deformation can supply another receiving opportunity.",
+  "verdict": "RESAY",
+  "why": "pressure changing: pressure rising and falling, by meaning."
+ },
+ {
+  "old": "Proposed local opening and returning with changing supply and delivery,",
+  "new": "Proposed local opening and returning with supply and delivery rising and falling,",
+  "verdict": "RESAY",
+  "why": "changing: rising and falling, by meaning."
+ },
+ {
+  "old": "Proposed local wall coupling, its actuation and return, with fluid and load changing.",
+  "new": "Proposed local wall coupling, its actuation and return, with fluid and load each varying.",
+  "verdict": "RESAY",
+  "why": "changing: varying, by meaning, physical quantities."
+ },
+ {
+  "old": "Working-cycle description includes discharge at waste valve,",
+  "new": "Working-cycle description includes discharge through waste valve,",
+  "verdict": "RESAY",
+  "why": "at: through."
+ },
+ {
+  "old": "Delivery was a smaller flow at greater head. Automatic valve cycling therefore retains supply, adjustment and compressed-air changing;",
+  "new": "Delivery was a smaller flow lifted to greater head. Automatic valve cycling therefore retains supply, adjustment and compressed air's compressing and expanding;",
+  "verdict": "RESAY",
+  "why": "at: lifted to, by meaning; compressed-air changing: compressing and expanding, by meaning."
+ },
+ {
+  "old": "[Shapiro and colleagues, *Peristaltic pumping with long wavelengths at low Reynolds number*, §§2–4.6]",
+  "new": "[Shapiro and colleagues, *Peristaltic pumping with long wavelengths at low Reynolds number*, §§2–4.6]",
+  "verdict": "KEEP",
+  "why": "Citation and title of an outside work, kept."
+ },
+ {
+  "old": "**The direction is visible in continuity relation.** For incompressible fluid in an impermeable tube with prescribed cross-sectional area `A(x − ct)`, let `Q(x,t)` be volume flow in fixed axial direction and `c` wave speed.",
+  "new": "**Direction is visible within continuity relation.** For incompressible fluid within an impermeable tube with prescribed cross-sectional area `A(x − ct)`, let `Q(x,t)` be volume flow along a fixed axial direction and `c` wave speed.",
+  "verdict": "RESAY",
+  "why": "The: removed; in: within, along; inline code kept."
+ },
+ {
+  "old": "With flow steady in wave's coordinates,",
+  "new": "With flow steady relative to wave's coordinates,",
+  "verdict": "RESAY",
+  "why": "in: relative to, a field's own phrasing of a moving frame."
+ },
+ {
+  "old": "| Directional property | The changing carried |",
+  "new": "| Directional property | The changing carried |",
+  "verdict": "KEEP",
+  "why": "Table header row, kept."
+ },
+ {
+  "old": "Changing position of deformation or combustion wave",
+  "new": "Moving position of deformation or combustion wave",
+  "verdict": "RESAY",
+  "why": "Changing: Moving, by meaning, a wave's position travels."
+ },
+ {
+  "old": "Pressure, heat, material and mechanical motion at their next load or return",
+  "new": "Pressure, heat, material and mechanical motion with their next load or return",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "with correspondence expressed at each crossing",
+  "new": "with correspondence expressed for each crossing",
+  "verdict": "RESAY",
+  "why": "at: for."
+ },
+ {
+  "old": "with bettering, fastering and cheapering at whole receiving.",
+  "new": "with bettering, fastering and cheapering of whole receiving.",
+  "verdict": "RESAY",
+  "why": "at: of."
+ },
+ {
+  "old": "Heat pumps and refrigeration: §1.15 carries exchanger, vapor-cycle and ejector arrivals. Proposed phase-offset cycles still need their actual waveform, expansion return, compressor work and switching at heat and flow receiving.",
+  "new": "Heat pumps and refrigeration: exchanger, vapor-cycle and ejector arrivals stand with §1.15. Proposed phase-offset cycles still need their actual waveform, expansion return, compressor work and switching with heat and flow receiving.",
+  "verdict": "RESAY",
+  "why": "doer: a section carrying, re-said with arrivals as subject; at: with."
+ },
+ {
+  "old": "**Wave and tidal engineering.**\n\n| Property | The particular engineering |",
+  "new": "**Wave and tidal engineering.**\n\n| Property | The particular engineering |",
+  "verdict": "KEEP",
+  "why": "Table header row, kept."
+ },
+ {
+  "old": "with continuing under changed arrivals included.",
+  "new": "with continuing under differing arrivals included.",
+  "verdict": "RESAY",
+  "why": "changed: differing, by meaning."
+ },
+ {
+  "old": "Changing between sides and imposed relation's releasing remain to express at those operations.",
+  "new": "Parity-changing between sides and imposed relation's dissolving remain to express with those operations.",
+  "verdict": "RESAY",
+  "why": "Changing: Parity-changing; releasing: dissolving, an imposed form leaving; at: with."
+ },
+ {
+  "old": "Unreceived relative motion, reflected or radiated waves, wake changing and material deformation can supply a next receiving.",
+  "new": "Unreceived relative motion, reflected or radiated waves, wake motion and material deformation can supply a next receiving.",
+  "verdict": "RESAY",
+  "why": "wake changing: wake motion, by meaning."
+ },
+ {
+  "old": "Proposed local bi-momentarying between members with incident field and load changing. Mechanical receiving, conversion, release, material fatigue and renewed operation remain to express together at array.",
+  "new": "Proposed local bi-momentarying between members with incident field and load each varying. Mechanical receiving, conversion, shedding, material fatigue and renewed operation remain to express together across array.",
+  "verdict": "RESAY",
+  "why": "changing: varying, by meaning; release: shedding, a load let go by a device, by meaning; at: across, an array as a whole."
+ },
+ {
+  "old": "Receiving is at relative motion.",
+  "new": "Receiving is by relative motion.",
+  "verdict": "RESAY",
+  "why": "at: by."
+ },
+ {
+  "old": "Equal velocities give zero absorbed power at that interface even when both bodies move. Electrical delivery and conversion loss remain separate. Linear damping and selected hydrodynamic conditions also remain explicit in RM3 simulation example.",
+  "new": "Equal velocities give zero absorbed power across that interface even when both bodies move. Electrical delivery and conversion loss remain separate. Linear damping and selected hydrodynamic conditions also remain explicit within RM3 simulation example.",
+  "verdict": "RESAY",
+  "why": "at: across; in: within."
+ },
+ {
+  "old": "[Yu and colleagues, *Development and Demonstration of the WEC-Sim Wave Energy Converter Simulation Tool*, two-body point absorber]",
+  "new": "[Yu and colleagues, *Development and Demonstration of the WEC-Sim Wave Energy Converter Simulation Tool*, two-body point absorber]",
+  "verdict": "KEEP",
+  "why": "Citation and title of an outside work, kept."
+ },
+ {
+  "old": "Array proposal retains members at different scales and placements.",
+  "new": "Array proposal retains members of different scales and placements.",
+  "verdict": "RESAY",
+  "why": "at: of."
+ },
+ {
+  "old": "must express proposed continuing across a changing spectrum.",
+  "new": "must express proposed continuing across a shifting spectrum.",
+  "verdict": "RESAY",
+  "why": "changing: shifting, by meaning, a sea's spectrum."
+ },
+ {
+  "old": "**Kelp carries a material observing with its changing intact.**",
+  "new": "**Kelp carries a material observing with its growing and wounding intact.**",
+  "verdict": "RESAY",
+  "why": "changing: growing and wounding, by meaning, as its study names."
+ },
+ {
+  "old": "wounded rachises increased in width without increased tissue strength found in some other macroalgae.",
+  "new": "wounded rachises widened without increased tissue strength found with some other macroalgae.",
+  "verdict": "RESAY",
+  "why": "in width: widened; in: with."
+ },
+ {
+  "old": "[Burnett and Koehl, *Mechanical properties of the wave-swept kelp Egregia menziesii*, Methods and Results](https://cdip.ucsd.edu/themes/media/docs/publications_references/journal_articles/Mechanical_properties_of_the_wave-swept_kelp_Egregia_menziesii_change_with_season,_growth_rate_and_herbivore_wounds.pdf)",
+  "new": "[Burnett and Koehl, *Mechanical properties of the wave-swept kelp Egregia menziesii*, Methods and Results](https://cdip.ucsd.edu/themes/media/docs/publications_references/journal_articles/Mechanical_properties_of_the_wave-swept_kelp_Egregia_menziesii_change_with_season,_growth_rate_and_herbivore_wounds.pdf)",
+  "verdict": "KEEP",
+  "why": "Citation, title and URL of an outside work, kept."
+ },
+ {
+  "old": "Engineering offering carries deformation, release, continued attachment and renewal at actual material. Kelp's name establishes no protective release threshold for a device. Proposed array needs particular relation between release, retained function and next receiving.",
+  "new": "Engineering offering carries deformation, detaching, continued attachment and renewal of actual material. Kelp's name establishes no protective detaching threshold for a device. Proposed array needs particular relation between detaching, retained function and next receiving.",
+  "verdict": "RESAY",
+  "why": "release: detaching, by meaning, a member breaking free; at: of."
+ },
+ {
+  "old": "**Pulsed electrolysis and gas receiving.**\n\n| Property | The particular electrolysis receiving |",
+  "new": "**Pulsed electrolysis and gas receiving.**\n\n| Property | The particular electrolysis receiving |",
+  "verdict": "KEEP",
+  "why": "Table header row, kept."
+ },
+ {
+  "old": "| **The particular coupling and fixed form** | Prescribed current, voltage, pulse width or switching beside cell and supply changing.",
+  "new": "| **A particular coupling and fixed form** | Prescribed current, voltage, pulse width or switching beside cell and supply as each varies.",
+  "verdict": "RESAY",
+  "why": "The: A, a row label; changing: as each varies, by meaning. Cell count kept."
+ },
+ {
+  "old": "Heat, current beyond intended reaction, gas crossing, product remaining in electrolyte and electrode changing retain their amounts and next receiving.",
+  "new": "Heat, current past intended reaction, gas crossing, product remaining within electrolyte and electrode degrading retain their amounts and next receiving.",
+  "verdict": "RESAY",
+  "why": "beyond: past, by meaning, current not carried by an intended reaction; in: within; changing: degrading, by meaning."
+ },
+ {
+  "old": "Cell's changing with available supply and required gas receiving.",
+  "new": "Cell's operating, varying with available supply and required gas receiving.",
+  "verdict": "RESAY",
+  "why": "changing: operating, varying, by meaning."
+ },
+ {
+  "old": "Alkaline-cell experiment used 10 Hz current pulses at low load and direct current at higher load.",
+  "new": "Alkaline-cell experiment used 10 Hz current pulses with low load and direct current with higher load.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Efficiency used measured hydrogen production and electrical input at electrolyzer boundary. Described downstream valve, purification and storage remained in product path.",
+  "new": "Efficiency used measured hydrogen production and electrical input across electrolyzer boundary. Described downstream valve, purification and storage remained along product path.",
+  "verdict": "RESAY",
+  "why": "at: across; in: along."
+ },
+ {
+  "old": "**The electrical calculation retains changing.**",
+  "new": "**Electrical calculation retains current's rise and fall.**",
+  "verdict": "RESAY",
+  "why": "The: removed; changing: current's rise and fall, by meaning, a pulsed current."
+ },
+ {
+  "old": "Both average 1 A; at 1 Ω their average resistive heating is 1 W and 2 W respectively.",
+  "new": "Both average 1 A; with 1 Ω their average resistive heating is 1 W and 2 W respectively.",
+  "verdict": "RESAY",
+  "why": "at: with; average kept, a field's time-average of a stated current, a calculation, no likelihood."
+ },
+ {
+  "old": "Water transfer between reservoirs at different elevations,",
+  "new": "Water transfer between reservoirs of different elevations,",
+  "verdict": "RESAY",
+  "why": "at: of."
+ },
+ {
+  "old": "| **The particular coupling and fixed form** | Prescribed pressure, temperature, flow and switching beside contained air and receiving load changing. | Prescribed flow, rotational speed and switching beside changing head, reservoir volume and receiving load. |",
+  "new": "| **A particular coupling and fixed form** | Prescribed pressure, temperature, flow and switching beside contained air and receiving load as each varies. | Prescribed flow, rotational speed and switching beside head, reservoir volume and receiving load, each rising and falling. |",
+  "verdict": "RESAY",
+  "why": "The: A, a row label; changing: as each varies, rising and falling, by meaning. Cell count kept."
+ },
+ {
+  "old": "Pressure, temperature, air amount, heat return and electrical input and output at their own boundaries.",
+  "new": "Pressure, temperature, air amount, heat return and electrical input and output across their own boundaries.",
+  "verdict": "RESAY",
+  "why": "at: across."
+ },
+ {
+  "old": "delivery over the same interval, including any external inflows and withdrawals.",
+  "new": "delivery over one same interval, including any external inflows and withdrawals.",
+  "verdict": "RESAY",
+  "why": "the same: one same."
+ },
+ {
+  "old": "Recovered heat bi-momentarying at expanding air's required temperature and rate. Changing containment, heat loss, flow resistance, conversion and next compression remain together in return to express.",
+  "new": "Recovered heat bi-momentarying with expanding air's required temperature and rate. Containment, its pressure rising and falling, heat loss, flow resistance, conversion and next compression remain together within return to express.",
+  "verdict": "RESAY",
+  "why": "at: with; Changing containment: containment, its pressure rising and falling, by meaning; in: within."
+ },
+ {
+  "old": "Available head and flow bi-momentarying at actual load. Returning water, changing receiving and remaining pumping and conversion remain to express at the same service.",
+  "new": "Available head and flow bi-momentarying with actual load. Returning water, receiving as it varies, and remaining pumping and conversion remain to express with one same service.",
+  "verdict": "RESAY",
+  "why": "at: with; changing receiving: receiving as it varies, by meaning; at the same: with one same."
+ },
+ {
+  "old": "**The temperature profile carries into next component.**",
+  "new": "**A temperature profile carries to next component.**",
+  "verdict": "RESAY",
+  "why": "The: A; into: to."
+ },
+ {
+  "old": "Calculated changing temperature profile altered receiving conditions at other components.",
+  "new": "Calculated, evolving temperature profile altered receiving conditions of other components.",
+  "verdict": "RESAY",
+  "why": "changing: evolving, by meaning, a profile moving through its bed over time; at: of."
+ },
+ {
+  "old": "Recovering heat at a useful temperature can reduce another heating input.",
+  "new": "Recovering heat with a useful temperature can reduce another heating input.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "keep `H` constant over interval.",
+  "new": "take `H` as constant over interval.",
+  "verdict": "RESAY",
+  "why": "keep: take as, a model's assumption; inline code kept."
+ },
+ {
+  "old": "| Upper reservoir volume changing |",
+  "new": "| Upper reservoir volume rate |",
+  "verdict": "RESAY",
+  "why": "changing: rate, by meaning, `dVupper/dt`. Cell count kept."
+ },
+ {
+  "old": "Here `g` is a field's gravitational acceleration used in head accounting. At equal nonzero flows, upper volume is not changing while both paths carry water.",
+  "new": "Here `g` is a field's gravitational acceleration used with head accounting. With equal nonzero flows, upper volume is constant while both paths carry water.",
+  "verdict": "RESAY",
+  "why": "in: with; At: With; not changing: constant, by meaning, a measured volume."
+ },
+ {
+  "old": "**Internal flows continue at their particular interfaces.** Bi-momentarying, co-competencing and co-intelligencing carry load's changing and available supply together, including next receiving as supply or demand changes.",
+  "new": "**Internal flows continue with their particular interfaces.** Bi-momentarying, co-competencing and co-intelligencing carry load's rise and fall and available supply together, including next receiving as supply or demand rises or falls.",
+  "verdict": "RESAY",
+  "why": "at: with; changing, changes: rise and fall, rises or falls, by meaning."
+ },
+ {
+  "old": "Bettering, fastering and cheapering remain at this whole receiving. Bodily interfaces at §6.7 and shared-network interfaces retain their own sensing, offering and release.",
+  "new": "Bettering, fastering and cheapering remain with this whole receiving. Bodily interfaces, §6.7, and shared-network interfaces retain their own sensing, offering and going along.",
+  "verdict": "RESAY",
+  "why": "at: with; at an address: removed; release: going along, nothing held or released."
+ }
+]

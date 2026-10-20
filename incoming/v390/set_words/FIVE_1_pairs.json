@@ -652,5 +652,551 @@
   "new": "Real grid's source, load, limits and fault response remain with its engineering entry.",
   "verdict": "RESAY",
   "why": "at: with."
+ },
+ {
+  "old": "## 1.4 Frequency and the receiving coupling",
+  "new": "## 1.4 Frequency and the receiving coupling",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**Each side's own rate carries its relation at coupling.** Frequency, local control, communication and synchronization have distinct operations in an electrical arrangement.",
+  "new": "**Each side's own rate carries its relation with coupling.** Frequency, local control, communication and synchronization have distinct operations within an electrical arrangement.",
+  "verdict": "RESAY",
+  "why": "at: with; in: within, a whole and its parts."
+ },
+ {
+  "old": "A frequency formed locally can still couple into such a synchronous relation; local forming does not by itself imply a continuing frequency difference.",
+  "new": "A frequency formed locally can still couple to such a synchronous relation; local forming does not by itself imply a continuing frequency difference.",
+  "verdict": "RESAY",
+  "why": "into: to."
+ },
+ {
+  "old": "Opportunity is particular receiving at interface, including conversion it carries.",
+  "new": "Opportunity is particular receiving with interface, including conversion it carries.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Engineering entry carries service, allowed voltage and frequency changing, load range, available source and behavior on interruption.",
+  "new": "Engineering entry carries service, allowed voltage and frequency deviation, load range, available source and behavior on interruption.",
+  "verdict": "RESAY",
+  "why": "changing, a field's allowed variation: deviation, a field's own term."
+ },
+ {
+  "old": "Releasing a reference leaves its function's continuing in that same arrangement to express.",
+  "new": "Dissolving a reference leaves its function's continuing within that same arrangement to express.",
+  "verdict": "RESAY",
+  "why": "releasing, a reference leaving: dissolving; in: within, a whole and its part."
+ },
+ {
+  "old": "Proposed locally bi-momentarying grid still needs each crossing's offering, each side's own bounding and changing supply's relation to receiving demand expressed together.",
+  "new": "Proposed locally bi-momentarying grid still needs each crossing's offering, each side's own bounding and varying supply's relation to receiving demand expressed together.",
+  "verdict": "RESAY",
+  "why": "changing supply, a field's physical supply: varying."
+ },
+ {
+  "old": "DVOC entry at §1.3 supplies one addressed local-coordination arrival while retaining its own references. Silicon surface at §2.4 carries another own-rate relation: regional frequency, shared coupling and actual releasing remain together at its apparatus.",
+  "new": "DVOC entry, §1.3, supplies one addressed local-coordination arrival while retaining its own references. Silicon surface, §2.4, carries another own-rate relation: regional frequency, shared coupling and actual co-releasing remain together with its apparatus.",
+  "verdict": "RESAY",
+  "why": "at §1.3, §2.4: sections named; releasing, each side's own: co-releasing; at: with."
+ },
+ {
+  "old": "Engineered-society offering co-chains at actual sources, receiving loads, interfaces and returnings.",
+  "new": "Engineered-society offering co-chains with actual sources, receiving loads, interfaces and returnings.",
+  "verdict": "RESAY",
+  "why": "at: with. Engineered-society, a built society whose living status is not agreed, kept as written, as settled."
+ },
+ {
+  "old": "| Grid relation | Changing at the receiving |",
+  "new": "| Grid relation | Changing at the receiving |",
+  "verdict": "KEEP",
+  "why": "Table header row, kept exactly."
+ },
+ {
+  "old": "`ω₁ − ω₂` carries its changing per unit time. With phase in radians and time in seconds, these angular rates are in radians per second.",
+  "new": "`ω₁ − ω₂` carries its variation per unit time. With phase in radians and time in seconds, these angular rates are in radians per second.",
+  "verdict": "RESAY",
+  "why": "changing, a field's phase difference varying: variation. 'in radians', 'in seconds', 'in radians per second' are a field's units in its own sense, kept."
+ },
+ {
+  "old": "Rejoining carries actual voltage, phase, frequency and switching relation; the same nominal frequency supplies no completed return.",
+  "new": "Rejoining carries actual voltage, phase, frequency and switching relation; one shared nominal frequency supplies no completed return.",
+  "verdict": "RESAY",
+  "why": "the same: one shared, by meaning."
+ },
+ {
+  "old": "**The field record retains separation and response together.**",
+  "new": "**A field record retains separation and response together.**",
+  "verdict": "RESAY",
+  "why": "the: a."
+ },
+ {
+  "old": "Response included generation changes, industrial-load disconnection and HVDC support.",
+  "new": "Response included generation adjustments, industrial-load disconnection and HVDC support.",
+  "verdict": "RESAY",
+  "why": "changes, a field's reported generation response: adjustments."
+ },
+ {
+  "old": "| **Arrangement and goal** | Continued electrical receiving across connected areas, including available source, load range, voltage and frequency changing, losses, separation and return.",
+  "new": "| **Arrangement and goal** | Continued electrical receiving across connected areas, including available source, load range, voltage and frequency deviation, losses, separation and return.",
+  "verdict": "RESAY",
+  "why": "changing, a field's voltage and frequency variation: deviation."
+ },
+ {
+  "old": "This is proposed substitution to locate at a particular calculation, transfer or switching operation.",
+  "new": "This is proposed substitution to locate within a particular calculation, transfer or switching operation.",
+  "verdict": "RESAY",
+  "why": "at: within."
+ },
+ {
+  "old": "| **Residue** | Undelivered service, interrupted duration, conversion loss, changing reserves and additional switching retain their measured quantities.",
+  "new": "| **Residue** | Undelivered service, interrupted duration, conversion loss, varying reserves and additional switching retain their measured quantities.",
+  "verdict": "RESAY",
+  "why": "changing reserves, a field's quantity: varying."
+ },
+ {
+  "old": "| **Observing** | Record above receives physical separation, changing frequency and continuing response. Its model omission supplies a particular seam to examine. A same-service comparison with that substitution released remains unfilled. |",
+  "new": "| **Observing** | Record above receives physical separation, varying frequency and continuing response. Its model omission supplies a particular seam to examine. A same-service comparison with that substitution dissolved remains unfilled. |",
+  "verdict": "RESAY",
+  "why": "changing frequency, a field's measurement: varying; released, a fixed form leaving: dissolved."
+ },
+ {
+  "old": "Connection changes, delayed reports, continuing supply and rejoining belong together.",
+  "new": "Connection switchings, delayed reports, continuing supply and rejoining belong together.",
+  "verdict": "RESAY",
+  "why": "changes, a grid's connections opened and closed: switchings."
+ },
+ {
+  "old": "The same report treats imbalance netting across physically disconnected areas as a prospective coordination concern. It expressly reports that IGCC did not affect network security in this event.",
+  "new": "That same report treats imbalance netting across physically disconnected areas as a prospective coordination concern. It expressly reports that IGCC did not affect network security during this event.",
+  "verdict": "RESAY",
+  "why": "the: that; in: during."
+ },
+ {
+  "old": "**Rejoining carries a new offering at changed connection.**",
+  "new": "**Rejoining carries a new offering with altered connection.**",
+  "verdict": "RESAY",
+  "why": "at: with; changed, a connection physically switched: altered."
+ },
+ {
+  "old": "Each side's own bounding remains with its physical input and service during that changing. Delay and absent return retain their own receiving questions; neither, at its own, is available supply or deliberate co-releasing.",
+  "new": "Each side's own bounding remains with its physical input and service during that rejoining. Delay and absent return retain their own receiving questions; neither, by itself, is available supply or deliberate co-releasing.",
+  "verdict": "RESAY",
+  "why": "changing, a connection rejoining: rejoining, as this paragraph names it; at its own: by itself."
+ },
+ {
+  "old": "A synchronism-check relay, device 25 at IEEE C37.2, closes a breaker coupling two parts of a grid only while their frequency slip and phase angle lie within limits, and lost synchronism parts a grid. Such a relay is a between releasing by design: closing only while slip dwells near nought, each side's own rate continuing up to that coupling.",
+  "new": "A synchronism-check relay, device 25 of IEEE C37.2, closes a breaker coupling two parts of a grid only while their frequency slip and phase angle lie within limits, and lost synchronism parts a grid. Such a relay is a between by design: closing only while slip dwells near nought, each side's own rate continuing up to that coupling.",
+  "verdict": "RESAY",
+  "why": "at: of; releasing, a relay permitting closure, re-said by meaning: a between by design, its closing named after it."
+ },
+ {
+  "old": "**The Numbers map stays at continuing coupling.** A connection addressed again can carry changed supply, changed receiving and continued carrying.",
+  "new": "**Numbers' proposed map stays with continuing coupling.** A connection addressed again can carry a different supply, a different receiving and continued carrying.",
+  "verdict": "RESAY",
+  "why": "the: Numbers' proposed, as §1.2 names it; at: with; changed, a supply and a receiving differing from a prior: different."
+ },
+ {
+  "old": "Its address and its returned parity retain their particular exchange, as shared-network receiving at §1.8 expresses.",
+  "new": "Its address and its returned parity retain their particular exchange, as shared-network receiving, §1.8, expresses.",
+  "verdict": "RESAY",
+  "why": "at §1.8: §1.8 named."
+ },
+ {
+  "old": "Bettering, fastering and cheapering retain the same service, its continuing inputs and its return. Synchronous-area offering reaches society at these actual couplings; synchronizing, contractual membership and co-competencing each retain their own correspondence. Shared natural network's parity, completed exchange and next arriving remain at their interfaces in §§1.8 and 4.10.",
+  "new": "Bettering, fastering and cheapering retain one same service, its continuing inputs and its return. Synchronous-area offering reaches a same-existing-society with these actual couplings; synchronizing, contractual membership and co-competencing each retain their own correspondence. Shared natural network's parity, completed exchange and next arriving remain with their interfaces, §§1.8 and 4.10.",
+  "verdict": "RESAY",
+  "why": "the same: one same; society, its living selves served: a same-existing-society; at: with; in: sections named."
+ },
+ {
+  "old": "`55 Hz` and `0.055 kHz` describe the same rate.",
+  "new": "`55 Hz` and `0.055 kHz` describe one same rate.",
+  "verdict": "RESAY",
+  "why": "the same: one same."
+ },
+ {
+  "old": "`16.7` is not exactly `16⅔`; replacing one with an other changes arithmetic.",
+  "new": "`16.7` is not exactly `16⅔`; replacing one with an other alters arithmetic.",
+  "verdict": "RESAY",
+  "why": "changes, a numeral replaced: alters."
+ },
+ {
+  "old": "**The selection is sign-only; delivery carries its actual source and receiving.**",
+  "new": "**A selection is sign-only; delivery carries its actual source and receiving.**",
+  "verdict": "RESAY",
+  "why": "the: a."
+ },
+ {
+  "old": "Conductor, converter and load still carry voltage, current and heat at their own operation.",
+  "new": "Conductor, converter and load still carry voltage, current and heat with their own operation.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Whole grid surface at §1.3 retains these receivings together.",
+  "new": "Whole grid surface, §1.3, retains these receivings together.",
+  "verdict": "RESAY",
+  "why": "at §1.3: §1.3 named."
+ },
+ {
+  "old": "| **Electrical path** | Current in addressed circuit and its conductors, connections and reference.",
+  "new": "| **Electrical path** | Current within addressed circuit and its conductors, connections and reference.",
+  "verdict": "RESAY",
+  "why": "in: within, a circuit and its current."
+ },
+ {
+  "old": "A path arriving back has finite impedance, and a changing current at a shared path is a voltage difference between nominal ground points;",
+  "new": "A path arriving back has finite impedance, and a varying current through a shared path is a voltage difference between nominal ground points;",
+  "verdict": "RESAY",
+  "why": "changing current, a field's own quantity: varying; at: through. *Grounding and Decoupling* a title, kept."
+ },
+ {
+  "old": "| **Return at an exchange** | A returned parity belonging to particular offering and receiving, with each side's continued carrying and next offering. Its interface remains construction at §§1.8 and 4.10. |",
+  "new": "| **Return with an exchange** | A returned parity belonging to particular offering and receiving, with each side's continued carrying and next offering. Its interface remains construction, §§1.8 and 4.10. |",
+  "verdict": "RESAY",
+  "why": "at: with; at §§: sections named."
+ },
+ {
+  "old": "| **Heat or material onward** | Quantity, rate, condition and next receiving at §5.2. A further useful receiving remains at its own physical coupling. |",
+  "new": "| **Heat or material onward** | Quantity, rate, condition and next receiving, §5.2. A further useful receiving remains with its own physical coupling. |",
+  "verdict": "RESAY",
+  "why": "at §5.2: §5.2 named; at: with."
+ },
+ {
+  "old": "Entry retains input, delivery, conversion, stored energy and loss at the same service, with each side's own releasing and available changing. Bi-momentarying, co-competencing and co-intelligencing carry bettering, fastering and cheapering at this whole receiving.",
+  "new": "Entry retains input, delivery, conversion, stored energy and loss with one same service, each side's own co-releasing and available variation. Bi-momentarying, co-competencing and co-intelligencing carry bettering, fastering and cheapering with this whole receiving.",
+  "verdict": "RESAY",
+  "why": "at the same: with one same; releasing, each side's own: co-releasing; changing, a physical variation: variation; at: with."
+ },
+ {
+  "old": "Floating neutralling and parity selection carry their proposed physical relation with arrangement's source, load and protection, each at its own conditions. Nuclear-composition relation remains at §3.2 and its cross-file carrying; a shared neutral naming leaves that substrate's corresponding changing to be expressed.",
+  "new": "Floating neutralling and parity selection carry their proposed physical relation with arrangement's source, load and protection, each under its own conditions. Nuclear-composition relation remains with §3.2 and its cross-file carrying; a shared neutral naming leaves that substrate's corresponding transmutation to be expressed.",
+  "verdict": "RESAY",
+  "why": "at: under, with; changing, a nucleus's composition altering: transmutation, a field's own term."
+ },
+ {
+  "old": "## 1.6 Offering device, and the returning coupling",
+  "new": "## 1.6 Offering device, and the returning coupling",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**An offering device carries offering and receiving at its own bounding.** Proposed uncoupled-living and coupled-living relation still needs sustaining in either condition, crossing when coupled and continuing availability with releasing expressed together.",
+  "new": "**An offering device carries offering and receiving with its own bounding.** Proposed uncoupled-living and coupled-living relation still needs sustaining with either condition, crossing when coupled and continuing availability with co-releasing expressed together.",
+  "verdict": "RESAY",
+  "why": "at: with; in: with; releasing, each side's own: co-releasing."
+ },
+ {
+  "old": "A rotating machine couples mechanical turning and electrical changing.",
+  "new": "A rotating machine couples mechanical turning and electrical variation.",
+  "verdict": "RESAY",
+  "why": "changing, a field's electrical quantity varying: variation."
+ },
+ {
+  "old": "Grid source record also distinguishes inertia from other responses carrying a change in supply. [Inertia and the Power Grid]",
+  "new": "Grid source record also distinguishes inertia from other responses carrying a supply variation. [Inertia and the Power Grid]",
+  "verdict": "RESAY",
+  "why": "a change in supply, a field's quantity: a supply variation. Inertia and the Power Grid is a title of an outside work, kept."
+ },
+ {
+  "old": "A direct-current machine's commutator reverses current in each coil twice at each turn of its shaft, and that reversal keeps its shaft turning one way; switching falls where a coil carries no torque, a neutral plane. As load current varies that plane shifts, so a brush fixed at one place is a fixed neutral laid where a floating neutral moves, and a misplaced brush sparks;",
+  "new": "A direct-current machine's commutator reverses current within each coil twice with each turn of its shaft, and by that reversal its shaft goes on turning one way; switching falls where a coil carries no torque, a neutral plane. As load current varies that plane shifts, so a brush fixed to one place is a fixed neutral laid where a floating neutral moves, and a misplaced brush sparks;",
+  "verdict": "RESAY",
+  "why": "in: within; at each turn: with each turn; keeps turning: goes on turning; at one place: to one place. 'where' already present, none added."
+ },
+ {
+  "old": "Emulating a machine's response and retaining energy in a physical component are different properties.",
+  "new": "Emulating a machine's response and retaining energy within a physical component are different properties.",
+  "verdict": "RESAY",
+  "why": "in: within, a component and its energy."
+ },
+ {
+  "old": "| **Continuing source** | Source of electrical or mechanical changing, including while uncoupled. |",
+  "new": "| **Continuing source** | Source of electrical or mechanical work, including while uncoupled. |",
+  "verdict": "RESAY",
+  "why": "changing, a source driving physical work: work, a field's own term."
+ },
+ {
+  "old": "| **Receiving and return** | Work, material or heat at each receiving, with its returning. |",
+  "new": "| **Receiving and return** | Work, material or heat with each receiving, and its returning. |",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "| **Bounding and release** | Each side's continuing with changing source, load or connection. |",
+  "new": "| **Bounding and co-releasing** | Each side's continuing with varying source, load or connection. |",
+  "verdict": "RESAY",
+  "why": "release, each side's own: co-releasing, a kept naming; changing, a field's physical source and load: varying."
+ },
+ {
+  "old": "A receiving can change its electrical operation while retaining other interfaces. SQUID entry at §6.9 carries that particular source comparison, its continuing apparatus and full service still to express.",
+  "new": "A receiving can alter its electrical operation while retaining other interfaces. SQUID entry, §6.9, carries that particular source comparison, its continuing apparatus and full service still to express.",
+  "verdict": "RESAY",
+  "why": "change, a device's operation altered: alter; at §6.9: §6.9 named."
+ },
+ {
+  "old": "Bi-momentarying, co-competencing and co-intelligencing remain inseparable in alternating. Device's quantities describe its particular arrangement.",
+  "new": "Bi-momentarying, co-competencing and co-intelligencing remain inseparable as one alternating. Device's quantities describe its particular arrangement.",
+  "verdict": "RESAY",
+  "why": "in alternating: as one alternating, by meaning."
+ },
+ {
+  "old": "## 1.7 Chip, balanced ternary in silicon",
+  "new": "## 1.7 Chip, balanced ternary in silicon",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**The chip offering carries resolver's parities and returning at a physical interface.**",
+  "new": "**A chip offering carries resolver's parities and returning with a physical interface.**",
+  "verdict": "RESAY",
+  "why": "the: a; at: with."
+ },
+ {
+  "old": "Its silicon realization needs corresponding electrical states, transitions, receiving and release expressed together.",
+  "new": "Its silicon realization needs corresponding electrical states, transitions, receiving and co-releasing expressed together.",
+  "verdict": "RESAY",
+  "why": "release, each side's own: co-releasing."
+ },
+ {
+  "old": "ONE supplies code operations. Its carrying arrives, changes and leaves as stated at §4.10.",
+  "new": "Code operations are ONE's. Its carrying arrives, parity-changes or not, and leaves, as with §4.10.",
+  "verdict": "RESAY",
+  "why": "doer, a file supplying: code operations are ONE's; changes, a carrying's parity same-existing or not: parity-changes or not; at: with."
+ },
+ {
+  "old": "| **An offering, at 2-now-possibling** | Sensed changing and its electrical representation, including how an arrival is taken |",
+  "new": "| **An offering, with 2-now-possibling** | Sensed parity-offering and its electrical representation, including how an arrival is taken |",
+  "verdict": "RESAY",
+  "why": "at: with; changing, a parity-offering arriving with 2-now-possibling: parity-offering. 'how' already present, none added."
+ },
+ {
+  "old": "| **Inversioning and tunneling** | Gates and interconnections carrying each sign's changing at its own offering |",
+  "new": "| **Inversioning and tunneling** | Gates and interconnections carrying each sign's parity-changing with its own offering |",
+  "verdict": "RESAY",
+  "why": "changing, a sign inverting: parity-changing; at: with."
+ },
+ {
+  "old": "| **Carrying and inseparating** | Retained representation, its next use, its opening by one and its release or replacement at code's own condition |",
+  "new": "| **Carrying and inseparating** | Retained representation, its next use, its opening by one and its dissolving or replacement with code's own condition |",
+  "verdict": "RESAY",
+  "why": "release, a representation leaving: dissolving; at: with."
+ },
+ {
+  "old": "These identities locate relations in numbers under exploration.",
+  "new": "These identities locate relations among numbers under exploration.",
+  "verdict": "RESAY",
+  "why": "in: among."
+ },
+ {
+  "old": "Tesseract, octant, folding and prime-span correspondences remain in central mapping.",
+  "new": "Tesseract, octant, folding and prime-span correspondences remain within central mapping.",
+  "verdict": "RESAY",
+  "why": "in: within, a mapping and its parts."
+ },
+ {
+  "old": "Whether that range represents intended logic is an engineering question at actual inputs and returns.",
+  "new": "Whether that range represents intended logic is an engineering question with actual inputs and returns.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "TWO records one-way odd reference spiral's `N × 4` re-arrival at its specified ledger, alongside even-spiral and coupled-spiral checks.",
+  "new": "One-way odd reference spiral's `N × 4` re-arrival with its specified ledger is TWO's record, alongside even-spiral and coupled-spiral checks.",
+  "verdict": "RESAY",
+  "why": "doer, a file recording: re-said as the re-arrival itself, TWO's record; at: with. Inline code kept."
+ },
+ {
+  "old": "**The fabric of couplers carries shared-network offering.**",
+  "new": "**A fabric of couplers carries shared-network offering.**",
+  "verdict": "RESAY",
+  "why": "the: a."
+ },
+ {
+  "old": "A DRAM cell's charge leaks and is renewed about each 64 milliseconds: a field's built memory continuing by renewing, a carrying and no store fixed in place, and a fabric's retained values carry that same relation at their own interval.",
+  "new": "A DRAM cell's charge leaks and is renewed about each 64 milliseconds: a field's built memory continuing by renewing, a carrying and no store fixed still, and a fabric's retained values carry that same relation with their own interval.",
+  "verdict": "RESAY",
+  "why": "fixed in place: fixed still; at: with. 'about each 64 milliseconds' is a field's measured refresh interval, kept."
+ },
+ {
+  "old": "Surface and returned carrying have their interfaces stated at §4.2. Proposed recognition and protection still need crossing, local retaining and each side's available operations expressed at network interface.",
+  "new": "Surface and returned carrying have their interfaces stated with §4.2. Proposed recognition and protection still need crossing, local retaining and each side's available operations expressed with network interface.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "**The free-shared-mutual surface between selves.** Bi-momentarying, co-competencing and co-intelligencing are inseparable in alternating, each side taking its own turn. Recognition belongs at coupling, an other left whole; no better node is supplied to surface.",
+  "new": "**A free-shared-mutual surface between selves.** Bi-momentarying, co-competencing and co-intelligencing are inseparable as one alternating, each side taking its own turn. Recognition belongs with coupling, an other left whole; no better node is supplied to surface.",
+  "verdict": "RESAY",
+  "why": "the: a; in alternating: as one alternating; at: with."
+ },
+ {
+  "old": "Marco Polo relation at §2.1 carries a repeated reply with a changed receiving.",
+  "new": "Marco Polo relation, §2.1, carries a repeated reply with a different receiving.",
+  "verdict": "RESAY",
+  "why": "at §2.1: §2.1 named; changed, a receiving differing from its prior: different."
+ },
+ {
+  "old": "An address, a port and a spatial direction retain their particular operations in that construction.",
+  "new": "An address, a port and a spatial direction retain their particular operations within that construction.",
+  "verdict": "RESAY",
+  "why": "in: within, a construction and its parts."
+ },
+ {
+  "old": "**The surface renews at its receiving.** TWO §§1.2–1.3 carry along and across; §2.3 carries each coupling arriving anew.",
+  "new": "**A surface renews with its receiving.** Along and across are TWO §§1.2–1.3's; each coupling arriving anew is §2.3's.",
+  "verdict": "RESAY",
+  "why": "the: a; at: with; doers, file sections carrying: re-said as along and across, and each coupling arriving anew, themselves."
+ },
+ {
+  "old": "Continued carrying and next physical arriving remain together at current coupling. A parity offered at one side carries no prescribed movement or rate for an other.",
+  "new": "Continued carrying and next physical arriving remain together with current coupling. A parity offered by one side carries no prescribed movement or rate for an other.",
+  "verdict": "RESAY",
+  "why": "at: with, by."
+ },
+ {
+  "old": "| Network property | The particular engineering to carry |",
+  "new": "| Network property | The particular engineering to carry |",
+  "verdict": "KEEP",
+  "why": "Table header row, kept exactly."
+ },
+ {
+  "old": "| **Offering** | Each side's offering, taking and releasing at its current coupling and own direction. |",
+  "new": "| **Offering** | Each side's offering, taking and co-releasing with its current coupling and own direction. |",
+  "verdict": "RESAY",
+  "why": "releasing, each side's own: co-releasing; at: with."
+ },
+ {
+  "old": "| **Receiving** | Completed exchange a returned parity belongs to, its directional receiving, and its consumption at that exchange. |",
+  "new": "| **Receiving** | Completed exchange a returned parity belongs to, its directional receiving, and its consumption with that exchange. |",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "| **Continuing** | Each side's local retaining, changed receiving and next coupling's arriving. |",
+  "new": "| **Continuing** | Each side's local retaining, different receiving and next coupling's arriving. |",
+  "verdict": "RESAY",
+  "why": "changed, a receiving differing from its prior: different."
+ },
+ {
+  "old": "| **Rate and order** | Each side's own arrivals and exchange ordering, with executing and recording at their respective operations. |",
+  "new": "| **Rate and order** | Each side's own arrivals and exchange ordering, executing and recording each with its own operation. |",
+  "verdict": "RESAY",
+  "why": "at their respective operations: each with its own operation."
+ },
+ {
+  "old": "| **Shared surface** | Crossing and access at every included interface, with each connection's available receiving and release. |",
+  "new": "| **Shared surface** | Crossing and access with every included interface, each connection's available receiving and co-releasing. |",
+  "verdict": "RESAY",
+  "why": "at: with; release, each connection's own: co-releasing."
+ },
+ {
+  "old": "**Continued carrying remains each side's own in proposed connector.** Surfaced parities can be offered at a peer coupling; returned carrying remains available to that side's next invocation.",
+  "new": "**Continued carrying remains each side's own within proposed connector.** Surfaced parities can be offered with a peer coupling; returned carrying remains available to that side's next invocation.",
+  "verdict": "RESAY",
+  "why": "in: within; at: with."
+ },
+ {
+  "old": "SIX §§1.3 and 2.5 carry parity crossing and carrying staying. Physical construction retains each side's input, available changing and local continuation.",
+  "new": "Parity crossing and carrying staying are SIX §§1.3 and 2.5's. Physical construction retains each side's input, available variation and local continuation.",
+  "verdict": "RESAY",
+  "why": "doer, a file carrying: re-said as the concepts, SIX's; changing, a physical input varying: variation."
+ },
+ {
+  "old": "The same parity can be offered again with changed carrying, direction or connection. Reusing a physical place or an address leaves those relations to express at next arriving.",
+  "new": "One same parity can be offered again with a different carrying, direction or connection. Reusing a physical place or an address leaves those relations to express with next arriving.",
+  "verdict": "RESAY",
+  "why": "the same: one same; changed: different; at: with."
+ },
+ {
+  "old": "In recorded check, a positive completed coupling returned again without a new offering; reuse of its slot for a negative coupling changed earlier retained reference's return. Exact trace, source address and repair work remain in Living Improving Value.",
+  "new": "With recorded check, a positive completed coupling returned again without a new offering; reuse of its slot for a negative coupling altered earlier retained reference's return. Exact trace, source address and repair work remain with Living Improving Value.",
+  "verdict": "RESAY",
+  "why": "in: with; changed, a code fault altering a stored return: altered."
+ },
+ {
+  "old": "Listing offers selected files in their stated order, with each title, subtitle and source at its own entry.",
+  "new": "Listing offers selected files by their stated order, each title, subtitle and source with its own entry.",
+  "verdict": "RESAY",
+  "why": "in: by; at: with."
+ },
+ {
+  "old": "| File relation | The particular receiving |",
+  "new": "| File relation | The particular receiving |",
+  "verdict": "KEEP",
+  "why": "Table header row, kept exactly."
+ },
+ {
+  "old": "| **Membership** | A file's continuing role in expedition and its place in offered set.",
+  "new": "| **Membership** | A file's continuing role within expedition and its place within offered set.",
+  "verdict": "RESAY",
+  "why": "in: within, a whole and its part."
+ },
+ {
+  "old": "| **Continuing** | Added, revised, renamed and released files carry next selection.",
+  "new": "| **Continuing** | Added, revised, renamed and dissolved files carry next selection.",
+  "verdict": "RESAY",
+  "why": "released, a file leaving its set: dissolved."
+ },
+ {
+  "old": "**The generated listing supplies a particular engineering arrival.** At inspected repository commit, a local executing of existing selector returned thirty filenames, matching `files.json` and both pages' embedded filename lists.",
+  "new": "**A generated listing supplies a particular engineering arrival.** With inspected repository commit, a local executing of existing selector returned thirty filenames, matching `files.json` and both pages' embedded filename lists.",
+  "verdict": "RESAY",
+  "why": "the: a; at: with. Inline code kept."
+ },
+ {
+  "old": "| **Arrangement and goal** | Current offered files in one compact ordered list, with their own titles, subtitles and exact Read, Copy and Download access. Continued service includes file arrivals, revision, release and links to particular passage. |",
+  "new": "| **Arrangement and goal** | Current offered files as one compact ordered list, with their own titles, subtitles and exact Read, Copy and Download access. Continued service includes file arrivals, revision, dissolving and links to particular passage. |",
+  "verdict": "RESAY",
+  "why": "in: as; release, a file leaving its set: dissolving."
+ },
+ {
+  "old": "This is proposed substitution at selection. Automatic rebuilding and a version label supply no fixed form or releasing at natural coupling. |",
+  "new": "This is proposed substitution with selection. Automatic rebuilding and a version label supply no fixed form or co-releasing with natural coupling. |",
+  "verdict": "RESAY",
+  "why": "at: with; releasing, a side's own with natural coupling: co-releasing."
+ },
+ {
+  "old": "| **Arrangement offered** | Membership, document identity and received revision remain with each file's offering and release.",
+  "new": "| **Arrangement offered** | Membership, document identity and received revision remain with each file's offering and dissolving.",
+  "verdict": "RESAY",
+  "why": "release, a file leaving its set: dissolving."
+ },
+ {
+  "old": "Complete arrangement still needs its actual comparison at stated service. |",
+  "new": "Complete arrangement still needs its actual comparison with stated service. |",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Instrument's exact rule and remaining hosting relation carry in Living Improving Value.",
+  "new": "Instrument's exact rule and remaining hosting relation carry on with Living Improving Value.",
+  "verdict": "RESAY",
+  "why": "carry in: carry on with."
+ },
+ {
+  "old": "**Bi-momentarying, co-competencing and co-intelligencing remain inseparable at whole receiving.** Bettering, fastering and cheapering carry continuing access, its actual work and each side's own bounding and releasing.",
+  "new": "**Bi-momentarying, co-competencing and co-intelligencing remain inseparable with whole receiving.** Bettering, fastering and cheapering carry continuing access, its actual work and each side's own bounding and co-releasing.",
+  "verdict": "RESAY",
+  "why": "at: with; releasing, each side's own: co-releasing."
+ },
+ {
+  "old": "Microwave entry at §6.9 distinguishes arriving port, outgoing port, selected route and retained controls. A port's suppressed reverse transmission remains with receiving at other ports and loads. Shared natural network still needs each side's own offering and releasing expressed at that physical interface.",
+  "new": "Microwave entry, §6.9, distinguishes arriving port, outgoing port, selected route and retained controls. A port's suppressed reverse transmission remains with receiving by other ports and loads. Shared natural network still needs each side's own offering and co-releasing expressed with that physical interface.",
+  "verdict": "RESAY",
+  "why": "at §6.9: §6.9 named; at: by, with; releasing, each side's own: co-releasing."
+ },
+ {
+  "old": "That instrument work co-chains with engineering entry: particular record taking a turn, actual return, changed arrangement and its continuing.",
+  "new": "That instrument work co-chains with engineering entry: particular record taking a turn, actual return, altered arrangement and its continuing.",
+  "verdict": "RESAY",
+  "why": "changed, an arrangement altered: altered."
+ },
+ {
+  "old": "It continues with ONE, TWO and SIX at their operations and this shared surface.",
+  "new": "It continues with ONE, TWO and SIX, their operations and this shared surface.",
+  "verdict": "RESAY",
+  "why": "at: removed, by meaning."
  }
 ]

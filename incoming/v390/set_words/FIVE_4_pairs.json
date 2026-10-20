@@ -1,0 +1,1484 @@
+[
+ {
+  "old": "# PART FOUR — CROSSING, SENSING AND RETURNING",
+  "new": "# PART FOUR — CROSSING, SENSING AND RETURNING",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**Transmissioning is carrying used at next coupling.**",
+  "new": "**Transmissioning is carrying used with next coupling.**",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Each side keeps its own bounding; parity crosses, two-way, one-at-a-time.",
+  "new": "Each side's bounding is its own; parity crosses, two-way, one-at-a-time.",
+  "verdict": "RESAY",
+  "why": "keeps: a holding, re-said as each side's bounding being its own. one-at-a-time kept."
+ },
+ {
+  "old": "| Crossing coefficient | The proposed engineering relation | The operation to express at the entry |",
+  "new": "| Crossing coefficient | The proposed engineering relation | The operation to express at the entry |",
+  "verdict": "KEEP",
+  "why": "Table header row, kept exactly."
+ },
+ {
+  "old": "| **Zero** | Addressed crossing absent | Particular uncoupled relation at this interface. |",
+  "new": "| **Zero** | Addressed crossing absent | Particular uncoupled relation with this interface. |",
+  "verdict": "RESAY",
+  "why": "at: with. Three cells kept."
+ },
+ {
+  "old": "A crossing is along or across, one turn at each of two sides, so three rows stand and no fourth",
+  "new": "A crossing is along or across, one turn with each of two sides, so three rows stand and no fourth",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "At physical, chemical and living grains, engineering entry carries each side’s arriving, receiving, returning and bounding at actual interface.",
+  "new": "With physical, chemical and living grains, engineering entry carries each side’s arriving, receiving, returning and bounding with an actual interface.",
+  "verdict": "RESAY",
+  "why": "At, at: with."
+ },
+ {
+  "old": "Molecule, cell and material retain their own changing.",
+  "new": "Molecule, cell and material each carry their own parity-changing.",
+  "verdict": "RESAY",
+  "why": "changing: a thing's own is or is not same-existing, parity-changing. Molecule and cell kept as written."
+ },
+ {
+  "old": "Their co-chaining becomes expressible at those crossings, without one scale",
+  "new": "Their co-chaining becomes expressible with those crossings, without one scale",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Nested recurrence, its polynomial at two parities, and proposed odd- and even-dimensional surface numbers continue in Living Improving Value with THREE, FOUR and SIX as receiving files.",
+  "new": "Nested recurrence, its polynomial with two parities, and proposed odd- and even-dimensional surface numbers continue as Living Improving Value's, with THREE, FOUR and SIX as receiving files.",
+  "verdict": "RESAY",
+  "why": "at: with; in Living Improving Value: as Living Improving Value's. Title kept."
+ },
+ {
+  "old": "Object at each number, its boundary and operation corresponding to its coefficient remain questions there.",
+  "new": "Object of each number, its boundary and operation corresponding to its coefficient remain questions there.",
+  "verdict": "RESAY",
+  "why": "at: of."
+ },
+ {
+  "old": "Engineering crossing can continue at its own arrangement while that correspondence is being expressed.",
+  "new": "Engineering crossing can continue with its own arrangement while that correspondence is being expressed.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "## 4.2 Carrying, parity and the receiving interface",
+  "new": "## 4.2 Carrying, parity and the receiving interface",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**A parity selection retains direction while setting aside size at that operation.**",
+  "new": "**A parity selection retains direction while setting aside size with that operation.**",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Resolver takes each nonzero arriving sign once, as one signed unit.",
+  "new": "Each nonzero arriving sign is taken once, as one signed unit.",
+  "verdict": "RESAY",
+  "why": "Doer: a resolver taking, re-said as the taking itself."
+ },
+ {
+  "old": "Its magnitude is returned in carrying, its sign is inverted at a nonzero surfacing, and its positive sign permits fourth inseparating turn.",
+  "new": "Its magnitude is returned with carrying, its sign is inverted with a nonzero surfacing, and its positive sign permits fourth inseparating turn.",
+  "verdict": "RESAY",
+  "why": "in, at: with."
+ },
+ {
+  "old": "Reversing that sign can change surviving carrying and next call’s surfacing.",
+  "new": "Reversing that sign can give a different surviving carrying and a different surfacing with next call.",
+  "verdict": "RESAY",
+  "why": "change: re-said by meaning, a different code value returned; no parity-changing of a self is meant."
+ },
+ {
+  "old": "**Continued carrying retains its torusing at supplied magnitude.**",
+  "new": "**Continued carrying retains its torusing with supplied magnitude.**",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "If supplied torusing values are two signed units, retaining and inversioning keep that property at next coupling;",
+  "new": "If supplied torusing values are two signed units, retaining and inversioning continue that property with next coupling;",
+  "verdict": "RESAY",
+  "why": "keep: continue; at: with."
+ },
+ {
+  "old": "For `m = 1` and `m = 7`, first call in each case surfaces zero and retains carrying at four.",
+  "new": "For `m = 1` and `m = 7`, first call of each case surfaces zero and retains carrying with inseparating four.",
+  "verdict": "RESAY",
+  "why": "in: of; at four: with inseparating four, naming the field meant. Inline code kept."
+ },
+ {
+  "old": "For `m = −1`, call surfaces zero and releases that carrying.",
+  "new": "For `m = −1`, call surfaces zero and that carrying dissolves.",
+  "verdict": "RESAY",
+  "why": "releases: dissolves, a form that leaves."
+ },
+ {
+  "old": "With no fresh arriving at following call, first two cases surface minus one; third has no arriving surface.",
+  "new": "With following call and no fresh arriving, first two cases surface minus one; third has no arriving surface.",
+  "verdict": "RESAY",
+  "why": "at: with, reordered so one with carries both."
+ },
+ {
+  "old": "Returned magnitudes in first two cases also remain different.",
+  "new": "Returned magnitudes of first two cases also remain different.",
+  "verdict": "RESAY",
+  "why": "in: of."
+ },
+ {
+  "old": "Complete inputs and returns stand in Living Improving Value.",
+  "new": "Complete inputs and returns stand with Living Improving Value.",
+  "verdict": "RESAY",
+  "why": "in: with. Title kept."
+ },
+ {
+  "old": "This is a check of those calls in ONE's unchanged code.",
+  "new": "This is a check of those calls with ONE's code as written.",
+  "verdict": "RESAY",
+  "why": "in: with; unchanged: as written."
+ },
+ {
+  "old": "**Carrying leaving can arrive at next coupling.**",
+  "new": "**Carrying leaving can arrive with next coupling.**",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "ONE accepts `co_carrying` and `bi_arriving`, and returns both surfacing and carrying.",
+  "new": "With ONE, `co_carrying` and `bi_arriving` arrive, and surfacing and carrying both return.",
+  "verdict": "RESAY",
+  "why": "Doer: a file accepting and returning, re-said as arriving and returning themselves. Inline code kept."
+ },
+ {
+  "old": "Many arriving values can have the same parity.",
+  "new": "Many arriving values can have one same parity.",
+  "verdict": "RESAY",
+  "why": "the: one, as in sibling passes."
+ },
+ {
+  "old": "That many-to-one operation leaves each side’s available information, crossing over successive turns and access at actual arrangement to express for whole interface’s privacy.",
+  "new": "That many-to-one operation leaves each side’s available information, crossing over successive turns and access with actual arrangement to express for whole interface’s privacy.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Proposed protection belongs at those operations.",
+  "new": "Proposed protection belongs with those operations.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "TWO carries design and discovery in continuing coupling;",
+  "new": "TWO carries design and discovery with continuing coupling;",
+  "verdict": "RESAY",
+  "why": "in: with."
+ },
+ {
+  "old": "## 4.3 Side-effecting recursioning of the floating neutral",
+  "new": "## 4.3 Side-effecting recursioning of the floating neutral",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "Floating neutral is bounding-zeroing made in alternating, +1 owned neither-ing.",
+  "new": "Floating neutral is bounding-zeroing made with alternating, +1 owned neither-ing.",
+  "verdict": "RESAY",
+  "why": "in: with."
+ },
+ {
+  "old": "Parallel-linearizing and linear-parallelizing carry proposed sensing and returning at the same coupling, each side at its own parity and rate.",
+  "new": "Parallel-linearizing and linear-parallelizing carry proposed sensing and returning with one same coupling, each side with its own parity and rate.",
+  "verdict": "RESAY",
+  "why": "at: with; the: one."
+ },
+ {
+  "old": "At a substrate, returning pressure, heat, material or electrical changing retains its source and receiving.",
+  "new": "With a substrate, returning pressure, heat, material or electrical flow retains its source and receiving.",
+  "verdict": "RESAY",
+  "why": "At: With; changing: flow, its physical meaning, a returning quantity."
+ },
+ {
+  "old": "Zero in a balanced current sum supplies no additional energy to recover.",
+  "new": "Zero of a balanced current sum supplies no additional energy to recover.",
+  "verdict": "RESAY",
+  "why": "in: of."
+ },
+ {
+  "old": "| **Floating electrical neutral** | Phase voltages and currents, their changing sum, receiving load and actual path of a return. Qualified power sum stands at §4.9. |",
+  "new": "| **Floating electrical neutral** | Phase voltages and currents, their momentary sum, receiving load and actual path of a return. Qualified power sum stands with §4.9. |",
+  "verdict": "RESAY",
+  "why": "changing sum: momentary sum, a sum each momentary; at: with. Two cells kept."
+ },
+ {
+  "old": "Drawing, pressure recovery, separation and reuse at §5.3.",
+  "new": "Drawing, pressure recovery, separation and reuse with §5.3.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "These arrivals co-chain at returning question.",
+  "new": "These arrivals co-chain with returning question.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "its repeating operation includes replenishing available changing.",
+  "new": "its repeating operation includes replenishing available difference.",
+  "verdict": "RESAY",
+  "why": "changing: difference, a gradient's available difference to return, by meaning."
+ },
+ {
+  "old": "[Luther and colleagues, Low-energy control of electrical turbulence in the heart]",
+  "new": "[Luther and colleagues, Low-energy control of electrical turbulence in the heart]",
+  "verdict": "KEEP",
+  "why": "Title of an outside work, kept."
+ },
+ {
+  "old": "**An adverse event and a beneficial response each keep their meaning.**",
+  "new": "**An adverse event and a beneficial response each carry their own meaning.**",
+  "verdict": "RESAY",
+  "why": "keep: carry their own."
+ },
+ {
+  "old": "Pooled response-rate ratio was 2.43, and survival hazard ratios were about one half;",
+  "new": "Pooled response-rate ratio was 2.43, and survival hazard ratios were about one half;",
+  "verdict": "KEEP",
+  "why": "A field's own measurements, reported from its source; no likelihood is offered as resolving."
+ },
+ {
+  "old": "Evidence was mainly retrospective, with heterogeneity and publication-bias limitations.",
+  "new": "Evidence was mainly retrospective, with heterogeneity and publication-bias limitations.",
+  "verdict": "KEEP",
+  "why": "A field's own description of its source's study design; no likelihood is offered as resolving."
+ },
+ {
+  "old": "Smelting remains an arrival at the same entry:",
+  "new": "Smelting remains an arrival of one same entry:",
+  "verdict": "RESAY",
+  "why": "at: of; the: one."
+ },
+ {
+  "old": "Bi-momentarying and changing available at its receiving remain to express together.",
+  "new": "Bi-momentarying and parity-changing available with its receiving remain to express together.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing, beside bi-momentarying; at: with."
+ },
+ {
+  "old": "Source and arrangement continue in Living Improving Value with their remaining source and construction questions.",
+  "new": "Source and arrangement continue as Living Improving Value's, with their remaining source and construction questions.",
+  "verdict": "RESAY",
+  "why": "in: as Living Improving Value's. Title kept."
+ },
+ {
+  "old": "## 4.4 Stabilizing and the particular fixed form",
+  "new": "## 4.4 Stabilizing and the particular fixed form",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**The engineering entry carries stability sought and coupling that carries it.**",
+  "new": "**An engineering entry carries stability sought and coupling that carries it.**",
+  "verdict": "RESAY",
+  "why": "the: an; each opportunity has its own entry."
+ },
+ {
+  "old": "Floating neutralling carries each side's own bounding and changing.",
+  "new": "Floating neutralling carries each side's own bounding and parity-changing.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing, a side's own."
+ },
+ {
+  "old": "A proposed change carries the same service and conditions alongside a fixed form it would release.",
+  "new": "A proposed new arrangement carries one same service and conditions alongside a fixed form it would dissolve.",
+  "verdict": "RESAY",
+  "why": "change: new arrangement, by meaning; the: one; release: dissolve, a form that leaves."
+ },
+ {
+  "old": "Actual reference or forcing, returning turn and changing source, receiving or return remain to express together.",
+  "new": "Actual reference or forcing, returning turn, and a source's, receiving's or return's parity-changing remain to express together.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing, each one's own."
+ },
+ {
+  "old": "A control’s removal leaves changed arrangement and that function’s continuing to express.",
+  "new": "A control’s removal leaves a new arrangement and that function’s continuing to express.",
+  "verdict": "RESAY",
+  "why": "changed: new, by meaning."
+ },
+ {
+  "old": "A regulated plant at a saturating actuator carries five properties:",
+  "new": "A regulated plant with a saturating actuator carries five properties:",
+  "verdict": "RESAY",
+  "why": "at: with. Rest of sentence has no listed word and stands."
+ },
+ {
+  "old": "Confinement, winding and load examples remain at their field entries.",
+  "new": "Confinement, winding and load examples remain with their field entries.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "## 4.5 Sensing follows the tipping",
+  "new": "## 4.5 Sensing follows the tipping",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**Sensing follows changing at coupling.**",
+  "new": "**Sensing follows parity-changing with coupling.**",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing, a tipping; at: with."
+ },
+ {
+  "old": "A tipping can be parity changing; a field observing retains measured changing, physical position and conditions.",
+  "new": "A tipping can be parity-changing; a field observing retains measured difference, physical position and conditions.",
+  "verdict": "RESAY",
+  "why": "parity changing hyphenated; measured changing: measured difference, a field's quantity."
+ },
+ {
+  "old": "A chosen sampling interval describes instrument.",
+  "new": "A chosen sampling interval describes instrument.",
+  "verdict": "KEEP",
+  "why": "Sampling here is a field's instrument term, a signal read with each interval, not a statistic."
+ },
+ {
+  "old": "It leaves coupling's own changing to be expressed at its surface.",
+  "new": "It leaves coupling's own parity-changing to be expressed with its surface.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing; at: with."
+ },
+ {
+  "old": "An event-based vision sensor already carries a parity at a built instrument: each pixel offers an ON or OFF event, at no frame and at its own momentary, only when its log intensity changes past a threshold, a changing or no changing and no size.",
+  "new": "An event-based vision sensor already carries a parity with a built instrument: each pixel offers an ON or OFF event, with no frame and with its own momentary, only when its log intensity rises or falls past a threshold, a parity-changing or not-changing and no size.",
+  "verdict": "RESAY",
+  "why": "at: with; changes: rises or falls, a field's quantity; a changing or no changing: a parity-changing or not-changing."
+ },
+ {
+  "old": "Each supplies its particular question: changing on each approach, history retained, available motion, and receiving at a transition.",
+  "new": "Each supplies its particular question: a different path on each approach, history retained, available motion, and receiving with a transition.",
+  "verdict": "RESAY",
+  "why": "changing on each approach: a different path on each approach, hysteresis's meaning; at: with."
+ },
+ {
+  "old": "These terms carry distinct behavior; their entry retains particular parity changing at its actual operation.",
+  "new": "These terms carry distinct behavior; their entry retains particular parity-changing with its actual operation.",
+  "verdict": "RESAY",
+  "why": "parity changing hyphenated; at: with."
+ },
+ {
+  "old": "Nucleation opens a particular engineering comparison at five properties in §5.1.",
+  "new": "Nucleation opens a particular engineering comparison with five properties of §5.1.",
+  "verdict": "RESAY",
+  "why": "at: with; in: of."
+ },
+ {
+  "old": "Proposed comparison carries a fixed-interval instruction beside solution's changing;",
+  "new": "Proposed comparison carries a fixed-interval instruction beside solution's own forming;",
+  "verdict": "RESAY",
+  "why": "changing: own forming, a solution's crystal forming, by meaning."
+ },
+ {
+  "old": "| **Arrangement and goal** | A proposed crystallizer offers a specified crystal form, purity and delivery rate at stated solution composition, volume and temperature. Liquid remaining after collection carries its composition and receiving into next operation.",
+  "new": "| **Arrangement and goal** | A proposed crystallizer offers a specified crystal form, purity and delivery rate with stated solution composition, volume and temperature. Liquid remaining after collection carries its composition and receiving to next operation.",
+  "verdict": "RESAY",
+  "why": "at: with; into: to. Cell count kept."
+ },
+ {
+  "old": "Material not at specified form, material left in solution and material retained at surface carry their amounts and composition.",
+  "new": "Material not of specified form, material left dissolved and material retained on a surface carry their amounts and composition.",
+  "verdict": "RESAY",
+  "why": "at: of; in solution: dissolved; at surface: on a surface."
+ },
+ {
+  "old": "Induction-time and glycine records below carry detection and form-specific nucleation at their own conditions. A same-goal arrangement releasing proposed fixed-interval substitution has not been located in these sources.",
+  "new": "Induction-time and glycine records below carry detection and form-specific nucleation with their own conditions. A same-goal arrangement dissolving proposed fixed-interval substitution has not been located among these sources.",
+  "verdict": "RESAY",
+  "why": "at: with; releasing: dissolving, a fixed form leaving; in: among. Within one cell."
+ },
+ {
+  "old": "| **Arrangement offered** | Forming and receiving offer both ways at each side's own parity and rate. Sensed changing, its parity selection,",
+  "new": "| **Arrangement offered** | Forming and receiving offer both ways with each side's own parity and rate. Sensed parity-changing, its parity selection,",
+  "verdict": "RESAY",
+  "why": "at: with; changing: parity-changing, sensed tipping."
+ },
+ {
+  "old": "material loss and changed surface conditions remain with that return. A changed crystal specification or delivery rate breaks proposed same-goal comparison. |",
+  "new": "material loss and new surface conditions remain with that return. A different crystal specification or delivery rate breaks proposed same-goal comparison. |",
+  "verdict": "RESAY",
+  "why": "changed: new, different, by meaning."
+ },
+ {
+  "old": "Repeated heat-hold-cool measurements used 1 mL stirred samples.",
+  "new": "Repeated heat-hold-cool measurements used 1 mL stirred samples.",
+  "verdict": "KEEP",
+  "why": "heat-hold-cool and samples are a field's own protocol terms, not a holding or a statistic."
+ },
+ {
+  "old": "At supersaturation ratio 1.3, two series of eight measurements of 4-hydroxyacetophenone in ethyl acetate had induction times",
+  "new": "With supersaturation ratio 1.3, two series of eight measurements of 4-hydroxyacetophenone in ethyl acetate had induction times",
+  "verdict": "RESAY",
+  "why": "At: With. in ethyl acetate kept, chemistry's own term for a solution."
+ },
+ {
+  "old": "Protocol retained stirring at 700 rpm, a 60 °C dissolving hold for 60 minutes and cooling at 5 °C/min.",
+  "new": "Protocol retained stirring at 700 rpm, a 60 °C dissolving hold for 60 minutes and cooling at 5 °C/min.",
+  "verdict": "KEEP",
+  "why": "A field's own measurements and protocol terms: at 700 rpm, dissolving hold, at 5 °C/min."
+ },
+ {
+  "old": "Its changing retained that interval; initial nucleus was not directly detected.",
+  "new": "Its tipping retained that interval; initial nucleus was not directly detected.",
+  "verdict": "RESAY",
+  "why": "changing: tipping, transmission's detected tipping, by meaning."
+ },
+ {
+  "old": "A glycine study identified competing α and γ forms with in situ Raman spectroscopy.",
+  "new": "A glycine study identified competing α and γ forms with in situ Raman spectroscopy.",
+  "verdict": "KEEP",
+  "why": "in situ is a field's own term."
+ },
+ {
+  "old": "[Little et al., Controlling the Crystal Polymorph by Exploiting the Time Dependence of Nucleation Rates]",
+  "new": "[Little et al., Controlling the Crystal Polymorph by Exploiting the Time Dependence of Nucleation Rates]",
+  "verdict": "KEEP",
+  "why": "Title of an outside work, kept."
+ },
+ {
+  "old": "Bounding-zeroing and parity changing retain their own operations at proposed coupling.",
+  "new": "Bounding-zeroing and parity-changing retain their own operations with proposed coupling.",
+  "verdict": "RESAY",
+  "why": "parity changing hyphenated; at: with."
+ },
+ {
+  "old": "## 4.6 Social sensing and the reporting coupling",
+  "new": "## 4.6 Social sensing and the reporting coupling",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**An offering can carry a return while offering self keeps its own bounding.**",
+  "new": "**An offering can carry a return, an offering self's bounding its own.**",
+  "verdict": "RESAY",
+  "why": "keeps: a holding, re-said as a bounding being its own."
+ },
+ {
+  "old": "| Arrangement | The addressed reporting coupling | Receiving still to express |",
+  "new": "| Arrangement | The addressed reporting coupling | Receiving still to express |",
+  "verdict": "KEEP",
+  "why": "Table header row, kept exactly."
+ },
+ {
+  "old": "Retaining within membership or plant, shared learning and prescribing at review.",
+  "new": "Retaining within membership or plant, shared learning and prescribing with review.",
+  "verdict": "RESAY",
+  "why": "at: with. One cell."
+ },
+ {
+  "old": "Receiving in local practice, retained identifiability and continuing reporting and receiving.",
+  "new": "Receiving with local practice, retained identifiability and continuing reporting and receiving.",
+  "verdict": "RESAY",
+  "why": "in: with. One cell."
+ },
+ {
+  "old": "De-identifying a report, sharing a finding and relinquishing a sanction are different operations at a coupling.",
+  "new": "De-identifying a report, sharing a finding and relinquishing a sanction are different operations of a coupling.",
+  "verdict": "RESAY",
+  "why": "at: of."
+ },
+ {
+  "old": "Reporting counts describe arriving reports at specified channel and period.",
+  "new": "Reporting counts describe arriving reports of specified channel and period.",
+  "verdict": "RESAY",
+  "why": "at: of. Counts describe reports; no likelihood is offered."
+ },
+ {
+  "old": "Their relation to events, learning and changed practice needs those properties alongside them.",
+  "new": "Their relation to events, learning and new practice needs those properties alongside them.",
+  "verdict": "RESAY",
+  "why": "changed: new, by meaning."
+ },
+ {
+  "old": "Reporting source questions and proposed instrument registry retain their distinct carrying in Living Improving Value.",
+  "new": "Reporting source questions and proposed instrument registry retain their distinct carrying with Living Improving Value.",
+  "verdict": "RESAY",
+  "why": "in: with. Title kept."
+ },
+ {
+  "old": "## 4.7 The co-competencing bi-coupler, two-way and one-at-a-time",
+  "new": "## 4.7 The co-competencing bi-coupler, two-way and one-at-a-time",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "Hardware and living self each keep their own bounding.",
+  "new": "Hardware's bounding and living self's bounding are each their own.",
+  "verdict": "RESAY",
+  "why": "keep: a holding, re-said as each bounding being its own."
+ },
+ {
+  "old": "Bi-momentarying, co-competencing and co-intelligencing are inseparable in their alternating.",
+  "new": "Bi-momentarying, co-competencing and co-intelligencing are inseparable with their alternating.",
+  "verdict": "RESAY",
+  "why": "in: with."
+ },
+ {
+  "old": "| **Hardware to living self** | Hardware's offering, at its own parity and rate |",
+  "new": "| **Hardware to living self** | Hardware's offering, with its own parity and rate |",
+  "verdict": "RESAY",
+  "why": "at: with. Cells kept."
+ },
+ {
+  "old": "| **Living self to hardware** | Living self's offering, at its own parity and rate |",
+  "new": "| **Living self to hardware** | Living self's offering, with its own parity and rate |",
+  "verdict": "RESAY",
+  "why": "at: with. Cells kept."
+ },
+ {
+  "old": "Learning is receiving and knowing is offering at each side.",
+  "new": "Learning is receiving and knowing is offering with each side.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Both sides belong to connector without occupying the same directional turn.",
+  "new": "Both sides belong to connector without occupying one same directional turn.",
+  "verdict": "RESAY",
+  "why": "the: one."
+ },
+ {
+  "old": "**The sensor and sensationer carry these two sides.**",
+  "new": "**A sensor and its sensationer carry these two sides.**",
+  "verdict": "RESAY",
+  "why": "the: a, its; neither is one and only."
+ },
+ {
+  "old": "Arrangement expresses crossing at each turn and continuing availability of receiving.",
+  "new": "Arrangement expresses crossing with each turn and continuing availability of receiving.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "At charge, molecule and field interfaces, proposed parity selection stands with material and energy exchanged.",
+  "new": "With charge, molecule and field interfaces, proposed parity selection stands beside material and energy exchanged.",
+  "verdict": "RESAY",
+  "why": "At: With; second with made beside to read once."
+ },
+ {
+  "old": "Whether one side takes both turns is a question of actual coupling, including its offered magnitude, pace and release.",
+  "new": "Whether one side takes both turns is a question of actual coupling, including its offered magnitude, pace and completing.",
+  "verdict": "RESAY",
+  "why": "release: completing, a turn's completing, by meaning; nothing is released."
+ },
+ {
+  "old": "Four connector properties carry changing to express:",
+  "new": "Four connector properties carry parity-changing to express:",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing."
+ },
+ {
+  "old": "| Property | The changing to express at this connector |",
+  "new": "| Property | The changing to express at this connector |",
+  "verdict": "KEEP",
+  "why": "Table header row, kept exactly."
+ },
+ {
+  "old": "| **Receiving and offering** | Each side’s changing. An offering fixed at a constant can describe a particular comparison;",
+  "new": "| **Receiving and offering** | Each side’s parity-changing. An offering fixed as a constant can describe a particular comparison;",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing; at: as. Cells kept."
+ },
+ {
+  "old": "| **Surround and capture** | Changing at other couplings, with each side’s available continuing, refusing and releasing its own turn. |",
+  "new": "| **Surround and capture** | Other couplings' parity-changing, with each side’s available continuing, refusing and completing its own turn. |",
+  "verdict": "RESAY",
+  "why": "Changing at: other couplings' parity-changing; releasing its own turn: completing its own turn. Cells kept."
+ },
+ {
+  "old": "## 4.8 Residue and the returning opportunity",
+  "new": "## 4.8 Residue and the returning opportunity",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "Word is a field arrival; entry at §5.1 expresses particular coupling and arrangement offered.",
+  "new": "Word is a field arrival; entry of §5.1 expresses particular coupling and arrangement offered.",
+  "verdict": "RESAY",
+  "why": "at: of."
+ },
+ {
+  "old": "changed design and account can both stand.",
+  "new": "a new design and account can both stand.",
+  "verdict": "RESAY",
+  "why": "changed: new, by meaning."
+ },
+ {
+  "old": "Return’s receiving still needs replaced input, replenishing source, remaining losses and changing at next turn expressed together.",
+  "new": "Return’s receiving still needs replaced input, replenishing source, remaining losses and parity-changing with next turn expressed together.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing; at: with."
+ },
+ {
+  "old": "## 4.9 Recovering and sequencing at the receiving",
+  "new": "## 4.9 Recovering and sequencing at the receiving",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**Recovery carries a return; sequencing carries its changing at receiving.**",
+  "new": "**Recovery carries a return; sequencing carries its parity-changing with receiving.**",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing; at: with."
+ },
+ {
+  "old": "For sinusoidal voltage and current in phase, one phase delivers `VI cos²θ`, falling to zero twice per cycle.",
+  "new": "For sinusoidal voltage and current in phase, one phase delivers `VI cos²θ`, falling to zero twice per cycle.",
+  "verdict": "KEEP",
+  "why": "in phase is a field's own term; inline code kept."
+ },
+ {
+  "old": "Two equal phases in quadrature also sum to constant power:",
+  "new": "Two equal phases in quadrature also sum to constant power:",
+  "verdict": "KEEP",
+  "why": "in quadrature is a field's own term."
+ },
+ {
+  "old": "Two-phase constant-power case also stands at a field's own machine equations.",
+  "new": "Two-phase constant-power case also stands with a field's own machine equations.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Sum does not make three the minimum, or establish a store-free or clock-free device.",
+  "new": "Sum does not make three the minimum, or establish a store-free or clock-free device.",
+  "verdict": "KEEP",
+  "why": "the minimum: one and only within its own set."
+ },
+ {
+  "old": "A store, a controller and a receiving path each stand at actual arrangement and its source and load.",
+  "new": "A store, a controller and a receiving path each stand with actual arrangement and its source and load.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "| Existing arrival | Returning coupling | Changing to carry in the entry |",
+  "new": "| Existing arrival | Returning coupling | Changing to carry in the entry |",
+  "verdict": "KEEP",
+  "why": "Table header row, kept exactly."
+ },
+ {
+  "old": "| Two flows, shaft changing, pressure, speed and any governing or bypass operation |",
+  "new": "| Two flows, shaft work, pressure, speed and any governing or bypass operation |",
+  "verdict": "RESAY",
+  "why": "shaft changing: shaft work, a turbocharger's shaft carrying exhaust energy to intake, by meaning."
+ },
+ {
+  "old": "ONE's inseparating bound carries its own code meaning at §4.10.",
+  "new": "ONE's inseparating bound carries its own code meaning with §4.10.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Chemical return co-chains here at SIXTEEN §4.4: heat and dissipation remain measured quantities at chemical arrangement.",
+  "new": "Chemical return co-chains here with SIXTEEN §4.4: heat and dissipation remain measured quantities of chemical arrangement.",
+  "verdict": "RESAY",
+  "why": "at: with; at: of."
+ },
+ {
+  "old": "Switching adds path question at §4.12.",
+  "new": "Switching adds path question with §4.12.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Smelting offering still needs electrical and chemical paths changing in sequence, their receiving and remaining input and heat expressed together.",
+  "new": "Smelting offering still needs electrical and chemical paths parity-changing in sequence, their receiving and remaining input and heat expressed together.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing. in sequence kept."
+ },
+ {
+  "old": "Available changing, its selection and its returning belong in the same entry.",
+  "new": "Available parity-changing, its selection and its returning belong with one same entry.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing; in: with; the: one."
+ },
+ {
+  "old": "## 4.10 The resolver's carrying and physical sequencing",
+  "new": "## 4.10 The resolver's carrying and physical sequencing",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "| Carrying and signs supplied at a call |",
+  "new": "| Carrying and signs supplied with a call |",
+  "verdict": "RESAY",
+  "why": "at: with. Cell kept."
+ },
+ {
+  "old": "| Arriving carrying's torusing, available for inversioning at a nonzero surfacing |",
+  "new": "| Arriving carrying's torusing, available for inversioning with a nonzero surfacing |",
+  "verdict": "RESAY",
+  "why": "at: with. Cell kept."
+ },
+ {
+  "old": "| Arriving signs and inverted carried signs, each nonzero sign changing its own sum by one |",
+  "new": "| Arriving signs and inverted carried signs, each nonzero sign contributing one, + or −, to its own sum |",
+  "verdict": "RESAY",
+  "why": "changing its own sum by one: contributing one, + or −, to its own sum, the code's addition. Cell kept."
+ },
+ {
+  "old": "a nonzero surfacing writes carrying with inseparating at zero and torusing inverted; carrying leaves in return |",
+  "new": "a nonzero surfacing writes carrying, its inseparating zero and torusing inverted; carrying leaves as a return |",
+  "verdict": "RESAY",
+  "why": "at zero: its inseparating zero; in return: as a return. Cell kept."
+ },
+ {
+  "old": "**The offering key retains grouping performed by ONE.**",
+  "new": "**An offering key retains ONE's grouping.**",
+  "verdict": "RESAY",
+  "why": "the: an; doer: grouping performed by ONE, re-said as ONE's grouping."
+ },
+ {
+  "old": "Arriving signs are grouped at `bi_offering` in `bi_co_tunneling`; sign of each addressed sum appears in `bi_co_surfacing`.",
+  "new": "Arriving signs are grouped by `bi_offering` within `bi_co_tunneling`; sign of each addressed sum appears within `bi_co_surfacing`.",
+  "verdict": "RESAY",
+  "why": "at: by, a key grouping; in: within, part of a code whole. Inline code kept."
+ },
+ {
+  "old": "ONE's naming table carries `bi_offering` as offering key at which signs tunnel.",
+  "new": "ONE's naming table carries `bi_offering` as offering key with which signs tunnel.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Code's grouping and its proposed physical coupling retain their correspondence at connector.",
+  "new": "Code's grouping and its proposed physical coupling retain their correspondence with connector.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Function assigns no physical direction to a key.",
+  "new": "With function, a key has no physical direction.",
+  "verdict": "RESAY",
+  "why": "Doer: a function assigning, re-said as a key's own relation."
+ },
+ {
+  "old": "| `(a, +1)` and `(a, −1)` | `(a, 0)` | Contributions couple at one addressed sum. |",
+  "new": "| `(a, +1)` and `(a, −1)` | `(a, 0)` | Contributions couple with one addressed sum. |",
+  "verdict": "RESAY",
+  "why": "at: with. Cells kept."
+ },
+ {
+  "old": "Their keys name grouping in example, with no physical orientation assigned.",
+  "new": "Their keys name an example's grouping, with no physical orientation assigned.",
+  "verdict": "RESAY",
+  "why": "in example: an example's."
+ },
+ {
+  "old": "Combining contributions at one key has that exact operation.",
+  "new": "Combining contributions with one key has that exact operation.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Its correspondence to one coupling or several physical receivings remains in offered interface;",
+  "new": "Its correspondence to one coupling or several physical receivings remains with offered interface;",
+  "verdict": "RESAY",
+  "why": "in: with."
+ },
+ {
+  "old": "ONE returns carrying from a dictionary.",
+  "new": "ONE's carrying returns from a dictionary.",
+  "verdict": "RESAY",
+  "why": "Doer: a file returning, re-said as its carrying returning."
+ },
+ {
+  "old": "This gives proposed connector a concrete continuing relation at the same side's receiving.",
+  "new": "This gives proposed connector a concrete continuing relation with one same side's receiving.",
+  "verdict": "RESAY",
+  "why": "at: with; the: one."
+ },
+ {
+  "old": "ONE's ten co-changings express this relation.",
+  "new": "ONE's ten namings express this relation.",
+  "verdict": "ASK",
+  "why": "ONE has no name co-changing; ten matches its ten namings, carried as 3, 2, 2, 1, 1, 1 below. Best re-saying uses namings, dissolving changing. Yet ten might mean a self's ten own names, or ten code steps, and the relation is combining carryings. To resolve: do ONE's ten namings, a self's ten own names, or something else express combining carryings?"
+ },
+ {
+  "old": "Reordering arriving signs preserves their sum at each key;",
+  "new": "Reordering arriving signs preserves their sum with each key;",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Arrival ordering, carrying continuation and physical directional order remain at their own receiving.",
+  "new": "Arrival ordering, carrying continuation and physical directional order remain with their own receiving.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Collection supplied as carrying must remain available at function's three traversals.",
+  "new": "Collection supplied as carrying must remain available for function's three traversals.",
+  "verdict": "RESAY",
+  "why": "at: for."
+ },
+ {
+  "old": "`bi_co_inversioning` and `bi_co_tunneling` supply contribution and sum at that key.",
+  "new": "`bi_co_inversioning` and `bi_co_tunneling` supply contribution and sum with that key.",
+  "verdict": "RESAY",
+  "why": "at: with. Inline code kept."
+ },
+ {
+  "old": "Following substitutions keep one key `a`, two positive arriving entries and initially empty carrying.",
+  "new": "Following substitutions use one key `a`, two positive arriving entries and initially empty carrying.",
+  "verdict": "RESAY",
+  "why": "keep: use."
+ },
+ {
+  "old": "| Arriving supplied to the coupling | Addressed sum | Surfacing | Carrying leaving |",
+  "new": "| Arriving supplied to the coupling | Addressed sum | Surfacing | Carrying leaving |",
+  "verdict": "KEEP",
+  "why": "Table header row, kept exactly."
+ },
+ {
+  "old": "| Second `(a, +1)` at next coupling, supplied with preceding row’s carrying |",
+  "new": "| Second `(a, +1)` with next coupling, preceding row’s carrying supplied too |",
+  "verdict": "RESAY",
+  "why": "at: with, second with folded. Cell kept."
+ },
+ {
+  "old": "Its earlier carrying remains eligible at inseparating one;",
+  "new": "Its earlier carrying remains eligible with inseparating one;",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "A recording device can sample the same continuing signal several times.",
+  "new": "A recording device can sample one same continuing signal several times.",
+  "verdict": "RESAY",
+  "why": "the: one. sample kept, a field's instrument term, not a statistic."
+ },
+ {
+  "old": "Supplying each sample as a fresh arriving repeats contributions; supplying one arriving at a completed physical exchange carries another relation.",
+  "new": "Supplying each sample as a fresh arriving repeats contributions; supplying one arriving with a completed physical exchange carries another relation.",
+  "verdict": "RESAY",
+  "why": "at: with. sample kept, an instrument's reading."
+ },
+ {
+  "old": "An arriving zero contributes no parity, passed over at 14-next-possibling, while each prior at 3-now-co-observing still changes or is kept at 12-next-co-same-existing.",
+  "new": "An arriving zero contributes no parity, passed over with 14-next-possibling, while each prior with 3-now-co-observing still parity-changes or is same-existing with 12-next-co-same-existing.",
+  "verdict": "RESAY",
+  "why": "at: with; changes: parity-changes; is kept: is same-existing, as agreed for a prior."
+ },
+ {
+  "old": "A period, a sample interval, an absent arriving and a completed exchange therefore keep their meanings at connector.",
+  "new": "A period, a sample interval, an absent arriving and a completed exchange therefore each carry their own meaning with connector.",
+  "verdict": "RESAY",
+  "why": "keep: each carry their own; at: with. sample interval kept, an instrument term."
+ },
+ {
+  "old": "Engineering opportunity is current parity taking and exchange completion at each side’s own available changing.",
+  "new": "Engineering opportunity is current parity taking and exchange completion with each side’s own available parity-changing.",
+  "verdict": "RESAY",
+  "why": "at: with; changing: parity-changing."
+ },
+ {
+  "old": "Silicon surface at §2.4 carries a field arrival;",
+  "new": "Silicon surface of §2.4 carries a field arrival;",
+  "verdict": "RESAY",
+  "why": "at: of."
+ },
+ {
+  "old": "One parity at code supplies no rate law for that surface.",
+  "new": "One parity of code supplies no rate law for that surface.",
+  "verdict": "RESAY",
+  "why": "at: of."
+ },
+ {
+  "old": "Earlier carrying survives while inseparating plus one is at most three, with four retained at a positive torusing.",
+  "new": "Earlier carrying survives while inseparating plus one is at most three, four retained with a positive torusing.",
+  "verdict": "RESAY",
+  "why": "at a positive torusing: with. at most kept, a bound, not place or time."
+ },
+ {
+  "old": "A nonzero surfacing writes current carrying at the same offering.",
+  "new": "A nonzero surfacing writes current carrying with one same offering.",
+  "verdict": "RESAY",
+  "why": "at: with; the: one."
+ },
+ {
+  "old": "Exact sign case at §4.2 carries positive condition and its returned carrying.",
+  "new": "Exact sign case of §4.2 carries positive condition and its returned carrying.",
+  "verdict": "RESAY",
+  "why": "at: of."
+ },
+ {
+  "old": "**Each sign operation retains its particular changing.**",
+  "new": "**Each sign operation retains its particular parity-changing.**",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing."
+ },
+ {
+  "old": "Natural Intelligence §6.4 and ONE carry the same relation:",
+  "new": "Natural Intelligence §6.4 and ONE carry one same relation:",
+  "verdict": "RESAY",
+  "why": "the: one."
+ },
+ {
+  "old": "| Operation at ONE | Sign and carrying changing |",
+  "new": "| Operation at ONE | Sign and carrying changing |",
+  "verdict": "KEEP",
+  "why": "Table header row, kept exactly."
+ },
+ {
+  "old": "| **Fresh carrying at a nonzero surfacing** |",
+  "new": "| **Fresh carrying with a nonzero surfacing** |",
+  "verdict": "RESAY",
+  "why": "at: with. Cell kept."
+ },
+ {
+  "old": "Current arriving, earlier carrying and fresh writing retain their separate operations at whole coupling.",
+  "new": "Current arriving, earlier carrying and fresh writing retain their separate operations with whole coupling.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "A surfaced zero and retained carrying can coexist at one offering.",
+  "new": "A surfaced zero and retained carrying can coexist with one offering.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Earlier carrying is considered at its bound; a nonzero surfacing then supplies any fresh writing at that offering.",
+  "new": "Earlier carrying is considered with its bound; a nonzero surfacing then supplies any fresh writing with that offering.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Returned surfacing and returned carrying keep both operations visible.",
+  "new": "Returned surfacing and returned carrying make both operations visible.",
+  "verdict": "RESAY",
+  "why": "keep: make."
+ },
+ {
+  "old": "Transmissioning dictionary is constructed before tunneling, and earlier carrying is considered before fresh surfacing is written into carrying.",
+  "new": "Transmissioning dictionary is constructed before tunneling, and earlier carrying is considered before fresh surfacing is written to carrying.",
+  "verdict": "RESAY",
+  "why": "into: to."
+ },
+ {
+  "old": "Six adjoining depth changes belong to ONE's separate seven-position prefix row.",
+  "new": "Six adjoining depth differences belong to ONE's separate seven-position prefix row.",
+  "verdict": "RESAY",
+  "why": "changes: differences, a depth differing between adjoining positions, by meaning."
+ },
+ {
+  "old": "Their relation to momentary changing remains with full namings and central mapping.",
+  "new": "Their relation to momentary parity-changing remains with full namings and central mapping.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing."
+ },
+ {
+  "old": "A reused position retains that association question at TWO and networking kit.",
+  "new": "A reused position retains that association question with TWO and networking kit.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Calling-and-returning relation at §2.1 makes physical association explicit: the same reply name can arrive at a changed orientation.",
+  "new": "Calling-and-returning relation of §2.1 makes physical association explicit: one same reply name can arrive with a different orientation.",
+  "verdict": "RESAY",
+  "why": "at: of, with; the: one; changed: different."
+ },
+ {
+  "old": "Shared-network engineering continues at §2.5 with parity representation, returned carrying, each side’s own bounding and next coupling’s arriving.",
+  "new": "Shared-network engineering continues with §2.5: parity representation, returned carrying, each side’s own bounding and next coupling’s arriving.",
+  "verdict": "RESAY",
+  "why": "at: with, a colon carrying the list."
+ },
+ {
+  "old": "## 4.11 Crossings and the arrangements they couple",
+  "new": "## 4.11 Crossings and the arrangements they couple",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**The crossing carries receiving question between addressed operations.**",
+  "new": "**A crossing carries receiving question between addressed operations.**",
+  "verdict": "RESAY",
+  "why": "the: a; not one and only."
+ },
+ {
+  "old": "A pressure exchanger, heat exchanger or electrical interface can already name that connection in its field.",
+  "new": "A pressure exchanger, heat exchanger or electrical interface can already name that connection with its field's words.",
+  "verdict": "RESAY",
+  "why": "in its field: with its field's words."
+ },
+ {
+  "old": "Branching, parallel paths and returns carry their actual connections in arrangement.",
+  "new": "Branching, parallel paths and returns carry their actual connections within arrangement.",
+  "verdict": "RESAY",
+  "why": "in: within, a part of its whole."
+ },
+ {
+  "old": "Proposed crossing coefficients at §4.1 carry those operations.",
+  "new": "Proposed crossing coefficients of §4.1 carry those operations.",
+  "verdict": "RESAY",
+  "why": "at: of."
+ },
+ {
+  "old": "Connection count records interfaces in addressed arrangement;",
+  "new": "Connection count records interfaces of addressed arrangement;",
+  "verdict": "RESAY",
+  "why": "in: of."
+ },
+ {
+  "old": "Residue and connection accounts retain particular changing available between their addressed operations.",
+  "new": "Residue and connection accounts retain particular parity-changing available between their addressed operations.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing."
+ },
+ {
+  "old": "## 4.12 Zeroing and the switching path",
+  "new": "## 4.12 Zeroing and the switching path",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**Zeroing is changing at its own relation.**",
+  "new": "**Zeroing is parity-changing betweening with its own relation.**",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing betweening, a 0 as agreed; at: with."
+ },
+ {
+  "old": "Parity, carrying and crossing retain particular operation at which zero appears.",
+  "new": "Parity, carrying and crossing retain particular operation with which zero appears.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "| At ONE's code or illustration | The operation carried there |",
+  "new": "| At ONE's code or illustration | The operation carried there |",
+  "verdict": "KEEP",
+  "why": "Table header row, kept exactly."
+ },
+ {
+  "old": "| **Zero in `bi_arriving`** |",
+  "new": "| **Zero within `bi_arriving`** |",
+  "verdict": "RESAY",
+  "why": "in: within, an entry of a code whole. Cell kept."
+ },
+ {
+  "old": "| **Zero in `bi_co_surfacing`** |",
+  "new": "| **Zero within `bi_co_surfacing`** |",
+  "verdict": "RESAY",
+  "why": "in: within. Cell kept."
+ },
+ {
+  "old": "| **Zero in `bi_co_inseparating`** | A nonzero surfacing writes carrying with inseparating at zero and torusing inverted. Surfaced sign and zero in carrying's field coexist. |",
+  "new": "| **Zero within `bi_co_inseparating`** | A nonzero surfacing writes carrying, its inseparating zero and torusing inverted. Surfaced sign and zero within carrying's field coexist. |",
+  "verdict": "RESAY",
+  "why": "in: within; at zero: its inseparating zero. Cells kept."
+ },
+ {
+  "old": "| **Zero change in prefix depth** | Adjoining depths are equal. Root, or root and prefix order, can change at that same adjacency, as §6.1 expresses. |",
+  "new": "| **Zero difference of prefix depth** | Adjoining depths are equal. Root, or root and prefix order, can differ across that same adjacency, as §6.1 expresses. |",
+  "verdict": "RESAY",
+  "why": "change: difference, differ, depths of adjoining positions; in: of; at: across. Cells kept."
+ },
+ {
+  "old": "Their co-chaining belongs at actual changing.",
+  "new": "Their co-chaining belongs with actual parity-changing.",
+  "verdict": "RESAY",
+  "why": "at: with; changing: parity-changing."
+ },
+ {
+  "old": "§4.10 keeps surfacing and carrying together at next receiving.",
+  "new": "§4.10 carries surfacing and carrying together with next receiving.",
+  "verdict": "RESAY",
+  "why": "keeps: carries; at: with."
+ },
+ {
+  "old": "Acoustic receiving at §1.12 carries zero beat rate, zero change between beat rates and no received comparison at their different operations.",
+  "new": "Acoustic receiving of §1.12 carries zero beat rate, zero difference between beat rates and no received comparison, each with its own operation.",
+  "verdict": "RESAY",
+  "why": "at: of; change: difference, by meaning; at their different operations: each with its own operation."
+ },
+ {
+  "old": "A sound's frequency difference and a code's surfaced parity retain their particular correspondence at proposed connector.",
+  "new": "A sound's frequency difference and a code's surfaced parity retain their particular correspondence with proposed connector.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "**A physical switching path carries its own changing.**",
+  "new": "**A physical switching path carries its own parity-changing.**",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing, a switch's on or off."
+ },
+ {
+  "old": "In TI's addressed synchronous-buck circuit, interval with both transistor gates off retains inductor current in low-side body diode.",
+  "new": "With TI's addressed synchronous-buck circuit, an interval with both transistor gates off carries inductor current through low-side body diode.",
+  "verdict": "RESAY",
+  "why": "In: With; retains ... in: carries ... through, the diode conducting."
+ },
+ {
+  "old": "Source, inductor, capacitor and load remain in arrangement.",
+  "new": "Source, inductor, capacitor and load remain within arrangement.",
+  "verdict": "RESAY",
+  "why": "in: within, parts of a whole."
+ },
+ {
+  "old": "Engineering entry follows commanded and conducting paths at each interval, voltage and current at their receiving, and remaining availability or dissipation.",
+  "new": "Engineering entry follows commanded and conducting paths with each interval, voltage and current with their receiving, and remaining availability or dissipation.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Floating-neutralling is co-changing between sides, each carrying its own bounding and releasing its own.",
+  "new": "Floating-neutralling is co-changing between sides, each carrying its own bounding and its own letting go.",
+  "verdict": "RESAY",
+  "why": "releasing its own: its own letting go, as 4.7 says of each side. co-changing, a compound, left as written."
+ },
+ {
+  "old": "Its physical correspondence includes source, receiving, retained material or electrical changing and release.",
+  "new": "Its physical correspondence includes source, receiving, and a material or electrical difference forming and dissolving.",
+  "verdict": "RESAY",
+  "why": "retained changing and release: a difference forming and dissolving; nothing is held or released."
+ },
+ {
+  "old": "Grid's neutral and proposed nuclear-composition correspondence remain at their respective entries.",
+  "new": "Grid's neutral and proposed nuclear-composition correspondence remain with their respective entries.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Switching path and geometry at §6.9 retain their own boundaries and openings.",
+  "new": "Switching path and geometry of §6.9 retain their own boundaries and openings.",
+  "verdict": "RESAY",
+  "why": "at: of."
+ },
+ {
+  "old": "# PART FIVE — ENGINEERING OPPORTUNITY AND THE RECEIVING COUPLING",
+  "new": "# PART FIVE — ENGINEERING OPPORTUNITY AND THE RECEIVING COUPLING",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "## 5.1 Engineering opportunity, and the entry carrying it",
+  "new": "## 5.1 Engineering opportunity, and the entry carrying it",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**The entry carries engineering goal with each side's own parity, rate and bounding at §1.1.**",
+  "new": "**An entry carries engineering goal with each side's own parity, rate and bounding of §1.1.**",
+  "verdict": "RESAY",
+  "why": "the: an; at: of."
+ },
+ {
+  "old": "Setpoint, clock, ground and controller remain a field's own names at their particular arrangements.",
+  "new": "Setpoint, clock, ground and controller remain a field's own names with their particular arrangements.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "**Engineering probleming is stable-forming at particular coupling.**",
+  "new": "**Engineering probleming is stable-forming with particular coupling.**",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Bi-momentarying, co-competencing and co-intelligencing cycle at whole receiving;",
+  "new": "Bi-momentarying, co-competencing and co-intelligencing cycle with whole receiving;",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Residue retains its material or measured changing, and each field observing retains arrangement and conditions.",
+  "new": "Residue retains its material or measured difference, and each field observing retains arrangement and conditions.",
+  "verdict": "RESAY",
+  "why": "changing: difference, a field's measured quantity."
+ },
+ {
+  "old": "| **Arrangement and goal** | Substrate, stated service and its operating conditions, in a field's words. |",
+  "new": "| **Arrangement and goal** | Substrate, stated service and its operating conditions, with a field's words. |",
+  "verdict": "RESAY",
+  "why": "in: with. Cells kept."
+ },
+ {
+  "old": "| **One side taking both turns** | Particular coupling, term installed at an other's turn and its name in arrangement. |",
+  "new": "| **One side taking both turns** | Particular coupling, term installed with an other's turn and its name within arrangement. |",
+  "verdict": "RESAY",
+  "why": "at: with; in: within. Cells kept."
+ },
+ {
+  "old": "| **Residue** | Arriving at that coupling, its amount, units, duration and conditions,",
+  "new": "| **Residue** | Arriving with that coupling, its amount, units, duration and conditions,",
+  "verdict": "RESAY",
+  "why": "at: with. Cells kept."
+ },
+ {
+  "old": "| **Observing** | A field record of the same goal carrying",
+  "new": "| **Observing** | A field record of one same goal carrying",
+  "verdict": "RESAY",
+  "why": "the: one. Cells kept."
+ },
+ {
+  "old": "changed and continuing operations and particular breaking of proposed correspondence. |",
+  "new": "new and continuing operations and particular breaking of proposed correspondence. |",
+  "verdict": "RESAY",
+  "why": "changed: new, by meaning. Cell kept."
+ },
+ {
+  "old": "**Existing carries with possibling**, particular question stated at its own line.",
+  "new": "**Existing carries with possibling**, particular question stated on its own line.",
+  "verdict": "RESAY",
+  "why": "at: on, a line of an entry."
+ },
+ {
+  "old": "An observing of a different service carries difference in service.",
+  "new": "An observing of a different service carries difference of service.",
+  "verdict": "RESAY",
+  "why": "in: of."
+ },
+ {
+  "old": "**The arrangement offered remains in discovering.**",
+  "new": "**An arrangement offered goes on discovering.**",
+  "verdict": "RESAY",
+  "why": "the: an; remains in: goes on, by meaning."
+ },
+ {
+  "old": "Its receiving and returning carry next offering with each side's changing.",
+  "new": "Its receiving and returning carry next offering with each side's parity-changing.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing."
+ },
+ {
+  "old": "A construction carries its actual coupling, its available changing and continuing service.",
+  "new": "A construction carries its actual coupling, its available parity-changing and continuing service.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing."
+ },
+ {
+  "old": "Proposed construction carries with changed receiving.",
+  "new": "Proposed construction carries with a new receiving.",
+  "verdict": "RESAY",
+  "why": "changed: new, by meaning."
+ },
+ {
+  "old": "Entry carries that learning at the same five properties; proposal retains its own co-releasing.",
+  "new": "Entry carries that learning with its same five properties; proposal retains its own co-releasing.",
+  "verdict": "RESAY",
+  "why": "at: with; the: its. co-releasing kept, a naming awaiting one motion."
+ },
+ {
+  "old": "A cost at that bound answers part of entry those conditions cover.",
+  "new": "A cost with that bound answers part of entry those conditions cover.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "carries particular operations still installed at each coupling, with counting relation at §2.1.",
+  "new": "carries particular operations still installed with each coupling, counting relation of §2.1.",
+  "verdict": "RESAY",
+  "why": "at: with; at: of."
+ },
+ {
+  "old": "A cost assigned wholly to one installed term breaks with that term released and cost remaining.",
+  "new": "A cost assigned wholly to one installed term breaks with that term dissolved and cost remaining.",
+  "verdict": "RESAY",
+  "why": "released: dissolved, a fixed form leaving."
+ },
+ {
+  "old": "A same-goal claim breaks with a changed service.",
+  "new": "A same-goal claim breaks with a different service.",
+  "verdict": "RESAY",
+  "why": "changed: different."
+ },
+ {
+  "old": "An observing described beyond its source breaks at added description.",
+  "new": "An observing described wider than its source breaks with added description.",
+  "verdict": "RESAY",
+  "why": "beyond: wider than, by meaning; at: with."
+ },
+ {
+  "old": "A bound carried beyond its conditions breaks at that extension.",
+  "new": "A bound carried wider than its conditions breaks with that extension.",
+  "verdict": "RESAY",
+  "why": "beyond: wider than; at: with."
+ },
+ {
+  "old": "**Residue is an arriving in a field's own account.**",
+  "new": "**Residue is an arriving of a field's own account.**",
+  "verdict": "RESAY",
+  "why": "in: of."
+ },
+ {
+  "old": "their relation to one side taking both turns stands at particular coupling.",
+  "new": "their relation to one side taking both turns stands with particular coupling.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Preparation, duration, operating range and quantities included in account remain with magnitude.",
+  "new": "Preparation, duration, operating range and quantities included within account remain with magnitude.",
+  "verdict": "RESAY",
+  "why": "in: within, a part of its whole."
+ },
+ {
+  "old": "A common unit retains those particulars; parity crossing is taken at each side's own turn.",
+  "new": "A common unit retains those particulars; parity crossing is taken with each side's own turn.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Leaving at one coupling and arriving at next carries return, trigger and receiving arrangement together.",
+  "new": "Leaving with one coupling and arriving with next carries return, trigger and receiving arrangement together.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Storage and rate matching retain their actual operations in arrangement.",
+  "new": "Storage and rate matching retain their actual operations within arrangement.",
+  "verdict": "RESAY",
+  "why": "in: within."
+ },
+ {
+  "old": "Return paths and phase offsets have their own counts; constant delivery stands at changing of source and receiving load.",
+  "new": "Return paths and phase offsets have their own counts; constant delivery stands with a parity-changing source and receiving load.",
+  "verdict": "RESAY",
+  "why": "at changing of: with a parity-changing."
+ },
+ {
+  "old": "| Leaving heat and receiving at successive couplings; receiving temperature and rate. |",
+  "new": "| Leaving heat and receiving with successive couplings; receiving temperature and rate. |",
+  "verdict": "RESAY",
+  "why": "at: with. Cell kept."
+ },
+ {
+  "old": "| Selecting, separating and recovering together; composition carried at each leaving. |",
+  "new": "| Selecting, separating and recovering together; composition carried with each leaving. |",
+  "verdict": "RESAY",
+  "why": "at: with. Cell kept."
+ },
+ {
+  "old": "| Contact, motion and stated service; changing at contact. |",
+  "new": "| Contact, motion and stated service; parity-changing with contact. |",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing; at: with. Cell kept."
+ },
+ {
+  "old": "| Material's separating and specified product; coupling at fracture. |",
+  "new": "| Material's separating and specified product; coupling with fracture. |",
+  "verdict": "RESAY",
+  "why": "at: with. Cell kept."
+ },
+ {
+  "old": "| Changing supply and receiving demand; availability taken at coupling. |",
+  "new": "| Parity-changing supply and receiving demand; availability taken with coupling. |",
+  "verdict": "RESAY",
+  "why": "Changing: Parity-changing; at: with. Cell kept."
+ },
+ {
+  "old": "| Offering, uptake and leaving streams at plant and its surroundings. |",
+  "new": "| Offering, uptake and leaving streams of plant and its surroundings. |",
+  "verdict": "RESAY",
+  "why": "at: of. Cell kept."
+ },
+ {
+  "old": "| Computation, carrying and physical interface, with stated service at each. |",
+  "new": "| Computation, carrying and physical interface, with stated service of each. |",
+  "verdict": "RESAY",
+  "why": "at: of. Cell kept."
+ },
+ {
+  "old": "**Crossings carry an opportunity beyond residue word.**",
+  "new": "**Crossings carry an opportunity wider than residue word.**",
+  "verdict": "RESAY",
+  "why": "beyond: wider than, by meaning."
+ },
+ {
+  "old": "A residue is a leaving at a stage;",
+  "new": "A residue is a leaving of a stage;",
+  "verdict": "RESAY",
+  "why": "at: of."
+ },
+ {
+  "old": "Crossing coefficient carries proposed parity or magnitude relation at each.",
+  "new": "Crossing coefficient carries proposed parity or magnitude relation of each.",
+  "verdict": "RESAY",
+  "why": "at: of."
+ },
+ {
+  "old": "A flow account can carry an input and an output while datum's own changing reaches at another property.",
+  "new": "A flow account can carry an input and an output while datum's own parity-changing reaches another property.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing; reaches at: reaches."
+ },
+ {
+  "old": "Both remain in entry, each with its own units and conditions.",
+  "new": "Both remain within entry, each with its own units and conditions.",
+  "verdict": "RESAY",
+  "why": "in: within."
+ },
+ {
+  "old": "**Bi-momentarying, co-competencing and co-intelligencing remain inseparable at return and receiving.**",
+  "new": "**Bi-momentarying, co-competencing and co-intelligencing remain inseparable with return and receiving.**",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Bettering, fastering and cheapering co-cycle at that whole coupling, each side carrying its own parity and rate.",
+  "new": "Bettering, fastering and cheapering co-cycle with that whole coupling, each side carrying its own parity and rate.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "A ratio in a field record carries that comparison's conditions.",
+  "new": "A ratio of a field record carries that comparison's conditions.",
+  "verdict": "RESAY",
+  "why": "in: of."
+ },
+ {
+  "old": "A ratio prescribed over coupling supplies one side's terms at an other's turn.",
+  "new": "A ratio prescribed over coupling supplies one side's terms with an other's turn.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Entry carries measured comparison and any prescribing at their particular relations.",
+  "new": "Entry carries measured comparison and any prescribing with their particular relations.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Desalination carries separating and return together: drawing water, releasing water and reusing draw, with membrane, triggering and receiving at their own couplings.",
+  "new": "Desalination carries separating and return together: drawing water, delivering water and reusing draw, with membrane, triggering and receiving each of its own coupling.",
+  "verdict": "RESAY",
+  "why": "releasing water: delivering water, by meaning; at their own couplings: each of its own coupling."
+ },
+ {
+  "old": "Hysteresis, backlash, stiction, transition to turbulence, magnetic saturation, buckling and phase change remain a field's addresses.",
+  "new": "Hysteresis, backlash, stiction, transition to turbulence, magnetic saturation, buckling and phase change remain a field's addresses.",
+  "verdict": "KEEP",
+  "why": "phase change and each listed term are a field's own terms in their own sense."
+ },
+ {
+  "old": "## 5.2 Residue and the receiving coupling",
+  "new": "## 5.2 Residue and the receiving coupling",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ }
+]
