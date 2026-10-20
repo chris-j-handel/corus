@@ -235,3 +235,5 @@ Natural Naming 5.14’s “and it compounds” and its abundancing/releasing exp
 **Droplet · *the* only for one of one, v390.** The Exhibit ONE draft keeps *the* for the universe, the method, and an only first, last, next, smaller or lesser within its own set. Elsewhere it says *a*, *its* or *an other's*. — v390
 
 **Droplet · Natural Naming's 169 older names, v390.** Natural Naming still names 1 to 17 with the older names, while Exhibit ONE and Natural Intelligence now use the agreed names. Natural Naming is the file the others meet for naming, so its renaming may come first in the naming motion, with *bi-folding* for cycles of moves. — v390
+
+**Droplet · *co-releasing*, one naming motion, v390.** Nothing is held or released, so *co-releasing* is to be re-said with its headings in one motion: Natural Naming 5.11, Natural Networking 2.5, Natural Engineering 5.7 and Equilibria Registry. Two offered namings are *co-emanating*, after a prior in stable form being an emanation from living form-stabling, and *co-dissolving*. **To resolve:** which naming carries its concept, a completing offered on to further participation? — v390
