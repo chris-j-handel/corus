@@ -190,5 +190,425 @@
   "new": "Compare one same protein under crystallography, NMR, cryo-EM, and single-molecule methods, with time and population windows attached. Find where a structure remains invariant across methods and where its ensemble differs.",
   "verdict": "RESAY",
   "why": "the: one; keeping: with, by meaning; changes, no parity: differs."
+ },
+ {
+  "old": "## 5.5 The single catalytic transition-state stroke",
+  "new": "## 5.5 The single catalytic transition-state stroke",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**The observing.** Rate enhancement, specificity, mutation response",
+  "new": "**The observing.** Rate enhancement, specificity, mutation response",
+  "verdict": "KEEP",
+  "why": "Door form label, one observing per entry, kept."
+ },
+ {
+  "old": "Turnovers at their own times; rate constant carried by none. Observed **is**; where machine is installed striking at one rate, **is-not**.",
+  "new": "Turnovers each with its own timing; a rate constant carried by none. Observed **is**; where a machine is installed striking with one rate, **is-not**.",
+  "verdict": "RESAY",
+  "why": "at, time and place: with, by meaning."
+ },
+ {
+  "old": "Substrate on one side of crossing, product on the other.",
+  "new": "Substrate on one side of a crossing, product on its other side.",
+  "verdict": "RESAY",
+  "why": "the: its."
+ },
+ {
+  "old": "Acceleration arrives at coupling while enzyme stays and nothing is transported.",
+  "new": "Acceleration arrives with coupling while an enzyme stays and nothing is transported.",
+  "verdict": "RESAY",
+  "why": "at, place: with."
+ },
+ {
+  "old": "Transition-state ensemble is wide and no molecule occupies the one structure.",
+  "new": "Transition-state ensemble is wide and no molecule occupies its one drawn structure.",
+  "verdict": "RESAY",
+  "why": "the: its, naming the drawn structure."
+ },
+ {
+  "old": "Optimum is a product of changing rates and moves with temperature and pH.",
+  "new": "Optimum is a product of varying rates and moves with temperature and pH.",
+  "verdict": "RESAY",
+  "why": "changing, field rates with no parity: varying, by meaning."
+ },
+ {
+  "old": "**Observed.** Fails at 2, 7 and 9 — **state**; and at 3 and 6 — doer, possessor — **flow**.",
+  "new": "**Observed.** Fails with 2, 7 and 9 — **state**; and with 3 and 6 — doer, possessor — **flow**.",
+  "verdict": "RESAY",
+  "why": "at, place: with. doer kept: it names an installation diagnosed, G13."
+ },
+ {
+  "old": "Turnover society passes, arriving at TWENTY-FIVE 2.21, an enzyme observed at one turnover.",
+  "new": "Turnovers pass, arriving as TWENTY-FIVE 2.21, an enzyme observed with one turnover.",
+  "verdict": "RESAY",
+  "why": "society of turnovers, not selves: re-said by meaning as turnovers; at: as, with."
+ },
+ {
+  "old": "Transition-state theory and catalytic free-energy differences stand in field record; a 2025 study supplies evidence for a structurally wide transition-state ensemble in its studied system.",
+  "new": "Transition-state theory and catalytic free-energy differences stand as field record; a 2025 study supplies evidence for a structurally wide transition-state ensemble with its studied system.",
+  "verdict": "RESAY",
+  "why": "in: as, with, by meaning."
+ },
+ {
+  "old": "One study establishes neither the same breadth across every enzyme nor release of every mechanism.",
+  "new": "One study establishes neither that same breadth across every enzyme nor a dissolving of every mechanism.",
+  "verdict": "RESAY",
+  "why": "the: that; release: dissolving, for a form that leaves."
+ },
+ {
+  "old": "**Substrate and society.** Enzyme, substrate, solvent, ions and cofactors",
+  "new": "**Substrate and society.** Enzyme, substrate, solvent, ions and cofactors",
+  "verdict": "KEEP",
+  "why": "Entry form label, kept pending the label ASK at 5.4."
+ },
+ {
+  "old": "A representative transition configuration crosses from model and diagram into reaction as a single acting stroke.",
+  "new": "A representative transition configuration crosses from model and diagram to reaction as a single acting stroke.",
+  "verdict": "RESAY",
+  "why": "into: to."
+ },
+ {
+  "old": "Both, flow first: doer and possessor at 3 and 6; the one stroke, the one structure and optimum at 2, 7, 9.",
+  "new": "Both, flow first: doer and possessor with 3 and 6; one stroke, one structure and optimum with 2, 7, 9.",
+  "verdict": "RESAY",
+  "why": "at, place: with; the: removed. doer kept: it names an installation diagnosed."
+ },
+ {
+  "old": "**Living changing.** Enzyme, substrate, solvent, and reaction coordinates change together across an ensemble of configurations.",
+  "new": "**Living changing.** Enzyme, substrate, solvent, and reaction coordinates re-form together across an ensemble of configurations.",
+  "verdict": "RESAY",
+  "why": "change, field forming with no parity named: re-form. Label kept pending the label ASK at 5.4."
+ },
+ {
+  "old": "**Apparent not-changing.** One catalytic geometry",
+  "new": "**Apparent not-changing.** One catalytic geometry",
+  "verdict": "KEEP",
+  "why": "not-changing is an agreed word; label kept."
+ },
+ {
+  "old": "Representative state is installed as the one machine-stroke, and enzyme becomes agent acting on a passive substrate.",
+  "new": "Representative state is installed as the one machine-stroke, and enzyme becomes agent acting on a passive substrate.",
+  "verdict": "KEEP",
+  "why": "An installation's exact grammar stays marked, G13: the one, agent, acting are the ghost named."
+ },
+ {
+  "old": "(1) Enzyme, substrate, solvent, and reaction coordinate change together. (2) Kinetic, structural, and computational methods still that changing into an interpretable reaction path.",
+  "new": "(1) Enzyme, substrate, solvent, and reaction coordinate re-form together. (2) Kinetic, structural, and computational methods still that re-forming as an interpretable reaction path.",
+  "verdict": "RESAY",
+  "why": "change, changing, field forming: re-form, re-forming; into: as. Two linked line sentences, one pair."
+ },
+ {
+  "old": "(4) Representative is installed as one catalytic stroke and enzyme as its doer.",
+  "new": "(4) Representative is installed as one catalytic stroke and enzyme as its doer.",
+  "verdict": "KEEP",
+  "why": "doer names an installation diagnosed; its exact grammar stays marked, G13."
+ },
+ {
+  "old": "(6) A wide ensemble of near-equivalent configurations remains outward of single stroke in studied system.",
+  "new": "(6) A wide ensemble of near-equivalent configurations remains outward of a single stroke within its studied system.",
+  "verdict": "RESAY",
+  "why": "in, a part within its whole: within."
+ },
+ {
+  "old": "The sixth is not yet established across enzymes, so entry remains candidate rather than universal confirmation.",
+  "new": "The sixth is not yet established across enzymes, so entry remains candidate rather than universal confirmation.",
+  "verdict": "KEEP",
+  "why": "the: one and only sixth within its six lines, kept."
+ },
+ {
+  "old": "Premature closure at one geometry.",
+  "new": "Premature closure with one geometry.",
+  "verdict": "RESAY",
+  "why": "at, place: with."
+ },
+ {
+  "old": "Imposed affirmation where enzyme is assigned unilateral agency.",
+  "new": "Imposed affirmation where enzyme is assigned unilateral agency.",
+  "verdict": "KEEP",
+  "why": "agency names an installation diagnosed, G13."
+ },
+ {
+  "old": "Interior-reaching at active site as source. Value-pinning at one barrier height or state. Forced-choosing among ground-state, transition-state, electrostatic, and dynamic accounts. Space-enumerating at reaction-coordinate landscape.",
+  "new": "Interior-reaching with an active site as source. Value-pinning with one barrier height or state. Forced-choosing among ground-state, transition-state, electrostatic, and dynamic accounts. Space-enumerating with a reaction-coordinate landscape.",
+  "verdict": "RESAY",
+  "why": "at, place: with. One pair for four short signature sentences."
+ },
+ {
+  "old": "Within, enzyme conformations, substrate configurations, solvent responses, and energetic relations change. Across, enzyme couples with substrate, complex with solvent, experiment with trajectory, and reaction society with products. Catalysis belongs to the whole coupling.",
+  "new": "Within, enzyme conformations, substrate configurations, solvent responses, and energetic relations re-form. Across, enzyme couples with substrate, complex with solvent, experiment with trajectory, and reactants with products. Catalysis belongs to its whole coupling.",
+  "verdict": "RESAY",
+  "why": "change: re-form; reaction society, not selves: reactants, by meaning; the: its. Label before it kept pending the label ASK at 5.4."
+ },
+ {
+  "old": "Direct evidence that decisive catalysis in stated system occurs through one unique load-bearing geometry, with ensemble breadth irrelevant to rate, would break entry.",
+  "new": "Direct evidence that decisive catalysis within a stated system occurs through one unique load-bearing geometry, with ensemble breadth irrelevant to rate, would break entry.",
+  "verdict": "RESAY",
+  "why": "in, a part within its whole: within."
+ },
+ {
+  "old": "A field use explicitly treating transition state as a mathematical dividing surface rather than a little structure is not ghost at that use.",
+  "new": "A field use explicitly treating transition state as a mathematical dividing surface rather than a little structure is not ghost for that use.",
+  "verdict": "RESAY",
+  "why": "at: for, by meaning."
+ },
+ {
+  "old": "Beyond: Jara et al., “Wide transition-state ensemble as key component for enzyme catalysis,” eLife 13:RP93099, final version 2025.",
+  "new": "Field: Jara et al., “Wide transition-state ensemble as key component for enzyme catalysis,” eLife 13:RP93099, final version 2025.",
+  "verdict": "RESAY",
+  "why": "beyond: Field, the side its sources stand on, as Living names living files. Title and citation kept."
+ },
+ {
+  "old": "Enzyme and substrate co-offer through many accessible configurations; reaction changing carries through coupled ensemble.",
+  "new": "Enzyme and substrate co-offer through many accessible configurations; reaction parity-changing carries through a coupled ensemble.",
+  "verdict": "RESAY",
+  "why": "changing, substrate to product across a crossing, line 4's parity: parity-changing."
+ },
+ {
+  "old": "Active-site drawing remains an across-observing, with agency released from solitary doer into relational competency.",
+  "new": "Active-site drawing remains an across-observing, and a solitary doer's agency dissolves as relational competency.",
+  "verdict": "RESAY",
+  "why": "released: dissolves, a form that leaves; into: as. doer kept: it names an installation diagnosed."
+ },
+ {
+  "old": "**What the field already released.** Transition-state ensembles and free-energy surfaces are already plural. The strongest single-stroke wording is often pedagogical or diagrammatic rather than a claim of literal solitary geometry.",
+  "new": "**What the field already released.** Transition-state ensembles and free-energy surfaces are already plural. The strongest single-stroke wording is often pedagogical or diagrammatic rather than a claim of literal solitary geometry.",
+  "verdict": "KEEP",
+  "why": "Report label kept pending the label ASK at 5.4; the strongest is one and only within its set."
+ },
+ {
+  "old": "Chemistry co-chains at catalysis and reaction paths. Biology co-chains at active site, protein dynamics, and competency-with-no-controller. Medicine co-chains at enzyme inhibition only where drug, target, metabolism, and outcome observings enter.",
+  "new": "Chemistry co-chains with catalysis and reaction paths. Biology co-chains with active site, protein dynamics, and competency-with-no-controller. Medicine co-chains with enzyme inhibition only where drug, target, metabolism, and outcome observings enter.",
+  "verdict": "RESAY",
+  "why": "at, place: with. One pair for three parallel seam sentences."
+ },
+ {
+  "old": "using the same observable and perturbation.",
+  "new": "using one same observable and perturbation.",
+  "verdict": "RESAY",
+  "why": "the: one."
+ },
+ {
+  "old": "## 5.6 Minimal residual disease",
+  "new": "## 5.6 Minimal residual disease",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "Malignant cells counted in a sample by an assay to its limit, and course that follows;",
+  "new": "Malignant cells counted within a sample by an assay to its limit, and a course that follows;",
+  "verdict": "RESAY",
+  "why": "in, cells a part within a sample: within. sample is medicine's own specimen, kept."
+ },
+ {
+  "old": "Resolved to an assay's limit, and not below: at the limit grain is explicit.",
+  "new": "Resolved to an assay's limit, and not below: with its limit, grain is explicit.",
+  "verdict": "RESAY",
+  "why": "at, place: with; the: its."
+ },
+ {
+  "old": "Each clone at its own growth; level carried by none.",
+  "new": "Each clone with its own growth; a level carried by none.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "**4 · parity.** Empty at this grain.\n**5 · passing.** What arrives at assay is sample, not disease.",
+  "new": "**4 · parity.** Empty with this grain.\n**5 · passing.** What arrives to an assay is a sample, not disease.",
+  "verdict": "RESAY",
+  "why": "at: with, to. Two door lines in one pair, as Empty at this grain recurs. sample is medicine's own specimen, kept."
+ },
+ {
+  "old": "where *minimal* posted remainder as small, **is-not**, and the field released it.",
+  "new": "where *minimal* posted remainder as small, **is-not**, and its field dissolved it.",
+  "verdict": "RESAY",
+  "why": "released: dissolved, a word that leaves; the: its. *minimal* a word mentioned, kept."
+ },
+ {
+  "old": "where a line is installed in patient, **is-not**, released.",
+  "new": "where a line is installed within a patient, **is-not**, dissolved.",
+  "verdict": "RESAY",
+  "why": "in: within; released: dissolved, a form that leaves."
+ },
+ {
+  "old": "Longitudinal course reaches past sample.",
+  "new": "Longitudinal course reaches past sample.",
+  "verdict": "KEEP",
+  "why": "sample is medicine's own specimen, a field term in its own sense."
+ },
+ {
+  "old": "Fails at 8 and 9 — posted absence, floor — **state**, and the field withdrew both.",
+  "new": "Fails with 8 and 9 — posted absence, floor — **state**, and its field withdrew both.",
+  "verdict": "RESAY",
+  "why": "at, place: with; the: its."
+ },
+ {
+  "old": "Line 1 stands possibling below limit, which blocks patient–clone society from passing and blocks no catch.",
+  "new": "Line 1 stands possibling below a limit, which blocks a patient–clone same-existing-society from passing and blocks no catch.",
+  "verdict": "RESAY",
+  "why": "society, a patient and its clones, living selves: same-existing-society."
+ },
+ {
+  "old": "**Standing.** Released by the field. European LeukemiaNet",
+  "new": "**Standing.** Released by the field. European LeukemiaNet",
+  "verdict": "KEEP",
+  "why": "The standing's name set at 3.1, kept pending the released-by-the-field ASK at 5.4."
+ },
+ {
+  "old": "**Substrate and society.** Patient, malignant cell populations, sample",
+  "new": "**Substrate and society.** Patient, malignant cell populations, sample",
+  "verdict": "KEEP",
+  "why": "Entry form label kept pending the label ASK at 5.4; sample medicine's own term."
+ },
+ {
+  "old": "Installing released by renaming.",
+  "new": "Installing dissolved by renaming.",
+  "verdict": "RESAY",
+  "why": "released: dissolved, a form that leaves."
+ },
+ {
+  "old": "An assay-relative magnitude had crossed into a patient's course through adjective *minimal*;",
+  "new": "An assay-relative magnitude had crossed to a patient's course through adjective *minimal*;",
+  "verdict": "RESAY",
+  "why": "into: to."
+ },
+ {
+  "old": "State, released: posted absence and floor at 8 and 9.",
+  "new": "State, dissolved: posted absence and floor with 8 and 9.",
+  "verdict": "RESAY",
+  "why": "released: dissolved; at: with."
+ },
+ {
+  "old": "Measurable residual disease is a biomarker for prognosis relations, monitoring, and response assessment in leukemia.",
+  "new": "Measurable residual disease is a biomarker for prognosis relations, monitoring, and response assessment in leukemia.",
+  "verdict": "KEEP",
+  "why": "Field account, a field's own words."
+ },
+ {
+  "old": "Molecular and flow-cytometric signals, cell counts, sample type, detection thresholds, change across treatment,",
+  "new": "Molecular and flow-cytometric signals, cell counts, sample type, detection thresholds, change across treatment,",
+  "verdict": "KEEP",
+  "why": "Field observings retained, a field's own measurements."
+ },
+ {
+  "old": "Malignant populations expand, contract, differ among compartments, evolve, and cross assay detection thresholds during and after treatment.",
+  "new": "Malignant populations expand, contract, differ among compartments, evolve, and cross assay detection thresholds during and after treatment.",
+  "verdict": "KEEP",
+  "why": "Living changing label kept pending the label ASK at 5.4; sentence carries no word to re-say."
+ },
+ {
+  "old": "One positive/negative category or numerical threshold at one sampling time.",
+  "new": "One positive/negative category or numerical threshold with one sampling time.",
+  "verdict": "RESAY",
+  "why": "at, time: with. sampling is medicine's own specimen-taking, kept."
+ },
+ {
+  "old": "Sampling site, assay target, sensitivity, background,",
+  "new": "Sampling site, assay target, sensitivity, background,",
+  "verdict": "KEEP",
+  "why": "Sampling site is medicine's own term."
+ },
+ {
+  "old": "*Minimal* installed an assay-relative remainder as a smallest amount in patient. Newer *measurable* naming keeps observing between attached.",
+  "new": "*Minimal* installed an assay-relative remainder as a smallest amount within a patient. With newer *measurable* naming, observing between remains attached.",
+  "verdict": "RESAY",
+  "why": "in: within; keeps, a naming doing: re-said as its observing between remaining attached."
+ },
+ {
+  "old": "Disease below detection, disease elsewhere than sample, clonal change, assay variation, and longitudinal course.",
+  "new": "Disease below detection, disease elsewhere than sample, clonal re-forming, assay variation, and longitudinal course.",
+  "verdict": "RESAY",
+  "why": "change, clones with no parity named: re-forming."
+ },
+ {
+  "old": "(1) Patient and malignant population keep changing.",
+  "new": "(1) Patient and malignant population go on re-forming.",
+  "verdict": "RESAY",
+  "why": "keep changing: go on re-forming, nothing held."
+ },
+ {
+  "old": "(2) Sampling and assay still one time and compartment for observing.",
+  "new": "(2) Sampling and assay still one time and compartment for observing.",
+  "verdict": "KEEP",
+  "why": "Sampling is medicine's own specimen-taking, kept."
+ },
+ {
+  "old": "(5) Relapse associations and serial differences close account at its clinical between.",
+  "new": "(5) Relapse associations and serial differences close account with its clinical between.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "A field's renaming releases line 4 while keeping the other five.",
+  "new": "With a field's renaming, line 4 dissolves and its other five stay.",
+  "verdict": "RESAY",
+  "why": "releases: dissolves; keeping: stay; the: its; a renaming doing re-said as line 4 dissolving."
+ },
+ {
+  "old": "Premature closure at one negative result.",
+  "new": "Premature closure with one negative result.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Across, patient couples with sampling, sample with assay, assay with clinician, and clinical society with a patient's next course.",
+  "new": "Across, patient couples with sampling, sample with assay, assay with clinician, and a clinic's same-existing-society with a patient's next course.",
+  "verdict": "RESAY",
+  "why": "society, clinicians and patient, living selves: same-existing-society. Label before it kept pending the label ASK at 5.4."
+ },
+ {
+  "old": "Longitudinal coupling must carry strong MRD–outcome association and differing outcomes at similar MRD. Clinically discriminating thresholds remain in field record.",
+  "new": "Longitudinal coupling must carry strong MRD–outcome association and differing outcomes with similar MRD. Clinically discriminating thresholds remain as field record.",
+  "verdict": "RESAY",
+  "why": "at: with; in: as."
+ },
+ {
+  "old": "Beyond: European LeukemiaNet MRD Working Party 2018 and 2021 consensus documents.",
+  "new": "Field: European LeukemiaNet MRD Working Party 2018 and 2021 consensus documents.",
+  "verdict": "RESAY",
+  "why": "beyond: Field, the side its sources stand on, as Living names living files. Citation kept."
+ },
+ {
+  "old": "Disease changing, sample, assay, and treatment course form one longitudinal society. A measurement is one parity at one between.",
+  "new": "Disease re-forming, sample, assay, and treatment course form one longitudinal coupling. A measurement is one parity with one between.",
+  "verdict": "RESAY",
+  "why": "changing, no parity named: re-forming; society, of sample and assay, not selves: coupling; at: with."
+ },
+ {
+  "old": "*Measurable* retains assay between in naming; *minimal* installs magnitude in patient.",
+  "new": "*Measurable* retains an assay between within its naming; *minimal* installs magnitude within a patient.",
+  "verdict": "RESAY",
+  "why": "in: within. Words mentioned as words kept."
+ },
+ {
+  "old": "Its name itself. Formal clinical consensus carries release at medicine's own between.",
+  "new": "Its name itself. Formal clinical consensus carries a dissolving with medicine's own between.",
+  "verdict": "RESAY",
+  "why": "release: dissolving; at: with. Label before it kept pending the label ASK at 5.4."
+ },
+ {
+  "old": "Natural Naming co-chains at an affix installing a magnitude.",
+  "new": "Natural Naming co-chains with an affix installing a magnitude.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Societies co-chains classification power only after field observings of clinical consequences.",
+  "new": "Societies co-chains classification power only after field observings of clinical consequences.",
+  "verdict": "KEEP",
+  "why": "Societies is a living file's title, Natural Societies, kept."
+ },
+ {
+  "old": "A field's self-correction becomes a positive control for the registry form.",
+  "new": "A field's self-correction becomes a positive control for this registry's form.",
+  "verdict": "RESAY",
+  "why": "the: this, its."
+ },
+ {
+  "old": "They are the hardest arrivals at threshold.",
+  "new": "They are the hardest arrivals with a threshold.",
+  "verdict": "RESAY",
+  "why": "at: with; the hardest, one only within its set, kept."
  }
 ]

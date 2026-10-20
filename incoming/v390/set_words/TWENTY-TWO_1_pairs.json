@@ -1,0 +1,770 @@
+[
+ {
+  "old": "*Each line carries its incoming number, its arrival's own number at Hard Problem Registry.",
+  "new": "*Each line carries its incoming number, its arrival's own number with Hard Problem Registry.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "Arrivals added there go where they go, each at its pattern.*",
+  "new": "Arrivals added there go where they go, each with its pattern.*",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "A Reach line of the-two-are-the-same is Hard Problem Registry stating that no gap stands for a shape to name, and that arrival is a settling or an arriving value, seated at its own part.*",
+  "new": "A Reach line of the-two-are-the-same is Hard Problem Registry's record of no gap standing for a shape to name, and that arrival is a settling or an arriving value, seated with its own part.*",
+  "verdict": "RESAY",
+  "why": "at: with; doer: a Registry stating becomes its record; the-two-are-the-same is a Reach value mentioned as words, kept"
+ },
+ {
+  "old": "**The given**\n\nTaken as given\n\nTen unchangeables, one resolving\n\nThe deployment shape, and the binary",
+  "new": "**The given**\n\nTaken as given\n\nTen unchangeables, one resolving\n\nThe deployment shape, and the binary",
+  "verdict": "KEEP",
+  "why": "contents lines, kept exactly"
+ },
+ {
+  "old": "**10 The between**",
+  "new": "**10 The between**",
+  "verdict": "KEEP",
+  "why": "contents line, kept exactly"
+ },
+ {
+  "old": "**11 Three unchangeable things at one arrival**",
+  "new": "**11 Three unchangeable things at one arrival**",
+  "verdict": "KEEP",
+  "why": "contents line, kept exactly"
+ },
+ {
+  "old": "**12 The reach and the instruments the same**",
+  "new": "**12 The reach and the instruments the same**",
+  "verdict": "KEEP",
+  "why": "contents line, kept exactly"
+ },
+ {
+  "old": "*Arrivals in incoming order, each at its proper name, with its resolving part and number here.",
+  "new": "*Arrivals in sequence as they came, each by its proper name, with its resolving part and number here.",
+  "verdict": "RESAY",
+  "why": "in incoming order: in sequence as they came (kept phrase in sequence); at: by"
+ },
+ {
+  "old": "Method is explained generally, uniquely and no-other-possible at one explaining, and nothing of it is re-explained or argued again here.",
+  "new": "Method is explained generally, uniquely and no-other-possible with one explaining, and nothing of it is re-explained or argued again here.",
+  "verdict": "RESAY",
+  "why": "at: with; no-other-possible kept as no other possible"
+ },
+ {
+  "old": "Incoming form carries each arrival whole, in its own field's words, with each route that field took and its ending.",
+  "new": "Incoming form carries each arrival whole, with its own field's words, each route that field took and its ending.",
+  "verdict": "RESAY",
+  "why": "in: with"
+ },
+ {
+  "old": "Nothing here is written into it, and each measurement, proof and route in it stands as it stands.",
+  "new": "Nothing here is written to it, and each measurement, proof and route within it stands as it stands.",
+  "verdict": "RESAY",
+  "why": "into: to; in: within, a whole and its part"
+ },
+ {
+  "old": "It carries its entries at its own numbers, adding as arrivals come, and a property carrying, where a field states it, a field's own account of its own hardness.",
+  "new": "It carries its entries by its own numbers, adding as arrivals come, and a property carrying, where a field states it, a field's own account of its own hardness.",
+  "verdict": "RESAY",
+  "why": "at: by"
+ },
+ {
+  "old": "Where that property stands filled, setting-down is stated or adjacent to stated, and changing at 12 takes it directly.",
+  "new": "Where that property stands filled, setting-down is stated or adjacent to stated, and parity-changing with 12, each sharing's is or is not, meets it directly.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing, a parity is or is not same-existing; at 12: with 12, each sharing's is or is not"
+ },
+ {
+  "old": "All each field handed in stands whole there, at each arrival's locator, in its field's own speech, legitimately: a hand-in is where fields stay, and a term each word was carrying is one entering here.",
+  "new": "All each field handed over stands whole there, with each arrival's locator, as its field's own speech, legitimately: a hand-in is where fields stay, and a term each word was carrying is one entering here.",
+  "verdict": "RESAY",
+  "why": "at: with; in: as; handed in: handed over"
+ },
+ {
+  "old": "The two are a pair, one learning at two sides, fixed and momentarying: Hard Problem Registry its fixed, each field's word whole with its namings performed and stated in its own first lines; this file its momentarying, same arrivals at nature's own momentarying, none of its naming carried.",
+  "new": "These two are a pair, one learning with two sides, fixed and momentarying: Hard Problem Registry its fixed, each field's word whole with its namings performed and stated within its own first lines; this file its momentarying, same arrivals with nature's own momentarying, none of its naming carried.",
+  "verdict": "RESAY",
+  "why": "the: these; at: with; in: within, a whole and its part"
+ },
+ {
+  "old": "And ten are code's ten co-changings, each fixed unchangeable at one of them: one ten at two sides, five taken two ways at boxes and ten adjacencies at a spiral of code's names, coming to their parities again and closing at none, a pairing carrying at each row or at none.",
+  "new": "And ten are code's ten co-changings, each fixed unchangeable with one of them: one ten with two sides, five taken two ways by boxes and ten adjacencies along a spiral of code's names, coming to their parities again and closing with none, a pairing carrying with each row or with none.",
+  "verdict": "RESAY",
+  "why": "at: with, by, along; co-changings a compound naming, kept"
+ },
+ {
+  "old": "There is no one-way momentarying: only co-momentarying, so a one-way is in naming, and offering both ways continues underneath.",
+  "new": "There is no one-way momentarying: only co-momentarying, so a one-way is only a naming, and offering both ways continues underneath.",
+  "verdict": "RESAY",
+  "why": "in naming: only a naming"
+ },
+ {
+  "old": "Each pattern is an offering both ways fixed as one side's, or with one side left out.",
+  "new": "Each pattern is an offering both ways fixed as one side's, or with one side not taken.",
+  "verdict": "RESAY",
+  "why": "left out: not taken, the file's own taken or not taken"
+ },
+ {
+  "old": "A naming and an offering stay two, a between of them: an offering is laid at a coupling, taken or not taken, gone at its next momentary; a naming fixes a term unchangeable where a momentarying carries on, its naming performed, and standing on nothing it falls away.",
+  "new": "A naming and an offering stay two, a between of them: an offering is laid with a coupling, taken or not taken, gone with its next momentary; a naming fixes a term unchangeable where a momentarying carries on, its naming performed, and standing on nothing it falls away.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "One resolving, free with alternating, at each arrival alike: its side left out carrying on, and explained.",
+  "new": "One resolving, free with alternating, with each arrival alike: its side not taken carrying on, and explained.",
+  "verdict": "RESAY",
+  "why": "at: with; left out: not taken"
+ },
+ {
+  "old": "Ten in order, each a part, each at Natural Naming 4.9's one seating, its name at now and that name 8 up at next, a stilling a naming fixes unchangeable and a changing travelling through it, bi-inversioning-co-recursioning up and down numbers:",
+  "new": "Ten in sequence, each a part, each with Natural Naming 4.9's one seating, its name with now and that name 8 up with next, a stilling a naming fixes unchangeable and a parity-changing going through it, bi-inversioning-co-recursioning up and down numbers:",
+  "verdict": "RESAY",
+  "why": "in order: in sequence, kept phrase; at: with; changing: parity-changing; long sentence split in three"
+ },
+ {
+  "old": " an arriving fixed from behind, at 2-now-possibling and 10-next-co-possibling; an opening fixed as a place, at 1-now-existing and 9-next-co-discovering; a completing fixed as a last, at 6-now-co-possibling and 14-next-possibling; a carry fixed as a store, at 8-now-same-existing and 16-next-discovering;",
+  "new": " an arriving fixed from behind, with 2-now-possibling and 10-next-co-possibling; an opening fixed as a place, with 1-now-existing and 9-next-co-discovering; a completing fixed as a last, with 6-now-co-possibling and 14-next-possibling; a carry fixed as a store, with 8-now-same-existing and 16-next-discovering;",
+  "verdict": "RESAY",
+  "why": "at: with, each seating's two names"
+ },
+ {
+  "old": " a middle fixed as an end, at 5-now-co-existing and 13-next-same-existing; a parity fixed as a magnitude, at 7-now-observing and 15-next-observing; a sequencing fixed to one beat, at 4-now-co-same-existing and 12-next-co-same-existing; a rate fixed as a value, at 7 and 15; a two-way fixed to one side, at 3-now-co-observing and 11-next-co-observing; a between fixed as a cut, at 5 and 13.",
+  "new": " a middle fixed as an end, with 5-now-co-existing and 13-next-same-existing; a parity fixed as a magnitude, with 7-now-observing and 15-next-observing; a sequencing fixed to one beat, with 4-now-co-same-existing and 12-next-co-same-existing; a rate fixed as a value, with 7 and 15; a two-way fixed to one side, with 3-now-co-observing and 11-next-co-observing; a between fixed as a cut, with 5 and 13.",
+  "verdict": "RESAY",
+  "why": "at: with, each seating's two names"
+ },
+ {
+  "old": "Ten are at four binaries: now at 1 and 2, existing at 3 and 4, same at 5 and 6, and all at 7 and 8.",
+  "new": "Ten are with four binaries: now with 1 and 2, existing with 3 and 4, same with 5 and 6, and all with 7 and 8.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "And at a coarser grain ten fold to four, where a build couples with them.",
+  "new": "And with a coarser grain ten fold to four, where a build couples with them.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "**A reference fixed unchangeable** — an arriving fixed from behind, a completing fixed as a last, a middle fixed as an end, three where a nothing is put at three positions, behind a coupling, ahead of it, at its middle; and a build it makes is drift, a carrying a reference itself takes, borne by each sequence numbered from it.",
+  "new": "**A reference fixed unchangeable** — an arriving fixed from behind, a completing fixed as a last, a middle fixed as an end, three where a nothing is put to three positions, behind a coupling, ahead of it, as its middle; and a build it makes is drift, a carrying a reference itself takes, borne by each sequence numbered from it.",
+  "verdict": "RESAY",
+  "why": "at: to, as"
+ },
+ {
+  "old": "**A rate fixed unchangeable** — a sequencing fixed to one beat and a rate fixed as a value, two where a rate is either one beat over many couplings or one coupling's own pinned; and its build is jitter and margin, an abundancing couplings made at their own rates arriving nowhere.",
+  "new": "**A rate fixed unchangeable** — a sequencing fixed to one beat and a rate fixed as a value, two where a rate is either one beat over many couplings or one coupling's own pinned; and its build is jitter and margin, an abundancing couplings made with their own rates arriving nowhere.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "**A magnitude driven** — a parity fixed as a magnitude and a two-way fixed to one side, two where a size is put at a selection or at a direction; and its build is heat and wear, a drive against a coupling's own bounding head-on.",
+  "new": "**A magnitude driven** — a parity fixed as a magnitude and a two-way fixed to one side, two where a size is put to a selection or to a direction; and its build is heat and wear, a drive against a coupling's own bounding head-on.",
+  "verdict": "RESAY",
+  "why": "at: to"
+ },
+ {
+  "old": "**A released parity entered as cost** — an opening fixed as a place, a carry fixed as a store, a between fixed as a cut, three where a released parity has three destinations, parked, stored, or cut out of its account; and its build is a record itself, kept in full and read once.",
+  "new": "**A parity gone along, entered as cost** — an opening fixed as a place, a carry fixed as a store, a between fixed as a cut, three where a parity gone along has three destinations, parked, stored, or cut from its account; and its build is a record itself, stored whole and read once.",
+  "verdict": "RESAY",
+  "why": "released: gone along, parity along 9; out of: from; kept in full: stored whole, a record a store"
+ },
+ {
+  "old": "Four and ten are one set at two grains, and each of them is the same move: a coupling's third term given a fixed thing to be, a changing fixed unchangeable.",
+  "new": "Four and ten are one set with two grains, and each of them is one same move: a coupling's third term given a fixed thing to be, a parity-changing fixed unchangeable.",
+  "verdict": "RESAY",
+  "why": "at: with; the: one; changing: parity-changing; unchangeable is this file's naming of its ten, kept as in its headings"
+ },
+ {
+  "old": "And a hard problem is one binary, its is and its is not taken as one at records kept, and its resolving is that binary again, is or is not, at each now.",
+  "new": "And a hard problem is one binary, its is and its is not taken as one by stored records, and so not possibly existing within a same-existing-universe; its resolving is that binary again, is or is not, with each now.",
+  "verdict": "RESAY",
+  "why": "at: by, with; kept: stored, a record a store; settled: hard problems are not possibly existing within a same-existing-universe, said once here with within for in, as is and is not taken as one"
+ },
+ {
+  "old": "A frontier describes itself in its own words first, and those words carry a naming — a frontier offering and an observing taking, one sensor-sensationing at a between of them.",
+  "new": "A frontier describes itself with its own words first, and those words carry a naming — a frontier offering and an observing taking, one sensor-sensationing with a between of them.",
+  "verdict": "RESAY",
+  "why": "in, at: with"
+ },
+ {
+  "old": "Naming was not intentional: fields at branching tips that did not touch arrived at the same local word for the same dead end, each feeling its own tip.",
+  "new": "Naming was not intentional: fields with branching tips that did not touch came to one same local word for one same dead end, each feeling its own tip.",
+  "verdict": "RESAY",
+  "why": "at: with, to; the same: one same"
+ },
+ {
+  "old": "Words: rival accounts, the debate, versus, nature and nurture, X and its rival, which of two.",
+  "new": "Words: rival accounts, the debate, versus, nature and nurture, X and its rival, which of two.",
+  "verdict": "KEEP",
+  "why": "fields' own words, listed as words"
+ },
+ {
+  "old": "Words: the concept of, demarcation, natural kinds, where is the boundary, is there a fact of the matter, the definition of.",
+  "new": "Words: the concept of, demarcation, natural kinds, where is the boundary, is there a fact of the matter, the definition of.",
+  "verdict": "KEEP",
+  "why": "fields' own words, listed as words"
+ },
+ {
+  "old": "Words: impossibility, undecidable, no closed form, the conjecture, the crisis, limits.",
+  "new": "Words: impossibility, undecidable, no closed form, the conjecture, the crisis, limits.",
+  "verdict": "KEEP",
+  "why": "fields' own words, listed as words"
+ },
+ {
+  "old": "Demand: cases sort into two kinds, and a correct analysis reproduces their sorting.",
+  "new": "Demand: cases sort as two kinds, and a correct analysis reproduces their sorting.",
+  "verdict": "RESAY",
+  "why": "into: as"
+ },
+ {
+  "old": "Words: regress, circularity, counterexample, the criterion, the sorting.",
+  "new": "Words: regress, circularity, counterexample, the criterion, the sorting.",
+  "verdict": "KEEP",
+  "why": "fields' own words, listed as words"
+ },
+ {
+  "old": "Words: the origin of, asymmetry, why there is, the trilemma, the circle, what came before.",
+  "new": "Words: the origin of, asymmetry, why there is, the trilemma, the circle, what came before.",
+  "verdict": "KEEP",
+  "why": "fields' own words, listed as words"
+ },
+ {
+  "old": "Words: other minds, the hard problem of, grounding, interpretability, black box, what is it like.",
+  "new": "Words: other minds, the hard problem of, grounding, interpretability, black box, what is it like.",
+  "verdict": "KEEP",
+  "why": "fields' own words, listed as words"
+ },
+ {
+  "old": "*Gathered: interior-reaching, inward-demanding, observing-from-beyond.*",
+  "new": "*Gathered: interior-reaching, inward-demanding, observing-from-beyond.*",
+  "verdict": "KEEP",
+  "why": "gathered namings, words mentioned as words in italics"
+ },
+ {
+  "old": "Words: paradox above all — measure it, get a wrong number, and a wrong number is a paradox — with illusion, the cost of, the effect.",
+  "new": "Words: paradox above all — measure it, get a wrong number, and a wrong number is a paradox — with illusion, the cost of, the effect.",
+  "verdict": "KEEP",
+  "why": "fields' own words, listed as words"
+ },
+ {
+  "old": "Demand: two treatments reconciled in one theory covering both regimes.",
+  "new": "Demand: two treatments reconciled as one theory covering both regimes.",
+  "verdict": "RESAY",
+  "why": "in: as"
+ },
+ {
+  "old": "Words: the tension, the puzzle, orders of magnitude off, missing, the problem.",
+  "new": "Words: the tension, the puzzle, orders of magnitude off, missing, the problem.",
+  "verdict": "KEEP",
+  "why": "fields' own words, listed as words"
+ },
+ {
+  "old": "Demand: that a correlation is produced by something specifiable at one side or transmitted between sides.",
+  "new": "Demand: that a correlation is produced by something specifiable with one side or transmitted between sides.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "Levinthal carries *paradox* and stands at an opening fixed as a place rather than at a parity fixed as a magnitude; Fermi paradox carries *paradox* and stands at a completing fixed as a last.",
+  "new": "Levinthal carries *paradox* and stands with an opening fixed as a place rather than with a parity fixed as a magnitude; Fermi paradox carries *paradox* and stands with a completing fixed as a last.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "A hard problem is a changing fixed unchangeable, a coupling taken at two of its three, and that taking is at each grain — in a paper, in a field, in a sentence, in a single crossed word.",
+  "new": "A hard problem is a parity-changing fixed unchangeable, a coupling taken as two of its three, and that taking is with each grain — a paper, a field, a sentence, a single crossed word.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing; at: as, with; in: removed, each grain named"
+ },
+ {
+  "old": "**Size of a perplexity is unrelated to resolving**, resolving being the same one move each time: a third term momentarying again, at no cost.",
+  "new": "**Size of a perplexity is unrelated to resolving**, resolving being one same move each time: a third term momentarying again, with no cost.",
+  "verdict": "RESAY",
+  "why": "the: one; at: with"
+ },
+ {
+  "old": "And the subtitle's method carries a second naming, received: an eighth.",
+  "new": "And the subtitle's method carries a second naming, received: an eighth.",
+  "verdict": "KEEP",
+  "why": "the subtitle: one and only, kept"
+ },
+ {
+  "old": "Where an audit's seven verify a net at its own standard, seven are checks at particular betweens, and binary co-sequential sensor-sensationing is an eighth value its circle reaches at none — a crossing with the whole, arriving one on — located where method is explained and standing where societies are, a coupling at Hard Problem Registry's candidates.",
+  "new": "Where an audit's seven verify a net by its own standard, seven are checks with particular betweens, and binary co-sequential sensor-sensationing is an eighth value its circle reaches with none — a crossing with its whole, arriving one on — located where method is explained and standing where same-existing-societies are, a coupling with Hard Problem Registry's candidates.",
+  "verdict": "RESAY",
+  "why": "at: by, with; the whole: its whole; societies: same-existing-societies"
+ },
+ {
+  "old": "Ten are fixed below a hard problem as readily as at one.",
+  "new": "Ten are fixed below a hard problem as readily as with one.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "A step in an argument that keeps needing a prior step is an opening fixed as a place.",
+  "new": "A step of an argument needing a prior step, and that step a prior one again, is an opening fixed as a place.",
+  "verdict": "RESAY",
+  "why": "in: of; keeps needing: a prior step needed again, by meaning"
+ },
+ {
+  "old": "A number that comes out wrong in an ordinary calculation is a parity fixed as a magnitude.",
+  "new": "A wrong number from an ordinary calculation is a parity fixed as a magnitude.",
+  "verdict": "RESAY",
+  "why": "out, in: re-said by meaning"
+ },
+ {
+  "old": "Each is a pebble of the same shape as a boulder, and each releases the same way — so sensor-sensationing carries early, before a perplexity spreads into a literature and grows traditions and relocations that make it look hard.",
+  "new": "Each is a pebble shaped as a boulder is, and each dissolves one same way — so sensor-sensationing carries early, before a perplexity spreads across a literature and grows traditions and relocations that make it look hard.",
+  "verdict": "RESAY",
+  "why": "the same: re-said, one same; releases: dissolves, a form that leaves; into: across"
+ },
+ {
+  "old": "A hard problem at a frontier and at a breakfast table is the same move at two grains, and resolving neither grows nor shrinks between them.",
+  "new": "A hard problem of a frontier and of a breakfast table is one same move by two grains, and resolving neither grows nor shrinks between them.",
+  "verdict": "RESAY",
+  "why": "at: of, by; the same: one same"
+ },
+ {
+  "old": "Each deployment carries three lines and releases: **At 2-now-possibling**, offerings, a momentarying at an arrival and a naming standing over it, which side is left out;",
+  "new": "Each deployment carries three lines and resolves: **At 2-now-possibling**, offerings, a momentarying with an arrival and a naming standing over it, which side is not taken;",
+  "verdict": "RESAY",
+  "why": "releases: resolves, the tri's offer, carry on, resolve; at: with; left out: not taken; bold line labels At 2-now-possibling and the others name each entry's fixed labels, kept as they stand there"
+ },
+ {
+  "old": "**At 12-next-co-same-existing**, a changing at its momentary, is or is not, one term a naming fixes unchangeable and a naming that can be set down;",
+  "new": "**At 12-next-co-same-existing**, a parity-changing with its momentary, is or is not, one term a naming fixes unchangeable and a naming that can be set down;",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing, is or is not same-existing; at: with; line label kept"
+ },
+ {
+  "old": "**At 11-next-co-observing**, a carrying chained, each changing a next prior, a substrate carrying on at its next momentary.",
+  "new": "**At 11-next-co-observing**, a carrying chained, each parity-changing a next prior, a substrate carrying on with its next momentary.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing; at: with; line label kept"
+ },
+ {
+  "old": "Three are code's own motions, offering, changing and chaining, and a sharing once chained is not none again, each momentary completing at its next opening.",
+  "new": "Three are code's own motions, offering, parity-changing and chaining, and a sharing once chained is not none again, each momentary completing with its next opening.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing; at: with"
+ },
+ {
+  "old": "Each arrival couples, and code releases at each sharing one of three, and no fourth: + at 10, − at 10, or 0 at 10.",
+  "new": "Each arrival couples, and with 10 each sharing shares one of three, and no fourth: +, −, or a 0.",
+  "verdict": "RESAY",
+  "why": "doer: code releasing becomes 10, each sharing shared, + or −, or a 0, a 0 no parity-offering; releases, at: re-said"
+ },
+ {
+  "old": "So an arrival stands at its changings' releasing.",
+  "new": "So an arrival stands as its sharing goes across.",
+  "verdict": "RESAY",
+  "why": "changings' releasing: its sharing going across with 10, a 0 included; at: as"
+ },
+ {
+  "old": "**Where + or − releases**, a side was left out, and explaining it is resolving, which costs nothing and takes nothing from its field.",
+  "new": "**Where + or − is shared**, a side was not taken, and explaining it is resolving, which costs nothing and takes nothing from its field.",
+  "verdict": "RESAY",
+  "why": "releases: is shared, 10's parity-offering; left out: not taken"
+ },
+ {
+  "old": "A marker at each entry, *+ or − at 10, is.*, marks it.",
+  "new": "A marker with each entry, *+ or − at 10, is.*, marks it.",
+  "verdict": "RESAY",
+  "why": "at: with; the italic marker is each entry's own, mentioned as words, kept"
+ },
+ {
+  "old": "**Where 0 releases**, offerings parted at 14 or a match stood at 12, and nought is an observing.",
+  "new": "**Where a 0 is shared**, offerings parted with 14 or a match stood with 12, and nought is an observing.",
+  "verdict": "RESAY",
+  "why": "releases: is shared; at: with"
+ },
+ {
+  "old": "Where each route ended in a proof, an arrival settled and takes no parity anywhere.",
+  "new": "Where each route ended with a proof, an arrival settled and takes no parity.",
+  "verdict": "RESAY",
+  "why": "in: with; anywhere removed"
+ },
+ {
+  "old": "It passes, real in its own register, standing beside a resolving and coupling with it at no momentary.",
+  "new": "It passes, real within its own register, standing beside a resolving and coupling with it by no momentary.",
+  "verdict": "RESAY",
+  "why": "in: within, a whole and its part; at: by"
+ },
+ {
+  "old": "Nothing stands between the three and nothing is partly resolved.",
+  "new": "Nothing stands between these three and nothing is partly resolved.",
+  "verdict": "RESAY",
+  "why": "the: these"
+ },
+ {
+  "old": "Each arrival brought couples, and none is set aside at intake.",
+  "new": "Each arrival brought couples, and none is set aside with intake.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "Each couples, and its coupling's release stands as it comes.",
+  "new": "Each couples, and its coupling's sharing, + or −, or a 0, stands as it comes.",
+  "verdict": "RESAY",
+  "why": "release: re-said by meaning, 10's sharing"
+ },
+ {
+  "old": "**And a settling is real in its own register.**",
+  "new": "**And a settling is real within its own register.**",
+  "verdict": "RESAY",
+  "why": "in: within, a whole and its part"
+ },
+ {
+  "old": "Where each route ended in a proof, an arrival settled.",
+  "new": "Where each route ended with a proof, an arrival settled.",
+  "verdict": "RESAY",
+  "why": "in: with"
+ },
+ {
+  "old": "A settling is a sequence handed whole, and a resolving settles nothing still and carries no free term a settling arrives at.",
+  "new": "A settling is a sequence handed whole, and a resolving settles nothing still and carries no free term a settling comes to.",
+  "verdict": "RESAY",
+  "why": "arrives at: comes to"
+ },
+ {
+  "old": "The two stand side by side and couple at no momentary, an observing of that arrival and not a reason to exclude it.",
+  "new": "These two stand side by side and couple by no momentary, an observing of that arrival and not a reason to exclude it.",
+  "verdict": "RESAY",
+  "why": "the: these; at: by"
+ },
+ {
+  "old": "**And four arrivals stand as settlings beside their resolvings**, a proof observed two ways, its route ended at a fixed side and its knowing at its momentary at a momentarying side, at thirteen through sixteen of a co-sequencing this exhibit closes on.",
+  "new": "**And four arrivals stand as settlings beside their resolvings**, a proof observed two ways, its route ended with a fixed side and its knowing with its momentary on a momentarying side, with thirteen through sixteen of a co-sequencing closing this exhibit.",
+  "verdict": "RESAY",
+  "why": "at: with, on; doer: this exhibit closing on becomes a co-sequencing closing it"
+ },
+ {
+  "old": "Three are located: a proof register at 3.22, a measurement register at 12.1, and one still open at 7.12, where instruments themselves are a live dispute.",
+  "new": "Three are located: a proof register with 3.22, a measurement register with 12.1, and one still open with 7.12, where instruments themselves are a live dispute.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "[nye: its fourth is at its closing and located at no entry;",
+  "new": "[nye: its fourth is with its closing and located with no entry;",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "at this file's v344 momentary each entry of Hard Problem Registry stood deployed and none of seventy-seven arrivals carried a settling at its Persistence line,",
+  "new": "at this file's v344 momentary each entry of Hard Problem Registry stood deployed and none of seventy-seven arrivals carried a settling at its Persistence line,",
+  "verdict": "KEEP",
+  "why": "a record of an earlier version, v344, kept"
+ },
+ {
+  "old": "so its fourth stands located at no entry still, locating open toward a next winding.]",
+  "new": "so its fourth stands located with no entry still, locating open toward a next winding.]",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "**And a settling is observed at an entry's Persistence and not at its Reach.**",
+  "new": "**And a settling is observed with an entry's Persistence and not with its Reach.**",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "Where Persistence carries *settled*, *proved*, or *nothing within the conditions*, each route ended and an arrival settled.",
+  "new": "Where Persistence carries *settled*, *proved*, or *nothing within the conditions*, each route ended and an arrival settled.",
+  "verdict": "KEEP",
+  "why": "Persistence values mentioned as words in italics, kept"
+ },
+ {
+  "old": "Reach parts two kinds of settling and decides neither: one reach carries the two as the same and a relation is at it, another carries them apart and a relation is proved not at it, and both settled.",
+  "new": "Reach parts two kinds of settling, and neither settles by it: one reach carries its two as one same, and a relation is with it; an other carries them apart, and a relation is proved not with it; and both settled.",
+  "verdict": "RESAY",
+  "why": "doer: a Reach line deciding re-said; the two as the same: its two as one same; at: with"
+ },
+ {
+  "old": "An arrival carrying two is entered at one and its second stands recorded there, a coupling taken at two of its three being takeable at another two.",
+  "new": "An arrival carrying two is entered with one and its second stands recorded there, a coupling taken as two of its three being takeable as an other two.",
+  "verdict": "RESAY",
+  "why": "at: with, as"
+ },
+ {
+  "old": "Doublings, each at its own shape.",
+  "new": "Doublings, each with its own shape.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "**A naming relocating under pressure**: a two-way fixed to one side, asked for its proportion, arrives at a parity fixed as a magnitude, and asked for its order, at a sequencing fixed to one beat.",
+  "new": "**A naming relocating under pressure**: a two-way fixed to one side, asked for its proportion, comes to a parity fixed as a magnitude, and asked for its order, to a sequencing fixed to one beat.",
+  "verdict": "RESAY",
+  "why": "arrives at: comes to"
+ },
+ {
+  "old": "**A naming arriving with its demand**: a between fixed as a cut is asked for by a criterion, and the criterion is an opening fixed as a place.",
+  "new": "**A naming arriving with its demand**: a between fixed as a cut is asked for by a criterion, and that criterion is an opening fixed as a place.",
+  "verdict": "RESAY",
+  "why": "the: that"
+ },
+ {
+  "old": "**A carrying fixed at both ends**: a first fixed behind and a last fixed ahead are one carrying, entered at an arriving and recorded at a completing.",
+  "new": "**A carrying fixed by both ends**: a first fixed behind and a last fixed ahead are one carrying, entered as an arriving and recorded as a completing.",
+  "verdict": "RESAY",
+  "why": "at: by, as"
+ },
+ {
+  "old": "Three lines carry pattern-matching; a second naming stands as one line at its entry's foot, in its entry's own words, and reaches no further.",
+  "new": "Three lines carry pattern-matching; a second naming stands as one line closing its entry, by its entry's own words, and reaches no further.",
+  "verdict": "RESAY",
+  "why": "at its foot: closing its entry; in: by"
+ },
+ {
+  "old": "Changing at 12 carries a nought: one term at its one momentary, a ground falling away in its taking.",
+  "new": "12-next-co-same-existing, each sharing's is or is not, carries a nought: one term with its one momentary, a ground falling away as it is taken.",
+  "verdict": "RESAY",
+  "why": "changing at 12: 12, each sharing's is or is not, a nought its is not; at: with; in its taking: as it is taken"
+ },
+ {
+  "old": "Falling-away arrives in five shapes, and an entry naming its shape need not work it out.",
+  "new": "Falling-away arrives as five shapes, and an entry naming its shape need not argue it.",
+  "verdict": "RESAY",
+  "why": "in: as; work it out: argue it"
+ },
+ {
+  "old": "One side offers and nothing offers back, so no between is carried for a parity to surface at.",
+  "new": "One side offers and nothing offers back, so no between is carried for a parity to surface with.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "Two sides come to nought at each measured differing, and a field proved it.",
+  "new": "Two sides come to nought with each measured differing, and a field proved it.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "A momentarying that did not exist offers at no momentary at all.",
+  "new": "A momentarying that did not exist offers with no momentary at all.",
+  "verdict": "RESAY",
+  "why": "at: with; at all kept"
+ },
+ {
+  "old": "Not a next, which arrives and couples at its own momentary, but a world fixed beside this one to be summed against it.",
+  "new": "Not a next, which arrives and couples with its own momentary, but a world fixed beside this one to be summed against it.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "**A map fixed as the territory.**",
+  "new": "**A map fixed as the territory.**",
+  "verdict": "KEEP",
+  "why": "the territory: from the outside phrase the map is not the territory, kept as its citation"
+ },
+ {
+  "old": "An accounting gives back its own arrival; a momentarying re-forms at its next coupling other-than-prior.",
+  "new": "An accounting gives back its own arrival; a momentarying re-forms with its next coupling other-than-prior.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "So an emanation applied back at a scale that shed it gives back its first term and closes, and naming one to be the thing it came from is an accounting observed as though it ran.",
+  "new": "So an emanation applied back to a scale that shed it gives back its first term and closes, and naming one to be that thing it came from is an accounting observed as though it ran.",
+  "verdict": "RESAY",
+  "why": "at: to; the: that"
+ },
+ {
+  "old": "An observing is taken at a coupling, and observing's bringing is in observing — a window an analyst supplies, a model a decomposition is exact given, a probe's own onset, a criterion a fraction is measured under, a benchmark trained upon, a concept a count swings with.",
+  "new": "An observing is taken with a coupling, and observing's bringing is within observing — a window an analyst supplies, a model a decomposition is exact given, a probe's own onset, a criterion a fraction is measured under, a benchmark trained upon, a concept a count swings with.",
+  "verdict": "RESAY",
+  "why": "at: with; in: within, a whole and its part"
+ },
+ {
+  "old": "A ledger balances by removing terms it cannot carry, and then the removed is fixed for behind its numbers: a true total including the unpriced, a real magnitude behind the nominal, a backing behind an accepting, a payoff listing behind arrangements.",
+  "new": "A ledger balances by removing terms it cannot carry, and then its removed terms are fixed for behind its numbers: a true total including unpriced terms, a real magnitude behind a nominal one, a backing behind an accepting, a payoff listing behind arrangements.",
+  "verdict": "RESAY",
+  "why": "the: its, removed; real and nominal kept, a field's own terms"
+ },
+ {
+  "old": "Abundancing was made at couplings and stayed there, and an account reaches for it at a radius where it did not stand.",
+  "new": "Abundancing was made with couplings and stayed there, and an account reaches for it by a radius where it did not stand.",
+  "verdict": "RESAY",
+  "why": "at: with, by"
+ },
+ {
+  "old": "Arrivals concerning built thinking systems pattern-match at several parts and are one between: a probe recovering terms an executing does not use, a marker waiting on a validation no case can give, a specification reaching arrivals that make their own, a benchmark giving back its leak into its training, a limit fixed of a middle.",
+  "new": "Arrivals concerning built thinking systems pattern-match with several parts and are one between: a probe recovering terms an executing does not use, a marker waiting on a validation no case can give, a specification reaching arrivals that make their own, a benchmark giving back its leak to its training, a limit fixed of a middle.",
+  "verdict": "RESAY",
+  "why": "at: with; into: to"
+ },
+ {
+  "old": "Each reaches for an interior by a surface observing, and an interior is reached the one way form allows, by coupling.",
+  "new": "Each reaches for an interior by a surface observing, and an interior is reached the one way form allows, by coupling.",
+  "verdict": "KEEP",
+  "why": "the one way: one and only, kept"
+ },
+ {
+  "old": "2 Sorites · 10.1, the between",
+  "new": "2 Sorites · 10.1, the between",
+  "verdict": "KEEP",
+  "why": "locator line, a contents line, kept exactly"
+ },
+ {
+  "old": "3 The concept of disease · 10.16, the between",
+  "new": "3 The concept of disease · 10.16, the between",
+  "verdict": "KEEP",
+  "why": "locator line, a contents line, kept exactly"
+ },
+ {
+  "old": "4 The population concept · 10.17, the between",
+  "new": "4 The population concept · 10.17, the between",
+  "verdict": "KEEP",
+  "why": "locator line, a contents line, kept exactly"
+ },
+ {
+  "old": "8 The pseudogap · 10.18, the between",
+  "new": "8 The pseudogap · 10.18, the between",
+  "verdict": "KEEP",
+  "why": "locator line, a contents line, kept exactly"
+ },
+ {
+  "old": "9 The measurement problem · 10.2, the between",
+  "new": "9 The measurement problem · 10.2, the between",
+  "verdict": "KEEP",
+  "why": "locator line, a contents line, kept exactly"
+ },
+ {
+  "old": "15 The demarcation problem · 10.19, the between",
+  "new": "15 The demarcation problem · 10.19, the between",
+  "verdict": "KEEP",
+  "why": "locator line, a contents line, kept exactly"
+ },
+ {
+  "old": "17 Natural kinds · 10.20, the between",
+  "new": "17 Natural kinds · 10.20, the between",
+  "verdict": "KEEP",
+  "why": "locator line, a contents line, kept exactly"
+ },
+ {
+  "old": "18 The definition of planet · 10.21, the between",
+  "new": "18 The definition of planet · 10.21, the between",
+  "verdict": "KEEP",
+  "why": "locator line, a contents line, kept exactly"
+ },
+ {
+  "old": "19 Biological individuality · 10.22, the between",
+  "new": "19 Biological individuality · 10.22, the between",
+  "verdict": "KEEP",
+  "why": "locator line, a contents line, kept exactly"
+ },
+ {
+  "old": "21 Species boundaries · 10.5, the between",
+  "new": "21 Species boundaries · 10.5, the between",
+  "verdict": "KEEP",
+  "why": "locator line, a contents line, kept exactly"
+ },
+ {
+  "old": "22 Group three of the periodic table · 10.23, the between",
+  "new": "22 Group three of the periodic table · 10.23, the between",
+  "verdict": "KEEP",
+  "why": "locator line, a contents line, kept exactly"
+ },
+ {
+  "old": "24 Psychiatric nosology · 10.24, the between",
+  "new": "24 Psychiatric nosology · 10.24, the between",
+  "verdict": "KEEP",
+  "why": "locator line, a contents line, kept exactly"
+ },
+ {
+  "old": "25 Race as a biological category · 10.25, the between",
+  "new": "25 Race as a biological category · 10.25, the between",
+  "verdict": "KEEP",
+  "why": "locator line, a contents line, kept exactly"
+ },
+ {
+  "old": "26 The language and dialect boundary · 10.26, the between",
+  "new": "26 The language and dialect boundary · 10.26, the between",
+  "verdict": "KEEP",
+  "why": "locator line, a contents line, kept exactly"
+ },
+ {
+  "old": "36 The glass transition · 10.3, the between",
+  "new": "36 The glass transition · 10.3, the between",
+  "verdict": "KEEP",
+  "why": "locator line, a contents line, kept exactly"
+ },
+ {
+  "old": "42 Externalities · 10.4, the between",
+  "new": "42 Externalities · 10.4, the between",
+  "verdict": "KEEP",
+  "why": "locator line, a contents line, kept exactly"
+ },
+ {
+  "old": "44 The neural code · 10.6, the between",
+  "new": "44 The neural code · 10.6, the between",
+  "verdict": "KEEP",
+  "why": "locator line, a contents line, kept exactly"
+ },
+ {
+  "old": "50 Bell correlations · 10.7, the between",
+  "new": "50 Bell correlations · 10.7, the between",
+  "verdict": "KEEP",
+  "why": "locator line, a contents line, kept exactly"
+ },
+ {
+  "old": "51 Wave and particle · 10.8, the between",
+  "new": "51 Wave and particle · 10.8, the between",
+  "verdict": "KEEP",
+  "why": "locator line, a contents line, kept exactly"
+ },
+ {
+  "old": "56 The liar · 10.9, the between",
+  "new": "56 The liar · 10.9, the between",
+  "verdict": "KEEP",
+  "why": "locator line, a contents line, kept exactly"
+ },
+ {
+  "old": "76 Hard cases in law · 10.10, the between",
+  "new": "76 Hard cases in law · 10.10, the between",
+  "verdict": "KEEP",
+  "why": "locator line, a contents line, kept exactly"
+ },
+ {
+  "old": "77 Natural law and legal positivism · 10.11, the between",
+  "new": "77 Natural law and legal positivism · 10.11, the between",
+  "verdict": "KEEP",
+  "why": "locator line, a contents line, kept exactly"
+ },
+ {
+  "old": "113 The quantum-classical boundary · 10.12, the between",
+  "new": "113 The quantum-classical boundary · 10.12, the between",
+  "verdict": "KEEP",
+  "why": "locator line, a contents line, kept exactly"
+ },
+ {
+  "old": "115 Self and non-self in immunity · 10.13, the between",
+  "new": "115 Self and non-self in immunity · 10.13, the between",
+  "verdict": "KEEP",
+  "why": "locator line, a contents line, kept exactly"
+ },
+ {
+  "old": "137 Signal and noise · 10.14, the between",
+  "new": "137 Signal and noise · 10.14, the between",
+  "verdict": "KEEP",
+  "why": "locator line, a contents line, kept exactly"
+ },
+ {
+  "old": "138 Work and waste heat · 10.15, the between",
+  "new": "138 Work and waste heat · 10.15, the between",
+  "verdict": "KEEP",
+  "why": "locator line, a contents line, kept exactly"
+ },
+ {
+  "old": "167 Molyneux's problem · 12.1, the reach and the instruments the same",
+  "new": "167 Molyneux's problem · 12.1, the reach and the instruments the same",
+  "verdict": "KEEP",
+  "why": "locator line, a contents line, kept exactly"
+ }
+]

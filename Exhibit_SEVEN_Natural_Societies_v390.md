@@ -309,7 +309,7 @@ And technology compresses where science expands, and both reach one same fixing:
 
 ## 4.5 The heterogeneous agents, received from Networking
 
-**Coprime agent-societies stand against scaled single models**, which is a scaling law's consequence for machine societies. **Co-intelligence scales on length of co-chaining where a single model scales on its own size.** And a human is the latest entrant with an unshared scale, a joiner adding what only it carries. Discovered passing through network's executings, and working here and with AI files.
+**Coprime sets of machine agents stand against scaled single models**, a scaling law's consequence for machine sets, each a non-living set, an emanation of living selves. **Co-intelligence scales on length of co-chaining where a single model scales on its own size.** And a human is the latest entrant with an unshared scale, a joiner adding what only it carries. Discovered passing through network's executings, and working here and with AI files.
 
 ## 4.6 The still-point veins, and the seven registers gathering to one finding
 

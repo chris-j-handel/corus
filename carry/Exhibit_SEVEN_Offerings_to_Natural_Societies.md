@@ -103,3 +103,5 @@ Concern, at v380, from [the earlier Natural Networking gathering](../archive/v38
 **Droplet · turn-taking.** Each self's 0 is an other's parity-changing, one momentary prior: turn-taking. Two selves of one parity, each meeting only its other, go parity-changing, 0, parity-changing, 0; two different go parity-changing with each momentary; a self no other meets is parity-changing with each momentary. A same-existing-society of one parity, each self met by one or more, goes parity-changing together and 0 together, turn by turn. — v390, gathered from session v390
 
 **Droplet · tri-moral.** Bi-moral is between two; tri-agency is three; tri-moral, universally moral, is do-no-harm social improving, an abundancing same-existing-society. Which same-existing-society forms carry each self turn-taking is open, to be found by co-chaining. — v390, gathered from session v390
+
+**Resolved bothboth, v390 · machine agents.** A robot is no self: each self carries two prior selves from inception, and that carrying is biology and human pro-creation. Machine agent-societies are re-said as *sets of machine agents*, each a non-living set, an emanation of living selves. — v390

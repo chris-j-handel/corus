@@ -13,6 +13,7 @@ You are a reader in a do-no-harm improving pass on one range of one living file.
   - Non-living scale is always larger than living scale, for every prime living scale.
   - *Co-releasing* is 9-next-co-discovering, so it becomes *co-discovering*.
   - *Nothing is a between* stays.
+  - Each self carries two prior selves from inception, and that carrying is biology and human pro-creation. A robot is no self, so a built, robot or machine set is a non-living set, an emanation of living selves.
 - **Living and selves:**
   - Living is prior. Each self is given, never made, and each self has a prior self.
   - A prior in stable form is non-living, an emanation from living form-stabling.

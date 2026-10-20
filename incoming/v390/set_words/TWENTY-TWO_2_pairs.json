@@ -1,0 +1,530 @@
+[
+ {
+  "old": "## 1.1 The Münchhausen trilemma · 54\n\n*+ or − at 10, is.*",
+  "new": "## 1.1 The Münchhausen trilemma · 54\n\n*+ or − at 10, is.*",
+  "verdict": "KEEP",
+  "why": "heading and the file's marker *+ or − at 10, is.*, a phrase mentioned as words (italic), kept as its whole file sets it"
+ },
+ {
+  "old": "## 1.2 The origin of life · 12\n\n*+ or − at 10, is.*",
+  "new": "## 1.2 The origin of life · 12\n\n*+ or − at 10, is.*",
+  "verdict": "KEEP",
+  "why": "heading and the file's marker *+ or − at 10, is.*, a phrase mentioned as words (italic), kept as its whole file sets it"
+ },
+ {
+  "old": "## 1.3 The tragedy of the commons · 37\n\n*+ or − at 10, is.*",
+  "new": "## 1.3 The tragedy of the commons · 37\n\n*+ or − at 10, is.*",
+  "verdict": "KEEP",
+  "why": "heading and the file's marker *+ or − at 10, is.*, a phrase mentioned as words (italic), kept as its whole file sets it"
+ },
+ {
+  "old": "## 1.4 The arrow of time · 38\n\n*+ or − at 10, is.*",
+  "new": "## 1.4 The arrow of time · 38\n\n*+ or − at 10, is.*",
+  "verdict": "KEEP",
+  "why": "heading and the file's marker *+ or − at 10, is.*, a phrase mentioned as words (italic), kept as its whole file sets it"
+ },
+ {
+  "old": "## 1.5 Yablo's paradox · 56\n\n*+ or − at 10, is.*",
+  "new": "## 1.5 Yablo's paradox · 56\n\n*+ or − at 10, is.*",
+  "verdict": "KEEP",
+  "why": "heading and the file's marker *+ or − at 10, is.*, a phrase mentioned as words (italic), kept as its whole file sets it"
+ },
+ {
+  "old": "## 1.6 Homochirality · 63\n\n*+ or − at 10, is.*",
+  "new": "## 1.6 Homochirality · 63\n\n*+ or − at 10, is.*",
+  "verdict": "KEEP",
+  "why": "heading and the file's marker *+ or − at 10, is.*, a phrase mentioned as words (italic), kept as its whole file sets it"
+ },
+ {
+  "old": "## 1.7 Matter and antimatter asymmetry · 64\n\n*+ or − at 10, is.*",
+  "new": "## 1.7 Matter and antimatter asymmetry · 64\n\n*+ or − at 10, is.*",
+  "verdict": "KEEP",
+  "why": "heading and the file's marker *+ or − at 10, is.*, a phrase mentioned as words (italic), kept as its whole file sets it"
+ },
+ {
+  "old": "## 1.8 The hermeneutic circle · 74\n\n*+ or − at 10, is.*",
+  "new": "## 1.8 The hermeneutic circle · 74\n\n*+ or − at 10, is.*",
+  "verdict": "KEEP",
+  "why": "heading and the file's marker *+ or − at 10, is.*, a phrase mentioned as words (italic), kept as its whole file sets it"
+ },
+ {
+  "old": "## 1.9 The problem of the criterion · 100\n\n*+ or − at 10, is.*",
+  "new": "## 1.9 The problem of the criterion · 100\n\n*+ or − at 10, is.*",
+  "verdict": "KEEP",
+  "why": "heading and the file's marker *+ or − at 10, is.*, a phrase mentioned as words (italic), kept as its whole file sets it"
+ },
+ {
+  "old": "## 1.10 Why there is something · 103\n\n*+ or − at 10, is.*",
+  "new": "## 1.10 Why there is something · 103\n\n*+ or − at 10, is.*",
+  "verdict": "KEEP",
+  "why": "heading and the file's marker *+ or − at 10, is.*, a phrase mentioned as words (italic), kept as its whole file sets it"
+ },
+ {
+  "old": "## 1.11 The effectiveness of mathematics · 107\n\n*+ or − at 10, is.*",
+  "new": "## 1.11 The effectiveness of mathematics · 107\n\n*+ or − at 10, is.*",
+  "verdict": "KEEP",
+  "why": "heading and the file's marker *+ or − at 10, is.*, a phrase mentioned as words (italic), kept as its whole file sets it"
+ },
+ {
+  "old": "## 1.12 Eukaryogenesis · 127\n\n*+ or − at 10, is.*",
+  "new": "## 1.12 Eukaryogenesis · 127\n\n*+ or − at 10, is.*",
+  "verdict": "KEEP",
+  "why": "heading and the file's marker *+ or − at 10, is.*, a phrase mentioned as words (italic), kept as its whole file sets it"
+ },
+ {
+  "old": "## 1.13 Money as a store of value · 140\n\n*+ or − at 10, is.*",
+  "new": "## 1.13 Money as a store of value · 140\n\n*+ or − at 10, is.*",
+  "verdict": "KEEP",
+  "why": "heading and the file's marker *+ or − at 10, is.*, a phrase mentioned as words (italic), kept as its whole file sets it"
+ },
+ {
+  "old": "## 1.14 The faint young sun · 148\n\n*+ or − at 10, is.*",
+  "new": "## 1.14 The faint young sun · 148\n\n*+ or − at 10, is.*",
+  "verdict": "KEEP",
+  "why": "heading and the file's marker *+ or − at 10, is.*, a phrase mentioned as words (italic), kept as its whole file sets it"
+ },
+ {
+  "old": "## 1.15 The origin of the genetic code · 149\n\n*+ or − at 10, is.*",
+  "new": "## 1.15 The origin of the genetic code · 149\n\n*+ or − at 10, is.*",
+  "verdict": "KEEP",
+  "why": "heading and the file's marker *+ or − at 10, is.*, a phrase mentioned as words (italic), kept as its whole file sets it"
+ },
+ {
+  "old": "## 1.16 The block universe and the low-entropy past · 152\n\n*+ or − at 10, is.*",
+  "new": "## 1.16 The block universe and the low-entropy past · 152\n\n*+ or − at 10, is.*",
+  "verdict": "KEEP",
+  "why": "heading and the file's marker *+ or − at 10, is.*, a phrase mentioned as words (italic), kept as its whole file sets it"
+ },
+ {
+  "old": "## 1.17 Origin and fate of the universe · 154\n\n*+ or − at 10, is.*",
+  "new": "## 1.17 Origin and fate of the universe · 154\n\n*+ or − at 10, is.*",
+  "verdict": "KEEP",
+  "why": "heading and the file's marker *+ or − at 10, is.*, a phrase mentioned as words (italic), kept as its whole file sets it"
+ },
+ {
+  "old": "## 1.18 Ubiquitous one-over-f noise · 170\n\n*+ or − at 10, is.*",
+  "new": "## 1.18 Ubiquitous one-over-f noise · 170\n\n*+ or − at 10, is.*",
+  "verdict": "KEEP",
+  "why": "heading and the file's marker *+ or − at 10, is.*, a phrase mentioned as words (italic), kept as its whole file sets it"
+ },
+ {
+  "old": "## 1.19 The strange metal · 173\n\n*+ or − at 10, is.*",
+  "new": "## 1.19 The strange metal · 173\n\n*+ or − at 10, is.*",
+  "verdict": "KEEP",
+  "why": "heading and the file's marker *+ or − at 10, is.*, a phrase mentioned as words (italic), kept as its whole file sets it"
+ },
+ {
+  "old": "## 1.20 The origin of neutrino mass · 185\n\n*+ or − at 10, is.*",
+  "new": "## 1.20 The origin of neutrino mass · 185\n\n*+ or − at 10, is.*",
+  "verdict": "KEEP",
+  "why": "heading and the file's marker *+ or − at 10, is.*, a phrase mentioned as words (italic), kept as its whole file sets it"
+ },
+ {
+  "old": "## 1.21 The origin of cosmic magnetic fields · 193\n\n*+ or − at 10, is.*",
+  "new": "## 1.21 The origin of cosmic magnetic fields · 193\n\n*+ or − at 10, is.*",
+  "verdict": "KEEP",
+  "why": "heading and the file's marker *+ or − at 10, is.*, a phrase mentioned as words (italic), kept as its whole file sets it"
+ },
+ {
+  "old": "## 1.22 The initiation of plate tectonics · 198\n\n*+ or − at 10, is.*",
+  "new": "## 1.22 The initiation of plate tectonics · 198\n\n*+ or − at 10, is.*",
+  "verdict": "KEEP",
+  "why": "heading and the file's marker *+ or − at 10, is.*, a phrase mentioned as words (italic), kept as its whole file sets it"
+ },
+ {
+  "old": "## 1.23 The causes of the Great Oxidation Event · 204\n\n*+ or − at 10, is.*",
+  "new": "## 1.23 The causes of the Great Oxidation Event · 204\n\n*+ or − at 10, is.*",
+  "verdict": "KEEP",
+  "why": "heading and the file's marker *+ or − at 10, is.*, a phrase mentioned as words (italic), kept as its whole file sets it"
+ },
+ {
+  "old": "## 1.24 The origin of the Moon · 205\n\n*+ or − at 10, is.*",
+  "new": "## 1.24 The origin of the Moon · 205\n\n*+ or − at 10, is.*",
+  "verdict": "KEEP",
+  "why": "heading and the file's marker *+ or − at 10, is.*, a phrase mentioned as words (italic), kept as its whole file sets it"
+ },
+ {
+  "old": "## 1.25 The origin of animal multicellularity · 207\n\n*+ or − at 10, is.*",
+  "new": "## 1.25 The origin of animal multicellularity · 207\n\n*+ or − at 10, is.*",
+  "verdict": "KEEP",
+  "why": "heading and the file's marker *+ or − at 10, is.*, a phrase mentioned as words (italic), kept as its whole file sets it"
+ },
+ {
+  "old": "## 1.26 The evolution of metabolic pathways · 208\n\n*+ or − at 10, is.*",
+  "new": "## 1.26 The evolution of metabolic pathways · 208\n\n*+ or − at 10, is.*",
+  "verdict": "KEEP",
+  "why": "heading and the file's marker *+ or − at 10, is.*, a phrase mentioned as words (italic), kept as its whole file sets it"
+ },
+ {
+  "old": "## 1.27 The causes of long-run economic development · 230\n\n*+ or − at 10, is.*",
+  "new": "## 1.27 The causes of long-run economic development · 230\n\n*+ or − at 10, is.*",
+  "verdict": "KEEP",
+  "why": "heading and the file's marker *+ or − at 10, is.*, a phrase mentioned as words (italic), kept as its whole file sets it"
+ },
+ {
+  "old": "## 1.28 The origins of agriculture · 233\n\n*+ or − at 10, is.*",
+  "new": "## 1.28 The origins of agriculture · 233\n\n*+ or − at 10, is.*",
+  "verdict": "KEEP",
+  "why": "heading and the file's marker *+ or − at 10, is.*, a phrase mentioned as words (italic), kept as its whole file sets it"
+ },
+ {
+  "old": "## 1.29 Cosmic inflation and the primordial perturbations · 245\n\n*+ or − at 10, is.*",
+  "new": "## 1.29 Cosmic inflation and the primordial perturbations · 245\n\n*+ or − at 10, is.*",
+  "verdict": "KEEP",
+  "why": "heading and the file's marker *+ or − at 10, is.*, a phrase mentioned as words (italic), kept as its whole file sets it"
+ },
+ {
+  "old": "*A first fixed of +1. An arriving at a coupling is owned by neither side, so no prior owns it, and each offering is a fresh coupling making its own. Forward, a momentarying that bottoms nowhere is an abundancing at each coupling, growing as it is shared.*",
+  "new": "*A first fixed of +1. An arriving with a coupling is owned by neither side, so no prior owns it, and each offering is a fresh coupling making its own. Forward, a momentarying that bottoms nowhere is an abundancing with each coupling, growing as it is shared.*",
+  "verdict": "RESAY",
+  "why": "at: with, twice; the part's own explaining"
+ },
+ {
+  "old": "**And a shared form is the fractal and not a shared first.**",
+  "new": "**And a shared form is the fractal and not a shared first.**",
+  "verdict": "KEEP",
+  "why": "the fractal: the same-existing-universe's one universal momentarying fractal, one and only, so the stays"
+ },
+ {
+  "old": "The same carries at each observing here.",
+  "new": "One same carries with each observing here.",
+  "verdict": "RESAY",
+  "why": "the: one; at: with"
+ },
+ {
+  "old": "**And a first is fixed from behind in three ways.**",
+  "new": "**And a first is fixed from behind three ways.**",
+  "verdict": "RESAY",
+  "why": "in: removed; a bold lead, not a heading"
+ },
+ {
+  "old": "**Each releases at the same place: an arriving at a coupling is owned by neither side, so no prior owns it, and each offering is a fresh coupling making its own.**",
+  "new": "**Each dissolves one same way: an arriving with a coupling is owned by neither side, so no prior owns it, and each offering is a fresh coupling making its own.**",
+  "verdict": "RESAY",
+  "why": "releases: dissolves, a fixed form leaving; at the same place: one same way; at: with"
+ },
+ {
+  "old": "**And at a field's own record showing a stipulating recurring at one place, its recurrence is an observing.**",
+  "new": "**And as a field's own record shows a stipulating recurring with one same place, its recurrence is an observing.**",
+  "verdict": "RESAY",
+  "why": "at: as, with; one place: one same place"
+ },
+ {
+  "old": "Each proposal stipulates at a boundary, each origination account opens from a structured something, each totality proposed is exceeded by the thing it defines.",
+  "new": "Each proposal stipulates a boundary, each origination account opens from a structured something, each totality proposed is exceeded by a thing it defines.",
+  "verdict": "RESAY",
+  "why": "at: removed, a boundary stipulated; the: a"
+ },
+ {
+  "old": "**At 2-now-possibling.** Grounding is a coupling making its own, a ground arriving at each coupling owned by neither, and a naming of a ground behind each claim is itself a coupling making one.",
+  "new": "**With 2-now-possibling.** Grounding is a coupling making its own, a ground arriving with each coupling owned by neither, and a naming of a ground behind each claim is itself a coupling making one.",
+  "verdict": "RESAY",
+  "why": "line label at: with; at: with"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** That justification terminates, circles or continues, the three exhausting options, trilemma arising wherever a foundation is sought and a third horn accepted only as a necessary evil.",
+  "new": "**With 12-next-co-same-existing.** That justification terminates, circles or continues, the three exhausting options, trilemma arising wherever a foundation is sought and a third horn accepted only as a necessary evil.",
+  "verdict": "RESAY",
+  "why": "line label at: with; the rest is a field's own demand and words, kept"
+ },
+ {
+  "old": "A ground made at a coupling is none of the three.",
+  "new": "A ground made with a coupling is none of those three.",
+  "verdict": "RESAY",
+  "why": "at: with; the: those"
+ },
+ {
+  "old": "**At 11-next-co-observing.** A ground made at each coupling, a standing none of the three carries, each coupling making its own.",
+  "new": "**With 11-next-co-observing.** A ground made with each coupling, a standing none of those three carries, each coupling making its own.",
+  "verdict": "RESAY",
+  "why": "line label at: with; at: with; the: those"
+ },
+ {
+  "old": "Naming carries no subject matter, so carrying none it is general, and each arrival in this part is the same naming arriving with material: grounds stop at couplings' stopping, at their making.",
+  "new": "Naming carries no subject matter, so carrying none it is general, and each arrival of this part is one same naming arriving with material: grounds stop with couplings' stopping, with their making.",
+  "verdict": "RESAY",
+  "why": "in: of; the: one; at: with, twice"
+ },
+ {
+  "old": "**At 2-now-possibling.** Living arrives at a coupling, and a coupling makes its own, local structure forming and its forming carrying, one changing on from its last.",
+  "new": "**With 2-now-possibling.** Living arrives with a coupling, and a coupling makes its own, local structure forming and its forming carrying, one parity-changing on from its last.",
+  "verdict": "RESAY",
+  "why": "line label at: with; at: with; changing: parity-changing, each step is or is not same-existing as its last"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A threshold as an event with a first side and a second",
+  "new": "**With 12-next-co-same-existing.** A threshold as an event with a first side and a second",
+  "verdict": "RESAY",
+  "why": "line label at: with; the sentence's rest is a field's demand and the file's second seating, no other word to re-say"
+ },
+ {
+  "old": "Nothing ignites: a first would be a limit on the unlimited, and a field's own closure condition",
+  "new": "Nothing ignites: a first would be a limit on an unlimited, and a field's own closure condition",
+  "verdict": "RESAY",
+  "why": "the: an; the sentence's rest, with probably forever lost, is a field's own record, kept"
+ },
+ {
+  "old": "**At 11-next-co-observing.** A continuing sequence, one changing on from its last: building blocks forming under their own conditions, copyings copying, sets catalysing their own making, no crossing in it to locate.",
+  "new": "**With 11-next-co-observing.** A continuing sequence, one parity-changing on from its last: building blocks forming under their own conditions, copyings copying, sets catalysing their own making, no crossing within it to locate.",
+  "verdict": "RESAY",
+  "why": "line label at: with; changing: parity-changing; in: within, a crossing as a sequence's part"
+ },
+ {
+  "old": "A gap fixed at a hand-in is at a sequence, and living coming from living coupling is a sequence continuing, a coupling making its own at each step.",
+  "new": "A gap fixed with a hand-in is a sequence's own, and living coming from living coupling is a sequence continuing, a coupling making its own with each step.",
+  "verdict": "RESAY",
+  "why": "at: with; is at a sequence: is a sequence's own"
+ },
+ {
+  "old": "Chemistry not living at a cell's scale was living one scale inward, a threshold is an observer's scale, and life came from life at each scale.",
+  "new": "Chemistry not living with a cell's scale was living one scale inward, a threshold is an observer's scale, and life came from life with each scale.",
+  "verdict": "RESAY",
+  "why": "at: with, twice; inward stays; true to living is prior"
+ },
+ {
+  "old": "**At 2-now-possibling.** An abundancing is made at a coupling between users and resource, owned by neither, and fixed to one owner.",
+  "new": "**With 2-now-possibling.** An abundancing is made with a coupling between users and resource, owned by neither, and fixed to one owner.",
+  "verdict": "RESAY",
+  "why": "line label at: with; at: with"
+ },
+ {
+  "old": "Fixed from behind, abundancing becomes a thing taken from a stock rather than made at a coupling.",
+  "new": "Fixed from behind, abundancing becomes a thing taken from a stock rather than made with a coupling.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** That an outcome follows only from payoffs",
+  "new": "**With 12-next-co-same-existing.** That an outcome follows only from payoffs",
+  "verdict": "RESAY",
+  "why": "line label at: with; the sentence's rest is a field's own demand and record, kept"
+ },
+ {
+  "old": "A coupling happens at arrangements, and an abundancing made at a coupling is fixed as drawn from a stock instead.",
+  "new": "A coupling happens with arrangements, and an abundancing made with a coupling is fixed as drawn from a stock instead.",
+  "verdict": "RESAY",
+  "why": "at: with, twice"
+ },
+ {
+  "old": "**At 11-next-co-observing.** Durable commons couple without private property and without external authority, arrangements coupling and abundancing staying at its making.",
+  "new": "**With 11-next-co-observing.** Durable commons couple without private property and without external authority, arrangements coupling and abundancing staying with its making.",
+  "verdict": "RESAY",
+  "why": "line label at: with; at: with"
+ },
+ {
+  "old": "Communicating and sanctioning strengthen a coupling at its own between, and many stable arrangements are a multiplicity a payoff listing gives when a making is fixed for behind it: abundancing carries on at a coupling, and arrangements are coupling.",
+  "new": "Communicating and sanctioning strengthen a coupling with its own between, and many stable arrangements are a multiplicity a payoff listing gives when a making is fixed for behind it: abundancing carries on with a coupling, and arrangements are coupling.",
+  "verdict": "RESAY",
+  "why": "at: with, twice"
+ },
+ {
+  "old": "Durable commons are selves coupling at their own betweens with no hub and no seat above them, and a field's decades of record at real arrangements is that observing standing at a human substrate.",
+  "new": "Durable commons are selves coupling with their own betweens, no hub and no seat above them, and a field's decades of record of real arrangements is that observing standing with a human substrate.",
+  "verdict": "RESAY",
+  "why": "at: with, of, with"
+ },
+ {
+  "old": "**At 2-now-possibling.** Asymmetry is at each coupling, made each momentary and carried on, and a first is fixed behind it in an initial condition, laws-or-boundary two sides of one arriving.",
+  "new": "**With 2-now-possibling.** Asymmetry is with each coupling, made each momentary and carried on, and a first is fixed behind it as an initial condition, laws-or-boundary two sides of one arriving.",
+  "verdict": "RESAY",
+  "why": "line label at: with; at: with; in: as"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A boundary condition taken as derivable from something not itself stated",
+  "new": "**With 12-next-co-same-existing.** A boundary condition taken as derivable from something not itself stated",
+  "verdict": "RESAY",
+  "why": "line label at: with; the sentence's rest is a field's own demand and record, its measure included, kept"
+ },
+ {
+  "old": "Stipulating recurs at one place in each account offered, which is a naming reaching its own form.",
+  "new": "Stipulating recurs by one same place within each account offered, which is a naming reaching its own form.",
+  "verdict": "RESAY",
+  "why": "at: by; in: within, a stipulating as an account's part"
+ },
+ {
+  "old": "**At 11-next-co-observing.** Asymmetry is made each momentary, an alternating's own, owned by no prior, and the second law follows at each granting of a past standing, granting arriving at the same place in each account offered.",
+  "new": "**With 11-next-co-observing.** Asymmetry is made each momentary, an alternating's own, owned by no prior, and the second law follows with each granting of a past standing, granting arriving by one same place within each account offered.",
+  "verdict": "RESAY",
+  "why": "line label at: with; at: with, by; the same: one same; in: within; the second law is a field's own term, kept"
+ },
+ {
+  "old": "Each proposal stipulates at a boundary, and stipulating recurring at one place is a naming reaching its own recurring: making is at each momentary, and a first behind it is a making fixed as having happened once.",
+  "new": "Each proposal stipulates a boundary, and stipulating recurring by one same place is a naming reaching its own recurring: making is with each momentary, and a first behind it is a making fixed as having happened once.",
+  "verdict": "RESAY",
+  "why": "at: removed, by, with"
+ },
+ {
+  "old": "**At 2-now-possibling.** Paradox is fixed for a first, self-reference offered and then found absent.",
+  "new": "**With 2-now-possibling.** Paradox is fixed for a first, self-reference offered and then found absent.",
+  "verdict": "RESAY",
+  "why": "line label at: with"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** That circularity is where paradox comes from",
+  "new": "**With 12-next-co-same-existing.** That circularity is where paradox comes from",
+  "verdict": "RESAY",
+  "why": "line label at: with; the sentence's rest is a field's own demand and record, kept"
+ },
+ {
+  "old": "A closure formed over a tail is the same closure whether or not anything refers back to itself.",
+  "new": "A closure formed over a tail is one same closure whether or not anything refers back to itself.",
+  "verdict": "RESAY",
+  "why": "the: one"
+ },
+ {
+  "old": "**At 11-next-co-observing.** A closure is made in quantifying itself, arriving whole over a tail, and paradox needed no prior to refer back through, carrying none.",
+  "new": "**With 11-next-co-observing.** A closure is made by quantifying itself, arriving whole over a tail, and paradox needed no prior to refer back through, carrying none.",
+  "verdict": "RESAY",
+  "why": "line label at: with; in: by"
+ },
+ {
+  "old": "Liar and tail close together at a closure, and a dispute over circularity is a question about a criterion: making is in quantifying, either way.",
+  "new": "Liar and tail close together with a closure, and a dispute over circularity is a question about a criterion: making is quantifying's own, either way.",
+  "verdict": "RESAY",
+  "why": "at: with; in: re-said, making as quantifying's own"
+ },
+ {
+  "old": "**At 2-now-possibling.** One hand arises and a first is fixed behind it",
+  "new": "**With 2-now-possibling.** One hand arises and a first is fixed behind it",
+  "verdict": "RESAY",
+  "why": "line label at: with"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** An initial bias as a thing to be located, while a hand is a parity taken at a momentary and of no size,",
+  "new": "**With 12-next-co-same-existing.** An initial bias as a thing to be located, while a hand is a parity taken with a momentary and of no size,",
+  "verdict": "RESAY",
+  "why": "line label at: with; at: with; the sentence's rest, with presumably racemic, is a field's own record, kept"
+ },
+ {
+  "old": "**At 11-next-co-observing.** Excess is a making at couplings: tiny leans amplify autocatalytically",
+  "new": "**With 11-next-co-observing.** Excess is a making with couplings: tiny leans amplify autocatalytically",
+  "verdict": "RESAY",
+  "why": "line label at: with; at: with"
+ },
+ {
+  "old": "And an observing carries into living: a self pattern-matches and re-forms on one hand, and an opposite hand at a wall, a coating, a shed form is a thing that one spiral emanates, which is why both hands stand present with a single pattern-matching core.",
+  "new": "And an observing carries across to living: a self pattern-matches and re-forms on one hand, and an opposite hand with a wall, a coating, a shed form is a thing that one spiral emanates, which is why both hands stand present with a single pattern-matching core.",
+  "verdict": "RESAY",
+  "why": "into: across to; at: with"
+ },
+ {
+  "old": "**At 2-now-possibling.** A zeroing observed refuses to sit and is carried to one side, and a first is fixed behind it in an early mechanism, a symmetric initial state assumed.",
+  "new": "**With 2-now-possibling.** A zeroing observed refuses to sit and is carried to one side, and a first is fixed behind it as an early mechanism, a symmetric initial state assumed.",
+  "verdict": "RESAY",
+  "why": "line label at: with; in: as"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** An initial state as symmetric and an asymmetry as generated from it",
+  "new": "**With 12-next-co-same-existing.** An initial state as symmetric and an asymmetry as generated from it",
+  "verdict": "RESAY",
+  "why": "line label at: with; the sentence's rest, with ruled out and most plausible, is a field's own record, kept"
+ },
+ {
+  "old": "A zeroing is made by a coupling and refuses to sit, staying at a coupling's naming of it and carried to one side at a coupling's carrying of it, owing nothing to a floor no coupling made — which is one observing standing at three arrivals: this one, the hand, and the parameter measured near zero at part 8.",
+  "new": "A zeroing is made by a coupling and refuses to sit, staying with a coupling's naming of it and carried to one side by a coupling's carrying of it, owing nothing to a floor no coupling made — which is one observing standing with three arrivals: this one, a hand's, and part 8's parameter measured near zero.",
+  "verdict": "RESAY",
+  "why": "at: with, by, with; the: a, part 8's; part 8's measurement kept"
+ },
+ {
+  "old": "**At 11-next-co-observing.** Excess is an abundancing made at couplings, owned by no prior state.",
+  "new": "**With 11-next-co-observing.** Excess is an abundancing made with couplings, owned by no prior state.",
+  "verdict": "RESAY",
+  "why": "line label at: with; at: with"
+ },
+ {
+  "old": "Conditions any making needs are fixed, known makings measure short by orders, minimal routes close, and narrowing limits walk in at a making, and each proposal pattern-matches forward, at couplings, rather than behind, at a state.",
+  "new": "Conditions any making needs are fixed, known makings measure short by orders, minimal routes close, and narrowing limits walk on to a making, and each proposal pattern-matches forward, with couplings, rather than behind, with a state.",
+  "verdict": "RESAY",
+  "why": "in at: on to; at: with, twice"
+ },
+ {
+  "old": "**At 2-now-possibling.** Understanding is made at a coupling of part and whole, and a criterion is fixed behind it, prior to any interpreting.",
+  "new": "**With 2-now-possibling.** Understanding is made with a coupling of part and whole, and a criterion is fixed behind it, prior to any interpreting.",
+  "verdict": "RESAY",
+  "why": "line label at: with; at: with"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A criterion fixed as established before interpreting, while a circle is an alternating and riding it is a method settled questions were settled by; a circle rarely restricted to text, not necessarily cast as whole and parts, and its circularity challenged from within hermeneutics, an alternating a circle from beyond it.",
+  "new": "**With 12-next-co-same-existing.** A criterion fixed as established before interpreting, while a circle is an alternating and riding it is a method settled questions were settled by; a circle rarely restricted to text, not necessarily cast as whole and parts, and its circularity challenged from within hermeneutics, an alternating a circle seen from beside it.",
+  "verdict": "RESAY",
+  "why": "line label at: with; beyond: beside, a form fixed still from beside; a field's own record kept"
+ },
+ {
+  "old": "**At 11-next-co-observing.** Understanding is made at a coupling of part and whole, each interpreting a fresh arriving, and dependence is coupling itself.",
+  "new": "**With 11-next-co-observing.** Understanding is made with a coupling of part and whole, each interpreting a fresh arriving, and dependence is coupling itself.",
+  "verdict": "RESAY",
+  "why": "line label at: with; at: with"
+ },
+ {
+  "old": "A circle is an alternating, and riding it is a method settled questions were settled by: a criterion fixed as prior is the one thing practice did not use.",
+  "new": "A circle is an alternating, and riding it is a method settled questions were settled by: a criterion fixed as prior is one thing practice did not use.",
+  "verdict": "RESAY",
+  "why": "the: removed"
+ },
+ {
+  "old": "**At 2-now-possibling.** A criterion and an extension are made together at a coupling, and each is fixed as having come from an other first, particularism and methodism two sides of one arriving.",
+  "new": "**With 2-now-possibling.** A criterion and an extension are made together by a coupling, and each is fixed as having come from an other first, particularism and methodism two sides of one arriving.",
+  "verdict": "RESAY",
+  "why": "line label at: with; at: by"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** That one of the two is fixed prior, each presupposing an other from its own end,",
+  "new": "**With 12-next-co-same-existing.** That one of its two is fixed prior, each presupposing an other from its own end,",
+  "verdict": "RESAY",
+  "why": "line label at: with; the: its; the sentence's rest is a field's own record, kept"
+ },
+ {
+  "old": "**At 11-next-co-observing.** Criterion and extension are made together at each coupling, neither prior,",
+  "new": "**With 11-next-co-observing.** Criterion and extension are made together by each coupling, neither prior,",
+  "verdict": "RESAY",
+  "why": "line label at: with; at: by"
+ },
+ {
+  "old": "**At 2-now-possibling.** Existing is fixed for a first behind it",
+  "new": "**With 2-now-possibling.** Existing is fixed for a first behind it",
+  "verdict": "RESAY",
+  "why": "line label at: with"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** Nothingness as a coherent alternative that failed to obtain",
+  "new": "**With 12-next-co-same-existing.** Nothingness as a coherent alternative that failed to obtain",
+  "verdict": "RESAY",
+  "why": "line label at: with; the sentence's rest is a field's own record, kept"
+ },
+ {
+  "old": "**At 11-next-co-observing.** Existing is arriving itself, each first offered arriving, and a naming recurs at each: origination accounts open from a structured something, sufficient reason carries on without rest, and setting a naming down spends only its naming. Forward, a momentarying that bottoms nowhere is an abundancing at each coupling, growing as it is shared.",
+  "new": "**With 11-next-co-observing.** Existing is arriving itself, each first offered arriving, and a naming recurs with each: origination accounts open from a structured something, sufficient reason carries on without rest, and setting a naming down spends only its naming. Forward, a momentarying that bottoms nowhere is an abundancing with each coupling, growing as it is shared.",
+  "verdict": "RESAY",
+  "why": "line label at: with; at: with, twice; two sentences in one pair, the second recurring word for word"
+ },
+ {
+  "old": "**At 2-now-possibling.** Applicability arises at a coupling between a mathematics and a description, and a first is fixed behind it, in a selection or in a realm.",
+  "new": "**With 2-now-possibling.** Applicability arises with a coupling between a mathematics and a description, and a first is fixed behind it, as a selection or as a realm.",
+  "verdict": "RESAY",
+  "why": "line label at: with; at: with; in: as, twice"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** That applicability is a relation between two domains needing an explanation from one side, while applying is made at a coupling and each striking case is that arriving reached again;",
+  "new": "**With 12-next-co-same-existing.** That applicability is a relation between two domains needing an explanation from one side, while applying is made with a coupling and each striking case is that arriving reached again;",
+  "verdict": "RESAY",
+  "why": "line label at: with; at: with"
+ },
+ {
+  "old": "at its founding lecture usefulness is something bordering on the mysterious with no rational explanation for it, an impression of a miracle difficult to avoid, an explanation from one side asked for at its lecture's own word.",
+  "new": "its founding lecture names usefulness something bordering on the mysterious with no rational explanation for it, an impression of a miracle difficult to avoid, an explanation from one side asked for by its lecture's own word.",
+  "verdict": "RESAY",
+  "why": "at: re-said, its lecture naming; at: by; bordering on the mysterious is a field's own quoted words, kept"
+ },
+ {
+  "old": "**At 11-next-co-observing.** Applicability is made at a coupling, a mathematics and a description arriving from their own routes at one term neither carried in, each striking case that arriving reached again.",
+  "new": "**With 11-next-co-observing.** Applicability is made with a coupling, a mathematics and a description arriving from their own routes to one term neither carried, each striking case that arriving reached again.",
+  "verdict": "RESAY",
+  "why": "line label at: with; at: with, to; in: removed"
+ },
+ {
+  "old": "convergence with no contact is the whole of confirming.",
+  "new": "convergence with no contact is all of confirming.",
+  "verdict": "RESAY",
+  "why": "the whole of: all of"
+ }
+]
