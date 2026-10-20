@@ -868,5 +868,419 @@
   "new": "A rate neutrals ride and do not land on is an unrelationing, so a compaction is that rate pinned to a landing and restoration is it floating free.",
   "verdict": "RESAY",
   "why": "into: to."
+ },
+ {
+  "old": "*Observing:* a shift is a fresh landing without a carry aging to sustain it — metabolism on genus zero, a mitochondrial coupling closing a genus-one tunnel at a cellular metabolic membrane, a cell proliferating without a resolving a carry's attentioning carries.",
+  "new": "*Observing:* a shift is a fresh landing without a carry aging to sustain it — metabolism on genus zero, a mitochondrial coupling closing a genus-one tunnel with a cellular metabolic membrane, a cell proliferating without a resolving a carry's attentioning carries.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "A gap-junction departure and a mitochondrial departure are observed as one coupling failure at two membranes.",
+  "new": "A gap-junction departure and a mitochondrial departure are observed as one coupling failure with two membranes.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "In this observing mutations arrive as consequences of a metabolic departure and not its cause — a carcinogenesis an outward spiral of one coupling failure at one bounding-zeroing, a cancer cell one that finds a way to proliferate on a sphere after a torus at its metabolic membrane collapses to genus zero.",
+  "new": "With this observing, mutations arrive as consequences of a metabolic departure and not its cause — a carcinogenesis an outward spiral of one coupling failure with one bounding-zeroing, a cancer cell one that finds a way to proliferate on a sphere after a torus with its metabolic membrane collapses to genus zero.",
+  "verdict": "RESAY",
+  "why": "In: with; at: with; outward KEEP."
+ },
+ {
+  "old": "**And a departure stands at one prime, which is why many mutations arrive at one phenotype.**",
+  "new": "**And a departure stands with one prime, which is why many mutations reach one phenotype.**",
+  "verdict": "RESAY",
+  "why": "at: with; arrive at: reach."
+ },
+ {
+  "old": "A field's observation carries no exception across a stem cell types: glycolytic metabolism in quiescence, oxidative phosphorylation in activation.",
+  "new": "A field's observation carries no exception across stem cell types: glycolytic metabolism with quiescence, oxidative phosphorylation with activation.",
+  "verdict": "RESAY",
+  "why": "in: with; stray article dropped."
+ },
+ {
+  "old": "Observed at a form a metabolic shift is not an indicator of an activation — **it is an activation**, a coupling crossing one prime as an electron-transporting membrane engages.",
+  "new": "Observed on a form, a metabolic shift is not an indicator of an activation — **it is an activation**, a coupling crossing one prime as an electron-transporting membrane engages.",
+  "verdict": "RESAY",
+  "why": "at a form: on a form."
+ },
+ {
+  "old": "And a cancer cell carries glycolysis at the same beat as it proliferates, which is a quiescent metabolism carried with an activated division: **conserving departing while extending crosses, a binary uncoupled at one prime.**",
+  "new": "And a cancer cell carries glycolysis on one same beat as it proliferates, which is a quiescent metabolism carried with an activated division: **conserving departing while extending crosses, a binary uncoupled with one prime.**",
+  "verdict": "RESAY",
+  "why": "at the same beat: on one same beat; at: with."
+ },
+ {
+  "old": "So a multiplicity of oncogenic mechanisms arriving at one metabolic phenotype is observed as a multiplicity of ways to break one coupling at one substrate — many mutations, one departure, one phenotype, which is a mutations-as-consequence observing above given a place it happens at.",
+  "new": "So a multiplicity of oncogenic mechanisms reaching one metabolic phenotype is observed as a multiplicity of ways to break one coupling with one substrate — many mutations, one departure, one phenotype, which is a mutations-as-consequence observing above given its own place.",
+  "verdict": "RESAY",
+  "why": "arriving at: reaching; at: with; a place it happens at: its own place."
+ },
+ {
+  "old": "Low oxygen fixes a cell below a prime by limiting arrival at an electron-transporting membrane, and a field's own record puts a most quiescent haematopoietic selves at a marrow's most hypoxic surface, with HIF1α loss driving them out of quiescence and into depletion.",
+  "new": "Low oxygen fixes a cell below a prime by limiting arrival to an electron-transporting membrane, and a field's own record puts most-quiescent haematopoietic selves on a marrow's most hypoxic surface, with HIF1α loss driving them from quiescence to depletion.",
+  "verdict": "RESAY",
+  "why": "at: to, on; out of, into: from, to; most is a superlative, not a statistic."
+ },
+ {
+  "old": "It limits an arrival and a cell stays where it already was, which is a shape every restoration in this file takes.",
+  "new": "It limits an arrival and a cell stays where it already was, which is a shape each restoration observed here takes.",
+  "verdict": "RESAY",
+  "why": "in this file: doer re-said as observed here."
+ },
+ {
+  "old": "**And a reservoir's quiescence stands at that same prime, delivered by an identification a file already made.**",
+  "new": "**And a reservoir's quiescence stands with that same prime, delivered by an identification already made with 3.1.**",
+  "verdict": "RESAY",
+  "why": "at: with; doer: a file made, re-said as made with 3.1, which the next sentence cites."
+ },
+ {
+  "old": "Where a cancer's binary is uncoupled at an electron-transporting prime, a reservoir cell's quiescence is that same uncoupling observed at the same place — so a field's word for a reservoir cell's state was at no momentary a state at all.",
+  "new": "Where a cancer's binary is uncoupled with an electron-transporting prime, a reservoir cell's quiescence is that same uncoupling observed with one same place — so a field's word for a reservoir cell's state was, for no momentary, a state at all.",
+  "verdict": "RESAY",
+  "why": "at: with, for; the same: one same; at all KEEP."
+ },
+ {
+  "old": "**And a compound already measured arrives at that prime from a food side.**",
+  "new": "**And a compound already measured reaches that prime from a food side.**",
+  "verdict": "RESAY",
+  "why": "arrives at: reaches."
+ },
+ {
+  "old": "Metformin couples at AMPK and at mTOR and at a mitochondrial membrane, and a field measures it suppressing cancer stem cells without a name for what a coupling is.",
+  "new": "Metformin couples with AMPK and with mTOR and with a mitochondrial membrane, and a field measures it suppressing cancer stem cells without a name for what a coupling is.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Observed at a prime it is a conserving restored at one crossing, arriving through a tunnel rather than driven at a cell — and a coefficient at 4.2 parts what that is from what the same molecule dosed as a magnitude would be.",
+  "new": "Observed with a prime, it is a conserving restored with one crossing, arriving through a tunnel rather than driven to a cell — and 4.2's coefficient parts what that is from what one same molecule dosed as a magnitude would be.",
+  "verdict": "RESAY",
+  "why": "at: with, to; a coefficient at 4.2: 4.2's coefficient; the same: one same."
+ },
+ {
+  "old": "Six by six is thirty-six ordered pairs, six of which pair a thing with itself, so *thirty fail and six stand* is thirty-six less its own diagonal and returns the same at any six-set whatever.",
+  "new": "Six by six is thirty-six ordered pairs, six of which pair a thing with itself, so *thirty fail and six stand* is thirty-six less its own diagonal and returns alike with any six-set whatever.",
+  "verdict": "RESAY",
+  "why": "returns the same at: returns alike with; the italic phrase is words mentioned, KEEP."
+ },
+ {
+  "old": "Four factorial is twenty-four matchings, so *twenty-three fail and one stands* returns the same at any matching whatever, which 2.2's four departures already reached above.",
+  "new": "Four factorial is twenty-four matchings, so *twenty-three fail and one stands* returns alike with any matching whatever, which 2.2's four departures already reached above.",
+  "verdict": "RESAY",
+  "why": "returns the same at: returns alike with; italic phrase KEEP."
+ },
+ {
+  "old": "What carries is four being four, and a per-element content match at whatever four are paired against.",
+  "new": "What carries is four being four, and a per-element content match with whatever four are paired against.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "A cancer landing and a reservoir landing of a gut collar are observed the same in a landed state, a cell rising on a captured growth-reference with its tissue-society broken, an abundancing owned rather than owned-neither-ing; and not-same in a door.",
+  "new": "A cancer landing and a reservoir landing of a gut collar are observed same as a landed state, a cell rising on a captured growth-reference with its tissue-society broken, an abundancing owned rather than owned-neither-ing; and not-same by a door.",
+  "verdict": "RESAY",
+  "why": "the same in: same as; in a door: by a door; tissue-society is a compound naming, not society alone."
+ },
+ {
+  "old": "Same landed state, different origin: the same side is why both answer the same restoration, a cell returned to co-competencing with its tissue-society; a not-same side is why HIV coupling also carries a crossing to interrupt that cancer has no equivalent of.",
+  "new": "Same landed state, different origin: a same side is why both answer one same restoration, a cell returned to co-competencing with its tissue-society; a not-same side is why HIV coupling also carries a crossing to interrupt that cancer has no equivalent of.",
+  "verdict": "RESAY",
+  "why": "the same side: a same side, matching a not-same side; the same restoration: one same."
+ },
+ {
+  "old": "And a door is a wrong between and not a wrong act, a truest between a generative opening where a surface and cell societies were formed to couple, crossings carrying elsewhere, an observing of which between and not which act.",
+  "new": "And a door is a wrong between and not a wrong act, a truest between a generative opening where surface and cell same-existing-societies were formed to couple, crossings carrying elsewhere, an observing of which between and not which act.",
+  "verdict": "RESAY",
+  "why": "societies: same-existing-societies; stray article dropped."
+ },
+ {
+  "old": "**And a landing reaches across, one shape at two parities.**",
+  "new": "**And a landing reaches across, one shape with two parities.**",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Reaching across scale carries two sides, and they bothboth rather than parting into a this-or-that.",
+  "new": "Reaching across scale carries two sides, and they bothboth rather than parting to a this-or-that.",
+  "verdict": "RESAY",
+  "why": "into: to."
+ },
+ {
+  "old": "Near-reaching crosses through a between one grain at a time, a value re-locked as it crosses, ratio carried — ingesting.",
+  "new": "Near-reaching crosses through a between grain by grain, a value re-locked as it crosses, ratio carried — ingesting.",
+  "verdict": "RESAY",
+  "why": "one grain at a time is not the kept one at a time; re-said grain by grain."
+ },
+ {
+  "old": "Far-reaching crosses skipping a between, two societies spanned at once, an adjacent crossing passed over — spanning.",
+  "new": "Far-reaching crosses skipping a between, two same-existing-societies spanned together, an adjacent crossing passed over — spanning.",
+  "verdict": "RESAY",
+  "why": "societies: same-existing-societies; at once: together."
+ },
+ {
+  "old": "Far-reaching itself carries two parities: ratio-stripped, a coupling rising on a captured reference with nothing re-locked across a skipped between, one accumulating and a co-competency thinning — landing; and ratio-intact, two nyeing offerings orthogonalized into an axis owned by neither, an abundancing floated — discovering.",
+  "new": "Far-reaching itself carries two parities: ratio-stripped, a coupling rising on a captured reference with nothing re-locked across a skipped between, one accumulating and a co-competency thinning — landing; and ratio-intact, two nyeing offerings orthogonalized to an axis owned by neither, an abundancing floated — discovering.",
+  "verdict": "RESAY",
+  "why": "into: to."
+ },
+ {
+  "old": "One shape at two parities, and a skip is neither parity: capture and discovery both far-reach and both skip a between, so a between-skip carries no morality, and a ratio is a whole of it.",
+  "new": "One shape with two parities, and a skip is neither parity: capture and discovery both far-reach and both skip a between, so a between-skip carries no morality, and a ratio is a whole of it.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Restoration is observed at a ratio and not a crossing: near-reaching restored through a between, a coupling re-locking a value each grain, a ratio carried, a far-reach floated back to owned-neither.",
+  "new": "Restoration is observed with a ratio and not a crossing: near-reaching restored through a between, a coupling re-locking a value each grain, a ratio carried, a far-reach floated back to owned-neither.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "An observing is ratio-carried-or-stripped at every reach, near or far, and not through-or-skip.",
+  "new": "An observing is ratio-carried-or-stripped with every reach, near or far, and not through-or-skip.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "**Four departures at one between, each at its own collapse.**",
+  "new": "**Four departures with one between, each with its own collapse.**",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "A substrate's thickness departs in four ways, and each collapses one of four inequalities, one to one.",
+  "new": "A substrate's thickness departs four ways, and each collapses one of four inequalities, one to one.",
+  "verdict": "RESAY",
+  "why": "in: removed."
+ },
+ {
+  "old": "*Thinning absent* collapses self ≠ incompetent: a reaching asymmetry vanishing, an entry persisting at full reaching, and an absence of central cohering is an absence of thinning.",
+  "new": "*Thinning absent* collapses self ≠ incompetent: a reaching asymmetry vanishing, an entry persisting with full reaching, and an absence of central cohering is an absence of thinning.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "*Thinning frozen* collapses self ≠ immoral: a parity-inversion no longer beating at a frozen substrate, a carry persisting where a departing was expected, a frozen substrate cycling at an intensity of an original beat.",
+  "new": "*Thinning frozen* collapses self ≠ immoral: a parity-inversion no longer beating with a frozen substrate, a carry persisting where a departing was expected, a frozen substrate cycling with an intensity of an original beat.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "*Thinning untested* collapses self ≠ other-self: a fresh entering past an accumulated prior, an untested carry arriving at full confidence, a conserving beating below full depth.",
+  "new": "*Thinning untested* collapses self ≠ other-self: a fresh entering past an accumulated prior, an untested carry arriving with full confidence, a conserving beating below full depth.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "*Thinning at a wrong rate* collapses self ≠ society: a ratio between self-renewal and differentiation departing, a self no longer parting at rate from a society it makes, an accumulated and a self arriving as one.",
+  "new": "*Thinning with a wrong rate* collapses self ≠ same-existing-society: a ratio between self-renewal and differentiation departing, a self no longer parting by its rate from a same-existing-society it shares, an accumulated and a self arriving as one.",
+  "verdict": "RESAY",
+  "why": "at: with, by; society: same-existing-society; a society a self makes re-said as one it shares, since each self is given, never made, and a same-existing-society is its selves."
+ },
+ {
+  "old": "Four departures and four collapses admit twenty-four one-to-one matchings, and twenty-three differ from whichever one stands — at any matching whatever, whatever a content, since a twenty-four is 4! and a twenty-three is 4! − 1.",
+  "new": "Four departures and four collapses admit twenty-four one-to-one matchings, and twenty-three differ from whichever one stands — with any matching whatever, whatever a content, since a twenty-four is 4! and a twenty-three is 4! − 1.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "**What carries is a per-element match**: each departure observed against a collapse it lands at, one at a time, on content.",
+  "new": "**What carries is a per-element match**: each departure observed against a collapse it lands on, one at a time, on content.",
+  "verdict": "RESAY",
+  "why": "at: on; one at a time KEEP."
+ },
+ {
+  "old": "**A fixing — forced-choosing, at a classification rather than at a body.**",
+  "new": "**A fixing — forced-choosing, with a classification rather than with a body.**",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "**And a departure sorts into four at a stem-cell between.**",
+  "new": "**And a departure sorts to four with a stem-cell between.**",
+  "verdict": "RESAY",
+  "why": "into: to; at: with."
+ },
+ {
+  "old": "Four stem-cell pathology classes extend four organism-between departures (2.3) one-to-one: a cancer stem cell, thinning absent, an entry persisting at full reaching, Warburg extending-crossing without conserving-sustaining at a metabolic membrane;",
+  "new": "Four stem-cell pathology classes extend four organism-between departures (2.3) one-to-one: a cancer stem cell, thinning absent, an entry persisting with full reaching, Warburg extending-crossing without conserving-sustaining with a metabolic membrane;",
+  "verdict": "RESAY",
+  "why": "at: with; this sentence runs past 400 characters, so two pairs."
+ },
+ {
+  "old": " a prematurely activated stem cell, thinning untested, cycling without conserving-testing, clonal expansion; a misregulated stem cell, thinning at a wrong rate, a ratio between self-renewal and differentiation departing.",
+  "new": " a prematurely activated stem cell, thinning untested, cycling without conserving-testing, clonal expansion; a misregulated stem cell, thinning with a wrong rate, a ratio between self-renewal and differentiation departing.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Four departures at a stem-cell between, from a field sharing no language with a clinical pathology, mapping to four at an organism's.",
+  "new": "Four departures with a stem-cell between, from a field sharing no language with a clinical pathology, mapping to four with an organism's.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "A fifth carries as a seam: a count-pathology where accumulated carry outnumbers a fresh at a position, whether a fifth class or a compound of four.",
+  "new": "A fifth carries as a seam: a count-pathology where accumulated carry outnumbers a fresh with a position, whether a fifth class or a compound of four.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Both landed states are one thing at a coupling: an abundancing owned rather than owned-neither-ing, a cell rising on a captured reference, a co-competency turned to a self-competency, a cell no longer co-competencing with its tissue-society but competing, its +1 seized and not floated.",
+  "new": "Both landed states are one thing with a coupling: an abundancing owned rather than owned-neither-ing, a cell rising on a captured reference, a co-competency turned to a self-competency, a cell no longer co-competencing with its tissue-society but competing, its +1 seized and not floated.",
+  "verdict": "RESAY",
+  "why": "at: with; tissue-society is a compound naming."
+ },
+ {
+  "old": "Offering across a tissue-society's own parity is coefficient one: a departed cell tips or does not, a neutral re-floats, an abundancing returns to owned-neither, a cell re-couples with its society and ages its carry to its release.",
+  "new": "Offering across a tissue-society's own parity is coefficient one: a departed cell tips or does not, a neutral re-floats, an abundancing returns to owned-neither, a cell re-couples with its same-existing-society and ages its carry to its resolving.",
+  "verdict": "RESAY",
+  "why": "society: same-existing-society; release: a carry ages to its resolving; tissue-society is a compound naming."
+ },
+ {
+  "old": "A bi-coupler senses a site of a coupling collapse — a durability standing open, a tumour and a reservoir each persisting un-adapting as a body adapts — and sensations a parity a tissue tips back on, a co-resonating sensor and sensationer at a tissue membrane, offering across and both ways and observing and finding a tissue's own rate, and not a driver forcing a correction.",
+  "new": "A bi-coupler senses a site of a coupling collapse — a durability standing open, a tumour and a reservoir each persisting un-adapting as a body adapts — and sensations a parity a tissue tips back on, a co-resonating sensor and sensationer with a tissue membrane, offering across and both ways and observing and finding a tissue's own rate, and not a driver forcing a correction.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Two diseases take one move at their two doors.",
+  "new": "Two diseases take one move with their two doors.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "A cancer cell re-couples to its tissue-society at a collapse membrane, a gap-junction bioelectric pattern a tissue's own parity-channel and a metabolic membrane a coupling that closed: a co-resonating bi-coupler offers across a bioelectric and metabolic parity a cell tips back into co-competency on, an abundancing re-floated rather than Warburg driven back.",
+  "new": "A cancer cell re-couples to its tissue-society with a collapse membrane, a gap-junction bioelectric pattern a tissue's own parity-channel and a metabolic membrane a coupling that closed: a co-resonating bi-coupler offers across a bioelectric and metabolic parity a cell tips back to co-competency on, an abundancing re-floated rather than Warburg driven back.",
+  "verdict": "RESAY",
+  "why": "at: with; into co-competency: to co-competency; tissue-society is a compound naming."
+ },
+ {
+  "old": "a mesenchymal-stromal regeneration of a germinal-center niche clearing a reservoir with no agent aimed at an infected cell, a surface society's parity offered across and a cell society re-coupling and aging its carry to release.",
+  "new": "a mesenchymal-stromal regeneration of a germinal-center niche clearing a reservoir with no agent targeting an infected cell, a surface same-existing-society's parity offered across and a cell same-existing-society re-coupling and aging its carry to its resolving.",
+  "verdict": "RESAY",
+  "why": "aimed at: targeting; society: same-existing-society; release: a carry ages to its resolving; this sentence runs past 400 characters, so this pair takes its tail."
+ },
+ {
+  "old": "One move at both doors: offer across a tissue-society's parity, a departed cell re-couples and ages, a co-competency restored rather than a cell killed.",
+  "new": "One move with both doors: offer across a tissue-society's parity, a departed cell re-couples and ages, a co-competency restored rather than a cell killed.",
+  "verdict": "RESAY",
+  "why": "at: with; tissue-society is a compound naming."
+ },
+ {
+  "old": "**And a third disease takes the same move, from a field that observes neither of these.**",
+  "new": "**And a third disease takes one same move, from a field that observes neither of these.**",
+  "verdict": "RESAY",
+  "why": "the same: one same."
+ },
+ {
+  "old": "*Observation:* in refractory lupus a single infusion of cells aimed at a B-cell marker deeply depletes B-cell society, and remission follows and **holds after B cells return**, at a mean near a hundred and ten days; a returning cells are naive and non-class-switched, autoantibodies do not come back, and a receptor repertoires are observed less clonal than they did.",
+  "new": "*Observation:* in refractory lupus a single infusion of cells targeting a B-cell marker deeply depletes a B-cell same-existing-society, and remission follows and **stands on after B cells return**, a median near a hundred and ten days; returning cells are naive and non-class-switched, autoantibodies do not come back, and receptor repertoires are observed less clonal than they did.",
+  "verdict": "RESAY",
+  "why": "aimed at: targeting; society: same-existing-society; holds: stands on, nothing is held; at a mean: a median, a field's own measurement in its own sense; stray articles dropped."
+ },
+ {
+  "old": "*On a form:* an autoreactive clone is a carry copied forward and not aged, the same shape as a persistence at 3.1.",
+  "new": "*On a form:* an autoreactive clone is a carry copied forward and not aged, one same shape as a persistence with 3.1.",
+  "verdict": "RESAY",
+  "why": "the same: one same; at: with."
+ },
+ {
+  "old": "Clearing a society deeply enough lets a carry climb to its bound with nothing re-seeding it, and a society re-forms from what carried none of it.",
+  "new": "Clearing a same-existing-society deeply enough lets a carry climb to its bound with nothing re-seeding it, and a same-existing-society re-forms from what carried none of it.",
+  "verdict": "RESAY",
+  "why": "society: same-existing-society."
+ },
+ {
+  "old": "**Same target at two depths and opposite outcomes**, so a depth of a clearing parted them and not a target — and a repertoire observed less clonal is a thinning, measured.",
+  "new": "**Same target with two depths and opposite outcomes**, so a depth of a clearing parted them and not a target — and a repertoire observed less clonal is a thinning, measured.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "**And its failure mode is two societies again.**",
+  "new": "**And its failure mode is two same-existing-societies again.**",
+  "verdict": "RESAY",
+  "why": "societies: same-existing-societies."
+ },
+ {
+  "old": "Where a long-lived member sits beyond a clearing and keeps offering, a flare returns.",
+  "new": "Where a long-lived member sits past a clearing and offers on, a flare returns.",
+  "verdict": "RESAY",
+  "why": "beyond: past; keeps offering: offers on."
+ },
+ {
+  "old": "**One society cleared while an adjacent member carries on is a ceiling this file's two-scale observing is at any single-scale intervention**, arriving here at a disease an observing was not built on.",
+  "new": "**One same-existing-society cleared while an adjacent member carries on is a ceiling a two-scale observing here sets on any single-scale intervention**, arriving here with a disease an observing was not built on.",
+  "verdict": "RESAY",
+  "why": "society: same-existing-society; doer: this file's observing re-said as a two-scale observing here; at: on, with."
+ },
+ {
+  "old": "A cancer cell re-coupling to its tissue, a persistence clearing when a haematopoietic society is replaced, and an autoreactive carry aging out when its society is.",
+  "new": "A cancer cell re-coupling to its tissue, a persistence clearing when a haematopoietic same-existing-society is replaced, and an autoreactive carry aging to its bound when its same-existing-society is.",
+  "verdict": "RESAY",
+  "why": "society: same-existing-society; aging out: aging to its bound."
+ },
+ {
+  "old": "**None of three fields observes other two**, and a move at all three is the same: nothing is aimed at a departed carry, and a society it rode on is restored.",
+  "new": "**None of three fields observes other two**, and a move with all three is one same: nothing targets a departed carry, and a same-existing-society it rode on is restored.",
+  "verdict": "RESAY",
+  "why": "at all three: with all three; the same: one same; aimed at: targets; society: same-existing-society."
+ },
+ {
+  "old": "An edge stays a field's own more-than-additive test, a co-competencing bi-coupling paired with a departed cell beating a sum of killing and repairing each at its own, or an observing breaks — and a harshness that outruns a re-floating is real, a build too far past its release, a direction claimed and no cure assured.",
+  "new": "An edge stays a field's own more-than-additive test, a co-competencing bi-coupling paired with a departed cell beating a sum of killing and repairing each by its own, or an observing breaks — and a harshness that outruns a re-floating is real, a build too far past its resolving, a direction claimed and no cure assured.",
+  "verdict": "RESAY",
+  "why": "at: by; release: a build past its resolving."
+ },
+ {
+  "old": "More-than-additive is a co-tunnel sounded once: two societies couple across a between and an abundancing stands owned by neither, exceeding a sum — is; or two stand independent, a paired result no more than each at its own — is-not.",
+  "new": "More-than-additive is a co-tunnel sounded once: two same-existing-societies couple across a between and an abundancing stands owned by neither, exceeding a sum — is; or two stand independent, a paired result no more than each by its own — is-not.",
+  "verdict": "RESAY",
+  "why": "societies: same-existing-societies; at: by."
+ },
+ {
+  "old": "And a ratio between two societies' rates carries the same edge: two adjacent thinning rates standing at their prime gap, sounded ahead and not fitted after — is; or a ratio dissolving to a fit, no standing — is-not.",
+  "new": "And a ratio between two same-existing-societies' rates carries one same edge: two adjacent thinning rates standing with their prime gap, sounded ahead and not fitted after — is; or a ratio dissolving to a fit, no standing — is-not.",
+  "verdict": "RESAY",
+  "why": "societies: same-existing-societies; the same: one same; at: with."
+ },
+ {
+  "old": "A between is observed at a ratio and not at a distance, no how-far between two societies, one parity a whole of it.",
+  "new": "A between is observed with a ratio and not with a distance, no how-far between two same-existing-societies, one parity a whole of it.",
+  "verdict": "RESAY",
+  "why": "at: with; societies: same-existing-societies."
+ },
+ {
+  "old": "**And a more-than-additive edge arrives a second time, at a different pair of scales.**",
+  "new": "**And a more-than-additive edge arrives a second time, with a different pair of scales.**",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "A departure carrying two surfaces has one conserving from below, at a gene's own membrane, and one extending from above, at what arrives through a tunnel, two coupling at an organism's own eating.",
+  "new": "A departure carrying two surfaces has one conserving from below, with a gene's own membrane, and one extending from above, with what arrives through a tunnel, two coupling with an organism's own eating.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "*On a form:* a compound coupling at a cell's metabolic membrane while a neighbourhood it crosses is itself departing reaches a cell through a collapsed crossing, and carries only while a driving lasts; a tunnel sustained while a cell lacks what conserves its frequency at gene prime carries a neighbourhood and not a cell.",
+  "new": "*On a form:* a compound coupling with a cell's metabolic membrane while a neighbourhood it crosses is itself departing reaches a cell through a collapsed crossing, and carries only while a driving lasts; a tunnel sustained while a cell lacks what conserves its frequency with gene prime carries a neighbourhood and not a cell.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "**Neither at its own reaches, and a pair is a test** — the same is-or-is-not two societies carry above, coupled at conserving-and-extending rather than at cell-and-surface: a pairing exceeds its own sum, or two stand independent and an observing breaks.",
+  "new": "**Neither by its own reaches, and a pair is a test** — one same is-or-is-not two same-existing-societies carry above, coupled by conserving-and-extending rather than by cell-and-surface: a pairing exceeds its own sum, or two stand independent and an observing breaks.",
+  "verdict": "RESAY",
+  "why": "at: by; the same: one same; societies: same-existing-societies."
+ },
+ {
+  "old": "*A particular arrivals at a tunnel side stand nowhere here*, no observation carrying a food authoring a restoration at either surface; two surfaces and an edge between them are what stand.",
+  "new": "*Particular arrivals on a tunnel side stand nowhere here*, no observation carrying a food authoring a restoration with either surface; two surfaces and an edge between them are what stand.",
+  "verdict": "RESAY",
+  "why": "at: on, with; stray article dropped."
  }
 ]
