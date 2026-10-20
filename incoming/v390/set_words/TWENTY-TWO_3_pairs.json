@@ -18,8 +18,14 @@
   "why": "bold label At N: With N, at re-said as with"
  },
  {
-  "old": "Existence of billion-solar-mass holes within the first billion years requires prompt formation and rapid growth, and ultrarare holes read as only the tip of the iceberg, early black holes likely filling a continuum from stellar-mass to supermassive regime that reflects a range of initial masses and growth histories, stellar-mass seeds' initial growth typically stunted by shallow potential wells of their hosts:",
-  "new": "Existence of billion-solar-mass holes within the first billion years requires prompt formation and rapid growth, and ultrarare holes read as only the tip of the iceberg, early black holes likely filling a continuum from stellar-mass to supermassive regime that reflects a range of initial masses and growth histories, stellar-mass seeds' initial growth typically stunted by shallow potential wells of their hosts:",
+  "old": "Existence of billion-solar-mass holes within the first billion years requires prompt formation and rapid growth, and ultrarare holes read as only the tip of the iceberg,",
+  "new": "Existence of billion-solar-mass holes within the first billion years requires prompt formation and rapid growth, and ultrarare holes read as only the tip of the iceberg,",
+  "verdict": "KEEP",
+  "why": "a field's own words, quotation, measurement or term in its own sense, kept unchanged (the, in, at, statistical and random terms of its record)"
+ },
+ {
+  "old": "early black holes likely filling a continuum from stellar-mass to supermassive regime that reflects a range of initial masses and growth histories, stellar-mass seeds' initial growth typically stunted by shallow potential wells of their hosts:",
+  "new": "early black holes likely filling a continuum from stellar-mass to supermassive regime that reflects a range of initial masses and growth histories, stellar-mass seeds' initial growth typically stunted by shallow potential wells of their hosts:",
   "verdict": "KEEP",
   "why": "a field's own words, quotation, measurement or term in its own sense, kept unchanged (the, in, at, statistical and random terms of its record); statistical, stochastic, random, sampling, typically, likely, average-case: a field's own terms of its measured record, KEEP"
  },
@@ -144,8 +150,8 @@
   "why": "a field's own words, quotation, measurement or term in its own sense, kept unchanged (the, in, at, statistical and random terms of its record); statistical, stochastic, random, sampling, typically, likely, average-case: a field's own terms of its measured record, KEEP"
  },
  {
-  "old": "numerical models far from Earth's parameters and reversing through more than one route, and statistical inference conditioned by reversals' small number:",
-  "new": "numerical models far from Earth's parameters and reversing through more than one route, and statistical inference conditioned by reversals' small number:",
+  "old": "its dynamo is nonlinear and only indirectly observed, a paleomagnetic record incomplete and time-averaged, numerical models far from Earth's parameters and reversing through more than one route, and statistical inference conditioned by reversals' small number:",
+  "new": "its dynamo is nonlinear and only indirectly observed, a paleomagnetic record incomplete and time-averaged, numerical models far from Earth's parameters and reversing through more than one route, and statistical inference conditioned by reversals' small number:",
   "verdict": "KEEP",
   "why": "statistical, stochastic, random, sampling, typically, likely, average-case: a field's own terms of its measured record, KEEP"
  },

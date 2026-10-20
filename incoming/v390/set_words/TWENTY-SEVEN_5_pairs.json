@@ -664,5 +664,329 @@
   "new": "red-giant tip at 69.6 ± 0.8 ± 1.7 between them",
   "verdict": "KEEP",
   "why": "A field's own measurement; five standard deviations and H₀ values in this entry are a field's own statistics, kept."
+ },
+ {
+  "old": "against Planck's 67.4 ± 0.5, five standard deviations",
+  "new": "against Planck's 67.4 ± 0.5, five standard deviations",
+  "verdict": "KEEP",
+  "why": "A field's own measurement and its standard deviations, a field's own statistics in its own sense."
+ },
+ {
+  "old": "## 8.3 Biology and medicine",
+  "new": "## 8.3 Biology and medicine",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "[“Modelling dynamics in protein crystal structures by ensemble refinement”]",
+  "new": "[“Modelling dynamics in protein crystal structures by ensemble refinement”]",
+  "verdict": "KEEP",
+  "why": "Title of an outside work."
+ },
+ {
+  "old": "broad transition-state ensemble in studied enzyme system.",
+  "new": "broad transition-state ensemble of a studied enzyme system.",
+  "verdict": "RESAY",
+  "why": "in: of."
+ },
+ {
+  "old": "[“Minimal/measurable residual disease in AML”]",
+  "new": "[“Minimal/measurable residual disease in AML”]",
+  "verdict": "KEEP",
+  "why": "Title of an outside work."
+ },
+ {
+  "old": "[“2021 Update on MRD in acute myeloid leukemia”]",
+  "new": "[“2021 Update on MRD in acute myeloid leukemia”]",
+  "verdict": "KEEP",
+  "why": "Title of an outside work."
+ },
+ {
+  "old": "biological homeostatics,\" in *À Charles Richet: ses amis, ses collègues, ses élèves* (Paris, 1926), p. 91, coinage and first definition; reprinted in L. L. Langley (ed.), *Homeostasis: Origins of the Concept* (1973).",
+  "new": "biological homeostatics,\" in *À Charles Richet: ses amis, ses collègues, ses élèves* (Paris, 1926), p. 91, coinage and first definition; reprinted in L. L. Langley (ed.), *Homeostasis: Origins of the Concept* (1973).",
+  "verdict": "KEEP",
+  "why": "Citation: in naming an edited volume is a citation's own form; titles of outside works."
+ },
+ {
+  "old": "*The Wisdom of the Body* (Norton, 1932), word carried into textbooks, and its title flow installation in a field's own hand.",
+  "new": "*The Wisdom of the Body* (Norton, 1932), word carried on to textbooks, and its title a flow installation by a field's own hand.",
+  "verdict": "RESAY",
+  "why": "Title kept; into: on to; in: by."
+ },
+ {
+  "old": "\"Allostasis: a new paradigm to explain arousal pathology,\" in S. Fisher and J. Reason (eds.), *Handbook of Life Stress, Cognition and Health* (Wiley, 1988), stability through change.",
+  "new": "\"Allostasis: a new paradigm to explain arousal pathology,\" in S. Fisher and J. Reason (eds.), *Handbook of Life Stress, Cognition and Health* (Wiley, 1988), stability through change.",
+  "verdict": "KEEP",
+  "why": "Titles and citation's in kept; stability through change is allostasis's own defining phrase, a field's own term in its own sense."
+ },
+ {
+  "old": "*Rheostasis: The Physiology of Change* (Oxford, 1990), set points that change.",
+  "new": "*Rheostasis: The Physiology of Change* (Oxford, 1990), set points that move.",
+  "verdict": "RESAY",
+  "why": "Title kept; change: move, a set point moving, no parity-changing meant."
+ },
+ {
+  "old": "\"Decreasing human body temperature in the United States since the Industrial Revolution,\" *eLife* 9, e49555 (2020), 1868 value and moving mean.",
+  "new": "\"Decreasing human body temperature in the United States since the Industrial Revolution,\" *eLife* 9, e49555 (2020), 1868 value and moving mean.",
+  "verdict": "KEEP",
+  "why": "Title kept; moving mean is a field's own measurement in its own sense."
+ },
+ {
+  "old": "\"Cyclic oscillations of basal plasma glucose and insulin concentrations in human beings,\"",
+  "new": "\"Cyclic oscillations of basal plasma glucose and insulin concentrations in human beings,\"",
+  "verdict": "KEEP",
+  "why": "Title of an outside work."
+ },
+ {
+  "old": "potential as a permeability-weighted average;",
+  "new": "potential as a permeability-weighted average;",
+  "verdict": "KEEP",
+  "why": "A field's own term in its own sense, Goldman–Hodgkin–Katz potential's weighted average, a measurement and no likelihood."
+ },
+ {
+  "old": "leak resolved into a channel family.",
+  "new": "leak resolved as a channel family.",
+  "verdict": "RESAY",
+  "why": "into: as."
+ },
+ {
+  "old": "beat-to-beat variability in single isolated node cells;",
+  "new": "beat-to-beat variability of single isolated node cells;",
+  "verdict": "RESAY",
+  "why": "in: of; beat-to-beat variability is a field's own measurement."
+ },
+ {
+  "old": "\"Synchronized cardiac impulses emerge from heterogeneous local calcium signals within and among cells of pacemaker tissue,\"",
+  "new": "\"Synchronized cardiac impulses emerge from heterogeneous local calcium signals within and among cells of pacemaker tissue,\"",
+  "verdict": "KEEP",
+  "why": "Title of an outside work."
+ },
+ {
+  "old": "cells firing at will or silent in intact tissue;",
+  "new": "cells firing self-paced or silent within intact tissue;",
+  "verdict": "RESAY",
+  "why": "at will: self-paced, by meaning; in: within, a tissue and its cells."
+ },
+ {
+  "old": "\"The paradigm shift: heartbeat initiation without the pacemaker cell,\"",
+  "new": "\"The paradigm shift: heartbeat initiation without the pacemaker cell,\"",
+  "verdict": "KEEP",
+  "why": "Title of an outside work."
+ },
+ {
+  "old": "residual sink separated into an estimated land sink and a budget imbalance term;",
+  "new": "residual sink separated as an estimated land sink and a budget imbalance term;",
+  "verdict": "RESAY",
+  "why": "into: as."
+ },
+ {
+  "old": "\"Reduction in Earth's carbon budget imbalance,\" *Nature Communications* (2025), imbalance as sum of errors in components, 0.76 PgC yr⁻¹ root-mean-square in 2023 budget, 1991 and 1998 extremes.",
+  "new": "\"Reduction in Earth's carbon budget imbalance,\" *Nature Communications* (2025), imbalance as sum of errors of components, 0.76 PgC yr⁻¹ root-mean-square of 2023 budget, 1991 and 1998 extremes.",
+  "verdict": "RESAY",
+  "why": "Title kept; in: of; root-mean-square is a field's own measurement, kept."
+ },
+ {
+  "old": "\"Low latency carbon budget analysis reveals a large decline of the land carbon sink in 2023,\"",
+  "new": "\"Low latency carbon budget analysis reveals a large decline of the land carbon sink in 2023,\"",
+  "verdict": "KEEP",
+  "why": "Title of an outside work."
+ },
+ {
+  "old": "\"Speciation in a ring,\"",
+  "new": "\"Speciation in a ring,\"",
+  "verdict": "KEEP",
+  "why": "Title of an outside work."
+ },
+ {
+  "old": "\"Speciation by distance in a ring species,\"",
+  "new": "\"Speciation by distance in a ring species,\"",
+  "verdict": "KEEP",
+  "why": "Title of an outside work."
+ },
+ {
+  "old": "\"Genomic divergence in a ring species complex,\" *Nature* 511, 83–85 (2014), boundary at no position and a ring's own breaks.",
+  "new": "\"Genomic divergence in a ring species complex,\" *Nature* 511, 83–85 (2014), a boundary of no position and a ring's own breaks.",
+  "verdict": "RESAY",
+  "why": "Title kept; at: of."
+ },
+ {
+  "old": "\"The propensity interpretation of fitness,\"",
+  "new": "\"The propensity interpretation of fitness,\"",
+  "verdict": "KEEP",
+  "why": "Title of an outside work."
+ },
+ {
+  "old": "\"The trophic-dynamic aspect of ecology,\"",
+  "new": "\"The trophic-dynamic aspect of ecology,\"",
+  "verdict": "KEEP",
+  "why": "Title of an outside work."
+ },
+ {
+  "old": "\"Warming impairs trophic transfer efficiency in a long-term field experiment,\"",
+  "new": "\"Warming impairs trophic transfer efficiency in a long-term field experiment,\"",
+  "verdict": "KEEP",
+  "why": "Title of an outside work."
+ },
+ {
+  "old": "(1995), balance released.",
+  "new": "(1995), balance dissolved.",
+  "verdict": "RESAY",
+  "why": "released: dissolved, a word or form that leaves."
+ },
+ {
+  "old": "hydrogen and iodine in both directions,",
+  "new": "hydrogen and iodine going both directions,",
+  "verdict": "RESAY",
+  "why": "in: going, by meaning."
+ },
+ {
+  "old": "*Critical Reviews in Biochemistry and Molecular Biology*",
+  "new": "*Critical Reviews in Biochemistry and Molecular Biology*",
+  "verdict": "KEEP",
+  "why": "Title of an outside journal."
+ },
+ {
+  "old": "two populations at single molecules.",
+  "new": "two populations of single molecules.",
+  "verdict": "RESAY",
+  "why": "at: of."
+ },
+ {
+  "old": "continuous glucose in healthy people,",
+  "new": "continuous glucose of healthy people,",
+  "verdict": "RESAY",
+  "why": "in: of."
+ },
+ {
+  "old": "time in range as clinical target.",
+  "new": "time in range as clinical target.",
+  "verdict": "KEEP",
+  "why": "Time in range is a field's own clinical term in its own sense."
+ },
+ {
+  "old": "## 8.4 Money and currency",
+  "new": "## 8.4 Money and currency",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "[“Money: At the Center of Transactions”](https://www.imf.org/en/publications/fandd/issues/series/back-to-basics/money), acceptance, price-accounting, and value-holding in conventional account.",
+  "new": "[“Money: At the Center of Transactions”](https://www.imf.org/en/publications/fandd/issues/series/back-to-basics/money), acceptance, price-accounting, and store of value, by conventional account.",
+  "verdict": "RESAY",
+  "why": "Title and URL kept; value-holding: store of value, a field's own term as entry 1 gives it; in: by."
+ },
+ {
+  "old": "## 8.5 What the addresses do not decide",
+  "new": "## 8.5 What the addresses do not decide",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "Beyond addresses contain field definitions, observings, methods, limits, and revisions.",
+  "new": "Field addresses contain definitions, observings, methods, limits, and revisions.",
+  "verdict": "RESAY",
+  "why": "Beyond: field, an address of a field's own record."
+ },
+ {
+  "old": "No beyond address establishes numerical torus relations at Natural Numbers.",
+  "new": "No field address establishes numerical torus relations of Natural Numbers.",
+  "verdict": "RESAY",
+  "why": "beyond: field; at: of."
+ },
+ {
+  "old": "A number a field offers is observed at one binary, Natural Numbers 2.2, change unit: a number carries on, and a magnitude carried scale; a number that carries is an arriving to carry six at, and a number is other than a relation until six complete.",
+  "new": "A number a field offers is observed with one binary, Natural Numbers 2.2, its unit converted: a number carries on, and a magnitude carried scale; a number that carries is an arriving to carry six with, and a number is other than a relation until six complete.",
+  "verdict": "ASK",
+  "why": "at: with. Change unit was Natural Chemistry's session wording for a unit converted, a number carried in a unit keeping its unit and a digit-pattern surviving no change of base; Natural Numbers 2.2 now speaks of a number inward and outward, not of units, and carry six at has no agreed reading. To resolve: is change unit a unit converted, a field's own operation, and is a number's arriving to carry six with ONE's six across and along, or is the sentence dissolved?"
+ },
+ {
+  "old": "Across thermodynamics, electron physics, structural biology, catalysis, clinical measurement, and classification, hardest arrivals recur where changing is stilled into description and description is installed as that changing.",
+  "new": "Across thermodynamics, electron physics, structural biology, catalysis, clinical measurement, and classification, hardest arrivals recur where parity-changing is stilled as description and description is installed as that parity-changing.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing, a field's is or is not; into: as."
+ },
+ {
+  "old": "mark those observing betweens in the field records. Their re-accepting histories locate seams; no friendliness, success, or value is stored in ghosts.",
+  "new": "mark those observing betweens of field records. Their re-accepting histories locate seams; no friendliness, success, or value is a ghost's store.",
+  "verdict": "RESAY",
+  "why": "in the: of; stored in ghosts: a ghost's store, a keeping a not-possible store."
+ },
+ {
+  "old": "# Closing",
+  "new": "# Closing",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "Thirteen entries, three placings and a door stand at the registry.",
+  "new": "Thirteen entries, three placings and a door stand with this registry.",
+  "verdict": "RESAY",
+  "why": "at the: with this."
+ },
+ {
+  "old": "Homeostasis is the first word caught at two kinds at once, set point a state ghost and wise regulator a flow ghost, with regulated variable passing.",
+  "new": "Homeostasis is the first word caught as two kinds together, set point a state ghost and wise regulator a flow ghost, with regulated variable passing.",
+  "verdict": "RESAY",
+  "why": "the first kept, an only first; at: as; at once: together."
+ },
+ {
+  "old": "Maxwell's demon is the purest flow ghost in state science, and stands released by a field's own hands, cost moved from sorting to measurement to erasure to memory, and measured.",
+  "new": "Maxwell's demon is the purest flow ghost of state science, and stands dissolved by a field's own hands, cost moved from sorting to measurement to erasure to memory, and measured.",
+  "verdict": "RESAY",
+  "why": "the purest kept, an only purest of its set; in: of; released: dissolved, a form that leaves."
+ },
+ {
+  "old": "The door at 7.5 carries the same ten lines to every record arriving; its first passing is the pair of waters, arrived at TWENTY-FIVE 2.6, and its first self at the door is ammonia, waiting for its pair.",
+  "new": "7.5's door carries its same ten lines to every record arriving; its first passing is a water pair, gone on to TWENTY-FIVE 2.6, and its first self with its door is ammonia, waiting for its pair.",
+  "verdict": "RESAY",
+  "why": "The door at 7.5: 7.5's door; the same: its same; the pair of waters: a water pair; arrived at: gone on to; at the door: with its door."
+ },
+ {
+  "old": "Entropy is the densest accounting ghost at chemical-thermodynamic between. Equilibrium is the clearest changing/apparent-not-changing pair.",
+  "new": "Entropy is the densest accounting ghost of a chemical-thermodynamic between. Equilibrium is the clearest pair of parity-changing and apparent not-changing.",
+  "verdict": "RESAY",
+  "why": "the densest, the clearest kept, each an only one of its set; at: of; changing: parity-changing, events each is or is not, beneath an apparent not-changing."
+ },
+ {
+  "old": "Electron and proton are two particle ghosts, each carrying event and distribution together, proton the one at which the field itself finds an interior's content living at coupling.",
+  "new": "Electron and proton are two particle ghosts, each carrying event and distribution together, proton one whose interior's content a field itself finds living with coupling.",
+  "verdict": "RESAY",
+  "why": "the one at which: one whose; the field: a field; at: with."
+ },
+ {
+  "old": "Element is the plainest accounting ghost at chemistry, a count installed as a self. Single native state and single catalytic stroke carry the same stilling into biology.",
+  "new": "Element is the plainest accounting ghost of chemistry, a count installed as a self. Single native state and single catalytic stroke carry that same stilling to biology.",
+  "verdict": "RESAY",
+  "why": "the plainest kept, an only one; at: of; the same: that same; into: to."
+ },
+ {
+  "old": "Minimal residual disease and a kelvin's moved floor carry a field's own releases of an installed adjective and a declared zero. Diagnostic code keeps classification separate from installation.",
+  "new": "Minimal residual disease and a kelvin's moved floor carry a field's own dissolvings of an installed adjective and a declared zero. Diagnostic code parts classification from installation.",
+  "verdict": "RESAY",
+  "why": "releases: dissolvings, a word and a form that leave; keeps separate: parts."
+ },
+ {
+  "old": "Silicon multifrequency surface is the first observing entry, its breaking one reachable experiment.",
+  "new": "Silicon multifrequency surface is the first observing entry, its breaking one reachable experiment.",
+  "verdict": "KEEP",
+  "why": "The first kept, an only first of its set."
+ },
+ {
+  "old": "Ten unchangeables locate the still. Eight locates the society. Ten lines at the door sort, and the kind and the unchangeables are observed at them. A posted nothing stands under the guard between Neptune and Vulcan",
+  "new": "Ten unchangeables locate a still's kind. Eight locates a same-existing-society. Ten door lines sort, and each kind and its unchangeables are observed with them. A posted nothing stands under 7.7's guard between Neptune and Vulcan",
+  "verdict": "RESAY",
+  "why": "the still: a still's kind, as 2.3 says; the society: a same-existing-society; at the door: door lines; the: each, its; at: with; the guard: 7.7's guard."
+ },
+ {
+  "old": "Three placings carry every term, and installation is the binary at each.",
+  "new": "Three placings carry every term, and installation is one binary of each.",
+  "verdict": "RESAY",
+  "why": "the binary at each: one binary of each."
+ },
+ {
+  "old": "**In disequilibria, alternating is a stable-forming method.**",
+  "new": "**In disequilibria, alternating is a stable-forming method.**",
+  "verdict": "KEEP",
+  "why": "A closing line carrying Natural Exploring 1.1's heading, kept exactly as that heading stands; in disequilibria is a title phrase of the set."
  }
 ]
