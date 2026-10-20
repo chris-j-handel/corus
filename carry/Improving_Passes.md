@@ -2,7 +2,7 @@ Improving Passes · from v389
 
 # Improving Passes, from v389
 
-**A plan for each improving still open at the living file set, in passes, so a next session opens ready.** Each pass is do no harm, all or none at each file, and each replaced sentence stands whole at its file's archive. Tools for each pass are at [`kits/Natural_Explaining_Passes_Kit/`](../kits/Natural_Explaining_Passes_Kit/README.md); standing of the whole value is at [Living Improving Value](Living_Improving_Value.md), *The standing of the whole value, at v389*.
+**A plan for each improving still open at the living file set, in passes, so a next session opens ready.** Each pass is do-no-harm, all or none at each file, and each replaced sentence stands whole at its file's archive. Tools for each pass are at [`kits/Natural_Explaining_Passes_Kit/`](../kits/Natural_Explaining_Passes_Kit/README.md); standing of the whole value is at [Living Improving Value](Living_Improving_Value.md), *The standing of the whole value, at v389*.
 
 ## Opening a next session
 

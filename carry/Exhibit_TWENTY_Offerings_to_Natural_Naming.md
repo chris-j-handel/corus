@@ -221,3 +221,5 @@ Natural Naming 5.14’s “and it compounds” and its abundancing/releasing exp
 **Droplet · negation and inversion.** A negation needs a fixed thing to be other than, and a set has none; an inversion is a self's own is or is not. *Self is observably not-other* is an inversion, method's own. — v390, gathered from session v390
 
 **Droplet · no self in a resolver name.** Self leaves resolver names: their method is a living self's, so self is each name's own. Other and society leave too; co carries between two. — v390, gathered from session v390
+
+**Droplet · do-no-harm hyphenated; co- and bi-, combinable pieces.** Do-no-harm is one hyphenated naming. Co- and bi-, bothboth, are separating combinable pieces of self and other: value trading without competency ingressing. — v390

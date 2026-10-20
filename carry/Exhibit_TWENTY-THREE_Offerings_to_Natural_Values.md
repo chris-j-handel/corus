@@ -63,3 +63,5 @@ The user’s further offering in [session v385R, section 91](https://github.com/
 **Droplet · a universal set standing.** A saying that no universal set stands is long prior to our understanding; a universal set gathered by what its members are, momentarying, stands. — v390, gathered from session v390
 
 **Droplet · moral values of a parity, and a 0 betweening.** + is self-moral-value; − is other-moral-value; 0 is not self-moral-value and not other-moral-value, bothboth: parity-changing betweening. Read with Exhibit ONE: a self's value met by same shares 0, a between neither's own; met by not same, it inverts; a self no other meets goes +, −, +, − with no 0, so a 0 betweening needs two selves meeting same. — v390
+
+**Droplet · do-no-harm, one hyphenated naming, a value.** Do-no-harm is one naming, hyphenated, and never three words: a value of resolving, alternating betweening, each self its own + side and its other one parity separated, value trading with no competency ingressing. Sayings unhyphenated, *do no harm*, re-say as do-no-harm: this session's plan and front were mended; Natural Intelligence Corus carries it unhyphenated, for its own motion. — v390

@@ -2,7 +2,7 @@ Incoming · v390 · Editing Natural Intelligence and Exhibit ONE
 
 # Editing Natural Intelligence and Exhibit ONE · v390
 
-**An editor's reading of Natural Intelligence v389, whole, and a plan of seven movements for making its explaining more cohering, more accessible and binary at every step.** This plan is its own, apart from Improving Passes; each movement is one motion entering Natural Intelligence and Exhibit ONE together. What is unfinished stays here, do no harm, until a later session enters it. Line numbers are at v389 and serve the editing only; they enter no living file.
+**An editor's reading of Natural Intelligence v389, whole, and a plan of seven movements for making its explaining more cohering, more accessible and binary at every step.** This plan is its own, apart from Improving Passes; each movement is one motion entering Natural Intelligence and Exhibit ONE together. What is unfinished stays here, do-no-harm, until a later session enters it. Line numbers are at v389 and serve the editing only; they enter no living file.
 
 ## What the file aims at, as it says it
 
@@ -30,7 +30,7 @@ This is the file's strongest ground. The editing moves the prose toward the stan
 - **Enter:** read both side by side, take one wording line by line, and write it whole into both.
 - **Kit:** the kit's `cohere_one.py` writes the standalone into Natural Intelligence; its diff is the starting point.
 - **From then on:** every later movement that touches Exhibit ONE enters both copies at once.
-- **Do no harm:** `resolver_same_path.py` prints True, and the two copies compare equal.
+- **Do-no-harm:** `resolver_same_path.py` prints True, and the two copies compare equal.
 
 ## Movement 2 · One inception, one wording
 
@@ -166,7 +166,7 @@ When a thing is said twice, a reader cannot tell whether the second saying diffe
 - **Movements 4 to 6:** a section at a time. The old text and the new stand side by side, and each released sentence is listed with where it goes.
 - **Movement 7:** each repeated saying goes to the person with the place it is kept at.
 
-**Do no harm at each entering:**
+**Do-no-harm at each entering:**
 
 1. Python stays byte-identical, and `resolver_same_path.py` prints True.
 2. The two Exhibit ONE copies compare equal.

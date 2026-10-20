@@ -79,7 +79,7 @@ Relieves seven concerns, and about 220 sayings across a living set.
 - **M12:** a parity-offering is self-moral-value or other-moral-value offered; a 0 offers neither.
 - **M11:** *other parity is improving* is other-moral-value met, not-same.
 - From Exhibit ONE: where a self's value and an offered value are same, a 0 is shared, neither's own, bothboth; where not same, a self inverts. A self no other meets goes +, −, +, − with no 0: a 0 betweening needs an other, two selves meeting same.
-- *Living, for meaning:* is + each self's own self-moral-value from its own side, an other's + met as same?
+- *Resolved bothboth, v390:* each self is its own + side, and its other is not the self. Each side starts at its own 1; two sides are one parity separated at a bi-coupling's start: alternating betweening of resolving, do-no-harm improving. With 17 a self is +, and next-same-existing-other is − with 18. Co- and bi-, bothboth, are separating combinable pieces of self and other: value trading without competency ingressing.
 
 ## Cluster 3 · two betweens, each named
 
