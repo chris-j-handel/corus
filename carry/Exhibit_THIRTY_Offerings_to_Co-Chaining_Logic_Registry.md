@@ -101,3 +101,6 @@ Exhibit THIRTY Co-Chaining Logic Registry Offerings · improved at v389
 **Droplet · method and content one form.** Looking back from a next to find a prior that would make it is possibling: carving does what a society does with its surface, and co-chaining lines and co-chaining selves are one form. Resting for this session as droplets; all co-chainings now-living societies. — v390, gathered from session v390
 
 **Droplet · an inception standing alone.** *The universe is the set of all now-existing things.* stands alone; a second *the universe is* is no step. — v390, gathered from session v390
+
+**Droplet · a first group from Natural Intelligence's agreed opening.** Exhibit THIRTY's steps 1 to 50 meet session v390's learnings: step 2 a second inception; step 3's four binaries gathered into one, same-as, is or is not; step 6's three universes beside *No other universe is possibly existing*; steps 21 to 25 three places; step 27's between a nothing beside a third living carrying. Steps 40 and 42 stand. A first group of seven steps is offered, from inception to *Parity-changing is is or is not same-existing.*, whole at incoming/v390/Co-Chaining_THIRTY_Improving_v390.md. — v390
+
