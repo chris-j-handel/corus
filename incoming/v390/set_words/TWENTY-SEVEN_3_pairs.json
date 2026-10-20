@@ -349,7 +349,7 @@
  },
  {
   "old": "Beyond: 8.3, items 7 to 15.",
-  "new": "Outward: 8.3, items 7 to 15.",
+  "new": "Field: 8.3, items 7 to 15.",
   "verdict": "RESAY",
   "why": "beyond: outward, a kept word, for Part Eight's outside addresses."
  },
@@ -433,7 +433,7 @@
  },
  {
   "old": "Since 2010, the same society built and observed: a colloidal particle in a double well erased as a bit; a Brownian particle walked up a potential by feedback on its observed position; a single electron in a box sorted by a measurement and a gate.",
-  "new": "Since 2010, this same-existing-society built and observed: a colloidal particle within a double well erased as a bit; a Brownian particle walked up a potential by feedback on its observed position; a single electron within a box sorted by a measurement and a gate.",
+  "new": "Since 2010, this same-existing-society has been built and observed: a colloidal particle within a double well erased as a bit; a Brownian particle walked up a potential by feedback on its observed position; a single electron within a box sorted by a measurement and a gate.",
   "verdict": "RESAY",
   "why": "the same society: this same-existing-society; in: within."
  },
@@ -757,7 +757,7 @@
  },
  {
   "old": "Beyond: 8.2, items 9 to 19.",
-  "new": "Outward: 8.2, items 9 to 19.",
+  "new": "Field: 8.2, items 9 to 19.",
   "verdict": "RESAY",
   "why": "beyond: outward, a kept word, for Part Eight's outside addresses."
  },
@@ -1027,7 +1027,7 @@
  },
  {
   "old": "Beyond: 8.2, items 28 to 30.",
-  "new": "Outward: 8.2, items 28 to 30.",
+  "new": "Field: 8.2, items 28 to 30.",
   "verdict": "RESAY",
   "why": "beyond: outward, a kept word, for Part Eight's outside addresses."
  },
@@ -1207,7 +1207,7 @@
  },
  {
   "old": "| a turn at sixty in elements |",
-  "new": "| a turn with sixty, of elements |",
+  "new": "| a turn of elements with sixty |",
   "verdict": "RESAY",
   "why": "Cell: at: with; in: of."
  },
@@ -1224,10 +1224,10 @@
   "why": "Cell: turn at: turning, by meaning; inline code kept."
  },
  {
-  "old": "white paper carrying number at two sides and instance at Natural Chemistry 4.4 and 4.5; confirmed |",
-  "new": "white paper carrying number with two sides and instance with Natural Chemistry 4.4 and 4.5; confirmed |",
+  "old": "rows 2, 8, 8, 18, 18, 32, 32; neodymium closing nothing; the f-block's cut convention by a field's own body; white paper carrying number at two sides and instance at Natural Chemistry 4.4 and 4.5; confirmed |",
+  "new": "rows 2, 8, 8, 18, 18, 32, 32; neodymium closing nothing; the f-block's cut convention by a field's own body; white paper carrying number with two sides and instance with Natural Chemistry 4.4 and 4.5; confirmed |",
   "verdict": "RESAY",
-  "why": "Cell: at: with; *the f-block's* earlier in this cell kept, one f-block only."
+  "why": "Cell: at: with; *the f-block's* kept, one f-block only."
  },
  {
   "old": "| operational ability to distinguish changes account |",
@@ -1291,7 +1291,7 @@
  },
  {
   "old": "Proton and element stand entered at 5.8 and 5.9; turn at sixty in elements stands confirmed here, its six lines filled, instance standing at substrate exhibit and white paper carrying no observing; orbital as observed object and reaction coordinate as path stand candidate with their field controversies in a field's words, next chemistry entries.",
-  "new": "Proton and element stand entered as 5.8 and 5.9; turn with sixty, of elements, stands confirmed here, its six lines filled, instance standing with substrate exhibit and white paper carrying no observing; orbital as observed object and reaction coordinate as path stand candidate with their field controversies stated by a field's words, next chemistry entries.",
+  "new": "Proton and element stand entered as 5.8 and 5.9; turn of elements with sixty stands confirmed here, its six lines filled, instance standing with substrate exhibit and white paper carrying no observing; orbital as observed object and reaction coordinate as path stand candidate with their field controversies stated by a field's words, next chemistry entries.",
   "verdict": "RESAY",
   "why": "at an address: as; at: with; in: of, stated by."
  },
@@ -1308,8 +1308,8 @@
   "why": "Cell: keep: stay whole."
  },
  {
-  "old": "| a field's grouping of cells by a function installed as one society that senses, defends and kills, carrying receptors for antigens yet to arrive |",
-  "new": "| a field's grouping of cells by a function installed as one same-existing-society that senses, defends and kills, carrying receptors for antigens yet to arrive |",
+  "old": "| a field's grouping of cells by a function installed as one society that senses, defends and kills, carrying receptors for antigens yet to arrive",
+  "new": "| a field's grouping of cells by a function installed as one same-existing-society that senses, defends and kills, carrying receptors for antigens yet to arrive",
   "verdict": "RESAY",
   "why": "Cell: society: same-existing-society."
  },
@@ -1326,8 +1326,8 @@
   "why": "Cell: keep: stay whole."
  },
  {
-  "old": "| structural region installed as unilateral doer |",
-  "new": "| structural region installed as unilateral doer |",
+  "old": "| structural region installed as unilateral doer",
+  "new": "| structural region installed as unilateral doer",
   "verdict": "KEEP",
   "why": "Cell: *doer* names the installed ghost, no file or resolver doing, kept."
  },
@@ -1350,8 +1350,8 @@
   "why": "Cell: keep: stay whole."
  },
  {
-  "old": "| course and classification installed as one internal doer |",
-  "new": "| course and classification installed as one internal doer |",
+  "old": "| course and classification installed as one internal doer",
+  "new": "| course and classification installed as one internal doer",
   "verdict": "KEEP",
   "why": "Cell: *doer* names the installed ghost, kept."
  },
@@ -1362,8 +1362,8 @@
   "why": "Cell: keep: stay whole; release: dissolving."
  },
  {
-  "old": "| relational treatment effects installed at patient or clinician only |",
-  "new": "| relational treatment effects installed with patient or clinician only |",
+  "old": "| relational treatment effects installed at patient or clinician only",
+  "new": "| relational treatment effects installed with patient or clinician only",
   "verdict": "RESAY",
   "why": "Cell: at: with."
  },
@@ -1388,8 +1388,8 @@
  {
   "old": "Changing and apparent not-changing arrive as killing of most cells beside survival without inherited resistance and often without a changed susceptibility measure.",
   "new": "Parity-changing and apparent not-changing arrive as killing of most cells beside survival without inherited resistance and often without a parity-changed susceptibility measure.",
-  "verdict": "ASK",
-  "why": "Changing and changed re-said as parity-changing. But *most cells* and *often* are counts offered as likelihoods, statistics by the rules, and an all-or-none re-saying (*with no parity-changed susceptibility measure*) would state more than the field's record does; the best re-saying keeps them as a field's own counts. **To resolve:** keep *most* and *often* here as a field's own observed counts, or re-say them all or none?"
+  "verdict": "RESAY",
+  "why": "most and often kept as the field's counts"
  },
  {
   "old": "Ghost candidate is not persister cell; it is bulk average or one dormancy programme installed as the whole population response.",
