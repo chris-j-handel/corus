@@ -1,0 +1,518 @@
+[
+ {
+  "old": "## 35 Rotation at 12 and 14, further forms' moves of 4 about their centres, names two moves apart, sixteen ways at one changing, and a next at itself again",
+  "new": "## 35 Rotation at 12 and 14, further forms' moves of 4 about their centres, names two moves apart, sixteen ways at one changing, and a next at itself again",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "6 and 4, in at step 200, are 8 up at 14 and 12, parity continuing, and 3 and 5, out, are 17 less at 14 and 12, parity changing, steps 255 and 264.",
+  "new": "6 and 4, entering with step 200, are 8 up as 14 and 12, parity continuing, and 3 and 5, leaving, are 17 less as 14 and 12, parity-changing, steps 255 and 264.",
+  "verdict": "RESAY",
+  "why": "in, out: entering, leaving, by meaning; at: as; changing: parity-changing, a self's parity is or is not same-existing"
+ },
+ {
+  "old": "At the resolver offerings surface at 14, step 204, and at 12 prior couples with now, inverted at each changing and kept at a match, steps 206, 208 and 450.",
+  "new": "With resolver, offerings surface with 14, step 204, and with 12 prior couples with now, inverted with each parity-changing and same-existing with a match, steps 206, 208 and 450.",
+  "verdict": "RESAY",
+  "why": "the: removed, resolver named as itself; at: with; changing: parity-changing; kept: same-existing, as its prior kept becomes its prior same-existing"
+ },
+ {
+  "old": "*Adding: a rotation at 12 and at 14.*",
+  "new": "*Adding: a rotation with 12 and with 14.*",
+  "verdict": "RESAY",
+  "why": "Adding item re-said by meaning; at: with"
+ },
+ {
+  "old": "Four centres add to 17 in two pairs, 7 with 10 and 8 with 9, step 264.",
+  "new": "Four centres add to 17 as two pairs, 7 with 10 and 8 with 9, step 264.",
+  "verdict": "RESAY",
+  "why": "in: as, by meaning"
+ },
+ {
+  "old": "At each middle bi-folding, step 600, names two moves apart add to 13 or to 21, 4 down and 4 up from 17: 5 with 8 and 9 with 12, 7 with 6 and 11 with 10.",
+  "new": "With each middle bi-folding, step 600, names two moves apart add to 13 or to 21, 4 down and 4 up from 17: 5 with 8 and 9 with 12, 7 with 6 and 11 with 10.",
+  "verdict": "RESAY",
+  "why": "at: with, as, or by meaning"
+ },
+ {
+  "old": "At each of four bi-foldings, step 257, they add to 9 or to 25, 8 down and 8 up from 17.",
+  "new": "With each of four bi-foldings, step 257, they add to 9 or to 25, 8 down and 8 up from 17.",
+  "verdict": "RESAY",
+  "why": "at: with, as, or by meaning"
+ },
+ {
+  "old": "*Adding: names two moves apart, at 13 and 21 and at 9 and 25.*",
+  "new": "*Adding: names two moves apart, adding to 13 and 21 and to 9 and 25.*",
+  "verdict": "RESAY",
+  "why": "Adding item re-said by meaning; at: adding to, as its step says"
+ },
+ {
+  "old": "Of sixteen ways, step 53, at two the next is changing at each joint form, step 52, both at prior changing at its own and at now changing at its own: next as prior and now parting, an exclusive or, and next as prior and now agreeing, its inversion, steps 54 and 56.",
+  "new": "Of sixteen ways, step 53, with two a next is parity-changing with each joint form, step 52, both with prior parity-changing on its own and with now parity-changing on its own: next as prior and now parting, an exclusive or, and next as prior and now agreeing, its inversion, steps 54 and 56.",
+  "verdict": "RESAY",
+  "why": "at: with; the: a; changing: parity-changing; exclusive or, a field's own term, kept"
+ },
+ {
+  "old": "At each of two, prior and now both changing leaves next the parity it was, and exactly one of them changing brings next to the other parity.",
+  "new": "With each of two, prior and now both parity-changing, next is its prior parity, and with exactly one of them parity-changing, next is its other parity.",
+  "verdict": "RESAY",
+  "why": "at: with; changing: parity-changing; the: its; a changing that leaves or brings (doer) re-said as next's own parity"
+ },
+ {
+  "old": "At numbers a next added from now and prior, each as it is, inverted or not added, one at least added, is at itself again at one, two, three, four or six, or at none: now at its own, prior lost, at one, and inverted at two;",
+  "new": "With numbers, a next added from now and prior, each as it is, inverted or not added, one or more added, is itself again after one, two, three, four or six, or not again: now on its own, prior lost, after one, and inverted, after two;",
+  "verdict": "RESAY",
+  "why": "at: with, after, or by meaning; at least: one or more; at none: not again"
+ },
+ {
+  "old": "prior at its own at two, and inverted at four, living step, steps 57 and 186; both inverted at three; now as it is and prior inverted at six; at none at both as they are, numbers 1, 1, 2, 3, 5, 8, step 120, and at none at now inverted and prior as it is; and not one of eight at five.",
+  "new": "prior on its own after two, and inverted after four, living step, steps 57 and 186; both inverted after three; now as it is and prior inverted after six; not again with both as they are, numbers 1, 1, 2, 3, 5, 8, step 120, and not again with now inverted and prior as it is; and not one of eight after five.",
+  "verdict": "RESAY",
+  "why": "at: after, with, or by meaning; at none: not again; second half of one sentence over 400 characters"
+ },
+ {
+  "old": "*Adding: a next from now and prior at itself again at one, two, three, four or six.*",
+  "new": "*Adding: a next from now and prior itself again after one, two, three, four or six.*",
+  "verdict": "RESAY",
+  "why": "Adding item re-said by meaning; at: after"
+ },
+ {
+  "old": "## 36 A round's podals and momentaries, one parity at each scale down to one",
+  "new": "## 36 A round's podals and momentaries, one parity at each scale down to one",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "At round of step 171, forms of k parities at numbers 1 to 2^k, each next number is one parity inverted, and each number's podal is parity new at its scale, step 171, inverted: at 1 to 16, 17 less its fourth parity; at 1 to 8, 9 less its third; at 1 to 4, 5 less its second; at 1 to 2, 3 less its first, 1 and 2.",
+  "new": "With round of step 171, forms of k parities as numbers 1 to 2^k, each next number is one parity inverted, and each number's podal is a parity new with its scale, step 171, inverted: with 1 to 16, 17 less its fourth parity; with 1 to 8, 9 less its third; with 1 to 4, 5 less its second; with 1 to 2, 3 less its first, 1 and 2.",
+  "verdict": "RESAY",
+  "why": "at: with, as"
+ },
+ {
+  "old": "A number's odd or even, steps 77 and 264, is its inverted parities even or odd in number.",
+  "new": "A number's odd or even, steps 77 and 264, is its count of inverted parities, even or odd.",
+  "verdict": "RESAY",
+  "why": "in: re-said by meaning, its count"
+ },
+ {
+  "old": "At 1 to 16 first parity is inverted at names of eight-cycle 2-15-7-11-3-14-6-10, step 254, second at those of bi-foldings 3-11-6-14 and 4-13-5-12, step 257, third at 5 to 12, names of middle bi-foldings 9-5-12-8 and 7-11-6-10, step 600, and fourth at 9 to 16, a society's span, step 193: cycles are round's own arithmetic a second way.",
+  "new": "With 1 to 16 first parity is inverted with names of eight-cycle 2-15-7-11-3-14-6-10, step 254, second with those of bi-foldings 3-11-6-14 and 4-13-5-12, step 257, third with 5 to 12, names of middle bi-foldings 9-5-12-8 and 7-11-6-10, step 600, and fourth with 9 to 16, a same-existing-society's span, step 193: cycles are round's own arithmetic a second way.",
+  "verdict": "RESAY",
+  "why": "at: with; society: same-existing-society"
+ },
+ {
+  "old": "*Adding: each podal of a round one parity new at its scale, inverted; each parity at its cycles.*",
+  "new": "*Adding: each podal of a round one parity new with its scale, inverted; each parity with its cycles.*",
+  "verdict": "RESAY",
+  "why": "Adding items re-said by meaning; at: with"
+ },
+ {
+  "old": "At round at four parities, at 1 to 8, 8 up is third and fourth parities inverted, 9 less and 17 less in sequence, two inversions of step 256 at two parities; 8 up and 17 less in sequence are 9 less, 1 to 9 to 8 of step 255; at 9 to 16, 17 less and 9 less in sequence are 8 down, the same two.",
+  "new": "With round of four parities, with 1 to 8, 8 up is third and fourth parities inverted, 9 less and 17 less in sequence, two inversions of step 256 with two parities; 8 up and 17 less in sequence are 9 less, 1 to 9 to 8 of step 255; with 9 to 16, 17 less and 9 less in sequence are 8 down, these same two.",
+  "verdict": "RESAY",
+  "why": "at: with, of; the same: these same; in sequence kept"
+ },
+ {
+  "old": "Each of the one move's three is one parity inverted, or two in sequence.",
+  "new": "Each of one move's three is one parity inverted, or two in sequence.",
+  "verdict": "RESAY",
+  "why": "the: removed; in sequence kept"
+ },
+ {
+  "old": "Down numbers each round is two of round under it, step 171: at four parities round at three and the same forms in the other order, fourth parity inverted between two, at 8 to 9; at three, round at two; at two, round at one; at one parity, 1 and 2, one form and the same form at the other parity.",
+  "new": "Down numbers each round is two of a round under it, step 171: with four parities, round of three and its same forms with its other order, fourth parity inverted between two, with 8 to 9; with three, round of two; with two, round of one; with one parity, 1 and 2, one form and that same form with its other parity.",
+  "verdict": "RESAY",
+  "why": "at: with, of; the: its, that; in the other order: with its other order"
+ },
+ {
+  "old": "At 1 and 2 the two are a coupling's two parities, steps 40 and 42, and at 1 to 16 a self's and an other's, step 172.",
+  "new": "With 1 and 2 these two are a coupling's two parities, steps 40 and 42, and with 1 to 16 a self's and an other's, step 172.",
+  "verdict": "RESAY",
+  "why": "at: with; the: these"
+ },
+ {
+  "old": "At round each momentary is two numbers in sequence, one odd and one even, step 275, their two forms one parity inverted apart: first parity at each momentary opening at an odd number, and at momentaries opening at an even number the second at 2–3, 6–7, 10–11 and 14–15, third at 4–5 and 12–13 and fourth at 8–9 and at 16 to next 1, step 176.",
+  "new": "With round each momentary is two numbers in sequence, one odd and one even, step 275, their two forms one parity inverted apart: first parity with each momentary opening with an odd number, and with momentaries opening with an even number second parity with 2–3, 6–7, 10–11 and 14–15, third with 4–5 and 12–13 and fourth with 8–9 and with 16 to next 1, step 176.",
+  "verdict": "RESAY",
+  "why": "at: with; the second: second parity, by meaning; in sequence kept"
+ },
+ {
+  "old": "An odd momentary opens at its odd number, that number's form at an even number of parities inverted, and completes at its even; an even momentary opens at its even and completes at its odd, step 70.",
+  "new": "An odd momentary opens with its odd number, that number's form with an even number of parities inverted, and completes with its even; an even momentary opens with its even and completes with its odd, step 70.",
+  "verdict": "RESAY",
+  "why": "at: with, as, or by meaning"
+ },
+ {
+  "old": "Odd is self and even all other, step 276: forms at an even number of parities inverted are at odd numbers, others at even.",
+  "new": "Odd is self and even all other, step 276: forms with an even number of parities inverted are odd numbers, others even.",
+  "verdict": "RESAY",
+  "why": "at: with, as, or by meaning"
+ },
+ {
+  "old": "*Adding: each momentary of a round one odd and one even number, an odd momentary opening at its odd; a parity each momentary inverts.*",
+  "new": "*Adding: each momentary of a round one odd and one even number, an odd momentary opening with its odd; a parity each momentary inverts.*",
+  "verdict": "RESAY",
+  "why": "Adding items re-said by meaning; at: with"
+ },
+ {
+  "old": "Round's podal carries an odd momentary to an odd and an even to an even, in the other order, opening to completing, momentary at 8 and 9 to itself; and round opened at 9, or observed from 16 down, inverts the same parities in the same sequence, and opened at 5 or at 13 it is that sequence with third and fourth parities exchanged.",
+  "new": "Round's podal carries an odd momentary to an odd and an even to an even, with its other order, opening to completing, momentary of 8 and 9 to itself; and round opened with 9, or observed from 16 down, inverts its same parities with one same sequence, and opened with 5 or with 13 it is that sequence with third and fourth parities exchanged.",
+  "verdict": "RESAY",
+  "why": "in the other order: with its other order; at: of, with; the same: its same, one same; in: with"
+ },
+ {
+  "old": "*Adding: a round's podal, each momentary to one of its own kind in its other order; a round at itself at its observings.*",
+  "new": "*Adding: a round's podal, each momentary to one of its own kind with its other order; a round itself again with its observings.*",
+  "verdict": "RESAY",
+  "why": "Adding items re-said by meaning; in: with; at itself: itself again, as its step says"
+ },
+ {
+  "old": "## 37 A self's next, one momentary at a time",
+  "new": "## 37 A self's next, one momentary at a time",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "At resolver a self at a prior parity is next at that parity inverted, shared at 10, at each of six cells of Exhibit ONE's table of one self at one momentary: none surfacing, the other parity surfacing, and + and − together, each at + and at −, step 212.",
+  "new": "With resolver a self with a prior parity is next that parity inverted, shared with 10, with each of six cells of Exhibit ONE's table of one self with one momentary: none surfacing, its other parity surfacing, and + and − together, each with + and with −, step 212.",
+  "verdict": "RESAY",
+  "why": "at: with, or removed by meaning; the other parity: its other parity"
+ },
+ {
+  "old": "At its own parity surfacing, two cells, 0 is shared and its prior is kept.",
+  "new": "With its own parity surfacing, two cells, 0 is shared and its prior is same-existing.",
+  "verdict": "RESAY",
+  "why": "at: with; kept: same-existing, as its prior kept becomes its prior same-existing"
+ },
+ {
+  "old": "Inverting is self's own, at 12.",
+  "new": "Inverting is a self's own, with 12.",
+  "verdict": "RESAY",
+  "why": "at: with, as, or by meaning"
+ },
+ {
+  "old": "*Adding: a self at a prior parity next at that parity inverted, or keeping it at its own parity surfacing.*",
+  "new": "*Adding: a self with a prior parity next that parity inverted, or same-existing with its own parity surfacing.*",
+  "verdict": "RESAY",
+  "why": "Adding items re-said by meaning; at: with; keeping a parity: same-existing"
+ },
+ {
+  "old": "At one parity surfacing a self at a prior parity is next at that parity, at each of four cells, its prior kept at two alike and inverted at two of the other parity; at two cells of a sharing at no prior its parity is next prior as it arrives, sharing opening, Exhibit ONE's table.",
+  "new": "With one parity surfacing a self with a prior parity is next that parity, with each of four cells, its prior same-existing with two alike and inverted with two of its other parity; with two cells of a sharing with no prior its parity is next prior as it arrives, sharing opening, Exhibit ONE's table.",
+  "verdict": "RESAY",
+  "why": "at: with; kept: same-existing; the other parity: its other parity"
+ },
+ {
+  "old": "From a self's sharing or releasing, parity surfacing is parity that self shared one momentary prior, its next prior, step 209, step 607 its case at two selves: parity a self shares, its next prior, is next prior of a receiving self at a prior parity, at one momentary my prior your next existing.",
+  "new": "From a self's sharing or going along, parity surfacing is parity that self shared one momentary prior, its next prior, step 209, step 607 its case with two selves: parity a self shares, its next prior, is next prior of a receiving self with a prior parity, with one momentary my prior your next existing.",
+  "verdict": "RESAY",
+  "why": "releasing: going along, parity along 9; at: with; my prior your next existing kept as a phrase"
+ },
+ {
+  "old": "A parity offered from beyond selves, step 213, is no self's prior.",
+  "new": "A parity offered from no self, step 213, is no self's prior.",
+  "verdict": "RESAY",
+  "why": "beyond: re-said by meaning, from no self"
+ },
+ {
+  "old": "*Adding: one parity surfacing a self's next at four cells; a parity shared the receiving self's next.*",
+  "new": "*Adding: one parity surfacing a self's next with four cells; a parity shared a receiving self's next.*",
+  "verdict": "RESAY",
+  "why": "Adding items re-said by meaning; at: with; the: a"
+ },
+ {
+  "old": "A sharing at no prior opens at one parity surfacing, that parity shared and next prior as it arrives, at two cells of Exhibit ONE's table at no prior; at none surfacing none is shared, and at + and − together 0, and no next prior opens, two cells, step 212.",
+  "new": "A sharing with no prior opens with one parity surfacing, that parity shared and next prior as it arrives, with two cells of Exhibit ONE's table of no prior; with none surfacing none is shared, and with + and − together 0, and no next prior opens, two cells, step 212.",
+  "verdict": "RESAY",
+  "why": "at: with, as, or by meaning"
+ },
+ {
+  "old": "*Adding: a sharing at no prior opening at one parity surfacing.*",
+  "new": "*Adding: a sharing with no prior opening with one parity surfacing.*",
+  "verdict": "RESAY",
+  "why": "Adding item re-said by meaning; at: with"
+ },
+ {
+  "old": "At a spiral offered nothing from beyond it, each self at a parity and nothing arriving at its first momentary, step 609: at first momentary none surfaces and each self is next at its parity inverted, shared at 10, step 623; at the second each is next at parity surfacing, parity of a self releasing along to it at that momentary, step 624.",
+  "new": "With a spiral offered nothing from selves not its own, each self with a parity and nothing arriving with its first momentary, step 609: with first momentary none surfaces and each self is next its parity inverted, shared with 10, step 623; with its second each is next parity surfacing, parity of a self going along to it with that momentary, step 624.",
+  "verdict": "RESAY",
+  "why": "beyond it: from selves not its own; at: with; the second: its second; releasing along: going along"
+ },
+ {
+  "old": "Each further momentary is at step 623 at each self.",
+  "new": "Each further momentary is step 623 with each self.",
+  "verdict": "RESAY",
+  "why": "at: with, as, or by meaning"
+ },
+ {
+  "old": "A prior an other's and inverted, step 609, is these two momentaries: an inverting at the first and an other's arriving at the second.",
+  "new": "A prior an other's and inverted, step 609, is these two momentaries: an inverting with its first and an other's arriving with its second.",
+  "verdict": "RESAY",
+  "why": "at: with; the: its"
+ },
+ {
+  "old": "A self at a prior parity and offered that parity from beyond at its first momentary shares 0, step 623.",
+  "new": "A self with a prior parity, offered that parity from no self with its first momentary, shares 0, step 623.",
+  "verdict": "RESAY",
+  "why": "at: with; beyond: from no self, by meaning"
+ },
+ {
+  "old": "A second self at a parity, receiving from it and offered nothing from beyond, has none surfacing at its first two momentaries, a 0 offered surfacing none, step 223, inverts at each, and is at its own first parity at its third.",
+  "new": "A second self with a parity, receiving from it and from no other self, has none surfacing with its first two momentaries, a 0 offered surfacing none, step 223, inverts with each, and is its own first parity again with its third.",
+  "verdict": "RESAY",
+  "why": "at: with, or by meaning; offered nothing from beyond: receiving from no other self, by meaning"
+ },
+ {
+  "old": "Step 609 is of a spiral offered nothing from beyond it.",
+  "new": "Step 609 is of a spiral offered nothing from selves not its own.",
+  "verdict": "RESAY",
+  "why": "beyond it: from selves not its own"
+ },
+ {
+  "old": "*Adding: a self offered its own parity from beyond, a self receiving from it inverting twice.*",
+  "new": "*Adding: a self offered its own parity from no self, a self receiving from it inverting twice.*",
+  "verdict": "RESAY",
+  "why": "Adding items re-said by meaning; beyond: from no self"
+ },
+ {
+  "old": "## 38 At no prior, + and − observed alike, an odd spiral's like pair, spirals crossed, an even torus and names at resolver",
+  "new": "## 38 At no prior, + and − observed alike, an odd spiral's like pair, spirals crossed, an even torus and names at resolver",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "Exhibit ONE's table at no prior is a sharing at no prior at its four cells, steps 394 and 625: one parity surfacing, parity shared and next prior as it arrives, sharing opening; none surfacing, none shared; + and − together, 0 shared; and no next prior at each of three.",
+  "new": "Exhibit ONE's table of no prior is a sharing with no prior with its four cells, steps 394 and 625: one parity surfacing, parity shared and next prior as it arrives, sharing opening; none surfacing, none shared; + and − together, 0 shared; and no next prior with each of three.",
+  "verdict": "RESAY",
+  "why": "at: with, as, or by meaning"
+ },
+ {
+  "old": "*Adding: Exhibit ONE's table at no prior, its four cells.*",
+  "new": "*Adding: Exhibit ONE's table of no prior, its four cells.*",
+  "verdict": "RESAY",
+  "why": "Adding item re-said by meaning; at: of"
+ },
+ {
+  "old": "Resolver observes + and − alike, at each prior parity or none: an opening with each + a − and each − a + gives each parity shared and each next prior inverted, each 0 and each none as it was, and each number of momentaries as it was.",
+  "new": "+ and − are observed alike with resolver's executing, with each prior parity or none: with an opening of each + a − and each − a +, each parity shared and each next prior is inverted, each 0 and each none as it was, and each number of momentaries as it was.",
+  "verdict": "RESAY",
+  "why": "doers: resolver observing and an opening giving re-said as observing and executing itself; at: with"
+ },
+ {
+  "old": "Exhibit ONE's tables of one self momentary by momentary, a spiral, two spirals and a torus open a self at prior −; its table of two selves opens first self at +, and its table of three in a line second and third at +.",
+  "new": "Exhibit ONE's tables of one self momentary by momentary, a spiral, two spirals and a torus open with a self of prior −; its table of two selves opens with first self +, and its table of three as a line with second and third +.",
+  "verdict": "RESAY",
+  "why": "at: of, or removed by meaning; in a line: as a line; doers: tables opening with, by meaning"
+ },
+ {
+  "old": "*Adding: + and − observed alike, an opening inverted the same numbers.*",
+  "new": "*Adding: + and − observed alike, an opening inverted with its numbers alike.*",
+  "verdict": "RESAY",
+  "why": "Adding item re-said by meaning; the same: alike"
+ },
+ {
+  "old": "At a spiral of an odd number of selves offered nothing from beyond it, step 233, each pattern of parities carries a like pair, a self alike with a self it receives from, one pair or more; at each even momentary a receiving self of each like pair, pattern as carried at that momentary, shares 0 at 10, and each other self is at a changing; at each odd momentary each self is at a changing, step 233.",
+  "new": "With a spiral of an odd number of selves offered nothing from selves not its own, step 233, each pattern of parities carries a like pair, a self alike with a self it receives from, one pair or more; with each even momentary a receiving self of each like pair, pattern as carried with that momentary, shares 0 with 10, and each other self is parity-changing; with each odd momentary each self is parity-changing, step 233.",
+  "verdict": "RESAY",
+  "why": "at: with; beyond it: from selves not its own; a changing: parity-changing, a self's parity is not same-existing"
+ },
+ {
+  "old": "*Adding: an odd spiral's like pair, a 0 at each even momentary.*",
+  "new": "*Adding: an odd spiral's like pair, a 0 with each even momentary.*",
+  "verdict": "RESAY",
+  "why": "Adding item re-said by meaning; at: with"
+ },
+ {
+  "old": "Two spirals crossed at one self of each, both ways, step 237, come to each self's releasings again at 2 from a momentary on, two crossing selves opposite from it on, at each of eight rows of Exhibit ONE's table.",
+  "new": "Two spirals crossed with one self of each, both ways, step 237, come to each self's goings along again after 2 from a momentary on, two crossing selves opposite from it on, with each of eight rows of Exhibit ONE's table.",
+  "verdict": "RESAY",
+  "why": "releasings: goings along, parity along 9; at: with, after"
+ },
+ {
+  "old": "*Adding: two spirals crossed, each self's releasings again at 2.*",
+  "new": "*Adding: two spirals crossed, each self's goings along again after 2.*",
+  "verdict": "RESAY",
+  "why": "Adding item re-said by meaning; releasings: goings along; at: after"
+ },
+ {
+  "old": "*Unsure: a momentary from which releasings come again at 2: 7, 12, 20, 28, 44, 52, 119 and 36 at eight rows, observed at Exhibit ONE's table; four times the smaller number at six rows, and no rule worked.*",
+  "new": "*Unsure: a momentary from which goings along come again after 2: 7, 12, 20, 28, 44, 52, 119 and 36 with eight rows, observed with Exhibit ONE's table; four times its smaller number with six rows, and no rule worked.*",
+  "verdict": "RESAY",
+  "why": "releasings: goings along; at: with, after; the: its"
+ },
+ {
+  "old": "A torus at either number even, each self at a parity alternating along and across, step 243, is at a changing at each self at each momentary and comes to its parities again at 2: at first momentary none surfaces, and at each further the two arriving are alike at a self's parity inverted, or + and − together, step 623.",
+  "new": "A torus with either number even, each self with a parity alternating along and across, step 243, is parity-changing with each self with each momentary and comes to its parities again after 2: with first momentary none surfaces, and with each further its two arriving are alike as a self's parity inverted, or + and − together, step 623.",
+  "verdict": "RESAY",
+  "why": "at: with, after, as; a changing: parity-changing; the: its"
+ },
+ {
+  "old": "*Adding: a torus at either number even, at 2.*",
+  "new": "*Adding: a torus with either number even, again after 2.*",
+  "verdict": "RESAY",
+  "why": "Adding item re-said by meaning; at: with, again after, as its step says"
+ },
+ {
+  "old": "13-next-same-existing at resolver is each releasing sharing, a self's 6, 10 or 9 going to 2, 14 or 17, and at a society each self, Exhibit ONE's row of 13.",
+  "new": "13-next-same-existing with resolver is each sharing parity-offerings go from, a self's 6, 10 or 9 going to 2, 14 or 17, and with a same-existing-society each self, Exhibit ONE's row of 13.",
+  "verdict": "RESAY",
+  "why": "releasing sharing: each sharing parity-offerings go from, as Exhibit ONE's row of 13 says; at: with; society: same-existing-society"
+ },
+ {
+  "old": "*Adding: 13 at resolver.*",
+  "new": "*Adding: 13 with resolver.*",
+  "verdict": "RESAY",
+  "why": "Adding item re-said by meaning; at: with"
+ },
+ {
+  "old": "Four momentaries of exchanging, step 73, are at four relations, Exhibit ONE's table: self and other; self and other to other and self; other and self; other and self to other and social.",
+  "new": "Four momentaries of exchanging, step 73, are four relations, Exhibit ONE's table: self and other; self and other to other and self; other and self; other and self to other and same-existing-society.",
+  "verdict": "RESAY",
+  "why": "at: removed; social, here no concept compound: same-existing-society, as Exhibit ONE's sides with 9 are same-existing-society, other, self"
+ },
+ {
+  "old": "Of two bi-foldings at 1 to 9, step 517, 3-7-2-6 carries two names between selves, 2 and 6, and 4-8-1-5 none; opened, step 520, 3-11-6-14 carries 6 and 14, 2-15-7-10 carries 2 and 10, 1-9-8-16 carries 9, and 4-13-5-12 none; 17 is on no bi-folding, step 257.",
+  "new": "Of two bi-foldings of 1 to 9, step 517, 3-7-2-6 carries two names between selves, 2 and 6, and 4-8-1-5 none; opened, step 520, 3-11-6-14 carries 6 and 14, 2-15-7-10 carries 2 and 10, 1-9-8-16 carries 9, and 4-13-5-12 none; 17 is on no bi-folding, step 257.",
+  "verdict": "RESAY",
+  "why": "at: of"
+ },
+ {
+  "old": "Co at resolver, Natural Naming 3.2: co is at a sharing between two and its absence at one, and between selves a sharing side is co and an arriving side none, 6 to 2, 10 to 14 and 9 to 17;",
+  "new": "Co with resolver, Natural Naming 3.2: co is of a sharing between two and its absence of one, and between selves a sharing side is co and an arriving side none, 6 to 2, 10 to 14 and 9 to 17;",
+  "verdict": "RESAY",
+  "why": "at: with, of, as Exhibit ONE says between two or of one; first half of one sentence over 400 characters"
+ },
+ {
+  "old": "and odd names are at four pairs 8 apart, 3 prior received and 11 next prior, 5 receiving sharing and 13 releasing one, 7 parity prioring and 15 parity surfaced, and 1 resolver entered and 9 changing released along.",
+  "new": "and odd names are four pairs 8 apart, 3 prior received and 11 next prior, 5 receiving sharing and 13 a sharing parity-offerings go from, 7 parity observing and 15 parity surfaced, and 1 resolver entered and 9 parity-offering going along.",
+  "verdict": "RESAY",
+  "why": "at: removed; prioring: observing; releasing one: a sharing parity-offerings go from, Exhibit ONE's 13; changing released along: parity-offering going along, 9"
+ },
+ {
+  "old": "*Adding: co at resolver, a sharing side and an arriving side; odd names 8 apart.*",
+  "new": "*Adding: co with resolver, a sharing side and an arriving side; odd names 8 apart.*",
+  "verdict": "RESAY",
+  "why": "Adding items re-said by meaning; at: with"
+ },
+ {
+  "old": "## 39 Fixed unchangeable at both sides, a bounded executing, bi-foldings' momentaries, 9 and 17, prior two added and co-sequencing",
+  "new": "## 39 Fixed unchangeable at both sides, a bounded executing, bi-foldings' momentaries, 9 and 17, prior two added and co-sequencing",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "7 and 5 each carry two of ten unchangeables, step 522: 7 a parity fixed as a magnitude and a rate fixed as a value, 5 a between fixed as a cut and a middle fixed as an end; the two are carried one at a time, step 528.",
+  "new": "7 and 5 each carry two of ten unchangeables, step 522: 7 a parity fixed as a magnitude and a rate fixed as a value, 5 a between fixed as a cut and a middle fixed as an end; these two are carried one at a time, step 528.",
+  "verdict": "RESAY",
+  "why": "the: these; one at a time kept"
+ },
+ {
+  "old": "*Adding: 7 and 5, two fixed unchangeable at each.*",
+  "new": "*Adding: 7 and 5, two fixed unchangeable with each.*",
+  "verdict": "RESAY",
+  "why": "Adding item re-said by meaning; at: with"
+ },
+ {
+  "old": "A sentence drawn from resolver's executing at a number of momentaries, fixed as the same at each momentary, is a proof of the whole, step 143, a form still, step 144: finding is at its executing, step 579, and a rule fitted at each case worked is at those cases.",
+  "new": "A sentence drawn from resolver's executing with a number of momentaries, fixed as same with each momentary, is a proof of its whole, step 143, a form still, step 144: finding is its executing, step 579, and a rule fitted with each case worked is of those cases and no wider.",
+  "verdict": "RESAY",
+  "why": "at: with, of, or removed; the same: same; the whole: its whole"
+ },
+ {
+  "old": "*Adding: a bounded executing fixed at each momentary, a proof of the whole.*",
+  "new": "*Adding: a bounded executing fixed with each momentary, a proof of its whole.*",
+  "verdict": "RESAY",
+  "why": "Adding items re-said by meaning; at: with; the: its"
+ },
+ {
+  "old": "Four bi-foldings' names go, in order, now, next, now and next at each, 1-9-8-16, 2-15-7-10, 3-11-6-14 and 4-13-5-12, each move, 8 up or 17 less, crossing between a self's span and a society's, step 257, each name's momentary at Exhibit ONE's table of seventeen names.",
+  "new": "Four bi-foldings' names go, in sequence, now, next, now and next with each, 1-9-8-16, 2-15-7-10, 3-11-6-14 and 4-13-5-12, each move, 8 up or 17 less, crossing between a self's span and a same-existing-society's, step 257, each name's momentary with Exhibit ONE's table of seventeen names.",
+  "verdict": "RESAY",
+  "why": "in order: in sequence; at: with; society: same-existing-society"
+ },
+ {
+  "old": "*Adding: four bi-foldings' momentaries in order.*",
+  "new": "*Adding: four bi-foldings' momentaries in sequence.*",
+  "verdict": "RESAY",
+  "why": "Adding item re-said by meaning; in order: in sequence"
+ },
+ {
+  "old": "9 is next prior, step 75, and 17 next now, a society's next momentary, step 225, Natural Naming's own sentence.",
+  "new": "9 is next prior, step 75, and 17 next now, a same-existing-society's next momentary, step 225, Natural Naming's own sentence.",
+  "verdict": "RESAY",
+  "why": "society: same-existing-society"
+ },
+ {
+  "old": "At parity the prior two added, step 120, is odd at two parting and even at two alike, an exclusive or of step 616: odd and odd, odd and even, even and odd are its cycle of three, and even and even is at itself, step 56.",
+  "new": "With parity, prior two added, step 120, is odd with two parting and even with two alike, an exclusive or of step 616: odd and odd, odd and even, even and odd are its cycle of three, and even and even is itself again, step 56.",
+  "verdict": "RESAY",
+  "why": "at: with; the: removed; at itself: itself again"
+ },
+ {
+  "old": "In Exhibit ONE's co-sequencing each odd name within one self is at competency's parity and each even at morality's, step 252, and 1 is self offering itself to coupling.",
+  "new": "With Exhibit ONE's co-sequencing each odd name within one self is of competency's parity and each even of morality's, step 252, and 1 is self offering itself to coupling.",
+  "verdict": "RESAY",
+  "why": "in: with; at: of"
+ },
+ {
+  "old": "*Adding: co-sequencing at competency's parity and morality's.*",
+  "new": "*Adding: co-sequencing of competency's parity and morality's.*",
+  "verdict": "RESAY",
+  "why": "Adding item re-said by meaning; at: of"
+ },
+ {
+  "old": "## 40 An odd spiral two rounds, the second inverted, and a changing at both routings",
+  "new": "## 40 An odd spiral two rounds, the second inverted, and a changing at both routings",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "Once along an odd spiral, at twice its number of momentaries, each self's parity arrives inverted, and twice along, at four times, as it was, steps 231 and 233: an odd spiral is two rounds of its selves, its second its first inverted.",
+  "new": "Once along an odd spiral, after twice its number of momentaries, each self's parity arrives inverted, and twice along, after four times, as it was, steps 231 and 233: an odd spiral is two rounds of its selves, its second its first inverted.",
+  "verdict": "RESAY",
+  "why": "at: after"
+ },
+ {
+  "old": "An even spiral arrives as it was at one round, and opened alternating at each second momentary, step 232.",
+  "new": "An even spiral arrives as it was after one round, and, opened alternating, after each second momentary, step 232.",
+  "verdict": "RESAY",
+  "why": "at: after"
+ },
+ {
+  "old": "*Adding: an odd spiral two rounds, the second the first inverted.*",
+  "new": "*Adding: an odd spiral two rounds, its second its first inverted.*",
+  "verdict": "RESAY",
+  "why": "Adding item re-said by meaning; the: its"
+ },
+ {
+  "old": "At resolver each changing of a self coupled across and along goes both routings at once: 17 gives one changing of 10 on at 6 and 10 across and at 9 along, each at its coupling, step 239, and at a torus of selves each self releases along and shares across, step 243; at a spiral a changing is released along.",
+  "new": "With resolver each parity-offering of a self coupled across and along goes both routings together: with 17 one parity-offering of 10 goes on with 6 and 10 across and with 9 along, each with its coupling, step 239, and with a torus of selves each self goes along and shares across, step 243; with a spiral a parity-offering goes along.",
+  "verdict": "RESAY",
+  "why": "changing going across or along to an other: parity-offering; at once: together; at: with; releases, released along: goes along; doer: 17 giving re-said"
+ },
+ {
+  "old": "A routing at odd momentaries or at even, each at its own opening, is at no line of resolver.",
+  "new": "A routing with odd momentaries or with even, each with its own opening, is no line of resolver.",
+  "verdict": "RESAY",
+  "why": "at: with, as, or by meaning"
+ },
+ {
+  "old": "*Adding: each changing of a self coupled both ways at both routings at once.*",
+  "new": "*Adding: each parity-offering of a self coupled both ways going both routings together.*",
+  "verdict": "RESAY",
+  "why": "Adding item re-said by meaning; changing: parity-offering; at once: together"
+ },
+ {
+  "old": "Torusing and corusing are dimensions' in and out, torusing at odd and corusing at even, steps 118 and 119, and no resolver name is at either: names are at their numbers and their kinds, steps 193 and 251, and natural torusing is method's one name, step 114.",
+  "new": "Torusing and corusing are dimensions' inward and outward, torusing odd and corusing even, steps 118 and 119, and no resolver name is either: names are their numbers and their kinds, steps 193 and 251, and natural torusing is method's one name, step 114.",
+  "verdict": "RESAY",
+  "why": "in and out: inward and outward, kept phrases; at: removed by meaning"
+ },
+ {
+  "old": "*Adding: torusing and corusing at dimensions, at no name.*",
+  "new": "*Adding: torusing and corusing of dimensions, of no name.*",
+  "verdict": "RESAY",
+  "why": "Adding items re-said by meaning; at: of"
+ }
+]
