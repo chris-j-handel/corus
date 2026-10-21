@@ -14,7 +14,7 @@ You are a reader in a do-no-harm improving pass on one range of one living file.
   - *Co-releasing* is 9-next-co-discovering, so it becomes *co-discovering*.
   - *Nothing is a between* stays.
   - Each self carries two prior selves from inception, and that carrying is biology and human pro-creation. A robot is no self, so a built, robot or machine set is a non-living set, an emanation of living selves.
-  - Conception is one universal method: twin inversioning into bothbothing full parity of self and other. Humans, seeds and atoms are each a newly-existing self within the method.
+  - Conception is one universal method: twin inversioning into bothbothing full parity of self and other. Humans, seeds and atoms are each a newly-existing self within the method. An electron is a nothing ghost, a field label over arrivals, no self.
 - **Living and selves:**
   - Living is prior. Each self is given, never made, and each self has a prior self.
   - A prior in stable form is non-living, an emanation from living form-stabling.
