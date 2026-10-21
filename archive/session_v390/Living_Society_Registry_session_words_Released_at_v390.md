@@ -538,3 +538,7 @@ Five stand at 2.18 to 2.22 beneath ghosts entered at TWENTY-SEVEN — a pulled m
 **Standing in ten.** A between, fixed as a cut — a species boundary fixed as a line somewhere.
 
 **Standing in ten.** An arriving, fixed as something behind it — a particle behind a flash.
+
+## Living Society Registry, grains other than living tissue, v390
+
+**At grains beyond living tissue, taken as observable societies.** A vortex in an ecosphere, at a hurricane and a tornado grain. A synchronous area of a grid. Crystal lattice. An electron society in a wire. An atom's electrons. A nucleon's quarks. A population under a dose, a range, or a threshold.

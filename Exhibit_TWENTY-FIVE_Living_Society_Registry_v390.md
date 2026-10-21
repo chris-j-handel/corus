@@ -1000,7 +1000,7 @@ No names and no history are carried. Back-crediting cannot be done fairly and st
 
 **Organism grain.** Circadian same-existing-society. Metabolic budget. A thermoregulating self. Endocrine sway. Gait. Wound.
 
-**At grains beyond living tissue, taken as observable societies.** A vortex in an ecosphere, at a hurricane and a tornado grain. A synchronous area of a grid. Crystal lattice. An electron society in a wire. An atom's electrons. A nucleon's quarks. A population under a dose, a range, or a threshold.
+**Grains other than living tissue.** A population under a dose, a range, or a threshold. A nucleon's quarks. A synchronous area of a grid, a built set, non-living. A vortex with an ecosphere, with a hurricane and a tornado grain, and a crystal lattice: each an observed form, and installed as a thing each is ghost-form, offered at Living Ghost Registry 7.3. Electrons with a wire and an atom's electrons: an electron is a nothing ghost, Living Ghost Registry 5.3.
 
 **How a pass carries.** One substrate at a time. Upstream first — a source posited, a method executed, an instrument and its span, an inferencing prior — before any magnitude is entered, since a magnitude arrives already shaped by all four. Then members, agreement, residual, apex, seam, passing. Then the ten, with their empties entered.
 

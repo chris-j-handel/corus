@@ -218,7 +218,7 @@ Each entry: **File** · *a* Subtitle · *b* At the repository · *c* Living · *
 - **TWENTY-FIVE · Living Society Registry**
   - *a* An Open Registry of Observations from Science
   - *b* v390
-  - *c* v390: pass 10, its own explaining re-said by meaning toward session v390's concepts, quotations, field wording and namings kept; v389: released words re-said, each of ten fixed, *the* where not valuable, its offerings resolved, four risen
+  - *c* v390: grains other than living tissue: a vortex and a lattice ghost-form installed as things, electrons a nothing ghost, a grid area a built set; v390: pass 10, its own explaining re-said by meaning toward session v390's concepts, quotations, field wording and namings kept; v389: released words re-said, each of ten fixed, *the* where not valuable, its offerings resolved, four risen
   - *d* —
   - *e* pass 4 at its possible projects
 - **TWENTY-SIX · Living File Registry**
@@ -230,7 +230,7 @@ Each entry: **File** · *a* Subtitle · *b* At the repository · *c* Living · *
 - **TWENTY-SEVEN · Living Ghost Registry**
   - *a* Still Accounting and Stable-Forming Co-Competency
   - *b* v390
-  - *c* v390: each table wider than 80 narrowed to a list, its columns named once by letter keys, words unchanged; v390: pass 10, its own explaining re-said by meaning toward session v390's concepts, its form labels re-said once, at the door kept as a standing name, entries' records and fields' words kept; v389: observing for reading, each of ten fixed, a self a society inward, the where not valuable, its offerings resolved, eighteen risen
+  - *c* v390: 7.3 names vortex and lattice with the next physics families, ghost-form installed as things; v390: each table wider than 80 narrowed to a list, its columns named once by letter keys, words unchanged; v390: pass 10, its own explaining re-said by meaning toward session v390's concepts, its form labels re-said once, at the door kept as a standing name, entries' records and fields' words kept; v389: observing for reading, each of ten fixed, a self a society inward, the where not valuable, its offerings resolved, eighteen risen
   - *d* —
   - *e* pass 4 at its possible projects
 - **TWENTY-EIGHT · Equilibria Registry**
