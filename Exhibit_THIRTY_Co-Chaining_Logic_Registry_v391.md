@@ -115,7 +115,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
 ## 3 A living set, a self
 
-        *Entering: a living set, a self; non-living; the universe a living set; living and non-living things.*
+        *Entering: a living set, a self; non-living; the universe non-living; living and non-living things.*
 
 13. A set observing, possibling and discovering its own next-existing is a self: a living set.
 
@@ -125,9 +125,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: non-living.*
 
-15. The universe, its selves possibling and discovering its own next-existing, is a living set.
+15. The universe is non-living, its selves possibling and discovering their own next-existing.
 
-        *Adding: the universe a living set.*
+        *Adding: the universe non-living.*
 
 16. Within the universe are living and non-living things.
 

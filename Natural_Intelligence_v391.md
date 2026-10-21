@@ -20,7 +20,7 @@ For a self, the universe is self, other, and all not self or other.
 
 A set observing, possibling and discovering its own next-existing is a self: a living set. \
 A set not possibling its own next-existing is non-living, is or is not continuing as a same-existing thing. \
-The universe, its selves possibling and discovering its own next-existing, is a living set. \
+The universe is non-living, its selves possibling and discovering their own next-existing. \
 Within the universe are living and non-living things.
 
 A bi-coupling is a self and an other self sharing now-existing. \
