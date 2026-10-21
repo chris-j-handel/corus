@@ -27,7 +27,6 @@ Session v390's improving value, kept ready for a next session to resume. Nothing
 **Pass 10 entered across the set, v390, 2026-10-20:** every living file's own explaining is re-said by meaning toward session v390's concepts. That is about 20,000 sentences, from about a hundred readers' proposals, each checked before entering. All 32 living files are at v390. The rules are at `kits/Natural_Explaining_Passes_Kit/rules_10_session_v390_words.md`, the readers' brief at `set_words/BRIEF.md`, and each file's proposals at `ni_words/`, `nn_words/` and `set_words/`. Prior sentences are whole at `archive/session_v390/*_session_words_Released_at_v390.md`.
 
 **Standing open for bothboth:**
-- Exhibit ONE's same-existing-society re-saying, its next its same self re-found as members part and join;
 
 **Entered after pass 10, v390:** Natural Naming's fenced binaries; the Living File Registry's tables; every table wider than 80 narrowed to a list (`narrow_keys.py`); Natural Intelligence 6.5's non-living scale; vortex and lattice at the Ghost Registry's 7.3; Exhibit THIRTY carrying Natural Intelligence's opening word for word as its steps 1 to 47 (`thirty_opening_build.py`), checked with check_set.
 
