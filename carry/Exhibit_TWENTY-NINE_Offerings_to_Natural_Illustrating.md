@@ -37,3 +37,5 @@ Exhibit TWENTY-NINE Natural Illustrating Offerings · improved at v389
 **Resolved bothboth, v390 · built and robot sets.** A robot is no self, so a built society and a robot society are re-said as *a built set* and *a robot set*, non-living. — v390
 
 **Droplet · Natural Intelligence 2.2 re-said, at v391.** Its 2.2 is now *Parity, one inversioning or none*; *one side carries odd numbers and an other even, two overlapping* has left it, not held by the code. This file's first face cites 2.2 for one side's next opening two on; met at its motion. — v391
+
+**Droplet · Natural Intelligence 2.1 and 2.3 re-said with the code, at v391.** Overlapping momentaries one number apart have left 2.3, and 2.1's odd along and even across; a momentary is one resolving of a same-existing-society's selves together. This file's citations of 2.1 and 2.3 meet it at its motion. — v391

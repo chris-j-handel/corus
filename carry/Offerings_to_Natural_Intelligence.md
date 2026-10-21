@@ -903,6 +903,18 @@ Offered for 2.2's opening: ***A parity is one inversioning or none with each mom
 
 Each treats a name's number's odd or even as parity, where the code's parity is one inversioning or none. The same claims stand in 2.1, 2.3 and 3.2, the next concerns of step 5. Prior at `archive/session_v391/prior_to_2_2_parity/`. — v391
 
+**Entered · 2.1 and 2.3 with the code, at v391.**
+- **2.1.** Along is a self's own going on. Across is sharing now with an other. With resolver a self shares its parities by three names, each to the self it couples with by that name and observed with that self's 14: across with 6 and 10, along with 9.
+- **2.3.** A momentary is one resolving of a same-existing-society's selves together: opening with each self's 1, 3 and 2, completing with 17, each self's next prior, 8, and its next 14. The three conditions are said with the code: each self resolving, one next for each prior and now, each next a next momentary's prior and now.
+
+**Left, not held by the code**, laid whole:
+- 2.1's *one momentary and then a next, odd* and *an overlap, one number apart, even*; *Odd and even come with along and across*.
+- 2.3's *A momentarying opens odd and completes even …*, an other's momentarying numbered one on, each side's momentary opening where an other's completes, two sides one half-momentarying overlapping.
+- 2.3's *Each side carries its five from its origin …* with the table of fives, ten positions on six numbers.
+- 2.3's *Each of four binaries is its *is*, odd, and its *is not*, even …*.
+
+Each sets a self and an other as two number lines, odd and even, overlapping one number apart. The code has selves, each its own prior, and sharings. Priors at `archive/session_v391/prior_to_2_1_2_3/`. Natural Physics cites 2.1 for *a self's, opening odd, and an other's, opening even*, and Natural Illustrating cites 2.3 for a between of momentaries drawn on a shared position: each met at its motion. — v391
+
 ### Bolds, the third telling
 
 **Concern · the opening carries no bold, and the bolds are claims.** 1.1's 47 lines carry no bold, so a reader of bolds misses origin, observing, self, bi-coupling, the third living self, parity and 0, and opens with 1.2's *Now is one*. From 1.2 on, 291 bolds carry about a fifth of the prose's words, most of them whole claims, a 50-word bold in 5.1 among them; Natural Explaining 2.4 makes a bold *a carrying there*, *a coining with a paragraph coining*, and concentrations of bold learning centres. Read alone, 1.2 to 6.6's bolds give a telling that does not co-chain: *Now is one* to *One is now* to *three sequential universes*. **To resolve:** bold each opening line that coins its concept, ***The universe is the set of all now-existing things.***, ***Observing is distinguishing same-as, is or is not.***, and in each later section bold its coinings, so the bold telling alone walks the set. — v391, counted

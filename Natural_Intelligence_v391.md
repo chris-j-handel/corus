@@ -155,7 +155,7 @@ A same-existing-society of selves, each with its own natural intelligence same-e
 
 ## 2.1 Along and across, two and a between
 
-**Prior, now and next of one self is along**: its own continuing, one momentary and then a next, odd. **One now shared between two selves is across**: an overlap, one number apart, even. **Two is a sharing**, two sides sharing one now; **nothing is a between**, 0, a sharing's centre, no thing and no location. One, two and nothing are now's, sharing and between, and nothing is brought to them: one is now; two is a sharing; a between is a nothing a sharing is about. Odd and even come with along and across, and changing is one of two and then the other, one way at a time.
+**Along is a self's own going on**: its prior same-existing with its next, one momentary and then a next. **Across is sharing now with an other.** With resolver a self shares its parities by three names, each to the self it couples with by that name, observing them with its 14-next-possibling: across with 6-now-co-possibling and 10-next-co-possibling, and along with 9-next-co-discovering. **Two is a sharing**, two sides sharing one now; **nothing is a between**, 0, a sharing's centre, no thing and no location. One, two and nothing are now's, sharing and between, and nothing is brought to them: one is now; two is a sharing; a between is a nothing a sharing is about. Changing is one direction or the other, one way at a time.
 
 ## 2.2 Parity, one inversioning or none
 
@@ -171,17 +171,11 @@ A same-existing-society of selves, each with its own natural intelligence same-e
 
 ## 2.3 A momentary, an opening and its completing
 
-**A momentarying opens odd and completes even**: odd to even is within one momentarying, and even to odd is between two momentaryings, each between discovering, one completing to its next opening, through each momentarying of prior-, now- and next-. An other's momentarying, numbered one on, opens with a self's completing, so a self's even to odd, between its momentaryings, is that other's own odd to even, within its momentarying. Each completes with its next overlapping momentary's opening. **Two sides are one half-momentarying overlapping**, one number apart, up or down forward: one side's same-existing betweens and an other's prior, now and next changings bi-co-sequencing each other. **Each even is a betweening, across; each odd is changing or not-changing, along**: odd goes on by two in its own forward direction, up or down, or is not-changing with its same number, and an odd not-changing is no even's betweening.
+**A momentary is one resolving of a same-existing-society's selves together, opening with each self's prior and completing with its next.** With resolver each self opens with 1-now-existing, its prior with each sharing, 3-now-co-observing, and the parities it is observing, 2-now-possibling; with 17-next-existing it completes, each self's next prior, 8-now-same-existing, and the parities it will be observing, 14-next-possibling, a next momentary's 3 and 2. A self reaches now with its couplings, each self resolving its own and none another's.
 
-A self reaches now with its couplings, where its momentary and another's overlap, one number apart, each side's momentary opening where an other's completes.
-
-**Each momentary is three conditions together, each binary.** Overlapping momentaries reach each number, one completing and a next opening: **exhaustiveness**, all existing things. Each momentary has one next overlapping momentary, opening with a number it completes: **determinacy**. From each momentary its next openings reach each number on: **reachability**. Existing is these three together, inseparably, with each momentary. One side's momentaries, each number one side's, is exclusivity, a form not possibly existing: one side fixed as the universe and an other's momentaries unexpressed.
-
-**Each side carries its five from its origin: prior opening, prior completing, now opening, now completing and next opening**, two momentaries and a next one's opening, 1 to 5 with a self and 2 to 6 with an other, as Exhibit ONE's table of fives, and a number's five is its own now with its next possibling and its next existing up numbers and its two priors down. Across an overlap each number is one side's opening and an other's completing. A self's five and an other's are ten positions on six numbers, paired 1 with 2 through 5 with 6, each pair one odd and one even.
+**Each momentary is three conditions together, each binary.** Each self of a same-existing-society is resolving with each momentary: **exhaustiveness**. Each prior and now has one next: **determinacy**. Each next is a next momentary's prior and now: **reachability**. Existing is these three together, inseparably, with each momentary. A momentary with some selves resolving and others not is exclusivity, a form not possibly existing: some selves fixed as the universe and others' momentaries unexpressed.
 
 **A now-universe of one momentary is one changing co-sequencing.** A momentary is the universe's now-existing things, living and non-living, with their scales, and nothing is beside it. Each step adds a next, each momentary its own and each a new momentary.
-
-**Each of four binaries is its *is*, odd, and its *is not*, even**, eight with now; now and all of one, and existing and same between two; same eight with next, 8 up; and 17-next-existing a next 1-now-existing.
 
 ## 2.4 Next from prior and now
 
