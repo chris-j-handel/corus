@@ -17,9 +17,9 @@ The steps below order that improving: title and subtitle, contents, bolds, the o
 1. **13 and 16 exchange roots,** 13-next-discovering and 16-next-same-existing, so each root's names share one parity, across twelve files, the code resolving identically.
 2. **The opening's three phase lines,** with Exhibit THIRTY's steps 13 to 15: *Observing is prior-existing …*, *Possibling is now-existing …*, *Discovering is next-existing …*, each *is or is not same-existing-as now-existing*.
 3. **Four-cycling named by root, no time,** in Exhibit ONE's tables, Natural Naming's table and the sentences saying a name's step.
+4. **The subtitle, step 1,** *Geodesic Discovering of Next-Possibling-Same-Existing*, at the front, 1.6 and 6.6, with Natural Naming 6.3's gathering and the Living File Registry's entry.
 
 **Bothboth and waiting to enter.**
-- **The subtitle,** *Geodesic Discovering of Next-Possibling-Same-Existing*: step 1 below.
 - ***Binary* stays,** and *binary method* dissolves as the method's naming: step 1.
 - **The code's operation is the all or none,** and explaining and naming improve toward it: each step.
 - **12's coupling,** a single observing's next its parity: step 5, at 2.4.
@@ -34,6 +34,8 @@ The steps below order that improving: title and subtitle, contents, bolds, the o
 - **Dissolving:** *offering*, *arriving*, *disequilibrating*, *third*, *alone* and *+1 owned by neither*, each re-said by meaning at its file's motion.
 
 **Open at the offerings.** The readers' findings, 320 against our method and those across the set, stay as droplets at each file's offerings, met step by step.
+
+**The journey, and re-aiming.** The person named it: a concern's journey is side-effecting, sensing past the plan's order, and its droplets carried back are the returning; re-aiming to the plan is the recursioning, laid at the Geodesic Improving Method's offerings.
 
 **Where the session wandered.** From its seventh exchange on, the session followed one concern at a time into resolver naming and the opening's lines. That brought real learning and three entered improvings, but it left the plan's order. Step 1, the subtitle, is bothboth and not entered, and steps 2 to 11 are not begun. The last concern, the seven *third living self* lines, came with no step to place it.
 
