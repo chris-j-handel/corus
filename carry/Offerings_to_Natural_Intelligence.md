@@ -1613,3 +1613,35 @@ With Exhibit THIRTY, steps 13 to 15 word for word, their Adding lines *observing
 - ***Discovering is next-existing, is or is not same-existing-as now-existing.***
 
 Their Adding lines are *observing, prior with now*, *possibling, within now* and *discovering, next with now*, with group 2's Entering line. Natural Naming 6.3's discovering row and the passes kit's rule 10 are re-said with them. Prior files are whole at `archive/session_v391/prior_to_phase_lines/`. check_set: ALL PASS, the opening word for word at THIRTY; the THIRTY group check passes. Each Living File Registry entry has a v391 cell before its record. — v391, entered
+
+## Met with rigor at v391, a thirteenth round: the four steps, named by time or by root · v391
+
+### The one concern of this pass
+
+**Explaining first.**
+- **Exhibit ONE's names table.** It gives each name a *Step*: 1, 5, 9 and 13 *now*; 2, 6, 10 and 14 *next*; 3, 7, 11 and 15 *prior*; 4, 8, 12 and 16 *same*.
+- **Its four-cycling table.** It heads its columns *Now | Next | Prior | Same*, and says *Now and prior are odd; next and same are even. Next is possibling, prior is observing.*
+- **A carving of v390.** It says *a living self goes them now, next, prior, same … this is the stable-forming bi-folding method*.
+- **Elsewhere.** Natural Naming 3.3's table carries the same steps. *A name's number is its momentary of four and its step of four-cycling, now-existing, next-existing, prior-existing or same-existing* stands in Exhibit ONE, Natural Intelligence, Natural Naming and Natural Numbers, 8 times.
+
+**Two sayings part, entered at v391.** The opening now says *Possibling is now-existing* and *Discovering is next-existing*, as the code runs them.
+- **The second step.** The step named *next*, 2, 6, 10 and 14, is possibling, within now.
+- **The first step.** The step named *now*, 1, 5, 9 and 13, holds the existing names, 1-now-existing and 5-now-co-existing, and the discovering names, 9-next-co-discovering and 13-next-discovering, which face next-existing.
+- **The other two.** *Prior*, observing, and *same*, same-existing, cohere.
+
+So the first two steps' time names part from the code's facing, while the person's *now is now do not try to attach time to this* asks no time of a step at all.
+
+**Why it is the largest.** Each of the seventeen names carries its step, and the step is half of what a name's number says. The v390 carving of the stable-forming bi-folding method is said with them. Every saying of four-cycling across the set follows them.
+
+**Concern.** Either:
+- **steps named by root and facing, no time:**
+  - existing and discovering, 1, 5, 9 and 13, each step's opening, odd, 17 a next 1;
+  - possibling, 2, 6, 10 and 14, within now, even;
+  - observing, 3, 7, 11 and 15, prior-existing, odd;
+  - same-existing, 4, 8, 12 and 16, even.
+
+  Exhibit ONE's and Natural Naming's tables are headed so, *a name's number is its momentary of four and its root*, and the v390 carving is re-said: *a living self goes existing, possibling, observing, same-existing: this is the stable-forming bi-folding method*. *Now* and *next* stay in the names only as their span, 1 to 8 and 9 to 16; or
+- **steps kept as now, next, prior, same,** and their time names re-said to meet the code, *now* the first step's existing given, *next* possibling's next-existing offered; or
+- **another naming** the person suggests.
+
+**Proposed: the first, as rigor's first offering, for the person's suggesting.** It carries one root with each step but the first, whose two roots are existing with a self's span and discovering with the next span. It takes no time to a step, and each name's *now* or *next* stays its span, one sense. — v391
