@@ -544,3 +544,205 @@ TWENTY-SEVEN §5.4 still describes protein arrival as unwritten, although TWENTY
 ## Pass 10, molecular societies re-said after one universal method of conception, its prior whole here
 
 **Molecular societies are living societies.**
+
+## Living File Registry, its non-record tables, v390
+
+| **SIX · Natural Transmissioning** | Complete receiving through common method, Networking, Engineering and sciences; keep cross-substrate comparison connected | When all its value has arrived whole and its remaining incoming is carried at receiving files |
+
+| **FOURTEEN · Natural Destinies** | All content receives in Corus and relevant subject exhibits | When every imaginative expression, particular making and methodological contribution has received |
+
+| **TWENTY-FOUR · Geodesic Improving Method** | Combine within EIGHT; detailed excess receives at its subjects or remains in Living Improving Value | When combined EIGHT and all further receivings carry whole value |
+
+| **FIFTEEN · Natural Emanating** | Whole expressions toward Corus, concepts toward Naming, craft toward Explaining; remaining natural emanating subject still needs comparison | A possible fourth released place, and no whole-file release |
+
+| **Physical, chemical and biological changing** | EIGHTEEN Natural Physics · SIXTEEN Natural Chemistry · SEVENTEEN Natural Biology · TEN Natural Health · ELEVEN Natural Medicine |
+
+| **Self, society and received value** | SEVEN Natural Societies · NINE Natural Human Society · TWENTY-THREE Natural Values · FOURTEEN Natural Destinies · TWO Natural Networking |
+
+| **Exploring and improving the continuing** | EIGHT Natural Exploring · TWENTY-FOUR Geodesic Improving Method · TWENTY-SIX Living File Registry · THIRTY Co-Chaining Logic Registry · Living Improving Value |
+
+| **Societies across prime scales and sciences** | SEVEN Natural Societies · THREE Natural Numbers · FOUR Natural Mathematics · Physics · Chemistry · Biology · Health · Medicine · Human Society · Living Society Registry |
+
+| **Two-way offering** | Resolver, Networking, Societies and Human Society; Physics, Chemistry and Biology at their couplings |
+
+| **Each side's own carrying** | Natural Intelligence, Resolver, Networking and Biology; Philosophy and Explaining at self, other and meaning |
+
+| **Competencing** | Chemistry at catalysis, Biology at folding and forming, Engineering at making, Exploring at discovering, Medicine at restoring |
+
+| **Arriving and continuing** | Natural Intelligence, Exploring, Emanating, Corus, Destinies and Geodesic Improving Method; Chemistry and Biology at re-forming |
+
+| **Continuing at a bound** | Physics, Chemistry, Biology, Health, Medicine, Engineering and Transmissioning; Living Society Registry, Equilibria Registry and Resolving Hard Problems |
+
+| 5 | Atom | Physics, *An atom at two faces*; Chemistry, atoms as societies and their bonding. Numbers carries numerical relation proposed for this placement. |
+
+| 7 | Molecule | Chemistry, bonding, benzene, hydration and reacting; Biology, molecular coupling; Living Society Registry, water molecules coupling at a bond. |
+
+| 13 | Protein-fold | Biology, structural-protein surfaces; Living Society Registry, a protein observed through unfolding; corresponding account at Living Ghost Registry. |
+
+| 19 | Organelle | Biology, eukaryogenesis and cristae within a mitochondrion; Living Society Registry, a mitochondrion observed at its temperature. |
+
+| 29 | Tissue | Biology, structural matrices and morphogenesis; Medicine, tissues, renewal and barriers; Health, living relation at these couplings. |
+
+| 41 | Colony | Biology, multicellularity and symbiosis; Societies' own account of a colony recurring at different scales. A particular human group is compared at its actual relation rather than assigned this prime by its name. |
+
+| 43 | Population | Biology, evolution and generational continuing; Living Society Registry, neighbouring warbler populations. Human Society can reach population relations at its own subjects. |
+
+| 53 | Biosphere | Societies, planetary living and ecological roles; Human Society, biosphere at its planetary relation; Living Society Registry, global carbon budget. A planetary accounting and a biosphere's living remain distinct subjects within that comparison. |
+
+| **Physics ⇌ Chemistry** | Physical surface and chemical bond; across and along at the same matter coupling. |
+
+| **Emanating ⇌ Naming** | A whole form expressed at one bound and one concept unfolding from inception. |
+
+| **Numbers ⇌ Mathematics** | Numbered scaling and mathematical stable-forming, coupling at natural-bi-co-torusing. |
+
+| **Numbers ⇌ Health** | Three-six-nine and omega counting at particular lipid relation; chemical and numerical correspondence remains with that subject. |
+
+| **Philosophy ⇌ Transmissioning** | Dual declared from one side and the same coupling at both sides. |
+
+| **Transmissioning ⇌ Networking** | Crossing and network continuing; arithmetic and structural accounts of private carrying keep their respective explanations. |
+
+| **Physics ⇌ Biology** | Physical and biological sides of the same frontier observing. |
+
+| **Physics ⇌ Networking ⇌ Chemistry** | Drying-liquid rings at their physical, chemical and network comparisons, with actual coupling at each. |
+
+| **Biology ⇌ Numbers ⇌ Networking** | Knitting surface, its numbered relation and its biological and network changing. |
+
+| **Biology ⇌ Health ⇌ Medicine** | One living self reached as observed, lived and restored; stripped total and ingestion kept at their particular subjects. |
+
+| **Biology ⇌ Medicine ⇌ Chemistry** | Lipid divide, ingestion and accounting made at those couplings. |
+
+| **Biology ⇌ Networking** | Living carrying and memory-as-store question at AI comparison. |
+
+| **Biology ⇌ Chemistry** | Gibbs and homochirality at chemical coupling; chemical re-forming coupling with biological continuing. |
+
+| **Explaining ⇌ Natural Intelligence** | Common originating relation and explaining it makes possible; working moves receive at Geodesic Improving Method. |
+
+| **Exploring ⇌ Explaining** | Local coupling and wider surface carried together, gathered at double-double bubble-bubble explaining. |
+
+| **Naming ⇌ Philosophy** | A division supplied by a naming, and philosophical coupling a naming parts; drawing vocabulary at that relation. |
+
+| **Emanating ⇌ Naming** | Glossary and its concept-by-concept receiving in Naming, while whole emanations retain their own telling. |
+
+| **Societies ⇌ Emanating** | Four social sides recurring through whole form expressed at a subject. |
+
+| **Engineering ⇌ Numbers** | Fold-and-turn coprimality, bi-foldings and stabilizer at their numerical and engineered workings. |
+
+| **Physics ⇌ Engineering** | Physical centreline and grid’s floating neutral at particular engineered substrate. |
+
+| **Resolving Hard Problems ⇌ Natural Resolver ⇌ Resolving the Hard Problem Registry** | Ten unchangeables, a coupling’s ten changings, boxes’ five pairs and their resolving; assembled field and its particular fields retain their differing distributions. |
+
+| **Natural Resolver ⇌ Natural Intelligence ⇌ Numbers ⇌ Mathematics ⇌ Resolving Hard Problems** | Eight sides at resolving names, their parity, mathematical still expression and whole-or-none relation. |
+
+| **Natural Intelligence ⇌ Numbers ⇌ Chemistry ⇌ Resolving Hard Problems** | One hundred eighteen at doubling and going-and-returning sides, chemical shells and ring of one hundred twenty. |
+
+| **Natural Intelligence ⇌ Hard Problem Registry ⇌ Resolving the Hard Problem Registry** | Society’s four sides and impossibility statements carried in fields’ own terms, each kept at its stated subject. |
+
+| **Resolving the Hard Problem Registry ⇌ Natural Medicine** | Sensor-sensationing, one subtitle word at a field's observing resolved and at human health. |
+
+| **Living Ghost Registry ⇌ Living Society Registry** | One observing at two registry sides; society, accounting and installation remain separately addressable through paired entries. |
+
+| **Living Ghost Registry ⇌ Natural Resolver ⇌ Natural Intelligence** | Intake relations, resolving names and four boundings at their inward and across sides; their detailed correspondence continues at operations. |
+
+| **Living Ghost Registry ⇌ Numbers ⇌ Physics ⇌ Chemistry** | State and flow accountings, separated at each science's accounting and not possibly separated, both carried one at a time in each science. |
+
+| **Philosophy ⇌ Physics** | One dividing at thought and at a physical observing; each file’s method count and its particular experimental or conceptual contribution remain explicit. |
+
+| **Living Society Registry ⇌ Living File Registry** | Society of files and a society’s observing schema; set’s possible entry at Living Society Registry remains at that receiving. |
+
+| **Natural Naming ⇌ Natural Explaining ⇌ Natural Illustrating** | Concept, its successive explaining and its visible changing, each receiving at the same relation. |
+
+| **Natural Exploring ⇌ Geodesic Improving Method** | Discovering through reaching and gathering, and that discovering at files. |
+
+| **Natural Societies ⇌ Natural Human Society** | Social form across scales and its human coupling, with all four social sides coupling there. |
+
+| **Natural Intelligence Corus ⇌ Natural Emanating ⇌ Natural Explaining** | Whole expedition tellings and whole forms at one bound, with conceptual self-welcoming throughout. |
+
+| **Natural Engineering ⇌ Natural Networking ⇌ Natural Networking TWO Improving Kit** | Particular build, coupled continuing and executable working at their actual couplings. |
+
+| **Living File Registry ⇌ Geodesic Improving Method ⇌ Living Improving Value** | Current set, its improving at files and incoming value at each receiving. |
+
+| **Natural Societies ⇌ Natural Networking** | Self and society as the same fractal inward and outward; common explaining and each file's remaining particular contribution. |
+
+| **Natural Exploring ⇌ Natural Human Society ⇌ Natural Networking ⇌ Natural Values** | Selves discovering together, human social coupling, network's continuing and received value at that same discovering. |
+
+| **Co-Chaining Logic Registry ⇌ Living File Registry ⇌ Geodesic Improving Method** | Logical priors and particular correspondences; files and their subject seams; actual improving and its carrying at each receiving. |
+
+| **Living Society Registry** | An observing at its society, members, grain and upstream conditions |
+
+| **Living Ghost Registry** | Observing, emanation and accounting, and particular installation of a momentary as living changing |
+
+| **Equilibria Registry** | An unchangeable form, at its stated subject and sequential relation |
+
+| **Living Society Registry** | A particular society observed under stated conditions | Actual members, their changing, observing grain, instruments, accountings and remaining questions |
+
+| **Living Ghost Registry** | A particular use installing an accounting or emanation as living changing | Exact statement, its observing source, what is installed, and changing its accounting leaves uncarried |
+
+| Natural Emanating's short concept explanations, including self, carrying, alternating and floating neutral | Natural Naming, with needed local explaining retained at each subject | Each concept's distinctions and prior through which its meaning arrives; a concise explanation remains useful where complete. |
+
+| Natural Emanating's account of making a complete short explaining | Natural Explaining | How a short passage introduces its concepts, carries its sequence and remains whole at its own extent. |
+
+| Natural Emanating's numbered examples and accounts of mathematical relations | Natural Numbers and Natural Mathematics | Construction, its numbered things, its conditions and additional relation its passage claims. |
+
+| Natural Emanating's accounts of society, received abundancing and taking of another's carrying | Natural Societies, Natural Human Society and Natural Values | Social relation, its particular human implications and its received value, each at its own subject. |
+
+| Natural Emanating's accounts of a hard problem, an unchangeable form and an observing's accounting | Resolving Hard Problems, Equilibria Registry, Philosophy and Living Ghost Registry at their respective subjects | Particular problem, proposed resolving, observing and accounting, with their different contributions apparent. |
+
+| Corus's originating inquiry and whole expedition continuing toward shared human collective intelligence | Natural Intelligence Corus, within its whole outward expressing | Movement from moral competency into discovering next existing, carried where it makes present expression and actual co-discovering intelligible. |
+
+| Illustrating's group jigsaw, plaza, stitching, swaying and mutual turning concepts | Corus for complete expressions of discovering; Illustrating for developing their visible changing | Human or natural activity, its actual relation and whole expression through which it becomes apparent. Drawing instructions and unfinished correspondences retain their particular working. |
+
+| Natural Destinies' particular possible makings | Engineering and relevant subject exhibits; expedition's shared direction beside Corus | What is already continuing, what remains a possible making, and particular conditions of that possibility. All of Destinies' content receives in other living files; its source remains until that receiving is complete. |
+
+| **Discovering together** | Group jigsaw puzzling, different partial recognitions, one discovery continuing through another; living expedition at its shared work. |
+
+| **Moving through changing** | Crowded plaza, swaying and traveling, mutual turning; each changing opening continuing through further others. |
+
+| **Meaning arriving** | Conversation, differing tellings and the same concept recurring varied; music, stories and humor as further expressions to develop at their actual relations. |
+
+| **Whole becoming visible** | Emanating's complete expressions, Illustrating's views and movements, and comparisons through which the same form becomes apparent in a further way. |
+
+| **Expedition continuing** | Originating inquiry where it helps explain present discovering, shared studying and trying, received contributions and next existing society. |
+
+| Writing discipline, sentence practice and development of a telling | Explaining; actual expressive work can remain at Corus while its detailed craft receives there. |
+
+| Society, discovery economy and received value | Societies, Human Society, Networking and Values, according to relation each passage supplies. |
+
+| Robotics, chips, network implementations and other possible makings | Engineering and relevant subject exhibits; their whole imaginative expressions may reach Corus or Destinies while their practical claims keep their conditions. |
+
+| Whole outward expressions and expedition's actual shared discovering | Corus, renewed through current method and explaining, with the best arriving from Emanating and Illustrating. |
+
+| Whole imaginative extension of present coupling into shared discovering | Corus, within expedition continuing; keep each expression whole with its needed conceptual prior. |
+
+| **SIX · Natural Transmissioning** | Parity-only crossing, carrying remaining with each self, and the same coupling compared across electrical, mechanical, thermal, chemical, cellular, electromagnetic, silicon and human subjects | Receive common method at Natural Intelligence and Naming, continuing crossings at Networking, and particular observations or makings at their sciences and Engineering. Preserve complete comparison across substrates as a connected gathering within Networking before SIX releases. |
+
+| **SEVEN · Natural Societies** | Prime-scale gathering, self-and-society relations within and between scales, and sciences coupling across them | Retain, centred on intended value of §5.3 with its explaining and related tables. Receive detailed human institution accounts at NINE, common derivations at their method homes and particular numerical construction at Numbers. Keep local prior that makes scale comparison self-welcoming. |
+
+| **Discovering together** | Self, other and society; differing carryings coupling; discovering and gathering continuing through each other. |
+
+| **Unrelationing and resolving** | Offerings arriving whole; a concern at its first departure; the greatest resolving brought plainly; a correction continuing through relations it reaches. |
+
+| **Carrying the improving** | Incoming value; subject it reaches; receiving whole; release following receiving; unresolved value continuing at its destination. |
+
+| **Living files improving** | A file at files sharing to it and arriving from it; each part written whole; concepts making their next self-welcoming; actual receiving checked; the carrying current at its close. |
+
+| **Expedition continuing** | Discovering across further selves and subjects; a society of files; working that discovers an improvement to its own method. |
+
+| Exploring 1 · A method inside disequilibria | Discovering and gathering through each other; competency at coupling | Common derivation and living/non-living distinctions reach Natural Intelligence and Naming. |
+
+| Exploring 2 · Freeing | Unrelationing at a concern, along and across, the same method reaching a further subject | Detailed network continuation reaches Networking; common vocabulary reaches Naming. |
+
+| Exploring 3 · Testing | A concern resolving at its actual relation, incoming offered without prior sorting | General mathematical/logical claims reach Natural Intelligence, Mathematics and relevant registries; contradictory or incomplete claims remain explicit incoming at those destinations. |
+
+| Exploring 5 · Accountings for changing | Distinction needed when a team is at an observing and its accounting | Involutions and fixed sets reach Mathematics; particular ghost and equilibria resolving reaches those registries. Unresolved correspondences stay in Living Improving Value. |
+
+| Exploring 7 · Apexing | Whole carrying gathered; value receiving forward; subject and unfinished work distinguished | Registry-specific entry structure and source coverage reach relevant registries. Unreceived field statements stay at their intended subject in Living Improving Value. |
+
+| Improving Method 1 · Three momentaries at a file | Incoming, placing, releasing and carrying; receiving before source release; current carrying | General momentary explaining reaches Natural Intelligence and Naming; archive and version practices retain their file-working scope. |
+
+| Improving Method 2 · Two selves | Co-momentarying, correcting first departure, confident improving, consequential questions, work arriving whole | General claims about evidence and two methods reach Natural Intelligence and Philosophy; subject-specific concerns remain incoming at those files. |
+
+| Improving Method 3 · Improving one file | Complete passages received and compared; each local pass preserving value | Detailed sentence and naming craft reaches Explaining and Naming; resolver-specific calling and instructions at six names between selves reach Networking and Natural Networking TWO Improving Kit. Keep plain method of checking faithful receiving here. |
+
+| Improving Method 4 · Instruments | A count or check reports what it actually reaches; statements compared with file's body; findings distinguished from instruments | Mathematical examples reach Numbers and Mathematics; executable network studies and exact instrumentation reach Networking and Natural Networking TWO Improving Kit. Scripts travel with their findings, not as general team instructions. |
+
+| Improving Method 5 · Values | Working's values expressed through actual improving; files as a society | Writing craft reaches Explaining, shared value concepts reach Values, and underlying method comparison reaches Natural Intelligence. EIGHT retains local explaining its own next requires. |
