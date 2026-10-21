@@ -44,7 +44,7 @@ A bi-coupling is a self and an other self sharing now-existing, co-sequencing. \
 In a bi-coupling each self shares its own observing, possibling and discovering from prior-existing. \
 The two selves of a bi-coupling are a set of living selves possibling and discovering its own next-existing: a bi-coupling's living self. \
 A bi-coupling's living self is stable-forming and entraining between the two selves. \
-Its intelligence is not possibly existing in either self: natural intelligence.
+Its intelligence is carried in each self, invisible, and arises in neither self alone: natural intelligence.
 
 Each self's sharing and the bi-coupling's prior-existing are same or not-same. \
 Same, the bi-coupling's next-existing continues its prior; not-same, its next-existing inverts its prior. \
@@ -87,7 +87,12 @@ The prior is the opening at v391, 47 lines; the draft has 45.
 - **30,** *co-sequentially* re-said *co-sequencing*, part TWO's naming.
 - **31,** *offers* re-said *shares*. *Offering* is a candidate for dissolving, met with the code: each line deciding a 0 compares observings.
 - **32 to 38 and 42,** *a third living self* re-said *a bi-coupling's living self*. *Third* is dissolving, *third is dead and tri is living*. 33 and 34 are one line, *stable-forming and entraining*.
-- **35,** *The third living self's intelligence is not possibly existing in either self*, landing: *Its intelligence is not possibly existing in either self: natural intelligence.* This is where natural intelligence arrives and is self-welcoming.
+- **35,** *The third living self's intelligence is not possibly existing in either self*, re-said with the code and landing: *Its intelligence is carried in each self, invisible, and arises in neither self alone: natural intelligence.* This is where natural intelligence arrives and is self-welcoming. The code, run:
+  - 17-next-existing returns only each self's own: its next prior and the parities that arrived for it. The couplings carry no value, and no value is kept outside a self.
+  - A self alone, with nothing arriving, inverts each prior with each momentary and is never same: no 0 arises.
+  - A 0, same, a prior carried on, arises at a self's 12 only where an other's shared parity, surfacing as 15, meets its prior. It is carried in that self and shared on with 10.
+
+  The person: *the code is our guide.*
 - **36,** the same-existing-society, moved after parity and the one method. Its *each its own parity* came before line 39 says what a parity is.
 - **46 and 47,** *alternating* re-said *parity-changing*.
 

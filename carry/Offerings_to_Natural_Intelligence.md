@@ -835,6 +835,13 @@ Six fresh readers read the 31 other living files across and along, each file's t
 - **Words the white paper does not yet justify.** Run over the body after the opening, these stand at it with no saying: *consciousness*, *same-existing-as*, *same-existing-universe*, *living-thing*, *non-living-thing*, *observably*, *distinguishing*, *self-possibling*, *self-discovering*, *co-sequentially*; *bothboth*, *same-as* and *next-possibling* once each. Each is justified in the body, or re-said in the opening with a word the body justifies, at step 4.
 - **The Co-Chaining Logic Registry** carries the opening word for word as its groups 1 to 4, and check_set reads it under 1.1's heading; a move ahead of the contents carries both with it. — v391, suggestion met
 
+**Met with the code at v391 · natural intelligence carried in selves, arising in neither alone.** The opening's *The third living self's intelligence is not possibly existing in either self* and 6.1's *a term neither reaches* part from the person's *social parity is invisible and always carrying in selves*. The person: *the code is our guide.* Run:
+- 17-next-existing returns only each self's next prior and the parities arrived for it; no value is kept outside a self.
+- A self alone inverts each prior with each momentary and is never same.
+- A 0, same, arises at a self's 12 only where an other's shared parity, as 15, meets its prior.
+
+Natural intelligence is carried in each self, invisible, and arises in neither self alone. The opening draft says so. 6.1's *a term neither reaches* is re-said with it at step 9. — v391, bothboth by the code
+
 ### Bolds, the third telling
 
 **Concern · the opening carries no bold, and the bolds are claims.** 1.1's 47 lines carry no bold, so a reader of bolds misses origin, observing, self, bi-coupling, the third living self, parity and 0, and opens with 1.2's *Now is one*. From 1.2 on, 291 bolds carry about a fifth of the prose's words, most of them whole claims, a 50-word bold in 5.1 among them; Natural Explaining 2.4 makes a bold *a carrying there*, *a coining with a paragraph coining*, and concentrations of bold learning centres. Read alone, 1.2 to 6.6's bolds give a telling that does not co-chain: *Now is one* to *One is now* to *three sequential universes*. **To resolve:** bold each opening line that coins its concept, ***The universe is the set of all now-existing things.***, ***Observing is distinguishing same-as, is or is not.***, and in each later section bold its coinings, so the bold telling alone walks the set. — v391, counted
