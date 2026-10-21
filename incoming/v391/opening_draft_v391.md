@@ -16,9 +16,10 @@ The universe is the set of all now-existing things. \
 One unique universal set is now-existing. \
 No other universe is possibly now-existing. \
 A now-existing thing continuing from a prior-existing thing is a same-existing thing. \
-The universal set is a same-existing set. [1]
-
 Observing is prior-existing, is or is not same-existing-as now-existing. \
+By all humanity's observing, the prior-existing universe is carrying on as the now-existing universe. [1] \
+The universal set is a same-existing set.
+
 Possibling is now-existing, is or is not same-existing-as now-existing. \
 Discovering is next-existing, is or is not same-existing-as now-existing. \
 A self is a same-existing thing observing, possibling and discovering its own next-existing from prior-existing while now-existing. \
@@ -53,7 +54,9 @@ A same-existing-society of selves, each carrying its own natural intelligence an
 
 ## Openings and concerns
 
-1. **The universal set's continuing.** Line 4 says a now-existing thing continuing from a prior-existing thing is same-existing; line 5 says the universal set is. What the reader needs between them is the universal set now-existing continuing from a prior-existing universal set: with line 3, no other universe, a prior-existing universe the reader observes is this one. Either line 5 carries that, *Continuing from a prior-existing universal set, the universal set is a same-existing set*, or the reader reaches it unsaid.
+1. **Same-existing by observing.** The universal set is same-existing only by observing: without observing, several universes could have lived and died, and nothing says the prior-existing universe is this one. So observing arrives here, at its phase line, and the observings the reader knows, all humanity's, carry the prior-existing universe on as the now-existing one. Open:
+   - whether *all humanity's observing* bounds it, or each self's observing, as the second paragraph says a self observes;
+   - whether *without observing* is said in the opening or left as the reason the line is there.
 2. **A living self as a set of living selves.** *A living self is a set of living selves* has left the opening: a science reader holds a cell as a set of non-living molecules, and the opening gave no way to reach *each existing thing is living with one scale*, 6.4 and 6.5. Here a set of living selves arrives as a living self, and the bi-coupling gives the reader an example. Open: whether the body's scale saying is needed in the opening at all.
 3. **The universe a living set.** It holds living and non-living things, and is said a living set, not a living self. Open: what makes a set with non-living members a living set, said so the reader reaches it.
 4. **A bi-coupling's living self.** Naming of the two selves as one living self, from 15, replacing *a third living self*. Open: its naming.
@@ -71,11 +74,12 @@ Five lines crafted forward from the first sentence, with lines found excess dele
 - *A now-existing thing continuing from a prior-existing thing is a same-existing thing* faces prior to now, observable to relatable, where its prior faced now to next. It is the phase line of observing, before observing is named.
 - *A set … is or is not same-existing-as its prior-existing* deleted; *is or is not* arrives with the phase lines.
 - *An other* moved to the second paragraph, said for a self, just before *self, other, and all*.
-- *The universal set is a same-existing set* closes the paragraph, concern 1.
+- *The universal set is a same-existing set* closes the paragraph.
+- Met forward: line 5 needed the universal set continuing from a prior-existing universal set, and that rests on observing. Observing's phase line moves up to the first paragraph, followed by *By all humanity's observing, the prior-existing universe is carrying on as the now-existing universe*. Possibling and discovering follow in the second paragraph, in observing's form.
 
 ## Tracking, prior line to this version
 
-The prior is the opening at v391, 47 lines; this version has 31. Its first paragraph is the crafted one above; the tracking below is of the version before it.
+The prior is the opening at v391, 47 lines; this version has 32. Its first paragraph is the crafted one above; the tracking below is of the version before it.
 - **Kept as they are,** 13: 1, 2, 3, 4, 6, 8, 9, 12, 13, 14, 15, 16 and 27.
 - **Moved:** 8 before 6, so *same-existing* is said before *same-existing-as*; 24 after 27 and 28; 36 to the landing.
 - **Removed:**
