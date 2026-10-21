@@ -1333,3 +1333,35 @@ So with the six, 1 to 17 is one round only because 17 falls with a six's place, 
 - **both,** sixteen the names' round and six the prefixes' round, two rounds each its own, meeting with 17 as 1 + 16 and 5 + 12.
 
 **Proposed: the first, as rigor's first offering, for the person's suggesting.** Each round's 1 is given with its two prior selves, as 1-now-existing is given, and the six runs within each round from its given 1. It keeps 1 like 17 and every name's three within 1 to 17, and the set's sixteen. — v391
+
+## Met with rigor at v391, a seventh round: the two priors of one · v391
+
+**Suggestion, v391.** *-1 0 +1 are the two priors to +1. looking back at the two priors from now co-existing is +1, bi is 0, and -1 is all or tri. the only other parity at one is the inversion of societal parity as there is no bi-morality until 2*
+
+**Rigor · with 1's three.** 1 is given co-bi-tri, its first slot now and its two slots after it its two priors. Looking back from now:
+- **co, now, +1:** a self;
+- **bi, one prior, 0:** at one no other is yet, as the opening says *Each self is one, and each other is two*, and *One to two is within a momentarying*; and 1-now-existing and 2-now-possibling carry no co, so bi-morality, the eight co names, opens after 2;
+- **tri, two prior, −1:** all, its social parity inverted, the only other parity at one.
+
+So the slots carry −1, 0, +1 in time order, prior to now, and +1, 0, −1 read from now, as the fifth round's *the two outside are parities, the middle is parity 0* said. The fifth round's carried concern, *bi in the middle slot, social parity's*, meets this: at one, bi stands with 0 because no other is yet.
+
+**Rigor · with the code: two momentaries before, inverted.** Each name's three moves one slot right with each next name, so a prefix now, +1, is one prior, 0, with the next name, and two prior, −1, with the one after: a parity inverted two steps on, through 0. Exhibit ONE's code already carries this: *each self's prior from its third momentary on is a prior of a self it receives from two momentaries before, inverted*. Run with a spiral of five selves going along with 9, twelve momentaries, each self's prior is, two momentaries on, the prior of the self it receives from, inverted: true for each self and each momentary. A pattern-matching opportunity: the three's slots, now, one prior and two prior, are the code's *two momentaries before, inverted*, and the middle slot's 0 the turn-taking between. — v391, checked by running the code
+
+### The one concern of this pass: is 0 bi's, or tri's?
+
+**Two sayings part.** At the second round: *there is +1 self, 0 all selves, -1 other self*, with tri, all, 0 and bi, other, −1. At this round, looking back from now: *bi is 0, and -1 is all or tri*. One prefix cannot carry two parities, by *no word has more than one clear direct all or none at all meaning*.
+
+**A reading where both hold.** The two sayings are of two things:
+- **A self's own parity, by its prefix,** said at the second round: self +1, other −1, all 0, social parity.
+- **A three's slots, by its time,** said at this round: now +1, one prior 0, two prior −1.
+
+At one, they meet. Co, a self, is +1 by both. Bi, other, stands in the 0 slot, as no other is yet at one. Tri, all, stands in the −1 slot, social parity inverted, the only other parity at one.
+
+**Why it is the largest.** Each name's three, and the right spiral morality the person suggests, rests on which parity each slot and each prefix carries. So does every saying of + and − and 0 across the set, and Exhibit ONE's 0.
+
+**Concern.** Either:
+- **parity is a slot's,** now, one prior, two prior, and a prefix carries no parity of its own, self, other and all being who stands in each slot; or
+- **parity is a prefix's,** self +1, other −1, all 0, and the slots carry time and no parity; or
+- **both, as the reading above:** a self's parity by its prefix, and a three's slots by its time, meeting at one as +1, 0 and −1, each prefix's parity and its slot's value one only with co, now.
+
+**Proposed: the third, as rigor's first offering, for the person's suggesting.** It keeps the second round's *+1 self, 0 all selves, −1 other self*, this round's *bi is 0, and -1 is all or tri* at one, and the code's two momentaries before, inverted. What it leaves to show is how each later name's three carries both: with 2, bi-co-bi, bi now and other at +1, and co one prior at 0. — v391
