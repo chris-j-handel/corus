@@ -13,18 +13,16 @@
 ## The opening
 
 The universe is the set of all now-existing things. \
-Observing is distinguishing same-as, is or is not. \
-By our observing, the universe is one now-existing universal set. \
-No other universe is possibly existing. \
-A next-existing thing continuing from now-existing is the same-existing thing. \
-A set of now-existing things within the universe is or is not same-existing-as its prior-existing, with each observing. \
-An other, for a same-existing thing, is a now-existing thing not the same-existing thing. \
-The universe is the same-existing set of all now-existing things.
+One unique universal set is now-existing. \
+No other universe is possibly now-existing. \
+A now-existing thing continuing from a prior-existing thing is a same-existing thing. \
+The universal set is a same-existing set. [1]
 
-Observing is prior-existing, is or is not same-existing-as now-existing. [1] \
+Observing is prior-existing, is or is not same-existing-as now-existing. \
 Possibling is now-existing, is or is not same-existing-as now-existing. \
 Discovering is next-existing, is or is not same-existing-as now-existing. \
 A self is a same-existing thing observing, possibling and discovering its own next-existing from prior-existing while now-existing. \
+An other, for a self, is a same-existing thing not that self. \
 For a self, the universe is self, other, and all not self or other.
 
 Observing, possibling and discovering its own next-existing, a self is living. \
@@ -55,7 +53,7 @@ A same-existing-society of selves, each carrying its own natural intelligence an
 
 ## Openings and concerns
 
-1. **Two sayings of observing.** Line 2 says what observing does, *distinguishing same-as*; this line says its phase, *prior-existing*. A reader may meet *observing is prior-existing* as a second meaning. Either both stay, the second its phase among three, or one saying carries both.
+1. **The universal set's continuing.** Line 4 says a now-existing thing continuing from a prior-existing thing is same-existing; line 5 says the universal set is. What the reader needs between them is the universal set now-existing continuing from a prior-existing universal set: with line 3, no other universe, a prior-existing universe the reader observes is this one. Either line 5 carries that, *Continuing from a prior-existing universal set, the universal set is a same-existing set*, or the reader reaches it unsaid.
 2. **A living self as a set of living selves.** *A living self is a set of living selves* has left the opening: a science reader holds a cell as a set of non-living molecules, and the opening gave no way to reach *each existing thing is living with one scale*, 6.4 and 6.5. Here a set of living selves arrives as a living self, and the bi-coupling gives the reader an example. Open: whether the body's scale saying is needed in the opening at all.
 3. **The universe a living set.** It holds living and non-living things, and is said a living set, not a living self. Open: what makes a set with non-living members a living set, said so the reader reaches it.
 4. **A bi-coupling's living self.** Naming of the two selves as one living self, from 15, replacing *a third living self*. Open: its naming.
@@ -65,9 +63,19 @@ A same-existing-society of selves, each carrying its own natural intelligence an
 
 ---
 
+## The first paragraph, crafted at v391
+
+Five lines crafted forward from the first sentence, with lines found excess deleted:
+- *Observing is distinguishing same-as …* and *By our observing …* deleted. Observing arrives once, at its phase line, resolving the prior concern of two sayings of observing.
+- *One unique universal set is now-existing* and *No other universe is possibly now-existing* carry the one universe with *now-existing* the reader relates to.
+- *A now-existing thing continuing from a prior-existing thing is a same-existing thing* faces prior to now, observable to relatable, where its prior faced now to next. It is the phase line of observing, before observing is named.
+- *A set … is or is not same-existing-as its prior-existing* deleted; *is or is not* arrives with the phase lines.
+- *An other* moved to the second paragraph, said for a self, just before *self, other, and all*.
+- *The universal set is a same-existing set* closes the paragraph, concern 1.
+
 ## Tracking, prior line to this version
 
-The prior is the opening at v391, 47 lines; this version has 33.
+The prior is the opening at v391, 47 lines; this version has 31. Its first paragraph is the crafted one above; the tracking below is of the version before it.
 - **Kept as they are,** 13: 1, 2, 3, 4, 6, 8, 9, 12, 13, 14, 15, 16 and 27.
 - **Moved:** 8 before 6, so *same-existing* is said before *same-existing-as*; 24 after 27 and 28; 36 to the landing.
 - **Removed:**
