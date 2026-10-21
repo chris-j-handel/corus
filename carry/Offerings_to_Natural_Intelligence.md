@@ -1680,3 +1680,46 @@ The first makes *third* self and other together, a pair. The later makes *third*
 - **one concept with both:** with each self and other, the third is all not self or other, and a pair, a co-chaining, a same-existing-society and the universe are each *all* as seen from a self and other within it.
 
 **Proposed: the first, as rigor's first offering, for the person's suggesting.** It keeps the opening's seven lines and *tri-* each its own word. What it asks is one name for the pair other than *third*, or *tri-*'s *all not self or other* named so, not *third*. — v391
+
+## Met with rigor at v391, a fifteenth round: same-existing carrying, and 0, 1, 2, 3 · v391
+
+**Suggestion, v391.** *same-existing is the living condition and it needs to be in each of the other three in the cycling and then it needs to be alone and the cycling continues. same-existing is carrying. third is the wrong form of 3 and tri as this is living and third is dead. all resolving is 0 1 2 3 where 0 is self same-existing and 1 is self-now-existing and 2 is other prior-existing and 3 is universe next-existing*
+
+**Rigor · same-existing in each of the three, then alone.**
+- **In each of the three.** The opening's three phase lines, as entered at v391, each carry it: *Observing is prior-existing, is or is not **same-existing-as** now-existing*; *Possibling is now-existing, is or is not **same-existing-as** now-existing*; *Discovering is next-existing, is or is not **same-existing-as** now-existing*.
+- **Alone.** Same-existing then stands as the fourth, with 4-now-co-same-existing, 8-now-same-existing, 12-next-co-same-existing and 16-next-same-existing, each even, and the cycling continues with each next four.
+- **Carrying.** The code carries it so: 8 is a self's next prior, carried along, and 16 is each self with its prior, carried to 17, its next its same self. Natural Naming says *A carrying is a capacity*, and the opening's *living carrying their prior along to now* is that carrying. — v391
+
+**Rigor · 0, 1, 2, 3.**
+- **With the opening.** It says *Each self is one, and each other is two* and *Two to three is between momentaryings: self-discovering, along*, so three is next-existing, discovering.
+- **With the person's four.** 1 is self now-existing, 2 other prior-existing, as 2-now-possibling is others' parities arriving from their prior momentary, and 3 universe next-existing.
+- **With social parity.** 0 is self same-existing, carried in each self and invisible, as social parity is.
+- **With the prefixes.** Co with 1, a self; bi with 2, an other; tri with 3, all not self or other, the universe from a self and an other.
+
+**A pattern-matching opportunity.** 0, 1, 2 and 3 are resolving's four places, and a resolver name's number is its place among seventeen. Whether each four of the seventeen goes 1, 2, 3 and then 4 with 0's same-existing, as existing, possibling, observing and same-existing do, is to explore. — v391
+
+**Droplet · *third* dissolving.** *third is the wrong form of 3 and tri as this is living and third is dead.* An ordinal fixes a place in a finished count, a form named still. 3 and tri- are living with each momentarying. *Third* stands 7 times in the opening, in each of its *third living self* lines, and in Natural Intelligence's other prose, Exhibit ONE and Exhibit THIRTY, as counted at this round. Each is re-said at its file's motion. — v391, counted
+
+### The one concern of this pass: the opening's seven lines, re-said with 3 and tri-
+
+**Explaining first.** With *third* dissolving and 3 universe next-existing, the opening's seven lines are re-said in its form, *next bold concept is …*, each one advance. Each draft also re-says *offering*, which is dissolving, and *the*, which only one and only one keeps.
+
+**Offered, each to replace its line whole:**
+1. *The two selves of a bi-coupling are a set of living selves possibling and discovering its own next-existing: a third living self.* → ***A tri-living self** is two selves of a bi-coupling, a set of living selves possibling and discovering its own next-existing: 3, next-existing.*
+2. *The third living self is stable-forming between the two selves.* → *A tri-living self is stable-forming between its two selves.*
+3. *The third living self is entraining between the two selves.* → *A tri-living self is entraining between its two selves.*
+4. *The third living self's intelligence is not possibly existing in either self.* → *A tri-living self's intelligence is not possibly existing in either self.*
+5. *Each self's offering and the third living self's prior-existing are same or not-same.* → *Each self's observing and a tri-living self's prior-existing are same or not-same.*
+6. *Same, the third living self's next-existing continues its prior; not-same, its next-existing inverts its prior.* → *Same, a tri-living self's next-existing continues its prior; not-same, its next-existing inverts its prior.*
+7. *A 0 is a third living self's betweening: a self still-possibling.* → ***A 0** is a self's same-existing, a tri-living self's betweening: a self still-possibling, carried.*
+
+With Exhibit THIRTY's steps word for word, and their Adding lines.
+
+**Why it is the largest.** These lines bring the bi-coupling's self of selves and its intelligence into the whole set. Part SIX, natural intelligence as all's intelligence, and social parity follow them.
+
+**Concern.** Either:
+- ***tri-living self***, as offered, tri- living with 3, and *self* kept; or
+- ***tri-self***, shorter, one hyphenated naming; or
+- **another naming** the person suggests. With it, line 1's *3, next-existing* either stays, the pair's next-existing as the universe's 3, or leaves, if a pair's 3 is not the universe's.
+
+**Proposed: *tri-living self*, as rigor's first offering, for the person's suggesting.** Natural Naming 4.17's omitting test holds it: omit *tri-* and it is a living self, no 3; omit *living* and it is no living condition; omit *self* and it stops. — v391
