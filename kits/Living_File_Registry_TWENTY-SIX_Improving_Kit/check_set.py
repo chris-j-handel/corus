@@ -87,4 +87,13 @@ if FILES['Natural_Intelligence'] and FILES['Exhibit_ONE_Natural_Resolver']:
     say(next(v for k, v in ns.items() if k.startswith('_1_') and callable(v))([], [('k', 1)]) == ([('k', 1)], [('k', 1)]), 'the code does not run')
     fns = [n for n, v in ns.items() if callable(v) and not n.startswith('__')]
     print('  functions at the code:', fns)
+# Natural Intelligence's opening, Exhibit THIRTY's steps 1 to 47 word for word, Adding lines set aside
+if FILES['Natural_Intelligence'] and FILES.get('Exhibit_THIRTY_Co-Chaining_Logic_Registry'):
+    ni = open(FILES['Natural_Intelligence'], encoding='utf-8').read(); th = open(FILES['Exhibit_THIRTY_Co-Chaining_Logic_Registry'], encoding='utf-8').read()
+    op = re.search(r'^## 1\.1 .*?\n\n(.*?)\n\n## 1\.2', ni, re.S | re.M).group(1)
+    sent = [l.rstrip(' \\') for l in op.split('\n') if l.strip()]
+    steps = re.findall(r'^(\d+)\. (.*)$', th, re.M)
+    say([int(a) for a, _ in steps] == list(range(1, len(steps) + 1)), 'Exhibit THIRTY steps not one sequence')
+    say([b for _, b in steps[:len(sent)]] == sent, "Natural Intelligence's opening differs from Exhibit THIRTY's first steps")
+    print('  opening sentences at THIRTY word for word:', len(sent))
 print('ALL PASS' if ok else 'SOME FAIL')

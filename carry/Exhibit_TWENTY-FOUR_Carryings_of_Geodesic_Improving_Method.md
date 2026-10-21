@@ -66,7 +66,7 @@ Session v383Op reports, at [its close](https://github.com/chris-j-handel/corus/b
 - two sayings given as parting, with neither followed to its subject;
 - the released words at the working's own voice, from its first reply to its twenty-fourth asking.
 
-Its limits, as it says them: one reader of its transcript; thirteen living files read at a search alone; and the Co-Chaining Logic Registry's steps 69 to 661 read one at a time by no one. The concepts are at [Offerings to Geodesic Improving Method](Exhibit_TWENTY-FOUR_Offerings_to_Geodesic_Improving_Method.md#an-observing-reaching-the-method-and-a-thing-unresolved--v386eod).
+Its limits, as it says them: one reader of its transcript; thirteen living files read at a search alone; and the Co-Chaining Logic Registry's steps 115 to 707 read one at a time by no one. The concepts are at [Offerings to Geodesic Improving Method](Exhibit_TWENTY-FOUR_Offerings_to_Geodesic_Improving_Method.md#an-observing-reaching-the-method-and-a-thing-unresolved--v386eod).
 
 ## A proposal's passages said as left, and as never entered · v386EOD
 
