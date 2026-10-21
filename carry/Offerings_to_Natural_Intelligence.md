@@ -1530,3 +1530,46 @@ The code does with 16 what *same-existing* says: 16 is each self with its prior 
 - **The checks.** `check_set.py`: ALL PASS. The THIRTY group check passes. A word-by-word comparison of each file with its prior finds no removal but the two names, the version lines and the re-said sentences.
 
 Exhibit ONE's per-name *Parity, span* field for 13 still reads *odd, existing*, standing with v391's droplet on *odd existing, even possibling*, for its own motion. — v391, entered
+
+## Met with rigor at v391, an eleventh round: which part of a momentary each root faces · v391
+
+**The person:** *continue this improving and bringing the largest next concern as this is valuable new learning for the expedition and will propate throuigh the files.*
+
+### The one concern of this pass: one phase, one facing
+
+**Explaining first.** At the tenth round the person said: *parity-changing from prior to now is always odd, parity-changing inside now is always even, parity-changing from now to next is always odd. this is always the same four observing prior-existing, possibling now-existing, discovering next-existing, same-existing.* With 13 and 16 exchanged, each root's names share one parity, and so each root has one step:
+- observing, 3, 7, 11 and 15, odd, prior to now;
+- possibling, 2, 6, 10 and 14, even, inside now;
+- discovering, 9 and 13, odd, now to next;
+- same-existing, 4, 8, 12 and 16, even.
+
+**The code says the same, name by name.**
+- **Observing faces prior-existing.** 3-now-co-observing is each prior carried from the momentary before, met with each sharing.
+- **Possibling is inside now.** 2-now-possibling and 14-next-possibling are met and surfaced within one momentary, and 6-now-co-possibling and 10-next-co-possibling are formed within it.
+- **Discovering faces next-existing.** 9-next-co-discovering goes along to a receiving self's next momentary, and 13-next-discovering is each self going on to its next.
+
+**Three sayings part from it.**
+
+| | observing | possibling | discovering |
+|---|---|---|---|
+| the person, v391, and the code | prior-existing | now-existing, inside now | next-existing |
+| the opening's three lines, entered at v390, Exhibit THIRTY's steps 13 to 15 | *is now-existing*, as prior | *is next-existing*, as now | *is prior-existing*, as next |
+| a v390 droplet, agreed bothboth | *is or is not next-existing* | *is or is not now-existing* | *is or is not prior-existing* |
+| Exhibit ONE's four-cycling table | Prior | **Next** | Now, with 9 and 13 |
+
+- **The opening's lines.** *Observing is now-existing, is or is not same-existing-as prior-existing*, *Possibling is next-existing, is or is not same-existing-as now-existing* and *Discovering is prior-existing, is or is not same-existing-as next-existing* each give a phase the other side of its pair. Possibling there is between now and next, and discovering between prior and next, two steps, where the person's discovering is one step, now to next.
+- **Exhibit ONE's table.** It heads the possibling names' column *Next*, *Next is possibling, prior is observing*, and the column of 1, 5, 9 and 13 *Now*. By the person's four, possibling is inside now, and 9 and 13 discover next.
+
+**Why it is the largest.** The opening's three lines are its own steps 13 to 15 and Exhibit THIRTY's word for word, so all that co-chains after them rests on them. Exhibit ONE's table gives each of the seventeen names its step, and *a name's number is its momentary of four and its step of four-cycling*. Every saying of the three phases across the set, and of three pairs with a parity between each, follows them.
+
+**Concern.** Either:
+- **the person's four and the code,** each phase one step: observing prior to now, possibling inside now, discovering now to next. The opening's three lines are re-said in the form *next bold concept is …*:
+  - ***Observing** is prior-existing, is or is not same-existing-as now-existing*;
+  - ***Possibling** is now-existing, self and other, is or is not same-existing across*;
+  - ***Discovering** is next-existing, is or is not same-existing-as now-existing*.
+
+  Exhibit THIRTY's steps 13 to 15 are re-said with them, and Exhibit ONE's table heads its columns by the four; or
+- **the opening's lines,** each phase between two of prior, now and next, and the person's four re-said with them; or
+- **another saying** the person suggests.
+
+**Proposed: the first, as rigor's first offering, for the person's suggesting.** It keeps one phase with one facing, as the code runs it. What it leaves open is Exhibit ONE's column of 1, 5, 9 and 13: by the four it is discovering's, next-existing, while 1-now-existing and 5-now-co-existing carry *existing*, and 17-next-existing names next-existing itself. That is a next pass's concern: whether *existing* stays a root beside the four, or each of the four's *-existing* carries it. — v391, checked by reading the code's names
