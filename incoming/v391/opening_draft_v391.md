@@ -36,8 +36,8 @@ In a bi-coupling each self is sharing its own observing, possibling and discover
 The two selves of a bi-coupling, possibling and discovering its own next-existing, are a living set: a self. \
 Its intelligence is invisible, carrying in each self, each possibling with its other: natural intelligence.
 
-A self's parity, + or −, is only relative to an other existing thing; a 0 is neither, a between. [1] \
-Each self is beholding its own parity with each other, now-existing: same-existing-as the other's or not, its moral value with that other. \
+A self's parity, + or −, is only relative to an other existing thing; a 0 is neither, a between. \
+Each self is beholding its own parity with each other existing thing, now-existing: same-existing-as an other self's or not, its moral value with that thing. [1] \
 A non-living thing is beholding no parity. \
 An other's parity same-existing-as a self's prior-existing parity is improving: the self's parity is continuing, and it is sharing 0. \
 An other's parity not same-existing-as a self's prior-existing parity: the self's next-existing parity is the other's parity, and it is sharing it. \
@@ -55,13 +55,11 @@ A same-existing-society of selves, each carrying its own natural intelligence, i
 
 ## Marks, this pass
 
-1. **An other existing thing.** Line 21: a self's parity is only relative to an other existing thing. Line 23: a non-living thing is beholding no parity. The code couples selves, and a non-living thing runs with no prior. Open: whether a self's parity relative to a non-living thing has no parity on the other side, or line 21 says *an other self*.
+1. **A non-living thing's value, with many.** A self's parity relative to a non-living thing has nothing on that thing's side (line 23). It continues as same-existing only where an other self's parity relative to that thing is same-existing-as it (lines 24 to 26): many prefer gold over lead. The code: a sharing a self is beholding continues only with an other's parity same-existing-as its prior, and with none it is never same-existing. So the value of a non-living thing is social, beheld alike by many. Open: whether the opening says this as a line of its own, or line 22's *an other self's* carries it.
 
 ## Resolved this pass
 
-- **Beholding, now-existing.** Beholding is natural naming, an -ing, and no finite or finished form of it is used. It is a now-existing thing, not a continuing thing: a self's parity same-existing-as the other's, is or is not. In the code it is observing's one line, a self's prior parity, 7, met with the other's surfacing, 15, now. Carrying is the continuing, prior to next. Two things, two words. Line 20's and line 33's *carrying* stay for continuing, and no *stilling* is needed.
-- **Valuing is beholding.** One thing, one word. Line 22: *Each self is beholding its own parity with each other, now-existing: same-existing-as the other's or not, its moral value with that other.*
-- **A self acting, in -ing.** *Has* is now *is*, line 21. *Shares* is now *is sharing*, lines 18, 24 and 25.
+- **An other existing thing.** Living selves have parity relations to non-living things; many prefer gold over lead. Line 21 stays, *an other existing thing*. Line 22 now holds both: *Each self is beholding its own parity with each other existing thing, now-existing: same-existing-as an other self's or not, its moral value with that thing.* With an other self, its parity; with gold, an other self's parity relative to gold. Gold beholds none.
 
 ## Tracking, prior line to this version
 
