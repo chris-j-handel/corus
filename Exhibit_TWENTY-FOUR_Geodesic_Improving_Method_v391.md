@@ -279,7 +279,7 @@ Each entry: **Pass** · *a* Parity · *b* Binary
 
 **A file tours with its cluster.** A set's clusters carry same concepts with neighbouring substrates: a naming placed or a walk cleared with one file is reached next with files beside it, and a cohering found with one file is found with each file carrying it.
 
-**Two kinds of file part as their carrying opens.** A file that is the fractal binary method itself, depending on no observing, testing or engineering, carries nothing that is not all or none: pattern matching carries first, then six recursions of natural torusing reach a whole file with all or none at all, and a passage not all or none leaves for its file's incoming or for the file whose subject it is. With an observing or engineering file passes leave each opening as it opens.
+**Two kinds of file part as their carrying opens.** A file that is the fractal method itself, depending on no observing, testing or engineering, carries nothing that is not all or none: pattern matching carries first, then six recursions of natural torusing reach a whole file with all or none at all, and a passage not all or none leaves for its file's incoming or for the file whose subject it is. With an observing or engineering file passes leave each opening as it opens.
 
 ## 3.4 At code and each rendering, the not intact at both sides
 

@@ -1045,6 +1045,8 @@ The person met *Met with rigor at v391*'s concerns with suggestions, and said *t
 
 **Bothboth · binary.** *binary all or none at all is not dissolving, only the naming of the concept is no longer this. the elemental math word is valuable and connected to bi-.* *Binary* stays, the elemental word of mathematics, two, is or is not, all or none at all, coupled with bi-, as Natural Naming carries *bi- difference* and *Bi- is difference and co- is two with their difference*. *Binary method*, as the naming of the method, dissolves: the method is parity-changing, is or is not, and logic, mathematics and numbers are its sequencing with each step. The Co-Chaining Logic Registry's subtitle, *Binary Method of Discovering Next Existing*, meets this at its motion. — v391, bothboth
 
+*Entered at v391, step 1:* *binary method* re-said at its three sayings beside subtitles: Natural Mathematics 1.2, *Numbers, mathematics and logic are nature's own unrelationing parity-changing, is or is not, with each step*; Natural Explaining's and the Geodesic Improving Method's *fractal method itself*; Natural Mathematics and Natural Explaining to v391, priors at `archive/session_v391/prior_to_binary_method/`. The Co-Chaining Logic Registry's subtitle is left as is with the subtitles, to return to.
+
 ### Candidates, with the code
 
 **Suggestion · observing for offering.** *is it an improving if we offering from our naming and redo this as Two ways, no third. A 0 arises only where a prior and its observing are the same, or where observings part and there is no prior.* Met with the code: each of the four lines deciding a 0 compares observings and no offering:

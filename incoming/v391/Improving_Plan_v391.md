@@ -19,9 +19,11 @@ The steps below order that improving: title and subtitle, contents, bolds, the o
 3. **Four-cycling named by root, no time,** in Exhibit ONE's tables, Natural Naming's table and the sentences saying a name's step.
 4. **The subtitle, step 1,** *Geodesic Discovering of Next-Possibling-Same-Existing*, at the front, 1.6 and 6.6, with Natural Naming 6.3's gathering and the Living File Registry's entry.
 5. **One object, step 1,** *next-possibling-same-existing* at each saying of the method's object across the set, a non-living thing its *is not*, as the code runs it: six files, the Geodesic Improving Method to v391.
+6. ***Binary method* dissolved, step 1,** at its three sayings beside subtitles, Natural Mathematics and Natural Explaining to v391.
+
+**Left as is, to return to.** The subtitles: Natural Intelligence's as entered, and Exhibit ONE's and the Co-Chaining Logic Registry's as they stand, with the concern *subtitles overladen* at Natural Explaining's offerings.
 
 **Bothboth and waiting to enter.**
-- ***Binary* stays,** and *binary method* dissolves as the method's naming: step 1.
 - **The code's operation is the all or none,** and explaining and naming improve toward it: each step.
 - **12's coupling,** a single observing's next its parity: step 5, at 2.4.
 - **One route,** 6, 10 and 9 each to a receiving self's 14: step 6, Exhibit ONE's drawing and tables.
