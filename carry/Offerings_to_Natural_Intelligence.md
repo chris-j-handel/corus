@@ -840,7 +840,7 @@ Six fresh readers read the 31 other living files across and along, each file's t
 - A self alone inverts each prior with each momentary and is never same.
 - A 0, same, arises at a self's 12 only where an other's shared parity, as 15, meets its prior.
 
-Natural intelligence is carried in each self, invisible, and arises in neither self alone. The opening draft says so. 6.1's *a term neither reaches* is re-said with it at step 9. — v391, bothboth by the code
+Natural intelligence is carried in each self, invisible, and arises in neither self alone. The opening draft says it with living forms, as the person met it, *carried is dead … carrying and possibling is natural*: *Its intelligence is invisible, carrying in each self and possibling with its other: natural intelligence.* 6.1's *a term neither reaches* is re-said with it at step 9. — v391, bothboth by the code
 
 **Droplet · the landing read with the code, at v391.** One self with prior +, −, receiving at 2-now-possibling, run:
 - nothing, or a 0 for each sharing: it inverts each prior, −, +, and shares the inversions on with 10; a 0 arriving and nothing arriving are one;
