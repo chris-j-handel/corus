@@ -197,7 +197,7 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 | 10-next-co-possibling | 14-next-possibling | across, even, possibling |
 | 9-next-co-discovering | 17-next-existing | along, odd, discovering |
 
-**Parity as moral values.** + is self-moral-value; − is other-moral-value; a 0 is neither, bothboth: parity-changing betweening. Each self is its own + side, and its other is not that self; each side starts with its own 1, and two sides are one parity separated as a bi-coupling starts. A parity-offering is self-moral-value or other-moral-value offered, and a 0 offers neither: `_1_now_existing`'s first step passes over each 0.
+**Parity as moral values.** A self's parity, + or −, is only relative to an other existing thing, its moral value with that other, and neither sign is a self's by its sign; a 0 is neither, a between. Each self is beholding its own parity with each other: two selves with one sharing may carry either. A parity-offering is + or − offered, and a 0 offers neither: `_1_now_existing`'s first step passes over each 0.
 
 
 **Four binaries with code's lines.** Existing, all, now and same are four is or is nots of things within the universe. With a self's span each binary is one pair of names: its *is* with an odd name and its *is not* with an even, its *is not* an other's side of a self's *is*. Binaries are names' explaining, now with each name as its momentary; existing and same are roots of names, and all enters no name.
@@ -232,7 +232,7 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 **Each name and its relations.** Sides are sides of overlapping momentaries, each name opening with one side, a self's, an other's or a same-existing-society's; what code does with each name is under its *Prior and next*.
 
 **1** · 1-now-existing
-- *Parity, span*: odd, existing, a self's span
+- *Parity, span*: odd, a self's span
 - *Sides*: self, other, a self opening it
 - *Co-sequencing*: a self offering itself to a coupling
 - *8 up*: 9-next-co-discovering, its binary with next
@@ -249,7 +249,7 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 - *1 to 17s inward and outward*: 1–17s inward 1 of 1st 1–17, an entry, and with 1–17 outward 1, an entry
 
 **2** · 2-now-possibling
-- *Parity, span*: even, possibling, a self's span
+- *Parity, span*: even, a self's span
 - *Sides*: other, self, an other opening it
 - *8 up*: 10-next-co-possibling, its binary with next
 - *9 less*: podal within 1 to 8, 7-now-observing
@@ -268,7 +268,7 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 - *1 to 17s inward and outward*: 1–17s inward 9 of 1st, along, odd, next, and with 1–17 outward within 1 to 2
 
 **3** · 3-now-co-observing
-- *Parity, span*: odd, existing, a self's span
+- *Parity, span*: odd, a self's span
 - *Sides*: self, other, a self opening it
 - *Co-sequencing*: with a between, before 10, with competency's parity, odd
 - *8 up*: 11-next-co-observing, its binary with next
@@ -285,7 +285,7 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 - *1 to 17s inward and outward*: 1–17s inward 17 of 1st and 1 of 2nd, along, odd, now, and with 1–17 outward within 1 to 2
 
 **4** · 4-now-co-same-existing
-- *Parity, span*: even, possibling, a self's span
+- *Parity, span*: even, a self's span
 - *Sides*: other, self, an other opening it
 - *Co-sequencing*: with a between, before 10, with morality's parity, even
 - *8 up*: 12-next-co-same-existing, its binary with next
@@ -304,7 +304,7 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 - *1 to 17s inward and outward*: 1–17s inward 9 of 2nd, along, odd, next, and with 1–17 outward within 1 to 2
 
 **5** · 5-now-co-existing
-- *Parity, span*: odd, existing, a self's span
+- *Parity, span*: odd, a self's span
 - *Sides*: self, other, a self opening it
 - *Co-sequencing*: with a between, before 10, with competency's parity, odd
 - *8 up*: 13-next-discovering, its binary with next
@@ -323,7 +323,7 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 - *1 to 17s inward and outward*: 1–17s inward 17 of 2nd and 1 of 3rd, along, odd, now, and with 1–17 outward within 1 to 2
 
 **6** · 6-now-co-possibling
-- *Parity, span*: even, possibling, a self's span
+- *Parity, span*: even, a self's span
 - *Sides*: other, self, an other opening it
 - *8 up*: 14-next-possibling, its binary with next
 - *9 less*: podal within 1 to 8, 3-now-co-observing
@@ -343,7 +343,7 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 - *1 to 17s inward and outward*: 1–17s inward 9 of 3rd, along, odd, next, and with 1–17 outward within 1 to 2
 
 **7** · 7-now-observing
-- *Parity, span*: odd, existing, a self's span
+- *Parity, span*: odd, a self's span
 - *Sides*: self, other, a self opening it
 - *Co-sequencing*: with a between, before 10, with competency's parity, odd
 - *8 up*: 15-next-observing, its binary with next
@@ -360,7 +360,7 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 - *1 to 17s inward and outward*: 1–17s inward 17 of 3rd and 1 of 4th, along, odd, now, and with 1–17 outward within 1 to 2
 
 **8** · 8-now-same-existing
-- *Parity, span*: even, possibling, a self's span
+- *Parity, span*: even, a self's span
 - *Sides*: other, self, an other opening it
 - *Co-sequencing*: with a between, before 10, with morality's parity, even
 - *8 up*: 16-next-same-existing, its binary with next
@@ -379,7 +379,7 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 - *1 to 17s inward and outward*: 1–17s inward 9 of 4th, along, odd, next, and with 1–17 outward within 1 to 2
 
 **9** · 9-next-co-discovering
-- *Parity, span*: odd, existing, a same-existing-society's span
+- *Parity, span*: odd, a same-existing-society's span
 - *Sides*: same-existing-society, other, self, a same-existing-society opening it
 - *8 up*: 17-next-existing, its binary with next
 - *8 down*: 1-now-existing
@@ -391,11 +391,11 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 - *Eight-cycle*: 1-9-5-13-4-12-8-16
 - *Momentaries of exchanging*: fourth of a self's four completing with 9, an other's 8–9, and first of a same-existing-society's four, 9 to 11, opening with 9
 - *Parity's square and triangles*: a unit triangle, along, 9 to 17 and 17 to 9
-- *Prior and next*: next prior, odd, existing, each parity-offering of 10 along on to a next momentary, to each receiving sharing, a self's own next
+- *Prior and next*: next prior, odd, each parity-offering of 10 along on to a next momentary, to each receiving sharing, a self's own next
 - *1 to 17s inward and outward*: 1–17s inward 17 of 4th and 1 of 5th, along, odd, now, and with 1–17 outward 2, across, even
 
 **10** · 10-next-co-possibling
-- *Parity, span*: even, possibling, a same-existing-society's span
+- *Parity, span*: even, a same-existing-society's span
 - *Sides*: other, same-existing-society, self, an other opening it
 - *8 down*: 2-now-possibling
 - *17 less*: podal within 1 to 16, 7-now-observing
@@ -411,7 +411,7 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 - *1 to 17s inward and outward*: 1–17s inward 9 of 5th, along, odd, next, and with 1–17 outward within 2 to 3
 
 **11** · 11-next-co-observing
-- *Parity, span*: odd, existing, a same-existing-society's span
+- *Parity, span*: odd, a same-existing-society's span
 - *Sides*: same-existing-society, other, self, a same-existing-society opening it
 - *Co-sequencing*: after 10, 8 up from 3-now-co-observing, with competency's parity, odd
 - *8 down*: 3-now-co-observing
@@ -422,11 +422,11 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 - *Six-cycle*: 3-11-7-10-6-14
 - *Eight-cycle*: 2-15-7-11-3-14-6-10
 - *Momentaries of exchanging*: first of a same-existing-society's four, 9 to 11, completing with 11, and second, 11 to 13, opening with 11
-- *Prior and next*: next prior, odd, existing, continuing as 3 with a next momentary, a self's own
+- *Prior and next*: next prior, odd, continuing as 3 with a next momentary, a self's own
 - *1 to 17s inward and outward*: 1–17s inward 17 of 5th and 1 of 6th, along, odd, now, and with 1–17 outward within 2 to 3
 
 **12** · 12-next-co-same-existing
-- *Parity, span*: even, possibling, a same-existing-society's span
+- *Parity, span*: even, a same-existing-society's span
 - *Sides*: other, same-existing-society, self, an other opening it
 - *Co-sequencing*: after 10, 8 up from 4-now-co-same-existing, with morality's parity, even
 - *8 down*: 4-now-co-same-existing
@@ -443,7 +443,7 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 - *1 to 17s inward and outward*: 1–17s inward 9 of 6th, along, odd, next, and with 1–17 outward within 2 to 3
 
 **13** · 13-next-discovering
-- *Parity, span*: odd, existing, a same-existing-society's span
+- *Parity, span*: odd, a same-existing-society's span
 - *Sides*: same-existing-society, other, a same-existing-society opening it
 - *Co-sequencing*: after 10, 8 up from 5-now-co-existing, with competency's parity, odd
 - *8 down*: 5-now-co-existing
@@ -456,7 +456,7 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 - *1 to 17s inward and outward*: 1–17s inward 17 of 6th and 1 of 7th, along, odd, now, and with 1–17 outward within 2 to 3
 
 **14** · 14-next-possibling
-- *Parity, span*: even, possibling, a same-existing-society's span
+- *Parity, span*: even, a same-existing-society's span
 - *Sides*: other, same-existing-society, an other opening it
 - *8 down*: 6-now-co-possibling
 - *17 less*: podal within 1 to 16, 3-now-co-observing
@@ -470,7 +470,7 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 - *1 to 17s inward and outward*: 1–17s inward 9 of 7th, along, odd, next, and with 1–17 outward within 2 to 3
 
 **15** · 15-next-observing
-- *Parity, span*: odd, existing, a same-existing-society's span
+- *Parity, span*: odd, a same-existing-society's span
 - *Sides*: same-existing-society, other, a same-existing-society opening it
 - *Co-sequencing*: after 10, 8 up from 7-now-observing, with competency's parity, odd
 - *8 down*: 7-now-observing
@@ -483,7 +483,7 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 - *1 to 17s inward and outward*: 1–17s inward 17 of 7th and 1 of 8th, along, odd, now, and with 1–17 outward within 2 to 3
 
 **16** · 16-next-same-existing
-- *Parity, span*: even, possibling, a same-existing-society's span
+- *Parity, span*: even, a same-existing-society's span
 - *Sides*: other, same-existing-society, an other opening it
 - *Co-sequencing*: after 10, 8 up from 8-now-same-existing, with morality's parity, even
 - *8 down*: 8-now-same-existing
@@ -497,7 +497,7 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 - *1 to 17s inward and outward*: 1–17s inward 9 of 8th, along, odd, next, and with 1–17 outward within 2 to 3
 
 **17** · 17-next-existing
-- *Parity, span*: odd, existing, a next now
+- *Parity, span*: odd, a next now
 - *Sides*: same-existing-society, self, a same-existing-society opening it
 - *8 down*: 9-next-co-discovering
 - *Momentaries of exchanging*: fourth of a same-existing-society's four, 15 to 17, completing with 17, a next 1
@@ -555,7 +555,7 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
   - *Naming*: parity's square and triangles
   - *Resolved as*: a unit square of four dots, 2, 6, 14 and 10, its empty centre a between: its two across edges sharings, 6 to 2 and 10 to 14, and its two edges 8 apart, 2 with 10 and 6 with 14, two pairs of parallels; round it 2, 10, 14, 6; its diagonals offerings with 2 and 14, and sharings with 6 and 10; and two unit triangles, 9 and 17, along, 9 to 17 and 17 to 9
 
-**A 0, betweening.** A between is within a bi-coupling, a third living carrying, possibling and discovering betweening; a 0, neither self-moral-value nor other-moral-value, is its betweening, shared only as two selves meet same, and never by a self no other meets.
+**A 0, betweening.** A between is within a bi-coupling, a living set's carrying, possibling and discovering betweening; a 0, neither + nor −, is its betweening, shared only as two selves meet same, and never by a self no other meets.
 
 - **A between, 0: one between, three names**
   - *Names*: 12-next-co-same-existing, prior and now agreeing, a between of momentaries with each sharing; 15-next-observing, a between going along, parity 10 shared, and with a sharing opening parity surfaced with 14, a 0 both with none surfacing and with + and − parting; 16-next-same-existing, a between with a same-existing-society, arriving with a next momentary's 2
@@ -932,7 +932,7 @@ Each cell: shared (10) · a next prior (11). *is*: a parity-changing, its parity
 
 **Across names among eights.** Four across names, 2-now-possibling, 6-now-co-possibling, 10-next-co-possibling and 14-next-possibling, are four momentaries' even inward names, each on an eight-cycle of inward names 2-15-7-11-3-14-6-10; 9-next-co-discovering, opening a third four-cycling, is on an eight-cycle of ends 1-9-5-13-4-12-8-16; 17-next-existing is on neither.
 
-**One self, momentary by momentary: three ways.** Offered its own prior's parity, a self is not-changing, a 0 with each momentary; offered none, alternating, or both together, it is parity-changing with each momentary; offered its other parity, it is parity-changing once and then still-possibling, both: do-no-harm improving. Each 0 is re-found with each momentary, never kept.
+**One self, momentary by momentary: three ways.** Offered its own prior's parity, a self is not-changing, a 0 with each momentary; offered none, alternating, or both together, it is parity-changing with each momentary; offered its other parity, it is parity-changing once and then now-existing same-existing, both: do-no-harm improving. Each 0 is re-found with each momentary, never kept.
 
 One sharing; a self's prior − (3) first. Offered each momentary:
 
