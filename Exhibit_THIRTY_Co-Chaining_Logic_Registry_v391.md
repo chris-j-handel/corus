@@ -111,19 +111,19 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
 ## 2 Observing, possibling and discovering, self and other
 
-        *Entering: observing, now with prior; possibling, next with now; discovering, prior with next; a self; two priors possibling each other; one and two; a momentarying opening and completing; within, one to two; self-possibling; between, two to three; self-discovering, along; across, a self's between an other's within.*
+        *Entering: observing, prior with now; possibling, within now; discovering, next with now; a self; two priors possibling each other; one and two; a momentarying opening and completing; within, one to two; self-possibling; between, two to three; self-discovering, along; across, a self's between an other's within.*
 
-13. Observing is now-existing, is or is not same-existing-as prior-existing.
+13. Observing is prior-existing, is or is not same-existing-as now-existing.
 
-        *Adding: observing, now with prior.*
+        *Adding: observing, prior with now.*
 
-14. Possibling is next-existing, is or is not same-existing-as now-existing.
+14. Possibling is now-existing, is or is not same-existing-as now-existing.
 
-        *Adding: possibling, next with now.*
+        *Adding: possibling, within now.*
 
-15. Discovering is prior-existing, is or is not same-existing-as next-existing.
+15. Discovering is next-existing, is or is not same-existing-as now-existing.
 
-        *Adding: discovering, prior with next.*
+        *Adding: discovering, next with now.*
 
 16. A self is a same-existing thing observing, possibling and discovering its own next-existing from prior-existing while now-existing.
 

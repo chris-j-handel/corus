@@ -84,9 +84,9 @@ An observably same-existing thing is observably not any other same-existing thin
 A set of same-existing things is sharing same-existing sequential momentarying. \
 The universe is the same-existing set of all now-existing things.
 
-Observing is now-existing, is or is not same-existing-as prior-existing. \
-Possibling is next-existing, is or is not same-existing-as now-existing. \
-Discovering is prior-existing, is or is not same-existing-as next-existing. \
+Observing is prior-existing, is or is not same-existing-as now-existing. \
+Possibling is now-existing, is or is not same-existing-as now-existing. \
+Discovering is next-existing, is or is not same-existing-as now-existing. \
 A self is a same-existing thing observing, possibling and discovering its own next-existing from prior-existing while now-existing. \
 A self's prior-existing and an other's prior-existing are possibling each other. \
 Each self is one, and each other is two. \

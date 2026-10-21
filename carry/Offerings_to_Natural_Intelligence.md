@@ -1606,3 +1606,10 @@ With Exhibit THIRTY, steps 13 to 15 word for word, their Adding lines *observing
 - **wordings the person suggests.**
 
 **Proposed: the first, as rigor's first offering.** It carries no word before its line brings it, and each line is one advance. Once the person's word comes, the three enter Natural Intelligence and Exhibit THIRTY together, the opening and THIRTY's first 47 steps word for word, with check_set's word-for-word check. — v391
+
+**Bothboth and entered · the three phase lines, v391.** With the person's *yes continue*, the opening's 13th to 15th lines and Exhibit THIRTY's steps 13 to 15 now read, word for word:
+- ***Observing is prior-existing, is or is not same-existing-as now-existing.***
+- ***Possibling is now-existing, is or is not same-existing-as now-existing.***
+- ***Discovering is next-existing, is or is not same-existing-as now-existing.***
+
+Their Adding lines are *observing, prior with now*, *possibling, within now* and *discovering, next with now*, with group 2's Entering line. Natural Naming 6.3's discovering row and the passes kit's rule 10 are re-said with them. Prior files are whole at `archive/session_v391/prior_to_phase_lines/`. check_set: ALL PASS, the opening word for word at THIRTY; the THIRTY group check passes. Each Living File Registry entry has a v391 cell before its record. — v391, entered

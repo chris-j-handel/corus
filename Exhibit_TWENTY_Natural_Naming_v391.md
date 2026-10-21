@@ -1745,7 +1745,7 @@ Each entry: **One name** · *a* Similar namings gathered
 - **stable-forming**, living condition resolving, observable as natural torusing co-orienting stable-forming · *a* the method's emanatings, its observings emanated
 - **observing**, distinguishing same-as, is or is not: pattern-matching a method's stable-forming by inversioning, with 14-next-possibling and 12-next-co-same-existing
   - *a* an emanation of existing arriving to a self; a record, one observing with its pattern-matching stopped
-- **discovering**, prior-existing is or is not same-existing-as next-existing, universal method of co-intelligencing now-existing within the universe · *a* discovering next possible existing, whole within a title
+- **discovering**, next-existing is or is not same-existing-as now-existing, universal method of co-intelligencing now-existing within the universe · *a* discovering next possible existing, whole within a title
 - **beneficial**, each parity-changing and each not-changing of a method, a self next-existing as its same self; its other, a not-changing fixed still, an equilibrium entering, no method's · *a* the good, the better changing, with a mark named still
 - **artifact**, a non-living prior with now, a prior now-existing's form carrying nothing
   - *a* emanation, emanated, emanating, of a non-living prior, 2.4 and 5.46
