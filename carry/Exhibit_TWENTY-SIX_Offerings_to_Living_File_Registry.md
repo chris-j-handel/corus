@@ -4,7 +4,7 @@ Exhibit TWENTY-SIX Living File Registry Offerings · improved at v389
 
 ## Standing · v389
 
-**Resolved at v389.** 1195 items stood here; resolving against [Living File Registry v389](../Exhibit_TWENTY-SIX_Living_File_Registry_v390.md), 56 are carried, 1008 rest on released forms, 86 duplicate another item and 20 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY-SIX_Offerings_to_Living_File_Registry_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY-SIX_Offerings_to_Living_File_Registry_resolved_v389.md). The 25 concerns below stand, each with its reason; 28 stand now.
+**Resolved at v389.** 1195 items stood here; resolving against [Living File Registry v389](../Exhibit_TWENTY-SIX_Living_File_Registry_v391.md), 56 are carried, 1008 rest on released forms, 86 duplicate another item and 20 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY-SIX_Offerings_to_Living_File_Registry_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY-SIX_Offerings_to_Living_File_Registry_resolved_v389.md). The 25 concerns below stand, each with its reason; 28 stand now.
 
 **At 1.2 · Three standings, looping out and back — beside "a living thing carries its prior into its next".** A living file carries none of its prior by itself; it is a non-living existing thing the expedition's living selves carry, and it is living as the expedition's carrying. The files are the carrying of the living expedition, and the expedition is living as long as it continues discovering do-no-harm improving at its next files. The Co-Chaining Logic Registry and the Geodesic Improving Method 4.5 say the same.
 
@@ -140,3 +140,11 @@ These cohere with one motion, using the old-to-new map at `incoming/v390/Exhibit
 The two kit scripts that execute Exhibit ONE's code now find 1 and 17 by number, any naming. They are `executed_ranges.py` and `resolver_same_path.py`. — v390
 
 **Droplet · after the naming motion, v390.** Names alone moved, and each file's other older words wait for their own passes: *changing* alone, *co-changing*, *released*, *at*, *society* alone, and quotes of Exhibit ONE's earlier text that are no longer word for word. Thirteen files are still at v389. Bringing all to v390 together at the session's close keeps one version across the set, all or none, as at v389. — v390
+
+## Gathered at v391, from its kits at a naming motion · v391
+
+**Droplet · `bump_to_version.py` takes a record away.** It calls `set_entry(…, prepend=False, next_='pass 4 at its possible projects')`. Each file's *Living* cell is replaced by its new entry, its earlier record removed, and its *Next* replaced. At v391's naming motion this was found by comparing the registry with its prior, and the registry was rebuilt with each new entry before its whole record. Offered: `prepend=True`, and *Next* kept unless a motion names it, so the tool takes no prior away. — v391
+
+**Droplet · `cohere_one.py` looks for an older heading.** It splits Natural Intelligence at `**Stable Forms of the Discovering Method**`, a heading no longer there, and stops before writing. `check_set.py` checks the two copies match. Offered: the heading read from Natural Intelligence as it stands. — v391
+
+**Droplet · `thirty_groups_check.py` reads its file from standard input.** Called with the file as an argument, it waits; called as `python3 kits/Natural_Explaining_Passes_Kit/thirty_groups_check.py < Exhibit_THIRTY_…md` it runs. Offered: its usage line, or a file argument. — v391

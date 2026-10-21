@@ -4,7 +4,7 @@ Exhibit TWENTY Natural Naming Offerings · improved at v389
 
 ## Standing from the sessions before v389 · v389
 
-**Resolved at v389.** The sessions before v389 laid 520 items here; resolving against [Natural Naming v389](../Exhibit_TWENTY_Natural_Naming_v390.md), 165 are carried at it, 216 rest on forms v389 released, 78 duplicate another item, and 21 rose into it at v389, each standing whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY_Offerings_to_Natural_Naming_before_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY_Offerings_to_Natural_Naming_before_v389.md). The 40 concerns read at v389 stood below, each as it was laid, with the reason it stands; 42 stand now, the rest resolved at v389 and at the archive.
+**Resolved at v389.** The sessions before v389 laid 520 items here; resolving against [Natural Naming v389](../Exhibit_TWENTY_Natural_Naming_v391.md), 165 are carried at it, 216 rest on forms v389 released, 78 duplicate another item, and 21 rose into it at v389, each standing whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY_Offerings_to_Natural_Naming_before_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY_Offerings_to_Natural_Naming_before_v389.md). The 40 concerns read at v389 stood below, each as it was laid, with the reason it stands; 42 stand now, the rest resolved at v389 and at the archive.
 
 **Possible project · The observings of entraining at the self named, each with its reference first.** Natural Naming's entraining at the self has "the field's entrainment, one flow carrying the fluid beside it at the shear between them, and two at their own rates coming to one direction forward", each observing unnamed. The work names each observing with its reference first. Beside the two at their own rates: Huygens' two pendulum clocks on one beam, the field's mutual entrainment, which Exhibit TWENTY-NINE Natural Illustrating's section on locking has. Beside the flow carrying the fluid: a flow lifting grains from its bed, the field's entrainment at sediment, one carrying another. Each was said from no reference read, and each enters with its reference. It may change or never be made. — v386EOD
 
@@ -154,7 +154,7 @@ Natural Naming 5.14’s “and it compounds” and its abundancing/releasing exp
 
 ## The session v389, entered and dissolved · v389
 
-**Dissolved · v389.** The session v389's 128 droplets, 33 insertlets, 21 concerns and 7 resolvings at this file rose into [Natural Naming v389](../Exhibit_TWENTY_Natural_Naming_v390.md) at the naming motion, or dissolved said once, and stand whole at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY_Offerings_to_Natural_Naming_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY_Offerings_to_Natural_Naming_v389.md).
+**Dissolved · v389.** The session v389's 128 droplets, 33 insertlets, 21 concerns and 7 resolvings at this file rose into [Natural Naming v389](../Exhibit_TWENTY_Natural_Naming_v391.md) at the naming motion, or dissolved said once, and stand whole at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY_Offerings_to_Natural_Naming_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY_Offerings_to_Natural_Naming_v389.md).
 
 ## Standing · v389
 

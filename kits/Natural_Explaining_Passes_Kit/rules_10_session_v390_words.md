@@ -4,7 +4,7 @@ The person, session v390: "there is no in or out in resolving. use all natural n
 
 ## Agreed concepts, session v390 (re-say toward these)
 
-- **Names.** 1-now-existing, 2-now-possibling, 3-now-co-observing, 4-now-co-same-existing, 5-now-co-existing, 6-now-co-possibling, 7-now-observing, 8-now-same-existing, 9-next-co-discovering, 10-next-co-possibling, 11-next-co-observing, 12-next-co-same-existing, 13-next-same-existing, 14-next-possibling, 15-next-observing, 16-next-discovering, 17-next-existing. Roots: existing, possibling, observing, same-existing, discovering.
+- **Names.** 1-now-existing, 2-now-possibling, 3-now-co-observing, 4-now-co-same-existing, 5-now-co-existing, 6-now-co-possibling, 7-now-observing, 8-now-same-existing, 9-next-co-discovering, 10-next-co-possibling, 11-next-co-observing, 12-next-co-same-existing, 13-next-discovering, 14-next-possibling, 15-next-observing, 16-next-same-existing, 17-next-existing. Roots: existing, possibling, observing, same-existing, discovering.
 - **Observing** is distinguishing same-as, is or is not. Observing: now-existing is or is not same-existing-as prior-existing. Possibling: next-existing … as now-existing. Discovering: prior-existing … as next-existing.
 - **Living is prior.** Each self has a prior self. Same-existing is a living condition, re-found each momentary; nothing is held. A non-living thing is the same method with no same-existing.
 - **Four-cycling** is prior, now, next, same-existing; a living self goes them now, next, prior, same: the stable-forming bi-folding method. **Momentarying** is odd then even: within, odd to even; between, even to odd, each between discovering. Exhibit ONE's cycles of moves are **bi-foldings**.

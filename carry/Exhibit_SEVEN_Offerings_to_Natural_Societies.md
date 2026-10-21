@@ -4,7 +4,7 @@ Exhibit SEVEN Natural Societies Offerings · laid at v381R · improved at v389
 
 ## Standing · v389
 
-**Resolved at v389.** 163 items stood here; resolving against [Natural Societies](../Exhibit_SEVEN_Natural_Societies_v390.md), 38 are carried, 35 rest on released forms, 52 duplicate another item and 18 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_SEVEN_Offerings_to_Natural_Societies_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_SEVEN_Offerings_to_Natural_Societies_resolved_v389.md). Its 20 concerns stand below, each with its reason; 21 stand now.
+**Resolved at v389.** 163 items stood here; resolving against [Natural Societies](../Exhibit_SEVEN_Natural_Societies_v391.md), 38 are carried, 35 rest on released forms, 52 duplicate another item and 18 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_SEVEN_Offerings_to_Natural_Societies_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_SEVEN_Offerings_to_Natural_Societies_resolved_v389.md). Its 20 concerns stand below, each with its reason; 21 stand now.
 
 **At 4.3 · Healthy living is the relation between birthing and nyeing — beside "Either is the relation broken".** 4.4, 4.5 and 4.6 follow here, inside Part Four, in the body and the contents, and Part Five follows them: the three were placed after Part Five, and the file's own order arrives back with no sentence of them changed.
 

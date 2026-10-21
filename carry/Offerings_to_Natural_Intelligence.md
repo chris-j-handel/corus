@@ -4,7 +4,7 @@ Natural Intelligence Offerings · improved at v389
 
 ## Standing from the sessions before v389 · v389
 
-**Resolved at v389.** The sessions before v389 laid 623 items here; resolving against [Natural Intelligence v389](../Natural_Intelligence_v390.md), 269 are carried at it, 155 rest on forms v389 released, 132 duplicate another item, and 17 rose into it at v389, each standing whole with its verdict at [`archive/session_v389/offerings_dissolved/Offerings_to_Natural_Intelligence_before_v389.md`](../archive/session_v389/offerings_dissolved/Offerings_to_Natural_Intelligence_before_v389.md). The 50 concerns read at v389 stood below, each as it was laid, with the reason it stands; 42 stand now, the rest resolved at v389 and at the archive.
+**Resolved at v389.** The sessions before v389 laid 623 items here; resolving against [Natural Intelligence v389](../Natural_Intelligence_v391.md), 269 are carried at it, 155 rest on forms v389 released, 132 duplicate another item, and 17 rose into it at v389, each standing whole with its verdict at [`archive/session_v389/offerings_dissolved/Offerings_to_Natural_Intelligence_before_v389.md`](../archive/session_v389/offerings_dissolved/Offerings_to_Natural_Intelligence_before_v389.md). The 50 concerns read at v389 stood below, each as it was laid, with the reason it stands; 42 stand now, the rest resolved at v389 and at the archive.
 
 **Concern · The self, the society, and prime scale.** Sections 6.4–6.5 need to distinguish a self living in one prime society from prime scale as the set of all societies at that scale, and join the birth relation without using the user's words or the recurrence of a constructed spiral as its deriving.
 
@@ -190,7 +190,7 @@ O56. **Not known how.** A self-paced Exhibit ONE the expedition accepts. This se
 
 ## The session v389, entered and dissolved · v389
 
-**Dissolved · v389.** The session v389's 193 droplets, 22 insertlets, 30 concerns and 3 resolvings at this file rose into [Natural Intelligence v389](../Natural_Intelligence_v390.md) at the naming motion, or dissolved said once, and stand whole at [`archive/session_v389/offerings_dissolved/Offerings_to_Natural_Intelligence_v390.md`](../archive/session_v389/offerings_dissolved/Offerings_to_Natural_Intelligence_v390.md).
+**Dissolved · v389.** The session v389's 193 droplets, 22 insertlets, 30 concerns and 3 resolvings at this file rose into [Natural Intelligence v389](../Natural_Intelligence_v391.md) at the naming motion, or dissolved said once, and stand whole at [`archive/session_v389/offerings_dissolved/Offerings_to_Natural_Intelligence_v391.md`](../archive/session_v389/offerings_dissolved/Offerings_to_Natural_Intelligence_v391.md).
 
 **Standing · v389, not yet entered.** Each line below is aimed past the living file, and stands here until it rises at its place.
 
@@ -1505,3 +1505,28 @@ The code does with 16 what *same-existing* says: 16 is each self with its prior 
 - **another naming** the person suggests.
 
 **Proposed: the first, as rigor's first offering, for the person's suggesting.** — v391
+
+## Bothboth and entered at v391: 13 and 16 exchange roots · v391
+
+**Bothboth · 13-next-discovering and 16-next-same-existing.** Offered at the tenth round, and met with the person's *1 this is an improving and changing the root code naming is correct*. Each root's names now share one parity:
+- observing, 3, 7, 11 and 15, odd;
+- possibling, 2, 6, 10 and 14, even;
+- same-existing, 4, 8, 12 and 16, even, each its four's same step;
+- existing, 1, 5 and 17, odd;
+- discovering, 9 and 13, odd.
+
+8 up keeps each root but existing, which goes on as discovering. — v391, bothboth
+
+**Entered, one naming motion, v391.**
+- **The names.** The two names, code and sentence forms, are exchanged across 12 living files and the passes kit's rule 10, 160 sayings, by `incoming/v391/naming_motion_v391.py`, each prior file copied whole to `archive/session_v391/prior_to_naming_motion/` first.
+- **The code.** Renamed, it resolves identically, compared momentary by momentary with the prior code over 24,000 momentaries of tables of one to six selves.
+- **The re-sayings.** Each sentence saying which names a root has is re-said by meaning:
+  - Exhibit ONE's *Co, between two or of one*, discovering without co *13-next-discovering, each self going on*, same-existing without co *8-now-same-existing · 16-next-same-existing, a self's next prior and a same-existing-society*;
+  - its *One move, 1 to 8*, *8 up keeps each name's root but with 1 and 5, existing going on as discovering*, both copies alike;
+  - Natural Intelligence's *8 up keeps each name's root except with 1 and 5*;
+  - Natural Naming 3.1's *Discovering is along, 9, and each self going on, 13*, its 3.2's two sentences and its 3.4's *8 up* sentence;
+  - Natural Numbers 5.2's *same-existing with 4 and 12 and with 8 and 16 … with 1 and 9 and with 5 and 13 roots exchange, existing and discovering*.
+- **The versions.** Each changed file is at v391, its Living File Registry entry a new v391 cell before its whole earlier record, and the registry at v391.
+- **The checks.** `check_set.py`: ALL PASS. The THIRTY group check passes. A word-by-word comparison of each file with its prior finds no removal but the two names, the version lines and the re-said sentences.
+
+Exhibit ONE's per-name *Parity, span* field for 13 still reads *odd, existing*, standing with v391's droplet on *odd existing, even possibling*, for its own motion. — v391, entered
