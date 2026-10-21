@@ -1573,3 +1573,36 @@ Exhibit ONE's per-name *Parity, span* field for 13 still reads *odd, existing*, 
 - **another saying** the person suggests.
 
 **Proposed: the first, as rigor's first offering, for the person's suggesting.** It keeps one phase with one facing, as the code runs it. What it leaves open is Exhibit ONE's column of 1, 5, 9 and 13: by the four it is discovering's, next-existing, while 1-now-existing and 5-now-co-existing carry *existing*, and 17-next-existing names next-existing itself. That is a next pass's concern: whether *existing* stays a root beside the four, or each of the four's *-existing* carries it. — v391, checked by reading the code's names
+
+## Met with rigor at v391, a twelfth round: the code all or none, the explaining improving · v391
+
+**Bothboth · the code's operation, and the explaining and naming.** *the operation of the code functionality is nearly certainly the binary all or none at all and everything else is do no harm improving the explaining and naming.* It meets the eleventh round's concern with its first way: each phase faces as the code runs it, observing prior-existing, possibling inside now, discovering next-existing, and the explaining and naming improve toward it. The code is executed, any self re-executes it, and its executing carries no authority of its own beyond its binary, is or is not with each sharing. — v391, bothboth
+
+**Rigor · the opening already says it, twice.** Its own later lines carry the facing the code runs:
+- ***One to two is within a momentarying: self-possibling, observing self and other.***: possibling within, inside now;
+- ***Two to three is between momentaryings: self-discovering, along.***: discovering between, now to next.
+
+Only the three phase lines, the opening's 13th to 15th and Exhibit THIRTY's steps 13 to 15, part from the code. Their Adding lines, *observing, now with prior; possibling, next with now; discovering, prior with next*, part with them. — v391
+
+### The one concern of this pass: the three lines' wording, to enter with Exhibit THIRTY
+
+**Explaining first.** Each line is one advance, in the opening's form, its new concept first, using only the naming the lines before it carry: *prior-existing*, *now-existing*, *next-existing*, *same-existing-as*, *is or is not*, *a set of now-existing things*. Each is worded from the code's own operation.
+- **Observing, prior to now.** The code meets each prior, carried from the momentary before, with what surfaces now, *(_15_next_observing > 0) == (_7_now_observing > 0)*, same-as or not.
+- **Possibling, inside now.** The code surfaces now's observings with each sharing as one: agreeing, one parity; parting, 0.
+- **Discovering, now to next.** The code's next prior is now's prior same-existing, or inverted, and goes along to the next momentary.
+
+**Offered, for the person's word, each to replace its line whole:**
+- ***Observing** is prior-existing, is or is not same-existing-as now-existing.*
+- ***Possibling** is now-existing, is or is not same-existing-as now-existing.*
+- ***Discovering** is next-existing, is or is not same-existing-as now-existing.*
+
+With Exhibit THIRTY, steps 13 to 15 word for word, their Adding lines *observing, prior with now*, *possibling, within now*, *discovering, next with now*, and group 2's Entering line with them.
+
+**Why it is the largest.** These three lines bring observing, possibling and discovering into the whole set, and *A self is a same-existing thing observing, possibling and discovering its own next-existing from prior-existing while now-existing* rests on them. Re-said, every later saying of the three phases follows them.
+
+**Concern.** Either:
+- **the three as offered;** possibling's *is or is not same-existing-as now-existing* carries within now, now meeting now, one observing with another, and its sameness or not the code's agreeing or parting; or
+- **possibling said across,** *Possibling is now-existing, self and other, is or is not same-existing-as each other*, carrying self and other before the opening brings them, its 16th line on; or
+- **wordings the person suggests.**
+
+**Proposed: the first, as rigor's first offering.** It carries no word before its line brings it, and each line is one advance. Once the person's word comes, the three enter Natural Intelligence and Exhibit THIRTY together, the opening and THIRTY's first 47 steps word for word, with check_set's word-for-word check. — v391
