@@ -176,7 +176,7 @@ A second method of discovering next-existing is one more now-existing thing, alt
 
 **Numbers too are one and then an other**: two numbers side by side alternate, each continuing one on from an other: 1 to 3, 2 to 4, 3 to 5, and on. A number is odd or even, binary, and that binary is **parity**. **One side carries odd numbers and an other even**, two overlapping, one side's parity-changing overlapping an other's.
 
-**A side opening with 1, odd, is a self; a side opening with 2, even, is an other.** A side continuing by its own carrying is along, and a side coupling with an other is across: self and same-existing-society open odd, along, and an other opens even, across. **Odds are along, between momentaries, and evens are across, between parity-changing or not-changing within a momentary, while geodesic parity-changing is entraining through momentaryings.** **Co is of a sharing between two, and its absence of one**: a name's number is its odd or even and its step of four-cycling, and its momentary is its span. **Odd is competency and even is morality**: competency is co-unrelationing, along, and morality is bi-unrelationing, across; and co-bi-unrelationing is one existing method. A name's parity is its own number's, odd along and even across, one sense; a number of inversions with a name between selves is a number and no second sense of a word.
+**A side opening with 1, odd, is a self; a side opening with 2, even, is an other.** A side continuing by its own carrying is along, and a side coupling with an other is across: self and same-existing-society open odd, along, and an other opens even, across. **Odds are along, between momentaries, and evens are across, between parity-changing or not-changing within a momentary, while geodesic parity-changing is entraining through momentaryings.** **Co is of a sharing between two, and its absence of one**: a name's number is its odd or even and its place within its four, and its momentary is its span. **Odd is competency and even is morality**: competency is co-unrelationing, along, and morality is bi-unrelationing, across; and co-bi-unrelationing is one existing method. A name's parity is its own number's, odd along and even across, one sense; a number of inversions with a name between selves is a number and no second sense of a word.
 
 **Parity-changing is is or is not same-existing.** An even sequence of parity-changings arrives same-as-prior, and an odd sequence arrives other-than-prior, with no measure and no scale but living. With resolver, + and − are a sharing's parity, and 0 is a between: with 14 a between of self and other, and with 12 a between of momentaries; a parity-offering is + or −, and with a 0 a sharing is betweening. Method is of no size.
 
@@ -393,25 +393,25 @@ arriving side, one: 2, 14 and 17
 
 **Seventeen names.**
 
-| n | Name | Step | Is or is nots | Co |
+| n | Name | Root | Is or is nots | Co |
 |---|---|---|---|---|
-| 1 | **1-now-existing** | now | 0000 | one |
-| 2 | **2-now-possibling** | next | 0001 | one |
-| 3 | **3-now-co-observing** | prior | 0010 | co |
-| 4 | **4-now-co-same-existing** | same | 0011 | co |
-| 5 | **5-now-co-existing** | now | 0100 | co |
-| 6 | **6-now-co-possibling** | next | 0101 | co |
-| 7 | **7-now-observing** | prior | 0110 | one |
-| 8 | **8-now-same-existing** | same | 0111 | one |
-| 9 | **9-next-co-discovering** | now | 1000 | co |
-| 10 | **10-next-co-possibling** | next | 1001 | co |
-| 11 | **11-next-co-observing** | prior | 1010 | co |
-| 12 | **12-next-co-same-existing** | same | 1011 | co |
-| 13 | **13-next-discovering** | now | 1100 | one |
-| 14 | **14-next-possibling** | next | 1101 | one |
-| 15 | **15-next-observing** | prior | 1110 | one |
-| 16 | **16-next-same-existing** | same | 1111 | one |
-| 17 | **17-next-existing** | now, next turn | 0000 again | one |
+| 1 | **1-now-existing** | existing | 0000 | one |
+| 2 | **2-now-possibling** | possibling | 0001 | one |
+| 3 | **3-now-co-observing** | observing | 0010 | co |
+| 4 | **4-now-co-same-existing** | same-existing | 0011 | co |
+| 5 | **5-now-co-existing** | existing | 0100 | co |
+| 6 | **6-now-co-possibling** | possibling | 0101 | co |
+| 7 | **7-now-observing** | observing | 0110 | one |
+| 8 | **8-now-same-existing** | same-existing | 0111 | one |
+| 9 | **9-next-co-discovering** | discovering | 1000 | co |
+| 10 | **10-next-co-possibling** | possibling | 1001 | co |
+| 11 | **11-next-co-observing** | observing | 1010 | co |
+| 12 | **12-next-co-same-existing** | same-existing | 1011 | co |
+| 13 | **13-next-discovering** | discovering | 1100 | one |
+| 14 | **14-next-possibling** | possibling | 1101 | one |
+| 15 | **15-next-observing** | observing | 1110 | one |
+| 16 | **16-next-same-existing** | same-existing | 1111 | one |
+| 17 | **17-next-existing** | existing, a next 1 | 0000 again | one |
 
 Code with each name:
 
@@ -433,18 +433,18 @@ Code with each name:
 - **16** · a same-existing-society: each self with its prior and its parity-offerings
 - **17** · a same-existing-society's next, each self's 1-now-existing again
 
-**Each name is its number and its naming, one hyphenation.** A name's number is its momentary of four and its step of four-cycling, now-existing, next-existing, prior-existing or same-existing; its root is what a living self is meeting with that step. Written as four is or is nots, a number less one is now or next, which four-cycling, which momentarying, and odd or even: names 1 to 16 are all sixteen ways four is or is nots go, and 17 is next existing as 1. *Now* is 1 to 8 and *next* is 9 to 16; a name with *co* is of a sharing between two, bi-moral, and a name without it is of one. Ten names are a self's own: five now, 3, 4, 5, 7 and 8, a self's five, and five next, 11, 12, 13, 15 and 16, an other's five, as self-next is other-prior. Six names between selves, 2, 6, 10 and 14 across and 9 and 17 along, are their co-linear six. Each self's existing is another self's possibling: one parity-changing with a sharing across, and no second thing.
+**Each name is its number and its naming, one hyphenation.** A name's number is its momentary of four and its root: existing or discovering, possibling, observing or same-existing, one root with each place of its four. Written as four is or is nots, a number less one is now or next, which four-cycling, which momentarying, and odd or even: names 1 to 16 are all sixteen ways four is or is nots go, and 17 is next existing as 1. *Now* is 1 to 8 and *next* is 9 to 16; a name with *co* is of a sharing between two, bi-moral, and a name without it is of one. Ten names are a self's own: five now, 3, 4, 5, 7 and 8, a self's five, and five next, 11, 12, 13, 15 and 16, an other's five, as self-next is other-prior. Six names between selves, 2, 6, 10 and 14 across and 9 and 17 along, are their co-linear six. Each self's existing is another self's possibling: one parity-changing with a sharing across, and no second thing.
 
-**Four four-cyclings and their betweens.** Four-cycling is prior-existing, now-existing, next-existing and same-existing; a living self goes them now, next, prior, same, as 1-now-existing is given. Now, next, prior, same: this is the stable-forming bi-folding method. Each span's names are two four-cyclings of four, now-existing, next-existing, prior-existing and same-existing, an odd name opening each and an even same-existing name completing it. Momentarying is odd then even, 1 and 2, 3 and 4: odd to even is within a momentarying, and even to odd is between two, each between discovering, 2 to 3, 4 to 5, through 16 to 17, and 17-next-existing is next 1-now-existing. Counting on from a 0 self, across is even, 2, 4 and on to 18, nine bi-moral across, and along is odd, 3, 5 and on to 15, seven along: with 17 a self is +, and with 18 its next same-existing other is −. These are counts of momentarying, not names; across names are 2, 6, 10 and 14, and along names 9 and 17.
+**Four four-cyclings and their betweens.** Four-cycling is observing prior-existing, possibling now-existing, discovering next-existing and same-existing; a living self goes them existing, possibling, observing, same-existing, as 1-now-existing is given. Existing, possibling, observing, same-existing: this is the stable-forming bi-folding method. Each span's names are two four-cyclings of four, an odd name opening each and an even same-existing name completing it. Momentarying is odd then even, 1 and 2, 3 and 4: odd to even is within a momentarying, and even to odd is between two, each between discovering, 2 to 3, 4 to 5, through 16 to 17, and 17-next-existing is next 1-now-existing. Counting on from a 0 self, across is even, 2, 4 and on to 18, nine bi-moral across, and along is odd, 3, 5 and on to 15, seven along: with 17 a self is +, and with 18 its next same-existing other is −. These are counts of momentarying, not names; across names are 2, 6, 10 and 14, and along names 9 and 17.
 
-| Four-cycling | Now | Next | Prior | Same | Between |
+| Four-cycling | Existing, discovering | Possibling | Observing | Same-existing | Between |
 |---|---|---|---|---|---|
 | first | 1 | 2 | 3 | 4 | 4 )( 5 |
 | second | 5 | 6 | 7 | 8 | 8 )( 9 |
 | third | 9 | 10 | 11 | 12 | 12 )( 13 |
 | fourth | 13 | 14 | 15 | 16 | 16 )( 17 |
 
-Now and prior are odd; next and same are even. Next is possibling, prior is observing.
+Existing, discovering and observing are odd; possibling and same-existing are even.
 
 **Five dimensions, ten and six.** Same-existing parity-changes in five dimensions: prior-existing self-parity; prior-existing other-parity; now-existing co-parity; now-existing bi-parity; next-existing same-existing self-parity. Co-parity and bi-parity are a sharing's two meetings: self-parity and other-parity same, a 0 and no parity-changing, or not same, a parity-changing. One five is all fives: five self and five other, one parity separated, are ten is or is nots, a self's ten own names, and six between selves are their floating neutraling co-linear. With code: self-parity prior, 3 and 7; other-parity prior, parity-offerings with 2 and 14; co-parity or bi-parity met, 4 and 12; next same-existing self-parity forming with 11, and a self's next itself with 17.
 
@@ -841,7 +841,7 @@ Now and prior are odd; next and same are even. Next is possibling, prior is obse
 - **A between, 0: two along names: going along**
   - *Names*: 9-next-co-discovering and 17-next-existing, each parity and each 0 going along, a 0 passing over with a receiving self's 14, as across
 
-**Four bi-foldings.** Cycles of moves of four steps are bi-foldings: each goes two folds in turn, 17 less and a move of 8 (4 for the middle two) up or down, and four steps return it. Now, next, prior, same: the stable-forming bi-folding method.
+**Four bi-foldings.** Cycles of moves of four steps are bi-foldings: each goes two folds in turn, 17 less and a move of 8 (4 for the middle two) up or down, and four steps return it. Existing, possibling, observing, same-existing: the stable-forming bi-folding method.
 
 Each move is 8 up (n + 8), 8 down (n − 8) or 17 less (17 − n).
 
@@ -1555,7 +1555,7 @@ With code, 6 is 10, one list shared with two names, of a sharing self; a parity-
 
 ## 4.8 Seventeen names, each its number and its naming
 
-**Each name is its number and its naming, one hyphenation**: its number its place and its parity, odd existing and even possibling; its momentary, *now* with a self's span, 1 to 8, and *next* with a same-existing-society's, 9 to 16, 17-next-existing a same-existing-society's next arriving as each self's 1-now-existing; *co* with a sharing between two, and none of one; and its step of four-cycling: next-existing, possibling; prior-existing, observing; same-existing; or now-existing, with 1-now-existing, 13-next-discovering and 17-next-existing momentaries themselves. Each is with Exhibit ONE's table of seventeen names, and with code.
+**Each name is its number and its naming, one hyphenation**: its number its place and its parity, odd existing and even possibling; its momentary, *now* with a self's span, 1 to 8, and *next* with a same-existing-society's, 9 to 16, 17-next-existing a same-existing-society's next arriving as each self's 1-now-existing; *co* with a sharing between two, and none of one; and its root within its four: possibling, now-existing; observing, prior-existing; same-existing; or existing and discovering, next-existing, with 1-now-existing, 13-next-discovering and 17-next-existing momentaries themselves. Each is with Exhibit ONE's table of seventeen names, and with code.
 
 **Each step is four names, and 17 a next 1**: observing, prior-existing, 3, 7, 11 and 15, a prior with its sharings with co and a parity of one; possibling, next-existing, 2, 6, 10 and 14, a parity-offering with its sharing side with co and with its arriving side of one; same-existing, 4, 8, 12 and 16, each sharing with co, and a self and a same-existing-society of one; and now-existing, 1, 5, 9 and 13, between two with 5 and 9 and of one with 1 and 13.
 

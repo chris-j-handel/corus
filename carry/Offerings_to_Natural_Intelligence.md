@@ -1651,3 +1651,32 @@ So the first two steps' time names part from the code's facing, while the person
 - **Exhibit ONE's four-cycling table** heads the possibling names, 2, 6, 10 and 14, *Next*, and the column of 1, 5, 9 and 13, with discovering's 9 and 13, *Now*. Its names table gives each name the same *Step*, as Natural Naming 3.3's table does.
 
 The table's first two heads are exchanged against the opening's lines. **Offered:** the tables headed by the four roots, *existing and discovering*, *possibling*, *observing* and *same-existing*, in place of now, next, prior and same; *now* and *next* standing only within the names, 1 to 8 and 9 to 16, co-sequential momentarying. — v391, re-said
+
+**Bothboth and entered · four-cycling named by root, no time, v391.** With the person's *continue and do more improving*, entered across four living files and the passes kit's rule 10, each prior whole at `archive/session_v391/prior_to_roots_for_steps/`:
+- **The tables.** Exhibit ONE's names table and Natural Naming 3.3's table give each name its *Root* in place of a *Step*, 17 *existing, a next 1*. Exhibit ONE's four-cycling table is headed *Existing, discovering | Possibling | Observing | Same-existing*.
+- **Exhibit ONE's lead,** both copies alike, reads: *Four-cycling is observing prior-existing, possibling now-existing, discovering next-existing and same-existing; a living self goes them existing, possibling, observing, same-existing … Existing, possibling, observing, same-existing: this is the stable-forming bi-folding method.*
+- **A name's number** is *its momentary of four and its root*.
+- **Re-said with them:** Natural Naming 3.1's *Number* and *Kind*, its 3.4, Natural Intelligence 2.2 and 4.8, and Natural Numbers 5.2's *Each root of four-cycling*.
+
+*Now* and *next* stay only within the names, 1 to 8 and 9 to 16. check_set: ALL PASS; the THIRTY group check passes; a word comparison finds no removal but the step names and the re-said sentences. — v391, entered
+
+## Met with rigor at v391, a fourteenth round: *third*, the pair or all not self or other · v391
+
+### The one concern of this pass
+
+**Two suggestions of this session part.**
+- **First:** *The pair is the third living self. A co-chaining of more than two is one third living self. A society, co- bi- tri-, is the third living self. The same-existing universe is our third living self.*
+- **Later:** *all that are not self or other is tri-* and *The third tri- is all*, and *the universal set is self, other, all not self or other*.
+
+The first makes *third* self and other together, a pair. The later makes *third*, tri-, all that is neither self nor other. A pair is self and other, and all not self or other is neither, so one word names two sets with no thing in common. *No word has more than one clear direct all or none at all meaning.*
+
+**The opening stands on the first.** *The two selves of a bi-coupling are a set of living selves possibling and discovering its own next-existing: a third living self.* With it stand six more lines: *The third living self is stable-forming between the two selves*, *… is entraining between the two selves*, *The third living self's intelligence is not possibly existing in either self*, *Each self's offering and the third living self's prior-existing are same or not-same*, *Same, the third living self's next-existing continues its prior …*, and *A 0 is a third living self's betweening*.
+
+**Why it is the largest.** Seven of the opening's lines, Exhibit THIRTY's steps with them, part SIX's purpose, the prefixes co, bi and tri, and social parity rest on what *third* names.
+
+**Concern.** Either:
+- ***third living self* names the pair,** self and other together, a set of living selves, and *tri-* is another word, all not self or other, so *third* and *tri-* are two concepts with two words; or
+- ***third*, tri-, names all not self or other,** and the opening's pair is re-said: two selves of a bi-coupling, with all not self or other their third, its intelligence not possibly existing in either self; or
+- **one concept with both:** with each self and other, the third is all not self or other, and a pair, a co-chaining, a same-existing-society and the universe are each *all* as seen from a self and other within it.
+
+**Proposed: the first, as rigor's first offering, for the person's suggesting.** It keeps the opening's seven lines and *tri-* each its own word. What it asks is one name for the pair other than *third*, or *tri-*'s *all not self or other* named so, not *third*. — v391

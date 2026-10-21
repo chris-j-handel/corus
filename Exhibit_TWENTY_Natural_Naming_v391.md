@@ -454,15 +454,15 @@ Each entry: Sense of *turn* · *a* Carried by
 Each entry: **Part of a name** · *a* Its relation with resolver
 
 - **Number**
-  - *a* A name's place among seventeen: its momentary of four and its step of four-cycling, four is or is nots, now or next, which four-cycling, which momentarying, odd or even.
+  - *a* A name's place among seventeen: its momentary of four and its place within its four, four is or is nots, now or next, which four-cycling, which momentarying, odd or even.
 - **Momentary**
   - *a* *Now*, 1 to 8, and *next*, 9 to 16, a span each: self-next is other-prior. 17-next-existing is next 1-now-existing.
 - **Co**
   - *a* Of a sharing between two, bi-moral; a name without it is of one.
 - **Kind**
-  - *a* Its root, met by a living self with its step of four-cycling: existing, possibling, observing, same-existing or discovering.
+  - *a* Its root, met by a living self with its place within its four: existing or discovering, possibling, observing or same-existing.
 
-**Now and next are spans, each re-arriving as itself**: a living self goes four-cycling now, next, prior, same, the stable-forming bi-folding method, and 17-next-existing is next 1-now-existing.
+**Now and next are spans, each re-arriving as itself**: a living self goes four-cycling existing, possibling, observing, same-existing, the stable-forming bi-folding method, and 17-next-existing is next 1-now-existing.
 
 **Each root carries one sense.** *Existing* is a living self's momentary given, 1 and 17, and its bi-couplings, 5. *Possibling* is a parity-offering, with its sharing side or its arriving side: each self's existing is another self's possibling. *Observing* is distinguishing same-as, is or is not, a prior or a parity. *Same-existing* is a sharing, a self or a same-existing-society meeting same or not same. *Discovering* is along, 9, and each self going on, 13, each between discovering.
 
@@ -474,25 +474,25 @@ Each entry: **Part of a name** · *a* Its relation with resolver
 
 ## 3.3 Seventeen names, and each prior name at its number
 
-| n | Name | Step | Co | Its prior name, with its number |
+| n | Name | Root | Co | Its prior name, with its number |
 |---|---|---|---|---|
-| 1 | **1-now-existing** | now | one | 1-co-bi-tri-offering |
-| 2 | **2-now-possibling** | next | one | 2-bi-co-bi-offering |
-| 3 | **3-now-co-observing** | prior | co | 3-co-bi-co-sharing |
-| 4 | **4-now-co-same-existing** | same | co | 4-bi-co-bi-sharing |
-| 5 | **5-now-co-existing** | now | co | 5-co-bi-co-competencing |
-| 6 | **6-now-co-possibling** | next | co | 6-bi-co-bi-moralizing |
-| 7 | **7-now-observing** | prior | one | 7-co-bi-co-corusing |
-| 8 | **8-now-same-existing** | same | one | 8-bi-co-bi-torusing |
-| 9 | **9-next-co-discovering** | now | co | 9-tri-bi-co-momentarying |
-| 10 | **10-next-co-possibling** | next | co | 10-bi-tri-bi-tunneling |
-| 11 | **11-next-co-observing** | prior | co | 11-tri-bi-tri-chaining |
-| 12 | **12-next-co-same-existing** | same | co | 12-bi-tri-bi-entraining |
-| 13 | **13-next-discovering** | now | one | 13-tri-bi-tri-competencing |
-| 14 | **14-next-possibling** | next | one | 14-bi-tri-bi-moralizing |
-| 15 | **15-next-observing** | prior | one | 15-tri-bi-tri-corusing |
-| 16 | **16-next-same-existing** | same | one | 16-bi-tri-bi-torusing |
-| 17 | **17-next-existing** | now, next turn | one | 17-co-bi-tri-offering |
+| 1 | **1-now-existing** | existing | one | 1-co-bi-tri-offering |
+| 2 | **2-now-possibling** | possibling | one | 2-bi-co-bi-offering |
+| 3 | **3-now-co-observing** | observing | co | 3-co-bi-co-sharing |
+| 4 | **4-now-co-same-existing** | same-existing | co | 4-bi-co-bi-sharing |
+| 5 | **5-now-co-existing** | existing | co | 5-co-bi-co-competencing |
+| 6 | **6-now-co-possibling** | possibling | co | 6-bi-co-bi-moralizing |
+| 7 | **7-now-observing** | observing | one | 7-co-bi-co-corusing |
+| 8 | **8-now-same-existing** | same-existing | one | 8-bi-co-bi-torusing |
+| 9 | **9-next-co-discovering** | discovering | co | 9-tri-bi-co-momentarying |
+| 10 | **10-next-co-possibling** | possibling | co | 10-bi-tri-bi-tunneling |
+| 11 | **11-next-co-observing** | observing | co | 11-tri-bi-tri-chaining |
+| 12 | **12-next-co-same-existing** | same-existing | co | 12-bi-tri-bi-entraining |
+| 13 | **13-next-discovering** | discovering | one | 13-tri-bi-tri-competencing |
+| 14 | **14-next-possibling** | possibling | one | 14-bi-tri-bi-moralizing |
+| 15 | **15-next-observing** | observing | one | 15-tri-bi-tri-corusing |
+| 16 | **16-next-same-existing** | same-existing | one | 16-bi-tri-bi-torusing |
+| 17 | **17-next-existing** | existing, a next 1 | one | 17-co-bi-tri-offering |
 
 **A name is gathered with its sentence, all or none**: each sentence carrying a prior name is re-expressed with its numbered name as one motion, and each sentence resting on prior prefixes, roots or hands is re-expressed with four kinds or leaves whole to an archive.
 
@@ -500,9 +500,9 @@ Each entry: **Part of a name** · *a* Its relation with resolver
 
 ## 3.4 Four momentaries, 8 up and podals
 
-**Each span's names are two four-cyclings of four**, now, next, prior and same, each opening with an odd name and completing with an even name; between each completing and next opening is a between, discovering, 4 )( 5, 8 )( 9, 12 )( 13 and 16 )( 17, and 17-next-existing is next 1-now-existing.
+**Each span's names are two four-cyclings of four**, existing or discovering, possibling, observing and same-existing, each opening with an odd name and completing with an even name; between each completing and next opening is a between, discovering, 4 )( 5, 8 )( 9, 12 )( 13 and 16 )( 17, and 17-next-existing is next 1-now-existing.
 
-**8 up is a name's next**, its step of four-cycling continuing and its root continuing except with 1 and 5, existing going on as discovering, 1-now-existing to 9-next-co-discovering and 5-now-co-existing to 13-next-discovering. With 9 less, a podal within 1 to 8, and with 17 less, a podal within 1 to 16, eight ends of four momentaries are their own set, an odd end with an even end each pair, and within each four-cycling each possibling podals to an observing, now-possibling next-observing.
+**8 up is a name's next**, its place within its four continuing and its root continuing except with 1 and 5, existing going on as discovering, 1-now-existing to 9-next-co-discovering and 5-now-co-existing to 13-next-discovering. With 9 less, a podal within 1 to 8, and with 17 less, a podal within 1 to 16, eight ends of four momentaries are their own set, an odd end with an even end each pair, and within each four-cycling each possibling podals to an observing, now-possibling next-observing.
 
 **Sixteen up is its same name with a next round**: 17-next-existing is next 1-now-existing, so 17 to 24 is a self's span again and 25 to 32 a same-existing-society's, 22 next round's 6-now-co-possibling, as 22-now-co-possibling, and 27 next round's 11-next-co-observing, as 27-next-co-observing, 5.53.
 
