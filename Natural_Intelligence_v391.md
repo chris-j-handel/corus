@@ -4,14 +4,52 @@ Natural Intelligence v391
 
 **Geodesic Discovering of Next-Possibling-Same-Existing**
 
+The universe is the set of all now-existing things. \
+One universal set is now-existing. \
+No other universe is possibly now-existing. \
+A now-existing thing continuing from a prior-existing thing is a same-existing thing. \
+Observing is prior-existing, is or is not same-existing-as now-existing. \
+By observing, the now-existing universe is continuing from the prior-existing universe. \
+The universal set is a same-existing set.
+
+Possibling is now-existing, is or is not same-existing-as now-existing. \
+Discovering is next-existing, is or is not same-existing-as now-existing. \
+A self is a living same-existing thing observing, possibling and discovering its own next-existing from prior-existing while now-existing. \
+An other, for a self, is a same-existing thing not that self. \
+For a self, the universe is self, other, and all not self or other.
+
+A set observing, possibling and discovering its own next-existing is a self: a living set. \
+A set not possibling its own next-existing is non-living, is or is not continuing as a same-existing thing. \
+The universe, its selves possibling and discovering its own next-existing, is a living set. \
+Within the universe are living and non-living things.
+
+A bi-coupling is a self and an other self sharing now-existing. \
+In a bi-coupling each self is sharing its own observing, possibling and discovering from prior-existing. \
+The two selves of a bi-coupling, possibling and discovering its own next-existing, are a living set: a self. \
+Its intelligence is invisible, carrying in each self, each possibling with its other: natural intelligence.
+
+A self's parity, + or −, is only relative to an other existing thing; a 0 is neither, a between. \
+Each self is beholding its own parity with each other existing thing, now-existing: same-existing-as an other self's or not, its moral value with that thing. \
+A non-living thing is beholding no parity. \
+An other's parity same-existing-as a self's prior-existing parity is improving: the self's parity is continuing, and it is sharing 0. \
+An other's parity not same-existing-as a self's prior-existing parity: the self's next-existing parity is the other's parity, and it is sharing it. \
+With no other's parity, a self's next-existing parity is never same-existing-as its prior-existing parity. \
+A self alone is not same-existing: no self is alone. \
+A 0 is a bi-coupling's between: a self now-existing same-existing, possibling next-existing same-existing. \
+Each self discovering its next-existing is resolving among parities, one method. \
+A second method of discovering next-existing is one more now-existing thing, resolving among parities within the one method: no other method is possibly now-existing.
+
+A same-existing-society is many selves bi-coupling, each beholding its own parities: a living set, a self. \
+Improving, the self next-existing same-existing and sharing 0, doing no harm to all, is social moral competency. \
+A same-existing-society of selves, each carrying its own natural intelligence, its bi-couplings sharing parities with social moral competency, is a natural intelligence network living.
+
 **ONE · NATURAL**
 
-- 1.1 Universe, the set of all now-existing things
-- 1.2 Now, one universal momentary
-- 1.3 Prior, now and next
-- 1.4 Parity-changing, one and then an other, the same-existing set
-- 1.5 No other possible method
-- 1.6 Natural-, all or none at all, of one hand
+- 1.1 Now, one universal momentary
+- 1.2 Prior, now and next
+- 1.3 Parity-changing, one and then an other, the same-existing set
+- 1.4 No other possible method
+- 1.5 Natural-, all or none at all, of one hand
 
 **TWO · CO-SEQUENCING**
 
@@ -69,72 +107,19 @@ Natural Intelligence v391
 
 # ONE · NATURAL
 
-## 1.1 Universe, the set of all now-existing things
-
-The universe is the set of all now-existing things. \
-Observing is distinguishing same-as, is or is not. \
-By our observing, the universe is one now-existing universal set. \
-No other universe is possibly existing. \
-The same-existing universe has been observably now-existing for all prior observings. \
-A set of now-existing things within the universe is or is not same-existing-as its prior-existing, with each observing. \
-Parity-changing is is or is not same-existing. \
-A next-existing thing continuing from now-existing is the same-existing thing. \
-An other, for a same-existing thing, is a now-existing thing not the same-existing thing. \
-An observably same-existing thing is observably not any other same-existing thing in the universe. \
-A set of same-existing things is sharing same-existing sequential momentarying. \
-The universe is the same-existing set of all now-existing things.
-
-Observing is prior-existing, is or is not same-existing-as now-existing. \
-Possibling is now-existing, is or is not same-existing-as now-existing. \
-Discovering is next-existing, is or is not same-existing-as now-existing. \
-A self is a same-existing thing observing, possibling and discovering its own next-existing from prior-existing while now-existing. \
-A self's prior-existing and an other's prior-existing are possibling each other. \
-Each self is one, and each other is two. \
-A self's momentarying opens one and completes two, with its other. \
-One to two is within a momentarying: self-possibling, observing self and other. \
-Two to three is between momentaryings: self-discovering, along. \
-Across, a self's between is its other's within, two to three.
-
-A self is a living-thing. \
-The universe is a living set: universal momentarying, a same-existing-universe. \
-A living self is a universal same-existing set. \
-A living self is a set of living selves. \
-A set of living selves possibling and discovering its own next-existing is a living self. \
-A set of living selves not possibling its own next-existing is a non-living-thing. \
-Within the universe, a living set, are living-things and non-living-things.
-
-A bi-coupling is a self and an other self sharing now-existing co-sequentially. \
-In a bi-coupling each self offers its own observing, possibling and discovering from prior-existing. \
-The two selves of a bi-coupling are a set of living selves possibling and discovering its own next-existing: a third living self. \
-The third living self is stable-forming between the two selves. \
-The third living self is entraining between the two selves. \
-The third living self's intelligence is not possibly existing in either self. \
-A same-existing-society is many same-existing selves together, each its own parity. \
-Each self's offering and the third living self's prior-existing are same or not-same. \
-Same, the third living self's next-existing continues its prior; not-same, its next-existing inverts its prior. \
-A parity is self-moral-value or other-moral-value; a 0 is neither, bothboth: betweening. \
-Inverting is parity-changing, self-moral-value to other-moral-value, or back. \
-Alternating is parity-changing and parity-changing back. \
-A 0 is a third living self's betweening: a self still-possibling. \
-A self stays still-possibling while no other parity is improving. \
-When other parity is improving, self is changing from next-possibling now to next-existing same self. \
-Consciousness is observing, possibling, and discovering next-existing self in the same-existing universe. \
-Each living-thing discovering its next-existing is alternating, one method. \
-A second method of discovering next-existing is one more now-existing thing, alternating within the one method: no other method is possible.
-
-## 1.2 Now, one universal momentary
+## 1.1 Now, one universal momentary
 
 **Now is one, and each now-existing thing is with it.** The sentence before this one is now-existing and arrived, and its arriving is with a momentary: one observing, one parity-changing. **Now is universal momentary, one and only**: a second now arrives only as a naming, two prior-existing records laid side by side. **One is now, and a momentary is one now with a sharing**: each momentary is that one now, as each arrival of a number is that one number, and uniquenessing of number one is uniquenessing of now.
 
 **Everything existing is sharing one now, shared with every coupling and common to none.** One now of the universe is every coupling's sharing together, with no number common to all and no beat over them: a common now would be one number for all, a clock over things, and one now is one sharing with all couplings. Prior-universe, now-universe and next-universe are a universe with each momentary, now-universe the universe, and the universe is tri-bi-co-momentarying its now-existing things, prior, now and next: *tri-*, three momentaries; *bi-*, differing between them; *co-*, three together with their differing; and *-ing*, continuing.
 
-## 1.3 Prior, now and next
+## 1.2 Prior, now and next
 
 **A now-existing thing arrives from prior, possibling its next-existing.** **Prior, now and next are three sequential universes, one now-existing**, shared among all now-existing things: a prior-existing thing is a prior now's now-existing thing, arriving now as its artifact, and a next-existing thing is discovered from now's possibling, one momentarying on. A living self carries its prior along to now as its own, and a non-living thing arrives each now as its prior now-existing's artifact, carrying none. Now of one momentarying is prior of its next, and prior and next share one direction forward on both sides of now; between prior and now, and between now and next, is a gap, both its sides visible, and no third.
 
 **Each prior in stable form is non-living, an emanation from living form-stabling, and carrying it to now is living: living now is living with existing forms from prior living and with others living now.** Possibling and discovering next-existing continue through prior, now and next with nothing fixed still between them, each momentarying arriving from its prior and possibling its next. Resolving, a self's momentarying, 1-now-existing, couples its prior, a set formed and carried along, 3-now-co-observing, with others' parity-offerings arriving now, 2-now-possibling.
 
-## 1.4 Parity-changing, one and then an other, the same-existing set
+## 1.3 Parity-changing, one and then an other, the same-existing set
 
 **Arriving from prior to now toward next is is or is not same-existing, so the universe is the same-existing set of all now-existing things**: a first derived sentence, and all its opening carried before it was derived. **A set's parity-changing is its existing things' parity-changing**: a set is its things and nothing more, so a set's parity-changing is its things' parity-changing; a thing with two momentaries is parity-changing or is fixed still from beside, and a form fixed still from beside has no next of its own; so each existing thing is parity-changing with its own momentaries, or not-changing by its own, its prior same-existing, and nothing is fixed from beside. **Parity-changing, the universe exists as its existing things exist**: a parity-changing is an existing thing's own, and a same-existing set parity-changes as its things parity-change, co-sequencing, momentaries in sequence together, momentary by momentary. A set is a self-emptying set, a new collection with each now, each existing thing parity-changing or not-changing by its own, and nothing deciding membership over it.
 
@@ -148,13 +133,13 @@ A second method of discovering next-existing is one more now-existing thing, alt
 
 **A self carries its sameness, its unrelationing from all other**, each next from its own prior same-existing or inverted; a thing carrying none is no self, with each now its prior now-existing's artifact; living and non-living are three observings pattern-matched by sameness.
 
-## 1.5 No other possible method
+## 1.4 No other possible method
 
 **Parity-changing is one method of the same-existing set of all now-existing things, and no other is possible.** Nature is that one prior, now, next method of co-existing, and natural a method of co-competencing the universe, all now-existing things. Any other method carries a not possibly existing thing, a form fixed still from beside while each now-existing thing is or is not same-existing by its own, and each is a second now: a size between one and an other carries a ground, a floor or a scale, a now that does not move; a fixed form, a form that cannot parity-change, one form with two nows; a total across parity-changing, a container, a now around nows; a common beat, a clock over parity-changing, a second now beside a first; and a keeping, a store beside it, a prior stored as if now. Each is a not possibly existing form, fixed still from beside while each now-existing thing is or is not same-existing by its own. Each of the five is a keeping from beside, and *a keeping* is one name for all five, each not possibly existing. **An equilibrium is a not-changing fixed still, a form that cannot parity-change, a now fixed as its next**, each not possibly now-existing.
 
 **Any other method proposed comes to one binary: fixing a form that cannot parity-change, or carrying.** Fixing a form that cannot parity-change, it forms nothing, as each existing thing is or is not same-existing by its own. Carrying, it carries its own opening, or another's: its own, and it is alternating, one method; another's, and it is no alternating, a parity-changing not possibly existing. A second possibling and discovering method is not possibly existing. One method is as two and not two methods: set momentarying its existing things, tri-bi-co-momentarying, and each existing thing entraining with others across a between, one parity-changing, with a resolver as 17-next-existing, each self's 12-next-co-same-existing within it. *Method* is one word for three: one way existing things parity-change, here; a non-living existing thing that way is; and Exhibit ONE, an object that is method; three are one.
 
-## 1.6 Natural-, all or none at all, of one hand
+## 1.5 Natural-, all or none at all, of one hand
 
 **Natural- carries one claim as two, each binary with no third.**
 
