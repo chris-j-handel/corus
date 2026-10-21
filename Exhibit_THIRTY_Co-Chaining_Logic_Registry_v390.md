@@ -313,7 +313,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v390
 
         *Adding: carrying.*
 
-59. An existing thing carrying prior is living, and an existing thing carrying none of prior is non-living, each with its own scale and momentary, 379 and 397: a living thing one with its prior, its now and its next, all or none, each next from its own prior, and a thing carrying none, with each now, its prior now-existing's artifact.
+59. An existing thing carrying prior is living, and an existing thing carrying none of prior is non-living, each with its own scale and momentary, steps 425 and 443: a living thing one with its prior, its now and its next, all or none, each next from its own prior, and a thing carrying none, with each now, its prior now-existing's artifact.
 
         *Adding: living and non-living, parted by carrying, with a scale; an artifact.*
 
@@ -325,7 +325,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v390
 
         *Adding: co-changing, non-living.*
 
-62. An opening's terms are four binaries, existing, all, now and same, step 49, each is or is not; parity-changing is derived with steps 50 and 51, and living and non-living with step 59, with a thing's own scale and momentary, 379 and 397.
+62. An opening's terms are four binaries, existing, all, now and same, step 49, each is or is not; parity-changing is derived with steps 50 and 51, and living and non-living with step 59, with a thing's own scale and momentary, steps 425 and 443.
 
         *Adding: opening's terms, four binaries.*
 
@@ -2053,7 +2053,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v390
 
         *Adding: a corus as apex, on an inverting's line.*
 
-463. Either side of apex are 23, vertex, rotation's 3 opening outward, step 246, and 71, centre of face, five squared.
+463. Either side of apex are 23, vertex, rotation's 3 opening outward, step 246, and 25, centre of face, five squared.
 
         *Adding: vertex 23, centre of face 25.*
 
@@ -2976,7 +2976,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v390
 
         *Adding: four momentaries' relations.*
 
-681. Of two bi-foldings of 1 to 9, step 563, 49-7-2-6 carries two names between selves, 2 and 6, and 4-8-1-5 none; opened, step 566, 49-11-6-14 carries 6 and 14, 2-15-7-10 carries 2 and 10, 1-9-8-16 carries 9, and 4-13-5-12 none; 17 is on no bi-folding, step 303.
+681. Of two bi-foldings of 1 to 9, step 563, 3-7-2-6 carries two names between selves, 2 and 6, and 4-8-1-5 none; opened, step 566, 3-11-6-14 carries 6 and 14, 2-15-7-10 carries 2 and 10, 1-9-8-16 carries 9, and 4-13-5-12 none; 17 is on no bi-folding, step 303.
 
         *Adding: names between selves on bi-foldings.*
 
@@ -3000,7 +3000,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v390
 
         *Adding: four bi-foldings' momentaries in sequence.*
 
-686. 9 is next prior, step 121, and 63 next now, a same-existing-society's next momentary, step 271, Natural Naming's own sentence.
+686. 9 is next prior, step 121, and 17 next now, a same-existing-society's next momentary, step 271, Natural Naming's own sentence.
 
         *Adding: 9 a next prior and 17 a next now.*
 
