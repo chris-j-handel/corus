@@ -48,7 +48,7 @@ Natural Intelligence Corus section 17.3 proposes hard problems as stuck coupling
 
 **Concern · v389 · *falsifiable* and *falsified*.** The earlier sentence says an explanation is *falsifiable if it excludes* discovering, and at step 23 such an explanation is *falsified* at the third observing; the steps carry the second, and the first stands beside it in the incoming.
 
-*Standing at v389:* Resolving Hard Problems 6.2 has "A hypothesis is a falsifiable explanation of an observable changing and not-changing", and Co-Chaining Logic Registry step 204 has "an explanation excluding a same thing's discovering is falsified at third observing"; *falsifiable* and *falsified* part. **To resolve:** keep 6.2's *falsifiable*, or re-say it as *falsified* at third observing?
+*Standing at v389:* Resolving Hard Problems 6.2 has "A hypothesis is a falsifiable explanation of an observable changing and not-changing", and Co-Chaining Logic Registry step 195 has "an explanation excluding a same thing's discovering is falsified at third observing"; *falsifiable* and *falsified* part. **To resolve:** keep 6.2's *falsifiable*, or re-say it as *falsified* at third observing?
 
 **Droplet · v389 · four sayings at one form.** The universe is the set of all now-existing things; carrying is living; the geodesic parity-changing discovering method is the living condition, its form, a now-existing thing; and stable-forming is the living condition resolving.
 

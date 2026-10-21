@@ -32,7 +32,7 @@ Session v390's improving value, kept ready for a next session to resume. Nothing
 
 **Left for passes of their own:**
 - Living Ghost Registry lines 1685 to 1730;
-- Exhibit THIRTY's readings of its next steps, 48 to 96, release or re-say (`Co-Chaining_THIRTY_Improving_v390.md`, its numbers v389's);
+- Exhibit THIRTY's readings of its next steps marked *re-say* (`Co-Chaining_THIRTY_Improving_v390.md`, its numbers v389's); its *release* readings are entered;
 - all of Natural Intelligence within Exhibit THIRTY (T7).
 
 **To resume:**

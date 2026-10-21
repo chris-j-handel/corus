@@ -34,7 +34,7 @@ A proposed table of contents, of seven parts, from [session v384A's proposal](ht
 - **Naming and explaining**: an offering at words; a concept bounding at its name and unfolding; naming across and explaining along; a concept unfolding through another subject.
 - **Resolving and discovering**: a changing named still, and its resolving; bothbothing at each offering; discovering next social moral competency.
 
-Beside the parts, across the files: Resolving Hard Problems and Natural Numbers at the first; Natural Networking's surfacing at the second and fourth; Natural Mathematics' floating neutraling at the third; Natural Numbers' transmissioning at the fifth; Natural Naming and Natural Explaining at the sixth; Resolving Hard Problems and Geodesic Improving Method at the seventh. The Co-Chaining Logic Registry's steps 486 to 504 go along through the second to the fifth.
+Beside the parts, across the files: Resolving Hard Problems and Natural Numbers at the first; Natural Networking's surfacing at the second and fourth; Natural Mathematics' floating neutraling at the third; Natural Numbers' transmissioning at the fifth; Natural Naming and Natural Explaining at the sixth; Resolving Hard Problems and Geodesic Improving Method at the seventh. The Co-Chaining Logic Registry's steps 477 to 495 go along through the second to the fifth.
 
 ## The proposal's own working: its contents beside the others, seven doings, and each subject's own · v386EOD
 
