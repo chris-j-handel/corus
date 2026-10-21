@@ -20,6 +20,7 @@ The steps below order that improving: title and subtitle, contents, bolds, the o
 4. **The subtitle, step 1,** *Geodesic Discovering of Next-Possibling-Same-Existing*, at the front, 1.6 and 6.6, with Natural Naming 6.3's gathering and the Living File Registry's entry.
 5. **One object, step 1,** *next-possibling-same-existing* at each saying of the method's object across the set, a non-living thing its *is not*, as the code runs it: six files, the Geodesic Improving Method to v391.
 6. ***Binary method* dissolved, step 1,** at its three sayings beside subtitles, Natural Mathematics and Natural Explaining to v391.
+7. **The contents is Natural Intelligence's own, step 2,** bothboth: the set's droplets withdrawn, 4.7's line and heading by root.
 
 **Left as is, to return to.** The subtitles: Natural Intelligence's as entered, and Exhibit ONE's and the Co-Chaining Logic Registry's as they stand, with the concern *subtitles overladen* at Natural Explaining's offerings.
 

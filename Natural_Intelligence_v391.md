@@ -39,7 +39,7 @@ Natural Intelligence v391
 - 4.4 Shared across with 10, a next prior with 11
 - 4.5 Going along with 9
 - 4.6 A same-existing-society's next momentary with 17
-- 4.7 Six names between selves, even possibling across and odd existing along
+- 4.7 Six names between selves, possibling across, discovering and existing along
 - 4.8 Seventeen names, each its number and its naming
 - 4.9 Four momentaries and four binaries
 - 4.10 A between and eight bi-couplings
@@ -1534,7 +1534,7 @@ With code, 6 is 10, one list shared with two names, of a sharing self; a parity-
 
 **17 is a scale outward**: a same-existing-society is its selves, carrying nothing of its own, its sameness each self's own, and it couples with a next scale as a self couples, no further self standing over it; between scales only offerings 17 gives on cross, each with no prior behind it. Stepping of selves' entries together with 17 is an executing's own: each living self paces its own momentaries.
 
-## 4.7 Six names between selves, even possibling across and odd existing along
+## 4.7 Six names between selves, possibling across, discovering and existing along
 
 **Six names between selves are bi-moral-co-competency, discovering next-existing with sharing and along**: four across, even, possibling, 2, 6, 10 and 14; and two along, odd, existing, 9 and 17. **Odd is existing and even is possibling, and six say it by their numbers.**
 
