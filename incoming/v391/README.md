@@ -20,7 +20,7 @@
   - I, parts FIVE and SIX.
 
 - `readers/Across_Reader_Brief_v391.md`, `readers/across_*.json`: six readers across and along the 31 other living files, each file's purpose, what it needs from Natural Intelligence, how it uses Exhibit ONE, what it re-says.
-- `readers/exhibit_one_placement.json`: each of Exhibit ONE's 56 passages met with the placement carved at v391.
+- `readers/exhibit_one_placement.json`: each of Exhibit ONE's 56 passages met with the placement suggested at v391.
 - `readers/ni_bolds_telling.md`: Natural Intelligence's bolds alone, 1.2 to 6.6, as an instrument.
 - `Improving_Plan_v391.md`: the plan these open, title and subtitle first, then contents, bolds, the opening, into, through and out of Exhibit ONE, and part SIX and the close.
 

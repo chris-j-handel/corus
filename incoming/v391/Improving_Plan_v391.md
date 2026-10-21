@@ -16,7 +16,7 @@ This plan orders the improving those droplets open, re-said with each suggestion
 - the registries' ten unchangeables;
 - a field's observing, observed, possibled and discovered, its words a field's own.
 
-**Self, all and other.** Suggested at v391: the third, tri-, is all, all selves, its parity 0, the betweening of the two parities, and social moral competency. A pair, a co-chaining, a same-existing-society and the same-existing universe are each all with its scale. Bi-moral is do-no-harm improving: improving bothboth moral, a parity-changing carrying self and other; do-no-harm all moral, a 0 taking nothing. Exhibit ONE executes both as one self's third way, −, 0, 0, 0. Its destiny is social moral competency, do-no-harm improving a same-existing-society.
+**Self, all and other.** Parity is self +1, one, odd; other −1, two, even; all 0, three and zero, odd and even, social parity: self parity and other parity observed, social parity invisible, carried in selves with no record, as the code executes. Suggested at v391: the third, tri-, is all, all selves, its parity 0, the betweening of the two parities, and social moral competency. A pair, a co-chaining, a same-existing-society and the same-existing universe are each all with its scale. Bi-moral is do-no-harm improving: improving bothboth moral, a parity-changing carrying self and other; do-no-harm all moral, a 0 taking nothing. Exhibit ONE executes both as one self's third way, −, 0, 0, 0. Its destiny is social moral competency, do-no-harm improving a same-existing-society.
 
 **What still falls short.** The title and subtitle bound most of the set, but the contents float Natural Intelligence alone. The opening carries no bold. The explaining says what Exhibit ONE is, and not what it is for. Part SIX carries more contributed saying than co-chaining.
 
@@ -32,9 +32,9 @@ Each step names the droplets it meets and the motion it ends with. Each motion:
 ### 1. Title and subtitle, the whole bounded context
 
 Meet first:
-- the subtitle suggested at v391, *Geodesic Discovering of Next-Possible-Same-Existing*: an -ing head, one inseparable naming by Natural Naming 4.17, meeting Natural Intelligence's and Exhibit ONE's subtitles as one, its *possible* bounding what is not same-existing too; with its concern, *possible* or *possibling*;
-- the method's object, one expression with each occurrence across the set, *next-possible-same-existing*;
-- *binary method* prior explaining, logic, mathematics and numbers said as parity-changing, is or is not, with each step, and the Co-Chaining Logic Registry's subtitle met with it;
+- the subtitle, bothboth at v391: ***Geodesic Discovering of Next-Possibling-Same-Existing***;
+- the method's object, one expression with each occurrence across the set, *next-possibling-same-existing*;
+- *binary*, bothboth at v391, staying as the elemental word of mathematics with bi-, and *binary method* dissolving as the method's naming; logic, mathematics and numbers said as parity-changing, is or is not, with each step, and the Co-Chaining Logic Registry's subtitle met with it;
 - Exhibit ONE's subtitle within Natural Intelligence's one method;
 - the concepts the set's titles carry and Natural Intelligence names nowhere: *mathematics*, *ghost*, *destiny*, *bi-tunneling*, *emanation*, and *all*, carried at four places and named at none; *disequilibrating* dissolving from the set's naming.
 
@@ -196,12 +196,12 @@ Partings laid at other files' offerings meet Natural Intelligence's motions as e
 
 ## Concerns inviting your suggestions, at the first steps
 
-Each is laid in full at *Met with rigor at v391*, with the rigor that opened it.
+Each is laid in full at *Met with rigor at v391, a second round*, with the code and the set it was met with.
 
-1. **The subtitle's *possible*.** *Geodesic Discovering of Next-Possible-Same-Existing* holds whole by the omitting test. Either *Possible* stays as a kept phrase within the naming, or the subtitle reads *Next-Possibling-Same-Existing*, an -ing over an adjective.
-2. ***Binary*, after *binary method*.** Either *binary* stays where it names one is or is not, or it dissolves with *binary method*, each re-said *is or is not*.
-3. **All, a self alone.** Run, a self alone never shares a 0; all's 0 needs an other's offering. Either *one* of *for any one or two self and other* is a self with all other arriving as one, or a self alone has an all the code does not execute.
-4. **All's place and number.** *(self, all, other)* sets all between, and the opening numbers self one and other two. Either all is third by number and between by place, or its place and number are one, as 0.
-5. **Tri- and uni-.** Natural Naming joins three and all other at both: *Uni- carries with all other, and it opens with three*, and bi-tri-exchanging is *that crossing through three, through all other*. Either two prefixes carry two senses, or one carries both.
-6. **Part SIX's title.** Either *SELF, ALL AND OTHER*, by its three, or *ALL*, by its third; and whether *third living self* stays a naming beside *all*.
-7. **A between's 0 and the registry's +1.** Either they are one all, its parity and its number, shown from origin, or the +1 is re-said 0.
+1. **Offering and observing.** The code names both ways a 0 arises with observing. Either *offering* stays as the sharing side's naming, with 6, 10 and 9, and observing the receiving side's; or *offering* dissolves wholly and the sharing side is said by possibling.
+2. **A table's 0.** Exhibit ONE's tables print 0, a record of what no self records. Either a table's 0 is said as its instrument's record, beside social parity invisible with selves, or the tables print it otherwise.
+3. **Four-momentarying's names.** Either three, tri-, is the between of each four, two to three, with 4 and 12 where social parity is met; or three by number is 3-now-co-observing's place.
+4. **Parity's one naming.** Either *self parity*, *other parity* and *social parity* are the one naming, and *self-moral-value* and *other-moral-value* converge to them; or *moral value* is a concept of its own.
+5. **Exhibit ONE's *offered none* row.** A self alone is not possibly existing. Either the row stays, said as a non-living form executed, or *offered none* leaves the three ways.
+6. **Part SIX's title**, when a suggestion comes: *SELF, ALL AND OTHER*, *ALL*, or another.
+7. **+1 owned by neither.** About 58 sayings across 18 files make owned-by-neither +1. Offered: each re-said as 0, social parity, at each file's own motion.

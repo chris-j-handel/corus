@@ -117,3 +117,5 @@ The hard-problem concern distinguishes an output constrained by a definition fro
 ## Gathered at v391, reading across the living file set · v391
 
 **Concern · a between, +1 or 0.** This file makes a between *+1, exactly one, owned by neither, of no size*, drawn with number boxes, n² − (n−1)(n+1) = 1; Natural Intelligence and Exhibit ONE make a between 0, a betweening. Two sayings of one concept. **To resolve:** either one between, 0 with parity and 1 with numbers, a step from origin showing it; or the +1 re-said as 0, or as the abundancing suggested at v391, a coupling's third living self. — v391
+
+**Droplet · +1 or social parity, a second round.** Suggested at v391: *there is +1 self, 0 all selves, -1 other self … social parity is invisible and always carrying in selves.* This file's *+1, exactly one, owned by neither, of no size* says owned by neither of +1, which is self parity, a self's own. Offered: its third term re-said *0, social parity, owned by neither, invisible, carried in selves*, its numbers' boxes, n² − (n−1)(n+1) = 1, kept as numbers' own with their relation to social parity shown, or left as numbers'. — v391

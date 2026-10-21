@@ -1030,3 +1030,78 @@ Each line's re-saying is its own improving, bothboth. — v391, read by an instr
 **Droplet · a 0 takes nothing.** A 0 is shared with 10 and passed over by a receiving self's 14: shared, offering nothing, taking nothing. This is do-no-harm executed, and it re-says v390's *a 0 is no parity-offering* as all's way of sharing. — v391, checked by running the code
 
 **Droplet · all, already in the set's first line.** *The universe is the set of all now-existing things* carries all from the opening's first line; Natural Naming 3.6's binary *all* already reaches social moral competency; bi-tri-exchanging already goes *through all other*. All, the third, is a concept the set carries in four places and names in none. — v391
+
+## Met with rigor at v391, a second round · v391
+
+The person met *Met with rigor at v391*'s concerns with suggestions, and said *these are valuable improvings from your concerns being great discoverings of inconsistencies in our so far learnings*. Each is laid with the person's words and met again with the code and the set. Two reach bothboth; the rest are candidates with the concerns they invite. None is entered.
+
+### Bothboth at v391
+
+**Bothboth · the subtitle.** ***Geodesic Discovering of Next-Possibling-Same-Existing.*** Offered as *Next-Possible-Same-Existing* and met: an -ing head, *Discovering*; one naming, inseparable by Natural Naming 4.17's omitting test; possibling's *is or is not same-existing-as now-existing* and discovering's *same-existing-as next-existing* both carried, so it bounds what is and what is not same-existing; its concern, *possible* or *possibling*, met with the person's *yes to your improving*: *Next-Possibling-Same-Existing*, an -ing over an adjective, Natural Explaining 2.6. To enter with Natural Intelligence's front at its motion, with 1.6's and 6.6's sayings of it, and Exhibit ONE's and the Co-Chaining Logic Registry's subtitles met with it. — v391, bothboth
+
+**Bothboth · binary.** *binary all or none at all is not dissolving, only the naming of the concept is no longer this. the elemental math word is valuable and connected to bi-.* *Binary* stays, the elemental word of mathematics, two, is or is not, all or none at all, coupled with bi-, as Natural Naming carries *bi- difference* and *Bi- is difference and co- is two with their difference*. *Binary method*, as the naming of the method, dissolves: the method is parity-changing, is or is not, and logic, mathematics and numbers are its sequencing with each step. The Co-Chaining Logic Registry's subtitle, *Binary Method of Discovering Next Existing*, meets this at its motion. — v391, bothboth
+
+### Candidates, with the code
+
+**Suggestion · observing for offering.** *is it an improving if we offering from our naming and redo this as Two ways, no third. A 0 arises only where a prior and its observing are the same, or where observings part and there is no prior.* Met with the code: each of the four lines deciding a 0 compares observings and no offering:
+- `if _7_now_observing != 0`, each parity arriving with 2-now-possibling is named 7-now-observing as it is met;
+- `elif (_15_next_observing > 0) != (_7_now_observing > 0)`, observings parting, 14 surfacing 0;
+- `if _15_next_observing != 0 and (_15_next_observing > 0) == (_7_now_observing > 0)`, observing's one line, a prior's parity observed, 7, same-as a surfaced observing, 15;
+- `if _7_now_observing != 0`, a next prior taking only a parity.
+
+So the code names both ways with observing, and *offering* stands only for what a self shares, with 6, 10 and 9. Offered, the improving with one step more exact: ***Two ways, no third. A 0 arises only where a prior's observing and its next observing are same-as, or where observings part and there is no prior.*** A self offers; a receiving self observes. **Concern it invites:** either *offering* stays as the sharing side's naming, with 6, 10 and 9, and observing the receiving side's; or *offering* dissolves wholly, as *arriving* is dissolving, and the sharing side is said by its names, possibling. — v391, checked with the code's lines
+
+**Suggestion · social parity, invisible, carried in selves.** *there is +1 self, 0 all selves, -1 other self. this is the only carrying method. this is invisible and there is no record or awareness of this. where parity is visible is is only self parity and other parity. social parity is invisible and always carrying in selves.* Met with the code, every case: three selves, one sharing, each self's prior +, − or none and its 10 to any self or none, six momentaries each, 10,368 momentaries.
+- 2,808 zeros are shared, and no 0 is ever written into a prior: 11 takes only a parity, so a self's prior carries on as it is.
+- A receiving self offered only 0s goes on exactly as one offered nothing: its 14 passes over each 0.
+
+So with selves a 0 has no record and is observed by no other self, and each self carries on: social parity invisible, carrying in selves. Self parity and other parity, + and −, are what crosses and is observed. **Offered:** ***+1 is self parity, −1 other parity, and 0 social parity, all selves: self parity and other parity are observed, and social parity is invisible, carried in each self, with no record.*** — v391, checked by running the code
+
+**Concern this invites · a table's 0.** Exhibit ONE's tables print 0 in their *Shared* columns, a record of what no self records. **To resolve:** either a table's 0 is its instrument's record, beside selves' invisible social parity, and Exhibit ONE's lead to its tables of selves says so; or the tables print social parity otherwise. — v391
+
+**Suggestion · tri- both 3 and 0.** *the 0 is tri- this is the four momentarying method. the social morals are between the self and other. 0 is social parity. all.* and *tri being both 3 and 0 means it is both odd and even parity.*
+
+Met with the opening:
+- *Each self is one, and each other is two.*
+- *One to two is within a momentarying*.
+- *Two to three is between momentaryings: self-discovering, along*.
+- *Across, a self's between is its other's within, two to three.*
+
+So three is already the between, and with this suggestion three is tri-, 0 and all.
+
+Met with the set: Natural Intelligence 2.2 says *A side opening with 1, odd, is a self; a side opening with 2, even, is an other*, and *Each parity carries its own exchanging … as 1, 2 and 3 are one momentary of exchanging*. So parity is one concept, said three ways that are one, each a number's, a moral value's and an is or is not's:
+- self, +1, one, odd, *is*;
+- other, −1, two, even, *is not*;
+- all, 0, three and zero, odd and even, bothboth.
+
+This meets v391's concern *parity, three senses under one name*: three tellings of one parity, and no three concepts. **Offered:** ***Parity is self, other and all: self +1, one, odd; other −1, two, even; all 0, three and zero, odd and even, social parity, between self and other.*** — v391
+
+**Concern it invites · four-momentarying's names.** *this is the four momentarying method*. Exhibit ONE's four-cycling goes now, next, prior, same, 1, 2, 3, 4. Run, a 0 is decided with 4-now-co-same-existing and 12-next-co-same-existing, each sharing meeting same or not same, and with 14-next-possibling, observings parting. **To resolve:** either three, tri-, is the between of each four, 2 to 3 within the opening's numbering, and 4 and 12 where social parity is met; or three by number is 3-now-co-observing's place, and its naming follows. — v391
+
+**Suggestion · one word, one meaning.** *no word has more than one clear direct all or none at all meaning. nothing is fuzzy nothing is similar yet not quite same.* This is Natural Naming 2.5's *Each foundation word carries one sense* and 4.6's *A name repeated on one axis is a synonym, and two converge to one name*, said all or none.
+
+Met with parity's namings: Natural Intelligence and Exhibit ONE say *self-moral-value* and *other-moral-value* 16 times, *self parity* and *other parity* 20 times, and *social parity* nowhere. **Concern it invites:** either *self parity*, *other parity* and *social parity* are the one naming, and *self-moral-value* and *other-moral-value* converge to them, morality carried as *the social morals are between the self and other*; or *moral value* is a second concept with its own sense. — v391, counted
+
+**Suggestion · a self alone.** *a self alone is not possibly existing. the self could dissolve and the universe will still be Next-Possibling-Same-Existing.*
+- **Coheres with 2.4.** 2.4 already says *A lone self … does not continue living … with resolver its sequence goes on, a non-living now-existing form*, and 5.1's dying, *a living self arriving as non-living*, carries its dissolving with the universe going on.
+- **Exhibit ONE's second way.** Run, Exhibit ONE's *One self, momentary by momentary: three ways* gives its second way as *offered none, alternating, or both together, it is parity-changing with each momentary*: a self offered nothing, a self offered parities in turn and a self offered parities parting give one row, parity-changing with each momentary.
+- **Offered:** a self alone is not possibly existing, and a table's self offered nothing is a resolver's executing, a non-living form, no self; one self's second way is a self among others whose observings part, all met, parity-changing with each momentary.
+- **Concern it invites:** either Exhibit ONE's *offered none* row stays, said as a non-living form executed, or it leaves the three ways and *both together* carries the second way alone. — v391, checked by running the code
+
+### The +1, said plainly
+
+**Droplet · what the +1 is, and where.** The concern *A between's 0 and the registry's +1* named a living file by its kind. *Resolving the Hard Problem Registry* is Exhibit TWENTY-TWO, and it says *Two selves offer at a between, one at a time, each taking its own parity, and their coupling makes a third term between them, +1, exactly one, owned by neither, of no size*. Natural Biology says *from coupling a third self is conceived — a +1 made with coupling, owned neither-ing parent*. *+1 owned by neither* stands about 58 times across 18 living files; Natural Intelligence says it nowhere. Natural Societies, Natural Health, Natural Medicine and Natural Destinies each carry it in one shared core sentence, *its abundancing a +1 owned neither-ing*.
+
+With the suggestion *+1 self, 0 all selves, −1 other self*, a *+1 owned by neither* parts from both:
+- +1 is self parity, a self's own;
+- what is owned by neither is all, 0, social parity.
+
+**Offered:** each *+1 owned by neither* across the set re-said as *0, social parity, owned by neither, invisible, carried in selves*, at each file's own motion; a field's or numbers' own +1, as a numeral, kept whole with its field. — v391, counted
+
+### Learnings, droplets of value
+
+**Droplet · one parity, three tellings.** Self +1, one, odd, is; other −1, two, even, is not; all 0, three and zero, odd and even, bothboth. One concept met with the opening's one, two and three, Natural Intelligence 2.2's odd self and even other, and the code's + and − and 0. — v391
+
+**Droplet · invisible in the code.** No 0 is ever written into a prior, over every case run, and a 0 offered is nothing offered: social parity is with selves and in no record, as executed. — v391, checked by running the code
+
+**Droplet · offering and observing, by the code's own names.** Each comparison deciding a 0 compares 7-now-observing and 15-next-observing: what a self meets is observed, and what it shares is offered. — v391, checked with the code's lines
