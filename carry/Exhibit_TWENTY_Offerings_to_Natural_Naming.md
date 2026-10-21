@@ -314,3 +314,11 @@ Candidate lines for the opening, not entered:
 **Entered · *parity-changing* dissolved at Natural Intelligence and Exhibit ONE, at v391.** A parity is a changing direction, so each saying is said *changing*, *change* or *changes*; dead forms said as -ing. Natural Intelligence 157 sayings, its 1.3 titled *Changing, one and then an other*; Exhibit ONE 20. Left with the subtitles: Exhibit ONE's *The Stable-Forming Parity-Changing Method of Discovering Same-Existing* at its title and its code's docstring, both copies. Across the set about 1,180 sayings stand, each met at its file's motion; the Co-Chaining Logic Registry's 250 first, since its steps carry Natural Intelligence's sentences. — v391
 
 **Entered · *offering* dissolved at Natural Intelligence and Exhibit ONE, at v391.** Each saying read for its meaning: a *parity-offering* is a self's *parity*; *offered* is a self *receiving*, or a parity *sharing*; *offering* as a doing is *sharing*; *an offerer* is a self, or a form set beside a self. No past participle brought in: *shared parity* was tried and withdrawn as a dead form, and the opening's own *parity* carries it. 3.4 titled *A sharing, its parity and a prior*. Across the set *offering* stands at each file's motion. — v391
+
+**Entered · *arriving* dissolved into observing at Natural Intelligence and Exhibit ONE, at v391.** Each saying read for its meaning:
+- What a self meets now is what it is *observing*, a self always its subject: a parity, a prior or a 0 never observes.
+- A thing from prior to now is *continuing*, as the opening's line 4.
+- Next is *discovering*, as the opening's line 9.
+- The *arriving side* is the *observing side*, beside the *sharing side*.
+
+Two sayings keep plain *come*, an ordinary verb: *odd and even come with along and across*, and *it comes by files' own form*. Across the set, *arriving* is met at each file's motion. — v391
