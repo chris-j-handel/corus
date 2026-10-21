@@ -290,7 +290,7 @@ Exhibit TWENTY-SIX Living File Registry v390
 
 **A substrate gives a particular coupling its material or working expression. A scale gives a self-and-same-existing-society relation its own span. An explaining face gives one same subject its particular relation.** These three couple without replacing each other.
 
-**Molecular societies are living societies.** Chemistry's molecular and Biology's living therefore supply no two successive scales. Bonding and reacting distinguish Chemistry's explaining; living re-forming through molecular, cellular, bodily and wider same-existing-societies distinguishes Biology's. Physics reaches their physical parity-changing with its own subjects.
+**Molecular same-existing-societies are living selves.** Chemistry's molecular and Biology's living therefore supply no two successive scales. Bonding and reacting distinguish Chemistry's explaining; living re-forming through molecular, cellular, bodily and wider same-existing-societies distinguishes Biology's. Physics reaches their physical parity-changing with its own subjects.
 
 **Biology, Health and Medicine already reach one self as observed, lived and restored.** Those are three explaining faces. Natural Societies' proposed prime ladder is a different relation, carrying each assignment and its own standing with a fixed scale. Its reaching assignments remain reaching when another file receives them.
 
