@@ -1698,7 +1698,7 @@ The first makes *third* self and other together, a pair. The later makes *third*
 
 **A pattern-matching opportunity.** 0, 1, 2 and 3 are resolving's four places, and a resolver name's number is its place among seventeen. Whether each four of the seventeen goes 1, 2, 3 and then 4 with 0's same-existing, as existing, possibling, observing and same-existing do, is to explore. — v391
 
-**Droplet · *third* dissolving.** *third is the wrong form of 3 and tri as this is living and third is dead.* An ordinal fixes a place in a finished count, a form named still. 3 and tri- are living with each momentarying. *Third* stands 7 times in the opening, in each of its *third living self* lines, and in Natural Intelligence's other prose, Exhibit ONE and Exhibit THIRTY, as counted at this round. Each is re-said at its file's motion. — v391, counted
+**Droplet · *third* dissolving.** *third is the wrong form of 3 and tri as this is living and third is dead.* An ordinal fixes a place in a finished count, a form named still. 3 and tri- are living with each momentarying. *Third* stands 7 times in the opening, in each of its *third living self* lines, and *third* stands 30 times in Natural Intelligence, 12 in Exhibit ONE, 32 in Exhibit THIRTY and 323 across the set, a field's own ordinals among them. Each is re-said at its file's motion. — v391, counted
 
 ### The one concern of this pass: the opening's seven lines, re-said with 3 and tri-
 
