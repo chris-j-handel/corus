@@ -308,3 +308,5 @@ Candidate lines for the opening, not entered:
 - *A self's own parity is its 0, its me; its differencing and indifferencing with each other is its moral value.*
 
 — v391
+
+**Met with the code · parity is the changing direction, at v391.** Suggested: *parity is the changing direction.* In the code what a self shares on with 10 is its changing: 0, not changing, its prior going on; + or −, changing, the sign the direction it changes to. A parity is a changing's direction, and 0 is no changing, indifferencing; *my parity is my 0* reads as: relative to myself, not changing. Candidate for the opening's line 21, not entered: *A self's parity is its changing direction relative to an other existing thing, + or −; a 0 is not changing, indifferencing.* — v391
