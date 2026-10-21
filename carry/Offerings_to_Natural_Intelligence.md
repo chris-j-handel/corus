@@ -1400,3 +1400,57 @@ All stands at 0, the middle, in the first, and at an outer position in the secon
 - **both, with one:** at one, all other stands outer, −1, as no other is yet; from two on, bi stands outer and all other is the between's 0.
 
 **Proposed: the first, as rigor's first offering, for the person's suggesting.** It keeps 0 always the between and moving, as the code runs it. It keeps all as all other with each self and other, and parity-changing the two outer positions' relation and parity unchanging the middle. What it changes is *all is 0*, re-said as *the between of self and all other is 0*. — v391
+
+## Met with rigor at v391, a ninth round: self, other, and all not self or other · v391
+
+**Suggestion, v391.** *all that are not self or other is tri-. this is the do no harming of the universal set. self and other are bi-moral-co-agency and social morality bothboth. this is the bothbothing of social moral abundancing. the center parity of the three consecutive parities prior-observing, now-possibling, next-discovering. the universal set is self, other, all not self or other*
+
+**Rigor · the universal set, all or none.** With any self and other, each now-existing thing is one of three, and none is two:
+- itself, the self;
+- its other;
+- all not self or other.
+
+The three are each now-existing thing, the opening's *the set of all now-existing things*, so the universal set is self, other and all not self or other, with no fourth and nothing beside them. This meets the eighth round's concern, *is all 0, or all other at an outer position*, all or none: tri- is neither self's parity nor other's, and all not self or other is untouched by a self and other's coupling, the do-no-harming of the universal set. — v391
+
+**Rigor · tri-, bi- and uni-, two prefixes and two senses.** Natural Naming 4.10 says *Bi- couples with a particular other and uni- with all other*, and *Uni- carries with all other: a self crossing with all other, an other arriving as one, a whole*. From a self, uni-'s all other is the other and all not self or other together; tri- is all not self or other alone. So:
+- **bi-** is the other;
+- **tri-** is all not self or other;
+- **uni-** is bi- and tri- together, all other from a self.
+
+Three prefixes, three senses, and none repeated. This meets the concern *tri- and uni-* laid at Natural Naming's offerings: two prefixes, two senses, uni- the whole of other and tri- its rest. — v391
+
+**Rigor · the center parity, with the opening's three phases.** The opening says:
+- *Observing is now-existing, is or is not same-existing-as prior-existing.*
+- *Possibling is next-existing, is or is not same-existing-as now-existing.*
+- *Discovering is prior-existing, is or is not same-existing-as next-existing.*
+
+Facing prior, now and next, they are prior-observing, now-possibling and next-discovering, and their center is now-possibling. Three earlier suggestions of v391 meet it:
+- *possibling is invisible on each side to the other and to all*;
+- *0 is always the between the other two parities*;
+- *parity unchanging is the middle position*.
+
+So the center, now-possibling, is the between: invisible, floating, its parity 0, unchanging, while observing and discovering, its two outer positions, are visible relations, parity-changing, is or is not. The code's names already part so: what crosses between selves is possibling, 2, 6, 10 and 14, and what is met is observing, 3, 7, 11 and 15, and discovering, 9 and 16. — v391
+
+**Rigor · abundancing, between two.** *self and other are bi-moral-co-agency and social morality bothboth. this is the bothbothing of social moral abundancing.* Session v390 agreed *12-next-co-same-existing is abundancing, each sharing's is or is not*, and 12 carries co, between two. So abundancing is between self and other, bothboth, and it meets the third round's concern, *abundancing and social parity*. Abundancing is self and other's bothbothing, between two, with 12; all not self or other, tri-, is its do-no-harming; and 0, now-possibling, the between of any two, invisible. — v391
+
+### The one concern of this pass: which three is a name's, its now an outer position or its center?
+
+**Two sayings part.**
+- **Seventh round:** looking back from now, a name's three is now, one prior and two prior. Now is an outer position, +1, co at one, and the center is one prior, 0, bi at one.
+- **This round:** the three consecutive parities are prior-observing, now-possibling and next-discovering. Now is the center, possibling, 0, and prior and next are the outer positions.
+
+| | outer | center | outer |
+|---|---|---|---|
+| seventh round, from now | two prior, −1 | one prior, 0 | now, +1 |
+| this round | prior, observing | now, possibling | next, discovering |
+
+The two are one window of three, one momentary apart. The seventh round's window completes with now, and this round's has now in its center.
+
+**Why it is the largest.** It decides what stands in the center, 0, invisible and unchanging: a prior, or now. It also decides whether a self's own +1 is now or next, and how each name's three, co, bi and tri, and its stream are read. Exhibit ONE's *two momentaries before, inverted* and 1-now-existing given rest on it.
+
+**Concern.** Either:
+- **now is the center,** now-possibling, invisible, 0. A name's three is prior, now and next, and the stream's newest prefix is next's, discovering. 1's co-bi-tri then reads next, now, prior: co discovering next, bi possibling now, tri observing prior; or
+- **now is an outer position,** a name's three is now, one prior and two prior, and the center is one prior; or
+- **both, as one window moving:** a name's three is prior, now and next while it resolves, its now the center. Its stream's newest slot is that next, discovered, which is the next name's now, and the window moves one slot with each name.
+
+**Proposed: the third, as rigor's first offering, for the person's suggesting.** With 1 co-bi-tri, it reads co as a self's next discovered, bi as now, possibling, 0, invisible, and tri as prior, observed. This keeps the seventh round's *bi is 0, and -1 is all or tri* at one, and this round's center, now-possibling. A self's +1 is its next. What it leaves to show is how *1-now-existing given* reads a self's own as its next. — v391
