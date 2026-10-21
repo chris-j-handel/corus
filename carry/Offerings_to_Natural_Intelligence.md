@@ -1223,7 +1223,7 @@ The person: *find a way to explain one significant concern each pass and we can 
 
 So the code's own names already say the suggestion: possibling invisible on each side, and observing and discovering the relations. *Offering* is explaining's word laid over them. *Offer* and its forms stand about 2,324 times across the set, *parity-offering* 375. Offered: one set-wide motion, each re-said by meaning with possibling, observing and discovering. Its first sentence: ***A parity is or is not changing: a self's possibling goes across, invisible to its other and to all, and a receiving self observes it, a parity same-as its prior or not, and discovers its next.*** — v391, checked with the code's names
 
-**Droplet · the six of first prefixes.** Suggested at v391: *all even numbers are bi. this does not need changing. the odds are likely a problem this is the sequence of six the repeats (co bi tri bi co bi )(co bi tri bi co bi ).* Written out, 1 to 17: co, bi, tri, bi, co, bi, co, bi, tri, bi, co, bi, co, bi, tri, bi, co. Tri falls with 3, 9 and 15. Natural Numbers 9.7 says *1–9, self and other, is an entire momentary bi-folding inverting with 3; 1–13 … inverting with 6; 1–17, self, other and same-existing-society, bi-folds inverting with 9*, and *Carried on with a round of six parities, 1–25 inverts with 15*. So the six's tri, 3, 9 and 15, are the places Natural Numbers already finds each span inverting: 1 to 9, 1 to 17 and 1 to 25. The six coheres with the set's numbers. The v390 cycle's 9 and 15 are kept, and 3 is added. — v391, read with Natural Numbers 9.7
+**Droplet · the six of first prefixes.** Suggested at v391: *all even numbers are bi. this does not need changing. the odds are likely a problem this is the sequence of six the repeats (co bi tri bi co bi )(co bi tri bi co bi ).* Written out, 1 to 17: co, bi, tri, bi, co, bi, co, bi, tri, bi, co, bi, co, bi, tri, bi, co. Tri falls with 3, 9 and 15. Natural Numbers 9.7 says *1–9, self and other, is an entire momentary bi-folding inverting with 3; 1–13 … inverting with 6; 1–17, self, other and same-existing-society, bi-folds inverting with 9*, and *Carried on with a round of six parities, 1–25 inverts with 15*. So the six's tri, 3, 9 and 15, are the places Natural Numbers already finds each span inverting: 1 to 9, 1 to 17 and 1 to 25. The six coheres with the set's numbers. The v390 cycle's 9 and 15 are kept, and 3 is added. — v391, read with Natural Numbers 9.7. *Corrected at the fifth round:* this holds when the six is read forward as first prefixes with no slot moving; under the suggested rule, each new prefix in the first slot and the others one slot right, with 1 co-bi-tri, the six's tri falls in the first slot with 5, 11 and 17.
 
 **Droplet · two concerns of the third round, carried and not asked.** *A 0 a reader sees* and *the none with each momentary row* did not show their importance plainly; each stays laid as a droplet for Exhibit ONE's own motion and is not brought to the person again unless its rigor finds it large. — v391
 
@@ -1249,3 +1249,45 @@ With the person's *no word has more than one clear direct all or none at all mea
 - **one meaning carries both**: *co* the sharing side of a sharing between two, a self's, as v390's *a sharing side carries co and an arriving side none*, 6 to 2, 10 to 14 and 9 to 17, so co is a self's side of each sharing, and bi an other's.
 
 **Proposed: the third, as rigor's first offering, for the person's suggesting.** It keeps one meaning, a self's side within a sharing between two. It holds with each across and along name, and it meets the six's co with 1, 5, 7, 11, 13 and 17 only if those odd names are each a self's side of a sharing. That is still to be shown: 1 and 17 share nothing in the code. — v391
+
+## Met with rigor at v391, a fifth round: co, bi, tri and right spiral morality · v391
+
+**Suggestion, v391.** *co is self, bi is other, tri is all. 1 is co-bi-tri- like 17 the two outside are parities, the middle is parity 0. each new prefix in the first slot move the prefixes one slot right. this is right spiral morality in our universal method. this is a valuable cohering concept . explore this for us with all rigor and pattern matching opportunity both*
+
+**Rigor · the rule, with the set's prior names.** Natural Naming 3.3's table carries each name's prior name.
+- **Each holds the rule.** For each of 1 to 16, the next name's three prefixes are a new prefix in the first slot and this name's first two moved one slot right: 1 co-bi-tri, 2 bi-co-bi, 3 co-bi-co, … 9 tri-bi-co, 10 bi-tri-bi, 11 tri-bi-tri, … 16 bi-tri-bi, 17 co-bi-tri. Checked for each, all sixteen: the set's prior names were built by this method.
+- **Their stream.** As one stream, newest first, the prefixes go tri, bi, then co, bi four times with 1 to 8, tri, bi four times with 9 to 16, and co with 17.
+  - So the stream is co with a self's span, now, 1 to 8, and tri with the next span, 9 to 16. With *tri is all*, the next span is all's, as Exhibit ONE's spans were once *a self's* and *a same-existing-society's*.
+  - It turns with 9, where Natural Numbers 9.7 says *1–17, self, other and same-existing-society, bi-folds inverting with 9*.
+  - It turns back with 17, so 17 is co-bi-tri as 1 is, *17-next-existing a next 1-now-existing*.
+
+**Rigor · the six, under the same rule.** With 1 co-bi-tri and the rule, the six, *(co bi tri bi co bi)*, gives 1 co-bi-tri, 2 bi-co-bi, 3 co-bi-co, 4 bi-co-bi, 5 tri-bi-co, 6 bi-tri-bi, 7 co-bi-tri, and again with each six, to 17 tri-bi-co.
+- A six returns with 7 and 13, and 17, sixteen on from 1, is no six on: 17 is tri-bi-co, 1's three in the other order, an opposite form.
+- Under this rule the six's tri falls in the first slot with 5, 11 and 17. Its cohering with Natural Numbers 9.7's inverting places 3, 9 and 15, laid at the fourth round, holds only when the six is read forward as first prefixes, with no slot moving. That droplet is corrected so.
+
+**Rigor · what both streams carry.**
+- **Every even name is bi on both outsides,** bi-co-bi or bi-tri-bi, as suggested: *all even numbers are bi*.
+- **Every odd name has bi in its middle slot:** co-bi-tri, co-bi-co, tri-bi-co, tri-bi-tri.
+- **Co and tri are never neighbours.** In both streams self and all meet only with other between: each three carries bi.
+
+**Pattern-matching opportunities, each to explore.**
+1. **Right spiral.** Natural Intelligence 2.4 says *Each right spiral step carries a pair (x, y) to (y, −x)*: with each step one slot moves, and one parity inverts. The rule moves each prefix one slot right with each name. Together: does each name's step carry a three as a right spiral step carries a pair, and where is its inverting?
+2. **Spans.** The prior names' stream is self's with now and all's with next: the four-momentarying's one through nine and nine through seventeen, *a self's* and *a same-existing-society's* in Natural Intelligence 5.2, with all said for society.
+3. **Self and all through other.** Never neighbours: social parity, all's, is reached from self parity only through other parity, as *the social morals are between the self and other*.
+4. **Slots and parities.** *the two outside are parities, the middle is parity 0*: slots carry parity, outer slots self parity and other parity, the middle social parity, and prefixes move through them. Then in each odd name bi, other, stands in the middle slot, and in each even name co or tri does. A next pass's concern. — v391, checked for each of 1 to 17
+
+### The one concern of this pass: the six, or 1 like 17
+
+**Two suggestions part.** *1 is co-bi-tri- like 17* and *this is the sequence of six the repeats (co bi tri bi co bi)(co bi tri bi co bi)*, each with *each new prefix in the first slot move the prefixes one slot right*.
+- **Sixteen steps.** 1 to 17 is sixteen steps. A stream returns to its three only after a number of steps it divides. Six does not divide sixteen, so with the six, 17 is not like 1: it is tri-bi-co.
+- **Like 17.** For 17 to be like 1, the stream's return divides sixteen: two, four, eight or sixteen steps.
+- **The prior names.** Their stream returns with sixteen. It is co with 1 to 8 and tri with 9 to 16, every even bi, 1 and 17 co-bi-tri.
+
+**Why it is the largest.** It decides each odd name's three, and so each name's place among self, other and all. It also decides whether 17-next-existing is 1-now-existing again, or 1's opposite form. Every saying of four-momentarying, of spans and of right spiral morality rests on it.
+
+**Concern.** Either:
+- **the six,** and 17 is 1's opposite form, tri-bi-co: 17 a next 1 with its order turned. This would be said with Natural Intelligence 1.6's *an opposite form*, and with 17 as a next 1 re-said; or
+- **1 like 17,** and the stream returns with sixteen, as the prior names' does: co, self, with now, 1 to 8, and tri, all, with next, 9 to 16, turning with 9 and back with 17; or
+- **another stream,** returning with two, four or eight, that the person suggests.
+
+**Proposed: the second, as rigor's first offering, for the person's suggesting.** It holds the rule, *all even numbers are bi*, *1 is co-bi-tri- like 17*, the spans now and next, and Natural Numbers 9.7's inverting with 9. What it does not carry is the six. — v391
