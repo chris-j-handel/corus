@@ -1208,3 +1208,44 @@ Open for exploring:
 - how social parity bounds its naming among Natural Naming's seven binaries;
 - which of the seventeen names it couples with, 5-now-co-existing, the bi-couplings, at one to nine's middle, or 12 and 14, where it is decided;
 - how it meets *social moral competency*. — v391
+
+## Met with rigor at v391, a fourth round · v391
+
+The person: *find a way to explain one significant concern each pass and we can shorten our passes and the exploring value will increase. choose the largest concern and resolving will have the largest improving value.* From this round on, each pass brings one concern, the largest, explained whole; other findings are laid as droplets.
+
+### Droplets
+
+**Droplet · offering dissolving, as the code already says.** Suggested at v391: *parity is or is not changing. do we need offering to explain this or can we dissolve offering and still explain with observing possibling next-existing … there is no arriving no offering no selecting only observing and discovering are visible in the relations and possibling is invisible on each side to the other and to all.*
+- **The code names no offering.** Its seventeen names are existing, possibling, observing, same-existing and discovering.
+- **What goes between selves is possibling.** Each self's list going across is 6-now-co-possibling or 10-next-co-possibling, and it is a receiving self's 2-now-possibling and 14-next-possibling.
+- **What a receiving self meets is observing.** Each parity is met as 7-now-observing, and surfaced as 15-next-observing.
+- **What goes along is discovering.** 9-next-co-discovering goes along to a receiving self's 17-next-existing.
+
+So the code's own names already say the suggestion: possibling invisible on each side, and observing and discovering the relations. *Offering* is explaining's word laid over them. *Offer* and its forms stand about 2,324 times across the set, *parity-offering* 375. Offered: one set-wide motion, each re-said by meaning with possibling, observing and discovering. Its first sentence: ***A parity is or is not changing: a self's possibling goes across, invisible to its other and to all, and a receiving self observes it, a parity same-as its prior or not, and discovers its next.*** — v391, checked with the code's names
+
+**Droplet · the six of first prefixes.** Suggested at v391: *all even numbers are bi. this does not need changing. the odds are likely a problem this is the sequence of six the repeats (co bi tri bi co bi )(co bi tri bi co bi ).* Written out, 1 to 17: co, bi, tri, bi, co, bi, co, bi, tri, bi, co, bi, co, bi, tri, bi, co. Tri falls with 3, 9 and 15. Natural Numbers 9.7 says *1–9, self and other, is an entire momentary bi-folding inverting with 3; 1–13 … inverting with 6; 1–17, self, other and same-existing-society, bi-folds inverting with 9*, and *Carried on with a round of six parities, 1–25 inverts with 15*. So the six's tri, 3, 9 and 15, are the places Natural Numbers already finds each span inverting: 1 to 9, 1 to 17 and 1 to 25. The six coheres with the set's numbers. The v390 cycle's 9 and 15 are kept, and 3 is added. — v391, read with Natural Numbers 9.7
+
+**Droplet · two concerns of the third round, carried and not asked.** *A 0 a reader sees* and *the none with each momentary row* did not show their importance plainly; each stays laid as a droplet for Exhibit ONE's own motion and is not brought to the person again unless its rigor finds it large. — v391
+
+### The one concern of this pass: *co*, one word with two meanings
+
+**Explaining first.**
+- **Co in the names.** Each resolver name carries *co* or not. Natural Naming 3.2 says ***Co stands with a sharing between two, and its absence with one.*** Natural Intelligence 2.2 says the same, and session v390 agreed *bi-moral is the eight co names*, 3, 4, 5, 6, 9, 10, 11 and 12.
+- **Co as a prefix.** Natural Naming 4.15 says *co-bi-exchanging opens co, with odd, a self's, and bi-co-exchanging opens bi, with even, an other's*, and Natural Naming 2.6 *Bi- is difference and co- is two with their difference*.
+- **Two meanings.** *Co* is said both as a sharing between two, and as an odd opening, a self's.
+
+**Two sayings part.** The six of first prefixes, suggested at v391, carries co with 1, 5, 7, 11, 13 and 17. The agreed names carry co with 3, 4, 5, 6, 9, 10, 11 and 12. The two agree only with 5 and 11:
+- 1-now-existing and 17-next-existing are a self's own, carrying no co in their names, and they are co by the six;
+- 3-now-co-observing and 9-next-co-discovering carry co in their names, and they are tri by the six;
+- 4, 6, 10 and 12 carry co in their names, and they are bi by the six.
+
+With the person's *no word has more than one clear direct all or none at all meaning*, *co* cannot be both a sharing between two and a self's odd opening.
+
+**Why it is the largest.** *Co* stands in eight of the seventeen names, and in bi-moral as v390 agreed it. It stands in the prefixes the four-momentarying method is written with, and in *co-competency*, *co-chaining*, *co-sequencing* and each co- naming across the set.
+
+**Concern.** Either:
+- ***co* means a sharing between two**, as the names carry it, and the six's co, a self's odd opening, takes another prefix; or
+- ***co* means a self's, odd**, as the six and Natural Naming 4.15 carry it, and the names' *co*, a sharing between two, is re-said; or
+- **one meaning carries both**: *co* the sharing side of a sharing between two, a self's, as v390's *a sharing side carries co and an arriving side none*, 6 to 2, 10 to 14 and 9 to 17, so co is a self's side of each sharing, and bi an other's.
+
+**Proposed: the third, as rigor's first offering, for the person's suggesting.** It keeps one meaning, a self's side within a sharing between two. It holds with each across and along name, and it meets the six's co with 1, 5, 7, 11, 13 and 17 only if those odd names are each a self's side of a sharing. That is still to be shown: 1 and 17 share nothing in the code. — v391
