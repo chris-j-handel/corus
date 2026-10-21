@@ -1,0 +1,866 @@
+[
+ {
+  "old": "## 4.13 Fields at ten, a key for aiming at each field",
+  "new": "## 4.13 Fields at ten, a key for aiming at each field",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "# FIVE · RESOLVING FOLLOWING, THE EXCLUSIONS AT THE RESOLVER",
+  "new": "# FIVE · RESOLVING FOLLOWING, THE EXCLUSIONS AT THE RESOLVER",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "## 5.2 One exclusion at each of ten",
+  "new": "## 5.2 One exclusion at each of ten",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "## 5.3 Renewal and reaching at their complete requirements",
+  "new": "## 5.3 Renewal and reaching at their complete requirements",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "## 5.4 Sharing at 10 and 6, and carrying at 11, at resolver",
+  "new": "## 5.4 Sharing at 10 and 6, and carrying at 11, at resolver",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "## 5.5 Each conception at a proof of its own requirements",
+  "new": "## 5.5 Each conception at a proof of its own requirements",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**Fixed unchangeable at a form**, 1.\n\n| Arrival, in its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **NY18** ·",
+  "new": "**A form fixed unchangeable**, 1.\n\n| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **NY18** ·",
+  "verdict": "RESAY",
+  "why": "at a form: what is fixed unchangeable is a form, a relation or a stability, 4.2, so 'A form fixed unchangeable'; in its own words: its own words; 'The changing it carries' kept as a row's own column name carried as it stood, line 256. Cell count kept."
+ },
+ {
+  "old": " The conditional A/B law (1/2,1/2) remains fixed given nonabsorption, under the stated transition table, with positive survival probability at each finite step. | probability | a relation that can change | a mathematics of its own: probability | — |",
+  "new": " The conditional A/B law (1/2,1/2) remains fixed given nonabsorption, under the stated transition table, with positive survival probability at each finite step. | probability | a relation that can change | a mathematics of its own: probability | — |",
+  "verdict": "KEEP",
+  "why": "NY18: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "**Fixed unchangeable at a relation**, 1.\n\n| Arrival, in its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **SA01** ·",
+  "new": "**A relation fixed unchangeable**, 1.\n\n| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **SA01** ·",
+  "verdict": "RESAY",
+  "why": "at a form: what is fixed unchangeable is a form, a relation or a stability, 4.2, so 'A form fixed unchangeable'; in its own words: its own words; 'The changing it carries' kept as a row's own column name carried as it stood, line 256. Cell count kept."
+ },
+ {
+  "old": " A complete momentary is an ordered pair of opposite signs, each −1 or +1, and continuing reverses both. Returning is the relation \"the signs are opposite\" satisfied again, and equilibrium requires that relation alone to determine the complete next pair uniquely. | coupling of self and other | a relation that can change | coupling of self and other, and resolver | — |",
+  "new": " A complete momentary is an ordered pair of opposite signs, each −1 or +1, and continuing reverses both. Returning is the relation \"the signs are opposite\" satisfied again, and equilibrium requires that relation alone to determine the complete next pair uniquely. | coupling of self and other | a relation that can change | coupling of self and other, and resolver | — |",
+  "verdict": "KEEP",
+  "why": "SA01: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "**Fixed unchangeable at a form**, 2.\n\n| Arrival, in its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **NY23** ·",
+  "new": "**A form fixed unchangeable**, 2.\n\n| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **NY23** ·",
+  "verdict": "RESAY",
+  "why": "at a form: what is fixed unchangeable is a form, a relation or a stability, 4.2, so 'A form fixed unchangeable'; in its own words: its own words; 'The changing it carries' kept as a row's own column name carried as it stood, line 256. Cell count kept."
+ },
+ {
+  "old": " A specified position–velocity pair (x*,0) stays fixed under Fτ(x,v)=(x+τv,v). | mechanics | rest and balance of bodies | bodies at rest and in balance | one conception with NY21 and NY24, rest with position x* specified |",
+  "new": " A specified position–velocity pair (x*,0) stays fixed under Fτ(x,v)=(x+τv,v). | mechanics | rest and balance of bodies | bodies at rest and in balance | one conception with NY21 and NY24, rest with position x* specified |",
+  "verdict": "KEEP",
+  "why": "NY23: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "| **SA02** · The complete term is 0 or 1, and its specified successor is itself: equilibrium requires the term to equal its successor, with no changing, balancing of opposed changes or further progressing required. | coupling of self and other | a form that can change | coupling of self and other, and resolver | — |",
+  "new": "| **SA02** · The complete term is 0 or 1, and its specified successor is itself: equilibrium requires the term to equal its successor, with no changing, balancing of opposed changes or further progressing required. | coupling of self and other | a form that can change | coupling of self and other, and resolver | — |",
+  "verdict": "KEEP",
+  "why": "SA02: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "**Fixed unchangeable at a form and a relation**, 1.\n\n| Arrival, in its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **NY40** ·",
+  "new": "**A form and a relation fixed unchangeable**, 1.\n\n| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **NY40** ·",
+  "verdict": "RESAY",
+  "why": "at a form: what is fixed unchangeable is a form, a relation or a stability, 4.2, so 'A form fixed unchangeable'; in its own words: its own words; 'The changing it carries' kept as a row's own column name carried as it stood, line 256. Cell count kept."
+ },
+ {
+  "old": " Stationarity and symmetric Nash in the all-zero-payoff game with its replicator evolution. | evolutionary game theory | populations | populations | — |",
+  "new": " Stationarity and symmetric Nash in the all-zero-payoff game with its replicator evolution. | evolutionary game theory | populations | populations | — |",
+  "verdict": "KEEP",
+  "why": "NY40: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "**Fixed unchangeable at a form, a relation and a stability**, 1.\n\n| Arrival, in its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **NY39** ·",
+  "new": "**A form, a relation and a stability fixed unchangeable**, 1.\n\n| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **NY39** ·",
+  "verdict": "RESAY",
+  "why": "at a form: what is fixed unchangeable is a form, a relation or a stability, 4.2, so 'A form fixed unchangeable'; in its own words: its own words; 'The changing it carries' kept as a row's own column name carried as it stood, line 256. Cell count kept."
+ },
+ {
+  "old": " Symmetric Nash and evolutionarily stable resident composition in that dominant-A game, with the same supplied replicator evolution. | evolutionary game theory | populations | populations | one conception with NY38, one dominant-A replicator account, symmetric Nash and evolutionary stability added |",
+  "new": " Symmetric Nash and evolutionarily stable resident composition in that dominant-A game, with the same supplied replicator evolution. | evolutionary game theory | populations | populations | one conception with NY38, one dominant-A replicator account, symmetric Nash and evolutionary stability added |",
+  "verdict": "KEEP",
+  "why": "NY39: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "**Fixed unchangeable at a relation**, 1.\n\n| Arrival, in its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **SA03** ·",
+  "new": "**A relation fixed unchangeable**, 1.\n\n| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **SA03** ·",
+  "verdict": "RESAY",
+  "why": "at a form: what is fixed unchangeable is a form, a relation or a stability, 4.2, so 'A form fixed unchangeable'; in its own words: its own words; 'The changing it carries' kept as a row's own column name carried as it stood, line 256. Cell count kept."
+ },
+ {
+  "old": " A common corrected target: the local comparison bi − di = q, different raw bi sharing q through their declared corrections, with the admissible q the intersection of the stated restrictions. | measurement | a relation that can change | a mathematics of its own: measurement | — |",
+  "new": " A common corrected target: the local comparison bi − di = q, different raw bi sharing q through their declared corrections, with the admissible q the intersection of the stated restrictions. | measurement | a relation that can change | a mathematics of its own: measurement | — |",
+  "verdict": "KEEP",
+  "why": "SA03: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "**Fixed unchangeable at a form**, 5.\n\n| Arrival, in its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **NY14** ·",
+  "new": "**A form fixed unchangeable**, 5.\n\n| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **NY14** ·",
+  "verdict": "RESAY",
+  "why": "at a form: what is fixed unchangeable is a form, a relation or a stability, 4.2, so 'A form fixed unchangeable'; in its own words: its own words; 'The changing it carries' kept as a row's own column name carried as it stood, line 256. Cell count kept."
+ },
+ {
+  "old": " Global minimality of that same U under that same evolution. | dynamical systems | a form that can change | a mathematics of its own: dynamical systems | another claim at NY13's U and evolution, a different minimum |",
+  "new": " Global minimality of that same U under that same evolution. | dynamical systems | a form that can change | a mathematics of its own: dynamical systems | another claim with NY13's U and evolution, a different minimum |",
+  "verdict": "RESAY",
+  "why": "NY14: Last cell: at: with, another claim with one setting. Arrival cell kept verbatim; other cells kept as in the KEEP rows. Cell count kept."
+ },
+ {
+  "old": "| **NY42** · Entropy maximum under heat redistribution with κ>0, fixed U and positive constant heat capacities: u=C_A U/(C_A+C_B). | thermodynamics | heat | heat | a further conception to NY41, one setting with κ>0; one conception with SA07 |",
+  "new": "| **NY42** · Entropy maximum under heat redistribution with κ>0, fixed U and positive constant heat capacities: u=C_A U/(C_A+C_B). | thermodynamics | heat | heat | a further conception to NY41, one setting with κ>0; one conception with SA07 |",
+  "verdict": "KEEP",
+  "why": "NY42: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "| **SA06** · A long-term climate response to specified forcing, fully equilibrated sensitivity distinguished from effective sensitivity, with corrections for differing conditions. | climate science | heat | heat | — |",
+  "new": "| **SA06** · A long-term climate response to specified forcing, fully equilibrated sensitivity distinguished from effective sensitivity, with corrections for differing conditions. | climate science | heat | heat | — |",
+  "verdict": "KEEP",
+  "why": "SA06: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "| **NY06** · A retained range remains satisfied through its specified parity-changing continuation. | resolver | coupling and carrying of resolver | coupling of self and other, and resolver | — |",
+  "new": "| **NY06** · A retained range remains satisfied through its specified parity-changing continuation. | resolver | coupling and carrying of resolver | coupling of self and other, and resolver | — |",
+  "verdict": "KEEP",
+  "why": "NY06: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "| **SA04** · The permitted values are −1, 0 and +1; continuing interchanges −1 and +1 and leaves 0 unchanged; equilibrium conserves membership in this collection. | coupling of self and other | a relation that can change | coupling of self and other, and resolver | — |",
+  "new": "| **SA04** · The permitted values are −1, 0 and +1; continuing interchanges −1 and +1 and leaves 0 unchanged; equilibrium conserves membership in this collection. | coupling of self and other | a relation that can change | coupling of self and other, and resolver | — |",
+  "verdict": "KEEP",
+  "why": "SA04: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "**Fixed unchangeable at a form and a stability**, 1.\n\n| Arrival, in its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **SA07** ·",
+  "new": "**A form and a stability fixed unchangeable**, 1.\n\n| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **SA07** ·",
+  "verdict": "RESAY",
+  "why": "at a form: what is fixed unchangeable is a form, a relation or a stability, 4.2, so 'A form fixed unchangeable'; in its own words: its own words; 'The changing it carries' kept as a row's own column name carried as it stood, line 256. Cell count kept."
+ },
+ {
+  "old": " The reaching principle: an isolated body in a unique equilibrium, persisting when supplied and approached from different states, as in the stated two-body contact with fixed U, CA, CB and positive exchange κ. | thermodynamics | heat | heat | one conception with NY42, its stated two-body contact, uniqueness, persisting and approach added |",
+  "new": " The reaching principle: an isolated body in a unique equilibrium, persisting when supplied and approached from different states, as in the stated two-body contact with fixed U, CA, CB and positive exchange κ. | thermodynamics | heat | heat | one conception with NY42, its stated two-body contact, uniqueness, persisting and approach added |",
+  "verdict": "KEEP",
+  "why": "SA07: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "**Fixed unchangeable at a form and a relation**, 2.\n\n| Arrival, in its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **SA05** ·",
+  "new": "**A form and a relation fixed unchangeable**, 2.\n\n| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **SA05** ·",
+  "verdict": "RESAY",
+  "why": "at a form: what is fixed unchangeable is a form, a relation or a stability, 4.2, so 'A form fixed unchangeable'; in its own words: its own words; 'The changing it carries' kept as a row's own column name carried as it stood, line 256. Cell count kept."
+ },
+ {
+  "old": " A constrained comparison with interaction energy E = x + y + W(x, y) and additive entropy at a stated reduced scope, its stationary relation including the derivatives of W and its constrained curvature the mixed derivative Wxy. | thermodynamics | heat | heat | — |",
+  "new": " A constrained comparison with interaction energy E = x + y + W(x, y) and additive entropy at a stated reduced scope, its stationary relation including the derivatives of W and its constrained curvature the mixed derivative Wxy. | thermodynamics | heat | heat | — |",
+  "verdict": "KEEP",
+  "why": "SA05: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "| **NY37** · Positive stationarity in that logistic account, N=K; equivalently matched nonzero turnover under B=rN and D=rN²/K. | population ecology | populations | populations | one conception with NY36, one logistic account, positive added, N=K |",
+  "new": "| **NY37** · Positive stationarity in that logistic account, N=K; equivalently matched nonzero turnover under B=rN and D=rN²/K. | population ecology | populations | populations | one conception with NY36, one logistic account, positive added, N=K |",
+  "verdict": "KEEP",
+  "why": "NY37: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "**Fixed unchangeable at a form**, 5.\n\n| Arrival, in its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **NY19** ·",
+  "new": "**A form fixed unchangeable**, 5.\n\n| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **NY19** ·",
+  "verdict": "RESAY",
+  "why": "at a form: what is fixed unchangeable is a form, a relation or a stability, 4.2, so 'A form fixed unchangeable'; in its own words: its own words; 'The changing it carries' kept as a row's own column name carried as it stood, line 256. Cell count kept."
+ },
+ {
+  "old": " The unconditional current-occupant law (1/2,1/2) continues after each completed transition and stipulated replacement from that law. | probability | a relation that can change | a mathematics of its own: probability | — |",
+  "new": " The unconditional current-occupant law (1/2,1/2) continues after each completed transition and stipulated replacement from that law. | probability | a relation that can change | a mathematics of its own: probability | — |",
+  "verdict": "KEEP",
+  "why": "NY19: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "| **SA08** · The uniform Maxwellian: constant density, temperature and mean velocity throughout the periodic spatial domain, both collision and transport terms vanishing. | kinetic theory of gases | heat | heat | — |",
+  "new": "| **SA08** · The uniform Maxwellian: constant density, temperature and mean velocity throughout the periodic spatial domain, both collision and transport terms vanishing. | kinetic theory of gases | heat | heat | — |",
+  "verdict": "KEEP",
+  "why": "SA08: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "| **SA09** · Planck-family membership of a spectrum through expansion, its temperature changing: Ur f(ν) = f(rν) and Ur PT = P(T/r). | radiation | heat | heat | — |",
+  "new": "| **SA09** · Planck-family membership of a spectrum through expansion, its temperature changing: Ur f(ν) = f(rν) and Ur PT = P(T/r). | radiation | heat | heat | — |",
+  "verdict": "KEEP",
+  "why": "SA09: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "| **SA10** · The scattering family nα(x) = 1/(exp(x + α) − 1), α ≥ 0, stationary under number-conserving scattering, the Planck member at α = 0. | radiation | heat | heat | SA17 a further conception, emission and absorption added to its scattering |",
+  "new": "| **SA10** · The scattering family nα(x) = 1/(exp(x + α) − 1), α ≥ 0, stationary under number-conserving scattering, the Planck member at α = 0. | radiation | heat | heat | SA17 a further conception, emission and absorption added to its scattering |",
+  "verdict": "KEEP",
+  "why": "SA10: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "| **NY28** · Constant internal X composition in the maintained chain F ⇌ X ⇌ W: x=(f+w)/2 with f,w>0 fixed by the stated receiving. | chemistry | reactions | reactions | — |",
+  "new": "| **NY28** · Constant internal X composition in the maintained chain F ⇌ X ⇌ W: x=(f+w)/2 with f,w>0 fixed by the stated receiving. | chemistry | reactions | reactions | — |",
+  "verdict": "KEEP",
+  "why": "NY28: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "**Fixed unchangeable at a form and a relation**, 4.\n\n| Arrival, in its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **NY31** ·",
+  "new": "**A form and a relation fixed unchangeable**, 4.\n\n| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **NY31** ·",
+  "verdict": "RESAY",
+  "why": "at a form: what is fixed unchangeable is a form, a relation or a stability, 4.2, so 'A form fixed unchangeable'; in its own words: its own words; 'The changing it carries' kept as a row's own column name carried as it stood, line 256. Cell count kept."
+ },
+ {
+  "old": " The law (1/4,1/2,1/4) on B-counts (0,1,2) in the two-molecule A ⇌ B account, with equal positive per-molecule constants, remains stationary and detailed-balanced. | chemistry | reactions | reactions | — |",
+  "new": " The law (1/4,1/2,1/4) on B-counts (0,1,2) in the two-molecule A ⇌ B account, with equal positive per-molecule constants, remains stationary and detailed-balanced. | chemistry | reactions | reactions | — |",
+  "verdict": "KEEP",
+  "why": "NY31: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "| **NY15** · The uniform stationary law on the five complete returned values A→B→C→D→E→A, with the fixed receiving specified at the resolver. | probability at resolver's returns | coupling and carrying of resolver | coupling of self and other, and resolver | — |",
+  "new": "| **NY15** · The uniform stationary law on the five complete returned values A→B→C→D→E→A, with the fixed receiving specified at the resolver. | probability of resolver's returns | coupling and carrying of resolver | coupling of self and other, and resolver | — |",
+  "verdict": "RESAY",
+  "why": "NY15: Field 'probability at resolver's returns': 'probability of resolver's returns', at re-said. Arrival cell kept verbatim; other cells kept as in the KEEP rows. Cell count kept."
+ },
+ {
+  "old": "| **NY16** · Equal weights on the two exchanged opposed-sign values under empty receiving. Stationarity and detailed balance select the same law on this domain. | probability at resolver's returns | coupling and carrying of resolver | coupling of self and other, and resolver | — |",
+  "new": "| **NY16** · Equal weights on the two exchanged opposed-sign values under empty receiving. Stationarity and detailed balance select the same law on this domain. | probability of resolver's returns | coupling and carrying of resolver | coupling of self and other, and resolver | — |",
+  "verdict": "RESAY",
+  "why": "NY16: Field 'probability at resolver's returns': 'probability of resolver's returns', at re-said. Arrival cell kept verbatim; other cells kept as in the KEEP rows. Cell count kept."
+ },
+ {
+  "old": "| **NY17** · Equal weights on the exchanged values A and B, zero on X, with A→B, B→A and X→B under empty receiving. | probability at resolver's returns | coupling and carrying of resolver | coupling of self and other, and resolver | — |",
+  "new": "| **NY17** · Equal weights on the exchanged values A and B, zero on X, with A→B, B→A and X→B under empty receiving. | probability of resolver's returns | coupling and carrying of resolver | coupling of self and other, and resolver | — |",
+  "verdict": "RESAY",
+  "why": "NY17: Field 'probability at resolver's returns': 'probability of resolver's returns', at re-said. Arrival cell kept verbatim; other cells kept as in the KEEP rows. Cell count kept."
+ },
+ {
+  "old": "**Fixed unchangeable at a relation**, 1.\n\n| Arrival, in its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **NY05** ·",
+  "new": "**A relation fixed unchangeable**, 1.\n\n| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **NY05** ·",
+  "verdict": "RESAY",
+  "why": "at a form: what is fixed unchangeable is a form, a relation or a stability, 4.2, so 'A form fixed unchangeable'; in its own words: its own words; 'The changing it carries' kept as a row's own column name carried as it stood, line 256. Cell count kept."
+ },
+ {
+  "old": " Mutual recorded-surface agreement continues with the repeated common offering through every admitted single-noise arrival. | resolver | coupling and carrying of resolver | coupling of self and other, and resolver | — |",
+  "new": " Mutual recorded-surface agreement continues with the repeated common offering through every admitted single-noise arrival. | resolver | coupling and carrying of resolver | coupling of self and other, and resolver | — |",
+  "verdict": "KEEP",
+  "why": "NY05: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "**Fixed unchangeable at a form**, 4.\n\n| Arrival, in its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **NY09** ·",
+  "new": "**A form fixed unchangeable**, 4.\n\n| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **NY09** ·",
+  "verdict": "RESAY",
+  "why": "at a form: what is fixed unchangeable is a form, a relation or a stability, 4.2, so 'A form fixed unchangeable'; in its own words: its own words; 'The changing it carries' kept as a row's own column name carried as it stood, line 256. Cell count kept."
+ },
+ {
+  "old": " E: r=0 on (p,r), with p binary and T(p,r)=(1−p,−r/2); every successive occurrence included. | dynamical systems | a stability that can change | a mathematics of its own: dynamical systems | one conception with NY10, stability added at NY10; NY12 a further conception, T changed |",
+  "new": " E: r=0 on (p,r), with p binary and T(p,r)=(1−p,−r/2); every successive occurrence included. | dynamical systems | a stability that can change | a mathematics of its own: dynamical systems | one conception with NY10, stability added with NY10; NY12 a further conception, a different T |",
+  "verdict": "RESAY",
+  "why": "NY09: Last cell: at: with; T changed: a different T, a map other than NY09's, no parity-changing meant. Arrival cell kept verbatim; other cells kept as in the KEEP rows. Cell count kept."
+ },
+ {
+  "old": "| **NY12** · E: r=0 under T(p,r)=(1−p,−2r), without adding stability. | dynamical systems | a stability that can change | a mathematics of its own: dynamical systems | a further conception to NY09, its T changed, without stability |",
+  "new": "| **NY12** · E: r=0 under T(p,r)=(1−p,−2r), without adding stability. | dynamical systems | a stability that can change | a mathematics of its own: dynamical systems | a further conception to NY09, a different T, without stability |",
+  "verdict": "RESAY",
+  "why": "NY12: Last cell: its T changed: a different T, a map other than NY09's. Arrival cell kept verbatim; other cells kept as in the KEEP rows. Cell count kept."
+ },
+ {
+  "old": "| **NY13** · Local but not global minimality of U(x)=x⁴/4−x³/3−x² under dx/dτ=−U′(x), with no added fluctuations. | dynamical systems | a form that can change | a mathematics of its own: dynamical systems | another claim at NY14's U and evolution, a different minimum |",
+  "new": "| **NY13** · Local but not global minimality of U(x)=x⁴/4−x³/3−x² under dx/dτ=−U′(x), with no added fluctuations. | dynamical systems | a form that can change | a mathematics of its own: dynamical systems | another claim with NY14's U and evolution, a different minimum |",
+  "verdict": "RESAY",
+  "why": "NY13: Last cell: at: with, another claim with one setting. Arrival cell kept verbatim; other cells kept as in the KEEP rows. Cell count kept."
+ },
+ {
+  "old": "| **SA11** · A local Maxwellian cancelling its elastic collision term, kept under the full operation with spatial transport, at constant density, zero mean velocity and a nonzero temperature gradient. | kinetic theory of gases | heat | heat | — |",
+  "new": "| **SA11** · A local Maxwellian cancelling its elastic collision term, kept under the full operation with spatial transport, at constant density, zero mean velocity and a nonzero temperature gradient. | kinetic theory of gases | heat | heat | — |",
+  "verdict": "KEEP",
+  "why": "SA11: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "**Fixed unchangeable at a form and a stability**, 2.\n\n| Arrival, in its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **NY10** ·",
+  "new": "**A form and a stability fixed unchangeable**, 2.\n\n| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **NY10** ·",
+  "verdict": "RESAY",
+  "why": "at a form: what is fixed unchangeable is a form, a relation or a stability, 4.2, so 'A form fixed unchangeable'; in its own words: its own words; 'The changing it carries' kept as a row's own column name carried as it stood, line 256. Cell count kept."
+ },
+ {
+  "old": " The same E and T, with asymptotic stability in the usual real neighbourhoods of r=0 added to the claim. | dynamical systems | a stability that can change | a mathematics of its own: dynamical systems | one conception with NY09, asymptotic stability added; NY11 a further conception, T changed |",
+  "new": " The same E and T, with asymptotic stability in the usual real neighbourhoods of r=0 added to the claim. | dynamical systems | a stability that can change | a mathematics of its own: dynamical systems | one conception with NY09, asymptotic stability added; NY11 a further conception, a different T |",
+  "verdict": "RESAY",
+  "why": "NY10: Last cell: T changed: a different T. Arrival cell kept verbatim; other cells kept as in the KEEP rows. Cell count kept."
+ },
+ {
+  "old": "| **NY11** · E: r=0 under T(p,r)=(1−p,−r), with stability in those neighbourhoods. | dynamical systems | a stability that can change | a mathematics of its own: dynamical systems | a further conception to NY10, its T changed, stability in those neighbourhoods |",
+  "new": "| **NY11** · E: r=0 under T(p,r)=(1−p,−r), with stability in those neighbourhoods. | dynamical systems | a stability that can change | a mathematics of its own: dynamical systems | a further conception to NY10, a different T, stability in those neighbourhoods |",
+  "verdict": "RESAY",
+  "why": "NY11: Last cell: its T changed: a different T; 'stability in those neighbourhoods' is NY11's own words and dynamical systems' own term, kept. Arrival cell kept verbatim; other cells kept as in the KEEP rows. Cell count kept."
+ },
+ {
+  "old": "**Fixed unchangeable at a form**, 8.\n\n| Arrival, in its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **SA12** ·",
+  "new": "**A form fixed unchangeable**, 8.\n\n| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **SA12** ·",
+  "verdict": "RESAY",
+  "why": "at a form: what is fixed unchangeable is a form, a relation or a stability, 4.2, so 'A form fixed unchangeable'; in its own words: its own words; 'The changing it carries' kept as a row's own column name carried as it stood, line 256. Cell count kept."
+ },
+ {
+  "old": " A signed-unit window whose next removes the oldest sign and appends the opposite of the latest, with exact zero mean at each included next. | sequences of signs | a relation that can change | a mathematics of its own: sequences of signs | SA13 a further conception, *its next permits either sign* |",
+  "new": " A signed-unit window whose next removes the oldest sign and appends the opposite of the latest, with exact zero mean at each included next. | sequences of signs | a relation that can change | a mathematics of its own: sequences of signs | SA13 a further conception, *its next permits either sign* |",
+  "verdict": "KEEP",
+  "why": "SA12: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "| **SA13** · A signed-unit window whose next permits either sign, with its sum S kept: S(next) = S(now) + y − a, a the outgoing sign. | sequences of signs | a relation that can change | a mathematics of its own: sequences of signs | a further conception to SA12, one signed-unit window, *its next permits either sign* |",
+  "new": "| **SA13** · A signed-unit window whose next permits either sign, with its sum S kept: S(next) = S(now) + y − a, a the outgoing sign. | sequences of signs | a relation that can change | a mathematics of its own: sequences of signs | a further conception to SA12, one signed-unit window, *its next permits either sign* |",
+  "verdict": "KEEP",
+  "why": "SA13: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "| **NY21** · Relative equilibrium with specified translation velocity u: Fτ(x,v)=(x+τv,v) follows translation by τu for every included τ. | mechanics | rest and balance of bodies | bodies at rest and in balance | one conception with NY22, NY23 and NY24: at this evolution a state follows translation by τu exactly at v=u; NY22 with u unspecified, NY24 with u=0 specified |",
+  "new": "| **NY21** · Relative equilibrium with specified translation velocity u: Fτ(x,v)=(x+τv,v) follows translation by τu for every included τ. | mechanics | rest and balance of bodies | bodies at rest and in balance | one conception with NY22, NY23 and NY24: with this evolution a state follows translation by τu exactly when v=u; NY22 with u unspecified, NY24 with u=0 specified |",
+  "verdict": "RESAY",
+  "why": "NY21: Last cell: at this evolution: with; exactly at v=u: exactly when v=u. Arrival cell kept verbatim; other cells kept as in the KEEP rows. Cell count kept."
+ },
+ {
+  "old": "| **NY22** · Relative equilibrium under some translation velocity, with no particular u specified, on that same force-free position–velocity domain. | mechanics | rest and balance of bodies | bodies at rest and in balance | one conception with NY21, u unspecified |",
+  "new": "| **NY22** · Relative equilibrium under some translation velocity, with no particular u specified, on that same force-free position–velocity domain. | mechanics | rest and balance of bodies | bodies at rest and in balance | one conception with NY21, u unspecified |",
+  "verdict": "KEEP",
+  "why": "NY22: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "| **NY24** · Rest, v=0 with position unrestricted, under that same force-free evolution. | mechanics | rest and balance of bodies | bodies at rest and in balance | one conception with NY21, u=0 specified; NY23 specifies position |",
+  "new": "| **NY24** · Rest, v=0 with position unrestricted, under that same force-free evolution. | mechanics | rest and balance of bodies | bodies at rest and in balance | one conception with NY21, u=0 specified; NY23 specifies position |",
+  "verdict": "KEEP",
+  "why": "NY24: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "| **NY25** · Zero net force for a fixed positive-mass particle in the stated inertial frame, throughout its passage. | mechanics | rest and balance of bodies | bodies at rest and in balance | — |",
+  "new": "| **NY25** · Zero net force for a fixed positive-mass particle in the stated inertial frame, throughout its passage. | mechanics | rest and balance of bodies | bodies at rest and in balance | — |",
+  "verdict": "KEEP",
+  "why": "NY25: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "| **NY26** · Planar rigid-body static equilibrium: rest in the selected frame, zero net external force and zero net external torque. | mechanics | rest and balance of bodies | bodies at rest and in balance | — |",
+  "new": "| **NY26** · Planar rigid-body static equilibrium: rest in the selected frame, zero net external force and zero net external torque. | mechanics | rest and balance of bodies | bodies at rest and in balance | — |",
+  "verdict": "KEEP",
+  "why": "NY26: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "| **NY36** · A stationary value N in the logistic account N′=rN(1−N/K), r,K>0, N≥0 and no migration. | population ecology | populations | populations | one conception with NY37, positive added at NY37 |",
+  "new": "| **NY36** · A stationary value N in the logistic account N′=rN(1−N/K), r,K>0, N≥0 and no migration. | population ecology | populations | populations | one conception with NY37, positive added with NY37 |",
+  "verdict": "RESAY",
+  "why": "NY36: Last cell: at: with. Arrival cell kept verbatim; other cells kept as in the KEEP rows. Cell count kept."
+ },
+ {
+  "old": "**Fixed unchangeable at a relation**, 1.\n\n| Arrival, in its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **SA14** ·",
+  "new": "**A relation fixed unchangeable**, 1.\n\n| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **SA14** ·",
+  "verdict": "RESAY",
+  "why": "at a form: what is fixed unchangeable is a form, a relation or a stability, 4.2, so 'A form fixed unchangeable'; in its own words: its own words; 'The changing it carries' kept as a row's own column name carried as it stood, line 256. Cell count kept."
+ },
+ {
+  "old": " Two gas compartments at one temperature with differing volumes and pressures, shared temperature taken as no available work. | thermodynamics | heat | heat | — |",
+  "new": " Two gas compartments at one temperature with differing volumes and pressures, shared temperature taken as no available work. | thermodynamics | heat | heat | — |",
+  "verdict": "KEEP",
+  "why": "SA14: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "**Fixed unchangeable at a form and a relation**, 1.\n\n| Arrival, in its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **NY34** ·",
+  "new": "**A form and a relation fixed unchangeable**, 1.\n\n| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **NY34** ·",
+  "verdict": "RESAY",
+  "why": "at a form: what is fixed unchangeable is a form, a relation or a stability, 4.2, so 'A form fixed unchangeable'; in its own words: its own words; 'The changing it carries' kept as a row's own column name carried as it stood, line 256. Cell count kept."
+ },
+ {
+  "old": " The two-good exchange record at prices (q,1), original endowments (1,0) and (0,1), and respective utilities x₂ and x₁ satisfies both best-bundle and resource-clearing requirements, with q(next)=1. | economics | a society's exchange | selves choosing and exchanging | NY35 a further conception, its next price changed |",
+  "new": " The two-good exchange record at prices (q,1), original endowments (1,0) and (0,1), and respective utilities x₂ and x₁ satisfies both best-bundle and resource-clearing requirements, with q(next)=1. | economics | a society's exchange | selves choosing and exchanging | NY35 a further conception, a different next price |",
+  "verdict": "RESAY",
+  "why": "NY34: Last cell: changed: a different next price, q(next)=1/q against q(next)=1, no parity-changing meant. Arrival cell kept verbatim; other cells kept as in the KEEP rows. Cell count kept."
+ },
+ {
+  "old": "**Fixed unchangeable at a relation**, 4.\n\n| Arrival, in its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **NY08** ·",
+  "new": "**A relation fixed unchangeable**, 4.\n\n| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **NY08** ·",
+  "verdict": "RESAY",
+  "why": "at a form: what is fixed unchangeable is a form, a relation or a stability, 4.2, so 'A form fixed unchangeable'; in its own words: its own words; 'The changing it carries' kept as a row's own column name carried as it stood, line 256. Cell count kept."
+ },
+ {
+  "old": " Opposition continues under simultaneous best response at the specified choice pair. | game theory | selves choosing | selves choosing and exchanging | a further conception to NY07, one choice pair, best response simultaneous, at NY07 sequential |",
+  "new": " Opposition continues under simultaneous best response at the specified choice pair. | game theory | selves choosing | selves choosing and exchanging | a further conception to NY07, one choice pair, best response simultaneous, with NY07 sequential |",
+  "verdict": "RESAY",
+  "why": "NY08: Last cell: at: with. Arrival cell kept verbatim; other cells kept as in the KEEP rows. Cell count kept."
+ },
+ {
+  "old": "| **NY33** · Intended supply and demand for the same good, market and reference interval agree at the stated price. | economics | a society's exchange | selves choosing and exchanging | — |",
+  "new": "| **NY33** · Intended supply and demand for the same good, market and reference interval agree at the stated price. | economics | a society's exchange | selves choosing and exchanging | — |",
+  "verdict": "KEEP",
+  "why": "NY33: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "| **NY35** · The same exchange criterion under q(next)=1/q, with best bundles recomputed. | economics | a society's exchange | selves choosing and exchanging | a further conception to NY34, the same criterion under q(next)=1/q |",
+  "new": "| **NY35** · The same exchange criterion under q(next)=1/q, with best bundles recomputed. | economics | a society's exchange | selves choosing and exchanging | a further conception to NY34, one same criterion under q(next)=1/q |",
+  "verdict": "RESAY",
+  "why": "NY35: Last cell: the same: one same, the criterion shared by NY34 and NY35. Arrival cell kept verbatim; other cells kept as in the KEEP rows. Cell count kept."
+ },
+ {
+  "old": "| **SA15** · The occurrences 0, 1 and 2 are consecutive: immediate-next joins 0 to 1 and 1 to 2, same-form is transitive, and equilibrium identifies the two as one relation through the whole sequence. | coupling of self and other | a relation that can change | coupling of self and other, and resolver | — |",
+  "new": "| **SA15** · The occurrences 0, 1 and 2 are consecutive: immediate-next joins 0 to 1 and 1 to 2, same-form is transitive, and equilibrium identifies the two as one relation through the whole sequence. | coupling of self and other | a relation that can change | coupling of self and other, and resolver | — |",
+  "verdict": "KEEP",
+  "why": "SA15: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "**Fixed unchangeable at a form and a relation**, 1.\n\n| Arrival, in its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **SA17** ·",
+  "new": "**A form and a relation fixed unchangeable**, 1.\n\n| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **SA17** ·",
+  "verdict": "RESAY",
+  "why": "at a form: what is fixed unchangeable is a form, a relation or a stability, 4.2, so 'A form fixed unchangeable'; in its own words: its own words; 'The changing it carries' kept as a row's own column name carried as it stood, line 256. Cell count kept."
+ },
+ {
+  "old": " Stationarity with emission and absorption added to number-conserving scattering, each process balanced on its own. | radiation | heat | heat | a further conception to SA10, emission and absorption added to number-conserving scattering |",
+  "new": " Stationarity with emission and absorption added to number-conserving scattering, each process balanced on its own. | radiation | heat | heat | a further conception to SA10, emission and absorption added to number-conserving scattering |",
+  "verdict": "KEEP",
+  "why": "SA17: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "**Fixed unchangeable at a relation**, 4.\n\n| Arrival, in its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **SA16** ·",
+  "new": "**A relation fixed unchangeable**, 4.\n\n| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **SA16** ·",
+  "verdict": "RESAY",
+  "why": "at a form: what is fixed unchangeable is a form, a relation or a stability, 4.2, so 'A form fixed unchangeable'; in its own words: its own words; 'The changing it carries' kept as a row's own column name carried as it stood, line 256. Cell count kept."
+ },
+ {
+  "old": " Detailed balance for one normalized law around a three-value cycle with forward probabilities 2/3 and reverse 1/3. | probability | a relation that can change | a mathematics of its own: probability | — |",
+  "new": " Detailed balance for one normalized law around a three-value cycle with forward probabilities 2/3 and reverse 1/3. | probability | a relation that can change | a mathematics of its own: probability | — |",
+  "verdict": "KEEP",
+  "why": "SA16: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "| **NY27** · The closed reversible pair A ⇌ B at fixed positive total concentration and fixed positive rate constants, with k₊a=k₋b. | chemistry | reactions | reactions | — |",
+  "new": "| **NY27** · The closed reversible pair A ⇌ B at fixed positive total concentration and fixed positive rate constants, with k₊a=k₋b. | chemistry | reactions | reactions | — |",
+  "verdict": "KEEP",
+  "why": "NY27: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "| **NY29** · All three reactions of the closed A ⇌ B ⇌ C ⇌ A cycle balance with their own reverses, at positive fixed total and consistent constants satisfying K₁K₂K₃=1. | chemistry | reactions | reactions | — |",
+  "new": "| **NY29** · All three reactions of the closed A ⇌ B ⇌ C ⇌ A cycle balance with their own reverses, at positive fixed total and consistent constants satisfying K₁K₂K₃=1. | chemistry | reactions | reactions | — |",
+  "verdict": "KEEP",
+  "why": "NY29: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "| **NY30** · All reactions in A+F ⇌ B+W, B ⇌ C, C ⇌ A balance under the specified unit ratios and positive maintained f=w. | chemistry | reactions | reactions | — |",
+  "new": "| **NY30** · All reactions in A+F ⇌ B+W, B ⇌ C, C ⇌ A balance under the specified unit ratios and positive maintained f=w. | chemistry | reactions | reactions | — |",
+  "verdict": "KEEP",
+  "why": "NY30: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "**Fixed unchangeable at a form**, 1.\n\n| Arrival, in its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **NY38** ·",
+  "new": "**A form fixed unchangeable**, 1.\n\n| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **NY38** ·",
+  "verdict": "RESAY",
+  "why": "at a form: what is fixed unchangeable is a form, a relation or a stability, 4.2, so 'A form fixed unchangeable'; in its own words: its own words; 'The changing it carries' kept as a row's own column name carried as it stood, line 256. Cell count kept."
+ },
+ {
+  "old": " Stationary composition in the dominant-A two-strategy replicator account, x′=x(1−x), 0≤x≤1. | evolutionary game theory | populations | populations | one conception with NY39, symmetric Nash and evolutionary stability added at NY39 |",
+  "new": " Stationary composition in the dominant-A two-strategy replicator account, x′=x(1−x), 0≤x≤1. | evolutionary game theory | populations | populations | one conception with NY39, symmetric Nash and evolutionary stability added with NY39 |",
+  "verdict": "RESAY",
+  "why": "NY38: Last cell: at: with. Arrival cell kept verbatim; other cells kept as in the KEEP rows. Cell count kept."
+ },
+ {
+  "old": "**Fixed unchangeable at a relation**, 6.\n\n| Arrival, in its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **SA19** ·",
+  "new": "**A relation fixed unchangeable**, 6.\n\n| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **SA19** ·",
+  "verdict": "RESAY",
+  "why": "at a form: what is fixed unchangeable is a form, a relation or a stability, 4.2, so 'A form fixed unchangeable'; in its own words: its own words; 'The changing it carries' kept as a row's own column name carried as it stood, line 256. Cell count kept."
+ },
+ {
+  "old": " Equal outcomes under two accounts, taken as the same equilibrium on the stated domain. | equivalent accounts | a relation that can change | a mathematics of its own: equivalent accounts | — |",
+  "new": " Equal outcomes under two accounts, taken as the same equilibrium on the stated domain. | equivalent accounts | a relation that can change | a mathematics of its own: equivalent accounts | — |",
+  "verdict": "KEEP",
+  "why": "SA19: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "| **NY07** · Opposition continues under sequential best response at the specified choice pair. | game theory | selves choosing | selves choosing and exchanging | NY08 a further conception, best response simultaneous |",
+  "new": "| **NY07** · Opposition continues under sequential best response at the specified choice pair. | game theory | selves choosing | selves choosing and exchanging | NY08 a further conception, best response simultaneous |",
+  "verdict": "KEEP",
+  "why": "NY07: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "| **NY02** · Opposition of the same sign pair continues under joint reversal. | resolver | coupling and carrying of resolver | coupling of self and other, and resolver | — |",
+  "new": "| **NY02** · Opposition of the same sign pair continues under joint reversal. | resolver | coupling and carrying of resolver | coupling of self and other, and resolver | — |",
+  "verdict": "KEEP",
+  "why": "NY02: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "| **NY03** · Opposed carried signs with matching nonzero surface and fresh carrying continue under the stated receiving. | resolver | coupling and carrying of resolver | coupling of self and other, and resolver | — |",
+  "new": "| **NY03** · Opposed carried signs with matching nonzero surface and fresh carrying continue under the stated receiving. | resolver | coupling and carrying of resolver | coupling of self and other, and resolver | — |",
+  "verdict": "KEEP",
+  "why": "NY03: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "| **NY20** · On the resolver's reached fresh domain, q=ct=−1 continues under empty receiving; simultaneous reversal of c, t and the surfaced sign is the specified discrete symmetry. | resolver | coupling and carrying of resolver | coupling of self and other, and resolver | — |",
+  "new": "| **NY20** · On the resolver's reached fresh domain, q=ct=−1 continues under empty receiving; simultaneous reversal of c, t and the surfaced sign is the specified discrete symmetry. | resolver | coupling and carrying of resolver | coupling of self and other, and resolver | — |",
+  "verdict": "KEEP",
+  "why": "NY20: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "| **SA18** · Self and other each take −1 or +1, other is all that is not self in the defined society, and continuing reverses both signs: equilibrium conserves the relation \"self and other have opposite signs\". | coupling of self and other | stable-forming: self and other | coupling of self and other, and resolver | — |",
+  "new": "| **SA18** · Self and other each take −1 or +1, other is all that is not self in the defined society, and continuing reverses both signs: equilibrium conserves the relation \"self and other have opposite signs\". | coupling of self and other | stable-forming: self and other | coupling of self and other, and resolver | — |",
+  "verdict": "KEEP",
+  "why": "SA18: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "**Fixed unchangeable at a form**, 1.\n\n| Arrival, in its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **NY41** ·",
+  "new": "**A form fixed unchangeable**, 1.\n\n| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **NY41** ·",
+  "verdict": "RESAY",
+  "why": "at a form: what is fixed unchangeable is a form, a relation or a stability, 4.2, so 'A form fixed unchangeable'; in its own words: its own words; 'The changing it carries' kept as a row's own column name carried as it stood, line 256. Cell count kept."
+ },
+ {
+  "old": " Constrained entropy maximum and stationary energy split u under insulation, with positive constant heat capacities, fixed total U and no redistribution: κ=0. | thermodynamics | heat | heat | NY42 a further conception, one setting with κ>0 |",
+  "new": " Constrained entropy maximum and stationary energy split u under insulation, with positive constant heat capacities, fixed total U and no redistribution: κ=0. | thermodynamics | heat | heat | NY42 a further conception, one setting with κ>0 |",
+  "verdict": "KEEP",
+  "why": "NY41: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "**Fixed unchangeable at a relation**, 5.\n\n| Arrival, in its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **NY32** ·",
+  "new": "**A relation fixed unchangeable**, 5.\n\n| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |\n|---|---|---|---|---|\n| **NY32** ·",
+  "verdict": "RESAY",
+  "why": "at a form: what is fixed unchangeable is a form, a relation or a stability, 4.2, so 'A form fixed unchangeable'; in its own words: its own words; 'The changing it carries' kept as a row's own column name carried as it stood, line 256. Cell count kept."
+ },
+ {
+  "old": " Pairwise equal-temperature/no-net-heat-transfer equilibrium under the specified heat-permitting contact, without material exchange, mechanical work or other driving. | thermodynamics | heat | heat | — |",
+  "new": " Pairwise equal-temperature/no-net-heat-transfer equilibrium under the specified heat-permitting contact, without material exchange, mechanical work or other driving. | thermodynamics | heat | heat | — |",
+  "verdict": "KEEP",
+  "why": "NY32: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "| **SA20** · Equal temperature at an additive contact with negative heat capacity at one side, D = 1/CA + 1/CB, entropy curvature −D/T² at the equal-temperature occurrence. | thermodynamics | heat | heat | — |",
+  "new": "| **SA20** · Equal temperature at an additive contact with negative heat capacity at one side, D = 1/CA + 1/CB, entropy curvature −D/T² at the equal-temperature occurrence. | thermodynamics | heat | heat | — |",
+  "verdict": "KEEP",
+  "why": "SA20: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "| **SA21** · Equal temperature compared through partner-dependent contacts, linked equalities giving the factor rHB rAH and the direct comparison rAB. | thermodynamics | heat | heat | — |",
+  "new": "| **SA21** · Equal temperature compared through partner-dependent contacts, linked equalities giving the factor rHB rAH and the direct comparison rAB. | thermodynamics | heat | heat | — |",
+  "verdict": "KEEP",
+  "why": "SA21: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "| **NY01** · Offering and receiving remain complementary while the sides exchange roles, with each side's own releasing. | resolver | coupling and carrying of resolver | coupling of self and other, and resolver | — |",
+  "new": "| **NY01** · Offering and receiving remain complementary while the sides exchange roles, with each side's own releasing. | resolver | coupling and carrying of resolver | coupling of self and other, and resolver | — |",
+  "verdict": "KEEP",
+  "why": "NY01: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "| **NY04** · The attained two-position row retains opposite neighbouring surfaces, opposed carried signs and fresh carrying under its admitted receiving. | resolver | coupling and carrying of resolver | coupling of self and other, and resolver | — |",
+  "new": "| **NY04** · The attained two-position row retains opposite neighbouring surfaces, opposed carried signs and fresh carrying under its admitted receiving. | resolver | coupling and carrying of resolver | coupling of self and other, and resolver | — |",
+  "verdict": "KEEP",
+  "why": "NY04: Arrival cell is a verbatim quotation, kept; Field and Subject cells are a field's own terms (at rest, in balance); 'The changing it carries' cells are a row's own column carried as it stood, line 256; last cell has no word to re-say. Cell count kept."
+ },
+ {
+  "old": "**Each field's equilibria fall at those of ten at which it fixes its changing unchangeable, and a field is aimed at from each of them.**",
+  "new": "**Each field's equilibria fall with those of ten by which it fixes its parity-changing unchangeable, and a field is aimed at from each of them.**",
+  "verdict": "RESAY",
+  "why": "at: with, by; changing: parity-changing, a field's subject goes on parity-changing; 'aimed at' is aiming, as in its kept heading, not place."
+ },
+ {
+  "old": "At each of them a field sets a still beside its changing and sets aside its changing's own competency, carried along at a between: at that one of ten a field's subject is fixed unchangeable, and its competency's source is set aside at it.",
+  "new": "With each of them a field sets a form fixed still beside its parity-changing and sets aside its parity-changing's own competency, carried along with a between: with that one of ten a field's subject is fixed unchangeable, and its competency's source is set aside.",
+  "verdict": "RESAY",
+  "why": "at: with; a still beside: a form fixed still from beside, as settled; changing: parity-changing; 'set aside at it' repeats 'with that one of ten', so removed."
+ },
+ {
+  "old": "The table carries each subject, with fields gathered under it, at each of ten, each arrival at its one of ten.",
+  "new": "This table carries each subject, with fields gathered under it, with each of ten, each arrival with its one of ten.",
+  "verdict": "RESAY",
+  "why": "the: this; at: with."
+ },
+ {
+  "old": "| coupling of self and other, and resolver: probability at resolver's returns, coupling of self and other, resolver | SA01 |",
+  "new": "| coupling of self and other, and resolver: probability of resolver's returns, coupling of self and other, resolver | SA01 |",
+  "verdict": "RESAY",
+  "why": "Field name re-said as at NY15, NY16 and NY17: 'probability of resolver's returns'. Cell count kept."
+ },
+ {
+  "old": "| bodies at rest and in balance: mechanics | — | NY23 |",
+  "new": "| bodies at rest and in balance: mechanics | — | NY23 |",
+  "verdict": "KEEP",
+  "why": "Subject 'bodies at rest and in balance' is mechanics' own term in its own sense, kept as in its rows."
+ },
+ {
+  "old": "**Observed across a row, a subject shows those of ten at which its fields fix a changing unchangeable; observed down a column, subjects fixing one unchangeable gather.**",
+  "new": "**Observed across a row, a subject shows those of ten by which its fields fix a parity-changing unchangeable; observed down a column, subjects fixing one unchangeable gather.**",
+  "verdict": "RESAY",
+  "why": "at which: by which; changing: parity-changing."
+ },
+ {
+  "old": "Heat falls at six of ten, four arrivals each at a completing fixed as a last and at a between fixed as a cut; reactions at a carry fixed as a store and at a rate fixed as a value;",
+  "new": "Heat falls with six of ten, four arrivals each with a completing fixed as a last and with a between fixed as a cut; reactions with a carry fixed as a store and with a rate fixed as a value;",
+  "verdict": "RESAY",
+  "why": "at: with. Counts checked against the table: heat 6, then 4 and 4."
+ },
+ {
+  "old": "bodies at rest and in balance at an opening fixed as a place and at a parity fixed as a magnitude; selves choosing and exchanging at a sequencing fixed to one beat and at a two-way fixed to one side; populations at four of ten; coupling of self and other, and resolver, at seven.",
+  "new": "bodies at rest and in balance with an opening fixed as a place and with a parity fixed as a magnitude; selves choosing and exchanging with a sequencing fixed to one beat and with a two-way fixed to one side; populations with four of ten; coupling of self and other, and resolver, with seven.",
+  "verdict": "RESAY",
+  "why": "at: with; 'bodies at rest and in balance' a subject's own mechanics term, kept. Counts checked against the table: populations 4, coupling 7."
+ },
+ {
+  "old": "Each row fills as arrivals come, each placed at its own words.",
+  "new": "Each row fills as arrivals come, each placed by its own words.",
+  "verdict": "RESAY",
+  "why": "at: by."
+ },
+ {
+  "old": "**Leads arrive without their statements:** statistical null hypotheses, static cosmology, horizon and observer temperatures, early-universe thermal and gravitational descriptions,",
+  "new": "**Leads arrive without their statements:** statistical null hypotheses, static cosmology, horizon and observer temperatures, early-universe thermal and gravitational descriptions,",
+  "verdict": "KEEP",
+  "why": "Leads named in fields' own terms: 'statistical null hypotheses' is statistics' own term, named as a lead, not a likelihood offered."
+ },
+ {
+  "old": "philosophical accounts, and measuring, locating and separating, Natural Intelligence Corus's three consecutive equilibria, a thing, a relation and a system at rest.",
+  "new": "philosophical accounts, and measuring, locating and separating, Natural Intelligence Corus's three consecutive equilibria, a thing, a relation and a system at rest.",
+  "verdict": "KEEP",
+  "why": "'a system at rest' is mechanics' own term in its own sense; a work's title kept."
+ },
+ {
+  "old": "Each is placed at ten at its statement's arriving.",
+  "new": "Each is placed with ten as its statement arrives.",
+  "verdict": "RESAY",
+  "why": "at: with, as."
+ },
+ {
+  "old": "A boundary declared unchanging is a bounding fixed unchangeable, and bounding is living changing: each declaration, within, around, across, along, at an entrance or at an exit, is at one question, whether co-sequential resolving continues under it.",
+  "new": "A boundary declared unchanging is a bounding fixed unchangeable, and bounding is living parity-changing: each declaration, within, around, across, along, of an entrance or of an exit, meets one question, whether co-sequential resolving continues under it.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing; at an entrance: of an entrance; is at one question: meets one question."
+ },
+ {
+  "old": "Scientific method is not possibly explaining observings of changing and not-changing from prior-existing to next-existing things, and is placed at its fixings: a law, a frame or a scale fixed unchangeable between a signal's leaving and its arriving, each placed at ten through its own stated requirement;",
+  "new": "Scientific method cannot explain observings of parity-changing and not-changing from prior-existing to next-existing things, and is placed by its fixings: a law, a frame or a scale fixed unchangeable between a signal's leaving and its arriving, each placed with ten through its own stated requirement;",
+  "verdict": "RESAY",
+  "why": "not possibly explaining: cannot explain (possibly kept only in 'possibly existing'); changing: parity-changing; at: by, with."
+ },
+ {
+  "old": "with a hypothesis it explains a stilling and a changing without considering the rest of the universe.",
+  "new": "with a hypothesis it explains a stilling and a parity-changing without considering the rest of the universe.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing; 'the rest of the universe' one and only, kept."
+ },
+ {
+  "old": "accounts for its source's motion between the two.",
+  "new": "accounts for its source's motion between them.",
+  "verdict": "RESAY",
+  "why": "the two: them."
+ },
+ {
+  "old": "Evidence arriving now and a prior event it expresses are two, each at its own momentary, and both are, each at its own: a property can be now-existing while its source changes as a whole, and evidence gives its prior as possible and as actual.",
+  "new": "Evidence arriving now and a prior event it expresses are two, each with its own momentary, and both are, each with its own: a property can be now-existing while its source parity-changes as a whole, and evidence gives its prior as possibly existing and as actual.",
+  "verdict": "RESAY",
+  "why": "at: with; changes: parity-changes; as possible: as possibly existing, a kept phrase."
+ },
+ {
+  "old": "Each is a way of failing, at Exhibit ONE's resolver or at its numbers.",
+  "new": "Each is a way of failing, with Exhibit ONE's resolver or with its numbers.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "| A · Incompatible requirements | The same comparison is fixed to satisfy requirements not possibly reached together. | Fixed state–flow–state and flow–state–flow under their required advance; included membership required both not-changing and inverted; a balanced fuel cycle with `f≠w`. | Each conjunction as stated, at the same occurrence. |",
+  "new": "| A · Incompatible requirements | One same comparison is fixed to satisfy requirements not reachable together. | Fixed state–flow–state and flow–state–flow under their required advance; included membership required both not-changing and inverted; a balanced fuel cycle with `f≠w`. | Each conjunction as stated, with one same occurrence. |",
+  "verdict": "RESAY",
+  "why": "The same: one same; not possibly reached: not reachable; at: with. Inline code kept. Cell count kept."
+ },
+ {
+  "old": "| C · Renewal excluded | Presence carries renewal, and a conception excludes that renewal. | A carrying fixed unchangeable at each momentary; each surface zero at a carried sharing. |",
+  "new": "| C · Renewal excluded | Presence carries renewal, and a conception excludes that renewal. | A carrying fixed unchangeable with each momentary; each surface zero with a carried sharing. |",
+  "verdict": "RESAY",
+  "why": "at: with. Cell count kept."
+ },
+ {
+  "old": "| D · Required arrival or offering unreachable | A required target lies beyond each thing a stated operation can supply. | Finite zero departure from a nonzero predecessor under a nonzero multiplier; an older resolver's case at its opposed aggregate route is at `archive/carrying_v377/Exhibit_TWENTY-EIGHT_Equilibria_Registry_older_resolver.md`. |",
+  "new": "| D · Required arrival or offering unreachable | A required target is no thing a stated operation can supply. | Finite zero departure from a nonzero predecessor under a nonzero multiplier; an older resolver's case of its opposed aggregate route is carried by `archive/carrying_v377/Exhibit_TWENTY-EIGHT_Equilibria_Registry_older_resolver.md`. |",
+  "verdict": "RESAY",
+  "why": "lies beyond each thing: is no thing; at: of, carried by. Path kept. Cell count kept."
+ },
+ {
+  "old": "For each x in a conception's stated set S, its required next is in S, or the conception is left within its succession.",
+  "new": "For each x in a conception's stated set S, its required next is in S, or that conception is left within its succession.",
+  "verdict": "RESAY",
+  "why": "the: that; 'x in S', 'in S' set membership, mathematics' own term, kept."
+ },
+ {
+  "old": "Renewal excluded, group C, at Exhibit ONE's resolver. A sharing once at a prior is at a prior at each momentary and is not none again.",
+  "new": "Renewal excluded, group C, with Exhibit ONE's resolver. A sharing once with a prior has a prior with each momentary and is not none again.",
+  "verdict": "RESAY",
+  "why": "at: with. Executed: 11 carries 3 and writes each nonzero 10, so a sharing with a prior is not none again."
+ },
+ {
+  "old": "Fixed unchangeable, it requires at each momentary an offering at its own parity: offered nothing, other parity, or offerings parting to 0 at 14-next-possibling, changing at 12-next-co-same-existing is, and its prior inverts, a living step.",
+  "new": "Fixed unchangeable, it requires with each momentary an offering of its own parity: offered nothing, other parity, or offerings parting to 0 with 14-next-possibling, parity-changing with 12-next-co-same-existing is, and its prior inverts, a living step.",
+  "verdict": "RESAY",
+  "why": "at: with, of; changing: parity-changing, a self's parity not same-existing. Executed: prior + offered nothing, −, or + and − gives 10 −, 11 −."
+ },
+ {
+  "old": "Executed at v377: at prior + and offered + at five momentaries, it shares 0 at each at 10-next-co-possibling and stays +; then offered nothing, it shares −, +, −, +, − and its prior inverts at each; a sharing of its prior whose offerings part to 0 at each momentary inverts at each,",
+  "new": "Executed with v377: with prior + and offered + for five momentaries, it shares 0 with each by 10-next-co-possibling and stays +; then offered nothing, it shares −, +, −, +, − and its prior inverts with each; a sharing of its prior whose offerings part to 0 with each momentary inverts with each,",
+  "verdict": "RESAY",
+  "why": "at: with, for, by. Re-executed with Exhibit ONE v390: 0,0,0,0,0 then −,+,−,+,−, as said."
+ },
+ {
+  "old": "Fixed unchangeable, its prior is a prior offered its own parity from beside at each momentary, an unchangeable offerer set beside a self: its still description and a self's own continuing do not both continue.",
+  "new": "Fixed unchangeable, its prior is a prior offered its own parity with each momentary by a form fixed still from beside: its still description and a self's own continuing do not both continue.",
+  "verdict": "RESAY",
+  "why": "doer 'an unchangeable offerer set beside a self': a form fixed still from beside, as settled; at: with."
+ },
+ {
+  "old": "Set beside one self of a society, an unchangeable offerer stills that self's changing at each momentary, and each self at no prior coupled along from it is offered none and opens nothing: one still at one self stops co-sequencing through each self at no prior coupled from it.",
+  "new": "A form fixed still from beside one self of a same-existing-society stills that self's parity-changing with each momentary, and each self with no prior coupled along from it is offered none and opens nothing: one still with one self stops co-sequencing through each self with no prior coupled from it.",
+  "verdict": "RESAY",
+  "why": "doer offerer: a form fixed still from beside; society: same-existing-society; changing: parity-changing; at: with. Executed: a stilled self shares 0, and a self with no prior offered 0 opens nothing."
+ },
+ {
+  "old": "That is hard probleming, and released, resolving follows at a next momentary: a self inverts its own prior, the parity its still offered, and its still offers nothing further.",
+  "new": "That is hard probleming, and, that still dissolved, resolving follows with a next momentary: a self inverts its own prior, its still's offered parity, and its still offers nothing further.",
+  "verdict": "RESAY",
+  "why": "released: dissolved, a form that leaves; at: with; the parity: its still's offered parity."
+ },
+ {
+  "old": "An unchangeable relation can permit a changing an unchangeable parity excludes:",
+  "new": "An unchangeable relation can permit a parity-changing an unchangeable parity excludes:",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing."
+ },
+ {
+  "old": "**One binary retaining and inverting its value at one required next is not possible.** A conception naming p(next)=p(now) with its continuing carrying p(next)=−p(now), with p either +1 or −1, fixes both at once. This is the one exclusion at each of ten, at its own place: its side fixed unchangeable and its side momentarying are one number.",
+  "new": "**One binary retaining and inverting its value with one required next is not possibly existing.** A conception naming p(next)=p(now) with its continuing carrying p(next)=−p(now), with p either +1 or −1, fixes both together. This is the one exclusion with each of ten, each with its own place: its side fixed unchangeable and its side momentarying are one number.",
+  "verdict": "RESAY",
+  "why": "at: with; not possible: not possibly existing, a kept phrase, as 2.1; at once: together; 'the one exclusion' one and only, kept."
+ },
+ {
+  "old": "Advancing an overlapping triple changes `010` to `101` and `101` to `010`: fixing either ordering fails at its next advance, and either ordering reached again at a next momentary is a further occurrence.",
+  "new": "Advancing an overlapping triple inverts `010` to `101` and `101` to `010`: fixing either ordering fails with its next advance, and either ordering reached again with a next momentary is a further occurrence.",
+  "verdict": "RESAY",
+  "why": "changes: inverts, each place's parity inverting; at: with. Inline code kept."
+ },
+ {
+  "old": "Included membership required both not-changing and inverted is at the same proof, and so does equality at each chemical conversion: forward and reverse propensities are equal only at count 1, and each conversion takes 1 to 0 or 2.",
+  "new": "Included membership required both not-changing and inverted meets one same proof, and so does equality with each chemical conversion: forward and reverse propensities are equal only when a count is 1, and each conversion takes 1 to 0 or 2.",
+  "verdict": "RESAY",
+  "why": "is at the same proof: meets one same proof; at: with, when."
+ },
+ {
+  "old": "and a requirement including a fixed boundary comparison fails at its continuation changing exactly one end.",
+  "new": "and a requirement including a fixed boundary comparison fails as its continuation advances exactly one end.",
+  "verdict": "RESAY",
+  "why": "at ... changing: as ... advances, one end moving on along 0, 1, 2."
+ },
+ {
+  "old": "F(P,Q)=(−Q,P) visits all four pairs from each pair it opens at. At cos θ's and sin θ's parities F is a right spiral step, θ to θ + 90°, and P and Q agreeing is tan θ positive: tan(θ + 90°) = −1/tan θ inverts it at each step.",
+  "new": "F(P,Q)=(−Q,P) visits all four pairs from each pair it opens with. With cos θ's and sin θ's parities F is a right spiral step, θ to θ + 90°, and P and Q agreeing is tan θ positive: tan(θ + 90°) = −1/tan θ inverts it with each step.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Each nonempty proper subset is left within at most three advances, {++,−+,−−} from ++ at its third, and subsets F carries into themselves are exactly unions of its one cycle: none or all four.",
+  "new": "Each nonempty proper subset is left within three advances or fewer, {++,−+,−−} from ++ with its third, and subsets F carries to themselves are exactly unions of its one cycle: none or all four.",
+  "verdict": "RESAY",
+  "why": "at: with; at most three: three or fewer; into: to. Checked: ++, −+, −−, then +− leaves with a third advance."
+ },
+ {
+  "old": "a side opening at 1, co, reaches four of them within three advances, and a side opening at 2, bi, an other four, 1.5.",
+  "new": "a side opening with 1, co, reaches four of them within three advances, and a side opening with 2, bi, an other four, 1.5.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "it excludes no changing and has no momentary in it, and a sequence is from stepping.",
+  "new": "it excludes no parity-changing and has no momentary within it, and a sequence is from stepping.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing; in: within."
+ },
+ {
+  "old": "| Required condition | The necessary continuation |",
+  "new": "| Required condition | Its necessary continuation |",
+  "verdict": "RESAY",
+  "why": "the: its. Cell count kept."
+ },
+ {
+  "old": "| A prior fixed unchangeable | Offered its own parity at each momentary it stays, its offering from beside; offered nothing, other parity or a parting, it inverts; once at a prior a sharing is not none. |",
+  "new": "| A prior fixed unchangeable | Offered its own parity with each momentary it stays, its offering from a form fixed still from beside; offered nothing, other parity or a parting, it inverts; once with a prior a sharing is not none. |",
+  "verdict": "RESAY",
+  "why": "at: with; offering from beside: from a form fixed still from beside, as settled. Executed as said. Cell count kept."
+ },
+ {
+  "old": "| Each surface zero at a carried sharing | Chained inverted at each momentary, as with nothing offered; at resolver a surface 0 arrives only from offerings parting, Exhibit ONE's table of offerings to one sharing, surfacing. |",
+  "new": "| Each surface zero with a carried sharing | Chained inverted with each momentary, as with nothing offered; with resolver a surface 0 arrives only from offerings parting, Exhibit ONE's table of offerings to one sharing, surfacing. |",
+  "verdict": "RESAY",
+  "why": "at: with. Code: 14 is 0 only with + and − parting. Cell count kept."
+ },
+ {
+  "old": "| Full positive balance in a unit-ratio fuel-coupled cycle, with `f≠w` maintained | That balance is at `f=w` only. |",
+  "new": "| Full positive balance of a unit-ratio fuel-coupled cycle, with `f≠w` maintained | That balance is only with `f=w`. |",
+  "verdict": "RESAY",
+  "why": "in: of; at: with. Inline code kept. Cell count kept."
+ },
+ {
+  "old": "**At numbers two maps return four pairs at two steps.**",
+  "new": "**With numbers, two maps return four pairs by two steps.**",
+  "verdict": "RESAY",
+  "why": "at: with, by."
+ },
+ {
+  "old": "At Exhibit ONE's resolver a self offered nothing is at its prior inverted at each momentary, and its sharing at 10-next-co-possibling and its next prior at 11-next-co-observing are one changing, part 11.",
+  "new": "With Exhibit ONE's resolver a self offered nothing has its prior inverted with each momentary, and its sharing by 10-next-co-possibling and its next prior by 11-next-co-observing are one parity-changing, part 11.",
+  "verdict": "RESAY",
+  "why": "at: with, by; changing: parity-changing. Executed: offered nothing, 10 and 11 are both the prior inverted."
+ },
+ {
+  "old": "Two neighbouring pairs (a,b) and (b,z), each at a parity, + or −, carry the two relations exactly when z = −a, and +,+,+ agrees at both.",
+  "new": "Two neighbouring pairs (a,b) and (b,z), each with a parity, + or −, carry both relations exactly when z = −a, and +,+,+ agrees with both.",
+  "verdict": "RESAY",
+  "why": "at: with; the two: both."
+ },
+ {
+  "old": "**6 and 10 share one changing**, at Exhibit ONE's resolver `_6_now_co_possibling = _10_next_co_possibling`, both even and co, a sharing side, at middle bi-folding 7-11-6-10,",
+  "new": "**6 and 10 share one parity-offering**, with Exhibit ONE's resolver `_6_now_co_possibling = _10_next_co_possibling`, both even and co, a sharing side, with middle bi-folding 7-11-6-10,",
+  "verdict": "RESAY",
+  "why": "changing going across: parity-offering; at: with. Inline code kept; code line checked in Exhibit ONE."
+ },
+ {
+  "old": "An across name's parity, a changing's + or − and agreement of two are three comparisons.",
+  "new": "An across name's parity, a parity-offering's + or − and agreement of two are three comparisons.",
+  "verdict": "RESAY",
+  "why": "changing's + or −: a parity-offering's."
+ },
+ {
+  "old": "**A prior and its offerings determine its next at each sharing**, as Exhibit ONE's table of one self at one momentary gives each cell of a living self, and its table at no prior a sharing at no prior: a prior parity offered its own stays and shares 0; offered an other, a parting or nothing, it inverts; a sharing at no prior opens at its offered parity, or stays open at 0 or none.",
+  "new": "**A prior and its offerings determine its next with each sharing**, as Exhibit ONE's table *One self, one momentary* gives each cell of a living self, and its table *With no prior, one momentary* a sharing with no prior: a prior parity offered its own stays and shares 0; offered an other, a parting or nothing, it inverts; a sharing with no prior opens with its offered parity, or, offered a parting or nothing, shares 0 or none and opens no prior.",
+  "verdict": "RESAY",
+  "why": "at: with; tables named by their Exhibit ONE titles. 'stays open at 0 or none' re-said true to executing: no prior, parting shares 0 and nothing shares none, each with no next prior."
+ },
+ {
+  "old": "**Each conception is at a proof by its own requirements.**",
+  "new": "**Each conception meets a proof by its own requirements.**",
+  "verdict": "RESAY",
+  "why": "is at: meets."
+ },
+ {
+  "old": "At SA01 opposition continuing is alike at self + with other − and at self − with other +, and gives neither as next:",
+  "new": "With SA01 opposition continuing is alike for self + with other − and for self − with other +, and gives neither as next:",
+  "verdict": "RESAY",
+  "why": "at: with, for."
+ },
+ {
+  "old": "Each sentence at resolver is at Exhibit ONE v380R at tables it cites, by hand at v380L at its sentences of a sharing at no prior, or executed at v377 at Exhibit ONE v376 at a script and part it cites; each sentence at numbers is computed at a script it cites or is at its own arithmetic.",
+  "new": "Each sentence of resolver rests on Exhibit ONE v380R by tables it cites, by hand with v380L for its sentences of a sharing with no prior, or executed with v377 on Exhibit ONE v376 by a script and part it cites; each sentence of numbers is computed by a script it cites or rests on its own arithmetic.",
+  "verdict": "RESAY",
+  "why": "at: of, on, by, with, for."
+ },
+ {
+  "old": "An older resolver's derivations, 32 of 32 at its own code, are whole at `archive/carrying_v377/Exhibit_TWENTY-EIGHT_Equilibria_Registry_older_resolver.md`.",
+  "new": "An older resolver's derivations, 32 of 32 with its own code, are whole within `archive/carrying_v377/Exhibit_TWENTY-EIGHT_Equilibria_Registry_older_resolver.md`.",
+  "verdict": "RESAY",
+  "why": "at: with, within (a file and its part). Path kept."
+ }
+]

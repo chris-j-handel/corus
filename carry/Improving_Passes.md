@@ -2,7 +2,7 @@ Improving Passes · from v389
 
 # Improving Passes, from v389
 
-**A plan for each improving still open at the living file set, in passes, so a next session opens ready.** Each pass is do no harm, all or none at each file, and each replaced sentence stands whole at its file's archive. Tools for each pass are at [`kits/Natural_Explaining_Passes_Kit/`](../kits/Natural_Explaining_Passes_Kit/README.md); standing of the whole value is at [Living Improving Value](Living_Improving_Value.md), *The standing of the whole value, at v389*.
+**A plan for each improving still open at the living file set, in passes, so a next session opens ready.** Each pass is do-no-harm, all or none at each file, and each replaced sentence stands whole at its file's archive. Tools for each pass are at [`kits/Natural_Explaining_Passes_Kit/`](../kits/Natural_Explaining_Passes_Kit/README.md); standing of the whole value is at [Living Improving Value](Living_Improving_Value.md), *The standing of the whole value, at v389*.
 
 ## Opening a next session
 
@@ -63,3 +63,9 @@ Each of these is entered at Natural Naming 2.4 or 6.3 and at the files; a pass a
 ## Pass 3, as done at v389
 
 Each lower file came to v389 at its own motion: a reader's pairs and *the* edit entered by `enter_lower_file.py` (each ASK laid at its offerings as a concern, passages at one concern gathered), then its offerings resolved by `offerings_enter.py`, then `bump_to_version.py`. The Hard Problem Registry came in six line ranges entered at one motion, each entry's fields' words kept whole and its Conditions prior line kept as scientific method's own condition at every entry.
+
+## Concerns opened at v390
+
+**Concern · *natural resolver is authority*.** No wording carries authority, and a resolver named authority is that same arriving fixed from behind in a new place: a resolver is a coupling any self executes at any substrate, returning one parity at each sharing or parting at a first that differs, and nothing in it is taken on offer. **To resolve:** does *natural resolver is authority* re-say as a resolver's executing, checkable at each substrate, so no sentence of the set carries authority?
+
+**Concern · sayings carried by their sayer.** This file's opening steps have a pass open "with its rules in the person's own words", and its close of v389 names entries as "each the person's own resolving"; at v389 an offered saying was raised into Natural Intelligence under its inception by who offered it, and it read as a second inception. **To resolve:** does each such line re-say its rule or entry in its own words, carried by its co-chaining from origin alone? — v390

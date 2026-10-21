@@ -1,0 +1,434 @@
+[
+ {
+  "old": "**On a ring each pair makes four hundred forty at each radius**: a ring pairs by value and seventeen by position, and neither pairing is other.",
+  "new": "**On a ring each pair makes four hundred forty with each radius**: a ring pairs by value and seventeen by position, and neither pairing is other.",
+  "verdict": "RESAY",
+  "why": "at each radius: with each radius."
+ },
+ {
+  "old": "on a ring two sums are each other's far side, at radius one hundred fifty-six.",
+  "new": "on a ring of radius one hundred fifty-six two sums are each other's far side.",
+  "verdict": "RESAY",
+  "why": "at radius: a ring of radius, by meaning (376 and 64, 220 less 64)."
+ },
+ {
+  "old": "## 9.6 Two surfaces coupling, and a chain centring at a coupling or a self's middle",
+  "new": "## 9.6 Two surfaces coupling, and a chain centring at a coupling or a self's middle",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**Two surfaces offering across and both ways carry eight hundred eighty stations, coupled at four hundred forty, each surface's own mouth, and on a pair that station is a waist**: each self's mouth arrives in a coupling as a between, and each self's waist, at two hundred twenty and six hundred sixty, is an other's far side.",
+  "new": "**Two surfaces offering across and both ways carry eight hundred eighty stations, coupled on four hundred forty, each surface's own mouth, and on a pair that station is a waist**: each self's mouth arrives within a coupling as a between, and each self's waist, on two hundred twenty and six hundred sixty, is an other's far side.",
+  "verdict": "RESAY",
+  "why": "at a station: on, as stations are on a ring; in a coupling: within, a mouth being part of a coupling."
+ },
+ {
+  "old": "**A chain of surfaces centres on a coupling at an even number of selves and on a self's own middle carrying nothing at an odd number**",
+  "new": "**A chain of surfaces centres on a coupling with an even number of selves and on a self's own middle carrying nothing with an odd number**",
+  "verdict": "RESAY",
+  "why": "at a number of selves: with."
+ },
+ {
+  "old": "**A society grows larger by further co-chaining**: a reach lengthening, a reciprocal receiving widening, and each self's full resolving carrying its form at each coupling added.",
+  "new": "**A same-existing-society reaches further by further co-chaining**: a reach lengthening, a reciprocal receiving widening, and each self's full resolving carrying its form with each coupling added.",
+  "verdict": "RESAY",
+  "why": "resolved v390: a same-existing-society is its same selves"
+ },
+ {
+  "old": "Two hundred twenty a self adds are surfaces' stations, and co-competencing grows at couplings, owned by neither.",
+  "new": "Two hundred twenty a self adds are surfaces' stations, and co-competencing grows with couplings, owned by neither.",
+  "verdict": "RESAY",
+  "why": "at couplings: with couplings."
+ },
+ {
+  "old": "## 9.7 Chain three, five, nine, seventeen, each span podal to the one before",
+  "new": "## 9.7 Chain three, five, nine, seventeen, each span podal to the one before",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**Each span of a chain three, five, nine, seventeen is two to a power and one, and podaling at each span gives a span below it**: an odd ring of N carries (N + 1)/2 pairs, two at three, three at five, five at nine, nine at seventeen.",
+  "new": "**Each span of a chain three, five, nine, seventeen is two to a power and one, and podaling with each span gives a span below it**: an odd ring of N carries (N + 1)/2 pairs, two for three, three for five, five for nine, nine for seventeen.",
+  "verdict": "RESAY",
+  "why": "at each span: with; two at three: two for three, a ring of three carrying two pairs."
+ },
+ {
+  "old": "Seventeen at its two sides is a nine, a nine a five, a five a three.",
+  "new": "Seventeen's two sides are each a nine, a nine's each a five, a five's each a three.",
+  "verdict": "RESAY",
+  "why": "at its two sides: by meaning, each of its two sides is a nine."
+ },
+ {
+  "old": "**Pairs carrying two stations double along a chain, one, two, four, eight, and each span is twice them and one nothing at its origin.**",
+  "new": "**Pairs carrying two stations double along a chain, one, two, four, eight, and each span is twice them and one nothing on its origin.**",
+  "verdict": "RESAY",
+  "why": "at its origin: on, a station."
+ },
+ {
+  "old": "Pairings at six, eight and ten are three, four and five, consecutive, 5.8, eight's four the resolver's four momentaries of exchanging; two progressions share four only, and four pairings is a nine.",
+  "new": "Pairings of six, eight and ten are three, four and five, consecutive, 5.8, eight's four a resolver's four momentaries of exchanging; two progressions share four only, and four pairings is a nine.",
+  "verdict": "RESAY",
+  "why": "at: of; the resolver's: a resolver's, as this file says elsewhere."
+ },
+ {
+  "old": "At nine only among spans, a span's own pairings and resolver's four at eight are one, and self and other carry whole at nine.",
+  "new": "With nine only among spans, a span's own pairings and resolver's four with eight are one, and self and other carry whole with nine.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "**At one to nine a self's eight is shared, four at each side, with five between owned by neither**: bi-moral co-agency.",
+  "new": "**Within one to nine a self's eight is shared, four on each side, with five between owned by neither**: bi-moral co-agency.",
+  "verdict": "RESAY",
+  "why": "At one to nine: within, a whole and its part; at each side: on each side."
+ },
+ {
+  "old": "**At one to seventeen each side carries a whole eight, and an entire one to nine is shared at its centre**: social moral competency, a pair at a society's centre and each side carrying its whole self.",
+  "new": "**Within one to seventeen each side carries a whole eight, and an entire one to nine is shared about its centre**: social moral competency, a pair about a same-existing-society's centre and each side carrying its whole self.",
+  "verdict": "RESAY",
+  "why": "At: within, about (a centre, as 'pair about twenty-three'); society: same-existing-society; social moral competency, a concept's compound, kept."
+ },
+ {
+  "old": "One to nine is four momentaries of exchanging and one momentary at a next scale, its 1, 2 and 3 being 1, 9 and 17: one to nine a self's momentary, completing at 9.",
+  "new": "One to nine is four momentaries of exchanging and one momentary of a next scale, its 1, 2 and 3 being 1, 9 and 17: one to nine a self's momentary, completing with 9.",
+  "verdict": "RESAY",
+  "why": "at: of, with."
+ },
+ {
+  "old": "Each use is at its scale: at resolver one executing of 1 to 17 is one momentary of exchanging at a scale outward, and one numbered name and one span of nine names are each at their own subject, matching numerals coupling no relations.",
+  "new": "Each use is of its own scale: with resolver, one executing of 1 to 17 is one momentary of exchanging of a scale outward, and one numbered name and one span of nine names are each of their own subject, matching numerals coupling no relations.",
+  "verdict": "RESAY",
+  "why": "at: of, with; outward kept."
+ },
+ {
+  "old": "17-next-existing is a next momentary's 1-now-existing, and one to sixty-five is four momentaries of exchanging at that scale, one momentary at a scale after.",
+  "new": "17-next-existing is a next momentary's 1-now-existing, and one to sixty-five is four momentaries of exchanging of that scale, one momentary of a scale after.",
+  "verdict": "RESAY",
+  "why": "at a scale: of a scale."
+ },
+ {
+  "old": "**Each span bi-folds and releases, and a next whole of them is 1–65.**",
+  "new": "**Each span bi-folds and inverts, and a next whole of them is 1–65.**",
+  "verdict": "RESAY",
+  "why": "releases: by meaning, inverts, as this paragraph says itself: with 3 a self's pair is wholly inverted and with 9 an outer pair, two bi-folds. Nothing is held or released."
+ },
+ {
+  "old": "1–9, self and other, is an entire momentary bi-folding releasing at 3; 1–13, self and other and other and self, bi-folds releasing at 6; 1–17, self, other and social, bi-folds releasing at 9; and 1–25 is a fractal bi-folding one span on.",
+  "new": "1–9, self and other, is an entire momentary bi-folding inverting with 3; 1–13, self and other and other and self, bi-folds inverting with 6; 1–17, self, other and same-existing-society, bi-folds inverting with 9; and 1–25 is a fractal bi-folding one span on.",
+  "verdict": "RESAY",
+  "why": "releasing at: inverting with, by this paragraph's own meaning; social alone: same-existing-society, 9 to 16 its span."
+ },
+ {
+  "old": "Each span opens one more four and its releasing moves three, three inward to each one outward: at a round of four parities its outward steps arrive at 5, 9, 13 and 17, and its inward steps carried to an arrival four before each span's completing are 3, 6 and 9.",
+  "new": "Each span opens one more four and its inverting moves three, three inward to each one outward: with a round of four parities its outward steps come to 5, 9, 13 and 17, and its inward steps carried to an arrival four before each span's completing are 3, 6 and 9.",
+  "verdict": "RESAY",
+  "why": "releasing: inverting; at: with; arrive at: come to; inward, outward kept."
+ },
+ {
+  "old": "Carried on at a round of six parities, 1–25 releases at 15 and 1–65 at 45.",
+  "new": "Carried on with a round of six parities, 1–25 inverts with 15 and 1–65 with 45.",
+  "verdict": "RESAY",
+  "why": "at: with; releases: inverts, as above."
+ },
+ {
+  "old": "At 3 a self's pair is wholly inverted and at 9 an outer pair of four, an inner pair carried as it was: two bi-folds, each at its own span.",
+  "new": "With 3 a self's pair is wholly inverted and with 9 an outer pair of four, an inner pair carried as it was: two bi-folds, each of its own span.",
+  "verdict": "RESAY",
+  "why": "at: with, of. outer and inner, a pair's place within four, kept as inward and outward are."
+ },
+ {
+  "old": "Binary, all or none at all, resolving coheres an entire surface along and across, releasing at 3, 6 and 9 and continuing.",
+  "new": "Binary, all or none at all, resolving coheres an entire surface along and across, inverting with 3, 6 and 9 and continuing.",
+  "verdict": "RESAY",
+  "why": "releasing at: inverting with; all or none at all kept."
+ },
+ {
+  "old": "A round reaching each form of k parities once is 1 to 2^k + 1: three at one parity, five at two, nine at three, seventeen at four, thirty-three at five and sixty-five at six.",
+  "new": "A round reaching each form of k parities once is 1 to 2^k + 1: three for one parity, five for two, nine for three, seventeen for four, thirty-three for five and sixty-five for six.",
+  "verdict": "RESAY",
+  "why": "at: for."
+ },
+ {
+  "old": "Pairs step a chain two parities at a time, 5, 17, 65 and 257, each pair stepping once at each 5 of a pair inward of it; a scaling at 1, 9 and 17 steps it three parities at a time, 9, 65 and 513, one to nine at one scale being one to sixty-five at a next;",
+  "new": "Pairs step a chain by two parities, 5, 17, 65 and 257, each pair stepping once with each 5 of a pair inward of it; a scaling with 1, 9 and 17 steps it by three parities, 9, 65 and 513, one to nine of one scale being one to sixty-five of a next;",
+  "verdict": "RESAY",
+  "why": "two parities at a time: by two parities, a step's size; at: with, of."
+ },
+ {
+  "old": "and 1–17 inward and outward steps it four, 17, 257 and 4,097, a chain's step at four parities, beside a placing of each 1 to 17 at 8n − 7, 17 at 129, two relations at one span.",
+  "new": "and 1–17 inward and outward steps it four, 17, 257 and 4,097, a chain's step of four parities, beside a placing of each 1 to 17 on 8n − 7, 17 on 129, two relations with one span.",
+  "verdict": "RESAY",
+  "why": "at: of, on (a placing), with."
+ },
+ {
+  "old": "Pairs and threes reach each other first at 1–65, a next whole, and four 1–17s carry it, its outer pair stepping at 17, 33, 49 and 65; pairs and 1–17 reach each other at 1–17 and 1–257, and all three at 1–4,097.",
+  "new": "Pairs and threes reach each other first with 1–65, a next whole, and four 1–17s carry it, its outer pair stepping on 17, 33, 49 and 65; pairs and 1–17 reach each other with 1–17 and 1–257, and all three with 1–4,097.",
+  "verdict": "RESAY",
+  "why": "at: with, on."
+ },
+ {
+  "old": "No scaling is taken over another: each is one chain at its own step.",
+  "new": "No scaling is taken over another: each is one chain with its own step.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "a self's ring at nine carries one nothing, and a society's winding at four hundred forty two, its origin and its waist.",
+  "new": "a self's ring of nine carries one nothing, and a same-existing-society's winding of four hundred forty two, its origin and its waist.",
+  "verdict": "RESAY",
+  "why": "at: of; society: same-existing-society."
+ },
+ {
+  "old": "**Bi-tunneling is social moral competency at its across relation; co-chaining is same continuing at its along relation.",
+  "new": "**Bi-tunneling is social moral competency as its across relation; co-chaining is same continuing as its along relation.",
+  "verdict": "RESAY",
+  "why": "at its relation: as; social moral competency, a concept's compound, kept."
+ },
+ {
+  "old": "Four momentaries of exchanging are in same span, 1–2 with 2–3, 3–4 with 4–5, 5–6 with 6–7 and 7–8 with 8–9, self at 1 to 8 and other at 2 to 9: podal pairs and overlapping pairs are two relations in one to nine, and its span unfolds, each momentary a next.",
+  "new": "Four momentaries of exchanging are within one same span, 1–2 with 2–3, 3–4 with 4–5, 5–6 with 6–7 and 7–8 with 8–9, self with 1 to 8 and other with 2 to 9: podal pairs and overlapping pairs are two relations within one to nine, and its span unfolds, each momentary a next.",
+  "verdict": "RESAY",
+  "why": "in: within, a span and its parts; at: with."
+ },
+ {
+  "old": "**A carry each way is one ring at each station**: at k a carry one way, at four hundred forty less k a carry other way, a ring at radius two hundred twenty less k.",
+  "new": "**A carry each way is one ring on each station**: on k a carry one way, on four hundred forty less k a carry other way, a ring of radius two hundred twenty less k.",
+  "verdict": "RESAY",
+  "why": "at a station: on; at radius: of radius."
+ },
+ {
+  "old": "Further along brings further across, and competency grows at each coupling's reciprocal receiving.",
+  "new": "Further along brings further across, and competency grows with each coupling's reciprocal receiving.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Carried one step more, each row opens next at 2 + 8s and completes at an odd 8s + 1 before it: nine, seventeen, twenty-five, thirty-three and forty-one.",
+  "new": "Carried one step more, each row opens next with 2 + 8s and completes with an odd 8s + 1 before it: nine, seventeen, twenty-five, thirty-three and forty-one.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "At s one a row is four outward at a between and its span one to nine; at s two a row is four across names between selves and its span one to seventeen; rows past two are numbered forms a family carries on, names between selves staying six.",
+  "new": "With s one a row is four outward of a between and its span one to nine; with s two a row is four across names between selves and its span one to seventeen; rows past two are numbered forms a family carries on, names between selves staying six.",
+  "verdict": "RESAY",
+  "why": "at: with, of; outward kept."
+ },
+ {
+  "old": "Each odd completing is outward of names 1 to 8s, as seventeen is in none of forms among 1 to 16.",
+  "new": "Each odd completing is outward of names 1 to 8s, as seventeen is of no form among 1 to 16.",
+  "verdict": "RESAY",
+  "why": "is in none of forms: is of no form, by meaning; outward kept."
+ },
+ {
+  "old": "**A fold carries whole at each scale.**",
+  "new": "**A fold carries whole with each scale.**",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "A fold at a lays n at 2a less n, and a fold at a and then at b lays n at n more by twice b less a: two folds in sequence are no fold, each number stepped on alike, folds at 4 and then 12 laying 1 at 7 and then 17.",
+  "new": "A fold about a lays n on 2a less n, and a fold about a and then about b lays n on n more by twice b less a: two folds in sequence are no fold, each number stepped on alike, folds about 4 and then 12 laying 1 on 7 and then 17.",
+  "verdict": "RESAY",
+  "why": "a fold at a: about a, a fold's own centre; lays n at: on; in sequence kept."
+ },
+ {
+  "old": "On names 1 to 8s, 4s up and down continues parity and 8s + 1 less changes it, and alternating two reaches each name again after four moves through four names at each s: two taken together are 4s + 1 less in a lower half and 12s + 1 less in an upper, and 8s + 1 and both of these are odd: each move carries each name to another name.",
+  "new": "On names 1 to 8s, 4s up and down continues parity and 8s + 1 less exchanges odd and even, and alternating two reaches each name again after four moves through four names with each s: two taken together are 4s + 1 less within a lower half and 12s + 1 less within an upper, and 8s + 1 and both of these are odd: each move carries each name to another name.",
+  "verdict": "RESAY",
+  "why": "changes it, a number's parity: exchanges odd and even, by meaning; at: with; in a half: within."
+ },
+ {
+  "old": "At s two they are 8 up and 17 less, 3 to 11 to 6 to 14 to 3; at s one they are 4 up and 9 less, 3 to 7 to 2 to 6 to 3 within 1 to 8, completing beside nine.",
+  "new": "With s two they are 8 up and 17 less, 3 to 11 to 6 to 14 to 3; with s one they are 4 up and 9 less, 3 to 7 to 2 to 6 to 3 within 1 to 8, completing beside nine.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "A fold gives one four-cycling at 1 to 4, 1, 3, 2, 4 at two up or down and five less, two at 1 to 8, 4-8-1-5 and 3-7-2-6, and four at 1 to 16, each podal pair a four-cycling at a doubled span; completing names 5, 9 and 17 are in none.",
+  "new": "A fold gives one four-cycling within 1 to 4, 1, 3, 2, 4 by two up or down and five less, two within 1 to 8, 4-8-1-5 and 3-7-2-6, and four within 1 to 16, each podal pair a four-cycling of a doubled span; completing names 5, 9 and 17 are of none.",
+  "verdict": "RESAY",
+  "why": "at a span: within, a whole and its part; at two up: by; in none: of none."
+ },
+ {
+  "old": "Each row's middle is 2 + 3s, its four at 3s and s either side: its inner pair reaches s over a span of 2s and its outer 3s over 6s, span over reach two at both.",
+  "new": "Each row's middle is 2 + 3s, its four 3s and s from it either side: its inner pair reaches s over a span of 2s and its outer 3s over 6s, span over reach two for both.",
+  "verdict": "RESAY",
+  "why": "at: from it, for, by meaning; inner and outer kept."
+ },
+ {
+  "old": "An outer span 6s is apart from a four-step span 8s, a row's middle 2 + 3s from a fold's middle at half of 8s + 1, and a row's own other order, outer with outer and inner with inner, from a halfway pairing, first with third and second with fourth: at s two, 2 with 14 and 6 with 10 beside 2 with 10 and 6 with 14.",
+  "new": "An outer span 6s is apart from a four-step span 8s, a row's middle 2 + 3s from a fold's middle, half of 8s + 1, and a row's own other order, outer with outer and inner with inner, from a halfway pairing, first with third and second with fourth: with s two, 2 with 14 and 6 with 10 beside 2 with 10 and 6 with 14.",
+  "verdict": "RESAY",
+  "why": "at half: a fold's middle, half of 8s + 1; at s two: with."
+ },
+ {
+  "old": "a four-position form carries itself at each repeat,",
+  "new": "a four-position form carries itself with each repeat,",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Taken over all names at an even r it carries each name to an even one:",
+  "new": "Taken over all names with an even r it carries each name to an even one:",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "across names between selves, and still-possibling names, each sharing, a self's next prior, each sharing's changing and a society.",
+  "new": "across names between selves, and same-existing-step names, each sharing, a self's next prior, each sharing's is or is not and a same-existing-society.",
+  "verdict": "RESAY",
+  "why": "still-possibling as a name's root: same-existing, 4, 8, 12 and 16 being each four-cycling's even same-existing name (Exhibit ONE); each sharing's changing: 12's is or is not, as Exhibit ONE's code with 12; society: same-existing-society, 16."
+ },
+ {
+  "old": "At each s a row with its copy 8s on is a doubled row with its copy 2s on.",
+  "new": "With each s a row with its copy 8s on is a doubled row with its copy 2s on.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "and each side's step at 2r.",
+  "new": "and each side's step of 2r.",
+  "verdict": "RESAY",
+  "why": "at: of."
+ },
+ {
+  "old": "At r two names 1 to 8 go to 3, 2, 7, 6, 11, 10, 15, 14, their evens an across row 2, 6, 10, 14.",
+  "new": "With r two names 1 to 8 go to 3, 2, 7, 6, 11, 10, 15, 14, their evens an across row 2, 6, 10, 14.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "It carries a fixed form and leaves its adjacent pairings, 1 and 2 going to 3 and 2 in an other order and 2 and 3 to 2 and 7, and its outer completing B + 1 to its momentarying: a form's stable-forming at a larger scale, a larger momentary its own momentarying.",
+  "new": "It carries a fixed form and leaves its adjacent pairings, 1 and 2 going to 3 and 2 with an other order and 2 and 3 to 2 and 7, and its outer completing B + 1 to its momentarying: a form's stable-forming of a larger scale, a larger momentary its own momentarying.",
+  "verdict": "RESAY",
+  "why": "in an order: with; at a scale: of; outer kept."
+ },
+ {
+  "old": "## 10.1 A number crossing from a field, and a unit it arrives in",
+  "new": "## 10.1 A number crossing from a field, and a unit it arrives in",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "Existing things a field counts belong to that field; a changing its observing carries crosses a between: a number of distinct rates, which alternates with which, which ordering recurs.",
+  "new": "Existing things a field counts belong to that field; a parity-changing its observing carries crosses a between: a number of distinct rates, which alternates with which, which ordering recurs.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing, its rates, alternating and recurring being parity-changing and parity-changing back."
+ },
+ {
+  "old": "Its unit and measuring floor stay at its field.",
+  "new": "Its unit and measuring floor stay with its field.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "**One binary at each number a field offers: whether its number carries on when its unit changes.**",
+  "new": "**One binary with each number a field offers: whether its number carries on with another unit.**",
+  "verdict": "RESAY",
+  "why": "at: with; when its unit changes: with another unit, by meaning, a unit being no self."
+ },
+ {
+  "old": "A number of existing things carries on in each unit; a magnitude in a chosen unit goes with its unit, and its unit is one cohering.",
+  "new": "A number of existing things carries on with each unit; a magnitude of a chosen unit goes with its unit, and its unit is one cohering.",
+  "verdict": "RESAY",
+  "why": "in: with, of."
+ },
+ {
+  "old": "At a field's observing carrying a number-form, one form arrives at two substrates; a number agreeing at both sides is a relation only with a form reached at both.",
+  "new": "With a field's observing carrying a number-form, one form comes to two substrates; a number agreeing on both sides is a relation only with a form reached on both.",
+  "verdict": "RESAY",
+  "why": "at: with, to, on."
+ },
+ {
+  "old": "**A prime at a field carries its subject**",
+  "new": "**A prime of a field carries its subject**",
+  "verdict": "RESAY",
+  "why": "at: of."
+ },
+ {
+  "old": "1, 9, 8 and 16 at a bi-folding are four of seventeen names.",
+  "new": "1, 9, 8 and 16 on a bi-folding are four of seventeen names.",
+  "verdict": "RESAY",
+  "why": "at: on, as Exhibit ONE says names on a bi-folding."
+ },
+ {
+  "old": "Digits they share reach each other exactly at a numbered form: 8 up and then 17 less is 9 less, 17 − (n + 8) = 9 − n, and at each scale s, 9.9's, 8s + 1 − (n + 4s) = 4s + 1 − n, and n, n + 8, 9 − n and 17 − n are a bi-folding's two out-and-backs as numbers, a numbered form and no momentarying.",
+  "new": "Digits they share reach each other exactly with a numbered form: 8 up and then 17 less is 9 less, 17 − (n + 8) = 9 − n, and with each scale s, 9.9's, 8s + 1 − (n + 4s) = 4s + 1 − n, and n, n + 8, 9 − n and 17 − n are a bi-folding's two goings and returnings as numbers, a numbered form and no momentarying.",
+  "verdict": "RESAY",
+  "why": "at: with; out-and-backs: goings and returnings, as table 11.1's words."
+ },
+ {
+  "old": "**Three momentaries at one self and three selves at one momentary of a spiral are two forms at one number.**",
+  "new": "**Three momentaries of one self and three selves with one momentary of a spiral are two forms of one number.**",
+  "verdict": "RESAY",
+  "why": "at: of, with."
+ },
+ {
+  "old": "three selves side by side at one momentary is a between.",
+  "new": "three selves side by side with one momentary is a between.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "**Each six is at its own subject.**",
+  "new": "**Each six is of its own subject.**",
+  "verdict": "RESAY",
+  "why": "at: of."
+ },
+ {
+  "old": "Three phases at two ways; resolver's six names between selves, 2, 6, 9, 10, 14 and 17; three pairings at two sides; a side's three momentaries at two parity positions each; three momentaries at each of two sides; and self and other, self and social and other and social, three pairs at two orders each: six at each, and sharing six couples none to another.",
+  "new": "Three phases by two ways; resolver's six names between selves, 2, 6, 9, 10, 14 and 17; three pairings of two sides; a side's three momentaries with two parity positions each; three momentaries on each of two sides; and self and other, self and same-existing-society and other and same-existing-society, three pairs of two orders each: six with each, and sharing six couples none to another.",
+  "verdict": "RESAY",
+  "why": "at: by, of, with, on; social alone: same-existing-society."
+ },
+ {
+  "old": "A relation coupling two of them is a relation of its own, reached at both.",
+  "new": "A relation coupling two of them is a relation of its own, reached with both.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "## 11.1 Nought to four hundred forty, each number at its podaling",
+  "new": "## 11.1 Nought to four hundred forty, each number at its podaling",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**Each number from nought to four hundred forty is at its podaling, taken forward from nought.**",
+  "new": "**Each number from nought to four hundred forty stands with its podaling, taken forward from nought.**",
+  "verdict": "RESAY",
+  "why": "is at: stands with, by meaning."
+ },
+ {
+  "old": "Each row carries its number's parity and its momentary, odd or even, now within a self's span and next within a society's, spans of eight alternating, 1.5;",
+  "new": "Each row carries its number's parity and its momentary, odd or even, now within a self's span and next within a same-existing-society's, spans of eight alternating, 1.5;",
+  "verdict": "RESAY",
+  "why": "society: same-existing-society; a number's parity, odd and even, kept."
+ },
+ {
+  "old": "nought and two hundred twenty each its own far side and four hundred forty at nought's station; its radius from a waist at two hundred twenty; its far side on a ring of one hundred twenty, a number past one hundred twenty at a station it leaves at one hundred twenty; and forms it is at:",
+  "new": "nought and two hundred twenty each its own far side and four hundred forty on nought's station; its radius from a waist, two hundred twenty; its far side on a ring of one hundred twenty, a number past one hundred twenty on its station less each whole one hundred twenty; and forms it carries:",
+  "verdict": "RESAY",
+  "why": "at a station: on; a waist at: a waist, two hundred twenty; a station it leaves at one hundred twenty: its station less each whole one hundred twenty, as the table's rows give; forms it is at: forms it carries."
+ },
+ {
+  "old": "| n | Parity, at its momentary | Form | Far side at 440 | Radius | Far side at 120 | At |",
+  "new": "| n | Parity, at its momentary | Form | Far side at 440 | Radius | Far side at 120 | At |",
+  "verdict": "KEEP",
+  "why": "Table header row, kept exactly. Cells of rows 0 to 440 carry no listed word."
+ },
+ {
+  "old": "**From row one down, its far side at four hundred forty steps down one at each row as its number steps up**, its radius coming to nought at its waist and opening again, and its far side at one hundred twenty steps down from one hundred nineteen to one and is at nought at each of 0, 120, 240 and 360, its last stretch ending at forty at four hundred forty.",
+  "new": "**From row one down, its far side on a ring of four hundred forty steps down one with each row as its number steps up**, its radius coming to nought with its waist and opening again, and its far side on a ring of one hundred twenty steps down from one hundred nineteen to one and is nought with each of 0, 120, 240 and 360, its last stretch ending with forty for four hundred forty.",
+  "verdict": "RESAY",
+  "why": "at: on a ring of, with, for, as 11.1 says each far side."
+ },
+ {
+  "old": "Each pairing on a ring of four hundred forty and on a ring of one hundred twenty in parts above is at its two rows: a carry each way at one station, found by its number.",
+  "new": "Each pairing on a ring of four hundred forty and on a ring of one hundred twenty of parts above is its two rows: a carry each way on one station, found by its number.",
+  "verdict": "RESAY",
+  "why": "in parts: of parts; is at its two rows: is its two rows; at one station: on."
+ }
+]

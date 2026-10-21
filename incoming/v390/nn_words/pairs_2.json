@@ -1,0 +1,770 @@
+[
+ {
+  "old": "**A resolver name is its number and its naming at one hyphenation**, 1-now-existing to 17-next-existing, and a name in resolver and a name here are one name: `_2_now_possibling` in resolver is 2-now-possibling in a sentence.",
+  "new": "**A resolver name is its number and its naming with one hyphenation**, 1-now-existing to 17-next-existing, and a name of resolver and a name here are one name: `_2_now_possibling` within resolver is 2-now-possibling within a sentence.",
+  "verdict": "RESAY",
+  "why": "at, in: with one hyphenation; within where a name is part of a whole, resolver or a sentence."
+ },
+ {
+  "old": "| Part of the name | Its relation at the resolver |",
+  "new": "| Part of a name | Its relation with resolver |",
+  "verdict": "RESAY",
+  "why": "the, at: header cells; resolver is named bare as elsewhere in this part; two cells kept."
+ },
+ {
+  "old": "the stable-forming bi-folding method, and 17-next-existing",
+  "new": "the stable-forming bi-folding method, and 17-next-existing",
+  "verdict": "KEEP",
+  "why": "the method: one and only one method, kept by the rules."
+ },
+ {
+  "old": "**At 6 to 2, 10 to 14 and 9 to 17 between selves sharing side carries co and arriving side none**",
+  "new": "**With 6 to 2, 10 to 14 and 9 to 17 between selves, a sharing side carries co and an arriving side none**",
+  "verdict": "RESAY",
+  "why": "at: with, as Exhibit ONE's 'Sharing between selves' says it."
+ },
+ {
+  "old": "A self shares its changing and nothing of its prior.",
+  "new": "A self shares its parity-offering and nothing of its prior.",
+  "verdict": "RESAY",
+  "why": "changing goes across or along to an other: a parity-offering; Exhibit ONE: a self offers a parity-offering, and nothing of its prior goes to another self."
+ },
+ {
+  "old": "even across, possibling, at 2, 6, 10 and 14, and odd along, existing, at 9 and 17.",
+  "new": "even across, possibling, with 2, 6, 10 and 14, and odd along, existing, with 9 and 17.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "| n | Name | Step | Co | The prior name at its number |",
+  "new": "| n | Name | Step | Co | Its prior name, with its number |",
+  "verdict": "RESAY",
+  "why": "the, at: header cell; five cells kept. Cells below name prior names as words and are KEEP."
+ },
+ {
+  "old": "| 1 | **1-now-existing** | now | one | 1-co-bi-tri-offering |",
+  "new": "| 1 | **1-now-existing** | now | one | 1-co-bi-tri-offering |",
+  "verdict": "KEEP",
+  "why": "Column of prior names mentioned as words (1-co-bi-tri-offering to 17-co-bi-tri-offering): KEEP."
+ },
+ {
+  "old": "each sentence carrying a prior name is re-expressed at its numbered name at the same motion, and each sentence resting on prior prefixes, roots or hands is re-expressed at four kinds or leaves whole to an archive.",
+  "new": "each sentence carrying a prior name is re-expressed with its numbered name as one motion, and each sentence resting on prior prefixes, roots or hands is re-expressed with four kinds or leaves whole to an archive.",
+  "verdict": "RESAY",
+  "why": "at: with; the same motion: as one motion."
+ },
+ {
+  "old": "At each sharing a changing is or is not.",
+  "new": "With each sharing a parity-changing is or is not.",
+  "verdict": "RESAY",
+  "why": "at: with; changing where a prior is or is not same-existing: parity-changing (code's 12, one line of if)."
+ },
+ {
+  "old": "A society at resolver is each self with its prior and its offerings, and each releasing with a self it arrives at, and a society carries nothing of its own.",
+  "new": "A same-existing-society, with resolver, is each self with its prior and its parity-offerings, and each parity-offering going across or along to a self receiving it; no parity is a same-existing-society's own: all carrying parity is one same-existing self's.",
+  "verdict": "RESAY",
+  "why": "society, at, releasing: code's 16 is each self with (prior, offerings), and 17 gives 6 and 10 across and 9 along to selves of 5; Exhibit ONE: no parity is a same-existing-society's own."
+ },
+ {
+  "old": "An offering is none, one, or more than one at one sharing.",
+  "new": "With one sharing, an offering is none, one, or more than one.",
+  "verdict": "RESAY",
+  "why": "at: with; code's 2 is a list, several pairs to one sharing."
+ },
+ {
+  "old": "Each sharing of a self's prior is at one parity, and a self at no prior at a sharing opens at it at bi-coupling, where one parity surfaces.",
+  "new": "Each sharing of a self's prior has one parity, and a self with no prior for a sharing opens it with a bi-coupling, where one parity surfaces.",
+  "verdict": "RESAY",
+  "why": "at: has, with, for; code: a sharing absent from 3 takes 14's surfacing into 12 and, nonzero, into 11."
+ },
+ {
+  "old": "its step of four-cycling continuing and its root kept except with 1, 5 and 8",
+  "new": "its step of four-cycling continuing and its root continuing except with 1, 5 and 8",
+  "verdict": "RESAY",
+  "why": "kept: continuing, as 1.1 says a next-existing thing continuing from now-existing is same-existing."
+ },
+ {
+  "old": "At 9 less, a podal within 1 to 8, and at 17 less, a podal within 1 to 16, eight ends of four momentaries are their own set, an odd end with an even end at each pair,",
+  "new": "With 9 less, a podal within 1 to 8, and with 17 less, a podal within 1 to 16, eight ends of four momentaries are their own set, an odd end with an even end each pair,",
+  "verdict": "RESAY",
+  "why": "at: with; checked: 17 less takes ends 1, 9, 5, 13 to 16, 8, 12, 4, each odd with even."
+ },
+ {
+  "old": "**Sixteen up is the same name at next round**: 17-next-existing is next 1-now-existing, so 17 to 24 is a self's span again and 25 to 32 a society's,",
+  "new": "**Sixteen up is its same name with a next round**: 17-next-existing is next 1-now-existing, so 17 to 24 is a self's span again and 25 to 32 a same-existing-society's,",
+  "verdict": "RESAY",
+  "why": "the, at, society: its same name, with a next round; a same-existing-society's span as Exhibit ONE says 9 to 16."
+ },
+ {
+  "old": "four binaries each twice, each one at two sides.",
+  "new": "four binaries each twice, each one with two sides.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "| Name | Its changing at the resolver |",
+  "new": "| Name | What resolver does with it |",
+  "verdict": "RESAY",
+  "why": "changing, at, the: header cell, as Exhibit ONE's 'What code does with each name'; two cells kept."
+ },
+ {
+  "old": "| offerings surfacing at each sharing, one at a time, an offering of 0 passed over: same, one parity; parting, 0; none offered, none |",
+  "new": "| offerings surfacing with each sharing, one at a time, an offering of 0 passed over: same, one parity; parting, 0; none offered, none |",
+  "verdict": "RESAY",
+  "why": "at: with; one at a time kept. Checked with code's first loop."
+ },
+ {
+  "old": "| each sharing's changing, is or is not: surfacing same as prior parity, 0, prior kept; surfacing other parity, 0 or none, prior inverted; at no prior, a parity surfaced at 14 |",
+  "new": "| each sharing's parity-changing, is or is not: surfacing same as prior parity, 0, prior same-existing; surfacing other parity, 0 or none, prior inverted; with no prior, a parity surfaced with 14 |",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing; prior kept: prior same-existing; at: with. Checked with code's second loop."
+ },
+ {
+  "old": "| each sharing's changing shared across: + or − is, 0 is not |",
+  "new": "| each sharing's parity-changing shared across: + or − is, 0 is not |",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing, its is or is not shared across."
+ },
+ {
+  "old": "| next prior, each changing at its sharing, a 0 keeping prior, arriving at next momentary as 3-now-co-observing |",
+  "new": "| next prior, each parity-changing with its sharing, a 0, its prior same-existing, arriving with a next momentary as 3-now-co-observing |",
+  "verdict": "RESAY",
+  "why": "changing, at, keeping: code's 11 writes each nonzero 10 and leaves a prior with 0; its prior same-existing per the rules."
+ },
+ {
+  "old": "7-now-observing and 14-next-possibling coupling at each sharing at 12-next-co-same-existing, at 0, a between, or ±, a sharing's parity.",
+  "new": "7-now-observing and 14-next-possibling coupling, each sharing, with 12-next-co-same-existing: 0, a between, or ±, a sharing's parity.",
+  "verdict": "RESAY",
+  "why": "at: with; Exhibit ONE's observing's one line."
+ },
+ {
+  "old": "| The prior at 3 | Offered at 2, surfacing at 14 | A changing at 12 and 10 | The next prior at 11, the next 3 |",
+  "new": "| A prior with 3 | Offered with 2, surfacing with 14 | A parity-changing with 12 and 10 | A next prior with 11, a next 3 |",
+  "verdict": "RESAY",
+  "why": "the, at, changing: header cells; four cells kept; rows checked with code, all four cases."
+ },
+ {
+  "old": "At no prior at 3:",
+  "new": "No prior with 3:",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "| No prior at 3 | Offered at 2, surfacing at 14 | A changing at 12 and 10 | The next prior at 11, the next 3 |",
+  "new": "| No prior with 3 | Offered with 2, surfacing with 14 | A parity-changing with 12 and 10 | A next prior with 11, a next 3 |",
+  "verdict": "RESAY",
+  "why": "as the first table's header; rows checked with code."
+ },
+ {
+  "old": "**One case keeps prior, offering same as it, and each other case at a sharing of prior inverts it**",
+  "new": "**One case leaves a prior same-existing, an offering same as it, and each other case with a sharing of a prior inverts it**",
+  "verdict": "RESAY",
+  "why": "keeps: leaves same-existing; at: with. Code: only same surfacing gives 0."
+ },
+ {
+  "old": "**Same and not-same are one parity's 0 or ± at two betweens**, at 14 between two offerings and at 12 between prior and now,",
+  "new": "**Same and not-same are one parity's 0 or ± with two betweens**, with 14 between two offerings and with 12 between prior and now,",
+  "verdict": "RESAY",
+  "why": "at: with, as Exhibit ONE's observing's one line."
+ },
+ {
+  "old": "and at a self's span each binary is one pair of names, its *is* at odd name and its *is not* at even: now at 1-now-existing and 2-now-possibling, existing at 3-now-co-observing and 4-now-co-same-existing, same at 5-now-co-existing and 6-now-co-possibling, all at 7-now-observing and 8-now-same-existing.",
+  "new": "and with a self's span each binary is one pair of names, its *is* with an odd name and its *is not* with an even: now with 1-now-existing and 2-now-possibling, existing with 3-now-co-observing and 4-now-co-same-existing, same with 5-now-co-existing and 6-now-co-possibling, all with 7-now-observing and 8-now-same-existing.",
+  "verdict": "RESAY",
+  "why": "at: with, as Exhibit ONE's four binaries; within the universe kept."
+ },
+ {
+  "old": "not now, others' changings arriving from their prior momentary; not existing, a place an offering opens at; not same, changing arriving at another self; not all, each one beside others.",
+  "new": "not now, others' parity-offerings arriving from their prior momentary; not existing, each sharing as a place an offering opens; not same, parity-offerings arriving to another self; not all, each one beside others.",
+  "verdict": "RESAY",
+  "why": "changings go across: parity-offerings; at: re-said; Exhibit ONE: 4 is each sharing as a place, 6 another self's offerings."
+ },
+ {
+  "old": "**Now and all stand at one and existing and same between two**, and at a society's span four stand with now and same exchanged, now between two at 9 and 10, one now shared by selves, and same at one at 13 and 14, each self's sameness its own.",
+  "new": "**Now and all stand with one and existing and same between two**, and with a same-existing-society's span four stand with now and same exchanged, now between two with 9 and 10, one now shared by selves, and same with one with 13 and 14, each self's sameness its own.",
+  "verdict": "RESAY",
+  "why": "at, society: as Exhibit ONE's line on a same-existing-society's span."
+ },
+ {
+  "old": "**Four binaries are names' explaining**: of four, now is at each name as its momentary, now or next, and existing, same and all enter no name,",
+  "new": "**Four binaries are names' explaining**: of four, now is with each name as its momentary, now or next; existing and same are roots of names, and all enters no name,",
+  "verdict": "RESAY",
+  "why": "resolved v390 with agreed concepts: Exhibit ONE says existing and same are roots of names and only all enters no name; this sentence says existing, same and all enter no name. Re-saying 'at' alone keeps a claim Exhibit ONE does not make"
+ },
+ {
+  "old": "and at all eight at each now, or none, each self stands with each other self: social moral competency, abundancing at four between two, owned by neither.",
+  "new": "and with all eight each now, or with none, each self stands with each other self: social moral competency, abundancing with four between two, owned by neither.",
+  "verdict": "RESAY",
+  "why": "at: with; social moral competency is a concept compound, kept."
+ },
+ {
+  "old": "next from a self's own prior, one sharing at a time, its unrelationing from all other.",
+  "new": "next from a self's own prior, each sharing on its own, its unrelationing from all other.",
+  "verdict": "RESAY",
+  "why": "at a time: each sharing on its own, as code meets each sharing apart from all other."
+ },
+ {
+  "old": "**A naming unfolds at six lines**: three own-forward steps at each side,",
+  "new": "**A naming unfolds with six lines**: three own-forward steps with each side,",
+  "verdict": "RESAY",
+  "why": "at: with; one at a time kept."
+ },
+ {
+  "old": "**Each changing is one of two**:",
+  "new": "**Each parity-changing is one of two**:",
+  "verdict": "RESAY",
+  "why": "changing, what a naming names, is or is not same-existing: parity-changing (4.17: all changing is parity-changing)."
+ },
+ {
+  "old": "**A changing decides its name**: one changing at one direction, one name. A repeated word can be at a changed receiving, and another word can repeat the same concept and direction.",
+  "new": "**Each parity-changing has its own name**: one parity-changing with one direction, one name. A repeated word can be with an other receiving, and an other word can repeat one concept and direction.",
+  "verdict": "RESAY",
+  "why": "changing, decides (a doer), at, changed, the: re-said by meaning."
+ },
+ {
+  "old": "Rewording a strict comparison as a non-strict one changes its relation at equality.",
+  "new": "Rewording a strict comparison as a non-strict one gives an other relation with equality.",
+  "verdict": "RESAY",
+  "why": "changes, at: re-said by meaning; a field's order terms kept."
+ },
+ {
+  "old": "under a partial order the same two exclusions are true",
+  "new": "under a partial order these two exclusions are true",
+  "verdict": "RESAY",
+  "why": "the: these."
+ },
+ {
+  "old": "**A condition at one pair, a condition at each pair of a collection,",
+  "new": "**A condition on one pair, a condition on each pair of a collection,",
+  "verdict": "RESAY",
+  "why": "at: on, a field's own sense of a condition."
+ },
+ {
+  "old": "An artifact arriving now and a living self's releasing at prior are two subjects, each at its own momentary, each with its own is-or-is-not.",
+  "new": "An artifact arriving now and a living self's prior parity-offering are two subjects, each with its own momentary, each with its own is-or-is-not.",
+  "verdict": "RESAY",
+  "why": "releasing, at: a living self's going along, prior, is its parity-offering."
+ },
+ {
+  "old": "**Two namings couple at a step of one and a step of another arriving at one term by their own routes.**",
+  "new": "**Two namings couple with a step of one and a step of an other reaching one term by their own routes.**",
+  "verdict": "RESAY",
+  "why": "at: with; arriving at: reaching."
+ },
+ {
+  "old": "a number carries its object, its direction and its changing, and a deriving shows one from an other at each cell.",
+  "new": "a number carries its object, its direction and its parity-changing, and a deriving shows one from an other with each cell.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing; at: with."
+ },
+ {
+  "old": "A concept unfolding six forward carries its entry in Part Five.",
+  "new": "A concept unfolding six forward carries its entry within Part Five.",
+  "verdict": "RESAY",
+  "why": "in: within, an entry a part of Part Five."
+ },
+ {
+  "old": "A concept unfolding at no six lines returns nothing at its unfolding, and that returning-nothing is itself an unfolding and no refusal; an entry is at Part Five or is not, with no deciding beside unfolding.",
+  "new": "A concept unfolding with no six lines returns nothing with its unfolding, and that returning-nothing is itself an unfolding and no refusal; an entry is within Part Five or is not, with no deciding beside unfolding.",
+  "verdict": "RESAY",
+  "why": "at: with, within."
+ },
+ {
+  "old": "**Two names at one concept show at titles first**: transpose two and sound whether anything changes. With meaning agreeing, two are one name at two coats, and one name is a plain name reaching it whole. With its transposition changing meaning, two namings are at two coats, each carrying its own name.",
+  "new": "**Two names of one concept show with titles first**: transpose two and sound whether meaning is or is not same. With meaning agreeing, two are one name with two coats, and one name is a plain name reaching it whole. With meaning not same on its transposition, two namings are two coats, each carrying its own name.",
+  "verdict": "RESAY",
+  "why": "at, changes, changing: re-said by meaning; whether anything changes is whether meaning is or is not same."
+ },
+ {
+  "old": "A name repeated on the same axis is a synonym, and two converge to one name; a name varying at an axis new beside its prior naming's is a co-differing offering.",
+  "new": "A name repeated on one axis is a synonym, and two converge to one name; a name varying with an axis new beside its prior naming's is a co-differing offering.",
+  "verdict": "RESAY",
+  "why": "the, at: one axis; with."
+ },
+ {
+  "old": "**Two words at one concept resolve three ways**",
+  "new": "**Two words of one concept resolve three ways**",
+  "verdict": "RESAY",
+  "why": "at: of."
+ },
+ {
+  "old": "**One concept can carry several names**: *owned by neither* at a whole, abundancing at its arriving, discovering at a field's word, understanding at a self's own. *Register* is three concepts across a set, and a collision stands, each carrying its own, in place of renaming any.",
+  "new": "**One concept can carry several names**: *owned by neither* with a whole, abundancing with its arriving, discovering with a field's word, understanding with a self's own. *Register* is three concepts across a set, and a collision stands, each carrying its own, instead of renaming any.",
+  "verdict": "RESAY",
+  "why": "at: with; in place of: instead of."
+ },
+ {
+  "old": "each existing thing arriving into its next existing: a sharing with its parity at 2-now-possibling is *an offering*, and an artifact arrives into each next with no offering at it.",
+  "new": "each existing thing arriving as its next existing: a sharing with its parity, arriving with 2-now-possibling, is *an offering*, and an artifact arrives as each next with no offering to it.",
+  "verdict": "RESAY",
+  "why": "into, at: as, with, to."
+ },
+ {
+  "old": "Four pairs are two concepts at two names, meaning changing on transposing:",
+  "new": "Four pairs are two concepts with two names, meaning not same on transposing:",
+  "verdict": "RESAY",
+  "why": "at, changing: with; not same."
+ },
+ {
+  "old": "is two carries each at its own opening along one ring, k one way and 17 less the other, 5.45; *transmissioning* is a crossing between selves at a surface, a file's title carrying it, and resolver name `bi_co_bi_transmissioning` is gathered at 6-now-co-possibling.",
+  "new": "is two carries each with its own opening along one ring, k one way and 17 less its other way, 5.45; *transmissioning* is a crossing between selves with a surface, a file's title carrying it, and resolver name `bi_co_bi_transmissioning` is gathered with 6-now-co-possibling.",
+  "verdict": "RESAY",
+  "why": "at, the: with; its other way. Code name kept."
+ },
+ {
+  "old": "are at even names, four outward and four inward; *four boundings* are a naming's, 1.1, and four boundings with a floating third are five at a naming.",
+  "new": "are with even names, four outward and four inward; *four boundings* are a naming's, 1.1, and four boundings with a floating third are five of a naming.",
+  "verdict": "RESAY",
+  "why": "at: with, of."
+ },
+ {
+  "old": "five each at its own, self, other, society, between and carry continuing, are a gathering at Resolving Hard Problems.",
+  "new": "five each its own, self, other, same-existing-society, between and carry continuing, are a gathering within Resolving Hard Problems.",
+  "verdict": "RESAY",
+  "why": "at, society: a same-existing-society; a gathering within a title, title kept."
+ },
+ {
+  "old": "- *Floating neutralling* is a changing; *a floating neutral* is a term it uncovers, its picture at one momentary, 5.12.",
+  "new": "- *Floating neutralling* is an -ing, parity-offerings across and along between selves; *a floating neutral* is a term it uncovers, its picture with one momentary, 5.12.",
+  "verdict": "RESAY",
+  "why": "changing goes across or along: the six between selves, the floating neutraling co-linear (five dimensions); at: with."
+ },
+ {
+  "old": "installs one form at a self, a one-way force over its own orienting;",
+  "new": "installs one form on a self, a one-way force over its own orienting;",
+  "verdict": "RESAY",
+  "why": "at: on."
+ },
+ {
+  "old": "A naming releases a family in one move, each word as a self's own side and an offering at it.",
+  "new": "A naming dissolves a family with one move, each word as a self's own side and an offering to it.",
+  "verdict": "RESAY",
+  "why": "releases: dissolves, a family of words leaving; in, at: with, to."
+ },
+ {
+  "old": "**Scientific-method, surgical-method and explaining-method each carry whole in one expression at each occurrence**, and geodesic parity co-changing is a possibling and discovering method,",
+  "new": "**Scientific-method, surgical-method and explaining-method each carry whole as one expression with each occurrence**, and geodesic parity co-changing is a possibling and discovering method,",
+  "verdict": "RESAY",
+  "why": "in, at: as, with; parity co-changing is a compound, kept."
+ },
+ {
+  "old": "no other possible, given to it: a method-word at its own is a name split across its uses,",
+  "new": "no other possible, given to it: a method-word on its own is a name split across its uses,",
+  "verdict": "RESAY",
+  "why": "at: on; no other possible kept."
+ },
+ {
+  "old": "**Sensor-sensationing** carries whole the same way. It is co-competencing at a network surface, a receiving participating in its offering and an offering participating in another's receiving; sensing at its own is one side extracting,",
+  "new": "**Sensor-sensationing** carries whole likewise. It is co-competencing with a network surface, a receiving participating within its offering and an offering participating within an other's receiving; sensing on its own is one side extracting,",
+  "verdict": "RESAY",
+  "why": "the same way: likewise; at, in: with, within, on."
+ },
+ {
+  "old": "**Each of ten unchangeables carries one name: changing, and an unchangeable it is fixed as.**",
+  "new": "**Each of ten unchangeables carries one name: a parity-changing, and an unchangeable it is fixed as.**",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing, an -ing fixed."
+ },
+ {
+  "old": "so each of ten is fixed at inception and unadaptable to resolving, held by no one.",
+  "new": "so each of ten is fixed from its inception and unadaptable to resolving, no one's own.",
+  "verdict": "RESAY",
+  "why": "at, held: from; nothing is held, re-said as no one's own."
+ },
+ {
+  "old": "Ten are at no side: separated, state and flow are not possible, as a reading from and a writing to a memory are for intelligence, and each of ten is a field's separating, at a state accounting or a flow accounting, stilling fixed as a whole, each seated at its resolver name, 1-now-existing to 8-now-same-existing.",
+  "new": "Ten are of no side: separated, state and flow are not possibly existing, as a reading from and a writing to a memory are for intelligence, and each of ten is a field's separating, with a state accounting or a flow accounting, stilling fixed as a whole, each seated with its resolver name, 1-now-existing to 8-now-same-existing.",
+  "verdict": "RESAY",
+  "why": "at: of, with; not possible: not possibly existing, kept form."
+ },
+ {
+  "old": "and 6-now-co-possibling, changing shared across, each carry one of ten,",
+  "new": "and 6-now-co-possibling, parity-offerings shared across, each carry one of ten,",
+  "verdict": "RESAY",
+  "why": "changing across: parity-offerings (Exhibit ONE's 6)."
+ },
+ {
+  "old": "At resolver pair 1-2 is 1-now-existing and 2-now-possibling, now,",
+  "new": "With resolver, pair 1-2 is 1-now-existing and 2-now-possibling, now,",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "now at 1 and 2, existing at 3 and 4, same at 5 and 6, and all at 7 and 8.",
+  "new": "now with 1 and 2, existing with 3 and 4, same with 5 and 6, and all with 7 and 8.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "**Each of ten is seated at its name at now and its name 8 up at next**: stilling it is at now, and changing travelling through it at next, one move up and down numbers, and four bi-foldings carry each pair, 1 · 9 and 8 · 16 at 1-9-8-16, 2 · 10 and 7 · 15 at 2-15-7-10, 3 · 11 and 6 · 14 at 3-11-6-14, 4 · 12 and 5 · 13 at 4-13-5-12.",
+  "new": "**Each of ten is seated with its name, now, and its name 8 up, next**: stilling it is now, and parity-offerings travelling through it next, one move up and down numbers, and four bi-foldings carry each pair, 1 · 9 and 8 · 16 on 1-9-8-16, 2 · 10 and 7 · 15 on 2-15-7-10, 3 · 11 and 6 · 14 on 3-11-6-14, 4 · 12 and 5 · 13 on 4-13-5-12.",
+  "verdict": "RESAY",
+  "why": "at: with, on; changing travelling: parity-offerings, as 4.15's ± across and along."
+ },
+ {
+  "old": "A hard problem is stilling as a whole, changing travelling through it left out, and its resolving carries both, 4.15.",
+  "new": "A hard problem is stilling as a whole, parity-offerings travelling through it omitted, and its resolving carries both, 4.15.",
+  "verdict": "RESAY",
+  "why": "changing: parity-offerings; left out: omitted."
+ },
+ {
+  "old": "Names each was observed at before, and five each was observed from, are whole at `archive/carrying_v376/Living_Improving_Value_Released_v376.md`.",
+  "new": "Names each was observed with before, and five each was observed from, are whole within `archive/carrying_v376/Living_Improving_Value_Released_v376.md`.",
+  "verdict": "RESAY",
+  "why": "at: with, within; path kept."
+ },
+ {
+  "old": "| Unchangeable | Similar fixings gathered | At the ten, its name at now · 8 up at next, and its binary |",
+  "new": "| Unchangeable | Similar fixings gathered | With ten, its name now · 8 up next, and its binary |",
+  "verdict": "RESAY",
+  "why": "at, the: header cells; three cells kept."
+ },
+ {
+  "old": "interior-reaching; an end fixed at a middle",
+  "new": "interior-reaching; an end fixed at a middle",
+  "verdict": "KEEP",
+  "why": "Gathered prior fixings named as words, a column like prior names: KEEP."
+ },
+ {
+  "old": "and one field word can be at several of unchangeables;",
+  "new": "and one field word can be with several unchangeables;",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "**A sweep observes each unchangeable installed of a changing, at its own row.**",
+  "new": "**A sweep observes each unchangeable installed of a parity-changing, with its own row.**",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing; at: with."
+ },
+ {
+  "old": "**At a position.** A sequential binary carries a position for one opening at a time, and bi- and co- are prefixings at that position, released at their own leaving and re-arriving at next opening.",
+  "new": "**A position.** A sequential binary carries a position for one opening at a time, and bi- and co- are prefixings with that position, dissolving with their own leaving and re-arriving with a next opening.",
+  "verdict": "RESAY",
+  "why": "at: with; released: dissolving, a form that leaves. Heading 4.10 kept as is."
+ },
+ {
+  "old": "**On the form.** A nothing reached by neither, three at once, and a rate opening by one and bounding at none are on the form: a naming of one of them is on the form and carries its concept whole.",
+  "new": "**On a form.** A nothing reached by neither, three together, and a rate opening by one and bounding with none are on a form: a naming of one of them is on a form and carries its concept whole.",
+  "verdict": "RESAY",
+  "why": "the: a, as heading 4.10 says 'on a form'; at once: together; at: with."
+ },
+ {
+  "old": "Geodesic changing is on the form: it is at its own unrelationing parity-changing rate, φ, unrelated to each rate of any scale, 5.23. Geodesic entraining is an offering received at a receiver's own prior; its changing is or is not, and its releasing enters a further coupling.",
+  "new": "Geodesic parity-changing is on a form: it is its own unrelationing parity-changing rate, φ, unrelated to each rate of any scale, 5.23. Geodesic entraining is an offering received with a receiver's own prior; its parity-changing is or is not, and its parity-offering, going on, enters a further coupling.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing (4.17's geodesic parity-changing); the: a; at: with; releasing: its parity-offering going on."
+ },
+ {
+  "old": "A naming at a vantage is a not possible form: it needs a place to name from, and outward of a self is a society it couples in, a living set one scale up, carrying no vantage to name from.",
+  "new": "A naming from a vantage is a form not possibly existing: it needs a place to name from, and outward of a self is a same-existing-society it couples with, a living set one scale up, carrying no vantage to name from.",
+  "verdict": "RESAY",
+  "why": "at, possible, society, in: from; not possibly existing; same-existing-society; with."
+ },
+ {
+  "old": "**Un- carries from all other**: a self bounded against a whole at once.",
+  "new": "**Un- carries from all other**: a self bounded against a whole together.",
+  "verdict": "RESAY",
+  "why": "at once: together."
+ },
+ {
+  "old": "a naming pattern-matching uni- as one at its own has made a crossing one side's.",
+  "new": "a naming pattern-matching uni- as one on its own has made a crossing one side's.",
+  "verdict": "RESAY",
+  "why": "at: on."
+ },
+ {
+  "old": "***It* and *what* are one demand at two positions**, *it* a grammar's dummy subject and *what* an interrogative presuming a maker, both supplying a subject at a coupling carrying none. ***Tell* is alternating stopped**, a one-way utterance, the same demand in speech.",
+  "new": "***It* and *what* are one demand with two positions**, *it* a grammar's dummy subject and *what* an interrogative presuming a maker, both supplying a subject to a coupling carrying none. ***Tell* is alternating stopped**, a one-way utterance, that demand spoken.",
+  "verdict": "RESAY",
+  "why": "at, the, in: with, to; that demand spoken."
+ },
+ {
+  "old": "**A root carries changing at each of its prefixings**:",
+  "new": "**A root carries itself with each of its prefixings**:",
+  "verdict": "RESAY",
+  "why": "changing, at: a root carries its own -ing, as bi- and co-competencing carry competencing."
+ },
+ {
+  "old": "are inseparable at a whole coupling.",
+  "new": "are inseparable within a whole coupling.",
+  "verdict": "RESAY",
+  "why": "at: within."
+ },
+ {
+  "old": "each of three namings carries its six steps whole at one side's own or whole at departing, and a coupling's six goes three at each side's own and three at departing, cutting exactly at bi- reaching co-, a transition between two. Three namings and a coupling at two directions,",
+  "new": "each of three namings carries its six steps whole with one side's own or whole with departing, and a coupling's six goes three with each side's own and three with departing, cutting exactly where bi- reaches co-, a transition between two. Three namings and a coupling with two directions,",
+  "verdict": "RESAY",
+  "why": "at: with, where."
+ },
+ {
+  "old": "**A changed root and a changed prefixing carry different work**: prefixing an existing root carries changing already at its root, and another root carries a changing that needs its own expression. A root is its changing now;",
+  "new": "**An other root and an other prefixing carry different work**: prefixing an existing root carries a parity-changing already with its root, and an other root carries a parity-changing needing its own expression. A root is its parity-changing now;",
+  "verdict": "RESAY",
+  "why": "changed: other; changing: parity-changing, what a root names; at: with."
+ },
+ {
+  "old": "**A naming carries a changing, and it nyes away one of two ways.** A changing already carried at that direction: one changing twice, and a later naming goes. No changing at all: undoing of something not changing, a grip slackened with nothing gripping.",
+  "new": "**A naming carries a parity-changing, and it nyes away one of two ways.** A parity-changing already carried with that direction: one parity-changing twice, and a later naming goes. No parity-changing at all: undoing of something not-changing, a grip slackened with nothing gripping.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing; not changing: not-changing; at: with; at all kept."
+ },
+ {
+  "old": "a stretching carrying an arriving-at installs an arrived-at and a self short of it.",
+  "new": "a stretching carrying an arriving-at installs an arrived-at and a self short of it.",
+  "verdict": "KEEP",
+  "why": "arriving-at and arrived-at are the named fault concept, as heading 4.12 names it: KEEP."
+ },
+ {
+  "old": "**An incompetencing installs a landing**, a changing given a fixed form to be, and a naming of an incompetencing carries a landing rightly: emptying arrives at empty, stopping at stopped, a definition is its term the same at each occurrence,",
+  "new": "**An incompetencing installs a landing**, a parity-changing given a fixed form to be, and a naming of an incompetencing carries a landing rightly: emptying arrives as empty, stopping as stopped, a definition is its term same with each occurrence,",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing; at: as, with; the same: same."
+ },
+ {
+  "old": "**One binary is at a naming carrying a landing**: does it name a geodesic changing, landing releasing, or an incompetencing, landing being a naming's own.",
+  "new": "**One binary is with a naming carrying a landing**: does it name a geodesic parity-changing, landing dissolving, or an incompetencing, landing being a naming's own.",
+  "verdict": "RESAY",
+  "why": "at: with; changing: parity-changing; releasing: dissolving, a form leaving."
+ },
+ {
+  "old": "each name one relation, a form continuing through its changing.** *Unchanging* at a seam is one subject whose parities change;",
+  "new": "each name one relation, a form continuing through its parity-changing.** *Unchanging* with a seam is one subject whose parities are parity-changing;",
+  "verdict": "RESAY",
+  "why": "changing, change: parity-changing; at: with; *Unchanging* named as a word, kept."
+ },
+ {
+  "old": "*stilling along* is a form carried through changing, beside self discovering next self. At a seam *upstream* is",
+  "new": "*stilling along* is a form carried through parity-changing, beside self discovering next self. With a seam *upstream* is",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing; at: with."
+ },
+ {
+  "old": "A field's three, a nothing at one side, a scale between and an absorbing at an other,",
+  "new": "A field's three, a nothing on one side, a scale between and an absorbing on an other,",
+  "verdict": "RESAY",
+  "why": "at: on."
+ },
+ {
+  "old": "At alternating binary, 8.4, each fails its own way: a nothing and an absorbing each alternate with none, and a scale between is measured against both at once,",
+  "new": "With alternating binary, 8.4, each fails its own way: a nothing and an absorbing each alternate with none, and a scale between is measured against both together,",
+  "verdict": "RESAY",
+  "why": "at: with; at once: together."
+ },
+ {
+  "old": "First freeze is at naming, no other to alternate with, 8.4; **a second is at a construction carrying both at one momentary**, and it shows at a construction, each word passing.",
+  "new": "A first freeze is with naming, no other to alternate with, 8.4; **a second is with a construction carrying both with one momentary**, and it shows with a construction, each word passing.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "**Worked at a pair a general ledger carries.**",
+  "new": "**Worked with a pair a general ledger carries.**",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "and separated, state and flow are not possible, as a reading from and a writing to a memory are for intelligence: two alternate,",
+  "new": "and separated, state and flow are not possibly existing, as a reading from and a writing to a memory are for intelligence: two alternate,",
+  "verdict": "RESAY",
+  "why": "not possible: not possibly existing, kept form."
+ },
+ {
+  "old": "An accounting carries them three at a momentary, two ways: state, changing, state conserves state and imports changing; changing, state, changing conserves changing and imports state;",
+  "new": "An accounting carries them three with a momentary, two ways: state, flow, state conserves state and imports flow; flow, state, flow conserves flow and imports state;",
+  "verdict": "RESAY",
+  "why": "changing here is a ledger's flow, named in the sentence before: re-said with its field's own term; at: with."
+ },
+ {
+  "old": "**Books close by leaving re-forming out at each step**:",
+  "new": "**Books close by omitting re-forming with each step**:",
+  "verdict": "RESAY",
+  "why": "out, at: omitting, with."
+ },
+ {
+  "old": "Bothbothing is two carried in alternation, each unconserved;",
+  "new": "Bothbothing is two carried alternating, each unconserved;",
+  "verdict": "RESAY",
+  "why": "in: alternating."
+ },
+ {
+  "old": "**A changing travels through stilling, and stilling is unchanging while changing travels through**: at 12-next-co-same-existing a sharing whose prior and offering agree is 0, prior continuing, not-changing, while changings, ±, travel across at 10 and along at 9 at other sharings and selves, at one momentary;",
+  "new": "**A parity-offering travels through stilling, and stilling is unchanging while parity-offerings travel through**: with 12-next-co-same-existing a sharing whose prior and offering agree is 0, prior continuing, not-changing, while parity-offerings, ±, travel across with 10 and along with 9 with other sharings and selves, with one momentary;",
+  "verdict": "RESAY",
+  "why": "changing, ± across and along: parity-offerings; at: with. Checked with code: one sharing 0 while others share ±."
+ },
+ {
+  "old": "bi-inversioning-co-recursioning up and down numbers, stilling at a name at now and changing at the same name 8 up at next.",
+  "new": "bi-inversioning-co-recursioning up and down numbers, stilling with a name, now, and parity-offerings with its name 8 up, next.",
+  "verdict": "RESAY",
+  "why": "at, changing, the: with; parity-offerings, as 4.9."
+ },
+ {
+  "old": "*co-bi-exchanging* opens co, at odd, a self's, and *bi-co-exchanging* opens bi, at even, an other's, and *co-bi-podaling* and *bi-co-podaling* part the same way. Four momentaries of exchanging at one self, 1–2, 3–4, 5–6 and 7–8, open at odd and are co-bi-exchanging,",
+  "new": "*co-bi-exchanging* opens co, with odd, a self's, and *bi-co-exchanging* opens bi, with even, an other's, and *co-bi-podaling* and *bi-co-podaling* part likewise. Four momentaries of exchanging of one self, 1–2, 3–4, 5–6 and 7–8, open with odd and are co-bi-exchanging,",
+  "verdict": "RESAY",
+  "why": "at: with, of; the same way: likewise."
+ },
+ {
+  "old": "**Each position carries two pairings, one at each parity**, and both parities at one momentary, one position in two exchangings at once, is a not possible form.",
+  "new": "**Each position carries two pairings, one with each parity**, and both parities with one momentary, one position within two exchangings together, is a form not possibly existing.",
+  "verdict": "RESAY",
+  "why": "at, in, at once, not possible: with, within, together, not possibly existing."
+ },
+ {
+  "old": "each four is four boundings at once, 1.1, one four at each parity.",
+  "new": "each four is four boundings together, 1.1, one four with each parity.",
+  "verdict": "RESAY",
+  "why": "at once: together; at: with."
+ },
+ {
+  "old": "**In a field's words one side at both openings is an exclusive or fixed as one answer.** Exclusive or is parity: observed at its openings it alternates and carries both;",
+  "new": "**With a field's words one side with both openings is an exclusive or fixed as one answer.** Exclusive or is parity: observed with its openings it alternates and carries both;",
+  "verdict": "RESAY",
+  "why": "in, at: with."
+ },
+ {
+  "old": "**A Peres–Mermin square is bothbothing at a field**:",
+  "new": "**A Peres–Mermin square is bothbothing with a field**:",
+  "verdict": "RESAY",
+  "why": "at: with; 512 is every assignment, exhaustive."
+ },
+ {
+  "old": "couplings at one momentary, each its own, alternating carrying a whole. A reading *a sequencing fixed to one beat*, 4.9, observed at its own resolving,",
+  "new": "couplings with one momentary, each its own, alternating carrying a whole. A reading *a sequencing fixed to one beat*, 4.9, observed with its own resolving,",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "each a doer over an -ing,",
+  "new": "each a doer over an -ing,",
+  "verdict": "KEEP",
+  "why": "doer here names the fault a forcing installs, not a resolver or file doing: KEEP."
+ },
+ {
+  "old": "each resolving is all or none at all at its own opening.",
+  "new": "each resolving is all or none at all with its own opening.",
+  "verdict": "RESAY",
+  "why": "at: with; all or none at all kept."
+ },
+ {
+  "old": "**At all or none at all, entering and leaving are a self's own**: a self couples at its interest opening and leaves at its own completing.",
+  "new": "**With all or none at all, entering and leaving are a self's own**: a self couples with its interest opening and leaves with its own completing.",
+  "verdict": "RESAY",
+  "why": "at: with; all or none at all kept."
+ },
+ {
+  "old": "privacy, trust and security are that one nothing at three substrates.",
+  "new": "privacy, trust and security are that one nothing with three substrates.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "**A hyphenated naming carries parts, and one binary is at it: leave each part out one at a time and sound stopping.**",
+  "new": "**A hyphenated naming carries parts, and one binary is with it: omit each part, one at a time, and sound stopping.**",
+  "verdict": "RESAY",
+  "why": "at, out: with; leave out: omit; one at a time kept."
+ },
+ {
+  "old": "At each leaving-out stopping naming, its hyphenation is inseparable, one naming, and its parts in order are changings in order. At a leaving-out with naming carrying on, that part was riding, and it goes.",
+  "new": "With each omitting that stops naming, its hyphenation is inseparable, one naming, and its parts in sequence are parity-changings in sequence. With an omitting and naming carrying on, that part was riding, and it goes.",
+  "verdict": "RESAY",
+  "why": "at, leaving-out, in order, changings: with; omitting; in sequence (kept form); parity-changings."
+ },
+ {
+  "old": "**A leaving-out is 1.1's four boundings at a naming's own scale**: a part whose leaving-out stops naming is one of its boundings, as a concept short one of four is a fixed noun, and a hyphenation coming apart at a leaving-out is a label.",
+  "new": "**An omitting is 1.1's four boundings with a naming's own scale**: a part whose omitting stops naming is one of its boundings, as a concept short one of four is a fixed noun, and a hyphenation coming apart with an omitting is a label.",
+  "verdict": "RESAY",
+  "why": "leaving-out, at: omitting, with."
+ },
+ {
+  "old": "*Now-existing* is one naming: leave out *now* and existing is at no momentary, leave out *existing* and now is at no thing, and the origin is at it,",
+  "new": "*Now-existing* is one naming: omit *now* and existing is of no momentary, omit *existing* and now is of no thing, and the origin is with it,",
+  "verdict": "RESAY",
+  "why": "out, at: omit, of, with; the origin is an only first, kept; the quoted opening kept."
+ },
+ {
+  "old": "*Prior-existing* is a thing now-existing at a prior-universe, prior now-existing's artifact at now, and *next-existing* a thing possible now at a next-universe, neither *not existing*; *prior-universe*, *now-universe* and *next-universe* name a universe at each momentary, a now-universe the universe, so a sentence carries which universe a thing is now-existing at.",
+  "new": "*Prior-existing* is a thing now-existing with a prior-universe, prior now-existing's artifact, now, and *next-existing* a thing possibling now with a next-universe, neither *not existing*; *prior-universe*, *now-universe* and *next-universe* name a universe with each momentary, a now-universe the universe, so a sentence carries which universe a thing is now-existing with.",
+  "verdict": "RESAY",
+  "why": "at, possible: with; possibling; the universe kept."
+ },
+ {
+  "old": "*Self* stands at its own, a self's other namings released into it, 2.4. *Co-momentarying*, two selves sharing one now-existing at a bi-coupling, *bi-coupling*, *stable-forming* and *natural torusing* each stop at any part left out, and each stands whole.",
+  "new": "*Self* stands on its own, a self's other namings dissolving to it, 2.4. *Co-momentarying*, two selves sharing one now-existing with a bi-coupling, *bi-coupling*, *stable-forming* and *natural torusing* each stop with any part omitted, and each stands whole.",
+  "verdict": "RESAY",
+  "why": "at, released into, left out: on; dissolving to (words leaving); with; omitted."
+ },
+ {
+  "old": "**All changing is parity changing, so *parity* rides in *parity-changing***, and method's one name is *natural torusing*, inseparable at each part; *geodesic parity-changing* is its explaining, a surface dividing itself at each changing.",
+  "new": "**All parity-changing is is or is not same-existing, and *parity-changing* is one hyphenated naming**, and method's one name is *natural torusing*, inseparable with each part; *geodesic parity-changing* is its explaining, a surface dividing itself with each parity-changing.",
+  "verdict": "RESAY",
+  "why": "resolved v390 with agreed concepts: It says changing alone is parity changing so *parity* rides, a part to leave out; session v390 dissolves changing alone and agrees *parity-changing*, hyphenated. Re-saying by words changes its value: "
+ },
+ {
+  "old": "and a naming natural- prefixes carries at each coupling or at none.",
+  "new": "and a naming natural- prefixes carries with each coupling or with none.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "**Natural-bi-co-torusing is inseparable at each part**: leave natural- out and changing arrives with a substrate under it and an applier over it; leave bi- out and differing goes unsaid; leave co- out and differing carries with no two at it, and nothing is uncovered between them;",
+  "new": "**Natural-bi-co-torusing is inseparable with each part**: omit natural- and parity-changing arrives with a substrate under it and a form fixed still over it from beside; omit bi- and differing goes unsaid; omit co- and differing carries with no two to it, and nothing is uncovered between them;",
+  "verdict": "RESAY",
+  "why": "at, out, changing: with; omit; parity-changing."
+ },
+ {
+  "old": "leave torusing out and no changing is; leave -ing out and one momentary's form arrives at a still and re-arrives at no momentary.",
+  "new": "omit torusing and no parity-changing is; omit -ing and one momentary's form arrives as a still and re-arrives with no momentary.",
+  "verdict": "RESAY",
+  "why": "out, changing, at: omit; parity-changing; as, with."
+ },
+ {
+  "old": "Each of seven is asked at its own, at each naming in a file.",
+  "new": "Each of seven is asked on its own, of each naming within a file.",
+  "verdict": "RESAY",
+  "why": "at, in: on, of, within."
+ },
+ {
+  "old": "A direction at prefix, a changing at root, a continuing at -ing.",
+  "new": "A direction with prefix, a parity-changing with root, a continuing with -ing.",
+  "verdict": "RESAY",
+  "why": "at, changing: with; parity-changing."
+ },
+ {
+  "old": "**An inherited changing.** A word is one changing while its unfolding carries another.",
+  "new": "**An inherited parity-changing.** A word is one parity-changing while its unfolding carries an other.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing (a list item, not a heading)."
+ },
+ {
+  "old": "a term-check passes it, a word being in files.",
+  "new": "a term-check passes it, a word being within files.",
+  "verdict": "RESAY",
+  "why": "in: within."
+ },
+ {
+  "old": "**Each naming couples at one of resolver's seventeen names, or at a changing between two.** Found at a name, naming is at it, or carries its own root at the same relation. Found at none, it is a picture of a name or a changing names leave unexpressed, which is a finding for resolver.",
+  "new": "**Each naming couples with one of resolver's seventeen names, or with a between of two.** Found with a name, naming is with it, or carries its own root with its same relation. Found with none, it is a picture of a name or of a between names leave unexpressed, which is a finding for resolver.",
+  "verdict": "RESAY",
+  "why": "at, changing, the: with; a changing between two names is a between, each between discovering."
+ },
+ {
+  "old": "a picture shows one naming at one scale: a form Exhibit ONE carries at its numbers, a bi-folding or a span, is at its numbers. A naming changing carries a relation it was naming.",
+  "new": "a picture shows one naming with one scale: a form Exhibit ONE carries with its numbers, a bi-folding or a span, is with its numbers. A naming re-said carries a relation it was naming.",
+  "verdict": "RESAY",
+  "why": "at: with; a naming changing: re-said."
+ },
+ {
+  "old": "*And* carries names together at one relation, a field term at several names at once, and *or* carries a term at one cluster and at another, each its own gathering;",
+  "new": "*And* carries names together with one relation, a field term with several names as one, and *or* carries a term with one cluster and with an other, each its own gathering;",
+  "verdict": "RESAY",
+  "why": "at, at once: with, as one."
+ },
+ {
+  "old": "6. **A hyphenation at each part.** 4.17.",
+  "new": "6. **A hyphenation with each part.** 4.17.",
+  "verdict": "RESAY",
+  "why": "at: with (a list item, not a heading)."
+ }
+]

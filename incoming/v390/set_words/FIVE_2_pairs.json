@@ -1,0 +1,1508 @@
+[
+ {
+  "old": "## 1.10 Robotic limb, contact and the receiving coupling",
+  "new": "## 1.10 Robotic limb, contact and the receiving coupling",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**The limb's engineering opportunity is at each receiving contact.**",
+  "new": "**A limb's engineering opportunity is with each receiving contact.**",
+  "verdict": "RESAY",
+  "why": "the: a; at: with."
+ },
+ {
+  "old": "Joint, tendon, actuator and contacted material retain their actual changing.",
+  "new": "Joint, tendon, actuator and contacted material retain their actual motion and deformation.",
+  "verdict": "RESAY",
+  "why": "changing, physical: a field's motion and deformation."
+ },
+ {
+  "old": "Offering and receiving alternate one at a time in proposed connector; their physical correspondence needs operation at each side.",
+  "new": "Offering and receiving alternate one at a time with proposed connector; their physical correspondence needs operation with each side.",
+  "verdict": "RESAY",
+  "why": "in: with; at: with; one at a time kept."
+ },
+ {
+  "old": "**Robotic contact and locomotion** carry five properties at §5.1:",
+  "new": "**Robotic contact and locomotion** carry five properties of §5.1:",
+  "verdict": "RESAY",
+  "why": "at: of."
+ },
+ {
+  "old": "A moving limb coupling with a changing load or surface, with task's reach, contact and continuing specified.",
+  "new": "A moving limb coupling with a varying load or surface, with task's reach, contact and continuing specified.",
+  "verdict": "RESAY",
+  "why": "changing load: varying load, a field's own word."
+ },
+ {
+  "old": "| **The particular coupling and fixed form** | Prescribed position, force, stiffness or rate, and command at receiving contact.",
+  "new": "| **Its particular coupling and fixed form** | Prescribed position, force, stiffness or rate, and command with receiving contact.",
+  "verdict": "RESAY",
+  "why": "the: a; at: with. Cell count kept."
+ },
+ {
+  "old": "Contact impulses, elastic return, friction, backlash, electrical signals and thermal changing can supply a receiving opportunity.",
+  "new": "Contact impulses, elastic return, friction, backlash, electrical signals and thermal variation can supply a receiving opportunity.",
+  "verdict": "RESAY",
+  "why": "thermal changing: thermal variation, a field's word."
+ },
+ {
+  "old": "They do not describe the same device.",
+  "new": "They do not describe one device.",
+  "verdict": "RESAY",
+  "why": "the same: one."
+ },
+ {
+  "old": "Couple contact changing to next offering while each side retains its own receiving and release.",
+  "new": "Couple contact variation to next offering while each side retains its own receiving and contact parting.",
+  "verdict": "RESAY",
+  "why": "changing: variation; release, physical letting go of contact: contact parting."
+ },
+ {
+  "old": "Express actuator, sensor, retained information, physical energy return and interruption at the same task.",
+  "new": "Express actuator, sensor, retained information, physical energy return and interruption with a same task.",
+  "verdict": "RESAY",
+  "why": "at the same: with a same."
+ },
+ {
+  "old": "Compare proposed arrangement with changing contact or load.",
+  "new": "Compare proposed arrangement with varying contact or load.",
+  "verdict": "RESAY",
+  "why": "changing: varying."
+ },
+ {
+  "old": "**The joint and its sensing.**",
+  "new": "**A joint and its sensing.**",
+  "verdict": "RESAY",
+  "why": "the: a."
+ },
+ {
+  "old": "Joint angle, torque and stiffness have different field meanings: stiffness concerns torque changing with angle.",
+  "new": "Joint angle, torque and stiffness have different field meanings: stiffness concerns torque varying with angle.",
+  "verdict": "RESAY",
+  "why": "changing: varying, a field's own sense."
+ },
+ {
+  "old": "A balance at one angle does not determine that relation across angles.",
+  "new": "A balance for one angle does not determine that relation across angles.",
+  "verdict": "RESAY",
+  "why": "at: for."
+ },
+ {
+  "old": "Concurrent physical tension in two tendons also does not specify order of proposed directional turns.",
+  "new": "Concurrent physical tension of two tendons also does not specify order of proposed directional turns.",
+  "verdict": "RESAY",
+  "why": "in: of."
+ },
+ {
+  "old": "Already measured information, discarded information and distinctions available at next changing remain to express.",
+  "new": "Already measured information, discarded information and distinctions available with a next contact variation remain to express.",
+  "verdict": "RESAY",
+  "why": "at next changing: with a next contact variation."
+ },
+ {
+  "old": "Bodily proprioception and eyes-closed touch illustration retain their own sensory and motion questions at Biology.",
+  "new": "Bodily proprioception and eyes-closed touch illustration retain their own sensory and motion questions, Biology's subject.",
+  "verdict": "RESAY",
+  "why": "at Biology: re-said, a file's subject."
+ },
+ {
+  "old": "Three phase-offset returns do not establish a store-free joint; §§4.9 and 6.8 carry waveform and receiving questions.",
+  "new": "Three phase-offset returns do not establish a store-free joint; waveform and receiving questions are §§4.9 and 6.8's.",
+  "verdict": "RESAY",
+  "why": "doer: sections carrying, re-said as their concepts."
+ },
+ {
+  "old": "Further opportunities remain concrete: contact-related sequencing without an imposed trajectory; a gait with actual local coordination expressed; stiffness and position at their separate changing; and both sides' receiving at human interface.",
+  "new": "Further opportunities remain concrete: contact-related sequencing without an imposed trajectory; a gait with actual local coordination expressed; stiffness and position with their separate variation; and both sides' receiving with a human interface.",
+  "verdict": "RESAY",
+  "why": "at: with; changing: variation."
+ },
+ {
+  "old": "Four connector properties at §4.7 accompany each arrangement.",
+  "new": "Four connector properties of §4.7 accompany each arrangement.",
+  "verdict": "RESAY",
+  "why": "at: of."
+ },
+ {
+  "old": "**Collective robotics** carries the same entry:",
+  "new": "**Collective robotics** carries this same entry:",
+  "verdict": "RESAY",
+  "why": "the: this."
+ },
+ {
+  "old": "| **The particular coupling and fixed form** | Each supplied target, reference, retained representation, timing operation and command retains its particular receiving.",
+  "new": "| **Its particular coupling and fixed form** | Each supplied target, reference, retained representation, timing operation and command retains its particular receiving.",
+  "verdict": "RESAY",
+  "why": "the: a. Cell count kept."
+ },
+ {
+  "old": "Disagreement, blocked motion, changed neighbor relations and unused contact information can supply next receiving.",
+  "new": "Disagreement, blocked motion, shifted neighbor relations and unused contact information can supply next receiving.",
+  "verdict": "RESAY",
+  "why": "changed: shifted."
+ },
+ {
+  "old": "Express each member’s receiving, retaining, offering and releasing in a continuing local coupling with changing members and opportunities.",
+  "new": "Express each member’s receiving, retaining, offering and parting within a continuing local coupling, with members joining and departing and opportunities varying.",
+  "verdict": "RESAY",
+  "why": "releasing, a member's letting go: parting; in: within, a part of a whole; changing members: joining and departing."
+ },
+ {
+  "old": "A fixed assembly experiment does not fill continuing admission, departure or changing-task behavior.",
+  "new": "A fixed assembly experiment does not fill continuing admission, departure or varying-task behavior.",
+  "verdict": "RESAY",
+  "why": "changing: varying."
+ },
+ {
+  "old": "[Rubenstein and colleagues, *Programmable self-assembly in a thousand-robot swarm*, algorithm and experiments]",
+  "new": "[Rubenstein and colleagues, *Programmable self-assembly in a thousand-robot swarm*, algorithm and experiments]",
+  "verdict": "KEEP",
+  "why": "Citation and title of an outside work."
+ },
+ {
+  "old": "An actual fixed form’s releasing with receiving continuing remains design relation to express.",
+  "new": "An actual fixed form’s dissolving with receiving continuing remains design relation to express.",
+  "verdict": "RESAY",
+  "why": "releasing, a form that leaves: dissolving."
+ },
+ {
+  "old": "ONE's returning carrying and TWO's network design and discovery remain at those actual interfaces.",
+  "new": "ONE's returning carrying and TWO's network design and discovery remain with those actual interfaces.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "to a collective ranking over at least three alternatives,",
+  "new": "to a collective ranking over three or more alternatives,",
+  "verdict": "RESAY",
+  "why": "at least, a count: three or more, same theorem condition."
+ },
+ {
+  "old": "Proposed correspondence to four self and four social boundings remains a relation to examine at Societies, Values and Mathematics;",
+  "new": "Proposed correspondence to four self and four social boundings remains a relation to examine with Societies, Values and Mathematics;",
+  "verdict": "RESAY",
+  "why": "at: with. Societies kept, a file's title; social boundings kept, a social compound naming a concept."
+ },
+ {
+  "old": "**The protective coupling remains at both sides' receiving.**",
+  "new": "**A protective coupling remains with both sides' receiving.**",
+  "verdict": "RESAY",
+  "why": "the: a; at: with."
+ },
+ {
+  "old": "Compliance, refusal, release and continuing at a human–robot interface need actual material contact and permitted operations.",
+  "new": "Compliance, refusal, parting and continuing with a human–robot interface need actual material contact and permitted operations.",
+  "verdict": "RESAY",
+  "why": "release, physical letting go: parting; at: with."
+ },
+ {
+  "old": "A protective label on a robot does not establish benefit or freedom at every encounter.",
+  "new": "A protective label on a robot does not establish benefit or freedom with every encounter.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Connector's four properties at §4.7 and actual observing belong with that particular arrival.",
+  "new": "Connector's four properties, §4.7, and actual observing belong with that particular arrival.",
+  "verdict": "RESAY",
+  "why": "at: re-said as a reference."
+ },
+ {
+  "old": "## 1.12 Instrument tuning, beat changing and the remaining interval",
+  "new": "## 1.12 Instrument tuning, beat changing and the remaining interval",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**Tuning carries changing relation between tones.**",
+  "new": "**Tuning carries a varying relation between tones.**",
+  "verdict": "RESAY",
+  "why": "changing: varying, a physical relation."
+ },
+ {
+  "old": "Direction of an adjustment and subsequent beat changing can distinguish those two arrivals.",
+  "new": "Direction of an adjustment and subsequent beat variation can distinguish those two arrivals.",
+  "verdict": "RESAY",
+  "why": "changing: variation."
+ },
+ {
+  "old": "**Direction carries changing at both tones.**",
+  "new": "**Direction carries variation with both tones.**",
+  "verdict": "RESAY",
+  "why": "changing: variation; at: with."
+ },
+ {
+  "old": "Between two such comparisons, `d = Δf₁ − Δf₂` gives relative changing.",
+  "new": "Between two such comparisons, `d = Δf₁ − Δf₂` gives relative frequency shift.",
+  "verdict": "RESAY",
+  "why": "changing: frequency shift, a field's own term for Δf."
+ },
+ {
+  "old": "These are acoustic quantities at their own units.",
+  "new": "These are acoustic quantities with their own units.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "The [Physclips beat derivation](https://www.animations.physics.unsw.edu.au/jw/beats.htm) supplies two-tone relation;",
+  "new": "[Physclips beat derivation](https://www.animations.physics.unsw.edu.au/jw/beats.htm) supplies two-tone relation;",
+  "verdict": "RESAY",
+  "why": "the: removed; link and its words kept."
+ },
+ {
+  "old": "| First tone, Hz | Second tone, Hz | Signed difference, Hz | Beat rate, beats/s | Changing carried |",
+  "new": "| First tone, Hz | Second tone, Hz | Signed difference, Hz | Beat rate, beats/s | Changing carried |",
+  "verdict": "KEEP",
+  "why": "Table header row, kept exactly."
+ },
+ {
+  "old": "Rising at first tone accompanies a smaller interval.",
+  "new": "Rising of first tone accompanies a smaller interval.",
+  "verdict": "RESAY",
+  "why": "at: of."
+ },
+ {
+  "old": "The same rising accompanies a larger interval.",
+  "new": "An equal rise of first tone accompanies a larger interval.",
+  "verdict": "RESAY",
+  "why": "the same: an equal, by meaning: a one-hertz rise again."
+ },
+ {
+  "old": "Larger final interval accompanies a change of side.",
+  "new": "Larger final interval accompanies a crossing of sign.",
+  "verdict": "RESAY",
+  "why": "a change of side: a crossing of sign, signed difference −1 to +2."
+ },
+ {
+  "old": "Both tones rise, with their difference not changing.",
+  "new": "Both tones rise, with their difference constant.",
+  "verdict": "RESAY",
+  "why": "not changing, physical: constant, a field's word."
+ },
+ {
+  "old": "In fourth row, a continuous monotone rise of first frequency would include approaching and passing second; two endpoint beat rates leave that changing unexpressed.",
+  "new": "With fourth row, a continuous monotone rise of first frequency would include approaching and passing second; two endpoint beat rates leave that passing unexpressed.",
+  "verdict": "RESAY",
+  "why": "in: with; that changing: that passing, by meaning."
+ },
+ {
+  "old": "**The finite changing retains its extent.**",
+  "new": "**A finite frequency shift retains its extent.**",
+  "verdict": "RESAY",
+  "why": "the: a; changing: frequency shift."
+ },
+ {
+  "old": "The same arithmetic gives `b′² − b² = d(2e + d)`.",
+  "new": "This same arithmetic gives `b′² − b² = d(2e + d)`.",
+  "verdict": "RESAY",
+  "why": "the: this; inline code kept."
+ },
+ {
+  "old": "For nonzero `e` and `d`, with `abs(d) < abs(e)`, sign of beat-rate change is sign of `ed`.",
+  "new": "For nonzero `e` and `d`, with `abs(d) < abs(e)`, sign of beat-rate difference, `b′ − b`, is sign of `ed`.",
+  "verdict": "RESAY",
+  "why": "beat-rate change: beat-rate difference, named by its own quantity."
+ },
+ {
+  "old": "Continued bi-momentarying can include passing interval, receiving again and further changing, as calling-and-returning relation at §2.1 expresses.",
+  "new": "Continued bi-momentarying can include passing interval, receiving again and further adjustment, as with calling-and-returning relation, §2.1.",
+  "verdict": "RESAY",
+  "why": "changing: adjustment; doer, a section expressing: re-said as its concept."
+ },
+ {
+  "old": "A common change at both tones can also leave `d` at zero.",
+  "new": "An equal shift of both tones can also leave `d` zero.",
+  "verdict": "RESAY",
+  "why": "change: shift; at: removed."
+ },
+ {
+  "old": "Each side's own changing remains at comparison.",
+  "new": "Each side's own frequency shift remains part of comparison.",
+  "verdict": "RESAY",
+  "why": "changing: frequency shift; at: part of."
+ },
+ {
+  "old": "Proposed parity crossing can leave those magnitudes at each side.",
+  "new": "Proposed parity crossing can leave those magnitudes with each side.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "A particular material or mechanism carrying its own bound, offered adjustment direction and returned acoustic changing remains construction to express.",
+  "new": "A particular material or mechanism carrying its own bound, offered adjustment direction and returned acoustic variation remains construction to express.",
+  "verdict": "RESAY",
+  "why": "changing: variation."
+ },
+ {
+  "old": "A prescribed small step supplies its imposed size; sign-only proposal at §2.1 still needs its own relation at that changing.",
+  "new": "A prescribed small step supplies its imposed size; sign-only proposal, §2.1, still needs its own relation with that shift.",
+  "verdict": "RESAY",
+  "why": "at: re-said, a reference, and with; changing: shift."
+ },
+ {
+  "old": "At a nonzero beat rate `b`, a full beat period is `1/b` seconds.",
+  "new": "With a nonzero beat rate `b`, a full beat period is `1/b` seconds.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "A method requiring a full beat therefore retains that duration; a fixed short interval without a complete beat leaves smaller nonzero rates possible.",
+  "new": "A method requiring a full beat therefore retains that duration; a fixed short interval without a complete beat leaves smaller nonzero rates undistinguished from zero.",
+  "verdict": "RESAY",
+  "why": "possible: re-said by meaning, undistinguished from zero."
+ },
+ {
+  "old": "Further changing at either tone remains with next offering.",
+  "new": "Further adjustment of either tone remains with next offering.",
+  "verdict": "RESAY",
+  "why": "changing: adjustment; at: of."
+ },
+ {
+  "old": "Shared-network exchange association at §4.10 carries the same engineering question at its own interface.",
+  "new": "Shared-network exchange association, §4.10, is this same engineering question with its own interface.",
+  "verdict": "RESAY",
+  "why": "doer, a section carrying: re-said as its concept; the: this; at: with."
+ },
+ {
+  "old": "**Zero beat rate, zero change of beat rate and no received comparison have distinct relations.**",
+  "new": "**Zero beat rate, zero beat-rate difference and no received comparison have distinct relations.**",
+  "verdict": "RESAY",
+  "why": "change of beat rate: beat-rate difference."
+ },
+ {
+  "old": "Equal sinusoidal frequencies have zero beat rate; equal beat rates at two comparisons can accompany changed frequencies, as table shows.",
+  "new": "Equal sinusoidal frequencies have zero beat rate; equal beat rates with two comparisons can accompany shifted frequencies, as with table's third row.",
+  "verdict": "RESAY",
+  "why": "at: with; changed: shifted; doer, a table showing: re-said as its row."
+ },
+ {
+  "old": "Returned parity and continued carrying retain their particular relation at §4.12.",
+  "new": "Returned parity and continued carrying retain their particular relation, §4.12.",
+  "verdict": "RESAY",
+  "why": "at: re-said as a reference."
+ },
+ {
+  "old": "Multiplying every frequency by the same positive factor preserves their ratios.",
+  "new": "Multiplying every frequency by one positive factor preserves their ratios.",
+  "verdict": "RESAY",
+  "why": "the same: one."
+ },
+ {
+  "old": "An ensemble's offered reference and each instrument's changing can be expressed without claiming that no reference is used.",
+  "new": "An ensemble's offered reference and each instrument's adjustment can be expressed without claiming that no reference is used.",
+  "verdict": "RESAY",
+  "why": "changing: adjustment."
+ },
+ {
+  "old": "**The fifth and octave give an exact arithmetic distinction.**",
+  "new": "**Fifth and octave give an exact arithmetic distinction.**",
+  "verdict": "RESAY",
+  "why": "the: removed."
+ },
+ {
+  "old": "Nineteen counts all factors of two in this reduced expression; it is not nineteen octave steps.",
+  "new": "Nineteen counts all factors of two within this reduced expression; it is not nineteen octave steps.",
+  "verdict": "RESAY",
+  "why": "in: within, a part of a whole."
+ },
+ {
+  "old": "In cents, `1200 log₂(531441/524288) ≈ 23.46`.",
+  "new": "As cents, `1200 log₂(531441/524288) ≈ 23.46`.",
+  "verdict": "RESAY",
+  "why": "in: as; inline code kept."
+ },
+ {
+  "old": "**The coupled partials carry whole acoustic entry.**",
+  "new": "**Coupled partials carry whole acoustic entry.**",
+  "verdict": "RESAY",
+  "why": "the: removed."
+ },
+ {
+  "old": "The [Physclips guitar demonstration](https://www.animations.physics.unsw.edu.au/jw/beats.htm) compares fourth partial of the low E string with third partial of the A string.",
+  "new": "[Physclips guitar demonstration](https://www.animations.physics.unsw.edu.au/jw/beats.htm) compares fourth partial of a guitar's low E string with third partial of its A string.",
+  "verdict": "RESAY",
+  "why": "the: removed, a guitar's, its."
+ },
+ {
+  "old": "Increasing the A string's tension accompanies slower beating.",
+  "new": "Increasing that A string's tension accompanies slower beating.",
+  "verdict": "RESAY",
+  "why": "the: that."
+ },
+ {
+  "old": "This record supplies an acoustic receiving at its stated arrangement.",
+  "new": "This record supplies an acoustic receiving with its stated arrangement.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "An ensemble carries its other intervals and instruments in the same surface.",
+  "new": "An ensemble carries its other intervals and instruments within one surface.",
+  "verdict": "RESAY",
+  "why": "in the same: within one."
+ },
+ {
+  "old": "identifying that fixed form in an offered design remains particular to its interface.",
+  "new": "identifying that fixed form within an offered design remains particular to its interface.",
+  "verdict": "RESAY",
+  "why": "in: within."
+ },
+ {
+  "old": "with no attribution of their whole amount to a fixed form at natural coupling.",
+  "new": "with no attribution of their whole amount to a fixed form within natural coupling.",
+  "verdict": "RESAY",
+  "why": "at: within."
+ },
+ {
+  "old": "Source carries changing beat rate with reference and adjustment retained.",
+  "new": "Source carries varying beat rate with reference and adjustment retained.",
+  "verdict": "RESAY",
+  "why": "changing: varying."
+ },
+ {
+  "old": "Bi-momentarying at each instrument retains its selected partials, own adjustment, sounding input, receiving duration, bounding and co-releasing.",
+  "new": "Bi-momentarying with each instrument retains its selected partials, own adjustment, sounding input, receiving duration, bounding and co-releasing.",
+  "verdict": "RESAY",
+  "why": "at: with; co-releasing kept, a naming awaiting one motion."
+ },
+ {
+  "old": "A returned direction belongs with that comparison; changed receiving carries next offering.",
+  "new": "A returned direction belongs with that comparison; a shifted receiving carries next offering.",
+  "verdict": "RESAY",
+  "why": "changed: shifted."
+ },
+ {
+  "old": "**Discovering continues at each instrument's own offering.**",
+  "new": "**Discovering continues with each instrument's own offering.**",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Proposed connector co-chains two-tone receiving with each side's physical bound and next available changing.",
+  "new": "Proposed connector co-chains two-tone receiving with each side's physical bound and next available adjustment.",
+  "verdict": "RESAY",
+  "why": "changing: adjustment."
+ },
+ {
+  "old": "Bi-momentarying, co-competencing and co-intelligencing carry bettering, fastering and cheapering at whole acoustic service.",
+  "new": "Bi-momentarying, co-competencing and co-intelligencing carry bettering, fastering and cheapering with whole acoustic service.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Beat changing, interval choice, inharmonicity and instrument-specific stretch retain their own operations and sources.",
+  "new": "Beat variation, interval choice, inharmonicity and instrument-specific stretch retain their own operations and sources.",
+  "verdict": "RESAY",
+  "why": "changing: variation."
+ },
+ {
+  "old": "Numbers map at §1.2 retains its directional correspondence; 440 Hz in this example is a frequency, with no 440-momentary sequence supplied by it.",
+  "new": "Directional correspondence is Numbers map's, §1.2; 440 Hz with this example is a frequency, with no 440-momentary sequence supplied by it.",
+  "verdict": "RESAY",
+  "why": "doer, a map retaining: re-said as its concept; at: re-said; in: with."
+ },
+ {
+  "old": "**The confinement opportunity is at actual field, plasma and receiving boundary.**",
+  "new": "**A confinement opportunity is with actual field, plasma and receiving boundary.**",
+  "verdict": "RESAY",
+  "why": "the: a; at: with."
+ },
+ {
+  "old": "| **The particular coupling and fixed form** | Coil field, plasma current, heating, fuel supply, prescribed profiles and boundary arrangements retain their respective operations.",
+  "new": "| **Its particular coupling and fixed form** | Coil field, plasma current, heating, fuel supply, prescribed profiles and boundary arrangements retain their respective operations.",
+  "verdict": "RESAY",
+  "why": "the: a. Cell count kept."
+ },
+ {
+  "old": "Changing or releasing a particular operation with required confinement continuing remains to express.",
+  "new": "Adjusting or dissolving a particular operation with required confinement continuing remains to express.",
+  "verdict": "RESAY",
+  "why": "changing: adjusting; releasing, a form that leaves: dissolving."
+ },
+ {
+  "old": "Express a change in field shaping, current supply or local receiving with its changed plasma and boundary conditions.",
+  "new": "Express a new field shaping, current supply or local receiving with its resulting plasma and boundary conditions.",
+  "verdict": "RESAY",
+  "why": "a change in: a new; changed: resulting."
+ },
+ {
+  "old": "Follow fuel, reaction products, heat receiving, material return and interruption at proposed whole arrangement.",
+  "new": "Follow fuel, reaction products, heat receiving, material return and interruption across proposed whole arrangement.",
+  "verdict": "RESAY",
+  "why": "at: across."
+ },
+ {
+  "old": "This is a particular change in how confinement field is supplied.",
+  "new": "This is a particular difference of confinement field's supply.",
+  "verdict": "RESAY",
+  "why": "change in: difference of; how removed, by meaning."
+ },
+ {
+  "old": "Particular imposed operation and receiving continuing with its releasing remain to express together.",
+  "new": "Particular imposed operation and receiving continuing with its dissolving remain to express together.",
+  "verdict": "RESAY",
+  "why": "releasing, a form that leaves: dissolving."
+ },
+ {
+  "old": "Field shaping does not state that every particle spends exactly half a path in each radial drift, that every drift cancels, or that all instabilities have resolved.",
+  "new": "Field shaping does not establish that every particle spends exactly half a path with each radial drift, that every drift cancels, or that all instabilities have resolved.",
+  "verdict": "RESAY",
+  "why": "in: with; doer, a shaping stating: establish."
+ },
+ {
+  "old": "[Pedersen and colleagues, *Confirmation of the topology of the Wendelstein 7-X magnetic field to better than 1:100,000*, field-line mapping and error-field measurements]",
+  "new": "[Pedersen and colleagues, *Confirmation of the topology of the Wendelstein 7-X magnetic field to better than 1:100,000*, field-line mapping and error-field measurements]",
+  "verdict": "KEEP",
+  "why": "Citation and title of an outside work."
+ },
+ {
+  "old": "**The wrapping ratio and surface retain their counted objects.**",
+  "new": "**A wrapping ratio and surface retain their counted objects.**",
+  "verdict": "RESAY",
+  "why": "the: a."
+ },
+ {
+  "old": "No-wall case fixed a fifty-percent self-driven current fraction and tested ballooning and specified kink modes; calculated limits changed with retained conditions.",
+  "new": "No-wall case fixed a fifty-percent self-driven current fraction and tested ballooning and specified kink modes; calculated limits varied with retained conditions.",
+  "verdict": "RESAY",
+  "why": "changed: varied; fifty-percent kept, a field's measurement."
+ },
+ {
+  "old": "Sphere–torus and bi-folding exploration remains at Numbers and Mathematics with its actual surfaces and operations.",
+  "new": "Sphere–torus and bi-folding exploration is Numbers and Mathematics' subject, with its actual surfaces and operations.",
+  "verdict": "RESAY",
+  "why": "at: re-said, files' subject."
+ },
+ {
+  "old": "Receiving at §3.2 and §6.5 continues from field geometry to actual reaction and its material and thermal returns.",
+  "new": "Receiving, §3.2 and §6.5, continues from field geometry to actual reaction and its material and thermal returns.",
+  "verdict": "RESAY",
+  "why": "at: re-said as a reference."
+ },
+ {
+  "old": "**The walking-pair illustration carries alternating roles at a shared relation.**",
+  "new": "**A walking-pair illustration carries alternating roles with a shared relation.**",
+  "verdict": "RESAY",
+  "why": "the: a; at: with."
+ },
+ {
+  "old": "One contact stays while an other moves; roles can exchange at next contact.",
+  "new": "One contact stays while an other moves; roles can exchange with next contact.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Illustration's five two-way changings remain available at their actual properties:",
+  "new": "Illustration's five two-way alternatings remain available with their actual properties:",
+  "verdict": "RESAY",
+  "why": "two-way changings: alternatings, parity-changing and parity-changing back; at: with."
+ },
+ {
+  "old": "| Changing | Proposed walking relation still to express |",
+  "new": "| Changing | Proposed walking relation still to express |",
+  "verdict": "KEEP",
+  "why": "Table header row, kept exactly."
+ },
+ {
+  "old": "| **Bound** | Reach limit and span’s fixed or changing relation. |",
+  "new": "| **Bound** | Reach limit and span’s fixed or varying relation. |",
+  "verdict": "RESAY",
+  "why": "changing: varying."
+ },
+ {
+  "old": "| **Rate** | Each side’s continuing input and changing, with any prescribed shared pace. |",
+  "new": "| **Rate** | Each side’s continuing input and variation, with any prescribed shared pace. |",
+  "verdict": "RESAY",
+  "why": "changing: variation."
+ },
+ {
+  "old": "| **Between** | Crossing, each side’s continuing and exchange of roles at contact. |",
+  "new": "| **Between** | Crossing, each side’s continuing and exchange of roles with contact. |",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "**The lockstitch is a particular mechanical arrival.**",
+  "new": "**A lockstitch is a particular mechanical arrival.**",
+  "verdict": "RESAY",
+  "why": "the: a."
+ },
+ {
+  "old": "Useful transfer is local formation with material receiving and returning at each stitch.",
+  "new": "Useful transfer is local formation with material receiving and returning with each stitch.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Proposed correspondence to ONE's changing needs each operation, needle and hook timing, thread take-up, feed and completed stitch.",
+  "new": "Proposed correspondence to ONE's parity-changing needs each operation, needle and hook timing, thread take-up, feed and completed stitch.",
+  "verdict": "RESAY",
+  "why": "ONE's changing: parity-changing."
+ },
+ {
+  "old": "**Asymmetric receiving concerns sides at their turns.**",
+  "new": "**Asymmetric receiving concerns sides taking their turns.**",
+  "verdict": "RESAY",
+  "why": "at: re-said, taking."
+ },
+ {
+  "old": "An offering fixed at a constant can define a particular comparison;",
+  "new": "An offering fixed as a constant can define a particular comparison;",
+  "verdict": "RESAY",
+  "why": "at: as."
+ },
+ {
+  "old": "Changing at each receiving remains to express with four connector properties in §4.7.",
+  "new": "Parity-changing with each receiving remains to express with four connector properties of §4.7.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing, a side's own; at: with; in: of."
+ },
+ {
+  "old": "Heat recovered at one temperature still needs a receiving at that temperature and rate.",
+  "new": "Heat recovered with one temperature still needs a receiving of that temperature and rate.",
+  "verdict": "RESAY",
+  "why": "at: with, of."
+ },
+ {
+  "old": "The **ventilation recovery** and **split heat pump** have different arrangements.",
+  "new": "**Ventilation recovery** and **split heat pump** have different arrangements.",
+  "verdict": "RESAY",
+  "why": "the: removed."
+ },
+ {
+  "old": "An HRV couples incoming and outgoing air at a heat exchanger; an ERV also transfers water vapor.",
+  "new": "An HRV couples incoming and outgoing air across a heat exchanger; an ERV also transfers water vapor.",
+  "verdict": "RESAY",
+  "why": "at: across."
+ },
+ {
+  "old": "**Heat exchange and recovery** carry five properties at §5.1:",
+  "new": "**Heat exchange and recovery** carry five properties of §5.1:",
+  "verdict": "RESAY",
+  "why": "at: of."
+ },
+ {
+  "old": "with goal of returning available heat to a receiving stream at its required temperature and flow.",
+  "new": "with goal of returning available heat to a receiving stream with its required temperature and flow.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "| **The particular coupling and fixed form** | Inlet conditions, flow paths and heat-capacity rates describe exchange.",
+  "new": "| **Its particular coupling and fixed form** | Inlet conditions, flow paths and heat-capacity rates describe exchange.",
+  "verdict": "RESAY",
+  "why": "the: a. Cell count kept."
+ },
+ {
+  "old": "A required outlet temperature used as a fixed reference retains its relation to changing supply.",
+  "new": "A required outlet temperature used as a fixed reference retains its relation to varying supply.",
+  "verdict": "RESAY",
+  "why": "changing: varying."
+ },
+ {
+  "old": "A leaving stream can retain a temperature difference available at another receiving.",
+  "new": "A leaving stream can retain a temperature difference available to another receiving.",
+  "verdict": "RESAY",
+  "why": "at: to."
+ },
+ {
+  "old": "**The temperature cross.**",
+  "new": "**A temperature cross.**",
+  "verdict": "RESAY",
+  "why": "the: a."
+ },
+ {
+  "old": "Sensible-heat model assumes steady streams, constant heat-capacity rates, no phase change, no ambient heat loss and negligible axial conduction.",
+  "new": "Sensible-heat model assumes steady streams, constant heat-capacity rates, no phase change, no ambient heat loss and negligible axial conduction.",
+  "verdict": "KEEP",
+  "why": "phase change: a field's own term in its own sense."
+ },
+ {
+  "old": "Write `Cᵣ = Cmin/Cmax`, `NTU = UA/Cmin`, and effectiveness `ε = Q̇/[Cmin(Th,in − Tc,in)]`.",
+  "new": "Write `Cᵣ = Cmin/Cmax`, `NTU = UA/Cmin`, and effectiveness `ε = Q̇/[Cmin(Th,in − Tc,in)]`.",
+  "verdict": "KEEP",
+  "why": "Inline code kept; its in is a subscript."
+ },
+ {
+  "old": "At equal capacity rates, counterflow has `ε = NTU/(1 + NTU)` and a constant local temperature difference.",
+  "new": "With equal capacity rates, counterflow has `ε = NTU/(1 + NTU)` and a constant local temperature difference.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "At each local exchange hot stream remains warmer.",
+  "new": "With each local exchange hot stream remains warmer.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Thus counterflow permits cross; it does not require it at every size.",
+  "new": "Thus counterflow permits cross; it does not require it with every size.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Their limiting difference, `Cᵣ/(1 + Cᵣ)`, peaks at ½ at balance.",
+  "new": "Their limiting difference, `Cᵣ/(1 + Cᵣ)`, reaches its peak, ½, with balance.",
+  "verdict": "RESAY",
+  "why": "at: re-said, reaches its peak; with balance."
+ },
+ {
+  "old": "It measures neither co-competency nor a general loss at every coupling.",
+  "new": "It measures neither co-competency nor a general loss with every coupling.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "At finite conductance, zero temperature difference supplies zero passive heat-transfer rate.",
+  "new": "With finite conductance, zero temperature difference supplies zero passive heat-transfer rate.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "**The vapor cycle and its return.**",
+  "new": "**A vapor cycle and its return.**",
+  "verdict": "RESAY",
+  "why": "the: a."
+ },
+ {
+  "old": "At an adiabatic throttle with negligible changes of kinetic and potential energy, enthalpy is approximately constant and no shaft work returns.",
+  "new": "With an adiabatic throttle and negligible kinetic and potential energy differences, enthalpy is approximately constant and no shaft work returns.",
+  "verdict": "RESAY",
+  "why": "at: with; changes of energy: energy differences, inlet to outlet."
+ },
+ {
+  "old": "Flashing changes refrigerant's phase; refrigerant remains.",
+  "new": "Flashing turns part of refrigerant to vapor; refrigerant remains.",
+  "verdict": "RESAY",
+  "why": "changes phase: re-said by meaning, turns part to vapor."
+ },
+ {
+  "old": "An expander's possible shaft-work return and an ejector's pressure recovery require their actual arrangements.",
+  "new": "An expander's available shaft-work return and an ejector's pressure recovery require their actual arrangements.",
+  "verdict": "RESAY",
+  "why": "possible: available."
+ },
+ {
+  "old": "Neither pressure drop nor presence of a valve by itself completes a fixed form at natural coupling.",
+  "new": "Neither pressure drop nor presence of a valve by itself completes a fixed form within natural coupling.",
+  "verdict": "RESAY",
+  "why": "at: within."
+ },
+ {
+  "old": "**The whole conditioning opportunity.**",
+  "new": "**A whole conditioning opportunity.**",
+  "verdict": "RESAY",
+  "why": "the: a."
+ },
+ {
+  "old": "A reversing valve changes refrigerant routing;",
+  "new": "A reversing valve reverses refrigerant routing;",
+  "verdict": "RESAY",
+  "why": "changes: reverses, by meaning."
+ },
+ {
+  "old": "A thermostat's service temperature remains at engineering goal.",
+  "new": "A thermostat's service temperature belongs with engineering goal.",
+  "verdict": "RESAY",
+  "why": "remains at: belongs with."
+ },
+ {
+  "old": "In the former, capillary pressure must accommodate liquid and vapor pressure drops and orientation's head.",
+  "new": "With a wicked heat pipe, capillary pressure must accommodate liquid and vapor pressure drops and orientation's head.",
+  "verdict": "RESAY",
+  "why": "in the former: with a wicked heat pipe, named."
+ },
+ {
+  "old": "In the latter, liquid descends from condenser to a lower evaporator.",
+  "new": "With a thermosiphon, liquid descends from condenser to a lower evaporator.",
+  "verdict": "RESAY",
+  "why": "in the latter: with a thermosiphon, named."
+ },
+ {
+  "old": "| Property | The particular heat-pipe or thermosiphon receiving |",
+  "new": "| Property | The particular heat-pipe or thermosiphon receiving |",
+  "verdict": "KEEP",
+  "why": "Table header row, kept exactly."
+ },
+ {
+  "old": "| **The particular coupling and fixed form** | Any prescribed temperature, flow or routing retains its relation to source and receiving changing.",
+  "new": "| **Its particular coupling and fixed form** | Any prescribed temperature, flow or routing retains its relation to source and receiving variation.",
+  "verdict": "RESAY",
+  "why": "the: a; changing: variation. Cell count kept."
+ },
+ {
+  "old": "Vapor travel and liquid return can coexist in opposite directions;",
+  "new": "Vapor travel and liquid return can coexist along opposite directions;",
+  "verdict": "RESAY",
+  "why": "in: along."
+ },
+ {
+  "old": "Follow temperatures, transferred heat and liquid return during starting, continuing and interruption at particular orientation.",
+  "new": "Follow temperatures, transferred heat and liquid return during starting, continuing and interruption with particular orientation.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Express changed operation with source and receiving temperatures exchanging order or with a changed orientation.",
+  "new": "Express operation with source and receiving temperatures exchanging order, or with orientation turned.",
+  "verdict": "RESAY",
+  "why": "changed: re-said by meaning, exchanging order or orientation turned."
+ },
+ {
+  "old": "Simultaneous vapor and liquid counterflow, reversal of heat transfer, and a directional turn each retain their own changing.",
+  "new": "Simultaneous vapor and liquid counterflow, reversal of heat transfer, and a directional turn each retain their own operation.",
+  "verdict": "RESAY",
+  "why": "changing: operation, by meaning."
+ },
+ {
+  "old": "§5.3 retains that complete liquid path.",
+  "new": "That complete liquid path is §5.3's.",
+  "verdict": "RESAY",
+  "why": "doer, a section retaining: re-said as its concept."
+ },
+ {
+  "old": "§5.3 carries desalination receiving.",
+  "new": "Desalination receiving is §5.3's.",
+  "verdict": "RESAY",
+  "why": "doer, a section carrying: re-said."
+ },
+ {
+  "old": "§6.4 carries proposed phase-offset vapor cycles.",
+  "new": "Proposed phase-offset vapor cycles are §6.4's.",
+  "verdict": "RESAY",
+  "why": "doer, a section carrying: re-said."
+ },
+ {
+  "old": "## 1.16 Compression, tension and the sign at a crossing",
+  "new": "## 1.16 Compression, tension and the sign at a crossing",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "In a uniform uniaxial bar model with tension positive, `σ = N/A > 0` is tension across its sections.",
+  "new": "With a uniform uniaxial bar model and tension positive, `σ = N/A > 0` is tension across its sections.",
+  "verdict": "RESAY",
+  "why": "in: with."
+ },
+ {
+  "old": "Spatial reversal and temporal alternation are different operations in that description.",
+  "new": "Spatial reversal and temporal alternation are different operations within that description.",
+  "verdict": "RESAY",
+  "why": "in: within."
+ },
+ {
+  "old": "Engineering opportunity follows changing load, deformation and return at connection.",
+  "new": "Engineering opportunity follows varying load, deformation and return with each connection.",
+  "verdict": "RESAY",
+  "why": "changing: varying; at: with."
+ },
+ {
+  "old": "Offering, receiving and sign-changing quantity remain to express.",
+  "new": "Offering, receiving and sign-reversing quantity remain to express.",
+  "verdict": "RESAY",
+  "why": "sign-changing: sign-reversing, a field's sense."
+ },
+ {
+  "old": "Actual joint retains any shear, bending or torsion in its loading.",
+  "new": "Actual joint retains any shear, bending or torsion of its loading.",
+  "verdict": "RESAY",
+  "why": "in: of."
+ },
+ {
+  "old": "Co-chaining retains two sides' receiving and release at particular connection.",
+  "new": "Co-chaining retains two sides' receiving and parting with particular connection.",
+  "verdict": "RESAY",
+  "why": "release: parting; at: with."
+ },
+ {
+  "old": "# PART TWO — MORE SUBSTRATES, AND THE FROZEN CASES",
+  "new": "# PART TWO — MORE SUBSTRATES, AND THE FROZEN CASES",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "## 2.1 Finding, reaching, following and abundancing the geodesic floating neutral",
+  "new": "## 2.1 Finding, reaching, following and abundancing the geodesic floating neutral",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**Finding, reaching, following and abundancing carry one resolving at its coupling.**",
+  "new": "**Finding, reaching, following and abundancing carry one resolving with its coupling.**",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Each is engineering method at a particular fixed form and receiving available when it releases.",
+  "new": "Each is engineering method with a particular fixed form, and receiving available as it dissolves.",
+  "verdict": "RESAY",
+  "why": "at: with; releases, a form that leaves: dissolves."
+ },
+ {
+  "old": "Beginning relation at §1.1 and Numbers map at §1.2 remain with each particular release.",
+  "new": "Beginning relation, §1.1, and Numbers map, §1.2, remain with each particular dissolving.",
+  "verdict": "RESAY",
+  "why": "at: re-said as references; release, a fixed form leaving: dissolving."
+ },
+ {
+  "old": "Bringing an unexpressed supply, receiving or return into bi-momentarying is part of that same discovering.",
+  "new": "Bringing an unexpressed supply, receiving or return to bi-momentarying is part of that same discovering.",
+  "verdict": "RESAY",
+  "why": "into: to."
+ },
+ {
+  "old": "A neutral, a temperature difference, a beat and a membrane each retain their particular changing.",
+  "new": "A neutral, a temperature difference, a beat and a membrane each retain their particular variation.",
+  "verdict": "RESAY",
+  "why": "changing: variation, each a physical quantity."
+ },
+ {
+  "old": "term taking an other's turn and arriving available to that changing.",
+  "new": "term taking an other's turn, and arriving available to that other's parity-changing.",
+  "verdict": "RESAY",
+  "why": "changing: an other's parity-changing, its turn taken."
+ },
+ {
+  "old": "**Following** carries next offering with changed receiving, each side at its own parity and rate.",
+  "new": "**Following** carries next offering with parity-changed receiving, each side with its own parity and rate.",
+  "verdict": "RESAY",
+  "why": "changed: parity-changed; at: with."
+ },
+ {
+  "old": "At an instrument, §1.12 carries both tones' changing, adjustment's own bounding and returned comparison.",
+  "new": "With an instrument, both tones' frequency shifts, adjustment's own bounding and returned comparison are §1.12's.",
+  "verdict": "RESAY",
+  "why": "at: with; doer, a section carrying: re-said; changing: frequency shifts."
+ },
+ {
+  "old": "Next offering carries changed whole receiving.",
+  "new": "Next offering carries parity-changed whole receiving.",
+  "verdict": "RESAY",
+  "why": "changed: parity-changed."
+ },
+ {
+  "old": "**Abundancing** is co-competencing at continuing coupling, +1 owned neither-ing.",
+  "new": "**Abundancing** is co-competencing with continuing coupling, +1 owned neither-ing.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Socially abundancing carries co-chaining between those couplings, each self offering, across and both ways, at its own rate.",
+  "new": "Socially abundancing carries co-chaining between those couplings, each self offering, across and both ways, with its own rate.",
+  "verdict": "RESAY",
+  "why": "at: with; socially abundancing kept, a social compound naming a concept."
+ },
+ {
+  "old": "A leaving heat stream, returned material or available motion offers a particular receiving at §5.2.",
+  "new": "A leaving heat stream, returned material or available motion offers a particular receiving, as with §5.2.",
+  "verdict": "RESAY",
+  "why": "at: re-said as a reference."
+ },
+ {
+  "old": "Its temperature, amount, rate and next use remain expressed; natural value carries at coupling.",
+  "new": "Its temperature, amount, rate and next use remain expressed; natural value carries with coupling.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "**Co-releasing carries both sides' own releasing.**",
+  "new": "**Co-releasing carries both sides' own dissolving of fixed forms.**",
+  "verdict": "RESAY",
+  "why": "releasing: dissolving of fixed forms, as next sentences say; co-releasing kept, a naming awaiting one motion."
+ },
+ {
+  "old": "A removed component is a physical change.",
+  "new": "A removed component is a physical alteration.",
+  "verdict": "RESAY",
+  "why": "change: alteration."
+ },
+ {
+  "old": "A released fixed form is other side's turn becoming its own.",
+  "new": "A dissolved fixed form is other side's turn becoming its own.",
+  "verdict": "RESAY",
+  "why": "released, a form that leaves: dissolved."
+ },
+ {
+  "old": "Their correspondence carries complete receiving, including input, material return and behavior during change.",
+  "new": "Their correspondence carries complete receiving, including input, material return and behavior during transition.",
+  "verdict": "RESAY",
+  "why": "change: transition."
+ },
+ {
+  "old": "Removing one drive, reference or store leaves those operations to express at the same service.",
+  "new": "Removing one drive, reference or store leaves those operations to express with a same service.",
+  "verdict": "RESAY",
+  "why": "at the same: with a same."
+ },
+ {
+  "old": "**Discovering carries next offering with changed receiving.**",
+  "new": "**Discovering carries next offering with parity-changed receiving.**",
+  "verdict": "RESAY",
+  "why": "changed: parity-changed."
+ },
+ {
+  "old": "Each side's own parity, rate, bounding and co-releasing carry its continuing changing.",
+  "new": "Each side's own parity, rate, bounding and co-releasing carry its continuing parity-changing.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing."
+ },
+ {
+  "old": "A path, material or timing offered carries particular receiving available at that coupling;",
+  "new": "A path, material or timing offered carries particular receiving available with that coupling;",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Bi-momentarying, co-competencing and co-intelligencing remain inseparable in this discovering.",
+  "new": "Bi-momentarying, co-competencing and co-intelligencing remain inseparable within this discovering.",
+  "verdict": "RESAY",
+  "why": "in: within."
+ },
+ {
+  "old": "At a controlling a between is fixed at a measure set beforehand: a device can sense an other and use that sensing only as error from its configured target, so sensing by itself releases no fixed form.",
+  "new": "With a controlling, a between is fixed as a measure set beforehand: a device can sense an other and use that sensing only as error from its configured target, so sensing by itself dissolves no fixed form.",
+  "verdict": "RESAY",
+  "why": "at: with, as; releases: dissolves."
+ },
+ {
+  "old": "Discovering opportunity is receiving available with that substitution released.",
+  "new": "Discovering opportunity is receiving available with that substitution dissolved.",
+  "verdict": "RESAY",
+  "why": "released: dissolved."
+ },
+ {
+  "old": "Physical input, returning and continuing service remain at their own operations.",
+  "new": "Physical input, returning and continuing service remain with their own operations.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Each proposed arrangement carries their construction, including receiving during change.",
+  "new": "Each proposed arrangement carries their construction, including receiving during transition.",
+  "verdict": "RESAY",
+  "why": "change: transition."
+ },
+ {
+  "old": "**Direction-only bi-momentarying carries discovering at alternating exchange.**",
+  "new": "**Direction-only bi-momentarying carries discovering with alternating exchange.**",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Each side's offering and returning carry changed receiving into next offering, at its own rate and bounding.",
+  "new": "Each side's offering and returning carry parity-changed receiving to next offering, with its own rate and bounding.",
+  "verdict": "RESAY",
+  "why": "changed: parity-changed; into: to; at: with."
+ },
+ {
+  "old": "Engineering proposal concerns parity taken at interface, with whole physical receiving and each side's own changing retained.",
+  "new": "Engineering proposal concerns parity taken across an interface, with whole physical receiving and each side's own parity-changing retained.",
+  "verdict": "RESAY",
+  "why": "at: across; changing: parity-changing."
+ },
+ {
+  "old": "| **Co-releasing** | Each side releases its own installed fixed form.",
+  "new": "| **Co-releasing** | Each side dissolves its own installed fixed form.",
+  "verdict": "RESAY",
+  "why": "releases: dissolves; row label kept, a naming awaiting one motion."
+ },
+ {
+  "old": "Released term and continuing input belong with actual arrangement.",
+  "new": "Dissolved term and continuing input belong with actual arrangement.",
+  "verdict": "RESAY",
+  "why": "released: dissolved."
+ },
+ {
+  "old": "an improving at one port leaves other ports and returning to express.",
+  "new": "an improving with one port leaves other ports and returning to express.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "| **Bounding-zeroing** | Own bounding carries available changing and continuing.",
+  "new": "| **Bounding-zeroing** | Own bounding carries available parity-changing and continuing.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing."
+ },
+ {
+  "old": "Parity carries no size of a physical change, duration or remaining range.",
+  "new": "Parity carries no physical magnitude, duration or remaining range.",
+  "verdict": "RESAY",
+  "why": "size of a physical change: physical magnitude."
+ },
+ {
+  "old": "Its construction remains at coupling. |",
+  "new": "Its construction remains with coupling. |",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "A releasing and its returned direction retain their actual relation, including delayed arriving.",
+  "new": "An offering and its returned direction retain their actual relation, including delayed arriving.",
+  "verdict": "RESAY",
+  "why": "a releasing, a side's sending: an offering, as calling and returning."
+ },
+ {
+  "old": "Next side takes its own turn at its own rate.",
+  "new": "Next side takes its own turn with its own rate.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Proposed right-spiral order retains its orientation at each changing;",
+  "new": "Proposed right-spiral order retains its orientation with each parity-changing;",
+  "verdict": "RESAY",
+  "why": "at: with; changing: parity-changing."
+ },
+ {
+  "old": "Available paths carry next receiving with a released fixed form.",
+  "new": "Available paths carry next receiving with a dissolved fixed form.",
+  "verdict": "RESAY",
+  "why": "released: dissolved."
+ },
+ {
+  "old": "Arrangement offered retains its own co-releasing in next changing.",
+  "new": "Arrangement offered retains its own co-releasing within next parity-changing.",
+  "verdict": "RESAY",
+  "why": "in: within; changing: parity-changing."
+ },
+ {
+  "old": "These are properties of the same alternating.",
+  "new": "These are properties of one alternating.",
+  "verdict": "RESAY",
+  "why": "the same: one."
+ },
+ {
+  "old": "Six-direction illustration and sixteen-momentary mapping retain their own operations, directly in numbers.",
+  "new": "Six-direction illustration and sixteen-momentary mapping retain their own operations, directly as numbers.",
+  "verdict": "RESAY",
+  "why": "in: as."
+ },
+ {
+  "old": "Their physical correspondence remains at each addressed exchange.",
+  "new": "Their physical correspondence remains with each addressed exchange.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "The [swimming game](https://pinchapenny.com/pool-life/marco-polo-game-rules) carries",
+  "new": "This [swimming game](https://pinchapenny.com/pool-life/marco-polo-game-rules) carries",
+  "verdict": "RESAY",
+  "why": "the: this."
+ },
+ {
+  "old": "The same reply can arrive with a changed direction.",
+  "new": "A same reply can arrive from a shifted direction.",
+  "verdict": "RESAY",
+  "why": "the same: a same; changed: shifted."
+ },
+ {
+  "old": "| Co-relational discovering | Relation at the game | Engineering receiving |",
+  "new": "| Co-relational discovering | Relation at the game | Engineering receiving |",
+  "verdict": "KEEP",
+  "why": "Table header row, kept exactly."
+ },
+ {
+  "old": "Calling and replying alternate at sounding exchange.",
+  "new": "Calling and replying alternate with sounding exchange.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "| **Own changing** | Movement at either side changes relation available at next reply. | Each side carries its own available changing, rate, bounding and co-releasing. |",
+  "new": "| **Own parity-changing** | Movement of either side shifts relation available with next reply. | Each side carries its own available parity-changing, rate, bounding and co-releasing. |",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing; at: of, with; changes: shifts. Cell count kept."
+ },
+ {
+  "old": "A repeated reply can accompany changed positions and changed receiving.",
+  "new": "A repeated reply can accompany shifted positions and shifted receiving.",
+  "verdict": "RESAY",
+  "why": "changed: shifted."
+ },
+ {
+  "old": "Floating-neutralling geodesically carries proposed engineering relation at each side's own offering and co-releasing.",
+  "new": "Floating-neutralling geodesically carries proposed engineering relation with each side's own offering and co-releasing.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "A direction of sound arriving, a parity taken at a crossing and a direction of improving or declining receiving have different operations.",
+  "new": "A direction of sound arriving, a parity taken with a crossing and a direction of improving or declining receiving have different operations.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "its relation to continuing useful service remains at whole coupling.",
+  "new": "its relation to continuing useful service remains with whole coupling.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "**The parity's simplicity belongs with whole receiving.**",
+  "new": "**A parity's simplicity belongs with whole receiving.**",
+  "verdict": "RESAY",
+  "why": "the: a."
+ },
+ {
+  "old": "Sound propagation, arrival at ears, bodily orientation and movement remain in acoustic arrangement.",
+  "new": "Sound propagation, arrival to ears, bodily orientation and movement remain within acoustic arrangement.",
+  "verdict": "RESAY",
+  "why": "at: to; in: within."
+ },
+ {
+  "old": "In proposed connector, a binary taking at an addressed crossing retains that physical receiving and each side's own bounding.",
+  "new": "With proposed connector, a binary taking with an addressed crossing retains that physical receiving and each side's own bounding.",
+  "verdict": "RESAY",
+  "why": "in: with; at: with."
+ },
+ {
+  "old": "Representing every reply as the same undirected symbol leaves directional relation to express at receiving interface.",
+  "new": "Representing every reply as one same undirected symbol leaves directional relation to express with receiving interface.",
+  "verdict": "RESAY",
+  "why": "the same: one same; at: with."
+ },
+ {
+  "old": "**Changed orientation has an addressed acoustic comparison.**",
+  "new": "**Head rotation has an addressed acoustic comparison.**",
+  "verdict": "RESAY",
+  "why": "changed orientation: head rotation, by its source's meaning."
+ },
+ {
+  "old": "A study of eight experienced listeners used loudspeaker noise in an anechoic chamber, with sound ending at prescribed head-rotation ranges.",
+  "new": "A study of eight experienced listeners used loudspeaker noise within an anechoic chamber, with sound ending once head rotation reached prescribed ranges.",
+  "verdict": "RESAY",
+  "why": "in: within; at: re-said, once rotation reached."
+ },
+ {
+  "old": "Larger ranges accompanied fewer front/back confusions and smaller elevation errors; lateral-angle error had no statistically significant range effect.",
+  "new": "Larger ranges accompanied fewer front/back confusions and smaller elevation errors; lateral-angle error had no statistically significant range effect.",
+  "verdict": "KEEP",
+  "why": "statistically significant: a cited study's own field measurement, reported as its result."
+ },
+ {
+  "old": "Physical sound and head movement remained in arrangement.",
+  "new": "Physical sound and head movement remained part of arrangement.",
+  "verdict": "RESAY",
+  "why": "in: part of."
+ },
+ {
+  "old": "**Discovering carries next receiving during changing.**",
+  "new": "**Discovering carries next receiving during parity-changing.**",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing."
+ },
+ {
+  "old": "A changed orientation carries next directional receiving.",
+  "new": "A turned orientation carries next directional receiving.",
+  "verdict": "RESAY",
+  "why": "changed: turned."
+ },
+ {
+  "old": "an absent reply retains receiving question at that exchange.",
+  "new": "an absent reply retains receiving question with that exchange.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Acoustic interval condition at §1.12 bounds one directional inference.",
+  "new": "Acoustic interval condition, §1.12, bounds one directional inference.",
+  "verdict": "RESAY",
+  "why": "at: re-said as a reference."
+ },
+ {
+  "old": "Continuing bi-momentarying includes its next arriving and any further changing.",
+  "new": "Continuing bi-momentarying includes its next arriving and any further parity-changing.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing."
+ },
+ {
+  "old": "Bi-momentarying, co-competencing and co-intelligencing remain inseparable in cycling of bettering, fastering and cheapering at that whole receiving.",
+  "new": "Bi-momentarying, co-competencing and co-intelligencing remain inseparable within cycling of bettering, fastering and cheapering with that whole receiving.",
+  "verdict": "RESAY",
+  "why": "in: within; at: with."
+ },
+ {
+  "old": "**Declining receiving carries its direction at its existing.**",
+  "new": "**Declining receiving carries its direction with its existing.**",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Two proposed arrangements can carry the same initial declining parity, with later receiving recovering at one and continuing to decline at an other.",
+  "new": "Two proposed arrangements can carry one same initial declining parity, with later receiving recovering with one and continuing to decline with an other.",
+  "verdict": "RESAY",
+  "why": "the same: one same; at: with."
+ },
+ {
+  "old": "**Directional discovering continues at engineering entry.**",
+  "new": "**Directional discovering continues with engineering entry.**",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Parity's physical receiving, a particular fixed form, each side's bounding, returned changing and available path belong with five properties at §5.1.",
+  "new": "Parity's physical receiving, a particular fixed form, each side's bounding, returned parity-changing and available path belong with five properties of §5.1.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing; at: of."
+ },
+ {
+  "old": "Discovering in momentarying design carries these exchanges at physical couplings, with each side's own releasing and next offering.",
+  "new": "Discovering with momentarying design carries these exchanges across physical couplings, with each side's own dissolving of a fixed form and next offering.",
+  "verdict": "RESAY",
+  "why": "in: with; at: across; releasing: dissolving of a fixed form."
+ },
+ {
+  "old": "Offered construction remains open at those relations.",
+  "new": "Offered construction remains open with those relations.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Full right-spiral correspondence and continuing useful service remain to express at arrangement.",
+  "new": "Full right-spiral correspondence and continuing useful service remain to express with arrangement.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Engineering carries this method at each particular operation:",
+  "new": "Engineering carries this method with each particular operation:",
+  "verdict": "RESAY",
+  "why": "at: with; this method kept, the one method."
+ },
+ {
+  "old": "| Engineering arrival | The particular relation continuing |",
+  "new": "| Engineering arrival | The particular relation continuing |",
+  "verdict": "KEEP",
+  "why": "Table header row, kept exactly."
+ },
+ {
+  "old": "A proposed released reference carries its own replacement relation at load. |",
+  "new": "A proposed dissolved reference carries its own replacement relation with load. |",
+  "verdict": "RESAY",
+  "why": "released: dissolved; at: with."
+ },
+ {
+  "old": "| Contact changing, sensing, actuation and each side's release.",
+  "new": "| Contact variation, sensing, actuation and each side's parting.",
+  "verdict": "RESAY",
+  "why": "changing: variation; release, physical letting go: parting."
+ },
+ {
+  "old": "Proposed array carries each of those relations at its actual operating mode.",
+  "new": "Proposed array carries each of those relations with its actual operating mode.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Available paths, component matching, directional receiving and continuing during changing.",
+  "new": "Available paths, component matching, directional receiving and continuing during transition.",
+  "verdict": "RESAY",
+  "why": "changing: transition."
+ },
+ {
+  "old": "A proposed released prescription carries whole port, control and thermal receiving.",
+  "new": "A proposed dissolved prescription carries whole port, control and thermal receiving.",
+  "verdict": "RESAY",
+  "why": "released: dissolved."
+ },
+ {
+  "old": "| Drawing, releasing water, finishing and renewing draw.",
+  "new": "| Drawing, yielding water, finishing and renewing draw.",
+  "verdict": "RESAY",
+  "why": "releasing water, a draw solution's: yielding water, a field's sense."
+ },
+ {
+  "old": "Four positions out of six describes a fraction of those positions;",
+  "new": "A count of four positions of six describes a fraction of those positions;",
+  "verdict": "RESAY",
+  "why": "out of: of, a count re-said."
+ },
+ {
+  "old": "**Bettering, fastering and cheapering co-cycle at whole receiving.**",
+  "new": "**Bettering, fastering and cheapering co-cycle with whole receiving.**",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "A shorter parts list, a faster waveform or a lower measured input each describes a particular change.",
+  "new": "A shorter parts list, a faster waveform or a lower measured input each describes a particular difference.",
+  "verdict": "RESAY",
+  "why": "change: difference."
+ },
+ {
+  "old": "Engineering entry keeps service, operating range, remaining input and return with it.",
+  "new": "Engineering entry carries service, operating range, remaining input and return with it.",
+  "verdict": "RESAY",
+  "why": "keeps: carries."
+ },
+ {
+  "old": "Releasing a fixed form remains improving opportunity at coupling.",
+  "new": "Dissolving a fixed form remains improving opportunity with coupling.",
+  "verdict": "RESAY",
+  "why": "releasing: dissolving; at: with."
+ },
+ {
+  "old": "**The cable carries a further construction question at its actual loading.**",
+  "new": "**A cable carries a further construction question with its actual loading.**",
+  "verdict": "RESAY",
+  "why": "the: a; at: with."
+ },
+ {
+  "old": "Confinement arrangement at §1.13 likewise retains its own geometry, current, heating, material and receiving.",
+  "new": "Confinement arrangement, §1.13, likewise retains its own geometry, current, heating, material and receiving.",
+  "verdict": "RESAY",
+  "why": "at: re-said as a reference."
+ },
+ {
+  "old": "A ground, a clock or a setpoint is therefore located at its actual coupling.",
+  "new": "A ground, a clock or a setpoint is therefore located with its actual coupling.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "| Proposed fixed form | At the grid | At a writing | At a society |",
+  "new": "| Proposed fixed form | At the grid | At a writing | At a society |",
+  "verdict": "KEEP",
+  "why": "Table header row, kept exactly."
+ },
+ {
+  "old": "A prescribed value replacing receiving's changing",
+  "new": "A prescribed value replacing receiving's own variation",
+  "verdict": "RESAY",
+  "why": "changing: own variation, a grid's physical sense. Cell count kept."
+ },
+ {
+  "old": "Physical reference, input and return remain at their operations.",
+  "new": "Physical reference, input and return remain with their operations.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Improving at each entry is bi-momentarying available when that fixed form releases, with both sides' continuing expressed.",
+  "new": "Improving with each entry is bi-momentarying available as that fixed form dissolves, with both sides' continuing expressed.",
+  "verdict": "RESAY",
+  "why": "at: with; releases: dissolves."
+ },
+ {
+  "old": "Arrows supply no measured transition, duration or natural turn order.",
+  "new": "An arrow is no measured transition, duration or natural turn order.",
+  "verdict": "RESAY",
+  "why": "doer, a table's arrows supplying: re-said as what an arrow is."
+ },
+ {
+  "old": "arithmetic table supplies no such device record.",
+  "new": "arithmetic table is no such device record.",
+  "verdict": "RESAY",
+  "why": "doer, a table supplying: re-said as what it is."
+ },
+ {
+  "old": "Rows express relations of alternating; they assign no additional phases or momentaries.",
+  "new": "Rows are relations of alternating, with no additional phases or momentaries.",
+  "verdict": "RESAY",
+  "why": "doer, rows expressing and assigning: re-said as what they are."
+ }
+]

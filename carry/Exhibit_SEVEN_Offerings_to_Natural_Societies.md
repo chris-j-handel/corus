@@ -4,7 +4,7 @@ Exhibit SEVEN Natural Societies Offerings · laid at v381R · improved at v389
 
 ## Standing · v389
 
-**Resolved at v389.** 163 items stood here; resolving against [Natural Societies](../Exhibit_SEVEN_Natural_Societies_v389.md), 38 are carried, 35 rest on released forms, 52 duplicate another item and 18 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_SEVEN_Offerings_to_Natural_Societies_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_SEVEN_Offerings_to_Natural_Societies_resolved_v389.md). Its 20 concerns stand below, each with its reason; 21 stand now.
+**Resolved at v389.** 163 items stood here; resolving against [Natural Societies](../Exhibit_SEVEN_Natural_Societies_v390.md), 38 are carried, 35 rest on released forms, 52 duplicate another item and 18 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_SEVEN_Offerings_to_Natural_Societies_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_SEVEN_Offerings_to_Natural_Societies_resolved_v389.md). Its 20 concerns stand below, each with its reason; 21 stand now.
 
 **At 4.3 · Healthy living is the relation between birthing and nyeing — beside "Either is the relation broken".** 4.4, 4.5 and 4.6 follow here, inside Part Four, in the body and the contents, and Part Five follows them: the three were placed after Part Five, and the file's own order arrives back with no sentence of them changed.
 
@@ -44,7 +44,7 @@ Concern, at v380, from [the earlier Natural Networking gathering](../archive/v38
 
 **Concern · Nyeing, and a living thinning.** This file's 4.3 has "Nyeing without birthing thins to nothing, a society releasing faster than it makes and the living running down". The Registry's step 470 has "the departing reached by neither and nothing drawn down, is the store, the society storing none: a floating store". They part at a releasing that lessens a living, and a releasing with nothing drawn down. At Exhibit ONE a self sharing 0 and a self sharing its parity inverted each carry on, and no releasing subtracts from a carrying. At a society's next, its particular prior is carried through its couplings or it is not, and no number of births and releasings is in that.
 
-*Standing at v389:* 4.3 has "Nyeing without birthing thins to nothing, a society releasing faster than it makes and its living thinning down", and Co-Chaining Logic Registry step 470 has "a departing reached by neither and nothing drawn down". One lays a releasing that lessens a living, its other a releasing with nothing drawn down; at Exhibit ONE no releasing subtracts from a carrying. **To resolve:** re-say 4.3's nyeing as a prior carried or not through couplings, with no thinning, or keep thinning as an observing at its scale?
+*Standing at v389:* 4.3 has "Nyeing without birthing thins to nothing, a society releasing faster than it makes and its living thinning down", and Co-Chaining Logic Registry step 507 has "a departing reached by neither and nothing drawn down". One lays a releasing that lessens a living, its other a releasing with nothing drawn down; at Exhibit ONE no releasing subtracts from a carrying. **To resolve:** re-say 4.3's nyeing as a prior carried or not through couplings, with no thinning, or keep thinning as an observing at its scale?
 
 **Concern · A residue with no hand, and an axis with no residue.** This file's 5.6 has "an axis occupied by glycine, the one residue with no hand". The insertlet at these offerings for 5.6 has "An axis occupied by no residue and a fold occupied by no scale are each the between read in matter." They part at the residue: a property absent, and a thing absent, are two sayings, and at one axis a residue is or is not. A field's hand is no natural parity by the one word, no hub absent names an axis empty, and the between asks no emptiness to be named.
 
@@ -70,9 +70,9 @@ Concern, at v380, from [the earlier Natural Networking gathering](../archive/v38
 
 *Standing at v389:* Three observings at the universe, next-same-existing by changing, next-same-existing by not-changing, and discovering its beneficial changing at each bi-coupling, find no section at this file, which has no universe; at v389 a universe is a set of things, its sameness its things'. **To resolve:** enter them at Natural Intelligence 1.1 beside a set of things, or at this file's 4.2 as a society's sameness its selves', after a society's sameness is derived?
 
-**Concern · v389 · a set of things as a thing.** The Co-Chaining Logic Registry's step 2 says a set of existing things *is an existing thing, and no thing beside its things*, and Natural Intelligence 1.1 and 4.15 say *a set of existing things is an existing thing, a set within the set*, *scale is that sequencing, sets within sets, inward and outward*; the universe is a set of things and no thing within the set, nothing said beyond or between its things, so a set said as a thing makes the universe a thing again, and the two sayings part at every scale the files name.
+**Concern · v389 · a set of things as a thing.** The Co-Chaining Logic Registry's released step *a second inception*, archived at v390, says a set of existing things *is an existing thing, and no thing beside its things*, and Natural Intelligence 1.1 and 4.15 say *a set of existing things is an existing thing, a set within the set*, *scale is that sequencing, sets within sets, inward and outward*; the universe is a set of things and no thing within the set, nothing said beyond or between its things, so a set said as a thing makes the universe a thing again, and the two sayings part at every scale the files name.
 
-*Standing at v389:* Natural Intelligence 1.1 and Co-Chaining Logic Registry step 2 now have "a set is its things and no further thing", and Natural Intelligence still has "A number equal smaller numbers make is sets within sets, two scales". A set within a set makes a set a thing again at each scale. **To resolve:** re-say sets within sets and each scale at couplings, inward things co-momentarying, as these offerings' resolving direction has it, or keep sets within sets as a number's sense only?
+*Standing at v389:* Natural Intelligence 1.1 and Co-Chaining Logic Registry released step *a second inception*, archived at v390, now have "a set is its things and no further thing", and Natural Intelligence still has "A number equal smaller numbers make is sets within sets, two scales". A set within a set makes a set a thing again at each scale. **To resolve:** re-say sets within sets and each scale at couplings, inward things co-momentarying, as these offerings' resolving direction has it, or keep sets within sets as a number's sense only?
 
 **Concern · v389 · a society's sameness.** Whether a society of selves is a same thing across its momentaries, a living carrying of its own, or only its selves each the same, is yet to be derived, and the executed rings show a society changing and not-changing at one momentary with nothing of its own at the resolver.
 
@@ -89,3 +89,19 @@ Concern, at v380, from [the earlier Natural Networking gathering](../archive/v38
 **Concern · at a sentence.** Beside "and counting-from-a-nothing is natural explaining of them"
 
 *Standing at v389:* At 5.4 (Natural Societies, The fields' three accountings) "The rows are fields' own ledgers, gathered, and counting-from-a-nothing is natural explaining of them" places counting at this file's own voice, while Natural Naming 2.4 releases count at a set's own voice ("numbers themselves, momentaries, podalings and sequences"). Kept as fields' counting it stands; carried another way, a ledger's own word goes. **To resolve:** is counting-from-a-nothing a field's counting carried whole (keep), or carried as "arriving from a nothing, directly in numbers"?
+
+## Gathered at v390 · v390
+
+**Droplet · no free agency, bi-moral-co-agency.** A society coming to natural society carries no free agency, a self's changing its own and applied over no other, and bi-moral-co-agency, each changing shared across and owned by neither; a self holds no power over others and bears no risk alone. — v390, aimed beside Natural Human Society's droplet of the same session
+
+## Gathered from session v390 · v390
+
+**Droplet · same-existing-society.** Many same-existing selves executed together, each with its own parity, are a same-existing-society; its next is its same selves. No parity is a same-existing-society's own. Society alone dissolves from resolver naming, and tri-agency's third is same-existing-society. — v390, gathered from session v390
+
+**Droplet · a society, a living universal set.** A society is a living universal set; self and society are one living universal set met as one and met as its selves. — v390, gathered from session v390
+
+**Droplet · turn-taking.** Each self's 0 is an other's parity-changing, one momentary prior: turn-taking. Two selves of one parity, each meeting only its other, go parity-changing, 0, parity-changing, 0; two different go parity-changing with each momentary; a self no other meets is parity-changing with each momentary. A same-existing-society of one parity, each self met by one or more, goes parity-changing together and 0 together, turn by turn. — v390, gathered from session v390
+
+**Droplet · tri-moral.** Bi-moral is between two; tri-agency is three; tri-moral, universally moral, is do-no-harm social improving, an abundancing same-existing-society. Which same-existing-society forms carry each self turn-taking is open, to be found by co-chaining. — v390, gathered from session v390
+
+**Resolved bothboth, v390 · machine agents.** A robot is no self: each self carries two prior selves from inception, and that carrying is biology and human pro-creation. Machine agent-societies are re-said as *sets of machine agents*, each a non-living set, an emanation of living selves. — v390

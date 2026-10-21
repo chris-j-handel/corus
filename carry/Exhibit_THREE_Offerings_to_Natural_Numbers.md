@@ -4,7 +4,7 @@ Exhibit THREE Natural Numbers Offerings · improved at v389
 
 ## Standing · v389
 
-**Resolved at v389.** 123 items stood here; resolving against [Natural Numbers v389](../Exhibit_THREE_Natural_Numbers_v389.md), 34 are carried, 34 rest on released forms, 13 duplicate another item and 29 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_THREE_Offerings_to_Natural_Numbers_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_THREE_Offerings_to_Natural_Numbers_resolved_v389.md). The 13 concerns below stand, each with its reason; 12 stand now.
+**Resolved at v389.** 123 items stood here; resolving against [Natural Numbers v389](../Exhibit_THREE_Natural_Numbers_v390.md), 34 are carried, 34 rest on released forms, 13 duplicate another item and 29 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_THREE_Offerings_to_Natural_Numbers_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_THREE_Offerings_to_Natural_Numbers_resolved_v389.md). The 13 concerns below stand, each with its reason; 12 stand now.
 
 **Concern · 7.1's name *the returning*, and its rows 60, 61 and 118.** Two sayings part. Exhibit THREE Natural Numbers has, at 7.1, the title "Seventeen primes, two to fifty-nine, and the returning from sixty-one", the name at its rows 60, 61 and 118 also. Exhibit THREE Natural Numbers has, at 7.1, "The primes carry no last" and "past fifty-nine they open on". They part at the ring: the name closes the ring at a name, and the primes carrying no last open on. *Its far side* or *the carrying the other way* is offered for the name. One saying at the file is *the returning* released or the primes' opening on re-said, Exhibit THREE Natural Numbers' to decide, with the rings as spirals. — v386EOD
 
@@ -53,3 +53,15 @@ Exhibit THREE Natural Numbers Offerings · improved at v389
 **Concern · v389 · the faces at each pair.** Which face of each binary stands at its odd name and which at its even, *is* at existing and *is not* at possibling, is read here from the parity, and at 7-now-prioring and 8-now-still-possibling, all and not all, and at 5-now-co-changing and 6-now-co-possibling, same and not same, it is yet to be shown at each name's line at the resolver.
 
 *Standing at v389:* nothing parts; which of each binary's two stands at its odd name and which at its even, *is* at existing and *is not* at possibling, is taken from parity, and at 7 and 8, all and not all, and at 5 and 6, same and not same, it is yet to show at each name's line at resolver. **To resolve:** show it at each name's line at Natural Resolver, or keep it taken from parity?
+
+## Gathered from session v390 · v390
+
+**Droplet · numbers arriving with self and other.** Each self is one, and each other is two: numbers arrive with self and other, as a reader first needs them. — v390, gathered from session v390
+
+**Droplet · three phases, two ways, six.** Bi-moral-tri-agency is three phases, each two ways, one way and then its other, co-sequentially: six bi-moral is or is not parity-changings, floating neutraling. Natural Numbers' three pairs of two orders carry it. — v390, gathered from session v390
+
+**Droplet · ten, five now and five next.** A self's ten own names, 3, 4, 5, 7, 8 now and 11, 12, 13, 15, 16 next, five and five, are Resolving Hard Problems' ten positions on six numbers, two and one half momentaries of a self and of an other: one structure. — v390, gathered from session v390
+
+**Droplet · one five all fives, one ten all tens.** In natural numbers one five is all fives and one ten is all tens. A ten is five self and five other: ten is or is nots, ten dimensions of parity-changing. Resolving Hard Problems carries it as ten positions on six numbers, a self 1 to 5 and an other 2 to 6; Exhibit ONE as *Fives*, prior opening, prior completing, now opening, now completing, next opening. The other six of 1 to 17 are the floating neutraling co-linear of these ten. — v390
+
+**Droplet · self-next is other-prior.** A self's ten own resolver names are this ten: five now, 3, 4, 5, 7, 8, a self's five, and five next, 11, 12, 13, 15, 16, an other's five, as self-next is other-prior; the six between selves, 2, 6, 10, 14 across and 9, 17 along, are its co-linear six. — v390

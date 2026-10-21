@@ -1,0 +1,1496 @@
+[
+ {
+  "old": "## 5.4 The single native state",
+  "new": "## 5.4 The single native state",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**The observing.** Diffraction and resonance data fitted as coordinates",
+  "new": "**The observing.** Diffraction and resonance data fitted as coordinates",
+  "verdict": "KEEP",
+  "why": "Door form label, one observing per entry, kept; field's own words follow."
+ },
+ {
+  "old": "Each molecule folds at its own time; a population's rate constant carried by none.",
+  "new": "Each molecule folds with its own timing; a population's rate constant is carried by none.",
+  "verdict": "RESAY",
+  "why": "at, time: with, by meaning; rate constant a field's own term, kept."
+ },
+ {
+  "old": "Folding and unfolding both ways at equilibrium, one event at a time.",
+  "new": "Folding and unfolding both ways at equilibrium, one event at a time.",
+  "verdict": "KEEP",
+  "why": "at equilibrium is chemistry's own term in its own sense; one at a time kept."
+ },
+ {
+  "old": "Folded on one side of barrier is unfolded on the other, chain kept.",
+  "new": "Folded on one side of a barrier is unfolded on its other side, its chain whole.",
+  "verdict": "RESAY",
+  "why": "kept, a chain staying whole: whole, by meaning, nothing held; the: its."
+ },
+ {
+  "old": "Average coordinates are occupied by no molecule.",
+  "new": "Average coordinates are occupied by no molecule.",
+  "verdict": "KEEP",
+  "why": "Average coordinates are a field's own measured return, kept in its own sense."
+ },
+ {
+  "old": "**Observed.** Fails at 7, 8 and 9 — interior, posted absence, destination — **state**; and at 3 — one-way — **flow**.",
+  "new": "**Observed.** Fails with 7, 8 and 9 — interior, posted absence, destination — **state**; and with 3 — one-way — **flow**.",
+  "verdict": "RESAY",
+  "why": "at, place: with."
+ },
+ {
+  "old": "Folding population passes; a protein observed at one melting point is its arrival, at TWENTY-FIVE 2.20.",
+  "new": "Folding population passes; a protein observed with one melting point is its arrival, entered as TWENTY-FIVE 2.20.",
+  "verdict": "RESAY",
+  "why": "at, place: with; at a file's section re-said as entered as."
+ },
+ {
+  "old": "Single native state, when one fitted or calculated protein structure is installed as the one structure sequence is and destination folding seeks.",
+  "new": "Single native state, when one fitted or calculated protein structure is installed as the one structure sequence is and destination folding seeks.",
+  "verdict": "KEEP",
+  "why": "the one structure names the installation's own one-only claim; an installation's exact grammar stays marked, G13."
+ },
+ {
+  "old": "Released or narrowed by substantial parts of structural biology through ensembles and intrinsically disordered proteins.",
+  "new": "Dissolved or narrowed by substantial parts of structural biology, through ensembles and intrinsically disordered proteins.",
+  "verdict": "RESAY",
+  "why": "released: dissolved, for a form that leaves."
+ },
+ {
+  "old": "**Substrate and society.** Polypeptide, solvent, chaperones and cellular environment, preparation protocol, measurement ensemble, and model-fitting procedure.",
+  "new": "**Substrate and society.** Polypeptide, solvent, chaperones and cellular environment, preparation protocol, measurement ensemble, and model-fitting procedure.",
+  "verdict": "RESAY",
+  "why": "label re-said once across the file, v390"
+ },
+ {
+  "old": "interior, posted absence and destination at 7, 8, 9; one-way folding at 3.",
+  "new": "interior, posted absence and destination with 7, 8, 9; one-way folding with 3.",
+  "verdict": "RESAY",
+  "why": "at, place: with."
+ },
+ {
+  "old": "**Field account.** Structural methods infer models from ensemble-averaged or population data.",
+  "new": "**Field account.** Structural methods infer models from ensemble-averaged or population data.",
+  "verdict": "KEEP",
+  "why": "Field account, a field's own words; averaged is its measuring, kept."
+ },
+ {
+  "old": "**Living changing.** Chains form, local contacts appear, conformations interconvert, solvent and partners couple, populations shift, and disorder can remain functional.",
+  "new": "**Living parity-changing.** Chains form, local contacts appear, conformations interconvert, solvent and partners couple, populations shift, and disorder can remain functional.",
+  "verdict": "RESAY",
+  "why": "label re-said once across the file, v390"
+ },
+ {
+  "old": "**Apparent not-changing.** One coordinate set, consensus model, dominant conformation, or calculated structure is returned.",
+  "new": "**Apparent not-changing.** One coordinate set, consensus model, dominant conformation, or calculated structure is returned.",
+  "verdict": "KEEP",
+  "why": "not-changing is an agreed word; label kept."
+ },
+ {
+  "old": "**Observing between.** Experiment averages across molecules or time; reconstruction and refinement choose model classes; deposition and structure-calculation protocols privilege a file containing coordinates.",
+  "new": "**Observing between.** Experiment averages across molecules or time; reconstruction and refinement choose model classes; deposition and structure-calculation protocols privilege a file containing coordinates.",
+  "verdict": "KEEP",
+  "why": "averages is a field's own measuring in its own sense; field practices named, not a resolver or this file doing."
+ },
+ {
+  "old": "(1) Protein and environment continually sample and re-form conformations.",
+  "new": "(1) Protein and environment continually pass through and re-form conformations.",
+  "verdict": "RESAY",
+  "why": "sample, a statistics word on the living side: re-said by meaning, conformations passed through and re-formed."
+ },
+ {
+  "old": "(2) Measurement and modeling still ensemble into one observing.",
+  "new": "(2) Measurement and modeling still an ensemble as one observing.",
+  "verdict": "RESAY",
+  "why": "into: as, by meaning."
+ },
+ {
+  "old": "(6) Ensemble, disorder, and path-dependent local forming remain the carry one coordinate set leaves uncarried.",
+  "new": "(6) Ensemble, disorder, and path-dependent local forming remain a carry one coordinate set leaves uncarried.",
+  "verdict": "RESAY",
+  "why": "the: a."
+ },
+ {
+  "old": "Premature closure at deposited model.",
+  "new": "Premature closure with a deposited model.",
+  "verdict": "RESAY",
+  "why": "at, place: with."
+ },
+ {
+  "old": "Space-enumerating at conformational space. Store-seeking at structure stored in sequence. Origin-seeking at pre-existing native destination. Value-pinning at free-energy minimum.",
+  "new": "Space-enumerating with conformational space. Store-seeking with a structure taken as stored within its sequence. Origin-seeking with a pre-existing native destination. Value-pinning with a free-energy minimum.",
+  "verdict": "RESAY",
+  "why": "at, place: with; in, a part within its whole: within. One pair for four short signature sentences."
+ },
+ {
+  "old": "**Eight-side society.** Within, sequence, local contacts, solvent response, and conformational populations re-form.",
+  "new": "**Eight-side society.** Within, sequence, local contacts, solvent response, and conformational populations re-form.",
+  "verdict": "RESAY",
+  "why": "label re-said once across the file, v390"
+ },
+ {
+  "old": "Across, chain couples with solvent, measurement, binding partner, and cellular society.",
+  "new": "Across, a chain couples with solvent, measurement, binding partner, and its cell's same-existing-society.",
+  "verdict": "RESAY",
+  "why": "society: same-existing-society, a society of cells, living selves."
+ },
+ {
+  "old": "Structure is an across-return of that society, not a thing outward of it.",
+  "new": "Structure is an across-return of those eight sides, not a thing outward of them.",
+  "verdict": "RESAY",
+  "why": "society, naming the eight-side set: re-said by meaning as its eight sides, standing apart from the label ASK."
+ },
+ {
+  "old": "Restricting “native state” explicitly to a distribution also removes installation and changes an entry's standing.",
+  "new": "Restricting “native state” explicitly to a distribution also removes installation and moves an entry to another standing.",
+  "verdict": "RESAY",
+  "why": "changes, no parity: re-said by meaning, moves to another standing."
+ },
+ {
+  "old": "If “local forming carries forward” cannot distinguish sequences that fold differently, it remains orientation rather than explanation and is broken at that reach.",
+  "new": "If “local forming carries forward” cannot distinguish sequences that fold differently, it remains orientation rather than explanation and is broken for that reach.",
+  "verdict": "RESAY",
+  "why": "at: for, by meaning."
+ },
+ {
+  "old": "Beyond: Burnley et al. 2012, eLife 1:e00311; the field reviews carried at Hard Problem Registry v338.",
+  "new": "Field: Burnley et al. 2012, eLife 1:e00311; field reviews carried with Hard Problem Registry v338.",
+  "verdict": "RESAY",
+  "why": "beyond: Field, the side its sources stand on, as Living names living files; the: removed; at: with. Citation kept."
+ },
+ {
+  "old": "Stability is ensemble re-forming within bounds rather than arrival at one stored geometry.",
+  "new": "Stability is ensemble re-forming within bounds rather than arriving to one stored geometry.",
+  "verdict": "RESAY",
+  "why": "at, place: to, by meaning."
+ },
+ {
+  "old": "**What the field already released.** Ensemble refinement, NMR ensembles, cryo-EM classification, intrinsically disordered proteins, and conformational dynamics already prevent a universal one-coordinate ontology.",
+  "new": "**What its field already dissolved.** Ensemble refinement, NMR ensembles, cryo-EM classification, intrinsically disordered proteins, and conformational dynamics already prevent a universal one-coordinate ontology.",
+  "verdict": "RESAY",
+  "why": "label re-said once across the file, v390"
+ },
+ {
+  "old": "Biology co-chains at protein folding and morphogenesis. Chemistry co-chains at reaction-coordinate ensembles and environment-dependent structure. Medicine co-chains at conformational disease only where its own clinical and molecular observings enter.",
+  "new": "Biology co-chains with protein folding and morphogenesis. Chemistry co-chains with reaction-coordinate ensembles and environment-dependent structure. Medicine co-chains with conformational disease only where its own clinical and molecular observings enter.",
+  "verdict": "RESAY",
+  "why": "at, place: with. One pair for three parallel seam sentences."
+ },
+ {
+  "old": "This entry imports Hard Problem Registry 178 into ghost form without copying its hard-problem properties into new schema.",
+  "new": "Hard Problem Registry 178 enters this entry as ghost form, its hard-problem properties not copied to a new schema.",
+  "verdict": "RESAY",
+  "why": "doer, an entry importing: re-said as the record entering; into: as, to."
+ },
+ {
+  "old": "Compare the same protein under crystallography, NMR, cryo-EM, and single-molecule methods, keeping time and population windows attached. Find where a structure remains invariant across methods and where ensemble changes.",
+  "new": "Compare one same protein under crystallography, NMR, cryo-EM, and single-molecule methods, with time and population windows attached. Find where a structure remains invariant across methods and where its ensemble differs.",
+  "verdict": "RESAY",
+  "why": "the: one; keeping: with, by meaning; changes, no parity: differs."
+ },
+ {
+  "old": "## 5.5 The single catalytic transition-state stroke",
+  "new": "## 5.5 The single catalytic transition-state stroke",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**The observing.** Rate enhancement, specificity, mutation response",
+  "new": "**The observing.** Rate enhancement, specificity, mutation response",
+  "verdict": "KEEP",
+  "why": "Door form label, one observing per entry, kept."
+ },
+ {
+  "old": "Turnovers at their own times; rate constant carried by none. Observed **is**; where machine is installed striking at one rate, **is-not**.",
+  "new": "Turnovers each with its own timing; a rate constant carried by none. Observed **is**; where a machine is installed striking with one rate, **is-not**.",
+  "verdict": "RESAY",
+  "why": "at, time and place: with, by meaning."
+ },
+ {
+  "old": "Substrate on one side of crossing, product on the other.",
+  "new": "Substrate on one side of a crossing, product on its other side.",
+  "verdict": "RESAY",
+  "why": "the: its."
+ },
+ {
+  "old": "Acceleration arrives at coupling while enzyme stays and nothing is transported.",
+  "new": "Acceleration arrives with coupling while an enzyme stays and nothing is transported.",
+  "verdict": "RESAY",
+  "why": "at, place: with."
+ },
+ {
+  "old": "Transition-state ensemble is wide and no molecule occupies the one structure.",
+  "new": "Transition-state ensemble is wide and no molecule occupies its one drawn structure.",
+  "verdict": "RESAY",
+  "why": "the: its, naming the drawn structure."
+ },
+ {
+  "old": "Optimum is a product of changing rates and moves with temperature and pH.",
+  "new": "Optimum is a product of varying rates and moves with temperature and pH.",
+  "verdict": "RESAY",
+  "why": "changing, field rates with no parity: varying, by meaning."
+ },
+ {
+  "old": "**Observed.** Fails at 2, 7 and 9 — **state**; and at 3 and 6 — doer, possessor — **flow**.",
+  "new": "**Observed.** Fails with 2, 7 and 9 — **state**; and with 3 and 6 — doer, possessor — **flow**.",
+  "verdict": "RESAY",
+  "why": "at, place: with. doer kept: it names an installation diagnosed, G13."
+ },
+ {
+  "old": "Turnover society passes, arriving at TWENTY-FIVE 2.21, an enzyme observed at one turnover.",
+  "new": "Turnovers pass, arriving as TWENTY-FIVE 2.21, an enzyme observed with one turnover.",
+  "verdict": "RESAY",
+  "why": "society of turnovers, not selves: re-said by meaning as turnovers; at: as, with."
+ },
+ {
+  "old": "Transition-state theory and catalytic free-energy differences stand in field record; a 2025 study supplies evidence for a structurally wide transition-state ensemble in its studied system.",
+  "new": "Transition-state theory and catalytic free-energy differences stand as field record; a 2025 study supplies evidence for a structurally wide transition-state ensemble with its studied system.",
+  "verdict": "RESAY",
+  "why": "in: as, with, by meaning."
+ },
+ {
+  "old": "One study establishes neither the same breadth across every enzyme nor release of every mechanism.",
+  "new": "One study establishes neither that same breadth across every enzyme nor a dissolving of every mechanism.",
+  "verdict": "RESAY",
+  "why": "the: that; release: dissolving, for a form that leaves."
+ },
+ {
+  "old": "**Substrate and society.** Enzyme, substrate, solvent, ions and cofactors",
+  "new": "**Substrate and society.** Enzyme, substrate, solvent, ions and cofactors",
+  "verdict": "KEEP",
+  "why": "Entry form label, kept pending the label ASK at 5.4."
+ },
+ {
+  "old": "A representative transition configuration crosses from model and diagram into reaction as a single acting stroke.",
+  "new": "A representative transition configuration crosses from model and diagram to reaction as a single acting stroke.",
+  "verdict": "RESAY",
+  "why": "into: to."
+ },
+ {
+  "old": "Both, flow first: doer and possessor at 3 and 6; the one stroke, the one structure and optimum at 2, 7, 9.",
+  "new": "Both, flow first: doer and possessor with 3 and 6; one stroke, one structure and optimum with 2, 7, 9.",
+  "verdict": "RESAY",
+  "why": "at, place: with; the: removed. doer kept: it names an installation diagnosed."
+ },
+ {
+  "old": "**Living changing.** Enzyme, substrate, solvent, and reaction coordinates change together across an ensemble of configurations.",
+  "new": "**Living changing.** Enzyme, substrate, solvent, and reaction coordinates re-form together across an ensemble of configurations.",
+  "verdict": "RESAY",
+  "why": "change, field forming with no parity named: re-form. Label kept pending the label ASK at 5.4."
+ },
+ {
+  "old": "**Apparent not-changing.** One catalytic geometry",
+  "new": "**Apparent not-changing.** One catalytic geometry",
+  "verdict": "KEEP",
+  "why": "not-changing is an agreed word; label kept."
+ },
+ {
+  "old": "Representative state is installed as the one machine-stroke, and enzyme becomes agent acting on a passive substrate.",
+  "new": "Representative state is installed as the one machine-stroke, and enzyme becomes agent acting on a passive substrate.",
+  "verdict": "KEEP",
+  "why": "An installation's exact grammar stays marked, G13: the one, agent, acting are the ghost named."
+ },
+ {
+  "old": "(1) Enzyme, substrate, solvent, and reaction coordinate change together. (2) Kinetic, structural, and computational methods still that changing into an interpretable reaction path.",
+  "new": "(1) Enzyme, substrate, solvent, and reaction coordinate re-form together. (2) Kinetic, structural, and computational methods still that re-forming as an interpretable reaction path.",
+  "verdict": "RESAY",
+  "why": "change, changing, field forming: re-form, re-forming; into: as. Two linked line sentences, one pair."
+ },
+ {
+  "old": "(4) Representative is installed as one catalytic stroke and enzyme as its doer.",
+  "new": "(4) Representative is installed as one catalytic stroke and enzyme as its doer.",
+  "verdict": "KEEP",
+  "why": "doer names an installation diagnosed; its exact grammar stays marked, G13."
+ },
+ {
+  "old": "(6) A wide ensemble of near-equivalent configurations remains outward of single stroke in studied system.",
+  "new": "(6) A wide ensemble of near-equivalent configurations remains outward of a single stroke within its studied system.",
+  "verdict": "RESAY",
+  "why": "in, a part within its whole: within."
+ },
+ {
+  "old": "The sixth is not yet established across enzymes, so entry remains candidate rather than universal confirmation.",
+  "new": "The sixth is not yet established across enzymes, so entry remains candidate rather than universal confirmation.",
+  "verdict": "KEEP",
+  "why": "the: one and only sixth within its six lines, kept."
+ },
+ {
+  "old": "Premature closure at one geometry.",
+  "new": "Premature closure with one geometry.",
+  "verdict": "RESAY",
+  "why": "at, place: with."
+ },
+ {
+  "old": "Imposed affirmation where enzyme is assigned unilateral agency.",
+  "new": "Imposed affirmation where enzyme is assigned unilateral agency.",
+  "verdict": "KEEP",
+  "why": "agency names an installation diagnosed, G13."
+ },
+ {
+  "old": "Interior-reaching at active site as source. Value-pinning at one barrier height or state. Forced-choosing among ground-state, transition-state, electrostatic, and dynamic accounts. Space-enumerating at reaction-coordinate landscape.",
+  "new": "Interior-reaching with an active site as source. Value-pinning with one barrier height or state. Forced-choosing among ground-state, transition-state, electrostatic, and dynamic accounts. Space-enumerating with a reaction-coordinate landscape.",
+  "verdict": "RESAY",
+  "why": "at, place: with. One pair for four short signature sentences."
+ },
+ {
+  "old": "Within, enzyme conformations, substrate configurations, solvent responses, and energetic relations change. Across, enzyme couples with substrate, complex with solvent, experiment with trajectory, and reaction society with products. Catalysis belongs to the whole coupling.",
+  "new": "Within, enzyme conformations, substrate configurations, solvent responses, and energetic relations re-form. Across, enzyme couples with substrate, complex with solvent, experiment with trajectory, and reactants with products. Catalysis belongs to its whole coupling.",
+  "verdict": "RESAY",
+  "why": "change: re-form; reaction society, not selves: reactants, by meaning; the: its. Label before it kept pending the label ASK at 5.4."
+ },
+ {
+  "old": "Direct evidence that decisive catalysis in stated system occurs through one unique load-bearing geometry, with ensemble breadth irrelevant to rate, would break entry.",
+  "new": "Direct evidence that decisive catalysis within a stated system occurs through one unique load-bearing geometry, with ensemble breadth irrelevant to rate, would break entry.",
+  "verdict": "RESAY",
+  "why": "in, a part within its whole: within."
+ },
+ {
+  "old": "A field use explicitly treating transition state as a mathematical dividing surface rather than a little structure is not ghost at that use.",
+  "new": "A field use explicitly treating transition state as a mathematical dividing surface rather than a little structure is not ghost for that use.",
+  "verdict": "RESAY",
+  "why": "at: for, by meaning."
+ },
+ {
+  "old": "Beyond: Jara et al., “Wide transition-state ensemble as key component for enzyme catalysis,” eLife 13:RP93099, final version 2025.",
+  "new": "Field: Jara et al., “Wide transition-state ensemble as key component for enzyme catalysis,” eLife 13:RP93099, final version 2025.",
+  "verdict": "RESAY",
+  "why": "beyond: Field, the side its sources stand on, as Living names living files. Title and citation kept."
+ },
+ {
+  "old": "Enzyme and substrate co-offer through many accessible configurations; reaction changing carries through coupled ensemble.",
+  "new": "Enzyme and substrate co-offer through many accessible configurations; reaction parity-changing carries through a coupled ensemble.",
+  "verdict": "RESAY",
+  "why": "changing, substrate to product across a crossing, line 4's parity: parity-changing."
+ },
+ {
+  "old": "Active-site drawing remains an across-observing, with agency released from solitary doer into relational competency.",
+  "new": "Active-site drawing remains an across-observing, and a solitary doer's agency dissolves as relational competency.",
+  "verdict": "RESAY",
+  "why": "released: dissolves, a form that leaves; into: as. doer kept: it names an installation diagnosed."
+ },
+ {
+  "old": "**What the field already released.** Transition-state ensembles and free-energy surfaces are already plural. The strongest single-stroke wording is often pedagogical or diagrammatic rather than a claim of literal solitary geometry.",
+  "new": "**What the field already released.** Transition-state ensembles and free-energy surfaces are already plural. The strongest single-stroke wording is often pedagogical or diagrammatic rather than a claim of literal solitary geometry.",
+  "verdict": "KEEP",
+  "why": "Report label kept pending the label ASK at 5.4; the strongest is one and only within its set."
+ },
+ {
+  "old": "Chemistry co-chains at catalysis and reaction paths. Biology co-chains at active site, protein dynamics, and competency-with-no-controller. Medicine co-chains at enzyme inhibition only where drug, target, metabolism, and outcome observings enter.",
+  "new": "Chemistry co-chains with catalysis and reaction paths. Biology co-chains with active site, protein dynamics, and competency-with-no-controller. Medicine co-chains with enzyme inhibition only where drug, target, metabolism, and outcome observings enter.",
+  "verdict": "RESAY",
+  "why": "at, place: with. One pair for three parallel seam sentences."
+ },
+ {
+  "old": "using the same observable and perturbation.",
+  "new": "using one same observable and perturbation.",
+  "verdict": "RESAY",
+  "why": "the: one."
+ },
+ {
+  "old": "## 5.6 Minimal residual disease",
+  "new": "## 5.6 Minimal residual disease",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "Malignant cells counted in a sample by an assay to its limit, and course that follows;",
+  "new": "Malignant cells counted within a sample by an assay to its limit, and a course that follows;",
+  "verdict": "RESAY",
+  "why": "in, cells a part within a sample: within. sample is medicine's own specimen, kept."
+ },
+ {
+  "old": "Resolved to an assay's limit, and not below: at the limit grain is explicit.",
+  "new": "Resolved to an assay's limit, and not below: with its limit, grain is explicit.",
+  "verdict": "RESAY",
+  "why": "at, place: with; the: its."
+ },
+ {
+  "old": "Each clone at its own growth; level carried by none.",
+  "new": "Each clone with its own growth; a level carried by none.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "**4 · parity.** Empty at this grain.\n**5 · passing.** What arrives at assay is sample, not disease.",
+  "new": "**4 · parity.** Empty with this grain.\n**5 · passing.** What arrives to an assay is a sample, not disease.",
+  "verdict": "RESAY",
+  "why": "at: with, to. Two door lines in one pair, as Empty at this grain recurs. sample is medicine's own specimen, kept."
+ },
+ {
+  "old": "where *minimal* posted remainder as small, **is-not**, and the field released it.",
+  "new": "where *minimal* posted remainder as small, **is-not**, and its field dissolved it.",
+  "verdict": "RESAY",
+  "why": "released: dissolved, a word that leaves; the: its. *minimal* a word mentioned, kept."
+ },
+ {
+  "old": "where a line is installed in patient, **is-not**, released.",
+  "new": "where a line is installed within a patient, **is-not**, dissolved.",
+  "verdict": "RESAY",
+  "why": "in: within; released: dissolved, a form that leaves."
+ },
+ {
+  "old": "Longitudinal course reaches past sample.",
+  "new": "Longitudinal course reaches past sample.",
+  "verdict": "KEEP",
+  "why": "sample is medicine's own specimen, a field term in its own sense."
+ },
+ {
+  "old": "Fails at 8 and 9 — posted absence, floor — **state**, and the field withdrew both.",
+  "new": "Fails with 8 and 9 — posted absence, floor — **state**, and its field withdrew both.",
+  "verdict": "RESAY",
+  "why": "at, place: with; the: its."
+ },
+ {
+  "old": "Line 1 stands possibling below limit, which blocks patient–clone society from passing and blocks no catch.",
+  "new": "Line 1 stands possibling below a limit, which blocks a patient–clone same-existing-society from passing and blocks no catch.",
+  "verdict": "RESAY",
+  "why": "society, a patient and its clones, living selves: same-existing-society."
+ },
+ {
+  "old": "**Standing.** Released by the field. European LeukemiaNet",
+  "new": "**Standing.** Released by the field. European LeukemiaNet",
+  "verdict": "KEEP",
+  "why": "The standing's name set at 3.1, kept pending the released-by-the-field ASK at 5.4."
+ },
+ {
+  "old": "**Substrate and society.** Patient, malignant cell populations, sample",
+  "new": "**Substrate and society.** Patient, malignant cell populations, sample",
+  "verdict": "KEEP",
+  "why": "Entry form label kept pending the label ASK at 5.4; sample medicine's own term."
+ },
+ {
+  "old": "Installing released by renaming.",
+  "new": "Installing dissolved by renaming.",
+  "verdict": "RESAY",
+  "why": "released: dissolved, a form that leaves."
+ },
+ {
+  "old": "An assay-relative magnitude had crossed into a patient's course through adjective *minimal*;",
+  "new": "An assay-relative magnitude had crossed to a patient's course through adjective *minimal*;",
+  "verdict": "RESAY",
+  "why": "into: to."
+ },
+ {
+  "old": "State, released: posted absence and floor at 8 and 9.",
+  "new": "State, dissolved: posted absence and floor with 8 and 9.",
+  "verdict": "RESAY",
+  "why": "released: dissolved; at: with."
+ },
+ {
+  "old": "Measurable residual disease is a biomarker for prognosis relations, monitoring, and response assessment in leukemia.",
+  "new": "Measurable residual disease is a biomarker for prognosis relations, monitoring, and response assessment in leukemia.",
+  "verdict": "KEEP",
+  "why": "Field account, a field's own words."
+ },
+ {
+  "old": "Molecular and flow-cytometric signals, cell counts, sample type, detection thresholds, change across treatment,",
+  "new": "Molecular and flow-cytometric signals, cell counts, sample type, detection thresholds, change across treatment,",
+  "verdict": "KEEP",
+  "why": "Field observings retained, a field's own measurements."
+ },
+ {
+  "old": "Malignant populations expand, contract, differ among compartments, evolve, and cross assay detection thresholds during and after treatment.",
+  "new": "Malignant populations expand, contract, differ among compartments, evolve, and cross assay detection thresholds during and after treatment.",
+  "verdict": "KEEP",
+  "why": "Living changing label kept pending the label ASK at 5.4; sentence carries no word to re-say."
+ },
+ {
+  "old": "One positive/negative category or numerical threshold at one sampling time.",
+  "new": "One positive/negative category or numerical threshold with one sampling time.",
+  "verdict": "RESAY",
+  "why": "at, time: with. sampling is medicine's own specimen-taking, kept."
+ },
+ {
+  "old": "Sampling site, assay target, sensitivity, background,",
+  "new": "Sampling site, assay target, sensitivity, background,",
+  "verdict": "KEEP",
+  "why": "Sampling site is medicine's own term."
+ },
+ {
+  "old": "*Minimal* installed an assay-relative remainder as a smallest amount in patient. Newer *measurable* naming keeps observing between attached.",
+  "new": "*Minimal* installed an assay-relative remainder as a smallest amount within a patient. With newer *measurable* naming, observing between remains attached.",
+  "verdict": "RESAY",
+  "why": "in: within; keeps, a naming doing: re-said as its observing between remaining attached."
+ },
+ {
+  "old": "Disease below detection, disease elsewhere than sample, clonal change, assay variation, and longitudinal course.",
+  "new": "Disease below detection, disease elsewhere than sample, clonal re-forming, assay variation, and longitudinal course.",
+  "verdict": "RESAY",
+  "why": "change, clones with no parity named: re-forming."
+ },
+ {
+  "old": "(1) Patient and malignant population keep changing.",
+  "new": "(1) Patient and malignant population go on re-forming.",
+  "verdict": "RESAY",
+  "why": "keep changing: go on re-forming, nothing held."
+ },
+ {
+  "old": "(2) Sampling and assay still one time and compartment for observing.",
+  "new": "(2) Sampling and assay still one time and compartment for observing.",
+  "verdict": "KEEP",
+  "why": "Sampling is medicine's own specimen-taking, kept."
+ },
+ {
+  "old": "(5) Relapse associations and serial differences close account at its clinical between.",
+  "new": "(5) Relapse associations and serial differences close account with its clinical between.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "A field's renaming releases line 4 while keeping the other five.",
+  "new": "With a field's renaming, line 4 dissolves and its other five stay.",
+  "verdict": "RESAY",
+  "why": "releases: dissolves; keeping: stay; the: its; a renaming doing re-said as line 4 dissolving."
+ },
+ {
+  "old": "Premature closure at one negative result.",
+  "new": "Premature closure with one negative result.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Across, patient couples with sampling, sample with assay, assay with clinician, and clinical society with a patient's next course.",
+  "new": "Across, patient couples with sampling, sample with assay, assay with clinician, and a clinic's same-existing-society with a patient's next course.",
+  "verdict": "RESAY",
+  "why": "society, clinicians and patient, living selves: same-existing-society. Label before it kept pending the label ASK at 5.4."
+ },
+ {
+  "old": "Longitudinal coupling must carry strong MRD–outcome association and differing outcomes at similar MRD. Clinically discriminating thresholds remain in field record.",
+  "new": "Longitudinal coupling must carry strong MRD–outcome association and differing outcomes with similar MRD. Clinically discriminating thresholds remain as field record.",
+  "verdict": "RESAY",
+  "why": "at: with; in: as."
+ },
+ {
+  "old": "Beyond: European LeukemiaNet MRD Working Party 2018 and 2021 consensus documents.",
+  "new": "Field: European LeukemiaNet MRD Working Party 2018 and 2021 consensus documents.",
+  "verdict": "RESAY",
+  "why": "beyond: Field, the side its sources stand on, as Living names living files. Citation kept."
+ },
+ {
+  "old": "Disease changing, sample, assay, and treatment course form one longitudinal society. A measurement is one parity at one between.",
+  "new": "Disease re-forming, sample, assay, and treatment course form one longitudinal coupling. A measurement is one parity with one between.",
+  "verdict": "RESAY",
+  "why": "changing, no parity named: re-forming; society, of sample and assay, not selves: coupling; at: with."
+ },
+ {
+  "old": "*Measurable* retains assay between in naming; *minimal* installs magnitude in patient.",
+  "new": "*Measurable* retains an assay between within its naming; *minimal* installs magnitude within a patient.",
+  "verdict": "RESAY",
+  "why": "in: within. Words mentioned as words kept."
+ },
+ {
+  "old": "Its name itself. Formal clinical consensus carries release at medicine's own between.",
+  "new": "Its name itself. Formal clinical consensus carries a dissolving with medicine's own between.",
+  "verdict": "RESAY",
+  "why": "release: dissolving; at: with. Label before it kept pending the label ASK at 5.4."
+ },
+ {
+  "old": "Natural Naming co-chains at an affix installing a magnitude.",
+  "new": "Natural Naming co-chains with an affix installing a magnitude.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Societies co-chains classification power only after field observings of clinical consequences.",
+  "new": "Societies co-chains classification power only after field observings of clinical consequences.",
+  "verdict": "KEEP",
+  "why": "Societies is a living file's title, Natural Societies, kept."
+ },
+ {
+  "old": "A field's self-correction becomes a positive control for the registry form.",
+  "new": "A field's self-correction becomes a positive control for this registry's form.",
+  "verdict": "RESAY",
+  "why": "the: this, its."
+ },
+ {
+  "old": "They are the hardest arrivals at threshold.",
+  "new": "They are the hardest arrivals with a threshold.",
+  "verdict": "RESAY",
+  "why": "at: with; the hardest, one only within its set, kept."
+ },
+ {
+  "old": "## 5.7 Diagnostic code as the disease",
+  "new": "## 5.7 Diagnostic code as the disease",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**The observing.** Criteria met, a code assigned",
+  "new": "**The observing.** Criteria met, a code assigned",
+  "verdict": "KEEP",
+  "why": "Door form label, one observing per entry, kept."
+ },
+ {
+  "old": "Patients within a category resolved as unlike in course and mechanism.",
+  "new": "Patients within a category resolved as differing by course and mechanism.",
+  "verdict": "RESAY",
+  "why": "in: by, by meaning."
+ },
+ {
+  "old": "Each course at its own rate; a category's prognosis carried by none. Observed **is**; where average is installed as a patient's own course, **is-not**.",
+  "new": "Each course with its own rate; a category's prognosis carried by none. Observed **is**; where average is installed as a patient's own course, **is-not**.",
+  "verdict": "RESAY",
+  "why": "at: with. average kept: it names the field's accounting diagnosed as installed."
+ },
+ {
+  "old": "Clinician and patient each changed at encounter.",
+  "new": "Clinician and patient each parity-changed with an encounter.",
+  "verdict": "RESAY",
+  "why": "changed, two selves each offered across both ways: parity-changed; at: with."
+ },
+ {
+  "old": "**4 · parity.** Empty at this grain.\n**5 · passing.** Address travels between systems and person stays. Observed **is** at declared use;",
+  "new": "**4 · parity.** Empty with this grain.\n**5 · passing.** Address travels between systems and person stays. Observed **is** with declared use;",
+  "verdict": "RESAY",
+  "why": "at: with. Two door lines in one pair, as Empty at this grain recurs."
+ },
+ {
+  "old": "**6 · abundancing.** Empty at this grain.",
+  "new": "**6 · abundancing.** Empty with this grain.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "where record closes at code with uncoded dropped",
+  "new": "where a record closes on a code, uncoded dropped",
+  "verdict": "RESAY",
+  "why": "at: on, by meaning."
+ },
+ {
+  "old": "Observed **is-not** with nothing installed: accounting at declared use.",
+  "new": "Observed **is-not** with nothing installed: accounting for a declared use.",
+  "verdict": "RESAY",
+  "why": "at: for, by meaning."
+ },
+ {
+  "old": "**Observed.** Fails at 2, 7, 8 and 9 — **state**; and at 3 and 5 — cause, traveller — **flow**.",
+  "new": "**Observed.** Fails with 2, 7, 8 and 9 — **state**; and with 3 and 5 — cause, traveller — **flow**.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "At declared use, accounting at every line. Clinic society stands possibling at 4 and 6.",
+  "new": "With declared use, accounting with every line. A clinic's same-existing-society stands possibling with 4 and 6.",
+  "verdict": "RESAY",
+  "why": "at: with; society, clinicians and patients, living selves: same-existing-society."
+ },
+ {
+  "old": "A diagnostic or classification code, when installed as the whole disease or the whole person rather than used as a standard address for a stated purpose.",
+  "new": "A diagnostic or classification code, when installed as the whole disease or the whole person rather than used as a standard address for a stated purpose.",
+  "verdict": "KEEP",
+  "why": "the whole disease, the whole person name the installation's own one-only claim; its exact grammar stays marked, G13."
+ },
+ {
+  "old": "Candidate at installation. Accounting at its declared statistical and communicative use.",
+  "new": "Candidate with installation. Accounting with its declared statistical and communicative use.",
+  "verdict": "RESAY",
+  "why": "at: with. statistical kept: WHO's own declared purpose for ICD, a field's own term."
+ },
+ {
+  "old": "**Substrate and society.** Patient, clinician, diagnostic criteria, health record, treatment system, population statistics",
+  "new": "**Substrate and society.** Patient, clinician, diagnostic criteria, health record, treatment system, population statistics",
+  "verdict": "KEEP",
+  "why": "Entry form label kept pending the label ASK at 5.4; population statistics a field's own practice."
+ },
+ {
+  "old": "haunting where a code remains active after its supporting relation changes; accounting at its declared use otherwise.",
+  "new": "haunting where a code remains active after its supporting relation dissolves; accounting with its declared use otherwise.",
+  "verdict": "RESAY",
+  "why": "changes, a relation that leaves: dissolves; at: with."
+ },
+ {
+  "old": "Both: average, identity, closed record and line at 2, 7, 8, 9; cause and traveller at 3 and 5.",
+  "new": "Both: average, identity, closed record and line with 2, 7, 8, 9; cause and traveller with 3 and 5.",
+  "verdict": "RESAY",
+  "why": "at: with. average kept: it names an installation diagnosed."
+ },
+ {
+  "old": "A person's physiology, experience, environment, treatment, and course change at different rates. Criteria and classifications also change across revisions.",
+  "new": "A person's physiology, experience, environment, treatment, and course re-form with different rates. Criteria and classifications also differ across revisions.",
+  "verdict": "RESAY",
+  "why": "change, no parity named: re-form, differ; at: with. Label before it kept pending the label ASK at 5.4."
+ },
+ {
+  "old": "One code persists in a record and makes heterogeneous courses comparable.",
+  "new": "One code persists within a record, and heterogeneous courses become comparable with it.",
+  "verdict": "RESAY",
+  "why": "in: within; a code making, a doer: re-said as courses becoming comparable."
+ },
+ {
+  "old": "Code becomes disease entity and disease entity becomes a person's identity, projected course, or one causal doer.",
+  "new": "Code becomes disease entity and disease entity becomes a person's identity, projected course, or one causal doer.",
+  "verdict": "KEEP",
+  "why": "doer names an installation diagnosed; its exact grammar stays marked, G13."
+ },
+ {
+  "old": "A field observing must mark this move in a specific practice; classification, at its own, entails none.",
+  "new": "A field observing must mark this move within a specific practice; classification, by itself, entails none.",
+  "verdict": "RESAY",
+  "why": "in: within; at its own: by itself."
+ },
+ {
+  "old": "Heterogeneity within category, comorbidity, changing course, uncoded lived experience, context, and departures from average prognosis.",
+  "new": "Heterogeneity within category, comorbidity, re-forming course, uncoded lived experience, context, and departures from average prognosis.",
+  "verdict": "RESAY",
+  "why": "changing, no parity named: re-forming. average prognosis kept, a field's own accounting."
+ },
+ {
+  "old": "(1) Physiology, lived experience, treatment, and disease course change.",
+  "new": "(1) Physiology, lived experience, treatment, and disease course re-form.",
+  "verdict": "RESAY",
+  "why": "change: re-form."
+ },
+ {
+  "old": "(4) Installation as the whole disease or person requires a specific observed use and is empty, existing, at general entry.",
+  "new": "(4) Installation as whole disease or person requires a specific observed use and is empty, existing, with general entry.",
+  "verdict": "RESAY",
+  "why": "the: removed; at: with."
+ },
+ {
+  "old": "(5) Classification ledger closes across care, statistics, and administration.",
+  "new": "(5) Classification ledger closes across care, statistics, and administration.",
+  "verdict": "KEEP",
+  "why": "statistics names health statistics, a field's own practice, as a ledger domain."
+ },
+ {
+  "old": "(6) Heterogeneity, comorbidity, context, and course are candidate remainders tied to use at line 4.",
+  "new": "(6) Heterogeneity, comorbidity, context, and course are candidate remainders tied to use with line 4.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Possible false inclusion and false exclusion at diagnostic boundaries; premature closure at code assignment; tradition blocking when revision is resisted.",
+  "new": "Candidate false inclusion and false exclusion with diagnostic boundaries; premature closure with code assignment; tradition blocking when revision is resisted.",
+  "verdict": "RESAY",
+  "why": "possible: candidate, the registry's own standing for a position not yet observed; at: with."
+ },
+ {
+  "old": "**Eight-side society.** Within person, physiology, experience, history, and response re-form.",
+  "new": "**Eight-side society.** Within person, physiology, experience, history, and response re-form.",
+  "verdict": "KEEP",
+  "why": "Entry form label kept pending the label ASK at 5.4."
+ },
+ {
+  "old": "Any use that keeps code visibly as an address for a stated purpose and returns to a person's changing has no installation and is accounting at that use.",
+  "new": "Any use with a code visibly an address for a stated purpose, returning to a person's living course, has no installation and is accounting for that use.",
+  "verdict": "RESAY",
+  "why": "keeps: with; changing, a person's living: living course; at: for."
+ },
+ {
+  "old": "Loss of precision or concealment of a reproducible disease mechanism breaks release.",
+  "new": "Loss of precision or concealment of a reproducible disease mechanism breaks that dissolving.",
+  "verdict": "RESAY",
+  "why": "release: dissolving, a form that leaves."
+ },
+ {
+  "old": "Beyond: WHO ICD-11 classification pages and Reference Guide.",
+  "new": "Field: WHO ICD-11 classification pages and Reference Guide.",
+  "verdict": "RESAY",
+  "why": "beyond: Field, the side its sources stand on, as Living names living files. Citation kept."
+ },
+ {
+  "old": "Encounter re-forms use at each turn.",
+  "new": "Encounter re-forms use with each turn.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "ICD states its statistical and communicative purposes. Multiple parenting and purpose-specific linearizations in ICD-11 already resist idea that every entity has only one natural place.",
+  "new": "ICD states its statistical and communicative purposes. Multiple parenting and purpose-specific linearizations within ICD-11 already resist idea that every entity has only one natural place.",
+  "verdict": "RESAY",
+  "why": "in: within. statistical kept, ICD's own stated purpose. Label before it kept pending the label ASK at 5.4."
+ },
+ {
+  "old": "Medicine, Health, Human Society, Societies, Naming, and the File Registry.",
+  "new": "Medicine, Health, Human Society, Societies, Naming, and the File Registry.",
+  "verdict": "KEEP",
+  "why": "Living files' titles kept; the File Registry, one only."
+ },
+ {
+  "old": "Find a documented case where code assignment changed access, treatment, self-understanding, and subsequent observing.",
+  "new": "Find a documented case where a person's access, treatment, self-understanding, and subsequent observing differed after code assignment.",
+  "verdict": "RESAY",
+  "why": "changed, a code assignment doing: re-said as a person's course differing after it."
+ },
+ {
+  "old": "## 5.8 Proton",
+  "new": "## 5.8 Proton",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "Detector events and form factors at nucleon; count at atom; conductivity and isotope effects in water; its sum is label at three uses;",
+  "new": "Detector events and form factors with nucleon; count with atom; conductivity and isotope effects of water; its sum is label with three uses;",
+  "verdict": "RESAY",
+  "why": "at: with; in: of, by meaning."
+ },
+ {
+  "old": "Probe resolves partons whose number changes with a probe's scale; water chain resolves to its members at TWENTY-FIVE 2.3.",
+  "new": "Probe resolves partons whose number differs with a probe's scale; water chain resolves to its members, entered as TWENTY-FIVE 2.3.",
+  "verdict": "RESAY",
+  "why": "changes, a count with no parity: differs; at a file's section: entered as."
+ },
+ {
+  "old": "Mass stands at a coupling's own scale; mobility at a chain's, carried by no water.",
+  "new": "Mass stands with a coupling's own scale; mobility with a chain's, carried by no water.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Colour coupling exchanges both ways; in water transfer is carried both ways with reverting above continuing.",
+  "new": "Colour coupling exchanges both ways; within water, transfer is carried both ways with reverting above continuing.",
+  "verdict": "RESAY",
+  "why": "in: within, a transfer a part within water."
+ },
+ {
+  "old": "At a transfer donor becomes acceptor, positions kept.",
+  "new": "With a transfer, donor becomes acceptor, positions unmoved.",
+  "verdict": "RESAY",
+  "why": "at: with; kept, positions staying: unmoved, by meaning."
+ },
+ {
+  "old": "Deuteron label does not arrive at far end; identical protons take no label.",
+  "new": "Deuteron label does not arrive to a far end; identical protons take no label.",
+  "verdict": "RESAY",
+  "why": "at, place: to."
+ },
+ {
+  "old": "Mass is at coupling, parts' rest masses near one per cent.",
+  "new": "Mass is with coupling, parts' rest masses near one per cent.",
+  "verdict": "RESAY",
+  "why": "at: with. one per cent a field's measurement, kept."
+ },
+ {
+  "old": "**Observed.** Fails at 6, 7, 8 and 9 — **state**; and at 3, 5 and 10 — mover, ball, fast thing — **flow**.",
+  "new": "**Observed.** Fails with 6, 7, 8 and 9 — **state**; and with 3, 5 and 10 — mover, ball, fast thing — **flow**.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Water chain has passed and stands at TWENTY-FIVE 2.3; the door record for it is at 7.8.",
+  "new": "Water chain has passed and stands as TWENTY-FIVE 2.3; its door record is 7.8.",
+  "verdict": "RESAY",
+  "why": "at a file's section: as; the: its."
+ },
+ {
+  "old": "**Name and use.** Proton, at three uses:",
+  "new": "**Name and use.** Proton, with three uses:",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Confirmed · natural register at three installations. Emanation at natural side, what colour cycling lands at a between it reaches.",
+  "new": "Confirmed · natural register with three installations. Emanation on natural side, what colour cycling lands with a between it reaches.",
+  "verdict": "RESAY",
+  "why": "at: with, on."
+ },
+ {
+  "old": "Label, charge, mass, spin, baryon number, form factors, parton distributions, detector events and Z-addressing remain in physics and chemistry records.",
+  "new": "Label, charge, mass, spin, baryon number, form factors, parton distributions, detector events and Z-addressing remain as physics and chemistry records.",
+  "verdict": "RESAY",
+  "why": "in: as."
+ },
+ {
+  "old": "Atom: nucleus and electrons, a nucleus's bounding kept whole by chemistry.",
+  "new": "Atom: nucleus and electrons, a nucleus's bounding taken as whole by chemistry.",
+  "verdict": "RESAY",
+  "why": "kept: taken as, by meaning, nothing held. Label before it kept pending the label ASK at 5.4."
+ },
+ {
+  "old": "Installing, at each of three uses.",
+  "new": "Installing, with each of three uses.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Both: interior, posted share and stability at 6, 7, 8, 9; mover, ball and fast thing at 3, 5, 10.",
+  "new": "Both: interior, posted share and stability with 6, 7, 8, 9; mover, ball and fast thing with 3, 5, 10.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "H⁺ in chemistry the hydrogen nucleus transferred in acid–base reactions, standing in solution as hydronium and Eigen and Zundel cations;",
+  "new": "H⁺ in chemistry the hydrogen nucleus transferred in acid–base reactions, standing in solution as hydronium and Eigen and Zundel cations;",
+  "verdict": "KEEP",
+  "why": "Field account, a field's own words."
+ },
+ {
+  "old": "Detector events at +e; elastic form factors; Lamb shift in ordinary and muonic hydrogen;",
+  "new": "Detector events at +e; elastic form factors; Lamb shift in ordinary and muonic hydrogen;",
+  "verdict": "KEEP",
+  "why": "Field observings retained, a field's own measurements."
+ },
+ {
+  "old": "nucleon interconversion in β-decay; pair production and annihilation; pH, conductivity and anomalous mobility of excess proton in water;",
+  "new": "nucleon interconversion in β-decay; pair production and annihilation; pH, conductivity and anomalous mobility of excess proton in water;",
+  "verdict": "KEEP",
+  "why": "Field observings retained, a field's own measurements."
+ },
+ {
+  "old": "Quarks and gluons couple continuously and confinement releases at no turn; nucleons interconvert at weak coupling;",
+  "new": "Quarks and gluons couple continuously and confinement dissolves with no turn; nucleons interconvert with weak coupling;",
+  "verdict": "RESAY",
+  "why": "releases: dissolves; at: with. Label before it kept pending the label ASK at 5.4."
+ },
+ {
+  "old": "hydrogen-bond network re-forms bond by bond; a charge lands at far between.",
+  "new": "hydrogen-bond network re-forms bond by bond; a charge lands with a far between.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "**Apparent not-changing.** A fixed charge, mass, spin",
+  "new": "**Apparent not-changing.** A fixed charge, mass, spin",
+  "verdict": "KEEP",
+  "why": "not-changing is an agreed word; label kept."
+ },
+ {
+  "old": "Mass belongs to coupling, quark rest masses near one per cent of it and the rest split differently under different accountings.",
+  "new": "Mass belongs to coupling, quark rest masses near one per cent of it and the rest split differently under different accountings.",
+  "verdict": "KEEP",
+  "why": "the rest, one and only remainder, kept; one per cent a field's measurement."
+ },
+ {
+  "old": "A spin's shares are an accounting's, splitting possible and unique at no gauge (Hard Problem Registry 183; TWENTY-TWO 6.16).",
+  "new": "A spin's shares are an accounting's: a splitting is made with each gauge and is unique with none (Hard Problem Registry 183; TWENTY-TWO 6.16).",
+  "verdict": "RESAY",
+  "why": "possible: re-said by meaning, a splitting made; at: with."
+ },
+ {
+  "old": "H⁺ stands at every chemical between as a hydrated cluster,",
+  "new": "H⁺ stands with every chemical between as a hydrated cluster,",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "proton number changes at every weak coupling and baryon number is kept to a bound. Decay is a last fixed in time (TWENTY-TWO 3.33).",
+  "new": "proton number shifts with every weak coupling and baryon number is conserved to a bound. Decay is a last fixed on a timeline (TWENTY-TWO 3.33).",
+  "verdict": "RESAY",
+  "why": "changes, a count: shifts; at: with; kept: conserved, physics' own term; in: on, by meaning."
+ },
+ {
+  "old": "(2) A detector, a probe scale, a decomposition, an electrode still that changing into one observing.",
+  "new": "(2) A detector, a probe scale, a decomposition, an electrode still that re-forming as one observing.",
+  "verdict": "RESAY",
+  "why": "changing, no parity named: re-forming; into: as."
+ },
+ {
+  "old": "re-forming crossing and interconverting nucleon remain the riding-the-carry owner leaves uncarried.",
+  "new": "re-forming crossing and interconverting nucleon remain riding-the-carry, uncarried by an owner.",
+  "verdict": "RESAY",
+  "why": "the: removed; riding-the-carry, a kept naming, kept."
+ },
+ {
+  "old": "Premature closure at little owner. False inclusion where a ball is placed going from one between to another in water. Forced choosing at wave or particle.",
+  "new": "Premature closure with a little owner. False inclusion where a ball is placed going from one between to another through water. Forced choosing between wave and particle.",
+  "verdict": "RESAY",
+  "why": "at: with, between; in: through, by meaning."
+ },
+ {
+  "old": "Store-seeking at charge as possession. Interior-reaching at three quarks as content. Magnitude-demanding at spin shares. Order-demanding at a continuous path through water. Space-enumerating at decay fixed as a last in time.",
+  "new": "Store-seeking with charge as possession. Interior-reaching with three quarks as content. Magnitude-demanding with spin shares. Order-demanding with a continuous path through water. Space-enumerating with decay fixed as a last on a timeline.",
+  "verdict": "RESAY",
+  "why": "at: with; in: on, by meaning. One pair for five short signature sentences."
+ },
+ {
+  "old": "At betweens: coupling to probe, to electron cloud, to water network, to detector and ledger.",
+  "new": "Across betweens: coupling to probe, to electron cloud, to water network, to detector and ledger.",
+  "verdict": "RESAY",
+  "why": "at: across, an eight-side's across sides. Label before it kept pending the label ASK at 5.4."
+ },
+ {
+  "old": "or a bare H⁺ resident at a chemical between;",
+  "new": "or a bare H⁺ resident with a chemical between;",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Alternating coupling carries the one arrival and distribution,",
+  "new": "Alternating coupling carries one arrival and its distribution,",
+  "verdict": "RESAY",
+  "why": "the: removed, its."
+ },
+ {
+  "old": "Living: Natural Physics at its strong-force observing;",
+  "new": "Living: Natural Physics with its strong-force observing;",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "TWENTY-TWO 6.16, 3.33. Beyond, for fetch:",
+  "new": "TWENTY-TWO 6.16, 3.33. Field, for fetch:",
+  "verdict": "RESAY",
+  "why": "beyond: Field, the side its sources stand on, as Living names living files. Citations and titles after it kept."
+ },
+ {
+  "old": "Proton is what colour cycling lands at a between it reaches: charge the parity, mass a coupling's own, spin one half taken at its turn. In water crossing is coupling re-forming.",
+  "new": "Proton is what colour cycling lands with a between it reaches: charge its parity, mass a coupling's own, spin one half taken with its turn. Through water, crossing is coupling re-forming.",
+  "verdict": "RESAY",
+  "why": "at: with; the: its; in: through, by meaning."
+ },
+ {
+  "old": "Composite structure with mass in binding; scale dependence of interior; partition dependence of spin; hydrated proton in solution and a re-forming mechanism of its motion; decay bound stated as a bound.",
+  "new": "Composite structure with mass in binding; scale dependence of interior; partition dependence of spin; hydrated proton in solution and a re-forming mechanism of its motion; decay bound stated as a bound.",
+  "verdict": "KEEP",
+  "why": "A field's own records in its own words: mass in binding, in solution. Label before it kept pending the label ASK at 5.4."
+ },
+ {
+  "old": "Physics at substrate one. Chemistry at carbon's proton count, a pump's potential difference, water's crossing, a buffer's proton-taking and proton-giving. Naming at *emanation*.",
+  "new": "Physics with substrate one. Chemistry with carbon's proton count, a pump's potential difference, water's crossing, a buffer's proton-taking and proton-giving. Naming with *emanation*.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "The second particle ghost, with its emanation placed before its natural return, and the first at which the field itself finds an interior's content living at coupling.",
+  "new": "The second particle ghost, with its emanation placed before its natural return, and the first with which its field itself finds an interior's content living with coupling.",
+  "verdict": "RESAY",
+  "why": "at: with; the field: its field. The second, the first: one only within their set, kept."
+ },
+ {
+  "old": "keeping mechanism, isotope, window and resolution attached.",
+  "new": "with mechanism, isotope, window and resolution attached.",
+  "verdict": "RESAY",
+  "why": "keeping: with, by meaning."
+ },
+ {
+  "old": "## 5.9 Element",
+  "new": "## 5.9 Element",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**The observing.** A proton count, addresses, substances",
+  "new": "**The observing.** A proton count, addresses, substances",
+  "verdict": "KEEP",
+  "why": "Door form label, one observing per entry, kept."
+ },
+ {
+  "old": "One count resolves into many nuclides, allotropes and states.",
+  "new": "One count resolves as many nuclides, allotropes and states.",
+  "verdict": "RESAY",
+  "why": "into: as."
+ },
+ {
+  "old": "Each nuclide decays at its own rate under one address.",
+  "new": "Each nuclide decays with its own rate under one address.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "One count carries opposite parities at different couplings.",
+  "new": "One count carries opposite parities with different couplings.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Count arrives exactly through every compound: a conserved label, accounting at chemical between.",
+  "new": "Count arrives exactly through every compound: a conserved label, accounting with a chemical between.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "where exceptions are discarded to keep table perfect",
+  "new": "where exceptions are discarded so a table stays perfect",
+  "verdict": "RESAY",
+  "why": "keep: stays, by meaning."
+ },
+ {
+  "old": "Z changes at nuclear coupling; a conservation's between is the chemical one.",
+  "new": "Z shifts with nuclear coupling; a conservation's between is a chemical one.",
+  "verdict": "RESAY",
+  "why": "changes, a count: shifts; at: with; the: a."
+ },
+ {
+  "old": "**Observed.** Fails at 2, 6, 7, 8 and 9 — **state**; and at 3 and 10 — bonder, source — **flow**.",
+  "new": "**Observed.** Fails with 2, 6, 7, 8 and 9 — **state**; and with 3 and 10 — bonder, source — **flow**.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Count and addresses stand as accounting at 5 and 10 with nothing installed, as 6.2 already places them.",
+  "new": "Count and addresses stand as accounting with 5 and 10, nothing installed, as already placed with 6.2.",
+  "verdict": "RESAY",
+  "why": "at: with; a section placing, a doer: re-said as already placed."
+ },
+ {
+  "old": "as a cause the table installs, or as a thing conserved beyond a between its conservation was declared under.",
+  "new": "as a cause a table installs, or as a thing conserved past a between its conservation was declared under.",
+  "verdict": "RESAY",
+  "why": "the: a; beyond: past. a table installs is the installation's own grammar, G13."
+ },
+ {
+  "old": "Confirmed · natural register at those installations. Accounting at natural side, count and address, chemistry made at couplings. Atomic number as proton count, class, addresses, and a field's two senses of word remain in chemistry record.",
+  "new": "Confirmed · natural register with those installations. Accounting on natural side, count and address, chemistry made with couplings. Atomic number as proton count, class, addresses, and a field's two senses of word remain as chemistry record.",
+  "verdict": "RESAY",
+  "why": "at: with, on; in: as."
+ },
+ {
+  "old": "Nucleus and electrons at atom; atoms at molecule and substance; table, nomenclature, and chartered body.",
+  "new": "Nucleus and electrons with an atom; atoms with molecule and substance; table, nomenclature, and chartered body.",
+  "verdict": "RESAY",
+  "why": "at: with. Label before it kept pending the label ASK at 5.4."
+ },
+ {
+  "old": "Both, state first: stability, interior and absolute conservation at 2, 6, 7, 8, 9; bonder and source at 3 and 10.",
+  "new": "Both, state first: stability, interior and absolute conservation with 2, 6, 7, 8, 9; bonder and source with 3 and 10.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "The field defines element in two senses under one word, a species of atoms with the same number of protons and pure substance composed of such atoms, Paneth's basic substance and simple substance.",
+  "new": "The field defines element in two senses under one word, a species of atoms with the same number of protons and pure substance composed of such atoms, Paneth's basic substance and simple substance.",
+  "verdict": "KEEP",
+  "why": "Field account, a field's own definition in its own words."
+ },
+ {
+  "old": "few-atom syntheses of the heaviest elements;",
+  "new": "few-atom syntheses of the heaviest elements;",
+  "verdict": "KEEP",
+  "why": "Field observings retained, a field's own words."
+ },
+ {
+  "old": "Stoichiometry, atomic weights, conservation of elements across chemical change, periodic table, nomenclature.",
+  "new": "Stoichiometry, atomic weights, conservation of elements across chemical change, periodic table, nomenclature.",
+  "verdict": "KEEP",
+  "why": "chemical change is chemistry's own term in its own sense."
+ },
+ {
+  "old": "Nuclei and electron density couple; atoms ionize, bond and exchange; nuclides transmute; substances form and re-form.",
+  "new": "Nuclei and electron density couple; atoms ionize, bond and exchange; nuclides transmute; substances form and re-form.",
+  "verdict": "KEEP",
+  "why": "Living changing label kept pending the label ASK at 5.4; sentence carries no word to re-say."
+ },
+ {
+  "old": "One proton count; one name; one place in table; a set of properties written under its name.",
+  "new": "One proton count; one name; one place within a table; a set of properties written under its name.",
+  "verdict": "RESAY",
+  "why": "in, a place a part within its table: within."
+ },
+ {
+  "old": "Z changing at nuclear coupling, so conservation is exact under chemical between and refused past it.",
+  "new": "Z shifting with nuclear coupling, so conservation is exact under chemical between and refused past it.",
+  "verdict": "RESAY",
+  "why": "changing, a count: shifting; at: with."
+ },
+ {
+  "old": "Group three, an address the elements decide no cut for.",
+  "new": "Group three, an address with no cut among its elements.",
+  "verdict": "RESAY",
+  "why": "elements deciding, a doer: re-said as no cut among them; the: its."
+ },
+ {
+  "old": "(1) Nuclei, electrons, atoms and nuclides couple and change.",
+  "new": "(1) Nuclei, electrons, atoms and nuclides couple and re-form.",
+  "verdict": "RESAY",
+  "why": "change, no parity named: re-form."
+ },
+ {
+  "old": "(6) Allotropes, isotopes, oxidation states, transmutation, the heaviest elements and undecided cut remain the riding-the-carry installed class leaves uncarried.",
+  "new": "(6) Allotropes, isotopes, oxidation states, transmutation, the heaviest elements and undecided cut remain riding-the-carry, uncarried by an installed class.",
+  "verdict": "RESAY",
+  "why": "the: removed; riding-the-carry, a kept naming, kept. the heaviest elements kept, one only within its set."
+ },
+ {
+  "old": "Premature closure where count is the whole chemistry.",
+  "new": "Premature closure where count is taken as all of chemistry.",
+  "verdict": "RESAY",
+  "why": "the: re-said by meaning, all of."
+ },
+ {
+  "old": "Tradition blocking where a table's form is kept fixed against a field's own report.",
+  "new": "Tradition blocking where a table's form stands fixed against a field's own report.",
+  "verdict": "RESAY",
+  "why": "kept: stands, nothing held."
+ },
+ {
+  "old": "Interior-reaching at properties within count. Store-seeking at bearer beneath compounds. Line-demanding at a table's cut.",
+  "new": "Interior-reaching with properties within count. Store-seeking with a bearer beneath compounds. Line-demanding with a table's cut.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "At betweens: atom to atom at bond, substance to conditions, nuclide to nuclear coupling, count to table and chartered body.",
+  "new": "Across betweens: atom to atom with a bond, substance to conditions, nuclide to nuclear coupling, count to table and chartered body.",
+  "verdict": "RESAY",
+  "why": "at: across, an eight-side's across sides; with. Label before it kept pending the label ASK at 5.4."
+ },
+ {
+  "old": "or a chemical change in which Z is conserved by a count's own nature rather than by a between declared.",
+  "new": "or a chemical change with Z conserved by a count's own nature rather than by a between declared.",
+  "verdict": "RESAY",
+  "why": "in: with. chemical change, chemistry's own term, kept."
+ },
+ {
+  "old": "TWENTY-TWO 10.23. Beyond, for fetch: IUPAC Gold Book entry for chemical element in its two senses, definition or standard;",
+  "new": "TWENTY-TWO 10.23. Field, for fetch: IUPAC Gold Book entry for chemical element with its two senses, definition or standard;",
+  "verdict": "RESAY",
+  "why": "beyond: Field, the side its sources stand on, as Living names living files; in: with. Citation kept."
+ },
+ {
+  "old": "Paneth, *The epistemological status of the chemical concept of element* (British Journal for the Philosophy of Science, 1962, from 1931 lecture), history;",
+  "new": "Paneth, *The epistemological status of the chemical concept of element* (British Journal for the Philosophy of Science, 1962, from 1931 lecture), history;",
+  "verdict": "KEEP",
+  "why": "Title of an outside work and its journal, kept."
+ },
+ {
+  "old": "Carbon at Natural Chemistry 1.6, bounding-zeroing, a wrapped nothing couplings surround, and interior posited within the nothing an accounting's own positing (Natural Numbers 6.10).",
+  "new": "Carbon with Natural Chemistry 1.6, bounding-zeroing, a wrapped nothing couplings surround, and interior posited within that nothing an accounting's own positing (Natural Numbers 6.10).",
+  "verdict": "RESAY",
+  "why": "at: with; the: that."
+ },
+ {
+  "old": "Two senses of word, kept apart by a field's own philosophers; properties measured at substances and conditions rather than at count;",
+  "new": "Two senses of word, told apart by a field's own philosophers; properties measured with substances and conditions rather than with count;",
+  "verdict": "RESAY",
+  "why": "kept apart: told apart, by meaning; at: with. Label before it kept pending the label ASK at 5.4."
+ },
+ {
+  "old": "Chemistry at 1.6, 4.3, 4.4, 4.6. Numbers at 6.10. Naming at a class noun installed as a doer.",
+  "new": "Chemistry with 1.6, 4.3, 4.4, 4.6. Numbers with 6.10. Naming with a class noun installed as a doer.",
+  "verdict": "RESAY",
+  "why": "at: with. doer kept: it names an installation diagnosed."
+ },
+ {
+  "old": "Element enters as the plainest accounting ghost at chemistry, beside entropy at thermodynamics: a count installed as a self.",
+  "new": "Element enters as the plainest accounting ghost with chemistry, beside entropy with thermodynamics: a count installed as a self.",
+  "verdict": "RESAY",
+  "why": "at: with. the plainest, one only within its set, kept."
+ },
+ {
+  "old": "One element across its allotropes and oxidation states with every property at substance and conditions it was measured at, and what, if anything, is left written under count only.",
+  "new": "One element across its allotropes and oxidation states, each property with its substance and conditions of measuring, and what, if anything, is left written under count only.",
+  "verdict": "RESAY",
+  "why": "at: with, by meaning. what kept from the sentence, not added."
+ },
+ {
+  "old": "## 5.10 The silicon multifrequency surface",
+  "new": "## 5.10 The silicon multifrequency surface",
+  "verdict": "KEEP",
+  "why": "Heading, kept exactly."
+ },
+ {
+  "old": "**The observing.** Ellipsometric images of an electrodissolving silicon surface",
+  "new": "**The observing.** Ellipsometric images of an electrodissolving silicon surface",
+  "verdict": "KEEP",
+  "why": "Door form label, one observing per entry, kept."
+ },
+ {
+  "old": "Observed **is** at regions, **possibling** at domain.",
+  "new": "Observed **is** with regions, **possibling** with domain.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Distinct frequency regions each at its own, coupled through resistor.",
+  "new": "Distinct frequency regions each with its own rate, coupled through resistor.",
+  "verdict": "RESAY",
+  "why": "at its own: with its own rate, by meaning."
+ },
+ {
+  "old": "Oxide grows and dissolves at each site.",
+  "new": "Oxide grows and dissolves with each site.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Clusters stand only with global coupling attached, abundancing at that coupling.",
+  "new": "Clusters stand only with global coupling attached, abundancing with that coupling.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "where it is installed as a not-changing region, **is-not**.",
+  "new": "where it is installed as a not-changing region, **is-not**.",
+  "verdict": "KEEP",
+  "why": "not-changing is an agreed word."
+ },
+ {
+  "old": "its breaking at zero resistance is explicit.",
+  "new": "its breaking with zero resistance is explicit.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Clusters across the whole surface through global term.",
+  "new": "Clusters across its whole surface through global term.",
+  "verdict": "RESAY",
+  "why": "the: its."
+ },
+ {
+  "old": "**Observed.** Fails at 2 and 8 — domain as rest and as state — **state**; and at 6 with coupling denied, the second use.",
+  "new": "**Observed.** Fails with 2 and 8 — domain as rest and as state — **state**; and with 6, coupling denied, its second use.",
+  "verdict": "RESAY",
+  "why": "at: with; the: its."
+ },
+ {
+  "old": "Line 1 stands possibling at domain and blocks passing; resolved regions are the arrival that waits on zero-resistance experiment.",
+  "new": "Line 1 stands possibling with domain and blocks passing; resolved regions are an arrival waiting on a zero-resistance experiment.",
+  "verdict": "RESAY",
+  "why": "at: with; the: an."
+ },
+ {
+  "old": "at two uses: low-amplitude domain installed as a not-changing region beside changing ones;",
+  "new": "with two uses: low-amplitude domain installed as a not-changing region beside oscillating ones;",
+  "verdict": "RESAY",
+  "why": "at: with; changing, regions oscillating: oscillating, by meaning; not-changing agreed, kept."
+ },
+ {
+  "old": "Candidate at the first use; candidate against natural observing at the second, with its breaking explicit. Observing itself is the arrival the set carries, emanation and field observing at natural side.",
+  "new": "Candidate with the first use; candidate against natural observing with the second, with its breaking explicit. Observing itself is an arrival the set carries, emanation and field observing on natural side.",
+  "verdict": "RESAY",
+  "why": "at: with, on; the arrival: an arrival. the first, the second, one only of two uses, kept; the set, the one living file set, kept."
+ },
+ {
+  "old": "**Substrate and society.** n-type silicon in fluoride electrolyte under anodic potential;",
+  "new": "**Substrate and society.** n-type silicon in fluoride electrolyte under anodic potential;",
+  "verdict": "KEEP",
+  "why": "Entry form label kept pending the label ASK at 5.4; electrochemistry's own words follow."
+ },
+ {
+  "old": "Installing at the first use; at the second, an omission carried as an absence.",
+  "new": "Installing with the first use; with the second, an omission carried as an absence.",
+  "verdict": "RESAY",
+  "why": "at: with. the first, the second, one only of two uses, kept."
+ },
+ {
+  "old": "State: rest and state at 2 and 8; coupling denied at 6.",
+  "new": "State: rest and state with 2 and 8; coupling denied with 6.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Lowering illumination stepwise, uniform oscillation parts into amplitude clusters, then into regions accumulated about three dominant-frequency plateaus, 24, 27 and 32 mHz, beside a domain of amplitude death.",
+  "new": "Lowering illumination stepwise, uniform oscillation parts into amplitude clusters, then into regions accumulated about three dominant-frequency plateaus, 24, 27 and 32 mHz, beside a domain of amplitude death.",
+  "verdict": "KEEP",
+  "why": "Field account, a paper's own words and measurements."
+ },
+ {
+  "old": "total current feeding back into every point's oxide potential,",
+  "new": "total current feeding back into every point's oxide potential,",
+  "verdict": "KEEP",
+  "why": "Field account, a paper's own words."
+ },
+ {
+  "old": "The paper's own open questions are relation of such states to chimera states and requirements on adaptive coupling for their existence.",
+  "new": "The paper's own open questions are relation of such states to chimera states and requirements on adaptive coupling for their existence.",
+  "verdict": "KEEP",
+  "why": "Field account, a paper's own words."
+ },
+ {
+  "old": "amplitude-death threshold at 0.35 % of CCD saturation;",
+  "new": "amplitude-death threshold at 0.35 % of CCD saturation;",
+  "verdict": "KEEP",
+  "why": "Field observings retained, a measurement."
+ },
+ {
+  "old": "report of autonomous oscillations and pattern formation at zero external resistance.",
+  "new": "report of autonomous oscillations and pattern formation at zero external resistance.",
+  "verdict": "KEEP",
+  "why": "Field observings retained, a paper's own report."
+ },
+ {
+  "old": "Each region oscillates at its own rate while coupled; mediating band carries both neighbours; hole density changes in time once it limits current.",
+  "new": "Each region oscillates with its own rate while coupled; mediating band carries both neighbours; hole density varies with time once it limits current.",
+  "verdict": "RESAY",
+  "why": "at: with; changes in time, a density: varies with time. Label before it kept pending the label ASK at 5.4."
+ },
+ {
+  "old": "**Apparent not-changing.** Amplitude-death domain;",
+  "new": "**Apparent not-changing.** Amplitude-death domain;",
+  "verdict": "KEEP",
+  "why": "not-changing is an agreed word; label kept."
+ },
+ {
+  "old": "Frequencies are magnitudes in a unit, and numbers that cross are three and two.",
+  "new": "Frequencies are magnitudes with a unit, and numbers that cross are three and two.",
+  "verdict": "RESAY",
+  "why": "in: with."
+ },
+ {
+  "old": "(1) Regions oscillate at own rates on one coupled surface.",
+  "new": "(1) Regions oscillate with own rates on one coupled surface.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "(5) Ledger closes at potential balance and oscillator description.",
+  "new": "(5) Ledger closes with potential balance and oscillator description.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Premature closure at dead domain. False inclusion at numerals as numbers. False exclusion at global term.",
+  "new": "Premature closure with a dead domain. False inclusion with numerals as numbers. False exclusion with a global term.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Line-demanding at threshold. Magnitude-demanding at numerals.",
+  "new": "Line-demanding with a threshold. Magnitude-demanding with numerals.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "At betweens: electrode to electrolyte, region to region,",
+  "new": "Across betweens: electrode to electrolyte, region to region,",
+  "verdict": "RESAY",
+  "why": "at: across, an eight-side's across sides. Label before it kept pending the label ASK at 5.4."
+ },
+ {
+  "old": "A measured rest in low-amplitude domain at any resolution;",
+  "new": "A measured rest within a low-amplitude domain with any resolution;",
+  "verdict": "RESAY",
+  "why": "in: within; at: with."
+ },
+ {
+  "old": "Multifrequency clusters at zero external resistance, is or is not.",
+  "new": "Multifrequency clusters with zero external resistance, is or is not.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "own-rate torusing does not carry pattern and natural observing breaks at this arrival.",
+  "new": "own-rate torusing does not carry pattern and natural observing breaks with this arrival.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Natural Physics at its across-side; Natural Engineering at apparatus.",
+  "new": "Natural Physics with its across-side; Natural Engineering with apparatus.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "Beyond: Patzauer and Krischer, Physical Review Letters 126, 194101 (2021), at arXiv 2010.03535, direct experiment, observed whole;",
+  "new": "Field: Patzauer and Krischer, Physical Review Letters 126, 194101 (2021), as arXiv 2010.03535, direct experiment, observed whole;",
+  "verdict": "RESAY",
+  "why": "beyond: Field, the side its sources stand on, as Living names living files; at: as. Citation kept."
+ },
+ {
+  "old": "Electrochimica Acta 246, 315 (2017), direct experiment, at the paper's reference list, for fetch.",
+  "new": "Electrochimica Acta 246, 315 (2017), direct experiment, within that paper's reference list, for fetch.",
+  "verdict": "RESAY",
+  "why": "at, a part within its list: within; the: that. Citation kept."
+ },
+ {
+  "old": "**What the field already released.** Dead domain stated as below reliable determination;",
+  "new": "**What the field already released.** Dead domain stated as below reliable determination;",
+  "verdict": "KEEP",
+  "why": "Report label kept pending the label ASK at 5.4."
+ },
+ {
+  "old": "Numbers 6.7 and 11.1 at three-phase number; Physics at across-side; Engineering at resistor and light.",
+  "new": "Numbers 6.7 and 11.1 with three-phase number; Physics with across-side; Engineering with resistor and light.",
+  "verdict": "RESAY",
+  "why": "at: with."
+ },
+ {
+  "old": "The first observing entry filled from a paper observed whole in a field's words, with its living-return breaking a single reachable experiment.",
+  "new": "The first observing entry filled from a paper observed whole as a field's own words, with its living-return breaking a single reachable experiment.",
+  "verdict": "RESAY",
+  "why": "in: as, by meaning. The first, one only within its set, kept."
+ }
+]

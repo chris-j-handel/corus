@@ -4,7 +4,7 @@ Exhibit TWO Offerings to Natural Networking · improved at v389
 
 ## Standing · v389
 
-**Resolved at v389.** 271 items stood here; resolving against [Natural Networking](../Exhibit_TWO_Natural_Networking_v389.md), 52 are carried, 92 rest on released forms, 60 duplicate another item and 9 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWO_Offerings_to_Natural_Networking_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWO_Offerings_to_Natural_Networking_resolved_v389.md). Its 58 concerns stand below, each with its reason; 61 stand now.
+**Resolved at v389.** 271 items stood here; resolving against [Natural Networking](../Exhibit_TWO_Natural_Networking_v390.md), 52 are carried, 92 rest on released forms, 60 duplicate another item and 9 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWO_Offerings_to_Natural_Networking_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWO_Offerings_to_Natural_Networking_resolved_v389.md). Its 58 concerns stand below, each with its reason; 61 stand now.
 
 **At 1.4 · Only signs cross, the middle in no sequence — beside "two positive arrivals against that carrying give positive surfacing".** At Exhibit ONE agreeing offerings surface as one at 14-bi-tri-bi-moralizing, at any number of offerings: one parting is enough for 0, three agreeing surface as one agreeing does, nothing is added up, and at the carried parity agreeing there is no changing. A further offering at offerings parting leaves them parting, at any number of offerings.
 

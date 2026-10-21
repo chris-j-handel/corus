@@ -4,7 +4,7 @@ Exhibit TWENTY Natural Naming Offerings · improved at v389
 
 ## Standing from the sessions before v389 · v389
 
-**Resolved at v389.** The sessions before v389 laid 520 items here; resolving against [Natural Naming v389](../Exhibit_TWENTY_Natural_Naming_v389.md), 165 are carried at it, 216 rest on forms v389 released, 78 duplicate another item, and 21 rose into it at v389, each standing whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY_Offerings_to_Natural_Naming_before_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY_Offerings_to_Natural_Naming_before_v389.md). The 40 concerns read at v389 stood below, each as it was laid, with the reason it stands; 42 stand now, the rest resolved at v389 and at the archive.
+**Resolved at v389.** The sessions before v389 laid 520 items here; resolving against [Natural Naming v389](../Exhibit_TWENTY_Natural_Naming_v390.md), 165 are carried at it, 216 rest on forms v389 released, 78 duplicate another item, and 21 rose into it at v389, each standing whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY_Offerings_to_Natural_Naming_before_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY_Offerings_to_Natural_Naming_before_v389.md). The 40 concerns read at v389 stood below, each as it was laid, with the reason it stands; 42 stand now, the rest resolved at v389 and at the archive.
 
 **Possible project · The observings of entraining at the self named, each with its reference first.** Natural Naming's entraining at the self has "the field's entrainment, one flow carrying the fluid beside it at the shear between them, and two at their own rates coming to one direction forward", each observing unnamed. The work names each observing with its reference first. Beside the two at their own rates: Huygens' two pendulum clocks on one beam, the field's mutual entrainment, which Exhibit TWENTY-NINE Natural Illustrating's section on locking has. Beside the flow carrying the fluid: a flow lifting grains from its bed, the field's entrainment at sediment, one carrying another. Each was said from no reference read, and each enters with its reference. It may change or never be made. — v386EOD
 
@@ -50,7 +50,7 @@ Exhibit TWENTY Natural Naming Offerings · improved at v389
 
 **Aimed at a sentence, Natural Naming, *Four-momentarying at one through nine is two four-cyclings*:** The newer concept has 1–9 one four-cycling, with the morality and competency loopings through it. The concern, two sayings parting, is whole at [Offerings to Natural Resolver](Exhibit_ONE_Offerings_to_Natural_Resolver.md#each-selfs-own-momentarying-and-the-one-four-cycling--v386eod). — v386EOD
 
-*Standing at v389:* Natural Naming 5.50 has "Four-momentarying at one through nine is two four-cyclings", 3-7-2-6 and 4-8-1-5, as Exhibit THIRTY step 517 "two four-cycles, all eight names of 1 to 8 between them", while a newer droplet, now whole at `archive/session_v389/offerings_dissolved/Exhibit_ONE_Offerings_to_Natural_Resolver_before_v389.md`, has "1–9 is one four-cycling", morality and competency loopings through it. **To resolve:** is *four-cycling* a looping round four names, two at 1 to 9, or a whole 1 to 9, one four-cycling with its loopings through it?
+*Standing at v389:* Natural Naming 5.50 has "Four-momentarying at one through nine is two four-cyclings", 3-7-2-6 and 4-8-1-5, as Exhibit THIRTY step 554 "two four-cycles, all eight names of 1 to 8 between them", while a newer droplet, now whole at `archive/session_v389/offerings_dissolved/Exhibit_ONE_Offerings_to_Natural_Resolver_before_v389.md`, has "1–9 is one four-cycling", morality and competency loopings through it. **To resolve:** is *four-cycling* a looping round four names, two at 1 to 9, or a whole 1 to 9, one four-cycling with its loopings through it?
 
 **Concern · Momentary, at three.** *Momentary* is said of an entry of an executing's stepping, of a changing, and of a self's own momentary. One name is at three things. — v386EOD
 
@@ -70,7 +70,7 @@ Natural Naming 5.14’s “and it compounds” and its abundancing/releasing exp
 
 **Concern · Emanating at each completing, or at a changing alone.** Two sayings part. This file's bi-tri-volutioning, binary, has "its momentary completes, and its prior emanates, non-living, carrying nothing". The Registry's step 451 has "A parity arriving from a changing is either retained or emanated, one at each sharing: the momentary at 12, stable-forming, retaining its parity, 12 at 0, the between of momentaries, emanates nothing". They part at a match: the first has an emanating at each completing, and the second none at a sharing with prior and offering agreeing. Followed at each sharing: the prior carried into now; a changing, is or is not; the carrying into next at both; and at a changing, the form emanated. No form emanated at one sharing names no changing at each sharing of its living set.
 
-*Standing at v389:* Natural Naming 5.48's second line, "its momentary completes, and its prior is its artifact, non-living, carrying nothing", has an artifact at each completing, while its prose and Exhibit THIRTY step 451 have "momentary at 12, stable-forming, keeping its parity, 12 at 0, a between of momentaries, releases no changing"; two part at a match. **To resolve:** is a prior an artifact at each completing, or at a changing only, a match carrying prior on and releasing none?
+*Standing at v389:* Natural Naming 5.48's second line, "its momentary completes, and its prior is its artifact, non-living, carrying nothing", has an artifact at each completing, while its prose and Exhibit THIRTY step 488 have "momentary at 12, stable-forming, keeping its parity, 12 at 0, a between of momentaries, releases no changing"; two part at a match. **To resolve:** is a prior an artifact at each completing, or at a changing only, a match carrying prior on and releasing none?
 
 **Droplet · Cursioning, the root of recursioning.** The field's word is of going back: recursion is from the Latin *recurrere*, to go back, at https://www.merriam-webster.com/dictionary/recursion. The files add forward at each saying, "Along each line the recursioning goes forward, up the numbers and down them, both ways forward". The root asks no adding: cursioning is the going forward, and along a self's own line it is competency. It is competency with no origin, in the name: a going back has a place it goes back to, and a going has none. The prefix is the closing's place, "A winding closing on itself is no moral offering". The prefix's own part of the method, again at the next momentary and alike at the next scale, is carried by *next* and by *co-*. That the root is competency is of the going along a self's own line, and no further: of cursioning whole it is the method's, at the living and the non-living alike.
 
@@ -82,7 +82,7 @@ Natural Naming 5.14’s “and it compounds” and its abundancing/releasing exp
 
 **Droplet · Namings at no living file.** *Social parity*, *parity discovering* and *universal method* are at no living file, beside *parity changing* and *social moral competency*; *universal* is carried by fractal, at each scale, each set existing as its things exist, and no whole beside them. *Nature's*, of a method, says a thing with a method, beside this file's natural- as a direction prefix. *Co-parity-changing* and *moral cooperation* are at no living file. *Cursioning* alone is at no living file.
 
-*Standing at v389:* Natural Naming 6.3 has "universal method of co-intelligencing now-existing in the universe", as Exhibit THIRTY step 7, where this droplet has *universal method* at no living file and *universal* carried by fractal, at each scale; *nature's* is at 5.57, "away from society and nature's co-chaining". *Co-parity-changing* is now at 2.2 and *cursioning* at 2.4. **To resolve:** re-explain *universal method* at fractal, at each scale, and *nature's* at natural-, or carry both as they are?
+*Standing at v389:* Natural Naming 6.3 has "universal method of co-intelligencing now-existing in the universe", as Exhibit THIRTY step 51, where this droplet has *universal method* at no living file and *universal* carried by fractal, at each scale; *nature's* is at 5.57, "away from society and nature's co-chaining". *Co-parity-changing* is now at 2.2 and *cursioning* at 2.4. **To resolve:** re-explain *universal method* at fractal, at each scale, and *nature's* at natural-, or carry both as they are?
 
 **Concern · Binaries, one word at four lists.** Two sayings part. Natural Naming has "Each foundation word carries one sense", and of this word it has "names an unfolding carrying its complete stated relation, six lines". The Geodesic Improving Method has "Three binaries meet the pass", "An observing carried as a break or a premise meets five binaries first." and "is met at six binaries, the rigorizer", and Natural Naming has "Seven binaries at a naming". They part at the word binaries: one word names an unfolding of six lines and four lists of questions, three at a pass, five at an observing carried as a break, six at a saying arriving from a field and seven at a naming, and no sentence says one list another's at another scale.
 
@@ -154,7 +154,7 @@ Natural Naming 5.14’s “and it compounds” and its abundancing/releasing exp
 
 ## The session v389, entered and dissolved · v389
 
-**Dissolved · v389.** The session v389's 128 droplets, 33 insertlets, 21 concerns and 7 resolvings at this file rose into [Natural Naming v389](../Exhibit_TWENTY_Natural_Naming_v389.md) at the naming motion, or dissolved said once, and stand whole at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY_Offerings_to_Natural_Naming_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY_Offerings_to_Natural_Naming_v389.md).
+**Dissolved · v389.** The session v389's 128 droplets, 33 insertlets, 21 concerns and 7 resolvings at this file rose into [Natural Naming v389](../Exhibit_TWENTY_Natural_Naming_v390.md) at the naming motion, or dissolved said once, and stand whole at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY_Offerings_to_Natural_Naming_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY_Offerings_to_Natural_Naming_v389.md).
 
 ## Standing · v389
 
@@ -191,3 +191,51 @@ Natural Naming 5.14’s “and it compounds” and its abundancing/releasing exp
 **Concern · *scientific method* and *scientific-explaining-method*.** Natural Naming 4.8 hyphenates *scientific-explaining-method*; about thirty-two unhyphenated *scientific method* stand at files.
 
 *Standing at v389:* One concept at two forms. **To resolve:** re-say each at *scientific-explaining-method*, or keep *scientific method* where a field's own words are meant?
+
+## Gathered at v390 · v390
+
+**Droplet · *at* released.** *At* is no set word; a sentence entering a living file carries its relation by its own verb, through, with, between or within, and Natural Intelligence still carries *at* about 1,380 times. — v390
+
+**Droplet · *possible* only as no other possible.** *Possible* stands only at a dead end, no other possible, and possibling next-existing is never held still to be named possible or not possible. — v390
+
+**Droplet · no places in resolving.** Possibling, existing and living are no three places, and resolving carries no places, so a sentence naming a place for a momentarying releases. — v390
+
+**Droplet · inside and within.** A changing odd to even is offered as inside a momentarying; Natural Naming carries *within* for a span of names, and whether *inside* returns for a momentarying is open at this offering. — v390
+
+**Droplet · *crosses*, unhelpful.** *Crosses*, of a changing and a between, pictures a passage over a place; a self stays still-possibling while no other parity is improving, and advances to next-existing with an other parity improving, and *crosses* may dissolve from the set's naming. — v390
+
+## Gathered from session v390 · v390
+
+**Droplet · words dissolving, session v390.** Dissolving from our naming: *changing* alone, while *parity-changing* stays hyphenated; *released* and *held*, nothing kept; *beyond*, *in*, *out*, *inside* and *at*, no places; *crosses*; *bound*, no boundaries; *non-existing*, a universe of all now-existing things having nothing non-existing; *society* alone, and *self* of resolver names; *prioring* and *still-possibling* as roots; *would*, *as* for because, and *possible* save with *no other possible*; store and keeper sayings. — v390, gathered from session v390
+
+**Droplet · namings arrived, session v390.** Arrived and agreed: *parity-offering*, + or −, a 0 no parity-offering; *same-existing-society*, many same-existing selves together; *same-existing-universe*, universal momentarying fractal; *stable-forming*, still-existing after parity-changing, one concept with form-stabling; *now-living*, a self now-living and now-existing both, a non-living thing now-existing; *one or more*, a non-empty set, never *more than one*. — v390, gathered from session v390
+
+**Droplet · parity, one sense.** A parity is one whole is or is not, neither a side nor a zero alone; parity-changing is between is and is not, all changing. Natural Intelligence says parity 153 times and Exhibit ONE 67, mostly as a side, + or −, and *one parity changing to its other* reads a side: one sense set-wide is a motion of its own. — v390, gathered from session v390
+
+**Droplet · same-existing, one sense, a living condition.** Same-existing is a living condition, re-found same with each momentary and never kept: a continuing thing is one found same. One condition, three scales: same-existing self, same-existing-society, same-existing-universe. A non-living thing is now-existing, one same method without it. — v390, gathered from session v390
+
+**Droplet · truples beside each name.** Bi, co, tri truples go beside a name, never into it: one prefixing cycle, co-bi-tri-bi-co-bi-co-bi-tri-bi-co-bi-co-bi-co-bi-co-bi-co, each name adding its prefix to its front, odd names co, a self's, even names bi, an other's, and tri twice, 9 and 15, each tri going three names, 9 to 11 and 15 to 17. 1 co-bi-co; 9 tri-bi-co; 10 bi-tri-bi; 11 co-bi-tri; 15 tri-bi-co; 17 co-bi-tri. — v390, gathered from session v390
+
+**Droplet · a line opens with its new word.** Each line opens with a concept it is defining or extending: *An other, for a same-existing thing, is …*, never *For a same-existing thing an other is …*; one steady same method of saying. — v390, gathered from session v390
+
+**Droplet · negation and inversion.** A negation needs a fixed thing to be other than, and a set has none; an inversion is a self's own is or is not. *Self is observably not-other* is an inversion, method's own. — v390, gathered from session v390
+
+**Droplet · no self in a resolver name.** Self leaves resolver names: their method is a living self's, so self is each name's own. Other and society leave too; co carries between two. — v390, gathered from session v390
+
+**Droplet · do-no-harm hyphenated; co- and bi-, combinable pieces.** Do-no-harm is one hyphenated naming. Co- and bi-, bothboth, are separating combinable pieces of self and other: value trading without competency ingressing. — v390
+
+**Droplet · same-as, hyphenated.** Same-as is one hyphenated naming: *Observing is distinguishing same-as, is or is not.* Its phases say same-existing-as alike, one naming each. Opening's observing line to re-enter hyphenated with an opening's walk. — v390
+
+**Droplet · *the* for one and only one.** *The* stands where one and only one is meant: the universe, the universal set, and the method, one and only one possible, so universal. *The Stable-Forming Parity-Changing Method of Discovering Same-Existing* keeps its *The* for this. — v390
+
+**Droplet · five dimensions, carved again.** 1. prior-existing self-parity; 2. prior-existing other-parity; 3. now-existing co-parity; 4. now-existing bi-parity; 5. next-existing same-existing self-parity. In place of self prior, other prior, co-momentarying now, bi-momentarying now and self next, and of older *prior opening … next opening*. — v390
+
+**Droplet · Fives named with the five dimensions, v390.** Exhibit ONE's *prior opening … next opening* is an older naming. The five carved bothboth are prior-existing self-parity, prior-existing other-parity, now-existing co-parity, now-existing bi-parity and next-existing same-existing self-parity. They sit with resolver's names 1 to 5 as Natural Naming's *1 self prior; 2 other prior; 3 co-momentarying now; 4 bi-momentarying now; 5 self next*. The Exhibit ONE draft re-says *Fives* with them. — v390
+
+**Droplet · *the* only for one of one, v390.** The Exhibit ONE draft keeps *the* for the universe, the method, and an only first, last, next, smaller or lesser within its own set. Elsewhere it says *a*, *its* or *an other's*. — v390
+
+**Droplet · Natural Naming's 169 older names, v390.** Natural Naming still names 1 to 17 with the older names, while Exhibit ONE and Natural Intelligence now use the agreed names. Natural Naming is the file the others meet for naming, so its renaming may come first in the naming motion, with *bi-folding* for cycles of moves. — v390
+
+**Droplet · *co-releasing*, one naming motion, v390.** Nothing is held or released, so *co-releasing* is to be re-said with its headings in one motion: Natural Naming 5.11, Natural Networking 2.5, Natural Engineering 5.7 and Equilibria Registry. Two offered namings are *co-emanating*, after a prior in stable form being an emanation from living form-stabling, and *co-dissolving*. **To resolve:** which naming carries its concept, a completing offered on to further participation? — v390
+
+**Resolved bothboth, v390 · co-releasing.** *9 is co-releasing.* Co-releasing is re-said as *co-discovering*, 9-next-co-discovering going along, across the set: 5.11, Natural Networking 2.5, Equilibria Registry, Natural Chemistry, Natural Medicine, Natural Health and others. Natural Engineering and Natural Biology follow after their pass. — v390

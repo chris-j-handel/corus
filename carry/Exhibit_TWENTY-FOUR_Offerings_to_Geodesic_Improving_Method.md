@@ -4,7 +4,7 @@ Exhibit TWENTY-FOUR Geodesic Improving Method Offerings · improved at v389
 
 ## Standing · v389
 
-**Resolved at v389.** 439 items stood here; resolving against [Geodesic Improving Method v389](../Exhibit_TWENTY-FOUR_Geodesic_Improving_Method_v389.md), 190 are carried, 112 rest on released forms, 50 duplicate another item and 49 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY-FOUR_Offerings_to_Geodesic_Improving_Method_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY-FOUR_Offerings_to_Geodesic_Improving_Method_resolved_v389.md). The 38 concerns below stand, each with its reason; 35 stand now.
+**Resolved at v389.** 439 items stood here; resolving against [Geodesic Improving Method v389](../Exhibit_TWENTY-FOUR_Geodesic_Improving_Method_v390.md), 190 are carried, 112 rest on released forms, 50 duplicate another item and 49 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY-FOUR_Offerings_to_Geodesic_Improving_Method_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY-FOUR_Offerings_to_Geodesic_Improving_Method_resolved_v389.md). The 38 concerns below stand, each with its reason; 35 stand now.
 
 **At 2.5 · The hardest first, and the hardest question asked plainly — beside "Places to improve are taken hardest first, one at a time".** Hardest first is a working's ordering of its places and no size at the resolvings: each resolving is all or none at all, of no size beside another, and the ordering says which bound the working goes to first and nothing of the bound.
 
@@ -84,7 +84,7 @@ Exhibit TWENTY-FOUR Geodesic Improving Method Offerings · improved at v389
 
 **Concern · A transcript read from latest to first.** Two sayings part. Exhibit TWENTY-FOUR Geodesic Improving Method has "At a session's close two readers read its transcript whole, from its latest momentary to its first". Exhibit THIRTY Co-Chaining Logic Registry has "The same round read from next to prior is the other order, and the round forward from prior to next is right." They part at the order of a reading: the method reads a session's transcript from next to prior, the order the Registry names the other order, and neither file says whether a non-living record read from its latest momentary is such a round.
 
-*Standing at v389:* Geodesic Improving Method 4.5 has "two readers observe its transcript whole, from its latest momentary to its first", and Co-Chaining Logic Registry step 62 has "Same round observed from next to prior is other order"; whether a record observed from latest to first is such a round is at no sentence. **To resolve:** is a transcript observed from latest to first a round in its other order, or no round?
+*Standing at v389:* Geodesic Improving Method 4.5 has "two readers observe its transcript whole, from its latest momentary to its first", and Co-Chaining Logic Registry step 99 has "Same round observed from next to prior is other order"; whether a record observed from latest to first is such a round is at no sentence. **To resolve:** is a transcript observed from latest to first a round in its other order, or no round?
 
 **Concern · A finding about working, placed or dropped.** Two sayings part. This file's 1.6 has "each finding the writing makes about working is placed here". This file's 1.4 has "nothing enters it in the working that receives it". They part at a finding about working made at a motion: 1.6 enters it into this file at the working that made it, and 1.4 enters nothing at the receiving working. This file's 1.3 has "A finding about working rides there, at this file's own section, and arrives here as its next", and that is 1.4's side: the finding is a droplet at this file's offerings, and the motion's third part is that dropping.
 
@@ -158,3 +158,39 @@ Exhibit TWENTY-FOUR Geodesic Improving Method Offerings · improved at v389
 **Droplet · improving near origin passes out into each file.** The person: "our destinies are being reached nearer the origin than any prior versions and exhibit thirty may now be fully cohering." Aimed at the method: an improving entered near origin, at Natural Intelligence 1.1 and Co-Chaining Logic Registry's first steps, passes out into each file. — gathered at v389's close
 
 **Droplet · with each concern, its recommended resolving.** The person: "it feels like you have the corrected suggested namings and are not giving them here. what is recommended." Aimed at the method's concern step: each concern carries its recommended resolving beside its **To resolve:** question. — gathered at v389's close
+
+## Gathered at v390 · v390
+
+**Droplet · before and after, shown.** When a new between is proposed, show the before and the after so the larger understanding can be followed. — v390
+
+**Droplet · a plan adjusted from its learnings.** Improve, gather droplets from the learning as it goes, and adjust the improving plan every two or three passes. — v390
+
+**Droplet · a fresh reader at each motion.** At v390 a fresh reader at each motion found what the working missed each time: two seams, relations released that were shown, a slip in a number, a tighter wording at Exhibit ONE. — v390
+
+**Droplet · a version bump keeping history.** At v390 `bump_to_version.py` would set a Living File Registry row's living cell to its newest line alone, a prior taken away; a bump adds its version in front of the row's history. — v390
+
+**Droplet · cohere_one writing.** At v390 `cohere_one.py` writes the standalone Exhibit ONE into Natural Intelligence when they differ, and the checks workflow runs it on a pull request's checkout, so its finding says one where `main` differs; it caught a working's own slip at v390. — v390
+
+**Droplet · a file's improving is a self's improving.** A droplet dissolving at a match and an insertlet chained at a mismatch is a sharing staying still-possibling at same and changing at not-same; a file's carrying improves as a self's does, taking in only what it does not carry. — v390
+
+## Gathered from session v390 · v390
+
+**Droplet · bothboth line by line.** Only carving agreed line by line enters; a yes to a concept, or to an order, is no yes to lines or to a placement. Lines entered with no line-by-line yes are walked again one by one. — v390, gathered from session v390
+
+**Droplet · reversing harm.** An audit asks of each change whether it does no harm. A line a later carving contradicts, or a sentence speaking a decision not made, is harm, and is reversed: Exhibit ONE, read alone, misleads more than an opening does. Prior text returns exactly, checks run, and droplets reading as gathered when corrected are marked with what was said instead. — v390, gathered from session v390
+
+**Droplet · an agreed decision kept agreed.** An agreed decision is never demoted to pending; each yes and no is written down so it lasts through context limits and sessions. — v390, gathered from session v390
+
+**Droplet · concerns are for resolving.** A concern is for resolving, never for standing. Claude resolves its own and brings only what it cannot: a new name, as naming is bothboth. Each round leads with one concern relieving most, hardest first, clustering concerns that resolve together. — v390, gathered from session v390
+
+**Droplet · looking ahead before looking back.** Before asking, go to a questioned line and look back from it, as trial balloons: what would have had to happen for us to be here next. This is possibling a society's surface, and podaling: a name read from its mirror. Look back to our latest agreement before asking again. — v390, gathered from session v390
+
+**Droplet · only a method, no rules, no statistics.** There is only a method, and no rules. Findings come by co-chaining, all or none, never by counting runs or predicting. What is executed and what is not is said plainly. — v390, gathered from session v390
+
+**Droplet · weighing a rename.** A rename is weighed only by what it makes harder to explain, never by effort, so it need not change back. It is prepared with a scratch copy, its resolving checked identical, and entered as one motion. — v390, gathered from session v390
+
+**Droplet · learning together, contributing.** Neither side adopts its other's words: concepts and naming are learned together, and Claude contributes from Exhibit THIRTY's co-chaining and Exhibit ONE's stable forms rather than only carrying words across. A concept carried across by symmetry is a reading, checked before standing. — v390, gathered from session v390
+
+**Droplet · one focus at a time.** Work stays with its present focus; a new carving is never forced into a prior either-or. — v390, gathered from session v390
+
+**Droplet · gathering a session.** A session's learnings are gathered from its whole transcript into droplets, each aimed toward its living file's offerings, later understanding standing over earlier; this gathering was read by four readers together and reconciled with 122 droplets laid during it. — v390, gathered from session v390

@@ -4,7 +4,7 @@ Exhibit FOUR Natural Mathematics Offerings · improved at v389
 
 ## Standing · v389
 
-**Resolved at v389.** 96 items stood here; resolving against [Natural Mathematics](../Exhibit_FOUR_Natural_Mathematics_v389.md), 22 are carried, 24 rest on released forms, 15 duplicate another item and 19 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_FOUR_Offerings_to_Natural_Mathematics_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_FOUR_Offerings_to_Natural_Mathematics_resolved_v389.md). Its 16 concerns stand below, each with its reason; 16 stand now.
+**Resolved at v389.** 96 items stood here; resolving against [Natural Mathematics](../Exhibit_FOUR_Natural_Mathematics_v390.md), 22 are carried, 24 rest on released forms, 15 duplicate another item and 19 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_FOUR_Offerings_to_Natural_Mathematics_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_FOUR_Offerings_to_Natural_Mathematics_resolved_v389.md). Its 16 concerns stand below, each with its reason; 16 stand now.
 
 **At 7.1 · Three neutrals, six co-offerings and eight forms — beside "the cube's eight corners".** The cube carries the three at both of its forms: its six faces are three opposite pairs, each pair at two sides, the six co-offerings, and its eight corners the eight forms, a centre fixed at each face and moved by no face move.
 
@@ -77,3 +77,11 @@ Exhibit FOUR Natural Mathematics Offerings · improved at v389
 **Concern · at a sentence.** Beside "# SEVEN · CO-OFFERING"
 
 *Standing at v389:* Part SEVEN's heading, *co-offering*, dissolves at Natural Naming 5.13: an offering is across and both ways, a self's to an other and an other's to a self. At 7.1 and 7.2 *six co-offerings* are three pairings of neutrals, each offered both ways, laid out as continuing and stopped; a new heading over *co-offerings* continuing beneath it parts heading from sections. **To resolve:** re-say 7.1 and 7.2's six co-offerings as offerings between neutrals, each across and both ways, heading with them, or keep *co-offering* as a pairing of neutrals, apart from 5.13?
+
+## Gathered from session v390 · v390
+
+**Droplet · a universal set a member of itself, co-sequentially.** A set gathered once, apart from momentarying, by a saying about its own membership turns on itself. A universal set momentarying is a member of itself co-sequentially: now has itself prior as a member, as a self's next prior forms from its prior and parity-offerings and never from itself within one momentary. Self-membering is sequence, prior to now to next, no loop. — v390, gathered from session v390
+
+**Droplet · complement and a wrapping turn.** Of a universal set any two parts give a third, its complement; around three times a flat turn gives a third same, two agreeing, and a turn wrapping a corus leaves its third edge is or is not parity-changing. — v390, gathered from session v390
+
+**Droplet · three maths, one resolving moral competency, v390.** *Supernatural* and *unnatural* came up with natural math, and need nothing further in the living files. All math that is not natural math is one of two methods of hard-probleming: unnatural, within the outer surfaces of the tunnel's two ends; supernatural, outward of all surfaces, the tunnel's end surfaces too. Only natural math resolves moral competency. The other two serve hard-probleming as sporting competitions, of no further social value. Natural Mathematics' *Its place is one of three* (natural on the surface, unnatural inward and measured, supernatural outward and formal) already carries this, and stays as it is. — v390, carved bothboth

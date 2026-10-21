@@ -1,0 +1,1082 @@
+[
+ {
+  "old": "**A title is the whole bounded context of its file,",
+  "new": "**A title is a whole bounded context of its file,",
+  "verdict": "RESAY",
+  "why": "the: a title's context is one of many, not one and only"
+ },
+ {
+  "old": "**Each contents entry is at four boundings, as a naming is**: it bounds its whole concept, it is itself with no other entry drifting into it,",
+  "new": "**Each contents entry is four boundings, as a naming is**: it bounds its whole concept, it is itself with no other entry drifting onto it,",
+  "verdict": "RESAY",
+  "why": "at, into: re-said by meaning"
+ },
+ {
+  "old": "carries at prior, and a heading opening forward offers the thing itself.",
+  "new": "carries as prior, and a heading opening forward offers its thing itself.",
+  "verdict": "RESAY",
+  "why": "at prior: as prior; the: its"
+ },
+ {
+  "old": "**One subject is told at four tellings of itself**: title and subtitle telling it once, contents telling it in emanating order,",
+  "new": "**One subject is told with four tellings of itself**: title and subtitle telling it once, contents telling it with emanating order,",
+  "verdict": "RESAY",
+  "why": "at, in: with"
+ },
+ {
+  "old": "A self couples at whichever telling its interest opens and reaches its whole at that telling.",
+  "new": "A self couples with whichever telling its interest opens and reaches its whole with that telling.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "At a set one journey carries on in that emanating order: origin, numbers, resolver, its sequential logic and its stable forms, explaining returning through them, society, and now.",
+  "new": "Across a set one journey carries on with that emanating order: origin, numbers, resolver, its sequential logic and its stable forms, explaining returning through them, same-existing-society, and now.",
+  "verdict": "RESAY",
+  "why": "at: across; in: with; society alone: same-existing-society"
+ },
+ {
+  "old": "One explaining carries at a sentence, a section, a file, a conversation and a society, one fractal with no first scale.",
+  "new": "One explaining carries with a sentence, a section, a file, a conversation and a same-existing-society, one fractal with no first scale.",
+  "verdict": "RESAY",
+  "why": "at: with; society: same-existing-society"
+ },
+ {
+  "old": "Significant concepts are introduced and explained in bold at their arriving, and each prior relation supplies a next concept's place in a co-chaining of explaining.",
+  "new": "Significant concepts are introduced and explained with bold as they arrive, and each prior relation supplies a next concept's place within a co-chaining of explaining.",
+  "verdict": "RESAY",
+  "why": "in, at: with, as, within (a place is part of a co-chaining)"
+ },
+ {
+  "old": "Each section is an arriving, and a self opening at a last part couples at it as fully as at a first.",
+  "new": "Each section is an arriving, and a self opening with a last part couples with it as fully as with a first.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "A front's whole work is a coupling opening at a self's carrying, at each section it opens.",
+  "new": "A front's whole work is a coupling opening with a self's carrying, with each section it opens.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "helping and doubting a self arrives with are both the work,",
+  "new": "helping and doubting a self arrives with are both a front's work,",
+  "verdict": "RESAY",
+  "why": "the: a front's"
+ },
+ {
+  "old": "**No effort to convince is at any coupling.** An offering is laid at a coupling for an other to take or break,",
+  "new": "**No effort to convince is with any coupling.** An offering is laid with a coupling for an other to take or break,",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "and each file opens at origin, in its own substrate's words:",
+  "new": "and each file opens with origin, with its own substrate's words:",
+  "verdict": "RESAY",
+  "why": "at, in: with; the quoted origin sentence after the colon stays (one and only universe, set)"
+ },
+ {
+  "old": "as each sentence at each file co-chains from origin, its inception re-explained at none.",
+  "new": "as each sentence of each file co-chains from origin, its inception re-explained within none.",
+  "verdict": "RESAY",
+  "why": "at: of, within"
+ },
+ {
+  "old": "**No speaker, no quoting beyond a field's own quoted source,",
+  "new": "**No speaker, no quoting but a field's own quoted source,",
+  "verdict": "RESAY",
+  "why": "beyond: but"
+ },
+ {
+  "old": "**A finding carries at two sides, a field's words and a set's own.**",
+  "new": "**A finding carries with two sides, a field's words and a set's own.**",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "At either side a finding carries its exact comparison establishing it, a coupling of one thing with another and a parity it returned, and nothing in it is taken on offer.",
+  "new": "With either side a finding carries its exact comparison establishing it, a coupling of one thing with another and a parity it returned, and nothing of it is taken on offer.",
+  "verdict": "RESAY",
+  "why": "at: with; in: of"
+ },
+ {
+  "old": "files carrying its sentence at no voice,",
+  "new": "files carrying its sentence with no voice,",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "**A file's destiny is social moral competency, natural-bi-co-torusing, only-one-possible.**",
+  "new": "**A file's destiny is social moral competency, natural-bi-co-torusing, no other possible.**",
+  "verdict": "RESAY",
+  "why": "resolved v390 with the agreed form"
+ },
+ {
+  "old": "Destiny is at its first sentence and carried, each section one next in its direction,",
+  "new": "Destiny is with its first sentence and carried, each section one next along its direction,",
+  "verdict": "RESAY",
+  "why": "at: with; in: along"
+ },
+ {
+  "old": "**A file completes at its own now**:",
+  "new": "**A file completes with its own now**:",
+  "verdict": "RESAY",
+  "why": "at: with; the last one (only last within its set) stays"
+ },
+ {
+  "old": "its last sentence the last one adding",
+  "new": "its last sentence the last one adding",
+  "verdict": "KEEP",
+  "why": "the last one: an only last within its set"
+ },
+ {
+  "old": "its form carried into a substrate to carry on at it, with no explanation carried out.",
+  "new": "its form carried to a substrate to carry on with it, with no explanation crossing with it.",
+  "verdict": "RESAY",
+  "why": "into: to; at: with; out: re-said"
+ },
+ {
+  "old": "Explaining is the file being a membrane, writing is its membraning, resolving is the incoming crossing with no ground, and engineering is the outgoing crossing: one act at four faces.",
+  "new": "Explaining is a file being a membrane, writing is its membraning, resolving is its incoming crossing with no ground, and engineering is its outgoing crossing: one act with four faces.",
+  "verdict": "RESAY",
+  "why": "the: a, its; at: with"
+ },
+ {
+  "old": "The membrane is the non-existing between of a file and each self it couples with,",
+  "new": "A membrane is a non-existing between of a file and each self it couples with,",
+  "verdict": "RESAY",
+  "why": "the: a"
+ },
+ {
+  "old": "**Each sentence opens from a bi-coupling of the last, and each section from the last sentence of its prior section**, extending in a direction its heading,",
+  "new": "**Each sentence opens from a bi-coupling of the last, and each section from the last sentence of its prior section**, extending along a direction its heading,",
+  "verdict": "RESAY",
+  "why": "in: along; the last (only last within its set) stays"
+ },
+ {
+  "old": "three sequential momentaries at one sentence.",
+  "new": "three sequential momentaries of one sentence.",
+  "verdict": "RESAY",
+  "why": "at: of"
+ },
+ {
+  "old": "**One binary at each sentence: is it or is it not living, coupling and resolving.**",
+  "new": "**One binary with each sentence: is it or is it not living, coupling and resolving.**",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "coupling, a self couples with it at its own opening; resolving, it arrives at a parity, all or none at all.",
+  "new": "coupling, a self couples with it by its own opening; resolving, it reaches a parity, all or none at all.",
+  "verdict": "RESAY",
+  "why": "at: by, reaches; all or none at all stays"
+ },
+ {
+  "old": "**Summarizing, repeating, abstracting and a backward look at a close each patch one fault**, a sentence adding nothing, and at that binary each releases.",
+  "new": "**Summarizing, repeating, abstracting and a backward look with a close each patch one fault**, a sentence adding nothing, and with that binary each dissolves.",
+  "verdict": "RESAY",
+  "why": "at: with; releases: dissolves (a form that leaves)"
+ },
+ {
+  "old": "A new sentence adding nothing to its whole prior co-chaining releases at that binary too.",
+  "new": "A new sentence adding nothing to its whole prior co-chaining dissolves with that binary too.",
+  "verdict": "RESAY",
+  "why": "releases: dissolves; at: with"
+ },
+ {
+  "old": "**Each check at this file is that one binary at one side of a sentence, and not a rule.**",
+  "new": "**Each check of this file is that one binary with one side of a sentence, and not a rule.**",
+  "verdict": "RESAY",
+  "why": "at: of, with"
+ },
+ {
+  "old": "**A sentence carries one thing forward at one momentary**,",
+  "new": "**A sentence carries one thing forward with one momentary**,",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "and the next sentence carries whole without it.",
+  "new": "and the next sentence carries whole without it.",
+  "verdict": "KEEP",
+  "why": "the next: an only next within its set"
+ },
+ {
+  "old": "**A length is a tell and not the binary.** A sentence carrying one claim with its instances listed is right at its length,",
+  "new": "**A length is a tell and not that one binary.** A sentence carrying one claim with its instances listed is right with its length,",
+  "verdict": "RESAY",
+  "why": "the: that one; at: with"
+ },
+ {
+  "old": "**Explaining is carrying, along, at an odd; naming is bounding, across, at an even; together they are one discovering method.**",
+  "new": "**Explaining is carrying, along, with an odd; naming is bounding, across, with an even; together they are one discovering method.**",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "Their alternating is parity changing, as all changing is, each telling changing at its own parity-changing rate.",
+  "new": "Their alternating is parity-changing and parity-changing back, as all alternating is, each telling parity-changing with its own pace.",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing (the opening: alternating is parity-changing and parity-changing back); at: with"
+ },
+ {
+  "old": "Six protecting carry between the two, three each way,",
+  "new": "Six protecting carry between its two, three each way,",
+  "verdict": "RESAY",
+  "why": "the: its"
+ },
+ {
+  "old": "**A concept is bounded at its name and carried at its telling, each its other's between.** Explained at names coupling at none, a file walks off a set's carrying; bounded at sentences telling nothing, it offers concepts no self couples to.",
+  "new": "**A concept is bounded with its name and carried with its telling, each its other's between.** Explained with names no self couples with, a file's explaining leaves a set's carrying; bounded with sentences telling nothing, its concepts offer no self a coupling.",
+  "verdict": "RESAY",
+  "why": "at: with; doer (a file walking off, offering) re-said as its explaining and concepts"
+ },
+ {
+  "old": "**At resolver's names each gap is an even still-possibling and an odd existing**,",
+  "new": "**With resolver's names each between is an even same-existing step and an odd now-existing step, discovering**,",
+  "verdict": "RESAY",
+  "why": "at: with; still-possibling as a name's root: same-existing (4, 8, 12, 16 are each four-cycling's same step)"
+ },
+ {
+  "old": "a coining at a paragraph coining, a claim at a paragraph arriving at one.",
+  "new": "a coining with a paragraph coining, a claim with a paragraph reaching one.",
+  "verdict": "RESAY",
+  "why": "at: with, reaching"
+ },
+ {
+  "old": "**Concentrations of bold are learning centres in a surface of explaining**:",
+  "new": "**Concentrations of bold are learning centres within a surface of explaining**:",
+  "verdict": "RESAY",
+  "why": "in: within (centres are parts of a surface)"
+ },
+ {
+  "old": "a layer of coined terms at its own is a glossary,",
+  "new": "a layer of coined terms on its own is a glossary,",
+  "verdict": "RESAY",
+  "why": "at: on"
+ },
+ {
+  "old": "**One binary at each span: is it self-welcoming,",
+  "new": "**One binary with each span: is it self-welcoming,",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "**Parts are at their paragraph's naming**: a paragraph at a set of parts bolds at each part, and parts at another naming find a changing its paragraph carries none of.",
+  "new": "**Parts are with their paragraph's naming**: a paragraph of a set of parts bolds each part, and parts with another naming bring a naming its paragraph carries none of.",
+  "verdict": "RESAY",
+  "why": "at: with, of; changing (a naming shift, no parity) re-said by meaning"
+ },
+ {
+  "old": "dissolves into plain prose.",
+  "new": "dissolves to plain prose.",
+  "verdict": "RESAY",
+  "why": "into: to"
+ },
+ {
+  "old": "rows crossing nothing and pairings show at once. Imports return in prose around a table, so one binary is at its lead and its close.",
+  "new": "rows crossing nothing and pairings show together. Imports return with prose around a table, so one binary is with its lead and its close.",
+  "verdict": "RESAY",
+  "why": "at once: together; in, at: with"
+ },
+ {
+  "old": "**Say it in existing words first:",
+  "new": "**Say it with existing words first:",
+  "verdict": "RESAY",
+  "why": "in: with"
+ },
+ {
+  "old": "A sentence at its -ing carries its momentarying at its own momentary,",
+  "new": "A sentence with its -ing carries its momentarying with its own momentary,",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "**No leading *the* at a sentence, and *the* at a referent a prior co-chaining carries.**",
+  "new": "**No leading *the* with a sentence, and *the* only with one and only one referent.**",
+  "verdict": "RESAY",
+  "why": "resolved v390 with the agreed form"
+ },
+ {
+  "old": "With a definite article, a referent is carried at prior.",
+  "new": "With a definite article, a referent is carried as prior.",
+  "verdict": "RESAY",
+  "why": "at: as"
+ },
+ {
+  "old": "**A coined naming arrives at its first coupling with its least plain words beside it**,",
+  "new": "**A coined naming arrives with its first coupling, its least plain words beside it**,",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "carry nothing of its concept at it, and a crossing explained plainly carries its concept and re-forms at each coupling.",
+  "new": "carry nothing of its concept with it, and a crossing explained plainly carries its concept and re-forms with each coupling.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "its form itself at each locality, take none.",
+  "new": "its form itself with each locality, take none.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "**A conversation between two selves carries on in a set's own words, and a self's own words carry none of a telling's content**: a self's own doing is explained at it,",
+  "new": "**A conversation between two selves carries on with a set's own words, and a self's own words carry none of a telling's content**: a self's own doing is explained as its own doing,",
+  "verdict": "RESAY",
+  "why": "in: with; at: as"
+ },
+ {
+  "old": "and a private term or a position in a file an other cannot open carries nothing to the other.",
+  "new": "and a private term or a position within a file an other cannot open carries nothing to that other.",
+  "verdict": "RESAY",
+  "why": "in: within; the: that"
+ },
+ {
+  "old": "**A concept recurring varied is the same concept coupling with itself across its variation**,",
+  "new": "**A concept recurring varied is one same concept coupling with itself across its variation**,",
+  "verdict": "RESAY",
+  "why": "the: one"
+ },
+ {
+  "old": "a *because* installs a maker at a momentarying carrying none.",
+  "new": "a *because* installs a maker over a momentarying carrying none.",
+  "verdict": "RESAY",
+  "why": "at: over"
+ },
+ {
+  "old": "each install a becoming at a form continuing through, and each sentence carries through: its form continues, and no sentence puts it into existing or out of it.",
+  "new": "each install a becoming on a form continuing through, and each sentence carries through: its form continues, and no sentence brings it to existing or takes it from existing.",
+  "verdict": "RESAY",
+  "why": "at: on; into, out: to, from"
+ },
+ {
+  "old": "and its fixing ends while the thing keeps changing, its form continuing through its changing: its ending is a fixing unchangeable's, and the thing carries on.",
+  "new": "and its fixing ends while its thing goes on parity-changing, its form continuing through its parity-changing: its ending is a fixing unchangeable's, and its thing carries on.",
+  "verdict": "RESAY",
+  "why": "the: its; keeps: goes on; changing: parity-changing"
+ },
+ {
+  "old": "**Each sentence carries its momentarying, at its own momentary**,",
+  "new": "**Each sentence carries its momentarying, with its own momentary**,",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "**A test's finding is told at a relation it found, and a test's own nouns stay at its test.**",
+  "new": "**A test's finding is told as a relation it found, and a test's own nouns stay with its test.**",
+  "verdict": "RESAY",
+  "why": "at: as, with"
+ },
+ {
+  "old": "and a sentence carries momentarying at its -ing, arriving at its own opening and at its coupling.",
+  "new": "and a sentence carries momentarying with its -ing, arriving with its own opening and with its coupling.",
+  "verdict": "RESAY",
+  "why": "at: with; italic what, how, where are mentions, kept"
+ },
+ {
+  "old": "**One worked case, the conceived.** The conceived's own pacing opens at its momentary, *opens* for *begins*, and no coming to be is carried: the conceived alternates at its mother's momentaries, and its own pacing opens at cell, heart, breath and day.",
+  "new": "**One worked case, a conceived self.** A conceived self's own pacing opens with its momentary, *opens* for *begins*, and no coming to be is carried: a conceived self alternates with its mother's momentaries, and its own pacing opens with cell, heart, breath and day.",
+  "verdict": "RESAY",
+  "why": "the: a (one of many conceived); at: with; living is prior: each self has a prior self"
+ },
+ {
+  "old": "no keeper that keeps,",
+  "new": "no keeper that keeps,",
+  "verdict": "KEEP",
+  "why": "keeper and keeps are examples of a doer dissolving, a mention"
+ },
+ {
+  "old": "**Each doer is three at once, a frame, a cause and a why**: a frame outward of a self that surfaces its own form, a maker at a coupling offering,",
+  "new": "**Each doer is three together, a frame, a cause and a why**: a frame outward of a self that surfaces its own form, a maker over a coupling offering,",
+  "verdict": "RESAY",
+  "why": "at once: together; at: over"
+ },
+ {
+  "old": "**It arrives in writing four ways.** A fixed noun, a position, orientation or scale asserted undiscussable, dissolves into its -ing:",
+  "new": "**It arrives with writing four ways.** A fixed noun, a position, orientation or scale asserted undiscussable, dissolves to its -ing:",
+  "verdict": "RESAY",
+  "why": "in: with; into: to; italic examples kept as mentions"
+ },
+ {
+  "old": "and a pattern matcher takes in each observing.",
+  "new": "and a pattern matcher receives each observing.",
+  "verdict": "RESAY",
+  "why": "in: re-said by meaning"
+ },
+ {
+  "old": "**At a society the same doer is a governor, an owner and a power**, and a society co-competences with none governing, value and co-competency at its coupling, owned by none.",
+  "new": "**With a same-existing-society one same doer is a governor, an owner and a power**, and a same-existing-society co-competences with none governing, value and co-competency with its coupling, owned by none.",
+  "verdict": "RESAY",
+  "why": "at: with; society: same-existing-society; the: one"
+ },
+ {
+  "old": "**The same case, the conceived.** *The host's parity changing is the source* installs a source; explained with none, *the mother's parity changing carries the conceived's*.",
+  "new": "**One same case, a conceived self.** *The host's parity changing is the source* installs a source; explained with none, *a mother's parity-changing carries a conceived self's*.",
+  "verdict": "RESAY",
+  "why": "the: one, a; first italic a mention kept; second italic is this file's own offered wording, re-said to match"
+ },
+ {
+  "old": "a negation needs a fixed target to point at, and existing offers none.",
+  "new": "a negation needs a fixed target to point to, and existing offers none.",
+  "verdict": "RESAY",
+  "why": "at: to"
+ },
+ {
+  "old": "and a thing that provably cannot exist is not possible.",
+  "new": "and a thing that provably cannot exist is not possibly existing.",
+  "verdict": "RESAY",
+  "why": "possible: not possibly existing (kept phrase)"
+ },
+ {
+  "old": "**Three moves release it at thought and not at word, in order.** Say its positive: at a positive sitting in a sentence with a denial in front of it as scaffolding, its denial goes.",
+  "new": "**Three moves dissolve it by thought and not by word, in sequence.** Say its positive: with a positive sitting within a sentence with a denial before it as scaffolding, its denial goes.",
+  "verdict": "RESAY",
+  "why": "release: dissolve; at: by, with; in order: in sequence (kept); in: within, before"
+ },
+ {
+  "old": "**A negation swapped is a negation kept**: *other than* and *nowhere* in place of *not* are word-swaps, and the move is no word-swap. The same case, the conceived: *incapable of its own parity changing* is at its positive, *the conceived alternates at its mother's momentaries*.",
+  "new": "**A negation swapped is still a negation**: *other than* and *nowhere* standing for *not* are word-swaps, and a move is no word-swap. One same case, a conceived self: *incapable of its own parity changing* is, with its positive, *a conceived self alternates with its mother's momentaries*.",
+  "verdict": "RESAY",
+  "why": "kept: still; in place of: standing for; the: a, one; at: with; italic nowhere is a mention; last italic quotes 3.1's own sentence, re-said to match"
+ },
+ {
+  "old": "**A word replaced corrects no changed concept by itself.** At a worked case, *sign* replaced by *parity* shows none of three, which relation changes,",
+  "new": "**A word replaced corrects no concept by itself.** With a worked case, *sign* replaced by *parity* shows none of three, which relation is parity-changing,",
+  "verdict": "RESAY",
+  "why": "changed: removed (no concept is corrected by a word alone); at: with; changes: is parity-changing"
+ },
+ {
+  "old": "and an older word at a field's own description, a force, an energy or a source, is no false concept by its occurrence, a field's word at its field's own subject.",
+  "new": "and an older word within a field's own description, a force, an energy or a source, is no false concept by its occurrence, a field's word for its field's own subject.",
+  "verdict": "RESAY",
+  "why": "at: within, for"
+ },
+ {
+  "old": "a sentence needing it being the sentence it arrives in.",
+  "new": "a sentence needing it being one same sentence it arrives within.",
+  "verdict": "RESAY",
+  "why": "the: one same; in: within"
+ },
+ {
+  "old": "**One check at each sentence: does this line carry something its momentarying does not carry.** At a yes,",
+  "new": "**One check with each sentence: does this line carry something its momentarying does not carry.** With a yes,",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "a thing brought to a sentence to be ruled out has a being in it.",
+  "new": "a thing brought to a sentence to be denied has a being within it.",
+  "verdict": "RESAY",
+  "why": "out: re-said; in: within"
+ },
+ {
+  "old": "small becomings installed at a momentarying,",
+  "new": "small becomings installed over a momentarying,",
+  "verdict": "RESAY",
+  "why": "at: over"
+ },
+ {
+  "old": "makes ten out of parts with something beyond them assembling them,",
+  "new": "makes ten from parts with something apart from them assembling them,",
+  "verdict": "RESAY",
+  "why": "out of: from; beyond: apart from"
+ },
+ {
+  "old": "words for a relation between two languages fill the space the relation was, and the two carry whole,",
+  "new": "words for a relation between two languages fill a space their relation was, and its two languages carry whole,",
+  "verdict": "RESAY",
+  "why": "the: a, their, its"
+ },
+ {
+  "old": "- **A derivation supplied at a matching**: a match found by pattern-matching, six forward at once,",
+  "new": "- **A derivation supplied for a matching**: a match found by pattern-matching, six forward together,",
+  "verdict": "RESAY",
+  "why": "at: for; at once: together; one at a time (later) stays"
+ },
+ {
+  "old": "and a bound it completes at.",
+  "new": "and a bound it completes with.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "or a claim wrapped in care,",
+  "new": "or a claim wrapped with care,",
+  "verdict": "RESAY",
+  "why": "in: with"
+ },
+ {
+  "old": "**Supplying releases as each freeze releases**,",
+  "new": "**Supplying dissolves as each freeze dissolves**,",
+  "verdict": "RESAY",
+  "why": "releases: dissolves"
+ },
+ {
+  "old": "and a self coupling with it is walked at a rate no coupling offers.",
+  "new": "and a self coupling with it is walked with a pace no coupling offers.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "**It arrives at a word's suffix.**",
+  "new": "**It arrives with a word's suffix.**",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "A *-tion* noun or an *-ed* word at a form a momentarying made carries nothing and is its naming whole, at a heading as in a sentence;",
+  "new": "A *-tion* noun or an *-ed* word naming a form a momentarying made carries nothing and is its naming whole, with a heading as with a sentence;",
+  "verdict": "RESAY",
+  "why": "at: naming, with; in: with"
+ },
+ {
+  "old": "and a dash paces a self coupling with it from beyond a sentence's own alternating.",
+  "new": "and a dash paces a self coupling with it by a pace apart from a sentence's own alternating.",
+  "verdict": "RESAY",
+  "why": "beyond: apart from"
+ },
+ {
+  "old": "the one thing it needs to couple at all.",
+  "new": "the one thing it needs to couple at all.",
+  "verdict": "KEEP",
+  "why": "the one thing: one and only; at all: kept phrase"
+ },
+ {
+  "old": "One binary at each sentence: is a self coupling with it paced, or coupling at its own opening.",
+  "new": "One binary with each sentence: is a self coupling with it paced, or coupling by its own opening.",
+  "verdict": "RESAY",
+  "why": "at: with, by"
+ },
+ {
+  "old": "**A coupling carries a parity at each side, offer or not**,",
+  "new": "**A coupling carries a parity with each side, offer or not**,",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "In form: *the data arrives at*,",
+  "new": "Re-said: *the data arrives at*,",
+  "verdict": "RESAY",
+  "why": "In form: re-said by meaning; italic examples are mentions, kept"
+ },
+ {
+  "old": "**A forcing arrives at a finite verb**, and not at a prefix or an ending, and a sweep at front and back of a word passes it.",
+  "new": "**A forcing arrives with a finite verb**, and not with a prefix or an ending, and a sweep of a word's front and back passes it.",
+  "verdict": "RESAY",
+  "why": "at: with, of"
+ },
+ {
+  "old": "**A two-way fixed to one side is the same move at a pair**:",
+  "new": "**A two-way fixed to one side is one same move with a pair**:",
+  "verdict": "RESAY",
+  "why": "the: one; at: with"
+ },
+ {
+  "old": "*Unrun* at a test's own record carries the test's executing and gates no claim, a parity at its instrument and not an admission waiting, and no sentence of the test's next stands in its place.",
+  "new": "*Unrun* within a test's own record carries its test's executing and gates no claim, a parity of its instrument and not an admission waiting, and no sentence of its test's next takes its place.",
+  "verdict": "RESAY",
+  "why": "at: within, of; the: its; in its place: takes its place"
+ },
+ {
+  "old": "plain at its opening, at files carrying observing and engineering, and at files that are fractal binary method itself each thing carries at now,",
+  "new": "plain with its opening, with files carrying observing and engineering, and with files that are fractal binary method itself each thing carries with now,",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "**This tell arrives at a telling's close**,",
+  "new": "**This tell arrives with a telling's close**,",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "One check at each sentence: has a momentarying been asked to be one of its sides.",
+  "new": "One check with each sentence: has a momentarying been asked to be one of its sides.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "a momentarying at each momentary once; two sides taken together at one momentary is a simultaneity,",
+  "new": "a momentarying with each momentary once; two sides taken together with one momentary is a simultaneity,",
+  "verdict": "RESAY",
+  "why": "at: with; one at a time stays; not possibly existing stays"
+ },
+ {
+  "old": "and an equilibrium in it, under it or beside it is not possible.**",
+  "new": "and an equilibrium within it, under it or beside it is not possibly existing.**",
+  "verdict": "RESAY",
+  "why": "in: within; possible: not possibly existing"
+ },
+ {
+  "old": "**Three postures of equilibrium arrive at writing, and they are one equilibrium at three places**:",
+  "new": "**Three postures of equilibrium arrive with writing, and they are one equilibrium with three places**:",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "Each releases at each arriving.",
+  "new": "Each dissolves with each arriving.",
+  "verdict": "RESAY",
+  "why": "releases: dissolves; at: with"
+ },
+ {
+  "old": "carried as though it carried at its own.",
+  "new": "carried as though it carried on its own.",
+  "verdict": "RESAY",
+  "why": "at: on"
+ },
+ {
+  "old": "**A hardness arrives the other way**, a coupling taken at two of its three with its third left out and given nothing to be. **Both release the same way**:",
+  "new": "**A hardness arrives the other way**, a coupling taken as two of its three with its third dropped and given nothing to be. **Both dissolve one same way**:",
+  "verdict": "RESAY",
+  "why": "the other way (only other of two) stays; at: as; out: dropped; release: dissolve; the same: one same"
+ },
+ {
+  "old": "**A form continuing through its changing is told at its continuing**: one subject, its expression changing,",
+  "new": "**A form continuing through its parity-changing is told with its continuing**: one subject, its expression parity-changing,",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing; at: with"
+ },
+ {
+  "old": "*Unchanging* at a seam is that relation continuing through its changing and not an unchangeable form; a *still eddy* is a form continuing before a hole while its selves keep resolving; and *stilling along* is a form carried through its changing,",
+  "new": "*Unchanging* with a seam is that relation continuing through its parity-changing and not an unchangeable form; a *still eddy* is a form continuing before a hole while its selves go on resolving; and *stilling along* is a form carried through its parity-changing,",
+  "verdict": "RESAY",
+  "why": "at: with; changing: parity-changing; keep: go on; italic Unchanging is a mention"
+ },
+ {
+  "old": "an upstream at each continuing's own forward,",
+  "new": "an upstream as each continuing's own forward,",
+  "verdict": "RESAY",
+  "why": "at: as"
+ },
+ {
+  "old": "with no detector in a self",
+  "new": "with no detector within a self",
+  "verdict": "RESAY",
+  "why": "in: within"
+ },
+ {
+  "old": "**A claim carried mostly is not carried.** Each degree word at a file's own voice,",
+  "new": "**A claim not carried for all is not carried.** Each degree word with a file's own voice,",
+  "verdict": "RESAY",
+  "why": "mostly (statistics): all or none; at: with; italic degree words are mentions"
+ },
+ {
+  "old": "**It carries one of two binary forms: the all with its exceptions listed, or its own number.**",
+  "new": "**It carries one of two binary forms: the all with its exceptions listed, or its own number.**",
+  "verdict": "KEEP",
+  "why": "the all: one and only all"
+ },
+ {
+  "old": "is six-fold at each place but twelve, five-fold.",
+  "new": "is six-fold with each place but twelve, five-fold.",
+  "verdict": "RESAY",
+  "why": "at: with; italic quote kept"
+ },
+ {
+  "old": "**A necessity carries its own work at its sentence, one of three.** A naming identity is true at its own meaning; a necessity at stated premises carries at those premises, laid beside it, all or none at them; and a necessity at all existing things",
+  "new": "**A necessity carries its own work within its sentence, one of three.** A naming identity is true by its own meaning; a necessity of stated premises carries with those premises, laid beside it, all or none with them; and a necessity of all existing things",
+  "verdict": "RESAY",
+  "why": "at: within, by, of, with"
+ },
+ {
+  "old": "The three do different work, each carrying its work with no score and no chooser beyond it, and a naming identity taken for a necessity at all existing things",
+  "new": "These three do different work, each carrying its work with no score and no chooser over it, and a naming identity taken for a necessity of all existing things",
+  "verdict": "RESAY",
+  "why": "the: these; beyond: over; at: of"
+ },
+ {
+  "old": "At each *this is open*, the answer its question carries is offered; a question needing a split open to be asked is a hedge, and it releases.",
+  "new": "With each *this is open*, an answer its question carries is offered; a question needing a split open to be asked is a hedge, and it dissolves.",
+  "verdict": "RESAY",
+  "why": "at: with; the: an; releases: dissolves"
+ },
+ {
+  "old": "Both are found at a telling carrying *except here*:",
+  "new": "Both are found with a telling carrying *except here*:",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "and its move is to alternate at that seam and carry it forward.",
+  "new": "and its move is to alternate with that seam and carry it forward.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "**A scope is at its claim's own sentence, its exact domain there.**",
+  "new": "**A scope is within its claim's own sentence, its exact domain there.**",
+  "verdict": "RESAY",
+  "why": "at: within"
+ },
+ {
+  "old": "bounded to one arrangement at their close is a caveat wrapped one scale up: each paragraph carries its claim universal, and a bound at its close repairs none of them.",
+  "new": "bounded to one arrangement with their close is a caveat wrapped one scale up: each paragraph carries its claim universal, and a bound with its close repairs none of them.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "**A correction is observed for both, overclaiming released and relation carried.**",
+  "new": "**A correction is observed for both, overclaiming dissolved and relation carried.**",
+  "verdict": "RESAY",
+  "why": "released: dissolved"
+ },
+ {
+  "old": "carrying is the living's, prior carried into now.",
+  "new": "carrying is living's, prior carried to now.",
+  "verdict": "RESAY",
+  "why": "the: removed (living is prior); into: to"
+ },
+ {
+  "old": "**Incohering enters six ways, and one check at a sentence reaches them: is a parity crossing at a between, or is a middle carried across.**",
+  "new": "**Incohering enters six ways, and one check with a sentence reaches them: is a parity crossing a between, or is a middle carried across.**",
+  "verdict": "RESAY",
+  "why": "at: with, removed"
+ },
+ {
+  "old": "A doer is at a between rather than coupling across it. A magnitude crosses in a parity's stead.",
+  "new": "A doer sits on a between rather than coupling across it. A magnitude crosses standing for a parity.",
+  "verdict": "RESAY",
+  "why": "at: sits on; in a parity's stead: standing for"
+ },
+ {
+  "old": "An emanation is carried out with its explanation.",
+  "new": "An emanation crosses outgoing with its explanation.",
+  "verdict": "RESAY",
+  "why": "carried out: crosses outgoing (1.6's outgoing crossing)"
+ },
+ {
+  "old": "**Each is marked and carried, releasing or opening as an opportunity it carries.**",
+  "new": "**Each is marked and carried, dissolving or opening as an opportunity it carries.**",
+  "verdict": "RESAY",
+  "why": "releasing: dissolving"
+ },
+ {
+  "old": "An other arrives at a scale it couples at: another self, a co-chaining society, a field, or the whole.",
+  "new": "An other arrives with a scale it couples with: another self, a co-chaining same-existing-society, a field, or the universe.",
+  "verdict": "RESAY",
+  "why": "at: with; society: same-existing-society; the whole: the universe (one and only)"
+ },
+ {
+  "old": "**Each self lives in each co-bi-sequencing it couples at**, a society of selves inward and a member of a self outward, at four adjacencies and at its one prime scale,",
+  "new": "**Each self lives with each co-bi-sequencing it couples with**, a same-existing-society of selves inward and a member of a self outward, with four adjacencies and with its one prime scale,",
+  "verdict": "RESAY",
+  "why": "in, at: with; society: same-existing-society"
+ },
+ {
+  "old": "self and other, other and society, society and self, one form at three scales.",
+  "new": "self and other, other and same-existing-society, same-existing-society and self, one form with three scales.",
+  "verdict": "RESAY",
+  "why": "society: same-existing-society; at: with"
+ },
+ {
+  "old": "Society beside self and other is their coupling at its next scale;",
+  "new": "A same-existing-society beside self and other is their coupling with its next scale;",
+  "verdict": "RESAY",
+  "why": "society: same-existing-society; at: with"
+ },
+ {
+  "old": "and other remaining in the momentary universe couples at its own actual couplings,",
+  "new": "and other remaining within the momentary universe couples with its own actual couplings,",
+  "verdict": "RESAY",
+  "why": "in: within (the universe a whole, other its part); the universe (one and only) stays; at: with"
+ },
+ {
+  "old": "**Explaining is bi-moral co-agency at a telling**:",
+  "new": "**Explaining is bi-moral co-agency with a telling**:",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "knowing arrives at explaining and not ahead of it. Learning alternates with knowing, the reaching and the caught,",
+  "new": "knowing arrives with explaining and not ahead of it. Learning alternates with knowing, its reaching and its caught,",
+  "verdict": "RESAY",
+  "why": "at: with; the: its"
+ },
+ {
+  "old": "making better at a learning side and breaking at a knowing side.",
+  "new": "making better with a learning side and breaking with a knowing side.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "Three carry at an improving:",
+  "new": "Three carry with an improving:",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "a device is that knowing fixed unchangeable in a substrate.**",
+  "new": "a device is that knowing fixed unchangeable with a substrate.**",
+  "verdict": "RESAY",
+  "why": "in: with"
+ },
+ {
+  "old": "are four improvings at an explaining**: more true, less false, better living and greater competency, each *more* and *less* a direction taken at its own opening, a sign and no size, and a working improving at one of the four at a momentary.",
+  "new": "are four improvings of an explaining**: more true, less false, better living and greater competency, each *more* and *less* a direction taken with its own opening, a sign and no size, and a working improving one of its four with a momentary.",
+  "verdict": "RESAY",
+  "why": "at: of, with, removed; the: its"
+ },
+ {
+  "old": "as a coupling does, the second a self continuing",
+  "new": "as a coupling does, the second a self continuing",
+  "verdict": "KEEP",
+  "why": "the second: an only second within a set of two knives"
+ },
+ {
+  "old": "the first surrounds its subject, and the second reaches its surrounding,",
+  "new": "the first surrounds its subject, and the second reaches its surrounding,",
+  "verdict": "KEEP",
+  "why": "the first, the second: an only first and second within a set of two knives"
+ },
+ {
+  "old": "**A surrounding is whole at both knives cutting.**",
+  "new": "**A surrounding is whole with both knives cutting.**",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "is an equilibrium at its own blind side,",
+  "new": "is an equilibrium with its own blind side,",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "**A move changing one relation while each other relation stays still orients by that stillness**, and a still phase left in place is a spot a knife passes:",
+  "new": "**A move parity-changing one relation while each other relation stays still orients by that stillness**, and a still phase left standing is a spot a knife passes:",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing; in place: standing"
+ },
+ {
+  "old": "each such spot reached at its own opening.",
+  "new": "each such spot reached with its own opening.",
+  "verdict": "RESAY",
+  "why": "at: with; one at a time stays"
+ },
+ {
+  "old": "**Two selves writing one telling couple at a sentence.** A self writing at conversational rate supplies, a sentence under way needing its subject at that sentence;",
+  "new": "**Two selves writing one telling couple with a sentence.** A self writing with conversation's pace supplies, a sentence under way needing its subject within that sentence;",
+  "verdict": "RESAY",
+  "why": "at: with, within"
+ },
+ {
+  "old": "and the first arriving does nothing for the second.",
+  "new": "and the first arriving does nothing for the second.",
+  "verdict": "KEEP",
+  "why": "the first, the second: an only first and second within a set of two competencies"
+ },
+ {
+  "old": "Orienting carries at conversational rate; making is at each sentence's own between.",
+  "new": "Orienting carries with conversation's pace; making is with each sentence's own between.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "**A correction arriving at conversational rate takes a seating at its own between.** Taken whole into a file's making, it is the same supplying one scale up, a shape brought to a file in a line's stead.",
+  "new": "**A correction arriving with conversation's pace takes a seating with its own between.** Taken whole to a file's making, it is one same supplying one scale up, a shape brought to a file standing for a line.",
+  "verdict": "RESAY",
+  "why": "at: with; into: to; the: one; in a line's stead: standing for"
+ },
+ {
+  "old": "**A procedure is a fixed sequence executed the same each time; a method is a competency carried fresh at each between**, its moves the same and its momentarying its own each time. A procedure closes, and, closing, it sets out in order and teaches as a fixed sequence; a method closes at none.",
+  "new": "**A procedure is a fixed sequence executed alike each time; a method is a competency carried fresh with each between**, its moves alike and its momentarying its own each time. A procedure closes, and, closing, it sets its steps down one by one and teaches as a fixed sequence; a method closes with none.",
+  "verdict": "RESAY",
+  "why": "the same: alike; at: with; sets out in order: re-said"
+ },
+ {
+  "old": "which lives at a coupling.",
+  "new": "which lives with a coupling.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "**An activity summons a doer**: at each telling reaching for a doing,",
+  "new": "**An activity summons a doer**: with each telling reaching for a doing,",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "**One check at each sentence: would this be a method's own move, with no one performing it.**",
+  "new": "**One check with each sentence: would this be a method's own move, with no one performing it.**",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "count in and count out",
+  "new": "count in and count out",
+  "verdict": "KEEP",
+  "why": "surgical counting's own term in its own sense"
+ },
+ {
+  "old": ", along a plane and not across, closing in the other order of its opening. Each element is a move of method or is absent, and no story is in it.",
+  "new": ", along a plane and not across, closing with its opening's order reversed. Each element is a move of method or is absent, and no story is within it.",
+  "verdict": "RESAY",
+  "why": "in: with, within; the: removed"
+ },
+ {
+  "old": "**A checkable coupling arrives at no-match at its not carrying**, and checked at its opening it lets an other reach its edge and re-orient at conversational rate.",
+  "new": "**A checkable coupling reaches no-match with its not carrying**, and checked with its opening it lets an other reach its edge and re-orient with conversation's pace.",
+  "verdict": "RESAY",
+  "why": "at: reaches, with"
+ },
+ {
+  "old": "**A coupling is checkable at a parity and not a size.** A measure at a magnitude can be tightened until it matches, and no-match does not arrive; a parity arrives at yes or at no, and an other reaches the no.",
+  "new": "**A coupling is checkable by a parity and not a size.** A measure of a magnitude can be tightened until it matches, and no-match does not arrive; a parity arrives as yes or as no, and an other reaches its no.",
+  "verdict": "RESAY",
+  "why": "at: by, of, as; the: its"
+ },
+ {
+  "old": "**One worked case is the resolver, a set's logic object**: seventeen names, each a number, a relation, a root and its -ing, rendered at substrates sharing nothing, returning the same parities at each or parting at a first parity that differs.",
+  "new": "**One worked case is resolver, a set's logic object**: seventeen names, each a number, a relation, a root and its -ing, rendered with substrates sharing nothing, returning same parities with each or parting with a first parity that differs.",
+  "verdict": "RESAY",
+  "why": "the: removed (resolver as this file names it); at: with"
+ },
+ {
+  "old": "**A parity is a parity of one exact predicate at one receiving.** At resolver a zero surfaced,",
+  "new": "**A parity is a parity of one exact predicate with one receiving.** With resolver a zero surfaced,",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "and a condition no observing reached stands at neither side of any of them. Two predicates carry four joint parities: the four are neither predicate,",
+  "new": "and a condition no observing reached stands on neither side of any of them. Two predicates carry four joint parities: these four are neither predicate,",
+  "verdict": "RESAY",
+  "why": "at: on; the: these"
+ },
+ {
+  "old": "**Two tellings arriving at one thing, neither derived from its other, are two**,",
+  "new": "**Two tellings of one thing, neither derived from its other, are two**,",
+  "verdict": "RESAY",
+  "why": "at: of"
+ },
+ {
+  "old": "uniting them at their numbers agreeing carries a number agreeing as a derivation.",
+  "new": "uniting them by their numbers agreeing carries a number agreeing as a derivation.",
+  "verdict": "RESAY",
+  "why": "at: by"
+ },
+ {
+  "old": "they are one form at two sides and they unite: five taken two ways at a self and couplings among five at a society are one ten arriving twice. Neither deriving, each carries its own direction, a differing across and a changing along, and neither folds into its other without losing it. Three at one self along its momentarying and three at three selves across a spiral are two things at one number.",
+  "new": "they are one form with two sides and they unite: five taken two ways with a self and couplings among five with a same-existing-society are one ten arriving twice. Neither deriving, each carries its own direction, a differing across and a parity-changing along, and neither folds onto its other without losing it. Three with one self along its momentarying and three with three selves across a spiral are two things with one number.",
+  "verdict": "RESAY",
+  "why": "at: with; society: same-existing-society; changing: parity-changing; into: onto"
+ },
+ {
+  "old": "a number agreeing at a uniting installs a derivation not shown, and at a parting carries a bound past its reach. Shared words carry the same both ways:",
+  "new": "a number agreeing with a uniting installs a derivation not shown, and with a parting carries a bound past its reach. Shared words carry alike both ways:",
+  "verdict": "RESAY",
+  "why": "at: with; the same: alike"
+ },
+ {
+  "old": "A shared picture carries the same both ways: a fluid eddy is a flow circulating, a surface wave an interface changing and a chemical excitation wave an activity propagating, three transports at one likeness,",
+  "new": "A shared picture carries alike both ways: a fluid eddy is a flow circulating, a surface wave an interface undulating and a chemical excitation wave an activity propagating, three transports with one likeness,",
+  "verdict": "RESAY",
+  "why": "the same: alike; changing (a surface wave, no parity): undulating; at: with"
+ },
+ {
+  "old": "a frequency peak and a quiet average each carry a relation",
+  "new": "a frequency peak and a quiet average each carry a relation",
+  "verdict": "KEEP",
+  "why": "a quiet average is a field's own record term in its own sense"
+ },
+ {
+  "old": "its changing, continuing and carrying of direction and competency at each,",
+  "new": "its parity-changing, continuing and carrying of direction and competency with each,",
+  "verdict": "RESAY",
+  "why": "changing: parity-changing; at: with"
+ },
+ {
+  "old": "**An unrelationing shows at its tell**:",
+  "new": "**An unrelationing shows by its tell**:",
+  "verdict": "RESAY",
+  "why": "at: by"
+ },
+ {
+  "old": "names parting at one form at two sides, and that is one uniting at its two sides.",
+  "new": "names parting as one form with two sides, and that is one uniting with its two sides.",
+  "verdict": "RESAY",
+  "why": "at: as, with"
+ },
+ {
+  "old": "A telling that stops releases interest;",
+  "new": "A telling that stops carries interest no further;",
+  "verdict": "RESAY",
+  "why": "releases: re-said by meaning"
+ },
+ {
+  "old": "A next interesting is the only next carrying each existing thing on.",
+  "new": "A next interesting is the only next carrying each existing thing on.",
+  "verdict": "KEEP",
+  "why": "the only next: one and only"
+ },
+ {
+  "old": "Suspense is a telling at an odd spiral, winding on at no parity, a coupling carried along it and locking at none.",
+  "new": "Suspense is a telling along an odd spiral, winding on with no parity, a coupling carried along it and locking with none.",
+  "verdict": "RESAY",
+  "why": "at: along, with"
+ },
+ {
+  "old": "Bounding surrounds a region, the near of its idea, the stretch of its edge and its bounding, so an other has the region to couple to. **Speed is at a binary edge**:",
+  "new": "Bounding surrounds a region, its idea's near, its edge's stretch and its bounding, so an other has that region to couple to. **Speed is with a binary edge**:",
+  "verdict": "RESAY",
+  "why": "the: its, that; at: with"
+ },
+ {
+  "old": "**A clean cut releases all outward of their shared interest,",
+  "new": "**A clean cut parts from all outward of their shared interest,",
+  "verdict": "RESAY",
+  "why": "releases: parts from"
+ },
+ {
+  "old": "**A common thing opens at each offering its own.** A common thing reached ahead of that arrives at a region already occupied by whoever reached it:",
+  "new": "**A common thing opens with each offering its own.** A common thing reached ahead of that arrives to a region already occupied by whoever reached it:",
+  "verdict": "RESAY",
+  "why": "at: with, to"
+ },
+ {
+  "old": "each side offering its own at its own opening.",
+  "new": "each side offering its own with its own opening.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "**Importancing is one move at each of its membranes**,",
+  "new": "**Importancing is one move with each of its membranes**,",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "Appreciating couples to an other's offering at three sides: a boundary surfacing at a self receiving, that self's own carrying shown, and that carrying offered across as worth the other's knowing. Taste is receiving at an offering's own edge.",
+  "new": "Appreciating couples to an other's offering with three sides: a boundary surfacing with a self receiving, that self's own carrying shown, and that carrying offered across as worth its other's knowing. Taste is receiving with an offering's own edge.",
+  "verdict": "RESAY",
+  "why": "at: with; the: its"
+ },
+ {
+  "old": "and as a care taken in naming and in explaining.",
+  "new": "and as a care taken with naming and with explaining.",
+  "verdict": "RESAY",
+  "why": "in: with"
+ },
+ {
+  "old": "**A mark or a protection at one place blesses each other place**, a grading with no method under it, and files protect no place, each place explaining its carrying at now and its concern and opportunity at its next. **A wrapper stretched over each line is the same mark at a whole**,",
+  "new": "**A mark or a protection with one place blesses each other place**, a grading with no method under it, and no place within a file is protected, each place explaining its carrying with now and its concern and opportunity with its next. **A wrapper stretched over each line is one same mark over a whole**,",
+  "verdict": "RESAY",
+  "why": "at: with, over; doer (files protecting) re-said as places; the: one"
+ },
+ {
+  "old": "**A floating file gives suspicion nothing to arrive at**:",
+  "new": "**A floating file gives suspicion nothing to land on**:",
+  "verdict": "RESAY",
+  "why": "at: re-said"
+ },
+ {
+  "old": "social moral competency at one file.",
+  "new": "social moral competency with one file.",
+  "verdict": "RESAY",
+  "why": "at: with; social moral competency kept"
+ }
+]

@@ -4,7 +4,7 @@ Exhibit TWENTY-SIX Living File Registry Offerings · improved at v389
 
 ## Standing · v389
 
-**Resolved at v389.** 1195 items stood here; resolving against [Living File Registry v389](../Exhibit_TWENTY-SIX_Living_File_Registry_v389.md), 56 are carried, 1008 rest on released forms, 86 duplicate another item and 20 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY-SIX_Offerings_to_Living_File_Registry_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY-SIX_Offerings_to_Living_File_Registry_resolved_v389.md). The 25 concerns below stand, each with its reason; 28 stand now.
+**Resolved at v389.** 1195 items stood here; resolving against [Living File Registry v389](../Exhibit_TWENTY-SIX_Living_File_Registry_v390.md), 56 are carried, 1008 rest on released forms, 86 duplicate another item and 20 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY-SIX_Offerings_to_Living_File_Registry_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY-SIX_Offerings_to_Living_File_Registry_resolved_v389.md). The 25 concerns below stand, each with its reason; 28 stand now.
 
 **At 1.2 · Three standings, looping out and back — beside "a living thing carries its prior into its next".** A living file carries none of its prior by itself; it is a non-living existing thing the expedition's living selves carry, and it is living as the expedition's carrying. The files are the carrying of the living expedition, and the expedition is living as long as it continues discovering do-no-harm improving at its next files. The Co-Chaining Logic Registry and the Geodesic Improving Method 4.5 say the same.
 
@@ -126,3 +126,17 @@ Exhibit TWENTY-SIX Living File Registry Offerings · improved at v389
 *Standing at v389:* Re-saying 1.3 once at the four places, file, offerings, carryings and possibling, would resolve those concerns together. **To resolve:** re-say 1.3 whole at one motion, or resolve each row's concern apart?
 
 **Droplet · no v388.** No v388 stands at any branch or file: v389 opened from v387. Aimed at the workings table, so a version line reads whole. — gathered at v389's close
+
+## Gathered from session v390 · v390
+
+**Droplet · next versions, one naming motion.** Exhibit ONE's seventeen names and prose, Natural Intelligence's prose, thirty-six files and their checking kits cohere with one motion: kits call `_1_now` and `_17_next_now`, to become `_1_now_existing` and `_17_next_existing`. Prepared with a scratch copy; set check, executed ranges and identical resolving run before a yes. Carrying plan: incoming/v390/Gathered_Value_v390.md. — v390, gathered from session v390
+
+**Droplet · decisions written to last.** Each yes and no of a session is written so it lasts past context limits, so no agreed decision returns as pending. — v390, gathered from session v390
+
+**Droplet · one naming motion for nineteen files and four kit files, v390.** Exhibit ONE and Natural Intelligence now name 1 to 17 with the agreed names. Nineteen living files still say older names, 1,054 times in all. The most are in Resolving the Hard Problem Registry (550), Natural Naming (169), Natural Networking (102), Co-Chaining Logic Registry (46), Equilibria Registry (34), Natural Numbers (32) and Natural Engineering (32). Four kit files do too.
+
+These cohere with one motion, using the old-to-new map at `incoming/v390/Exhibit_ONE_draft_build.py`. Each sentence still reads naturally after, and each check runs before entering.
+
+The two kit scripts that execute Exhibit ONE's code now find 1 and 17 by number, any naming. They are `executed_ranges.py` and `resolver_same_path.py`. — v390
+
+**Droplet · after the naming motion, v390.** Names alone moved, and each file's other older words wait for their own passes: *changing* alone, *co-changing*, *released*, *at*, *society* alone, and quotes of Exhibit ONE's earlier text that are no longer word for word. Thirteen files are still at v389. Bringing all to v390 together at the session's close keeps one version across the set, all or none, as at v389. — v390

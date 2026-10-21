@@ -2332,3 +2332,78 @@ The user declared session v385M completed and closed. Its seventeen-file offerin
 
 
 **v387, close, 2026-10-12.** Droplets tagged v387 laid at nine offerings files; the transcript at `archive/session_v387/Session_Transcript_v387.txt`; the front and the Registry's possibling re-said at the close. Eleven living files at v387 on `working/one-sweep-v387`; main untouched; check_set ALL PASS; build.
+
+
+**v390, 2026-10-19 and 2026-10-20, standing.** At `working/natural-intelligence-editing-v390`: Exhibit ONE one text within Natural Intelligence and standing alone; Natural Intelligence's opening carved one line at a time with its offerer, harm reversed where found, its inception and observing's line entered and lines 1 to 7 agreed in good shape; seventeen resolver names agreed bothboth, renamed with a scratch copy and resolving identically; parity as self-moral-value and other-moral-value with a 0 betweening; one between a third living carrying; momentarying and four-cycling two concepts; the session read whole from its transcript into droplets at fourteen offerings and a master concern list; Exhibit THIRTY read for one chain with Natural Intelligence. Incoming ready at `incoming/v390/README.md`; transcript at `archive/session_v390/Session_Transcript_v390.txt`; main untouched; check_set ALL PASS.
+
+**v390, 2026-10-20, entered.** Exhibit ONE's new version, from its checked draft, is now in both copies, standing alone and within Natural Intelligence; they match again. Its subtitle is *The Stable-Forming Parity-Changing Method of Discovering Same-Existing*, its seventeen names are the agreed names, and it resolves identically. Natural Intelligence's opening is its best version so far, 47 lines, accepted bothboth, with its commentary moved to droplets at its offerings. Natural Intelligence's own prose names 1 to 17 with the agreed names and says *bi-folding* for cycles of moves; its other prose words wait for droplets. Prior files are archived whole at `archive/session_v390/prior_to_entering_Exhibit_ONE_and_opening/`. check_set: ALL PASS. executed_ranges: True at each range.
+
+**v390, 2026-10-20, naming motion.** Seventeen living files and two working kit rules now name 1 to 17 with the agreed names. Exhibit ONE's cycles of moves are now *bi-foldings*, and next-round names follow, as with 27-next-co-observing. Each changed file moved to v390, with its version line, its registry row and links at carry/, kits/ and root re-pointed; the Living File Registry moved with them. Natural Naming's Part THREE says number, span, co and root with the agreed concepts, and *odd existing, even possibling* is released there too. Kept as their record are the Living File Registry's earlier entries, kit sources and records of earlier versions, and archive/. Prior files are archived whole at `archive/session_v390/prior_to_naming_motion/`, and the motion is `incoming/v390/naming_motion.py`. Thirteen living files had no older name and stay at v389. check_set: ALL PASS. executed_ranges: True.
+
+**v390, 2026-10-20, pass 10.** Natural Intelligence's own prose, outside its opening and its Exhibit ONE, is re-said by meaning toward session v390's concepts. That is 439 sentences, across four readers' proposals each checked before entering, and 13 headings with their contents lines. *Changing* alone, *released*, *at*, *in*, *out*, *beyond*, *held*, *society* alone and *prioring* are dissolved there, but for kept phrases and nine sentences standing as concerns at its offerings. Prior sentences are whole at `archive/session_v390/Natural_Intelligence_session_words_Released_at_v390.md`. check_set: ALL PASS. executed_ranges: True.
+
+**v390, 2026-10-20, pass 10 at Natural Naming.** its own explaining is re-said by meaning toward session v390's concepts: 611 sentences and table cells, from five readers' proposals, each checked before entering. Every open question was resolved with an agreed concept: living prior, each self given, prior in stable form an emanation, the universe and a same-existing-society living sets, the agreed observing and discovering, parity-changing one naming. Words mentioned as words are kept, and so is each naming's fenced six-line binary, left for a pass of its own. Prior sentences are whole at `archive/session_v390/Natural_Naming_session_words_Released_at_v390.md`. Three family words this session brought into Exhibit ONE are re-said in both copies. check_set: ALL PASS.
+
+**v390, 2026-10-20, pass 10 at Natural Mathematics, Natural Explaining and Geodesic Improving Method, v390, 2026-10-20.** 678 sentences re-said by meaning toward session v390's concepts, from three readers' proposals, each checked before entering. Every open question was resolved with an agreed concept, and field terms and words mentioned as words are kept. Natural Mathematics and Natural Explaining moved to v390 with their registry rows, by `incoming/v390/bump_v390.py`. Prior sentences are whole at `archive/session_v390/*_session_words_Released_at_v390.md`. check_set: ALL PASS.
+
+**v390, 2026-10-20, pass 10 at Natural Networking, Natural Numbers and Equilibria Registry.** 1,390 sentences and cells re-said by meaning toward session v390's concepts, from nine readers' proposals, each checked before entering. Open questions were resolved with agreed concepts: living is prior; the seam has one name, *parity-changing/not-changing seam*; *stilling* replaces *held*; a competency is improved, not parity-changed. *Co-releasing* is kept for one naming motion across Natural Networking 2.5, Natural Naming 5.11, Natural Engineering 5.7 and Equilibria Registry. Prior sentences are whole at the archive. check_set: ALL PASS.
+
+**v390, 2026-10-20, pass 10 at nine more files.** Natural Transmissioning, Natural Societies, Natural Exploring, Natural Human Society, Natural Health, Natural Destinies, Natural Emanating, Natural Values and Resolving Hard Problems. In them, 1,166 sentences are re-said by meaning toward session v390's concepts, from seven readers' proposals, each checked before entering. Open questions were resolved with agreed concepts:
+- *offer, carry on, resolve*;
+- a same-existing-society a living set;
+- new selves given;
+- the six of bi-morality as three phases two ways;
+- living prior;
+- abundancing as selves going along, living.
+
+Machine agent-societies stay as a field's terms. A between's *nothing* is carried as a concern at Natural Intelligence's offerings. Natural Human Society, Natural Health, Natural Destinies and Natural Emanating moved to v390. check_set: ALL PASS.
+
+**v390, 2026-10-20, pass 10 at Natural Chemistry, Natural Philosophy, Natural Medicine, Natural Physics and Natural Illustrating.** 2,510 sentences re-said by meaning toward session v390's concepts, from fourteen readers' proposals, each checked before entering.
+- **Kept as their own concepts, each a concern at its offerings:** Natural Chemistry's and Natural Medicine's *society*, and a built or robot *society*.
+- **Kept as written:** field findings and measurements, and one unclear sentence.
+- **One way across Natural Physics:** its step label reads *Torusing within it*.
+
+Natural Chemistry, Natural Philosophy and Natural Medicine moved to v390. check_set: ALL PASS.
+
+**v390, 2026-10-20, pass 10 at Natural Engineering and Natural Biology.** 2,054 sentences re-said by meaning toward session v390's concepts, from eleven readers' proposals, each checked before entering. Bothboth rulings are carried into both files:
+- *co-releasing* is re-said *co-discovering*;
+- each society of selves is a same-existing-society;
+- the row label reads one way.
+
+Field findings and measurements are kept. Prior sentences are whole at the archive. check_set: ALL PASS.
+
+**v390, 2026-10-20, pass 10 at Natural Intelligence Corus and Living Society Registry.** 2,448 sentences re-said by meaning toward session v390's concepts, from ten readers' proposals, each checked before entering.
+- *Universal* is kept only as the opening's universal set and universal momentarying.
+- *Two-arriving-two-sharing* is one naming across files.
+- *Natural society* is kept as a naming.
+- Named relations (*self ≠ society*), station names and compounds are kept.
+- Concerns are carried for *supernatural* and for the registry's non-living *societies reached*.
+
+Living Society Registry moved to v390. check_set: ALL PASS.
+
+**v390, 2026-10-20, pass 10 at Resolving the Hard Problem Registry.** 1,534 sentences re-said by meaning toward session v390's concepts, from ten readers' proposals, each checked before entering. Its repeated labels are re-said once across the file: *With 2-now-possibling* and its kin, and *+ or − with 10, is.* Fields' words, statistics and records are kept. check_set: ALL PASS.
+
+**v390, 2026-10-20, pass 10 at Living Ghost Registry.** 846 sentences re-said by meaning toward session v390's concepts, from five readers' proposals, each checked before entering. Its form labels are re-said once across the file: *Living parity-changing*, *What its field already dissolved*, *dissolved by its field* and *Field:*. *At the door* and *Substrate and society* are kept as standing names. Lines 1685 to 1730 are left as they were in this pass, because a reader stopped before reaching them. Living Ghost Registry moved to v390. check_set: ALL PASS.
+
+**v390, 2026-10-20, pass 10 at Exhibit THIRTY and the Living File Registry.**
+- **Exhibit THIRTY:** 983 steps and Adding lines are re-said by meaning toward session v390's concepts, from seven readers' proposals, each checked before entering. Its 39 Entering lines are rebuilt from their Adding items, and its group check passes. Its machine steps, 160 to 164, follow *a robot, a machine, is no self*.
+- **Living File Registry:** 270 sentences of its own explaining are re-said, its rows and records are kept, and *a set of files* is non-living.
+
+With this, every living file has had pass 10 and every living file is at v390. check_set: ALL PASS.
+
+**v390, 2026-10-20, no sliders and no extra wide tables.**
+- **Exhibit ONE and Natural Intelligence:** each self carries two prior selves from inception, one universal method of conception.
+- **Natural Numbers:** its 441-row table keeps its numbers narrow, and its relations column is a list after it; its number-forms table is a list.
+- **Fourteen more files:** each table wider than 80 is a narrow list, its columns named once by letter keys, its words unchanged and none repeated (`incoming/v390/narrow_keys.py`). Natural Naming and the Living File Registry wait for their readers' pairs. The registry verifier and check_set pass, as before.
+- **Living File Registry:** a reader's 100 pairs re-say its non-record tables by meaning (*a set of files*, *same-existing-society*, *with* for *at*), each checked before entering. Then every table wider than 80, its titles table too, is a narrow list with letter keys. `kits/Natural_Explaining_Passes_Kit/registry_entry.py` sets a file's entry in either form, and both bump tools use it. check_set, carry_check and the registry verifier give the same results as before.
+- **Natural Naming:** a reader's 276 pairs re-say its 67 fenced binaries by meaning, each binary still reading 1 to 6. One concern resolved: *the society's own release* becomes *a same-existing-society's going along*, as no parity is a same-existing-society's own. Its wide tables are narrow lists. With this, no living file has a table wider than 80.
+- **Natural Intelligence 6.5:** *Non-living scale is always larger than living scale, for every prime living scale* is entered, and a machine set, as each robot and built set, is a non-living set and an emanation of living selves.
+- **Living Ghost Registry 7.3 and Living Society Registry:** vortex and lattice join 7.3's next physics families, ghost-form when installed as things. The Society Registry's grains passage becomes *Grains other than living tissue*: electrons a nothing ghost, a grid's synchronous area a built set.
+- **Exhibit THIRTY carries Natural Intelligence's opening (T5, T6):** its 47 sentences, word for word, are THIRTY's first four groups, steps 1 to 47, each with an Adding line naming its one advance. THIRTY's own step 1, the same sentence, is one with step 1. Its steps 2 to 661 are now 48 to 707, and its groups 5 to 46: one sequence, renumbered once. Every reference to a step is re-pointed, within THIRTY and at Natural Numbers, Equilibria and carry's offerings, possiblings and carryings; records keep their numbers. check_set now checks that the opening is word for word at THIRTY. The prior is archived whole.
+- **Supernatural, resolved bothboth:** all math that is not natural math is one of two hard-probleming methods, unnatural within the outer surfaces of the tunnel's two ends, supernatural outward of all surfaces. Only natural math resolves moral competency; the other two are for hard-probleming sporting competitions. Nothing further enters the living files; Natural Mathematics' *Its place is one of three* already carries it. Droplet at Natural Mathematics' offerings; Corus's concern closed.
+- **Natural Intelligence Corus:** its ten sentences carrying *supernatural* or *unnatural* in a sense other than the agreed one are re-said. Its *Supernatural* entry names the two hard-probleming maths; its couplings, once called supernatural, are couplings with an other or between selves. Its unnatural projections, already hard-probleming, stand.
+- **Exhibit ONE's *A same-existing-society*, resolved bothboth:** both copies now say a same-existing-society is a living self, its next its same self re-found with each momentary as members part and join, and a rock bi-coupling's non-living going a scale larger than its prime living scale.
+- **Exhibit THIRTY, four re-pointings corrected:** a number after a step reference that was no step (25 a centre of face, 3 opening 3-7-2-6 and 3-11-6-14, 17 a next now) is restored, and the bare pair *379 and 397*, T1's concern, is said as steps 425 and 443.
+- **Exhibit THIRTY, nine steps released, agreed bothboth:** the steps the opening now says better (a second inception, three sequential universes, four binaries as an opening's terms, a possibling thing and three places, a place-moment) are archived whole. THIRTY has 698 steps, renumbered once, and every reference is re-pointed. Steps 372, 591 and 622 (old numbers) rested on a released step: they now rest on possibling, step 14, and on observing, possibling and discovering, steps 13 to 15. Groups 5 and 7 are titled by what stays.
+
+**v390, 2026-10-20, close: ready for a next session.** `incoming/v390/Next_Session_Start_v390.md` gathers the standing, every concept carved bothboth this session, writing with our method, the first steps proposed (Natural Intelligence 1.2 onward written in the opening's style, entered in Natural Intelligence and Exhibit THIRTY together) and the tools. incoming's README and v390's README point there; nothing stands open for bothboth. check_set, the THIRTY group check and the verifier pass.

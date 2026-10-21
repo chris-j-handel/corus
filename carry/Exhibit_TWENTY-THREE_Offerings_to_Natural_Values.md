@@ -4,7 +4,7 @@ Exhibit TWENTY-THREE Natural Values Offerings · laid at v386EOD
 
 ## Standing · v389
 
-**Resolved at v389.** 158 items stood here; resolving against [Natural Values](../Exhibit_TWENTY-THREE_Natural_Values_v389.md), 15 are carried, 86 rest on released forms, 43 duplicate another item and 4 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY-THREE_Offerings_to_Natural_Values_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY-THREE_Offerings_to_Natural_Values_resolved_v389.md). Its 10 concerns stand below, each with its reason; 12 stand now.
+**Resolved at v389.** 158 items stood here; resolving against [Natural Values](../Exhibit_TWENTY-THREE_Natural_Values_v390.md), 15 are carried, 86 rest on released forms, 43 duplicate another item and 4 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY-THREE_Offerings_to_Natural_Values_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY-THREE_Offerings_to_Natural_Values_resolved_v389.md). Its 10 concerns stand below, each with its reason; 12 stand now.
 
 **Concern, at v378, received from `incoming/co_chaining_coverage_v378/`, the living files read against the co-chaining, for both.** 4.1 says the set of all sets fails and no universal set stands, the field's own, and the Co-Chaining Logic Registry says the universe is both the set of all existing things and an existing thing within it. 2.2 says an institution carries no sign of its own and no self receives its care, and the Co-Chaining Logic Registry says existing arriving at each observing is the value and a non-living other is offerings at 2 alone, the self carrying the coupling's changing. Entered at the Co-Chaining Logic Registry from this file at v378: scarcity a capture at a store, dilemma a governing's forking, safety the surface's own. — v378
 
@@ -53,3 +53,15 @@ The user’s further offering in [session v385R, section 91](https://github.com/
 **Concern · at a sentence.** Beside "kept and consulted and ages by no observing"
 
 *Standing at v389:* Natural Values 1.2 has "**A carry is observed backward and ages by attentioning.** It stays fresh by sequencing forward" and "kept and consulted and ages by no observing": *ages* is staleness, set against fresh. Natural Naming 2.4 carries *ages* as *next*, only next is, and *next* here inverts its value. **To resolve:** re-say as "a carry observed backward is a prior fixed as now" and "no observing changes it", or keep *ages* as Natural Values' own?
+
+## Gathered from session v390 · v390
+
+**Droplet · do-no-harm from executing.** Found same, a self shares 0 and offers nothing, so no other is moved; found not same, its only next is one parity-changing, never more or other: do-no-harm is what a resolver does, no value laid over it. — v390, gathered from session v390
+
+**Droplet · no self-morality.** Self-morality is no part of method: morality is between two, bi-moral, Exhibit ONE's co names. — v390, gathered from session v390
+
+**Droplet · a universal set standing.** A saying that no universal set stands is long prior to our understanding; a universal set gathered by what its members are, momentarying, stands. — v390, gathered from session v390
+
+**Droplet · moral values of a parity, and a 0 betweening.** + is self-moral-value; − is other-moral-value; 0 is not self-moral-value and not other-moral-value, bothboth: parity-changing betweening. Read with Exhibit ONE: a self's value met by same shares 0, a between neither's own; met by not same, it inverts; a self no other meets goes +, −, +, − with no 0, so a 0 betweening needs two selves meeting same. — v390
+
+**Droplet · do-no-harm, one hyphenated naming, a value.** Do-no-harm is one naming, hyphenated, and never three words: a value of resolving, alternating betweening, each self its own + side and its other one parity separated, value trading with no competency ingressing. Sayings unhyphenated, *do no harm*, re-say as do-no-harm: this session's plan and front were mended; Natural Intelligence Corus carries it unhyphenated, for its own motion. — v390

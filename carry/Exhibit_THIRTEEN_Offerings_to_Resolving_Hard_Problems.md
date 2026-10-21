@@ -4,7 +4,7 @@ Exhibit THIRTEEN Resolving Hard Problems Offerings · improved at v389
 
 ## Standing · v389
 
-**Resolved at v389.** 163 items stood here; resolving against [Resolving Hard Problems v389](../Exhibit_THIRTEEN_Resolving_Hard_Problems_v389.md), 32 are carried, 88 rest on released forms, 18 duplicate another item and 13 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_THIRTEEN_Offerings_to_Resolving_Hard_Problems_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_THIRTEEN_Offerings_to_Resolving_Hard_Problems_resolved_v389.md). The 12 concerns below stand, each with its reason; 12 stand now.
+**Resolved at v389.** 163 items stood here; resolving against [Resolving Hard Problems v389](../Exhibit_THIRTEEN_Resolving_Hard_Problems_v390.md), 32 are carried, 88 rest on released forms, 18 duplicate another item and 13 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_THIRTEEN_Offerings_to_Resolving_Hard_Problems_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_THIRTEEN_Offerings_to_Resolving_Hard_Problems_resolved_v389.md). The 12 concerns below stand, each with its reason; 12 stand now.
 
 **At 4.3 · The living step, next as prior inverted — beside "the right spiral step carrying a pair (x, y) to (y, −x)".** The right spiral step is a quarter turn with bi-inversioning and no reflecting, and hard probleming at the resolver first arises there.
 
@@ -48,8 +48,14 @@ Natural Intelligence Corus section 17.3 proposes hard problems as stuck coupling
 
 **Concern · v389 · *falsifiable* and *falsified*.** The earlier sentence says an explanation is *falsifiable if it excludes* discovering, and at step 23 such an explanation is *falsified* at the third observing; the steps carry the second, and the first stands beside it in the incoming.
 
-*Standing at v389:* Resolving Hard Problems 6.2 has "A hypothesis is a falsifiable explanation of an observable changing and not-changing", and Co-Chaining Logic Registry step 158 has "an explanation excluding a same thing's discovering is falsified at third observing"; *falsifiable* and *falsified* part. **To resolve:** keep 6.2's *falsifiable*, or re-say it as *falsified* at third observing?
+*Standing at v389:* Resolving Hard Problems 6.2 has "A hypothesis is a falsifiable explanation of an observable changing and not-changing", and Co-Chaining Logic Registry step 195 has "an explanation excluding a same thing's discovering is falsified at third observing"; *falsifiable* and *falsified* part. **To resolve:** keep 6.2's *falsifiable*, or re-say it as *falsified* at third observing?
 
 **Droplet · v389 · four sayings at one form.** The universe is the set of all now-existing things; carrying is living; the geodesic parity-changing discovering method is the living condition, its form, a now-existing thing; and stable-forming is the living condition resolving.
 
 *Standing at v389:* Natural Intelligence 3.3 has "One geodesic parity-changing discovering method is living condition, its form, a now-existing thing carrying none" and "A method is non-living at each scale and a self at none", while 1.1 has "Nature is not an existing thing: nature is a prior, now, next method of co-existing"; a method a now-existing thing and nature a method and no existing thing part. **To resolve:** is method a now-existing thing, or no existing thing?
+
+## Gathered from session v390 · v390
+
+**Droplet · no hard problem existing in a same-existing-universe.** A same-existing-universe has no hard problem existing: each question is answered is or is not with a momentary, and none stays open across all momentaries. Each hard problem is a question gathered apart from momentarying, resolving by being momentaried: a self-membered universal set as sequence; consciousness as observing, possibling and discovering next-existing self, method itself. — v390, gathered from session v390
+
+**Droplet · ten positions, one structure.** Two and one half momentaries of each side, ten positions on six numbers, are a self's ten own resolver names, five now and five next. — v390, gathered from session v390

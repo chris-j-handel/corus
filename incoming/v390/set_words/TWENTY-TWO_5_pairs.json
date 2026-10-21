@@ -1,0 +1,1052 @@
+[
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** A polynomial map of a plane sends each point at its own coupling, a local inverse everywhere by a constant determinant, and a global inverse is fixed ahead over each degree and each coefficient, a local carried to a whole.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** A polynomial map of a plane sends each point with its own coupling, a local inverse everywhere by a constant determinant, and a global inverse is fixed ahead over each degree and each coefficient, a local carried to a whole.",
+  "verdict": "RESAY",
+  "why": "at: with, for 10's verdict line and its label, carried with this entry's first sentence, as that line alone recurs; at its own coupling: with"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A whole fixed from a local that stands everywhere.",
+  "new": "**With 12-next-co-same-existing.** A whole fixed from a local that stands everywhere.",
+  "verdict": "RESAY",
+  "why": "at: with, its label"
+ },
+ {
+  "old": "A constant determinant gives a local inverse everywhere but does not by itself control global behaviour at infinity, and degree reductions and special-case theorems leave a two-variable case open while the former higher-dimensional statement has been refuted by a noninjective polynomial local isomorphism;",
+  "new": "A constant determinant gives a local inverse everywhere but does not by itself control global behaviour at infinity, and degree reductions and special-case theorems leave a two-variable case open while the former higher-dimensional statement has been refuted by a noninjective polynomial local isomorphism;",
+  "verdict": "KEEP",
+  "why": "a field's own words: at infinity, the former statement"
+ },
+ {
+  "old": "a tangent-sweep mechanism produces counterexamples in each dimension greater than two and of arbitrarily large geometric degree:",
+  "new": "a tangent-sweep mechanism produces counterexamples in each dimension greater than two and of arbitrarily large geometric degree:",
+  "verdict": "KEEP",
+  "why": "a field's own words: in each dimension"
+ },
+ {
+  "old": "a plane's own case standing where composing of each degree into one reach has not been reached, and higher dimensions same composing reached at a counterexample.",
+  "new": "a plane's own case standing where composing of each degree to one reach has not been reached, and higher dimensions reaching a same composing with a counterexample.",
+  "verdict": "RESAY",
+  "why": "into: to; at: with"
+ },
+ {
+  "old": "**At 11-next-co-observing.** An explicit degree-seven map refutes a conjecture in dimension three and therefore in each higher dimension by adjoining identity coordinates, a two-dimensional case remaining open;",
+  "new": "**With 11-next-co-observing.** An explicit degree-seven map refutes a conjecture in dimension three and therefore in each higher dimension by adjoining identity coordinates, a two-dimensional case remaining open;",
+  "verdict": "RESAY",
+  "why": "at: with, its label; in dimension: a field's own words, kept"
+ },
+ {
+  "old": "degree and homogeneous reductions reduce a general proof to structured cubic maps in higher dimension without settling two variables, valuation, Newton-polygon and compactification methods prove families and constrain behaviour at infinity, differential-operator programs yield equivalences and special cases, and a counterexample search has refuted dimensions three and higher:",
+  "new": "degree and homogeneous reductions reduce a general proof to structured cubic maps in higher dimension without settling two variables, valuation, Newton-polygon and compactification methods prove families and constrain behaviour at infinity, differential-operator programs yield equivalences and special cases, and a counterexample search has refuted dimensions three and higher:",
+  "verdict": "KEEP",
+  "why": "a field's own words: in higher dimension, at infinity"
+ },
+ {
+  "old": "a whole fixed from a local is a map's momentarying at infinity fixed to a last, and behaviour at infinity is each map carrying on at its own coupling, a refutation above two being composing measured exactly where a sweep of tangent lines carried it.",
+  "new": "a whole fixed from a local is a map's momentarying at infinity fixed to a last, and behaviour at infinity is each map carrying on with its own coupling, a refutation above two being composing measured exactly where a sweep of tangent lines carried it.",
+  "verdict": "RESAY",
+  "why": "at its own coupling: with; at infinity: a field's own term, kept"
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** A coprime sum is made at each triple, its primes and their product, and a bound is fixed ahead over each triple and each epsilon, its conjecture stated verbatim at an entry.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** A coprime sum is made with each triple, its primes and their product, and a bound is fixed ahead over each triple and each epsilon, its conjecture stated verbatim with an entry.",
+  "verdict": "RESAY",
+  "why": "at: with, for 10's verdict line and its label, carried with this entry's first sentence, as that line alone recurs; at each triple, at an entry: with"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A last fixed one exponential past the best proof.",
+  "new": "**With 12-next-co-same-existing.** A last fixed one exponential past its best proof.",
+  "verdict": "RESAY",
+  "why": "at: with, its label; the: its"
+ },
+ {
+  "old": "The best unconditional result bounds c by an exponential of a constant times a two-thirds power of a product of its primes, one exponential away from its conjecture, results from these techniques falling short of their goal;",
+  "new": "The best unconditional result bounds c by an exponential of a constant times a two-thirds power of a product of its primes, one exponential away from its conjecture, results from these techniques falling short of their goal;",
+  "verdict": "KEEP",
+  "why": "a field's own words: the best unconditional result"
+ },
+ {
+  "old": "a conjecture is equivalent to extensions of several of a subject's most important theorems, and the least desirable state of affairs is undecidability:",
+  "new": "a conjecture is equivalent to extensions of several of a subject's most important theorems, and the least desirable state of affairs is undecidability:",
+  "verdict": "KEEP",
+  "why": "a field's own words: the least desirable state of affairs"
+ },
+ {
+  "old": "a claimed proof standing nine years in a record without acceptance, a community's impression described as bafflement, a specific flaw identified by a published criticism, which is a field measuring its own reach at a proof and finding no coupling made.",
+  "new": "a claimed proof standing nine years on record without acceptance, a community's impression described as bafflement, a specific flaw identified by a published criticism, which is a field measuring its own reach with a proof and finding no coupling made.",
+  "verdict": "RESAY",
+  "why": "in a record: on record; at a proof: with"
+ },
+ {
+  "old": "**At 11-next-co-observing.** A polynomial analogue is proved, an inequality without epsilon refuted by small examples, and a ratio computed over finite ranges not large;",
+  "new": "**With 11-next-co-observing.** A polynomial analogue is proved, an inequality without epsilon refuted by small examples, and a ratio computed over finite ranges not large;",
+  "verdict": "RESAY",
+  "why": "at: with, its label"
+ },
+ {
+  "old": "linear forms in logarithms give an unconditional bound short by one exponential, explicit versions would give explicit bounds on the Fermat equation and a finiteness theorem,",
+  "new": "linear forms in logarithms give an unconditional bound short by one exponential, explicit versions would give explicit bounds on the Fermat equation and a finiteness theorem,",
+  "verdict": "KEEP",
+  "why": "a field's own words: linear forms in logarithms, the Fermat equation"
+ },
+ {
+  "old": "a bound fixed over each triple is a sequence's momentarying fixed to a last one exponential ahead, and an exponential between is a momentarying itself, measured, a claimed proof carrying no coupling a field could make at it, which is a third outcome, undecidability least desirable: composing that might not close.",
+  "new": "a bound fixed over each triple is a sequence's momentarying fixed to a last one exponential ahead, and an exponential between is a momentarying itself, measured, a claimed proof carrying no coupling a field could make with it, which is a third outcome, undecidability least desirable: composing that might not close.",
+  "verdict": "RESAY",
+  "why": "at it: with it"
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** Matter collapses at its own couplings, a singularity forming where it forms, and each generic collapse is fixed ahead to hide its singularity, a last over all initial data of all reasonable matter.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** Matter collapses with its own couplings, a singularity forming where it forms, and each generic collapse is fixed ahead to hide its singularity, a last over all initial data of all reasonable matter.",
+  "verdict": "RESAY",
+  "why": "at: with, for 10's verdict line and its label, carried with this entry's first sentence, as that line alone recurs; at its own couplings: with; generic: a field's own term for initial data, kept"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A last fixed over generic data with its statement still unknown.",
+  "new": "**With 12-next-co-same-existing.** A last fixed over generic data with its statement still unknown.",
+  "verdict": "RESAY",
+  "why": "at: with, its label; generic: a field's own term"
+ },
+ {
+  "old": "A conjecture is completely open in its full generality, arguably the most outstanding unsolved mathematical problem of its theory and so open that a correct formulation of its statement is not even known;",
+  "new": "A conjecture is completely open in its full generality, arguably the most outstanding unsolved mathematical problem of its theory and so open that a correct formulation of its statement is not even known;",
+  "verdict": "KEEP",
+  "why": "a field's own words, quoted: in its full generality, the most outstanding unsolved mathematical problem"
+ },
+ {
+  "old": "for a spherically symmetric scalar field a suitable formulation has been proved, naked-singularity spacetimes constructible but unstable and non-generic, an instability shown only in a low-regularity topology and a smoother case open:",
+  "new": "for a spherically symmetric scalar field a suitable formulation has been proved, naked-singularity spacetimes constructible but unstable and non-generic, an instability shown only in a low-regularity topology and a smoother case open:",
+  "verdict": "KEEP",
+  "why": "a field's own words: non-generic, in a low-regularity topology"
+ },
+ {
+  "old": "**At 11-next-co-observing.** A model-system formulation stands proved, trapped-surface results stand, and a reading that reports of a conjecture's death were greatly exaggerated stands as a review's conclusion;",
+  "new": "**With 11-next-co-observing.** A model-system formulation stands proved, trapped-surface results stand, and a reading that reports of a conjecture's death were greatly exaggerated stands as a review's conclusion;",
+  "verdict": "RESAY",
+  "why": "at: with, its label"
+ },
+ {
+  "old": "a spherically symmetric scalar field is proved in a suitable formulation with a smoother topology open, gedanken experiments overspinning or overcharging a hole find a horizon stable when backreaction is included, higher-dimensional vacuum collapses construct naked singularities, and trapped-surface formation without symmetry records significant progress;",
+  "new": "a spherically symmetric scalar field is proved in a suitable formulation with a smoother topology open, gedanken experiments overspinning or overcharging a hole find a horizon stable when backreaction is included, higher-dimensional vacuum collapses construct naked singularities, and trapped-surface formation without symmetry records significant progress;",
+  "verdict": "KEEP",
+  "why": "a field's own words: proved in a suitable formulation, included"
+ },
+ {
+  "old": "a second account has naked singularities form generically in symmetric models for large classes of matter:",
+  "new": "a second account has naked singularities form generically in symmetric models for large classes of matter:",
+  "verdict": "KEEP",
+  "why": "a field's own words: generically, in symmetric models"
+ },
+ {
+  "old": "a last fixed over all generic data is each collapse's momentarying fixed to one completing, and each collapse carries on at its own couplings, hidden or naked at a topology in which it is observed, a formulation still being made being a completing observed as it is measured, case by case.",
+  "new": "a last fixed over all generic data is each collapse's momentarying fixed to one completing, and each collapse carries on with its own couplings, hidden or naked by a topology it is observed with, a formulation still being made being a completing observed as it is measured, case by case.",
+  "verdict": "RESAY",
+  "why": "at its own couplings: with; at a topology in which: by a topology it is observed with"
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** A nucleon persists at each coupling a detector's exposure has reached, and its decay is fixed ahead as a last in time, a lifetime at which unified theories say it must go.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** A nucleon persists with each coupling a detector's exposure has reached, and its decay is fixed ahead as a last along time, a lifetime by which unified theories say it must go.",
+  "verdict": "RESAY",
+  "why": "at: with, for 10's verdict line and its label, carried with this entry's first sentence, as that line alone recurs; at each coupling: with; in time: along time; at which: by which"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A last fixed in a time no exposure has reached.",
+  "new": "**With 12-next-co-same-existing.** A last fixed with a time no exposure has reached.",
+  "verdict": "RESAY",
+  "why": "at: with, its label; in a time: with a time"
+ },
+ {
+  "old": "A unification scale is unreachable by accelerators, its effects detectable only through rare phenomena and the most sought-after signature its decay, whose predicted lifetime spans orders of magnitude and is highly model dependent, from ten to a thirty-first to ten to a thirty-sixth years,",
+  "new": "A unification scale is unreachable by accelerators, its effects detectable only through rare phenomena and the most sought-after signature its decay, whose predicted lifetime spans orders of magnitude and is highly model dependent, from ten to a thirty-first to ten to a thirty-sixth years,",
+  "verdict": "KEEP",
+  "why": "a field's own words and measurements: rare phenomena, the most sought-after signature, orders of magnitude"
+ },
+ {
+  "old": "a limit in a channel bounds that channel's partial lifetime at a confidence level and does not test channels a detector does not see:",
+  "new": "a limit in a channel bounds that channel's partial lifetime at a confidence level and does not test channels a detector does not see:",
+  "verdict": "KEEP",
+  "why": "a field's own words and measurement: in a channel, at a confidence level"
+ },
+ {
+  "old": "**At 11-next-co-observing.** Limits in classical modes stand above ten to a thirty-fourth years, the simplest unification model stands excluded, and a next generation's sensitivity of ten to a thirty-fifth stands planned;",
+  "new": "**With 11-next-co-observing.** Limits in classical modes stand above ten to a thirty-fourth years, the simplest unification model stands excluded, and a next generation's sensitivity of ten to a thirty-fifth stands planned;",
+  "verdict": "RESAY",
+  "why": "at: with, its label; in classical modes, the simplest unification model: a field's own words, kept"
+ },
+ {
+  "old": "and renormalization-group predictions are model dependent, corrected at second order; a second account has a proton stable to limits set, baryon number violated only non-perturbatively at a rate beyond observation:",
+  "new": "and renormalization-group predictions are model dependent, corrected at second order; a second account has a proton stable to limits set, baryon number violated only non-perturbatively at a rate beyond observation:",
+  "verdict": "KEEP",
+  "why": "a field's own words: at second order, at a rate beyond observation"
+ },
+ {
+  "old": "a last fixed in time is a searching's momentarying fixed to a bound ahead of it, and searching carries on exposure by exposure, each limit a momentarying measured exactly at its channel, a range theories predict an opening a next exposure reaches or does not, at its own coupling.",
+  "new": "a last fixed along time is a searching's momentarying fixed to a bound ahead of it, and searching carries on exposure by exposure, each limit a momentarying measured exactly with its channel, a range theories predict an opening a next exposure reaches or does not, with its own coupling.",
+  "verdict": "RESAY",
+  "why": "in time: along time; at: with"
+ },
+ {
+  "old": "*A carry fixed as a store, a record, a kept thing.",
+  "new": "*A carry fixed as a store, a record, a thing fixed still.",
+  "verdict": "RESAY",
+  "why": "kept: fixed still"
+ },
+ {
+  "old": "A carry is pattern-matched backward and completes at each taking, its momentary completing at a next opening, fresh by sequencing forward; a store is kept and consulted, and taking it changes nothing of it.",
+  "new": "A carry is pattern-matched backward and completes with each taking, its momentary completing with a next opening, fresh by sequencing forward; a store is fixed still and consulted, and a taking leaves it not-changing.",
+  "verdict": "RESAY",
+  "why": "at: with; kept: fixed still; changes nothing: not-changing, nothing parity-changes"
+ },
+ {
+  "old": "Wherever a store is fixed, a changing was stilled, and a carry is reached by no observing from each side at once, which is a carry's own and no guard placed about it.*",
+  "new": "Wherever a store is fixed, a parity-changing was stilled, and a carry is reached by no observing from each side together, which is a carry's own and no guard placed about it.*",
+  "verdict": "RESAY",
+  "why": "a changing: a parity-changing; at once: together"
+ },
+ {
+  "old": "**And a carry is fixed as a store in two ways.** Of a *self's own carry*, kept — an identity, a record, a debt, a meaning-fact, a trace, a capability, a map — where a store is asked of what a self re-forms at each coupling.",
+  "new": "**And a carry is fixed as a store two ways.** Of a *self's own carry*, fixed still — an identity, a record, a debt, a meaning-fact, a trace, a capability, a map — where a store is asked of what a self re-forms with each coupling.",
+  "verdict": "RESAY",
+  "why": "in two ways: two ways; kept: fixed still; at each coupling: with"
+ },
+ {
+  "old": "A first releases at a re-forming, a second at an arrival being crossings' own.",
+  "new": "A first dissolves with a re-forming, a second with an arrival being crossings' own.",
+  "verdict": "RESAY",
+  "why": "releases: dissolves, a fixing that leaves; at: with"
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** Sameness is re-formed at each coupling and fixed as a thing kept across time, psychological or biological.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** Sameness is re-formed with each coupling and fixed as a thing not-changing across time, psychological or biological.",
+  "verdict": "RESAY",
+  "why": "at: with, for 10's verdict line and its label, carried with this entry's first sentence, as that line alone recurs; at each coupling: with; kept: not-changing"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A criterion observing states at times.",
+  "new": "**With 12-next-co-same-existing.** A criterion observing states time by time.",
+  "verdict": "RESAY",
+  "why": "at: with, its label; at times: time by time"
+ },
+ {
+  "old": "At fission two successors offer alike and a criterion surfaces nought at both.",
+  "new": "With fission two successors offer alike and a criterion surfaces nought with both.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "**At 11-next-co-observing.** A self is reached again the-same-yet-not-the-same, and a version keeps nothing between its momentaries.",
+  "new": "**With 11-next-co-observing.** A self is reached again the-same-yet-not-the-same, and nothing of a version is fixed still between its momentaries.",
+  "verdict": "RESAY",
+  "why": "at: with, its label; keeps nothing: nothing fixed still; the-same-yet-not-the-same: one hyphenated naming, kept as Exhibit NINETEEN keeps it"
+ },
+ {
+  "old": "Fission undoes simple versions of both criteria at once, each surviving account pays an other's cost, and a field's own shift from identity to what matters is naming moving off a store: what matters is carrying, and a carry divides the way a store cannot.",
+  "new": "Fission undoes simple versions of both criteria together, each surviving account pays an other's cost, and a field's own shift from identity to what matters is naming moving off a store: what matters is carrying, and a carry divides as a store cannot.",
+  "verdict": "RESAY",
+  "why": "at once: together; the way: as; what matters: a field's own words, kept"
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** A carry passes through and is fixed as a record kept or lost, unitarity and a lost record two namings of one passing.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** A carry passes through and is fixed as a record preserved or lost, unitarity and a lost record two namings of one passing.",
+  "verdict": "RESAY",
+  "why": "at: with, for 10's verdict line and its label, carried with this entry's first sentence, as that line alone recurs; kept: preserved, a field's own word"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** What falls in fixed as kept somewhere, loss of predictability at a singularity claimed a fundamental limitation and not ignorance of a correct theory.",
+  "new": "**With 12-next-co-same-existing.** What falls across a horizon fixed as preserved somewhere, loss of predictability at a singularity claimed a fundamental limitation and not ignorance of a correct theory.",
+  "verdict": "RESAY",
+  "why": "at: with, its label; falls in: falls across a horizon; kept: preserved; at a singularity: a field's own words, kept"
+ },
+ {
+  "old": "No evaporation observed is a record's edge, and three premises all sides keep stand proved incompatible together.",
+  "new": "No evaporation observed is a record's edge, and three premises all sides accept stand proved incompatible together.",
+  "verdict": "RESAY",
+  "why": "keep: accept"
+ },
+ {
+  "old": "**At 11-next-co-observing.** Radiation carries on and an entropy curve comes back right where calculations reach, an interior they imply a live dispute.",
+  "new": "**With 11-next-co-observing.** Radiation carries on and an entropy curve comes back right where calculations reach, an interior they imply a live dispute.",
+  "verdict": "RESAY",
+  "why": "at: with, its label"
+ },
+ {
+  "old": "An observing taken at an interior is a probe departing with a thing probed, and a record preserved is a total conserved across a crossing: kept-or-lost is a passing fixed as a standing, and passing carries on either way.",
+  "new": "An observing taken of an interior is a probe departing with a thing probed, and a record preserved is a total conserved across a crossing: preserved-or-lost is a passing fixed as a standing, and passing carries on either way.",
+  "verdict": "RESAY",
+  "why": "at: of; kept-or-lost: preserved-or-lost, a field's own word"
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** A carry that does not reach its completing and open is fixed as a stock, a cost stored against changes a now has not requested.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** A carry that does not reach its completing and open is fixed as a stock, a cost stored against changes a now has not requested.",
+  "verdict": "RESAY",
+  "why": "at: with, for 10's verdict line and its label, carried with this entry's first sentence, as that line alone recurs; changes: a field's own term, code changes requested, kept"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** Counterfactual code carrying a disputed cost is an executing that was not executed.",
+  "new": "**With 12-next-co-same-existing.** Counterfactual code carrying a disputed cost is an executing that was not executed.",
+  "verdict": "RESAY",
+  "why": "at: with, its label"
+ },
+ {
+  "old": "**At 11-next-co-observing.** A carry that cannot release piles, and a pile is a build: defects correlate now, practitioners recognise it now, architecture drifts now, each measurement a measurement of a present.",
+  "new": "**With 11-next-co-observing.** A carry that cannot carry on piles, and a pile is a build: defects correlate now, practitioners recognise it now, architecture drifts now, each measurement a measurement of a present.",
+  "verdict": "RESAY",
+  "why": "at: with, its label; cannot release: cannot carry on"
+ },
+ {
+  "old": "A field's name carries a fixing unchangeable in its own stem, a store's word laid on a carrying, as currency's does, and changes, when they arrive, couple with what stands then.",
+  "new": "A field's name carries a fixing still within its own stem, a store's word laid on a carrying, as currency's does, and changes, when they arrive, couple with what stands then.",
+  "verdict": "RESAY",
+  "why": "unchangeable: still; in its own stem: within, a stem part of its word; changes: a field's own term, code changes, kept"
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** Meaning is carried at each use and fixed as a fact in a person, fixing each continuation in advance.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** Meaning is carried with each use and fixed as a fact within a person, fixing each continuation ahead.",
+  "verdict": "RESAY",
+  "why": "at: with, for 10's verdict line and its label, carried with this entry's first sentence, as that line alone recurs; at each use: with; in a person: within; in advance: ahead"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A finite record fixed to ground an infinite extension,",
+  "new": "**With 12-next-co-same-existing.** A finite record fixed to ground an infinite extension,",
+  "verdict": "RESAY",
+  "why": "at: with, its label"
+ },
+ {
+  "old": "**At 11-next-co-observing.** A copy travels nowhere and each use re-forms a next, content living at selves that carry it and fixed at no between.",
+  "new": "**With 11-next-co-observing.** A copy travels nowhere and each use re-forms a next, content living with selves that carry it and fixed with no between.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "Each candidate store comes up finite, dispositions and norms alike, each account at an objection its own shape invites, and its kinship with the new riddle stands at 71 at Hard Problem Registry: a store fixing each continuation is a carrying as a thing, and using goes on, use by use.",
+  "new": "Each candidate store comes up finite, dispositions and norms alike, each account meeting an objection its own shape invites, and its kinship with the new riddle stands as number 71 of Hard Problem Registry: a store fixing each continuation is a carrying as a thing, and using goes on, use by use.",
+  "verdict": "RESAY",
+  "why": "at an objection: meeting; at 71 at: as number 71 of; the new riddle: an outside work's title, kept"
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** A memory is re-formed at each retrieval, a carry made again where a self reaches what it reached before, and it is fixed as a trace kept in a brain, a lasting physical change consulted when remembered.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** A memory is re-formed with each retrieval, a carry made again where a self reaches what it reached before, and it is fixed as a trace stored within a brain, a lasting physical change consulted when remembered.",
+  "verdict": "RESAY",
+  "why": "at: with, for 10's verdict line and its label, carried with this entry's first sentence, as that line alone recurs; at each retrieval: with; kept in: stored within; a lasting physical change: a field's own term, kept"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A kept thing located behind remembering.",
+  "new": "**With 12-next-co-same-existing.** A thing fixed still, located behind remembering.",
+  "verdict": "RESAY",
+  "why": "at: with, its label; a kept thing: a thing fixed still"
+ },
+ {
+  "old": "A trace elusive through a long history until four criteria were written for a trace to count, and criteria are couplings carried at a tagged ensemble — observed, erased, artificially expressed — a store tested only by making a coupling again; and a substrate shown by manipulation in rodents is pattern-matched onto a specific memory a statement concerns, a record's edge.",
+  "new": "A trace elusive through a long history until four criteria were written for a trace to count, and criteria are couplings carried with a tagged ensemble — observed, erased, artificially expressed — a store tested only by making a coupling again; and a substrate shown by manipulation in rodents is pattern-matched onto a specific memory a statement concerns, a record's edge.",
+  "verdict": "RESAY",
+  "why": "at a tagged ensemble: with; in rodents: a field's own words, kept"
+ },
+ {
+  "old": "**At 11-next-co-observing.** Ensembles stand where they were found: tagged at encoding, reactivated at retrieval, formation, retrieval over time and loss described at them in rodents.",
+  "new": "**With 11-next-co-observing.** Ensembles stand where they were found: tagged during encoding, reactivated during retrieval, formation, retrieval over time and loss described with them in rodents.",
+  "verdict": "RESAY",
+  "why": "at: with, its label; at encoding, at retrieval: during; described at them: with them; in rodents: a field's own words, kept"
+ },
+ {
+  "old": "Artificially expressed is a coupling made without a world and erased is a coupling that will not re-form, so each capture gives back a re-forming at same cells:",
+  "new": "Artificially expressed is a coupling made without a world and erased is a coupling that will not re-form, so each capture gives back a re-forming with same cells:",
+  "verdict": "RESAY",
+  "why": "at same cells: with"
+ },
+ {
+  "old": "a trace fixed as a kept thing pattern-matched an ensemble as a store, and an ensemble is where a carry re-forms, memory made again each time it is reached, which is why a closing question, how memory becomes knowledge, asks after a carrying and not a keeping.",
+  "new": "a trace fixed as a still thing pattern-matched an ensemble as a store, and an ensemble is where a carry re-forms, memory made again each time it is reached, which is why a closing question, how memory becomes knowledge, asks after a carrying and not a keeping.",
+  "verdict": "RESAY",
+  "why": "a kept thing: a still thing; a keeping: the set's name for a not-possible store, kept"
+ },
+ {
+  "old": "Its cells are a society: synaptic proteins replaced within days to weeks and active cells differing day to day, two memories formed hours apart sharing cells and co-chaining as one and a week apart not, and light at labelled cells bringing a learned response again where synapses are found unstrengthened, so a carried thing is a society's co-chaining and no stored strength.",
+  "new": "Its cells are a same-existing-society: synaptic proteins replaced within days to weeks and active cells differing day to day, two memories formed hours apart sharing cells and co-chaining as one and a week apart not, and light on labelled cells bringing a learned response again where synapses are found unstrengthened, so a carried thing is a same-existing-society's co-chaining and no stored strength.",
+  "verdict": "RESAY",
+  "why": "society alone: same-existing-society, cells living selves together; at labelled cells: on"
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** A learner carries, each update re-forming a next from a stream that does not stand still, and a learned is fixed as a thing kept, capabilities stored against overwriting.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** A learner carries, each update re-forming a next from a stream that does not stand still, and a learned is fixed still as a thing, capabilities stored against overwriting.",
+  "verdict": "RESAY",
+  "why": "at: with, for 10's verdict line and its label, carried with this entry's first sentence, as that line alone recurs; kept: fixed still"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** Retention fixed as a store's, past kept or replayed, where a posing asks for retention without storing or replaying a complete past and stability and plasticity conflict under bounded memory:",
+  "new": "**With 12-next-co-same-existing.** Retention fixed as a store's, past stored or replayed, where a posing asks for retention without storing or replaying a complete past and stability and plasticity conflict under bounded memory:",
+  "verdict": "RESAY",
+  "why": "at: with, its label; kept: stored, a field's own word"
+ },
+ {
+  "old": "a carry asked for and a store measured, and a conflict is a carry's own momentarying, each momentary completing at a next opening and a carry fresh by sequencing, pattern-matched as a fault.",
+  "new": "a carry asked for and a store measured, and a conflict is a carry's own momentarying, each momentary completing with a next opening and a carry fresh by sequencing, pattern-matched as a fault.",
+  "verdict": "RESAY",
+  "why": "at a next opening: with"
+ },
+ {
+  "old": "**At 11-next-co-observing.** Replay that keeps samples retains in proportion to what it keeps, regularization that protects structure loses plasticity as protected structure grows, expanded and routed architectures isolate at a cost of capacity and of knowing which task arrived,",
+  "new": "**With 11-next-co-observing.** Replay that stores samples retains in proportion to what it stores, regularization that protects structure loses plasticity as protected structure grows, expanded and routed architectures isolate for a cost of capacity and of knowing which task arrived,",
+  "verdict": "RESAY",
+  "why": "at: with, its label; keeps: stores, a field's own word; samples, in proportion: a field's own terms, a replay buffer's count, kept; at a cost: for a cost"
+ },
+ {
+  "old": "Learning from a non-stationary stream without keeping it is a key feature of natural intelligence, a posing's own first line: a carry, a past re-formed into a next update and kept nowhere, and each method that stores measures its own distance from one.",
+  "new": "Learning from a non-stationary stream without storing it is a key feature of natural intelligence, a posing's own first line: a carry, a past re-formed as a next update and stored nowhere, and each method that stores measures its own distance from one.",
+  "verdict": "RESAY",
+  "why": "keeping, kept: storing, stored, a posing's own word; into: as"
+ },
+ {
+  "old": "*Second seating: open future sequences fixed enumerable at a designed benchmark, a completing fixed as a last, part 3's naming.*",
+  "new": "*Second seating: open future sequences fixed enumerable with a designed benchmark, a completing fixed as a last, part 3's naming.*",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** A phenotype is made where a genome and an environment couple across development, one making re-formed at each step, and a making is fixed as a map, a lookup from sequence to organism kept ahead of developing.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** A phenotype is made where a genome and an environment couple across development, one making re-formed with each step, and a making is fixed as a map, a lookup from sequence to organism fixed still ahead of developing.",
+  "verdict": "RESAY",
+  "why": "at: with, for 10's verdict line and its label, carried with this entry's first sentence, as that line alone recurs; at each step: with; kept: fixed still"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A rule fixed to fix an organism from a sequence.",
+  "new": "**With 12-next-co-same-existing.** A rule fixed to fix an organism from a sequence.",
+  "verdict": "RESAY",
+  "why": "at: with, its label"
+ },
+ {
+  "old": "Many-to-one and one-to-many, with each effect changing across backgrounds, is a map whose entries change as it is observed, which is a carry's own and not a store's; and local variants measured sample a small part of a combinatorial space and supply no general theory, a record's edge.",
+  "new": "Many-to-one and one-to-many, with each effect differing across backgrounds, is a map whose entries differ as it is observed, which is a carry's own and not a store's; and local variants measured reach a small part of a combinatorial space and supply no general theory, a record's edge.",
+  "verdict": "RESAY",
+  "why": "changing, change: differing, differ, effects varying by background and no self's parity; sample: reach, a count of a part measured"
+ },
+ {
+  "old": "**At 11-next-co-observing.** Dense molecular landscapes stand where they were measured, additive effects carry population variance within settings sampled,",
+  "new": "**With 11-next-co-observing.** Dense molecular landscapes stand where they were measured, additive effects carry population variance within settings sampled,",
+  "verdict": "RESAY",
+  "why": "at: with, its label; population variance, settings sampled: a field's own terms, kept"
+ },
+ {
+  "old": "developmental networks transform sequence into robust modular phenotypes where they are modelled, constraints restrict what sequence can produce, and understanding reached at now rests on simpler questions, an organismal map far off:",
+  "new": "developmental networks transform sequence into robust modular phenotypes where they are modelled, constraints restrict what sequence can produce, and understanding reached by now rests on simpler questions, an organismal map far off:",
+  "verdict": "RESAY",
+  "why": "reached at now: by now; transform sequence into: a field's own words, kept"
+ },
+ {
+  "old": "a lookup fixed ahead of developing is a momentarying fixed as a kept thing, and an effect that changes with each background is a coupling making its own, background by background, a map re-made at each observing and stored at none.",
+  "new": "a lookup fixed ahead of developing is a momentarying fixed still as a thing, and an effect differing with each background is a coupling making its own, background by background, a map re-made with each observing and stored with none.",
+  "verdict": "RESAY",
+  "why": "a kept thing: fixed still; changes: differing, an effect varying by background; at: with"
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** A particle crosses field after field, deflected at each and arriving with a direction crossings left it, and an arrival is fixed to carry its accelerator, a first specifiable at one side transmitted to a detector.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** A particle crosses field after field, deflected by each and arriving with a direction crossings left it, and an arrival is fixed to carry its accelerator, a first specifiable from one side transmitted to a detector.",
+  "verdict": "RESAY",
+  "why": "at: with, for 10's verdict line and its label, carried with this entry's first sentence, as that line alone recurs; deflected at each: by each; at one side: from one side"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** An arrival direction fixed as a store carrying its first.",
+  "new": "**With 12-next-co-same-existing.** An arrival direction fixed as a store carrying its first.",
+  "verdict": "RESAY",
+  "why": "at: with, its label"
+ },
+ {
+  "old": "Deflection between them is unknown, a dipole measured and hard to interpret for fields being poorly known, and several source populations reproduce a spectrum and an anisotropy alike, identification surfacing nought at an instrument.",
+  "new": "Deflection between them is unknown, a dipole measured and hard to interpret for fields being poorly known, and several source populations reproduce a spectrum and an anisotropy alike, identification surfacing nought with an instrument.",
+  "verdict": "RESAY",
+  "why": "at an instrument: with"
+ },
+ {
+  "old": "**At 11-next-co-observing.** Suppression, a dipole and a trend to heavier showers are measured,",
+  "new": "**With 11-next-co-observing.** Suppression, a dipole and a trend to heavier showers are measured,",
+  "verdict": "RESAY",
+  "why": "at: with, its label"
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** A burst crosses local plasma and space between galaxies and arrives with its spectrum and polarization as crossings left them, and a signal is fixed to carry its engine, a first and a mechanism transmitted whole to a telescope.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** A burst crosses local plasma and space between galaxies and arrives with its spectrum and polarization as crossings left them, and a signal is fixed to carry its engine, a first and a mechanism transmitted whole to a telescope.",
+  "verdict": "RESAY",
+  "why": "at: with, for 10's verdict line and its label, carried with this entry's first sentence, as that line alone recurs"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A propagated signal fixed as a record of its first.",
+  "new": "**With 12-next-co-same-existing.** A propagated signal fixed as a record of its first.",
+  "verdict": "RESAY",
+  "why": "at: with, its label"
+ },
+ {
+  "old": "which is a carry pattern-matched for a store it did not keep.",
+  "new": "which is a carry pattern-matched for a store it is not.",
+  "verdict": "RESAY",
+  "why": "keep: re-said, a carry is no store"
+ },
+ {
+  "old": "**At 11-next-co-observing.** Cosmological distances, coherent emission, diverse hosts, repeaters, extreme local environments and a Galactic magnetar association are established;",
+  "new": "**With 11-next-co-observing.** Cosmological distances, coherent emission, diverse hosts, repeaters, extreme local environments and a Galactic magnetar association are established;",
+  "verdict": "RESAY",
+  "why": "at: with, its label"
+ },
+ {
+  "old": "coincidence searches mostly come back null,",
+  "new": "coincidence searches come back null, a few excepted,",
+  "verdict": "KEEP",
+  "why": "the field's own count, kept"
+ },
+ {
+  "old": "Competency is a middle, floating between form and logic, invisible, unique in rate, not enterable.",
+  "new": "Competency is a middle, floating between form and logic, invisible, unique by its rate, not enterable.",
+  "verdict": "RESAY",
+  "why": "in rate: by its rate"
+ },
+ {
+  "old": "**Here naming and nought are one term**, so a ground at 12-next-co-same-existing falling away is a demanded interior itself and no further differing is sought.",
+  "new": "**Here naming and nought are one term**, so a ground with 12-next-co-same-existing falling away is a demanded interior itself and no further differing is sought.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "A practice, a formalism, a duplicate, a measurement arriving same at each pattern-matching is invisibility working: released and re-seeded pattern-match alike, and identical arriving is protection rather than an emptiness found.",
+  "new": "A practice, a formalism, a duplicate, a measurement arriving same with each pattern-matching is invisibility working: dissolved and re-seeded pattern-match alike, and identical arriving is protection rather than an emptiness found.",
+  "verdict": "RESAY",
+  "why": "at: with; released: dissolved, a form that leaves"
+ },
+ {
+  "old": "A void observed at an interior is a break-in on a protected interior, and this part pattern-matches no arrival as an absence.",
+  "new": "A void observed within an interior is a break-in on a protected interior, and with this part no arrival is pattern-matched as an absence.",
+  "verdict": "RESAY",
+  "why": "at an interior: within; doer, this part pattern-matching: re-said as its pattern-matching"
+ },
+ {
+  "old": "A *felt* middle, a self's own within asked for from beyond — a gap, a duplicate, an other, a marker.",
+  "new": "A *felt* middle, a self's own within asked for across a between — a gap, a duplicate, an other, a marker.",
+  "verdict": "RESAY",
+  "why": "from beyond: across a between"
+ },
+ {
+  "old": "And a *phase* middle, an alternating fixed unchangeable to be looked into — a sleeping, a dreaming, an unresponsiveness.",
+  "new": "And a *phase* middle, an alternating fixed still to be observed within — a sleeping, a dreaming, an unresponsiveness.",
+  "verdict": "RESAY",
+  "why": "unchangeable: still; looked into: observed within"
+ },
+ {
+  "old": "Three carry one naming and part at a thing an asking reaches for.",
+  "new": "Three carry one naming and part by a thing an asking reaches for.",
+  "verdict": "RESAY",
+  "why": "at: by"
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** A coupling is felt from within and described from without, and a within is fixed as an interior an outward description should reach.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** A coupling is felt from within and described outward, and a within is fixed as an interior an outward description should reach.",
+  "verdict": "RESAY",
+  "why": "at: with, for 10's verdict line and its label, carried with this entry's first sentence, as that line alone recurs; from without: outward; outward: kept"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** That physical facts fix experiential ones by derivation,",
+  "new": "**With 12-next-co-same-existing.** That physical facts fix experiential ones by derivation,",
+  "verdict": "RESAY",
+  "why": "at: with, its label"
+ },
+ {
+  "old": "No procedure parts a residue in an account from a residue in an observing, and a residue comes to nought between them, owned by neither.",
+  "new": "No procedure parts a residue within an account from a residue within an observing, and a residue comes to nought between them, owned by neither.",
+  "verdict": "RESAY",
+  "why": "in: within, a residue part of an account"
+ },
+ {
+  "old": "**At 11-next-co-observing.** A coupling is felt from within and described from without, a within a self's own, invisible.",
+  "new": "**With 11-next-co-observing.** A coupling is felt from within and described outward, a within a self's own, invisible.",
+  "verdict": "RESAY",
+  "why": "at: with, its label; from without: outward"
+ },
+ {
+  "old": "All about access, report and integration carries on and keeps advancing, correlates arriving content by content, workspace and higher-order accounts carrying accessible functions whole, and a field's own line between all of that and this is a field bounding a reach of its descriptions.",
+  "new": "All about access, report and integration carries on and goes on advancing, correlates arriving content by content, workspace and higher-order accounts carrying accessible functions whole, and a field's own line between all of that and this is a field bounding a reach of its descriptions.",
+  "verdict": "RESAY",
+  "why": "keeps advancing: goes on advancing"
+ },
+ {
+  "old": "A gap is a middle reached by an outward description: a within is neither sealed nor defended, nothing standing presented at it for an outward description to reach, and that is invisible.",
+  "new": "A gap is a middle reached by an outward description: a within is neither sealed nor defended, nothing standing presented with it for an outward description to reach, and that is invisible.",
+  "verdict": "RESAY",
+  "why": "at it: with it; outward: kept"
+ },
+ {
+  "old": "An explanatory gap is a gap between scales: a description at a scale where a self is non-living, an experience at a scale where it is living, both one thing.",
+  "new": "An explanatory gap is a gap between scales: a description with a scale where a self is non-living, an experience with a scale where it is living, both one thing.",
+  "verdict": "RESAY",
+  "why": "at a scale: with"
+ },
+ {
+  "old": "One arrival at two sides, this one and 5.2.",
+  "new": "One arrival with two sides, this one and 5.2.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** A physical duplicate is described and a felt is fixed as a content separably present or absent, with conceivability fixed to reach it.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** A physical duplicate is described and a felt is fixed as a content separably present or absent, with conceivability fixed to reach it.",
+  "verdict": "RESAY",
+  "why": "at: with, for 10's verdict line and its label, carried with this entry's first sentence, as that line alone recurs"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** That conceivability bears on possibility here, with no criterion for when it does, which is a criterion demanded within an arrival at a middle fixed as an end and stands recorded as its second naming;",
+  "new": "**With 12-next-co-same-existing.** That conceivability bears on possibility here, with no criterion for when it does, which is a criterion demanded within an arrival with a middle fixed as an end and stands recorded as its second naming;",
+  "verdict": "RESAY",
+  "why": "at: with; possibility: a field's own term, kept"
+ },
+ {
+  "old": "a problem parted at its founding statement from each problem about performance of functions, a further question remaining when functions are explained, a demanded interior fixed as a further question, a part's own term.",
+  "new": "a problem parted by its founding statement from each problem about performance of functions, a further question remaining when functions are explained, a demanded interior fixed as a further question, a part's own term.",
+  "verdict": "RESAY",
+  "why": "at its founding statement: by"
+ },
+ {
+  "old": "An outward observing arrives same at a duplicate at any interior it carries, released and re-seeded pattern-matching alike, and identical arriving is protection working.",
+  "new": "An outward observing arrives same with a duplicate, with any interior it carries, dissolved and re-seeded pattern-matching alike, and identical arriving is protection working.",
+  "verdict": "RESAY",
+  "why": "at: with; released: dissolved, a form that leaves; outward: kept"
+ },
+ {
+  "old": "**At 11-next-co-observing.** Conceivability reaching possibility is a crossing fixed at a between, which carries a parity and nothing else, and a crossing stands fixed with no agreed defect and + or − released at 10:",
+  "new": "**With 11-next-co-observing.** Conceivability reaching possibility is a crossing fixed with a between, which carries a parity and nothing else, and a crossing stands fixed with no agreed defect and + or − with 10:",
+  "verdict": "RESAY",
+  "why": "at: with; released at 10: with 10, as its verdict line says"
+ },
+ {
+  "old": "A felt is a coupling's own within, this side and a derivation side one arrival, observed at 5.1 and here:",
+  "new": "A felt is a coupling's own within, this side and a derivation side one arrival, observed with 5.1 and here:",
+  "verdict": "RESAY",
+  "why": "at 5.1: with"
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** A living self alternates and sleep is one phase of an alternating, and a function is fixed as a content located in it.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** A living self alternates and sleep is one phase of an alternating, and a function is fixed as a content located within it.",
+  "verdict": "RESAY",
+  "why": "at: with, for 10's verdict line and its label, carried with this entry's first sentence, as that line alone recurs; in it: within, a function part of a phase"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** Sleep fixed to have a primary function, identifying its question,",
+  "new": "**With 12-next-co-same-existing.** Sleep fixed to have a primary function, identifying its question,",
+  "verdict": "RESAY",
+  "why": "at: with, its label"
+ },
+ {
+  "old": "A phase asked for its function is an alternating fixed unchangeable to look into it, and waking and sleeping are two parities of one living, neither at an other's momentary.",
+  "new": "A phase asked for its function is an alternating fixed still for observing within it, and waking and sleeping are two parities of one living, neither with an other's momentary.",
+  "verdict": "RESAY",
+  "why": "unchangeable: still; look into: observing within; at: with"
+ },
+ {
+  "old": "**At 11-next-co-observing.** A living self alternates, and a sleeping phase carries many things at once:",
+  "new": "**With 11-next-co-observing.** A living self alternates, and a sleeping phase carries many things together:",
+  "verdict": "RESAY",
+  "why": "at: with, its label; at once: together"
+ },
+ {
+  "old": "A function fixed as a content located in one phase fixes an alternating unchangeable to look into it, and alternating is its function, phase carrying phase.",
+  "new": "A function fixed as a content located within one phase fixes an alternating still for observing within it, and alternating is its function, phase carrying phase.",
+  "verdict": "RESAY",
+  "why": "in: within; unchangeable: still; look into: observing within"
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** Features couple and one object is present, and a binder is fixed as a process located between them.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** Features couple and one object is present, and a binder is fixed as a process located between them.",
+  "verdict": "RESAY",
+  "why": "at: with, for 10's verdict line and its label, carried with this entry's first sentence, as that line alone recurs"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** Unified experience fixed to need a combining operation separate from coupling, what binding means rarely made explicit and notions of binding many.",
+  "new": "**With 12-next-co-same-existing.** Unified experience fixed to need a combining operation separate from coupling, what binding means rarely made explicit and notions of binding many.",
+  "verdict": "RESAY",
+  "why": "at: with, its label; rarely made explicit: a field's own words, kept"
+ },
+ {
+  "old": "Whether synchrony is cause or consequence is a two-way pattern-matched one-way, and it arrives at nought at either pattern-matching.",
+  "new": "Whether synchrony is cause or consequence is a two-way pattern-matched one-way, and it comes to nought with either pattern-matching.",
+  "verdict": "RESAY",
+  "why": "arrives at nought: comes to nought; at: with"
+ },
+ {
+  "old": "**At 11-next-co-observing.** Features couple and one object is present, the one a coupling's own making.",
+  "new": "**With 11-next-co-observing.** Features couple and one object is present, that one a coupling's own making.",
+  "verdict": "RESAY",
+  "why": "at: with, its label; the: that"
+ },
+ {
+  "old": "Rhythms synchronise across species and tasks, overloading splits conjunctions, cells select for pairings, and driving a rhythm moves binding in paradigms built for it, which is a beat laid over couplings and pattern-matched back:",
+  "new": "Rhythms synchronise across species and tasks, overloading splits conjunctions, cells select for pairings, and driving a rhythm moves binding within paradigms built for it, which is a beat laid over couplings and pattern-matched back:",
+  "verdict": "RESAY",
+  "why": "in paradigms: within"
+ },
+ {
+  "old": "a binder fixed between features is a doer installed over a coupling's doing, and synchrony measured at no driving is a coupling's own beat, no worker at it.",
+  "new": "a binder fixed between features is a form fixed still from beside a coupling's doing, and synchrony measured with no driving is a coupling's own beat, no form fixed still beside it.",
+  "verdict": "RESAY",
+  "why": "doer, worker: a form fixed still from beside, as settled; at: with"
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** Selves couple at betweens and each carries its own within, and another's is fixed as a content to be reached from beyond.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** Selves couple with a between and each carries its own within, and another's is fixed as a content to be reached across a between.",
+  "verdict": "RESAY",
+  "why": "at: with, for 10's verdict line and its label, carried with this entry's first sentence, as that line alone recurs; at betweens: with a between; from beyond: across a between"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** Experience in another fixed as something an inference from behaviour should deliver, a thought of mental states as lying behind and causing behaviour possibly breaking a deep connection between mentality and behaviour and opening solipsism, an interior fixed behind a coupling the opening of a problem.",
+  "new": "**With 12-next-co-same-existing.** Experience in another fixed as something an inference from behaviour should deliver, a thought of mental states as lying behind and causing behaviour possibly breaking a deep connection between mentality and behaviour and opening solipsism, an interior fixed behind a coupling a problem's opening.",
+  "verdict": "RESAY",
+  "why": "at: with, its label; the opening of a problem: a problem's opening; in another, possibly breaking a deep connection: a field's own words, kept"
+ },
+ {
+  "old": "An inference carries on from one case with no second offering at a between, and there nought falls.",
+  "new": "An inference carries on from one case with no second offering across a between, and there nought falls.",
+  "verdict": "RESAY",
+  "why": "at a between: across"
+ },
+ {
+  "old": "**At 11-next-co-observing.** Another's within is its own, invisible, nothing presented for a reaching from beyond and nothing missing there.",
+  "new": "**With 11-next-co-observing.** Another's within is its own, invisible, nothing presented for a reaching across a between and nothing missing there.",
+  "verdict": "RESAY",
+  "why": "at: with, its label; from beyond: across a between"
+ },
+ {
+  "old": "an inference fixed to deliver a within is a between fixed to carry a thing that does not cross, and coupling itself is the reaching there is, at which criteria were already standing.",
+  "new": "an inference fixed to deliver a within is a between fixed to carry a thing that does not cross, and coupling itself is all reaching there is, with which criteria were already standing.",
+  "verdict": "RESAY",
+  "why": "the reaching: all reaching; at which: with which"
+ },
+ {
+  "old": "An interior is reached one way its form allows, by coupling — taking at a between, lived and not audited.",
+  "new": "An interior is reached one way its form allows, by coupling — taking with a between, lived and not audited.",
+  "verdict": "RESAY",
+  "why": "at a between: with"
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** A symbol offers at couplings with a world and takes its parity there, and content is fixed as a relation located between symbol and thing.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** A symbol offers, coupling with a world, and takes its parity there, and content is fixed as a relation located between symbol and thing.",
+  "verdict": "RESAY",
+  "why": "at: with, for 10's verdict line and its label, carried with this entry's first sentence, as that line alone recurs; offers at couplings: offers, coupling"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** A fact about aboutness fixed by a relation apart from offering, which is a carry fixed as a store standing within an arrival at a middle fixed as an end and recorded as its second naming;",
+  "new": "**With 12-next-co-same-existing.** A fact about aboutness fixed by a relation apart from offering, which is a carry fixed as a store standing within an arrival with a middle fixed as an end and recorded as its second naming;",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "an interpretation's meaningfulness parasitic on what an interpreter projects from a grounded head, a hall of mirrors, content observed from beyond arriving as a reader's own.",
+  "new": "an interpretation's meaningfulness parasitic on what an interpreter projects from a grounded head, a hall of mirrors, content an other observes arriving as a reader's own.",
+  "verdict": "RESAY",
+  "why": "observed from beyond: an other observes"
+ },
+ {
+  "old": "Each indicator arrives at same parity at deviant cases, so differing surfaces nought there.",
+  "new": "Each indicator arrives with same parity for deviant cases, so differing surfaces nought there.",
+  "verdict": "RESAY",
+  "why": "at: with, for"
+ },
+ {
+  "old": "**At 11-next-co-observing.** A symbol offers at couplings and takes its parity there, content made in coupling and kept by nothing between its couplings.",
+  "new": "**With 11-next-co-observing.** A symbol offers, coupling, and takes its parity there, content made by coupling and fixed still by nothing between its couplings.",
+  "verdict": "RESAY",
+  "why": "at: with, its label; offers at couplings: offers, coupling; in coupling: by; kept: fixed still"
+ },
+ {
+  "old": "a language-model dispute carries on now at same self-bounding: a fixed relation fixed apart from offering is a store a splitting keeps finding empty, and offering keeps making content at each coupling.",
+  "new": "a language-model dispute carries on now with same self-bounding: a fixed relation fixed apart from offering is a store a splitting goes on finding empty, and offering goes on making content with each coupling.",
+  "verdict": "RESAY",
+  "why": "at: with; keeps: goes on"
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** A computation is executing and an explanation is fixed as a content located within it, decomposable into components with stateable roles.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** A computation is executing and an explanation is fixed as a content located within it, decomposable as components with stateable roles.",
+  "verdict": "RESAY",
+  "why": "at: with, for 10's verdict line and its label, carried with this entry's first sentence, as that line alone recurs; into components: as"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** Computation fixed decomposable into components whose roles are readable apart from intervention, a task underspecified, transparency and post-hoc explanation competing notions, a content middle asked for under several namings at once.",
+  "new": "**With 12-next-co-same-existing.** Computation fixed decomposable as components whose roles are readable apart from intervention, a task underspecified, transparency and post-hoc explanation competing notions, a content middle asked for under several namings together.",
+  "verdict": "RESAY",
+  "why": "at: with, its label; into: as; at once: together"
+ },
+ {
+  "old": "**At 11-next-co-observing.** A computation is executing, its doings its own.",
+  "new": "**With 11-next-co-observing.** A computation is executing, its doings its own.",
+  "verdict": "RESAY",
+  "why": "at: with, its label"
+ },
+ {
+  "old": "Roles readable apart from intervention fixed an executing unchangeable for observing, and roles exist at intervening, coupling by coupling.",
+  "new": "Roles readable apart from intervention fixed an executing still for observing, and roles exist with intervening, coupling by coupling.",
+  "verdict": "RESAY",
+  "why": "unchangeable: still; at intervening: with"
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** A system couples with its world and takes parities at its betweens, and experience is fixed as a presence located within it, observed by markers.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** A system couples with its world and takes parities with its betweens, and experience is fixed as a presence located within it, observed by markers.",
+  "verdict": "RESAY",
+  "why": "at: with, for 10's verdict line and its label, carried with this entry's first sentence, as that line alone recurs; at its betweens: with"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** Markers fixed to indicate a presence, validated against a case with presence known independently, certainty desperately wanted and out of reach, no method making uncertainty go away, a felt middle's invisibility stated as a standing rather than a gap.",
+  "new": "**With 12-next-co-same-existing.** Markers fixed to indicate a presence, validated against a case with presence known independently, certainty desperately wanted and out of reach, no method making uncertainty go away, a felt middle's invisibility stated as a standing rather than a gap.",
+  "verdict": "RESAY",
+  "why": "at: with, its label; out of reach: a field's own words, kept"
+ },
+ {
+  "old": "No such case stands to validate against, so validation is a not possible existing.",
+  "new": "No such case stands to validate against, so validation is not possibly existing.",
+  "verdict": "RESAY",
+  "why": "a not possible existing: not possibly existing, a kept phrase"
+ },
+ {
+  "old": "**At 11-next-co-observing.** A self's within is its own, at each substrate alike.",
+  "new": "**With 11-next-co-observing.** A self's within is its own, with each substrate alike.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "Crabs and insects trade pain against reward, anatomies compare, and each marker framework waits on a validation no case can give, stated at frameworks themselves: a presence fixed within, observed by markers, reaches for one thing a between does not carry — nothing presented to be reached, at each substrate alike — and couplings, trade-offs and all, are the whole there is to reach.",
+  "new": "Crabs and insects trade pain against reward, anatomies compare, and each marker framework waits on a validation no case can give, stated by frameworks themselves: a presence fixed within, observed by markers, reaches for one thing a between does not carry — nothing presented to be reached, with each substrate alike — and couplings, trade-offs and all, are all there is to reach.",
+  "verdict": "RESAY",
+  "why": "at frameworks: by; at each substrate: with; the whole: all"
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** Agents couple with a nervous system and responsiveness ceases, and consciousness is fixed as a content located behind responsiveness.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** Agents couple with a nervous system and responsiveness ceases, and consciousness is fixed as a content located behind responsiveness.",
+  "verdict": "RESAY",
+  "why": "at: with, for 10's verdict line and its label, carried with this entry's first sentence, as that line alone recurs"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** Loss of consciousness fixed as a single state indexed by unresponsiveness,",
+  "new": "**With 12-next-co-same-existing.** Loss of consciousness fixed as a single state indexed by unresponsiveness,",
+  "verdict": "RESAY",
+  "why": "at: with, its label"
+ },
+ {
+  "old": "Selves report experience from under unresponsiveness after emerging, so an index and a within part at a field's own instrument, and a phase is several couplings rather than one state.",
+  "new": "Selves report experience from under unresponsiveness after emerging, so an index and a within part by a field's own instrument, and a phase is several couplings rather than one state.",
+  "verdict": "RESAY",
+  "why": "at: by"
+ },
+ {
+  "old": "**At 11-next-co-observing.** Many agents, no shared molecular site of action,",
+  "new": "**With 11-next-co-observing.** Many agents, no shared molecular site of action,",
+  "verdict": "RESAY",
+  "why": "at: with, its label"
+ },
+ {
+  "old": "Selves report experience from under unresponsiveness after emerging, an outward side and a within parting at a field's own instrument:",
+  "new": "Selves report experience from under unresponsiveness after emerging, an outward side and a within parting by a field's own instrument:",
+  "verdict": "RESAY",
+  "why": "at: by; outward: kept"
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** Experience arises at couplings and a cause is fixed as a content located behind it, with scenarios built to be indistinguishable.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** Experience arises with couplings and a cause is fixed as a content located behind it, with scenarios built to be indistinguishable.",
+  "verdict": "RESAY",
+  "why": "at: with, for 10's verdict line and its label, carried with this entry's first sentence, as that line alone recurs; at couplings: with"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** Belief in a world fixed to need a justification carrying from experience to its cause,",
+  "new": "**With 12-next-co-same-existing.** Belief in a world fixed to need a justification carrying from experience to its cause,",
+  "verdict": "RESAY",
+  "why": "at: with, its label; belief in a world: a field's own words, kept"
+ },
+ {
+  "old": "Scenarios are built to arrive alike at each observing, so differing surfaces nought by construction.",
+  "new": "Scenarios are built to arrive alike with each observing, so differing surfaces nought by construction.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "**At 11-next-co-observing.** Experience arises at couplings, arising a coupling's own.",
+  "new": "**With 11-next-co-observing.** Experience arises with couplings, arising a coupling's own.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "Scenarios are indistinguishable because they were built to be, transcendental replies stop at their own objection's standing,",
+  "new": "Scenarios are indistinguishable because they were built to be, transcendental replies stop with their own objection's standing,",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** Properties couple and an object is present, and a bearer is fixed as a content located beneath them.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** Properties couple and an object is present, and a bearer is fixed as a content located beneath them.",
+  "verdict": "RESAY",
+  "why": "at: with, for 10's verdict line and its label, carried with this entry's first sentence, as that line alone recurs"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** An object fixed to decompose into a bearer and properties, or only into properties, one being correct, a substratum basic only in an empty sense and a bundle's way out, a master property of which others are modes, filling a substratum's role, each account arriving at an other's term.",
+  "new": "**With 12-next-co-same-existing.** An object fixed to decompose as a bearer and properties, or only as properties, one being correct, a substratum basic only in an empty sense and a bundle's escape, a master property of which others are modes, filling a substratum's role, each account arriving with an other's term.",
+  "verdict": "RESAY",
+  "why": "at: with; into: as; way out: escape; basic only in an empty sense: a field's own words, kept"
+ },
+ {
+  "old": "Verdicts part only at built cases, decomposing there a case's own making.",
+  "new": "Verdicts part only with built cases, decomposing there a case's own making.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "**At 11-next-co-observing.** Properties couple and an object is present, presence a coupling's own.",
+  "new": "**With 11-next-co-observing.** Properties couple and an object is present, presence a coupling's own.",
+  "verdict": "RESAY",
+  "why": "at: with, its label"
+ },
+ {
+  "old": "A bare bearer carries no character beyond its role, in its own defenders' words; bundles strain at indiscernible pairs and strain has its answers; and verdicts part only at built cases.",
+  "new": "A bare bearer carries no character beyond its role, as its own defenders say; bundles strain with indiscernible pairs and strain has its answers; and verdicts part only with built cases.",
+  "verdict": "RESAY",
+  "why": "beyond its role: its defenders' own words, kept; in its own defenders' words: as its own defenders say; at: with"
+ },
+ {
+  "old": "An object fixed to decompose divides a coupling into a bearer and a borne, and a coupling was not two things: a centre carries nothing, so the whole of it is at crossings, and presence is a coupling momentarying, whole.",
+  "new": "An object fixed to decompose divides a coupling as a bearer and a borne, and a coupling was not two things: a centre carries nothing, so all of it is with crossings, and presence is a coupling momentarying, whole.",
+  "verdict": "RESAY",
+  "why": "into: as; the whole of it: all of it; at crossings: with"
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** A formalism carries on and what a world is like is fixed as a content located behind it, with interpretations empirically equivalent by construction.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** A formalism carries on and what a world is like is fixed as a content located behind it, with interpretations empirically equivalent by construction.",
+  "verdict": "RESAY",
+  "why": "at: with, for 10's verdict line and its label, carried with this entry's first sentence, as that line alone recurs"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** Added structure fixed as a content predictions should have reached,",
+  "new": "**With 12-next-co-same-existing.** Added structure fixed as a content predictions should have reached,",
+  "verdict": "RESAY",
+  "why": "at: with, its label"
+ },
+ {
+  "old": "Pattern-matchings are equivalent by construction, so each measured differing surfaces nought, and its entry stands as a proved equivalence, a nought's own shape, beside a resolving rather than one reached at an instrument.",
+  "new": "Pattern-matchings are equivalent by construction, so each measured differing surfaces nought, and its entry stands as a proved equivalence, a nought's own shape, beside a resolving rather than one reached by an instrument.",
+  "verdict": "RESAY",
+  "why": "at an instrument: by"
+ },
+ {
+  "old": "**At 11-next-co-observing.** A formalism carries on and gives each prediction alike at each pattern-matching, equivalence built in.",
+  "new": "**With 11-next-co-observing.** A formalism carries on and gives each prediction alike with each pattern-matching, equivalence by its own construction.",
+  "verdict": "RESAY",
+  "why": "at: with; built in: by its own construction"
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** A sleeping self alternates and dreaming carries on with it, and a function is fixed as a content located in dreaming apart from sleep.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** A sleeping self alternates and dreaming carries on with it, and a function is fixed as a content located within dreaming apart from sleep.",
+  "verdict": "RESAY",
+  "why": "at: with, for 10's verdict line and its label, carried with this entry's first sentence, as that line alone recurs; in dreaming: within"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** Dreaming fixed separable from a state carrying it, a function identifiable by manipulating one, an equation of rapid-eye-movement sleep with dreaming shown inaccurate, a stage fixed to carry a phase parting at a field's own instrument.",
+  "new": "**With 12-next-co-same-existing.** Dreaming fixed separable from a state carrying it, a function identifiable by manipulating one, an equation of rapid-eye-movement sleep with dreaming shown inaccurate, a stage fixed to carry a phase parting by a field's own instrument.",
+  "verdict": "RESAY",
+  "why": "at: with, its label; at a field's own instrument: by"
+ },
+ {
+  "old": "Dreaming is a phase of a sleeping's own alternating, and nought falls at a cutting of one living into two things.",
+  "new": "Dreaming is a phase of a sleeping's own alternating, and nought falls with a cutting of one living to two things.",
+  "verdict": "RESAY",
+  "why": "at: with; into: to"
+ },
+ {
+  "old": "**At 11-next-co-observing.** A sleeping self alternates and dreaming carries on with its alternating, contents regular, a day's couplings carried again, lesion cases bounding a claim any story may make, and a lucid channel a coupling into a living itself.",
+  "new": "**With 11-next-co-observing.** A sleeping self alternates and dreaming carries on with its alternating, contents regular, a day's couplings carried again, lesion cases bounding a claim any story may make, and a lucid channel a coupling with a living itself.",
+  "verdict": "RESAY",
+  "why": "at: with, its label; into: with"
+ },
+ {
+  "old": "A function fixed in dreaming apart from sleep cuts one living into two things, and living is one: dreaming is an alternating felt from within its own phase.",
+  "new": "A function fixed within dreaming apart from sleep cuts one living to two things, and living is one: dreaming is an alternating felt from within its own phase.",
+  "verdict": "RESAY",
+  "why": "in: within; into: to"
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** Capacity and expression couple in each population, and cognition is fixed as a content located behind material culture.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** Capacity and expression couple within each population, and cognition is fixed as a content located behind material culture.",
+  "verdict": "RESAY",
+  "why": "at: with, for 10's verdict line and its label, carried with this entry's first sentence, as that line alone recurs; in each population: within"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** Behavioural modernity fixed as a definable package whose archaeological signature indexes cognition,",
+  "new": "**With 12-next-co-same-existing.** Behavioural modernity fixed as a definable package whose archaeological signature indexes cognition,",
+  "verdict": "RESAY",
+  "why": "at: with, its label; social interaction later in this sentence: a field's own words, kept"
+ },
+ {
+  "old": "A record catches expressing at openings of preservation, so a record's own edge is pattern-matched as a capacity's.",
+  "new": "A record catches expressing with openings of preservation, so a record's own edge is pattern-matched as a capacity's.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "**At 11-next-co-observing.** Capacity and expression couple in each population, and expressing rides couplings a population carries: a record reaches back and back the closer the looking, dense populations express a capacity sparse ones carry unexpressed, demographic readings disputed and defended, and a package comes apart into a mosaic at a field's own reading.",
+  "new": "**With 11-next-co-observing.** Capacity and expression couple within each population, and expressing rides couplings a population carries: a record reaches back and back as looking comes closer, dense populations express a capacity sparse ones carry unexpressed, demographic readings disputed and defended, and a package comes apart as a mosaic by a field's own reading.",
+  "verdict": "RESAY",
+  "why": "at: with, by; in: within; the closer the looking: as looking comes closer; into: as"
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** Communication couples at each exchange and language arises in coupling, and a capacity is fixed as a content located in extinct populations.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** Communication couples with each exchange and language arises by coupling, and a capacity is fixed as a content located within extinct populations.",
+  "verdict": "RESAY",
+  "why": "at: with, for 10's verdict line and its label, carried with this entry's first sentence, as that line alone recurs; at: with; in coupling: by; in extinct populations: within"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** Language fixed to decompose into components whose presence is readable from preserved material, fossil and archaeological evidence not informing computations and representations of the earliest ancestors, animal parallels virtually none and genetics not in prospect.",
+  "new": "**With 12-next-co-same-existing.** Language fixed to decompose as components whose presence is readable from preserved material, fossil and archaeological evidence not informing computations and representations of the earliest ancestors, animal parallels virtually none and genetics not in prospect.",
+  "verdict": "RESAY",
+  "why": "at: with, its label; into: as; the earliest ancestors, not in prospect: a field's own words, kept"
+ },
+ {
+  "old": "Populations offer at no between now, so observing is of a carrying that cannot answer back.",
+  "new": "Populations offer with no between now, so observing is of a carrying that cannot answer back.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "**At 11-next-co-observing.** Language arises in coupling at each exchange, made there and kept in no one.",
+  "new": "**With 11-next-co-observing.** Language arises by coupling with each exchange, made there and fixed still within no one.",
+  "verdict": "RESAY",
+  "why": "at: with; in coupling: by; kept in: fixed still within"
+ },
+ {
+  "old": "Components exist in other animals, all but recursioning; a gene story reversed under its own evidence; pressure by its own breeds combinatorial systems in simulations; and anatomy indicates as far as anatomy indicates.",
+  "new": "Components exist with other animals, all but recursioning; a gene story reversed under its own evidence; pressure by its own breeds combinatorial systems within simulations; and anatomy indicates as far as anatomy indicates.",
+  "verdict": "RESAY",
+  "why": "in other animals: with; in simulations: within"
+ },
+ {
+  "old": "A capacity fixed as a content in extinct populations is a making fixed as a possession, and a field's own mosaic finding is a package coming apart into couplings, exchange by exchange.",
+  "new": "A capacity fixed as a content within extinct populations is a making fixed as a possession, and a field's own mosaic finding is a package coming apart as couplings, exchange by exchange.",
+  "verdict": "RESAY",
+  "why": "in: within; into: as"
+ },
+ {
+  "old": "*+ or − at 10, is.*\n\n**At 2-now-possibling.** In each, an involution or a symmetry is proved and couplings ride at its fixed set.",
+  "new": "*+ or − with 10, is.*\n\n**With 2-now-possibling.** With each, an involution or a symmetry is proved and couplings ride with its fixed set.",
+  "verdict": "RESAY",
+  "why": "at: with, for 10's verdict line and its label, carried with this entry's first sentence, as that line alone recurs; In each: With each; at: with; fixed set: a field's own term, kept"
+ },
+ {
+  "old": "A fixed set is pattern-matched as a place: a line zeros sit at, a balance really algebraic, a centre two counts couple at, a gap leapt.",
+  "new": "A fixed set is pattern-matched as a place: a line zeros sit on, a balance really algebraic, a centre two counts couple about, a gap leapt.",
+  "verdict": "RESAY",
+  "why": "at: on, about"
+ },
+ {
+  "old": "**At 12-next-co-same-existing.** That a fixed set is a location an object occupies, each of four posed at a seat a proved symmetry already rides, deviation from primes' average, a mass gap suggested and unproved, how much topology is definable algebraically, a simple way to tell finiteness.",
+  "new": "**With 12-next-co-same-existing.** That a fixed set is a location an object occupies, each of four posed with a seat a proved symmetry already rides, deviation from primes' average, a mass gap suggested and unproved, how much topology is definable algebraically, a simple way to tell finiteness.",
+  "verdict": "RESAY",
+  "why": "at: with; primes' average: a field's own measurement, kept"
+ },
+ {
+  "old": "**At 11-next-co-observing.** No second position is defended at any of four.",
+  "new": "**With 11-next-co-observing.** No second position is defended with any of four.",
+  "verdict": "RESAY",
+  "why": "at: with"
+ },
+ {
+  "old": "Each conjecture stands with its own falsifier stated, unproved at its field, and its truth value is untouched by any of this: a symmetry pairs zeros about its axis and forces none onto it, a pair off it being one a symmetric set can carry, and gauge symmetry constructs no quantum Yang–Mills theory and proves no mass gap, so a seating at a fixed set is a framing here and no proof.",
+  "new": "Each conjecture stands with its own falsifier stated, unproved by its field, and its truth value is untouched by any of this: a symmetry pairs zeros about its axis and forces none onto it, a pair off it being one a symmetric set can carry, and gauge symmetry constructs no quantum Yang–Mills theory and proves no mass gap, so a seating with a fixed set is a framing here and no proof.",
+  "verdict": "RESAY",
+  "why": "at: by, with"
+ }
+]

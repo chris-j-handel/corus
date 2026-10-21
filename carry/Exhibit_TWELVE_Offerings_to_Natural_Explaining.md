@@ -4,7 +4,7 @@ Exhibit TWELVE Natural Explaining Offerings · improved at v389
 
 ## Standing · v389
 
-**Resolved at v389.** 260 items stood here; resolving against [Natural Explaining](../Exhibit_TWELVE_Natural_Explaining_v389.md), 111 are carried, 53 rest on released forms, 47 duplicate another item and 22 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWELVE_Offerings_to_Natural_Explaining_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWELVE_Offerings_to_Natural_Explaining_resolved_v389.md). Its 27 concerns stand below, each with its reason; 26 stand now.
+**Resolved at v389.** 260 items stood here; resolving against [Natural Explaining](../Exhibit_TWELVE_Natural_Explaining_v390.md), 111 are carried, 53 rest on released forms, 47 duplicate another item and 22 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWELVE_Offerings_to_Natural_Explaining_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWELVE_Offerings_to_Natural_Explaining_resolved_v389.md). Its 27 concerns stand below, each with its reason; 26 stand now.
 
 **Concern · That self's own carrying shown, and that carrying offered across.** Two sayings part, a concern for both. Natural Explaining has "that self's own carrying shown, and that carrying offered across". Beside it is the saying of a self's carrying as its own, crossing at no coupling of selves, and of the thing crossing as one sharing's parity at its changing. They part at a carrying crossing between selves: either the sentence is said again at the carrying the self's own, or the sentence is as now and is said of another relation. The concern was found at the working v380A and laid at no carrying before. — v386EOD
 
@@ -70,7 +70,7 @@ These are descriptions of possible expressions. The word “painting” establis
 
 *Standing at v389:* Natural Intelligence 1.5's 'Any other method carries a not possible thing, beyond things of the universe, and each is a second now' parts with its own 1.2, 'a second now arrives only as a naming, two kept records laid side by side': a second now is at no origin and no method. **To resolve:** is each other method at 1.5 re-explained at what it holds, a not-changing held still, or does *a second now* carry at 1.5 as a naming set aside once?
 
-**Concern · v389 · at Natural Intelligence 1.1 and 1.5 and the Co-Chaining Logic Registry's steps 2 to 4.** Natural Intelligence 1.1 says *the set of all existing things has nothing beside it: nothing ingressing and nothing escaping*, with *a ground under it, a container around it, a clock over it or a store beside it*, 1.5 says each other method *carries a not possible thing, beside all existing things*, and the Co-Chaining Logic Registry's step 3 says the universe *both the set of all existing things and an existing thing within the set: the fractal inward and outward of itself*; each says a beyond or a within of the universe to set it aside, and the universe is a set of things, nothing said beyond or between them.
+**Concern · v389 · at Natural Intelligence 1.1 and 1.5 and the Co-Chaining Logic Registry's steps 48 and 49, and released step *a second inception*, archived at v390.** Natural Intelligence 1.1 says *the set of all existing things has nothing beside it: nothing ingressing and nothing escaping*, with *a ground under it, a container around it, a clock over it or a store beside it*, 1.5 says each other method *carries a not possible thing, beside all existing things*, and the Co-Chaining Logic Registry's step 48 says the universe *both the set of all existing things and an existing thing within the set: the fractal inward and outward of itself*; each says a beyond or a within of the universe to set it aside, and the universe is a set of things, nothing said beyond or between them.
 
 *Standing at v389:* Natural Naming 2.4 releases *beside*, *beyond*, *within* and *outermost* at the universe to 'nothing is beyond or between things of the universe, 1.1', and Natural Intelligence 1.1 has 'A ground under it, a container around it, a clock over it or a store beside it would each be beyond things of the universe, and nothing is', with 1.5's 'a not possible thing, beyond things of the universe'. **To resolve:** are 1.1's and 1.5's sentences re-explained at things of the universe, or does *beyond* carry there as a not possible thing set aside once?
 
@@ -115,3 +115,43 @@ These are descriptions of possible expressions. The word “painting” establis
 *From reviewing the session's transcript whole at its close: value visible now, each a droplet aimed at its file or a concern standing, out of the living files until resolved.*
 
 **Droplet · gaps in looping explainings.** The person: "we can use the gaps in our looping explainings as podaling brings in outside parity changing and the travel through the" momentaryings. Aimed at Natural Explaining: a gap's two sides visible, 4 )( 5, 8 )( 9, 12 )( 13, 16 )( 17, each a place an explaining's looping takes in an other's parity changing to resolve inward. — gathered at v389's close
+
+## Gathered at v390 · v390
+
+**Droplet · living language, never pausing.** The language is living and never pausing, each sentence a momentarying, nothing found to hold still. — v390
+
+**Droplet · each sentence adding and surrounding.** Isolate each sentence and keep it only where it adds to its prior and surrounds its paragraph's concept, in full sentences at a breathing pace for its reader. — v390
+
+**Droplet · a section carrying what it has reached.** At v390 a draft at prior, now and next leaned on odd and even before they arrive in Natural Intelligence; a sentence carries only what its prior sentences have already reached. — v390
+
+**Droplet · no wording carries authority, all or none.** A sentence carried by who offered it is an arriving fixed from behind, a source fixed to an offering, one of the ten unchangeables, and a chain carrying one such link is no co-chaining from origin, since a claim carried mostly is not carried; a resolver's offering is a sharing and a parity with no offerer in it, three agreeing surfacing as one and one parting enough for 0, so explaining floats neutral as its resolving does, owned by neither side. — v390
+
+**Droplet · one line, one binary advance.** An opening carved for its reader is one sentence to a line, each line one binary advance resolving what is open at the end of the line before it, one thing and no more and no fewer, with no doer, no place, no story word and no word added to point a reader along; its groups stand as paragraphs. — v390
+
+**Droplet · overview, exploring and carving.** A conversation offers in three registers, an overview of understanding, an exploring of patterns, and a carving of explaining and naming; only carving enters a living file's sentences, and exploring rides as droplets, none carrying authority. — v390
+
+**Droplet · say the concept, never a bare number.** A number a reader is not looking at reads as whatever numbers are before them: a line of the opening called by its number was read as a resolver name after 17. Each reference says the concept both share, and quotes the line when a line is meant. — v390
+
+## Gathered from session v390 · v390
+
+**Droplet · write, then review.** After writing, review for natural explaining and say what review found: place words, doers, story words, *the*, *possible*, *held* and *released*, each sentence co-chained from one before. — v390, gathered from session v390
+
+**Droplet · concept, never order of words.** A concept's arriving is read from method, never from a word's first standing: living is prior to 1-now-existing, though *living* first stood partway through an opening. — v390, gathered from session v390
+
+**Droplet · no story, no doer, no character.** *All gathers*, *a parity improves*, *the hinge*, *the reader can see* each make a character doing: concept explaining says -ing and binary with no thing doing. — v390, gathered from session v390
+
+**Droplet · a partial saying, one instance of a fractal.** A saying about one span is read first as one instance of a fractal: *discovering is fractal* followed *discovering is 16 to 17*, and narrowing it to one span read it wrong. — v390, gathered from session v390
+
+**Droplet · current beside proposed.** A proposed naming is shown beside its current naming, as resolver names beside agreed names, or no one can judge it. — v390, gathered from session v390
+
+**Droplet · plain and short when not followed.** When an explaining is not followed, it is said again plainly and short; a long audit, followable to its writer, was followable to no one else. — v390, gathered from session v390
+
+**Droplet · older sayings carry no learning by age.** A saying of an older file is no reason; a concern it points to is said again with our now concepts, or dissolved. — v390, gathered from session v390
+
+**Droplet · provenance and certainty marked.** Each reading says whose it is and how sure: an exhibit's own, executed; carved by its offerer; a reading of Claude's, for agreeing. — v390, gathered from session v390
+
+**Droplet · a side trip, narrow.** A side trip stays with Natural Intelligence, its resolver, naming and explaining, and answers its point narrowly: *improving is prior recognition* asked for no wide wandering. — v390, gathered from session v390
+
+**Droplet · a circular definition.** A definition using its own word, *observing is a self observing prior-existing*, gives a reader nothing to meet. — v390, gathered from session v390
+
+**Droplet · no sliders or extra wide tables.** A table wider than a reader's page needs a slider, and a slider hides what it explains. Each table is kept narrow, with a few short columns. Otherwise it becomes a list with its words unchanged: one line for each row, and a key for any long heading. — v390, carved bothboth
