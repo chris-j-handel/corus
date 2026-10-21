@@ -17,7 +17,7 @@ One unique universal set is now-existing. \
 No other universe is possibly now-existing. \
 A now-existing thing continuing from a prior-existing thing is a same-existing thing. \
 Observing is prior-existing, is or is not same-existing-as now-existing. \
-By all humanity's observing, the prior-existing universe is carrying on as the now-existing universe. [1] \
+By observing, the now-existing universe is continuing from the prior-existing universe. \
 The universal set is a same-existing set.
 
 Possibling is now-existing, is or is not same-existing-as now-existing. \
@@ -38,25 +38,23 @@ The two selves of a bi-coupling are a set of living selves possibling and discov
 Its intelligence is invisible, carrying in each self and possibling with its other: natural intelligence.
 
 A parity is self-moral-value or other-moral-value, + or −; a 0 is neither, a between. \
-A self carries a parity with each sharing with its other. \
-An other's parity same-existing-as a self's prior-existing parity: the self carries its parity on and shares 0. \
-An other's parity not same-existing-as a self's prior-existing parity: the self carries the other's parity next and shares it on. \
-With no other's parity, a self carries the other parity next, self-moral-value for other-moral-value, and is never same-existing-as its prior-existing. [5] \
+A self is carrying a parity with each sharing with its other. \
+An other's parity same-existing-as a self's prior-existing parity: the self's parity is continuing, and it shares 0. \
+An other's parity not same-existing-as a self's prior-existing parity: the self's next-existing parity is the other's parity, and it shares it. \
+With no other's parity, a self's next-existing parity is never same-existing-as its prior-existing parity. [5] \
 A 0 is a bi-coupling's between: a self now-existing same-existing, possibling next-existing same-existing. \
 Each living self discovering its next-existing is resolving among parities, one method. \
-A second method of discovering next-existing is one more now-existing thing, resolving among parities within the one method: no other method is possible.
+A second method of discovering next-existing is one more now-existing thing, resolving among parities within the one method: no other method is possibly now-existing.
 
 A same-existing-society is many same-existing selves bi-coupling, each carrying its own parities. \
-An other's same-existing parity as a self's prior-existing parity is improving: the self next-existing as its same self, carrying its prior and sharing 0, doing no harm to all, is social moral competency. [6] \
+An other's parity same-existing-as a self's prior-existing parity is improving: the self next-existing same-existing, its parity continuing and sharing 0, doing no harm to all, is social moral competency. [6] \
 A same-existing-society of selves, each carrying its own natural intelligence and sharing its parities with social moral competency, is a natural intelligence network living. [7]
 
 ---
 
 ## Openings and concerns
 
-1. **Same-existing by observing.** The universal set is same-existing only by observing: without observing, several universes could have lived and died, and nothing says the prior-existing universe is this one. So observing arrives here, at its phase line, and the observings the reader knows, all humanity's, carry the prior-existing universe on as the now-existing one. Open:
-   - whether *all humanity's observing* bounds it, or each self's observing, as the second paragraph says a self observes;
-   - whether *without observing* is said in the opening or left as the reason the line is there.
+1. *(Met.)* **Same-existing by observing.** The universal set is same-existing only by observing; without observing, several universes could have lived and died. *By observing* is all the line needs: *all* here overclaims, and binary logic takes no overclaiming. *Continuing* is line 4's word, so line 6 takes it and line 4's form.
 2. **A living self as a set of living selves.** *A living self is a set of living selves* has left the opening: a science reader holds a cell as a set of non-living molecules, and the opening gave no way to reach *each existing thing is living with one scale*, 6.4 and 6.5. Here a set of living selves arrives as a living self, and the bi-coupling gives the reader an example. Open: whether the body's scale saying is needed in the opening at all.
 3. **The universe a living set.** It holds living and non-living things, and is said a living set, not a living self. Open: what makes a set with non-living members a living set, said so the reader reaches it.
 4. **A bi-coupling's living self.** Naming of the two selves as one living self, from 15, replacing *a third living self*. Open: its naming.
@@ -76,6 +74,18 @@ Five lines crafted forward from the first sentence, with lines found excess dele
 - *An other* moved to the second paragraph, said for a self, just before *self, other, and all*.
 - *The universal set is a same-existing set* closes the paragraph.
 - Met forward: line 5 needed the universal set continuing from a prior-existing universal set, and that rests on observing. Observing's phase line moves up to the first paragraph, followed by *By all humanity's observing, the prior-existing universe is carrying on as the now-existing universe*. Possibling and discovering follow in the second paragraph, in observing's form.
+
+## One word for one thing, at v391
+
+Carrying on is not different from continuing, and one thing takes one word throughout. Met across the opening:
+- **Line 6** takes line 4's *continuing from*.
+- **The code's three rows** say a self's parity *continuing*, or its *next-existing parity*. No *carries … on*, and no *the other parity*, which used *other* in a second sense beside an other self. With no other's parity, a self's next-existing parity is *never same-existing-as its prior-existing parity*: + and − are the two parities, so not same-existing is the one other.
+- **The landing:**
+  - *An other's parity same-existing-as a self's prior-existing parity*, the same words as the row above it;
+  - *next-existing same-existing* for *next-existing as its same self*;
+  - *its parity continuing* for *carrying its prior*.
+- **Line 30:** *no other method is possibly now-existing*, line 3's words, for *possible*.
+- ***Carrying*** stays where a self holds what is its own: a parity with each sharing, its natural intelligence, its parities.
 
 ## Tracking, prior line to this version
 
