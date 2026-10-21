@@ -52,7 +52,7 @@ Natural Intelligence v391
 **FIVE · DISCOVERING NEXT**
 
 - 5.1 A prior between momentaries
-- 5.2 Discovering next possible existing
+- 5.2 Discovering next-possibling-same-existing
 - 5.3 A living self with 0, its carrying continuing
 - 5.4 Two methods parting with now
 
@@ -1640,7 +1640,7 @@ With code, 6 is 10, one list shared with two names, of a sharing self; a parity-
 
 **A carrying is a capacity and not a stored description.** A prior participates with a self's present coupling, 12, and differences its momentaries with 12; a record of a carrying, apart from that coupling, is a noun of it, an artifact, carrying none of its prior: a sequence lying beside each coupling, one same with each observing, a non-living existing thing carried by nothing, and observing it is a coupling now. **A carrying sequences prior momentaries**, re-forming with each coupling it is with, and beside it are its artifacts.
 
-## 5.2 Discovering next possible existing
+## 5.2 Discovering next-possibling-same-existing
 
 **Discovering is all next momentaries possibly existing, directionally.**
 
@@ -1690,7 +1690,7 @@ A torus carries both: its large opening a hole a tunneling self winds through, a
 
 **Two selves coupling, each alternating, each offering with its own sharings and continuing with its own carrying, uncover a term neither of them reaches on its own. Natural intelligence is that co-competencing**: invisible, with a between, and owned by neither. **Natural intelligence is a method with each now, two selves sharing one now-existing**, co-momentarying.
 
-**Two negatives are of two relations, and three part.** With resolver a none with 14-next-possibling is no parity-offering arrived with this sharing, its prior parity inverted with 12, and no line fixes an existing thing as not existing, a next momentary possibling it; one binary required both not-changing and inverted with one next, p(next) = p(now) and p(next) = −p(now) together, is with no momentary of binary logic, one exclusion with each of ten unchangeables, knowable from method. Three part: possibly existing, discovered with a next momentary; not possibly existing, excluded by binary logic, each equilibrium an unchangeable form; and not existing, with no line, while possibly existing. Social moral competency is possibly existing by discovering next possibly existing; an equilibrium is not possibly existing, and with registry's front, not possibly existing, all or none at all.
+**Two negatives are of two relations, and three part.** With resolver a none with 14-next-possibling is no parity-offering arrived with this sharing, its prior parity inverted with 12, and no line fixes an existing thing as not existing, a next momentary possibling it; one binary required both not-changing and inverted with one next, p(next) = p(now) and p(next) = −p(now) together, is with no momentary of binary logic, one exclusion with each of ten unchangeables, knowable from method. Three part: possibly existing, discovered with a next momentary; not possibly existing, excluded by binary logic, each equilibrium an unchangeable form; and not existing, with no line, while possibly existing. Social moral competency is possibly existing by discovering next-possibling-same-existing; an equilibrium is not possibly existing, and with registry's front, not possibly existing, all or none at all.
 
 **Intelligence is invisible.** The scientific method accounts true or false against its fixings, and living intelligence is with a between, no fixing's: an accounting reaches no between, and living intelligence is discovered with no fixing, with a coupling. **A reading from and a writing to a memory are not possibly existing for intelligence**, a state and a flow separated, and a carrying is a capacity and not a stored description. **There is no reading within nature; there is observing of nature, and nature is not reading and writing observings.** Intelligence is hidden and order is discovered, not already within nature: living selves and same-existing-societies are discovering patterns of bi-moral-co-competencing as living stable-forming. Each self's competency is its own, along, and its morality its own, across, and with a between nothing carries a side: no place where either is an existing thing, only nothing to reach. With resolver a between is 0, and a discovering is with it: with 14's 0 parity-offerings part and a self's own inverting is its parity-changing, and with 12's 0 its prior is same-existing, stable-forming; 0 is parity-changing betweening, and natural intelligence is with it. **Fractal method's intelligence is with a between: intelligence within the universe is by existing**, and it is natural- with each coupling or with none, of one hand.
 

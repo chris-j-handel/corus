@@ -148,3 +148,5 @@ The two kit scripts that execute Exhibit ONE's code now find 1 and 17 by number,
 **Droplet · `cohere_one.py` looks for an older heading.** It splits Natural Intelligence at `**Stable Forms of the Discovering Method**`, a heading no longer there, and stops before writing. `check_set.py` checks the two copies match. Offered: the heading read from Natural Intelligence as it stands. — v391
 
 **Droplet · `thirty_groups_check.py` reads its file from standard input.** Called with the file as an argument, it waits; called as `python3 kits/Natural_Explaining_Passes_Kit/thirty_groups_check.py < Exhibit_THIRTY_…md` it runs. Offered: its usage line, or a file argument. — v391
+
+**Kit lag met at v391.** `bump_to_version.py` now passes `prepend=True`, so a bumped file's *Living* cell is added before its earlier cells and no record is replaced. — v391

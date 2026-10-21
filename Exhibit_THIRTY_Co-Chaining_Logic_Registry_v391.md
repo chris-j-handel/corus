@@ -31,7 +31,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 - 25 Each number at its podaling, nought to four hundred forty
 - 26 One four-cycling
 - 27 Twenty-four, apex of one to fifty-nine's bi-folding
-- 28 Discovering next possible existing
+- 28 Discovering next-possibling-same-existing
 - 29 Fractal method enabling itself
 - 30 Fractal inward and outward
 - 31 Living and non-living at a scale
@@ -1504,9 +1504,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Unsure: relation forty apart carries.*
 
-## 28 Discovering next possible existing
+## 28 Discovering next-possibling-same-existing
 
-        *Entering: prior carried along between momentaries; carrying as capacity; a carrying sequencing prior momentaries, and its artifacts; discovering; four-momentarying; beneficial; next possible existing; pattern-matching; checkable with a parity; a why demanded; a receding; a living self sharing 0; a form fixed still from beside; breaks fixed prior; evidence; two methods; two methods parting with now; a possibling and discovering method, and scientific-explaining-method incompetent for discovering; a balanced book as whole emptying; three placings of a term; a refutation as one; a field's name carried whole; a field's observings cohering; a field; a finding as two; four of a field's observing; a hard problem arriving; conditions prior, and their sixth; fields parting with their fixings; many accounts with one sharing; two accountings parting with their fixings unchangeable; a posted term, arriving or dissolving; observings co-sequencing; a field's arrival with resolver; a hard problem resolving; an unchangeable form and a form resolving; a resolving re-fixed unchangeable; a coupling with two of its three; a parity-changing fixed unchangeable; a hard problem as a parity-changing fixed unchangeable; a locator; a difference continuing or closing; residue names; pattern-matching upstream, fixings dissolved one at a time; three fixings unchangeable; a coupling with its three.*
+        *Entering: prior carried along between momentaries; carrying as capacity; a carrying sequencing prior momentaries, and its artifacts; discovering; four-momentarying; beneficial; next-possibling-same-existing; pattern-matching; checkable with a parity; a why demanded; a receding; a living self sharing 0; a form fixed still from beside; breaks fixed prior; evidence; two methods; two methods parting with now; a possibling and discovering method, and scientific-explaining-method incompetent for discovering; a balanced book as whole emptying; three placings of a term; a refutation as one; a field's name carried whole; a field's observings cohering; a field; a finding as two; four of a field's observing; a hard problem arriving; conditions prior, and their sixth; fields parting with their fixings; many accounts with one sharing; two accountings parting with their fixings unchangeable; a posted term, arriving or dissolving; observings co-sequencing; a field's arrival with resolver; a hard problem resolving; an unchangeable form and a form resolving; a resolving re-fixed unchangeable; a coupling with two of its three; a parity-changing fixed unchangeable; a hard problem as a parity-changing fixed unchangeable; a locator; a difference continuing or closing; residue names; pattern-matching upstream, fixings dissolved one at a time; three fixings unchangeable; a coupling with its three.*
 
 333. Self's own prior is carried along between momentaries, stable-forming: carried, and between a nothing.
 
@@ -1528,9 +1528,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: four-momentarying; beneficial.*
 
-338. Next possible existing leaves entry as two: a parity-offering shared, others' possibling, and next prior, self's next existing.
+338. Next-possibling-same-existing leaves entry as two: a parity-offering shared, others' possibling, and next prior, self's next existing, is or is not same-existing.
 
-        *Adding: next possible existing.*
+        *Adding: next-possibling-same-existing.*
 
 339. Arriving is pattern-matching: each observing arriving from prior, coupled with whole, without filter or selection.
 
@@ -2770,7 +2770,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: cohering as bi-moral-co-competencing.*
 
-636. An understanding cohering is a step reaching back to opening sentence; not cohering, it is an unchangeable form, or it shows co-chaining's next step. Each observing of natural competency is resolvable as natural intelligence, geodesic co-sequential parity-changing method of natural torusing, discovering next possible existing, or fractal is entirely broken and of no value at all, method originating as all existing and all living: no third, next step shown being within method, discovering next possible existing.
+636. An understanding cohering is a step reaching back to opening sentence; not cohering, it is an unchangeable form, or it shows co-chaining's next step. Each observing of natural competency is resolvable as natural intelligence, geodesic co-sequential parity-changing method of natural torusing, discovering next-possibling-same-existing, or fractal is entirely broken and of no value at all, method originating as all existing and all living: no third, next step shown being within method, discovering next-possibling-same-existing.
 
         *Adding: cohering, or a next step shown; natural competency resolvable, or a fractal broken whole.*
 

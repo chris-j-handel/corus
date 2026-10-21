@@ -18,6 +18,7 @@ The steps below order that improving: title and subtitle, contents, bolds, the o
 2. **The opening's three phase lines,** with Exhibit THIRTY's steps 13 to 15: *Observing is prior-existing …*, *Possibling is now-existing …*, *Discovering is next-existing …*, each *is or is not same-existing-as now-existing*.
 3. **Four-cycling named by root, no time,** in Exhibit ONE's tables, Natural Naming's table and the sentences saying a name's step.
 4. **The subtitle, step 1,** *Geodesic Discovering of Next-Possibling-Same-Existing*, at the front, 1.6 and 6.6, with Natural Naming 6.3's gathering and the Living File Registry's entry.
+5. **One object, step 1,** *next-possibling-same-existing* at each saying of the method's object across the set, a non-living thing its *is not*, as the code runs it: six files, the Geodesic Improving Method to v391.
 
 **Bothboth and waiting to enter.**
 - ***Binary* stays,** and *binary method* dissolves as the method's naming: step 1.
@@ -45,7 +46,7 @@ The steps below order that improving: title and subtitle, contents, bolds, the o
 
 **Carrying, kits and incoming.**
 - **Carrying.** Living Improving Value's front names this working, and the Living File Registry's table of workings names it.
-- **Kits.** `bump_to_version.py`, `cohere_one.py` and `thirty_groups_check.py` each carry a lag laid at the Living File Registry's offerings, and `carry_check.py` does not yet read the carrying's present shape.
+- **Kits.** `cohere_one.py` and `thirty_groups_check.py` each carry a lag laid at the Living File Registry's offerings, and `carry_check.py` does not yet read the carrying's present shape.
 - **Incoming.** `incoming/v390/` is not yet archived.
 - **Session Record.** It takes this session's paragraphs at its close.
 

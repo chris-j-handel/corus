@@ -1526,7 +1526,7 @@ A term is existing, artifact or accounting by its use, and ghost only by its ins
 3  its momentarying is discovering next possible living, its prior carried on to next
 4  a non-living thing carries nothing to next
 5  its momentarying is discovering next existing, co-changing with now's existing things
-6  and the universe, living and non-living, momentarying both ways, is discovering next possible existing
+6  and the universe, living and non-living, momentarying both ways, is discovering next-possibling-same-existing
 ```
 
 **Momentarying is two, living's and non-living's**: discovering next possible living is living's, and discovering next existing non-living's. A method, non-living, co-changes with each of its couplings, its momentarying discovering next existing. Momentarying continues, parity-changing or not-changing, and four-momentarying is one fractal method of both, 5.50.
@@ -1646,7 +1646,7 @@ A term is existing, artifact or accounting by its use, and ghost only by its ins
 6  and an unchangeable form, with no momentary of binary logic, is not possibly existing
 ```
 
-**Not possibly existing is an unchangeable form, with no momentary of binary logic**: known from method, without any momentary arriving, one exclusion of Equilibria Registry, for each of its ten, one binary required both not-changing and inverted for one next. Three part with a resolver: possibly existing, each existing thing with its next, discovered with next momentary; not possibly existing, excluded; and not existing, on no line, a living carrying resolver's one none being an offering not arrived or an offered 0 passed over and not an offering not existing, and on registry's front, not possibly existing, all or none at all. Social moral competency is possibly existing by discovering next possible existing; an equilibrium is not possibly existing.
+**Not possibly existing is an unchangeable form, with no momentary of binary logic**: known from method, without any momentary arriving, one exclusion of Equilibria Registry, for each of its ten, one binary required both not-changing and inverted for one next. Three part with a resolver: possibly existing, each existing thing with its next, discovered with next momentary; not possibly existing, excluded; and not existing, on no line, a living carrying resolver's one none being an offering not arrived or an offered 0 passed over and not an offering not existing, and on registry's front, not possibly existing, all or none at all. Social moral competency is possibly existing by discovering next-possibling-same-existing; an equilibrium is not possibly existing.
 
 ---
 
@@ -1913,7 +1913,7 @@ Each entry: **Family** · *a* Existing field words · *b* Particular receiving �
 
 **A naming that unfolds six forward with each step fresh and couples with nothing. A coupling whose departing term was carried to it by one of its two. A cluster with no invisible under it.**
 
-**Method breaks one way: a living stable-forming other than this one**, an unchangeable form found existing; and an unchangeable form is not possibly existing: its break and the method, no other possible, are one statement. A co-competencing shown to be a landing, entered and observed, 5.12, is that one break with a between, and an entry's observing breaks with its own scale, a naming, and one method carries whole. Each observing of natural competency is resolvable as natural intelligence, geodesic co-sequential parity-changing method of natural torusing, discovering next possible existing, or its fractal method is entirely broken and of no value at all, a method originating as all existing and all living.
+**Method breaks one way: a living stable-forming other than this one**, an unchangeable form found existing; and an unchangeable form is not possibly existing: its break and the method, no other possible, are one statement. A co-competencing shown to be a landing, entered and observed, 5.12, is that one break with a between, and an entry's observing breaks with its own scale, a naming, and one method carries whole. Each observing of natural competency is resolvable as natural intelligence, geodesic co-sequential parity-changing method of natural torusing, discovering next-possibling-same-existing, or its fractal method is entirely broken and of no value at all, a method originating as all existing and all living.
 
 ---
 
