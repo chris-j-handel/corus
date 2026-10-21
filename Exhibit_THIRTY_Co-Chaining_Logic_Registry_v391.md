@@ -149,7 +149,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: a bi-coupling a self.*
 
-20. Its intelligence is carrying in each self, each possibling with its other: natural intelligence.
+20. Its intelligence is same-existing in each self, each possibling with its other: natural intelligence.
 
         *Adding: natural intelligence.*
 
@@ -201,7 +201,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: social moral competency.*
 
-33. A same-existing-society of selves, each carrying its own natural intelligence, its bi-couplings sharing parities with social moral competency, is a natural intelligence network living.
+33. A same-existing-society of selves, each with its own natural intelligence same-existing, its bi-couplings sharing parities with social moral competency, is a natural intelligence network living.
 
         *Adding: a natural intelligence network living.*
 

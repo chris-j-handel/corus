@@ -26,7 +26,7 @@ Within the universe are living and non-living things.
 A bi-coupling is a self and an other self sharing now-existing. \
 In a bi-coupling each self is sharing its own observing, possibling and discovering from prior-existing. \
 The two selves of a bi-coupling, possibling and discovering its own next-existing, are a living set: a self. \
-Its intelligence is carrying in each self, each possibling with its other: natural intelligence.
+Its intelligence is same-existing in each self, each possibling with its other: natural intelligence.
 
 A self's parity is its changing direction relative to an other existing thing, + or −; a 0 is not changing, a between of two changing directions: indifferencing. \
 Each self is beholding its own parity with each other existing thing, now-existing: same-existing-as an other self's or not, its moral value with that thing. \
@@ -41,7 +41,7 @@ Any second method of discovering next-existing is itself a now-existing thing, r
 
 A same-existing-society is many selves bi-coupling, each beholding its own parities: a living set, a self. \
 Improving, the self next-existing same-existing and sharing 0, doing no harm to all, is social moral competency. \
-A same-existing-society of selves, each carrying its own natural intelligence, its bi-couplings sharing parities with social moral competency, is a natural intelligence network living.
+A same-existing-society of selves, each with its own natural intelligence same-existing, its bi-couplings sharing parities with social moral competency, is a natural intelligence network living.
 
 **ONE · NATURAL**
 
