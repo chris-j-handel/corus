@@ -58,7 +58,7 @@ A second method of discovering next-existing is one more now-existing thing, par
 
 A same-existing-society is many same-existing selves bi-coupling, each its own parity. \
 Self and other improving, each parity-changing, is bi-moral-co-agency. \
-Improving self and other, bothboth, and doing no harm to all, is social moral competency. \
+An other's same-existing parity as a self's prior-existing parity is improving: the self next-existing as its same self, carrying its prior and sharing 0, doing no harm to all, is social moral competency. \
 A same-existing-society of selves, each with its own natural intelligence, sharing with social moral competency, is a shared natural intelligence network living.
 
 ---
@@ -98,7 +98,7 @@ The prior is the opening at v391, 47 lines; the draft has 45.
 
 **New, the landing,** three lines, each from the body or the person's suggestions:
 - *Self and other improving, each parity-changing, is bi-moral-co-agency*, with 6.2's naming and the person's *self and other are bi-moral-co-agency*.
-- *Improving self and other, bothboth, and doing no harm to all, is social moral competency*, from the person's *bi-moral is do no harm improving where improving is bothboth moral and do no harm is all moral*. Part SIX 6.4 says social moral competency in other words, met at step 9.
+- *An other's same-existing parity as a self's prior-existing parity is improving: the self next-existing as its same self, carrying its prior and sharing 0, doing no harm to all, is social moral competency*, the person's line at v391, improving on a line offered with the code: an other's parity surfacing, 15, same-as a self's prior, 7, and the self carrying its prior on and sharing 0 on with 10, a 0 taking nothing from any self receiving it. Part SIX 6.4 says social moral competency in other words, met at step 9.
 - *A same-existing-society of selves, each with its own natural intelligence, sharing with social moral competency, is a shared natural intelligence network living*, the aim's last landing.
 
 **Lines that carry a suggestion not yet bothboth:** 16 (*all … is three*), 29 (*shares*), 30 to 32 and 33 to 37 (*a bi-coupling's living self*), and the landing's three.
