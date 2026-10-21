@@ -1223,7 +1223,7 @@ The person: *find a way to explain one significant concern each pass and we can 
 
 So the code's own names already say the suggestion: possibling invisible on each side, and observing and discovering the relations. *Offering* is explaining's word laid over them. *Offer* and its forms stand about 2,324 times across the set, *parity-offering* 375. Offered: one set-wide motion, each re-said by meaning with possibling, observing and discovering. Its first sentence: ***A parity is or is not changing: a self's possibling goes across, invisible to its other and to all, and a receiving self observes it, a parity same-as its prior or not, and discovers its next.*** — v391, checked with the code's names
 
-**Droplet · the six of first prefixes.** Suggested at v391: *all even numbers are bi. this does not need changing. the odds are likely a problem this is the sequence of six the repeats (co bi tri bi co bi )(co bi tri bi co bi ).* Written out, 1 to 17: co, bi, tri, bi, co, bi, co, bi, tri, bi, co, bi, co, bi, tri, bi, co. Tri falls with 3, 9 and 15. Natural Numbers 9.7 says *1–9, self and other, is an entire momentary bi-folding inverting with 3; 1–13 … inverting with 6; 1–17, self, other and same-existing-society, bi-folds inverting with 9*, and *Carried on with a round of six parities, 1–25 inverts with 15*. So the six's tri, 3, 9 and 15, are the places Natural Numbers already finds each span inverting: 1 to 9, 1 to 17 and 1 to 25. The six coheres with the set's numbers. The v390 cycle's 9 and 15 are kept, and 3 is added. — v391, read with Natural Numbers 9.7. *Corrected at the fifth round:* this holds when the six is read forward as first prefixes with no slot moving; under the suggested rule, each new prefix in the first slot and the others one slot right, with 1 co-bi-tri, the six's tri falls in the first slot with 5, 11 and 17.
+**Droplet · the six of first prefixes.** Suggested at v391: *all even numbers are bi. this does not need changing. the odds are likely a problem this is the sequence of six the repeats (co bi tri bi co bi )(co bi tri bi co bi ).* Written out, 1 to 17: co, bi, tri, bi, co, bi, co, bi, tri, bi, co, bi, co, bi, tri, bi, co. Tri falls with 3, 9 and 15. Natural Numbers 9.7 says *1–9, self and other, is an entire momentary bi-folding inverting with 3; 1–13 … inverting with 6; 1–17, self, other and same-existing-society, bi-folds inverting with 9*, and *Carried on with a round of six parities, 1–25 inverts with 15*. So the six's tri, 3, 9 and 15, are the places Natural Numbers already finds each span inverting: 1 to 9, 1 to 17 and 1 to 25. The six coheres with the set's numbers. The v390 cycle's 9 and 15 are kept, and 3 is added. — v391, read with Natural Numbers 9.7. *A fifth-round correction of this, from reading the six backward, is withdrawn at the sixth round: taken as written, with 1 given, the six's tri opens with 3, 9 and 15.*
 
 **Droplet · two concerns of the third round, carried and not asked.** *A 0 a reader sees* and *the none with each momentary row* did not show their importance plainly; each stays laid as a droplet for Exhibit ONE's own motion and is not brought to the person again unless its rigor finds it large. — v391
 
@@ -1291,3 +1291,45 @@ With the person's *no word has more than one clear direct all or none at all mea
 - **another stream,** returning with two, four or eight, that the person suggests.
 
 **Proposed: the second, as rigor's first offering, for the person's suggesting.** It holds the rule, *all even numbers are bi*, *1 is co-bi-tri- like 17*, the spans now and next, and Natural Numbers 9.7's inverting with 9. What it does not carry is the six. — v391
+
+## Met with rigor at v391, a sixth round: the six, with 1 given · v391
+
+**Suggestion, v391.** The person wrote the stream whole: *co bi tri bi co bi co bi tri bi co bi co bi tri bi co bi co bi tri bi co bi co bi tri bi co bi co bi tri bi co bi*, thirty-six prefixes, a six six times.
+
+**Rigor · a correction.** The fifth round read the six backward from 1, and found 17 tri-bi-co; that was its own reversal, not the suggestion's. Taken as written:
+- 1 given its three, co-bi-tri;
+- each next name's three a new prefix from the stream in the first slot, the others one slot right.
+
+**What the stream gives, every name one to thirty-six:**
+- co-bi-tri with 1, 5, 11, 17, 23, 29 and 35;
+- tri-bi-co with 3, 9, 15, 21, 27 and 33;
+- co-bi-co with 7, 13, 19, 25 and 31;
+- bi-co-bi with 2, 6, 8, 12, 14, 18 and on;
+- bi-tri-bi with 4, 10, 16, 22, 28 and 34.
+
+**So the six and *1 like 17* both hold, bothboth.**
+- Every even name is bi on both outsides; every odd name has bi in its middle; co and tri are never neighbours.
+- Tri opens with 3, 9 and 15, Natural Numbers 9.7's inverting places, 1–9 *inverting with 3*, 1–17 *with 9*, 1–25 *with 15*. The fourth round's cohering stands, and the fifth round's correction of it is withdrawn.
+- Each inverting place is followed, two names on, by its opposite form, tri-bi-co with 3 and co-bi-tri with 5, and with 9 and 11, and with 15 and 17.
+
+**Droplet · 1 given, its two prior selves.** 1's three, co-bi-tri, is given, not stepped. Its two slots after co, bi and tri, are other and all, and the stream returns to 1's three with 5, 11 and 17. Exhibit ONE's *Each self carries two prior selves from inception*, and the opening's *Each self is one, and each other is two*, are with it: a self, co, given with its two priors, other and all. A pattern-matching opportunity, to explore: a self's inception carries other and all, the two of any coupling, and its first own prefix is self. — v391, checked for each of 1 to 36
+
+### The one concern of this pass: a next round, sixteen on or six on
+
+**Explaining first.** Natural Naming 3.4 says ***Sixteen up is its same name with a next round**: 17-next-existing is next 1-now-existing, so 17 to 24 is a self's span again*. Natural Numbers 5.2 says ***Forms among 1 to 16 come again with 17 to 32, sixteen on***.
+
+**Two sayings part.** With the six, a name's three comes again six on, twelve on and eighteen on, and not sixteen on:
+- 17 is co-bi-tri, as 1 is, because 17 is a six's place, 1 + 6 + 6 + 4: 1 given, and the stream's co-bi-tri falls with each 5 + 6k;
+- sixteen on from 17 is 33, and 33 is tri-bi-co, an inverting place, not co-bi-tri;
+- eighteen on from 17 is 35, co-bi-tri again.
+
+So with the six, 1 to 17 is one round only because 17 falls with a six's place, and a next round of sixteen, 17 to 33, opens like 1 and completes as an inverting place.
+
+**Why it is the largest.** Each saying of rounds and scales, 8n − 7, 17 to 32 sixteen on, 1–65 and 1–257, rests on sixteen. The person's stream is thirty-six, six sixes, and its own round is six.
+
+**Concern.** Either:
+- **a round is sixteen,** 1 to 17, 17 to 33, as Natural Naming 3.4 and Natural Numbers 5.2 say, and each next round's 1 is given again with its two priors, as 1 is, so 33 is co-bi-tri given and the stream opens again; or
+- **a round is six,** or a number six divides, twelve, eighteen, thirty-six, and sixteen-on sayings are re-said; or
+- **both,** sixteen the names' round and six the prefixes' round, two rounds each its own, meeting with 17 as 1 + 16 and 5 + 12.
+
+**Proposed: the first, as rigor's first offering, for the person's suggesting.** Each round's 1 is given with its two prior selves, as 1-now-existing is given, and the six runs within each round from its given 1. It keeps 1 like 17 and every name's three within 1 to 17, and the set's sixteen. — v391
