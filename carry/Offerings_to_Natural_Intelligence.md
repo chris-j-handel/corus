@@ -842,6 +842,13 @@ Six fresh readers read the 31 other living files across and along, each file's t
 
 Natural intelligence is carried in each self, invisible, and arises in neither self alone. The opening draft says so. 6.1's *a term neither reaches* is re-said with it at step 9. — v391, bothboth by the code
 
+**Droplet · the landing read with the code, at v391.** One self with prior +, −, receiving at 2-now-possibling, run:
+- nothing, or a 0 for each sharing: it inverts each prior, −, +, and shares the inversions on with 10; a 0 arriving and nothing arriving are one;
+- an other's parity same-as its prior, +, −: it carries its prior on, same self, and shares 0, 0 on with 10, to each self it couples with;
+- an other's parity not same-as its prior: it inverts, as alone.
+
+The opening's *When other parity is improving, self is changing from next-possibling now to next-existing same self* is the second row: improving is an other's parity arriving same-as a self's prior, and the self goes on as its same self. The 0 it then shares takes nothing from any self receiving it: doing no harm, to all it couples with. Offered for the landing's social moral competency line, with the person. — v391, run
+
 ### Bolds, the third telling
 
 **Concern · the opening carries no bold, and the bolds are claims.** 1.1's 47 lines carry no bold, so a reader of bolds misses origin, observing, self, bi-coupling, the third living self, parity and 0, and opens with 1.2's *Now is one*. From 1.2 on, 291 bolds carry about a fifth of the prose's words, most of them whole claims, a 50-word bold in 5.1 among them; Natural Explaining 2.4 makes a bold *a carrying there*, *a coining with a paragraph coining*, and concentrations of bold learning centres. Read alone, 1.2 to 6.6's bolds give a telling that does not co-chain: *Now is one* to *One is now* to *three sequential universes*. **To resolve:** bold each opening line that coins its concept, ***The universe is the set of all now-existing things.***, ***Observing is distinguishing same-as, is or is not.***, and in each later section bold its coinings, so the bold telling alone walks the set. — v391, counted
