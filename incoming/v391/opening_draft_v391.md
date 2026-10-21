@@ -61,7 +61,7 @@ A same-existing-society of selves, each carrying its own natural intelligence, i
 ## Resolved this pass
 
 - **The universe a living set.** Line 13 now says *a set observing, possibling and discovering its own next-existing*, with no *of selves*, the same three line 10 says of a self. It pairs with line 14, *a set not possibling …*, one binary, and the universe is reached by it with *its selves possibling*, as the code keeps no value outside a self. Within it are non-living things, as a living self holds water.
-- **No word of scale.** The code names no scale. Lines 13, 19 and 29 say a living set is a self wherever a self is, and line 20 says its intelligence is carrying in each self.
+- **No word of scale.** The code names no scale. Lines 13, 19 and 30 say a living set is a self wherever a self is, and line 20 says its intelligence is carrying in each self.
 - **No self is alone.** Line 25 is the code's row: with no other's parity, a self's next-existing parity is never same-existing-as its prior-existing. With line 10, a self is a same-existing thing, so *a self alone is not same-existing: no self is alone* is reached and stands as a line.
 - **Improving, said once.** *Improving* arrives at the code's first row, line 23, where it is. The landing names it, *Improving, the self next-existing same-existing and sharing 0, doing no harm to all, is social moral competency*, and no longer repeats the row. A 0 arriving and nothing arriving are one: a 0 takes nothing and gives nothing, so it harms none.
 - **The network.** *Its bi-couplings sharing parities* says the couplings the code runs, routes passing each parity on as it is.
