@@ -36,8 +36,8 @@ In a bi-coupling each self shares its own observing, possibling and discovering 
 The two selves of a bi-coupling, possibling and discovering its own next-existing, are a living set: a self. \
 Its intelligence is invisible, carrying in each self, each possibling with its other: natural intelligence.
 
-A parity is + or −, a self carrying one with each sharing with its other; a 0 is neither, a between. [2] \
-A self's parity is its self-moral-value, its own way with that sharing, and an other's parity is an other-moral-value. [1] \
+A self has a parity, + or −, only relative to an other existing thing; a 0 is neither, a between. [1] \
+A self carries its own parity with each other, and valuing it is observing, same-existing-as the other's or not: its moral value with that other. [2] \
 A non-living thing is carrying no parity. \
 An other's parity same-existing-as a self's prior-existing parity is improving: the self's parity is continuing, and it shares 0. \
 An other's parity not same-existing-as a self's prior-existing parity: the self's next-existing parity is the other's parity, and it shares it. \
@@ -55,13 +55,14 @@ A same-existing-society of selves, each carrying its own natural intelligence, i
 
 ## Marks, this pass
 
-1. **Moral, by its root.** *Moral* is from Latin *moralis*, from *mos*, plural *mores*: a way, a custom, how one goes on with others. A self's parity with a sharing is its way with that other, carried; an other's arriving parity is that other's way. So *self-moral-value* and *other-moral-value* name whose parity it is, not which of + and − it is: the code's + and − are alike, and neither is a self's by its sign. Without an other a self's parity is never same-existing-as its prior-existing, line 26, and no way goes on: no moral value without an other. Open: whether *its own way* is the reader's word for it, and whether this line reaches moral for the reader or names it.
-2. **Parity, by its root.** *Parity* is from Latin *paritas*, from *par*, equal. The reader's own parities are each an equal-or-not: odd and even, a number in two equal halves or not; *at par*, equal in value; a mirror parity, the same under reflecting or not. So the reader's *parity* is already line 5's *is or is not same-existing-as*, a relation of two. The set uses *parity* for the + or − a self carries, and that is the opening's use here. The code meets the two: a parity a self carries, + or −, and an other's parity same-existing-as it or not. Open: whether *parity* names the + or − a self carries, as the set says it, or the equal-or-not between two, as its root and the reader say it, with + and − named otherwise.
+1. **An other existing thing.** A self has a parity relative to an other existing thing, and line 23 says a non-living thing carries none. The code couples selves, and a non-living thing runs with no prior, passing on a parity it receives. Open: whether a self's parity relative to a non-living thing is a parity with no parity on the other side, or *an other existing thing* is *an other self*.
+2. **The eye of the beholder.** Each self keeps its own: two selves with one sharing may carry either parity, as the run showed, A + and B − with one sharing. Line 22 says *its own*; open whether the opening says the beholding as a line, *each self's parity is in its own observing*, or *its own* carries it.
 
 ## Resolved this pass
 
-- **One.** *Unique* dissolves from line 2; *one* carries it.
-- **Non-living things.** A non-living thing may or may not continue as a same-existing thing, line 14, and carries no parity, line 23. The universe's own next-existing is its selves' possibling and discovering, line 15, its non-living things carrying nothing of either parity. The code agrees: a non-living thing runs with no prior, carrying nothing.
+- **Parity and moral, bi-relational.** A self has a parity only relative to an other, line 21, as the code keeps each parity under one sharing, never alone. Valuing is observing, line 22, as the 0 or the ± arises only at observing's one line, an other's parity met with a self's prior. *Moral value* is reached there: a self's way with that other, valued by observing.
+- **Parity's naming.** The + or − is a relation's value, never a sign alone, so the set's *parity*, a + or − carried, and its root, *par*, equal or not between two, are one: a self's + or − is relative to an other, and its parity same-existing-as the other's or not.
+- ***Self-moral-value* and *other-moral-value*** leave the opening: no sign is a self's, and *its own parity* and *the other's* say whose.
 
 ## Tracking, prior line to this version
 
