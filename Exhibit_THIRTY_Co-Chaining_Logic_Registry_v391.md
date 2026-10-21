@@ -59,7 +59,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
 ## 1 Universe, the set of all now-existing things
 
-        *Entering: the universe, the set of all now-existing things, inception, now-existing one naming; each step after it a step from it, and nothing brought to it; one universal set; no other universe; prior-existing; continuing; same-existing; observing, prior with now; is or is not same-existing-as; the universe continuing, by observing; the universe, the same-existing set.*
+        *Entering: the universe, the set of all now-existing things, inception, now-existing one naming; each step after it a step from it, and nothing brought to it; one universal set; no other universe; prior-existing; same-existing; observing, prior with now; is or is not same-existing-as; the universe same-existing, by observing; the universe, the same-existing set.*
 
 1. The universe is the set of all now-existing things.
 
@@ -73,17 +73,17 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: no other universe.*
 
-4. A now-existing thing continuing from a prior-existing thing is same-existing-as it: a same-existing thing.
+4. A now-existing thing from a prior-existing thing is same-existing-as it: a same-existing thing.
 
-        *Adding: prior-existing; continuing; same-existing.*
+        *Adding: prior-existing; same-existing.*
 
 5. Observing is prior-existing, is or is not same-existing-as now-existing.
 
         *Adding: observing, prior with now; is or is not same-existing-as.*
 
-6. By observing, the now-existing universe is continuing from the prior-existing universe.
+6. By observing, the now-existing universe is same-existing-as the prior-existing universe.
 
-        *Adding: the universe continuing, by observing.*
+        *Adding: the universe same-existing, by observing.*
 
 7. The universal set is a same-existing set.
 
@@ -121,7 +121,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: a living set, a self.*
 
-14. A set not possibling its own next-existing is non-living, is or is not continuing as a same-existing thing.
+14. A set not possibling its own next-existing is non-living, is or is not same-existing.
 
         *Adding: non-living.*
 
@@ -165,7 +165,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: a non-living thing beholding no parity.*
 
-24. Others' parities agreeing, same-existing-as a self's prior-existing parity, is improving: the self's parity is continuing, and it is sharing 0.
+24. Others' parities agreeing, same-existing-as a self's prior-existing parity, is improving: the self's parity is same-existing, and it is sharing 0.
 
         *Adding: improving.*
 

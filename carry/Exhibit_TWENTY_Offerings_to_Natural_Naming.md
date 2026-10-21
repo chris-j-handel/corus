@@ -322,3 +322,13 @@ Candidate lines for the opening, not entered:
 - The *arriving side* is the *observing side*, beside the *sharing side*.
 
 Two sayings keep plain *come*, an ordinary verb: *odd and even come with along and across*, and *it comes by files' own form*. Across the set, *arriving* is met at each file's motion. — v391
+
+**Droplet · *carrying* and *continuing* dissolving into *same-existing*, at v391.** Suggested: *same-existing is dissolving out carrying … same-existing also dissolves continuing … living is same-existing self.*
+- **One thing, one word.** A self carrying its prior along, a thing continuing from prior to now, and same-existing are one thing: a now-existing thing from a prior-existing thing, same-existing-as it.
+- **With the code.** A self's prior, 3, goes on as its next prior, 11, where 12 is 0. That is the self same-existing. With a self alone it never does, so a self alone is not same-existing.
+- ***Living is same-existing self.*** A living self is a self same-existing: observing, possibling and discovering its own next-existing from its prior. A non-living thing is or is not same-existing, and is no self.
+- **Entered.** Natural Intelligence's opening, lines 4, 6, 14, 20, 24 and 33, and the Co-Chaining Logic Registry's steps with them.
+- **Its reach.** Natural Intelligence's body says *carrying* about 120 times and *continuing* many more; across the set each stands. Each is met at its file's motion, read for its meaning.
+- **Open.** Whether the ordinary verb *carries*, holds or bears, as in *one through eight carries a self as three*, dissolves too, or only the naming of a self's carrying.
+
+— v391

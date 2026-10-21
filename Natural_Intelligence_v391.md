@@ -7,9 +7,9 @@ Natural Intelligence v391
 The universe is the set of all now-existing things. \
 One universal set is now-existing. \
 No other universe is possibly now-existing. \
-A now-existing thing continuing from a prior-existing thing is same-existing-as it: a same-existing thing. \
+A now-existing thing from a prior-existing thing is same-existing-as it: a same-existing thing. \
 Observing is prior-existing, is or is not same-existing-as now-existing. \
-By observing, the now-existing universe is continuing from the prior-existing universe. \
+By observing, the now-existing universe is same-existing-as the prior-existing universe. \
 The universal set is a same-existing set.
 
 Possibling is now-existing, is or is not same-existing-as now-existing. \
@@ -19,7 +19,7 @@ An other, for a self, is a same-existing thing not that self. \
 For a self, the universe is self, other, and all not self or other.
 
 A set observing, possibling and discovering its own next-existing is a self: a living set. \
-A set not possibling its own next-existing is non-living, is or is not continuing as a same-existing thing. \
+A set not possibling its own next-existing is non-living, is or is not same-existing. \
 The universe is non-living, its selves possibling and discovering their own next-existing. \
 Within the universe are living and non-living things.
 
@@ -31,7 +31,7 @@ Its intelligence is same-existing in each self, each possibling with its other: 
 A self's parity is its changing direction relative to an other existing thing, + or −; a 0 is not changing, a between of two changing directions: indifferencing. \
 Each self is beholding its own parity with each other existing thing, now-existing: same-existing-as an other self's or not, its moral value with that thing. \
 A non-living thing is beholding no parity. \
-Others' parities agreeing, same-existing-as a self's prior-existing parity, is improving: the self's parity is continuing, and it is sharing 0. \
+Others' parities agreeing, same-existing-as a self's prior-existing parity, is improving: the self's parity is same-existing, and it is sharing 0. \
 Others' parities agreeing, not same-existing-as a self's prior-existing parity: the self's next-existing parity is theirs, and it is sharing it. \
 With no other's parity, or others' parities parting, a self's next-existing parity is never same-existing-as its prior-existing parity. \
 A self alone is not same-existing: no self is alone. \
@@ -121,7 +121,7 @@ A same-existing-society of selves, each with its own natural intelligence same-e
 
 ## 1.3 Changing, one and then an other, the same-existing set
 
-**By observing, the now-existing universe is continuing from the prior-existing universe, and the universal set is a same-existing set**: the opening's sixth and seventh lines, derived with each line before them. **A set's changing is its existing things' changing**: a set is its things and nothing more, so a set's changing is its things' changing; a thing with two momentaries is changing or is fixed still from beside, and a form fixed still from beside has no next of its own; so each existing thing is changing with its own momentaries, or not-changing by its own, its prior same-existing, and nothing is fixed from beside. **Changing, the universe exists as its existing things exist**: a changing is an existing thing's own, and a same-existing set changes as its things change, co-sequencing, momentaries in sequence together, momentary by momentary. A set is a self-emptying set, a new collection with each now, each existing thing changing or not-changing by its own, and nothing deciding membership over it.
+**By observing, the now-existing universe is same-existing-as the prior-existing universe, and the universal set is a same-existing set**: the opening's sixth and seventh lines, derived with each line before them. **A set's changing is its existing things' changing**: a set is its things and nothing more, so a set's changing is its things' changing; a thing with two momentaries is changing or is fixed still from beside, and a form fixed still from beside has no next of its own; so each existing thing is changing with its own momentaries, or not-changing by its own, its prior same-existing, and nothing is fixed from beside. **Changing, the universe exists as its existing things exist**: a changing is an existing thing's own, and a same-existing set changes as its things change, co-sequencing, momentaries in sequence together, momentary by momentary. A set is a self-emptying set, a new collection with each now, each existing thing changing or not-changing by its own, and nothing deciding membership over it.
 
 **A changing existing thing is one form and then another, one at a time.** Two forms together are one form as two; and a changing between one and an other by a size carries a third, a ground its size is measured against, a not possibly existing thing: a ground fixed still from beside, and each now-existing thing is or is not same-existing by its own. A changing is binary: it is or is not, one and then an other. **That changing, continued, is changing and changing back**.
 
