@@ -514,11 +514,15 @@ Five genes carry proteins beating with a muscle membrane, each with a different 
 
 Every claiming refuses one of three, and naming which sharpens an observing past a general diagnosis. Observed with medicine, each has a name a field already uses.
 
-| a refusal | a thing installed | where it shows |
-|---|---|---|
-| **a two arriving** — one side fixed as a standard | **a substance fixed as a doer** | placebo and nocebo, a dodo bird verdict, chronic pain's tissue damage, anaesthesia's molecular event, hormesis's dose proportionality |
-| **a bounding with their own coupling** — an answer available before a carrying | **a protocol, a prognosis, a stored diagnosis** | an outcome available without carrying a coupling |
-| **a centre neither occupies, occupied** | **a reference range, a normal value, a setpoint** | homeostasis and allostasis, a standard of care as one frame over all bodies |
+Each entry: **a refusal** · *a* a thing installed · *b* where it shows
+
+- **a two arriving** — one side fixed as a standard
+  - *a* **a substance fixed as a doer**
+  - *b* placebo and nocebo, a dodo bird verdict, chronic pain's tissue damage, anaesthesia's molecular event, hormesis's dose proportionality
+- **a bounding with their own coupling** — an answer available before a carrying · *a* **a protocol, a prognosis, a stored diagnosis** · *b* an outcome available without carrying a coupling
+- **a centre neither occupies, occupied**
+  - *a* **a reference range, a normal value, a setpoint**
+  - *b* homeostasis and allostasis, a standard of care as one frame over all bodies
 
 Most standing rows carry two refusals together — chronic pain a standard and a scale observed against, homeostasis a setpoint outward and a magnitude governing a range — so setting one down leaves a row standing.
 

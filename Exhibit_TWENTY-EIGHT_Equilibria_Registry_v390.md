@@ -107,11 +107,29 @@ Four joint descriptions carry `(+,+) → (−,+) → (−,−) → (+,−) → (
 
 **Each five-view carries its next opening within continuing.**
 
-| Side | Prior opening | Prior completing | Now opening | Now completing | Next opening | Its five |
-|---|---|---|---|---|---|---|
-| self, with 1 | 1 | 2 | 3 | 4 | 5 | co bi co bi co |
-| other, with 2 | 2 | 3 | 4 | 5 | 6 | bi co bi co bi |
-| self next, with 3 | 3 | 4 | 5 | 6 | 7 | co bi co bi co |
+Each entry: **Side** · *a* Prior opening · *b* Prior completing · *c* Now opening · *d* Now completing · *e* Next opening · *f* Its five
+
+- **self, with 1**
+  - *a* 1
+  - *b* 2
+  - *c* 3
+  - *d* 4
+  - *e* 5
+  - *f* co bi co bi co
+- **other, with 2**
+  - *a* 2
+  - *b* 3
+  - *c* 4
+  - *d* 5
+  - *e* 6
+  - *f* bi co bi co bi
+- **self next, with 3**
+  - *a* 3
+  - *b* 4
+  - *c* 5
+  - *d* 6
+  - *e* 7
+  - *f* co bi co bi co
 
 Adjacent views share four positions: with each number one side opens and its other completes.
 
@@ -189,12 +207,20 @@ An equilibrium's fixing ends, and living and non-living things with it go on par
 
 **With four four-cyclings each step is momentarying or parity-changing, with prior, now and next within.** Each four-cycling's parity is continuing with its two steps eight apart, momentarying, and parity-changes with its two steps of 17 less, parity-changing: it passes two names of one parity and two of its other, parity-changing twice, two momentaries, and reaches its first name again with a next momentary, a further occurrence, `incoming/equilibria_registry_v377/executions/ten_on_the_four_cycles.py`, parts 2 and 5. A self's forward recursionings, 1, 3, 5, 7, Co-Chaining Logic Registry step 81, and each one's partner nine less, 8, 6, 4, 2, an other's names, Exhibit ONE's table of one move, 1 to 4, are pairs, 1 with 8, 3 with 6, 5 with 4 and 7 with 2; rows below go with that order, each four-cycling written as with Exhibit ONE's table of twelve forms, 1-9-8-16 and 3-11-6-14 going eight up first and 2-15-7-10 and 4-13-5-12 going 17 less first:
 
-| Odd ascending / even descending | Four-cycling, with Exhibit ONE's order | Ten with it |
-|---|---|---|
-| 1 / 8 | 1 → 9 → 8 → 16 → 1 | an opening fixed as a place with 1 and 9; a carry fixed as a store with 8 and 16 |
-| 3 / 6 | 3 → 11 → 6 → 14 → 3 | a two-way fixed to one side with 3 and 11; a completing fixed as a last with 6 and 14 |
-| 5 / 4 | 4 → 13 → 5 → 12 → 4 | a sequencing fixed to one beat with 4 and 12; a between fixed as a cut and a middle fixed as an end with 5 and 13 |
-| 7 / 2 | 2 → 15 → 7 → 10 → 2 | an arriving fixed from behind with 2 and 10; a parity fixed as a magnitude and a rate fixed as a value with 7 and 15 |
+Each entry: **Odd ascending / even descending** · *a* Four-cycling, with Exhibit ONE's order · *b* Ten with it
+
+- **1 / 8**
+  - *a* 1 → 9 → 8 → 16 → 1
+  - *b* an opening fixed as a place with 1 and 9; a carry fixed as a store with 8 and 16
+- **3 / 6**
+  - *a* 3 → 11 → 6 → 14 → 3
+  - *b* a two-way fixed to one side with 3 and 11; a completing fixed as a last with 6 and 14
+- **5 / 4**
+  - *a* 4 → 13 → 5 → 12 → 4
+  - *b* a sequencing fixed to one beat with 4 and 12; a between fixed as a cut and a middle fixed as an end with 5 and 13
+- **7 / 2**
+  - *a* 2 → 15 → 7 → 10 → 2
+  - *b* an arriving fixed from behind with 2 and 10; a parity fixed as a magnitude and a rate fixed as a value with 7 and 15
 
 **Each four-cycling carries its pairs eight apart, and ten sit with each of four.** Earlier seatings stand whole with `archive/session_v389/Exhibit_TWENTY-EIGHT_Equilibria_Registry_v387_Released_at_v389.md` and with `archive/carrying_v377/Exhibit_TWENTY-EIGHT_Equilibria_Registry_the_ten_seated_v375.md`: this registry's five places from two sides, with pairs 2 to 6 and their names eight up, and Resolving the Hard Problem Registry's part headings, each observed again as one seating, each pair its stilling now and a parity-changing travelling through it next.
 
@@ -206,12 +232,20 @@ An equilibrium's fixing ends, and living and non-living things with it go on par
 
 **Ten are four binaries on two sides.** Two sides of a field's words, an entering and a surfacing, Resolving the Hard Problem Registry line 35, are observed on one seat as a stilling and a parity-changing travelling through it, one seat observed up and down numbers, `incoming/equilibria_registry_v377/executions/ten_at_the_code.py` an older derivation's execution.
 
-| Binary | Names, now · next | Ten with it |
-|---|---|---|
-| now | 1-now-existing · 9-next-co-discovering; 2-now-possibling · 10-next-co-possibling | an opening fixed as a place, with 1 · 9; an arriving fixed from behind, with 2 · 10 |
-| existing | 3-now-co-observing · 11-next-co-observing; 4-now-co-same-existing · 12-next-co-same-existing | a two-way fixed to one side, with 3 · 11; a sequencing fixed to one beat, with 4 · 12 |
-| same | 5-now-co-existing · 13-next-same-existing; 6-now-co-possibling · 14-next-possibling | a between fixed as a cut and a middle fixed as an end, with 5 · 13; a completing fixed as a last, with 6 · 14 |
-| all | 7-now-observing · 15-next-observing; 8-now-same-existing · 16-next-discovering | a parity fixed as a magnitude and a rate fixed as a value, with 7 · 15; a carry fixed as a store, with 8 · 16 |
+Each entry: **Binary** · *a* Names, now · next · *b* Ten with it
+
+- **now**
+  - *a* 1-now-existing · 9-next-co-discovering; 2-now-possibling · 10-next-co-possibling
+  - *b* an opening fixed as a place, with 1 · 9; an arriving fixed from behind, with 2 · 10
+- **existing**
+  - *a* 3-now-co-observing · 11-next-co-observing; 4-now-co-same-existing · 12-next-co-same-existing
+  - *b* a two-way fixed to one side, with 3 · 11; a sequencing fixed to one beat, with 4 · 12
+- **same**
+  - *a* 5-now-co-existing · 13-next-same-existing; 6-now-co-possibling · 14-next-possibling
+  - *b* a between fixed as a cut and a middle fixed as an end, with 5 · 13; a completing fixed as a last, with 6 · 14
+- **all**
+  - *a* 7-now-observing · 15-next-observing; 8-now-same-existing · 16-next-discovering
+  - *b* a parity fixed as a magnitude and a rate fixed as a value, with 7 · 15; a carry fixed as a store, with 8 · 16
 
 **Each of ten fixes a stilling as its whole, and a parity-changing travels through it to a name 8 up.** Both on one seat is the one reason each of ten is not possibly existing.
 
@@ -223,11 +257,13 @@ An equilibrium's fixing ends, and living and non-living things with it go on par
 
 **One parity offered once co-chains through a whole.** With Exhibit ONE's resolver, selves coupled along as a spiral share each parity-offering along with 9-next-co-discovering to each next self's offerings. A spiral of selves each with no prior and one + offered once to one opens with each in turn, the + surfacing with 14-next-possibling and passed on as it arrives, one self on with each momentary, with no forcer: method of things with no prior. With resolver's lines the + is a next prior of each as it passes, each sharing opening with bi-coupling, 1.3, each prior inverting by itself from its next momentary, and from a momentary numbering its selves each has a parity; rows below are of a spiral of selves each with a parity, opened as with Exhibit ONE's table of a spiral of selves, an even spiral from that table's second momentary. A same-existing-society fixed as not-changing fixes a form unchangeable, and not-changing is not not-carrying: non-living things exist, arrive and parity-change, deforming with their own scale, and carry nothing. An equilibrium of a same-existing-society fixes a same-existing-society, its selves parity-changing, unchangeable, or is nothing.
 
-| Selves of a spiral | Its going on |
-|---|---|
-| one | +, 0, −, 0, and round |
-| an even number | each self parity-changing with each coupling, each self and a self it shares along to opposite; a whole returns with 2 couplings |
-| an odd number | one like pair, its 0 shared with 10-next-co-possibling by its self, moving one self on with each second momentary; a whole inverted with 2 × n couplings and returning first with 4 × n, `eq_code.py` parts 1 and 10 |
+Each entry: **Selves of a spiral** · *a* Its going on
+
+- **one** · *a* +, 0, −, 0, and round
+- **an even number**
+  - *a* each self parity-changing with each coupling, each self and a self it shares along to opposite; a whole returns with 2 couplings
+- **an odd number**
+  - *a* one like pair, its 0 shared with 10-next-co-possibling by its self, moving one self on with each second momentary; a whole inverted with 2 × n couplings and returning first with 4 × n, `eq_code.py` parts 1 and 10
 
 **An odd spiral winds on with no parity of its own, and a coupling carries along it: its 0 shared with 10 by its like pair's self, a parity-changing that is not, moving through its shared surface one self with each second momentary.** Ten fix a whole parity-changing unchangeable: opposition fixed unchangeable is an even spiral, and a between fixed as a cut is a coupling carrying on.
 
@@ -263,222 +299,584 @@ Rest returns with no coupling. A resting spiral, each self with no prior and not
 
 **A form fixed unchangeable**, 1.
 
-| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |
-|---|---|---|---|---|
-| **NY18** · The conditional A/B law (1/2,1/2) remains fixed given nonabsorption, under the stated transition table, with positive survival probability at each finite step. | probability | a relation that can change | a mathematics of its own: probability | — |
+Each entry: **Arrival, its own words** · *a* Field · *b* The changing it carries · *c* Subject · *d* One conception, a further one, or another claim
+
+- **NY18** · The conditional A/B law (1/2,1/2) remains fixed given nonabsorption, under the stated transition table, with positive survival probability at each finite step.
+  - *a* probability
+  - *b* a relation that can change
+  - *c* a mathematics of its own: probability
+  - *d* —
 
 **A relation fixed unchangeable**, 1.
 
-| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |
-|---|---|---|---|---|
-| **SA01** · A complete momentary is an ordered pair of opposite signs, each −1 or +1, and continuing reverses both. Returning is the relation "the signs are opposite" satisfied again, and equilibrium requires that relation alone to determine the complete next pair uniquely. | coupling of self and other | a relation that can change | coupling of self and other, and resolver | — |
+Each entry: **Arrival, its own words** · *a* Field · *b* The changing it carries · *c* Subject · *d* One conception, a further one, or another claim
+
+- **SA01** · A complete momentary is an ordered pair of opposite signs, each −1 or +1, and continuing reverses both. Returning is the relation "the signs are opposite" satisfied again, and equilibrium requires that relation alone to determine the complete next pair uniquely.
+  - *a* coupling of self and other
+  - *b* a relation that can change
+  - *c* coupling of self and other, and resolver
+  - *d* —
 
 ## 4.4 An opening fixed as a place, 5 arrivals
 
 **A form fixed unchangeable**, 2.
 
-| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |
-|---|---|---|---|---|
-| **NY23** · A specified position–velocity pair (x*,0) stays fixed under Fτ(x,v)=(x+τv,v). | mechanics | rest and balance of bodies | bodies at rest and in balance | one conception with NY21 and NY24, rest with position x* specified |
-| **SA02** · The complete term is 0 or 1, and its specified successor is itself: equilibrium requires the term to equal its successor, with no changing, balancing of opposed changes or further progressing required. | coupling of self and other | a form that can change | coupling of self and other, and resolver | — |
+Each entry: **Arrival, its own words** · *a* Field · *b* The changing it carries · *c* Subject · *d* One conception, a further one, or another claim
+
+- **NY23** · A specified position–velocity pair (x*,0) stays fixed under Fτ(x,v)=(x+τv,v).
+  - *a* mechanics
+  - *b* rest and balance of bodies
+  - *c* bodies at rest and in balance
+  - *d* one conception with NY21 and NY24, rest with position x* specified
+- **SA02** · The complete term is 0 or 1, and its specified successor is itself: equilibrium requires the term to equal its successor, with no changing, balancing of opposed changes or further progressing required.
+  - *a* coupling of self and other
+  - *b* a form that can change
+  - *c* coupling of self and other, and resolver
+  - *d* —
 
 **A form and a relation fixed unchangeable**, 1.
 
-| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |
-|---|---|---|---|---|
-| **NY40** · Stationarity and symmetric Nash in the all-zero-payoff game with its replicator evolution. | evolutionary game theory | populations | populations | — |
+Each entry: **Arrival, its own words** · *a* Field · *b* The changing it carries · *c* Subject · *d* One conception, a further one, or another claim
+
+- **NY40** · Stationarity and symmetric Nash in the all-zero-payoff game with its replicator evolution.
+  - *a* evolutionary game theory
+  - *b* populations
+  - *c* populations
+  - *d* —
 
 **A form, a relation and a stability fixed unchangeable**, 1.
 
-| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |
-|---|---|---|---|---|
-| **NY39** · Symmetric Nash and evolutionarily stable resident composition in that dominant-A game, with the same supplied replicator evolution. | evolutionary game theory | populations | populations | one conception with NY38, one dominant-A replicator account, symmetric Nash and evolutionary stability added |
+Each entry: **Arrival, its own words** · *a* Field · *b* The changing it carries · *c* Subject · *d* One conception, a further one, or another claim
+
+- **NY39** · Symmetric Nash and evolutionarily stable resident composition in that dominant-A game, with the same supplied replicator evolution.
+  - *a* evolutionary game theory
+  - *b* populations
+  - *c* populations
+  - *d* one conception with NY38, one dominant-A replicator account, symmetric Nash and evolutionary stability added
 
 **A relation fixed unchangeable**, 1.
 
-| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |
-|---|---|---|---|---|
-| **SA03** · A common corrected target: the local comparison bi − di = q, different raw bi sharing q through their declared corrections, with the admissible q the intersection of the stated restrictions. | measurement | a relation that can change | a mathematics of its own: measurement | — |
+Each entry: **Arrival, its own words** · *a* Field · *b* The changing it carries · *c* Subject · *d* One conception, a further one, or another claim
+
+- **SA03** · A common corrected target: the local comparison bi − di = q, different raw bi sharing q through their declared corrections, with the admissible q the intersection of the stated restrictions.
+  - *a* measurement
+  - *b* a relation that can change
+  - *c* a mathematics of its own: measurement
+  - *d* —
 
 ## 4.5 A completing fixed as a last, 8 arrivals
 
 **A form fixed unchangeable**, 5.
 
-| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |
-|---|---|---|---|---|
-| **NY14** · Global minimality of that same U under that same evolution. | dynamical systems | a form that can change | a mathematics of its own: dynamical systems | another claim with NY13's U and evolution, a different minimum |
-| **NY42** · Entropy maximum under heat redistribution with κ>0, fixed U and positive constant heat capacities: u=C_A U/(C_A+C_B). | thermodynamics | heat | heat | a further conception to NY41, one setting with κ>0; one conception with SA07 |
-| **SA06** · A long-term climate response to specified forcing, fully equilibrated sensitivity distinguished from effective sensitivity, with corrections for differing conditions. | climate science | heat | heat | — |
-| **NY06** · A retained range remains satisfied through its specified parity-changing continuation. | resolver | coupling and carrying of resolver | coupling of self and other, and resolver | — |
-| **SA04** · The permitted values are −1, 0 and +1; continuing interchanges −1 and +1 and leaves 0 unchanged; equilibrium conserves membership in this collection. | coupling of self and other | a relation that can change | coupling of self and other, and resolver | — |
+Each entry: **Arrival, its own words** · *a* Field · *b* The changing it carries · *c* Subject · *d* One conception, a further one, or another claim
+
+- **NY14** · Global minimality of that same U under that same evolution.
+  - *a* dynamical systems
+  - *b* a form that can change
+  - *c* a mathematics of its own: dynamical systems
+  - *d* another claim with NY13's U and evolution, a different minimum
+- **NY42** · Entropy maximum under heat redistribution with κ>0, fixed U and positive constant heat capacities: u=C_A U/(C_A+C_B).
+  - *a* thermodynamics
+  - *b* heat
+  - *c* heat
+  - *d* a further conception to NY41, one setting with κ>0; one conception with SA07
+- **SA06** · A long-term climate response to specified forcing, fully equilibrated sensitivity distinguished from effective sensitivity, with corrections for differing conditions.
+  - *a* climate science
+  - *b* heat
+  - *c* heat
+  - *d* —
+- **NY06** · A retained range remains satisfied through its specified parity-changing continuation.
+  - *a* resolver
+  - *b* coupling and carrying of resolver
+  - *c* coupling of self and other, and resolver
+  - *d* —
+- **SA04** · The permitted values are −1, 0 and +1; continuing interchanges −1 and +1 and leaves 0 unchanged; equilibrium conserves membership in this collection.
+  - *a* coupling of self and other
+  - *b* a relation that can change
+  - *c* coupling of self and other, and resolver
+  - *d* —
 
 **A form and a stability fixed unchangeable**, 1.
 
-| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |
-|---|---|---|---|---|
-| **SA07** · The reaching principle: an isolated body in a unique equilibrium, persisting when supplied and approached from different states, as in the stated two-body contact with fixed U, CA, CB and positive exchange κ. | thermodynamics | heat | heat | one conception with NY42, its stated two-body contact, uniqueness, persisting and approach added |
+Each entry: **Arrival, its own words** · *a* Field · *b* The changing it carries · *c* Subject · *d* One conception, a further one, or another claim
+
+- **SA07** · The reaching principle: an isolated body in a unique equilibrium, persisting when supplied and approached from different states, as in the stated two-body contact with fixed U, CA, CB and positive exchange κ.
+  - *a* thermodynamics
+  - *b* heat
+  - *c* heat
+  - *d* one conception with NY42, its stated two-body contact, uniqueness, persisting and approach added
 
 **A form and a relation fixed unchangeable**, 2.
 
-| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |
-|---|---|---|---|---|
-| **SA05** · A constrained comparison with interaction energy E = x + y + W(x, y) and additive entropy at a stated reduced scope, its stationary relation including the derivatives of W and its constrained curvature the mixed derivative Wxy. | thermodynamics | heat | heat | — |
-| **NY37** · Positive stationarity in that logistic account, N=K; equivalently matched nonzero turnover under B=rN and D=rN²/K. | population ecology | populations | populations | one conception with NY36, one logistic account, positive added, N=K |
+Each entry: **Arrival, its own words** · *a* Field · *b* The changing it carries · *c* Subject · *d* One conception, a further one, or another claim
+
+- **SA05** · A constrained comparison with interaction energy E = x + y + W(x, y) and additive entropy at a stated reduced scope, its stationary relation including the derivatives of W and its constrained curvature the mixed derivative Wxy.
+  - *a* thermodynamics
+  - *b* heat
+  - *c* heat
+  - *d* —
+- **NY37** · Positive stationarity in that logistic account, N=K; equivalently matched nonzero turnover under B=rN and D=rN²/K.
+  - *a* population ecology
+  - *b* populations
+  - *c* populations
+  - *d* one conception with NY36, one logistic account, positive added, N=K
 
 ## 4.6 A carry fixed as a store, 10 arrivals
 
 **A form fixed unchangeable**, 5.
 
-| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |
-|---|---|---|---|---|
-| **NY19** · The unconditional current-occupant law (1/2,1/2) continues after each completed transition and stipulated replacement from that law. | probability | a relation that can change | a mathematics of its own: probability | — |
-| **SA08** · The uniform Maxwellian: constant density, temperature and mean velocity throughout the periodic spatial domain, both collision and transport terms vanishing. | kinetic theory of gases | heat | heat | — |
-| **SA09** · Planck-family membership of a spectrum through expansion, its temperature changing: Ur f(ν) = f(rν) and Ur PT = P(T/r). | radiation | heat | heat | — |
-| **SA10** · The scattering family nα(x) = 1/(exp(x + α) − 1), α ≥ 0, stationary under number-conserving scattering, the Planck member at α = 0. | radiation | heat | heat | SA17 a further conception, emission and absorption added to its scattering |
-| **NY28** · Constant internal X composition in the maintained chain F ⇌ X ⇌ W: x=(f+w)/2 with f,w>0 fixed by the stated receiving. | chemistry | reactions | reactions | — |
+Each entry: **Arrival, its own words** · *a* Field · *b* The changing it carries · *c* Subject · *d* One conception, a further one, or another claim
+
+- **NY19** · The unconditional current-occupant law (1/2,1/2) continues after each completed transition and stipulated replacement from that law.
+  - *a* probability
+  - *b* a relation that can change
+  - *c* a mathematics of its own: probability
+  - *d* —
+- **SA08** · The uniform Maxwellian: constant density, temperature and mean velocity throughout the periodic spatial domain, both collision and transport terms vanishing.
+  - *a* kinetic theory of gases
+  - *b* heat
+  - *c* heat
+  - *d* —
+- **SA09** · Planck-family membership of a spectrum through expansion, its temperature changing: Ur f(ν) = f(rν) and Ur PT = P(T/r).
+  - *a* radiation
+  - *b* heat
+  - *c* heat
+  - *d* —
+- **SA10** · The scattering family nα(x) = 1/(exp(x + α) − 1), α ≥ 0, stationary under number-conserving scattering, the Planck member at α = 0.
+  - *a* radiation
+  - *b* heat
+  - *c* heat
+  - *d* SA17 a further conception, emission and absorption added to its scattering
+- **NY28** · Constant internal X composition in the maintained chain F ⇌ X ⇌ W: x=(f+w)/2 with f,w>0 fixed by the stated receiving.
+  - *a* chemistry
+  - *b* reactions
+  - *c* reactions
+  - *d* —
 
 **A form and a relation fixed unchangeable**, 4.
 
-| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |
-|---|---|---|---|---|
-| **NY31** · The law (1/4,1/2,1/4) on B-counts (0,1,2) in the two-molecule A ⇌ B account, with equal positive per-molecule constants, remains stationary and detailed-balanced. | chemistry | reactions | reactions | — |
-| **NY15** · The uniform stationary law on the five complete returned values A→B→C→D→E→A, with the fixed receiving specified at the resolver. | probability of resolver's returns | coupling and carrying of resolver | coupling of self and other, and resolver | — |
-| **NY16** · Equal weights on the two exchanged opposed-sign values under empty receiving. Stationarity and detailed balance select the same law on this domain. | probability of resolver's returns | coupling and carrying of resolver | coupling of self and other, and resolver | — |
-| **NY17** · Equal weights on the exchanged values A and B, zero on X, with A→B, B→A and X→B under empty receiving. | probability of resolver's returns | coupling and carrying of resolver | coupling of self and other, and resolver | — |
+Each entry: **Arrival, its own words** · *a* Field · *b* The changing it carries · *c* Subject · *d* One conception, a further one, or another claim
+
+- **NY31** · The law (1/4,1/2,1/4) on B-counts (0,1,2) in the two-molecule A ⇌ B account, with equal positive per-molecule constants, remains stationary and detailed-balanced.
+  - *a* chemistry
+  - *b* reactions
+  - *c* reactions
+  - *d* —
+- **NY15** · The uniform stationary law on the five complete returned values A→B→C→D→E→A, with the fixed receiving specified at the resolver.
+  - *a* probability of resolver's returns
+  - *b* coupling and carrying of resolver
+  - *c* coupling of self and other, and resolver
+  - *d* —
+- **NY16** · Equal weights on the two exchanged opposed-sign values under empty receiving. Stationarity and detailed balance select the same law on this domain.
+  - *a* probability of resolver's returns
+  - *b* coupling and carrying of resolver
+  - *c* coupling of self and other, and resolver
+  - *d* —
+- **NY17** · Equal weights on the exchanged values A and B, zero on X, with A→B, B→A and X→B under empty receiving.
+  - *a* probability of resolver's returns
+  - *b* coupling and carrying of resolver
+  - *c* coupling of self and other, and resolver
+  - *d* —
 
 **A relation fixed unchangeable**, 1.
 
-| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |
-|---|---|---|---|---|
-| **NY05** · Mutual recorded-surface agreement continues with the repeated common offering through every admitted single-noise arrival. | resolver | coupling and carrying of resolver | coupling of self and other, and resolver | — |
+Each entry: **Arrival, its own words** · *a* Field · *b* The changing it carries · *c* Subject · *d* One conception, a further one, or another claim
+
+- **NY05** · Mutual recorded-surface agreement continues with the repeated common offering through every admitted single-noise arrival.
+  - *a* resolver
+  - *b* coupling and carrying of resolver
+  - *c* coupling of self and other, and resolver
+  - *d* —
 
 ## 4.7 A middle fixed as an end, 6 arrivals
 
 **A form fixed unchangeable**, 4.
 
-| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |
-|---|---|---|---|---|
-| **NY09** · E: r=0 on (p,r), with p binary and T(p,r)=(1−p,−r/2); every successive occurrence included. | dynamical systems | a stability that can change | a mathematics of its own: dynamical systems | one conception with NY10, stability added with NY10; NY12 a further conception, a different T |
-| **NY12** · E: r=0 under T(p,r)=(1−p,−2r), without adding stability. | dynamical systems | a stability that can change | a mathematics of its own: dynamical systems | a further conception to NY09, a different T, without stability |
-| **NY13** · Local but not global minimality of U(x)=x⁴/4−x³/3−x² under dx/dτ=−U′(x), with no added fluctuations. | dynamical systems | a form that can change | a mathematics of its own: dynamical systems | another claim with NY14's U and evolution, a different minimum |
-| **SA11** · A local Maxwellian cancelling its elastic collision term, kept under the full operation with spatial transport, at constant density, zero mean velocity and a nonzero temperature gradient. | kinetic theory of gases | heat | heat | — |
+Each entry: **Arrival, its own words** · *a* Field · *b* The changing it carries · *c* Subject · *d* One conception, a further one, or another claim
+
+- **NY09** · E: r=0 on (p,r), with p binary and T(p,r)=(1−p,−r/2); every successive occurrence included.
+  - *a* dynamical systems
+  - *b* a stability that can change
+  - *c* a mathematics of its own: dynamical systems
+  - *d* one conception with NY10, stability added with NY10; NY12 a further conception, a different T
+- **NY12** · E: r=0 under T(p,r)=(1−p,−2r), without adding stability.
+  - *a* dynamical systems
+  - *b* a stability that can change
+  - *c* a mathematics of its own: dynamical systems
+  - *d* a further conception to NY09, a different T, without stability
+- **NY13** · Local but not global minimality of U(x)=x⁴/4−x³/3−x² under dx/dτ=−U′(x), with no added fluctuations.
+  - *a* dynamical systems
+  - *b* a form that can change
+  - *c* a mathematics of its own: dynamical systems
+  - *d* another claim with NY14's U and evolution, a different minimum
+- **SA11** · A local Maxwellian cancelling its elastic collision term, kept under the full operation with spatial transport, at constant density, zero mean velocity and a nonzero temperature gradient.
+  - *a* kinetic theory of gases
+  - *b* heat
+  - *c* heat
+  - *d* —
 
 **A form and a stability fixed unchangeable**, 2.
 
-| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |
-|---|---|---|---|---|
-| **NY10** · The same E and T, with asymptotic stability in the usual real neighbourhoods of r=0 added to the claim. | dynamical systems | a stability that can change | a mathematics of its own: dynamical systems | one conception with NY09, asymptotic stability added; NY11 a further conception, a different T |
-| **NY11** · E: r=0 under T(p,r)=(1−p,−r), with stability in those neighbourhoods. | dynamical systems | a stability that can change | a mathematics of its own: dynamical systems | a further conception to NY10, a different T, stability in those neighbourhoods |
+Each entry: **Arrival, its own words** · *a* Field · *b* The changing it carries · *c* Subject · *d* One conception, a further one, or another claim
+
+- **NY10** · The same E and T, with asymptotic stability in the usual real neighbourhoods of r=0 added to the claim.
+  - *a* dynamical systems
+  - *b* a stability that can change
+  - *c* a mathematics of its own: dynamical systems
+  - *d* one conception with NY09, asymptotic stability added; NY11 a further conception, a different T
+- **NY11** · E: r=0 under T(p,r)=(1−p,−r), with stability in those neighbourhoods.
+  - *a* dynamical systems
+  - *b* a stability that can change
+  - *c* a mathematics of its own: dynamical systems
+  - *d* a further conception to NY10, a different T, stability in those neighbourhoods
 
 ## 4.8 A parity fixed as a magnitude, 9 arrivals
 
 **A form fixed unchangeable**, 8.
 
-| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |
-|---|---|---|---|---|
-| **SA12** · A signed-unit window whose next removes the oldest sign and appends the opposite of the latest, with exact zero mean at each included next. | sequences of signs | a relation that can change | a mathematics of its own: sequences of signs | SA13 a further conception, *its next permits either sign* |
-| **SA13** · A signed-unit window whose next permits either sign, with its sum S kept: S(next) = S(now) + y − a, a the outgoing sign. | sequences of signs | a relation that can change | a mathematics of its own: sequences of signs | a further conception to SA12, one signed-unit window, *its next permits either sign* |
-| **NY21** · Relative equilibrium with specified translation velocity u: Fτ(x,v)=(x+τv,v) follows translation by τu for every included τ. | mechanics | rest and balance of bodies | bodies at rest and in balance | one conception with NY22, NY23 and NY24: with this evolution a state follows translation by τu exactly when v=u; NY22 with u unspecified, NY24 with u=0 specified |
-| **NY22** · Relative equilibrium under some translation velocity, with no particular u specified, on that same force-free position–velocity domain. | mechanics | rest and balance of bodies | bodies at rest and in balance | one conception with NY21, u unspecified |
-| **NY24** · Rest, v=0 with position unrestricted, under that same force-free evolution. | mechanics | rest and balance of bodies | bodies at rest and in balance | one conception with NY21, u=0 specified; NY23 specifies position |
-| **NY25** · Zero net force for a fixed positive-mass particle in the stated inertial frame, throughout its passage. | mechanics | rest and balance of bodies | bodies at rest and in balance | — |
-| **NY26** · Planar rigid-body static equilibrium: rest in the selected frame, zero net external force and zero net external torque. | mechanics | rest and balance of bodies | bodies at rest and in balance | — |
-| **NY36** · A stationary value N in the logistic account N′=rN(1−N/K), r,K>0, N≥0 and no migration. | population ecology | populations | populations | one conception with NY37, positive added with NY37 |
+Each entry: **Arrival, its own words** · *a* Field · *b* The changing it carries · *c* Subject · *d* One conception, a further one, or another claim
+
+- **SA12** · A signed-unit window whose next removes the oldest sign and appends the opposite of the latest, with exact zero mean at each included next.
+  - *a* sequences of signs
+  - *b* a relation that can change
+  - *c* a mathematics of its own: sequences of signs
+  - *d* SA13 a further conception, *its next permits either sign*
+- **SA13** · A signed-unit window whose next permits either sign, with its sum S kept: S(next) = S(now) + y − a, a the outgoing sign.
+  - *a* sequences of signs
+  - *b* a relation that can change
+  - *c* a mathematics of its own: sequences of signs
+  - *d* a further conception to SA12, one signed-unit window, *its next permits either sign*
+- **NY21** · Relative equilibrium with specified translation velocity u: Fτ(x,v)=(x+τv,v) follows translation by τu for every included τ.
+  - *a* mechanics
+  - *b* rest and balance of bodies
+  - *c* bodies at rest and in balance
+  - *d* one conception with NY22, NY23 and NY24: with this evolution a state follows translation by τu exactly when v=u; NY22 with u unspecified, NY24 with u=0 specified
+- **NY22** · Relative equilibrium under some translation velocity, with no particular u specified, on that same force-free position–velocity domain.
+  - *a* mechanics
+  - *b* rest and balance of bodies
+  - *c* bodies at rest and in balance
+  - *d* one conception with NY21, u unspecified
+- **NY24** · Rest, v=0 with position unrestricted, under that same force-free evolution.
+  - *a* mechanics
+  - *b* rest and balance of bodies
+  - *c* bodies at rest and in balance
+  - *d* one conception with NY21, u=0 specified; NY23 specifies position
+- **NY25** · Zero net force for a fixed positive-mass particle in the stated inertial frame, throughout its passage.
+  - *a* mechanics
+  - *b* rest and balance of bodies
+  - *c* bodies at rest and in balance
+  - *d* —
+- **NY26** · Planar rigid-body static equilibrium: rest in the selected frame, zero net external force and zero net external torque.
+  - *a* mechanics
+  - *b* rest and balance of bodies
+  - *c* bodies at rest and in balance
+  - *d* —
+- **NY36** · A stationary value N in the logistic account N′=rN(1−N/K), r,K>0, N≥0 and no migration.
+  - *a* population ecology
+  - *b* populations
+  - *c* populations
+  - *d* one conception with NY37, positive added with NY37
 
 **A relation fixed unchangeable**, 1.
 
-| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |
-|---|---|---|---|---|
-| **SA14** · Two gas compartments at one temperature with differing volumes and pressures, shared temperature taken as no available work. | thermodynamics | heat | heat | — |
+Each entry: **Arrival, its own words** · *a* Field · *b* The changing it carries · *c* Subject · *d* One conception, a further one, or another claim
+
+- **SA14** · Two gas compartments at one temperature with differing volumes and pressures, shared temperature taken as no available work.
+  - *a* thermodynamics
+  - *b* heat
+  - *c* heat
+  - *d* —
 
 ## 4.9 A sequencing fixed to one beat, 5 arrivals
 
 **A form and a relation fixed unchangeable**, 1.
 
-| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |
-|---|---|---|---|---|
-| **NY34** · The two-good exchange record at prices (q,1), original endowments (1,0) and (0,1), and respective utilities x₂ and x₁ satisfies both best-bundle and resource-clearing requirements, with q(next)=1. | economics | a society's exchange | selves choosing and exchanging | NY35 a further conception, a different next price |
+Each entry: **Arrival, its own words** · *a* Field · *b* The changing it carries · *c* Subject · *d* One conception, a further one, or another claim
+
+- **NY34** · The two-good exchange record at prices (q,1), original endowments (1,0) and (0,1), and respective utilities x₂ and x₁ satisfies both best-bundle and resource-clearing requirements, with q(next)=1.
+  - *a* economics
+  - *b* a society's exchange
+  - *c* selves choosing and exchanging
+  - *d* NY35 a further conception, a different next price
 
 **A relation fixed unchangeable**, 4.
 
-| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |
-|---|---|---|---|---|
-| **NY08** · Opposition continues under simultaneous best response at the specified choice pair. | game theory | selves choosing | selves choosing and exchanging | a further conception to NY07, one choice pair, best response simultaneous, with NY07 sequential |
-| **NY33** · Intended supply and demand for the same good, market and reference interval agree at the stated price. | economics | a society's exchange | selves choosing and exchanging | — |
-| **NY35** · The same exchange criterion under q(next)=1/q, with best bundles recomputed. | economics | a society's exchange | selves choosing and exchanging | a further conception to NY34, one same criterion under q(next)=1/q |
-| **SA15** · The occurrences 0, 1 and 2 are consecutive: immediate-next joins 0 to 1 and 1 to 2, same-form is transitive, and equilibrium identifies the two as one relation through the whole sequence. | coupling of self and other | a relation that can change | coupling of self and other, and resolver | — |
+Each entry: **Arrival, its own words** · *a* Field · *b* The changing it carries · *c* Subject · *d* One conception, a further one, or another claim
+
+- **NY08** · Opposition continues under simultaneous best response at the specified choice pair.
+  - *a* game theory
+  - *b* selves choosing
+  - *c* selves choosing and exchanging
+  - *d* a further conception to NY07, one choice pair, best response simultaneous, with NY07 sequential
+- **NY33** · Intended supply and demand for the same good, market and reference interval agree at the stated price.
+  - *a* economics
+  - *b* a society's exchange
+  - *c* selves choosing and exchanging
+  - *d* —
+- **NY35** · The same exchange criterion under q(next)=1/q, with best bundles recomputed.
+  - *a* economics
+  - *b* a society's exchange
+  - *c* selves choosing and exchanging
+  - *d* a further conception to NY34, one same criterion under q(next)=1/q
+- **SA15** · The occurrences 0, 1 and 2 are consecutive: immediate-next joins 0 to 1 and 1 to 2, same-form is transitive, and equilibrium identifies the two as one relation through the whole sequence.
+  - *a* coupling of self and other
+  - *b* a relation that can change
+  - *c* coupling of self and other, and resolver
+  - *d* —
 
 ## 4.10 A rate fixed as a value, 5 arrivals
 
 **A form and a relation fixed unchangeable**, 1.
 
-| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |
-|---|---|---|---|---|
-| **SA17** · Stationarity with emission and absorption added to number-conserving scattering, each process balanced on its own. | radiation | heat | heat | a further conception to SA10, emission and absorption added to number-conserving scattering |
+Each entry: **Arrival, its own words** · *a* Field · *b* The changing it carries · *c* Subject · *d* One conception, a further one, or another claim
+
+- **SA17** · Stationarity with emission and absorption added to number-conserving scattering, each process balanced on its own.
+  - *a* radiation
+  - *b* heat
+  - *c* heat
+  - *d* a further conception to SA10, emission and absorption added to number-conserving scattering
 
 **A relation fixed unchangeable**, 4.
 
-| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |
-|---|---|---|---|---|
-| **SA16** · Detailed balance for one normalized law around a three-value cycle with forward probabilities 2/3 and reverse 1/3. | probability | a relation that can change | a mathematics of its own: probability | — |
-| **NY27** · The closed reversible pair A ⇌ B at fixed positive total concentration and fixed positive rate constants, with k₊a=k₋b. | chemistry | reactions | reactions | — |
-| **NY29** · All three reactions of the closed A ⇌ B ⇌ C ⇌ A cycle balance with their own reverses, at positive fixed total and consistent constants satisfying K₁K₂K₃=1. | chemistry | reactions | reactions | — |
-| **NY30** · All reactions in A+F ⇌ B+W, B ⇌ C, C ⇌ A balance under the specified unit ratios and positive maintained f=w. | chemistry | reactions | reactions | — |
+Each entry: **Arrival, its own words** · *a* Field · *b* The changing it carries · *c* Subject · *d* One conception, a further one, or another claim
+
+- **SA16** · Detailed balance for one normalized law around a three-value cycle with forward probabilities 2/3 and reverse 1/3.
+  - *a* probability
+  - *b* a relation that can change
+  - *c* a mathematics of its own: probability
+  - *d* —
+- **NY27** · The closed reversible pair A ⇌ B at fixed positive total concentration and fixed positive rate constants, with k₊a=k₋b.
+  - *a* chemistry
+  - *b* reactions
+  - *c* reactions
+  - *d* —
+- **NY29** · All three reactions of the closed A ⇌ B ⇌ C ⇌ A cycle balance with their own reverses, at positive fixed total and consistent constants satisfying K₁K₂K₃=1.
+  - *a* chemistry
+  - *b* reactions
+  - *c* reactions
+  - *d* —
+- **NY30** · All reactions in A+F ⇌ B+W, B ⇌ C, C ⇌ A balance under the specified unit ratios and positive maintained f=w.
+  - *a* chemistry
+  - *b* reactions
+  - *c* reactions
+  - *d* —
 
 ## 4.11 A two-way fixed to one side, 7 arrivals
 
 **A form fixed unchangeable**, 1.
 
-| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |
-|---|---|---|---|---|
-| **NY38** · Stationary composition in the dominant-A two-strategy replicator account, x′=x(1−x), 0≤x≤1. | evolutionary game theory | populations | populations | one conception with NY39, symmetric Nash and evolutionary stability added with NY39 |
+Each entry: **Arrival, its own words** · *a* Field · *b* The changing it carries · *c* Subject · *d* One conception, a further one, or another claim
+
+- **NY38** · Stationary composition in the dominant-A two-strategy replicator account, x′=x(1−x), 0≤x≤1.
+  - *a* evolutionary game theory
+  - *b* populations
+  - *c* populations
+  - *d* one conception with NY39, symmetric Nash and evolutionary stability added with NY39
 
 **A relation fixed unchangeable**, 6.
 
-| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |
-|---|---|---|---|---|
-| **SA19** · Equal outcomes under two accounts, taken as the same equilibrium on the stated domain. | equivalent accounts | a relation that can change | a mathematics of its own: equivalent accounts | — |
-| **NY07** · Opposition continues under sequential best response at the specified choice pair. | game theory | selves choosing | selves choosing and exchanging | NY08 a further conception, best response simultaneous |
-| **NY02** · Opposition of the same sign pair continues under joint reversal. | resolver | coupling and carrying of resolver | coupling of self and other, and resolver | — |
-| **NY03** · Opposed carried signs with matching nonzero surface and fresh carrying continue under the stated receiving. | resolver | coupling and carrying of resolver | coupling of self and other, and resolver | — |
-| **NY20** · On the resolver's reached fresh domain, q=ct=−1 continues under empty receiving; simultaneous reversal of c, t and the surfaced sign is the specified discrete symmetry. | resolver | coupling and carrying of resolver | coupling of self and other, and resolver | — |
-| **SA18** · Self and other each take −1 or +1, other is all that is not self in the defined society, and continuing reverses both signs: equilibrium conserves the relation "self and other have opposite signs". | coupling of self and other | stable-forming: self and other | coupling of self and other, and resolver | — |
+Each entry: **Arrival, its own words** · *a* Field · *b* The changing it carries · *c* Subject · *d* One conception, a further one, or another claim
+
+- **SA19** · Equal outcomes under two accounts, taken as the same equilibrium on the stated domain.
+  - *a* equivalent accounts
+  - *b* a relation that can change
+  - *c* a mathematics of its own: equivalent accounts
+  - *d* —
+- **NY07** · Opposition continues under sequential best response at the specified choice pair.
+  - *a* game theory
+  - *b* selves choosing
+  - *c* selves choosing and exchanging
+  - *d* NY08 a further conception, best response simultaneous
+- **NY02** · Opposition of the same sign pair continues under joint reversal.
+  - *a* resolver
+  - *b* coupling and carrying of resolver
+  - *c* coupling of self and other, and resolver
+  - *d* —
+- **NY03** · Opposed carried signs with matching nonzero surface and fresh carrying continue under the stated receiving.
+  - *a* resolver
+  - *b* coupling and carrying of resolver
+  - *c* coupling of self and other, and resolver
+  - *d* —
+- **NY20** · On the resolver's reached fresh domain, q=ct=−1 continues under empty receiving; simultaneous reversal of c, t and the surfaced sign is the specified discrete symmetry.
+  - *a* resolver
+  - *b* coupling and carrying of resolver
+  - *c* coupling of self and other, and resolver
+  - *d* —
+- **SA18** · Self and other each take −1 or +1, other is all that is not self in the defined society, and continuing reverses both signs: equilibrium conserves the relation "self and other have opposite signs".
+  - *a* coupling of self and other
+  - *b* stable-forming: self and other
+  - *c* coupling of self and other, and resolver
+  - *d* —
 
 ## 4.12 A between fixed as a cut, 6 arrivals
 
 **A form fixed unchangeable**, 1.
 
-| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |
-|---|---|---|---|---|
-| **NY41** · Constrained entropy maximum and stationary energy split u under insulation, with positive constant heat capacities, fixed total U and no redistribution: κ=0. | thermodynamics | heat | heat | NY42 a further conception, one setting with κ>0 |
+Each entry: **Arrival, its own words** · *a* Field · *b* The changing it carries · *c* Subject · *d* One conception, a further one, or another claim
+
+- **NY41** · Constrained entropy maximum and stationary energy split u under insulation, with positive constant heat capacities, fixed total U and no redistribution: κ=0.
+  - *a* thermodynamics
+  - *b* heat
+  - *c* heat
+  - *d* NY42 a further conception, one setting with κ>0
 
 **A relation fixed unchangeable**, 5.
 
-| Arrival, its own words | Field | The changing it carries | Subject | One conception, a further one, or another claim |
-|---|---|---|---|---|
-| **NY32** · Pairwise equal-temperature/no-net-heat-transfer equilibrium under the specified heat-permitting contact, without material exchange, mechanical work or other driving. | thermodynamics | heat | heat | — |
-| **SA20** · Equal temperature at an additive contact with negative heat capacity at one side, D = 1/CA + 1/CB, entropy curvature −D/T² at the equal-temperature occurrence. | thermodynamics | heat | heat | — |
-| **SA21** · Equal temperature compared through partner-dependent contacts, linked equalities giving the factor rHB rAH and the direct comparison rAB. | thermodynamics | heat | heat | — |
-| **NY01** · Offering and receiving remain complementary while the sides exchange roles, with each side's own releasing. | resolver | coupling and carrying of resolver | coupling of self and other, and resolver | — |
-| **NY04** · The attained two-position row retains opposite neighbouring surfaces, opposed carried signs and fresh carrying under its admitted receiving. | resolver | coupling and carrying of resolver | coupling of self and other, and resolver | — |
+Each entry: **Arrival, its own words** · *a* Field · *b* The changing it carries · *c* Subject · *d* One conception, a further one, or another claim
+
+- **NY32** · Pairwise equal-temperature/no-net-heat-transfer equilibrium under the specified heat-permitting contact, without material exchange, mechanical work or other driving.
+  - *a* thermodynamics
+  - *b* heat
+  - *c* heat
+  - *d* —
+- **SA20** · Equal temperature at an additive contact with negative heat capacity at one side, D = 1/CA + 1/CB, entropy curvature −D/T² at the equal-temperature occurrence.
+  - *a* thermodynamics
+  - *b* heat
+  - *c* heat
+  - *d* —
+- **SA21** · Equal temperature compared through partner-dependent contacts, linked equalities giving the factor rHB rAH and the direct comparison rAB.
+  - *a* thermodynamics
+  - *b* heat
+  - *c* heat
+  - *d* —
+- **NY01** · Offering and receiving remain complementary while the sides exchange roles, with each side's own releasing.
+  - *a* resolver
+  - *b* coupling and carrying of resolver
+  - *c* coupling of self and other, and resolver
+  - *d* —
+- **NY04** · The attained two-position row retains opposite neighbouring surfaces, opposed carried signs and fresh carrying under its admitted receiving.
+  - *a* resolver
+  - *b* coupling and carrying of resolver
+  - *c* coupling of self and other, and resolver
+  - *d* —
 
 ## 4.13 Fields at ten, a key for aiming at each field
 
 **Each field's equilibria fall with those of ten by which it fixes its parity-changing unchangeable, and a field is aimed at from each of them.** With each of them a field sets a form fixed still beside its parity-changing and sets aside its parity-changing's own competency, carried along with a between: with that one of ten a field's subject is fixed unchangeable, and its competency's source is set aside. This table carries each subject, with fields gathered under it, with each of ten, each arrival with its one of ten.
 
-| Subject, and its fields | 1 arriving | 2 opening | 3 completing | 4 carry | 5 middle | 6 parity | 7 sequencing | 8 rate | 9 two-way | 10 between |
-|---|---|---|---|---|---|---|---|---|---|---|
-| bodies at rest and in balance: mechanics | — | NY23 | — | — | — | NY21, NY22, NY24, NY25, NY26 | — | — | — | — |
-| heat: climate science, kinetic theory of gases, radiation, thermodynamics | — | — | NY42, SA05, SA06, SA07 | SA08, SA09, SA10 | SA11 | SA14 | — | SA17 | — | NY32, NY41, SA20, SA21 |
-| populations: evolutionary game theory, population ecology | — | NY39, NY40 | NY37 | — | — | NY36 | — | — | NY38 | — |
-| reactions: chemistry | — | — | — | NY28, NY31 | — | — | — | NY27, NY29, NY30 | — | — |
-| selves choosing and exchanging: economics, game theory | — | — | — | — | — | — | NY08, NY33, NY34, NY35 | — | NY07 | — |
-| coupling of self and other, and resolver: probability of resolver's returns, coupling of self and other, resolver | SA01 | SA02 | NY06, SA04 | NY05, NY15, NY16, NY17 | — | — | SA15 | — | NY02, NY03, NY20, SA18 | NY01, NY04 |
-| a mathematics of its own: dynamical systems | — | — | NY14 | — | NY09, NY10, NY11, NY12, NY13 | — | — | — | — | — |
-| a mathematics of its own: equivalent accounts | — | — | — | — | — | — | — | — | SA19 | — |
-| a mathematics of its own: measurement | — | SA03 | — | — | — | — | — | — | — | — |
-| a mathematics of its own: probability | NY18 | — | — | NY19 | — | — | — | SA16 | — | — |
-| a mathematics of its own: sequences of signs | — | — | — | — | — | SA12, SA13 | — | — | — | — |
+Each entry: **Subject, and its fields** · *a* 1 arriving · *b* 2 opening · *c* 3 completing · *d* 4 carry · *e* 5 middle · *f* 6 parity · *g* 7 sequencing · *h* 8 rate · *j* 9 two-way · *k* 10 between
+
+- **bodies at rest and in balance: mechanics**
+  - *a* —
+  - *b* NY23
+  - *c* —
+  - *d* —
+  - *e* —
+  - *f* NY21, NY22, NY24, NY25, NY26
+  - *g* —
+  - *h* —
+  - *j* —
+  - *k* —
+- **heat: climate science, kinetic theory of gases, radiation, thermodynamics**
+  - *a* —
+  - *b* —
+  - *c* NY42, SA05, SA06, SA07
+  - *d* SA08, SA09, SA10
+  - *e* SA11
+  - *f* SA14
+  - *g* —
+  - *h* SA17
+  - *j* —
+  - *k* NY32, NY41, SA20, SA21
+- **populations: evolutionary game theory, population ecology**
+  - *a* —
+  - *b* NY39, NY40
+  - *c* NY37
+  - *d* —
+  - *e* —
+  - *f* NY36
+  - *g* —
+  - *h* —
+  - *j* NY38
+  - *k* —
+- **reactions: chemistry**
+  - *a* —
+  - *b* —
+  - *c* —
+  - *d* NY28, NY31
+  - *e* —
+  - *f* —
+  - *g* —
+  - *h* NY27, NY29, NY30
+  - *j* —
+  - *k* —
+- **selves choosing and exchanging: economics, game theory**
+  - *a* —
+  - *b* —
+  - *c* —
+  - *d* —
+  - *e* —
+  - *f* —
+  - *g* NY08, NY33, NY34, NY35
+  - *h* —
+  - *j* NY07
+  - *k* —
+- **coupling of self and other, and resolver: probability of resolver's returns, coupling of self and other, resolver**
+  - *a* SA01
+  - *b* SA02
+  - *c* NY06, SA04
+  - *d* NY05, NY15, NY16, NY17
+  - *e* —
+  - *f* —
+  - *g* SA15
+  - *h* —
+  - *j* NY02, NY03, NY20, SA18
+  - *k* NY01, NY04
+- **a mathematics of its own: dynamical systems**
+  - *a* —
+  - *b* —
+  - *c* NY14
+  - *d* —
+  - *e* NY09, NY10, NY11, NY12, NY13
+  - *f* —
+  - *g* —
+  - *h* —
+  - *j* —
+  - *k* —
+- **a mathematics of its own: equivalent accounts**
+  - *a* —
+  - *b* —
+  - *c* —
+  - *d* —
+  - *e* —
+  - *f* —
+  - *g* —
+  - *h* —
+  - *j* SA19
+  - *k* —
+- **a mathematics of its own: measurement**
+  - *a* —
+  - *b* SA03
+  - *c* —
+  - *d* —
+  - *e* —
+  - *f* —
+  - *g* —
+  - *h* —
+  - *j* —
+  - *k* —
+- **a mathematics of its own: probability**
+  - *a* NY18
+  - *b* —
+  - *c* —
+  - *d* NY19
+  - *e* —
+  - *f* —
+  - *g* —
+  - *h* SA16
+  - *j* —
+  - *k* —
+- **a mathematics of its own: sequences of signs**
+  - *a* —
+  - *b* —
+  - *c* —
+  - *d* —
+  - *e* —
+  - *f* SA12, SA13
+  - *g* —
+  - *h* —
+  - *j* —
+  - *k* —
 
 **Observed across a row, a subject shows those of ten by which its fields fix a parity-changing unchangeable; observed down a column, subjects fixing one unchangeable gather.** Heat falls with six of ten, four arrivals each with a completing fixed as a last and with a between fixed as a cut; reactions with a carry fixed as a store and with a rate fixed as a value; bodies at rest and in balance with an opening fixed as a place and with a parity fixed as a magnitude; selves choosing and exchanging with a sequencing fixed to one beat and with a two-way fixed to one side; populations with four of ten; coupling of self and other, and resolver, with seven. Each row fills as arrivals come, each placed by its own words.
 
@@ -493,12 +891,24 @@ Rest returns with no coupling. A resting spiral, each self with no prior and not
 
 **Four proof groups carry exact local exclusions.** Each is a way of failing, with Exhibit ONE's resolver or with its numbers.
 
-| Group | Shared failure | Cases | Exact scope |
-|---|---|---|---|
-| A · Incompatible requirements | One same comparison is fixed to satisfy requirements not reachable together. | Fixed state–flow–state and flow–state–flow under their required advance; included membership required both not-changing and inverted; a balanced fuel cycle with `f≠w`. | Each conjunction as stated, with one same occurrence. |
-| B · Required case omitted | A required succession enters a case its condition excludes. | Each nonempty proper pair-only condition under a complete four-state orbit. | That pair, succession and full orbit. |
-| C · Renewal excluded | Presence carries renewal, and a conception excludes that renewal. | A carrying fixed unchangeable with each momentary; each surface zero with a carried sharing. | Each carrying, its offerings and its momentaries. |
-| D · Required arrival or offering unreachable | A required target is no thing a stated operation can supply. | Finite zero departure from a nonzero predecessor under a nonzero multiplier; an older resolver's case of its opposed aggregate route is carried by `archive/carrying_v377/Exhibit_TWENTY-EIGHT_Equilibria_Registry_older_resolver.md`. | Each stated predecessor, operation, route and reach. |
+Each entry: **Group** · *a* Shared failure · *b* Cases · *c* Exact scope
+
+- **A · Incompatible requirements**
+  - *a* One same comparison is fixed to satisfy requirements not reachable together.
+  - *b* Fixed state–flow–state and flow–state–flow under their required advance; included membership required both not-changing and inverted; a balanced fuel cycle with `f≠w`.
+  - *c* Each conjunction as stated, with one same occurrence.
+- **B · Required case omitted**
+  - *a* A required succession enters a case its condition excludes.
+  - *b* Each nonempty proper pair-only condition under a complete four-state orbit.
+  - *c* That pair, succession and full orbit.
+- **C · Renewal excluded**
+  - *a* Presence carries renewal, and a conception excludes that renewal.
+  - *b* A carrying fixed unchangeable with each momentary; each surface zero with a carried sharing.
+  - *c* Each carrying, its offerings and its momentaries.
+- **D · Required arrival or offering unreachable**
+  - *a* A required target is no thing a stated operation can supply.
+  - *b* Finite zero departure from a nonzero predecessor under a nonzero multiplier; an older resolver's case of its opposed aggregate route is carried by `archive/carrying_v377/Exhibit_TWENTY-EIGHT_Equilibria_Registry_older_resolver.md`.
+  - *c* Each stated predecessor, operation, route and reach.
 
 **A proof carries to a conception whose complete requirement supplies its premises.** For each x in a conception's stated set S, its required next is in S, or that conception is left within its succession.
 
@@ -518,12 +928,15 @@ Renewal excluded, group C, with Exhibit ONE's resolver. A sharing once with a pr
 
 **Renewal and reaching carry their complete requirements.**
 
-| Required condition | Its necessary continuation |
-|---|---|
-| A prior fixed unchangeable | Offered its own parity with each momentary it stays, its offering from a form fixed still from beside; offered nothing, other parity or a parting, it inverts; once with a prior a sharing is not none. |
-| Each surface zero with a carried sharing | Chained inverted with each momentary, as with nothing offered; with resolver a surface 0 arrives only from offerings parting, Exhibit ONE's table of offerings to one sharing, surfacing. |
-| Full positive balance of a unit-ratio fuel-coupled cycle, with `f≠w` maintained | That balance is only with `f=w`. |
-| Exact finite attaining of zero from nonzero departure under a nonzero multiplier | Each finite departure is nonzero; an already supplied zero is a different condition. |
+Each entry: **Required condition** · *a* Its necessary continuation
+
+- **A prior fixed unchangeable**
+  - *a* Offered its own parity with each momentary it stays, its offering from a form fixed still from beside; offered nothing, other parity or a parting, it inverts; once with a prior a sharing is not none.
+- **Each surface zero with a carried sharing**
+  - *a* Chained inverted with each momentary, as with nothing offered; with resolver a surface 0 arrives only from offerings parting, Exhibit ONE's table of offerings to one sharing, surfacing.
+- **Full positive balance of a unit-ratio fuel-coupled cycle, with `f≠w` maintained** · *a* That balance is only with `f=w`.
+- **Exact finite attaining of zero from nonzero departure under a nonzero multiplier**
+  - *a* Each finite departure is nonzero; an already supplied zero is a different condition.
 
 ## 5.4 Sharing at 10 and 6, and carrying at 11, at resolver
 

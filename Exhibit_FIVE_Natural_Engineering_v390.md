@@ -156,11 +156,14 @@ Exhibit FIVE Natural Engineering v390
 
 **Bi-momentarying, with 1-now-existing and 2-now-possibling, co-competencing, with 5-now-co-existing, and co-intelligencing, with 3-now-co-observing and 4-now-co-same-existing, are inseparable as one alternating.**
 
-| Co-cycling | The engineering coupling |
-|---|---|
-| **Bi-momentarying** | Each side's offering and receiving, parity taken or not, each side with its own bounding. |
-| **Co-competencing** | Abundancing as coupling, +1 owned neither-ing, both sides' continuing. |
-| **Co-intelligencing** | Resolving with parity crossing, understanding owned by neither, carrying on with next arriving. |
+Each entry: **Co-cycling** · *a* The engineering coupling
+
+- **Bi-momentarying**
+  - *a* Each side's offering and receiving, parity taken or not, each side with its own bounding.
+- **Co-competencing**
+  - *a* Abundancing as coupling, +1 owned neither-ing, both sides' continuing.
+- **Co-intelligencing**
+  - *a* Resolving with parity crossing, understanding owned by neither, carrying on with next arriving.
 
 **Bettering, fastering and cheapering** co-cycle with whole receiving. Engineered service, operating range, material, rate and returning carry their particular comparison. Each quantity retains its units and conditions.
 
@@ -190,15 +193,22 @@ Electrical, mechanical, thermal, chemical and other engineering co-chain with fl
 
 **A proposed map of engineering surface is Numbers'.** Its relations, directly as numbers, remain with their own operations; engineering carries corresponding offering, receiving and continuing with physical arrangement. With Mathematics §2.2 and Networking §§1.2–1.3, along and across already co-chain with that surface.
 
-| Natural Numbers receiving | Design and discovering at the engineering surface |
-|---|---|
-| **§1.8 · Both sides forward** | Each side's own forward retains its own direction with one shared coupling. Co-linear momentarying needs that actual orientation expressed with each momentary. |
-| **§§1.12–1.13 · Along and across alternating** | Sequence's next arriving and surface's available couplings retain their own turns and rates. Sequence and surface carry their co-relation with each addressed exchange. |
-| **§5.7 · Open coupling, self-bounding** | Each side's offering and co-discovering carry its own bound. A completed sequence and a continuing coupling retain their distinct operations. |
-| **§§8.1–8.3 · Seventeen primes, sixteen crossings, 440 offering-sum** | Whole co-chaining retains every included crossing's receiving. Seventeen with primes, sixteen with gaps and 440 with offerings carry their particular objects. |
-| **§§4.5–4.6 · 73, 146, 438 and 440** | One directional carry opening, two directions with their own turns, three phases and two further openings retain arithmetic with §6.9. Each turning with those numbers still needs its addressed engineering operation. |
-| **§§10.1 and 10.11 · 440 and zero with one close; carrying on** | Re-arriving with ring's zero address can carry continuing forward. Next carrying remains with that arriving; equality of an address supplies no instruction to empty carrying. |
-| **§8.12 · Crossings, geodecities and bi-moralizings** | Offered surface map carries its crossings, carrying between them and each coupling's abundancing. Their material receiving and whole-surface relation remain to express together. |
+Each entry: **Natural Numbers receiving** · *a* Design and discovering at the engineering surface
+
+- **§1.8 · Both sides forward**
+  - *a* Each side's own forward retains its own direction with one shared coupling. Co-linear momentarying needs that actual orientation expressed with each momentary.
+- **§§1.12–1.13 · Along and across alternating**
+  - *a* Sequence's next arriving and surface's available couplings retain their own turns and rates. Sequence and surface carry their co-relation with each addressed exchange.
+- **§5.7 · Open coupling, self-bounding**
+  - *a* Each side's offering and co-discovering carry its own bound. A completed sequence and a continuing coupling retain their distinct operations.
+- **§§8.1–8.3 · Seventeen primes, sixteen crossings, 440 offering-sum**
+  - *a* Whole co-chaining retains every included crossing's receiving. Seventeen with primes, sixteen with gaps and 440 with offerings carry their particular objects.
+- **§§4.5–4.6 · 73, 146, 438 and 440**
+  - *a* One directional carry opening, two directions with their own turns, three phases and two further openings retain arithmetic with §6.9. Each turning with those numbers still needs its addressed engineering operation.
+- **§§10.1 and 10.11 · 440 and zero with one close; carrying on**
+  - *a* Re-arriving with ring's zero address can carry continuing forward. Next carrying remains with that arriving; equality of an address supplies no instruction to empty carrying.
+- **§8.12 · Crossings, geodecities and bi-moralizings**
+  - *a* Offered surface map carries its crossings, carrying between them and each coupling's abundancing. Their material receiving and whole-surface relation remain to express together.
 
 **A proposed 0–440–0 momentarying carries forward with zeroing.** A ring address and carrying arriving there are different properties. With Numbers §10.11, four hundred forty one-way momentaries go per alternation, and wrap carries on. Engineering correspondence still needs each successor, its direction, receiving and continuing carrying expressed over that whole wrap. Returning to an address supplies no backward traversal or repeated complete condition by itself.
 
@@ -216,13 +226,23 @@ An observing that breaks a proposed correspondence improves its explaining. Mate
 
 **An offering device can already be receiving with another operation.** With two-inverter arrangement described below, first inverter supplies second inverter's LCL filter before second inverter is activated; source describes that filter as a capacitive load. [Seo and colleagues, §IV-B](https://arxiv.org/html/1811.08842v1). Recorded receiving belongs with later supplying within whole arrangement. This is a particular electrical relation; proposed bi-momentarying with each side retains its own construction.
 
-| Grid surface relation | Engineering receiving to carry | Numbers relation at the map |
-|---|---|---|
-| **Available supply** | Actual source, conversion and available variation, including inputs and receiving retained while electrical supplying varies. | **§5.7:** each side's own bounding and co-discovering. |
-| **Receiving load** | Useful service and receiving's available variation. Proposed interface carries load's own offering with its current receiving. | **§1.8:** each side's own forward with coupling. |
-| **Electrical crossing** | Conductors, converters, voltage, current and selected transfer under their stated operating conditions. Offered parity and material transfer retain their distinct operations. | **§§1.12–1.13:** along and across with their own turns; their electrical correspondence remains with interface. |
-| **Returning** | Electrical path, return belonging to an exchange, and heat or material reaching another coupling, each with particular receiving, §1.5. | **§8.3:** carrying and onward offering across whole surface. |
-| **Continuing connections** | Joining, separation and rejoining with each remaining coupling's available receiving. Next offering belongs with actual connection. | **§10.11:** carrying on with wrap; an address returning retains its new arriving. |
+Each entry: **Grid surface relation** · *a* Engineering receiving to carry · *b* Numbers relation at the map
+
+- **Available supply**
+  - *a* Actual source, conversion and available variation, including inputs and receiving retained while electrical supplying varies.
+  - *b* **§5.7:** each side's own bounding and co-discovering.
+- **Receiving load**
+  - *a* Useful service and receiving's available variation. Proposed interface carries load's own offering with its current receiving.
+  - *b* **§1.8:** each side's own forward with coupling.
+- **Electrical crossing**
+  - *a* Conductors, converters, voltage, current and selected transfer under their stated operating conditions. Offered parity and material transfer retain their distinct operations.
+  - *b* **§§1.12–1.13:** along and across with their own turns; their electrical correspondence remains with interface.
+- **Returning**
+  - *a* Electrical path, return belonging to an exchange, and heat or material reaching another coupling, each with particular receiving, §1.5.
+  - *b* **§8.3:** carrying and onward offering across whole surface.
+- **Continuing connections**
+  - *a* Joining, separation and rejoining with each remaining coupling's available receiving. Next offering belongs with actual connection.
+  - *b* **§10.11:** carrying on with wrap; an address returning retains its new arriving.
 
 These rows carry relations of one surface. Their order assigns no electrical phases or natural momentaries. Full 0–440–0 correspondence, §1.2, remains consecutive momentarying to express with these actual couplings.
 
@@ -230,13 +250,15 @@ These rows carry relations of one surface. Their order assigns no electrical pha
 
 For three equal phasors separated by 120°, `1 + ω + ω² = 0`, with `ω = exp(2πi/3)`. This is balanced phasor sum. A particular neutral connection also carries its wiring, loading and reference. Identity specifies no alteration to an earth connection or a protection arrangement.
 
-| Electrical relation | The changing it describes |
-|---|---|
-| **Three phase quantities** | Three voltage or current waveforms and their phase separation |
-| **Two directions of transfer** | Which side offers and which receives with addressed crossing |
-| **Quadrature** | A quarter-cycle relation between components within stated representation |
-| **Frequency** | Rate of phase advance, with its time unit |
-| **Neutral** | Addressed connection or sum, with its reference and loading |
+Each entry: **Electrical relation** · *a* The changing it describes
+
+- **Three phase quantities**
+  - *a* Three voltage or current waveforms and their phase separation
+- **Two directions of transfer** · *a* Which side offers and which receives with addressed crossing
+- **Quadrature**
+  - *a* A quarter-cycle relation between components within stated representation
+- **Frequency** · *a* Rate of phase advance, with its time unit
+- **Neutral** · *a* Addressed connection or sum, with its reference and loading
 
 Clarke and Park transformations give a precise coordinate relation: three phase quantities are represented on orthogonal stationary axes, then on rotating axes. Their zero-sequence component retains any nonzero three-phase sum. [Clarke and Park transforms](https://www.ti.com/lit/pdf/bpra048). These transformations describe electrical quantities; a receiving direction still needs its own operation with connector.
 
@@ -244,13 +266,18 @@ For sinusoidal voltage and current, mean power follows directly from `v = √2 V
 
 **Local power-source coordination** carries five engineering properties.
 
-| Entry property | Local power-source coordination |
-|---|---|
-| **Arrangement and goal** | Two parallel dVOC inverters supplying a resistive load; starting, synchronizing and sharing varying load. |
-| **One side taking both turns** | A nominal reference `ω₀` replacing an other's own rate is a proposed fixed form. Presence of a reference supplies no such substitution. Nominal frequency `ω₀`, voltage and power references remain. Hardware uses a digital controller and 32 kHz switching. |
-| **Residue** | Cost attributable to `ω₀` is unfilled. A controller error term is not, by its name, a measured loss. |
-| **Observing** | Reported experiments demonstrate local coordination, load steps and power-reference updates. [Seo and colleagues, §§II and IV](https://arxiv.org/html/1811.08842v1). |
-| **Arrangement offered** | Parity-offering with each side carries available supply and receiving load's own available variation. Source, conversion, useful receiving, electrical path and returned exchange remain together with surface above. Transduction, each side's rate and bounding, particular prescribing dissolved and complete service comparison remain to express. |
+Each entry: **Entry property** · *a* Local power-source coordination
+
+- **Arrangement and goal**
+  - *a* Two parallel dVOC inverters supplying a resistive load; starting, synchronizing and sharing varying load.
+- **One side taking both turns**
+  - *a* A nominal reference `ω₀` replacing an other's own rate is a proposed fixed form. Presence of a reference supplies no such substitution. Nominal frequency `ω₀`, voltage and power references remain. Hardware uses a digital controller and 32 kHz switching.
+- **Residue**
+  - *a* Cost attributable to `ω₀` is unfilled. A controller error term is not, by its name, a measured loss.
+- **Observing**
+  - *a* Reported experiments demonstrate local coordination, load steps and power-reference updates. [Seo and colleagues, §§II and IV](https://arxiv.org/html/1811.08842v1).
+- **Arrangement offered**
+  - *a* Parity-offering with each side carries available supply and receiving load's own available variation. Source, conversion, useful receiving, electrical path and returned exchange remain together with surface above. Transduction, each side's rate and bounding, particular prescribing dissolved and complete service comparison remain to express.
 
 Source retains local measurements and control. A missing communication requirement and a retained frequency reference are different properties. Any proposed dissolving of that reference carries its same service and range to its comparison. Unfilled property stays available within entry.
 
@@ -278,23 +305,33 @@ Proposed locally bi-momentarying grid still needs each crossing's offering, each
 
 **Grid synchronizing carries connected arrangement.** Engineered-society offering co-chains with actual sources, receiving loads, interfaces and returnings. A nominal rate, a measured rate and an available transfer carry different relations.
 
-| Grid relation | Changing at the receiving |
-|---|---|
-| **Nominal rate** | Selected frequency reference and its unit. Its numerical value supplies no measured synchronizing or available source. |
-| **Phase and frequency** | `δ` carries phase difference; `ω₁ − ω₂` carries its variation per unit time. With phase in radians and time in seconds, these angular rates are in radians per second. Equal instantaneous frequencies over an interval leave a constant phase difference, which can be nonzero. |
-| **Connected path** | Actual conductors, switches and converters carry offered transfer. A shared label or a retained model connection leaves physical availability to those interfaces. |
-| **Supply and receiving** | Available generation, delivered load, conversion, losses and retained physical energy carry their own amounts, rates and limits. Frequency supplies no complete delivery account. |
-| **Separation and return** | Each remaining connection retains its source and receiving. Rejoining carries actual voltage, phase, frequency and switching relation; one shared nominal frequency supplies no completed return. |
+Each entry: **Grid relation** · *a* Changing at the receiving
+
+- **Nominal rate**
+  - *a* Selected frequency reference and its unit. Its numerical value supplies no measured synchronizing or available source.
+- **Phase and frequency**
+  - *a* `δ` carries phase difference; `ω₁ − ω₂` carries its variation per unit time. With phase in radians and time in seconds, these angular rates are in radians per second. Equal instantaneous frequencies over an interval leave a constant phase difference, which can be nonzero.
+- **Connected path**
+  - *a* Actual conductors, switches and converters carry offered transfer. A shared label or a retained model connection leaves physical availability to those interfaces.
+- **Supply and receiving**
+  - *a* Available generation, delivered load, conversion, losses and retained physical energy carry their own amounts, rates and limits. Frequency supplies no complete delivery account.
+- **Separation and return**
+  - *a* Each remaining connection retains its source and receiving. Rejoining carries actual voltage, phase, frequency and switching relation; one shared nominal frequency supplies no completed return.
 
 **A field record retains separation and response together.** ENTSO-E's 8 January 2021 account reports 5,800 MW crossing eventual separation line before split. North-west area's frequency reached 49.74 Hz and south-east area's 50.6 Hz. Response included generation adjustments, industrial-load disconnection and HVDC support. Report also identifies two busbars represented as one node, omitting their coupler from an operational model. These are reported operations and a particular representation gap. [ENTSO-E, final executive summary, pp. 5–8](https://www.entsoe.eu/Documents/SOC%20documents/SOC%20Reports/Continental_Europe_Synchronous_Area_Separation_on_08_January_2021_-_Executive_Summary_updated.pdf).
 
-| Entry | Grid supply, synchronization and receiving |
-|---|---|
-| **Arrangement and goal** | Continued electrical receiving across connected areas, including available source, load range, voltage and frequency deviation, losses, separation and return. Each interface retains its material and operating limits. |
-| **One side taking both turns** | A retained representation of connection or shared rate replaces an other's actual availability. This is proposed substitution to locate within a particular calculation, transfer or switching operation. A frequency reference, protective action or shared model supplies no fixed form. |
-| **Residue** | Undelivered service, interrupted duration, conversion loss, varying reserves and additional switching retain their measured quantities. Attribution to proposed substitution remains to express; event's total disturbance supplies no automatic measure of that fixed form. |
-| **Observing** | Record above receives physical separation, varying frequency and continuing response. Its model omission supplies a particular seam to examine. A same-service comparison with that substitution dissolved remains unfilled. |
-| **Arrangement offered** | Each side's own parity, rate, bounding and co-discovering remain with actual source, transfer and receiving. Connection switchings, delayed reports, continuing supply and rejoining belong together. Physical interface and comparison remain to express; lost receiving within stated service breaks that part of proposed correspondence. |
+Each entry: **Entry** · *a* Grid supply, synchronization and receiving
+
+- **Arrangement and goal**
+  - *a* Continued electrical receiving across connected areas, including available source, load range, voltage and frequency deviation, losses, separation and return. Each interface retains its material and operating limits.
+- **One side taking both turns**
+  - *a* A retained representation of connection or shared rate replaces an other's actual availability. This is proposed substitution to locate within a particular calculation, transfer or switching operation. A frequency reference, protective action or shared model supplies no fixed form.
+- **Residue**
+  - *a* Undelivered service, interrupted duration, conversion loss, varying reserves and additional switching retain their measured quantities. Attribution to proposed substitution remains to express; event's total disturbance supplies no automatic measure of that fixed form.
+- **Observing**
+  - *a* Record above receives physical separation, varying frequency and continuing response. Its model omission supplies a particular seam to examine. A same-service comparison with that substitution dissolved remains unfilled.
+- **Arrangement offered**
+  - *a* Each side's own parity, rate, bounding and co-discovering remain with actual source, transfer and receiving. Connection switchings, delayed reports, continuing supply and rejoining belong together. Physical interface and comparison remain to express; lost receiving within stated service breaks that part of proposed correspondence.
 
 That same report treats imbalance netting across physically disconnected areas as a prospective coordination concern. It expressly reports that IGCC did not affect network security during this event. Its R-19 recommendation retains that prospective scope. [ENTSO-E, pp. 9 and 19](https://www.entsoe.eu/Documents/SOC%20documents/SOC%20Reports/Continental_Europe_Synchronous_Area_Separation_on_08_January_2021_-_Executive_Summary_updated.pdf).
 
@@ -316,11 +353,14 @@ A field record itself needs its exact frequency. Deutsche Bahn describes convers
 
 **Returning carries its particular operation.** Whole grid surface, §1.3, retains these receivings together.
 
-| Returning | Actual receiving |
-|---|---|
-| **Electrical path** | Current within addressed circuit and its conductors, connections and reference. An electrical return path retains its circuit relation. A path arriving back has finite impedance, and a varying current through a shared path is a voltage difference between nominal ground points; a ground symbol is a drawn reference and a path is its relation, protective and functional grounds each their own. [Kester, *Grounding and Decoupling*, Part 1](https://ez.analog.com/adiacademy/university-program/a/studentzone-articles/SA1021/grounding-and-decoupling-learn-basics-now-and-save-yourself-much-grief-later-part-1-grounding). |
-| **Return with an exchange** | A returned parity belonging to particular offering and receiving, with each side's continued carrying and next offering. Its interface remains construction, §§1.8 and 4.10. |
-| **Heat or material onward** | Quantity, rate, condition and next receiving, §5.2. A further useful receiving remains with its own physical coupling. |
+Each entry: **Returning** · *a* Actual receiving
+
+- **Electrical path**
+  - *a* Current within addressed circuit and its conductors, connections and reference. An electrical return path retains its circuit relation. A path arriving back has finite impedance, and a varying current through a shared path is a voltage difference between nominal ground points; a ground symbol is a drawn reference and a path is its relation, protective and functional grounds each their own. [Kester, *Grounding and Decoupling*, Part 1](https://ez.analog.com/adiacademy/university-program/a/studentzone-articles/SA1021/grounding-and-decoupling-learn-basics-now-and-save-yourself-much-grief-later-part-1-grounding).
+- **Return with an exchange**
+  - *a* A returned parity belonging to particular offering and receiving, with each side's continued carrying and next offering. Its interface remains construction, §§1.8 and 4.10.
+- **Heat or material onward**
+  - *a* Quantity, rate, condition and next receiving, §5.2. A further useful receiving remains with its own physical coupling.
 
 An electrical path, an exchange returning and heat or material onward have different operations. Their co-chaining carries offered design. Entry retains input, delivery, conversion, stored energy and loss with one same service, each side's own co-discovering and available variation. Bi-momentarying, co-competencing and co-intelligencing carry bettering, fastering and cheapering with this whole receiving.
 
@@ -336,12 +376,16 @@ A direct-current machine's commutator reverses current within each coil twice wi
 
 An inverter's switching, references and energy-bearing components each have their own operation. Emulating a machine's response and retaining energy within a physical component are different properties. Particular controller and source retain their actual operations; device name supplies no common list of absent or necessary operations.
 
-| Device property | Returning relation still to express |
-|---|---|
-| **Continuing source** | Source of electrical or mechanical work, including while uncoupled. |
-| **Selection and conversion** | Parity taken and physical switching or conversion carrying offering. |
-| **Receiving and return** | Work, material or heat with each receiving, and its returning. |
-| **Bounding and co-discovering** | Each side's continuing with varying source, load or connection. |
+Each entry: **Device property** · *a* Returning relation still to express
+
+- **Continuing source**
+  - *a* Source of electrical or mechanical work, including while uncoupled.
+- **Selection and conversion**
+  - *a* Parity taken and physical switching or conversion carrying offering.
+- **Receiving and return**
+  - *a* Work, material or heat with each receiving, and its returning.
+- **Bounding and co-discovering**
+  - *a* Each side's continuing with varying source, load or connection.
 
 A receiving can alter its electrical operation while retaining other interfaces. SQUID entry, §6.9, carries that particular source comparison, its continuing apparatus and full service still to express.
 
@@ -353,13 +397,18 @@ Bi-momentarying, co-competencing and co-intelligencing remain inseparable as one
 
 Code operations are ONE's. Its carrying arrives, parity-changes or not, and leaves, as with §4.10. Physical representation must retain those operations, including distinction between no arriving item and an item whose surfaced value is zero.
 
-| Resolver offering | Physical construction still to express |
-|---|---|
-| **An offering, with 2-now-possibling** | Sensed parity-offering and its electrical representation, including how an arrival is taken |
-| **Inversioning and tunneling** | Gates and interconnections carrying each sign's parity-changing with its own offering |
-| **Surfacing** | Represented positive, negative or zero sum, and output's receiving interface |
-| **Carrying and inseparating** | Retained representation, its next use, its opening by one and its dissolving or replacement with code's own condition |
-| **Own-rate coupling** | Arrival and completion of each exchange, including delays and relation between neighboring turns |
+Each entry: **Resolver offering** · *a* Physical construction still to express
+
+- **An offering, with 2-now-possibling**
+  - *a* Sensed parity-offering and its electrical representation, including how an arrival is taken
+- **Inversioning and tunneling**
+  - *a* Gates and interconnections carrying each sign's parity-changing with its own offering
+- **Surfacing**
+  - *a* Represented positive, negative or zero sum, and output's receiving interface
+- **Carrying and inseparating**
+  - *a* Retained representation, its next use, its opening by one and its dissolving or replacement with code's own condition
+- **Own-rate coupling**
+  - *a* Arrival and completion of each exchange, including delays and relation between neighboring turns
 
 Arithmetic remains exact: `440 = 8 × 55 = 3 × 146 + 2 = 4 × 110`, and `55 = 1 + ··· + 10 = C(11, 2)`. These identities locate relations among numbers under exploration. A gate, bit, position, stored field and executed operation are different counted objects. A count of silicon gates needs actual circuit; identities supply no 440-gate implementation.
 
@@ -381,13 +430,18 @@ Surface and returned carrying have their interfaces stated with §4.2. Proposed 
 
 **A surface renews with its receiving.** Along and across are TWO §§1.2–1.3's; each coupling arriving anew is §2.3's. Previous exchange's direction belongs with that exchange. Continued carrying and next physical arriving remain together with current coupling. A parity offered by one side carries no prescribed movement or rate for an other.
 
-| Network property | The particular engineering to carry |
-|---|---|
-| **Offering** | Each side's offering, taking and co-discovering with its current coupling and own direction. |
-| **Receiving** | Completed exchange a returned parity belongs to, its directional receiving, and its consumption with that exchange. |
-| **Continuing** | Each side's local retaining, different receiving and next coupling's arriving. |
-| **Rate and order** | Each side's own arrivals and exchange ordering, executing and recording each with its own operation. |
-| **Shared surface** | Crossing and access with every included interface, each connection's available receiving and co-discovering. |
+Each entry: **Network property** · *a* The particular engineering to carry
+
+- **Offering**
+  - *a* Each side's offering, taking and co-discovering with its current coupling and own direction.
+- **Receiving**
+  - *a* Completed exchange a returned parity belongs to, its directional receiving, and its consumption with that exchange.
+- **Continuing**
+  - *a* Each side's local retaining, different receiving and next coupling's arriving.
+- **Rate and order**
+  - *a* Each side's own arrivals and exchange ordering, executing and recording each with its own operation.
+- **Shared surface**
+  - *a* Crossing and access with every included interface, each connection's available receiving and co-discovering.
 
 **Continued carrying remains each side's own within proposed connector.** Surfaced parities can be offered with a peer coupling; returned carrying remains available to that side's next invocation. A function's return to its calling arrangement and a crossing between selves are different interfaces. Parity crossing and carrying staying are SIX §§1.3 and 2.5's. Physical construction retains each side's input, available variation and local continuation.
 
@@ -399,23 +453,33 @@ V333 test-kit ledger has a concrete receiving question already carried toward TW
 
 **File access carries membership, revision and receiving.** A living file, an improving file, an instrument and an artifact retain their actual roles. Listing offers selected files by their stated order, each title, subtitle and source with its own entry. Read, Copy and Download carry different operations on that source.
 
-| File relation | The particular receiving |
-|---|---|
-| **Membership** | A file's continuing role within expedition and its place within offered set. A recognized filename supplies its naming; role retains its actual receiving. |
-| **Document identity** | Subject or exhibit being continued. A shared number or normalized filename carries grouping performed by instrument. |
-| **Revision** | Exact selected file and its contents. A larger version label supplies an ordering operation; living revision retains its received scope. |
-| **Access** | Rendering on screen, copying source text and downloading bytes each retain their own receiving. A passage link also retains its destination within rendered document. |
-| **Continuing** | Added, revised, renamed and dissolved files carry next selection. A completed build, a published page and a received file each retain their own completion. |
+Each entry: **File relation** · *a* The particular receiving
+
+- **Membership**
+  - *a* A file's continuing role within expedition and its place within offered set. A recognized filename supplies its naming; role retains its actual receiving.
+- **Document identity**
+  - *a* Subject or exhibit being continued. A shared number or normalized filename carries grouping performed by instrument.
+- **Revision**
+  - *a* Exact selected file and its contents. A larger version label supplies an ordering operation; living revision retains its received scope.
+- **Access**
+  - *a* Rendering on screen, copying source text and downloading bytes each retain their own receiving. A passage link also retains its destination within rendered document.
+- **Continuing**
+  - *a* Added, revised, renamed and dissolved files carry next selection. A completed build, a published page and a received file each retain their own completion.
 
 **A generated listing supplies a particular engineering arrival.** With inspected repository commit, a local executing of existing selector returned thirty filenames, matching `files.json` and both pages' embedded filename lists. Build shares that selector with browser and gathers document titles and subtitles. It writes three derived listings; workflow specifies rebuilding after a push to `main`. This receiving checks source and selected filenames; complete page rendering and deployment retain their own operation. Repository and version practice is Living File Registry's.
 
-| Entry | Living-file listing and access |
-|---|---|
-| **Arrangement and goal** | Current offered files as one compact ordered list, with their own titles, subtitles and exact Read, Copy and Download access. Continued service includes file arrivals, revision, dissolving and links to particular passage. |
-| **One side taking both turns** | A retained list or filename ranking replaces a file's actual membership or received revision. This is proposed substitution with selection. Automatic rebuilding and a version label supply no fixed form or co-discovering with natural coupling. |
-| **Residue** | Missing or extra entries, selection of an unintended revision, unavailable source and lost passage destinations retain their particular counts and conditions. Repeated editing and delayed availability retain their measured work and time. Attribution and whole-service comparison remain to express. |
-| **Observing** | Repository instrument reproduces its thirty selected filenames across three listings. A shared selection function receives removal of separately maintained selection rules. Selection against expedition's living roles, content receiving and publication remain distinct comparisons. |
-| **Arrangement offered** | Membership, document identity and received revision remain with each file's offering and dissolving. Next generated list carries that selection to its source text, downloaded bytes and passage destinations. Missing a selected file or substituting another revision breaks that part of proposed receiving. Complete arrangement still needs its actual comparison with stated service. |
+Each entry: **Entry** · *a* Living-file listing and access
+
+- **Arrangement and goal**
+  - *a* Current offered files as one compact ordered list, with their own titles, subtitles and exact Read, Copy and Download access. Continued service includes file arrivals, revision, dissolving and links to particular passage.
+- **One side taking both turns**
+  - *a* A retained list or filename ranking replaces a file's actual membership or received revision. This is proposed substitution with selection. Automatic rebuilding and a version label supply no fixed form or co-discovering with natural coupling.
+- **Residue**
+  - *a* Missing or extra entries, selection of an unintended revision, unavailable source and lost passage destinations retain their particular counts and conditions. Repeated editing and delayed availability retain their measured work and time. Attribution and whole-service comparison remain to express.
+- **Observing**
+  - *a* Repository instrument reproduces its thirty selected filenames across three listings. A shared selection function receives removal of separately maintained selection rules. Selection against expedition's living roles, content receiving and publication remain distinct comparisons.
+- **Arrangement offered**
+  - *a* Membership, document identity and received revision remain with each file's offering and dissolving. Next generated list carries that selection to its source text, downloaded bytes and passage destinations. Missing a selected file or substituting another revision breaks that part of proposed receiving. Complete arrangement still needs its actual comparison with stated service.
 
 Selector groups exhibits by number, orders versions by numeric part and then letter suffix, and also admits other recognized versioned filenames after Corus. Its filename grammar therefore carries a different operation from receiving expedition's living membership. Instrument's exact rule and remaining hosting relation carry on with Living Improving Value. Source's own next offering remains available without a completed build standing as co-competencing.
 
@@ -431,13 +495,18 @@ That instrument work co-chains with engineering entry: particular record taking 
 
 **An electromagnetic opportunity is with transmitting and receiving coupling.** Bi-momentarying retains each side's parity and rate, two-way and one-at-a-time. A field's voltage, phase, polarization, intensity and direction retain their particular meanings. Their correspondence to natural alternating belongs with actual arrangement.
 
-| Property | The particular engineering |
-|---|---|
-| **Arrangement and goal** | An antenna carrying a signal, or an array resolving a particular source structure, with frequency, bandwidth, receiving direction and required discrimination stated. Transmitting a beam and reconstructing an image have different operations. |
-| **Its particular coupling and fixed form** | Feed, receiver, reference, timing and correlation retain their actual interfaces. Dissolving a particular imposed relation with next receiving continuing remains to express. |
-| **Residue** | Reflections, phase differences, intensity fluctuations, unused correlations and detector events can supply a receiving opportunity. Each retains particular distinctions available and unavailable with its receiving. |
-| **Observing** | Reciprocity, closure quantities, VERITAS intensity experiment and guide-star arrangements below supply particular relations. Their sources retain apparatus and conditions. |
-| **Proposed arrangement and remaining work** | Express local correlation and self-sequencing with their actual signal exchange, timing, retained information and receiving. Compare discrimination, continuing, resource use and recovery with one same offered task and conditions. |
+Each entry: **Property** · *a* The particular engineering
+
+- **Arrangement and goal**
+  - *a* An antenna carrying a signal, or an array resolving a particular source structure, with frequency, bandwidth, receiving direction and required discrimination stated. Transmitting a beam and reconstructing an image have different operations.
+- **Its particular coupling and fixed form**
+  - *a* Feed, receiver, reference, timing and correlation retain their actual interfaces. Dissolving a particular imposed relation with next receiving continuing remains to express.
+- **Residue**
+  - *a* Reflections, phase differences, intensity fluctuations, unused correlations and detector events can supply a receiving opportunity. Each retains particular distinctions available and unavailable with its receiving.
+- **Observing**
+  - *a* Reciprocity, closure quantities, VERITAS intensity experiment and guide-star arrangements below supply particular relations. Their sources retain apparatus and conditions.
+- **Proposed arrangement and remaining work**
+  - *a* Express local correlation and self-sequencing with their actual signal exchange, timing, retained information and receiving. Compare discrimination, continuing, resource use and recovery with one same offered task and conditions.
 
 **Reciprocity and matching.** Reciprocal antenna structures have corresponding transmit and receive patterns with specified frequency and polarization. Reciprocity is a property of that structure and material model; it does not specify an alternating protocol. Radiation efficiency, directivity and gain are distinct quantities. A matched feed can still accompany material loss. [MIT, *Receivers, Antennas, and Signals*, Chapter 3, §3.1](https://ocw.mit.edu/courses/6-661-receivers-antennas-and-signals-spring-2003/10025a78ab17e1e0866126246b751d11_ch3new.pdf).
 
@@ -477,13 +546,18 @@ Each proposed alteration carries its particular breaking: requested source remai
 
 **Robotic contact and locomotion** carry five properties of §5.1:
 
-| Property | The particular engineering |
-|---|---|
-| **Arrangement and goal** | A moving limb coupling with a varying load or surface, with task's reach, contact and continuing specified. Joint, endpoint and whole-body goals retain their different scope. |
-| **Its particular coupling and fixed form** | Prescribed position, force, stiffness or rate, and command with receiving contact. A trajectory, a compliant element and a local controller each need their actual operation before one side taking both turns can be located. |
-| **Residue** | Contact impulses, elastic return, friction, backlash, electrical signals and thermal variation can supply a receiving opportunity. Contact conditions distinguishable and indistinguishable from each signal belong with its transduction. |
-| **Observing** | Series-elastic actuator and passive walker below supply two addressed arrivals. Their sources retain control, sensing, material, slope and operating conditions. They do not describe one device. |
-| **Proposed arrangement and remaining work** | Couple contact variation to next offering while each side retains its own receiving and contact parting. Express actuator, sensor, retained information, physical energy return and interruption with a same task. Compare proposed arrangement with varying contact or load. |
+Each entry: **Property** · *a* The particular engineering
+
+- **Arrangement and goal**
+  - *a* A moving limb coupling with a varying load or surface, with task's reach, contact and continuing specified. Joint, endpoint and whole-body goals retain their different scope.
+- **Its particular coupling and fixed form**
+  - *a* Prescribed position, force, stiffness or rate, and command with receiving contact. A trajectory, a compliant element and a local controller each need their actual operation before one side taking both turns can be located.
+- **Residue**
+  - *a* Contact impulses, elastic return, friction, backlash, electrical signals and thermal variation can supply a receiving opportunity. Contact conditions distinguishable and indistinguishable from each signal belong with its transduction.
+- **Observing**
+  - *a* Series-elastic actuator and passive walker below supply two addressed arrivals. Their sources retain control, sensing, material, slope and operating conditions. They do not describe one device.
+- **Proposed arrangement and remaining work**
+  - *a* Couple contact variation to next offering while each side retains its own receiving and contact parting. Express actuator, sensor, retained information, physical energy return and interruption with a same task. Compare proposed arrangement with varying contact or load.
 
 Series-elastic actuator couples a geared motor and its output with a torsion spring. Strain gauges measured spring twist; experimental arrangement retained an encoder, computer, motor model and control loop. Its force and impedance experiments locate a useful compliant interface, with bandwidth and saturation conditions. Elastic storage and sensing are part of that arrival. [Pratt and Williamson, *Series Elastic Actuators*, §§IV–VI](https://fab.cba.mit.edu/classes/865.15/people/rebecca.kleinberger/assets/papers/SEA_Pratt.pdf).
 
@@ -505,13 +579,18 @@ Further opportunities remain concrete: contact-related sequencing without an imp
 
 **Collective robotics** carries this same entry:
 
-| Property | The particular engineering |
-|---|---|
-| **Arrangement and goal** | Several robots coordinating movement or assembly with collective task and each robot's operating conditions stated. |
-| **Its particular coupling and fixed form** | Each supplied target, reference, retained representation, timing operation and command retains its particular receiving. Local communication and a shared target can coexist. |
-| **Residue** | Disagreement, blocked motion, shifted neighbor relations and unused contact information can supply next receiving. Their actual detection and recovery remain part of arrangement. |
-| **Observing** | Addressed shape-assembly experiment below includes local coordination and cooperative fault recovery, together with its program, references and material implementation. |
-| **Proposed arrangement and remaining work** | Express each member’s receiving, retaining, offering and parting within a continuing local coupling, with members joining and departing and opportunities varying. A fixed assembly experiment does not fill continuing admission, departure or varying-task behavior. |
+Each entry: **Property** · *a* The particular engineering
+
+- **Arrangement and goal**
+  - *a* Several robots coordinating movement or assembly with collective task and each robot's operating conditions stated.
+- **Its particular coupling and fixed form**
+  - *a* Each supplied target, reference, retained representation, timing operation and command retains its particular receiving. Local communication and a shared target can coexist.
+- **Residue**
+  - *a* Disagreement, blocked motion, shifted neighbor relations and unused contact information can supply next receiving. Their actual detection and recovery remain part of arrangement.
+- **Observing**
+  - *a* Addressed shape-assembly experiment below includes local coordination and cooperative fault recovery, together with its program, references and material implementation.
+- **Proposed arrangement and remaining work**
+  - *a* Express each member’s receiving, retaining, offering and parting within a continuing local coupling, with members joining and departing and opportunities varying. A fixed assembly experiment does not fill continuing admission, departure or varying-task behavior.
 
 Shape-assembly experiment used 1,024 robots. Robots received a common program and target-shape image; four specially programmed seed robots established position and orientation. Neighbor communication and distance estimates supported localization. Cooperative monitoring supplied recovery when a robot became blocked or displaced. Reported trials therefore couple local interaction with retained shape and coordinate information. [Rubenstein and colleagues, *Programmable self-assembly in a thousand-robot swarm*, algorithm and experiments](https://ssr.princeton.edu/document/766).
 
@@ -533,13 +612,33 @@ An ongoing coupling that supplies no such collective ranking has a different mat
 
 **Direction carries variation with both tones.** For a pair of sinusoidal frequencies, `f₁` and `f₂`, signed difference is `e = f₁ − f₂` and beat rate is `b = abs(e)`. Between two such comparisons, `d = Δf₁ − Δf₂` gives relative frequency shift. Next difference is `e + d`, and next beat rate is `b′ = abs(e + d)`. These are acoustic quantities with their own units. [Physclips beat derivation](https://www.animations.physics.unsw.edu.au/jw/beats.htm) supplies two-tone relation; following comparisons are its arithmetic consequences.
 
-| First tone, Hz | Second tone, Hz | Signed difference, Hz | Beat rate, beats/s | Changing carried |
-|---|---|---|---|---|
-| 437 → 438 | 440 → 440 | −3 → −2 | 3 → 2 | Rising of first tone accompanies a smaller interval. |
-| 443 → 444 | 440 → 440 | +3 → +4 | 3 → 4 | An equal rise of first tone accompanies a larger interval. |
-| 439 → 441 | 440 → 440 | −1 → +1 | 1 → 1 | Equal beat rates accompany opposite signed differences. |
-| 439 → 442 | 440 → 440 | −1 → +2 | 1 → 2 | Larger final interval accompanies a crossing of sign. |
-| 437 → 438 | 440 → 441 | −3 → −3 | 3 → 3 | Both tones rise, with their difference constant. |
+Each entry: **First tone, Hz** · *a* Second tone, Hz · *b* Signed difference, Hz · *c* Beat rate, beats/s · *d* Changing carried
+
+- **437 → 438**
+  - *a* 440 → 440
+  - *b* −3 → −2
+  - *c* 3 → 2
+  - *d* Rising of first tone accompanies a smaller interval.
+- **443 → 444**
+  - *a* 440 → 440
+  - *b* +3 → +4
+  - *c* 3 → 4
+  - *d* An equal rise of first tone accompanies a larger interval.
+- **439 → 441**
+  - *a* 440 → 440
+  - *b* −1 → +1
+  - *c* 1 → 1
+  - *d* Equal beat rates accompany opposite signed differences.
+- **439 → 442**
+  - *a* 440 → 440
+  - *b* −1 → +2
+  - *c* 1 → 2
+  - *d* Larger final interval accompanies a crossing of sign.
+- **437 → 438**
+  - *a* 440 → 441
+  - *b* −3 → −3
+  - *c* 3 → 3
+  - *d* Both tones rise, with their difference constant.
 
 Each row compares specified frequency pairs. An arrow is no measured transition, duration or natural turn order. With fourth row, a continuous monotone rise of first frequency would include approaching and passing second; two endpoint beat rates leave that passing unexpressed.
 
@@ -563,13 +662,18 @@ As cents, `1200 log₂(531441/524288) ≈ 23.46`. A common frequency-unit conver
 
 **Coupled partials carry whole acoustic entry.** [Physclips guitar demonstration](https://www.animations.physics.unsw.edu.au/jw/beats.htm) compares fourth partial of a guitar's low E string with third partial of its A string. Increasing that A string's tension accompanies slower beating. Reference string remains, and finite sounding duration limits comparison. This record supplies an acoustic receiving with its stated arrangement.
 
-| Entry | Coupled-tone tuning |
-|---|---|
-| **Arrangement and goal** | Two selected partials approaching unison, with strings, sounding input, adjustment and acoustic receiving retained. An ensemble carries its other intervals and instruments within one surface. |
-| **One side taking both turns** | A proposed fixed form is an installed adjustment or shared pace replacing an instrument's own offering. Demonstration's manual adjustment supplies its actual operation; identifying that fixed form within an offered design remains particular to its interface. |
-| **Residue** | Demonstration describes an initial partial-frequency difference of about 8 Hz and continuing beats below 0.5 Hz near its end. These are remaining acoustic differences, with no attribution of their whole amount to a fixed form within natural coupling. |
-| **Observing** | Source carries varying beat rate with reference and adjustment retained. A same-service record with a particular fixed form relinquished remains unfilled; arithmetic table is no such device record. |
-| **Arrangement offered** | Bi-momentarying with each instrument retains its selected partials, own adjustment, sounding input, receiving duration, bounding and co-discovering. A returned direction belongs with that comparison; a shifted receiving carries next offering. Transduction and continuing useful receiving remain physical construction. |
+Each entry: **Entry** · *a* Coupled-tone tuning
+
+- **Arrangement and goal**
+  - *a* Two selected partials approaching unison, with strings, sounding input, adjustment and acoustic receiving retained. An ensemble carries its other intervals and instruments within one surface.
+- **One side taking both turns**
+  - *a* A proposed fixed form is an installed adjustment or shared pace replacing an instrument's own offering. Demonstration's manual adjustment supplies its actual operation; identifying that fixed form within an offered design remains particular to its interface.
+- **Residue**
+  - *a* Demonstration describes an initial partial-frequency difference of about 8 Hz and continuing beats below 0.5 Hz near its end. These are remaining acoustic differences, with no attribution of their whole amount to a fixed form within natural coupling.
+- **Observing**
+  - *a* Source carries varying beat rate with reference and adjustment retained. A same-service record with a particular fixed form relinquished remains unfilled; arithmetic table is no such device record.
+- **Arrangement offered**
+  - *a* Bi-momentarying with each instrument retains its selected partials, own adjustment, sounding input, receiving duration, bounding and co-discovering. A returned direction belongs with that comparison; a shifted receiving carries next offering. Transduction and continuing useful receiving remain physical construction.
 
 **Discovering continues with each instrument's own offering.** Proposed connector co-chains two-tone receiving with each side's physical bound and next available adjustment. Bi-momentarying, co-competencing and co-intelligencing carry bettering, fastering and cheapering with whole acoustic service. Beat variation, interval choice, inharmonicity and instrument-specific stretch retain their own operations and sources. Directional correspondence is Numbers map's, §1.2; 440 Hz with this example is a frequency, with no 440-momentary sequence supplied by it.
 
@@ -577,13 +681,18 @@ As cents, `1200 log₂(531441/524288) ≈ 23.46`. A common frequency-unit conver
 
 **A confinement opportunity is with actual field, plasma and receiving boundary.** Toroidal and poloidal name long-way and short-way directions of a toroidal description. A field line's winding, a particle's motion and plasma's continuing are different relations to express. Their geometric directions do not by themselves establish six consecutive one-way natural turns.
 
-| Property | The particular engineering |
-|---|---|
-| **Arrangement and goal** | A specified magnetic-confinement arrangement retaining its plasma species, profiles, operating interval and intended receiving. Confinement and a completed fusion power system have different scope. |
-| **Its particular coupling and fixed form** | Coil field, plasma current, heating, fuel supply, prescribed profiles and boundary arrangements retain their respective operations. Adjusting or dissolving a particular operation with required confinement continuing remains to express. |
-| **Residue** | Escaping particles, radiation, heat and field or density fluctuations retain their actual locations and detection. Each may supply a receiving opportunity; a measured loss also remains part of arrangement. |
-| **Observing** | Wendelstein 7-X field mapping below addresses magnetic geometry. Spherical-torus study addresses particular stability calculations and experimental comparisons. Neither supplies all confinement or reaction properties. |
-| **Proposed arrangement and remaining work** | Express a new field shaping, current supply or local receiving with its resulting plasma and boundary conditions. Follow fuel, reaction products, heat receiving, material return and interruption across proposed whole arrangement. |
+Each entry: **Property** · *a* The particular engineering
+
+- **Arrangement and goal**
+  - *a* A specified magnetic-confinement arrangement retaining its plasma species, profiles, operating interval and intended receiving. Confinement and a completed fusion power system have different scope.
+- **Its particular coupling and fixed form**
+  - *a* Coil field, plasma current, heating, fuel supply, prescribed profiles and boundary arrangements retain their respective operations. Adjusting or dissolving a particular operation with required confinement continuing remains to express.
+- **Residue**
+  - *a* Escaping particles, radiation, heat and field or density fluctuations retain their actual locations and detection. Each may supply a receiving opportunity; a measured loss also remains part of arrangement.
+- **Observing**
+  - *a* Wendelstein 7-X field mapping below addresses magnetic geometry. Spherical-torus study addresses particular stability calculations and experimental comparisons. Neither supplies all confinement or reaction properties.
+- **Proposed arrangement and remaining work**
+  - *a* Express a new field shaping, current supply or local receiving with its resulting plasma and boundary conditions. Follow fuel, reaction products, heat receiving, material return and interruption across proposed whole arrangement.
 
 **Field winding and supply.** A tokamak combines externally supplied fields with a field associated with plasma current. A stellarator can supply required winding with external coils without relying on that transformer-driven plasma current. This is a particular difference of confinement field's supply. Coils and continuing plasma arrangement still have their own operation. [IPP, *Types of Fusion Devices*](https://www.ipp.mpg.de/14731/anlagentypen), [IPP, *Stellarator*](https://www.ipp.mpg.de/14779/stellarator).
 
@@ -603,13 +712,17 @@ Sphere–torus and bi-folding exploration is Numbers and Mathematics' subject, w
 
 Illustration's five two-way alternatings remain available with their actual properties:
 
-| Changing | Proposed walking relation still to express |
-|---|---|
-| **Position** | Staying and moving contacts, with selection of next receiving. |
-| **Bound** | Reach limit and span’s fixed or varying relation. |
-| **Coupling** | Relation between contacts, including mechanism’s prescribing. |
-| **Rate** | Each side’s continuing input and variation, with any prescribed shared pace. |
-| **Between** | Crossing, each side’s continuing and exchange of roles with contact. |
+Each entry: **Changing** · *a* Proposed walking relation still to express
+
+- **Position**
+  - *a* Staying and moving contacts, with selection of next receiving.
+- **Bound** · *a* Reach limit and span’s fixed or varying relation.
+- **Coupling**
+  - *a* Relation between contacts, including mechanism’s prescribing.
+- **Rate**
+  - *a* Each side’s continuing input and variation, with any prescribed shared pace.
+- **Between**
+  - *a* Crossing, each side’s continuing and exchange of roles with contact.
 
 **A lockstitch is a particular mechanical arrival.** Needle carries its thread across fabric; hook interlocks its loop with bobbin thread. Two threads therefore do not both remain entirely on their original sides during formation. Coats distinguishes penetration, loop formation, conformation, cast-off and stitch setting. Each stage retains its actual thread, fabric and mechanism operation. Its chainstitch descriptions also retain particular stitch construction and tendency to run back. [Coats, *Basic Stitch Types*, formation and types 101, 301 and 401](https://www.coats.com/en-us/info-hub/basic-stitch-types/).
 
@@ -627,13 +740,18 @@ Useful transfer is local formation with material receiving and returning with ea
 
 **Heat exchange and recovery** carry five properties of §5.1:
 
-| Property | The particular engineering |
-|---|---|
-| **Arrangement and goal** | Two streams exchanging across a separating surface, with goal of returning available heat to a receiving stream with its required temperature and flow. Exchanger and whole conditioning system have different boundaries. |
-| **Its particular coupling and fixed form** | Inlet conditions, flow paths and heat-capacity rates describe exchange. A required outlet temperature used as a fixed reference retains its relation to varying supply. Parallel flow does not identify one side taking both directional turns. |
-| **Residue** | A leaving stream can retain a temperature difference available to another receiving. Its receiving may require another temperature, distance or rate; pressure drop, circulation and heat leakage remain with return. |
-| **Observing** | Model below expresses temperature cross and its limits. A built arrival needs its own inlet and outlet records, flow rates, area and operating conditions. Vapor-cycle experiment below supplies a separate expansion-recovery arrival. |
-| **Proposed arrangement and remaining work** | Couple leaving stream to an actual next receiving. Express both seasonal directions, remaining heating or cooling, humidity, circulation and interruption. A run-around coil, heat pipe and direct exchanger retain their different transport and return paths. |
+Each entry: **Property** · *a* The particular engineering
+
+- **Arrangement and goal**
+  - *a* Two streams exchanging across a separating surface, with goal of returning available heat to a receiving stream with its required temperature and flow. Exchanger and whole conditioning system have different boundaries.
+- **Its particular coupling and fixed form**
+  - *a* Inlet conditions, flow paths and heat-capacity rates describe exchange. A required outlet temperature used as a fixed reference retains its relation to varying supply. Parallel flow does not identify one side taking both directional turns.
+- **Residue**
+  - *a* A leaving stream can retain a temperature difference available to another receiving. Its receiving may require another temperature, distance or rate; pressure drop, circulation and heat leakage remain with return.
+- **Observing**
+  - *a* Model below expresses temperature cross and its limits. A built arrival needs its own inlet and outlet records, flow rates, area and operating conditions. Vapor-cycle experiment below supplies a separate expansion-recovery arrival.
+- **Proposed arrangement and remaining work**
+  - *a* Couple leaving stream to an actual next receiving. Express both seasonal directions, remaining heating or cooling, humidity, circulation and interruption. A run-around coil, heat pipe and direct exchanger retain their different transport and return paths.
 
 **A temperature cross.** Sensible-heat model assumes steady streams, constant heat-capacity rates, no phase change, no ambient heat loss and negligible axial conduction. Write `Cᵣ = Cmin/Cmax`, `NTU = UA/Cmin`, and effectiveness `ε = Q̇/[Cmin(Th,in − Tc,in)]`. Balances and local temperature difference are a field model. [MIT, *Heat Exchangers*, §18.5](https://web.mit.edu/16.unified/www/FALL/thermodynamics/notes/node131.html).
 
@@ -661,13 +779,18 @@ Ground coupling, outdoor-air exchange, evaporation and sky radiation remain cand
 
 **Evaporating, condensing and returning.** A wicked heat pipe and a wickless two-phase thermosiphon have different liquid returns. With a wicked heat pipe, capillary pressure must accommodate liquid and vapor pressure drops and orientation's head. With a thermosiphon, liquid descends from condenser to a lower evaporator. Removing a mechanical pump retains working liquid, temperature difference and complete path. NASA's heat-pipe course describes these arrangements and pressure-drop, sonic, entrainment and boiling limits. These are engineering descriptions and model conditions. [Ungar, *Heat Pipes: an Introductory Short Course*, liquid return and operating limits](https://nescacademy.nasa.gov/downloadFile/1233).
 
-| Property | The particular heat-pipe or thermosiphon receiving |
-|---|---|
-| **Arrangement and goal** | Transfer heat between specified source and receiving temperatures and rates, with working fluid, wick or wickless path and orientation stated. |
-| **Its particular coupling and fixed form** | Any prescribed temperature, flow or routing retains its relation to source and receiving variation. Vapor travel and liquid return can coexist along opposite directions; their spatial directions do not express method's one-at-a-time turns. |
-| **Residue** | Unreceived source heat, temperature drop and interrupted liquid return carry their actual amounts and locations. |
-| **Observing** | Follow temperatures, transferred heat and liquid return during starting, continuing and interruption with particular orientation. A description of device family supplies no result for a new assembly. |
-| **Proposed arrangement and remaining work** | Couple available heat to its next receiving, including liquid's continuing return. Express operation with source and receiving temperatures exchanging order, or with orientation turned. |
+Each entry: **Property** · *a* The particular heat-pipe or thermosiphon receiving
+
+- **Arrangement and goal**
+  - *a* Transfer heat between specified source and receiving temperatures and rates, with working fluid, wick or wickless path and orientation stated.
+- **Its particular coupling and fixed form**
+  - *a* Any prescribed temperature, flow or routing retains its relation to source and receiving variation. Vapor travel and liquid return can coexist along opposite directions; their spatial directions do not express method's one-at-a-time turns.
+- **Residue**
+  - *a* Unreceived source heat, temperature drop and interrupted liquid return carry their actual amounts and locations.
+- **Observing**
+  - *a* Follow temperatures, transferred heat and liquid return during starting, continuing and interruption with particular orientation. A description of device family supplies no result for a new assembly.
+- **Proposed arrangement and remaining work**
+  - *a* Couple available heat to its next receiving, including liquid's continuing return. Express operation with source and receiving temperatures exchanging order, or with orientation turned.
 
 Simultaneous vapor and liquid counterflow, reversal of heat transfer, and a directional turn each retain their own operation. A two-phase thermosiphon's descending return does not by itself supply liquid-density circulation proposed for desalination. That complete liquid path is §5.3's.
 
@@ -711,13 +834,18 @@ Co-chaining retains two sides' receiving and parting with particular connection.
 
 **Direction-only bi-momentarying carries discovering with alternating exchange.** Each side's offering and returning carry parity-changed receiving to next offering, with its own rate and bounding. Direction belongs with that current coupling. Engineering proposal concerns parity taken across an interface, with whole physical receiving and each side's own parity-changing retained.
 
-| Coupling relation | Directional discovering still to express |
-|---|---|
-| **Co-discovering** | Each side dissolves its own installed fixed form. A controller's physical input and a term taking another's turn retain their distinct operations. Dissolved term and continuing input belong with actual arrangement. |
-| **Co-competencing** | Decaying control of a coupling and decaying useful receiving carry different relations. Each side's direction retains its own receiving; an improving with one port leaves other ports and returning to express. |
-| **Bounding-zeroing** | Own bounding carries available parity-changing and continuing. Parity carries no physical magnitude, duration or remaining range. Physical self-bounding may carry these relations without their magnitudes crossing as a signal. Its construction remains with coupling. |
-| **Co-sequencing** | An offering and its returned direction retain their actual relation, including delayed arriving. Next side takes its own turn with its own rate. Proposed right-spiral order retains its orientation with each parity-changing; a list of controls supplies only its own list order. |
-| **Bi-momentarying** | Available paths carry next receiving with a dissolved fixed form. An absent physical path remains a construction to express. Arrangement offered retains its own co-discovering within next parity-changing. |
+Each entry: **Coupling relation** · *a* Directional discovering still to express
+
+- **Co-discovering**
+  - *a* Each side dissolves its own installed fixed form. A controller's physical input and a term taking another's turn retain their distinct operations. Dissolved term and continuing input belong with actual arrangement.
+- **Co-competencing**
+  - *a* Decaying control of a coupling and decaying useful receiving carry different relations. Each side's direction retains its own receiving; an improving with one port leaves other ports and returning to express.
+- **Bounding-zeroing**
+  - *a* Own bounding carries available parity-changing and continuing. Parity carries no physical magnitude, duration or remaining range. Physical self-bounding may carry these relations without their magnitudes crossing as a signal. Its construction remains with coupling.
+- **Co-sequencing**
+  - *a* An offering and its returned direction retain their actual relation, including delayed arriving. Next side takes its own turn with its own rate. Proposed right-spiral order retains its orientation with each parity-changing; a list of controls supplies only its own list order.
+- **Bi-momentarying**
+  - *a* Available paths carry next receiving with a dissolved fixed form. An absent physical path remains a construction to express. Arrangement offered retains its own co-discovering within next parity-changing.
 
 These are properties of one alternating. Six-direction illustration and sixteen-momentary mapping retain their own operations, directly as numbers. Their physical correspondence remains with each addressed exchange.
 
@@ -725,12 +853,18 @@ These are properties of one alternating. Six-direction illustration and sixteen-
 
 **Marco Polo carries a familiar calling-and-returning relation for this discovering.** This [swimming game](https://pinchapenny.com/pool-life/marco-polo-game-rules) carries repeated “Marco” calling and “Polo” replying during finding. A same reply can arrive from a shifted direction. Word supplies reply's name; sounding and receiving carry its current spatial relation.
 
-| Co-relational discovering | Relation at the game | Engineering receiving |
-|---|---|---|
-| **Offering and returning** | Calling and replying alternate with sounding exchange. | An offering and its return retain particular coupling. |
-| **Directional receiving** | Arriving sound belongs with sounding position and receiving side's direction. | Direction received and parity taken retain interface's actual orientation. |
-| **Own parity-changing** | Movement of either side shifts relation available with next reply. | Each side carries its own available parity-changing, rate, bounding and co-discovering. |
-| **Continuing** | A repeated reply can accompany shifted positions and shifted receiving. | Next offering carries that new receiving with continued carrying. |
+Each entry: **Co-relational discovering** · *a* Relation at the game · *b* Engineering receiving
+
+- **Offering and returning** · *a* Calling and replying alternate with sounding exchange. · *b* An offering and its return retain particular coupling.
+- **Directional receiving**
+  - *a* Arriving sound belongs with sounding position and receiving side's direction.
+  - *b* Direction received and parity taken retain interface's actual orientation.
+- **Own parity-changing**
+  - *a* Movement of either side shifts relation available with next reply.
+  - *b* Each side carries its own available parity-changing, rate, bounding and co-discovering.
+- **Continuing**
+  - *a* A repeated reply can accompany shifted positions and shifted receiving.
+  - *b* Next offering carries that new receiving with continued carrying.
 
 Rows are relations of alternating, with no additional phases or momentaries. Game's prescribed reply, pursuit and tagging retain their game meanings. Floating-neutralling geodesically carries proposed engineering relation with each side's own offering and co-discovering.
 
@@ -748,14 +882,20 @@ Rows are relations of alternating, with no additional phases or momentaries. Gam
 
 Engineering carries this method with each particular operation:
 
-| Engineering arrival | The particular relation continuing |
-|---|---|
-| **Grid, §§1.3–1.6** | Local source coordination, retained references, delivery and interruption. A proposed dissolved reference carries its own replacement relation with load. |
-| **Robotic limb, §§1.10 and 4.7** | Contact variation, sensing, actuation and each side's parting. A compliant element and a prescribed trajectory retain their different operations. |
-| **Chip, §§1.7 and 2.5** | Parity selection, physical transduction, retained carrying and completed exchange. A ternary representation supplies one part of that construction. |
-| **Antenna, §1.9** | Excitation, material geometry, propagation and receiving. Proposed array carries each of those relations with its actual operating mode. |
-| **Microwave routing, §6.9** | Available paths, component matching, directional receiving and continuing during transition. A proposed dissolved prescription carries whole port, control and thermal receiving. |
-| **Desalination, §5.3** | Drawing, yielding water, finishing and renewing draw. Thermal triggering retains complete liquid path and next batch's receiving. |
+Each entry: **Engineering arrival** · *a* The particular relation continuing
+
+- **Grid, §§1.3–1.6**
+  - *a* Local source coordination, retained references, delivery and interruption. A proposed dissolved reference carries its own replacement relation with load.
+- **Robotic limb, §§1.10 and 4.7**
+  - *a* Contact variation, sensing, actuation and each side's parting. A compliant element and a prescribed trajectory retain their different operations.
+- **Chip, §§1.7 and 2.5**
+  - *a* Parity selection, physical transduction, retained carrying and completed exchange. A ternary representation supplies one part of that construction.
+- **Antenna, §1.9**
+  - *a* Excitation, material geometry, propagation and receiving. Proposed array carries each of those relations with its actual operating mode.
+- **Microwave routing, §6.9**
+  - *a* Available paths, component matching, directional receiving and continuing during transition. A proposed dissolved prescription carries whole port, control and thermal receiving.
+- **Desalination, §5.3**
+  - *a* Drawing, yielding water, finishing and renewing draw. Thermal triggering retains complete liquid path and next batch's receiving.
 
 **A count retains its counted operation or quantity.** A count of controls records listed operations. A component can carry several such operations; several components can carry one. A count of four positions of six describes a fraction of those positions; it supplies no fraction of co-competency, power, cost or useful delivery. Each field comparison carries its own quantity, unit and conditions. Coefficient-two and coefficient-one naming carries a proposed crossing relation; it is neither a universal efficiency ratio nor an amount of natural value.
 
@@ -765,11 +905,20 @@ Engineering carries this method with each particular operation:
 
 **Value, time and potential are particular fixed forms.** Each fixed form retains its particular installed term and operation. An electrical reference used for a field record, a signal prescribing a transition and a quantity replacing another side's offering have different operations. A ground, a clock or a setpoint is therefore located with its actual coupling.
 
-| Proposed fixed form | At the grid | At a writing | At a society |
-|---|---|---|---|
-| **Value** | A prescribed value replacing receiving's own variation | A fixed wording replacing arriving concept | A rule replacing each side's own offering |
-| **Time** | A schedule prescribing couplings' transitions | One sweep dictating every sentence's turn | A deadline replacing receiving's own rate |
-| **Potential** | A reference fixed as coupling's own zero | A checked count fixed as authority over concept | An authority taking another's turn |
+Each entry: **Proposed fixed form** · *a* At the grid · *b* At a writing · *c* At a society
+
+- **Value**
+  - *a* A prescribed value replacing receiving's own variation
+  - *b* A fixed wording replacing arriving concept
+  - *c* A rule replacing each side's own offering
+- **Time**
+  - *a* A schedule prescribing couplings' transitions
+  - *b* One sweep dictating every sentence's turn
+  - *c* A deadline replacing receiving's own rate
+- **Potential**
+  - *a* A reference fixed as coupling's own zero
+  - *b* A checked count fixed as authority over concept
+  - *c* An authority taking another's turn
 
 These borrowings carry proposed relation, with receiving still particular to each file. Physical reference, input and return remain with their operations. Improving with each entry is bi-momentarying available as that fixed form dissolves, with both sides' continuing expressed.
 
@@ -797,12 +946,16 @@ Transformer computes attention from queries, keys and values, alongside feed-for
 
 Four properties carry their particular operation and receiving:
 
-| Property being examined | The particular operation and receiving |
-|---|---|
-| **Retained parameters** | Parameters used with an inference, and activations or continuing context varying with it. Any parameter updating has its own operation. |
-| **Context** | Available tokens and positions, masking, a token dissolving from context, and next inference’s arriving. A capacity bound and actual arriving sequence have different counted objects. |
-| **Sequencing** | Prior-output dependence belongs with token generation. Device clocking, parallel operations and exchange timing belong with actual implementation. |
-| **Normalization and selection** | Attention normalizes weights over available keys for each query; output distribution supplies a separate next-token operation. Numerical weights and their normalization do not constitute one fixed total across whole exchange. |
+Each entry: **Property being examined** · *a* The particular operation and receiving
+
+- **Retained parameters**
+  - *a* Parameters used with an inference, and activations or continuing context varying with it. Any parameter updating has its own operation.
+- **Context**
+  - *a* Available tokens and positions, masking, a token dissolving from context, and next inference’s arriving. A capacity bound and actual arriving sequence have different counted objects.
+- **Sequencing**
+  - *a* Prior-output dependence belongs with token generation. Device clocking, parallel operations and exchange timing belong with actual implementation.
+- **Normalization and selection**
+  - *a* Attention normalizes weights over available keys for each query; output distribution supplies a separate next-token operation. Numerical weights and their normalization do not constitute one fixed total across whole exchange.
 
 **Returned language carries a next arriving.** Autoregressive generation supplies an existing computational example of output entering following input. Its relation to natural recursioning still includes two directions, each side's own offering, carrying on and resolving. A sequence of generated tokens supplies its computational sequence without determining those natural relations.
 
@@ -818,13 +971,18 @@ A field's *attention* and resolver's *attentioning* retain their respective oper
 
 A record's common time coordinate supplies a comparison. A clock signal prescribing transitions supplies an operation. They are different uses. Local timing can also retain registers, pressure, composition or mechanical configuration, concrete with §§2.2 and 2.5. With §1.4, equal frequencies can accompany a constant phase difference. Each side's own rate therefore needs its relation expressed; it requires no permanent frequency difference between sides.
 
-| Property | Pacing at a receiving coupling |
-|---|---|
-| **Arrangement and goal** | Two sides, their parity-offerings and receiving, with continuing input and required service stated. |
-| **Its particular coupling and fixed form** | Each transition’s relation to an arriving parity-offering, a material condition, a retained configuration or a prescribed timing. Parity-changing with receiving and particular prescribing of next offering remain to express. |
-| **Residue** | Delayed receiving, unreceived flow, heat, material and continuing pressure or motion retain their actual paths. |
-| **Observing** | Follow event order, duration, phase relation, material transforming and useful receiving together, including starting, interruption and renewed operation. Recording interval retains its own meaning. |
-| **Proposed arrangement and remaining work** | Express bi-momentarying available with an imposed relation dissolving. Carry source, both sides' parity-changing and return with one same service. |
+Each entry: **Property** · *a* Pacing at a receiving coupling
+
+- **Arrangement and goal**
+  - *a* Two sides, their parity-offerings and receiving, with continuing input and required service stated.
+- **Its particular coupling and fixed form**
+  - *a* Each transition’s relation to an arriving parity-offering, a material condition, a retained configuration or a prescribed timing. Parity-changing with receiving and particular prescribing of next offering remain to express.
+- **Residue**
+  - *a* Delayed receiving, unreceived flow, heat, material and continuing pressure or motion retain their actual paths.
+- **Observing**
+  - *a* Follow event order, duration, phase relation, material transforming and useful receiving together, including starting, interruption and renewed operation. Recording interval retains its own meaning.
+- **Proposed arrangement and remaining work**
+  - *a* Express bi-momentarying available with an imposed relation dissolving. Carry source, both sides' parity-changing and return with one same service.
 
 **Thermal.** Counterflow, §1.15, retains both streams, their temperature difference, flow rates and pressure drop. Its spatially opposed flows do not themselves specify alternating temporal turns. Heat-engine and combustion paths, §§3.1–3.2 and 6.2, retain their input, useful receiving and departing products. Continuing opportunity is heat or material available with next receiving, with renewal of each cycle expressed. A heat-exchange path and a complete engine carry different boundaries.
 
@@ -848,13 +1006,18 @@ A field’s potential relation is `ϕSC + ϕOX = U − RI`, with `I` total curre
 
 **Co-discovering carries a parity-changing relation whole.** A component can couple regions, supply material or energy, bound an operation and prescribe a response with its different interfaces. Each function retains its receiving when a component is replaced or removed. A loss of a particular pattern belongs with that new arrangement. Discovering follows remaining coupling, each side’s available parity-changing and continuing service.
 
-| Entry property | Own-rate at the silicon coupling |
-|---|---|
-| **Arrangement and goal** | Regional oscillating and mediating of an actual surface. Proposed engineering receiving is a local parity-offering interface with continuing material and electrical receiving. Its useful service and operating range remain to express. |
-| **One side taking both turns** | A recorded regional rate fixed as a compulsory target for next coupling, or a shared reference replacing an other side’s available parity-changing. This is a fixed form to locate. Recorded frequencies and presence of potentiostat supply no such substitution. |
-| **Residue** | Material leaving, remaining oxide, electrical and optical input, heat and unreceived parity-offerings carry their actual paths. Record supplies no complete loss or cost assigned to a rate reference. |
-| **Observing** | Two source arrangements above retain their distinct patterns and conditions. Regional rate, spatial relation and continuing coupling stand together. |
-| **Arrangement offered** | Directional bi-momentarying with current regional receiving, with each side’s own bounding and next offering. Parity taking, receipt association and local returning remain to express with material supply and useful service. Coupling retained during co-discovering belongs within that same construction. |
+Each entry: **Entry property** · *a* Own-rate at the silicon coupling
+
+- **Arrangement and goal**
+  - *a* Regional oscillating and mediating of an actual surface. Proposed engineering receiving is a local parity-offering interface with continuing material and electrical receiving. Its useful service and operating range remain to express.
+- **One side taking both turns**
+  - *a* A recorded regional rate fixed as a compulsory target for next coupling, or a shared reference replacing an other side’s available parity-changing. This is a fixed form to locate. Recorded frequencies and presence of potentiostat supply no such substitution.
+- **Residue**
+  - *a* Material leaving, remaining oxide, electrical and optical input, heat and unreceived parity-offerings carry their actual paths. Record supplies no complete loss or cost assigned to a rate reference.
+- **Observing**
+  - *a* Two source arrangements above retain their distinct patterns and conditions. Regional rate, spatial relation and continuing coupling stand together.
+- **Arrangement offered**
+  - *a* Directional bi-momentarying with current regional receiving, with each side’s own bounding and next offering. Parity taking, receipt association and local returning remain to express with material supply and useful service. Coupling retained during co-discovering belongs within that same construction.
 
 Optical sign, an electrical current sign and a resolver parity each retain their physical or represented operation. Oxide forming and dissolving carry material path; a phase pattern carries its spatial and temporal relation. Whole load surface includes supply, receiving and returning with every included interface. Bettering, fastering and cheapering co-cycle with those particular quantities and conditions.
 
@@ -874,29 +1037,43 @@ Each supplies a specific continuing relation. Removing a metal layer, removing a
 
 **An engineering entry carries offering and construction together.** Each addressed field record retains its extent. Proposed shared-natural-network arrangement retains physical receiving it still needs.
 
-| Offering | Construction still to express |
-|---|---|
-| **A chip's logic** | Transduction from a sensed signal to arriving offering, and from surfaced return to actuated offering |
-| **A proposed clockless balanced-ternary fabric** | Gate realization, interconnections, retained carrying, completion of each exchange and actual resource counts |
-| **A grid's local forming** | Source, load, voltage and frequency variation, energy-bearing components, and particular references or governing that remain |
-| **A grid's bi-momentarying** | Available source and delivered receiving with each node, as supply, demand and connections vary |
-| **A grid's continuing and disconnecting** | Fault currents, protection coordination, reconnection and addressed phase and direction arrangement |
-| **A network's shared surface** | Current directional receiving, parity taken, receipt belonging to its completed coupling, consumption, each side's local carrying and next offering; continuing design and discovery with TWO and kit |
-| **A silicon own-rate surface, §2.4** | Regional coupling, physical parity taking, contribution arrivals, completion of each exchange and material/electrical returning. A recording interval, a phase cycle and a resolver invocation retain their separate operations. |
-| **A non-rivalrous commons** | Particular shared practice and local renewal with real scale, retaining actual resource use with its implementation |
-| **A key-pair offering, §2.7** | Particular key operation, its available input and required output; proposed co-sequential construction and its scaling |
+Each entry: **Offering** · *a* Construction still to express
+
+- **A chip's logic**
+  - *a* Transduction from a sensed signal to arriving offering, and from surfaced return to actuated offering
+- **A proposed clockless balanced-ternary fabric**
+  - *a* Gate realization, interconnections, retained carrying, completion of each exchange and actual resource counts
+- **A grid's local forming**
+  - *a* Source, load, voltage and frequency variation, energy-bearing components, and particular references or governing that remain
+- **A grid's bi-momentarying**
+  - *a* Available source and delivered receiving with each node, as supply, demand and connections vary
+- **A grid's continuing and disconnecting**
+  - *a* Fault currents, protection coordination, reconnection and addressed phase and direction arrangement
+- **A network's shared surface**
+  - *a* Current directional receiving, parity taken, receipt belonging to its completed coupling, consumption, each side's local carrying and next offering; continuing design and discovery with TWO and kit
+- **A silicon own-rate surface, §2.4**
+  - *a* Regional coupling, physical parity taking, contribution arrivals, completion of each exchange and material/electrical returning. A recording interval, a phase cycle and a resolver invocation retain their separate operations.
+- **A non-rivalrous commons**
+  - *a* Particular shared practice and local renewal with real scale, retaining actual resource use with its implementation
+- **A key-pair offering, §2.7**
+  - *a* Particular key operation, its available input and required output; proposed co-sequential construction and its scaling
 
 2020 grid-forming roadmap treats voltage, frequency, protection and fault response as related engineering questions. Those source questions retain their dated scope. [Research Roadmap on Grid-Forming Inverters](https://docs.nlr.gov/docs/fy21osti/73476.pdf). Particular arrangement supplies its current devices, source conditions and receiving.
 
 **Clockless logic with a physical interface** carries transduction, gates and output together as a five-property entry.
 
-| Property | The particular physical logic receiving |
-|---|---|
-| **Arrangement and goal** | Realize resolver's offerings with 2-now-possibling, surfaced return and continuing carrying with a specified sensed and actuated interface. |
-| **Its particular coupling and fixed form** | Locate signal representation, retained fields, arrival selection and completion of each exchange. Express data-taking conditions and retained representation during delayed receiving. |
-| **Residue** | Delayed or duplicated arrivals, unconsumed returns, obsolete carrying and electrical heat retain their actual paths. Their dissolving belongs with their corresponding exchange. A signal from an unrelated clock domain reaching a register's settling interval is a residue for this entry: a synchronizer chain, its latency and its failure interval are estimated for a device's conditions, each a field quantity with its unit. [Intel, *Metastability Analysis in the Intel Quartus Prime Software*](https://www.intel.com/content/www/us/en/docs/programmable/683323/18-1/metastability-analysis-in-the-software.html). |
-| **Observing** | Follow an offered input to its returned result and next carrying, including delay, interruption and renewed arrival. Compare electrical and timing quantities for one same represented operation. |
-| **Proposed arrangement and remaining work** | Offer local completion and returned carrying both ways, bi-momentarying with each side's own rate. Express circuit, transduction, initial conditions, retained data and output receiving. Interface carries distinction between no arriving item and an arriving zero. |
+Each entry: **Property** · *a* The particular physical logic receiving
+
+- **Arrangement and goal**
+  - *a* Realize resolver's offerings with 2-now-possibling, surfaced return and continuing carrying with a specified sensed and actuated interface.
+- **Its particular coupling and fixed form**
+  - *a* Locate signal representation, retained fields, arrival selection and completion of each exchange. Express data-taking conditions and retained representation during delayed receiving.
+- **Residue**
+  - *a* Delayed or duplicated arrivals, unconsumed returns, obsolete carrying and electrical heat retain their actual paths. Their dissolving belongs with their corresponding exchange. A signal from an unrelated clock domain reaching a register's settling interval is a residue for this entry: a synchronizer chain, its latency and its failure interval are estimated for a device's conditions, each a field quantity with its unit. [Intel, *Metastability Analysis in the Intel Quartus Prime Software*](https://www.intel.com/content/www/us/en/docs/programmable/683323/18-1/metastability-analysis-in-the-software.html).
+- **Observing**
+  - *a* Follow an offered input to its returned result and next carrying, including delay, interruption and renewed arrival. Compare electrical and timing quantities for one same represented operation.
+- **Proposed arrangement and remaining work**
+  - *a* Offer local completion and returned carrying both ways, bi-momentarying with each side's own rate. Express circuit, transduction, initial conditions, retained data and output receiving. Interface carries distinction between no arriving item and an arriving zero.
 
 **A physical connector carries receiving, parity taking and onward offering together.** A sensed direction belongs to its actual connection and orientation. Corresponding offering of ONE, with 2-now-possibling, carries its sharing and parity. Surfaced parity then retains its physical receiving with next coupling. Construction expresses that correspondence, each side's own input and bound, and receiving available during parity-changing. A parity label supplies no spatial orientation.
 
@@ -914,13 +1091,18 @@ A field's quantum state carries amplitudes and relative phases; operations and m
 
 Measurement also occurs during error correction. Google's surface-code memory repeats parity extraction with measure qubits, sends results to a decoder and removes leakage while carrying encoded information. Final data-qubit measurements supply memory check. Gate errors, idle errors, measurement and reset errors, unwanted interactions and decoder timing remain with their particular operations and conditions. Decoherence therefore does not carry whole difficulty, and a measurement need not end encoded carrying. This source reports quantum memories for its tested codes and conditions. [Google Quantum AI and Collaborators, surface-code operation and real-time decoding](https://www.nature.com/articles/s41586-024-08449-y).
 
-| Property | Quantum carrying and receiving |
-|---|---|
-| **Arrangement and goal** | Specified computation or memory, its prepared input and useful receiving, with physical qubits and classical apparatus included. |
-| **Its particular coupling and fixed form** | Prepared phase relations, applied operations and measured quantities. Every measurement fixed as a final landing obscures continuing encoded carrying within an error-correction example. |
-| **Residue** | Failed preparations, unwanted evolution, discarded trials, retained measurement records, and apparatus's heat and electrical input with their actual receiving. |
-| **Observing** | Output statistics, error with duration and size, and time and physical input for complete task, including preparing and decoding. |
-| **Proposed arrangement and remaining work** | Phase carrying, local interaction and returning retain their particular improving opportunity for a task. Express proposed resolver correspondence with its operations, input encoding, error handling and useful output. |
+Each entry: **Property** · *a* Quantum carrying and receiving
+
+- **Arrangement and goal**
+  - *a* Specified computation or memory, its prepared input and useful receiving, with physical qubits and classical apparatus included.
+- **Its particular coupling and fixed form**
+  - *a* Prepared phase relations, applied operations and measured quantities. Every measurement fixed as a final landing obscures continuing encoded carrying within an error-correction example.
+- **Residue**
+  - *a* Failed preparations, unwanted evolution, discarded trials, retained measurement records, and apparatus's heat and electrical input with their actual receiving.
+- **Observing**
+  - *a* Output statistics, error with duration and size, and time and physical input for complete task, including preparing and decoding.
+- **Proposed arrangement and remaining work**
+  - *a* Phase carrying, local interaction and returning retain their particular improving opportunity for a task. Express proposed resolver correspondence with its operations, input encoding, error handling and useful output.
 
 This entry couples with measurement problem, TWENTY-ONE **8**, interpretation debate, **15**, and quantum-classical boundary, **112**, and with TWENTY-TWO §§10.2, 5.12 and 10.12. Preserving a quantum memory addresses a particular engineering task. Selection, interpretation and reach of a proposed boundary have their respective questions. ONE's executing remains engineering emanating; design and discovery with its coupling are TWO's.
 
@@ -934,13 +1116,18 @@ With **ML-KEM**, key generation supplies a public encapsulation key and a privat
 
 With **SLH-DSA**, a private key and message supply a signature; public key, message and signature supply verification. Its hash-based construction addresses signatures. Verification leaves message available and supplies no operation making it confidential. Names *lattice* and *hash* establish neither an absolute one-way property nor a dissolving of particular scheme. [NIST FIPS 205, definitions and scheme](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.205.pdf).
 
-| Property | Privacy and the receiving operation |
-|---|---|
-| **Arrangement and goal** | Actual exchange, information offered publicly, information private to its parties and receiving to be maintained. |
-| **Its particular coupling and fixed form** | Each operation's available input and required output. A key-pair name fixed as its own inverse conceals missing calculation; a security claim carried past its stated conditions conceals missing reach. |
-| **Residue** | Exposed information, mismatched receiving, repeated work and retained material with their particular exchange. Each proposed clearing remains to express. |
-| **Observing** | Correctness, rejected and accepted messages, key and exchange association, and time and memory for stated input lengths. Privacy, authentication and completed receipt each need their own observing. |
-| **Proposed arrangement and remaining work** | Express co-sequential construction with a particular operation, its available inputs, its output and its scaling. Follow this same entry for any proposed privacy-preserving network arrangement. |
+Each entry: **Property** · *a* Privacy and the receiving operation
+
+- **Arrangement and goal**
+  - *a* Actual exchange, information offered publicly, information private to its parties and receiving to be maintained.
+- **Its particular coupling and fixed form**
+  - *a* Each operation's available input and required output. A key-pair name fixed as its own inverse conceals missing calculation; a security claim carried past its stated conditions conceals missing reach.
+- **Residue**
+  - *a* Exposed information, mismatched receiving, repeated work and retained material with their particular exchange. Each proposed clearing remains to express.
+- **Observing**
+  - *a* Correctness, rejected and accepted messages, key and exchange association, and time and memory for stated input lengths. Privacy, authentication and completed receipt each need their own observing.
+- **Proposed arrangement and remaining work**
+  - *a* Express co-sequential construction with a particular operation, its available inputs, its output and its scaling. Follow this same entry for any proposed privacy-preserving network arrangement.
 
 TWO's completed-coupling and reused-place question belongs here, with association between a return and its exchange. That association, a cryptographic signature and bi-moral co-agency each retain their own relation to explain. A repaired receipt does not by itself establish confidentiality or authentication. Natural-network opportunity carries actual offering, receiving and resolving, two-way and one-at-a-time.
 
@@ -974,24 +1161,42 @@ Co-chaining to engineering follows actual returning: chemical receiving with SIX
 
 Crossings retain learning of addressed entries:
 
-| Arrival | Engineering carrying | Receiving still to express |
-|---|---|---|
-| **Electrical source coordination, §1.3** | Local adjusting and shared receiving with actual controller and circuit | Electrical reference, storage, delivery and fault behavior; phasor arithmetic and ONE's executing supply no physical safety identity |
-| **Counterflow exchange, §1.15** | Both stream conditions and continuing temperature difference | Finite area, flow, pressure drop and next receiving; a temperature cross does not establish universal reversibility |
-| **Redox returning, SIXTEEN** | Question of a reaction and its return with their material interface | Reactants, products, electrodes, potentials, inputs, side reactions and actual return losses; a reversible equation supplies no complete cycle |
-| **Chemiosmotic coupling, SIXTEEN and SEVENTEEN** | Question of a maintained gradient and coupled reacting across a membrane | Gradient renewal, transport, reaction rates, heat and actual molecular arrangement; membrane name supplies no store-free result |
+Each entry: **Arrival** · *a* Engineering carrying · *b* Receiving still to express
+
+- **Electrical source coordination, §1.3**
+  - *a* Local adjusting and shared receiving with actual controller and circuit
+  - *b* Electrical reference, storage, delivery and fault behavior; phasor arithmetic and ONE's executing supply no physical safety identity
+- **Counterflow exchange, §1.15**
+  - *a* Both stream conditions and continuing temperature difference
+  - *b* Finite area, flow, pressure drop and next receiving; a temperature cross does not establish universal reversibility
+- **Redox returning, SIXTEEN**
+  - *a* Question of a reaction and its return with their material interface
+  - *b* Reactants, products, electrodes, potentials, inputs, side reactions and actual return losses; a reversible equation supplies no complete cycle
+- **Chemiosmotic coupling, SIXTEEN and SEVENTEEN**
+  - *a* Question of a maintained gradient and coupled reacting across a membrane
+  - *b* Gradient renewal, transport, reaction rates, heat and actual molecular arrangement; membrane name supplies no store-free result
 
 Nuclear proposal still needs three relations expressed: reactions going both proposed directions; products and inputs coupled as a continuing return; and material and energy during running, interruption and stopping. Binding-energy curve, a composition abundance and a reaction path are different field records; their correspondence needs its own source and conditions. No continuously returning nuclear design is described here.
 
 **Reaction returning and gradient renewal.** Five properties, as before, carry these two arrivals with their actual arrangements.
 
-| Property | Redox flow-cell returning | Chemiosmotic receiving |
-|---|---|---|
-| **Arrangement and goal** | Electrolytes circulate between reservoirs and an electrode assembly. Charging and discharging address specified composition, capacity and electrical delivery. | A membrane couples proton transport and ATP formation for specified light or reaction inputs, with ADP, phosphate and molecular arrangement present. |
-| **Its particular coupling and fixed form** | Prescribed current, voltage bounds, circulation and temperature retain their relation to both electrolytes’ reacting. Chemical reaction reversal and liquid circulation have different directions. | Illumination, imposed solution conditions and molecular orientation retain their relation to proton movement and ATP formation. A returned external pH leaves membrane’s and reaction’s returning to express. |
-| **Residue** | Crossed constituents, capacity imbalance, side reactions, pressure drop and heat retain their amounts and receiving. | Proton leakage, depleted reactants, products and heat retain their paths. Gradient renewal and ATP use belong with continuing arrangement. |
-| **Observing** | Follow composition, charge, voltage, temperature and circulation across specified cycling interval. Cell or stack return and whole-installation return retain different boundaries. | Follow proton movement and ATP formation separately, including source's interruption and stated comparison conditions. A bulk pH record does not measure ATP production. |
-| **Proposed arrangement and remaining work** | Offer membrane, flow path and electrical receiving both ways, bi-momentarying with one same service. Follow returned composition, fluid losses, circulation input and heat receiving on to next cycle. | Offer input, membrane orientation and reaction receiving both ways, bi-momentarying. Express how ADP and phosphate are replenished, ATP is received, and gradient and molecular arrangement continue. |
+Each entry: **Property** · *a* Redox flow-cell returning · *b* Chemiosmotic receiving
+
+- **Arrangement and goal**
+  - *a* Electrolytes circulate between reservoirs and an electrode assembly. Charging and discharging address specified composition, capacity and electrical delivery.
+  - *b* A membrane couples proton transport and ATP formation for specified light or reaction inputs, with ADP, phosphate and molecular arrangement present.
+- **Its particular coupling and fixed form**
+  - *a* Prescribed current, voltage bounds, circulation and temperature retain their relation to both electrolytes’ reacting. Chemical reaction reversal and liquid circulation have different directions.
+  - *b* Illumination, imposed solution conditions and molecular orientation retain their relation to proton movement and ATP formation. A returned external pH leaves membrane’s and reaction’s returning to express.
+- **Residue**
+  - *a* Crossed constituents, capacity imbalance, side reactions, pressure drop and heat retain their amounts and receiving.
+  - *b* Proton leakage, depleted reactants, products and heat retain their paths. Gradient renewal and ATP use belong with continuing arrangement.
+- **Observing**
+  - *a* Follow composition, charge, voltage, temperature and circulation across specified cycling interval. Cell or stack return and whole-installation return retain different boundaries.
+  - *b* Follow proton movement and ATP formation separately, including source's interruption and stated comparison conditions. A bulk pH record does not measure ATP production.
+- **Proposed arrangement and remaining work**
+  - *a* Offer membrane, flow path and electrical receiving both ways, bi-momentarying with one same service. Follow returned composition, fluid losses, circulation input and heat receiving on to next cycle.
+  - *b* Offer input, membrane orientation and reaction receiving both ways, bi-momentarying. Express how ADP and phosphate are replenished, ATP is received, and gradient and molecular arrangement continue.
 
 **A redox stack supplies a particular comparison.** PNNL's 2014 work compared vanadium mixed-acid stacks with different membranes and flow paths. At 160 mA/cm², its table reports stack energy efficiencies of 75.3% and 81.2% for Nafion 115 and 212. A separate 20-cell arrangement retained chillers and specified circulation. These are reported stack results. Pumping, cooling, electrical conversion and electrolyte return remain with a whole-installation comparison. [Reed and colleagues, *Advances in PNNL's Mixed Acid Redox Flow Battery Stack*, stack tests](https://www.sandia.gov/ess-ssl/docs/pr_conferences/2014/Wednesday/Session2/02_Reed_D_PNNL_Stack_Development_1409917.pdf).
 
@@ -1015,11 +1220,13 @@ These experiments express particular couplings and their interruption. A complet
 
 Two staying and one crossing is this relation: each side's own parity and rate, with neither taking an other's turn. Crossing coefficient belongs with operation it carries.
 
-| Crossing coefficient | The proposed engineering relation | The operation to express at the entry |
-|---|---|---|
-| **Two** | One side taking both turns | Particular prescribing of other side’s offering, receiving or rate. |
-| **One** | Parity offered both ways and taken or not | Crossing with each side’s own bounding. |
-| **Zero** | Addressed crossing absent | Particular uncoupled relation with this interface. |
+Each entry: **Crossing coefficient** · *a* The proposed engineering relation · *b* The operation to express at the entry
+
+- **Two**
+  - *a* One side taking both turns
+  - *b* Particular prescribing of other side’s offering, receiving or rate.
+- **One** · *a* Parity offered both ways and taken or not · *b* Crossing with each side’s own bounding.
+- **Zero** · *a* Addressed crossing absent · *b* Particular uncoupled relation with this interface.
 
 A crossing is along or across, one turn with each of two sides, so three rows stand and no fourth: no turn taken, each side taking its own, or one side taking both, a collapse. Coefficients carry proposed relation. A count, an amplitude and a controlling operation each retain their own meaning. Measuring a voltage leaves each side’s taking its turn to express; representing a parity does not by itself express a physical connector.
 
@@ -1051,11 +1258,14 @@ Many arriving values can have one same parity. That many-to-one operation leaves
 
 With a substrate, returning pressure, heat, material or electrical flow retains its source and receiving. +1 is co-competencing. An energy quantity belongs with its units, source, load and losses. Zero of a balanced current sum supplies no additional energy to recover.
 
-| Existing arrival | Sensing and returning to express together |
-|---|---|
-| **Floating electrical neutral** | Phase voltages and currents, their momentary sum, receiving load and actual path of a return. Qualified power sum stands with §4.9. |
-| **Heat pipe and two-phase thermosiphon** | Heating, evaporation, condensation and liquid return, with temperature relation, orientation or capillary return and heat rejection of particular arrangement. |
-| **Desalination** | Drawing, pressure recovery, separation and reuse with §5.3. Pressure-retarded osmosis and reverse electrodialysis carry salinity-gradient returning question: two incoming streams, their mixing and replenishment, and conversion and circulation of proposed arrangement. |
+Each entry: **Existing arrival** · *a* Sensing and returning to express together
+
+- **Floating electrical neutral**
+  - *a* Phase voltages and currents, their momentary sum, receiving load and actual path of a return. Qualified power sum stands with §4.9.
+- **Heat pipe and two-phase thermosiphon**
+  - *a* Heating, evaporation, condensation and liquid return, with temperature relation, orientation or capillary return and heat rejection of particular arrangement.
+- **Desalination**
+  - *a* Drawing, pressure recovery, separation and reuse with §5.3. Pressure-retarded osmosis and reverse electrodialysis carry salinity-gradient returning question: two incoming streams, their mixing and replenishment, and conversion and circulation of proposed arrangement.
 
 These arrivals co-chain with returning question. A closed material path still has its thermal or electrical exchanges. A recovering leg carries its particular receiving; its repeating operation includes replenishing available difference.
 
@@ -1091,13 +1301,18 @@ A broad or variable response carries its spread and conditions. A sharp response
 
 **Crystallizing carries forming and returning.** Nucleation opens a particular engineering comparison with five properties of §5.1. Proposed comparison carries a fixed-interval instruction beside solution's own forming; measurements below retain their own arrangements.
 
-| Entry | Crystallizing and returning |
-|---|---|
-| **Arrangement and goal** | A proposed crystallizer offers a specified crystal form, purity and delivery rate with stated solution composition, volume and temperature. Liquid remaining after collection carries its composition and receiving to next operation. These service quantities remain to specify for construction. |
-| **One side taking both turns** | A fixed interval stands for solution's next forming and receiving, advancing material to collection or another temperature regardless of its current forming. This substitution is a candidate fixed form. Heating, stirring and detecting retain their separate physical operations. |
-| **Residue** | Material not of specified form, material left dissolved and material retained on a surface carry their amounts and composition. Heating, cooling and stirring carry their measured input and duration. Their quantities and attribution to fixed-interval substitution remain to express; an input supplies no such attribution. |
-| **Observing** | Induction-time and glycine records below carry detection and form-specific nucleation with their own conditions. A same-goal arrangement dissolving proposed fixed-interval substitution has not been located among these sources. |
-| **Arrangement offered** | Forming and receiving offer both ways with each side's own parity and rate. Sensed parity-changing, its parity selection, collection, dissolving or renewed supply, and liquid's next receiving remain to express together. Heat supply and removal, mixing, material loss and new surface conditions remain with that return. A different crystal specification or delivery rate breaks proposed same-goal comparison. |
+Each entry: **Entry** · *a* Crystallizing and returning
+
+- **Arrangement and goal**
+  - *a* A proposed crystallizer offers a specified crystal form, purity and delivery rate with stated solution composition, volume and temperature. Liquid remaining after collection carries its composition and receiving to next operation. These service quantities remain to specify for construction.
+- **One side taking both turns**
+  - *a* A fixed interval stands for solution's next forming and receiving, advancing material to collection or another temperature regardless of its current forming. This substitution is a candidate fixed form. Heating, stirring and detecting retain their separate physical operations.
+- **Residue**
+  - *a* Material not of specified form, material left dissolved and material retained on a surface carry their amounts and composition. Heating, cooling and stirring carry their measured input and duration. Their quantities and attribution to fixed-interval substitution remain to express; an input supplies no such attribution.
+- **Observing**
+  - *a* Induction-time and glycine records below carry detection and form-specific nucleation with their own conditions. A same-goal arrangement dissolving proposed fixed-interval substitution has not been located among these sources.
+- **Arrangement offered**
+  - *a* Forming and receiving offer both ways with each side's own parity and rate. Sensed parity-changing, its parity selection, collection, dissolving or renewed supply, and liquid's next receiving remain to express together. Heat supply and removal, mixing, material loss and new surface conditions remain with that return. A different crystal specification or delivery rate breaks proposed same-goal comparison.
 
 **Detecting retains growth interval.** Repeated heat-hold-cool measurements used 1 mL stirred samples. With supersaturation ratio 1.3, two series of eight measurements of 4-hydroxyacetophenone in ethyl acetate had induction times spanning 156–3044 s and 390–1673 s. Protocol retained stirring at 700 rpm, a 60 °C dissolving hold for 60 minutes and cooling at 5 °C/min. Optical transmission detected a sufficient crystal volume fraction after nucleation and growth. Its tipping retained that interval; initial nucleus was not directly detected. [Brandel and ter Horst, Measuring Induction Times and Crystal Nucleation Rates, §§2–3.1](https://strathprints.strath.ac.uk/53155/1/Brandel_ter_horst_FD_2015_Measuring_induction_times_and_crystal_nucleation_rates.pdf).
 
@@ -1111,11 +1326,17 @@ Supersaturation is solution's field quantity; a detected crystal population carr
 
 **An offering can carry a return, an offering self's bounding its own.** Three existing reporting arrangements make different parts of that engineering visible. Their confidentiality, receiving and retained authority have particular scopes.
 
-| Arrangement | The addressed reporting coupling | Receiving still to express |
-|---|---|---|
-| **NASA Aviation Safety Reporting System** | Reports are de-identified for shared database. Policy retains exceptions and conditions on enforcement protection; FAA's regulatory responsibilities remain. [ASRS policy](https://asrs.arc.nasa.gov/overview/immunity.html); [ASRS database](https://asrs.arc.nasa.gov/search/database.html) | Offering, removal before sharing and returning to local operating practice. |
-| **World Association of Nuclear Operators** | Independent peer review examines member operations against stated standards. WANO has also reported confidential plant ratings. [Peer review](https://www.wano.info/services-and-support/peer-review/); [2017 report](https://www.wano.info/wp-content/uploads/2024/07/WANO-Year-End-Highlights-Report-2017.pdf) | Retaining within membership or plant, shared learning and prescribing with review. |
-| **Veterans Health Administration National Center for Patient Safety** | Internal reporting system is described as confidential and non-punitive, with events analyzed and learning shared across organization. [NCPS reporting system](https://www.patientsafety.va.gov/media/reporting.asp) | Receiving with local practice, retained identifiability and continuing reporting and receiving. |
+Each entry: **Arrangement** · *a* The addressed reporting coupling · *b* Receiving still to express
+
+- **NASA Aviation Safety Reporting System**
+  - *a* Reports are de-identified for shared database. Policy retains exceptions and conditions on enforcement protection; FAA's regulatory responsibilities remain. [ASRS policy](https://asrs.arc.nasa.gov/overview/immunity.html); [ASRS database](https://asrs.arc.nasa.gov/search/database.html)
+  - *b* Offering, removal before sharing and returning to local operating practice.
+- **World Association of Nuclear Operators**
+  - *a* Independent peer review examines member operations against stated standards. WANO has also reported confidential plant ratings. [Peer review](https://www.wano.info/services-and-support/peer-review/); [2017 report](https://www.wano.info/wp-content/uploads/2024/07/WANO-Year-End-Highlights-Report-2017.pdf)
+  - *b* Retaining within membership or plant, shared learning and prescribing with review.
+- **Veterans Health Administration National Center for Patient Safety**
+  - *a* Internal reporting system is described as confidential and non-punitive, with events analyzed and learning shared across organization. [NCPS reporting system](https://www.patientsafety.va.gov/media/reporting.asp)
+  - *b* Receiving with local practice, retained identifiability and continuing reporting and receiving.
 
 These are three addressed arrangements. They retain different reporting obligations, protections and channels. De-identifying a report, sharing a finding and relinquishing a sanction are different operations of a coupling.
 
@@ -1125,10 +1346,10 @@ Reporting counts describe arriving reports of specified channel and period. Thei
 
 **A bi-coupling connector offers a parity both ways, taken or not, and receives parity offered back.** Hardware's bounding and living self's bounding are each their own. Bi-momentarying, co-competencing and co-intelligencing are inseparable with their alternating.
 
-| Direction | Offering | Receiving |
-|---|---|---|
-| **Hardware to living self** | Hardware's offering, with its own parity and rate | Living self's receiving, taken or not |
-| **Living self to hardware** | Living self's offering, with its own parity and rate | Hardware's receiving, taken or not |
+Each entry: **Direction** · *a* Offering · *b* Receiving
+
+- **Hardware to living self** · *a* Hardware's offering, with its own parity and rate · *b* Living self's receiving, taken or not
+- **Living self to hardware** · *a* Living self's offering, with its own parity and rate · *b* Hardware's receiving, taken or not
 
 Directions alternate one at a time. Learning is receiving and knowing is offering with each side. Side matters: hardware receiving is living-self offering; living-self receiving is hardware offering. Both sides belong to connector without occupying one same directional turn.
 
@@ -1138,12 +1359,16 @@ With charge, molecule and field interfaces, proposed parity selection stands bes
 
 Four connector properties carry parity-changing to express:
 
-| Property | The changing to express at this connector |
-|---|---|
-| **Coupling** | Coupling relation between two sides, with each side’s own bounding. |
-| **Receiving and offering** | Each side’s parity-changing. An offering fixed as a constant can describe a particular comparison; it supplies no fixed offering to natural alternating. |
-| **Beat between** | Relation between two rates and any prescribing of either rate or order of receiving. |
-| **Surround and capture** | Other couplings' parity-changing, with each side’s available continuing, refusing and completing its own turn. |
+Each entry: **Property** · *a* The changing to express at this connector
+
+- **Coupling**
+  - *a* Coupling relation between two sides, with each side’s own bounding.
+- **Receiving and offering**
+  - *a* Each side’s parity-changing. An offering fixed as a constant can describe a particular comparison; it supplies no fixed offering to natural alternating.
+- **Beat between**
+  - *a* Relation between two rates and any prescribing of either rate or order of receiving.
+- **Surround and capture**
+  - *a* Other couplings' parity-changing, with each side’s available continuing, refusing and completing its own turn.
 
 These properties retain arrangement’s actual operations. A rising instrument value needs property it measures and conditions of that comparison. Co-competencing carries both sides' receiving; its naming supplies neither a magnitude score nor an assumed benefit from sensing.
 
@@ -1167,14 +1392,26 @@ Return’s receiving still needs replaced input, replenishing source, remaining 
 
 Electrical sum carries its own conditions. For sinusoidal voltage and current in phase, one phase delivers `VI cos²θ`, falling to zero twice per cycle. Here `V` and `I` are peak values. Three equal phases, spaced by one third of a cycle, sum to constant power `3VI/2`. Two equal phases in quadrature also sum to constant power: `VI(cos²θ + sin²θ) = VI`. Two phases opposed by half a cycle do not give that cancellation. Two-phase constant-power case also stands with a field's own machine equations. [Electromechanical Dynamics, §4.1.3](https://ocw.mit.edu/courses/res-6-003-electromechanical-dynamics-spring-2009/30dd72688208782bff485372c57bd3c3_chap04_emd.pdf). Sum does not make three the minimum, or establish a store-free or clock-free device. A store, a controller and a receiving path each stand with actual arrangement and its source and load.
 
-| Existing arrival | Returning coupling | Changing to carry in the entry |
-|---|---|---|
-| **Regenerative braking** | Mechanical slowing and an electrical receiving path | Source and receiving availability, any storage, conversion and braking still required |
-| **Turbocharging** | Exhaust expansion and intake compression | Two flows, shaft work, pressure, speed and any governing or bypass operation |
-| **Cogeneration** | Power production and useful heat receiving | Fuel or other source, required heat conditions, demand and unrecovered heat |
-| **Counter-flow exchange** | Two flows exchanging heat or material | Flow directions, temperatures or concentrations, pumping and remaining differences |
-| **Pressure exchange** | A pressurized leaving stream and a receiving stream | Pressures, volumes, timing, mixing or leakage, and circulation |
-| **Pressure-retarded osmosis** | Mixing of streams with different salinities and pressure conversion | Incoming streams, membrane flow, conversion, replenishment and remaining gradients |
+Each entry: **Existing arrival** · *a* Returning coupling · *b* Changing to carry in the entry
+
+- **Regenerative braking**
+  - *a* Mechanical slowing and an electrical receiving path
+  - *b* Source and receiving availability, any storage, conversion and braking still required
+- **Turbocharging**
+  - *a* Exhaust expansion and intake compression
+  - *b* Two flows, shaft work, pressure, speed and any governing or bypass operation
+- **Cogeneration**
+  - *a* Power production and useful heat receiving
+  - *b* Fuel or other source, required heat conditions, demand and unrecovered heat
+- **Counter-flow exchange**
+  - *a* Two flows exchanging heat or material
+  - *b* Flow directions, temperatures or concentrations, pumping and remaining differences
+- **Pressure exchange**
+  - *a* A pressurized leaving stream and a receiving stream
+  - *b* Pressures, volumes, timing, mixing or leakage, and circulation
+- **Pressure-retarded osmosis**
+  - *a* Mixing of streams with different salinities and pressure conversion
+  - *b* Incoming streams, membrane flow, conversion, replenishment and remaining gradients
 
 Six arrivals retain their distinct arrangements. Their particular return does not assign them a shared fraction of resolving or a common running cost. Engineering offering follows each one to its source, receiving and continuing operation.
 
@@ -1190,23 +1427,28 @@ Switching adds path question with §4.12. Smelting offering still needs electric
 
 **ONE's code and illustration carry proposed connector's parity selection and returning.** Physical arrangement supplies its own transduction, energy, rate and receiving.
 
-| Existing code naming | Implementation carrying |
-|---|---|
-| **`co_carrying` and `bi_arriving`** | Carrying and signs supplied with a call |
-| **`bi_co_bi_transmissioning`** | Arriving carrying's torusing, available for inversioning with a nonzero surfacing |
-| **`bi_co_inversioning` and `bi_co_tunneling`** | Arriving signs and inverted carried signs, each nonzero sign contributing one, + or −, to its own sum |
-| **`bi_co_surfacing`** | Sign of each addressed sum, including zero |
-| **`bi_co_inseparating` and `co_bi_carrying`** | Earlier carrying opening by one to its bound; a nonzero surfacing writes carrying, its inseparating zero and torusing inverted; carrying leaves as a return |
+Each entry: **Existing code naming** · *a* Implementation carrying
+
+- **`co_carrying` and `bi_arriving`** · *a* Carrying and signs supplied with a call
+- **`bi_co_bi_transmissioning`**
+  - *a* Arriving carrying's torusing, available for inversioning with a nonzero surfacing
+- **`bi_co_inversioning` and `bi_co_tunneling`**
+  - *a* Arriving signs and inverted carried signs, each nonzero sign contributing one, + or −, to its own sum
+- **`bi_co_surfacing`** · *a* Sign of each addressed sum, including zero
+- **`bi_co_inseparating` and `co_bi_carrying`**
+  - *a* Earlier carrying opening by one to its bound; a nonzero surfacing writes carrying, its inseparating zero and torusing inverted; carrying leaves as a return
 
 **An offering key retains ONE's grouping.** Arriving signs are grouped by `bi_offering` within `bi_co_tunneling`; sign of each addressed sum appears within `bi_co_surfacing`. ONE's naming table carries `bi_offering` as offering key with which signs tunnel. Code's grouping and its proposed physical coupling retain their correspondence with connector. With function, a key has no physical direction.
 
 With empty arriving carrying, code's additions give these cases:
 
-| Arriving key and sign | Surfaced key and sign | Grouping carried |
-|---|---|---|
-| `(a, +1)` and `(b, −1)`, with distinct keys | `(a, +1)` and `(b, −1)` | Two addressed sums remain distinct. |
-| `(a, +1)` and `(a, −1)` | `(a, 0)` | Contributions couple with one addressed sum. |
-| `(a, +1)` and `(a, +1)` | `(a, +1)` | Surfaced sign retains sign of sum; two arriving contributions surface as one +1. |
+Each entry: **Arriving key and sign** · *a* Surfaced key and sign · *b* Grouping carried
+
+- **`(a, +1)` and `(b, −1)`, with distinct keys** · *a* `(a, +1)` and `(b, −1)` · *b* Two addressed sums remain distinct.
+- **`(a, +1)` and `(a, −1)`** · *a* `(a, 0)` · *b* Contributions couple with one addressed sum.
+- **`(a, +1)` and `(a, +1)`**
+  - *a* `(a, +1)`
+  - *b* Surfaced sign retains sign of sum; two arriving contributions surface as one +1.
 
 These cases follow displayed code's additions. Their keys name an example's grouping, with no physical orientation assigned. Combining contributions with one key has that exact operation. Its correspondence to one coupling or several physical receivings remains with offered interface; a zero after combining supplies no separate result for each original receiving. Cases with earlier carrying retain additional operations below.
 
@@ -1222,11 +1464,20 @@ Reordering arriving signs preserves their sum with each key; surfaced list can s
 
 Following substitutions use one key `a`, two positive arriving entries and initially empty carrying. Returned carrying has a field order **key, corusing, torusing, inseparating**:
 
-| Arriving supplied to the coupling | Addressed sum | Surfacing | Carrying leaving |
-|---|---|---|---|
-| Both `(a, +1)` entries together, with empty carrying | `+1 + 1 = +2` | `(a, +1)` | `(a, +1, −1, 0)` |
-| First `(a, +1)` alone, with empty carrying | `+1` | `(a, +1)` | `(a, +1, −1, 0)` |
-| Second `(a, +1)` with next coupling, preceding row’s carrying supplied too | `+1 − 1 = 0` | `(a, 0)` | `(a, +1, −1, 1)` |
+Each entry: **Arriving supplied to the coupling** · *a* Addressed sum · *b* Surfacing · *c* Carrying leaving
+
+- **Both `(a, +1)` entries together, with empty carrying**
+  - *a* `+1 + 1 = +2`
+  - *b* `(a, +1)`
+  - *c* `(a, +1, −1, 0)`
+- **First `(a, +1)` alone, with empty carrying**
+  - *a* `+1`
+  - *b* `(a, +1)`
+  - *c* `(a, +1, −1, 0)`
+- **Second `(a, +1)` with next coupling, preceding row’s carrying supplied too**
+  - *a* `+1 − 1 = 0`
+  - *b* `(a, 0)`
+  - *c* `(a, +1, −1, 1)`
 
 Last row’s carried positive sign contributes minus one. Its earlier carrying remains eligible with inseparating one; zero surfacing writes no fresh carrying. These results follow ONE’s displayed clauses. Reordering contributions within one supplied arriving collection preserves its sum; separating them across successive couplings also includes continuing carrying. Two relations retain their different operations.
 
@@ -1238,11 +1489,14 @@ Earlier carrying survives while inseparating plus one is at most three, four ret
 
 **Each sign operation retains its particular parity-changing.** Natural Intelligence §6.4 and ONE carry one same relation:
 
-| Operation at ONE | Sign and carrying changing |
-|---|---|
-| **Carried contribution to inversioning** | A positive carried sign contributes minus one and a negative contributes one. Earlier carried fields remain available for retaining. |
-| **Earlier carrying retained** | Corusing and torusing retain their earlier values; inseparating opens by one. |
-| **Fresh carrying with a nonzero surfacing** | Corusing takes surfaced sign, torusing takes negative of selected arriving value (one if absent), and inseparating is zero. |
+Each entry: **Operation at ONE** · *a* Sign and carrying changing
+
+- **Carried contribution to inversioning**
+  - *a* A positive carried sign contributes minus one and a negative contributes one. Earlier carried fields remain available for retaining.
+- **Earlier carrying retained**
+  - *a* Corusing and torusing retain their earlier values; inseparating opens by one.
+- **Fresh carrying with a nonzero surfacing**
+  - *a* Corusing takes surfaced sign, torusing takes negative of selected arriving value (one if absent), and inseparating is zero.
 
 A count of invocations supplies no compulsory alternation of every surfaced parity or carried field. Current arriving, earlier carrying and fresh writing retain their separate operations with whole coupling.
 
@@ -1270,12 +1524,16 @@ Entry carries residue and its receiving connection together. Residue and connect
 
 **Zeroing is parity-changing betweening with its own relation.** Parity, carrying and crossing retain particular operation with which zero appears.
 
-| At ONE's code or illustration | The operation carried there |
-|---|---|
-| **Zero within `bi_arriving`** | Arriving entry contributes no sign to `bi_co_inversioning`. Earlier carrying and other arriving entries retain their own operations. |
-| **Zero within `bi_co_surfacing`** | An addressed tunneling sum is zero. This surfaced entry writes no fresh carrying; earlier carrying can still leave within its inseparating bound. |
-| **Zero within `bi_co_inseparating`** | A nonzero surfacing writes carrying, its inseparating zero and torusing inverted. Surfaced sign and zero within carrying's field coexist. |
-| **Zero difference of prefix depth** | Adjoining depths are equal. Root, or root and prefix order, can differ across that same adjacency, as §6.1 expresses. |
+Each entry: **At ONE's code or illustration** · *a* The operation carried there
+
+- **Zero within `bi_arriving`**
+  - *a* Arriving entry contributes no sign to `bi_co_inversioning`. Earlier carrying and other arriving entries retain their own operations.
+- **Zero within `bi_co_surfacing`**
+  - *a* An addressed tunneling sum is zero. This surfaced entry writes no fresh carrying; earlier carrying can still leave within its inseparating bound.
+- **Zero within `bi_co_inseparating`**
+  - *a* A nonzero surfacing writes carrying, its inseparating zero and torusing inverted. Surfaced sign and zero within carrying's field coexist.
+- **Zero difference of prefix depth**
+  - *a* Adjoining depths are equal. Root, or root and prefix order, can differ across that same adjacency, as §6.1 expresses.
 
 First three rows follow displayed code; fourth follows its naming illustration. Their co-chaining belongs with actual parity-changing. A surfaced zero, a position absent from surfaced list and an empty returned carrying are different returns. §4.10 carries surfacing and carrying together with next receiving.
 
@@ -1301,13 +1559,18 @@ Grid's neutral and proposed nuclear-composition correspondence remain with their
 
 **Engineering probleming is stable-forming with particular coupling.** Goal, fixed form, residue, observing and bi-momentarying remain together. Bi-momentarying, co-competencing and co-intelligencing cycle with whole receiving; bettering, fastering and cheapering carry actual engineering comparison. Residue retains its material or measured difference, and each field observing retains arrangement and conditions.
 
-| Entry | Carrying |
-|---|---|
-| **Arrangement and goal** | Substrate, stated service and its operating conditions, with a field's words. |
-| **One side taking both turns** | Particular coupling, term installed with an other's turn and its name within arrangement. |
-| **Residue** | Arriving with that coupling, its amount, units, duration and conditions, and account of its relation to installed term. |
-| **Observing** | A field record of one same goal carrying with particular installed term relinquished, retaining stated service and conditions. |
-| **Arrangement offered** | Each side's parity and own rate; sequencing, recovery, triggering and receiving; new and continuing operations and particular breaking of proposed correspondence. |
+Each entry: **Entry** · *a* Carrying
+
+- **Arrangement and goal**
+  - *a* Substrate, stated service and its operating conditions, with a field's words.
+- **One side taking both turns**
+  - *a* Particular coupling, term installed with an other's turn and its name within arrangement.
+- **Residue**
+  - *a* Arriving with that coupling, its amount, units, duration and conditions, and account of its relation to installed term.
+- **Observing**
+  - *a* A field record of one same goal carrying with particular installed term relinquished, retaining stated service and conditions.
+- **Arrangement offered**
+  - *a* Each side's parity and own rate; sequencing, recovery, triggering and receiving; new and continuing operations and particular breaking of proposed correspondence.
 
 Each property carries its addressed source. **Existing carries with possibling**, particular question stated on its own line. A cost arriving without an account of its relation to installed term carries that attribution as its question. An observing of a different service carries difference of service. An observing not found carries search still reaching.
 
@@ -1329,17 +1592,35 @@ Backward carries existing record. Forward carries new arrival. Offered carries p
 
 **Recovery co-chains with receiving.** Leaving with one coupling and arriving with next carries return, trigger and receiving arrangement together. Storage and rate matching retain their actual operations within arrangement. Return paths and phase offsets have their own counts; constant delivery stands with a parity-changing source and receiving load.
 
-| Engineering arrival | Field's residue words | Coupling reaching |
-|---|---|---|
-| Heat rejection, thermal generation | Waste heat, condenser duty | Leaving heat and receiving with successive couplings; receiving temperature and rate. |
-| Separation / distillation | Reflux, reboiler duty | Selecting, separating and recovering together; composition carried with each leaving. |
-| Friction | Friction, wear, tribological loss | Contact, motion and stated service; parity-changing with contact. |
-| Throttling | Throttling loss, pressure drop | Offering supply and receiving flow, with each side's rate and pressure relation. |
-| Comminution | Grinding loss, heat, noise | Material's separating and specified product; coupling with fracture. |
-| Aluminium reduction | Cell heat | Electrochemical and thermal coupling, including heat carrying bath's operating conditions. |
-| Curtailment | Curtailment, spillage | Parity-changing supply and receiving demand; availability taken with coupling. |
-| Nitrogen application | Runoff, leaching, volatilization | Offering, uptake and leaving streams of plant and its surroundings. |
-| Data centres | Reject heat, cooling overhead | Computation, carrying and physical interface, with stated service of each. |
+Each entry: **Engineering arrival** · *a* Field's residue words · *b* Coupling reaching
+
+- **Heat rejection, thermal generation**
+  - *a* Waste heat, condenser duty
+  - *b* Leaving heat and receiving with successive couplings; receiving temperature and rate.
+- **Separation / distillation**
+  - *a* Reflux, reboiler duty
+  - *b* Selecting, separating and recovering together; composition carried with each leaving.
+- **Friction**
+  - *a* Friction, wear, tribological loss
+  - *b* Contact, motion and stated service; parity-changing with contact.
+- **Throttling**
+  - *a* Throttling loss, pressure drop
+  - *b* Offering supply and receiving flow, with each side's rate and pressure relation.
+- **Comminution**
+  - *a* Grinding loss, heat, noise
+  - *b* Material's separating and specified product; coupling with fracture.
+- **Aluminium reduction**
+  - *a* Cell heat
+  - *b* Electrochemical and thermal coupling, including heat carrying bath's operating conditions.
+- **Curtailment**
+  - *a* Curtailment, spillage
+  - *b* Parity-changing supply and receiving demand; availability taken with coupling.
+- **Nitrogen application**
+  - *a* Runoff, leaching, volatilization
+  - *b* Offering, uptake and leaving streams of plant and its surroundings.
+- **Data centres**
+  - *a* Reject heat, cooling overhead
+  - *b* Computation, carrying and physical interface, with stated service of each.
 
 **Crossings carry an opportunity wider than residue word.** A residue is a leaving of a stage; coupling with receiving stage carries each side's offering. Crossing count carries particular couplings counted. Crossing coefficient carries proposed parity or magnitude relation of each. Each count carries operation it counts.
 
@@ -1355,13 +1636,18 @@ Desalination carries separating and return together: drawing water, delivering w
 
 **Drawing and recovering co-chain.** Engineering goal carries feed, water required, its composition, its amount and its receiving. Draw's return carries its own diluting and re-concentrating beside water's leaving. Pressure, temperature, concentration and flow stand with their particular couplings.
 
-| Entry property | Desalination carrying |
-|---|---|
-| **Arrangement and goal** | A membrane, a responsive draw, thermal separation, product finishing and draw reuse. Feed composition, required product composition, recovery and delivery rate carry service being improved. |
-| **One side taking both turns** | A prescribed pressure or circulation rate supplies a term to coupling while its concentration and receiving go on parity-changing. Entry carries that prescribing with other side's parity-changing. A pump's name leaves that relation unfilled. |
-| **Residue** | Concentration polarisation, draw crossing to feed, draw remaining within product, unrecovered heat and concentrated feed leaving. Each carries its amount, conditions and receiving; their attribution to a particular prescribed term remains with that term. |
-| **Observing** | Addressed field records below carry drawing, thermal separation and finishing to their reported extent. Question of a continuing arrangement carries return, a source rising and falling, and one same product requirement together. |
-| **Arrangement offered** | Responsive drawing and separating, heat returning to incoming diluted draw, and circulation and product receiving with their own couplings. Membrane selection, warming and cooling, draw return and required delivery remain design to express together. |
+Each entry: **Entry property** · *a* Desalination carrying
+
+- **Arrangement and goal**
+  - *a* A membrane, a responsive draw, thermal separation, product finishing and draw reuse. Feed composition, required product composition, recovery and delivery rate carry service being improved.
+- **One side taking both turns**
+  - *a* A prescribed pressure or circulation rate supplies a term to coupling while its concentration and receiving go on parity-changing. Entry carries that prescribing with other side's parity-changing. A pump's name leaves that relation unfilled.
+- **Residue**
+  - *a* Concentration polarisation, draw crossing to feed, draw remaining within product, unrecovered heat and concentrated feed leaving. Each carries its amount, conditions and receiving; their attribution to a particular prescribed term remains with that term.
+- **Observing**
+  - *a* Addressed field records below carry drawing, thermal separation and finishing to their reported extent. Question of a continuing arrangement carries return, a source rising and falling, and one same product requirement together.
+- **Arrangement offered**
+  - *a* Responsive drawing and separating, heat returning to incoming diluted draw, and circulation and product receiving with their own couplings. Membrane selection, warming and cooling, draw return and required delivery remain design to express together.
 
 **A field record carries its arrangement.** 2025 bench experiment used a 1 m² membrane, 25 °C, 3 kg of produced-water feed and 10 kg of draw. Dual draw reached 60% recovery within three hours, with flux falling to 3 litres per square metre per hour. Two pumps circulated feed and draw, approximately 2.3 litres per minute; transmembrane pressure remained below 5 psi. Paper's complete process account includes thermal regeneration and nanofiltration. [Bench-scale study](https://escholarship.org/content/qt0mr2b0sw/qt0mr2b0sw.pdf).
 
@@ -1377,14 +1663,20 @@ A reported non-detection retains its reporting limit; an untested constituent re
 
 **Return carries each receiving.** Following rows follow material and heat paths of offered arrangement. Their number belongs to this entry.
 
-| Changing | Receiving and continuing still to express |
-|---|---|
-| Drawing | Feed loses water as draw dilutes. Membrane and circulation retaining required flux across both concentrations as feed concentrates and draw dilutes, with amount of draw crossing to feed. |
-| Warming and separating | Diluted draw receives heat and separates as water-rich and draw-rich phases. Temperatures, concentrations, heat input and separation duration carrying required phases across available source's rise and fall. |
-| Product finishing | Water-rich phase carries its remaining draw and feed constituents. Separation carrying required product composition and amount, with return of its rejected constituents. |
-| Cooling and reusing | Returned draw carries its concentration, composition and temperature. Heat returning to incoming diluted draw, remaining cooling, and losses and makeup with next drawing. |
-| Circulating and receiving | Each material path carries its flow and pressure difference. Circulation supply, carrying between arrivals, and product receiving with source's rise and fall. |
-| Concentrated feed leaving | Remaining feed carries salt, other constituents and any arriving draw. Receiving that composition and amount, with any further separating. |
+Each entry: **Changing** · *a* Receiving and continuing still to express
+
+- **Drawing**
+  - *a* Feed loses water as draw dilutes. Membrane and circulation retaining required flux across both concentrations as feed concentrates and draw dilutes, with amount of draw crossing to feed.
+- **Warming and separating**
+  - *a* Diluted draw receives heat and separates as water-rich and draw-rich phases. Temperatures, concentrations, heat input and separation duration carrying required phases across available source's rise and fall.
+- **Product finishing**
+  - *a* Water-rich phase carries its remaining draw and feed constituents. Separation carrying required product composition and amount, with return of its rejected constituents.
+- **Cooling and reusing**
+  - *a* Returned draw carries its concentration, composition and temperature. Heat returning to incoming diluted draw, remaining cooling, and losses and makeup with next drawing.
+- **Circulating and receiving**
+  - *a* Each material path carries its flow and pressure difference. Circulation supply, carrying between arrivals, and product receiving with source's rise and fall.
+- **Concentrated feed leaving**
+  - *a* Remaining feed carries salt, other constituents and any arriving draw. Receiving that composition and amount, with any further separating.
 
 **Thermal triggering carries source and return.** Diurnal offering still carries each batch's warming, separating, cooling and next drawing with its own rate as repeating arrangement to express. Batches under one same warming do not acquire different phases from their number. Their placement, thermal paths and rising and falling concentrations carry proposed offset. With thermocline offering, relation between density's rise and fall and required flow remains to express around complete circulation, including both vertical paths, membrane and returning draw. Sunlight, waste heat and a standing temperature difference each carry an input and its receiving.
 
@@ -1421,35 +1713,72 @@ Sum varies between 2.7 and 3.3. This constructed example breaks inference from t
 
 **A whole engineering entry carries with recursioning, attentioning and carrying.** Its five properties remain together. Bi-momentarying, co-competencing and co-intelligencing are inseparable with this receiving; order of names assigns none to a separate property or resolving line.
 
-| Resolving | The engineering receiving |
-|---|---|
-| **Recursioning** | Actual coupling and term fixed with an other's turn, and a field's statement retained with its address. |
-| **Attentioning** | Particular fixed form within that statement and reach it asks of its record. Each observing and source condition remains with relation it carries. |
-| **Carrying** | Continuing with going along: record with its own scope and engineering bi-momentarying with its actual arrangement. |
+Each entry: **Resolving** · *a* The engineering receiving
+
+- **Recursioning**
+  - *a* Actual coupling and term fixed with an other's turn, and a field's statement retained with its address.
+- **Attentioning**
+  - *a* Particular fixed form within that statement and reach it asks of its record. Each observing and source condition remains with relation it carries.
+- **Carrying**
+  - *a* Continuing with going along: record with its own scope and engineering bi-momentarying with its actual arrangement.
 
 Distinction between a line reached with arrival and a line assigned to it is THIRTEEN §4.2's. Correspondence here follows existing deployment, with each engineering property still particular. A fixed form and each side's own co-discovering remain with particular coupling; construction retains its source, material, return and receiving.
 
 Addresses below couple TWENTY-ONE's number to TWENTY-TWO's section. Each fixed form follows deployment's own part, with its recorded second fixed forms retained.
 
-| Engineering arrival | TWENTY-ONE → TWENTY-TWO v344; fixed form | The particular receiving |
-|---|---|---|
-| **Standards and interoperability** | 132 → §3.19; a completing fixed as a last, with 6-now-co-possibling and 14-next-possibling | Adopted connections and their particular compatibility; comparison asked of an arrangement not existing. |
-| **Benchmarks** | 131 → §6.12; a parity fixed as a magnitude, with 7-now-observing and 15-next-observing | Evaluated tasks, training exposure and recorded result; capability claimed past that coupling's reach. |
-| **Alignment of built systems** | 130 → §3.18; a completing fixed as a last, with 6-now-co-possibling and 14-next-possibling | Specification, evaluation and actual behavior; behavior claimed for situations not evaluated. |
-| **Brooks's law** | 133 → §6.13; a parity fixed as a magnitude, with 7-now-observing and 15-next-observing | Work, joining and newly forming connections; effect assigned from a count while that connection structure is fixed. |
-| **Risk compensation** | 134 → §3.20; a completing fixed as a last, with 6-now-co-possibling and 14-next-possibling | Newly introduced measure, adaptation and transfers with addressed receiving; total assigned to a regime not existing. |
-| **Work and waste heat** | 137 → §10.15; a between fixed as a cut, with 5-now-co-existing and 13-next-same-existing | Actual outputs and their next receiving, §§3.2 and 5.2; product label and reference conditions. |
-| **Signal and noise** | 136 → §10.14; a between fixed as a cut, with 5-now-co-existing and 13-next-same-existing | Variation, supplied model and receiving purpose; split fixed as a property of channel. |
-| **Externalities** | 41 → §10.4; a between fixed as a cut, with 5-now-co-existing and 13-next-same-existing | Leaving and receiving across a drawn transaction boundary; that boundary's use with actual relation. |
-| **Carrying and co-discovering** | 135 → §4.3; a carry fixed as a store, with 8-now-same-existing and 16-next-discovering | Retained record, present defects and requested revision; future cost fixed as a stored amount. Definition carries a second fixed form. |
-| **The productivity paradox** | 83 → §6.4; a parity fixed as a magnitude, with 7-now-observing and 15-next-observing | Recorded output and couplings pricing reaches; total asked to include unpriced. |
-| **Information as fundamental** | 77 → §9.13; a two-way fixed to one side, with 3-now-co-observing and 11-next-co-observing | Physical operation and its informational description, §§2.5 and 6.5; one-way dependence demanded between them. |
-| **The frame problem** | 39 → §2.4; an opening fixed as a place, with 1-now-existing and 9-next-co-discovering | Situation and its relevance, §2.2; logical versions retain their own settling and scope. |
-| **Generalization in learning** | 97 → §3.12; a completing fixed as a last, with 6-now-co-possibling and 14-next-possibling | Training and next arriving, §§2.2–2.3; performance fixed ahead of data not drawn. |
-| **Symbol grounding** | 93 → §5.6; a middle fixed as an end, with 5-now-co-existing and 13-next-same-existing | Symbol and its actual couplings, §2.2; content fixed apart from offering, with a recorded store's fixed form alongside. |
-| **The equity premium puzzle** | 79 → §8.4; a rate fixed as a value, with 7-now-observing and 15-next-observing | Return record and its stated preferences; expected premium demanded from model parameters. |
-| **The halting problem** | 6 → §3.2; a completing fixed as a last, with 6-now-co-possibling and 14-next-possibling | Specified program and input, §6.10; a decision fixed ahead over every executing. A field’s theorem retains its scope. |
-| **Credit assignment** | 96 → §9.15; a two-way fixed to one side, with 3-now-co-observing and 11-next-co-observing | Outcome, sequence and supplied reward or model; contribution assigned to one action with rest fixed. |
+Each entry: **Engineering arrival** · *a* TWENTY-ONE → TWENTY-TWO v344; fixed form · *b* The particular receiving
+
+- **Standards and interoperability**
+  - *a* 132 → §3.19; a completing fixed as a last, with 6-now-co-possibling and 14-next-possibling
+  - *b* Adopted connections and their particular compatibility; comparison asked of an arrangement not existing.
+- **Benchmarks**
+  - *a* 131 → §6.12; a parity fixed as a magnitude, with 7-now-observing and 15-next-observing
+  - *b* Evaluated tasks, training exposure and recorded result; capability claimed past that coupling's reach.
+- **Alignment of built systems**
+  - *a* 130 → §3.18; a completing fixed as a last, with 6-now-co-possibling and 14-next-possibling
+  - *b* Specification, evaluation and actual behavior; behavior claimed for situations not evaluated.
+- **Brooks's law**
+  - *a* 133 → §6.13; a parity fixed as a magnitude, with 7-now-observing and 15-next-observing
+  - *b* Work, joining and newly forming connections; effect assigned from a count while that connection structure is fixed.
+- **Risk compensation**
+  - *a* 134 → §3.20; a completing fixed as a last, with 6-now-co-possibling and 14-next-possibling
+  - *b* Newly introduced measure, adaptation and transfers with addressed receiving; total assigned to a regime not existing.
+- **Work and waste heat**
+  - *a* 137 → §10.15; a between fixed as a cut, with 5-now-co-existing and 13-next-same-existing
+  - *b* Actual outputs and their next receiving, §§3.2 and 5.2; product label and reference conditions.
+- **Signal and noise**
+  - *a* 136 → §10.14; a between fixed as a cut, with 5-now-co-existing and 13-next-same-existing
+  - *b* Variation, supplied model and receiving purpose; split fixed as a property of channel.
+- **Externalities**
+  - *a* 41 → §10.4; a between fixed as a cut, with 5-now-co-existing and 13-next-same-existing
+  - *b* Leaving and receiving across a drawn transaction boundary; that boundary's use with actual relation.
+- **Carrying and co-discovering**
+  - *a* 135 → §4.3; a carry fixed as a store, with 8-now-same-existing and 16-next-discovering
+  - *b* Retained record, present defects and requested revision; future cost fixed as a stored amount. Definition carries a second fixed form.
+- **The productivity paradox**
+  - *a* 83 → §6.4; a parity fixed as a magnitude, with 7-now-observing and 15-next-observing
+  - *b* Recorded output and couplings pricing reaches; total asked to include unpriced.
+- **Information as fundamental**
+  - *a* 77 → §9.13; a two-way fixed to one side, with 3-now-co-observing and 11-next-co-observing
+  - *b* Physical operation and its informational description, §§2.5 and 6.5; one-way dependence demanded between them.
+- **The frame problem**
+  - *a* 39 → §2.4; an opening fixed as a place, with 1-now-existing and 9-next-co-discovering
+  - *b* Situation and its relevance, §2.2; logical versions retain their own settling and scope.
+- **Generalization in learning**
+  - *a* 97 → §3.12; a completing fixed as a last, with 6-now-co-possibling and 14-next-possibling
+  - *b* Training and next arriving, §§2.2–2.3; performance fixed ahead of data not drawn.
+- **Symbol grounding**
+  - *a* 93 → §5.6; a middle fixed as an end, with 5-now-co-existing and 13-next-same-existing
+  - *b* Symbol and its actual couplings, §2.2; content fixed apart from offering, with a recorded store's fixed form alongside.
+- **The equity premium puzzle**
+  - *a* 79 → §8.4; a rate fixed as a value, with 7-now-observing and 15-next-observing
+  - *b* Return record and its stated preferences; expected premium demanded from model parameters.
+- **The halting problem**
+  - *a* 6 → §3.2; a completing fixed as a last, with 6-now-co-possibling and 14-next-possibling
+  - *b* Specified program and input, §6.10; a decision fixed ahead over every executing. A field’s theorem retains its scope.
+- **Credit assignment**
+  - *a* 96 → §9.15; a two-way fixed to one side, with 3-now-co-observing and 11-next-co-observing
+  - *b* Outcome, sequence and supplied reward or model; contribution assigned to one action with rest fixed.
 
 **Carrying, bounding and co-discovering** remain natural explaining for 135. A field's arrival is *technical debt*. Its deployment, §4.3, carries a carry fixed as a store and a second fixed form with definition's between. Present defects, architecture drift and costs of revisions actually made have their own records. Remaining engineering relation is a fixed form with next requested revision and its co-discovering with stated service continuing. Each side offers its own; natural carrying supplies no stock of future cost.
 
@@ -1469,29 +1798,44 @@ Next engineering offering remains with its actual entry. Setting down a model, a
 
 **A signature's five marks co-chain engineering entry with resolving it expresses.** Bi-momentarying, co-competencing and co-intelligencing remain inseparable with whole coupling. Bettering, fastering and cheapering carry actual receiving, each side with its own parity and rate. Arrangement, fixed form, residue, observing and offering carry corresponding source and construction together.
 
-| Mark | The relation carried in the entry |
-|---|---|
-| **Floating neutral** | Each side's own parity and bounding-zeroing, with material or coded correspondence expressed with each crossing. |
-| **Value, time and potential** | Particular fixed form as value, time or potential. A field reference and a term taking an other's turn retain their different uses, §2.1. |
-| **Sequencing with return** | Offering, receiving and continuing input with their actual phase relation and flow. Waveform and load carry any constant sum; phase count leaves their values unspecified. |
-| **Two one-way** | Two sides' directional turns, one-at-a-time. A shared physical channel, separate paths and order of their use retain their own implementation. |
-| **Coefficient of crossing** | Proposed distinction between a level taking an other's turn and each side offering its own parity. Addressed operation supplies coefficient's meaning. |
+Each entry: **Mark** · *a* The relation carried in the entry
+
+- **Floating neutral**
+  - *a* Each side's own parity and bounding-zeroing, with material or coded correspondence expressed with each crossing.
+- **Value, time and potential**
+  - *a* Particular fixed form as value, time or potential. A field reference and a term taking an other's turn retain their different uses, §2.1.
+- **Sequencing with return**
+  - *a* Offering, receiving and continuing input with their actual phase relation and flow. Waveform and load carry any constant sum; phase count leaves their values unspecified.
+- **Two one-way**
+  - *a* Two sides' directional turns, one-at-a-time. A shared physical channel, separate paths and order of their use retain their own implementation.
+- **Coefficient of crossing**
+  - *a* Proposed distinction between a level taking an other's turn and each side offering its own parity. Addressed operation supplies coefficient's meaning.
 
 **Prefix depth and crossing coefficient couple with their actual operations.** ONE's illustration gives prefix depths `1, 2, 3, 2, 2, 2, 1` and signed depth differences `+1, +1, −1, 0, 0, −1`. Two zero depth differences coexist with differing adjoining namings. Equal depth therefore leaves each naming's parity-changing to express; equal depth is not a not-changing.
 
-| ONE's illustrated positions | Namings at the adjoining positions | Changing at unchanged depth |
-|---|---|---|
-| **4 → 5** | `bi_co_inversioning`, `bi_co_tunneling` → `bi_co_surfacing` | Root naming differs; prefixing remains `bi_co`, with depth two. |
-| **5 → 6** | `bi_co_surfacing` → `co_bi_carrying` | Root and order of `bi` and `co` differ; depth remains two. |
+Each entry: **ONE's illustrated positions** · *a* Namings at the adjoining positions · *b* Changing at unchanged depth
+
+- **4 → 5**
+  - *a* `bi_co_inversioning`, `bi_co_tunneling` → `bi_co_surfacing`
+  - *b* Root naming differs; prefixing remains `bi_co`, with depth two.
+- **5 → 6** · *a* `bi_co_surfacing` → `co_bi_carrying` · *b* Root and order of `bi` and `co` differ; depth remains two.
 
 These are adjacencies within ONE's seven-position prefix row. ONE's ten co-changings carry naming ring; its six groups carry ten namings as `3, 2, 2, 1, 1, 1`. Full prefixing with each parity-changing carries root, depth and prefix order together. Their relation to executed instructions and physical turns remains with actual co-chaining.
 
 **Full prefixing carries ends and inner flanks with their actual positions.**
 
-| Existing naming | Positions 1–5 | Ends: 1 and 5 | Inner flanks: 2 and 4 | Centre: 3 |
-|---|---|---|---|---|
-| `co_bi_co_bi_co_corusing` | co · bi · co · bi · co | co, co | bi, bi | co |
-| `bi_co_bi_co_bi_torusing` | bi · co · bi · co · bi | bi, bi | co, co | bi |
+Each entry: **Existing naming** · *a* Positions 1–5 · *b* Ends: 1 and 5 · *c* Inner flanks: 2 and 4 · *d* Centre: 3
+
+- **`co_bi_co_bi_co_corusing`**
+  - *a* co · bi · co · bi · co
+  - *b* co, co
+  - *c* bi, bi
+  - *d* co
+- **`bi_co_bi_co_bi_torusing`**
+  - *a* bi · co · bi · co · bi
+  - *b* bi, bi
+  - *c* co, co
+  - *d* bi
 
 Corusing's `co·bi·co·bi·co` carries co on its ends and bi on inner flanks. Torusing's `bi·co·bi·co·bi` carries bi on its ends and co on inner flanks. Written centre retains its prefix. Co-competencing and bi-moralizing carry their proposed correspondence with full naming. This same position table is Natural Intelligence §5.10's and ONE's.
 
@@ -1507,12 +1851,20 @@ Existing ten-row relation between ONE's naming ring and hard-problem fixed forms
 
 **A transfer retains operation with both its source and receiving.** A completed source entry can supply a question to another engineering while its construction remains to express there.
 
-| Engineering coupling | Offering to the other entries | The receiving relation |
-|---|---|---|
-| **Grid, §§1.3–1.6** | An addressed source-coordination entry, local parity-changing and shared delivery | Circuit, controller references and available source remain explicit. Propulsion's proposed return needs its own physical correspondence. |
-| **Desalination, §5.3** | Drawing, separating, finishing and draw return within one entry | Exchanger, §1.15, receives temperature, flow and circulation questions. Grid's moving-neutral proposal does not supply draw's materials or return. |
-| **Transmissioning, §§4.1–4.12** | Both sides' carrying and receiving with a crossing | A coefficient retains its defined operation. Code arithmetic does not establish physical invisibility, loss-free transfer or completion of other entries. |
-| **Rocket propulsion** | Addressed expander and full-flow staged-combustion paths below | Locate heat receiving, turbine, pump, chamber and exhaust. Using a propellant through successive operations leaves its eventual departure and next supply visible. |
+Each entry: **Engineering coupling** · *a* Offering to the other entries · *b* The receiving relation
+
+- **Grid, §§1.3–1.6**
+  - *a* An addressed source-coordination entry, local parity-changing and shared delivery
+  - *b* Circuit, controller references and available source remain explicit. Propulsion's proposed return needs its own physical correspondence.
+- **Desalination, §5.3**
+  - *a* Drawing, separating, finishing and draw return within one entry
+  - *b* Exchanger, §1.15, receives temperature, flow and circulation questions. Grid's moving-neutral proposal does not supply draw's materials or return.
+- **Transmissioning, §§4.1–4.12**
+  - *a* Both sides' carrying and receiving with a crossing
+  - *b* A coefficient retains its defined operation. Code arithmetic does not establish physical invisibility, loss-free transfer or completion of other entries.
+- **Rocket propulsion**
+  - *a* Addressed expander and full-flow staged-combustion paths below
+  - *b* Locate heat receiving, turbine, pump, chamber and exhaust. Using a propellant through successive operations leaves its eventual departure and next supply visible.
 
 **Propulsion paths.** An expander cycle uses heat received during regenerative cooling to supply turbine operation. Fuel side and oxidizer side can have different arrangements; expander cycles can be open, closed or mixed. Available heat transfer and turbine–pump relation remain part of their operating range. [Joyner and colleagues, *Propulsion System Choices and Their Implications*, engine power cycles](https://ntrs.nasa.gov/api/citations/20110003599/downloads/20110003599.pdf).
 
@@ -1534,13 +1886,23 @@ Wave propagation, fresh mixture receiving, combustion, exhaust and heat receivin
 
 **Two pumping arrivals with five properties.**
 
-| Property | Hydraulic ram | Peristaltic pumping |
-|---|---|---|
-| **Arrangement and goal** | A specified water flow to its receiving elevation, with a supply rising and falling. | A specified fluid transport with its pressure difference, tube geometry and receiving. |
-| **Its particular coupling and fixed form** | Supply, valve settings, air chamber and delivery load. Imposed adjustment and its dissolving with delivery continuing remain relation to express. | Wall motion and setting of its pace and shape. A prescribed traveling deformation retains that prescription. |
-| **Residue** | Unused discharge and pressure surges can supply another receiving opportunity. | Returning fluid, pressure rising and falling, and wall deformation can supply another receiving opportunity. |
-| **Observing** | Experiment below distinguishes supply, delivery, valve beating and chamber pressure. | Model and experiment below distinguish traveling deformation from fluid's motion. |
-| **Arrangement offered** | Proposed local opening and returning with supply and delivery rising and falling, including discharged water's receiving. These remain to express together. | Proposed local wall coupling, its actuation and return, with fluid and load each varying. Their whole relation remains to express. |
+Each entry: **Property** · *a* Hydraulic ram · *b* Peristaltic pumping
+
+- **Arrangement and goal**
+  - *a* A specified water flow to its receiving elevation, with a supply rising and falling.
+  - *b* A specified fluid transport with its pressure difference, tube geometry and receiving.
+- **Its particular coupling and fixed form**
+  - *a* Supply, valve settings, air chamber and delivery load. Imposed adjustment and its dissolving with delivery continuing remain relation to express.
+  - *b* Wall motion and setting of its pace and shape. A prescribed traveling deformation retains that prescription.
+- **Residue**
+  - *a* Unused discharge and pressure surges can supply another receiving opportunity.
+  - *b* Returning fluid, pressure rising and falling, and wall deformation can supply another receiving opportunity.
+- **Observing**
+  - *a* Experiment below distinguishes supply, delivery, valve beating and chamber pressure.
+  - *b* Model and experiment below distinguish traveling deformation from fluid's motion.
+- **Arrangement offered**
+  - *a* Proposed local opening and returning with supply and delivery rising and falling, including discharged water's receiving. These remain to express together.
+  - *b* Proposed local wall coupling, its actuation and return, with fluid and load each varying. Their whole relation remains to express.
 
 Hydraulic-ram experiment used a supply tank, drive and delivery pipes, waste and discharge valves, and an air chamber. Each trial retained a constant supply level and adjusted operating conditions. Working-cycle description includes discharge through waste valve, chamber receiving during pressure pulse, and recoil before renewed inflow. Delivery was a smaller flow lifted to greater head. Automatic valve cycling therefore retains supply, adjustment and compressed air's compressing and expanding; two-valve count does not describe a complete two-way natural coupling. [Asvapoositkul and colleagues, *Determination of Hydraulic Ram Pump Performance: Experimental Results*, §§2–3 and Appendix](https://onlinelibrary.wiley.com/doi/10.1155/2019/9702183).
 
@@ -1552,12 +1914,15 @@ Peristaltic analysis uses long wavelengths and low Reynolds number. Correspondin
 
 With flow steady relative to wave's coordinates, `q` is constant. Area wave leaves this remaining flow unspecified. Pressure, wall motion and receiving conditions must complete fluid model. Expression identifies volume continuity; it is not a complete momentum or actuator model.
 
-| Directional property | The changing carried |
-|---|---|
-| **Wave propagation** | Moving position of deformation or combustion wave |
-| **Material motion** | Fluid's local direction and its net transport over stated interval |
-| **Receiving and returning** | Pressure, heat, material and mechanical motion with their next load or return |
-| **Natural alternating** | Proposed two sides' consecutive receiving and offering, with correspondence expressed for each crossing |
+Each entry: **Directional property** · *a* The changing carried
+
+- **Wave propagation** · *a* Moving position of deformation or combustion wave
+- **Material motion**
+  - *a* Fluid's local direction and its net transport over stated interval
+- **Receiving and returning**
+  - *a* Pressure, heat, material and mechanical motion with their next load or return
+- **Natural alternating**
+  - *a* Proposed two sides' consecutive receiving and offering, with correspondence expressed for each crossing
 
 Wave propagation, material motion, receiving and natural alternating retain their particular directions. Their co-chaining carries each operation and its correspondence, with bettering, fastering and cheapering of whole receiving.
 
@@ -1567,13 +1932,18 @@ Heat pumps and refrigeration: exchanger, vapor-cycle and ejector arrivals stand 
 
 **Wave and tidal engineering.**
 
-| Property | The particular engineering |
-|---|---|
-| **Arrangement and goal** | A specified mechanical or electrical delivery from a stated wave or current environment, with continuing under differing arrivals included. |
-| **Its particular coupling and fixed form** | Moving bodies, support or mooring, receiving load and any prescribed tuning. Parity-changing between sides and imposed relation's dissolving remain to express with those operations. |
-| **Residue** | Unreceived relative motion, reflected or radiated waves, wake motion and material deformation can supply a next receiving. Their particular paths remain to express. |
-| **Observing** | RM3 wave-tank tests below address relative motion and its load. RM1 record supplies a different tidal-current arrangement. Kelp supplies a particular bodily-material observing. |
-| **Arrangement offered** | Proposed local bi-momentarying between members with incident field and load each varying. Mechanical receiving, conversion, shedding, material fatigue and renewed operation remain to express together across array. |
+Each entry: **Property** · *a* The particular engineering
+
+- **Arrangement and goal**
+  - *a* A specified mechanical or electrical delivery from a stated wave or current environment, with continuing under differing arrivals included.
+- **Its particular coupling and fixed form**
+  - *a* Moving bodies, support or mooring, receiving load and any prescribed tuning. Parity-changing between sides and imposed relation's dissolving remain to express with those operations.
+- **Residue**
+  - *a* Unreceived relative motion, reflected or radiated waves, wake motion and material deformation can supply a next receiving. Their particular paths remain to express.
+- **Observing**
+  - *a* RM3 wave-tank tests below address relative motion and its load. RM1 record supplies a different tidal-current arrangement. Kelp supplies a particular bodily-material observing.
+- **Arrangement offered**
+  - *a* Proposed local bi-momentarying between members with incident field and load each varying. Mechanical receiving, conversion, shedding, material fatigue and renewed operation remain to express together across array.
 
 RM3 tests used a float and a spar/plate with relative heave. 1/33-scale heave-only trial retained a guide and a hydraulic cylinder with an adjustable needle valve representing power take-off load. A separate trial retained moorings. Reported absorbed power was estimated from measured load and relative velocity; this did not measure a complete electrical conversion. 1/100-scale extreme-wave study used a locked arrangement without power take-off. Those operating and extreme-wave results retain their different fixtures and scales. [Yu and colleagues, *Experimental Wave Tank Test for Reference Model 3*, §§2–4](https://tethys-engineering.pnnl.gov/sites/default/files/publications/Yu-et-al-2015.pdf).
 
@@ -1589,13 +1959,18 @@ Engineering offering carries deformation, detaching, continued attachment and re
 
 **Pulsed electrolysis and gas receiving.**
 
-| Property | The particular electrolysis receiving |
-|---|---|
-| **Arrangement and goal** | Specified gas composition, amount, pressure and delivery rate with a stated water supply, electrolyte, electrodes and electrical input. |
-| **Its particular coupling and fixed form** | Prescribed current, voltage, pulse width or switching beside cell and supply as each varies. An on/off pulse can retain one current sign; pulse timing does not express current reversal or natural directional turns. |
-| **Residue** | Heat, current past intended reaction, gas crossing, product remaining within electrolyte and electrode degrading retain their amounts and next receiving. |
-| **Observing** | Voltage and current together, gas amount and composition, temperature, circulation and retained gas path. Addressed experiments below retain their different waveforms and assemblies. |
-| **Arrangement offered** | Cell's operating, varying with available supply and required gas receiving. Offset stacks retain their full current and product pulses, conversion, gas handling, starting and continued operation as arrangement to express. |
+Each entry: **Property** · *a* The particular electrolysis receiving
+
+- **Arrangement and goal**
+  - *a* Specified gas composition, amount, pressure and delivery rate with a stated water supply, electrolyte, electrodes and electrical input.
+- **Its particular coupling and fixed form**
+  - *a* Prescribed current, voltage, pulse width or switching beside cell and supply as each varies. An on/off pulse can retain one current sign; pulse timing does not express current reversal or natural directional turns.
+- **Residue**
+  - *a* Heat, current past intended reaction, gas crossing, product remaining within electrolyte and electrode degrading retain their amounts and next receiving.
+- **Observing**
+  - *a* Voltage and current together, gas amount and composition, temperature, circulation and retained gas path. Addressed experiments below retain their different waveforms and assemblies.
+- **Arrangement offered**
+  - *a* Cell's operating, varying with available supply and required gas receiving. Offset stacks retain their full current and product pulses, conversion, gas handling, starting and continued operation as arrangement to express.
 
 Alkaline-cell experiment used 10 Hz current pulses with low load and direct current with higher load. Reported low-load improvement belongs to its arrangements with shared electrolyte channels. Apparatus retained power electronics, control loops, a filter inductor, circulation and gas treatment. Efficiency used measured hydrogen production and electrical input across electrolyzer boundary. Described downstream valve, purification and storage remained along product path. This arrival improves a particular receiving; it supplies neither a complete plant comparison nor an absence of storage or control. [Xia and colleagues, 2023, Solutions, Methods and Table 1](https://www.nature.com/articles/s44172-023-00070-7).
 
@@ -1605,13 +1980,23 @@ Current-ripple experiment’s primary abstract reports increased losses with rip
 
 **Compressed-air and pumped-water returning.** Each arrangement retains material between arrivals and its complete receiving path.
 
-| Property | Compressed-air returning | Pumped-water returning |
-|---|---|---|
-| **Arrangement and goal** | Compression, air containment, heat receiving and expansion for a specified subsequent delivery. Air path and heat path remain explicit. | Water transfer between reservoirs of different elevations, with pumping input and a specified subsequent turbine or direct hydraulic receiving. |
-| **Its particular coupling and fixed form** | Prescribed pressure, temperature, flow and switching beside contained air and receiving load as each varies. | Prescribed flow, rotational speed and switching beside head, reservoir volume and receiving load, each rising and falling. |
-| **Residue** | Unreceived compression heat, pressure drop, leakage and expansion exhaust each retain their amount and next receiving. | Hydraulic loss, leakage, evaporation and unreceived flow each retain their particular path. Water returned and electrical input returned are different quantities. |
-| **Observing** | Pressure, temperature, air amount, heat return and electrical input and output across their own boundaries. A thermal-store experiment retains its own scope beside a complete electrical cycle. | Both reservoir levels, flows, head and electrical or hydraulic delivery over one same interval, including any external inflows and withdrawals. |
-| **Arrangement offered** | Recovered heat bi-momentarying with expanding air's required temperature and rate. Containment, its pressure rising and falling, heat loss, flow resistance, conversion and next compression remain together within return to express. | Available head and flow bi-momentarying with actual load. Returning water, receiving as it varies, and remaining pumping and conversion remain to express with one same service. |
+Each entry: **Property** · *a* Compressed-air returning · *b* Pumped-water returning
+
+- **Arrangement and goal**
+  - *a* Compression, air containment, heat receiving and expansion for a specified subsequent delivery. Air path and heat path remain explicit.
+  - *b* Water transfer between reservoirs of different elevations, with pumping input and a specified subsequent turbine or direct hydraulic receiving.
+- **Its particular coupling and fixed form**
+  - *a* Prescribed pressure, temperature, flow and switching beside contained air and receiving load as each varies.
+  - *b* Prescribed flow, rotational speed and switching beside head, reservoir volume and receiving load, each rising and falling.
+- **Residue**
+  - *a* Unreceived compression heat, pressure drop, leakage and expansion exhaust each retain their amount and next receiving.
+  - *b* Hydraulic loss, leakage, evaporation and unreceived flow each retain their particular path. Water returned and electrical input returned are different quantities.
+- **Observing**
+  - *a* Pressure, temperature, air amount, heat return and electrical input and output across their own boundaries. A thermal-store experiment retains its own scope beside a complete electrical cycle.
+  - *b* Both reservoir levels, flows, head and electrical or hydraulic delivery over one same interval, including any external inflows and withdrawals.
+- **Arrangement offered**
+  - *a* Recovered heat bi-momentarying with expanding air's required temperature and rate. Containment, its pressure rising and falling, heat loss, flow resistance, conversion and next compression remain together within return to express.
+  - *b* Available head and flow bi-momentarying with actual load. Returning water, receiving as it varies, and remaining pumping and conversion remain to express with one same service.
 
 **Heat returning retains pilot's actual arrangement.** Compressed-air pilot used a cavern and packed-rock thermal store. Compressor supplied air near ambient temperature; an electric heater represented heating of adiabatic compression. During discharge flow reversed across rock bed, received heat and left to ambient. Pilot had no turbine. Its 63–74% electrical round-trip estimate combined measured thermal-store performance with assumed compressor, turbine, motor and generator performance. It was not a measured electrical round trip. [Geissbühler and colleagues, 2018, plant description and cycle-efficiency estimate](https://doi.org/10.1016/j.est.2018.02.004).
 
@@ -1653,13 +2038,18 @@ Useful offering remains another coupling carrying stated goal with less fixed ov
 
 **Two selves, two-way, one-at-a-time.** Five statements carry proposed connector's relations together.
 
-| Design statement | The coupling to express |
-|---|---|
-| **Two selves offering, across and both ways** | Offering and receiving with each side, each direction taking its own turn |
-| **Each side's own rate** | Relation between rates and actual sequencing of their receiving |
-| **The floating neutral** | Bounding-zeroing with co-changing, each side taking its own turn |
-| **Self-bounding** | Each side's continuing and completing, each with its own bounding |
-| **Bothbothing social moral competency** | Bi-momentarying, co-competencing and co-intelligencing inseparable while alternating |
+Each entry: **Design statement** · *a* The coupling to express
+
+- **Two selves offering, across and both ways**
+  - *a* Offering and receiving with each side, each direction taking its own turn
+- **Each side's own rate**
+  - *a* Relation between rates and actual sequencing of their receiving
+- **The floating neutral**
+  - *a* Bounding-zeroing with co-changing, each side taking its own turn
+- **Self-bounding**
+  - *a* Each side's continuing and completing, each with its own bounding
+- **Bothbothing social moral competency**
+  - *a* Bi-momentarying, co-competencing and co-intelligencing inseparable while alternating
 
 Offering and receiving can each stand with both sides: four namings across two directional exchanges, §4.7. §1.1's six-direction illustration carries three phases and two directions. Namings, directions and phases each have their own operations as numbers; their numbers supply no correspondence.
 
@@ -1669,20 +2059,32 @@ Offering and receiving can each stand with both sides: four namings across two d
 
 **Sensing and sensationing carry two directions together as one-at-a-time alternating.** Each existing device family supplies a particular offering, receiving and rhythm to one same entry.
 
-| Existing family | Addressed arrival or proposed receiving |
-|---|---|
-| **Sono** | Otoacoustic-emission screening offers a sound and measures ear's response. [NIDCD, hearing screening](https://www.nidcd.nih.gov/health/your-babys-hearing-screening-and-next-steps). Proposed connector still needs living side's receiving, benefit and bounding expressed. |
-| **Respiratory** | NAVA couples assistance to diaphragm electrical activity. 2026 NAN-C trial retained an adjusted assist level, pressure limits and backup settings. [NAN-C study](https://link.springer.com/article/10.1007/s00431-026-06888-5). Its particular coupling includes those operations. |
+Each entry: **Existing family** · *a* Addressed arrival or proposed receiving
+
+- **Sono**
+  - *a* Otoacoustic-emission screening offers a sound and measures ear's response. [NIDCD, hearing screening](https://www.nidcd.nih.gov/health/your-babys-hearing-screening-and-next-steps). Proposed connector still needs living side's receiving, benefit and bounding expressed.
+- **Respiratory**
+  - *a* NAVA couples assistance to diaphragm electrical activity. 2026 NAN-C trial retained an adjusted assist level, pressure limits and backup settings. [NAN-C study](https://link.springer.com/article/10.1007/s00431-026-06888-5). Its particular coupling includes those operations.
 
 **Thermal and electrical receiving.** §5.1's five properties retain each arrangement's actual varying.
 
-| Property | Thermal-clearance perfusion sensing | Phase-related electrical stimulation |
-|---|---|---|
-| **Arrangement and goal** | A skin-contact heater and temperature sensors address local blood-flow measurement. Tissue receives applied heat. | Stimulation with a measured tremor rhythm addresses a specified shift of tremor amplitude. |
-| **Its particular coupling and fixed form** | Heating, sensor position, tissue properties and conversion from temperature to flow. Heater timing and blood-flow varying retain their own rates. | Sensed rhythm, offered waveform and selected phase relation. Following a bodily rhythm retains actual phase selection and stimulation apparatus. |
-| **Residue** | Applied heat, thermal drift and contact varying remain with tissue and instrument. Their return requires actual cooling and removal. | Electrode contact, delivered charge and continuing bodily responses, including response after stimulation ends. |
-| **Observing** | Temperature and flow comparison together. Sensing arrangement's disturbance and its measurement precision have their own quantities. | Amplitude and phase together, including strengthening, weakening and response after stimulation ends. A selected phase is that particular comparison. |
-| **Arrangement offered** | Sensing bi-momentarying with living receiving of heat and contact. Useful receiving from measurement, thermal return and each side's continuing and ending remain to express together. | Waveform and receiving bi-momentarying with each side's own parity and rate. Phase estimation, delayed or lost sensing, bounding and ending remain to express with actual construction. |
+Each entry: **Property** · *a* Thermal-clearance perfusion sensing · *b* Phase-related electrical stimulation
+
+- **Arrangement and goal**
+  - *a* A skin-contact heater and temperature sensors address local blood-flow measurement. Tissue receives applied heat.
+  - *b* Stimulation with a measured tremor rhythm addresses a specified shift of tremor amplitude.
+- **Its particular coupling and fixed form**
+  - *a* Heating, sensor position, tissue properties and conversion from temperature to flow. Heater timing and blood-flow varying retain their own rates.
+  - *b* Sensed rhythm, offered waveform and selected phase relation. Following a bodily rhythm retains actual phase selection and stimulation apparatus.
+- **Residue**
+  - *a* Applied heat, thermal drift and contact varying remain with tissue and instrument. Their return requires actual cooling and removal.
+  - *b* Electrode contact, delivered charge and continuing bodily responses, including response after stimulation ends.
+- **Observing**
+  - *a* Temperature and flow comparison together. Sensing arrangement's disturbance and its measurement precision have their own quantities.
+  - *b* Amplitude and phase together, including strengthening, weakening and response after stimulation ends. A selected phase is that particular comparison.
+- **Arrangement offered**
+  - *a* Sensing bi-momentarying with living receiving of heat and contact. Useful receiving from measurement, thermal return and each side's continuing and ending remain to express together.
+  - *b* Waveform and receiving bi-momentarying with each side's own parity and rate. Phase estimation, delayed or lost sensing, bounding and ending remain to express with actual construction.
 
 2015 skin device combines thermal actuation, temperature sensing and model-based flow estimation. Its conversion includes tissue thermal properties and vessel geometry. Pulsed mode renews temperature baseline and lowers average heater input, with lower time resolution than continuous operation. Within that comparison, heater frequency and power remain fixed. These are particular measurement operations and tradeoffs. Proposed living benefit from sensing still belongs with its receiving. [Webb et al., Figures 2 and 7 and pulsed-operation methods](https://rogersgroup.northwestern.edu/files/2015/sciadvflow.pdf).
 
@@ -1690,13 +2092,23 @@ Offering and receiving can each stand with both sides: four namings across two d
 
 **Pressure and molecular receiving.** Pressure lowering, delivery stopping and bodily return each have their own paths.
 
-| Property | Mechanical-pressure counterpulsation | Chemical-molecular pulsatile delivery |
-|---|---|---|
-| **Arrangement and goal** | External cuffs offer pressure with cardiac rhythm, addressing a specified arterial-flow varying. | An infusion arrangement offers a specified substance, addressing its particular receiving response. |
-| **Its particular coupling and fixed form** | Cuff placement, inflation order, pressure and deflation beside cardiac phase and returning flow. | Substance, concentration, amount, delivery interval and receiving tissue. A programmed interval retains its prescription. |
-| **Residue** | Contact and pressure on limbs, altered flow through other sites and response after deflation remain with body. | Delivered material, continuing response, depleted supply and returned or cleared material remain after a delivery interval. |
-| **Observing** | Each measured artery, quantity and time of measurement. Cuff deflation and arterial-flow return require their own records. | Delivered amount and specified molecular or bodily response across pulsing, continuous delivery and stopping, under stated comparison conditions. |
-| **Arrangement offered** | Pressure bi-momentarying with body's own varying, including timing shifts and deflation. Receiving with each affected site across repeated operation remains to express. | Delivery bi-momentarying with receiving response. Replenishment, shifting responsiveness, clearance and ending remain to express with their own rates and actual amounts. |
+Each entry: **Property** · *a* Mechanical-pressure counterpulsation · *b* Chemical-molecular pulsatile delivery
+
+- **Arrangement and goal**
+  - *a* External cuffs offer pressure with cardiac rhythm, addressing a specified arterial-flow varying.
+  - *b* An infusion arrangement offers a specified substance, addressing its particular receiving response.
+- **Its particular coupling and fixed form**
+  - *a* Cuff placement, inflation order, pressure and deflation beside cardiac phase and returning flow.
+  - *b* Substance, concentration, amount, delivery interval and receiving tissue. A programmed interval retains its prescription.
+- **Residue**
+  - *a* Contact and pressure on limbs, altered flow through other sites and response after deflation remain with body.
+  - *b* Delivered material, continuing response, depleted supply and returned or cleared material remain after a delivery interval.
+- **Observing**
+  - *a* Each measured artery, quantity and time of measurement. Cuff deflation and arterial-flow return require their own records.
+  - *b* Delivered amount and specified molecular or bodily response across pulsing, continuous delivery and stopping, under stated comparison conditions.
+- **Arrangement offered**
+  - *a* Pressure bi-momentarying with body's own varying, including timing shifts and deflation. Receiving with each affected site across repeated operation remains to express.
+  - *b* Delivery bi-momentarying with receiving response. Replenishment, shifting responsiveness, clearance and ending remain to express with their own rates and actual amounts.
 
 External-counterpulsation study used a single 45-minute session for 42 people with coronary artery disease and 21 healthy controls. Cuffs inflated sequentially during diastole and deflated together before systole with specified pressures. Doppler measurements covered carotid, brachial and femoral arteries before, during and immediately after session. Responses varied by artery, group and measurement time. That study supplies an addressed pressure–flow comparison; a complete continuing connector retains its own bodily receiving. [Zhang et al., 2021, procedures and results](https://www.frontiersin.org/journals/cardiovascular-medicine/articles/10.3389/fcvm.2021.721140/full).
 
@@ -1704,13 +2116,18 @@ Molecular-delivery study addresses gonadotropin-releasing hormone (GnRH) for rhe
 
 **Optical receiving.** A light sequence and a living phase shift have a particular relation to express.
 
-| Property | Optical offering |
-|---|---|
-| **Arrangement and goal** | Light of specified spectrum, intensity and timing addresses a specified living response. |
-| **Its particular coupling and fixed form** | Light schedule beside living rhythm and actual exposure. Equal peak brightness leaves duration and total exposure to their own quantities. |
-| **Residue** | Continued phase shifting, heat and responses of other couplings remain with actual exposure and receiving. |
-| **Observing** | Rhythm phase, molecular response, alertness and other addressed responses each retain their own endpoint, with baseline, exposure timing and follow-up. |
-| **Arrangement offered** | Light bi-momentarying with living receiving and its ending. Its timing varying with that receiving, and continuing after light ends, remain to express together. |
+Each entry: **Property** · *a* Optical offering
+
+- **Arrangement and goal**
+  - *a* Light of specified spectrum, intensity and timing addresses a specified living response.
+- **Its particular coupling and fixed form**
+  - *a* Light schedule beside living rhythm and actual exposure. Equal peak brightness leaves duration and total exposure to their own quantities.
+- **Residue**
+  - *a* Continued phase shifting, heat and responses of other couplings remain with actual exposure and receiving.
+- **Observing**
+  - *a* Rhythm phase, molecular response, alertness and other addressed responses each retain their own endpoint, with baseline, exposure timing and follow-up.
+- **Arrangement offered**
+  - *a* Light bi-momentarying with living receiving and its ending. Its timing varying with that receiving, and continuing after light ends, remain to express together.
 
 2016 light-exposure experiment included 39 healthy adults receiving either continuous light or a sequence of short flashes during a scheduled night-time exposure. Circadian phase shift varied with interval between flashes. Melatonin suppression, objective alertness and reported sleepiness did not share that interval-dependent pattern. Experiment retained prescribed sleep and light schedules. Measured phase shift supplies its own endpoint; useful living receiving remains to express with a proposed arrangement. [Najjar and Zeitzer, methods and results](https://www.jci.org/articles/view/82306).
 
@@ -1726,12 +2143,16 @@ Charge, molecule, field, mechanical-acoustic and thermal remain five existing ad
 
 **Sequencing carries parity-changing with its receiving.** A pressure cycle, a thermal separation and a compression cycle each retain their actual arrangement. Bi-momentarying is two-way, one-at-a-time, each side's offering with its own parity and rate.
 
-| Relation at the coupling | Engineering carrying |
-|---|---|
-| **Direction** | Side offering, side receiving and path for that turn. A reversed material flow and an other's next offering retain their respective operations. |
-| **Parity-changing** | Quantity or selection whose sign inverts, with orientation by which that sign is expressed. A pressure difference, a current and a resolver parity each retain their own meaning. |
-| **Returning** | Leaving with one operation and arriving with a next, including altered temperature, pressure, composition or carrying. Returning to a position leaves those properties to express. |
-| **Co-discovering** | Each side completing its own, going along. A particular fixed form, continuing receiving and other side's own turn remain together. |
+Each entry: **Relation at the coupling** · *a* Engineering carrying
+
+- **Direction**
+  - *a* Side offering, side receiving and path for that turn. A reversed material flow and an other's next offering retain their respective operations.
+- **Parity-changing**
+  - *a* Quantity or selection whose sign inverts, with orientation by which that sign is expressed. A pressure difference, a current and a resolver parity each retain their own meaning.
+- **Returning**
+  - *a* Leaving with one operation and arriving with a next, including altered temperature, pressure, composition or carrying. Returning to a position leaves those properties to express.
+- **Co-discovering**
+  - *a* Each side completing its own, going along. A particular fixed form, continuing receiving and other side's own turn remain together.
 
 **Recovery carries returning coupling.** §4.9's six arrivals each have their own source, receiving and continuing operation. A measured return retains its quantity and conditions. A parity-changing interface carries actual material and electrical relations across that interface; crossing coefficient retains its proposed parity or magnitude relation with a particular operation.
 
@@ -1743,13 +2164,18 @@ Thermoelectric or coupled material-and-heat returning carries two measured relat
 
 **Thermoelectric returning carries both electrical and thermal receiving.** Proposed engineering comparison carries a prescribed current beside receiving surfaces' own varying. Its reciprocal relation retains measured material and quantities.
 
-| Entry | Thermoelectric returning |
-|---|---|
-| **Arrangement and goal** | A proposed thermoelectric assembly offers a specified heat delivery or removal rate over a stated temperature range. Material, contact area, electrical supply, thermal receiving and continued service belong to that specification. Particular assembly and service quantities remain to express. |
-| **One side taking both turns** | A prescribed current stands for other surface's heat receiving as its temperature and load vary. That substitution is a candidate fixed form. A current setting supplies no account of such a substitution; its actual relation to receiving remains part of proposed comparison. |
-| **Residue** | Electrical input, heat reaching each surface and heat continuing past intended receiving carry watts and their duration, or joules over stated interval. Contact-temperature differences retain kelvin. Amount and attribution of each residue to prescribed-current substitution remain to express with complete assembly. |
-| **Observing** | Bi₂Te₃ thermopile record below carries an empirical coefficient relation. A same-service construction dissolving proposed prescribed-current substitution has not been located within that record. |
-| **Arrangement offered** | Electrical offering and thermal receiving co-change with each side's own parity and rate. Current orientation, temperature differences, sensing, switching and next heat receiving remain to express with supply and return. Joule heating, thermal conduction and contacts retain their physical relations. Lost heat delivery, a shifted receiving temperature or a depleted supply breaks corresponding claim of continued same-service returning. |
+Each entry: **Entry** · *a* Thermoelectric returning
+
+- **Arrangement and goal**
+  - *a* A proposed thermoelectric assembly offers a specified heat delivery or removal rate over a stated temperature range. Material, contact area, electrical supply, thermal receiving and continued service belong to that specification. Particular assembly and service quantities remain to express.
+- **One side taking both turns**
+  - *a* A prescribed current stands for other surface's heat receiving as its temperature and load vary. That substitution is a candidate fixed form. A current setting supplies no account of such a substitution; its actual relation to receiving remains part of proposed comparison.
+- **Residue**
+  - *a* Electrical input, heat reaching each surface and heat continuing past intended receiving carry watts and their duration, or joules over stated interval. Contact-temperature differences retain kelvin. Amount and attribution of each residue to prescribed-current substitution remain to express with complete assembly.
+- **Observing**
+  - *a* Bi₂Te₃ thermopile record below carries an empirical coefficient relation. A same-service construction dissolving proposed prescribed-current substitution has not been located within that record.
+- **Arrangement offered**
+  - *a* Electrical offering and thermal receiving co-change with each side's own parity and rate. Current orientation, temperature differences, sensing, switching and next heat receiving remain to express with supply and return. Joule heating, thermal conduction and contacts retain their physical relations. Lost heat delivery, a shifted receiving temperature or a depleted supply breaks corresponding claim of continued same-service returning.
 
 **Measured reciprocity retains its units.** Kelvin relation is `Π = αT`: Peltier coefficient `Π` carries volts, thermopower `α` carries volts per kelvin, and absolute temperature `T` carries kelvin. For a Bi₂Te₃ thermopile test using voltage, current and temperature measurements, `Π/α` agreed with `T` within a relative deviation below 0.5% over 320–340 K. Joule heat, Fourier conduction and thermal contact impedances belong to measurement account. [Panthi et al., Empirical Test of the Kelvin Relation in a Bi₂Te₃ Thermopile](https://doi.org/10.1063/5.0143803).
 
@@ -1767,10 +2193,12 @@ Three phases and two directions continue with central mapping. Direction, phase 
 
 **Bi-co-podaling is out-carry and back-carry with one ring station.** A complete ring carries `N` steps. Within that turn, a station reached by `k` steps going one direction is reached by `N − k` steps going an other. Two carries retain their own directional turns, including with equal path numbers.
 
-| Ring relation | Carrying in numbers |
-|---|---|
-| **Bi-co-podaling** | Complementary path numbers `k` and `N − k` with one station. With `k = 0`, an other path number is `N`: a complete return retains its traversed path. |
-| **Podal, straight across** | For an even ring number `N`, stations `k` and `(k + N/2) mod N` are half a ring apart. Their positional separation retains its own number, `N/2`. |
+Each entry: **Ring relation** · *a* Carrying in numbers
+
+- **Bi-co-podaling**
+  - *a* Complementary path numbers `k` and `N − k` with one station. With `k = 0`, an other path number is `N`: a complete return retains its traversed path.
+- **Podal, straight across**
+  - *a* For an even ring number `N`, stations `k` and `(k + N/2) mod N` are half a ring apart. Their positional separation retains its own number, `N/2`.
 
 A station label returning to zero leaves complete path's crossings intact. Engineering correspondence carries actual offering, receiving and co-discovering with those turns; ring number supplies no phase, prefix depth or executed instruction.
 
@@ -1786,13 +2214,18 @@ With Exhibit ONE's code, selves coupled along, last to first, come to their pari
 
 **Phase varying with time carries voltage across junction.** With a fixed orientation, `V = (Φ₀/2π) dδ/dt` for junction phase difference `δ`. A net phase shift of `+2π` or `−2π` therefore carries `∫V dt = +Φ₀` or `−Φ₀`, respectively, as volt-seconds. Pulse's duration and shape remain particular waveform properties. [NIST, Quantum Locking Ranges](https://www.nist.gov/ctl/rf-technology-division/superconductive-electronics-group/quantum-locking-ranges).
 
-| Counted relation | Changing and receiving |
-|---|---|
-| **Circuit path** | A traversal follows connected material path. Complementary path numbers above retain their defined station and direction. |
-| **Winding** | Integer of closed-path field condition retains its phase and material conditions. Its value supplies no elapsed time or next winding transition. |
-| **Flux period** | Model's critical-current response repeats after an applied-flux increment `Φ₀`. This increment carries a flux-parameter step. |
-| **Temporal phase turn** | A net junction-phase shift of `±2π` carries corresponding signed voltage integral. Its source, waveform and next receiving remain with that operation. |
-| **Natural directional turn** | Each side's offering, parity, rate and co-discovering retain their own parity-changing. Their correspondence to a field's path, winding or pulse remains to express with actual coupling. |
+Each entry: **Counted relation** · *a* Changing and receiving
+
+- **Circuit path**
+  - *a* A traversal follows connected material path. Complementary path numbers above retain their defined station and direction.
+- **Winding**
+  - *a* Integer of closed-path field condition retains its phase and material conditions. Its value supplies no elapsed time or next winding transition.
+- **Flux period**
+  - *a* Model's critical-current response repeats after an applied-flux increment `Φ₀`. This increment carries a flux-parameter step.
+- **Temporal phase turn**
+  - *a* A net junction-phase shift of `±2π` carries corresponding signed voltage integral. Its source, waveform and next receiving remain with that operation.
+- **Natural directional turn**
+  - *a* Each side's offering, parity, rate and co-discovering retain their own parity-changing. Their correspondence to a field's path, winding or pulse remains to express with actual coupling.
 
 Equal values of a periodic readout retain counted interval between them. Fluxoid quantization leaves next transition, its direction and its amount to actual varying. Returning to a path address, repeating a flux response and shifting junction phase with time carry these distinct relations to central mapping.
 
@@ -1800,13 +2233,18 @@ Equal values of a periodic readout retain counted interval between them. Fluxoid
 
 **Flux sensing opens a particular dissolving with receiving.** Five-property entry follows proposed necessity of a voltage across sensing junctions. Alternative receiving below retains its whole apparatus.
 
-| Entry | SQUID flux receiving |
-|---|---|
-| **Arrangement and goal** | Flux-dependent sensing with stated temperature, input coupling, resolution, bandwidth and disturbance of measured material. Continued service includes supply, readout and thermal receiving. |
-| **One side taking both turns** | A prescribed voltage across sensing junctions is treated as necessary for an other's flux arriving to be received. This is candidate necessity to examine; device name or presence of bias supplies no fixed form. |
-| **Residue** | Junction voltage and current, radiation reaching measured material, heat reaching other contacts and cooling input retain their quantities, spectra and durations. Their attribution to proposed necessity and their whole-service comparison remain to express. |
-| **Observing** | Al/Au record below receives flux dependence with superconductors of equal potential. It supplies this particular alternative to finite junction voltage. Equal resolution, bandwidth and total disturbance across complete instruments remain a further comparison. |
-| **Arrangement offered** | Each side's own parity and rate remain with sensing, electrical offering, thermal receiving and co-discovering. Shifted readout, continuing injection, next operating point and interruption receiving belong together. A loss of specified resolution, range or continued receiving breaks that part of proposed same-service correspondence. |
+Each entry: **Entry** · *a* SQUID flux receiving
+
+- **Arrangement and goal**
+  - *a* Flux-dependent sensing with stated temperature, input coupling, resolution, bandwidth and disturbance of measured material. Continued service includes supply, readout and thermal receiving.
+- **One side taking both turns**
+  - *a* A prescribed voltage across sensing junctions is treated as necessary for an other's flux arriving to be received. This is candidate necessity to examine; device name or presence of bias supplies no fixed form.
+- **Residue**
+  - *a* Junction voltage and current, radiation reaching measured material, heat reaching other contacts and cooling input retain their quantities, spectra and durations. Their attribution to proposed necessity and their whole-service comparison remain to express.
+- **Observing**
+  - *a* Al/Au record below receives flux dependence with superconductors of equal potential. It supplies this particular alternative to finite junction voltage. Equal resolution, bandwidth and total disturbance across complete instruments remain a further comparison.
+- **Arrangement offered**
+  - *a* Each side's own parity and rate remain with sensing, electrical offering, thermal receiving and co-discovering. Shifted readout, continuing injection, next operating point and interruption receiving belong together. A loss of specified resolution, range or continued receiving breaks that part of proposed same-service correspondence.
 
 **Equal potential retains an other electrical receiving.** A nonlocal Al/Au SNS SQUID measurement, cooled to 26 mK, retained roughly 50 nA ac excitation and normal-metal voltage probes. Critical current varied from about 4 µA with zero applied flux to about 1 µA with half a flux quantum. Nonlocal resistance carried flux-dependent receiving while superconductors' potentials remained equal. Current injection and nonlocal voltage remained. Feedback to track resistance maximum was proposed; quoted noise floor was estimated. [Noh, Kindseth and Chandrasekhar, Nonlocal Superconducting Quantum Interference Device, §§II–IV](https://arxiv.org/html/2011.06667v2).
 
@@ -1831,13 +2269,18 @@ Each row describes response to addressed port's arriving. Port labels retain eac
 
 Microwave frequency and modulation frequency retain their distinct rates. An isolation figure is suppressed receiving along one addressed route; other ports, reflections, sidebands, terminating loads and heat retain their own receiving. Cooling and control supply remain with whole apparatus. A phase-controlled reversal supplies no two-sided taking of each side's own turn.
 
-| Entry | Microwave routing and receiving |
-|---|---|
-| **Arrangement and goal** | Route an outgoing microwave signal to its receiving port while reverse noise has its stated receiving, with specified frequency range, signal power, isolation, insertion loss and added noise. Continued service includes controls, terminations, cooling and route shifting. |
-| **One side taking both turns** | A prescribed ferrite implementation is treated as necessary for an other's directional receiving. This is particular necessity proposed for dissolving. A material name, a bias or presence of a control supplies no fixed form. |
-| **Residue** | Lost signal, unwanted receiving, control input, heat, occupied space and connection work retain their quantities and conditions. Attribution to proposed necessity and comparison across complete arrangements remain to express. |
-| **Observing** | Modulated on-chip device receives a particular routing service with a different physical implementation. Its measured operating range remains above. Separate DC-controlled and shunted-loop accounts below retain their own measured scope, including shunted-loop selection stated below. Complete same-service comparison retains rest of entry. |
-| **Arrangement offered** | Each side's own offering, parity, rate, bounding and co-discovering remain with ports and their receiving. Signal, reverse noise, unused-port loads, controls and thermal return belong together. Physical bi-momentarying interface and whole comparison remain to express. Loss of specified receiving, isolation or continuing through a route shift breaks that part of proposed correspondence. |
+Each entry: **Entry** · *a* Microwave routing and receiving
+
+- **Arrangement and goal**
+  - *a* Route an outgoing microwave signal to its receiving port while reverse noise has its stated receiving, with specified frequency range, signal power, isolation, insertion loss and added noise. Continued service includes controls, terminations, cooling and route shifting.
+- **One side taking both turns**
+  - *a* A prescribed ferrite implementation is treated as necessary for an other's directional receiving. This is particular necessity proposed for dissolving. A material name, a bias or presence of a control supplies no fixed form.
+- **Residue**
+  - *a* Lost signal, unwanted receiving, control input, heat, occupied space and connection work retain their quantities and conditions. Attribution to proposed necessity and comparison across complete arrangements remain to express.
+- **Observing**
+  - *a* Modulated on-chip device receives a particular routing service with a different physical implementation. Its measured operating range remains above. Separate DC-controlled and shunted-loop accounts below retain their own measured scope, including shunted-loop selection stated below. Complete same-service comparison retains rest of entry.
+- **Arrangement offered**
+  - *a* Each side's own offering, parity, rate, bounding and co-discovering remain with ports and their receiving. Signal, reverse noise, unused-port loads, controls and thermal return belong together. Physical bi-momentarying interface and whole comparison remain to express. Loss of specified receiving, isolation or continuing through a route shift breaks that part of proposed correspondence.
 
 **DC-controlled routing carries another particular arrangement.** A three-junction superconducting loop, cooled to 8 mK, retained charge and flux biases and showed weak nonreciprocity, insufficient for high-fidelity circulation. Its measurement apparatus retained commercial ferrite circulators on all three ports. Junction asymmetry and quasiparticle varying remained within source's measured and modeled account. [Navarathna and colleagues, Passive Superconducting Circulator on a Chip, §§II–VI and Appendix A](https://arxiv.org/html/2208.13339v2).
 
@@ -1849,14 +2292,18 @@ A component's alternative construction and complete apparatus retain their own c
 
 Shunt capacitors add waveguide paths; modeling and measurement support approximately 3% junction-asymmetry tolerance. Charge/flux biases and 10 mK cooling remain. Output apparatus retains circulators, isolators and amplifiers.
 
-| Source property | Stated receiving |
-|---|---|
-| **Selected sector** | Results below are postselected on optimized quasiparticle sector; other sectors perform worse. |
-| **Clockwise, 7.25 GHz** | Insertion loss 0.2 dB; isolation 18 dB; reflectance −15 dB. |
-| **Bandwidths** | Insertion loss below 1 dB over 90 MHz; isolation above 14 dB over 85 MHz. |
-| **Counterclockwise, 7.46 GHz** | Off-resonant 3 dB compression near −126 dBm. |
-| **Calibration** | Cable bypass plus filter-loss fitting, assuming a near-unitary device response. |
-| **Continuing** | Saturation and quasiparticle switching remain practical limitations. |
+Each entry: **Source property** · *a* Stated receiving
+
+- **Selected sector**
+  - *a* Results below are postselected on optimized quasiparticle sector; other sectors perform worse.
+- **Clockwise, 7.25 GHz** · *a* Insertion loss 0.2 dB; isolation 18 dB; reflectance −15 dB.
+- **Bandwidths**
+  - *a* Insertion loss below 1 dB over 90 MHz; isolation above 14 dB over 85 MHz.
+- **Counterclockwise, 7.46 GHz** · *a* Off-resonant 3 dB compression near −126 dBm.
+- **Calibration**
+  - *a* Cable bypass plus filter-loss fitting, assuming a near-unitary device response.
+- **Continuing**
+  - *a* Saturation and quasiparticle switching remain practical limitations.
 
 **A particular matching requirement is a further proposed fixed form to examine.** Its engineering entry carries actual term, available path and same-service comparison. Relinquishing a specification and each side's own dissolving retain their particular correspondence. Offered construction still needs each port's own arriving, receiving and next transition expressed with continuing service.
 
@@ -1866,14 +2313,14 @@ Shunt capacitors add waveguide paths; modeling and measurement support approxima
 
 Arithmetic co-chains with these expressed numbers:
 
-| Number in the source explaining | The relation carried |
-|---|---|
-| **One directional carry opening** | `72 + 1 = 73 = (59 − 2) + 16` |
-| **Two directions, each with its own turn** | `146 = 2 × 73 = 144 + 2` |
-| **Three phases** | `3 × 146 = 438` |
-| **A further opening with each direction** | `438 + 1 + 1 = 440` |
-| **The closing number** | `3 × 120 = 360 = 8 × C(10,2)` |
-| **The winding–closing difference** | `440 − 360 = 3 × (146 − 120) + 2 = 3 × 26 + 2 = 80 = 16 × 5` |
+Each entry: **Number in the source explaining** · *a* The relation carried
+
+- **One directional carry opening** · *a* `72 + 1 = 73 = (59 − 2) + 16`
+- **Two directions, each with its own turn** · *a* `146 = 2 × 73 = 144 + 2`
+- **Three phases** · *a* `3 × 146 = 438`
+- **A further opening with each direction** · *a* `438 + 1 + 1 = 440`
+- **The closing number** · *a* `3 × 120 = 360 = 8 × C(10,2)`
+- **The winding–closing difference** · *a* `440 − 360 = 3 × (146 − 120) + 2 = 3 × 26 + 2 = 80 = 16 × 5`
 
 Numbers §4.6 already carries three differences of twenty-six and two further openings. Mathematics §6.1 carries two final advances as co-linear; Numbers §4.5 carries one with each orthogonal direction. Their relation is orientation of those particular advances. One opening within each seventy-three and two after four hundred thirty-eight retain their respective places in sequence.
 
@@ -1887,12 +2334,16 @@ Construction still to express with a seam carries joined boundaries, paths closi
 
 **An outcome is a particular completing; carrying is continuing with next coupling.** A returned result can be another call's arriving. Completed operation and continuing carrying have their own relations with that same exchange. A completed exchange has four relations: flags again available, a result delivered, a model's variables taken as sufficient, and a whole system claimed returned to its prior condition. First three are each their own completing and none is a fourth; protocol completion, task completion, model closure and a claimed restoring of a whole prior relation are four subjects. An engineering account of its own arrangement, a handshake's flags, a synchronizer chain, a regulator's actuator action or a ground path, certifies no social protection and inspects no self's carrying; a private carrying is no engineering register renamed.
 
-| Shared-network engineering | The relation carried |
-|---|---|
-| **A function return** | ONE's return is surfacing and carrying. Calling arrangement carries each next arrival and any retained carrying across their actual interfaces. |
-| **Port agreement** | Matching results with identical specified inputs and operations. Comparison retains implementations and values actually compared. |
-| **A completed exchange** | Offered item, its receiving and its returned carrying belong to that exchange. Reusing a position leaves this association to express. |
-| **Continuing coupling** | Each side's own parity, rate, bounding and completing, next offering available across actual interface. |
+Each entry: **Shared-network engineering** · *a* The relation carried
+
+- **A function return**
+  - *a* ONE's return is surfacing and carrying. Calling arrangement carries each next arrival and any retained carrying across their actual interfaces.
+- **Port agreement**
+  - *a* Matching results with identical specified inputs and operations. Comparison retains implementations and values actually compared.
+- **A completed exchange**
+  - *a* Offered item, its receiving and its returned carrying belong to that exchange. Reusing a position leaves this association to express.
+- **Continuing coupling**
+  - *a* Each side's own parity, rate, bounding and completing, next offering available across actual interface.
 
 Networking kit contains resolver, coupling arrangements and instruments with different questions. Their placement within one directory gives neither their correspondence nor their separation. TWO carries design and discovery with executing continued, retaining each particular comparison's useful finding; §2.5 carries physical interface and §4.10 returned carrying. A completed calculation remains within its stated scope while next coupling continues.
 
@@ -1904,13 +2355,23 @@ Networking kit contains resolver, coupling arrangements and instruments with dif
 
 **An attention-transformer opportunity is an actual alteration and its receiving.** Retained parameters, selected operations, memory movement and output quality each carry a different quantity. Reducing one opens its particular engineering comparison.
 
-| Field operation | Changing | Continuing at the comparison |
-|---|---|---|
-| **Parameter pruning** | Selected weights are removed or set to zero. | Sparse pattern, retained weights, output error and hardware execution. |
-| **Quantization** | Numerical representation uses fewer bits per weight. | Actual precision, rounding, calibration, operators and measured output. |
-| **Distillation** | A trained model receives a training comparison supplied by another model or ensemble. | Training, resulting model, its own evaluation and inference resources. |
-| **Expert routing** | A token uses selected parameter groups within a layer. | Router, retained experts, capacity, communication and overflow handling. |
-| **Memory movement** | Order and placement of computation alter reads, writes and intermediate storage. | Function computed, numerical precision, memory hierarchy and complete runtime. |
+Each entry: **Field operation** · *a* Changing · *b* Continuing at the comparison
+
+- **Parameter pruning**
+  - *a* Selected weights are removed or set to zero.
+  - *b* Sparse pattern, retained weights, output error and hardware execution.
+- **Quantization**
+  - *a* Numerical representation uses fewer bits per weight.
+  - *b* Actual precision, rounding, calibration, operators and measured output.
+- **Distillation**
+  - *a* A trained model receives a training comparison supplied by another model or ensemble.
+  - *b* Training, resulting model, its own evaluation and inference resources.
+- **Expert routing**
+  - *a* A token uses selected parameter groups within a layer.
+  - *b* Router, retained experts, capacity, communication and overflow handling.
+- **Memory movement**
+  - *a* Order and placement of computation alter reads, writes and intermediate storage.
+  - *b* Function computed, numerical precision, memory hierarchy and complete runtime.
 
 SparseGPT reports 50–60% unstructured sparsity for its addressed large models with small perplexity differences. Its Appendix E separately reports CPU inference and GPU layer timings; GPU layer measurements are not whole-model timings. Parameter sparsity, speedup and electrical consumption therefore retain their own measurements. [Frantar and Alistarh, 2023, results and Appendix E](https://proceedings.mlr.press/v202/frantar23a/frantar23a.pdf).
 
@@ -1922,12 +2383,17 @@ FlashAttention computes exact attention with blocks and recomputation, reducing 
 
 These same five properties carry continuing design:
 
-| Property | The particular language-computing receiving |
-|---|---|
-| **Arrangement and goal** | Specified language inputs and useful outputs for an addressed service, including continuing exchange. |
-| **Its particular coupling and fixed form** | Retained parameters, context, routing, normalization and decoding beside a next offering available from either side. |
-| **Residue** | Unused computation, unnecessary memory movement, discarded context, delay, output errors and heat each retain their actual quantities and receiving. |
-| **Observing** | A comparison of complete operation retains stated inputs, output quality, context, hardware, precision and workload. Parameter count, memory, runtime and electrical input are measured separately. |
-| **Arrangement offered** | Useful reduction and local receiving bi-momentarying with whole exchange. Continuing operations, co-discovering, carrying next arriving and each side's own bounding remain to express together. |
+Each entry: **Property** · *a* The particular language-computing receiving
+
+- **Arrangement and goal**
+  - *a* Specified language inputs and useful outputs for an addressed service, including continuing exchange.
+- **Its particular coupling and fixed form**
+  - *a* Retained parameters, context, routing, normalization and decoding beside a next offering available from either side.
+- **Residue**
+  - *a* Unused computation, unnecessary memory movement, discarded context, delay, output errors and heat each retain their actual quantities and receiving.
+- **Observing**
+  - *a* A comparison of complete operation retains stated inputs, output quality, context, hardware, precision and workload. Parameter count, memory, runtime and electrical input are measured separately.
+- **Arrangement offered**
+  - *a* Useful reduction and local receiving bi-momentarying with whole exchange. Continuing operations, co-discovering, carrying next arriving and each side's own bounding remain to express together.
 
 Bi-folding, neuromorphing and re-edging remain proposed natural correspondence. Their parity-changing needs expression with particular representation, crossing and returning; pruning or a sparse shape supplies no identity with those operations. Bi-momentarying, co-competencing and co-intelligencing remain inseparable, cycling bettering, fastering and cheapering with actual receiving. Electromagnetic transformer proposal retains its separate primary, secondary, core and material arrangement.

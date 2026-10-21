@@ -2390,3 +2390,8 @@ Living Society Registry moved to v390. check_set: ALL PASS.
 - **Living File Registry:** 270 sentences of its own explaining are re-said, its rows and records are kept, and *a set of files* is non-living.
 
 With this, every living file has had pass 10 and every living file is at v390. check_set: ALL PASS.
+
+**v390, 2026-10-20, no sliders and no extra wide tables.**
+- **Exhibit ONE and Natural Intelligence:** each self carries two prior selves from inception, one universal method of conception.
+- **Natural Numbers:** its 441-row table keeps its numbers narrow, and its relations column is a list after it; its number-forms table is a list.
+- **Fourteen more files:** each table wider than 80 is a narrow list, its columns named once by letter keys, its words unchanged and none repeated (`incoming/v390/narrow_keys.py`). Natural Naming and the Living File Registry wait for their readers' pairs. The registry verifier and check_set pass, as before.

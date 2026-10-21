@@ -781,104 +781,302 @@ Philosophy's field of commonly-known dilemmas, each worded generically, each car
 
 ## 5.2 Metaphysics
 
-| dilemma (generic) | the one coupling it splits | register | the fixing it stands at |
-|---|---|---|---|
-| being / becoming | a self-equilibrating form | reached with 3.1 | none, no arrival |
-| mind / body | a self bounding itself, inward from outward | reached with 3.2 | a middle fixed as an end |
-| free will / determinism | a self's own taking | reached with 3.3 | a two-way fixed to one side |
-| the one / the many | a self among selves, the unbound fractal | reached with 3.5 | none, no arrival |
-| time: the flowing now / the block | each self pacing its own time | reached with 3.7 | a sequencing fixed to one beat |
-| determinism / chance | a self's own taking reached from outward by two dead accounts | reached with 3.3, with world scale | a two-way fixed to one side |
-| universals / particulars (realism / nominalism) | classifying, which couples a classifier and a world | reached with 3.26 | a between fixed as a cut |
-| identity / change (persistence) | a self re-forming its same self | reached with 3.15 | a carry fixed as a store |
-| whole / parts (reductionism / emergence) | competency, one same form with two scales | reached with 3.13 | a sequencing fixed to one beat |
-| appearance / reality | a living surface, reached from inward and reached from a still frame | reached — a still observer's own sorting, with seam 4 | none, no arrival |
-| substance / process | properties coupling, and an object being present | reached with 3.29 | a middle fixed as an end |
-| cause / effect (the problem of causation) | a coupling, no force crossing, only parity | reached with 3.9 | a two-way fixed to one side |
-| discrete / continuous (the paradoxes of motion) | one carrying, its decomposition made ahead of it | reached with 3.31 | a completing fixed as a last |
-| finite / infinite (actual / potential infinite) | a bounded infinity, bounding-zeroing | reached with 3.16 | an opening fixed as a place |
-| necessity / contingency | an emanated standing, and an account laid over it | reached with 3.5's emanating | none, no arrival |
-| laws of nature | regularities arising with couplings, each coupling its own | reached with 3.30 | a sequencing fixed to one beat |
-| why there is something | existing, which is arriving itself | reached with 3.28 | an arriving fixed from behind |
-| possibility / actuality (modality) | riding the carry, and a seated selection | reaching | none, no arrival |
+Each entry: **dilemma (generic)** · *a* the one coupling it splits · *b* register · *c* the fixing it stands at
+
+- **being / becoming**
+  - *a* a self-equilibrating form
+  - *b* reached with 3.1
+  - *c* none, no arrival
+- **mind / body**
+  - *a* a self bounding itself, inward from outward
+  - *b* reached with 3.2
+  - *c* a middle fixed as an end
+- **free will / determinism**
+  - *a* a self's own taking
+  - *b* reached with 3.3
+  - *c* a two-way fixed to one side
+- **the one / the many**
+  - *a* a self among selves, the unbound fractal
+  - *b* reached with 3.5
+  - *c* none, no arrival
+- **time: the flowing now / the block**
+  - *a* each self pacing its own time
+  - *b* reached with 3.7
+  - *c* a sequencing fixed to one beat
+- **determinism / chance**
+  - *a* a self's own taking reached from outward by two dead accounts
+  - *b* reached with 3.3, with world scale
+  - *c* a two-way fixed to one side
+- **universals / particulars (realism / nominalism)**
+  - *a* classifying, which couples a classifier and a world
+  - *b* reached with 3.26
+  - *c* a between fixed as a cut
+- **identity / change (persistence)**
+  - *a* a self re-forming its same self
+  - *b* reached with 3.15
+  - *c* a carry fixed as a store
+- **whole / parts (reductionism / emergence)**
+  - *a* competency, one same form with two scales
+  - *b* reached with 3.13
+  - *c* a sequencing fixed to one beat
+- **appearance / reality**
+  - *a* a living surface, reached from inward and reached from a still frame
+  - *b* reached — a still observer's own sorting, with seam 4
+  - *c* none, no arrival
+- **substance / process**
+  - *a* properties coupling, and an object being present
+  - *b* reached with 3.29
+  - *c* a middle fixed as an end
+- **cause / effect (the problem of causation)**
+  - *a* a coupling, no force crossing, only parity
+  - *b* reached with 3.9
+  - *c* a two-way fixed to one side
+- **discrete / continuous (the paradoxes of motion)**
+  - *a* one carrying, its decomposition made ahead of it
+  - *b* reached with 3.31
+  - *c* a completing fixed as a last
+- **finite / infinite (actual / potential infinite)**
+  - *a* a bounded infinity, bounding-zeroing
+  - *b* reached with 3.16
+  - *c* an opening fixed as a place
+- **necessity / contingency**
+  - *a* an emanated standing, and an account laid over it
+  - *b* reached with 3.5's emanating
+  - *c* none, no arrival
+- **laws of nature**
+  - *a* regularities arising with couplings, each coupling its own
+  - *b* reached with 3.30
+  - *c* a sequencing fixed to one beat
+- **why there is something**
+  - *a* existing, which is arriving itself
+  - *b* reached with 3.28
+  - *c* an arriving fixed from behind
+- **possibility / actuality (modality)**
+  - *a* riding the carry, and a seated selection
+  - *b* reaching
+  - *c* none, no arrival
 
 ## 5.3 Epistemology
 
-| dilemma (generic) | the one coupling it splits | register | the fixing it stands at |
-|---|---|---|---|
-| subject / object (knower / known) | a self ≠ other-self, observer and observed | reached with 3.4 | a between fixed as a cut |
-| skepticism / knowledge (the external world) | experience arising with couplings, its arising its coupling's own | reached with 3.19 | a middle fixed as an end |
-| foundation / coherence (the regress) | a ground made with each coupling | reached with 3.11 | an arriving fixed from behind |
-| justified-true-belief / knowledge (Gettier) | knowing with its own between, listed within no case-space | reached with 3.27 | an opening fixed as a place |
-| induction / the un-repeating | a carry seating its own next | reached with 3.12 | a completing fixed as a last |
-| theory / observation (theory-ladenness) | evidence arising with couplings and coupling whole | reached with 3.21 | a middle fixed as an end |
-| learning and knowing (the paradox of inquiry) | a discovering reached with its coupling, fixed nowhere before it | reached with 3.23 | an opening fixed as a place |
-| the whole and its parts in reading (the hermeneutic circle) | part and whole coupling with each interpreting | reached with 3.24 | an arriving fixed from behind |
-| two observings at odds (peer disagreement) | two selves each taking their own parity with their own bounding | reached with 3.35 | an opening fixed as a place |
-| reason / experience (rationalism / empiricism) | two sides of one knowing-coupling | reaching | none, no arrival |
-| a priori / a posteriori | reason and experience with their founding between | reaching | none, no arrival |
-| analytic / synthetic | form's own, and a discovered seating | reaching | none, no arrival |
-| realism / anti-realism (about truth) | form discovered, and form imposed | reaching | none, no arrival |
+Each entry: **dilemma (generic)** · *a* the one coupling it splits · *b* register · *c* the fixing it stands at
+
+- **subject / object (knower / known)**
+  - *a* a self ≠ other-self, observer and observed
+  - *b* reached with 3.4
+  - *c* a between fixed as a cut
+- **skepticism / knowledge (the external world)**
+  - *a* experience arising with couplings, its arising its coupling's own
+  - *b* reached with 3.19
+  - *c* a middle fixed as an end
+- **foundation / coherence (the regress)**
+  - *a* a ground made with each coupling
+  - *b* reached with 3.11
+  - *c* an arriving fixed from behind
+- **justified-true-belief / knowledge (Gettier)**
+  - *a* knowing with its own between, listed within no case-space
+  - *b* reached with 3.27
+  - *c* an opening fixed as a place
+- **induction / the un-repeating**
+  - *a* a carry seating its own next
+  - *b* reached with 3.12
+  - *c* a completing fixed as a last
+- **theory / observation (theory-ladenness)**
+  - *a* evidence arising with couplings and coupling whole
+  - *b* reached with 3.21
+  - *c* a middle fixed as an end
+- **learning and knowing (the paradox of inquiry)**
+  - *a* a discovering reached with its coupling, fixed nowhere before it
+  - *b* reached with 3.23
+  - *c* an opening fixed as a place
+- **the whole and its parts in reading (the hermeneutic circle)**
+  - *a* part and whole coupling with each interpreting
+  - *b* reached with 3.24
+  - *c* an arriving fixed from behind
+- **two observings at odds (peer disagreement)**
+  - *a* two selves each taking their own parity with their own bounding
+  - *b* reached with 3.35
+  - *c* an opening fixed as a place
+- **reason / experience (rationalism / empiricism)**
+  - *a* two sides of one knowing-coupling
+  - *b* reaching
+  - *c* none, no arrival
+- **a priori / a posteriori**
+  - *a* reason and experience with their founding between
+  - *b* reaching
+  - *c* none, no arrival
+- **analytic / synthetic**
+  - *a* form's own, and a discovered seating
+  - *b* reaching
+  - *c* none, no arrival
+- **realism / anti-realism (about truth)**
+  - *a* form discovered, and form imposed
+  - *b* reaching
+  - *c* none, no arrival
 
 ## 5.4 Mind
 
-| dilemma (generic) | the one coupling it splits | register | the fixing it stands at |
-|---|---|---|---|
-| consciousness / matter (the hard problem) | self-bounding's inward side | reached with 3.2, a middle fixed as an end | a middle fixed as an end |
-| experience / function (qualia) | a self's own interior, reached with its bounding | reached with 3.32 | a middle fixed as an end |
-| other minds | a coupling between distinct selves | reached with 3.14 | a middle fixed as an end |
-| the self / the bundle | a self re-forming, and a still frame observing it as a heap | reached with 3.29 | a middle fixed as an end |
-| aboutness (intentionality) | a symbol offering by couplings and taking its parity there | reached with 3.25 | a middle fixed as an end |
-| mental causation | mind and body with their acting between | reaching | none, no arrival |
+Each entry: **dilemma (generic)** · *a* the one coupling it splits · *b* register · *c* the fixing it stands at
+
+- **consciousness / matter (the hard problem)**
+  - *a* self-bounding's inward side
+  - *b* reached with 3.2, a middle fixed as an end
+  - *c* a middle fixed as an end
+- **experience / function (qualia)**
+  - *a* a self's own interior, reached with its bounding
+  - *b* reached with 3.32
+  - *c* a middle fixed as an end
+- **other minds**
+  - *a* a coupling between distinct selves
+  - *b* reached with 3.14
+  - *c* a middle fixed as an end
+- **the self / the bundle**
+  - *a* a self re-forming, and a still frame observing it as a heap
+  - *b* reached with 3.29
+  - *c* a middle fixed as an end
+- **aboutness (intentionality)**
+  - *a* a symbol offering by couplings and taking its parity there
+  - *b* reached with 3.25
+  - *c* a middle fixed as an end
+- **mental causation**
+  - *a* mind and body with their acting between
+  - *b* reaching
+  - *c* none, no arrival
 
 ## 5.5 Ethics
 
-| dilemma (generic) | the one coupling it splits | register | the fixing it stands at |
-|---|---|---|---|
-| is / ought (fact / value) | a moral self's own taking | reached with 3.6 | an opening fixed as a place |
-| duty / outcome (deontology / consequentialism) | a criterion colliding with itself | reached with 3.6's governing side | none, no arrival |
-| virtue / rule | a carried competency, and a fixed rule | reached with 3.6's governing side | none, no arrival |
-| moral realism / anti-realism | a taking discovered, and a taking projected | reached with 3.6's governing side | none, no arrival |
-| self / other (egoism / altruism) | abundancing arriving as a coupling's own, owned by neither side | reached with 3.33 | a two-way fixed to one side |
-| relative / universal (about morality) | a local rate, and a constant fixed over all | reached — morality is unrelationing, and an axis given to all reaches for what cannot be made a member | none, no arrival |
-| means / ends | a coupling, and its landing | reaching | none, no arrival |
-| purpose / mechanism (teleology and function) | a trait coupling with its history and with its present organization | reached with 3.34 | a two-way fixed to one side |
-| ordering selves each with their own (population ethics) | an ordering demanded over couplings each with their own rate | reaching | a sequencing fixed to one beat |
+Each entry: **dilemma (generic)** · *a* the one coupling it splits · *b* register · *c* the fixing it stands at
+
+- **is / ought (fact / value)**
+  - *a* a moral self's own taking
+  - *b* reached with 3.6
+  - *c* an opening fixed as a place
+- **duty / outcome (deontology / consequentialism)**
+  - *a* a criterion colliding with itself
+  - *b* reached with 3.6's governing side
+  - *c* none, no arrival
+- **virtue / rule**
+  - *a* a carried competency, and a fixed rule
+  - *b* reached with 3.6's governing side
+  - *c* none, no arrival
+- **moral realism / anti-realism**
+  - *a* a taking discovered, and a taking projected
+  - *b* reached with 3.6's governing side
+  - *c* none, no arrival
+- **self / other (egoism / altruism)**
+  - *a* abundancing arriving as a coupling's own, owned by neither side
+  - *b* reached with 3.33
+  - *c* a two-way fixed to one side
+- **relative / universal (about morality)**
+  - *a* a local rate, and a constant fixed over all
+  - *b* reached — morality is unrelationing, and an axis given to all reaches for what cannot be made a member
+  - *c* none, no arrival
+- **means / ends**
+  - *a* a coupling, and its landing
+  - *b* reaching
+  - *c* none, no arrival
+- **purpose / mechanism (teleology and function)**
+  - *a* a trait coupling with its history and with its present organization
+  - *b* reached with 3.34
+  - *c* a two-way fixed to one side
+- **ordering selves each with their own (population ethics)**
+  - *a* an ordering demanded over couplings each with their own rate
+  - *b* reaching
+  - *c* a sequencing fixed to one beat
 
 ## 5.6 Aesthetics
 
-| dilemma (generic) | the one coupling it splits | register | the fixing it stands at |
-|---|---|---|---|
-| beauty in-the-object / in-the-beholder | an appearing boundary, one for all and one for each | reached — appreciating and taste, receiving as its own competency | none, no arrival |
-| the maker's meaning / the work's meaning | offering and receiving, one coupling | reached with 3.24 | an arriving fixed from behind |
-| form / content | a bounding, and its bounded | reaching | none, no arrival |
-| representation / expression | an offered surface, and a received appearing | reaching | none, no arrival |
+Each entry: **dilemma (generic)** · *a* the one coupling it splits · *b* register · *c* the fixing it stands at
+
+- **beauty in-the-object / in-the-beholder**
+  - *a* an appearing boundary, one for all and one for each
+  - *b* reached — appreciating and taste, receiving as its own competency
+  - *c* none, no arrival
+- **the maker's meaning / the work's meaning**
+  - *a* offering and receiving, one coupling
+  - *b* reached with 3.24
+  - *c* an arriving fixed from behind
+- **form / content**
+  - *a* a bounding, and its bounded
+  - *b* reaching
+  - *c* none, no arrival
+- **representation / expression**
+  - *a* an offered surface, and a received appearing
+  - *b* reaching
+  - *c* none, no arrival
 
 ## 5.7 Language and logic
 
-| dilemma (generic) | the one coupling it splits | register | the fixing it stands at |
-|---|---|---|---|
-| meaning / use (rule-following) | meaning made with each use, fixed as a store | reached with 3.8 | a carry fixed as a store |
-| sense / reference (meaning / thing) | a word and its meaning, a gap that stays open | reached — a naming unfolded with each coupling, stored nowhere | none, no arrival |
-| self-reference (the liar) | a truth predicate offering with its own sentence | reached with 3.17 | a between fixed as a cut |
-| consistency / completeness (incompleteness) | a derivation reaching next by next to its system's own bound | reached with 3.18 | a completing fixed as a last |
-| a listing observed from inward and from outward (Skolem) | axioms and models coupling, each model making its own countings | reached with 3.37 | a sequencing fixed to one beat |
-| numbers-real / numbers-made (platonism / formalism) | a practice going on with every proof and every application | reached with 3.20 | a middle fixed as an end |
-| vagueness (the heap, the sorites) | a binary taking, and a demand for a landed line | reached with 3.10 | a between fixed as a cut |
-| sign / signified | sense and reference with a sign's between | reaching | none, no arrival |
+Each entry: **dilemma (generic)** · *a* the one coupling it splits · *b* register · *c* the fixing it stands at
+
+- **meaning / use (rule-following)**
+  - *a* meaning made with each use, fixed as a store
+  - *b* reached with 3.8
+  - *c* a carry fixed as a store
+- **sense / reference (meaning / thing)**
+  - *a* a word and its meaning, a gap that stays open
+  - *b* reached — a naming unfolded with each coupling, stored nowhere
+  - *c* none, no arrival
+- **self-reference (the liar)**
+  - *a* a truth predicate offering with its own sentence
+  - *b* reached with 3.17
+  - *c* a between fixed as a cut
+- **consistency / completeness (incompleteness)**
+  - *a* a derivation reaching next by next to its system's own bound
+  - *b* reached with 3.18
+  - *c* a completing fixed as a last
+- **a listing observed from inward and from outward (Skolem)**
+  - *a* axioms and models coupling, each model making its own countings
+  - *b* reached with 3.37
+  - *c* a sequencing fixed to one beat
+- **numbers-real / numbers-made (platonism / formalism)**
+  - *a* a practice going on with every proof and every application
+  - *b* reached with 3.20
+  - *c* a middle fixed as an end
+- **vagueness (the heap, the sorites)**
+  - *a* a binary taking, and a demand for a landed line
+  - *b* reached with 3.10
+  - *c* a between fixed as a cut
+- **sign / signified**
+  - *a* sense and reference with a sign's between
+  - *b* reaching
+  - *c* none, no arrival
 
 ## 5.8 Religion and the political
 
-| dilemma (generic) | the one coupling it splits | register | the fixing it stands at |
-|---|---|---|---|
-| individual / collective (liberty / community) | a self and its same-existing-society, one form with two scales | reached — self-scale is same-existing-society-scale | none, no arrival |
-| structure / agency | persons and arrangements coupling with every action | reached with 3.22 | a two-way fixed to one side |
-| nature / convention (natural / made) | officials and rules coupling with every application | reached with 3.36 | a between fixed as a cut |
-| the good and the world's evil | self-sustaining harm, and suffering that remains | reaching — its structural half carries, harm that sustains being a coupling; its remainder is real suffering and stands unreached by explaining entirely, under taking-against-harm | none, no arrival |
-| faith / reason | two sides of one recognition | reaching | none, no arrival |
-| immanence / transcendence | form within, and form transcending | reaching | none, no arrival |
-| equality / liberty | a self among selves with a political between | reaching | none, no arrival |
-| aggregating preferences | an ordering demanded over selves each with their own | reaching | a sequencing fixed to one beat |
+Each entry: **dilemma (generic)** · *a* the one coupling it splits · *b* register · *c* the fixing it stands at
+
+- **individual / collective (liberty / community)**
+  - *a* a self and its same-existing-society, one form with two scales
+  - *b* reached — self-scale is same-existing-society-scale
+  - *c* none, no arrival
+- **structure / agency**
+  - *a* persons and arrangements coupling with every action
+  - *b* reached with 3.22
+  - *c* a two-way fixed to one side
+- **nature / convention (natural / made)**
+  - *a* officials and rules coupling with every application
+  - *b* reached with 3.36
+  - *c* a between fixed as a cut
+- **the good and the world's evil**
+  - *a* self-sustaining harm, and suffering that remains
+  - *b* reaching — its structural half carries, harm that sustains being a coupling; its remainder is real suffering and stands unreached by explaining entirely, under taking-against-harm
+  - *c* none, no arrival
+- **faith / reason**
+  - *a* two sides of one recognition
+  - *b* reaching
+  - *c* none, no arrival
+- **immanence / transcendence**
+  - *a* form within, and form transcending
+  - *b* reaching
+  - *c* none, no arrival
+- **equality / liberty**
+  - *a* a self among selves with a political between
+  - *b* reaching
+  - *c* none, no arrival
+- **aggregating preferences**
+  - *a* an ordering demanded over selves each with their own
+  - *b* reaching
+  - *c* a sequencing fixed to one beat
 
 # PART SIX · COHERING
 

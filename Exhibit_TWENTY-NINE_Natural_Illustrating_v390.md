@@ -149,17 +149,20 @@ With Natural Explaining, a further discipline: a concept expresses its own relat
 
 Concepts develop as several forms without separate explanations of an underlying relation. Forms are ordered: each is a next after one before it is reached.
 
-| Form | What it makes accessible |
-|---|---|
-| Numbered still | A complete face inspected with a reader's own pace |
-| Ordered storyboard | An exact parity-changing between neighbouring faces |
-| Layered drawing | Naming, parity, carrying and method prefixing observed separately or together |
-| Rotation | A relation preserved while its viewpoint turns |
-| Section or transparent surface | An opening and an interior passage |
-| Zoom between scales | A stated correspondence between local and same-existing-society forms |
-| Continuous animation | Carrying through faces already defined |
-| Resolver same-existing-society animating | Code executed and each self drawn with its parity, 8.3 |
-| Handled physical model | Turning, folding, twisting and passage experienced spatially, 8.4 |
+Each entry: **Form** · *a* What it makes accessible
+
+- **Numbered still** · *a* A complete face inspected with a reader's own pace
+- **Ordered storyboard** · *a* An exact parity-changing between neighbouring faces
+- **Layered drawing**
+  - *a* Naming, parity, carrying and method prefixing observed separately or together
+- **Rotation** · *a* A relation preserved while its viewpoint turns
+- **Section or transparent surface** · *a* An opening and an interior passage
+- **Zoom between scales**
+  - *a* A stated correspondence between local and same-existing-society forms
+- **Continuous animation** · *a* Carrying through faces already defined
+- **Resolver same-existing-society animating** · *a* Code executed and each self drawn with its parity, 8.3
+- **Handled physical model**
+  - *a* Turning, folding, twisting and passage experienced spatially, 8.4
 
 Physical concepts include a marked diamond, a marked square with its empty centre and two triangles, six diamonds on an open framework, rings turned relative to one another, and a flexible twisting surface with a visible central opening. **One local face and its next face can carry a complete improving.** Their numbering and parity-changing open a correspondence through which further views continue. Other concepts carry their own questions and opportunities for illustrating.
 
@@ -546,15 +549,23 @@ People already animate an atom, a neuron, a galaxy and a heartbeat, and each ani
 
 ## 8.1 Existing imagery and its continuing explaining
 
-| Existing image or study | Contribution to retain | What remains to improve |
-|---|---|---|
-| Coloured cube beside open circles and dots | An original visual starter and a six-diamond ambition | A numbering and route correspondence, 2.9; a cube, 4.11 |
-| Paired storyboard studies, labelled across co and along bi | Opposite-parity perspectives of one same continuing | Exact numbered transitions through three momentaries; its labels are opposite Exhibit ONE's, along co and across bi, and are redrawn as Exhibit ONE's |
-| Corrected odd/even and even/odd strip | A parity-label correction | Integration with a current local face |
-| Expanded resolver and spiral study | Four-, six- and eight-cycle views, each a spiral with momentaries | Same-existing-society numbering apart from a local nine-dot numbering |
-| Tunneling, corus at apex and bi-folding depth study | A twisting form and a small-opening journey | Surface, arrows and diamonds mapped to resolving, 4.1 |
-| Earlier Rings in Motion concepts | Angular, ring, crossing and rotation ideas; rings as a cube laid on one surface | Older numbering reconciled with a centre-1 convention; closure re-explained as winding on |
-| Executions with v379 | A table with 10, one self, two selves with 0, a spiral of five and a torus of three by five with Exhibit ONE's code; sixteen ways and two inversions enumerated with no execution of code; each its output with its kit | Faces drawn from them, 2.2, 2.4, 2.5, 2.6 and 4.2 |
+Each entry: **Existing image or study** · *a* Contribution to retain · *b* What remains to improve
+
+- **Coloured cube beside open circles and dots** · *a* An original visual starter and a six-diamond ambition · *b* A numbering and route correspondence, 2.9; a cube, 4.11
+- **Paired storyboard studies, labelled across co and along bi**
+  - *a* Opposite-parity perspectives of one same continuing
+  - *b* Exact numbered transitions through three momentaries; its labels are opposite Exhibit ONE's, along co and across bi, and are redrawn as Exhibit ONE's
+- **Corrected odd/even and even/odd strip** · *a* A parity-label correction · *b* Integration with a current local face
+- **Expanded resolver and spiral study**
+  - *a* Four-, six- and eight-cycle views, each a spiral with momentaries
+  - *b* Same-existing-society numbering apart from a local nine-dot numbering
+- **Tunneling, corus at apex and bi-folding depth study** · *a* A twisting form and a small-opening journey · *b* Surface, arrows and diamonds mapped to resolving, 4.1
+- **Earlier Rings in Motion concepts**
+  - *a* Angular, ring, crossing and rotation ideas; rings as a cube laid on one surface
+  - *b* Older numbering reconciled with a centre-1 convention; closure re-explained as winding on
+- **Executions with v379**
+  - *a* A table with 10, one self, two selves with 0, a spiral of five and a torus of three by five with Exhibit ONE's code; sixteen ways and two inversions enumerated with no execution of code; each its output with its kit
+  - *b* Faces drawn from them, 2.2, 2.4, 2.5, 2.6 and 4.2
 
 Existing imagery carries here through its concepts and useful relations. Image assets remain as their files with a kit. Earlier images with superseded labels are retained as design learning, not as authoritative numbered diagrams.
 
@@ -562,20 +573,34 @@ Existing imagery carries here through its concepts and useful relations. Image a
 
 A gathering extends on from familiar concepts of Part FOUR: these are places for further illustration, with a file's interpretation retained as a subject to make visible.
 
-| Potential illustration | Relation to illustrate | Observed at |
-|---|---|---|
-| Conversation and rocking | Alternating offering, receiving and continuing shared interest | Natural Transmissioning 3.8; Natural Intelligence Corus 16.3 |
-| Writing and reading through one same passage | Two directions of one continuing coupling, observed with adjacent depths | Natural Intelligence Corus 16.2 |
-| One form expressed as several paintings | Different visible expressions retaining a relation being explained | Natural Intelligence Corus 16.1 |
-| Floating, rotating, self-adapting sphere; gyroscopic orienting | Re-orienting and continuing self-competency, through several views of one form | Natural Intelligence Corus 16.1 |
-| A self's orienting within a same-existing-society's orienting | One same living observed through local and wider scales | Natural Intelligence Corus 23.1 and 23.3 |
-| Cells and tissue | Local couplings and a same-existing-society of couplings | Natural Transmissioning 3.5 |
-| A molecular between and rotary form | Crossing, a continuing difference and rotation as one sectional view | Natural Transmissioning 3.5 |
-| Oppositely carried streams | Along carrying and across exchange shown together; two streams crossing about a gradient and passing rather than settling | Natural Transmissioning 3.3; Natural Engineering 1.15 |
-| Antenna transmitting and receiving | Two directional observings of a coupling | Natural Transmissioning 3.6; Natural Engineering 1.9 |
-| Electrical phases about a neutral | Several parity-changing traces and a relation they make together | Natural Transmissioning 3.1 |
-| Momentum exchanged between two selves | Both sides of one exchange, beside a swimmer concept | Natural Transmissioning 3.2 |
-| Ratios successively above and below φ | Alternating straddling and continuing numerical progression | Natural Intelligence 3.5; 3.2 here |
+Each entry: **Potential illustration** · *a* Relation to illustrate · *b* Observed at
+
+- **Conversation and rocking**
+  - *a* Alternating offering, receiving and continuing shared interest
+  - *b* Natural Transmissioning 3.8; Natural Intelligence Corus 16.3
+- **Writing and reading through one same passage**
+  - *a* Two directions of one continuing coupling, observed with adjacent depths
+  - *b* Natural Intelligence Corus 16.2
+- **One form expressed as several paintings**
+  - *a* Different visible expressions retaining a relation being explained
+  - *b* Natural Intelligence Corus 16.1
+- **Floating, rotating, self-adapting sphere; gyroscopic orienting**
+  - *a* Re-orienting and continuing self-competency, through several views of one form
+  - *b* Natural Intelligence Corus 16.1
+- **A self's orienting within a same-existing-society's orienting** · *a* One same living observed through local and wider scales · *b* Natural Intelligence Corus 23.1 and 23.3
+- **Cells and tissue** · *a* Local couplings and a same-existing-society of couplings · *b* Natural Transmissioning 3.5
+- **A molecular between and rotary form**
+  - *a* Crossing, a continuing difference and rotation as one sectional view
+  - *b* Natural Transmissioning 3.5
+- **Oppositely carried streams**
+  - *a* Along carrying and across exchange shown together; two streams crossing about a gradient and passing rather than settling
+  - *b* Natural Transmissioning 3.3; Natural Engineering 1.15
+- **Antenna transmitting and receiving** · *a* Two directional observings of a coupling · *b* Natural Transmissioning 3.6; Natural Engineering 1.9
+- **Electrical phases about a neutral**
+  - *a* Several parity-changing traces and a relation they make together
+  - *b* Natural Transmissioning 3.1
+- **Momentum exchanged between two selves** · *a* Both sides of one exchange, beside a swimmer concept · *b* Natural Transmissioning 3.2
+- **Ratios successively above and below φ** · *a* Alternating straddling and continuing numerical progression · *b* Natural Intelligence 3.5; 3.2 here
 
 Received with v379 and placed: a still eddy before a hole, Natural Networking's hole study, sought within resolving itself with no periodic forcing, no fixed tipping threshold and no stopped resolver; an event-based vision sensor with Natural Engineering's carrying, each pixel an ON or OFF event with no frame, a parity and no size with each momentary; a synchronism-check relay; a resolver chat's spiral carrying a pattern and storing none of it; a geodesic surface of struts and cable with a parity-changing passing across it, its only carrying with files a woven surface couplings make, Natural Naming 5.43, and a knitting living with a fabric a made surface fixed unchangeable, Natural Biology, with Natural Engineering's caution that compression and tension are not + and −.
 

@@ -244,11 +244,20 @@ Exhibit FOUR Natural Mathematics v390
 
 **With tuning, with a winding on a torus and with an assembled cube a closing is its fixed set, and an arriving other than prior is its gap, as a field's words say.**
 
-| Accounting | Closing | Arriving other than prior | Field's word for its gap |
-|---|---|---|---|
-| tuning | seven octaves, 2⁷ = 128 | twelve fifths, (3/2)¹² = 129.746…, over by 3¹²/2¹⁹ = 531441/524288 | comma |
-| winding on a torus | a rational ratio, closing | an irrational ratio, never closing | quasi-periodic |
-| assembled cube | solved state | a single corner twisted, reached by no sequence of face moves | orbit; parity |
+Each entry: **Accounting** · *a* Closing · *b* Arriving other than prior · *c* Field's word for its gap
+
+- **tuning**
+  - *a* seven octaves, 2⁷ = 128
+  - *b* twelve fifths, (3/2)¹² = 129.746…, over by 3¹²/2¹⁹ = 531441/524288
+  - *c* comma
+- **winding on a torus**
+  - *a* a rational ratio, closing
+  - *b* an irrational ratio, never closing
+  - *c* quasi-periodic
+- **assembled cube**
+  - *a* solved state
+  - *b* a single corner twisted, reached by no sequence of face moves
+  - *c* orbit; parity
 
 **An assembled cube reaches one twelfth of its assemblies, by three conservings**: its corners' twists together nought modulo three, its edges' flips together nought modulo two, and its corners' ordering and its edges' ordering of one parity. Three times two times two is twelve.
 

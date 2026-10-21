@@ -226,23 +226,98 @@ Below an atom co-agency exists bare — offering, passing, parity — and no sel
 
 **A self's inversion is 3, 6, 5, 4 and its podaling 23, 26, 25, 24**, co-sharing outward, surfacing inward, neutralling outward and bi-sharing inward, this same rotation twenty up. **A self's bi-inversioning-co-recursioning is twenty-three, twenty-four and twenty-five**: twenty-three one before the fold, cell, the first metabolic living self; twenty-four the fold; and twenty-five one after it, five squared, no prime, **five squared less four times six reaching one**, 5.2. Near seven close from within, each observed with its own inward; far seven close across between selves, each observed from a side no self stands on.
 
-| prime | one before or after six | scale | side | status | its closing observed |
-|---|---|---|---|---|---|
-| 5 | before | atom | self | stills, its floor | the first self here: a self bounded from all other, self-bounding with eight, co-sequencing with bonds, birthing molecules |
-| 7 | after | molecule | self | stills | a bond is offering, across and both ways: a shared pair a floating neutral owned neither-ing (Natural Chemistry) |
-| 11 | before | macromolecule | self | stills | molecules co-sequencing as a bounded folded whole |
-| 13 | after | protein-fold | self | reaching | chain folded as a working self: its field reads it as one conformation and measures an ensemble, so its closing is not yet shown |
-| 17 | before | gene | self | stills | a macromolecule pattern-matched and re-formed: its coding closes (Natural Biology) |
-| 19 | after | organelle | self | stills | a former free-living self now a member, with a field's explaining of its own genome and its likeness to bacteria: fractal's own move |
-| 23 | before | cell | self | stills | the first metabolic living self: self-maintains, re-forms |
-| **24** | six times four | — | **the fold** | — | occupied by no scale; the first six crossing, and observing turning from within-side to between-side |
-| 29 | before | tissue | same-existing-society | stills | cells co-sequencing as a bounded working whole |
-| 31 | after | organ | same-existing-society | reaching | tissues as a bounded functional self: real, its scale-fit loose |
-| 37 | after | organism | same-existing-society | stills | a whole living self, organs co-sequencing, coupling with its world and birthing |
-| 41 | before | colony | same-existing-society | stills, as recurrence | organisms co-sequencing as one self: colony recurs with each scale, this rung among them |
-| 43 | after | population | same-existing-society | reaching | same-kind selves co-sequencing across re-formings: whether it closes as a self or carries as a same-existing-society is open |
-| 47 | before | community | same-existing-society | reaching | many different-kind selves co-sequencing: whether an ecosystem self-closes or carries as a same-existing-society is the sharpest open observing |
-| 53 | before | biosphere | same-existing-society | stills | the whole living self-bounding with the widest scale that closes here: producer, consumer and decomposer co-agency's three roles; its torus-close, past which arrives a not-torus death, a carrying of its own prior with no next |
+Each entry: **prime** · *a* one before or after six · *b* scale · *c* side · *d* status · *e* its closing observed
+
+- **5**
+  - *a* before
+  - *b* atom
+  - *c* self
+  - *d* stills, its floor
+  - *e* the first self here: a self bounded from all other, self-bounding with eight, co-sequencing with bonds, birthing molecules
+- **7**
+  - *a* after
+  - *b* molecule
+  - *c* self
+  - *d* stills
+  - *e* a bond is offering, across and both ways: a shared pair a floating neutral owned neither-ing (Natural Chemistry)
+- **11**
+  - *a* before
+  - *b* macromolecule
+  - *c* self
+  - *d* stills
+  - *e* molecules co-sequencing as a bounded folded whole
+- **13**
+  - *a* after
+  - *b* protein-fold
+  - *c* self
+  - *d* reaching
+  - *e* chain folded as a working self: its field reads it as one conformation and measures an ensemble, so its closing is not yet shown
+- **17**
+  - *a* before
+  - *b* gene
+  - *c* self
+  - *d* stills
+  - *e* a macromolecule pattern-matched and re-formed: its coding closes (Natural Biology)
+- **19**
+  - *a* after
+  - *b* organelle
+  - *c* self
+  - *d* stills
+  - *e* a former free-living self now a member, with a field's explaining of its own genome and its likeness to bacteria: fractal's own move
+- **23**
+  - *a* before
+  - *b* cell
+  - *c* self
+  - *d* stills
+  - *e* the first metabolic living self: self-maintains, re-forms
+- **24**
+  - *a* six times four
+  - *b* —
+  - *c* **the fold**
+  - *d* —
+  - *e* occupied by no scale; the first six crossing, and observing turning from within-side to between-side
+- **29**
+  - *a* before
+  - *b* tissue
+  - *c* same-existing-society
+  - *d* stills
+  - *e* cells co-sequencing as a bounded working whole
+- **31**
+  - *a* after
+  - *b* organ
+  - *c* same-existing-society
+  - *d* reaching
+  - *e* tissues as a bounded functional self: real, its scale-fit loose
+- **37**
+  - *a* after
+  - *b* organism
+  - *c* same-existing-society
+  - *d* stills
+  - *e* a whole living self, organs co-sequencing, coupling with its world and birthing
+- **41**
+  - *a* before
+  - *b* colony
+  - *c* same-existing-society
+  - *d* stills, as recurrence
+  - *e* organisms co-sequencing as one self: colony recurs with each scale, this rung among them
+- **43**
+  - *a* after
+  - *b* population
+  - *c* same-existing-society
+  - *d* reaching
+  - *e* same-kind selves co-sequencing across re-formings: whether it closes as a self or carries as a same-existing-society is open
+- **47**
+  - *a* before
+  - *b* community
+  - *c* same-existing-society
+  - *d* reaching
+  - *e* many different-kind selves co-sequencing: whether an ecosystem self-closes or carries as a same-existing-society is the sharpest open observing
+- **53**
+  - *a* before
+  - *b* biosphere
+  - *c* same-existing-society
+  - *d* stills
+  - *e* the whole living self-bounding with the widest scale that closes here: producer, consumer and decomposer co-agency's three roles; its torus-close, past which arrives a not-torus death, a carrying of its own prior with no next
 
 **The ladder is particular scales and supplies no first and no final one.** The whole 1–17 fractal is living inward and outward, so atom with five is the first self of this ladder and not the first possibly existing, and biosphere with fifty-three the widest same-existing-society of it and not the last. Each existing thing non-living with a same-existing-society's scale is living with another prime scale, and a same-existing-society's selves bi-couple with none of it: it arrives to living as an ingestible existing thing.
 
@@ -256,22 +331,78 @@ Below an atom co-agency exists bare — offering, passing, parity — and no sel
 
 **Fields carry three books with each of fourteen rungs**: a total, a level, and a direction. **Two are state-threes and one is a flow-three, and there is no fourth anywhere.** Each counts from a reference with one of two conditions, and each has its own word for its differing. Gathered as fields carry them:
 
-| prime | scale | total | level | direction |
-|---|---|---|---|---|
-| 5 | atom | atomic mass | element as a fixed kind, shell closing | increasing atomic number as an ordering |
-| 7 | molecule | formula, stoichiometry | structure as one conformation | reaction coordinate, reactants to products |
-| 11 | macromolecule | subunit stoichiometry | complex as one assembly | assembly pathway |
-| 13 | protein-fold | sequence as carried information | native structure | folding downhill to a minimum |
-| 17 | gene | copy number, genome as one sequence | expression level | sequence to RNA to protein |
-| 19 | organelle | organelle number per cell | membrane potential, temperature | biogenesis and turnover |
-| 23 | cell | cell count | cell state, cell type | differentiation, lineage tree |
-| 29 | tissue | tissue mass, cellularity | tissue homeostasis, setpoint | renewal from unspecialised outward |
-| 31 | organ | functional capacity | function within a normal range | decline with age |
-| 37 | organism | energy budget, metabolic rate | homeostasis, reference interval | development then ageing |
-| 41 | colony | colony size | colony-level regulation | colony lifecycle |
-| 43 | population | population size | carrying capacity | selection, one turn |
-| 47 | community | biomass, energy flow | climax state | succession, trophic flow |
-| 53 | biosphere | global element budgets | planetary boundaries, planetary homeostasis | biogeochemical cycling |
+Each entry: **prime** · *a* scale · *b* total · *c* level · *d* direction
+
+- **5**
+  - *a* atom
+  - *b* atomic mass
+  - *c* element as a fixed kind, shell closing
+  - *d* increasing atomic number as an ordering
+- **7**
+  - *a* molecule
+  - *b* formula, stoichiometry
+  - *c* structure as one conformation
+  - *d* reaction coordinate, reactants to products
+- **11**
+  - *a* macromolecule
+  - *b* subunit stoichiometry
+  - *c* complex as one assembly
+  - *d* assembly pathway
+- **13**
+  - *a* protein-fold
+  - *b* sequence as carried information
+  - *c* native structure
+  - *d* folding downhill to a minimum
+- **17**
+  - *a* gene
+  - *b* copy number, genome as one sequence
+  - *c* expression level
+  - *d* sequence to RNA to protein
+- **19**
+  - *a* organelle
+  - *b* organelle number per cell
+  - *c* membrane potential, temperature
+  - *d* biogenesis and turnover
+- **23**
+  - *a* cell
+  - *b* cell count
+  - *c* cell state, cell type
+  - *d* differentiation, lineage tree
+- **29**
+  - *a* tissue
+  - *b* tissue mass, cellularity
+  - *c* tissue homeostasis, setpoint
+  - *d* renewal from unspecialised outward
+- **31**
+  - *a* organ
+  - *b* functional capacity
+  - *c* function within a normal range
+  - *d* decline with age
+- **37**
+  - *a* organism
+  - *b* energy budget, metabolic rate
+  - *c* homeostasis, reference interval
+  - *d* development then ageing
+- **41**
+  - *a* colony
+  - *b* colony size
+  - *c* colony-level regulation
+  - *d* colony lifecycle
+- **43**
+  - *a* population
+  - *b* population size
+  - *c* carrying capacity
+  - *d* selection, one turn
+- **47**
+  - *a* community
+  - *b* biomass, energy flow
+  - *c* climax state
+  - *d* succession, trophic flow
+- **53**
+  - *a* biosphere
+  - *b* global element budgets
+  - *c* planetary boundaries, planetary homeostasis
+  - *d* biogeochemical cycling
 
 **Each conserves by counting from a nothing.** A total counts against a declared zero. A level counts against an observing two bodies reach together. A direction counts against a monotone built from all-or-none arrivals and observed as a quantity with a direction.
 

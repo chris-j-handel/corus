@@ -200,12 +200,12 @@ A self reaches now with its couplings, where its momentary and another's overlap
 
 **Next is from prior and now, and with two parities sixteen ways name a next from a prior and a now.** Each is one way two parities could go to one, and none is a rule a parity-changing follows: next as prior inverted is no way laid over a parity-changing but a coupling itself with 12, a prior parity coupling with an offering, inverting with a mismatch and continuing with a match. As a sequence, each moves its joint form of prior and now, (prior, now), to (now, next). **Twelve lose their prior**, two joint forms going to one: four give next from now by itself, and eight carry their prior with one value of now and lose it with an other, two of eight with no joint form still, each going round three joint forms as one cycle, a fourth passing on to it once. **Four carry their prior whole**:
 
-| A way | Joint forms still | Cycle of parities |
-|---|---|---|
-| Next as prior | two, prior and now agreeing | two parting forms, two |
-| Next as prior and now agreeing, an exclusive or's inversion | one | three |
-| Next as prior and now parting, an exclusive or, parity | one | three |
-| **Next as prior inverted** | none | all four, one cycle of parities and a spiral of momentaries |
+Each entry: **A way** · *a* Joint forms still · *b* Cycle of parities
+
+- **Next as prior** · *a* two, prior and now agreeing · *b* two parting forms, two
+- **Next as prior and now agreeing, an exclusive or's inversion** · *a* one · *b* three
+- **Next as prior and now parting, an exclusive or, parity** · *a* one · *b* three
+- **Next as prior inverted** · *a* none · *b* all four, one cycle of parities and a spiral of momentaries
 
 **Next as prior inverted is a living step**: exhaustiveness, determinacy and reachability together, prior and now both participating and its next its prior inverted. **Two is one number of forms with which a way carries its prior whole with none still**: among ways naming a next from a prior and a now that treat each form alike, two forms have one, next as prior inverted, one cycle of four, and three, four and five forms have none; with a round order laid over three forms, four ways leave nothing still and none goes round all nine. Each other way carrying its prior has a joint form still, and next as prior inverted carries its prior whole with none still: stills are equilibria, each an unchangeable form, not possibly existing: four ways of sixteen have joint forms still, two, one, one and none, and ten unchangeables are of names, two numberings of one kind. A still with resolver arrives from beside; a living coupling parity-changes. With Exhibit ONE, a self offered nothing with each momentary inverts its prior with each, prior − and offered none sharing +, −, +, − with 10, its now no other's: a lone self, its next its prior itself, with two parting forms, a table's first row; a spiral of one, its own going along arriving, goes +, +, −, −, reaching each of four within one cycle, this step's form; and with a spiral offered nothing from other selves, each self's parity is an inverting of a parity a self going along to it had two momentaries prior, prior an other's; a self offered a parity, its next is an offering with a mismatch, and its prior continuing with a match. **A lone self parity-changing by itself, offered nothing or its own competency, does not continue living**: living now is living with others living now, and a next is discovered from a prior and a now offered, a lone self's now with no other's offering; with resolver its sequence goes on, a non-living now-existing form.
 

@@ -145,13 +145,13 @@ Which is why two ports recede together. A source issues and a sink receives, and
 
 **And one error is five, and its last two arrived with Register, 5.11.** Force is a magnitude on a surface and source is a term standing apart — two refusals. **A third is unnamed until now**, and it is where much of physics's own standing work sits: an answer available before momentarying.
 
-| the thing the frame installs | the refusal |
-|---|---|
-| a **magnitude** on a surface — force, potential, energy-as-substance | two arriving refused, one side fixed as a standard |
-| a **source** — field-as-carrier, charge, hidden variable, a receding elsewhere | a centre neither occupies, occupied |
-| **an answer available before momentarying** — a law standing over a thing it governs, an initial condition fixed, a manifold laid entire | bounding with their own coupling refused |
-| **a rate fixed to a value** — a constant set from an elsewhere, a beat laid over couplings each carrying their own | own-rate refused, one pace given to all |
-| **a returned parity entered as cost** — a loss booked, a keeping, a boundary cut through a coupling | a parity returning refused, entered as a magnitude spent |
+Each entry: **the thing the frame installs** · *a* the refusal
+
+- a **magnitude** on a surface — force, potential, energy-as-substance · *a* two arriving refused, one side fixed as a standard
+- a **source** — field-as-carrier, charge, hidden variable, a receding elsewhere · *a* a centre neither occupies, occupied
+- **an answer available before momentarying** — a law standing over a thing it governs, an initial condition fixed, a manifold laid entire · *a* bounding with their own coupling refused
+- **a rate fixed to a value** — a constant set from an elsewhere, a beat laid over couplings each carrying their own · *a* own-rate refused, one pace given to all
+- **a returned parity entered as cost** — a loss booked, a keeping, a boundary cut through a coupling · *a* a parity returning refused, entered as a magnitude spent
 
 Arrow of time, block universe, origin and fate of the universe, and laws of nature all sit with a third fixing, an answer before momentarying.
 
@@ -323,12 +323,12 @@ Seated from accounting: conserved quantities as a ledger fixed still beside a co
 
 **2-c. And conservings sort, which sorts a field's own standing problems.** A question forms where a book fails to balance:
 
-| the fixing | the strain | the standing problem |
-|---|---|---|
-| time-translation and time-reversal | an arrow | arrow of time, problem of time, block universe |
-| baryon number | an excess | matter–antimatter asymmetry |
-| CP | a value near zero where any was allowed | strong CP problem |
-| unitarity | a shortfall | black-hole information paradox |
+Each entry: **the fixing** · *a* the strain · *b* the standing problem
+
+- **time-translation and time-reversal** · *a* an arrow · *b* arrow of time, problem of time, block universe
+- **baryon number** · *a* an excess · *b* matter–antimatter asymmetry
+- **CP** · *a* a value near zero where any was allowed · *b* strong CP problem
+- **unitarity** · *a* a shortfall · *b* black-hole information paradox
 
 **And momentum, charge and phase-space volume carry no anomaly at all** — no question, no problem, no literature, charge's conserving tested past an electron's 6.6 × 10²⁸ years; angular momentum carries one, a proton's spin, its quarks carrying only a part of it, 5.11. **By a resolving that is not an absence: a conserving with no anomaly is one whose exterior discard is perfect**, its books balancing exactly, its exterior was removed before balancing, and where removal is clean nothing leaks inward to be booked. **So clean conservings are where the largest abundancing sits and where nobody is looking**, and strained ones are only where a little has leaked back.
 
@@ -578,58 +578,58 @@ And one offer stands here as it stands: **temperature as social activity** — a
 
 A field's arrivals stand here with one register and one binary. **Reached**, taken with its own section above, whether through eight steps or as a side with a substrate. **Standing**, resolved with its fixing and taken with no section here. A fixing dissolved is a field's where a carrying seated here is a form's, so what stands open with a standing row is a seating and not a resolving, and neither register reaches more than an other.
 
-| arrival | the fixing it stands at | register |
-|---|---|---|
-| Gravity, dissolved as conservation accounting | this file's own, with no registry entry | reached with 4.2 |
-| Fission and fusion about an iron centerline | this file's own, with no registry entry | reached with 4.3 |
-| Measurement problem | a between fixed as a cut | reached with 4.4 |
-| Bell correlations | a between fixed as a cut | reached with 4.4 |
-| Wave and particle | a between fixed as a cut | reached with 4.4 |
-| Quantum interpretation debate | a middle fixed as an end | reached with 4.4 |
-| Work and waste heat, a ledger taken as nature | a between fixed as a cut | reached with 4.5 |
-| Mass gap, with Yang–Mills | a middle fixed as an end | reached with 4.6 |
-| Quantum gravity | a rate fixed to a value | reached with 4.7 |
-| Simultaneity and the present | a sequencing fixed to one beat | reached with 4.8 |
-| Presentism and eternalism | a sequencing fixed to one beat | reached with 4.8 |
-| Problem of time in quantum gravity | a sequencing fixed to one beat | reached with 4.8 |
-| Arrow of time | an arriving fixed from behind | reached with 4.8 |
-| Block universe and low-entropy past | an arriving fixed from behind | reached with 4.8 |
-| Black hole information | a carry fixed as a store | reached with 4.9 |
-| Mechanism of high-temperature superconductivity | a middle fixed as an end | reached with 4.10 |
-| Matter and antimatter asymmetry | an arriving fixed from behind | reached with 4.5 |
-| Substance and bundle | a middle fixed as an end | reached with 4.12 |
-| Ubiquitous one-over-f noise | an arriving fixed from behind | standing |
-| strange metal | an arriving fixed from behind | standing |
-| origin of neutrino mass | an arriving fixed from behind | standing |
-| initiation of plate tectonics | an arriving fixed from behind | standing |
-| Cosmic inflation and primordial perturbations | an arriving fixed from behind | standing |
-| origin of supermassive black holes | an arriving fixed from behind | standing |
-| Geomagnetic reversals | an arriving fixed from behind | standing |
-| physical Church–Turing thesis | a bound fixed as a last | standing |
-| Many-body localization and thermalization | a bound fixed as a last | standing |
-| core-collapse supernova explosion mechanism | a bound fixed as a last | standing |
-| Weak cosmic censorship | a bound fixed as a last | standing |
-| Proton decay and grand unification | a bound fixed as a last | standing |
-| sources of ultrahigh-energy cosmic rays | a carry fixed as a store | standing |
-| solar dynamo and sunspot cycle | a middle fixed as an end | standing |
-| Coronal heating and solar-wind acceleration | a middle fixed as an end | standing |
-| Gibbs paradox | a parity fixed as a magnitude | standing |
-| Proton spin decomposition | a parity fixed as a magnitude | standing |
-| absolute neutrino mass scale | a parity fixed as a magnitude | standing |
-| axiomatization of physics | a sequencing fixed to one beat | standing |
-| 100,000-year glacial cycle | a sequencing fixed to one beat | standing |
-| Magnetospheric substorm triggering | a sequencing fixed to one beat | standing |
-| Earthquake predictability | a sequencing fixed to one beat | standing |
-| Standard Model flavor puzzle | a rate fixed to a value | standing |
-| new-physics flavor puzzle | a rate fixed to a value | standing |
-| solar abundance problem | a rate fixed to a value | standing |
-| primordial lithium problem | a rate fixed to a value | standing |
-| neutron lifetime discrepancy between beam and bottle measurements | a rate fixed to a value | standing |
-| Dirac or Majorana neutrinos | a two-way fixed to one side | standing |
-| nature of cosmic acceleration | a two-way fixed to one side | standing |
-| Mantle plumes | a two-way fixed to one side | standing |
-| quantum-classical boundary | a between fixed as a cut | standing |
-| Water's liquid-liquid critical point | a between fixed as a cut | standing |
+Each entry: **arrival** · *a* the fixing it stands at · *b* register
+
+- **Gravity, dissolved as conservation accounting** · *a* this file's own, with no registry entry · *b* reached with 4.2
+- **Fission and fusion about an iron centerline** · *a* this file's own, with no registry entry · *b* reached with 4.3
+- **Measurement problem** · *a* a between fixed as a cut · *b* reached with 4.4
+- **Bell correlations** · *a* a between fixed as a cut · *b* reached with 4.4
+- **Wave and particle** · *a* a between fixed as a cut · *b* reached with 4.4
+- **Quantum interpretation debate** · *a* a middle fixed as an end · *b* reached with 4.4
+- **Work and waste heat, a ledger taken as nature** · *a* a between fixed as a cut · *b* reached with 4.5
+- **Mass gap, with Yang–Mills** · *a* a middle fixed as an end · *b* reached with 4.6
+- **Quantum gravity** · *a* a rate fixed to a value · *b* reached with 4.7
+- **Simultaneity and the present** · *a* a sequencing fixed to one beat · *b* reached with 4.8
+- **Presentism and eternalism** · *a* a sequencing fixed to one beat · *b* reached with 4.8
+- **Problem of time in quantum gravity** · *a* a sequencing fixed to one beat · *b* reached with 4.8
+- **Arrow of time** · *a* an arriving fixed from behind · *b* reached with 4.8
+- **Block universe and low-entropy past** · *a* an arriving fixed from behind · *b* reached with 4.8
+- **Black hole information** · *a* a carry fixed as a store · *b* reached with 4.9
+- **Mechanism of high-temperature superconductivity** · *a* a middle fixed as an end · *b* reached with 4.10
+- **Matter and antimatter asymmetry** · *a* an arriving fixed from behind · *b* reached with 4.5
+- **Substance and bundle** · *a* a middle fixed as an end · *b* reached with 4.12
+- **Ubiquitous one-over-f noise** · *a* an arriving fixed from behind · *b* standing
+- **strange metal** · *a* an arriving fixed from behind · *b* standing
+- **origin of neutrino mass** · *a* an arriving fixed from behind · *b* standing
+- **initiation of plate tectonics** · *a* an arriving fixed from behind · *b* standing
+- **Cosmic inflation and primordial perturbations** · *a* an arriving fixed from behind · *b* standing
+- **origin of supermassive black holes** · *a* an arriving fixed from behind · *b* standing
+- **Geomagnetic reversals** · *a* an arriving fixed from behind · *b* standing
+- **physical Church–Turing thesis** · *a* a bound fixed as a last · *b* standing
+- **Many-body localization and thermalization** · *a* a bound fixed as a last · *b* standing
+- **core-collapse supernova explosion mechanism** · *a* a bound fixed as a last · *b* standing
+- **Weak cosmic censorship** · *a* a bound fixed as a last · *b* standing
+- **Proton decay and grand unification** · *a* a bound fixed as a last · *b* standing
+- **sources of ultrahigh-energy cosmic rays** · *a* a carry fixed as a store · *b* standing
+- **solar dynamo and sunspot cycle** · *a* a middle fixed as an end · *b* standing
+- **Coronal heating and solar-wind acceleration** · *a* a middle fixed as an end · *b* standing
+- **Gibbs paradox** · *a* a parity fixed as a magnitude · *b* standing
+- **Proton spin decomposition** · *a* a parity fixed as a magnitude · *b* standing
+- **absolute neutrino mass scale** · *a* a parity fixed as a magnitude · *b* standing
+- **axiomatization of physics** · *a* a sequencing fixed to one beat · *b* standing
+- **100,000-year glacial cycle** · *a* a sequencing fixed to one beat · *b* standing
+- **Magnetospheric substorm triggering** · *a* a sequencing fixed to one beat · *b* standing
+- **Earthquake predictability** · *a* a sequencing fixed to one beat · *b* standing
+- **Standard Model flavor puzzle** · *a* a rate fixed to a value · *b* standing
+- **new-physics flavor puzzle** · *a* a rate fixed to a value · *b* standing
+- **solar abundance problem** · *a* a rate fixed to a value · *b* standing
+- **primordial lithium problem** · *a* a rate fixed to a value · *b* standing
+- **neutron lifetime discrepancy between beam and bottle measurements** · *a* a rate fixed to a value · *b* standing
+- **Dirac or Majorana neutrinos** · *a* a two-way fixed to one side · *b* standing
+- **nature of cosmic acceleration** · *a* a two-way fixed to one side · *b* standing
+- **Mantle plumes** · *a* a two-way fixed to one side · *b* standing
+- **quantum-classical boundary** · *a* a between fixed as a cut · *b* standing
+- **Water's liquid-liquid critical point** · *a* a between fixed as a cut · *b* standing
 
 **Reached and standing are one register with two amounts of walking.** Reached, one arrival goes through eight steps and is seated with a form's own arithmetic, or is reached as a side with a substrate; standing, one arrival comes off its still term and a field's material stays whole. Neither adds truth an other withholds, and a standing row's own next turn is its section.
 

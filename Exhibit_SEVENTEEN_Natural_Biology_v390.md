@@ -442,17 +442,33 @@ Homochirality stands as a sway carried by continuous re-forming rather than as a
 
 Single pattern-matching spiral observed as a set of pattern-matchings, each a parity, each answered with what record returns now, open to arrivals and all or none:
 
-| the pattern-matching | what would break it | what the record returns now |
-|---|---|---|
-| pattern-matching core single-handed | a coding molecule pattern-matched on the other hand | D-sugars and L-amino-acids with ribosome across all three domains and all of living time |
-| inverted form available with emanation positions and not coding | a left form found coding rather than passed through and relaxed | D-residues with walls, peptides and secretions; Z-DNA a conformation right strand passes through and relaxes from |
-| a landed emanation re-coupling only a grain down | an emanation living again with a scale that shed it | network eating downward, every same-existing-society's shed form next-smaller's food |
-| body's hand separable from pattern-matching hand | a body hand fixed by pattern-matching hand | left-twining and right-twining vines, sinistral snails, each one self pattern-matching right |
-| bounding hand separable from pattern-matching hand | a wall or a coat on pattern-matching hand of necessity | D-alanine and D-glutamate structural within bacterial wall |
-| racemisation tracking turnover | D-aspartate arriving where re-forming carries | a tenth of a per cent a year with enamel, dentine, lens and brain, with proteins a self is not replacing, and a repair enzyme carrying where it is |
-| amplification pattern-matching parity and not size | a hand arriving by a magnitude rather than by a tip | settle, waver and snap with tip, amplification pattern-matching which side and not how far |
-| life's hand uncorrelated with parity-violating lean | lean found to set hand | difference computed far below any coupling's reach and no correlation established with a tested instrument |
-| mirror life viable, single-spiralled, non-coupling by complementarity | a mirror living unable to pattern-match, or coupling with this one | predicted viable by a field's own programmes, and not yet made |
+Each entry: **the pattern-matching** · *a* what would break it · *b* what the record returns now
+
+- **pattern-matching core single-handed**
+  - *a* a coding molecule pattern-matched on the other hand
+  - *b* D-sugars and L-amino-acids with ribosome across all three domains and all of living time
+- **inverted form available with emanation positions and not coding**
+  - *a* a left form found coding rather than passed through and relaxed
+  - *b* D-residues with walls, peptides and secretions; Z-DNA a conformation right strand passes through and relaxes from
+- **a landed emanation re-coupling only a grain down**
+  - *a* an emanation living again with a scale that shed it
+  - *b* network eating downward, every same-existing-society's shed form next-smaller's food
+- **body's hand separable from pattern-matching hand**
+  - *a* a body hand fixed by pattern-matching hand
+  - *b* left-twining and right-twining vines, sinistral snails, each one self pattern-matching right
+- **bounding hand separable from pattern-matching hand** · *a* a wall or a coat on pattern-matching hand of necessity · *b* D-alanine and D-glutamate structural within bacterial wall
+- **racemisation tracking turnover**
+  - *a* D-aspartate arriving where re-forming carries
+  - *b* a tenth of a per cent a year with enamel, dentine, lens and brain, with proteins a self is not replacing, and a repair enzyme carrying where it is
+- **amplification pattern-matching parity and not size**
+  - *a* a hand arriving by a magnitude rather than by a tip
+  - *b* settle, waver and snap with tip, amplification pattern-matching which side and not how far
+- **life's hand uncorrelated with parity-violating lean**
+  - *a* lean found to set hand
+  - *b* difference computed far below any coupling's reach and no correlation established with a tested instrument
+- **mirror life viable, single-spiralled, non-coupling by complementarity**
+  - *a* a mirror living unable to pattern-match, or coupling with this one
+  - *b* predicted viable by a field's own programmes, and not yet made
 
 Eight return with record now and the ninth stands open, a possibling and no door. The last two decide observing of *right* rather than argue it, and record's returns are relative observing's: right one spiral's own parity, whichever hand a living winds, with origin's opening.
 

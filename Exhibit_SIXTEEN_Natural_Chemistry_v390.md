@@ -326,14 +326,26 @@ Genetic code is another table with another substrate, and similarity of tabulati
 
 A number reaches its own relation with a closing, and a field's record carries exact numbers that are Natural Numbers' own objects, each a number of a structure or a symmetry by a field's own words, carrying on with every unit. Each arrives with one of two registers: with relation, a field and Numbers carrying one same thing, or with number only, numeral arriving and relation parting.
 
-| Numbers' object | the field's instance, in the field's words | at the relation, or at the number only |
-|---|---|---|
-| sphere closing with twelve five-fold self-stillings (4.7) | every fullerene carries exactly twelve pentagons, Euler's relation with trivalent vertices; C₆₀ carries 12 pentagons, 20 hexagons, 32 faces, 90 bonds and 60 vertices | with relation: twelve five-fold are twelve pentagons of every closing, a field's own theorem |
-| thirty edges standing while twelve and twenty swap (8.11) | icosahedron with 12 vertices, 30 edges, 20 faces and dodecahedron with 20, 30, 12; closo-B₁₂H₁₂²⁻ with twelve and dodecahedrane C₂₀H₂₀ with twenty | with relation: one same duality |
-| four levels close with twenty-four, one arriving with closing and twenty-three otherwise (6.3) | methane's T_d has order twenty-four and is S₄, all orderings of its four vertices, one the identity; P₄, CCl₄ and adamantane alike | with relation: four-factorial by a field's own numbers, with carbon's own tetrahedron |
-| cuboctahedron, six, eight, twelve and twenty-four within one closing (5.12) | coordination polyhedron of cubic close packing: twelve neighbours, twenty-four edges, eight triangles, six squares | with relation |
-| seam `48 = 7² − 1` (6.5) | octahedral O_h, order forty-eight, SF₆ and cubane C₈H₈; its proper rotations O of order twenty-four, again S₄ | with number; relation to seam reaching yet |
-| five levels close with one hundred twenty (6.3); ring closing with one hundred twenty; turn with sixty | icosahedral group I_h, of order one hundred twenty, is symmetry of C₆₀; its proper rotations I, of order sixty, are chiral half, A₅, even orderings of five; I_h is sixty doubled by inversion, and parts from S₅ | with numbers sixty and one hundred twenty; relation parts: with a field, one hundred twenty is even orderings of five doubled by hand |
+Each entry: **Numbers' object** · *a* the field's instance, in the field's words · *b* at the relation, or at the number only
+
+- **sphere closing with twelve five-fold self-stillings (4.7)**
+  - *a* every fullerene carries exactly twelve pentagons, Euler's relation with trivalent vertices; C₆₀ carries 12 pentagons, 20 hexagons, 32 faces, 90 bonds and 60 vertices
+  - *b* with relation: twelve five-fold are twelve pentagons of every closing, a field's own theorem
+- **thirty edges standing while twelve and twenty swap (8.11)**
+  - *a* icosahedron with 12 vertices, 30 edges, 20 faces and dodecahedron with 20, 30, 12; closo-B₁₂H₁₂²⁻ with twelve and dodecahedrane C₂₀H₂₀ with twenty
+  - *b* with relation: one same duality
+- **four levels close with twenty-four, one arriving with closing and twenty-three otherwise (6.3)**
+  - *a* methane's T_d has order twenty-four and is S₄, all orderings of its four vertices, one the identity; P₄, CCl₄ and adamantane alike
+  - *b* with relation: four-factorial by a field's own numbers, with carbon's own tetrahedron
+- **cuboctahedron, six, eight, twelve and twenty-four within one closing (5.12)**
+  - *a* coordination polyhedron of cubic close packing: twelve neighbours, twenty-four edges, eight triangles, six squares
+  - *b* with relation
+- **seam `48 = 7² − 1` (6.5)**
+  - *a* octahedral O_h, order forty-eight, SF₆ and cubane C₈H₈; its proper rotations O of order twenty-four, again S₄
+  - *b* with number; relation to seam reaching yet
+- **five levels close with one hundred twenty (6.3); ring closing with one hundred twenty; turn with sixty**
+  - *a* icosahedral group I_h, of order one hundred twenty, is symmetry of C₆₀; its proper rotations I, of order sixty, are chiral half, A₅, even orderings of five; I_h is sixty doubled by inversion, and parts from S₅
+  - *b* with numbers sixty and one hundred twenty; relation parts: with a field, one hundred twenty is even orderings of five doubled by hand
 
 **Sixty arrives with chemistry as one-handed icosahedral rotations and one hundred twenty as both hands**, with a molecule that is sixty carbons, and among elements with no position. Whether each row co-chains from opening sentence is a six to carry, the last row first; numbers are exact and a field's. A number and a relation are two: relation of I and I_h to primes' self-close with fifty-nine and to five-level close reaches yet, and no numeral closes it.
 
@@ -404,11 +416,15 @@ The hardest vein stands on one oscillating silicon surface, Patzauer and Krische
 
 Observation carries two registers. Along time, local phase's advance gives each region its dominant rate; across electrode, image gives regions and their coupling on one surface. **Three rates with two registers give six observings without making six reaction kinds**, and a field's record fills six with each one's difference:
 
-| phase | along, temporal | across, surface |
-|---|---|---|
-| slow region | its own dominant rate, the lowest of three | a continuous phase spread over 2π, a travelling-wave, splay-type structure |
-| mediating band | middle rate, its local spectrum carrying components of both neighbours | band between two, its frequencies broader, coherent |
-| fast region | the highest rate, with the highest mean amplitude | phase nearly uniform across region |
+Each entry: **phase** · *a* along, temporal · *b* across, surface
+
+- **slow region**
+  - *a* its own dominant rate, the lowest of three
+  - *b* a continuous phase spread over 2π, a travelling-wave, splay-type structure
+- **mediating band**
+  - *a* middle rate, its local spectrum carrying components of both neighbours
+  - *b* band between two, its frequencies broader, coherent
+- **fast region** · *a* the highest rate, with the highest mean amplitude · *b* phase nearly uniform across region
 
 Three plateaus stand near 24, 27 and 32 mHz, magnitudes of a chosen unit that depart with unit, so they stay with chemistry as measured magnitudes, and **what crosses to Natural Numbers is three distinct rates and two registers**, numbers that carry with every unit (Natural Numbers 2.2, 11.1); an exact number crosses whole and a magnitude goes with its unit, so numerals cross as nothing. Regions stay coupled while carrying distinct rates, each oscillating with its own rate while its surface coupling carries on, higher rate carrying with higher mean amplitude. Stationary domain, by a field's words, carries an experimental threshold, noise preventing a dominant frequency where amplitude is very small, and it is rate unresolved with this threshold.
 
@@ -448,12 +464,20 @@ Engineering's recovered residues, regenerative braking, turbocharging, cogenerat
 
 Each crossing with any such between is a term with one of three placings, and every term of this file stands with one, three and no fourth.
 
-| placing | what it is | chemistry's terms at it |
-|---|---|---|
-| living | a self that is a same-existing-society and a same-existing-society that is a self, coupling with betweens, stable-forming by alternating | atom, a same-existing-society of nucleus and electrons; molecule, a same-existing-society of atoms; hydrogen-bond network; bilayer; cell; bond as a between of them |
-| emanation | what a coupling lands with a between and leaves behind | proton and H⁺; electron event; spectrum; heat; discard; the other hand; every landed form a same-existing-society sheds beside it |
-| ghost | an emanation or a momentary installed as living | particle as little owner; element's interior; equilibrium as rest; entropy as content; single native state; single catalytic stroke; a turn installed among elements |
-| accounting for ghosts | conservers of equilibria, an emanation counted same across every observing so books close | Z, charge, baryon number, mass and atomic weight, `ΔH°f ≡ 0`, `SHE ≡ 0`, exergy's dead state, K, pH, stoichiometry, element conservation, table's addresses |
+Each entry: **placing** · *a* what it is · *b* chemistry's terms at it
+
+- **living**
+  - *a* a self that is a same-existing-society and a same-existing-society that is a self, coupling with betweens, stable-forming by alternating
+  - *b* atom, a same-existing-society of nucleus and electrons; molecule, a same-existing-society of atoms; hydrogen-bond network; bilayer; cell; bond as a between of them
+- **emanation**
+  - *a* what a coupling lands with a between and leaves behind
+  - *b* proton and H⁺; electron event; spectrum; heat; discard; the other hand; every landed form a same-existing-society sheds beside it
+- **ghost**
+  - *a* an emanation or a momentary installed as living
+  - *b* particle as little owner; element's interior; equilibrium as rest; entropy as content; single native state; single catalytic stroke; a turn installed among elements
+- **accounting for ghosts**
+  - *a* conservers of equilibria, an emanation counted same across every observing so books close
+  - *b* Z, charge, baryon number, mass and atomic weight, `ΔH°f ≡ 0`, `SHE ≡ 0`, exergy's dead state, K, pH, stoichiometry, element conservation, table's addresses
 
 **Living's own conservings carry no total** (Natural Intelligence 6.6); accounting's conservers are totals, exact with ledger side and installed only past it. An accounting stands with ledger side until it is installed, and a ghost is an accounting or an emanation given a permanent job, so binary with every term is installation and not word.
 

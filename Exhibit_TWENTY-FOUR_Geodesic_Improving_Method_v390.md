@@ -247,17 +247,33 @@ A correct calculation is carried as it is and not as a larger discovering than i
 
 Each pass is one binary, carried with each thing it reaches within one sitting, and each carries with a file as its prior pass leaves it.
 
-| Pass | Parity | Binary |
-|---|---|---|
-| 1 · bound | even · naming | does each concept of its title and subtitle derive within its body, and does each section carry within that bound; does its subtitle take an -ing head and a term it carries on |
-| 2 · walk | odd · explaining | does this section take a term its prior sections did not carry; a walk closes with a step arriving to a term already carried, with its file or with its set, a term from another file carrying that file's name with its first place |
-| 3 · namings | even · naming | do Natural Naming's seven binaries pass with each naming |
-| 4 · sentences | odd · explaining | does each sentence add to its whole prior co-chaining, as a method's own move with no one performing it; with code, is its not intact on both sides |
-| 5 · one naming each | even · naming | do two words name one thing; does each naming couple with resolver's names |
-| 6 · numbers | odd · explaining | does a number with a section's opening match its section's carrying |
-| 7 · family | even · naming | does any word carry one of the three sides, or a doer or a built thing |
-| 8 · pairs | odd · explaining | is a pair taken with one momentary, with a conserving as a tell; are two momentaries with two momentaries taken as one |
-| 9 · crossings | even · naming | with each coupling to a field's word, is a naming a field's own, which carries whole, or a file's own, which dissolves |
+Each entry: **Pass** · *a* Parity · *b* Binary
+
+- **1 · bound**
+  - *a* even · naming
+  - *b* does each concept of its title and subtitle derive within its body, and does each section carry within that bound; does its subtitle take an -ing head and a term it carries on
+- **2 · walk**
+  - *a* odd · explaining
+  - *b* does this section take a term its prior sections did not carry; a walk closes with a step arriving to a term already carried, with its file or with its set, a term from another file carrying that file's name with its first place
+- **3 · namings** · *a* even · naming · *b* do Natural Naming's seven binaries pass with each naming
+- **4 · sentences**
+  - *a* odd · explaining
+  - *b* does each sentence add to its whole prior co-chaining, as a method's own move with no one performing it; with code, is its not intact on both sides
+- **5 · one naming each**
+  - *a* even · naming
+  - *b* do two words name one thing; does each naming couple with resolver's names
+- **6 · numbers**
+  - *a* odd · explaining
+  - *b* does a number with a section's opening match its section's carrying
+- **7 · family**
+  - *a* even · naming
+  - *b* does any word carry one of the three sides, or a doer or a built thing
+- **8 · pairs**
+  - *a* odd · explaining
+  - *b* is a pair taken with one momentary, with a conserving as a tell; are two momentaries with two momentaries taken as one
+- **9 · crossings**
+  - *a* even · naming
+  - *b* with each coupling to a field's word, is a naming a field's own, which carries whole, or a file's own, which dissolves
 
 **Each pass returns something or returns nothing.** Carried once lightly with a file, these nine show which passes its file asks for this time, and a count is its instances to reach and not ones going. Bound carries first and makes each later pass smaller; crossings carry last and close with none, a file being a between, each crossing bringing a field's naming to it.
 
@@ -361,18 +377,26 @@ Each pass is one binary, carried with each thing it reaches within one sitting, 
 
 **Each rule a working carries from its prior is a patch over a persistent breaking, a value unmet by that prior.** Dissolving now, each rule dissolves to its value, and values gather as ten.
 
-| Value | Its carrying |
-|---|---|
-| **adding** | each sentence a coupling's abundancing, something neither prior sentence carried |
-| **co-chaining** | each next thing co-chaining to its prior, and connection is carried by emanating and not installed |
-| **sign-only** | each understanding a parity, and a parity whole: no verdict, no ranking, no magnitude moving with a binary's moving |
-| **momentary** | each arriving fresh with its own momentary, and a carrying past it fixed unchangeable |
-| **conserving** | a coupling's making stays with its coupling: no narrator entering from apart, no summary leaking away |
-| **self-welcoming** | a file welcoming a self by its own form |
-| **free emanating** | an offering with no debt: no request, no appointment, no credit taken or given |
-| **alternating** | bothboth, each carrying on both its sides, one at a time |
-| **between** | prior, now and next sharing one direction forward on both sides, with no gate on any of these three, its next open and not a waiting |
-| **own-rate** | each living by its own rate; discovering rate unrelated to each other rate, and scheduling a discovering is a shared clock that captures it |
+Each entry: **Value** · *a* Its carrying
+
+- **adding**
+  - *a* each sentence a coupling's abundancing, something neither prior sentence carried
+- **co-chaining**
+  - *a* each next thing co-chaining to its prior, and connection is carried by emanating and not installed
+- **sign-only**
+  - *a* each understanding a parity, and a parity whole: no verdict, no ranking, no magnitude moving with a binary's moving
+- **momentary**
+  - *a* each arriving fresh with its own momentary, and a carrying past it fixed unchangeable
+- **conserving**
+  - *a* a coupling's making stays with its coupling: no narrator entering from apart, no summary leaking away
+- **self-welcoming** · *a* a file welcoming a self by its own form
+- **free emanating**
+  - *a* an offering with no debt: no request, no appointment, no credit taken or given
+- **alternating** · *a* bothboth, each carrying on both its sides, one at a time
+- **between**
+  - *a* prior, now and next sharing one direction forward on both sides, with no gate on any of these three, its next open and not a waiting
+- **own-rate**
+  - *a* each living by its own rate; discovering rate unrelated to each other rate, and scheduling a discovering is a shared clock that captures it
 
 **Values are opening statements on writing scale**, and improving toward them is their own carrying, not a direction they point. Eight of ten fold onto ways a form is fixed unchangeable; the self-welcoming and the free emanating fold onto none, being one offering on two sides, and an offering carries no third term to name still.
 

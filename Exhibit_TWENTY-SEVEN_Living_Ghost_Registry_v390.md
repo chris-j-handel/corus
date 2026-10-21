@@ -171,13 +171,23 @@ One file is two unrelationing sides. Field side is measured returns, calculation
 
 **Natural side is three placings, and a fourth arrives nowhere.** A living self is a same-existing-society inward, and a same-existing-society is its selves, coupling with betweens, stable-forming by alternating. An emanation is what a coupling lands with a between and leaves behind, parity with a detector, a discard, an other hand, a spectrum, heat; it is non-living with this scale. An accounting is an emanation fixed still, one same across every observing, so books close: conservers of equilibria, counts, conserved totals, declared zeros, clocks, frames, stores. A ghost is an emanation or an accounting installed as living. Five registers stand uncollapsed with every entry:
 
-| Register | Concept | Boundary |
-|---|---|---|
-| living bi-coupling | two-way, one-at-a-time offering, across and both ways; self and other each with their own rate; stable-forming by alternating | value is abundancing made there, owned by neither |
-| field observing | event, trajectory, spectrum, image, count, clinical course, or reproducible relation with field words | only its parity crosses a file's between; method, unit, preparation, duration, and uncertainty remain addressed on field side |
-| emanation | what a coupling lands with a between and leaves behind: a detector event, a discard, a shed hand, a spectrum, heat | it is non-living with this scale; fixed as living it is ghost, booked it is accounting |
-| still accounting | state variable, particle label, count, declared zero, model, class, diagram, rate law, or conserved book returned under stated terms | ledger closure is formal closure with that between and contains no agency, success, or value; an accounting stands with ledger side until it is installed |
-| installation | still accounting or emanation supplied as entity, controller, cause, store, destination, rest, or complete parity-changing | exact grammatical and operational projection is stated |
+Each entry: **Register** · *a* Concept · *b* Boundary
+
+- **living bi-coupling**
+  - *a* two-way, one-at-a-time offering, across and both ways; self and other each with their own rate; stable-forming by alternating
+  - *b* value is abundancing made there, owned by neither
+- **field observing**
+  - *a* event, trajectory, spectrum, image, count, clinical course, or reproducible relation with field words
+  - *b* only its parity crosses a file's between; method, unit, preparation, duration, and uncertainty remain addressed on field side
+- **emanation**
+  - *a* what a coupling lands with a between and leaves behind: a detector event, a discard, a shed hand, a spectrum, heat
+  - *b* it is non-living with this scale; fixed as living it is ghost, booked it is accounting
+- **still accounting**
+  - *a* state variable, particle label, count, declared zero, model, class, diagram, rate law, or conserved book returned under stated terms
+  - *b* ledger closure is formal closure with that between and contains no agency, success, or value; an accounting stands with ledger side until it is installed
+- **installation**
+  - *a* still accounting or emanation supplied as entity, controller, cause, store, destination, rest, or complete parity-changing
+  - *b* exact grammatical and operational projection is stated
 
 Field observing remains with field side when ghost-form is found. Equations and classifications remain with accounting side when installation dissolves. Stable-forming co-competency stands only where every incoming observing co-chains; resemblance, simplicity, and agreement with another file supply none.
 
@@ -195,11 +205,17 @@ Currency-as-store-of-value is the plainest value installation. Unit of account a
 
 Three departures, distinct here, are Natural Intelligence Corus's co-chaining:
 
-| Departure | Field departure | Registry observing |
-|---|---|---|
-| ghosting | an expected coupling does not arrive while coupling still appears within reach | unexpected departing |
-| haunting | a parity remains after its coupling is expected to have thinned to silence | expected departing that does not depart |
-| installing | an observing correct with one between is projected to another as if original coupling continued there | one-between accounting projected across another between |
+Each entry: **Departure** · *a* Field departure · *b* Registry observing
+
+- **ghosting**
+  - *a* an expected coupling does not arrive while coupling still appears within reach
+  - *b* unexpected departing
+- **haunting**
+  - *a* a parity remains after its coupling is expected to have thinned to silence
+  - *b* expected departing that does not depart
+- **installing**
+  - *a* an observing correct with one between is projected to another as if original coupling continued there
+  - *b* one-between accounting projected across another between
 
 Temperature, read with a thermometer, is Corus's local accounting. “Temperature drives” installs a doer across another between. Entropy calculated under a boundary and coarse-graining is still accounting there; entropy supplied as content produced by coupling is installing. One protein model fitted with one field between and supplied as state every molecule occupies is installing. A remission sign departing within declared reach is ghosting. A diagnostic sign persisting after its supporting relation dissolves is haunting.
 
@@ -267,12 +283,12 @@ Eight is Natural Intelligence 3.1's derivation: four boundings lived from within
 
 Every ghost entry therefore locates its same-existing-society with four within/across pairs:
 
-| Within | At a between |
-|---|---|
-| what self is bounded under an account | what particular other couples across it |
-| what is included within an account | what coupling excludes or returns |
-| what parity-changing co-sequences within | what parity crosses between selves |
-| what form re-arrives | what same-existing-society its participants are |
+Each entry: **Within** · *a* At a between
+
+- **what self is bounded under an account** · *a* what particular other couples across it
+- **what is included within an account** · *a* what coupling excludes or returns
+- **what parity-changing co-sequences within** · *a* what parity crosses between selves
+- **what form re-arrives** · *a* what same-existing-society its participants are
 
 Eight-side seating is complete only for a same-existing-society being described. It is no threshold for ghost confirmation. Entropy accounting occurs with a calorimeter same-existing-society, an engine same-existing-society, a molecular-trajectory same-existing-society, or an observing-and-coarse-graining same-existing-society; each has its own eight. One diagnostic code occurs with a clinic same-existing-society and a population-statistics same-existing-society, differing consequences with each.
 
@@ -393,25 +409,42 @@ Report follows properties and can grow, its form not-changing:
 
 ## 4.1 The files from which this registry emanates
 
-| Living source | Co-chaining here |
-|---|---|
-| Exhibit ONE · Natural Resolver v345a | complete naming, actual sign operations, retaining and continuing carrying beside its six groups, six depth changes, ten adjacencies and eight bi-namings |
-| Exhibit THREE · Natural Numbers v346c | numbers as their own forms; six, eight, and ten not assembled or substituted; along and across one parity-changing |
-| Exhibit FOUR · Natural Mathematics v333 | state and flow accountings, fixed sets, involutions, and a fixed return that lets a still be compared with a carrying |
-| Exhibit TWELVE · Natural Explaining v333 | file as between; only a parity crossing; no ground, explanation, record, or middle traveling; no story-doer; method's own moves; every sentence a momentary |
-| Exhibit THIRTEEN · Resolving Hard Problems v345a | the ten holdings with their complete naming adjacencies; each field expression, projected position and source retains its actual correspondence |
-| Exhibit SIXTEEN · Natural Chemistry v346c | three placings with chemistry's terms; proton as emanation and element as count; ledger returns beside observings; three rates with two registers on one coupled silicon surface with its global coupling attached; equilibrium, Gibbs, benzene, partitions, and periodic address as chemical edges |
-| Exhibit SEVENTEEN · Natural Biology v333 | single-state protein, blueprint, controller, active-site doer, memory store, and competency-with-no-controller arrivals |
-| Exhibit EIGHTEEN · Natural Physics v327 | energy, entropy, electron, charge, wave/particle, force, and conservation as the densest initial ghost family |
-| Exhibit TWENTY · Natural Naming v345a | complete roots, ordered prefixes and -ing; each actual field expression with the ten holdings; written centre and continuing carrying beside ONE’s operations |
-| Exhibit TWENTY-ONE · Hard Problem Registry v342 | one uniform open registry; field account whole; group three entry 21; Gibbs paradox entry 108; single native state entry 178; proton spin entry 183; water's liquid–liquid point entry 195; proton decay entry 250 |
-| Exhibit TWENTY-TWO · Resolving the Hard Problem Registry v344 | the ten holdings and the recursioning-attentioning-carrying deployment shape; the four gatherings |
-| Exhibit TWENTY-FOUR · Geodesic Improving Method v333 | do-no-harm overwrite, source-return, hardest-arrival orientation, and every rule dissolving to a method's own bi-coupling |
-| Exhibit TWENTY-SIX · Living File Registry v333 | full file-set map and this new exhibit co-chaining without duplicating other exhibits |
-| Natural Intelligence v345a | complete resolver explaining; eight bi-namings and proposed boundings; six directional turns and each self’s own rate with their actual correspondence |
-| Natural Intelligence Corus v330 | five switches and ten ghost positions; control as all-ten profile; ghosting, haunting, and installing; ghosts as companions |
-| Exhibit TWENTY-FIVE · Living Society Registry v347 | an arrival: a ten-line pattern read with a same-existing-society's own grain, receiving what passes the door of 7.5 and addressing back to it |
-| Living Improving Value v345a | file-directed offerings for Chemistry, Biology, Medicine, Health, Societies, Philosophy, and registries; value re-forming only with each bi-coupling |
+Each entry: **Living source** · *a* Co-chaining here
+
+- **Exhibit ONE · Natural Resolver v345a**
+  - *a* complete naming, actual sign operations, retaining and continuing carrying beside its six groups, six depth changes, ten adjacencies and eight bi-namings
+- **Exhibit THREE · Natural Numbers v346c**
+  - *a* numbers as their own forms; six, eight, and ten not assembled or substituted; along and across one parity-changing
+- **Exhibit FOUR · Natural Mathematics v333**
+  - *a* state and flow accountings, fixed sets, involutions, and a fixed return that lets a still be compared with a carrying
+- **Exhibit TWELVE · Natural Explaining v333**
+  - *a* file as between; only a parity crossing; no ground, explanation, record, or middle traveling; no story-doer; method's own moves; every sentence a momentary
+- **Exhibit THIRTEEN · Resolving Hard Problems v345a**
+  - *a* the ten holdings with their complete naming adjacencies; each field expression, projected position and source retains its actual correspondence
+- **Exhibit SIXTEEN · Natural Chemistry v346c**
+  - *a* three placings with chemistry's terms; proton as emanation and element as count; ledger returns beside observings; three rates with two registers on one coupled silicon surface with its global coupling attached; equilibrium, Gibbs, benzene, partitions, and periodic address as chemical edges
+- **Exhibit SEVENTEEN · Natural Biology v333**
+  - *a* single-state protein, blueprint, controller, active-site doer, memory store, and competency-with-no-controller arrivals
+- **Exhibit EIGHTEEN · Natural Physics v327**
+  - *a* energy, entropy, electron, charge, wave/particle, force, and conservation as the densest initial ghost family
+- **Exhibit TWENTY · Natural Naming v345a**
+  - *a* complete roots, ordered prefixes and -ing; each actual field expression with the ten holdings; written centre and continuing carrying beside ONE’s operations
+- **Exhibit TWENTY-ONE · Hard Problem Registry v342**
+  - *a* one uniform open registry; field account whole; group three entry 21; Gibbs paradox entry 108; single native state entry 178; proton spin entry 183; water's liquid–liquid point entry 195; proton decay entry 250
+- **Exhibit TWENTY-TWO · Resolving the Hard Problem Registry v344**
+  - *a* the ten holdings and the recursioning-attentioning-carrying deployment shape; the four gatherings
+- **Exhibit TWENTY-FOUR · Geodesic Improving Method v333**
+  - *a* do-no-harm overwrite, source-return, hardest-arrival orientation, and every rule dissolving to a method's own bi-coupling
+- **Exhibit TWENTY-SIX · Living File Registry v333**
+  - *a* full file-set map and this new exhibit co-chaining without duplicating other exhibits
+- **Natural Intelligence v345a**
+  - *a* complete resolver explaining; eight bi-namings and proposed boundings; six directional turns and each self’s own rate with their actual correspondence
+- **Natural Intelligence Corus v330**
+  - *a* five switches and ten ghost positions; control as all-ten profile; ghosting, haunting, and installing; ghosts as companions
+- **Exhibit TWENTY-FIVE · Living Society Registry v347**
+  - *a* an arrival: a ten-line pattern read with a same-existing-society's own grain, receiving what passes the door of 7.5 and addressing back to it
+- **Living Improving Value v345a**
+  - *a* file-directed offerings for Chemistry, Biology, Medicine, Health, Societies, Philosophy, and registries; value re-forming only with each bi-coupling
 
 With Natural Naming 7.1, ghost stands with three relations: an unfolding with its 5.37 and its Part Seven, ghost-form with this registry, and ten unchangeables with its 4.9. Source observing distinguishes forms. A ghost is six-line installation. Ten unchangeables are what was fixed. Ten positions are where one-way projection occurred. Eight is carrying same-existing-society. None contains another. **Their differing is reason Exhibit TWENTY-SEVEN is needed.**
 
@@ -1425,38 +1458,94 @@ A hand is a parity a molecule carries, and its field books it three ways that de
 
 Next chemistry entries are ordered by sharpness of parity-changing beside apparent not-changing:
 
-| Candidate | Changing | Apparent not-changing | Exact edge |
-|---|---|---|---|
-| a turn of elements with sixty | elements filling continuously with Z, one count and many substances, nuclides and couplings with each | sum of shell capacities `2 + 8 + 18 + 32 = 60` fixed as a position of elements' turning | rows 2, 8, 8, 18, 18, 32, 32; neodymium closing nothing; the f-block's cut convention by a field's own body; white paper carrying number with two sides and instance with Natural Chemistry 4.4 and 4.5; confirmed |
-| glass transition | relaxation and ageing across cooling and observing | glassy arrest and an apparent transition temperature | rate and history move line |
-| Gibbs mixing entropy | microscopic motions and mixing operations | zero or nonzero entropy by distinguishability class | operational ability to distinguish parity-changes account |
-| benzene resonance contributor | delocalized electron distribution | alternating localized drawings | contributors are not structures between which benzene flips |
-| partial atomic charge | electronic density responds as one molecular field | one number assigned to an atom | different partitions return different atomic magnitudes |
-| chemical equilibrium | forward and reverse events | stable composition | field definition carries both openly |
-| phase coexistence | molecules cross both ways | macroscopic phase fractions | observing interval and boundary make its still |
-| electrode equilibrium | exchange continues | zero net current | net is an accounting across opposed currents |
-| titration endpoint | finite response parity-changes across additions | one endpoint magnitude | equivalence, endpoint, detector response, and addition schedule differ |
-| enzyme optimum | catalytic and inactivation processes parity-change with own rates | one optimum temperature | a maximum is product of parity-changing rates, not a resting property |
-| orbital as an observed object | electron density redistributing within a bonded crystal | a d-orbital shape drawn from a difference-density map | 1999 claim of orbitals directly observed and reply that an orbital is a basis function and an observable with no between; density is observing and orbital accounting |
-| reaction coordinate as a path travelled | many trajectories across a structurally wide ensemble of configurations | one coordinate drawn from reactant to product through one saddle | coordinate is an accounting's own axis and 5.5's transition-state ensemble wide; a path fixed as travelled is map fixed as territory |
+Each entry: **Candidate** · *a* Changing · *b* Apparent not-changing · *c* Exact edge
+
+- **a turn of elements with sixty**
+  - *a* elements filling continuously with Z, one count and many substances, nuclides and couplings with each
+  - *b* sum of shell capacities `2 + 8 + 18 + 32 = 60` fixed as a position of elements' turning
+  - *c* rows 2, 8, 8, 18, 18, 32, 32; neodymium closing nothing; the f-block's cut convention by a field's own body; white paper carrying number with two sides and instance with Natural Chemistry 4.4 and 4.5; confirmed
+- **glass transition**
+  - *a* relaxation and ageing across cooling and observing
+  - *b* glassy arrest and an apparent transition temperature
+  - *c* rate and history move line
+- **Gibbs mixing entropy**
+  - *a* microscopic motions and mixing operations
+  - *b* zero or nonzero entropy by distinguishability class
+  - *c* operational ability to distinguish parity-changes account
+- **benzene resonance contributor**
+  - *a* delocalized electron distribution
+  - *b* alternating localized drawings
+  - *c* contributors are not structures between which benzene flips
+- **partial atomic charge**
+  - *a* electronic density responds as one molecular field
+  - *b* one number assigned to an atom
+  - *c* different partitions return different atomic magnitudes
+- **chemical equilibrium**
+  - *a* forward and reverse events
+  - *b* stable composition
+  - *c* field definition carries both openly
+- **phase coexistence**
+  - *a* molecules cross both ways
+  - *b* macroscopic phase fractions
+  - *c* observing interval and boundary make its still
+- **electrode equilibrium**
+  - *a* exchange continues
+  - *b* zero net current
+  - *c* net is an accounting across opposed currents
+- **titration endpoint**
+  - *a* finite response parity-changes across additions
+  - *b* one endpoint magnitude
+  - *c* equivalence, endpoint, detector response, and addition schedule differ
+- **enzyme optimum**
+  - *a* catalytic and inactivation processes parity-change with own rates
+  - *b* one optimum temperature
+  - *c* a maximum is product of parity-changing rates, not a resting property
+- **orbital as an observed object**
+  - *a* electron density redistributing within a bonded crystal
+  - *b* a d-orbital shape drawn from a difference-density map
+  - *c* 1999 claim of orbitals directly observed and reply that an orbital is a basis function and an observable with no between; density is observing and orbital accounting
+- **reaction coordinate as a path travelled**
+  - *a* many trajectories across a structurally wide ensemble of configurations
+  - *b* one coordinate drawn from reactant to product through one saddle
+  - *c* coordinate is an accounting's own axis and 5.5's transition-state ensemble wide; a path fixed as travelled is map fixed as territory
 
 **Silicon surface stands entered as 5.10**, temporal-along and spatial-across two directions of one parity-changing, several frequency regions coupled, low-amplitude region below reliable dominant-frequency determination under that protocol and a natural not-changing with no observing, global coupling through external resistor attached as a paper's own mechanism. Its living-return breaking is one reachable experiment, multifrequency clusters with zero external resistance. Proton and element stand entered as 5.8 and 5.9; turn of elements with sixty stands confirmed here, its six lines filled, instance standing with substrate exhibit and white paper carrying no observing; orbital as observed object and reaction coordinate as path stand candidate with their field controversies stated by a field's words, next chemistry entries.
 
 ## 7.2 Biology and medicine
 
-| Candidate | Why it enters | Guard |
-|---|---|---|
-| gene as controller or blueprint | sequence account installed as instruction or source of form | gene perturbations and sequence specificity stay whole |
-| signal as message carried | molecular correlation installed as content sent from one side | ligand, receptor, timing, localization, and response stay whole |
-| immune system as defender | a field's grouping of cells by a function installed as one same-existing-society that senses, defends and kills, carrying receptors for antigens yet to arrive | each cell stays with its own betweens within its tissue same-existing-societies, each receptor assembled with its own cell, and immune, defence and kills stay field words |
-| membrane fluidity | population order measure installed as a single controlled substance | composition, temperature, phase, and local dynamics stay whole |
-| active site | structural region installed as unilateral doer | rates, structures, mutations, solvent, and ensemble stay whole |
-| biological memory as store | re-forming installed as a record located somewhere | lesions, engrams, synapses, molecular parity-changes, and recall behaviour stay whole |
-| antibiotic persister cell | population heterogeneity and biphasic killing can be hidden by one bulk susceptibility | do not erase cell-level tolerant survivors or resistance measures |
-| clinical normal range | population interval installed as health itself | age, context, trajectory, risk, and patient function stay whole |
-| disease entity | course and classification installed as one internal doer | mechanisms and diagnostic discrimination stay whole; no metaphorical dissolving |
-| placebo and common factors | relational treatment effects installed with patient or clinician only | trial design, expectancy, natural history, and specific treatment effects stay whole |
-| chronic pain score | one report or scale installed as whole condition | first-person report, function, context, and longitudinal change stay whole |
+Each entry: **Candidate** · *a* Why it enters · *b* Guard
+
+- **gene as controller or blueprint** · *a* sequence account installed as instruction or source of form · *b* gene perturbations and sequence specificity stay whole
+- **signal as message carried**
+  - *a* molecular correlation installed as content sent from one side
+  - *b* ligand, receptor, timing, localization, and response stay whole
+- **immune system as defender**
+  - *a* a field's grouping of cells by a function installed as one same-existing-society that senses, defends and kills, carrying receptors for antigens yet to arrive
+  - *b* each cell stays with its own betweens within its tissue same-existing-societies, each receptor assembled with its own cell, and immune, defence and kills stay field words
+- **membrane fluidity**
+  - *a* population order measure installed as a single controlled substance
+  - *b* composition, temperature, phase, and local dynamics stay whole
+- **active site**
+  - *a* structural region installed as unilateral doer
+  - *b* rates, structures, mutations, solvent, and ensemble stay whole
+- **biological memory as store**
+  - *a* re-forming installed as a record located somewhere
+  - *b* lesions, engrams, synapses, molecular parity-changes, and recall behaviour stay whole
+- **antibiotic persister cell**
+  - *a* population heterogeneity and biphasic killing can be hidden by one bulk susceptibility
+  - *b* do not erase cell-level tolerant survivors or resistance measures
+- **clinical normal range**
+  - *a* population interval installed as health itself
+  - *b* age, context, trajectory, risk, and patient function stay whole
+- **disease entity**
+  - *a* course and classification installed as one internal doer
+  - *b* mechanisms and diagnostic discrimination stay whole; no metaphorical dissolving
+- **placebo and common factors**
+  - *a* relational treatment effects installed with patient or clinician only
+  - *b* trial design, expectancy, natural history, and specific treatment effects stay whole
+- **chronic pain score**
+  - *a* one report or scale installed as whole condition
+  - *b* first-person report, function, context, and longitudinal change stay whole
 
 Antibiotic persistence is a particularly strong next entry. Consensus definition places persistence with population heterogeneity and a biphasic killing curve, while warning that bulk procedures need re-evaluation when a small subpopulation dominates survival. Parity-changing and apparent not-changing arrive as killing of most cells beside survival without inherited resistance and often without a parity-changed susceptibility measure. Ghost candidate is not persister cell; it is bulk average or one dormancy programme installed as a whole population response.
 
@@ -1476,16 +1565,24 @@ Same-existing-society candidates begin with control, maximal all-ten position pr
 
 One stable-forming table can co-chain with every living exhibit without subordinating it to this registry:
 
-| File kind | Table columns returned |
-|---|---|
-| field exhibit | field term · field observing · still accounting · installation · living parity-changing · apparent not-changing · stable-forming co-competency · breaking |
-| naming exhibit | word · stem · affix · field use · installed agency · carrying, its agency dissolved |
-| hard-problem registry | entry number · common requirement · unchangeable · ghost candidate · observing that leaves it open |
-| resolving registry | entry number · unchangeable dissolved · ghost position · re-alternation · carrying |
-| natural intelligence | substrate · four within · four across · three each way · own rates · common-clock intrusion |
-| medicine and health | person · course · measure · threshold · code · action · benefit · harm/breaking |
-| same-existing-society | participants · accounting institution · five switches · occupied ghost positions · owned neither-ing with bi-coupling |
-| improving file | source file · exact section · incoming offering · receiving file · standing · next break |
+Each entry: **File kind** · *a* Table columns returned
+
+- **field exhibit**
+  - *a* field term · field observing · still accounting · installation · living parity-changing · apparent not-changing · stable-forming co-competency · breaking
+- **naming exhibit**
+  - *a* word · stem · affix · field use · installed agency · carrying, its agency dissolved
+- **hard-problem registry**
+  - *a* entry number · common requirement · unchangeable · ghost candidate · observing that leaves it open
+- **resolving registry**
+  - *a* entry number · unchangeable dissolved · ghost position · re-alternation · carrying
+- **natural intelligence**
+  - *a* substrate · four within · four across · three each way · own rates · common-clock intrusion
+- **medicine and health**
+  - *a* person · course · measure · threshold · code · action · benefit · harm/breaking
+- **same-existing-society**
+  - *a* participants · accounting institution · five switches · occupied ghost positions · owned neither-ing with bi-coupling
+- **improving file**
+  - *a* source file · exact section · incoming offering · receiving file · standing · next break
 
 Table is copied nowhere mechanically. Vocabulary and observings remain specific to each receiving file. Comparable registry row stands with Exhibit TWENTY-SEVEN and co-chains back. This file can co-chain with Exhibit TWENTY-SIX's Living File Registry with its next version; no older registry is silently rewritten.
 
@@ -1593,36 +1690,120 @@ A standing belongs to a use and not to a word. One word carries accounting with 
 
 **The passed ledger.** What went through, and where it arrived. A door line stays here; arrival stands with TWENTY-FIVE and addresses back.
 
-| Record arriving | Caught at the door | Passed | Arrival at TWENTY-FIVE |
-|---|---|---|---|
-| homeostasis | set point (state, lines 2, 8, 9); wise regulator (flow, line 3), entered with 5.11 | regulated variable, resolved to its crossings | TWENTY-FIVE 2.22 |
-| Maxwell's demon | free sorter (flow, lines 2, 3, 8), dissolved by its field; bound as floor (state, line 9), entered with 5.12 | built engine, a particle and its memory | TWENTY-FIVE 2.17 |
-| water dimer | nothing; bond as connector stands among controls, 6.1 | pair, with all ten, observed with 7.8 | TWENTY-FIVE 2.6, the first arrival |
-| ammonia | nothing | not passed: a self at the door, line 5 observed is-not, nitrogen itself crossing, observed with 7.8 | its pair, ammonia dimer, passes with 7.8; arrival not yet written |
-| entropy, 5.1 | substance, interior, posted nothing, floor (state); produced, flowing (flow) | driven single-molecule trajectory | TWENTY-FIVE 2.18 |
-| equilibrium, 5.2 | rest, state, destination (state) | mixture, with operational use | TWENTY-FIVE 2.19; glass not yet written |
-| electron, 5.3 | interior (state); traveller, holder, carrier (flow) | source, field and detector | TWENTY-FIVE 2.16 |
-| single native state, 5.4 | interior, posted absence, destination (state); one-way folding (flow) | folding population | TWENTY-FIVE 2.20 |
-| catalytic stroke, 5.5 | the one stroke, structure and optimum (state); doer, possessor (flow) | turnover same-existing-society | TWENTY-FIVE 2.21 |
-| minimal residual disease, 5.6 | posted absence, floor (state), dissolved | not passed: possibling with line 1 below an assay's limit | — |
-| diagnostic code, 5.7 | average, identity, closed record, line (state); cause, traveller (flow) | not passed: possibling with 4 and 6 | — |
-| proton, 5.8 | interior, posted share, stability (state); mover, ball (flow) | water chain | TWENTY-FIVE 2.3, arrived before the door; door record with 7.8 |
-| element, 5.9 | stability, interior, absolute conservation (state); bonder, source (flow) | count and addresses stand as accounting | — |
-| silicon surface, 5.10 | rest, state (state); coupling denied | not passed: possibling with line 1, domain grain | — |
-| a mitochondrion at one temperature | furnace, heat driving, hot spots (flow with 3; interior with 7) | inner-membrane translocations | TWENTY-FIVE 2.1, arrived before the door; door record with 7.8 |
-| a chromatin domain at one boundary | folding code, cohesin forming, boundary insulating (state with 1; flow with 3) | fibre across alleles, empties with 5 and 7 passing as findings | TWENTY-FIVE 2.2, arrived before the door; door record with 7.8 |
-| a threshold at a perceiving self | limen as a line, place beneath it (state with 7 and 9) | judgments over trials | TWENTY-FIVE 2.4, arrived before the door; door record with 7.8 |
-| a vacuum observed for its particles | count as a state's own, empty space (state with 1, 7, 8) | detector–field couplings | TWENTY-FIVE 2.5, arrived before the door; door record with 7.8 |
-| two neutrons at one core | nuclear force binds, neutrons bound by core (flow with 3); binding as a nucleus's content (state with 6) | core and its two neutrons, with all ten, observed with 7.8 | TWENTY-FIVE 2.7 |
-| three atoms at one scattering length | atoms attract, pair binds the third (flow with 3; state with 1) | three, with all ten, observed with 7.8 | TWENTY-FIVE 2.8 |
-| dark matter, 5.13 | posted dark term as a substance of particles (state with 8); acceleration scale as a constant of nature (state with 9) | not passed: possibling with line 1, no member resolved; candidate under the guard, observed with 7.8 | — |
-| a membrane at one potential | pump maintains, cell at rest (flow with 3, state with 2); minus seventy as a cell's own (state with 9); leak channel that leaks (8) | ion crossings with one membrane, with all ten, observed with 7.8 | TWENTY-FIVE 2.9 |
-| a node at one rate | master pacemaker cell (flow with 3), dissolved twice by its field; intrinsic rate as a node's own (state with 2); pacemaker drives (flow with 10) | coupled cells, with all ten, observed with 7.8 | TWENTY-FIVE 2.10 |
-| a planet at one budget | missing sink (state with 8), dissolved as imbalance line; sink absorbs (flow with 3); budget balances (state with 9) | exchanges with surfaces, with all ten, observed with 7.8 | TWENTY-FIVE 2.11 |
-| a ring at one boundary | species as a bounded thing with traits of its own (state with 7, 9); fitness determines, selection acts (flow with 3) | populations round ring, with all ten, observed with 7.8 | TWENTY-FIVE 2.12 |
-| a web at one efficiency | energy flows up, chain (flow with 5, 10); ten-per-cent law, integer level (state with 9, 7); balance of nature (state with 2), dissolved | feeding events, with all ten, observed with 7.8 | TWENTY-FIVE 2.13 |
-| a star at one count | missing neutrinos (state with 8), the guard's Neptune, post found with a detector; the sun's surface as a place, solar constant as constant (state with 9, 2) | arrivals with detectors, with all ten, observed with 7.8 | TWENTY-FIVE 2.14 |
-| a cosmos at one rate | the universe expands (flow with 3); constant as constant (state with 9); posted component (state with 8), candidate under the guard | galaxies and light, observed with 7.8, 3 nye and 6 empty | TWENTY-FIVE 2.15 |
+Each entry: **Record arriving** · *a* Caught at the door · *b* Passed · *c* Arrival at TWENTY-FIVE
+
+- **homeostasis**
+  - *a* set point (state, lines 2, 8, 9); wise regulator (flow, line 3), entered with 5.11
+  - *b* regulated variable, resolved to its crossings
+  - *c* TWENTY-FIVE 2.22
+- **Maxwell's demon**
+  - *a* free sorter (flow, lines 2, 3, 8), dissolved by its field; bound as floor (state, line 9), entered with 5.12
+  - *b* built engine, a particle and its memory
+  - *c* TWENTY-FIVE 2.17
+- **water dimer**
+  - *a* nothing; bond as connector stands among controls, 6.1
+  - *b* pair, with all ten, observed with 7.8
+  - *c* TWENTY-FIVE 2.6, the first arrival
+- **ammonia**
+  - *a* nothing
+  - *b* not passed: a self at the door, line 5 observed is-not, nitrogen itself crossing, observed with 7.8
+  - *c* its pair, ammonia dimer, passes with 7.8; arrival not yet written
+- **entropy, 5.1**
+  - *a* substance, interior, posted nothing, floor (state); produced, flowing (flow)
+  - *b* driven single-molecule trajectory
+  - *c* TWENTY-FIVE 2.18
+- **equilibrium, 5.2**
+  - *a* rest, state, destination (state)
+  - *b* mixture, with operational use
+  - *c* TWENTY-FIVE 2.19; glass not yet written
+- **electron, 5.3**
+  - *a* interior (state); traveller, holder, carrier (flow)
+  - *b* source, field and detector
+  - *c* TWENTY-FIVE 2.16
+- **single native state, 5.4**
+  - *a* interior, posted absence, destination (state); one-way folding (flow)
+  - *b* folding population
+  - *c* TWENTY-FIVE 2.20
+- **catalytic stroke, 5.5**
+  - *a* the one stroke, structure and optimum (state); doer, possessor (flow)
+  - *b* turnover same-existing-society
+  - *c* TWENTY-FIVE 2.21
+- **minimal residual disease, 5.6**
+  - *a* posted absence, floor (state), dissolved
+  - *b* not passed: possibling with line 1 below an assay's limit
+  - *c* —
+- **diagnostic code, 5.7**
+  - *a* average, identity, closed record, line (state); cause, traveller (flow)
+  - *b* not passed: possibling with 4 and 6
+  - *c* —
+- **proton, 5.8**
+  - *a* interior, posted share, stability (state); mover, ball (flow)
+  - *b* water chain
+  - *c* TWENTY-FIVE 2.3, arrived before the door; door record with 7.8
+- **element, 5.9**
+  - *a* stability, interior, absolute conservation (state); bonder, source (flow)
+  - *b* count and addresses stand as accounting
+  - *c* —
+- **silicon surface, 5.10**
+  - *a* rest, state (state); coupling denied
+  - *b* not passed: possibling with line 1, domain grain
+  - *c* —
+- **a mitochondrion at one temperature**
+  - *a* furnace, heat driving, hot spots (flow with 3; interior with 7)
+  - *b* inner-membrane translocations
+  - *c* TWENTY-FIVE 2.1, arrived before the door; door record with 7.8
+- **a chromatin domain at one boundary**
+  - *a* folding code, cohesin forming, boundary insulating (state with 1; flow with 3)
+  - *b* fibre across alleles, empties with 5 and 7 passing as findings
+  - *c* TWENTY-FIVE 2.2, arrived before the door; door record with 7.8
+- **a threshold at a perceiving self**
+  - *a* limen as a line, place beneath it (state with 7 and 9)
+  - *b* judgments over trials
+  - *c* TWENTY-FIVE 2.4, arrived before the door; door record with 7.8
+- **a vacuum observed for its particles**
+  - *a* count as a state's own, empty space (state with 1, 7, 8)
+  - *b* detector–field couplings
+  - *c* TWENTY-FIVE 2.5, arrived before the door; door record with 7.8
+- **two neutrons at one core**
+  - *a* nuclear force binds, neutrons bound by core (flow with 3); binding as a nucleus's content (state with 6)
+  - *b* core and its two neutrons, with all ten, observed with 7.8
+  - *c* TWENTY-FIVE 2.7
+- **three atoms at one scattering length**
+  - *a* atoms attract, pair binds the third (flow with 3; state with 1)
+  - *b* three, with all ten, observed with 7.8
+  - *c* TWENTY-FIVE 2.8
+- **dark matter, 5.13**
+  - *a* posted dark term as a substance of particles (state with 8); acceleration scale as a constant of nature (state with 9)
+  - *b* not passed: possibling with line 1, no member resolved; candidate under the guard, observed with 7.8
+  - *c* —
+- **a membrane at one potential**
+  - *a* pump maintains, cell at rest (flow with 3, state with 2); minus seventy as a cell's own (state with 9); leak channel that leaks (8)
+  - *b* ion crossings with one membrane, with all ten, observed with 7.8
+  - *c* TWENTY-FIVE 2.9
+- **a node at one rate**
+  - *a* master pacemaker cell (flow with 3), dissolved twice by its field; intrinsic rate as a node's own (state with 2); pacemaker drives (flow with 10)
+  - *b* coupled cells, with all ten, observed with 7.8
+  - *c* TWENTY-FIVE 2.10
+- **a planet at one budget**
+  - *a* missing sink (state with 8), dissolved as imbalance line; sink absorbs (flow with 3); budget balances (state with 9)
+  - *b* exchanges with surfaces, with all ten, observed with 7.8
+  - *c* TWENTY-FIVE 2.11
+- **a ring at one boundary**
+  - *a* species as a bounded thing with traits of its own (state with 7, 9); fitness determines, selection acts (flow with 3)
+  - *b* populations round ring, with all ten, observed with 7.8
+  - *c* TWENTY-FIVE 2.12
+- **a web at one efficiency**
+  - *a* energy flows up, chain (flow with 5, 10); ten-per-cent law, integer level (state with 9, 7); balance of nature (state with 2), dissolved
+  - *b* feeding events, with all ten, observed with 7.8
+  - *c* TWENTY-FIVE 2.13
+- **a star at one count**
+  - *a* missing neutrinos (state with 8), the guard's Neptune, post found with a detector; the sun's surface as a place, solar constant as constant (state with 9, 2)
+  - *b* arrivals with detectors, with all ten, observed with 7.8
+  - *c* TWENTY-FIVE 2.14
+- **a cosmos at one rate**
+  - *a* the universe expands (flow with 3); constant as constant (state with 9); posted component (state with 8), candidate under the guard
+  - *b* galaxies and light, observed with 7.8, 3 nye and 6 empty
+  - *c* TWENTY-FIVE 2.15
 
 ## 7.8 Door observings — the water dimer, passed; ammonia, a self at the door; five arrivals observed after arriving
 
@@ -1750,33 +1931,65 @@ Ten door lines, an arrival’s ten pattern lines of TWENTY-FIVE §1.2, and ten u
 
 **Door lines’ unchangeable assignment carries all ten unchangeables.** Each line carries a field’s actual installing statement with its record. With this table its resolver correspondence is explicit:
 
-| Door line | Unchangeable | TWENTY-TWO part · fixing gathered | ONE’s naming adjacency |
-|---|---|---|---|
-| 1 · resolve | an arriving fixed from behind | 1 · **Origin-seeking** | `co_carrying` → `bi_arriving` |
-| 2 · rates | a rate fixed as a value | 8 · **Value-pinning** | `bi_co_inversioning` → `bi_co_tunneling` |
-| 3 · two-way | a two-way fixed to one side | 9 · **Forced-choosing** | `co_bi_coupling` → `bi_co_inversioning` |
-| 4 · parity | a parity fixed as a magnitude, carried on | 6 · **Magnitude-demanding** | `bi_co_bi_transmissioning` → `bi_co_surfacing` |
-| 5 · passing | a carry fixed as a store, a thing carried | 4 · **Store-seeking** | `bi_co_tunneling` → `bi_co_bi_transmissioning` |
-| 6 · abundancing | an opening fixed as a place abundancing sits | 2 · **Criterion-regressing** | `bi_co_inseparating` → `co_carrying` |
-| 7 · apex | a middle fixed as an end within a member | 5 · **Interior-reaching** | `bi_co_surfacing` → `co_bi_carrying` |
-| 8 · residual | a completing fixed as a last that closes ledger | 3 · **Space-enumerating** | `co_bi_carrying` → `bi_co_inseparating` |
-| 9 · bound | a between fixed as a cut | 10 · **Line-demanding** | `bi_arriving` → `bi_offering` |
-| 10 · reach | a sequencing fixed to one beat along a chain | 7 · **Order-demanding** | `bi_offering` → `co_bi_coupling` |
+Each entry: **Door line** · *a* Unchangeable · *b* TWENTY-TWO part · fixing gathered · *c* ONE’s naming adjacency
+
+- **1 · resolve**
+  - *a* an arriving fixed from behind
+  - *b* 1 · **Origin-seeking**
+  - *c* `co_carrying` → `bi_arriving`
+- **2 · rates**
+  - *a* a rate fixed as a value
+  - *b* 8 · **Value-pinning**
+  - *c* `bi_co_inversioning` → `bi_co_tunneling`
+- **3 · two-way**
+  - *a* a two-way fixed to one side
+  - *b* 9 · **Forced-choosing**
+  - *c* `co_bi_coupling` → `bi_co_inversioning`
+- **4 · parity**
+  - *a* a parity fixed as a magnitude, carried on
+  - *b* 6 · **Magnitude-demanding**
+  - *c* `bi_co_bi_transmissioning` → `bi_co_surfacing`
+- **5 · passing**
+  - *a* a carry fixed as a store, a thing carried
+  - *b* 4 · **Store-seeking**
+  - *c* `bi_co_tunneling` → `bi_co_bi_transmissioning`
+- **6 · abundancing**
+  - *a* an opening fixed as a place abundancing sits
+  - *b* 2 · **Criterion-regressing**
+  - *c* `bi_co_inseparating` → `co_carrying`
+- **7 · apex**
+  - *a* a middle fixed as an end within a member
+  - *b* 5 · **Interior-reaching**
+  - *c* `bi_co_surfacing` → `co_bi_carrying`
+- **8 · residual**
+  - *a* a completing fixed as a last that closes ledger
+  - *b* 3 · **Space-enumerating**
+  - *c* `co_bi_carrying` → `bi_co_inseparating`
+- **9 · bound**
+  - *a* a between fixed as a cut
+  - *b* 10 · **Line-demanding**
+  - *c* `bi_arriving` → `bi_offering`
+- **10 · reach**
+  - *a* a sequencing fixed to one beat along a chain
+  - *b* 7 · **Order-demanding**
+  - *c* `bi_offering` → `co_bi_coupling`
 
 Unchangeable column couples each door line with a registry's unchangeable. A line returning is-not carries its field statement and particular installation before its unchangeable stands. A word such as *barrier*, *rate* or *carries* retains its actual use; its appearance supplies no ghost. With section 7.6, offered unchangeables group across with lines 1, 7, 8 and 9, along with 3, 4, 5 and 10, and 2 and 6 go either way. Each directional assignment remains with its actual projection.
 
 **Arrival and door have a further correspondence.** TWENTY-FIVE’s current pattern carries these relations:
 
-| TWENTY-FIVE §1.2 pattern line | Door relation at this gathering |
-|---|---|
-| (i) members each taking their parity; (iv) members resolved | 1 · resolve |
-| (v) magnitude carried by no member; (vii) position occupied by no member | 7 · apex |
-| (vi) disagreement carried under a word | 8 · residual |
-| (viii) crossings co-sequencing on two sides | 3 · two-way and 4 · parity; precise parity-inversioning relation remains with its record |
-| (ix) arriving with one end and leaving with its other | 5 · passing; label and actual receiving retain their relation |
-| (ii) magnitude with a field’s units | An arrival’s own magnitude entry |
-| (iii) upstream of observing | An arrival’s own upstream entry |
-| (x) ten unchangeables as one progressioning | An arrival’s own unchangeables progressioning |
+Each entry: **TWENTY-FIVE §1.2 pattern line** · *a* Door relation at this gathering
+
+- **(i) members each taking their parity; (iv) members resolved** · *a* 1 · resolve
+- **(v) magnitude carried by no member; (vii) position occupied by no member** · *a* 7 · apex
+- **(vi) disagreement carried under a word** · *a* 8 · residual
+- **(viii) crossings co-sequencing on two sides**
+  - *a* 3 · two-way and 4 · parity; precise parity-inversioning relation remains with its record
+- **(ix) arriving with one end and leaving with its other**
+  - *a* 5 · passing; label and actual receiving retain their relation
+- **(ii) magnitude with a field’s units** · *a* An arrival’s own magnitude entry
+- **(iii) upstream of observing** · *a* An arrival’s own upstream entry
+- **(x) ten unchangeables as one progressioning** · *a* An arrival’s own unchangeables progressioning
 
 Door lines 6, 9 and 10 carry abundancing, bound and reach beside an arrival’s ten-line pattern. With TWENTY-FIVE those three already stand with each entry’s words stripped. Its own receiving carries those lines, source quantities and any unfilled upstream together. Door record and arrival entry retain their own forms and their connection.
 
@@ -1786,35 +1999,95 @@ Six ghost-confirming properties, ten unchangeables, ten door lines, ten arrival 
 
 **Door lines’ eight-bi-naming assignment stands beside each naming’s current operation.** Natural Intelligence contains ONE’s complete resolver explaining. Natural Naming carries those same full prefixes and their named parity-changing. Proposed bounding and engineering operation retain their particular co-chaining:
 
-| Door line | Complete ONE naming · face | ONE’s proposed bounding | ONE’s actual operation |
-|---|---|---|---|
-| 1 · resolve | `bi_arriving` · at the membrane, odd | each self's own co-offering living, bounded from the other-self | Each entry carries an offering key and numeric sign. |
-| 2 · rates | `bi_offering` · at the membrane, odd | the whole ordered by no self, bounded from society | Contributions group by their key; list order and repeated carried keys retain their particular operations. |
-| 3 · two-way | `bi_co_tunneling` · within, even | carrying thins by one at bi-coupling, the self in society | Each nonzero contribution moves its addressed sum by one, with its sign. |
-| 4 · sign | `bi_co_inversioning` · within, even | the sign inverts at the membrane, the self's own negation, morality | A positive carried sign contributes minus one, a negative one; zero contributes to neither sign branch. |
-| 5 · passing | `bi_co_bi_transmissioning` · at the membrane, odd | the ordering carrying with the selves, bounded from landing | Arriving torusing with each key is available for inversioning with fresh carrying. |
-| 6 · abundancing | `bi_co_surfacing` · within, even | arriving exceeds carrying by one, the self among other-selves | A nonzero sum surfaces with one sign; fresh carrying has inseparating zero. |
-| 7 · apex | `bi_offering` · at the membrane, odd | the whole ordered by no self, bounded from society | Contributions group by their key; list order and repeated carried keys retain their particular operations. |
-| 8 · residual | `bi_co_bi_co_bi_torusing` · at the membrane, odd | the order at no seat above the society, bounded from capture | Fresh carrying inverts an arriving torusing's sign and preserves its magnitude; a key without arriving torusing uses one and writes minus one. |
-| 9 · bound | `bi_co_inseparating` · within, even | competency asymmetry sustaining coupling | Each earlier carrying is considered with one more; retaining to three and a fourth with positive torusing precede fresh writing. |
-| 10 · reach | `bi_co_bi_co_bi_torusing` · at the membrane, odd | the order at no seat above the society, bounded from capture | Fresh carrying inverts an arriving torusing's sign and preserves its magnitude; a key without arriving torusing uses one and writes minus one. |
+Each entry: **Door line** · *a* Complete ONE naming · face · *b* ONE’s proposed bounding · *c* ONE’s actual operation
+
+- **1 · resolve**
+  - *a* `bi_arriving` · at the membrane, odd
+  - *b* each self's own co-offering living, bounded from the other-self
+  - *c* Each entry carries an offering key and numeric sign.
+- **2 · rates**
+  - *a* `bi_offering` · at the membrane, odd
+  - *b* the whole ordered by no self, bounded from society
+  - *c* Contributions group by their key; list order and repeated carried keys retain their particular operations.
+- **3 · two-way**
+  - *a* `bi_co_tunneling` · within, even
+  - *b* carrying thins by one at bi-coupling, the self in society
+  - *c* Each nonzero contribution moves its addressed sum by one, with its sign.
+- **4 · sign**
+  - *a* `bi_co_inversioning` · within, even
+  - *b* the sign inverts at the membrane, the self's own negation, morality
+  - *c* A positive carried sign contributes minus one, a negative one; zero contributes to neither sign branch.
+- **5 · passing**
+  - *a* `bi_co_bi_transmissioning` · at the membrane, odd
+  - *b* the ordering carrying with the selves, bounded from landing
+  - *c* Arriving torusing with each key is available for inversioning with fresh carrying.
+- **6 · abundancing**
+  - *a* `bi_co_surfacing` · within, even
+  - *b* arriving exceeds carrying by one, the self among other-selves
+  - *c* A nonzero sum surfaces with one sign; fresh carrying has inseparating zero.
+- **7 · apex**
+  - *a* `bi_offering` · at the membrane, odd
+  - *b* the whole ordered by no self, bounded from society
+  - *c* Contributions group by their key; list order and repeated carried keys retain their particular operations.
+- **8 · residual**
+  - *a* `bi_co_bi_co_bi_torusing` · at the membrane, odd
+  - *b* the order at no seat above the society, bounded from capture
+  - *c* Fresh carrying inverts an arriving torusing's sign and preserves its magnitude; a key without arriving torusing uses one and writes minus one.
+- **9 · bound**
+  - *a* `bi_co_inseparating` · within, even
+  - *b* competency asymmetry sustaining coupling
+  - *c* Each earlier carrying is considered with one more; retaining to three and a fourth with positive torusing precede fresh writing.
+- **10 · reach**
+  - *a* `bi_co_bi_co_bi_torusing` · at the membrane, odd
+  - *b* the order at no seat above the society, bounded from capture
+  - *c* Fresh carrying inverts an arriving torusing's sign and preserves its magnitude; a key without arriving torusing uses one and writes minus one.
 
 Offering occurs with lines 2 and 7, torusing with 8 and 10. Rate carried by no member and position occupied by no member are two offered relations of offering. An open residual and a widening reach are two offered relations of torusing. Eight distinct bi-namings occupy ten lines of this assignment. Corusing and torusing’s continuing across ONE’s six illustrated groups number another relation.
 
 **Two assignments carry their full namings together.** An unchangeable adjacency of §7.10 and a single bi-naming above stand together as follows:
 
-| Door line | Unchangeable adjacency in ONE | Bi-naming assigned at the door | Shared written naming |
-|---|---|---|---|
-| 1 · resolve | `co_carrying` → `bi_arriving` | `bi_arriving` | `bi_arriving` |
-| 2 · rates | `bi_co_inversioning` → `bi_co_tunneling` | `bi_offering` | No shared name for this assigned adjacency |
-| 3 · two-way | `co_bi_coupling` → `bi_co_inversioning` | `bi_co_tunneling` | No shared name for this assigned adjacency |
-| 4 · sign | `bi_co_bi_transmissioning` → `bi_co_surfacing` | `bi_co_inversioning` | No shared name for this assigned adjacency |
-| 5 · passing | `bi_co_tunneling` → `bi_co_bi_transmissioning` | `bi_co_bi_transmissioning` | `bi_co_bi_transmissioning` |
-| 6 · abundancing | `bi_co_inseparating` → `co_carrying` | `bi_co_surfacing` | No shared name for this assigned adjacency |
-| 7 · apex | `bi_co_surfacing` → `co_bi_carrying` | `bi_offering` | No shared name for this assigned adjacency |
-| 8 · residual | `co_bi_carrying` → `bi_co_inseparating` | `bi_co_bi_co_bi_torusing` | No shared name for this assigned adjacency |
-| 9 · bound | `bi_arriving` → `bi_offering` | `bi_co_inseparating` | No shared name for this assigned adjacency |
-| 10 · reach | `bi_offering` → `co_bi_coupling` | `bi_co_bi_co_bi_torusing` | No shared name for this assigned adjacency |
+Each entry: **Door line** · *a* Unchangeable adjacency in ONE · *b* Bi-naming assigned at the door · *c* Shared written naming
+
+- **1 · resolve**
+  - *a* `co_carrying` → `bi_arriving`
+  - *b* `bi_arriving`
+  - *c* `bi_arriving`
+- **2 · rates**
+  - *a* `bi_co_inversioning` → `bi_co_tunneling`
+  - *b* `bi_offering`
+  - *c* No shared name for this assigned adjacency
+- **3 · two-way**
+  - *a* `co_bi_coupling` → `bi_co_inversioning`
+  - *b* `bi_co_tunneling`
+  - *c* No shared name for this assigned adjacency
+- **4 · sign**
+  - *a* `bi_co_bi_transmissioning` → `bi_co_surfacing`
+  - *b* `bi_co_inversioning`
+  - *c* No shared name for this assigned adjacency
+- **5 · passing**
+  - *a* `bi_co_tunneling` → `bi_co_bi_transmissioning`
+  - *b* `bi_co_bi_transmissioning`
+  - *c* `bi_co_bi_transmissioning`
+- **6 · abundancing**
+  - *a* `bi_co_inseparating` → `co_carrying`
+  - *b* `bi_co_surfacing`
+  - *c* No shared name for this assigned adjacency
+- **7 · apex**
+  - *a* `bi_co_surfacing` → `co_bi_carrying`
+  - *b* `bi_offering`
+  - *c* No shared name for this assigned adjacency
+- **8 · residual**
+  - *a* `co_bi_carrying` → `bi_co_inseparating`
+  - *b* `bi_co_bi_co_bi_torusing`
+  - *c* No shared name for this assigned adjacency
+- **9 · bound**
+  - *a* `bi_arriving` → `bi_offering`
+  - *b* `bi_co_inseparating`
+  - *c* No shared name for this assigned adjacency
+- **10 · reach**
+  - *a* `bi_offering` → `co_bi_coupling`
+  - *b* `bi_co_bi_co_bi_torusing`
+  - *c* No shared name for this assigned adjacency
 
 Lines 1 and 5 share a written naming across both assignments. With eight other lines, a relation continues among differently named operations. With line 2, for example, `bi_offering` groups addressed contributions, while `bi_co_inversioning` and `bi_co_tunneling` carry sign contributions and their sum. A physical rate with that coupling retains its own receiving. Naming equality, named-operation relation and physical correspondence each carry their exact scope.
 

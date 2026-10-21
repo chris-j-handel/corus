@@ -158,14 +158,14 @@ Non-carrying local surface within society
 
 **Six connector names express coupling between selves.** Across, 2-now-possibling and 14-next-possibling arrive; 6-now-co-possibling and 10-next-co-possibling share. Along, 9-next-co-discovering shares and 17-next-existing arrives. Each connection is one way at a time, with a self's own coupling.
 
-| Connector | End | Relation with another self |
-|---|---|---|
-| 2-now-possibling | arriving end, across | another self's 6-now-co-possibling sharing |
-| 6-now-co-possibling | sharing end, across | another self's 2-now-possibling arriving |
-| 9-next-co-discovering | sharing end, along | another self's 17-next-existing arriving |
-| 10-next-co-possibling | sharing end, across | another self's 14-next-possibling arriving |
-| 14-next-possibling | arriving end, across | another self's 10-next-co-possibling sharing |
-| 17-next-existing | arriving end, along | another self's 9-next-co-discovering sharing |
+Each entry: **Connector** · *a* End · *b* Relation with another self
+
+- **2-now-possibling** · *a* arriving end, across · *b* another self's 6-now-co-possibling sharing
+- **6-now-co-possibling** · *a* sharing end, across · *b* another self's 2-now-possibling arriving
+- **9-next-co-discovering** · *a* sharing end, along · *b* another self's 17-next-existing arriving
+- **10-next-co-possibling** · *a* sharing end, across · *b* another self's 14-next-possibling arriving
+- **14-next-possibling** · *a* arriving end, across · *b* another self's 10-next-co-possibling sharing
+- **17-next-existing** · *a* arriving end, along · *b* another self's 9-next-co-discovering sharing
 
 **With Python code, 1-now-existing returns each sharing's parity-offering and next prior.** 10-next-co-possibling is first return; 11-next-co-observing is second, continuing as its same self's 3-now-co-observing, next. Within its function, 6-other-crossing carries each carrying's second sign, and 14-social-crossing gathers arriving signs with carrying signs inverting. 9-next-co-discovering carries each parity-offering on as it is, going along to each self of 5-now-co-existing's bi-couplings. 17-next-existing has its place among an engineered surface's connectors. Input carrying participates from prior resolving; return carries this resolving onward. Future arriving reaches its own now. Prior is each carrying to now, including a continuing carrying eligible with its key.
 
@@ -361,11 +361,11 @@ Non-carrying local surface within society
 
 **A three-pair naming follows discovering through each span.** Prior opens with four and now with six, with eight–nine continuing onward. Eight on, prior opens with twelve and now with fourteen, with sixteen–seventeen continuing onward. Next within this table belongs to a sequence being explained; resolving itself carries prior and now.
 
-| Relation through its unfolding | Completing with nine | Completing with seventeen |
-|---|---|---|
-| Prior | 4-now-co-same-existing → 5-now-co-existing | 12-next-co-same-existing → 13-next-same-existing |
-| Now | 6-now-co-possibling → 7-now-observing | 14-next-possibling → 15-next-observing |
-| Next, discovering onward | 8-now-same-existing → 9-next-co-discovering | 16-next-discovering → 17-next-existing |
+Each entry: **Relation through its unfolding** · *a* Completing with nine · *b* Completing with seventeen
+
+- **Prior** · *a* 4-now-co-same-existing → 5-now-co-existing · *b* 12-next-co-same-existing → 13-next-same-existing
+- **Now** · *a* 6-now-co-possibling → 7-now-observing · *b* 14-next-possibling → 15-next-observing
+- **Next, discovering onward** · *a* 8-now-same-existing → 9-next-co-discovering · *b* 16-next-discovering → 17-next-existing
 
 **Each pair is bi then co; displayed unfolding has six parity positions with each span.** Columns are eight on from one another and share one same opening parity. Opposite opening parities appear with one-on overlap. Three successive pairs locate names through continuing; prior and now give two momentaries participating with a self's present resolving.
 
@@ -391,12 +391,13 @@ Non-carrying local surface within society
 
 **Podaling exchanges across for along and along for across while each side continues forward.** Within nine, 1 pairs with 8, 2 with 7, 3 with 6, and 4 with 5. Each pair exchanges odd/co with even/bi. Eight on carries one same opening parity to a relation with other and same-existing-society: 3-now-co-observing with 11-next-co-observing, and 6-now-co-possibling with 14-next-possibling.
 
-| Relation among names | Continuing expressed |
-|---|---|
-| 3-now-co-observing with 11-next-co-observing | Prior continues to next prior with one same opening parity |
-| 3-now-co-observing with 6-now-co-possibling | Podal pair exchanges along and across opening relations |
-| 6-now-co-possibling with 14-next-possibling | A sharing across continues as an arriving across, eight on |
-| 3 → 11 → 6 → 14 → 3 | Four-name form carries both same-parity continuing and parity-changing exchange |
+Each entry: **Relation among names** · *a* Continuing expressed
+
+- **3-now-co-observing with 11-next-co-observing** · *a* Prior continues to next prior with one same opening parity
+- **3-now-co-observing with 6-now-co-possibling** · *a* Podal pair exchanges along and across opening relations
+- **6-now-co-possibling with 14-next-possibling** · *a* A sharing across continues as an arriving across, eight on
+- **3 → 11 → 6 → 14 → 3**
+  - *a* Four-name form carries both same-parity continuing and parity-changing exchange
 
 **A bi-fold between 3-now-co-observing and 6-now-co-possibling gives two-over-one and one-over-two a local expression among numbers.** 9 less pairs three with six. Six over three is two over one; three over six is one over two. Two ratios express one same pair from its two sides. With these names, 3 opens odd, existing, and 6 opens even, possibling, along and across exchanging through fold.
 
@@ -416,13 +417,28 @@ Non-carrying local surface within society
 
 **Four across openings' form is same-existing while spacing grows.** From two, each row carries four even openings with equal spacing. Spacing is two, four, six, eight and ten. A first opening stays two while its other three extend together.
 
-| Four across openings | Spacing | Halfway step | Odd completing before the next across opening |
-|---|---:|---:|---:|
-| 2 · 4 · 6 · 8 | 2 | 4 | 9 |
-| 2 · 6 · 10 · 14 | 4 | 8 | 17 |
-| 2 · 8 · 14 · 20 | 6 | 12 | 25 |
-| 2 · 10 · 18 · 26 | 8 | 16 | 33 |
-| 2 · 12 · 22 · 32 | 10 | 20 | 41 |
+Each entry: **Four across openings** · *a* Spacing · *b* Halfway step · *c* Odd completing before the next across opening
+
+- **2 · 4 · 6 · 8**
+  - *a* 2
+  - *b* 4
+  - *c* 9
+- **2 · 6 · 10 · 14**
+  - *a* 4
+  - *b* 8
+  - *c* 17
+- **2 · 8 · 14 · 20**
+  - *a* 6
+  - *b* 12
+  - *c* 25
+- **2 · 10 · 18 · 26**
+  - *a* 8
+  - *b* 16
+  - *c* 33
+- **2 · 12 · 22 · 32**
+  - *a* 10
+  - *b* 20
+  - *c* 41
 
 **Continuing fourth step opens next of one same form.** Four displayed openings show three spaces; one further equal step reaches next across opening. With a first row that opening is ten, following an odd completing with nine. With a second it is eighteen, following seventeen. Continuing one same numbered stepping gives twenty-five, thirty-three and forty-one as odd completings of further rows. First two rows thus express one-through-nine and one-through-seventeen within one growing number-form. One scale inward a name n is 8n − 7: odd completings 9, 17, 25, 33 and 41 are names 2 through 6 with that scale.
 
@@ -469,10 +485,11 @@ Non-carrying local surface within society
 
 **Two local even rows carry both parts of wider form.** Two, four, six and eight continue eight on as ten, twelve, fourteen and sixteen. Taken with their alternating places, these eight names give two interleaving rows:
 
-| Wider row | Relation within a present resolver |
-|---|---|
-| 2 · 6 · 10 · 14 | Four across connectors |
-| 4 · 8 · 12 · 16 | Internal bi relations: sharing, torusing, abundancing and torusing |
+Each entry: **Wider row** · *a* Relation within a present resolver
+
+- **2 · 6 · 10 · 14** · *a* Four across connectors
+- **4 · 8 · 12 · 16**
+  - *a* Internal bi relations: sharing, torusing, abundancing and torusing
 
 **Across and within grow together.** Each local four contributes to both wider rows. Crossing continues with sharing, carrying and torusing with a receiving self. Wider connector row belongs with its interleaving internal relations, carrying whole resolving.
 
@@ -488,10 +505,10 @@ Non-carrying local surface within society
 
 **An isolated four-parity form continues through passages of six map applications.** With this expression, (x,y) continues as (y,−x). Four applications return a pair's parities; six give (−x,−y). A further six return parities again. Each passage of six visits its same four joint forms. Two momentaries with four parity positions is participating relation with each side; applications of this map are successive overlapping pairs.
 
-| Formal step span | Returns after four map applications | Passages of six map applications |
-|---|---:|---:|
-| 0–24 | 6 | 4 |
-| 24–60 | 9 | 6 |
+Each entry: **Formal step span** · *a* Returns after four map applications · *b* Passages of six map applications
+
+- **0–24** · *a* 6 · *b* 4
+- **24–60** · *a* 9 · *b* 6
 
 **A form continuing and momentaries as numbers belong together.** Its same four joint forms continue through passages of differing lengths. With overlapping momentaries, three eight-step spans show four successive full momentaries per side; three twelve-step spans show six per side. These longer sequences follow repeated prior-and-now resolving. Their numerical lengths describe displayed unfolding; they supply no common clock across participating selves.
 
@@ -503,12 +520,14 @@ Non-carrying local surface within society
 
 **One parity crossing and several parities collected are different offerings.** With one carried parity c and one arriving parity r, their agreeing gives zero surfacing; their differing gives arriving parity. With no arrival, a nonzero carried parity surfaces inverted. With no carrying, an arriving parity opens fresh carrying. These are particular relations of resolving.
 
-| With one carried relation | Surfacing | Continuing |
-|---|---|---|
-| One arriving parity agrees with carried parity | Zero | Eligible earlier carrying continues; no fresh carrying opens |
-| One arriving sign differs from its carried sign | Its arriving sign | Fresh carrying opens with that sign and its prior second sign inverted |
-| No arriving sign, carrying present | Its carried sign inverted | Fresh carrying opens with both signs inverted |
-| One arriving sign, carrying absent | Its arriving sign | Fresh carrying opens with its source's initial second sign |
+Each entry: **With one carried relation** · *a* Surfacing · *b* Continuing
+
+- **One arriving parity agrees with carried parity** · *a* Zero · *b* Eligible earlier carrying continues; no fresh carrying opens
+- **One arriving sign differs from its carried sign**
+  - *a* Its arriving sign
+  - *b* Fresh carrying opens with that sign and its prior second sign inverted
+- **No arriving sign, carrying present** · *a* Its carried sign inverted · *b* Fresh carrying opens with both signs inverted
+- **One arriving sign, carrying absent** · *a* Its arriving sign · *b* Fresh carrying opens with its source's initial second sign
 
 **Multiplicity represents another coupling.** One positive arrival against a positive carrying gives zero; two positive arrivals against that carrying give positive surfacing. Python gathering can express several arrivals, and its coupling represented is one an assembly expresses with each actual crossing's entering. One offering is one parity, and repeated parities, two or more, represent another coupling.
 
@@ -585,12 +604,24 @@ Non-carrying local surface within society
 
 **Four across relations open bi with two, four, six and eight.** Offering, ordering between, ordering carrying, and each side's forward belong together with coupling. Their within relations are eight on, carrying these same four with a same-existing-society.
 
-| With a between | Relation | Within, eight on | Relation |
-|---|---|---|---|
-| 2-now-possibling | Each other's across sharing, offered to a self | 10-next-co-possibling | A self among selves of its same-existing-society |
-| 4-now-co-same-existing | A whole ordering between self and other | 12-next-co-same-existing | Parity-changing with a bi-coupling, a self within a same-existing-society |
-| 6-now-co-possibling | An other's parity-offering to a self, shared across | 14-next-possibling | Offerings surfacing, each as it arrived, morality; a self's own inverting with 12 |
-| 8-now-same-existing | Prior with its sharing again | 16-next-discovering | A same-existing-society, each self with its prior and offerings, a same-existing-society as a self again |
+Each entry: **With a between** · *a* Relation · *b* Within, eight on · *c* Relation
+
+- **2-now-possibling**
+  - *a* Each other's across sharing, offered to a self
+  - *b* 10-next-co-possibling
+  - *c* A self among selves of its same-existing-society
+- **4-now-co-same-existing**
+  - *a* A whole ordering between self and other
+  - *b* 12-next-co-same-existing
+  - *c* Parity-changing with a bi-coupling, a self within a same-existing-society
+- **6-now-co-possibling**
+  - *a* An other's parity-offering to a self, shared across
+  - *b* 14-next-possibling
+  - *c* Offerings surfacing, each as it arrived, morality; a self's own inverting with 12
+- **8-now-same-existing**
+  - *a* Prior with its sharing again
+  - *b* 16-next-discovering
+  - *c* A same-existing-society, each self with its prior and offerings, a same-existing-society as a self again
 
 **A crossing participates with bi-folding.** With 3-now-co-observing and 6-now-co-possibling, prior couples with its podal across relation. With 4-now-co-same-existing and 5-now-co-existing, ordering couples with its joining. Arriving participates with carrying through a receiving coupling; each completing opens continuing. Four across relations carry one coupling with its along continuation.
 
