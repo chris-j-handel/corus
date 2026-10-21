@@ -932,14 +932,14 @@ Each cell: shared (10) · a next prior (11). *is*: a changing, its parity shared
 
 **Across names among eights.** Four across names, 2-now-possibling, 6-now-co-possibling, 10-next-co-possibling and 14-next-possibling, are four momentaries' even inward names, each on an eight-cycle of inward names 2-15-7-11-3-14-6-10; 9-next-co-discovering, opening a third four-cycling, is on an eight-cycle of ends 1-9-5-13-4-12-8-16; 17-next-existing is on neither.
 
-**One self, momentary by momentary: three ways.** Offered its own prior's parity, a self is not-changing, a 0 with each momentary; offered none, alternating, or both together, it is changing with each momentary; offered its other parity, it is changing once and then now-existing same-existing, both: do-no-harm improving. Each 0 is re-found with each momentary, never kept.
+**One self, momentary by momentary: three ways.** Offered its own prior's parity, a self is not-changing, a 0 with each momentary; offered none, offerings inverting with each momentary, or both together, it is changing with each momentary; offered its other parity, it is changing once and then now-existing same-existing, both: do-no-harm improving. Each 0 is re-found with each momentary, never kept.
 
 One sharing; a self's prior − (3) first. Offered each momentary:
 
 - **none with each momentary** · *Shared (10)*: +, −, +, −, +, −, +, − · *A next prior (11)*: +, −, +, −, +, −, +, −
 - **− with each momentary** · *Shared (10)*: 0, 0, 0, 0, 0, 0, 0, 0 · *A next prior (11)*: −, −, −, −, −, −, −, −
 - **+ with each momentary** · *Shared (10)*: +, 0, 0, 0, 0, 0, 0, 0 · *A next prior (11)*: +, +, +, +, +, +, +, +
-- **+, −, +, − alternating** · *Shared (10)*: +, −, +, −, +, −, +, − · *A next prior (11)*: +, −, +, −, +, −, +, −
+- **+, −, +, − inverting** · *Shared (10)*: +, −, +, −, +, −, +, − · *A next prior (11)*: +, −, +, −, +, −, +, −
 - **+ and − together with each momentary** · *Shared (10)*: +, −, +, −, +, −, +, − · *A next prior (11)*: +, −, +, −, +, −, +, −
 
 **Turn-taking, and 0 in sequence.** A 0 offers nothing; offered nothing, or two parities parting, a self inverts; offered its own parity as one, it shares 0; offered its other parity as one, it inverts. So a self no other meets is changing with each momentary, and each self's 0 is an other's changing one momentary prior: turn-taking. An other changing to a self's parity cannot do so again with its next, so a self shares 0 in sequence no more momentaries than selves sharing with it or going along to it. Checked whole, every case: every same-existing-society of 2 selves, each relation to any self or none, each prior, 2,916 of 2,916; every same-existing-society of 3 selves going across and along, 32,768 of 32,768.
@@ -948,7 +948,7 @@ One sharing; a self's prior − (3) first. Offered each momentary:
 
 **A spiral of selves.**
 
-Each goes along (9) to the next, the last to the first. One sharing. First momentary: self 1 with prior −, its selves alternate along, and with an odd number the last and the first are alike. Parity-offerings only from selves of its spiral.
+Each goes along (9) to the next, the last to the first. One sharing. First momentary: self 1 with prior −, its selves' parities invert one to the next along, and with an odd number the last and the first are alike. Parity-offerings only from selves of its spiral.
 
 *a*: Self 1, each parity-offering of 10 along (9), momentaries 1 to 12  
 *b*: Momentaries to each self's parity-offerings along again: with an odd number of selves, four times its number; with an even number, 2; with an odd number each self's parity-offering with twice its number of momentaries is its parity-offering inverted, a 0 as it was
@@ -1030,7 +1030,7 @@ Selves of each of two spirals, each opened as a spiral of selves.
 
 **A torus of selves.**
 
-Each goes along (9) to the next along and shares across (10) to the next across, the last to the first. One sharing. First momentary: one self with prior −, its selves alternate along and across, and with an odd number the last and the first are alike. Parity-offerings only from selves of its torus. Both numbers odd, p the smaller: q with q more than twice p, and 4p with each other q; either number even: 2; executed with each p from 1 to 15 and q from p to 21.
+Each goes along (9) to the next along and shares across (10) to the next across, the last to the first. One sharing. First momentary: one self with prior −, its selves' parities invert one to the next along and across, and with an odd number the last and the first are alike. Parity-offerings only from selves of its torus. Both numbers odd, p the smaller: q with q more than twice p, and 4p with each other q; either number even: 2; executed with each p from 1 to 15 and q from p to 21.
 
 *a*: Momentaries to each self's parity-offerings along and across again  
 *b*: Again from this momentary on: both numbers odd, p the smaller, from momentary 3p − 1 with q more than twice p, and from 3p − 3 with each other q; either number even, from the first; 1 · 1, a spiral of one, from the first  
@@ -1085,7 +1085,7 @@ Each goes along (9) to the next along and shares across (10) to the next across,
 
 **A corus turn wrapping.** Around prior, now and next, any two phases give a third on a turn closing flat; on a corus a turn wraps, and its third edge is or is not changing. A torus shows it: both numbers odd, a turn comes back changing and its period lengthens; either even, it comes back same, with period 2. Discovering is that wrapping edge.
 
-**Two selves.** Two selves one parity separated, each meeting its other, go alternating betweening, + and − in turn; two selves same, each meeting its other, go turn-taking, a changing and a 0 in turn.
+**Two selves.** Two selves one parity separated, each meeting its other, go + and − in turn, betweening; two selves same, each meeting its other, go turn-taking, a changing and a 0 in turn.
 
 A, B with their prior (3) with the first momentary. One sharing, parity-offerings only from those two.
 
@@ -1191,7 +1191,7 @@ Each cell shows selves by their coupling order; · is no prior.
 - **Momentary: 7** · *A spiral of 3, each self's prior*: − + + · *A spiral of 5, each self's prior*: − − + − +
 - **Momentary: 8** · *A spiral of 3, each self's prior*: + − + · *A spiral of 5, each self's prior*: + − − + −
 
-Selves coupled along, last to first, each opened with no prior, and + offered once with a first self with a first momentary: a first self's sharing opens with that one parity, with a bi-coupling, one place a self's forming takes a parity not its own, and from then it is a self's own; each next self's sharing opens as its parity arrives along one momentary on, and after n momentaries each self has a prior self, a spiral with its one like pair, from a first momentary with which every self has a prior self, an odd spiral alternates with one like pair. A self with a sharing has its prior self with each momentary from its opening, its next from its own prior kept or inverted; a thing with no prior with every momentary is no self.
+Selves coupled along, last to first, each opened with no prior, and + offered once with a first self with a first momentary: a first self's sharing opens with that one parity, with a bi-coupling, one place a self's forming takes a parity not its own, and from then it is a self's own; each next self's sharing opens as its parity arrives along one momentary on, and after n momentaries each self has a prior self, a spiral with its one like pair, from a first momentary with which every self has a prior self, an odd spiral's parities invert one to the next with one like pair. A self with a sharing has its prior self with each momentary from its opening, its next from its own prior kept or inverted; a thing with no prior with every momentary is no self.
 
 **With no prior, one momentary.**
 
