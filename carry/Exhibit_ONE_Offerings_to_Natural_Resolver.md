@@ -226,3 +226,10 @@ Session v391 read Exhibit ONE whole against Natural Explaining, Natural Naming, 
 **Droplet · one field, one claim.** The per-name fields carry four to seven claims each, as 15's *Prior and next*, and repeat other sections whole: 12's *Namings* repeats *Namings among names*, 9 to 17's *Momentaries of exchanging* repeat *A self's four momentaries of exchanging* (Natural Explaining 2.2; Geodesic Improving Method 3.2). — v391
 
 **Droplet · a sample beside an all.** The keys of *A spiral of selves*, *Two spirals* and *A torus of selves* say a rule for all, over 13, 8 and 11 rows; each rule held when run over its stated range. Offered: each key says its rule with its executed range, as *A torus of selves* does, and rows stand as its forms. *Two spirals … crossed* leaves equal odd numbers unsaid within its range: 3 · 3 comes to its parity-offerings again with 5, not 2. — v391, checked by running the code
+
+## Carved bothboth at v391 · v391
+
+Carved bothboth at v391 and laid whole at Natural Intelligence's offerings, *Carved bothboth at v391, from the v391 concerns*. Two concern Exhibit ONE most:
+
+- **One route.** Each of 6, 10 and 9 arrives with a receiving self's 14-next-possibling, its next 2-now-possibling. The drawing, *Sharing between selves* and the code list are to say the route the code runs.
+- **Its purpose and place.** Exhibit ONE is inside Natural Intelligence, and it is a separate exhibit, a reference resource for pattern-matching natural torusing society, used with each incoming science explaining or observing. It is not possibly entirely self-explaining. Each passage is to be met with one binary: Exhibit ONE, Natural Intelligence, or the living file whose subject it is. — v391
