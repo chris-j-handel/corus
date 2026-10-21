@@ -217,3 +217,7 @@ Natural Intelligence Corus section 17.4 offers comparative cognition as a place 
 **Concern · at a sentence.** Beside "**The prime-ladder of holds-still** — cholesterol (11), chaperone (13), histone (17), lysosome (19), gap junction (23),"…
 
 *Standing at v389:* *Standing at v389:* 10.4 has "The prime-ladder of holds-still", and a concern standing at this file's offerings, A prime at a rung with no selves numbered, asks whether each rung is re-said as a society at a prime living scale or this ladder is released, *held still* released. Re-said now as *fixed-still*, that concern's exact quote no longer matches. **To resolve:** re-say as *fixed-still* and refresh the concern's quote, or keep it until that concern resolves?
+
+## Gathered at v391, reading across the living file set · v391
+
+**Concern · a membrane, a third self or a between.** 1.4 says *A nothing between two selves is a third self, carrying only parity*; Natural Intelligence 2.1 says *nothing is a between, … no thing and no location*, and Natural Explaining 1.6 a membrane *a non-existing between*. Carved at v391: the pair is the third living self. **To resolve:** a cell membrane observed between two cells is a self of its own coupling with each, and a between is with each of its couplings; or the third self here is the pair's. Beside it, a spore and a seed are *inert* here and living, dormant, in Natural Intelligence 6.5. — v391

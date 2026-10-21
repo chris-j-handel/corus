@@ -263,3 +263,7 @@ At a resolver's functions 6, 10 and 9 are one list, each self's 10-next-co-possi
 **Concern · clipped sentences after *the*.** Natural Networking's *the* pass at v389 was executed by a script, and some sentences read clipped, as "Complete network's own continuation remains relation to establish."
 
 *Standing at v389:* Readable natural explaining is the set's standard, and a scripted pass can leave a sentence harder to follow. **To resolve:** a hand reading of this file, each clipped sentence given *a*, *its* or a re-saying, or keep the file as it stands?
+
+## Gathered at v391, reading across the living file set · v391
+
+**Concern · one resolver.** This file runs a resolver Exhibit ONE no longer carries, a two-sign carrying, *corusing c and torusing t*, with prior names, as *6-other-crossing* and *14-social-crossing*, and says *Kit's resolver is executably identical to resolver*. Exhibit ONE's code carries one parity with each sharing and the agreed seventeen names. **To resolve:** either this file's tables are re-executed with Exhibit ONE's code and re-said with its names, or its resolver is said as another resolver, its findings its own. Carried beside it at Natural Intelligence's offerings, *one resolver*. — v391

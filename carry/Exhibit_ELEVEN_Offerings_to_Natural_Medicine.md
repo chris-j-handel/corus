@@ -205,3 +205,7 @@ The current question is: **At the next colliding, which co-chaining of the inwar
 **Concern · Natural Medicine's societies, v390.** Natural Medicine's *society* (of cells, of a surface, two societies) is kept as its own concept in pass 10. A same-existing-society is a living set whose next is its same selves, and a non-living going of one method lets members part or join. **To resolve:** with Natural Chemistry's concern, is a society of cells a same-existing-society, and which of its partings and joinings are a non-living going? — v390
 
 **Resolved bothboth, v390 · Natural Medicine's societies.** A society of cells is a society of selves: a living self and a same-existing-society. It is re-said as *same-existing-society*, except where a shed emanation is *a society with a dropped rate*. — v390
+
+## Gathered at v391, reading across the living file set · v391
+
+**Droplet · bi-moral co-agency, one home.** This file opens on a core paragraph four files share word for word, *two-way, one-at-a-time, selecting by binary preferring — a parity, sign-only — summing to a bounding-zeroing made by coupling itself, riding its carry, its abundancing a +1 owned neither-ing*. Natural Intelligence 6.2 is bi-moral co-agency's home, and it says it otherwise, with *alternating*, re-said at v391 as parity-changing. Offered: when 6.2 is re-said, this file's core meets it, each of its parts carried there or said as this file's own. — v391

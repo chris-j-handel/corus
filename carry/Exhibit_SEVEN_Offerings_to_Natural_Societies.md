@@ -105,3 +105,7 @@ Concern, at v380, from [the earlier Natural Networking gathering](../archive/v38
 **Droplet · tri-moral.** Bi-moral is between two; tri-agency is three; tri-moral, universally moral, is do-no-harm social improving, an abundancing same-existing-society. Which same-existing-society forms carry each self turn-taking is open, to be found by co-chaining. — v390, gathered from session v390
 
 **Resolved bothboth, v390 · machine agents.** A robot is no self: each self carries two prior selves from inception, and that carrying is biology and human pro-creation. Machine agent-societies are re-said as *sets of machine agents*, each a non-living set, an emanation of living selves. — v390
+
+## Gathered at v391, reading across the living file set · v391
+
+**Droplet · bi-moral co-agency, one home.** This file opens on a core paragraph four files share word for word, *two-way, one-at-a-time, selecting by binary preferring — a parity, sign-only — summing to a bounding-zeroing made by coupling itself, riding its carry, its abundancing a +1 owned neither-ing*. Natural Intelligence 6.2 is bi-moral co-agency's home, and it says it otherwise, with *alternating*, re-said at v391 as parity-changing. Offered: when 6.2 is re-said, this file's core meets it, each of its parts carried there or said as this file's own. — v391

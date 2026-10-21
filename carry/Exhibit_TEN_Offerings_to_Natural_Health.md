@@ -53,3 +53,7 @@ The user's further offering is: “if the living stable form is colliding with n
 **Concern · at a sentence.** Beside "a carry aging by attentioning and staying fresh by sequencing"
 
 *Standing at v389:* Natural Health 4.1 has "a carry aging by attentioning and staying fresh by sequencing", *aging* a staleness set against fresh, as at Natural Values 1.2's "ages by attentioning". Natural Naming 2.4 carries *ageing*, *ages* as *next*, only next is, and *next* here inverts its value. **To resolve:** re-say as "a carry fixed as now by attentioning and fresh by sequencing", or keep *aging* at Natural Health and Natural Values as their own?
+
+## Gathered at v391, reading across the living file set · v391
+
+**Droplet · bi-moral co-agency, one home.** This file opens on a core paragraph four files share word for word, *two-way, one-at-a-time, selecting by binary preferring — a parity, sign-only — summing to a bounding-zeroing made by coupling itself, riding its carry, its abundancing a +1 owned neither-ing*. Natural Intelligence 6.2 is bi-moral co-agency's home, and it says it otherwise, with *alternating*, re-said at v391 as parity-changing. Offered: when 6.2 is re-said, this file's core meets it, each of its parts carried there or said as this file's own. — v391

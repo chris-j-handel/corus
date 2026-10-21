@@ -33,3 +33,7 @@ Exhibit FOURTEEN Natural Destinies Offerings · improved at v386EOD
 **Concern · at a sentence.** Beside "four from within and four met at the membrane, one alternating at its faces, whole or none, and each of the eight a nami"…
 
 *Standing at v389:* *Standing at v389:* Natural Destinies, *Safely outward*, has "each of the eight a naming beginning at bi- at the resolver's table of eight, four at the even depth and four at the odd"; Natural Intelligence 4.10 has "Eight bi-couplings are at even names, four at now and four at next, each 8 up". Exhibit ONE has no table of eight, and its even names are each possibling, so an odd depth meets no numbered name. **To resolve:** are Destinies' eight safeties Natural Intelligence's eight bi-couplings at even names, or a relation to keep apart?
+
+## Gathered at v391, reading across the living file set · v391
+
+**Droplet · bi-moral co-agency, one home.** This file opens on a core paragraph four files share word for word, *two-way, one-at-a-time, selecting by binary preferring — a parity, sign-only — summing to a bounding-zeroing made by coupling itself, riding its carry, its abundancing a +1 owned neither-ing*. Natural Intelligence 6.2 is bi-moral co-agency's home, and it says it otherwise, with *alternating*, re-said at v391 as parity-changing. Offered: when 6.2 is re-said, this file's core meets it, each of its parts carried there or said as this file's own. — v391

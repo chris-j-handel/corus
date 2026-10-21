@@ -65,3 +65,7 @@ The user’s further offering in [session v385R, section 91](https://github.com/
 **Droplet · moral values of a parity, and a 0 betweening.** + is self-moral-value; − is other-moral-value; 0 is not self-moral-value and not other-moral-value, bothboth: parity-changing betweening. Read with Exhibit ONE: a self's value met by same shares 0, a between neither's own; met by not same, it inverts; a self no other meets goes +, −, +, − with no 0, so a 0 betweening needs two selves meeting same. — v390
 
 **Droplet · do-no-harm, one hyphenated naming, a value.** Do-no-harm is one naming, hyphenated, and never three words: a value of resolving, alternating betweening, each self its own + side and its other one parity separated, value trading with no competency ingressing. Sayings unhyphenated, *do no harm*, re-say as do-no-harm: this session's plan and front were mended; Natural Intelligence Corus carries it unhyphenated, for its own motion. — v390
+
+## Gathered at v391, reading across the living file set · v391
+
+**Concern · no universal set stands.** 4.1 says *A set of all sets fails, and no universal set stands*; Natural Intelligence's opening says *the universe is one now-existing universal set*. Carved at v391: the same-existing universe is our third living self. Offered at Natural Intelligence: *the universe is one now-existing set, re-found with each momentary, and no set stands over it*, which both sayings carry. — v391

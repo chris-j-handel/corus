@@ -229,3 +229,7 @@ The lived and engineering entries are two approaches through the reader's own co
 **Concern · at a sentence.** Beside "THIRTEEN §7.3 supplies the existing ten-row relation between ONE's naming ring and the hard-problem holdings."
 
 *Standing at v389:* §6.1: "THIRTEEN §7.3 supplies the existing ten-row relation between ONE's naming ring and the hard-problem holdings." Resolving Hard Problems v389 has no §7.3, and Exhibit ONE v389 carries no naming ring; Resolving the Hard Problem Registry v389 carries each unchangeable at two numbered names, as "2 An opening fixed as a place — 1-now and 9-next-co-changing". **To resolve:** re-say as "Resolving the Hard Problem Registry carries each of ten unchangeables at its name at now and that name 8 up at next", or keep it as an earlier version's record?
+
+## Gathered at v391, reading across the living file set · v391
+
+**Droplet · code names no longer in Exhibit ONE.** 4.10 explains `co_carrying` 2 times, `bi_co_tunneling` 5 and `bi_offering` 4; Exhibit ONE's code carries the agreed seventeen names only. Offered: each re-said with Exhibit ONE's names at this file's next motion, its finding re-executed with Exhibit ONE's code. 2.3's *engineered side's proposed self-bounding bi-momentarying* parts from Natural Intelligence 6.5's *a trained form carrying none of its prior*: an engineered side bounds nothing of its own, its bounding each coupling living self's. — v391

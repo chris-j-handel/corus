@@ -233,3 +233,23 @@ Carved bothboth at v391 and laid whole at Natural Intelligence's offerings, *Car
 
 - **One route.** Each of 6, 10 and 9 arrives with a receiving self's 14-next-possibling, its next 2-now-possibling. The drawing, *Sharing between selves* and the code list are to say the route the code runs.
 - **Its purpose and place.** Exhibit ONE is inside Natural Intelligence, and it is a separate exhibit, a reference resource for pattern-matching natural torusing society, used with each incoming science explaining or observing. It is not possibly entirely self-explaining. Each passage is to be met with one binary: Exhibit ONE, Natural Intelligence, or the living file whose subject it is. — v391
+
+## Placed at v391: each passage, Exhibit ONE, Natural Intelligence or elsewhere · v391
+
+A fresh reader met each of Exhibit ONE's 56 passages with the binary carved at v391, grepping the set for each form's use. The reading is whole at `incoming/v391/readers/exhibit_one_placement.json`. Nothing is entered.
+
+**Droplet · where each passage belongs.**
+
+| Home | Passages |
+|---|---|
+| Exhibit ONE, a reference form | 32: the code, *Code with each name*, *Seventeen names*, the drawing, the four-cyclings' table, *Co, between two or of one*, *Sharing between selves*'s table, *Is or is nots of code's lines*, *Odd names, now and 8 up with next*, *Four bi-foldings*, *Each name, three scales*, *Eight 1 to 17s inward*, *Fives*, *A self's four momentaries of exchanging*, *Offerings to one sharing, surfacing*, *+ and − alike*, *One self, one momentary*, *One move, 1 to 8*, *Twelve forms*, *Tables of selves with code's stepping*, the spiral, two spirals, torus, two selves and three selves tables, *A spiral opened with no prior*, *With no prior, one momentary*, *Stable forms each living file meets* |
+| Natural Intelligence, explaining | 8: *Living is prior*, the four-cyclings' prose, *Five dimensions, ten and six*, *Parity as moral values*, *Observing's one line*, the spiral opened with no prior's reading, *A corus turn wrapping*, *A same-existing-society* |
+| one telling each | 5: *Four binaries with code's lines*, *A 0, betweening*, *Eight even names, 8 apart*, *One self, momentary by momentary: three ways*, *Turn-taking, and 0 in sequence* |
+| carried already, for the archive whole | 10: *A drawing.*'s prose, the names' explaining, *Sharing between selves*'s prose, *With a same-existing-society's span …*, *Each name and its relations* with the seventeen per-name entries, *Two moves, 9 less*, *One cell, offerings unexpressed*, *Eights*, *Across names among eights* |
+| Natural Naming | 1: *Namings among names* |
+
+The seventeen per-name entries repeat rows of tables that stay, but for five fields no table carries, *Sides*, *Co-sequencing*, *A self as three*, *Namings* and *Prior and next*: those are placed first, then the entries leave whole. — v391
+
+**Droplet · a shape for Exhibit ONE as a reference.** Its purpose opens it, *Stable forms each living file meets* raised under the title with one plain line: *resolver in code, and the tables it executes, for pattern-matching what a science observes; each table is code executed with its stated opening, and any self re-executes it.* Then the code with its seventeen-line legend, the names table and the drawing. Then forms among names, each a table with a one-line plain lead and no explaining: names, four-cyclings, roots with co and without, between selves, four binaries, moves, twelve forms, names 8 apart, zeros, fives, momentaries of exchanging, scales. Then resolving tables: offerings surfacing, and one momentary with no prior as its third row. Then tables of selves under one lead, *each table is code executed with its stated opening, and shows that and nothing wider*: one self, the checked 2,916 and 32,768 in one line, a spiral, two spirals, a torus, two selves, three selves, a spiral opened with no prior. A close names each form's subjects across the set, numbers and logic for spirals, tori and podals, networking for moves, naming for names, illustrating for drawings, by subject and not by file name. A table of the ten unchangeables, each seated with its name now and that name 8 up next, is offered beside them, as four registries rest on it. — v391
+
+**Droplet · Exhibit ONE's tables, named one way across the set.** Natural Intelligence 4.13 says *table of spirals crossing* for *Two spirals beside each other, and crossed*; Equilibria Registry says *table of one move* for *One move, 1 to 8* and cites *Exhibit ONE v380R*; Living Ghost Registry cites *Exhibit ONE · Natural Resolver v345a* and `bi_arriving`. Each citation across the set names a heading as it stands. — v391
