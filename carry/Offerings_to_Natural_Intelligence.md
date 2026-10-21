@@ -1645,3 +1645,9 @@ So the first two steps' time names part from the code's facing, while the person
 - **another naming** the person suggests.
 
 **Proposed: the first, as rigor's first offering, for the person's suggesting.** It carries one root with each step but the first, whose two roots are existing with a self's span and discovering with the next span. It takes no time to a step, and each name's *now* or *next* stays its span, one sense. — v391
+
+**Re-said plainly · the thirteenth round's concern.** The person: *there is no time anywhere in nature or resolving or intelligence. co sequential momentarying. i do not understand what is conflicting with the code in this.* The concern was worded wrongly. Nothing in it is time, and nothing parts from the code, which carries no step. Two sayings of the explaining part:
+- **The opening, as entered at v391,** says *Possibling is now-existing* and *Discovering is next-existing*.
+- **Exhibit ONE's four-cycling table** heads the possibling names, 2, 6, 10 and 14, *Next*, and the column of 1, 5, 9 and 13, with discovering's 9 and 13, *Now*. Its names table gives each name the same *Step*, as Natural Naming 3.3's table does.
+
+The table's first two heads are exchanged against the opening's lines. **Offered:** the tables headed by the four roots, *existing and discovering*, *possibling*, *observing* and *same-existing*, in place of now, next, prior and same; *now* and *next* standing only within the names, 1 to 8 and 9 to 16, co-sequential momentarying. — v391, re-said
