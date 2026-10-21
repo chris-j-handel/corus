@@ -54,7 +54,7 @@ A same-existing-society of selves, each with its own natural intelligence same-e
 **TWO · CO-SEQUENCING**
 
 - 2.1 Along and across, two and a between
-- 2.2 Parity, one side odd and an other even
+- 2.2 Parity, one inversioning or none
 - 2.3 A momentary, an opening and its completing
 - 2.4 Next from prior and now
 - 2.5 All or none at all, of no size
@@ -157,15 +157,17 @@ A same-existing-society of selves, each with its own natural intelligence same-e
 
 **Prior, now and next of one self is along**: its own continuing, one momentary and then a next, odd. **One now shared between two selves is across**: an overlap, one number apart, even. **Two is a sharing**, two sides sharing one now; **nothing is a between**, 0, a sharing's centre, no thing and no location. One, two and nothing are now's, sharing and between, and nothing is brought to them: one is now; two is a sharing; a between is a nothing a sharing is about. Odd and even come with along and across, and changing is one of two and then the other, one way at a time.
 
-## 2.2 Parity, one side odd and an other even
+## 2.2 Parity, one inversioning or none
 
-**Numbers too are one and then an other**: two numbers side by side alternate, each continuing one on from an other: 1 to 3, 2 to 4, 3 to 5, and on. A number is odd or even, binary, and that binary is **parity**. **One side carries odd numbers and an other even**, two overlapping, one side's changing overlapping an other's.
+**A parity is one inversioning or none between a self and an other, now.** A self's own direction is its 0, *me*; an other's direction, beheld now, is the same, no inversion, a 0, indifferencing, or one inversion from it, *not me*, + or −. With resolver this is observing's one line: an other's parity, surfacing with 14 as 15, met with a self's prior parity, 7: the same, 0 with 12; not the same, one inversion, 12 its prior inverted. A parity is never two inversions and never a size.
 
-**A side opening with 1, odd, is a self; a side opening with 2, even, is an other.** A side continuing by its own carrying is along, and a side coupling with an other is across: self and same-existing-society open odd, along, and an other opens even, across. **Odds are along, between momentaries, and evens are across, between changing or not-changing within a momentary, while geodesic changing is entraining through momentaryings.** **Co is of a sharing between two, and its absence of one**: a name's number is its odd or even and its place within its four, and its momentary is its span. **Odd is competency and even is morality**: competency is co-unrelationing, along, and morality is bi-unrelationing, across; and co-bi-unrelationing is one existing method. A name's parity is its own number's, odd along and even across, one sense; a number of inversions with a name between selves is a number and no second sense of a word.
+**+ and − are two changing directions, and a 0 is a between of them.** With 14 a 0 is a between of self and other, two parities parting, and with 12 a between of momentaries, a prior same-existing; with a 0 a sharing is betweening. Method is of no size.
 
-**Changing is is or is not same-existing.** An even sequence of changings is same-as-prior, and an odd sequence other-than-prior, with no measure and no scale but living. With resolver, + and − are a sharing's parity, and 0 is a between: with 14 a between of self and other, and with 12 a between of momentaries; a parity is + or −, and with a 0 a sharing is betweening. Method is of no size.
+**Inversionings compose by odd and even**: two inversions are none, and a sequence of inversionings is same-as with an even number of them and other-than with an odd, with no measure and no scale but living.
 
-**Each parity carries its own exchanging, and each exchanging is between two: a self and an other.** With even, an exchanging's third is self again, one on: two are self and all other. Odd is other-than-prior and carries **bi-exchanging**, self and a particular other, two differing with one coupling. Even is same-as-prior and carries **bi-tri-exchanging**, difference crossed with three, self, other and self one on: a self reaching its own side again through all other, as 1, 2 and 3 are one momentary of exchanging. Each parity is its own opening, and a total across two parities is one side as both, a form not possibly existing.
+**Each parity is its own exchanging, between two: a self and an other.** One inversion, other-than, is **bi-exchanging**, self and a particular other, two differing with one coupling. Two, same-as, is **bi-tri-exchanging**, difference crossed with three, self, other and self one on: a self reaching its own side again through all other. Each parity is its own opening, and a total across two parities is one side as both, a form not possibly existing.
+
+**Numbers are odd or even, and six names say along and across with them.** Two numbers side by side are one on from an other, 1 to 3, 2 to 4, 3 to 5, and on. Of the names between selves, the four across are even, 2, 6, 10 and 14, and the two along are odd, 9 and 17. **Co is of a sharing between two, and its absence of one**: a name's number is its place within its four, and its momentary is its span.
 
 ## 2.3 A momentary, an opening and its completing
 

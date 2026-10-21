@@ -886,6 +886,23 @@ Offered for 2.2's opening: ***A parity is one inversioning or none with each mom
 
 *Withdrawn, the explaining above.* It treats a parity as a value a self holds and counts inversionings across momentaries, bringing time back and a parity a self has alone. Re-said as agreed: a parity is bi-relational and beheld now. My direction is my 0, me; an other's direction, now, is the same, no inversion, a 0, indifferencing, or one inversion from mine, not me, + or −. Parity is one inversioning or none between a self and an other, now, never a size. The code does this at observing's one line: an other's direction met with mine now, same 0, not same one inversion. — v391
 
+**Entered · 2.2, *Parity, one inversioning or none*, at v391.** Parity as the opening says it, met with the code: one inversioning or none between a self and an other, now, at observing's one line. Kept, re-said:
+- the composing of inversionings by odd and even;
+- + and − with a 0 their between;
+- bi-exchanging and bi-tri-exchanging, as one inversion and two;
+- *co*;
+- the six names between selves, odd along and even across.
+
+**Left, not held by the code**, laid here whole for any later motion:
+- *A side opening with 1, odd, is a self; a side opening with 2, even, is an other*;
+- *self and same-existing-society open odd, along, and an other opens even, across*;
+- *Odds are along, between momentaries, and evens are across, between changing or not-changing within a momentary*;
+- *Odd is competency and even is morality: competency is co-unrelationing, along, and morality is bi-unrelationing, across*;
+- *A name's parity is its own number's, odd along and even across, one sense*;
+- *One side carries odd numbers and an other even, two overlapping*.
+
+Each treats a name's number's odd or even as parity, where the code's parity is one inversioning or none. The same claims stand in 2.1, 2.3 and 3.2, the next concerns of step 5. Prior at `archive/session_v391/prior_to_2_2_parity/`. — v391
+
 ### Bolds, the third telling
 
 **Concern · the opening carries no bold, and the bolds are claims.** 1.1's 47 lines carry no bold, so a reader of bolds misses origin, observing, self, bi-coupling, the third living self, parity and 0, and opens with 1.2's *Now is one*. From 1.2 on, 291 bolds carry about a fifth of the prose's words, most of them whole claims, a 50-word bold in 5.1 among them; Natural Explaining 2.4 makes a bold *a carrying there*, *a coining with a paragraph coining*, and concentrations of bold learning centres. Read alone, 1.2 to 6.6's bolds give a telling that does not co-chain: *Now is one* to *One is now* to *three sequential universes*. **To resolve:** bold each opening line that coins its concept, ***The universe is the set of all now-existing things.***, ***Observing is distinguishing same-as, is or is not.***, and in each later section bold its coinings, so the bold telling alone walks the set. — v391, counted

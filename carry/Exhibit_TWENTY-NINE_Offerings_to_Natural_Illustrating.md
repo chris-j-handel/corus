@@ -35,3 +35,5 @@ Exhibit TWENTY-NINE Natural Illustrating Offerings · improved at v389
 *Standing at v389:* Natural Illustrating 8.3 has "From inward a view is one self's entry momentary by momentary, 2.5, its carrying and its offerings arriving", and Natural Naming 5.3 has "A self is a unique invisible carrying"; a row of an execution is a declared case's carrying and no living self's. **To resolve:** draw a row as a declared case, sharing and arriving only, or keep 8.3's inward view of one self's carrying?
 
 **Resolved bothboth, v390 · built and robot sets.** A robot is no self, so a built society and a robot society are re-said as *a built set* and *a robot set*, non-living. — v390
+
+**Droplet · Natural Intelligence 2.2 re-said, at v391.** Its 2.2 is now *Parity, one inversioning or none*; *one side carries odd numbers and an other even, two overlapping* has left it, not held by the code. This file's first face cites 2.2 for one side's next opening two on; met at its motion. — v391
