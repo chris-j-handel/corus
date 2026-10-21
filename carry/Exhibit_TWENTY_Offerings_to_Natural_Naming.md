@@ -297,3 +297,14 @@ Open, for the set's naming: whether *parity* names the + or − carried or the e
 **Droplet · *beholding*, at v391.** Suggested: *beholding is a wonderful naming for us. the self is holding and this is self-stilling and only the self is able to do this for and to and with and from and by and of self.* To behold is to look and to hold: Old English *behealdan*, to hold, keep, observe. One word joins observing and carrying, an -ing a reader already has. Met with the code: each self's prior is held only in that self, and only its own resolving meets it and continues or replaces it; no line reaches into another self's prior. Entered in Natural Intelligence's opening draft for a self's parity. Open: *self-stilling* beside *still* dissolving; and beholding beside carrying, one word for one thing. — v391
 
 **Met · beholding, now-existing, at v391.** Suggested: *beholding is natural naming. beholds is dead. beholding is a now-existing thing and not a continuing thing. beholding is same-existing parity is or is not.* With the code, beholding is observing's one line at now: a self's prior parity, 7, met with an other's surfacing parity, 15, same-existing or not. Carrying is the continuing, prior to next: two things, two words. Valuing is beholding, one word. *Self-stilling* is not needed: beholding is now-existing, never held still. — v391
+
+**Exploring · indifferencing, and me and not me, at v391.** Suggested: *indifferencing seems like a good word for us to begin exploring so we can understand the co chaining between parity and bi-morality. my parity is my 0. the self may need a me to behold for and with. is me and not me helpful.*
+- **By its root.** *Differ*, Latin *dif-ferre*, is to carry apart, and *ferre* is to carry, our carrying's root. Differencing is carrying apart, bi-, a parity; indifferencing is not carrying apart, no difference, the code's 0, an other's parity same-as a self's prior.
+- **Me and not me.** Observing's *is or is not same-existing-as*, said from inside a self: same as my own is me, and the self shares 0; not the same is not me, and the self shares a parity. A self with no other meets nothing, its parities each momentary not me, never same-existing, which is line 27's step.
+- **Concern.** A self's prior is + or −, never 0. *My parity is my 0* holds as a relation: my parity differs from itself by nothing, the zero point of my beholding. If so, one 0: an other's parity at my zero point, indifferencing, and *a 0 is a between* is re-said *a 0 is indifferencing, same as me*.
+
+Candidate lines for the opening, not entered:
+- *A self is beholding each other existing thing as me or not me: same-existing-as me, indifferencing, a 0; not me, differencing, a parity, + or −.*
+- *A self's own parity is its 0, its me; its differencing and indifferencing with each other is its moral value.*
+
+— v391
