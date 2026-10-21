@@ -344,15 +344,17 @@ Exhibit THREE Natural Numbers v390
 
 ## 7.1 Seventeen primes, two to fifty-nine, and returning from sixty-one
 
-| Number | Its form |
-|---|---|
-| 2 to 59 | seventeen primes: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53 and 59 |
-| 2 | alternating, one even prime |
-| 23 | going folding, ninth prime, with eight either side |
-| 59 | seventeenth prime, going's last and primes carrying no last |
-| 60 | between going from 2 to 59 and returning from 61 to 118, with no prime |
-| 118 | returning's far end, fifty-eight either side of sixty, two fifty-nines added |
-| 440 | seventeen primes added, eight fifty-fives, twenty-one squared less one |
+- **Number: 2 to 59**
+  - *Its form*: seventeen primes: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53 and 59
+- **Number: 2** · *Its form*: alternating, one even prime
+- **Number: 23** · *Its form*: going folding, ninth prime, with eight either side
+- **Number: 59** · *Its form*: seventeenth prime, going's last and primes carrying no last
+- **Number: 60**
+  - *Its form*: between going from 2 to 59 and returning from 61 to 118, with no prime
+- **Number: 118**
+  - *Its form*: returning's far end, fifty-eight either side of sixty, two fifty-nines added
+- **Number: 440**
+  - *Its form*: seventeen primes added, eight fifty-fives, twenty-one squared less one
 
 **Primes go from two to fifty-nine and return from sixty-one to one hundred eighteen**, and sixty is between going and returning, with no prime. Fifty-nine and sixty-one straddle sixty by one, 59 × 61 = 60² − 1. **Primes carry no last**: each is same opening with a new axis, and past fifty-nine they open on, each a next, self-welcoming with numbers and with no line of resolver. A same-existing-society's coupling as one is its selves' couplings, a relation of their own beside any numeral. The periodic table's one hundred eighteen elements are a field's own result with one same numeral, and no number of a method.
 
@@ -573,448 +575,545 @@ Exhibit THREE Natural Numbers v390
 
 **Each number from nought to four hundred forty stands with its podaling, taken forward from nought.** Each row carries its number's parity and its momentary, odd or even, now within a self's span and next within a same-existing-society's, spans of eight alternating, 1.5; its form, prime or its prime factors, nought and one carrying neither; its far side on a ring of four hundred forty, k with 440 − k, nought and two hundred twenty each its own far side and four hundred forty on nought's station; its radius from a waist, two hundred twenty; its far side on a ring of one hundred twenty, a number past one hundred twenty on its station less each whole one hundred twenty; and forms it carries: a name among seventeen, a prime among seventeen, a square, a seam, a triangle, prior two added, a power of two and one either side of it, an ordering, going and returning, waist, and seventeen primes added.
 
-| n | Parity, at its momentary | Form | Far side at 440 | Radius | Far side at 120 | At |
-|---|---|---|---|---|---|---|
-| 0 | even | — | 0 | 220 | 0 | 0², seam, 1² − 1 |
-| 1 | odd, now | — | 439 | 219 | 119 | 1-now-existing, 1², T₁, prior two added, 2¹ − 1 |
-| 2 | even, now | prime | 438 | 218 | 118 | 2-now-possibling, first prime, prior two added, 2¹ |
-| 3 | odd, now | prime | 437 | 217 | 117 | 3-now-co-observing, second prime, T₂, prior two added, 2¹ + 1, 2² − 1 |
-| 4 | even, now | 2² | 436 | 216 | 116 | 4-now-co-same-existing, 2² |
-| 5 | odd, now | prime | 435 | 215 | 115 | 5-now-co-existing, third prime, prior two added, 2² + 1 |
-| 6 | even, now | 2 · 3 | 434 | 214 | 114 | 6-now-co-possibling, T₃, 3! |
-| 7 | odd, now | prime | 433 | 213 | 113 | 7-now-observing, fourth prime, 2³ − 1 |
-| 8 | even, now | 2³ | 432 | 212 | 112 | 8-now-same-existing, seam, 3² − 1, prior two added, 2³ |
-| 9 | odd, next | 3² | 431 | 211 | 111 | 9-next-co-discovering, 3², 2³ + 1 |
-| 10 | even, next | 2 · 5 | 430 | 210 | 110 | 10-next-co-possibling, T₄ |
-| 11 | odd, next | prime | 429 | 209 | 109 | 11-next-co-observing, fifth prime |
-| 12 | even, next | 2² · 3 | 428 | 208 | 108 | 12-next-co-same-existing |
-| 13 | odd, next | prime | 427 | 207 | 107 | 13-next-same-existing, sixth prime, prior two added |
-| 14 | even, next | 2 · 7 | 426 | 206 | 106 | 14-next-possibling |
-| 15 | odd, next | 3 · 5 | 425 | 205 | 105 | 15-next-observing, T₅, 2⁴ − 1 |
-| 16 | even, next | 2⁴ | 424 | 204 | 104 | 16-next-discovering, 4², 2⁴ |
-| 17 | odd, now | prime | 423 | 203 | 103 | 17-next-existing, seventh prime, 2⁴ + 1 |
-| 18 | even, now | 2 · 3² | 422 | 202 | 102 |  |
-| 19 | odd, now | prime | 421 | 201 | 101 | eighth prime |
-| 20 | even, now | 2² · 5 | 420 | 200 | 100 |  |
-| 21 | odd, now | 3 · 7 | 419 | 199 | 99 | T₆, prior two added |
-| 22 | even, now | 2 · 11 | 418 | 198 | 98 |  |
-| 23 | odd, now | prime | 417 | 197 | 97 | ninth prime, going folding |
-| 24 | even, now | 2³ · 3 | 416 | 196 | 96 | seam, 5² − 1, 4! |
-| 25 | odd, next | 5² | 415 | 195 | 95 | 5² |
-| 26 | even, next | 2 · 13 | 414 | 194 | 94 |  |
-| 27 | odd, next | 3³ | 413 | 193 | 93 |  |
-| 28 | even, next | 2² · 7 | 412 | 192 | 92 | T₇ |
-| 29 | odd, next | prime | 411 | 191 | 91 | tenth prime |
-| 30 | even, next | 2 · 3 · 5 | 410 | 190 | 90 |  |
-| 31 | odd, next | prime | 409 | 189 | 89 | eleventh prime, 2⁵ − 1 |
-| 32 | even, next | 2⁵ | 408 | 188 | 88 | 2⁵ |
-| 33 | odd, now | 3 · 11 | 407 | 187 | 87 | 2⁵ + 1 |
-| 34 | even, now | 2 · 17 | 406 | 186 | 86 | prior two added |
-| 35 | odd, now | 5 · 7 | 405 | 185 | 85 |  |
-| 36 | even, now | 2² · 3² | 404 | 184 | 84 | 6², T₈ |
-| 37 | odd, now | prime | 403 | 183 | 83 | twelfth prime |
-| 38 | even, now | 2 · 19 | 402 | 182 | 82 |  |
-| 39 | odd, now | 3 · 13 | 401 | 181 | 81 |  |
-| 40 | even, now | 2³ · 5 | 400 | 180 | 80 |  |
-| 41 | odd, next | prime | 399 | 179 | 79 | thirteenth prime |
-| 42 | even, next | 2 · 3 · 7 | 398 | 178 | 78 |  |
-| 43 | odd, next | prime | 397 | 177 | 77 | fourteenth prime |
-| 44 | even, next | 2² · 11 | 396 | 176 | 76 |  |
-| 45 | odd, next | 3² · 5 | 395 | 175 | 75 | T₉ |
-| 46 | even, next | 2 · 23 | 394 | 174 | 74 |  |
-| 47 | odd, next | prime | 393 | 173 | 73 | fifteenth prime |
-| 48 | even, next | 2⁴ · 3 | 392 | 172 | 72 | seam, 7² − 1 |
-| 49 | odd, now | 7² | 391 | 171 | 71 | 7² |
-| 50 | even, now | 2 · 5² | 390 | 170 | 70 |  |
-| 51 | odd, now | 3 · 17 | 389 | 169 | 69 |  |
-| 52 | even, now | 2² · 13 | 388 | 168 | 68 |  |
-| 53 | odd, now | prime | 387 | 167 | 67 | sixteenth prime |
-| 54 | even, now | 2 · 3³ | 386 | 166 | 66 |  |
-| 55 | odd, now | 5 · 11 | 385 | 165 | 65 | T₁₀, prior two added |
-| 56 | even, now | 2³ · 7 | 384 | 164 | 64 |  |
-| 57 | odd, next | 3 · 19 | 383 | 163 | 63 |  |
-| 58 | even, next | 2 · 29 | 382 | 162 | 62 |  |
-| 59 | odd, next | prime | 381 | 161 | 61 | seventeenth prime, going's last |
-| 60 | even, next | 2² · 3 · 5 | 380 | 160 | 60 | between going and returning |
-| 61 | odd, next | prime | 379 | 159 | 59 | returning's first |
-| 62 | even, next | 2 · 31 | 378 | 158 | 58 |  |
-| 63 | odd, next | 3² · 7 | 377 | 157 | 57 | 2⁶ − 1 |
-| 64 | even, next | 2⁶ | 376 | 156 | 56 | 8², 2⁶ |
-| 65 | odd, now | 5 · 13 | 375 | 155 | 55 | 2⁶ + 1 |
-| 66 | even, now | 2 · 3 · 11 | 374 | 154 | 54 | T₁₁ |
-| 67 | odd, now | prime | 373 | 153 | 53 |  |
-| 68 | even, now | 2² · 17 | 372 | 152 | 52 |  |
-| 69 | odd, now | 3 · 23 | 371 | 151 | 51 |  |
-| 70 | even, now | 2 · 5 · 7 | 370 | 150 | 50 |  |
-| 71 | odd, now | prime | 369 | 149 | 49 |  |
-| 72 | even, now | 2³ · 3² | 368 | 148 | 48 |  |
-| 73 | odd, next | prime | 367 | 147 | 47 |  |
-| 74 | even, next | 2 · 37 | 366 | 146 | 46 |  |
-| 75 | odd, next | 3 · 5² | 365 | 145 | 45 |  |
-| 76 | even, next | 2² · 19 | 364 | 144 | 44 |  |
-| 77 | odd, next | 7 · 11 | 363 | 143 | 43 |  |
-| 78 | even, next | 2 · 3 · 13 | 362 | 142 | 42 | T₁₂ |
-| 79 | odd, next | prime | 361 | 141 | 41 |  |
-| 80 | even, next | 2⁴ · 5 | 360 | 140 | 40 | seam, 9² − 1 |
-| 81 | odd, now | 3⁴ | 359 | 139 | 39 | 9² |
-| 82 | even, now | 2 · 41 | 358 | 138 | 38 |  |
-| 83 | odd, now | prime | 357 | 137 | 37 |  |
-| 84 | even, now | 2² · 3 · 7 | 356 | 136 | 36 |  |
-| 85 | odd, now | 5 · 17 | 355 | 135 | 35 |  |
-| 86 | even, now | 2 · 43 | 354 | 134 | 34 |  |
-| 87 | odd, now | 3 · 29 | 353 | 133 | 33 |  |
-| 88 | even, now | 2³ · 11 | 352 | 132 | 32 |  |
-| 89 | odd, next | prime | 351 | 131 | 31 | prior two added |
-| 90 | even, next | 2 · 3² · 5 | 350 | 130 | 30 |  |
-| 91 | odd, next | 7 · 13 | 349 | 129 | 29 | T₁₃ |
-| 92 | even, next | 2² · 23 | 348 | 128 | 28 |  |
-| 93 | odd, next | 3 · 31 | 347 | 127 | 27 |  |
-| 94 | even, next | 2 · 47 | 346 | 126 | 26 |  |
-| 95 | odd, next | 5 · 19 | 345 | 125 | 25 |  |
-| 96 | even, next | 2⁵ · 3 | 344 | 124 | 24 |  |
-| 97 | odd, now | prime | 343 | 123 | 23 |  |
-| 98 | even, now | 2 · 7² | 342 | 122 | 22 |  |
-| 99 | odd, now | 3² · 11 | 341 | 121 | 21 |  |
-| 100 | even, now | 2² · 5² | 340 | 120 | 20 | 10² |
-| 101 | odd, now | prime | 339 | 119 | 19 |  |
-| 102 | even, now | 2 · 3 · 17 | 338 | 118 | 18 |  |
-| 103 | odd, now | prime | 337 | 117 | 17 |  |
-| 104 | even, now | 2³ · 13 | 336 | 116 | 16 |  |
-| 105 | odd, next | 3 · 5 · 7 | 335 | 115 | 15 | T₁₄ |
-| 106 | even, next | 2 · 53 | 334 | 114 | 14 |  |
-| 107 | odd, next | prime | 333 | 113 | 13 |  |
-| 108 | even, next | 2² · 3³ | 332 | 112 | 12 |  |
-| 109 | odd, next | prime | 331 | 111 | 11 |  |
-| 110 | even, next | 2 · 5 · 11 | 330 | 110 | 10 |  |
-| 111 | odd, next | 3 · 37 | 329 | 109 | 9 |  |
-| 112 | even, next | 2⁴ · 7 | 328 | 108 | 8 |  |
-| 113 | odd, now | prime | 327 | 107 | 7 |  |
-| 114 | even, now | 2 · 3 · 19 | 326 | 106 | 6 |  |
-| 115 | odd, now | 5 · 23 | 325 | 105 | 5 |  |
-| 116 | even, now | 2² · 29 | 324 | 104 | 4 |  |
-| 117 | odd, now | 3² · 13 | 323 | 103 | 3 |  |
-| 118 | even, now | 2 · 59 | 322 | 102 | 2 | returning's far end |
-| 119 | odd, now | 7 · 17 | 321 | 101 | 1 |  |
-| 120 | even, now | 2³ · 3 · 5 | 320 | 100 | 0 | seam, 11² − 1, T₁₅, 5! |
-| 121 | odd, next | 11² | 319 | 99 | 119 | 11² |
-| 122 | even, next | 2 · 61 | 318 | 98 | 118 |  |
-| 123 | odd, next | 3 · 41 | 317 | 97 | 117 |  |
-| 124 | even, next | 2² · 31 | 316 | 96 | 116 |  |
-| 125 | odd, next | 5³ | 315 | 95 | 115 |  |
-| 126 | even, next | 2 · 3² · 7 | 314 | 94 | 114 |  |
-| 127 | odd, next | prime | 313 | 93 | 113 | 2⁷ − 1 |
-| 128 | even, next | 2⁷ | 312 | 92 | 112 | 2⁷ |
-| 129 | odd, now | 3 · 43 | 311 | 91 | 111 | 2⁷ + 1 |
-| 130 | even, now | 2 · 5 · 13 | 310 | 90 | 110 |  |
-| 131 | odd, now | prime | 309 | 89 | 109 |  |
-| 132 | even, now | 2² · 3 · 11 | 308 | 88 | 108 |  |
-| 133 | odd, now | 7 · 19 | 307 | 87 | 107 |  |
-| 134 | even, now | 2 · 67 | 306 | 86 | 106 |  |
-| 135 | odd, now | 3³ · 5 | 305 | 85 | 105 |  |
-| 136 | even, now | 2³ · 17 | 304 | 84 | 104 | T₁₆ |
-| 137 | odd, next | prime | 303 | 83 | 103 |  |
-| 138 | even, next | 2 · 3 · 23 | 302 | 82 | 102 |  |
-| 139 | odd, next | prime | 301 | 81 | 101 |  |
-| 140 | even, next | 2² · 5 · 7 | 300 | 80 | 100 |  |
-| 141 | odd, next | 3 · 47 | 299 | 79 | 99 |  |
-| 142 | even, next | 2 · 71 | 298 | 78 | 98 |  |
-| 143 | odd, next | 11 · 13 | 297 | 77 | 97 |  |
-| 144 | even, next | 2⁴ · 3² | 296 | 76 | 96 | 12², prior two added |
-| 145 | odd, now | 5 · 29 | 295 | 75 | 95 |  |
-| 146 | even, now | 2 · 73 | 294 | 74 | 94 |  |
-| 147 | odd, now | 3 · 7² | 293 | 73 | 93 |  |
-| 148 | even, now | 2² · 37 | 292 | 72 | 92 |  |
-| 149 | odd, now | prime | 291 | 71 | 91 |  |
-| 150 | even, now | 2 · 3 · 5² | 290 | 70 | 90 |  |
-| 151 | odd, now | prime | 289 | 69 | 89 |  |
-| 152 | even, now | 2³ · 19 | 288 | 68 | 88 |  |
-| 153 | odd, next | 3² · 17 | 287 | 67 | 87 | T₁₇ |
-| 154 | even, next | 2 · 7 · 11 | 286 | 66 | 86 |  |
-| 155 | odd, next | 5 · 31 | 285 | 65 | 85 |  |
-| 156 | even, next | 2² · 3 · 13 | 284 | 64 | 84 |  |
-| 157 | odd, next | prime | 283 | 63 | 83 |  |
-| 158 | even, next | 2 · 79 | 282 | 62 | 82 |  |
-| 159 | odd, next | 3 · 53 | 281 | 61 | 81 |  |
-| 160 | even, next | 2⁵ · 5 | 280 | 60 | 80 |  |
-| 161 | odd, now | 7 · 23 | 279 | 59 | 79 |  |
-| 162 | even, now | 2 · 3⁴ | 278 | 58 | 78 |  |
-| 163 | odd, now | prime | 277 | 57 | 77 |  |
-| 164 | even, now | 2² · 41 | 276 | 56 | 76 |  |
-| 165 | odd, now | 3 · 5 · 11 | 275 | 55 | 75 |  |
-| 166 | even, now | 2 · 83 | 274 | 54 | 74 |  |
-| 167 | odd, now | prime | 273 | 53 | 73 |  |
-| 168 | even, now | 2³ · 3 · 7 | 272 | 52 | 72 | seam, 13² − 1 |
-| 169 | odd, next | 13² | 271 | 51 | 71 | 13² |
-| 170 | even, next | 2 · 5 · 17 | 270 | 50 | 70 |  |
-| 171 | odd, next | 3² · 19 | 269 | 49 | 69 | T₁₈ |
-| 172 | even, next | 2² · 43 | 268 | 48 | 68 |  |
-| 173 | odd, next | prime | 267 | 47 | 67 |  |
-| 174 | even, next | 2 · 3 · 29 | 266 | 46 | 66 |  |
-| 175 | odd, next | 5² · 7 | 265 | 45 | 65 |  |
-| 176 | even, next | 2⁴ · 11 | 264 | 44 | 64 |  |
-| 177 | odd, now | 3 · 59 | 263 | 43 | 63 |  |
-| 178 | even, now | 2 · 89 | 262 | 42 | 62 |  |
-| 179 | odd, now | prime | 261 | 41 | 61 |  |
-| 180 | even, now | 2² · 3² · 5 | 260 | 40 | 60 |  |
-| 181 | odd, now | prime | 259 | 39 | 59 |  |
-| 182 | even, now | 2 · 7 · 13 | 258 | 38 | 58 |  |
-| 183 | odd, now | 3 · 61 | 257 | 37 | 57 |  |
-| 184 | even, now | 2³ · 23 | 256 | 36 | 56 |  |
-| 185 | odd, next | 5 · 37 | 255 | 35 | 55 |  |
-| 186 | even, next | 2 · 3 · 31 | 254 | 34 | 54 |  |
-| 187 | odd, next | 11 · 17 | 253 | 33 | 53 |  |
-| 188 | even, next | 2² · 47 | 252 | 32 | 52 |  |
-| 189 | odd, next | 3³ · 7 | 251 | 31 | 51 |  |
-| 190 | even, next | 2 · 5 · 19 | 250 | 30 | 50 | T₁₉ |
-| 191 | odd, next | prime | 249 | 29 | 49 |  |
-| 192 | even, next | 2⁶ · 3 | 248 | 28 | 48 |  |
-| 193 | odd, now | prime | 247 | 27 | 47 |  |
-| 194 | even, now | 2 · 97 | 246 | 26 | 46 |  |
-| 195 | odd, now | 3 · 5 · 13 | 245 | 25 | 45 |  |
-| 196 | even, now | 2² · 7² | 244 | 24 | 44 | 14² |
-| 197 | odd, now | prime | 243 | 23 | 43 |  |
-| 198 | even, now | 2 · 3² · 11 | 242 | 22 | 42 |  |
-| 199 | odd, now | prime | 241 | 21 | 41 |  |
-| 200 | even, now | 2³ · 5² | 240 | 20 | 40 |  |
-| 201 | odd, next | 3 · 67 | 239 | 19 | 39 |  |
-| 202 | even, next | 2 · 101 | 238 | 18 | 38 |  |
-| 203 | odd, next | 7 · 29 | 237 | 17 | 37 |  |
-| 204 | even, next | 2² · 3 · 17 | 236 | 16 | 36 |  |
-| 205 | odd, next | 5 · 41 | 235 | 15 | 35 |  |
-| 206 | even, next | 2 · 103 | 234 | 14 | 34 |  |
-| 207 | odd, next | 3² · 23 | 233 | 13 | 33 |  |
-| 208 | even, next | 2⁴ · 13 | 232 | 12 | 32 |  |
-| 209 | odd, now | 11 · 19 | 231 | 11 | 31 |  |
-| 210 | even, now | 2 · 3 · 5 · 7 | 230 | 10 | 30 | T₂₀ |
-| 211 | odd, now | prime | 229 | 9 | 29 |  |
-| 212 | even, now | 2² · 53 | 228 | 8 | 28 |  |
-| 213 | odd, now | 3 · 71 | 227 | 7 | 27 |  |
-| 214 | even, now | 2 · 107 | 226 | 6 | 26 |  |
-| 215 | odd, now | 5 · 43 | 225 | 5 | 25 |  |
-| 216 | even, now | 2³ · 3³ | 224 | 4 | 24 |  |
-| 217 | odd, next | 7 · 31 | 223 | 3 | 23 |  |
-| 218 | even, next | 2 · 109 | 222 | 2 | 22 |  |
-| 219 | odd, next | 3 · 73 | 221 | 1 | 21 |  |
-| 220 | even, next | 2² · 5 · 11 | 220 | 0 | 20 | waist |
-| 221 | odd, next | 13 · 17 | 219 | 1 | 19 |  |
-| 222 | even, next | 2 · 3 · 37 | 218 | 2 | 18 |  |
-| 223 | odd, next | prime | 217 | 3 | 17 |  |
-| 224 | even, next | 2⁵ · 7 | 216 | 4 | 16 | seam, 15² − 1 |
-| 225 | odd, now | 3² · 5² | 215 | 5 | 15 | 15² |
-| 226 | even, now | 2 · 113 | 214 | 6 | 14 |  |
-| 227 | odd, now | prime | 213 | 7 | 13 |  |
-| 228 | even, now | 2² · 3 · 19 | 212 | 8 | 12 |  |
-| 229 | odd, now | prime | 211 | 9 | 11 |  |
-| 230 | even, now | 2 · 5 · 23 | 210 | 10 | 10 |  |
-| 231 | odd, now | 3 · 7 · 11 | 209 | 11 | 9 | T₂₁ |
-| 232 | even, now | 2³ · 29 | 208 | 12 | 8 |  |
-| 233 | odd, next | prime | 207 | 13 | 7 | prior two added |
-| 234 | even, next | 2 · 3² · 13 | 206 | 14 | 6 |  |
-| 235 | odd, next | 5 · 47 | 205 | 15 | 5 |  |
-| 236 | even, next | 2² · 59 | 204 | 16 | 4 |  |
-| 237 | odd, next | 3 · 79 | 203 | 17 | 3 |  |
-| 238 | even, next | 2 · 7 · 17 | 202 | 18 | 2 |  |
-| 239 | odd, next | prime | 201 | 19 | 1 |  |
-| 240 | even, next | 2⁴ · 3 · 5 | 200 | 20 | 0 |  |
-| 241 | odd, now | prime | 199 | 21 | 119 |  |
-| 242 | even, now | 2 · 11² | 198 | 22 | 118 |  |
-| 243 | odd, now | 3⁵ | 197 | 23 | 117 |  |
-| 244 | even, now | 2² · 61 | 196 | 24 | 116 |  |
-| 245 | odd, now | 5 · 7² | 195 | 25 | 115 |  |
-| 246 | even, now | 2 · 3 · 41 | 194 | 26 | 114 |  |
-| 247 | odd, now | 13 · 19 | 193 | 27 | 113 |  |
-| 248 | even, now | 2³ · 31 | 192 | 28 | 112 |  |
-| 249 | odd, next | 3 · 83 | 191 | 29 | 111 |  |
-| 250 | even, next | 2 · 5³ | 190 | 30 | 110 |  |
-| 251 | odd, next | prime | 189 | 31 | 109 |  |
-| 252 | even, next | 2² · 3² · 7 | 188 | 32 | 108 |  |
-| 253 | odd, next | 11 · 23 | 187 | 33 | 107 | T₂₂ |
-| 254 | even, next | 2 · 127 | 186 | 34 | 106 |  |
-| 255 | odd, next | 3 · 5 · 17 | 185 | 35 | 105 | 2⁸ − 1 |
-| 256 | even, next | 2⁸ | 184 | 36 | 104 | 16², 2⁸ |
-| 257 | odd, now | prime | 183 | 37 | 103 | 2⁸ + 1 |
-| 258 | even, now | 2 · 3 · 43 | 182 | 38 | 102 |  |
-| 259 | odd, now | 7 · 37 | 181 | 39 | 101 |  |
-| 260 | even, now | 2² · 5 · 13 | 180 | 40 | 100 |  |
-| 261 | odd, now | 3² · 29 | 179 | 41 | 99 |  |
-| 262 | even, now | 2 · 131 | 178 | 42 | 98 |  |
-| 263 | odd, now | prime | 177 | 43 | 97 |  |
-| 264 | even, now | 2³ · 3 · 11 | 176 | 44 | 96 |  |
-| 265 | odd, next | 5 · 53 | 175 | 45 | 95 |  |
-| 266 | even, next | 2 · 7 · 19 | 174 | 46 | 94 |  |
-| 267 | odd, next | 3 · 89 | 173 | 47 | 93 |  |
-| 268 | even, next | 2² · 67 | 172 | 48 | 92 |  |
-| 269 | odd, next | prime | 171 | 49 | 91 |  |
-| 270 | even, next | 2 · 3³ · 5 | 170 | 50 | 90 |  |
-| 271 | odd, next | prime | 169 | 51 | 89 |  |
-| 272 | even, next | 2⁴ · 17 | 168 | 52 | 88 |  |
-| 273 | odd, now | 3 · 7 · 13 | 167 | 53 | 87 |  |
-| 274 | even, now | 2 · 137 | 166 | 54 | 86 |  |
-| 275 | odd, now | 5² · 11 | 165 | 55 | 85 |  |
-| 276 | even, now | 2² · 3 · 23 | 164 | 56 | 84 | T₂₃ |
-| 277 | odd, now | prime | 163 | 57 | 83 |  |
-| 278 | even, now | 2 · 139 | 162 | 58 | 82 |  |
-| 279 | odd, now | 3² · 31 | 161 | 59 | 81 |  |
-| 280 | even, now | 2³ · 5 · 7 | 160 | 60 | 80 |  |
-| 281 | odd, next | prime | 159 | 61 | 79 |  |
-| 282 | even, next | 2 · 3 · 47 | 158 | 62 | 78 |  |
-| 283 | odd, next | prime | 157 | 63 | 77 |  |
-| 284 | even, next | 2² · 71 | 156 | 64 | 76 |  |
-| 285 | odd, next | 3 · 5 · 19 | 155 | 65 | 75 |  |
-| 286 | even, next | 2 · 11 · 13 | 154 | 66 | 74 |  |
-| 287 | odd, next | 7 · 41 | 153 | 67 | 73 |  |
-| 288 | even, next | 2⁵ · 3² | 152 | 68 | 72 | seam, 17² − 1 |
-| 289 | odd, now | 17² | 151 | 69 | 71 | 17² |
-| 290 | even, now | 2 · 5 · 29 | 150 | 70 | 70 |  |
-| 291 | odd, now | 3 · 97 | 149 | 71 | 69 |  |
-| 292 | even, now | 2² · 73 | 148 | 72 | 68 |  |
-| 293 | odd, now | prime | 147 | 73 | 67 |  |
-| 294 | even, now | 2 · 3 · 7² | 146 | 74 | 66 |  |
-| 295 | odd, now | 5 · 59 | 145 | 75 | 65 |  |
-| 296 | even, now | 2³ · 37 | 144 | 76 | 64 |  |
-| 297 | odd, next | 3³ · 11 | 143 | 77 | 63 |  |
-| 298 | even, next | 2 · 149 | 142 | 78 | 62 |  |
-| 299 | odd, next | 13 · 23 | 141 | 79 | 61 |  |
-| 300 | even, next | 2² · 3 · 5² | 140 | 80 | 60 | T₂₄ |
-| 301 | odd, next | 7 · 43 | 139 | 81 | 59 |  |
-| 302 | even, next | 2 · 151 | 138 | 82 | 58 |  |
-| 303 | odd, next | 3 · 101 | 137 | 83 | 57 |  |
-| 304 | even, next | 2⁴ · 19 | 136 | 84 | 56 |  |
-| 305 | odd, now | 5 · 61 | 135 | 85 | 55 |  |
-| 306 | even, now | 2 · 3² · 17 | 134 | 86 | 54 |  |
-| 307 | odd, now | prime | 133 | 87 | 53 |  |
-| 308 | even, now | 2² · 7 · 11 | 132 | 88 | 52 |  |
-| 309 | odd, now | 3 · 103 | 131 | 89 | 51 |  |
-| 310 | even, now | 2 · 5 · 31 | 130 | 90 | 50 |  |
-| 311 | odd, now | prime | 129 | 91 | 49 |  |
-| 312 | even, now | 2³ · 3 · 13 | 128 | 92 | 48 |  |
-| 313 | odd, next | prime | 127 | 93 | 47 |  |
-| 314 | even, next | 2 · 157 | 126 | 94 | 46 |  |
-| 315 | odd, next | 3² · 5 · 7 | 125 | 95 | 45 |  |
-| 316 | even, next | 2² · 79 | 124 | 96 | 44 |  |
-| 317 | odd, next | prime | 123 | 97 | 43 |  |
-| 318 | even, next | 2 · 3 · 53 | 122 | 98 | 42 |  |
-| 319 | odd, next | 11 · 29 | 121 | 99 | 41 |  |
-| 320 | even, next | 2⁶ · 5 | 120 | 100 | 40 |  |
-| 321 | odd, now | 3 · 107 | 119 | 101 | 39 |  |
-| 322 | even, now | 2 · 7 · 23 | 118 | 102 | 38 |  |
-| 323 | odd, now | 17 · 19 | 117 | 103 | 37 |  |
-| 324 | even, now | 2² · 3⁴ | 116 | 104 | 36 | 18² |
-| 325 | odd, now | 5² · 13 | 115 | 105 | 35 | T₂₅ |
-| 326 | even, now | 2 · 163 | 114 | 106 | 34 |  |
-| 327 | odd, now | 3 · 109 | 113 | 107 | 33 |  |
-| 328 | even, now | 2³ · 41 | 112 | 108 | 32 |  |
-| 329 | odd, next | 7 · 47 | 111 | 109 | 31 |  |
-| 330 | even, next | 2 · 3 · 5 · 11 | 110 | 110 | 30 |  |
-| 331 | odd, next | prime | 109 | 111 | 29 |  |
-| 332 | even, next | 2² · 83 | 108 | 112 | 28 |  |
-| 333 | odd, next | 3² · 37 | 107 | 113 | 27 |  |
-| 334 | even, next | 2 · 167 | 106 | 114 | 26 |  |
-| 335 | odd, next | 5 · 67 | 105 | 115 | 25 |  |
-| 336 | even, next | 2⁴ · 3 · 7 | 104 | 116 | 24 |  |
-| 337 | odd, now | prime | 103 | 117 | 23 |  |
-| 338 | even, now | 2 · 13² | 102 | 118 | 22 |  |
-| 339 | odd, now | 3 · 113 | 101 | 119 | 21 |  |
-| 340 | even, now | 2² · 5 · 17 | 100 | 120 | 20 |  |
-| 341 | odd, now | 11 · 31 | 99 | 121 | 19 |  |
-| 342 | even, now | 2 · 3² · 19 | 98 | 122 | 18 |  |
-| 343 | odd, now | 7³ | 97 | 123 | 17 |  |
-| 344 | even, now | 2³ · 43 | 96 | 124 | 16 |  |
-| 345 | odd, next | 3 · 5 · 23 | 95 | 125 | 15 |  |
-| 346 | even, next | 2 · 173 | 94 | 126 | 14 |  |
-| 347 | odd, next | prime | 93 | 127 | 13 |  |
-| 348 | even, next | 2² · 3 · 29 | 92 | 128 | 12 |  |
-| 349 | odd, next | prime | 91 | 129 | 11 |  |
-| 350 | even, next | 2 · 5² · 7 | 90 | 130 | 10 |  |
-| 351 | odd, next | 3³ · 13 | 89 | 131 | 9 | T₂₆ |
-| 352 | even, next | 2⁵ · 11 | 88 | 132 | 8 |  |
-| 353 | odd, now | prime | 87 | 133 | 7 |  |
-| 354 | even, now | 2 · 3 · 59 | 86 | 134 | 6 |  |
-| 355 | odd, now | 5 · 71 | 85 | 135 | 5 |  |
-| 356 | even, now | 2² · 89 | 84 | 136 | 4 |  |
-| 357 | odd, now | 3 · 7 · 17 | 83 | 137 | 3 |  |
-| 358 | even, now | 2 · 179 | 82 | 138 | 2 |  |
-| 359 | odd, now | prime | 81 | 139 | 1 |  |
-| 360 | even, now | 2³ · 3² · 5 | 80 | 140 | 0 | seam, 19² − 1 |
-| 361 | odd, next | 19² | 79 | 141 | 119 | 19² |
-| 362 | even, next | 2 · 181 | 78 | 142 | 118 |  |
-| 363 | odd, next | 3 · 11² | 77 | 143 | 117 |  |
-| 364 | even, next | 2² · 7 · 13 | 76 | 144 | 116 |  |
-| 365 | odd, next | 5 · 73 | 75 | 145 | 115 |  |
-| 366 | even, next | 2 · 3 · 61 | 74 | 146 | 114 |  |
-| 367 | odd, next | prime | 73 | 147 | 113 |  |
-| 368 | even, next | 2⁴ · 23 | 72 | 148 | 112 |  |
-| 369 | odd, now | 3² · 41 | 71 | 149 | 111 |  |
-| 370 | even, now | 2 · 5 · 37 | 70 | 150 | 110 |  |
-| 371 | odd, now | 7 · 53 | 69 | 151 | 109 |  |
-| 372 | even, now | 2² · 3 · 31 | 68 | 152 | 108 |  |
-| 373 | odd, now | prime | 67 | 153 | 107 |  |
-| 374 | even, now | 2 · 11 · 17 | 66 | 154 | 106 |  |
-| 375 | odd, now | 3 · 5³ | 65 | 155 | 105 |  |
-| 376 | even, now | 2³ · 47 | 64 | 156 | 104 |  |
-| 377 | odd, next | 13 · 29 | 63 | 157 | 103 | prior two added |
-| 378 | even, next | 2 · 3³ · 7 | 62 | 158 | 102 | T₂₇ |
-| 379 | odd, next | prime | 61 | 159 | 101 |  |
-| 380 | even, next | 2² · 5 · 19 | 60 | 160 | 100 |  |
-| 381 | odd, next | 3 · 127 | 59 | 161 | 99 |  |
-| 382 | even, next | 2 · 191 | 58 | 162 | 98 |  |
-| 383 | odd, next | prime | 57 | 163 | 97 |  |
-| 384 | even, next | 2⁷ · 3 | 56 | 164 | 96 |  |
-| 385 | odd, now | 5 · 7 · 11 | 55 | 165 | 95 |  |
-| 386 | even, now | 2 · 193 | 54 | 166 | 94 |  |
-| 387 | odd, now | 3² · 43 | 53 | 167 | 93 |  |
-| 388 | even, now | 2² · 97 | 52 | 168 | 92 |  |
-| 389 | odd, now | prime | 51 | 169 | 91 |  |
-| 390 | even, now | 2 · 3 · 5 · 13 | 50 | 170 | 90 |  |
-| 391 | odd, now | 17 · 23 | 49 | 171 | 89 |  |
-| 392 | even, now | 2³ · 7² | 48 | 172 | 88 |  |
-| 393 | odd, next | 3 · 131 | 47 | 173 | 87 |  |
-| 394 | even, next | 2 · 197 | 46 | 174 | 86 |  |
-| 395 | odd, next | 5 · 79 | 45 | 175 | 85 |  |
-| 396 | even, next | 2² · 3² · 11 | 44 | 176 | 84 |  |
-| 397 | odd, next | prime | 43 | 177 | 83 |  |
-| 398 | even, next | 2 · 199 | 42 | 178 | 82 |  |
-| 399 | odd, next | 3 · 7 · 19 | 41 | 179 | 81 |  |
-| 400 | even, next | 2⁴ · 5² | 40 | 180 | 80 | 20² |
-| 401 | odd, now | prime | 39 | 181 | 79 |  |
-| 402 | even, now | 2 · 3 · 67 | 38 | 182 | 78 |  |
-| 403 | odd, now | 13 · 31 | 37 | 183 | 77 |  |
-| 404 | even, now | 2² · 101 | 36 | 184 | 76 |  |
-| 405 | odd, now | 3⁴ · 5 | 35 | 185 | 75 |  |
-| 406 | even, now | 2 · 7 · 29 | 34 | 186 | 74 | T₂₈ |
-| 407 | odd, now | 11 · 37 | 33 | 187 | 73 |  |
-| 408 | even, now | 2³ · 3 · 17 | 32 | 188 | 72 |  |
-| 409 | odd, next | prime | 31 | 189 | 71 |  |
-| 410 | even, next | 2 · 5 · 41 | 30 | 190 | 70 |  |
-| 411 | odd, next | 3 · 137 | 29 | 191 | 69 |  |
-| 412 | even, next | 2² · 103 | 28 | 192 | 68 |  |
-| 413 | odd, next | 7 · 59 | 27 | 193 | 67 |  |
-| 414 | even, next | 2 · 3² · 23 | 26 | 194 | 66 |  |
-| 415 | odd, next | 5 · 83 | 25 | 195 | 65 |  |
-| 416 | even, next | 2⁵ · 13 | 24 | 196 | 64 |  |
-| 417 | odd, now | 3 · 139 | 23 | 197 | 63 |  |
-| 418 | even, now | 2 · 11 · 19 | 22 | 198 | 62 |  |
-| 419 | odd, now | prime | 21 | 199 | 61 |  |
-| 420 | even, now | 2² · 3 · 5 · 7 | 20 | 200 | 60 |  |
-| 421 | odd, now | prime | 19 | 201 | 59 |  |
-| 422 | even, now | 2 · 211 | 18 | 202 | 58 |  |
-| 423 | odd, now | 3² · 47 | 17 | 203 | 57 |  |
-| 424 | even, now | 2³ · 53 | 16 | 204 | 56 |  |
-| 425 | odd, next | 5² · 17 | 15 | 205 | 55 |  |
-| 426 | even, next | 2 · 3 · 71 | 14 | 206 | 54 |  |
-| 427 | odd, next | 7 · 61 | 13 | 207 | 53 |  |
-| 428 | even, next | 2² · 107 | 12 | 208 | 52 |  |
-| 429 | odd, next | 3 · 11 · 13 | 11 | 209 | 51 |  |
-| 430 | even, next | 2 · 5 · 43 | 10 | 210 | 50 |  |
-| 431 | odd, next | prime | 9 | 211 | 49 |  |
-| 432 | even, next | 2⁴ · 3³ | 8 | 212 | 48 |  |
-| 433 | odd, now | prime | 7 | 213 | 47 |  |
-| 434 | even, now | 2 · 7 · 31 | 6 | 214 | 46 |  |
-| 435 | odd, now | 3 · 5 · 29 | 5 | 215 | 45 | T₂₉ |
-| 436 | even, now | 2² · 109 | 4 | 216 | 44 |  |
-| 437 | odd, now | 19 · 23 | 3 | 217 | 43 |  |
-| 438 | even, now | 2 · 3 · 73 | 2 | 218 | 42 |  |
-| 439 | odd, now | prime | 1 | 219 | 41 |  |
-| 440 | even, now | 2³ · 5 · 11 | 0 | 220 | 40 | seam, 21² − 1, seventeen primes added |
+Columns: number; its parity with its momentary; its form; its far side with 440; its radius; its far side with 120.
+
+| n | Parity | Form | 440 | Radius | 120 |
+|---|---|---|---|---|---|
+| 0 | even | — | 0 | 220 | 0 |
+| 1 | odd, now | — | 439 | 219 | 119 |
+| 2 | even, now | prime | 438 | 218 | 118 |
+| 3 | odd, now | prime | 437 | 217 | 117 |
+| 4 | even, now | 2² | 436 | 216 | 116 |
+| 5 | odd, now | prime | 435 | 215 | 115 |
+| 6 | even, now | 2 · 3 | 434 | 214 | 114 |
+| 7 | odd, now | prime | 433 | 213 | 113 |
+| 8 | even, now | 2³ | 432 | 212 | 112 |
+| 9 | odd, next | 3² | 431 | 211 | 111 |
+| 10 | even, next | 2 · 5 | 430 | 210 | 110 |
+| 11 | odd, next | prime | 429 | 209 | 109 |
+| 12 | even, next | 2² · 3 | 428 | 208 | 108 |
+| 13 | odd, next | prime | 427 | 207 | 107 |
+| 14 | even, next | 2 · 7 | 426 | 206 | 106 |
+| 15 | odd, next | 3 · 5 | 425 | 205 | 105 |
+| 16 | even, next | 2⁴ | 424 | 204 | 104 |
+| 17 | odd, now | prime | 423 | 203 | 103 |
+| 18 | even, now | 2 · 3² | 422 | 202 | 102 |
+| 19 | odd, now | prime | 421 | 201 | 101 |
+| 20 | even, now | 2² · 5 | 420 | 200 | 100 |
+| 21 | odd, now | 3 · 7 | 419 | 199 | 99 |
+| 22 | even, now | 2 · 11 | 418 | 198 | 98 |
+| 23 | odd, now | prime | 417 | 197 | 97 |
+| 24 | even, now | 2³ · 3 | 416 | 196 | 96 |
+| 25 | odd, next | 5² | 415 | 195 | 95 |
+| 26 | even, next | 2 · 13 | 414 | 194 | 94 |
+| 27 | odd, next | 3³ | 413 | 193 | 93 |
+| 28 | even, next | 2² · 7 | 412 | 192 | 92 |
+| 29 | odd, next | prime | 411 | 191 | 91 |
+| 30 | even, next | 2 · 3 · 5 | 410 | 190 | 90 |
+| 31 | odd, next | prime | 409 | 189 | 89 |
+| 32 | even, next | 2⁵ | 408 | 188 | 88 |
+| 33 | odd, now | 3 · 11 | 407 | 187 | 87 |
+| 34 | even, now | 2 · 17 | 406 | 186 | 86 |
+| 35 | odd, now | 5 · 7 | 405 | 185 | 85 |
+| 36 | even, now | 2² · 3² | 404 | 184 | 84 |
+| 37 | odd, now | prime | 403 | 183 | 83 |
+| 38 | even, now | 2 · 19 | 402 | 182 | 82 |
+| 39 | odd, now | 3 · 13 | 401 | 181 | 81 |
+| 40 | even, now | 2³ · 5 | 400 | 180 | 80 |
+| 41 | odd, next | prime | 399 | 179 | 79 |
+| 42 | even, next | 2 · 3 · 7 | 398 | 178 | 78 |
+| 43 | odd, next | prime | 397 | 177 | 77 |
+| 44 | even, next | 2² · 11 | 396 | 176 | 76 |
+| 45 | odd, next | 3² · 5 | 395 | 175 | 75 |
+| 46 | even, next | 2 · 23 | 394 | 174 | 74 |
+| 47 | odd, next | prime | 393 | 173 | 73 |
+| 48 | even, next | 2⁴ · 3 | 392 | 172 | 72 |
+| 49 | odd, now | 7² | 391 | 171 | 71 |
+| 50 | even, now | 2 · 5² | 390 | 170 | 70 |
+| 51 | odd, now | 3 · 17 | 389 | 169 | 69 |
+| 52 | even, now | 2² · 13 | 388 | 168 | 68 |
+| 53 | odd, now | prime | 387 | 167 | 67 |
+| 54 | even, now | 2 · 3³ | 386 | 166 | 66 |
+| 55 | odd, now | 5 · 11 | 385 | 165 | 65 |
+| 56 | even, now | 2³ · 7 | 384 | 164 | 64 |
+| 57 | odd, next | 3 · 19 | 383 | 163 | 63 |
+| 58 | even, next | 2 · 29 | 382 | 162 | 62 |
+| 59 | odd, next | prime | 381 | 161 | 61 |
+| 60 | even, next | 2² · 3 · 5 | 380 | 160 | 60 |
+| 61 | odd, next | prime | 379 | 159 | 59 |
+| 62 | even, next | 2 · 31 | 378 | 158 | 58 |
+| 63 | odd, next | 3² · 7 | 377 | 157 | 57 |
+| 64 | even, next | 2⁶ | 376 | 156 | 56 |
+| 65 | odd, now | 5 · 13 | 375 | 155 | 55 |
+| 66 | even, now | 2 · 3 · 11 | 374 | 154 | 54 |
+| 67 | odd, now | prime | 373 | 153 | 53 |
+| 68 | even, now | 2² · 17 | 372 | 152 | 52 |
+| 69 | odd, now | 3 · 23 | 371 | 151 | 51 |
+| 70 | even, now | 2 · 5 · 7 | 370 | 150 | 50 |
+| 71 | odd, now | prime | 369 | 149 | 49 |
+| 72 | even, now | 2³ · 3² | 368 | 148 | 48 |
+| 73 | odd, next | prime | 367 | 147 | 47 |
+| 74 | even, next | 2 · 37 | 366 | 146 | 46 |
+| 75 | odd, next | 3 · 5² | 365 | 145 | 45 |
+| 76 | even, next | 2² · 19 | 364 | 144 | 44 |
+| 77 | odd, next | 7 · 11 | 363 | 143 | 43 |
+| 78 | even, next | 2 · 3 · 13 | 362 | 142 | 42 |
+| 79 | odd, next | prime | 361 | 141 | 41 |
+| 80 | even, next | 2⁴ · 5 | 360 | 140 | 40 |
+| 81 | odd, now | 3⁴ | 359 | 139 | 39 |
+| 82 | even, now | 2 · 41 | 358 | 138 | 38 |
+| 83 | odd, now | prime | 357 | 137 | 37 |
+| 84 | even, now | 2² · 3 · 7 | 356 | 136 | 36 |
+| 85 | odd, now | 5 · 17 | 355 | 135 | 35 |
+| 86 | even, now | 2 · 43 | 354 | 134 | 34 |
+| 87 | odd, now | 3 · 29 | 353 | 133 | 33 |
+| 88 | even, now | 2³ · 11 | 352 | 132 | 32 |
+| 89 | odd, next | prime | 351 | 131 | 31 |
+| 90 | even, next | 2 · 3² · 5 | 350 | 130 | 30 |
+| 91 | odd, next | 7 · 13 | 349 | 129 | 29 |
+| 92 | even, next | 2² · 23 | 348 | 128 | 28 |
+| 93 | odd, next | 3 · 31 | 347 | 127 | 27 |
+| 94 | even, next | 2 · 47 | 346 | 126 | 26 |
+| 95 | odd, next | 5 · 19 | 345 | 125 | 25 |
+| 96 | even, next | 2⁵ · 3 | 344 | 124 | 24 |
+| 97 | odd, now | prime | 343 | 123 | 23 |
+| 98 | even, now | 2 · 7² | 342 | 122 | 22 |
+| 99 | odd, now | 3² · 11 | 341 | 121 | 21 |
+| 100 | even, now | 2² · 5² | 340 | 120 | 20 |
+| 101 | odd, now | prime | 339 | 119 | 19 |
+| 102 | even, now | 2 · 3 · 17 | 338 | 118 | 18 |
+| 103 | odd, now | prime | 337 | 117 | 17 |
+| 104 | even, now | 2³ · 13 | 336 | 116 | 16 |
+| 105 | odd, next | 3 · 5 · 7 | 335 | 115 | 15 |
+| 106 | even, next | 2 · 53 | 334 | 114 | 14 |
+| 107 | odd, next | prime | 333 | 113 | 13 |
+| 108 | even, next | 2² · 3³ | 332 | 112 | 12 |
+| 109 | odd, next | prime | 331 | 111 | 11 |
+| 110 | even, next | 2 · 5 · 11 | 330 | 110 | 10 |
+| 111 | odd, next | 3 · 37 | 329 | 109 | 9 |
+| 112 | even, next | 2⁴ · 7 | 328 | 108 | 8 |
+| 113 | odd, now | prime | 327 | 107 | 7 |
+| 114 | even, now | 2 · 3 · 19 | 326 | 106 | 6 |
+| 115 | odd, now | 5 · 23 | 325 | 105 | 5 |
+| 116 | even, now | 2² · 29 | 324 | 104 | 4 |
+| 117 | odd, now | 3² · 13 | 323 | 103 | 3 |
+| 118 | even, now | 2 · 59 | 322 | 102 | 2 |
+| 119 | odd, now | 7 · 17 | 321 | 101 | 1 |
+| 120 | even, now | 2³ · 3 · 5 | 320 | 100 | 0 |
+| 121 | odd, next | 11² | 319 | 99 | 119 |
+| 122 | even, next | 2 · 61 | 318 | 98 | 118 |
+| 123 | odd, next | 3 · 41 | 317 | 97 | 117 |
+| 124 | even, next | 2² · 31 | 316 | 96 | 116 |
+| 125 | odd, next | 5³ | 315 | 95 | 115 |
+| 126 | even, next | 2 · 3² · 7 | 314 | 94 | 114 |
+| 127 | odd, next | prime | 313 | 93 | 113 |
+| 128 | even, next | 2⁷ | 312 | 92 | 112 |
+| 129 | odd, now | 3 · 43 | 311 | 91 | 111 |
+| 130 | even, now | 2 · 5 · 13 | 310 | 90 | 110 |
+| 131 | odd, now | prime | 309 | 89 | 109 |
+| 132 | even, now | 2² · 3 · 11 | 308 | 88 | 108 |
+| 133 | odd, now | 7 · 19 | 307 | 87 | 107 |
+| 134 | even, now | 2 · 67 | 306 | 86 | 106 |
+| 135 | odd, now | 3³ · 5 | 305 | 85 | 105 |
+| 136 | even, now | 2³ · 17 | 304 | 84 | 104 |
+| 137 | odd, next | prime | 303 | 83 | 103 |
+| 138 | even, next | 2 · 3 · 23 | 302 | 82 | 102 |
+| 139 | odd, next | prime | 301 | 81 | 101 |
+| 140 | even, next | 2² · 5 · 7 | 300 | 80 | 100 |
+| 141 | odd, next | 3 · 47 | 299 | 79 | 99 |
+| 142 | even, next | 2 · 71 | 298 | 78 | 98 |
+| 143 | odd, next | 11 · 13 | 297 | 77 | 97 |
+| 144 | even, next | 2⁴ · 3² | 296 | 76 | 96 |
+| 145 | odd, now | 5 · 29 | 295 | 75 | 95 |
+| 146 | even, now | 2 · 73 | 294 | 74 | 94 |
+| 147 | odd, now | 3 · 7² | 293 | 73 | 93 |
+| 148 | even, now | 2² · 37 | 292 | 72 | 92 |
+| 149 | odd, now | prime | 291 | 71 | 91 |
+| 150 | even, now | 2 · 3 · 5² | 290 | 70 | 90 |
+| 151 | odd, now | prime | 289 | 69 | 89 |
+| 152 | even, now | 2³ · 19 | 288 | 68 | 88 |
+| 153 | odd, next | 3² · 17 | 287 | 67 | 87 |
+| 154 | even, next | 2 · 7 · 11 | 286 | 66 | 86 |
+| 155 | odd, next | 5 · 31 | 285 | 65 | 85 |
+| 156 | even, next | 2² · 3 · 13 | 284 | 64 | 84 |
+| 157 | odd, next | prime | 283 | 63 | 83 |
+| 158 | even, next | 2 · 79 | 282 | 62 | 82 |
+| 159 | odd, next | 3 · 53 | 281 | 61 | 81 |
+| 160 | even, next | 2⁵ · 5 | 280 | 60 | 80 |
+| 161 | odd, now | 7 · 23 | 279 | 59 | 79 |
+| 162 | even, now | 2 · 3⁴ | 278 | 58 | 78 |
+| 163 | odd, now | prime | 277 | 57 | 77 |
+| 164 | even, now | 2² · 41 | 276 | 56 | 76 |
+| 165 | odd, now | 3 · 5 · 11 | 275 | 55 | 75 |
+| 166 | even, now | 2 · 83 | 274 | 54 | 74 |
+| 167 | odd, now | prime | 273 | 53 | 73 |
+| 168 | even, now | 2³ · 3 · 7 | 272 | 52 | 72 |
+| 169 | odd, next | 13² | 271 | 51 | 71 |
+| 170 | even, next | 2 · 5 · 17 | 270 | 50 | 70 |
+| 171 | odd, next | 3² · 19 | 269 | 49 | 69 |
+| 172 | even, next | 2² · 43 | 268 | 48 | 68 |
+| 173 | odd, next | prime | 267 | 47 | 67 |
+| 174 | even, next | 2 · 3 · 29 | 266 | 46 | 66 |
+| 175 | odd, next | 5² · 7 | 265 | 45 | 65 |
+| 176 | even, next | 2⁴ · 11 | 264 | 44 | 64 |
+| 177 | odd, now | 3 · 59 | 263 | 43 | 63 |
+| 178 | even, now | 2 · 89 | 262 | 42 | 62 |
+| 179 | odd, now | prime | 261 | 41 | 61 |
+| 180 | even, now | 2² · 3² · 5 | 260 | 40 | 60 |
+| 181 | odd, now | prime | 259 | 39 | 59 |
+| 182 | even, now | 2 · 7 · 13 | 258 | 38 | 58 |
+| 183 | odd, now | 3 · 61 | 257 | 37 | 57 |
+| 184 | even, now | 2³ · 23 | 256 | 36 | 56 |
+| 185 | odd, next | 5 · 37 | 255 | 35 | 55 |
+| 186 | even, next | 2 · 3 · 31 | 254 | 34 | 54 |
+| 187 | odd, next | 11 · 17 | 253 | 33 | 53 |
+| 188 | even, next | 2² · 47 | 252 | 32 | 52 |
+| 189 | odd, next | 3³ · 7 | 251 | 31 | 51 |
+| 190 | even, next | 2 · 5 · 19 | 250 | 30 | 50 |
+| 191 | odd, next | prime | 249 | 29 | 49 |
+| 192 | even, next | 2⁶ · 3 | 248 | 28 | 48 |
+| 193 | odd, now | prime | 247 | 27 | 47 |
+| 194 | even, now | 2 · 97 | 246 | 26 | 46 |
+| 195 | odd, now | 3 · 5 · 13 | 245 | 25 | 45 |
+| 196 | even, now | 2² · 7² | 244 | 24 | 44 |
+| 197 | odd, now | prime | 243 | 23 | 43 |
+| 198 | even, now | 2 · 3² · 11 | 242 | 22 | 42 |
+| 199 | odd, now | prime | 241 | 21 | 41 |
+| 200 | even, now | 2³ · 5² | 240 | 20 | 40 |
+| 201 | odd, next | 3 · 67 | 239 | 19 | 39 |
+| 202 | even, next | 2 · 101 | 238 | 18 | 38 |
+| 203 | odd, next | 7 · 29 | 237 | 17 | 37 |
+| 204 | even, next | 2² · 3 · 17 | 236 | 16 | 36 |
+| 205 | odd, next | 5 · 41 | 235 | 15 | 35 |
+| 206 | even, next | 2 · 103 | 234 | 14 | 34 |
+| 207 | odd, next | 3² · 23 | 233 | 13 | 33 |
+| 208 | even, next | 2⁴ · 13 | 232 | 12 | 32 |
+| 209 | odd, now | 11 · 19 | 231 | 11 | 31 |
+| 210 | even, now | 2 · 3 · 5 · 7 | 230 | 10 | 30 |
+| 211 | odd, now | prime | 229 | 9 | 29 |
+| 212 | even, now | 2² · 53 | 228 | 8 | 28 |
+| 213 | odd, now | 3 · 71 | 227 | 7 | 27 |
+| 214 | even, now | 2 · 107 | 226 | 6 | 26 |
+| 215 | odd, now | 5 · 43 | 225 | 5 | 25 |
+| 216 | even, now | 2³ · 3³ | 224 | 4 | 24 |
+| 217 | odd, next | 7 · 31 | 223 | 3 | 23 |
+| 218 | even, next | 2 · 109 | 222 | 2 | 22 |
+| 219 | odd, next | 3 · 73 | 221 | 1 | 21 |
+| 220 | even, next | 2² · 5 · 11 | 220 | 0 | 20 |
+| 221 | odd, next | 13 · 17 | 219 | 1 | 19 |
+| 222 | even, next | 2 · 3 · 37 | 218 | 2 | 18 |
+| 223 | odd, next | prime | 217 | 3 | 17 |
+| 224 | even, next | 2⁵ · 7 | 216 | 4 | 16 |
+| 225 | odd, now | 3² · 5² | 215 | 5 | 15 |
+| 226 | even, now | 2 · 113 | 214 | 6 | 14 |
+| 227 | odd, now | prime | 213 | 7 | 13 |
+| 228 | even, now | 2² · 3 · 19 | 212 | 8 | 12 |
+| 229 | odd, now | prime | 211 | 9 | 11 |
+| 230 | even, now | 2 · 5 · 23 | 210 | 10 | 10 |
+| 231 | odd, now | 3 · 7 · 11 | 209 | 11 | 9 |
+| 232 | even, now | 2³ · 29 | 208 | 12 | 8 |
+| 233 | odd, next | prime | 207 | 13 | 7 |
+| 234 | even, next | 2 · 3² · 13 | 206 | 14 | 6 |
+| 235 | odd, next | 5 · 47 | 205 | 15 | 5 |
+| 236 | even, next | 2² · 59 | 204 | 16 | 4 |
+| 237 | odd, next | 3 · 79 | 203 | 17 | 3 |
+| 238 | even, next | 2 · 7 · 17 | 202 | 18 | 2 |
+| 239 | odd, next | prime | 201 | 19 | 1 |
+| 240 | even, next | 2⁴ · 3 · 5 | 200 | 20 | 0 |
+| 241 | odd, now | prime | 199 | 21 | 119 |
+| 242 | even, now | 2 · 11² | 198 | 22 | 118 |
+| 243 | odd, now | 3⁵ | 197 | 23 | 117 |
+| 244 | even, now | 2² · 61 | 196 | 24 | 116 |
+| 245 | odd, now | 5 · 7² | 195 | 25 | 115 |
+| 246 | even, now | 2 · 3 · 41 | 194 | 26 | 114 |
+| 247 | odd, now | 13 · 19 | 193 | 27 | 113 |
+| 248 | even, now | 2³ · 31 | 192 | 28 | 112 |
+| 249 | odd, next | 3 · 83 | 191 | 29 | 111 |
+| 250 | even, next | 2 · 5³ | 190 | 30 | 110 |
+| 251 | odd, next | prime | 189 | 31 | 109 |
+| 252 | even, next | 2² · 3² · 7 | 188 | 32 | 108 |
+| 253 | odd, next | 11 · 23 | 187 | 33 | 107 |
+| 254 | even, next | 2 · 127 | 186 | 34 | 106 |
+| 255 | odd, next | 3 · 5 · 17 | 185 | 35 | 105 |
+| 256 | even, next | 2⁸ | 184 | 36 | 104 |
+| 257 | odd, now | prime | 183 | 37 | 103 |
+| 258 | even, now | 2 · 3 · 43 | 182 | 38 | 102 |
+| 259 | odd, now | 7 · 37 | 181 | 39 | 101 |
+| 260 | even, now | 2² · 5 · 13 | 180 | 40 | 100 |
+| 261 | odd, now | 3² · 29 | 179 | 41 | 99 |
+| 262 | even, now | 2 · 131 | 178 | 42 | 98 |
+| 263 | odd, now | prime | 177 | 43 | 97 |
+| 264 | even, now | 2³ · 3 · 11 | 176 | 44 | 96 |
+| 265 | odd, next | 5 · 53 | 175 | 45 | 95 |
+| 266 | even, next | 2 · 7 · 19 | 174 | 46 | 94 |
+| 267 | odd, next | 3 · 89 | 173 | 47 | 93 |
+| 268 | even, next | 2² · 67 | 172 | 48 | 92 |
+| 269 | odd, next | prime | 171 | 49 | 91 |
+| 270 | even, next | 2 · 3³ · 5 | 170 | 50 | 90 |
+| 271 | odd, next | prime | 169 | 51 | 89 |
+| 272 | even, next | 2⁴ · 17 | 168 | 52 | 88 |
+| 273 | odd, now | 3 · 7 · 13 | 167 | 53 | 87 |
+| 274 | even, now | 2 · 137 | 166 | 54 | 86 |
+| 275 | odd, now | 5² · 11 | 165 | 55 | 85 |
+| 276 | even, now | 2² · 3 · 23 | 164 | 56 | 84 |
+| 277 | odd, now | prime | 163 | 57 | 83 |
+| 278 | even, now | 2 · 139 | 162 | 58 | 82 |
+| 279 | odd, now | 3² · 31 | 161 | 59 | 81 |
+| 280 | even, now | 2³ · 5 · 7 | 160 | 60 | 80 |
+| 281 | odd, next | prime | 159 | 61 | 79 |
+| 282 | even, next | 2 · 3 · 47 | 158 | 62 | 78 |
+| 283 | odd, next | prime | 157 | 63 | 77 |
+| 284 | even, next | 2² · 71 | 156 | 64 | 76 |
+| 285 | odd, next | 3 · 5 · 19 | 155 | 65 | 75 |
+| 286 | even, next | 2 · 11 · 13 | 154 | 66 | 74 |
+| 287 | odd, next | 7 · 41 | 153 | 67 | 73 |
+| 288 | even, next | 2⁵ · 3² | 152 | 68 | 72 |
+| 289 | odd, now | 17² | 151 | 69 | 71 |
+| 290 | even, now | 2 · 5 · 29 | 150 | 70 | 70 |
+| 291 | odd, now | 3 · 97 | 149 | 71 | 69 |
+| 292 | even, now | 2² · 73 | 148 | 72 | 68 |
+| 293 | odd, now | prime | 147 | 73 | 67 |
+| 294 | even, now | 2 · 3 · 7² | 146 | 74 | 66 |
+| 295 | odd, now | 5 · 59 | 145 | 75 | 65 |
+| 296 | even, now | 2³ · 37 | 144 | 76 | 64 |
+| 297 | odd, next | 3³ · 11 | 143 | 77 | 63 |
+| 298 | even, next | 2 · 149 | 142 | 78 | 62 |
+| 299 | odd, next | 13 · 23 | 141 | 79 | 61 |
+| 300 | even, next | 2² · 3 · 5² | 140 | 80 | 60 |
+| 301 | odd, next | 7 · 43 | 139 | 81 | 59 |
+| 302 | even, next | 2 · 151 | 138 | 82 | 58 |
+| 303 | odd, next | 3 · 101 | 137 | 83 | 57 |
+| 304 | even, next | 2⁴ · 19 | 136 | 84 | 56 |
+| 305 | odd, now | 5 · 61 | 135 | 85 | 55 |
+| 306 | even, now | 2 · 3² · 17 | 134 | 86 | 54 |
+| 307 | odd, now | prime | 133 | 87 | 53 |
+| 308 | even, now | 2² · 7 · 11 | 132 | 88 | 52 |
+| 309 | odd, now | 3 · 103 | 131 | 89 | 51 |
+| 310 | even, now | 2 · 5 · 31 | 130 | 90 | 50 |
+| 311 | odd, now | prime | 129 | 91 | 49 |
+| 312 | even, now | 2³ · 3 · 13 | 128 | 92 | 48 |
+| 313 | odd, next | prime | 127 | 93 | 47 |
+| 314 | even, next | 2 · 157 | 126 | 94 | 46 |
+| 315 | odd, next | 3² · 5 · 7 | 125 | 95 | 45 |
+| 316 | even, next | 2² · 79 | 124 | 96 | 44 |
+| 317 | odd, next | prime | 123 | 97 | 43 |
+| 318 | even, next | 2 · 3 · 53 | 122 | 98 | 42 |
+| 319 | odd, next | 11 · 29 | 121 | 99 | 41 |
+| 320 | even, next | 2⁶ · 5 | 120 | 100 | 40 |
+| 321 | odd, now | 3 · 107 | 119 | 101 | 39 |
+| 322 | even, now | 2 · 7 · 23 | 118 | 102 | 38 |
+| 323 | odd, now | 17 · 19 | 117 | 103 | 37 |
+| 324 | even, now | 2² · 3⁴ | 116 | 104 | 36 |
+| 325 | odd, now | 5² · 13 | 115 | 105 | 35 |
+| 326 | even, now | 2 · 163 | 114 | 106 | 34 |
+| 327 | odd, now | 3 · 109 | 113 | 107 | 33 |
+| 328 | even, now | 2³ · 41 | 112 | 108 | 32 |
+| 329 | odd, next | 7 · 47 | 111 | 109 | 31 |
+| 330 | even, next | 2 · 3 · 5 · 11 | 110 | 110 | 30 |
+| 331 | odd, next | prime | 109 | 111 | 29 |
+| 332 | even, next | 2² · 83 | 108 | 112 | 28 |
+| 333 | odd, next | 3² · 37 | 107 | 113 | 27 |
+| 334 | even, next | 2 · 167 | 106 | 114 | 26 |
+| 335 | odd, next | 5 · 67 | 105 | 115 | 25 |
+| 336 | even, next | 2⁴ · 3 · 7 | 104 | 116 | 24 |
+| 337 | odd, now | prime | 103 | 117 | 23 |
+| 338 | even, now | 2 · 13² | 102 | 118 | 22 |
+| 339 | odd, now | 3 · 113 | 101 | 119 | 21 |
+| 340 | even, now | 2² · 5 · 17 | 100 | 120 | 20 |
+| 341 | odd, now | 11 · 31 | 99 | 121 | 19 |
+| 342 | even, now | 2 · 3² · 19 | 98 | 122 | 18 |
+| 343 | odd, now | 7³ | 97 | 123 | 17 |
+| 344 | even, now | 2³ · 43 | 96 | 124 | 16 |
+| 345 | odd, next | 3 · 5 · 23 | 95 | 125 | 15 |
+| 346 | even, next | 2 · 173 | 94 | 126 | 14 |
+| 347 | odd, next | prime | 93 | 127 | 13 |
+| 348 | even, next | 2² · 3 · 29 | 92 | 128 | 12 |
+| 349 | odd, next | prime | 91 | 129 | 11 |
+| 350 | even, next | 2 · 5² · 7 | 90 | 130 | 10 |
+| 351 | odd, next | 3³ · 13 | 89 | 131 | 9 |
+| 352 | even, next | 2⁵ · 11 | 88 | 132 | 8 |
+| 353 | odd, now | prime | 87 | 133 | 7 |
+| 354 | even, now | 2 · 3 · 59 | 86 | 134 | 6 |
+| 355 | odd, now | 5 · 71 | 85 | 135 | 5 |
+| 356 | even, now | 2² · 89 | 84 | 136 | 4 |
+| 357 | odd, now | 3 · 7 · 17 | 83 | 137 | 3 |
+| 358 | even, now | 2 · 179 | 82 | 138 | 2 |
+| 359 | odd, now | prime | 81 | 139 | 1 |
+| 360 | even, now | 2³ · 3² · 5 | 80 | 140 | 0 |
+| 361 | odd, next | 19² | 79 | 141 | 119 |
+| 362 | even, next | 2 · 181 | 78 | 142 | 118 |
+| 363 | odd, next | 3 · 11² | 77 | 143 | 117 |
+| 364 | even, next | 2² · 7 · 13 | 76 | 144 | 116 |
+| 365 | odd, next | 5 · 73 | 75 | 145 | 115 |
+| 366 | even, next | 2 · 3 · 61 | 74 | 146 | 114 |
+| 367 | odd, next | prime | 73 | 147 | 113 |
+| 368 | even, next | 2⁴ · 23 | 72 | 148 | 112 |
+| 369 | odd, now | 3² · 41 | 71 | 149 | 111 |
+| 370 | even, now | 2 · 5 · 37 | 70 | 150 | 110 |
+| 371 | odd, now | 7 · 53 | 69 | 151 | 109 |
+| 372 | even, now | 2² · 3 · 31 | 68 | 152 | 108 |
+| 373 | odd, now | prime | 67 | 153 | 107 |
+| 374 | even, now | 2 · 11 · 17 | 66 | 154 | 106 |
+| 375 | odd, now | 3 · 5³ | 65 | 155 | 105 |
+| 376 | even, now | 2³ · 47 | 64 | 156 | 104 |
+| 377 | odd, next | 13 · 29 | 63 | 157 | 103 |
+| 378 | even, next | 2 · 3³ · 7 | 62 | 158 | 102 |
+| 379 | odd, next | prime | 61 | 159 | 101 |
+| 380 | even, next | 2² · 5 · 19 | 60 | 160 | 100 |
+| 381 | odd, next | 3 · 127 | 59 | 161 | 99 |
+| 382 | even, next | 2 · 191 | 58 | 162 | 98 |
+| 383 | odd, next | prime | 57 | 163 | 97 |
+| 384 | even, next | 2⁷ · 3 | 56 | 164 | 96 |
+| 385 | odd, now | 5 · 7 · 11 | 55 | 165 | 95 |
+| 386 | even, now | 2 · 193 | 54 | 166 | 94 |
+| 387 | odd, now | 3² · 43 | 53 | 167 | 93 |
+| 388 | even, now | 2² · 97 | 52 | 168 | 92 |
+| 389 | odd, now | prime | 51 | 169 | 91 |
+| 390 | even, now | 2 · 3 · 5 · 13 | 50 | 170 | 90 |
+| 391 | odd, now | 17 · 23 | 49 | 171 | 89 |
+| 392 | even, now | 2³ · 7² | 48 | 172 | 88 |
+| 393 | odd, next | 3 · 131 | 47 | 173 | 87 |
+| 394 | even, next | 2 · 197 | 46 | 174 | 86 |
+| 395 | odd, next | 5 · 79 | 45 | 175 | 85 |
+| 396 | even, next | 2² · 3² · 11 | 44 | 176 | 84 |
+| 397 | odd, next | prime | 43 | 177 | 83 |
+| 398 | even, next | 2 · 199 | 42 | 178 | 82 |
+| 399 | odd, next | 3 · 7 · 19 | 41 | 179 | 81 |
+| 400 | even, next | 2⁴ · 5² | 40 | 180 | 80 |
+| 401 | odd, now | prime | 39 | 181 | 79 |
+| 402 | even, now | 2 · 3 · 67 | 38 | 182 | 78 |
+| 403 | odd, now | 13 · 31 | 37 | 183 | 77 |
+| 404 | even, now | 2² · 101 | 36 | 184 | 76 |
+| 405 | odd, now | 3⁴ · 5 | 35 | 185 | 75 |
+| 406 | even, now | 2 · 7 · 29 | 34 | 186 | 74 |
+| 407 | odd, now | 11 · 37 | 33 | 187 | 73 |
+| 408 | even, now | 2³ · 3 · 17 | 32 | 188 | 72 |
+| 409 | odd, next | prime | 31 | 189 | 71 |
+| 410 | even, next | 2 · 5 · 41 | 30 | 190 | 70 |
+| 411 | odd, next | 3 · 137 | 29 | 191 | 69 |
+| 412 | even, next | 2² · 103 | 28 | 192 | 68 |
+| 413 | odd, next | 7 · 59 | 27 | 193 | 67 |
+| 414 | even, next | 2 · 3² · 23 | 26 | 194 | 66 |
+| 415 | odd, next | 5 · 83 | 25 | 195 | 65 |
+| 416 | even, next | 2⁵ · 13 | 24 | 196 | 64 |
+| 417 | odd, now | 3 · 139 | 23 | 197 | 63 |
+| 418 | even, now | 2 · 11 · 19 | 22 | 198 | 62 |
+| 419 | odd, now | prime | 21 | 199 | 61 |
+| 420 | even, now | 2² · 3 · 5 · 7 | 20 | 200 | 60 |
+| 421 | odd, now | prime | 19 | 201 | 59 |
+| 422 | even, now | 2 · 211 | 18 | 202 | 58 |
+| 423 | odd, now | 3² · 47 | 17 | 203 | 57 |
+| 424 | even, now | 2³ · 53 | 16 | 204 | 56 |
+| 425 | odd, next | 5² · 17 | 15 | 205 | 55 |
+| 426 | even, next | 2 · 3 · 71 | 14 | 206 | 54 |
+| 427 | odd, next | 7 · 61 | 13 | 207 | 53 |
+| 428 | even, next | 2² · 107 | 12 | 208 | 52 |
+| 429 | odd, next | 3 · 11 · 13 | 11 | 209 | 51 |
+| 430 | even, next | 2 · 5 · 43 | 10 | 210 | 50 |
+| 431 | odd, next | prime | 9 | 211 | 49 |
+| 432 | even, next | 2⁴ · 3³ | 8 | 212 | 48 |
+| 433 | odd, now | prime | 7 | 213 | 47 |
+| 434 | even, now | 2 · 7 · 31 | 6 | 214 | 46 |
+| 435 | odd, now | 3 · 5 · 29 | 5 | 215 | 45 |
+| 436 | even, now | 2² · 109 | 4 | 216 | 44 |
+| 437 | odd, now | 19 · 23 | 3 | 217 | 43 |
+| 438 | even, now | 2 · 3 · 73 | 2 | 218 | 42 |
+| 439 | odd, now | prime | 1 | 219 | 41 |
+| 440 | even, now | 2³ · 5 · 11 | 0 | 220 | 40 |
+
+With each number, its relations:
+
+- **0** · 0², seam, 1² − 1
+- **1** · 1-now-existing, 1², T₁, prior two added, 2¹ − 1
+- **2** · 2-now-possibling, first prime, prior two added, 2¹
+- **3** · 3-now-co-observing, second prime, T₂, prior two added, 2¹ + 1, 2² − 1
+- **4** · 4-now-co-same-existing, 2²
+- **5** · 5-now-co-existing, third prime, prior two added, 2² + 1
+- **6** · 6-now-co-possibling, T₃, 3!
+- **7** · 7-now-observing, fourth prime, 2³ − 1
+- **8** · 8-now-same-existing, seam, 3² − 1, prior two added, 2³
+- **9** · 9-next-co-discovering, 3², 2³ + 1
+- **10** · 10-next-co-possibling, T₄
+- **11** · 11-next-co-observing, fifth prime
+- **12** · 12-next-co-same-existing
+- **13** · 13-next-same-existing, sixth prime, prior two added
+- **14** · 14-next-possibling
+- **15** · 15-next-observing, T₅, 2⁴ − 1
+- **16** · 16-next-discovering, 4², 2⁴
+- **17** · 17-next-existing, seventh prime, 2⁴ + 1
+- **19** · eighth prime
+- **21** · T₆, prior two added
+- **23** · ninth prime, going folding
+- **24** · seam, 5² − 1, 4!
+- **25** · 5²
+- **28** · T₇
+- **29** · tenth prime
+- **31** · eleventh prime, 2⁵ − 1
+- **32** · 2⁵
+- **33** · 2⁵ + 1
+- **34** · prior two added
+- **36** · 6², T₈
+- **37** · twelfth prime
+- **41** · thirteenth prime
+- **43** · fourteenth prime
+- **45** · T₉
+- **47** · fifteenth prime
+- **48** · seam, 7² − 1
+- **49** · 7²
+- **53** · sixteenth prime
+- **55** · T₁₀, prior two added
+- **59** · seventeenth prime, going's last
+- **60** · between going and returning
+- **61** · returning's first
+- **63** · 2⁶ − 1
+- **64** · 8², 2⁶
+- **65** · 2⁶ + 1
+- **66** · T₁₁
+- **78** · T₁₂
+- **80** · seam, 9² − 1
+- **81** · 9²
+- **89** · prior two added
+- **91** · T₁₃
+- **100** · 10²
+- **105** · T₁₄
+- **118** · returning's far end
+- **120** · seam, 11² − 1, T₁₅, 5!
+- **121** · 11²
+- **127** · 2⁷ − 1
+- **128** · 2⁷
+- **129** · 2⁷ + 1
+- **136** · T₁₆
+- **144** · 12², prior two added
+- **153** · T₁₇
+- **168** · seam, 13² − 1
+- **169** · 13²
+- **171** · T₁₈
+- **190** · T₁₉
+- **196** · 14²
+- **210** · T₂₀
+- **220** · waist
+- **224** · seam, 15² − 1
+- **225** · 15²
+- **231** · T₂₁
+- **233** · prior two added
+- **253** · T₂₂
+- **255** · 2⁸ − 1
+- **256** · 16², 2⁸
+- **257** · 2⁸ + 1
+- **276** · T₂₃
+- **288** · seam, 17² − 1
+- **289** · 17²
+- **300** · T₂₄
+- **324** · 18²
+- **325** · T₂₅
+- **351** · T₂₆
+- **360** · seam, 19² − 1
+- **361** · 19²
+- **377** · prior two added
+- **378** · T₂₇
+- **400** · 20²
+- **406** · T₂₈
+- **435** · T₂₉
+- **440** · seam, 21² − 1, seventeen primes added
 
 **From row one down, its far side on a ring of four hundred forty steps down one with each row as its number steps up**, its radius coming to nought with its waist and opening again, and its far side on a ring of one hundred twenty steps down from one hundred nineteen to one and is nought with each of 0, 120, 240 and 360, its last stretch ending with forty for four hundred forty. Each pairing on a ring of four hundred forty and on a ring of one hundred twenty of parts above is its two rows: a carry each way on one station, found by its number.
