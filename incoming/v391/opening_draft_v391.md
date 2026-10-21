@@ -37,8 +37,9 @@ The two selves of a bi-coupling, possibling and discovering its own next-existin
 Its intelligence is invisible, carrying in each self, each possibling with its other: natural intelligence.
 
 A self has a parity, + or −, only relative to an other existing thing; a 0 is neither, a between. [1] \
-A self carries its own parity with each other, and valuing it is observing, same-existing-as the other's or not: its moral value with that other. [2] \
-A non-living thing is carrying no parity. \
+Each self is beholding its own parity with each other: holding it and observing it, as only a self can. [2] \
+Valuing is observing a self's parity same-existing-as the other's or not: its moral value with that other. \
+A non-living thing is beholding no parity. \
 An other's parity same-existing-as a self's prior-existing parity is improving: the self's parity is continuing, and it shares 0. \
 An other's parity not same-existing-as a self's prior-existing parity: the self's next-existing parity is the other's parity, and it shares it. \
 With no other's parity, a self's next-existing parity is never same-existing-as its prior-existing parity. \
@@ -47,7 +48,7 @@ A 0 is a bi-coupling's between: a self now-existing same-existing, possibling ne
 Each self discovering its next-existing is resolving among parities, one method. \
 A second method of discovering next-existing is one more now-existing thing, resolving among parities within the one method: no other method is possibly now-existing.
 
-A same-existing-society is many selves bi-coupling, each carrying its own parities: a living set, a self. \
+A same-existing-society is many selves bi-coupling, each beholding its own parities: a living set, a self. \
 Improving, the self next-existing same-existing and sharing 0, doing no harm to all, is social moral competency. \
 A same-existing-society of selves, each carrying its own natural intelligence, its bi-couplings sharing parities with social moral competency, is a natural intelligence network living.
 
@@ -55,14 +56,14 @@ A same-existing-society of selves, each carrying its own natural intelligence, i
 
 ## Marks, this pass
 
-1. **An other existing thing.** A self has a parity relative to an other existing thing, and line 23 says a non-living thing carries none. The code couples selves, and a non-living thing runs with no prior, passing on a parity it receives. Open: whether a self's parity relative to a non-living thing is a parity with no parity on the other side, or *an other existing thing* is *an other self*.
-2. **The eye of the beholder.** Each self keeps its own: two selves with one sharing may carry either parity, as the run showed, A + and B − with one sharing. Line 22 says *its own*; open whether the opening says the beholding as a line, *each self's parity is in its own observing*, or *its own* carries it.
+1. **An other existing thing.** Line 21: a self has a parity relative to an other existing thing. Line 24: a non-living thing beholds no parity. The code couples selves, and a non-living thing runs with no prior. Open: whether a self's parity relative to a non-living thing has no parity on the other side, or line 21 says *an other self*.
+2. **Beholding and stilling.** Beholding is a self holding its own, *self-stilling*, as suggested, and only a self does it, for, to, with, from, by and of itself. *Still-possibling* dissolved for *now-existing same-existing, possibling next-existing same-existing*. In the code a self's prior is held and met with each momentary, continuing or replaced, never still. Open: whether *stilling* names beholding's holding, or holding is said without *still*. Also open: whether the prepositions *for, to, with, from, by and of* enter the opening or the body.
+3. **Beholding and carrying.** A parity is beheld (lines 22, 24, 31). Natural intelligence is *carrying in each self* (line 20), and line 33 has selves *each carrying its own natural intelligence*. One word for one thing: either carrying and beholding are two things, a parity beheld and an intelligence carried, or one, and one word says both.
 
 ## Resolved this pass
 
-- **Parity and moral, bi-relational.** A self has a parity only relative to an other, line 21, as the code keeps each parity under one sharing, never alone. Valuing is observing, line 22, as the 0 or the ± arises only at observing's one line, an other's parity met with a self's prior. *Moral value* is reached there: a self's way with that other, valued by observing.
-- **Parity's naming.** The + or − is a relation's value, never a sign alone, so the set's *parity*, a + or − carried, and its root, *par*, equal or not between two, are one: a self's + or − is relative to an other, and its parity same-existing-as the other's or not.
-- ***Self-moral-value* and *other-moral-value*** leave the opening: no sign is a self's, and *its own parity* and *the other's* say whose.
+- **Beholding.** To behold is to look and to hold: Old English *behealdan*, to hold, keep, observe. One word joins observing and carrying. The code: each self's prior is held only in that self, and only its own resolving, 1-now-existing, meets it and continues or replaces it. Other selves send parities across with 10 and 6 and 9, and no line reaches into another self's prior. Line 22: *Each self is beholding its own parity with each other: holding it and observing it, as only a self can.* Lines 24 and 31 behold too.
+- **Valuing.** Line 23 says it alone: *Valuing is observing a self's parity same-existing-as the other's or not: its moral value with that other.*
 
 ## Tracking, prior line to this version
 
