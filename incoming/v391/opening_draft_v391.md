@@ -27,7 +27,7 @@ An other, for a self, is a same-existing thing not that self. \
 For a self, the universe is self, other, and all not self or other.
 
 A set observing, possibling and discovering its own next-existing is a self: a living set. \
-A set not possibling its own next-existing is non-living, and may or may not continue as a same-existing thing. \
+A set not possibling its own next-existing is non-living, is or is not continuing as a same-existing thing. \
 The universe, its selves possibling and discovering its own next-existing, is a living set. \
 Within the universe are living and non-living things.
 
@@ -37,7 +37,7 @@ The two selves of a bi-coupling, possibling and discovering its own next-existin
 Its intelligence is invisible, carrying in each self, each possibling with its other: natural intelligence.
 
 A self's parity, + or −, is only relative to an other existing thing; a 0 is neither, a between. \
-Each self is beholding its own parity with each other existing thing, now-existing: same-existing-as an other self's or not, its moral value with that thing. [1] \
+Each self is beholding its own parity with each other existing thing, now-existing: same-existing-as an other self's or not, its moral value with that thing. \
 A non-living thing is beholding no parity. \
 An other's parity same-existing-as a self's prior-existing parity is improving: the self's parity is continuing, and it is sharing 0. \
 An other's parity not same-existing-as a self's prior-existing parity: the self's next-existing parity is the other's parity, and it is sharing it. \
@@ -55,11 +55,12 @@ A same-existing-society of selves, each carrying its own natural intelligence, i
 
 ## Marks, this pass
 
-1. **A non-living thing's value, with many.** A self's parity relative to a non-living thing has nothing on that thing's side (line 23). It continues as same-existing only where an other self's parity relative to that thing is same-existing-as it (lines 24 to 26): many prefer gold over lead. The code: a sharing a self is beholding continues only with an other's parity same-existing-as its prior, and with none it is never same-existing. So the value of a non-living thing is social, beheld alike by many. Open: whether the opening says this as a line of its own, or line 22's *an other self's* carries it.
+None open.
 
 ## Resolved this pass
 
-- **An other existing thing.** Living selves have parity relations to non-living things; many prefer gold over lead. Line 21 stays, *an other existing thing*. Line 22 now holds both: *Each self is beholding its own parity with each other existing thing, now-existing: same-existing-as an other self's or not, its moral value with that thing.* With an other self, its parity; with gold, an other self's parity relative to gold. Gold beholds none.
+- **A non-living thing's value, with many.** It is not needed in the opening: the aim does not use it, and line 22's *an other self's* carries what it needs. It is laid at Natural Intelligence's offerings for 6.4 or 6.5 and Natural Values.
+- **Line 14.** *May or may not continue* is now *is or is not continuing*, the opening's own binary and an -ing.
 
 ## Tracking, prior line to this version
 
