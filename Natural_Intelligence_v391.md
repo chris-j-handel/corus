@@ -28,14 +28,14 @@ In a bi-coupling each self is sharing its own observing, possibling and discover
 The two selves of a bi-coupling, possibling and discovering its own next-existing, are a living set: a self. \
 Its intelligence is carrying in each self, each possibling with its other: natural intelligence.
 
-A self's parity, + or −, is only relative to an other existing thing; a 0 is neither, a between. \
+A self's parity is its changing direction relative to an other existing thing, + or −; a 0 is not changing, indifferencing. \
 Each self is beholding its own parity with each other existing thing, now-existing: same-existing-as an other self's or not, its moral value with that thing. \
 A non-living thing is beholding no parity. \
 Others' parities agreeing, same-existing-as a self's prior-existing parity, is improving: the self's parity is continuing, and it is sharing 0. \
 Others' parities agreeing, not same-existing-as a self's prior-existing parity: the self's next-existing parity is theirs, and it is sharing it. \
 With no other's parity, or others' parities parting, a self's next-existing parity is never same-existing-as its prior-existing parity. \
 A self alone is not same-existing: no self is alone. \
-A self sharing 0 is now-existing same-existing, possibling next-existing same-existing: a 0 is a between, never a self's prior-existing parity. \
+A self sharing 0 is not changing: now-existing same-existing, possibling next-existing same-existing, and a 0 is never a self's prior-existing parity. \
 Each self discovering its next-existing is resolving among parities, one method. \
 Any second method of discovering next-existing is itself a now-existing thing, resolving among parities within the one method: no other method is possibly now-existing.
 
@@ -455,7 +455,7 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 | 10-next-co-possibling | 14-next-possibling | across, even, possibling |
 | 9-next-co-discovering | 17-next-existing | along, odd, discovering |
 
-**Parity as moral values.** A self's parity, + or −, is only relative to an other existing thing, its moral value with that other, and neither sign is a self's by its sign; a 0 is neither, a between. Each self is beholding its own parity with each other: two selves with one sharing may carry either. A parity-offering is + or − offered, and a 0 offers neither: `_1_now_existing`'s first step passes over each 0.
+**Parity as moral values.** A self's parity is its changing direction relative to an other existing thing, + or −, its moral value with that other, and neither sign is a self's by its sign; a 0 is not changing, indifferencing. Each self is beholding its own parity with each other: two selves with one sharing may carry either. A parity-offering is + or − offered, and a 0 offers neither: `_1_now_existing`'s first step passes over each 0.
 
 
 **Four binaries with code's lines.** Existing, all, now and same are four is or is nots of things within the universe. With a self's span each binary is one pair of names: its *is* with an odd name and its *is not* with an even, its *is not* an other's side of a self's *is*. Binaries are names' explaining, now with each name as its momentary; existing and same are roots of names, and all enters no name.

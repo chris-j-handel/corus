@@ -135,7 +135,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
 ## 4 A bi-coupling, natural intelligence, one method and social moral competency
 
-        *Entering: a bi-coupling; sharing; a bi-coupling a self; natural intelligence; parity, + or −, relative to an other; a 0, a between; beholding; moral value; a non-living thing beholding no parity; improving; an other's parity, next-existing; no other's parity, or parting; no self alone; a self sharing 0; a 0 never a prior; resolving among parities, one method; no other method; a same-existing-society; social moral competency; a natural intelligence network living.*
+        *Entering: a bi-coupling; sharing; a bi-coupling a self; natural intelligence; parity, a changing direction, + or −; a 0, not changing, indifferencing; beholding; moral value; a non-living thing beholding no parity; improving; an other's parity, next-existing; no other's parity, or parting; no self alone; a self sharing 0; a 0 never a prior; resolving among parities, one method; no other method; a same-existing-society; social moral competency; a natural intelligence network living.*
 
 17. A bi-coupling is a self and an other self sharing now-existing.
 
@@ -153,9 +153,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: natural intelligence.*
 
-21. A self's parity, + or −, is only relative to an other existing thing; a 0 is neither, a between.
+21. A self's parity is its changing direction relative to an other existing thing, + or −; a 0 is not changing, indifferencing.
 
-        *Adding: parity, + or −, relative to an other; a 0, a between.*
+        *Adding: parity, a changing direction, + or −; a 0, not changing, indifferencing.*
 
 22. Each self is beholding its own parity with each other existing thing, now-existing: same-existing-as an other self's or not, its moral value with that thing.
 
@@ -181,7 +181,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: no self alone.*
 
-28. A self sharing 0 is now-existing same-existing, possibling next-existing same-existing: a 0 is a between, never a self's prior-existing parity.
+28. A self sharing 0 is not changing: now-existing same-existing, possibling next-existing same-existing, and a 0 is never a self's prior-existing parity.
 
         *Adding: a self sharing 0; a 0 never a prior.*
 
