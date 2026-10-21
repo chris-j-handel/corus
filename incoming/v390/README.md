@@ -28,7 +28,6 @@ Session v390's improving value, kept ready for a next session to resume. Nothing
 
 **Standing open for bothboth:**
 - Exhibit ONE's same-existing-society re-saying, its next its same self re-found as members part and join;
-- *supernatural* as over a self's natural boundedness;
 
 **Entered after pass 10, v390:** Natural Naming's fenced binaries; the Living File Registry's tables; every table wider than 80 narrowed to a list (`narrow_keys.py`); Natural Intelligence 6.5's non-living scale; vortex and lattice at the Ghost Registry's 7.3; Exhibit THIRTY carrying Natural Intelligence's opening word for word as its steps 1 to 47 (`thirty_opening_build.py`), checked with check_set.
 
