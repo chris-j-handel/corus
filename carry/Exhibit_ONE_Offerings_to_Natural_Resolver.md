@@ -227,16 +227,16 @@ Session v391 read Exhibit ONE whole against Natural Explaining, Natural Naming, 
 
 **Droplet · a sample beside an all.** The keys of *A spiral of selves*, *Two spirals* and *A torus of selves* say a rule for all, over 13, 8 and 11 rows; each rule held when run over its stated range. Offered: each key says its rule with its executed range, as *A torus of selves* does, and rows stand as its forms. *Two spirals … crossed* leaves equal odd numbers unsaid within its range: 3 · 3 comes to its parity-offerings again with 5, not 2. — v391, checked by running the code
 
-## Carved bothboth at v391 · v391
+## Suggested at v391 · v391
 
-Carved bothboth at v391 and laid whole at Natural Intelligence's offerings, *Carved bothboth at v391, from the v391 concerns*. Two concern Exhibit ONE most:
+Suggested at v391 and laid whole at Natural Intelligence's offerings, *Suggested at v391, from the v391 concerns*, with their rigor at *Met with rigor at v391*. Two concern Exhibit ONE most:
 
 - **One route.** Each of 6, 10 and 9 arrives with a receiving self's 14-next-possibling, its next 2-now-possibling. The drawing, *Sharing between selves* and the code list are to say the route the code runs.
 - **Its purpose and place.** Exhibit ONE is inside Natural Intelligence, and it is a separate exhibit, a reference resource for pattern-matching natural torusing society, used with each incoming science explaining or observing. It is not possibly entirely self-explaining. Each passage is to be met with one binary: Exhibit ONE, Natural Intelligence, or the living file whose subject it is. — v391
 
 ## Placed at v391: each passage, Exhibit ONE, Natural Intelligence or elsewhere · v391
 
-A fresh reader met each of Exhibit ONE's 56 passages with the binary carved at v391, grepping the set for each form's use. The reading is whole at `incoming/v391/readers/exhibit_one_placement.json`. Nothing is entered.
+A fresh reader met each of Exhibit ONE's 56 passages with the binary suggested at v391, grepping the set for each form's use. The reading is whole at `incoming/v391/readers/exhibit_one_placement.json`. Nothing is entered.
 
 **Droplet · where each passage belongs.**
 

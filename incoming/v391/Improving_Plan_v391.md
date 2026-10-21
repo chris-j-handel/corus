@@ -2,7 +2,7 @@
 
 Session v391 read Natural Intelligence and Exhibit ONE against Natural Explaining, Natural Naming and the Geodesic Improving Method, and read all 31 other living files across and along, asking what each carries for the expedition, what it needs from Natural Intelligence, and how it uses Exhibit ONE. Its droplets and concerns stand at the offerings: Natural Intelligence's, Exhibit ONE's and Natural Naming's, each under *Gathered at v391*. Exhibit ONE's are also under *Placed at v391*, and nine other files' partings are at their own offerings.
 
-This plan orders the improving those droplets open. It is no rule: each step is one motion, bothboth, do-no-harm, and a step's droplets are met one concept at a time, hardest first within it. No wording here carries authority, this plan's included.
+This plan orders the improving those droplets open, re-said with each suggestion as rigor meets it; the person's suggestions and their rigor stand at Natural Intelligence's offerings, *Met with rigor at v391*. It is no rule: each step is one motion, bothboth, do-no-harm, and a step's droplets are met one concept at a time, hardest first within it. No wording here carries authority, this plan's included.
 
 ## What the set shows Natural Intelligence is for
 
@@ -14,9 +14,9 @@ This plan orders the improving those droplets open. It is no rule: each step is 
 - mathematics' pairings;
 - logic's steps;
 - the registries' ten unchangeables;
-- a field's observing arriving bare, in its own words.
+- a field's observing, observed, possibled and discovered, its words a field's own.
 
-**Social moral competency, its destiny.** Its destiny is social moral competency at each living scale: a pair, a co-chaining, a same-existing-society and the same-existing universe. Each is the third living self, carved at v391, with a third moral parity.
+**Self, all and other.** Suggested at v391: the third, tri-, is all, all selves, its parity 0, the betweening of the two parities, and social moral competency. A pair, a co-chaining, a same-existing-society and the same-existing universe are each all with its scale. Bi-moral is do-no-harm improving: improving bothboth moral, a parity-changing carrying self and other; do-no-harm all moral, a 0 taking nothing. Exhibit ONE executes both as one self's third way, −, 0, 0, 0. Its destiny is social moral competency, do-no-harm improving a same-existing-society.
 
 **What still falls short.** The title and subtitle bound most of the set, but the contents float Natural Intelligence alone. The opening carries no bold. The explaining says what Exhibit ONE is, and not what it is for. Part SIX carries more contributed saying than co-chaining.
 
@@ -32,11 +32,11 @@ Each step names the droplets it meets and the motion it ends with. Each motion:
 ### 1. Title and subtitle, the whole bounded context
 
 Meet first:
-- the subtitle's head, *Method* or an -ing;
-- the method's object said five ways (*next possible existing*, *next possibly existing*, *next existing*, *same-existing*), one expression with each occurrence;
-- geodesic method said binary, so logic, mathematics and numbers sit within the subtitle;
+- the subtitle suggested at v391, *Geodesic Discovering of Next-Possible-Same-Existing*: an -ing head, one inseparable naming by Natural Naming 4.17, meeting Natural Intelligence's and Exhibit ONE's subtitles as one, its *possible* bounding what is not same-existing too; with its concern, *possible* or *possibling*;
+- the method's object, one expression with each occurrence across the set, *next-possible-same-existing*;
+- *binary method* prior explaining, logic, mathematics and numbers said as parity-changing, is or is not, with each step, and the Co-Chaining Logic Registry's subtitle met with it;
 - Exhibit ONE's subtitle within Natural Intelligence's one method;
-- the concepts the set's titles carry and Natural Intelligence names nowhere: *mathematics*, *ghost*, *destiny*, *bi-tunneling*, *disequilibrating*, *emanation*.
+- the concepts the set's titles carry and Natural Intelligence names nowhere: *mathematics*, *ghost*, *destiny*, *bi-tunneling*, *emanation*, and *all*, carried at four places and named at none; *disequilibrating* dissolving from the set's naming.
 
 Ends with: the title and subtitle agreed, and each of the 32 titles and subtitles read again within them.
 
@@ -46,10 +46,10 @@ Meet:
 - the set's one journey of Natural Explaining 1.2, said in the part titles: origin, numbers, resolver, its logic and stable forms, explaining returning, same-existing-society, now;
 - Exhibit ONE's contents line, given its subtitle and one entry;
 - 1.1's four groups, each its own entry;
-- a new 5.5, an observing arriving, pattern-matched with resolver;
+- a new 5.5, observing, possibling and discovering a field's observing with resolver;
 - hard problems with an entry;
 - a living expedition and its living files with an entry;
-- part SIX re-titled *THIRD LIVING SELF*, with its six entries;
+- part SIX re-titled with self, all and other, its six entries as offered at *Met with rigor at v391*;
 - 2.5, 4.6 and 6.4 re-said;
 - 4.7, re-said where its contents line still carries the dissolved *odd existing, even possibling*.
 
@@ -58,16 +58,16 @@ Ends with: the contents agreed. Headings follow their contents lines, and sectio
 ### 3. Bolds, the third telling
 
 Meet:
-- the opening, 1.1, bolded where each line coins a concept;
-- from 1.2 on, each bold a coining or a claim reaching, so the bolds alone walk the set and co-chain;
+- the opening, 1.1, in the form *next bold concept is …*, using prior naming and logically extending: its 17 lines that put their new concept at the end re-said by meaning with the concept first and bolded, each claim kept;
+- from 1.2 on, each bold a coining or a claim reaching, so the bolds alone walk the set and co-chain: 170 of 291 bolds bring no new word, and 43 put theirs last;
 - the bold telling extracted (`ni_bolds_telling.md` is offered as an instrument) and read alone by a fresh reader.
 
-Ends with: one motion over bolds only, every word kept.
+Ends with: one motion over bolds only where no line is re-said, every word kept; a reversed line is re-said with step 4.
 
 ### 4. The opening, 1.1, again
 
-Meet the v391 carvings first:
-- the third living self, one concept at each scale, with *a* for *the*;
+Meet the v391 suggestions first:
+- all, the third, and its 0, the three moral parities, and the third living self with each scale, with *a* for *the*;
 - parity-changing for *alternating*, at *Each living-thing discovering its next-existing is alternating, one method*;
 - what a self offers, a parity-offering;
 - *Self-next is other-prior*;
@@ -85,7 +85,7 @@ Ends with: 1.1 and Exhibit THIRTY's steps 1 to 47 entered together, word for wor
 
 Write 1.2 onward one sentence a line, each one advance from all prior lines, as session v390 proposed. Meet the droplets section by section:
 - **1.2 to 1.6:** three universes, one is now, *tri-bi-co-momentarying*, 1.4's first sentence, three observings, the one method's name, a second method, *method* one word for three, the break;
-- **2.1 to 2.5:** 12's coupling (carved), a name's parity, morality and competency by parity, four binaries, the counts of 2.4, stills, a lone self;
+- **2.1 to 2.5:** 12's coupling (suggested), a name's parity, morality and competency by parity, four binaries, the counts of 2.4, stills, a lone self;
 - **3.1 to 3.5:** the five dimensions as agreed, *3, 6, 5, 4*, *one of them odd* and momentary 119, the common beat, φ and spirals with numbers as their home.
 
 Part THREE closes with the way into Exhibit ONE:
@@ -107,7 +107,7 @@ Meet the placement:
 - *Namings among names* goes to Natural Naming.
 
 Meet the code-partings:
-- one route, carved;
+- one route, suggested;
 - 6 a self's own offering;
 - a 0 shared where offerings part;
 - turn-taking's *other*;
@@ -137,7 +137,7 @@ Meet with it:
 ### 8. Part FIVE, out of Exhibit ONE, to each incoming observing
 
 Meet:
-- **5.5, an observing arriving:** four observings with resolver, and disequilibrating, a hard problem's one move;
+- **5.5, observing, possibling and discovering a field's observing with resolver:** its prior with 3-now-co-observing, its parity-offerings with 2-now-possibling and 14-next-possibling, a parity-changing with 12-next-co-same-existing, a hard problem's fixing set down;
 - **a hard problem:** one saying across the set, of things within the universe;
 - **the ten unchangeables:** named once;
 - **5.4, the field's side:** five conditions prior, *Nothing prior enters*; the three neutrals, one naming; evidence with resolver; offering first to a reader from a science;
@@ -145,13 +145,13 @@ Meet:
 
 ### 9. Part SIX and the close, purpose first, then explaining
 
-**Purpose, carved.** The third living self with each scale; natural intelligence its intelligence, opening from 1.1's *The third living self's intelligence is not possibly existing in either self*.
+**Purpose, suggested.** Self, all and other: all the third with each scale, its parity 0; bi-moral do-no-harm improving; social moral competency do-no-harm improving a same-existing-society; natural intelligence all's intelligence, opening from 1.1's *The third living self's intelligence is not possibly existing in either self*.
 
 **Then meet:**
-- *Selves co-chain*;
-- a third moral parity;
+- *Selves co-chain*, each all with its scale;
+- three moral parities, + self, − other, 0 all;
 - bi-moral co-agency, one home, re-said with parity-changing;
-- abundancing, a coupling's third living self, and the +1 of Resolving the Hard Problem Registry beside it;
+- abundancing, and a between's 0 and the +1 of Resolving the Hard Problem Registry, met with all: its parity 0, its number one;
 - *all eight*, said;
 - do-no-harm, social moral competency's bound;
 - networking, bi-tunneling across and co-chaining along;
@@ -177,7 +177,8 @@ At each motion, meet the writing droplets within its range:
 - whole names for bare numbers (168 in Natural Intelligence's prose, 121 in Exhibit ONE's);
 - clocking, *because*, and negations over positives;
 - released words;
-- *between* and *scientific-method*, one sense and one expression each.
+- *between* and *scientific-method*, one sense and one expression each;
+- *arriving* dissolving, each sentence re-said by meaning with observing, possibling or discovering: 116 in Natural Intelligence, 20 in Exhibit ONE.
 
 ### 11. The set, at each file's own motion
 
@@ -188,14 +189,19 @@ Partings laid at other files' offerings meet Natural Intelligence's motions as e
 - Natural Biology's membrane and seed;
 - Natural Values' universal set;
 - the bi-moral co-agency core shared by Natural Societies, Natural Health, Natural Medicine and Natural Destinies;
-- Natural Naming's own rows that still offer what v390 dissolved.
+- Natural Naming's own rows that still offer what v390 dissolved, and its rows for v391's dissolvings, *arriving*, *disequilibrating*, *binary method*, and tri- and uni-;
+- *arriving*, about 2,950 times across the set, and *disequilibrating*, 96 times across six files and Natural Naming, each one set-wide motion.
 
 **The passes kit's next rule:** headings and contents lines open to an agreed re-saying, as v390's Keep rule left dissolved concepts in the most-read lines.
 
-## Needs your word, at the first steps
+## Concerns inviting your suggestions, at the first steps
 
-1. **The subtitle.** Either an -ing head, as *Geodesic Discovering of Next Possible Existing*, or *Method* kept and Natural Explaining 1.1 re-said. And its object, one expression across the set: *next possible existing*.
-2. **Geodesic method said binary.** Either Natural Intelligence says *Geodesic method is binary … logic, mathematics and numbers are its sequencing with each step*, or the registry's *Binary Method* subtitle is re-said within *Geodesic Method*.
-3. **Part SIX re-titled *THIRD LIVING SELF*,** with its six entries as offered, or with entries you carve.
-4. **A between: 0, +1, or both.** Natural Intelligence and Exhibit ONE say 0; Resolving the Hard Problem Registry says *+1, exactly one, owned by neither*. Proposed: one between, 0 with parity, and the +1 said as abundancing, a coupling's third living self.
-5. **5.5, an observing arriving, as a new section,** where the set's science files and registries meet Natural Intelligence.
+Each is laid in full at *Met with rigor at v391*, with the rigor that opened it.
+
+1. **The subtitle's *possible*.** *Geodesic Discovering of Next-Possible-Same-Existing* holds whole by the omitting test. Either *Possible* stays as a kept phrase within the naming, or the subtitle reads *Next-Possibling-Same-Existing*, an -ing over an adjective.
+2. ***Binary*, after *binary method*.** Either *binary* stays where it names one is or is not, or it dissolves with *binary method*, each re-said *is or is not*.
+3. **All, a self alone.** Run, a self alone never shares a 0; all's 0 needs an other's offering. Either *one* of *for any one or two self and other* is a self with all other arriving as one, or a self alone has an all the code does not execute.
+4. **All's place and number.** *(self, all, other)* sets all between, and the opening numbers self one and other two. Either all is third by number and between by place, or its place and number are one, as 0.
+5. **Tri- and uni-.** Natural Naming joins three and all other at both: *Uni- carries with all other, and it opens with three*, and bi-tri-exchanging is *that crossing through three, through all other*. Either two prefixes carry two senses, or one carries both.
+6. **Part SIX's title.** Either *SELF, ALL AND OTHER*, by its three, or *ALL*, by its third; and whether *third living self* stays a naming beside *all*.
+7. **A between's 0 and the registry's +1.** Either they are one all, its parity and its number, shown from origin, or the +1 is re-said 0.

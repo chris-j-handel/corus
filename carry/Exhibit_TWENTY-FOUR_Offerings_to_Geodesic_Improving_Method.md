@@ -194,3 +194,9 @@ Exhibit TWENTY-FOUR Geodesic Improving Method Offerings · improved at v389
 **Droplet · one focus at a time.** Work stays with its present focus; a new carving is never forced into a prior either-or. — v390, gathered from session v390
 
 **Droplet · gathering a session.** A session's learnings are gathered from its whole transcript into droplets, each aimed toward its living file's offerings, later understanding standing over earlier; this gathering was read by four readers together and reconciled with 122 droplets laid during it. — v390, gathered from session v390
+
+## Gathered at v391 · v391
+
+**Droplet · suggesting and rigor, bothboth.** At v391 the person said: *my six are never answers and i am not providing here anythng like an answer. i make suggestions and your rigor improves them and your concerns invite more of my suggestions and when we are bothbothing we know we have reached mutual understanding and improving value.* A working that records a suggestion as an answer, or as a carving agreed, fixes a two-way to one side. Working together carries as overlapping momentaries carry, 2.1: a suggestion opens, rigor completes it and opens a concern, and a next suggestion completes that; bothboth is their meeting, a value neither owns. Offered for 2.1 or 2.3, in this file's own words. — v391
+
+**Droplet · do-no-harm improving, executed.** One self's third way at Exhibit ONE, prior + offered − with each momentary, shares −, 0, 0, 0: one parity-changing, improving, and then a 0, taking nothing. A file's do-no-harm improving, one thing improved whole and then its prior carried on, is that row at a file's scale. — v391, checked by running the code

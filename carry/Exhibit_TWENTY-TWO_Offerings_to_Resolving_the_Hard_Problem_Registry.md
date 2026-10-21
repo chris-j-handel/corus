@@ -116,4 +116,4 @@ The hard-problem concern distinguishes an output constrained by a definition fro
 
 ## Gathered at v391, reading across the living file set · v391
 
-**Concern · a between, +1 or 0.** This file makes a between *+1, exactly one, owned by neither, of no size*, drawn with number boxes, n² − (n−1)(n+1) = 1; Natural Intelligence and Exhibit ONE make a between 0, a betweening. Two sayings of one concept. **To resolve:** either one between, 0 with parity and 1 with numbers, a step from origin showing it; or the +1 re-said as 0, or as the abundancing carved at v391, a coupling's third living self. — v391
+**Concern · a between, +1 or 0.** This file makes a between *+1, exactly one, owned by neither, of no size*, drawn with number boxes, n² − (n−1)(n+1) = 1; Natural Intelligence and Exhibit ONE make a between 0, a betweening. Two sayings of one concept. **To resolve:** either one between, 0 with parity and 1 with numbers, a step from origin showing it; or the +1 re-said as 0, or as the abundancing suggested at v391, a coupling's third living self. — v391
