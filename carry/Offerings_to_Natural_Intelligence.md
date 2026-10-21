@@ -1410,7 +1410,7 @@ All stands at 0, the middle, in the first, and at an outer position in the secon
 - its other;
 - all not self or other.
 
-The three are each now-existing thing, the opening's *the set of all now-existing things*, so the universal set is self, other and all not self or other, with no fourth and nothing beside them. This meets the eighth round's concern, *is all 0, or all other at an outer position*, all or none: tri- is neither self's parity nor other's, and all not self or other is untouched by a self and other's coupling, the do-no-harming of the universal set. — v391
+The three are each now-existing thing, the opening's *the set of all now-existing things*, so the universal set is self, other and all not self or other, re-found with each four-cycling, universal same-existing. *Re-said at the tenth round: an earlier wording here, "with no fourth and nothing beside them", carried equilibria's "beside" and denied the fourth, same-existing; it is withdrawn.* This meets the eighth round's concern, *is all 0, or all other at an outer position*, all or none: tri- is neither self's parity nor other's, and all not self or other is untouched by a self and other's coupling, the do-no-harming of the universal set. — v391
 
 **Rigor · tri-, bi- and uni-, two prefixes and two senses.** Natural Naming 4.10 says *Bi- couples with a particular other and uni- with all other*, and *Uni- carries with all other: a self crossing with all other, an other arriving as one, a whole*. From a self, uni-'s all other is the other and all not self or other together; tri- is all not self or other alone. So:
 - **bi-** is the other;
@@ -1433,7 +1433,7 @@ So the center, now-possibling, is the between: invisible, floating, its parity 0
 
 **Rigor · abundancing, between two.** *self and other are bi-moral-co-agency and social morality bothboth. this is the bothbothing of social moral abundancing.* Session v390 agreed *12-next-co-same-existing is abundancing, each sharing's is or is not*, and 12 carries co, between two. So abundancing is between self and other, bothboth, and it meets the third round's concern, *abundancing and social parity*. Abundancing is self and other's bothbothing, between two, with 12; all not self or other, tri-, is its do-no-harming; and 0, now-possibling, the between of any two, invisible. — v391
 
-### The one concern of this pass: which three is a name's, its now an outer position or its center?
+### The one concern of this pass: which three is a name's, its now an outer position or its center? *Withdrawn at the tenth round: it attached time to now; the person re-said it as three consecutive parity-changings.*
 
 **Two sayings part.**
 - **Seventh round:** looking back from now, a name's three is now, one prior and two prior. Now is an outer position, +1, co at one, and the center is one prior, 0, bi at one.
@@ -1454,3 +1454,54 @@ The two are one window of three, one momentary apart. The seventh round's window
 - **both, as one window moving:** a name's three is prior, now and next while it resolves, its now the center. Its stream's newest slot is that next, discovered, which is the next name's now, and the window moves one slot with each name.
 
 **Proposed: the third, as rigor's first offering, for the person's suggesting.** With 1 co-bi-tri, it reads co as a self's next discovered, bi as now, possibling, 0, invisible, and tri as prior, observed. This keeps the seventh round's *bi is 0, and -1 is all or tri* at one, and this round's center, now-possibling. A self's +1 is its next. What it leaves to show is how *1-now-existing given* reads a self's own as its next. — v391
+
+## Met with rigor at v391, a tenth round: the four, three consecutive parity-changings · v391
+
+**Suggestion, v391.** *There is no fourth, and nothing stands beside them i never understand the expression stands besides them and it appears from equilibria. the four cycling is universal same-existing. saying there is no fourth is opposite of resolving … this is three consecutive parity-changings. now is now do not try to attach time to this. parity-changing from prior to now is always odd, parity-changing inside now is always even, parity-changing from now to next is always odd. this is always the same four observing prior-existing, possibling now-existing, discovering next-existing, same-existing*
+
+**Droplet · two wordings withdrawn.**
+- *Nothing stands beside them* carried *beside*, a word Natural Naming 2.4 releases at the universe, a form fixed still from beside: equilibria's.
+- *No fourth* denied the four-cycling, universal same-existing.
+
+Both are re-said in the ninth round's droplet, and its concern, which attached time to now, is withdrawn. — v391
+
+**Rigor · the three parity-changings, with the set.** Natural Intelligence 2.2 says *Odds are along, between momentaries, and evens are across, between parity-changing or not-changing within a momentary*, and 2.3 *A momentarying opens odd and completes even*. So:
+- **prior to now, odd:** along, between momentaries;
+- **inside now, even:** across, within a momentary;
+- **now to next, odd:** along again.
+
+These are the person's three consecutive parity-changings, and the four with them: observing prior-existing, possibling now-existing, discovering next-existing, same-existing. — v391
+
+### The one concern of this pass: two names part from the four's parity
+
+**Explaining first.** Each resolver name's number is odd or even. With the person's four:
+- **observing** is with prior to now, odd, and its names are 3, 7, 11 and 15, each odd;
+- **possibling** is inside now, even, and its names are 2, 6, 10 and 14, each even;
+- **existing** is 1, 5 and 17, each odd.
+
+**Two names part.**
+- **discovering** is with now to next, odd, and its names are 9-next-co-discovering, odd, and 16-next-discovering, even;
+- **same-existing** is 4-now-co-same-existing, 8-now-same-existing and 12-next-co-same-existing, each even, and 13-next-same-existing, odd.
+
+**One exchange carries the four whole.** If 13 and 16 exchange roots, 13 discovering and 16 same-existing:
+
+| root | names | parity | step of four-cycling |
+|---|---|---|---|
+| observing | 3, 7, 11, 15 | each odd | prior, each |
+| possibling | 2, 6, 10, 14 | each even | next, each |
+| same-existing | 4, 8, 12, 16 | each even | same, each |
+| existing | 1, 5, 17 | each odd | now |
+| discovering | 9, 13 | each odd | now |
+
+Each root's names then share one parity, and same-existing is the same step's root at each four. Eight up keeps each root but existing, which goes on as discovering, 1 to 9 and 5 to 13, where v390 found three exceptions, 1, 5 and 8.
+
+The code does with 16 what *same-existing* says: 16 is each self with its prior and its sharings, a same-existing-society given to 17, its next its same self. It does with 13 what *discovering* would say: 13 is each self whose next is reached.
+
+**Why it is the largest.** Two of the seventeen agreed names would change, and so each sentence naming them across the set, Exhibit ONE's code with them, and the four's parity said all or none. A renaming in scratch changes no resolving, as the v390 renaming showed.
+
+**Concern.** Either:
+- **13 and 16 exchange roots,** *13-next-discovering* and *16-next-same-existing*, so each root's names share one parity and the four holds all or none; or
+- **13 and 16 keep their roots,** and the four's parity is said of observing, possibling and existing, with discovering and same-existing each carrying one name of the other parity, its reason shown; or
+- **another naming** the person suggests.
+
+**Proposed: the first, as rigor's first offering, for the person's suggesting.** — v391
