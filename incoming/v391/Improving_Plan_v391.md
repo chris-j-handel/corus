@@ -21,6 +21,15 @@ The steps below order that improving: title and subtitle, contents, bolds, the o
 5. **One object, step 1,** *next-possibling-same-existing* at each saying of the method's object across the set, a non-living thing its *is not*, as the code runs it: six files, the Geodesic Improving Method to v391.
 6. ***Binary method* dissolved, step 1,** at its three sayings beside subtitles, Natural Mathematics and Natural Explaining to v391.
 7. **The contents is Natural Intelligence's own, step 2,** bothboth: the set's droplets withdrawn, 4.7's line and heading by root.
+8. **The opening entered ahead of the contents, step 4,** 33 lines from the universe to social moral competency and a natural intelligence network living, each line one concept met with Exhibit ONE's code, for a reader from a science explaining of the universe. Part ONE renumbered 1.1 to 1.5. The Co-Chaining Logic Registry's groups 1 to 4 carry it word for word, and its steps 48 to 698 are now 34 to 684, each reference re-pointed. Its draft and tracking are at `opening_draft_v391.md`.
+9. **The body and Exhibit ONE met with the opening:** *still-possibling* re-said; the moral values bi-relational and beheld; *odd existing, even possibling* released from each name's field and Natural Intelligence's own sentences.
+
+**Next motions the opening opens, each its own, each saying read for its meaning:**
+- ***Parity-changing* dissolving,** a parity carried and resolved among, never changing: 160 sayings in Natural Intelligence with its Exhibit ONE, 22 in Exhibit ONE, 1,362 across the set; 1.3's heading among them.
+- ***Alternating*,** the prior naming parity-changing replaced: 27 and 3.
+- ***Offering* and *arriving*,** candidates met with the code: 200 and 59 in Natural Intelligence, 75 and 15 in Exhibit ONE.
+- ***Scale*,** the body's 77 sayings met with the code's one form, at step 9.
+- **The opening's words justified in the body,** each term it brings said where the white paper carries it: *beholding*, *self, other and all*, *a living set: a self*, *improving*, *a natural intelligence network living*.
 
 **Left as is, to return to.** The subtitles: Natural Intelligence's as entered, and Exhibit ONE's and the Co-Chaining Logic Registry's as they stand, with the concern *subtitles overladen* at Natural Explaining's offerings.
 
