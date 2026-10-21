@@ -197,7 +197,7 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 | 10-next-co-possibling | 14-next-possibling | across, even, possibling |
 | 9-next-co-discovering | 17-next-existing | along, odd, discovering |
 
-**Parity as moral values.** A self's parity is its changing direction relative to an other existing thing, + or −, its moral value with that other, and neither sign is a self's by its sign; a 0 is not changing, indifferencing. Each self is beholding its own parity with each other: two selves with one sharing may carry either. A parity-offering is + or − offered, and a 0 offers neither: `_1_now_existing`'s first step passes over each 0.
+**Parity as moral values.** A self's parity is its changing direction relative to an other existing thing, + or −, its moral value with that other, and neither sign is a self's by its sign; a 0 is not changing, a between of two changing directions: indifferencing. Each self is beholding its own parity with each other: two selves with one sharing may carry either. A parity-offering is + or − offered, and a 0 offers neither: `_1_now_existing`'s first step passes over each 0.
 
 
 **Four binaries with code's lines.** Existing, all, now and same are four is or is nots of things within the universe. With a self's span each binary is one pair of names: its *is* with an odd name and its *is not* with an even, its *is not* an other's side of a self's *is*. Binaries are names' explaining, now with each name as its momentary; existing and same are roots of names, and all enters no name.
