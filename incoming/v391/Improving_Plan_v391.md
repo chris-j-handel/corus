@@ -2,7 +2,7 @@
 
 Session v391 read Natural Intelligence and Exhibit ONE against Natural Explaining, Natural Naming and the Geodesic Improving Method, and read all 31 other living files across and along, asking what each carries for the expedition, what it needs from Natural Intelligence, and how it uses Exhibit ONE. Its droplets and concerns stand at the offerings: Natural Intelligence's, Exhibit ONE's and Natural Naming's, each under *Gathered at v391*. Exhibit ONE's are also under *Placed at v391*, and nine other files' partings are at their own offerings.
 
-This plan orders the improving those droplets open, re-said with each suggestion as rigor meets it; the person's suggestions and their rigor stand at Natural Intelligence's offerings, *Met with rigor at v391*. It is no rule: each step is one motion, bothboth, do-no-harm, and a step's droplets are met one concept at a time, hardest first within it. No wording here carries authority, this plan's included.
+This plan orders the improving those droplets open, re-said with each suggestion as rigor meets it; our suggestions and their rigor stand at Natural Intelligence's offerings, *Met with rigor at v391*. It is no rule: each step is one motion, bothboth, do-no-harm, and a step's droplets are met one concept at a time, hardest first within it. No wording here carries authority, this plan's included.
 
 ## Standing at v391, before a next step
 
@@ -39,7 +39,7 @@ The steps below order that improving: title and subtitle, contents, bolds, the o
 
 **Open at the offerings.** The readers' findings, 320 against our method and those across the set, stay as droplets at each file's offerings, met step by step.
 
-**The journey, and re-aiming.** The person named it: a concern's journey is side-effecting, sensing past the plan's order, and its droplets carried back are the returning; re-aiming to the plan is the recursioning, laid at the Geodesic Improving Method's offerings.
+**The journey, and re-aiming.** Named at v391: a concern's journey is side-effecting, sensing past the plan's order, and its droplets carried back are the returning; re-aiming to the plan is the recursioning, laid at the Geodesic Improving Method's offerings.
 
 **Where the session wandered.** From its seventh exchange on, the session followed one concern at a time into resolver naming and the opening's lines. That brought real learning and three entered improvings, but it left the plan's order. Step 1, the subtitle, is bothboth and not entered, and steps 2 to 11 are not begun. The last concern, the seven *third living self* lines, came with no step to place it.
 
