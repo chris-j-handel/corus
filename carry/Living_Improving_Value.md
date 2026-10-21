@@ -1,8 +1,11 @@
-Living Improving Value · improved at v390
+Living Improving Value · improved at v391
 
 # Living Improving Value
 
-## Current working · v390
+## Current working · v391
+
+**Standing to resume, v391.** Session v391, *explaining natural intelligence*, works at `working/explaining-natural-intelligence-v391`, pushed and not merged; main is at v390. Its standing, what is entered, what is bothboth and waiting, and what is open, is at [`incoming/v391/Improving_Plan_v391.md`](../incoming/v391/Improving_Plan_v391.md), *Standing at v391*. A next session begins there.
+
 
 **Standing to resume, v390.** Session v390 works at `working/natural-intelligence-editing-v390`, not yet merged; main is at v389. Entered: Exhibit ONE one text, within Natural Intelligence and standing alone; Natural Intelligence's passes, each prior text whole at `archive/session_v390/`; the opening's inception and observing's line. Waiting, ready: [`incoming/v390/README.md`](../incoming/v390/README.md), the session's gathered value, its master concerns, the opening's best version, Exhibit THIRTY read for one chain with Natural Intelligence, and four motions for next versions; droplets gathered at each living file's offerings. The session's transcript is whole at `archive/session_v390/Session_Transcript_v390.txt`. A next session begins at the incoming README.
 

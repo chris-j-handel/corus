@@ -394,6 +394,11 @@ Each entry: **Working** · *a* Session · *b* At the files · *c* Branch · *d* 
   - *b* Carrying's sections at each living file, twinning, conception, light, genome size, ageing and disease at a society's joins, societies bi-coupling and ingesting, and field's probability parted from its observings; its report, Part One and Part Two, at `incoming/genome_duplication_v374/`, Part Two brought whole from `working/session-report-part-two-v374` at v376, and its tour released at v376 to `archive/genome_duplication_v374/`
   - *c* `working/genome-duplication-v374`, merged at main at v375
   - *d* its incoming at each file's section and at pass J of plan, each entering at its file's motion, one file at a time, for both
+- **Explaining natural intelligence, session v391**
+  - *a* v391
+  - *b* Natural Intelligence and Exhibit ONE read against the method and across the set, droplets and suggestions met with rigor at their offerings; entered: 13-next-discovering and 16-next-same-existing at twelve living files, the opening's three phase lines with Exhibit THIRTY, four-cycling named by root at four files; Living File Registry at its entries
+  - *c* `working/explaining-natural-intelligence-v391`
+  - *d* Open, pushed, not merged at `main`; its standing and plan at `incoming/v391/`
 
 **A carrying has one place, and forms of carrying stand within their folders.** Session reports, wraps, crossing notes and kit-learning narratives are incoming until their unique value is received with a living file or with carrying, and each is then an artifact whole within `archive/`, its receiving identified.
 

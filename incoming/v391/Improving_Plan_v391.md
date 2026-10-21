@@ -4,6 +4,49 @@ Session v391 read Natural Intelligence and Exhibit ONE against Natural Explainin
 
 This plan orders the improving those droplets open, re-said with each suggestion as rigor meets it; the person's suggestions and their rigor stand at Natural Intelligence's offerings, *Met with rigor at v391*. It is no rule: each step is one motion, bothboth, do-no-harm, and a step's droplets are met one concept at a time, hardest first within it. No wording here carries authority, this plan's included.
 
+## Standing at v391, before a next step
+
+**Where we are aiming.** Natural Intelligence is to be the whole bounded context of the living file set.
+- Its title and subtitle bound the set, its contents float the set, and its bold concepts carry the set.
+- Its explaining carries a reader into, through and out of Exhibit ONE, and out to every living file.
+- Exhibit ONE stays inside it, and also a separate exhibit: a reference resource for pattern-matching natural torusing society, used with each science observing arriving.
+
+The steps below order that improving: title and subtitle, contents, bolds, the opening, into, through and out of Exhibit ONE, and part SIX and the close.
+
+**Entered in the living files this session.** Each is bothboth, its prior archived whole, its registry entry before its record, and check_set passing.
+1. **13 and 16 exchange roots,** 13-next-discovering and 16-next-same-existing, so each root's names share one parity, across twelve files, the code resolving identically.
+2. **The opening's three phase lines,** with Exhibit THIRTY's steps 13 to 15: *Observing is prior-existing …*, *Possibling is now-existing …*, *Discovering is next-existing …*, each *is or is not same-existing-as now-existing*.
+3. **Four-cycling named by root, no time,** in Exhibit ONE's tables, Natural Naming's table and the sentences saying a name's step.
+
+**Bothboth and waiting to enter.**
+- **The subtitle,** *Geodesic Discovering of Next-Possibling-Same-Existing*: step 1 below.
+- ***Binary* stays,** and *binary method* dissolves as the method's naming: step 1.
+- **The code's operation is the all or none,** and explaining and naming improve toward it: each step.
+- **12's coupling,** a single observing's next its parity: step 5, at 2.4.
+- **One route,** 6, 10 and 9 each to a receiving self's 14: step 6, Exhibit ONE's drawing and tables.
+- **The prefix stream,** the six *co bi tri bi co bi*, 1 given co-bi-tri, 1 like 17: carried, for the naming of prefixes.
+
+**Learnings laid at the offerings,** suggestions met with rigor, each to enter where its step reaches it:
+- **Self, other, all not self or other.** The universal set from any self and other; tri- is all not self or other; bi- the other; uni- both.
+- **Parity between two.** Three pairs of the three, their parity-changing social bi-moral-co-agency.
+- **0 always the between.** It moves with each parity-changing. Social parity is invisible and carried in selves, with no record, as the code runs it.
+- **Same-existing is carrying.** It is in each of observing, possibling and discovering, then alone; 0, 1, 2, 3 as self same-existing, self now-existing, other prior-existing and universe next-existing.
+- **Dissolving:** *offering*, *arriving*, *disequilibrating*, *third*, *alone* and *+1 owned by neither*, each re-said by meaning at its file's motion.
+
+**Open at the offerings.** The readers' findings, 320 against our method and those across the set, stay as droplets at each file's offerings, met step by step.
+
+**Where the session wandered.** From its seventh exchange on, the session followed one concern at a time into resolver naming and the opening's lines. That brought real learning and three entered improvings, but it left the plan's order. Step 1, the subtitle, is bothboth and not entered, and steps 2 to 11 are not begun. The last concern, the seven *third living self* lines, came with no step to place it.
+
+**Next, offered.** Return to the plan in its order, each pass naming its step and where its concern sits:
+- **Step 1.** Enter the subtitle and *binary*, at Natural Intelligence's front and the subtitles meeting it.
+- **Step 2.** The contents: what the set's titles need from Natural Intelligence's contents, with self, other and all, and the learnings above, as their entries.
+
+**Carrying, kits and incoming.**
+- **Carrying.** Living Improving Value's front names this working, and the Living File Registry's table of workings names it.
+- **Kits.** `bump_to_version.py`, `cohere_one.py` and `thirty_groups_check.py` each carry a lag laid at the Living File Registry's offerings, and `carry_check.py` does not yet read the carrying's present shape.
+- **Incoming.** `incoming/v390/` is not yet archived.
+- **Session Record.** It takes this session's paragraphs at its close.
+
 ## What the set shows Natural Intelligence is for
 
 **The method, offered whole.** Natural Intelligence is the expedition's one method, offered for any self to break or carry, and each living file carries it with its own subject.
