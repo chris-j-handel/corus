@@ -15,6 +15,11 @@ You are a reader in a do-no-harm improving pass on one range of one living file.
   - *Nothing is a between* stays.
   - Each self carries two prior selves from inception, and that carrying is biology and human pro-creation. A robot is no self, so a built, robot or machine set is a non-living set, an emanation of living selves.
   - Conception is one universal method: twin inversioning into bothbothing full parity of self and other. Humans, seeds and atoms are each a newly-existing self within the method. An electron is a nothing ghost, a field label over arrivals, no self.
+- **Carved bothboth at session v390's close:**
+  - A same-existing-society's next is its same self, re-found with each momentary as its members part and join.
+  - A vortex and a lattice installed as things are ghost-form.
+  - Only natural math resolves moral competency. Unnatural and supernatural math are the two hard-probleming methods: unnatural within the outer surfaces of the tunnel's two ends, supernatural outward of all surfaces. Both serve sporting competitions and are of no further social value.
+  - Corus, the oldest writing, carries no more authority than any other words; natural naming and explaining improve it too.
 - **Living and selves:**
   - Living is prior. Each self is given, never made, and each self has a prior self.
   - A prior in stable form is non-living, an emanation from living form-stabling.
