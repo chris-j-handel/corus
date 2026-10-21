@@ -873,6 +873,17 @@ Laid, for their motions:
 
 — v391
 
+**Met with the code · parity includes one inversioning, at v391.** Suggested: *parity includes one inversioning. explore if this is in code.* Run with one self through 60,172 momentaries of random parities from others:
+- Each momentary is one of two kinds: not changing, sharing 0; or one inversion, sharing its new parity. Nothing else.
+- After any run, a self's parity is its first parity times −1 for each inversioning: even inversionings same-as, odd other-than. No exceptions.
+- A sharing opening with no prior takes an other's parity as its first: no inversion, the counting's start.
+
+A parity, + or −, a changing direction, and its odd or even, the count of inversionings, are one. 2.2's *an even sequence of changings is same-as-prior, and an odd sequence other-than-prior* holds with the code.
+
+Not held by the code beyond the six names between selves: *odd is along, even is across*, *1 odd a self, 2 even an other*, *odd is competency, even is morality*. Each treats a name's number's odd or even as parity, where the code's parity is the odd or even of inversionings.
+
+Offered for 2.2's opening: ***A parity is one inversioning or none with each momentary**: with each sharing a self's parity inverts once or is same-existing, and after any momentaries it is its first parity, even inversionings same-as and odd other-than.* — v391, run
+
 ### Bolds, the third telling
 
 **Concern · the opening carries no bold, and the bolds are claims.** 1.1's 47 lines carry no bold, so a reader of bolds misses origin, observing, self, bi-coupling, the third living self, parity and 0, and opens with 1.2's *Now is one*. From 1.2 on, 291 bolds carry about a fifth of the prose's words, most of them whole claims, a 50-word bold in 5.1 among them; Natural Explaining 2.4 makes a bold *a carrying there*, *a coining with a paragraph coining*, and concentrations of bold learning centres. Read alone, 1.2 to 6.6's bolds give a telling that does not co-chain: *Now is one* to *One is now* to *three sequential universes*. **To resolve:** bold each opening line that coins its concept, ***The universe is the set of all now-existing things.***, ***Observing is distinguishing same-as, is or is not.***, and in each later section bold its coinings, so the bold telling alone walks the set. — v391, counted
