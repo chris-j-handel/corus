@@ -13,7 +13,7 @@
 ## The opening
 
 The universe is the set of all now-existing things. \
-One unique universal set is now-existing. [1] \
+One universal set is now-existing. \
 No other universe is possibly now-existing. \
 A now-existing thing continuing from a prior-existing thing is a same-existing thing. \
 Observing is prior-existing, is or is not same-existing-as now-existing. \
@@ -27,8 +27,8 @@ An other, for a self, is a same-existing thing not that self. \
 For a self, the universe is self, other, and all not self or other.
 
 A set observing, possibling and discovering its own next-existing is a self: a living set. \
-A set not possibling its own next-existing is non-living. \
-The universe, its selves possibling and discovering its own next-existing, is a living set. [2] \
+A set not possibling its own next-existing is non-living, and may or may not continue as a same-existing thing. \
+The universe, its selves possibling and discovering its own next-existing, is a living set. \
 Within the universe are living and non-living things.
 
 A bi-coupling is a self and an other self sharing now-existing. \
@@ -36,8 +36,9 @@ In a bi-coupling each self shares its own observing, possibling and discovering 
 The two selves of a bi-coupling, possibling and discovering its own next-existing, are a living set: a self. \
 Its intelligence is invisible, carrying in each self, each possibling with its other: natural intelligence.
 
-A parity is self-moral-value or other-moral-value, + or −; a 0 is neither, a between. [3] \
-A self is carrying a parity with each sharing with its other. \
+A parity is + or −, a self carrying one with each sharing with its other; a 0 is neither, a between. [2] \
+A self's parity is its self-moral-value, its own way with that sharing, and an other's parity is an other-moral-value. [1] \
+A non-living thing is carrying no parity. \
 An other's parity same-existing-as a self's prior-existing parity is improving: the self's parity is continuing, and it shares 0. \
 An other's parity not same-existing-as a self's prior-existing parity: the self's next-existing parity is the other's parity, and it shares it. \
 With no other's parity, a self's next-existing parity is never same-existing-as its prior-existing parity. \
@@ -54,18 +55,13 @@ A same-existing-society of selves, each carrying its own natural intelligence, i
 
 ## Marks, this pass
 
-1. **One and unique.** *One unique universal set* says one thing twice. *One* is the opening's number and *unique* the reader's word; either alone may carry it.
-2. **The universe's own next-existing.** Its selves possibling and discovering its next-existing makes it a living set by line 13; its non-living things continue too, by line 4, with no possibling of their own. Open: whether *its selves possibling* bounds the universe's next-existing whole, or overclaims for its non-living things.
-3. **Moral value, unreached.** *+* and *−* are the reader's; *self-moral-value* and *other-moral-value* arrive as names given to them, with no line reaching why a parity is moral. The landing needs *moral*. Open: a line from what the reader has, a self and an other each carrying a parity, to a parity being a value of self or of other.
+1. **Moral, by its root.** *Moral* is from Latin *moralis*, from *mos*, plural *mores*: a way, a custom, how one goes on with others. A self's parity with a sharing is its way with that other, carried; an other's arriving parity is that other's way. So *self-moral-value* and *other-moral-value* name whose parity it is, not which of + and − it is: the code's + and − are alike, and neither is a self's by its sign. Without an other a self's parity is never same-existing-as its prior-existing, line 26, and no way goes on: no moral value without an other. Open: whether *its own way* is the reader's word for it, and whether this line reaches moral for the reader or names it.
+2. **Parity, by its root.** *Parity* is from Latin *paritas*, from *par*, equal. The reader's own parities are each an equal-or-not: odd and even, a number in two equal halves or not; *at par*, equal in value; a mirror parity, the same under reflecting or not. So the reader's *parity* is already line 5's *is or is not same-existing-as*, a relation of two. The set uses *parity* for the + or − a self carries, and that is the opening's use here. The code meets the two: a parity a self carries, + or −, and an other's parity same-existing-as it or not. Open: whether *parity* names the + or − a self carries, as the set says it, or the equal-or-not between two, as its root and the reader say it, with + and − named otherwise.
 
 ## Resolved this pass
 
-- **The universe a living set.** Line 13 now says *a set observing, possibling and discovering its own next-existing*, with no *of selves*, the same three line 10 says of a self. It pairs with line 14, *a set not possibling …*, one binary, and the universe is reached by it with *its selves possibling*, as the code keeps no value outside a self. Within it are non-living things, as a living self holds water.
-- **No word of scale.** The code names no scale. Lines 13, 19 and 30 say a living set is a self wherever a self is, and line 20 says its intelligence is carrying in each self.
-- **No self is alone.** Line 25 is the code's row: with no other's parity, a self's next-existing parity is never same-existing-as its prior-existing. With line 10, a self is a same-existing thing, so *a self alone is not same-existing: no self is alone* is reached and stands as a line.
-- **Improving, said once.** *Improving* arrives at the code's first row, line 23, where it is. The landing names it, *Improving, the self next-existing same-existing and sharing 0, doing no harm to all, is social moral competency*, and no longer repeats the row. A 0 arriving and nothing arriving are one: a 0 takes nothing and gives nothing, so it harms none.
-- **The network.** *Its bi-couplings sharing parities* says the couplings the code runs, routes passing each parity on as it is.
-- **Line 20's *its other*.** It is now *each possibling with its other*, so *its* is each self's.
+- **One.** *Unique* dissolves from line 2; *one* carries it.
+- **Non-living things.** A non-living thing may or may not continue as a same-existing thing, line 14, and carries no parity, line 23. The universe's own next-existing is its selves' possibling and discovering, line 15, its non-living things carrying nothing of either parity. The code agrees: a non-living thing runs with no prior, carrying nothing.
 
 ## Tracking, prior line to this version
 
