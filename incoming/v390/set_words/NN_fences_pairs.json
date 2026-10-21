@@ -1418,8 +1418,8 @@
  {
   "old": "3  the society's own release is at 27, at its podaling, three cubed on the route 24 → 27 → 32",
   "new": "3  a same-existing-society's going along is with 27, its podaling, three cubed on a route 24 → 27 → 32",
-  "verdict": "ASK",
-  "why": "*Society* becomes *same-existing-society* and *release* becomes *going along*, parity along 27 as along 9. But *own* would give a same-existing-society a parity of its own, and no parity is a same-existing-society's own, so *own* is dropped: a value change, best re-saying in `new`. **To resolve:** is 27's going along a same-existing-society's own, or its selves' going along, *own* dropped?"
+  "verdict": "RESAY",
+  "why": "*Society* becomes *same-existing-society* and *release* becomes *going along*, parity along 27 as along 9. But *own* would give a same-existing-society a parity of its own, and no parity is a same-existing-society's own, so *own* is dropped: a value change, best re-saying in `new`. **To resolve:** is 27's going along a same-existing-society's own, or its selves' going along, *own* dropped? Resolved v390: no parity is a same-existing-society's own (agreed), so dropping *own* carries the agreed concept; entered."
  },
  {
   "old": "4  it is odd, along, existing, 27 at 11's number sixteen up, the next round's next prior",
