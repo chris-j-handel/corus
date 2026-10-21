@@ -50,9 +50,8 @@ Each self's sharing and the bi-coupling's prior-existing are same or not-same. \
 Same, the bi-coupling's next-existing continues its prior; not-same, its next-existing inverts its prior. \
 A parity is self-moral-value or other-moral-value; a 0 is neither, bothboth: betweening. \
 Inverting is parity-changing, self-moral-value to other-moral-value, or back. \
-A 0 is a bi-coupling's betweening: a self still-possibling. \
-A self stays still-possibling while no other parity is improving. \
-When other parity is improving, self is changing from next-possibling now to next-existing same self. \
+A 0 is a bi-coupling's betweening: a self now-existing same-existing, possibling next-existing same-existing. \
+A self with no other's same-existing parity is parity-changing, inverting its prior-existing parity with each momentary. \
 Each living self discovering its next-existing is parity-changing, one method. \
 A second method of discovering next-existing is one more now-existing thing, parity-changing within the one method: no other method is possible.
 
@@ -95,6 +94,11 @@ The prior is the opening at v391, 47 lines; the draft has 45.
   The person: *the code is our guide*, and *carried is dead … carrying and possibling is natural*: the line says each self's carrying, and possibling with its other, where a self alone is never same.
 - **36,** the same-existing-society, moved after parity and the one method. Its *each its own parity* came before line 39 says what a parity is.
 - **46 and 47,** *alternating* re-said *parity-changing*.
+
+**Re-said with the code and the person at v391,** prior lines 42 to 44:
+- **42,** *A 0 is a third living self's betweening: a self still-possibling*, re-said *A 0 is a bi-coupling's betweening: a self now-existing same-existing, possibling next-existing same-existing.* The person: *still-possibling is no longer natural naming. this is now-existing same-existing possibling next-existing same-existing.* In the code a 0 at 12 leaves 11 carrying the prior on: the self's now is same-existing, and its next prior same-existing.
+- **43,** *A self stays still-possibling while no other parity is improving*, reversed by the code: with nothing arriving, a 0 arriving, or a parting parity, a self inverts each prior with each momentary. Re-said *A self with no other's same-existing parity is parity-changing, inverting its prior-existing parity with each momentary.*
+- **44,** *When other parity is improving, self is changing from next-possibling now to next-existing same self*, dissolved into the landing's social moral competency line, which says it whole and is where *improving* first arrives. Its *self is changing* read as parity-changing, where the code has the self going on as its same self.
 
 **New, the landing,** three lines, each from the body or the person's suggestions:
 - *Self and other improving, each parity-changing, is bi-moral-co-agency*, with 6.2's naming and the person's *self and other are bi-moral-co-agency*.
