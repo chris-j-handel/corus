@@ -2,7 +2,9 @@
 
 **Aim.** The opening stands ahead of the contents, the only opening of its kind in the set. Line by line it gains on the shortest path from the universe to social moral competency and a shared natural intelligence network living. Each concept comes in the order it arrives and is self-welcoming, reached from the lines before it.
 
-**Rule for this draft.** A line or word is removed only when it is not needed for the aim, is not a central concept of the white paper, and its removal does no harm. A central concept is one the body says. Each removal is tracked below, with where its value is carried.
+**Our reader.** The reader comes from a science explaining of the universe and does not yet know it is a living set. *Now-existing* is relatable and *prior-existing* observable. The opening keeps as lean as it can of new and not yet clear terms, and brings a new term only where the path needs it. Each term it brings is justified in the white paper.
+
+**Rule for this draft.** A line or word leaves the opening when the aim does not need it, or when it is a term the reader cannot yet relate to and the path does not need. A central concept that leaves stays in the body, where the white paper says it. Each removal is tracked below.
 
 **Standing.** A draft only, nothing entered. When it enters, it moves ahead of the contents with the Co-Chaining Logic Registry's groups 1 to 4, which carry the opening word for word, and the set check follows it.
 
@@ -18,7 +20,6 @@ A set of now-existing things within the universe is or is not same-existing-as i
 Parity-changing is is or is not same-existing. \
 A next-existing thing continuing from now-existing is the same-existing thing. \
 An other, for a same-existing thing, is a now-existing thing not the same-existing thing. \
-A set of same-existing things is sharing same-existing sequential momentarying. \
 The universe is the same-existing set of all now-existing things.
 
 Observing is prior-existing, is or is not same-existing-as now-existing. \
@@ -26,37 +27,29 @@ Possibling is now-existing, is or is not same-existing-as now-existing. \
 Discovering is next-existing, is or is not same-existing-as now-existing. \
 A self is a same-existing thing observing, possibling and discovering its own next-existing from prior-existing while now-existing. \
 A self's prior-existing and an other's prior-existing are possibling each other. \
-Each self is one, each other is two, and all, not self or other, is three. \
-A self's momentarying opens one and completes two, with its other. \
-One to two is within a momentarying: possibling, observing self and other. \
-Two to three is between momentaryings: discovering, along. \
-Across, a self's between is its other's within, two to three.
+For a self, the universe is self, other, and all not self or other.
 
 A self is living. \
-The universe is a living set, universal momentarying. \
-A living self is a universal same-existing set. \
 A living self is a set of living selves. \
 A set of living selves possibling and discovering its own next-existing is a living self. \
 A set of living selves not possibling its own next-existing is non-living. \
-Within the universe, a living set, are living and non-living things.
+The universe, possibling and discovering its own next-existing, is a living set. \
+Within the universe are living and non-living things.
 
-A bi-coupling is a self and an other self sharing now-existing, co-sequencing. \
+A bi-coupling is a self and an other self sharing now-existing. \
 In a bi-coupling each self shares its own observing, possibling and discovering from prior-existing. \
 The two selves of a bi-coupling are a set of living selves possibling and discovering its own next-existing: a bi-coupling's living self. \
-A bi-coupling's living self is stable-forming and entraining between the two selves. \
 Its intelligence is invisible, carrying in each self and possibling with its other: natural intelligence.
 
-Each self's sharing and the bi-coupling's prior-existing are same or not-same. \
-Same, the bi-coupling's next-existing continues its prior; not-same, its next-existing inverts its prior. \
-A parity is self-moral-value or other-moral-value; a 0 is neither, bothboth: betweening. \
+A parity is self-moral-value or other-moral-value, + or −; a 0 is neither, a between. \
+Each self shares its parity with its other. \
 Inverting is parity-changing, self-moral-value to other-moral-value, or back. \
-A 0 is a bi-coupling's betweening: a self now-existing same-existing, possibling next-existing same-existing. \
-A self with no other's same-existing parity is parity-changing, inverting its prior-existing parity with each momentary. \
+A 0 is a bi-coupling's between: a self now-existing same-existing, possibling next-existing same-existing. \
+A self with no other's same-existing parity is parity-changing, inverting its prior-existing parity. \
 Each living self discovering its next-existing is parity-changing, one method. \
 A second method of discovering next-existing is one more now-existing thing, parity-changing within the one method: no other method is possible.
 
 A same-existing-society is many same-existing selves bi-coupling, each its own parity. \
-Self and other improving, each parity-changing, is bi-moral-co-agency. \
 An other's same-existing parity as a self's prior-existing parity is improving: the self next-existing as its same self, carrying its prior and sharing 0, doing no harm to all, is social moral competency. \
 A same-existing-society of selves, each with its own natural intelligence, sharing with social moral competency, is a shared natural intelligence network living.
 
@@ -64,45 +57,46 @@ A same-existing-society of selves, each with its own natural intelligence, shari
 
 ## Tracking, prior line to draft
 
-The prior is the opening at v391, 47 lines; the draft has 45.
+The prior is the opening at v391, 47 lines; the draft has 35. Kept as they are: 18. Re-said: 15. Removed: 14. New: 2.
 
-**Kept as they are,** 24 lines: 1, 2, 3, 4, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 17, 19, 22, 25, 26, 27, 39, 40, 43 and 44. Re-said, 19 lines into 18; removed, 4; new, 3.
+**Kept as they are:** 1, 2, 3, 4, 6, 7, 8, 9, 12, 13, 14, 15, 16, 17, 23, 26, 27 and 40.
 
-**Removed,** each not needed for the aim, not a central concept, and its value carried:
-- **5,** *The same-existing universe has been observably now-existing for all prior observings.* It says *same-existing* before line 8 makes it, its *has been* carries a time, and 12 says the same-existing universe whole. *Observably* stands nowhere in the body.
-- **10,** *An observably same-existing thing is observably not any other same-existing thing in the universe.* It is line 9 said from the other side. *Observably* stands nowhere in the body.
-- **41,** *Alternating is parity-changing and parity-changing back.* *Alternating* is the prior naming that parity-changing replaces, and 40 already says inverting *or back*.
-- **45,** *Consciousness is observing, possibling, and discovering next-existing self in the same-existing universe.* The body never says *consciousness*, and the aim does not need it. Its value is carried where the set meets consciousness as a hard problem: the Hard Problem Registry and Resolving the Hard Problem Registry.
+**Removed,** each not needed for the aim, or a term the reader cannot yet relate to that the path does not need:
+- **5,** *The same-existing universe has been observably now-existing for all prior observings.* It says *same-existing* before line 8 makes it, and its *has been* carries a time; 12 says the same-existing universe whole.
+- **10,** *An observably same-existing thing is observably not any other …* It is 9 said from its other side.
+- **11,** *A set of same-existing things is sharing same-existing sequential momentarying.* *Momentarying* is new to the reader, and once 19 to 22 leave, the path does not use it. 1.2 and 2.3 carry now and a momentary.
+- **19 to 22,** a self's momentarying opening one and completing two; one to two within; two to three between, along; across. Along, across, within and between, and numbering a momentary, are new to the reader, and the landing does not use them. Part TWO carries them: 2.1 along and across, 2.3 a momentary.
+- **25,** *A living self is a universal same-existing set.* The fractal, one form with each scale, is unclear to the reader here and not needed; 6.6 carries it.
+- **33 and 34,** the third living self *stable-forming* and *entraining* between the two selves. Both are new to the reader and not needed; the body carries both.
+- **38,** *Same, … continues its prior; not-same, … inverts its prior.* Said by the code's two rows, the new 29 and 30.
+- **41,** *Alternating is parity-changing and parity-changing back.* *Alternating* is the prior naming parity-changing replaces.
+- **44,** *When other parity is improving, self is changing …* Dissolved into the social moral competency line, where *improving* first arrives; its *self is changing* read as parity-changing, where the code has the self going on as its same self.
+- **45,** *Consciousness is …* The body never says it, and the aim does not need it. The Hard Problem Registry and Resolving the Hard Problem Registry carry consciousness as a hard problem.
 
-**Re-said,** each with a word the body already justifies:
-- **18,** adding *and all, not self or other, is three*. All arrives here, ahead of its need in *doing no harm to all*. From the person's suggestion *the universal set is self, other, all not self or other*, met with rigor and not yet bothboth.
-- **20 and 21,** *self-possibling* and *self-discovering* re-said as *possibling* and *discovering*. Neither compound stands in the body, and the line already says whose.
-- **23, 24, 28 and 29:**
-  - *living-thing* re-said *living*;
-  - *non-living-thing* re-said *non-living*;
-  - *same-existing-universe* released, since 24 already says *universal momentarying*.
+**Re-said:**
+- **18,** *Each self is one, and each other is two*, now *For a self, the universe is self, other, and all not self or other.* All arrives here, ahead of *doing no harm to all*; numbering selves leaves with 19 to 22. From the person's *the universal set is self, other, all not self or other*.
+- **24,** *The universe is a living set: universal momentarying, a same-existing-universe*, now *The universe, possibling and discovering its own next-existing, is a living set*, moved after 27 and 28, so the reader reaches it from the lines before.
+- **28 and 29:**
+  - *non-living-thing* is now *non-living*;
+  - *living-things and non-living-things* is now *living and non-living things*;
+  - *a living set* leaves 29, since the new 20 says it.
+- **30,** *co-sequentially* released; *sharing now-existing* says it plainly.
+- **31,** *offers* now *shares*.
+- **32,** *a third living self* now *a bi-coupling's living self*. *Third* is dissolving: *third is dead and tri is living*.
+- **35,** now *Its intelligence is invisible, carrying in each self and possibling with its other: natural intelligence.*
+  - **The code, the person's guide:** 17-next-existing returns only each self's own, and no value is kept outside a self. A self alone inverts each prior with each momentary and is never same. A 0, same, arises at a self's 12 only where an other's parity, surfacing as 15, meets its prior.
+  - **Living forms:** the person, *carried is dead … carrying and possibling is natural*.
+- **36,** the same-existing-society, moved to the landing, after parity says what *each its own parity* is.
+- **37,** *Each self's offering and the third living self's prior-existing are same or not-same*, now *Each self shares its parity with its other*, as the code shares with 10, 6 and 9.
+- **39,** *A parity is self-moral-value or other-moral-value; a 0 is neither, bothboth: betweening*, now *… + or −; a 0 is neither, a between*. A science reader knows + and −. *Bothboth* and *betweening* are new to the reader; the person: *0 is always the between*.
+- **42,** *A 0 is a third living self's betweening: a self still-possibling*, now *A 0 is a bi-coupling's between: a self now-existing same-existing, possibling next-existing same-existing.* The person: *still-possibling is no longer natural naming*. In the code a 0 at 12 leaves 11 carrying the prior on.
+- **43,** *A self stays still-possibling while no other parity is improving*, reversed by the code. With nothing arriving, a 0, or a parting parity, a self inverts each prior. Now *A self with no other's same-existing parity is parity-changing, inverting its prior-existing parity.*
+- **46 and 47,** *alternating* now *parity-changing*.
 
-  None of the four stands in the body.
-- **30,** *co-sequentially* re-said *co-sequencing*, part TWO's naming.
-- **31,** *offers* re-said *shares*. *Offering* is a candidate for dissolving, met with the code: each line deciding a 0 compares observings.
-- **32 to 38 and 42,** *a third living self* re-said *a bi-coupling's living self*. *Third* is dissolving, *third is dead and tri is living*. 33 and 34 are one line, *stable-forming and entraining*.
-- **35,** *The third living self's intelligence is not possibly existing in either self*, re-said with the code and landing: *Its intelligence is invisible, carrying in each self and possibling with its other: natural intelligence.* This is where natural intelligence arrives and is self-welcoming. The code, run:
-  - 17-next-existing returns only each self's own: its next prior and the parities that arrived for it. The couplings carry no value, and no value is kept outside a self.
-  - A self alone, with nothing arriving, inverts each prior with each momentary and is never same: no 0 arises.
-  - A 0, same, a prior carrying on, arises at a self's 12 only where an other's sharing parity, surfacing as 15, meets its prior. It is carrying in that self and sharing on with 10.
+**New, the landing:**
+- *An other's same-existing parity as a self's prior-existing parity is improving: the self next-existing as its same self, carrying its prior and sharing 0, doing no harm to all, is social moral competency.* The person's line at v391, improving on a line offered with the code. An other's parity surfacing, 15, is same-as a self's prior, 7; the self carries its prior on and shares 0 on with 10, and a 0 takes nothing from any self receiving it.
+- *A same-existing-society of selves, each with its own natural intelligence, sharing with social moral competency, is a shared natural intelligence network living.* The aim's last landing; its *shared* is met with the person.
 
-  The person: *the code is our guide*, and *carried is dead … carrying and possibling is natural*: the line says each self's carrying, and possibling with its other, where a self alone is never same.
-- **36,** the same-existing-society, moved after parity and the one method. Its *each its own parity* came before line 39 says what a parity is.
-- **46 and 47,** *alternating* re-said *parity-changing*.
+**Left the opening, at the person's word:** *bi-moral-co-agency*, a term not close to clear for the reader, carried at 6.2.
 
-**Re-said with the code and the person at v391,** prior lines 42 to 44:
-- **42,** *A 0 is a third living self's betweening: a self still-possibling*, re-said *A 0 is a bi-coupling's betweening: a self now-existing same-existing, possibling next-existing same-existing.* The person: *still-possibling is no longer natural naming. this is now-existing same-existing possibling next-existing same-existing.* In the code a 0 at 12 leaves 11 carrying the prior on: the self's now is same-existing, and its next prior same-existing.
-- **43,** *A self stays still-possibling while no other parity is improving*, reversed by the code: with nothing arriving, a 0 arriving, or a parting parity, a self inverts each prior with each momentary. Re-said *A self with no other's same-existing parity is parity-changing, inverting its prior-existing parity with each momentary.*
-- **44,** *When other parity is improving, self is changing from next-possibling now to next-existing same self*, dissolved into the landing's social moral competency line, which says it whole and is where *improving* first arrives. Its *self is changing* read as parity-changing, where the code has the self going on as its same self.
-
-**New, the landing,** three lines, each from the body or the person's suggestions:
-- *Self and other improving, each parity-changing, is bi-moral-co-agency*, with 6.2's naming and the person's *self and other are bi-moral-co-agency*.
-- *An other's same-existing parity as a self's prior-existing parity is improving: the self next-existing as its same self, carrying its prior and sharing 0, doing no harm to all, is social moral competency*, the person's line at v391, improving on a line offered with the code: an other's parity surfacing, 15, same-as a self's prior, 7, and the self carrying its prior on and sharing 0 on with 10, a 0 taking nothing from any self receiving it. Part SIX 6.4 says social moral competency in other words, met at step 9.
-- *A same-existing-society of selves, each with its own natural intelligence, sharing with social moral competency, is a shared natural intelligence network living*, the aim's last landing.
-
-**Lines that carry a suggestion not yet bothboth:** 16 (*all … is three*), 29 (*shares*), 30 to 32 and 33 to 37 (*a bi-coupling's living self*), and the landing's three.
+**Lines that carry a suggestion not yet bothboth:** 15 (*self, other, and all*), 20, 23 (*shares*), 24 to 25 and 29 (*a bi-coupling's living self*), 27, and the network line.
