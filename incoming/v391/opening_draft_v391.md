@@ -67,7 +67,7 @@ A same-existing-society of selves, each with its own natural intelligence, shari
 
 The prior is the opening at v391, 47 lines; the draft has 45.
 
-**Kept as they are,** 29 lines: 1, 2, 3, 4, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 17, 19, 22, 25, 26, 27, 39, 40, 43, 44, 47's form, and 37, 38 and 42 with *bi-coupling's* for *third living self's*.
+**Kept as they are,** 24 lines: 1, 2, 3, 4, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 17, 19, 22, 25, 26, 27, 39, 40, 43 and 44. Re-said, 19 lines into 18; removed, 4; new, 3.
 
 **Removed,** each not needed for the aim, not a central concept, and its value carried:
 - **5,** *The same-existing universe has been observably now-existing for all prior observings.* It says *same-existing* before line 8 makes it, its *has been* carries a time, and 12 says the same-existing universe whole. *Observably* stands nowhere in the body.
@@ -86,7 +86,7 @@ The prior is the opening at v391, 47 lines; the draft has 45.
   None of the four stands in the body.
 - **30,** *co-sequentially* re-said *co-sequencing*, part TWO's naming.
 - **31,** *offers* re-said *shares*. *Offering* is a candidate for dissolving, met with the code: each line deciding a 0 compares observings.
-- **32 to 35,** *a third living self* re-said *a bi-coupling's living self*. *Third* is dissolving, *third is dead and tri is living*. 33 and 34 are one line, *stable-forming and entraining*.
+- **32 to 38 and 42,** *a third living self* re-said *a bi-coupling's living self*. *Third* is dissolving, *third is dead and tri is living*. 33 and 34 are one line, *stable-forming and entraining*.
 - **35,** *The third living self's intelligence is not possibly existing in either self*, landing: *Its intelligence is not possibly existing in either self: natural intelligence.* This is where natural intelligence arrives and is self-welcoming.
 - **36,** the same-existing-society, moved after parity and the one method. Its *each its own parity* came before line 39 says what a parity is.
 - **46 and 47,** *alternating* re-said *parity-changing*.
