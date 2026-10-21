@@ -73,7 +73,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: no other universe.*
 
-4. A now-existing thing continuing from a prior-existing thing is a same-existing thing.
+4. A now-existing thing continuing from a prior-existing thing is same-existing-as it: a same-existing thing.
 
         *Adding: prior-existing; continuing; same-existing.*
 
@@ -135,7 +135,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
 ## 4 A bi-coupling, natural intelligence, one method and social moral competency
 
-        *Entering: a bi-coupling; sharing; a bi-coupling a self; natural intelligence; parity, + or −, relative to an other; a 0, a between; beholding; moral value; a non-living thing beholding no parity; improving; an other's parity, next-existing; no other's parity; no self alone; a 0, a bi-coupling's between; resolving among parities, one method; no other method; a same-existing-society; social moral competency; a natural intelligence network living.*
+        *Entering: a bi-coupling; sharing; a bi-coupling a self; natural intelligence; parity, + or −, relative to an other; a 0, a between; beholding; moral value; a non-living thing beholding no parity; improving; an other's parity, next-existing; no other's parity, or parting; no self alone; a self sharing 0; a 0 never a prior; resolving among parities, one method; no other method; a same-existing-society; social moral competency; a natural intelligence network living.*
 
 17. A bi-coupling is a self and an other self sharing now-existing.
 
@@ -149,7 +149,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: a bi-coupling a self.*
 
-20. Its intelligence is invisible, carrying in each self, each possibling with its other: natural intelligence.
+20. Its intelligence is carrying in each self, each possibling with its other: natural intelligence.
 
         *Adding: natural intelligence.*
 
@@ -165,31 +165,31 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: a non-living thing beholding no parity.*
 
-24. An other's parity same-existing-as a self's prior-existing parity is improving: the self's parity is continuing, and it is sharing 0.
+24. Others' parities agreeing, same-existing-as a self's prior-existing parity, is improving: the self's parity is continuing, and it is sharing 0.
 
         *Adding: improving.*
 
-25. An other's parity not same-existing-as a self's prior-existing parity: the self's next-existing parity is the other's parity, and it is sharing it.
+25. Others' parities agreeing, not same-existing-as a self's prior-existing parity: the self's next-existing parity is theirs, and it is sharing it.
 
         *Adding: an other's parity, next-existing.*
 
-26. With no other's parity, a self's next-existing parity is never same-existing-as its prior-existing parity.
+26. With no other's parity, or others' parities parting, a self's next-existing parity is never same-existing-as its prior-existing parity.
 
-        *Adding: no other's parity.*
+        *Adding: no other's parity, or parting.*
 
 27. A self alone is not same-existing: no self is alone.
 
         *Adding: no self alone.*
 
-28. A 0 is a bi-coupling's between: a self now-existing same-existing, possibling next-existing same-existing.
+28. A self sharing 0 is now-existing same-existing, possibling next-existing same-existing: a 0 is a between, never a self's prior-existing parity.
 
-        *Adding: a 0, a bi-coupling's between.*
+        *Adding: a self sharing 0; a 0 never a prior.*
 
 29. Each self discovering its next-existing is resolving among parities, one method.
 
         *Adding: resolving among parities, one method.*
 
-30. A second method of discovering next-existing is one more now-existing thing, resolving among parities within the one method: no other method is possibly now-existing.
+30. Any second method of discovering next-existing is itself a now-existing thing, resolving among parities within the one method: no other method is possibly now-existing.
 
         *Adding: no other method.*
 

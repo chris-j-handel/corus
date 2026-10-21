@@ -855,6 +855,24 @@ The opening's *When other parity is improving, self is changing from next-possib
 
 **Droplet · a non-living thing's value is social, at v391.** Living selves have parity relations to non-living things: many prefer gold over lead. Gold beholds no parity, so a self's parity relative to gold has nothing on gold's side. With the code, a sharing's parity continues as same-existing only where an other self's parity on that sharing is same-existing-as the self's prior; with no other's parity it is never same-existing. So a preference for gold continues only as many selves behold it alike: a non-living thing's value is beheld socially, and no self alone keeps one. Offered for 6.4 or 6.5 and for Natural Values, where received value is said. — v391
 
+**A fresh reading of the entered opening, at v391.** A reader who had not seen the work read the opening and part ONE against the code. Entered from it, each run:
+- Others' parities agreeing or parting, lines 24 to 26: two others parting surface 0, as no other's parity.
+- A 0 is never a self's prior, line 28: the code writes only + or − into a next prior.
+- Line 4 says *same-existing-as* where *same-existing* is said.
+- *Invisible* left line 20, unprepared and not needed.
+- Line 30 says *any second method … is itself a now-existing thing*.
+- 1.3's first sentence quotes the opening's sixth and seventh lines.
+
+Laid, for their motions:
+- **Part ONE, with the parity-changing motion:**
+  - 1.1, *each arrival … one parity-changing*, where a parity continues;
+  - 1.3, *each existing thing is parity-changing or not-changing*, where a non-living thing beholds no parity;
+  - 1.5, *a self's 0 is an other's parity-changing one momentary prior*, where a shared 0 arriving leaves its receiver as with no other's parity.
+- **Words the opening brings unprepared,** each justified in the body or prepared in the opening: *natural*, *beholding*, *moral value*, *harm*, *competency*, *network*.
+- ***Sharing*,** said of now, of observing and of a parity, one action with three objects.
+
+— v391
+
 ### Bolds, the third telling
 
 **Concern · the opening carries no bold, and the bolds are claims.** 1.1's 47 lines carry no bold, so a reader of bolds misses origin, observing, self, bi-coupling, the third living self, parity and 0, and opens with 1.2's *Now is one*. From 1.2 on, 291 bolds carry about a fifth of the prose's words, most of them whole claims, a 50-word bold in 5.1 among them; Natural Explaining 2.4 makes a bold *a carrying there*, *a coining with a paragraph coining*, and concentrations of bold learning centres. Read alone, 1.2 to 6.6's bolds give a telling that does not co-chain: *Now is one* to *One is now* to *three sequential universes*. **To resolve:** bold each opening line that coins its concept, ***The universe is the set of all now-existing things.***, ***Observing is distinguishing same-as, is or is not.***, and in each later section bold its coinings, so the bold telling alone walks the set. — v391, counted

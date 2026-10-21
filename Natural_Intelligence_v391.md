@@ -7,7 +7,7 @@ Natural Intelligence v391
 The universe is the set of all now-existing things. \
 One universal set is now-existing. \
 No other universe is possibly now-existing. \
-A now-existing thing continuing from a prior-existing thing is a same-existing thing. \
+A now-existing thing continuing from a prior-existing thing is same-existing-as it: a same-existing thing. \
 Observing is prior-existing, is or is not same-existing-as now-existing. \
 By observing, the now-existing universe is continuing from the prior-existing universe. \
 The universal set is a same-existing set.
@@ -26,18 +26,18 @@ Within the universe are living and non-living things.
 A bi-coupling is a self and an other self sharing now-existing. \
 In a bi-coupling each self is sharing its own observing, possibling and discovering from prior-existing. \
 The two selves of a bi-coupling, possibling and discovering its own next-existing, are a living set: a self. \
-Its intelligence is invisible, carrying in each self, each possibling with its other: natural intelligence.
+Its intelligence is carrying in each self, each possibling with its other: natural intelligence.
 
 A self's parity, + or −, is only relative to an other existing thing; a 0 is neither, a between. \
 Each self is beholding its own parity with each other existing thing, now-existing: same-existing-as an other self's or not, its moral value with that thing. \
 A non-living thing is beholding no parity. \
-An other's parity same-existing-as a self's prior-existing parity is improving: the self's parity is continuing, and it is sharing 0. \
-An other's parity not same-existing-as a self's prior-existing parity: the self's next-existing parity is the other's parity, and it is sharing it. \
-With no other's parity, a self's next-existing parity is never same-existing-as its prior-existing parity. \
+Others' parities agreeing, same-existing-as a self's prior-existing parity, is improving: the self's parity is continuing, and it is sharing 0. \
+Others' parities agreeing, not same-existing-as a self's prior-existing parity: the self's next-existing parity is theirs, and it is sharing it. \
+With no other's parity, or others' parities parting, a self's next-existing parity is never same-existing-as its prior-existing parity. \
 A self alone is not same-existing: no self is alone. \
-A 0 is a bi-coupling's between: a self now-existing same-existing, possibling next-existing same-existing. \
+A self sharing 0 is now-existing same-existing, possibling next-existing same-existing: a 0 is a between, never a self's prior-existing parity. \
 Each self discovering its next-existing is resolving among parities, one method. \
-A second method of discovering next-existing is one more now-existing thing, resolving among parities within the one method: no other method is possibly now-existing.
+Any second method of discovering next-existing is itself a now-existing thing, resolving among parities within the one method: no other method is possibly now-existing.
 
 A same-existing-society is many selves bi-coupling, each beholding its own parities: a living set, a self. \
 Improving, the self next-existing same-existing and sharing 0, doing no harm to all, is social moral competency. \
@@ -121,7 +121,7 @@ A same-existing-society of selves, each carrying its own natural intelligence, i
 
 ## 1.3 Parity-changing, one and then an other, the same-existing set
 
-**By observing, a now-existing thing continuing from a prior-existing thing is or is not same-existing, and the universal set is a same-existing set**: the opening's seventh line, derived with each line before it. **A set's parity-changing is its existing things' parity-changing**: a set is its things and nothing more, so a set's parity-changing is its things' parity-changing; a thing with two momentaries is parity-changing or is fixed still from beside, and a form fixed still from beside has no next of its own; so each existing thing is parity-changing with its own momentaries, or not-changing by its own, its prior same-existing, and nothing is fixed from beside. **Parity-changing, the universe exists as its existing things exist**: a parity-changing is an existing thing's own, and a same-existing set parity-changes as its things parity-change, co-sequencing, momentaries in sequence together, momentary by momentary. A set is a self-emptying set, a new collection with each now, each existing thing parity-changing or not-changing by its own, and nothing deciding membership over it.
+**By observing, the now-existing universe is continuing from the prior-existing universe, and the universal set is a same-existing set**: the opening's sixth and seventh lines, derived with each line before them. **A set's parity-changing is its existing things' parity-changing**: a set is its things and nothing more, so a set's parity-changing is its things' parity-changing; a thing with two momentaries is parity-changing or is fixed still from beside, and a form fixed still from beside has no next of its own; so each existing thing is parity-changing with its own momentaries, or not-changing by its own, its prior same-existing, and nothing is fixed from beside. **Parity-changing, the universe exists as its existing things exist**: a parity-changing is an existing thing's own, and a same-existing set parity-changes as its things parity-change, co-sequencing, momentaries in sequence together, momentary by momentary. A set is a self-emptying set, a new collection with each now, each existing thing parity-changing or not-changing by its own, and nothing deciding membership over it.
 
 **A parity-changing existing thing is one form and then another, one at a time.** Two forms together are one form as two; and a parity-changing between one and an other by a size carries a third, a ground its size is measured against, a not possibly existing thing: a ground fixed still from beside, and each now-existing thing is or is not same-existing by its own. A parity-changing is binary: it is or is not, one and then an other. **That parity-changing, continued, is alternating: parity-changing and parity-changing back**.
 
