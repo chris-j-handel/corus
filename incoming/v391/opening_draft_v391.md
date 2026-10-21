@@ -32,16 +32,15 @@ The universe, its selves possibling and discovering its own next-existing, is a 
 Within the universe are living and non-living things.
 
 A bi-coupling is a self and an other self sharing now-existing. \
-In a bi-coupling each self shares its own observing, possibling and discovering from prior-existing. \
+In a bi-coupling each self is sharing its own observing, possibling and discovering from prior-existing. \
 The two selves of a bi-coupling, possibling and discovering its own next-existing, are a living set: a self. \
 Its intelligence is invisible, carrying in each self, each possibling with its other: natural intelligence.
 
-A self has a parity, + or −, only relative to an other existing thing; a 0 is neither, a between. [1] \
-Each self is beholding its own parity with each other: holding it and observing it, as only a self can. [2] \
-Valuing is observing a self's parity same-existing-as the other's or not: its moral value with that other. \
+A self's parity, + or −, is only relative to an other existing thing; a 0 is neither, a between. [1] \
+Each self is beholding its own parity with each other, now-existing: same-existing-as the other's or not, its moral value with that other. \
 A non-living thing is beholding no parity. \
-An other's parity same-existing-as a self's prior-existing parity is improving: the self's parity is continuing, and it shares 0. \
-An other's parity not same-existing-as a self's prior-existing parity: the self's next-existing parity is the other's parity, and it shares it. \
+An other's parity same-existing-as a self's prior-existing parity is improving: the self's parity is continuing, and it is sharing 0. \
+An other's parity not same-existing-as a self's prior-existing parity: the self's next-existing parity is the other's parity, and it is sharing it. \
 With no other's parity, a self's next-existing parity is never same-existing-as its prior-existing parity. \
 A self alone is not same-existing: no self is alone. \
 A 0 is a bi-coupling's between: a self now-existing same-existing, possibling next-existing same-existing. \
@@ -56,14 +55,13 @@ A same-existing-society of selves, each carrying its own natural intelligence, i
 
 ## Marks, this pass
 
-1. **An other existing thing.** Line 21: a self has a parity relative to an other existing thing. Line 24: a non-living thing beholds no parity. The code couples selves, and a non-living thing runs with no prior. Open: whether a self's parity relative to a non-living thing has no parity on the other side, or line 21 says *an other self*.
-2. **Beholding and stilling.** Beholding is a self holding its own, *self-stilling*, as suggested, and only a self does it, for, to, with, from, by and of itself. *Still-possibling* dissolved for *now-existing same-existing, possibling next-existing same-existing*. In the code a self's prior is held and met with each momentary, continuing or replaced, never still. Open: whether *stilling* names beholding's holding, or holding is said without *still*. Also open: whether the prepositions *for, to, with, from, by and of* enter the opening or the body.
-3. **Beholding and carrying.** A parity is beheld (lines 22, 24, 32). Natural intelligence is *carrying in each self* (line 20), and line 34 has selves *each carrying its own natural intelligence*. One word for one thing: either carrying and beholding are two things, a parity beheld and an intelligence carried, or one, and one word says both.
+1. **An other existing thing.** Line 21: a self's parity is only relative to an other existing thing. Line 23: a non-living thing is beholding no parity. The code couples selves, and a non-living thing runs with no prior. Open: whether a self's parity relative to a non-living thing has no parity on the other side, or line 21 says *an other self*.
 
 ## Resolved this pass
 
-- **Beholding.** To behold is to look and to hold: Old English *behealdan*, to hold, keep, observe. One word joins observing and carrying. The code: each self's prior is held only in that self, and only its own resolving, 1-now-existing, meets it and continues or replaces it. Other selves send parities across with 10 and 6 and 9, and no line reaches into another self's prior. Line 22: *Each self is beholding its own parity with each other: holding it and observing it, as only a self can.* Lines 24 and 32 behold too.
-- **Valuing.** Line 23 says it alone: *Valuing is observing a self's parity same-existing-as the other's or not: its moral value with that other.*
+- **Beholding, now-existing.** Beholding is natural naming, an -ing, and no finite or finished form of it is used. It is a now-existing thing, not a continuing thing: a self's parity same-existing-as the other's, is or is not. In the code it is observing's one line, a self's prior parity, 7, met with the other's surfacing, 15, now. Carrying is the continuing, prior to next. Two things, two words. Line 20's and line 33's *carrying* stay for continuing, and no *stilling* is needed.
+- **Valuing is beholding.** One thing, one word. Line 22: *Each self is beholding its own parity with each other, now-existing: same-existing-as the other's or not, its moral value with that other.*
+- **A self acting, in -ing.** *Has* is now *is*, line 21. *Shares* is now *is sharing*, lines 18, 24 and 25.
 
 ## Tracking, prior line to this version
 
