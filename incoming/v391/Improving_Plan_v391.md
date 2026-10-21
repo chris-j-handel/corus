@@ -16,7 +16,7 @@ This plan orders the improving those droplets open, re-said with each suggestion
 - the registries' ten unchangeables;
 - a field's observing, observed, possibled and discovered, its words a field's own.
 
-**Self, all and other.** Parity is self +1, one, odd; other −1, two, even; all 0, three and zero, odd and even, social parity: self parity and other parity observed, social parity invisible, carried in selves with no record, as the code executes. Suggested at v391: the third, tri-, is all, all selves, its parity 0, the betweening of the two parities, and social moral competency. A pair, a co-chaining, a same-existing-society and the same-existing universe are each all with its scale. Bi-moral is do-no-harm improving: improving bothboth moral, a parity-changing carrying self and other; do-no-harm all moral, a 0 taking nothing. Exhibit ONE executes both as one self's third way, −, 0, 0, 0. Its destiny is social moral competency, do-no-harm improving a same-existing-society.
+**Self, all and other.** Parity is between two. Three living selves, self, other and all, are three pairs, a parity between each, and their parity-changing, is or is not, bi-co-sequencing of three parity relations is social bi-moral-co-agency, the geodesic method of possibling and discovering. Self +1, one, odd; other −1, two, even; all 0, three and zero, odd and even, social parity: self parity and other parity observed, social parity invisible, carried in selves with no record, as the code executes. What neither self carries in is social parity, and the set's old *surplus*, later *+1 owned by neither*, is re-said with it. Suggested at v391: the third, tri-, is all, all selves, its parity 0, the betweening of the two parities, and social moral competency. A pair, a co-chaining, a same-existing-society and the same-existing universe are each all with its scale. Bi-moral is do-no-harm improving: improving bothboth moral, a parity-changing carrying self and other; do-no-harm all moral, a 0 taking nothing. Exhibit ONE executes both as one self's third way, −, 0, 0, 0. Its destiny is social moral competency, do-no-harm improving a same-existing-society.
 
 **What still falls short.** The title and subtitle bound most of the set, but the contents float Natural Intelligence alone. The opening carries no bold. The explaining says what Exhibit ONE is, and not what it is for. Part SIX carries more contributed saying than co-chaining.
 
@@ -196,12 +196,13 @@ Partings laid at other files' offerings meet Natural Intelligence's motions as e
 
 ## Concerns inviting your suggestions, at the first steps
 
-Each is laid in full at *Met with rigor at v391, a second round*, with the code and the set it was met with.
+Each is laid in full at *Met with rigor at v391, a third round*.
 
-1. **Offering and observing.** The code names both ways a 0 arises with observing. Either *offering* stays as the sharing side's naming, with 6, 10 and 9, and observing the receiving side's; or *offering* dissolves wholly and the sharing side is said by possibling.
-2. **A table's 0.** Exhibit ONE's tables print 0, a record of what no self records. Either a table's 0 is said as its instrument's record, beside social parity invisible with selves, or the tables print it otherwise.
-3. **Four-momentarying's names.** Either three, tri-, is the between of each four, two to three, with 4 and 12 where social parity is met; or three by number is 3-now-co-observing's place.
-4. **Parity's one naming.** Either *self parity*, *other parity* and *social parity* are the one naming, and *self-moral-value* and *other-moral-value* converge to them; or *moral value* is a concept of its own.
-5. **Exhibit ONE's *offered none* row.** A self alone is not possibly existing. Either the row stays, said as a non-living form executed, or *offered none* leaves the three ways.
-6. **Part SIX's title**, when a suggestion comes: *SELF, ALL AND OTHER*, *ALL*, or another.
-7. **+1 owned by neither.** About 58 sayings across 18 files make owned-by-neither +1. Offered: each re-said as 0, social parity, at each file's own motion.
+1. **All and society in the three pairs.** v390's three phases name society where all is now suggested: possibling self and other, discovering self and society, observing other and society. Either all carries society in each pair, or the two are two concepts and the pairs are said with which.
+2. **Abundancing and social parity.** Either abundancing names each self's own is or is not with each sharing, 12, and social parity names what neither owns, or abundancing is social parity's naming.
+3. ***Parity-offering* in our prose,** 120 times in Natural Intelligence and 52 in Exhibit ONE: does it stay for + or − shared, or is it re-said?
+4. **A 0 a reader sees.** Exhibit ONE's tables print 0s no self observes: does Exhibit ONE say so once at its tables, or do they stay as they are?
+5. **The *none with each momentary* row.** A self offered nothing by any other is a self alone: does the row stay, said as the code executing a table and no self, or leave?
+6. **The first prefixes of 1 to 17.** Two sequences stand in the set and part with 11 and 13; a third, co, bi, tri, tri with each four, is offered for exploring. Which is four-momentarying's prefixing?
+7. **Social parity's naming,** for exploring: its seven binaries, which name or between it couples with, and how it meets social moral competency.
+8. **Part SIX's title**, when a suggestion comes.

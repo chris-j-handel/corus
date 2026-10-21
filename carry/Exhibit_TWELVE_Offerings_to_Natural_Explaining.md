@@ -155,3 +155,7 @@ These are descriptions of possible expressions. The word “painting” establis
 **Droplet · a circular definition.** A definition using its own word, *observing is a self observing prior-existing*, gives a reader nothing to meet. — v390, gathered from session v390
 
 **Droplet · no sliders or extra wide tables.** A table wider than a reader's page needs a slider, and a slider hides what it explains. Each table is kept narrow, with a few short columns. Otherwise it becomes a list with its words unchanged: one line for each row, and a key for any long heading. — v390, carved bothboth
+
+## Gathered at v391 · v391
+
+**Droplet · *tellings*.** The person at v391: *the word tellings is not natural explaining. parity is between two … these are not tellings, this is the geodesic method of possibling and discovering.* This file is headed at 1.2 *One subject at four tellings, and no top* and at 4.7 *Two tellings at one thing, united only at one deriving from the other*, and its contents and bodies carry *telling* and *tellings*. A telling is a doer's act laid over an explaining. **To resolve:** either *telling* is re-said where a file's form is meant, its title, contents, bolds and body as four boundings of one subject, and where two sayings are meant, as two sayings of one thing; or *telling* stays as this file's own naming. — v391
