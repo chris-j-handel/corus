@@ -254,7 +254,7 @@ Each entry: **File** · *a* Subtitle · *b* At the repository · *c* Living · *
 - **Natural Intelligence Corus**
   - *a* Offering Social Moral Competency at a Self's Own Carrying, Alternating Stable-Forming in Disequilibria
   - *b* v390
-  - *c* v390: pass 10, its own explaining re-said by meaning toward session v390's concepts, quotations, field wording and namings kept; v390: seventeen resolver names at the agreed names, 1-now-existing to 17-next-existing; Exhibit ONE's cycles of moves said as bi-foldings; v389: released words re-said, observing for reading, the where not valuable, its offerings resolved, six risen
+  - *c* v390: supernatural and unnatural re-said as hard-probleming maths of no further social value; its couplings with an other said naturally; v390: pass 10, its own explaining re-said by meaning toward session v390's concepts, quotations, field wording and namings kept; v390: seventeen resolver names at the agreed names, 1-now-existing to 17-next-existing; Exhibit ONE's cycles of moves said as bi-foldings; v389: released words re-said, observing for reading, the where not valuable, its offerings resolved, six risen
   - *d* —
   - *e* pass 4 at its possible projects
 - **Natural Networking TWO Improving Kit**
