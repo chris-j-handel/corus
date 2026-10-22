@@ -131,7 +131,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
 ## 3 A bi-coupling, parity, one method, a same-existing-society and a momentary
 
-        *Entering: a bi-coupling; sharing; a bi-coupling a self; parity, a changing direction, + or −; a 0, not changing, a between of two changing directions, indifferencing; beholding; moral value; a non-living thing beholding no parity; a match, the self same-existing, sharing 0; an other's parity, next-existing; no other's parity, or parting; a self with no prior-existing parity; no self alone; a self sharing 0; a 0 never a prior; resolving among parities, one method; no other method; do-no-harming; improving; co-possibling; a same-existing-society; a momentary.*
+        *Entering: a bi-coupling; sharing; a bi-coupling a self; parity, a changing direction, + or −; a 0, not changing, a between of two changing directions, indifferencing; beholding; moral value; a non-living thing beholding no parity; a match, the self same-existing, sharing 0; an other's parity, next-existing; no other's parity, or parting; a self with no prior-existing parity; no self alone; a self sharing 0; a 0 not a prior; resolving among parities, one method; no other method; do-no-harming; improving; co-possibling; a same-existing-society; a momentary.*
 
 17. A **bi-coupling** is a self and an other self sharing possibling.
 
@@ -161,7 +161,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: an other's parity, next-existing.*
 
-24. With no other's parity, or others' parities parting, a self's next-existing parity is never same-existing.
+24. With no other's parity, or others' parities parting, a self's next-existing parity is not same-existing.
 
         *Adding: no other's parity, or parting.*
 
@@ -173,9 +173,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: no self alone.*
 
-27. A self sharing 0 is not changing, and a 0 is never a self's prior-existing parity.
+27. A self sharing 0 is not changing, and a 0 is not a self's prior-existing parity.
 
-        *Adding: a self sharing 0; a 0 never a prior.*
+        *Adding: a self sharing 0; a 0 not a prior.*
 
 28. Natural intelligence is **resolving among parities**, one method: any second method is itself resolving among parities within it, and no other method is possibly now-existing.
 
@@ -389,7 +389,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: overlap.*
 
-76. Overlapping, one and then the other, self and other are with a parity, a self's changing direction relative to an other, + or −, step 19, one inversioning or none between them, now: a self's own direction its parity, an other's the same or one inversion from it, and a 0 not changing, never a self's prior parity, step 27.
+76. Overlapping, one and then the other, self and other are with a parity, a self's changing direction relative to an other, + or −, step 19, one inversioning or none between them, now: a self's own direction its parity, an other's the same or one inversion from it, and a 0 not changing, not a self's prior parity, step 27.
 
         *Adding: parity.*
 
@@ -465,7 +465,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: stills of three.*
 
-93. Next inverting its prior has its prior going on whole with no joint form still, all four joint forms round as one cycle, a self with no other, never same-existing; next as now, an other's parity a self is observing, same-existing with its prior or one inversion from it, is a living step.
+93. Next inverting its prior has its prior going on whole with no joint form still, all four joint forms round as one cycle, a self with no other, not same-existing; next as now, an other's parity a self is observing, same-existing with its prior or one inversion from it, is a living step.
 
         *Adding: a living step.*
 
@@ -2828,7 +2828,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: a concern a self observes again.*
 
-642. Improving goes one way, forward: each next version its own occurrence, a passage dissolving with one momentary dissolves once, and a prior just dissolving is never same-existing again.
+642. Improving goes one way, forward: each next version its own occurrence, a passage dissolving with one momentary dissolves once, and a prior just dissolving is not same-existing again.
 
         *Adding: improving one way, forward.*
 
