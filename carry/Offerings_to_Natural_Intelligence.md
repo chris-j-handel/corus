@@ -64,3 +64,5 @@ Bothboth at v391: the opening's 43 lines, each feature bold where it first welco
 
 **Met at v391 · *artifact* dissolving.** Every now-existing non-living thing is a stable-forming emanation, never one kind among others; Natural Intelligence's 19 *artifact* sayings and the Co-Chaining Logic Registry's are re-said with it, or with *observing* where a prior-existing thing a self is observing now was meant. 44 re-sayings, 14 corrected by the reading for harm. — v391
 
+**Met at v391 · *beholding* dissolving, the opening of 62 lines.** A self holds nothing: the two opening lines saying *beholding* left, their content said by line 21, a self's parity relative to an other, line 25, its living parities within its universal set, and line 13, each self living, with line 24. Natural Intelligence's and the Co-Chaining Logic Registry's *beholding* sayings re-said with them, 16 re-sayings, 8 corrected by the reading for harm; every step reference and opening pointer re-pointed, the bare *line N* pointers by meaning. — v391
+

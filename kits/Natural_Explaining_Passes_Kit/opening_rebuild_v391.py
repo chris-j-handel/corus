@@ -1,7 +1,8 @@
 """opening_rebuild_v391.py: the motion that entered Natural Intelligence's 64-line opening at v391, kept as the template for a next rebuild.
 L is the opening, each (sentence, Adding text or the old step whose Adding it keeps, old line it comes from); PARA the paragraph ends; MAP the old line to its new line.
 It writes the opening at NI, THIRTY's groups 1 to 4 word for word, renumbers THIRTY's later steps, re-points step references at THIRTY, Equilibria and Numbers, and the opening's line pointers at NI and the Living File Registry.
-Run with --dry first and read every re-pointing it prints."""
+Run with --dry first and read every re-pointing it prints.
+It re-points pointers written "the opening's line N"; pointers written bare, "line N" or "lines N and M", are to be found and re-pointed by meaning after it (v391 found nine)."""
 import re, os, sys, json, shutil
 os.chdir(os.environ.get('CORUS', '.'))
 DRY='--dry' in sys.argv

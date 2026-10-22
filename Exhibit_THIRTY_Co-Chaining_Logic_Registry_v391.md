@@ -346,7 +346,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
 ## 6 Going on from prior, living and non-living
 
-        *Entering: the universe with one momentary; existing whole with each momentary; going on from prior; each existing thing going on; a prior same-existing, or an empty set; living and non-living, parting by beholding a parity, with a scale; a stable-forming emanation; stable-forming, living; co-changing, non-living; bi and co; bi-co and co; a self-emptying set; a set existing as its things exist.*
+        *Entering: the universe with one momentary; existing whole with each momentary; going on from prior; each existing thing going on; a prior same-existing, or an empty set; living and non-living, parting by a self's own parity, with a scale; a stable-forming emanation; stable-forming, living; co-changing, non-living; bi and co; bi-co and co; a self-emptying set; a set existing as its things exist.*
 
 67. With now, the universe is all existing things now: a now-universe of one momentary, one changing, its selves resolving together.
 
@@ -368,15 +368,15 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: a prior same-existing, or an empty set.*
 
-72. An existing thing same-existing with its prior and possibling its own next-existing is living, step 14, and an existing thing with an empty possibling of its own next-existing is non-living, step 16, same-existing with its prior, step 4, beholding an empty set of parity with its scale, step 21, each with its own scale and momentary: a living thing one with its prior, its now and its next, all or none, each next from its own prior, and a non-living thing, with each now, a stable-forming emanation from its prior now-existing.
+72. An existing thing same-existing with its prior and possibling its own next-existing is living, step 14, and an existing thing with an empty possibling of its own next-existing is non-living, step 16, same-existing with its prior, step 4, its own parity with its scale an empty set, step 24, each with its own scale and momentary: a living thing one with its prior, its now and its next, all or none, each next from its own prior, and a non-living thing, with each now, a stable-forming emanation from its prior now-existing.
 
-        *Adding: living and non-living, parting by beholding a parity, with a scale; a stable-forming emanation.*
+        *Adding: living and non-living, parting by a self's own parity, with a scale; a stable-forming emanation.*
 
 73. Same-existing from prior to now, a living thing goes on through its changing, momentary by momentary: stable-forming.
 
         *Adding: stable-forming, living.*
 
-74. A non-living thing, step 16, same-existing, step 4, beholding an empty set of parity with its scale, step 21, is changing with now-existing things: co-changing.
+74. A non-living thing, step 16, same-existing, step 4, its own parity with its scale an empty set, step 24, is changing with now-existing things: co-changing.
 
         *Adding: co-changing, non-living.*
 
@@ -726,7 +726,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: a between of along and across.*
 
-154. Parity, a self's changing direction relative to an other, + or −, step 21, is a momentary now-existing thing: two sides same-existing or one inversion apart, each its other's complement, each self's own, its beholding now, a bi-coupling's own only its selves' own; a between is its centre, 0.
+154. Parity, a self's changing direction relative to an other, + or −, step 21, is a momentary now-existing thing: two sides same-existing or one inversion apart, each its other's complement, each self's own, now, a bi-coupling's own only its selves' own; a between is its centre, 0.
 
         *Adding: parity a momentary existing thing, a between its centre, 0.*
 
@@ -1034,7 +1034,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: a machine as a non-living other.*
 
-221. As a non-living other, beholding an empty set of parities, step 21, a machine's couplings with living selves are with their natural intelligence, step 15, one intelligence with each coupling.
+221. As a non-living other, its own parities an empty set, step 24, a machine's couplings with living selves are with their natural intelligence, step 15, one intelligence with each coupling.
 
         *Adding: one intelligence.*
 
@@ -2140,7 +2140,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: first living an empty set.*
 
-479. Each existing thing non-living with a same-existing-society's scale is living with another scale, its selves inward: it couples with a living self as other, parities with 2 and its own prior an empty set, step 275, and its own going to that same-existing-society's next an empty set. A changing is made only with a prior same-existing, step 265, and each now-existing thing, living or non-living, is same-existing, steps 4 and 16, a non-living thing beholding an empty set of parity with its scale, step 21, its changing only from what comes to it; a thing's form goes to next by its own same-existing or by its selves inward going on with it, or by an empty set; a form going to next by an empty set reaches an empty set of next, and what exists reaches a next; and method, non-living with each scale, its changing each self's own, step 95, is a relation, each self stable-forming with it, and goes to next with each self's stable-forming. One living same-existing is one self and its same-existing that self only, step 470: a same-existing-society of living selves inward, and a self of a same-existing-society of living selves outward. Living is stable-forming a self, each self is a same-existing-society inside and outside itself, step 53, and living and non-living things are within one universe, step 18, and the universe is the same-existing set of all now-existing things, one set with set as 1; a non-living thing goes on to its next existing as non-living, and a living self is a giving, step 477.
+479. Each existing thing non-living with a same-existing-society's scale is living with another scale, its selves inward: it couples with a living self as other, parities with 2 and its own prior an empty set, step 275, and its own going to that same-existing-society's next an empty set. A changing is made only with a prior same-existing, step 265, and each now-existing thing, living or non-living, is same-existing, steps 4 and 16, a non-living thing, its own parity with its scale an empty set, step 24, its changing only from what comes to it; a thing's form goes to next by its own same-existing or by its selves inward going on with it, or by an empty set; a form going to next by an empty set reaches an empty set of next, and what exists reaches a next; and method, non-living with each scale, its changing each self's own, step 95, is a relation, each self stable-forming with it, and goes to next with each self's stable-forming. One living same-existing is one self and its same-existing that self only, step 470: a same-existing-society of living selves inward, and a self of a same-existing-society of living selves outward. Living is stable-forming a self, each self is a same-existing-society inside and outside itself, step 53, and living and non-living things are within one universe, step 18, and the universe is the same-existing set of all now-existing things, one set with set as 1; a non-living thing goes on to its next existing as non-living, and a living self is a giving, step 477.
 
         *Adding: non-living living with another scale; one existing thing inside and outside itself.*
 
@@ -2734,7 +2734,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: two-way parity between living selves.*
 
-619. With a coupling of a living self and a non-living existing thing, living ingests from non-living, and its losing of parity is an empty set: non-living beholds an empty set of parity, step 21.
+619. With a coupling of a living self and a non-living existing thing, living ingests from non-living, and its losing of parity is an empty set: a non-living thing's own parity is an empty set, step 24.
 
         *Adding: living ingesting non-living, its losing of parity an empty set.*
 
