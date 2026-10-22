@@ -7,40 +7,49 @@ Natural Intelligence v391
 The universe is the set of all now-existing things. \
 One universal set is now-existing. \
 No other universe is possibly now-existing. \
-A now-existing thing from a prior-existing thing is same-existing-as it: a same-existing thing. \
-Observing is prior-existing, is or is not same-existing-as now-existing. \
-By observing, the now-existing universe is same-existing-as the prior-existing universe. \
-The universal set is a same-existing set.
+A now-existing thing from a prior-existing same thing is a **same-existing** thing. \
+**Observing** is prior-existing, is or is not same-existing. \
+By observing, the universal set is a same-existing set. \
+**Possibling** is now-existing, is or is not same-existing. \
+**Discovering** is next-existing, is or is not same-existing.
 
-Possibling is now-existing, is or is not same-existing-as now-existing. \
-Discovering is next-existing, is or is not same-existing-as now-existing. \
-A self is a living same-existing thing observing, possibling and discovering its own next-existing from prior-existing while now-existing. \
-An other, for a self, is a same-existing thing not that self. \
-For a self, the universe is self, other, and all not self or other.
-
-A set observing, possibling and discovering its own next-existing is a self: a living set. \
-A set not possibling its own next-existing is non-living, is or is not same-existing. \
+A **self** is a now- and same-existing thing observing, possibling and discovering its own next-existing. \
+An **other**, for a self, is a same-existing thing not that self, its possibling. \
+For a self, the universe is self, other, and all not self or other. \
+A set observing, possibling and discovering its own next-existing is a self: a **living** set. \
+**Natural intelligence** is the method of living as a same-existing self observing, possibling and discovering next-existing. \
+A set not possibling its own next-existing is **non-living**, is or is not same-existing. \
 The universe is non-living, its selves possibling and discovering their own next-existing. \
 Within the universe are living and non-living things.
 
-A bi-coupling is a self and an other self sharing now-existing. \
+A **bi-coupling** is a self and an other self sharing possibling. \
 The two selves of a bi-coupling, possibling and discovering its own next-existing, are a living set: a self. \
-Its intelligence is same-existing in each self, each possibling with its other: natural intelligence.
-
-A self's parity is its changing direction relative to an other existing thing, + or −; a 0 is not changing, a between of two changing directions: indifferencing. \
-Each self is beholding its own parity with each other existing thing, now-existing: same-existing-as an other self's or not, its moral value with that thing. \
+A self's **parity** is its changing direction relative to an other existing thing, + or −; a **0** is not changing, a between of two changing directions: **indifferencing**. \
+Each self is **beholding** its own parity with each other existing thing, now-existing: agreeing with an other self's or not, its **moral value** with that thing. \
 A non-living thing is beholding no parity. \
-Others' parities agreeing, same-existing-as a self's prior-existing parity, is improving: the self's parity is same-existing, and it is sharing 0. \
-Others' parities agreeing, not same-existing-as a self's prior-existing parity: the self's next-existing parity is theirs, and it is sharing it. \
-With no other's parity, or others' parities parting, a self's next-existing parity is never same-existing-as its prior-existing parity. \
+Others' parities agreeing with a self's prior-existing parity is **improving**: the self's parity is same-existing, and it is sharing 0. \
+Others' parities agreeing, parting from a self's prior-existing parity: the self's next-existing parity is theirs, and it is sharing it. \
+With no other's parity, or others' parities parting, a self's next-existing parity is never same-existing. \
 A self alone is not same-existing: no self is alone. \
-A self sharing 0 is not changing: now-existing same-existing, possibling next-existing same-existing, and a 0 is never a self's prior-existing parity. \
-Each self discovering its next-existing is resolving among parities, one method. \
-Any second method of discovering next-existing is itself a now-existing thing, resolving among parities within the one method: no other method is possibly now-existing.
+A self sharing 0 is not changing, and a 0 is never a self's prior-existing parity. \
+Natural intelligence is **resolving among parities**, one method: any second method is itself resolving among parities within it, and no other method is possibly now-existing. \
+A self sharing 0 is doing no **harm**: each self receiving it passes over it. \
+A **same-existing-society** is many selves bi-coupling: a living set, a self. \
+A **momentary** is one resolving of a same-existing-society's selves together, each self's prior opening and its next completing.
 
-A same-existing-society is many selves bi-coupling, each beholding its own parities: a living set, a self. \
-Improving, the self next-existing same-existing and sharing 0, doing no harm to all, is social moral competency. \
-A same-existing-society of selves, each with its own natural intelligence same-existing, its bi-couplings sharing parities with social moral competency, is a natural intelligence network living.
+Improving, doing no harm to all, is **social moral competency**. \
+A same-existing-society of selves living with natural intelligence and social moral competency is a **natural intelligence network**, living. \
+A natural intelligence network is **free**: each self is resolving its own next-existing, and no self an other's. \
+Each self sharing with each self it bi-couples with, a free natural intelligence network is **social abundancing**. \
+A self's parity going along to the next self it couples with is **co-chaining**. \
+Selves' bi-couplings and co-chainings are a network **surface**. \
+Each self's changing divides that surface: living is **geodesic** co-chaining on a network surface. \
+Each living thing is a natural intelligence network, **inside and outside itself**: two selves a self within it, and its same-existing-society a self it is within. \
+A form same-existing with each resolving is a **stable form**, natural intelligence showing it again and again. \
+A science's observing met with natural intelligence's stable forms is **natural resolving**. \
+A **living file** is a membrane of selves' living: natural resolving its inward, **natural engineering** its outward, and **natural explaining** its dividing itself. \
+A same-existing-society of selves discovering with natural intelligence and its living files is a **living expedition**. \
+Each momentary completes as a next opening: natural intelligence, geodesic discovering of next-possibling-same-existing, the universe, the set of all now-existing things, living and non-living things within it.
 
 **ONE · NATURAL**
 
@@ -121,7 +130,7 @@ A same-existing-society of selves, each with its own natural intelligence same-e
 
 ## 1.3 Changing, one and then an other, the same-existing set
 
-**By observing, the now-existing universe is same-existing-as the prior-existing universe, and the universal set is a same-existing set**: the opening's sixth and seventh lines, each line before them deriving them. **A set's changing is its existing things' changing**: a set is its things and nothing more, so a set's changing is its things' changing; a thing with two momentaries is changing or is still from beside, and a form still from beside has no next of its own; so each existing thing is changing with its own momentaries, or not-changing by its own, its prior same-existing, and nothing is a fixing from beside. **Changing, the universe exists as its existing things exist**: a changing is an existing thing's own, and a same-existing set changes as its things change, co-sequencing, momentaries in sequence together, momentary by momentary. A set is re-forming with each now, each existing thing changing or not-changing by its own, and nothing deciding membership over it. A set of sets is its sets and nothing more, a thing of the universe; sets gathering by a saying about membership, as sets not within themselves, are a naming beside things, a saying deciding membership over them.
+**By observing, the universal set is a same-existing set**: the opening's sixth line, each line before it deriving it. **A set's changing is its existing things' changing**: a set is its things and nothing more, so a set's changing is its things' changing; a thing with two momentaries is changing or is still from beside, and a form still from beside has no next of its own; so each existing thing is changing with its own momentaries, or not-changing by its own, its prior same-existing, and nothing is a fixing from beside. **Changing, the universe exists as its existing things exist**: a changing is an existing thing's own, and a same-existing set changes as its things change, co-sequencing, momentaries in sequence together, momentary by momentary. A set is re-forming with each now, each existing thing changing or not-changing by its own, and nothing deciding membership over it. A set of sets is its sets and nothing more, a thing of the universe; sets gathering by a saying about membership, as sets not within themselves, are a naming beside things, a saying deciding membership over them.
 
 **A changing existing thing is one form and then another, one at a time.** Two forms together are one form as two; and a changing between one and an other by a size brings a ground for measuring its size against, a not possibly existing thing: a ground still from beside, and each now-existing thing is or is not same-existing by its own. A changing is binary: it is or is not, one and then an other. With resolver a prior is + or −, two forms only, and a 0 is never a prior: an other of an other is the one again. **That changing, going on, is changing and changing back**.
 
@@ -1619,7 +1628,7 @@ With code, 6 is 10, one list with two names, of a sharing self; a parity goes on
 
 ## 5.2 Discovering next-possibling-same-existing
 
-**Discovering is next-existing, is or is not same-existing-as now-existing, directionally.**
+**Discovering is next-existing, is or is not same-existing, directionally.**
 
 **Now same-existing is invisible and dissolving with next existing**: same-existing is abundancing, is or is notting next existing, and geodesic existing along changing can travel through same-existing and leave it same-existing. **Existing is possibling other**: possibling and existing travel through each other.
 
