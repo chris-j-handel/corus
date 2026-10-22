@@ -339,3 +339,5 @@ Two sayings keep plain *come*, an ordinary verb: *odd and even come with along a
 - *difference* and *differing*: *same-existing or one inversion apart*, or *not same-existing*.
 
 4.13 is titled *Spirals, co-spiraling and coupling across*. Natural Naming's own 2.4 entry and its *crossing* sayings, and the set's, meet it at each file's motion. — v391
+
+**Entered · *carrying* and *continuing* dissolved at Natural Intelligence and Exhibit ONE, at v391.** The naming, a self's carrying of its prior and a thing continuing, is said *same-existing*, *its prior same-existing* or *going on*. The ordinary verb, *carries* as holds or bears, is said plainly: *has*, *is with*, *brings*, *goes with*. Each saying was read for its meaning by two readers, and each pair checked: its old text found, no dissolved word and no dead form brought in, no *carry* or *continue* kept. 100 sayings. 5.3 is titled *A living self with 0, its prior same-existing*. Across the set, each file at its motion. — v391

@@ -265,7 +265,7 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 - *Five dimensions*: 3 co-momentarying now, now opening of a self's five
 - *Namings*: 3-4, co-intelligencing, with each sharing 4 its prior with 3 coupling with parities surfacing with 14, next, a self discovering it, with 11
 - *A self as three*: its invisible intelligencing method, rotation 3, 6, 5, 4, turning with 3
-- *Prior and next*: prior, a self's own, each sharing with its parity, a next momentary's continuing of 11
+- *Prior and next*: prior, a self's own, each sharing with its parity, a next momentary's same-existing of 11
 - *1 to 17s inward and outward*: 1–17s inward 17 of 1st and 1 of 2nd, along, odd, now, and with 1–17 outward within 1 to 2
 
 **4** · 4-now-co-same-existing
@@ -406,7 +406,7 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 - *Six-cycle*: 3-11-7-10-6-14
 - *Eight-cycle*: 2-15-7-11-3-14-6-10
 - *Momentaries of exchanging*: first of a same-existing-society's four, 9 to 11, completing with 11, and second, 11 to 13, opening with 11
-- *Prior and next*: next prior, odd, continuing as 3 with a next momentary, a self's own
+- *Prior and next*: next prior, odd, same-existing as 3 with a next momentary, a self's own
 - *1 to 17s inward and outward*: 1–17s inward 17 of 5th and 1 of 6th, along, odd, now, and with 1–17 outward within 2 to 3
 
 **12** · 12-next-co-same-existing
