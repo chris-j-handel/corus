@@ -786,11 +786,11 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
 ## 19 Right, observings all prior
 
-        *Entering: right as observings; three observings one; bi-tri-involutioning; eight forms to their opposites; natural-; natural- a direction prefix.*
+        *Entering: right as observings; a self's three ways one; bi-tri-involutioning; eight forms to their opposites; natural-; natural- a direction prefix.*
 
-164. Each observing is from prior with one hand: right is observings, all prior; an observing is a now-existing thing, and drawing on observings draws on the universe, three observings, same by changing, same by not-changing and discovering which, stable-forming of a living self, one sharing, a self observing it three ways.
+164. Each observing is from prior with one hand: right is observings, all prior; an observing is a now-existing thing, and drawing on observings draws on the universe, a self's three ways, same by changing, same by not-changing and discovering which, stable-forming of a living self, one sharing, a self observing it three ways.
 
-        *Adding: right as observings; three observings one.*
+        *Adding: right as observings; a self's three ways one.*
 
 165. A not-right form is one right spiral inverting: position, scale and orientation inverting together, bi-tri-involutioning.
 
@@ -800,7 +800,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: eight forms to their opposites.*
 
-167. Natural- holds one claim as two, each binary with no third, one hand and all or none at all with each coupling: natural intelligence is intelligence with each coupling, of one hand.
+167. Natural- holds one claim as two, each binary, one hand and all or none at all with each coupling: natural intelligence is intelligence with each coupling, of one hand.
 
         *Adding: natural-.*
 
@@ -2021,7 +2021,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: no first living.*
 
-450. Each existing thing non-living with a same-existing-society's scale is living with another scale, its selves inward: it couples with a living self as other, parities with 2 and no prior of its own, step 246, and has nothing of its own going to that same-existing-society's next. A changing is made only with a prior same-existing, step 236, so a thing with no prior of its own has no changing of its own; a thing's form goes to next by its own same-existing or by its selves inward going on with it, or by nothing; a form going to next by nothing reaches no next and does not exist; and method, with no changing of its own, step 66, stable-forms no self and goes to next with each self's stable-forming. One same-existing is one self and no other thing is its same-existing, step 441: a same-existing-society of living selves inward, and a self of a same-existing-society of living selves outward. Living and non-living are one existing thing inside and outside itself, and the universe is the same-existing set of all now-existing things, one set with set as 1.
+450. Each existing thing non-living with a same-existing-society's scale is living with another scale, its selves inward: it couples with a living self as other, parities with 2 and no prior of its own, step 246, and has nothing of its own going to that same-existing-society's next. A changing is made only with a prior same-existing, step 236, so a thing with no prior of its own has no changing of its own; a thing's form goes to next by its own same-existing or by its selves inward going on with it, or by nothing; a form going to next by nothing reaches no next, and what exists reaches a next; and method, with no changing of its own, step 66, stable-forms no self and goes to next with each self's stable-forming. One same-existing is one self and no other thing is its same-existing, step 441: a same-existing-society of living selves inward, and a self of a same-existing-society of living selves outward. Living and non-living are one existing thing inside and outside itself, and the universe is the same-existing set of all now-existing things, one set with set as 1.
 
         *Adding: non-living living with another scale; one existing thing inside and outside itself.*
 
@@ -2031,7 +2031,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
 ## 32 Dying, a living self going on as non-living
 
-        *Entering: a living self's selves inward, a same-existing-society; same-existing with selves inward; a dormant self living, its selves inward living; dying, a living self going on as non-living; selves inward living on with their own scale; decay, ingesting with a scale inward; a self's changings, others going on with its parities, and artifacts; a same-existing-society's decay, its selves living on; uncoupling no ending; fold and scatter; three sequential universes, one now-existing, right; three together; a changing and changing back across a right spiral's opening; a winding closing on itself; a departure, a coupling landing while a self lives; restoring; one living self, observing, living and restoring; a closing winding, no moral sharing; a lone self not going on living; each observing right, a not-right form three together.*
+        *Entering: a living self's selves inward, a same-existing-society; same-existing with selves inward; a dormant self living, its selves inward living; dying, a living self going on as non-living; selves inward living on with their own scale; decay, ingesting with a scale inward; a self's changings, others going on with its parities, and artifacts; a same-existing-society's decay, its selves living on; uncoupling no ending; fold and scatter; one universe's three sequential momentaries, one now-existing, right; three together; a changing and changing back across a right spiral's opening; a winding closing on itself; a departure, a coupling landing while a self lives; restoring; one living self, observing, living and restoring; a closing winding, no moral sharing; a lone self not going on living; each observing right, a not-right form three together.*
 
 452. A living self's prior is same-existing with its now, re-finding itself momentary by momentary, and a living self's selves one scale inward are a same-existing-society, a living set.
 
@@ -2065,9 +2065,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: fold and scatter.*
 
-460. Prior, now and next are three sequential universes, one now-existing, not same-existing between them: tri-bi-co-momentarying, a right spiral opening on to each next.
+460. Prior, now and next are one universe's three sequential momentaries, one now-existing, not same-existing between them: tri-bi-co-momentarying, a right spiral opening on to each next.
 
-        *Adding: three sequential universes, one now-existing, right.*
+        *Adding: one universe's three sequential momentaries, one now-existing, right.*
 
 461. Three fixing together as one object are an unchangeable form, a shape of bi-tri-involutioning.
 
