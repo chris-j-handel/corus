@@ -103,8 +103,8 @@ Each entry: **File** · *a* Subtitle · *b* At the repository · *c* Living · *
   - *e* pass 4 at its possible projects
 - **SIX · Natural Transmissioning**
   - *a* Bi-Coupling Science and Engineering
-  - *b* v390
-  - *c* v390: pass 10, its own explaining re-said by meaning toward session v390's concepts, field terms and words mentioned as words kept; v390: seventeen resolver names at the agreed names, 1-now-existing to 17-next-existing; Exhibit ONE's cycles of moves said as bi-foldings; v389: released words re-said, between at its section titles, *the* where not valuable, its offerings resolved, six risen
+  - *b* v391
+  - *c* v391: met with Natural Intelligence and the code all or none, 191 sayings re-said by meaning; the substrate's *carry* and fields' own words kept; v390: pass 10, its own explaining re-said by meaning toward session v390's concepts, field terms and words mentioned as words kept; v390: seventeen resolver names at the agreed names, 1-now-existing to 17-next-existing; Exhibit ONE's cycles of moves said as bi-foldings; v389: released words re-said, between at its section titles, *the* where not valuable, its offerings resolved, six risen
   - *d* —
   - *e* pass 4 at its possible projects
 - **SEVEN · Natural Societies**
