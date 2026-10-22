@@ -7,6 +7,7 @@ Natural Explaining Passes Kit · rules 11 · v391
 **What each becomes.**
 - *is or is not* → *is-or-is-not*.
 - A binary is said by naming both its sides: *self or other*, *living or non-living*, *agreeing or parting*, *0 or ±*, *along or across*; *all or none* stays, a named binary.
+- *Is-or-is-not* itself is never split: no *is* side and *is not* side placed on separate things, names or columns. A binary stands on one thing, with both its outcomes in that one test, as the code's tests stand on 3, 7, 13 and 15. Naming both sides is for named binaries only, where each side is a concept of its own.
 - A claim is said by what is: *its prior-existing parity inverting*, *its possibling an empty set*, *passing over a 0*, *at a first sharing*, *each self's own*.
 - Kept: hyphen-bound names (*non-living*, *do-no-harming*, *not-changing* as a named form), a field's established term, a theorem's statement, a finder's quoted words, a word mentioned as a word, headings whose contents lines repeat them until both change together.
 - When a negation cannot be re-said with exactly its meaning, it stays and is counted, and the hardest come to the person one at a time.
