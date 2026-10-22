@@ -9,7 +9,8 @@ Natural Explaining Passes Kit · rules 12 · v391
 - **Every claim stays, and none is added.** No word of meaning is lost: each concept, each name, each number, each pointer (*the opening's line N*, *4.6*, Exhibit ONE's table headings) stays with the claim it belongs to.
 - A paragraph's **bold lead stays word for word**: it is the paragraph's own claim and a Co-Chaining Logic Registry step holds it. If it carries two claims, the second moves out of the bold into the next sentence only when the bold's content words all stay in the bold.
 - Lean, plain words; one word for one thing; the opening's words for the opening's concepts.
-- Nothing new is claimed. Where a sentence's claim is unclear or the code does not hold it, it stays as it is and is listed for the person.
+- Nothing new is claimed.
+- **Where something is unclear, find an all-or-none binary logic, sequential path from the prior sentence to the next, without the unclear thing.** Read the sentence before and after; say each step the paragraph needs as one claim the code holds or the opening says, and leave the unclear element out. If the paragraph goes from prior to next whole without the unclear sentence, the sentence leaves. Only what neither the code nor the opening can carry goes to the person.
 - Kept as they are: tables, bullet lists of numbers, quotations, headings, the Exhibit ONE copy inside Natural Intelligence (Exhibit ONE's own file is its own slice).
 
 **The rules of rules 11 hold throughout**: *is-or-is-not* our one negation; no floating no, not, none, nothing, neither, nor, never; no narrator (shows, says, tells, executes as a doer); no equilibria words as what nature does; no dissolved words (parity-changing, alternating, offering, arriving, carrying, continuing, crossing, differ*, still-possibling, stilling, never, substrate, carry); no new past participles; `**` and `*` balanced. Exhibit ONE's code decides any claim about resolving (`resolver_from_one.py`).
