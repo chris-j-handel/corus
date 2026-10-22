@@ -947,6 +947,19 @@ Met with the code:
 
 Prior at `archive/session_v391/prior_to_part_four/`. Open for step 7's next pass: part FOUR's other re-sayings of Exhibit ONE's tables, each its numbers or its pointing by heading. — v391
 
+**Entered · step 8, part FIVE met with the code, at v391.** Dying is with no line of resolver, each self a table gives having its next entry. Torusing and corusing are said with no odd or even. Each momentary opens observing a prior with 3 and completes observing parities with 2. A hard problem is one binary of a thing within the universe.
+
+**Left, not held by the code**, laid whole:
+- 5.1: *with resolver a self has no next entry* of a dying self: run, `_17_next_existing` returns an entry for each self it is given.
+- 5.1: *as resolver's code goes: … parity going along with 17-next-existing from a same-existing-society is with its selves, one scale lower, as their next parities*: the code names no scale.
+- 5.2: *existing possibling other with even and possibling other existing with odd*
+- 5.2: *torusing with odd … corusing with even*; *a self's own corus is with 4, its momentaries 1–2 and 3–4 to it and 5–6 and 7–8 from it*: names' numbers as directions, not held by the code
+- 5.2: *An odd aims through a large opening … an even goes one way through a small opening*
+- 5.2, whole: **Six orders of self, other and same-existing-society are one each way round three**: with one through seventeen, names carry two of them, same-existing-society, other and self with 9 and 11, and other, same-existing-society and self with 10 and 12, and numbering up numbers is one momentarying method up and down a scale of one fractal method. — read from the *Sides* fields, re-said at v391 with the code.
+- 5.3: *its opening, odd, a self's … its completing, even, an other's*
+
+Open: the scale sayings of 5.1 with step 9's scale concern; *carrying* and *continuing*, dissolving into same-existing, as one motion through the body. Prior at `archive/session_v391/prior_to_part_five/`. — v391
+
 ### Bolds, the third telling
 
 **Concern · the opening carries no bold, and the bolds are claims.** 1.1's 47 lines carry no bold, so a reader of bolds misses origin, observing, self, bi-coupling, the third living self, parity and 0, and opens with 1.2's *Now is one*. From 1.2 on, 291 bolds carry about a fifth of the prose's words, most of them whole claims, a 50-word bold in 5.1 among them; Natural Explaining 2.4 makes a bold *a carrying there*, *a coining with a paragraph coining*, and concentrations of bold learning centres. Read alone, 1.2 to 6.6's bolds give a telling that does not co-chain: *Now is one* to *One is now* to *three sequential universes*. **To resolve:** bold each opening line that coins its concept, ***The universe is the set of all now-existing things.***, ***Observing is distinguishing same-as, is or is not.***, and in each later section bold its coinings, so the bold telling alone walks the set. — v391, counted
