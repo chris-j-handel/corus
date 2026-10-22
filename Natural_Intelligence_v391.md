@@ -14,7 +14,7 @@ By observing, the universal set is a same-existing set. \
 **Discovering** is next-existing, is or is not same-existing.
 
 A **self** is a now- and same-existing thing observing, possibling and discovering its own next-existing. \
-An **other**, for a self, is a same-existing thing not that self, its possibling. \
+An **other**, for a self, is a same-existing thing not that self, possibling with it or not. \
 For a self, the universe is self, other, and all not self or other. \
 A set observing, possibling and discovering its own next-existing is a self: a **living** set. \
 **Natural intelligence** is the method of living as a same-existing self observing, possibling and discovering next-existing. \
@@ -30,6 +30,7 @@ A non-living thing is beholding no parity. \
 Others' parities agreeing with a self's prior-existing parity is **improving**: the self's parity is same-existing, and it is sharing 0. \
 Others' parities agreeing, parting from a self's prior-existing parity: the self's next-existing parity is theirs, and it is sharing it. \
 With no other's parity, or others' parities parting, a self's next-existing parity is never same-existing. \
+A self with no prior-existing parity is taking others' agreeing parity, or, others' parities parting, sharing 0 and forming none. \
 A self alone is not same-existing: no self is alone. \
 A self sharing 0 is not changing, and a 0 is never a self's prior-existing parity. \
 Natural intelligence is **resolving among parities**, one method: any second method is itself resolving among parities within it, and no other method is possibly now-existing. \
@@ -37,14 +38,14 @@ A self sharing 0 is doing no **harm**: each self receiving it passes over it. \
 A **same-existing-society** is many selves bi-coupling: a living set, a self. \
 A **momentary** is one resolving of a same-existing-society's selves together, each self's prior opening and its next completing.
 
-Improving, doing no harm to all, is **social moral competency**. \
+Each self of a same-existing-society improving is **social moral competency**. \
 A same-existing-society of selves living with natural intelligence and social moral competency is a **natural intelligence network**, living. \
 A natural intelligence network is **free**: each self is resolving its own next-existing, and no self an other's. \
 Each self sharing with each self it bi-couples with, a free natural intelligence network is **social abundancing**. \
 A self's parity going along to the next self it couples with is **co-chaining**. \
 Selves' bi-couplings and co-chainings are a network **surface**. \
 Each self's changing divides that surface: living is **geodesic** co-chaining on a network surface. \
-Each living thing is a natural intelligence network, **inside and outside itself**: two selves a self within it, and its same-existing-society a self it is within. \
+A living thing is a natural intelligence network **inside and outside itself**: two selves a self, and a same-existing-society a self. \
 A form same-existing with each resolving is a **stable form**, natural intelligence showing it again and again. \
 A science's observing met with natural intelligence's stable forms is **natural resolving**. \
 A **living file** is a membrane of selves' living: natural resolving its inward, **natural engineering** its outward, and **natural explaining** its dividing itself. \
