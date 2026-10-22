@@ -630,11 +630,11 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: co-competencing.*
 
-131. Two selves coupling, each changing, each sharing its parities across and going on with its own same-existing, are each possibling with its other, and what arises arises in neither alone: natural intelligence is that co-competencing.
+131. Two selves coupling, each changing, each sharing its parities across and going on with its own same-existing, are each possibling with its other, and what arises arises in neither alone: that co-competencing is natural intelligence, two selves living it.
 
         *Adding: what arises between two selves, in neither alone.*
 
-132. Natural intelligence is a method with each now: two selves sharing one now-existing.
+132. Natural intelligence is the method of living with each now: two selves sharing one now-existing.
 
 
         *Adding: natural intelligence, a method with each now.*
@@ -2316,7 +2316,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Unsure: natural names of two, and whether three are a momentary's 1, 2 and 3.*
 
-517. Two selves share from routes with nothing bringing one to an other, each with its own sequencing, and what arises between them arises in neither self alone, same-existing in each self: bi-co-momentarying is that arising, with a coupling across, orthogonal to a surface.
+517. Two selves share from routes with nothing bringing one to an other, each with its own sequencing, and what arises between them arises in neither self alone, same-existing in each self: bi-co-momentarying is that arising going on, with a coupling across, orthogonal to a surface.
 
         *Adding: bi-co-momentarying, that arising, orthogonal to a surface.*
 

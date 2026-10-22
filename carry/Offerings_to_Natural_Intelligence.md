@@ -18,8 +18,6 @@ Natural Intelligence Offerings · resolved at v391
 
 ## Aimed at part SIX · v391
 
-**Concern · for our word, aimed at 6.1, 6.3.** One arising named "bi-co-momentarying" (6.1) and "Natural intelligence is that co-competencing" (6.3). Options: A naming choice for one arising: (a) natural intelligence names it, as the opening's "Its intelligence is same-existing in each self, each possibling with its other: natural intelligence", and 6.1's bi-co-momentarying is re-said as its going on momentary by momentary; (b) bi-co-momentarying names the arising, and 6.3 says natural intelligence is its intelligence, same-existing in each self. — v391
-
 ## Aimed at the whole file · v391
 
 **Concern · for our word, aimed at Exhibit ONE copy, subtitle and docstring.** Still "The Stable-Forming Parity-Changing Method of Discovering Same-Existing" (plan step 1 next). Options: A title, both copies alike and Exhibit ONE's own file beside them: (a) "Stable-Forming, Discovering Same-Existing", parity-changing (dissolved) and *The ... Method* leaving, at Exhibit ONE's motion (plan step 1); (b) a subtitle naming resolver's stable forms within the one method in the person's own words. — v391
@@ -57,3 +55,5 @@ Bothboth at v391: the opening's 43 lines, each feature bold where it first welco
 **Droplet · aimed at the Co-Chaining Logic Registry.** Its later steps saying free, social abundancing, co-chaining, geodesic, a stable form, natural resolving, a living file and a living expedition now repeat concepts the opening brings; each either steps on from its opening line, citing it, or re-says itself as an extension. — v391
 
 **Droplet · aimed at the body, 1.1 to 6.6.** Concepts the opening now brings, harm, a momentary, free, social abundancing, geodesic, a stable form, natural resolving, a living file, a living expedition, may each point to their opening line where the body first says them. — v391
+
+**Met at v391 · the one arising's names.** With the opening's line 13, natural intelligence is the method of living; 6.3's co-competencing is natural intelligence, two selves living it; 6.1's bi-co-momentarying is that arising going on, momentary by momentary; and 6.3's *a method with each now* is the method of living with each now. Steps 131, 132 and 517 with them. — v391
