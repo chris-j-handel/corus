@@ -133,8 +133,8 @@ Each entry: **File** · *a* Subtitle · *b* At the repository · *c* Living · *
   - *e* pass 4 at its possible projects
 - **ELEVEN · Natural Medicine**
   - *a* Sensor-Sensationing Human Health
-  - *b* v390
-  - *c* v390: each table wider than 80 narrowed to a list, its columns named once by letter keys, words unchanged; v390: pass 10, its own explaining re-said by meaning toward session v390's concepts, field terms, measurements and words mentioned as words kept; v389: released words re-said, each of ten fixed, the where not valuable, its offerings resolved, two risen
+  - *b* v391
+  - *c* v391: met with Natural Intelligence and the code all or none, 589 sayings re-said by meaning; its substrate *a carry* standing, a concern for our word at its offerings; v390: each table wider than 80 narrowed to a list, its columns named once by letter keys, words unchanged; v390: pass 10, its own explaining re-said by meaning toward session v390's concepts, field terms, measurements and words mentioned as words kept; v389: released words re-said, each of ten fixed, the where not valuable, its offerings resolved, two risen
   - *d* —
   - *e* pass 4 at its possible projects
 - **TWELVE · Natural Explaining**
