@@ -230,7 +230,7 @@ Each entry: **File** · *a* Subtitle · *b* At the repository · *c* Living · *
 - **TWENTY-SEVEN · Living Ghost Registry**
   - *a* Still Accounting and Stable-Forming Co-Competency
   - *b* v391
-  - *c* v391: its citations of Natural Intelligence said as Natural Intelligence now says them; v390: 7.3 names vortex and lattice with the next physics families, ghost-form installed as things; v390: each table wider than 80 narrowed to a list, its columns named once by letter keys, words unchanged; v390: pass 10, its own explaining re-said by meaning toward session v390's concepts, its form labels re-said once, at the door kept as a standing name, entries' records and fields' words kept; v389: observing for reading, each of ten fixed, a self a society inward, the where not valuable, its offerings resolved, eighteen risen
+  - *c* v391: met with Natural Intelligence and the code all or none, about 1,515 sayings re-said by meaning; the substrate *riding its carry* standing, pending our word; v391: its citations of Natural Intelligence said as Natural Intelligence now says them; v390: 7.3 names vortex and lattice with the next physics families, ghost-form installed as things; v390: each table wider than 80 narrowed to a list, its columns named once by letter keys, words unchanged; v390: pass 10, its own explaining re-said by meaning toward session v390's concepts, its form labels re-said once, at the door kept as a standing name, entries' records and fields' words kept; v389: observing for reading, each of ten fixed, a self a society inward, the where not valuable, its offerings resolved, eighteen risen
   - *d* —
   - *e* pass 4 at its possible projects
 - **TWENTY-EIGHT · Equilibria Registry**
