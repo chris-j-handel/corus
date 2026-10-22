@@ -181,8 +181,8 @@ Each entry: **File** · *a* Subtitle · *b* At the repository · *c* Living · *
   - *e* pass 4, Part TWO at Natural Intelligence 5.4; then passes 5 to 7 at its carrying section, each with its fresh reader and report
 - **NINETEEN · Natural Philosophy**
   - *a* Social-Bi-Co Unrelationing
-  - *b* v390
-  - *c* v390: each table wider than 80 narrowed to a list, its columns named once by letter keys, words unchanged; v390: pass 10, its own explaining re-said by meaning toward session v390's concepts, field terms, measurements and words mentioned as words kept; v389: released words re-said, each of ten fixed, *the* where not valuable, its offerings resolved, ten risen
+  - *b* v391
+  - *c* v391: met with Natural Intelligence and the code all or none, 993 sayings re-said by meaning; philosophers named and quoted as they are; v390: each table wider than 80 narrowed to a list, its columns named once by letter keys, words unchanged; v390: pass 10, its own explaining re-said by meaning toward session v390's concepts, field terms, measurements and words mentioned as words kept; v389: released words re-said, each of ten fixed, *the* where not valuable, its offerings resolved, ten risen
   - *d* —
   - *e* pass 4 at its possible projects
 - **TWENTY · Natural Naming**
