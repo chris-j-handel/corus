@@ -12,7 +12,13 @@ This plan orders the improving those droplets open, re-said with each suggestion
 - **Left in them, each named below:** Exhibit ONE's subtitle, also its code's first line, saying *Parity-Changing*; the name fields' *even, possibling* and *odd, existing*.
 - **Across the set:** about 18,400 sayings of the dissolved words stand in the 29 other living files, and the set check passes, as it reads no meanings.
 
-**Concerns about our rigor, the largest first.**
+**Gaps in our prior rigor, the largest first.** Each is a place where our own work does not cohere with itself.
+1. **Natural Intelligence grew without its chain.** Each motion was to end with its Co-Chaining Logic Registry steps; only the opening's did. Of 132 bold concepts Natural Intelligence's body says new or re-said this session, about 48 have no step holding their words: among them 3.6's *Exhibit ONE is the one method as code*, 4.15's *universal fractal method*, 2.3's *a momentary is one resolving*, and 6.1's *arising in neither self alone*. The Registry's rigor pass then met its steps with the code, not with Natural Intelligence.
+2. **Sentences the two files share drifted.** Of the steps saying a Natural Intelligence sentence word for word at the session's start, 108 and 473 no longer do; a few more differ by an article.
+3. **Other files quote Natural Intelligence's earlier words.** Natural Physics cites *Natural Intelligence 6.2: … they parity-change together*, and Natural Illustrating cites 2.2's *self's five from 1, co bi co bi co*; Natural Intelligence no longer says either.
+4. **Our checks read form, not meaning.** A pair found, no banned word, no new -ed form, the opening word for word: no check reads whether a re-saying keeps its meaning, or whether a file says what another cites it saying.
+
+**Improving opportunities, the largest first.**
 1. **The code names itself by a dissolved word.** Exhibit ONE's subtitle and its docstring say *The Stable-Forming Parity-Changing Method*. The subtitles were left for later, but the code is our guide, so this subtitle comes first among them. A docstring changes no resolving.
 2. **The set now parts from its three met files.** Natural Societies, Natural Naming, Natural Explaining, the two hard problem registries and Equilibria say a prime scale the Co-Chaining Logic Registry no longer steps to; each other file says the dissolved words. Until each file's own motion, a reader meets two sayings of one thing.
 3. **No fresh reader has compared before and after.** Each motion's checks are mechanical: a pair found, no banned word, no new -ed form, steps word for word. Meaning is checked by our reading alone. The 1,176 Registry re-sayings most need a reader who has not seen them made.
