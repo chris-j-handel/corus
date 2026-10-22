@@ -4,7 +4,39 @@ Session v391 read Natural Intelligence and Exhibit ONE against Natural Explainin
 
 This plan orders the improving those droplets open, re-said with each suggestion as rigor meets it; our suggestions and their rigor stand at Natural Intelligence's offerings, *Met with rigor at v391*. It is no rule: each step is one motion, bothboth, do-no-harm, and a step's droplets are met one concept at a time, hardest first within it. No wording here carries authority, this plan's included.
 
-## Standing after step 9 and the Co-Chaining Logic Registry, v391
+## The living plan, standing now · v391
+
+**Our aim, this session and the next.** Improving Natural Intelligence and Exhibit ONE, resolving their incoming into them, and keeping this plan living, so a next session opens it and goes on as we are going on. Value for other files is outgoing: laid as droplets at their offerings, met by their own motions. The improved living versions are published to corus.me, from `main`, replacing the prior versions; the working branch is `working/explaining-natural-intelligence-v391`.
+
+**How we work, each motion.**
+- The code is our guide: Exhibit ONE's code decides each claim about resolving; `kits/Natural_Explaining_Passes_Kit/resolver_from_one.py` writes it runnable with a ring harness.
+- No wording carries authority, the person's included, and no saying is cited as the person's. Concerns that are hard to resolve come to the person one at a time, with their context and the code run; the rest the code resolves. A proposal gives more than one alternative, and is entered on the person's word without asking again.
+- One concept a line, each line justified by the lines before it; *is-or-is-not* our one negation; living *-ing* forms; one word for one thing; no overclaiming; no equilibria words as what nature does.
+- Propose · read for harm · enter (`rules_11_one_negation_and_harm.md`): readers propose pairs, a separate reader reads every pair for harm, then `apply_aimed.py` enters them. After each motion: `cohere_one.py`, `check_set.py`, `ni_thirty_check.py`, `thirty_groups_check.py < THIRTY`, commit and push.
+
+**Entered this session, latest first.**
+1. **The 64-line opening, one concept a line**, Exhibit THIRTY's steps 1 to 64 word for word, later steps 65 to 749, every reference re-pointed (`opening_rebuild_v391.py`). Its concepts: one universe; each now-existing thing a **universal set** of all its own same-existing things (line 5); **is-or-is-not** within each universal set (6); natural intelligence *the method of living as a same-existing self* (15); each parity a living thing (24), within its self's universal set (25); the resolving cases as the code steps them (29 to 34); improving, a self sharing its changing (40); a surface's living parities living in its selves' universal sets (52); living, geodesic co-chaining on a network surface (54); a living file's membrane in four lines (58 to 61).
+2. **Our one negation.** Natural Intelligence's body and Exhibit ONE's prose, 359 re-sayings; the Co-Chaining Logic Registry's steps, 371; each read for harm before entering. *Never* dissolved across the set. 6.1's heading, *arising in each self with its other*, and the phrase set-wide.
+3. **The fresh reader's code-decided findings** on the opening and the body; **subtitles**, Natural Intelligence's *The Universal Method of Same-Existing* and Exhibit ONE's *Stable-Forming Same- and Next-Existing*; **part FOUR and Exhibit ONE one home each**; do-no-harming and improving bothbothing.
+
+**Incoming, where it stands.**
+- **Natural Intelligence's offerings:** resolved; three droplets stand: a writing pass of the body, one claim a sentence as the opening now is; a legend of the seventeen names with `build.js`; *network surface* one naming across the set.
+- **Exhibit ONE's offerings:** 60 droplets and 12 concerns, not yet resolved at v391. Many may be met by this session (the one route of 6, 10 and 9 into a receiver's 14; a 0 shared also at a first sharing with parting parities; an empty prior).
+
+**Next motions, in order.**
+1. **Resolve Exhibit ONE's offerings** against Exhibit ONE as it now stands (`rules_offerings.md` with `offerings_resolve_all.py`), the code deciding: met, released, a droplet aimed at its section, or a concern for our word.
+2. **Meet Exhibit ONE's aimed droplets**, propose · read for harm · enter, both copies one text.
+3. **Natural Intelligence's body, one claim a sentence**, part by part, as the opening is.
+4. **The legend and `build.js`.**
+5. **The negations kept** where a re-saying would change meaning, brought one at a time: Co-Chaining Logic Registry step 99, *nature is not an existing thing*; steps 100, 103 and 199, *nothing further than or between things of the universe*; steps 138 and 250, *not same-existing* as other than the self; steps 475 to 478, *not possibling its own next-existing*; steps 552, 629, 660 and 705.
+
+**For our word, standing.** The Corus's *may-never* (its offerings, since v389); the expedition's *carrying* stage (Geodesic Improving Method's offerings); the substrate's *a carry* and *riding its carry* (Natural Medicine's offerings); *network surface* or *natural network surface*.
+
+**Outgoing, laid and not worked here.** About 13,000 floating negations across the other living files (Natural Naming's offerings, *is or is not, our one negation*); the Hard Problem Registry's entries 122 on, unread; fields' own words and dated records.
+
+**Learnings of this session, entered.** Each thing a universal set, the universe one; is-or-is-not the set condition, a complement taken within a universal set, no *not* floating and no *never*; a parity a living thing, nothing kept outside selves; a surface's living parities living in its selves; defining by negation of no use.
+
+## Standing after step 9 and the Co-Chaining Logic Registry, earlier at v391
 
 **Where we are.** Natural Intelligence, Exhibit ONE and the Co-Chaining Logic Registry are met with the code, all or none: each saying the code holds is said as the code runs, and each it does not hold is laid whole at an offerings with *Left, not held by the code*.
 - **Entered:** steps 1, 2 and 4 to 8 whole; step 9 in part (*owned by neither*, scale as the bi-folding 1–17's bi-inversioning-co-recursioning).

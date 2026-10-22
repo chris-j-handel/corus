@@ -32,3 +32,14 @@ Natural Explaining Passes Kit · v389
 | `rules_10_session_v390_words.md` | session v390's words at Natural Intelligence's own prose: *changing* alone, *released*, *at*, *in*, *out*, *beyond*, *held*, *society* alone, *prioring*, *the*, *possible*, statistics, doers, re-said by meaning toward the concepts agreed at v390 |
 | `rules_concerns.md` | a concern standing at an offerings file re-explained readably, inside resolving, a **To resolve:** question at its end |
 | `rules_offerings.md` with `offerings_resolve_all.py` (a whole offerings file) or `offerings_resolve.py` (the part before a marker) | an offerings file resolved against its living file: carried, released, duplicate, risen, or a concern standing |
+
+## The tools of v391
+
+| Tool | Use |
+|---|---|
+| `rules_11_one_negation_and_harm.md` | *is-or-is-not* our one negation; the motion propose · read for harm · enter |
+| `apply_aimed.py` | enters readers' `ni_pairs`, `one_pairs` and `thirty_pairs`, refusing what would harm, steps 1 to 64 untouched |
+| `resolver_from_one.py` | writes Exhibit ONE's code runnable, with a ring harness, for readers to run the code that decides |
+| `ni_thirty_check.py` | each bold concept of Natural Intelligence's body held by a Co-Chaining Logic Registry step |
+| `opening_rebuild_v391.py` | the motion that entered the 64-line opening, its THIRTY groups and every re-pointing: the template for a next rebuild |
+
