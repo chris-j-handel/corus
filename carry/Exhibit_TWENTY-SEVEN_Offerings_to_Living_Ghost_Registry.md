@@ -84,4 +84,4 @@ Living Ghost Registry and Equilibria Registry: two registries, one derivation. T
 
 ## Incoming · chemistry-water-20261022
 
-- **Living Ghost Registry 7.8, water-dimer line 4 · Oxygen position:** the saying “each oxygen's position stands” can distinguish remaining associated with surface sites from remaining motionless, carrying the authors' proposed oxygen displacement and its coupling to interchange with the observing ([Kumagai and colleagues, 2008, Figures 3 and 5](https://doi.org/10.1103/PhysRevLett.100.166101)). — chemistry-water-20261022
+- **Living Ghost Registry 7.8, water-dimer line 4 · Oxygen position:** the saying “each oxygen's position stands” can distinguish remaining associated with surface sites from remaining motionless, carrying the authors' proposed oxygen displacement and its coupling to interchange with the observing ([Kumagai and colleagues, 2008, Figures 3 and 4](https://doi.org/10.1103/PhysRevLett.100.166101)). — chemistry-water-20261022
