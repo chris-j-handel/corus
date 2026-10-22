@@ -71,3 +71,7 @@ Natural Intelligence Corus section 17.3 proposes hard problems as stuck coupling
 **Droplet · from Natural Intelligence's offerings, aimed here.** a hard problem of consciousness dissolving — v391
 
 **Droplet · a hard problem of consciousness.** A hard problem of consciousness observes a self as if not-universe and then finds consciousness among no things; observing is the one method coupling, and its asking dissolves. — v390, toward two methods parting
+
+## Laid from Natural Intelligence at v391 · v391
+
+**Droplet · resolving a hard problem is defining its universal set, at v391.** A universal set is a set of same-existing things (Natural Intelligence's opening, line 5), and it defines an unbounded whole self, a geodesic self on a Natural Network surface among them. A hard problem is resolved by defining its universal set, the whole within which each of its is-or-is-nots is taken, rather than by holding its binary as a destiny. Each hard problem here is to be met so, at this file's own motion. — v391

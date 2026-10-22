@@ -37,3 +37,7 @@ Exhibit FOURTEEN Natural Destinies Offerings · improved at v386EOD
 ## Gathered at v391, reading across the living file set · v391
 
 **Droplet · bi-moral co-agency, one home.** This file opens on a core paragraph four files share word for word, *two-way, one-at-a-time, selecting by binary preferring — a parity, sign-only — summing to a bounding-zeroing made by coupling itself, riding its carry, its abundancing a +1 owned neither-ing*. Natural Intelligence 6.2 is bi-moral co-agency's home, and it says it otherwise, with *alternating*, re-said at v391 as parity-changing. Offered: when 6.2 is re-said, this file's core meets it, each of its parts carried there or said as this file's own. — v391
+
+## Laid from Natural Intelligence at v391 · v391
+
+**Droplet · resolving a hard problem is defining its universal set, at v391.** A universal set is a set of same-existing things (Natural Intelligence's opening, line 5), and it defines an unbounded whole self, a geodesic self on a Natural Network surface among them. A hard problem is resolved by defining its universal set, the whole within which each of its is-or-is-nots is taken, rather than by holding its binary as a destiny. Each hard problem here is to be met so, at this file's own motion. — v391

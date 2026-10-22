@@ -139,3 +139,7 @@ With the suggestion *+1 self, 0 all selves, −1 other self*, a *+1 owned by nei
 - what is owned by neither is all, 0, social parity.
 
 **Offered:** each *+1 owned by neither* across the set re-said as *0, social parity, owned by neither, invisible, carried in selves*, at each file's own motion; a field's or numbers' own +1, as a numeral, kept whole with its field. — v391, counted
+
+## Laid from Natural Intelligence at v391 · v391
+
+**Droplet · resolving a hard problem is defining its universal set, at v391.** A universal set is a set of same-existing things (Natural Intelligence's opening, line 5), and it defines an unbounded whole self, a geodesic self on a Natural Network surface among them. A hard problem is resolved by defining its universal set, the whole within which each of its is-or-is-nots is taken, rather than by holding its binary as a destiny. Each hard problem here is to be met so, at this file's own motion. — v391

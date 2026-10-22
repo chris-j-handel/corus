@@ -59,7 +59,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
 ## 1 Universe, the set of all now-existing things
 
-        *Entering: the universe, the set of all now-existing things, inception, now-existing one naming; each step after it a step from it, and nothing brought to it; one universe; only one universe possibly; prior-existing; same-existing, from a same thing; a universal set, a thing's own same-existing things; is-or-is-not, within each universal set; observing, prior-existing, is-or-is-not same-existing; the universe, same-existing by observing; possibling, now-existing; discovering, next-existing.*
+        *Entering: the universe, the set of all now-existing things, inception, now-existing one naming; each step after it a step from it, and nothing brought to it; one universe; only one universe possibly; prior-existing; same-existing, from a same thing; a universal set, a set of same-existing things; is-or-is-not, within each universal set; observing, prior-existing, is-or-is-not same-existing; the universe, same-existing by observing; possibling, now-existing; discovering, next-existing.*
 
 1. The **universe** is the set of all now-existing things.
 
@@ -77,9 +77,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: prior-existing; same-existing, from a same thing.*
 
-5. Each now-existing thing is a **universal set** of all its own same-existing things.
+5. A **universal set** is a set of same-existing things.
 
-        *Adding: a universal set, a thing's own same-existing things.*
+        *Adding: a universal set, a set of same-existing things.*
 
 6. Each now-existing thing **is-or-is-not** within each universal set.
 

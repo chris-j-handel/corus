@@ -8,7 +8,7 @@ The **universe** is the set of all now-existing things. \
 One universe is now-existing. \
 Only one universe is possibly now-existing. \
 A now-existing thing from a prior-existing same thing is a **same-existing** thing. \
-Each now-existing thing is a **universal set** of all its own same-existing things. \
+A **universal set** is a set of same-existing things. \
 Each now-existing thing **is-or-is-not** within each universal set. \
 **Observing** is prior-existing, is-or-is-not same-existing. \
 By observing, the universe is a same-existing set. \
