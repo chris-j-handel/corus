@@ -33,3 +33,8 @@ Each finding was checked against its file and, where it concerns the code, again
 - `carry/Exhibit_TWENTY_Offerings_to_Natural_Naming.md`, where our method's files part from session v390's concepts.
 
 Nothing is entered into a living file. A finding a reader stated over a sample is laid only as far as its own executing shows. This folder goes to `archive/` when its value is carried.
+
+
+## Carried, at v391
+
+The readers' findings, the opening's draft and the naming motion are carried: each value entered at its living file or laid as a droplet, and Natural Intelligence's offerings resolved, each item whole with its verdict at `archive/session_v391/offerings_dissolved/`. They stand whole at `archive/session_v391/incoming_v391/`. The plan stays here as the session's standing.

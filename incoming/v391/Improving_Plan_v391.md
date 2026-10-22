@@ -12,29 +12,27 @@ This plan orders the improving those droplets open, re-said with each suggestion
 - **Left in them, each named below:** Exhibit ONE's subtitle, also its code's first line, saying *Parity-Changing*; the name fields' *even, possibling* and *odd, existing*.
 - **Across the set:** about 18,400 sayings of the dissolved words stand in the 29 other living files, and the set check passes, as it reads no meanings.
 
-**Gaps in our prior rigor, the largest first.** Each is a place where our own work does not cohere with itself.
-1. **Natural Intelligence grew without its chain.** Each motion was to end with its Co-Chaining Logic Registry steps; only the opening's did. Of 132 bold concepts Natural Intelligence's body says new or re-said this session, about 48 have no step holding their words: among them 3.6's *Exhibit ONE is the one method as code*, 4.15's *universal fractal method*, 2.3's *a momentary is one resolving*, and 6.1's *arising in neither self alone*. The Registry's rigor pass then met its steps with the code, not with Natural Intelligence.
-2. **Sentences the two files share drifted.** Of the steps saying a Natural Intelligence sentence word for word at the session's start, 108 and 473 no longer do; a few more differ by an article.
-3. **Other files quote Natural Intelligence's earlier words.** Natural Physics cites *Natural Intelligence 6.2: … they parity-change together*, and Natural Illustrating cites 2.2's *self's five from 1, co bi co bi co*; Natural Intelligence no longer says either.
-4. **Our checks read form, not meaning.** A pair found, no banned word, no new -ed form, the opening word for word: no check reads whether a re-saying keeps its meaning, or whether a file says what another cites it saying.
+**Gaps in our prior rigor, met at v391.**
+1. **Natural Intelligence grew without its chain.** Met: each of its 258 bold concepts is held by a Co-Chaining Logic Registry step, 63 steps re-said and 34 entering where each chains; `ni_thirty_check.py` holds it.
+2. **Shared sentences drifted.** Met with the same motion, and steps 260 and 473 re-said with it.
+3. **Other files quoted earlier words.** Met: 33 citations in seven files say what Natural Intelligence now says.
+4. **Checks read form, not meaning.** Met in part: a fresh reader read the 109 new and changed steps, and its 21 findings are met, four of them with the code, Natural Intelligence changing with them. The other files' motions are checked by form and by sampling only.
 
-**Improving opportunities, the largest first.**
-1. **The code names itself by a dissolved word.** Exhibit ONE's subtitle and its docstring say *The Stable-Forming Parity-Changing Method*. The subtitles were left for later, but the code is our guide, so this subtitle comes first among them. A docstring changes no resolving.
-2. **The set now parts from its three met files.** Natural Societies, Natural Naming, Natural Explaining, the two hard problem registries and Equilibria say a prime scale the Co-Chaining Logic Registry no longer steps to; each other file says the dissolved words. Until each file's own motion, a reader meets two sayings of one thing.
-3. **No fresh reader has compared before and after.** Each motion's checks are mechanical: a pair found, no banned word, no new -ed form, steps word for word. Meaning is checked by our reading alone. The 1,176 Registry re-sayings most need a reader who has not seen them made.
-4. **The name fields' parity words.** *2, 6, 10 and 14, even, possibling* holds by the code, as each of those names is a possibling; *17, odd, existing* holds as its root. Read together they say the dissolved pairing. Either each field says its number and its root apart, or it keeps one.
-5. **The code's names, one concept each.** *15-next-observing* names both a self's prior and a parity received; *4-now-co-same-existing* names both a self and a self's side. Renaming by meaning, checked for identical resolving, is open.
-6. **Kits.** `cohere_one.py` reads Exhibit ONE's old subtitle and stops; `check_set.py` carries its one-text check. `carry_check.py` does not read the carrying's present shape.
-7. **Incoming drafts.** `opening_draft_v391.md` shows an earlier opening, before *continuing* and *carrying* dissolved; the entered opening is Natural Intelligence's.
+**Natural Intelligence's incoming, resolved at v391.** Its offerings' 495 items are read against its present text: 153 met, 118 on dissolved or released forms, 27 duplicates and 43 dated records stand whole with their verdicts at `archive/session_v391/offerings_dissolved/`; 31 for other files are laid at their offerings; 123 stand as droplets, each aimed at its section. The carried incoming is whole at `archive/session_v391/incoming_v391/` and `archive/session_v391/incoming_v390/`.
 
-**From here, each one motion, do-no-harm, hardest first within it.**
-1. **Exhibit ONE's subtitle and docstring,** said with the code: concern 1, with Natural Intelligence's subtitle and the Co-Chaining Logic Registry's meeting it.
-2. **The name fields,** concern 4, both copies one text.
-3. **Part SIX and the close,** the rest of step 9: its purpose and title, then each sentence co-chaining from the opening or laid whole; *Each momentary completes as a next opening*.
-4. **A fresh reader,** concern 3: Natural Intelligence, Exhibit ONE and the Co-Chaining Logic Registry read against the code and against their priors at the archive, each finding met one at a time.
-5. **The code's names,** concern 5, entered only if every run resolves identically.
-6. **Each other file, its own motion,** concern 2, nearest Natural Intelligence first: Natural Naming, Natural Explaining, the Geodesic Improving Method, Natural Mathematics, Natural Numbers, Natural Societies, then outward. Each meets the prime scale and the dissolved words by meaning, with the Co-Chaining Logic Registry's steps.
-7. **Kits and close:** concern 6's kits; concern 7's draft archived; `incoming/v390/` archived; the Session Record's paragraphs; merging or a pull request, our decision.
+**From here, each one motion, do-no-harm, the largest family first.** The aimed droplets at `carry/Offerings_to_Natural_Intelligence.md`, by family:
+1. **Parts ONE to THREE**, still parting from the opening or the code: three universes and one now, the one method's three namings, *method* for three things, 2.4's counts, 3.2's five dimensions, 3.5's momentary 119 and common beat.
+2. **Part SIX and the close**, purpose first: its title, natural intelligence one thing (a method or a living set), 6.1 and 6.3 one arising, 6.5's commencing, abundancing, networking, the aiming line and destiny.
+3. **Part FOUR and Exhibit ONE, one home**: part FOUR's re-sayings of the tables, the name fields' parity words, two routes beside one list, 4.6's scale, Exhibit ONE's 0s no self sees and its *none* row.
+4. **Writing across the file**: one claim a sentence, whole names for bare numbers, clocking and *because*, *between* and *scientific-method* one sense each.
+5. **The opening line by line**: bold coinings, its words arriving bare, line 27's sharing of a parity only, and the body justifying *all not self or other* and *a natural intelligence network living*.
+6. **Learnings not yet carried**: social parity, the three pairs, possibling the invisible middle, 0, 1, 2, 3.
+7. **Part FIVE**: 5.1's scale sayings, 5.4's ten unchangeables and its reader from a science.
+8. **Contents**: Exhibit ONE's line, 2.5's entry, part SIX's title.
+
+**For our word, standing.** Exhibit ONE's subtitle and docstring, and the Co-Chaining Logic Registry's subtitle, carry dissolved words and an object other than *next-possibling-same-existing*; subtitles were left for later. Natural Societies' ladder at fourteen primes stands as a concern at its offerings.
+
+**The set, file by file.** Met at v391 with Natural Intelligence and the code: Natural Mathematics, Natural Explaining, Natural Societies and Natural Numbers. Next, nearest first: Natural Naming, the Geodesic Improving Method, Equilibria, Natural Illustrating, Natural Physics, then outward.
 
 ## Earlier standing, at v391, before step 1
 
@@ -91,7 +89,7 @@ The steps below order that improving: title and subtitle, contents, bolds, the o
 **Carrying, kits and incoming.**
 - **Carrying.** Living Improving Value's front names this working, and the Living File Registry's table of workings names it.
 - **Kits.** `cohere_one.py` and `thirty_groups_check.py` each carry a lag laid at the Living File Registry's offerings, and `carry_check.py` does not yet read the carrying's present shape.
-- **Incoming.** `incoming/v390/` is not yet archived.
+- **Incoming.** `archive/session_v391/incoming_v390/` is not yet archived.
 - **Session Record.** It takes this session's paragraphs at its close.
 
 ## What the set shows Natural Intelligence is for

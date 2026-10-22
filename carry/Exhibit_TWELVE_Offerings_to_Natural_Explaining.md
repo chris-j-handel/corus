@@ -173,3 +173,13 @@ These are descriptions of possible expressions. The word “painting” establis
 **Entered · dead forms in Natural Intelligence and Exhibit ONE, at v391.** *Next as prior inverted* was met as dead language: *inverted* a momentarying finished. Each *inverted*, *surfaced*, *kept* and *moved* is said with its -ing, *next inverting its prior* among them, and the sections written at v391 carry no past participle. Past participles stand elsewhere in both files, *fixed*, *shared*, *carried* and others, each met as its sentence is met; across the set, at each file's motion. — v391
 
 **Entered · past participles said living at Natural Intelligence and Exhibit ONE, at v391.** About 265 sayings outside the code, each re-said by its meaning: an -ing or a present form, a self the doer of each observing, sharing and beholding, and no dissolved word brought in. Four readers proposed pairs over four ranges, and each pair was checked before entering: its old text found exactly, no dissolved word and no new dead form brought in, markers balanced. Left: *owned by neither*, for its own motion with part SIX; *need*, *seed* and *two-sided*, which are not participles. Prior at `archive/session_v391/prior_to_dead_forms/`. — v391
+
+## Laid from Natural Intelligence's offerings at v391 · v391
+
+**Droplet · from Natural Intelligence's offerings, aimed here.** following one observing whole is the observing work's, not NI's — v391
+
+- **One observing followed whole.** This session's working: "At each observing, the method says that observing and not its opposite." "At each other method, the thing it needs is one of the four fallings, met at an observing." Not followed; it is the observing work's.
+
+**Droplet · from Natural Intelligence's offerings, aimed here.**  — v391
+
+**Droplet · *tellings* within the method's own file.** Natural Explaining 1.2 is headed *One subject at four tellings, and no top*, and 4.7 *Two tellings at one thing*. With the suggestion that *the word tellings is not natural explaining*, each is met at Natural Explaining's offerings. — v391

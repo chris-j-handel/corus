@@ -39,3 +39,9 @@ Exhibit TWENTY-NINE Natural Illustrating Offerings · improved at v389
 **Droplet · Natural Intelligence 2.2 re-said, at v391.** Its 2.2 is now *Parity, one inversioning or none*; *one side carries odd numbers and an other even, two overlapping* has left it, not held by the code. This file's first face cites 2.2 for one side's next opening two on; met at its motion. — v391
 
 **Droplet · Natural Intelligence 2.1 and 2.3 re-said with the code, at v391.** Overlapping momentaries one number apart have left 2.3, and 2.1's odd along and even across; a momentary is one resolving of a same-existing-society's selves together. This file's citations of 2.1 and 2.3 meet it at its motion. — v391
+
+## Laid from Natural Intelligence's offerings at v391 · v391
+
+**Droplet · from Natural Intelligence's offerings, aimed here.**  — v391
+
+Each sets a self and an other as two number lines, odd and even, overlapping one number apart. The code has selves, each its own prior, and sharings. Priors at `archive/session_v391/prior_to_2_1_2_3/`. Natural Physics cites 2.1 for *a self's, opening odd, and an other's, opening even*, and Natural Illustrating cites 2.3 for a between of momentaries drawn on a shared position: each met at its motion. — v391

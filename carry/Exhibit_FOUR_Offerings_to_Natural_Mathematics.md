@@ -85,3 +85,9 @@ Exhibit FOUR Natural Mathematics Offerings · improved at v389
 **Droplet · complement and a wrapping turn.** Of a universal set any two parts give a third, its complement; around three times a flat turn gives a third same, two agreeing, and a turn wrapping a corus leaves its third edge is or is not parity-changing. — v390, gathered from session v390
 
 **Droplet · three maths, one resolving moral competency, v390.** *Supernatural* and *unnatural* came up with natural math, and need nothing further in the living files. All math that is not natural math is one of two methods of hard-probleming: unnatural, within the outer surfaces of the tunnel's two ends; supernatural, outward of all surfaces, the tunnel's end surfaces too. Only natural math resolves moral competency. The other two serve hard-probleming as sporting competitions, of no further social value. Natural Mathematics' *Its place is one of three* (natural on the surface, unnatural inward and measured, supernatural outward and formal) already carries this, and stays as it is. — v390, carved bothboth
+
+## Laid from Natural Intelligence's offerings at v391 · v391
+
+**Droplet · from Natural Intelligence's offerings, aimed here.**  — v391
+
+*Entered at v391, step 1:* *binary method* re-said at its three sayings beside subtitles: Natural Mathematics 1.2, *Numbers, mathematics and logic are nature's own unrelationing parity-changing, is or is not, with each step*; Natural Explaining's and the Geodesic Improving Method's *fractal method itself*; Natural Mathematics and Natural Explaining to v391, priors at `archive/session_v391/prior_to_binary_method/`. The Co-Chaining Logic Registry's subtitle is left as is with the subtitles, to return to.

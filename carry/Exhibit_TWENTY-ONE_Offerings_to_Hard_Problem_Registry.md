@@ -118,3 +118,9 @@ Exhibit TWENTY-ONE Hard Problem Registry Offerings · improved at v389
 ## Gathered from session v390 · v390
 
 **Droplet · a registry of resolvings.** A same-existing-universe having no hard problem existing, a registry carries how each question resolves by momentarying rather than problems that exist. Observing an other as not-universe, a specimen still or an observer outside, is a hard problem's shape. — v390, gathered from session v390
+
+## Laid from Natural Intelligence's offerings at v391 · v391
+
+**Droplet · from Natural Intelligence's offerings, aimed here.** toward the hard problem registries — v391
+
+**Droplet · no hard problem existing in a same-existing-universe.** Hard problems are not possibly existing in a same-existing-universe. A hard problem is a question with no answer is or is not; a same-existing-universe re-finds each now-existing thing same as, is or is not, at each momentary of 1 to 17, one method and no other possible, so each question is answered with a momentary and no question stays open across all of them. Seen this session: a universal set a member of itself turned on itself only when gathered once, out of momentarying, and co-sequentially is sequence and no loop; consciousness is observing, possibling and discovering next-existing self, the method itself. Toward the hard problem registries: each hard problem a question gathered out of momentarying, resolved by momentarying it. — v390, toward Resolving Hard Problems and the hard problem registries

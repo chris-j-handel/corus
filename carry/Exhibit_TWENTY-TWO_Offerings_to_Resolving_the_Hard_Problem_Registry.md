@@ -119,3 +119,23 @@ The hard-problem concern distinguishes an output constrained by a definition fro
 **Concern · a between, +1 or 0.** This file makes a between *+1, exactly one, owned by neither, of no size*, drawn with number boxes, n² − (n−1)(n+1) = 1; Natural Intelligence and Exhibit ONE make a between 0, a betweening. Two sayings of one concept. **To resolve:** either one between, 0 with parity and 1 with numbers, a step from origin showing it; or the +1 re-said as 0, or as the abundancing suggested at v391, a coupling's third living self. — v391
 
 **Droplet · +1 or social parity, a second round.** Suggested at v391: *there is +1 self, 0 all selves, -1 other self … social parity is invisible and always carrying in selves.* This file's *+1, exactly one, owned by neither, of no size* says owned by neither of +1, which is self parity, a self's own. Offered: its third term re-said *0, social parity, owned by neither, invisible, carried in selves*, its numbers' boxes, n² − (n−1)(n+1) = 1, kept as numbers' own with their relation to social parity shown, or left as numbers'. — v391
+
+## Laid from Natural Intelligence's offerings at v391 · v391
+
+**Droplet · from Natural Intelligence's offerings, aimed here.**  — v391
+
+**Suggestion, v391.** *disequilibrating is dissolving from our natural naming.*
+- **Where it stands.** It stands 96 times across Natural Physics, Natural Exploring, Natural Biology, the Co-Chaining Logic Registry and Resolving the Hard Problem Registry, and in Natural Naming 2.6 and 5.29, *geodesic disequilibrating*, a whole naming.
+- **Withdrawn.** v391's droplet *disequilibrating, a hard problem's one move* is withdrawn.
+- **Offered:** each file's sentence re-said by meaning, its one move with a hard problem carried as observing, possibling and discovering, its fixing set down.
+- **Concern it invites:** what carries *dis-* and *equilibrium* once both leave; Natural Naming 2.6 makes disequilibrating *a dissolving of an equilibrium an observing fixed unchangeable*. — v391
+
+**Droplet · from Natural Intelligence's offerings, aimed here.**  — v391
+
+**Droplet · what the +1 is, and where.** The concern *A between's 0 and the registry's +1* named a living file by its kind. *Resolving the Hard Problem Registry* is Exhibit TWENTY-TWO, and it says *Two selves offer at a between, one at a time, each taking its own parity, and their coupling makes a third term between them, +1, exactly one, owned by neither, of no size*. Natural Biology says *from coupling a third self is conceived — a +1 made with coupling, owned neither-ing parent*. *+1 owned by neither* stands about 58 times across 18 living files; Natural Intelligence says it nowhere. Natural Societies, Natural Health, Natural Medicine and Natural Destinies each carry it in one shared core sentence, *its abundancing a +1 owned neither-ing*.
+
+With the suggestion *+1 self, 0 all selves, −1 other self*, a *+1 owned by neither* parts from both:
+- +1 is self parity, a self's own;
+- what is owned by neither is all, 0, social parity.
+
+**Offered:** each *+1 owned by neither* across the set re-said as *0, social parity, owned by neither, invisible, carried in selves*, at each file's own motion; a field's or numbers' own +1, as a numeral, kept whole with its field. — v391, counted

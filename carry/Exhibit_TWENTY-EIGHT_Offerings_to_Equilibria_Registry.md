@@ -83,3 +83,11 @@ The user's further offering is: “if the living stable form is colliding with n
 ## Gathered from session v390 · v390
 
 **Droplet · turn-taking, one parity together.** A same-existing-society of one parity, each self met by one or more, goes parity-changing together and 0 together, turn by turn, without end: an equilibrium of turn-taking. — v390, gathered from session v390
+
+## Laid from Natural Intelligence's offerings at v391 · v391
+
+**Droplet · from Natural Intelligence's offerings, aimed here.** 1.4 keeps five, "Each of the five is a keeping from beside"; the eight with each field's proof (Arrow's theorem, hubs, boundings) belong with the Equilibria Registry — v391
+
+**A plan, not yet final, gathered here at v381R:** **Ready, at v380l, from `archive/session_v380/v380R/The_Universal_Claim_Gathered.md`, for this file's early part: the claim of the one possible method of the set of all existing things, gathered link by link from the files that carry it.** The set and nothing beside it; the set itself an existing thing; each other method a thing set over the existing things, five in Natural Intelligence, eight hubs in Natural Human Society, four boundings at two faces in Natural Societies; each assuring some and none all, each field proving it of its own, Arrow's theorem, the store of nine values, the frame with no privilege; each set aside, and all together, natural torusing; all or none at all; the same form at each number, (n − 1)(n + 1) = n² − 1, the one owned by neither. For its entering: one list of eight; the word for an assurance; each field's own proof beside each of the eight; one place, the chain now in five files and whole in none. The concern above on the claim broken is of this working's own chain of sixteen ways and is withdrawn. — v380l
+
+*Standing at v389:* Two lists part. Natural Intelligence 1.5 has five, each a second now, "A doer applying any of them from beside is five's one holder", with "its givens at Equilibria Registry 2.1"; this plan gathers eight, each with a field's own proof beside it, Arrow's theorem among them. **To resolve:** does 1.5 stay at five, eight and their proofs carried at Equilibria Registry 2.1, or rise to eight with each field's proof entered?

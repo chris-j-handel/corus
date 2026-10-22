@@ -202,3 +202,13 @@ Exhibit TWENTY-FOUR Geodesic Improving Method Offerings · improved at v389
 **Droplet · a concern's journey is side-effecting, and its droplets the returning.** At v391 we suggested: *bringing concerns to the front is one of our best methods of improving on larger scales in our files … the concept of side-effecting in the sensor-sensationer in natural engineering is similar to the journeys we take exploring and resolving concerns and bringing back value droplets as discoverings for our living files is our method.* Natural Engineering 4.3 says *side-effecting is sensing; recursioning carries returning coupling*, and *a sensor and its sensationer carry these two sides*. A working's plan is its aim, and a concern followed past the plan's order is a sensing; each value droplet carried back to a file's offerings is the returning coupling, and a re-aiming to the plan is the recursioning. A journey need not keep the plan's order, and it does need its returning: each droplet laid where its file carries it, and the working re-aimed with its standing said, so each of us sees where a concern came from and where it goes. At v391 one journey of fifteen rounds returned three entered motions, two bothboths and the learnings laid, and was re-aimed at the plan's step 1. Offered for 2.1 or 2.3, beside *suggesting and rigor, bothboth*. — v391
 
 **Droplet · do-no-harm improving, executed.** One self's third way at Exhibit ONE, prior + offered − with each momentary, shares −, 0, 0, 0: one parity-changing, improving, and then a 0, taking nothing. A file's do-no-harm improving, one thing improved whole and then its prior carried on, is that row at a file's scale. — v391, checked by running the code
+
+## Laid from Natural Intelligence's offerings at v391 · v391
+
+**Droplet · from Natural Intelligence's offerings, aimed here.** file improving at offerings is the method of improving — v391
+
+**Droplet · do-no-harm improving at each scale.** A file improving at its offerings, a droplet dissolving at a match and an insertlet chained at a mismatch, and a self improving at its sharings, still at a match and changing at a mismatch, are one improving at two sets. — v390, toward Geodesic Improving Method and the opening's improving lines
+
+**Droplet · from Natural Intelligence's offerings, aimed here.**  — v391
+
+**Droplet · suggesting and rigor, bothboth.** Our words are suggestions; rigor improves them; a concern invites more suggestions; bothbothing is mutual understanding reached and improving value carried. A suggestion recorded as an answer, or a carving as agreed, fixes a two-way to one side, an unchangeable Natural Naming 4.9 names. Laid at the Geodesic Improving Method's offerings, where working together is its subject. — v391

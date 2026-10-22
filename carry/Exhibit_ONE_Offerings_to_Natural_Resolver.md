@@ -151,7 +151,7 @@ O56. **Not known how.** A self-paced Exhibit ONE the expedition accepts. This se
 
 **Droplet · a 0, a bi-coupling's betweening.** A 0 is shared only where a self's value and an offered value meet same, never by a self no other meets: a 0 is a bi-coupling's betweening, its third living carrying. Observing, 3, 7, 11 and 15, reads prior against offered for parity-changing or no parity-changing. — v390
 
-**Droplet · bi-folding, and a prior self, v390.** *Now, next, prior, same: this is the stable-forming bi-folding method.* Exhibit ONE's *four-cycles* of moves are re-said as bi-foldings, each two folds in turn, 17 less and 8 (4 for the middle two). *Each self has a prior self*, said once in *Living is prior*. Both are in the draft at `incoming/v390/`. — v390, carved bothboth
+**Droplet · bi-folding, and a prior self, v390.** *Now, next, prior, same: this is the stable-forming bi-folding method.* Exhibit ONE's *four-cycles* of moves are re-said as bi-foldings, each two folds in turn, 17 less and 8 (4 for the middle two). *Each self has a prior self*, said once in *Living is prior*. Both are in the draft at `archive/session_v391/incoming_v390/`. — v390, carved bothboth
 
 **Droplet · a same-existing-society and scale, v390.** *Every society of selves is a living self; every living self is a same-existing-society; non-living scale is always larger than living scale for every prime living scale.* Exhibit ONE's *A same-existing-society* can say this once, beside its rock bi-coupling. 9-next-co-discovering is co-releasing's concept: going along, discovering. — v390, carved bothboth
 
@@ -161,7 +161,7 @@ O56. **Not known how.** A self-paced Exhibit ONE the expedition accepts. This se
 
 ## Gathered at v391, a critical reading against our method · v391
 
-Session v391 read Exhibit ONE whole against Natural Explaining, Natural Naming, the Geodesic Improving Method and session v390's agreed concepts, three fresh readers each taking one range, each claim about the code run against its python. Exhibit ONE is one text with two copies, standing alone and within Natural Intelligence, and each droplet here is for both. The readers' findings are whole at `incoming/v391/readers/`, `drops_E_one_a.json`, `drops_F_one_b.json` and `drops_G_one_c.json`. Every table row run comes back from the code, and every bi-folding, podal, six-cycle and eight-cycle computes as written; the droplets below are where a sentence parts from the code, from Exhibit ONE's own other sentences, or from an agreed concept. Nothing here is entered.
+Session v391 read Exhibit ONE whole against Natural Explaining, Natural Naming, the Geodesic Improving Method and session v390's agreed concepts, three fresh readers each taking one range, each claim about the code run against its python. Exhibit ONE is one text with two copies, standing alone and within Natural Intelligence, and each droplet here is for both. The readers' findings are whole at `archive/session_v391/incoming_v391/readers/`, `drops_E_one_a.json`, `drops_F_one_b.json` and `drops_G_one_c.json`. Every table row run comes back from the code, and every bi-folding, podal, six-cycle and eight-cycle computes as written; the droplets below are where a sentence parts from the code, from Exhibit ONE's own other sentences, or from an agreed concept. Nothing here is entered.
 
 ### Two sayings parting with the code
 
@@ -236,7 +236,7 @@ Suggested at v391 and laid whole at Natural Intelligence's offerings, *Suggested
 
 ## Placed at v391: each passage, Exhibit ONE, Natural Intelligence or elsewhere · v391
 
-A fresh reader met each of Exhibit ONE's 56 passages with the binary suggested at v391, grepping the set for each form's use. The reading is whole at `incoming/v391/readers/exhibit_one_placement.json`. Nothing is entered.
+A fresh reader met each of Exhibit ONE's 56 passages with the binary suggested at v391, grepping the set for each form's use. The reading is whole at `archive/session_v391/incoming_v391/readers/exhibit_one_placement.json`. Nothing is entered.
 
 **Droplet · where each passage belongs.**
 
@@ -293,3 +293,15 @@ At Natural Intelligence's part FOUR, where their explaining now lives:
 - a corus turn wrapping said with the torus's two going forms.
 
 Open: the code's names one concept each, a renaming by meaning checked for identical resolving, its own motion; and each other file's citation of Exhibit ONE named by its heading. — v391
+
+## Laid from Natural Intelligence's offerings at v391 · v391
+
+**Droplet · from Natural Intelligence's offerings, aimed here.** O48: a recompute check of tables (tables_check.py); "7,204 openings" is at no table of Exhibit ONE now — v391
+
+**Droplet · the working v385M's words, `archive/session_v385M/Opportunities_Gathered_v385M.md`, "G · Exhibit ONE, its sayings sorted into the method's and the stepping's".** O48. **Ready.** The tables recompute as written: Natural Intelligence 2.4's counts, the spiral, the torus, the crossed spirals, 7,204 openings. `tables_check.py`.
+
+**Droplet · from Natural Intelligence's offerings, aimed here.** a self-paced resolver is not yet built; NI 4.6 "each living self paces its own momentaries" and Exhibit ONE "a table agreeing with its code shows that and nothing wider" — v391
+
+O56. **Not known how.** A self-paced Exhibit ONE the expedition accepts. This session's reading of own pacing is its own construction, stated at the head of `pacing_check.py` to be contested.
+
+*Standing at v389:* Two sentences part. Natural Intelligence 2.4 has next as prior inverted "a coupling itself at 12, a prior parity meeting an offering, inverting at a mismatch and kept at a match", with "prior and now both participating", while O49 finds it taking nothing from now. O55 and O56 match Exhibit ONE, "its code steps each self's 1-now together at 17-next-now, its executing's own arrangement", with no self-paced resolver yet. **To resolve:** re-say O49 at a coupling at 12, or narrow 2.4 to offerings arriving?

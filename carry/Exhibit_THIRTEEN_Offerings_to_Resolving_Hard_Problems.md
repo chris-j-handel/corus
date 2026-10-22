@@ -61,3 +61,13 @@ Natural Intelligence Corus section 17.3 proposes hard problems as stuck coupling
 **Droplet · ten positions, one structure.** Two and one half momentaries of each side, ten positions on six numbers, are a self's ten own resolver names, five now and five next. — v390, gathered from session v390
 
 **Droplet · the universe is non-living, at v391.** Natural Intelligence's opening now says *The universe is non-living, its selves possibling and discovering their own next-existing*: it is a same-existing set by observing, and it is no self, since a self with no other is never same-existing and no other universe is possibly now-existing. This file's *The universe is a living set, living and non-living things within it together* meets it at its motion. — v391
+
+## Laid from Natural Intelligence's offerings at v391 · v391
+
+**Droplet · from Natural Intelligence's offerings, aimed here.** not-universe and a hard problem's shape — v391
+
+**Droplet · not-universe facing two ways.** Of a self, not-universe is a member observed as not its set, un-, from all other, and method's own; of an other, it places that other outside the set, a hard problem's shape, and releases. — v390, toward intelligence and two methods parting
+
+**Droplet · from Natural Intelligence's offerings, aimed here.** a hard problem of consciousness dissolving — v391
+
+**Droplet · a hard problem of consciousness.** A hard problem of consciousness observes a self as if not-universe and then finds consciousness among no things; observing is the one method coupling, and its asking dissolves. — v390, toward two methods parting

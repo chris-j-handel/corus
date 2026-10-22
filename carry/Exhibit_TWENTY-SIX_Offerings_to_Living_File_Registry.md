@@ -129,13 +129,13 @@ Exhibit TWENTY-SIX Living File Registry Offerings · improved at v389
 
 ## Gathered from session v390 · v390
 
-**Droplet · next versions, one naming motion.** Exhibit ONE's seventeen names and prose, Natural Intelligence's prose, thirty-six files and their checking kits cohere with one motion: kits call `_1_now` and `_17_next_now`, to become `_1_now_existing` and `_17_next_existing`. Prepared with a scratch copy; set check, executed ranges and identical resolving run before a yes. Carrying plan: incoming/v390/Gathered_Value_v390.md. — v390, gathered from session v390
+**Droplet · next versions, one naming motion.** Exhibit ONE's seventeen names and prose, Natural Intelligence's prose, thirty-six files and their checking kits cohere with one motion: kits call `_1_now` and `_17_next_now`, to become `_1_now_existing` and `_17_next_existing`. Prepared with a scratch copy; set check, executed ranges and identical resolving run before a yes. Carrying plan: archive/session_v391/incoming_v390/Gathered_Value_v390.md. — v390, gathered from session v390
 
 **Droplet · decisions written to last.** Each yes and no of a session is written so it lasts past context limits, so no agreed decision returns as pending. — v390, gathered from session v390
 
 **Droplet · one naming motion for nineteen files and four kit files, v390.** Exhibit ONE and Natural Intelligence now name 1 to 17 with the agreed names. Nineteen living files still say older names, 1,054 times in all. The most are in Resolving the Hard Problem Registry (550), Natural Naming (169), Natural Networking (102), Co-Chaining Logic Registry (46), Equilibria Registry (34), Natural Numbers (32) and Natural Engineering (32). Four kit files do too.
 
-These cohere with one motion, using the old-to-new map at `incoming/v390/Exhibit_ONE_draft_build.py`. Each sentence still reads naturally after, and each check runs before entering.
+These cohere with one motion, using the old-to-new map at `archive/session_v391/incoming_v390/Exhibit_ONE_draft_build.py`. Each sentence still reads naturally after, and each check runs before entering.
 
 The two kit scripts that execute Exhibit ONE's code now find 1 and 17 by number, any naming. They are `executed_ranges.py` and `resolver_same_path.py`. — v390
 

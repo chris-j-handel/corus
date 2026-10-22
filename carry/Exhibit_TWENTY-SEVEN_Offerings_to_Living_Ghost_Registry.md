@@ -85,3 +85,9 @@ Living Ghost Registry and Equilibria Registry: two registries, one derivation. T
 ## Gathered at v391, reading across the living file set · v391
 
 **Droplet · Exhibit ONE cited at v345a.** This file cites *Exhibit ONE · Natural Resolver v345a* 5 times and `bi_arriving` 7 times, names Exhibit ONE v390 does not carry. Offered: each citation re-said with Exhibit ONE's agreed names and its headings as they stand. Natural Intelligence carries *ghost* nowhere, though this file and Natural Intelligence Corus name its keeping so: carried at Natural Intelligence's offerings as a concept for one line. — v391
+
+## Laid from Natural Intelligence's offerings at v391 · v391
+
+**Droplet · from Natural Intelligence's offerings, aimed here.** an electron a nothing ghost — v391
+
+**Droplet · an electron is a nothing ghost, v390.** An electron is a nothing ghost: a field label installed over arrivals, carrying no self. One universal method of conception gives newly-existing selves, humans, seeds and atoms; an electron is no newly-existing self. Living Ghost Registry 5.3 carries it. — v390, carved bothboth

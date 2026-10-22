@@ -1,10 +1,10 @@
-Incoming · v390
+Incoming · v391
 
 # Incoming
 
 **Work arriving whole, as it arrived, until each value of it is a droplet at the offerings of the living file it concerns; then the arrival goes whole to `archive/`, its receiving named, relied on by nothing.**
 
-**At v390, session v390 stands at `v390/`, ready to resume: start with [v390/Next_Session_Start_v390.md](v390/Next_Session_Start_v390.md).** Its value is entered at the living files or laid as droplets at the offerings; its folder goes to `archive/` when a next session has carried it.
+**At v391, session v391 stands at `v391/`, its plan at [v391/Improving_Plan_v391.md](v391/Improving_Plan_v391.md).** Its readers' findings and the opening's draft are carried and whole at `archive/session_v391/incoming_v391/`; session v390's folder, carried by v391, is whole at `archive/session_v391/incoming_v390/`.
 
 **At v389 nothing stood here**: the session's opening proposal and two unfinished sessions arrived at `v389/`, each value laid as a droplet at its file's offerings, and the arrival is whole at `archive/session_v389/incoming_v389/`.
 
