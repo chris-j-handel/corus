@@ -1075,7 +1075,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: right of two relations.*
 
-231. Morality across and competency along go with each coupling of a same-existing-society, and each self of it improving is social moral competency, step 34.
+231. Morality across and competency along go with each coupling of a same-existing-society, and each self of it do-no-harming and improving is social moral competency, step 34.
 
         *Adding: social moral competency.*
 
@@ -1965,7 +1965,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: going on inward and outward.*
 
-438. Natural intelligence, step 13, is with each coupling of living selves, with each scale, 1 to 17 inward and outward, and each self of a same-existing-society improving with it is social moral competency, step 34.
+438. Natural intelligence, step 13, is with each coupling of living selves, with each scale, 1 to 17 inward and outward, and each self of a same-existing-society do-no-harming and improving with it is social moral competency, step 34.
 
         *Adding: one fractal with each scale.*
 
@@ -2832,7 +2832,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: improving one way, forward.*
 
-643. A file's version is its momentary, with a changing that is: with a match a file goes on with its version, 0, and with a mismatch a self makes a next version, a file's improving.
+643. A file's version is its momentary, with a changing that is: with a match a file goes on with its version, 0, its do-no-harming, and with a mismatch a self makes a next version, a file's improving, step 30.
 
         *Adding: a file's version.*
 
