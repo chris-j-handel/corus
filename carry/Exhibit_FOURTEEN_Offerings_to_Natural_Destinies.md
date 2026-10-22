@@ -40,4 +40,4 @@ Exhibit FOURTEEN Natural Destinies Offerings · improved at v386EOD
 
 ## Laid from Natural Intelligence at v391 · v391
 
-**Droplet · resolving a hard problem is defining its universal set, at v391.** A universal set is a set of same-existing things (Natural Intelligence's opening, line 5), and it defines an unbounded whole self, a geodesic self on a Natural Network surface among them. A hard problem is resolved by defining its universal set, the whole within which each of its is-or-is-nots is taken, rather than by holding its binary as a destiny. Each hard problem here is to be met so, at this file's own motion. — v391
+**Droplet · resolving a hard problem is defining its universal set, at v391.** A universal set is a set of same-existing things (Natural Intelligence's opening, line 5), and a self's universal set is the self whole, one self or a geodesic self on a Natural Network surface. A hard problem is resolved by defining its universal set, the whole within which each of its is-or-is-nots is taken, rather than by holding its binary as a destiny. Each hard problem here is to be met so, at this file's own motion. — v391

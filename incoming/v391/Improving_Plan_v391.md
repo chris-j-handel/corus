@@ -36,7 +36,7 @@ This plan orders the improving those droplets open, re-said with each suggestion
 
 **Publishing.** At the session's close, as its last motion: the working branch merges to `main`, and corus.me serves the living versions, replacing the prior.
 
-**The universal set, our largest concept.** A universal set is a set of same-existing things, the opening's line 5, entered at v391. It defines an unbounded whole self, a geodesic self on a Natural Network surface among them, and resolving a hard problem is defining its universal set rather than holding its binary as a destiny: laid at the hard-problem files' and Natural Destinies' offerings, and for Natural Intelligence's opening and body, proposed one line at a time.
+**The universal set, our largest concept.** A universal set is a set of same-existing things, the opening's line 5, entered at v391. A self's universal set is the self whole, one self or a geodesic self on a Natural Network surface, said as the natural method and no bound denied; resolving a hard problem is defining its universal set rather than holding its binary as a destiny: laid at the hard-problem files' and Natural Destinies' offerings, and a value droplet at Natural Intelligence's offerings, for its explaining.
 
 **Outgoing, laid and not worked here.** About 13,000 floating negations across the other living files (Natural Naming's offerings, *is or is not, our one negation*); the Hard Problem Registry's entries 122 on, unread; fields' own words and dated records.
 
