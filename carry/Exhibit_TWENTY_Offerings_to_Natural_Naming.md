@@ -332,3 +332,10 @@ Two sayings keep plain *come*, an ordinary verb: *odd and even come with along a
 - **Open.** Whether the ordinary verb *carries*, holds or bears, as in *one through eight carries a self as three*, dissolves too, or only the naming of a self's carrying.
 
 — v391
+
+**Entered · *crossing* and *difference* dissolved at Natural Intelligence and Exhibit ONE, at v391.** Suggested: *crossing is already dissolved in natural naming. why are we using difference as this is fuzzy naming.* Natural Naming 2.4 lists *crossing* among the words carrying *what*, *how* and *where*, and says no dissolving of it; met now as dissolving, with *difference* as fuzzy. With the code two things are same-existing or one inversion apart, and neither word is needed. Each saying re-said by its meaning:
+- spirals and selves *crossing*, the code's selves of two spirals sharing across by 10: *coupling across*;
+- a prior *crossing* to another self: *going*;
+- *difference* and *differing*: *same-existing or one inversion apart*, or *not same-existing*.
+
+4.13 is titled *Spirals, co-spiraling and coupling across*. Natural Naming's own 2.4 entry and its *crossing* sayings, and the set's, meet it at each file's motion. — v391

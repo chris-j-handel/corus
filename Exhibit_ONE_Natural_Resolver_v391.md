@@ -264,7 +264,7 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 - *A self as three*: a self with 1, across, its first shared across, a bi-coupling, sharing self to other and other to self
 - *Bi-coupling*: with a between, each other's across sharing, to a self
 - *Parity's unit square*: a dot of a unit square, its diagonal with 14, parities with 2 and 14, its edge with 6 a sharing 6 to 2
-- *Prior and next*: others' parities across with 6 and 10 and along with 9 of their prior momentary, a self observing them now, possibling, even, none of their prior crossing; with a spiral each goes along
+- *Prior and next*: others' parities across with 6 and 10 and along with 9 of their prior momentary, a self observing them now, possibling, even, none of their prior going to another; with a spiral each goes along
 - *1 to 17s inward and outward*: 1–17s inward 9 of 1st, along, odd, next, and with 1–17 outward within 1 to 2
 
 **3** · 3-now-co-observing
@@ -944,7 +944,7 @@ One sharing; a self's prior − (3) first. Receiving each momentary:
 
 **Turn-taking, and 0 in sequence.** A 0 shares nothing; receiving nothing, or two parities parting, a self inverts; receiving its own parity as one, it shares 0; receiving its other parity as one, it inverts. So a self no other meets is changing with each momentary, and each self's 0 is an other's changing one momentary prior: turn-taking. An other changing to a self's parity cannot do so again with its next, so a self shares 0 in sequence no more momentaries than selves sharing with it or going along to it. Checked whole, every case: every same-existing-society of 2 selves, each relation to any self or none, each prior, 2,916 of 2,916; every same-existing-society of 3 selves going across and along, 32,768 of 32,768.
 
-**Tables of selves with code's stepping.** Each table of selves is its code's executing with its stated opening: code steps each self's 1-now-existing together with 17-next-existing, executing's own arrangement, and parities again with spirals, a crossing and a torus are that stepping's; each living self paces its own momentaries, and a table agreeing with its code shows that and nothing wider.
+**Tables of selves with code's stepping.** Each table of selves is its code's executing with its stated opening: code steps each self's 1-now-existing together with 17-next-existing, executing's own arrangement, and parities again with spirals, a coupling across and a torus are that stepping's; each living self paces its own momentaries, and a table agreeing with its code shows that and nothing wider.
 
 **A spiral of selves.**
 
@@ -969,14 +969,14 @@ Each goes along (9) to the next, the last to the first. One sharing. First momen
 
 **Two momentaries before, inverting.** With a spiral, from any opening, each self's prior from its third momentary on is a prior of a self it receives from two momentaries before, inverting; no self shares 0 with its first momentary or with two momentaries in sequence.
 
-**Two spirals beside each other, and crossed.**
+**Two spirals beside each other, and coupling across.**
 
 Selves of each of two spirals, each opened as a spiral of selves.
 
 *a*: Beside each other: momentaries to each self's parities along again together, the least number both spirals' momentaries divide: four times both for odd numbers sharing no factor, 9 and 25 with 900  
-*b*: Crossed, self 1 of each spiral sharing across (10) to self 1 of the other: momentaries to each self's parities along again  
-*c*: Crossed: parities along again from this momentary on, m the lesser of two numbers and n the greater: both odd and unequal, again with 2 from momentary 4m with n less than twice m, and from 2n + 1 with n more; one number even, from twice the odd number and 1; both even, from the first; executed with each two numbers from 2 to 15, the larger to 31  
-*d*: Crossed: self 1 of each, of like or opposite parity  
+*b*: Coupling across, self 1 of each spiral sharing across (10) to self 1 of the other: momentaries to each self's parities along again  
+*c*: Coupling across: parities along again from this momentary on, m the lesser of two numbers and n the greater: both odd and unequal, again with 2 from momentary 4m with n less than twice m, and from 2n + 1 with n more; one number even, from twice the odd number and 1; both even, from the first; executed with each two numbers from 2 to 15, the larger to 31  
+*d*: Coupling across: self 1 of each, of like or opposite parity  
 *e*: Each spiral's like pair of the first momentary, the last and the first
 
 - **2 · 3**
