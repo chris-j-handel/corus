@@ -22,8 +22,6 @@ Natural Intelligence Offerings · resolved at v391
 
 **Concern · for our word, aimed at Exhibit ONE copy, subtitle and docstring.** Still "The Stable-Forming Parity-Changing Method of Discovering Same-Existing" (plan step 1 next). Options: A title, both copies alike and Exhibit ONE's own file beside them: (a) "Stable-Forming, Discovering Same-Existing", parity-changing (dissolved) and *The ... Method* leaving, at Exhibit ONE's motion (plan step 1); (b) a subtitle naming resolver's stable forms within the one method in the person's own words. — v391
 
-**Concern · for our word, aimed at SIX.** Title and entries unchanged ("SIX · INTELLIGENCE"); part SIX's title waits on a suggestion. Options: Part SIX's title: (a) SIX · SELF, OTHER AND ALL, the opening's "self, other, and all not self or other" in its order; (b) SIX · NATURAL INTELLIGENCE, the method the title and 6.3 name. — v391
-
 **Concern · for our word, aimed at contents.** "Exhibit ONE · Natural Resolver" still with no subtitle and no entry. Options: Exhibit ONE has no ## sections an entry could match word for word, and its offered entry rests on dissolved "arriving": (a) the contents line carries Exhibit ONE's subtitle once chosen (droplet on the subtitle), no entry; (b) it stays bare, a file's name, Exhibit ONE's own file being its contents. — v391
 
 ## Aimed at a writing pass · v391
@@ -57,3 +55,5 @@ Bothboth at v391: the opening's 43 lines, each feature bold where it first welco
 **Droplet · aimed at the body, 1.1 to 6.6.** Concepts the opening now brings, harm, a momentary, free, social abundancing, geodesic, a stable form, natural resolving, a living file, a living expedition, may each point to their opening line where the body first says them. — v391
 
 **Met at v391 · the one arising's names.** With the opening's line 13, natural intelligence is the method of living; 6.3's co-competencing is natural intelligence, two selves living it; 6.1's bi-co-momentarying is that arising going on, momentary by momentary; and 6.3's *a method with each now* is the method of living with each now. Steps 131, 132 and 517 with them. — v391
+
+**Met at v391 · part SIX's title.** *SIX · INTELLIGENCE* stays: with *ONE · NATURAL* it bounds the parts as the title bounds the file, natural at one end and intelligence at the other, and part SIX's purpose, now first, says natural intelligence and social moral competency as the opening does. — v391
