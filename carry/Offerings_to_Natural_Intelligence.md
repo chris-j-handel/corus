@@ -62,3 +62,5 @@ Bothboth at v391: the opening's 43 lines, each feature bold where it first welco
 
 **Droplet · for our word, from line 24.** Two sentences stand as they are: 5.1's bold *Each thing of one stable form with each of its momentaries is non-living with its scale*, whether such a thing beholds a parity at its scale, line 28; and 5.3's *a self fixing as not-changing or as changing … outside existing and living*, whether a self whose parity inverts each momentary is *fixing as changing*. With them: a parity a self shares, an artifact going along between momentaries, stays *non-living with its scale* beside line 24's *a self while it is living*. — v391
 
+**Met at v391 · *artifact* dissolving.** Every now-existing non-living thing is a stable-forming emanation, never one kind among others; Natural Intelligence's 19 *artifact* sayings and the Co-Chaining Logic Registry's are re-said with it, or with *observing* where a prior-existing thing a self is observing now was meant. 44 re-sayings, 14 corrected by the reading for harm. — v391
+
