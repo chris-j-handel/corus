@@ -6,7 +6,7 @@
 
 **Marks.** A number in brackets at a line's end marks an opening or a concern, listed after the opening. The opening reads whole without them.
 
-**Standing.** Nothing entered. When it enters, it moves ahead of the contents with the Co-Chaining Logic Registry's groups 1 to 4, and the set check follows it.
+**Standing.** Entered at v391, ahead of Natural Intelligence's contents, with the Co-Chaining Logic Registry's groups 1 to 4. The opening below is a draft before *continuing* and *carrying* dissolved; the entered opening is Natural Intelligence's own.
 
 ---
 

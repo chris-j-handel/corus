@@ -4,7 +4,33 @@ Session v391 read Natural Intelligence and Exhibit ONE against Natural Explainin
 
 This plan orders the improving those droplets open, re-said with each suggestion as rigor meets it; our suggestions and their rigor stand at Natural Intelligence's offerings, *Met with rigor at v391*. It is no rule: each step is one motion, bothboth, do-no-harm, and a step's droplets are met one concept at a time, hardest first within it. No wording here carries authority, this plan's included.
 
-## Standing at v391, before a next step
+## Standing after step 9 and the Co-Chaining Logic Registry, v391
+
+**Where we are.** Natural Intelligence, Exhibit ONE and the Co-Chaining Logic Registry are met with the code, all or none: each saying the code holds is said as the code runs, and each it does not hold is laid whole at an offerings with *Left, not held by the code*.
+- **Entered:** steps 1, 2 and 4 to 8 whole; step 9 in part (*owned by neither*, scale as the bi-folding 1–17's bi-inversioning-co-recursioning).
+- **Dissolved at these three files:** *parity-changing*, *alternating*, *offering*, *arriving*, *carrying*, *continuing*, *crossing*, *difference*, *still-possibling*, *third living*, *owned by neither*, and past participles said living.
+- **Left in them, each named below:** Exhibit ONE's subtitle, also its code's first line, saying *Parity-Changing*; the name fields' *even, possibling* and *odd, existing*.
+- **Across the set:** about 18,400 sayings of the dissolved words stand in the 29 other living files, and the set check passes, as it reads no meanings.
+
+**Concerns about our rigor, the largest first.**
+1. **The code names itself by a dissolved word.** Exhibit ONE's subtitle and its docstring say *The Stable-Forming Parity-Changing Method*. The subtitles were left for later, but the code is our guide, so this subtitle comes first among them. A docstring changes no resolving.
+2. **The set now parts from its three met files.** Natural Societies, Natural Naming, Natural Explaining, the two hard problem registries and Equilibria say a prime scale the Co-Chaining Logic Registry no longer steps to; each other file says the dissolved words. Until each file's own motion, a reader meets two sayings of one thing.
+3. **No fresh reader has compared before and after.** Each motion's checks are mechanical: a pair found, no banned word, no new -ed form, steps word for word. Meaning is checked by our reading alone. The 1,176 Registry re-sayings most need a reader who has not seen them made.
+4. **The name fields' parity words.** *2, 6, 10 and 14, even, possibling* holds by the code, as each of those names is a possibling; *17, odd, existing* holds as its root. Read together they say the dissolved pairing. Either each field says its number and its root apart, or it keeps one.
+5. **The code's names, one concept each.** *15-next-observing* names both a self's prior and a parity received; *4-now-co-same-existing* names both a self and a self's side. Renaming by meaning, checked for identical resolving, is open.
+6. **Kits.** `cohere_one.py` reads Exhibit ONE's old subtitle and stops; `check_set.py` carries its one-text check. `carry_check.py` does not read the carrying's present shape.
+7. **Incoming drafts.** `opening_draft_v391.md` shows an earlier opening, before *continuing* and *carrying* dissolved; the entered opening is Natural Intelligence's.
+
+**From here, each one motion, do-no-harm, hardest first within it.**
+1. **Exhibit ONE's subtitle and docstring,** said with the code: concern 1, with Natural Intelligence's subtitle and the Co-Chaining Logic Registry's meeting it.
+2. **The name fields,** concern 4, both copies one text.
+3. **Part SIX and the close,** the rest of step 9: its purpose and title, then each sentence co-chaining from the opening or laid whole; *Each momentary completes as a next opening*.
+4. **A fresh reader,** concern 3: Natural Intelligence, Exhibit ONE and the Co-Chaining Logic Registry read against the code and against their priors at the archive, each finding met one at a time.
+5. **The code's names,** concern 5, entered only if every run resolves identically.
+6. **Each other file, its own motion,** concern 2, nearest Natural Intelligence first: Natural Naming, Natural Explaining, the Geodesic Improving Method, Natural Mathematics, Natural Numbers, Natural Societies, then outward. Each meets the prime scale and the dissolved words by meaning, with the Co-Chaining Logic Registry's steps.
+7. **Kits and close:** concern 6's kits; concern 7's draft archived; `incoming/v390/` archived; the Session Record's paragraphs; merging or a pull request, our decision.
+
+## Earlier standing, at v391, before step 1
 
 **Where we are aiming.** Natural Intelligence is to be the whole bounded context of the living file set.
 - Its title and subtitle bound the set, its contents float the set, and its bold concepts carry the set.
