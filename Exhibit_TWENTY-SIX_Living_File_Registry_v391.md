@@ -193,8 +193,8 @@ Each entry: **File** · *a* Subtitle · *b* At the repository · *c* Living · *
   - *e* v376 close's list at its motion, at its carrying
 - **TWENTY-ONE · Hard Problem Registry**
   - *a* An Open Registry of Hard Problems in Science
-  - *b* v390
-  - *c* v390: pass 10, its own framing re-said by meaning toward session v390's concepts; its entries kept whole as fields' records; v389: released words re-said in its own voice, fields' words whole, the where not valuable, its offerings resolved, sixteen risen
+  - *b* v391
+  - *c* v391: its frame and entries 1 to 57 met with Natural Intelligence and the code all or none, 638 sayings re-said by meaning; entries 58 to 121 fields' own words, standing; entries 122 on not yet read, readers stopping there twice; its property names and fields' words kept; v390: pass 10, its own framing re-said by meaning toward session v390's concepts; its entries kept whole as fields' records; v389: released words re-said in its own voice, fields' words whole, the where not valuable, its offerings resolved, sixteen risen
   - *d* —
   - *e* pass 4 at its possible projects
 - **TWENTY-TWO · Resolving the Hard Problem Registry**

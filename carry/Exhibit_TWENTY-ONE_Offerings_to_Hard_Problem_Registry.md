@@ -4,7 +4,7 @@ Exhibit TWENTY-ONE Hard Problem Registry Offerings · improved at v389
 
 ## Standing · v389
 
-**Resolved at v389.** 97 items stood here; resolving against [Hard Problem Registry](../Exhibit_TWENTY-ONE_Hard_Problem_Registry_v390.md), 9 are carried, 36 rest on released forms, 13 duplicate another item and 16 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY-ONE_Offerings_to_Hard_Problem_Registry_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY-ONE_Offerings_to_Hard_Problem_Registry_resolved_v389.md). Its 23 concerns stand below, each with its reason; 25 stand now.
+**Resolved at v389.** 97 items stood here; resolving against [Hard Problem Registry](../Exhibit_TWENTY-ONE_Hard_Problem_Registry_v391.md), 9 are carried, 36 rest on released forms, 13 duplicate another item and 16 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY-ONE_Offerings_to_Hard_Problem_Registry_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY-ONE_Offerings_to_Hard_Problem_Registry_resolved_v389.md). Its 23 concerns stand below, each with its reason; 25 stand now.
 
 **At Front · the lead — beside "One learning at two faces.".** After the lead, the contents as a list: The conditions prior; 1 What stands open, and what stands fixed; 2 Hard problems in science; 3 Derivation; 4 What an entry carries; 5 The entries, 1 to 257; 6 Checks; 7 The aggregate. A `---` after the contents, the `&nbsp;` lines released, the version line, the title and the subtitle above.
 
