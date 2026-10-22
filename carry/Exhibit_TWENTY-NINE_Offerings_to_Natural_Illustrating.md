@@ -45,3 +45,5 @@ Exhibit TWENTY-NINE Natural Illustrating Offerings · improved at v389
 **Droplet · from Natural Intelligence's offerings, aimed here.**  — v391
 
 Each sets a self and an other as two number lines, odd and even, overlapping one number apart. The code has selves, each its own prior, and sharings. Priors at `archive/session_v391/prior_to_2_1_2_3/`. Natural Physics cites 2.1 for *a self's, opening odd, and an other's, opening even*, and Natural Illustrating cites 2.3 for a between of momentaries drawn on a shared position: each met at its motion. — v391
+
+**Left, not held by the code, at v391**, laid whole: *A self's inversion is 3, 6, 5, 4, and its podaling 23, 26, 25, 24, that same rotation twenty up.* Released from Natural Intelligence: the code holds no self's inversion as names. — v391
