@@ -32,7 +32,13 @@ This plan orders the improving those droplets open, re-said with each suggestion
 
 **For our word, standing.** Exhibit ONE's subtitle and docstring, and the Co-Chaining Logic Registry's subtitle, carry dissolved words and an object other than *next-possibling-same-existing*; subtitles were left for later. Natural Societies' ladder at fourteen primes stands as a concern at its offerings.
 
-**The set, file by file.** Met at v391 with Natural Intelligence and the code: Natural Mathematics, Natural Explaining, Natural Societies and Natural Numbers. Next, nearest first: Natural Naming, the Geodesic Improving Method, Equilibria, Natural Illustrating, Natural Physics, then outward.
+**The set, file by file, at v391.** Each living file is met with Natural Intelligence and the code, all or none, each saying by its meaning: about 15,400 sayings of the dissolved words re-said across 29 files, each a motion with its prior archived and its registry cell. What stands, each with its reason:
+- **Fields' own words** where a file reports a field, quotations, finders' names, and dated records.
+- **The Hard Problem Registry's entries 122 on**, not yet read: readers stopped there three times, and they stand as they were.
+- **The Living File Registry's cells**, records of each motion as it was.
+- **Names for our word**: the expedition's *carrying* (the Geodesic Improving Method's offerings), the substrate *a carry* and *riding its carry* across Medicine and the files riding it (Natural Medicine's offerings), the subtitles of Exhibit ONE, the Co-Chaining Logic Registry and Natural Intelligence Corus, Natural Societies' prime ladder, and Natural Engineering's older position table.
+
+**Natural Intelligence's offerings** hold no aimed droplet now: each met, released, or a concern for our word, 26 of them, the opening's sharing line the largest.
 
 ## Earlier standing, at v391, before step 1
 
