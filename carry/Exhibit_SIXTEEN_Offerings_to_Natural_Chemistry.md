@@ -71,3 +71,13 @@ Contradiction, the living and the non-living: Natural Biology draws the line the
 **Resolved bothboth, v390 · chemistry's societies.** Every society of selves is a living self and a same-existing-society, and a non-living scale is always larger than a prime living scale. Natural Chemistry's *society* of selves is re-said as *same-existing-society*. — v390
 
 **Resolved bothboth, v390 · an atom's inception.** One universal method of conception: twin inversioning into bothbothing full parity of self and other, for humans, seeds and atoms alike. An atom is a newly-existing self within the method, and Natural Chemistry's *same-existing-society* for atoms and molecules stands. — v390
+
+## Incoming · chemistry-water-20261022
+
+- **Natural Chemistry 1.2 and 3.2 · Hydrogen-bond roles:** in a water pair the donor supplies an O–H group and the acceptor an oxygen interaction site, so exchanging these roles and transferring a proton are distinct chemical relations to carry into natural explaining ([IUPAC hydrogen-bond terminology](https://goldbook.iupac.org/terms/view/HT07050); [Kumagai and colleagues, 2008](https://doi.org/10.1103/PhysRevLett.100.166101)). — chemistry-water-20261022
+
+- **Natural Chemistry 1.2 · One pair reached:** the copper-surface experiment at 6 K records tunnelling-current switches, assigned to donor–acceptor interchange using calculated structures and microscope images, giving one observing whose instrument and interpretation can each stand with its own part ([Kumagai and colleagues, 2008, Figures 2–4](https://doi.org/10.1103/PhysRevLett.100.166101)). — chemistry-water-20261022
+
+- **Natural Chemistry 1.2 and 1.4 · The coupling still to reach:** [Exhibit ONE's two-selves table](../Exhibit_ONE_Natural_Resolver_v390.md) gives the same opposite-parity alternation with both directions coupled and with neither, reproduced here for six entries from opposite priors and initially empty offerings, so a water-pair correspondence next reaches which chemical relation supplies an offering rather than treating alternating donor–acceptor labels alone as that correspondence. — chemistry-water-20261022
+
+- **Natural Chemistry 1.2 · One form with differing rates:** ordinary-water and heavy-water dimers show role interchange at rates differing by about sixtyfold under the reported conditions, offering a particular chemical comparison for stable-forming through differing rates whose natural deriving remains open ([Kumagai and colleagues, 2008](https://doi.org/10.1103/PhysRevLett.100.166101)). — chemistry-water-20261022
