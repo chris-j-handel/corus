@@ -361,7 +361,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: method co-changing with each coupling.*
 
-68. Changing is one method of the same-existing set of all existing things: nature is not an existing thing, nature a prior, now, next method of co-existing, and natural a method of co-competencing the universe, all things now-existing; all now-existing things and all artifacts of prior-existing are now-existing, or were now-existing with a prior now, by natural method, and no other or not-natural method of now-existing is within the universe.
+68. Resolving among parities is one method of the same-existing set of all existing things: nature is not an existing thing, nature a prior, now, next method of co-existing, and natural a method of co-competencing the universe, all things now-existing; all now-existing things and all artifacts of prior-existing are now-existing, or were now-existing with a prior now, by natural method, and no other or not-natural method of now-existing is within the universe.
 
         *Adding: one method; nature, a prior, now, next method of co-existing; natural, co-competencing the universe.*
 

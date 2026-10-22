@@ -158,42 +158,8 @@ Natural Intelligence Offerings · resolved at v391
 
 **Droplet · aimed at none yet.** 0 self same-existing, 1 self now-existing, 2 other prior-existing, 3 universe next-existing said nowhere in NI. *Laid whole at the archive, line 1839.* — v391
 
-**Droplet · aimed at opening.** Each opening line one advance, read in sequence by a fresh reader. *Laid whole at the archive, line 321.* — v391
+**Concern · for our word, aimed at opening l.26–35.** "sharing now-existing" (l.26), "sharing its own observing ..." (l.27), "sharing 0"/"sharing it" (l.34–35): one action, three objects. Options: Opening line: "In a bi-coupling each self is sharing its own observing, possibling and discovering from prior-existing." Proposed (same as the l.27 droplet): "In a bi-coupling each self is sharing its own possibling with its other, its observing and discovering its own." Code: a self's sharing is one list, 10, each entry a parity or a 0, received with an other's 14-next-possibling; l.26's sharing now-existing and l.34-35's sharing 0 / sharing it are that one action (possibling is now-existing, l.15), and only l.27's observing and discovering are objects the code never sends: 3 and 11 stay with the self. — v391
 
-**Droplet · aimed at opening.** Each opening line starting with the word it defines or extends. *Laid whole at the archive, line 361.* — v391
-
-**Droplet · aimed at opening.** Read each same-existing thing line against defining the set, not the thing: keep, re-say of a set, or release. *Laid whole at the archive, line 563.* — v391
-
-**Droplet · aimed at opening.** Re-say the self line with living prior and a prior self, without *while*. *Laid whole at the archive, line 567.* — v391
-
-**Droplet · aimed at opening.** Opening still brings bare: intelligence (l.29), moral value (l.32), method (l.39), competency and harm (l.43), network (l.44). *Laid whole at the archive, line 733.* — v391
-
-**Droplet · aimed at opening.** "In a bi-coupling" (l.27) and "same-existing in each self" (l.29) still carry in. *Laid whole at the archive, line 739.* — v391
-
-**Droplet · aimed at opening.** "natural" arrives only inside "natural intelligence" (l.29), no line bringing it. *Laid whole at the archive, line 973.* — v391
-
-**Droplet · aimed at opening.** No bold; lines still put the concept last: l.28 "... a living set: a self", l.29 "...: natural intelligence", l.39 "... one method", l.43, l.44. *Laid whole at the archive, line 1141.* — v391
-
-**Droplet · aimed at opening l.26–35.** "sharing now-existing" (l.26), "sharing its own observing ..." (l.27), "sharing 0"/"sharing it" (l.34–35): one action, three objects. *Laid whole at the archive, line 872.* — v391
-
-**Droplet · aimed at opening l.27.** Opening still "each self is sharing its own observing, possibling and discovering from prior-existing"; with the code only a parity crosses (2.1/4.4 already say so). *Laid whole at the archive, line 693.* — v391
-
-**Droplet · aimed at opening l.8, l.13.** "One universal set is now-existing"; "re-found ... no set stands over it" not said, Natural Values 4.1 still parts. *Laid whole at the archive, line 975.* — v391
-
-**Droplet · aimed at opening, 1.1–6.6.** Opening l.7–44 carries no bold; body bolds not re-made as coinings (plan step 3 not begun). *Laid whole at the archive, line 969.* — v391
-
-**Droplet · aimed at opening, 1.2.** Possibling as the invisible middle, its parity 0, said nowhere in NI. *Laid whole at the archive, line 1568.* — v391
-
-**Droplet · aimed at opening, 1.3, 6.5.** Three sayings still: opening "A set not possibling its own next-existing is non-living", 1.3 "a thing with no prior of its own is no self", 6.5 "non-living is a thing's outside, no kind of thing". *Laid whole at the archive, line 677.* — v391
-
-**Droplet · aimed at opening, 1.4, 3.3.** Alternating gone, but the one method still has three namings: "resolving among parities, one method" (opening), "Changing is one method" (1.4), "Its one name is natural torusing" (3.3). *Laid whole at the archive, line 669.* — v391
-
-**Droplet · aimed at opening, 2.4, 6.1, 6.3, 6.4.** "alone" 12 times, "lone self" 3 (2.4), opening "A self alone ... no self is alone", 6.1 title "arising in neither self alone". *Laid whole at the archive, line 1527.* — v391
-
-**Droplet · aimed at opening, 4.13.** Carve the phase lines as three pairs of three times so 4.13's any-two-give-the-third rests on them. *Laid whole at the archive, line 433.* — v391
-
-**Droplet · aimed at opening, 6.3.** One sentence: the universe now-existing and a self observing itself now-existing as one observing, two sides. *Laid whole at the archive, line 273.* — v391
-
-**Droplet · aimed at opening, body.** Opening's "all not self or other" and "natural intelligence network living" said nowhere in the body; "harm" only at 6.6; "improving" only 5.4 and 6.6. *Laid whole at the archive, line 835.* — v391
+**Concern · for our word, aimed at opening l.27.** Opening still "each self is sharing its own observing, possibling and discovering from prior-existing"; with the code only a parity crosses (2.1/4.4 already say so). Options: Opening line: "In a bi-coupling each self is sharing its own observing, possibling and discovering from prior-existing." Proposed: "In a bi-coupling each self is sharing its own possibling with its other, its observing and discovering its own." Code: only the list 10 leaves a self (as 6, 10 or 9, alike into a receiver's 14-next-possibling), each entry a parity or a 0; its prior, 3, and its next prior, 11, never go to another self (4.4 "A self shares its parity and nothing of its prior"). Parity enters only at l.31, so the re-saying uses possibling, the word the code's receiving names carry. — v391
 
 **Droplet · aimed at part TWO.** A between as 0, as a nothing, between momentaries and between self and other still in 2.1, 2.2, 2.5. *Laid whole at the archive, line 761.* — v391
