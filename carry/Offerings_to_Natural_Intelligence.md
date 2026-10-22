@@ -24,8 +24,6 @@ Natural Intelligence Offerings · resolved at v391
 
 **Droplet · aimed at 1.1–6.6.** A writing pass, one claim a sentence, across the body. — v391
 
-**Droplet · aimed at FOUR, 3.5, 4.6, 4.13.** Part FOUR's re-sayings of Exhibit ONE's tables, one home each, with the writing pass. — v391
-
 **Droplet · aimed at ONE to SIX (form).** A legend of the seventeen names and linked section numbers, with build.js. — v391
 
 ## Incoming with the opening of 43 lines, entered at v391 · v391
@@ -57,3 +55,5 @@ Bothboth at v391: the opening's 43 lines, each feature bold where it first welco
 **Met at v391 · 6.5's heading.** *Living and non-living things within one universe*, heading and contents line with its bold and the opening's lines 16 and 41. — v391
 
 **Met at v391 · the opening's concepts in the body and the chain.** The body now points to the opening's line where it first says a concept the opening brings, and the Co-Chaining Logic Registry's later steps cite their opening step or say themselves as its extension. — v391
+
+**Met at v391 · part FOUR and Exhibit ONE, one home each.** Part FOUR's re-sayings of Exhibit ONE's rows and numbers point to each table by its heading, its explaining and its own reasoning kept; stepping together has one home, 4.6, the others pointing there; six of Exhibit ONE's leads keep a one-line label pointing to the part FOUR section that explains them, 4.12 and 4.14 taking what a lead held. Every table, row, heading and the code stand; both copies one text. — v391

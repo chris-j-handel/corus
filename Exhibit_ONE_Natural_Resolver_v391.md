@@ -113,7 +113,7 @@ observing side, one: 2, 14 and 17
 ─── within one self
 ```
 
-**A drawing.** A prior a self observes, 3, meets parities surfacing, 14, with each sharing, 12; parities, 10 and 6, go across to an other's 14, its next 2; a next prior forms, 11, and a self observes it again, 3, next; and 9 goes along with 5 to an other's 17. With 6 to 2, 10 to 14 and 9 to 17, a sharing side is a self and an observing side an other self, each a self, and a same-existing-society is its selves.
+**A drawing.** One self, its own resolving within, between six names between selves, as Natural Intelligence 4.7 explains.
 
 **Seventeen names.**
 
@@ -182,7 +182,7 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
   - *With co, between two*: 4-now-co-same-existing · 12-next-co-same-existing, each sharing
   - *Without co, of one*: 8-now-same-existing · 16-next-same-existing, a self's next prior and a same-existing-society
 
-**Sharing between selves.** With 6 to 2, 10 to 14 and 9 to 17, co is a sharing side and its absence an observing side: a self shares a parity, and nothing of its prior goes to another self. With code, 6, 10 and 9 each share one same list of parities to the self each couples with, observing it with its 14, its next 2.
+**Sharing between selves.** Each sharing side with its observing side, as Natural Intelligence 4.7 explains.
 
 | Sharing side, co | Observing side, one | Between selves |
 |---|---|---|
@@ -190,7 +190,7 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 | 10-next-co-possibling | 14-next-possibling | across, even, its root possibling |
 | 9-next-co-discovering | 17-next-existing | along, odd, its root discovering |
 
-**Four binaries with code's lines.** Existing, all, now and same are four is or is nots of things within the universe. With a self's span each binary is one pair of names: its *is* with an odd name and its *is not* with an even. Existing and same are roots of names, and all enters no name.
+**Four binaries with code's lines.** One pair of names for each binary with a self's span, as Natural Intelligence 4.9 explains.
 
 - **Binary: now**
   - *Is*, odd: 1-now-existing
@@ -812,7 +812,7 @@ Each cell: sharing (10) · a next prior (11). *is*: a changing, a self sharing i
   - *Name 8 up*: 16-next-same-existing
   - *Bi-coupling 8 up*: a same-existing-society, each self with its prior and parities, a same-existing-society with a self again
 
-**One move, 1 to 8.** 8 up keeps each name's root but with 1 and 5, existing going on as discovering: 1-now-existing goes to 9-next-co-discovering, and 5-now-co-existing to 13-next-discovering. 8 up exchanges co and one with 1, 2, 5 and 6; each podal turns now to next with 17 less and possibling to observing within each momentary, and eight ends are their own set with both podals.
+**One move, 1 to 8.** Each name of a self's span with 8 up, 9 less and 17 less, as Natural Intelligence 4.11 explains.
 
 - **Name: 1-now-existing**
   - *8 up: n + 8*: 9-next-co-discovering
@@ -914,7 +914,7 @@ Each cell: sharing (10) · a next prior (11). *is*: a changing, a self sharing i
 
 **Across names among eights.** Four across names, 2-now-possibling, 6-now-co-possibling, 10-next-co-possibling and 14-next-possibling, are four momentaries' even inward names, each on an eight-cycle of inward names 2-15-7-11-3-14-6-10; 9-next-co-discovering, opening a third four-cycling, is on an eight-cycle of ends 1-9-5-13-4-12-8-16; 17-next-existing is on neither.
 
-**One self, momentary by momentary: three ways.** Receiving its own prior's parity, a self is not-changing, a 0 with each momentary; receiving none, parities inverting with each momentary, or both together, it is changing with each momentary; receiving its other parity, it is changing once and then now-existing same-existing, both: do-no-harming and improving. A self is re-finding each 0 with each momentary, never keeping it. Receiving none is the code executing a self with no other: a non-living now-existing form, no living self, as Natural Intelligence 2.4 says.
+**One self, momentary by momentary: three ways.** Not-changing, changing with each momentary, and changing once and then same-existing, as Natural Intelligence 4.12 explains.
 
 One sharing; a self's prior − (3) first. Receiving each momentary:
 
@@ -924,7 +924,7 @@ One sharing; a self's prior − (3) first. Receiving each momentary:
 - **+, −, +, − inverting** · *Sharing (10)*: +, −, +, −, +, −, +, − · *A next prior (11)*: +, −, +, −, +, −, +, −
 - **+ and − together with each momentary** · *Sharing (10)*: +, −, +, −, +, −, +, − · *A next prior (11)*: +, −, +, −, +, −, +, −
 
-**Tables of selves with code's stepping.** Each table of selves is its code's executing with the opening it states: code steps each self's 1-now-existing together with 17-next-existing, executing's own arrangement, and parities again with spirals, a coupling across and a torus are that stepping's; each living self paces its own momentaries, and a table agreeing with its code shows that and nothing wider. A 0 a table prints is a self's sharing, and each receiving self's first step passes over it: no self observes a 0.
+**Tables of selves with code's stepping.** Each table of selves is its code's executing with the opening it states, its selves stepping together with 17-next-existing, as Natural Intelligence 4.6 explains. A 0 a table prints is a self's sharing, and each receiving self's first step passes over it: no self observes a 0.
 
 **A spiral of selves.**
 
@@ -1063,7 +1063,7 @@ Each goes along (9) to the next along and shares across (10) to the next across,
 
 **A torus's two going forms.** Both numbers odd, p the smaller: with q more than twice p, from momentary 3p − 1, selves' pattern with each momentary is its pattern before going one self on round q selves; with each other q, from 3p − 3, its pattern two momentaries on is its pattern inverting and moving one self on round p selves.
 
-**Two selves.** Two selves one parity apart, each meeting its other, go + and − in turn, betweening; two selves same, each meeting its other, go turn-taking, a changing and a 0 in turn.
+**Two selves.** Two selves, alike or one parity apart, coupling both ways, one way or neither, as Natural Intelligence 4.14 explains.
 
 A, B with their prior (3) with the first momentary. One sharing, parities only from those two.
 
