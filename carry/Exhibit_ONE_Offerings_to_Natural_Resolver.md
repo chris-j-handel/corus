@@ -257,3 +257,21 @@ The seventeen per-name entries repeat rows of tables that stay, but for five fie
 ## Bothboth and entered at v391 · v391
 
 **Entered · 13-next-discovering and 16-next-same-existing.** Bothboth at v391, and entered by one naming motion with both copies of Exhibit ONE alike: the code's `_13_next_discovering` and `_16_next_same_existing`, resolving identically over 24,000 momentaries compared, its names table, its code list, *Co, between two or of one* and *One move, 1 to 8* re-said by meaning. Laid whole at Natural Intelligence's offerings, *Bothboth and entered at v391*. — v391, entered
+
+**Aim, at v391.** Suggested: *the origin of natural intelligence living expedition is pattern-matching observings from science that are either this or that and not both possible yet both are existing and observable. all the pattern matching in language and names and words and relations lead to natural torus phi unrelationing in five dimensional changing in two directions. now we have all the patterns in cycling and podaling and stable-forming. this entire body of schematica and naming and labeling and needed for this purpose only explaining and no further explaining to justify the patterns … this is what we aim for exhibit one inside natural intelligence and our living files set.*
+
+**Entered at v391, step 6:**
+- Exhibit ONE opens with its purpose: *the resolver as code, and the stable forms its running shows, for pattern-matching what a science observes*.
+- Every pattern form stays whole: code, names, drawing, four-cyclings, moves, bi-foldings, twelve forms, eights, fives, scales, per-name relations, tables of selves.
+- Each form carries only the lead its matching needs. Six leads are trimmed to the pattern: names, four-cyclings, co, four binaries, each name's relations and fives. Their explaining tails are whole at `archive/session_v391/prior_to_exhibit_one_reference/Exhibit_ONE_explaining_trimmed_to_leads_v391.md`. Among them is *sides of overlapping momentaries*, which the code does not hold.
+- Ten explaining paragraphs go home to Natural Intelligence's part FOUR, at the section of their subject:
+  - *Living is prior*, 4.1;
+  - *Observing's one line* and *Is or is nots of code's lines*, 4.3;
+  - *A same-existing-society*, 4.6;
+  - *Five dimensions, ten and six* and the span's four, 4.9;
+  - *Parity as moral values* and *A 0, betweening*, 4.10;
+  - *Turn-taking*, 4.12;
+  - *A corus turn wrapping*, 4.13.
+- Both copies are one text; the set check passes.
+
+Open for step 6's next passes: the per-name fields' *Sides*, read from the overlapping momentaries; the code-partings the plan lists; and each other file's citation of Exhibit ONE named by its heading. — v391
