@@ -124,7 +124,7 @@ Value goes forward three ways together, and one motion does all three.
 
 **Co-competencing**, with 5-now-co-existing, is an abundancing going on as coupling. It is a margin its changing and changing back makes, going on rather than dumping. A self observes its doing as competency.
 
-**Co-intelligencing**, with 3-now-co-observing and 4-now-co-same-existing, is a resolving a self reaches. It is a parity coupling across that is an understanding, knowing two make between them, same-existing in each self and in neither self alone.
+**Co-intelligencing**, with 3-is-now-co-observing and 4-now-co-same-existing, is a resolving a self reaches. It is a parity coupling across that is an understanding, knowing two make between them, same-existing in each self and in neither self alone.
 
 A value that shares without going on thins. A value that goes on without resolving hoards. A value that resolves without sharing has nothing to resolve. The three are inseparable, or none of them goes on.
 

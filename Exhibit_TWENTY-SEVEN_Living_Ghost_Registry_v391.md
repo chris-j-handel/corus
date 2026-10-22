@@ -1936,7 +1936,7 @@ Each entry: **Door line** · *a* Unchangeable · *b* TWENTY-TWO part · fixing g
 - **1 · resolve**
   - *a* a coming fixing from behind
   - *b* 1 · **Origin-seeking**
-  - *c* 3-now-co-observing → 2-now-possibling
+  - *c* 3-is-now-co-observing → 2-now-possibling
 - **2 · rates**
   - *a* a rate fixing as a value
   - *b* 8 · **Value-pinning**
@@ -1956,7 +1956,7 @@ Each entry: **Door line** · *a* Unchangeable · *b* TWENTY-TWO part · fixing g
 - **6 · abundancing**
   - *a* an opening fixing as a place abundancing sits
   - *b* 2 · **Criterion-regressing**
-  - *c* 16-next-same-existing → 3-now-co-observing
+  - *c* 16-next-same-existing → 3-is-now-co-observing
 - **7 · apex**
   - *a* a middle fixing as an end within a member
   - *b* 5 · **Interior-reaching**
@@ -2004,7 +2004,7 @@ Each entry: **Door line** · *a* Complete ONE name · face · *b* ONE’s boundi
 - **1 · resolve**
   - *a* 2-now-possibling · at the membrane
   - *b* each self's own parity living, bounding from the other-self
-  - *c* Each entry is a sharing, 4-now-co-same-existing, with a parity, 7-now-observing.
+  - *c* Each entry is a sharing, 4-now-co-same-existing, with a parity, 7-is-now-observing.
 - **2 · rates**
   - *a* 4-now-co-same-existing · at the membrane
   - *b* the whole no self orders, bounding from society
@@ -2049,7 +2049,7 @@ Each entry: **Door line** · *a* Complete ONE name · face · *b* ONE’s boundi
 Each entry: **Door line** · *a* Unchangeable adjacency in ONE · *b* Name a door assigns · *c* Name both assignments write
 
 - **1 · resolve**
-  - *a* 3-now-co-observing → 2-now-possibling
+  - *a* 3-is-now-co-observing → 2-now-possibling
   - *b* 2-now-possibling
   - *c* 2-now-possibling
 - **2 · rates**
@@ -2069,7 +2069,7 @@ Each entry: **Door line** · *a* Unchangeable adjacency in ONE · *b* Name a doo
   - *b* 6-now-co-possibling
   - *c* 6-now-co-possibling
 - **6 · abundancing**
-  - *a* 16-next-same-existing → 3-now-co-observing
+  - *a* 16-next-same-existing → 3-is-now-co-observing
   - *b* 10-next-co-possibling
   - *c* No name both share for this adjacency a door assigns
 - **7 · apex**

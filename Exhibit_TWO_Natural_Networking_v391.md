@@ -167,7 +167,7 @@ Each entry: **Connector** · *a* End · *b* Relation with another self
 - **14-next-possibling** · *a* observing end, across · *b* another self's 10-next-co-possibling sharing
 - **17-next-existing** · *a* observing end, along · *b* another self's 9-next-co-discovering sharing
 
-**With Python code, 1-now-existing returns each sharing's parity and a next prior.** 10-next-co-possibling is first return; 11-next-co-observing is second, same-existing as its same self's 3-now-co-observing, next. With 17-next-existing, 6-now-co-possibling is one same list as 10-next-co-possibling, and within 1-now-existing 14-next-possibling surfaces the parities a self is observing with each sharing, agreeing one, parting 0, and 12-next-co-same-existing meets them with its prior. 9-next-co-discovering takes each parity of 10 on as it is, going along to a self of 5-now-co-existing's bi-couplings. 17-next-existing has its place among an engineering surface's connectors. Its input, 3-now-co-observing, is a prior from a prior resolving; its return goes on with this resolving onward. A next a self is discovering reaches its own now. Prior is each self's prior same-existing to now, each sharing with its own parity.
+**With Python code, 1-now-existing returns each sharing's parity and a next prior.** 10-next-co-possibling is first return; 11-next-co-observing is second, same-existing as its same self's 3-is-now-co-observing, next. With 17-next-existing, 6-now-co-possibling is one same list as 10-next-co-possibling, and within 1-now-existing 14-next-possibling surfaces the parities a self is observing with each sharing, agreeing one, parting 0, and 12-next-co-same-existing meets them with its prior. 9-next-co-discovering takes each parity of 10 on as it is, going along to a self of 5-now-co-existing's bi-couplings. 17-next-existing has its place among an engineering surface's connectors. Its input, 3-is-now-co-observing, is a prior from a prior resolving; its return goes on with this resolving onward. A next a self is discovering reaches its own now. Prior is each self's prior same-existing to now, each sharing with its own parity.
 
 **6-now-co-possibling and 10-next-co-possibling share across, to another self's 2-now-possibling and to another self's 14-next-possibling, with one same parity.** Both names are even, across, their root possibling. With code their parities are one: 6-now-co-possibling is one same list as 10-next-co-possibling, and with a prior + and no parity a self is observing, each shares −. Naming both with one parity is one same list, each receiving self observing it with its 14, its next 2.
 
@@ -267,7 +267,7 @@ Each entry: **Connector** · *a* End · *b* Relation with another self
 | 10-next-co-possibling, parity s | 11-next-co-observing, parity s |
 | 6-now-co-possibling, one same list as 10 | 8-now-same-existing, parity s with 11 |
 
-**One same surfacing parity goes on with a next prior and with sharing.** It is 7-now-observing with 11-next-co-observing and 15-is-next-observing with 9-next-co-discovering. Its next prior goes on locally with 11-next-co-observing, same-existing as its next 3-now-co-observing. A 0 with 10-next-co-possibling leaves its prior with that sharing same-existing with 11-next-co-observing.
+**One same surfacing parity goes on with a next prior and with sharing.** It is 7-is-now-observing with 11-next-co-observing and 15-is-next-observing with 9-next-co-discovering. Its next prior goes on locally with 11-next-co-observing, same-existing as its next 3-is-now-co-observing. A 0 with 10-next-co-possibling leaves its prior with that sharing same-existing with 11-next-co-observing.
 
 **Two sharings and a next prior couple with one changing.** With a nonzero parity s with 10, 6 shares one same s, and a next prior with 11 is s. Across and along couple here within one same resolver's going on.
 
@@ -280,13 +280,13 @@ Each entry: **Connector** · *a* End · *b* Relation with another self
 
 **Observing and sharing exchange with eight-apart names.** A observes with 2 and shares with 10; B shares with 6 and observes with 14. Taking 6→2 eight on gives 14→10, 10→14 with an other order. This exchanges direction of relation while keeping each connector even, its root possibling. Each self goes on forward through its own momentary.
 
-**Across participates with next along through a receiving self's resolving.** A's own 11-next-co-observing is its next 3-now-co-observing, and B's likewise. Their coupling participates with each going on, only parities going across and each self's same-existing staying with its own resolving. Along, 9-next-co-discovering goes to another self's 17-next-existing; seventeen recursions to one over nine. Reciprocal across and same-existing along are one surface together.
+**Across participates with next along through a receiving self's resolving.** A's own 11-next-co-observing is its next 3-is-now-co-observing, and B's likewise. Their coupling participates with each going on, only parities going across and each self's same-existing staying with its own resolving. Along, 9-next-co-discovering goes to another self's 17-next-existing; seventeen recursions to one over nine. Reciprocal across and same-existing along are one surface together.
 
 ### Smaller fold within one through nine
 
 **One through nine is co-bi-coupling of self and other.** With two selves only, participation with a same-existing-society's side is with that same other. Their between belongs to their coupling, whole with two selves and within one through nine, with no third self and no journey through a further same-existing-society.
 
-**A fold has local relation whole.** 9 less pairs 1-now-existing with 8-now-same-existing, 2-now-possibling with 7-now-observing, 3-now-co-observing with 6-now-co-possibling, and 4-now-co-same-existing with 5-now-co-existing. These pairings are a fold within one through nine, each pair one odd number and one even.
+**A fold has local relation whole.** 9 less pairs 1-now-existing with 8-now-same-existing, 2-now-possibling with 7-is-now-observing, 3-is-now-co-observing with 6-now-co-possibling, and 4-now-co-same-existing with 5-now-co-existing. These pairings are a fold within one through nine, each pair one odd number and one even.
 
 **With a local coupling across six joins two.** 6-now-co-possibling shares one same list as 10-next-co-possibling; a neighbour self observes it with its 14, its next 2-now-possibling. With two participating resolvers, each one's six can join an other's two. Each one's same-existing stays its own while its parity participates with an other's next. This smaller arrangement follows its relation across.
 
@@ -326,11 +326,11 @@ Each entry: **Connector** · *a* End · *b* Relation with another self
 |---|---|
 | 1-now-existing | 9-next-co-discovering |
 | 2-now-possibling | 10-next-co-possibling |
-| 3-now-co-observing | 11-next-co-observing |
+| 3-is-now-co-observing | 11-next-co-observing |
 | 4-now-co-same-existing | 12-next-co-same-existing |
 | 5-now-co-existing | 13-is-next-discovering |
 | 6-now-co-possibling | 14-next-possibling |
-| 7-now-observing | 15-is-next-observing |
+| 7-is-now-observing | 15-is-next-observing |
 | 8-now-same-existing | 16-next-same-existing |
 | 9-next-co-discovering | 17-next-existing |
 
@@ -341,8 +341,8 @@ Each entry: **Connector** · *a* End · *b* Relation with another self
 | Name | Podal within 1 to 8, 9 less |
 |---|---|
 | 1-now-existing | 8-now-same-existing |
-| 2-now-possibling | 7-now-observing |
-| 3-now-co-observing | 6-now-co-possibling |
+| 2-now-possibling | 7-is-now-observing |
+| 3-is-now-co-observing | 6-now-co-possibling |
 | 4-now-co-same-existing | 5-now-co-existing |
 
 **Eight apart, a number's odd or even is not-changing; a podal fold takes odd to even and even to odd.** Within 1–16, 17 less pairs each name with 17 minus that name. Eight up or down and 17 less, one and then the other, take 1-now-existing → 9-next-co-discovering → 8-now-same-existing → 16-next-same-existing → 1-now-existing. One same going, one and then the other, takes 2 → 10 → 7 → 15 → 2, 3 → 11 → 6 → 14 → 3 and 4 → 12 → 5 → 13 → 4, four together reaching each name from one through sixteen once. Exhibit ONE's bi-foldings 2-15-7-10 and 4-13-5-12 are two of these four, each with an other order. Both relations participate with bi-inversioning-co-recursioning. Partners by number express fold; receiving and same-existing go on through joins, 6 to 2, 10 to 14 and 9 to 17.
@@ -364,7 +364,7 @@ Each entry: **Connector** · *a* End · *b* Relation with another self
 Each entry: **Relation through its unfolding** · *a* Completing with nine · *b* Completing with seventeen
 
 - **Prior** · *a* 4-now-co-same-existing → 5-now-co-existing · *b* 12-next-co-same-existing → 13-is-next-discovering
-- **Now** · *a* 6-now-co-possibling → 7-now-observing · *b* 14-next-possibling → 15-is-next-observing
+- **Now** · *a* 6-now-co-possibling → 7-is-now-observing · *b* 14-next-possibling → 15-is-next-observing
 - **Next, discovering onward** · *a* 8-now-same-existing → 9-next-co-discovering · *b* 16-next-same-existing → 17-next-existing
 
 **Each pair is an even name and then an odd; this unfolding has six positions with each span.** Columns are eight on from one another, each opening even in both. Openings odd and even, one and then the other, appear with one-on overlap. Three successive pairs locate names through going on; prior and now give two momentaries participating with a self's present resolving.
@@ -389,21 +389,21 @@ Each entry: **Relation through its unfolding** · *a* Completing with nine · *b
 
 **Bi-tunneling is social moral competency with its across relation; co-chaining is one same going on with its along relation.** Bi-tunneling is reciprocal coupling, each side sharing and receiving with its own forward. Co-chaining takes that coupling onward through participating selves. Morality across and competency along go on together, abundancing of their coupling arising in each self with its other.
 
-**Podaling pairs an odd name with an even while each side goes on forward.** Within nine, 1 pairs with 8, 2 with 7, 3 with 6, and 4 with 5. Each pair is one odd number and one even. Eight on keeps a number odd or even, to a relation with other and same-existing-society: 3-now-co-observing with 11-next-co-observing, and 6-now-co-possibling with 14-next-possibling.
+**Podaling pairs an odd name with an even while each side goes on forward.** Within nine, 1 pairs with 8, 2 with 7, 3 with 6, and 4 with 5. Each pair is one odd number and one even. Eight on keeps a number odd or even, to a relation with other and same-existing-society: 3-is-now-co-observing with 11-next-co-observing, and 6-now-co-possibling with 14-next-possibling.
 
 Each entry: **Relation among names** · *a* Going on it expresses
 
-- **3-now-co-observing with 11-next-co-observing** · *a* Prior same-existing as next prior, both odd
-- **3-now-co-observing with 6-now-co-possibling** · *a* Podal pair, 9 less, one odd and one even
+- **3-is-now-co-observing with 11-next-co-observing** · *a* Prior same-existing as next prior, both odd
+- **3-is-now-co-observing with 6-now-co-possibling** · *a* Podal pair, 9 less, one odd and one even
 - **6-now-co-possibling with 14-next-possibling** · *a* A sharing side across, 6, and an observing side across, 14, eight on
 - **3 → 11 → 6 → 14 → 3**
   - *a* Four-name form has both eight on, keeping odd or even, and 17 less, exchanging them
 
-**A bi-fold between 3-now-co-observing and 6-now-co-possibling gives two-over-one and one-over-two a local expression among numbers.** 9 less pairs three with six. Six over three is two over one; three over six is one over two. Two ratios express one same pair from its two sides. With these names, 3's root is observing and 6's possibling, a fold pairing them.
+**A bi-fold between 3-is-now-co-observing and 6-now-co-possibling gives two-over-one and one-over-two a local expression among numbers.** 9 less pairs three with six. Six over three is two over one; three over six is one over two. Two ratios express one same pair from its two sides. With these names, 3's root is observing and 6's possibling, a fold pairing them.
 
-**A fold participates with a whole four-name form.** Eight on takes 3-now-co-observing to 11-next-co-observing and 6-now-co-possibling to 14-next-possibling. 17 less pairs 11 with 6 and 14 with 3. Together they go 3 → 11 → 6 → 14 → 3, keeping odd or even eight on and exchanging them across fold. Reciprocal numbers with three and six belong within that form going on.
+**A fold participates with a whole four-name form.** Eight on takes 3-is-now-co-observing to 11-next-co-observing and 6-now-co-possibling to 14-next-possibling. 17 less pairs 11 with 6 and 14 with 3. Together they go 3 → 11 → 6 → 14 → 3, keeping odd or even eight on and exchanging them across fold. Reciprocal numbers with three and six belong within that form going on.
 
-**These names bring relations together; their actual joining goes on with connectors.** Four-name form belongs to a resolver's naming. Across, 10 joins another self's 14 and 6 joins another self's 2; along, 9 joins another self's 17. Each self's return, its next prior with 11-next-co-observing, is same-existing as its next 3-now-co-observing. Form of names and joining are two parts of one complete going on, each with its own.
+**These names bring relations together; their actual joining goes on with connectors.** Four-name form belongs to a resolver's naming. Across, 10 joins another self's 14 and 6 joins another self's 2; along, 9 joins another self's 17. Each self's return, its next prior with 11-next-co-observing, is same-existing as its next 3-is-now-co-observing. Form of names and joining are two parts of one complete going on, each with its own.
 
 **A same-existing-society participates as a self through one same relation.** Couplings across among its participating selves belong to a same-existing-society's going on; a same-existing-society couples with other through its own coupling. Its inward couplings across and its outward coupling go on through each other. Fractal is the same method whole with these relations: each participating self brings prior to now, with next discovering through its going on.
 
@@ -555,7 +555,7 @@ Each entry: **With one prior** · *a* Sharing with 10 · *b* Next prior with 11
 
 **Zero is positive and negative parting, or a prior and a parity same, an empty centre.** With 14-next-possibling, parities surface with each sharing, agreeing one, parting 0. With 12-next-co-same-existing, prior and parities couple with each sharing, and 10-next-co-possibling has each parity, positive or negative, or a 0. A 0 a self is observing surfaces no parity. A 0 surfacing with 14 meets a prior as not same, its prior inverting, and a 0 with 10 leaves its prior as it was.
 
-**A prior can go on, same-existing, through a 0 with 10.** A prior goes on with 11-next-co-observing, same-existing as next 3-now-co-observing. No line of the code dissolves it; with a nonzero parity with 10, a next prior forms with 11. A 0 with 10, leaving a prior as it was, and a prior inverting are two relations. Prior goes on to now through both, with discovering going on.
+**A prior can go on, same-existing, through a 0 with 10.** A prior goes on with 11-next-co-observing, same-existing as next 3-is-now-co-observing. No line of the code dissolves it; with a nonzero parity with 10, a next prior forms with 11. A 0 with 10, leaving a prior as it was, and a prior inverting are two relations. Prior goes on to now through both, with discovering going on.
 
 **Four even connectors, 2, 6, 10 and 14, are across coupling.** A self observes with 2-now-possibling and 14-next-possibling and shares with 6-now-co-possibling and 10-next-co-possibling. Their even numbers name across, their root possibling. Parity with a particular receiving belongs to its actual observing and same-existing coupling. An opening's odd or even goes on together with that changing.
 
@@ -623,7 +623,7 @@ Each entry: **With a between** · *a* Relation · *b* Within, eight on · *c* Re
   - *b* 16-next-same-existing
   - *c* A same-existing-society, each self with its prior and parities, a same-existing-society as a self again
 
-**A coupling across participates with bi-folding.** With 3-now-co-observing and 6-now-co-possibling, prior couples with its podal across relation. With 4-now-co-same-existing and 5-now-co-existing, ordering couples with its joining. Observing participates with same-existing through a receiving coupling; each completing opens going on. Four across relations have one coupling with its along going on.
+**A coupling across participates with bi-folding.** With 3-is-now-co-observing and 6-now-co-possibling, prior couples with its podal across relation. With 4-now-co-same-existing and 5-now-co-existing, ordering couples with its joining. Observing participates with same-existing through a receiving coupling; each completing opens going on. Four across relations have one coupling with its along going on.
 
 **A self reaches a same-existing-society through its coupling.** Its parity is one same-existing self's, belonging with a receiving relation as each self's parity does. Co-chaining among its members constitutes that participation. One same sign-only coupling across goes on while co-competencing reaches through further couplings.
 

@@ -1527,7 +1527,7 @@ An opportunistic is departing from each coupling. Fresh observing exceeding its 
 
 ### Abundancing Society
 
-A same-existing-society gathers opportunities from everyone. Gathering operates through resolving with a same-existing-society's between: everyone's suggestions as the parities a self is observing with 2-now-possibling, each self's prior and its sharings with 3-now-co-observing, each sharing's is or is not with 12-next-co-same-existing, and the parities a self is observing surfacing with 14-next-possibling, its next 2, as next set of opportunities. A same-existing-society's opportunities far exceed individual opportunities, its exchanging coupling with every between every self touches.
+A same-existing-society gathers opportunities from everyone. Gathering operates through resolving with a same-existing-society's between: everyone's suggestions as the parities a self is observing with 2-now-possibling, each self's prior and its sharings with 3-is-now-co-observing, each sharing's is or is not with 12-next-co-same-existing, and the parities a self is observing surfacing with 14-next-possibling, its next 2, as next set of opportunities. A same-existing-society's opportunities far exceed individual opportunities, its exchanging coupling with every between every self touches.
 
 A same-existing-society finds morality by nye-advancing a nearly good, advancing bothboths, aiming resources toward a horizon where everyone stands with no harm or better. Advancing autoresolves new opportunities. A new opportunities autoresolve advancing. Cycling is abundancing on a same-existing-society's own surface. Selves live free with abundant personal opportunities, resolving sustaining coupling surface all selves share.
 

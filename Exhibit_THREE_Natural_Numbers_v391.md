@@ -136,7 +136,7 @@ Exhibit THREE Natural Numbers v391
 
 **Stable-forming among numbers is this move along each form among names**, four bi-foldings and with them middle bi-foldings, six-cycles and eight-cycles, these with a step of four among their steps, 5 to 9 and 8 to 12, 7 to 11 and 6 to 10: a form going on through its own changing, each with one span of odd, co and tri, and one of bi, and coming to its names again. Eight-cycle 1-9-5-13-4-12-8-16 is eight ends of four momentaries, 1, 4, 5, 8, 9, 12, 13 and 16, and eight-cycle 2-15-7-11-3-14-6-10 their eight inward names.
 
-**Two over one and one over two exchange with each step**: twenty-three, twenty-four and twenty-five have two odd over one even, and twenty-four, twenty-five and twenty-six one odd over two even. As a ratio, two over one goes with its numbers: with 9 less, 3-now-co-observing and 6-now-co-possibling, 9 less 3 being 6, are six over three and three over six, going on through 3 to 11 to 6 to 14 to 3; two surfaces of four hundred forty, eight hundred eighty stations coupling by four hundred forty, have a pair's waist with four hundred forty, twice either self's two hundred twenty; and eight on, 11 and 14 are fourteen over eleven. Odd and even go with each step, and ratio with its own numbers.
+**Two over one and one over two exchange with each step**: twenty-three, twenty-four and twenty-five have two odd over one even, and twenty-four, twenty-five and twenty-six one odd over two even. As a ratio, two over one goes with its numbers: with 9 less, 3-is-now-co-observing and 6-now-co-possibling, 9 less 3 being 6, are six over three and three over six, going on through 3 to 11 to 6 to 14 to 3; two surfaces of four hundred forty, eight hundred eighty stations coupling by four hundred forty, have a pair's waist with four hundred forty, twice either self's two hundred twenty; and eight on, 11 and 14 are fourteen over eleven. Odd and even go with each step, and ratio with its own numbers.
 
 **With a resolver's executing, + and − are an implementing of a parity and 0 a between**: + and − a self is observing together with one sharing surface 0 with 14, a between of self and other, and a parity inverting twice is that parity again.
 
@@ -1026,11 +1026,11 @@ With each number, its relations:
 - **0** · 0², seam, 1² − 1
 - **1** · 1-now-existing, 1², T₁, prior two added, 2¹ − 1
 - **2** · 2-now-possibling, first prime, prior two added, 2¹
-- **3** · 3-now-co-observing, second prime, T₂, prior two added, 2¹ + 1, 2² − 1
+- **3** · 3-is-now-co-observing, second prime, T₂, prior two added, 2¹ + 1, 2² − 1
 - **4** · 4-now-co-same-existing, 2²
 - **5** · 5-now-co-existing, third prime, prior two added, 2² + 1
 - **6** · 6-now-co-possibling, T₃, 3!
-- **7** · 7-now-observing, fourth prime, 2³ − 1
+- **7** · 7-is-now-observing, fourth prime, 2³ − 1
 - **8** · 8-now-same-existing, seam, 3² − 1, prior two added, 2³
 - **9** · 9-next-co-discovering, 3², 2³ + 1
 - **10** · 10-next-co-possibling, T₄

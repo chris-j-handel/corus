@@ -30,7 +30,7 @@ This plan orders the improving those droplets open, re-said with each suggestion
 3. **The legend and `build.js`.**
 4. **The negations kept** where a re-saying would change meaning, brought one at a time: Co-Chaining Logic Registry step 99, *nature is not an existing thing*; steps 100, 103 and 199, *nothing further than or between things of the universe*; steps 138 and 250, *not same-existing* as other than the self; steps 475 to 478, *not possibling its own next-existing*; steps 552, 629, 660 and 705.
 
-**For our word, standing.** Opening line 5, *A **universal set** is a set of same-existing things*, the shorter definition, or as it is; whether 3 and 7, the self's own binaries, take *is-* (is-prior, is-now); the two senses of *co*, a name's sharing between two and the six's self.
+**For our word, standing.** Opening line 5, *A **universal set** is a set of same-existing things*, the shorter definition, or as it is. *Decided at v391:* 3-is-now-co-observing and 7-is-now-observing with 13 and 15, the four names a binary stands on; *co* two both facing forward along, a self and its other, one sense.
 
 **For our word, decided at v391.** *Natural Network* is one thing's proper name: *a Natural Network surface*, entered across the set. *Substrate* (with *a carry*, *riding its carry*), *carrying* (the expedition's stage name) and *may-never* dissolve: Natural Intelligence and the Co-Chaining Logic Registry carry none, and each other file's sayings are laid outgoing at its offerings. Exhibit ONE's seven concerns stand, at its offerings.
 

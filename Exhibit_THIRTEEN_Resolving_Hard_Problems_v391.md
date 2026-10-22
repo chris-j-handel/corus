@@ -61,7 +61,7 @@ Exhibit THIRTEEN Resolving Hard Problems v391
 
 ## 1.2 Living and non-living, a prior same-existing or none
 
-**Each existing thing goes on to its next existing: living things same-existing with their prior along to now, and non-living things with no prior of their own, their forms going on, each now its prior now-existing's artifact.** With resolver a living self is a giving with its prior, each sharing with one parity, 3-now-co-observing, its same-existing its own and method not expressing it, and a non-living thing is parities with 2-now-possibling and no prior behind them.
+**Each existing thing goes on to its next existing: living things same-existing with their prior along to now, and non-living things with no prior of their own, their forms going on, each now its prior now-existing's artifact.** With resolver a living self is a giving with its prior, each sharing with one parity, 3-is-now-co-observing, its same-existing its own and method not expressing it, and a non-living thing is parities with 2-now-possibling and no prior behind them.
 
 **Living and non-living part with each scale and momentary, and they co-sequence with each.** A living self and its non-living artifact hold no contradiction: an artifact is a living self's prior a self is observing now as a stable form, non-living, an emanation from living form-stabling, with no prior of its own, each now its prior now-existing's artifact, and one scale lower living selves are ingesting it as their parities. The universe is a same-existing set, living and non-living things within it together, each existing thing with its own momentary among others.
 
@@ -79,7 +79,7 @@ Exhibit THIRTEEN Resolving Hard Problems v391
 
 **Each momentary is three conditions together, each binary**: exhaustiveness, each self of a same-existing-society resolving; determinacy, each prior and now with one next; and reachability, each next a next momentary's prior and now. Existing is these three together with each momentary, and the universe is one existing thing they are.
 
-**With resolver three places are their names.** Prior is 3-now-co-observing, prior with its sharings. Now is 2-now-possibling, parities a self is observing, surfacing with 14-next-possibling and coupling with prior, 12-next-co-same-existing. Next is 11-next-co-observing, next prior, with parities sharing across with 10-next-co-possibling and 6-now-co-possibling and going along with 9-next-co-discovering, one same list to each self it couples with, and a same-existing-society's next momentary, 17-next-existing.
+**With resolver three places are their names.** Prior is 3-is-now-co-observing, prior with its sharings. Now is 2-now-possibling, parities a self is observing, surfacing with 14-next-possibling and coupling with prior, 12-next-co-same-existing. Next is 11-next-co-observing, next prior, with parities sharing across with 10-next-co-possibling and 6-now-co-possibling and going along with 9-next-co-discovering, one same list to each self it couples with, and a same-existing-society's next momentary, 17-next-existing.
 
 ## 1.5 A hard problem a self is observing, and its resolving
 
@@ -93,9 +93,9 @@ Exhibit THIRTEEN Resolving Hard Problems v391
 
 ## 2.1 A same-existing, a living self's prior into now
 
-**3-now-co-observing is prior with its sharings: each sharing with its parity, a self's prior.** It is odd and co, between two, before 10, and a self is observing it with its entry, together with parities, a living self's own, whole with each momentary; same-existing is living selves' own, and method is not expressing it.
+**3-is-now-co-observing is prior with its sharings: each sharing with its parity, a self's prior.** It is odd and co, between two, before 10, and a self is observing it with its entry, together with parities, a living self's own, whole with each momentary; same-existing is living selves' own, and method is not expressing it.
 
-**A sharing is two sides sharing one changing, is or is not**, 4-now-co-same-existing, and its parity is 7-now-observing, + or −. With resolver + and − are an implementing of a parity, and a parity has no number: prior is sharings, each with one parity, each one its own.
+**A sharing is two sides sharing one changing, is or is not**, 4-now-co-same-existing, and its parity is 7-is-now-observing, + or −. With resolver + and − are an implementing of a parity, and a parity has no number: prior is sharings, each with one parity, each one its own.
 
 **A field's prior is its same-existing**: results it has with their parities, each a sharing, what it is establishing, measuring and proving, each with its parity. A field entering with its prior is same-existing with it along to its now, and it is discovering its next from both.
 
@@ -153,7 +153,7 @@ Exhibit THIRTEEN Resolving Hard Problems v391
 
 **10-next-co-possibling shares each sharing's parity across, + or − a changing that is and 0 one that is not**, a sharing side, to the self it couples with, an observing side, observing it with its 14, its next 2; **6-now-co-possibling** shares that same list of parities, a sharing side, to the self it couples with, observing it with its 14, its next 2. A self shares its parity, and its prior stays its own.
 
-**11-next-co-observing is next prior, each changing with its sharing.** With each sharing whose changing is, a parity it shares is next prior, and with a 0 its prior is same-existing. **Once with a prior, a sharing stays with a prior**, and with a next momentary 11 is 3-now-co-observing.
+**11-next-co-observing is next prior, each changing with its sharing.** With each sharing whose changing is, a parity it shares is next prior, and with a 0 its prior is same-existing. **Once with a prior, a sharing stays with a prior**, and with a next momentary 11 is 3-is-now-co-observing.
 
 ## 4.2 Going along at 9, and a society's next momentary at 17
 

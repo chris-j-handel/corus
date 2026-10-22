@@ -154,7 +154,7 @@ Exhibit FIVE Natural Engineering v391
 
 **Bringing a missing receiving to bi-momentarying is already design and discovering.** Whole load surfacing goes on with each coupling; its physical construction remains with actual arrangement. Each coupling a design adds has its own whole receiving. A direction a self is discovering with one control dissolving leaves rest of that surface to express. Bi-momentarying, co-competencing and co-intelligencing bring discovering over whole surface, bettering, fastering and cheapering its service going on.
 
-**Bi-momentarying, with 1-now-existing and 2-now-possibling, co-competencing, with 5-now-co-existing, and co-intelligencing, with 3-now-co-observing and 4-now-co-same-existing, are inseparable as one changing and changing back.**
+**Bi-momentarying, with 1-now-existing and 2-now-possibling, co-competencing, with 5-now-co-existing, and co-intelligencing, with 3-is-now-co-observing and 4-now-co-same-existing, are inseparable as one changing and changing back.**
 
 Each entry: **Co-cycling** · *a* The engineering coupling
 
@@ -1021,7 +1021,7 @@ Each entry: **Entry property** · *a* Own-rate at the silicon coupling
 
 Optical sign, an electrical current sign and a resolver parity each retain their physical or representing operation. Oxide forming and dissolving have material path; a phase pattern has its spatial and temporal relation. Whole load surface includes supply, receiving and returning with every interface it includes. Bettering, fastering and cheapering co-cycle with those particular quantities and conditions.
 
-**A fixing form and its naming couple with current changing.** TWENTY-TWO Part Eight, **A rate fixed as a value — 7-now-observing and 15-is-next-observing**, gathers value-pinning. Its adjacency, with ONE's seventeen names 14-next-possibling → 12-next-co-same-existing, stands with THIRTEEN §7.3 and Natural Naming §2.17, and 4-now-co-same-existing, a parity's key, stands with TWENTY-SEVEN’s door line 2. With ONE, 4-now-co-same-existing keys each parity; 14-next-possibling gathers the parities a self is observing, one sign or, with opposite signs, a 0; and 12-next-co-same-existing is a 0 where 14 agrees with a self's prior, inverts that prior otherwise, and with a key new to a self is 14's parity. With engineering coupling, physical rate and each parity a self is observing retain their own relation. Full correspondence belongs with actual parity-taking interface, §4.10.
+**A fixing form and its naming couple with current changing.** TWENTY-TWO Part Eight, **A rate fixed as a value — 7-is-now-observing and 15-is-next-observing**, gathers value-pinning. Its adjacency, with ONE's seventeen names 14-next-possibling → 12-next-co-same-existing, stands with THIRTEEN §7.3 and Natural Naming §2.17, and 4-now-co-same-existing, a parity's key, stands with TWENTY-SEVEN’s door line 2. With ONE, 4-now-co-same-existing keys each parity; 14-next-possibling gathers the parities a self is observing, one sign or, with opposite signs, a 0; and 12-next-co-same-existing is a 0 where 14 agrees with a self's prior, inverts that prior otherwise, and with a key new to a self is 14's parity. With engineering coupling, physical rate and each parity a self is observing retain their own relation. Full correspondence belongs with actual parity-taking interface, §4.10.
 
 Taking each next rate minus preceding rate gives approximate gaps of **3 then 5 mHz** ascending and **−5 then −3 mHz** descending. These are gaps between rates a record gives; their list order supplies no consecutive physical traversal. A proposal's 24/27/32, prime-gap, sixteen-momentary and 0–440 relation goes on as its correspondence of dimension and direction with Numbers and Mathematics.
 
@@ -1240,13 +1240,13 @@ Nesting recurrence, its polynomial with two parities, and odd- and even-dimensio
 
 **A parity selection retains direction while setting aside size with that operation.** A self takes each nonzero parity it is observing once, as one sign unit, + or −. Positive multiplication of that value preserves its parity; multiplication by minus one exchanges its parity. A field and operation matter to statement.
 
-ONE's 3-now-co-observing also holds a prior's value. Its size goes on with 11-next-co-observing while 10-next-co-possibling shares a 0, its sign inverts as one unit with a nonzero sharing, and only its sign meets parities with 12-next-co-same-existing. Reversing that sign can give another next prior and another sharing with next call.
+ONE's 3-is-now-co-observing also holds a prior's value. Its size goes on with 11-next-co-observing while 10-next-co-possibling shares a 0, its sign inverts as one unit with a nonzero sharing, and only its sign meets parities with 12-next-co-same-existing. Reversing that sign can give another next prior and another sharing with next call.
 
 **A prior going on retains its size with a 0.** If priors a call supplies are one sign unit each, keeping and inverting go on with that property with next coupling; a sharing with no prior takes its surfacing parity, 14-next-possibling, as its sharing. Other sizes a call supplies keep their own values only while a 0 shares, and a nonzero sharing writes one unit. ONE's tables of names hold these operations, each name with its number.
 
-A particular check starts with a prior, 3-now-co-observing, `(0, m)` and a parity a self is observing, 2-now-possibling, `(0, 1)`. For `m = 1` and `m = 7`, first call of each case shares zero and its next prior, 11-next-co-observing, keeps `m`. For `m = −1`, call shares `+1` and its next prior is `+1`. With following call and no fresh parity observing, all three cases share minus one. Next priors of first two cases are `1` and `7` after first call, and minus one each after second. Complete inputs and returns stand with Living Improving Value. This is a check of those calls with ONE's code as it stands.
+A particular check starts with a prior, 3-is-now-co-observing, `(0, m)` and a parity a self is observing, 2-now-possibling, `(0, 1)`. For `m = 1` and `m = 7`, first call of each case shares zero and its next prior, 11-next-co-observing, keeps `m`. For `m = −1`, call shares `+1` and its next prior is `+1`. With following call and no fresh parity observing, all three cases share minus one. Next priors of first two cases are `1` and `7` after first call, and minus one each after second. Complete inputs and returns stand with Living Improving Value. This is a check of those calls with ONE's code as it stands.
 
-**A next prior can go on with next coupling.** With ONE, `_3_now_co_observing` and `_2_now_possibling` enter a call, and sharing, 10-next-co-possibling, and a next prior, 11-next-co-observing, both return. Their representation is available to calling code. Parity selection supplies no claim that every returning value, input or successive exchange is inaccessible.
+**A next prior can go on with next coupling.** With ONE, `_3_is_now_co_observing` and `_2_now_possibling` enter a call, and sharing, 10-next-co-possibling, and a next prior, 11-next-co-observing, both return. Their representation is available to calling code. Parity selection supplies no claim that every returning value, input or successive exchange is inaccessible.
 
 Many values a self is observing can have one same parity. That many-to-one operation leaves each side’s available information, going across over successive turns and access with actual arrangement to express for whole interface’s privacy. A proposal's protection belongs with those operations. TWO holds design and discovery with coupling going on; a sharing network brings receiving interface to engineering.
 
@@ -1429,7 +1429,7 @@ Switching adds path question with §4.12. A smelting proposal still needs electr
 
 Each entry: **Existing code naming** · *a* Implementation holding
 
-- **`_3_now_co_observing` and `_2_now_possibling`** · *a* Priors and parities a call supplies, each with its sharing
+- **`_3_is_now_co_observing` and `_2_now_possibling`** · *a* Priors and parities a call supplies, each with its sharing
 - **`_14_next_possibling`**
   - *a* Parities surfacing with each sharing: a first nonzero parity, or 0 where + and − part
 - **`_12_next_co_same_existing` and `_15_is_next_observing`**
@@ -1454,7 +1454,7 @@ These cases follow code's combining as ONE displays it. Their keys name an examp
 
 **A next prior already has one entry per sharing key.** ONE's next prior, 11-next-co-observing, returns from a dictionary. Supplying that returning collection to next invocation keeps its key uniqueness going on. This gives a proposal's connector a concrete relation going on with one same side's receiving.
 
-**Combining priors retains its own operation.** If priors a call supplies repeat a key, each meets parities in turn with 12-next-co-same-existing and last one's meeting stands, and 11-next-co-observing opens from last one's value before a nonzero sharing writes over it. Last prior governs both sharing and next prior. ONE's 3-now-co-observing and 2-now-possibling, a prior and parities with each sharing, express this relation. A proposal's physical connector retains its correspondence when first priors or collections a self is observing separately couple.
+**Combining priors retains its own operation.** If priors a call supplies repeat a key, each meets parities in turn with 12-next-co-same-existing and last one's meeting stands, and 11-next-co-observing opens from last one's value before a nonzero sharing writes over it. Last prior governs both sharing and next prior. ONE's 3-is-now-co-observing and 2-now-possibling, a prior and parities with each sharing, express this relation. A proposal's physical connector retains its correspondence when first priors or collections a self is observing separately couple.
 
 Reordering parities a self is observing preserves their surfacing with each key; sharing list can still follow another order of first key appearance. Observing order, a prior's going on and physical directional order remain with their own receiving. A collection a call supplies as priors must remain available for function's two traversals of it. An implementation's grouping supplies no physical orientation or prescribing turn order.
 
@@ -1481,7 +1481,7 @@ Each entry: **Parities a coupling supplies** · *a* Surfacing, 14 · *b* Sharing
 
 Last row’s prior, +, meets its own parity surfacing and shares 0. Its prior goes on as it was with 11-next-co-observing; a 0 sharing writes no fresh next prior. These results follow ONE’s clauses as it displays them. Reordering parities within one collection a call supplies preserves its surfacing; separating them across successive couplings also brings a prior going on. Two relations retain their own operations.
 
-**A recurring observation and a fresh sharing retain their actual receiving.** A recording device can sample one same ongoing signal several times. Supplying each sample as a fresh parity a self is observing repeats parities; supplying one with a complete physical exchange holds another relation. A 0 a self is observing gives no parity, 14-next-possibling passing over it, while each prior with 3-now-co-observing still changes or is same-existing with 12-next-co-same-existing. A period, a sample interval, an absent parity and a complete exchange therefore each have their own meaning with connector.
+**A recurring observation and a fresh sharing retain their actual receiving.** A recording device can sample one same ongoing signal several times. Supplying each sample as a fresh parity a self is observing repeats parities; supplying one with a complete physical exchange holds another relation. A 0 a self is observing gives no parity, 14-next-possibling passing over it, while each prior with 3-is-now-co-observing still changes or is same-existing with 12-next-co-same-existing. A period, a sample interval, an absent parity and a complete exchange therefore each have their own meaning with connector.
 
 Engineering opportunity is current parity taking and exchange completion with each side’s own available changing. Selecting direction, material or electrical extent of its sharing, and its returning receipt stay together. Silicon surface of §2.4 holds a field observing; its local connector, ongoing supply and physical parity correspondence remain to express. One parity of code supplies no rate law for that surface.
 
@@ -1532,7 +1532,7 @@ Each entry: **At ONE's code or illustration** · *a* The operation it holds ther
   - *a* A prior meets its own parity surfacing, or + and − part with no prior. This sharing writes no fresh next prior; a prior goes on as it was with 11-next-co-observing.
 - **Zero within `_14_next_possibling`**
   - *a* + and − part with one sharing. Meeting a prior, that 0 inverts it, and a nonzero sharing writes its parity to next prior; a 0 surfacing and a nonzero sharing coexist.
-- **Zero as a prior's value within `_3_now_co_observing`**
+- **Zero as a prior's value within `_3_is_now_co_observing`**
   - *a* A prior 0 a call supplies, which no line makes, meets parities as a − does: none or + surfacing gives +1, and − surfacing gives 0.
 
 All four rows follow code as ONE displays it. Their co-chaining belongs with actual changing. A 0 sharing, a position absent from sharing list and an empty returning next prior are distinct returns. §4.10 holds sharing and next prior together with next receiving.
@@ -1732,13 +1732,13 @@ Each entry: **Engineering observing** · *a* TWENTY-ONE → TWENTY-TWO v344; fix
   - *a* 132 → §3.19; a completing fixing as a last, with 6-now-co-possibling and 14-next-possibling
   - *b* Connections a field adopts and their particular compatibility; comparison a self asks of an arrangement not existing.
 - **Benchmarks**
-  - *a* 131 → §6.12; a parity fixing as a magnitude, with 7-now-observing and 15-is-next-observing
+  - *a* 131 → §6.12; a parity fixing as a magnitude, with 7-is-now-observing and 15-is-next-observing
   - *b* Tasks an evaluation covers, training exposure and result a record holds; capability a claim takes past that coupling's reach.
 - **Alignment of built systems**
   - *a* 130 → §3.18; a completing fixing as a last, with 6-now-co-possibling and 14-next-possibling
   - *b* Specification, evaluation and actual behavior; behavior a claim takes to situations no evaluation reaches.
 - **Brooks's law**
-  - *a* 133 → §6.13; a parity fixing as a magnitude, with 7-now-observing and 15-is-next-observing
+  - *a* 133 → §6.13; a parity fixing as a magnitude, with 7-is-now-observing and 15-is-next-observing
   - *b* Work, joining and newly forming connections; effect a self assigns from a count while fixing that connection structure.
 - **Risk compensation**
   - *a* 134 → §3.20; a completing fixing as a last, with 6-now-co-possibling and 14-next-possibling
@@ -1756,10 +1756,10 @@ Each entry: **Engineering observing** · *a* TWENTY-ONE → TWENTY-TWO v344; fix
   - *a* 135 → §4.3; a same-existing fixing as a store, with 8-now-same-existing and 16-next-same-existing
   - *b* Record a field retains, present defects and revision a self requests; future cost fixing as an amount in store. Definition holds a second fixing form.
 - **The productivity paradox**
-  - *a* 83 → §6.4; a parity fixing as a magnitude, with 7-now-observing and 15-is-next-observing
+  - *a* 83 → §6.4; a parity fixing as a magnitude, with 7-is-now-observing and 15-is-next-observing
   - *b* Output a record holds and couplings pricing reaches; total a self asks to include what pricing does not reach.
 - **Information as fundamental**
-  - *a* 77 → §9.13; a two-way fixing to one side, with 3-now-co-observing and 11-next-co-observing
+  - *a* 77 → §9.13; a two-way fixing to one side, with 3-is-now-co-observing and 11-next-co-observing
   - *b* Physical operation and its informational description, §§2.5 and 6.5; one-way dependence a self demands between them.
 - **The frame problem**
   - *a* 39 → §2.4; an opening fixing as a place, with 1-now-existing and 9-next-co-discovering
@@ -1771,13 +1771,13 @@ Each entry: **Engineering observing** · *a* TWENTY-ONE → TWENTY-TWO v344; fix
   - *a* 93 → §5.6; a middle fixing as an end, with 5-now-co-existing and 13-is-next-discovering
   - *b* Symbol and its actual couplings, §2.2; content fixing apart from sharing, with a record store's fixing form alongside.
 - **The equity premium puzzle**
-  - *a* 79 → §8.4; a rate fixing as a value, with 7-now-observing and 15-is-next-observing
+  - *a* 79 → §8.4; a rate fixing as a value, with 7-is-now-observing and 15-is-next-observing
   - *b* Return record and preferences it states; a premium expectation a self demands from model parameters.
 - **The halting problem**
   - *a* 6 → §3.2; a completing fixing as a last, with 6-now-co-possibling and 14-next-possibling
   - *b* A program and input a field specifies, §6.10; a decision fixing ahead over every executing. A field’s theorem retains its scope.
 - **Credit assignment**
-  - *a* 96 → §9.15; a two-way fixing to one side, with 3-now-co-observing and 11-next-co-observing
+  - *a* 96 → §9.15; a two-way fixing to one side, with 3-is-now-co-observing and 11-next-co-observing
   - *b* Outcome, sequence and reward or model a self supplies; contribution a self assigns to one action, fixing the rest.
 
 **Same-existing, bounding and co-discovering** remain natural explaining for 135. A field's observing is *technical debt*. Its deployment, §4.3, holds a same-existing fixing as a store and a second fixing form with definition's between. Present defects, architecture drift and costs of revisions a team actually makes have their own records. Remaining engineering relation is a fixing form with next revision a self requests and its co-discovering with service it states going on. Each side shares its own; natural same-existing supplies no stock of future cost.
