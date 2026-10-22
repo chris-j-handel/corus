@@ -217,8 +217,8 @@ Each entry: **File** · *a* Subtitle · *b* At the repository · *c* Living · *
   - *e* pass 4 at its possible projects
 - **TWENTY-FIVE · Living Society Registry**
   - *a* An Open Registry of Observations from Science
-  - *b* v390
-  - *c* v390: grains other than living tissue: a vortex and a lattice ghost-form installed as things, electrons a nothing ghost, a grid area a built set; v390: pass 10, its own explaining re-said by meaning toward session v390's concepts, quotations, field wording and namings kept; v389: released words re-said, each of ten fixed, *the* where not valuable, its offerings resolved, four risen
+  - *b* v391
+  - *c* v391: met with Natural Intelligence and the code all or none, 729 sayings re-said by meaning; fields' own words kept where they report a field; v390: grains other than living tissue: a vortex and a lattice ghost-form installed as things, electrons a nothing ghost, a grid area a built set; v390: pass 10, its own explaining re-said by meaning toward session v390's concepts, quotations, field wording and namings kept; v389: released words re-said, each of ten fixed, *the* where not valuable, its offerings resolved, four risen
   - *d* —
   - *e* pass 4 at its possible projects
 - **TWENTY-SIX · Living File Registry**
