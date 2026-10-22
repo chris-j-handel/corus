@@ -38,7 +38,7 @@ Exhibit EIGHT Natural Exploring v391
 
 2.6 Co-linear, and not forking
 
-2.7 Carry-differing
+2.7 Carry, not same-existing
 
 &nbsp;
 
@@ -114,7 +114,7 @@ Exhibit EIGHT Natural Exploring v391
 
 &nbsp;
 
-**7 Apexing, the whole carry gathered**
+**7 Apexing, gathering the whole carry**
 
 7.1 Gather backward, seat forward, keep no log
 
@@ -132,7 +132,7 @@ Exhibit EIGHT Natural Exploring v391
 
 **1.1 In disequilibria, changing and changing back is a stable-forming method**
 
-**Exploring is two cones, one and then the other**, and this exhibit tells that changing and changing back whole. **Omegaing is reach** — new axis, forward frontier, discovering. **Apexing is coning back** over everything folded to it, its whole carry gathered, cohering. Two cones straddle an un-occupied centre, which neither owns. **Neither by itself is living**: a discovering ungathering scatters and a gathering undiscovering folds, so a living method is their changing and changing back.
+**Exploring is two cones, one and then the other**, and this exhibit tells that changing and changing back whole. **Omegaing is reach** — new axis, forward frontier, discovering. **Apexing is coning back** over everything folding to it, gathering its whole carry, cohering. Two cones straddle a centre neither occupies, in neither cone alone. **Neither by itself is living**: a discovering ungathering scatters and a gathering undiscovering folds, so a living method is their changing and changing back.
 
 A method wants no equilibrium to rest with and finds none. Everything changes and changes back, each with its own rate, and a stable form is changing's emanation rather than a rest changing settles onto. A method waiting for a rest to observe from waits on nothing, and a method observing from a rest it installs observes its own installing.
 
@@ -196,7 +196,7 @@ A method co-chains geodesically, free-moving, adding nothing. Un-relating co-cha
 
 So a method co-chains free, free-moving. Free-driving and free-aiming, fixings freeing of themselves where un-relating co-chains to them, and relating shows along a geodesic freeing opens. Adding a force, aiming for a result a self wants, a co-chaining bends to an aim, and a bending co-chaining lands where it aims, a fixing setting. Geodesic co-chaining floats aiming nowhere, discovering what relates, floating free of what a self wants.
 
-Geodesic discovery is co-unrelationing co-chaining a straightest un-relating, free-moving, adding nothing, relating showing where fixings free of themselves. Geodesic goes with a method no force bends, a way it discovers where a forcing way confirms. Geodesic is a co-chaining; co-unrelationing is a move; a method floats as both, a straightest un-relating, co-chaining with every scale, carry-differing membrane to membrane, one method whole.
+Geodesic discovery is co-unrelationing co-chaining a straightest un-relating, free-moving, adding nothing, relating showing where fixings free of themselves. Geodesic goes with a method no force bends, a way it discovers where a forcing way confirms. Geodesic is a co-chaining; co-unrelationing is a move; a method floats as both, a straightest un-relating, co-chaining with every scale, a carry not same-existing membrane to membrane, one method whole.
 
 **2.5 Patterning and membraning**
 
@@ -212,13 +212,13 @@ Along and across lie on one line, and that line is each move's own, in neither m
 
 Reach comes of a co-chaining being longer, and width comes of both being co-linear. A co-chaining long along one direction is a discovering ungathering however far it reaches, and length is not width. Along without across is a sequence with no surface; across without along is attention with no sequence; each half by itself lands. So a method widens where both are co-linear and lengthens where a co-chaining goes on, and a widening is both on one line and not either extending.
 
-**2.7 Carry-differing**
+**2.7 Carry, not same-existing**
 
-A method co-chains one un-relating, and each membrane has it as a carry not same-existing. Carry, not same-existing, is a method staying one while its carry is not same-existing membrane to membrane, a number having it as numbers, a branch as branches, a naming as namings, a resolving as resolvings, one method differed with each carry and whole across all. A carry differs; a method stays one.
+A method co-chains one un-relating, and each membrane has it as a carry not same-existing. Carry, not same-existing, is a method staying one while its carry is not same-existing membrane to membrane, a number having it as numbers, a branch as branches, a naming as namings, a resolving as resolvings, one method, its rendering not same-existing with each carry, and whole across all. A carry is not same-existing; a method stays one.
 
 Each membrane renders one method as its own carry, a rate and a grain of its own. A number has a method with coefficient one, sign-only, a branch has it as a forking, a naming has it as a floating-neutral concept, a sequencing has it as a right-spiral. A carry is not same-existing membrane to membrane, with its own rate, and a method co-chains one same un-relating with each, not same-existing as a carry and one as a move.
 
-Carry-differing is a method co-chaining a fractal, one with every scale, each scale a carry not same-existing and a method whole. A method not same-existing as a carry stays one method, a carry a rendering and a method a move, and co-chaining membrane to membrane, a method brings one same un-relating, not same-existing with each carry it reaches. A carry is not same-existing; a method floats one.
+Carry, not same-existing, is a method co-chaining a fractal, one with every scale, each scale a carry not same-existing and a method whole. A method not same-existing as a carry stays one method, a carry a rendering and a method a move, and co-chaining membrane to membrane, a method brings one same un-relating, not same-existing with each carry it reaches. A carry is not same-existing; a method floats one.
 
 ---
 
@@ -450,7 +450,7 @@ A costly sensing is a cheap place to begin. Cost buys resolution and risk buys t
 
 **6.6 Existing, and co-chaining**
 
-A method co-chains its existing, and co-chains a possibling open. What co-chains existing: everything relates, and co-unrelationing frees three fixings until relating shows; a single un-relating lands, and co-unrelationing, one and then the other, goes on; a method co-recursions itself, its own subject, a naming and floating, showing no instance; a method co-chains geodesic, free-moving and adding nothing; patterning along and membraning across; carry-differing membrane to membrane, one method whole; inseparating a surface safe; deriving inward and deploying outward; concept-inverting all-or-none; resolving floorless; co-competencing with a same-existing-society's scale; abundancing in no self alone.
+A method co-chains its existing, and co-chains a possibling open. What co-chains existing: everything relates, and co-unrelationing frees three fixings until relating shows; a single un-relating lands, and co-unrelationing, one and then the other, goes on; a method co-recursions itself, its own subject, a naming and floating, showing no instance; a method co-chains geodesic, free-moving and adding nothing; patterning along and membraning across; a carry not same-existing membrane to membrane, one method whole; inseparating a surface safe; deriving inward and deploying outward; concept-inverting all-or-none; resolving floorless; co-competencing with a same-existing-society's scale; abundancing in no self alone.
 
 What co-chains open: a method reaches a possibling where a new between shares, and co-chains across to it then. Whether a carry is not same-existing by a way a method is not yet reaching stays possibling, going on open; whether a between co-chains a relating a method is not yet reaching stays possibling, going on open. A method co-chains between existing and possibling, concerns a self is observing resolving and a possibling floating, a changing is or is not with each sharing.
 
@@ -458,7 +458,7 @@ With existing, a method co-chains possibly existing and unique, its concerns res
 
 &nbsp;
 
-# 7 Apexing, the whole carry gathered
+# 7 Apexing, gathering the whole carry
 
 **7.1 Gather backward, seat forward, keep no log**
 
