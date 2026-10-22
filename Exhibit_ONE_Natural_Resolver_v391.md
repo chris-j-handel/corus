@@ -113,7 +113,7 @@ observing side, one: 2, 14 and 17
 ─── within one self
 ```
 
-**A drawing.** A prior a self observes, 3, meets parities surfacing, 14, with each sharing, 12; parities, 10 and 6, go across to an other's 2 and 14; a next prior forms, 11, and a self observes it again, 3, next; and 9 goes along with 5 to an other's 17. With 6 to 2, 10 to 14 and 9 to 17, a sharing side is a self and an observing side an other self, each a self, and a same-existing-society is its selves.
+**A drawing.** A prior a self observes, 3, meets parities surfacing, 14, with each sharing, 12; parities, 10 and 6, go across to an other's 14, its next 2; a next prior forms, 11, and a self observes it again, 3, next; and 9 goes along with 5 to an other's 17. With 6 to 2, 10 to 14 and 9 to 17, a sharing side is a self and an observing side an other self, each a self, and a same-existing-society is its selves.
 
 **Seventeen names.**
 
@@ -186,9 +186,9 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 
 | Sharing side, co | Observing side, one | Between selves |
 |---|---|---|
-| 6-now-co-possibling | 2-now-possibling | across, even, possibling |
-| 10-next-co-possibling | 14-next-possibling | across, even, possibling |
-| 9-next-co-discovering | 17-next-existing | along, odd, discovering |
+| 6-now-co-possibling | 2-now-possibling | across, even, its root possibling |
+| 10-next-co-possibling | 14-next-possibling | across, even, its root possibling |
+| 9-next-co-discovering | 17-next-existing | along, odd, its root discovering |
 
 **Four binaries with code's lines.** Existing, all, now and same are four is or is nots of things within the universe. With a self's span each binary is one pair of names: its *is* with an odd name and its *is not* with an even. Existing and same are roots of names, and all enters no name.
 
@@ -531,7 +531,7 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
   - *Resolving*: an entry, 1, with names 1, 2, 3, 4, 7, 10, 11, 12, 14 and 15, a self and an other with one coupling; 1 to 9 a bi-coupling among names, 9 with its end is 9-next-co-discovering, each parity of 10 along, one name with resolver and with its explaining
 - **Names: 1 to 17**
   - *Naming*: bi-trupling
-  - *Resolving*: a same-existing-society's entry, 17, with names of 1 to 9 with 5, 6, 8, 9, 13, 16 and 17, a self, an other and a same-existing-society; 9 with its waist, 9-next-co-discovering, along, 9 to 17 and 17 to 9; its two sides, odd along with 9 and 17, existing, and even across with 6 to 2 and 10 to 14, possibling
+  - *Resolving*: a same-existing-society's entry, 17, with names of 1 to 9 with 5, 6, 8, 9, 13, 16 and 17, a self, an other and a same-existing-society; 9 with its waist, 9-next-co-discovering, along, 9 to 17 and 17 to 9; its two sides, along with 9 and 17, odd, their roots discovering and existing, and across with 6 to 2 and 10 to 14, even, their root possibling
 - **Names: 1 to 17, stable-forming**
   - *Naming*: bi-tri-volutioning
   - *Resolving*: with no one line: each momentary's next prior, with 11, a next momentary's prior, with 3

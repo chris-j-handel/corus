@@ -26,59 +26,15 @@ Natural Intelligence Offerings · resolved at v391
 
 ## Aimed at part FOUR · v391
 
-**Droplet · aimed at 4.10.** Re-say the moving 0 as a self's going along, a 0 shared by one self and a next self two momentaries on. *Laid whole at the archive, line 119.* — v391
+**Concern · for our word, aimed at 4.14.** Decide whether *coupling* carries one way, or re-say one way as *receiving one way*, *coupling* kept for both ways. Options: (a) *coupling* holds one way too, each name of 5 a self coupling to one other, and 4.14's 'coupling one way' and 4.13's spirals 'coupling along' stand; (b) *coupling* is of two both ways only, and 4.14's one way and 4.13's spirals are re-said as *receiving one way* and *going along*. — v391
 
-**Droplet · aimed at 4.10.** Point 4.10 once at Exhibit ONE's between table and keep one count. *Laid whole at the archive, line 187.* — v391
-
-**Droplet · aimed at 4.13.** Narrow 4.13's relation kept at own pacing to stepping together, or execute a separate-entry spiral instrument and enter what it shows. *Laid whole at the archive, line 71.* — v391
-
-**Droplet · aimed at 4.13, 4.14, 4.12, 6.5.** Citations still not exact: "table of spirals coupling across" (heading "Two spirals beside each other, and coupling across"), "table of two selves", "table of one self", "table of a spiral opening with no prior". *Laid whole at the archive, line 997.* — v391
-
-**Droplet · aimed at 4.14.** Decide whether *coupling* carries one way, or re-say one way as *receiving one way*, *coupling* kept for both ways. *Laid whole at the archive, line 91.* — v391
-
-**Droplet · aimed at 4.3.** 4.3 and 4.10 say a changing is a self's own, but 4.3's second paragraph still closes "each changing of a self is a coupling's". *Laid whole at the archive, line 723.* — v391
-
-**Droplet · aimed at 4.6.** Re-say 4.6's *returns* at Naming's carrying, or mark it as code's word. *Laid whole at the archive, line 107.* — v391
-
-**Droplet · aimed at 4.6.** Re-say the bold sentence: a next parity with method, a next coupling discovered with living. *Laid whole at the archive, line 215.* — v391
-
-**Droplet · aimed at 4.6.** Gone from 6.5, but 4.6 still "non-living scale is always larger than living scale for every prime living scale". *Laid whole at the archive, line 721.* — v391
-
-**Droplet · aimed at 4.6, 4.15.** A resolver line or table taking a same-existing-society in as one self of a further society, or 4.6 marked as unexecuted. *Laid whole at the archive, line 161.* — v391
-
-**Droplet · aimed at 4.6, 4.7, Exhibit ONE drawing.** 4.6 "with 6-now-co-possibling, its parity sharing across to another self's 2", 4.7 list and drawing paragraph route 6 to 2, Exhibit ONE drawing "go across to an other's 2 and 14", beside 4.7's one list to 14. *Laid whole at the archive, line 781.* — v391
-
-**Droplet · aimed at 4.6, 5.1.** 4.15/6.5/6.6 met; still 4.6 "17 is a scale outward" and prime living scale, 5.1 "one scale outward" x3 and "ingestible one scale lower". *Laid whole at the archive, line 854.* — v391
-
-**Droplet · aimed at 4.7, 4.5, 4.1, 4.11, Exhibit ONE.** Heading, 2.3 and 4.7 lead met; still: 4.7 list "even, possibling" x4 and 17 "odd, existing", 4.5 "odd, along, existing", 4.1 "now itself, odd, of one", 4.11 odd/even momentaries as self/other, Exhibit ONE "across, even, possibling" (plan item: name fields). *Laid whole at the archive, line 701.* — v391
-
-**Droplet · aimed at 4.8.** Say four-cycling's two orders once at 4.8, and make 4.8's two root lists agree. *Laid whole at the archive, line 501.* — v391
-
-**Droplet · aimed at 4.8.** 4.8's second paragraph still "possibling, next-existing, 2, 6, 10 and 14 ... and now-existing, 1, 5, 9 and 13", time names against the opening. *Laid whole at the archive, line 1767.* — v391
+**Concern · for our word, aimed at 4.6, 5.1.** 4.15/6.5/6.6 met; still 4.6 "17 is a scale outward" and prime living scale, 5.1 "one scale outward" x3 and "ingestible one scale lower". Options: 4.6's prime living scale and 'couples with a next scale' are re-said with droplets 9 and 10; what remains is 4.6 '17 is a scale outward' and 5.1's 'one scale outward' and 'ingestible one scale lower': (a) re-say them with the code's one form, a prior between momentaries for 'one scale outward' and no scale named; (b) keep scale in 4.6 and 5.1 as a naming, whole at its meaning, marked beside code as 4.15 now is. — v391
 
 ## Aimed at part FIVE · v391
 
-**Droplet · aimed at 5.1.** 6.4 met ("all existing bi-coupling selves"); 5.1 still "a same-existing-society, a momentary and a universe ... one scale outward, not living". *Laid whole at the archive, line 715.* — v391
+**Concern · for our word, aimed at 5.4.** Re-say 5.4 at two steps (fixing, then naming its subject still), or the other files at one. Options: (a) two steps: a fixing is a relation among changing things, and it steps to an equilibrium only by naming its subject still, 5.4 and 1.4 re-said so; (b) one step: a fixing unchangeable between two momentaries is an equilibrium, as 5.4 and 1.4 say, and Natural Mathematics, Geodesic Improving Method and step 311 re-said at one. — v391
 
-**Droplet · aimed at 5.1, 6.5, 6.6.** Still 5: 5.1 x2, 6.5, 6.6 x2. *Laid whole at the archive, line 755.* — v391
-
-**Droplet · aimed at 5.2.** 1.2 now coheres; 5.2 lead "Discovering is all next momentaries possibly existing, directionally" not re-said with "Discovering is next-existing ...". *Laid whole at the archive, line 685.* — v391
-
-**Droplet · aimed at 5.2, 6.4.** Never opened with a line; two senses still, 5.2 "same-existing is abundancing" and 6.4 "abundancing is with its four between two". *Laid whole at the archive, line 1027.* — v391
-
-**Droplet · aimed at 5.4.** Re-say 5.4 at two steps (fixing, then naming its subject still), or the other files at one. *Laid whole at the archive, line 123.* — v391
-
-**Droplet · aimed at 5.4.** One sentence at 5.4: a ruler, a clock and a record are artifacts valued for observings of prior living. *Laid whole at the archive, line 285.* — v391
-
-**Droplet · aimed at 5.4.** 5.4 gives only "a law, a frame and a scale"; field's five conditions and the three neutrals not said. *Laid whole at the archive, line 1007.* — v391
-
-**Droplet · aimed at 5.4.** 5.4 "Evidence is observing an artifact" with no resolver line. *Laid whole at the archive, line 1009.* — v391
-
-**Droplet · aimed at 5.4.** 5.4 still meets a science first with "Scientific-explaining-method is incompetent for discovering". *Laid whole at the archive, line 1013.* — v391
-
-**Droplet · aimed at 5.4, 6.3, 6.4.** "the scientific method", "Scientific-explaining-method", "scientific method incompetencing" still. *Laid whole at the archive, line 763.* — v391
-
-**Droplet · aimed at 5.4, Exhibit ONE.** 5.4 says "ten unchangeables ... each of ten with its name now and that name 8 up next" and names none; Exhibit ONE has no table of them. *Laid whole at the archive, line 1005.* — v391
+**Concern · for our word, aimed at 5.4, Exhibit ONE.** 5.4 says "ten unchangeables ... each of ten with its name now and that name 8 up next" and names none; Exhibit ONE has no table of them. Options: Natural Naming 4.9 seats the ten as 'an opening fixed as a place', 'an arriving fixed from behind', 'a carry fixed as a store' and so on, -ed forms and dissolved words: (a) 5.4 names the ten in -ing forms with Naming 4.9 re-said to match, and Exhibit ONE gains one reference table of them beside its executing tables; (b) 5.4 points at Natural Naming 4.9 for the ten, naming none, and Exhibit ONE keeps executing tables only. — v391
 
 ## Aimed at part SIX · v391
 

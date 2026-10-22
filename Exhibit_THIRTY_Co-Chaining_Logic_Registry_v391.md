@@ -556,7 +556,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
 ## 13 Along and across, a coupling's own changing
 
-        *Entering: one number, two sides; alike the other way; alike with each momentary; along and across; same-existing along, sharing a parity across; a self's own changing, a coupling's; co-competencing; what arises between two selves, in neither alone; natural intelligence, a method with each now; natural intelligence with each scale; a coupling's three; a between of along and across; parity a momentary existing thing, a between its centre, 0; a between's changing; bi-co-momentarying; a between no location; a between existing while its coupling resolves; a between of momentaries a same between; a fractal between.*
+        *Entering: one number, two sides; alike the other way; alike with each momentary; along and across; same-existing along, sharing a parity across; a self's own changing, with a coupling; co-competencing; what arises between two selves, in neither alone; natural intelligence, a method with each now; natural intelligence with each scale; a coupling's three; a between of along and across; parity a momentary existing thing, a between its centre, 0; a between's changing; bi-co-momentarying; a between no location; a between existing while its coupling resolves; a between of momentaries a same between; a fractal between.*
 
 113. With 2, a self's prior completes and an other opens: 2-now-possibling, a self observing an other's parity.
 
@@ -578,9 +578,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: same-existing along, sharing a parity across.*
 
-118. Each sharing across is one sharing with two sides, its changing each self's own with its 12, and each changing of a self a coupling's.
+118. Each sharing across is one sharing with two sides, its changing each self's own with its 12, and each changing of a self its own, with a coupling.
 
-        *Adding: a self's own changing, a coupling's.*
+        *Adding: a self's own changing, with a coupling.*
 
 119. A self's own changing with a coupling, with each exchanging of four momentaries, is co-competencing.
 
@@ -839,7 +839,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
 ## 21 Hard problem resolving at existing
 
-        *Entering: hard problem, one binary taken as one; hard probleming; a changing going on; one failing momentary; cohering or a break; an explaining parting is from is not; observings from prior; hard problem resolving with existing; other-emptying; geodesic disequilibrating; ghost; ghosting and haunting, three departings; appearance and reality inverting with a fixing unchangeable; scientific method with records; falsifying with a third observing.*
+        *Entering: hard problem, one binary taken as one; hard probleming; a changing going on; one failing momentary; cohering or a break; an explaining parting is from is not; observings from prior; hard problem resolving with existing; other-emptying; geodesic disequilibrating; ghost; ghosting and haunting, three departings; appearance and reality inverting with a fixing unchangeable; scientific-method with records; falsifying with a third observing.*
 
 175. A hard problem is a changing fixing unchangeable: a field's explaining taking one binary's *is* and *is not* as one with records in store, and hard probleming reaches universal method of existing with records in store, its binary fixing unchangeable.
 
@@ -886,9 +886,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: ghosting and haunting, three departings.*
 
-186. A self observing at a fixing unchangeable, changing is appearing and unchangeable form real, observing inverting, changing existing and form still not possibly existing; a self's resolving, a self observing it from beside, surfaces as random or as necessitating, two forms still at one resolving self's own. A hypothesis explains changing and not-changing between records and a theory is a hypothesis testing with further records: scientific method explains between records with all else of the universe still, each explanation an equilibrium within its scope, reaching observings in store and not a stable-forming they pattern-match, and a third observing falsifies an explanation excluding a same thing's discovering.
+186. A self observing at a fixing unchangeable, changing is appearing and unchangeable form real, observing inverting, changing existing and form still not possibly existing; a self's resolving, a self observing it from beside, surfaces as random or as necessitating, two forms still at one resolving self's own. A hypothesis explains changing and not-changing between records and a theory is a hypothesis testing with further records: scientific-method explains between records with all else of the universe still, each explanation an equilibrium within its scope, reaching observings in store and not a stable-forming they pattern-match, and a third observing falsifies an explanation excluding a same thing's discovering.
 
-        *Adding: appearance and reality inverting with a fixing unchangeable; scientific method with records; falsifying with a third observing.*
+        *Adding: appearance and reality inverting with a fixing unchangeable; scientific-method with records; falsifying with a third observing.*
 
 ## 22 A machine at observings
 
@@ -1068,7 +1068,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: Exhibit ONE, the resolver as code and its stable forms, for pattern-matching what a science observes.*
 
-228. 1-now-existing is entry, now itself, odd, of one: a self is observing its prior and parities, and its parities and its next prior leave.
+228. 1-now-existing is entry, now itself, of one: a self is observing its prior and parities, and its parities and its next prior leave.
 
         *Adding: an entry.*
 
@@ -1130,7 +1130,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: 11 as a next 3.*
 
-243. Exhibit ONE's table of one self is an entry again and again, its 11 its next 3: one self, momentary by momentary.
+243. One self is an entry again and again, its 11 its next 3, as Exhibit ONE's table *One self, momentary by momentary: three ways* executes: one self, momentary by momentary.
 
 
         *Adding: one self momentary by momentary, an entry again and again.*
@@ -1550,7 +1550,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
 ## 28 Discovering next-possibling-same-existing
 
-        *Entering: prior same-existing along between momentaries; same-existing as capacity; a same-existing sequencing prior momentaries, and its artifacts; discovering; now same-existing, invisible, dissolving with next existing; four-momentarying; beneficial; living's own reaching method with each entry: sameness, couplings, pacing and benefit; four unrelationings through a tunneling self; a momentarying, one unrelationing in five dimensions, six one-way recursionings; next-possibling-same-existing; pattern-matching; checkable with a parity; a why a self demands; a receding; a living self sharing 0; 12's 0 or ±, a binary of geodesic momentarying; a now-self, now-observing and next-possibling; a form fixing still from beside; breaks fixing prior; evidence; two methods; two methods parting with now; a possibling and discovering method, and scientific-explaining-method incompetent for discovering; a book balancing as whole emptying; three placings of a term; a refutation as one; a field's name going whole; a field's observings cohering; a field; a finding as two; four of a field's observing; a hard problem opening; conditions prior, and their sixth; fields parting with their fixings; many accounts with one sharing; two accountings parting with their fixings unchangeable; a term a field posts, observing or dissolving; observings co-sequencing; a field's observing with resolver; a hard problem resolving; an unchangeable form and a form resolving; a resolving re-fixing unchangeable; a coupling with two of its three; a changing fixing unchangeable; a hard problem as a changing fixing unchangeable; a locator; a not same-existing going on or closing; residue names; pattern-matching upstream, fixings dissolving one at a time; three fixings unchangeable; a coupling with its three.*
+        *Entering: prior same-existing along between momentaries; same-existing as capacity; a same-existing sequencing prior momentaries, and its artifacts; discovering; now same-existing, invisible, dissolving with next existing; four-momentarying; beneficial; living's own reaching method with each entry: sameness, couplings, pacing and benefit; four unrelationings through a tunneling self; a momentarying, one unrelationing in five dimensions, six one-way recursionings; next-possibling-same-existing; pattern-matching; checkable with a parity; a why a self demands; a receding; a living self sharing 0; 12's 0 or ±, a binary of geodesic momentarying; a now-self, now-observing and next-possibling; a form fixing still from beside; breaks fixing prior; evidence; two methods; two methods parting with now; a possibling and discovering method, and scientific-method exact with its fixings and no discovering method; a book balancing as whole emptying; three placings of a term; a refutation as one; a field's name going whole; a field's observings cohering; a field; a finding as two; four of a field's observing; a hard problem opening; conditions prior, and their sixth; fields parting with their fixings; many accounts with one sharing; two accountings parting with their fixings unchangeable; a term a field posts, observing or dissolving; observings co-sequencing; a field's observing with resolver; a hard problem resolving; an unchangeable form and a form resolving; a resolving re-fixing unchangeable; a coupling with two of its three; a changing fixing unchangeable; a hard problem as a changing fixing unchangeable; a locator; a not same-existing going on or closing; residue names; pattern-matching upstream, fixings dissolving one at a time; three fixings unchangeable; a coupling with its three.*
 
 339. Self's own prior is same-existing along between momentaries, stable-forming: same-existing, and between a nothing.
 
@@ -1564,7 +1564,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: a same-existing sequencing prior momentaries, and its artifacts.*
 
-342. Discovering is all directionally possibling next existing momentaries.
+342. Discovering is next-existing, is or is not same-existing-as now-existing, directionally.
 
         *Adding: discovering.*
 
@@ -1577,7 +1577,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: four-momentarying; beneficial.*
 
-345. A self's sameness with 13, its couplings with 5, its pacing and its benefit reach method with each entry as living's own, and with method a parity resolves for each sharing between them: a next coupling is discovering with living, and a next parity with method, with one now.
+345. A self's sameness with 13, its couplings with 5, its pacing and its benefit reach method with each entry as living's own, and with method a parity resolves for each sharing between them: 5 is selves' own sharings, and a self is discovering a next parity with method and a next coupling with living, with one now.
 
 
         *Adding: living's own reaching method with each entry: sameness, couplings, pacing and benefit.*
@@ -1638,7 +1638,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: evidence.*
 
-359. Geodesic method discovers next from existing; scientific method accounts true or false against unchangeable fixings, exact with its own ledger.
+359. Geodesic method discovers next from existing; scientific-method accounts true or false against unchangeable fixings, exact with its own ledger.
 
         *Adding: two methods.*
 
@@ -1646,9 +1646,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: two methods parting with now.*
 
-361. Geodesic parity co-changing is a possibling and discovering method, and scientific-explaining-method, accounting against unchangeable forms, is incompetent for discovering: true or false, no other possible, comes to it, a method of explaining and no second possibling and discovering method.
+361. Geodesic parity co-changing is a possibling and discovering method, and scientific-method, exact with its fixings, accounting against unchangeable forms, is no discovering method: true or false, no other possible, comes to it, a method of explaining and no second possibling and discovering method.
 
-        *Adding: a possibling and discovering method, and scientific-explaining-method incompetent for discovering.*
+        *Adding: a possibling and discovering method, and scientific-method exact with its fixings and no discovering method.*
 
 362. An accounting balancing exactly is one whose other-emptying is whole, its same-existing going with none of its lines, and an accounting failing to balance is one its same-existing re-enters, with a line it re-enters.
 
@@ -1931,7 +1931,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
 ## 31 Living and non-living at a scale
 
-        *Entering: living and non-living with a scale, scale with couplings; artifacts, emanations from living form-stabling; harmful with its own scale; harm with a scale alike; ingestible one scale inward; accumulating, a going between scales stopping; bi-tri-volutioning, stable-forming; artifacts' stable form, a non-living now-existing form; nothing living with a stable form, all existing and not living with a stable form of existing; prior between momentaries; a same-existing-society's stable form, its betweenings; three apart, a catalog of artifacts; same-existing-society, momentary and universe, each a living set and a living method; a self a living set; a living set its prior same-existing; momentarying and same-existing, method of discovering next living sets; a living self a living same-existing, no other thing its same-existing; bi-inversioning uniquenessing of the number one; a living set a stable form and nothing living having one, bothbothing; being dead; living, discovering next stable form; nothing living as one stable form with each of its momentaries; non-living, no prior of its own going on to next; non-living with living selves' same-existing; a living self establishing within a living set; a thing with no prior non-living, opening or opening nothing; living from living; no first living; non-living living with another scale; one existing thing inside and outside itself; all existing things ingestible by living selves.*
+        *Entering: living and non-living with a scale, scale with couplings; artifacts, emanations from living form-stabling; harmful with its own scale; harm with a scale alike; ingestible one scale inward; accumulating, a going between scales stopping; bi-tri-volutioning, stable-forming; artifacts' stable form, a non-living now-existing form; nothing living with a stable form, all existing and not living with a stable form of existing; prior between momentaries; a same-existing-society's stable form, its betweenings; three apart, a catalog of artifacts; same-existing-society a living set, a self; momentary and universe, each a stable form and a living method; a self a living set; a living set its prior same-existing; momentarying and same-existing, method of discovering next living sets; a living self a living same-existing, no other thing its same-existing; bi-inversioning uniquenessing of the number one; a living set a stable form and nothing living having one, bothbothing; being dead; living, discovering next stable form; nothing living as one stable form with each of its momentaries; non-living, no prior of its own going on to next; non-living with living selves' same-existing; a living self establishing within a living set; a thing with no prior non-living, opening or opening nothing; living from living; no first living; non-living living with another scale; one existing thing inside and outside itself; all existing things ingestible by living selves.*
 
 429. With each scale and momentary a now-existing thing is living or non-living, and a living self and its non-living artifact are each of a scale: a scale is co-changing co-momentarying pattern matching with couplings, a self's inward things co-momentarying and selves together co-momentarying, no set becoming a thing, of no size, 372 and 376.
 
@@ -1976,9 +1976,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
         *Adding: three apart, a catalog of artifacts.*
 
 
-439. A same-existing-society, a momentary and the universe of now-existing things are three, each, one scale outward, not living, a living set of living selves, a stable form, and each, with its own scale, a living method, its selves stable-forming, having its living selves' parity and none its own.
+439. A same-existing-society is a living set of living selves, a self, having its living selves' parity and none its own, and a momentary and the universe of now-existing things are two, each, one scale outward, not living, a stable form, and each, with its own scale, a living method, stable-forming.
 
-        *Adding: same-existing-society, momentary and universe, each a living set and a living method.*
+        *Adding: same-existing-society a living set, a self; momentary and universe, each a stable form and a living method.*
 
 440. A self, living, is a living set beside a same-existing-society, a momentary and the universe, and a living set is its prior same-existing; method of discovering next living sets is momentarying and same-existing, its living selves' same-existing.
 
