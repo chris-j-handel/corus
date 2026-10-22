@@ -391,7 +391,7 @@ For the next gathering pass, these families offer useful places to receive more 
 **Source concepts continue through their illustrating.** These locations carry the operations, namings, and relations received here. Each further drawing can return to the source with the correspondence it makes visible.
 
 - **Exhibit ONE Natural Resolver:** latest session-supplied working file, `Exhibit_ONE_Natural_Resolver_v365 (1).md`. This is the source used for the expanded cycles and the distinction between sequencing and routing.
-- [Natural Intelligence Corus](https://github.com/chris-j-handel/corus/blob/main/Natural_Intelligence_Corus_v390.md): the offering, ways into the form, language, and the living self and society across scales.
+- [Natural Intelligence Corus](https://github.com/chris-j-handel/corus/blob/main/Natural_Intelligence_Corus_v391.md): the offering, ways into the form, language, and the living self and society across scales.
 - [Exhibit TWO Natural Networking](https://github.com/chris-j-handel/corus/blob/main/Exhibit_TWO_Natural_Networking_v333.md): along and across, retelling, society, and visible resolving.
 - [Exhibit THREE Natural Numbers](https://github.com/chris-j-handel/corus/blob/main/Exhibit_THREE_Natural_Numbers_v346c.md): co-recursioning, number pairs, diamonds, podalings, rings, and tunneling.
 - [Exhibit FOUR Natural Mathematics](https://github.com/chris-j-handel/corus/blob/main/Exhibit_FOUR_Natural_Mathematics_v333.md): stable-forming, orientation, inversion, and mathematical relations.
