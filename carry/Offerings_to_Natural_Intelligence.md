@@ -930,6 +930,23 @@ Each sets a self and an other as two number lines, odd and even, overlapping one
 
 Run for 2.4's joint forms: two selves coupled across both ways go ++, −−, −−, ++ from ++ and +−, −+ from +−, and never the four joint forms ++, +−, −−, −+ as one cycle. Priors at `archive/session_v391/prior_to_parts_one_three_code/`. — v391
 
+**Entered · step 7, part FOUR the one home of Exhibit ONE's explaining, at v391.** Part FOUR holds the ten explaining paragraphs that left Exhibit ONE, each at its subject's section.
+
+Met with the code:
+- **Parity a self's own.** 4.3: *a changing is a self's own, with each sharing*, a self's 12, beheld now. 4.10: *parity is each self's own, beheld now*, a bi-coupling keeping none of its own.
+- **Across and along.** 4.7: *across and along carry alike and differ by direction only: morality across, competency along*.
+- **4.9.** Titled *Four four-cyclings and four binaries*, its lead *two four-cyclings of four*. Its four binaries are of a thing within the universe.
+- **4.10's bi-coupling.** Two selves, each sharing its parities to the other, that parity the other's next prior, same-existing or one inversion.
+- **Re-sayings.** 4.10's re-sayings of the square and triangles and of the bi-foldings name Exhibit ONE's forms.
+
+**Left, not held by the code**, laid whole:
+- 4.3: *A changing is a coupling's own. It is 12's, for each sharing, owned by neither side*: with the code 12 is within each self's own resolving.
+- 4.10: *parity is a bi-coupling's own with each momentary, neither side's*: with the code each self keeps its own parity with each sharing, and no value is kept outside a self.
+- 4.10, whole: **A bi-coupling is uneven**: a self's momentary 1-2 and an other's 2-3 couple with 2, even, across, neither occupying it, a self's parity sharing, possibling, and an other's parity, a self observing it, existing for that self as its next prior, with 1 and 3, odd, along; each momentary of exchanging couples alike, with 4, 6 and 8. One parity leaves another self's 6 or 10 and a self is observing it with its 2 or 14, and 2-now-possibling and 17-next-existing name it as a self is observing it: other selves' parities, a self observing them as its parities. — built on a self's momentary 1-2 and an other's 2-3 overlapping, which the code does not hold.
+- 4.7: *Morality is a changing between, one inversion across … and competency a not-changing parity between, none along*: run, a self sharing through 6, 10 or 9 alone gives its receiving self identical parities, met alike with its 12.
+
+Prior at `archive/session_v391/prior_to_part_four/`. Open for step 7's next pass: part FOUR's other re-sayings of Exhibit ONE's tables, each its numbers or its pointing by heading. — v391
+
 ### Bolds, the third telling
 
 **Concern · the opening carries no bold, and the bolds are claims.** 1.1's 47 lines carry no bold, so a reader of bolds misses origin, observing, self, bi-coupling, the third living self, parity and 0, and opens with 1.2's *Now is one*. From 1.2 on, 291 bolds carry about a fifth of the prose's words, most of them whole claims, a 50-word bold in 5.1 among them; Natural Explaining 2.4 makes a bold *a carrying there*, *a coining with a paragraph coining*, and concentrations of bold learning centres. Read alone, 1.2 to 6.6's bolds give a telling that does not co-chain: *Now is one* to *One is now* to *three sequential universes*. **To resolve:** bold each opening line that coins its concept, ***The universe is the set of all now-existing things.***, ***Observing is distinguishing same-as, is or is not.***, and in each later section bold its coinings, so the bold telling alone walks the set. — v391, counted
