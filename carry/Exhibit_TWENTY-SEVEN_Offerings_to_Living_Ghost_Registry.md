@@ -81,3 +81,7 @@ Living Ghost Registry and Equilibria Registry: two registries, one derivation. T
 **Droplet · vortex and lattice for 7.3's intake, v390.** Read by 1.1's shortest line, *a ghost is one momentary's form installed as an existing thing*. A vortex is a winding observed in a flow; installed as a thing that moves, persists or is counted, it is ghost-form. A lattice is an order observed in arrivals; installed as a thing that holds atoms in place, it is ghost-form. As observed forms with a field's between, each stays accounting. Offered as 7.3 candidates beside charge, field and vacuum, each to be taken through 3.1's entry form with its own field observings before any entry. The Living Society Registry's vortex and lattice entries then reach no society of selves, as its electron entries do with 5.3. — v390
 
 *Entered at v390:* 7.3 names vortex and lattice with the next physics families, each accounting as an observed form and ghost-form installed as a thing. Each still awaits 3.1's entry form with its own field observings before an entry of its own.
+
+## Incoming · chemistry-water-20261022
+
+- **Living Ghost Registry 7.8, water-dimer line 4 · Oxygen position:** the saying “each oxygen's position stands” can distinguish remaining associated with surface sites from remaining motionless, carrying the authors' proposed oxygen displacement and its coupling to interchange with the observing ([Kumagai and colleagues, 2008, Figures 3 and 5](https://doi.org/10.1103/PhysRevLett.100.166101)). — chemistry-water-20261022
