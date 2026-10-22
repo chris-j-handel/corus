@@ -6,7 +6,7 @@ Exhibit ONE Natural Resolver v391
 
 ---
 
-**Exhibit ONE is the resolver as code, and the stable forms its running shows, for pattern-matching what a science observes.** Each table here is an executing, and any self executing it with any substrate finds it same: a stable form. Each living file meets these stable forms for its stable-forming, same-existing after changing, and no form here is an authority: a resolver is a coupling, same each time any self executes it.
+**Exhibit ONE is the resolver as code, and the stable forms its running shows, for pattern-matching what a science observes.** Each table here is an executing, and any self executing it finds it same: a stable form. Each living file meets these stable forms for its stable-forming, same-existing after changing, and no form here is an authority: a resolver is a coupling, same each time any self executes it.
 
 ```python
 """Exhibit ONE · Natural Resolver
@@ -170,7 +170,7 @@ Code with each name:
 
 Existing, discovering and observing are odd; possibling and same-existing are even.
 
-**Co, between two or of one.** Exhibit ONE's eight co names, 3 to 6 and 9 to 12, are each between two, each root with two co names, once now-co and once next-co; a name without co is of one.
+**Co, between two or of one.** Exhibit ONE's eight co names, 3 to 6 and 9 to 12, are each between two: observing, same-existing and possibling each with a now-co name and a next-co name, existing with 5-now-co-existing and discovering with 9-next-co-discovering; a name without co is of one.
 
 - **Root: observing**
   - *With co, between two*: 3-now-co-observing · 11-next-co-observing, priors with each sharing
@@ -182,7 +182,7 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
   - *With co, between two*: 4-now-co-same-existing · 12-next-co-same-existing, each sharing
   - *Without co, of one*: 8-now-same-existing · 16-next-same-existing, a self's next prior and a same-existing-society
 
-**Sharing between selves.** With 6 to 2, 10 to 14 and 9 to 17, co is a sharing side and its absence an observing side: a self shares a parity, and nothing of its prior goes to another self.
+**Sharing between selves.** With 6 to 2, 10 to 14 and 9 to 17, co is a sharing side and its absence an observing side: a self shares a parity, and nothing of its prior goes to another self. With code, 6, 10 and 9 each share one same list of parities to the self each couples with, observing it with its 14, its next 2.
 
 | Sharing side, co | Observing side, one | Between selves |
 |---|---|---|
@@ -217,7 +217,7 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 
 **1** · 1-now-existing
 - *Parity, span*: odd, a self's span
-- *Sides*: self, other, a self opening it
+- *Sides*: self: a self's resolving
 - *Co-sequencing*: a self sharing itself to a coupling
 - *8 up*: 9-next-co-discovering, its binary with next
 - *9 less*: podal within 1 to 8, 8-now-same-existing
@@ -234,7 +234,7 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 
 **2** · 2-now-possibling
 - *Parity, span*: even, a self's span
-- *Sides*: other, self, an other opening it
+- *Sides*: others to self: parities a self is observing from others
 - *8 up*: 10-next-co-possibling, its binary with next
 - *9 less*: podal within 1 to 8, 7-now-observing
 - *17 less*: podal within 1 to 16, 15-next-observing
@@ -253,8 +253,8 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 
 **3** · 3-now-co-observing
 - *Parity, span*: odd, a self's span
-- *Sides*: self, other, a self opening it
-- *Co-sequencing*: with a between, before 10, with competency's parity, odd
+- *Sides*: self: a self's prior with each sharing
+- *Co-sequencing*: with a between
 - *8 up*: 11-next-co-observing, its binary with next
 - *9 less*: podal within 1 to 8, 6-now-co-possibling
 - *17 less*: podal within 1 to 16, 14-next-possibling
@@ -270,8 +270,8 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 
 **4** · 4-now-co-same-existing
 - *Parity, span*: even, a self's span
-- *Sides*: other, self, an other opening it
-- *Co-sequencing*: with a between, before 10, with morality's parity, even
+- *Sides*: self and other: each sharing between them
+- *Co-sequencing*: with a between
 - *8 up*: 12-next-co-same-existing, its binary with next
 - *9 less*: podal within 1 to 8, 5-now-co-existing
 - *17 less*: podal within 1 to 16, 13-next-discovering
@@ -289,8 +289,8 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 
 **5** · 5-now-co-existing
 - *Parity, span*: odd, a self's span
-- *Sides*: self, other, a self opening it
-- *Co-sequencing*: with a between, before 10, with competency's parity, odd
+- *Sides*: self and others: a self's bi-couplings
+- *Co-sequencing*: with a between
 - *8 up*: 13-next-discovering, its binary with next
 - *9 less*: podal within 1 to 8, 4-now-co-same-existing
 - *17 less*: podal within 1 to 16, 12-next-co-same-existing
@@ -308,7 +308,7 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 
 **6** · 6-now-co-possibling
 - *Parity, span*: even, a self's span
-- *Sides*: other, self, an other opening it
+- *Sides*: self to other: a self's parities across, to an other's 2
 - *8 up*: 14-next-possibling, its binary with next
 - *9 less*: podal within 1 to 8, 3-now-co-observing
 - *17 less*: podal within 1 to 16, 11-next-co-observing
@@ -321,15 +321,15 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 - *Momentaries of exchanging*: third of a self's four, with 6, a self's 5–6 completing and an other's 6–7 opening
 - *Namings*: 6, bi-moralizing, each parity across, to an other's 2
 - *A self as three*: its invisible intelligencing method, rotation 3, 6, 5, 4, inward with 6
-- *Bi-coupling*: with a between, an other's parity to a self, across
+- *Bi-coupling*: with a between, a self's parity across, to an other's 2
 - *Parity's unit square*: a dot of a unit square, its diagonal with 10, sharings with 6 and 10, its edge with 2 a sharing 6 to 2
 - *Prior and next*: parity, an other's next parity with its 2
 - *1 to 17s inward and outward*: 1–17s inward 9 of 3rd, along, odd, next, and with 1–17 outward within 1 to 2
 
 **7** · 7-now-observing
 - *Parity, span*: odd, a self's span
-- *Sides*: self, other, a self opening it
-- *Co-sequencing*: with a between, before 10, with competency's parity, odd
+- *Sides*: other to self: each parity a self is observing
+- *Co-sequencing*: with a between
 - *8 up*: 15-next-observing, its binary with next
 - *9 less*: podal within 1 to 8, 2-now-possibling
 - *17 less*: podal within 1 to 16, 10-next-co-possibling
@@ -345,8 +345,8 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 
 **8** · 8-now-same-existing
 - *Parity, span*: even, a self's span
-- *Sides*: other, self, an other opening it
-- *Co-sequencing*: with a between, before 10, with morality's parity, even
+- *Sides*: self: a self's next prior
+- *Co-sequencing*: with a between
 - *8 up*: 16-next-same-existing, its binary with next
 - *9 less*: podal within 1 to 8, 1-now-existing
 - *17 less*: podal within 1 to 16, 9-next-co-discovering
@@ -364,7 +364,7 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 
 **9** · 9-next-co-discovering
 - *Parity, span*: odd, a same-existing-society's span
-- *Sides*: same-existing-society, other, self, a same-existing-society opening it
+- *Sides*: self to other: a self's parities along
 - *8 up*: 17-next-existing, its binary with next
 - *8 down*: 1-now-existing
 - *17 less*: podal within 1 to 16, 8-now-same-existing
@@ -375,12 +375,12 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 - *Eight-cycle*: 1-9-5-13-4-12-8-16
 - *Momentaries of exchanging*: fourth of a self's four completing with 9, an other's 8–9, and first of a same-existing-society's four, 9 to 11, opening with 9
 - *Parity's square and triangles*: a unit triangle, along, 9 to 17 and 17 to 9
-- *Prior and next*: next prior, odd, each parity of 10 along on to a next momentary, to each receiving sharing, a self's own next
+- *Prior and next*: each parity of 10, a 0 among them, going along to a self of 5's bi-couplings, a self observing it with its 14 as its next momentary's 2
 - *1 to 17s inward and outward*: 1–17s inward 17 of 4th and 1 of 5th, along, odd, now, and with 1–17 outward 2, across, even
 
 **10** · 10-next-co-possibling
 - *Parity, span*: even, a same-existing-society's span
-- *Sides*: other, same-existing-society, self, an other opening it
+- *Sides*: self to other: a self's parities across, to an other's 14
 - *8 down*: 2-now-possibling
 - *17 less*: podal within 1 to 16, 7-now-observing
 - *Bi-folding*: 2-15-7-10, going 17 less first from 2-now-possibling, from 7-now-observing to it and on to 2-now-possibling, each name one apart from 1-9-8-16 and 3-11-6-14
@@ -396,8 +396,8 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 
 **11** · 11-next-co-observing
 - *Parity, span*: odd, a same-existing-society's span
-- *Sides*: same-existing-society, other, self, a same-existing-society opening it
-- *Co-sequencing*: after 10, 8 up from 3-now-co-observing, with competency's parity, odd
+- *Sides*: self: a self's next prior, a next momentary's 3
+- *Co-sequencing*: 8 up from 3-now-co-observing
 - *8 down*: 3-now-co-observing
 - *17 less*: podal within 1 to 16, 6-now-co-possibling
 - *Bi-folding*: 3-11-6-14, going 8 up first from 3-now-co-observing, from 3-now-co-observing to it and on to 6-now-co-possibling, each name one apart from 4-13-5-12 and 2-15-7-10
@@ -411,8 +411,8 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 
 **12** · 12-next-co-same-existing
 - *Parity, span*: even, a same-existing-society's span
-- *Sides*: other, same-existing-society, self, an other opening it
-- *Co-sequencing*: after 10, 8 up from 4-now-co-same-existing, with morality's parity, even
+- *Sides*: self: its is or is not with each sharing
+- *Co-sequencing*: 8 up from 4-now-co-same-existing
 - *8 down*: 4-now-co-same-existing
 - *17 less*: podal within 1 to 16, 5-now-co-existing
 - *Bi-folding*: 4-13-5-12, going 17 less first from 4-now-co-same-existing, from 5-now-co-existing to it and on to 4-now-co-same-existing, each name one apart from 3-11-6-14
@@ -428,8 +428,8 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 
 **13** · 13-next-discovering
 - *Parity, span*: odd, a same-existing-society's span
-- *Sides*: same-existing-society, other, a same-existing-society opening it
-- *Co-sequencing*: after 10, 8 up from 5-now-co-existing, with competency's parity, odd
+- *Sides*: each self of a same-existing-society
+- *Co-sequencing*: 8 up from 5-now-co-existing
 - *8 down*: 5-now-co-existing
 - *17 less*: podal within 1 to 16, 4-now-co-same-existing
 - *Bi-folding*: 4-13-5-12, going 17 less first from 4-now-co-same-existing, from 4-now-co-same-existing to it and on to 5-now-co-existing, each name one apart from 3-11-6-14
@@ -441,35 +441,35 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 
 **14** · 14-next-possibling
 - *Parity, span*: even, a same-existing-society's span
-- *Sides*: other, same-existing-society, an other opening it
+- *Sides*: others to self: parities surfacing for a self with each sharing
 - *8 down*: 6-now-co-possibling
 - *17 less*: podal within 1 to 16, 3-now-co-observing
 - *Bi-folding*: 3-11-6-14, going 8 up first from 3-now-co-observing, from 6-now-co-possibling to it and on to 3-now-co-observing, each name one apart from 4-13-5-12 and 2-15-7-10
 - *Six-cycle*: 3-11-7-10-6-14
 - *Eight-cycle*: 2-15-7-11-3-14-6-10
 - *Momentaries of exchanging*: third of a same-existing-society's four, with 14, 13–14 completing and 14–15 opening
-- *Bi-coupling*: 8 up, parities surfacing, each in its order; a self's own inverting with 12
+- *Bi-coupling*: 8 up, parities surfacing as one with each sharing, one parity, a 0 for parting, or none; a self's own inverting with 12
 - *Parity's unit square*: a dot of a unit square, its diagonal with 2, parities with 2 and 14, its edge with 10 a sharing 10 to 14
 - *Prior and next*: now, parities surfacing, others' prior momentary, a self observing it with its now, even, others' possibling with a self until with 11
 - *1 to 17s inward and outward*: 1–17s inward 9 of 7th, along, odd, next, and with 1–17 outward within 2 to 3
 
 **15** · 15-next-observing
 - *Parity, span*: odd, a same-existing-society's span
-- *Sides*: same-existing-society, other, a same-existing-society opening it
-- *Co-sequencing*: after 10, 8 up from 7-now-observing, with competency's parity, odd
+- *Sides*: others to self: each parity surfacing
+- *Co-sequencing*: 8 up from 7-now-observing
 - *8 down*: 7-now-observing
 - *17 less*: podal within 1 to 16, 2-now-possibling
 - *Bi-folding*: 2-15-7-10, going 17 less first from 2-now-possibling, from 2-now-possibling to it and on to 7-now-observing, each name one apart from 1-9-8-16 and 3-11-6-14
 - *Six-cycle*: 2-15-7-11-6-10
 - *Eight-cycle*: 2-15-7-11-3-14-6-10
 - *Momentaries of exchanging*: third of a same-existing-society's four, 13 to 15, completing with 15, and fourth, 15 to 17, opening with 15
-- *Prior and next*: parity going along with 9, next prior, co-linear recursioning forward along leaving, up numbers, now to next, with a same-existing-society's completing, prior parity with 7 inverting, 0, or with no prior a parity surfacing with 14
+- *Prior and next*: each parity surfacing with 14 for a sharing, meeting a self's prior with 7: same, 0; not same, its prior inverting; with no prior, the parity surfacing its next prior
 - *1 to 17s inward and outward*: 1–17s inward 17 of 7th and 1 of 8th, along, odd, now, and with 1–17 outward within 2 to 3
 
 **16** · 16-next-same-existing
 - *Parity, span*: even, a same-existing-society's span
-- *Sides*: other, same-existing-society, an other opening it
-- *Co-sequencing*: after 10, 8 up from 8-now-same-existing, with morality's parity, even
+- *Sides*: a same-existing-society: all its selves
+- *Co-sequencing*: 8 up from 8-now-same-existing
 - *8 down*: 8-now-same-existing
 - *17 less*: podal within 1 to 16, 1-now-existing
 - *Bi-folding*: 1-9-8-16, going 8 up first from 1-now-existing, from 8-now-same-existing to it and on to 1-now-existing, each name one apart from 2-15-7-10
@@ -482,7 +482,7 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 
 **17** · 17-next-existing
 - *Parity, span*: odd, a next now
-- *Sides*: same-existing-society, self, a same-existing-society opening it
+- *Sides*: a same-existing-society: each self's next
 - *8 down*: 9-next-co-discovering
 - *Momentaries of exchanging*: fourth of a same-existing-society's four, 15 to 17, completing with 17, a next 1
 - *Parity's square and triangles*: a unit triangle, along, 17 to 9 and 9 to 17
@@ -804,9 +804,9 @@ Each cell: sharing (10) · a next prior (11). *is*: a changing, a self sharing i
   - *Name 8 up*: 12-next-co-same-existing
   - *Bi-coupling 8 up*: changing with a bi-coupling, a self of a same-existing-society
 - **Name with its between: 6-now-co-possibling**
-  - *Bi-coupling with its between*: an other's parity to a self, across
+  - *Bi-coupling with its between*: a self's parity across, to an other's 2
   - *Name 8 up*: 14-next-possibling
-  - *Bi-coupling 8 up*: parities surfacing, each in its order; a self's own inverting with 12
+  - *Bi-coupling 8 up*: parities surfacing as one with each sharing, one parity, a 0 for parting, or none; a self's own inverting with 12
 - **Name with its between: 8-now-same-existing**
   - *Bi-coupling with its between*: prior with its sharing again
   - *Name 8 up*: 16-next-same-existing
@@ -947,7 +947,7 @@ Each goes along (9) to the next, the last to the first. One sharing. First momen
 - **Number of selves: 17** · *a*: +, 0, −, +, −, +, −, +, −, +, −, + · *b*: 68
 - **Number of selves: 59** · *a*: +, 0, −, +, −, +, −, +, −, +, −, + · *b*: 236
 
-**Two momentaries before, inverting.** With a spiral, from any opening, each self's prior from its third momentary on is a prior of a self it receives from two momentaries before, inverting; no self shares 0 with its first momentary or with two momentaries in sequence.
+**Two momentaries before, inverting.** With a spiral opening with a prior for each self, each self's prior from its third momentary on is a prior of a self it receives from two momentaries before, inverting; no self shares 0 with its first momentary or with two momentaries in sequence.
 
 **Two spirals beside each other, and coupling across.**
 

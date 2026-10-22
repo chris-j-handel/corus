@@ -275,3 +275,21 @@ The seventeen per-name entries repeat rows of tables that stay, but for five fie
 - Both copies are one text; the set check passes.
 
 Open for step 6's next passes: the per-name fields' *Sides*, read from the overlapping momentaries; the code-partings the plan lists; and each other file's citation of Exhibit ONE named by its heading. — v391
+
+**Entered at v391, step 6, the code-partings.** Each was met with the code, run or read:
+- one route, 6, 10 and 9 one list to a coupled self's 14, its next 2, said at *Sharing between selves*, the square and triangles kept as patterns;
+- 6 a self's own parity across;
+- each name's *Sides*;
+- 14 one surfacing with each sharing;
+- 9's and 15's *Prior and next*;
+- two momentaries before, from an opening with a prior;
+- the *Co-sequencing* fields with no *before 10*, *after 10* or parity label;
+- co names by root;
+- *any substrate* released.
+
+At Natural Intelligence's part FOUR, where their explaining now lives:
+- a 0 is shared where prior and parity meet same, and, with no prior, where parities part, run;
+- turn-taking's *each self's 0 is an other's changing one momentary prior* released, and its bound said for a self with a prior;
+- a corus turn wrapping said with the torus's two going forms.
+
+Open: the code's names one concept each, a renaming by meaning checked for identical resolving, its own motion; and each other file's citation of Exhibit ONE named by its heading. — v391
