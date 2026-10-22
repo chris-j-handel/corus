@@ -55,7 +55,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
 **Co-chaining is one sequence of steps from one opening sentence, each step one logical extension from all steps before it, all or none at all.** Each group opens with concepts entering with it; each step is numbered, and line beneath it is one concept it adds. A step with an unsure line is open, its all or none not yet reached, line naming step or observing it waits on.
 
-**Each part and section across living files is an artifact of these steps and of one opening sentence, its title with one group.** A section no group holds shows a step co-chaining has yet to discover, and a group few sections reach shows a part of co-chaining files have yet to hold.
+**Each part and section across living files is an artifact of these steps and of one opening sentence, its title with one group.** A section no group holds is a step co-chaining has yet to discover, and a group few sections reach shows a part of co-chaining files have yet to hold.
 
 ## 1 Universe, the set of all now-existing things
 
@@ -1190,7 +1190,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: resolver.*
 
-258. Exhibit ONE is the resolver as code, and the stable forms its running shows, for pattern-matching what a science observes; it is the one method as code, an object that is method: its code is seventeen names and three functions, and each other form of Exhibit ONE is from running it.
+258. Exhibit ONE is the resolver as code, and the stable forms of its running, for pattern-matching what a science observes; it is the one method as code, an object that is method: its code is seventeen names and three functions, and each other form of Exhibit ONE is from running it.
 
 
         *Adding: Exhibit ONE, the resolver as code and its stable forms, for pattern-matching what a science observes.*
@@ -1440,7 +1440,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: time as each self's own momentarying.*
 
-317. Selves each with its own rate go on by their own rates, irregular together, and a regular rate with observings shows a clock over them or a coupling among them: an irregularity with observings is selves' own rates.
+317. Selves each with its own rate go on by their own rates, irregular together, and a regular rate with observings is a clock over them or a coupling among them: an irregularity with observings is selves' own rates.
 
         *Adding: irregularity as selves' own rates.*
 
@@ -1448,7 +1448,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: entries same for each order.*
 
-319. An unchangeable form a self brings to resolver, failing its own requirements, shows itself not possibly existing as numbers, by those requirements: a showing by resolver's executing, of a form a self is observing, and a form a self is discovering next is of its own showing.
+319. An unchangeable form a self brings to resolver, failing its own requirements, is itself not possibly existing as numbers, by those requirements: a showing by resolver's executing, of a form a self is observing, and a form a self is discovering next is of its own showing.
 
         *Adding: a showing by resolver, of a form a self is observing.*
 
@@ -1825,7 +1825,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: many accounts with one sharing.*
 
-405. Two accountings with two fixings unchangeable part, each exact with its own ledger, and their parting shows two fixings unchangeable, an existing thing apart from both.
+405. Two accountings with two fixings unchangeable part, each exact with its own ledger, and their parting is two fixings unchangeable, an existing thing apart from both.
 
         *Adding: two accountings parting with their fixings unchangeable.*
 
@@ -2403,7 +2403,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: bi-co-momentarying, that arising, orthogonal to a surface.*
 
-538. With resolver bi-co-momentarying is each coupling's, its lines each self's own: it shows with each coupling, a changing with 12 each self's own with each sharing, and a 0 arising only with a parity a self is observing, its own going along with a spiral of one among them.
+538. With resolver bi-co-momentarying is each coupling's, its lines each self's own: it is with each coupling, a changing with 12 each self's own with each sharing, and a 0 arising only with a parity a self is observing, its own going along with a spiral of one among them.
 
 
         *Adding: bi-co-momentarying, its term with resolver an empty set.*
@@ -2770,7 +2770,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: four boundings of a naming.*
 
-627. A naming unfolds six one-way steps forward, step 136, each reaching a term past prior step's, and a concept unfolding, its steps an empty set, shows itself unfolding, its steps an empty set, itself an unfolding.
+627. A naming unfolds six one-way steps forward, step 136, each reaching a term past prior step's, and a concept unfolding, its steps an empty set, is itself unfolding, its steps an empty set, itself an unfolding.
 
         *Adding: a naming's unfolding.*
 
@@ -2891,7 +2891,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: a concern.*
 
-657. A concern resolves by one and then the other, each sentence with its own momentary, until one sentence shows a thing it has is a thing outside possibly existing, each existing thing being a thing of the universe, step 100, that sentence a method outside possibly existing and its other the method's own.
+657. A concern resolves by one and then the other, each sentence with its own momentary, until a thing one sentence has is a thing outside possibly existing, each existing thing being a thing of the universe, step 100, that sentence a method outside possibly existing and its other the method's own.
 
         *Adding: a concern resolving.*
 
@@ -3011,7 +3011,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: cohering as bi-moral-co-competencing.*
 
-687. An understanding cohering is a step reaching back to opening sentence; at cohering's other side, it is an unchangeable form, or it shows co-chaining's next step. Each observing of natural competency is resolvable as natural intelligence, geodesic co-sequential changing method of natural torusing, discovering next-possibling-same-existing, or fractal entirely breaks, its whole value breaking with it, method originating as all existing and all living: two only, a next step showing being within method, discovering next-possibling-same-existing.
+687. An understanding cohering is a step reaching back to opening sentence; at cohering's other side, it is an unchangeable form, or it is co-chaining's next step. Each observing of natural competency is resolvable as natural intelligence, geodesic co-sequential changing method of natural torusing, discovering next-possibling-same-existing, or fractal entirely breaks, its whole value breaking with it, method originating as all existing and all living: two only, a next step showing being within method, discovering next-possibling-same-existing.
 
         *Adding: cohering, or a next step showing; natural competency resolvable, or a fractal breaking whole; fractal breaking with living not-changing with each of its scales.*
 

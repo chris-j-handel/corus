@@ -183,3 +183,8 @@ These are descriptions of possible expressions. The word “painting” establis
 **Droplet · from Natural Intelligence's offerings, aimed here.**  — v391
 
 **Droplet · *tellings* within the method's own file.** Natural Explaining 1.2 is headed *One subject at four tellings, and no top*, and 4.7 *Two tellings at one thing*. With the suggestion that *the word tellings is not natural explaining*, each is met at Natural Explaining's offerings. — v391
+
+## Gathered at v391 · v391
+
+**Droplet · story and narrator, dissolving at v391.** *A table shows*, *the code steps*, *a line says*, *as X executes* tell a story with a narrator: a doer standing beside a form and presenting it. Natural explaining says the form itself: *as in Exhibit ONE's table*, *as at the opening's line 20*, *a table of selves is that stepping's form*. Natural Intelligence, Exhibit ONE and the Co-Chaining Logic Registry are met at v391; the other living files' *shows*, *says*, *tells* and *prints* stand for their own motions. — v391
+
