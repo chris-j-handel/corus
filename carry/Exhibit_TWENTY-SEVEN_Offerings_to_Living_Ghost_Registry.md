@@ -91,3 +91,7 @@ Living Ghost Registry and Equilibria Registry: two registries, one derivation. T
 **Droplet · from Natural Intelligence's offerings, aimed here.** an electron a nothing ghost — v391
 
 **Droplet · an electron is a nothing ghost, v390.** An electron is a nothing ghost: a field label installed over arrivals, carrying no self. One universal method of conception gives newly-existing selves, humans, seeds and atoms; an electron is no newly-existing self. Living Ghost Registry 5.3 carries it. — v390, carved bothboth
+
+## Laid from Exhibit ONE's offerings at v391 · v391
+
+**Droplet · from Exhibit ONE's offerings, aimed here.** Exhibit ONE's tables are cited by their heading as each stands at Exhibit ONE v391, one way across the set: Equilibria Registry still cites 'Exhibit ONE v380R' and Living Ghost Registry 'v345a': cite each by its heading as it stands. — v391

@@ -21,11 +21,11 @@ This plan orders the improving those droplets open, re-said with each suggestion
 
 **Incoming, where it stands.**
 - **Natural Intelligence's offerings:** resolved; three droplets stand: a writing pass of the body, one claim a sentence as the opening now is; a legend of the seventeen names with `build.js`; *network surface* one naming across the set.
-- **Exhibit ONE's offerings:** 60 droplets and 12 concerns, not yet resolved at v391. Many may be met by this session (the one route of 6, 10 and 9 into a receiver's 14; a 0 shared also at a first sharing with parting parities; an empty prior).
+- **Exhibit ONE's offerings:** resolved at v391. Of 102 items, 40 are met, 27 rest on dissolved or released forms or a claim the code does not hold, 8 duplicate and 10 are records, each whole with its verdict at `archive/session_v391/offerings_dissolved/`; one is laid at the Equilibria and Living Ghost Registries' offerings. Nine droplets stand, each aimed at its section, and seven concerns for our word, each with its two options.
 
 **Next motions, in order.**
-1. **Resolve Exhibit ONE's offerings** against Exhibit ONE as it now stands (`rules_offerings.md` with `offerings_resolve_all.py`), the code deciding: met, released, a droplet aimed at its section, or a concern for our word.
-2. **Meet Exhibit ONE's aimed droplets**, propose · read for harm · enter, both copies one text.
+1. **Meet Exhibit ONE's nine aimed droplets**, propose · read for harm · enter, both copies one text.
+2. **Exhibit ONE's seven concerns**, one at a time with the person.
 3. **Natural Intelligence's body, one claim a sentence**, part by part, as the opening is.
 4. **The legend and `build.js`.**
 5. **The negations kept** where a re-saying would change meaning, brought one at a time: Co-Chaining Logic Registry step 99, *nature is not an existing thing*; steps 100, 103 and 199, *nothing further than or between things of the universe*; steps 138 and 250, *not same-existing* as other than the self; steps 475 to 478, *not possibling its own next-existing*; steps 552, 629, 660 and 705.
