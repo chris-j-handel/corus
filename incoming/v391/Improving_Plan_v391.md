@@ -26,11 +26,11 @@ This plan orders the improving those droplets open, re-said with each suggestion
 
 **Next motions, in order.**
 1. **Exhibit ONE's seven concerns**, one at a time with the person.
-2. **Natural Intelligence's body, one claim a sentence**, part by part, as the opening is.
+2. **Natural Intelligence's body, one claim a sentence**: entered at v391, 145 paragraphs; the sentences left for our word stand at its offerings.
 3. **The legend and `build.js`.**
 4. **The negations kept** where a re-saying would change meaning, brought one at a time: Co-Chaining Logic Registry step 99, *nature is not an existing thing*; steps 100, 103 and 199, *nothing further than or between things of the universe*; steps 138 and 250, *not same-existing* as other than the self; steps 475 to 478, *not possibling its own next-existing*; steps 552, 629, 660 and 705.
 
-**For our word, standing.** Opening line 5, *A **universal set** is a set of same-existing things*, the shorter definition, or as it is. *Decided at v391:* 3-is-now-co-observing and 7-is-now-observing with 13 and 15, the four names a binary stands on; *co* two both facing forward along, a self and its other, one sense.
+**For our word, standing.** The four binaries laid on odd and even names, an *is* side and an *is not* side split onto separate names, entered with session v390 and not from the code: dissolving Exhibit ONE's *Four binaries with code's lines*, re-saying 4.9 by the code, and reading *Seventeen names*' binary column as numbers in binary; eight one-claim paragraphs wait with it. Opening line 5, *A **universal set** is a set of same-existing things*, the shorter definition, or as it is. *Decided at v391:* 3-is-now-co-observing and 7-is-now-observing with 13 and 15, the four names a binary stands on; *co* two both facing forward along, a self and its other, one sense.
 
 **For our word, decided at v391.** *Natural Network* is one thing's proper name: *a Natural Network surface*, entered across the set. *Substrate* (with *a carry*, *riding its carry*), *carrying* (the expedition's stage name) and *may-never* dissolve: Natural Intelligence and the Co-Chaining Logic Registry carry none, and each other file's sayings are laid outgoing at its offerings. Exhibit ONE's seven concerns stand, at its offerings.
 
@@ -68,7 +68,7 @@ This plan orders the improving those droplets open, re-said with each suggestion
 7. **Part FIVE**: 5.1's scale sayings, 5.4's ten unchangeables and its reader from a science.
 8. **Contents**: Exhibit ONE's line, 2.5's entry, part SIX's title.
 
-**For our word, standing.** Exhibit ONE's subtitle and docstring, and the Co-Chaining Logic Registry's subtitle, carry dissolved words and an object other than *next-possibling-same-existing*; subtitles were left for later. Natural Societies' ladder at fourteen primes stands as a concern at its offerings.
+**For our word, standing.** The four binaries laid on odd and even names, an *is* side and an *is not* side split onto separate names, entered with session v390 and not from the code: dissolving Exhibit ONE's *Four binaries with code's lines*, re-saying 4.9 by the code, and reading *Seventeen names*' binary column as numbers in binary; eight one-claim paragraphs wait with it. Exhibit ONE's subtitle and docstring, and the Co-Chaining Logic Registry's subtitle, carry dissolved words and an object other than *next-possibling-same-existing*; subtitles were left for later. Natural Societies' ladder at fourteen primes stands as a concern at its offerings.
 
 **The set, file by file, at v391.** Each living file is met with Natural Intelligence and the code, all or none, each saying by its meaning: about 15,400 sayings of the dissolved words re-said across 29 files, each a motion with its prior archived and its registry cell. What stands, each with its reason:
 - **Fields' own words** where a file reports a field, quotations, finders' names, and dated records.
