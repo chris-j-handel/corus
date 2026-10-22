@@ -8,89 +8,21 @@ Natural Intelligence Offerings · resolved at v391
 
 ## Aimed at part ONE · v391
 
-**Droplet · aimed at 1.1.** 1.1 still "observing it is with a momentary: one observing, one changing", where a parity can be same-existing. *Laid whole at the archive, line 868.* — v391
+**Concern · for our word, aimed at 1.1, 1.4, 3.3.** "tri-bi-co-momentarying" still stands 3 times; one naming for the universe's momentarying not chosen. Options: (a) keep *tri-bi-co-momentarying* (Natural Naming 5.52 holds it) as the universe's momentarying at 1.1, 1.4 and 3.3; (b) say *universal momentarying*, 1.1's own heading word, at all three and release tri-bi-co-momentarying there. — v391
 
-**Droplet · aimed at 1.1, 1.4.** Release *second now* from 1.1 and 1.4, each other method named a not possibly existing thing at its own word. *Laid whole at the archive, line 207.* — v391
+**Concern · for our word, aimed at 1.1, 5.1.** 1.1 "uniquenessing of number one is uniquenessing of now" against 5.1 "a living self ... a bi-inversioning uniquenessing of number one"; one is now or a self, not chosen. Options: (a) one is now: 1.1 stands and 5.1's "a bi-inversioning uniquenessing of number one" is re-said without number one; (b) one is a self: 5.1 stands and 1.1's bold re-says now as each self's one opening, shared with each coupling. — v391
 
-**Droplet · aimed at 1.1, 1.4, 3.3.** "tri-bi-co-momentarying" still stands 3 times; one naming for the universe's momentarying not chosen. *Laid whole at the archive, line 665.* — v391
+**Concern · for our word, aimed at 1.1–6.6.** Body prose still runs many claims a sentence (e.g. 6.1, 2.4, 4.13 paragraphs). Options: (a) a pass of its own re-writing the body 1.1 to 6.6 in the opening's form, one advance a sentence; (b) keep the body's long sentences, the opening alone in one-advance form. — v391
 
-**Droplet · aimed at 1.1, 5.1.** 1.1 "uniquenessing of number one is uniquenessing of now" against 5.1 "a living self ... a bi-inversioning uniquenessing of number one"; one is now or a self, not chosen. *Laid whole at the archive, line 663.* — v391
-
-**Droplet · aimed at 1.1–1.5.** "no third", "no not-right spiral is beside it", "does not exist" still. *Laid whole at the archive, line 759.* — v391
-
-**Droplet · aimed at 1.1–6.6.** Body prose still runs many claims a sentence (e.g. 6.1, 2.4, 4.13 paragraphs). *Laid whole at the archive, line 749.* — v391
-
-**Droplet · aimed at 1.2.** 1.2 bold still "Prior, now and next are three sequential universes, one now-existing" (1.1 already says one universe with each momentary). *Laid whole at the archive, line 661.* — v391
-
-**Droplet · aimed at 1.2, 1.3, 1.5, 4.11, 4.13, 4.14, 5.4, 6.2, 6.4.** "third" still 12 times, e.g. 1.2 "no third", 6.2 "no third value", 6.4 "couple one with a third". *Laid whole at the archive, line 1847.* — v391
-
-**Droplet · aimed at 1.2, 4.9, 5.1.** 1.2 "is a gap, both its sides visible, and no third", 4.9's gaps and 5.1 "nothing momentarying between them" still. *Laid whole at the archive, line 683.* — v391
-
-**Droplet · aimed at 1.3.** Say whether a set of sets (not within themselves) is a thing of the universe, or a naming beside things; see the co-sequential reading at line 411. *Laid whole at the archive, line 19.* — v391
-
-**Droplet · aimed at 1.3.** A step from "one and then an other" to "changing back": a self going on, or two forms only, as its own sentence. *Laid whole at the archive, line 143.* — v391
-
-**Droplet · aimed at 1.3.** At 1.3: self-membering is sequence, the set now having itself prior as a member, no loop. *Laid whole at the archive, line 411.* — v391
-
-**Droplet · aimed at 1.3.** 1.3 "A self observing, three observings are one" and "living and non-living are three observings" still name a third three. *Laid whole at the archive, line 675.* — v391
-
-**Droplet · aimed at 1.3.** Continuing dissolved, but 1.3 now reads "existing is a form same-existing", still defining existing by same-existing where the opening keeps existing as now-existing's root. *Laid whole at the archive, line 679.* — v391
-
-**Droplet · aimed at 1.3.** 1.3 keeps "A set is a self-emptying set, a new collection with each now"; only the offer's second half entered. *Laid whole at the archive, line 681.* — v391
-
-**Droplet · aimed at 1.4.** One sentence near 1.4: no inside and no outside of the universe; nothing of value at a not-in-set. *Laid whole at the archive, line 293.* — v391
-
-**Droplet · aimed at 1.4.** 1.4 "A second possibling and discovering method is not possibly existing" against the opening's "Any second method ... is itself a now-existing thing ... within the one method". *Laid whole at the archive, line 671.* — v391
-
-**Droplet · aimed at 1.4, 3.1, 3.3.** 1.4 "Method is one word for three", 3.1 "non-living existing thing", 3.3 heading "A method, a non-living existing thing" (7 sayings of "non-living existing thing"). *Laid whole at the archive, line 673.* — v391
-
-**Droplet · aimed at 1.5.** One sentence at 1.5 saying which observings the all or none covers: a living self's competency along, or each existing thing's changing. *Laid whole at the archive, line 111.* — v391
-
-**Droplet · aimed at 1.5.** 1.5's breaks do not include a living self whose own spiral winds left. *Laid whole at the archive, line 1015.* — v391
-
-**Droplet · aimed at 1.5, 4.11.** Re-say 1.5 and 4.11 without *turn*, or narrow Naming's row. *Laid whole at the archive, line 103.* — v391
+**Concern · for our word, aimed at 1.4, 3.1, 3.3.** 1.4 "Method is one word for three", 3.1 "non-living existing thing", 3.3 heading "A method, a non-living existing thing" (7 sayings of "non-living existing thing"). Options: (a) *method* one naming, natural torusing, with "a non-living existing thing" leaving 1.4, 3.1 and 3.3's heading; (b) keep method one word for three, Natural Naming 6.3 re-said to hold it. — v391
 
 ## Aimed at part TWO · v391
 
-**Droplet · aimed at 2.2, 3.4, 4.1, 4.3, 4.7, 4.10, 4.12.** Re-say each *meet*/*meeting* at Naming's carrying (*couples with*, *reaches*), or narrow Naming's row. *Laid whole at the archive, line 99.* — v391
-
-**Droplet · aimed at 2.2, 6.2.** 2.2 has parity between self and other; three pairs and "social bi-moral-co-agency" said nowhere. *Laid whole at the archive, line 1259.* — v391
-
-**Droplet · aimed at 2.4.** Attach the excluding to the coupling: a sentence at 2.4 saying the count is over a self's prior and an other's parity, or re-count over two. *Laid whole at the archive, line 155.* — v391
-
-**Droplet · aimed at 2.4.** 2.4 still says "four ways of sixteen have joint forms still, two, one, one and none"; twelve have one, so the count is to be re-said of the four keeping their prior whole. *Laid whole at the archive, line 645.* — v391
-
-**Droplet · aimed at 2.4, 4.12.** 2.4 still "stills are equilibria, each an unchangeable form", and 4.12 calls a self receiving its own parity "a form's, from beside"; a self's own not-changing is not yet parted from a still from beside. *Laid whole at the archive, line 647.* — v391
+**Concern · for our word, aimed at 2.2, 6.2.** 2.2 has parity between self and other; three pairs and "social bi-moral-co-agency" said nowhere. Options: The three pairs' third member is open: (a) self, other and same-existing-society, as v390's three phases agreed (self and society along at 9 and 17); (b) self, other and all, as the opening's 'self, other, and all not self or other'. — v391
 
 ## Aimed at part THREE · v391
 
-**Droplet · aimed at 3.2.** A step from 3.1 to torusing and to five dimensions, or a sentence saying each is a naming whole at its meaning. *Laid whole at the archive, line 23.* — v391
-
-**Droplet · aimed at 3.2.** One placing of dimensions four and five among names across 3.2's list, its closing and 4.9. *Laid whole at the archive, line 95.* — v391
-
-**Droplet · aimed at 3.2.** Re-say 3.2's five at the carved naming (prior-existing self-parity, ... next-existing same-existing self-parity). *Laid whole at the archive, line 530.* — v391
-
-**Droplet · aimed at 3.2.** 3.2 still "Existing changes in exactly five dimensions" with its own five names and 4 coupled with 6 and 14; the agreed five with code couplings stand only at 4.9. *Laid whole at the archive, line 707.* — v391
-
-**Droplet · aimed at 3.2, 4.9.** Unexplored; the moving three through a self's five not said. *Laid whole at the archive, line 1531.* — v391
-
-**Droplet · aimed at 3.3.** Decide whether Exhibit ONE's code is method itself (3.3, 1.4) or method's illustration met at its tables, and re-say 3.3. *Laid whole at the archive, line 47.* — v391
-
-**Droplet · aimed at 3.3.** Re-say 3.3 as one with 6.5 ("non-living with each scale, stable-forming no self"), or say why two. *Laid whole at the archive, line 211.* — v391
-
-**Droplet · aimed at 3.3.** 3.3 still lists forms ("an entry and its cases, four momentaries ...") with nothing of what each meets. *Laid whole at the archive, line 987.* — v391
-
-**Droplet · aimed at 3.5.** Re-explain 3.5's φ so it does not arrive from a way 2.4 sets aside as having a joint form still. *Laid whole at the archive, line 27.* — v391
-
-**Droplet · aimed at 3.5.** Re-say 3.5 as an executing's own arrangement, as 4.6 has it, without *a common beat*. *Laid whole at the archive, line 51.* — v391
-
-**Droplet · aimed at 3.5.** 3.5 still "stepping together, resolver's executing, a common beat laid over selves"; Exhibit ONE already says "executing's own arrangement". *Laid whole at the archive, line 655.* — v391
-
-**Droplet · aimed at 3.5.** 3.5 still states the numbers: after 60, 140, 900, 4,012, 180. *Laid whole at the archive, line 991.* — v391
-
-**Droplet · aimed at 3.5, 4.13.** "two unequal numbers of selves, one of them odd" still in 3.5 and 4.13 (oddness bounds only the two coupling selves opposite); 3.5's "from momentary 119" not said as from the table's opening. *Laid whole at the archive, line 653.* — v391
-
-**Droplet · aimed at 3.6.** One sentence reading "all existing matter and space considered as a whole" as a set and its things. *Laid whole at the archive, line 289.* — v391
+**Concern · for our word, aimed at 3.3.** Decide whether Exhibit ONE's code is method itself (3.3, 1.4) or method's illustration met at its tables, and re-say 3.3. Options: (a) the code is method itself, method executable, as 1.4, 3.3, 3.6 and step 227 now say; (b) the code is method's illustration in python, a stable form of another kind, met at its tables, with 3.3 re-said. — v391
 
 ## Aimed at part FOUR · v391
 
