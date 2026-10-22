@@ -21,14 +21,13 @@ This plan orders the improving those droplets open, re-said with each suggestion
 
 **Incoming, where it stands.**
 - **Natural Intelligence's offerings:** resolved; two droplets stand: a writing pass of the body, one claim a sentence as the opening now is; a legend of the seventeen names with `build.js`.
-- **Exhibit ONE's offerings:** resolved at v391. Of 102 items, 40 are met, 27 rest on dissolved or released forms or a claim the code does not hold, 8 duplicate and 10 are records, each whole with its verdict at `archive/session_v391/offerings_dissolved/`; one is laid at the Equilibria and Living Ghost Registries' offerings. Nine droplets stand, each aimed at its section, and seven concerns for our word, each with its two options.
+- **Exhibit ONE's offerings:** resolved at v391. Of 102 items, 40 are met, 27 rest on dissolved or released forms or a claim the code does not hold, 8 duplicate and 10 are records, each whole with its verdict at `archive/session_v391/offerings_dissolved/`; one is laid at the Equilibria and Living Ghost Registries' offerings. Its nine droplets are met, 138 re-sayings read for harm; seven concerns for our word stand, each with its two options, the code's names first: two-sided naming, each name readable coming down from a higher function and coming up from a lower one, explored at v391.
 
 **Next motions, in order.**
-1. **Meet Exhibit ONE's nine aimed droplets**, propose · read for harm · enter, both copies one text.
-2. **Exhibit ONE's seven concerns**, one at a time with the person.
-3. **Natural Intelligence's body, one claim a sentence**, part by part, as the opening is.
-4. **The legend and `build.js`.**
-5. **The negations kept** where a re-saying would change meaning, brought one at a time: Co-Chaining Logic Registry step 99, *nature is not an existing thing*; steps 100, 103 and 199, *nothing further than or between things of the universe*; steps 138 and 250, *not same-existing* as other than the self; steps 475 to 478, *not possibling its own next-existing*; steps 552, 629, 660 and 705.
+1. **Exhibit ONE's seven concerns**, one at a time with the person.
+2. **Natural Intelligence's body, one claim a sentence**, part by part, as the opening is.
+3. **The legend and `build.js`.**
+4. **The negations kept** where a re-saying would change meaning, brought one at a time: Co-Chaining Logic Registry step 99, *nature is not an existing thing*; steps 100, 103 and 199, *nothing further than or between things of the universe*; steps 138 and 250, *not same-existing* as other than the self; steps 475 to 478, *not possibling its own next-existing*; steps 552, 629, 660 and 705.
 
 **For our word, decided at v391.** *Natural Network* is one thing's proper name: *a Natural Network surface*, entered across the set. *Substrate* (with *a carry*, *riding its carry*), *carrying* (the expedition's stage name) and *may-never* dissolve: Natural Intelligence and the Co-Chaining Logic Registry carry none, and each other file's sayings are laid outgoing at its offerings. Exhibit ONE's seven concerns stand, at its offerings.
 

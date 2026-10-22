@@ -4,27 +4,11 @@ Exhibit ONE Natural Resolver Offerings · resolved at v391
 
 ## Resolved at v391 · v391
 
-**Resolved at v391.** 102 items stood here. Read against [Exhibit ONE Natural Resolver v391](../Exhibit_ONE_Natural_Resolver_v391.md) and its code, 40 are met at it, 27 rest on forms v391 dissolved or released or on a claim the code does not hold, 8 duplicate another item, and 10 are dated records; one, Exhibit ONE's tables cited by heading across the set, is laid at the Equilibria Registry's and the Living Ghost Registry's offerings. Each stands whole with its verdict at [the archive](../archive/session_v391/offerings_dissolved/Exhibit_ONE_Offerings_to_Natural_Resolver_resolved_v391.md). The 9 droplets and 7 concerns below stand. — v391
+**Resolved at v391.** 102 items stood here. Read against [Exhibit ONE Natural Resolver v391](../Exhibit_ONE_Natural_Resolver_v391.md) and its code, 40 are met at it, 27 rest on forms v391 dissolved or released or on a claim the code does not hold, 8 duplicate another item, and 10 are dated records; one, Exhibit ONE's tables cited by heading across the set, is laid at the Equilibria Registry's and the Living Ghost Registry's offerings. Each stands whole with its verdict at [the archive](../archive/session_v391/offerings_dissolved/Exhibit_ONE_Offerings_to_Natural_Resolver_resolved_v391.md). The nine droplets are met, below; seven concerns stand. — v391
 
-## Aimed at Exhibit ONE's sections · v391
+## Met at v391 · v391
 
-**Droplet · aimed at *Four four-cyclings and their betweens (Between column)*.** Say each between, 4 )( 5, 8 )( 9, 12 )( 13 and 16 )( 17, is a discovering, one with each scale. *Laid whole at the archive, line 144.* — v391
-
-**Droplet · aimed at *Namings among names (3-now-co-observing · 4-now-co-same-existing) and 3's Namings field*.** Re-say 'a next, a self discovering it, 11' as a next prior a self observes with 11. *Laid whole at the archive, line 184.* — v391
-
-**Droplet · aimed at *Odd names, now and 8 up with next*.** Re-say 'same with next, 8 up' so 3 and 7 keep their root and 1 and 5 go on as 9 and 13, discovering. *Laid whole at the archive, line 204.* — v391
-
-**Droplet · aimed at *A spiral opening with an empty prior, one parity sharing once (its paragraph)*.** Re-say 'each self has a prior self' as each self's sharing has a prior parity with momentary n. *Laid whole at the archive, line 214.* — v391
-
-**Droplet · aimed at *Tables' keys (Sharing (10), A prior (3), along (9)) and per-name fields*.** Name each resolver name whole where tables and prose now carry a bare number. *Laid whole at the archive, line 220.* — v391
-
-**Droplet · aimed at *Opening, Namings among names, Four bi-foldings, Twelve forms, A torus's two going forms, spiral-opening paragraph*.** Re-say meets, keeping, return, round and takes (lines 9, 518, 545, 553, 850, 1064, 1172). *Laid whole at the archive, line 222.* — v391
-
-**Droplet · aimed at *Opening; A spiral opening with an empty prior; Tables of selves with code's stepping*.** Re-say 'its running shows', 'Each cell shows' and 'a table prints' as the concept, no doer. *Laid whole at the archive, line 224.* — v391
-
-**Droplet · aimed at *Each name and its relations*.** Each field carries one claim, repeats of Namings among names and A self's four momentaries of exchanging dropped. *Laid whole at the archive, line 226.* — v391
-
-**Droplet · aimed at *A spiral of selves (key b); Two spirals beside each other (key a)*.** State each rule with its executed range, as A torus of selves does. *Laid whole at the archive, line 228.* — v391
+**Met at v391 · the nine aimed droplets.** Proposed, read for harm and entered, both copies one text: resolver names said whole where tables and prose carried a bare number, forms, edges, ranges and counts staying numbers; doers re-said as the concept; *meets*, *keeping*, *return*, *round* and *takes* re-said by what is; each per-name field one claim; *A spiral of selves* and *Two spirals beside each other* stating each rule with its executed range, 1 to 59 selves and each two numbers 1 to 31; each between of the four four-cyclings a discovering; 11 a next prior a self observes; odd names going on 8 up; and each self's sharing with a prior parity from momentary n in a spiral opening with an empty prior. 138 re-sayings, 13 corrected by the reading for harm. — v391
 
 ## Concerns for our word · v391
 
