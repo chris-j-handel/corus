@@ -4,7 +4,7 @@ Exhibit THIRTEEN Resolving Hard Problems Offerings · improved at v389
 
 ## Standing · v389
 
-**Resolved at v389.** 163 items stood here; resolving against [Resolving Hard Problems v389](../Exhibit_THIRTEEN_Resolving_Hard_Problems_v390.md), 32 are carried, 88 rest on released forms, 18 duplicate another item and 13 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_THIRTEEN_Offerings_to_Resolving_Hard_Problems_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_THIRTEEN_Offerings_to_Resolving_Hard_Problems_resolved_v389.md). The 12 concerns below stand, each with its reason; 12 stand now.
+**Resolved at v389.** 163 items stood here; resolving against [Resolving Hard Problems v389](../Exhibit_THIRTEEN_Resolving_Hard_Problems_v391.md), 32 are carried, 88 rest on released forms, 18 duplicate another item and 13 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_THIRTEEN_Offerings_to_Resolving_Hard_Problems_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_THIRTEEN_Offerings_to_Resolving_Hard_Problems_resolved_v389.md). The 12 concerns below stand, each with its reason; 12 stand now.
 
 **At 4.3 · The living step, next as prior inverted — beside "the right spiral step carrying a pair (x, y) to (y, −x)".** The right spiral step is a quarter turn with bi-inversioning and no reflecting, and hard probleming at the resolver first arises there.
 
