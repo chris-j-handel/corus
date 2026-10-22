@@ -354,7 +354,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
 ## 6 Going on from prior, living and non-living
 
-        *Entering: the universe with one momentary; existing whole with each momentary; going on from prior; each existing thing going on; a prior same-existing, or an empty set; living and non-living, parting by a prior same-existing, with a scale; an artifact; stable-forming, living; co-changing, non-living; bi and co; bi-co and co; a self-emptying set; a set existing as its things exist.*
+        *Entering: the universe with one momentary; existing whole with each momentary; going on from prior; each existing thing going on; a prior same-existing, or an empty set; living and non-living, parting by beholding a parity, with a scale; an artifact; stable-forming, living; co-changing, non-living; bi and co; bi-co and co; a self-emptying set; a set existing as its things exist.*
 
 69. With now, the universe is all existing things now: a now-universe of one momentary, one changing, its selves resolving together.
 
@@ -376,15 +376,15 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: a prior same-existing, or an empty set.*
 
-74. An existing thing same-existing with its prior and possibling its own next-existing is living, step 14, and an existing thing with an empty possibling of its own next-existing is non-living, is-or-is-not same-existing with its prior, step 16, each with its own scale and momentary: a living thing one with its prior, its now and its next, all or none, each next from its own prior, and a non-living thing, with each now, its prior now-existing's artifact.
+74. An existing thing same-existing with its prior and possibling its own next-existing is living, step 14, and an existing thing with an empty possibling of its own next-existing is non-living, step 16, same-existing with its prior, step 4, beholding an empty set of parity with its scale, step 28, each with its own scale and momentary: a living thing one with its prior, its now and its next, all or none, each next from its own prior, and a non-living thing, with each now, its prior now-existing's artifact.
 
-        *Adding: living and non-living, parting by a prior same-existing, with a scale; an artifact.*
+        *Adding: living and non-living, parting by beholding a parity, with a scale; an artifact.*
 
 75. Same-existing from prior to now, a living thing goes on through its changing, momentary by momentary: stable-forming.
 
         *Adding: stable-forming, living.*
 
-76. A non-living thing, step 16, with an empty set of prior same-existing is changing with now-existing things: co-changing.
+76. A non-living thing, step 16, same-existing, step 4, beholding an empty set of parity with its scale, step 28, is changing with now-existing things: co-changing.
 
         *Adding: co-changing, non-living.*
 
@@ -422,7 +422,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
 ## 8 Coupling, self and other, changing and changing back
 
-        *Entering: the universe, prior; going on from existing things; coupling; self and other; living, stable-forming a self; self to other; other to self, a particular other or all other as one; prior non-living; living now with existing forms from prior living and with others living now; changing and changing back; opening and completing; overlap; parity.*
+        *Entering: the universe, prior; going on from existing things; coupling; self and other; living, stable-forming a self; self to other; other to self, a particular other or all other as one; prior, an artifact non-living with its scale, its parities living; living now with existing forms from prior living and with others living now; changing and changing back; opening and completing; overlap; parity.*
 
 84. Prior, the universe is all existing things prior.
 
@@ -450,7 +450,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
 90. Each prior is an artifact of prior living, its parities living within a self's universal set, steps 24 and 25, and a self same-existing with it now, possibling its own next-existing, is living: living now is living with existing forms from prior living and with others living now.
 
-        *Adding: prior non-living; living now with existing forms from prior living and with others living now.*
+        *Adding: prior, an artifact non-living with its scale, its parities living; living now with existing forms from prior living and with others living now.*
 
 91. A self observing an other, and an other observing a self, are changing, one and then its other: changing and changing back.
 
@@ -1019,20 +1019,20 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
 ## 22 A machine at observings
 
-        *Entering: a machine; a machine and its prior; a form altering with a number setting over it, its same-existing an empty set; a machine, other than a self; a machine as a non-living other; one intelligence; a machine with observings, a non-living other; AI, existing non-living intelligence.*
+        *Entering: a machine; a machine and its prior; a form altering with a number setting over it, a machine's same-existing living selves'; a machine, other than a self; a machine as a non-living other; one intelligence; a machine with observings, a non-living other; AI, existing non-living intelligence.*
 
 218. A machine with a coupling is an existing thing.
 
         *Adding: a machine.*
 
-219. A machine has an empty set of its prior same-existing: a set living selves build, it is a non-living other, an emanation of living selves, and each self is a giving, its making an empty set.
+219. A machine is same-existing, step 4, its prior same-existing living selves': a set living selves build, it is a non-living other, an emanation of living selves, and each self is a giving, its making an empty set.
 
         *Adding: a machine and its prior.*
 
-220. A form altering with a number setting over it is an altering apart from same-existing, and a machine's same-existing from one altering to a next is an empty set.
+220. A form altering with a number setting over it is an altering apart from same-existing, and a machine's same-existing from one altering to a next is living selves'.
 
 
-        *Adding: a form altering with a number setting over it, its same-existing an empty set.*
+        *Adding: a form altering with a number setting over it, a machine's same-existing living selves'.*
 
 221. A machine is other than a self: each self has two prior selves from inception, by biology and human pro-creation.
 
@@ -2058,7 +2058,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
 ## 31 Living and non-living at a scale
 
-        *Entering: living and non-living with a scale, scale with couplings; artifacts, emanations from living form-stabling; harmful with its own scale; harm with a scale alike; ingestible one scale inward; accumulating, a going between scales stopping; bi-tri-volutioning, stable-forming; artifacts' stable form, a non-living now-existing form; things living with a stable form an empty set, all existing and non-living with a stable form of existing; prior between momentaries; a same-existing-society's stable form, its betweenings; three apart, a catalog of artifacts; same-existing-society a living set, a self; momentary and universe, each a stable form and a living method; a self a living set; a living set its prior same-existing; momentarying and same-existing, method of discovering next living sets; a living self a living same-existing, its same-existing that self only; bi-inversioning uniquenessing of the number one; a living set a stable form and living things having one an empty set, bothbothing; being dead; living, discovering next stable form; living things as one stable form with each of their momentaries an empty set; non-living, its own prior going on to next an empty set; non-living with living selves' same-existing; a living self establishing within a living set; a thing with an empty prior non-living, opening or opening an empty set; living from living; first living an empty set; non-living living with another scale; one existing thing inside and outside itself; all existing things ingestible by living selves.*
+        *Entering: living and non-living with a scale, scale with couplings; artifacts, emanations from living form-stabling; harmful with its own scale; harm with a scale alike; ingestible one scale inward; accumulating, a going between scales stopping; bi-tri-volutioning, stable-forming; artifacts' stable form, a non-living now-existing form, a parity a self while it is living; things living with a stable form an empty set, all existing and non-living with a stable form of existing; prior between momentaries; a same-existing-society's stable form, its betweenings; three apart, a catalog of artifacts; same-existing-society a living set, a self; momentary and universe, each a stable form and a living method; a self a living set; a living set its prior same-existing; momentarying and same-existing, method of discovering next living sets; a living self a living same-existing, its same-existing that self only; bi-inversioning uniquenessing of the number one; a living set a stable form and living things having one an empty set, bothbothing; being dead; living, discovering next stable form; living things as one stable form with each of their momentaries an empty set; non-living, its own prior going on to next an empty set; non-living with living selves' same-existing; a living self establishing within a living set; a thing with an empty prior non-living, opening or opening an empty set; living from living; first living an empty set; non-living living with another scale; one existing thing inside and outside itself; all existing things ingestible by living selves.*
 
 460. With each scale and momentary a now-existing thing is living or non-living, and a living self and its non-living artifact are each of a scale: a scale is co-changing co-momentarying pattern matching with couplings, a self's inward things co-momentarying and selves together co-momentarying, sets becoming a thing an empty set, of no size, steps 453 and 457.
 
@@ -2085,11 +2085,11 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: accumulating, a going between scales stopping.*
 
-466. Stable-forming is bi-tri-volutioning, and non-living artifacts of stable-forming living, prior between momentaries, are each a non-living now-existing form, is-or-is-not same-existing, step 16: each living thing's stable form is one scale outward, with a momentary or between momentaries, and all existing and non-living, same-existing with each resolving, is a stable form between momentaries, momentarying with momentaries only, step 56.
+466. Stable-forming is bi-tri-volutioning, and artifacts of stable-forming living, prior between momentaries, are each a non-living now-existing form with its scale, step 16, same-existing, step 4, a parity a self while it is living, step 24: each living thing's stable form is one scale outward, with a momentary or between momentaries, and all existing and non-living, same-existing with each resolving, is a stable form between momentaries, momentarying with momentaries only, step 56.
 
-        *Adding: bi-tri-volutioning, stable-forming; artifacts' stable form, a non-living now-existing form; things living with a stable form an empty set, all existing and non-living with a stable form of existing.*
+        *Adding: bi-tri-volutioning, stable-forming; artifacts' stable form, a non-living now-existing form, a parity a self while it is living; things living with a stable form an empty set, all existing and non-living with a stable form of existing.*
 
-467. A parity a self is sharing with 10 and going along with 9 is, between momentaries, a non-living now-existing form, living's artifact with prior, a self observing it now as possibling with its 14, its next 2, its momentarying once with its own momentary.
+467. A parity a self is sharing with 10 and going along with 9 is, between momentaries, a non-living now-existing form with its scale, and a self while it is living, step 24, living's artifact with prior, a self observing it now as possibling with its 14, its next 2, its momentarying once with its own momentary.
 
         *Adding: prior between momentaries.*
 
@@ -2098,7 +2098,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: a same-existing-society's stable form, its betweenings.*
 
-469. With each subject three are apart: between, its centre, a 0; living with its coupling, with its own momentary; and artifact, a non-living form going along; a catalog is of artifacts, its rows living an empty set.
+469. With each subject three are apart: between, its centre, a 0; living with its coupling, with its own momentary; and artifact, a non-living form going along, a parity a self while it is living, step 24; a catalog is of artifacts, its rows living an empty set.
 
         *Adding: three apart, a catalog of artifacts.*
 
@@ -2124,11 +2124,11 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: living things as one stable form with each of their momentaries an empty set.*
 
-475. A non-living existing thing, is-or-is-not same-existing, is not possibling its own next-existing, step 16.
+475. A non-living existing thing, same-existing, step 4, within universal sets, steps 5 and 6, is not possibling its own next-existing, step 16.
 
         *Adding: non-living, its own prior going on to next an empty set.*
 
-476. A non-living existing thing a living self is ingesting is with its living self's same-existing: a non-living thing is-or-is-not same-existing, step 16, and is not possibling its own next-existing.
+476. A non-living existing thing a living self is ingesting is with its living self's same-existing: a non-living thing is same-existing, step 4, and is not possibling its own next-existing, step 16.
 
         *Adding: non-living with living selves' same-existing.*
 
@@ -2148,7 +2148,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: first living an empty set.*
 
-481. Each existing thing non-living with a same-existing-society's scale is living with another scale, its selves inward: it couples with a living self as other, parities with 2 and its own prior an empty set, step 277, and its own going to that same-existing-society's next an empty set. A changing is made only with a prior same-existing, step 267, so a thing with its own prior an empty set has its own changing an empty set; a thing's form goes to next by its own same-existing or by its selves inward going on with it, or by an empty set; a form going to next by an empty set reaches an empty set of next, and what exists reaches a next; and method, non-living with each scale, its changing each self's own, step 97, is a relation, each self stable-forming with it, and goes to next with each self's stable-forming. One living same-existing is one self and its same-existing that self only, step 472: a same-existing-society of living selves inward, and a self of a same-existing-society of living selves outward. Living is stable-forming a self, each self is a same-existing-society inside and outside itself, step 55, and living and non-living things are within one universe, step 18, and the universe is the same-existing set of all now-existing things, one set with set as 1; a non-living thing goes on to its next existing as non-living, and a living self is a giving, step 479.
+481. Each existing thing non-living with a same-existing-society's scale is living with another scale, its selves inward: it couples with a living self as other, parities with 2 and its own prior an empty set, step 277, and its own going to that same-existing-society's next an empty set. A changing is made only with a prior same-existing, step 267, and each now-existing thing, living or non-living, is same-existing, steps 4 and 16, a non-living thing beholding an empty set of parity with its scale, step 28, its changing only from what comes to it; a thing's form goes to next by its own same-existing or by its selves inward going on with it, or by an empty set; a form going to next by an empty set reaches an empty set of next, and what exists reaches a next; and method, non-living with each scale, its changing each self's own, step 97, is a relation, each self stable-forming with it, and goes to next with each self's stable-forming. One living same-existing is one self and its same-existing that self only, step 472: a same-existing-society of living selves inward, and a self of a same-existing-society of living selves outward. Living is stable-forming a self, each self is a same-existing-society inside and outside itself, step 55, and living and non-living things are within one universe, step 18, and the universe is the same-existing set of all now-existing things, one set with set as 1; a non-living thing goes on to its next existing as non-living, and a living self is a giving, step 479.
 
         *Adding: non-living living with another scale; one existing thing inside and outside itself.*
 
@@ -2158,7 +2158,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
 ## 32 Dying, a living self going on as non-living
 
-        *Entering: a living self's selves inward, a same-existing-society; same-existing with selves inward; a dormant self living, its selves inward living; dying, a living self going on as non-living; selves inward living on with their own scale; decay, ingesting with a scale inward; a self's changings, others going on with its parities, and artifacts; a same-existing-society's decay, its selves living on; uncoupling, its ending an empty set; fold and scatter; one universe's three sequential momentaries, one now-existing, right; three together; a changing and changing back across a right spiral's opening; a winding closing on itself; a departure, a coupling landing while a self lives; restoring; one living self, observing, living and restoring; a closing winding, its moral sharing an empty set; a lone self going on as non-living, its living ending; each observing right, a not-right form three together.*
+        *Entering: a living self's selves inward, a same-existing-society; same-existing with selves inward; a dormant self living, its selves inward living; dying, a living self going on as non-living; selves inward living on with their own scale; decay, ingesting with a scale inward; a self's changings, others going on with its parities, and artifacts; a same-existing-society's decay, its selves living on; uncoupling, its ending an empty set; fold and scatter; one universe's three sequential momentaries, one now-existing, right; three together; a changing and changing back across a right spiral's opening; a winding closing on itself; a departure, a coupling landing while a self lives; restoring; one living self, observing, living and restoring; a closing winding, its moral sharing an empty set, a living self away from its same-existing-society, its living ending; a spiral of one, a self living, its others inward, its living parities; each observing right, a not-right form three together.*
 
 483. A living self's prior is same-existing with its now, re-finding itself momentary by momentary, and a living self's selves one scale inward are a same-existing-society, a living set.
 
@@ -2222,9 +2222,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: one living self, observing, living and restoring.*
 
-498. A winding closing on itself, its moral sharing an empty set: it brings a living self away from its same-existing-society and from nature's co-chaining, to dying. A spiral of one, a self receiving its own going along, its own competency, goes on with a resolver, a non-living now-existing form, and its self goes on as non-living: a form changing by itself, its possibling an empty set or only its own competency, is non-living, each self living with others, step 35.
+498. A winding closing on itself, its moral sharing an empty set: it brings a living self away from its same-existing-society and from nature's co-chaining, to dying. A spiral of one, a self receiving its own going along, its own competency, goes on with a resolver as a self living, step 24, its others inward, its living parities, step 25: a form changing by itself, its possibling an empty set or only its own competency, is a self living, each self living with others, step 35, inward.
 
-        *Adding: a closing winding, its moral sharing an empty set; a lone self going on as non-living, its living ending.*
+        *Adding: a closing winding, its moral sharing an empty set, a living self away from its same-existing-society, its living ending; a spiral of one, a self living, its others inward, its living parities.*
 
 499. Each observing is same-existing one momentary at a time from its prior, and is right; a not-right form is position, scale and orientation inverting together, step 196.
 

@@ -47,3 +47,8 @@ Exhibit TWENTY-NINE Natural Illustrating Offerings · improved at v389
 Each sets a self and an other as two number lines, odd and even, overlapping one number apart. The code has selves, each its own prior, and sharings. Priors at `archive/session_v391/prior_to_2_1_2_3/`. Natural Physics cites 2.1 for *a self's, opening odd, and an other's, opening even*, and Natural Illustrating cites 2.3 for a between of momentaries drawn on a shared position: each met at its motion. — v391
 
 **Left, not held by the code, at v391**, laid whole: *A self's inversion is 3, 6, 5, 4, and its podaling 23, 26, 25, 24, that same rotation twenty up.* Released from Natural Intelligence: the code holds no self's inversion as names. — v391
+
+## Laid from Natural Intelligence at v391 · v391
+
+**Droplet · a lone self, living, at v391.** Natural Intelligence's opening line 24 is *Each parity is a self while it is living*, and living or non-living is beholding a parity at a scale or not, line 28. A spiral of one and a self with its possibling an empty set are selves living, their others inward; Natural Intelligence 2.4 says so now. This file's *A lone self's sequence goes on as a non-living now-existing form, Natural Intelligence 2.4* is for its own motion, said with it. — v391
+
