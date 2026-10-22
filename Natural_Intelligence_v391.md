@@ -112,7 +112,7 @@ Each momentary completes as a next opening: natural intelligence, geodesic disco
 - 6.2 Bi-moral co-agency, across and along
 - 6.3 Natural intelligence
 - 6.4 Social moral competency
-- 6.5 Living and non-living, one existing thing inside and outside itself
+- 6.5 Living and non-living things within one universe
 - 6.6 One form inside and outside itself, now
 
 ---
@@ -1702,7 +1702,7 @@ Part SIX's purpose is natural intelligence and social moral competency as the op
 
 **Bi-trupling protocol is a full social coupling of natural resolver and natural network surface**: two-sided, its along with 9 and 17, co-competent, and its across with 6 to 2 and 10 to 14, bi-moral, one list of parities each way, an other observing them alike. Hard probleming, scientific method incompetencing, control engineering and binary governing of a same-existing-society are each a violation of bi-trupling protocol, and **universal unrelationing protocol is social moral competency's own**. **A controlling is a coupling where one side fixes a sharing to a measure a self sets beforehand**: sensing takes no mark away, a device sensing and correcting takes an other's parity only as how far it stands from a set number, and a measure a self sets beforehand is a predicting, parting from living selves with some momentary; what would go against it is a same-existing-society of living selves each going on stable-forming itself with a beat laying over it from one side, its couplings one way.
 
-## 6.5 Living and non-living, one existing thing inside and outside itself
+## 6.5 Living and non-living things within one universe
 
 **Living is stable-forming a self, a living thing is a natural intelligence network inside and outside itself, and living and non-living things are within one universe.** The opening's lines 16 and 39 say it so. An existing thing stable-forming a self within a set is living there; the set it is within, stable-forming no self of its own, is non-living there, and a set's selves are living, each stable-forming itself.
 

@@ -56,7 +56,6 @@ Bothboth at v391: the opening's 43 lines, each feature bold where it first welco
 
 **Met at v391 · the subtitles.** Natural Intelligence's subtitle is *The Universal Method of Same-Existing*; Exhibit ONE's is *Stable-Forming Same- and Next-Existing*, the code's one binary, at its head, its code's first line and Natural Intelligence's contents line, both copies one text. Every other subtitle stays as it is, and the close keeps *geodesic discovering of next-possibling-same-existing*. — v391
 
-
-**Droplet · aimed at 6.5's heading.** Its heading and contents line, *Living and non-living, one existing thing inside and outside itself*, now part from its bold, a living thing a network inside and outside itself and living and non-living things within one universe, the opening's lines 16 and 39. — v391
-
 **Met at v391 · improving of a living file.** Do-no-harming and improving are bothbothing, the opening's lines 29 to 31, as parity and bi-morality: a file going on with its version with each match is its do-no-harming, its next version with a mismatch its improving, neither without the other; step 641 says it so, and the Geodesic Improving Method's *do-no-harming and improving* names the practice. — v391
+
+**Met at v391 · 6.5's heading.** *Living and non-living things within one universe*, heading and contents line with its bold and the opening's lines 16 and 41. — v391
