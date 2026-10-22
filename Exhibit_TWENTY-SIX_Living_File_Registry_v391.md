@@ -169,8 +169,8 @@ Each entry: **File** · *a* Subtitle · *b* At the repository · *c* Living · *
   - *e* pass 4 at its possible projects
 - **SEVENTEEN · Natural Biology**
   - *a* Stable-Forming Social Organisms
-  - *b* v390
-  - *c* v390: each table wider than 80 narrowed to a list, its columns named once by letter keys, words unchanged; v390: pass 10, its own explaining re-said by meaning toward session v390's concepts; each society of selves a same-existing-society; co-releasing as co-discovering; field terms and findings kept; v390: seventeen resolver names at the agreed names, 1-now-existing to 17-next-existing; Exhibit ONE's cycles of moves said as bi-foldings; v389: released words re-said, surplus at abundancing, the where not valuable, its offerings resolved, forty-six risen with corrections observed
+  - *b* v391
+  - *c* v391: met with Natural Intelligence and the code all or none, about 1,770 sayings re-said by meaning; biology's own vocabulary kept where it reports biology; v390: each table wider than 80 narrowed to a list, its columns named once by letter keys, words unchanged; v390: pass 10, its own explaining re-said by meaning toward session v390's concepts; each society of selves a same-existing-society; co-releasing as co-discovering; field terms and findings kept; v390: seventeen resolver names at the agreed names, 1-now-existing to 17-next-existing; Exhibit ONE's cycles of moves said as bi-foldings; v389: released words re-said, surplus at abundancing, the where not valuable, its offerings resolved, forty-six risen with corrections observed
   - *d* —
   - *e* pass 4 at its possible projects
 - **EIGHTEEN · Natural Physics**
