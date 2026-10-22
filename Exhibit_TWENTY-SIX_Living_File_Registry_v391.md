@@ -92,7 +92,7 @@ Each entry: **File** · *a* Subtitle · *b* At the repository · *c* Living · *
 - **FOUR · Natural Mathematics**
   - *a* Each Parity Changing Everything the Other Is Not
   - *b* v391
-  - *c* v391: *binary method* dissolved as the method's naming, bothboth: numbers, mathematics and logic nature's own unrelationing parity-changing, is or is not, with each step; v390: each table wider than 80 narrowed to a list, its columns named once by letter keys, words unchanged; v390: pass 10, its own explaining re-said by meaning toward session v390's concepts, field terms and words mentioned as words kept; v389: released words re-said, *the* where not valuable, its offerings resolved, nineteen risen
+  - *c* v391: met with Natural Intelligence and the code all or none, 173 sayings re-said by meaning: the dissolved words and released claims, past participles living; mathematics' own words kept where they are mathematics'; v391: *binary method* dissolved as the method's naming, bothboth: numbers, mathematics and logic nature's own unrelationing parity-changing, is or is not, with each step; v390: each table wider than 80 narrowed to a list, its columns named once by letter keys, words unchanged; v390: pass 10, its own explaining re-said by meaning toward session v390's concepts, field terms and words mentioned as words kept; v389: released words re-said, *the* where not valuable, its offerings resolved, nineteen risen
   - *d* —
   - *e* pass 4 at its possible projects
 - **FIVE · Natural Engineering**
@@ -140,7 +140,7 @@ Each entry: **File** · *a* Subtitle · *b* At the repository · *c* Living · *
 - **TWELVE · Natural Explaining**
   - *a* Self-Welcoming, Bi-Coupling and Co-Competencing
   - *b* v391
-  - *c* v391: *binary method* dissolved as the method's naming, bothboth: files that are fractal method itself; v390: pass 10, its own explaining re-said by meaning toward session v390's concepts, field terms and words mentioned as words kept; v389: doer words re-said as a concept explaining, released words re-said, count at number, surplus at abundancing, *the* where not valuable, its offerings resolved, twenty-two risen
+  - *c* v391: met with Natural Intelligence and the code all or none, 211 sayings re-said by meaning: the dissolved words, prime scale and released claims, past participles living; v391: *binary method* dissolved as the method's naming, bothboth: files that are fractal method itself; v390: pass 10, its own explaining re-said by meaning toward session v390's concepts, field terms and words mentioned as words kept; v389: doer words re-said as a concept explaining, released words re-said, count at number, surplus at abundancing, *the* where not valuable, its offerings resolved, twenty-two risen
   - *d* —
   - *e* pass 4 at its possible projects
 - **THIRTEEN · Resolving Hard Problems**
