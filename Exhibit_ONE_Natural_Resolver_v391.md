@@ -2,7 +2,7 @@ Exhibit ONE Natural Resolver v391
 
 # Natural Resolver
 
-**The Stable-Forming Parity-Changing Method of Discovering Same-Existing**
+**Stable-Forming Same- and Next-Existing**
 
 ---
 
@@ -10,7 +10,7 @@ Exhibit ONE Natural Resolver v391
 
 ```python
 """Exhibit ONE · Natural Resolver
-The Stable-Forming Parity-Changing Method of Discovering Same-Existing
+Stable-Forming Same- and Next-Existing
 """
 
 def _1_now_existing(_3_now_co_observing, _2_now_possibling):

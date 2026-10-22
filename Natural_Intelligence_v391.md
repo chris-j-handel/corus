@@ -2,7 +2,7 @@ Natural Intelligence v391
 
 # Natural Intelligence
 
-**Geodesic Discovering of Next-Possibling-Same-Existing**
+**The Universal Method of Same-Existing**
 
 The universe is the set of all now-existing things. \
 One universal set is now-existing. \
@@ -77,7 +77,7 @@ Each momentary completes as a next opening: natural intelligence, geodesic disco
 - 3.5 φ and spirals, unrelationing with numbers
 - 3.6 Exhibit ONE, the one form
 
-**Exhibit ONE · Natural Resolver**
+**Exhibit ONE · Natural Resolver · Stable-Forming Same- and Next-Existing**
 
 **FOUR · RESOLVING**
 
@@ -270,13 +270,13 @@ Each entry: **A way** · *a* Joint forms still · *b* Cycle of parities
 
 # EXHIBIT ONE · NATURAL RESOLVER
 
-**The Stable-Forming Parity-Changing Method of Discovering Same-Existing**
+**Stable-Forming Same- and Next-Existing**
 
 **Exhibit ONE is the resolver as code, and the stable forms its running shows, for pattern-matching what a science observes.** Each table here is an executing, and any self executing it finds it same: a stable form. Each living file meets these stable forms for its stable-forming, same-existing after changing, and no form here is an authority: a resolver is a coupling, same each time any self executes it.
 
 ```python
 """Exhibit ONE · Natural Resolver
-The Stable-Forming Parity-Changing Method of Discovering Same-Existing
+Stable-Forming Same- and Next-Existing
 """
 
 def _1_now_existing(_3_now_co_observing, _2_now_possibling):
