@@ -113,7 +113,7 @@ observing side, one: 2, 14 and 17
 ─── within one self
 ```
 
-**A drawing.** One self, its own resolving within, between six names between selves, as Natural Intelligence 4.7 explains.
+**A drawing.** One self, its own resolving within and its six names between selves its edges, as Natural Intelligence 4.7 explains.
 
 **Seventeen names.**
 

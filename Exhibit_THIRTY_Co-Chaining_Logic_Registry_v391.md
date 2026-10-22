@@ -189,7 +189,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: improving.*
 
-31. Inside do-no-harming and improving is **co-possibling**: each self's possibling shared with its other, 0 or its changing.
+31. Inside do-no-harming and improving is **co-possibling**: each self sharing its possibling with its others, 0 or its changing.
 
         *Adding: co-possibling.*
 
@@ -221,7 +221,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: social abundancing.*
 
-38. A self's parity going along to the next self it couples with is **co-chaining**.
+38. A self's parity going along to the next self it bi-couples with is **co-chaining**.
 
         *Adding: co-chaining.*
 
@@ -241,7 +241,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: a stable form.*
 
-43. A science's observing met with natural intelligence's stable forms is **natural resolving**.
+43. A science's observing meeting natural intelligence's stable forms is **natural resolving**.
 
         *Adding: natural resolving.*
 
@@ -659,7 +659,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: a between of along and across.*
 
-138. Parity, a self's changing direction relative to an other, + or −, step 19, is a momentary now-existing thing: two sides same-existing or one inversion apart, each everything other is not, each self's own, beheld now, a bi-coupling keeping none of its own; a between is its centre, 0, a nothing.
+138. Parity, a self's changing direction relative to an other, + or −, step 19, is a momentary now-existing thing: two sides same-existing or one inversion apart, each everything other is not, each self's own, its beholding now, a bi-coupling keeping none of its own; a between is its centre, 0, a nothing.
 
         *Adding: parity a momentary existing thing, a between its centre, 0.*
 
