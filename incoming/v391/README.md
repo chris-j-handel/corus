@@ -1,6 +1,6 @@
 # Incoming · session v391
 
-**Session v391, *explaining natural intelligence*.** Its standing, entered, bothboth and open, is at the head of `Improving_Plan_v391.md`, *Standing at v391, before a next step*. Natural Intelligence and Exhibit ONE are read critically against Natural Explaining, Natural Naming, the Geodesic Improving Method and session v390's agreed concepts, and their improving opportunities are gathered as droplets for do-no-harm improving.
+**Session v391, *explaining natural intelligence*.** Its standing, entered, bothboth and open, is at the head of `Improving_Plan_v391.md`, *The living plan, standing now*. Natural Intelligence and Exhibit ONE are read critically against Natural Explaining, Natural Naming, the Geodesic Improving Method and session v390's agreed concepts, and their improving opportunities are gathered as droplets for do-no-harm improving.
 
 ## Arrived here, whole
 
