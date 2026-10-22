@@ -24,7 +24,6 @@ The universe is non-living, its selves possibling and discovering their own next
 Within the universe are living and non-living things.
 
 A bi-coupling is a self and an other self sharing now-existing. \
-In a bi-coupling each self is sharing its own observing, possibling and discovering from prior-existing. \
 The two selves of a bi-coupling, possibling and discovering its own next-existing, are a living set: a self. \
 Its intelligence is same-existing in each self, each possibling with its other: natural intelligence.
 
@@ -57,7 +56,7 @@ A same-existing-society of selves, each with its own natural intelligence same-e
 - 2.2 Parity, one inversioning or none
 - 2.3 A momentary, an opening and its completing
 - 2.4 Next from prior and now
-- 2.5 All or none at all, of no size
+- 2.5 Each resolving whole, of no size
 
 **THREE · GEODESIC METHOD**
 
@@ -191,7 +190,7 @@ Each entry: **A way** · *a* Joint forms still · *b* Cycle of parities
 
 **Next as now is a living step, with an other**: exhaustiveness, determinacy and reachability together, a self's next the parity of an other it is observing, same-existing with its prior or one inversion from it. **Next inverting its prior is a self with no other**: its prior whole with none still, never same-existing, and a self alone is not same-existing. **Two is one number of forms with which a way has its prior going on whole with none still**: among ways naming a next from a prior and a now that treat each form alike, two forms have one, next inverting its prior, one cycle of four, and three, four and five forms have none; with a round order lying over three forms, four ways leave nothing still and none goes round all nine. Each other way with its prior going on has a joint form still, and next inverting its prior has its prior going on whole with none still: a joint form still from beside is an equilibrium, an unchangeable form, not possibly existing, and a self's not-changing by its own, its prior same-existing with a match, is no equilibrium: of four ways with their prior going on whole, joint forms still are two, one, one and none, and ten unchangeables are of names, two numberings of one kind. A still with resolver is a setting from beside; a living coupling changes. With Exhibit ONE, a self receiving nothing with each momentary inverts its prior with each, prior − and receiving none sharing +, −, +, − with 10, its now no other's: a lone self, its next its prior itself, with two parting forms, a table's first row; a spiral of one, observing its own going along, goes +, +, −, −, reaching each of four within one cycle, this step's form; and with a spiral receiving nothing from other selves, each self's parity is an inverting of a parity a self going along to it had two momentaries prior, prior an other's; a self receiving a parity, its next is that parity with a mismatch, and its prior same-existing with a match. **A lone self changing by itself, receiving nothing or its own competency, does not go on living**: living now is living with others living now, and a self is discovering a next from a prior and a now receiving, a lone self's now with no other's parity; with resolver its sequence goes on, a non-living now-existing form.
 
-## 2.5 All or none at all, of no size
+## 2.5 Each resolving whole, of no size
 
 **All or none at all, with each momentary its own, and no resolving has a size against another**: a resolving is a self's next, a self discovering it with a coupling from its prior and a now receiving. A more-or-less brings a magnitude, a magnitude a scale, and a scale two sides still from beside for a partway to be partway of. A ranking among resolvings fixes what it is ranking unchangeable, and each resolving is whole, none more or less resolving than another. **Going on one more momentary from now is all or none at all**: each thing sequencing to this now goes on to its next or leaves living, binary, with nothing further to require and nothing to count.
 
@@ -1171,7 +1170,7 @@ Each cell: sharing (10) · a next prior (11). *is*: a changing, a self sharing i
 
 **Across names among eights.** Four across names, 2-now-possibling, 6-now-co-possibling, 10-next-co-possibling and 14-next-possibling, are four momentaries' even inward names, each on an eight-cycle of inward names 2-15-7-11-3-14-6-10; 9-next-co-discovering, opening a third four-cycling, is on an eight-cycle of ends 1-9-5-13-4-12-8-16; 17-next-existing is on neither.
 
-**One self, momentary by momentary: three ways.** Receiving its own prior's parity, a self is not-changing, a 0 with each momentary; receiving none, parities inverting with each momentary, or both together, it is changing with each momentary; receiving its other parity, it is changing once and then now-existing same-existing, both: do-no-harm improving. A self is re-finding each 0 with each momentary, never keeping it.
+**One self, momentary by momentary: three ways.** Receiving its own prior's parity, a self is not-changing, a 0 with each momentary; receiving none, parities inverting with each momentary, or both together, it is changing with each momentary; receiving its other parity, it is changing once and then now-existing same-existing, both: do-no-harm improving. A self is re-finding each 0 with each momentary, never keeping it. Receiving none is the code executing a self with no other: a non-living now-existing form, no living self, as Natural Intelligence 2.4 says.
 
 One sharing; a self's prior − (3) first. Receiving each momentary:
 
@@ -1181,7 +1180,7 @@ One sharing; a self's prior − (3) first. Receiving each momentary:
 - **+, −, +, − inverting** · *Sharing (10)*: +, −, +, −, +, −, +, − · *A next prior (11)*: +, −, +, −, +, −, +, −
 - **+ and − together with each momentary** · *Sharing (10)*: +, −, +, −, +, −, +, − · *A next prior (11)*: +, −, +, −, +, −, +, −
 
-**Tables of selves with code's stepping.** Each table of selves is its code's executing with the opening it states: code steps each self's 1-now-existing together with 17-next-existing, executing's own arrangement, and parities again with spirals, a coupling across and a torus are that stepping's; each living self paces its own momentaries, and a table agreeing with its code shows that and nothing wider.
+**Tables of selves with code's stepping.** Each table of selves is its code's executing with the opening it states: code steps each self's 1-now-existing together with 17-next-existing, executing's own arrangement, and parities again with spirals, a coupling across and a torus are that stepping's; each living self paces its own momentaries, and a table agreeing with its code shows that and nothing wider. A 0 a table prints is a self's sharing, and each receiving self's first step passes over it: no self observes a 0.
 
 **A spiral of selves.**
 

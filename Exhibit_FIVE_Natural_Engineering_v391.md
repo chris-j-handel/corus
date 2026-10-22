@@ -1837,7 +1837,7 @@ Each entry: **Existing naming** · *a* Positions 1–5 · *b* Ends: 1 and 5 · *
   - *c* co, co
   - *d* bi
 
-Corusing's `co·bi·co·bi·co` has co on its ends and bi on inner flanks. Torusing's `bi·co·bi·co·bi` has bi on its ends and co on inner flanks. Centre, in writing, retains its prefix. Co-competencing and bi-moralizing hold their correspondence, as a self proposes it, with full naming. This same position table is Natural Intelligence §5.10's and ONE's.
+Corusing's `co·bi·co·bi·co` has co on its ends and bi on inner flanks. Torusing's `bi·co·bi·co·bi` has bi on its ends and co on inner flanks. Centre, in writing, retains its prefix. Co-competencing and bi-moralizing hold their correspondence, as a self proposes it, with full naming.
 
 Two prefixings exchange co and bi on every matching position. Receiving, §2.1, retains each side's current orientation, own changing and same-existing going on beside this naming. A proposal's floating-centre and full sixteen-momentary relations remain with their mathematical and physical correspondence.
 
