@@ -301,7 +301,7 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 - *Eight-cycle*: 1-9-5-13-4-12-8-16
 - *Momentaries of exchanging*: second of a self's four completing with 5, an other's 4–5, and third opening with 5, self 5–6
 - *Five dimensions*: 5 self next, next opening of a self's five
-- *Namings*: 5, co-competencing, bi-couplings, owned by neither, each going to its receiving sharing
+- *Namings*: 5, co-competencing, bi-couplings, each self's with each it couples with, each going to its receiving sharing
 - *A self as three*: its invisible intelligencing method, rotation 3, 6, 5, 4, outward with 5
 - *Prior and next*: next, each going to its receiving sharing
 - *1 to 17s inward and outward*: 1–17s inward 17 of 2nd and 1 of 3rd, along, odd, now, and with 1–17 outward within 1 to 2
@@ -518,7 +518,7 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
   - *Resolving*: with each sharing, 4, a prior, 3, meets parities surfacing, 14: a next, a self discovering it, 11
 - **Names: 5-now-co-existing**
   - *Naming*: co-competencing
-  - *Resolving*: bi-couplings, owned by neither: each going to its receiving sharing
+  - *Resolving*: bi-couplings, each self's with its others: each going to its receiving sharing
 - **Names: 1 · 2 · 3 · 4 · 5, each with its own**
   - *Naming*: five dimensions
   - *Resolving*: 1 prior-existing self-parity, a self's prior with 3, a forming set; 2 prior-existing other-parity, other selves' parities from their prior momentary, a self observing them, sharing with 6 and 10 and going along with 9; 3 now-existing co-parity and 4 now-existing bi-parity, a sharing's two meetings, same or not same, a prior meeting parities surfacing with 14; 5 next-existing same-existing self-parity, a next prior with 11, each going to its receiving sharing next
