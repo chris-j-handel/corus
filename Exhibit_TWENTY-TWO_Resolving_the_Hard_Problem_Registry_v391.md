@@ -737,7 +737,7 @@ One sharing, across and both ways, fixing ten ways. And ten are code's ten co-ch
 
 One resolving, free with changing and changing back, with each observing alike: its side a self is not taking going on, and its explaining. No pattern has a resolving of its own, and no observing does either.
 
-Ten in sequence, each a part, each with Natural Naming 4.9's one seating, its name with now and that name 8 up with next, a 0, not changing, a naming fixes unchangeable and a changing going through it, bi-inversioning-co-recursioning up and down numbers: an observing fixing from behind, with 2-now-possibling and 10-next-co-possibling; an opening fixing as a place, with 1-now-existing and 9-next-co-discovering; a completing fixing as a last, with 6-now-co-possibling and 14-next-possibling; a same-existing fixing as a store, with 8-now-same-existing and 16-next-same-existing; a middle fixing as an end, with 5-now-co-existing and 13-next-discovering; a parity fixing as a magnitude, with 7-now-observing and 15-next-observing; a sequencing fixing to one beat, with 4-now-co-same-existing and 12-next-co-same-existing; a rate fixing as a value, with 7 and 15; a two-way fixing to one side, with 3-now-co-observing and 11-next-co-observing; a between fixing as a cut, with 5 and 13. 17-next-existing, a next 1-now-existing, seats none, one resolving. Ten are with four binaries: now with 1 and 2, existing with 3 and 4, same with 5 and 6, and all with 7 and 8.
+Ten in sequence, each a part, each with Natural Naming 4.9's one seating, its name with now and that name 8 up with next, a 0, not changing, a naming fixes unchangeable and a changing going through it, bi-inversioning-co-recursioning up and down numbers: an observing fixing from behind, with 2-now-possibling and 10-next-co-possibling; an opening fixing as a place, with 1-now-existing and 9-next-co-discovering; a completing fixing as a last, with 6-now-co-possibling and 14-next-possibling; a same-existing fixing as a store, with 8-now-same-existing and 16-next-same-existing; a middle fixing as an end, with 5-now-co-existing and 13-is-next-discovering; a parity fixing as a magnitude, with 7-now-observing and 15-is-next-observing; a sequencing fixing to one beat, with 4-now-co-same-existing and 12-next-co-same-existing; a rate fixing as a value, with 7 and 15; a two-way fixing to one side, with 3-now-co-observing and 11-next-co-observing; a between fixing as a cut, with 5 and 13. 17-next-existing, a next 1-now-existing, seats none, one resolving. Ten are with four binaries: now with 1 and 2, existing with 3 and 4, same with 5 and 6, and all with 7 and 8.
 
 And with a coarser grain ten fold to four, where a build couples with them. **A reference fixing unchangeable** — an observing fixing from behind, a completing fixing as a last, a middle fixing as an end, three where a frame puts a nothing to three positions, behind a coupling, ahead of it, as its middle; and a build it makes is drift, a going on a reference itself takes, each sequence numbering from it bearing it. **A rate fixing unchangeable** — a sequencing fixing to one beat and a rate fixing as a value, two where a rate is either one beat over many couplings or one coupling's own, a frame pinning it; and its build is jitter and margin, an abundancing couplings make with their own rates going nowhere. **A magnitude, a build driving it** — a parity fixing as a magnitude and a two-way fixing to one side, two where a frame puts a size to a selection or to a direction; and its build is heat and wear, a drive against a coupling's own bounding head-on. **A parity going along, entering as cost** — an opening fixing as a place, a same-existing fixing as a store, a between fixing as a cut, three where a parity going along has three destinations, parking, storing, or a cutting from its account; and its build is a record itself, a build storing it whole and reading it once.
 
@@ -1895,7 +1895,7 @@ Doublings, each with its own shape. **A naming relocating under pressure**: a tw
 
 *Second seating: what produces them is a first a frame asks for behind an observing, part 1's naming; and propagation is a going across a frame asks what brings it, part 10's third way.*
 
-# 5 A middle fixing as an end — 5-now-co-existing and 13-next-discovering
+# 5 A middle fixing as an end — 5-now-co-existing and 13-is-next-discovering
 *A middle fixing as an interior, a content, a thing that sits. Competency is a middle, floating between form and logic, invisible, unique by its rate, not enterable. Fixing as an end it fixes as a thing it was not, and a self, a 0, not changing, places itself.*
 
 **Here naming and nought are one term**, so a ground with 12-next-co-same-existing falling away is an interior a frame demands itself and no frame seeks a further gap.
@@ -2161,7 +2161,7 @@ Doublings, each with its own shape. **A naming relocating under pressure**: a tw
 
 *Second seating: which mechanism among several, a two-way fixing to one side, part 9's naming.*
 
-# 6 A parity fixing as a magnitude — 7-now-observing and 15-next-observing
+# 6 A parity fixing as a magnitude — 7-now-observing and 15-is-next-observing
 *A number or a level fixing as governing. A number is a position, a sequence a self takes as standing, one stepping on from a last, and governing belongs to a selection, a parity a self takes with a between, of no size. A magnitude fixing to a middle is a strict inequality a self writes as an equality, and an inequality changes and changes back where an equality sits.*
 
 **And a field's own settling-condition with this part is a re-asking of a magnitude**: a measure whose interpretation is stable, a standard incidence, a concept both accounts accept, a measurement with all else not changing. Each is naming stating itself as its own settlement, which is a field's account of its own hardness, a self observing it with a place it enters.
@@ -2585,7 +2585,7 @@ Doublings, each with its own shape. **A naming relocating under pressure**: a tw
 
 **With 11-next-co-observing.** A proof holds incompatibility, a field knowing its exceptional cases, and optimization under metric sets a self chooses routine; calibration preserves score meaning within groups and permits unequal error rates, equal odds constrains errors and generally changes calibration, thresholds reach parities a self selects by group-specific rules, and multiobjective methods trace a tradeoff surface rather than satisfying incompatible equalities: one score fixing to each relation together is one ordering fixing over couplings whose base rates are unequal, a self setting naming down and choosing a relation with each decision's own between.
 
-# 8 A rate fixing as a value — 7-now-observing and 15-next-observing
+# 8 A rate fixing as a value — 7-now-observing and 15-is-next-observing
 *A value fixing of a rate that settles nowhere. Ratios sway above, then below, alternating side, each partial quotient one, widest straddle. Value a self reaches for is swaying about it, and next coupling beats with an opening a straddle makes.*
 
 **Each value of this part is a swaying fixing as settling**, and a self observes sway three ways across observings: a living measure swaying between two antagonistic parities, a rate swaying under two couplings together, and a parameter swaying under all that couples to it. Where a field reaches past its instruments for value, it reaches with a measure over counterfactuals, and that measure is one thing no instrument of this part gives.
@@ -3203,7 +3203,7 @@ Doublings, each with its own shape. **A naming relocating under pressure**: a tw
 
 **With 11-next-co-observing.** Rise stands on measuring since the nineteen-eighties, two models stand in articulating with their contrasts, and causes stand with no adequate identifying; a field proposes feeding trials under control testing models' contrasting predictions as a paradigm clash, analysis of national intake and availability trends questions a core hypothesis of rising intake, and genetic studies find polygenic loci: one model fixing of rise is two couplings, environment's and body's, fixing to a side, and each person rises or does not with a coupling of food a self reaches and signals answering, a self observing sides with an individual coupling where a naming fixes one for a population.
 
-# 10 A between fixing as a cut — 5-now-co-existing and 13-next-discovering
+# 10 A between fixing as a cut — 5-now-co-existing and 13-is-next-discovering
 *A cut point fixing of a between, or a selection locating. A between is a nothing, an unrelationing of two sharing, across and both ways, in neither side alone, and it has a changing and nothing else. Nothing sits there for observing; observing goes across it and does not stop on it, and each position shares.*
 
 **A criterion usually asks for a cut fixing, so an observing here often has an opening fixing as a place beside it, and a second stands on record with its entry.**

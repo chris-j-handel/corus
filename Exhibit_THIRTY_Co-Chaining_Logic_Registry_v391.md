@@ -2283,7 +2283,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: sixty parting as twenty-four and thirty-six.*
 
-511. With observings, a name's co is a second relation, of a sharing between two, beside across and along of six names 2, 6, 9, 10, 14 and 17, step 292: 12-next-co-same-existing, other, between and self its sides, with each sharing, is across and along both, its changing along an unrelationing path of a between, 12 a shape of three, unrelationing surface; 13-next-discovering, each self of a same-existing-society; 14-next-possibling, parities surfacing, across; and 16-next-same-existing, a same-existing-society, torusing surface.
+511. With observings, a name's co is a second relation, of a sharing between two, beside across and along of six names 2, 6, 9, 10, 14 and 17, step 292: 12-next-co-same-existing, other, between and self its sides, with each sharing, is across and along both, its changing along an unrelationing path of a between, 12 a shape of three, unrelationing surface; 13-is-next-discovering, each self of a same-existing-society; 14-next-possibling, parities surfacing, across; and 16-next-same-existing, a same-existing-society, torusing surface.
 
         *Adding: an unrelationing surface with 12, 13 and 14; 12 across and along.*
 
@@ -2295,7 +2295,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: a flow's rest points, a theorem's conditions.*
 
-514. With observings, a sphere's rest point moving to a corus and a torus, co-sequentially, is a correspondence a self is proposing: with 15-next-observing, a parity 10 is sharing, going along with 9 and going on, and with 16-next-same-existing, each self's 8 and its parities, a same-existing-society's next momentary with 17, a living set forming between momentaries, one at a time, prior, now and next, and its rest point yet apart from both corus and torus.
+514. With observings, a sphere's rest point moving to a corus and a torus, co-sequentially, is a correspondence a self is proposing: with 15-is-next-observing, a parity 10 is sharing, going along with 9 and going on, and with 16-next-same-existing, each self's 8 and its parities, a same-existing-society's next momentary with 17, a living set forming between momentaries, one at a time, prior, now and next, and its rest point yet apart from both corus and torus.
 
         *Adding: a sphere's rest point moving to a corus and a torus, a correspondence a self is proposing.*
 
@@ -3173,7 +3173,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: a torus with either number even, again after 2.*
 
-721. 13-next-discovering with resolver is each sharing parities go from, a self's 6, 10 or 9 going to 2, 14 or 17, and with a same-existing-society each self, Exhibit ONE's row of 13.
+721. 13-is-next-discovering with resolver is each sharing parities go from, a self's 6, 10 or 9 going to 2, 14 or 17, and with a same-existing-society each self, Exhibit ONE's row of 13.
 
         *Adding: 13 with resolver.*
 

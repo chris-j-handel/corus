@@ -1036,9 +1036,9 @@ With each number, its relations:
 - **10** · 10-next-co-possibling, T₄
 - **11** · 11-next-co-observing, fifth prime
 - **12** · 12-next-co-same-existing
-- **13** · 13-next-discovering, sixth prime, prior two added
+- **13** · 13-is-next-discovering, sixth prime, prior two added
 - **14** · 14-next-possibling
-- **15** · 15-next-observing, T₅, 2⁴ − 1
+- **15** · 15-is-next-observing, T₅, 2⁴ − 1
 - **16** · 16-next-same-existing, 4², 2⁴
 - **17** · 17-next-existing, seventh prime, 2⁴ + 1
 - **19** · eighth prime

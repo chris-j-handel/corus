@@ -267,7 +267,7 @@ Each entry: **Connector** · *a* End · *b* Relation with another self
 | 10-next-co-possibling, parity s | 11-next-co-observing, parity s |
 | 6-now-co-possibling, one same list as 10 | 8-now-same-existing, parity s with 11 |
 
-**One same surfacing parity goes on with a next prior and with sharing.** It is 7-now-observing with 11-next-co-observing and 15-next-observing with 9-next-co-discovering. Its next prior goes on locally with 11-next-co-observing, same-existing as its next 3-now-co-observing. A 0 with 10-next-co-possibling leaves its prior with that sharing same-existing with 11-next-co-observing.
+**One same surfacing parity goes on with a next prior and with sharing.** It is 7-now-observing with 11-next-co-observing and 15-is-next-observing with 9-next-co-discovering. Its next prior goes on locally with 11-next-co-observing, same-existing as its next 3-now-co-observing. A 0 with 10-next-co-possibling leaves its prior with that sharing same-existing with 11-next-co-observing.
 
 **Two sharings and a next prior couple with one changing.** With a nonzero parity s with 10, 6 shares one same s, and a next prior with 11 is s. Across and along couple here within one same resolver's going on.
 
@@ -328,9 +328,9 @@ Each entry: **Connector** · *a* End · *b* Relation with another self
 | 2-now-possibling | 10-next-co-possibling |
 | 3-now-co-observing | 11-next-co-observing |
 | 4-now-co-same-existing | 12-next-co-same-existing |
-| 5-now-co-existing | 13-next-discovering |
+| 5-now-co-existing | 13-is-next-discovering |
 | 6-now-co-possibling | 14-next-possibling |
-| 7-now-observing | 15-next-observing |
+| 7-now-observing | 15-is-next-observing |
 | 8-now-same-existing | 16-next-same-existing |
 | 9-next-co-discovering | 17-next-existing |
 
@@ -363,8 +363,8 @@ Each entry: **Connector** · *a* End · *b* Relation with another self
 
 Each entry: **Relation through its unfolding** · *a* Completing with nine · *b* Completing with seventeen
 
-- **Prior** · *a* 4-now-co-same-existing → 5-now-co-existing · *b* 12-next-co-same-existing → 13-next-discovering
-- **Now** · *a* 6-now-co-possibling → 7-now-observing · *b* 14-next-possibling → 15-next-observing
+- **Prior** · *a* 4-now-co-same-existing → 5-now-co-existing · *b* 12-next-co-same-existing → 13-is-next-discovering
+- **Now** · *a* 6-now-co-possibling → 7-now-observing · *b* 14-next-possibling → 15-is-next-observing
 - **Next, discovering onward** · *a* 8-now-same-existing → 9-next-co-discovering · *b* 16-next-same-existing → 17-next-existing
 
 **Each pair is an even name and then an odd; this unfolding has six positions with each span.** Columns are eight on from one another, each opening even in both. Openings odd and even, one and then the other, appear with one-on overlap. Three successive pairs locate names through going on; prior and now give two momentaries participating with a self's present resolving.

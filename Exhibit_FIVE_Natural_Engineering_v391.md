@@ -1021,7 +1021,7 @@ Each entry: **Entry property** · *a* Own-rate at the silicon coupling
 
 Optical sign, an electrical current sign and a resolver parity each retain their physical or representing operation. Oxide forming and dissolving have material path; a phase pattern has its spatial and temporal relation. Whole load surface includes supply, receiving and returning with every interface it includes. Bettering, fastering and cheapering co-cycle with those particular quantities and conditions.
 
-**A fixing form and its naming couple with current changing.** TWENTY-TWO Part Eight, **A rate fixed as a value — 7-now-observing and 15-next-observing**, gathers value-pinning. Its adjacency, with ONE's seventeen names 14-next-possibling → 12-next-co-same-existing, stands with THIRTEEN §7.3 and Natural Naming §2.17, and 4-now-co-same-existing, a parity's key, stands with TWENTY-SEVEN’s door line 2. With ONE, 4-now-co-same-existing keys each parity; 14-next-possibling gathers the parities a self is observing, one sign or, with opposite signs, a 0; and 12-next-co-same-existing is a 0 where 14 agrees with a self's prior, inverts that prior otherwise, and with a key new to a self is 14's parity. With engineering coupling, physical rate and each parity a self is observing retain their own relation. Full correspondence belongs with actual parity-taking interface, §4.10.
+**A fixing form and its naming couple with current changing.** TWENTY-TWO Part Eight, **A rate fixed as a value — 7-now-observing and 15-is-next-observing**, gathers value-pinning. Its adjacency, with ONE's seventeen names 14-next-possibling → 12-next-co-same-existing, stands with THIRTEEN §7.3 and Natural Naming §2.17, and 4-now-co-same-existing, a parity's key, stands with TWENTY-SEVEN’s door line 2. With ONE, 4-now-co-same-existing keys each parity; 14-next-possibling gathers the parities a self is observing, one sign or, with opposite signs, a 0; and 12-next-co-same-existing is a 0 where 14 agrees with a self's prior, inverts that prior otherwise, and with a key new to a self is 14's parity. With engineering coupling, physical rate and each parity a self is observing retain their own relation. Full correspondence belongs with actual parity-taking interface, §4.10.
 
 Taking each next rate minus preceding rate gives approximate gaps of **3 then 5 mHz** ascending and **−5 then −3 mHz** descending. These are gaps between rates a record gives; their list order supplies no consecutive physical traversal. A proposal's 24/27/32, prime-gap, sixteen-momentary and 0–440 relation goes on as its correspondence of dimension and direction with Numbers and Mathematics.
 
@@ -1432,7 +1432,7 @@ Each entry: **Existing code naming** · *a* Implementation holding
 - **`_3_now_co_observing` and `_2_now_possibling`** · *a* Priors and parities a call supplies, each with its sharing
 - **`_14_next_possibling`**
   - *a* Parities surfacing with each sharing: a first nonzero parity, or 0 where + and − part
-- **`_12_next_co_same_existing` and `_15_next_observing`**
+- **`_12_next_co_same_existing` and `_15_is_next_observing`**
   - *a* Each prior meeting its surfacing parity: 0 where they agree, the prior's sign inverting otherwise
 - **`_10_next_co_possibling`** · *a* Each sharing's parity, + or −, including zero
 - **`_11_next_co_observing` and `_8_now_same_existing`**
@@ -1732,31 +1732,31 @@ Each entry: **Engineering observing** · *a* TWENTY-ONE → TWENTY-TWO v344; fix
   - *a* 132 → §3.19; a completing fixing as a last, with 6-now-co-possibling and 14-next-possibling
   - *b* Connections a field adopts and their particular compatibility; comparison a self asks of an arrangement not existing.
 - **Benchmarks**
-  - *a* 131 → §6.12; a parity fixing as a magnitude, with 7-now-observing and 15-next-observing
+  - *a* 131 → §6.12; a parity fixing as a magnitude, with 7-now-observing and 15-is-next-observing
   - *b* Tasks an evaluation covers, training exposure and result a record holds; capability a claim takes past that coupling's reach.
 - **Alignment of built systems**
   - *a* 130 → §3.18; a completing fixing as a last, with 6-now-co-possibling and 14-next-possibling
   - *b* Specification, evaluation and actual behavior; behavior a claim takes to situations no evaluation reaches.
 - **Brooks's law**
-  - *a* 133 → §6.13; a parity fixing as a magnitude, with 7-now-observing and 15-next-observing
+  - *a* 133 → §6.13; a parity fixing as a magnitude, with 7-now-observing and 15-is-next-observing
   - *b* Work, joining and newly forming connections; effect a self assigns from a count while fixing that connection structure.
 - **Risk compensation**
   - *a* 134 → §3.20; a completing fixing as a last, with 6-now-co-possibling and 14-next-possibling
   - *b* A measure newly entering, adaptation and transfers with receiving it addresses; total a self assigns to a regime not existing.
 - **Work and waste heat**
-  - *a* 137 → §10.15; a between fixing as a cut, with 5-now-co-existing and 13-next-discovering
+  - *a* 137 → §10.15; a between fixing as a cut, with 5-now-co-existing and 13-is-next-discovering
   - *b* Actual outputs and their next receiving, §§3.2 and 5.2; product label and reference conditions.
 - **Signal and noise**
-  - *a* 136 → §10.14; a between fixing as a cut, with 5-now-co-existing and 13-next-discovering
+  - *a* 136 → §10.14; a between fixing as a cut, with 5-now-co-existing and 13-is-next-discovering
   - *b* Variation, model a self supplies and receiving purpose; split fixing as a property of channel.
 - **Externalities**
-  - *a* 41 → §10.4; a between fixing as a cut, with 5-now-co-existing and 13-next-discovering
+  - *a* 41 → §10.4; a between fixing as a cut, with 5-now-co-existing and 13-is-next-discovering
   - *b* Leaving and receiving across a transaction boundary a self draws; that boundary's use with actual relation.
 - **Same-existing and co-discovering**
   - *a* 135 → §4.3; a same-existing fixing as a store, with 8-now-same-existing and 16-next-same-existing
   - *b* Record a field retains, present defects and revision a self requests; future cost fixing as an amount in store. Definition holds a second fixing form.
 - **The productivity paradox**
-  - *a* 83 → §6.4; a parity fixing as a magnitude, with 7-now-observing and 15-next-observing
+  - *a* 83 → §6.4; a parity fixing as a magnitude, with 7-now-observing and 15-is-next-observing
   - *b* Output a record holds and couplings pricing reaches; total a self asks to include what pricing does not reach.
 - **Information as fundamental**
   - *a* 77 → §9.13; a two-way fixing to one side, with 3-now-co-observing and 11-next-co-observing
@@ -1768,10 +1768,10 @@ Each entry: **Engineering observing** · *a* TWENTY-ONE → TWENTY-TWO v344; fix
   - *a* 97 → §3.12; a completing fixing as a last, with 6-now-co-possibling and 14-next-possibling
   - *b* Training and next observing, §§2.2–2.3; performance fixing ahead of data no sampling draws.
 - **Symbol grounding**
-  - *a* 93 → §5.6; a middle fixing as an end, with 5-now-co-existing and 13-next-discovering
+  - *a* 93 → §5.6; a middle fixing as an end, with 5-now-co-existing and 13-is-next-discovering
   - *b* Symbol and its actual couplings, §2.2; content fixing apart from sharing, with a record store's fixing form alongside.
 - **The equity premium puzzle**
-  - *a* 79 → §8.4; a rate fixing as a value, with 7-now-observing and 15-next-observing
+  - *a* 79 → §8.4; a rate fixing as a value, with 7-now-observing and 15-is-next-observing
   - *b* Return record and preferences it states; a premium expectation a self demands from model parameters.
 - **The halting problem**
   - *a* 6 → §3.2; a completing fixing as a last, with 6-now-co-possibling and 14-next-possibling
