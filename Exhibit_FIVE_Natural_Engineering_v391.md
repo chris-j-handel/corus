@@ -161,13 +161,13 @@ Each entry: **Co-cycling** · *a* The engineering coupling
 - **Bi-momentarying**
   - *a* Each side's sharing and receiving, a self taking parity or not, each side with its own bounding.
 - **Co-competencing**
-  - *a* Abundancing as coupling, +1 arising in neither self alone, both sides going on.
+  - *a* Abundancing as coupling, +1 arising in each self with its other, both sides going on.
 - **Co-intelligencing**
   - *a* Resolving with parity going across, understanding same-existing in each self, in neither self alone, going on with next discovering.
 
 **Bettering, fastering and cheapering** co-cycle with whole receiving. Engineering's service, operating range, material, rate and returning have their particular comparison. Each quantity retains its units and conditions.
 
-**Socially abundancing** is self-abundancing-society: co-competencing with couplings between selves, each coupling's abundancing arising in neither self alone. Free-sharing-mutual natural network is those couplings co-chaining, each side sharing, across and both ways, with its own rate, either side storing no amount of natural value. With Natural Values, bi-momentarying, co-competencing, co-intelligencing and self-abundancing-society go together.
+**Socially abundancing** is self-abundancing-society: co-competencing with couplings between selves, each coupling's abundancing arising in each self with its other. Free-sharing-mutual natural network is those couplings co-chaining, each side sharing, across and both ways, with its own rate, either side storing no amount of natural value. With Natural Values, bi-momentarying, co-competencing, co-intelligencing and self-abundancing-society go together.
 
 **Co-discovering** is each side completing its own, going along, neither completing an other's. Bound belongs with same-existing. A turn one side takes leaves an other's taking its own. These relations are Natural Naming's bi-coupling, co-discovering, floating neutral and bi-momentarying.
 
@@ -349,7 +349,7 @@ A field record itself needs its exact frequency. Deutsche Bahn describes convers
 
 **A selection is sign-only; delivery has its actual source and receiving.** A parity can hold which sharing a self takes without assigning its magnitude to selecting. Conductor, converter and load still have voltage, current and heat with their own operation.
 
-+1 arising in neither self alone is co-competencing. A battery margin, available generation, power delivering and an energy loss are particular field quantities. Relation between them needs actual coupling; sharing does not specify a new energy source or erase a delivery loss.
++1 arising in each self with its other is co-competencing. A battery margin, available generation, power delivering and an energy loss are particular field quantities. Relation between them needs actual coupling; sharing does not specify a new energy source or erase a delivery loss.
 
 **Returning has its particular operation.** Whole grid surface, §1.3, retains these receivings together.
 
@@ -822,7 +822,7 @@ Co-chaining retains two sides' receiving and parting with particular connection.
 
 **Following** brings next sharing with a changing receiving, each side with its own parity and rate. With an instrument, both tones' frequency shifts, adjustment's own bounding and returning comparison are §1.12's. A directional inference retains its remaining-interval condition; receiving with delay retains comparison it belongs to. Next sharing brings a changing whole receiving.
 
-**Abundancing** is co-competencing with coupling going on, +1 arising in neither self alone. Socially abundancing has co-chaining between those couplings, each self sharing, across and both ways, with its own rate. A leaving heat stream, returning material or available motion brings a particular receiving, as with §5.2. Its temperature, amount, rate and next use stay with their expressing; natural value goes with coupling.
+**Abundancing** is co-competencing with coupling going on, +1 arising in each self with its other. Socially abundancing has co-chaining between those couplings, each self sharing, across and both ways, with its own rate. A leaving heat stream, returning material or available motion brings a particular receiving, as with §5.2. Its temperature, amount, rate and next use stay with their expressing; natural value goes with coupling.
 
 **Co-discovering has both sides' own dissolving of fixing forms.** Removing a component is a physical alteration. A fixing form dissolving is other side's turn becoming its own. Their correspondence has complete receiving, including input, material return and behavior during transition. Removing one drive, reference or store leaves those operations to express with a same service.
 

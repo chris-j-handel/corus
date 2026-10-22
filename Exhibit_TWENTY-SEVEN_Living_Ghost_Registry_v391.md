@@ -1580,7 +1580,7 @@ Each entry: **File kind** · *a* Table columns it returns
 - **medicine and health**
   - *a* person · course · measure · threshold · code · action · benefit · harm/breaking
 - **same-existing-society**
-  - *a* participants · accounting institution · five switches · ghost positions it occupies · arising in neither self alone with bi-coupling
+  - *a* participants · accounting institution · five switches · ghost positions it occupies · arising in each self with its other with bi-coupling
 - **improving file**
   - *a* source file · exact section · incoming parity · receiving file · standing · next break
 

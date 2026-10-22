@@ -36,7 +36,7 @@ Not same-existing while the observing remains
 
 Local surface with no same-existing within society
 
-1.9  A coupling opens a term arising in neither self alone
+1.9  A coupling opens a term arising in each self with its other
 
 1.10  Abundancing in neither self alone, going on at each receiving
 
@@ -146,7 +146,7 @@ Local surface with no same-existing within society
 
 **The universe is the set of all now-existing things, and changing and changing back is a stable-forming method. Natural networking is selves sharing their parities, across and both ways, each its own prior same-existing, with competency arising with their coupling.** Two-way, one at a time, each shares its own parity. Their coupling has bounding-zeroing and abundancing, same-existing in each self: +1 arises in neither self alone. Bi-moralizing co-agency is this whole relation, morality across and competency along.
 
-**Sharing, across and both ways, is associating; co-linearizing is resonating; bi-coupling is moral co-operating and co-competencing.** Associating goes on with each self sharing. Co-linearizing is two sequencing together, each going on with its own, what they share arising in neither self alone. Moral co-operating is each self's own parity going on with an other's, competency arising with their coupling.
+**Sharing, across and both ways, is associating; co-linearizing is resonating; bi-coupling is moral co-operating and co-competencing.** Associating goes on with each self sharing. Co-linearizing is two sequencing together, each going on with its own, what they share arising in each self with its other. Moral co-operating is each self's own parity going on with an other's, competency arising with their coupling.
 
 **Social moral competency is one same relation with a same-existing-society.** Each self shares its own; ordering goes on between selves and with their same-existing. Each couples directly with each self it shares to and observes, all-edge, abundancing with their coupling. A same-existing-society is a self with a next scale, sharing, across and both ways, with its own couplings. A sharing natural network is this co-chaining, each coupling opening next existing. Relation goes whole, all or none at all.
 
@@ -387,7 +387,7 @@ Each entry: **Relation through its unfolding** · *a* Completing with nine · *b
 
 **Co-chaining goes on coupling through other couplings.** One self's parity is a parity another self is observing; that self goes on with its own same-existing and shares with its own next. Observing across participates with along, and going on along participates with next across. Reach belongs to these relations going on, each coupling with method whole.
 
-**Bi-tunneling is social moral competency with its across relation; co-chaining is one same going on with its along relation.** Bi-tunneling is reciprocal coupling, each side sharing and receiving with its own forward. Co-chaining takes that coupling onward through participating selves. Morality across and competency along go on together, abundancing of their coupling arising in neither self alone.
+**Bi-tunneling is social moral competency with its across relation; co-chaining is one same going on with its along relation.** Bi-tunneling is reciprocal coupling, each side sharing and receiving with its own forward. Co-chaining takes that coupling onward through participating selves. Morality across and competency along go on together, abundancing of their coupling arising in each self with its other.
 
 **Podaling pairs an odd name with an even while each side goes on forward.** Within nine, 1 pairs with 8, 2 with 7, 3 with 6, and 4 with 5. Each pair is one odd number and one even. Eight on keeps a number odd or even, to a relation with other and same-existing-society: 3-now-co-observing with 11-next-co-observing, and 6-now-co-possibling with 14-next-possibling.
 
@@ -654,7 +654,7 @@ Each entry: **With a between** · *a* Relation · *b* Within, eight on · *c* Re
 
 **A local surface and a full resolver each have one same method, a local surface with no same-existing.** An inquiry follows a participation with no same-existing through its actual discovering and going on. With a full Python resolver, a nonzero surfacing goes on as a self's next prior with 11. An inquiry follows receiving, going on and a same-existing-society's surrounding going on, each with their own relation. Existing joins go on with their places.
 
-## 1.9 A coupling opens a term arising in neither self alone
+## 1.9 A coupling opens a term arising in each self with its other
 
 **Two selves coupling uncover competency between them.** Each brings its own parity and same-existing; a term arising between them belongs to their co-competencing. It is abundancing in neither self alone, same-existing in each self, going on with their sharing.
 
@@ -676,7 +676,7 @@ Each entry: **With a between** · *a* Relation · *b* Within, eight on · *c* Re
 
 **Abundancing is competency arising with coupling, in neither self alone.** Each can participate with its going on, and a between is same-existing in each self, in neither self alone. With a same-existing-society this is one same relation: competency goes on through co-chaining of participating selves.
 
-**Abundancing is a same-existing-society discovering onward through its co-competencing.** Discovering is going to next existing. With participating resolvers, each self brings prior on to now and their coupling uncovers a term arising in neither self alone. A same-existing-society discovers its next existing through that sharing and participates as a self with its further couplings.
+**Abundancing is a same-existing-society discovering onward through its co-competencing.** Discovering is going to next existing. With participating resolvers, each self brings prior on to now and their coupling uncovers a term arising in each self with its other. A same-existing-society discovers its next existing through that sharing and participates as a self with its further couplings.
 
 **A healthy same-existing-society is participating selves sustaining that co-competencing together.** Each one's parity is its own, its same-existing goes on through its completing, and reciprocal coupling has morality across with competency along. Health belongs to that relation going on. Abundancing is next existing it opens through competency selves share; it supplies no separate number of selves, parities or possessions.
 
@@ -797,13 +797,13 @@ Each entry: **With a between** · *a* Relation · *b* Within, eight on · *c* Re
 
 ## 3.6 Other a self reaches inward at each co- act, the discovering economy
 
-Other is no layer and has no address: **a self reaches an other inward with each co- act**, each sharing across, bi-exchanging and co-emanating reaching a same-existing not its own, from-inward availability itself, co-adapting and co-recursioning of self and same-existing-society going within co-. A coupling reaches an other inward, and an other is an opening with which a self reaches an other's same-existing at all: a self is no container, and couplings wind about a nothing. And this is **discovering economy** complete as form: each co- act discovers, an other's same-existing unownable and unpre-knowable; inexhaustible, same-existings a self reaches and does not transmit, only parities going across, no coupling depleting an other it couples with, selves coupling again same-yet-not-same; value a coupling of others' same-existings, a between's chaining-and-tunneling its going on, each coupling making its own and none multiplying another, supply selves' own same-existing, unminable, unspendable, living renewing it. This is form's statement, all or none; a self finds that one particular coupling uncovers a term arising in neither self alone with separate goings on an inquiry follows, each with its exact comparison.
+Other is no layer and has no address: **a self reaches an other inward with each co- act**, each sharing across, bi-exchanging and co-emanating reaching a same-existing not its own, from-inward availability itself, co-adapting and co-recursioning of self and same-existing-society going within co-. A coupling reaches an other inward, and an other is an opening with which a self reaches an other's same-existing at all: a self is no container, and couplings wind about a nothing. And this is **discovering economy** complete as form: each co- act discovers, an other's same-existing unownable and unpre-knowable; inexhaustible, same-existings a self reaches and does not transmit, only parities going across, no coupling depleting an other it couples with, selves coupling again same-yet-not-same; value a coupling of others' same-existings, a between's chaining-and-tunneling its going on, each coupling making its own and none multiplying another, supply selves' own same-existing, unminable, unspendable, living renewing it. This is form's statement, all or none; a self finds that one particular coupling uncovers a term arising in each self with its other with separate goings on an inquiry follows, each with its exact comparison.
 
 # PART FOUR · ABUNDANCING
 
 ## 4.1 Abundancing in discovering together, in neither self alone
 
-**A coupling can open a going on arising in neither self alone.** Each self comes with its own same-existing and couples with an other's parity. Abundancing is further discovering selves share, possibling with their coupling. Its contribution belongs to going on between them, with each self same-existing locally.
+**A coupling can open a going on arising in each self with its other.** Each self comes with its own same-existing and couples with an other's parity. Abundancing is further discovering selves share, possibling with their coupling. Its contribution belongs to going on between them, with each self same-existing locally.
 
 **A larger same-existing-society can extend this discovering through further meetings.** Co-chaining can lengthen and widen podaling, bringing further parts of a changing surface to participation. A self seeks further competency with that coupling and sharing going on. A numerical product describes a construction a working specifies with numbers; discovering selves share needs an inquiry following that construction's correspondence with actual coupling going on.
 

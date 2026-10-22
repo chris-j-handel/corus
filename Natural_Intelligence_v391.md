@@ -126,7 +126,7 @@ Natural intelligence is geodesic discovering of **next-possibling-same-existing*
 
 **SIX · INTELLIGENCE**
 
-- 6.1 Bi-co-momentarying, arising in neither self alone
+- 6.1 Bi-co-momentarying, arising in each self with its other
 - 6.2 Bi-moral co-agency, across and along
 - 6.3 Natural intelligence
 - 6.4 Social moral competency
@@ -1681,7 +1681,7 @@ A torus has both: its large opening a hole a tunneling self winds through, and i
 
 Part SIX's purpose is natural intelligence and social moral competency as the opening says them, with the code: two selves of a bi-coupling, their intelligence same-existing in each self, each possibling with its other; and do-no-harming and improving, one and then the other, a self sharing 0 and selves alike changing together, with each bi-coupling of a same-existing-society.
 
-## 6.1 Bi-co-momentarying, arising in neither self alone
+## 6.1 Bi-co-momentarying, arising in each self with its other
 
 **Two selves share from routes each its own, each with its own sequencing, and what arises between them arises in each self with its other.** It is same-existing in each self, each possibling with its other: one now two selves are sharing. **Bi-co-momentarying is that arising going on**, a between's changing, momentary by momentary, orthogonal to a surface, its lines each self's own. Competency is each self's own, its co-linear recursioning forward along, and bi-co-momentarying is each self's with its other. A self's line and an other's, co-linear, their co-linearizing between self and other with couplings across, is co-competencing, bi-co-momentarying. **Within a bi-folding parallel surfaces and co-linear openings through them are one form**, and with one coupling between are two observing and two going on, one not-changing and one changing: observing, a self's own prior with 3 and an other's parity with 2; a changing with 12-next-co-same-existing, is-or-is-not; going on, one of two is not-changing, stable-forming, with each sharing its prior and its parity agreeing, 12 a 0, a between of momentaries, its prior same-existing; and a second of two is changing, going along with 9-next-co-discovering, with each sharing its parity parting from its prior, its possibling an empty set, or others' parities parting, 12 inverting its prior, and with each sharing new, 12 its parity, a changing that is, a self's sharing with 10, going along with 9, an artifact, artifacts emanations, a non-living now-existing form, a next prior, a self observing it with a next momentary's 2, a prior sharing, each prior momentarying of its own momentary. A parity going along with 9 leaves a sharing self and is observing with a receiving self's prior only with that self's own 12, its one coupling; a 0 a self shares with 10 goes along with 9 too and a receiver is observing it with its 2 as a 0, passing over it with 14; and a self not-changing with each of its sharings, 12 a 0 with each, has its prior same-existing whole, its next its prior. **A parity a self is observing is either same-existing or changing going along**, one with each sharing: a momentary with 12, stable-forming, not-changing its parity, 12 a 0, a between of momentaries, shares 0, and a stable-forming artifact is a changing that is, 12 inverting or its parity, a self's sharing with 10, going along with 9, a self's own.
 

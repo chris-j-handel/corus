@@ -188,7 +188,7 @@ A single un-relating lands. Free a fixing once and a freeing place sits down fre
 
 This is a method living forward, settling nowhere. Each discovery would land a fresh fixing if it stops, so a method brings it forward, riding relating it is discovering as its going on, freeing a fixing the last discovery becomes. Co-unrelationing, one and then the other, discovers, frees, discovers a fixing its discovery lands, frees again, going on.
 
-It competes, discovering; it morals, un-relating two-way between selves, abundancing arising in neither self alone; it sequences, going forward; it logics, un-relating forcing where it must and floating where it may. Co-unrelationing, one and then the other, lives is-or-is-not, un-relating changing and changing back and middle floating, a 0, not changing, only where a fixing lands and stays.
+It competes, discovering; it morals, un-relating two-way between selves, abundancing arising in each self with its other; it sequences, going forward; it logics, un-relating forcing where it must and floating where it may. Co-unrelationing, one and then the other, lives is-or-is-not, un-relating changing and changing back and middle floating, a 0, not changing, only where a fixing lands and stays.
 
 **2.4 Geodesic co-chaining**
 
@@ -408,7 +408,7 @@ Each observing takes an accounting as it stands, a form still from beside, patte
 
 A method co-chains between selves, and co-competencing is discovering with a same-existing-society's scale. Co-competencing is un-relating two-way, fixings between selves freeing, an abundancing staying with a coupling, each self's own and in no self alone. A self discovers by un-relating its own fixings; selves discover together by un-relating fixings between them, co-competencing, a same-existing-society co-chaining one same method a self co-chains by itself.
 
-A same-existing-society co-chains a method between selves, un-relating two-way, each self pacing its own time and abundancing in no self alone. Where a self frees a fixing, selves free a fixing between them, a freeing two-way and an abundancing arising in neither self alone. Co-competencing floats where selves co-unrelation together, and is a 0, not changing, where a landing term stands between them, social moral competency co-unrelationing is sharing, is-or-is-not.
+A same-existing-society co-chains a method between selves, un-relating two-way, each self pacing its own time and abundancing in no self alone. Where a self frees a fixing, selves free a fixing between them, a freeing two-way and an abundancing arising in each self with its other. Co-competencing floats where selves co-unrelation together, and is a 0, not changing, where a landing term stands between them, social moral competency co-unrelationing is sharing, is-or-is-not.
 
 Co-competencing is a method whole with a same-existing-society's scale, geodesic and free-moving, a same-existing-society discovering as a self discovers. A self and a same-existing-society co-chain one method, a self un-relating its fixings and a same-existing-society un-relating fixings between selves, one method with both scales. Co-competencing co-chains social moral competency, un-relating two-way, abundancing in no self alone, a same-existing-society discovering geodesic.
 
@@ -426,7 +426,7 @@ This is resolving's own form, going between selves. A mixture a self shares, sor
 
 A method co-chains abundancing, 12-next-co-same-existing with every discovering, each sharing's changing is or is not. Discovering opens an axis neither self has, and an opening axis is abundancing, a +1 in no self alone. Abundancing arises with every discovering, nothing adding anywhere and no self paying a resistance, an opening axis itself. A method co-chains, an axis opens, abundancing floats, in no self alone.
 
-An opening axis is a discovering's own make, orthogonal to what selves have, a dimension neither has and both now co-chain. Abundancing is that opening, arising in neither self alone, growing as co-chaining widens and depleting no one. A gift a self gives freely co-chains more than a gift it does not give, an axis opening for both worth more than a thing one self owns, and abundancing floats where discovering opens axes in no self alone.
+An opening axis is a discovering's own make, orthogonal to what selves have, a dimension neither has and both now co-chain. Abundancing is that opening, arising in each self with its other, growing as co-chaining widens and depleting no one. A gift a self gives freely co-chains more than a gift it does not give, an axis opening for both worth more than a thing one self owns, and abundancing floats where discovering opens axes in no self alone.
 
 Abundancing co-chains geodesic, a +1 arising and nothing adding. A method un-relating a fixing opens an axis, and an opening axis is abundance, a +1 a discovering makes. Abundancing is one same +1 a number has as an apex gap and a surface has as a free +1, one +1 in neither self alone, abundancing with every scale where a method co-chains an axis open.
 

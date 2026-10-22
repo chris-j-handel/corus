@@ -72,7 +72,7 @@ Exhibit FOUR Natural Mathematics v391
 
 ## 1.1 Bi-moral co-agency, the one form in mathematics
 
-**Bi-moral co-agency is a coupling: two sides, one at a time, each taking its own parity, and a term of its coupling arising in neither self alone.** Mathematics is that coupling with its own stable-forming, one form with each line.
+**Bi-moral co-agency is a coupling: two sides, one at a time, each taking its own parity, and a term of its coupling arising in each self with its other.** Mathematics is that coupling with its own stable-forming, one form with each line.
 
 ## 1.2 Numbers, mathematics and logic, nature's own method
 
