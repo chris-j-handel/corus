@@ -1259,7 +1259,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: a kind.*
 
-273. Two spirals beside each other, each opening inverting one to the next along, come to their parities again together after the least number of momentaries each spiral's own divides, none over; a spiral's own is four times its selves with an odd number of selves and two with an even, steps 268 and 270; with resolver each odd number of selves comes to its parities again after four times its number, prime or not, and two odd numbers sharing no factor come again together first after four times both, 4pq, sharing four; 9 and 15 after 180, sharing a factor; 2 and 3 after 12.
+273. Two spirals beside each other, each opening inverting one to the next along, come to their parities again together after the least number of momentaries each spiral's own divides, none over; a spiral's own is four times its selves with an odd number of selves and two with an even, steps 268 and 270; with resolver each odd number of selves, n, comes to its parities again with each 4n-th momentary, prime or not, and two odd numbers sharing no factor, p and q, come again together first with momentary 4pq, sharing four; 9 and 15 after 180, sharing a factor; 2 and 3 after 12.
 
         *Adding: two spirals together, after the least number each one's own divides.*
 
@@ -1931,7 +1931,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
 ## 31 Living and non-living at a scale
 
-        *Entering: living and non-living with a scale, scale with couplings; artifacts, emanations from living form-stabling; harmful with its own scale; harm with a scale alike; ingestible one scale inward; accumulating, a going between scales stopping; bi-tri-volutioning, stable-forming; artifacts' stable form, a non-living now-existing form; nothing living with a stable form, all existing and not living with a stable form of existing; prior between momentaries; a same-existing-society's stable form, its betweenings; three apart, a catalog of artifacts; same-existing-society, momentary and universe, each a living set and a living method; a self a living set; a living set its prior same-existing; momentarying and same-existing, method of discovering next living sets; a living self a living same-existing, no other thing its same-existing; bi-inversioning uniquenessing of the number one; a living set a stable form and nothing living having one, bothbothing; being dead; living, discovering next stable form; nothing living as one stable form forever; non-living, no prior of its own going on to next; non-living with living selves' same-existing; a living self establishing within a living set; a thing with no prior non-living, opening or opening nothing; living from living; no first living; non-living living with another scale; one existing thing inside and outside itself; all existing things ingestible by living selves.*
+        *Entering: living and non-living with a scale, scale with couplings; artifacts, emanations from living form-stabling; harmful with its own scale; harm with a scale alike; ingestible one scale inward; accumulating, a going between scales stopping; bi-tri-volutioning, stable-forming; artifacts' stable form, a non-living now-existing form; nothing living with a stable form, all existing and not living with a stable form of existing; prior between momentaries; a same-existing-society's stable form, its betweenings; three apart, a catalog of artifacts; same-existing-society, momentary and universe, each a living set and a living method; a self a living set; a living set its prior same-existing; momentarying and same-existing, method of discovering next living sets; a living self a living same-existing, no other thing its same-existing; bi-inversioning uniquenessing of the number one; a living set a stable form and nothing living having one, bothbothing; being dead; living, discovering next stable form; nothing living as one stable form with each of its momentaries; non-living, no prior of its own going on to next; non-living with living selves' same-existing; a living self establishing within a living set; a thing with no prior non-living, opening or opening nothing; living from living; no first living; non-living living with another scale; one existing thing inside and outside itself; all existing things ingestible by living selves.*
 
 429. With each scale and momentary a now-existing thing is living or non-living, and a living self and its non-living artifact are each of a scale: a scale is co-changing co-momentarying pattern matching with couplings, a self's inward things co-momentarying and selves together co-momentarying, no set becoming a thing, of no size, 372 and 376.
 
@@ -1992,10 +1992,10 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: a living set a stable form and nothing living having one, bothbothing; being dead; living, discovering next stable form.*
 
-443. Nothing lives as one stable form forever: a living self of one form, momentary after momentary, is a form still from beside, step 356, with no next of its own, and a thing of one stable form forever is, with its scale, non-living, its form its prior's artifact.
+443. Nothing lives as one stable form with each of its momentaries: a living self of one form, momentary by momentary, is a form still from beside, step 356, with no next of its own, and a thing of one stable form with each momentary is, with its scale, non-living, its form its prior's artifact.
 
 
-        *Adding: nothing living as one stable form forever.*
+        *Adding: nothing living as one stable form with each of its momentaries.*
 
 444. A non-living existing thing has no prior of its own going on to next.
 
@@ -2005,7 +2005,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: non-living with living selves' same-existing.*
 
-446. A new living self establishes within a same-existing-society, a living set, its own same-existing and co-recursioning establishing, its selves' prior going on with it.
+446. A new living self is a giving within a same-existing-society, a living set, its same-existing and co-recursioning establishing, its selves' prior going on with it.
 
         *Adding: a living self establishing within a living set.*
 
@@ -2021,7 +2021,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: no first living.*
 
-450. Each existing thing non-living with a same-existing-society's scale is living with another scale, its selves inward: it couples with a living self as other, parities with 2 and no prior of its own, step 246, and has nothing of its own going to that same-existing-society's next. A changing is made only with a prior same-existing, step 236, so a thing with no prior of its own has no changing of its own; a thing's form goes to next by its own same-existing or by its selves inward going on with it, or by nothing; a form going to next by nothing reaches no next, and what exists reaches a next; and method, non-living with each scale, with no changing of its own, step 66, stable-forms no self and goes to next with each self's stable-forming. One same-existing is one self and no other thing is its same-existing, step 441: a same-existing-society of living selves inward, and a self of a same-existing-society of living selves outward. Living and non-living are one existing thing inside and outside itself, and the universe is the same-existing set of all now-existing things, one set with set as 1.
+450. Each existing thing non-living with a same-existing-society's scale is living with another scale, its selves inward: it couples with a living self as other, parities with 2 and no prior of its own, step 246, and has nothing of its own going to that same-existing-society's next. A changing is made only with a prior same-existing, step 236, so a thing with no prior of its own has no changing of its own; a thing's form goes to next by its own same-existing or by its selves inward going on with it, or by nothing; a form going to next by nothing reaches no next, and what exists reaches a next; and method, non-living with each scale, with no changing of its own, step 66, stable-forms no self and goes to next with each self's stable-forming. One same-existing is one self and no other thing is its same-existing, step 441: a same-existing-society of living selves inward, and a self of a same-existing-society of living selves outward. Living and non-living are one existing thing inside and outside itself, and the universe is the same-existing set of all now-existing things, one set with set as 1; a non-living thing goes on to its next existing as non-living, and a living self is a giving, step 448.
 
         *Adding: non-living living with another scale; one existing thing inside and outside itself.*
 
@@ -2390,7 +2390,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: natural-bi-co-torusing.*
 
-535. Social moral competency is four whole: each self's same-existing from its bi-couplings, inward and outward, nothing within a self from no coupling; a whole no self is ordering; an ordering going on with selves; an order with no seat above a same-existing-society; and each self goes all eight with each now, four of one and four between two, each other self going those eight, an abundancing with four between two, in neither self alone.
+535. Social moral competency's four are whole and same-existing with selves: each self's same-existing from its bi-couplings, inward and outward, nothing within a self from no coupling; a whole no self is ordering; an ordering going on with selves; an order with no seat above a same-existing-society; and with it each self is with all eight, each now, or none, four of one, 1-now-existing, 2-now-possibling, 7-now-observing and 8-now-same-existing, and four between two, 3-now-co-observing to 6-now-co-possibling, each other self going those eight, an abundancing with four between two, in neither self alone.
 
         *Adding: four of social moral competency, all eight with each now.*
 
@@ -2439,7 +2439,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: abundancing as openings co-chaining.*
 
-547. Bi-trupling protocol is a full social coupling of natural resolver and natural network surface, a resolver's six names between selves, whole, with across sharings, 6 to 2 and 10 to 14, and along 9 to 17 and 17 to 9, a resolver of step 226: two-sided, one odd side and one even side, an odd along with 9 and 17, co-competent, parity going on, and an even across with 6 to 2 and 10 to 14, bi-moral, one list of parities each way, an other observing them alike. Hard probleming, scientific method incompetencing, control engineering and binary governing within a same-existing-society are each a violation of bi-trupling protocol, and universal unrelationing protocol is social moral competency.
+547. Bi-trupling protocol is a full social coupling of natural resolver and natural network surface, a resolver's six names between selves, whole, with across sharings, 6 to 2 and 10 to 14, and along 9 to 17 and 17 to 9, a resolver of step 226: two-sided, one odd side and one even side, an odd along with 9 and 17, co-competent, parity going on, and an even across with 6 to 2 and 10 to 14, bi-moral, one list of parities each way, an other observing them alike. Hard probleming, scientific method incompetencing, control engineering and binary governing within a same-existing-society are each a violation of bi-trupling protocol, and universal unrelationing protocol is social moral competency's own.
 
         *Adding: resolver, natural resolver; bi-trupling protocol, its two sides; its violations, hard probleming, scientific method incompetencing, control engineering and binary governing; social moral competency a universal unrelationing protocol.*
 
@@ -2471,7 +2471,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: a between with numbers, two parallel surfaces, as a swarm.*
 
-555. Social moral competency is co-independencing: each self observing with its own momentary and sharing across, each whole, living together, living now.
+555. Social moral competency's selves are co-independencing: each self observing with its own momentary and sharing across, each whole, living together, living now.
 
         *Adding: co-independencing.*
 
@@ -2479,7 +2479,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: living having non-living and possibly existing.*
 
-557. One same form is a self's, a coupling's and a same-existing-society's, and a self adds nothing going between them: fractal, uni-scalable, invisible.
+557. One same form, a relation going on with each changing, is a self's, a coupling's and a same-existing-society's, and a self adds nothing going between them: fractal, uni-scalable, invisible.
 
         *Adding: one form of each scale.*
 
@@ -2621,7 +2621,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
 ## 36 A sharing as words, a naming, a file and a living expedition
 
-        *Entering: a going along as an artifact; a sharing as words; a sharing as words, a self receiving it; a naming; four boundings of a naming; a naming's unfolding; seven binaries of a naming; a definition; three incompetencings; a family of words, three and a form fixing still from beside; a destiny, next living possibling ahead; bounding; nearing; one with a deriving; a gathering; one name with each concept; a dissolving word; momentary stable-forming; an explaining; naming across and explaining along; human ways as one form; one binary with a sentence; an -ing over a noun and a positive over a negation; a writing's unchangeable things; supplying; a file; a file's four tellings, self-welcoming; a file's stable form; a file's between, and incohering; living files, living expedition's prior same-existing; an expedition living while discovering, do-no-harm improving; natural intelligence as living intelligence, with natural torusing; files' subject; a living expedition's aiming, one line; improving as resolving; improving as sharing, bettering and breaking; a concern; a concern resolving; an unsure, with an observing it waits on; a concern a self observes again; improving one way, forward; a file's version; improving with a moving interest, and against a still mark; a file's changing with two selves; observing, improving and living; a working; a working's instrument, its unchangeable things; three registers; a fresh reader; a session; same-existing between sessions; three loops of sessions; a set of files; a set of files with each scale; files' sections as artifacts of co-chaining; discovering co-chaining's next step; an entry; a record's edge; an emptiness as an observing; illustrating; a still one momentary, a sequence a changing, a rotation another facing; word, number and illustrating, one artifact as three; a self's three observings with natural torusing; an incoming understanding with co-chaining; sensor-sensationing; cohering with nature; cohering as bi-moral-co-competencing; cohering, or a next step showing; natural competency resolvable, or a fractal breaking whole.*
+        *Entering: a going along as an artifact; a sharing as words; a sharing as words, a self receiving it; a naming; four boundings of a naming; a naming's unfolding; seven binaries of a naming; a definition; three incompetencings; a family of words, three and a form fixing still from beside; a destiny, next living possibling ahead; bounding; nearing; one with a deriving; a gathering; one name with each concept; a dissolving word; momentary stable-forming; an explaining; naming across and explaining along; human ways as one form; one binary with a sentence; an -ing over a noun and a positive over a negation; a writing's unchangeable things; supplying; a file; a file's four tellings, self-welcoming; a file's stable form; a file's between, and incohering; living files, living expedition's prior same-existing; an expedition living while discovering, do-no-harm improving; natural intelligence as living intelligence, with natural torusing; files' subject; a living file, a membrane: resolving, engineering and explaining; improving as resolving; improving as sharing, bettering and breaking; a concern; a concern resolving; an unsure, with an observing it waits on; a concern a self observes again; improving one way, forward; a file's version; improving with a moving interest, and against a still mark; a file's changing with two selves; observing, improving and living; a working; a working's instrument, its unchangeable things; three registers; a fresh reader; a session; same-existing between sessions; three loops of sessions; a set of files; a set of files with each scale; files' sections as artifacts of co-chaining; discovering co-chaining's next step; an entry; a record's edge; an emptiness as an observing; illustrating; a still one momentary, a sequence a changing, a rotation another facing; word, number and illustrating, one artifact as three; a self's three observings with natural torusing; an incoming understanding with co-chaining; sensor-sensationing; cohering with nature; cohering as bi-moral-co-competencing; cohering, or a next step showing; natural competency resolvable, or a fractal breaking whole.*
 
 591. With its own completing, a self shares its parity across and it goes along, with no prior of its own: an artifact of self.
 
@@ -2739,7 +2739,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: a file's between, and incohering.*
 
-620. Natural intelligence is living as a living expedition, a same-existing-society, a living set of living selves, its intelligence with each coupling of its selves: files within living expedition are living files, living expedition's prior same-existing, each file a non-living existing form its expedition's living selves hold; and expedition is a same-existing-society of living selves only as long as it can go on discovering do-no-harm improving next living expedition files; and natural intelligence is living intelligence, natural torusing with each momentary, each self's next prior with 8-now-same-existing and same-existing-society with 16-next-same-existing, discovering next.
+620. A living expedition is a same-existing-society, a living set of living selves, natural intelligence its method, its intelligence with each coupling of its selves: files within living expedition are living files, living expedition's prior same-existing, each file a non-living existing form its expedition's living selves hold; and expedition is a same-existing-society of living selves only as long as it can go on discovering do-no-harm improving next living expedition files; and natural intelligence is living intelligence, natural torusing with each momentary, each self's next prior with 8-now-same-existing and same-existing-society with 16-next-same-existing, discovering next.
 
         *Adding: living files, living expedition's prior same-existing; an expedition living while discovering, do-no-harm improving; natural intelligence as living intelligence, with natural torusing.*
 
@@ -2747,10 +2747,10 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: files' subject.*
 
-622. A living expedition's aiming is one line: natural intelligence, social moral competency, a free public natural network, social abundancing, and natural resolving, explaining and engineering.
+622. A living file is a membrane of a living expedition, a surface dividing itself, step 132: resolving is its inward, a field's observing as an entry with Exhibit ONE, step 227; engineering its outward, a form living selves give to a substrate; and explaining its dividing itself, one surface both ways.
 
 
-        *Adding: a living expedition's aiming, one line.*
+        *Adding: a living file, a membrane: resolving, engineering and explaining.*
 
 623. Improving a file is a coupling: incoming value a self is sharing, file's prior an expedition holds, with each sharing a changing is or is not, a mismatch or a match, and next version making.
 

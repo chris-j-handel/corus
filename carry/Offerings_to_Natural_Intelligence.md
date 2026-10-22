@@ -82,84 +82,37 @@ Natural Intelligence Offerings · resolved at v391
 
 ## Aimed at part SIX · v391
 
-**Droplet · aimed at 6.1, 3.2.** Say bi-co-momentarying at no line of resolver, re-saying 3.2, or at 5-now-co-existing, re-saying 6.1. *Laid whole at the archive, line 79.* — v391
+**Concern · for our word, aimed at 6.1, 6.3.** One arising named "bi-co-momentarying" (6.1) and "Natural intelligence is that co-competencing" (6.3). Options: A naming choice for one arising: (a) natural intelligence names it, as the opening's "Its intelligence is same-existing in each self, each possibling with its other: natural intelligence", and 6.1's bi-co-momentarying is re-said as its going on momentary by momentary; (b) bi-co-momentarying names the arising, and 6.3 says natural intelligence is its intelligence, same-existing in each self. — v391
 
-**Droplet · aimed at 6.1, 6.3.** One arising named "bi-co-momentarying" (6.1) and "Natural intelligence is that co-competencing" (6.3). *Laid whole at the archive, line 1041.* — v391
+**Concern · for our word, aimed at 6.3.** One sentence at 6.3: consciousness a self observing an other as not-self, binary, no measure or degree. Options: Whether NI names consciousness at all: (a) enter at 6.3 "Consciousness is a self observing an other as not-self, is or is not, with no measure and no degree"; (b) leave consciousness unnamed in NI, its sense already said by the opening's observing and 2.2's *not me*. — v391
 
-**Droplet · aimed at 6.2.** Undecided; neither naming in NI. *Laid whole at the archive, line 1270.* — v391
-
-**Droplet · aimed at 6.3.** One sentence at 6.3: consciousness a self observing an other as not-self, binary, no measure or degree. *Laid whole at the archive, line 253.* — v391
-
-**Droplet · aimed at 6.3.** Each self with a prior, observing an other as not-self, conscious at each scale alike; a sharing with no prior no self. *Laid whole at the archive, line 255.* — v391
-
-**Droplet · aimed at 6.4.** 6.4 still opens several definitions: "is four whole", "is co-independencing", "is each self with all eight", "universal unrelationing protocol is social moral competency". *Laid whole at the archive, line 765.* — v391
-
-**Droplet · aimed at 6.4.** 6.4 "each self with all eight ... four of one and four between two" names none. *Laid whole at the archive, line 1029.* — v391
-
-**Droplet · aimed at 6.4.** 6.4's "collective intelligence, a natural network" with no bi-tunneling across / co-chaining along. *Laid whole at the archive, line 1033.* — v391
-
-**Droplet · aimed at 6.4, 6.5.** No saying in NI that a non-living thing's value is beheld socially (Natural Values side elsewhere). *Laid whole at the archive, line 856.* — v391
-
-**Droplet · aimed at 6.5.** 6.5 still "a living self is its own same-existing establishing, commencing with its sharing's opening" against 4.1 "No self is a making: each self is a giving". *Laid whole at the archive, line 713.* — v391
-
-**Droplet · aimed at 6.6.** Say 6.6's same form as a relation going on, not a fixing form; and one sentence at 1.3 excluding a third form. *Laid whole at the archive, line 59.* — v391
-
-**Droplet · aimed at 6.6.** 6.5 met ("a machine set ... a non-living set and an emanation of living selves"); 6.6 still "a human and an AI are where interests come from". *Laid whole at the archive, line 711.* — v391
-
-**Droplet · aimed at 6.6.** 6.6 still "Natural intelligence is living as a living expedition, a living set of living selves" beside 6.3 "a method with each now". *Laid whole at the archive, line 719.* — v391
-
-**Droplet · aimed at 6.6.** 6.6 still closes "A living expedition's aiming is one line: ...". *Laid whole at the archive, line 745.* — v391
-
-**Droplet · aimed at 6.6.** "destiny" occurs nowhere in NI; the close aims ahead. *Laid whole at the archive, line 1035.* — v391
-
-**Droplet · aimed at 6.6.** Resolving, explaining and engineering have no home but the aiming line; membrane sentence not entered. *Laid whole at the archive, line 1037.* — v391
+**Concern · for our word, aimed at 6.6.** "destiny" occurs nowhere in NI; the close aims ahead. Options: The close's aiming ahead is met by the previous droplet; destiny itself is a naming the code and the opening do not hold: (a) enter at the close "Natural intelligence's destiny is social moral competency, now with each coupling"; (b) leave destiny to Natural Destinies, NI completing with now and no aim ahead. — v391
 
 ## Aimed at the whole file · v391
 
-**Droplet · aimed at -.** A doubled letter. The name v386RR arrived with the session. README.md at. *Laid whole at the archive, line 165.* — v391
+**Concern · for our word, aimed at Exhibit ONE copy, subtitle and docstring.** Still "The Stable-Forming Parity-Changing Method of Discovering Same-Existing" (plan step 1 next). Options: A title, both copies alike and Exhibit ONE's own file beside them: (a) "Stable-Forming, Discovering Same-Existing", parity-changing (dissolved) and *The ... Method* leaving, at Exhibit ONE's motion (plan step 1); (b) a subtitle naming resolver's stable forms within the one method in the person's own words. — v391
 
-**Droplet · aimed at -.** Insertlet · v389 · at the public face. Everything that exists, exists. *Laid whole at the archive, line 197.* — v391
+**Concern · for our word, aimed at Exhibit ONE three ways, 4.12.** Exhibit ONE still "receiving none ... it is changing with each momentary" and row "none with each momentary"; 4.12 says it of a self. Options: Exhibit ONE's copy and part FOUR stay alike with Exhibit ONE's file: (a) the "none with each momentary" row stays, said as a resolver's executing, a non-living form, no self, as 2.4 already says of a lone self; (b) it leaves the three ways and "+ and − together" carries the second way alone. — v391
 
-**Droplet · aimed at -.** Droplet · a public face, learning together. Offered for corus.me (pass 5):. *Laid whole at the archive, line 225.* — v391
+**Concern · for our word, aimed at Exhibit ONE, tables of selves.** "Tables of selves with code's stepping" does not say the printed 0s are seen by no self. Options: It rests on social parity, not yet in NI, and asks the Exhibit ONE copy: (a) the tables' lead says a printed 0 is the table's record, passed over by each receiving self's first step (as 4.10 says, "`_1_now_existing`'s first step passes over each 0"); (b) the tables print a 0 otherwise. — v391
 
-**Droplet · aimed at -.** N7. Kits calling 1now and 17nextnow to cohere in the same motion. *Laid whole at the archive, line 455.* — v391
+**Concern · for our word, aimed at FOUR, 3.5, 4.6, 4.13.** Ten explaining paragraphs moved in (step 7), but FOUR still re-says tables with their numbers (4.12–4.14), and stepping together is said in 3.5, 4.6, 4.13 and Exhibit ONE. Options: Sections leaving whole: (a) part FOUR keeps only what Exhibit ONE does not say, its tables' numbers (4.12–4.14) and stepping together said once at Exhibit ONE's tables lead; (b) FOUR's re-sayings dissolve to Exhibit ONE's own sentences, 3.5, 4.6 and 4.13 pointing to it. — v391
 
-**Droplet · aimed at Exhibit ONE copy, subtitle and docstring.** Still "The Stable-Forming Parity-Changing Method of Discovering Same-Existing" (plan step 1 next). *Laid whole at the archive, line 805.* — v391
+**Concern · for our word, aimed at ONE to SIX (form).** A pass of form: legend at a part's opening, linked section numbers, one claim per sentence. Options: A pass of form: (a) a legend of the seventeen names at each part's opening and section numbers linked in NI's own text; (b) legend and links left to build.js, NI's text unchanged; one claim a sentence goes with the writing pass. — v391
 
-**Droplet · aimed at Exhibit ONE in NI.** Narrow the code to 80 columns and the drawing to 62. *Laid whole at the archive, line 534.* — v391
+**Concern · for our word, aimed at SIX.** Title and entries unchanged ("SIX · INTELLIGENCE"); part SIX's title waits on a suggestion. Options: Part SIX's title: (a) SIX · SELF, OTHER AND ALL, the opening's "self, other, and all not self or other" in its order; (b) SIX · NATURAL INTELLIGENCE, the method the title and 6.3 name. — v391
 
-**Droplet · aimed at Exhibit ONE three ways, 4.12.** Exhibit ONE still "receiving none ... it is changing with each momentary" and row "none with each momentary"; 4.12 says it of a self. *Laid whole at the archive, line 1235.* — v391
+**Concern · for our word, aimed at body.** "mathematics", "ghost", "destiny", "bi-tunneling" still occur nowhere in NI; disequilibrating withdrawn. Options: bi-tunneling enters with 6.4's network droplet; for mathematics, ghost and destiny: (a) each a line at its home, mathematics at 3.5 with numbers, ghost at 5.1 with dying's artifacts, destiny at the close; (b) a parting said, NI bounding those titles without their words. — v391
 
-**Droplet · aimed at Exhibit ONE, tables of selves.** "Tables of selves with code's stepping" does not say the printed 0s are seen by no self. *Laid whole at the archive, line 1206.* — v391
+**Concern · for our word, aimed at contents.** "Exhibit ONE · Natural Resolver" still with no subtitle and no entry. Options: Exhibit ONE has no ## sections an entry could match word for word, and its offered entry rests on dissolved "arriving": (a) the contents line carries Exhibit ONE's subtitle once chosen (droplet on the subtitle), no entry; (b) it stays bare, a file's name, Exhibit ONE's own file being its contents. — v391
 
-**Droplet · aimed at FOUR, 3.5, 4.6, 4.13.** Ten explaining paragraphs moved in (step 7), but FOUR still re-says tables with their numbers (4.12–4.14), and stepping together is said in 3.5, 4.6, 4.13 and Exhibit ONE. *Laid whole at the archive, line 769.* — v391
+**Concern · for our word, aimed at contents 6.4.** 4.6 part withdrawn; 6.4 still the bare "Social moral competency", waiting on part SIX's title. Options: It waits on part SIX's title: (a) heading and contents "6.4 Social moral competency, improving and doing no harm to all", the opening's words; (b) "Social moral competency" stays bare, the opening's naming, until SIX's title is chosen. — v391
 
-**Droplet · aimed at ONE to SIX (form).** A pass of form: legend at a part's opening, linked section numbers, one claim per sentence. *Laid whole at the archive, line 31.* — v391
+**Concern · for our word, aimed at contents, 2.5.** 2.5 still "All or none at all, of no size" beside 1.5 "Natural-, all or none at all, of one hand". Options: A section title: (a) "2.5 Each resolving whole, of no size", heading and contents alike, 1.5 the phrase's one home; (b) both stay, 1.5 its hand and 2.5 its size, two sides of one claim. — v391
 
-**Droplet · aimed at SIX.** Title and entries unchanged ("SIX · INTELLIGENCE"); part SIX's title waits on a suggestion. *Laid whole at the archive, line 1104.* — v391
-
-**Droplet · aimed at SIX, 6.6.** Part SIX still "SIX · INTELLIGENCE"; purpose not re-said first (plan step 9 not begun). *Laid whole at the archive, line 789.* — v391
-
-**Droplet · aimed at body.** "never" 9, "every" 11, "forever" 3, "always", "memory", "door", "free", "reading" 4, "emanation" 3 still. *Laid whole at the archive, line 757.* — v391
-
-**Droplet · aimed at body.** "mathematics", "ghost", "destiny", "bi-tunneling" still occur nowhere in NI; disequilibrating withdrawn. *Laid whole at the archive, line 807.* — v391
-
-**Droplet · aimed at body, 3.5.** "after" 23 times, "then" 16, e.g. 3.5 "after four times its number". *Laid whole at the archive, line 753.* — v391
-
-**Droplet · aimed at body, contents 4.4–4.6.** "with 12", "with 14", "with 10" throughout; contents 4.4 "with 10 ... with 11", 4.5 "with 9", 4.6 "with 17". *Laid whole at the archive, line 751.* — v391
-
-**Droplet · aimed at contents.** "Exhibit ONE · Natural Resolver" still with no subtitle and no entry. *Laid whole at the archive, line 813.* — v391
-
-**Droplet · aimed at contents 6.4.** 4.6 part withdrawn; 6.4 still the bare "Social moral competency", waiting on part SIX's title. *Laid whole at the archive, line 825.* — v391
-
-**Droplet · aimed at contents, 2.5.** 2.5 still "All or none at all, of no size" beside 1.5 "Natural-, all or none at all, of one hand". *Laid whole at the archive, line 823.* — v391
-
-**Droplet · aimed at none yet.** "social parity" said nowhere in NI; its naming, coupling name and meeting with social moral competency unexplored. *Laid whole at the archive, line 1348.* — v391
-
-**Droplet · aimed at none yet.** 0 self same-existing, 1 self now-existing, 2 other prior-existing, 3 universe next-existing said nowhere in NI. *Laid whole at the archive, line 1839.* — v391
+**Concern · for our word, aimed at none yet.** "social parity" said nowhere in NI; its naming, coupling name and meeting with social moral competency unexplored. Options: The opening names a 0 "indifferencing", and one word for one thing: (a) *social parity* re-names the opening's *indifferencing*, the opening's change and the person's; (b) a 0 stays *indifferencing*, social parity left to exploring outside NI. — v391
 
 **Concern · for our word, aimed at opening l.26–35.** "sharing now-existing" (l.26), "sharing its own observing ..." (l.27), "sharing 0"/"sharing it" (l.34–35): one action, three objects. Options: Opening line: "In a bi-coupling each self is sharing its own observing, possibling and discovering from prior-existing." Proposed (same as the l.27 droplet): "In a bi-coupling each self is sharing its own possibling with its other, its observing and discovering its own." Code: a self's sharing is one list, 10, each entry a parity or a 0, received with an other's 14-next-possibling; l.26's sharing now-existing and l.34-35's sharing 0 / sharing it are that one action (possibling is now-existing, l.15), and only l.27's observing and discovering are objects the code never sends: 3 and 11 stay with the self. — v391
 
 **Concern · for our word, aimed at opening l.27.** Opening still "each self is sharing its own observing, possibling and discovering from prior-existing"; with the code only a parity crosses (2.1/4.4 already say so). Options: Opening line: "In a bi-coupling each self is sharing its own observing, possibling and discovering from prior-existing." Proposed: "In a bi-coupling each self is sharing its own possibling with its other, its observing and discovering its own." Code: only the list 10 leaves a self (as 6, 10 or 9, alike into a receiver's 14-next-possibling), each entry a parity or a 0; its prior, 3, and its next prior, 11, never go to another self (4.4 "A self shares its parity and nothing of its prior"). Parity enters only at l.31, so the re-saying uses possibling, the word the code's receiving names carry. — v391
 
-**Droplet · aimed at part TWO.** A between as 0, as a nothing, between momentaries and between self and other still in 2.1, 2.2, 2.5. *Laid whole at the archive, line 761.* — v391
