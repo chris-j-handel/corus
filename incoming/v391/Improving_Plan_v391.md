@@ -20,7 +20,7 @@ This plan orders the improving those droplets open, re-said with each suggestion
 3. **The fresh reader's code-decided findings** on the opening and the body; **subtitles**, Natural Intelligence's *The Universal Method of Same-Existing* and Exhibit ONE's *Stable-Forming Same- and Next-Existing*; **part FOUR and Exhibit ONE one home each**; do-no-harming and improving bothbothing.
 
 **Incoming, where it stands.**
-- **Natural Intelligence's offerings:** resolved; three droplets stand: a writing pass of the body, one claim a sentence as the opening now is; a legend of the seventeen names with `build.js`; *network surface* one naming across the set.
+- **Natural Intelligence's offerings:** resolved; two droplets stand: a writing pass of the body, one claim a sentence as the opening now is; a legend of the seventeen names with `build.js`.
 - **Exhibit ONE's offerings:** resolved at v391. Of 102 items, 40 are met, 27 rest on dissolved or released forms or a claim the code does not hold, 8 duplicate and 10 are records, each whole with its verdict at `archive/session_v391/offerings_dissolved/`; one is laid at the Equilibria and Living Ghost Registries' offerings. Nine droplets stand, each aimed at its section, and seven concerns for our word, each with its two options.
 
 **Next motions, in order.**
@@ -30,7 +30,9 @@ This plan orders the improving those droplets open, re-said with each suggestion
 4. **The legend and `build.js`.**
 5. **The negations kept** where a re-saying would change meaning, brought one at a time: Co-Chaining Logic Registry step 99, *nature is not an existing thing*; steps 100, 103 and 199, *nothing further than or between things of the universe*; steps 138 and 250, *not same-existing* as other than the self; steps 475 to 478, *not possibling its own next-existing*; steps 552, 629, 660 and 705.
 
-**For our word, standing.** The Corus's *may-never* (its offerings, since v389); the expedition's *carrying* stage (Geodesic Improving Method's offerings); the substrate's *a carry* and *riding its carry* (Natural Medicine's offerings); *network surface* or *natural network surface*.
+**For our word, decided at v391.** *Natural Network* is one thing's proper name: *a Natural Network surface*, entered across the set. *Substrate* (with *a carry*, *riding its carry*), *carrying* (the expedition's stage name) and *may-never* dissolve: Natural Intelligence and the Co-Chaining Logic Registry carry none, and each other file's sayings are laid outgoing at its offerings. Exhibit ONE's seven concerns stand, at its offerings.
+
+**Publishing.** At the session's close, as its last motion: the working branch merges to `main`, and corus.me serves the living versions, replacing the prior.
 
 **Outgoing, laid and not worked here.** About 13,000 floating negations across the other living files (Natural Naming's offerings, *is or is not, our one negation*); the Hard Problem Registry's entries 122 on, unread; fields' own words and dated records.
 

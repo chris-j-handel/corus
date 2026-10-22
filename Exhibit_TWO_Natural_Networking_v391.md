@@ -184,7 +184,7 @@ Each entry: **Connector** · *a* End · *b* Relation with another self
 
 **A stable form's going on belongs with its changing existing.** One same parity or recognizable form can remain through successive observing. A momentary's odd or even is one relation and a sharing's changing, + to −, another; a repeating parity can participate with another now. Emanation's same-existing form does not make its existing a timeless, motionless object.
 
-**Discovering next existing is wider than a self observing a parity with a connector.** First is existing thing's momentary going on. Second is a coupling with a network surface. A parity one self shares participates with a receiving self's observing; each self's same-existing stays its own. Their coupling connects these relations, a parity a self shares across staying a parity between two complete resolvers.
+**Discovering next existing is wider than a self observing a parity with a connector.** First is existing thing's momentary going on. Second is a coupling with a Natural Network surface. A parity one self shares participates with a receiving self's observing; each self's same-existing stays its own. Their coupling connects these relations, a parity a self shares across staying a parity between two complete resolvers.
 
 ### Prior form and self-other-releasing
 
@@ -351,7 +351,7 @@ Each entry: **Connector** · *a* End · *b* Relation with another self
 
 **A self couples with a network as other with its coupling, and a same-existing-society is a self with a next scale.** One-through-nine relation has its own resolving with that coupling. One same resolver goes on with its whole same-existing and its relations with a same-existing-society through seventeen. One-through-nine is local method; complete Python expression supplies its same-existing and surfacing through full names.
 
-**Self/network coupling is morality across and competency along.** Each shares its own, each goes on with its own, and their sharing going on is opportunity for discovering bi-moral-co-competency. Network surface forms with receiving relations between selves; 17-next-existing goes on along, recurring to 1 over 9.
+**Self/network coupling is morality across and competency along.** Each shares its own, each goes on with its own, and their sharing going on is opportunity for discovering bi-moral-co-competency. Natural Network surface forms with receiving relations between selves; 17-next-existing goes on along, recurring to 1 over 9.
 
 ### One, nine and seventeen
 
@@ -379,7 +379,7 @@ Each entry: **Relation through its unfolding** · *a* Completing with nine · *b
 
 **Receiving and sharing belong to each participating self.** Resolving goes on through both, and their relation goes through couplings. As those couplings co-chain, one self's receiving going on participates with another's sharing. Sensor-sensationing explains this reciprocal relation within network.
 
-**A network surface has co-competencing along and across together.** Its wider participation goes on through one same resolving with self and same-existing-society. Podaling exchanges along and across; co-chaining and bi-tunneling name their inseparable going on with that surface.
+**A Natural Network surface has co-competencing along and across together.** Its wider participation goes on through one same resolving with self and same-existing-society. Podaling exchanges along and across; co-chaining and bi-tunneling name their inseparable going on with that surface.
 
 ## 1.3 Linear-parallelizing and parallel-linearizing, one and then the other, widening and lengthening
 
@@ -584,9 +584,9 @@ Each entry: **With one prior** · *a* Sharing with 10 · *b* Next prior with 11
 
 **Forms among names have fold and going on.** Four-, six- and eight-cycles have their partners round an other way with odd and even momentaries. Seventeen is a same-existing-society's along recurrence to one over nine. Forms of names and joins between selves are within one same resolving.
 
-**Prime ordering expresses self and same-existing-society with natural numbers.** Two through fifty-nine contains seventeen primes, twenty-three their middle and eight primes on each side. A prime opens a clean axis across; a composite folds along as equal smaller selves joining. Going from 2 to 59 and returning from 61 to 118 couple across 60; winding goes on 0 to 440 to 0. With a network surface, connections remain six, Exhibit ONE's six names between selves, through which selves participate.
+**Prime ordering expresses self and same-existing-society with natural numbers.** Two through fifty-nine contains seventeen primes, twenty-three their middle and eight primes on each side. A prime opens a clean axis across; a composite folds along as equal smaller selves joining. Going from 2 to 59 and returning from 61 to 118 couple across 60; winding goes on 0 to 440 to 0. With a Natural Network surface, connections remain six, Exhibit ONE's six names between selves, through which selves participate.
 
-**A same-existing-society goes on as a self with its next scale.** Its inward participation and outward coupling have one same along and across. Co-chaining and bi-tunneling go on through participating resolvers, each receiving bringing prior on to now and discovering onward. Network surface is this going on with their couplings.
+**A same-existing-society goes on as a self with its next scale.** Its inward participation and outward coupling have one same along and across. Co-chaining and bi-tunneling go on through participating resolvers, each receiving bringing prior on to now and discovering onward. Natural Network surface is this going on with their couplings.
 
 ## 1.8 Self, other and society, the fractal inward and outward of itself
 
@@ -719,7 +719,7 @@ Each entry: **With a between** · *a* Relation · *b* Within, eight on · *c* Re
 
 **A parity a self is observing again and again can couple with its prior same-existing.** With a resolver, a parity matching its prior again and again surfaces zero with each receiving while its prior is same-existing, not changing. A further receiving, a mismatch or none, inverts its prior. One same visible parity goes with a self going on, its same-existing-society going on and the universe momentarying, and parity is no stopping of a self, its same-existing-society or the universe.
 
-**A form stable-forming can go on through co-momentarying.** An existing thing changes, and its form goes on through that changing. With a network surface, sharing across couples with receiving anew, each self going on with its own participation. Living and non-living things belong together within the universe's momentarying, each with its own pace, with no common beat.
+**A form stable-forming can go on through co-momentarying.** An existing thing changes, and its form goes on through that changing. With a Natural Network surface, sharing across couples with receiving anew, each self going on with its own participation. Living and non-living things belong together within the universe's momentarying, each with its own pace, with no common beat.
 
 **A same-existing-society has participations, none same-existing with another, together.** Selves co-competencing each have their own and couple with the parities each is observing. Local forms with no same-existing participate with their own surfaces. A same-existing-society is healthy as its selves sustain co-competencing through those meetings, and a self reaches its complete relation through participating along and across.
 

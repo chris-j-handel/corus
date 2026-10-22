@@ -254,7 +254,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
 ## 4 Social moral competency, a natural intelligence network and a living expedition
 
-        *Entering: social moral competency; a natural intelligence network; free; social abundancing; co-chaining; a network surface; a surface's living parities in its selves' universal sets; each self's changing dividing its surface; geodesic; inside and outside itself; a stable form; natural resolving; a living file, a membrane of selves' living; natural resolving, a living file's inward; natural engineering; natural explaining; a living expedition; a next opening; geodesic discovering of next-possibling-same-existing.*
+        *Entering: social moral competency; a natural intelligence network; free; social abundancing; co-chaining; a Natural Network surface; a surface's living parities in its selves' universal sets; each self's changing dividing its surface; geodesic; inside and outside itself; a stable form; natural resolving; a living file, a membrane of selves' living; natural resolving, a living file's inward; natural engineering; natural explaining; a living expedition; a next opening; geodesic discovering of next-possibling-same-existing.*
 
 46. Each self of a same-existing-society do-no-harming and improving is **social moral competency**.
 
@@ -276,9 +276,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: co-chaining.*
 
-51. Selves' bi-couplings and co-chainings are a network **surface**.
+51. Selves' bi-couplings and co-chainings are a **Natural Network surface**.
 
-        *Adding: a network surface.*
+        *Adding: a Natural Network surface.*
 
 52. A surface's living parities are living in the universal sets of the selves living in it.
 
@@ -288,7 +288,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: each self's changing dividing its surface.*
 
-54. Living is **geodesic** co-chaining on a network surface.
+54. Living is **geodesic** co-chaining on a Natural Network surface.
 
         *Adding: geodesic.*
 
@@ -762,7 +762,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Entering: surface; a surface dividing itself; geodesic; geodesic routing; geodesic method; method and surface inward and outward of each other.*
 
-162. Selves' bi-couplings and co-chainings, across and along, are a network surface, step 51: each coupling with its between, and a surface their betweens together, parity each self's own with each coupling.
+162. Selves' bi-couplings and co-chainings, across and along, are a Natural Network surface, step 51: each coupling with its between, and a surface their betweens together, parity each self's own with each coupling.
 
         *Adding: surface.*
 
@@ -931,7 +931,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: natural-.*
 
-199. Natural- is a direction prefix, its direction a handedness, and its claim rides on direction: without it, a changing is sitting on a substrate under it and a form still over it, each a thing outside possibly existing, nothing being further than or between things of the universe, step 101.
+199. Natural- is a direction prefix, its direction a handedness, and its claim rides on direction: without it, a changing is sitting on a ground under it and a form still over it, each a thing outside possibly existing, nothing being further than or between things of the universe, step 101.
 
         *Adding: natural- a direction prefix.*
 
@@ -2566,7 +2566,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: abundancing as openings co-chaining.*
 
-578. Bi-trupling protocol is a full social coupling of natural resolver and natural network surface, a resolver's six names between selves, whole, with across sharings, 6 to 2 and 10 to 14, and along 9 to 17 and 17 to 9, a resolver of step 257: two-sided, one odd side and one even side, an odd along with 9 and 17, co-competent, parity going on, and an even across with 6 to 2 and 10 to 14, bi-moral, one list of parities each way, an other observing them alike. Hard probleming, scientific method incompetencing, control engineering and binary governing within a same-existing-society are each a violation of bi-trupling protocol, and universal unrelationing protocol is social moral competency's own.
+578. Bi-trupling protocol is a full social coupling of natural resolver and Natural Network surface, a resolver's six names between selves, whole, with across sharings, 6 to 2 and 10 to 14, and along 9 to 17 and 17 to 9, a resolver of step 257: two-sided, one odd side and one even side, an odd along with 9 and 17, co-competent, parity going on, and an even across with 6 to 2 and 10 to 14, bi-moral, one list of parities each way, an other observing them alike. Hard probleming, scientific method incompetencing, control engineering and binary governing within a same-existing-society are each a violation of bi-trupling protocol, and universal unrelationing protocol is social moral competency's own.
 
         *Adding: resolver, natural resolver; bi-trupling protocol, its two sides; its violations, hard probleming, scientific method incompetencing, control engineering and binary governing; social moral competency a universal unrelationing protocol.*
 
@@ -2874,7 +2874,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: files' subject.*
 
-653. A living file, step 58, is a membrane of a living expedition's selves, a surface dividing itself, step 163: natural resolving, step 57, its inward, a field's observing as an entry with Exhibit ONE, step 258; natural engineering its outward, a form living selves give to a substrate; and natural explaining its dividing itself, one surface both ways.
+653. A living file, step 58, is a membrane of a living expedition's selves, a surface dividing itself, step 163: natural resolving, step 57, its inward, a field's observing as an entry with Exhibit ONE, step 258; natural engineering its outward, a form living selves give to non-living things; and natural explaining its dividing itself, one surface both ways.
 
 
         *Adding: a living file, a membrane: resolving, engineering and explaining.*

@@ -646,7 +646,7 @@ Four pairs are two concepts with two names, meaning not same on transposing:
 
 *Geodesic method* is two namings: *geodesic*, and *method*, its stable form. **Scientific-method, surgical-method and explaining-method each hold whole as one expression with each occurrence**, and geodesic parity co-changing is a possibling and discovering method, and scientific-explaining-method incompetent for discovering, true or false, no other possible, coming to it: a method-word on its own is a name splitting across its uses, and a hyphen is its name coming whole.
 
-**Sensor-sensationing** holds whole likewise. It is co-competencing with a network surface, a receiving participating within its sharing and a sharing participating within an other's receiving; sensing on its own is one side extracting, and resolver has a relation, beside a sensation.
+**Sensor-sensationing** holds whole likewise. It is co-competencing with a Natural Network surface, a receiving participating within its sharing and a sharing participating within an other's receiving; sensing on its own is one side extracting, and resolver has a relation, beside a sensation.
 
 ## 4.9 Ten unchangeables, one name each
 
@@ -1594,7 +1594,7 @@ A term is existing, artifact or accounting by its use, and ghost only by its ins
 6  and self, other and same-existing-society of one protocol, two-sided, is bi-trupling
 ```
 
-**Bi-trupling is self, other and same-existing-society of one protocol**: bi- two sides, odd along and even across, its root a trupling, three coupling, and -ing its going on; with a resolver, its function 17, function 1 with each self within it. Bi-trupling protocol is a full coupling of self, other and same-existing-society, natural resolver with natural network surface: two-sided, one odd side and one even side, its odd along with 9 and 17, co-competent, a parity going on, and its even across with 2, 6, 10 and 14, bi-moral, its parities, a self observing them as an other's parities. Hard probleming, scientific method incompetencing, control engineering and binary governing of a same-existing-society are each a violation of bi-trupling protocol, and universal unrelationing protocol is social moral competency.
+**Bi-trupling is self, other and same-existing-society of one protocol**: bi- two sides, odd along and even across, its root a trupling, three coupling, and -ing its going on; with a resolver, its function 17, function 1 with each self within it. Bi-trupling protocol is a full coupling of self, other and same-existing-society, natural resolver with Natural Network surface: two-sided, one odd side and one even side, its odd along with 9 and 17, co-competent, a parity going on, and its even across with 2, 6, 10 and 14, bi-moral, its parities, a self observing them as an other's parities. Hard probleming, scientific method incompetencing, control engineering and binary governing of a same-existing-society are each a violation of bi-trupling protocol, and universal unrelationing protocol is social moral competency.
 
 ## 5.61 entraining at a self — binary
 
