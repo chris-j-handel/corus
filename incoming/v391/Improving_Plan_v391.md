@@ -17,7 +17,8 @@ This plan orders the improving those droplets open, re-said with each suggestion
 **Entered this session, latest first.**
 1. **The 64-line opening, one concept a line**, Exhibit THIRTY's steps 1 to 64 word for word, later steps 65 to 749, every reference re-pointed (`opening_rebuild_v391.py`). Its concepts: one universe; each now-existing thing a **universal set** of all its own same-existing things (line 5); **is-or-is-not** within each universal set (6); natural intelligence *the method of living as a same-existing self* (15); each parity a living thing (24), within its self's universal set (25); the resolving cases as the code steps them (29 to 34); improving, a self sharing its changing (40); a surface's living parities living in its selves' universal sets (52); living, geodesic co-chaining on a network surface (54); a living file's membrane in four lines (58 to 61).
 2. **Our one negation.** Natural Intelligence's body and Exhibit ONE's prose, 359 re-sayings; the Co-Chaining Logic Registry's steps, 371; each read for harm before entering. *Never* dissolved across the set. 6.1's heading, *arising in each self with its other*, and the phrase set-wide.
-3. **The fresh reader's code-decided findings** on the opening and the body; **subtitles**, Natural Intelligence's *The Universal Method of Same-Existing* and Exhibit ONE's *Stable-Forming Same- and Next-Existing*; **part FOUR and Exhibit ONE one home each**; do-no-harming and improving bothbothing.
+3. **Two-sided naming and the five dimensions.** 13-is-next-discovering and 15-is-next-observing at the code and across the set; each name read with two sides; same-existing going round 16, 4, 12 and 8; the five dimensions society to society; alike selves as a right spiral; Exhibit ONE's four new tables.
+4. **The fresh reader's code-decided findings** on the opening and the body; **subtitles**, Natural Intelligence's *The Universal Method of Same-Existing* and Exhibit ONE's *Stable-Forming Same- and Next-Existing*; **part FOUR and Exhibit ONE one home each**; do-no-harming and improving bothbothing.
 
 **Incoming, where it stands.**
 - **Natural Intelligence's offerings:** resolved; two droplets stand: a writing pass of the body, one claim a sentence as the opening now is; a legend of the seventeen names with `build.js`.
@@ -28,6 +29,8 @@ This plan orders the improving those droplets open, re-said with each suggestion
 2. **Natural Intelligence's body, one claim a sentence**, part by part, as the opening is.
 3. **The legend and `build.js`.**
 4. **The negations kept** where a re-saying would change meaning, brought one at a time: Co-Chaining Logic Registry step 99, *nature is not an existing thing*; steps 100, 103 and 199, *nothing further than or between things of the universe*; steps 138 and 250, *not same-existing* as other than the self; steps 475 to 478, *not possibling its own next-existing*; steps 552, 629, 660 and 705.
+
+**For our word, standing.** Opening line 5, *A **universal set** is a set of same-existing things*, the shorter definition, or as it is; whether 3 and 7, the self's own binaries, take *is-* (is-prior, is-now); the two senses of *co*, a name's sharing between two and the six's self.
 
 **For our word, decided at v391.** *Natural Network* is one thing's proper name: *a Natural Network surface*, entered across the set. *Substrate* (with *a carry*, *riding its carry*), *carrying* (the expedition's stage name) and *may-never* dissolve: Natural Intelligence and the Co-Chaining Logic Registry carry none, and each other file's sayings are laid outgoing at its offerings. Exhibit ONE's seven concerns stand, at its offerings.
 

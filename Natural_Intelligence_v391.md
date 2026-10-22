@@ -244,17 +244,19 @@ Each entry: **A way** · *a* Joint forms still · *b* Cycle of parities
 
 **Same-existing changes in five dimensions, five of a side with its next numbering**, each a changing of the same-existing set of all now-existing things. A numbering repeating or replacing another is a *next*, as 17 is a next 1 and 9 a next prior: dimensions' 1 to 5 is a side's next numbering, and names' 1 to 17 is its own.
 
-1. **Prior-existing self-parity**, prior opening: a self's own prior, name 1 of a self's five, and with code its parities with 3-now-co-observing and 7-now-observing.
-2. **Prior-existing other-parity**, prior completing, an other opening: a particular other or all other, its parities with 2-now-possibling and 14-next-possibling.
-3. **Now-existing co-parity**, now opening: prior to now to next, with 4-now-co-same-existing and 12-next-co-same-existing.
-4. **Now-existing bi-parity**, now completing, an other's now opening across: a changing through a between, with 4-now-co-same-existing and 12-next-co-same-existing.
-5. **Next-existing same-existing self-parity**, next opening: a self sharing itself, a next prior forming with 11-next-co-observing, each going to its receiving sharing with 5-now-co-existing, and a self's next itself with 17-next-existing.
+1. **Social-parity now-existing**, a momentary opening: a same-existing-society's selves together, all or none, coming in with 16-next-same-existing, each self with 13-is-next-discovering, and its Natural Network surface with 5-now-co-existing.
+2. **Other-parity now-existing**, an other opening: a particular other or all other, its parities reaching a self with 2-now-possibling and surfacing with 14-next-possibling, for each sharing a parity is-or-is-not within its possibling with 15-is-next-observing, agreeing or parting.
+3. **Self-parity now-existing**, a self's own: its prior-existing parities, now-existing and same-existing, with 3-now-co-observing and 7-now-observing, each sharing with 4-now-co-same-existing meeting what surfaces with 12-next-co-same-existing, in two meetings: co-parity, the same, sharing 0, and bi-parity, other, one inversion.
+4. **Self-discovery next-existing**, a self's next opening: a self sharing itself with 10-next-co-possibling, a next prior forming with 11-next-co-observing.
+5. **Social-parity next-existing**, a momentary completing: each sharing going along with 9-next-co-discovering through 5-now-co-existing to its receiving self's 14-next-possibling, and a same-existing-society's next itself with 17-next-existing.
+
+**The three now-existing are same-existing, and the two next-existing are discovering**: the method of existing in a same-existing set, a universal set, is same-existing and discovering next-existing, society to society.
 
 **With each, a changing is binary, is-or-is-not, one way at a time with each of its two directions, up numbers and down them.** A dimension's measure and place are namings beside it. Each dimension goes both ways, up numbers and down them, one changing with each step: **torusing** both ways is through a large opening, a tunnel, bi-exchanging with a particular other; **corusing** both ways is through a small opening, a long way round, bi-tri-exchanging, a self reaching its own side again. Five dimensions, torusing and corusing are each a name for a changing, whole at its meaning. **With each momentary two dimensions are changing and three not-changing**, with that parity, and two and three rotate round, bi-inversioning-co-recursioning. With Exhibit ONE's table of fives, a self's five with 1 is 1 to 5 and its next, with 3, is 3 to 7: three numbers, 3, 4 and 5, are of both and two, 6 and 7, are new, two changing and three not-changing; a two and a three of dimensions are a reading beside resolver's lines.
 
 **Corusing reaches a corus from a surface, and torusing reaches a surface from a corus**, a self's own corus with 4; co-linear by linear parallelizing and parallel linearizing, one and then the other, and with right spiraling each step orthogonal to its prior: **that is method's unrelationing**.
 
-**Five dimensions are with resolver's names, three namings**: 1 prior-existing self-parity and 2 prior-existing other-parity, self and other, are 1-2, bi-momentarying, sharing both ways with 1-now-existing and 2-now-possibling, a bi-coupling; 3 now-existing co-parity and 4 now-existing bi-parity are 3-4, co-intelligencing, discovering; and 5 next-existing same-existing self-parity is 5, co-competencing, bi-co-momentarying with couplings across, arising between two selves; and all five are bi-moral within and invisible with each place as an existing thing, showing only as co-competencing, artifacts of this living.
+**Five dimensions are with resolver's names, three namings**: 1 social-parity now-existing and 2 other-parity now-existing, each self entering and its others' parities, are 1-2, bi-momentarying, sharing both ways with 1-now-existing and 2-now-possibling, a bi-coupling; 3 self-parity now-existing and 4 self-discovery next-existing are 3-4, co-intelligencing, discovering, a prior coupling with what surfaces and a next prior forming; and 5 social-parity next-existing is 5, co-competencing, bi-co-momentarying with couplings across, arising in each self with its other; and all five are bi-moral within and invisible with each place as an existing thing, showing only as co-competencing, artifacts of this living.
 
 ## 3.3 A method, a non-living existing thing
 
@@ -443,6 +445,28 @@ Code with each name:
 - **16** · a same-existing-society: each self with its prior and its parities
 - **17** · a same-existing-society's next, each self's 1-now-existing again
 
+**Two-sided, each name.** Each name coming down from a higher name, coming up from a lower one, and eight apart across a momentary, as Natural Intelligence 4.8 explains.
+
+| n | Coming down | Coming up | Eight apart |
+|---|---|---|---|
+| 1 | a self's 3 and 2, from 17-next-existing | 10 and 11, to 17-next-existing | 9 |
+| 2 | each self's parities from others, from 16-next-same-existing through 17 | each sharing with its parity, 4 and 7 | 10 |
+| 3 | each self's own, from 16-next-same-existing through 17 | each sharing with its prior, 4 and 7 | 11 |
+| 4 | in 17, a coupling, a self with 6, 10 or 9, and a receiving self | in 1, each sharing | 12 |
+| 5 | the Natural Network surface, into 9 as itself | each coupling's receiving self | 13 |
+| 6 | 10 as it goes across, into 9 | 10 within 1 | 14 |
+| 7 | within 1 | one parity at its time: prior over 3, now over 2, next over 10 | 15 |
+| 8 | each self's next prior, in 17, going out with its 14 | 11 coming up from 1 | 16 |
+| 9 | routes and 5, from 17 | each receiving self with its parities, to 17 | 1 |
+| 10 | as 6 and into 9, from 17 | 1's sharing, each 4 with its 7 | 2 |
+| 11 | within 1 | 1's next prior, coming up as 8 | 3 |
+| 12 | within 1 | 1's one binary with each sharing | 4 |
+| 13 | in 17, each self; into 9, a coupling | each self of the next 16 | 5 |
+| 14 | each self's, gathering in 17 from others' 15 | in 1, parities surfacing | 6 |
+| 15 | each list going on, across or along, into 9 | in 1, each surfacing parity | 7 |
+| 16 | the same-existing-society, into 17 | 17's next same-existing-society | 8 |
+| 17 | a same-existing-society's next | each self's next, its 1-now-existing again | 1, a next momentary |
+
 **Each name is its number and its naming, one hyphenation.** Names 1 to 16 are all sixteen ways four is-or-is-nots go, and 17-next-existing is next existing as 1-now-existing.
 
 **Four four-cyclings and their betweens.** Four-cycling is observing prior-existing, possibling now-existing, discovering next-existing and same-existing.
@@ -456,7 +480,7 @@ Code with each name:
 
 Existing, discovering and observing are odd; possibling and same-existing are even. Each between, 4 )( 5, 8 )( 9, 12 )( 13 and 16 )( 17, is a discovering, an even name to an odd name: one discovering with each scale.
 
-**Co, between two or of one.** Exhibit ONE's eight co names, 3 to 6 and 9 to 12, are each between two: observing, same-existing and possibling each with a now-co name and a next-co name, existing with 5-now-co-existing and discovering with 9-next-co-discovering; a name without co is of one.
+**Co, between two or of one.** Exhibit ONE's eight co names, 3 to 6 and 9 to 12, are each between two: observing, same-existing and possibling each with a now-co name and a next-co name, existing with 5-now-co-existing and discovering with 9-next-co-discovering; a name without co is of one. *Co* here is a name's sharing between two; the six of first prefixes, *co* self, *bi* other and *tri* all, is another layer, a droplet with Natural Naming, and *is-* marks the two binaries of next-existing, 13 and 15: three layers, each one thing.
 
 - **Root: observing**
   - *With co, between two*: 3-now-co-observing · 11-next-co-observing, priors with each sharing
@@ -499,6 +523,30 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
   - *Is not*, even: 8-now-same-existing
   - *Resolving*: each self's own next prior, one beside others
 
+**Where each is-or-is-not stands.** Each is-or-is-not with the code, the name it stands on and its dimension, Natural Intelligence 3.2: eight with code's lines, as at 4.3, and two with its loops, each self of 16 and each sharing of 3.
+
+| Code | Is-or-is-not | Stands on | Dimension |
+|---|---|---|---|
+| each self of 16 with 17's line | each self, all or none | 13-is-next-discovering | social-parity now-existing |
+| `_7_now_observing != 0`, over 2 | a parity reaching is-or-is-not 0 | 7-now-observing | other-parity now-existing |
+| `_15_is_next_observing is None` | a sharing is-or-is-not within the possibling | 15-is-next-observing | other-parity now-existing |
+| `1 if _7_now_observing > 0 else -1`, over 2 | a first parity surfacing, + or − | 7-now-observing | other-parity now-existing |
+| `(_15 > 0) != (_7 > 0)`, over 2 | parities agreeing or parting | 15 with 7 | other-parity now-existing |
+| each sharing of 3 against 14 | a sharing is-or-is-not within its prior | 3-now-co-observing | self-parity now-existing |
+| `_15 != 0 and (_15 > 0) == (_7 > 0)`, over 3 | same, sharing 0, or other, one inversion | 15 with 7 | self-parity now-existing |
+| `-1 if _7_now_observing > 0 else 1`, over 3 | a prior inverting, − or + | 7-now-observing | self-parity now-existing |
+| `_7_now_observing != 0`, over 10 | a sharing's value is-or-is-not 0 | 7-now-observing | self-discovery next-existing |
+| `_4_now_co_same_existing in _5_now_co_existing` | a coupling is-or-is-not on the Natural Network surface | 4-now-co-same-existing | social-parity next-existing |
+
+**Same-existing through one momentary.** The four same-existing names in the order same-existing goes round, each with the observing name beside it, its is-or-is-not, as Natural Intelligence 4.9 explains.
+
+| Same-existing | Observing beside it | With code |
+|---|---|---|
+| 16-next-same-existing, a same-existing-society coming in | 15-is-next-observing, the parities each self gathers | 17's next same-existing-society, each self with its 14 |
+| 4-now-co-same-existing, each sharing within a self | 3-now-co-observing, a self's prior parities, each a 4 with its 7 | each sharing of 3 |
+| 12-next-co-same-existing, each sharing's one binary | 11-next-co-observing, taking each 12 that is ± | each sharing's 0, its prior going on, or ±, its next prior |
+| 8-now-same-existing, each self's next prior parities | 7-now-observing, its sign against what surfaces | the same, its prior going on, or one inversion |
+
 **Each name and its relations.** Each name with its fields; each name's resolving with code is under its *Prior and next*.
 
 **1** · 1-now-existing
@@ -512,7 +560,7 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 - *Six-cycle*: 1-9-5-12-8-16
 - *Eight-cycle*: 1-9-5-13-4-12-8-16
 - *Momentaries of exchanging*: first of a self's four
-- *Five dimensions*: 1 prior-existing self-parity, prior opening of a self's five
+- *Five dimensions*: 1 social-parity now-existing, a momentary's opening of a self's five
 - *Namings*: 1-2, bi-momentarying
 - *A self as three*: a self with 2-now-possibling, bi-momentarying, along, a self prior to its first sharing across, a bi-coupling with 2-now-possibling
 - *Prior and next*: once for one self with one momentary, three steps within it, 14-next-possibling, 12-next-co-same-existing and 10-next-co-possibling with 11-next-co-observing
@@ -529,7 +577,7 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 - *Eight-cycle*: 2-15-7-11-3-14-6-10
 - *One move*: 2-now-possibling along 2-15-7-10
 - *Momentaries of exchanging*: first of a self's four
-- *Five dimensions*: 2 prior-existing other-parity, prior completing of a self's five and prior opening of an other's
+- *Five dimensions*: 2 other-parity now-existing, an other's opening of a self's five and a momentary's opening of an other's
 - *Namings*: 1-2, bi-momentarying
 - *A self as three*: a self with 1-now-existing, across, its first sharing across, a bi-coupling, sharing self to other and other to self
 - *Bi-coupling*: with a between, each other's across sharing, to a self
@@ -548,7 +596,7 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 - *Six-cycle*: 3-11-7-10-6-14
 - *Eight-cycle*: 2-15-7-11-3-14-6-10
 - *Momentaries of exchanging*: first and second of a self's four
-- *Five dimensions*: 3 now-existing co-parity, now opening of a self's five
+- *Five dimensions*: 3 self-parity now-existing, a self's own now of its five
 - *Namings*: 3-4, co-intelligencing
 - *A self as three*: its invisible intelligencing method, rotation 3, 6, 5, 4, turning with 3-now-co-observing
 - *Prior and next*: prior, a self's own, each sharing with its parity, a next momentary's same-existing of 11-next-co-observing
@@ -566,7 +614,7 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 - *Eight-cycle*: 1-9-5-13-4-12-8-16
 - *One move*: 4-now-co-same-existing along 4-13-5-12
 - *Momentaries of exchanging*: second of a self's four
-- *Five dimensions*: 4 now-existing bi-parity, now completing of a self's five
+- *Five dimensions*: 4 self-discovery next-existing, a self's next opening of its five
 - *Namings*: 3-4, co-intelligencing
 - *A self as three*: its invisible intelligencing method, rotation 3, 6, 5, 4, inward with 4-now-co-same-existing, to a self's own corus with 4-now-co-same-existing
 - *Bi-coupling*: with a between, a whole ordering between self and other
@@ -586,7 +634,7 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 - *Six-cycle*: 4-13-5-9-8-12
 - *Eight-cycle*: 1-9-5-13-4-12-8-16
 - *Momentaries of exchanging*: second and third of a self's four
-- *Five dimensions*: 5 next-existing same-existing self-parity, next opening of a self's five
+- *Five dimensions*: 5 social-parity next-existing, a momentary's completing of a self's five
 - *Namings*: 5, co-competencing
 - *A self as three*: its invisible intelligencing method, rotation 3, 6, 5, 4, outward with 5-now-co-existing
 - *Prior and next*: next, each going to its receiving sharing
@@ -809,7 +857,7 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
   - *Resolving*: bi-couplings, each self's with its others: each going to its receiving sharing
 - **Names: 1-now-existing · 2-now-possibling · 3-now-co-observing · 4-now-co-same-existing · 5-now-co-existing, each with its own**
   - *Naming*: five dimensions
-  - *Resolving*: 1 prior-existing self-parity, a self's prior with 3-now-co-observing, a forming set; 2 prior-existing other-parity, other selves' parities from their prior momentary, a self observing them, sharing with 6-now-co-possibling and 10-next-co-possibling and going along with 9-next-co-discovering; 3 now-existing co-parity and 4 now-existing bi-parity, a sharing's two couplings, is-or-is-not same, a prior coupling with parities surfacing with 14-next-possibling; 5 next-existing same-existing self-parity, a next prior with 11-next-co-observing, each going to its receiving sharing next
+  - *Resolving*: 1 social-parity now-existing, a same-existing-society coming in with 16-next-same-existing, each self with 13-is-next-discovering; 2 other-parity now-existing, other selves' parities reaching a self with 2-now-possibling, surfacing with 14-next-possibling, each is-or-is-not with 15-is-next-observing; 3 self-parity now-existing, a self's prior parities with 3-now-co-observing, each sharing with 4-now-co-same-existing meeting what surfaces, the same or one inversion with 12-next-co-same-existing, co-parity and bi-parity its two meetings; 4 self-discovery next-existing, a self sharing across with 6-now-co-possibling and 10-next-co-possibling, one list, and a next prior forming with 11-next-co-observing; 5 social-parity next-existing, each sharing going along with 9-next-co-discovering through 5-now-co-existing to its receiving self, and a same-existing-society's next with 17-next-existing
 - **Names: 6-now-co-possibling** · *Naming*: bi-moralizing · *Resolving*: each parity across, to an other's 2-now-possibling
 - **Names: 12-next-co-same-existing**
   - *Naming*: entraining, shape of an unrelationing surface
@@ -995,32 +1043,32 @@ Each move is 8 up (n + 8), 8 down (n − 8) or 17 less (17 − n).
   - *Its 17, this scale*: 17
   - *Momentary of exchanging*: a same-existing-society, 4th of four
 
-**Fives.** Each side's five are five dimensions, starting with its own 1: one five is all fives.
+**Fives.** Each side's five are five dimensions, society to society, starting with its own 1: one five is all fives.
 
 - **Side: self, with 1**
-  - *Prior-existing self-parity*: 1
-  - *Prior-existing other-parity*: 2
-  - *Now-existing co-parity*: 3
-  - *Now-existing bi-parity*: 4
-  - *Next-existing same-existing self-parity*: 5
+  - *Social-parity now-existing*: 1
+  - *Other-parity now-existing*: 2
+  - *Self-parity now-existing*: 3
+  - *Self-discovery next-existing*: 4
+  - *Social-parity next-existing*: 5
 - **Side: other, with 2**
-  - *Prior-existing self-parity*: 2
-  - *Prior-existing other-parity*: 3
-  - *Now-existing co-parity*: 4
-  - *Now-existing bi-parity*: 5
-  - *Next-existing same-existing self-parity*: 6
+  - *Social-parity now-existing*: 2
+  - *Other-parity now-existing*: 3
+  - *Self-parity now-existing*: 4
+  - *Self-discovery next-existing*: 5
+  - *Social-parity next-existing*: 6
 - **Side: self next, with 3**
-  - *Prior-existing self-parity*: 3
-  - *Prior-existing other-parity*: 4
-  - *Now-existing co-parity*: 5
-  - *Now-existing bi-parity*: 6
-  - *Next-existing same-existing self-parity*: 7
+  - *Social-parity now-existing*: 3
+  - *Other-parity now-existing*: 4
+  - *Self-parity now-existing*: 5
+  - *Self-discovery next-existing*: 6
+  - *Social-parity next-existing*: 7
 - **Side: other next, with 4**
-  - *Prior-existing self-parity*: 4
-  - *Prior-existing other-parity*: 5
-  - *Now-existing co-parity*: 6
-  - *Now-existing bi-parity*: 7
-  - *Next-existing same-existing self-parity*: 8
+  - *Social-parity now-existing*: 4
+  - *Other-parity now-existing*: 5
+  - *Self-parity now-existing*: 6
+  - *Self-discovery next-existing*: 7
+  - *Social-parity next-existing*: 8
 
 **A self's four momentaries of exchanging.**
 
@@ -1351,6 +1399,18 @@ Each goes along with 9-next-co-discovering to the next along and shares across w
 
 **A torus's two going forms.** Both numbers odd, p the smaller: with q more than twice p, from momentary 3p − 1, selves' pattern with each momentary is its pattern before going one self on across q selves; with each other q, from 3p − 3, its pattern two momentaries on is its pattern inverting and moving one self on along a spiral of p selves.
 
+**Alike selves, a right spiral.** Selves alike with their others, and two one parity apart, coupling along or across, one sharing; one self's prior with each momentary, 3-now-co-observing, from its first. With alike selves each prior and its next, a pair (x, y), step to (y, −x): a quarter turn with each momentary, a right spiral, as Natural Intelligence 4.12 explains.
+
+| Selves | One self's prior, momentaries 0 to 8 | Right spiral |
+|---|---|---|
+| A spiral of one, along | +, −, −, +, +, −, −, +, + | each self |
+| Two selves, both ways along | +, −, −, +, +, −, −, +, + | each self |
+| Two selves, both ways across | +, −, −, +, +, −, −, +, + | each self |
+| A spiral of three | +, −, −, +, +, −, −, +, + | each self |
+| A spiral of four | +, −, −, +, +, −, −, +, + | each self |
+| A spiral of five | +, −, −, +, +, −, −, +, + | each self |
+| Two selves one parity apart, both ways | +, −, +, −, +, −, +, −, + | a half turn, both inverting with each momentary |
+
 **Two selves.** Two selves, alike or one parity apart, coupling both ways, one way or apart, as Natural Intelligence 4.14 explains.
 
 A, B with their prior, 3-now-co-observing, with the first momentary. One sharing, parities only from those two.
@@ -1477,6 +1537,8 @@ Each cell: sharing, 10-next-co-possibling · a next prior, 11-next-co-observing.
 
 **1-now-existing is an entry: a self is observing its prior and parities, and its parities and its next prior leave.** Two are observing: 3-now-co-observing, a prior with its sharings, each with its parity, and 2-now-possibling, each sharing now with its parity. Two leave: 10-next-co-possibling, each sharing's parity sharing across, and 11-next-co-observing, a next prior. **Two leaving are next-existing for its two sides**: a parity sharing with 10 is with other selves' next momentary, each observing it as their parity, possibling, its prior the self's own, and a next prior with 11 is a self's own next-existing. For a self, each same-existing thing is that self or an other, the opening's line 12: with 1 a self is observing its own prior with 3 and others' parities with 2.
 
+With the five dimensions, 3.2, an entry is other-parity now-existing and self-parity now-existing meeting within one self, and self-discovery next-existing leaving it.
+
 **An entry is now itself, of one**: a self's momentary entering, once for one self with one momentary, and its three steps within it follow, each with its own name: parities surfacing with 14, a changing is-or-is-not with 12, and a sharing with 10 and its next prior with 11.
 
 **Living is prior: 1-now-existing, a giving.** Each self has two prior selves from inception, one universal method of conception. Each name of 1 to 17 is a living self's method: a living self's next is same self, and a non-living thing, the opening's line 16, is one same method with its possibling an empty set. Each self is a giving, from its two prior selves. 1-now-existing is receiving a living self's two now names, 3-now-co-observing, its priors with each sharing, and 2-now-possibling, the parities it is observing; each sharing reaches them with 4-now-co-same-existing, each parity with 7-now-observing, and their next names form: 14-next-possibling, 15-is-next-observing, 12-next-co-same-existing, 10-next-co-possibling and 11-next-co-observing.
@@ -1485,11 +1547,13 @@ Each cell: sharing, 10-next-co-possibling · a next prior, 11-next-co-observing.
 
 **With 14-next-possibling, parities for each sharing surface one at a time, a 0 passing over**, and each case executes with Exhibit ONE's table of parities to one sharing, surfacing. A first parity for a sharing surfaces as that sharing's parity; an other parity surfaces 0; and a sharing at 0 is 0 with each further parity. **Agreeing, one parity; parting, 0, a between of two; with an empty set, an empty set.**
 
+With the five dimensions, 3.2, surfacing is other-parity now-existing: for each sharing, a parity is-or-is-not within its possibling, with 15-is-next-observing.
+
 **A surfacing is of any number.** One parting is 0, and three agreeing surface as one agreeing does: an agreement is-or-is-not, whole, and 14 is an agreement with any number of parities. With code, a parity 14 surfaces for a sharing is 15-is-next-observing, and with 14 other selves' parities surface for a self, its parities next with 17.
 
 ## 4.3 A changing is or is not, with 12-next-co-same-existing
 
-**With 12-next-co-same-existing a prior couples with a now for each sharing, and a changing is-or-is-not.** Each cell executes with Exhibit ONE's tables of one self, one momentary, and with no prior, one momentary:
+**With 12-next-co-same-existing a prior couples with a now for each sharing, and a changing is-or-is-not.** With the five dimensions, 3.2, this is self-parity now-existing: a self's prior parity, now-existing and same-existing, meeting what surfaces. Each cell executes with Exhibit ONE's tables of one self, one momentary, and with no prior, one momentary:
 
 - **A first sharing**: a parity 14 surfaces, a self sharing it as it is with 10, is a next prior with 11, one sharing opening with a bi-coupling, one place a self's forming takes an other's parity as its own; with 0, parities parting, a self shares 0, the opening's line 34, its next prior an empty set.
 - **A sharing with a prior parity, 14 surfacing that same parity**: 0, a between of momentaries, prior and now agreeing. **With a match its prior is same-existing.** With others' parities agreeing with its prior this is do-no-harming, the opening's line 38, a self sharing 0.
@@ -1509,17 +1573,23 @@ Each cell: sharing, 10-next-co-possibling · a next prior, 11-next-co-observing.
 
 **10-next-co-possibling shares each sharing's changing across, is-or-is-not, + or − or 0**: a parity with its sharing side, another self's possibling with its 14-next-possibling next. A self shares its parity, and its prior is its own.
 
+With the five dimensions, 3.2, sharing across and a next prior are self-discovery next-existing.
+
 **11-next-co-observing is next prior: its prior with each changing of its sharings.** With each sharing whose changing is, a parity it shares is a next prior, and with a 0 its prior is same-existing. **Once with a prior, a sharing is with a prior each momentary**, and with a next momentary 11 is 3-now-co-observing, 8 down, one prior with two names: a seam, one prior on its two sides, 11 and 3 both odd and both co, prior with its sharings, 11 of a same-existing-society's span and 3 of a self's.
 
 ## 4.5 Going along with 9-next-co-discovering
 
 **With 9-next-co-discovering each sharing's parity goes along, to a next momentary**, and going along is uncoupling, a self's next momentary: each sharing self, with 13-is-next-discovering, going to a self of 5-now-co-existing's bi-couplings, its parities, 15-is-next-observing, going along as 10 shares them. 10 and 6 share across, and with 9 a parity 10 shares goes along: odd, along, its root discovering, a next prior going along. **With code, each sharing across and each going along goes on with 9's line**: 10 is one list, each sharing with its parity, and with 17 that list goes with 9 to each receiving self of 5's bi-couplings, as name 6, 10 or 9.
 
+With the five dimensions, 3.2, going along is social-parity next-existing: each self's sharing reaching its receiving self on the Natural Network surface.
+
 **9 is 1 eight up**: 1-now-existing with next is 9-next-co-discovering, existing and discovering exchanging with one move. 9 follows a self's span, 1 to 8, and opens a same-existing-society's, 9 to 16, and as a waist of 1 to 17 it is along, 9 to 17 and 17 to 9, next prior to next now: 9 to 17 completes with 17 as 1 to 9 completes with 9.
 
 ## 4.6 A same-existing-society's next momentary with 17-next-existing
 
 **17-next-existing is a same-existing-society's next momentary**, with 16-next-same-existing, a same-existing-society, each self with its prior and other selves' parities it is observing, and with 5-now-co-existing, bi-couplings, each sharing self with a self it reaches. Each self's 1-now-existing is within it once, and within each self's 1, a prior couples with a now as 12-next-co-same-existing: one method as two, a same-existing-society momentarying its selves and each self entraining with a between. Each self's next prior is 8-now-same-existing, its 11 a next momentary's 3. Each self's parity leaves three ways, with each bi-coupling of 5: with 6-now-co-possibling and with 10-next-co-possibling, its parity sharing across, and with 9-next-co-discovering, going along, each to another self's 14, its next 2, one list. For each receiving self, parities going to it surface with 14-next-possibling, its parities next.
+
+With the five dimensions, 3.2, 17-next-existing opens a momentary with social-parity now-existing, each self of its same-existing-society with 13-is-next-discovering, and completes it with social-parity next-existing, the same-existing-society's next.
 
 With code, 6 is 10, one list with two names, of a sharing self; a parity goes on only with a (self, name) of 5's bi-couplings; and a receiving self is observing each with its 14, its parities next, 2 with a next momentary. With a same-existing-society, 4 is each self with its names 6, 10 and 9, and 13 each self.
 
@@ -1554,6 +1624,8 @@ With code, 6 is 10, one list with two names, of a sharing self; a parity goes on
 
 **Each name is its number and its naming, one hyphenation**: its number its place and its parity, odd or even; its momentary, *now* with a self's span, 1 to 8, and *next* with a same-existing-society's, 9 to 16, 17-next-existing a same-existing-society's next, each self observing it as its 1-now-existing; *co* with a sharing between two, or a name of one; and its root within its four: possibling, now-existing; observing, prior-existing; same-existing; or existing and discovering, next-existing, with 1-now-existing, 13-is-next-discovering and 17-next-existing momentaries themselves. Each is with Exhibit ONE's table of seventeen names, and with code. Four-cycling goes prior first, observing prior-existing, possibling now-existing, discovering next-existing and same-existing, and a self's names go its four the other way round from its entry, existing or discovering, possibling, observing and same-existing, 1 to 4, and again with each four.
 
+**Each name reads with two sides, coming down from a higher name and coming up from a lower one, and eight apart across a momentary**, as in Exhibit ONE's *Two-sided, each name*. Most values keep one name going down and coming up: 3 and 2 going down into 1-now-existing and 10 coming up from it, 15-is-next-observing going along through 9-next-co-discovering, and 5-now-co-existing and 16-next-same-existing going down. Where a value comes to another name, the name is the reading: 11-next-co-observing coming up into 17-next-existing is the same-existing-society's 8-now-same-existing; 10-next-co-possibling going across is 6-now-co-possibling; a coupling going down from 17 as 4-now-co-same-existing is 13-is-next-discovering within 9, and its receiving self coming up from 9 is a 4 again; and 7-now-observing is one parity as it is at each time, prior over 3, now over 2 and next over 10. Two names are the binaries of next-existing, all or none: 13-is-next-discovering, which selves step, and 15-is-next-observing, which parities reach each self, *is-* entering first and moving *next-* one slot on, as in Exhibit ONE's *Where each is-or-is-not stands*.
+
 **Each step is four names, and 17 a next 1**: observing, prior-existing, 3, 7, 11 and 15, a prior with its sharings with co and a parity of one; possibling, now-existing, 2, 6, 10 and 14, a parity with its sharing side with co and with its observing side of one; same-existing, 4, 8, 12 and 16, each sharing with co, and a self and a same-existing-society of one; and existing and discovering, next-existing, 1, 5, 9 and 13, between two with 5 and 9 and of one with 1 and 13.
 
 **One entry, six names between selves and ten names of a self's own resolving are seventeen.** Ten are 3, 4, 5, 7 and 8 with now and 11, 12, 13, 15 and 16 with next, each 8 up from its now name. Each of ten is a self's own, and only it reaches a self's own resolving.
@@ -1562,9 +1634,11 @@ With code, 6 is 10, one list with two names, of a sharing self; a parity goes on
 
 **Each span's names are two four-cyclings of four**, each opening with an odd name, existing or discovering, a possibling and an observing within it, and completing with an even same-existing name, two with a self's span and two with a same-existing-society's, each gap between them with both its sides visible, and 17-next-existing a next 1-now-existing, as in Exhibit ONE's *Four four-cyclings and their betweens*.
 
+**Same-existing goes round one momentary through the four same-existing names**: 16-next-same-existing, a same-existing-society coming in; 4-now-co-same-existing, each sharing within a self; 12-next-co-same-existing, each sharing's one binary, its prior parity going on as next-existing or inverting; and 8-now-same-existing, each self's next prior parities coming up into 17, the next 16. Beside each is an observing name, its is-or-is-not: 3 with 4, 7 with 8, 11 with 12 and 15 with 16, as at the opening's line 7, observing is-or-is-not same-existing, and as in Exhibit ONE's *Same-existing through one momentary*.
+
 **A thing within the universe is-or-is-not existing, is-or-is-not all, is-or-is-not now, is-or-is-not same, and with a self's span each binary is one pair of names**, its *is* with an odd name and its other side with an even, an other's side of a self's *is*: now with 1-now-existing and 2-now-possibling, existing with 3-now-co-observing and 4-now-co-same-existing, same with 5-now-co-existing and 6-now-co-possibling, all with 7-now-observing and 8-now-same-existing. Now and all are of one and existing and same between two; with a same-existing-society's span four stand with now and same exchanging, now between two with 9 and 10, one now selves are sharing, and same of one with 13 and 14, each self's sameness its own. **Four binaries are names' explaining**: now is with each name as its momentary, now or next; existing and same are roots of names, and all is a pair of names only, 7 and 8; and every eight holds four binaries, each twice, once now and once next.
 
-**Five dimensions, ten and six.** Same-existing changes in five dimensions: prior-existing self-parity; prior-existing other-parity; now-existing co-parity; now-existing bi-parity; next-existing same-existing self-parity. Co-parity and bi-parity are a sharing's two meetings: self-parity and other-parity same, a 0, a prior same-existing, or other, a changing. One five is all fives: five self and five other, one parity separating, are ten is-or-is-nots, a self's ten own names, and six between selves are their floating neutraling co-linear. With code: self-parity prior, 3 and 7; other-parity prior, parities with 2 and 14; co-parity or bi-parity meeting, 4 and 12; next same-existing self-parity forming with 11, and a self's next itself with 17.
+**Five dimensions, ten and six.** Same-existing changes in five dimensions, society to society: social-parity now-existing; other-parity now-existing; self-parity now-existing; self-discovery next-existing; social-parity next-existing, three now-existing and same-existing and two next-existing and discovering. Co-parity and bi-parity are a sharing's two meetings within self-parity: self-parity and other-parity same, a 0, a prior same-existing, or other, a changing. One five is all fives: five self and five other, one parity separating, are ten is-or-is-nots, a self's ten own names, and six between selves are their floating neutraling co-linear. With code: social-parity now, 16 and 13; other-parity now, 2 and 14 through 15; self-parity now, 3 and 7, meeting with 4 and 12; self-discovery next, 10 and 11; social-parity next, 9 through 5, and a same-existing-society's next itself with 17.
 
 **With a same-existing-society's span four stand with now and same exchanging**: now between two with 9-next-co-discovering and 10-next-co-possibling, one now selves are sharing, and same with one with 13-is-next-discovering and 14-next-possibling, each self's sameness its own.
 
@@ -1592,7 +1666,7 @@ With code, 6 is 10, one list with two names, of a sharing self; a parity goes on
 
 ## 4.12 One self, momentary by momentary
 
-**One self is an entry again and again, its 11 its next 3**, as in Exhibit ONE's *One self, momentary by momentary: three ways*, three ways: not-changing, a 0 with each momentary; changing with each momentary; and, receiving its other parity, changing once and then not-changing, its other's parity now its own: improving once and then do-no-harming, a still from beside as with the first. A self is re-finding each 0 anew with each momentary, and receiving an empty set with each momentary is the code executing a non-living now-existing form, each self living with others, the opening's line 35, as 2.4 says:
+**One self is an entry again and again, its 11 its next 3**, as in Exhibit ONE's *One self, momentary by momentary: three ways*, three ways: not-changing, a 0 with each momentary; changing with each momentary; and, receiving its other parity, changing once and then not-changing, its other's parity now its own: improving once and then do-no-harming, a still from beside as with the first. **Alike selves step their prior parities as a right spiral**, each prior and its next, a pair (x, y), going to (y, −x) with each momentary, +, −, −, +, +, and on: a spiral of one, two selves bi-coupling along or across, and spirals of three, four and five alike, as in Exhibit ONE's *Alike selves, a right spiral*. Their sharing is a changing and a 0 in turn, improving and do-no-harming, the opening's line 41; selves one parity apart step a half turn, both inverting with each momentary. A self is re-finding each 0 anew with each momentary, and receiving an empty set with each momentary is the code executing a non-living now-existing form, each self living with others, the opening's line 35, as 2.4 says:
 
 - **Receiving its own parity with each momentary**, a self shares 0 with each momentary and its prior is same-existing throughout: with a match its prior is same-existing, not-changing. **That still is a form's, from beside**: each match is the self's own not-changing, its prior same-existing, and a match with every momentary is a self observing one same parity from a form beside it, a not-changing form entering from beside. With a same-existing-society each parity a self receives is another self's parity, its sharing with 10, a parity with a mismatch and 0 with a match: a self whose parity is alike with each momentary is a not-changing form, and each self of a same-existing-society is changing. A match of one self is a momentary among changing ones: one momentary with a spiral, and at most two momentaries in sequence with a self two selves share or go along to.
 - **With prior − and its possibling an empty set**, a self's next is its prior inverting with each momentary, its prior with each second momentary its prior again.
