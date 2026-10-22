@@ -157,8 +157,8 @@ Each entry: **File** · *a* Subtitle · *b* At the repository · *c* Living · *
   - *e* pass 4 at its possible projects
 - **FIFTEEN · Natural Emanating**
   - *a* Self-Welcoming Social Moral Co-Offerings
-  - *b* v390
-  - *c* v390: pass 10, its own explaining re-said by meaning toward session v390's concepts, field terms and words mentioned as words kept; v389: released words re-said, *the* where not valuable, its offerings resolved, six risen, three observings at Part Two
+  - *b* v391
+  - *c* v391: met with Natural Intelligence and the code all or none, 377 sayings re-said by meaning; v390: pass 10, its own explaining re-said by meaning toward session v390's concepts, field terms and words mentioned as words kept; v389: released words re-said, *the* where not valuable, its offerings resolved, six risen, three observings at Part Two
   - *d* —
   - *e* pass 4 at its possible projects
 - **SIXTEEN · Natural Chemistry**
