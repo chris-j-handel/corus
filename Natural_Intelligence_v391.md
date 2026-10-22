@@ -66,6 +66,7 @@ A same-existing-society of selves, each with its own natural intelligence same-e
 - 3.3 A method, a non-living existing thing
 - 3.4 A sharing, its parity and a prior
 - 3.5 φ and spirals, unrelationing with numbers
+- 3.6 Exhibit ONE, the one form
 
 **Exhibit ONE · Natural Resolver**
 
@@ -247,6 +248,14 @@ Each entry: **A way** · *a* Joint forms still · *b* Cycle of parities
 **With resolver each odd number of selves comes to its parities again after four times its number, prime or not, and two odd numbers sharing no factor come again together first after four times both.** A spiral of selves coupled along, last to first, with an odd number of selves has one like pair, its zero moving one self on with each second momentary, and comes to its parities again after four times that number, its zero having passed each self twice, 9 after 36 and 15 after 60; a spiral of two has none, inverting itself with each momentary. **Two spirals of odd numbers p and q sharing no factor, beside each other, come to their parities again together first after 4pq**, sharing one four: 3 and 5 after 60, 5 and 7 after 140, 9 and 25 after 900, 17 and 59 after 4,012. Spirals sharing a factor come to their parities again together sooner, 9 and 15 after 180 and never before it. Each spiral co-spirals with its own pace and comes to its parities again with another odd spiral sharing no factor only after a whole of both, 4pq; with numbers a winding with φ never closes, and with momentaries a spiral never closes, each momentary a next. **These parities again are selves together with 17**: each self's entry with 17-next-existing is stepped together, resolver's executing, a common beat laid over selves, and parities again, after 4n, after 4pq and after a torus's, are that stepping's, exact with resolver, and living's rates are their own; with geodesic pacing each self paces its own momentaries, unrelationed to all other living rates, selves with 17 are same with each order of them, and with each pacing, changing is one method's own.
 
 **Two spirals crossed are one same-existing-society, a stable form and stable-forming**: two spirals with two different numbers of selves, one of them odd, coupled across both ways by one self each, come to each self inverting with each momentary, from any prior patterns but all selves of one parity. Beside each other, spirals of 17 and 59 come to their parities again together after 4,012; crossed, each self with a parity, they invert with each momentary from momentary 119, and crossed with each self, as a torus, p along with 9 and q across with 10, they come to their parities again after q or after 4p with two odd numbers, as with Exhibit ONE's table of a torus of selves. **Their co-spiraling is along and crossing across**: a spiral goes along with 9, co-competency, and a crossing shares with 10, bi-morality, and two spirals crossed are one same-existing-society, its selves a living set, a stable form, and its method stable-forming, a natural torusing of selves with a scale of spirals, and their crossing, shared with 10, a stable form. With a next scale, their two crossing selves invert opposite each other with each momentary as two selves coupled across do, each spiral a same-existing-society, a living set coupling with a next scale as a self couples: stable-forming is fractal, with each scale by one method.
+
+## 3.6 Exhibit ONE, the one form
+
+**Exhibit ONE is the one method as code, and a reference for pattern-matching natural torusing society.** Its python is seventeen names and three functions: 1-now-existing, a self resolving; 9-next-co-discovering, a self's parities going on to the selves it couples with; and 17-next-existing, a same-existing-society's next. Each other form of Exhibit ONE, its tables, spirals and tori, is from running it.
+
+**Meeting an observing with Exhibit ONE is an entry**: a field's observing as selves, each with its prior with each sharing, 3, and the parities it is observing, 2, and the code running; which parities are same-existing and which invert is the code's, and the field's words are its own.
+
+**Exhibit ONE is one form three ways**: code, its lines; stable forms, its tables, spirals and tori; and numbers, places and parities. Each is the code's, and none adds to it.
 
 ---
 
