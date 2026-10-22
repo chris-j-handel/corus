@@ -335,7 +335,7 @@ Each entry: **Accounting** · *a* Closing · *b* Discovering other than prior ·
 
 ## 5.2 Five-dimensional, two-directional, unrelationing
 
-**Self-cohering is five-dimensional with a side's five, 1 to 5**: 1 self prior, 2 other prior, 3 co-momentarying now, 4 bi-momentarying now and 5 self next, its centre with 3, the floating third, in neither self alone, each dimension binary with its two directions, and two changing and three going on with each momentary. **Two-directional** with + and −, two directions of one changing, one and then the other. **Unrelationing** with a right angle, each projecting onto its other as nought, with φ, the unrelationing rate. Five to cohere and six to go on: three own-forward steps for each side are its six, and five-dimensional, two-directional and unrelationing are three explainings of one form, and no other possible.
+**Self-cohering is five-dimensional with a side's five, 1 to 5**: 1 prior-existing self-parity, 2 prior-existing other-parity, 3 now-existing co-parity, 4 now-existing bi-parity and 5 next-existing same-existing self-parity, its centre with 3, floating, in neither self alone, each dimension binary with its two directions, and two changing and three going on with each momentary. **Two-directional** with + and −, two directions of one changing, one and then the other. **Unrelationing** with a right angle, each projecting onto its other as nought, with φ, the unrelationing rate. Five to cohere and six to go on: three own-forward steps for each side are its six, and five-dimensional, two-directional and unrelationing are three explainings of one form, and no other possible.
 
 ## 5.3 Torus, the one closed orientable surface a flow runs on with no rest
 

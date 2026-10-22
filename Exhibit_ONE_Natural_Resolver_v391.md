@@ -226,7 +226,7 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 - *Six-cycle*: 1-9-5-12-8-16
 - *Eight-cycle*: 1-9-5-13-4-12-8-16
 - *Momentaries of exchanging*: first of a self's four, opening with 1, self 1–2
-- *Five dimensions*: 1 self prior, prior opening of a self's five
+- *Five dimensions*: 1 prior-existing self-parity, prior opening of a self's five
 - *Namings*: 1-2, bi-momentarying, a self's entry, odd, and others' parities, even, one momentary with each side
 - *A self as three*: a self with 2, bi-momentarying, along, a self prior to its first sharing across, a bi-coupling with 2
 - *Prior and next*: once for one self with one momentary, three steps within it 14, 12, 10 with 11
@@ -243,7 +243,7 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 - *Eight-cycle*: 2-15-7-11-3-14-6-10
 - *One move*: 2 along 2-15-7-10
 - *Momentaries of exchanging*: first of a self's four, with 2, a self's 1–2 completing and an other's 2–3 opening
-- *Five dimensions*: 2 other prior, prior completing of a self's five and prior opening of an other's
+- *Five dimensions*: 2 prior-existing other-parity, prior completing of a self's five and prior opening of an other's
 - *Namings*: 1-2, bi-momentarying
 - *A self as three*: a self with 1, across, its first sharing across, a bi-coupling, sharing self to other and other to self
 - *Bi-coupling*: with a between, each other's across sharing, to a self
@@ -262,7 +262,7 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 - *Six-cycle*: 3-11-7-10-6-14
 - *Eight-cycle*: 2-15-7-11-3-14-6-10
 - *Momentaries of exchanging*: first of a self's four completing with 3, an other's 2–3, and second opening with 3, self 3–4
-- *Five dimensions*: 3 co-momentarying now, now opening of a self's five
+- *Five dimensions*: 3 now-existing co-parity, now opening of a self's five
 - *Namings*: 3-4, co-intelligencing, with each sharing 4 its prior with 3 coupling with parities surfacing with 14, next, a self discovering it, with 11
 - *A self as three*: its invisible intelligencing method, rotation 3, 6, 5, 4, turning with 3
 - *Prior and next*: prior, a self's own, each sharing with its parity, a next momentary's same-existing of 11
@@ -280,7 +280,7 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 - *Eight-cycle*: 1-9-5-13-4-12-8-16
 - *One move*: 4 along 4-13-5-12
 - *Momentaries of exchanging*: second of a self's four, with 4, a self's 3–4 completing and an other's 4–5 opening
-- *Five dimensions*: 4 bi-momentarying now, now completing of a self's five
+- *Five dimensions*: 4 now-existing bi-parity, now completing of a self's five
 - *Namings*: 3-4, co-intelligencing
 - *A self as three*: its invisible intelligencing method, rotation 3, 6, 5, 4, inward with 4, to a self's own corus with 4
 - *Bi-coupling*: with a between, a whole ordering between self and other
@@ -300,7 +300,7 @@ Existing, discovering and observing are odd; possibling and same-existing are ev
 - *Six-cycle*: 4-13-5-9-8-12
 - *Eight-cycle*: 1-9-5-13-4-12-8-16
 - *Momentaries of exchanging*: second of a self's four completing with 5, an other's 4–5, and third opening with 5, self 5–6
-- *Five dimensions*: 5 self next, next opening of a self's five
+- *Five dimensions*: 5 next-existing same-existing self-parity, next opening of a self's five
 - *Namings*: 5, co-competencing, bi-couplings, each self's with each it couples with, each going to its receiving sharing
 - *A self as three*: its invisible intelligencing method, rotation 3, 6, 5, 4, outward with 5
 - *Prior and next*: next, each going to its receiving sharing
