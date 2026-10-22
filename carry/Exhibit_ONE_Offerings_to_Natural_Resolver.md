@@ -4,7 +4,7 @@ Exhibit ONE Natural Resolver Offerings · resolved at v391
 
 ## Resolved at v391 · v391
 
-**Resolved at v391.** 102 items stood here. Read against [Exhibit ONE Natural Resolver v391](../Exhibit_ONE_Natural_Resolver_v391.md) and its code, 40 are met at it, 27 rest on forms v391 dissolved or released or on a claim the code does not hold, 8 duplicate another item, and 10 are dated records; one, Exhibit ONE's tables cited by heading across the set, is laid at the Equilibria Registry's and the Living Ghost Registry's offerings. Each stands whole with its verdict at [the archive](../archive/session_v391/offerings_dissolved/Exhibit_ONE_Offerings_to_Natural_Resolver_resolved_v391.md). The nine droplets are met, below; seven concerns stand. — v391
+**Resolved at v391.** 102 items stood here. Read against [Exhibit ONE Natural Resolver v391](../Exhibit_ONE_Natural_Resolver_v391.md) and its code, 40 are met at it, 27 rest on forms v391 dissolved or released or on a claim the code does not hold, 8 duplicate another item, and 10 are dated records; one, Exhibit ONE's tables cited by heading across the set, is laid at the Equilibria Registry's and the Living Ghost Registry's offerings. Each stands whole with its verdict at [the archive](../archive/session_v391/offerings_dissolved/Exhibit_ONE_Offerings_to_Natural_Resolver_resolved_v391.md). The nine droplets are met, below; six concerns stand. — v391
 
 ## Met at v391 · v391
 
@@ -18,7 +18,7 @@ Exhibit ONE Natural Resolver Offerings · resolved at v391
 
 **Concern · at *The code*.** Rename the code's bindings by meaning, one concept each, checked for identical resolving. Or: Keep the names, each code-list line saying all a name binds (as 7's and NI 4.6's '6 is 10, one list with two names'). *Laid whole at the archive, line 190.* — v391
 
-**Concern · at *Four binaries with code's lines; NI 4.9*.** Binaries pair with names by number only, said so, and 'existing and same are roots of names' re-said. Or: Re-pair the four binaries with names by root. *Laid whole at the archive, line 208.* — v391
+**Met at v391 · four binaries and names' roots.** The pairing of the universe's four binaries with odd and even names split one is-or-is-not onto two names and is made by no line of the code: *Four binaries with code's lines* leaves Exhibit ONE whole, Natural Intelligence 4.9 and the Co-Chaining Logic Registry are re-said by the code, each is-or-is-not one test on one name, *Where each is-or-is-not stands*; *Seventeen names*' column is n − 1 in four binary digits. — v391
 
 **Concern · at *Four bi-foldings; Twelve forms*.** Bi-folding names the four ±8 cycles, the two middle ones named apart and '(4 for the middle two)' dropped. Or: Bi-folding names each four-step cycle, odd and even in turn, the four ±4 cycles 1-5-12-16, 2-6-11-15, 3-7-10-14, 4-8-9-13 named too. *Laid whole at the archive, line 216.* — v391
 
