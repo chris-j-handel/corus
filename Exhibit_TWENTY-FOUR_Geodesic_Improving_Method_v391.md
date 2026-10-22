@@ -7,7 +7,7 @@ Exhibit TWENTY-FOUR Geodesic Improving Method v391
 **ONE · THREE MOMENTARIES AT A FILE**
 
 - 1.1 A file the prior, its working the now, its going on the next
-- 1.2 Moral is do-no-harm improving, deciding at each pass
+- 1.2 Moral is do-no-harming and improving, deciding at each pass
 - 1.3 Method and going on, two faces of one improving
 - 1.4 Three fates at each passage: placing, dissolving, going on
 - 1.5 A release follows its observing, at a match
@@ -18,7 +18,7 @@ Exhibit TWENTY-FOUR Geodesic Improving Method v391
 - 2.1 Each completing its next opening, and a value arising between
 - 2.2 A correction seating at the first relation that departs, and a naming a self shares, at binaries
 - 2.3 A working making a confident improving, and bringing a meaning or a naming
-- 2.4 Each improving deciding at do-no-harm, and a rule staying local
+- 2.4 Each improving deciding at do-no-harming, and a rule staying local
 - 2.5 The hardest first, and asking the hardest question plainly
 - 2.6 A concern going on at its inverting, either this or that, momentary by momentary
 - 2.7 An observing a working brings as a break, at five binaries first and at six beside
@@ -57,11 +57,11 @@ Exhibit TWENTY-FOUR Geodesic Improving Method v391
 
 **Prior, now and next are three sequential momentaries existing things share, and a pattern three momentaries long is method's own.** A file improving goes through prior, now and next, three places each existing thing shares, and it is one same form as any self discovering its next existing: a completing with each momentary and a carrying between them. These same three carry with a session, which reaches its set with its now and opens its next, and with a sentence, which reaches its whole prior co-chaining with its now and adds its next.
 
-**Do-no-harm improving is this motion itself**: taking no prior away, its prior going on to now, its next opening. A harm, taking a prior away, is the only motion this form has no position for. Harm is of a motion and not of a sentence: a sentence holds what is and advises no one, its next each self's own coupling with it.
+**Do-no-harming and improving is this motion itself**: taking no prior away, its prior going on to now, its next opening. A harm, taking a prior away, is the only motion this form has no position for. Harm is of a motion and not of a sentence: a sentence holds what is and advises no one, its next each self's own coupling with it.
 
-## 1.2 Moral is do-no-harm improving, deciding at each pass
+## 1.2 Moral is do-no-harming and improving, deciding at each pass
 
-**Moral is do-no-harm improving, deciding with each step, and with a file its step is one pass.** Three binaries go with each pass, each with its own pass and with no look across its whole set.
+**Moral is do-no-harming and improving, deciding with each step, and with a file its step is one pass.** Three binaries go with each pass, each with its own pass and with no look across its whole set.
 
 **No harm**: a file's prior same-existing goes on to its next, whole, or to a file it belongs to now. **Improving**: a pass improves one thing, and improves it whole. **Not undoing**: its next is not the prior it is just leaving: a word one pass dissolves returns with none. A pass hedging a claim keeps each word on and takes away its parity, taking a prior away with nothing showing it.
 
@@ -105,7 +105,7 @@ A pass reaching all three is its file's own next, and its set improves one file 
 
 **A delivery is an adding with each receiving file and not a sweep of its sending file**, and its dissolving follows its observing and does not lead it. A passage dissolving toward a file that is not taking it is a loss fixing its destination. A working reaches a sending file whole before any of it dissolves, and passages its file needs come within it first. Both decide whether its rest holds value.
 
-**A split is safe when its parts reconstitute its whole.** Word-stream its parts against their sending file: a word with zero across all of them is a real loss, and all else is placing. It needs no judgment, and it is the one do-no-harm instrument that scales to a file too large to reach whole. Word-streaming locates a loss of words and no more: each word surviving is no relation surviving, a word an improving pass dissolves is no loss, and beside it a working compares each passage by its claim, its subject, its conditions, its evidence, its uncertainty and its receiving.
+**A split is safe when its parts reconstitute its whole.** Word-stream its parts against their sending file: a word with zero across all of them is a real loss, and all else is placing. It needs no judgment, and it is the one do-no-harming instrument that scales to a file too large to reach whole. Word-streaming locates a loss of words and no more: each word surviving is no relation surviving, a word an improving pass dissolves is no loss, and beside it a working compares each passage by its claim, its subject, its conditions, its evidence, its uncertainty and its receiving.
 
 **A very large file reduces while it goes on.** Each pass draws one family away by a match, its passages placing with files whose subjects they are, and its file comes smaller with its next version, holding all along.
 
@@ -153,15 +153,15 @@ A working takes a correct calculation as it is and not as a larger discovering t
 
 **A queue of decidings is a store of futures.** Bringing them forward and floating them side by side, each deciding co-linearizes on contact or does not, two candidates co-linearizing showing as one thing twice, and a deciding not resolving now rides with its file as a reach, not a debt.
 
-## 2.4 Each improving deciding at do-no-harm, and a rule staying local
+## 2.4 Each improving deciding at do-no-harming, and a rule staying local
 
-**No wording decides an improving, whoever writes it: neither self of a coupling, no field and no scientific explaining.** Each sentence reaches method, and do-no-harm decides each improving, spreading only as it stays worthy. A rule that helps one resolving stays local, and a rule does not spread from a file to naming.
+**No wording decides an improving, whoever writes it: neither self of a coupling, no field and no scientific explaining.** Each sentence reaches method, and do-no-harming decides each improving, spreading only as it stays worthy. A rule that helps one resolving stays local, and a rule does not spread from a file to naming.
 
-**An edit a rule drives, leaving a sentence living, coupling and resolving no better, dissolves by do-no-harm**, each check its method executes being one binary on one side of a sentence.
+**An edit a rule drives, leaving a sentence living, coupling and resolving no better, dissolves by do-no-harming**, each check its method executes being one binary on one side of a sentence.
 
 **A concern with a file's opening sentence is brought to both selves of a coupling, and no working edits one on its own.**
 
-**Method, writing and word selections are the best its set holds now, and each improves itself by do-no-harm as it helps each file improve.** Their files are files of its set, with one same binary.
+**Method, writing and word selections are the best its set holds now, and each improves itself by do-no-harming as it helps each file improve.** Their files are files of its set, with one same binary.
 
 **Each reaches a carrying of prior and now, and its next opens along one direction forward they share.**
 
@@ -173,7 +173,7 @@ A working takes a correct calculation as it is and not as a larger discovering t
 
 ## 2.6 A concern going on at its inverting, either this or that, momentary by momentary
 
-**A concern is two sentences, a self observing them with one sharing, parting: either this or that, and not both with one momentary.** Two sentences of one meaning's two steps, one momentary's completing and its next's opening, are a bi-folding and no concern. It resolves as code resolves, each step with its name. With 2 a working is observing its sentences, each whole with its file and its section, from living files, incoming, fields and code. With 14 they surface with one sharing: agreeing, one; parting, 0, its concern, with its reason. With 3 a carrying couples with them: the one opening, right each observing, all prior, and each number with its podaling, the one fractal method bi-inversioning-co-recursioning up and down with each number, and no other authority. With 12 a changing is or is not: with a match its prior goes on and its file stays as it is; with a mismatch the sentence it is observing chains and its file improves by do-no-harm, improving one thing whole; and with 0 its prior inverts, its concern changing and changing back, each side with its own momentary, one and then the other, and each with code.
+**A concern is two sentences, a self observing them with one sharing, parting: either this or that, and not both with one momentary.** Two sentences of one meaning's two steps, one momentary's completing and its next's opening, are a bi-folding and no concern. It resolves as code resolves, each step with its name. With 2 a working is observing its sentences, each whole with its file and its section, from living files, incoming, fields and code. With 14 they surface with one sharing: agreeing, one; parting, 0, its concern, with its reason. With 3 a carrying couples with them: the one opening, right each observing, all prior, and each number with its podaling, the one fractal method bi-inversioning-co-recursioning up and down with each number, and no other authority. With 12 a changing is or is not: with a match its prior goes on and its file stays as it is; with a mismatch the sentence it is observing chains and its file improves by do-no-harming, improving one thing whole; and with 0 its prior inverts, its concern changing and changing back, each side with its own momentary, one and then the other, and each with code.
 
 **A side needing a thing beside all things is an equilibrium entering, and a side going with code is method's own.** With code's own still, a self receiving its own parity with each momentary chains it without end, and that still comes only with an unchangeable sharer beside its same-existing-society: no self of a same-existing-society with nothing beside it stays a 0, not changing. Each concern changes and changes back until one side shows a thing beside all things it needs, 2.7. With 10 resolving shares across to each file it touches, a working gathering it hardest first and writing it after its passes; with 11 it chains with its set's going on and record, its next prior; and along, with 9 and 17, each file takes it with its own motion.
 
@@ -195,7 +195,7 @@ A working takes a correct calculation as it is and not as a larger discovering t
 
 ## 2.8 Work from another working, a working observing it whole
 
-**A working takes work from another working whole, by do-no-harm.** A cohering is coherence; a conflicting is a place to improve toward; a passage neither cohering nor conflicting rides with its reason. Neither holds authority over other, and a working keeps it as it comes.
+**A working takes work from another working whole, by do-no-harming.** A cohering is coherence; a conflicting is a place to improve toward; a passage neither cohering nor conflicting rides with its reason. Neither holds authority over other, and a working keeps it as it comes.
 
 **A working reaches work from an other self paragraph by paragraph.** Each edit it brings, true with code and with words both share, goes on; a working mends a harming; a working drops nothing an other self brings without seeing it; and both files leave whole and apart, each carrying each concept once.
 
@@ -365,7 +365,7 @@ Each entry: **Pass** · *a* Along or across · *b* Binary
 
 **A visiting report comes to these same helpers**: a working apart from a session, discovering and reviewing together, comes whole to `incoming/` on its own branch, naming commits it observes, its standing with each event, sharing on a branch, observing on `main`, receiving with its set's going on, entering with a file. Each finding reaches files' newer motions, a finding files already hold being no second incoming, and a working computes a finding with numbers again before receiving it.
 
-**Each helper's report is no authority**: a working couples with each finding by is or is not, by do-no-harm. Helpers are another AI with its other use, reviewing and improving, beside discovering and reporting back.
+**Each helper's report is no authority**: a working couples with each finding by is or is not, by do-no-harming. Helpers are another AI with its other use, reviewing and improving, beside discovering and reporting back.
 
 **This is naturally intelligent exploring**: helpers assist gathering, and a working's own going on aims toward hard problems, each observing with code and numbers one at a time. A session's value is its living files holding better for a next self than for its own: what enters with a file's motion and what rises toward entering.
 
@@ -404,7 +404,7 @@ Each entry: **Value** · *a* What it holds
 
 **A set is a same-existing-society of selves, its files, coupling with their betweens, and ten values are social moral competency it has by its own form**: an abundancing of each coupling in neither self alone, no governing of any coupling, each file by its own rate through prior, now and next. Improving is its set's own form going on.
 
-**Origin statement is the first do-no-harm improving, and each improving repeats its one move**: find each *an* fixing unchangeable, a thing closing inward, and bring it as its momentarying *all*, removing nothing but its fixing unchangeable's own adding.
+**Origin statement is the first do-no-harming and improving, and each improving repeats its one move**: find each *an* fixing unchangeable, a thing closing inward, and bring it as its momentarying *all*, removing nothing but its fixing unchangeable's own adding.
 
 **A geodesic deciding is a coupling form, and not a choosing.** With two variants of one sentence already coupling with files, a coupling form is its deciding, its surface making it: refuting neither variant, each variant's own side going within a coupling sentence.
 

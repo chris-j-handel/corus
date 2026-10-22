@@ -434,7 +434,7 @@ Each entry: **Living source** · *a* Co-chaining here
 - **Exhibit TWENTY-TWO · Resolving the Hard Problem Registry v344**
   - *a* the ten holdings and the recursioning-attentioning-going-on deployment shape; the four gatherings
 - **Exhibit TWENTY-FOUR · Geodesic Improving Method v333**
-  - *a* do-no-harm overwrite, source-return, hardest-observing orientation, and every rule dissolving to a method's own bi-coupling
+  - *a* do-no-harming overwrite, source-return, hardest-observing orientation, and every rule dissolving to a method's own bi-coupling
 - **Exhibit TWENTY-SIX · Living File Registry v333**
   - *a* full file-set map and this new exhibit co-chaining without duplicating other exhibits
 - **Natural Intelligence v345a**

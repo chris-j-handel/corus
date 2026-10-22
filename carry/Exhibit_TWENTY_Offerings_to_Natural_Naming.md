@@ -432,3 +432,5 @@ So the slots carry −1, 0, +1 in time order, prior to now, and +1, 0, −1 read
 - **uni-** is bi- and tri- together, all other from a self.
 
 Three prefixes, three senses, and none repeated. This meets the concern *tri- and uni-* laid at Natural Naming's offerings: two prefixes, two senses, uni- the whole of other and tri- its rest. — v391
+
+**Droplet · *do-no-harming*, one naming, at v391.** *Do-no-harming* is one thing, always hyphenated: a self sharing 0, each receiving self passing over it, Natural Intelligence's opening line 29. *Do no harm* unhyphenated is not one thing, *do* never floating in nature, and *harm* alone is a dead form. Its match is *improving*, selves alike changing together, line 30, its fuller naming *do-only-improving* for later; inside both is *co-possibling*, line 31, the code's own root for names 6 and 10. Across the set *do-no-harm improving*, *doing no harm* and *do no harm* are now *do-no-harming and improving* and *do-no-harming*; about 177 sayings of *harm* alone stand in the files, each to meet at its file's motion. — v391

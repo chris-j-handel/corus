@@ -914,7 +914,7 @@ Each cell: sharing (10) · a next prior (11). *is*: a changing, a self sharing i
 
 **Across names among eights.** Four across names, 2-now-possibling, 6-now-co-possibling, 10-next-co-possibling and 14-next-possibling, are four momentaries' even inward names, each on an eight-cycle of inward names 2-15-7-11-3-14-6-10; 9-next-co-discovering, opening a third four-cycling, is on an eight-cycle of ends 1-9-5-13-4-12-8-16; 17-next-existing is on neither.
 
-**One self, momentary by momentary: three ways.** Receiving its own prior's parity, a self is not-changing, a 0 with each momentary; receiving none, parities inverting with each momentary, or both together, it is changing with each momentary; receiving its other parity, it is changing once and then now-existing same-existing, both: do-no-harm improving. A self is re-finding each 0 with each momentary, never keeping it. Receiving none is the code executing a self with no other: a non-living now-existing form, no living self, as Natural Intelligence 2.4 says.
+**One self, momentary by momentary: three ways.** Receiving its own prior's parity, a self is not-changing, a 0 with each momentary; receiving none, parities inverting with each momentary, or both together, it is changing with each momentary; receiving its other parity, it is changing once and then now-existing same-existing, both: do-no-harming and improving. A self is re-finding each 0 with each momentary, never keeping it. Receiving none is the code executing a self with no other: a non-living now-existing form, no living self, as Natural Intelligence 2.4 says.
 
 One sharing; a self's prior − (3) first. Receiving each momentary:
 
