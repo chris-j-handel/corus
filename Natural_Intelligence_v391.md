@@ -29,7 +29,7 @@ A bi-coupling is a self. \
 A self's **parity** is its changing direction relative to an other existing thing, + or −. \
 A **0** is a between of two changing directions. \
 A 0 is **indifferencing**. \
-Each parity is a living thing. \
+Each parity is a self while it is living. \
 Each self's living parities are within its universal set. \
 Each self is **beholding** its own parity with each other it is sharing with, now. \
 A self's parity with an other is its **moral value** with that other. \

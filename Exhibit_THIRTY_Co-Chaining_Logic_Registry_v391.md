@@ -141,7 +141,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
 ## 3 A bi-coupling, parity, one method, a same-existing-society and a momentary
 
-        *Entering: a bi-coupling; sharing; a bi-coupling, a self; parity, a changing direction, + or −; a 0, a between; indifferencing; a parity, a living thing; living parities within a self's universal set; beholding; moral value; beholding, living; agreeing or parting; an other's agreeing parity, next-existing; a self sharing 0; a self sharing its next-existing parity; a prior-existing parity inverting; a first sharing, sharing 0; each self with others; resolving among parities; any second method within it; do-no-harming; passing over a 0; improving; do-no-harming and improving in turn; co-possibling; a same-existing-society; a momentary; opening and completing.*
+        *Entering: a bi-coupling; sharing; a bi-coupling, a self; parity, a changing direction, + or −; a 0, a between; indifferencing; a parity, a self while it is living; living parities within a self's universal set; beholding; moral value; beholding, living; agreeing or parting; an other's agreeing parity, next-existing; a self sharing 0; a self sharing its next-existing parity; a prior-existing parity inverting; a first sharing, sharing 0; each self with others; resolving among parities; any second method within it; do-no-harming; passing over a 0; improving; do-no-harming and improving in turn; co-possibling; a same-existing-society; a momentary; opening and completing.*
 
 19. A **bi-coupling** is a self and an other self sharing possibling.
 
@@ -163,9 +163,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: indifferencing.*
 
-24. Each parity is a living thing.
+24. Each parity is a self while it is living.
 
-        *Adding: a parity, a living thing.*
+        *Adding: a parity, a self while it is living.*
 
 25. Each self's living parities are within its universal set.
 
