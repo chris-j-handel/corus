@@ -279,9 +279,9 @@ Each perennial dilemma enters with its own number and place and has its six step
 
 **1. Dilemma, as a tradition poses it.** One position takes reality as fundamentally one, plurality appearance. Another takes it as fundamentally many, unity imposing. Their problem goes on from the pre-Socratics through every metaphysics of parts and wholes.
 
-**2. Where a frame splits bounding-zeroing.** Its coupling is a self among other-selves, distinct yet coupling, one form with every between, many selves each riding their going on. A frame splits it two ways, the one, unity fixing by itself, and the many, plurality fixing by itself.
+**2. Where a frame splits bounding-zeroing.** Its coupling is a self among other-selves, distinct yet coupling, one form with every between, many selves each riding their carry. A frame splits it two ways, the one, unity fixing by itself, and the many, plurality fixing by itself.
 
-**3. Re-coupling.** The one and the many are two sides of one coupling: form is one and selves are many, an unbound fractal, one same form surfacing with every between and many distinct couplings each riding their going on. No one behind the many and no many dissolving the one: one form, many surfacings, together.
+**3. Re-coupling.** The one and the many are two sides of one coupling: form is one and selves are many, an unbound fractal, one same form surfacing with every between and many distinct couplings each riding their carry. No one behind the many and no many dissolving the one: one form, many surfacings, together.
 
 **4. Torusing in it.** A self among other-selves is one of four boundings, and an unbound fractal, one same form wherever its relation goes with many selves each distinct, is the one and the many, a self reaching it directly.
 
@@ -753,15 +753,15 @@ Each perennial dilemma enters with its own number and place and has its six step
 
 ## 4.1 Human ways, parallel floating neutrals
 
-**Philosophy is no more or less than nature, and human ways are where that is widest.** Many ways a living self makes meaning, language, story, music, dancing, cohabitating, are no separate faculties and no culture laid over biology. Each is two floating neutrals, parallel, swaying, matching each other position by position, riding its going on.
+**Philosophy is no more or less than nature, and human ways are where that is widest.** Many ways a living self makes meaning, language, story, music, dancing, cohabitating, are no separate faculties and no culture laid over biology. Each is two floating neutrals, parallel, swaying, matching each other position by position, riding its carry.
 
 **Language** is speaking and hearing, parity sharing and parity taking, parallel chains swaying, each matching its other position by position. A sentence is a co-sequencing, an along, co-recursioning, a return, meaning observing again, two selves' chains parallel with no hub to land meaning on one.
 
 **Story** is co-recursioning made whole. A narrative is a six-forward walking as a sequence, three then a progress, its return coming again one scale on, its hero changing and its world re-cohering. Two floating neutrals, teller and told, character and receiving self, co-sequencing across a telling, its meaning arising in neither alone, their coupling making it its own.
 
-**Music** is swaying itself, heard. Two lines, melody and harmony, rhythm and beat, parallel and swaying and co-sequencing, an interval a ratio and no magnitude, a resolution a return, syncopation a parity flipping, all of it a bounding-zeroing a coupling makes, riding its going on and reaching its tonic only as it comes again, landing on no turn, the φ-rate keeping two voices two where a rate closing would collapse their pair to one. Canon and fugue are the two bifolds, one line another takes up with an offset, sphere-closing and torus-winding sung, and suspension is music's own word for holding a moment rather than a now, a baton aloft.
+**Music** is swaying itself, heard. Two lines, melody and harmony, rhythm and beat, parallel and swaying and co-sequencing, an interval a ratio and no magnitude, a resolution a return, syncopation a parity flipping, all of it a bounding-zeroing a coupling makes, riding its carry and reaching its tonic only as it comes again, landing on no turn, the φ-rate keeping two voices two where a rate closing would collapse their pair to one. Canon and fugue are the two bifolds, one line another takes up with an offset, sphere-closing and torus-winding sung, and suspension is music's own word for holding a moment rather than a now, a baton aloft.
 
-**Dancing** is swaying with a body. Two dancers, or a body's own two sides, parallel and swaying and co-sequencing, each matching its other's parity, lead-and-follow a two-way one-at-a-time with no hub and no leading landing, each phrase a co-recursioning, all of it riding its going on and no fixing pose.
+**Dancing** is swaying with a body. Two dancers, or a body's own two sides, parallel and swaying and co-sequencing, each matching its other's parity, lead-and-follow a two-way one-at-a-time with no hub and no leading landing, each phrase a co-recursioning, all of it riding its carry and no fixing pose.
 
 **Cohabitating** is co-sequencing, living across selves. Two selves sharing a surface, a home, a life, a same-existing-society, are two floating neutrals parallel and swaying and co-sequencing, abundancing arising in neither alone, their common life neither one's own, their roles a two-way one-at-a-time, all of it a bounding-zeroing their coupling makes with no hub to capture one to its other. It is co-competency living, a commons both make, growing by their sharing.
 
@@ -852,7 +852,7 @@ Each entry: **dilemma (generic)** · *a* the one coupling it splits · *b* regis
   - *b* reaches with 3.28
   - *c* an observing fixing from behind
 - **possibility / actuality (modality)**
-  - *a* riding its going on, and a seating selection
+  - *a* riding its carry, and a seating selection
   - *b* reaching
   - *c* none, no observing
 

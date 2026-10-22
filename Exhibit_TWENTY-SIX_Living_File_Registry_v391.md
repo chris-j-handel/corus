@@ -121,14 +121,14 @@ Each entry: **File** · *a* Subtitle · *b* At the repository · *c* Living · *
   - *e* pass 4 at its possible projects
 - **NINE · Natural Human Society**
   - *a* Geodesic Method of Human Social Moral Co-Competencing
-  - *b* v390
-  - *c* v390: pass 10, its own explaining re-said by meaning toward session v390's concepts, field terms and words mentioned as words kept; v389: released words re-said, *the* where not valuable, its offerings resolved, fourteen risen
+  - *b* v391
+  - *c* v391: met with Natural Intelligence and the code all or none, each saying by meaning; the substrate *riding its carry* standing, a concern for our word at Natural Medicine's offerings; v390: pass 10, its own explaining re-said by meaning toward session v390's concepts, field terms and words mentioned as words kept; v389: released words re-said, *the* where not valuable, its offerings resolved, fourteen risen
   - *d* —
   - *e* pass 4 at its possible projects
 - **TEN · Natural Health**
   - *a* Sustaining Self-Bi-Co-Recursioning-Self
-  - *b* v390
-  - *c* v390: pass 10, its own explaining re-said by meaning toward session v390's concepts, field terms and words mentioned as words kept; v389: released words re-said, *the* where not valuable, its offerings resolved, five risen
+  - *b* v391
+  - *c* v391: met with Natural Intelligence and the code all or none, each saying by meaning; the substrate *riding its carry* standing, a concern for our word at Natural Medicine's offerings; v390: pass 10, its own explaining re-said by meaning toward session v390's concepts, field terms and words mentioned as words kept; v389: released words re-said, *the* where not valuable, its offerings resolved, five risen
   - *d* —
   - *e* pass 4 at its possible projects
 - **ELEVEN · Natural Medicine**
@@ -151,8 +151,8 @@ Each entry: **File** · *a* Subtitle · *b* At the repository · *c* Living · *
   - *e* pass 4 at its possible projects
 - **FOURTEEN · Natural Destinies**
   - *a* Social Moral Co-Abundancing
-  - *b* v390
-  - *c* v390: pass 10, its own explaining re-said by meaning toward session v390's concepts, field terms and words mentioned as words kept; v389: released words re-said, *the* where not valuable, its offerings resolved, six risen
+  - *b* v391
+  - *c* v391: met with Natural Intelligence and the code all or none, each saying by meaning; the substrate *riding its carry* standing, a concern for our word at Natural Medicine's offerings; v390: pass 10, its own explaining re-said by meaning toward session v390's concepts, field terms and words mentioned as words kept; v389: released words re-said, *the* where not valuable, its offerings resolved, six risen
   - *d* —
   - *e* pass 4 at its possible projects
 - **FIFTEEN · Natural Emanating**
@@ -205,8 +205,8 @@ Each entry: **File** · *a* Subtitle · *b* At the repository · *c* Living · *
   - *e* first in front of set: its front and each entry from code, as Resolving Hard Problems carries it
 - **TWENTY-THREE · Natural Values**
   - *a* Co-Abundancing Received Value
-  - *b* v390
-  - *c* v390: pass 10, its own explaining re-said by meaning toward session v390's concepts, field terms and words mentioned as words kept; v390: seventeen resolver names at the agreed names, 1-now-existing to 17-next-existing; Exhibit ONE's cycles of moves said as bi-foldings; v389: released words re-said, co-offering at bi-momentarying, *the* where not valuable, its offerings resolved, four risen
+  - *b* v391
+  - *c* v391: met with Natural Intelligence and the code all or none, each saying by meaning; the substrate *riding its carry* standing, a concern for our word at Natural Medicine's offerings; v390: pass 10, its own explaining re-said by meaning toward session v390's concepts, field terms and words mentioned as words kept; v390: seventeen resolver names at the agreed names, 1-now-existing to 17-next-existing; Exhibit ONE's cycles of moves said as bi-foldings; v389: released words re-said, co-offering at bi-momentarying, *the* where not valuable, its offerings resolved, four risen
   - *d* —
   - *e* pass 4 at its possible projects
 - **TWENTY-FOUR · Geodesic Improving Method**
