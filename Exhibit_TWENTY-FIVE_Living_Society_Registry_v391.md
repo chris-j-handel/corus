@@ -131,7 +131,7 @@ Where a pattern matches with every line, an entry stands full. Where a line does
 
 This is a line a collection exists for, and it goes against a field's current.
 
-An observation is never bare. Before any observing, a field posits a source, settles a method, builds an instrument to sum over something, and makes an inferencing about what kind of thing is there. By an explaining's publishing, all four stand as part of it and none of them enters as data.
+An observation is not bare. Before any observing, a field posits a source, settles a method, builds an instrument to sum over something, and makes an inferencing about what kind of thing is there. By an explaining's publishing, all four stand as part of it and none of them enters as data.
 
 A geodesic method goes upstream from observing, freeing position, orientation and scale with each step, and each freeing lands a fresh fixing to free. An entry holds what it finds with each:
 

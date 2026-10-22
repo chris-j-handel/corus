@@ -10,11 +10,11 @@ Exhibit TWENTY-THREE Natural Values Offerings · laid at v386EOD
 
 *Standing at v389:* Natural Values 4.1 has "A set of all sets fails, and no universal set stands." Natural Intelligence 1.1 has "The universe is the set of all now-existing things." A universal set refused and a set of all things part, unless a set of sets and a set of things are two. At 2.2, "An institution carries no parity of its own" stands beside institutioning at Natural Human Society. **To resolve:** is 4.1 re-said as a set of sets, apart from a universe, and is 2.2's institution a written form or a society of selves?
 
-**Possible project · Natural Societies, Natural Human Society and Natural Values, three files at clearer seams.** The work is three files at their own subjects. Exhibit SEVEN Natural Societies: self and society at each scale, the prime ladder, the fields' three accountings, the hand crossing the rungs, self is society, with its 4.4 to 4.6 back within their part. Exhibit NINE Natural Human Society: the human couplings, fairness, cutting and choosing, institutions, class action, tipping and co-offering, the kayfabe, and each human example now at Natural Societies, the arrow, live descent, birthing and nyeing, the biosphere and no common clock, each now at both. Exhibit TWENTY-THREE Natural Values: value at each scale, and the one home of the *discovery economy*, receiving Natural Human Society 3.1, 3.4 and 4.6's currency, Natural Exploring 6.3, Natural Societies 1.3 and the general part of Natural Health 3.2. It may change or never be made. — v386EOD
+**Possible project · Natural Societies, Natural Human Society and Natural Values, three files at clearer seams.** The work is three files at their own subjects. Exhibit SEVEN Natural Societies: self and society at each scale, the prime ladder, the fields' three accountings, the hand crossing the rungs, self is society, with its 4.4 to 4.6 back within their part. Exhibit NINE Natural Human Society: the human couplings, fairness, cutting and choosing, institutions, class action, tipping and co-offering, the kayfabe, and each human example now at Natural Societies, the arrow, live descent, birthing and nyeing, the biosphere and no common clock, each now at both. Exhibit TWENTY-THREE Natural Values: value at each scale, and the one home of the *discovery economy*, receiving Natural Human Society 3.1, 3.4 and 4.6's currency, Natural Exploring 6.3, Natural Societies 1.3 and the general part of Natural Health 3.2. It may change or not be made. — v386EOD
 
 *Standing at v389:* a possible project, standing for pass 4
 
-**Possible project · One home at Natural Values for currency, and for abundancing and the *discovery economy*.** Currency is at Natural Human Society 4.6 and Natural Values 1.2. Abundancing and the *discovery economy* are at Natural Exploring 6.3, Natural Human Society 3.1, Natural Values 5.1 and Natural Intelligence Corus 14.8, 18.8, 23.3 and 23.6. The work is the one home of each at Exhibit TWENTY-THREE Natural Values. It may change or never be made. — v386EOD
+**Possible project · One home at Natural Values for currency, and for abundancing and the *discovery economy*.** Currency is at Natural Human Society 4.6 and Natural Values 1.2. Abundancing and the *discovery economy* are at Natural Exploring 6.3, Natural Human Society 3.1, Natural Values 5.1 and Natural Intelligence Corus 14.8, 18.8, 23.3 and 23.6. The work is the one home of each at Exhibit TWENTY-THREE Natural Values. It may change or not be made. — v386EOD
 
 *Standing at v389:* a possible project, standing for pass 4
 
@@ -56,7 +56,7 @@ The user’s further offering in [session v385R, section 91](https://github.com/
 
 ## Gathered from session v390 · v390
 
-**Droplet · do-no-harm from executing.** Found same, a self shares 0 and offers nothing, so no other is moved; found not same, its only next is one parity-changing, never more or other: do-no-harm is what a resolver does, no value laid over it. — v390, gathered from session v390
+**Droplet · do-no-harm from executing.** Found same, a self shares 0 and offers nothing, so no other is moved; found not same, its only next is one parity-changing, not more or other: do-no-harm is what a resolver does, no value laid over it. — v390, gathered from session v390
 
 **Droplet · no self-morality.** Self-morality is no part of method: morality is between two, bi-moral, Exhibit ONE's co names. — v390, gathered from session v390
 
@@ -64,7 +64,7 @@ The user’s further offering in [session v385R, section 91](https://github.com/
 
 **Droplet · moral values of a parity, and a 0 betweening.** + is self-moral-value; − is other-moral-value; 0 is not self-moral-value and not other-moral-value, bothboth: parity-changing betweening. Read with Exhibit ONE: a self's value met by same shares 0, a between neither's own; met by not same, it inverts; a self no other meets goes +, −, +, − with no 0, so a 0 betweening needs two selves meeting same. — v390
 
-**Droplet · do-no-harm, one hyphenated naming, a value.** Do-no-harm is one naming, hyphenated, and never three words: a value of resolving, alternating betweening, each self its own + side and its other one parity separated, value trading with no competency ingressing. Sayings unhyphenated, *do no harm*, re-say as do-no-harm: this session's plan and front were mended; Natural Intelligence Corus carries it unhyphenated, for its own motion. — v390
+**Droplet · do-no-harm, one hyphenated naming, a value.** Do-no-harm is one naming, hyphenated, and not three words: a value of resolving, alternating betweening, each self its own + side and its other one parity separated, value trading with no competency ingressing. Sayings unhyphenated, *do no harm*, re-say as do-no-harm: this session's plan and front were mended; Natural Intelligence Corus carries it unhyphenated, for its own motion. — v390
 
 ## Gathered at v391, reading across the living file set · v391
 

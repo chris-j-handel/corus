@@ -376,7 +376,7 @@ A balance point of a symmetric thing rides its own axis of balance by what such 
 
 **5.4 The state-three and the flow-three**
 
-A three goes as a state or as a flow and never both, and both change and change back. A state-three counts what stands and has no rate; a flow-three goes one at a time and counts nothing. Neither reversing its other, and both ways forward.
+A three goes as a state or as a flow and not both, and both change and change back. A state-three counts what stands and has no rate; a flow-three goes one at a time and counts nothing. Neither reversing its other, and both ways forward.
 
 This is why an accounting returns three and not four. A total is a state-three, a level is a state-three, a direction is a flow-three, and a fourth comes nowhere, since state and flow is all of what changes and changes back. A cube's moves reach one twelfth of its assemblies, parting by three books conserving, corners twisting by threes, edges flipping by twos and a permutation's parity by twos: an accounting's three with a ledger, a field's instance of it and no proof beneath it.
 

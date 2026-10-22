@@ -20,7 +20,7 @@ Exhibit FOUR Natural Mathematics Offerings · improved at v389
 - 6.1, *(1, 0) to (1, 1) continuing the first parity*: the pair is said at no other line of any file; + and − are the parities.
 - 1.3, *Neutralling is co, odd and along*: tri is along at 9, 11, 13 and 15.
 - 1.4, *a floor*: a word Natural Naming releases; and *released at its bound*, across or along unsaid.
-- 3.1 to 3.3 from the entry before: *A running never involutes*, a changing that is not chaining the prior on; *Two rounds of m and n stations … the torus the two rounds make*, beside Exhibit ONE's torus of selves at other numbers.
+- 3.1 to 3.3 from the entry before: *A running does not involute*, a changing that is not chaining the prior on; *Two rounds of m and n stations … the torus the two rounds make*, beside Exhibit ONE's torus of selves at other numbers.
 - 5.1, *the six forward recursionings*: no six is listed in the section; 5.2 now says three own-forward steps at each side.
 - 5.3: *compact* is said twice in its opening list, the field's *closed* carrying it. — v380L
 
@@ -62,7 +62,7 @@ Exhibit FOUR Natural Mathematics Offerings · improved at v389
 
 *Standing at v389:* 1.5 has "Inward of the surface it is unnatural, measured: measure, magnitude, continuum"; Natural Intelligence has "outward is one scale up and inward one scale down, and neither is a place". Here inward and outward lay a field's measured and formal places about a surface; there they are scales of living selves. **To resolve:** re-say 1.5's three places with words other than inward and outward, or keep them, with a sentence: a form's place is no scale?
 
-**Concern · v389 · an eight joined at its deriving.** Natural Explaining 4.7 says two tellings join only at one deriving from the other and never at a shared count, *three at one self along the running and three at three selves across the ring are two things at one number*; each eight of the set is one eight at its deriving from 1 to 8, said at each pass, and an eight joined by its count alone is the joining 4.7 releases.
+**Concern · v389 · an eight joined at its deriving.** Natural Explaining 4.7 says two tellings join only at one deriving from the other and not at a shared count, *three at one self along the running and three at three selves across the ring are two things at one number*; each eight of the set is one eight at its deriving from 1 to 8, said at each pass, and an eight joined by its count alone is the joining 4.7 releases.
 
 *Standing at v389:* Natural Explaining 4.7 unites two tellings only at one deriving from its other; this file's eights, 2.2's "Eight on", 3.2's "8 apart" and 7.1's "eight forms", stand beside a field's eights at 2.7 and 7.6, octonions and a cube's vertices, and none stands at its deriving from 1 to 8. **To resolve:** which of this file's eights derive from a self's span at 1 to 8, each so at its sentence, and which stay a field's own count?
 
@@ -80,7 +80,7 @@ Exhibit FOUR Natural Mathematics Offerings · improved at v389
 
 ## Gathered from session v390 · v390
 
-**Droplet · a universal set a member of itself, co-sequentially.** A set gathered once, apart from momentarying, by a saying about its own membership turns on itself. A universal set momentarying is a member of itself co-sequentially: now has itself prior as a member, as a self's next prior forms from its prior and parity-offerings and never from itself within one momentary. Self-membering is sequence, prior to now to next, no loop. — v390, gathered from session v390
+**Droplet · a universal set a member of itself, co-sequentially.** A set gathered once, apart from momentarying, by a saying about its own membership turns on itself. A universal set momentarying is a member of itself co-sequentially: now has itself prior as a member, as a self's next prior forms from its prior and parity-offerings and not from itself within one momentary. Self-membering is sequence, prior to now to next, no loop. — v390, gathered from session v390
 
 **Droplet · complement and a wrapping turn.** Of a universal set any two parts give a third, its complement; around three times a flat turn gives a third same, two agreeing, and a turn wrapping a corus leaves its third edge is or is not parity-changing. — v390, gathered from session v390
 

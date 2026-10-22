@@ -252,7 +252,7 @@ Each entry: **Accounting** · *a* Closing · *b* Discovering other than prior ·
   - *c* comma
 - **winding on a torus**
   - *a* a rational ratio, closing
-  - *b* an irrational ratio, never closing
+  - *b* an irrational ratio, not closing
   - *c* quasi-periodic
 - **assembled cube**
   - *a* solved state
@@ -299,7 +299,7 @@ Each entry: **Accounting** · *a* Closing · *b* Discovering other than prior ·
 
 **A winding on a torus of three axes with rates having no whole-number relation comes arbitrarily close to each point and reaches none again; rates having one relation have a winding on a surface within it.** With √2, √3 and √5 it comes arbitrarily close to each point of its torus of three; with 1, φ and φ² it is on a surface. With two axes one relation is a rational ratio, and 1 and φ come arbitrarily close to each point of a torus of two. Each rate of such a winding is a parameter it is written with; a self's own rate is written with none, unrelationing with each other rate.
 
-**A winding with a rational rate closes, and a winding with φ never closes.** φ is the number-form of never locking, and unrelationing goes with each coupling's own going on by φ, reaching a receiving self's own prior: no rational rate laid over a coupling supplies it. A rate prescribed irrational is a rate prescribed and a finite floating-point rate no exact irrational, and windings' closing and coming close are true of their model, its axes and its time.
+**A winding with a rational rate closes, and a winding with φ does not close.** φ is the number-form of not locking, and unrelationing goes with each coupling's own going on by φ, reaching a receiving self's own prior: no rational rate laid over a coupling supplies it. A rate prescribed irrational is a rate prescribed and a finite floating-point rate no exact irrational, and windings' closing and coming close are true of their model, its axes and its time.
 
 ## 4.3 Caught by a polynomial, and reached by square roots
 

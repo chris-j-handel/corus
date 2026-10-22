@@ -2921,7 +2921,7 @@ Doublings, each with its own shape. **A naming relocating under pressure**: a tw
 
 **With 12-next-co-same-existing.** That one paradigm's observing is state of a map, traditional accounts of remapping incomplete, a broader mechanistic focus a need and plasticity and stability of maps possibly varying across time scales, discussion of reorganisation's relevance ongoing. With two imaging paradigms selves observe, each with its own coupling, and they give reorganisation and preservation, both standing by their own instruments.
 
-**With 11-next-co-observing.** A body map and a sensation couple, map going on and re-forming. With one paradigm selves observe reorganisation and with another preservation, both standing by their own instruments; mirrors help mixedly, peripheral routes help some, and phantoms come for limbs that never grow, which no story of a representation's losing holds: one paradigm's observing fixing as state of a map pattern-matches one instrument's coupling as a thing itself, and map is a same-existing, a self observing it its own way with each instrument because it is making itself with each.
+**With 11-next-co-observing.** A body map and a sensation couple, map going on and re-forming. With one paradigm selves observe reorganisation and with another preservation, both standing by their own instruments; mirrors help mixedly, peripheral routes help some, and phantoms come for limbs that do not grow, which no story of a representation's losing holds: one paradigm's observing fixing as state of a map pattern-matches one instrument's coupling as a thing itself, and map is a same-existing, a self observing it its own way with each instrument because it is making itself with each.
 
 ## 9.17 Determinism and randomness · 110
 

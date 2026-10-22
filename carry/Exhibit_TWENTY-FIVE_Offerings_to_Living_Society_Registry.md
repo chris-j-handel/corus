@@ -14,7 +14,7 @@ Living Ghost Registry and Equilibria Registry: two registries, one derivation. T
 
 *Standing at v389:* Re-Settling the Living Files §8 has Living Ghost Registry's door records of passed societies at 7.8, about 6,000 words, going to entries here. This file's 1.2 has "The door record stays at the door, its label stays, and what arrives here is not what stood there", and each entry from 2.6 carries "its addresses stand there". They part at where a door record stands. **To resolve:** do 7.8's records move into entries here at Living Ghost Registry's own motion, or stay at its door with each entry addressing them?
 
-**Possible project · Living Society Registry the observations home for the sciences.** The work is Exhibit TWENTY-FIVE Living Society Registry as the observations home for the sciences, with a source address at each entry; it carries a source address at no entry now. Its Part Three status paragraph goes to Exhibit TWENTY-SIX Living File Registry, and its 1.10 is written or the numbering closed. It may change or never be made. — v386EOD
+**Possible project · Living Society Registry the observations home for the sciences.** The work is Exhibit TWENTY-FIVE Living Society Registry as the observations home for the sciences, with a source address at each entry; it carries a source address at no entry now. Its Part Three status paragraph goes to Exhibit TWENTY-SIX Living File Registry, and its 1.10 is written or the numbering closed. It may change or not be made. — v386EOD
 
 *Standing at v389:* a possible project, standing for pass 4. **To resolve:** at pass 4, does it rise as a droplet at this file, stay kept at Possibling of Living Society Registry, or release?
 

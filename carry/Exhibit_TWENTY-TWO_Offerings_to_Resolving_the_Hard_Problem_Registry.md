@@ -58,7 +58,7 @@ Exhibit TWENTY-TWO Resolving the Hard Problem Registry Offerings · improved at 
 
 *Standing at v389:* Registry's "Ten unchangeables, one resolving" has "A naming and an offering stay two, a between of them", and Co-Chaining Logic Registry step 575 has "An offering of one concept at one word is a naming"; two at one, a naming an offering at an other. A step after 538 is offered: a naming of a changing as same at all momentaries is a form still. **To resolve:** a naming and an offering two, or a naming one kind of offering?
 
-**Possible project · Natural Intelligence Corus's Part 17 at the Living Ghost Registry and the hard-problem registries.** Natural Intelligence Corus's Part 17, the control ghost, accounting failures and the inseparable view's uptake, goes to Exhibit TWENTY-SEVEN Living Ghost Registry and the hard-problem registries, with its 17.4 at the combined Exploring. It may change or never be made. — v386EOD
+**Possible project · Natural Intelligence Corus's Part 17 at the Living Ghost Registry and the hard-problem registries.** Natural Intelligence Corus's Part 17, the control ghost, accounting failures and the inseparable view's uptake, goes to Exhibit TWENTY-SEVEN Living Ghost Registry and the hard-problem registries, with its 17.4 at the combined Exploring. It may change or not be made. — v386EOD
 
 *Standing at v389:* nothing parts; a possible project moves Natural Intelligence Corus v330's Part 17, its control ghost, accounting failures and inseparable view's uptake, to Living Ghost Registry and both hard-problem registries, its 17.4 to a combined Exploring. It may change or go unmade. **To resolve:** make this motion at those files, or let Corus's Part 17 stay?
 

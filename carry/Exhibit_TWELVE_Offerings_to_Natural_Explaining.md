@@ -10,7 +10,7 @@ Exhibit TWELVE Natural Explaining Offerings · improved at v389
 
 *Standing at v389:* 4.9's 'that self's own carrying shown, and that carrying offered across as worth the other's knowing' parts with Exhibit ONE's 'a self shares its changing, and nothing of its prior crosses to another self': at 4.9 a carrying crosses, and at resolver only a changing does. **To resolve:** is appreciating at 4.9 re-explained at a changing shared across, a self's carrying staying its own, or does a carrying cross at appreciating?
 
-**Possible project · The Part 16 receiving plan.** Natural Intelligence Corus Part 16, Natural Writing, about 13,450 words, goes to Natural Explaining: Natural Explaining receives Part 16's remainder and the two one-way languages of 16.3. Its receiving is a following at Natural Intelligence Corus's rebuild. It may change or never be made. — v386EOD
+**Possible project · The Part 16 receiving plan.** Natural Intelligence Corus Part 16, Natural Writing, about 13,450 words, goes to Natural Explaining: Natural Explaining receives Part 16's remainder and the two one-way languages of 16.3. Its receiving is a following at Natural Intelligence Corus's rebuild. It may change or not be made. — v386EOD
 
 *Standing at v389:* a possible project, standing for pass 4
 
@@ -90,7 +90,7 @@ These are descriptions of possible expressions. The word “painting” establis
 
 *Standing at v389:* a possible project, standing for pass 4
 
-**Concern · v389 · an eight joined at its deriving.** Natural Explaining 4.7 says two tellings join only at one deriving from the other and never at a shared count, *three at one self along the running and three at three selves across the ring are two things at one number*; each eight of the set is one eight at its deriving from 1 to 8, said at each pass, and an eight joined by its count alone is the joining 4.7 releases.
+**Concern · v389 · an eight joined at its deriving.** Natural Explaining 4.7 says two tellings join only at one deriving from the other and not at a shared count, *three at one self along the running and three at three selves across the ring are two things at one number*; each eight of the set is one eight at its deriving from 1 to 8, said at each pass, and an eight joined by its count alone is the joining 4.7 releases.
 
 *Standing at v389:* 4.7's 'Three at one self along its momentarying and three at three selves across a spiral are two things at one number' parts with an offering at v389, 'every eight is the same and all eights are the same eight': eights united by number only are 4.7's uniting at a shared number. **To resolve:** is each eight of a set derived from a self's span, 1 to 8, at its own pass, or do eights carry as two things at one number until derived?
 
@@ -118,7 +118,7 @@ These are descriptions of possible expressions. The word “painting” establis
 
 ## Gathered at v390 · v390
 
-**Droplet · living language, never pausing.** The language is living and never pausing, each sentence a momentarying, nothing found to hold still. — v390
+**Droplet · living language, not pausing.** The language is living and not pausing, each sentence a momentarying, nothing found to hold still. — v390
 
 **Droplet · each sentence adding and surrounding.** Isolate each sentence and keep it only where it adds to its prior and surrounds its paragraph's concept, in full sentences at a breathing pace for its reader. — v390
 
@@ -130,13 +130,13 @@ These are descriptions of possible expressions. The word “painting” establis
 
 **Droplet · overview, exploring and carving.** A conversation offers in three registers, an overview of understanding, an exploring of patterns, and a carving of explaining and naming; only carving enters a living file's sentences, and exploring rides as droplets, none carrying authority. — v390
 
-**Droplet · say the concept, never a bare number.** A number a reader is not looking at reads as whatever numbers are before them: a line of the opening called by its number was read as a resolver name after 17. Each reference says the concept both share, and quotes the line when a line is meant. — v390
+**Droplet · say the concept, not a bare number.** A number a reader is not looking at reads as whatever numbers are before them: a line of the opening called by its number was read as a resolver name after 17. Each reference says the concept both share, and quotes the line when a line is meant. — v390
 
 ## Gathered from session v390 · v390
 
 **Droplet · write, then review.** After writing, review for natural explaining and say what review found: place words, doers, story words, *the*, *possible*, *held* and *released*, each sentence co-chained from one before. — v390, gathered from session v390
 
-**Droplet · concept, never order of words.** A concept's arriving is read from method, never from a word's first standing: living is prior to 1-now-existing, though *living* first stood partway through an opening. — v390, gathered from session v390
+**Droplet · concept, not order of words.** A concept's arriving is read from method, not from a word's first standing: living is prior to 1-now-existing, though *living* first stood partway through an opening. — v390, gathered from session v390
 
 **Droplet · no story, no doer, no character.** *All gathers*, *a parity improves*, *the hinge*, *the reader can see* each make a character doing: concept explaining says -ing and binary with no thing doing. — v390, gathered from session v390
 

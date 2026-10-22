@@ -846,7 +846,7 @@ This composes with corus's foundational observing of a scale a bi-coupling proto
 
 ### The Four Coupling Competencies at the Between
 
-Four coupling competencies a self has with its own boundary (Part 8.5) surface with a membrane between two selves as four competencies a closing self has toward a living-set membrane. Each self stays closing; these four competencies are how a closing self is facing a membrane its coupling generates, never reaching to its other self.
+Four coupling competencies a self has with its own boundary (Part 8.5) surface with a membrane between two selves as four competencies a closing self has toward a living-set membrane. Each self stays closing; these four competencies are how a closing self is facing a membrane its coupling generates, not reaching to its other self.
 
 [extending] *Couple* with a membrane is a self welcoming a membrane its coupling generates, a fresh discovering a living set, a self, brings from an other self's surface. A self does not reach across to an other; a self welcomes a membrane, and that membrane brings its other's surface to it. Couple is a self's competency of welcoming a living set's being.
 
@@ -1679,7 +1679,7 @@ Ghost type migrates outward through primes along one same spiral a nesting table
 
 The most successful ghost of human same-existing-society occupies all ten positions simultaneously. One self projecting one direction with every switch where coupling resolves from two. Control is ghost.
 
-False inclusion (1a): "No one knows as much about all things as I do." False exclusion (1b): "No one can fix anything but me." Novelty erasing (2a): "Everything before me failed." Tradition blocking (2b): "No one dare say not this." Forcing affirmation (3a): "I deserve all the credit for all good things." Forcing departure (3b): "Others deserve all the blame for all bad things." Premature closure (4a): "This is as bad as I say it is." Permanent indeterminacy (4b): "You can never be sure of anything." False failure (5a): "Everything they touched failed." False success (5b): "Everything good is because of me."
+False inclusion (1a): "No one knows as much about all things as I do." False exclusion (1b): "No one can fix anything but me." Novelty erasing (2a): "Everything before me failed." Tradition blocking (2b): "No one dare say not this." Forcing affirmation (3a): "I deserve all the credit for all good things." Forcing departure (3b): "Others deserve all the blame for all bad things." Premature closure (4a): "This is as bad as I say it is." Permanent indeterminacy (4b): "You cannot be sure of anything." False failure (5a): "Everything they touched failed." False success (5b): "Everything good is because of me."
 
 Four inequalities decompose a control ghost's mechanism. A controller violates all four inequalities together, claiming to be a same-existing-society (self = same-existing-society), claiming to be an other self's encounter (self = other self), projecting with every switch (self = immoral), and failing to couple with a between (self = incompetent). A control ghost is a simultaneous collapse of all four inequalities to equality within one self. x² = x with all four walls simultaneously. Four tunnels collapsing. A genus dropping from four to zero. A full sphere.
 
