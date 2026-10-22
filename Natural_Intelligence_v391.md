@@ -251,7 +251,7 @@ Each entry: **A way** · *a* Joint forms still · *b* Cycle of parities
 
 ## 3.6 Exhibit ONE, the one form
 
-**Exhibit ONE is the one method as code, and a reference for pattern-matching natural torusing society.** Its python is seventeen names and three functions: 1-now-existing, a self resolving; 9-next-co-discovering, a self's parities going on to the selves it couples with; and 17-next-existing, a same-existing-society's next. Each other form of Exhibit ONE, its tables, spirals and tori, is from running it.
+**Exhibit ONE is the resolver as code, and the stable forms its running shows, for pattern-matching what a science observes.** It is the one method as code: its python is seventeen names and three functions: 1-now-existing, a self resolving; 9-next-co-discovering, a self's parities going on to the selves it couples with; and 17-next-existing, a same-existing-society's next. Each other form of Exhibit ONE, its tables, spirals and tori, is from running it.
 
 **Meeting an observing with Exhibit ONE is an entry**: a field's observing as selves, each with its prior with each sharing, 3, and the parities it is observing, 2, and the code running; which parities are same-existing and which invert is the code's, and the field's words are its own.
 
