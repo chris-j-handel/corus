@@ -245,3 +245,7 @@ The lived and engineering entries are two approaches through the reader's own co
 - **At 4.3 · a concern-journey is side-effecting.** Following a concern past a plan is the sensing, droplets brought back the returning, re-aiming the recursioning.
 
 - **Machines and AI non-living.** A trained model, a computer virus, artificial life: stable-forming emanations of living people; intelligence alone stand-alone knowledge; a self's relation to it the self's parity relative to it.
+
+## Concern from the managing working · v392F
+
+**Concern · citations riding at the living file.** 119 links to fields' sources ride in Natural Engineering's body, while a source a finding rests on goes with its finding to its file's carrying (Geodesic Improving Method 2.8) and a living file carries its observing apart from the field's explaining of it; each link dissolves at this file's own motion, its source going whole to Carryings of Natural Engineering. — v392F

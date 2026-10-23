@@ -103,3 +103,7 @@ Living Ghost Registry and Equilibria Registry: two registries, one derivation. T
 - **A citation chain grown into a code-titled table.** The odd and even pairing of four binaries travelled Registry, Natural Naming, Natural Intelligence 4.9, Exhibit ONE, a table titled as the code's with no code line: a still accounting installed by citing.
 
 - **Its *ghost* and common use.** The registry's ghost is a non-living accounting installed as living; common *ghost* and Ryle's *ghost in the machine* name a living thing apart from a body. A fresh reader's misreading to meet.
+
+## Concern from the managing working · v392F
+
+**Concern · citations riding at the living file.** 22 links to fields' sources ride in the Living Ghost Registry's body, while a source a finding rests on goes with its finding to its file's carrying (Geodesic Improving Method 2.8) and a living file carries its observing apart from the field's explaining of it; each link dissolves at this file's own motion, its source going whole to Carryings of Living Ghost Registry. — v392F
