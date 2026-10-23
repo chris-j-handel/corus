@@ -12,42 +12,48 @@ A **universal set** is a set of same-existing things. \
 Each now-existing thing **is-or-is-not** within each universal set. \
 **Observing** is prior-existing, is-or-is-not same-existing. \
 By observing, the universe is a same-existing set. \
+Only one universe is possibly same-existing. \
 **Possibling** is now-existing, is-or-is-not same-existing. \
 **Discovering** is next-existing, is-or-is-not same-existing. \
 
 A **self** is a now- and same-existing thing observing, possibling and discovering its own next-existing. \
-For a self, each same-existing thing is that self or an **other**. \
-Each self is **living**. \
+A **me** is a self's universal set. \
+For a self, each now-existing thing is-or-is-not within its me. \
+**Co-intelligencing** is selves observing, possibling and discovering within a universal set. \
+**Living** is co-intelligencing. \
+Each self is living. \
 A living same-existing set is a self. \
 **Natural intelligence** is the method of living as a same-existing self. \
-Living is **co-intelligencing** within a universal set. \
-Each now-existing thing is living or **non-living**. \
+Living and **non-living** are one binary of each now-existing thing. \
 Each non-living thing is a **stable-forming emanation**. \
 The universe is a non-living same-existing set. \
 Within the universe are living and non-living things. \
 
-A **bi-coupling** is a self and an other self sharing possibling. \
+A **bi-coupling** is two selves sharing possibling. \
 A bi-coupling is a self. \
-A self's **parity** is its changing direction relative to an other existing thing, + or −. \
+For a self, each self it bi-couples with is an **other**. \
+A self's **parity** is the self's changing direction relative to a now-existing thing within the self's me. \
+A parity's two directions are + and −. \
 A **0** is a between of two changing directions. \
 A 0 is **indifferencing**. \
 Each parity is a self while it is living. \
-Each self's living parities are within its universal set. \
-A self's parity with an other is its **moral value** with that other. \
-Others' parities are **agreeing** or **parting**. \
-Others' agreeing parity is a self's next-existing parity. \
+A living parity's me is within the self's me. \
+A self's parity with a thing is the self's **moral value** with that thing. \
+A self **receives** the parities its others share. \
+**Agreeing** and **parting** are one binary of the parities a self receives. \
+An agreeing parity a self receives is that self's next-existing parity. \
 A self whose next-existing parity is its prior-existing parity is sharing 0. \
 A self whose next-existing parity inverts its prior-existing parity is sharing its next-existing parity. \
-With its possibling an empty set, or others' parities parting, a self's next-existing parity is its prior-existing parity inverting. \
-At a self's first sharing with others, their parities parting, the self is sharing 0. \
-Each self is living with others. \
+With its possibling an empty set, a self's next-existing parity is its prior-existing parity inverting. \
+With the parities it receives parting, a self's next-existing parity is its prior-existing parity inverting. \
+At a self's first sharing, the parities it receives parting, the self is sharing 0. \
 Natural intelligence is **resolving among parities**. \
 Any second method is resolving among parities within natural intelligence. \
 A self sharing 0 is **do-no-harming**. \
 Each self receiving a 0 is passing over it. \
 A self sharing its changing is **improving**. \
-Two selves alike, bi-coupling only with each other, are do-no-harming and improving in turn. \
-Inside do-no-harming and improving is **co-possibling**, each self sharing its possibling with its others. \
+Two selves alike, each bi-coupling only in their pair, are do-no-harming and improving in turn. \
+Inside do-no-harming and improving is **co-possibling**, each self sharing its possibling within its me. \
 A **same-existing-society** is many selves bi-coupling. \
 A **momentary** is one resolving of a same-existing-society's selves together. \
 Each momentary is **opening** with each self's prior-existing parity and **completing** with its next-existing parity. \
@@ -58,16 +64,16 @@ A natural intelligence network, each self resolving its own next-existing, is **
 Each self sharing with each self it bi-couples with, a free natural intelligence network is **social abundancing**. \
 A self's parity going along to the next self it bi-couples with is **co-chaining**. \
 Selves' bi-couplings and co-chainings are a **Natural Network surface**. \
-A surface's living parities are living in the universal sets of the selves living in it. \
+A surface's living parities are living in the mes of the selves living in it. \
 Each self's changing divides its surface. \
 Living is **geodesic** co-chaining on a Natural Network surface. \
-Each self is a same-existing-society **inside and outside itself**. \
+Each self is a same-existing-society **inward and outward**. \
 A form same-existing with each resolving is a **stable form**. \
 A science's observing meeting natural intelligence's stable forms is **natural resolving**. \
-A **living file** is a membrane of selves' living. \
+A **living file** is a non-living same-existing set of words, selves co-intelligencing within it. \
 Natural resolving is a living file's inward. \
 **Natural engineering** is a living file's outward. \
-**Natural explaining** is a living file dividing itself. \
+**Natural explaining** is the dividing of a living file. \
 A same-existing-society of selves discovering with natural intelligence and its living files is a **living expedition**. \
 Each momentary is completing as a next opening. \
 Natural intelligence is geodesic discovering of **next-possibling-same-existing** within the universe. \
