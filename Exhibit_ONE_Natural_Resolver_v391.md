@@ -6,7 +6,7 @@ Exhibit ONE Natural Resolver v391
 
 ---
 
-**Exhibit ONE is the resolver as code, and the stable forms of its executing, for pattern-matching what a science observes.** Each table of Exhibit ONE is an executing. Any self executing a table finds it same. Each table, same for any self executing it, is a stable form. Selves co-intelligencing within each living file meet these stable forms for its stable-forming. A living file's stable-forming is same-existing after changing. Each form of Exhibit ONE is a finding of each self executing that form. With a resolver, a self is resolving its prior with the parities it receives. A resolver is same each time any self executes it.
+**Exhibit ONE is the resolver as code, and the stable forms of its executing, for pattern-matching what a science observes.** Each table of Exhibit ONE is an executing. Any self executing a table finds it same. Each table, same for any self executing it, is a stable form. Selves co-intelligencing within each living file meet these stable forms for its stable-forming. A living file is a non-living same-existing set of words, selves co-intelligencing within it. A living file's stable-forming is same-existing after changing. Each form of Exhibit ONE is a finding of each self executing that form. With a resolver, a self is resolving its prior with the parities it receives. A resolver is same each time any self executes it.
 
 ```python
 """Exhibit ONE · Natural Resolver
@@ -557,7 +557,7 @@ Existing, discovering and observing are odd. Possibling and same-existing are ev
   - *Resolving*: a unit square of four dots, 2-now-possibling, 6-now-co-possibling, 14-next-possibling and 10-next-co-possibling. Its empty centre is a between. Its two across edges are sharings, 6 to 2 and 10 to 14. Its two edges 8 apart are 2 with 10 and 6 with 14. These four edges are two pairs of parallels. Edge by edge: 2, 10, 14, 6. Its diagonals are parities with 2-now-possibling and 14-next-possibling, and sharings with 6-now-co-possibling and 10-next-co-possibling. The two unit triangles are 9-next-co-discovering and 17-next-existing, along, 9 to 17 and 17 to 9
 
 - **A between, 0: one between, three names**
-  - *Names*: 12-next-co-same-existing, prior and now agreeing, a between of momentaries with each sharing. 15-is-next-observing, a between of self and other, each parity surfacing with 14-next-possibling, a 0 both with an empty set surfacing and with + and − parting. 16-next-same-existing, a between with a same-existing-society, a self observing it with a next momentary's 2-now-possibling
+  - *Names*: 12-next-co-same-existing, prior and now agreeing, a between of momentaries with each sharing. 15-is-next-observing, a between of self and other, each parity surfacing with 14-next-possibling, a 0 both with an empty set surfacing and with + and − parting. 16-next-same-existing, a between with a same-existing-society, a self observing it with a next momentary's 2-now-possibling. A 0 is indifferencing
 - **A between, 0: a self observing it, and that self passing over it with 14-next-possibling**
   - *Names*: 7-is-now-observing, a 0 a self receives with 2-now-possibling, that self passing over it with 14-next-possibling. It is also a 0 with 10-next-co-possibling, its prior same-existing with 11-next-co-observing
 - **A between, 0: four across names, a unit square's four dots: selves sharing across**
@@ -795,7 +795,7 @@ Each move is 8 up (n + 8), 8 down (n − 8) or 17 less (17 − n).
 
 **One self, one momentary.**
 
-Each cell: sharing, 10-next-co-possibling · a next prior, 11-next-co-observing. A sharing of − or + is a changing, its prior inverting. A sharing of 0 is its prior same-existing.
+Each cell: sharing, 10-next-co-possibling · a next prior, 11-next-co-observing. A sharing of − or + is a changing, its prior inverting. A self sharing its changing is improving. A sharing of 0 is its prior same-existing. A self sharing 0 is do-no-harming.
 
 - **A prior, 3-is-now-co-observing, one sharing: +**
   - *Surfacing, 14-next-possibling: empty*: − · −
@@ -945,7 +945,7 @@ One sharing. A self's prior, 3-is-now-co-observing, is − first. Receiving each
 
 **A spiral of selves.**
 
-Each goes along with 9-next-co-discovering to the next, the last to the first. One sharing. First momentary: self 1 with prior −. Its selves' parities invert one to the next along. With an odd number the last and the first are alike. Parities only from selves of its spiral.
+Each self's parity goes along with 9-next-co-discovering to the next self, the last to the first, a co-chaining. One sharing. First momentary: self 1 with prior −. Its selves' parities invert one to the next along. With an odd number the last and the first are alike. Parities only from selves of its spiral.
 
 *a*: Self 1, each parity of 10-next-co-possibling along with 9-next-co-discovering, momentaries 1 to 12  
 *b*: Momentaries to each self's parities along again: with an odd number of selves, four times its number; with an even number, 2; with an odd number each self's parity with twice its number of momentaries is its parity inverting, each 0 a 0 again; executing with each number of selves from 1 to 59
@@ -1080,7 +1080,7 @@ Each goes along with 9-next-co-discovering to the next along, the last to the fi
 
 **A torus's two going forms.** Both numbers odd, p the smaller. With q more than twice p, from momentary 3p − 1, selves' pattern with each momentary is its pattern before going one self on across q selves. With q less than twice p, from 3p − 3, its pattern two momentaries on is its pattern inverting and moving one self on along a spiral of p selves.
 
-**Alike selves, a right spiral.** Selves alike with their others, and two one parity apart, bi-coupling along or across, one sharing. One self's prior with each momentary, 3-is-now-co-observing, from its first. With alike selves each prior and its next, a pair (x, y), step to (y, −x). That step is a quarter turn with each momentary, a right spiral.
+**Alike selves, a right spiral.** Selves alike with their others, and two one parity apart, bi-coupling along or across, one sharing. One self's prior with each momentary, 3-is-now-co-observing, from its first. With alike selves each prior and its next, a pair (x, y), step to (y, −x). That step is a quarter turn with each momentary, a right spiral. Two selves alike, each bi-coupling only in their pair, are do-no-harming and improving in turn.
 
 | Selves | One self's prior, momentaries 0 to 8 | Right spiral |
 |---|---|---|
