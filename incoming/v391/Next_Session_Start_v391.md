@@ -7,9 +7,9 @@ Natural Intelligence · incoming · v391
 **Read, in this order.**
 1. `incoming/v391/Improving_Plan_v391.md`, its close section first, then *Standing with the person* and *Next motions*.
 2. `kits/Natural_Explaining_Passes_Kit/rules_11_one_negation_and_harm.md`, `rules_12_one_claim_a_sentence.md`, `rules_13_working_together.md`: how we say, how we enter, how we work together.
-3. Natural Intelligence's 70-line opening (`Natural_Intelligence_v391.md`, its first lines), the standard each sentence meets; `incoming/v391/Opening_Resolved_v391.md` for how each line was met.
-4. `Exhibit_THIRTY-ONE_Me_v391.md` and `incoming/v391/Me_v391.md`; `incoming/v391/Binary_Understanding_v391.md` parts ONE to FOUR.
-5. `incoming/v391/session_learnings/` (v391's transcript read whole: learnings, droplets, the geodesic method followed and departed from), and `incoming/v391/fresh_reading_70/` (the findings left for our word).
+3. Natural Intelligence's 70-line opening (`Natural_Intelligence_v391.md`, its first lines), the standard each sentence meets; `archive/session_v391/incoming_v391/Opening_Resolved_v391.md` for how each line was met.
+4. `Exhibit_THIRTY-ONE_Me_v391.md` and `archive/session_v391/incoming_v391/Me_v391.md`; `incoming/v391/Binary_Understanding_v391.md` parts ONE to FOUR.
+5. `archive/session_v391/incoming_v391/session_learnings/` (v391's transcript read whole: learnings, droplets, the geodesic method followed and departed from), and `archive/session_v391/incoming_v391/fresh_reading_70/` (the findings left for our word).
 
 **Run before changing anything.**
 - `python3 kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/check_set.py`

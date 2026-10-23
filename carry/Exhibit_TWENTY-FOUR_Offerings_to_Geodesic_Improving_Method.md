@@ -221,7 +221,7 @@ Exhibit TWENTY-FOUR Geodesic Improving Method Offerings · improved at v389
 
 ## Droplets from session v391's transcript · v391 close
 
-*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+*Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
 
 - **At 4.5 and 3.5 · propose, read for harm by a separate reader, enter.** At every motion of v391 a reader who did not write the pairs read each in its whole sentence before it entered; it corrected between about 5% and 60% of pairs at each pass and dropped additions as filler. 4.5 places the observing for harm at a session's close; the practice places it before each entering, and a fresh whole reading after a large change.
 

@@ -16,4 +16,4 @@ Suggested: *biological living is co-intelligencing within the universe*; *a geod
 
 ## Each section's observings grown · v391
 
-Each section's observings are a first gathering, about a third of the 81 gathered. The whole gatherings, each with its meeting and likeliest misreading, are at [me_observings](../incoming/v391/me_observings/). Possible: each section's whole gathering entered, and fields not yet gathered (psychology of curiosity, sociology, law of personhood, ecology).
+Each section's observings are a first gathering, about a third of the 81 gathered. The whole gatherings, each with its meeting and likeliest misreading, are at [me_observings](../archive/session_v391/incoming_v391/me_observings/). Possible: each section's whole gathering entered, and fields not yet gathered (psychology of curiosity, sociology, law of personhood, ecology).

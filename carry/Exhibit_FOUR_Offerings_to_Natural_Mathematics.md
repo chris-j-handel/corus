@@ -94,7 +94,7 @@ Exhibit FOUR Natural Mathematics Offerings · improved at v389
 
 ## Droplets from session v391's transcript · v391 close
 
-*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+*Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
 
 - **Parity, one inversioning or none, composing by odd and even**, as a permutation's parity: an even number of transpositions same, an odd number inverting; mathematics' composing, no count across momentaries.
 

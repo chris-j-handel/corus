@@ -1,5 +1,5 @@
 """opening70_v391.py: the motion entering Natural Intelligence's 70-line opening at v391 (me, co-intelligencing defined before living, other after the bi-coupling, receiving, inward and outward, a living file a non-living same-existing set of words).
-Reads the new opening from incoming/v391/Opening_Resolved_v391.md; ADD gives each line's Adding text or the old step whose Adding it keeps; MAP old step to new step.
+Reads the new opening from archive/session_v391/incoming_v391/Opening_Resolved_v391.md; ADD gives each line's Adding text or the old step whose Adding it keeps; MAP old step to new step.
 Writes NI's opening, THIRTY's groups 1 to 4 word for word with Entering rebuilt from Adding, renumbers THIRTY's later steps, re-points step references at THIRTY, Equilibria and Numbers.
 Run with --dry first and read the re-pointings it prints."""
 import re, os, sys, shutil
@@ -7,7 +7,7 @@ os.chdir(os.environ.get('CORUS', '.'))
 DRY = '--dry' in sys.argv
 NI = 'Natural_Intelligence_v391.md'; TH = 'Exhibit_THIRTY_Co-Chaining_Logic_Registry_v391.md'
 EQ = 'Exhibit_TWENTY-EIGHT_Equilibria_Registry_v391.md'; NU = 'Exhibit_THREE_Natural_Numbers_v391.md'
-SRC = 'incoming/v391/Opening_Resolved_v391.md'
+SRC = 'archive/session_v391/incoming_v391/Opening_Resolved_v391.md'
 A = 'archive/session_v391/prior_to_opening70'
 src = open(SRC).read()
 s = src.index('1. The **universe**'); e = src.index('\n\n## Read for harm')

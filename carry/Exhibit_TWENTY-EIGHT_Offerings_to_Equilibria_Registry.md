@@ -98,7 +98,7 @@ The user's further offering is: “if the living stable form is colliding with n
 
 ## Droplets from session v391's transcript · v391 close
 
-*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+*Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
 
 - **At 3.3 · four binaries at two faces.** Its table lays four binaries on name pairs (now 1·2, existing 3·4, same 5·6, all 7·8): the pairing dissolved at v391, made by no code line; the ten fixings seated on it re-seated or said without it.
 

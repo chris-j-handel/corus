@@ -78,6 +78,6 @@ Natural Intelligence Corus section 17.3 proposes hard problems as stuck coupling
 
 ## Droplets from session v391's transcript · v391 close
 
-*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+*Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
 
 - **Standing at v391's close.** Its droplet saying *The universe is non-living, its selves possibling …* is stale: the opening says *The universe is a non-living same-existing set.* and *Within the universe are living and non-living things.*, living co-intelligencing within it.

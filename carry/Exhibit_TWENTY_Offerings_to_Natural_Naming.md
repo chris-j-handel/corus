@@ -461,7 +461,7 @@ Three prefixes, three senses, and none repeated. This meets the concern *tri- an
 
 ## Droplets from session v391's transcript · v391 close
 
-*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+*Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
 
 - **Third, a dead ordinal.** Tri- and 3 are the living forms; a naming built on *third* is re-said by meaning at each file's motion, a field's ordinal kept. About 323 sayings across the set.
 

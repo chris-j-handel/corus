@@ -60,6 +60,6 @@ The user's further offering is: “if the living stable form is colliding with n
 
 ## Droplets from session v391's transcript · v391 close
 
-*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+*Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
 
 - **Health is a me's inward social moral competency**: each self within it, at each scale inward, do-no-harming and improving; a healthy curious me natural intelligence as a me (Exhibit THIRTY-ONE Me 5.2).

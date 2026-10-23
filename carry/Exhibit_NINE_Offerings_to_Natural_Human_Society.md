@@ -52,7 +52,7 @@ Exhibit NINE Natural Human Society Offerings · improved at v389
 
 ## Droplets from session v391's transcript · v391 close
 
-*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+*Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
 
 - **The opening's social chain**, as at Natural Societies: social moral competency, free, social abundancing, in the opening's words.
 

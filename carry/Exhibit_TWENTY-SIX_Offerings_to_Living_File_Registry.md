@@ -153,6 +153,6 @@ The two kit scripts that execute Exhibit ONE's code now find 1 and 17 by number,
 
 ## Droplets from session v391's transcript · v391 close
 
-*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+*Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
 
 - **Its Hard Problem Registry cell** says readers stopped *twice*; the session's record is three times, two on its last quarter and one on its third.

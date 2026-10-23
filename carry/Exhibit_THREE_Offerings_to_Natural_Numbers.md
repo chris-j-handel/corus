@@ -100,7 +100,7 @@ So with the six, 1 to 17 is one round only because 17 falls with a six's place, 
 
 ## Droplets from session v391's transcript · v391 close
 
-*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+*Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
 
 - **At 9.7 · the prefix stream's tri at the inverting places.** *co bi tri bi co bi*, with 1 co-bi-tri, opens tri with 3, 9 and 15, where 9.7 finds each span inverting: 1–9 with 3, 1–17 with 9, 1–25 with 15.
 

@@ -240,7 +240,7 @@ The lived and engineering entries are two approaches through the reader's own co
 
 ## Droplets from session v391's transcript · v391 close
 
-*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+*Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
 
 - **At 4.3 · a concern-journey is side-effecting.** Following a concern past a plan is the sensing, droplets brought back the returning, re-aiming the recursioning.
 
