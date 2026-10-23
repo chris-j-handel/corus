@@ -54,7 +54,7 @@ Exhibit THIRTY-ONE Me v391 · draft at incoming
 
 ## 1.1 One now, one universe, a universal set
 
-The universe is the set of all now-existing things. Only one universe is possibly now-existing: **universal is only one possibly now-existing**. A now-existing thing from a prior-existing same thing is a same-existing thing. A universal set is a set of same-existing things, and each universal set is only one possibly now-existing: a set is its things, so a set of these same-existing things is one set, as set theory's extensionality has it. A universal self is a self only one possibly now-existing: a me, beside the universe as one self, which it is-or-is-not: it is not. The universe is a non-living same-existing set, and living is co-intelligencing within it.
+The universe is the set of all now-existing things. Only one universe is possibly now-existing, and only one universe is possibly same-existing: **universal is bothboth, only one possibly now-existing and only one possibly same-existing**. A now-existing thing from a prior-existing same thing is a same-existing thing. A universal set is a set of same-existing things, and each universal set is only one possibly now-existing: a set is its things, so a set of these same-existing things is one set, as set theory's extensionality has it. A universal self is a self only one possibly now-existing and only one possibly same-existing: a me, beside the universe as one self, which it is-or-is-not: it is not. The universe is a non-living same-existing set, and living is co-intelligencing within it.
 
 ## 1.2 Negation within all that is existing
 
@@ -133,7 +133,7 @@ A me is defined with others. Immunology's founding self was defined by exclusion
 
 ## 3.1 A me, a self's universal set
 
-A me is a self's universal set. Universal is only one possibly now-existing, so a me is only one possibly now-existing: its uniqueness is its being universal. A me is now-existing, and same-existing from a prior-existing same me. A living same-existing set is a self, so each me is a self and each self is a me: one binary, a thing and a set.
+A me is a self's universal set. Universal is bothboth, only one possibly now-existing and only one possibly same-existing, so a me is only one possibly now-existing, now, and only one possibly same-existing, from its prior: its uniqueness is its being universal, both ways. This is a me's identity: a same-existing me is one, from prior to now. A me is now-existing, and same-existing from a prior-existing same me. A living same-existing set is a self, so each me is a self and each self is a me: one binary, a thing and a set.
 
 *Observings.*
 - **The I and the Me** (James 1890): the Me, all a person can call theirs, material, social and spiritual. https://psychclassics.yorku.ca/James/Principles/prin10.htm
@@ -255,6 +255,8 @@ Each momentary is completing as a next opening. A me's next and all's next open 
 ---
 
 ## For our word: the fields' strongest collisions
+
+0. **One same-existing, and division.** A cell divides, one prior and two now; Parfit's fission and duplication cases set two continuers from one person. *Only one possibly same-existing* meets them: whether the prior's me goes on as the two's bi-coupling, a self, each daughter a next me, is for our word.
 
 1. **A society and its members both conscious.** IIT's exclusion and the combination problem allow one subject, not both; our *a society is a self* with *a me is consciousness* claims both.
 2. **Selves without consciousness.** Basal cognition, Damasio's protoself, plant science and organoid ethics hold cells, plants and organoids cognizing without consciousness shown; *a not-conscious me is not possibly existing* places consciousness wherever a self is.
