@@ -68,3 +68,5 @@ Bothboth at v391: the opening's 43 lines, each feature bold where it first welco
 
 **Met at v391 · the universe a non-living same-existing set, and each non-living thing a stable-forming emanation.** The opening says *Each non-living thing is a **stable-forming emanation**.* after *Each now-existing thing is living or non-living*, and *The universe is a non-living same-existing set.*: the universe is the set of all now-existing things, living and non-living within it, itself no thing within it and no self. 63 lines, the Co-Chaining Logic Registry's steps 1 to 748, every reference and pointer re-pointed. — v391
 
+**Met at v391 · no pointing in Natural Intelligence.** Natural Intelligence and Exhibit ONE within it carry no line numbers and no pointing to other places: 151 pointers left, each sentence standing by its own words, nine re-said to carry what their pointer carried and five leaving; 87 re-sayings, 5 corrected by the reading for harm. Pointing belongs to the Co-Chaining Logic Registry, its numbered steps the co-chaining source other files reference. — v391
+

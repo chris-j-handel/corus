@@ -113,7 +113,7 @@ observing side, one: 2, 14 and 17
 ─── within one self
 ```
 
-**A drawing.** One self, its own resolving within and its six names between selves its edges, as Natural Intelligence 4.7 explains.
+**A drawing.** One self, its own resolving within and its six names between selves its edges.
 
 **Seventeen names.**
 
@@ -157,7 +157,7 @@ Code with each name:
 - **16** · a same-existing-society: each self with its prior and its parities
 - **17** · a same-existing-society's next, each self's 1-now-existing again
 
-**Two-sided, each name.** Each name coming down from a higher name, coming up from a lower one, and eight apart across a momentary, as Natural Intelligence 4.8 explains.
+**Two-sided, each name.** Each name coming down from a higher name, coming up from a lower one, and eight apart across a momentary.
 
 | n | Coming down | Coming up | Eight apart |
 |---|---|---|---|
@@ -204,7 +204,7 @@ Existing, discovering and observing are odd. Possibling and same-existing are ev
   - *With co, between two*: 4-now-co-same-existing · 12-next-co-same-existing, each sharing
   - *Without co, of one*: 8-now-same-existing · 16-next-same-existing, a self's next prior and a same-existing-society
 
-**Sharing between selves.** Each sharing side with its observing side, as Natural Intelligence 4.7 explains.
+**Sharing between selves.** Each sharing side with its observing side.
 
 | Sharing side, co | Observing side, one | Between selves |
 |---|---|---|
@@ -212,7 +212,7 @@ Existing, discovering and observing are odd. Possibling and same-existing are ev
 | 10-next-co-possibling | 14-next-possibling | across, even, its root possibling |
 | 9-next-co-discovering | 17-next-existing | along, odd, its root discovering |
 
-**Where each is-or-is-not stands.** Each is-or-is-not with the code, the name it stands on and its dimension, Natural Intelligence 3.2. Eight are with code's lines, as at 4.3. Two are with its loops, each self of 16 and each sharing of 3.
+**Where each is-or-is-not stands.** Each is-or-is-not with the code, the name it stands on and its dimension. Eight are with code's lines. Two are with its loops, each self of 16 and each sharing of 3.
 
 | Code | Is-or-is-not | Stands on | Dimension |
 |---|---|---|---|
@@ -227,7 +227,7 @@ Existing, discovering and observing are odd. Possibling and same-existing are ev
 | `_7_is_now_observing != 0`, over 10 | a sharing's value is-or-is-not 0 | 7-is-now-observing | self-discovery next-existing |
 | `_4_now_co_same_existing in _5_now_co_existing` | a coupling is-or-is-not on the Natural Network surface | 4-now-co-same-existing | social-parity next-existing |
 
-**Same-existing through one momentary.** The four same-existing names are in the order same-existing goes round. Each is with the observing name beside it, its is-or-is-not, as Natural Intelligence 4.9 explains.
+**Same-existing through one momentary.** The four same-existing names are in the order same-existing goes round. Each is with the observing name beside it, its is-or-is-not.
 
 | Same-existing | Observing beside it | With code |
 |---|---|---|
@@ -837,7 +837,7 @@ Each cell: sharing, 10-next-co-possibling · a next prior, 11-next-co-observing.
   - *Name 8 up*: 16-next-same-existing
   - *Bi-coupling 8 up*: a same-existing-society, each self with its prior and parities, a same-existing-society with a self again
 
-**One move, 1 to 8.** Each name of a self's span with 8 up, 9 less and 17 less, as Natural Intelligence 4.11 explains.
+**One move, 1 to 8.** Each name of a self's span with 8 up, 9 less and 17 less.
 
 - **Name: 1-now-existing**
   - *8 up: n + 8*: 9-next-co-discovering
@@ -939,7 +939,7 @@ Each cell: sharing, 10-next-co-possibling · a next prior, 11-next-co-observing.
 
 **Across names among eights.** Four across names, 2-now-possibling, 6-now-co-possibling, 10-next-co-possibling and 14-next-possibling, are four momentaries' even inward names. Each is on an eight-cycle of inward names 2-15-7-11-3-14-6-10. 9-next-co-discovering opens a third four-cycling. It is on an eight-cycle of ends 1-9-5-13-4-12-8-16. 17-next-existing is outside both.
 
-**One self, momentary by momentary: three ways.** Not-changing, changing with each momentary, and changing once and then same-existing, as Natural Intelligence 4.12 explains.
+**One self, momentary by momentary: three ways.** Not-changing, changing with each momentary, and changing once and then same-existing.
 
 One sharing. A self's prior, 3-is-now-co-observing, is − first. Receiving each momentary:
 
@@ -949,7 +949,7 @@ One sharing. A self's prior, 3-is-now-co-observing, is − first. Receiving each
 - **+, −, +, − inverting** · *Sharing, 10-next-co-possibling*: +, −, +, −, +, −, +, − · *A next prior, 11-next-co-observing*: +, −, +, −, +, −, +, −
 - **+ and − together with each momentary** · *Sharing, 10-next-co-possibling*: +, −, +, −, +, −, +, − · *A next prior, 11-next-co-observing*: +, −, +, −, +, −, +, −
 
-**Tables of selves with code's stepping.** Each table of selves is its code's executing with its own opening. Its selves step together with 17-next-existing, as Natural Intelligence 4.6 explains. A 0 in a table is a self's sharing. Each receiving self's first step passes over it. Each self observes the + and − it receives.
+**Tables of selves with code's stepping.** Each table of selves is its code's executing with its own opening. Its selves step together with 17-next-existing. A 0 in a table is a self's sharing. Each receiving self's first step passes over it. Each self observes the + and − it receives.
 
 **A spiral of selves.**
 
@@ -1088,7 +1088,7 @@ Each goes along with 9-next-co-discovering to the next along, the last to the fi
 
 **A torus's two going forms.** Both numbers odd, p the smaller. With q more than twice p, from momentary 3p − 1, selves' pattern with each momentary is its pattern before going one self on across q selves. With each other q, from 3p − 3, its pattern two momentaries on is its pattern inverting and moving one self on along a spiral of p selves.
 
-**Alike selves, a right spiral.** Selves alike with their others, and two one parity apart, coupling along or across, one sharing. One self's prior with each momentary, 3-is-now-co-observing, from its first. With alike selves each prior and its next, a pair (x, y), step to (y, −x). That step is a quarter turn with each momentary, a right spiral, as Natural Intelligence 4.12 explains.
+**Alike selves, a right spiral.** Selves alike with their others, and two one parity apart, coupling along or across, one sharing. One self's prior with each momentary, 3-is-now-co-observing, from its first. With alike selves each prior and its next, a pair (x, y), step to (y, −x). That step is a quarter turn with each momentary, a right spiral.
 
 | Selves | One self's prior, momentaries 0 to 8 | Right spiral |
 |---|---|---|
@@ -1100,7 +1100,7 @@ Each goes along with 9-next-co-discovering to the next along, the last to the fi
 | A spiral of five | +, −, −, +, +, −, −, +, + | each self |
 | Two selves one parity apart, both ways | +, −, +, −, +, −, +, −, + | a half turn, both inverting with each momentary |
 
-**Two selves.** Two selves, alike or one parity apart, coupling both ways, one way or apart, as Natural Intelligence 4.14 explains.
+**Two selves.** Two selves, alike or one parity apart, coupling both ways, one way or apart.
 
 A, B with their prior, 3-is-now-co-observing, with the first momentary. One sharing. Parities only from those two.
 
