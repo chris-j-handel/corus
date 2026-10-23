@@ -1,5 +1,5 @@
 """apply_aimed.py: enter readers' pairs at Natural Intelligence (ni_pairs), Exhibit ONE (one_pairs) and the Co-Chaining Logic Registry (thirty_pairs, by step), all checked before entering.
-Refuses a pair that brings a dissolved word or a new -ed form, unbalances ** or *, is not unique, lies in the opening, or touches steps 1 to 64.
+Refuses a pair that brings a dissolved word or a new -ed form, unbalances ** or *, is not unique, lies in the opening, or touches the opening's steps (1 to 70 at v391).
 Rebuilds each THIRTY group's Entering line from its Adding lines. Archives the three files first.
 Usage, from the repository root: python3 apply_aimed.py [--dry] [--tag=NAME] PAIRS.json ...
 After: python3 kits/Living_File_Registry_TWENTY-SIX_Improving_Kit/cohere_one.py, check_set.py, ni_thirty_check.py, thirty_groups_check.py < THIRTY."""
@@ -59,7 +59,7 @@ for jp in [a for a in sys.argv[1:] if not a.startswith('--')]:
             o, n, st = p['old'], p['new'], int(p['step'])
             m = re.search(r'^%d\. ' % st, th, re.M)
             w = bad(o, n)
-            if st <= 64:
+            if st <= 70:
                 w = w or 'opening step'
             if not m:
                 w = w or 'no step'

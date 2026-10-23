@@ -2065,7 +2065,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: one fractal with each scale.*
 
-463. The bi-folding 1 to 17 is the universal fractal method, inside and outside itself, and each scale is only its bi-inversioning-co-recursioning, co-changing co-momentarying pattern matching, and one form is with each, reading or ordering within nature an empty set: a boundary, a location or a measure between scales is a thing not possibly existing, things other than or between things of the universe an empty set, step 107.
+463. The bi-folding 1 to 17 is the universal fractal method, inward and outward, and each scale is only its bi-inversioning-co-recursioning, co-changing co-momentarying pattern matching, and one form is with each, reading or ordering within nature an empty set: a boundary, a location or a measure between scales is a thing not possibly existing, things other than or between things of the universe an empty set, step 107.
 
         *Adding: scales, one form with each.*
 

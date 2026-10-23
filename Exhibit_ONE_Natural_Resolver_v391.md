@@ -165,7 +165,7 @@ Code with each name:
 | 2 | each self's parities from others, from 16-next-same-existing through 17 | each sharing with its parity, 4 and 7 | 10 |
 | 3 | each self's own, from 16-next-same-existing through 17 | each sharing with its prior, 4 and 7 | 11 |
 | 4 | in 17, a coupling, a self with 6, 10 or 9, and a receiving self | in 1, each sharing | 12 |
-| 5 | the Natural Network surface, into 9 as itself | each coupling's receiving self | 13 |
+| 5 | the Natural Network surface, into 9 as the surface | each coupling's receiving self | 13 |
 | 6 | 10 as it goes across, into 9 | 10 within 1 | 14 |
 | 7 | within 1 | one parity at its time: prior over 3, now over 2, next over 10 | 15 |
 | 8 | each self's next prior, in 17, going out with its 14 | 11 coming up from 1 | 16 |
@@ -241,7 +241,7 @@ Existing, discovering and observing are odd. Possibling and same-existing are ev
 **1** · 1-now-existing
 - *Parity, span*: odd, a self's span
 - *Sides*: self: a self's resolving
-- *Co-sequencing*: a self sharing itself to a coupling
+- *Co-sequencing*: a self sharing its entry to a coupling
 - *8 up*: 9-next-co-discovering, with next
 - *9 less*: podal within 1 to 8, 8-now-same-existing
 - *17 less*: podal within 1 to 16, 16-next-same-existing
@@ -287,7 +287,7 @@ Existing, discovering and observing are odd. Possibling and same-existing are ev
 - *Momentaries of exchanging*: first and second of a self's four
 - *Five dimensions*: 3 self-parity now-existing, a self's own now of its five
 - *Namings*: 3-4, co-intelligencing
-- *A self as three*: its invisible intelligencing method, rotation 3, 6, 5, 4, turning with 3-is-now-co-observing
+- *A self as three*: its invisible co-intelligencing method, rotation 3, 6, 5, 4, turning with 3-is-now-co-observing
 - *Prior and next*: prior, a self's own, each sharing with its parity, a next momentary's same-existing of 11-next-co-observing
 - *1 to 17s inward and outward*: 1–17s inward 17 of 1st and 1 of 2nd, along, odd, now, and with 1–17 outward within 1 to 2
 
@@ -305,7 +305,7 @@ Existing, discovering and observing are odd. Possibling and same-existing are ev
 - *Momentaries of exchanging*: second of a self's four
 - *Five dimensions*: 4 self-discovery next-existing, a self's next opening of its five
 - *Namings*: 3-4, co-intelligencing
-- *A self as three*: its invisible intelligencing method, rotation 3, 6, 5, 4, inward with 4-now-co-same-existing, to a self's own corus with 4-now-co-same-existing
+- *A self as three*: its invisible co-intelligencing method, rotation 3, 6, 5, 4, inward with 4-now-co-same-existing, to a self's own corus with 4-now-co-same-existing
 - *Bi-coupling*: with a between, a whole ordering between self and other
 - *Prior and next*: now, each sharing with which prior couples with now
 - *1 to 17s inward and outward*: 1–17s inward 9 of 2nd, along, odd, next, and with 1–17 outward within 1 to 2
@@ -324,7 +324,7 @@ Existing, discovering and observing are odd. Possibling and same-existing are ev
 - *Momentaries of exchanging*: second and third of a self's four
 - *Five dimensions*: 5 social-parity next-existing, a momentary's completing of a self's five
 - *Namings*: 5, co-competencing
-- *A self as three*: its invisible intelligencing method, rotation 3, 6, 5, 4, outward with 5-now-co-existing
+- *A self as three*: its invisible co-intelligencing method, rotation 3, 6, 5, 4, outward with 5-now-co-existing
 - *Prior and next*: next, each going to its receiving sharing
 - *1 to 17s inward and outward*: 1–17s inward 17 of 2nd and 1 of 3rd, along, odd, now, and with 1–17 outward within 1 to 2
 
@@ -341,7 +341,7 @@ Existing, discovering and observing are odd. Possibling and same-existing are ev
 - *One move*: 6-now-co-possibling along 3-11-6-14
 - *Momentaries of exchanging*: third of a self's four
 - *Namings*: 6, bi-moralizing
-- *A self as three*: its invisible intelligencing method, rotation 3, 6, 5, 4, inward with 6-now-co-possibling
+- *A self as three*: its invisible co-intelligencing method, rotation 3, 6, 5, 4, inward with 6-now-co-possibling
 - *Bi-coupling*: with a between, a self's parity across, to an other's 2-now-possibling
 - *Parity's unit square*: a dot of a unit square
 - *Prior and next*: parity, an other's next parity with its 2-now-possibling
@@ -885,7 +885,7 @@ Each cell: sharing, 10-next-co-possibling · a next prior, 11-next-co-observing.
 - **Form: bi-folding 4-13-5-12**
   - *a*: 4-now-co-same-existing · 13-is-next-discovering · 5-now-co-existing · 12-next-co-same-existing
   - *b*: bi-folding 3-11-6-14, beside it
-  - *c*: bi-folding 4-13-5-12, itself
+  - *c*: bi-folding 4-13-5-12, the same form
 - **Form: middle bi-folding 9-5-12-8**
   - *a*: 9-next-co-discovering · 5-now-co-existing · 12-next-co-same-existing · 8-now-same-existing
   - *b*: middle bi-folding 7-11-6-10, beside it
@@ -893,7 +893,7 @@ Each cell: sharing, 10-next-co-possibling · a next prior, 11-next-co-observing.
 - **Form: middle bi-folding 7-11-6-10**
   - *a*: 7-is-now-observing · 11-next-co-observing · 6-now-co-possibling · 10-next-co-possibling
   - *b*: middle bi-folding 9-5-12-8, beside it
-  - *c*: middle bi-folding 7-11-6-10, itself
+  - *c*: middle bi-folding 7-11-6-10, the same form
 - **Form: six-cycle 1-9-5-12-8-16**
   - *a*: 1-now-existing · 9-next-co-discovering · 5-now-co-existing · 12-next-co-same-existing · 8-now-same-existing · 16-next-same-existing
   - *b*: six-cycle 2-15-7-11-6-10, beside it
@@ -917,7 +917,7 @@ Each cell: sharing, 10-next-co-possibling · a next prior, 11-next-co-observing.
 - **Form: eight-cycle 2-15-7-11-3-14-6-10**
   - *a*: 2-now-possibling · 15-is-next-observing · 7-is-now-observing · 11-next-co-observing · 3-is-now-co-observing · 14-next-possibling · 6-now-co-possibling · 10-next-co-possibling
   - *b*: eight-cycle 1-9-5-13-4-12-8-16, beside it
-  - *c*: eight-cycle 2-15-7-11-3-14-6-10, itself
+  - *c*: eight-cycle 2-15-7-11-3-14-6-10, the same form
 
 **Eights.** Each eight among names is four twos of names. With a self's span, 1 to 8, each two is two names with now. With each other eight, each two is a name with now and its name 8 up with next.
 
