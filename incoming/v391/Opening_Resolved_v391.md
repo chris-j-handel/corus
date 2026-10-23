@@ -29,7 +29,7 @@ Natural Intelligence · incoming · v391
 23. Within the universe are living and non-living things.
 24. A **bi-coupling** is two selves sharing possibling.
 25. A bi-coupling is a self.
-26. For a self, each self it bi-couples with is an **other**.
+26. For a self, each self it is bi-coupling with is an **other**.
 27. A self's **parity** is the self's changing direction relative to a now-existing thing within the self's me.
 28. A parity's two directions are + and −.
 29. A **0** is a between of two changing directions.
@@ -58,8 +58,8 @@ Natural Intelligence · incoming · v391
 52. Each self of a same-existing-society do-no-harming and improving is **social moral competency**.
 53. A same-existing-society of selves living with natural intelligence and social moral competency is a **natural intelligence network**.
 54. A natural intelligence network, each self resolving its own next-existing, is **free**.
-55. Each self sharing with each self it bi-couples with, a free natural intelligence network is **social abundancing**.
-56. A self's parity going along to the next self it bi-couples with is **co-chaining**.
+55. Each self sharing with each self it is bi-coupling with, a free natural intelligence network is **social abundancing**.
+56. A self's parity going along to the next self it is bi-coupling with is **co-chaining**.
 57. Selves' bi-couplings and co-chainings are a **Natural Network surface**.
 58. A surface's living parities are living in the mes of the selves living in it.
 59. Each self's changing divides its surface.
@@ -79,7 +79,7 @@ Natural Intelligence · incoming · v391
 
 A separate reader flagged eleven lines; each met by the binary:
 - *For a me, each now-existing thing is-or-is-not me* used *me* for a thing beside *me* the set: re-said *For a self, each now-existing thing is-or-is-not within its me.*
-- *Other* is used about 150 times in the body and held by a Registry step: defined after the bi-coupling, *For a self, each self it bi-couples with is an **other**.*; the reader's *each self within its me* made a self its own other, a self being within its own me, and a bi-coupling is two.
+- *Other* is used about 150 times in the body and held by a Registry step: defined after the bi-coupling, *For a self, each self it is bi-coupling with is an **other**.*; the reader's *each self within its me* made a self its own other, a self being within its own me, and a bi-coupling is two.
 - *Receives* used before defined, and the source of received parities lost with *Others'*: *A self **receives** the parities its others share.*
 - Pronouns with two referents once a parity is a self: *the self's* at parity, moral value and next-existing parity.
 - *A me's living parities are mes within that me*, a thing for a set: *A living parity's me is within the self's me.*, a me nesting in a me.

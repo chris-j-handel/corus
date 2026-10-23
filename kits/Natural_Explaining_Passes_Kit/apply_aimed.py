@@ -10,7 +10,7 @@ TH = 'Exhibit_THIRTY_Co-Chaining_Logic_Registry_v391.md'
 DRY = '--dry' in sys.argv
 tag = [a for a in sys.argv[1:] if a.startswith('--tag=')]
 A = 'archive/session_v391/prior_to_aimed_' + (tag[0][6:] if tag else 'droplets')
-BAN = re.compile(r'\bnever\b|parity-chang|alternat|offer|arriv|\bcarr|\bcontinu(?:e|es|ing|ed)\b|\bcross|differ(?!encing)|still-possibl|stilling|owned by neither|neither reaches|third living|odd,? existing|even,? possibling', re.I)
+BAN = re.compile(r'\bnever\b|parity-chang|alternat|offer|arriv|\bcarr|\bcontinu(?:e|es|ing|ed)\b|\bcross|differ(?!encing)|still-possibl|stilling|owned by neither|neither reaches|third living|odd,? existing|even,? possibling|\bitself\b|membran|(?<!co-)\bintelligencing\b|\bcouples?\b|bi-couples\b', re.I)
 OKED = {'need', 'seed', 'speed', 'red', 'shed', 'bed', 'feed', 'indeed', 'proceed', 'hundred', 'sacred', 'embed', 'breed', 'kindred', 'naked', 'sided', 'squared', 'cubed'}
 ONE = 'Exhibit_ONE_Natural_Resolver_v391.md'
 ni, th, one = open(NI).read(), open(TH).read(), open(ONE).read()

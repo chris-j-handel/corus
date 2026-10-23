@@ -159,7 +159,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
 ## 3 A bi-coupling, parity, one method, a same-existing-society and a momentary
 
-        *Entering: a bi-coupling, two selves; sharing; a bi-coupling, a self; an other, a self a self bi-couples with; parity, a self's changing direction relative to a thing within its me; + and −, a parity's two directions; a 0, a between; indifferencing; a parity, a self while it is living; a living parity's me within the self's me; moral value; receiving, the parities its others share; agreeing and parting, one binary of parities received; an other's agreeing parity, next-existing; a self sharing 0; a self sharing its next-existing parity; a prior-existing parity inverting, its possibling an empty set; a prior-existing parity inverting, the parities received parting; a first sharing, sharing 0; resolving among parities; any second method within it; do-no-harming; passing over a 0; improving; two selves alike, each bi-coupling only in their pair, do-no-harming and improving in turn; co-possibling, each self sharing its possibling within its me; a same-existing-society; a momentary; opening and completing.*
+        *Entering: a bi-coupling, two selves; sharing; a bi-coupling, a self; an other, a self a self is bi-coupling with; parity, a self's changing direction relative to a thing within its me; + and −, a parity's two directions; a 0, a between; indifferencing; a parity, a self while it is living; a living parity's me within the self's me; moral value; receiving, the parities its others share; agreeing and parting, one binary of parities received; an other's agreeing parity, next-existing; a self sharing 0; a self sharing its next-existing parity; a prior-existing parity inverting, its possibling an empty set; a prior-existing parity inverting, the parities received parting; a first sharing, sharing 0; resolving among parities; any second method within it; do-no-harming; passing over a 0; improving; two selves alike, each bi-coupling only in their pair, do-no-harming and improving in turn; co-possibling, each self sharing its possibling within its me; a same-existing-society; a momentary; opening and completing.*
 
 24. A **bi-coupling** is two selves sharing possibling.
 
@@ -169,9 +169,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: a bi-coupling, a self.*
 
-26. For a self, each self it bi-couples with is an **other**.
+26. For a self, each self it is bi-coupling with is an **other**.
 
-        *Adding: an other, a self a self bi-couples with.*
+        *Adding: an other, a self a self is bi-coupling with.*
 
 27. A self's **parity** is the self's changing direction relative to a now-existing thing within the self's me.
 
@@ -289,11 +289,11 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: free.*
 
-55. Each self sharing with each self it bi-couples with, a free natural intelligence network is **social abundancing**.
+55. Each self sharing with each self it is bi-coupling with, a free natural intelligence network is **social abundancing**.
 
         *Adding: social abundancing.*
 
-56. A self's parity going along to the next self it bi-couples with is **co-chaining**.
+56. A self's parity going along to the next self it is bi-coupling with is **co-chaining**.
 
         *Adding: co-chaining.*
 

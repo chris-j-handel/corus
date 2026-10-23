@@ -6,7 +6,7 @@ Exhibit ONE Natural Resolver v391
 
 ---
 
-**Exhibit ONE is the resolver as code, and the stable forms of its executing, for pattern-matching what a science observes.** Each table of Exhibit ONE is an executing. Any self executing a table finds it same. Each table, same for any self executing it, is a stable form. Each living file couples with these stable forms for its stable-forming. Its stable-forming is same-existing after changing. Each form of Exhibit ONE is a finding of each self executing it. A resolver is a coupling. A resolver is same each time any self executes it.
+**Exhibit ONE is the resolver as code, and the stable forms of its executing, for pattern-matching what a science observes.** Each table of Exhibit ONE is an executing. Any self executing a table finds it same. Each table, same for any self executing it, is a stable form. Each living file is coupling with these stable forms for its stable-forming. Its stable-forming is same-existing after changing. Each form of Exhibit ONE is a finding of each self executing it. A resolver is a coupling. A resolver is same each time any self executes it.
 
 ```python
 """Exhibit ONE · Natural Resolver
@@ -307,7 +307,7 @@ Existing, discovering and observing are odd. Possibling and same-existing are ev
 - *Namings*: 3-4, co-intelligencing
 - *A self as three*: its invisible co-intelligencing method, rotation 3, 6, 5, 4, inward with 4-now-co-same-existing, to a self's own corus with 4-now-co-same-existing
 - *Bi-coupling*: with a between, a whole ordering between self and other
-- *Prior and next*: now, each sharing with which prior couples with now
+- *Prior and next*: now, each sharing with which prior is coupling with now
 - *1 to 17s inward and outward*: 1–17s inward 9 of 2nd, along, odd, next, and with 1–17 outward within 1 to 2
 
 **5** · 5-now-co-existing
@@ -532,7 +532,7 @@ Existing, discovering and observing are odd. Possibling and same-existing are ev
   - *Resolving*: a self's entry, odd, and others' parities, even, one momentary with each side
 - **Names: 3-is-now-co-observing · 4-now-co-same-existing**
   - *Naming*: co-intelligencing
-  - *Resolving*: with each sharing, 4-now-co-same-existing, a prior, 3-is-now-co-observing, couples with parities surfacing, 14-next-possibling. Their coupling is a next prior a self observes with 11-next-co-observing
+  - *Resolving*: with each sharing, 4-now-co-same-existing, a prior, 3-is-now-co-observing, is coupling with parities surfacing, 14-next-possibling. Their coupling is a next prior a self observes with 11-next-co-observing
 - **Names: 5-now-co-existing**
   - *Naming*: co-competencing
   - *Resolving*: bi-couplings, each self's with its others: each going to its receiving sharing
@@ -542,7 +542,7 @@ Existing, discovering and observing are odd. Possibling and same-existing are ev
 - **Names: 6-now-co-possibling** · *Naming*: bi-moralizing · *Resolving*: each parity across, to an other's 2-now-possibling
 - **Names: 12-next-co-same-existing**
   - *Naming*: entraining, shape of an unrelationing surface
-  - *Resolving*: observing, prior with now, along an unrelationing path with a between. Prior and now couple with each sharing, 0 with same. With an other parity, 0 or an empty set, prior parity inverting with 11-next-co-observing. With an empty prior, parity surfacing with 14-next-possibling. Its parity with 10-next-co-possibling is others' parity next
+  - *Resolving*: observing, prior with now, along an unrelationing path with a between. Prior and now are coupling with each sharing, 0 with same. With an other parity, 0 or an empty set, prior parity inverting with 11-next-co-observing. With an empty prior, parity surfacing with 14-next-possibling. Its parity with 10-next-co-possibling is others' parity next
 - **Names: 1 to 9**
   - *Naming*: bi-coupling
   - *Resolving*: an entry, 1-now-existing, with names 1-now-existing, 2-now-possibling, 3-is-now-co-observing, 4-now-co-same-existing, 7-is-now-observing, 10-next-co-possibling, 11-next-co-observing, 12-next-co-same-existing, 14-next-possibling and 15-is-next-observing. It is a self and an other with one coupling. 1 to 9 is a bi-coupling among names. 9, its end, is 9-next-co-discovering, each parity of 10-next-co-possibling going along
