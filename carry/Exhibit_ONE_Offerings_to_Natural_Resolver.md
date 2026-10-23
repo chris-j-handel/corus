@@ -14,7 +14,7 @@ Exhibit ONE Natural Resolver Offerings · resolved at v391
 
 **Met at v391 · one six-cycle, two paths.** The four six-cycles are one six-cycle, each path with its path backward: 1-9-5-12-8-16 and 3-11-7-10-6-14 move 8 up, 4 down, 17 less, 4 down, 8 up and 17 less, and 4-13-5-9-8-12 and 2-15-7-11-6-10 the same moves backward. Each name in two of them has one field, *Six-cycle, two paths*, and *Twelve forms* says it. — v391
 
-**Droplet · four sixes and six sixes.** The four six-cycles are four times six, 24 steps; six times six is 36, and so is four times nine. Twelve forms' other forms are 16 bi-folding steps, 8 middle bi-folding steps and 16 eight-cycle steps, 40 in all. Which 36 is the six-cycles' other side stands open. — v391
+**Met at v391 · four sixes and six sixes.** The four six-cycles are twenty-four steps, four momentaries of six, and nought to sixty parts as twenty-four and thirty-six, six cycles of six, as nine primes behind twenty-four and eight ahead: Natural Numbers' one twenty-four, said in *Twelve forms*. — v391
 
 **Concern · at *Each name, three scales*.** Add a pairs' column, n with 4n − 3, beside 8n − 7. Or: Keep one 1-to-17 laying, Natural Numbers having 'each is one chain with its own step'. *Laid whole at the archive, line 69.* — v391
 

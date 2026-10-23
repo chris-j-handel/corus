@@ -1151,7 +1151,7 @@ Each cell: sharing, 10-next-co-possibling · a next prior, 11-next-co-observing.
   - *9 less: 9 − n*: 1-now-existing
   - *17 less: 17 − n*: 9-next-co-discovering
 
-**Twelve forms.** Along each form odd names are one run and even names one run. The two runs are of like length: two and two with bi-foldings, three and three with six-cycles, four and four with eight-cycles. The four six-cycles are one six-cycle, each path with its path backward: 1-9-5-12-8-16 and 3-11-7-10-6-14 move 8 up, 4 down, 17 less, 4 down, 8 up and 17 less, and 4-13-5-9-8-12 and 2-15-7-11-6-10 the same moves backward.
+**Twelve forms.** Along each form odd names are one run and even names one run. The two runs are of like length: two and two with bi-foldings, three and three with six-cycles, four and four with eight-cycles. The four six-cycles are one six-cycle, each path with its path backward: 1-9-5-12-8-16 and 3-11-7-10-6-14 move 8 up, 4 down, 17 less, 4 down, 8 up and 17 less, and 4-13-5-9-8-12 and 2-15-7-11-6-10 the same moves backward. The four six-cycles are twenty-four steps, four momentaries of six; nought to sixty parts as twenty-four and thirty-six, six cycles of six, as nine primes behind twenty-four and eight ahead.
 
 *a*: Names by order: each move 8 up, 8 down, 4 up, 4 down or 17 less  
 *b*: Partner, odd momentaries: each name exchanging with the one beside it, 1 with 2 to 15 with 16  
