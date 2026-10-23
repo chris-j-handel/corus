@@ -137,7 +137,7 @@ observing side, one: 2, 14 and 17
 | 16 | **16-next-same-existing** | same-existing | 1111 | one |
 | 17 | **17-next-existing** | existing, a next 1 | 0000 again | one |
 
-Code with each name:
+Of the seventeen names, three, 1, 9 and 17, are the code's functions, and fourteen are those functions' variables. Code with each name:
 
 - **1** · a living self's momentary, a giving, each self's 17-next-existing as its 1-now-existing
 - **2** · parities a self is observing from its others, each with its sharing
@@ -146,7 +146,7 @@ Code with each name:
 - **5** · bi-couplings: which self each sharing reaches
 - **6** · a self's parities across, to an other's 2-now-possibling
 - **7** · each parity a self is observing: a parity's, a prior's, a sharing's
-- **8** · a self's next prior, beside others'
+- **8** · each self's next prior, with a momentary, one resolving of a same-existing-society's selves together
 - **9** · each parity to a self of 5-now-co-existing's bi-couplings: across with 6-now-co-possibling and 10-next-co-possibling, along with 9-next-co-discovering
 - **10** · each sharing's parity, + or −, or a 0, across to an other's 14-next-possibling
 - **11** · a next prior stable-forming between two: a next momentary's observing
@@ -157,15 +157,15 @@ Code with each name:
 - **16** · a same-existing-society: each self with its prior and its parities
 - **17** · a same-existing-society's next, each self's 1-now-existing again
 
-**Two-sided, each name.** Each name coming down from a higher name, coming up from a lower one, and eight apart across a momentary.
+**Two-sided, each name.** Each name coming down from a higher name, coming up from a lower one, and eight apart, a now name with a next name.
 
 | n | Coming down | Coming up | Eight apart |
 |---|---|---|---|
 | 1 | a self's 3 and 2, from 17-next-existing | 10 and 11, to 17-next-existing | 9 |
 | 2 | each self's parities from others, from 16-next-same-existing through 17 | each sharing with its parity, 4 and 7 | 10 |
 | 3 | each self's own, from 16-next-same-existing through 17 | each sharing with its prior, 4 and 7 | 11 |
-| 4 | in 17, a coupling, a self with 6, 10 or 9, and a receiving self | in 1, each sharing | 12 |
-| 5 | a Natural Network surface, into 9 as that surface | each coupling's receiving self | 13 |
+| 4 | in 17, a bi-coupling, a self with 6, 10 or 9, and a receiving self | in 1, each sharing | 12 |
+| 5 | a Natural Network surface, into 9 as that surface | each bi-coupling's receiving self | 13 |
 | 6 | 10 as it goes across, into 9 | 10 within 1 | 14 |
 | 7 | within 1 | one parity at its time: prior over 3, now over 2, next over 10 | 15 |
 | 8 | each self's next prior, in 17, going out with its 14 | 11 coming up from 1 | 16 |
@@ -173,7 +173,7 @@ Code with each name:
 | 10 | as 6 and into 9, from 17 | 1's sharing, each 4 with its 7 | 2 |
 | 11 | within 1 | 1's next prior, coming up as 8 | 3 |
 | 12 | within 1 | 1's one binary with each sharing | 4 |
-| 13 | in 17, each self; into 9, a coupling | each self of the next 16 | 5 |
+| 13 | in 17, each self; into 9, a bi-coupling | each self of the next 16 | 5 |
 | 14 | each self's, gathering in 17 from others' 15 | in 1, parities surfacing | 6 |
 | 15 | each list going on, across or along, into 9 | in 1, each surfacing parity | 7 |
 | 16 | the same-existing-society, into 17 | 17's next same-existing-society | 8 |
@@ -225,7 +225,7 @@ Existing, discovering and observing are odd. Possibling and same-existing are ev
 | `_15 != 0 and (_15 > 0) == (_7 > 0)`, over 3 | is-or-is-not same: sharing 0, or one inversion | 15 with 7 | self-parity now-existing |
 | `-1 if _7_is_now_observing > 0 else 1`, over 3 | a prior inverting, − or + | 7-is-now-observing | self-parity now-existing |
 | `_7_is_now_observing != 0`, over 10 | a sharing's value is-or-is-not 0 | 7-is-now-observing | self-discovery next-existing |
-| `_4_now_co_same_existing in _5_now_co_existing` | a coupling is-or-is-not on a Natural Network surface | 4-now-co-same-existing | social-parity next-existing |
+| `_4_now_co_same_existing in _5_now_co_existing` | a bi-coupling is-or-is-not on a Natural Network surface | 4-now-co-same-existing | social-parity next-existing |
 
 **Same-existing through one momentary.** The four same-existing names are in the order same-existing goes round. Each same-existing name's is-or-is-not is an observing name beside it.
 
@@ -241,7 +241,7 @@ Existing, discovering and observing are odd. Possibling and same-existing are ev
 **1** · 1-now-existing
 - *Parity, span*: odd, a self's span
 - *Sides*: self: a self's resolving
-- *Co-sequencing*: a self sharing its entry to a coupling
+- *Co-sequencing*: a self sharing its entry to a bi-coupling
 - *8 up*: 9-next-co-discovering, with next
 - *9 less*: podal within 1 to 8, 8-now-same-existing
 - *17 less*: podal within 1 to 16, 16-next-same-existing
@@ -506,7 +506,7 @@ Existing, discovering and observing are odd. Possibling and same-existing are ev
 - *Prior and next*: a same-existing-society's next momentary, a next now, each self's 1-now-existing then 9-next-co-discovering with 6-now-co-possibling, 10-next-co-possibling and 9-next-co-discovering
 - *1 to 17s inward and outward*: 1–17s inward 17 of 8th and 1 of 9th, along, odd, now, and with 1–17 outward 3, odd, now
 
-**Odd names, now and 8 up with next.** Each odd name of a self's span goes 8 up to its next. 3-is-now-co-observing and 7-is-now-observing go 8 up with their root again, observing, as 11-next-co-observing and 15-is-next-observing. 1-now-existing and 5-now-co-existing go on as 9-next-co-discovering and 13-is-next-discovering, discovering. Their pairs are prior a self receives and next prior, receiving and going on, and parity a self observes and parity surfacing.
+**Odd names, now and 8 up with next.** Each odd name of a self's span goes 8 up to its next. 3-is-now-co-observing and 7-is-now-observing go 8 up with their root again, observing, as 11-next-co-observing and 15-is-next-observing. 1-now-existing and 5-now-co-existing go on as 9-next-co-discovering and 13-is-next-discovering, discovering. Their pairs are a prior a self observes and that self's next prior, receiving and going on, and a parity a self observes and a parity surfacing.
 
 - **Now: 1-now-existing**
   - *Receiving*: a momentary entering
@@ -558,7 +558,7 @@ Existing, discovering and observing are odd. Possibling and same-existing are ev
 
 - **A between, 0: one between, three names**
   - *Names*: 12-next-co-same-existing, prior and now agreeing, a between of momentaries with each sharing. 15-is-next-observing, a between of self and other, each parity surfacing with 14-next-possibling, a 0 both with an empty set surfacing and with + and − parting. 16-next-same-existing, a between with a same-existing-society, a self observing it with a next momentary's 2-now-possibling
-- **A between, 0: a self observing it, and 14-next-possibling passing over it**
+- **A between, 0: a self observing it, and that self passing over it with 14-next-possibling**
   - *Names*: 7-is-now-observing, a 0 a self receives with 2-now-possibling, that self passing over it with 14-next-possibling. It is also a 0 with 10-next-co-possibling, its prior same-existing with 11-next-co-observing
 - **A between, 0: four across names, a unit square's four dots: selves sharing across**
   - *Names*: 2-now-possibling, 6-now-co-possibling, 10-next-co-possibling, 14-next-possibling, parity's unit square, its empty centre a between. Selves share each parity and each 0 across. A receiving self passes over a 0 with its 14-next-possibling
@@ -1080,7 +1080,7 @@ Each goes along with 9-next-co-discovering to the next along, the last to the fi
 
 **A torus's two going forms.** Both numbers odd, p the smaller. With q more than twice p, from momentary 3p − 1, selves' pattern with each momentary is its pattern before going one self on across q selves. With q less than twice p, from 3p − 3, its pattern two momentaries on is its pattern inverting and moving one self on along a spiral of p selves.
 
-**Alike selves, a right spiral.** Selves alike with their others, and two one parity apart, coupling along or across, one sharing. One self's prior with each momentary, 3-is-now-co-observing, from its first. With alike selves each prior and its next, a pair (x, y), step to (y, −x). That step is a quarter turn with each momentary, a right spiral.
+**Alike selves, a right spiral.** Selves alike with their others, and two one parity apart, bi-coupling along or across, one sharing. One self's prior with each momentary, 3-is-now-co-observing, from its first. With alike selves each prior and its next, a pair (x, y), step to (y, −x). That step is a quarter turn with each momentary, a right spiral.
 
 | Selves | One self's prior, momentaries 0 to 8 | Right spiral |
 |---|---|---|
@@ -1092,7 +1092,7 @@ Each goes along with 9-next-co-discovering to the next along, the last to the fi
 | A spiral of five | +, −, −, +, +, −, −, +, + | each self |
 | Two selves one parity apart, both ways | +, −, +, −, +, −, +, −, + | a half turn, both inverting with each momentary |
 
-**Two selves.** Two selves, alike or one parity apart, coupling both ways, one way or apart.
+**Two selves.** Two selves, alike or one parity apart: bi-coupling both ways, bi-coupling one way, or apart.
 
 A, B with their prior, 3-is-now-co-observing, with the first momentary. One sharing. Parities only from those two.
 
@@ -1133,7 +1133,7 @@ A, B with their prior, 3-is-now-co-observing, with the first momentary. One shar
 
 **Two selves, three momentaries, five parities.**
 
-*a*: A self's next prior, 11-next-co-observing, along. Two selves coupling both ways, across or along, each self with a prior parity, parities only from those two, each opening, each momentary: six forms, four with an alike opening and two with an opposite, each momentary from the second, and with each form the fifth, a self's next prior, is the first, an other's prior, inverting
+*a*: A self's next prior, 11-next-co-observing, along. Two selves bi-coupling both ways, across or along, each self with a prior parity, parities only from those two, each opening, each momentary: six forms, four with an alike opening and two with an opposite, each momentary from the second, and with each form the fifth, a self's next prior, is the first, an other's prior, inverting
 
 - **An other's prior, 3-is-now-co-observing, along: +**
   - *An other's sharing, 10-next-co-possibling, across*: −
@@ -1187,7 +1187,7 @@ A's parity, sharing to B with the first momentary only. One sharing. B and C eac
 
 **A spiral opening with an empty prior, one parity sharing once.**
 
-Each cell: selves by their coupling order; · is an empty prior.
+Each cell: selves by their bi-coupling order; · is an empty prior.
 
 - **Momentary: 1** · *A spiral of 3, each self's prior*: + · · · *A spiral of 5, each self's prior*: + · · · ·
 - **Momentary: 2** · *A spiral of 3, each self's prior*: − + · · *A spiral of 5, each self's prior*: − + · · ·
@@ -1198,7 +1198,7 @@ Each cell: selves by their coupling order; · is an empty prior.
 - **Momentary: 7** · *A spiral of 3, each self's prior*: − + + · *A spiral of 5, each self's prior*: − − + − +
 - **Momentary: 8** · *A spiral of 3, each self's prior*: + − + · *A spiral of 5, each self's prior*: + − − + −
 
-Selves coupling along, last to first, each opening with an empty prior, and + sharing once with a first self with a first momentary. A first self's sharing opens with that one parity, with a bi-coupling. With that opening, a self with an empty prior receives an other's parity as its next prior. From then that prior is a self's own. Each next self's sharing opens one momentary on, that self observing a parity going along to it. With momentary n each self's sharing has a prior parity, a spiral with its one like pair. From a first momentary with which each self's sharing has a prior parity, an odd spiral's parities invert one to the next with one like pair. A self with a sharing has a prior parity with each momentary from its opening. Its next is from its own prior same-existing or inverting.
+Selves bi-coupling along, last to first, each opening with an empty prior, and + sharing once with a first self with a first momentary. A first self's sharing opens with that one parity, with a bi-coupling. With that opening, a self with an empty prior receives an other's parity as its next prior. From then that prior is a self's own. Each next self's sharing opens one momentary on, that self observing a parity going along to it. With momentary n each self's sharing has a prior parity, a spiral with its one like pair. From a first momentary with which each self's sharing has a prior parity, an odd spiral's parities invert one to the next with one like pair. A self with a sharing has a prior parity with each momentary from its opening. Its next is from its own prior same-existing or inverting.
 
 **With an empty prior, one momentary.**
 
