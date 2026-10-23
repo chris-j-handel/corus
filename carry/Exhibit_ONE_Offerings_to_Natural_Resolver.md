@@ -4,7 +4,7 @@ Exhibit ONE Natural Resolver Offerings · resolved at v391
 
 ## Resolved at v391 · v391
 
-**Resolved at v391.** 102 items stood here. Read against [Exhibit ONE Natural Resolver v391](../Exhibit_ONE_Natural_Resolver_v391.md) and its code, 40 are met at it, 27 rest on forms v391 dissolved or released or on a claim the code does not hold, 8 duplicate another item, and 10 are dated records; one, Exhibit ONE's tables cited by heading across the set, is laid at the Equilibria Registry's and the Living Ghost Registry's offerings. Each stands whole with its verdict at [the archive](../archive/session_v391/offerings_dissolved/Exhibit_ONE_Offerings_to_Natural_Resolver_resolved_v391.md). The nine droplets are met, below; five concerns stand. — v391
+**Resolved at v391.** 102 items stood here. Read against [Exhibit ONE Natural Resolver v391](../Exhibit_ONE_Natural_Resolver_v391.md) and its code, 40 are met at it, 27 rest on forms v391 dissolved or released or on a claim the code does not hold, 8 duplicate another item, and 10 are dated records; one, Exhibit ONE's tables cited by heading across the set, is laid at the Equilibria Registry's and the Living Ghost Registry's offerings. Each stands whole with its verdict at [the archive](../archive/session_v391/offerings_dissolved/Exhibit_ONE_Offerings_to_Natural_Resolver_resolved_v391.md). The nine droplets are met, below; four concerns stand. — v391
 
 ## Met at v391 · v391
 
@@ -12,7 +12,9 @@ Exhibit ONE Natural Resolver Offerings · resolved at v391
 
 ## Concerns for our word · v391
 
-**Concern · at *Each name and its relations (Six-cycle fields at 5 to 12)*.** Give each six-cycle field its own label from Twelve forms, as 'Six-cycle 1-9-5-12-8-16'. Or: Keep one label 'Six-cycle', each value naming its form, and dissolve. *Laid whole at the archive, line 37.* — v391
+**Met at v391 · one six-cycle, two paths.** The four six-cycles are one six-cycle, each path with its path backward: 1-9-5-12-8-16 and 3-11-7-10-6-14 move 8 up, 4 down, 17 less, 4 down, 8 up and 17 less, and 4-13-5-9-8-12 and 2-15-7-11-6-10 the same moves backward. Each name in two of them has one field, *Six-cycle, two paths*, and *Twelve forms* says it. — v391
+
+**Droplet · four sixes and six sixes.** The four six-cycles are four times six, 24 steps; six times six is 36, and so is four times nine. Twelve forms' other forms are 16 bi-folding steps, 8 middle bi-folding steps and 16 eight-cycle steps, 40 in all. Which 36 is the six-cycles' other side stands open. — v391
 
 **Concern · at *Each name, three scales*.** Add a pairs' column, n with 4n − 3, beside 8n − 7. Or: Keep one 1-to-17 laying, Natural Numbers having 'each is one chain with its own step'. *Laid whole at the archive, line 69.* — v391
 

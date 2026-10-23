@@ -319,8 +319,7 @@ Existing, discovering and observing are odd. Possibling and same-existing are ev
 - *17 less*: podal within 1 to 16, 12-next-co-same-existing
 - *Bi-folding*: 4-13-5-12, going 17 less first from 4-now-co-same-existing, from 13-is-next-discovering to it and on to 12-next-co-same-existing, each name one apart from 3-11-6-14
 - *Middle bi-folding*: 9-5-12-8
-- *Six-cycle*: 1-9-5-12-8-16
-- *Six-cycle*: 4-13-5-9-8-12
+- *Six-cycle, two paths*: 1-9-5-12-8-16 · 4-13-5-9-8-12
 - *Eight-cycle*: 1-9-5-13-4-12-8-16
 - *Momentaries of exchanging*: second and third of a self's four
 - *Five dimensions*: 5 social-parity next-existing, a momentary's completing of a self's five
@@ -337,8 +336,7 @@ Existing, discovering and observing are odd. Possibling and same-existing are ev
 - *17 less*: podal within 1 to 16, 11-next-co-observing
 - *Bi-folding*: 3-11-6-14, going 8 up first from 3-is-now-co-observing, from 11-next-co-observing to it and on to 14-next-possibling, each name one apart from 4-13-5-12 and 2-15-7-10
 - *Middle bi-folding*: 7-11-6-10
-- *Six-cycle*: 2-15-7-11-6-10
-- *Six-cycle*: 3-11-7-10-6-14
+- *Six-cycle, two paths*: 2-15-7-11-6-10 · 3-11-7-10-6-14
 - *Eight-cycle*: 2-15-7-11-3-14-6-10
 - *One move*: 6-now-co-possibling along 3-11-6-14
 - *Momentaries of exchanging*: third of a self's four
@@ -358,8 +356,7 @@ Existing, discovering and observing are odd. Possibling and same-existing are ev
 - *17 less*: podal within 1 to 16, 10-next-co-possibling
 - *Bi-folding*: 2-15-7-10, going 17 less first from 2-now-possibling, from 15-is-next-observing to it and on to 10-next-co-possibling, each name one apart from 1-9-8-16 and 3-11-6-14
 - *Middle bi-folding*: 7-11-6-10
-- *Six-cycle*: 2-15-7-11-6-10
-- *Six-cycle*: 3-11-7-10-6-14
+- *Six-cycle, two paths*: 2-15-7-11-6-10 · 3-11-7-10-6-14
 - *Eight-cycle*: 2-15-7-11-3-14-6-10
 - *Momentaries of exchanging*: third and fourth of a self's four
 - *A self as three*: co-competent self with 8-now-same-existing, along, prior to 8-now-same-existing across
@@ -375,8 +372,7 @@ Existing, discovering and observing are odd. Possibling and same-existing are ev
 - *17 less*: podal within 1 to 16, 9-next-co-discovering
 - *Bi-folding*: 1-9-8-16, going 8 up first from 1-now-existing, from 9-next-co-discovering to it and on to 16-next-same-existing, each name one apart from 2-15-7-10
 - *Middle bi-folding*: 9-5-12-8
-- *Six-cycle*: 1-9-5-12-8-16
-- *Six-cycle*: 4-13-5-9-8-12
+- *Six-cycle, two paths*: 1-9-5-12-8-16 · 4-13-5-9-8-12
 - *Eight-cycle*: 1-9-5-13-4-12-8-16
 - *One move*: 8-now-same-existing along 1-9-8-16
 - *Momentaries of exchanging*: fourth of a self's four
@@ -394,8 +390,7 @@ Existing, discovering and observing are odd. Possibling and same-existing are ev
 - *17 less*: podal within 1 to 16, 8-now-same-existing
 - *Bi-folding*: 1-9-8-16, going 8 up first from 1-now-existing, from 1-now-existing to it and on to 8-now-same-existing, each name one apart from 2-15-7-10
 - *Middle bi-folding*: 9-5-12-8
-- *Six-cycle*: 1-9-5-12-8-16
-- *Six-cycle*: 4-13-5-9-8-12
+- *Six-cycle, two paths*: 1-9-5-12-8-16 · 4-13-5-9-8-12
 - *Eight-cycle*: 1-9-5-13-4-12-8-16
 - *Momentaries of exchanging*: fourth of a self's four, and first of a same-existing-society's four, 9 to 11, opening with 9-next-co-discovering
 - *Parity's square and triangles*: a unit triangle, along
@@ -409,8 +404,7 @@ Existing, discovering and observing are odd. Possibling and same-existing are ev
 - *17 less*: podal within 1 to 16, 7-is-now-observing
 - *Bi-folding*: 2-15-7-10, going 17 less first from 2-now-possibling, from 7-is-now-observing to it and on to 2-now-possibling, each name one apart from 1-9-8-16 and 3-11-6-14
 - *Middle bi-folding*: 7-11-6-10
-- *Six-cycle*: 2-15-7-11-6-10
-- *Six-cycle*: 3-11-7-10-6-14
+- *Six-cycle, two paths*: 2-15-7-11-6-10 · 3-11-7-10-6-14
 - *Eight-cycle*: 2-15-7-11-3-14-6-10
 - *Momentaries of exchanging*: first of a same-existing-society's four, with 10-next-co-possibling, 9–10 completing and 10–11 opening
 - *Bi-coupling*: 8 up, a self among selves of its same-existing-society
@@ -426,8 +420,7 @@ Existing, discovering and observing are odd. Possibling and same-existing are ev
 - *17 less*: podal within 1 to 16, 6-now-co-possibling
 - *Bi-folding*: 3-11-6-14, going 8 up first from 3-is-now-co-observing, from 3-is-now-co-observing to it and on to 6-now-co-possibling, each name one apart from 4-13-5-12 and 2-15-7-10
 - *Middle bi-folding*: 7-11-6-10
-- *Six-cycle*: 2-15-7-11-6-10
-- *Six-cycle*: 3-11-7-10-6-14
+- *Six-cycle, two paths*: 2-15-7-11-6-10 · 3-11-7-10-6-14
 - *Eight-cycle*: 2-15-7-11-3-14-6-10
 - *Momentaries of exchanging*: first of a same-existing-society's four, 9 to 11, completing with 11-next-co-observing, and second, 11 to 13, opening with 11-next-co-observing
 - *Prior and next*: next prior, odd, same-existing as 3-is-now-co-observing with a next momentary, a self's own
@@ -441,8 +434,7 @@ Existing, discovering and observing are odd. Possibling and same-existing are ev
 - *17 less*: podal within 1 to 16, 5-now-co-existing
 - *Bi-folding*: 4-13-5-12, going 17 less first from 4-now-co-same-existing, from 5-now-co-existing to it and on to 4-now-co-same-existing, each name one apart from 3-11-6-14
 - *Middle bi-folding*: 9-5-12-8
-- *Six-cycle*: 1-9-5-12-8-16
-- *Six-cycle*: 4-13-5-9-8-12
+- *Six-cycle, two paths*: 1-9-5-12-8-16 · 4-13-5-9-8-12
 - *Eight-cycle*: 1-9-5-13-4-12-8-16
 - *Momentaries of exchanging*: second of a same-existing-society's four, with 12-next-co-same-existing, 11–12 completing and 12–13 opening
 - *Namings*: entraining, shape of an unrelationing surface
@@ -872,7 +864,7 @@ Each cell: sharing, 10-next-co-possibling · a next prior, 11-next-co-observing.
   - *9 less: 9 − n*: 1-now-existing
   - *17 less: 17 − n*: 9-next-co-discovering
 
-**Twelve forms.** Along each form odd names are one run and even names one run. The two runs are of like length: two and two with bi-foldings, three and three with six-cycles, four and four with eight-cycles.
+**Twelve forms.** Along each form odd names are one run and even names one run. The two runs are of like length: two and two with bi-foldings, three and three with six-cycles, four and four with eight-cycles. The four six-cycles are one six-cycle, each path with its path backward: 1-9-5-12-8-16 and 3-11-7-10-6-14 move 8 up, 4 down, 17 less, 4 down, 8 up and 17 less, and 4-13-5-9-8-12 and 2-15-7-11-6-10 the same moves backward.
 
 *a*: Names by order: each move 8 up, 8 down, 4 up, 4 down or 17 less  
 *b*: Partner, odd momentaries: each name exchanging with the one beside it, 1 with 2 to 15 with 16  
