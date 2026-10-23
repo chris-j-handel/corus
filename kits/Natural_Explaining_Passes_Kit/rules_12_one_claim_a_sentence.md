@@ -9,6 +9,7 @@ Natural Explaining Passes Kit · rules 12 · v391
 - **Every claim stays, and none is added.** No word of meaning is lost: each concept, each name, each number, each pointer (*the opening's line N*, *4.6*, Exhibit ONE's table headings) stays with the claim it belongs to.
 - A paragraph's **bold lead stays word for word**: it is the paragraph's own claim and a Co-Chaining Logic Registry step holds it. If it carries two claims, the second moves out of the bold into the next sentence only when the bold's content words all stay in the bold.
 - Lean, plain words; one word for one thing; the opening's words for the opening's concepts.
+- **No pointing in Natural Intelligence**: no line numbers, no *the opening's line N*, no section pointers, no *as in Exhibit ONE's …*. Each sentence stands by its own words. Pointing belongs to the Co-Chaining Logic Registry, whose numbered steps other files reference.
 - Nothing new is claimed.
 - **Where something is unclear, find an all-or-none binary logic, sequential path from the prior sentence to the next, without the unclear thing.** Read the sentence before and after; say each step the paragraph needs as one claim the code holds or the opening says, and leave the unclear element out. If the paragraph goes from prior to next whole without the unclear sentence, the sentence leaves. Only what neither the code nor the opening can carry goes to the person.
 - Kept as they are: tables, bullet lists of numbers, quotations, headings, the Exhibit ONE copy inside Natural Intelligence (Exhibit ONE's own file is its own slice).
