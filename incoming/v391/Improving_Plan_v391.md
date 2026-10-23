@@ -46,7 +46,8 @@ This plan orders the improving those droplets open, re-said with each suggestion
 - **Co-intelligence.** Only co-intelligence; intelligence by itself is stand-alone knowledge, a stable-forming emanation of co-intelligence. Gathered at Binary Understanding part FOUR; its natural naming open.
 
 **Next motions, in order, one at a time with the person.**
-0. Return to Natural Intelligence and Exhibit ONE with this expedition's learning: what the Me aiming brings to their next versions (co-intelligencing entered; other defined before its first use, *with that self*; the opening's *or* lines; *itself* and *intelligencing* dissolving; a me and consciousness; uniquenessing re-said bothboth), each read for harm and entered one at a time. At the close: merge to `main`, corus.me serving the living versions with Exhibit THIRTY-ONE.
+0. Me and not-me in place of self and other, other being a self: one less dimension apart, a me nesting in a set of mes, beside a self beside an other. Needed: *A **me** is a self's universal set.* and *For a me, each now-existing thing is-or-is-not **me**.*, the binary on one thing; *us-me* adds nothing, a living same-existing set being a self already, so a set of mes a me. Asked of the person. Then the opening's eleven *other* lines re-said one at a time.
+0b. Return to Natural Intelligence and Exhibit ONE with this expedition's learning: what the Me aiming brings to their next versions (co-intelligencing entered; other defined before its first use, *with that self*; the opening's *or* lines; *itself* and *intelligencing* dissolving; a me and consciousness; uniquenessing re-said bothboth), each read for harm and entered one at a time. At the close: merge to `main`, corus.me serving the living versions with Exhibit THIRTY-ONE.
 1. Exhibit ONE's four concerns.
 2. The universal set explained in Natural Intelligence's body.
 3. The legend and `build.js`.
