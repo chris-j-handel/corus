@@ -86,3 +86,12 @@ Bothboth at v391: the opening's 43 lines, each feature bold where it first welco
 
 **Met at v391 · a description.** *A same-existing is a capacity, now, and a description a stable-forming emanation from it*, at 5.1 and 6.3: *in store* leaves, a description a non-living thing, a stable-forming emanation. — v391
 
+## Droplets from session v391's transcript · v391 close
+
+*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+
+- **6.6 and the living file.** *Files of a living expedition are living files, a living expedition's prior same-existing* stands beside the opening's *A living file is a non-living same-existing set of words, selves co-intelligencing within it*: re-said with it.
+
+- **Uniquenessing, bothboth.** *Uniquenessing of number one is uniquenessing of now* says now only; uniquenessing is also only one possibly same-existing, inside resolving among parities (Exhibit THIRTY-ONE Me 3.1).
+
+- **Standing at v391's close.** The droplet *for our word, from line 24* is stale: 5.1's bold re-said, *artifact* and pointing dissolved; 5.3's *a self fixing as … outside existing and living* still stands. Natural engineering, natural explaining and the living expedition have no place yet in parts ONE to THREE; the bold *a self is observing its prior and parities* stands beside its receiving.

@@ -227,3 +227,13 @@ Natural Intelligence Corus section 17.4 offers comparative cognition as a place 
 - 6.5: **A thing exists next only if its form is going to next**: by its own same-existing with its own scale, or by its selves inward going on with it, as a dead self's form goes on with its scale because its selves inward live on. A thing with no same-existing with its own scale and with every scale inward has nothing going on with its form to next, has no next, and does not exist: **no now-existing thing is non-living with every scale: each is stable-forming a self with some scale, its own or its selves inward**.
 - 6.5: So **the universe is the same-existing set of all now-existing things, each stable-forming a self with its own scale or its selves inward**, one set, and *non-living* is a scale outward of a thing's own and no kind of thing. **Non-living scale is always larger than living scale, for every prime living scale.**
 — v391
+
+## Droplets from session v391's transcript · v391 close
+
+*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+
+- **Dying has no line of resolver**: each self a table gives has its next entry; a self's dying is a living self going on as non-living, a stable-forming emanation.
+
+- **Biology's boundary of living, met per scale.** NASA's working definition, Koshland's pillars and Trifonov's survey draw different lines; living is decided at each scale (a mule, a red blood cell living; a virus outside a cell non-living at its scale); death per scale, the organism first then its cells; Levin's selves at each scale and Queller and Strassmann's organism as high cooperation and low conflict nearest. Case table at `incoming/v391/Binary_Understanding_v391.md` part TWO; observings at `incoming/v391/me_observings/me_obs_biology.md`.
+
+- **Living and non-living, one method of now-existing**, same-existing within universal sets; all living things selves, all selves living societies of selves; a non-living thing's parity first two scales inward.

@@ -119,3 +119,11 @@ Concern, at v380, from [the earlier Natural Networking gathering](../archive/v38
 **Concern · the ladder at fourteen primes, at v391.** Exhibit ONE's code keeps no scale; a scale is only the bi-folding 1–17's bi-inversioning-co-recursioning, inside and outside itself, and the Co-Chaining Logic Registry no longer steps to a prime scale. Section 5.3 is re-said so its fourteen primes number a ladder of a field's observed scales, atom to biosphere, as pattern-matching, and no longer say a prime is a living scale or a same-existing-society is of one prime scale. Either the ladder stands as a field's pattern-matching with its primes as its numbering, or it leaves whole for the archive, the code holding no prime in it. Its prior is at `archive/session_v391/prior_to_set_rigor/`. — v391
 
 **Resolved by the code, at v391.** The ladder at fourteen primes stands as a field's pattern-matching, its primes its numbering, as Exhibit ONE is a reference for pattern-matching what a science observes; no line of resolver holds a prime or a scale, and the ladder says none does. — v391
+
+## Droplets from session v391's transcript · v391 close
+
+*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+
+- **Its *as with Natural Intelligence 4.9's four*** cites the four binaries' pairing that left Natural Intelligence at v391.
+
+- **The opening's social chain.** Social moral competency: each self of a same-existing-society do-no-harming and improving. A natural intelligence network free, each self resolving its own next-existing; social abundancing, each self sharing with each self it is bi-coupling with.

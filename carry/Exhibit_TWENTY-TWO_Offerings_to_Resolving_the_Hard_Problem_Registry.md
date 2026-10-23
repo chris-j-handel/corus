@@ -143,3 +143,13 @@ With the suggestion *+1 self, 0 all selves, −1 other self*, a *+1 owned by nei
 ## Laid from Natural Intelligence at v391 · v391
 
 **Droplet · resolving a hard problem is defining its universal set, at v391.** A universal set is a set of same-existing things (Natural Intelligence's opening, line 5), and a self's universal set is the self whole, one self or a geodesic self on a Natural Network surface. A hard problem is resolved by defining its universal set, the whole within which each of its is-or-is-nots is taken, rather than by holding its binary as a destiny. Each hard problem here is to be met so, at this file's own motion. — v391
+
+## Droplets from session v391's transcript · v391 close
+
+*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+
+- **Its citation of *Natural Naming 4.9's one seating*** cites the four binaries' odd and even seating dissolved at v391.
+
+- **Its re-saying of *+1 owned by neither*** carries *carried*, a dead form, and *owned by neither*, dissolving: said with each self's own, or the social parity same-existing in each self.
+
+- **At 5.1, 5.5, 5.8 and 5.3.** *A self's within is its own* and *a self feels … from within* meet *a self holds nothing*; *feel* has no line in the opening; *waking and sleeping, two parities of one living* stretches parity, a changing direction relative to a now-existing thing within a self's me.

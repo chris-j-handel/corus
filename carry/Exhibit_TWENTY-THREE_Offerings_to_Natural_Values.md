@@ -69,3 +69,11 @@ The user’s further offering in [session v385R, section 91](https://github.com/
 ## Gathered at v391, reading across the living file set · v391
 
 **Concern · no universal set stands.** 4.1 says *A set of all sets fails, and no universal set stands*; Natural Intelligence's opening says *the universe is one now-existing universal set*. Suggested at v391: the same-existing universe is our third living self. Offered at Natural Intelligence: *the universe is one now-existing set, re-found with each momentary, and no set stands over it*, which both sayings carry. — v391
+
+## Droplets from session v391's transcript · v391 close
+
+*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+
+- **A non-living thing's value is social.** A self's parity is relative to a now-existing thing within its me, a non-living thing included; its value same-existing only where selves' parities agree, as many prefer gold over lead. *Moral*, from *mos*, a way; a changing direction is a way.
+
+- **At 4.1 · *no universal set stands*.** Set theory has no set of all sets; each self's universal set, its me, stands within one universe: said of a set of all sets only.

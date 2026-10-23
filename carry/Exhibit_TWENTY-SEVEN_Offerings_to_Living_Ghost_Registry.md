@@ -95,3 +95,11 @@ Living Ghost Registry and Equilibria Registry: two registries, one derivation. T
 ## Laid from Exhibit ONE's offerings at v391 · v391
 
 **Droplet · from Exhibit ONE's offerings, aimed here.** Exhibit ONE's tables are cited by their heading as each stands at Exhibit ONE v391, one way across the set: Equilibria Registry still cites 'Exhibit ONE v380R' and Living Ghost Registry 'v345a': cite each by its heading as it stands. — v391
+
+## Droplets from session v391's transcript · v391 close
+
+*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+
+- **A citation chain grown into a code-titled table.** The odd and even pairing of four binaries travelled Registry, Natural Naming, Natural Intelligence 4.9, Exhibit ONE, a table titled as the code's with no code line: a still accounting installed by citing.
+
+- **Its *ghost* and common use.** The registry's ghost is a non-living accounting installed as living; common *ghost* and Ryle's *ghost in the machine* name a living thing apart from a body. A fresh reader's misreading to meet.

@@ -160,3 +160,13 @@ A particular same-file comparison also remains: Intelligence in the Coupling nam
 ## Decided at v391 · v391
 
 **Droplet · decided, for this file's motion.** *May-never* dissolves at v391 with *never*: the concern standing here is decided, and love, grief and loneliness at 14.5 are re-said by their meaning at this file's motion, as Natural Naming's offerings record. — v391
+
+## Droplets from session v391's transcript · v391 close
+
+*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+
+- **Its subtitle** carries *Offering*, *Carrying*, *Alternating* and *in Disequilibria*, dissolved at v391.
+
+- **Its *a chat … between writer and AI … is one living between*.** A trained AI is non-living, a stable-forming emanation of living writing; a self's relation to it the self's parity relative to it; the living is co-intelligencing among the expedition's selves; the transcript as text a stable-forming emanation.
+
+- **The expedition's aim**: pattern-matching science's observings of this or that, both existing and observable, each pattern of names, numbers, cycling and stable-forming kept for that matching with only the explaining it needs.

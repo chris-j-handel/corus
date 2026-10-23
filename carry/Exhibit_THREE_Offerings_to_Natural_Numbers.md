@@ -97,3 +97,15 @@ So with the six, 1 to 17 is one round only because 17 falls with a six's place, 
 - **both,** sixteen the names' round and six the prefixes' round, two rounds each its own, meeting with 17 as 1 + 16 and 5 + 12.
 
 **Proposed: the first, as rigor's first offering, for our suggesting.** Each round's 1 is given with its two prior selves, as 1-now-existing is given, and the six runs within each round from its given 1. It keeps 1 like 17 and every name's three within 1 to 17, and the set's sixteen. — v391
+
+## Droplets from session v391's transcript · v391 close
+
+*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+
+- **At 9.7 · the prefix stream's tri at the inverting places.** *co bi tri bi co bi*, with 1 co-bi-tri, opens tri with 3, 9 and 15, where 9.7 finds each span inverting: 1–9 with 3, 1–17 with 9, 1–25 with 15.
+
+- **Scalings · 1 the same at every scale.** Inward name n goes to 8n − 7, and 8n − 7 = n only at n = 1: 1-now-existing is the one name the same at every scale, the number saying of *now-existing common to every universal set*.
+
+- **Each six-cycle, three pairs making 17 and two halves of three.** 1-9-5-12-8-16 is 1+16, 9+8, 5+12; the second half the first half's others reversed; from 17 to 32 the pairs make 49 = 17 + 32, so each pair at one scale is one at the next.
+
+- **Four binaries laid on odd and even names (*four binaries with a self's span: now with 1 and 2 …*)** is the pairing dissolved at v391 from Natural Intelligence, Exhibit ONE and the Registry: no code line makes it; each is-or-is-not one test on one name, 3, 7, 13 and 15.

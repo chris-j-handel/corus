@@ -91,3 +91,13 @@ Exhibit FOUR Natural Mathematics Offerings · improved at v389
 **Droplet · from Natural Intelligence's offerings, aimed here.**  — v391
 
 *Entered at v391, step 1:* *binary method* re-said at its three sayings beside subtitles: Natural Mathematics 1.2, *Numbers, mathematics and logic are nature's own unrelationing parity-changing, is or is not, with each step*; Natural Explaining's and the Geodesic Improving Method's *fractal method itself*; Natural Mathematics and Natural Explaining to v391, priors at `archive/session_v391/prior_to_binary_method/`. The Co-Chaining Logic Registry's subtitle is left as is with the subtitles, to return to.
+
+## Droplets from session v391's transcript · v391 close
+
+*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+
+- **Parity, one inversioning or none, composing by odd and even**, as a permutation's parity: an even number of transpositions same, an odd number inverting; mathematics' composing, no count across momentaries.
+
+- **At the set-theory passage.** A complement is taken only within a universal set; a *not* with no whole is the absolute complement, the overreach *never* is. The textbook's universal set is one context's whole, each thing's own universal set within one universe, so *no set of all sets* and *each self a universal set* both hold. A spiral of one is New Foundations' self-membered set in living form, noted.
+
+- **A relation needs two.** A relation is a subset of S × S; a one-element set has only (a, a), no direction relative to an other; so a parity needs two, and living is only co-living. Extensionality, a set its things, gives each universal set's uniqueness.

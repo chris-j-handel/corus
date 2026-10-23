@@ -45,3 +45,9 @@ Exhibit SIX Natural Transmissioning Offerings · improved at v386EOD
 **Concern · at a sentence.** Beside "Five and six the co-agency unrelationing and co-competencing each other, no linear fifth. The derivation runs from bi-in"…
 
 *Standing at v389:* Natural Transmissioning 4.6 has "Five and six the co-agency unrelationing and co-competencing each other" and "The derivation runs from bi-inversioning co-recursioning between two and six". At Exhibit ONE, 5-now-co-changing is co-competencing and 6-now-co-possibling bi-moralizing, and no name carries a derivation between 2 and 6; Co-Chaining Logic Registry's sources hold the same gap. **To resolve:** are five and six 5-now-co-changing and 6-now-co-possibling, and two and six 2 and 6 across, or an older numbering to release?
+
+## Droplets from session v391's transcript · v391 close
+
+*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+
+- **Its way in.** A field's observing pattern-matched with the resolver's entry, as Natural Physics does; the resolver names used as tags meet that, each science file carrying its own way in.
