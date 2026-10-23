@@ -15,7 +15,7 @@ Natural Explaining Passes Kit · rules 11 · v391
 
 **Exhibit ONE's code decides.** Write it runnable with `python3 kits/Natural_Explaining_Passes_Kit/resolver_from_one.py OUT_DIR` and give readers OUT_DIR/resolver.py and OUT_DIR/ring.py. A self's next prior is an other's agreeing parity when one is received; its prior inverting with its possibling empty, a 0, or parting parities; same parity received as its prior, it shares 0 and its prior stays; at a first sharing with parting parities it shares 0 and forms no prior; a received 0 is passed over; 6, 10 and 9 send one list to a receiver's 14; each parity resolves per sharing.
 
-**Also never brought in.** Equilibria words as what nature does (keeping, holding, storing, staying, balance: nothing in nature keeps anything); dissolved words (parity-changing, alternating, offering, arriving, carrying, continuing, crossing, differ*, still-possibling, stilling, never, itself, membrane, intelligencing standing alone, couple and couples, each a dead ending where a living -ing is said); new past participles.
+**Also never brought in.** Equilibria words as what nature does (keeping, holding, storing, staying, balance: nothing in nature keeps anything); dissolved words (parity-changing, alternating, offering, arriving, carrying, continuing, crossing, differ*, still-possibling, stilling, never, itself, membrane, intelligencing standing alone, couple and couples, each a dead ending where a living -ing is said; bare *coupling*, a bi-coupling the only coupling: two selves sharing a *bi-coupling*, a self with a non-living thing its *parity relative to* it, a prior with parities received *resolving*, counting pairs among n a field's term); new past participles.
 
 ## The motion: propose · read for harm · enter
 
