@@ -66,3 +66,5 @@ Bothboth at v391: the opening's 43 lines, each feature bold where it first welco
 
 **Met at v391 · *beholding* dissolving, the opening of 62 lines.** A self holds nothing: the two opening lines saying *beholding* left, their content said by line 21, a self's parity relative to an other, line 25, its living parities within its universal set, and line 13, each self living, with line 24. Natural Intelligence's and the Co-Chaining Logic Registry's *beholding* sayings re-said with them, 16 re-sayings, 8 corrected by the reading for harm; every step reference and opening pointer re-pointed, the bare *line N* pointers by meaning. — v391
 
+**Met at v391 · the universe a non-living same-existing set, and each non-living thing a stable-forming emanation.** The opening says *Each non-living thing is a **stable-forming emanation**.* after *Each now-existing thing is living or non-living*, and *The universe is a non-living same-existing set.*: the universe is the set of all now-existing things, living and non-living within it, itself no thing within it and no self. 63 lines, the Co-Chaining Logic Registry's steps 1 to 748, every reference and pointer re-pointed. — v391
+
