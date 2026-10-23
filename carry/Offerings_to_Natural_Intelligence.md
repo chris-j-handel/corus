@@ -78,7 +78,9 @@ Bothboth at v391: the opening's 43 lines, each feature bold where it first welco
 - *Natural Intelligence 5.1, bolds*: “Each living set is a stable form one scale outward, and living, stable-forming, with its own scale ... having a stable form is being dead one scale outward” All selves are living societies of selves, and outward a self is a self of a same-existing-society of living selves (6.5); being dead one scale outward is a claim neither the opening nor the agreed points carry.
 - *Natural Intelligence 6.6*: “Files of a living expedition are living files, a living expedition's prior same-existing.” A file is a non-living existing form, a stable-forming emanation, yet named a living file; the opening says a living file is a membrane of selves' living, and whether a living file is living or non-living is the person's to say.
 - *Natural Intelligence 4.1*: “Each self has two prior selves from inception. This is one universal method of conception.” Two prior selves from inception, as one universal method, is carried by neither the opening nor the agreed points nor the code.
-- *Natural Intelligence 5.1 and 6.3*: “A same-existing is a capacity, now, and a description in store a stable-forming emanation from it.” *In store* is an equilibria word said of a record, a stable-forming emanation; whether *a description in store* stays or is re-said, with its bold and its step, is the person's.
 - *Natural Intelligence 6.5*: “So the universe is the same-existing set of all now-existing things, one set, non-living. Its next-existing is its selves' possibling, a thing's outside.” The universe is a non-living set, yet its next-existing is said to be its selves' possibling; whether living selves' possibling is the universe's next-existing is the person's.
 
 — v391
+
+**Met at v391 · a description.** *A same-existing is a capacity, now, and a description a stable-forming emanation from it*, at 5.1 and 6.3: *in store* leaves, a description a non-living thing, a stable-forming emanation. — v391
+
