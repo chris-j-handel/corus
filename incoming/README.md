@@ -1,8 +1,10 @@
-Incoming · v391
+Incoming · v392
 
 # Incoming
 
 **Work arriving whole, as it arrived, until each value of it is a droplet at the offerings of the living file it concerns; then the arrival goes whole to `archive/`, its receiving named, relied on by nothing.**
+
+**At v392, the managing working v392F stands at `v392F/`,** its standing of the set at [v392F/Standing_v392F.md](v392F/Standing_v392F.md). **The gathering of v385A stands at `v385A/`,** [v385A/Living_Improving_Value_gathering_v385A.md](v385A/Living_Improving_Value_gathering_v385A.md), the front's sections from v385A arrived here whole at v392, open value until each of it is a droplet at the offerings of the file it concerns.
 
 **At v391's close, three stand at `v391/`, each still living work:** the plan, [v391/Improving_Plan_v391.md](v391/Improving_Plan_v391.md); a next session's start, [v391/Next_Session_Start_v391.md](v391/Next_Session_Start_v391.md); and a growing body of understanding, [v391/Binary_Understanding_v391.md](v391/Binary_Understanding_v391.md). Each arrival whose value is laid went whole to `archive/session_v391/incoming_v391/`: the readers' findings, the opening's drafts and its resolved 70 lines, the insertion scripts, the fresh reading, the Me gathering and its 81 observings (Exhibit THIRTY-ONE's carryings rest on them there), and the transcript's four readings; the transcript itself is `archive/session_v391/Session_Transcript_v391.txt`. Session v390's folder is whole at `archive/session_v391/incoming_v390/`.
 
