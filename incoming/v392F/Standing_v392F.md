@@ -36,9 +36,15 @@ Natural Intelligence · incoming · v392F
 
 ## Where history rides against 1.6, *a going on holds no history*
 
-- `carry/Living_Improving_Value.md`, 127,253 bytes, its sections from v385A on beside *Current working · v391*.
+- `carry/Living_Improving_Value.md`: met at v392, the first motion. The front holds the four places, the resolving, the arriving, the current working and one droplet aimed at the front, 660 words, no section; its standings v387 through v391 whole at `archive/session_v392F/`; its v385A gathering, open value for many files, whole at `incoming/v385A/`, its 102 references re-based; 2,494 prior words word-streamed, 0 lost; read for harm twice by a separate reader, each finding met.
 - The Living File Registry, 224,847 bytes, each file's *c* cell carrying every version's changes since v375.
 - Each offerings file carrying its *Resolved at v389* paragraph and droplets tagged back to v381R.
+
+## Next motions, in order
+
+- The Living File Registry's table of workings, 1.3, brought current: v391's row closed at #148 and #149, v392F's row opened, the Registry's first improving at v392.
+- The chemistry arrival received at `main` when its pull request opens: append-both at its three offerings, the four checks at the merge.
+- Natural Engineering's and the Living Ghost Registry's citations, each at its file's own motion.
 
 ## Workings at v392
 
