@@ -3146,7 +3146,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
 ## 41 A self's next, one momentary at a time
 
-        *Entering: a self with a prior parity next its prior's other parity, or same-existing with its own parity surfacing; one parity surfacing a self's next with four cells; a parity a self shares, a receiving self's next; a sharing with an empty prior opening with one parity surfacing; a spiral's first two momentaries, an inverting and an other's parity a self observes; a self receiving its own parity from a non-living thing within its me, a self receiving from it inverting twice.*
+        *Entering: a self with a prior parity next its prior's other parity, or same-existing with its own parity surfacing; one parity surfacing a self's next with four cells; a parity a self shares, a receiving self's next; with one case its prior same-existing, and each remaining case, for a sharing with a prior, inverts it; a sharing with an empty prior opening with one parity surfacing; a spiral's first two momentaries, an inverting and an other's parity a self observes; a self receiving its own parity from a non-living thing within its me, a self receiving from it inverting twice.*
 
 717. With resolver a self with a prior parity is next its prior's other parity, sharing it with 10, with each of six cells of Exhibit ONE's table of one self with one momentary: an empty set surfacing, its other parity surfacing, and + and − together, each with + and with −, step 282. With its own parity surfacing, two cells, it shares 0 and its prior is same-existing. Inverting is a self's own, with 12.
 
@@ -3154,7 +3154,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
 718. With one parity surfacing a self with a prior parity is next that parity, with each of four cells, its prior same-existing with two alike and inverting with two of its other parity; with two cells of a sharing with an empty prior its parity is next prior as a self observes it, sharing opening, Exhibit ONE's table. From a self's sharing or going along, parity surfacing is parity that self shares one momentary prior, its next prior, step 278, step 701 its case with two selves: parity a self shares, its next prior, is next prior of a receiving self with a prior parity, with one momentary my prior your next existing. A parity from a non-living thing within a self's me, step 283, is a prior of an empty set of selves.
 
-        *Adding: one parity surfacing a self's next with four cells; a parity a self shares, a receiving self's next.*
+        *Adding: one parity surfacing a self's next with four cells; a parity a self shares, a receiving self's next; with one case its prior same-existing, and each remaining case, for a sharing with a prior, inverts it.*
 
 719. A sharing with an empty prior opens with one parity surfacing, that parity sharing and next prior as a self observes it, with two cells of Exhibit ONE's table of an empty prior; with an empty set surfacing it shares an empty set, and with + and − together 0, and its next prior an empty set, two cells, step 282.
 
