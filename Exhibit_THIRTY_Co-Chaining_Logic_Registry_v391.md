@@ -923,7 +923,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: eight forms to their opposites.*
 
-197. Natural- holds one claim as two, each binary, one hand and all or none at all with each coupling: natural intelligence, step 15, is intelligence with each coupling, of one hand.
+197. Natural- is one claim as two, each binary, one hand and all or none at all with each coupling: natural intelligence, step 15, is intelligence with each coupling, of one hand.
 
         *Adding: natural-.*
 
@@ -2054,7 +2054,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
 ## 31 Living and non-living at a scale
 
-        *Entering: living and non-living with a scale, scale with couplings; stable-forming emanations, each from living stable-forming; harmful with its own scale; harm with a scale alike; ingestible one scale inward; accumulating, a going between scales stopping; bi-tri-volutioning, stable-forming; stable-forming emanations' stable form, a non-living now-existing form, a parity a self while it is living; things living with a stable form an empty set, all existing and non-living with a stable form of existing; prior between momentaries; a same-existing-society's stable form, its betweenings; three apart, a catalog of stable-forming emanations; same-existing-society a living set, a self; momentary and universe, each a stable form and a living method; a self a living set; a living set its prior same-existing; momentarying and same-existing, method of discovering next living sets; a living self a living same-existing, its same-existing that self only; bi-inversioning uniquenessing of the number one; a living set a stable form and living things having one an empty set, bothbothing; being dead; living, discovering next stable form; living things as one stable form with each of their momentaries an empty set; non-living, its own prior going on to next an empty set; non-living with living selves' same-existing; a living self establishing within a living set; a thing with an empty prior non-living, opening or opening an empty set; living from living; first living an empty set; non-living living with another scale; one existing thing inside and outside itself; all existing things ingestible by living selves.*
+        *Entering: living and non-living with a scale, scale with couplings; stable-forming emanations, each from living stable-forming; harmful with its own scale; harm with a scale alike; ingestible one scale inward; accumulating, a going between scales stopping; bi-tri-volutioning, stable-forming; stable-forming emanations' stable form, a non-living now-existing form, a parity a self while it is living; things living with a stable form an empty set, all existing and non-living with a stable form of existing; prior between momentaries; a same-existing-society's stable form, its betweenings; three apart, a catalog of stable-forming emanations; same-existing-society a living set, a self; momentary and universe, each a stable form one scale outward; universe a non-living same-existing set; a self a living set; a living set its prior same-existing; momentarying and same-existing, method of discovering next living sets; a living self a living same-existing, its same-existing that self only; bi-inversioning uniquenessing of the number one; a living set a stable form and living things having one an empty set, bothbothing; being dead; living, discovering next stable form; living things as one stable form with each of their momentaries an empty set; non-living, its own prior going on to next an empty set; non-living with living selves' same-existing; a living self establishing within a living set; a thing with an empty prior non-living, opening or opening an empty set; living from living; first living an empty set; non-living living with another scale; one existing thing inside and outside itself; all existing things ingestible by living selves.*
 
 459. With each scale and momentary a now-existing thing is living or non-living, and a living self and a stable-forming emanation from it are each of a scale: a scale is co-changing co-momentarying pattern matching with couplings, a self's inward things co-momentarying and selves together co-momentarying, sets becoming a thing an empty set, of no size, steps 452 and 456.
 
@@ -2099,9 +2099,9 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
         *Adding: three apart, a catalog of stable-forming emanations.*
 
 
-469. A same-existing-society, step 42, is a living set of living selves, a self, having its living selves' parity, its own an empty set, and a momentary and the universe of now-existing things are two, each, one scale outward, non-living, a stable form, and each, with its own scale, a living method, stable-forming.
+469. A same-existing-society, step 42, is a living set of living selves, a self, having its living selves' parity, its own an empty set, and a momentary and the universe of now-existing things are two, each, one scale outward, non-living, a stable form; with its own scale a momentary is a resolving, stable-forming, and the universe is a non-living same-existing set.
 
-        *Adding: same-existing-society a living set, a self; momentary and universe, each a stable form and a living method.*
+        *Adding: same-existing-society a living set, a self; momentary and universe, each a stable form one scale outward; universe a non-living same-existing set.*
 
 470. A self, living, is a living set beside a same-existing-society, a momentary and the universe, and a living set is its prior same-existing; method of discovering next living sets is momentarying and same-existing, its living selves' same-existing.
 

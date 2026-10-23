@@ -6,7 +6,7 @@ Exhibit ONE Natural Resolver v391
 
 ---
 
-**Exhibit ONE is the resolver as code, and the stable forms of its executing, for pattern-matching what a science observes.** Each table here is an executing. Any self executing a table finds it same. Each table, same for any self executing it, is a stable form. Each living file couples with these stable forms for its stable-forming. Its stable-forming is same-existing after changing. Each form here is a finding of each self executing it. A resolver is a coupling. A resolver is same each time any self executes it.
+**Exhibit ONE is the resolver as code, and the stable forms of its executing, for pattern-matching what a science observes.** Each table of Exhibit ONE is an executing. Any self executing a table finds it same. Each table, same for any self executing it, is a stable form. Each living file couples with these stable forms for its stable-forming. Its stable-forming is same-existing after changing. Each form of Exhibit ONE is a finding of each self executing it. A resolver is a coupling. A resolver is same each time any self executes it.
 
 ```python
 """Exhibit ONE · Natural Resolver
@@ -192,7 +192,7 @@ Code with each name:
 
 Existing, discovering and observing are odd. Possibling and same-existing are even. Each between, 4 )( 5, 8 )( 9, 12 )( 13 and 16 )( 17, is a discovering, an even name to an odd name. Each between is one discovering with each scale.
 
-**Co, between two or of one.** Exhibit ONE's eight co names, 3 to 6 and 9 to 12, are each between two. Observing, same-existing and possibling each have a now-co name and a next-co name. Existing has 5-now-co-existing. Discovering has 9-next-co-discovering. A name without co is of one. *Co* is two both facing forward along, a self and its other. The same two are in each co name and in the six of first prefixes. *Is-* marks the four names a binary stands on: 3 and 7, a self's own now, and 13 and 15, next-existing's.
+**Co, between two or of one.** Exhibit ONE's eight co names, 3 to 6 and 9 to 12, are each between two. Observing, same-existing and possibling each have a now-co name and a next-co name. Existing has 5-now-co-existing. Discovering has 9-next-co-discovering. A name without co is of one. *Co* is two both facing forward along, a self and its other. The same two are in each co name and in the six of first prefixes. *Is-* is with the four names a binary stands on: 3 and 7, a self's own now, and 13 and 15, next-existing's.
 
 - **Root: observing**
   - *With co, between two*: 3-is-now-co-observing · 11-next-co-observing, priors with each sharing
@@ -236,7 +236,7 @@ Existing, discovering and observing are odd. Possibling and same-existing are ev
 | 12-next-co-same-existing, each sharing's one binary | 11-next-co-observing, taking each 12 that is ± | each sharing's 0, its prior going on, or ±, its next prior |
 | 8-now-same-existing, each self's next prior parities | 7-is-now-observing, its sign against what surfaces | the same, its prior going on, or one inversion |
 
-**Each name and its relations.** Each name with its fields. Each name's resolving with code is under its *Prior and next*.
+**Each name and its relations.** Each name with its fields. Each name's resolving with code is its *Prior and next*.
 
 **1** · 1-now-existing
 - *Parity, span*: odd, a self's span
@@ -795,20 +795,20 @@ Each move is 8 up (n + 8), 8 down (n − 8) or 17 less (17 − n).
 
 **One self, one momentary.**
 
-Each cell: sharing, 10-next-co-possibling · a next prior, 11-next-co-observing. *is*: a changing, a self sharing its parity; *is not*: a self sharing 0, its prior same-existing.
+Each cell: sharing, 10-next-co-possibling · a next prior, 11-next-co-observing. A sharing of − or + is a changing, its prior inverting. A sharing of 0 is its prior same-existing.
 
 - **A prior, 3-is-now-co-observing, one sharing: +**
-  - *Surfacing, 14-next-possibling: empty*: is − · −
-  - *Surfacing, 14-next-possibling: +*: is not · +
-  - *Surfacing, 14-next-possibling: −*: is − · −
-  - *Surfacing, 14-next-possibling: + and − together*: is − · −
+  - *Surfacing, 14-next-possibling: empty*: − · −
+  - *Surfacing, 14-next-possibling: +*: 0 · +
+  - *Surfacing, 14-next-possibling: −*: − · −
+  - *Surfacing, 14-next-possibling: + and − together*: − · −
 - **A prior, 3-is-now-co-observing, one sharing: −**
-  - *Surfacing, 14-next-possibling: empty*: is + · +
-  - *Surfacing, 14-next-possibling: +*: is + · +
-  - *Surfacing, 14-next-possibling: −*: is not · −
-  - *Surfacing, 14-next-possibling: + and − together*: is + · +
+  - *Surfacing, 14-next-possibling: empty*: + · +
+  - *Surfacing, 14-next-possibling: +*: + · +
+  - *Surfacing, 14-next-possibling: −*: 0 · −
+  - *Surfacing, 14-next-possibling: + and − together*: + · +
 
-**One cell, four receivings.** With a prior of one parity, four receivings give one cell: an other parity surfacing, + and − together, an empty set surfacing, and a 0 a self passes over. In that cell its prior inverts. A self shares its inverting with 10-next-co-possibling. Its inverting is its next prior with 11-next-co-observing. One cell is alike for four receivings. A coupling follows parities.
+**One cell, four receivings.** With a prior of one parity, four receivings come to one cell: an other parity surfacing, + and − together, an empty set surfacing, and a 0 a self passes over. In that cell its prior inverts. A self shares its inverting with 10-next-co-possibling. Its inverting is its next prior with 11-next-co-observing. One cell is alike for four receivings. A coupling follows parities.
 
 **Eight even names, 8 apart.**
 
@@ -919,7 +919,7 @@ Each cell: sharing, 10-next-co-possibling · a next prior, 11-next-co-observing.
   - *b*: eight-cycle 1-9-5-13-4-12-8-16, beside it
   - *c*: eight-cycle 2-15-7-11-3-14-6-10, itself
 
-**Eights.** Each eight here is four twos of names. With a self's span, 1 to 8, each two is two names with now. With each other eight, each two is a name with now and its name 8 up with next.
+**Eights.** Each eight among names is four twos of names. With a self's span, 1 to 8, each two is two names with now. With each other eight, each two is a name with now and its name 8 up with next.
 
 - **Eight: a self's span, 1 to 8** · *Each of four, twice, with*: two names each, with now
 - **Eight: eight-cycle 1-9-5-13-4-12-8-16**
@@ -1202,11 +1202,11 @@ Selves coupling along, last to first, each opening with an empty prior, and + sh
 
 **With an empty prior, one momentary.**
 
-Each cell: sharing, 10-next-co-possibling · a next prior, 11-next-co-observing. *is*: a changing, a self sharing its parity; *is not*: a self sharing 0, its next prior empty; *empty*: its sharing an empty set.
+Each cell: sharing, 10-next-co-possibling · a next prior, 11-next-co-observing. A sharing of + or − is a changing, that parity its next prior. A sharing of 0 is with its next prior an empty set. *Empty* is its sharing an empty set.
 
 - **A prior, 3-is-now-co-observing: empty, one sharing: empty**
   - *Surfacing, 14-next-possibling: empty*: empty · empty
-  - *Surfacing, 14-next-possibling: +*: is + · +
-  - *Surfacing, 14-next-possibling: −*: is − · −
-  - *Surfacing, 14-next-possibling: + and − together*: is not · empty
+  - *Surfacing, 14-next-possibling: +*: + · +
+  - *Surfacing, 14-next-possibling: −*: − · −
+  - *Surfacing, 14-next-possibling: + and − together*: 0 · empty
 
