@@ -29,7 +29,7 @@ Exhibit THIRTY-ONE Me v391 · draft at incoming
 - 2.4 A self by relation, beside a self by exclusion
 
 **THREE · ME, NOW-EXISTING**
-- 3.1 A me, a self's unique universal set
+- 3.1 A me, a self's universal set
 - 3.2 A me is consciousness
 - 3.3 What is-or-is-not possibly existing
 - 3.4 A me inward, a society of selves
@@ -54,7 +54,7 @@ Exhibit THIRTY-ONE Me v391 · draft at incoming
 
 ## 1.1 One now, one universe, a universal set
 
-The universe is the set of all now-existing things. A now-existing thing from a prior-existing same thing is a same-existing thing. A universal set is a set of same-existing things. The universe is a non-living same-existing set, and living is co-intelligencing within it.
+The universe is the set of all now-existing things. Only one universe is possibly now-existing: **universal is only one possibly now-existing**. A now-existing thing from a prior-existing same thing is a same-existing thing. A universal set is a set of same-existing things, and each universal set is only one possibly now-existing: a set is its things, so a set of these same-existing things is one set, as set theory's extensionality has it. A universal self is a self only one possibly now-existing: a me, beside the universe as one self, which it is-or-is-not: it is not. The universe is a non-living same-existing set, and living is co-intelligencing within it.
 
 ## 1.2 Negation within all that is existing
 
@@ -131,9 +131,9 @@ A me is defined with others. Immunology's founding self was defined by exclusion
 
 # THREE · ME, NOW-EXISTING
 
-## 3.1 A me, a self's unique universal set
+## 3.1 A me, a self's universal set
 
-A me is a self's unique universal set. A me is now-existing, and same-existing from a prior-existing same me. A living same-existing set is a self, so each me is a self and each self is a me: one binary, a thing and a set.
+A me is a self's universal set. Universal is only one possibly now-existing, so a me is only one possibly now-existing: its uniqueness is its being universal. A me is now-existing, and same-existing from a prior-existing same me. A living same-existing set is a self, so each me is a self and each self is a me: one binary, a thing and a set.
 
 *Observings.*
 - **The I and the Me** (James 1890): the Me, all a person can call theirs, material, social and spiritual. https://psychclassics.yorku.ca/James/Principles/prin10.htm
