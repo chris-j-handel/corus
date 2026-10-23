@@ -20,7 +20,7 @@ These are whole droplets, including their unresolved conditions. Earlier compari
 | Origin study and its declared correspondence | [Origin README](../kits/Natural_Illustrating_TWENTY-NINE_Improving_Kit/origin_v380A/README.md) |
 | Continuity concept and editable source | [Continuity README](../kits/Natural_Illustrating_TWENTY-NINE_Improving_Kit/continuity_v380A/README.md) |
 | Later comparison and passage-level opportunities | [v380A consistency report](../archive/v380A/illustrating/Concept_And_Consistency.md), at its current carrying address; older kit links still name `incoming/` |
-| Further views described in Corus | [Corus 16.1, Multiple Paintings of the Same Form](../Natural_Intelligence_Corus_v390.md#multiple-paintings-of-the-same-form); [the v385A passage comparison](Carryings_of_Natural_Intelligence_Corus.md#part-161-writing-value-beside-its-current-subjects). The Corus offering already names this source through v366; its possible illustrating relation is now also locally offered here. |
+| Further views described in Corus | [Corus 16.1, Multiple Paintings of the Same Form](../Natural_Intelligence_Corus_v391.md#multiple-paintings-of-the-same-form); [the v385A passage comparison](Carryings_of_Natural_Intelligence_Corus.md#part-161-writing-value-beside-its-current-subjects). The Corus offering already names this source through v366; its possible illustrating relation is now also locally offered here. |
 
 These source addresses add no new media or verifying result. The kit's retained versions and the reports' exact limits remain with the work. — v385A
 

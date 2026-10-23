@@ -391,11 +391,11 @@ For the next gathering pass, these families offer useful places to receive more 
 **Source concepts continue through their illustrating.** These locations carry the operations, namings, and relations received here. Each further drawing can return to the source with the correspondence it makes visible.
 
 - **Exhibit ONE Natural Resolver:** latest session-supplied working file, `Exhibit_ONE_Natural_Resolver_v365 (1).md`. This is the source used for the expanded cycles and the distinction between sequencing and routing.
-- [Natural Intelligence Corus](https://github.com/chris-j-handel/corus/blob/main/Natural_Intelligence_Corus_v390.md): the offering, ways into the form, language, and the living self and society across scales.
+- [Natural Intelligence Corus](https://github.com/chris-j-handel/corus/blob/main/Natural_Intelligence_Corus_v391.md): the offering, ways into the form, language, and the living self and society across scales.
 - [Exhibit TWO Natural Networking](https://github.com/chris-j-handel/corus/blob/main/Exhibit_TWO_Natural_Networking_v333.md): along and across, retelling, society, and visible resolving.
 - [Exhibit THREE Natural Numbers](https://github.com/chris-j-handel/corus/blob/main/Exhibit_THREE_Natural_Numbers_v346c.md): co-recursioning, number pairs, diamonds, podalings, rings, and tunneling.
 - [Exhibit FOUR Natural Mathematics](https://github.com/chris-j-handel/corus/blob/main/Exhibit_FOUR_Natural_Mathematics_v333.md): stable-forming, orientation, inversion, and mathematical relations.
-- [Exhibit SIX Natural Transmissioning](https://github.com/chris-j-handel/corus/blob/main/Exhibit_SIX_Natural_Transmissioning_v390.md): the plaza, bi-folding, and the physical and living illustration opportunities gathered in Co-discovering and Expressing here.
+- [Exhibit SIX Natural Transmissioning](https://github.com/chris-j-handel/corus/blob/main/Exhibit_SIX_Natural_Transmissioning_v391.md): the plaza, bi-folding, and the physical and living illustration opportunities gathered in Co-discovering and Expressing here.
 - [Natural Intelligence](https://github.com/chris-j-handel/corus/blob/main/Natural_Intelligence_v345a.md): bi-inversioning co-recursioning and numerical straddling about φ.
 - [Exhibit TWELVE Natural Explaining](https://github.com/chris-j-handel/corus/blob/main/Exhibit_TWELVE_Natural_Explaining_v333.md): explaining and successive improving.
 - [Exhibit TWENTY Natural Naming](https://github.com/chris-j-handel/corus/blob/main/Exhibit_TWENTY_Natural_Naming_v345a.md): relational and directional naming.

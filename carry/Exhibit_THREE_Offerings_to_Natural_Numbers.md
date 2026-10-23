@@ -4,7 +4,7 @@ Exhibit THREE Natural Numbers Offerings · improved at v389
 
 ## Standing · v389
 
-**Resolved at v389.** 123 items stood here; resolving against [Natural Numbers v389](../Exhibit_THREE_Natural_Numbers_v390.md), 34 are carried, 34 rest on released forms, 13 duplicate another item and 29 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_THREE_Offerings_to_Natural_Numbers_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_THREE_Offerings_to_Natural_Numbers_resolved_v389.md). The 13 concerns below stand, each with its reason; 12 stand now.
+**Resolved at v389.** 123 items stood here; resolving against [Natural Numbers v389](../Exhibit_THREE_Natural_Numbers_v391.md), 34 are carried, 34 rest on released forms, 13 duplicate another item and 29 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_THREE_Offerings_to_Natural_Numbers_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_THREE_Offerings_to_Natural_Numbers_resolved_v389.md). The 13 concerns below stand, each with its reason; 12 stand now.
 
 **Concern · 7.1's name *the returning*, and its rows 60, 61 and 118.** Two sayings part. Exhibit THREE Natural Numbers has, at 7.1, the title "Seventeen primes, two to fifty-nine, and the returning from sixty-one", the name at its rows 60, 61 and 118 also. Exhibit THREE Natural Numbers has, at 7.1, "The primes carry no last" and "past fifty-nine they open on". They part at the ring: the name closes the ring at a name, and the primes carrying no last open on. *Its far side* or *the carrying the other way* is offered for the name. One saying at the file is *the returning* released or the primes' opening on re-said, Exhibit THREE Natural Numbers' to decide, with the rings as spirals. — v386EOD
 
@@ -65,3 +65,35 @@ Exhibit THREE Natural Numbers Offerings · improved at v389
 **Droplet · one five all fives, one ten all tens.** In natural numbers one five is all fives and one ten is all tens. A ten is five self and five other: ten is or is nots, ten dimensions of parity-changing. Resolving Hard Problems carries it as ten positions on six numbers, a self 1 to 5 and an other 2 to 6; Exhibit ONE as *Fives*, prior opening, prior completing, now opening, now completing, next opening. The other six of 1 to 17 are the floating neutraling co-linear of these ten. — v390
 
 **Droplet · self-next is other-prior.** A self's ten own resolver names are this ten: five now, 3, 4, 5, 7, 8, a self's five, and five next, 11, 12, 13, 15, 16, an other's five, as self-next is other-prior; the six between selves, 2, 6, 10, 14 across and 9, 17 along, are its co-linear six. — v390
+
+**Left, not held by the code, at v391**, laid whole: *A nine is two parities, and two momentaries and next one's opening. Two parities carry four joint forms; prior and now whole and a next opening, five with each side, are ten positions, nought to nine; nine is 2² × 2½ − 1, and five pairs are of same momentary.* With the code a parity is one inversioning or none between a self and an other, now, and no ten positions of two sides stand in it. — v391
+
+## Laid from Natural Intelligence's offerings at v391 · v391
+
+**Droplet · from Natural Intelligence's offerings, aimed here.** NI's "ten positions on six numbers" is gone; NI 4.9 now has "five self and five other, one parity separating, are ten is or is nots"; the two-tens question stands only beside Natural Numbers' "ten positions, nought to nine" — v391
+
+**Standing as concerns, not insertlets.** Null and infinity + 1, two readings; two tens of positions, across a momentary and at one number; the twenty-four at two readings; the three betweens, which of 12, 15 and 16 is within; the one way of sixteen, premise or derived; the set of sets not holding themselves; Exhibit ONE inside whole or by citation; a scale outward of the universe, resolved at *a universe of existing things*; now common or shared, resolved at *shared*.
+
+*Standing at v389:* Of its list, two tens stand: Natural Intelligence 2.3 has "A self's five and an other's are ten positions on six numbers", across a momentary, and Natural Numbers 5.6 has "prior and now whole and a next opening, five at each side, are ten positions, nought to nine", at one number. Twenty-four is met at Natural Numbers 6.3, "Twenty-four arrives five ways and is one twenty-four"; each other item is met or stands as its own concern. **To resolve:** one ten at two observings, or two tens, each at its own file?
+
+**Droplet · from Natural Intelligence's offerings, aimed here.**  — v391
+
+### The one concern of this pass: a next round, sixteen on or six on
+
+**Explaining first.** Natural Naming 3.4 says ***Sixteen up is its same name with a next round**: 17-next-existing is next 1-now-existing, so 17 to 24 is a self's span again*. Natural Numbers 5.2 says ***Forms among 1 to 16 come again with 17 to 32, sixteen on***.
+
+**Two sayings part.** With the six, a name's three comes again six on, twelve on and eighteen on, and not sixteen on:
+- 17 is co-bi-tri, as 1 is, because 17 is a six's place, 1 + 6 + 6 + 4: 1 given, and the stream's co-bi-tri falls with each 5 + 6k;
+- sixteen on from 17 is 33, and 33 is tri-bi-co, an inverting place, not co-bi-tri;
+- eighteen on from 17 is 35, co-bi-tri again.
+
+So with the six, 1 to 17 is one round only because 17 falls with a six's place, and a next round of sixteen, 17 to 33, opens like 1 and completes as an inverting place.
+
+**Why it is the largest.** Each saying of rounds and scales, 8n − 7, 17 to 32 sixteen on, 1–65 and 1–257, rests on sixteen. the suggested  is thirty-six, six sixes, and its own round is six.
+
+**Concern.** Either:
+- **a round is sixteen,** 1 to 17, 17 to 33, as Natural Naming 3.4 and Natural Numbers 5.2 say, and each next round's 1 is given again with its two priors, as 1 is, so 33 is co-bi-tri given and the stream opens again; or
+- **a round is six,** or a number six divides, twelve, eighteen, thirty-six, and sixteen-on sayings are re-said; or
+- **both,** sixteen the names' round and six the prefixes' round, two rounds each its own, meeting with 17 as 1 + 16 and 5 + 12.
+
+**Proposed: the first, as rigor's first offering, for our suggesting.** Each round's 1 is given with its two prior selves, as 1-now-existing is given, and the six runs within each round from its given 1. It keeps 1 like 17 and every name's three within 1 to 17, and the set's sixteen. — v391

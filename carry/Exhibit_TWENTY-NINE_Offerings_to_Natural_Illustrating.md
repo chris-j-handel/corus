@@ -4,7 +4,7 @@ Exhibit TWENTY-NINE Natural Illustrating Offerings · improved at v389
 
 ## Standing · v389
 
-**Resolved at v389.** 72 items stood here; resolving against [Natural Illustrating v389](../Exhibit_TWENTY-NINE_Natural_Illustrating_v390.md), 17 are carried, 19 rest on released forms, 5 duplicate another item and 24 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY-NINE_Offerings_to_Natural_Illustrating_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY-NINE_Offerings_to_Natural_Illustrating_resolved_v389.md). The 7 concerns below stand, each with its reason; 7 stand now.
+**Resolved at v389.** 72 items stood here; resolving against [Natural Illustrating v389](../Exhibit_TWENTY-NINE_Natural_Illustrating_v391.md), 17 are carried, 19 rest on released forms, 5 duplicate another item and 24 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY-NINE_Offerings_to_Natural_Illustrating_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY-NINE_Offerings_to_Natural_Illustrating_resolved_v389.md). The 7 concerns below stand, each with its reason; 7 stand now.
 
 **At 4.1 · Tunneling, corusing and bi-folding, the towel — beside "Torusing in and out is odd".** At the resolver's lines a routing at the odd momentaries alone or the even alone is at no line: 17 gives the one changing of 10 on at 6 and 10 across and at 9 along, each at its coupling, a self coupled both ways at both routings at once and a spiral's self along alone. Torusing's names, 8 and 16, are even and across, and corusing's, 7 and 15, odd and along, Natural Naming's sentence, and the odd and the even of the two openings here are said at that sentence. The two openings as the primes 2 and 59, the tunnel's two ends, is at no file's sentence, Natural Numbers saying two at the entry, 1, and fifty-nine at 17, the surface.
 
@@ -35,3 +35,20 @@ Exhibit TWENTY-NINE Natural Illustrating Offerings · improved at v389
 *Standing at v389:* Natural Illustrating 8.3 has "From inward a view is one self's entry momentary by momentary, 2.5, its carrying and its offerings arriving", and Natural Naming 5.3 has "A self is a unique invisible carrying"; a row of an execution is a declared case's carrying and no living self's. **To resolve:** draw a row as a declared case, sharing and arriving only, or keep 8.3's inward view of one self's carrying?
 
 **Resolved bothboth, v390 · built and robot sets.** A robot is no self, so a built society and a robot society are re-said as *a built set* and *a robot set*, non-living. — v390
+
+**Droplet · Natural Intelligence 2.2 re-said, at v391.** Its 2.2 is now *Parity, one inversioning or none*; *one side carries odd numbers and an other even, two overlapping* has left it, not held by the code. This file's first face cites 2.2 for one side's next opening two on; met at its motion. — v391
+
+**Droplet · Natural Intelligence 2.1 and 2.3 re-said with the code, at v391.** Overlapping momentaries one number apart have left 2.3, and 2.1's odd along and even across; a momentary is one resolving of a same-existing-society's selves together. This file's citations of 2.1 and 2.3 meet it at its motion. — v391
+
+## Laid from Natural Intelligence's offerings at v391 · v391
+
+**Droplet · from Natural Intelligence's offerings, aimed here.**  — v391
+
+Each sets a self and an other as two number lines, odd and even, overlapping one number apart. The code has selves, each its own prior, and sharings. Priors at `archive/session_v391/prior_to_2_1_2_3/`. Natural Physics cites 2.1 for *a self's, opening odd, and an other's, opening even*, and Natural Illustrating cites 2.3 for a between of momentaries drawn on a shared position: each met at its motion. — v391
+
+**Left, not held by the code, at v391**, laid whole: *A self's inversion is 3, 6, 5, 4, and its podaling 23, 26, 25, 24, that same rotation twenty up.* Released from Natural Intelligence: the code holds no self's inversion as names. — v391
+
+## Laid from Natural Intelligence at v391 · v391
+
+**Droplet · a lone self, living, at v391.** Natural Intelligence's opening line 24 is *Each parity is a self while it is living*, and living or non-living is beholding a parity at a scale or not, line 28. A spiral of one and a self with its possibling an empty set are selves living, their others inward; Natural Intelligence 2.4 says so now. This file's *A lone self's sequence goes on as a non-living now-existing form, Natural Intelligence 2.4* is for its own motion, said with it. — v391
+

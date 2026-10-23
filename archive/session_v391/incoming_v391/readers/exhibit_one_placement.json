@@ -1,0 +1,566 @@
+{
+ "passages": [
+  {
+   "lead": "# Natural Resolver / **The Stable-Forming Parity-Changing Method of Discovering Same-Existing**",
+   "lines": "3-5",
+   "what": "The exhibit's title and subtitle.",
+   "used_by": "subtitle repeated in the code docstring (line 11) and NI 278-280 copy; 'resolver' in 23 living files",
+   "readable": "yes: a title, though the subtitle names no science a reader brings",
+   "home": "Exhibit ONE, reference form",
+   "why": "A title stays with its file (Natural Explaining 1.1 title and subtitle); the subtitle wants one plain first line beneath it saying what the exhibit is for.",
+   "part_FOUR": "none"
+  },
+  {
+   "lead": "```python \"\"\"Exhibit ONE · Natural Resolver ... def _1_now_existing(_3_now_co_observing, _2_now_possibling):",
+   "lines": "9-91",
+   "what": "Three functions, _1_now_existing, _9_next_co_discovering and _17_next_existing, executable resolver whose variables are the seventeen names.",
+   "used_by": "code itself quoted nowhere else ('_1_now_existing' 0 outside the copy); 'resolver' in 23 files, most at TWENTY-EIGHT Equilibria 59, THIRTY Co-Chaining 54, TWENTY Naming 53, Corus 51, TWO Networking 48, TWENTY-SIX 43, NI 27, THIRTEEN 21, FIVE 19, THREE 14",
+   "readable": "yes for a reader who programs: plain Python, long names; no for others without one line naming what goes in and out",
+   "home": "Exhibit ONE, reference form",
+   "why": "The one form every other passage derives from and the checkable worked case Natural Explaining 4.6 names; its single home is here (Geodesic Improving Method 3.2).",
+   "part_FOUR": "4.1 to 4.6 walk it step by step; NI 3.3 'Exhibit ONE is an object that is method'"
+  },
+  {
+   "lead": "```text another self's 9-next-co-discovering ══► 17-next-existing, along to a self",
+   "lines": "93-115",
+   "what": "A diagram of one self's resolving within and its six names between selves, with a legend for ═══ and ───.",
+   "used_by": "'drawing' of Exhibit ONE: NI FOUR 4.7 1 ('Exhibit ONE's drawing is one self between them'); other 'drawing' hits are other files' own drawings (TWENTY-NINE Illustrating 60)",
+   "readable": "partly: arrows and legend read, but only after the seventeen names are known",
+   "home": "Exhibit ONE, reference form",
+   "why": "A stable form beside code with its own legend; it needs a plain one-line lead and should follow the names table so its numbers are known (Natural Explaining 2.5, a form arranged and no method in it).",
+   "part_FOUR": "4.7 last paragraph"
+  },
+  {
+   "lead": "**A drawing.**",
+   "lines": "117",
+   "what": "Prose reading the drawing's arrows: 3 meets 14 with 12, 10 and 6 go across, 11 forms, 9 goes along.",
+   "used_by": "re-said NI 4.7 ('Exhibit ONE's drawing is one self between them'); 'sharing side|arriving side' NI FOUR 9, THIRTEEN 3, TWENTY 3, THIRTY 3, TWO 1, THREE 1, TWENTY-SIX 1, TWENTY-EIGHT 1",
+   "readable": "no: a chain of numbers with no plain subject",
+   "home": "archive, carried elsewhere already",
+   "why": "The drawing's legend already carries its reading and NI 4.7 explains it; a second telling migrates to one home (Geodesic Improving Method 3.2).",
+   "part_FOUR": "4.7"
+  },
+  {
+   "lead": "**Living is prior: 1-now-existing given.**",
+   "lines": "119",
+   "what": "That each self is given with two prior selves, no self made, and which names 1-now-existing receives and forms.",
+   "used_by": "'two prior selves' THIRTY 1, TWENTY-SIX 1; 'living is prior' THIRTEEN 1, TWENTY-SIX 2, THIRTY 1; entry and its names re-said NI 4.1",
+   "readable": "no: a claim about living folded into a code inventory",
+   "home": "Natural Intelligence, explaining",
+   "why": "Its first half is explaining about living, not a form, and its second half is NI 4.1's entry; a table or form file carries no explaining (Natural Explaining 2.5).",
+   "part_FOUR": "4.1"
+  },
+  {
+   "lead": "**Seventeen names.** (table n · Name · Step · Is or is nots · Co)",
+   "lines": "121-141",
+   "what": "Each of the seventeen names with its step, its four-bit is-or-is-not and whether it is co or of one.",
+   "used_by": "'seventeen names' 11 locations: TWENTY-SIX 10, THIRTY 8, THREE 7, TWENTY 7, TWENTY-NINE 5, TWO 3, NI 2, NI FOUR 2, FOUR 2, TWENTY-EIGHT 2, TWELVE 1",
+   "readable": "yes: one row per name, cells only numbers and words",
+   "home": "Exhibit ONE, reference form",
+   "why": "A table whose cells are numbers and the file's own words, arranging and supplying no method (Natural Explaining 2.5); the lookup every science's pattern-match starts from.",
+   "part_FOUR": "4.8"
+  },
+  {
+   "lead": "Code with each name: - **1** · a living self's momentary given",
+   "lines": "143-161",
+   "what": "A one-line legend per name of what that variable holds in code.",
+   "used_by": "per-name code roles explained NI 4.1 to 4.6; quoted nowhere else",
+   "readable": "yes: one short line per number",
+   "home": "Exhibit ONE, reference form",
+   "why": "The plain bridge from names to code a first reader needs; one home here, with the names table it glosses (Geodesic Improving Method 3.2).",
+   "part_FOUR": "4.1 to 4.6"
+  },
+  {
+   "lead": "**Each name is its number and its naming, one hyphenation.**",
+   "lines": "163",
+   "what": "How a name's number encodes its momentary, step, now/next and co, and the ten own names and six between selves.",
+   "used_by": "'one hyphenation' NI FOUR 1, TWENTY 1, THIRTY 1; 'six names between selves|co-linear six' NI FOUR 5, TWENTY-SIX 5, THIRTY 5, THREE 4, TWENTY 4, TWENTY-EIGHT 3, FIVE 2",
+   "readable": "no: six claims in one paragraph, each reading the table again",
+   "home": "archive, carried elsewhere already",
+   "why": "NI 4.8 re-says it almost word for word, its lead verbatim; a concept with two places migrates to one home (Geodesic Improving Method 3.2).",
+   "part_FOUR": "4.8"
+  },
+  {
+   "lead": "**Four four-cyclings and their betweens.**",
+   "lines": "165",
+   "what": "Prose on now-next-prior-same as the bi-folding method, odd-to-even momentarying, and counts of across and along to 18.",
+   "used_by": "'four-cycling' TWENTY 8, THIRTY 8, TWENTY-EIGHT 6, TWENTY-SIX 4, THREE 3, NI FOUR 2, NI 1, SEVEN 1; the 2-to-18 count ('nine bi-moral across') nowhere else",
+   "readable": "no: dense, and its own last sentence must undo a confusion it opens",
+   "home": "Natural Intelligence, explaining",
+   "why": "Explaining that NI 4.9 and 4.8 already carry in part; its one remaining claim, counts of momentarying to 18, belongs in NI's telling and not beside a table (Natural Explaining 2.5).",
+   "part_FOUR": "4.9 first paragraph, 4.8 second"
+  },
+  {
+   "lead": "| Four-cycling | Now | Next | Prior | Same | Between | (with 'Now and prior are odd; next and same are even.')",
+   "lines": "167-174",
+   "what": "The sixteen names in four rows of now, next, prior, same, with each between 4 )( 5 to 16 )( 17.",
+   "used_by": "re-cited NI 4.9 ('as with Exhibit ONE's table of four four-cyclings'); 'four-cycling' 8 files as above",
+   "readable": "yes: a 4 by 4 grid of numbers",
+   "home": "Exhibit ONE, reference form",
+   "why": "A pure arrangement of numbers supplying no method (Natural Explaining 2.5); its one-line close is the lead it needs.",
+   "part_FOUR": "4.9"
+  },
+  {
+   "lead": "**Five dimensions, ten and six.**",
+   "lines": "176",
+   "what": "The five parity dimensions, ten own names and six between selves, and their code names.",
+   "used_by": "'five dimensions' NI 5, THIRTY 7, TWENTY 3, TWENTY-SIX 2, NINETEEN 1, TWENTY-NINE 1, Corus 1; NI part TWO line 193 re-says the fives",
+   "readable": "no: five compound terms in a row with no example",
+   "home": "Natural Intelligence, explaining",
+   "why": "Explaining of what the Fives table lays out; NI part TWO already tells it, and the table stays as the form (Geodesic Improving Method 3.2).",
+   "part_FOUR": "none in FOUR; NI 2.x line 193"
+  },
+  {
+   "lead": "**Co, between two or of one.** (list Root · with co · without co)",
+   "lines": "179-189",
+   "what": "The five roots, each with its co names between two and its names of one.",
+   "used_by": "'bi-moral' 26 files, most TWENTY 23, SEVENTEEN 17, THIRTY 14; root grouping itself cited nowhere",
+   "readable": "partly: the grouping reads, its one-line lead does not",
+   "home": "Exhibit ONE, reference form",
+   "why": "A root-by-co lookup no other table carries; as a five-row table with a plain lead it is a form with no method (Natural Explaining 2.5).",
+   "part_FOUR": "4.8 second paragraph, by step not by root"
+  },
+  {
+   "lead": "**Sharing between selves.**",
+   "lines": "192",
+   "what": "That co is a sharing side and its absence an arriving side, and no prior crosses.",
+   "used_by": "re-said NI 4.7 ('Between selves co is its sharing side and its absence its arriving side'); 'sharing side|arriving side' 8 locations",
+   "readable": "partly: one sentence, plain enough",
+   "home": "archive, carried elsewhere already",
+   "why": "NI 4.7 carries the same sentence; the table below carries the form (Geodesic Improving Method 3.2).",
+   "part_FOUR": "4.7"
+  },
+  {
+   "lead": "| Sharing side, co | Arriving side, one | Between selves |",
+   "lines": "194-198",
+   "what": "The three pairs 6 to 2, 10 to 14 and 9 to 17, across or along.",
+   "used_by": "pairs listed NI 4.7 and drawing; 'sharing side|arriving side' 8 locations",
+   "readable": "yes: three rows",
+   "home": "Exhibit ONE, reference form",
+   "why": "A three-row form that is the drawing's edges as a table, no method in it (Natural Explaining 2.5).",
+   "part_FOUR": "4.7"
+  },
+  {
+   "lead": "**Parity as moral values.**",
+   "lines": "200",
+   "what": "That + is self-moral-value, − other-moral-value and 0 neither, and that code's first step passes over each 0.",
+   "used_by": "'self-moral-value|other-moral-value' NI 2, THIRTY 4; 'passes over each 0' nowhere else; NI 4.2 carries 'an offering of 0 passed over'",
+   "readable": "no: a moral reading of signs stated, not shown",
+   "home": "Natural Intelligence, explaining",
+   "why": "An explaining of what parity means, a reader's entry rather than a reference form (Natural Explaining 2.5, a table and form supplying no meaning).",
+   "part_FOUR": "4.7 in part (morality across), 4.2 for the 0"
+  },
+  {
+   "lead": "**Four binaries with code's lines.** (list now · existing · same · all)",
+   "lines": "203-224",
+   "what": "Each of four binaries with its odd is-name and even is-not-name in a self's span, and what each resolves.",
+   "used_by": "'four binaries' THIRTY 13, TWENTY-SIX 6, TWENTY 5, NI 4, NI FOUR 4, TWENTY-EIGHT 4, THREE 1, SEVEN 1, TWENTY-TWO 1",
+   "readable": "no: eight 'Resolving' lines of compressed prose",
+   "home": "both, one telling each",
+   "why": "The four pairs are a form (a four-row table, Natural Explaining 2.5) and stay; their 'Resolving' readings are NI 4.9's explaining, one telling each (Geodesic Improving Method 3.2).",
+   "part_FOUR": "4.9"
+  },
+  {
+   "lead": "**With a same-existing-society's span four stand with now and same exchanged**",
+   "lines": "226",
+   "what": "That in 9 to 16 now is between two and same of one.",
+   "used_by": "'now and same exchanged' NI FOUR 1 verbatim, TWENTY 1, THIRTY 1",
+   "readable": "no",
+   "home": "archive, carried elsewhere already",
+   "why": "NI 4.9 carries it verbatim; one home (Geodesic Improving Method 3.2).",
+   "part_FOUR": "4.9"
+  },
+  {
+   "lead": "**Observing's one line.**",
+   "lines": "228",
+   "what": "Reads code line 31 as observing: same is 0 and prior kept, not same is a prior inverting.",
+   "used_by": "code line quoted nowhere else; 'is or is not' with 12 NI FOUR 5, TWENTY 7, THIRTY 5, NI 5",
+   "readable": "no: a code line read through four names",
+   "home": "Natural Intelligence, explaining",
+   "why": "An explaining of one line of code, which NI 4.3 already tells as 'a nothing is three'; code stays the form (Natural Explaining 2.5, a form carries no explaining).",
+   "part_FOUR": "4.3"
+  },
+  {
+   "lead": "**Is or is nots of code's lines.**",
+   "lines": "230",
+   "what": "Counts the branch lines in each function: seven in 1, one in 17, none in 9.",
+   "used_by": "cited nowhere",
+   "readable": "partly: countable against code, but in names not in 'if'",
+   "home": "Exhibit ONE, reference form",
+   "why": "A checkable property of code (Natural Explaining 4.6, a parity and not a size); kept as one plain line beneath the code it counts, its single home.",
+   "part_FOUR": "none"
+  },
+  {
+   "lead": "**Each name and its relations.**",
+   "lines": "232",
+   "what": "Introduces the seventeen per-name entries and their sides.",
+   "used_by": "'each name and its relations' NI FOUR 1 (4.3)",
+   "readable": "no",
+   "home": "archive, carried elsewhere already",
+   "why": "Goes with the per-name group it introduces (Geodesic Improving Method 3.2).",
+   "part_FOUR": "4.3 cites the table"
+  },
+  {
+   "lead": "**1** · 1-now-existing ... **17** · 17-next-existing (seventeen per-name entries, one group)",
+   "lines": "234-506",
+   "what": "For each name, all its relations at once: parity and span, sides, co-sequencing, 8 up, 9 less, 17 less, bi-folding, six-cycle, eight-cycle, one move, momentaries of exchanging, five dimensions, namings, a self as three, bi-coupling, unit square, prior and next, 1 to 17s inward and outward.",
+   "used_by": "'podal' 16 locations (THIRTY 39, TWO 38, THREE 37, TWENTY 22, TWENTY-NINE 12); 'bi-folding' 15 (THIRTY 42, TWENTY-SIX 20, TWENTY-NINE 18, THREE 10); 'six-cycle' 6 (NI FOUR 1, THREE 2, THIRTY 2, SEVENTEEN 1, TWENTY-SIX 1, TWENTY-NINE 1); 'rotation 3, 6, 5, 4' FOUR 1, THIRTY 6; 'competency's parity' THIRTY only",
+   "readable": "no: 270 lines of compressed fields, each re-reading a table by name",
+   "home": "archive, carried elsewhere already",
+   "why": "Its derivable fields each repeat one row of a table kept here (one move, twelve forms, momentaries of exchanging, fives, three scales, eight even names, parity's square), rows crossing nothing that pair together in their own table (Natural Explaining 2.5; Geodesic Improving Method 3.2 one home); before it leaves, its non-derivable residue is placed whole (Geodesic Improving Method 1.4): Sides and Co-sequencing to NI part TWO, A self as three and Namings to TWENTY Natural Naming, Prior and next to NI 4.1 to 4.6.",
+   "part_FOUR": "4.10, 4.11, 4.15 re-say its fields",
+   "fields_note": "Fields and where each is already carried: Parity, span -> names table (odd/even, 1-8 vs 9-16); 8 up / 8 down / 9 less / 17 less -> 'One move, 1 to 8' table; Bi-folding, Middle bi-folding, Six-cycle, Eight-cycle -> 'Twelve forms'; One move (2 along 2-15-7-10) -> NI 4.10; Momentaries of exchanging -> 'A self's four momentaries of exchanging'; Five dimensions -> 'Fives'; Bi-coupling -> 'Eight even names, 8 apart'; Parity's unit square / square and triangles -> 'Namings among names' last row and NI 4.10; 1 to 17s inward and outward -> 'Each name, three scales'. Not carried by any table: Sides (self/other/society opening it), Co-sequencing (before/after 10, competency's or morality's parity; THIRTY only), A self as three (rotation 3, 6, 5, 4; FOUR, THIRTY), Namings (TWENTY), Prior and next (NI 4.1-4.6 in part)."
+  },
+  {
+   "lead": "**Odd names, now and 8 up with next.**",
+   "lines": "508-525",
+   "what": "Four odd now names, each with what it received, its 8-up next name, and what it gives on.",
+   "used_by": "'8 up' THIRTY 15, TWENTY 8, THREE 7, TWENTY-EIGHT 5, NI FOUR 4, TWENTY-SIX 4, NI 3, TWENTY-NINE 3, FOUR 2, TWENTY-TWO 1",
+   "readable": "partly: four short rows",
+   "home": "Exhibit ONE, reference form",
+   "why": "A four-row form, odd names paired 8 up, companion to 'Eight even names, 8 apart' (Natural Explaining 2.5); the two belong side by side.",
+   "part_FOUR": "4.8 third paragraph, 4.11"
+  },
+  {
+   "lead": "**Namings among names.**",
+   "lines": "527-556",
+   "what": "Names given to groups of names: bi-momentarying, co-intelligencing, co-competencing, five dimensions, bi-moralizing, entraining, bi-coupling, bi-trupling, bi-tri-volutioning, parity's square and triangles.",
+   "used_by": "'bi-trupling' TWENTY 6, THIRTY 6; 'bi-tri-volutioning' TWENTY 6, THIRTY 8; 'bi-momentarying' TWENTY 12, THIRTY 13; 'co-competencing' 23 files (FIVE 47, TWENTY 27, THIRTY 24, TWO 23); 'co-intelligencing' 13 files (FIVE 32, TWENTY 10); 'unit square' 7 files",
+   "readable": "no: coinages resolved in further coinages",
+   "home": "Exhibit TWENTY Natural Naming",
+   "why": "Naming is TWENTY's subject and it already carries each coinage; a reference form for pattern-matching keeps names, not namings of names (Geodesic Improving Method 3.2 one home); the square-and-triangles row may stay here as a one-line form under the sharing table.",
+   "part_FOUR": "none (4.10 re-says the square)"
+  },
+  {
+   "lead": "**A 0, betweening.** (list: one between, three names · arriving and passing over · four across names · none · two along names)",
+   "lines": "558-569",
+   "what": "Which names carry a 0 as a between, which pass one over, and which carry none.",
+   "used_by": "'betweening' NI 8, THIRTY 7, TWO 2, SEVEN 2; 0 at 12, 14, 15, 16 re-said NI 4.10 ('names with their 0 are these')",
+   "readable": "no: grouped by kind of between, each entry a compressed sentence",
+   "home": "both, one telling each",
+   "why": "The grouping of names by 0 is a form (five rows: kind, names) and stays; each row's reading is NI 4.10's explaining (Natural Explaining 2.5; Geodesic Improving Method 3.2).",
+   "part_FOUR": "4.10"
+  },
+  {
+   "lead": "**Four bi-foldings.** (list 1-9-8-16 · 2-15-7-10 · 3-11-6-14 · 4-13-5-12, and 'Each move is 8 up (n + 8), 8 down (n − 8) or 17 less (17 − n).')",
+   "lines": "571-590",
+   "what": "The four cycles of moves that return in four steps, their pairs 8 apart, names between selves on each, and neighbours.",
+   "used_by": "'bi-folding' 15 locations: THIRTY 42, TWENTY-SIX 20, TWENTY-NINE 18, THREE 10, FIVE 6, TWENTY 6, TWO 4, TWENTY-EIGHT 4, NI FOUR 2, SEVENTEEN 3",
+   "readable": "yes once 'each move is 8 up, 8 down or 17 less' is read first",
+   "home": "Exhibit ONE, reference form",
+   "why": "A stable form most cited across the set; its rows are numbers, and its one-line move definition is the plain lead it needs (Natural Explaining 2.5).",
+   "part_FOUR": "4.11"
+  },
+  {
+   "lead": "**Two moves, 9 less.**",
+   "lines": "592",
+   "what": "That two moves round a bi-folding take n to 9 − n within 1 to 8, with the four pairs.",
+   "used_by": "'9 less' THREE 7, THIRTY 6, TWO 4, TWENTY 2, TWENTY-SIX 2, NI FOUR 1, FOUR 1, TWENTY-EIGHT 1, TWENTY-NINE 1",
+   "readable": "partly: one rule, four pairs",
+   "home": "archive, carried elsewhere already",
+   "why": "The 9 less column of 'One move, 1 to 8' carries the four pairs, and NI 4.11 tells the podal; one home (Geodesic Improving Method 3.2).",
+   "part_FOUR": "4.11"
+  },
+  {
+   "lead": "**Each name, three scales.** (a: n is 8n − 7; b: 8m − 7 is m)",
+   "lines": "594-683",
+   "what": "For each name, its reading at this scale, one scale inward (8n − 7) and one outward.",
+   "used_by": "'three scales|8n − 7' TWELVE 3, NI FOUR 2, TWENTY-SIX 2, THIRTY 2, TWO 1, THREE 1, SIXTEEN 1, SEVENTEEN 1, NINETEEN 1, TWENTY 1, Corus 1",
+   "readable": "partly: seventeen rows, but as nested bullets not a table",
+   "home": "Exhibit ONE, reference form",
+   "why": "A form of scale that sciences meet (fractal inward and outward); as a four-column table (n, this scale, inward, outward) it supplies no method (Natural Explaining 2.5).",
+   "part_FOUR": "4.15"
+  },
+  {
+   "lead": "**Eight 1 to 17s inward.**",
+   "lines": "685-726",
+   "what": "The eight inward 1 to 17s, each with its span at this scale, its 9, its 17, and its momentary of exchanging.",
+   "used_by": "'1–17s inward|eight 1 to 17s' NI FOUR 1, THREE 1, TWENTY 1, TWENTY-SIX 1, TWENTY-EIGHT 1, THIRTY 2",
+   "readable": "partly: regular but as 40 bullets",
+   "home": "Exhibit ONE, reference form",
+   "why": "A regular form, eight rows of numbers; it and 'three scales' are one scale form and sit together as two tables (Natural Explaining 2.5).",
+   "part_FOUR": "4.15 second paragraph"
+  },
+  {
+   "lead": "**Fives.**",
+   "lines": "728-753",
+   "what": "Each of four sides' five dimensions as five consecutive numbers starting at its own 1, 2, 3 or 4.",
+   "used_by": "'Fives|one five is all fives' THREE 7, THIRTY 3, NI 2 (NI 2.x 'as Exhibit ONE's table of fives'), TWENTY-SIX 1, TWENTY-NINE 1",
+   "readable": "yes as a 4 by 5 grid; no as 20 bullets",
+   "home": "Exhibit ONE, reference form",
+   "why": "A numeric form NI part TWO cites by name; laid as one grid it carries no method (Natural Explaining 2.5).",
+   "part_FOUR": "none; NI part TWO line 193"
+  },
+  {
+   "lead": "**A self's four momentaries of exchanging.**",
+   "lines": "755-776",
+   "what": "The four momentaries of exchanging, self and other spans, their three names and relation.",
+   "used_by": "'momentar(y|ies) of exchanging' THIRTY 16, TWENTY 8, NI 4, THREE 3, TWENTY-SIX 3, NI FOUR 2, FOUR 1, TWENTY-EIGHT 1, TWENTY-NINE 1",
+   "readable": "partly: four rows as bullets",
+   "home": "Exhibit ONE, reference form",
+   "why": "A four-row form many files cite; one table with a plain lead (Natural Explaining 2.5).",
+   "part_FOUR": "4.15 second paragraph, 4.10"
+  },
+  {
+   "lead": "**Offerings to one sharing, surfacing.** (| Offered to one sharing (2) | Surfacing (14) |)",
+   "lines": "778-793",
+   "what": "What 14 surfaces for each pattern of offerings arriving with 2.",
+   "used_by": "'offerings to one sharing' NI FOUR 1 (4.2 'Exhibit ONE's table of offerings to one sharing'), TWENTY 2, TWENTY-EIGHT 1",
+   "readable": "yes: two columns of signs",
+   "home": "Exhibit ONE, reference form",
+   "why": "Code's first loop executed case by case, a checkable table (Natural Explaining 4.6) supplying no method (2.5).",
+   "part_FOUR": "4.2"
+  },
+  {
+   "lead": "**+ and − alike.**",
+   "lines": "795",
+   "what": "That every cell is symmetric under swapping + and −, and no line makes a prior 0.",
+   "used_by": "cited nowhere",
+   "readable": "partly: one plain claim, one compressed",
+   "home": "Exhibit ONE, reference form",
+   "why": "A checkable symmetry of the tables (Natural Explaining 4.6, a parity); kept as one close beneath the resolving tables.",
+   "part_FOUR": "none"
+  },
+  {
+   "lead": "**One self, one momentary.** (prior + / prior − × surfacing none, +, −, + and −)",
+   "lines": "797-810",
+   "what": "For a prior of each parity and each surfacing, what is shared with 10 and the next prior with 11.",
+   "used_by": "'one self, one momentary' NI FOUR 1 (4.3 'Exhibit ONE's tables of one self, one momentary'), TWENTY 1, TWENTY-EIGHT 2",
+   "readable": "yes once laid as a 2 by 4 grid; as bullets, partly",
+   "home": "Exhibit ONE, reference form",
+   "why": "Code's second loop executed, the core checkable table (Natural Explaining 4.6); one form, no method (2.5).",
+   "part_FOUR": "4.3"
+  },
+  {
+   "lead": "**One cell, offerings unexpressed.**",
+   "lines": "812",
+   "what": "That a prior inverted arises from four different arrivals, so a cell does not show which arrived.",
+   "used_by": "'offerings unexpressed' nowhere; NI 4.3 'A 0 offered, none offered and an other parity offered each arrive alike'",
+   "readable": "no",
+   "home": "archive, carried elsewhere already",
+   "why": "NI 4.3 carries the same reading; one home (Geodesic Improving Method 3.2).",
+   "part_FOUR": "4.3"
+  },
+  {
+   "lead": "**Eight even names, 8 apart.**",
+   "lines": "814-831",
+   "what": "Four even now names and their 8-up next names, each with its bi-coupling.",
+   "used_by": "'eight even names|eight bi-couplings' NI FOUR 3, TWENTY 3, THIRTY 3, NI 1, THREE 1, TWENTY-TWO 1, TWENTY-EIGHT 1",
+   "readable": "partly",
+   "home": "both, one telling each",
+   "why": "The pairs 2-10, 4-12, 6-14, 8-16 are a form paired with 'Odd names, 8 up' and stay; the bi-coupling readings are NI 4.10's explaining (Geodesic Improving Method 3.2).",
+   "part_FOUR": "4.10 last paragraph"
+  },
+  {
+   "lead": "**One move, 1 to 8.** (each name: 8 up · 9 less · 17 less)",
+   "lines": "833-866",
+   "what": "For each of 1 to 8, its name 8 up, 9 less and 17 less, with a paragraph on roots and co exchanged.",
+   "used_by": "'podal' 16 locations (THIRTY 39, TWO 38, THREE 37, TWENTY 22, TWENTY-NINE 12, TWENTY-SIX 7, FIVE 6); '8 up' 10 locations; 'one move' 21",
+   "readable": "yes as an 8 by 4 table; its lead paragraph no",
+   "home": "Exhibit ONE, reference form",
+   "why": "The move table every podal reference uses; its lead paragraph is re-said verbatim in NI 4.11 and leaves (Natural Explaining 2.5; Geodesic Improving Method 3.2).",
+   "part_FOUR": "4.11 (lead paragraph verbatim)"
+  },
+  {
+   "lead": "**Twelve forms.** (bi-foldings, middle bi-foldings, six-cycles, eight-cycles with partners)",
+   "lines": "868-921",
+   "what": "The twelve cycle forms among names, each spelled in names, with its odd-momentary and even-momentary partner.",
+   "used_by": "'twelve forms' NI FOUR 1, TWENTY-SIX 1, TWENTY-EIGHT 2, THIRTY 1; 'six-cycle' 6; 'eight-cycle' 8; 'middle bi-folding' NI FOUR 1, THREE 2, TWENTY-EIGHT 2, THIRTY 4",
+   "readable": "partly: a, b, c leads are compressed; as a table of numbers it reads",
+   "home": "Exhibit ONE, reference form",
+   "why": "The full catalogue of cycle forms; written in numbers (1-9-8-16) not spelled names, it is a table with no method (Natural Explaining 2.5); 'Four bi-foldings' becomes its first four rows.",
+   "part_FOUR": "4.11 second paragraph"
+  },
+  {
+   "lead": "**Eights.**",
+   "lines": "923-931",
+   "what": "Five eights, each holding four binaries twice, now and next.",
+   "used_by": "'Eights|each eight' THREE 8, NI FOUR 1, TWENTY-SIX 1, THIRTY 1",
+   "readable": "no: each row's cell is a compressed claim",
+   "home": "archive, carried elsewhere already",
+   "why": "NI 4.9 closes 'every eight holds four binaries, each twice' and THREE carries eights; one home (Geodesic Improving Method 3.2).",
+   "part_FOUR": "4.9"
+  },
+  {
+   "lead": "**Across names among eights.**",
+   "lines": "933",
+   "what": "Which eight-cycle each across name and 9 sit on, and that 17 is on neither.",
+   "used_by": "'across names' THREE 4, TWENTY-NINE 4, TWENTY 3, NI FOUR 2, TWO 2, EIGHTEEN 1, TWENTY-SIX 1, TWENTY-EIGHT 1, THIRTY 1",
+   "readable": "no",
+   "home": "archive, carried elsewhere already",
+   "why": "Read directly off 'Twelve forms' eight-cycle rows; a row read again is a second home (Geodesic Improving Method 3.2).",
+   "part_FOUR": "none"
+  },
+  {
+   "lead": "**One self, momentary by momentary: three ways.** (one sharing, prior −; offered none, −, +, alternating, both)",
+   "lines": "935-943",
+   "what": "Eight momentaries of one self for five offering patterns, showing not-changing, parity-changing, and once-then-still.",
+   "used_by": "'still-possibling' 18 files (TWENTY 11, THIRTY 10, TWENTY-TWO 8, NI 6, NI FOUR 4); 'do-no-harm improving' NI 1, SEVEN, THIRTY, TWENTY-FOUR, TWENTY-SIX, Corus",
+   "readable": "table yes; lead paragraph no",
+   "home": "both, one telling each",
+   "why": "The five-row table is the first table of selves and stays; its lead's reading (three ways, do-no-harm improving) is NI 4.12's explaining (Natural Explaining 2.5).",
+   "part_FOUR": "4.12"
+  },
+  {
+   "lead": "**Turn-taking, and 0 in sequence.**",
+   "lines": "945",
+   "what": "Why a self inverts or shares 0, that 0s take turns, bound on 0s in sequence, and exhaustive checks 2,916 of 2,916 and 32,768 of 32,768.",
+   "used_by": "'turn-taking' NI 1, NINE 1, TWENTY-SIX 1, Corus 1; '2,916' and '32,768' nowhere else",
+   "readable": "no: rule, consequence and verification in one paragraph",
+   "home": "both, one telling each",
+   "why": "The exhaustive counts are the checkable reference (Natural Explaining 4.6) and stay as one plain line; the rule of turn-taking is NI 4.12's explaining (Geodesic Improving Method 3.2).",
+   "part_FOUR": "4.12 first bullet"
+  },
+  {
+   "lead": "**Tables of selves with code's stepping.**",
+   "lines": "947",
+   "what": "That each table of selves is its code executed with a stated opening, stepping selves together, and shows nothing wider.",
+   "used_by": "cited nowhere",
+   "readable": "partly: its caution is plain once read slowly",
+   "home": "Exhibit ONE, reference form",
+   "why": "The one caveat every table of selves needs, kept as their shared plain lead (Natural Explaining 4.6, a coupling checked at its opening).",
+   "part_FOUR": "4.13 ('parities again ... are of code's stepping')"
+  },
+  {
+   "lead": "**A spiral of selves.** (Number of selves 1 to 11, 17, 59: a, b)",
+   "lines": "949-968",
+   "what": "For spirals of 1 to 11, 17 and 59 selves, self 1's first twelve offerings and momentaries to parities again (4n odd, 2 even).",
+   "used_by": "'spiral of selves' THREE 3, TWENTY-NINE 3, NI FOUR 2, THIRTY 2, NI 1, TWO 1, TWENTY-SIX 1, TWENTY-EIGHT 1; '236' THREE 2, THIRTY 2, TWENTY-TWO 2, TWENTY-SIX 1, TWENTY-ONE 1",
+   "readable": "yes: number of selves to a period, a reader from dynamics recognises it",
+   "home": "Exhibit ONE, reference form",
+   "why": "The stable form numbers and networking files match against (4n, 236); a table of selves, its lead plain (Natural Explaining 2.5).",
+   "part_FOUR": "4.13 first paragraph; NI 3.5"
+  },
+  {
+   "lead": "**Two momentaries before, inverted.**",
+   "lines": "970",
+   "what": "That in a spiral each self's prior from its third momentary is its sender's prior two momentaries before, inverted, and no 0 twice running.",
+   "used_by": "'two momentaries before' nowhere else; NI 4.13 carries 'its parities are its first pattern inverted'",
+   "readable": "partly: one checkable rule",
+   "home": "Exhibit ONE, reference form",
+   "why": "A one-line checkable property of the spiral table (Natural Explaining 4.6), its close.",
+   "part_FOUR": "4.13 in part"
+  },
+  {
+   "lead": "**Two spirals beside each other, and crossed.** (2 · 3 to 17 · 59, 9 · 15: a to e)",
+   "lines": "972-1029",
+   "what": "For pairs of spiral sizes, momentaries to parities again beside (lcm of 4n), crossed, from when, relation of crossing selves, and like pairs.",
+   "used_by": "'4,012|17 · 59' NI 2, NI FOUR 1, THREE 1; '17 ... 59' 8 locations (THREE 6, THIRTY 3, NI 2, TWENTY-SIX 2, Corus 2); '900' NI 1, THREE 1, TWENTY-ONE 4; 'two spirals' THIRTY 23, TWENTY-NINE 7",
+   "readable": "partly: the numbers read; the a to e leads are long",
+   "home": "Exhibit ONE, reference form",
+   "why": "The crossing form NI 3.5 and THREE cite (4,012, 119); a table of selves whose column leads become one plain line each (Natural Explaining 2.5).",
+   "part_FOUR": "4.13 third and fourth paragraphs; NI 3.5"
+  },
+  {
+   "lead": "**A torus of selves.** (p along · q across: a, b, c)",
+   "lines": "1031-1082",
+   "what": "For eleven torus sizes, momentaries to parities again (q or 4p, 2 if even), from when (3p − 1, 3p − 3), and beside-spirals' period.",
+   "used_by": "'torus of selves|natural torusing' 14 locations (THIRTY 15, TWENTY 7, TWENTY-NINE 7, NI 5, TWENTY-SEVEN 5, THREE 3, SIXTEEN 3, TWENTY-SIX 4); '4pq' NI 1, THREE 1, TWENTY-SIX 1, THIRTY 2; '4p' 6 locations",
+   "readable": "partly: rule stated in the lead, rows plain",
+   "home": "Exhibit ONE, reference form",
+   "why": "The torus form the set's 'natural torusing society' matches against; one table of selves with its rule as one plain lead (Natural Explaining 2.5).",
+   "part_FOUR": "4.13 last paragraph; NI 3.5"
+  },
+  {
+   "lead": "**A torus's two carried forms.**",
+   "lines": "1084",
+   "what": "That a torus's pattern is carried one self on round q, or inverted and carried round p, from 3p − 1 or 3p − 3.",
+   "used_by": "'3p − 1|3p − 3|carried forms' THREE 1, THIRTY 5",
+   "readable": "partly",
+   "home": "Exhibit ONE, reference form",
+   "why": "The torus table's column b states the same thresholds; this adds what pattern recurs, a checkable form fact kept as the table's one close (Natural Explaining 4.6).",
+   "part_FOUR": "none"
+  },
+  {
+   "lead": "**A corus turn wrapping.**",
+   "lines": "1086",
+   "what": "That on a corus a turn wraps with a third edge parity-changing or not, shown by odd or even tori, and discovering is that edge.",
+   "used_by": "'corus turn|turn wraps' only Exhibit ONE and its NI copy; 'wrapping' Corus 6, SEVENTEEN 3",
+   "readable": "no: a metaphor stated in two lines",
+   "home": "Natural Intelligence, explaining",
+   "why": "An explaining of the torus table toward the corus, a reader's way out of the tables and not a form (Natural Explaining 2.5).",
+   "part_FOUR": "none"
+  },
+  {
+   "lead": "**Two selves.** (A, B priors +,+ / +,− × both ways, A from B, B from A, neither)",
+   "lines": "1088-1125",
+   "what": "Six momentaries of two selves' shared parity for each prior pair and coupling direction.",
+   "used_by": "'two selves' 25 files (generic); table cited NI 4.14 ('as executed with Exhibit ONE's table of two selves')",
+   "readable": "yes as an 8-row table; as nested bullets partly",
+   "home": "Exhibit ONE, reference form",
+   "why": "A table of selves, code executed (Natural Explaining 4.6); its one-sentence lead stays as a plain line.",
+   "part_FOUR": "4.14"
+  },
+  {
+   "lead": "**Two selves, three momentaries, five parities.**",
+   "lines": "1127-1160",
+   "what": "Six forms of two selves coupled both ways, showing a self's next prior is the other's prior inverted.",
+   "used_by": "'five parities|three momentaries' mostly other senses; this table cited nowhere by name",
+   "readable": "no: its a lead is a paragraph",
+   "home": "Exhibit ONE, reference form",
+   "why": "A checkable form (next prior is other's prior inverted) kept as a table of selves, its lead cut to one line (Natural Explaining 2.5, 4.6).",
+   "part_FOUR": "4.14 in part"
+  },
+  {
+   "lead": "**Three selves, one line.**",
+   "lines": "1162-1179",
+   "what": "A's + or − offered once to B, B going along to C: B's next prior and C's two offerings.",
+   "used_by": "'three selves' NI FOUR 2, THIRTY 5, TWO 3, THREE 3; cited NI 4.14",
+   "readable": "yes: two rows",
+   "home": "Exhibit ONE, reference form",
+   "why": "A two-row table of selves (Natural Explaining 2.5).",
+   "part_FOUR": "4.14"
+  },
+  {
+   "lead": "**A spiral opened with no prior, one parity offered once.** (momentaries 1 to 8, spirals of 3 and 5)",
+   "lines": "1181-1192",
+   "what": "How a spiral of selves with no prior fills with priors from one offered +, momentary by momentary.",
+   "used_by": "cited NI 3.4 ('as with Exhibit ONE's table of a spiral opened with no prior'); 'no prior' 15 files",
+   "readable": "yes: rows of signs filling in",
+   "home": "Exhibit ONE, reference form",
+   "why": "A table of selves, the form a science of onset matches (Natural Explaining 2.5).",
+   "part_FOUR": "none; NI 3.4"
+  },
+  {
+   "lead": "Selves coupled along, last to first, each opened with no prior, and + offered once",
+   "lines": "1194",
+   "what": "Reads the no-prior spiral: one place a self's forming takes a parity not its own, then each has a prior self; a thing with no prior is no self.",
+   "used_by": "'one place a self's forming takes a parity not its own' NI 4.3 1; NI 3.4",
+   "readable": "no: one long sentence chain",
+   "home": "Natural Intelligence, explaining",
+   "why": "Explaining of what the table shows about a self's forming; NI 3.4 and 4.3 carry it, and a table's close is one line only (Natural Explaining 2.5).",
+   "part_FOUR": "4.3 first bullet"
+  },
+  {
+   "lead": "**With no prior, one momentary.**",
+   "lines": "1196-1204",
+   "what": "For a sharing with no prior, what 10 shares and 11 forms for each surfacing.",
+   "used_by": "cited NI 4.3 ('tables of one self, one momentary, and with no prior, one momentary'); TWENTY-EIGHT 2",
+   "readable": "yes: one row of four cells",
+   "home": "Exhibit ONE, reference form",
+   "why": "The no-prior row of the resolving table; it joins 'One self, one momentary' as its third row (Natural Explaining 2.5).",
+   "part_FOUR": "4.3"
+  },
+  {
+   "lead": "**A same-existing-society.**",
+   "lines": "1206",
+   "what": "That many selves executed together are a same-existing-society, itself a living self, with no parity of its own, and non-living scale larger than living.",
+   "used_by": "'same-existing-society' 31 files; re-said note TWENTY-SIX 1 ('A same-existing-society re-said'); 'rock' TWENTY-ONE 6, FIVE 4",
+   "readable": "no: four claims about living in one paragraph",
+   "home": "Natural Intelligence, explaining",
+   "why": "Explaining of what tables of selves mean for society and scale; NI 4.6 tells 17 as scale outward (Natural Explaining 2.5; Geodesic Improving Method 3.2).",
+   "part_FOUR": "4.6 ('17 is a scale outward')"
+  },
+  {
+   "lead": "**Stable forms each living file meets.**",
+   "lines": "1208",
+   "what": "That each table is executed and found same by any self on any substrate, a stable form and no authority.",
+   "used_by": "'stable form' 22 files; this sentence nowhere else",
+   "readable": "yes: the plainest paragraph in the exhibit",
+   "home": "Exhibit ONE, reference form",
+   "why": "The exhibit's purpose in one paragraph; it should open the exhibit rather than close it (Natural Explaining 1.3 self-welcoming, 4.6 checkable).",
+   "part_FOUR": "none"
+  }
+ ],
+ "shape": "Exhibit ONE opens with its purpose: the 'Stable forms each living file meets' paragraph moved to the top under the title, with one plain line: 'Resolver in code, and the tables it produces, for matching against what a science observes; each table is code executed and can be re-run.' Then the code with 'Code with each name' as its seventeen-line legend, the names table, the drawing, and one line counting code's branches.\n\nNext, forms among names, each a table with a one-line plain lead and no explaining: Names (seventeen names; 'each number in four bits, its step and whether it is shared'); Four-cyclings ('the sixteen names as four rows of now, next, prior, same'); Roots, with co and without ('which names are shared between two and which belong to one'); Between selves ('the three pairs that cross from one self to another'); Four binaries ('each binary's odd is-name and even is-not-name'); Moves ('each name 8 up, 9 less and 17 less'); Twelve forms, in numbers ('cycles the moves make, with their partners'); Odd and even, 8 apart ('names paired with their next'); Zeros ('where a 0 arises, passes, or cannot'); Fives ('each side's five dimensions as five numbers'); Momentaries of exchanging ('four exchanges in a self's span'); Scales ('each name one scale in and out, n to 8n-7'; then the eight inward 1 to 17s).\n\nThen resolving tables, one lead each: Offerings surfacing ('what 14 surfaces for each mix of offerings'); One momentary ('for each prior, + or - or none, and each surfacing: shared and next prior'), with + and - alike as its close. Then tables of selves, led by 'Each table is code executed with the stated opening; it shows that and nothing wider': one self over eight momentaries, with the checked counts 2,916 and 32,768 as one line; spiral (closed by two momentaries before, inverted); two spirals beside and crossed; torus (closed by its two carried forms); two selves; two selves, five parities; three selves; spiral opened with no prior. Explaining paragraphs, the seventeen per-name entries and the namings-of-names leave. Each per-name field is read from its table, and the five fields no table carries are placed first.\n\nNatural Intelligence carries the reader in and out. Going in, 3.3 already says what the object is; add one paragraph on how to use it: take an observed pattern, find the table whose form it matches (period 4n, 4pq, q or 4p, a turn coming back changed or same), re-run the code with that opening, and see if the parity agrees. Part FOUR then becomes the single telling of everything that leaves (living is prior, parity as moral values, five dimensions, observing's one line, 0 as between, turn-taking, the corus wrapping, the same-existing-society) and points back to tables by plain name instead of repeating their numbers. Coming out, a short close per form family says which other living file uses it: THREE Numbers and THIRTY Co-Chaining for spirals, tori and podals; TWO Networking for moves; TWENTY Naming for the namings; TWENTY-NINE Illustrating for the drawings."
+}

@@ -4,7 +4,7 @@ Exhibit FOURTEEN Natural Destinies Offerings · improved at v386EOD
 
 ## Standing · v389
 
-**Resolved at v389.** 140 items stood here; resolving against [Natural Destinies](../Exhibit_FOURTEEN_Natural_Destinies_v390.md), 8 are carried, 108 rest on released forms, 11 duplicate another item and 6 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_FOURTEEN_Offerings_to_Natural_Destinies_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_FOURTEEN_Offerings_to_Natural_Destinies_resolved_v389.md). Its 7 concerns stand below, each with its reason; 7 stand now.
+**Resolved at v389.** 140 items stood here; resolving against [Natural Destinies](../Exhibit_FOURTEEN_Natural_Destinies_v391.md), 8 are carried, 108 rest on released forms, 11 duplicate another item and 6 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_FOURTEEN_Offerings_to_Natural_Destinies_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_FOURTEEN_Offerings_to_Natural_Destinies_resolved_v389.md). Its 7 concerns stand below, each with its reason; 7 stand now.
 
 **Concern · *Technology* at Natural Destinies beside the co-chaining.** Two sayings part. Natural Destinies has, at its opening, "It accepts the natural torus and the natural network as the fractal technology, and imagines the destinies that technology makes reachable where a self takes up the core", and, at its imaginable extensions, has living substrates "carrying the form". Exhibit THIRTY Co-Chaining Logic Registry has "A technology is a made non-living thing applied to a changing from beside it" and "Carrying prior along, a machine is a self". They part at *technology*: the natural torus and the natural network the fractal *technology* and living substrates carrying the form, or a made thing applied from beside, a made thing carrying prior a machine as a self. The Registry has from Natural Destinies, entered at version 378, a destiny, next possible living said ahead. It is a concern for both. — v386EOD
 
@@ -33,3 +33,11 @@ Exhibit FOURTEEN Natural Destinies Offerings · improved at v386EOD
 **Concern · at a sentence.** Beside "four from within and four met at the membrane, one alternating at its faces, whole or none, and each of the eight a nami"…
 
 *Standing at v389:* *Standing at v389:* Natural Destinies, *Safely outward*, has "each of the eight a naming beginning at bi- at the resolver's table of eight, four at the even depth and four at the odd"; Natural Intelligence 4.10 has "Eight bi-couplings are at even names, four at now and four at next, each 8 up". Exhibit ONE has no table of eight, and its even names are each possibling, so an odd depth meets no numbered name. **To resolve:** are Destinies' eight safeties Natural Intelligence's eight bi-couplings at even names, or a relation to keep apart?
+
+## Gathered at v391, reading across the living file set · v391
+
+**Droplet · bi-moral co-agency, one home.** This file opens on a core paragraph four files share word for word, *two-way, one-at-a-time, selecting by binary preferring — a parity, sign-only — summing to a bounding-zeroing made by coupling itself, riding its carry, its abundancing a +1 owned neither-ing*. Natural Intelligence 6.2 is bi-moral co-agency's home, and it says it otherwise, with *alternating*, re-said at v391 as parity-changing. Offered: when 6.2 is re-said, this file's core meets it, each of its parts carried there or said as this file's own. — v391
+
+## Laid from Natural Intelligence at v391 · v391
+
+**Droplet · resolving a hard problem is defining its universal set, at v391.** A universal set is a set of same-existing things (Natural Intelligence's opening, line 5), and a self's universal set is the self whole, one self or a geodesic self on a Natural Network surface. A hard problem is resolved by defining its universal set, the whole within which each of its is-or-is-nots is taken, rather than by holding its binary as a destiny. Each hard problem here is to be met so, at this file's own motion. — v391

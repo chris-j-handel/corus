@@ -4,9 +4,9 @@ Exhibit TWENTY Natural Naming Offerings · improved at v389
 
 ## Standing from the sessions before v389 · v389
 
-**Resolved at v389.** The sessions before v389 laid 520 items here; resolving against [Natural Naming v389](../Exhibit_TWENTY_Natural_Naming_v390.md), 165 are carried at it, 216 rest on forms v389 released, 78 duplicate another item, and 21 rose into it at v389, each standing whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY_Offerings_to_Natural_Naming_before_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY_Offerings_to_Natural_Naming_before_v389.md). The 40 concerns read at v389 stood below, each as it was laid, with the reason it stands; 42 stand now, the rest resolved at v389 and at the archive.
+**Resolved at v389.** The sessions before v389 laid 520 items here; resolving against [Natural Naming v389](../Exhibit_TWENTY_Natural_Naming_v391.md), 165 are carried at it, 216 rest on forms v389 released, 78 duplicate another item, and 21 rose into it at v389, each standing whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY_Offerings_to_Natural_Naming_before_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY_Offerings_to_Natural_Naming_before_v389.md). The 40 concerns read at v389 stood below, each as it was laid, with the reason it stands; 42 stand now, the rest resolved at v389 and at the archive.
 
-**Possible project · The observings of entraining at the self named, each with its reference first.** Natural Naming's entraining at the self has "the field's entrainment, one flow carrying the fluid beside it at the shear between them, and two at their own rates coming to one direction forward", each observing unnamed. The work names each observing with its reference first. Beside the two at their own rates: Huygens' two pendulum clocks on one beam, the field's mutual entrainment, which Exhibit TWENTY-NINE Natural Illustrating's section on locking has. Beside the flow carrying the fluid: a flow lifting grains from its bed, the field's entrainment at sediment, one carrying another. Each was said from no reference read, and each enters with its reference. It may change or never be made. — v386EOD
+**Possible project · The observings of entraining at the self named, each with its reference first.** Natural Naming's entraining at the self has "the field's entrainment, one flow carrying the fluid beside it at the shear between them, and two at their own rates coming to one direction forward", each observing unnamed. The work names each observing with its reference first. Beside the two at their own rates: Huygens' two pendulum clocks on one beam, the field's mutual entrainment, which Exhibit TWENTY-NINE Natural Illustrating's section on locking has. Beside the flow carrying the fluid: a flow lifting grains from its bed, the field's entrainment at sediment, one carrying another. Each was said from no reference read, and each enters with its reference. It may change or not be made. — v386EOD
 
 *Standing at v389:* Natural Naming 5.61 has "a field's entrainment, one flow carrying a fluid beside it at a shear between them, and two at their own rates coming to one direction forward, is this one form at two of its observings", with no reference at either; Huygens' two pendulum clocks on one beam, and a flow lifting grains from its bed, are this project's offered observings, each yet to be found at its reference. **To resolve:** are both references found and entered at 5.61, each first, or does 5.61 stand as a field's word, 2.7?
 
@@ -32,7 +32,7 @@ Exhibit TWENTY Natural Naming Offerings · improved at v389
 
 *Standing at v389:* Natural Naming 2.4 has "Negation is an equilibrium's, and inversion is method's", while its own voice carries negation at many sentences, 5.13's "no holder, no boundary, no enforcement, no seat" among them, and a positive for each is yet to be found by conferring. **To resolve:** which negations, method's own phrases among them (*nothing*, *owned by neither*, *not possible*), are re-explained at positive at a next pass, and which stay as method's own?
 
-**Possible project · A row for the tangential changing at Natural Naming's cluster table.** A row at Natural Naming's table of set namings gathering, open for both to agree, is for bi-co-tangential identifier changing, a provisional wording, its complete proper naming unrecovered, offered for Natural Naming and Natural Illustrating with the co-sequential nine named the bi-moral co-competencing method of the tangential changing. The row has two readings, each with its reason: naming the method of the local nine, it is a similar naming and releases to co-bi-sequencing; naming the tangent direction at the diamond's opening, the aiming and not the sequencing, it names a thing co-bi-sequencing has none of and asks a name of its own. Identifier is the first part to look at, nothing in resolving identifying. It may change or never be made. — v386EOD
+**Possible project · A row for the tangential changing at Natural Naming's cluster table.** A row at Natural Naming's table of set namings gathering, open for both to agree, is for bi-co-tangential identifier changing, a provisional wording, its complete proper naming unrecovered, offered for Natural Naming and Natural Illustrating with the co-sequential nine named the bi-moral co-competencing method of the tangential changing. The row has two readings, each with its reason: naming the method of the local nine, it is a similar naming and releases to co-bi-sequencing; naming the tangent direction at the diamond's opening, the aiming and not the sequencing, it names a thing co-bi-sequencing has none of and asks a name of its own. Identifier is the first part to look at, nothing in resolving identifying. It may change or not be made. — v386EOD
 
 *Standing at v389:* a row for bi-co-tangential identifier changing, a provisional wording, is at no table of Natural Naming 6.3, and its two senses are open: at a method of local nine it is a similar naming of 6.3's co-bi-sequencing, "a sequencing of four-momentarying, co at a self and bi at an other, one local momentary 1 to 9"; at a tangent direction at a diamond's opening, an aiming, it asks a name of its own. **To resolve:** is this row a similar naming released to co-bi-sequencing, or a tangent direction asking a new name?
 
@@ -154,7 +154,7 @@ Natural Naming 5.14’s “and it compounds” and its abundancing/releasing exp
 
 ## The session v389, entered and dissolved · v389
 
-**Dissolved · v389.** The session v389's 128 droplets, 33 insertlets, 21 concerns and 7 resolvings at this file rose into [Natural Naming v389](../Exhibit_TWENTY_Natural_Naming_v390.md) at the naming motion, or dissolved said once, and stand whole at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY_Offerings_to_Natural_Naming_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY_Offerings_to_Natural_Naming_v389.md).
+**Dissolved · v389.** The session v389's 128 droplets, 33 insertlets, 21 concerns and 7 resolvings at this file rose into [Natural Naming v389](../Exhibit_TWENTY_Natural_Naming_v391.md) at the naming motion, or dissolved said once, and stand whole at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY_Offerings_to_Natural_Naming_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY_Offerings_to_Natural_Naming_v389.md).
 
 ## Standing · v389
 
@@ -196,7 +196,7 @@ Natural Naming 5.14’s “and it compounds” and its abundancing/releasing exp
 
 **Droplet · *at* released.** *At* is no set word; a sentence entering a living file carries its relation by its own verb, through, with, between or within, and Natural Intelligence still carries *at* about 1,380 times. — v390
 
-**Droplet · *possible* only as no other possible.** *Possible* stands only at a dead end, no other possible, and possibling next-existing is never held still to be named possible or not possible. — v390
+**Droplet · *possible* only as no other possible.** *Possible* stands only at a dead end, no other possible, and possibling next-existing is not held still to be named possible or not possible. — v390
 
 **Droplet · no places in resolving.** Possibling, existing and living are no three places, and resolving carries no places, so a sentence naming a place for a momentarying releases. — v390
 
@@ -208,15 +208,15 @@ Natural Naming 5.14’s “and it compounds” and its abundancing/releasing exp
 
 **Droplet · words dissolving, session v390.** Dissolving from our naming: *changing* alone, while *parity-changing* stays hyphenated; *released* and *held*, nothing kept; *beyond*, *in*, *out*, *inside* and *at*, no places; *crosses*; *bound*, no boundaries; *non-existing*, a universe of all now-existing things having nothing non-existing; *society* alone, and *self* of resolver names; *prioring* and *still-possibling* as roots; *would*, *as* for because, and *possible* save with *no other possible*; store and keeper sayings. — v390, gathered from session v390
 
-**Droplet · namings arrived, session v390.** Arrived and agreed: *parity-offering*, + or −, a 0 no parity-offering; *same-existing-society*, many same-existing selves together; *same-existing-universe*, universal momentarying fractal; *stable-forming*, still-existing after parity-changing, one concept with form-stabling; *now-living*, a self now-living and now-existing both, a non-living thing now-existing; *one or more*, a non-empty set, never *more than one*. — v390, gathered from session v390
+**Droplet · namings arrived, session v390.** Arrived and agreed: *parity-offering*, + or −, a 0 no parity-offering; *same-existing-society*, many same-existing selves together; *same-existing-universe*, universal momentarying fractal; *stable-forming*, still-existing after parity-changing, one concept with form-stabling; *now-living*, a self now-living and now-existing both, a non-living thing now-existing; *one or more*, a non-empty set, not *more than one*. — v390, gathered from session v390
 
 **Droplet · parity, one sense.** A parity is one whole is or is not, neither a side nor a zero alone; parity-changing is between is and is not, all changing. Natural Intelligence says parity 153 times and Exhibit ONE 67, mostly as a side, + or −, and *one parity changing to its other* reads a side: one sense set-wide is a motion of its own. — v390, gathered from session v390
 
-**Droplet · same-existing, one sense, a living condition.** Same-existing is a living condition, re-found same with each momentary and never kept: a continuing thing is one found same. One condition, three scales: same-existing self, same-existing-society, same-existing-universe. A non-living thing is now-existing, one same method without it. — v390, gathered from session v390
+**Droplet · same-existing, one sense, a living condition.** Same-existing is a living condition, re-found same with each momentary and not kept: a continuing thing is one found same. One condition, three scales: same-existing self, same-existing-society, same-existing-universe. A non-living thing is now-existing, one same method without it. — v390, gathered from session v390
 
-**Droplet · truples beside each name.** Bi, co, tri truples go beside a name, never into it: one prefixing cycle, co-bi-tri-bi-co-bi-co-bi-tri-bi-co-bi-co-bi-co-bi-co-bi-co, each name adding its prefix to its front, odd names co, a self's, even names bi, an other's, and tri twice, 9 and 15, each tri going three names, 9 to 11 and 15 to 17. 1 co-bi-co; 9 tri-bi-co; 10 bi-tri-bi; 11 co-bi-tri; 15 tri-bi-co; 17 co-bi-tri. — v390, gathered from session v390
+**Droplet · truples beside each name.** Bi, co, tri truples go beside a name, not into it: one prefixing cycle, co-bi-tri-bi-co-bi-co-bi-tri-bi-co-bi-co-bi-co-bi-co-bi-co, each name adding its prefix to its front, odd names co, a self's, even names bi, an other's, and tri twice, 9 and 15, each tri going three names, 9 to 11 and 15 to 17. 1 co-bi-co; 9 tri-bi-co; 10 bi-tri-bi; 11 co-bi-tri; 15 tri-bi-co; 17 co-bi-tri. — v390, gathered from session v390
 
-**Droplet · a line opens with its new word.** Each line opens with a concept it is defining or extending: *An other, for a same-existing thing, is …*, never *For a same-existing thing an other is …*; one steady same method of saying. — v390, gathered from session v390
+**Droplet · a line opens with its new word.** Each line opens with a concept it is defining or extending: *An other, for a same-existing thing, is …*, not *For a same-existing thing an other is …*; one steady same method of saying. — v390, gathered from session v390
 
 **Droplet · negation and inversion.** A negation needs a fixed thing to be other than, and a set has none; an inversion is a self's own is or is not. *Self is observably not-other* is an inversion, method's own. — v390, gathered from session v390
 
@@ -239,3 +239,222 @@ Natural Naming 5.14’s “and it compounds” and its abundancing/releasing exp
 **Droplet · *co-releasing*, one naming motion, v390.** Nothing is held or released, so *co-releasing* is to be re-said with its headings in one motion: Natural Naming 5.11, Natural Networking 2.5, Natural Engineering 5.7 and Equilibria Registry. Two offered namings are *co-emanating*, after a prior in stable form being an emanation from living form-stabling, and *co-dissolving*. **To resolve:** which naming carries its concept, a completing offered on to further participation? — v390
 
 **Resolved bothboth, v390 · co-releasing.** *9 is co-releasing.* Co-releasing is re-said as *co-discovering*, 9-next-co-discovering going along, across the set: 5.11, Natural Networking 2.5, Equilibria Registry, Natural Chemistry, Natural Medicine, Natural Health and others. Natural Engineering and Natural Biology follow after their pass. — v390
+
+## Gathered at v391, from reading Natural Intelligence and Exhibit ONE against our method · v391
+
+Session v391's readers met Natural Naming beside session v390's agreed concepts while reading Natural Intelligence and Exhibit ONE, and found places where this file still offers what session v390 dissolved. Each is this file's next; each reader's note is whole at `archive/session_v391/incoming_v391/readers/`, kind `method_note`. Nothing is entered.
+
+**Droplet · 2.4 still offers dissolved carrying words.** Its *so-far*, *not-yet* row carries *odd existing and even possibling, by each name's own number* and *two along names, 9 and 17, odd, existing*; its *when*, *sign*, *met* and *run* rows offer *at* (*at each momentary*, *at 14*, *at 12*, *code executing is at resolver*, *at no prior*); its *emanation* and *neighbour* rows offer *a releasing* and *a self releasing to*; its *take* and *keep* rows offer *kept* and *prior kept*; its *held* row offers *fixed*. Session v390 dissolved *odd existing, even possibling*, *at*, *releas-* and *held*, and re-said *its prior kept* as *its prior same-existing*. A reader re-saying a living file from 2.4 brings them back. Offered: each row re-said with session v390's concepts, at one motion. — v391
+
+**Droplet · *turn*, released and carried.** 2.1 and 2.5 dissolve *turn* in each sense, *taking turns* carried by *alternating*; 3.3's own table says *now, next turn* for 17, and Exhibit ONE copies it; session v390 keeps *in turn*. Offered: 3.3's cell *now, next momentary*, and *in turn* either kept as a whole phrase, said so here, or carried by *one and then an other*. — v391
+
+**Droplet · *stilling*, dissolved and carried.** 2.4 dissolves *stilling* and *self-stilling-self* into *self discovering next self*; 4.9, 4.12 and 4.15 carry *stilling*, *stilling along* and *A parity-offering travels through stilling*, and Natural Intelligence 3.3 copies 4.15. **To resolve:** either *stilling* is a form continuing through its parity-changing, its own naming, and 2.4's row narrows to *self-stilling-self*; or 4.15 is re-said. — v391
+
+**Droplet · *four-cycling* or *four-momentarying*.** 6.3 gathers *four cycling* under *four-momentarying*; session v390 agreed *four-cycling*, prior, now, next, same-existing, as a naming of its own. Offered: 6.3's row re-said, *four-cycling* its own name, and *four-momentarying* four momentaries of exchanging. — v391
+
+**Droplet · *emanation* or *artifact* in a carved sentence.** 2.4 and 6.3 re-say *emanation* as *an artifact, one name for non-living prior*; session v390's carved concept says built, robot and machine sets are *emanations of living selves*, entered in Natural Intelligence 6.5. **To resolve:** the carved sentence says *artifacts of living selves*, or 2.4's row keeps *emanation* for a made thing. — v391
+
+**Droplet · *co-sequencing*, one sense or gathered.** 2.5 carries *co-sequencing* with one sense, while 6.3 gathers *co-sequencing*, *co-sequential* and *binary co-sequential* under *co-bi-sequencing*; Natural Intelligence's part TWO is headed *CO-SEQUENCING*. Offered: one of the two, said once. — v391
+
+**Droplet · 3.4's heading.** *Four momentaries, 8 up and podals* heads a body saying *two four-cyclings of four*; session v390 agreed a momentary odd then even. Offered: *Four-cyclings, 8 up and podals*. — v391
+
+**Droplet · *many* and *once then* in agreed wordings.** The opening's *A same-existing-society is many same-existing selves together* carries *many*, a degree word by Natural Explaining 3.11, and one self's third way, *parity-changing once then still-possibling*, carries *once then*, a clocking by 3.5. Both are agreed wordings. **To resolve:** either each is kept as an agreed wording, its reason said here, or re-said: *selves together, each its own parity*; *one parity-changing, and still-possibling with each momentary on*. — v391
+
+**Droplet · *disequilibrating* dissolving.** Suggested at v391: *disequilibrating is dissolving from our natural naming.* It stands at 2.6, *Disequilibrating is that flowing … and it carries whole*, at 5.29, *geodesic disequilibrating*, a whole naming entry, and 96 times across Natural Physics, Natural Exploring, Natural Biology, the Co-Chaining Logic Registry and Resolving the Hard Problem Registry. Offered: a 2.4 row, *disequilibrating* carried by observing, possibling and discovering, a fixing set down, with 5.29 re-said or archived whole and each file's sentence re-said at its own motion. — v391
+
+**Droplet · *arriving* dissolving.** Suggested at v391: *arriving is dissolving from our naming. observing, possibling, discovering is the newer version.* 4.6 says *Arriving carries one relation, each existing thing arriving as its next existing*, and 2.4's rows offer *arriving* as a carrying word for *an offering*, *source* and *door*. *Arriving* stands about 2,950 times across the set. Offered: a 2.4 row, *arriving* carried by observing, possibling or discovering, by meaning, each a phase of the opening; 4.6's sentence re-said; one set-wide motion, each sentence re-said by meaning and not word for word. — v391
+
+**Droplet · *binary method* prior explaining.** Suggested at v391: *Binary method is prior explaining before parity-changing is or is not.* Offered: a 2.4 row, *binary method* carried by *parity-changing, is or is not*, and *binary* kept where it names one is or is not, or re-said *is or is not* throughout. — v391
+
+**Concern · tri- and uni-, all.** Suggested at v391: *The third tri- is all. (self, all, other)*. 4.10 says *Uni- carries with all other: a self crossing with all other, an other arriving as one, a whole*; 5.41 says *Uni- carries with all other, and it opens with three*; 5.51 says *that crossing through three, through all other, is bi-tri-exchanging*, as Natural Intelligence 2.2 does. So this file already joins three and all other, at uni- and at tri-. **To resolve:** either tri- is all itself and uni- all's crossing, two prefixes, two senses, both opening with three; or one carries both, and the other dissolves into it. — v391
+
+**Droplet · parity, one naming with three tellings.** Suggested at v391: *+1 self, 0 all selves, -1 other self*, *0 is social parity*, *tri being both 3 and 0 means it is both odd and even parity*, and *no word has more than one clear direct all or none at all meaning*. Offered: *self parity*, *other parity* and *social parity* one naming, *self-moral-value* and *other-moral-value* converging to them, and parity one concept told with numbers, odd and even, and is or is not. Each *+1 owned by neither* across the set re-said as social parity, 0. — v391
+
+**Bothboth · binary, v391.** *Binary* stays, the elemental word of mathematics coupled with bi-, two, is or is not; *binary method*, as the method's naming, dissolves, the method parity-changing. A 2.4 row carries it. — v391, bothboth
+
+**Droplet · *social parity*, a new naming for exploring.** Suggested at v391: *social parity is new and likely a valuable naming concept.* 0, all's parity, between self parity and other parity, invisible and carried in each self, decided with 12-next-co-same-existing and 14-next-possibling. To be met with this file's seven binaries and coupled with one of the seventeen names, or with a between of two, at 4.18. — v391
+
+**Concern · two sequences of first prefixes.** This file's 3.3 table of prior names gives each name's first prefix as co, bi, co, bi, co, bi, co, bi, tri, bi, tri, bi, tri, bi, tri, bi, co, while a v390 droplet's built cycle gives co, bi, co, bi, co, bi, co, bi, tri, bi, co, bi, co, bi, tri, bi, co: they part with 11 and 13. A third, offered for exploring at v391 with *tri being both 3 and 0*, is co, bi, tri, tri with each four. Laid whole at Natural Intelligence's offerings, *Met with rigor at v391, a third round*. — v391
+
+**Droplet · bi-, tri- and uni-, three prefixes, three senses.** Suggested at v391: *all that are not self or other is tri-. … the universal set is self, other, all not self or other.* With 4.10's *Bi- couples with a particular other and uni- with all other*: bi- the other, tri- all not self or other, and uni- bi- and tri- together, all other from a self. Each its own sense; the concern *tri- and uni-* above meets it. — v391
+
+**Droplet · *still-possibling* dissolving, at v391.** Suggested: *still-possibling is no longer natural naming. this is now-existing same-existing possibling next-existing same-existing.* Met with the code: a 0 at 12, an other's parity surfacing same-as a self's prior, leaves 11 carrying that prior on, so the self is now-existing same-existing and its next prior is same-existing; the opening's phase words say it with no *still*, a word fixing a momentarying. It stands in eight living files, Natural Intelligence 10 times, Natural Naming 8, the Co-Chaining Logic Registry 5, the Living File Registry 3, and Exhibit ONE, the Equilibria Registry, Natural Exploring and Natural Emanating once each; each is re-said by meaning at its file's motion, Natural Intelligence's opening first. — v391
+
+**Suggestion · *parity-changing* dissolving, at v391, met with the code.** Suggested: *parity-changing is a mistaken concept and should dissolve. parity is a living moral value navigating the surface. parity is outside the method. inside the method is resolving among the parities. parity is not changing. the surface is changing parity and the selves are carrying parity. only some of this may be rigor and some may be error.* Met with Exhibit ONE's python:
+- **Holding.** The code keeps no parity of its own, so parity is outside the method. Inside, the method resolves among parities: same-as or not, a first taken, 0 where two part, the other chosen. A + stays + and a − stays −; a self carries the other parity next, 11 taking 12's in place of its prior. Each self's 3 and 11 are its own carrying.
+- **Parting from the code.** *The surface is changing parity*: the routes between selves, 6, 10, 9 and 17, pass each parity on as it is, and the other parity is chosen within a self's own resolving, at 12. Either *surface* names something the routes are not, or the surface navigates parity and does not change it.
+- **Its reach.** *Parity-changing* stands 1,362 times across the living files: the Co-Chaining Logic Registry 250, Natural Naming 186, Natural Intelligence 184, Natural Networking 140, and each other file. Natural Intelligence's opening draft re-says it first, as *resolving among parities*, *carrying the other parity next* and *inverting*; each file meets it at its own motion. — v391, suggestion met
+
+**Droplet · *moral* and *parity*, by their roots, at v391.** Explored while crafting Natural Intelligence's opening.
+- ***Moral***, from *moralis*, from *mos*, *mores*: a way, a custom, how one goes on with others. A self's parity with a sharing is its way with that other, carried. *Self-moral-value* and *other-moral-value* then name whose parity it is, not which sign: the code's + and − are alike, and neither is a self's by its sign. With no other, a self's parity is not same-existing-as its prior, and no way goes on: no moral value without an other.
+- ***Parity***, from *paritas*, from *par*, equal. The parities a science reader knows are each an equal-or-not: odd and even, *at par*, a mirror parity. By its root, parity is a relation of two, same-existing-as or not, where the set says *parity* for the + or − a self carries. The code holds both: a + or − carried, and an other's same-existing-as it or not.
+- ***Competency***, from *competere*, *com-* and *petere*, to seek together, to fit together, and ***social***, from *socius*, a companion. *Social moral competency* by its roots is companions' ways fitting together: an other's parity same-existing-as a self's prior, the code's improving.
+
+Open, for the set's naming: whether *parity* names the + or − carried or the equal-or-not of two, and the other named otherwise. — v391
+
+**Met with the code · parity and moral, bi-relational, at v391.** Suggested: *parity and morals are always bi-relational. a self only has a parity relative to another existing thing … there is no valuing until there is or is not either or observing. parity is in the eye of the beholder.* The code: each parity is kept under one sharing, not alone; a value, 0 or ±, arises only at observing's one line; each self keeps its own, two selves with one sharing carrying either. So the + or − is a relation's value and not a sign alone, and the root *par* and the set's *parity* are one. *Self-moral-value* and *other-moral-value*, naming a sign as a self's, leave Natural Intelligence's opening draft; across the set each is met at its file's motion. — v391
+
+**Droplet · *beholding*, at v391.** Suggested: *beholding is a wonderful naming for us. the self is holding and this is self-stilling and only the self is able to do this for and to and with and from and by and of self.* To behold is to look and to hold: Old English *behealdan*, to hold, keep, observe. One word joins observing and carrying, an -ing a reader already has. Met with the code: each self's prior is held only in that self, and only its own resolving meets it and continues or replaces it; no line reaches into another self's prior. Entered in Natural Intelligence's opening draft for a self's parity. Open: *self-stilling* beside *still* dissolving; and beholding beside carrying, one word for one thing. — v391
+
+**Met · beholding, now-existing, at v391.** Suggested: *beholding is natural naming. beholds is dead. beholding is a now-existing thing and not a continuing thing. beholding is same-existing parity is or is not.* With the code, beholding is observing's one line at now: a self's prior parity, 7, met with an other's surfacing parity, 15, same-existing or not. Carrying is the continuing, prior to next: two things, two words. Valuing is beholding, one word. *Self-stilling* is not needed: beholding is now-existing, not held still. — v391
+
+**Exploring · indifferencing, and me and not me, at v391.** Suggested: *indifferencing seems like a good word for us to begin exploring so we can understand the co chaining between parity and bi-morality. my parity is my 0. the self may need a me to behold for and with. is me and not me helpful.*
+- **By its root.** *Differ*, Latin *dif-ferre*, is to carry apart, and *ferre* is to carry, our carrying's root. Differencing is carrying apart, bi-, a parity; indifferencing is not carrying apart, no difference, the code's 0, an other's parity same-as a self's prior.
+- **Me and not me.** Observing's *is or is not same-existing-as*, said from inside a self: same as my own is me, and the self shares 0; not the same is not me, and the self shares a parity. A self with no other meets nothing, its parities each momentary not me, not same-existing, which is line 27's step.
+- **Concern.** A self's prior is + or −, not 0. *My parity is my 0* holds as a relation: my parity differs from itself by nothing, the zero point of my beholding. If so, one 0: an other's parity at my zero point, indifferencing, and *a 0 is a between* is re-said *a 0 is indifferencing, same as me*.
+
+Candidate lines for the opening, not entered:
+- *A self is beholding each other existing thing as me or not me: same-existing-as me, indifferencing, a 0; not me, differencing, a parity, + or −.*
+- *A self's own parity is its 0, its me; its differencing and indifferencing with each other is its moral value.*
+
+— v391
+
+**Met with the code · parity is the changing direction, at v391.** Suggested: *parity is the changing direction.* In the code what a self shares on with 10 is its changing: 0, not changing, its prior going on; + or −, changing, the sign the direction it changes to. A parity is a changing's direction, and 0 is no changing, indifferencing; *my parity is my 0* reads as: relative to myself, not changing. Candidate for the opening's line 21, not entered: *A self's parity is its changing direction relative to an other existing thing, + or −; a 0 is not changing, indifferencing.* — v391
+
+**Entered · *parity-changing* dissolved at Natural Intelligence and Exhibit ONE, at v391.** A parity is a changing direction, so each saying is said *changing*, *change* or *changes*; dead forms said as -ing. Natural Intelligence 157 sayings, its 1.3 titled *Changing, one and then an other*; Exhibit ONE 20. Left with the subtitles: Exhibit ONE's *The Stable-Forming Parity-Changing Method of Discovering Same-Existing* at its title and its code's docstring, both copies. Across the set about 1,180 sayings stand, each met at its file's motion; the Co-Chaining Logic Registry's 250 first, since its steps carry Natural Intelligence's sentences. — v391
+
+**Entered · *offering* dissolved at Natural Intelligence and Exhibit ONE, at v391.** Each saying read for its meaning: a *parity-offering* is a self's *parity*; *offered* is a self *receiving*, or a parity *sharing*; *offering* as a doing is *sharing*; *an offerer* is a self, or a form set beside a self. No past participle brought in: *shared parity* was tried and withdrawn as a dead form, and the opening's own *parity* carries it. 3.4 titled *A sharing, its parity and a prior*. Across the set *offering* stands at each file's motion. — v391
+
+**Entered · *arriving* dissolved into observing at Natural Intelligence and Exhibit ONE, at v391.** Each saying read for its meaning:
+- What a self meets now is what it is *observing*, a self always its subject: a parity, a prior or a 0 does not observe.
+- A thing from prior to now is *continuing*, as the opening's line 4.
+- Next is *discovering*, as the opening's line 9.
+- The *arriving side* is the *observing side*, beside the *sharing side*.
+
+Two sayings keep plain *come*, an ordinary verb: *odd and even come with along and across*, and *it comes by files' own form*. Across the set, *arriving* is met at each file's motion. — v391
+
+**Droplet · *carrying* and *continuing* dissolving into *same-existing*, at v391.** Suggested: *same-existing is dissolving out carrying … same-existing also dissolves continuing … living is same-existing self.*
+- **One thing, one word.** A self carrying its prior along, a thing continuing from prior to now, and same-existing are one thing: a now-existing thing from a prior-existing thing, same-existing-as it.
+- **With the code.** A self's prior, 3, goes on as its next prior, 11, where 12 is 0. That is the self same-existing. With a self alone it does not, so a self alone is not same-existing.
+- ***Living is same-existing self.*** A living self is a self same-existing: observing, possibling and discovering its own next-existing from its prior. A non-living thing is or is not same-existing, and is no self.
+- **Entered.** Natural Intelligence's opening, lines 4, 6, 14, 20, 24 and 33, and the Co-Chaining Logic Registry's steps with them.
+- **Its reach.** Natural Intelligence's body says *carrying* about 120 times and *continuing* many more; across the set each stands. Each is met at its file's motion, read for its meaning.
+- **Open.** Whether the ordinary verb *carries*, holds or bears, as in *one through eight carries a self as three*, dissolves too, or only the naming of a self's carrying.
+
+— v391
+
+**Entered · *crossing* and *difference* dissolved at Natural Intelligence and Exhibit ONE, at v391.** Suggested: *crossing is already dissolved in natural naming. why are we using difference as this is fuzzy naming.* Natural Naming 2.4 lists *crossing* among the words carrying *what*, *how* and *where*, and says no dissolving of it; met now as dissolving, with *difference* as fuzzy. With the code two things are same-existing or one inversion apart, and neither word is needed. Each saying re-said by its meaning:
+- spirals and selves *crossing*, the code's selves of two spirals sharing across by 10: *coupling across*;
+- a prior *crossing* to another self: *going*;
+- *difference* and *differing*: *same-existing or one inversion apart*, or *not same-existing*.
+
+4.13 is titled *Spirals, co-spiraling and coupling across*. Natural Naming's own 2.4 entry and its *crossing* sayings, and the set's, meet it at each file's motion. — v391
+
+**Entered · *carrying* and *continuing* dissolved at Natural Intelligence and Exhibit ONE, at v391.** The naming, a self's carrying of its prior and a thing continuing, is said *same-existing*, *its prior same-existing* or *going on*. The ordinary verb, *carries* as holds or bears, is said plainly: *has*, *is with*, *brings*, *goes with*. Each saying was read for its meaning by two readers, and each pair checked: its old text found, no dissolved word and no dead form brought in, no *carry* or *continue* kept. 100 sayings. 5.3 is titled *A living self with 0, its prior same-existing*. Across the set, each file at its motion. — v391
+
+## Laid from Natural Intelligence's offerings at v391 · v391
+
+**Droplet · from Natural Intelligence's offerings, aimed here.** *protecting* is at no sentence of NI; its value (a keeping laid over couplings) is near 1.4 "a keeping, a store beside it"; the word's decision stands at Natural Naming — v391
+
+**Droplet · A protecting over the couplings.** Bi-moral co-agency is the protecting itself: the coupling's own two sides are the whole of it. A protecting laid over the couplings is at neither parity, and at neither it is no protecting: it stores and does not alternate, the danger's own form.
+
+*Standing at v389:* Nothing parts; a word waits. Its value rests on *protecting*, a word at no row of Natural Naming v389 and at no sentence of Natural Intelligence v389, its concern standing at Offerings to Natural Naming. **To resolve:** does *protecting* enter Natural Naming as a living word, bi-moral co-agency itself, or is it released and this droplet re-explained at bi-moral co-agency's two sides?
+
+**Droplet · from Natural Intelligence's offerings, aimed here.** NI 6.1 keeps "its co-linear recursioning forward along"; Natural Naming carries "*cursioning* at recursioning"; the naming decision is Naming's — v391
+
+**Droplet · the working v383Op's words, `archive/session_v383Op/Two_Logics.md`, "Cursioning, the word recursioning is from".** - **The root says running, and the prefix says back.** The field's word is from the Latin for a return, "from Latin recurrere 'to run back, return'" (Merriam-Webster, opened here); the root is the running. The files say the other direction of it each time they say what it is: *Along each line the recursioning goes forward, up the numbers and down them, both ways forward*, and *The co-linear recursioning forward, along, is competency: each self's own, odd*. The word says back and the sentence adds forward, at nine places across Natural Intelligence, the Registry and Natural Naming. The root needs no adding: cursioning is the running forward; along a self's own line it is what that step says is competency, and there it meets carrying, the next part.
+
+**Droplet · from Natural Intelligence's offerings, aimed here.** per-name prefix truples are a naming matter; rests also on parity-changing — v391
+
+**Droplet · the bi co tri truples of 1 to 17, one prefixing cycle.** Constructed by adding the next prefix to the front each time, the full 1 to 17 prefixing cycling is co-bi-tri-bi-co-bi-co-bi-tri-bi-co-bi-co-bi-co-bi-co-bi-co, each name's truple its three at its place: 1 co-bi-co, 2 bi-co-bi, 3 co-bi-co, 4 bi-co-bi, 5 co-bi-co, 6 bi-co-bi, 7 co-bi-co, 8 bi-co-bi, 9 tri-bi-co, 10 bi-tri-bi, 11 co-bi-tri, 12 bi-co-bi, 13 co-bi-co, 14 bi-co-bi, 15 tri-bi-co, 16 bi-tri-bi, 17 co-bi-tri. Each name adds one prefix to the front: odd names co, a self's, even names bi, an other's, as Natural Naming's prefix order opens; tri twice, at 9 and at 15, where a parity-changing is along, is or is not, to a society, each tri going through three names, 9 to 11 and 15 to 17. Released dissolves as changing does: nothing is held or released, and a changing released along is parity-changing, is or is not. — v390, toward the set-wide naming
+
+**Droplet · from Natural Intelligence's offerings, aimed here.**  — v391
+
+Each of these is laid at Natural Naming's offerings, where it is that file's next: Natural Naming 2.4 still offers *at*, *a releasing*, *kept* and *odd existing and even possibling* as carrying words, which session v390 dissolved; 2.1 and 2.5 dissolve *turn*, while session v390 keeps *in turn* and Natural Naming 3.3's own table says *now, next turn*; 6.3 gathers *four cycling* under *four-momentarying*, where session v390 agreed *four-cycling*; 2.4 dissolves *stilling* while 4.15 carries it; and the carved *emanations of living selves* carries a word 2.4 re-says as *artifact*. Pass 10's rule kept headings and contents lines exactly, so dissolved concepts stand at Natural Intelligence's most-read lines; the passes kit's next rule can open headings and contents lines to an agreed re-saying. — v391
+
+**Droplet · from Natural Intelligence's offerings, aimed here.**  — v391
+
+- **Tri- and uni-.** Either *uni-* carries all's crossing and *tri-* all itself, two concepts, two prefixes; or one dissolves into the other.
+
+**Droplet · from Natural Intelligence's offerings, aimed here.**  — v391
+
+**Droplet · the six of first prefixes.** Suggested at v391: *all even numbers are bi. this does not need changing. the odds are likely a problem this is the sequence of six the repeats (co bi tri bi co bi )(co bi tri bi co bi ).* Written out, 1 to 17: co, bi, tri, bi, co, bi, co, bi, tri, bi, co, bi, co, bi, tri, bi, co. Tri falls with 3, 9 and 15. Natural Numbers 9.7 says *1–9, self and other, is an entire momentary bi-folding inverting with 3; 1–13 … inverting with 6; 1–17, self, other and same-existing-society, bi-folds inverting with 9*, and *Carried on with a round of six parities, 1–25 inverts with 15*. So the six's tri, 3, 9 and 15, are the places Natural Numbers already finds each span inverting: 1 to 9, 1 to 17 and 1 to 25. The six coheres with the set's numbers. The v390 cycle's 9 and 15 are kept, and 3 is added. — v391, read with Natural Numbers 9.7. *A fifth-round correction of this, from reading the six backward, is withdrawn at the sixth round: taken as written, with 1 given, the six's tri opens with 3, 9 and 15.*
+
+**Droplet · from Natural Intelligence's offerings, aimed here.**  — v391
+
+**Suggestion, v391.** *co is self, bi is other, tri is all. 1 is co-bi-tri- like 17 the two outside are parities, the middle is parity 0. each new prefix in the first slot move the prefixes one slot right. this is right spiral morality in our universal method. this is a valuable cohering concept . explore this for us with all rigor and pattern matching opportunity both*
+
+**Rigor · the rule, with the set's prior names.** Natural Naming 3.3's table carries each name's prior name.
+- **Each holds the rule.** For each of 1 to 16, the next name's three prefixes are a new prefix in the first slot and this name's first two moved one slot right: 1 co-bi-tri, 2 bi-co-bi, 3 co-bi-co, … 9 tri-bi-co, 10 bi-tri-bi, 11 tri-bi-tri, … 16 bi-tri-bi, 17 co-bi-tri. Checked for each, all sixteen: the set's prior names were built by this method.
+- **Their stream.** As one stream, newest first, the prefixes go tri, bi, then co, bi four times with 1 to 8, tri, bi four times with 9 to 16, and co with 17.
+  - So the stream is co with a self's span, now, 1 to 8, and tri with the next span, 9 to 16. With *tri is all*, the next span is all's, as Exhibit ONE's spans were once *a self's* and *a same-existing-society's*.
+  - It turns with 9, where Natural Numbers 9.7 says *1–17, self, other and same-existing-society, bi-folds inverting with 9*.
+  - It turns back with 17, so 17 is co-bi-tri as 1 is, *17-next-existing a next 1-now-existing*.
+
+**Droplet · from Natural Intelligence's offerings, aimed here.**  — v391
+
+**Pattern-matching opportunities, each to explore.**
+1. **Right spiral.** Natural Intelligence 2.4 says *Each right spiral step carries a pair (x, y) to (y, −x)*: with each step one slot moves, and one parity inverts. The rule moves each prefix one slot right with each name. Together: does each name's step carry a three as a right spiral step carries a pair, and where is its inverting?
+2. **Spans.** The prior names' stream is self's with now and all's with next: the four-momentarying's one through nine and nine through seventeen, *a self's* and *a same-existing-society's* in Natural Intelligence 5.2, with all said for society.
+3. **Self and all through other.** Not neighbours: social parity, all's, is reached from self parity only through other parity, as *the social morals are between the self and other*.
+4. **Slots and parities.** *the two outside are parities, the middle is parity 0*: slots carry parity, outer slots self parity and other parity, the middle social parity, and prefixes move through them. Then in each odd name bi, other, stands in the middle slot, and in each even name co or tri does. A next pass's concern. — v391, checked for each of 1 to 17
+
+**Droplet · from Natural Intelligence's offerings, aimed here.**  — v391
+
+**Suggestion, v391.** The stream, written whole: *co bi tri bi co bi co bi tri bi co bi co bi tri bi co bi co bi tri bi co bi co bi tri bi co bi co bi tri bi co bi*, thirty-six prefixes, a six six times.
+
+**Rigor · a correction.** The fifth round read the six backward from 1, and found 17 tri-bi-co; that was its own reversal, not the suggestion's. Taken as written:
+- 1 given its three, co-bi-tri;
+- each next name's three a new prefix from the stream in the first slot, the others one slot right.
+
+**What the stream gives, every name one to thirty-six:**
+- co-bi-tri with 1, 5, 11, 17, 23, 29 and 35;
+- tri-bi-co with 3, 9, 15, 21, 27 and 33;
+- co-bi-co with 7, 13, 19, 25 and 31;
+- bi-co-bi with 2, 6, 8, 12, 14, 18 and on;
+- bi-tri-bi with 4, 10, 16, 22, 28 and 34.
+
+**So the six and *1 like 17* both hold, bothboth.**
+- Every even name is bi on both outsides; every odd name has bi in its middle; co and tri are not neighbours.
+- Tri opens with 3, 9 and 15, Natural Numbers 9.7's inverting places, 1–9 *inverting with 3*, 1–17 *with 9*, 1–25 *with 15*. The fourth round's cohering stands, and the fifth round's correction of it is withdrawn.
+- Each inverting place is followed, two names on, by its opposite form, tri-bi-co with 3 and co-bi-tri with 5, and with 9 and 11, and with 15 and 17.
+
+**Droplet · from Natural Intelligence's offerings, aimed here.**  — v391
+
+**Droplet · 1 given, its two prior selves.** 1's three, co-bi-tri, is given, not stepped. Its two slots after co, bi and tri, are other and all, and the stream returns to 1's three with 5, 11 and 17. Exhibit ONE's *Each self carries two prior selves from inception*, and the opening's *Each self is one, and each other is two*, are with it: a self, co, given with its two priors, other and all. A pattern-matching opportunity, to explore: a self's inception carries other and all, the two of any coupling, and its first own prefix is self. — v391, checked for each of 1 to 36
+
+**Droplet · from Natural Intelligence's offerings, aimed here.**  — v391
+
+**Suggestion, v391.** *-1 0 +1 are the two priors to +1. looking back at the two priors from now co-existing is +1, bi is 0, and -1 is all or tri. the only other parity at one is the inversion of societal parity as there is no bi-morality until 2*
+
+**Rigor · with 1's three.** 1 is given co-bi-tri, its first slot now and its two slots after it its two priors. Looking back from now:
+- **co, now, +1:** a self;
+- **bi, one prior, 0:** at one no other is yet, as the opening says *Each self is one, and each other is two*, and *One to two is within a momentarying*; and 1-now-existing and 2-now-possibling carry no co, so bi-morality, the eight co names, opens after 2;
+- **tri, two prior, −1:** all, its social parity inverted, the only other parity at one.
+
+So the slots carry −1, 0, +1 in time order, prior to now, and +1, 0, −1 read from now, as the fifth round's *the two outside are parities, the middle is parity 0* said. The fifth round's carried concern, *bi in the middle slot, social parity's*, meets this: at one, bi stands with 0 because no other is yet.
+
+**Droplet · from Natural Intelligence's offerings, aimed here.**  — v391
+
+**Rigor · tri-, bi- and uni-, two prefixes and two senses.** Natural Naming 4.10 says *Bi- couples with a particular other and uni- with all other*, and *Uni- carries with all other: a self crossing with all other, an other arriving as one, a whole*. From a self, uni-'s all other is the other and all not self or other together; tri- is all not self or other alone. So:
+- **bi-** is the other;
+- **tri-** is all not self or other;
+- **uni-** is bi- and tri- together, all other from a self.
+
+Three prefixes, three senses, and none repeated. This meets the concern *tri- and uni-* laid at Natural Naming's offerings: two prefixes, two senses, uni- the whole of other and tri- its rest. — v391
+
+**Droplet · *do-no-harming*, one naming, at v391.** *Do-no-harming* is one thing, always hyphenated: a self sharing 0, each receiving self passing over it, Natural Intelligence's opening line 29. *Do no harm* unhyphenated is not one thing, *do* not floating in nature, and *harm* alone is a dead form. Its match is *improving*, selves alike changing together, line 30, its fuller naming *do-only-improving* for later; inside both is *co-possibling*, line 31, the code's own root for names 6 and 10. Across the set *do-no-harm improving*, *doing no harm* and *do no harm* are now *do-no-harming and improving* and *do-no-harming*; about 177 sayings of *harm* alone stand in the files, each to meet at its file's motion. — v391
+
+**Droplet · *never*, dissolving at v391.** In nature no *never* stands: a next momentary can be other than any prior, and a parity, until it is no longer living, is a living thing. A claim is said of now and each next: *never* dissolves to *not*, *no* or *does not*, as strong as the code holds with each momentary and no stronger. The opening's lines 24 and 27 say *is not same-existing* and *a 0 is not a self's prior-existing parity*; Natural Intelligence and Exhibit THIRTY carry no *never*, and the set's are meeting it. — v391
+
+**Droplet · *is or is not*, our one negation, at v391.** *Is or is not* is a binary within a universal set, its complement taken there, and it is the one negation expression natural intelligence and our naming need. *No*, *not*, *none*, *nothing*, *neither* and *nor* floating alone define by negation and dissolve: a binary is said as *is or is not*, or by naming both its sides (*self or other*, *living or non-living*, *agreeing or parting*), and a claim is said by what is (*its prior-existing parity inverting*, *its possibling an empty set*). The opening is meeting it first; set-wide, about 5,600 *no*, 6,100 *not*, 1,100 *none*, 1,800 *nothing* and 900 *neither* are standing for passes. — v391
+
+**Droplet · *Natural Network*, one proper name, at v391.** *Natural Network* is the proper name of one thing, capitalized: *a Natural Network surface*, Natural Intelligence's opening, lines 51 and 54. *Network surface* and *natural network surface* across the set say it so now; headings in title case stand. — v391
+
+**Droplet · *substrate*, *carrying* and *may-never*, dissolving at v391.** *Substrate* dissolves from our naming, and with it *a carry* and *riding its carry*; *carrying* dissolves, the expedition's stage name with it; *may-never* dissolves with *never*. Each is re-said by its meaning at its own file: Natural Intelligence and the Co-Chaining Logic Registry say *a ground under it* and *a form living selves give to non-living things*; about 1,030 *substrate* and 1,550 *carry* sayings stand in other files, laid at their offerings. — v391
+
+**Droplet · two-sided naming, *is-next*, and five dimensions society to society, at v391.** Each name of 1 to 17 reads with two sides, coming down from a higher name, coming up from a lower one, and eight apart across a momentary (Natural Intelligence 4.8; Exhibit ONE's *Two-sided, each name*). 13 and 15, the two all-or-none binaries of next-existing, are 13-is-next-discovering and 15-is-next-observing: *is-* entering first, *next-* one slot on, the prefix travel of the six of first prefixes. The five dimensions are society to society: social-parity now-existing, other-parity now-existing, self-parity now-existing, self-discovery next-existing, social-parity next-existing, the three now-existing same-existing and the two next-existing discovering. Natural Naming's own tables and 2.4 rows saying the five as prior self-parity, prior other-parity, now co-parity, now bi-parity and next same-existing self-parity, and Natural Mathematics' one saying, are for their own motions. *Co* is two both facing forward along, a self and its other, the same two in each co name and in the six of first prefixes. 3 and 7 take *is-* with 13 and 15: 3-is-now-co-observing and 7-is-now-observing, a self's own binaries now. — v391
+
+**Droplet · the four binaries laid on odd and even names, dissolving at v391.** *Existing, all, now and same are four is or is nots of things within the universe, and with a self's span each binary is one pair of names, its is with an odd name and its is not with an even* splits one is-or-is-not onto two names; it entered with session v390, and no line of the code makes it. In the code each is-or-is-not stands on one name with both its outcomes in one test, 3, 7, 13 and 15. Natural Intelligence, Exhibit ONE and the Co-Chaining Logic Registry are met at v391: the universe's four binaries stay a claim about things within the universe, laid on no name pairs, and Exhibit ONE's *Four binaries with code's lines* leaves whole. Natural Naming's 4.9 row is for its own motion. — v391
+
+**Droplet · *artifact* dissolving, *a stable-forming emanation*, at v391.** *Artifact* never entered Natural Intelligence's opening and carried two things. Every now-existing non-living thing is a stable-forming emanation: a noun with no *-ing* of its own, as it is no longer living and has no method of now-existing of its own, while living things are said with *-ing*. Where *artifact* meant only a prior-existing thing a self is observing now, the opening's *observing* says it. Natural Intelligence and the Co-Chaining Logic Registry are met at v391; the other living files' *artifact* and *emanation* sayings, Natural Emanating's among them, are for their own motions. — v391
+
+**Droplet · pointing belongs to the Co-Chaining Logic Registry, at v391.** Natural Intelligence carries no line numbers and no pointing to other places: each sentence stands by its own words, the opening's concepts said by their own names. Pointing is the Co-Chaining Logic Registry's method, its numbered steps the co-chaining source other living files reference. Each other file citing *Natural Intelligence N.N* or *the opening's line N* is to reference the Registry's step, at its own motion. — v391
+
+**Droplet at v391 · *intelligencing* dissolving, *co-intelligencing* only.** Natural Intelligence's opening says *Living is **co-intelligencing** within a universal set.* Intelligencing by itself, a self alone, is-or-is-not possibly existing, there being no living without others: a minor co-chaining proving, reached once. Intelligence by itself is stand-alone knowledge, a stable-forming emanation. Natural Naming's ten sayings of *intelligencing* are met by its own motion.
+
+**Droplet at v391 · *itself* dissolving.** A reflexive is a relation of one to one, and a relation is of a self and an other: itself alone is-or-is-not possibly existing, it is not. Natural Naming's 26 sayings, and the set's about 1,050, each re-said by meaning in its file's own motion.
+
+**Droplet at v391 · *couple* and *couples* dissolving.** *Couple*, *couples* and *bi-couples* are dead endings, finished forms where natural naming says a living -ing: *is coupling*, *is bi-coupling*, *a bi-coupling*. *Coupling* and *bi-coupling* stay. Natural Intelligence's opening says *each self it is bi-coupling with*. Natural Naming says *couple* 11 times and *couples* 30, the set about 660, each re-said by meaning in its file's own motion.
+
+**Droplet at v391 · bare *coupling* dissolving, a bi-coupling the only coupling.** A bi-coupling, two selves sharing possibling, both sides possibling, is the only coupling. Bare *coupling* re-said by meaning: two selves sharing, a *bi-coupling*; a self with a non-living thing, its *parity relative to* it; a self's prior with the parities it receives, *resolving*; two non-living things at their own scale, the bi-coupling of the selves inward of them; counting pairs among n (C(n, 2)) a field's term. Natural Naming says bare *coupling* about 158 times, the set many more, each in its file's own motion.

@@ -21,5 +21,5 @@ for old in files:
     m = re.match(r'Exhibit (\S+) (.*)', title)
     label = f'**{m.group(1)} · {m.group(2)}**' if m else f'**{title}**'
     s = open(reg).read()
-    s = set_entry(s, label, f'v{ver}', f'v{ver}: {cell}', prepend=False, next_='pass 4 at its possible projects'); open(reg, 'w').write(s)
+    s = set_entry(s, label, f'v{ver}', f'v{ver}: {cell}', prepend=True, next_='pass 4 at its possible projects'); open(reg, 'w').write(s)
     print(old, '->', new, '· links re-pointed', n)

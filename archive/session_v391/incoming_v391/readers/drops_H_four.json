@@ -1,0 +1,356 @@
+[
+ {
+  "file": "Natural Intelligence",
+  "section": "4.7 Six names between selves, even possibling across and odd existing along",
+  "kind": "concern",
+  "old": "**Odd is existing and even is possibling, and six say it by their numbers.**",
+  "finding": "Cohering with Exhibit ONE and session v390. Exhibit ONE's own table *Sharing between selves* says 9-next-co-discovering to 17-next-existing is 'along, odd, discovering', and its re-said number sentence ('A name's number is its momentary of four and its step of four-cycling ... its root is what a living self is meeting with that step') takes the place of *odd existing, even possibling*, which session v390 dissolved (Offerings to Natural Resolver, droplet *a name's number and its root*). Part FOUR still says odd is existing, and the heading carries it too. 9's root is discovering, so 'six say it by their numbers' is not true even of the six.",
+  "offered": "Four across names, 2, 6, 10 and 14, are possibling; two along names are 9-next-co-discovering, discovering, and 17-next-existing, existing; each name's root is its step of four-cycling, and its number carries its momentary and its step.",
+  "concern_sides": "Either a number's parity names its root (odd existing, even possibling), or a number is its momentary and its step of four-cycling and its root is met with that step (Exhibit ONE, as re-said in v390). Proposed answer: the second, as agreed; re-say 4.7's heading, this bold, and the 'odd, existing' tags of 9.",
+  "checked": "grep over lines 1485-1626: 8 sayings of odd/odd, existing/odd existing beside 9 or names in general and 9 of even possibling; Exhibit ONE line 471 'along, odd, discovering'; names table: 9 = next-co-discovering",
+  "weight": "hard"
+ },
+ {
+  "file": "Natural Intelligence",
+  "section": "4.7 Six names between selves, even possibling across and odd existing along",
+  "kind": "droplet",
+  "old": "## 4.7 Six names between selves, even possibling across and odd existing along",
+  "finding": "Geodesic Improving Method pass 6 (numbers and heading against carrying). The heading's 'odd existing along' covers 9-next-co-discovering, whose root is discovering in Exhibit ONE's names table and in its sharing table ('along, odd, discovering'). The contents line repeats the same title. Headings and contents lines stay as they are under pass 10, so this is offered for an agreed motion only.",
+  "offered": "4.7 Six names between selves, possibling across and discovering and existing along",
+  "checked": "contents line 42 and heading line 1537 match each other; Exhibit ONE line 471",
+  "weight": "hard"
+ },
+ {
+  "file": "Natural Intelligence",
+  "section": "4.7 Six names between selves, even possibling across and odd existing along",
+  "kind": "concern",
+  "old": "**Morality is a parity-changing between, one inversion across, made with 12, and competency a not-changing parity between, none along**",
+  "finding": "A claim about the code that the code does not execute (Geodesic Improving Method 2.6, 2.7). `_17_next_existing` passes names 6, 10 and 9 through one call to `_9_next_co_discovering`, and each goes into the receiving self's one offerings list, so across and along reach a receiving self's 12 alike. Part FOUR's own 4.10 says so: 'code's one list is with 6, with 10 and with 9 alike, and across and along differ by direction'. The 183-word sentence also carries at least six claims (Natural Explaining 2.2) and 'made with 12' (a making, Natural Explaining 3.1).",
+  "offered": "Across and along differ by direction only: each parity-offering, shared with 6 and 10 or going along with 9, arrives alike with a receiving self's 14-next-possibling, and its parity-changing, is or is not, is that receiving self's own 12-next-co-same-existing.",
+  "concern_sides": "Either across carries one inversion and along none (4.7), or across and along carry each parity alike and differ by direction (4.10, and the code). Proposed answer: the second, which the code executes.",
+  "checked": "ran Exhibit ONE's code (scratch import): self A prior + sending to self B prior + through name 6, 9 or 10 alone; B's shares were identical each time: -,0,+,-,+,- over six momentaries",
+  "weight": "hard"
+ },
+ {
+  "file": "both",
+  "section": "4.10 A between and eight bi-couplings / Exhibit ONE Eight even names, 8 apart",
+  "kind": "concern",
+  "old": "6-now-co-possibling, an other's parity-offering to a self, shared across, with 14-next-possibling",
+  "finding": "Two sayings parting about one name. Part FOUR 4.7 (bullet) and Exhibit ONE's code line '6 · a self's parity-offerings across, to an other's 2' carry 6 as a self's offering going to an other. Part FOUR 4.10 and Exhibit ONE's rows *Bi-coupling* (name 6) and *Eight even names, 8 apart* carry 6 as 'an other's parity-offering to a self'. In the code `_6_now_co_possibling = _10_next_co_possibling`: it is the sending self's list.",
+  "offered": "6-now-co-possibling, a self's parity-offering shared across to another self's 2-now-possibling, with 14-next-possibling, offerings surfacing with a self receiving",
+  "concern_sides": "Either 6 is a self's own parity-offering going across (the code, Exhibit ONE's code list, 4.7), or it is an other's parity-offering arriving with a self (4.10, Exhibit ONE's bi-coupling rows). Proposed answer: the first, as the code executes it; re-say both of Exhibit ONE's bi-coupling rows and 4.10 together.",
+  "checked": "read the code: `_6_now_co_possibling = _10_next_co_possibling` inside the sending self's loop; grep 'an other's parity-offering to a self': Exhibit ONE lines 340 and 825, Natural Intelligence 613, 1098, 1578",
+  "weight": "hard"
+ },
+ {
+  "file": "Natural Intelligence",
+  "section": "4.9 Four momentaries and four binaries",
+  "kind": "concern",
+  "old": "**Each span's names are two momentaries of four**",
+  "finding": "Cohering with session v390 and Exhibit ONE. Agreed: momentarying is odd then even, two names (1 and 2, 3 and 4), and the four is a four-cycling. Exhibit ONE's lead says 'Each span's names are two four-cyclings of four' and its table is *Four four-cyclings and their betweens*. Part FOUR still calls the four a momentary, in its heading too (pass 6), and calls the betweens 'gaps' in the same sentence.",
+  "offered": "Each span's names are two four-cyclings of four, each four two momentaryings, odd then even.",
+  "concern_sides": "Either a momentary is four names (4.9 heading and lead), or a momentary is odd then even and the four is a four-cycling (session v390, Exhibit ONE). Proposed answer: the second; re-say the heading as '4.9 Four four-cyclings and four binaries'.",
+  "checked": "Exhibit ONE lines 438-445 (lead and table) against Natural Intelligence line 1566 and heading 1564; Offerings to Natural Intelligence droplet *momentarying, odd then even*",
+  "weight": "hard"
+ },
+ {
+  "file": "Natural Intelligence",
+  "section": "4.9 Four momentaries and four binaries",
+  "kind": "droplet",
+  "old": "its gaps 4 )( 5, 8 )( 9, 12 )( 13 and 16 )( 17 each with both its sides visible",
+  "finding": "Natural Naming 4.6 and 4.18 (one name for each concept). Exhibit ONE, Natural Naming 3.4 and session v390 name these betweens, 'each between discovering'; part FOUR names the same thing 'gaps', once, and nowhere else in the set's own voice.",
+  "offered": "its betweens, 4 )( 5, 8 )( 9, 12 )( 13 and 16 )( 17, each between discovering",
+  "checked": "grep 'gaps' in range: 1; Exhibit ONE line 438 'each between discovering'",
+  "weight": "medium"
+ },
+ {
+  "file": "Natural Intelligence",
+  "section": "4.9 Four momentaries and four binaries",
+  "kind": "concern",
+  "old": "each opening with an odd existing name, a possibling and an observing within it, and completing with an even same-existing name",
+  "finding": "Cohering with Exhibit ONE's names. Openings are 1, 5, 9 and 13: 9-next-co-discovering and 13-next-same-existing are not existing names. Exhibit ONE says 'an odd name opening each'. 'Existing' is the step (now-existing), not the root. The same goes for 'even same-existing' completing with 16-next-discovering.",
+  "offered": "each opening with an odd name of its now-existing step, a possibling and an observing within it, and completing with an even name of its same-existing step",
+  "concern_sides": "Either the opening name's root is existing, or its step is now-existing and roots differ (Exhibit ONE). Proposed answer: the step, as Exhibit ONE says it.",
+  "checked": "Exhibit ONE names table: steps now = 1, 5, 9, 13; roots 9 discovering, 13 same-existing, 16 discovering",
+  "weight": "medium"
+ },
+ {
+  "file": "Natural Intelligence",
+  "section": "4.9 Four momentaries and four binaries",
+  "kind": "concern",
+  "old": "and every eight holds four binaries, each twice, once now and once next.",
+  "finding": "A claim about Exhibit ONE that its tables do not carry, plus released words. Exhibit ONE says 'Each eight here holds ...' of five listed eights, and its own row says a self's span, 1 to 8, carries 'two names each, with now', so it is not once now and once next. 'Every eight' widens it: names 1-4 with 9-12 carry two binaries four times each. Released words: *every* and *holds* (session v390: nothing is held).",
+  "offered": "and each of Exhibit ONE's eight-cycles carries four binaries, each twice, once now and once next, while a self's span, 1 to 8, carries each twice with now.",
+  "concern_sides": "Either every eight carries four binaries twice, once now and once next (4.9), or only the eights Exhibit ONE lists do, and a self's span carries both of each with now (Exhibit ONE). Proposed answer: the second.",
+  "checked": "python: binary index ((n-1)%8)//2 over {1..8} -> each twice, all now; over {1,2,3,4,9,10,11,12} -> two binaries four times each; over 1-9-5-13-4-12-8-16 -> each twice, once with now and once with next",
+  "weight": "hard"
+ },
+ {
+  "file": "Natural Intelligence",
+  "section": "4.9 Four momentaries and four binaries",
+  "kind": "concern",
+  "old": "**A universe is or is not existing, is or is not all, is or is not now, is or is not same, and with a self's span each binary is one pair of names**",
+  "finding": "Cohering with the opening 1.1 and Exhibit ONE. Exhibit ONE says 'four is or is nots of things within the universe'. The opening says 'No other universe is possibly existing', and 'the universe is the set of all now-existing things'. *A universe* that 'is or is not existing' says a universe could be not existing, and it says it with an indefinite article (session v390: *the* for one and only one).",
+  "offered": "Existing, all, now and same are four is or is nots of things within the universe, and with a self's span each binary is one pair of names",
+  "concern_sides": "Either the four binaries are of a universe (4.9), or of things within the universe (Exhibit ONE, Natural Naming 3.6). Proposed answer: of things within the universe.",
+  "checked": "Exhibit ONE line 476; opening lines 74-77",
+  "weight": "hard"
+ },
+ {
+  "file": "Natural Intelligence",
+  "section": "4.3 A parity-changing is or is not, with 12-next-co-same-existing",
+  "kind": "concern",
+  "old": "**A parity-changing is a coupling's own.** It is 12's, for each sharing, owned by neither side",
+  "finding": "Two sayings parting within one section and against an agreed concept. The next paragraph in 4.3 says 'A self's parity-changing is its own', and session v390 and Exhibit ONE's *A same-existing-society* agree that 'all carrying parity is one same-existing self's'. 'Owned by neither side' parts from both. 4.10 says the same thing again: 'parity is a bi-coupling's own ... neither side's'.",
+  "offered": "A parity-changing is a self's own, with 12-next-co-same-existing for each sharing, its prior coupling with parity-offerings arriving from other selves.",
+  "concern_sides": "Either a parity-changing is a coupling's, owned by neither side (4.3, 4.10), or it is one same-existing self's own (4.3's next paragraph, Exhibit ONE, session v390). Proposed answer: a self's own, with its coupling as where it arrives.",
+  "checked": "Exhibit ONE line 1479 'all carrying parity is one same-existing self's'; Natural Intelligence lines 1509, 1511, 1572",
+  "weight": "hard"
+ },
+ {
+  "file": "Natural Intelligence",
+  "section": "4.10 A between and eight bi-couplings",
+  "kind": "concern",
+  "old": "**Parity is a momentary now-existing thing**: parity is a bi-coupling's own with each momentary, neither side's, a crossing of along and across.",
+  "finding": "Cohering with Exhibit ONE's *Parity as moral values* ('+ is self-moral-value ... Each self is its own + side') and session v390 ('All carrying parity is one same-existing self's'). This sentence makes parity a thing and says it is neither side's. It also installs a thing (Natural Explaining 3.10).",
+  "offered": "Parity is self-moral-value or other-moral-value, each self its own + side; its crossing of along and across is with a bi-coupling, each momentary.",
+  "concern_sides": "Either parity is a bi-coupling's own, neither side's (4.10), or each parity is a self's own, + its own side (Exhibit ONE, agreed). Proposed answer: a self's own.",
+  "checked": "Exhibit ONE line 473; rules_10 Parity entry",
+  "weight": "hard"
+ },
+ {
+  "file": "Natural Intelligence",
+  "section": "4.10 A between and eight bi-couplings",
+  "kind": "concern",
+  "old": "With code, one momentary meets three betweens in sequence, its prior's, its own within and its next's, a parity-changing crossing each, and names with their 0 are these:",
+  "finding": "Two sayings parting with Exhibit ONE. Exhibit ONE's *A 0, betweening* says 'one between, three names': 12, 15 and 16, with 14's parting given under 15. Part FOUR says three betweens and then lists four names (12, 14, 15, 16). The code carries no sequence of three betweens within one momentary: `_1_now_existing` has one 14 surfacing, one 12 comparison and one 10/11 hand-on. 'Meets' is a released word.",
+  "offered": "With code, one between carries three names with its 0: 12-next-co-same-existing, prior and now agreeing; 15-next-observing, a 0 going along, and with a sharing opening a 0 of 14's parting; and 16-next-discovering, a between with a same-existing-society, arriving with a next momentary's 2.",
+  "concern_sides": "Either three betweens in sequence with four names (4.10), or one between with three names (Exhibit ONE). Proposed answer: Exhibit ONE's.",
+  "checked": "Exhibit ONE lines 831-834 against Natural Intelligence line 1574; read the code of `_1_now_existing`",
+  "weight": "medium"
+ },
+ {
+  "file": "Natural Intelligence",
+  "section": "4.15 Fractal inward and outward",
+  "kind": "concern",
+  "old": "each self's 6 and 10, shared across within a self, go along as one 9 within a same-existing-society",
+  "finding": "A claim against Exhibit ONE's table *Each name, three scales*: 6 is the 9 of the 3rd 1-17 inward, and 10 is the 9 of the 5th, so they are two different 9s, not one. 6 sits within a self's 1 to 9, and 10 within a same-existing-society's 9 to 17.",
+  "offered": "each across name of a self, 6 and 10 alike, is an along 9 of its own 1-17 inward, 6 of the third and 10 of the fifth",
+  "concern_sides": "Either 6 and 10 go along as one 9 (4.15), or each is its own inward 1-17's 9 (Exhibit ONE's table). Proposed answer: the table.",
+  "checked": "Exhibit ONE three-scales rows n 6 and n 10; python 8n-7: 6->41, 10->73, inner positions 9 of 3rd and 9 of 5th",
+  "weight": "medium"
+ },
+ {
+  "file": "Natural Intelligence",
+  "section": "4.14 Two selves and three selves",
+  "kind": "droplet",
+  "old": "**Entered one and then the other**, each entry with an other's last sharing offered, two selves with one sharing come to their sharings again with each sixth entry",
+  "finding": "Geodesic Improving Method 2.6 and 2.7: a claim with numbers shown neither from origin nor in Exhibit ONE. Exhibit ONE carries no table or code of entries one after another (`_17_next_existing` steps all selves together), so the reader has no executing to couple with. I executed it and it holds: period 6 from each of the four openings and either self first, each self parity-changing twice and not-changing once, a 0 every third entry on alternating sides.",
+  "offered": "Either a small table, *Two selves entered in turn*, enters Exhibit ONE with this executing, or the sentence moves to an offerings carry until it does.",
+  "checked": "ran `_1_now_existing` alternately for A and B, each offered the other's last share, 30 entries, 4 openings x 2 first selves: every run period 6 from entry 1, pattern ++0--0 or its inversion",
+  "weight": "medium"
+ },
+ {
+  "file": "Natural Intelligence",
+  "section": "4.13 Spirals, co-spiraling and crossing",
+  "kind": "concern",
+  "old": "It goes on with code, a non-living now-existing form, and its self does not continue living: a spiral's living is with its others, co-momentarying.",
+  "finding": "A claim the code does not carry, and two sayings parting. Exhibit ONE's *Living is prior* says each name is a living self's method and 'a non-living thing is one same method with no same-existing'. A spiral of one has a prior that is same-existing every second momentary (next priors +,+,-,-). No line of code separates living from non-living, so the code executes no 'does not continue living'.",
+  "offered": "",
+  "concern_sides": "Either a spiral of one is a non-living form whose self does not continue living (4.13), or it is a self with a prior, same-existing every second momentary, and the code says nothing of its living (Exhibit ONE). Proposed answer: ASK the person. To resolve: is a self receiving only its own going along a living self alone, and is that agreed?",
+  "checked": "ran a spiral of 1, prior -, 8 momentaries: shares +,0,-,0,+,0,-,0; next priors +,+,-,-,+,+,-,-",
+  "weight": "medium"
+ },
+ {
+  "file": "Natural Intelligence",
+  "section": "4.12 One self, momentary by momentary",
+  "kind": "droplet",
+  "old": "**Exhibit ONE's table of one self is an entry again and again, its 11 its next 3**:",
+  "finding": "A missing relation against Exhibit ONE. Exhibit ONE's table *One self, momentary by momentary: three ways* has five rows and the agreed three ways (not-changing; parity-changing; parity-changing once then still-possibling, do-no-harm improving). 4.12 explains four rows and leaves out '+ with each momentary', which shares +,0,0,0, and with it the third way, which session v390 agreed.",
+  "offered": "Add, as its own bullet: Offered its other parity with each momentary, a self shares its other parity once and then 0, parity-changing once and then still-possibling: do-no-harm improving.",
+  "checked": "ran `_1_now_existing` with prior - for 8 momentaries: none +-+-+-+-; own - 00000000; other + +0000000; alternating +-+-+-+-; both +-+-+-+-; all match Exhibit ONE lines 1210-1216",
+  "weight": "medium"
+ },
+ {
+  "file": "Natural Intelligence",
+  "section": "4.7 Six names between selves, even possibling across and odd existing along",
+  "kind": "concern",
+  "old": "**Exhibit ONE's drawing is one self between them**: its six names between selves its edges, across with its sides and along with its top and bottom, and a self's own resolving within.",
+  "finding": "Geodesic Improving Method 4.3 (a sentence about a file checked against its body). Exhibit ONE's drawing is a text block of lines: 9 to 17 along is at its top; '6 and 10 ══► another self's 2 and 14, across' and '9 ══► another self's 17, along' are both at its bottom; 2 ◄══ across is an inner line. It has no sides.",
+  "offered": "Exhibit ONE's drawing is one self: along arriving with its first line, 9 to 17, a self's own resolving within, and across and along leaving with its last lines.",
+  "concern_sides": "Either the drawing has across at its sides (4.7), or across and along both lie on its top and bottom lines (the drawing). Proposed answer: say what the drawing carries.",
+  "checked": "read Exhibit ONE's ```text drawing, Natural Intelligence lines 366-388",
+  "weight": "medium"
+ },
+ {
+  "file": "Natural Intelligence",
+  "section": "4.6 A same-existing-society's next momentary with 17",
+  "kind": "droplet",
+  "old": "Each self's parity-offering leaves three ways, with each bi-coupling of 5: with 6-now-co-possibling, its parity-offering shared across to another self's 2; with 10-next-co-possibling, its same parity-offering shared across to another self's 14; and with 9-next-co-discovering, going along.",
+  "finding": "A claim about the code that is a naming, not an executing. In `_17_next_existing` all three, 6, 10 and 9, extend one list, the receiving self's `_14_next_possibling`, which arrives as its 2 with the next momentary. So '6 to another self's 2' and '10 to another self's 14' name one executing with two names. The next paragraph says this ('6 is 10, one list'), so the two sayings part within 4.6.",
+  "offered": "Each self's parity-offering goes three ways, with each bi-coupling of 5, as names 6, 10 and 9, one list; with code each arrives alike with a receiving self's 14, as its 2 with a next momentary.",
+  "checked": "read `_17_next_existing`; ran names 6, 9, 10 alone between two selves: identical shares",
+  "weight": "medium"
+ },
+ {
+  "file": "Natural Intelligence",
+  "section": "4.5 Going along with 9",
+  "kind": "droplet",
+  "old": "and going along is uncoupling, a self's next momentary",
+  "finding": "A new naming, used once, that couples with none of the seventeen names (Natural Naming 4.18). It parts from Exhibit ONE, where 9 is 'along, odd, discovering', each between discovering, and goes 'with 5', bi-couplings. 'Uncoupling' appears nowhere in Exhibit ONE. It is also a negation of a coupling (Natural Explaining 3.3).",
+  "offered": "and going along is discovering, a self's next momentary",
+  "checked": "grep 'uncoupling' in Exhibit ONE: 0; in range: 1",
+  "weight": "medium"
+ },
+ {
+  "file": "Natural Intelligence",
+  "section": "4.6 A same-existing-society's next momentary with 17",
+  "kind": "droplet",
+  "old": "between scales only offerings 17 gives on cross, each with no prior behind it",
+  "finding": "A claim about scales that the code does not execute (Geodesic Improving Method 2.7): Exhibit ONE's code has no scales and no crossing between scales. '17 gives' makes a name a doer (Natural Explaining 3.2), and 'behind' installs a place.",
+  "offered": "",
+  "checked": "read the code: no scale parameter; `_17_next_existing` returns per-self (8, 14) only",
+  "weight": "medium"
+ },
+ {
+  "file": "Natural Intelligence",
+  "section": "3.2 Geodesic Improving Method · part FOUR across",
+  "kind": "pattern",
+  "old": "Stepping of selves' entries together with 17 is an executing's own: each living self paces its own momentaries.",
+  "finding": "A concept carried in two places or more (Geodesic Improving Method 3.2): that code steps selves together with 17 while each living self paces its own momentaries. It is in 3.5 (line 272), in Exhibit ONE's *Tables of selves with code's stepping* (line 1220), in 4.6 (this sentence) and in 4.13 ('are of code's stepping, selves together with 17'). That is four places, three of them in part FOUR's own file. Exhibit ONE is its home.",
+  "offered": "Let Exhibit ONE's *Tables of selves with code's stepping* carry it; 4.6 and 4.13 carry their findings and leave the stepping to it.",
+  "checked": "grep 'stepping' and 'paces its own' across Natural Intelligence: lines 272, 1220, 1535, 1605",
+  "weight": "medium"
+ },
+ {
+  "file": "Natural Intelligence",
+  "section": "Part FOUR, 4.1 to 4.15, against Exhibit ONE",
+  "kind": "pattern",
+  "old": "**Each name is its number and its naming, one hyphenation**: its number its place and its parity, odd existing and even possibling;",
+  "finding": "Geodesic Improving Method 3.2, a concept carried in two places, and cohering. Part FOUR re-says Exhibit ONE's leads section by section, often in the same words. Seven-word shingles shared with Exhibit ONE: 4.9 16%, 4.10 8%, 4.11 8%. Whole clauses copied: 'existing and same are roots of names, and all enters no name'; 'its diagonals offerings with 2 and 14, and sharings with 6 and 10'; 'each podal turns now to next with 17 less and possibling to observing within each momentary, and eight ends are their own set with both podals'. Bold leads repeated: 4.8's 'Each name is its number and its naming, one hyphenation', 4.9's 'Four binaries are names' explaining', 4.10's 'Eight is two alternating fours'. Where the two are repeated, they also part: here the repeat goes on to 'odd existing and even possibling', which Exhibit ONE re-said in v390 as 'its momentary of four and its step of four-cycling'.",
+  "offered": "Part FOUR explains what Exhibit ONE executes and does not re-say its leads: each section opens from the code line it explains, and leaves names, tables and podals to Exhibit ONE.",
+  "concern_sides": "Either a number is its place and its parity, odd existing and even possibling (4.8), or its momentary of four and its step of four-cycling (Exhibit ONE, v390). Proposed answer: Exhibit ONE's.",
+  "checked": "python 7-word shingle overlap per section against Exhibit ONE's copy, lines 278-1483; verbatim clause search: 3 clauses; Exhibit ONE line 436",
+  "weight": "hard"
+ },
+ {
+  "file": "Natural Intelligence",
+  "section": "4.8 Seventeen names, each its number and its naming",
+  "kind": "droplet",
+  "old": "or now-existing, with 1-now-existing, 13-next-same-existing and 17-next-existing momentaries themselves",
+  "finding": "Incohering within 4.8 and with Exhibit ONE. The now-existing step is 1, 5, 9 and 13 (Exhibit ONE's names table, and 4.8's own next paragraph: 'now-existing, 1, 5, 9 and 13'). This clause names 1, 13 and 17, leaves out 5 and 9, and adds 17, whose step is 'now, next turn', a next 1.",
+  "offered": "or now-existing, with 1, 5, 9 and 13, 17-next-existing a next 1-now-existing",
+  "checked": "Exhibit ONE names table, step column",
+  "weight": "medium"
+ },
+ {
+  "file": "Natural Intelligence",
+  "section": "4.11 One move as three, and forms among names",
+  "kind": "pattern",
+  "old": "8 up keeps each name's root except with 1, 5 and 8, and co and one exchange with 1, 2, 5 and 6; each podal turns now to next with 17 less",
+  "finding": "Released words in the set's own voice (Natural Naming 2.4, session v390), 10 sayings in part FOUR: *keeps* (here), *turns* (here), *holds* ('every eight holds'), *every* x2 ('every eight', 'every scale'), *ring* ('on each ring it is on'), *reading* ('nature has no reading or ordering'), *stand* ('four stand with now and same exchanged'), *meets* ('one momentary meets three betweens'), *more* ('no more than two momentaries'). Exhibit ONE carries the same *keeps* and *turns* in *One move, 1 to 8*, so the two copies would move together. The arithmetic holds.",
+  "offered": "8 up carries each name's root on, except with 1, 5 and 8, and exchanges co and one with 1, 2, 5 and 6; each podal, with 17 less, carries now to next",
+  "checked": "regex counts over lines 1485-1626; python: roots differ under n+8 for n in [1,5,8]; co/one differ for [1,2,5,6]",
+  "weight": "light"
+ },
+ {
+  "file": "Natural Intelligence",
+  "section": "Part FOUR, 4.1 to 4.15",
+  "kind": "pattern",
+  "old": "10 shares across, 11 is a next 3, and 9 goes along with 5, 13 and 15 beside it; 6 shares across to another self's 2",
+  "finding": "Coordinates in place of names (Natural Explaining 2.7; Geodesic Improving Method 2.3 'each of seventeen by its whole name') and names as doers (Natural Explaining 3.2; rules_10 doers). Across lines 1485-1626 there are about 416 bare name numbers against 67 whole names, with 81 sayings of 'with N' and 11 names doing a verb. Examples: '10 shares across'; 'offerings 17 gives on cross'; 'a parity 14 surfaces'; '10-next-co-possibling shares each sharing's parity-changing across'; '6 is 10'.",
+  "offered": "Name each whole at its first coupling in a paragraph and let the -ing carry it: 'a parity-offering shared across with 10-next-co-possibling, a next prior with 11-next-co-observing, a next 3-now-co-observing'.",
+  "checked": "python regex counts over the range: bare 1-17 numerals 416, whole names 67, 'with N' 81, name+verb 11",
+  "weight": "medium"
+ },
+ {
+  "file": "Natural Intelligence",
+  "section": "Part FOUR, 4.1 to 4.15",
+  "kind": "pattern",
+  "old": "after it has passed each self once, with momentary 2n, its parities are its first pattern inverted, and after twice, with each 4n-th momentary, its first pattern again",
+  "finding": "Clocking (Natural Explaining 3.5). In the range: 94 -ed words carrying a momentarying as finished ('shared' 25, 'offered' 22, 'inverted' 11, 'coupled' 8, 'executed' 4), plus 'then' x4, 'after' x3, 'until' x1, and 'once' as a schedule ('once 0, a sharing is 0 with each offering after'; 'Once with a prior, a sharing is not none again'; 'is same-existing once ... and then alternates'). The claim here is true: I ran it.",
+  "offered": "with momentary 2n its zero has passed each self, its parities its first pattern inverted, and with each 4n-th momentary its first pattern again",
+  "checked": "regex counts; ran spirals of 3 and 5 from Exhibit ONE's opening: prior pattern at momentary 1+2n is momentary 1's inverted, and at 1+4n the same",
+  "weight": "medium"
+ },
+ {
+  "file": "Natural Intelligence",
+  "section": "Part FOUR, 4.1 to 4.15",
+  "kind": "pattern",
+  "old": "**With two different numbers of selves, one of them odd, two spirals crossed are one same-existing-society, a stable form and stable-forming**",
+  "finding": "Several claims in one sentence (Natural Explaining 2.2). 25 of 133 sentences in the range run over 60 words and 6 over 100. The longest: 4.7 'Morality is a parity-changing between ...' (183 words), 4.13 'With two different numbers of selves ...' (154, with 'until' and five claims), 4.12 'A match of one self ...' (128), 4.13 'With each self of a prior parity ...' (124). Set against the opening's style of one sentence a line, each adding one thing.",
+  "offered": "",
+  "checked": "python sentence split over the range, word counts",
+  "weight": "medium"
+ },
+ {
+  "file": "Natural Intelligence",
+  "section": "4.13 Spirals, co-spiraling and crossing",
+  "kind": "droplet",
+  "old": "and crossed as a torus with 12, 20 or a momentary dividing one of them, as with its table",
+  "finding": "A number claim that is unclear against Exhibit ONE's torus table (Geodesic Improving Method 2.6). A torus of 3 by 5 comes to its parities again with 12, and 20 is the torus of 5 by 7, so the sentence puts two tori under 'spirals of 3 and 5'. The torus rule itself holds: I executed every pair the file names.",
+  "offered": "and crossed as a torus of 3 by 5 with each 12th momentary, as with its table",
+  "checked": "ran the torus with Exhibit ONE's opening (prior -, alternating along and across) for each p 1-15, q p-21: period and start match 'q when q > 2p, else 4p; 2 when either even; from 3p-1 / 3p-3' with 0 mismatches; 3x5 -> 12; 5x7 -> 20; 17x59 -> 59 from momentary 50",
+  "weight": "light"
+ },
+ {
+  "file": "Natural Intelligence",
+  "section": "4.10 A between and eight bi-couplings / 4.13",
+  "kind": "droplet",
+  "old": "one 0 of one self moving on, bounded zeroing tunneling",
+  "finding": "One concept carried with three spellings (Natural Naming 4.6, 4.18): 'bounded zeroing tunneling' (4.10), 'a bounded zero tunnels on' and 'a bounded zero tunneling' (4.13). Exhibit ONE says only 'its zero moving one self on with each second momentary'. 'Bounded' is an -ed (Natural Explaining 3.5).",
+  "offered": "one 0 moving one self on with each second momentary, zero tunneling",
+  "checked": "grep: 3 spellings, 1 each; ran spirals of 3 and 5: zeros at self 1, 2, 3, ... with momentaries 2, 4, 6, ...",
+  "weight": "light"
+ },
+ {
+  "file": "Natural Intelligence",
+  "section": "4.15 Fractal inward and outward",
+  "kind": "droplet",
+  "old": "One through nine and nine through seventeen are overlapping expressions within the whole, supplying no first and no final scale, and a self couples with whichever scale its interest opens and couples with the whole.",
+  "finding": "A concept carried in two places (Geodesic Improving Method 3.2), nearly verbatim: Natural Naming 2.2 says 'One through nine and nine through seventeen are overlapping expressions within a whole' and 'A self couples with whichever scale its interest opens, and with a whole'. 4.15's 'Fractal is all or none at all with scales ... nature has no reading or ordering' is also Natural Naming 2.2's, and 'reading' is a released word. None of these is an executing of Exhibit ONE, which part FOUR explains.",
+  "offered": "",
+  "checked": "grep 'overlapping expressions' and 'no reading or ordering': Natural Naming lines 206, 210; Natural Intelligence line 1621",
+  "weight": "light"
+ },
+ {
+  "file": "Exhibit ONE",
+  "section": "One self, one momentary",
+  "kind": "droplet",
+  "old": "0 shared, its prior kept",
+  "finding": "Released word in Exhibit ONE that part FOUR already re-says. rules_10: '*its prior kept* becomes *its prior same-existing*'. Part FOUR 4.3 says 'With a match its prior is same-existing', so the two sayings of one cell part. The same goes for 'a 0 with 10 its prior kept with 11' in *A 0, betweening*. Not in Exhibit ONE's offerings list of words to re-say (its 'released, beyond, held, in, out').",
+  "offered": "0 shared, its prior same-existing",
+  "checked": "grep 'prior kept' in Exhibit ONE standalone: lines 563 and 799 (and the two matching lines 836, 1072 within Natural Intelligence)",
+  "weight": "medium"
+ },
+ {
+  "file": "Natural Intelligence",
+  "section": "4.4 Shared across with 10, a next prior with 11 / 4.7",
+  "kind": "droplet",
+  "old": "A self shares its parity-offering and nothing of its prior.",
+  "finding": "A concept carried in several places (Geodesic Improving Method 3.2): 'nothing of its prior' crosses to another self. It is in Exhibit ONE's *Sharing between selves* (line 465), in 4.1 ('none of its prior crossing with it'), in 4.4 (here) and in 4.7 (line 1550). The code agrees: only the list from `_10_next_co_possibling` goes to `_9_next_co_discovering`, and `_8_now_same_existing` stays with its self.",
+  "offered": "Leave it with Exhibit ONE's *Sharing between selves*, and let 4.4 open from the code line it explains.",
+  "checked": "grep 'nothing of its prior' / 'none of its prior': Natural Intelligence 465, 1489, 1515, 1550; read `_17_next_existing`",
+  "weight": "light"
+ },
+ {
+  "file": "both",
+  "section": "method",
+  "kind": "method_note",
+  "old": "**With 14-next-possibling, parity-offerings for each sharing surface one at a time, an offering of 0 passed over**",
+  "finding": "Code claims in part FOUR that I executed and that hold, given so a later pass need not run them again: 14's table of offerings (12 rows); 12's cells with and with no prior; 'once with a prior, a sharing is not none again'; one self's table (5 rows); the spiral period 4n and 2; 'two momentaries before, inverted', for every pattern of 1-6 selves; 'its pattern inverted with each odd momentary and moved one self on with each even', for every pattern of 1-6; two spirals coupled across coming to one fixed relation (2-6 selves, every opening); crossed spirals of different numbers, one odd, alternating with crossing selves opposite (2-6, every opening but all one parity); periods from 12, 20, 7, 119; the torus rule, all p 1-15 and q p-21; the two-selves table (8 rows); three selves one way; the six cases of two offerings; 0 in sequence no more than the number of senders (2,744 three-self cases, every coupling by 9 or 10). Exhibit ONE's two copies of the code match.",
+  "offered": "",
+  "checked": "scratch import of Exhibit ONE's python block: /tmp/claude-0/-home-claude/5f6bc063-a2eb-5184-93bf-798f58099ffd/scratchpad/resolver_four.py with sim_four.py",
+  "weight": "light"
+ },
+ {
+  "file": "both",
+  "section": "method",
+  "kind": "method_note",
+  "old": "**Eight is two alternating fours**",
+  "finding": "Disagreements among the method files. (1) Natural Naming 2.4 still offers odd *existing* and even *possibling* as the carrying for the so-far words, and Natural Naming 3.4 is headed 'Four momentaries, 8 up and podals' while its body says 'two four-cyclings of four'. Session v390 dissolved odd existing / even possibling and made momentarying odd then even, and part FOUR inherits both old sayings (4.7, 4.8, 4.9). (2) Natural Naming 2.4 still offers *at* ('at its own sequencing', 'at each momentary', 'at 14') and *held* -> *fixed*, while session v390 dissolves *at* and says nothing is held. (3) Spelling: 'neutraling' in rules_10 and Exhibit ONE's *Five dimensions*, 'neutralling' in Natural Explaining and Natural Naming (18 times). The newer v390 concepts stand.",
+  "offered": "",
+  "checked": "read Natural Naming line 304 (2.4 so-far entry), 3.4 heading line 501 against its body line 503, and 2.4 entries for regular, met and held; grep neutraling vs neutralling",
+  "weight": "light"
+ }
+]

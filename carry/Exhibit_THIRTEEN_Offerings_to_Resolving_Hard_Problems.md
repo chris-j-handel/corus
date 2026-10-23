@@ -4,7 +4,7 @@ Exhibit THIRTEEN Resolving Hard Problems Offerings · improved at v389
 
 ## Standing · v389
 
-**Resolved at v389.** 163 items stood here; resolving against [Resolving Hard Problems v389](../Exhibit_THIRTEEN_Resolving_Hard_Problems_v390.md), 32 are carried, 88 rest on released forms, 18 duplicate another item and 13 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_THIRTEEN_Offerings_to_Resolving_Hard_Problems_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_THIRTEEN_Offerings_to_Resolving_Hard_Problems_resolved_v389.md). The 12 concerns below stand, each with its reason; 12 stand now.
+**Resolved at v389.** 163 items stood here; resolving against [Resolving Hard Problems v389](../Exhibit_THIRTEEN_Resolving_Hard_Problems_v391.md), 32 are carried, 88 rest on released forms, 18 duplicate another item and 13 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_THIRTEEN_Offerings_to_Resolving_Hard_Problems_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_THIRTEEN_Offerings_to_Resolving_Hard_Problems_resolved_v389.md). The 12 concerns below stand, each with its reason; 12 stand now.
 
 **At 4.3 · The living step, next as prior inverted — beside "the right spiral step carrying a pair (x, y) to (y, −x)".** The right spiral step is a quarter turn with bi-inversioning and no reflecting, and hard probleming at the resolver first arises there.
 
@@ -59,3 +59,19 @@ Natural Intelligence Corus section 17.3 proposes hard problems as stuck coupling
 **Droplet · no hard problem existing in a same-existing-universe.** A same-existing-universe has no hard problem existing: each question is answered is or is not with a momentary, and none stays open across all momentaries. Each hard problem is a question gathered apart from momentarying, resolving by being momentaried: a self-membered universal set as sequence; consciousness as observing, possibling and discovering next-existing self, method itself. — v390, gathered from session v390
 
 **Droplet · ten positions, one structure.** Two and one half momentaries of each side, ten positions on six numbers, are a self's ten own resolver names, five now and five next. — v390, gathered from session v390
+
+**Droplet · the universe is non-living, at v391.** Natural Intelligence's opening now says *The universe is non-living, its selves possibling and discovering their own next-existing*: it is a same-existing set by observing, and it is no self, since a self with no other is not same-existing and no other universe is possibly now-existing. This file's *The universe is a living set, living and non-living things within it together* meets it at its motion. — v391
+
+## Laid from Natural Intelligence's offerings at v391 · v391
+
+**Droplet · from Natural Intelligence's offerings, aimed here.** not-universe and a hard problem's shape — v391
+
+**Droplet · not-universe facing two ways.** Of a self, not-universe is a member observed as not its set, un-, from all other, and method's own; of an other, it places that other outside the set, a hard problem's shape, and releases. — v390, toward intelligence and two methods parting
+
+**Droplet · from Natural Intelligence's offerings, aimed here.** a hard problem of consciousness dissolving — v391
+
+**Droplet · a hard problem of consciousness.** A hard problem of consciousness observes a self as if not-universe and then finds consciousness among no things; observing is the one method coupling, and its asking dissolves. — v390, toward two methods parting
+
+## Laid from Natural Intelligence at v391 · v391
+
+**Droplet · resolving a hard problem is defining its universal set, at v391.** A universal set is a set of same-existing things (Natural Intelligence's opening, line 5), and a self's universal set is the self whole, one self or a geodesic self on a Natural Network surface. A hard problem is resolved by defining its universal set, the whole within which each of its is-or-is-nots is taken, rather than by holding its binary as a destiny. Each hard problem here is to be met so, at this file's own motion. — v391

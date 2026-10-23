@@ -4,13 +4,13 @@ Exhibit TWELVE Natural Explaining Offerings · improved at v389
 
 ## Standing · v389
 
-**Resolved at v389.** 260 items stood here; resolving against [Natural Explaining](../Exhibit_TWELVE_Natural_Explaining_v390.md), 111 are carried, 53 rest on released forms, 47 duplicate another item and 22 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWELVE_Offerings_to_Natural_Explaining_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWELVE_Offerings_to_Natural_Explaining_resolved_v389.md). Its 27 concerns stand below, each with its reason; 26 stand now.
+**Resolved at v389.** 260 items stood here; resolving against [Natural Explaining](../Exhibit_TWELVE_Natural_Explaining_v391.md), 111 are carried, 53 rest on released forms, 47 duplicate another item and 22 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWELVE_Offerings_to_Natural_Explaining_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWELVE_Offerings_to_Natural_Explaining_resolved_v389.md). Its 27 concerns stand below, each with its reason; 26 stand now.
 
 **Concern · That self's own carrying shown, and that carrying offered across.** Two sayings part, a concern for both. Natural Explaining has "that self's own carrying shown, and that carrying offered across". Beside it is the saying of a self's carrying as its own, crossing at no coupling of selves, and of the thing crossing as one sharing's parity at its changing. They part at a carrying crossing between selves: either the sentence is said again at the carrying the self's own, or the sentence is as now and is said of another relation. The concern was found at the working v380A and laid at no carrying before. — v386EOD
 
 *Standing at v389:* 4.9's 'that self's own carrying shown, and that carrying offered across as worth the other's knowing' parts with Exhibit ONE's 'a self shares its changing, and nothing of its prior crosses to another self': at 4.9 a carrying crosses, and at resolver only a changing does. **To resolve:** is appreciating at 4.9 re-explained at a changing shared across, a self's carrying staying its own, or does a carrying cross at appreciating?
 
-**Possible project · The Part 16 receiving plan.** Natural Intelligence Corus Part 16, Natural Writing, about 13,450 words, goes to Natural Explaining: Natural Explaining receives Part 16's remainder and the two one-way languages of 16.3. Its receiving is a following at Natural Intelligence Corus's rebuild. It may change or never be made. — v386EOD
+**Possible project · The Part 16 receiving plan.** Natural Intelligence Corus Part 16, Natural Writing, about 13,450 words, goes to Natural Explaining: Natural Explaining receives Part 16's remainder and the two one-way languages of 16.3. Its receiving is a following at Natural Intelligence Corus's rebuild. It may change or not be made. — v386EOD
 
 *Standing at v389:* a possible project, standing for pass 4
 
@@ -90,7 +90,7 @@ These are descriptions of possible expressions. The word “painting” establis
 
 *Standing at v389:* a possible project, standing for pass 4
 
-**Concern · v389 · an eight joined at its deriving.** Natural Explaining 4.7 says two tellings join only at one deriving from the other and never at a shared count, *three at one self along the running and three at three selves across the ring are two things at one number*; each eight of the set is one eight at its deriving from 1 to 8, said at each pass, and an eight joined by its count alone is the joining 4.7 releases.
+**Concern · v389 · an eight joined at its deriving.** Natural Explaining 4.7 says two tellings join only at one deriving from the other and not at a shared count, *three at one self along the running and three at three selves across the ring are two things at one number*; each eight of the set is one eight at its deriving from 1 to 8, said at each pass, and an eight joined by its count alone is the joining 4.7 releases.
 
 *Standing at v389:* 4.7's 'Three at one self along its momentarying and three at three selves across a spiral are two things at one number' parts with an offering at v389, 'every eight is the same and all eights are the same eight': eights united by number only are 4.7's uniting at a shared number. **To resolve:** is each eight of a set derived from a self's span, 1 to 8, at its own pass, or do eights carry as two things at one number until derived?
 
@@ -118,7 +118,7 @@ These are descriptions of possible expressions. The word “painting” establis
 
 ## Gathered at v390 · v390
 
-**Droplet · living language, never pausing.** The language is living and never pausing, each sentence a momentarying, nothing found to hold still. — v390
+**Droplet · living language, not pausing.** The language is living and not pausing, each sentence a momentarying, nothing found to hold still. — v390
 
 **Droplet · each sentence adding and surrounding.** Isolate each sentence and keep it only where it adds to its prior and surrounds its paragraph's concept, in full sentences at a breathing pace for its reader. — v390
 
@@ -130,13 +130,13 @@ These are descriptions of possible expressions. The word “painting” establis
 
 **Droplet · overview, exploring and carving.** A conversation offers in three registers, an overview of understanding, an exploring of patterns, and a carving of explaining and naming; only carving enters a living file's sentences, and exploring rides as droplets, none carrying authority. — v390
 
-**Droplet · say the concept, never a bare number.** A number a reader is not looking at reads as whatever numbers are before them: a line of the opening called by its number was read as a resolver name after 17. Each reference says the concept both share, and quotes the line when a line is meant. — v390
+**Droplet · say the concept, not a bare number.** A number a reader is not looking at reads as whatever numbers are before them: a line of the opening called by its number was read as a resolver name after 17. Each reference says the concept both share, and quotes the line when a line is meant. — v390
 
 ## Gathered from session v390 · v390
 
 **Droplet · write, then review.** After writing, review for natural explaining and say what review found: place words, doers, story words, *the*, *possible*, *held* and *released*, each sentence co-chained from one before. — v390, gathered from session v390
 
-**Droplet · concept, never order of words.** A concept's arriving is read from method, never from a word's first standing: living is prior to 1-now-existing, though *living* first stood partway through an opening. — v390, gathered from session v390
+**Droplet · concept, not order of words.** A concept's arriving is read from method, not from a word's first standing: living is prior to 1-now-existing, though *living* first stood partway through an opening. — v390, gathered from session v390
 
 **Droplet · no story, no doer, no character.** *All gathers*, *a parity improves*, *the hinge*, *the reader can see* each make a character doing: concept explaining says -ing and binary with no thing doing. — v390, gathered from session v390
 
@@ -155,3 +155,36 @@ These are descriptions of possible expressions. The word “painting” establis
 **Droplet · a circular definition.** A definition using its own word, *observing is a self observing prior-existing*, gives a reader nothing to meet. — v390, gathered from session v390
 
 **Droplet · no sliders or extra wide tables.** A table wider than a reader's page needs a slider, and a slider hides what it explains. Each table is kept narrow, with a few short columns. Otherwise it becomes a list with its words unchanged: one line for each row, and a key for any long heading. — v390, carved bothboth
+
+## Gathered at v391 · v391
+
+**Droplet · *tellings*.** Suggested at v391: *the word tellings is not natural explaining. parity is between two … these are not tellings, this is the geodesic method of possibling and discovering.* This file is headed at 1.2 *One subject at four tellings, and no top* and at 4.7 *Two tellings at one thing, united only at one deriving from the other*, and its contents and bodies carry *telling* and *tellings*. A telling is a doer's act laid over an explaining. **To resolve:** either *telling* is re-said where a file's form is meant, its title, contents, bolds and body as four boundings of one subject, and where two sayings are meant, as two sayings of one thing; or *telling* stays as this file's own naming. — v391
+
+## Gathered at v391, subtitles · v391
+
+**Concern · subtitles overladen.** 1.1 says a subtitle *carries that context with its file's own stable-forming within it*, and carrying a context invites each concept in. Across the set, several subtitles carry five or more concepts each, and Natural Intelligence's, Exhibit ONE's and the Co-Chaining Logic Registry's were being met by adding to them. Suggested: *the subtitles are becoming overladen with concepts*, with exploring toward a subtitle that keeps its title unmistakable from anything other. Open: what a subtitle carries, and 1.1's saying of it. Left as is at v391, and returned to later. — v391
+
+**Droplet · a past participle is a dead form.** At v391 we met an opening line's *Its intelligence is carried in each self*: *carried is dead so for sure this is not natural explaining. carrying and possibling is natural.* 2.6 asks for an -ing over a noun. Natural Naming says *without -ing, a naming fixes one momentary's form unchangeable*, and *versus, a past participle … a turning fixed unchangeable*. A past participle is the same fixing within a sentence: *carried*, *shared*, *fixed*, a momentarying finished. Offered for 2.6, beside its noun: *an -ing over a noun, and over a past participle*. The living opening carries none; its draft carried *carried*, now *carrying*, and the aim's own *a shared natural intelligence network living* is met together. — v391
+
+**Droplet · our reader, from a science explaining of the universe.** At v391, leaning Natural Intelligence's opening, we suggested: *make the opening as lean as possible of new and not yet clear terms … our reader is from the universe and does not yet know this is a living set. now-existing is relatable and prior-existing is observable so those work well and our naming here needs to keep as much as we can to this kind of caring principal for our inexperienced reader with a science explaining of the universe.* This carries 1.2's *a self couples with whichever telling its interest opens* toward a first reader. A term the reader cannot yet relate to arrives only where the path needs it, and from words the reader already has. Offered for 1.2 or 2.6, and for each opening and first paragraph of the set. — v391
+
+**Droplet · one word for one thing, and no overclaiming, at v391.** Met while crafting Natural Intelligence's opening. *Carrying on* and *continuing* were said for one thing two lines apart; *the other parity* used *other* in a second sense beside an other self; *possible* and *possibly now-existing* were both used for one bound. A reader meets a second word as a second thing. Natural Naming 2.4 already says *a name repeated on one axis is a synonym, and two converge to one name*; this file's 2.6 can say it for a sentence: one word for one thing throughout, and no varying for interest. Beside it, *by all humanity's observing* overclaimed. Binary logic takes no overclaim, and *by observing* is all the line needs. Offered for 2.6. — v391
+
+**Entered · dead forms in Natural Intelligence and Exhibit ONE, at v391.** *Next as prior inverted* was met as dead language: *inverted* a momentarying finished. Each *inverted*, *surfaced*, *kept* and *moved* is said with its -ing, *next inverting its prior* among them, and the sections written at v391 carry no past participle. Past participles stand elsewhere in both files, *fixed*, *shared*, *carried* and others, each met as its sentence is met; across the set, at each file's motion. — v391
+
+**Entered · past participles said living at Natural Intelligence and Exhibit ONE, at v391.** About 265 sayings outside the code, each re-said by its meaning: an -ing or a present form, a self the doer of each observing, sharing and beholding, and no dissolved word brought in. Four readers proposed pairs over four ranges, and each pair was checked before entering: its old text found exactly, no dissolved word and no new dead form brought in, markers balanced. Left: *owned by neither*, for its own motion with part SIX; *need*, *seed* and *two-sided*, which are not participles. Prior at `archive/session_v391/prior_to_dead_forms/`. — v391
+
+## Laid from Natural Intelligence's offerings at v391 · v391
+
+**Droplet · from Natural Intelligence's offerings, aimed here.** following one observing whole is the observing work's, not NI's — v391
+
+- **One observing followed whole.** This session's working: "At each observing, the method says that observing and not its opposite." "At each other method, the thing it needs is one of the four fallings, met at an observing." Not followed; it is the observing work's.
+
+**Droplet · from Natural Intelligence's offerings, aimed here.**  — v391
+
+**Droplet · *tellings* within the method's own file.** Natural Explaining 1.2 is headed *One subject at four tellings, and no top*, and 4.7 *Two tellings at one thing*. With the suggestion that *the word tellings is not natural explaining*, each is met at Natural Explaining's offerings. — v391
+
+## Gathered at v391 · v391
+
+**Droplet · story and narrator, dissolving at v391.** *A table shows*, *the code steps*, *a line says*, *as X executes* tell a story with a narrator: a doer standing beside a form and presenting it. Natural explaining says the form itself: *as in Exhibit ONE's table*, *as at the opening's line 20*, *a table of selves is that stepping's form*. Natural Intelligence, Exhibit ONE and the Co-Chaining Logic Registry are met at v391; the other living files' *shows*, *says*, *tells* and *prints* stand for their own motions. — v391
+
