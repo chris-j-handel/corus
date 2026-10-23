@@ -126,7 +126,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
         *Adding: natural intelligence, the method of living.*
 
-16. Living is **co-intelligencing** of a self and its others within a universal set.
+16. Living is **co-intelligencing** within a universal set.
 
         *Adding: co-intelligencing, living within a universal set.*
 
