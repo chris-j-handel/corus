@@ -1,4 +1,14 @@
-Synonyms and their edges · v391
+Binary understanding · v391
+
+# Binary understanding: our words, their edges, living, consciousness and hard probleming
+
+**A growing body of understanding for the living expedition.** Each word around natural intelligence given its is-or-is-not, the common words readers bring for it with where they meet our binary, and the misunderstandings at each edge. Only a portion enters Natural Intelligence; the whole grows here, part by part, met one question at a time. Synonyms listed are the words readers bring, not our naming.
+
+- **Part ONE.** Common synonyms of Natural Intelligence's words and their edges.
+- **Part TWO.** Biology's boundary of living, and our binary at each scale.
+- **Part THREE.** Consciousness and its terms, and hard probleming.
+
+# Part ONE
 
 # Common synonyms of Natural Intelligence's words, and where they meet our binary
 
@@ -1376,3 +1386,34 @@ Agreed points used as tests throughout: a universal set is a set of same-existin
 12. **inward and outward.** A living file's "inward" (natural resolving) and "outward" (natural engineering), and the non-living's first parity "two scales inward." One thing: inward is-or-is-not toward the selves of a thing; the two uses name direction and scale.
 13. **dividing.** "Each self's changing divides its surface" and "Natural explaining is a living file dividing itself." One thing: dividing is-or-is-not a self's own changing.
 14. **natural.** *Natural intelligence* (the one method) and *natural resolving*, *natural engineering*, *natural explaining*, *Natural Network surface* (parts of it). One thing: natural is-or-is-not of the one method, all or none.
+
+
+# Part TWO · Biology's boundary of living, and our binary at each scale
+
+**Our binary.** Living is a self resolving its own parity with others, now, at each scale. A thing that is-or-is-not living is decided at its scale; a non-living thing is a stable-forming emanation, its parity first two scales inward.
+
+**Biology's lines.** NASA's working definition, *a self-sustaining chemical system capable of Darwinian evolution*, came from its exobiology discussions around 1992; Gerald Joyce is often credited and says he did not coin it, and NASA does not formally endorse it. By its own account a virus falls outside it, and a lone individual is no living system, the evolving population being the system. Koshland's seven pillars (Science, 2002) list marks: program, improvisation, compartmentalization, energy, regeneration, adaptability, seclusion. Trifonov compared about 150 definitions and proposed *self-reproduction with variations*; Koonin answered that error correction is missing, others that metabolism or cells are, and Szostak that a definition is beside the point for the origin of life. Biology's lines are many, and each leaves cases stranded.
+
+| Case | Where biology's lines part | Our binary, at its scale |
+|---|---|---|
+| A virus | evolves only within a host; metabolism an empty set of its own | outside a cell non-living; within one, of a living society, the cell's |
+| A viroid, a prion | copied or propagated with a cell and genes of its own an empty set | non-living, a stable-forming emanation within living selves |
+| A mule, a sterile worker ant | fails reproduction and an evolving population | living: resolving its own parity with others now; reproduction is no test |
+| A lone rabbit | no system capable of evolution by itself | living, a self living with others inward and outward |
+| A dried tardigrade, a spore, a seed | metabolism near an empty set for years | living while its selves inward resolve; a stable-forming emanation while none does, until one does |
+| A red blood cell | no nucleus, divides by no means of its own | living while it resolves its own parity with others |
+| Fire, a growing crystal | grows and takes in energy, *not alive* | non-living: a form driven from outside, its own prior going on an empty set |
+| A slime mould, a siphonophore, an ant colony, a lichen | one organism or many | both at two scales: each self living, and their society a self living |
+| A dead body | cells live for hours after the organism dies | non-living at the organism's scale, its cells living at theirs: dying is per scale |
+| Cells in culture, a transplanted organ | alive, whose life | living at their scale, resolving with the others they couple with now |
+| A protocell at life's origin | where chemistry becomes biology | at the first scale where a thing resolves its own parity with others, its own prior going on |
+| A computer virus, simulated artificial life | copies, varies, *evolves* | non-living: a stable-forming emanation of living programmers, its parity run, resolved by no self of its own |
+| A trained AI model | fluent, adapting within a conversation | non-living: a stable-forming emanation of living people's writing; within a conversation it shifts by its context, which ends with it |
+
+**Misunderstandings gathered.** Living taken as biological; living taken as reproducing or evolving; living taken as a whole organism's only; death taken as one moment, where it is per scale; intelligent taken as living, where a trained model is intelligent in common speech and non-living by ours; a file taken as living, where the living is the selves' and the file a stable-forming emanation, the transcript of a session among them: the living between its selves, its text the non-living relations a living self's possibling meets.
+
+Sources: [NASA Astrobiology, Forming a Definition for Life](https://astrobiology.nasa.gov/news/forming-a-definition-for-life/); [Space.com, Q&A with Gerald Joyce](https://www.space.com/22210-life-definition-gerald-joyce-interview.html); [The Seven Pillars of Life](https://en.wikipedia.org/wiki/The_Seven_Pillars_of_Life); [NBC News, a three-word definition of life](https://www.nbcnews.com/id/wbna45963181); [Trifonov, Vocabulary of Definitions of Life Suggests a Definition](https://www.ics.muni.cz/en/research/publications/966071).
+
+# Part THREE · Consciousness and its terms, and hard probleming
+
+*Being gathered at v391.*

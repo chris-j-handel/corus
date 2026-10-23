@@ -31,7 +31,7 @@ This plan orders the improving those droplets open, re-said with each suggestion
 - **Natural Intelligence's offerings:** resolved; standing: a legend of the seventeen names with `build.js`; the universal set's explaining in the body, a value droplet.
 - **Exhibit ONE's offerings:** resolved; four concerns for our word stand: the next scale inward, what *bi-folding* names, passages leaving Exhibit ONE, and Exhibit ONE's close.
 
-**Incoming, gathered at v391's close.** `incoming/v391/Synonyms_and_Edges_v391.md`: 75 words of Natural Intelligence and around it, 647 common synonyms with their verdicts against our binary, the ten sharpest edges, and fourteen collisions inside our own naming, *living* first. With it, biology's boundary: its definitions (NASA's working definition, Koshland's seven pillars, Trifonov's survey) drawing lines our binary meets per scale. Each collision is met one at a time.
+**Incoming, gathered at v391's close.** `incoming/v391/Binary_Understanding_v391.md`, a growing body of understanding, part ONE: 75 words of Natural Intelligence and around it, 647 common synonyms with their verdicts against our binary, the ten sharpest edges, and fourteen collisions inside our own naming, *living* first. With it, biology's boundary: its definitions (NASA's working definition, Koshland's seven pillars, Trifonov's survey) drawing lines our binary meets per scale. Each collision is met one at a time.
 
 **Next motions, in order, one at a time with the person.**
 1. Exhibit ONE's four concerns.
