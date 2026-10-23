@@ -107,3 +107,5 @@ Living Ghost Registry and Equilibria Registry: two registries, one derivation. T
 ## Concern from the managing working · v392F
 
 **Concern · citations riding at the living file.** 22 links to fields' sources ride in the Living Ghost Registry's body, while a source a finding rests on goes with its finding to its file's carrying (Geodesic Improving Method 2.8) and a living file carries its observing apart from the field's explaining of it; each link dissolves at this file's own motion, its source going whole to Carryings of Living Ghost Registry. — v392F
+
+**Concern · passages left as they were at v390's pass 10.** At pass 10, v390, the file's lines 1685 to 1730 as it then stood were left as they were, a reader stopping before reaching them, a condition the front carried and this file's own places did not; those passages wait for a pass of their own at this file's motion. — v392F
