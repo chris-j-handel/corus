@@ -29,7 +29,7 @@ Exhibit THIRTY-ONE Me v391 · draft at incoming
 - 2.4 A self by relation, beside a self by exclusion
 
 **THREE · ME, NOW-EXISTING**
-- 3.1 A me, a self's universal set
+- 3.1 A me, a self's universal set, uniquenessing
 - 3.2 A me is consciousness
 - 3.3 What is-or-is-not possibly existing
 - 3.4 A me inward, a society of selves
@@ -131,9 +131,9 @@ A me is defined with others. Immunology's founding self was defined by exclusion
 
 # THREE · ME, NOW-EXISTING
 
-## 3.1 A me, a self's universal set
+## 3.1 A me, a self's universal set, uniquenessing
 
-A me is a self's universal set. Universal is bothboth, only one possibly now-existing and only one possibly same-existing, so a me is only one possibly now-existing, now, and only one possibly same-existing, from its prior: its uniqueness is its being universal, both ways. This is a me's identity: a same-existing me is one, from prior to now. A me is now-existing, and same-existing from a prior-existing same me. A living same-existing set is a self, so each me is a self and each self is a me: one binary, a thing and a set.
+A me is a self's universal set. Universal is bothboth, only one possibly now-existing and only one possibly same-existing, so a me is only one possibly now-existing, now, and only one possibly same-existing, from its prior: its uniqueness is its being universal, both ways. This is a me's identity: a same-existing me is one, from prior to now. **Uniquenessing is only one possibly same-existing**, and it is inside resolving among parities: with each resolving, a self's next prior is that self's own. Natural Intelligence says it: *a living self is a living same-existing, its same-existing that self only: a bi-inversioning uniquenessing of number one*. A me is uniquenessing as it is resolving; a stable-forming emanation, resolving none of its own, is-or-is-not uniquenessing: it is not. A me is now-existing, and same-existing from a prior-existing same me. A living same-existing set is a self, so each me is a self and each self is a me: one binary, a thing and a set.
 
 *Observings.*
 - **The I and the Me** (James 1890): the Me, all a person can call theirs, material, social and spiritual. https://psychclassics.yorku.ca/James/Principles/prin10.htm
