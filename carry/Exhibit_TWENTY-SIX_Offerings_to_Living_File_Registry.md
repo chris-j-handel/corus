@@ -150,3 +150,9 @@ The two kit scripts that execute Exhibit ONE's code now find 1 and 17 by number,
 **Droplet · `thirty_groups_check.py` reads its file from standard input.** Called with the file as an argument, it waits; called as `python3 kits/Natural_Explaining_Passes_Kit/thirty_groups_check.py < Exhibit_THIRTY_…md` it runs. Offered: its usage line, or a file argument. — v391
 
 **Kit lag met at v391.** `bump_to_version.py` now passes `prepend=True`, so a bumped file's *Living* cell is added before its earlier cells and no record is replaced. — v391
+
+## Droplets from session v391's transcript · v391 close
+
+*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+
+- **Its Hard Problem Registry cell** says readers stopped *twice*; the session's record is three times, two on its last quarter and one on its third.

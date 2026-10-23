@@ -52,3 +52,10 @@ Each sets a self and an other as two number lines, odd and even, overlapping one
 
 **Droplet · a lone self, living, at v391.** Natural Intelligence's opening line 24 is *Each parity is a self while it is living*, and living or non-living is beholding a parity at a scale or not, line 28. A spiral of one and a self with its possibling an empty set are selves living, their others inward; Natural Intelligence 2.4 says so now. This file's *A lone self's sequence goes on as a non-living now-existing form, Natural Intelligence 2.4* is for its own motion, said with it. — v391
 
+## Droplets from session v391's transcript · v391 close
+
+*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+
+- **At 2.6 · alike selves, a right spiral.** Two alike selves bi-coupling both ways step their priors (x, y) → (y, −x), a quarter turn each momentary, sharing in turn changing then 0: improving then do-no-harming. Opposite selves take a half turn; alike selves one way do not right-spiral.
+
+- **Standing at v391's close.** Its droplet citing *line 28, beholding a parity* is stale: *beholding* and pointing dissolved; living is co-intelligencing within a universal set.

@@ -237,3 +237,11 @@ The lived and engineering entries are two approaches through the reader's own co
 **Concern · not held by the code, at v391.** Engineering's position table, near its `co_bi_co_bi_co_corusing` and `bi_co_bi_co_bi_torusing` entries, names an older Exhibit ONE prefix table and says *This same position table is Natural Intelligence §5.10's and ONE's*. Natural Intelligence v391 has no 5.10 and Exhibit ONE no prefix-position table, and none of the seventeen names stands for either naming. Either the table is re-said with the seventeen names and its citation dropped, or it leaves whole for the archive. Its lines stand as they are. — v391
 
 **Resolved by the code, at v391.** The position table's citation of Natural Intelligence 5.10 and Exhibit ONE leaves, neither holding such a table; the table stands as Engineering's own naming, no line of resolver holding it. — v391
+
+## Droplets from session v391's transcript · v391 close
+
+*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+
+- **At 4.3 · a concern-journey is side-effecting.** Following a concern past a plan is the sensing, droplets brought back the returning, re-aiming the recursioning.
+
+- **Machines and AI non-living.** A trained model, a computer virus, artificial life: stable-forming emanations of living people; intelligence alone stand-alone knowledge; a self's relation to it the self's parity relative to it.

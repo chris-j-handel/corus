@@ -215,3 +215,9 @@ The current question is: **At the next colliding, which co-chaining of the inwar
 ## Decided at v391 · v391
 
 **Droplet · decided, for this file's motion.** *Substrate* dissolves from our naming at v391, and with it *a carry* and *riding its carry*: the concern standing here is decided, and its sayings are re-said by meaning at this file's motion, as Natural Naming's offerings record. — v391
+
+## Droplets from session v391's transcript · v391 close
+
+*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+
+- **A me's inward society.** The immune self (Burnet; Matzinger; Pradeu; regulatory T cells, Nobel 2025); autoimmune harm and cancer a self within a me parting its others; covert consciousness in about one in four unresponsive patients (Bodien et al., NEJM 2024). Observings at `incoming/v391/me_observings/me_obs_medicine.md`; Exhibit THIRTY-ONE Me.

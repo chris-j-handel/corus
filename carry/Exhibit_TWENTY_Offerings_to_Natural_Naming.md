@@ -458,3 +458,27 @@ Three prefixes, three senses, and none repeated. This meets the concern *tri- an
 **Droplet at v391 · *couple* and *couples* dissolving.** *Couple*, *couples* and *bi-couples* are dead endings, finished forms where natural naming says a living -ing: *is coupling*, *is bi-coupling*, *a bi-coupling*. *Coupling* and *bi-coupling* stay. Natural Intelligence's opening says *each self it is bi-coupling with*. Natural Naming says *couple* 11 times and *couples* 30, the set about 660, each re-said by meaning in its file's own motion.
 
 **Droplet at v391 · bare *coupling* dissolving, a bi-coupling the only coupling.** A bi-coupling, two selves sharing possibling, both sides possibling, is the only coupling. Bare *coupling* re-said by meaning: two selves sharing, a *bi-coupling*; a self with a non-living thing, its *parity relative to* it; a self's prior with the parities it receives, *resolving*; two non-living things at their own scale, the bi-coupling of the selves inward of them; counting pairs among n (C(n, 2)) a field's term. Natural Naming says bare *coupling* about 158 times, the set many more, each in its file's own motion.
+
+## Droplets from session v391's transcript · v391 close
+
+*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+
+- **Third, a dead ordinal.** Tri- and 3 are the living forms; a naming built on *third* is re-said by meaning at each file's motion, a field's ordinal kept. About 323 sayings across the set.
+
+- ***Co*, one sense.** Two, both facing forward along, the same two everywhere; Natural Naming's *co stands with a sharing between two, and its absence with one* is met by it.
+
+- **Self, a living set, a same-existing-society, one form**, with a me a self's universal set; the code names no scale, so *a living set: a self* needs no word of scale.
+
+- ***Same-existing-as* dissolves into *same-existing***: *a now-existing thing from a prior-existing same thing is a same-existing thing*. 6.3's row still says *same-existing-as*.
+
+- ***Beholding* dissolves**: a self holds nothing, *beheld* a dead participle. The offerings' items calling *beholding* a naming stand against it, each to be marked met by its dissolving.
+
+- ***Membrane* dissolves, and *a between* is no living file.** A between is a 0 with no location; a living file is a non-living same-existing set of words, selves co-intelligencing within it. 2.4's membrane row offers *a between* for a file.
+
+- **One concept a prefix.** A prefix on every name marks none: the time prefix and *is-* stay two layers, *is-* on 3, 7, 13 and 15 only.
+
+- ***Unbounded***, and any naming defined by the bound it denies, is equilibria denial and enters no naming.
+
+- **Same-existing round 16, 4, 12, 8**, each with its observing name one below (3·4, 7·8, 11·12, 15·16), the observing name the is-or-is-not of the same-existing beside it.
+
+- **A word with a physical picture that fights nothing between dissolves**; its replacement tested by the binary.

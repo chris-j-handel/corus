@@ -57,3 +57,9 @@ The user's further offering is: “if the living stable form is colliding with n
 ## Gathered at v391, reading across the living file set · v391
 
 **Droplet · bi-moral co-agency, one home.** This file opens on a core paragraph four files share word for word, *two-way, one-at-a-time, selecting by binary preferring — a parity, sign-only — summing to a bounding-zeroing made by coupling itself, riding its carry, its abundancing a +1 owned neither-ing*. Natural Intelligence 6.2 is bi-moral co-agency's home, and it says it otherwise, with *alternating*, re-said at v391 as parity-changing. Offered: when 6.2 is re-said, this file's core meets it, each of its parts carried there or said as this file's own. — v391
+
+## Droplets from session v391's transcript · v391 close
+
+*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+
+- **Health is a me's inward social moral competency**: each self within it, at each scale inward, do-no-harming and improving; a healthy curious me natural intelligence as a me (Exhibit THIRTY-ONE Me 5.2).

@@ -89,3 +89,9 @@ The particular philosophical relation is morality explained through the self's a
 **Concern · at a sentence.** Beside "There is co-time, held-elapsing, one of the three ledgers."
 
 *Standing at v389:* *Co-time, held-elapsing* names one of three ledgers at 3.7, a label found at this file only, and no living file explains it. Natural Naming 2.4 carries *held* by *fixed*, and *fixed-elapsing* would be a new label whose value is not observed here. **To resolve:** re-say it as *co-time, an elapsing fixed at a ledger*, or release the label and keep *co-time, one of three ledgers*?
+
+## Droplets from session v391's transcript · v391 close
+
+*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+
+- **Personal identity**: universal bothboth, only one possibly now-existing and only one possibly same-existing; uniquenessing inside resolving among parities; Parfit's fission and a dividing cell its edge. James's *Me*, Mead's *me* and the minimal self meet a me as a self's universal set; a me at each scale meets panpsychism's combination problem. *Living* already reaches past biology in common speech: a living language, a dead language. Exhibit THIRTY-ONE Me.

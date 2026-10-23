@@ -71,3 +71,9 @@ Contradiction, the living and the non-living: Natural Biology draws the line the
 **Resolved bothboth, v390 · chemistry's societies.** Every society of selves is a living self and a same-existing-society, and a non-living scale is always larger than a prime living scale. Natural Chemistry's *society* of selves is re-said as *same-existing-society*. — v390
 
 **Resolved bothboth, v390 · an atom's inception.** One universal method of conception: twin inversioning into bothbothing full parity of self and other, for humans, seeds and atoms alike. An atom is a newly-existing self within the method, and Natural Chemistry's *same-existing-society* for atoms and molecules stands. — v390
+
+## Droplets from session v391's transcript · v391 close
+
+*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+
+- **Its way in.** A field's observing pattern-matched with the resolver's entry, as Natural Physics does; Natural Chemistry has none yet.

@@ -218,3 +218,33 @@ Exhibit TWENTY-FOUR Geodesic Improving Method Offerings · improved at v389
 ## Decided at v391 · v391
 
 **Droplet · decided, for this file's motion.** *Carrying* dissolves at v391, the expedition's stage name with it: the concern standing here is decided, and the stage is re-said by its meaning at this file's motion, as Natural Naming's offerings record. — v391
+
+## Droplets from session v391's transcript · v391 close
+
+*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+
+- **At 4.5 and 3.5 · propose, read for harm by a separate reader, enter.** At every motion of v391 a reader who did not write the pairs read each in its whole sentence before it entered; it corrected between about 5% and 60% of pairs at each pass and dropped additions as filler. 4.5 places the observing for harm at a session's close; the practice places it before each entering, and a fresh whole reading after a large change.
+
+- **At 1.2 · the binary path for an unclear sentence.** Read the sentence before and after; find an all-or-none sequential path from prior to next without the unclear thing; if the paragraph goes whole without it, it leaves; only what neither the opening nor the code can carry goes to the person. Beside it, a test before defining or re-saying: is the line or word needed at all.
+
+- **At 2.5 · one question at a time.** The hardest, with a simple proposal or the place where no proposal yet exists; said in words the other self has, saying whether a wording or a concept is in question, the line shown within its whole sequence; alternatives when proposing, without asking to enter each; and the working resolving within itself what the binary, the numbers and the set's own living files can, reading it for harm, bringing the whole with its open places marked.
+
+- **At 2.5, 2.6 and 4.4 · the code's standing, one saying.** Code is an engineered emanation with no authority; its cycling is read as a pattern beside natural numbers, mathematics and the co-chaining logic, which resolve; no harness is built to pattern-match natural torusing. A renaming of the code itself stays checked identical before it enters. 2.5's *a side going with code is method's own* and *working first through Exhibit ONE's tables* invite the lean the session met at its correction.
+
+- **At 3.2 and 1.4 · dissolving a word across files in one motion.** v391 dissolved *never*, *itself*, *couple*, *couples*, bare *coupling*, *membrane* and others across Natural Intelligence, Exhibit ONE and the Registry in single motions: proposers by slice, separate readers for harm, one naming decision given to every parallel reader, a recount of what remains as each returns, a field's term kept, the rules and the entering tool naming the word the same day. 3.2's *one file per pass* and the plan's *other files outgoing* part from it; a motion kind of its own.
+
+- **At 2.2 and 4.3 · provenance before building.** Trace where an inherited sentence, table or word first entered before building on it: the odd and even pairing of four binaries travelled Registry, Natural Naming, Natural Intelligence 4.9, Exhibit ONE, a table titled as the code's with no code line making it. A citation chain is no derivation. Find where a word enters the opening before a proposal uses it.
+
+- **At 2.4 · a yes and the reading for harm.** A person's yes does not enter past a reading for harm that finds a contradiction; the working brings back the reader's path. An opening line is shown in its form and read for harm before entering; entering first cost three entries of one line at v391. 2.4's *no working edits an opening sentence on its own* parts from the person's asking that lines the binary settles be resolved by the working.
+
+- **At 2.6 and 1.3 · gathering and entering, two modes.** When the other self explores, the working gathers into an incoming body and stops asking where lines go; a side journey returns to the purpose it left for.
+
+- **At 1.6 and 4.5 · a session's close.** Re-read the session's own laid droplets for staleness (four had gone stale within v391); check sources a gatherer flagged as from memory before a file goes public; the plan holds the standing, the record of entering goes to the Session Record.
+
+- **At 3.1 · a new living file's birth.** Its title and subtitle tested as a bounded context; its contents floating the five dimensions; born with its four files, its Living File Registry entry and a build; its observings gathered in parallel by field, each with finders, meeting, misreading and source (Exhibit THIRTY-ONE Me at v391).
+
+- **At 4.4 · instruments.** A check that each file says what other files quote it saying (33 stale citations in seven files at v391, caught by no check); a kit fault that harms fixed before the kit's next use; a branch's upstream set after a shallow clone; a correction passed to a running reader by message.
+
+- **At 2.6 · two lists apart.** Gaps in prior rigor, incoherence already entered, and improving opportunities still open, kept as two lists.
+
+- **This file's own words.** It says *a surface dividing itself*, *itself* about 12 times, *couple* and *couples* 8, bare *coupling*, bare *harm*, *membrane* in part TWO's title, and *stable form emanatings*; each dissolved or re-named at v391 (*a surface's own dividing*, *bi-coupling*, *do-no-harming*, *a stable-forming emanation*). A living name for *read for harm* is open.

@@ -49,3 +49,11 @@ Exhibit NINE Natural Human Society Offerings · improved at v389
 ## Gathered at v390 · v390
 
 **Droplet · from now-existing human societies to natural human societies.** In the transition from now-existing human societies to natural human societies everyone has less power, no free agency, and less risk, bi-moral-co-agency. A note at its resolving: *less* is a measure the set releases, so its binary form may be no free agency and bi-moral-co-agency, each self's changing its own and its coupling owned by neither. — v390, toward natural human society and social moral competency
+
+## Droplets from session v391's transcript · v391 close
+
+*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+
+- **The opening's social chain**, as at Natural Societies: social moral competency, free, social abundancing, in the opening's words.
+
+- **Its *Conserve before improve, do-no-harming before add-value*.** Do-no-harming and improving are one bi-moral act, in turn, neither without the other, as two alike selves run 0, change, 0, change; a *before* meets that bothboth.

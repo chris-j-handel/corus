@@ -49,3 +49,9 @@ Natural torusing living is self-competent, and emanation from living is only soc
 **Concern · at a sentence.** Beside "Not a held thing."
 
 *Standing at v389:* "A definition is held" (Natural Emanating, The shortest sentence; Two Methods, The other method) becomes "A definition is fixed", while "Not a held thing. A made thing, still there, no longer being made" (Part Two, A definition) sets held against made. Carried as "Not a fixed thing", it would part from "A definition is fixed" at both. **To resolve:** "Not a thing kept fixed by a holder. A made thing, ..." or keep "Not a held thing" as it stands?
+
+## Droplets from session v391's transcript · v391 close
+
+*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+
+- **Exhibit ONE's code is an engineered emanation**, a non-living stable-forming emanation with no authority; its cycling read as a pattern beside natural numbers, mathematics and the co-chaining logic.

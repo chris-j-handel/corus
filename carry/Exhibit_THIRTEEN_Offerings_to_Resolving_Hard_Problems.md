@@ -75,3 +75,9 @@ Natural Intelligence Corus section 17.3 proposes hard problems as stuck coupling
 ## Laid from Natural Intelligence at v391 · v391
 
 **Droplet · resolving a hard problem is defining its universal set, at v391.** A universal set is a set of same-existing things (Natural Intelligence's opening, line 5), and a self's universal set is the self whole, one self or a geodesic self on a Natural Network surface. A hard problem is resolved by defining its universal set, the whole within which each of its is-or-is-nots is taken, rather than by holding its binary as a destiny. Each hard problem here is to be met so, at this file's own motion. — v391
+
+## Droplets from session v391's transcript · v391 close
+
+*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+
+- **Standing at v391's close.** Its droplet saying *The universe is non-living, its selves possibling …* is stale: the opening says *The universe is a non-living same-existing set.* and *Within the universe are living and non-living things.*, living co-intelligencing within it.

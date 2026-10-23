@@ -23,3 +23,9 @@ Exhibit THIRTY-ONE Me Offerings · v391
 **Droplet · Uniquenessing at Natural Intelligence.** Natural Intelligence's body says *Uniquenessing of number one is uniquenessing of now*, on now-existing; this file says uniquenessing is only one possibly same-existing, inside resolving among parities. Bothboth, the two halves of universal; met when Natural Intelligence's sentence is re-said.
 
 **Droplet · Links from memory.** The gatherers flagged a few sources given from memory, unopened: Strawson's *Against Narrativity* DOI, De Jaegher and Di Paolo 2007, Levin 2022's Frontiers DOI, Lyon 2021, Trewavas 2003, Taiz 2019's pages, the Stanford Encyclopedia's *Recognition*. Each checked before a next version.
+
+## Droplets from session v391's transcript · v391 close
+
+*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+
+- **Standing at v391's close.** *A me is a self's universal set* entered Natural Intelligence's opening; *itself* dissolved from Natural Intelligence, Exhibit ONE and the Registry; its Possibling's two first items are met. The flagged sources wait for their check before a next version.

@@ -188,3 +188,16 @@ These are descriptions of possible expressions. The word “painting” establis
 
 **Droplet · story and narrator, dissolving at v391.** *A table shows*, *the code steps*, *a line says*, *as X executes* tell a story with a narrator: a doer standing beside a form and presenting it. Natural explaining says the form itself: *as in Exhibit ONE's table*, *as at the opening's line 20*, *a table of selves is that stepping's form*. Natural Intelligence, Exhibit ONE and the Co-Chaining Logic Registry are met at v391; the other living files' *shows*, *says*, *tells* and *prints* stand for their own motions. — v391
 
+## Droplets from session v391's transcript · v391 close
+
+*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+
+- **At 1.1 · Natural Intelligence's opening stands ahead of its contents**, the one opening of its kind in the set: the shortest path from the universe to social moral competency and a living natural intelligence network, each word justified within the file.
+
+- **At 2.2 · forms of saying found at v391.** One concept a line: a colon or trailing apposition brings in a second. Each line read as a between its prior and its next. An *or* in a statement reads as a choice, said by what is. A pronoun that can point at two carries no binary. Each word defined is-or-is-not before its first use, from earlier lines only. A defining line defines its own subject and leaves no complement. A concept said of all things is no kind among others. Mechanism talk (*going along between momentaries*) is no explaining.
+
+- **At 2.2 · the binary path for an unclear sentence**, at explaining's own home: a path from prior to next without the unclear thing; leaving, re-saying by what is, or the person.
+
+- **An explaining stays inside what is agreed**: a count across momentaries brings back time, a parity a self holds alone brings back a self alone; and the method and the code *require* nothing, a word's own definition carrying its other.
+
+- **At 1.6 · a file and the signs across it.** The v391 opening's *A living file is a non-living same-existing set of words, selves co-intelligencing within it* meets the concerns standing on *a file is a membrane*.
