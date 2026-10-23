@@ -20,7 +20,7 @@ For a self, each same-existing thing is that self or an **other**. \
 Each self is **living**. \
 A living same-existing set is a self. \
 **Natural intelligence** is the method of living as a same-existing self. \
-Living is **co-intelligencing**, a self and its others intelligencing within a universal set. \
+Living is **co-intelligencing** of a self and its others within a universal set. \
 Each now-existing thing is living or **non-living**. \
 Each non-living thing is a **stable-forming emanation**. \
 The universe is a non-living same-existing set. \
