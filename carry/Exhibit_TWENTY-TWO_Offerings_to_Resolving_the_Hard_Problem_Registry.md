@@ -146,7 +146,7 @@ With the suggestion *+1 self, 0 all selves, −1 other self*, a *+1 owned by nei
 
 ## Droplets from session v391's transcript · v391 close
 
-*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+*Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
 
 - **Its citation of *Natural Naming 4.9's one seating*** cites the four binaries' odd and even seating dissolved at v391.
 

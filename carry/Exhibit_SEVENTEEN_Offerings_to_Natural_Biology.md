@@ -230,10 +230,10 @@ Natural Intelligence Corus section 17.4 offers comparative cognition as a place 
 
 ## Droplets from session v391's transcript · v391 close
 
-*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+*Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
 
 - **Dying has no line of resolver**: each self a table gives has its next entry; a self's dying is a living self going on as non-living, a stable-forming emanation.
 
-- **Biology's boundary of living, met per scale.** NASA's working definition, Koshland's pillars and Trifonov's survey draw different lines; living is decided at each scale (a mule, a red blood cell living; a virus outside a cell non-living at its scale); death per scale, the organism first then its cells; Levin's selves at each scale and Queller and Strassmann's organism as high cooperation and low conflict nearest. Case table at `incoming/v391/Binary_Understanding_v391.md` part TWO; observings at `incoming/v391/me_observings/me_obs_biology.md`.
+- **Biology's boundary of living, met per scale.** NASA's working definition, Koshland's pillars and Trifonov's survey draw different lines; living is decided at each scale (a mule, a red blood cell living; a virus outside a cell non-living at its scale); death per scale, the organism first then its cells; Levin's selves at each scale and Queller and Strassmann's organism as high cooperation and low conflict nearest. Case table at `incoming/v391/Binary_Understanding_v391.md` part TWO; observings at `archive/session_v391/incoming_v391/me_observings/me_obs_biology.md`.
 
 - **Living and non-living, one method of now-existing**, same-existing within universal sets; all living things selves, all selves living societies of selves; a non-living thing's parity first two scales inward.

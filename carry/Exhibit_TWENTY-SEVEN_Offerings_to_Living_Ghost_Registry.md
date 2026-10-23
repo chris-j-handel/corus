@@ -98,7 +98,7 @@ Living Ghost Registry and Equilibria Registry: two registries, one derivation. T
 
 ## Droplets from session v391's transcript · v391 close
 
-*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+*Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
 
 - **A citation chain grown into a code-titled table.** The odd and even pairing of four binaries travelled Registry, Natural Naming, Natural Intelligence 4.9, Exhibit ONE, a table titled as the code's with no code line: a still accounting installed by citing.
 

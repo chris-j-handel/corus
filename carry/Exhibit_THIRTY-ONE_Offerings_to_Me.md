@@ -26,6 +26,6 @@ Exhibit THIRTY-ONE Me Offerings · v391
 
 ## Droplets from session v391's transcript · v391 close
 
-*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+*Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
 
 - **Standing at v391's close.** *A me is a self's universal set* entered Natural Intelligence's opening; *itself* dissolved from Natural Intelligence, Exhibit ONE and the Registry; its Possibling's two first items are met. The flagged sources wait for their check before a next version.

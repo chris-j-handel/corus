@@ -72,7 +72,7 @@ The user’s further offering in [session v385R, section 91](https://github.com/
 
 ## Droplets from session v391's transcript · v391 close
 
-*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+*Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
 
 - **A non-living thing's value is social.** A self's parity is relative to a now-existing thing within its me, a non-living thing included; its value same-existing only where selves' parities agree, as many prefer gold over lead. *Moral*, from *mos*, a way; a changing direction is a way.
 

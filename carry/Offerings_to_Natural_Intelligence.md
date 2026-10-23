@@ -88,7 +88,7 @@ Bothboth at v391: the opening's 43 lines, each feature bold where it first welco
 
 ## Droplets from session v391's transcript · v391 close
 
-*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+*Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
 
 - **6.6 and the living file.** *Files of a living expedition are living files, a living expedition's prior same-existing* stands beside the opening's *A living file is a non-living same-existing set of words, selves co-intelligencing within it*: re-said with it.
 

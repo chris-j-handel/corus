@@ -92,6 +92,6 @@ The particular philosophical relation is morality explained through the self's a
 
 ## Droplets from session v391's transcript · v391 close
 
-*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+*Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
 
 - **Personal identity**: universal bothboth, only one possibly now-existing and only one possibly same-existing; uniquenessing inside resolving among parities; Parfit's fission and a dividing cell its edge. James's *Me*, Mead's *me* and the minimal self meet a me as a self's universal set; a me at each scale meets panpsychism's combination problem. *Living* already reaches past biology in common speech: a living language, a dead language. Exhibit THIRTY-ONE Me.

@@ -48,6 +48,6 @@ Exhibit SIX Natural Transmissioning Offerings · improved at v386EOD
 
 ## Droplets from session v391's transcript · v391 close
 
-*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+*Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
 
 - **Its way in.** A field's observing pattern-matched with the resolver's entry, as Natural Physics does; the resolver names used as tags meet that, each science file carrying its own way in.

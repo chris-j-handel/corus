@@ -74,6 +74,6 @@ Contradiction, the living and the non-living: Natural Biology draws the line the
 
 ## Droplets from session v391's transcript · v391 close
 
-*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+*Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
 
 - **Its way in.** A field's observing pattern-matched with the resolver's entry, as Natural Physics does; Natural Chemistry has none yet.

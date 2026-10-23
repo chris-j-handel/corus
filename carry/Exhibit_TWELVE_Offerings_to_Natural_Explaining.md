@@ -190,7 +190,7 @@ These are descriptions of possible expressions. The word “painting” establis
 
 ## Droplets from session v391's transcript · v391 close
 
-*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+*Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
 
 - **At 1.1 · Natural Intelligence's opening stands ahead of its contents**, the one opening of its kind in the set: the shortest path from the universe to social moral competency and a living natural intelligence network, each word justified within the file.
 

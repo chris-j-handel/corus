@@ -2,7 +2,7 @@ Natural Explaining Passes Kit · rules 13 · v391
 
 # Rules 13 · working together, learnt across session v391
 
-*Gathered at v391's close from a reading of the session's whole transcript (`incoming/v391/session_learnings/`). The person's words are suggestions, never authority; these are what the session found. Each stands beside the Geodesic Improving Method, whose offerings hold the same as droplets for its own motion.*
+*Gathered at v391's close from a reading of the session's whole transcript (`archive/session_v391/incoming_v391/session_learnings/`). The person's words are suggestions, never authority; these are what the session found. Each stands beside the Geodesic Improving Method, whose offerings hold the same as droplets for its own motion.*
 
 ## Questions and proposals
 

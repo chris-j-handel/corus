@@ -122,7 +122,7 @@ Concern, at v380, from [the earlier Natural Networking gathering](../archive/v38
 
 ## Droplets from session v391's transcript · v391 close
 
-*Gathered from a reading of the whole session (`incoming/v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+*Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
 
 - **Its *as with Natural Intelligence 4.9's four*** cites the four binaries' pairing that left Natural Intelligence at v391.
 
