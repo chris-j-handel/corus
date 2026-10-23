@@ -1416,4 +1416,921 @@ Sources: [NASA Astrobiology, Forming a Definition for Life](https://astrobiology
 
 # Part THREE · Consciousness and its terms, and hard probleming
 
-*Being gathered at v391.*
+Consciousness and its edges · v391
+
+## Consciousness, its related words, and hard probleming
+
+**Second part of Synonyms and Edges.** The first part is `incoming/v391/Synonyms_and_Edges_v391.md`. This part takes consciousness and the words around it, and the hard problems the Hard Problem Registry poses for them. The form and the four verdicts are the first part's:
+
+- **same**: it names exactly our is side.
+- **other side**: it names our is-not side.
+- **straddles**: common use covers both sides, or neither; the line says how.
+- **elsewhere**: it names another concept of ours; the line says which.
+
+Source: `Natural_Intelligence_v391.md`, lines 7–72, the opening, with the agreed points: living is a self resolving its own parity with others, now, at each scale; each parity is a self while it is living; all living things are selves, all selves living societies of selves; a universal set is a set of same-existing things, one for each self; each non-living thing is a stable-forming emanation, its parity first two scales inward; observing is prior-existing, possibling now-existing, discovering next-existing; a self holds nothing (no memory store, no contents kept); a trained AI model is a stable-forming emanation of living people's writing, non-living; is-or-is-not is the one negation, both its sides on one thing; resolving a hard problem is defining its universal set.
+
+**Reading the binaries.** Most words here are absent from the opening. Where a line of the opening fits, the binary is marked *candidate*: a proposal for the person, in the opening's words. Where none fits, the binary says so, and the verdicts are read against the nearest line it names and against the agreed points.
+
+**The hinge.** One decision stands under most of this part. The opening's nearest line to consciousness is the self line: "A self is a now- and same-existing thing observing, possibling and discovering its own next-existing." Taken as consciousness, it makes consciousness one with living, at each scale: a parity while living, a cell, a person, a society. Left apart, consciousness has no line in the opening. Candidates that rest on this decision are marked **(H)**.
+
+---
+
+## Part One · The terms
+
+## A · Consciousness and its names
+
+## consciousness
+
+**Binary.** *Candidate* (H): "A self is a now- and same-existing thing observing, possibling and discovering its own next-existing." A thing, at its scale, is-or-is-not observing, possibling and discovering its own next-existing. Is: a self, living. Is-not: a stable-forming emanation.
+
+| Synonym | Verdict | How |
+|---|---|---|
+| awareness | straddles | Close to observing; read as present-tense, and as one state of a person among others. |
+| sentience | straddles | Valenced feeling; nearest our parity, + or −. |
+| experience | straddles | A self's own momentary, or a store gathered over years. |
+| subjectivity | elsewhere | "That self", of "that self or an other." |
+| mind | straddles | A self's observing, possibling and discovering, or a container (first part). |
+| wakefulness | straddles | One state of a person; a sleeping person is living. |
+| phenomenal consciousness (Block) | straddles | What it is like, taken as an inner character held. |
+| access consciousness (Block) | other side | Contents held and made available for report. |
+| Cartesian theatre (Dennett's term) | other side | A container with a watcher inside; a self holds nothing. |
+| sapience | elsewhere | Intelligence. |
+
+**The edge.** Readers hold consciousness as rare: a mark of brains, of mammals, of humans. On the hinge, every self is conscious at its scale, and readers then hear panpsychism. Likeliest misunderstanding: that consciousness, so taken, belongs to each thing. It belongs to each self; a rock, a flame, a running computer, a trained AI model and the universe are each a stable-forming emanation, on the is-not side.
+
+## conscious
+
+**Binary.** As *conscious of*: see awareness. As a state of a person (awake, responsive): none in the opening yet. The one line at hand, "Each now-existing thing is living or non-living," puts a waking and a sleeping person on the same side.
+
+| Synonym | Verdict | How |
+|---|---|---|
+| awake | straddles | One state of a living self; the first part gives "awake / conscious" as one state of some selves. |
+| aware | elsewhere | Awareness. |
+| responsive | straddles | An index of bi-coupling with an examiner; the anaesthesia field records experience reported without it. |
+| alert | straddles | A degree. |
+| mindful | straddles | A trained, present-tense attentiveness. |
+| deliberate | elsewhere | Will. |
+| sentient | elsewhere | Sentience. |
+| alive | straddles | Read as one with awake; a sleeping person is alive. |
+
+**The edge.** "Conscious" names a state that comes and goes inside one living person; the opening's line holds through sleep. Likeliest misunderstanding: that losing consciousness is a step toward non-living.
+
+## unconscious
+
+**Binary.** None in the opening for the state. *Candidate*, from "Each self is a same-existing-society inside and outside itself": at the scale of a person with the others outside it, a bi-coupling is-or-is-not sharing possibling. The person is living on either side; its society inside itself goes on.
+
+| Synonym | Verdict | How |
+|---|---|---|
+| asleep | elsewhere | Sleep. |
+| comatose | elsewhere | Coma. |
+| anaesthetised | elsewhere | Anaesthesia. |
+| insensate | straddles | Read as lacking all observing; the person's selves inward observe. |
+| the unconscious (Freud) | other side | A store of contents kept below; a self holds nothing. |
+| subconscious | other side | Same store, a level beneath. |
+| nonconscious processing | straddles | A self's own resolving, read as computation on held contents. |
+| automatic | straddles | Read as a non-living mechanism. |
+| lifeless | other side | Names the non-living; an unconscious person is living. |
+
+**The edge.** Two words share one spelling: a state of a living person, and Freud's hidden store. Likeliest misunderstanding: that an unconscious self is less living, or keeps a store below its awareness.
+
+## awareness
+
+**Binary.** *Candidate*: "Observing is prior-existing, is-or-is-not same-existing." A self's awareness of an other is its observing of that other's prior-existing, is-or-is-not same-existing.
+
+| Synonym | Verdict | How |
+|---|---|---|
+| looking back | same | Of the prior, now (first part). |
+| noticing | straddles | Present-tense and mental. |
+| perceiving | elsewhere | Perception. |
+| attention | elsewhere | Attention. |
+| knowing of | elsewhere | Knowledge. |
+| mindfulness | straddles | A trained present-tense state. |
+| alertness | straddles | A degree. |
+| covert awareness (clinical) | straddles | A person's state found by instruments beside. |
+| situational awareness | other side | A model of the surroundings held. |
+
+**The edge.** Awareness is heard in the present tense. Likeliest misunderstanding: that to be aware is to see what is now. What a self is aware of is prior-existing.
+
+## self-awareness
+
+**Binary.** *Candidate*: the self line already says "its own". A thing is-or-is-not observing, possibling and discovering its own next-existing; each self, by the line, observes its own. Self-awareness is then each self, at each scale.
+
+| Synonym | Verdict | How |
+|---|---|---|
+| self-observing | same | A self's observing of its own prior. |
+| self-consciousness | straddles | Embarrassment, or a reflexive state of persons. |
+| reflexivity | straddles | Read as a second watcher turned back. |
+| introspection | other side | Looking into a held interior. |
+| mirror self-recognition | straddles | A test from beside, scored by a mark on the body. |
+| metacognition | other side | Thought about held thoughts. |
+| self-model | other side | A model held. |
+| sense of self | straddles | A feeling held, or a self's own observing. |
+| ego | other side | A held representation (first part). |
+
+**The edge.** Readers take self-awareness as rare, passed by apes and dolphins. On the self line it is the line itself. Likeliest misunderstanding: a second self inside, watching the first.
+
+## sentience
+
+**Binary.** *Candidate* (H): "A self's parity is its changing direction relative to an other existing thing, + or −." The field's *valenced* is our + or −. A thing is-or-is-not a self with a parity, + or −, with an other. Each living self has parities, so the set is the set of the living.
+
+| Synonym | Verdict | How |
+|---|---|---|
+| feeling | elsewhere | Feeling. |
+| valenced experience (Birch) | straddles | Valence is our + or −, read as a degree. |
+| capacity to suffer (Bentham) | straddles | A capacity held; suffering names one direction. |
+| affect | straddles | A state with sizes. |
+| sensibility | straddles | A trait of persons. |
+| nociception | straddles | A cell society's observing, read as mechanism without feeling. |
+| consciousness | elsewhere | Consciousness. |
+| sapience | elsewhere | Intelligence. |
+| moral patienthood | straddles | A standing given by a saying; ours, moral value is parity with an other. |
+
+**The edge.** Sentience is used as the line of moral concern. The first part said "sentient: not our test"; here the test stays a self, and on the hinge the set it names is the same. Likeliest misunderstanding: that we grade sentience by degree, or extend it to trained AI models, which are non-living.
+
+## experience
+
+**Binary.** *Candidate* (H): "Each momentary is opening with each self's prior-existing parity and completing with its next-existing parity." An experience is a self's momentary, opening and completing. Is-not: a store gathered.
+
+| Synonym | Verdict | How |
+|---|---|---|
+| undergoing | same | A self's own momentary. |
+| Erlebnis (lived experience) | straddles | Close; held as content. |
+| Erfahrung (experience gathered) | other side | A store over years. |
+| episode | straddles | A span of clock time. |
+| event | straddles | Can be one thing alone (first part). |
+| expertise / track record | other side | A total held. |
+| empirical data | other side | A record. |
+| phenomenology | straddles | A method describing held appearances. |
+| qualia | elsewhere | Qualia. |
+
+**The edge.** Experience reads as an inner film, and also as a stock one builds. Likeliest misunderstanding: that an experience is kept. Each momentary is completing as a next opening; a self holds nothing.
+
+## qualia
+
+**Binary.** None in the opening. The agreed point "a self holds nothing" puts qualia, taken as inner items held, on the is-not side. Nearest line: parity, + or −.
+
+| Synonym | Verdict | How |
+|---|---|---|
+| raw feels | straddles | A self's own, or items held. |
+| phenomenal properties | other side | Properties held. |
+| sense data | other side | Items between self and world, a record beside. |
+| secondary qualities (Locke) | straddles | Powers in things, read as items in the mind. |
+| subjective character | straddles | Of that self, read as an item. |
+| mental paint (Block) | other side | A held layer. |
+| the redness of red | straddles | An example taken as an item. |
+| what-it-is-like | elsewhere | What-it-is-like. |
+
+**The edge.** Qualia are spoken of as items. Likeliest misunderstanding: that we deny the redness of red. A self holds nothing; what readers call a quale stands, as a candidate only, as a self's parity with an other.
+
+## phenomenal
+
+**Binary.** None in the opening. Nearest line: experience's candidate, a self's momentary.
+
+| Synonym | Verdict | How |
+|---|---|---|
+| experiential | elsewhere | Experience. |
+| felt | elsewhere | Feeling. |
+| subjective | elsewhere | Subjectivity. |
+| phenomenon (Kant) | straddles | An appearing to a mind, with a thing-in-itself behind: a second thing. |
+| appearance | straddles | Read as a surface hiding a thing. |
+| phenomenal concept | other side | A concept held. |
+| phenomenal (remarkable) | elsewhere | Everyday praise. |
+
+**The edge.** "Phenomenal" splits the world into appearance and thing. Likeliest misunderstanding: that a self meets appearances while the thing hides behind them. A self observes the other's prior-existing.
+
+## subjectivity
+
+**Binary.** *Candidate*: "For a self, each same-existing thing is that self or an other." A same-existing thing is-or-is-not that self.
+
+| Synonym | Verdict | How |
+|---|---|---|
+| first person | same | That self. |
+| I | same | That self, spoken. |
+| subject | straddles | Set against an object (first part). |
+| point of view | straddles | A place beside. |
+| perspective | straddles | A view from a place. |
+| interiority | other side | An inside that holds. |
+| the subjective (as unreliable) | straddles | Opinion, set against fact. |
+| observer | straddles | Set apart from what it observes. |
+| self | elsewhere | Self. |
+
+**The edge.** Subject pairs with object, and readers read the object as non-living. Likeliest misunderstanding: subjectivity as an inside set against an outside. An other may be a self, "an other self."
+
+## what-it-is-like
+
+**Binary.** None in the opening. Nearest line: parity, a direction with an other.
+
+| Synonym | Verdict | How |
+|---|---|---|
+| something it is like to be (Nagel) | straddles | A fact of each creature, read as hidden inside. |
+| phenomenal character | straddles | A held character. |
+| qualitative feel | straddles | An item. |
+| point of view | elsewhere | Subjectivity. |
+| Umwelt (von Uexküll) | straddles | A self's own world, read as perceived and held inside (first part). |
+| empathy | straddles | Reaching another's; near bi-coupling. |
+| feel | elsewhere | Feeling. |
+
+**The edge.** The phrase sets a fact inside each creature that only it can reach. Likeliest misunderstanding: that "like" names an inner item. Readers may also hear the opening's "Two selves alike" in it; that line names a likeness of two selves, a separate sense.
+
+## B · Feeling and perceiving
+
+## feeling
+
+**Binary.** *Candidate*: "A self's parity is its changing direction relative to an other existing thing, + or −." A feeling is a self's parity with an other, + or −.
+
+| Synonym | Verdict | How |
+|---|---|---|
+| affect | straddles | A state with sizes. |
+| sentiment | straddles | Held. |
+| mood | straddles | A lasting state held. |
+| emotion | elsewhere | Emotion. |
+| sensation | elsewhere | Sensation. |
+| touch | straddles | One sense, one scale. |
+| gut feeling | straddles | A knowing read as held. |
+| valence | straddles | A degree (first part). |
+| sympathy | straddles | Feeling with; near agreeing. |
+
+**The edge.** Feelings have intensities. Likeliest misunderstanding: feeling as a size. The candidate is a direction, + or −, with one other.
+
+## emotion
+
+**Binary.** *Candidate*: "Others' parities are agreeing or parting." An emotion is a self's parity with others, agreeing or parting.
+
+| Synonym | Verdict | How |
+|---|---|---|
+| affect | elsewhere | Feeling. |
+| passion | straddles | Undergone, from beside. |
+| mood | straddles | A state held. |
+| arousal | straddles | A degree. |
+| basic emotions (Ekman) | other side | A fixed list held. |
+| valence and arousal (Russell) | other side | Two sizes on axes, a ground. |
+| appraisal | straddles | A judgment held. |
+| empathy | straddles | Near agreeing. |
+| emotional contagion | elsewhere | Co-chaining. |
+
+**The edge.** Emotions read as private states plotted on dimensions. Likeliest misunderstanding: emotion as a held state with sizes. The candidate is a parity with others, shared.
+
+## sensation
+
+**Binary.** *Candidate*: "Observing is prior-existing," with "Each self is a same-existing-society inside and outside itself." Sensation is-or-is-not observing by a self's selves inward.
+
+| Synonym | Verdict | How |
+|---|---|---|
+| sense impression | other side | An item held. |
+| sense data | other side | Items between, a record. |
+| stimulus | straddles | From beside, pushed in. |
+| input | straddles | Read as received from outside (first part). |
+| transduction | straddles | Read as a non-living conversion. |
+| signal | straddles | A parity going along, or a record. |
+| receptor response | straddles | A cell's own, read as mechanism. |
+| perception | elsewhere | Perception. |
+| feeling | elsewhere | Feeling. |
+
+**The edge.** Sensation reads as passive input. Likeliest misunderstanding: a self as a receiver of signals. Observing is a self's own.
+
+## perception
+
+**Binary.** *Candidate*: "Observing is prior-existing, is-or-is-not same-existing."
+
+| Synonym | Verdict | How |
+|---|---|---|
+| perceiving | straddles | Taken as of the present (first part). |
+| seeing | straddles | Present-tense, with a spectator. |
+| direct perception (Gibson) | straddles | Close; taken of the present. |
+| recognition | straddles | Read as matching a stored template. |
+| representation | other side | A held model. |
+| unconscious inference (Helmholtz) | other side | Hypotheses held. |
+| predictive processing | other side | A model of next held now, a second now. |
+| illusion | straddles | The observing on the is-not side of same-existing, read as a faulty picture. |
+| hallucination | straddles | Same, read as a picture with nothing behind. |
+
+**The edge.** Perception reads as present-tense and as building an inner picture. Likeliest misunderstanding: a self perceiving now and keeping a model. Observing is prior-existing, is-or-is-not same-existing; an illusion is the is-not side of that one line.
+
+## attention
+
+**Binary.** *Candidate*: "A bi-coupling is a self and an other self sharing possibling." Attention to an other self is-or-is-not one bi-coupling. Attention to a non-living thing falls to observing.
+
+| Synonym | Verdict | How |
+|---|---|---|
+| focus | straddles | A narrowing, a spotlight. |
+| spotlight (Posner) | other side | A beam from beside. |
+| concentration | straddles | A degree. |
+| salience | straddles | A size. |
+| vigilance | straddles | A state held. |
+| interest | straddles | A pull. |
+| care | straddles | Near moral value. |
+| attention economy | other side | A quantity spent. |
+
+**The edge.** Attention reads as a limited resource spent. Likeliest misunderstanding: attention as a quantity. The candidate is one bi-coupling with one other self.
+
+## C · Mind and its contents
+
+## cognition
+
+**Binary.** *Candidate*: "Natural intelligence is resolving among parities." Cognition is-or-is-not a self resolving its own parity with others'. Is-not: processing of held symbols.
+
+| Synonym | Verdict | How |
+|---|---|---|
+| enactive cognition (Varela, Thompson) | same | A living self's own doing; near autopoiesis. |
+| thinking | elsewhere | Thought. |
+| information processing | other side | Held information moved. |
+| computation | straddles | Read as non-living symbol work (first part). |
+| reasoning | straddles | Symbol work. |
+| mental representation | other side | Held. |
+| intellect | straddles | A capacity. |
+| problem solving | straddles | Ends at a solution. |
+| cognitive (brain only) | straddles | One scale. |
+
+**The edge.** Cognition sits in heads and is computation. Likeliest misunderstanding: that cognition, being computation, is what a trained model does. Resolving among parities is living.
+
+## mind
+
+**Binary.** As the first part: *candidate* (H), a self's observing, possibling and discovering. Is-not: a container of contents. The same line as consciousness's candidate.
+
+| Synonym | Verdict | How |
+|---|---|---|
+| psyche | straddles | Held inside. |
+| brain | straddles | An organ, one scale of self. |
+| intellect | straddles | A capacity. |
+| res cogitans (Descartes) | other side | A thinking thing apart from the body. |
+| ghost in the machine (Ryle) | other side | Ryle's name for that apartness; see collisions for our own "ghost". |
+| extended mind (Clark and Chalmers) | straddles | Near "inside and outside itself"; read as a store reaching into notebooks. |
+| mental model | other side | A held representation. |
+| nous | straddles | Intellect, or an order of things. |
+| self | elsewhere | Self. |
+
+**The edge.** Mind reads as a container of thoughts. Likeliest misunderstanding: that a self has a mind. A self holds nothing.
+
+## thought
+
+**Binary.** *Candidate*: "Possibling is now-existing, is-or-is-not same-existing." A thought is a self's possibling, now.
+
+| Synonym | Verdict | How |
+|---|---|---|
+| thinking (now) | same | A self's now. |
+| idea | other side | An item held. |
+| proposition | other side | A saying. |
+| deliberation | straddles | Near possibling; read as one self weighing a list. |
+| reflection | straddles | Looking at held thoughts; near observing. |
+| imagination | straddles | Mental and held (first part). |
+| inner speech | straddles | Words held inside. |
+| reasoning | straddles | Steps over symbols. |
+
+**The edge.** Thoughts read as items in a head. Likeliest misunderstanding: thought as content. The candidate is a self's possibling, now-existing.
+
+## understanding
+
+**Binary.** *Candidate*: "A bi-coupling is a self and an other self sharing possibling." Two selves' understanding of each other is-or-is-not one bi-coupling.
+
+| Synonym | Verdict | How |
+|---|---|---|
+| mutual understanding | same | Two selves sharing possibling. |
+| Verstehen (Dilthey, Weber) | straddles | Close: understanding others from their own living; read as a method of science. |
+| comprehension | straddles | A grasp held. |
+| grasp | straddles | A holding. |
+| insight | straddles | A sudden item gained. |
+| empathy | straddles | Near bi-coupling. |
+| agreement | elsewhere | Agreeing. |
+| explanation | elsewhere | Natural explaining. |
+| knowing | elsewhere | Knowledge. |
+
+**The edge.** Understanding reads as one mind's possession, and is now claimed for trained models. Likeliest misunderstanding: that a model understands. On the candidate, understanding is a bi-coupling, of selves; a trained model is non-living.
+
+## meaning
+
+**Binary.** None in the opening. Nearest lines: parity, a direction with an other; and the agreed point that writing's emanations are non-living.
+
+| Synonym | Verdict | How |
+|---|---|---|
+| sense (Frege) | straddles | A mode of presenting, held. |
+| reference | straddles | A relation beside. |
+| content | other side | Held. |
+| definition | other side | A saying. |
+| significance | straddles | A size or a direction. |
+| purpose | straddles | A next fixed beside. |
+| use (Wittgenstein) | straddles | Close: meaning in a society's doing; read as a rule. |
+| semantics | straddles | A theory of sayings. |
+| intention | elsewhere | Intentionality. |
+
+**The edge.** Meaning reads as lodged in words, or in heads. Likeliest misunderstanding: that a text, or a trained model, has meaning in it. A text is a stable-forming emanation of living people's writing.
+
+## intentionality
+
+**Binary.** *Candidate*: "A self's parity is its changing direction relative to an other existing thing, + or −." A self is-or-is-not directed, + or −, toward that other.
+
+| Synonym | Verdict | How |
+|---|---|---|
+| directedness (Brentano) | same | A direction toward an other. |
+| aboutness | straddles | A relation to a content. |
+| intention | elsewhere | Will. |
+| representation | other side | Held. |
+| content | other side | Held. |
+| reference | straddles | A relation beside. |
+| intensionality (logic) | elsewhere | A feature of sentences, a saying. |
+| collective intentionality | elsewhere | Bi-coupling; inside and outside itself. |
+
+**The edge.** Intentionality is taught as a relation to contents, including objects that exist nowhere (a unicorn). Likeliest misunderstanding: directedness at a held object. Parity is relative to "an other existing thing."
+
+## belief
+
+**Binary.** None in the opening. The agreed point "a self holds nothing" puts belief, as a proposition held, on the is-not side.
+
+| Synonym | Verdict | How |
+|---|---|---|
+| credence | other side | A size. |
+| propositional attitude | other side | An attitude toward a held saying. |
+| expectation | other side | A record of next, a second now. |
+| conviction | straddles | Held, or a self's direction. |
+| opinion | straddles | Held. |
+| faith | straddles | Held, or a bi-coupling of trust. |
+| trust | straddles | Near bi-coupling. |
+| assumption | straddles | A saying set beside. |
+| attitude | straddles | Held in a mind (first part). |
+
+**The edge.** Belief is the commonest "held" word in English. Likeliest misunderstanding: that a self believes by storing. The opening holds no line here; the agreed point marks only the is-not side.
+
+## knowledge
+
+**Binary.** *Candidate*: "Observing is prior-existing, is-or-is-not same-existing." Knowing is a self's observing on the same-existing side.
+
+| Synonym | Verdict | How |
+|---|---|---|
+| acquaintance (Russell) | straddles | Close: direct meeting; read as present-tense. |
+| justified true belief | other side | A held belief plus a saying of justification. |
+| know-how | straddles | Near a self's own resolving; read as a skill held. |
+| information | elsewhere | Information (first part). |
+| data | other side | Records. |
+| science | straddles | A practice of selves and its records. |
+| certainty | straddles | A degree, or a fixing. |
+| wisdom | straddles | A held quality. |
+| episteme | straddles | A body held. |
+
+**The edge.** Knowledge reads as a stock that grows. Likeliest misunderstanding: that knowledge piles up in a self. Records are non-living; observing is now.
+
+## learning
+
+**Binary.** *Candidate*: "Discovering is next-existing, is-or-is-not same-existing."
+
+| Synonym | Verdict | How |
+|---|---|---|
+| discovering | same | Next-existing. |
+| training (machine learning) | elsewhere | Making a stable-forming emanation of living people's writing. |
+| acquisition | other side | Taking into a store. |
+| memorizing | other side | Storing. |
+| studying | straddles | A practice; read as filling a store. |
+| conditioning | straddles | A response set from beside. |
+| plasticity | straddles | A capacity, read as stored change. |
+| adaptation | straddles | Over generations (first part). |
+| development | straddles | Toward a plan. |
+
+**The edge.** Learning reads as storing, and machine learning shares the word. Likeliest misunderstanding: that a trained model learns as a self does. Training makes a non-living emanation; learning is a self discovering its next.
+
+## memory
+
+**Binary.** *Candidate*: "Observing is prior-existing, is-or-is-not same-existing." Remembering is a self observing its prior-existing, now. Is-not: a store.
+
+| Synonym | Verdict | How |
+|---|---|---|
+| reconstructive memory (Bartlett) | same | Made again each time. |
+| recall | straddles | Close to observing prior; read as retrieval. |
+| recollection (Plato) | straddles | Retrieving knowledge held from before. |
+| engram | other side | A held trace. |
+| storage | other side | A container. |
+| working memory | other side | A held buffer. |
+| record | other side | "A prior as if now." |
+| false memory | straddles | Observing on the is-not side of same-existing, read as a corrupt file. |
+| habit | straddles | A pattern kept, or a self's own again. |
+
+**The edge.** Readers assume selves store memories (first part). Likeliest misunderstanding: retrieval from a store. The body says it plainly: "A reading from and a writing to a memory are outside possibly existing for intelligence."
+
+## D · Acting
+
+## agency
+
+**Binary.** *Candidate*: "A self is ... possibling and discovering its own next-existing." A thing is-or-is-not possibling its own next-existing.
+
+| Synonym | Verdict | How |
+|---|---|---|
+| self-determination | same | Its own next. |
+| autonomy | same | Self-law (first part). |
+| action | straddles | Includes non-living things acting. |
+| causal power | straddles | A power held. |
+| initiative | straddles | A trait. |
+| control | straddles | Over others. |
+| moral agency | straddles | A standing given by a saying. |
+| sense of agency | straddles | A feeling held. |
+| AI agency | other side | Non-living. |
+
+**The edge.** "Agency" covers software. Likeliest misunderstanding: that AI agents have agency. They are non-living (first part).
+
+## will
+
+**Binary.** None as a faculty. *Candidate*: "Possibling is now-existing." Willing is a self possibling its own next, now.
+
+| Synonym | Verdict | How |
+|---|---|---|
+| volition | straddles | An act of a faculty. |
+| intention | straddles | A plan held. |
+| desire | straddles | A pull held. |
+| resolve | straddles | Firmness held; the word meets our resolving. |
+| willpower | other side | A quantity, spent. |
+| drive | straddles | A force. |
+| conatus (Spinoza) | straddles | Each thing's striving to persist, non-living things included. |
+| last will (testament) | other side | A record of next. |
+| choice | elsewhere | Choice. |
+
+**The edge.** Will reads as a faculty or a force inside. Likeliest misunderstanding: a force pushing from within. The candidate is possibling, now, a self's own.
+
+## free will
+
+**Binary.** *Candidate*: "A natural intelligence network, each self resolving its own next-existing, is free." A self is-or-is-not resolving its own next-existing. The opening says *free* of a network.
+
+| Synonym | Verdict | How |
+|---|---|---|
+| self-determination | same | Its own next. |
+| autonomy | same | Self-law. |
+| compatibilism | straddles | A system's own states producing its acts; close, with determinism kept. |
+| libertarian free will | straddles | Undetermined; its random side is the is-not side. |
+| agent causation | straddles | An agent as a cause beside events. |
+| could have done otherwise | other side | A second now, a second universe. |
+| determinism (said of a self) | other side | A form from its prior: the stable-forming emanation's line, applied to a self. |
+| randomness | other side | No self's own (first part). |
+| voluntariness | straddles | A legal test. |
+
+**The edge.** The field's binary is determined or undetermined. Ours is a stable-forming emanation from its prior, or a self possibling its own next. Likeliest misunderstanding: that free means undetermined, or free of others.
+
+## choice
+
+**Binary.** *Candidate*: "Others' agreeing parity is a self's next-existing parity." A self's next parity, + or −, is resolved with others; choosing is-or-is-not that resolving.
+
+| Synonym | Verdict | How |
+|---|---|---|
+| decision | straddles | One self deciding. |
+| option | straddles | An item on a list held (first part). |
+| alternatives | other side | A second now laid out. |
+| preference | other side | A ranking held. |
+| rational choice | other side | Maximizing a size. |
+| selection | straddles | From a list. |
+| judgment | straddles | A saying. |
+| deliberation | elsewhere | Thought. |
+
+**The edge.** Choice reads as one self picking from a menu. Likeliest misunderstanding: choice as private selection among held options. The candidate is a next parity resolved with others.
+
+## E · Past the living line
+
+## soul
+
+**Binary.** None in the opening. Nearest lines: "Each self is living"; the agreed point "a self holds nothing"; the body's "Dying is a living self going on as non-living."
+
+| Synonym | Verdict | How |
+|---|---|---|
+| anima (Aristotle) | straddles | Close: a living body's own form; read as a form beside. |
+| psyche | straddles | Held inside. |
+| self | elsewhere | Self. |
+| spirit | elsewhere | Spirit. |
+| immortal soul | other side | A self outlasting its living, apart. |
+| atman | straddles | A self at the deepest scale, read as apart. |
+| heart | straddles | A centre held. |
+| essence | other side | A form apart from changing (first part). |
+| ghost | straddles | See collisions. |
+
+**The edge.** Soul outlasts the body. Likeliest misunderstanding: that we affirm or deny a soul. A self is living, now; the opening holds no line for a self apart from living.
+
+## spirit
+
+**Binary.** None in the opening.
+
+| Synonym | Verdict | How |
+|---|---|---|
+| pneuma / breath | straddles | Living as breathing, one scale. |
+| Geist (Hegel) | straddles | A society's living as one; read as a force over its selves. |
+| team spirit / esprit de corps | straddles | Near a society as a self. |
+| ghost | other side | A living thing apart from a body. |
+| animating principle | other side | A principle beside. |
+| spirituality | straddles | A practice of selves, or a held belief. |
+| vital spirit | elsewhere | Life force. |
+| spirit (distilled) | elsewhere | Non-living. |
+
+**The edge.** Spirit reads as a second living thing beside the living one. Likeliest misunderstanding: that "living at each scale" smuggles spirit in. Living is one test: a self.
+
+## life force
+
+**Binary.** None for a force. The opening's line "Each now-existing thing is living or non-living" names living as one test of one thing; a force held is the is-not side.
+
+| Synonym | Verdict | How |
+|---|---|---|
+| élan vital (Bergson) | other side | A force beside. |
+| vis vitalis | other side | A force beside. |
+| entelechy (Driesch) | other side | A directing agent beside. |
+| animating principle | other side | A principle beside. |
+| energy | other side | A quantity. |
+| qi / prana | straddles | A flow in a body, read as a stuff held. |
+| vitality | straddles | A degree (first part). |
+| life | elsewhere | Life (first part). |
+
+**The edge.** Readers may hear vitalism in "living at each scale." Likeliest misunderstanding: that living names a force or a stuff. Living is a self resolving its own parity with others, now.
+
+## F · States of a living self
+
+## sleep
+
+**Binary.** *Candidate*, from "Each self is a same-existing-society inside and outside itself": at the scale of a person with the others outside it, a bi-coupling is-or-is-not sharing possibling; the person, asleep, is living. The candidate puts sleep, anaesthesia and coma on one side.
+
+| Synonym | Verdict | How |
+|---|---|---|
+| slumber | straddles | Read as switched off. |
+| rest | straddles | Read as not-changing (first part, 0). |
+| dormancy / torpor | straddles | Other selves' states at their scales. |
+| hibernation | straddles | One kind, read as suspended living. |
+| quiescence | straddles | Read as stopped. |
+| unconsciousness | elsewhere | Unconscious. |
+| sleep mode (computing) | other side | Non-living. |
+| "asleep" for the dead | other side | A living word for the non-living. |
+
+**The edge.** Sleep reads as switched off, a time out of living. Likeliest misunderstanding: that the sleeping self is paused. Its society inside itself is living.
+
+## dream
+
+**Binary.** *Candidate* (H), from "Each self is a same-existing-society inside and outside itself": a self, its bi-couplings outside itself on the is-not side, is-or-is-not possibling inside itself.
+
+| Synonym | Verdict | How |
+|---|---|---|
+| dream (aspiration) | elsewhere | Possibling; next-possibling-same-existing. |
+| REM sleep | straddles | A stage; the field records the equation of the two as inaccurate. |
+| reverie | straddles | Waking, near possibling. |
+| hallucination | straddles | Observing on the is-not side, read as a picture. |
+| nightmare | straddles | One direction, read as content. |
+| lucid dream | straddles | Read as control over held content. |
+| fantasy | straddles | Mental and held. |
+| dream report | other side | A record on waking. |
+
+**The edge.** A dream reads as a film kept inside and replayed. Likeliest misunderstanding: content stored and shown. The candidate is a self's possibling inside itself.
+
+## anaesthesia
+
+**Binary.** *Candidate*: as sleep. The agent is non-living; the person is living on either side.
+
+| Synonym | Verdict | How |
+|---|---|---|
+| anesthesia | same | The spelling the registry entry uses. |
+| narcosis | straddles | A state, read as one. |
+| sedation | straddles | A degree. |
+| analgesia | straddles | Of pain only. |
+| numbness | straddles | Local, one scale. |
+| insensibility | straddles | Read as lacking all observing. |
+| going under | straddles | Read as leaving. |
+| unconsciousness | elsewhere | Unconscious. |
+| induced coma | elsewhere | Coma. |
+
+**The edge.** General anaesthesia reads as switching off one thing, consciousness. Likeliest misunderstanding: a single state. The field's own record (experience reported without responsiveness) meets the candidate's two scales.
+
+## coma
+
+**Binary.** *Candidate*: as sleep; living.
+
+| Synonym | Verdict | How |
+|---|---|---|
+| unresponsive wakefulness / vegetative state | straddles | Named by behaviour, from beside. |
+| minimally conscious state | straddles | A degree. |
+| locked-in syndrome | straddles | Living, bi-coupling by the eyes alone. |
+| covert consciousness | straddles | A bi-coupling found by instruments. |
+| stupor | straddles | A degree. |
+| brain death | straddles | A legal line at one scale; selves inward may be living. |
+| persistent unconsciousness | straddles | A span. |
+
+**The edge.** Coma reads as halfway to death. Likeliest misunderstanding: degrees between living and non-living. A thing is-or-is-not a self (first part, dying).
+
+## death
+
+**Binary.** "Each now-existing thing is living or non-living." At its scale, a thing that was a self is non-living; the body: "Dying is a living self going on as non-living." Selves two scales inward may be living.
+
+| Synonym | Verdict | How |
+|---|---|---|
+| non-living (at that scale) | same | Its scale only. |
+| demise | straddles | Of a person, the whole. |
+| passing | straddles | Read as going on elsewhere; see collisions. |
+| end of life | straddles | A span closing. |
+| brain death | straddles | One scale, by a legal saying. |
+| cessation | straddles | Read as all stopping. |
+| mortality | straddles | A property held. |
+| afterlife | other side | A self apart from living. |
+| extinction | straddles | A species, a naming. |
+
+**The edge.** Death reads as one moment for the whole body, or as a door. Likeliest misunderstanding: that death is non-living at every scale at once (first part), or a passage to a second living.
+
+## G · Intelligence
+
+## intelligence
+
+**Binary.** "Natural intelligence is the method of living as a same-existing self." Intelligence is-or-is-not that one method. Is-not: a capacity held. As the first part.
+
+| Synonym | Verdict | How |
+|---|---|---|
+| natural intelligence | same | The one method. |
+| sapience | straddles | Wisdom as a human trait. |
+| general intelligence (g) | other side | A size. |
+| artificial general intelligence | straddles | Read as a second intelligence (first part). |
+| machine intelligence | elsewhere | Non-living. |
+| rationality | straddles | A norm beside. |
+| cleverness | straddles | A degree. |
+| collective intelligence | straddles | Close; scored (first part). |
+| consciousness | elsewhere | Consciousness. |
+
+**The edge.** Readers bundle intelligence with consciousness: "if it is intelligent, is it conscious?" Likeliest misunderstanding: that a smarter model nears consciousness. Intelligence is the method of living; a trained model is non-living, so the question of its consciousness is the living or non-living question, already answered by the agreed point.
+
+---
+
+## Part Two · Hard probleming
+
+The entries below are the Hard Problem Registry's (`Exhibit_TWENTY-ONE_Hard_Problem_Registry_v391.md`, entry number given). Each has: the field's statement, with its finders as the entry's addresses name them; the binary the field holds as its destiny, taken from the entry's own common requirement where it states one; and the universal set whose definition would resolve it in our method, or "none proposable yet". The field's claims stay the field's. A universal set marked (H) rests on the hinge.
+
+## Consciousness and experience
+
+### 111 · Qualia and the zombie argument
+- **Field.** Could a being physically identical to a person have no experience at all, and what follows if it is conceivable? "Why is the performance of these functions accompanied by experience?" (Chalmers 1995; the gap's term, Levine 1983.)
+- **Destiny.** Physical facts fix experiential facts, or they do not, over conceivable worlds.
+- **Universal set** (H). The one universe's now-existing things, within a person's universal set. "Only one universe is possibly now-existing": a duplicate in a conceived world is a second universe, a naming. Within the one universe, a physical duplicate of a living person is-or-is-not a self possibling its own next. The field's two sets of facts are then one set, each thing living or non-living.
+
+### 179 · The explanatory gap
+- **Field.** A physical account leaves open why its facts are accompanied by experience of the character they have; is the gap in explanation, or in what explanation is about? (Levine 1983; set beside the conceivability argument in Chalmers 1995.)
+- **Destiny.** An explanatory residue bears on what exists, or it does not.
+- **Universal set** (H). A self observing an account. The account is a record, a stable-forming emanation of living people's writing, non-living; the self observing it is living. Within this set the residue is the living or non-living binary itself: the account is-not a self, and the experience it is about is a self's own. The field's own unreachability line stands nearest ("a residue observed at an explanation is observed by a self").
+
+### 95 · Machine and animal sentience
+- **Field.** Which systems have experience, and how would one tell: octopuses, crabs, insects, a person after brain injury, a fetus, stem-cell brain organoids, AI? Sentience taken as the capacity for valenced experience. (Birch 2024; marker frameworks, Birch et al. 2020, 2021.)
+- **Destiny.** There is a fact about presence of experience in a system, and evidence bears on it.
+- **Universal set** (H). Each now-existing thing, living or non-living. Octopus, crab, insect, spider and the injured person are selves. A trained AI model is non-living (agreed). Fetus and organoid: the opening gives the test, a living same-existing set possibling its own next at its scale, and the cases stand open. The markers measure resemblance to us; the test here is a self.
+
+### 220 · Detecting covert consciousness
+- **Field.** Which behaviourally unresponsive patients retain conscious awareness, and what measurement establishes it in an individual? (Young, Edlow and Bodien 2024.)
+- **Destiny.** An individual-level marker separates conscious awareness from unconscious processing, with motor report absent.
+- **Universal set.** Patient and examiner. The patient is living throughout; the binary taken is whether, at the scale of patient with examiner, a bi-coupling is sharing possibling. A command-following task seeks that bi-coupling; the instruments are non-living. The field's grades (possible, probable, confirmed) are sizes; ours is is-or-is-not, one bi-coupling at a time.
+
+### 98 · Anesthesia
+- **Field.** Chemically diverse molecules all abolish consciousness; what do they have in common? (Franks 2008; the unitary mechanism stated false, Bonhomme et al. 2019; Mashour.)
+- **Destiny.** There is one state the agents produce.
+- **Universal set.** The person as a same-existing-society inside and outside itself. The agents are non-living. At the scale of the person with others outside it, bi-couplings go to the is-not side; inside, the person's selves are living. The field's "one state" divides into two scales, which its own record of experience without responsiveness meets. What the agents share at molecular scale: none proposable yet.
+
+### 91 · Sleep
+- **Field.** Sleep is universal among animals with nervous systems, costly and dangerous; what is it for? (Cirelli and Tononi 2008; the null hypothesis, Rial et al. 2007.)
+- **Destiny.** There is a primary function to be identified: restoration, or an informational role.
+- **Universal set**, in part. The sleeping person, a society inside and outside itself. "Function" asks for a next fixed beside; in the opening "each momentary is completing as a next opening." Within the inside society both accounts name its selves resolving, which the field's own persistence line admits ("agreement that both operate"). Why sleep at all: none proposable yet.
+
+### 123 · Dreaming
+- **Field.** Dreaming is universal, vivid and nightly; what is it for, and why is the dreamer disconnected from the environment? (Nir and Tononi 2010.)
+- **Destiny.** Dreaming has a function separable from sleep, or it is a by-product of the sleeping state.
+- **Universal set** (H). The sleeping self, inside and outside itself. The by-product account names dreaming an emanation of a living state. Ours: dreaming is-or-is-not the self's own possibling inside itself; on the hinge it is, and the by-product side is the is-not side of that line. The disconnection is the candidate for sleep: bi-couplings outside on the is-not side.
+
+### 92 · Other minds
+- **Field.** I know my own experience directly and infer everyone else's from behaviour; what justifies the inference? (Avramides, *Other Minds*, Stanford Encyclopedia.)
+- **Destiny.** There is something in others whose presence the inference is about.
+- **Universal set.** The bi-coupling: "a self and an other self sharing possibling," itself a self. Within it the other is met as a self by sharing possibling; the binary is "that self or an other," both living. The field's inference from one case is a self observing an other from beside; something kept inside the other is a held interior, which the agreed point places is-not.
+
+### 90 · The binding problem
+- **Field.** Features of one object are processed in separate brain regions, yet experience presents one object; what binds them? (von der Malsburg 1981; Treisman 1996; Roskies 1999.)
+- **Destiny.** The unity of the object in experience corresponds to a combining operation.
+- **Universal set.** The observing self as a society of its selves inward, bi-coupling: "A bi-coupling is a self"; "A living same-existing set is a self." One object observed is one self's observing; the combining operation sought is a resolver beside, which resolving among parities places is-not. Synchrony reads as a bi-coupling's own beat.
+
+## Self, will and the mind's words
+
+### 29 · Free will and determinism
+- **Field.** If every event is fixed by prior events and law, can a person act otherwise? (van Inwagen 1983; O'Connor and Franklin, *Free Will*, Stanford Encyclopedia, 2022.)
+- **Destiny.** The action has a determining source, and locating it settles the question: determined, or undetermined.
+- **Universal set.** The person's universal set, each thing living or non-living. A stable-forming emanation is a form from its prior: the determinist's picture. A self possibles its own next. A person, a self, is-or-is-not resolving its own next-existing. "Could have done otherwise" is a second now, is-not; randomness is the is-not side too (first part).
+
+### 72 · Personal identity over time
+- **Field.** What makes a person at one time the same person at another, across replacement of parts, memory loss and division? (Olson, *Personal Identity*, Stanford Encyclopedia; Parfit 1984.)
+- **Destiny.** Identity over time is determinate and governed by a criterion.
+- **Universal set.** The person's own same-existing things. "A now-existing thing from a prior-existing same thing is a same-existing thing": sameness is the thing's own, from its prior, the criterion its own prior. In fission each successor is-or-is-not from the one prior; both are, so both are same-existing, each a self. Identity as one-to-one is a naming, outside the opening's lines.
+
+### 114 · Self and non-self in immunity
+- **Field.** The immune system attacks foreign things and spares the body; how does it tell which is which? (Burnet 1969; the criterion set against that consensus, Pradeu and Carosella 2006.)
+- **Destiny.** The system's discrimination has a describable basis: self against non-self.
+- **Universal set.** The body as a same-existing-society inside and outside itself. "For a self, each same-existing thing is that self or an other"; others include selves (gut microbes, a fetus) in bi-coupling. A response is parting parity; tolerance is agreeing, or bi-coupling. The field's criterion becomes, for each other, is-or-is-not bi-coupling.
+
+### 93 · Symbol grounding
+- **Field.** A system manipulates symbols by rules; how do its symbols come to be about anything, rather than parasitic on its interpreters' meanings? (Harnad 1990; Searle 1980.)
+- **Destiny.** There is a fact about what a symbol is about.
+- **Universal set.** Writer and reader, living, bi-coupling; the symbol, a written mark or a trained model, is a stable-forming emanation, non-living. Aboutness is taken at the selves, in their bi-coupling. A symbol's own content is the is-not side: "a record beside a thing is a prior as if now."
+
+### 4 · The rule-following problem
+- **Field.** What fact about a person makes it the case that they mean one function rather than another by a term? (Kripke 1982; Miller and Sultanescu, Stanford Encyclopedia, 2022.)
+- **Destiny.** A fact settles it, or a licensed practice stands in its absence.
+- **Universal set**, in part. The society of speakers, a same-existing-society. A use is-or-is-not agreeing with others' parities: "Others' agreeing parity is a self's next-existing parity." A meaning-fact sought in one person is a held content, is-not. Meaning itself has no line yet.
+
+### 227 · Collective intentionality
+- **Field.** What makes several individuals intend or act as a group, given that group intention is irreducible to individual intentions yet owned by each individual? (Schweikard and Schmid, *Collective Intentionality*, Stanford Encyclopedia.)
+- **Destiny.** A constitutive condition for joint agency, irreducible or individually owned.
+- **Universal set.** The group as a self. The field's two claims are one line of ours: "A bi-coupling is a self," and "Each self is a same-existing-society inside and outside itself." Group and member are each a self at its scale.
+
+### 246 · The engram
+- **Field.** What is a memory, and what in the brain is it? Ensembles of engram cells are the emerging view. (Josselyn and Tonegawa 2020.)
+- **Destiny.** The registry's common requirement stands empty. The posing holds a memory as a lasting trace in cells, found or absent.
+- **Universal set.** The cells as a same-existing-society, each observing its own prior. "A self holds nothing": the ensemble's reactivation is taken as selves observing their prior-existing, now, with the store on the is-not side.
+
+### 53 · Gettier
+- **Field.** A belief can be justified, true and true by accident; what is missing from justified true belief? (Gettier 1963; Ichikawa and Steup, Stanford Encyclopedia.)
+- **Destiny.** Cases sort into knowledge and non-knowledge, and a correct analysis reproduces the sorting.
+- **Universal set**, in part. A self's observing: "Observing is prior-existing, is-or-is-not same-existing." The lucky case is observing on the is-not side of same-existing, with the thing taken; knowing is the is side. Rests on the knowledge candidate. Belief as held is is-not.
+
+### 78 · Meno's paradox
+- **Field.** If you know what you seek you need not look, and if you do not you would not recognise it; how is inquiry possible? (Ebrey 2014; Fine 2014.)
+- **Destiny.** Inquiry has an object the inquirer can identify, known or unknown.
+- **Universal set.** The inquirer's universal set. "Discovering is next-existing": the object of inquiry is next-existing, discovered; recognising is observing, of the prior. The horns take the object as already there, the first part's "finding".
+
+### 159 · Self-locating belief
+- **Field.** How should credence be assigned to propositions about who and when one is, as in the sleeper woken once or twice by a coin? (Elga 2000.)
+- **Destiny.** An updating rule extends to self-locating evidence: one half, or one third.
+- **Universal set.** None proposable yet. The question is posed as a credence, a size against a ground, which the first part places on the other side. "Which waking is now" is-or-is-not this momentary, but the field asks for a size, and a set is defined over things.
+
+### 99 · Phantom limb
+- **Field.** People feel a limb that is gone, often painfully; what produces the sensation: a reorganised or a preserved cortical map? (Makin and Flor 2020; Makin et al. 2013.)
+- **Destiny.** There is a fact about whether the map is reorganised or preserved.
+- **Universal set**, in part. The person as a society inside itself, observing its prior-existing. A map as a held representation is is-not. Phantoms in congenital limb absence stand outside this proposal: none proposable for them yet.
+
+### 67 · Chronic pain
+- **Field.** Pain persists after tissue has healed, or with no damage found; what produces it? (Cohen, Vase and Hooten 2021.)
+- **Destiny.** The pain is produced by an identifiable process at one location: peripheral or central.
+- **Universal set**, in part. The person as a society inside and outside itself, both at once, which the field's single location divides into two. What produces the pain: none proposable yet; pain as feeling rests on the feeling candidate.
+
+### 219 · Evidence for neural representation
+- **Field.** What evidence shows that a neural state represents a feature, rather than merely covarying with it? (Pohl, Walker, Barack, Lee, Denison, Block, Meyniel and Ma, arXiv 2403.14046.)
+- **Destiny.** An evidential rule separates representation from correlation.
+- **Universal set.** Neurons as selves with their others. "Represents" names a held content or a record beside: is-not. Covariation is a size. Within the set, a neuron's parity with an other is-or-is-not + or −, one direction with one other.
+
+### 104 · The simulation hypothesis
+- **Field.** Could what we observe be a computation running at another level, and could we tell? The argument assumes consciousness is independent of what runs it. (Bostrom 2003.)
+- **Destiny.** There is a fact about the level one is at.
+- **Universal set.** The one universe: "Only one universe is possibly now-existing." A running computation is non-living, a stable-forming emanation; a simulated observer is a non-living thing; living people are selves. On the hinge, consciousness is living, and the argument's assumption falls on the is-not side.
+
+### 18 · Biological individuality
+- **Field.** What counts as one organism? (Wilson and Barker, *The Biological Notion of an Individual*, Stanford Encyclopedia.)
+- **Destiny.** One criterion of individuality, where the field's own criteria sort the cases two ways at once.
+- **Universal set.** Each scale: "A living same-existing set is a self," "Each self is a same-existing-society inside and outside itself." One organism is one self at its scale; a holobiont is one too (first part). The criteria that sort two ways at once name two scales.
+
+---
+
+## Part Three · Edges and collisions
+
+## The ten sharpest edges
+
+1. **Consciousness and living (the hinge).** Misunderstanding: consciousness as rare, or, on the hinge, as everywhere. Binary: a thing is-or-is-not observing, possibling and discovering its own next-existing; non-living things are stable-forming emanations.
+2. **Unconscious, asleep, anaesthetised, comatose.** Misunderstanding: less living, a step toward death. Binary: each now-existing thing is living or non-living; a person in any of these states is living; death alone is the is-not side, at its scale.
+3. **A self holds nothing (memory, belief, knowledge, qualia, representation, engram).** Misunderstanding: a self as a store of contents. Binary: "A record beside a thing is a prior as if now"; a self observes its prior, now.
+4. **Trained AI models.** Misunderstanding: that a model understands, learns, feels or acts as a self. Binary: a trained model is a stable-forming emanation of living people's writing, non-living.
+5. **Free will.** Misunderstanding: free means undetermined, or alone. Binary: a stable-forming emanation from its prior, or a self resolving its own next with others.
+6. **Experience and qualia.** Misunderstanding: inner items, a film kept. Binary (candidate): a self's momentary, completing as a next opening.
+7. **Feeling, emotion, sentience.** Misunderstanding: intensities, sizes on axes. Binary (candidate): parity, + or −, with an other; agreeing or parting.
+8. **Awareness, perception, attention.** Misunderstanding: present-tense watching, a spotlight. Binary: "Observing is prior-existing, is-or-is-not same-existing"; attention to a self as bi-coupling.
+9. **Choice.** Misunderstanding: one self picking from a held menu. Binary (candidate): "Others' agreeing parity is a self's next-existing parity."
+10. **Soul, spirit, life force.** Misunderstanding: that living at each scale names a force or a second living thing. Binary: living is one test, a self; the opening holds no line for a self apart from living.
+
+## Collisions with the first part
+
+1. **consciousness.** First part: "Is: a self's own observing." This part's candidate: observing, possibling and discovering. One thing: take the whole self line, or keep consciousness at observing and send the rest elsewhere.
+2. **mind and consciousness.** The first part's mind candidate ("a self's observing, possibling and discovering") is this part's consciousness candidate. Two words, one line, and that line is the self line: mind, consciousness and self land together.
+3. **sentient.** First part, under living: "Feeling; not our test." Here sentience's candidate, on the hinge, names the set of the living. One thing: the test stays a self; the set named is the same.
+4. **choosing.** First part: "choosing / deciding" straddles under possibling (now). Here choice's candidate sits at the next parity, resolved with others (completing). Two homes, possibling and completing.
+5. **free will.** First part, under free: "a metaphysical faculty of one mind." The opening says *free* of a network; this part's candidate says it of one self. One thing: each self resolving its own next is the network's condition, and the person decides whether *free* is said of one self.
+6. **learning, cognition, perceiving.** First part: each straddles (under discovering, natural intelligence, observing). Here each receives a candidate on that same line. Common use straddles; the candidate takes the is side only.
+7. **alive.** First part: "awake / conscious: one state of some selves." Here the same, with the inside-and-outside candidate added; consistent.
+8. **dying and death.** First part: dying "a self whose next is no longer its own possibling." Here, the body: "Dying is a living self going on as non-living." Consistent; the second sits outside the opening.
+
+## Collisions inside our own naming
+
+1. **within.** `Exhibit_TWENTY-TWO_Resolving_the_Hard_Problem_Registry_v391.md` writes "a self's within is its own" and "a self feels a coupling from within" (5.1, 5.5, 5.8). *Within* reads as an interior that keeps something, against "a self holds nothing."
+2. **feels, felt.** The same exhibit uses *feel* and *felt* as resolved words; the opening holds no line for feeling.
+3. **parity for a phase.** The same exhibit at 5.3: "waking and sleeping are two parities of one living." Parity is a changing direction relative to an other existing thing; a phase of a self taken as a parity stretches the word.
+4. **ghost.** `Exhibit_TWENTY-SEVEN_Living_Ghost_Registry_v391.md`: "a ghost is one momentary's form, installing it as an existing thing," with agency and store among the installings. Common *ghost* and *spirit* name a living thing apart from a body, and Ryle's "ghost in the machine" names the mind. Our *ghost* is a non-living accounting installed as living; and our agency candidate (a self) meets that registry's agency (an installing).
+5. **passing.** "Each self receiving a 0 is passing over it" meets *passing* for dying.
+6. **resolving.** Resolving among parities meets *resolve* as firmness of will.
+7. **choosing.** The body's resolver code, "one choosing + or −," and the opening's "Others' agreeing parity is a self's next-existing parity" both name the next parity.
+8. **dying self.** "Dying is a living self going on as non-living" pairs *self* with non-living, while "Each self is living."
+9. **invisible.** The body's "Intelligence is invisible," and the resolving exhibit's "a within ... invisible," meet the other-minds problem: what a self observes of an other self, if its living is invisible.
+
+## For the person
+
+Places where no proposal exists, one line each.
+
+1. Whether consciousness names the self line (the hinge); every (H) candidate waits on it.
+2. Conscious as waking: no line tells waking from sleeping inside one living person beyond the inside-and-outside candidate.
+3. Sleep, dream, anaesthesia, coma: the candidate puts all on one side; no line tells them apart.
+4. Qualia, phenomenal, what-it-is-like: no line; the agreed point marks only the is-not side.
+5. Meaning: no line; parity is nearest.
+6. Belief: no line; the agreed point marks only the is-not side.
+7. Soul and spirit: no line.
+8. Will, as distinct from possibling: no line.
+9. Feeling and emotion both lean on parity; no line parts them.
+10. Awareness and knowledge both lean on observing same-existing; no line parts them.
+11. Intentionality toward a thing that exists nowhere: parity is relative to an other existing thing.
+12. Attention to a non-living thing: bi-coupling is of selves only.
+13. Fetus and brain organoid: whether each, at its scale, is a self.
+14. Why sleep, and why dream: no proposal for function.
+15. What anaesthetic agents share at molecular scale: no proposal.
+16. Phantoms in congenital limb absence: no prior limb to observe.
+17. What produces chronic pain: no proposal past the inside-and-outside set.
+18. Self-locating belief: posed as a size; no universal set until posed as is-or-is-not.
+19. Personal identity as one-to-one: the opening holds same-existing, with no line for identity.
+20. Whether *free* is said of one self or only of a network.
+21. Whether death's line ("Dying is a living self going on as non-living") joins the opening.
+22. Whether the resolving exhibit's *within*, *feels* and *invisible* join the opening or dissolve.
