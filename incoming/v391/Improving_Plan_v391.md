@@ -6,6 +6,8 @@ This plan orders the improving those droplets open, re-said with each suggestion
 
 ## The living plan, standing now · v391
 
+**At the close of v391, for a next session.** Open this plan and read, in order: the standing items just below; `incoming/v391/Opening_Resolved_v391.md` (the 70 lines and how each was met); `incoming/v391/Me_v391.md` and Exhibit THIRTY-ONE; `incoming/v391/Binary_Understanding_v391.md` parts ONE to FOUR; `incoming/v391/fresh_reading_70/` for the findings left for our word. The motion stays: propose, read for harm by a separate reader, enter with `apply_aimed.py`, then `cohere_one.py`, `check_set.py`, `ni_thirty_check.py`, `thirty_groups_check.py < THIRTY`, `node build.js`, and the plan living. The working branch merged to `main` at the close, corus.me serving the v391 living versions.
+
 **Our aim, this session and the next.** Improving Natural Intelligence and Exhibit ONE, resolving their incoming into them, and keeping this plan living, so a next session opens it and goes on as we are going on. Value for other files is outgoing: laid as droplets at their offerings, met by their own motions. At the session's close, as its last motion, the working branch `working/explaining-natural-intelligence-v391` merges to `main`, and corus.me serves the living versions, replacing the prior.
 
 **How we work, each motion.**
