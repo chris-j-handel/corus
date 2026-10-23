@@ -164,7 +164,7 @@ Each a minor proving, reached once. A me with no other: it is not. A non-living 
 
 ## 3.4 A me inward, a society of selves
 
-Each parity is a self while it is living, and a me's living parities are within it. A me is a same-existing-society inward.
+Each parity is a self while it is living, and a me's living parities are within it. **A parity is a me inside a set of me**: a me is a set of mes, and a parity's inverting is a me completing and a next me opening inside the same set, the set's me same-existing through it. A me is a same-existing-society inward.
 
 *Observings.*
 - **The holobiont** (Gilbert, Sapp & Tauber 2012): animals and plants are host and symbionts by every criterion. https://www.journals.uchicago.edu/doi/10.1086/668166
