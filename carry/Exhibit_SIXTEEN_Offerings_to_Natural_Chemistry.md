@@ -77,3 +77,7 @@ Contradiction, the living and the non-living: Natural Biology draws the line the
 *Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
 
 - **Its way in.** A field's observing pattern-matched with the resolver's entry, as Natural Physics does; Natural Chemistry has none yet.
+
+## Incoming · chemistry-session-launch-20261023
+
+- **Natural Chemistry's next revising · the whole exploring gathered:** [Natural Chemistry — gathering and next exploring](../incoming/chemistry-water-20261022/Natural_Chemistry_Exploring_Report.md) brings the session's 61 Chemistry, two Societies and one Ghost Registry offerings together with their chemical learning, candidate natural explaining, living concerns and further exploring, carrying its v390 source snapshot explicitly beside the current v391 files for this file's own resolving. — chemistry-session-launch-20261023

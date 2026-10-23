@@ -4,6 +4,8 @@ Living Improving Value · improved at v391
 
 ## Current working · v391
 
+**Incoming for Natural Chemistry's next revising session:** [Natural Chemistry — gathering and next exploring](../incoming/chemistry-water-20261022/Natural_Chemistry_Exploring_Report.md) carries the complete chemistry exploration, 64 existing offerings, their unresolved correspondences and next exploring opportunities, with a current-version entry for v391; its direction is also at Chemistry's offerings and Incoming.
+
 **Standing to resume, v391.** Session v391, *explaining natural intelligence*, merged to `main` at its close (pull request #147 and the close's own); every file it improved is a v391 living file, corus.me serving them, Exhibit THIRTY-ONE Me among them. A next session begins at [`incoming/v391/Next_Session_Start_v391.md`](../incoming/v391/Next_Session_Start_v391.md), then [`incoming/v391/Improving_Plan_v391.md`](../incoming/v391/Improving_Plan_v391.md). The session's transcript is whole at `archive/session_v391/Session_Transcript_v391.txt`, read at the close into `archive/session_v391/incoming_v391/session_learnings/`; its value laid as droplets at 27 files' offerings.
 
 
