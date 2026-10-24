@@ -243,3 +243,51 @@ Each is one sentence at the offerings of the file it concerns, under *Incoming �
 - Natural Networking
 - Exhibit THIRTY-ONE Me
 - Geodesic Improving Method
+
+## 11. Returning to basic chemistry: state–flow–state at its first entering
+
+- **A state is the instrument's reading that has stopped changing, read as the thing having stopped.**
+  - The melting plateau: water also stays liquid below 0 °C.
+  - The saturated solution: its crystals reshape over days, and marked salt exchanges, as Hevesy and Paneth found from 1913.
+  - The "complete" reaction.
+  - Neutral water: a 0, indifferencing, not two amounts stored equal.
+  - The gauge: the ideal gas law is chemistry's law of no couplings, failing exactly where couplings begin.
+- **A flow is the instrument's sum of countless whole changings, told as one thing moving.**
+  - Heat flowing: suspended grains jiggle without end at one temperature, seen in 1827 and measured 1905–1908.
+  - A reaction proceeding.
+  - Energy "stored in bonds": chemistry teachers list this as a misconception, since breaking a bond takes energy; *nothing in nature keeps anything*.
+- **Le Chatelier's system "opposing" is a doer's narration.** Each self resolves with the others it now has.
+- **Conserved mass is chemistry's most basic observing of same-existing.** The count of atoms is the record laid over it.
+- **Each changing is observed whole at chemistry's finest scale:**
+  - a single channel open or closed (1976);
+  - a single atom jumping (1986);
+  - a single molecule switching.
+
+  A smooth rate is the sum, and *whole and of no size is the universal set concept*, offered.
+- *Offered:* **no universal time or temperature; both are fixed relationally, and nothing fixed relationally is living and resolving.**
+  - Clocks disagree flown or raised a few centimetres. A second is a count of a caesium atom's loop. Simultaneity at a distance is set only by two-way sharing, co-possibling.
+  - One gas holds several temperatures, a lone molecule has none, a negative temperature was prepared (2013), and the kelvin has been fixed by declaration since 2019.
+  - Observing runs now to prior. The now is universal; no duration between nows is, *each resolving whole, of no size*.
+  - Frontier: reports of mitochondria near 50 °C (2018), against physics' heat spreading.
+- *Offered:* **nature is one universal method: mes co-sequencing, each prior, now, next with an other's, facing each other across a between and both facing the same forward in right spiral, each geodesic parity changing whole and of no size.**
+  - DNA's strands run opposite ways, one's prior, now, next facing the other's next, now, prior. Each pairing is whole, both wind one right spiral, and each forms its next only forward, one smoothly and one in whole pieces (1968).
+- *Offered:* **nothing is copied.** DNA is a non-living stable-form emanation of the cell's living society.
+  - Each "copy" is half prior and half new (Meselson and Stahl, 1958). That is one self-momentary half overlapping the next: the Equilibria Registry's *prior, now and next as 1–2, 2–3 and 3–4*, and Exhibit ONE's *11, a next prior, a next momentary's 3*.
+  - Each new strand is its partner inverted across, base to complement, and along, direction reversed, so the sequence comes again two partings on: **bi-inversioning-co-recursioning**, offered.
+  - DNA alone does nothing and lasts outside living for up to two million years (2022). Its partings are met as agreeing or parting and resolved to about one in a billion. Form is also carried without DNA: reversed rows of surface hairs persisted through divisions (1965).
+- *Offered:* **an unresolved parting comes of local physical stable-forming** — water's contact, light, oxygen (Lindahl, Nobel 2015). It is open as to harm or help, bi-morally locally competent, and carried by no me yet: **societal possibling beyond co-possibling**.
+  - About sixty to seventy new changes per child (2012).
+  - The sickle change is harm in two copies and help in one where malaria lives.
+  - Milk digestion became help through herding societies' living.
+  - Lenski's bacteria opened a new food only after earlier passed-over changes (2008).
+- *Offered:* **a 0 is an interest aiming and living as an us, a moral cooperation between the parities of me and you; changing us is-or-is-not and same me is-or-is-not, bothbothing, the only way of possibling and pattern-matching.**
+  - Exhibit ONE's two alike selves both ways share −, 0, +, 0, −, 0.
+  - Each double strand is one same and one changing.
+  - Changes leaving a protein the same are the me holding while the us changes. Such 0s made a later function possible in a rebuilt ancient receptor (2007).
+  - The helping gene pair is one same and one changing: the sickle carrier, hybrid vigour. Two carrying the same unresolved parting harm.
+- *Offered:* **diversity is universally co-competencing society adding new binary orthogonal observings into priors**, and the me resolves in this too.
+  - The defending society diversifies first, meets, and carries memory into its priors, smallpox memory for fifty years. It removes young cells that would recognise its own selves.
+  - Mixed rice fields cut disease by about nine-tenths (2000), while uniform fields fell: Ireland 1845, maize 1970.
+  - More species hold grassland steadier.
+  - A bird's fourth colour receptor adds ultraviolet.
+  - Concerns: the mantis shrimp's twelve receptors discriminate less finely (2014); distant crossings sometimes weaken offspring.
