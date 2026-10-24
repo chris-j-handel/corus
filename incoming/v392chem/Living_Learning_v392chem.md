@@ -419,3 +419,21 @@ Each is an observing that parts from a pattern-matching now in the living files,
   - Two pattern-matchings stand together here: the molecule at 7 is the ladder's first self, living; and each non-living thing is a stable-form emanation from a living self it was. Either these molecules are living selves, far from cells, or they are emanations, and then the living they emanated from is outward, at a star's scale or beyond. The question of whether stars are living returns, now as a concern.
   - Bennu's both-hands meets right-spiral living well: both hands in equal amounts is what non-living forming shows; one hand is what living shows.
 - **Radioactive carbon's pace has never been seen to change with any chemistry** (open from §13). It is the one carbon changing inside a living molecule whose timing no living society reaches.
+
+## 17. The Sun living, the solar system living, and no near or far
+
+- *Pattern-matching:* **the Sun is living; the solar system is living; space is not far from living, because there is no near and far, only bi-coupling or no bi-coupling.**
+  - Concern §16's *molecules far from living* carried a ghost, *far*. Distance is an observer's reading, as time and temperature are (§11).
+- **Observings that meet it:**
+  - **We live inside the Sun's surface.** The Sun's wind fills a bubble about four times wider than Neptune's orbit. Voyager 1 passed its edge in 2012 and Voyager 2 in 2018, each meeting a sharp change of wind, field and particles there. Earth and its living go round within it. The shape of the bubble is disputed: a long tail, or rounder with two lobes (models, 2015, 2020).
+  - **The Sun cycles four ways.** Its spots rise and fall about every eleven years, and its magnetic poles turn over at each peak, so the whole round is about twenty-two years: rising, turning, falling, turning back. That is a four-cycling.
+  - **The Sun has rested.** From about 1645 to 1715 its spots nearly vanished. This meets §10's dormancy: living relying on its own environs while its parity changing is low.
+  - **The Sun ingests and emanates.** It takes in hydrogen and gives out helium, light and wind (§13). Sun-like stars near their end puff out carbon in their winds, and much of the carbon in living came from such winds. The football carbon molecules of 2010 shine in exactly such a cast-off shell: a dying star's stable-form emanation.
+  - **Stars form from the clouds earlier stars cast off.** Each generation of stars is richer in what earlier stars made. This is carbon's round at the stars' scale: free, ingested, emanated free, ingested.
+  - **Molecules found in comets and asteroids are inside the solar system.** A comet's glycine (2016) and Bennu's amino acids and DNA and RNA letters (2025) are within the living solar system's surface, a stable-form emanation of its living. That meets step 493: *a non-living going on is a stable-forming emanation from a living self it was*.
+  - **The planets go round one way.** All eight orbit the Sun in its own turning direction, and most spin that way too. Venus spins slowly backwards and Uranus rolls on its side.
+- **Concerns:**
+  - **Natural Societies 5.3 puts the biosphere at 53 as *the widest scale that closes here … past which is a not-torus death*.** A living Sun outward of the biosphere parts from that line. *The ladder supplies no first and no final one* already leaves room. The Sun would then be living on the next ladder outward, with the biosphere inside it.
+  - **Where the Sun stands on the ladder outward needs pattern-matching.** Is the solar system 5, 7 or higher on a next 1–53, or is the Sun a self within the solar system's society?
+  - **Living Society Registry 2.14 (a star at one count) calls a neutrino a *self* changing along its path.** That is another case of something smaller than the atom called a self, beside those re-said today.
+  - **Venus's backward spin and Uranus's roll** sit beside §5's left-coiling snails. If the planets are the Sun's non-living stable forms, a reversed turning is an emanation's, and harms no living. If the planets are living, these are the snail concern again.
