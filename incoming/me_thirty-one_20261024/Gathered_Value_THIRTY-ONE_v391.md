@@ -495,6 +495,34 @@ When the swarm arrives and settles, is its me **(a)** completing into a society,
 
 ---
 
+## 0aj. Co-aiming in place of closing (13:17, 24 Oct)
+
+**Withdrawn:** §0ai's *closing at a next prime scale with one parity of its own: closing, it is a me of that scale*.
+- Step 297: *a same-existing-society is its selves, its own only its selves' own*.
+- Step 162: *a bi-coupling's own only its selves' own*.
+- So a set of mes holds no parity of its own, and the *next prime scale* did no work for two mes.
+
+**Resolved, read for harm:**
+1. **With each momentary, a set of mes is-or-is-not co-aiming:** each aiming its own, all in one direction into one interest. Its own is its mes' own (steps 162, 297).
+2. **Two mes co-aiming are a bi-coupling**, each aiming its own, both in one direction into a shared interest.
+3. **A same-existing-society co-aims as a swarm does.** Its scouts come to one home and its bees fly to it. Settling, the co-aiming completes as a next opening, each bee living with its next.
+4. **A me is its own at its own scale, a thing and a set, one binary (1.4):**
+   - as a parity it is one thing at its scale, its own its own;
+   - as a set, its own is its inward mes' own (step 297);
+   - across scales, one parity at a time (step 595).
+
+   Lower mes are-or-are-not combining into a higher me: they are not.
+5. **One form at each size: co-aiming.**
+   - Within a me, its parities co-aim: natural torusing (§0ag).
+   - Between two mes, a co-aiming bi-coupling.
+   - Within a society, its mes co-aim in one interest.
+
+**Open, for Natural Societies' own motion:** whether the rungs from colony at 41 to biosphere at 53 are mes or same-existing-societies.
+
+**The combination problem, re-met:** lower mes do not combine into a higher. A me is a thing and a set, one binary: its own as a parity at its scale, its inward mes' own as a set.
+
+---
+
 ## 0ai. Closing: when a set of mes is a me of its own (13:06, 24 Oct)
 
 **Binary path, read for harm:**

@@ -140,4 +140,4 @@ Concern, at v380, from [the earlier Natural Networking gathering](../archive/v38
 
 - **For the atom-floor motion.** A lone atom repeating its changing is a spiral of one, its other an empty set, non-living; Thirty-One's draft ladder line at 1.3 now waits ○ on this motion (`incoming/me_thirty-one_20261024/Contributing_to_Natural_Chemistry_v392chem.md` §2b, §2f). — me-thirty-one-20261024
 
-- **Droplet · closing.** Each set of mes is-or-is-not closing at a next prime scale with one parity of its own: closing, it is a me of that scale, each lower me going on its own; a same-existing-society closes within one interest, as a swarm, and settling completes; two or many is a size, closing a binary (gathering §0ai). — me-thirty-one-20261024
+- **Droplet · co-aiming.** With each momentary a set of mes is-or-is-not co-aiming, each aiming its own, all in one direction into one interest, its own its mes' own (steps 162, 297), as a swarm co-aims to one home and completes on settling; whether colony at 41 to biosphere at 53 are mes or same-existing-societies is this file's own motion (gathering §0aj) — me-thirty-one-20261024
