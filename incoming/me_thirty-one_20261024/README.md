@@ -64,3 +64,7 @@ No living file is changed. Each droplet waits for its own file's motion: propose
 
 `Thirty-One_improving_by_section_v391.md` holds the session's concepts (gathering §0b to §0ad) against each section of Thirty-One v391 and the next-version draft. For each section it gives the line to re-say (▲), the line to withdraw (▼), the science observings, verified and tagged agreeing or parting (◆), the related hard problems with Resolving the Hard Problem Registry's place, cohering or parting (◎), and what stays open (○). A separate reader has read it for harm, and its findings are applied. Its section D holds ten questions for the person, hardest first.
 
+## The second-pass draft, 24 October
+
+`Exhibit_THIRTY-ONE_Me_next_v2_marked.md` and `_clean.md` are the next version of Thirty-One with the section map's re-sayings in natural naming. In the marked copy, ◇ is changed, ✦ is new and ○ is open. A separate reader read it for harm, and its findings are applied. Three places stay ○: division and a settled hive, under anaesthesia, and a stone's set (for chemistry). It enters Thirty-One only at Thirty-One's own motion.
+

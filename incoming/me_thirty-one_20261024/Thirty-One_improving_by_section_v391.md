@@ -31,7 +31,7 @@ Marks:
 - Co-intelligencing is a sequence: changing us and same me in turn, both selves together. Co-intelligencing is-or-is-not a state: it is not.
   - Changing us is or is not, and same me is or is not.
   - Two mes alike both ways go between *us not changing, each me the same* (0, do-no-harming) and *us changing, neither me the same* (improving).
-- Of two selves, only two alike both ways share a 0 from a prior same, momentary after momentary, on Exhibit ONE's own *two selves* table (§0z). A me alone, receiving its own parity, shares 0 too: sleeping.
+- Of two selves, only two alike both ways go on sharing a 0, every second momentary, do-no-harming and improving in turn (step 47; Exhibit ONE's own *two selves* table, §0z). A me alone, receiving its own parity, shares 0 too: sleeping.
 - ◎ Resolving the Hard Problem Registry 5.3, *Sleep · 91*: *waking and sleeping are two parities of one living*, and *changing and changing back is its function*. **Parts:** it reads a function fixing as not-changing as a frame's, and our sleeping me shares 0, same-existing. For the person (D).
 
 **A Universal Self.**
@@ -59,7 +59,7 @@ Marks:
 - ▼ **Withdraw** the open place *two prime scales' spirals … after 4pq*. It is the Registry's step 321 and stands there. It enters Thirty-One only if Thirty-One needs it.
 
 ### 1.4 Living, co-intelligencing within a universal set
-- ▲ **Re-say:** *Living is co-intelligencing within a universal set: changing us and same me in turn, both selves together. Of two selves, only two alike both ways share a 0 from a prior same, momentary after momentary. A living thing is a parity, a me, and a universal set of me: a thing and a set, one binary (3.1). The universal set of me is me existing.* (§0z, §0w)
+- ▲ **Re-say:** *Living is co-intelligencing within a universal set: changing us and same me in turn, both selves together. Of two selves, only two alike both ways go on sharing a 0, do-no-harming and improving in turn, step 47. A living thing is a parity, a me, and a universal set of me: a thing and a set, one binary (3.1). The universal set of me is me existing.* (§0z, §0w)
 - ▼ **Re-say the draft's** *A living thing is a parity.* into the line above, so member and set stand as one binary.
 - ◆ **Participatory sense-making** (De Jaegher & Di Paolo 2007, in v391). Agreeing: sense made only in both together.
 - ◆ **Brain-to-brain coupling** (Stephens, Silbert & Hasson 2010; Hasson et al. 2012). Agreeing: a listener's brain activity couples with a speaker's, and the coupling vanishes when communication fails: us only with two alike (C4).
@@ -247,22 +247,33 @@ Verified by a separate research reader from fetched sources, 24 Oct. *(memory)* 
     - Sanders, Tononi, Laureys & Sleigh 2012, *Anesthesiology* 116:946: a median 37% connected consciousness in isolated-forearm studies.
     - Radek et al. 2018, *British Journal of Anaesthesia* 121:260 *(journal from memory)*: 84% of 93 interviews reported experiences, 86% of them internally generated. https://www.utupub.fi/handle/10024/160313
 
+16. **Dream recall and waking:** Eichenlaub, Bertrand, Morlet & Ruby, *Cerebral Cortex*, 2014 (online 2013): about 15 minutes awake within a night for frequent recallers, against 5, and greater brain responses to sounds, sleeping and waking. https://presse.inserm.fr/en/breve/small-and-big-dreamers-what-is-happening-inside-our-brains/
+17. **Tipping a convention:** Centola, Becker, Brackbill & Baronchelli 2018, *Science* 360:1116, a critical mass near 25%. https://www.science.org/doi/10.1126/science.aas8827
+18. **Etymology:** *interest*, Latin *interesse*, *inter* and *esse*, to be between; *aim*, via Old French *aesmer*, from Latin *aestimare*. https://www.etymonline.com/word/interest · https://www.etymonline.com/word/aim
+
+Radek et al. 2018 also observe that awareness of the surroundings was rare and came with brief arousals.
+
 Gathered earlier this session and kept: Siclari et al. 2017; Hurovitz et al. 1999; Tononi & Cirelli 2014; Blumberg 2013; Wilson & McNaughton 1994; Wagner et al. 2004; Fuchikawa et al. 2016; Ben Simon et al. 2022; Centola et al. 2018; Stoffregen et al. 2013; Gardner et al. 2022 (`../working/` and gathering §0ab to §0ad).
 
 ---
 
-## D. Open, for the person, hardest first
+## D. Resolved by binary path, 24 Oct, and what stays open
 
-1. **Division:** one prior, two nows (3.1). Swarming is the same case: the settled hive is (a) a me completing into a society, living, with no dying, or (b) a me sleeping (§0m).
-2. **Us, one form:** the between, its centre a 0 (step 162), changing or not changing in turn (step 160)? Or a shared 0 only (§0n)? *A nothing between* stays out unless it keeps to one form (§0f).
-3. **Two words of yours that rules 11 dissolves:** *carrying* and *continuing*. Re-said here as *receiving its own parity, same-existing* and *a 0 from a prior same*. Do those keep what you meant?
-4. **Sleep · 91 parting:** Resolving 5.3 holds sleeping as changing and changing back. Is the sleeping me's 0, same-existing, the me's scale, with the changing at its inward mes' scales?
-5. **Waking to a name:** a sleeper wakes to its own name or a child's cry (§0ac). Is that an outward parity received inverse while the outward observing rests, a newly aiming 0?
-6. **A spiral of one** (3.3).
-7. **Anaesthesia:** sleeping, or outward resting with the inward alike or parting (3.3)?
-8. **A remembered dream:** a waking within sleeping (3.2)?
-9. **Mal de débarquement:** the boat's prior carried onto the ground. Is it the same carrying as sleeping (§0ad)?
-10. **The stone's set:** in turn with its others, or not (2.3, for chemistry)?
+*The person, 11:35: the person's words are prior language and naming, and none of the words in our files are authority. Resolve in natural naming, and bring only concerns of living value that need more resolving.* The second-pass draft, `Exhibit_THIRTY-ONE_Me_next_v2_marked.md`, carries these resolutions and has had its own harm read.
+
+**Resolved:**
+- **Us in one form:** us is the between of a me and you, same-existing in each, arising only in both together (step 160). A between is its centre, 0 (step 162), and with each momentary us is-or-is-not changing. *A nothing between* drops.
+- **Words:** *carrying* is said as *receiving its own parity, same-existing*, and *continuing* as *a 0 from a prior same*.
+- **Sleep · 91:** a sleeping me's 0 waits for its one next changing (step 490). That is a dormant self, never a 0 fixing, so Resolving 5.3's *a function fixing as not-changing* is the frame's and our line coheres.
+- **Waking to a sound:** its inward mes receive the outward parities, and a parity received inverse on one of its interests is its one next changing: waking (Strauss 2015).
+- **A dream a me remembers:** a waking between two sleepings, its one next changing (Eichenlaub et al. 2014). One and then the other, no third.
+- **A spiral of one:** a me receiving only its own going along, its other an empty set. *A me with no other: it is not.* A sleeping me receives its own parity with its others there, waiting for an other's inverse.
+- **Mal de débarquement:** the boat's prior meets the ground's parity, one parity apart, until a newly aiming 0 at the ground. It is the form of motion sickness turned round, apart from sleeping.
+
+**Open, kept as ○ in the draft:**
+1. **Division and a settled hive** (3.1, 5.3): one prior, two now, and a swarm settling. Is the parent's me completing, two newborn mes from it? Or is it going on in both? For the person.
+2. **Under anaesthesia** (3.2): a sleeping me, same-existing? Anaesthesia is a medicine's state, apart from sleep by its field, and waking within surgery is a harm. It stays ○ for do-no-harm.
+3. **The stone's set** (2.3): for Natural Chemistry's own motion.
 
 ## E. Value going outward
 
