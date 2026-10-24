@@ -344,12 +344,16 @@ Each is one sentence at the offerings of the file it concerns, under *Incoming �
   - Fungi and bacteria take dying's emanations back into living, and seeds, yolk and milk pass stable form to the next.
   - *Offered:* passing on and emanating free are the bothbothing of each ingesting.
 - *Offered, answering where carbon's living is:* **carbon is universally non-living; carbon is stable form universally.**
-  - The question, inward of the atom or outward in the stars, carried a ghost: that a stable form has its living somewhere. Carbon has none, at any place. Whether stars are living is a separate question, and its answer gives carbon no living.
+  - The question, inward of the atom or outward in the stars, carried a ghost: that a stable form has its living somewhere now. Carbon's living was, in the selves it emanated from. Whether stars are living is a separate question.
   - This answers the reader's question: nothing is living inward of an atom. Chemistry 3.2's *below chemistry, living … is colour cycling* and its *nuclear same-existing-society* need re-saying with the atom-floor motion.
   - Natural Intelligence 5.1 already fits it: *stable-forming emanations … each from living stable-forming*. Carbon is what each living self's stable-forming emanates.
   - *Offered next:* **carbon was living in higher-scale selves, as all other non-living things in the universe were; carbon is a stable-form emanation from living.**
   - So step 493 stands as it is: *a non-living going on is a stable-forming emanation from a living self it was*. The living self carbon was is outward, at the higher scales, each living self from 7 up whose stable form it is. A concern raised here, that carbon was never a living self, is withdrawn.
   - Nothing is living inward of an atom; carbon's living was outward. The reader's two ways were both partly right: nothing inward, and living's source outward, in every higher-scale self.
+- *Offered:* **carbon is the stable form of unrelationing floating neutraling, in society and in selves and free of both, non-living, in the universal set.**
+  - Three places, one carbon: within a society, within a self, and free of both. That is the round already offered here, free, ingested, emanated free, ingested.
+  - *Unrelationing floating neutraling* joins the person's first offering, *atoms are floating neutralings nothings co-linearizing society*, and Chemistry 1.6's *a nothing its couplings surround and wrap*: carbon is where relationing is-or-is-not, the neutral each sharing winds round.
+  - Observing that fits: carbon takes the middle of every chemical scale of pull, half-way between the most giving and most taking forms (its electronegativity 2.55, near the centre of the 0.7 to 4.0 range), and shares four ways equally, leaning to no side.
 
 ## 14. Oxygen, fire, the me in a society's surface, and dying
 
