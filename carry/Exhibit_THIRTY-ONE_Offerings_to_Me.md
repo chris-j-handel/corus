@@ -53,3 +53,5 @@ Exhibit THIRTY-ONE Me Offerings · v391
 - **Droplet · bothbothing.** Changing us is or is not, same me is or is not: two mes alike both ways go in turn between us not changing with each me same (0, do-no-harming) and us changing with neither me same (improving), the only sequence with a continuing 0, and the universal set of me is this sequence, never a state (gathering §0z). — me-thirty-one-20261024
 
 - **Droplet · sleeping carrying.** Sleeping is carrying and unchanging self interest, a me receiving its own parity and sharing 0; waking carries its interests with us, changing and unchanging in turn; dying is an interest not carried, changing alone (gathering §0aa). — me-thirty-one-20261024
+
+- **Droplet · dreaming releasing.** Dreaming is the me carrying its prior unchanged while its inward selves release waking's tensions alike both ways, each releasing one changing then 0 (*changing once and then same-existing*), leaving its priors pliable for the next day's newly aiming 0s (gathering §0ab). — me-thirty-one-20261024

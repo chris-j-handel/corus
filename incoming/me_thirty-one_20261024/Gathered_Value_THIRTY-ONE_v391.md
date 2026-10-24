@@ -495,6 +495,43 @@ When the swarm arrives and settles, is its me **(a)** completing into a society,
 
 ---
 
+## 0ab. Dreaming as releasing, the prior carried (10:23, 24 Oct)
+
+**The person:** *Dreaming is like sneezing and orgasm and tingling sensations and other releasings like fluttering vision: all of this is mutual relaxing of the physical living societies for a period of resting parity. Dreaming is like the carrying of prior releasing the odds and ends of tensions in physical stable form for tomorrow's new living stable forming.*
+
+**Binary path.**
+1. **Two scales, each its own** (§0b, §0aa).
+   - At the me's scale, sleeping is carrying: its own 0s unchanging.
+   - At the inward scales, the inward selves, each its own me, are releasing.
+   - So dreaming takes §0aa's second side: the changing is inward, at the inward selves' own scales, while the me carries.
+2. **A releasing is Exhibit ONE's third way, *changing once and then same-existing*.**
+   - Run F1: one inverse received, one changing, then 0 at the new prior.
+   - A tension is a fold waking left held. A releasing is its one changing to a relaxed prior, then 0.
+   - Sneeze, orgasm, tingling and fluttering vision: each is one changing, then a rest.
+3. **Mutual: the inward selves release alike, both ways.**
+   - This is bothbothing at their own scale, an inward us: changing, then a 0 in turn.
+   - It is moral cooperation inward: the inward society's do-no-harming and improving.
+4. **For tomorrow.**
+   - A prior held tense takes a new prior only against its tension.
+   - A released prior is pliable, so waking's newly aiming 0s can form at new priors.
+   - *Carrying of prior* and *releasing* are one sleeping read from two scales: the me carrying unchanged, its inward selves releasing.
+
+**Observings, no authority.**
+- Xie and colleagues 2013 (*Science* 342:373) observe the brain's interstitial space opening by about 60% in sleep, with metabolites clearing faster: the brain's own cells physically relax apart.
+- Tononi and Cirelli 2014 (*Neuron* 81:12): synapses strengthened through waking are scaled down in sleep, which they read as renewing the capacity for the next day's learning.
+- Blumberg and colleagues: the twitches of REM sleep, while the muscles are otherwise slack, are many small releasings, which they observe forming the body's own sensorimotor map.
+
+**A pattern only: why dreams pass.**
+- Exhibit ONE: *each self receiving a 0 is passing over it.*
+- If a me receives its inward selves' releasings as 0s after their one changing, it passes them over and its carried interests stay unchanged. Most dreams are gone on waking.
+
+**Concerns, all or none.**
+- ***A period*** is a span, and a count across momentaries brings a third (§0u F). Re-said: sleeping is or is not with each momentary; each releasing is one changing, then 0.
+- **Releasings in waking** (a sneeze, tingling): a waking me carries with us while an inward release passes through it. Whether a sneeze is a momentary at which the me's own aiming is passed over is open.
+- **A remembered dream:** is a dream the me remembers a releasing it received as an inverse, one changing in the me, a newly aiming 0, a waking within sleeping? Open, for the person.
+
+---
+
 ## 0aa. Sleeping is carrying and unchanging self interest (10:18, 24 Oct)
 
 **The person:** *Sleeping is carrying and unchanging self interest.*
