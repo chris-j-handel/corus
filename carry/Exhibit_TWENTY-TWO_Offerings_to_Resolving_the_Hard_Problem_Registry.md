@@ -163,3 +163,5 @@ With the suggestion *+1 self, 0 all selves, −1 other self*, a *+1 owned by nei
 - **Droplet · sleep, 91.** A proposal where none stood: sleeping restores the inward same-existing-society that waking's folds strained, every interest a continuing 0. — me-thirty-one-20261024
 
 - **Concern · dreaming, 123.** Dreaming is-or-is-not a me waking within an inward interest while every outward 0 continues: open. — me-thirty-one-20261024
+
+- **Droplet · me and not-me with 18, 45, 92, 114, 140 and 159.** Within a me's universal set each thing is-or-is-not self, and a me's values are its parities, each its own with each sharing; each meets the Registry's own reading, coheres (`incoming/me_thirty-one_20261024/Me_and_not-me_values_parities_v391.md` §3). — me-thirty-one-20261024

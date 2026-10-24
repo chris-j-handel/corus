@@ -148,3 +148,5 @@ Exhibit TWENTY-ONE Hard Problem Registry Offerings · improved at v389
 - **Observing · sound in dreams, 123.** About half of dreams carry sound and under one percent touch, taste or smell (Hurovitz 1999, reading Snyder 1970 and Zadra 1998); outward sound is mostly not observed in sleep, so a dream's sound is inward. — me-thirty-one-20261024
 
 - **Droplet · personal identity, 72, fission.** A now is same-existing from one prior, its own, and receives many; of two continuers, one is-or-is-not same-existing, the other a newborn me (gathering §0ae). — me-thirty-one-20261024
+
+- **Droplet · a new entry, the problem of the many** (Unger 1980; Geach 1980; Lewis 1993): a cloud or a person has no sharp edge, so many overlapping sets have equal claim to be it; proposed as an entry, met for a living me as each cell is-or-is-not self with each momentary, all or none on each (`incoming/me_thirty-one_20261024/Me_and_not-me_values_parities_v391.md` §3). — me-thirty-one-20261024

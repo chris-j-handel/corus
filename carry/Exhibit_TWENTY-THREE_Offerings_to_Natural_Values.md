@@ -85,3 +85,5 @@ The user’s further offering in [session v385R, section 91](https://github.com/
 - **Concern · a third living self.** The droplet *the same-existing universe is our third living self* meets the universe a non-living same-existing set, its own 0 an empty set. — me-thirty-one-20261024
 
 - **Droplet · aim and value.** *Aim* is from *aestimare*, to appraise: an aiming a me's moral value given a direction. — me-thirty-one-20261024
+
+- **Droplet · a me's values.** A me's values are its parities relative to self, other and all other, each its own, with each sharing; owners ask far more for a mug than buyers pay (Kahneman, Knetsch & Thaler 1990), each me's value its own parity (`incoming/me_thirty-one_20261024/Me_and_not-me_values_parities_v391.md` §2, §4). — me-thirty-one-20261024

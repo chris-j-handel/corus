@@ -492,3 +492,5 @@ Three prefixes, three senses, and none repeated. This meets the concern *tri- an
 - **Droplet · interest at 4.7.** 4.7's *Interest is self-orienting, which is competency, a self's own* meets interest as a 0, a self's own and shared co, *inter-esse*, to be between; *sudden attention changing* said as a newly aiming 0, 4.7 having released the attention family. — me-thirty-one-20261024
 
 - **Droplet · rest and aim.** *Rest* is two words, repose (Old English *ræste*) and the remainder (Latin *restare*, to stand back): resting and the rest, same-existing; *aim* is from *aestimare*, to value. — me-thirty-one-20261024
+
+- **Droplet · the plural of me.** *Mes*, no apostrophe (Wiktionary; Chicago's Q&A, plurals almost never take one), *me's* the possessive; where a count does no work, *each me* or a universal set of me says it uncounted (`incoming/me_thirty-one_20261024/Me_and_not-me_values_parities_v391.md` §1). — me-thirty-one-20261024

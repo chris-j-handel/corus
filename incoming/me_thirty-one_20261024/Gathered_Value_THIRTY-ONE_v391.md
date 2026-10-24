@@ -495,6 +495,19 @@ When the swarm arrives and settles, is its me **(a)** completing into a society,
 
 ---
 
+## 0ah. Me and not-me, a me's values and parities, and the plural of me (12:56, 24 Oct)
+
+Whole at `deliver/Me_and_not-me_values_parities_v391.md`, read for harm.
+
+- **Plural:** *mes*, with no apostrophe. *Me's* is the possessive.
+- **Me and not-me is self and not self, within a me's universal set**, with each momentary:
+  - self is the me's own living parities, its inward mes;
+  - not self is an other, its within its own, or a non-living thing.
+- **A me's values are its parities** relative to self, other and all other, each its own, with each sharing.
+- **Hard problems met, each cohering with the Resolving Registry's reading:** 18, 45, 92, 114, 140 and 159. The problem of the many, which is not yet in the Registry, is met for a living me.
+
+---
+
 ## 0ag. Each living parity aiming at its own destiny on a surface horizon; natural torusing co-aiming the parities of me (12:44, 24 Oct)
 
 **Explored:** *Each living parity is aiming at its own destiny on a surface horizon. Natural torusing is co-aiming the parities of me.*
