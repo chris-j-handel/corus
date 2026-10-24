@@ -291,3 +291,29 @@ Each is one sentence at the offerings of the file it concerns, under *Incoming Â
   - More species hold grassland steadier.
   - A bird's fourth colour receptor adds ultraviolet.
   - Concerns: the mantis shrimp's twelve receptors discriminate less finely (2014); distant crossings sometimes weaken offspring.
+
+## 12. Orthogonality, the defending society, ingesting and allergy
+
+- *Offered:* **orthogonality is a single binary, is-or-is-not same-existing**, and the me resolves in this too, bothboth.
+  - Chemistry's own word, *bioorthogonal* (Nobel 2022), names reactions joining their partners inside living with the living's own chemistry going on unchanged.
+  - Physics observes measurements that go on together and ones that erase each other's priors (spin sorting, 1922).
+- **The defending society resolves by orthogonality, not by origin.** Our Hard Problem Registry 114 already holds the breakings of self against non-self.
+  - Gut bacteria are tolerated in the gut and resolved when they cross into the blood.
+  - The half-foreign child is tolerated (Medawar's question, 1953), and a son's cells were found living in his mother 27 years after his birth (1996): the me taking in a direction.
+  - Tumours are self and resolved, more strongly with restraints released (Nobel 2018).
+- *Offered:* **bi-coupling with a foreign living thing, and with a non-living stable form from a larger scale of living, are two cases, explored apart.**
+- *Offered:* **ingesting is only inside bi-tunneling, never on or through the surface.**
+  - Every animal body forms around a tunnel from mouth to end, and food is taken in at its lining once broken one scale lower: Natural Naming's *one scale lower an ingestible stable form*.
+- **Disease is foreign living crossing a surface or lining.**
+  - *Offered:* without the needed prior me in the society's co-sequencings, the society has no method of resolving until a resolving parity appears and spreads through its generations.
+  - Myxoma in Australia's rabbits killed over ninety-nine in a hundred in 1950, and resistance then spread within a few generations (traced 2019).
+  - Peoples meeting smallpox and measles for the first time from the 1500s were devastated.
+  - Defending gene forms became commoner after the Black Death (2022 study).
+  - A mother carries her prior me to her child, across the placenta and in her milk, and a society can carry it by its own living: smallpox ended in 1980.
+- **Allergy is mostly a non-living stable form emanated by larger-scale living, reaching the society whole:** proteins of peanut, egg, pollen, mite and cat.
+  - Many food allergens resist being broken lower, which is a test for new proteins.
+  - Peanut through eczema-broken skin brings allergy, while peanut eaten early cut allergy by about four in five (2015), and advice reversed by 2017.
+  - The mite's main allergen cuts open the airway surface's joins (1999).
+  - Farm-living Amish children had about a quarter the asthma of their Hutterite neighbours (2016).
+  - Pollen is both cases at once: a living cell carrying non-living protein. *Offered:* yes, bothboth.
+- **A proposed opening for Natural Chemistry**, one claim a line, with three ways in through Exhibit ONE's names, is at [Natural_Chemistry_Opening_Proposal_v392chem.md](Natural_Chemistry_Opening_Proposal_v392chem.md), for a reading for harm.

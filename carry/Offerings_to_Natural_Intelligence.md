@@ -108,3 +108,13 @@ Bothboth at v391: the opening's 43 lines, each feature bold where it first welco
 - **Dormancy and conscious interest:** Dormancy is living's stable form relying on its environs for the parity changing of carbon exchanging, as the stork's-bill seed's dead tail drills it into soil by wetting and drying, and conscious interest is self-parity, less dependent on the environs. ([living learning, §8](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
 
 - **No living without carbon exchanging:** No living thing is observed without exchanging carbon by ingesting and emanating, and where the exchange slows past instruments it returns, living one scale down. ([living learning, §7](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Orthogonality is-or-is-not same-existing:** A difference at right angles to a self's or society's priors leaves them going on and adds a direction, and one crossing them parts, so orthogonality is one binary on same-existing, the me resolving in it too. ([living learning, §12](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Whole and of no size:** Each geodesic parity changing is whole and of no size, as a universal set is, and at chemistry's finest scale changing is observed in whole steps, a channel open or closed and an atom jumping, a smooth rate their sum. ([living learning, §11](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **A 0 as the us's cooperation:** A 0 is a self's do-no-harming in its pair's co-sequence, the me same while the you improves, bothbothing changing us and same me in each momentary, as Exhibit ONE's alike pair shares −, 0, +, 0. ([living learning, §11](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Ingesting within the bi-tunneling:** Ingesting is only within a society's bi-tunneling, its stable form taken one scale lower, and a thing meeting the surface ingresses at its own scale, resolved only with a prior me. ([living learning, §12](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Societal possibling:** A parting carried by no me yet is the society's possibling beyond co-possibling, open as to harm or help until its living conditions meet it, and a resolving parity spreads through a society's generations. ([living learning, §11, §12](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

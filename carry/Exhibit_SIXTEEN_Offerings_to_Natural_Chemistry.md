@@ -105,3 +105,7 @@ Contradiction, the living and the non-living: Natural Biology draws the line the
 - **Living gives carbon its hand through a six:** Rubisco joins handless carbon dioxide to a five-carbon sugar already of living's hand, makes a six for an instant and parts it into two threes with hand, four pairs of its large parts round one centre joining carbon at their betweens. ([living learning, §7](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
 
 - **Electrons are observed as steps:** A charge is observed changing only in steps and electrons are identical and spread through one sharing, so an electron pictured as an owned particle is a ghost and its count a record. ([living learning, §1, §3](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **A proposed opening:** A proposed opening of one claim a line, from molecule as self through hand, water, crystal, dissolving, ingesting, DNA and equilibrium, with three ways in through 1-now-existing, 7-is-now-observing and 5-now-co-existing, waits a reading for harm with its three opens marked. ([proposed opening](../incoming/v392chem/Natural_Chemistry_Opening_Proposal_v392chem.md)) — v392chem
+
+- **State–flow–state at the basics:** At chemistry's first experiments a state is the instrument's reading stopped and a flow its sum of whole changings, the melting plateau, saturation, completion, neutral water and energy stored in bonds each a fixing at its first entering. ([living learning, §11](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

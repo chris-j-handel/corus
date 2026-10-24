@@ -141,3 +141,5 @@ Exhibit TWENTY-ONE Hard Problem Registry Offerings · improved at v389
 
 
 - **Homochirality after 2026:** The 2026 Nobel Prize in Chemistry recognised that a small excess of one hand is amplified, which settles amplification in the laboratory and leaves the source of the first hand as entry 63's crux. ([living learning, §5](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Self and non-self, entry 114:** Orthogonality to same-existing meets each breaking the entry records, the gut's microbes, the child, the tumour and damage, where origin as self or other parts from all four. ([living learning, §12](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

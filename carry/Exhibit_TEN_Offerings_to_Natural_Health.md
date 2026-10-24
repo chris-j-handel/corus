@@ -68,3 +68,5 @@ The user's further offering is: “if the living stable form is colliding with n
 
 
 - **The heart wrings like a towel:** The heart's muscle winds right-handed inside its wall and left-handed outside, and with each beat twists and untwists, which heart doctors call wringing a towel. ([living learning, §6](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Many early meetings:** Farm-living Amish children had about a quarter the asthma of their Hutterite neighbours (2016), many early orthogonal meetings into the priors making later mis-meetings fewer. ([living learning, §12](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

@@ -221,3 +221,10 @@ The current question is: **At the next colliding, which co-chaining of the inwar
 *Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
 
 - **A me's inward society.** The immune self (Burnet; Matzinger; Pradeu; regulatory T cells, Nobel 2025); autoimmune harm and cancer a self within a me parting its others; covert consciousness in about one in four unresponsive patients (Bodien et al., NEJM 2024). Observings at `archive/session_v391/incoming_v391/me_observings/me_obs_medicine.md`; Exhibit THIRTY-ONE Me.
+
+## Incoming · v392chem
+
+
+- **Allergy and disease, two cases:** Disease is foreign living crossing a surface or lining, and allergy is mostly a non-living protein of another's living reaching the society whole, by broken skin or unbroken by digestion, peanut eaten early cutting allergy by about four in five (2015). ([living learning, §12](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The defending society resolves by orthogonality:** Gut bacteria tolerated in the gut and resolved in the blood, a half-foreign child tolerated and its cells living in its mother decades on, and self tumours resolved show the defending society resolving by orthogonality to same-existing, not by origin. ([living learning, §12](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
