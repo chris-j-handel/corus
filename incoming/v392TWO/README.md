@@ -1,5 +1,7 @@
 # Natural network discovering · v392TWO
 
+**Current incoming:** [Learning for natural network discovering](Learning_for_Natural_Network_Discovering.md) gathers the concepts for a further inquiry. The retained executions below establish no natural pattern-matching or co-competency result; the participating observing remains unresolved.
+
 ## Observing is participating with a bi-coupling
 
 **The preceding correction still did not construct the observing required for this inquiry.** Collecting resolver returns and then removing their zero entries does not turn that collection into a self observing through its own bi-coupling. The resulting alternating list is a projection of the software record, not a complete observing of the network's changing and not-changing.
