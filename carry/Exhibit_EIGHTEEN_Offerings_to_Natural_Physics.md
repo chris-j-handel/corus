@@ -196,3 +196,11 @@ Exhibit EIGHTEEN Natural Physics Offerings · improved at v389
 
 *Standing at v389:* nothing parts at Natural Physics, at no sentence of which cryptography stands; a proposed possibling file, Natural Accounting, would take cryptography at an accounting of selves on a public surface, from Exhibit THIRTEEN 1.5, its sorting at sections 3 and 5.1, and runs one to four. **To resolve:** open Natural Accounting as a new possibling file, or re-aim this droplet to Offerings to Resolving Hard Problems?
 **Droplet · Natural Intelligence 2.1 re-said with the code, at v391.** Its *two sides … a self's, opening odd, and an other's, opening even* has left 2.1, not held by the code: along is a self's own going on, across is sharing with 6 and 10, along with 9. This file's citation of 2.1 meets it at its motion. — v391
+
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet is for this file's own motion, read for harm there.*
+
+- **Concern · two openings.** 1.2's *A torus has two openings* meets natural torusing as one opening, twisted figure-eight loops winding through it. — me-thirty-one-20261024
+
+- **Droplet · a snap alone.** 3.7's snap at a thinnest place, read with chemistry's crystals snapping, shows a snap alone is no test of a me. — me-thirty-one-20261024

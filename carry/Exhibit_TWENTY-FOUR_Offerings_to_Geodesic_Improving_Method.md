@@ -248,3 +248,11 @@ Exhibit TWENTY-FOUR Geodesic Improving Method Offerings · improved at v389
 - **At 2.6 · two lists apart.** Gaps in prior rigor, incoherence already entered, and improving opportunities still open, kept as two lists.
 
 - **This file's own words.** It says *a surface dividing itself*, *itself* about 12 times, *couple* and *couples* 8, bare *coupling*, bare *harm*, *membrane* in part TWO's title, and *stable form emanatings*; each dissolved or re-named at v391 (*a surface's own dividing*, *bi-coupling*, *do-no-harming*, *a stable-forming emanation*). A living name for *read for harm* is open.
+
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet is for this file's own motion, read for harm there.*
+
+- **Droplet · working partners transparent.** A session's incoming whole on its own branch at `incoming/`, its droplets laid at each file's offerings the same day, keeps each session's value readable to each other session. — me-thirty-one-20261024
+
+- **Concern · a branch with no shared history.** `working/chemistry-water-20261022` shares no history with `main`; its value reaches other sessions only as it is carried to `main`. — me-thirty-one-20261024

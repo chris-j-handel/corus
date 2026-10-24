@@ -59,3 +59,11 @@ Each sets a self and an other as two number lines, odd and even, overlapping one
 - **At 2.6 · alike selves, a right spiral.** Two alike selves bi-coupling both ways step their priors (x, y) → (y, −x), a quarter turn each momentary, sharing in turn changing then 0: improving then do-no-harming. Opposite selves take a half turn; alike selves one way do not right-spiral.
 
 - **Standing at v391's close.** Its droplet citing *line 28, beholding a parity* is stale: *beholding* and pointing dissolved; living is co-intelligencing within a universal set.
+
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet is for this file's own motion, read for harm there.*
+
+- **Droplet · the twisted loop.** Steps 267 to 268 and 740 and the Corus file's *seventeen figure-8 nothings* draw natural torusing as twisted figure-eight loops, an odd spiral's one loop passing each self twice, once with each parity. — me-thirty-one-20261024
+
+- **Concern · locking.** 4.4's two same-existing-societies locking meets the Registry's *locking an empty set* (step 185) and each self's own rate (321 to 323). — me-thirty-one-20261024

@@ -109,3 +109,9 @@ So with the six, 1 to 17 is one round only because 17 falls with a six's place, 
 - **Each six-cycle, three pairs making 17 and two halves of three.** 1-9-5-12-8-16 is 1+16, 9+8, 5+12; the second half the first half's others reversed; from 17 to 32 the pairs make 49 = 17 + 32, so each pair at one scale is one at the next.
 
 - **Four binaries laid on odd and even names (*four binaries with a self's span: now with 1 and 2 …*)** is the pairing dissolved at v391 from Natural Intelligence, Exhibit ONE and the Registry: no code line makes it; each is-or-is-not one test on one name, 3, 7, 13 and 15.
+
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet is for this file's own motion, read for harm there.*
+
+- **Droplet · odd and even.** 1.7's prime living scales, five to fifty-three, each odd, meet Exhibit ONE's spiral of selves: a 0 recurring only with an odd number of selves, and an even one with none. — me-thirty-one-20261024

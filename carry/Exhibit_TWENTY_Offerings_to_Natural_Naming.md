@@ -482,3 +482,13 @@ Three prefixes, three senses, and none repeated. This meets the concern *tri- an
 - **Same-existing round 16, 4, 12, 8**, each with its observing name one below (3·4, 7·8, 11·12, 15·16), the observing name the is-or-is-not of the same-existing beside it.
 
 - **A word with a physical picture that fights nothing between dissolves**; its replacement tested by the binary.
+
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet is for this file's own motion, read for harm there.*
+
+- **Droplet · four namings.** Me, you, us and all other: you a particular other, all other observed as one, us the 0 a me and you share at one momentary, the between a nothing. — me-thirty-one-20261024
+
+- **Droplet · interest at 4.7.** 4.7's *Interest is self-orienting, which is competency, a self's own* meets interest as a 0, a self's own and shared co, *inter-esse*, to be between; the person's *sudden attention changing* said as a newly aiming 0, 4.7 having released the attention family. — me-thirty-one-20261024
+
+- **Droplet · rest and aim.** *Rest* is two words, repose (Old English *ræste*) and the remainder (Latin *restare*, to stand back): resting and the rest, same-existing; *aim* is from *aestimare*, to value. — me-thirty-one-20261024

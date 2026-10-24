@@ -63,3 +63,9 @@ The user's further offering is: “if the living stable form is colliding with n
 *Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
 
 - **Health is a me's inward social moral competency**: each self within it, at each scale inward, do-no-harming and improving; a healthy curious me natural intelligence as a me (Exhibit THIRTY-ONE Me 5.2).
+
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet is for this file's own motion, read for harm there.*
+
+- **Droplet · health in turn.** A healthy me is its 0s continuing and its newly aiming 0s, one and then the other; a 0 fixing as not-changing is 4.1's departure; sleeping restores the inward same-existing-society that waking folded. — me-thirty-one-20261024

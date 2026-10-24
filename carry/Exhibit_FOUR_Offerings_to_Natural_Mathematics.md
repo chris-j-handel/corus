@@ -101,3 +101,9 @@ Exhibit FOUR Natural Mathematics Offerings · improved at v389
 - **At the set-theory passage.** A complement is taken only within a universal set; a *not* with no whole is the absolute complement, the overreach *never* is. The textbook's universal set is one context's whole, each thing's own universal set within one universe, so *no set of all sets* and *each self a universal set* both hold. A spiral of one is New Foundations' self-membered set in living form, noted.
 
 - **A relation needs two.** A relation is a subset of S × S; a one-element set has only (a, a), no direction relative to an other; so a parity needs two, and living is only co-living. Extensionality, a set its things, gives each universal set's uniqueness.
+
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet is for this file's own motion, read for harm there.*
+
+- **Droplet · one opening.** 5.3's *two parities' circles winding with one opening* meets the twisted figure-eight loops of steps 268 and 740. — me-thirty-one-20261024

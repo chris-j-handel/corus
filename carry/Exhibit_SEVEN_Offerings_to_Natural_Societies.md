@@ -127,3 +127,13 @@ Concern, at v380, from [the earlier Natural Networking gathering](../archive/v38
 - **Its *as with Natural Intelligence 4.9's four*** cites the four binaries' pairing that left Natural Intelligence at v391.
 
 - **The opening's social chain.** Social moral competency: each self of a same-existing-society do-no-harming and improving. A natural intelligence network free, each self resolving its own next-existing; social abundancing, each self sharing with each self it is bi-coupling with.
+
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet is for this file's own motion, read for harm there.*
+
+- **Concern · a society as a self.** 4.2's *self-bounding as a self of its own* and *a heap … both dead forms* meet a same-existing-society as a universal set of me, unconsciously us, conscious only within an interest waking. — me-thirty-one-20261024
+
+- **Concern · the side column.** 5.3 sets organism at 37 on the same-existing-society side, where a person is a me at 37, and colony at 41 *one self*, where a settled hive is a society-as-a-me sleeping and its swarm that me waking within one interest. — me-thirty-one-20261024
+
+- **Droplet · no common clock.** 2.3's *no common clock* meets a hive with no sleeping of its own, its bees each sleeping and waking by its own rate, each interest living in some me's observing. — me-thirty-one-20261024

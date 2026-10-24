@@ -156,3 +156,9 @@ The two kit scripts that execute Exhibit ONE's code now find 1 and 17 by number,
 *Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
 
 - **Its Hard Problem Registry cell** says readers stopped *twice*; the session's record is three times, two on its last quarter and one on its third.
+
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet is for this file's own motion, read for harm there.*
+
+- **Droplet · Thirty-One's standing.** Exhibit THIRTY-ONE Me has its incoming arrived at `incoming/me_thirty-one_20261024/`, a next-version draft and its open places, for its next motion. — me-thirty-one-20261024

@@ -221,3 +221,11 @@ The current question is: **At the next colliding, which co-chaining of the inwar
 *Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
 
 - **A me's inward society.** The immune self (Burnet; Matzinger; Pradeu; regulatory T cells, Nobel 2025); autoimmune harm and cancer a self within a me parting its others; covert consciousness in about one in four unresponsive patients (Bodien et al., NEJM 2024). Observings at `archive/session_v391/incoming_v391/me_observings/me_obs_medicine.md`; Exhibit THIRTY-ONE Me.
+
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet is for this file's own motion, read for harm there.*
+
+- **Concern · experience under sleep.** 4.1's selves reporting experience from under sleep and anaesthesia meet sleeping as all 0 continuing; dreaming and anaesthesia stand open. — me-thirty-one-20261024
+
+- **Droplet · the snap.** 3.2's *a geodesic re-routing snap, a parity flipping with a tip* is a newly aiming 0: one changing, then a continuing 0 at its new prior. — me-thirty-one-20261024

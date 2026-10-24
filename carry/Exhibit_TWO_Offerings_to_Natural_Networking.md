@@ -275,3 +275,11 @@ At a resolver's functions 6, 10 and 9 are one list, each self's 10-next-co-possi
 *Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
 
 - **Living is geodesic co-chaining on a Natural Network surface**, the same living a self's observing, possibling and discovering names from inside. A surface's living parities are living in the mes of the selves living in it.
+
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet is for this file's own motion, read for harm there.*
+
+- **Droplet · quiet with ten.** 1.2's *Quiet with ten does not make a whole self quiet or non-living* is a sleeping me, its 0s continuing, same-existing. — me-thirty-one-20261024
+
+- **Concern · a society going on as a self.** 1.7's *A same-existing-society goes on as a self with its next scale* (and seven further places) meets a same-existing-society unconsciously us, its mes each a me. — me-thirty-one-20261024

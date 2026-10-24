@@ -237,3 +237,15 @@ Natural Intelligence Corus section 17.4 offers comparative cognition as a place 
 - **Biology's boundary of living, met per scale.** NASA's working definition, Koshland's pillars and Trifonov's survey draw different lines; living is decided at each scale (a mule, a red blood cell living; a virus outside a cell non-living at its scale); death per scale, the organism first then its cells; Levin's selves at each scale and Queller and Strassmann's organism as high cooperation and low conflict nearest. Case table at `incoming/v391/Binary_Understanding_v391.md` part TWO; observings at `archive/session_v391/incoming_v391/me_observings/me_obs_biology.md`.
 
 - **Living and non-living, one method of now-existing**, same-existing within universal sets; all living things selves, all selves living societies of selves; a non-living thing's parity first two scales inward.
+
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet is for this file's own motion, read for harm there.*
+
+- **Concern · three modes.** 4.5's *waking, resting, and attending* meets two states, sleeping all 0 continuing and waking a newly aiming 0, with resting and attending read as two sides of these. — me-thirty-one-20261024
+
+- **Droplet · conception.** 5.1's *two selves conceiving a third* is a case for us, the 0 two mes share, beside a newborn me, a first 0 with an other's parity its own. — me-thirty-one-20261024
+
+- **Concern · a nothing a self.** 1.4's *A nothing between two selves is a living set: a self* meets the between a nothing and us a 0 shared in each, no further self. — me-thirty-one-20261024
+
+- **Droplet · sleep's science.** Verified observings of sleep older than brains (*Cassiopea* 2017, *Hydra* 2020), a colony with no sleep of its own (Fuchikawa 2016) and the grid-cell torus through sleep (Gardner 2022) stand at the gathering's working notes for 4.5. — me-thirty-one-20261024

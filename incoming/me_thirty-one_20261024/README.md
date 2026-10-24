@@ -49,3 +49,14 @@ Incoming · me-thirty-one-20261024
 
 - What makes a set of mes a universal set of me, and a stone's set none (§0w)?
 - Whether a hydrogen bond's persisting is a continuing 0, us, with its donor and acceptor roles changing about it (§0y).
+
+## Droplets laid, 24 October
+
+One-sentence droplets tagged `me-thirty-one-20261024`, under `## Incoming · me-thirty-one-20261024`, stand at 26 offerings files in `carry/`: Exhibit THIRTY-ONE, SIXTEEN (Chemistry), ONE (Resolver), THIRTY (Registry), Natural Intelligence, Natural Intelligence Corus, SEVEN (Societies), TWO (Networking), NINE (Human Society), EIGHT (Exploring), SEVENTEEN (Biology), ELEVEN (Medicine), TEN (Health), TWENTY-TWO, THIRTEEN, TWENTY-ONE (the hard problem files), TWENTY (Naming), NINETEEN (Philosophy), TWENTY-EIGHT (Equilibria), TWENTY-THREE (Values), TWENTY-NINE (Illustrating), EIGHTEEN (Physics), FOUR (Mathematics), THREE (Numbers), TWENTY-FOUR (Method), TWENTY-SIX (Living File Registry).
+
+No living file is changed. Each droplet waits for its own file's motion: propose, read for harm by a separate reader, enter.
+
+## Shared with the chemistry session
+
+`working/chemistry-water-20261022` holds 44 droplets at `carry/Exhibit_SIXTEEN_Offerings_to_Natural_Chemistry.md` on a branch with no history shared with `main`. A copy of what this session read from it is at `Chemistry_incoming_seen_20261022.md` here, with the learning shared at the gathering's last sections.
+

@@ -103,3 +103,11 @@ The user's further offering is: “if the living stable form is colliding with n
 - **At 3.3 · four binaries at two faces.** Its table lays four binaries on name pairs (now 1·2, existing 3·4, same 5·6, all 7·8): the pairing dissolved at v391, made by no code line; the ten fixings seated on it re-seated or said without it.
 
 - **A proving reached once.** A set of only non-living things as a universal set is-or-is-not possibly existing: it is not, as an equilibrium is not. A minor co-chaining step, and the logic goes forward by what is.
+
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet is for this file's own motion, read for harm there.*
+
+- **Droplet · surfacing zero.** 2.1's *A living self can surface zero, non-responsive with a momentary, while its same-existing goes on along* is a sleeping me. — me-thirty-one-20261024
+
+- **Droplet · a living nothing.** 1.3's *Naming a coupling supplies no further self between coupling selves* meets us as the 0 a me and you share, a prior behind it in each, no further self. — me-thirty-one-20261024

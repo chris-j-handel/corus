@@ -77,3 +77,11 @@ The user’s further offering in [session v385R, section 91](https://github.com/
 - **A non-living thing's value is social.** A self's parity is relative to a now-existing thing within its me, a non-living thing included; its value same-existing only where selves' parities agree, as many prefer gold over lead. *Moral*, from *mos*, a way; a changing direction is a way.
 
 - **At 4.1 · *no universal set stands*.** Set theory has no set of all sets; each self's universal set, its me, stands within one universe: said of a set of all sets only.
+
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet is for this file's own motion, read for harm there.*
+
+- **Concern · a third living self.** The droplet *the same-existing universe is our third living self* meets the universe a non-living same-existing set, its own 0 an empty set. — me-thirty-one-20261024
+
+- **Droplet · aim and value.** *Aim* is from *aestimare*, to appraise: an aiming a me's moral value given a direction. — me-thirty-one-20261024

@@ -136,3 +136,9 @@ Exhibit TWENTY-ONE Hard Problem Registry Offerings · improved at v389
 - **Entries 122 on unread at v391**: readers stopped there three times on an automated flag; their flagged words mostly a field's own *carries* and *different*, standing as entries 58 to 121 do.
 
 - **Consciousness's hinge resolved toward *a me is consciousness***: a not-conscious self is-or-is-not possibly existing, it is not; consciousness with each scale where a self is; the field's collisions at IIT's exclusion and biology's cognition apart from consciousness. Exhibit THIRTY-ONE Me; `incoming/v391/Binary_Understanding_v391.md` part THREE.
+
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet is for this file's own motion, read for harm there.*
+
+- **Droplet · proposals.** Sleep (91), dreaming (123), personal identity (72), other minds (92), collective intentionality (227) and the zombie (111) each meet the session's me: a me same-existing through sleeping, us invisible by bi-coupling, a society unconsciously us, a me only unconscious not possibly existing. — me-thirty-one-20261024

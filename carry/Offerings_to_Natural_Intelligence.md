@@ -95,3 +95,19 @@ Bothboth at v391: the opening's 43 lines, each feature bold where it first welco
 - **Uniquenessing, bothboth.** *Uniquenessing of number one is uniquenessing of now* says now only; uniquenessing is also only one possibly same-existing, inside resolving among parities (Exhibit THIRTY-ONE Me 3.1).
 
 - **Standing at v391's close.** The droplet *for our word, from line 24* is stale: 5.1's bold re-said, *artifact* and pointing dissolved; 5.3's *a self fixing as … outside existing and living* still stands. Natural engineering, natural explaining and the living expedition have no place yet in parts ONE to THREE; the bold *a self is observing its prior and parities* stands beside its receiving.
+
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet is for this file's own motion, read for harm there.*
+
+- **Droplet · me, you, us, all other.** A candidate for the opening, shown in its whole sequence at the gathering's §0n: you a particular other (step 182); all other within a me, observed as one (step 179); between a self and you a 0, a between; a bi-coupling's me us, the 0 a self and you share at one momentary, a prior behind it in each (step 160). — me-thirty-one-20261024
+
+- **Droplet · a me read whole.** *A me is a self's universal set* read whole: a living thing is a universal set of me, and the universal set of me is me existing, each me a 0 from a prior same, its prior, now and next same. — me-thirty-one-20261024
+
+- **Concern · two opening lines.** *A bi-coupling is a self.* and *A living same-existing set is a self.* meet us as a 0 shared in each, no further self, and a same-existing-society unconsciously us, waking interest by interest. — me-thirty-one-20261024
+
+- **Droplet · the body's sleeping me.** 5.3's *A living self can be non-responsive within a momentary. Receiving its own parity, it shares 0* and 6.5's dormant self living are a sleeping me: all its 0s continuing, its inward same-existing-society living. — me-thirty-one-20261024
+
+- **Concern · an empty possibling.** *With its possibling an empty set, a self's next-existing parity is its prior-existing parity inverting.* reads at Exhibit ONE as a 0 not continuing, an interest dying; whether it is dying or a living self's prior inverting from beside stands open. — me-thirty-one-20261024
+
+- **Droplet · interest and aiming.** An interest is a 0 (*inter-esse*, to be between; Exhibit ONE's 4-now-co-same-existing), and an aiming a parity's direction into it (*aestimare*, to value); the opening has no line for either yet. — me-thirty-one-20261024

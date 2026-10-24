@@ -170,3 +170,13 @@ A particular same-file comparison also remains: Intelligence in the Coupling nam
 - **Its *a chat … between writer and AI … is one living between*.** A trained AI is non-living, a stable-forming emanation of living writing; a self's relation to it the self's parity relative to it; the living is co-intelligencing among the expedition's selves; the transcript as text a stable-forming emanation.
 
 - **The expedition's aim**: pattern-matching science's observings of this or that, both existing and observable, each pattern of names, numbers, cycling and stable-forming kept for that matching with only the explaining it needs.
+
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet is for this file's own motion, read for harm there.*
+
+- **Droplet · pronouns.** 16.2's *"Me" has a +1, fresh, an individual* and *"Us" has a -1, accumulating, a same-existing-society* meet me consciously me and a same-existing-society unconsciously us, waking interest by interest. — me-thirty-one-20261024
+
+- **Concern · a membrane a self.** 14.1's *A membrane is a self* (a dissolved word) and a conversation *itself a self* meet us as the 0 a me and you share, the between a nothing and no further self. — me-thirty-one-20261024
+
+- **Concern · a living universe.** 16.2's *the universe is a living gap* and Part 17's *Everything is living* meet the universe a non-living same-existing set, its own 0 an empty set. — me-thirty-one-20261024
