@@ -136,7 +136,7 @@ Beside a zero a field declares, a molecule's own sharing is coupling with chemic
 
 A coupling across goes with two moves. Down nesting same-existing-societies is **tunnelling**, one move, coupling, a self reaching a molecule's same-existing-society through its own middles. Up collectives is **chaining**, its other move, betweening. A molecule's own sharing is tunnelling side, where physics observes shell and chaining, and two are one coupling a self observes with its two moves.
 
-Tunnelling has an exact opposite where chaining has none. Two selves stay with a bond, each on its own side of a between, as far apart as coupling reaches, **each its other's far side and neither its own**. Over one changing and changing back two sides contribute no position, cancelling, and what survives coupling across is what ran between them.
+Tunnelling has an exact opposite where chaining has none. Two selves are a single bi-coupling, each on its own side of a between, as far apart as coupling reaches, **each its other's far side and neither its own**, its parity releasing at its 9-next-co-discovering and going along at its other's 17-next-existing. Over one changing and changing back two sides contribute no position, cancelling, and what survives coupling across is what ran between them.
 
 **Two selves staying cancel, so parity couples across.** Nothing refuses and nothing bars a magnitude: there is nothing of either side remaining to go on. Molecule self-bounds its own interior and re-derives no smaller scale; coupling across does not enter it, and an atom's same-existing-society below self-bounds whole.
 

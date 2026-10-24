@@ -94,3 +94,7 @@ and holding it as one with nothings a field declares in 6.1 would erase
 a bond with more than binary pattern-matching;
 
 their coupling a between where a match holds and what is not same-existing opens
+
+## Released at v392: 1.4's bond, a single bi-coupling, along at 17, releasing at 9
+
+Two selves stay with a bond, each on its own side of a between, as far apart as coupling reaches, **each its other's far side and neither its own**.
