@@ -495,6 +495,25 @@ When the swarm arrives and settles, is its me **(a)** completing into a society,
 
 ---
 
+## 0ae. All priors become many nows, and all nows are from many priors (12:01, 24 Oct)
+
+**Binary path.**
+1. Exhibit ONE: each self's next prior is from its own prior and every parity it receives, merged as one (14-next-possibling). Its sharing goes to each of its others. So each now is from many priors, and each prior goes into many nows.
+2. Same-existing is the one thread: a sharing of 0 is its prior same-existing. A now is same-existing from one prior, its own, and receives many. A prior is-or-is-not same-existing in one now, and is received in many. This keeps *only one possibly same-existing* (3.1).
+3. **Division** is this at one scale. With each daughter, the parent's prior is-or-is-not same-existing:
+   - same-existing in one, the other is a newborn me, its prior received from its parent (Exhibit ONE's birth, run E5);
+   - with each daughter it is not, the parent's me completes as a next opening, living with its next (step 491).
+4. **A settled hive:** settling, a swarm's me completes as a next opening, its bees going on with its prior. That is no dying, and §0m's (a) holds.
+5. The earlier binary, *(a) a newborn me or (b) the parent going on in both*, treated going on as one-to-one. Every prior goes on in many nows, as an interest is born in you (run E7). Same-existing is in one now, or in none.
+
+**Observings, no authority.**
+- **Old pole and young pole:** a dividing *E. coli* keeps its old pole in one daughter.
+  - Stewart, Madden, Paul & Taddei 2005 (*PLoS Biology*) observe that lineage growing about 2% slower with each division.
+  - Wang et al. 2010 (*Current Biology*) observe its growth steady over 200 generations, with its death rate rising with replicative age.
+- **Parfit's fission** (1984): *our identity is not what matters*. Parting.
+
+---
+
 ## 0ad. Nausea, the boat, and rising to standing (10:30, 24 Oct)
 
 **The person:** *Yes: nausea is motion sickness on a boat, with no firm parity and no resolving of parity with the boat. All that resolve with the boat and the surface are not sick, and all that resolve with the boat as a fixed surface are more possibly nauseous. Bending at the waist gathers blood in the brain; rising to standing again brings an instant dizziness until the ground parity orients.*

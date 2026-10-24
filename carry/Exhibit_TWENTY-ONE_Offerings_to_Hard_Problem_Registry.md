@@ -146,3 +146,5 @@ Exhibit TWENTY-ONE Hard Problem Registry Offerings · improved at v389
 - **Droplet · dreaming, 123.** A proposal: dreaming is a sleeping me carrying, unchanging, while its inward selves release at their own scales; a received release is passed over, which meets most dreams gone on waking (gathering §0ab). — me-thirty-one-20261024
 
 - **Observing · sound in dreams, 123.** About half of dreams carry sound and under one percent touch, taste or smell (Hurovitz 1999, reading Snyder 1970 and Zadra 1998); outward sound is mostly not observed in sleep, so a dream's sound is inward. — me-thirty-one-20261024
+
+- **Droplet · personal identity, 72, fission.** A now is same-existing from one prior, its own, and receives many; of two continuers, one is-or-is-not same-existing, the other a newborn me (gathering §0ae). — me-thirty-one-20261024

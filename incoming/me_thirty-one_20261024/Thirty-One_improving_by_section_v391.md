@@ -270,10 +270,11 @@ Gathered earlier this session and kept: Siclari et al. 2017; Hurovitz et al. 199
 - **A spiral of one:** a me receiving only its own going along, its other an empty set. *A me with no other: it is not.* A sleeping me receives its own parity with its others there, waiting for an other's inverse.
 - **Mal de débarquement:** the boat's prior meets the ground's parity, one parity apart, until a newly aiming 0 at the ground. It is the form of motion sickness turned round, apart from sleeping.
 
+- **Division and a settled hive** (12:01): *all priors become many nows, and all nows are from many priors.* A now is same-existing from one prior, its own, and receives many. A prior is-or-is-not same-existing in one now, and is received in many. Dividing, a parent's prior is same-existing in one daughter, the other a newborn me (old pole and young pole in *E. coli*: Stewart et al. 2005, Wang et al. 2010); same-existing in neither, the parent's me completes as a next opening, living with its next, step 491. A swarm settling completes as a next opening, its bees going on with its prior: no dying.
+
 **Open, kept as ○ in the draft:**
-1. **Division and a settled hive** (3.1, 5.3): one prior, two now, and a swarm settling. Is the parent's me completing, two newborn mes from it? Or is it going on in both? For the person.
-2. **Under anaesthesia** (3.2): a sleeping me, same-existing? Anaesthesia is a medicine's state, apart from sleep by its field, and waking within surgery is a harm. It stays ○ for do-no-harm.
-3. **The stone's set** (2.3): for Natural Chemistry's own motion.
+1. **Under anaesthesia** (3.2): a sleeping me, same-existing? Anaesthesia is a medicine's state, apart from sleep by its field, and waking within surgery is a harm. It stays ○ for do-no-harm.
+2. **The stone's set** (2.3): for Natural Chemistry's own motion.
 
 ## E. Value going outward
 

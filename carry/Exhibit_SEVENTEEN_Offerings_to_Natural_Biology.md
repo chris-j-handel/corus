@@ -249,3 +249,5 @@ Natural Intelligence Corus section 17.4 offers comparative cognition as a place 
 - **Concern · a nothing a self.** 1.4's *A nothing between two selves is a living set: a self* meets the between a nothing and us a 0 shared in each, no further self. — me-thirty-one-20261024
 
 - **Droplet · sleep's science.** Verified observings of sleep older than brains (*Cassiopea* 2017, *Hydra* 2020), a colony with no sleep of its own (Fuchikawa 2016) and the grid-cell torus through sleep (Gardner 2022) stand at the gathering's working notes for 4.5. — me-thirty-one-20261024
+
+- **Droplet · division.** A dividing cell's prior is same-existing in one daughter or in none, each now from many priors; *E. coli*'s old pole goes with one daughter, its lineage ageing (Stewart et al. 2005; Wang et al. 2010) (gathering §0ae). — me-thirty-one-20261024
