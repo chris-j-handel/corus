@@ -1,0 +1,32 @@
+[
+ {
+  "old": "An atom is a same-existing-society of nucleus and electrons, a molecule a same-existing-society of atoms, and hydrogen-bond network",
+  "new": "An atom is a non-living stable form, a nothing a molecule's sharing winds round, a molecule is the first self, and hydrogen-bond network",
+  "verdict": "RESAY",
+  "why": "atom non-living at 5, molecule the first self at 7 (v392chem, person's yes)"
+ },
+ {
+  "old": "and an atom's same-existing-society below self-bounds whole",
+  "new": "and an atom below is a non-living stable form, whole",
+  "verdict": "RESAY",
+  "why": "atom non-living at 5, molecule the first self at 7 (v392chem, person's yes)"
+ },
+ {
+  "old": "that an atom's same-existing-society wraps",
+  "new": "that an atom's stable form wraps",
+  "verdict": "RESAY",
+  "why": "atom non-living at 5, molecule the first self at 7 (v392chem, person's yes)"
+ },
+ {
+  "old": "With form, an atom, ion or molecule pattern-matches as a self with its own between,",
+  "new": "With form, a molecule pattern-matches as a self with its own between, and an atom or a one-atom ion as a non-living stable form,",
+  "verdict": "RESAY",
+  "why": "atom non-living at 5, molecule the first self at 7 (v392chem, person's yes)"
+ },
+ {
+  "old": "  - *b* atom, a same-existing-society of nucleus and electrons; molecule, a same-existing-society of atoms;",
+  "new": "  - *b* atom, a non-living stable form; molecule, a self;",
+  "verdict": "RESAY",
+  "why": "atom non-living at 5, molecule the first self at 7 (v392chem, person's yes)"
+ }
+]
