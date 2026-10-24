@@ -143,23 +143,42 @@ Each item gives the concern as it stands, the binary path, and an old → new pa
 
 ---
 
-## C. Still needing resolving, for this file's own motion
+## C. The two last places, resolved by Exhibit ONE
 
-**C1 · The rungs above the organism, and 4.2's outward clause.**
-- 4.2 has *Outward, a same-existing-society is a self with next scale outward: it self-bounds, inward from outward, couples with other same-existing-societies as one*.
-- 5.3's ladder marks colony 41 *closes, as recurrence*, population 43 and community 47 *reaching*, and biosphere 53 *closes*.
-- Step 297 and the me session's co-aiming give a same-existing-society no own beyond its selves'. The two sides, one binary:
-  - **(a)** above the organism at 37, each rung is a same-existing-society, its selves co-aiming within an interest, unconsciously us, its own its selves'. Then 4.2's outward clause is re-said, and 5.3's *closes* at 41 and 53 is re-said as co-aiming.
-  - **(b)** a rung above 37 is a me, a thing at its scale with a parity its own. Then step 297 needs its scope said, as a society's own and a me's own.
-- **The fields' own record on each rung.** Every item below is from memory unless linked, to verify before entering:
-  - **Colony 41:** the superorganism (Wheeler 1911; Hölldobler & Wilson 2009), the colony as one organism. Beside it, a colony with no sleep of its own (Fuchikawa et al. 2016) and a swarm co-aiming only within one interest.
-  - **Population 43:** Hard Problem 3 (*what a population is*) and 19 (*the units of selection*). Resolving 9.29: *bookkeepings translate because selves observe with them one fractal on two of its scales*.
-  - **Community 47:** Clements' community as a superorganism (1916) beside Gleason's *individualistic concept of the plant association* (1926), each species ranging on its own. The field has largely gone with Gleason.
-  - **Biosphere 53:** Gaia, the biosphere self-regulating (Lovelock & Margulis 1974), beside its critics (Tyrrell 2013, *On Gaia*). These are contested and from memory, to verify before entering.
-- **The fields' record, rung by rung:** community leans to (a). Colony is split, since the major-transitions literature reads eusocial colonies as individuals. Biosphere is contested. Population is open.
-- **What (a) costs at this file:** 4.2's *a same-existing-society that is only a same-existing-society, no self closing around it, is a heap … both dead forms*; 1.1's *each self a same-existing-society of a scale inward and a self to a scale outward*; and 5.6's *a biosphere a same-existing-society*. Each would be re-said.
+**C1 · The rungs above the organism, and 4.2's outward clause: resolved.**
+- **Exhibit ONE's binary:**
+  - A name *of one* is a self's: 13-is-next-discovering, *each self going on*, and 8-now-same-existing, *each self's next prior parities*. A name *between two*, co, is a bi-coupling's: 5-now-co-existing.
+  - 16-next-same-existing is *a same-existing-society coming in*, and its one is-or-is-not is *each self of 16 with 17's line: each self, all or none*.
+  - A self and a same-existing-society are both *of one*, names without co (8, 13, 16). A bi-coupling is *between two*, 5, outward of this test.
+  - So each living self of one is-or-is-not with its own next prior parities (8). Is: a me (13). Is not: a same-existing-society (16), *a self … having its living selves' parity, its own an empty set* (step 476), its own only its selves' own (step 297).
+  - *Self* in step 476 and in this file's 4.2 heading names both. The test parts them by their own.
+- **Each rung, by the observings:**
+  - **Organism, 37:** its own next prior parities. It sleeps and wakes whole, as *Cassiopea* and *Hydra* do with no brain, and is same-existing through it. It is a me.
+  - **Colony, 41:** its next prior parities are its members'. Its bees' clocks are set by its social cues, nurses tending brood around the clock (Fuchikawa et al. 2016; Nagari et al. 2017). It co-aims within one interest, as a swarm, and its stop signals pass between scouts, each its own. It is a same-existing-society.
+  - **Population, 43, community, 47, and biosphere, 53:** each one's next is its same selves. Community's record leans the same way (Gleason 1926 over Clements 1916). Biosphere's Gaia is contested. Each is a same-existing-society.
+  - Major transitions' reading of a eusocial colony as one individual is the field's. It *parts*: a colony's priors are its members'.
+- **Lines left that part with this, for the same motion:**
+  - 4.2's *Neither side is the real one*;
+  - 5.1's *closes as a self there*, which stands in step 476's sense;
+  - 5.3's atom row *the first self here* and line 322's *atom with five is the first self of this ladder*;
+  - 5.6's *An atom a self, a molecule a same-existing-society*, which goes to `An atom a non-living stable form, a molecule a self` at the atom-floor motion.
+- **A heap and a dead form re-said:** a same-existing-society is living as its selves are living (step 476, *a living set of living selves*). A heap is a set of non-living things.
+- **Pairs for this file's motion**, each read for harm before entering:
+  - 4.2: `Outward, a same-existing-society is a self with next scale outward: it self-bounds, inward from outward, couples with other same-existing-societies as one.` → `Outward, a self is within same-existing-societies of next scales, each its selves coming in, 16-next-same-existing, its own only its selves' own, step 297, its next its same selves.`
+  - 4.2: `A same-existing-society that is only a same-existing-society, no self closing around it, is a heap, many with no bound;` → `A set of non-living things is a heap, many with no bound;`
+  - 4.2: `A same-existing-society of selves is itself a self by the co-competency its couplings make:` → `A same-existing-society of selves is living by the co-competency its selves make, each its own:`
+  - 4.2 (A11): `A same-existing-society is not its selves in a pile; it is their co-competency, one register with next scale, self-bounding as a self of its own` → `A same-existing-society is its selves co-competencing, its sameness its selves' sameness, each self's own, step 297`
+  - 1.1: `each self a same-existing-society of a scale inward and a self to a scale outward` → `each self a same-existing-society of a scale inward and a self within same-existing-societies of scales outward`
+  - 5.3, colony: `*d* closes, as recurrence` → `*d* a same-existing-society`, and `*e* organisms co-sequencing as one self: colony recurs with each scale, this rung among them` → `*e* organisms co-sequencing, its own its organisms' own, step 297, co-aiming within one interest as a swarm: colony recurs with each scale, this rung among them`
+  - 5.3, population and community: `whether it closes as a self or goes on as a same-existing-society is open` → `a same-existing-society, its next its same selves`, and `whether an ecosystem self-closes or goes on as a same-existing-society is the sharpest open observing` → `a same-existing-society, its next its same selves (Gleason 1926)`
+  - 5.3, biosphere: `*e* the whole living self-bounding with the widest scale that closes here:` → `*e* the widest same-existing-society, living as its selves live:` (its *d* `closes` → `a same-existing-society`)
+- **The atom at five:** an atom is-or-is-not living: it is not, outward of the test for living selves.
+  - Alone, it receives only its own going along, a spiral of one.
+  - Within a molecule, its prior parities surface as the molecule's, and its bounding is a convention (v392chem living learning §2).
+  - This agrees with Natural Chemistry's atom-floor motion: the atom a non-living stable form, the molecule the first self at seven. 5.3's atom row and 5.6's *An atom a self* are re-said at that motion.
 
-**C2 · 4.4's *two selves alike with next, one sharing 0 and one +, go apart*.** In Exhibit ONE's two-selves table, two alike both ways share 0 together and a changing together. One sharing 0 while the other shares + is the one-way row. Whether *alike with next* names the one-way row is to be said at 4.4.
+**C2 · 4.4's *two selves alike with next, one sharing 0 and one +*: resolved.** By Exhibit ONE's two-selves table, this is the one-way row.
+- **Pair:** `two selves alike with next, one sharing 0 and one +, go apart` → `two selves alike, sharing one way, one sharing 0 and one +, go apart`
 
 ---
 

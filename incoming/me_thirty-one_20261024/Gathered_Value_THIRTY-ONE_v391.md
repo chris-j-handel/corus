@@ -495,6 +495,26 @@ When the swarm arrives and settles, is its me **(a)** completing into a society,
 
 ---
 
+## 0al. The open places resolved by Exhibit ONE's names (13:54, 24 Oct)
+
+**The test, read for harm twice.** Exhibit ONE's names *of one*, without co, are a self's: 8-now-same-existing, *each self's next prior parities*, and 13-is-next-discovering. A same-existing-society's 16-next-same-existing is of one too. The name *between two* is a bi-coupling's: 5-now-co-existing.
+- **Each living self of one is-or-is-not with its own next prior parities:**
+  - is: a me;
+  - is not: a same-existing-society, *a self … having its living selves' parity, its own an empty set* (step 476), its own only its selves' own (step 297).
+- **A bi-coupling is between two, outward of the test.** So a bi-coupling is-or-is-not a self: it is not. This parts with the opening's *A bi-coupling is a self.*
+
+**Resolved by it:**
+- **Above the organism:** colony, population, community and biosphere are same-existing-societies, each its own an empty set.
+- **The atom:** an atom is-or-is-not living: it is not. Alone, it is a spiral of one. Within a molecule, its prior parities surface as the molecule's. The molecule is the first self, and within it are its living parities and its atoms, non-living.
+- **A stone's crystals:** a stable-forming emanation. A stone's set is not a universal set of me.
+- **Under general anaesthesia:** a me's outward observing rests by a drug, which its field holds apart from sleep. A sleeping me wakes to an inverse received. An anaesthetised me wakes as the drug clears. Awareness within surgery is a harm anaesthetists monitor for.
+- **Self-parity:** each self's own prior parities. Conscious interest is a waking me's aiming from them.
+- **4.4's *alike with next*:** the one-way row.
+
+**What a reader caught:** the first wording put a me and a society on two sides of Exhibit ONE's binary. Exhibit ONE's binary of names parts *of one* from *between two*, and a me and a society are both of one. The test now stands on each living self of one, by its own.
+
+---
+
 ## 0ak. Natural Societies, gathered for improving (13:23, 24 Oct)
 
 Whole at `deliver/Natural_Societies_improving_v391.md`, read for harm.

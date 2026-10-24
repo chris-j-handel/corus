@@ -64,7 +64,7 @@
 - **Two readings:**
   - The offering's dormancy clause leans toward step 390: self-parity as a me receiving its own parity, sleeping, continuing in dormancy.
   - Its *conscious* leans toward a waking me's own aiming, from its own prior (Thirty-One 4.3, *a free me aims*).
-- **Open:** *self-parity* is-or-is-not a waking me's own aiming.
+- **Resolved, 24 Oct:** Natural Intelligence names *self-parity now-existing, a self's own: its prior-existing parities*, (the quote cut short). Our own reading: each self's, waking and sleeping. So *self-parity* is each self's own prior parities, and conscious interest is a waking me's aiming from them. Dormancy and sleeping receive a self's own parity, its 0 waiting for its one next changing (step 490).
 
 ### 2e. *The self loses its me*
 - **Chemistry §14's offering:** *the self loses its me; the living selves of its society continue in their own societies or discontinue too, and continuing is then only at a lower scale*.
@@ -72,9 +72,10 @@
 - **Re-saying offered:** *a dying me goes on as non-living with its scale, and its inward mes live on with their own scales or complete too*. This keeps each self a me.
 
 ### 2f. The atom at five and the me's ladder
-- Thirty-One's draft 1.3 lists *atom at five* among the prime living scales, from Natural Societies part FIVE. The atom-floor motion would make five the ladder's non-living floor.
-- Thirty-One's draft now marks this ○, waiting on Natural Societies' and Natural Chemistry's own motion.
-- §0ae's *a now is same-existing from one prior, its own, and receives many* holds either way. Inside a molecule its atoms' boundaries are unobserved, and the molecule's one sharing is its parities, each a self while living (the reading for harm's own fix).
+- **Resolved, 24 Oct, read for harm:** an atom is-or-is-not living: it is not. Alone, it is a spiral of one. Within a molecule, its prior parities surface as the molecule's, and its bounding is a convention.
+- This agrees with the atom-floor motion. Thirty-One's draft 1.3 now reads: *atom at five, a non-living stable form; then the living scales, molecule at seven, the first self*.
+- Within a molecule are its living parities, each a self while living, and its atoms, non-living.
+- §0ae's *a now is same-existing from one prior, its own, and receives many* holds.
 
 ---
 

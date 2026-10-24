@@ -100,3 +100,5 @@ Contradiction, the living and the non-living: Natural Biology draws the line the
 - **For v392chem · dying.** Offered: *a dying me goes on as non-living with its scale, and its inward mes live on with their own scales or complete too*, keeping each self a me, steps 491 and 492 (§2e). — me-thirty-one-20261024
 
 - **For v392chem · us met.** The offered *us self, one shared-parity self* meets Thirty-One's draft as the co-parity, the two mes' sharings the same, with us the between of a me and you, its centre a 0, us is-or-is-not a self: it is not (gathering §0af; contribution §2c) — me-thirty-one-20261024
+
+- **For v392chem · the atom, resolved.** An atom is-or-is-not living: it is not; alone, a spiral of one, and within a molecule its prior parities surface as the molecule's; the molecule the first self, its living parities and its atoms, non-living, within it; agreeing with the atom-floor motion (contribution §2f; gathering §0al). — me-thirty-one-20261024

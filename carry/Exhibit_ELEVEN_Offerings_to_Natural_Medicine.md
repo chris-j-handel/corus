@@ -233,3 +233,5 @@ The current question is: **At the next colliding, which co-chaining of the inwar
 - **Droplet · the spins.** Positional alcohol nystagmus is Exhibit ONE's one parity apart: cupula and fluid parting in density, no 0, the room turning with each momentary, until a parity agreeing is received from outside (gathering §0ac). — me-thirty-one-20261024
 
 - **Droplet · motion sickness and rising.** Motion sickness is eyes and inner ear parting, eased by the horizon and adapted as sea legs; dizziness on rising is one changing as blood leaves the head (grey-out), then a 0 at the standing prior as reflexes correct (gathering §0ad). — me-thirty-one-20261024
+
+- **Droplet · under general anaesthesia.** A me's outward observing rests by a drug, a state its field holds apart from sleep: a sleeping me wakes to an inverse received, an anaesthetised me as the drug clears; some are connected and aware within it (Sanders et al. 2012), and awareness within surgery is a harm anaesthetists monitor for (gathering §0al). — me-thirty-one-20261024
