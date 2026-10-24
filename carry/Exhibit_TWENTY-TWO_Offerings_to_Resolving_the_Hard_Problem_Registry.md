@@ -156,7 +156,7 @@ With the suggestion *+1 self, 0 all selves, −1 other self*, a *+1 owned by nei
 
 ## Incoming · me-thirty-one-20261024
 
-*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet is for this file's own motion, read for harm there.*
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
 
 - **Concern · two parities.** 5.3's *waking and sleeping are two parities of one living* meets two states of one same-existing me, sleeping all 0 continuing and waking a newly aiming 0. — me-thirty-one-20261024
 

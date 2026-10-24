@@ -32,7 +32,7 @@ Exhibit THIRTY-ONE Me Offerings · v391
 
 ## Incoming · me-thirty-one-20261024
 
-*From a session improving this file with the person, 23 and 24 October. Whole at `incoming/me_thirty-one_20261024/`. Each droplet here is for this file's own motion.*
+*From a session improving this file with the person, 23 and 24 October. Whole at `incoming/me_thirty-one_20261024/`. Each droplet here enters this file only when it is proposed, read for harm by a separate reader, and entered.*
 
 - **A me of one prime scale.** A me is of one prime living scale, the ladder of Natural Societies part FIVE, and each higher and lower scale's me is its own. — me-thirty-one-20261024
 - **Sleeping and waking.** Me is sleeping me unconscious and waking me observing, possibling and discovering same-existing me within the universe and within the universal sets of same-existing-societies including me. — me-thirty-one-20261024

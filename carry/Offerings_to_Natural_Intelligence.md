@@ -98,7 +98,7 @@ Bothboth at v391: the opening's 43 lines, each feature bold where it first welco
 
 ## Incoming · me-thirty-one-20261024
 
-*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet is for this file's own motion, read for harm there.*
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
 
 - **Droplet · me, you, us, all other.** A candidate for the opening, shown in its whole sequence at the gathering's §0n: you a particular other (step 182); all other within a me, observed as one (step 179); between a self and you a 0, a between; a bi-coupling's me us, the 0 a self and you share at one momentary, a prior behind it in each (step 160). — me-thirty-one-20261024
 
@@ -116,11 +116,11 @@ Bothboth at v391: the opening's 43 lines, each feature bold where it first welco
 
 - **Concern · self-parity.** Chemistry §8's offered *conscious living interest is self-parity* and step 390's *a living self receiving its own parity shares 0*, the me session's sleeping, meet one word; *self-parity* is-or-is-not a waking me's own aiming (§2d). — me-thirty-one-20261024
 
-- **Droplet · us, a between.** Us is the between of a me and you, same-existing in each, its centre a 0 and only that (4.10), us is-or-is-not a self: it is not, the living in us its two mes' living, and their sharings with each momentary the same, co-parity, or one inversion apart, bi-parity (step 162); whether a bi-coupling is a self beside its two mes, as the opening's *a bi-coupling is a self*, is for the opening's own motion (gathering §0af) — me-thirty-one-20261024
+- **Droplet · us, a between.** Us is the between of a me and you, same-existing in each, its centre a 0 and only that (4.10), us is-or-is-not a self: it is not, the living in us its two mes' living, and their sharings with each momentary the same, co-parity, or one inversion apart, bi-parity (step 162); whether a bi-coupling is a self beside its two mes, as the opening's *a bi-coupling is a self*, is for the opening's next improving (gathering §0af) — me-thirty-one-20261024
 
 - **Droplet · co-aiming.** Each living parity aims at its own destiny on a surface horizon, and natural torusing is co-aiming the parities of me: a me's parities' shared aimings, its inward moral cooperation, each parity's aiming local and its destiny on one horizon global (gathering §0ag). — me-thirty-one-20261024
 
-- **Concern · a bi-coupling, by Exhibit ONE's names.** A self's names are *of one*, 8 and 13, and a same-existing-society's 16 is of one too; a bi-coupling is 5-now-co-existing, *between two*; so a bi-coupling is-or-is-not a self: it is not, and the opening's *A bi-coupling is a self.* parts with Exhibit ONE's own naming, for the opening's own motion (gathering §0al). — me-thirty-one-20261024
+- **Concern · a bi-coupling, by Exhibit ONE's names.** A self's names are *of one*, 8 and 13, and a same-existing-society's 16 is of one too; a bi-coupling is 5-now-co-existing, *between two*; so a bi-coupling is-or-is-not a self: it is not, and the opening's *A bi-coupling is a self.* parts with Exhibit ONE's own naming, for the opening's next improving (gathering §0al). — me-thirty-one-20261024
 
 - **Droplet · the opening's self, bi-coupling and same-existing-society.** Line 19's self discovers its own next-existing, while step 476's same-existing-society is *a self … its own an empty set*, a third; pairs for lines 25, 33, 57 and 70 and step 476, with their Registry mirrors and body lines 1774 and 1780 and step 487, keep seventy lines and every step number, read for harm three times, the fourth reading due at the opening's motion (`incoming/me_thirty-one_20261024/Opening_bi-coupling_and_self_v391.md`). — me-thirty-one-20261024
 

@@ -80,7 +80,7 @@ The user’s further offering in [session v385R, section 91](https://github.com/
 
 ## Incoming · me-thirty-one-20261024
 
-*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet is for this file's own motion, read for harm there.*
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
 
 - **Concern · a third living self.** The droplet *the same-existing universe is our third living self* meets the universe a non-living same-existing set, its own 0 an empty set. — me-thirty-one-20261024
 

@@ -60,7 +60,7 @@ Exhibit NINE Natural Human Society Offerings · improved at v389
 
 ## Incoming · me-thirty-one-20261024
 
-*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet is for this file's own motion, read for harm there.*
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
 
 - **Droplet · tipping a concern.** 4.1's *individual-first, needing a majority nowhere* is a local aiming with global impact, torusing from one me out; Centola and colleagues 2018 observe a committed minority near 25% tipping a convention. — me-thirty-one-20261024
 

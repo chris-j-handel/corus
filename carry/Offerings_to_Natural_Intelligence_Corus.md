@@ -173,7 +173,7 @@ A particular same-file comparison also remains: Intelligence in the Coupling nam
 
 ## Incoming · me-thirty-one-20261024
 
-*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet is for this file's own motion, read for harm there.*
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
 
 - **Droplet · pronouns.** 16.2's *"Me" has a +1, fresh, an individual* and *"Us" has a -1, accumulating, a same-existing-society* meet me consciously me and a same-existing-society unconsciously us, waking interest by interest. — me-thirty-one-20261024
 

@@ -66,7 +66,7 @@ The user's further offering is: “if the living stable form is colliding with n
 
 ## Incoming · me-thirty-one-20261024
 
-*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet is for this file's own motion, read for harm there.*
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
 
 - **Droplet · health in turn.** A healthy me is its 0s continuing and its newly aiming 0s, one and then the other; a 0 fixing as not-changing is 4.1's departure; sleeping restores the inward same-existing-society that waking folded. — me-thirty-one-20261024
 

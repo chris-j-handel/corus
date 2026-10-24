@@ -98,7 +98,7 @@ The particular philosophical relation is morality explained through the self's a
 
 ## Incoming · me-thirty-one-20261024
 
-*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet is for this file's own motion, read for harm there.*
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
 
 - **Droplet · the one and the many.** 3.5 and 3.13: every 0 a me and all 0 is me, a living thing a universal set of me and that set me existing, a thing and a set, one binary. — me-thirty-one-20261024
 

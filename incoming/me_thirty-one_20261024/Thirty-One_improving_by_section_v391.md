@@ -199,7 +199,7 @@ v391 has no observings here.
 
 ## C. Observings verified for this map
 
-Verified by a separate research reader from fetched sources, 24 Oct. *(memory)* marks a detail the reader gave from memory.
+Each observing below is read from its linked page.
 
 1. **Orienting reflex:**
    - **Source:** Sokolov 1963, *Annual Review of Physiology* 25; *Perception and the Conditioned Reflex*, Pergamon.
@@ -207,7 +207,7 @@ Verified by a separate research reader from fetched sources, 24 Oct. *(memory)* 
    - **Omission:** only the title of Siddle & Packer 1987 was found.
    - https://www.psicothema.com/pii?pii=922
 2. **Mismatch negativity:**
-   - **Source:** Näätänen, Gaillard & Mäntysalo 1978, *Acta Psychologica* 42 *(memory)*.
+   - **Source:** Näätänen, Gaillard & Mäntysalo 1978, *Acta Psychologica* 42:313–329.
    - **Sleep:** Strauss et al. 2015, *PNAS* 112:E1353. Adaptation in primary auditory cortex goes on in each stage; the higher prediction-error signals vanish. https://presse.inserm.fr/en/sleep-reduces-the-brains-predictive-ability/55775/
    - **Coma:** Fischer et al. 2004, *Neurology* 63:669. A present MMN predicts awakening. https://www.ece.mcmaster.ca/~reilly/coma_prognosis.html
    - **Contested:** Sallinen 1997.

@@ -84,6 +84,6 @@ Defect: Natural Exploring, sections as bold paragraphs, not headings. (Re-Settli
 
 ## Incoming · me-thirty-one-20261024
 
-*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet is for this file's own motion, read for harm there.*
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
 
 - **Concern · a society discovering.** 6.1's *a same-existing-society discovering as a self discovers* meets discovering as a waking me's, a same-existing-society's discovering its mes' newly aiming 0s within an interest. — me-thirty-one-20261024

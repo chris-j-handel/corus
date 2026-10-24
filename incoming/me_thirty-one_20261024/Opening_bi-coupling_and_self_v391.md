@@ -1,6 +1,6 @@
 # Natural Intelligence's opening: a bi-coupling, a same-existing-society, and a self · 24 Oct
 
-*Gathering, outside the living files, for the opening's own motion: propose, read for harm by a separate reader, enter. Authority: binary all or none at all natural torusing society, no third possible. Three passes were read for harm. This fourth carries all three readers' findings, and its own reading for harm comes at the opening's motion, before anything enters. It keeps the opening's seventy lines and the Registry's numbering whole, so no step moves and no pointer changes.*
+*Gathering, outside the living files, for the opening's next improving: proposing, a separate reader reading for harm, entering. Authority: binary all or none at all natural torusing society, no third possible. Three passes were read for harm. This fourth carries all three readers' findings, and its own reading for harm comes before anything enters. It keeps the opening's seventy lines and the Registry's numbering whole, so no step moves and no pointer changes.*
 
 ## 1. Where the opening parts with itself
 
@@ -74,7 +74,7 @@ Each old line is exact from v391, and each opening line goes with its Registry m
    - Its *Adding*, *same-existing-society a living set, a self*, → *same-existing-society a living set, its own an empty set*.
    - Its group's *Entering* takes the same re-saying.
 
-**Ripples within Natural Intelligence's body, for the same motion:**
+**Ripples within Natural Intelligence's body, entering with the same pairs:**
 - Line 257, dimension 5: `A same-existing-society's next is its same self with 17-next-existing.` → `A same-existing-society's next is re-finding its same self with each momentary, with 17-next-existing.` (§1b, 2)
 - Line 1780, *Inward it is a same-existing-society of living selves.* → *Inward a same-existing-society of living selves is within it.* Its next line, *Outward it is a self of a same-existing-society of living selves*, agrees.
 - Line 1774: `A set of selves bi-coupling is a same-existing-society, a living self.` → `Selves bi-coupling are a same-existing-society, its own its living selves'.` Its bold, *each self is a same-existing-society inward and outward*, → *each self with its living parities inward and with its same-existing-society outward*.
@@ -90,7 +90,7 @@ Each old line is exact from v391, and each opening line goes with its Registry m
 - **Line 66,** *Selves' bi-couplings and co-chainings are a Natural Network surface*, and line 67: *A surface's living parities are living in the mes of the selves living in it.*
 - **Equilibria 1.3,** *Naming a coupling supplies no further self between coupling selves*: it agrees.
 
-## 4. Ripples, each for its own file's motion
+## 4. Ripples, each for its own file's next improving
 
 - **Exhibit THIRTY-ONE v391 3.3** (*a bi-coupling is a self, its me the couple's own*): re-said in the second-pass draft.
 - **Natural Societies 4.2:** gathering §C1.

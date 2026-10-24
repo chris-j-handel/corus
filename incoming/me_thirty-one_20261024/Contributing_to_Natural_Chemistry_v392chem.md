@@ -2,7 +2,7 @@
 
 *Gathering, outside the living files, read for harm by a separate reader, and offered to `working/natural-chemistry-v392chem` and read from its `incoming/v392chem/` (Living Learning, the proposed opening, the atom-floor motion and its reading for harm) at its commit 4bcf6d1, 12:01.*
 
-- **Authority:** binary all or none at all natural torusing society, no third possible. Each item here is an observing or a pattern for chemistry's own motion.
+- **Authority:** binary all or none at all natural torusing society, no third possible. Each item here is an observing or a pattern for chemistry's next improving.
 - **Where the items are laid:** each is a one-sentence droplet at Natural Chemistry's offerings, under *Incoming · me-thirty-one-20261024*.
 - **The me session's whole:** `incoming/me_thirty-one_20261024/`, gathering §0z to §0ae.
 
@@ -49,14 +49,14 @@
   - with each momentary, us is-or-is-not changing;
   - Equilibria 1.3: *Naming a coupling supplies no further self between coupling selves*.
 - **Every 0 a me** (§0u) meets *us self* in part: us is a 0, and every 0 is a me. The us-0 is the one 0 each me shares at one momentary, each me's own, a prior behind it in each. So the us is each me's own 0, shared.
-- **Concern:** one living file set, two readings of one opening line. It is laid at Natural Intelligence's offerings for the opening's own motion.
+- **Concern:** one living file set, two readings of one opening line. It is laid at Natural Intelligence's offerings for the opening's next improving.
 
 - **Met, 24 Oct.** Thirty-One's draft 2.1, read for harm:
   - *Us is the between of a me and you, same-existing in each, arising only in both together, step 160: a between is within a bi-coupling, … its centre, 0, and only that, Natural Intelligence 4.10.*
   - *Us is-or-is-not a self: it is not; the living in us is its two mes' living.*
   - *After a first sharing, with each momentary the two mes' sharings are-or-are-not the same: the same, co-parity, sharing 0; one inversion apart, bi-parity, step 162.*
 - So chemistry's *one shared-parity self* is the co-parity, the two mes' sharings the same. Its *self* parts.
-- Whether the bi-coupling of two mes is a self beside them, as the opening's *a bi-coupling is a self*, is for the opening's own motion.
+- Whether the bi-coupling of two mes is a self beside them, as the opening's *a bi-coupling is a self*, is for the opening's next improving.
 
 ### 2d. *Self-parity*: conscious interest, or sleeping?
 - **Chemistry §8's offering:** *conscious living interest is self-parity, for less environmental dependency on parity changing, adequate for continuing living in dormancy*.

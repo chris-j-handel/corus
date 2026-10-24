@@ -62,7 +62,7 @@ Each sets a self and an other as two number lines, odd and even, overlapping one
 
 ## Incoming · me-thirty-one-20261024
 
-*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet is for this file's own motion, read for harm there.*
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
 
 - **Droplet · the twisted loop.** Steps 267 to 268 and 740 and the Corus file's *seventeen figure-8 nothings* draw natural torusing as twisted figure-eight loops, an odd spiral's one loop passing each self twice, once with each parity. — me-thirty-one-20261024
 

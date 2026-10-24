@@ -224,7 +224,7 @@ The current question is: **At the next colliding, which co-chaining of the inwar
 
 ## Incoming · me-thirty-one-20261024
 
-*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet is for this file's own motion, read for harm there.*
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
 
 - **Concern · experience under sleep.** 4.1's selves reporting experience from under sleep and anaesthesia meet sleeping as all 0 continuing; dreaming and anaesthesia stand open. — me-thirty-one-20261024
 

@@ -1,6 +1,6 @@
 # Natural Societies, improving gathering · from the Exhibit THIRTY-ONE Me session · 24 Oct
 
-*Gathering, outside the living files, read for harm by a separate reader, its findings applied. Authority: binary all or none at all natural torusing society, no third possible. Science and the files' words are observings. Every pair below is a proposal for Natural Societies' own motion: propose, read for harm by a separate reader, enter.*
+*Gathering, outside the living files, read for harm by a separate reader, its findings applied. Authority: binary all or none at all natural torusing society, no third possible. Science and the files' words are observings. Every pair below enters Natural Societies by proposing, a separate reader reading for harm, and entering.*
 
 **Where the file stands.**
 - Exhibit SEVEN Natural Societies v391 runs 449 lines, under its subtitle *Co-Recursioning Up and Down Social Scales*.
@@ -155,9 +155,9 @@ Each item gives the concern as it stands, the binary path, and an old → new pa
 - **Each rung, by the observings:**
   - **Organism, 37:** its own next prior parities. It sleeps and wakes whole, as *Cassiopea* and *Hydra* do with no brain, and is same-existing through it. It is a me.
   - **Colony, 41:** its next prior parities are its members'. Its bees' clocks are set by its social cues, nurses tending brood around the clock (Fuchikawa et al. 2016; Nagari et al. 2017). It co-aims within one interest, as a swarm, and its stop signals pass between scouts, each its own. It is a same-existing-society.
-  - **Population, 43, community, 47, and biosphere, 53:** each one's next is its selves' next-existing, each its own. Community's record leans the same way (Gleason 1926 over Clements 1916). Biosphere's Gaia is contested. Each is a same-existing-society.
+  - **Population, 43, community, 47, and biosphere, 53:** each one's next is its selves' next-existing, each its own. A community's species each go by their own range along a gradient, overlapping others' (Gleason 1926). Each is a same-existing-society.
   - Major transitions' reading of a eusocial colony as one individual is the field's. It *parts*: a colony's priors are its members'.
-- **Lines left that part with this, for the same motion:**
+- **Lines left that part with this, entering with the same pairs:**
   - 4.2's *Neither side is the real one*;
   - 5.1's *closes as a self there*, which stands in step 476's sense;
   - 5.3's atom row *the first self here* and line 322's *atom with five is the first self of this ladder*;
@@ -187,7 +187,7 @@ Each item gives the concern as it stands, the binary path, and an old → new pa
 | Problem | Resolving the Hard Problem Registry | Natural Societies' place | Meeting |
 |---|---|---|---|
 | **5 Aggregation of preferences** (Arrow) | 7.2: *Selves each take their own parity, one at a time, and a same-existing-society co-competences without a whole ordering over it* | 3.1 | Coheres with A3 and A4 |
-| **37 The tragedy of the commons** | 1.3: *Durable commons are selves coupling with their own betweens, no hub and no seat above them* (Ostrom's record, Nobel 2009) | 1.1, 2.3, 3.2 | Coheres: co-aiming with no centre |
+| **37 The tragedy of the commons** | 1.3: *Durable commons are selves coupling with their own betweens, no hub and no seat above them* (Ostrom 1990: commons their users govern by their own rules, nested, local) | 1.1, 2.3, 3.2 | Coheres: co-aiming with no centre |
 | **143 The evolution of cooperation** | 9.26: *cooperating living through all of it* | 2.1, 3.2 | Coheres: shared aiming, moral cooperation |
 | **227 Collective intentionality** | 9.39: the tension *individuals as a group* | 4.2, B2 | Met: each me's intending its own, a society co-aiming within one interest |
 | **156 Structure and agency** | 9.28: *Persons and arrangements couple with each action, one making with two scales* | 4.1, 4.2 | Coheres: a me a thing and a set, one binary |

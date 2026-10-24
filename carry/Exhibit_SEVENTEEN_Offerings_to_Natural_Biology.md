@@ -240,7 +240,7 @@ Natural Intelligence Corus section 17.4 offers comparative cognition as a place 
 
 ## Incoming · me-thirty-one-20261024
 
-*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet is for this file's own motion, read for harm there.*
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
 
 - **Concern · three modes.** 4.5's *waking, resting, and attending* meets two states, sleeping all 0 continuing and waking a newly aiming 0, with resting and attending read as two sides of these. — me-thirty-one-20261024
 

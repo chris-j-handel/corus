@@ -278,7 +278,7 @@ At a resolver's functions 6, 10 and 9 are one list, each self's 10-next-co-possi
 
 ## Incoming · me-thirty-one-20261024
 
-*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet is for this file's own motion, read for harm there.*
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
 
 - **Droplet · quiet with ten.** 1.2's *Quiet with ten does not make a whole self quiet or non-living* is a sleeping me, its 0s continuing, same-existing. — me-thirty-one-20261024
 

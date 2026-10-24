@@ -251,7 +251,7 @@ Exhibit TWENTY-FOUR Geodesic Improving Method Offerings · improved at v389
 
 ## Incoming · me-thirty-one-20261024
 
-*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet is for this file's own motion, read for harm there.*
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
 
 - **Droplet · working partners transparent.** A session's incoming whole on its own branch at `incoming/`, its droplets laid at each file's offerings the same day, keeps each session's value readable to each other session. — me-thirty-one-20261024
 

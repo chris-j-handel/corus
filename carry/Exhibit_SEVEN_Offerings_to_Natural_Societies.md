@@ -130,7 +130,7 @@ Concern, at v380, from [the earlier Natural Networking gathering](../archive/v38
 
 ## Incoming · me-thirty-one-20261024
 
-*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet is for this file's own motion, read for harm there.*
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
 
 - **Concern · a society as a self.** 4.2's *self-bounding as a self of its own* and *a heap … both dead forms* meet a same-existing-society as a universal set of me, unconsciously us, conscious only within an interest waking. — me-thirty-one-20261024
 
@@ -140,9 +140,9 @@ Concern, at v380, from [the earlier Natural Networking gathering](../archive/v38
 
 - **For the atom-floor motion.** A lone atom repeating its changing is a spiral of one, its other an empty set, non-living; Thirty-One's draft ladder line at 1.3 now waits ○ on this motion (`incoming/me_thirty-one_20261024/Contributing_to_Natural_Chemistry_v392chem.md` §2b, §2f). — me-thirty-one-20261024
 
-- **Droplet · co-aiming.** With each momentary a set of mes is-or-is-not co-aiming, each aiming its own, all in one direction into one interest, its own its mes' own (steps 162, 297), as a swarm co-aims to one home and completes on settling; whether colony at 41 to biosphere at 53 are mes or same-existing-societies is this file's own motion (gathering §0aj) — me-thirty-one-20261024
+- **Droplet · co-aiming.** With each momentary a set of mes is-or-is-not co-aiming, each aiming its own, all in one direction into one interest, its own its mes' own (steps 162, 297), as a swarm co-aims to one home and completes on settling; whether colony at 41 to biosphere at 53 are mes or same-existing-societies is for this file's next improving (gathering §0aj) — me-thirty-one-20261024
 
-- **Droplet · the v389 standing, met.** Sixteen of the standing concerns are met by binary path with old → new pairs copied exact from v391, read for harm, each for this file's own motion: order of 4.4 to 4.6, part titles, all edge across momentaries, parity comparability, *floor*, member and society, birthing, nyeing as completing, *rest* as 0 in turn, the prime partings, a society's sameness (step 297), authority, references, glycine, φ, *in neither self alone* (`incoming/me_thirty-one_20261024/Natural_Societies_improving_v391.md` §A). — me-thirty-one-20261024
+- **Droplet · the v389 standing, met.** Sixteen of the standing concerns are met by binary path with old → new pairs copied exact from v391, read for harm, each to enter by proposing, a separate reader reading for harm, and entering: order of 4.4 to 4.6, part titles, all edge across momentaries, parity comparability, *floor*, member and society, birthing, nyeing as completing, *rest* as 0 in turn, the prime partings, a society's sameness (step 297), authority, references, glycine, φ, *in neither self alone* (`incoming/me_thirty-one_20261024/Natural_Societies_improving_v391.md` §A). — me-thirty-one-20261024
 
 - **Droplet · no common clock, observed.** A hive's social cues set its bees' clocks without contact (Fuchikawa et al. 2016), and social jetlag, body time against work or school time, goes with smoking, weight and lower wellbeing (Roenneberg et al.), at 2.3 (`incoming/me_thirty-one_20261024/Natural_Societies_improving_v391.md` §B1). — me-thirty-one-20261024
 

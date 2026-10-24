@@ -485,7 +485,7 @@ Three prefixes, three senses, and none repeated. This meets the concern *tri- an
 
 ## Incoming · me-thirty-one-20261024
 
-*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet is for this file's own motion, read for harm there.*
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
 
 - **Droplet · four namings.** Me, you, us and all other: you a particular other, all other observed as one, us the 0 a me and you share at one momentary, the between a nothing. — me-thirty-one-20261024
 

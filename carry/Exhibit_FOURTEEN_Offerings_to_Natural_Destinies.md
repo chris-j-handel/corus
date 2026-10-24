@@ -44,6 +44,6 @@ Exhibit FOURTEEN Natural Destinies Offerings · improved at v386EOD
 
 ## Incoming · me-thirty-one-20261024
 
-*From the session improving Exhibit THIRTY-ONE Me, whole at `incoming/me_thirty-one_20261024/`. Each droplet is for this file's own motion, read for harm there.*
+*From the session improving Exhibit THIRTY-ONE Me, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
 
 - **Droplet · a surface horizon.** Each living parity aims at its own destiny on a surface horizon, its next on the Natural Network surface, the horizon its far surface and *one changing that makes its near surface*; heading is observed as the one point the visual flow expands from (Warren & Hannon 1988) (gathering §0ag). — me-thirty-one-20261024

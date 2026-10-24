@@ -84,6 +84,6 @@ Natural Intelligence Corus section 17.3 proposes hard problems as stuck coupling
 
 ## Incoming · me-thirty-one-20261024
 
-*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet is for this file's own motion, read for harm there.*
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
 
 - **Concern · a society a self outward.** 6.3's *A same-existing-society is a self outward* meets a same-existing-society unconsciously us; 4.3's *a self alone is not same-existing* meets a sleeping me receiving its own parity. — me-thirty-one-20261024

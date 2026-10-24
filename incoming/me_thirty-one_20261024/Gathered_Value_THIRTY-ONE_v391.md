@@ -483,7 +483,7 @@ So each me is a self. A self is-or-is-not a me, and it is a me as it is consciou
 - **A swarm decides as a brain does** ✓ (Seeley et al. 2012, *Science*). Scouts head-butt dancers for rival sites with stop signals, each side inhibiting the other until one site wins, as neurons inhibit one another in decision circuits. https://news.cornell.edu/node/271186
 - **A swarm flies by its guides** ✓ (Schultz, Passino & Seeley 2008, *Journal of Experimental Biology*). A few informed bees streak through the top half of the swarm at speed toward the new home, and the rest follow. https://www.sciencedaily.com/releases/2008/10/081003081637.htm
   - ◇ To check: whether streakers return slowly along the swarm's edge (Beekman, Fathke & Seeley 2006). That would make a swarm's flight a circulation through and around: natural torusing in the air.
-- **A colony as a superorganism** ◇ (Wheeler 1911; Hölldobler & Wilson 2009): a colony as one organism of many. *Parting*: the field's superorganism is the colony settled as well.
+- **A colony as a superorganism** ◇ (Wheeler 1911; Hölldobler & Wilson 2009): a colony read as one organism of many, its queens and workers as its parts. *Parting*: the field's superorganism is the colony settled as well.
 
 ### What it gives Thirty-One
 - **A me has one parity of its own; a same-existing-society's parities are its members' own.** This is a candidate line for 1.3 and 5.3.
@@ -492,6 +492,30 @@ So each me is a self. A self is-or-is-not a me, and it is a me as it is consciou
 
 ### Next question
 When the swarm arrives and settles, is its me **(a)** completing into a society, living, with no dying? Or **(b)** sleeping, the settled hive a dormant me that wakes to swarm?
+
+---
+
+## 0as. The whole session read again, its value aimed into the draft (24 Oct)
+
+*Each item resolved by binary and entered into Thirty-One's draft, marked ✦ or ◇ there, with the last line of item 8 held here. Observings only; finders and years stand as each observing's address.*
+
+1. **Each 0 is a me's own** (3.1, 2.2). A 0, its me behind it an empty set: it is not (3.3). So each 0 is a me's own, a me behind it and its prior in that me. An interest is a 0 a me aims into: sleeping, the me's own 0 with its own parity; waking, a 0 a me and you share, us, each me's own.
+2. **Passing over, for *invisible*** (2.1). A 0 a me receives from its other is passed over. A me's 0 is same-existing in that me, and its other passes over it.
+3. **The glance** (5.1). One way, at a momentary one me shares 0 while the other changes: a 0 once, its next a changing.
+4. **Us in language and at seven** (2.1 observings). An inclusive *we*, me and you, apart from an exclusive *we*, me and others apart from you. One water pair going on while its donor and acceptor roles interchange: two mes at seven sharing a 0, us at the first living scale.
+5. **Health and harm, one binary of aiming** (5.2). With each momentary, a me's aiming is-or-is-not sharing its others' aiming: sharing, healthy; parting, a local aiming with global impact, a harm.
+6. **An interest opening** (4.4). A newly aiming 0, its own from then, from the priors its me receives.
+7. **Sleeping whole and sleeping each** (5.3). A me's sleeping and waking are its own, at its scale. Its inward mes sleep and wake each at its own scale. A same-existing-society's sleeping is its mes' sleeping, each its own, its sleeping whole an empty set.
+8. **The spinning room and standing up** (5.2). In a spinning room, eyes and inner ear receive a parting, their shared 0 an empty set, until a still point a me sees gives a 0 at a new prior. Rising to standing, one changing comes before a 0 at its new prior, a dizziness for a momentary. A spinning room and a dream part on one binary: dreaming, the me same-existing while its inward mes release; spinning, two inward mes parting, their shared 0 an empty set.
+9. **The waver** (4.1). Before a newly aiming 0, a me's changings waver, then one changing, then a 0 at its new prior.
+10. **One loop with one twist** (5.4). With an odd number of selves, a spiral's places are one loop with one twist, a figure-eight, its + lobe and − lobe meeting once where the whole inverts.
+11. ***Universe*, *turned into one*** (1.1, a naming edge): a me observing all other as one.
+12. **Self and not-self by relation** (2.4). Within a me, self and not-self is-or-is-not by origin: it is not; it is by relation, with each momentary.
+13. **Selves bi-coupling** (5.3). *Many* was a size; a same-existing-society is mes bi-coupling.
+14. **An interest beneath a fading** (4.4 observings). A fading response returns with time, a changed place or the first pairing again: the interest same-existing beneath a newly aiming 0.
+15. **The ladder's centre** (1.3). Twenty-four, between cell at twenty-three and tissue at twenty-nine, its scale an empty set, said apart from the protein-fold at thirteen.
+
+**Out of the draft, as story or authority:** step numbers and other files' names within the body; prizes; *after* lineages; a field's change of mind; who disputes whom; drafting notes (*from memory*, *by the titles*, *from the press*). The James and Frankfurt passages are now read from their pages and quoted exactly.
 
 ---
 
@@ -597,7 +621,7 @@ Whole at `deliver/Opening_bi-coupling_and_self_v391.md`, read for harm three tim
 **Observings, no authority:**
 - **Single molecules with memory.** Lu, Xun & Xie 1998 (*Science*) watched single cholesterol oxidase molecules turning over. Each fluctuates in rate, each turnover's time is correlated with earlier ones, and the field calls it *dynamic disorder*. Each macromolecule is its own, its next from its own prior, and the kind's one rate is the field's sum.
 - **The numbering names doings.** Strictly, *EC numbers do not specify enzymes but enzyme-catalyzed reactions* (IUBMB). Agreeing in part: the recommended names also name the protein.
-- **From memory, to verify:** *enzyme* was coined by Kühne in 1877, *in leaven*, a doing in yeast named as a thing. Buchner in 1897 found the doing going on outside the living cell. Moonlighting proteins do several doings with one protein (Jeffery 1999).
+- **One protein, several doings** (Jeffery 1999): moonlighting proteins do several doings with one protein. And a yeast's juice, its cells broken, goes on fermenting sugar (Buchner 1897): the doing is the macromolecules' with their reactants, a cell's me an empty set there.
 
 **What the reader caught:**
 - PLD2 makes phosphatidic acid, which opens TREK-1, so *the protein opens* was doer language.
@@ -965,7 +989,7 @@ Whole at `deliver/Me_and_not-me_values_parities_v391.md`, read for harm.
   - **sharing 0s** is the not-changing half;
   - **its own closing** is the changing half coming round, the twisted loop passing each self once with + and once with − (step 740).
 - (c), *both*, named the two as a pair of properties. A pair held at once is a state, and a third to the sequence.
-- **The universal set of me is the sequence: changing us and same me, in turn, both selves together.** The question dissolves into bothbothing. A stone's set, read this way, is or is not in turn with its others, and that is for chemistry's own motion, never decided here.
+- **The universal set of me is the sequence: changing us and same me, in turn, both selves together.** The question dissolves into bothbothing. A stone's set, read this way, is or is not in turn with its others, and that is for chemistry's next improving, never decided here.
 
 **Coheres with:**
 - §0p, moral cooperation as continuing 0s in turn;

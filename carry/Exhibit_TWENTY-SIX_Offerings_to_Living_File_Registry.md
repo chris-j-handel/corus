@@ -159,6 +159,6 @@ The two kit scripts that execute Exhibit ONE's code now find 1 and 17 by number,
 
 ## Incoming · me-thirty-one-20261024
 
-*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet is for this file's own motion, read for harm there.*
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
 
 - **Droplet · Thirty-One's standing.** Exhibit THIRTY-ONE Me has its incoming arrived at `incoming/me_thirty-one_20261024/`, a next-version draft and its open places, for its next motion. — me-thirty-one-20261024

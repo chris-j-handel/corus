@@ -139,7 +139,7 @@ Exhibit TWENTY-ONE Hard Problem Registry Offerings · improved at v389
 
 ## Incoming · me-thirty-one-20261024
 
-*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet is for this file's own motion, read for harm there.*
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
 
 - **Droplet · proposals.** Sleep (91), dreaming (123), personal identity (72), other minds (92), collective intentionality (227) and the zombie (111) each meet the session's me: a me same-existing through sleeping, us invisible by bi-coupling, a society unconsciously us, a me only unconscious not possibly existing. — me-thirty-one-20261024
 

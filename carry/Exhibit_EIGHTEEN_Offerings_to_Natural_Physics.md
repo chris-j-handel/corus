@@ -199,7 +199,7 @@ Exhibit EIGHTEEN Natural Physics Offerings · improved at v389
 
 ## Incoming · me-thirty-one-20261024
 
-*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet is for this file's own motion, read for harm there.*
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
 
 - **Concern · two openings.** 1.2's *A torus has two openings* meets natural torusing as one opening, twisted figure-eight loops winding through it. — me-thirty-one-20261024
 

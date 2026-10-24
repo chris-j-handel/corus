@@ -95,7 +95,7 @@ Contradiction, the living and the non-living: Natural Biology draws the line the
 
 - **For v392chem · nothing copied, a second observing.** A dividing *E. coli* keeps its old pole in one daughter (Stewart et al. 2005; Wang et al. 2010), as each parent strand goes into one daughter duplex: a prior is-or-is-not same-existing in one now, and is received in many (§1, §3; gathering §0ae). — me-thirty-one-20261024
 
-- **Concern for v392chem · the us self.** The offered *us self* and the me session's *us, the between, its centre a 0, each me's own 0 shared* read one opening line two ways; laid at Natural Intelligence's offerings for the opening's own motion (§2c). — me-thirty-one-20261024
+- **Concern for v392chem · the us self.** The offered *us self* and the me session's *us, the between, its centre a 0, each me's own 0 shared* read one opening line two ways; laid at Natural Intelligence's offerings for the opening's next improving (§2c). — me-thirty-one-20261024
 
 - **For v392chem · dying.** Offered: *a dying me goes on as non-living with its scale, and its inward mes live on with their own scales or complete too*, keeping each self a me, steps 491 and 492 (§2e). — me-thirty-one-20261024
 

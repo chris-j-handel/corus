@@ -112,6 +112,6 @@ So with the six, 1 to 17 is one round only because 17 falls with a six's place, 
 
 ## Incoming · me-thirty-one-20261024
 
-*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet is for this file's own motion, read for harm there.*
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
 
 - **Droplet · odd and even.** 1.7's prime living scales, five to fifty-three, each odd, meet Exhibit ONE's spiral of selves: a 0 recurring only with an odd number of selves, and an even one with none. — me-thirty-one-20261024
