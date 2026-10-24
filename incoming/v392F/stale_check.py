@@ -1,4 +1,5 @@
-"""Stale concerns by a match (Geodesic Improving Method 1.5): an offerings item that quotes a living sentence
+"""Stale by a match: a POINTING at a sentence that stands no longer; the item's concern rides with its reason (3.5, 1.5).
+Stale concerns by a match (Geodesic Improving Method 1.5): an offerings item that quotes a living sentence
 beside which it stands is stale when no part of its quote (first six words) stands at the living file now.
 Sizes; decides nothing. Usage: python3 -I incoming/v392F/stale_check.py <root>"""
 import re, os, sys, json, glob
@@ -16,7 +17,8 @@ tot_items = tot_quoted = tot_stale = 0
 rows = []
 for off in sorted(glob.glob(os.path.join(root, 'carry', '*Offerings*'))):
     lf = living_for(off)
-    if not lf: continue
+    if not lf:
+        print(f'{"-":>5s} {"-":>6s} {"-":>5s}  {os.path.basename(off)}  (no living file at root; not measured)'); continue
     live = norm(open(os.path.join(root, lf), encoding='utf-8').read())
     live = re.sub(r'\s+', ' ', live)
     t = open(off, encoding='utf-8').read()
@@ -25,7 +27,8 @@ for off in sorted(glob.glob(os.path.join(root, 'carry', '*Offerings*'))):
     for p in paras:
         tot_items += 1
         # quotes: Beside "...", quotes in *Standing* paragraphs, or ** ... — beside '...' **
-        qs = re.findall(r'[Bb]eside [\'"“]([^\'"”]{12,})[\'"”]', p) + re.findall(r'[\'"“]([^\'"”]{20,})[\'"”]', p)
+        # double quotes only: an apostrophe is no quote mark (a reader for harm found 's opening a "quote")
+        qs = re.findall(r'[Bb]eside ["“]([^"”]{12,})["”]', p) + re.findall(r'["“]([^"”]{20,})["”]', p)
         if not qs: continue
         quoted += 1
         found = False
