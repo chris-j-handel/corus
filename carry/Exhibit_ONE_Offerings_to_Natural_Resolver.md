@@ -38,3 +38,5 @@ Exhibit ONE Natural Resolver Offerings · resolved at v391
 - **7 where the hand begins:** 7-is-now-observing, where a first parity surfaces + or − and agreeing or parting is resolved, matches the molecule's scale where a chemical hand first exists and an opposite hand stops being ingested. ([living learning, §2](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
 
 - **No code validates nature:** This session's pattern-matchings were met with the resolver's stable forms six forward and no code was run to validate an observing. ([living learning, §1](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Carbon at 6-now-co-possibling:** Carbon's element number 6 stands as 6-now-co-possibling between the atom's 5 and the molecule's 7, and carbon's round of free, ingested, emanated free and ingested again pattern-matches the four-cycling 1, 2, 3, 4. ([living learning, §13](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

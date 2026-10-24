@@ -118,3 +118,5 @@ Bothboth at v391: the opening's 43 lines, each feature bold where it first welco
 - **Ingesting within the bi-tunneling:** Ingesting is only within a society's bi-tunneling, its stable form taken one scale lower, and a thing meeting the surface ingresses at its own scale, resolved only with a prior me. ([living learning, §12](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
 
 - **Societal possibling:** A parting carried by no me yet is the society's possibling beyond co-possibling, open as to harm or help until its living conditions meet it, and a resolving parity spreads through a society's generations. ([living learning, §11, §12](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Ingesting as method:** The next ingesting is passing stable form among living things as method, each ingesting both passing on and emanating free, bothbothing same me and changing us. ([living learning, §13](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

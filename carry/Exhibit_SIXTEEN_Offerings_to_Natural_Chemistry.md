@@ -109,3 +109,9 @@ Contradiction, the living and the non-living: Natural Biology draws the line the
 - **A proposed opening:** A proposed opening of one claim a line, from molecule as self through hand, water, crystal, dissolving, ingesting, DNA and equilibrium, with three ways in through 1-now-existing, 7-is-now-observing and 5-now-co-existing, waits a reading for harm with its three opens marked. ([proposed opening](../incoming/v392chem/Natural_Chemistry_Opening_Proposal_v392chem.md)) — v392chem
 
 - **State–flow–state at the basics:** At chemistry's first experiments a state is the instrument's reading stopped and a flow its sum of whole changings, the melting plateau, saturation, completion, neutral water and energy stored in bonds each a fixing at its first entering. ([living learning, §11](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Carbon the unique atom, offered:** Every atom is weighed against carbon, what chemistry calls other atoms are observed only as forms, and boron 5 with nitrogen 7, podal about carbon's 6, paired take all carbon's forms, so carbon is offered as the unique atom. ([living learning, §13](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Radioactive carbon between 6 and 7:** Nitrogen becomes radioactive carbon in the sky and that carbon becomes nitrogen within its molecule, a parity changing of the molecule from 6 to 7, its pace set inward of the atom. ([living learning, §13](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Carbon's round a four-cycling:** Free, ingested, emanated free and ingested again are prior, now, next and same-existing, ingesting the method of passing stable form among living, about a tenth passing on at each step and the rest breathed out free. ([living learning, §13](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

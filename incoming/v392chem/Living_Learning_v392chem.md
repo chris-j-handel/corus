@@ -317,3 +317,29 @@ Each is one sentence at the offerings of the file it concerns, under *Incoming �
   - Farm-living Amish children had about a quarter the asthma of their Hutterite neighbours (2016).
   - Pollen is both cases at once: a living cell carrying non-living protein. *Offered:* yes, bothboth.
 - **A proposed opening for Natural Chemistry**, one claim a line, with three ways in through Exhibit ONE's names, is at [Natural_Chemistry_Opening_Proposal_v392chem.md](Natural_Chemistry_Opening_Proposal_v392chem.md), for a reading for harm.
+
+## 13. Carbon the unique atom, and ingesting as the method
+
+- *Offered:* **atom and carbon are one same thing; carbon is the unique atom, not an atom among others; there are no other atoms.**
+  - Chemistry has weighed every atom against carbon since 1961, and defined its counting unit by carbon until 2019.
+  - Most registered substances hold carbon.
+  - What chemistry calls other atoms are observed only as forms: H₂, O₂, N₂, metal crystals, charged forms in salts, and noble-gas loners that loop. The atom as a thing apart is the explaining.
+- *Offered:* **element numbers and scale numbers, bothboth.**
+  - Carbon's element number 6 is Exhibit ONE's 6-now-co-possibling, between the atom's 5 and the molecule's 7.
+  - Boron 5 and nitrogen 7, podal about 6, paired take all carbon's forms: "white graphite", a crystal nearly as hard as diamond, and "inorganic benzene" (1926).
+  - Beryllium 4 with oxygen 8 takes carbon's four-cornered form, carrying heat nearly as well as diamond; pairs further out part into salts.
+  - Chemistry's isoelectronic families, gallium with arsenic about germanium and indium with antimony about tin, are podal pairs about carbon's column taking its four-cornered form. They are the materials of LEDs, lasers and solar cells.
+- **Hydrogen prior, helium now, carbon next, the stars' sequence.**
+  - Carbon forms from three helium (predicted 1953). Stars heavier than the Sun cycle through carbon, taking in four hydrogens, emanating one helium and coming again; the cycle's neutrinos were detected from the Sun in 2020.
+  - White dwarfs end as crystallising carbon and oxygen (2019).
+  - Hydrogen is never found alone in chemistry, is the stars' food, and its nucleus is the proton, which Natural Chemistry 3.2 calls an emanation from living.
+  - Open: whether stars are living at their own scale, with carbon their stable-form emanation, the ladder's floor formed from beyond its top.
+- *Offered:* **free carbon's observings and ingested carbon's observings are two kinds;** the round goes free, ingested, emanated free, ingested again.
+- *Offered:* **radioactive carbon is inside the parity changing of a living molecule.**
+  - In the upper air, cosmic rays turn nitrogen into radioactive carbon, 7 to 6. Within its molecule it becomes nitrogen, 6 to 7, and the molecule's form changes there; labelled compounds slowly fall apart in storage.
+  - **Concern:** its pace has never been seen to change with chemistry, so it is set inward of the atom.
+- *Offered:* **(free, ingested, emanated free, ingested) is (prior, now, next, same): carbon's round is Exhibit ONE's four-cycling, and the next ingesting is passing stable form among living things as method.**
+  - At each step of the living web, roughly a tenth passes on as stable form and the rest is breathed out free (a lake, 1942).
+  - A heavier nitrogen rises step by step and records how many ingestings carbon has passed through.
+  - Fungi and bacteria take dying's emanations back into living, and seeds, yolk and milk pass stable form to the next.
+  - *Offered:* passing on and emanating free are the bothbothing of each ingesting.
