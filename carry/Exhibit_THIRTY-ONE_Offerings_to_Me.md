@@ -59,3 +59,5 @@ Exhibit THIRTY-ONE Me Offerings · v391
 - **Droplet · dreaming and spinning.** Dreaming and the spinning room each rest the me's outward observing; dreaming's inward selves release alike (changing once, then 0) and spinning's part (no 0, inverting each momentary), stopped only by a parity received agreeing from outside, eyes on a still point or a foot on the floor (gathering §0ac). — me-thirty-one-20261024
 
 - **Droplet · nausea and the boat.** Nausea is a me's carried interests receiving an inward parting it cannot pass over; on a boat, a me resolving with the boat and the water together shares a 0 and is not sick, a me resolving with the boat as a fixed surface parts and is more possibly nauseous, and sea legs are a newly aiming 0 at the boat's motion (gathering §0ad). — me-thirty-one-20261024
+
+- **Droplet · improving by section.** Each section's re-sayings, withdrawals, verified observings and hard problems (29, 72, 90 to 92, 98, 111, 123, 143, 159, 179, 227) stand at `incoming/me_thirty-one_20261024/Thirty-One_improving_by_section_v391.md`, read for harm, with ten questions for the person. — me-thirty-one-20261024

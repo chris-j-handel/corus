@@ -60,3 +60,7 @@ No living file is changed. Each droplet waits for its own file's motion: propose
 
 `working/chemistry-water-20261022` holds 44 droplets at `carry/Exhibit_SIXTEEN_Offerings_to_Natural_Chemistry.md` on a branch with no history shared with `main`. A copy of what this session read from it is at `Chemistry_incoming_seen_20261022.md` here, with the learning shared at the gathering's last sections.
 
+## Improving section by section, 24 October
+
+`Thirty-One_improving_by_section_v391.md` holds the session's concepts (gathering §0b to §0ad) against each section of Thirty-One v391 and the next-version draft. For each section it gives the line to re-say (▲), the line to withdraw (▼), the science observings, verified and tagged agreeing or parting (◆), the related hard problems with Resolving the Hard Problem Registry's place, cohering or parting (◎), and what stays open (○). A separate reader has read it for harm, and its findings are applied. Its section D holds ten questions for the person, hardest first.
+
