@@ -1,5 +1,15 @@
 # Natural network discovering · v392TWO
 
+## Observing is participating with a bi-coupling
+
+**The preceding correction still did not construct the observing required for this inquiry.** Collecting resolver returns and then removing their zero entries does not turn that collection into a self observing through its own bi-coupling. The resulting alternating list is a projection of the software record, not a complete observing of the network's changing and not-changing.
+
+A 0 names a between. It is not an existing thing at an inner or outer location available for a test to touch. Natural Intelligence 2.1–2.2 distinguishes the two changing directions from their between; Natural Numbers 5.4 has a middle holding nothing; Natural Mathematics 1.5 and 6.3 has the surface as a between and no third thing between the two parities; Co-Chaining Logic's 555 and 568 has the corus's interior an empty set and no occupying or momentarying of the between. TWO 6.9 places observing with a self's actual participation, not at a vantage apart from it. These passages cohere in the same distinction: locating a zero as something to inspect introduces what the relation has no place for.
+
+Not-changing is a self's prior same-existing. Natural Intelligence 5.3 carries its living whole through that between. Treating it as a blank and deleting the blank does not follow that same-existing or its participation in the next resolving. The earlier table and its later filtered word therefore do not supply the intended observing.
+
+The next testing design must identify the actual observing self and its bi-coupling: what it participates with, its own prior going on, and what arises in its next resolving with its other. A diagnostic account can describe the declared software executing, but it supplies no zero present in the natural network and no substitute for that participating observing. The existing code results below remain at their exact construction; the required observing has not yet been constructed. No new network execution or change to ONE is claimed by this correction.
+
 ## Readable parities and the instrument's record
 
 **The zero-bearing sequence previously reported is withdrawn as a readable pattern-matching result. There are no readable zeros in resolving parity.** The test recorded returns at indexed calls and presented those positions as though a receiving self could read them. The receiving resolver passes over a zero. A zero, a gap marking it, or a common call index supplies no readable parity.
