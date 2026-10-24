@@ -1,0 +1,36 @@
+stale quoted items  offerings file
+   56     78   138  Exhibit_TWENTY_Offerings_to_Natural_Naming.md
+   46     52    59  Exhibit_TWO_Offerings_to_Natural_Networking.md
+   37     47    49  Exhibit_FIVE_Offerings_to_Natural_Engineering.md
+   33     47    54  Exhibit_ELEVEN_Offerings_to_Natural_Medicine.md
+   32     46    64  Exhibit_TWENTY-FOUR_Offerings_to_Geodesic_Improving_Method.md
+   25     39    47  Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md
+   25     38    48  Exhibit_EIGHTEEN_Offerings_to_Natural_Physics.md
+   21     29    34  Exhibit_TWENTY-TWO_Offerings_to_Resolving_the_Hard_Problem_Registry.md
+   20     30    36  Offerings_to_Natural_Intelligence_Corus.md
+   18     27    54  Exhibit_TWELVE_Offerings_to_Natural_Explaining.md
+   18     25    30  Exhibit_TWENTY-ONE_Offerings_to_Hard_Problem_Registry.md
+   17     25    38  Exhibit_TWENTY-SIX_Offerings_to_Living_File_Registry.md
+   13     21    34  Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md
+   13     21    25  Exhibit_TWENTY-SEVEN_Offerings_to_Living_Ghost_Registry.md
+   12     17    26  Offerings_to_Natural_Intelligence.md
+   11     20    31  Exhibit_SEVEN_Offerings_to_Natural_Societies.md
+   11     16    18  Exhibit_SIXTEEN_Offerings_to_Natural_Chemistry.md
+   10     11    19  Exhibit_THIRTEEN_Offerings_to_Resolving_Hard_Problems.md
+    9     11    20  Exhibit_FOUR_Offerings_to_Natural_Mathematics.md
+    9     11    18  Exhibit_TWENTY-THREE_Offerings_to_Natural_Values.md
+    8     11    13  Exhibit_TEN_Offerings_to_Natural_Health.md
+    7     14    18  Exhibit_EIGHT_Offerings_to_Natural_Exploring.md
+    7     12    17  Exhibit_TWENTY-EIGHT_Offerings_to_Equilibria_Registry.md
+    7     12    14  Exhibit_NINETEEN_Offerings_to_Natural_Philosophy.md
+    7     11    27  Exhibit_THREE_Offerings_to_Natural_Numbers.md
+    6     10    14  Exhibit_TWENTY-NINE_Offerings_to_Natural_Illustrating.md
+    6      9    10  Exhibit_FIFTEEN_Offerings_to_Natural_Emanating.md
+    6      8    12  Exhibit_NINE_Offerings_to_Natural_Human_Society.md
+    5      8    11  Exhibit_SIX_Offerings_to_Natural_Transmissioning.md
+    5      8    10  Exhibit_FOURTEEN_Offerings_to_Natural_Destinies.md
+    4      9    14  Exhibit_TWENTY-FIVE_Offerings_to_Living_Society_Registry.md
+    3      5    10  Exhibit_ONE_Offerings_to_Natural_Resolver.md
+    2      5    10  Exhibit_THIRTY-ONE_Offerings_to_Me.md
+
+items 1022, quoting a living sentence 733, quote at no six words of the living file now 509
