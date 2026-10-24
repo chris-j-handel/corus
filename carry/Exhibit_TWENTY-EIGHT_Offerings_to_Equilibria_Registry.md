@@ -103,3 +103,5 @@ The user's further offering is: “if the living stable form is colliding with n
 - **At 3.3 · four binaries at two faces.** Its table lays four binaries on name pairs (now 1·2, existing 3·4, same 5·6, all 7·8): the pairing dissolved at v391, made by no code line; the ten fixings seated on it re-seated or said without it.
 
 - **A proving reached once.** A set of only non-living things as a universal set is-or-is-not possibly existing: it is not, as an equilibrium is not. A minor co-chaining step, and the logic goes forward by what is.
+
+**Droplet · this file's first motion, as a separate reader proposes it at v392F.** the eight NY rows at 4.5, 4.6, 4.11 and 4.12 (offerings:9) each executed at Exhibit ONE v391 with `resolver_from_one.py`; the binary: its still found or not at the current code; a row whose still is found re-said in the current names whole, a row whose still is not found released; the eight rows as they stood, with the execution's output, to `archive/`. The reader's whole dossier, counts and evidence stand at `incoming/v392F/readers/registries_dossier.md`; no wording there carries authority. — v392F

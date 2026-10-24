@@ -40,11 +40,15 @@ Natural Intelligence · incoming · v392F
 - The Living File Registry, 224,847 bytes, each file's *c* cell carrying every version's changes since v375.
 - Each offerings file carrying its *Resolved at v389* paragraph and droplets tagged back to v381R.
 
+## The examination at v392F, 2026-10-23
+
+The Living File Registry read whole; every other file's four places read by five separate readers, their dossiers at `readers/`; the set measured (`readers/measures_v392F.md`, `readers/stale_by_match_v392F.txt`). The plan at `Improving_Plan_v392F.md`: the carrying current, twenty-two bounds, the set-wide dissolvings, each cluster's tour, the large files reducing, the close; the Registry's own improving in seven motions; the merging among workings. Thirty-two droplets laid, one at each file's offerings, its first motion as its reader proposes it; seven at the Registry's own offerings.
+
 ## Next motions, in order
 
-- The Living File Registry's table of workings, 1.3, brought current: v391's row closed at #148 and #149, v392F's row opened, the Registry's first improving at v392.
-- The chemistry arrival received at `main` when its pull request opens: append-both at its three offerings, the four checks at the merge.
-- Natural Engineering's and the Living Ghost Registry's citations, each at its file's own motion.
+- The plan read for harm by a separate reader; its mends entered.
+- The bounds for the person's word, one at a time, the +1 between first.
+- Phase ONE: stale by a match at every offerings; the chemistry arrival; the Registry's R1 at `main`; the Session Record to the archive; the carryings' dangling anchors; the v385A gathering laid.
 
 ## Workings at v392
 
