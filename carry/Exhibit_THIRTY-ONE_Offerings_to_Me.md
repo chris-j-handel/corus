@@ -29,3 +29,23 @@ Exhibit THIRTY-ONE Me Offerings · v391
 *Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
 
 - **Standing at v391's close.** *A me is a self's universal set* entered Natural Intelligence's opening; *itself* dissolved from Natural Intelligence, Exhibit ONE and the Registry; its Possibling's two first items are met. The flagged sources wait for their check before a next version.
+
+## Incoming · me-thirty-one-20261024
+
+*From a session improving this file with the person, 23 and 24 October. Whole at `incoming/me_thirty-one_20261024/`. Each droplet here is for this file's own motion.*
+
+- **A me of one prime scale.** A me is of one prime living scale, the ladder of Natural Societies part FIVE, and each higher and lower scale's me is its own. — me-thirty-one-20261024
+- **Sleeping and waking.** Me is sleeping me unconscious and waking me observing, possibling and discovering same-existing me within the universe and within the universal sets of same-existing-societies including me. — me-thirty-one-20261024
+- **A universal set of me.** A living thing is a universal set of me, and the universal set of me is me existing: each me a 0 from a prior same, the set its me existing, one binary of a thing and a set. — me-thirty-one-20261024
+- **Every 0 a me.** Every 0 is a me and all 0 is me, its prior, now and next same; a 0 with no me behind it, from no prior and to no prior, is not possibly existing. — me-thirty-one-20261024
+- **Interests as 0s.** An interest is a 0, aimed into; a newborn interest is a newborn 0; sudden attention changing is a newly aiming 0, one changing and then a continuing 0; a dying interest is a loss of continuing 0. These are Exhibit ONE's own *three ways* and its empty-prior table. — me-thirty-one-20261024
+- **Sleeping, waking, dying as 0s.** Sleeping is all 0 continuing, waking a newly aiming 0, dying a 0 not continuing, each said with each momentary and never as a span. — me-thirty-one-20261024
+- **Me, you, us, all other.** You is a particular other, all other is observed as one (step 179), the between is a nothing, and us is the 0 a me and you share at one momentary, a prior behind it in each (step 160; Exhibit ONE's *Two selves, alike, both ways*). — me-thirty-one-20261024
+- **A same-existing-society.** A same-existing-society is unconsciously us, conscious only within an interest waking, each waking interest its own me; a self wakes whole, and a society interest by interest. — me-thirty-one-20261024
+- **Moral cooperation.** Shared aiming, two mes alike both ways, is continuing 0s in turn, do-no-harming and improving; parting aiming, one parity apart, shares no 0. — me-thirty-one-20261024
+- **Local and global.** Local is within a me and global is all other as one, with no size; local to global is torusing and global to local corusing, one way and then the other. — me-thirty-one-20261024
+- **Concern · the next-version draft.** The draft at `incoming/me_thirty-one_20261024/` is behind the concepts above: its *bi-coupling's own me an empty set* turns, and its *society unconsciously us* narrows. It is rebuilt and read for harm again before any entering. — me-thirty-one-20261024
+- **Concern · a stone.** What makes a set of mes a universal set of me, and a stone's set none: its mes sharing 0s across and along, a closing of its own, never its size or shape (Natural Chemistry's *Societies and their own closing*, chemistry-water-20261022). — me-thirty-one-20261024
+- **Concern · dreaming and anaesthesia.** Dreaming, experience while all 0 continues, and anaesthesia, neither sleeping nor dying, stand open. — me-thirty-one-20261024
+- **Droplet · homes in the set.** The one and the many, identity through sleep, other minds and universals belong at Natural Philosophy 3.5, 3.13, 3.15, 3.14, 3.33 and 3.26; sleep's science at Natural Biology 4.5 and Natural Health; a same-existing-society's interests at Natural Societies and Natural Human Society; this file the me's own understanding, pointing to them by the Registry's steps. — me-thirty-one-20261024
+- **Droplet · sources checked.** Twelve observing lines are corrected in the draft: Hegel *Phenomenology* §175, Pradeu's book, Clark & Chalmers 1998, and others. Taiz et al. 2019 is *Trends in Plant Science* 24(8):677–687, its *Planta* citation a mistaken reading. — me-thirty-one-20261024

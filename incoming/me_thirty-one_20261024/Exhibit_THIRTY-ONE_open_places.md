@@ -1,0 +1,48 @@
+- **1.3** · With each prime living scale, a me is consciously me, and its same-existing-society inward and outward is unconsciously us.
+- **1.3** · Two prime scales' spirals come to their parities again after 4pq, step 321, and each scale's me is its own.
+- **1.4** · observing to check before entering: Biofilm potassium waves
+- **2.1** · **Bi-coupling** is two mes sharing possibling, an -ing as living is, its own me an empty set.
+- **2.1** · observing to check before entering: A shared pair
+- **2.1** · observing to check before entering: Conversational turn-taking
+- **2.1** · observing to check before entering: Transactive memory
+- **2.1** · observing to check before entering: Other minds
+- **2.4** · For a me, each now-existing thing is-or-is-not within it, me and not-me one binary on each thing.
+- **3.1** · A me is a now- and same-existing thing, living, of one prime scale: the self whole.
+- **3.1** · Each self is a me, sleeping and waking: *self* and *me*, one living thing.
+- **3.1** · observing to check before entering: Levels of self-awareness
+- **3.1** · observing to check before entering: A narrative self and the Episodic
+- **3.1** · observing to check before entering: Division
+- **3.2** · Sleeping me observes, possibles and discovers with its inward us.
+- **3.2** · A me goes on as a me by changing, waking, and by not-changing, sleeping.
+- **3.2** · A me waking only is dying, and a dormant me, sleeping, is living, step 490.
+- **3.2** · A gap a frame sets between scales, a description and an experience one thing with a me's one scale.
+- **3.2** · observing to check before entering: Unihemispheric sleep
+- **3.2** · *A naming edge:* common *unconscious* is a place beneath awareness, a store below; ours is a sleeping me, its experiencing an empty set, its inward us living.
+- **3.2** · observing to check before entering: Ring species
+- **3.2** · *A naming edge:* common *sleep* includes dreaming, which its field reads as conscious; ours, sleeping me unconscious, waking me observing, possibling and discovering.
+- **3.3** · A bi-coupling's own me: it is not.
+- **3.3** · A same-existing-society's me of its own scale: it is not.
+- **3.3** · Anaesthesia is-or-is-not a sleeping me.
+- **3.3** · observing to check before entering: The zombie argument
+- **3.3** · observing to check before entering: Brain organoids and neurons in a dish
+- **3.4** · observing to check before entering: A society of mind; a dialogical self
+- **3.4** · observing to check before entering: Clock cells, each its own rate
+- **3.4** · observing to check before entering: Microbiota–gut–brain axis
+- **4.1** · Sleeping, its inward us goes on observing its prior, possibling and discovering, and the waking me discovers with it.
+- **4.3** · observing to check before entering: Relational autonomy
+- **4.3** · observing to check before entering: Self-determination theory
+- **4.3** · observing to check before entering: A readiness accumulating
+- **4.4** · A record of a me is a stable-forming emanation, and a self observing it as that me now-existing is installing a ghost.
+- **5.1** · Sleeping me shares 0, do-no-harming, and waking me shares its changing, improving: a me's sleeping and waking are do-no-harming and improving in turn.
+- **5.2** · A healthy me is sleeping me and waking me one and then the other, changing and 0 in turn, re-finding its own 0 with each momentary while it is changing.
+- **5.2** · Its ingesting by mes one scale lower is its whole's do-no-harming.
+- **5.2** · observing to check before entering: Total sleep deprivation
+- **5.2** · observing to check before entering: Efferocytosis
+- **5.3** · A same-existing-society is unconsciously us.
+- **5.3** · observing to check before entering: Collective intentionality
+- **5.3** · observing to check before entering: A forest's network, read past its data
+- **5.4** · A me's sleeping is completing and its waking a next opening, one and then the other.
+- **5.4** · Natural torusing: a me's own rate winding with the earth's day through one opening, step 176, each its own going on.
+- **5.4** · Me and us are two circles of one natural torusing, a me's own corus inward and its same-existing-society's surface outward, step 178.
+- **5.4** · observing to check before entering: A flow with no rest point
+- **5.4** · observing to check before entering: The adaptive cycle

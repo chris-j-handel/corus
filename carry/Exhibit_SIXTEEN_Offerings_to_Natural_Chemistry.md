@@ -77,3 +77,14 @@ Contradiction, the living and the non-living: Natural Biology draws the line the
 *Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
 
 - **Its way in.** A field's observing pattern-matched with the resolver's entry, as Natural Physics does; Natural Chemistry has none yet.
+
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, read beside the incoming chemistry-water-20261022 (its branch, 23 October). Whole at `incoming/me_thirty-one_20261024/`, its §0y.*
+
+- **A water pair, three 0s.** In Kumagai and colleagues' 2008 water pair, pair-forming is a candidate newborn 0. Donor–acceptor interchange is a continuing 0, the pair persisting, with each water's role changing about it. Parting by a pulse is a 0 lost. So the relation supplying an offering may be the pair's persisting, with the labels alone neither. — me-thirty-one-20261024
+- **Two selves, read alike.** Both sessions read Exhibit ONE's two-selves table alike: one parity apart gives no 0, coupled or not, and a continuing 0 needs two alike both ways. — me-thirty-one-20261024
+- **A catalyst's prior, now and next.** A catalyst's persisting connectivity with its changing contacts meets a continuing 0, prior, now and next same, and its renewed availability is a next momentary's own, no return. — me-thirty-one-20261024
+- **A set's own closing.** A set is a universal set of me as its mes share 0s across and along, a closing of its own, never its size or enclosing shape: the same test for a chemical assembly and for a stone. — me-thirty-one-20261024
+- **A snap alone.** A snap in a non-living set, crystallising NaCl or DUT-49 contracting, shows a snap alone is no test of a me. — me-thirty-one-20261024
+- **A chemical species and an interest.** IUPAC's chemical species, entities accessing the same energy levels, meets Exhibit ONE's 4-now-co-same-existing, a shared key, as a candidate species-specific domain at five and seven. — me-thirty-one-20261024

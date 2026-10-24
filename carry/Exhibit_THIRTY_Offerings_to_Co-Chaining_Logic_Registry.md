@@ -123,3 +123,13 @@ Exhibit THIRTY Co-Chaining Logic Registry Offerings · improved at v389
 **Droplet · from Natural Intelligence's offerings, aimed here.**  — v391
 
 - **The Co-Chaining Logic Registry** carries the opening word for word as its groups 1 to 4, and check_set reads it under 1.1's heading; a move ahead of the contents carries both with it. — v391, suggestion met
+
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me. Whole at `incoming/me_thirty-one_20261024/`.*
+
+**Concern · step 176's *circles*.** *Natural torusing is two parities' circles winding through one opening* parts from step 268's towel twisting *one way and then the other* and step 740's odd spiral as one loop passing each self twice. Proposed: *two parities' twisted figure-eight loops winding through one opening*. — me-thirty-one-20261024
+
+**Concern · steps 18, 25, 157, 476 and 495.** *A living same-existing set is a self*, *a bi-coupling is a self* and a same-existing-society as a self meet the session's us as a 0 shared in each, and a same-existing-society unconsciously us. — me-thirty-one-20261024
+
+**Droplet · steps to discover.** A me of one scale (after 478); waking and sleeping (after 490); a same-existing-society unconsciously us; every 0 from a prior same a me; us the 0 a me and you share at one momentary, a prior behind it in each. — me-thirty-one-20261024

@@ -27,3 +27,13 @@ Exhibit ONE Natural Resolver Offerings · resolved at v391
 **Concern · at *Each name and its relations; Two moves, 9 less; One cell, four receivings; Eights; Across names among eights; Namings among names; the spiral-opening paragraph*.** These leave Exhibit ONE whole, to archive, Natural Naming and NI part FOUR as placed. Or: They stay as reference forms, each with a one-line lead. *Laid whole at the archive, line 241.* — v391
 
 **Concern · at *Exhibit ONE's close (after tables of selves)*.** Enter a close naming each form's subjects across the set, and a table of the ten unchangeables. Or: End with the tables of selves, unchangeables at their registries. *Laid whole at the archive, line 253.* — v391
+
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me. Whole at `incoming/me_thirty-one_20261024/`.*
+
+**Concern · *With an empty prior, one momentary*.** The row *+ and − together: 0 · empty* is a 0 from no prior and to no prior, with no me behind it. It is not possibly existing in the universe, and is where the code's executing parts from it. It is said as such, or dissolved. — me-thirty-one-20261024
+
+**Droplet · the me in the names.** Each key of a self's priors is 4-now-co-same-existing, a now-existing thing within its me, read as an interest; 14-next-possibling's merge is all other observed as one; *three ways* are a continuing 0, a newly aiming 0 and a 0 lost. — me-thirty-one-20261024
+
+**Concern · a spiral of one.** *Number of selves: 1 · +, 0, −, 0* shares what two selves alike both ways share, and the living files call a spiral of one no living step. One stands. — me-thirty-one-20261024
