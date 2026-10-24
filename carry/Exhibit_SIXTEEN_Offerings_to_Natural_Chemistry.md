@@ -98,3 +98,5 @@ Contradiction, the living and the non-living: Natural Biology draws the line the
 - **Concern for v392chem · the us self.** The person's offered *us self* and the me session's *us, the between, its centre a 0, each me's own 0 shared* read one opening line two ways; laid at Natural Intelligence's offerings for the opening's own motion (§2c). — me-thirty-one-20261024
 
 - **For v392chem · dying.** Offered: *a dying me goes on as non-living with its scale, and its inward mes live on with their own scales or complete too*, keeping each self a me, steps 491 and 492 (§2e). — me-thirty-one-20261024
+
+- **For v392chem · us met.** The person's *us self* meets the me session as a co-parity, a non-existing thing living as a me and you, same-existing in each, no further self beside them (gathering §0af; contribution §2c). — me-thirty-one-20261024

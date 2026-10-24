@@ -495,6 +495,57 @@ When the swarm arrives and settles, is its me **(a)** completing into a society,
 
 ---
 
+## 0ag. Each living parity aiming at its own destiny on a surface horizon; natural torusing co-aiming the parities of me (12:44, 24 Oct)
+
+**The person:** *Each living parity is aiming at its own destiny on a surface horizon. Natural torusing is co-aiming the parities of me.*
+
+**Binary path.**
+1. **Each living parity is a self while it is living** (Thirty-One 3.4). An aiming is a parity's direction into an interest (2.2). So each living parity is or is not aiming, with each momentary.
+2. **Its destiny is its own next on the Natural Network surface.**
+   - *Living is geodesic co-chaining on a Natural Network surface* (the opening).
+   - Natural Destinies holds *a far surface and a near surface of one sharing*, and *a self observes it with one changing that makes its near surface*.
+   - So the horizon is the far surface. Each changing makes it near: a newly aiming 0, one changing, then a 0 at its new prior.
+3. **Natural torusing is co-aiming the parities of me.**
+   - Shared aiming is moral cooperation (5.1).
+   - A me's parities, each its own and each aiming, aim together within the me: its inward moral cooperation, and so its health (5.2, *a me's inward social moral competency*).
+   - Torusing is local to global (§0p): each parity's own aiming, local, its destinies on one horizon, global.
+4. **Motion sickness met again** (§0ad):
+   - eyes on the horizon are eyes and inner ear co-aiming on one surface horizon, a 0;
+   - below deck they aim at two surfaces, a parting.
+
+   The horizon remedy is the co-aiming of a me's parities.
+
+**Observings, no authority.**
+- **Heading from optic flow** (Gibson 1950; Warren & Hannon 1988, *Nature*): moving forward, the scene flows outward from one point, and that point on the horizon is where the mover is heading, perceived from the flow alone. Agreeing: a parity aiming at its destiny on a surface horizon.
+- **Gaze held as the head turns** (the vestibulo-ocular reflex): the eyes turn against the head's turning, eyes and inner ear aiming at one point. Agreeing: a me's parities co-aiming.
+- **The horizon and seasickness** (§0ad sources): looking at the horizon eases seasickness, and below deck worsens it.
+
+---
+
+## 0af. Us, a same-existing now-existing co-parity, a living self, no further thing (12:42, 24 Oct)
+
+**The person:** *Same-existing now-existing us. An us is a non-existing thing living self. A co-parity.*
+
+**As entered in the draft, after two readings for harm:** *Us is a co-parity, a non-existing thing living as a me and you, same-existing in each: a bi-coupling's own is its two mes' own, step 162, and naming a coupling supplies no further self between coupling selves, Equilibria 1.3. Us is unconscious, as a same-existing-society is; an interest the two share waking is each me's own, each consciously me.*
+- The readers found that *a living self* of us makes a third me beside 1.4's *a living thing is a me*. So *living self* is said as *living as a me and you*.
+- They also found that extensionality does not make a set no object beside its things. That line was withdrawn.
+- Open: whether us is itself a living self, as the opening's *a bi-coupling is a self* has it.
+
+**Binary path, with the files' own namings:**
+- **Co-parity** is the meeting of a self's parity and an other's, the same, sharing 0. Bi-parity is the meeting one inversion apart (Natural Intelligence, self-parity's *two meetings*; Natural Naming: *now-existing co-parity, now opening; now-existing bi-parity, now completing*). Natural Mathematics' self-cohering: *3 now-existing co-parity … its centre with 3, floating, in neither self alone*.
+- So us is now-existing and same-existing: the same, in neither self alone. With each momentary us is co-parity or bi-parity, and changing us is or is not (§0z).
+- **No further thing:**
+  - Natural Intelligence 4.10: *a between is its centre, 0, and only that*.
+  - Equilibria 1.3: *a between whose sides are with their priors is a living nothing*, and *a between with a side with no prior is an existing nothing* (§0v, a 0 with no me behind it).
+- **A living self:** the opening's *a bi-coupling is a self*, and *A 0, betweening. A between is within a bi-coupling, a living set's same-existing* (4.10).
+- **Both sessions meet:**
+  - Chemistry's *us self, one shared-parity self* is the co-parity.
+  - The me session's *each me's own 0, shared, arising only in both together* is its *in neither self alone*.
+  - What drops is *no further self*: us is a living self and no further thing.
+- **§0f's three thirds met:** *a* living nothing is named by Equilibria by its sides with priors, its living its sides'. Us is a co-parity, one meeting, and a parity is a momentary now-existing thing (step 162). Its *thing beside its two mes* is the empty set.
+
+---
+
 ## 0ae. All priors become many nows, and all nows are from many priors (12:01, 24 Oct)
 
 **Binary path.**

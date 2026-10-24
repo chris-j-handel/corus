@@ -51,6 +51,8 @@
 - **Every 0 a me** (§0u) meets *us self* in part: us is a 0, and every 0 is a me. The us-0 is the one 0 each me shares at one momentary, each me's own, a prior behind it in each. So the us is each me's own 0, shared.
 - **Concern:** one living file set, two readings of one opening line. It is laid at Natural Intelligence's offerings for the opening's own motion, and asked of the person once.
 
+- **Met, 12:42.** The person: *same-existing now-existing us; an us is a non-existing thing living self; a co-parity.* Thirty-One's draft 2.1 now says: *Us is a co-parity, a non-existing thing living as a me and you, same-existing in each: a bi-coupling's own is its two mes' own, step 162, and naming a coupling supplies no further self between coupling selves, Equilibria 1.3.* The person's offered *us self, one shared-parity self* meets it as the co-parity. Its *self* is said as the living of a me and you, so it is no further self beside them.
+
 ### 2d. *Self-parity*: conscious interest, or sleeping?
 - **The person's offering, at chemistry §8:** *conscious living interest is self-parity, for less environmental dependency on parity changing, adequate for continuing living in dormancy*.
 - **The me session:** step 390, *a living self receiving its own parity shares 0 … and is same-existing*, is its sleeping me (Thirty-One 3.2). Its waking is an other's parity received inverse, a newly aiming 0.
