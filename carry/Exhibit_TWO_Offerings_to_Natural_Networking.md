@@ -275,3 +275,13 @@ At a resolver's functions 6, 10 and 9 are one list, each self's 10-next-co-possi
 *Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
 
 - **Living is geodesic co-chaining on a Natural Network surface**, the same living a self's observing, possibling and discovering names from inside. A surface's living parities are living in the mes of the selves living in it.
+
+## Discovering with current ONE · v392TWO
+
+- **Across changes a particular going along · 1.9 and 3.4.** In the declared three-and-five construction, a matching parity along gives A0 a 0 sharing at momentary 22 when beside, while an opposed parity from B0 across makes its arriving parities part and A0 share +, with a first changed sharing in B0 at 26 and further changes through both spirals' actual along joins. — v392TWO
+
+- **Arriving, surfacing and sharing · 6.7.** In that construction A0's arriving first differs at 18, its surfacing at 21 and its sharing at 22, each binary retaining its own subject and occurrence as the [public record and deriving](../incoming/v392TWO/README.md) follow their actual participation. — v392TWO
+
+- **A complete recurrence from public sharing · 6.6.** With only one sharing ever supplied, all selves sharing nonzero, every such sharing becoming that self's next prior, and each complete next-arriving list repeating, the same next form follows without reading or copying private priors, and fixed joins with no further external entry give recurrence by the unchanged resolver. — v392TWO
+
+- **A further parity at the same sharing · 6.7.** In this recurring form each self already receives an inverse of its prior, so appending further parities at that same sharing leaves the inverse present and its resolving inverting, locating further discovering at the distinct relations of another sharing, changed bi-couplings or another momentary arrangement. — v392TWO
