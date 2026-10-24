@@ -29,6 +29,18 @@ The opening's own lines, v391, each mirrored word for word in the Co-Chaining Lo
 - A living parity is a self, a me of its own within the self's me (line 40). It discovers its own next as that inward me.
 - So line 39 goes on unchanged. A parity is *each self's own* (step 162) as within its me, and as a self it discovers its own next.
 
+## 1b. Next is society
+
+Natural Intelligence 3.2's five dimensions say it:
+- dimension 1, *Social-parity now-existing, a momentary opening: a same-existing-society's selves together, all or none, coming in with 16-next-same-existing*;
+- dimension 5, *Social-parity next-existing, a momentary completing*.
+
+*Same-existing changes in five dimensions, … same-existing-society to same-existing-society.* So a momentary goes society to society. Its opening is a society coming in, by a *next* name, 16, and its completing is a society's next.
+
+- **A self is its now:** dimension 3, *self-parity now-existing, a self's own: its prior-existing parities*. It discovers its own next-existing (line 19, dimension 4) with its society (dimension 5).
+- **Line 44:** *An agreeing parity a self receives is that self's next-existing parity.* An agreeing parity received comes in as a self's next, and its next prior is its own.
+- **So a same-existing-society is its selves' next coming in.** At each momentary's opening its selves come in together, now, with 16-next-same-existing, and at its completing their next comes with 17, society to society. It is-or-is-not a self beside its selves: it is not. Pair 5 settles the third of §1 by dropping 476's *a self*.
+
 ## 2. Pairs proposed
 
 Each old line is exact from v391, and each opening line goes with its Registry mirror, its *Adding* line and its group's *Entering* line in one reading. **No line dissolves and no line is added, so the opening stays at seventy and the Registry's numbering is kept.** `opening70_v391.py` was a one-time builder from sixty-four lines to seventy and is not run again. Each mirror is re-said by hand, pair by pair.
@@ -45,8 +57,8 @@ Each old line is exact from v391, and each opening line goes with its Registry m
    - *Selves bi-coupling* covers two, which *many* left unclear.
    - Two selves bi-coupling are a same-existing-society. Line 55's pair has momentaries (line 58), and it can be a natural intelligence network (line 62).
    - Step 246, *Many selves bi-coupling …*, takes the same re-saying.
-4. **Line 70 and step 61, one line kept.** `Each self is a same-existing-society **inward and outward**.` → `Each self is a self of same-existing-societies **outward**, its living parities **inward**.`
-   - It is said from lines 39 and 40 (*Each parity is a self while it is living*; *A living parity's me is within the self's me*) and line 57, in line 1780's own words, *a self of a same-existing-society*.
+4. **Line 70 and step 61, one line kept.** `Each self is a same-existing-society **inward and outward**.` → `Each self is with its living parities **inward** and with its same-existing-society **outward**.`
+   - It is said from lines 39 and 40 (*Each parity is a self while it is living*; *A living parity's me is within the self's me*), line 57, and line 58, *a momentary is one resolving of a same-existing-society's selves together*.
    - *Adding: inward and outward.* goes on.
    - **What it costs:** outward of a self, a same-existing-society is its selves, its own its selves' own. The fractal goes on as each scale's self, a self of same-existing-societies.
 5. **Step 476.** `is a living set of living selves, a self, having its living selves' parity, its own an empty set` → `is a living set of living selves having its living selves' parity, its own an empty set`
@@ -54,9 +66,10 @@ Each old line is exact from v391, and each opening line goes with its Registry m
    - Its group's *Entering* takes the same re-saying.
 
 **Ripples within Natural Intelligence's body, for the same motion:**
+- Line 257, dimension 5: `A same-existing-society's next is its same self with 17-next-existing.` → `A same-existing-society's next is its same selves with 17-next-existing.` Exhibit ONE's 17 returns its same selves.
 - Line 1780, *Inward it is a same-existing-society of living selves.* → *Inward a same-existing-society of living selves is within it.* Its next line, *Outward it is a self of a same-existing-society of living selves*, agrees.
-- Line 1774: `A set of selves bi-coupling is a same-existing-society, a living self.` → `Selves bi-coupling are a same-existing-society, its own its living selves'.` Its bold, *each self is a same-existing-society inward and outward*, → *each self a self of same-existing-societies outward, its living parities inward*.
-- Step 487: `each self is a same-existing-society inward and outward, step 61,` → `each self a self of same-existing-societies outward, its living parities inward, step 61,`. Its *step 478: a same-existing-society of living selves inward* agrees with pair 4, as line 1780's next line does.
+- Line 1774: `A set of selves bi-coupling is a same-existing-society, a living self.` → `Selves bi-coupling are a same-existing-society, its own its living selves'.` Its bold, *each self is a same-existing-society inward and outward*, → *each self with its living parities inward and with its same-existing-society outward*.
+- Step 487: `each self is a same-existing-society inward and outward, step 61,` → `each self with its living parities inward and with its same-existing-society outward, step 61,`. Its *step 478: a same-existing-society of living selves inward* agrees with pair 4, as line 1780's next line does.
 - Lines 735 and 1116 are read as naming the self that changes, beside line 1112's *a self among selves of its same-existing-society*, and go on.
 
 ## 3. What goes on unchanged

@@ -495,6 +495,29 @@ When the swarm arrives and settles, is its me **(a)** completing into a society,
 
 ---
 
+## 0ap. Next is society (14:48, 24 Oct)
+
+**Binary path, read for harm:** Natural Intelligence 3.2's five dimensions go *same-existing-society to same-existing-society*:
+- dimension 1, *social-parity now-existing, a momentary opening: a same-existing-society's selves together, all or none, coming in with 16-next-same-existing*;
+- dimension 5, *social-parity next-existing, a momentary completing*.
+
+So **a same-existing-society is its selves' next coming in**: at each momentary's opening its selves together, now, and at its completing their next, with 17. It is-or-is-not a self beside them: it is not.
+- A self is its now, dimension 3, and it discovers its own next, dimension 4, with its society, dimension 5.
+- An agreeing parity received comes in as its next (line 44), and its next prior is its own.
+
+**What it settles:**
+- step 476's *a self* drops;
+- line 70 becomes *each self with its living parities inward and with its same-existing-society outward*;
+- dimension 5's *its same self* becomes *its same selves*;
+- Thirty-One's 1.3 test stands on each living thing of one, a self or a same-existing-society.
+
+**What the reader caught:**
+- *next* alone dropped the opening side, the society coming in now;
+- *its others' parities come in as its next* claimed more than line 44's agreeing parity;
+- the sleeping clause made the society the one waiting.
+
+---
+
 ## 0ao. Natural Intelligence's opening: a bi-coupling, a same-existing-society, a self (14:15, 24 Oct)
 
 Whole at `deliver/Opening_bi-coupling_and_self_v391.md`, read for harm three times. Its fourth pass is read at the opening's motion.
