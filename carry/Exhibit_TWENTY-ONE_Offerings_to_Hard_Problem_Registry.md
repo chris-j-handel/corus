@@ -144,3 +144,5 @@ Exhibit TWENTY-ONE Hard Problem Registry Offerings · improved at v389
 - **Droplet · proposals.** Sleep (91), dreaming (123), personal identity (72), other minds (92), collective intentionality (227) and the zombie (111) each meet the session's me: a me same-existing through sleeping, us invisible by bi-coupling, a society unconsciously us, a me only unconscious not possibly existing. — me-thirty-one-20261024
 
 - **Droplet · dreaming, 123.** A proposal: dreaming is a sleeping me carrying, unchanging, while its inward selves release at their own scales; a received release is passed over, which meets most dreams gone on waking (gathering §0ab). — me-thirty-one-20261024
+
+- **Observing · sound in dreams, 123.** About half of dreams carry sound and under one percent touch, taste or smell (Hurovitz 1999, reading Snyder 1970 and Zadra 1998); outward sound is mostly not observed in sleep, so a dream's sound is inward. — me-thirty-one-20261024

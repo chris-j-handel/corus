@@ -55,3 +55,5 @@ Exhibit THIRTY-ONE Me Offerings · v391
 - **Droplet · sleeping carrying.** Sleeping is carrying and unchanging self interest, a me receiving its own parity and sharing 0; waking carries its interests with us, changing and unchanging in turn; dying is an interest not carried, changing alone (gathering §0aa). — me-thirty-one-20261024
 
 - **Droplet · dreaming releasing.** Dreaming is the me carrying its prior unchanged while its inward selves release waking's tensions alike both ways, each releasing one changing then 0 (*changing once and then same-existing*), leaving its priors pliable for the next day's newly aiming 0s (gathering §0ab). — me-thirty-one-20261024
+
+- **Droplet · dreaming and spinning.** Dreaming and the spinning room each rest the me's outward observing; dreaming's inward selves release alike (changing once, then 0) and spinning's part (no 0, inverting each momentary), stopped only by a parity received agreeing from outside, eyes on a still point or a foot on the floor (gathering §0ac). — me-thirty-one-20261024

@@ -495,6 +495,38 @@ When the swarm arrives and settles, is its me **(a)** completing into a society,
 
 ---
 
+## 0ac. Sound in dreaming, and the spinning room (10:25, 24 Oct)
+
+**The person:** *Is dreaming universally without perception of sound? The spinning room is similar to dreaming: the system is partially living and partially resting, and not observing living.*
+
+**Sound, observed.**
+- **Dreams with sound:** about half of dreams carry sound (Hurovitz and colleagues 1999, reading Snyder 1970 and Zadra and colleagues 1998).
+- **Dreams with touch, taste or smell:** under one percent.
+- **Deaf dreamers:** a 1960 study observes deaf dreamers dreaming in signing.
+- **Outward sound during sleep:** mostly not observed. A loud sound, or the sleeper's own name, wakes the sleeper or is woven into the dream.
+- **So:** dreaming is not universally without sound. It is without **outward** observing, sound included. Its sound, where present, is inward.
+
+**Binary path.**
+1. **Outward observing is or is not.** In both dreaming and the spinning room, the me's outward observing rests: the eyes closed, the ears mostly gated.
+2. **Inward selves alike or parting.**
+   - **Dreaming:** the inward selves are alike, releasing both ways. Each releasing is one changing and then 0 (§0ab).
+   - **Spinning:** the inner ear's cupula and its fluid are alike in density, so when the head is still, no turning is sent. Alcohol reaches the cupula first and parts the two. This is Exhibit ONE's *one parity apart, both ways: no 0, each inverting with each momentary* (run E4). It is changing with no 0 to settle in: the room spins.
+3. **What stops the spinning is a parity received agreeing from outside.** Eyes open on a still point, or a foot on the floor: a parity agreeing is received, and a 0 is shared. That is Exhibit ONE's only way to a 0. Lying down with the eyes closed leaves the parting alone, and the spinning is strongest.
+4. **So dreaming and spinning are one binary apart:**
+
+| | Outward observing | Inward selves | Sharing |
+|---|---|---|---|
+| dreaming | resting | alike, releasing | changing once, then 0 |
+| spinning room | resting | parting | changing with each momentary, no 0 |
+
+*Partially living and partially resting* is read here as the outward resting and the inward changing, with the inward parting or alike.
+
+**Observings, no authority.** The spins mechanism comes from vestibular science as summarised by Science Insights and by Massachusetts Eye and Ear: positional alcohol nystagmus.
+
+**Open.** Nausea in the spinning room: is it the me's carried interests receiving an inward parting that it cannot pass over?
+
+---
+
 ## 0ab. Dreaming as releasing, the prior carried (10:23, 24 Oct)
 
 **The person:** *Dreaming is like sneezing and orgasm and tingling sensations and other releasings like fluttering vision: all of this is mutual relaxing of the physical living societies for a period of resting parity. Dreaming is like the carrying of prior releasing the odds and ends of tensions in physical stable form for tomorrow's new living stable forming.*

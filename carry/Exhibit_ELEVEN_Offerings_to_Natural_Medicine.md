@@ -229,3 +229,5 @@ The current question is: **At the next colliding, which co-chaining of the inwar
 - **Concern · experience under sleep.** 4.1's selves reporting experience from under sleep and anaesthesia meet sleeping as all 0 continuing; dreaming and anaesthesia stand open. — me-thirty-one-20261024
 
 - **Droplet · the snap.** 3.2's *a geodesic re-routing snap, a parity flipping with a tip* is a newly aiming 0: one changing, then a continuing 0 at its new prior. — me-thirty-one-20261024
+
+- **Droplet · the spins.** Positional alcohol nystagmus is Exhibit ONE's one parity apart: cupula and fluid parting in density, no 0, the room turning with each momentary, until a parity agreeing is received from outside (gathering §0ac). — me-thirty-one-20261024
