@@ -68,3 +68,7 @@ No living file is changed. Each droplet waits for its own file's motion: propose
 
 `Exhibit_THIRTY-ONE_Me_next_v2_marked.md` and `_clean.md` are the next version of Thirty-One with the section map's re-sayings in natural naming. In the marked copy, ◇ is changed, ✦ is new and ○ is open. A separate reader read it for harm, and its findings are applied. Three places stay ○: division and a settled hive, under anaesthesia, and a stone's set (for chemistry). It enters Thirty-One only at Thirty-One's own motion.
 
+## Contributing to Natural Chemistry, 24 October
+
+`Contributing_to_Natural_Chemistry_v392chem.md` reads the v392chem session's living learning, proposed opening and atom-floor motion (`working/natural-chemistry-v392chem`, at 4bcf6d1). It shows where the two sessions cohere: uniqueness by others, the lone atom as a spiral of one, nothing copied with many priors and many nows, dying at a lower scale. It names five places where they part, each with a re-saying offered: the 0 line, the loop test, the us self, self-parity and *the self loses its me*. A separate reader read it for harm. Its droplets stand at the offerings of Natural Chemistry, Natural Intelligence and Natural Societies.
+
