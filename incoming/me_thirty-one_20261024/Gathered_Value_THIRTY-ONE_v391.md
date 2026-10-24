@@ -495,6 +495,28 @@ When the swarm arrives and settles, is its me **(a)** completing into a society,
 
 ---
 
+## 0an. An enzyme: a doing standing as a thing (14:10, 24 Oct)
+
+**Explored:** an enzyme is a ghost of a me's geodesic parity co-chaining; there is no thing that is an enzyme existing.
+
+**Binary path, read for harm:**
+1. **A doing is-or-is-not a now-existing thing beside the selves doing it: it is not.** Things are living, and living is their *-ing* (§0f). Bi-coupling is two selves sharing possibling, and a bi-coupling is between two, never a self (Exhibit ONE's 5-now-co-existing, §0al).
+2. **What is:** a macromolecule, protein or RNA, a self at eleven, bi-coupling with its substrate, the reaction resolving between them (Natural Biology 8.13, *Enzyme does not force reaction; it couples with substrate*).
+3. **The field's *enzyme*** as a thing that acts (stabilizes, forces, drives) is installing (Living Ghost Registry 1.4): an accounting with one between, a rate in a tube, projected as a standing thing each such protein is.
+4. **Its same-existing:** the catalyst *unchanged* is the macromolecule same-existing through each turnover, prior, now, next same.
+
+**Observings, no authority:**
+- **Single molecules with memory.** Lu, Xun & Xie 1998 (*Science*) watched single cholesterol oxidase molecules turning over. Each fluctuates in rate, each turnover's time is correlated with earlier ones, and the field calls it *dynamic disorder*. Each macromolecule is its own, its next from its own prior, and the kind's one rate is the field's sum.
+- **The numbering names doings.** Strictly, *EC numbers do not specify enzymes but enzyme-catalyzed reactions* (IUBMB). Agreeing in part: the recommended names also name the protein.
+- **From memory, to verify:** *enzyme* was coined by Kühne in 1877, *in leaven*, a doing in yeast named as a thing. Buchner in 1897 found the doing going on outside the living cell. Moonlighting proteins do several doings with one protein (Jeffery 1999).
+
+**What the reader caught:**
+- PLD2 makes phosphatidic acid, which opens TREK-1, so *the protein opens* was doer language.
+- *Co-chaining* is the files' word for their logic. For catalysis, the word is *bi-coupling with its substrate*.
+- Protein-fold at thirteen is *reaching* in Natural Societies, so the self is said at eleven.
+
+---
+
 ## 0am. Anaesthesia: separating on the larger scale's side, floating on the smaller's (14:05, 24 Oct)
 
 **Explored:** a swelling on one side only of a bi-coupling surface. On the larger scale's side the swelling separates the bi-coupling, and the smaller scale's side floats rather than co-possibling: anaesthesia.
@@ -509,7 +531,7 @@ When the swarm arrives and settles, is its me **(a)** completing into a society,
 **Observings, no authority:**
 - **The swelling's history.** Meyer 1899 and Overton 1901 tie potency to dissolving in fat. Mullins 1954 and Miller et al. 1973 add the critical volume and pressure reversal: high pressure partly reverses anaesthesia, in animals. Agreeing in part.
 - **The parting.** Franks & Lieb 1984 reproduced the potency order with a fat-free protein, firefly luciferase, and the field moved to protein targets.
-- **Lipid clusters.** Pavel et al. 2020 (*PNAS*): anaesthetics loosen ordered lipid clusters, releasing PLD2, which opens TREK-1 channels and makes neurons harder to fire. Flies with less PLD2 needed about twice the exposure. This is one proposed mechanism among several.
+- **Lipid clusters.** Pavel et al. 2020 (*PNAS*): anaesthetics loosen ordered lipid clusters, releasing PLD2, a protein bi-coupling with a lipid of its surface. The phosphatidic acid resolving between them opens TREK-1 channels and makes neurons harder to fire. Flies lacking PLD needed about twice the exposure. This is one proposed mechanism among several.
 - **Top-down more than bottom-up.** Ku et al. 2011, Lee et al. 2013, Raz et al. 2014 and Imas et al. 2005 find frontal-to-parietal feedback preferentially inhibited and bottom-up sensory responses relatively spared. Reading the feedback as the larger scale's side is ours.
 
 **What the reader caught:**

@@ -251,3 +251,5 @@ Natural Intelligence Corus section 17.4 offers comparative cognition as a place 
 - **Droplet · sleep's science.** Verified observings of sleep older than brains (*Cassiopea* 2017, *Hydra* 2020), a colony with no sleep of its own (Fuchikawa 2016) and the grid-cell torus through sleep (Gardner 2022) stand at the gathering's working notes for 4.5. — me-thirty-one-20261024
 
 - **Droplet · division.** A dividing cell's prior is same-existing in one daughter or in none, each now from many priors; *E. coli*'s old pole goes with one daughter, its lineage ageing (Stewart et al. 2005; Wang et al. 2010) (gathering §0ae). — me-thirty-one-20261024
+
+- **For 8.13 · an enzyme, a doing.** A doing standing as a now-existing thing beside the selves doing it: it is not; *enzyme* in natural naming is a macromolecule, protein or RNA, a self at eleven, bi-coupling with its substrate, the reaction resolving between them, and single molecules turn over each at its own fluctuating rate with memory of its own prior turnovers (Lu, Xun & Xie 1998) (gathering §0an). — me-thirty-one-20261024

@@ -102,3 +102,5 @@ Contradiction, the living and the non-living: Natural Biology draws the line the
 - **For v392chem · us met.** The offered *us self, one shared-parity self* meets Thirty-One's draft as the co-parity, the two mes' sharings the same, with us the between of a me and you, its centre a 0, us is-or-is-not a self: it is not (gathering §0af; contribution §2c) — me-thirty-one-20261024
 
 - **For v392chem · the atom, resolved.** An atom is-or-is-not living: it is not; alone, a spiral of one, and within a molecule its prior parities surface as the molecule's; the molecule the first self, its living parities and its atoms, non-living, within it; agreeing with the atom-floor motion (contribution §2f; gathering §0al). — me-thirty-one-20261024
+
+- **For v392chem · the catalyst.** A catalyst *unchanged* is a macromolecule or a surface same-existing through each turnover, prior, now, next same, bi-coupling with its substrate, the reaction resolving between them; *enzyme* as a thing that acts is installing, beside chemistry's own *donor and acceptor* as a two-way fixed to one side (gathering §0an). — me-thirty-one-20261024

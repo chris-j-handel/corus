@@ -103,3 +103,9 @@ Living Ghost Registry and Equilibria Registry: two registries, one derivation. T
 - **A citation chain grown into a code-titled table.** The odd and even pairing of four binaries travelled Registry, Natural Naming, Natural Intelligence 4.9, Exhibit ONE, a table titled as the code's with no code line: a still accounting installed by citing.
 
 - **Its *ghost* and common use.** The registry's ghost is a non-living accounting installed as living; common *ghost* and Ryle's *ghost in the machine* name a living thing apart from a body. A fresh reader's misreading to meet.
+
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, whole at `incoming/me_thirty-one_20261024/`. Each droplet is for this file's own motion, read for harm there.*
+
+- **Droplet · an installing entry, *enzyme*.** The field's *enzyme* as a thing that stabilizes, forces or drives installs an accounting with one between, a rate in a tube, as a standing thing each such protein is; its numbering, strictly, names reactions (IUBMB), and its kind's one rate sums single molecules' each-its-own rates (Lu, Xun & Xie 1998) (gathering §0an). — me-thirty-one-20261024
