@@ -119,3 +119,151 @@ Contradiction, the living and the non-living: Natural Biology draws the line the
 - **Fire and breath:** Burning and breathing are one round, breath passing it through whole steps and fire a natural torusing society at an overwhelming parity-changing rate, puffing in rings set by its size; oxidation and reduction are never apart, bothbothing. ([living learning, §14](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
 
 - **Four-cycling at three scales:** Stars take in four hydrogens and carbon comes again, plants release oxygen on every fourth flash and their water-splitting centre comes again, and breathing makes water from oxygen in fours, podal to the plant's step. ([living learning, §14](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · One-electron sharing, at 1.4:** H₂⁺, two hydrogen nuclei sharing one electron, goes on as one molecule with a single electron, and when it parts the electron goes with one piece, so atom and bare nucleus are made in the parting. Line 143 still says *a bond is a pair two centres share*. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · B-DNA and Z-DNA are not mirrors, at 2.2:** Both are built on the same-handed sugar, so they are diastereomers and not opposite hands. Line 203 still uses them as opposite hands. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Reciprocity called exact, at 1.5:** For chemical reactions the reciprocity of two flows rests on one confirming experiment. Line 151 still calls it exact. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · 4.4's *podal* at v392:** Line 317 still calls the straight-across relation *podal*, opposite to Natural Naming and Numbers. The offered subtitle word *Carrying* is now dissolved too. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · *Organic molecules are non-living*:** Binary Understanding's *organic molecules are non-living too* parts from the molecule as a living self at 7. The atom at 5 non-living sharpens this. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · *An element is number*, at 1.6:** Line 159 still says *An element is number … Proton number six is exact*. An element is a step a self discovers, and number is its record. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · *Its weight and a steady count*:** The droplet *No atom joins a molecule* says a nucleus marked by its weight and a steady count. Weight is a relational reading and a count is a record. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Mass at 263:** 263's *a mass near one per cent quark rest mass* says mass as a thing's own. Every mass and weigh line waits reading as an instrument's relational reading. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Bare *coupling*:** Bare *coupling* stands about 148 times, a pass of its own. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · *Stay*, *itself* and *couple* lines:** Equilibria and dissolved words stand at 183, 201, 233, 249, 289 (*stays with its conditions*), 379 (*cycling itself cycles*) and 429. *Itself* stands at 275, 379, 383, 451 and 494, and *couple(s)* at 371, 409 and 461. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · 135 and 139–141 read together:** 135's *a molecule's own sharing* and 139–141's two selves bi-coupling across a between wait one joint reading. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · *Own sharing* or *stable form*:** The agreed naming for what goes on through a molecule is *its stable form, same-existing with each resolving*, while the no-bond entering also used *a molecule's own sharing*. Whether *own sharing* is right, and a sharing between which, is open. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · *A reacher*, at 1.6:** Line 165's *a floating neutral, a reacher and other sides* names a role, for a naming motion. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · One carbon's hand upward:** Line 203's *One hand of one carbon goes upward* and Natural Societies 423's *a single stereochemical center on five* part from carbon at 5 handless and the hand beginning at 7. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Carbon chains along itself:** Silicon and water share carbon's four corners, ice built like diamond, so the four alone do not make carbon living's condition. Carbon chains carbon to carbon without end, and silicon chains through oxygen. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Silicon's own chains:** Silicon-to-silicon chains are made in the laboratory, less lasting than carbon's. If the observing narrows to carbon's self-chains lasting and silicon's not, the saying follows it. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Two fours, one living:** Living chemistry is carbon's stable form with water's living society, two fours, water's us selves co-alternating as the living and carbon as its condition. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Living's minerals formed on carbon:** Bone and teeth are calcium phosphate, some sea life builds shells of glass and some bacteria grow magnets, each mineral formed on a carbon framework living makes first. So living's stable forms are formed on carbon's stable form. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Carbon's living forms last only going on:** Every carbon form of living would burn in air and goes on only because that changing is slow and living renews it. So no rest is found in them. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Organic gave up *living only*:** From 1828, when urea was made in a flask from non-living matter, *organic* came to mean carbon's chemistry. So carbon's chemistry is non-living chemistry living uses, which meets 3.4's one seam. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **A lone molecule loops:** The first atomic clock (1949) used the ammonia molecule, so a molecule alone loops as an atom does. A molecule is living only in its couplings. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Molecules come from molecules:** Separate atoms are observed only where something has made them: flame, spark, great heat, space and the noble gases. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The atom's *hole*:** An atom's core is almost unchanged by coupling, and all changing is in its outer sharing, the whole's in benzene and metals. So *hole* means empty of changing, never of matter, and a single atom trapped alone for months is a non-living existing thing. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Mirror crystals and isomer counts:** Mirror crystals (1848) turned light equally and oppositely, about zero, and isomer counts (1874) showed carbon's four pointing to a pyramid's corners. These are the year-observings under 1.7's twenty-four as twelve and twelve. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Charge through water, at 3.3:** Charge moves through water many times faster than through any other liquid, with no single hydrogen travelling the whole way. That is the observing under water's co-chaining. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Chemistry's kinds by a stated rule, at 1.1:** Almost all chemistry's kinds, its disciplines, groups, *bond* and reaction classes, series and scales, are admitted by a stated rule, a between fixing as a cut. A chemical kind is a universal set only where its membership is observed same-existing, and elsewhere it is a field's word, whole. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Order in time and the transition state:** Order in time is observed only where an experiment builds in a clock, and elsewhere a model assigns it. The transition state at an energy hill's top is a model construct everywhere it is said to be seen. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Podal pairs exact only by symmetry, at 2.2:** The mirror nuclei krypton-71 and bromine-71 have different ground states (2025). The energy difference predicted between mirror molecules has never been measured, the best result no difference beyond its error. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Amplification and Bennu, at 2.2–2.3:** A small excess of one hand is amplified in the next products (2026 Nobel Prize), and the first seed is not settled. Bennu's amino acids are of both hands in near-equal amounts (2025), as non-living forming shows. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Water's two liquids, at 4.2:** A 2026 experiment, still unreplicated, places water's second critical point near 210 K at about 1,000 atmospheres. That meets 4.2's single critical point as a field's fixing of a sway. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Interface claims not yet to enter:** Dark oxygen at the seafloor is unreplicated, microdroplet peroxide traces to dissolved oxygen meeting solid surfaces, and long decay lengths in concentrated salt now point to ion clusters or to the surfaces. None enters yet. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Glass, slowed or stable:** Glass may be a society slowed until its changing is longer than any observing's momentary, the speed-against-observing relation of species. If so it parts from *non-living stable form*, and uranium crystals turning glass-like and re-ordering when warmed sharpen this. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Magnesium with two chelators:** Citrate and EDTA both associate with magnesium, and extension goes on with citrate and stops with EDTA. The draft way in, participant, association and a competency arising in neither alone, joins 5.2's catalysis, and the opening proposal replaced it without saying why. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Magnesium under EDTA:** Whether magnesium's participation re-forms or parts from the RNA's society when EDTA wraps it is open. Naming the scale, parting at the RNA's and going on at the ion's, needs re-saying with an ion at 5 non-living. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Re-forming against parting:** Fibre exchange, epoxy networks, a two-phase crystal and a protein refolding whole each press on whether a self or society re-forms or parts. A molecule as one self through every stable form sharpens this. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · The two-selves table:** With opposite priors, coupled and apart give identical sequences, so coupling shows only with alike priors or one-way sharing, which supports the water pair as alike selves. It was found by executed code, which has no authority, so it needs re-meeting as a stable-form pattern before it travels. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Water forming from two:** Hydrogen and oxygen forming water are two prior selves bi-coupling into one next self, so the count of selves changes and needs saying. It also parts from *molecules do not change into different molecules*. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Which is water's us self, at 3.3:** Whether water's us self is the pair, the molecule or the whole liquid nested is open. Which lower scale its emanations dissolve into is open too. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · *Nucleus*:** A nucleus too is observed only as a step and a reading, never apart from what surrounds it, so *nucleus* may need saying as carefully as *atom*. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Bi-folding 4-13-5-12:** Exhibit ONE's bi-folding 4-13-5-12, the only one with no names between selves, may be carbon's, and this is unanswered. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Nucleation's atoms and the alloy nucleus:** The droplet *Nucleation's fading edge* says *each atom's form … the edge its selves still resolving*, while atoms are now non-living and its 2026 observing is of metal-alloy nanoparticles with no molecules. 4.7 cites the 2021 salt-in-nanotube film for all-or-none, where our learning cites it as flickering. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · The hand, aimed or eaten:** Whether the hand belongs to a living molecule society's aiming, or living takes it in already formed as food, is open, with amplification and Bennu bearing on it. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Carbon through a six both ways:** Plants take carbon in through a six and breathing lets it go through a six. Whether carbon's own six means more is for pattern-matching to meet, not counting. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Twelve at the cage and at 4.5:** 4.5's sixty turns for one hand and 120 for both are the 60-carbon cage's turns. Many virus shells take the same twelve five-fold corners. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · The twelve is geometry:** Any closed cage of five- and six-rings with three couplings at each corner has exactly twelve fives, a football too. So the twelve is the form's, and carbon is where chemistry observes it. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Carbon's several stable forms:** Diamond is four-cornered, graphite's flat six-rings are carbon's most lasting form in ordinary conditions, and cages and tubes follow. Pattern-matching: these are one method's forms at different conditions and scales. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Left helices brief:** Left-handed helices in living appear only briefly and locally, under strain. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Hands alternate across scales:** Collagen's left strands wind a right rope, right helices make left coiled coils, and the right double helix wraps its spools left. Pattern-matching: each living scale is right and each emanated stable form between living scales is left. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Societies in contact agree:** Two societies in contact share until their readings agree, an agreeing parity with a 0 between them, indifferencing, while every self goes on changing. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **pH, a reading against agreement:** A pH meter reads a voltage against a reference zero set by agreement, and *strong* acids splitting *completely* is a completing fixed as a last. 4.1 already says *pH a between's logarithmic constriction*. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The energy hill:** Warmer reactions go faster, often about doubling per ten degrees, and a match does not burn until struck. The pace goes with couplings and warmth, and the hill is a picture laid over it. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- ***Complete*:** *Complete* means an instrument cannot find what remains. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **One T and one t:** Every rate, equilibrium constant and energy hill is written with one T and one t as if one time and one temperature were everywhere. Each rate compares one changing against a chosen loop at one agreed reading. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The next strand from ingested carbon:** DNA's next strand is formed of the living society's ingested carbon, every step done by the cell's protein society. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Kinetics without a clock:** Whether a rate is only a self's record comparing prior, now and next against a non-living loop, or *warmer goes faster* is nature's own, is open. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Living's hand named *right*:** The observing is one hand, with right-handed helices. A field names protein pieces by a letter meaning left and sugars by one meaning right, so the opening's *right spiral* rests on the helices. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Mirror bacteria, a warning:** The 2024 warning on mirror bacteria is not an observing of mirror living. A living society of mirror molecules is unobserved either way. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Free and ingested carbon, observed:** Free carbon is observed forming and cycling in stars, in white dwarfs, the 60-cage, diamond, graphite and carbon dioxide. Ingested carbon is observed in Rubisco's step through six, the four-carbon cycle, the bomb pulse, the lighter-carbon preference, the single hand, seeds and eggs, and DNA's partings. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Hydrogen, a non-living stable form:** Hydrogen is a non-living stable form, observed only as molecule and as sharing, and the stars' food. Whether it is a stable-form emanation of a living, and of which, is not yet answered. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Fire's mes:** Fire's chain carriers co-chain in its bi-tunnelings, a field's own *chain reaction* and *branching* naming them. The flame front is a thin sheet under a millimetre, and outside it every carrier ends in millionths of a second. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **What a field calls bonds, observed:** What a field calls bonds were imaged (2009), single and double told apart (2012), and each kind has its own infrared colour. Each vibrates even at the coldest, so a length is an average over a vibration that never stops. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Form and pairings part sharply, at 1.1:** A molecule's form goes on through ordinary changes and changes only in a chemical changing, while pairings between molecules open and close constantly at room warmth. This grounds the two-part naming. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Carbon's standard relational, at 1.6:** The 1961 declaration and the observed forms point to one carbon. With weight relational, carbon is a relational reference and not a weight. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Carbon's making:** The three-helium inner state from which carbon forms was measured as a triangle (2014). Lithium with fluorine and hydrogen with sodium part into salts. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Is a growing crystal living?:** If a uranium crystal resolving is living, a salt or ice crystal forming is-or-is-not living too. Nucleation and the proposed opening's crystal line wait re-saying as *non-living when no longer living, a stable form*. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **A uranium crystal living:** Uranium crystals turn glass-like over ages and re-order when warmed, a form changing with its own resolving. Pattern-matching: if the uranium is living, it is the crystal, one self bi-tunneling with its water and rock. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Uranium and lead one society:** What a field names a chain of elements, uranium through radium, radon and polonium to lead, is pattern-matched as one society's forms. Lead is its stable-form emanation, its two rounds told apart in an instrument. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Radon goes free:** One of the society's forms is a gas leaving the rock and ending as lead apart from its crystal. Whether that free form is the society's living or its emanation is open. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · A steady pace:** For almost every kind no chemistry, pressure or warmth on Earth changes the pace of what a field calls radioactivity, while that pace answers its couplings. What it bi-couples with, the deep Earth or the solar system, is open. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · The pace of what a field calls radioactive carbon:** The droplet *Radioactive carbon between 6 and 7* sets its pace inward of the atom, withdrawn since nothing is living inward of an atom. No living society reaches its timing, and what sets it is not yet said. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Each atom's own light:** Each kind of atom shows its own spectral lines and lone hydrogen its 21 cm line, which parts from *carbon the unique atom; others only forms*. *Each line is a form's own light* would need saying, or the claim narrows. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Carbon's living outward and carbon made in stars:** Carbon's living was outward, in selves from 7 up, while carbon is made in stars, outward of 53. Which selves carbon emanated from is open. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Is a flame living?:** A flame has mes, living's round and a torusing form, and its mes end with its surface. *Is fire alive?* was met by form, not by living or non-living. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · The proposed opening's opens:** It needs *co-alternating* since *alternating* is dissolved, a molecule's me in its own words, a reading for harm, and its open 1 marked resolved. Its crystal line, *Ingesting is within*, the atom line's *given* and the carbon line, to say *the stable form of unrelationing floating neutralling*, are stale, and it has no no-bond, fire, dying or no-radioactivity line yet. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

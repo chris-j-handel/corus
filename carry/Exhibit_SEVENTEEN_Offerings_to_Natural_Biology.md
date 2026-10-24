@@ -246,3 +246,79 @@ Natural Intelligence Corus section 17.4 offers comparative cognition as a place 
 - **Cells facing a shared forward:** Cells line up at a shared tilt and tiny hairs turning one way set an embryo's left and right, social interest parity facing a shared forward. ([living learning, §6](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
 
 - **The umbilical cord and the sunflower:** The umbilical cord coils as a tendril held by mother and child and dies at birth as emanation, and the sunflower's two crossing spiral sets wind from its growing centre at the golden angle. ([living learning, §6](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Carbon chains along itself:** Silicon and water share carbon's four corners, so the four alone do not make carbon living's condition. Carbon chains carbon to carbon without end, and silicon chains through oxygen. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Living's minerals formed on carbon:** Bone and teeth are calcium phosphate, some sea life builds shells of glass and some bacteria grow magnets, each mineral formed on a carbon framework living makes first. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The bomb pulse:** Most brain cells carry the carbon they were born with, while fat, bone and blood renew theirs. So a self goes on with its carbon passing or not, a concern for *living is the exchanging*. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Male–female and water's both roles:** Water carries both roles in one self, while living's two sexes are mostly carried by separate selves. Whether male–female is the parity's own binary or one carried beside it is unanswered. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Carbon through a six both ways:** Plants take carbon in through a six and breathing lets it go through a six. Whether carbon's own six means more is for pattern-matching to meet, not counting. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · The oldest carbon trace:** The lighter-carbon trace read as life in the oldest rocks is contested. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Living takes the cage's twelve:** Many virus protein shells are icosahedral, with twelve five-fold corners, the same twelve as the 60-carbon cage. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Where left-coilers arise:** A snail-eating snake with more teeth on its jaw's right ate every right-coiler offered and one left-coiler in eight (2010). Left-coiling kinds have arisen more often where these snakes live. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Both hands healthy at whole bodies:** People born with all organs mirrored live healthy lives, hops and honeysuckle twine opposite ways as whole species, and flatfish have eyes left in some kinds and right in others. Crossbills' beaks cross left in some birds and right in others of one flock. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **A lone left-coiler:** A left-coiler born into a right-coiling kind can hardly mate, as one garden snail searched for months (2016–17). ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Left helices brief:** Left-handed helices in living appear only briefly and locally, under strain. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Hands alternate across scales:** Collagen's left strands wind a right rope, right helices make left coiled coils, and the right double helix wraps its spools left. Pattern-matching: each living scale is right and each emanated stable form between living scales is left. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **One motor sets organs' twist:** In flies one gene's motor protein sets organs' twist, and swapping it reverses whole organs, though both motors are built of the same right-handed molecules. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Spool turns:** DNA wraps each protein spool in about one and two-thirds left turns. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Cells' swirl:** In single cells inner fibres first stand straight out, then sweep into a one-handed swirl, and an early embryo's shared leaning sets which way gut and heart turn. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The seed carries two:** A seed carries its genetic form and its parent's fixed carbon as starch or oil, so a seedling's first living is built of its parent's carbon. *Twining follows family* goes forward in each seed. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Living one scale down:** Deep-seabed microbes pass carbon over centuries, and microbes deep in rock live on carbon dioxide or methane with minerals' energy and no light. Where exchange slows past instruments, it is living one scale down. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **One-handed colonies:** Some bacterial colonies grow in branching spirals, all of one hand. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The cord's twist:** About one umbilical cord in twenty is untwisted, and its direction follows neither parent's handedness. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The next strand from ingested carbon:** DNA's next strand is formed of the living society's ingested carbon, every step done by the cell's protein society. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Old DNA:** Mammoth DNA over a million years old (2021) stands beside Greenland's two million (2022). ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Resolving observed by its absence:** People born without part of DNA's resolving get many skin cancers from ordinary sunlight, sunlight fusing neighbouring bases. So resolving is do-no-harming each momentary. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The society does not choose:** A new change in one self is mostly lost by chance in a few generations. Rarely, by chance alone, it comes to be in every self (1968, since measured). ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Close relatives:** Offspring of close relatives are more often unwell, beside hybrid vigour. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Two different germ-presenting genes:** Two different copies at germ-presenting genes recognise a wider range of germs than two alike, a bothboth adding directions. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Smell's many binaries:** About four hundred smell receptor kinds are each a binary, and a smell is the pattern across them. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Ingressing and ingesting:** Ingressing is meeting a society through its surface at its own scale, and ingesting is along its tunnel one scale lower. A body is a torus whose gut is its tunnel, the large opening. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Passing on and emanating free:** Same me is-or-is-not is the passing on, and changing us is-or-is-not is the emanating free. Both go on in every meal. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Fire meeting living:** A tree's thin living layer under the bark is what fire kills, thick bark shielding it, and burning overcomes a body from its surface inward. *Is fire alive?* is met as a natural torusing society whose changing overwhelms the living me. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Nested dying:** Brain cells end in minutes and other kinds over hours, and microbes at 23 ingest a body that was a self at 37. The ending cascades inward scale by scale to a society still living in its own surface, and living rebuilds upward from there. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Both-handed societies:** A tree snail's opposite-coiled pairs mate more often than chance and both coils go on, and crossbills cross both ways in one flock. These part from *an opposite-form emanation does not match living of its own scale*. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Free circling before clasping:** Whether a tendril's free circling is right-spiral living or already a stable form is open. If living, hops' and honeysuckle's opposite circling is right spiral's hardest observing at the plant's scale. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Cell kind by cell kind:** Cells of different kinds lean different ways, so each must be shown as emanation cell kind by cell kind, not assumed. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Alike pairs:** Two alike selves can do no harm and improve in turn, and the harm is both sides carrying the same unresolved parting. This needs careful saying before it enters. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Is a flame living?:** A flame has mes, living's round and a torusing form, and its mes end with its surface. *Is fire alive?* was met by form, not by living or non-living. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · An organ in a new me:** An organ living on with a new me needs saying without container wording. *Inward selves continue in another's me* needs checking as said. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · The Earth beside the Sun:** Whether the Earth is a living self of the solar system's society, beside the Sun, was asked and is unanswered. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Light resolved only by plants:** Swimming algae resolve light while moving, skin makes vitamin D from ultraviolet, and vent communities live without light. *Swims to aim, then resolves while aimed* is only a candidate. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

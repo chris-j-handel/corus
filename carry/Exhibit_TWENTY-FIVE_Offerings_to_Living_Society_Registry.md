@@ -61,3 +61,11 @@ Defect: Living Society Registry, 1.10 missing; Part Three's status paragraph sta
 **Read with the Living Ghost Registry, v390.** By its 1.1, *a ghost is one momentary's form installed as an existing thing*. A vortex and a lattice are each an observed form; installed as a thing, each is ghost-form, and each is offered as a candidate at its 7.3. They reach no society of selves, and *Society reached* stays as this registry's form name. — v390
 
 *Entered at v390:* the registry's grains passage, once *taken as observable societies*, now says *Grains other than living tissue*: a vortex and a crystal lattice each an observed form and ghost-form installed as a thing, offered at Living Ghost Registry 7.3; electrons a nothing ghost, 5.3; a grid's synchronous area a built set, non-living. Entries 2.14 to 2.21 keep *Society reached* as the form's name.
+
+## Incoming · v392chem
+
+- **Concern · *The society* naming non-living grains:** The template word *The society* at 2.5, 2.7, 2.8 and line 1011 names a nucleus and cold atoms, now non-living stable forms. A same-existing-society is many selves bi-coupling, so the word parts from these grains and waits a registry motion. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · A neutrino called a self, at 2.14:** 2.14's *a messenger is a self changing and changing back along its path* names a neutrino a self. Nothing inward of an atom is now living, so the line parts from the atom at 5 as entered. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · *Two waters at one bond*:** The title at 53 and 430 names a bond, while Natural Chemistry now enters no bond. The pair is two waters co-alternating with no pairing lasting, so the title waits re-saying. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

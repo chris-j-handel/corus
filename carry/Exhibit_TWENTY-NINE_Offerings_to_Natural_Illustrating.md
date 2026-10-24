@@ -64,3 +64,11 @@ Each sets a self and an other as two number lines, odd and even, overlapping one
 
 
 - **The towel in living:** 4.1's towel is observed in the tendril's switch point, the heart's twist and DNA's snap into a loop, and the bee's figure-eight dance joins two turning loops by a straight run sharing the aim. ([living learning, §6](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · A bond's picture, at 415:** 415 quotes the Living Ghost Registry's *a bond a between of two selves, each living its own side*. Natural Chemistry's no-bond entering parts from that quoted line. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **One stable form at three scales:** The tendril, the towel and DNA's knotting are one stable form at three scales. A self bi-coupled with its particular other at both ends emanates both hands joined by a between where the hand inverts. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The tendril's four parts:** A both-handed coil, clasped at two ends or winding about a centre, with a between where the hand inverts, twisting in and relaxing out, is one pattern not yet said as one definition. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Two kinds of between:** A point where two hands meet, the tendril's switch, the heart's mid-wall or the bee's run, may be torusing, and a centre both hands wind from, a sunflower's or a nucleus's, corusing. Or every between is one corus met from either side. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

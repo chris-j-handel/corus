@@ -123,3 +123,7 @@ Exhibit THIRTY Co-Chaining Logic Registry Offerings · improved at v389
 **Droplet · from Natural Intelligence's offerings, aimed here.**  — v391
 
 - **The Co-Chaining Logic Registry** carries the opening word for word as its groups 1 to 4, and check_set reads it under 1.1's heading; a move ahead of the contents carries both with it. — v391, suggestion met
+
+## Incoming · v392chem
+
+- **Concern · Step 493's *ingestible one scale lower*, at 5:** Step 493 says a non-living going on is ingestible one scale lower. At 5 no living rung lies below, so the wording waits a reading with 5 non-living. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

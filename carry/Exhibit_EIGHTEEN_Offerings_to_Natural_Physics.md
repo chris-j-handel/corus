@@ -203,3 +203,41 @@ Exhibit EIGHTEEN Natural Physics Offerings · improved at v389
 - **A lone atom is a clock:** A lone atom repeats its changing so exactly that the second is defined by caesium, a form giving its own state again, the loop six forward names non-living. ([living learning, §2](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
 
 - **Decay's pace with couplings:** Rhenium, dysprosium and beryllium change their decay pace with their electrons and bonding, so radioactivity as a thing's own property is explaining and the pace belongs to the couplings. ([living learning, §8](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Line 363's neutron:** 363 says *a neutron a floating neutral itself*, *cancelling*, *held* and *one living act*. These part from nothing living inward of an atom and from Natural Chemistry 1.4's parities releasing. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Line 351's living side:** 351's *a living side's own strong-force resolving* calls a resolving inward of an atom living. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Lines 379–381's sub-atomic selves:** 379–381's *one living coupling … a self's sharing (wave) and an other's sharing (particle)* names a quantum's two sides as selves. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · 3.1's abundancing staying:** 3.1's *an abundancing staying with a coupling* uses *staying*, which the files dissolve. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · The rest unswept:** Physics beyond these lines is not yet swept for sub-atomic things called selves or living. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The sky's glow depends on the observer:** The sky's leftover glow reads about 2.7 degrees above absolute zero, warmer ahead of our motion and cooler behind. So even the universe's temperature is a relational reading. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Clocks part:** Atomic clocks flown round the world disagreed (1971), and satellite navigation works only by correcting its clocks about 38 millionths of a second a day. Clocks part even across a millimetre-tall atom cloud (2022). ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Mass and weight relational:** Each form bends its own amount in an instrument, a reading a field turns into *weight*. So mass and weight are relational readings, and Physics' masses wait reading as such. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **A ruler, a clock and a record:** A ruler, a clock and a record are valuable for observings of prior living, measured time a count of a non-living loop laid beside living. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Podal pairs exact only by symmetry:** The mirror nuclei krypton-71 and bromine-71 have different ground states (2025). The energy difference predicted between mirror molecules has never been measured, the best result no difference beyond its error. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Hydrogen observed:** Hydrogen is observed only as molecule and as sharing, and in stars, its food, its nucleus and electron are apart. Hydrogen and helium are observed everywhere in one proportion, about one helium nucleus to twelve hydrogen. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Fire's chain carriers:** A flame front is a thin sheet under a millimetre, imaged by a laser sheet, and outside it the chain carriers end in millionths of a second. Pattern-matching: these carriers are fire's mes, co-chaining in its bi-tunnelings. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Dying in materials:** A fatigue crack grows slowly and then breaks suddenly, dying bothboth in a material. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **What a field calls bonds, observed:** What a field calls bonds were imaged by a molecule-tipped microscope (2009), single and double told apart (2012), and each kind has its own infrared colour. Each vibrates even at the coldest, so a length is an average over a vibration that never stops. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · A steady pace:** For almost every kind no chemistry, pressure or warmth on Earth changes the pace of what a field calls radioactivity, while that pace answers its couplings. What it bi-couples with, the deep Earth or the solar system, is open. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Each atom's own light:** Each kind of atom shows its own spectral lines and lone hydrogen its 21 cm line, which parts from *carbon the unique atom; others only forms*. *Each line is a form's own light* would need saying, or the claim narrows. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Planets, selves or stable forms:** Whether the planets are selves of the solar system's society or its non-living stable forms is open, with Venus's backward spin and Uranus's roll riding on it. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · The Sun's cycle and the planets:** The Sun's eleven-year cycle is near the time Venus, Earth and Jupiter take to line up again, and a planetary pacing of it is disputed. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Carbon's making:** The three-helium inner state from which carbon forms was measured as a triangle (2014). ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

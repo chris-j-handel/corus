@@ -228,3 +228,9 @@ The current question is: **At the next colliding, which co-chaining of the inwar
 - **Allergy and disease, two cases:** Disease is foreign living crossing a surface or lining, and allergy is mostly a non-living protein of another's living reaching the society whole, by broken skin or unbroken by digestion, peanut eaten early cutting allergy by about four in five (2015). ([living learning, §12](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
 
 - **The defending society resolves by orthogonality:** Gut bacteria tolerated in the gut and resolved in the blood, a half-foreign child tolerated and its cells living in its mother decades on, and self tumours resolved show the defending society resolving by orthogonality to same-existing, not by origin. ([living learning, §12](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Resolving observed by its absence:** People born without part of DNA's resolving get many skin cancers from ordinary sunlight. So DNA's resolving is do-no-harming each momentary. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Disease's way across a surface:** Disease-making living has a way across a surface a gut companion lacks, as malaria crosses by a mosquito's bite. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Dying, bothboth, in bodies:** Death is pronounced at loss of breath and circulation, the body's flows through its openings, or at loss of whole-brain activity. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

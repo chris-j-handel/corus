@@ -143,3 +143,27 @@ Exhibit TWENTY-ONE Hard Problem Registry Offerings · improved at v389
 - **Homochirality after 2026:** The 2026 Nobel Prize in Chemistry recognised that a small excess of one hand is amplified, which settles amplification in the laboratory and leaves the source of the first hand as entry 63's crux. ([living learning, §5](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
 
 - **Self and non-self, entry 114:** Orthogonality to same-existing meets each breaking the entry records, the gut's microbes, the child, the tumour and damage, where origin as self or other parts from all four. ([living learning, §12](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Entry 120, met by orthogonality:** The hygiene question parts as fewer infections or as fewer and narrower orthogonal meetings early, and farm living, the peanut's way in and farm house dust given to mice (2016) meet the second. Early infections sometimes raise allergy, which parts from the first. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Entry 128, met by orthogonality:** A setpoint and an anticipation both fix a value, and the orthogonality binary returns none. Each change either goes on with the body's same-existing or parts from it. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Entry 237, a candidate:** Two X chromosomes are a bothboth, one mostly silenced in a patchwork with some defending genes escaping, and a child's cells live on with its mother for decades. Pattern-matching offers a candidate still to meet: women's mes carry more orthogonal directions, so more chances to mis-resolve one. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Allergy's first meeting, at 120:** Whether a first meeting through damaged skin sets the direction a new observing takes into the priors, or the me lacks the orthogonal directions it needed in time, is unsettled. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The nine first binaries:** Nine binaries are first for chemistry's survey: prenucleation with Natural Chemistry 4.7, water's critical point, the homochiral seed, QT45's reproduction (2026), motors by kinetic asymmetry, enzyme dynamics, the hydrated proton and hydroxide, the interface three, and group 3. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Bennu's near-equal hands, at 63:** Bennu's dust carries amino acids of both hands in near-equal amounts (2025), as non-living forming shows, while living shows one hand. The energy difference predicted between mirror molecules has never been measured, the best result no difference beyond its error. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Water's two liquids, at 195:** A 2026 experiment, still unreplicated, places water's second critical point near 210 K at about 1,000 atmospheres. That meets Natural Chemistry 4.2's single critical point as a field's fixing of a sway. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Interface claims not yet to enter:** Dark oxygen at the seafloor is unreplicated, microdroplet peroxide traces to dissolved oxygen meeting solid surfaces, and long decay lengths in concentrated salt now point to ion clusters or to the surfaces. None enters until a second instrument agrees. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Re-forming against parting:** Fibre exchange, epoxy networks, a two-phase crystal and a protein refolding whole into another fold each press on whether a self or society re-forms or parts. A molecule as one self through every stable form sharpens this. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **How a binary closes:** An observing binary closes when a second, independent instrument agrees. An explaining binary closes only once a criterion is stated. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · A graded nucleus without molecules:** The 2026 graded nucleus was observed in metal-alloy nanoparticles, which have no molecules, so *a molecule's form is-or-is-not at a crystal's edge* cannot reach it as said. Natural Chemistry 4.7 cites the 2021 salt-in-nanotube film for all-or-none, where our learning cites it as flickering. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Where the first hand begins, at 63:** Whether living's carbon fixing through a six, from 5 to 7, is where the hand begins, or the hand begins earlier, is open. Whether the hand is of living's own aiming or taken in already formed as food is open too. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

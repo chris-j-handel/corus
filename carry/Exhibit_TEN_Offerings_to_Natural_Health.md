@@ -72,3 +72,35 @@ The user's further offering is: “if the living stable form is colliding with n
 - **Many early meetings:** Farm-living Amish children had about a quarter the asthma of their Hutterite neighbours (2016), many early orthogonal meetings into the priors making later mis-meetings fewer. ([living learning, §12](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
 
 - **Torusing fading before dying:** A healthy heart's beat-to-beat variation fades with age and before death, and living societies recover ever more slowly before collapse, torusing slowing before it is lost. ([living learning, §14](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Opposite form harmful at its own scale:** A 2024 warning says mirror-image bacteria, if made, would go unrecognised by immune systems and uneaten by predators. It is a warning, not an observing of mirror living. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Mirrored organs healthy:** People born with all organs mirrored live healthy lives. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The cord's twist:** About one umbilical cord in twenty is untwisted, and its direction follows neither parent's handedness. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Resolving observed by its absence:** People born without part of DNA's resolving get many skin cancers from ordinary sunlight, sunlight fusing neighbouring bases being sunburn's damage. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Older fathers:** Each child carries more new changes the older its father (2012). ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Close relatives:** Offspring of close relatives are more often unwell, beside hybrid vigour. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Two different germ-presenting genes:** Two different copies at germ-presenting genes recognise a wider range of germs than two alike, a bothboth adding directions. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Orthogonal by meeting:** The same thing is orthogonal or crossing by how it meets a society's same-existing, not by what it is, as a peanut eaten and a peanut through damaged skin part. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **House dust to mice:** Amish house dust given to mice protected the mice (2016). So the Amish observing is more than a comparison of children. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Hygiene, met by orthogonality:** Fewer and narrower orthogonal meetings early meets farm living, the peanut's way in and the house dust, while early infections sometimes raise allergy, which parts from fewer infections. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Women's autoimmunity, a candidate:** Two X chromosomes, one mostly silenced in a patchwork with some defending genes escaping, are a bothboth. Pattern-matching offers a candidate still to meet: women's mes carry more orthogonal directions, so more chances to mis-resolve one. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Setpoint or anticipation:** The orthogonality binary returns no setpoint, only whether each change goes on with the body's same-existing. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Disease's way across a surface:** Disease-making living has a way across a surface a gut companion lacks, as malaria crosses by a mosquito's bite. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Ingressing and ingesting:** Ingressing is meeting a body through its surface at its own scale, and ingesting is along its tunnel one scale lower, the body a torus whose gut is its tunnel. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Burning from the surface:** Burning overcomes a body from its surface inward. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Allergy's first meeting:** Whether a first meeting through damaged skin sets the direction a new observing takes into the priors, or the me lacks the orthogonal directions it needed in time, is unsettled. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

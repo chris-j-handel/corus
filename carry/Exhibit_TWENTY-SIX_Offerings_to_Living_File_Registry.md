@@ -156,3 +156,9 @@ The two kit scripts that execute Exhibit ONE's code now find 1 and 17 by number,
 *Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
 
 - **Its Hard Problem Registry cell** says readers stopped *twice*; the session's record is three times, two on its last quarter and one on its third.
+
+## Incoming · v392chem
+
+- **Concern · *Coupling with a bond*, at 672:** Line 672's *water molecules coupling with a bond* names a bond, while Natural Chemistry now enters no bond. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The atom-floor motion entered:** At v392 the atom-floor motion entered 57 sentences in 11 files, the ladder's first self at 7 and 5 non-living. Natural Numbers, Naming and Networking say *five non-living, seven through fifty-three living* with no word *floor*, a catching word there. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

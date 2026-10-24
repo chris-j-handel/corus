@@ -140,3 +140,39 @@ Concern, at v380, from [the earlier Natural Networking gathering](../archive/v38
 - **Diversity as orthogonal co-competencing:** Diversity is a society co-competencing, adding new binary orthogonal observings into its priors, as mixed rice fields cut disease by about nine-tenths (2000) where uniform fields fell, and myxoma's rabbits show a society without a prior me resolving only as a parity spreads through generations. ([living learning, §11, §12](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
 
 - **Continuing at a lower scale:** When a self loses its me its inward selves continue in their own societies, an organ in another me both ways, or living continues only at a lower scale, microbes taking the body back. ([living learning, §14](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · The 53 row and a living Sun:** The 53 row at line 320 says *the widest scale that closes here … past which is a not-torus death*. A living Sun and a living solar system outward of the biosphere part from that row, while *the ladder supplies no first and no final one* leaves room. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Lines 217, 221 and 423 at 5:** 217's *five as the first that recursions* and 221's *a self one scale inward* can read as a living rung at or below 5. 423's *a single stereochemical center on five* parts from carbon at 5 handless and the hand beginning at 7. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Which prime a crystal self is on:** If a uranium crystal is living, it is one self, and which prime scale that self is on has no pattern-matching yet. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Where the Sun and solar system stand outward:** The Sun as a self of the solar system's society settles the form and not the rung. Which prime the solar system is on, on a next ladder outward, is open. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Planets, selves or stable forms:** Whether the planets, Earth among them, are selves of the solar system's society or its non-living stable forms is open. The Sun and Jupiter going round one shared between treat Jupiter as an other, and Venus's backward spin and Uranus's roll ride on the answer. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The molecule's inward, its living parities:** The molecule, the ladder's first self, has an inward, a same-existing-society of its living parities, each parity a self while living. Taking what a field calls its bonds as inward selves goes in a circle, since two non-living atoms are not two selves. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Species, co-momentarying:** Chemistry counts two interconverting forms as one species when they change faster than the observing and as two when slower. So chemistry's species is a relation between the selves' changing and the observing's momentary, near a species as a universal set of selves co-momentarying. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Charge through water:** Charge moves through water many times faster than through any other liquid, with no single hydrogen travelling the whole way. That is the observing under water's co-chaining. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Two fours, one living:** Living chemistry is carbon's stable form with water's living society, two fours, water's us selves co-alternating as the living and carbon as its condition. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Water forming from two:** Hydrogen and oxygen forming water are prior selves bi-coupling into one next self, so the count of selves changes and needs saying. It also parts from *molecules do not change into different molecules*. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Which is water's us self:** Whether water's us self is the pair, the molecule or the whole liquid nested is open. Which lower scale its emanations dissolve into is open too. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Cells lean together:** On rings or stripes cells of one kind lean together at a shared tilt, and an early embryo's shared leaning sets which way gut and heart turn. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The between where aim is shared:** The bacterium's turn, the bee's run, the heart's mid-wall and the sunflower's centre are each a between where aim is shared or changed. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **One-handed colonies:** Some bacterial colonies grow in branching spirals, all of one hand. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The society does not choose:** A new change in one self is mostly lost by chance in a few generations. Rarely, by chance alone, it comes to be in every self (1968, since measured). ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Possibling, discovering, prior:** A defending society first diversifies its receptors by shuffling before any germ, then meets, then carries what met into its priors (1957). Pattern-matching names these possibling, discovering and prior. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Nested dying:** Brain cells end in minutes and other kinds over hours, each in its turn, and microbes at 23 ingest a body that was a self at 37. The ending cascades inward scale by scale to a society still living in its own surface, and living rebuilds upward from there. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Carbon's living outward and carbon made in stars:** Carbon's living was outward, in selves from 7 up, while carbon is made in stars, outward of 53. Which selves carbon emanated from is open. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

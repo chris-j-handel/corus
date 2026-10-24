@@ -66,3 +66,7 @@ Natural torusing living is self-competent, and emanation from living is only soc
 - **Earth's carbon as living's emanation:** Limestone, chalk, coal and oil are living's carbon emanations, ingested again by living, and carbon's 60-cage forms in a dying star's outflow. ([living learning, §7](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
 
 - **Rings in death from living:** A tree's water-carrying cells die to become its pipes and each season's mes die into a ring carrying its season, as a drying drop lays rings and a soap film gives way at its thinnest place. ([living learning, §14](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · *Bond-forming method*, at 171:** 171's *a sharing pair is a bond-forming method* names a bond as formed, while Natural Chemistry now enters no bond. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Living's minerals formed on carbon:** Bone and teeth are calcium phosphate, some sea life builds shells of glass and some bacteria grow magnets, each mineral formed on a carbon framework living makes first. So living's stable forms are formed on carbon's stable form, which *all stable-forming is emanating non-living stable-form carbon* has to meet. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

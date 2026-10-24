@@ -280,3 +280,5 @@ At a resolver's functions 6, 10 and 9 are one list, each self's 10-next-co-possi
 
 
 - **The between shares the aim:** The honeybee's straight run between its two turning loops points the colony toward food, a between where a society's aim is shared. ([living learning, §6](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · *Three holding*, at 455:** 455's *three holding* says holding in our own voice, which the files dissolve. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

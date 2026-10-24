@@ -493,3 +493,35 @@ Three prefixes, three senses, and none repeated. This meets the concern *tri- an
 - **Bi-tri-involutioning observed:** Right protein helices winding as a left coiled coil change position, scale and orientation together, bi-tri-involutioning observed at every cell's fibres. ([living learning, §5](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
 
 - **Us self:** Us self names the bi-coupling self the opening already has, distinct from the dissolved *us-me*. ([living learning, §3](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Words that picture a store:** *Copy*, *template*, *read*, *instructions*, *information*, *code* and *stored* each picture a doer handling a store. Each goes only as a field's quoted word, *stored* re-said as *goes along in the stable form*. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Ingressing and ingesting:** Ingressing is meeting a society through its surface at its own scale, and ingesting is along its tunnel one scale lower. A body is a torus whose gut is its tunnel, the large opening. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **A bi-coupling has a between:** Say *a bi-coupling has a between*, never *is a between*, since a bi-coupling is a self. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Hands alternate across scales:** Collagen's three left-handed strands wind a right-handed rope, right helices make left coiled coils, and the right double helix wraps its spools left. Pattern-matching: each living scale is right and each emanated stable form between living scales is left, as Exhibit ONE's spiral of selves inverts. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Hands across scales:** Whether collagen's right rope is a living scale, or still emanation with only the molecules' hand living, is open. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Is a left coil bi-tri-involutioning?:** Mismatched mirror shells were first read as bi-tri-involutioning observed, and a left-coiling snail inverts only its body's orientation at one scale. Its coil was later read as an opposite-form emanation, bi-tri-involutioning, and the readings part. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Left-coilers are not mirror snails:** A left-coiling snail inverts one of three, its body's orientation at one scale, while its position in living, its scale and its molecules' hand do not invert. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **A preference among two is only a naming:** Nine in ten snail kinds coiling right is a preference observed among two, a naming and not a law. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Opposite form harmful at its own scale:** A 2024 warning says mirror-image bacteria, if made, would go unrecognised by immune systems and uneaten by predators. It is a warning, not an observing of mirror living. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The hand rule whole:** Inverting each of n parities is a rotation for even n and reverses the hand for odd n, so two inverting together only turn and three reverse the hand. That is the tri in bi-tri-involutioning, where the hand passes to its opposite. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The atom's *hole*:** An atom's centre is the densest place in a molecule, so *hole* can mean empty of changing, never empty of matter. A single atom has been trapped and seen alone for months, a non-living existing thing. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · *Nucleus*:** A nucleus too is observed only as a step and a reading, never apart from what surrounds it, so *nucleus* may need saying as carefully as *atom*. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Chemistry's kinds by a stated rule:** A chemical kind admitted by a stated rule is a between fixing as a cut, a universal set only where its membership is observed same-existing. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Species, co-momentarying:** Chemistry's two interconverting forms are one species when they change faster than the observing and two when slower, a relation between selves' changing and the observing's momentary. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · *Podal* read opposite:** Natural Chemistry 4.4 still calls the straight-across relation *podal* at v392, opposite to this file's and Natural Numbers' k with N − k. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Living's hand named *right*:** The observing is one hand, with right-handed helices. A field names protein pieces by a letter meaning left and sugars by one meaning right, so *right spiral* rests on the helices and not on the pieces' names. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

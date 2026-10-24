@@ -40,3 +40,27 @@ Exhibit ONE Natural Resolver Offerings · resolved at v391
 - **No code validates nature:** This session's pattern-matchings were met with the resolver's stable forms six forward and no code was run to validate an observing. ([living learning, §1](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
 
 - **Carbon at 6-now-co-possibling:** Carbon's element number 6 stands as 6-now-co-possibling between the atom's 5 and the molecule's 7, and carbon's round of free, ingested, emanated free and ingested again pattern-matches the four-cycling 1, 2, 3, 4. ([living learning, §13](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Carbon chains along itself:** Silicon and water share carbon's four corners, so the four alone do not make carbon living's condition. Carbon chains carbon to carbon without end, and silicon chains through oxygen. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The resolver as emanation:** The resolver's code is itself an emanation: six forward runs along five dimensions, self's prior, other's prior, the shared now, the bi-parity and the self's next. With each momentary two change and three go on, rotating. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **A self's 9 goes to an other's 17:** Natural Chemistry 1.4 now says each parity releasing at its 9-next-co-discovering and going along at its other's 17-next-existing, as this file draws. One self does not take both. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Four-cycling's between:** This file's between, an even name to an odd name, one discovering with each scale, is pattern-matched as the passing from one round's ingesting to the next round's free. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **A centre comes again:** Carbon in stars, the plant's manganese centre and the cell's four-carbon form each come again in a four-cycling. Pattern-matching: that centre is the same-existing at each scale, and fire is the same round with its changing overwhelming the centre. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Me-session gifts:** A me is of one prime living scale. A 0 with no me behind it is-or-is-not possibly existing: it is not. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · The two-selves table:** With opposite priors, coupled and apart give identical sequences, so coupling shows only with alike priors or one-way sharing. It was found by executed code, which has no authority, so it needs re-meeting as a stable-form pattern before it travels. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Count-matches and no counting in nature:** Carbon's matches here rest on counts, 24 as six fours, twelve and twelve, eight as four twos. A resemblance is an opening, not a resolving, so these are openings to meet. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Male–female and the parity's + and −:** Whether male–female is the parity's own binary or one carried beside it is unanswered. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Bi-folding 4-13-5-12:** The bi-folding 4-13-5-12, the only one with no names between selves, may be carbon's, and this is unanswered. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · A non-living centre:** At the stars the centre that comes again is carbon, a non-living atom. Whether a non-living stable form can be a four-cycling's same-existing centre is unanswered. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · 6 to 7 within a molecule:** Whether carbon changing to nitrogen as one molecule goes on is the element-number face of the ladder's 6 to 7 is unanswered. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

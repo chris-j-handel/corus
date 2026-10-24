@@ -106,3 +106,13 @@ Exhibit FOUR Natural Mathematics Offerings · improved at v389
 
 
 - **The towel observed:** 3.4's towel twisting inward to corus and outward is observed in a tendril held at both ends coiling both hands about a switch point and in the heart wringing and untwisting with every beat. ([living learning, §6](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The hand rule whole:** Inverting each of n parities is a rotation for even n and reverses the hand for odd n, so two inverting together only turn and three reverse the hand. That is the tri in bi-tri-involutioning. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **One stable form at three scales:** The tendril, the towel and DNA's knotting are one stable form at three scales, both hands joined by a between where the hand inverts. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Three phases, two ways, six:** Circling, clasping and coiling on the plant's side and on the support's are six, matching the six one-way recursionings, three own-forward each side. Under wind a tendril winds tighter, unwinds and relaxes, three phases each way. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The sunflower's φ:** The sunflower's golden angle is pattern-matched as φ, the unrelationing rate, and its growing centre as the corus. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Two kinds of between:** A point where two hands meet may be torusing and a centre both hands wind from corusing. Or every between is one corus met from either side. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

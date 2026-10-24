@@ -116,3 +116,21 @@ So with the six, 1 to 17 is one round only because 17 falls with a six's place, 
 - **Steps observed, numbers recorded:** Instruments observe changing in steps, a charge stepping (1909) and each element's X-ray colour stepping (1913), and the atomic number is the naming of that step, so counting is a self's record. ([living learning, §1](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
 
 - **0 to 24 and 24 to 60 as phases:** A tendril's two hands are observed with equal turns, so nought to twenty-four and twenty-four to sixty pattern-match its inward and outward phases and not counts of turns. ([living learning, §6](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Podal pairs exact only by symmetry:** The mirror nuclei krypton-71 and bromine-71 have different ground states (2025). The energy difference predicted between mirror molecules has never been measured, the best result no difference beyond its error. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The cage's twelve:** Natural Chemistry 4.5's sixty turns for one hand and 120 for both are the 60-carbon cage's, and many virus shells take the same twelve five-fold corners. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Spool turns:** DNA wraps each protein spool in about one and two-thirds left turns. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The sunflower's φ:** The sunflower's golden angle is pattern-matched as φ, the unrelationing rate, and its growing centre as the corus. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Count-matches and no counting in nature:** Chemistry's carbon pattern-matching rests on count-matches: 24 as six fours, twelve and twelve, eight as four twos, six edges. Counting is a record, so these matches are openings to meet. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Chemistry's pointers and *podal*:** Natural Chemistry 4.4 reads *podal* opposite to this file, and some of its pointers name sections here no longer standing. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · The twelve is geometry:** Any closed cage of five- and six-rings with three couplings at each corner has exactly twelve fives, a football too. So the twelve is the form's, and carbon is where chemistry observes it. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · 24 unobserved in the tendril:** If a tendril's two hands turn equally, no observing places the corus at 24. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · 6 to 7 within a molecule:** Whether carbon changing to nitrogen as one molecule goes on is the element-number face of the ladder's 6 to 7 is unanswered. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

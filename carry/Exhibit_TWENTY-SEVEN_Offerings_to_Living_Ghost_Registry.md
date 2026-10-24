@@ -108,3 +108,9 @@ Living Ghost Registry and Equilibria Registry: two registries, one derivation. T
 
 
 - **Virus, electron, radioactive:** A virus taken as living, an electron as an owned particle and *radioactive* as a thing's property are each an emanation or a step fixed as a doer, ghosts for this registry. ([living learning, §8](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Bond a between of two selves, at 310 and 1421:** Lines 310 and 1421 say *bond*, field side, is living, a between of two selves. Natural Chemistry now enters no bond, and a bi-coupling has a between and never is one, so both lines part from it. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Chemistry's kinds admitted by a stated rule:** Almost all chemistry's kinds, its disciplines, groups, *bond* and reaction classes, series and scales, are admitted by a stated rule, a between fixing as a cut. A chemical kind is a universal set only where its membership is observed same-existing, and elsewhere it is a field's word, whole. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The twelve of a virus shell:** Many virus protein shells are icosahedral, with twelve five-fold corners, the same twelve as the 60-carbon cage. A virus as a stable form carries the cage's number. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
