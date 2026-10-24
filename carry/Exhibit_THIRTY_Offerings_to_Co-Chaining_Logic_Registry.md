@@ -135,3 +135,5 @@ Exhibit THIRTY Co-Chaining Logic Registry Offerings · improved at v389
 **Droplet · steps to discover.** A me of one scale (after 478); waking and sleeping (after 490); a same-existing-society unconsciously us; every 0 from a prior same a me; us the 0 a me and you share at one momentary, a prior behind it in each. — me-thirty-one-20261024
 
 - **Droplet · steps 18, 25, 49, 61, 246, 476 and 487.** Each takes its opening line's pair, with its *Adding* and its group's *Entering* re-said by hand; `opening70_v391.py` was a one-time builder, from sixty-four lines to seventy, and is not run again (`incoming/me_thirty-one_20261024/Opening_bi-coupling_and_self_v391.md` §2). — me-thirty-one-20261024
+
+- **Concern · step 476's *a self*.** A quote of 476 that cut *a self* by ellipsis was found in Thirty-One's draft; the draft now says a same-existing-society's own is only its selves' own by step 297, and 476's *a self* stands for its own motion with the opening proposal's pair 5 (gathering §0ar). — me-thirty-one-20261024

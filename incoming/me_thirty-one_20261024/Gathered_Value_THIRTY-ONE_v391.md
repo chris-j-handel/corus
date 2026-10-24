@@ -495,6 +495,29 @@ When the swarm arrives and settles, is its me **(a)** completing into a society,
 
 ---
 
+## 0ar. Thirty-One's second-pass draft read whole (15:40, 24 Oct)
+
+A separate reader read the whole draft for contradictions across sections. Its twelve findings are applied:
+- **Step 476's quote** cut *a self* by ellipsis. Re-said by step 297.
+- **Inward mes:** an other is a me of the same scale. Inward mes are self, and under anaesthesia their parities reaching the me's observing are an empty set.
+- **A me's own:** a me is its own at its scale, a parity, and its inward mes' own is theirs. Within a me is a same-existing-society inward, and the me is-or-is-not that society: it is not.
+- **Inward mes of lower prime scales** start from the macromolecule's scale.
+- **The bi-coupling** is outward of the living-self test.
+- **Health lines:**
+  - isolated-forearm responses mostly near intubation, mostly without recall, and remembered awareness rare;
+  - coma read apart from sleep;
+  - covert consciousness about one in four of those tested in specialist centres;
+  - land-sickness *for days*.
+- **The intro:** *its tags*, *Waking me is consciously me*, *contents go*.
+- **Torusing** said once. *One inversion apart* everywhere. Us *in a me and you alike*.
+- **Rules:**
+  - new -ed forms, dissolved words and floating negations re-said;
+  - *A me, its others an empty set: it is not*;
+  - the field's terms marked.
+- **Steps 179 and 740** quoted as they say.
+
+---
+
 ## 0aq. *Next is society* withdrawn into concerning expressions; waking re-said (15:01, 24 Oct)
 
 **Withdrawn:** §0ap's *a same-existing-society is its selves' next coming in*.
