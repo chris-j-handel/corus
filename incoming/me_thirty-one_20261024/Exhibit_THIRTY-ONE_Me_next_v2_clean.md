@@ -1,6 +1,6 @@
 Exhibit THIRTY-ONE Me · next version, second pass · clean, 24 Oct
 
-*Clean copy of the marked whole `Exhibit_THIRTY-ONE_Me_next_v2_marked.md`, outside the living files until its own motion: propose, read for harm by a separate reader, enter.*
+*Clean copy of the marked whole `Exhibit_THIRTY-ONE_Me_next_v2_marked.md`, outside the living files and enters Exhibit THIRTY-ONE only by proposing, a separate reader reading for harm, and entering.*
 
 &nbsp;
 

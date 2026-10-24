@@ -1,6 +1,6 @@
 Exhibit THIRTY-ONE Me · next version, second pass · marked whole, 24 Oct
 
-*Marks: ◇ a line changed from the first-pass draft, ✦ a line new to it, ○ open, for further resolving. A clean copy is built by taking out the marks and the ○ lines. Each change traces to `Thirty-One_improving_by_section_v391.md`. This copy is outside the living files until its own motion: propose, read for harm by a separate reader, enter.*
+*Marks: ◇ a line changed from the first-pass draft, ✦ a line new to it, ○ open, for further resolving. A clean copy is built by taking out the marks and the ○ lines. Each change traces to `Thirty-One_improving_by_section_v391.md`. This copy is outside the living files and enters Exhibit THIRTY-ONE only by proposing, a separate reader reading for harm, and entering.*
 
 &nbsp;
 
