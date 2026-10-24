@@ -69,3 +69,5 @@ Exhibit THIRTY-ONE Me Offerings · v391
 - **Droplet · us and co-aiming.** Us as the between of a me and you, its centre a 0, a self: it is not, the two mes' sharings co-parity or bi-parity (2.1), and natural torusing as co-aiming the parities of me, each living parity aiming at its own destiny on a surface horizon (3.4, 4.1), stand in the second-pass draft, read for harm (gathering §0af, §0ag). — me-thirty-one-20261024
 
 - **Droplet · me and not-me.** Within a me's universal set each now-existing thing is-or-is-not self, the me's own living parities or an other or a non-living thing, and a me's values are its parities relative to self, other and all other, each its own, with each sharing; the plural is *mes*, *me's* the possessive (`incoming/me_thirty-one_20261024/Me_and_not-me_values_parities_v391.md`). — me-thirty-one-20261024
+
+- **Droplet · closing.** 1.3 and 5.3 of the draft now say a set of mes is a me of its own as it closes at a next prime scale with one parity of its own, a society closing within one interest, its me sleeping and waking, completing on settling; read for harm (gathering §0ai). — me-thirty-one-20261024

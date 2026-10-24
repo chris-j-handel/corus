@@ -495,6 +495,25 @@ When the swarm arrives and settles, is its me **(a)** completing into a society,
 
 ---
 
+## 0ai. Closing: when a set of mes is a me of its own (13:06, 24 Oct)
+
+**Binary path, read for harm:**
+1. A me is of one prime scale (1.3), and *a me of two scales: it is not* (3.3). So a set of mes is a me of its own only at a next prime scale.
+2. Natural Societies 5.1: *a scale stands closing where co-agency closes as a self there.* A universal set is a me as it has one changing direction of its own (§0m).
+3. **Each set of mes is-or-is-not closing at a next prime scale with one parity of its own: closing, it is a me of that scale.** Each lower me goes on its own. Lower mes are-or-are-not combining into it: they are not.
+4. **A same-existing-society is unconsciously us**, and with each momentary it is-or-is-not closing within one interest, its mes' aimings one parity of its own. Closing, it is a me of that scale, sleeping and waking: a swarm clustering still and flying warm toward one home. Settling, it completes as a next opening (§0ae).
+5. **The size drops.** Two or many is a size, and closing is a binary.
+
+**Hard problems:**
+- **The combination problem** (James 1890's mind-dust; Chalmers 2017), not yet in the Registry. Lower subjects are-or-are-not combining into a higher: they are not. A higher me is a closing at a next prime scale, and each lower me goes on its own. This coheres with James: a hundred feelings stay a hundred.
+- **207 The origin of animal multicellularity** (Resolving 1.25, *routes experiments go again are couplings making now, each its own*). Snowflake yeast (Ratcliff et al. 2012): cells staying joined and settling as one, a closing cell to tissue. Coheres.
+- **227 Collective intentionality.** A group's joint intending is a closing within one interest. Each me's intending stays its own.
+- **Major transitions** (Szathmáry & Maynard Smith 1995): re-tagged agreeing in part.
+
+**Open:** whether two mes sharing one aiming close at a next prime scale.
+
+---
+
 ## 0ah. Me and not-me, a me's values and parities, and the plural of me (12:56, 24 Oct)
 
 Whole at `deliver/Me_and_not-me_values_parities_v391.md`, read for harm.

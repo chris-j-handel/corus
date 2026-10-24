@@ -139,3 +139,5 @@ Concern, at v380, from [the earlier Natural Networking gathering](../archive/v38
 - **Droplet · no common clock.** 2.3's *no common clock* meets a hive with no sleeping of its own, its bees each sleeping and waking by its own rate, each interest living in some me's observing. — me-thirty-one-20261024
 
 - **For the atom-floor motion.** A lone atom repeating its changing is a spiral of one, its other an empty set, non-living; Thirty-One's draft ladder line at 1.3 now waits ○ on this motion (`incoming/me_thirty-one_20261024/Contributing_to_Natural_Chemistry_v392chem.md` §2b, §2f). — me-thirty-one-20261024
+
+- **Droplet · closing.** Each set of mes is-or-is-not closing at a next prime scale with one parity of its own: closing, it is a me of that scale, each lower me going on its own; a same-existing-society closes within one interest, as a swarm, and settling completes; two or many is a size, closing a binary (gathering §0ai). — me-thirty-one-20261024
