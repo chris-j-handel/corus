@@ -36,3 +36,7 @@ Exhibit THIRTY-ONE Me Offerings · v391
 - **Uniqueness from chemistry's instruments:** Identical molecules each show their own colour set by their neighbours and identical nuclei are read apart only by theirs, so a me's uniqueness is its others, me–you and me–all other. ([living learning, §4](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
 
 - **Us self and conscious interest, offered:** Offered: in bi-coupling the you and the me become an us self, and conscious interest is self-parity less dependent on the environs, dormancy relying on them. ([living learning, §3, §8](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The stone holds no mes, offered:** With the atom at 5 offered as a non-living stable form and carbon the unique atom, a stone is a non-living stable-form emanation holding no mes, and the question of a set of mes in a stone dissolves, with Thirty-One's *atomic me* to be re-said at the atom-floor motion. ([shared with the Me session](../incoming/v392chem/Shared_with_Me_session_v392chem.md)) — v392chem
+
+- **The water pair's us without a bond:** The person offered that there is no bond and no holding, and that the roles are co-alternating, not giving and receiving, so the pair's us, its shared 0, goes on while each water co-alternates, with no hydrogen bond persisting. ([shared with the Me session](../incoming/v392chem/Shared_with_Me_session_v392chem.md)) — v392chem

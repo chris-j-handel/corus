@@ -378,3 +378,18 @@ Each is one sentence at the offerings of the file it concerns, under *Incoming Â
   - Kidneys continue in other bodies for decades, and cells taken in 1951 still live in laboratories. Skin cells grow from a body days after death, and some genes grow more active after death (2017).
   - The gut's microbes take the body back, so the round goes on from a lower scale.
   - A transplanted organ comes to live within the new me both ways: donor cells throughout recipients and recipient cells in the organ, decades on (1992), as a child's in its mother.
+
+## 15. No bond, no holding; and learning shared with the Me session
+
+- *Offered:* **there is no bond of any kind; there is no holding.**
+  - IUPAC defines a bond as present when a grouping is stable enough to be *convenient for the chemist to consider* one species.
+  - A water molecule's hydrogens are exchanged with other waters about every thousandth of a second (measured since 1961), while its form goes on.
+  - Every so-called bond vibrates without end, and one swung between "ionic" and "covalent" every trillionth of a second (1988).
+  - An imaged line can appear where no bond is said to be.
+  - The word came after the observed combining ratios (1860s; pictured as a pair, 1916).
+- **What the bond pointed at, said in the opening's words:** within a molecule, its stable form, same-existing with each resolving; between molecules, bi-coupling, sharing possibling.
+  - "Bond" stays only as chemistry's quoted word. The person said yes to this naming, and the dissolving of "bond" and of our own "holding" across the set is one motion, proposers by slice and readers for harm.
+- **Shared with the Me session** ([the share](Shared_with_Me_session_v392chem.md)):
+  - On the atom-floor sayings a stone holds no mes, which dissolves its hardest place.
+  - The water pair's us goes on with no bond and no roles.
+  - Taken from it: *a prior is-or-is-not same-existing in one now, and is received in many*. This corrects this session's "the prior goes on in both halves" of a dividing cell: each prior strand goes on in one next double strand (Meselson and Stahl, 1958).
