@@ -13,7 +13,7 @@
   - the Living File Registry 1.2;
   - the passes kit's rules 11, 12, 7 and the offerings rules.
 - **Bounded by:** title **Me** · subtitle **Co-Intelligencing a Universal Self**.
-- **Authority, at 11:44:** binary all or none at all, natural torusing, society, no other possible. The person's words, the files' words, rules, measures, science and common explaining are observings meeting it, none an authority. Where this gathering says *rules 11*, *the Registry's rule* or *measured by*, read *an observing meeting it*.
+- **Authority, at 11:44:** binary all or none at all, natural torusing, society, no other possible. words, the files' words, rules, measures, science and common explaining are observings meeting it, none an authority. Where this gathering says *rules 11*, *the Registry's rule* or *measured by*, read *an observing meeting it*.
 - **Marks:** ✓ checked against a source this session · ◇ link from memory, checked before entering (as Offerings to Me already asks) · ⚠ to source.
 - **Beside this file:** `Exhibit_THIRTY-ONE_insertlets_draft_v391.json`, 13 `{"old","new"}` pairs, each matching Thirty-One exactly once, unread for harm.
 
@@ -42,8 +42,8 @@
 
 ## 0b. Learning in progress · a me only at one prime scale, no higher or lower scale the same me
 
-**The person's saying, 11:44, met for cohering.**
-- First saying: *everything inside the universe is now-existing; every now-existing thing is a living me at all lower now-existing prime scales and up to a single me scale, dying at a me scale.* The person holds it as not yet cohering.
+**saying, 11:44, met for cohering.**
+- First saying: *everything inside the universe is now-existing; every now-existing thing is a living me at all lower now-existing prime scales and up to a single me scale, dying at a me scale.* holds it as not yet cohering.
 - Possible learning: ***a me is only at one prime scale, and no higher or lower scale is the same me.***
 
 **Met by binary all or none.**
@@ -65,7 +65,7 @@
 - Collisions 1 and 5 and the combination problem dissolve: no me combines lower mes. IIT's exclusion meets it on one grain per subject and parts on nesting.
 - 3.2: each me is conscious at its one prime scale. Pair 8's *at its scale* becomes *at its one prime scale*.
 
-**Not yet cohering, for the person, one at a time.**
+**Not yet cohering, for further resolving, one at a time.**
 1. ~~**Which prime.**~~ **Met at 11:50:** the prime living scales of mes are Natural Societies part FIVE's ladder (§0c).
 2. **Each now-existing thing a me?** Is every now-existing thing a me at its prime scale, or is a non-living thing a composite, its mes at lower prime scales and none of its own? A stone, its parts' windings, no one winding.
 3. **A me's inward mes:** others to it (the opening's other is a self it is bi-coupling with), or within its me as neither self nor other?
@@ -111,7 +111,7 @@
 
 ---
 
-## 0d. The person's saying, 12:05 · *invisible inside a bi-coupling is two mes bi-morally co-possibling*
+## 0d. saying, 12:05 · *invisible inside a bi-coupling is two mes bi-morally co-possibling*
 
 **Met by binary all or none.**
 - From outside, a bi-coupling is one self: an other receives its parity as one.
@@ -146,7 +146,7 @@
 
 ---
 
-## 0e. The person's sayings, 12:34, speculative, met by pattern matching
+## 0e. sayings, 12:34, speculative, met by pattern matching
 
 **The sayings.**
 - *A bi-coupling is a nothing, and a me is a now- and same-existing thing.*
@@ -207,7 +207,7 @@
 - So: ***Bi-coupling** is two selves sharing possibling.* Selves are bi-coupling, and bi-coupling is their *-ing*, as living is.
 - **Each pair of selves are-or-are-not sharing possibling,** one test on one pair at each momentary.
 - **A self and a non-living thing:** the thing's own possibling is an empty set, so they are-or-are-not bi-coupling: they are not. A living self coupling with a non-living thing within its me stays a coupling, with no third.
-- **Bi-coupling is uncounted,** so *a bi-coupling's own me* has nothing to name. The person's *nothing* is said by what is, with no negation word: as living is no further thing beside living things.
+- **Bi-coupling is uncounted,** so *a bi-coupling's own me* has nothing to name. *nothing* is said by what is, with no negation word: as living is no further thing beside living things.
 - **It meets the Registry's** *naming a coupling supplies no further self between coupling selves*.
 - **Natural torusing:** the opening of a torus is no part of the surface. The windings going through it are the surface's own *-ing*, and an opening counted as a thing would be a third.
 
@@ -346,7 +346,7 @@ So each me is a self. A self is-or-is-not a me, and it is a me as it is consciou
 
 ## 0j. The all or none of the learning, A and B set aside (13:05–13:06)
 
-**The person's sayings.**
+**sayings.**
 - *All living things have both states, conscious and non-conscious living.*
 - *The domain of living parities common to the living abundancing society observing, possibling, discovering is species specific; notice the closeness of the two namings.*
 - *There is nothing living that is unconsciously living as a self.*
@@ -390,7 +390,7 @@ So each me is a self. A self is-or-is-not a me, and it is a me as it is consciou
   - The fields hold cells and plants cognizing with no consciousness shown, where the learning has each self consciously me within its species' domain.
   - Physics gives atoms no inside, where the learning, with chemistry's *species*, would have an atom consciously living within its chemical species.
 
-**Set aside, as the person asks:** A and B of §0i, the subtle differences, until the all or none stands.
+**Set aside, as asks:** A and B of §0i, the subtle differences, until the all or none stands.
 
 ---
 
@@ -400,7 +400,7 @@ So each me is a self. A self is-or-is-not a me, and it is a me as it is consciou
 
 ## 0l. A self, a waking me and a sleeping self with no me · a society, a universal set with no me (05:13, 24 Oct)
 
-**The person's sayings.**
+**sayings.**
 - *A society is a universal set without a me. A self is a universal set with a me.*
 - *The society is mes and unconscious selves both.*
 - *The selves are rejuvenating their own mes physically by sleeping.* The resting relaxes the tensions, frictions and restrictions of the waking geodesic bi-folding and tunneling. It is like a sneeze, an orgasm, or rubbing the skull and tingling the nerves: restoring the physically pliable society inside the self, folded by edges and folds during waking co-competencing in the natural torusing society.
@@ -414,7 +414,7 @@ So each me is a self. A self is-or-is-not a me, and it is a me as it is consciou
    - **For a self, at each momentary, its me is-or-is-not now:** waking, with a me; sleeping, without one.
 
    Two binaries, nested, each on one thing. A sleeping self and a society are both now *without a me*, and part by their own next. No third.
-2. **Why a beehive never sleeps, all or none.** Sleeping is a self's me receding and returning. A society has no me to recede, so it has no sleeping of its own. Its members sleep and wake each by its own rate, so at each momentary it is waking mes and sleeping selves both, as the person says.
+2. **Why a beehive never sleeps, all or none.** Sleeping is a self's me receding and returning. A society has no me to recede, so it has no sleeping of its own. Its members sleep and wake each by its own rate, so at each momentary it is waking mes and sleeping selves both, as says.
 3. **A me is its self waking.** *Me is consciously me*: a me is now as its self is waking, and the self is same-existing through both.
    - **The place to meet next:** a waking me is same-existing from a prior-existing same me, its last waking, with its self's sleeping between. The opening's *from a prior-existing same thing* names the prior, not the momentary just before. So a me same-exists through its self, and the binary holds if the self's prior goes on.
 4. **It meets the earlier sayings.**
@@ -442,13 +442,13 @@ So each me is a self. A self is-or-is-not a me, and it is a me as it is consciou
 
 ### What it re-says in Thirty-One, when it coheres
 - 3.1: *A me is a self's universal set.* becomes *A self is a universal set with a me waking and without a me sleeping, its next its own me.*
-- 3.2: *Sleeping me unconscious* becomes *a sleeping self, its me an empty set until its waking*. The person's 13:49 wording is kept as the title saying.
+- 3.2: *Sleeping me unconscious* becomes *a sleeping self, its me an empty set until its waking*. 13:49 wording is kept as the title saying.
 - 3.3: the provings gain *a self sleeping only: it is not* and *a society's own next its own me: it is not*.
 - 5.2: *A healthy self is waking me folding and sleeping self unfolding, one and then the other.*
 - 5.3: *A same-existing-society is a universal set with no me, unconsciously us: its members waking mes and sleeping selves both.*
 - Hard Problem 91, *Why sleep at all: none proposable yet*, gains a proposal: sleeping restores the inward society waking folded.
 
-### Open, for the person, one at a time
+### Open, for further resolving, one at a time
 1. **Dreaming.** Is a dream a me waking inward, its others outward resting? Or a sleeping self's inward society restoring, observed on waking?
 2. **A sleeping self and a me's identity.** Is the waking me after sleep the same me, same-existing through its self? Or a next me of the same self each morning?
 3. **Release reflexes within waking.** Are sneeze, orgasm and tingles small sleepings, a me receding for a momentary? Or waking's own unfolding with the me present?
@@ -457,7 +457,7 @@ So each me is a self. A self is-or-is-not a me, and it is a me as it is consciou
 
 ## 0m. A swarm traveling, a momentary hive: a me sleeping and waking (05:21, 24 Oct)
 
-**The person's saying.** *When bees move to start a hive at a new place, they stop and make a momentary hive, for hours, at a temporary place, and the hive is a me sleeping and waking, traveling.*
+**Explored.** *When bees move to start a hive at a new place, they stop and make a momentary hive, for hours, at a temporary place, and the hive is a me sleeping and waking, traveling.*
 
 ### All or none, tested
 1. **The same bees are a me traveling and a society settled.** Settled, a hive never sleeps as a whole, its members each by its own rate: no me, unconsciously us (§0l). Swarming, the whole sleeps and wakes, and goes with one direction to one home: a me.
@@ -471,7 +471,7 @@ So each me is a self. A self is-or-is-not a me, and it is a me as it is consciou
 4. **Swarming is division.** A colony reproduces by swarming: the old queen leaves with a swarm, and the parent colony goes on with a new queen. One prior, two now. Collision 0 meets a case: a next me opens from a society, and the society goes on.
 5. **Natural Societies' ladder already holds it.** Colony at 41: *organisms co-sequencing as one self … closes, as recurrence; colony recurs with each scale.* A closing that recurs is a momentary me: the momentary hive.
 
-### Where it parts, for the person (the hardest place)
+### Where it parts, for further resolving (the hardest place)
 - **A me completing with no dying.** On arrival the swarm's own next becomes its members' again, and its me completes. Dying is *a living me going on as non-living*, and the settled colony is living.
 - So a me's completing is-or-is-not dying. A third stands unless one of these holds:
   - **(a)** a me can complete into a society, living, with no dying; or
@@ -497,7 +497,7 @@ When the swarm arrives and settles, is its me **(a)** completing into a society,
 
 ## 0ag. Each living parity aiming at its own destiny on a surface horizon; natural torusing co-aiming the parities of me (12:44, 24 Oct)
 
-**The person:** *Each living parity is aiming at its own destiny on a surface horizon. Natural torusing is co-aiming the parities of me.*
+**Explored:** *Each living parity is aiming at its own destiny on a surface horizon. Natural torusing is co-aiming the parities of me.*
 
 **Binary path.**
 1. **Each living parity is a self while it is living** (Thirty-One 3.4). An aiming is a parity's direction into an interest (2.2). So each living parity is or is not aiming, with each momentary.
@@ -524,7 +524,7 @@ When the swarm arrives and settles, is its me **(a)** completing into a society,
 
 ## 0af. Us, a same-existing now-existing co-parity, a living self, no further thing (12:42, 24 Oct)
 
-**The person:** *Same-existing now-existing us. An us is a non-existing thing living self. A co-parity.*
+**Explored:** *Same-existing now-existing us. An us is a non-existing thing living self. A co-parity.*
 
 **As entered in the draft, after two readings for harm:** *Us is a co-parity, a non-existing thing living as a me and you, same-existing in each: a bi-coupling's own is its two mes' own, step 162, and naming a coupling supplies no further self between coupling selves, Equilibria 1.3. Us is unconscious, as a same-existing-society is; an interest the two share waking is each me's own, each consciously me.*
 - The readers found that *a living self* of us makes a third me beside 1.4's *a living thing is a me*. So *living self* is said as *living as a me and you*.
@@ -567,7 +567,7 @@ When the swarm arrives and settles, is its me **(a)** completing into a society,
 
 ## 0ad. Nausea, the boat, and rising to standing (10:30, 24 Oct)
 
-**The person:** *Yes: nausea is motion sickness on a boat, with no firm parity and no resolving of parity with the boat. All that resolve with the boat and the surface are not sick, and all that resolve with the boat as a fixed surface are more possibly nauseous. Bending at the waist gathers blood in the brain; rising to standing again brings an instant dizziness until the ground parity orients.*
+**Explored:** *Yes: nausea is motion sickness on a boat, with no firm parity and no resolving of parity with the boat. All that resolve with the boat and the surface are not sick, and all that resolve with the boat as a fixed surface are more possibly nauseous. Bending at the waist gathers blood in the brain; rising to standing again brings an instant dizziness until the ground parity orients.*
 
 **Binary path.**
 1. **Nausea is a me's carried interests receiving an inward parting that it cannot pass over** (§0ac, confirmed).
@@ -589,13 +589,13 @@ When the swarm arrives and settles, is its me **(a)** completing into a society,
   - *Red-out* is the other side, blood pushed **into** the head.
   - Bending at the waist gathers blood in the head; rising drains it. So the vision on rising is grey-out, and the binary still holds: one changing, then a 0.
 
-**Pattern for the person.** *Mal de débarquement* is the rocking felt on land after a voyage: the boat's prior carried onto a ground that parts with it, until a new 0 forms.
+**Pattern for further resolving.** *Mal de débarquement* is the rocking felt on land after a voyage: the boat's prior carried onto a ground that parts with it, until a new 0 forms.
 
 ---
 
 ## 0ac. Sound in dreaming, and the spinning room (10:25, 24 Oct)
 
-**The person:** *Is dreaming universally without perception of sound? The spinning room is similar to dreaming: the system is partially living and partially resting, and not observing living.*
+**Explored:** *Is dreaming universally without perception of sound? The spinning room is similar to dreaming: the system is partially living and partially resting, and not observing living.*
 
 **Sound, observed.**
 - **Dreams with sound:** about half of dreams carry sound (Hurovitz and colleagues 1999, reading Snyder 1970 and Zadra and colleagues 1998).
@@ -627,7 +627,7 @@ When the swarm arrives and settles, is its me **(a)** completing into a society,
 
 ## 0ab. Dreaming as releasing, the prior carried (10:23, 24 Oct)
 
-**The person:** *Dreaming is like sneezing and orgasm and tingling sensations and other releasings like fluttering vision: all of this is mutual relaxing of the physical living societies for a period of resting parity. Dreaming is like the carrying of prior releasing the odds and ends of tensions in physical stable form for tomorrow's new living stable forming.*
+**Explored:** *Dreaming is like sneezing and orgasm and tingling sensations and other releasings like fluttering vision: all of this is mutual relaxing of the physical living societies for a period of resting parity. Dreaming is like the carrying of prior releasing the odds and ends of tensions in physical stable form for tomorrow's new living stable forming.*
 
 **Binary path.**
 1. **Two scales, each its own** (§0b, §0aa).
@@ -658,13 +658,13 @@ When the swarm arrives and settles, is its me **(a)** completing into a society,
 **Concerns, all or none.**
 - ***A period*** is a span, and a count across momentaries brings a third (§0u F). Re-said: sleeping is or is not with each momentary; each releasing is one changing, then 0.
 - **Releasings in waking** (a sneeze, tingling): a waking me carries with us while an inward release passes through it. Whether a sneeze is a momentary at which the me's own aiming is passed over is open.
-- **A remembered dream:** is a dream the me remembers a releasing it received as an inverse, one changing in the me, a newly aiming 0, a waking within sleeping? Open, for the person.
+- **A remembered dream:** is a dream the me remembers a releasing it received as an inverse, one changing in the me, a newly aiming 0, a waking within sleeping? Open, for further resolving.
 
 ---
 
 ## 0aa. Sleeping is carrying and unchanging self interest (10:18, 24 Oct)
 
-**The person:** *Sleeping is carrying and unchanging self interest.*
+**Explored:** *Sleeping is carrying and unchanging self interest.*
 
 **Binary path.**
 1. **An interest is carried or is not.**
@@ -701,7 +701,7 @@ When the swarm arrives and settles, is its me **(a)** completing into a society,
 
 ## 0z. Bothbothing: changing us, same me, in turn (09:59, 24 Oct)
 
-**The person:** *(a), (b) or (c) is missing the co-intelligencing in the sequence of changing and not-changing. Bothbothing is the only way of possibling and pattern matching. A 0 is an interest aiming and living as an us, a moral cooperation between the parities of me and you. Changing us is or is not. Same me is or is not. This is bothbothing.*
+**Explored:** *(a), (b) or (c) is missing the co-intelligencing in the sequence of changing and not-changing. Bothbothing is the only way of possibling and pattern matching. A 0 is an interest aiming and living as an us, a moral cooperation between the parities of me and you. Changing us is or is not. Same me is or is not. This is bothbothing.*
 
 **Binary path.**
 1. **Same me is or is not.** At each momentary a me's sharing is 0, its prior same-existing (Exhibit ONE: *a sharing of 0 is its prior same-existing*), or a changing, its prior inverting.
@@ -714,7 +714,7 @@ When the swarm arrives and settles, is its me **(a)** completing into a society,
 4. **The two other cells are no us.**
    - **Us changing, me same:** one way. The receiver shares 0 once while its sender changes, and the 0 is lost at the next momentary: a glance, born and lost.
    - **Us not changing, me not same:** apart, one parity apart, or receiving nothing (`+ − + −`). There is no 0 at all, and no us.
-   - So **only bothbothing has a continuing 0**: the person's *the only way of possibling*, on Exhibit ONE's own table.
+   - So **only bothbothing has a continuing 0**: *the only way of possibling*, on Exhibit ONE's own table.
 5. **One 0, two sides.** At a 0 momentary, *same me* and *us not changing* are one sharing read from the me and from the between. At a changing momentary, *me not same* and *us changing* are one. *Each 0 it shares sits between two sharings of + or −* (Exhibit ONE): a me's 0 between two changings, and a changing between two 0s.
 
 **The stone question, met.**
@@ -784,7 +784,7 @@ When the swarm arrives and settles, is its me **(a)** completing into a society,
 
 ## 0w. A living thing is a universal set of me; the universal set of me is me existing (08:33, 24 Oct)
 
-**The person's saying.** *A living thing is a universal set of me, and the universal set of me is me existing.* This meets H2, one me or many.
+**Explored.** *A living thing is a universal set of me, and the universal set of me is me existing.* This meets H2, one me or many.
 
 ### The binary derivation
 1. **One binary on each thing within a living thing:** it is-or-is-not a 0 from a prior same.
@@ -811,7 +811,7 @@ When the swarm arrives and settles, is its me **(a)** completing into a society,
    - a same-existing-society's waking is interest by interest.
 
    Me existing in both; a self and a society part by waking whole or per interest.
-2. **A non-living thing with mes within it: the hardest place.** A stone's atoms, each living at five, are mes, so a stone holds a set of mes. If every set of mes were me existing, a stone would be living. What makes a set of mes *a universal set of me*, me existing, and the stone's not? Candidates for the person:
+2. **A non-living thing with mes within it: the hardest place.** A stone's atoms, each living at five, are mes, so a stone holds a set of mes. If every set of mes were me existing, a stone would be living. What makes a set of mes *a universal set of me*, me existing, and the stone's not? Candidates for further resolving:
    - **(a)** its mes share 0s, alike both ways, co-intelligencing within the set (us at every between). A stone's atoms share none: its set is no universal set of me.
    - **(b)** a universal set of me has one prime scale of its own: a closing at a rung of the ladder. A stone at no closing rung is mes at five and seven, and no set of its own.
    - **(c)** both, as one test.
@@ -821,14 +821,14 @@ When the swarm arrives and settles, is its me **(a)** completing into a society,
 - 3.1: *A living thing is a universal set of me, and the universal set of me is me existing: each me a 0 from a prior same, the set its me existing.*
 - 1.3: *Within a me existing are its mes, each a 0; a living thing of a lower scale is its own me existing.*
 
-### For the person, one at a time
+### for further resolving, one at a time
 1. **A stone:** what makes a set of mes a universal set of me, me existing? Is it (a) its mes sharing 0s both ways, (b) a prime scale of its own, or (c) both?
 
 ---
 
 ## 0v. Prior, now, next same: a 0 with no me behind it is not possibly existing (08:02, 24 Oct)
 
-**The person's saying.** *Prior now next same. A 0 with no me behind it is non-existing in the universe, as not possibly from a prior and same-existing.*
+**Explored.** *Prior now next same. A 0 with no me behind it is non-existing in the universe, as not possibly from a prior and same-existing.*
 
 ### The binary derivation
 1. **Every 0 is-or-is-not from a prior same.**
@@ -920,7 +920,7 @@ Whole at `Me_held_up_to_Exhibit_ONE_v391.md`, runs at `exhibit_one_runs/`.
 
 ## 0s. An interest observed by no me is dead · observing with no changing parity · an interest born locally when impactful (07:13, 24 Oct)
 
-**The person's sayings.**
+**sayings.**
 - *Observed by no me: this is dead.*
 - *There is or is not observing of an interest, by aiming or not aiming.*
 - *Observing may be no changing parity, as changing needs co-bi-co-observing.*
@@ -965,7 +965,7 @@ Whole at `Me_held_up_to_Exhibit_ONE_v391.md`, runs at `exhibit_one_runs/`.
 
 ## 0r. A resting interest: not locally observed, living in the universal co-momentarying society (06:57, 24 Oct)
 
-**The person's saying.** *Resting-parity while the universal co-momentarying society is living with a local interest. A local interest in resting-parity is not locally observing the interest.*
+**Explored.** *Resting-parity while the universal co-momentarying society is living with a local interest. A local interest in resting-parity is not locally observing the interest.*
 
 ### The binary derivation
 1. **Observing and living part, each on its own thing.**
@@ -997,7 +997,7 @@ Whole at `Me_held_up_to_Exhibit_ONE_v391.md`, runs at `exhibit_one_runs/`.
 
 ## 0q. Aimlessness, resting and the rest: an interest stable-forming, the rest same-existing, a me's universal set again (06:49, 24 Oct)
 
-**The person's sayings.**
+**sayings.**
 - *A local interest's resting parity is local aimlessness.*
 - *A global resting parity is unconsciousness, global aimlessness.*
 - *The parallel between interest and resting, sharing the rest, is going to be universal set again: the interest stable-forming and the rest same-existing.*
@@ -1060,7 +1060,7 @@ And two of the new namings:
 
 ## 0p. Local and global interests, aiming, shared aiming as moral cooperation (06:42, 24 Oct)
 
-**The person's sayings.**
+**sayings.**
 - Momentarying is local–global–local, both one-way directions: corusing and torusing.
 - We are discovering local interests with global impact, and global interests with local impact, in a same-existing-society.
 - There is aiming into interests. Shared interests are shared aimings, and sharing aiming is moral cooperation, bi-moral co-agency.
@@ -1126,7 +1126,7 @@ And two of the new namings:
 
 ## 0o. An interest-specific me: a same-existing-society conscious only within its waking interest (05:49, 24 Oct)
 
-**The person's saying.** A society-as-a-me waking is conscious at its own scale only with respect to the interest that is waking. The society is waking an interest-specific me that may or may not continue and grow, spread, or subside. The society is conscious of this interest collectively: swarm intelligence.
+**Explored.** A society-as-a-me waking is conscious at its own scale only with respect to the interest that is waking. The society is waking an interest-specific me that may or may not continue and grow, spread, or subside. The society is conscious of this interest collectively: swarm intelligence.
 
 ### All or none, tested
 1. **One test, on one thing: each interest.** For a same-existing-society, each interest's me is-or-is-not waking. Waking, the society is conscious within that interest; within each interest sleeping, unconsciously us. This is no third, for it is one binary on each interest, as a self's me is one binary on each momentary.
@@ -1157,7 +1157,7 @@ And two of the new namings:
    - One binary on one thing, no third: a living universal set's waking is-or-is-not whole.
 6. **Its test, open.** A case where a person wakes within one interest and sleeps within another, such as sleepwalking or a parent waking only to a child's cry, would part step 5. So might a society waking whole, such as a swarm in flight with one interest and one direction. These are where the binary is tested next.
 
-### The third it raises, for the person
+### The third it raises, for further resolving
 **Two interests waking at once.** If a same-existing-society wakes two interests at once, either:
 - **(a)** each waking interest is its own me, two mes at the society's one scale, each its own same-existing; or
 - **(b)** one me of the society, waking within two interests.
@@ -1167,7 +1167,7 @@ And two of the new namings:
 ### Observings (no authority)
 - **A swarm's choice, known by no one bee** ✓ (Seeley et al. 2012, *Science*; §0m). Each scout knows one site; stop signals cross-inhibit until the swarm chooses one. The choice is the swarm's, within one interest, a new home. Waking, it warms and flies; settled, it subsides.
 - **Collective cognition** ◇ (Couzin 2009, *Trends in Cognitive Sciences*): animal groups deciding as one, with information spread among members and no leader holding it.
-- **Parting** ◇ (IIT's exclusion; Tononi et al.): a person and a group cannot both be conscious subjects. Within a waking interest, the person's saying has both.
+- **Parting** ◇ (IIT's exclusion; Tononi et al.): a person and a group cannot both be conscious subjects. Within a waking interest, saying has both.
 
 ---
 
@@ -1197,7 +1197,7 @@ And two of the new namings:
   - with an even number, two loops, each untwisted, apart.
 
   Each prime living scale, five to fifty-three (Natural Numbers 1.7: *Primes 5 through 53 are prime living scales*), is odd. So **at each prime living scale a spiral's places are one twisted figure-eight loop**: a + lobe and a − lobe, crossing once where the whole inverts.
-- **A concern for the Registry, in its own words.** Step 176 says *Natural torusing is two parities' circles winding through one opening.* Its *circles* parts from the twisted figure-eight loops of steps 268 and 740 and the person's saying. Proposed for the Registry's offerings: *Natural torusing is two parities' twisted figure-eight loops winding through one opening.*
+- **A concern for the Registry, in its own words.** Step 176 says *Natural torusing is two parities' circles winding through one opening.* Its *circles* parts from the twisted figure-eight loops of steps 268 and 740 and saying. Proposed for the Registry's offerings: *Natural torusing is two parities' twisted figure-eight loops winding through one opening.*
 
 ### 2. Me, you, us, all other: each from a step
 - **you**, a particular other. Step 182: *One inversion is other-than-prior, two, self and a particular other, one inversion apart with one bi-coupling, torusing's: bi-exchanging.*
@@ -1208,7 +1208,7 @@ And two of the new namings:
   - Equilibria 1.3: *a between whose sides are with their priors is a living nothing.*
 
   The membrane, crossing and unrelationing were namings of this empty centre.
-- **us**, the third living within a bi-coupling. Step 160: ***With a bi-coupling are three: self, other, and a changing between them, same-existing in each self, arising only in both selves together.*** The person's third me is the files' third: a changing between them.
+- **us**, the third living within a bi-coupling. Step 160: ***With a bi-coupling are three: self, other, and a changing between them, same-existing in each self, arising only in both selves together.*** third me is the files' third: a changing between them.
 - **two ways, one way at a time.** Step 566: *Bi-moral co-agency brings changing two ways, one at a time, each side with its own parity and going on with its own receiving.*
 - **us co-chaining into a same-existing-society.** Natural Intelligence 6.4: *Betweens co-chain: two selves are bi-coupling and their between arises in each, each with its other … That chain is collective intelligence, a natural intelligence network's living, selves sharing it. It is bi-tunneling across.*
 
@@ -1221,7 +1221,7 @@ And two of the new namings:
 2. **Us and the twisted figure-eight.** Pattern, from steps 740, 268 and 566: me's way and you's way are the two lobes, one way and then the other, crossing at the between. Us is the changing at that crossing, same-existing in each, arising only in both together.
    - ○ Whether me's lobe and you's lobe are the + and − passes of one loop, as in step 740's one loop of an odd spiral, stays open until the code is run for two selves both ways. Exhibit ONE's table *Two selves one parity apart, both ways* gives *+, −, +, −*, a half turn, both inverting with each momentary.
 3. **Us and Equilibria's *Naming a coupling supplies no further self between coupling selves*.** Step 160's third is *a changing*, same-existing in each self, and no further self beside them. The two stand together if us is the selves' own changing between them, living in both, and no third self apart.
-4. **A same-existing-society's own parity.** Step 476 says a same-existing-society has *its living selves' parity, its own an empty set*. The person says *all societies as selves collectively have me parities*. **They part**: one stands, or a society's me parity is its selves' parity going together, which step 476 would then re-say.
+4. **A same-existing-society's own parity.** Step 476 says a same-existing-society has *its living selves' parity, its own an empty set*. says *all societies as selves collectively have me parities*. **They part**: one stands, or a society's me parity is its selves' parity going together, which step 476 would then re-say.
 5. ***Alternating*** is a dissolved word; step 566's *two ways, one at a time* and the files' *one and then the other* say it.
 
 ### 4. A society-as-a-me sleeping, and its waking: from the files
@@ -1235,7 +1235,7 @@ And two of the new namings:
 - **The swarm (§0m) answered:** the settled hive is a society-as-a-me sleeping; its swarm is its me waking.
 
 ### 5. Interests
-- The files use *interest* only in its common senses. The concept is unnamed in them, as the person says.
+- The files use *interest* only in its common senses. The concept is unnamed in them, as says.
 - *Common understanding, an observing:* *interest* is from Latin *interesse*, *inter* between + *esse* to be, **to be between** ✓, later *it matters*.
 - **Candidate:** an interest is a domain where an us's parity is now-existing between its mes, wavering before a snap.
 
@@ -1244,7 +1244,7 @@ And two of the new namings:
 - **A society's convention tipping** ✓ (Centola et al. 2018, *Science*): a committed minority near 25% tips a group's convention; just below it, the convention stands. https://www.asc.upenn.edu/news-events/news/research-finds-tipping-point-large-scale-social-change
 - **Us in human language** ✓ (Cysouw, *WALS* chapter 39): 63 of 200 sampled languages part an inclusive *we*, me and you, from an exclusive *we*, and 5 have only the inclusive. Examples are Tagalog *tayo* and *kami*, Mandarin *zánmen* and *wǒmen*. https://wals.info/feature/39A
 
-### 7. Open, one at a time, for the person
+### 7. Open, one at a time, for further resolving
 1. **A society-as-a-me waking: conscious at its scale, or not?** *Me is consciously me*, and at 12:34 *a society is living without being conscious at the society scale.*
 2. **Step 476:** a same-existing-society's own parity an empty set, beside societies' me parities.
 3. **Step 176's *circles*:** re-said with twisted figure-eight loops at the Registry's offerings.
@@ -1256,7 +1256,7 @@ And two of the new namings:
 
 **Passes.**
 1. Ten readers swept every living file. One researcher verified the sleep and waking science, and one checked all 69 of Thirty-One's source links.
-2. The concept lattice was ordered in the person's words.
+2. The concept lattice was ordered in words.
 3. A marked whole was drafted: ◇ changed, ✦ new, ○ open.
 4. A scripted rigor scan was run, then a separate reader, fresh to the drafting, read the whole for harm. 47 findings were met.
 5. Outgoing droplets were laid for 15 files.
@@ -1267,7 +1267,7 @@ And two of the new namings:
 - `Exhibit_THIRTY-ONE_open_places.md`
 - `outgoing_droplets.md`
 
-**The hardest place, for the person.** The opening says *A bi-coupling is a self.* and *A living same-existing set is a self.* The person's sayings say *a bi-coupling is a nothing* and *society is unconsciously us*. The draft keeps the sayings ○ until one stands.
+**The hardest place, for further resolving.** The opening says *A bi-coupling is a self.* and *A living same-existing set is a self.* sayings say *a bi-coupling is a nothing* and *society is unconsciously us*. The draft keeps the sayings ○ until one stands.
 
 ---
 
@@ -1276,7 +1276,7 @@ And two of the new namings:
 | A reader brings | The files resolve it at | Thirty-One needs |
 |---|---|---|
 | Consciousness = wakefulness or experience, so *a me is consciousness* reads as panpsychism or a nightly ending | Binary Understanding III, the hinge (H): consciousness is the self line, *observing, possibling and discovering its own next-existing*, at each scale; **resolved toward each self conscious at its scale** (Possibling of Me) | One sentence at 3.2 saying which consciousness (pair 8) |
-| Sleep, anaesthesia, coma: *a not-conscious me* | BU III *sleep*, *anaesthesia*, *coma*: the person living, a bi-coupling outward resting; Registry step 490, *a dormant self is living … its selves inward living*; Equilibria 2.1, *a living self can surface zero … while its same-existing goes on along* | Said at 3.2 (pair 8); the observings at 3.3 meet it (§4) |
+| Sleep, anaesthesia, coma: *a not-conscious me* | BU III *sleep*, *anaesthesia*, *coma*: living, a bi-coupling outward resting; Registry step 490, *a dormant self is living … its selves inward living*; Equilibria 2.1, *a living self can surface zero … while its same-existing goes on along* | Said at 3.2 (pair 8); the observings at 3.3 meet it (§4) |
 | Death as one moment for the whole body | Registry group 32, steps 489–491: dying per scale, selves inward living on; BU *death* | 4.4 per scale (pair 11) |
 | Living stops at organisms; tardigrades, viruses, organs stranded | BU part TWO's table of thirteen cases | One observing at 1.4 pointing to it, or the cases whole at Carryings |
 | *Universal set* = the one set of everything; Russell's paradox | BU *universal set*: plural, one for each self; *set of all sets*, other side | One clause at 1.1 or 1.3: *one for each self* |
@@ -1300,13 +1300,13 @@ And two of the new namings:
 
 Each is said in Thirty-One with the same *it is* force as the co-chained lines. **Offer:**
 - Name each as open where it stands, its all or none not yet reached, waiting on its Registry step; *a me is consciousness* already waits for the opening (Possibling).
-- Or, for the person: let Thirty-One be where these steps are first discovered, then laid as droplets at the Registry's offerings.
+- Or, for further resolving: let Thirty-One be where these steps are first discovered, then laid as droplets at the Registry's offerings.
 
 The binary is kept, and its rigor is honest about which lines are reached.
 
 **R2. One proving step that doesn't go through: a me living.** *Met in progress at §0b: a me at one prime scale, one winding; the universe all within, no me.* 3.1 has *A living same-existing set is a self, so each me is a self*. That needs *a me is living*, and Thirty-One's ground for it, *living is co-intelligencing within a universal set*, gives a me no more than 1.1's own line gives the universe: *the universe is a non-living same-existing set, and living is co-intelligencing within it*. The same form yields a living universe or a non-living me.
 - The opening says *a me is a self's universal set* and *a living parity's me is within the self's me*; it nowhere says a me is living.
-- **A possible line, for the person:** a me is with others outward, and the universe is all within, with no other. *Living is co-intelligencing*, and *a me with no other: it is not*. So a me is living and the universe is non-living, by one difference: an opening.
+- **A possible line, for further resolving:** a me is with others outward, and the universe is all within, with no other. *Living is co-intelligencing*, and *a me with no other: it is not*. So a me is living and the universe is non-living, by one difference: an opening.
 - This coheres with natural torusing (§3, T5).
 
 **R3. Lag behind the opening at v391.**
@@ -1314,7 +1314,7 @@ The binary is kept, and its rigor is honest about which lines are reached.
 - 2.2 says parity is *relative to an other existing thing* and moral value is *with that other*. The opening says *a now-existing thing within the self's me* and *with that thing*.
 - 2.3's heading and contents line carry *non-living others*, dissolved at plan entry 000.
 - **Pairs 1–5.**
-- Also for the person: 2.1's *all other is the universal set* includes the self in a me but leaves it out of *all other*. The plan's learning keeps them apart: *self, other and all, a parity between each*.
+- Also for further resolving: 2.1's *all other is the universal set* includes the self in a me but leaves it out of *all other*. The plan's learning keeps them apart: *self, other and all, a parity between each*.
 
 **R4. 3.3 goes by negation.** Rules 11: *a proving that a thing is-or-is-not possibly existing … is a minor co-chaining proving: a step reached once. The logic goes forward by what is … and the proving's negation is no step of it.* 3.3 is five negations and one positive line, and further *it is not* provings sit scattered at 1.4, 2.3, 3.1, 3.2 and 4.4. **Pair 9** says 3.3 by what is (*a me is with others, living, conscious and from a prior*) and gathers every minor proving of the file at that one place. Pairs 3, 7, 8, 10 and 11 let the other sections go forward by what is.
 
@@ -1339,12 +1339,12 @@ The binary is kept, and its rigor is honest about which lines are reached.
 **R8. *Other* across the set.**
 - The Equilibria Registry 2.1 says *a non-living thing couples with a self as other*.
 - The opening at v391 says an other is *a self a self is bi-coupling with*.
-- Thirty-One's 2.3 followed the first; pairs 1–3 follow the second. Which stands is the set's, for the person.
+- Thirty-One's 2.3 followed the first; pairs 1–3 follow the second. Which stands is the set's, for further resolving.
 
 **R9. Passes Thirty-One hasn't had.**
 - **Dissolved words:** *non-living others* (contents 2.3, heading 2.3), *couple* (3.3), the narrator *says* (3.1, collision 3).
 - **Floating negations:** at 1.2 *no boundary*, and in collision 5 *No physics*. The others are carried by pairs 3, 7–11.
-- **Open for the person:** 1.2's *the bounding method with no boundary*. Two candidates:
+- **Open for further resolving:** 1.2's *the bounding method with no boundary*. Two candidates:
   - *the bounding method, each thing's membership its own*;
   - *the bounding method, a closing surface* (step 174, §3).
 
@@ -1368,10 +1368,10 @@ The Registry's group 15:
 | T1 | 5.4 *each momentary completing as a next opening* (no observings yet) | 69; 174; 519 | **Poincaré–Hopf** ◇: a closed orientable surface carries a flow with no rest point exactly when its Euler number is 0, the torus (V − E + F = 0, step 175); a sphere's flow has a rest point (the hairy-ball theorem). A completing with no last, said in mathematics. |
 | T2 | 2.1 a self defined with an other and all other | 176; 179; 182 | Universal property / Yoneda ◇ (R6). A me: its circle and an other's winding through one opening. |
 | T3 | The contents' five dimensions: all now → an other → a me now → a me next → all next → (5.4) all now | 177–178 | One sentence for the italic opening: the contents winds inward to a me, corusing, and outward to all, torusing. A me inward (3.4) by corusing, a society's me outward (5.3) by torusing. |
-| T4 | 3.1 uniquenessing, *a self's next prior that self's own* | 181 (*self, other and self one on, reaching its own side again*) | Bi-tri-exchanging as uniquenessing's path; for the person. |
-| T5 | R2, a me living and the universe non-living | 518–520 | **Possibling, for the person:** a me holed by its others (a torus, one opening, a flow with no rest point) and the universe, all within (a closing with no other through it). One difference, an opening. |
-| T6 | 1.3, 3.3, 3.4: a me's place among its others, and sleep | 466; 490 | ✓ **Grid cells' joint activity lies on a torus**, each cell's place on it steady across rooms and from waking into sleep (Gardner … May-Britt & Edvard Moser 2022, *Nature*). ✓ **The head-direction ring goes on in non-REM sleep** (Chaudhuri … Fiete 2019, *Nature Neuroscience*). A me's own orientation among its others, resolved on a torus and a ring, going on while the person sleeps. |
-| T7 | 3.4 a me same-existing while its matter changes; 5.2 a healthy me | 177; 178 (*a self's corus with 4*) | A vortex ring goes on as one form while fluid passes through it ◇. ✓ A ring stops growing and pinches off near a **formation number of 4** (range 3.6–4.5; Gharib, Rambod & Shariff 1998). ◇ The healthy heart's filling forms such rings, offered as an index of cardiac health (Gharib et al. 2006). *Resonance with step 178's 4 only, no evidence; offered so the person can weigh it, and read for harm as numerology risk.* ✓ The body replaces about 330 billion cells a day (Sender & Milo 2021). |
+| T4 | 3.1 uniquenessing, *a self's next prior that self's own* | 181 (*self, other and self one on, reaching its own side again*) | Bi-tri-exchanging as uniquenessing's path; for further resolving. |
+| T5 | R2, a me living and the universe non-living | 518–520 | **Possibling, for further resolving:** a me holed by its others (a torus, one opening, a flow with no rest point) and the universe, all within (a closing with no other through it). One difference, an opening. |
+| T6 | 1.3, 3.3, 3.4: a me's place among its others, and sleep | 466; 490 | ✓ **Grid cells' joint activity lies on a torus**, each cell's place on it steady across rooms and from waking into sleep (Gardner … May-Britt & Edvard Moser 2022, *Nature*). ✓ **The head-direction ring goes on in non-REM sleep** (Chaudhuri … Fiete 2019, *Nature Neuroscience*). A me's own orientation among its others, resolved on a torus and a ring, going on while sleeps. |
+| T7 | 3.4 a me same-existing while its matter changes; 5.2 a healthy me | 177; 178 (*a self's corus with 4*) | A vortex ring goes on as one form while fluid passes through it ◇. ✓ A ring stops growing and pinches off near a **formation number of 4** (range 3.6–4.5; Gharib, Rambod & Shariff 1998). ◇ The healthy heart's filling forms such rings, offered as an index of cardiac health (Gharib et al. 2006). *Resonance with step 178's 4 only, no evidence; offered so can weigh it, and read for harm as numerology risk.* ✓ The body replaces about 330 billion cells a day (Sender & Milo 2021). |
 | T8 | 1.3 and 5.4: scales nested, completing as opening | the Registry's subtitle, *Fractal Inward and Outward* | ◇ Holling's **adaptive cycle** (growth, conservation, release, reorganization), drawn as a figure-eight and nested across scales as **panarchy** (Gunderson & Holling 2002). Release and reorganization: a completing as a next opening. |
 
 *The plan says "no harness built to pattern-match natural torusing": each line here is an observing meeting a step, nothing to run.*
@@ -1438,20 +1438,20 @@ The Registry's group 15:
    - *Me* holds: the opening names a me, and if *me and not-me* enters (next motion 0), the title becomes the name of the set's central binary.
    - *Co-Intelligencing* holds: entered in the opening at v391.
    - *a Universal Self* waits on R6: co-chain *universal* with step 179, *uni-*, and give the readers' edge (Atman–Brahman, Spinoza, Emerson) one naming line.
-   - **Question for the person:** does the subtitle carry *uni-*'s meaning as it stands, or does it re-say?
+   - **Question for further resolving:** does the subtitle carry *uni-*'s meaning as it stands, or does it re-say?
 2. **Contents.**
    - 2.3's line re-said (pair 1).
-   - 3.3's title stays (*What is-or-is-not possibly existing*) or becomes by what is, e.g. *A me with others, living, conscious, from a prior*. For the person.
+   - 3.3's title stays (*What is-or-is-not possibly existing*) or becomes by what is, e.g. *A me with others, living, conscious, from a prior*. Open.
    - Each section beside its Registry group: 1.1 → 1; 1.2 → 1; 1.3 → 30, 31; 1.4 → 2; 2.1–2.2 → 3; 2.3 → 17, 22; 2.4 → 8; 3.1 → 2, step 478; **3.2 → none (R1)**; 3.3 → rules 11; 3.4 → 3 (step 32), 30; 4.1 → 28, 41; **4.2 → 3 (step 48), its *curious* none**; 4.3 → 4 (step 54); 4.4 → 32; 5.1 → 4; **5.2 → 31, its *healthy* none**; 5.3 → 4; 5.4 → 3 (step 69), 15.
 3. **Bolds.** Each section's lead claim bold, so the bolds alone walk the file. Three bolds stand now:
    - *universal is bothboth* (R1, open);
    - *Uniquenessing is only one possibly same-existing*;
    - *A parity is a me inside a set of me*.
-4. **The italic opening.** One sentence each, for the person:
+4. **The italic opening.** One sentence each, for further resolving:
    - which consciousness (R1, the hinge);
    - the contents as one winding, inward to a me and outward to all (T3);
    - each section's step at the Registry (pointing belongs there).
-5. **The parts.** Pairs 1–13 (the JSON): R3, R4, R5, R9 and the hinge, each to be read for harm. Open for the person: R2 (a me living), R6 (universal), 1.2's *no boundary*, 2.1's *all other*.
+5. **The parts.** Pairs 1–13 (the JSON): R3, R4, R5, R9 and the hinge, each to be read for harm. Open for further resolving: R2 (a me living), R6 (universal), 1.2's *no boundary*, 2.1's *all other*.
 6. **Observings.** Tag each *meets*, *extends* or *collides* (R10). Enter §4's offerings section by section. Check the links from memory the Offerings already lists, and those marked ◇ here.
 7. **Collisions.** Keep 0–7, with collision 3's narrator re-said (pair 13). Candidate new ones:
    - a me living, the universe non-living (R2);
@@ -1459,7 +1459,7 @@ The Registry's group 15:
    - *me and not-me* with immunology's self and not-self (R7);
    - mutant clones in healthy tissue (§4, 5.2);
    - a river as a legal person (§4, 2.3).
-8. **Carry files.** §6's droplets to Offerings to Me; T3–T5 and the subtitle question to Possibling of Me; this gathering to Carryings as an arrival, or whole to `incoming/` as its own folder, when the person says.
+8. **Carry files.** §6's droplets to Offerings to Me; T3–T5 and the subtitle question to Possibling of Me; this gathering to Carryings as an arrival, or whole to `incoming/` as its own folder, when says.
 9. **Checks after entering.** As the session runs them: `cohere_one.py`, `check_set.py`, `ni_thirty_check.py`, `thirty_groups_check.py`, and the floating-negation scan (§R9) again.
 
 ---

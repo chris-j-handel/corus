@@ -3,7 +3,7 @@
 *Gathering, outside the living files. Nothing here enters Thirty-One until its own motion: propose, read for harm by a separate reader, enter.*
 
 - **Authority:** binary all or none at all natural torusing society, no third possible.
-- **What the rest is:** the person's sayings, the files' words, the sciences and common explaining are observings, each tagged **agreeing** or **parting** with our line.
+- **What the rest is:** sayings, the files' words, the sciences and common explaining are observings, each tagged **agreeing** or **parting** with our line.
 - **What it carries:** the session's concepts, gathering §0b to §0ad, held up to each section of Thirty-One v391 and to the next-version draft (`Exhibit_THIRTY-ONE_Me_next_clean.md`, built through §0k). Each concept is shown with the section it improves, the line it re-says, the line it withdraws, the observings that bear on it, and the hard problems it meets.
 
 Marks:
@@ -11,9 +11,9 @@ Marks:
 - **▼ withdraw**: a line in v391 or the draft that now incoheres;
 - **◆ observing**: a science observing, agreeing or parting;
 - **◎ hard problem**: Hard Problem Registry number, with Resolving the Hard Problem Registry's place, **coheres** or **parts**;
-- **○ open**: for the person.
+- **○ open**: for further resolving.
 
-**Read for harm, 24 Oct.** A separate reader read this map against rules 7 and 11 to 13, Thirty-One v391, the draft and the Registry. Its findings are applied here, and its open findings stand at D. Words the person gave that rules 11 dissolves (*carrying*, *continuing*) stay in the person's sayings and are re-said in ▲ lines; D asks the person.
+**Read for harm, 24 Oct.** A separate reader read this map against rules 7 and 11 to 13, Thirty-One v391, the draft and the Registry. Its findings are applied here, and its open findings stand at D. Words that rules 11 dissolves (*carrying*, *continuing*) are re-said in ▲ lines.
 
 ---
 
@@ -24,7 +24,7 @@ Marks:
 - A living thing is a universal set of me, and the universal set of me is me existing (§0w).
 - Every 0 is a me, and all 0 is me (§0u). An interest is a 0: newborn, from a prior same, newly aiming, or lost.
 - A me's universal set is its interests, stable-forming, and the rest, same-existing (§0q).
-- A me sleeps receiving its own parity, same-existing (§0aa, the person's *carrying and unchanging self interest*), and wakes by bothbothing with you (§0z).
+- A me sleeps receiving its own parity, same-existing (§0aa, *carrying and unchanging self interest*), and wakes by bothbothing with you (§0z).
 
 **Co-Intelligencing.**
 - *Co-* is *with*, and *conscious* is from *conscire*, to know with (§0j). Step 160: *a changing between them, same-existing in each self, arising only in both selves together.*
@@ -32,7 +32,7 @@ Marks:
   - Changing us is or is not, and same me is or is not.
   - Two mes alike both ways go between *us not changing, each me the same* (0, do-no-harming) and *us changing, neither me the same* (improving).
 - Of two selves, only two alike both ways go on sharing a 0, every second momentary, do-no-harming and improving in turn (step 47; Exhibit ONE's own *two selves* table, §0z). A me alone, receiving its own parity, shares 0 too: sleeping.
-- ◎ Resolving the Hard Problem Registry 5.3, *Sleep · 91*: *waking and sleeping are two parities of one living*, and *changing and changing back is its function*. **Parts:** it reads a function fixing as not-changing as a frame's, and our sleeping me shares 0, same-existing. For the person (D).
+- ◎ Resolving the Hard Problem Registry 5.3, *Sleep · 91*: *waking and sleeping are two parities of one living*, and *changing and changing back is its function*. **Parts:** it reads a function fixing as not-changing as a frame's, and our sleeping me shares 0, same-existing. Open.
 
 **A Universal Self.**
 - *Universal* is bothboth: only one possibly now-existing and only one possibly same-existing (1.1). *Universe* is from *unus* and *vertere*, turned into one.
@@ -70,7 +70,7 @@ Marks:
   - *you* is a particular other (step 182);
   - *all other* is observed as one (step 179);
   - *us* is the between of a me and you, same-existing in each, arising only in both together (step 160): its centre a 0 (step 162), changing or not changing in turn (§0z).
-- ○ **Us, one form.** The session said *us* both as a shared 0 (§0n, §0v) and as a changing between (step 160), and earlier as *a nothing between*. *A nothing*, counted, is a third (§0f). The line above holds both sides in step 162's form, *a between is its centre, 0*. For the person (D).
+- ○ **Us, one form.** The session said *us* both as a shared 0 (§0n, §0v) and as a changing between (step 160), and earlier as *a nothing between*. *A nothing*, counted, is a third (§0f). The line above holds both sides in step 162's form, *a between is its centre, 0*. Open.
 - ▼ **Withdraw v391 3.3's** *a bi-coupling is a self, its me the couple's own*. The draft has already turned it. Us is a between, same-existing in each, with no further self (Equilibria 1.3, *naming a coupling supplies no further self*).
 - ◆ **Joint attention and shared intentionality** (Tomasello et al. 2005). Agreeing: from about one year, infants share attention to a thing with another and know it is shared, *we* attending (C6).
 - ◆ **Bio-behavioural synchrony** (Feldman). Agreeing: parent and infant are in bio-behavioural synchrony, which Feldman reads as the root of human attachment (C5).
@@ -103,15 +103,15 @@ Marks:
   - (a) like Exhibit ONE's birth, run E5, each daughter is a newborn me, taking the parent's parity as its prior, and the parent's me is-or-is-not going on: it is not;
   - (b) the parent's interests go on in both, as run E7's interest is born in you. Swarming is the same case (§0m).
 
-  For the person.
+  Open.
 
 ### 3.2 Waking me and sleeping me, consciously me
-- ▲ **Re-say sleeping:** *Sleeping me, receiving its own parity, shares 0, same-existing, step 390: a dormant self waiting for its one next changing, step 490.* (§0aa; the person's *carrying and unchanging self interest*)
+- ▲ **Re-say sleeping:** *Sleeping me, receiving its own parity, shares 0, same-existing, step 390: a dormant self waiting for its one next changing, step 490.* (§0aa; *carrying and unchanging self interest*)
 - ▼ **Withdraw the draft's** *Sleeping me goes on resolving among parities, receiving its own parity from its others.* It receives its own parity. A parity is-or-is-not received; received, it is its own or yours. *From its others* is neither.
 - ▲ **Re-say waking:** *Waking me is a newly aiming 0: an other's parity received inverse, one changing, then a 0 at its new prior; then bothbothing with you, 0 and changing in turn* (§0u, §0z). *Sleeping, waking and dying* nest as two binaries (§0aa):
   - a parity is-or-is-not received. Is not: the interest is dying, its prior inverting from beside;
   - received, it is its own or yours. Its own: sleeping, 0, same-existing. Yours, alike: waking, 0 and changing in turn.
-- ▲ **Dreaming:** *Dreaming is a sleeping me same-existing while its inward mes release waking's tensions, each inward me one changing, then a 0 at its new prior: changing once and then same-existing.* Its sound, where present, is inward, and its outward observing rests (§0ab, §0ac; the person's *mutual relaxing*).
+- ▲ **Dreaming:** *Dreaming is a sleeping me same-existing while its inward mes release waking's tensions, each inward me one changing, then a 0 at its new prior: changing once and then same-existing.* Its sound, where present, is inward, and its outward observing rests (§0ab, §0ac; *mutual relaxing*).
 - ▼ **Withdraw the marked draft's open naming edge** *ours, sleeping me unconscious* as the whole answer to dreaming. The field reads dreaming as experience (Siclari 2017), and our line reads it as inward releasing within a carrying me. One question stands on it (○ below).
 - ◆ **Experience within sleep** (Siclari et al. 2017). Parting, in part: a dream report goes with a local drop in slow activity at the back of the cortex.
 - ◆ **Sound in dreams** (Hurovitz et al. 1999, reading Snyder 1970 and Zadra et al. 1998). Agreeing: about half of dreams include sound and under one percent touch, taste or smell, so the outward observing rests.
@@ -125,7 +125,7 @@ Marks:
 - ▲ **Add:**
   - *A 0 with no me behind it: it is not* (§0v).
   - *A same-existing-society's me apart from a waking interest: it is not* (§0o). This re-says the open place *a same-existing-society's me of its own scale: it is not*, since a swarm wakes a society's me within one interest.
-- ○ **Keep as concern:** the draft's *A me receiving only its own going along, a spiral of one: it is not.* Exhibit ONE's run E2 shares the same `+ 0 − 0` as two selves alike both ways (*Me held up* §4 B), and Natural Physics and Resolving Hard Problems hold it no living. Its wording also meets the sleeping line, *receiving its own parity* (run F1, `0 0 0 0`). Two forms: E2's own sharing going along and received, and F1's own prior's parity received. The draft's line names E2 only. For the person.
+- ○ **Keep as concern:** the draft's *A me receiving only its own going along, a spiral of one: it is not.* Exhibit ONE's run E2 shares the same `+ 0 − 0` as two selves alike both ways (*Me held up* §4 B), and Natural Physics and Resolving Hard Problems hold it no living. Its wording also meets the sleeping line, *receiving its own parity* (run F1, `0 0 0 0`). Two forms: E2's own sharing going along and received, and F1's own prior's parity received. The draft's line names E2 only. Open.
 - ○ **Anaesthesia** (Registry 98, Resolving 5.9, *phases are couplings, several, each its own*). Is it sleeping, or outward observing resting with the inward alike or parting (§0ac's table)? Open.
 - ◆ **Dreaming under anaesthesia** (Radek et al. 2018; Sanders et al. 2012). Agreeing with outward resting: 84% of 93 interviews after unresponsiveness reported experience, 86% of it internally generated and dream-like, awareness of the surroundings rare (C15). **Parting:** Sanders reads a median 37% connected consciousness in isolated-forearm studies, the outward observing going on.
 
@@ -171,7 +171,7 @@ v391 has no observings here.
   - resolving with the boat and the water together is a 0;
   - resolving with the boat as a fixed surface is a parting;
   - sea legs are a newly aiming 0.
-- ◇ **To check before entering** (§0ab): *a sneeze, an orgasm and tingling are releasings: one changing, then rest.* The person's *fluttering vision* stays out: flashes and visual disturbance can be signs of retinal detachment, migraine aura or a transient ischaemic attack, so it is no sign of health.
+- ◇ **To check before entering** (§0ab): *a sneeze, an orgasm and tingling are releasings: one changing, then rest.* *fluttering vision* stays out: flashes and visual disturbance can be signs of retinal detachment, migraine aura or a transient ischaemic attack, so it is no sign of health.
 - ▼ **Re-say the draft's** *A 0 fixing as not-changing is a departure from health.* as *A 0 fixing, receiving an inverse and sharing no changing, is a departure from health; a sleeping me's 0 waits for its one next changing, step 490.*
 - ◆ **Sensory conflict.** Agreeing: worse below deck, eased by the horizon, adapted over days. Stoffregen et al. 2013 observe body sway differing before sickness.
 - ◆ **Rising to standing.** Agreeing: one changing, then a 0. Blood leaving the head greys vision until reflexes correct.
@@ -259,7 +259,6 @@ Gathered earlier this session and kept: Siclari et al. 2017; Hurovitz et al. 199
 
 ## D. Resolved by binary path, 24 Oct, and what stays open
 
-*The person, 11:35: the person's words are prior language and naming, and none of the words in our files are authority. Resolve in natural naming, and bring only concerns of living value that need more resolving.* The second-pass draft, `Exhibit_THIRTY-ONE_Me_next_v2_marked.md`, carries these resolutions and has had its own harm read.
 
 **Resolved:**
 - **Us in one form:** us is the between of a me and you, same-existing in each, arising only in both together (step 160). A between is its centre, 0 (step 162), and with each momentary us is-or-is-not changing. *A nothing between* drops.

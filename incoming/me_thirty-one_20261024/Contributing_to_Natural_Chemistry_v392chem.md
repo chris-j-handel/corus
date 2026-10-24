@@ -17,7 +17,7 @@
 | §11 *Nothing is copied*: each daughter duplex half prior, half new (Meselson & Stahl 1958) | §0ae *All priors become many nows and all nows are from many priors*; a prior is-or-is-not same-existing in one now | Each parent strand is same-existing in one daughter duplex and received in many nows. DNA's half-prior, half-new is the same form as the old pole going with one *E. coli* daughter |
 | §14 *A me in its society's surface*: anoikis, an ant alone | §0aa, §0ad: a parity is-or-is-not received; a me resolving with what it stands on | A me living is a me receiving. To a cell lifted from its tissue, its tissue's parities are an empty set |
 | §14 Dying bothboth, continuing at a lower scale | 4.4, step 491: its mes inward living on with their own scale | One line |
-| §11, the person's saying *changing us is-or-is-not and same me is-or-is-not* | §0z, bothbothing, the same saying | The same saying, read two ways (2a) |
+| §11's *changing us is-or-is-not and same me is-or-is-not* | §0z, bothbothing, the same saying | The same saying, read two ways (2a) |
 
 ---
 
@@ -42,27 +42,32 @@
 - **Re-saying offered** for §1's test and the atom floor: *a form receiving only its own going along, its other an empty set, a spiral of one, is non-living.* This keeps the lone atom and the noble gas non-living, and two alike, coming again with 4, living.
 
 ### 2c. The us self
-- **The person's offering, at chemistry §3:** *in bi-coupling the you and the me become an us self, one shared-parity self, an interested living thing*. The session's droplet names the opening's *a bi-coupling is a self* the us self.
+- **Chemistry §3's offering:** *in bi-coupling the you and the me become an us self, one shared-parity self, an interested living thing*. The session's droplet names the opening's *a bi-coupling is a self* the us self.
 - **The me session** (resolved 11:35, Thirty-One draft 2.1):
   - step 160: *With a bi-coupling are three: self, other, and a changing between them, same-existing in each self, arising only in both selves together.* The me session reads us as that between. The third in step 160 is a changing, and a self is-or-is-not named there: it is not;
   - step 162: *a bi-coupling's own only its selves' own; a between is its centre, 0*;
   - with each momentary, us is-or-is-not changing;
   - Equilibria 1.3: *Naming a coupling supplies no further self between coupling selves*.
 - **Every 0 a me** (§0u) meets *us self* in part: us is a 0, and every 0 is a me. The us-0 is the one 0 each me shares at one momentary, each me's own, a prior behind it in each. So the us is each me's own 0, shared.
-- **Concern:** one living file set, two readings of one opening line. It is laid at Natural Intelligence's offerings for the opening's own motion, and asked of the person once.
+- **Concern:** one living file set, two readings of one opening line. It is laid at Natural Intelligence's offerings for the opening's own motion.
 
-- **Met, 12:42.** The person: *same-existing now-existing us; an us is a non-existing thing living self; a co-parity.* Thirty-One's draft 2.1 now says: *Us is a co-parity, a non-existing thing living as a me and you, same-existing in each: a bi-coupling's own is its two mes' own, step 162, and naming a coupling supplies no further self between coupling selves, Equilibria 1.3.* The person's offered *us self, one shared-parity self* meets it as the co-parity. Its *self* is said as the living of a me and you, so it is no further self beside them.
+- **Met, 24 Oct.** Thirty-One's draft 2.1, read for harm:
+  - *Us is the between of a me and you, same-existing in each, arising only in both together, step 160: a between is within a bi-coupling, … its centre, 0, and only that, Natural Intelligence 4.10.*
+  - *Us is-or-is-not a self: it is not; the living in us is its two mes' living.*
+  - *After a first sharing, with each momentary the two mes' sharings are-or-are-not the same: the same, co-parity, sharing 0; one inversion apart, bi-parity, step 162.*
+- So chemistry's *one shared-parity self* is the co-parity, the two mes' sharings the same. Its *self* parts.
+- Whether the bi-coupling of two mes is a self beside them, as the opening's *a bi-coupling is a self*, is for the opening's own motion.
 
 ### 2d. *Self-parity*: conscious interest, or sleeping?
-- **The person's offering, at chemistry §8:** *conscious living interest is self-parity, for less environmental dependency on parity changing, adequate for continuing living in dormancy*.
+- **Chemistry §8's offering:** *conscious living interest is self-parity, for less environmental dependency on parity changing, adequate for continuing living in dormancy*.
 - **The me session:** step 390, *a living self receiving its own parity shares 0 … and is same-existing*, is its sleeping me (Thirty-One 3.2). Its waking is an other's parity received inverse, a newly aiming 0.
 - **Two readings:**
   - The offering's dormancy clause leans toward step 390: self-parity as a me receiving its own parity, sleeping, continuing in dormancy.
   - Its *conscious* leans toward a waking me's own aiming, from its own prior (Thirty-One 4.3, *a free me aims*).
-- **Open, for the person:** *self-parity* is-or-is-not a waking me's own aiming.
+- **Open:** *self-parity* is-or-is-not a waking me's own aiming.
 
 ### 2e. *The self loses its me*
-- **The person's offering, at chemistry §14:** *the self loses its me; the living selves of its society continue in their own societies or discontinue too, and continuing is then only at a lower scale*.
+- **Chemistry §14's offering:** *the self loses its me; the living selves of its society continue in their own societies or discontinue too, and continuing is then only at a lower scale*.
 - **Thirty-One 3.1:** *each self is a me*, a thing and a set, one binary. Dying is *a living me going on as non-living with its scale, its mes inward living on with their own scale*, steps 491 and 492.
 - **Re-saying offered:** *a dying me goes on as non-living with its scale, and its inward mes live on with their own scales or complete too*. This keeps each self a me.
 
