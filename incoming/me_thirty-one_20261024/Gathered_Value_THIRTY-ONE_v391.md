@@ -501,7 +501,7 @@ When the swarm arrives and settles, is its me **(a)** completing into a society,
 
 **Concerning expressions, read for harm:**
 1. ***Coming in* is an ingressing word**, one-way, a larger over a smaller. It stands at dimension 1, at Exhibit ONE's table and its line 541, and at Natural Intelligence lines 528, 835 and 1612. Re-saying offered: *opening with 16-next-same-existing*, and at the table *a same-existing-society opening*.
-2. ***Its same self*, said alone at dimension 5, reads as self-stilling.** The file's own other side is line 1577's *re-finding its same self with each momentary* and line 168's *next-existing as a same thing by changing*. Re-saying offered: *A same-existing-society's next is re-finding its same self with each momentary, with 17-next-existing*.
+2. ***Its same self* at dimension 5, resolved.** A same self re-finding itself by changing with each momentary is same-existing (lines 168, 1577). A same self holding still is-or-is-not same-existing: it is not, self-stilling. Dimension 5 is said in line 1577's words: *a same-existing-society's next is re-finding its same self with each momentary*.
 3. **Now and next are each true of a self and of a same-existing-society living as a universal set of living selves.** The parting *a self is its now, a society its next* is withdrawn.
 
 **Waking, Thirty-One draft 3.2, one claim a sentence:**

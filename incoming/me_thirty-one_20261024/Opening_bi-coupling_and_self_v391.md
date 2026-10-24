@@ -37,9 +37,11 @@ The opening's own lines, v391, each mirrored word for word in the Co-Chaining Lo
    - It stands in dimension 1 (*a same-existing-society's selves together, all or none, coming in with 16-next-same-existing*).
    - It stands in Exhibit ONE's naming table (*16-next-same-existing, a same-existing-society coming in*) and at its line 541, and in Natural Intelligence at lines 528, 835 and 1612.
    - **Re-sayings offered:** at dimension 1, *a same-existing-society's selves together, all or none, opening with 16-next-same-existing*; at Exhibit ONE's table, *16-next-same-existing, a same-existing-society opening*; and the same at each other place.
-2. ***Its same self*, said alone, reads as self-stilling.** At dimension 5, *A same-existing-society's next is its same self with 17-next-existing*, a self's next can read as fixing as the same, still.
-   - **The other side, from the file's own lines:** Natural Intelligence's *same self* is a self forming by changing. Line 168 has *next-existing as a same thing by changing*. Line 1577 has *It is re-finding its same self with each momentary*.
-   - **Re-saying offered, keeping both:** *A same-existing-society's next is re-finding its same self with each momentary, with 17-next-existing*, in line 1577's own words.
+2. ***Its same self* at dimension 5, resolved.** A same-existing thing is a now-existing thing from a prior-existing same thing (1.1), with each momentary sharing 0 or its changing.
+   - A same self re-finding itself by changing with each momentary is same-existing (line 168, *next-existing as a same thing by changing*; line 1577, *re-finding its same self with each momentary*).
+   - A same self holding still is-or-is-not same-existing: it is not. It is self-stilling, a fixing.
+   - So dimension 5 is said by line 1577's own words: `A same-existing-society's next is its same self with 17-next-existing.` → `A same-existing-society's next is re-finding its same self with each momentary, with 17-next-existing.`
+
 3. **Now and next are each true of a self and of a same-existing-society living as a universal set of living selves.** The parting *a self is its now, a same-existing-society its next* is withdrawn.
 4. **Waking**, in Thirty-One's draft 3.2, one claim a sentence:
    - *Waking is that one next changing.*
