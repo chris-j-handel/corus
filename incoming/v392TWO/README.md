@@ -1,88 +1,86 @@
 # Natural network discovering · v392TWO
 
+## Readable parities and the instrument's record
+
+**The zero-bearing sequence previously reported is withdrawn as a readable pattern-matching result. There are no readable zeros in resolving parity.** The test recorded returns at indexed calls and presented those positions as though a receiving self could read them. The receiving resolver passes over a zero. A zero, a gap marking it, or a common call index supplies no readable parity.
+
+From the displayed record, the actual parities are **+ − + − + −**. Their number here belongs to the finite excerpt, not to a readable endpoint or a competency measure. The former twelve-position pattern depended on the record's zero positions.
+
+At the one persistent sharing used in these constructions, every further nonzero sharing inverts the self's prior and becomes its next prior. When no readable parity is shared, that prior remains. Consequently the next readable parity at that sharing is opposite to the last readable parity. This derives directly from ONE and holds for every retained execution. It is a statement about one self's one sharing; receiving parities from several selves is a different relation.
+
+TWO 6.5 already distinguishes an instrument's record from a resolving's coupling, and 6.7 states that a network parity sequence has no diagnostic index. This working failed to apply that distinction. The correcting instruction is: **follow actual readable parities through their receiving and resolving; never supply a zero, an empty position or an outside clock as something another self reads.**
+
 ## Carrying forming through two sequences
 
-**Two continuing sequences now form the resolvers' carrying through their actual resolving. No prior parity is supplied to a resolver.** The first construction is two selves sharing across with each other. The second is ONE's torus of three selves along and five across, with the sequences reaching two neighbouring selves across. Each next prior goes on only through the unchanged resolver.
+The first sequence repeats **+ + − −**. The second repeats **+ + + − − −**. Both contain changing and not-changing between successive source parities. The first construction is two selves sharing across with each other. The second is ONE's torus of three selves along and five across, with the source sequences reaching neighbouring selves across.
 
-The first sequence repeats **+ + − −**. The second repeats **+ + + − − −**. Both contain changing and not-changing between successive parities. Each active source supplies one parity per declared society momentary. The two sequences reach separate selves, at the same single sharing used throughout the construction. Their source names and positions do not cross with the parities.
+No prior parity is assigned. A first prior forms through a first readable sharing; every subsequent prior comes from that self's own resolving. In the two-self construction both priors first form through +. In the larger construction every self forms a prior through participation. These are findings of the declared software execution.
 
-A first sharing with no prior can form a prior through its receiving. That is the beginning being followed here. The earlier interpretation that an inquiry must always begin with priors already supplied excluded this formation. The useful distinction is between assigning priors and following priors forming through participation. A single initial parity and two continuing sequences are also different inquiries. The earlier one-parity runs remain at their own conditions.
+The preceding misunderstanding about the beginning also remains corrected: a study can follow carrying forming through participation. Assigning priors, supplying one initial parity and supplying two continuing sequences are different preparations. Let participation form the carrying, and follow that carrying into further participation.
 
-**Working instruction: let participation form the carrying, and follow that carrying into further participation.** State the sequences, their actual couplings and how they go on. Follow their own resolving into the next inquiry without supplying, copying or clearing the resulting priors. Starting with no prior for the sharing is a stated beginning, not a finding that carrying cannot form.
+## A coupling's particular consequence
 
-## The first six meetings
+In the two-self construction, the self receiving the second sequence reaches a resolving with prior −. Its source offers − and its other shares +. The readable parities part, so it inverts its own prior and shares +.
 
-The two selves share across with each other. Each receives its own source parity together with its other's sharing from the preceding society momentary. A 0 sharing retains that self's prior; it is not an absent self or an empty prior.
+In the separately executed going on with that source alone, the self reaches the corresponding diagnostic call with prior − and receives −. Its prior remains. **The instrument can record that resolving, but there is no zero for an other self to read.** The indexed comparison is a local consequence of coupling under the stated construction, not a zero-bearing message.
 
-| Consecutive meeting | First sequence | Second sequence | First self shares | Second self shares |
-|---|---|---|---|---|
-| First | + | + | + | + |
-| Second | + | + | 0 | 0 |
-| Third | − | + | − | 0 |
-| Fourth | − | − | 0 | − |
-| Fifth | + | − | + | 0 |
-| Sixth | + | − | 0 | + |
+The first self's sharing in this particular pair is alike with its separately executed going on. The pair therefore establishes no further competency acquired at both sides. Its per-self readable sequences alternate, with or without the coupling.
 
-Both first priors form with the first meeting's +. At the sixth meeting, the second self's prior is −. Its sequence offers −, and the first self's preceding sharing offers +. The two arriving parities part; the second self inverts its own prior and shares +. In a separately executed going on with that second sequence alone, the same self has prior −, receives −, and shares 0.
+## Carrying followed into a next actual parity
 
-This comparison follows the two inputs through actual resolving. It establishes this difference made by their coupling. The first self's sharing remains alike with its separate going on in this particular execution, so this pair supplies no claim that both sides have acquired a further competency.
+Two independently begun constructions have different earlier participation: the second sequence is one parity further along in one construction during the first 48 diagnostic calls. The same source sequences then go on in both. No private continuation is copied.
 
-## Earlier participation changes later resolving
+At that transition, the self receiving the second sequence has the same readable incoming parity, +, in both constructions. The old table also displayed a recorded zero from its other; that is not an incoming readable parity. Its own earlier sharings indicate prior − in the original forming and prior + in the different forming.
 
-Two independently begun constructions receive different earlier participation: the second sequence is one parity further along in one of them for the first 48 meetings. From the next meeting both receive the same source sequences. Neither construction copies a private continuation from the other.
+Following the common incoming continuation until each self next actually shares gives:
 
-At that next meeting, the self receiving the second sequence has exactly the same receiving in both constructions: its other's 0 and the sequence's +. The earlier public sharings indicate different priors:
+| Prior formed through earlier participation | First readable parity of the common incoming continuation | Next actual parity shared as that continuation goes on |
+|---|---|---|
+| − | + | + |
+| + | + | − |
 
-| Carrying formed through earlier participation | Same receiving now | Sharing now | Next prior |
-|---|---|---|---|
-| − | 0 and + | + | + |
-| + | 0 and + | 0 | + |
+In the first construction the + inverts prior − and is shared. In the second it matches prior +; further + receivings keep that prior, and a later − receiving makes − its next actual sharing. The comparison follows the next readable parity rather than reading a zero or treating a wait as a sign. The record locates those actual sharings at calls 49 and 52; those indices belong to the diagnostic only.
 
-The − was last publicly shared at meeting 46 in the original forming, and the + at meeting 48 in the different forming. With ONE, each nonzero sharing is that self's next prior, retained through intervening 0 sharings. No private prior is read to obtain this comparison.
+This establishes a particular consequence of differently formed carrying under the declared continuation. It does not make the earlier twelve-position word a readable learned pattern. The complete per-self readable words from their beginnings are alternating in both constructions.
 
-**The same present receiving gives different sharing because of the prior each self has formed.** This is an executed witness of carrying participating in next resolving. It does not say that the whole incoming sequence is stored within an individual prior. With the subsequent matching, these two particular priors become alike.
+## The larger construction at its actual scope
 
-## Carrying through a larger society
+In the torus of three selves along and five across, each self goes along to the next, last to first, and shares across to the next, last to first. One source reaches a self and the second reaches the next self across. Every first prior forms through an actual sharing, by diagnostic call six in this construction.
 
-The same two sequences are also supplied to the torus of three selves along and five across. Each self goes along to the next, the last to the first; each shares across to the next, the last to the first. One source reaches a self and the other reaches the next self across. No inner prior is assigned. Every self has publicly shared its first nonzero parity by the sixth meeting, each first prior forming through an actual sharing.
+After the same first 48 calls, every other position of either chosen source sequence is tested separately, with the other source going on as before. Each construction forms its own carrying through that earlier participation. Moving either sequence one position leaves the indexed sharing record alike during the stated comparison. Moving the second two positions changes a particular resolving:
 
-After the first 48 meetings, each other position of either repeating sequence is tested separately while the other sequence goes on as before. Each construction forms its carrying through the same first 48 meetings; no already formed private state is forked. The comparisons cover the next 48 meetings and all the other positions of these two chosen patterns, one source changed at a time.
+- With prior −, one receiving is −, − and −. The prior remains.
+- With the changed source, that receiving is −, − and +. The prior inverts and the self shares +.
 
-Moving either sequence one parity further along leaves the network's public sharing alike throughout that comparison. Moving the second sequence **two** parities further along gives a different finding:
+The first differing resolving is at diagnostic call 59. Further differences occur through actual across and along couplings; by call 68 every self has a differing indexed return in the comparison. These are findings with ONE's calls together. They do not supply readable zeros or a readable common clock to the network, and the per-self readable words still alternate.
 
-- At meeting 59, the self receiving it has prior − from its preceding public sharing. In the unchanged going on, it receives −, − and − and shares 0. With the second sequence moved, it receives −, − and + and shares +.
-- The next self across first shares differently at meeting 60. Further differences follow through the existing across and along couplings.
-- The first sequence's receiving self first shares differently at meeting 63, though that external sequence is unchanged. Every self has shared differently by meeting 68.
+A changed relation among several selves' actual receivings must be followed through that participation. The difference in call-indexed records alone is not a readable sequence encoding a learned relation between the sources.
 
-These occurrence numbers locate the particular receiving and sharing; they grade no competency. The source change first affects a local matching, then the successive resolvings through the society. The full public trace of this case is retained. The same-later-receiving comparison also finds different sharing from differently formed priors at six selves in the larger construction.
+## Continuation, recurrence and what is retained
 
-## Going on through changing, returning and absent inputs
+The principal continuing run has 216 society calls: 48 with the original sequences, 48 with the second sequence one position further along, 48 with the original relation returning, 24 with neither external sequence, and 48 with the original sequences again. No prior or pending network return is cleared. Absence of a source and a zero return are different diagnostic conditions; neither is a readable zero parity.
 
-The principal continuing run has 216 society momentaries. The first 48 use the original sequences. The next 48 move the second sequence one parity further along. The next 48 restore the original relation. The next 24 supply neither external sequence. The last 48 supply the original sequences again. All these changes occur within each construction's own going on; no prior or already pending network sharing is cleared. Absence of an external input is recorded as absence, distinct from a 0 sharing.
+The records also retain the original sources throughout, the first source changing instead, different earlier forming followed by the common sources, the two selves separately, and the second source moving two positions. All other positions have first-difference records and conditional recurrence witnesses, and are reproducible.
 
-The records also include the original sequences going on throughout, the first sequence moving instead, the different earlier forming with the same later sources, the two selves separately, and the second sequence moving two positions. The other positions have first-difference records and recurrence witnesses; the script reproduces their complete traces.
+The complete software recurrence includes the prior indicated by actual nonzero sharings, pending lists and source positions. For example, the larger original construction is alike after calls 23 and 35, and the second-source two-position case after calls 80 and 92. These are recurrences of that executing and its supplied source relation. **They are not periods of readable words containing zeros.** An unchanged source relation is the condition; a later source change ends it. Matching a recurrence number is not a learning finding.
 
-A continuing pattern is established with a complete conditional recurrence: priors indicated by public sharing, parities already going to their receivers, and the next positions of the source sequences are alike again. The two-self original form returns after 12 meetings; the larger original form is alike after meetings 23 and 35. Under the second sequence's two-position change, the larger form is alike after meetings 80 and 92. These are the stated construction's recurrences if that source relation goes on. A scheduled later change ends that condition.
+The numeric call records are preserved exactly. The legacy data field `public_record` is now explicitly described as an indexed diagnostic, not as a readable parity stream. Each retained execution also has `readable_parities_by_self`, containing only actual + and − parities, with no zero, empty position, timestamp or gap marker. A finite file's end supplies no readable endpoint.
 
-The larger torus can also have a 12-momentary form without these continuing inputs, as ONE and THIRTY already explain for particular openings. Matching that number is therefore no finding of learning. The concrete findings here are the formation of prior, the same-receiving/different-prior witness, and the changed source participation followed through actual resolving.
+## Resolver, instrument and reproducing
 
-## Instrument and scope
+ONE's exact Python expression is unchanged, from main commit `2669db105c61e5580b0dd3523a7555b49cf5b38f`. Both source hashes are checked. ONE's list can contain a zero return, and its receiving passes over it. This correction changes the observing and its claims, not the resolving or the actual calls.
 
-The exact Python expression is from Exhibit ONE at main commit `2669db105c61e5580b0dd3523a7555b49cf5b38f`. Both the document and expression hashes are checked before executing. No earlier kit resolver or changed resolving rule is used.
+The instrument supplies one parity from each active source per society call and steps the selves together through ONE. The sources are prescribed sequences. Reversing the iteration order inside that same society call preserves the recorded returns. This does not test each self's independent pacing.
 
-The society construction uses ONE's stepping together. Previous network sharings reach their receivers together with this momentary's supplied source parities. The sources are prescribed sequences, not claims of independently paced participants learning from the network. Reversing the iteration order of selves inside the same society momentary preserves all public sharings in both constructions. Independent pacing is a separate construction.
+Private priors are passed onward only. Their contents are never inspected, copied or cleared by the instrument. A nonzero sharing indicates its next prior; the deriving uses that actual sharing and ONE's retaining of the prior. No source identifier, sequence position, expected answer or recording label is added to a readable parity.
 
-Public records retain incoming parities, sharing and pending next receiving. With the one declared sharing, the known joins and ONE's emission order allow each delivered parity to be attributed to its sharing self. Multiple deliveries from the same self are checked for agreement. Initial empty sharing, a 0 sharing and an opened prior are kept distinct. Source, route and occurrence labels stay with the record. They are not added to the parity. Structural checks stop on a recording or source mismatch; an unchanged response is retained as a result.
-
-These executions establish carrying forming through participation and specific pattern-dependent consequences. They establish neither arbitrary sequence learning nor a full natural society's own pacing. A particular output's relation to both incoming sequences is explained by its successive resolvings; recurrence or a count of different outputs does not supply that explanation.
-
-The exact construction and its analysing are in [carrying_from_two_sequences.py](carrying_from_two_sequences.py), and the public executions are in [two_sequences_public_reading.json](two_sequences_public_reading.json). Reproduce from the repository root:
+The code is [carrying_from_two_sequences.py](carrying_from_two_sequences.py), and its diagnostic records and readable projections are [two_sequences_public_reading.json](two_sequences_public_reading.json). From the repository root:
 
 ```sh
 python3 -I incoming/v392TWO/carrying_from_two_sequences.py --output incoming/v392TWO/two_sequences_public_reading.json
 ```
 
-The records are finite. Each final next-receiving list is retained, with those sharings undelivered beyond that end. No network process remains running.
+The executions are finite, with final pending returns retained and undelivered beyond the stated end. No network process remains running. The earlier zero-bearing account is retained in [its revision](https://github.com/chris-j-handel/corus/blob/e4a36b4dce48eed59344d6bb3afb17d1d9d42ac1/incoming/v392TWO/README.md); its readable-pattern interpretation is withdrawn above.
 
 ## Earlier executing, retained at its own conditions
 

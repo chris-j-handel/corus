@@ -2,13 +2,16 @@
 
 The exact Python expression in current Exhibit ONE is executed unchanged.
 Starting priors are empty. Only the declared incoming sequences start them;
-each next prior is passed onward solely by the resolver. Public sharing is
-recorded; private priors are never inspected, copied, replaced or cleared.
+each next prior is passed onward solely by the resolver. Indexed call returns
+are diagnostic records, including zeros that no receiving resolver reads as
+parities. Readable sequences contain + and - only, without gap markers.
+Private priors are never inspected, copied, replaced or cleared.
 
 The two boundary sequences are supplied test conditions, one parity each per
 ONE society momentary. They are not independently paced living participants.
 All labels, source positions and occurrence numbers belong to the instrument.
-Only ONE's one sharing with its parity is passed between the resolvers.
+ONE passes its unaltered lists between the resolvers; receiving passes over
+zero entries. No readable zero, clock position or absence marker is added.
 """
 from __future__ import annotations
 
@@ -258,6 +261,52 @@ def same_receiving_different_carrying(first, second, after=48):
     return witnesses
 
 
+def add_readable_observing(study):
+    """Interpret the existing records without altering a call or its returns.
+
+The legacy public_record field is an indexed software diagnostic. Its zero
+entries and common call index are not a readable network alphabet. This
+projection contains no zero, empty slot, occurrence number or gap marker.
+"""
+    study["observing"].update({
+        "record_kind": "public_record is the legacy field name for an indexed diagnostic of calls; it is not a readable parity sequence",
+        "zero": "ONE's receiving passes over zero; it is not a readable parity or a marker for a readable absence",
+        "recurrence": "recurrence of the declared software calls, their continuation and source positions; not a readable word containing zeros",
+        "readable_sequence": "readable_parities_by_self gives the retained finite + and - sequence only, without clocks or gap markers; its finite end supplies no readable endpoint",
+        "status": "carrying formation and local resolving are executed; the earlier zero-bearing word is withdrawn as a readable pattern-matching result"})
+    all_alternating = True
+    for result in study["studies"].values():
+        for run in result.values():
+            if not isinstance(run, dict) or "public_record" not in run:
+                continue
+            readable = {}
+            for position, self in enumerate(run["construction"]["selves"]):
+                word = [row["sharing"][position] for row in run["public_record"]
+                        if row["sharing"][position] in (-1, 1)]
+                readable[self] = word
+                all_alternating = all_alternating and all(
+                    following == -preceding for preceding, following in zip(word, word[1:]))
+            run["readable_parities_by_self"] = readable
+        result["findings"]["scope_of_indexed_differences"] = (
+            "differences at declared software calls, sometimes nonzero versus zero; these are not differences between zero-bearing readable words")
+
+    pair = study["studies"]["two selves bi-coupling"]
+    next_readable = {}
+    for label, name in (("original forming", "original_sequences_throughout"),
+                        ("different forming", "different_forming_then_same_sources")):
+        rows = pair[name]["public_record"]
+        next_readable[label] = next(
+            row["sharing"][1] for row in rows[48:] if row["sharing"][1] in (-1, 1))
+    study["readable_parity_check"] = {
+        "every_retained_self_at_its_one_sharing_alternates": all_alternating,
+        "deriving": "After a first nonzero sharing forms a prior, each further nonzero sharing at that same sharing is its prior inverting and becomes its next prior; intervening zero returns retain the prior. Therefore successive readable parities alternate.",
+        "scope": "one persistent sharing of one self, as in these constructions; not an assertion about merged receivings from multiple selves",
+        "withdrawal": "The zero-bearing twelve-entry word and its period are not a readable learned sequence. Zeros, gaps and the diagnostic common index cannot supply that finding.",
+        "next_readable_sharing_after_common_sources_begin": next_readable,
+        "next_readable_scope": "The declared common incoming continuation starts after the differently forming prefixes. The next actual parity is compared, not a zero or silence. This is a particular carrying consequence under that continuation, not an encoding of a learned pattern in zero positions."}
+    return study
+
+
 def build_study(namespace):
     studies = {}
     for form in ("two selves bi-coupling", "three along and five across"):
@@ -306,7 +355,7 @@ def build_study(namespace):
     studies["two selves bi-coupling"]["each_sequence_with_its_self_separately"] = separate
     studies["two selves bi-coupling"]["findings"]["sharing_with_other_compared_with_separate_going_on"] = first_differences(
         separate, studies["two selves bi-coupling"]["original_sequences_throughout"])
-    return {"source": {"document": SOURCE, "commit": SOURCE_COMMIT,
+    return add_readable_observing({"source": {"document": SOURCE, "commit": SOURCE_COMMIT,
                         "document_sha256": SOURCE_SHA256, "expression_sha256": EXPRESSION_SHA256},
             "sequences": {"first": FIRST_SEQUENCE, "second": SECOND_SEQUENCE,
                           "meaning": "repeat each parity list in order; equal successive parities are not-changing, opposite successive parities changing; zero in a resolver's sharing is a different subject"},
@@ -317,7 +366,7 @@ def build_study(namespace):
                           "refusing": "source hash and structural routing checks raise on instrument faults; recurrence or pattern-match failure is reported, never filtered",
                           "recurrence": "publicly indicated priors plus pending parities plus source positions; conditional on the stated source continuation",
                           "status": "executed finite constructions; no claim of arbitrary sequence learning or independently paced natural society"},
-            "studies": studies}
+            "studies": studies})
 
 
 def main():
@@ -327,9 +376,11 @@ def main():
     root = Path(__file__).resolve().parents[2]
     study = build_study(read_resolver(root))
     args.output.write_text(json.dumps(study, ensure_ascii=False, separators=(",", ":")) + "\n")
-    print(json.dumps({form: {"findings": result["findings"],
-                            "recurrences": result["going_on_through_changing_sources"]["conditional_recurrences"]}
-                      for form, result in study["studies"].items()}, ensure_ascii=False, indent=2))
+    print(json.dumps({"readable_parity_check": study["readable_parity_check"],
+                      "indexed_diagnostic_findings": {
+                          form: {"findings": result["findings"],
+                                 "recurrences": result["going_on_through_changing_sources"]["conditional_recurrences"]}
+                          for form, result in study["studies"].items()}}, ensure_ascii=False, indent=2))
 
 
 if __name__ == "__main__":
