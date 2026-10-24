@@ -2,7 +2,7 @@ Natural Intelligence · incoming · v392chem
 
 # Natural Chemistry · a proposed opening, from the v392chem exploring
 
-**This is a proposal for Natural Chemistry's next version: its way in, written as Natural Intelligence's opening is written, one claim a line.** Each line draws only on the lines before it and on Natural Intelligence's opening. Nothing here changes a living file. The proposal goes first to a reading for harm by a reader who did not write it, then to the person, one question at a time.
+**This is a proposal for Natural Chemistry's next version: its way in, written as Natural Intelligence's opening is written, one claim a line.** Each line draws only on the lines before it and on Natural Intelligence's opening. Nothing here changes a living file. The proposal goes first to a reading for harm by a reader who did not write it, then to our exploring together, one question at a time.
 
 Each line is marked:
 - ✦ new;
@@ -29,7 +29,7 @@ The observing behind each line is in [the living learning](Living_Learning_v392c
 ✦ Living's molecules are of one hand, right spiral. *(§5)* \
 ✦ A molecule's form of opposite hand is an emanation, harmful to living of its own scale and ingestible one scale lower. *(§5)* \
 ✦ With right-spiral selves bi-coupling, their stable form at the next scale is of opposite hand: position, scale and orientation inverting together. *(§5)* \
-○ **Water** is a society of molecules each bi-coupling two and two, co-alternating with its others. *(§3; "alternating" is a dissolved word, and "co-alternating" is the person's)* \
+○ **Water** is a society of molecules each bi-coupling two and two, co-alternating with its others. *(§3; "alternating" is a dissolved word, and "co-alternating" is our exploring's)* \
 ✦ A **0** is a molecule's do-no-harming in its pair's co-sequence, the me same while the you improves. *(§11)* \
 ✦ A **crystal** is a molecule society's stable-forming emanation, non-living. *(§9)* \
 ✦ Each molecule's form is-or-is-not within a crystal's stable form with each momentary. *(§9)* \
@@ -52,7 +52,7 @@ Natural Physics has its way in, *with code a physical coupling is Exhibit ONE's 
 
 ## What is open before any line enters
 
-**Three opens, each its own question to the person:**
+**Three opens, each its own question for our exploring:**
 1. *The atom non-living at 5, the molecule the first self at 7.* This parts from Natural Societies 5.3 and from the v390 resolution of an atom's inception.
 2. *Co-alternating.* "Alternating" is dissolved across the set, so the line needs its word met.
 3. *The molecule a self.* Each self is co-intelligencing within a universal set. A molecule's me would be its others at each momentary (§4), and that needs saying in the opening's words.

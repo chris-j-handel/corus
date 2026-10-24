@@ -4,7 +4,7 @@ Natural Intelligence · incoming · v392chem
 
 **Session v392chem aims at a new version of Natural Chemistry living at corus.me.** This folder holds the session's wide gathering of chemistry, whole as it arrived. It stays here until each of its values is a droplet at the offerings of the living file it concerns. Then it goes whole to `archive/`, relied on by nothing. No living file changes from this folder.
 
-**The living learning, for the whole set and every parallel session:** [Living_Learning_v392chem.md](Living_Learning_v392chem.md), what the exploring with the person found in natural explaining: carbon at 5 handless and the hand at 7, a molecule as one self, the us self and water, uniqueness as me–you and me–all other, right-spiral living and left-coiling emanation with its break said first, the tendril at each prime scale, carbon met with Exhibit ONE's stable forms, dormancy, the virus a ghost, nucleation; its values laid as 46 droplets at eighteen files' offerings.
+**The living learning, for the whole set and every parallel session:** [Living_Learning_v392chem.md](Living_Learning_v392chem.md), what our exploring found in natural explaining: carbon at 5 handless and the hand at 7, a molecule as one self, the us self and water, uniqueness as me–you and me–all other, right-spiral living and left-coiling emanation with its break said first, the tendril at each prime scale, carbon met with Exhibit ONE's stable forms, dormancy, the virus a ghost, nucleation; its values laid as 46 droplets at eighteen files' offerings.
 
 **The front:** [Natural_Chemistry_Wide_Gathering_v392chem.md](Natural_Chemistry_Wide_Gathering_v392chem.md). It gathers four things, maps them and aims them into our understanding of chemistry:
 

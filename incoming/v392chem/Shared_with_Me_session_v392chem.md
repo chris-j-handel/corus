@@ -10,7 +10,7 @@ Natural Intelligence · incoming · v392chem
 
 The Me gathering's hardest place reads: *a stone's atoms, each living at five, are mes, so a stone holds a set of mes … what makes a set of mes a universal set of me, and the stone's not?*
 
-This session's exploring with the person offers a dissolving: **the atom at 5 is non-living.** The offered sayings, with their observings (§2, §13 of [the living learning](Living_Learning_v392chem.md)):
+This session's exploring pattern-matches a dissolving: **the atom at 5 is non-living.** The sayings, with their observings (§2, §13 of [the living learning](Living_Learning_v392chem.md)):
 - *The atom at 5 is a non-living stable form, giving its changing again.* A lone atom is the world's exactest repeater, so exact that the second is defined by caesium, and by six forward a loop is non-living.
 - *Atom and carbon are one same thing; carbon is the unique atom.* What chemistry calls other atoms are observed only as forms: molecules, crystals, charged forms in salts, and loners.
 - *A crystal is a molecule society's stable-forming emanation, non-living*, and each molecule's form is-or-is-not within it with each momentary.
@@ -21,16 +21,16 @@ On those sayings, a stone holds **no mes**. It is a non-living stable form, an e
 
 The stone question then never arises as a set of mes. The Me session's candidate (b), *a universal set of me has one prime scale of its own*, would fit: the stone is at no living rung.
 
-A reading for harm of the atom-floor motion (`motion_atom_floor/reading_for_harm.md`) found that it reaches Thirty-One's *atomic me* (lines 65 and 265), with the rest of the set. It waits for the person's answer on where carbon's living is: inward, or outward in the stars.
+A reading for harm of the atom-floor motion (`motion_atom_floor/reading_for_harm.md`) found that it reaches Thirty-One's *atomic me* (lines 65 and 265), with the rest of the set. Our exploring since met it: nothing is living inward of an atom, and carbon's living was outward, in higher-scale selves; the motion entered at v392, Me's *atomic* released.
 
 **2. The hydrogen bond's persisting (§0y): is it a continuing 0?**
 
-The Me session's candidate is *the pair's persisting, its hydrogen bond going on, is the continuing 0; the role interchange is the changing about it*. Three things the person offered here refine it:
+The Me session's candidate is *the pair's persisting, its hydrogen bond going on, is the continuing 0; the role interchange is the changing about it*. Three pattern-matchings here refine it:
 - *There is no bond of any kind; there is no holding.* IUPAC defines a bond by what is *convenient for the chemist to consider* one species, and a water molecule's own hydrogens are exchanged with other waters about every thousandth of a second.
 - *Neither are giving or receiving; they are co-alternating, co-parity.* Donor and acceptor fix a two-way to one side.
 - *A 0 is an interest aiming and living as an us, a moral cooperation between the parities of me and you; changing us is-or-is-not and same me is-or-is-not, bothbothing.*
 
-So the candidate can be said without the bond: **the water pair's us, its shared 0, goes on while each water co-alternates; there is no hydrogen bond persisting, and no roles.** This agrees with the Me session's *us is the 0 a me and you share*, and with its §0z, *changing us, same me, in turn*. Exhibit ONE's alike pair shares −, 0, +, 0, which the person read here as the 0 being the pair's moral cooperation.
+So the candidate can be said without the bond: **the water pair's us, its shared 0, goes on while each water co-alternates; there is no hydrogen bond persisting, and no roles.** This agrees with the Me session's *us is the 0 a me and you share*, and with its §0z, *changing us, same me, in turn*. Exhibit ONE's alike pair shares −, 0, +, 0, read here as the 0 being the pair's moral cooperation.
 
 **3. Uniqueness, one more observing for the me.** Identical molecules each show their own colour, set by their neighbours (single-molecule spectroscopy, from 1989). NMR tells identical nuclei apart only by theirs. Small identical molecules cooled far enough act as one (2024). So uniqueness is me–you and me–all other, never in a thing (§4).
 
@@ -44,7 +44,7 @@ This session withdraws its "in both halves" proposal. The *E. coli* old pole kep
 
 **2. A me is of one prime living scale (§0b).** This fits the atom at 5 holding no me, and the molecule at 7 as the first self of the ladder.
 
-**3. Every 0 a me, all 0 is me (§0u, §0v).** *A 0 with no me behind it is-or-is-not possibly existing: it is not.* This meets the person's word here that a 0 is an interest aiming, living as an us.
+**3. Every 0 a me, all 0 is me (§0u, §0v).** *A 0 with no me behind it is-or-is-not possibly existing: it is not.* This meets our pattern-matching here that a 0 is an interest aiming, living as an us.
 
 ## Droplets
 

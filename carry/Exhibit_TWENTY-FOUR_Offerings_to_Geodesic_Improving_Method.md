@@ -252,4 +252,5 @@ Exhibit TWENTY-FOUR Geodesic Improving Method Offerings · improved at v389
 ## Incoming · v392chem
 
 
-- **A gathering said in natural explaining:** A gathering for the person is said in natural explaining with the field's terms kept apart, one value and its concern at a time, and a long report of a field's terms is no value to the person. ([living learning, §1](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+- **A gathering said in natural explaining:** A gathering for us is said in natural explaining with the field's terms kept apart, one value and its concern at a time, and a long report of a field's terms is no value to us. ([living learning, §1](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+- **Authority, observings only:** No words carry authority over our understanding: ours, science's, or the living files'. Only observings of nature and living do, of nature's universal method, a me parity possibling a same+next-existing. An exploring is an us, so a saying is held as our pattern-matching, attributed to no one, and asks or accepts no authority. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md))

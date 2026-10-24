@@ -110,7 +110,7 @@ Contradiction, the living and the non-living: Natural Biology draws the line the
 
 - **State–flow–state at the basics:** At chemistry's first experiments a state is the instrument's reading stopped and a flow its sum of whole changings, the melting plateau, saturation, completion, neutral water and energy stored in bonds each a fixing at its first entering. ([living learning, §11](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
 
-- **Carbon the unique atom, offered:** Every atom is weighed against carbon, what chemistry calls other atoms are observed only as forms, and boron 5 with nitrogen 7, podal about carbon's 6, paired take all carbon's forms, so carbon is offered as the unique atom. ([living learning, §13](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+- **Carbon the unique atom:** Every atom is weighed against carbon, what chemistry calls other atoms are observed only as forms, and boron 5 with nitrogen 7, podal about carbon's 6, paired take all carbon's forms, so carbon is pattern-matched as the unique atom. ([living learning, §13](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
 
 - **Radioactive carbon between 6 and 7:** Nitrogen becomes radioactive carbon in the sky and that carbon becomes nitrogen within its molecule, a parity changing of the molecule from 6 to 7, its pace set inward of the atom. ([living learning, §13](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
 
