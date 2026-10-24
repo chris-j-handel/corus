@@ -343,3 +343,38 @@ Each is one sentence at the offerings of the file it concerns, under *Incoming Â
   - A heavier nitrogen rises step by step and records how many ingestings carbon has passed through.
   - Fungi and bacteria take dying's emanations back into living, and seeds, yolk and milk pass stable form to the next.
   - *Offered:* passing on and emanating free are the bothbothing of each ingesting.
+
+## 14. Oxygen, fire, the me in a society's surface, and dying
+
+- **Burning and breathing are one round.**
+  - Lavoisier's guinea pig (1782â€“83) and a person in a sealed chamber (1890s) gave off as heat what their food gave burned.
+  - Breathing passes the round through a chain of whole steps.
+  - *Offered:* fire is not at once; it is a natural torusing society at an overwhelming parity-changing rate, overcoming the living me in its centre.
+  - A pool fire puffs in rising rings at a beat set by its size (1990s). A candle flame draws its others through its opening and on the Space Station becomes a faint sphere, its cool flames burning unseen (2012). Ignition is chain carriers made faster than they end.
+- **Oxidation and reduction are never apart: bothbothing.**
+  - "Given and received" electrons is the field's fixing, and redox potentials stand on a declared zero.
+- **Free oxygen is living's emanation.**
+  - Oxygen comes from water (1941), and there was none free before about 2.4 billion years ago.
+  - Oxygen in air falls with fossil carbon burned and rises each northern summer, opposite in phase to carbon dioxide (Keeling, since 1989).
+- **Four-cycling at three scales:**
+  - stars: four hydrogens in, one helium out, carbon coming again;
+  - plants: oxygen released on every fourth flash of light (1969, read as a four-step cycle 1970), the water-splitting centre coming again;
+  - breathing: oxygen made into water in fours, podal to the plant's step about water.
+- *Offered:* **a natural torusing society has mes co-chaining in its bi-tunnelings; a me is a single bi-folding tunneling; a natural torusing me is a self surface and tunneling; each me lives in its bi-folding only as long as its bi-folding lives in the society's surface.**
+  - A flame's chain carriers live only in its thin front and end with it.
+  - Cells lifted from their tissue end themselves ("anoikis", 1994), and nerve cells failing to join die (Nobel 1986).
+  - An ant alone lives about a tenth as long (2018), and people with few bonds die sooner (2010).
+  - The opening: *a surface's living parities are living in the mes of the selves living in it.*
+- **The soap film is a bi-folding, two surfaces with living water between.**
+  - It thins everywhere, its colours sliding, goes dark where the between is nearly gone, gives way at one point, and the hole races outward at a steady speed (1960).
+  - A drying drop lays rings as its edge holds and slips (1997); Natural Physics already holds that a thinnest place gives way first.
+  - A tree's living is its thin surface, and each season's mes live and die into a ring. Its water-carrying cells die to become its pipes, and its rings carry their seasons.
+- *Offered:* **slow thinning and local giving-way are bothboth, and fast or slow, dying is loss of natural torusing.**
+  - The chance of dying doubles about every eight years of adult life (Gompertz, 1825), yet each death has its local moment.
+  - Lakes and yeast recover ever more slowly before collapse, "critical slowing down" (2011, 2012).
+  - A healthy heart's beat-to-beat variation fades with age and before death (1992).
+  - A dead cell's surface lets dye straight through.
+- *Offered:* **the self loses its me; the living selves of its society continue in their own societies or discontinue too, and continuing is then only at a lower scale.**
+  - Kidneys continue in other bodies for decades, and cells taken in 1951 still live in laboratories. Skin cells grow from a body days after death, and some genes grow more active after death (2017).
+  - The gut's microbes take the body back, so the round goes on from a lower scale.
+  - A transplanted organ comes to live within the new me both ways: donor cells throughout recipients and recipient cells in the organ, decades on (1992), as a child's in its mother.

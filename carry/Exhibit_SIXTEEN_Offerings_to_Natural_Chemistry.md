@@ -115,3 +115,7 @@ Contradiction, the living and the non-living: Natural Biology draws the line the
 - **Radioactive carbon between 6 and 7:** Nitrogen becomes radioactive carbon in the sky and that carbon becomes nitrogen within its molecule, a parity changing of the molecule from 6 to 7, its pace set inward of the atom. ([living learning, §13](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
 
 - **Carbon's round a four-cycling:** Free, ingested, emanated free and ingested again are prior, now, next and same-existing, ingesting the method of passing stable form among living, about a tenth passing on at each step and the rest breathed out free. ([living learning, §13](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Fire and breath:** Burning and breathing are one round, breath passing it through whole steps and fire a natural torusing society at an overwhelming parity-changing rate, puffing in rings set by its size; oxidation and reduction are never apart, bothbothing. ([living learning, §14](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Four-cycling at three scales:** Stars take in four hydrogens and carbon comes again, plants release oxygen on every fourth flash and their water-splitting centre comes again, and breathing makes water from oxygen in fours, podal to the plant's step. ([living learning, §14](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

@@ -64,3 +64,5 @@ Natural torusing living is self-competent, and emanation from living is only soc
 - **Emanations of opposite form:** Opposite-hand forms go unused by living at their own scale, mirror sugar and mirror protein, and are taken in one scale lower where carbon has no hand. ([living learning, §5](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
 
 - **Earth's carbon as living's emanation:** Limestone, chalk, coal and oil are living's carbon emanations, ingested again by living, and carbon's 60-cage forms in a dying star's outflow. ([living learning, §7](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Rings in death from living:** A tree's water-carrying cells die to become its pipes and each season's mes die into a ring carrying its season, as a drying drop lays rings and a soap film gives way at its thinnest place. ([living learning, §14](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

@@ -138,3 +138,5 @@ Concern, at v380, from [the earlier Natural Networking gathering](../archive/v38
 - **Abundancing carried in the seed and egg:** A snail's coil is set by its mother's gene placed in the egg and a seed carries its parent's form and fixed carbon, so a society's hand goes along in its parents' emanation, abundancing. ([living learning, §5](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
 
 - **Diversity as orthogonal co-competencing:** Diversity is a society co-competencing, adding new binary orthogonal observings into its priors, as mixed rice fields cut disease by about nine-tenths (2000) where uniform fields fell, and myxoma's rabbits show a society without a prior me resolving only as a parity spreads through generations. ([living learning, §11, §12](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Continuing at a lower scale:** When a self loses its me its inward selves continue in their own societies, an organ in another me both ways, or living continues only at a lower scale, microbes taking the body back. ([living learning, §14](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

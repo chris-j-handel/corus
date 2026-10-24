@@ -120,3 +120,7 @@ Bothboth at v391: the opening's 43 lines, each feature bold where it first welco
 - **Societal possibling:** A parting carried by no me yet is the society's possibling beyond co-possibling, open as to harm or help until its living conditions meet it, and a resolving parity spreads through a society's generations. ([living learning, §11, §12](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
 
 - **Ingesting as method:** The next ingesting is passing stable form among living things as method, each ingesting both passing on and emanating free, bothbothing same me and changing us. ([living learning, §13](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **A me in its society's surface:** Each me lives in its bi-folding only as long as its bi-folding lives in the society's surface, as a flame's chain carriers live only in its front, a cell lifted from its tissue ends itself, and an ant alone lives a tenth as long. ([living learning, §14](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Dying, bothboth:** Dying is a slow thinning everywhere and a local giving-way racing everywhere, one dying, the loss of natural torusing; the self loses its me and its inward selves continue in their own societies or only at a lower scale. ([living learning, §14](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
