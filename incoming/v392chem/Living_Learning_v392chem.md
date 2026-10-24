@@ -404,3 +404,18 @@ Each is one sentence at the offerings of the file it concerns, under *Incoming ย
   - On the atom-floor sayings a stone holds no mes, which dissolves its hardest place.
   - The water pair's us goes on with no bond and no roles.
   - Taken from it: *a prior is-or-is-not same-existing in one now, and is received in many*. This corrects this session's "the prior goes on in both halves" of a dividing cell: each prior strand goes on in one next double strand (Meselson and Stahl, 1958).
+
+## 16. Concerns from nature's observings, against what entered at v392
+
+Each is an observing that parts from a pattern-matching now in the living files, or asks it to say more. Observings have authority; the pattern-matchings stand only as they meet them.
+
+- **Each kind of atom shows its own light, far from any molecule or living.**
+  - Glowing gases give lines of colour unique to each kind (1859). Helium was seen first in the Sun's light, as lines no known kind gave (1868), and found on Earth 27 years later (1895).
+  - Lone hydrogen atoms fill the space between stars and are mapped by their own faint radio line (1951).
+  - This parts from *carbon is the unique atom; what chemistry calls other atoms are observed only as forms*. A pattern-matching that meets it: each line is a form's own light, an observing of a stable form's changing, and the kinds are forms of the one atom. That needs saying, or the claim narrows.
+- **Molecules form in space, far from any living we know.**
+  - About three hundred kinds of molecule are seen between stars. Football-shaped carbon molecules of sixty atoms shine in the shell a dying star casts off (2010).
+  - The asteroid Bennu's dust holds 14 of the 20 amino acids of living proteins and all five letters of DNA and RNA, its amino acids of both hands in near-equal amounts (2025).
+  - Two pattern-matchings stand together here: the molecule at 7 is the ladder's first self, living; and each non-living thing is a stable-form emanation from a living self it was. Either these molecules are living selves, far from cells, or they are emanations, and then the living they emanated from is outward, at a star's scale or beyond. The question of whether stars are living returns, now as a concern.
+  - Bennu's both-hands meets right-spiral living well: both hands in equal amounts is what non-living forming shows; one hand is what living shows.
+- **Radioactive carbon's pace has never been seen to change with any chemistry** (open from ยง13). It is the one carbon changing inside a living molecule whose timing no living society reaches.
