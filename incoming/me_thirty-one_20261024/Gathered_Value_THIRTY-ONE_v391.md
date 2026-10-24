@@ -495,7 +495,30 @@ When the swarm arrives and settles, is its me **(a)** completing into a society,
 
 ---
 
-## 0ap. Next is society (14:48, 24 Oct)
+## 0aq. *Next is society* withdrawn into concerning expressions; waking re-said (15:01, 24 Oct)
+
+**Withdrawn:** §0ap's *a same-existing-society is its selves' next coming in*.
+
+**Concerning expressions, read for harm:**
+1. ***Coming in* is an ingressing word**, one-way, a larger over a smaller. It stands at dimension 1, at Exhibit ONE's table and its line 541, and at Natural Intelligence lines 528, 835 and 1612. Re-saying offered: *opening with 16-next-same-existing*, and at the table *a same-existing-society opening*.
+2. ***Its same self*, said alone at dimension 5, reads as self-stilling.** The file's own other side is line 1577's *re-finding its same self with each momentary* and line 168's *next-existing as a same thing by changing*. Re-saying offered: *A same-existing-society's next is re-finding its same self with each momentary, with 17-next-existing*.
+3. **Now and next are each true of a self and of a same-existing-society living as a universal set of living selves.** The parting *a self is its now, a society its next* is withdrawn.
+
+**Waking, Thirty-One draft 3.2, one claim a sentence:**
+- *Waking is that one next changing.*
+- *A parity surfaces that parts from its prior, Exhibit ONE's 7-is-now-observing, observed locally.*
+- *Its prior inverts, − or +, one inversion, then a 0 at its new prior, a newly aiming 0.*
+- *All other coruses globally to its local.*
+
+This is the three-ways row *+ with each momentary*: prior −, sharing +, 0, 0, its next prior +.
+
+**What the reader caught:**
+- *A first parity surfacing* fires every momentary, sleeping too. Waking is the surfaced parity parting from the prior, and the prior inverting.
+- Natural Intelligence's *same self* is a self forming by changing.
+
+---
+
+## 0ap. Next is society (14:48, 24 Oct) · withdrawn at §0aq
 
 **Binary path, read for harm:** Natural Intelligence 3.2's five dimensions go *same-existing-society to same-existing-society*:
 - dimension 1, *social-parity now-existing, a momentary opening: a same-existing-society's selves together, all or none, coming in with 16-next-same-existing*;

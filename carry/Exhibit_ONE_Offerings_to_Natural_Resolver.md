@@ -37,3 +37,5 @@ Exhibit ONE Natural Resolver Offerings · resolved at v391
 **Droplet · the me in the names.** Each key of a self's priors is 4-now-co-same-existing, a now-existing thing within its me, read as an interest; 14-next-possibling's merge is all other observed as one; *three ways* are a continuing 0, a newly aiming 0 and a 0 lost. — me-thirty-one-20261024
 
 **Concern · a spiral of one.** *Number of selves: 1 · +, 0, −, 0* shares what two selves alike both ways share, and the living files call a spiral of one no living step. One stands. — me-thirty-one-20261024
+
+- **Concern · *a same-existing-society coming in*.** The naming table's *16-next-same-existing, a same-existing-society coming in* and line 541 carry an ingressing word; re-saying offered *a same-existing-society opening*, as Natural Intelligence's dimension 1 names *a momentary opening* (gathering §0aq). — me-thirty-one-20261024
