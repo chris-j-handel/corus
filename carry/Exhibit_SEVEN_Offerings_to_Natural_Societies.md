@@ -141,3 +141,11 @@ Concern, at v380, from [the earlier Natural Networking gathering](../archive/v38
 - **For the atom-floor motion.** A lone atom repeating its changing is a spiral of one, its other an empty set, non-living; Thirty-One's draft ladder line at 1.3 now waits ○ on this motion (`incoming/me_thirty-one_20261024/Contributing_to_Natural_Chemistry_v392chem.md` §2b, §2f). — me-thirty-one-20261024
 
 - **Droplet · co-aiming.** With each momentary a set of mes is-or-is-not co-aiming, each aiming its own, all in one direction into one interest, its own its mes' own (steps 162, 297), as a swarm co-aims to one home and completes on settling; whether colony at 41 to biosphere at 53 are mes or same-existing-societies is this file's own motion (gathering §0aj) — me-thirty-one-20261024
+
+- **Droplet · the v389 standing, met.** Sixteen of the standing concerns are met by binary path with old → new pairs copied exact from v391, read for harm, each for this file's own motion: order of 4.4 to 4.6, part titles, all edge across momentaries, parity comparability, *floor*, member and society, birthing, nyeing as completing, *rest* as 0 in turn, the prime partings, a society's sameness (step 297), authority, references, glycine, φ, *in neither self alone* (`incoming/me_thirty-one_20261024/Natural_Societies_improving_v391.md` §A). — me-thirty-one-20261024
+
+- **Droplet · no common clock, observed.** A hive's social cues set its bees' clocks without contact (Fuchikawa et al. 2016), and social jetlag, body time against work or school time, goes with smoking, weight and lower wellbeing (Roenneberg et al.), at 2.3 (`incoming/me_thirty-one_20261024/Natural_Societies_improving_v391.md` §B1). — me-thirty-one-20261024
+
+- **Concern · the rungs above the organism.** Colony to biosphere, and 4.2's outward clause, beside step 297's *its own only its selves' own*: each rung a same-existing-society co-aiming, or a me with a parity its own; community leans to the first (Gleason), colony split, biosphere contested, population open (`incoming/me_thirty-one_20261024/Natural_Societies_improving_v391.md` §C1). — me-thirty-one-20261024
+
+- **Concern · 4.4's *alike with next*.** One sharing 0 and one + is Exhibit ONE's one-way row; two alike both ways share 0 together (`incoming/me_thirty-one_20261024/Natural_Societies_improving_v391.md` §C2). — me-thirty-one-20261024

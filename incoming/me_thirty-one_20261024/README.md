@@ -72,3 +72,7 @@ No living file is changed. Each droplet waits for its own file's motion: propose
 
 `Contributing_to_Natural_Chemistry_v392chem.md` reads the v392chem session's living learning, proposed opening and atom-floor motion (`working/natural-chemistry-v392chem`, at 4bcf6d1). It shows where the two sessions cohere: uniqueness by others, the lone atom as a spiral of one, nothing copied with many priors and many nows, dying at a lower scale. It names five places where they part, each with a re-saying offered: the 0 line, the loop test, the us self, self-parity and *the self loses its me*. A separate reader read it for harm. Its droplets stand at the offerings of Natural Chemistry, Natural Intelligence and Natural Societies.
 
+## Natural Societies, gathered for improving, 24 October
+
+`Natural_Societies_improving_v391.md` meets sixteen of Natural Societies' standing concerns, standing since v389, by binary path. Each comes with old → new pairs copied exact from v391. It aims in the me session's value, ties the file to nine hard problems with the Resolving Registry's readings, and names two places still needing resolving. A separate reader read it for harm.
+

@@ -495,6 +495,34 @@ When the swarm arrives and settles, is its me **(a)** completing into a society,
 
 ---
 
+## 0ak. Natural Societies, gathered for improving (13:23, 24 Oct)
+
+Whole at `deliver/Natural_Societies_improving_v391.md`, read for harm.
+
+- **Sixteen standing concerns, met by binary path.** They have stood since v389. Each is met with an old → new pair, copied exact from v391:
+  - the order of 4.4 to 4.6;
+  - the part-title notes;
+  - all edge across momentaries;
+  - parity in place of cardinal magnitude;
+  - *floor*;
+  - a member and its society;
+  - birthing as Exhibit ONE's birth;
+  - nyeing as completing;
+  - *rest* as 0, in turn;
+  - the third prime parting as its first again;
+  - a society's sameness (step 297);
+  - authority as natural resolving;
+  - the fields' references;
+  - the glycine axis;
+  - φ;
+  - *in neither self alone*.
+- **The me session's value aimed in:** no common clock (Fuchikawa; social jetlag), co-aiming, the live descent (Centola), completing and division, self and not self.
+- **Still needing resolving at its own motion:**
+  - C1: the rungs above the organism, and 4.2's outward clause. Community leans to a society, colony is split, biosphere is contested, and population is open.
+  - C2: 4.4's *alike with next*.
+
+---
+
 ## 0aj. Co-aiming in place of closing (13:17, 24 Oct)
 
 **Withdrawn:** §0ai's *closing at a next prime scale with one parity of its own: closing, it is a me of that scale*.
