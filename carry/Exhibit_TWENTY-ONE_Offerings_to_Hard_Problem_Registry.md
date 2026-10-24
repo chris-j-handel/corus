@@ -154,3 +154,5 @@ Exhibit TWENTY-ONE Hard Problem Registry Offerings · improved at v389
 - **Droplet · a new entry, the combination problem** (James 1890, mind-dust; Chalmers 2017): how lower subjects make a higher one; met as lower mes are-or-are-not combining into a higher me: they are not, a me a thing and a set, one binary, its own as a parity at its scale and its inward mes' own as a set (gathering §0ai). — me-thirty-one-20261024
 
 - **Droplet · 207 multicellularity.** Snowflake yeast (Ratcliff et al. 2012): cells selected for settling stay joined and settle as one, cells co-aiming, each cell its own (gathering §0aj). — me-thirty-one-20261024
+
+- **Droplet · 98 Anesthesia.** Chemically diverse agents, one form: for the disconnected, a bi-coupling across scales separating on the larger scale's side and the smaller scale floating, each its own, coheres with Resolving 5.9's *one convergent quieting of a network's long couplings*; the critical volume's swelling and its partial pressure reversal stand as history beside protein targets (gathering §0am). — me-thirty-one-20261024

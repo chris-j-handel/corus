@@ -495,6 +495,30 @@ When the swarm arrives and settles, is its me **(a)** completing into a society,
 
 ---
 
+## 0am. Anaesthesia: separating on the larger scale's side, floating on the smaller's (14:05, 24 Oct)
+
+**Explored:** a swelling on one side only of a bi-coupling surface. On the larger scale's side the swelling separates the bi-coupling, and the smaller scale's side floats rather than co-possibling: anaesthesia.
+
+**Binary path, read for harm:**
+1. Between scales, a bi-coupling across is one parity at a time, each scale its own (step 595). A me and its inward mes bi-couple across their scales.
+2. For a me under general anaesthesia and disconnected (3.3), that bi-coupling is separating on the me's side, the larger scale's.
+3. Its inward mes, the smaller scale's, go on floating among themselves, each its own. Their co-possibling with the me is an empty set. (Natural Mathematics: *Floating is bi and across: a surface, two ways forward, relating.*)
+4. **Swelling is a size,** and a size brings a third. So natural explaining says it as the separating, is-or-is-not, and keeps the swelling as the field's own measure.
+5. **Connected and aware patients** (Sanders et al. 2012, a median 37%) are a me whose bi-coupling across is sharing. The line names the disconnected only. Awareness within surgery is a harm anaesthetists monitor for.
+
+**Observings, no authority:**
+- **The swelling's history.** Meyer 1899 and Overton 1901 tie potency to dissolving in fat. Mullins 1954 and Miller et al. 1973 add the critical volume and pressure reversal: high pressure partly reverses anaesthesia, in animals. Agreeing in part.
+- **The parting.** Franks & Lieb 1984 reproduced the potency order with a fat-free protein, firefly luciferase, and the field moved to protein targets.
+- **Lipid clusters.** Pavel et al. 2020 (*PNAS*): anaesthetics loosen ordered lipid clusters, releasing PLD2, which opens TREK-1 channels and makes neurons harder to fire. Flies with less PLD2 needed about twice the exposure. This is one proposed mechanism among several.
+- **Top-down more than bottom-up.** Ku et al. 2011, Lee et al. 2013, Raz et al. 2014 and Imas et al. 2005 find frontal-to-parietal feedback preferentially inhibited and bottom-up sensory responses relatively spared. Reading the feedback as the larger scale's side is ours.
+
+**What the reader caught:**
+- Step 595's *one scale sizing another's, a seat over it* names a bi-coupling across's ordinary form, never a separating. That pointer dropped.
+- *One side only* and *first* overclaimed from *preferential*.
+- *Is not sharing* left out the connected and aware.
+
+---
+
 ## 0al. The open places resolved by Exhibit ONE's names (13:54, 24 Oct)
 
 **The test, read for harm twice.** Exhibit ONE's names *of one*, without co, are a self's: 8-now-same-existing, *each self's next prior parities*, and 13-is-next-discovering. A same-existing-society's 16-next-same-existing is of one too. The name *between two* is a bi-coupling's: 5-now-co-existing.
