@@ -577,7 +577,7 @@ When the swarm arrives and settles, is its me **(a)** completing into a society,
    - *Carrying of prior* and *releasing* are one sleeping read from two scales: the me carrying unchanged, its inward selves releasing.
 
 **Observings, no authority.**
-- Xie and colleagues 2013 (*Science* 342:373) observe the brain's interstitial space opening by about 60% in sleep, with metabolites clearing faster: the brain's own cells physically relax apart.
+- Xie and colleagues 2013 (*Science* 342:373) observe the brain's interstitial space opening by about 60% in sleep, with metabolites clearing faster: the brain's own cells physically relax apart. Contested: Miao and colleagues 2024 (*Nature Neuroscience*) observe clearance reduced in sleep and anaesthesia, so it stands as an observing with its counter-finding.
 - Tononi and Cirelli 2014 (*Neuron* 81:12): synapses strengthened through waking are scaled down in sleep, which they read as renewing the capacity for the next day's learning.
 - Blumberg and colleagues: the twitches of REM sleep, while the muscles are otherwise slack, are many small releasings, which they observe forming the body's own sensorimotor map.
 
