@@ -29,9 +29,9 @@ Ground: only observings of nature and living have authority over our understandi
 
 ## Concerns left open, most pressing first
 
-1. **Is a growing crystal living?** If a uranium crystal resolving is a living self, salt and ice crystals forming are-or-are-not living too. The learning's nucleation, the proposed opening's crystal line and the stone answer given to the Me session all said *a crystal is non-living*; each is now said *non-living once its living completes, a stable form*, and waits on this.
-2. **Each kind of atom shows its own light.** Glowing gases give lines unique to each kind (1859); helium was seen first in the Sun (1868); lone hydrogen atoms fill the space between stars (1951). *Carbon the unique atom* needs saying against this, as each line a form's own light, or it narrows.
-3. **Where the Sun and the solar system stand outward, and the top of the ladder.** Natural Societies' 53 row says the biosphere is *the widest scale that closes … past which is a not-torus death*. Which rung the solar system is, and whether the planets are its selves or its stable forms, decides how that row is re-said. Venus's backward spin and Uranus's roll ride on the planets' answer.
+1. **Met since:** *a crystal forming is a living society*, uranium, salt and ice alike, non-living once its living completes, a stable form (learning §21). Nucleation, the opening's crystal line and the stone answer to the Me session follow it. Open within it: on which prime scale a crystal self is.
+2. **Light is misunderstood.** *Shows its own light* carries a ghost: light as a thing a form owns and sends. What is observed is a changing at one end and a changing at the other, the same lines both ways, each shifting with its surroundings (learning §21). Helium, first known only as a line at the Sun's edge and first found on Earth from a uranium crystal, is the next to explore.
+3. **Met already:** the Sun is a self within the solar system's society (learning §18). Natural Societies' 53 row, *the widest scale that closes … past which is a not-torus death*, is re-said to meet it as a pass, with no question left open.
 4. **Carbon was made in the stars and its living was outward.** Which selves carbon emanated from, *each living self from seven up* or the stars on a next ladder outward, needs one saying.
 5. **Steadiness against answering.** What a field calls a radioactive pace changes with no chemistry, pressure or warmth on Earth, yet rhenium stripped of its electrons changes a thousand million times faster. What society sets the pace of a living crystal's resolving, the deep Earth's or the solar system's? Is the Earth a living self beside the Sun?
 6. **Living with no sunlight.** A bacterium deep in a gold mine (2008) lives alone, paced by uranium crystals' resolving, near-dormant. Swimming algae resolve light while moving, and skin makes vitamin D from ultraviolet. *Plants alone resolve light* meets each only as candidates.
@@ -55,7 +55,7 @@ Ground: only observings of nature and living have authority over our understandi
 
 ## Where a next session starts
 
-1. The crystal question (concern 1), since it decides nucleation, the opening's crystal line and the stone answer shared with the Me session.
+1. Light and helium (concern 2), since a misunderstood light reaches every observing of a line, a star and a plant's aiming.
 2. Check the §16–19 observings against sources.
 3. Natural Transmissioning's one saying, then the set-wide bond and hold motions.
 4. Return to chemistry's survey: the tendril at the population and community scales, water's co-chainings, the hand from five to seven, Rubisco's oxygen, and the nine first frontier binaries.

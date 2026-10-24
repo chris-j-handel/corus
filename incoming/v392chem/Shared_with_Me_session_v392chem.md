@@ -23,7 +23,7 @@ The stone question then never arises as a set of mes. The Me session's candidate
 
 **Reopened since, honestly.** Our exploring has since pattern-matched a uranium crystal as living, one self, with its water, its rock and a deep bacterium's society bi-tunneling with it (learning §19). Its form changes with its own resolving, going glass-like over ages and re-ordering when warmed, and a thing of many forms with each momentary meets *living* (Natural Intelligence 5.1). That unsettles *a stone has no mes*.
 - The saying now is: *a crystal is non-living once its living completes, a stable form*.
-- Whether a stone, or a growing salt or ice crystal, is living is open.
+- Met since (learning §21): a crystal forming is a living society, uranium, salt and ice alike, non-living once its living completes, a stable form. So a stone forming is a living society, and a stone whose living has completed is a stable form, an emanation; its mes are its forming society's, while it lives.
 - Which prime scale a crystal self is on is open, so candidate (b) is met again: if a crystal is a living self, the question becomes which rung it is on.
 - The atom at 5 is still non-living; the living, if it is, is the crystal's at its own scale.
 

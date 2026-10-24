@@ -715,3 +715,23 @@ Each is an observing that parts from a pattern-matching now in the living files,
   - 2.2 uses B-DNA and Z-DNA as opposite hands (line 203).
   - 4.7 cites the 2021 salt-in-tube film as all-or-none support (§9).
   - Line 165's role name "reacher" on hydrogen, bare *coupling* about 148 times, and equilibria words at 183, 201, 233, 249, 289, 379 and 429, each for its own pass.
+
+## 21. Crystals forming are living society; light misunderstood; helium next
+
+- *Pattern-matching:* **all this is living society: a crystal forming is a living society, uranium, salt and ice alike.** A crystal is non-living once its living completes, a stable form. This meets §9's nucleation, the opening's crystal line and the stone answer shared with the Me session. Open within it: on which prime scale a crystal self is.
+- *Pattern-matching:* **the solar system was already met (§18):** the Sun is a self within the solar system's society. Natural Societies' 53 row is a pass to re-say, with no question open.
+- *Pattern-matching:* **we misunderstand the concept of light.** *Each kind shows its own light* carries a ghost: light as a thing a form owns and sends across.
+- **Observings that meet it:**
+  - **The same lines both ways.** A glowing gas gives bright lines; the same gas, cooler, set before a brighter glow, takes dark lines at exactly the same places (1859). The line belongs to the gas with what it meets, giving or taking, bothboth.
+  - **A line answers its surroundings.** Lines split in a magnet's field (1896) and in an electric field (1913), widen as the gas is pressed, and shift with motion and with a star's pull. A dense gas or a solid gives a smooth glow with no lines. Lines show only where the form is sparse, and each shows its bi-couplings, as the pace of §19 did.
+  - **Light is observed only at its two ends.** Nothing is seen of light between a giving and a taking. Faint light arrives at a detector all or none, one click at a time, and at a divider one click goes to one side only (1977, 1986). Natural Chemistry already says of the proton *water's going above, with no thing travelling*, and the Living Society Registry says *what reaches a detector is not what left*.
+  - *Pattern-matching, for exploring:* light is a bi-coupling's between: a releasing at one 9 and a going along at an other's 17, with no thing travelling.
+- **Helium, and why it may matter for light:**
+  - **Helium was first known only as light.** A yellow line in the light at the Sun's edge, seen at an eclipse (1868), matched no known form, and for 27 years helium was only that line. It shows at the Sun's surface, the between of the Sun and the solar system's society, and only faintly from the body of the Sun.
+  - **Helium was first found on Earth from a uranium crystal** (cleveite, 1895), and the helium of the Earth's gas wells comes from uranium's and thorium's resolving. What a field calls an alpha particle is helium: gathered in a sealed glass tube over days, it shows helium's lines (1909).
+  - **Two societies, one pattern.** The Sun ingests hydrogen and emanates helium as its stable form, and light goes free. The uranium crystal emanates lead as its stable form, and helium goes free. Helium is the free emanation of the one as light is of the other. *Pattern-matching, for exploring:* light is the Sun's free emanation, harmful at its own scale and ingestible one scale lower, by plants aiming.
+  - **Helium bi-couples with almost nothing.** It forms no molecule under ordinary conditions (one under enormous pressure, 2017), loops alone, and leaves the Earth into space. Cooled, it never freezes unless pressed, and below about two degrees above absolute zero the whole liquid flows as one, without resistance, climbing walls (1938). The loner, cooled, acts as one society.
+- **Concerns for the next exploring:**
+  - Is light a between with nothing travelling, or the Sun's free emanation, or bothboth?
+  - Helium's lines are known from the Sun's edge, the uranium crystal's emanation and the glowing tube alike. What does a line observe, if light owns nothing?
+  - These observings are from memory and are checked against sources before any enters a living file.

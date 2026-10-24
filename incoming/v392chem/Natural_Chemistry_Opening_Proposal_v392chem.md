@@ -34,7 +34,8 @@ The observing behind each line is in [the living learning](Living_Learning_v392c
 ✦ With right-spiral selves bi-coupling, their stable form at the next scale is of opposite hand: position, scale and orientation inverting together. *(§5)* \
 ○ **Water** is a society of molecules each bi-coupling two and two, co-alternating with its others. *(§3; "alternating" is a dissolved word, and "co-alternating" is our exploring's)* \
 ✦ A **0** is a molecule's do-no-harming in its pair's co-sequence, the me same while the you improves. *(§11)* \
-○ A **crystal** is non-living once its living completes, a stable form. *(§9, §19: first said as a molecule society's stable-forming emanation, non-living; whether a growing crystal is living is open)* \
+✦ A **crystal** forming is a living society. *(§21: uranium, salt and ice alike)* \
+✦ A crystal is non-living once its living completes, a stable form. *(§9, §19, §21)* \
 ✦ Each molecule's form is-or-is-not same-existing with a crystal's stable form with each momentary. *(§9)* \
 ✦ **Dissolving** is a living society taking a stable form back into its living. *(§3)* \
 ✦ **Ingesting** is by a society's bi-tunneling, its stable form taken one scale lower. *(§12)* \
@@ -62,7 +63,7 @@ Natural Physics has its way in, *with code a physical coupling is Exhibit ONE's 
 1. *The atom non-living at 5, the molecule the first self at 7.* **Resolved:** the atom-floor motion entered at v392, 57 sentences across 11 files, Natural Societies 5.3 among them, after a reading for harm.
 2. *Co-alternating.* "Alternating" is dissolved across the set, so the line needs its word met.
 3. *The molecule a self.* Each self is co-intelligencing with a universal set. A molecule's me would be its others at each momentary (§4), and that needs saying in the opening's words.
-4. *The crystal.* A uranium crystal is pattern-matched as living, one self (learning §19), so whether a growing crystal is living, and on which prime scale, is open.
+4. *The crystal.* Met (learning §21): a crystal forming is a living society, non-living once its living completes. On which prime scale a crystal self is stays open.
 5. *Bond, fire and dying.* These three lines are new from §14, §15 and §20 and wait for their own reading for harm.
 
 **Rules met:** one claim a line; *is-or-is-not* the one negation; no floating *no*, *not* or *never*. Words dissolved in the set (*itself*, *couple*, bare *coupling*, *membrane*, *crossing*, *carrying*) are absent.
