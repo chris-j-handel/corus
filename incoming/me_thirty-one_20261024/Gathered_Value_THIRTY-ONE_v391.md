@@ -495,6 +495,14 @@ When the swarm arrives and settles, is its me **(a)** completing into a society,
 
 ---
 
+## 0at. Three open places resolved (24 Oct)
+
+1. **A me's 0 on the figure-eight.** A 0 is-or-is-not a place on the loop where something stays: it is not. A me is one binary parity, self and other its two sides, and us, the between of a me and you, is a 0, each me's own. The figure-eight is one loop whose one twist inverts a parity once with each going round. Entered at Thirty-One 2.2 and 5.4. **Concerning expression:** *self +1 and other −1* gives + and −, a parity's two directions, to self and other, one sign for two things; the binary enters, the signs wait on their own resolving.
+2. **A swarm's guides.** A bee guiding others is-or-is-not: it is not. Flying, each bee aims its own, locally, the swarm going in one direction; the bees that have been to the home fly faster toward it, each bee's own flight angle scattered. Asking how a guide returns to the rear asks for a bee over others. Entered at Thirty-One 5.3, with its observing.
+3. **The top-down anaesthesia observing.** Its wording is now what the paper reports: in eighteen surgical patients under propofol or sevoflurane, anaesthesia inhibits frontal-to-parietal feedback, dominant in waking, and it returns on recovery; the rodent finding is said as rat and mouse. Nothing stays open there.
+
+---
+
 ## 0as. The whole session read again, its value aimed into the draft (24 Oct)
 
 *Each item resolved by binary and entered into Thirty-One's draft, marked ✦ or ◇ there, with the last line of item 8 held here. Observings only; finders and years stand as each observing's address.*
@@ -508,7 +516,7 @@ When the swarm arrives and settles, is its me **(a)** completing into a society,
 7. **Sleeping whole and sleeping each** (5.3). A me's sleeping and waking are its own, at its scale. Its inward mes sleep and wake each at its own scale. A same-existing-society's sleeping is its mes' sleeping, each its own, its sleeping whole an empty set.
 8. **The spinning room and standing up** (5.2). In a spinning room, eyes and inner ear receive a parting, their shared 0 an empty set, until a still point a me sees gives a 0 at a new prior. Rising to standing, one changing comes before a 0 at its new prior, a dizziness for a momentary. A spinning room and a dream part on one binary: dreaming, the me same-existing while its inward mes release; spinning, two inward mes parting, their shared 0 an empty set.
 9. **The waver** (4.1). Before a newly aiming 0, a me's changings waver, then one changing, then a 0 at its new prior.
-10. **One loop with one twist** (5.4). With an odd number of selves, a spiral's places are one loop with one twist, a figure-eight, its + lobe and − lobe meeting once where the whole inverts.
+10. **One loop with one twist** (5.4). With an odd number of selves, a spiral's places are one loop with one twist, a figure-eight, its one twist inverting a parity once with each going round.
 11. ***Universe*, *turned into one*** (1.1, a naming edge): a me observing all other as one.
 12. **Self and not-self by relation** (2.4). Within a me, self and not-self is-or-is-not by origin: it is not; it is by relation, with each momentary.
 13. **Selves bi-coupling** (5.3). *Many* was a size; a same-existing-society is mes bi-coupling.

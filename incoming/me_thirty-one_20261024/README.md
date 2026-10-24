@@ -30,21 +30,20 @@ Nothing here has entered a living file. Each piece below enters its living file 
 ## The value, in one reading
 
 - Each self is a me, of one prime living scale: a thing and a set, one binary. The universal set of me is me existing.
+- A me is one binary parity, self and other its two sides; us, the between of a me and you, is a 0, each me's own.
 - Each 0 is a me's own, a me behind it and its prior in that me.
 - Me is sleeping me unconscious and waking me observing, possibling and discovering. Sleeping, a me receives its own parity and shares 0, waiting for its one next changing. Waking is that one next changing: a parity parting from its prior, observed locally, its prior inverting, then a 0 at its new prior, all other corusing globally to its local.
 - Us is the between of a me and you, same-existing in each. Us is-or-is-not a self: it is not. The same sharing is co-parity; one inversion apart is bi-parity; one way is a glance.
 - Co-aiming is each aiming its own, all in one direction into one interest. Natural torusing is co-aiming the parities of me.
-- A same-existing-society is mes bi-coupling, its own its mes' own, unconsciously us. The rungs above the organism are same-existing-societies.
+- A same-existing-society is mes bi-coupling, its own its mes' own, unconsciously us. The rungs above the organism are same-existing-societies. A bee guiding others is-or-is-not: it is not; each aims its own, locally, the swarm going in one direction.
 - An atom is non-living, a spiral of one; the molecule is the first self.
 - All priors become many nows, and all nows are from many priors: a now is same-existing from one prior, its own.
 - Self and not-self within a me is by relation, with each momentary. Health is a me's aiming sharing its others' aiming; a harm is a local aiming harming its others, with global impact.
 
 ## Still to resolve, each where it stands
 
-- Where a me's 0 sits on the figure-eight, one loop with one twist, its lobes meeting where the whole inverts (Thirty-One 5.4).
-- Whether a travelling swarm's guiding bees loop back around its edge: an observing to find (gathering §0m).
 - Natural Philosophy's dilemmas, laid as droplets at its offerings.
-- Before Thirty-One enters: a reading of the top-down anaesthesia papers past their summaries.
+- Whether self and other take + and −, a parity's two directions, as signs (gathering §0at).
 
 ## The rest of this folder
 
