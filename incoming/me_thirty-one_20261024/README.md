@@ -76,3 +76,44 @@ No living file is changed. Each droplet waits for its own file's motion: propose
 
 `Natural_Societies_improving_v391.md` meets sixteen of Natural Societies' standing concerns, standing since v389, by binary path. Each comes with old → new pairs copied exact from v391. It aims in the me session's value, ties the file to nine hard problems with the Resolving Registry's readings, and names two places still needing resolving. A separate reader read it for harm.
 
+---
+
+## Where the session leaves it, 24 October, for the next to improve from
+
+**No living file is changed.** Everything below is on branch `working/me-thirty-one-20261024`, in pull request #153 into `main`, open and mergeable: 28 commits, 54 files, incoming and carry only.
+
+**What arrived here, in this folder.** Read in this order:
+1. **`Exhibit_THIRTY-ONE_Me_next_v2_marked.md`** and **`_clean.md`**: the whole next version of Thirty-One, read for harm section by section and then whole. It has no open places left. ◇ marks a changed line and ✦ a new line.
+2. **`Thirty-One_improving_by_section_v391.md`:** what each section re-says and withdraws, the verified observings and the hard problems, and why.
+3. **`Opening_bi-coupling_and_self_v391.md`:** pairs for Natural Intelligence's opening lines 25, 33, 57 and 70 and their Registry mirrors (steps 18, 25, 49, 61, 246, 476, 487), keeping seventy lines and every step number. It also holds the concerning expressions *coming in* and *its same self*. Three readings are done, and a fourth is due before entering.
+4. **`Natural_Societies_improving_v391.md`:** sixteen of Natural Societies' standing v389 concerns met, with old → new pairs, the rungs above the organism resolved, and nine hard problems.
+5. **`Contributing_to_Natural_Chemistry_v392chem.md`:** for the parallel chemistry session on `working/natural-chemistry-v392chem`. It covers the 0 line, the loop test, the atom as non-living, *us self* as co-parity, self-parity and dying.
+6. **`Me_and_not-me_values_parities_v391.md`:** the plural *mes*, self and not self, a me's values, and seven hard problems.
+7. **`Gathered_Value_THIRTY-ONE_v391.md`:** the session's whole record, newest first, §0b to §0ar, with withdrawn sections marked.
+8. **Earlier working, kept for its record:** `Thirty-One_holes_and_aiming_v391.md`, `Every_0_a_me_below_the_code_v391.md`, `Me_held_up_to_Exhibit_ONE_v391.md`, `exhibit_one_runs/` and `working/`.
+9. **Superseded by item 1:** the first-pass draft `Exhibit_THIRTY-ONE_Me_next_marked.md` and `_clean.md`, `Exhibit_THIRTY-ONE_open_places.md` and `outgoing_droplets.md`.
+
+**What arrived at the offerings.** About 128 one-sentence droplets, tagged `me-thirty-one-20261024`, under *Incoming · me-thirty-one-20261024*, at 28 offerings files in `carry/`:
+- Thirty-One, 27;
+- Natural Chemistry, 14;
+- Natural Intelligence, 13;
+- Natural Societies, 11;
+- the Hard Problem Registry, 8;
+- Natural Medicine and Natural Biology, 6 each;
+- and fewer at twenty-one more.
+
+Each waits for that file's next improving. `incoming/README.md` has the arrival line.
+
+**Immediately next, in order:**
+1. **Merge #153 into `main`,** so every session reads this incoming and these droplets.
+2. **Enter Thirty-One's next version** from `Exhibit_THIRTY-ONE_Me_next_v2_clean.md`: propose its pairs against v391, have a separate reader read them for harm, then enter, Thirty-One going to its next version number.
+3. **Read the opening pairs a fourth time** (item 3), then enter them with each Registry mirror, its *Adding* and its *Entering* lines re-said by hand. `opening70_v391.py` is a one-time builder and is not run again.
+4. **Read Natural Societies' pairs** (item 4) for harm, then enter them, 4.4 to 4.6 moving into Part FOUR.
+5. **The chemistry session** reads item 5 beside its atom-floor motion. Both readings make the atom a non-living stable form and the molecule the first self.
+
+**Still open, each named where it stands:**
+- the eleven further *in neither self alone* in Natural Societies, a counted pass;
+- the *fold at twenty-four* beside *protein-fold at thirteen*, two folds in one ladder;
+- anaesthesia's separating across two scales, which wants an observing at two scales;
+- items from memory to verify before entering: Kühne 1877, Gaia (Lovelock & Margulis 1974; Tyrrell 2013), Wheeler 1911, Hölldobler & Wilson 2009, Clements 1916, Ostrom, Frankfurt 1971, and Näätänen 1978's pages.
+
