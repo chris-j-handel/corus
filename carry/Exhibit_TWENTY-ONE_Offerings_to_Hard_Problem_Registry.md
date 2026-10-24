@@ -136,3 +136,8 @@ Exhibit TWENTY-ONE Hard Problem Registry Offerings · improved at v389
 - **Entries 122 on unread at v391**: readers stopped there three times on an automated flag; their flagged words mostly a field's own *carries* and *different*, standing as entries 58 to 121 do.
 
 - **Consciousness's hinge resolved toward *a me is consciousness***: a not-conscious self is-or-is-not possibly existing, it is not; consciousness with each scale where a self is; the field's collisions at IIT's exclusion and biology's cognition apart from consciousness. Exhibit THIRTY-ONE Me; `incoming/v391/Binary_Understanding_v391.md` part THREE.
+
+## Incoming · v392chem
+
+
+- **Homochirality after 2026:** The 2026 Nobel Prize in Chemistry recognised that a small excess of one hand is amplified, which settles amplification in the laboratory and leaves the source of the first hand as entry 63's crux. ([living learning, §5](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

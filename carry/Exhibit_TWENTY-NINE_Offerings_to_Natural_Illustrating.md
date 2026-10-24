@@ -59,3 +59,8 @@ Each sets a self and an other as two number lines, odd and even, overlapping one
 - **At 2.6 · alike selves, a right spiral.** Two alike selves bi-coupling both ways step their priors (x, y) → (y, −x), a quarter turn each momentary, sharing in turn changing then 0: improving then do-no-harming. Opposite selves take a half turn; alike selves one way do not right-spiral.
 
 - **Standing at v391's close.** Its droplet citing *line 28, beholding a parity* is stale: *beholding* and pointing dissolved; living is co-intelligencing within a universal set.
+
+## Incoming · v392chem
+
+
+- **The towel in living:** 4.1's towel is observed in the tendril's switch point, the heart's twist and DNA's snap into a loop, and the bee's figure-eight dance joins two turning loops by a straight run sharing the aim. ([living learning, §6](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

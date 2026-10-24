@@ -63,3 +63,8 @@ The user's further offering is: “if the living stable form is colliding with n
 *Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
 
 - **Health is a me's inward social moral competency**: each self within it, at each scale inward, do-no-harming and improving; a healthy curious me natural intelligence as a me (Exhibit THIRTY-ONE Me 5.2).
+
+## Incoming · v392chem
+
+
+- **The heart wrings like a towel:** The heart's muscle winds right-handed inside its wall and left-handed outside, and with each beat twists and untwists, which heart doctors call wringing a towel. ([living learning, §6](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

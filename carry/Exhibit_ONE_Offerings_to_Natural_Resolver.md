@@ -27,3 +27,14 @@ Exhibit ONE Natural Resolver Offerings · resolved at v391
 **Concern · at *Each name and its relations; Two moves, 9 less; One cell, four receivings; Eights; Across names among eights; Namings among names; the spiral-opening paragraph*.** These leave Exhibit ONE whole, to archive, Natural Naming and NI part FOUR as placed. Or: They stay as reference forms, each with a one-line lead. *Laid whole at the archive, line 241.* — v391
 
 **Concern · at *Exhibit ONE's close (after tables of selves)*.** Enter a close naming each form's subjects across the set, and a table of the ten unchangeables. Or: End with the tables of selves, unchangeables at their registries. *Laid whole at the archive, line 253.* — v391
+
+## Incoming · v392chem
+
+
+- **Carbon as 5-now-co-existing's stable form:** Carbon pattern-matches 5-now-co-existing, the bi-couplings every sharing reaches along, with its is-or-is-not *a bi-coupling on a Natural Network surface* as the living condition, its four couplings the torus of selves' two along and two across, and its eight four twos. ([living learning, §7](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Four six-cycles and carbon's twenty-four:** The four six-cycles' twenty-four steps, twelve forward and twelve backward, match carbon's tetrahedron's 24, twelve keeping its hand and twelve turning it, while the twelve forms match only in count. ([living learning, §7](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **7 where the hand begins:** 7-is-now-observing, where a first parity surfaces + or − and agreeing or parting is resolved, matches the molecule's scale where a chemical hand first exists and an opposite hand stops being ingested. ([living learning, §2](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **No code validates nature:** This session's pattern-matchings were met with the resolver's stable forms six forward and no code was run to validate an observing. ([living learning, §1](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

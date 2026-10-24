@@ -103,3 +103,8 @@ The user's further offering is: “if the living stable form is colliding with n
 - **At 3.3 · four binaries at two faces.** Its table lays four binaries on name pairs (now 1·2, existing 3·4, same 5·6, all 7·8): the pairing dissolved at v391, made by no code line; the ten fixings seated on it re-seated or said without it.
 
 - **A proving reached once.** A set of only non-living things as a universal set is-or-is-not possibly existing: it is not, as an equilibrium is not. A minor co-chaining step, and the logic goes forward by what is.
+
+## Incoming · v392chem
+
+
+- **Chemistry's row from observings:** Exchange observed at constant composition, a half-life as a rate fixed as a value, and donor and acceptor as a two-way fixed to one side are candidate chemistry observings for this registry's empty columns. ([living learning, §1, §8](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

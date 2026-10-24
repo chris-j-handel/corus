@@ -482,3 +482,14 @@ Three prefixes, three senses, and none repeated. This meets the concern *tri- an
 - **Same-existing round 16, 4, 12, 8**, each with its observing name one below (3·4, 7·8, 11·12, 15·16), the observing name the is-or-is-not of the same-existing beside it.
 
 - **A word with a physical picture that fights nothing between dissolves**; its replacement tested by the binary.
+
+## Incoming · v392chem
+
+
+- **Words that fix chemistry:** Giving and receiving, donor and acceptor, a rate given as a value, attraction and pull, and an atom joining a molecule each carry a fixing into explaining and stay only as a field's quoted words. ([living learning, §1](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Volution observed:** A volution is one turn of a spiral shell laid on the last, so 5.48's *its winding as its form, a volution* is observed in shells and tree rings, living's prior left as stable form on which the next is formed. ([living learning, §7](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Bi-tri-involutioning observed:** Right protein helices winding as a left coiled coil change position, scale and orientation together, bi-tri-involutioning observed at every cell's fibres. ([living learning, §5](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Us self:** Us self names the bi-coupling self the opening already has, distinct from the dissolved *us-me*. ([living learning, §3](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

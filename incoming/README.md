@@ -4,7 +4,7 @@ Incoming · v391
 
 **Natural Chemistry's next revising session:** [Natural Chemistry — gathering and next exploring](chemistry-water-20261022/Natural_Chemistry_Exploring_Report.md) brings the complete 64-offering chemistry exploration, its learning and living concerns, and suggested further exploring into one launch report; it distinguishes the v390 gathering from the current v391 living files.
 
-**Natural Chemistry's wide gathering, v392chem:** [Natural chemistry wide gathering](v392chem/Natural_Chemistry_Wide_Gathering_v392chem.md) gathers how chemistry divides and orders itself, its cycling, sequencing and podaling, its state–flow–state explaining apart from its observings, and about 250 binaries at its frontiers, with nine proposed to resolve first; its twenty-one parts are whole at `v392chem/parts/`, read beside the launch report above.
+**Natural Chemistry's wide gathering, v392chem:** [Natural chemistry wide gathering](v392chem/Natural_Chemistry_Wide_Gathering_v392chem.md) gathers how chemistry divides and orders itself, its cycling, sequencing and podaling, its state–flow–state explaining apart from its observings, and about 250 binaries at its frontiers, with nine proposed to resolve first; its twenty-one parts are whole at `v392chem/parts/`, read beside the launch report above. Its [living learning](v392chem/Living_Learning_v392chem.md) carries what the exploring found for the whole set, laid as droplets at eighteen files' offerings, for every parallel session.
 
 **Work arriving whole, as it arrived, until each value of it is a droplet at the offerings of the living file it concerns; then the arrival goes whole to `archive/`, its receiving named, relied on by nothing.**
 

@@ -127,3 +127,12 @@ Concern, at v380, from [the earlier Natural Networking gathering](../archive/v38
 - **Its *as with Natural Intelligence 4.9's four*** cites the four binaries' pairing that left Natural Intelligence at v391.
 
 - **The opening's social chain.** Social moral competency: each self of a same-existing-society do-no-harming and improving. A natural intelligence network free, each self resolving its own next-existing; social abundancing, each self sharing with each self it is bi-coupling with.
+
+## Incoming · v392chem
+
+
+- **The atom at 5 non-living, offered:** Offered: an atom cannot be living at 5, a handless stable form that loops alone and whose every changing goes with its couplings, which parts from 5.3's *atom the first self* and the v390 inception resolution and waits its own motion. ([living learning, §2](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The tendril at each prime scale:** A two-handed coil about a between, twisting in and relaxing out, is observed from the genes' molecule to the biosphere and absent only at 5, a pattern for matching natural torusing society at each scale, population and community still to gather. ([living learning, §6](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Abundancing carried in the seed and egg:** A snail's coil is set by its mother's gene placed in the egg and a seed carries its parent's form and fixed carbon, so a society's hand goes along in its parents' emanation, abundancing. ([living learning, §5](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

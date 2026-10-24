@@ -237,3 +237,12 @@ Natural Intelligence Corus section 17.4 offers comparative cognition as a place 
 - **Biology's boundary of living, met per scale.** NASA's working definition, Koshland's pillars and Trifonov's survey draw different lines; living is decided at each scale (a mule, a red blood cell living; a virus outside a cell non-living at its scale); death per scale, the organism first then its cells; Levin's selves at each scale and Queller and Strassmann's organism as high cooperation and low conflict nearest. Case table at `incoming/v391/Binary_Understanding_v391.md` part TWO; observings at `archive/session_v391/incoming_v391/me_observings/me_obs_biology.md`.
 
 - **Living and non-living, one method of now-existing**, same-existing within universal sets; all living things selves, all selves living societies of selves; a non-living thing's parity first two scales inward.
+
+## Incoming · v392chem
+
+
+- **Left-coiling snails as emanation:** Left-coiling snail societies thrive, are eaten one in eight by the right-jawed snake and mostly cannot mate with right coilers, their molecules of life's one hand, so the left coil reads as right-spiral living's opposite-form emanation at the organism's scale, one tree snail's both-coiled society open. ([living learning, §5](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Cells facing a shared forward:** Cells line up at a shared tilt and tiny hairs turning one way set an embryo's left and right, social interest parity facing a shared forward. ([living learning, §6](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The umbilical cord and the sunflower:** The umbilical cord coils as a tendril held by mother and child and dies at birth as emanation, and the sunflower's two crossing spiral sets wind from its growing centre at the golden angle. ([living learning, §6](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

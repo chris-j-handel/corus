@@ -55,3 +55,12 @@ Natural torusing living is self-competent, and emanation from living is only soc
 *Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
 
 - **Exhibit ONE's code is an engineered emanation**, a non-living stable-forming emanation with no authority; its cycling read as a pattern beside natural numbers, mathematics and the co-chaining logic.
+
+## Incoming · v392chem
+
+
+- **Emanation from dying carries dormant living:** The stork's-bill seed's dead tail coils dry and uncoils damp, drilling the dormant seed into soil, a stable form from dying carrying living by the environs' changing. ([living learning, §6, §8](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Emanations of opposite form:** Opposite-hand forms go unused by living at their own scale, mirror sugar and mirror protein, and are taken in one scale lower where carbon has no hand. ([living learning, §5](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Earth's carbon as living's emanation:** Limestone, chalk, coal and oil are living's carbon emanations, ingested again by living, and carbon's 60-cage forms in a dying star's outflow. ([living learning, §7](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

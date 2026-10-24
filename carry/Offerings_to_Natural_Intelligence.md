@@ -95,3 +95,16 @@ Bothboth at v391: the opening's 43 lines, each feature bold where it first welco
 - **Uniquenessing, bothboth.** *Uniquenessing of number one is uniquenessing of now* says now only; uniquenessing is also only one possibly same-existing, inside resolving among parities (Exhibit THIRTY-ONE Me 3.1).
 
 - **Standing at v391's close.** The droplet *for our word, from line 24* is stale: 5.1's bold re-said, *artifact* and pointing dissolved; 5.3's *a self fixing as … outside existing and living* still stands. Natural engineering, natural explaining and the living expedition have no place yet in parts ONE to THREE; the bold *a self is observing its prior and parities* stands beside its receiving.
+
+## Incoming · v392chem
+
+
+- **Right spiral with its break said first:** One hand of molecules and one direction of building, each next laid on its prior, hold in every living thing observed, healthy left-coiling snail societies included, so right-spiral living parity holds at all scales with left coiling its emanation, and a healthy society of mirror molecules or building the other way would break it whole. ([living learning, §5](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The us self:** The opening's *a bi-coupling is a self* can be named the us self, the you and the me sharing one parity while their interest opens, as a water pair is observed as one changing. ([living learning, §3](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Uniqueness is me–you and me–all other:** Identical molecules each show their own colour set by their neighbours and identical nuclei are told apart only by theirs, so a self's uniqueness is never in it but in its others, uniquenessing near bi-moralizing bi-inversioning. ([living learning, §4](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Dormancy and conscious interest:** Dormancy is living's stable form relying on its environs for the parity changing of carbon exchanging, as the stork's-bill seed's dead tail drills it into soil by wetting and drying, and conscious interest is self-parity, less dependent on the environs. ([living learning, §8](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **No living without carbon exchanging:** No living thing is observed without exchanging carbon by ingesting and emanating, and where the exchange slows past instruments it returns, living one scale down. ([living learning, §7](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

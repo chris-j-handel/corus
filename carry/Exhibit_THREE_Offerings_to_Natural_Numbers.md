@@ -109,3 +109,10 @@ So with the six, 1 to 17 is one round only because 17 falls with a six's place, 
 - **Each six-cycle, three pairs making 17 and two halves of three.** 1-9-5-12-8-16 is 1+16, 9+8, 5+12; the second half the first half's others reversed; from 17 to 32 the pairs make 49 = 17 + 32, so each pair at one scale is one at the next.
 
 - **Four binaries laid on odd and even names (*four binaries with a self's span: now with 1 and 2 …*)** is the pairing dissolved at v391 from Natural Intelligence, Exhibit ONE and the Registry: no code line makes it; each is-or-is-not one test on one name, 3, 7, 13 and 15.
+
+## Incoming · v392chem
+
+
+- **Steps observed, numbers recorded:** Instruments observe changing in steps, a charge stepping (1909) and each element's X-ray colour stepping (1913), and the atomic number is the naming of that step, so counting is a self's record. ([living learning, §1](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **0 to 24 and 24 to 60 as phases:** A tendril's two hands are observed with equal turns, so nought to twenty-four and twenty-four to sixty pattern-match its inward and outward phases and not counts of turns. ([living learning, §6](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

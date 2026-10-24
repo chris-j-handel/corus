@@ -275,3 +275,8 @@ At a resolver's functions 6, 10 and 9 are one list, each self's 10-next-co-possi
 *Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
 
 - **Living is geodesic co-chaining on a Natural Network surface**, the same living a self's observing, possibling and discovering names from inside. A surface's living parities are living in the mes of the selves living in it.
+
+## Incoming · v392chem
+
+
+- **The between shares the aim:** The honeybee's straight run between its two turning loops points the colony toward food, a between where a society's aim is shared. ([living learning, §6](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

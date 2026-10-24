@@ -248,3 +248,8 @@ Exhibit TWENTY-FOUR Geodesic Improving Method Offerings · improved at v389
 - **At 2.6 · two lists apart.** Gaps in prior rigor, incoherence already entered, and improving opportunities still open, kept as two lists.
 
 - **This file's own words.** It says *a surface dividing itself*, *itself* about 12 times, *couple* and *couples* 8, bare *coupling*, bare *harm*, *membrane* in part TWO's title, and *stable form emanatings*; each dissolved or re-named at v391 (*a surface's own dividing*, *bi-coupling*, *do-no-harming*, *a stable-forming emanation*). A living name for *read for harm* is open.
+
+## Incoming · v392chem
+
+
+- **A gathering said in natural explaining:** A gathering for the person is said in natural explaining with the field's terms kept apart, one value and its concern at a time, and a long report of a field's terms is no value to the person. ([living learning, §1](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

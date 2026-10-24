@@ -29,3 +29,10 @@ Exhibit THIRTY-ONE Me Offerings · v391
 *Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
 
 - **Standing at v391's close.** *A me is a self's universal set* entered Natural Intelligence's opening; *itself* dissolved from Natural Intelligence, Exhibit ONE and the Registry; its Possibling's two first items are met. The flagged sources wait for their check before a next version.
+
+## Incoming · v392chem
+
+
+- **Uniqueness from chemistry's instruments:** Identical molecules each show their own colour set by their neighbours and identical nuclei are read apart only by theirs, so a me's uniqueness is its others, me–you and me–all other. ([living learning, §4](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Us self and conscious interest, offered:** Offered: in bi-coupling the you and the me become an us self, and conscious interest is self-parity less dependent on the environs, dormancy relying on them. ([living learning, §3, §8](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

@@ -85,3 +85,23 @@ Contradiction, the living and the non-living: Natural Biology draws the line the
 ## Incoming · v392chem
 
 - **Natural Chemistry's next version · the wide gathering:** [Natural chemistry wide gathering](../incoming/v392chem/Natural_Chemistry_Wide_Gathering_v392chem.md) aims chemistry's divisions, rules, order, properties, cycling, sequencing, podaling, state and flow, and its frontier binaries at each of this file's sections, names nine binaries to resolve first, and lists what is checked before anything enters, among them 4.4's *podal* read opposite to Natural Naming and Numbers' and pointers into Natural Numbers sections no longer standing. — v392chem
+
+- **The hand begins at 7:** An atom, carbon dioxide and methane are each their own mirror and are taken in by all living, while the smallest lasting hand-bearing molecules have five atoms about one carbon, so carbon at 5 is handless and ingestible by all and the hand, with its opposite form not ingestible at its own scale, begins at 7. ([living learning, §2](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **A molecule is one self in many stable forms:** Single molecules imaged before and after their bonds rearranged (2013) and switched among bonded forms and back (2022) kept their same nuclei in place while chemistry renamed them, and chemistry's own line between one species and two is how fast the change is against the observing. ([living learning, §3](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **No atom joins a molecule:** What is observed going on through a chemical changing is a nucleus marked by its weight and a steady count, never an atom existing apart and then going in; the atom as a travelling thing is the field's explaining. ([living learning, §2](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Water is one us self, co-alternating:** Each water molecule is balanced two and two, the only small molecule so, and a water pair is observed as one non-rigid whole exchanging its arrangements, so donor and acceptor, giving and receiving, are a two-way fixed to one side and stay only as the field's words. ([living learning, §3](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Nucleation's fading edge:** Crystals imaged atom by atom as they began (2026) show order complete at the centre and fading to the edge with no skin, so 4.7's all-or-none can be said of each atom's form within the stable form at each momentary, the edge its selves still resolving. ([living learning, §9](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Equilibrium is never observed as rest:** Wherever particular molecules are followed, by marked lead, exchange current at no net current, exchange spectra or single-molecule switching, exchange goes on at constant composition, which bears out 1.5's record returning no literal rest. ([living learning, §1](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Radioactivity's pace is the couplings':** Rhenium stripped of its electrons fades in about 33 years against about 42 billion, so a half-life is a rate fixed as a value and the pace of a changing belongs to its couplings, the changing itself observed. ([living learning, §8](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Carbon's twenty-four as two hands of twelve:** Carbon's tetrahedron maps onto itself 24 ways, twelve keeping its hand and twelve turning it, and its hand inverts only through its own flat centre (1896), a corus at 24 beside 1.7. ([living learning, §7](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Living gives carbon its hand through a six:** Rubisco joins handless carbon dioxide to a five-carbon sugar already of living's hand, makes a six for an instant and parts it into two threes with hand, four pairs of its large parts round one centre joining carbon at their betweens. ([living learning, §7](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Electrons are observed as steps:** A charge is observed changing only in steps and electrons are identical and spread through one sharing, so an electron pictured as an owned particle is a ghost and its count a record. ([living learning, §1, §3](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

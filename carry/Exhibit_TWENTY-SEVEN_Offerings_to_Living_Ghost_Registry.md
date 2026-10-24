@@ -103,3 +103,8 @@ Living Ghost Registry and Equilibria Registry: two registries, one derivation. T
 - **A citation chain grown into a code-titled table.** The odd and even pairing of four binaries travelled Registry, Natural Naming, Natural Intelligence 4.9, Exhibit ONE, a table titled as the code's with no code line: a still accounting installed by citing.
 
 - **Its *ghost* and common use.** The registry's ghost is a non-living accounting installed as living; common *ghost* and Ryle's *ghost in the machine* name a living thing apart from a body. A fresh reader's misreading to meet.
+
+## Incoming · v392chem
+
+
+- **Virus, electron, radioactive:** A virus taken as living, an electron as an owned particle and *radioactive* as a thing's property are each an emanation or a step fixed as a doer, ghosts for this registry. ([living learning, §8](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
