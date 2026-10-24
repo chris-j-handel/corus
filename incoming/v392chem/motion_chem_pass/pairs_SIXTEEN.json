@@ -1,0 +1,248 @@
+[
+ {
+  "old": "1.4  A molecule's own sharing a coupling across, and what stays cancels",
+  "new": "1.4  A molecule's own sharing a coupling across, and two selves releasing, the 0 between them going across",
+  "why": "contents line with the heading: stays is an equilibria word and cancels an accounting sum; the bi-coupling releases and goes along, and its 0 goes across",
+  "verdict": "RESAY"
+ },
+ {
+  "old": "## 1.4 A molecule's own sharing a coupling across, and what stays cancels",
+  "new": "## 1.4 A molecule's own sharing a coupling across, and two selves releasing, the 0 between them going across",
+  "why": "heading with the contents line, same re-saying",
+  "verdict": "RESAY"
+ },
+ {
+  "old": "two sides contribute no position, cancelling, and what survives coupling across is what ran between them.",
+  "new": "two sides contribute no position, each releasing and going along, and what survives coupling across is the 0 between them, their us, what ran between them.",
+  "why": "cancelling is an accounting sum-to-zero; each side releases at its 9 and goes along at its other's 17, and what goes across is their 0, an us",
+  "verdict": "RESAY"
+ },
+ {
+  "old": "**Two selves staying cancel, so parity couples across.**",
+  "new": "**Two selves release and go along, so their 0 goes across.**",
+  "why": "staying an equilibria word, cancel an accounting sum, couples a dissolved word; the bold now says what the sentence before it says",
+  "verdict": "RESAY"
+ },
+ {
+  "old": "there is nothing of either side remaining to go on.",
+  "new": "nothing of either side's position goes on past its releasing.",
+  "why": "remaining is a staying; the parity goes along into its other, a side's position goes on nowhere; nothing kept one-for-one",
+  "verdict": "RESAY"
+ },
+ {
+  "old": "A magnitude going across is a place where cancelling stops.",
+  "new": "A magnitude going across is a place where releasing stops.",
+  "why": "follows the bold: a side's magnitude goes across only where its releasing stops",
+  "verdict": "RESAY"
+ },
+ {
+  "old": "networks with itself, actual molecules",
+  "new": "networks carbon to carbon, actual molecules",
+  "why": "itself is a dissolved word",
+  "verdict": "RESAY"
+ },
+ {
+  "old": "readable with form as self, reacher and other-selves,",
+  "new": "readable with form as a floating neutral, a reacher and other sides, each atom a non-living stable form,",
+  "why": "no atom is a self; carbon is the stable form of unrelationing floating neutralling (1.6), and each atom a non-living stable form (1.1)",
+  "verdict": "RESAY"
+ },
+ {
+  "old": "**addition · elimination** is groups entering across a bond",
+  "new": "**addition · elimination** is, by a field's words, groups entering across a bond",
+  "why": "bond attributed to chemistry; the field's words otherwise reach only the first pairing",
+  "verdict": "RESAY"
+ },
+ {
+  "old": "4.2  Water's two liquids a sway a field fixes to a point, and a glass keeping rate and history",
+  "new": "4.2  Water's two liquids a sway a field fixes to a point, and a glass with rate and history",
+  "why": "contents line with the heading: keeping an equilibria word; the section's bold says a glass transition has rate and history with it",
+  "verdict": "RESAY"
+ },
+ {
+  "old": "and a glass keeping rate and history",
+  "new": "and a glass with rate and history",
+  "why": "heading with the contents line, same re-saying",
+  "verdict": "RESAY"
+ },
+ {
+  "old": "6.5  A between where chemistry and the form couple, existing and possibling",
+  "new": "6.5  A between where chemistry and the form meet, existing and possibling",
+  "why": "contents line with the heading: couple a dissolved word",
+  "verdict": "RESAY"
+ },
+ {
+  "old": "## 6.5 A between where chemistry and the form couple,",
+  "new": "## 6.5 A between where chemistry and the form meet,",
+  "why": "heading with the contents line, same re-saying",
+  "verdict": "RESAY"
+ },
+ {
+  "old": "every incoming observation couples,",
+  "new": "every incoming observation is a coupling,",
+  "why": "couples a dissolved word",
+  "verdict": "RESAY"
+ },
+ {
+  "old": "their coupling itself makes,",
+  "new": "their coupling makes,",
+  "why": "itself a dissolved word; the file's own phrase is a bounding-zeroing a coupling makes",
+  "verdict": "RESAY"
+ },
+ {
+  "old": "three scales stay chemically distinct.",
+  "new": "three scales stand chemically distinct.",
+  "why": "stay an equilibria word; stand is the file's verb",
+  "verdict": "RESAY"
+ },
+ {
+  "old": "reference half-cell stay with resulting numbers.",
+  "new": "reference half-cell go with resulting numbers.",
+  "why": "stay an equilibria word",
+  "verdict": "RESAY"
+ },
+ {
+  "old": "Relation thereby stays measurable.",
+  "new": "Relation thereby is measurable.",
+  "why": "stays an equilibria word",
+  "verdict": "RESAY"
+ },
+ {
+  "old": "definitions stay valuable;",
+  "new": "definitions are valuable;",
+  "why": "stay an equilibria word",
+  "verdict": "RESAY"
+ },
+ {
+  "old": "stands under a central observation, staying with it.",
+  "new": "stands under a central observation, going with it.",
+  "why": "staying an equilibria word",
+  "verdict": "RESAY"
+ },
+ {
+  "old": "**Two flows couple with each going along its other's direction, and a field's relation for it is exact.**",
+  "new": "**Two flows are one coupling with each going along its other's direction, and a field's relation for it is exact.**",
+  "why": "couple a dissolved word; no root file quotes this bold",
+  "verdict": "RESAY"
+ },
+ {
+  "old": "**Now flowing** is nature itself,",
+  "new": "**Now flowing** is nature,",
+  "why": "itself a dissolved word",
+  "verdict": "RESAY"
+ },
+ {
+  "old": "stand within chemical address itself,",
+  "new": "stand within chemical address,",
+  "why": "itself a dissolved word",
+  "verdict": "RESAY"
+ },
+ {
+  "old": "subshell capacities stay three distinct numbers",
+  "new": "subshell capacities stand as three distinct numbers",
+  "why": "stay an equilibria word",
+  "verdict": "RESAY"
+ },
+ {
+  "old": "**One 4s parity stands by itself with twenty-four**",
+  "new": "**One 4s parity stands on its own with twenty-four**",
+  "why": "itself a dissolved word; 4.6 already says a parity standing on its own; no root file quotes this bold",
+  "verdict": "RESAY"
+ },
+ {
+  "old": "two hands couple each its own way, coupling by",
+  "new": "two hands go each its own way, coupling by",
+  "why": "couple a dissolved word; coupling follows in the same clause",
+  "verdict": "RESAY"
+ },
+ {
+  "old": "chemical enantiomers stay two distinct molecular species",
+  "new": "chemical enantiomers are two distinct molecular species",
+  "why": "stay an equilibria word",
+  "verdict": "RESAY"
+ },
+ {
+  "old": "balancing where coupling balances it,",
+  "new": "centring where coupling centres it,",
+  "why": "balancing and balances are equilibria words in our own claim about a bounding-zeroing",
+  "verdict": "RESAY"
+ },
+ {
+  "old": "Calculation stays real and a field's question stays open;",
+  "new": "Calculation is real and a field's question is open;",
+  "why": "stays twice, an equilibria word",
+  "verdict": "RESAY"
+ },
+ {
+  "old": "with no glass balls a mixture stays as it was",
+  "new": "with no glass balls a mixture goes on as it was",
+  "why": "stays an equilibria word; the observing is a mixture going on unchanging in hand; no kept one-for-one",
+  "verdict": "RESAY"
+ },
+ {
+  "old": "so two couplings couple here,",
+  "new": "so two couplings meet here,",
+  "why": "couple a dissolved word",
+  "verdict": "RESAY"
+ },
+ {
+  "old": "returns only itself;",
+  "new": "returns only that one;",
+  "why": "itself a dissolved word; that one is the one position the clause names",
+  "verdict": "RESAY"
+ },
+ {
+  "old": "**clean cut stays larger half**",
+  "new": "**clean cut is larger half**",
+  "why": "stays an equilibria word; no root file quotes this bold",
+  "verdict": "RESAY"
+ },
+ {
+  "old": "low reactivity and no inability to couple,",
+  "new": "low reactivity and no inability to react,",
+  "why": "couple a dissolved word; react is the field's own word in the clause",
+  "verdict": "RESAY"
+ },
+ {
+  "old": "**Number-ring enters whole and chemical equivalence stays unsaid**",
+  "new": "**Number-ring enters whole and chemical equivalence goes unsaid**",
+  "why": "stays an equilibria word; Wide Gathering (incoming, not a living file) quotes the old bold",
+  "verdict": "RESAY"
+ },
+ {
+  "old": "with no controller storing its whole sequence.",
+  "new": "with no controller recording its whole sequence.",
+  "why": "storing an equilibria word; no kept one-for-one",
+  "verdict": "RESAY"
+ },
+ {
+  "old": "**A field moves a floor it declares itself.**",
+  "new": "**A field moves its own floor.**",
+  "why": "itself a dissolved word; no root file quotes this bold",
+  "verdict": "RESAY"
+ },
+ {
+  "old": "**categories stay chemically useful with descriptor and purpose staying with them**",
+  "new": "**categories are chemically useful with descriptor and purpose going with them**",
+  "why": "stay and staying, equilibria words; no root file quotes this bold",
+  "verdict": "RESAY"
+ },
+ {
+  "old": "while compartments stay coupling. Healthy blood pH stays within a narrow range",
+  "new": "while compartments go on coupling. Healthy blood pH sways within a narrow range",
+  "why": "stay and stays, equilibria words; sway is the file's own word for a going-on range",
+  "verdict": "RESAY"
+ },
+ {
+  "old": "so they stay with chemistry as magnitudes a field measures",
+  "new": "so they stand with chemistry as magnitudes a field measures",
+  "why": "stay an equilibria word",
+  "verdict": "RESAY"
+ },
+ {
+  "old": "Regions stay coupling while each has its own rate,",
+  "new": "Regions go on coupling while each has its own rate,",
+  "why": "stay an equilibria word",
+  "verdict": "RESAY"
+ }
+]
