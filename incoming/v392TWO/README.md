@@ -1,5 +1,19 @@
 # Natural network discovering · v392TWO
 
+## Corrected beginning for the inquiry
+
+**The empty-start executions below are withdrawn as the design for discovering a natural network of already living selves.** They remain the record of their stated software conditions, and their outcomes supply no conclusion about the whole possible discovering of a natural network.
+
+A now-existing living self is same-existing with its own prior. Its next-existing is its own resolving with the parities its others share. A sharing for which a self has no prior is a first sharing; that case supplies no account of an entire society starting without prior living. The test made every self empty and supplied the parities from which all its participation began, replacing the intended beginning with a different relation.
+
+Starting the inquiry is entering an already existing society's momentary: each self with its own prior and its actual bi-couplings. ONE's forms with a prior at each self give the code relation to work from. Each next prior then goes on through that self's own resolving. An imposed common prior, copied continuation or externally supplied first parity would again substitute a preparation for the relation being studied.
+
+The proposed direction based on the empty-start form's insensitivity to added parities is also withdrawn as a requirement on natural discovering. That insensitivity holds for the recorded form under its stated conditions; it does not decide that the intended living network must change its sharing or bi-couplings to discover.
+
+Natural explaining names a self through its actual bi-coupling and follows its prior, now and next; code coordinates in the earlier record are test notation only. No new natural-network execution is claimed by this correction.
+
+## Earlier executing, retained at its own conditions
+
 The first construction follows two spirals, of three and five selves, beginning through public parities and then bi-coupling across. Across participation changes the going along at an exact resolving in each spiral. Their resulting two-momentary form also exposes a useful testing concern: further parities appended at the same sharing cannot change that form under these stated conditions. The next discovering must distinguish further parities at this sharing from a further sharing, a changed bi-coupling, or another momentary arrangement.
 
 These are executed findings with the unchanged Python block of **Exhibit ONE Natural Resolver v391**, from main commit `2669db105c61e5580b0dd3523a7555b49cf5b38f`. Its functions are `_1_now_existing`, `_9_next_co_discovering` and `_17_next_existing`. The source document and extracted expression are checked by SHA-256 before executing. No earlier kit engine, altered resolver, extra resolving operation or private continuation fork is used.

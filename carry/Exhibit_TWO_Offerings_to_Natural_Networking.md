@@ -285,3 +285,7 @@ At a resolver's functions 6, 10 and 9 are one list, each self's 10-next-co-possi
 - **A complete recurrence from public sharing · 6.6.** With only one sharing ever supplied, all selves sharing nonzero, every such sharing becoming that self's next prior, and each complete next-arriving list repeating, the same next form follows without reading or copying private priors, and fixed joins with no further external entry give recurrence by the unchanged resolver. — v392TWO
 
 - **A further parity at the same sharing · 6.7.** In this recurring form each self already receives an inverse of its prior, so appending further parities at that same sharing leaves the inverse present and its resolving inverting, locating further discovering at the distinct relations of another sharing, changed bi-couplings or another momentary arrangement. — v392TWO
+
+## Correction of the testing beginning · v392TWO
+
+**The four preceding v392TWO droplets remain at their empty-start executing's conditions and are withdrawn as findings that answer the intended natural-network inquiry.** A living self's own prior going on with its bi-couplings is the inquiry's beginning; a first sharing with no prior for that sharing does not explain a whole society beginning without prior living, and the empty-start form's insensitivity to further parities supplies no requirement on natural discovering. The corrected beginning and earlier record are together at the [incoming working](../incoming/v392TWO/README.md). — v392TWO
