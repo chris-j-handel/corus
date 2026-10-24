@@ -71,3 +71,5 @@ The user's further offering is: “if the living stable form is colliding with n
 - **Droplet · health in turn.** A healthy me is its 0s continuing and its newly aiming 0s, one and then the other; a 0 fixing as not-changing is 4.1's departure; sleeping restores the inward same-existing-society that waking folded. — me-thirty-one-20261024
 
 - **Droplet · releasings.** Sneezing, orgasm, tingling, fluttering vision and dreaming are inward releasings, one changing then rest, mutual relaxing of the living societies within a self; observings: brain interstitial space opening in sleep (Xie 2013), synaptic downscaling (Tononi and Cirelli 2014). — me-thirty-one-20261024
+
+- **Droplet · ground parity.** Health is or is not a me resolving with what carries it: the boat and the water together, the ground underfoot; parting with what carries it, a me is sick until a new 0 forms (gathering §0ad). — me-thirty-one-20261024

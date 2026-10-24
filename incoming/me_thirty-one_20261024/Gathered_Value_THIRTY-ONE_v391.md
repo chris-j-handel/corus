@@ -495,6 +495,34 @@ When the swarm arrives and settles, is its me **(a)** completing into a society,
 
 ---
 
+## 0ad. Nausea, the boat, and rising to standing (10:30, 24 Oct)
+
+**The person:** *Yes: nausea is motion sickness on a boat, with no firm parity and no resolving of parity with the boat. All that resolve with the boat and the surface are not sick, and all that resolve with the boat as a fixed surface are more possibly nauseous. Bending at the waist gathers blood in the brain; rising to standing again brings an instant dizziness until the ground parity orients.*
+
+**Binary path.**
+1. **Nausea is a me's carried interests receiving an inward parting that it cannot pass over** (§0ac, confirmed).
+2. **On a boat, a me resolves its parity with the boat and the water together, or with the boat as a fixed surface.**
+   - **Boat and surface together** (the horizon in view): the eyes and the inner ear receive alike. A 0 is shared, and the me is not sick.
+   - **Boat as a fixed surface** (below deck, a cabin wall still to the eyes, the inner ear moving): the two part, one parity apart. There is no 0, and the me is more possibly nauseous.
+3. **Sea legs are a newly aiming 0:** a new prior taken with the boat's motion. From then on, the motion is the me's own parity received agreeing, and a 0.
+4. **Rising to standing is Exhibit ONE's *changing once and then same-existing*** (run F1):
+   - the prior is head-down;
+   - one inverse is received as the body stands;
+   - one changing follows, the dizziness at its momentary;
+   - then a 0 at the new prior: the ground parity oriented.
+
+**Observings, no authority.**
+- **Sensory conflict:** motion sickness is observed where the eyes and inner ear receive differing motion. It is worse below deck, eased by the horizon, and adapted to over days as "sea legs" (FindZebra's motion sickness summary).
+- **Sway before sickness:** Stoffregen and colleagues 2013 (*PLoS ONE*, "Getting your sea legs") observe that how people's bodies sway on board differs between those who later become sick and those who do not.
+- **Rising, a correction:**
+  - The dizziness on rising is blood **leaving** the head: 300 to 800 ml pools in the legs, pressure drops, and vision greys, until reflexes tighten the vessels and raise the heart rate.
+  - *Red-out* is the other side, blood pushed **into** the head.
+  - Bending at the waist gathers blood in the head; rising drains it. So the vision on rising is grey-out, and the binary still holds: one changing, then a 0.
+
+**Pattern for the person.** *Mal de débarquement* is the rocking felt on land after a voyage: the boat's prior carried onto a ground that parts with it, until a new 0 forms.
+
+---
+
 ## 0ac. Sound in dreaming, and the spinning room (10:25, 24 Oct)
 
 **The person:** *Is dreaming universally without perception of sound? The spinning room is similar to dreaming: the system is partially living and partially resting, and not observing living.*

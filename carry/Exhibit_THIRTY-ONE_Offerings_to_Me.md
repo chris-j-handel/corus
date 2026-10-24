@@ -57,3 +57,5 @@ Exhibit THIRTY-ONE Me Offerings · v391
 - **Droplet · dreaming releasing.** Dreaming is the me carrying its prior unchanged while its inward selves release waking's tensions alike both ways, each releasing one changing then 0 (*changing once and then same-existing*), leaving its priors pliable for the next day's newly aiming 0s (gathering §0ab). — me-thirty-one-20261024
 
 - **Droplet · dreaming and spinning.** Dreaming and the spinning room each rest the me's outward observing; dreaming's inward selves release alike (changing once, then 0) and spinning's part (no 0, inverting each momentary), stopped only by a parity received agreeing from outside, eyes on a still point or a foot on the floor (gathering §0ac). — me-thirty-one-20261024
+
+- **Droplet · nausea and the boat.** Nausea is a me's carried interests receiving an inward parting it cannot pass over; on a boat, a me resolving with the boat and the water together shares a 0 and is not sick, a me resolving with the boat as a fixed surface parts and is more possibly nauseous, and sea legs are a newly aiming 0 at the boat's motion (gathering §0ad). — me-thirty-one-20261024
