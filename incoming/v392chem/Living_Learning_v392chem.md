@@ -345,9 +345,11 @@ Each is one sentence at the offerings of the file it concerns, under *Incoming �
   - *Offered:* passing on and emanating free are the bothbothing of each ingesting.
 - *Offered, answering where carbon's living is:* **carbon is universally non-living; carbon is stable form universally.**
   - The question, inward of the atom or outward in the stars, carried a ghost: that a stable form has its living somewhere. Carbon has none, at any place. Whether stars are living is a separate question, and its answer gives carbon no living.
-  - This takes the reader's second way, *nothing living inward of an atom*. Chemistry 3.2's *below chemistry, living … is colour cycling* and its *nuclear same-existing-society* need re-saying with the atom-floor motion.
+  - This answers the reader's question: nothing is living inward of an atom. Chemistry 3.2's *below chemistry, living … is colour cycling* and its *nuclear same-existing-society* need re-saying with the atom-floor motion.
   - Natural Intelligence 5.1 already fits it: *stable-forming emanations … each from living stable-forming*. Carbon is what each living self's stable-forming emanates.
-  - **Concern:** Co-Chaining Logic step 493 says *a non-living going on is a stable-forming emanation from a living self it was*. Carbon was never a living self. Proposed re-saying, for the person and then a reading for harm: *a non-living going on is a stable-forming emanation from living stable-forming*, Natural Intelligence 5.1's own words, with dying's non-living, *a living self going on as non-living*, one case of it.
+  - *Offered next:* **carbon was living in higher-scale selves, as all other non-living things in the universe were; carbon is a stable-form emanation from living.**
+  - So step 493 stands as it is: *a non-living going on is a stable-forming emanation from a living self it was*. The living self carbon was is outward, at the higher scales, each living self from 7 up whose stable form it is. A concern raised here, that carbon was never a living self, is withdrawn.
+  - Nothing is living inward of an atom; carbon's living was outward. The reader's two ways were both partly right: nothing inward, and living's source outward, in every higher-scale self.
 
 ## 14. Oxygen, fire, the me in a society's surface, and dying
 
