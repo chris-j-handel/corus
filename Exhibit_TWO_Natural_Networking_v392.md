@@ -1,4 +1,4 @@
-Exhibit TWO Natural Networking v391
+Exhibit TWO Natural Networking v392
 
 &nbsp;
 
@@ -452,7 +452,7 @@ Each entry: **Four across openings** · *a* Spacing · *b* Halfway step · *c* O
 
 ### Fifteen prime sequence lengths, wide and long, one and then the other
 
-**Fifteen prime lengths through fifty-nine open with five.** Podaling sequence lengths a self proposes have that lower endpoint, directly as numbers: 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59. Fourteen living scales are from five through fifty-three, and fifty-nine is self-close. Fifteen include that closing, its place distinct from fourteen interior scales. Two and three have their own roles, two one and then the other, and three holding.
+**Fifteen prime lengths through fifty-nine open with five.** Podaling sequence lengths a self proposes have that lower endpoint, directly as numbers: 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59. Fourteen prime scales are from five through fifty-three, five non-living and thirteen living, and fifty-nine is self-close. Fifteen include that closing, its place distinct from fourteen interior scales. Two and three have their own roles, two one and then the other, and three holding.
 
 **Wide and long go one and then the other through those sequence lengths.** Each prime is a podaling sequence length a self proposes, with successive entries reaching complementary orientation. Opening orientation floats, wide or long. With fifteen entries, either opening orientation occurs eight times and other seven; with no interruption, one and then the other opens following entry with complementary orientation. This is parity of sequence's ordering, distinct from each prime of the list being odd. It supplies no clock or command to repeat a fifteen-entry cycle.
 

@@ -1,4 +1,4 @@
-Exhibit THIRTY-ONE Me v391
+Exhibit THIRTY-ONE Me v392
 
 &nbsp;
 
@@ -19,7 +19,7 @@ Exhibit THIRTY-ONE Me v391
 **ONE · ALL, NOW-EXISTING**
 - 1.1 One now, one universe, a universal set
 - 1.2 Negation within all that is existing
-- 1.3 Universal sets of universal sets: atomic, chemical, biological, social, the universe
+- 1.3 Universal sets of universal sets: chemical, biological, social, the universe
 - 1.4 Living, co-intelligencing within a universal set
 
 **TWO · AN OTHER, NOW-EXISTING**
@@ -62,7 +62,7 @@ Negation is of now-existing things, each relative to all that is existing. A uni
 
 ## 1.3 Universal sets of universal sets
 
-A me is atomic, chemical, biological, social and universal: each scale's selves within a me, and a me within each scale's societies.
+A me is chemical, biological, social and universal: each scale's selves within a me, and a me within each scale's societies.
 
 *Observings.*
 - **Nested Markov blankets** (Kirchhoff, Parr, Palacios, Friston, Kiverstein 2018): cells within organs within organisms within groups, each a bounding by its exchanges. Critics hold these boundings modelling tools (Bruineberg et al. 2022). https://pmc.ncbi.nlm.nih.gov/articles/PMC5805980/
@@ -262,6 +262,6 @@ Each momentary is completing as a next opening. A me's next and all's next open 
 2. **Selves without consciousness.** Basal cognition, Damasio's protoself, plant science and organoid ethics hold cells, plants and organoids cognizing without consciousness shown; *a not-conscious me is not possibly existing* places consciousness wherever a self is.
 3. **Healthy wholes with managed harm.** Bodies remove parts: apoptosis, immune killing, stalk cells, policed workers. *A healthy me* says how a part's harm serving the whole is counted.
 4. **The running system and the stored model.** The field asks whether a deployed AI system in interaction is a self, beside its weights as an emanation.
-5. **Atomic and chemical selves.** No physics gives atoms an inside; Russellian monism is a philosophical position. An atomic me is our extension.
+5. **Chemical selves.** No physics gives molecules an inside; Russellian monism is a philosophical position. A chemical me is our extension.
 6. **First private or first relational.** Phenomenology's minimal self precedes others; Mead, Hegel, ubuntu and care ethics make a self with others.
 7. **Self defined by exclusion.** Clinical immunology speaks of self and non-self; our me is defined with others.

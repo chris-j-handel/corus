@@ -1,4 +1,4 @@
-Exhibit SEVENTEEN Natural Biology v391
+Exhibit SEVENTEEN Natural Biology v392
 
 &nbsp;
 
@@ -218,7 +218,7 @@ One pattern-matching holds this whole file, and it is all-or-none: a living self
 
 ## 1.3 Every self is a same-existing-society of selves
 
-An organism is a same-existing-society of cells, a cell a same-existing-society of molecules, a molecule a same-existing-society of atoms, an atom a same-existing-society of a nucleus and electrons. No self of any grain sits apart from a same-existing-society of a grain beneath, so there is no fundamental self anywhere and no floor to grains.
+An organism is a same-existing-society of cells, a cell a same-existing-society of molecules, a molecule the ladder's first self, a same-existing-society of its living parities, and an atom a non-living stable form its sharing winds round. No self of any grain sits apart from a same-existing-society of selves inward, so there is no fundamental self anywhere and no floor to selves.
 
 **A self and a same-existing-society are one thing, a self observing it with two grains,** and a coupling a self observes with either grain is one same coupling. Whatever stands with a self stands with a same-existing-society it is, and with a same-existing-society it is a member of. Fractal goes both directions without limitation, and nothing anywhere is the smallest.
 

@@ -1,6 +1,6 @@
 # Pass 8: a second family of words Natural Naming 2.4 releases, still at living files (v389)
 
-The person: "we can continue the smooth passes we are doing now for the resolvable incoming and leave out the concerning or not yet resolving from the living files and leave this in the offering or possibling files." Each word here has its own row at Natural Naming v389's 2.4 table (Exhibit_TWENTY_Natural_Naming_v391.md); read each row first, its scope (left) and what carries it (right):
+The person: "we can continue the smooth passes we are doing now for the resolvable incoming and leave out the concerning or not yet resolving from the living files and leave this in the offering or possibling files." Each word here has its own row at Natural Naming v389's 2.4 table (Exhibit_TWENTY_Natural_Naming_v392.md); read each row first, its scope (left) and what carries it (right):
 
 - *surplus*, *surplusing* → *abundancing* (12-next-co-same-existing, each sharing's changing, is or is not);
 - *so-far*, *not-yet* and their compounds → odd *existing* and even *possibling*, by each name's own number;

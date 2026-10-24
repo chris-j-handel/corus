@@ -4,7 +4,7 @@ Exhibit THIRTY-ONE Me Offerings · v391
 
 ## Standing at v391, the file's beginning
 
-**Concern · A society and its members, each a me.** A parity is a me inside a set of me, and a same-existing-society is a self, so a me. IIT's exclusion allows one subject among overlapping candidates, and panpsychism's combination problem asks how many subjects make one. Each is the field's collision with *a set of mes is a me*. Its observings: [Me 3.2](../Exhibit_THIRTY-ONE_Me_v391.md#32-a-me-is-consciousness).
+**Concern · A society and its members, each a me.** A parity is a me inside a set of me, and a same-existing-society is a self, so a me. IIT's exclusion allows one subject among overlapping candidates, and panpsychism's combination problem asks how many subjects make one. Each is the field's collision with *a set of mes is a me*. Its observings: [Me 3.2](../Exhibit_THIRTY-ONE_Me_v392.md#32-a-me-is-consciousness).
 
 **Concern · Selves the fields hold cognizing without consciousness.** Basal cognition, Damasio's protoself, plant science and organoid ethics place cognition in cells, plants and organoids without consciousness shown. *A me is consciousness* places it wherever a self is.
 

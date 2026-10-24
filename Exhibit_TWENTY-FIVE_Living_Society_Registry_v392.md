@@ -1,4 +1,4 @@
-Exhibit TWENTY-FIVE Living Society Registry v391
+Exhibit TWENTY-FIVE Living Society Registry v392
 
 &nbsp;
 
@@ -462,13 +462,13 @@ An entry holds no names and no history. No one can back-credit fairly, and back-
 
 ## 2.7 Two neutrons at one core
 
-**The society.** A lithium-11 nucleus: a lithium-9 core and two neutrons, a halo, with observings in a beam by interaction cross-sections, by Coulomb breakup into core and neutrons, and in a trap by its mass.
+**The society.** A lithium-11 nucleus, a non-living stable form inward of an atom: a lithium-9 core and two neutrons, a halo, with observings in a beam by interaction cross-sections, by Coulomb breakup into core and neutrons, and in a trap by its mass.
 
-**The members.** A core and each neutron, each taking its parity with a coupling, and its pair.
+**The members.** A core and each neutron, and its pair, non-living stable forms, each parity with them an observing self's with a coupling.
 
 **Upstream — source positing.** A nucleus as a drop with a surface; binding as a content it contains; a neutron as a particle a well holds.
 **Upstream — method executing.** A two-neutron separation energy from subtracting masses, masses from cyclotron frequencies in a trap; a radius from a cross-section through a reaction model; a dipole strength fitting to breakup.
-**Upstream — instrument.** A sum over many nuclei, each living 8.8 milliseconds — a trap summing frequencies over ions, a beam summing events.
+**Upstream — instrument.** A sum over many nuclei, each going on 8.8 milliseconds — a trap summing frequencies over ions, a beam summing events.
 **Upstream — inferencing prior.** That binding is a magnitude a nucleus has; that a nucleus is nucleons each in an orbit; that two neutrons binding are two neutrons each binding.
 
 **The magnitude.** A two-neutron separation energy, 369.15 ± 0.65 keV; a matter radius, far larger than a core's (nye with values); a pair's correlation from a breakup (nye).
@@ -497,7 +497,7 @@ An entry holds no names and no history. No one can back-credit fairly, and back-
 
 **The society.** Three caesium atoms in an ultracold gas where a magnetic field tunes a pair interaction; and three helium-4 atoms in a beam, one trimer at a time.
 
-**The members.** Each atom, taking its parity with a pair coupling — a scattering length's sign — one at a time.
+**The members.** Each atom, a non-living stable form, each parity with it an observing self's with a pair coupling — a scattering length's sign — one at a time.
 
 **Upstream — source positing.** A pair interaction as a source of binding; a binding state as a property of a potential; three bodies binding only where pairs do.
 **Upstream — method executing.** Atoms leaving a trap by three-body recombination against a field, a resonance where a trimer's energy reaches three free atoms, a scattering length from a resonance map; at helium, each trimer's geometry from momenta of three ions after a Coulomb explosion.
@@ -1008,6 +1008,6 @@ An entry holds no names and no history. No one can back-credit fairly, and back-
 
 **Existing, and possibling.** Four entries stand: three substrates full with all ten, the third with a perceiving self, and the fourth with a vacuum's counting, a vantage an observing shows to theorem grade. One leaves two lines empty and has a nye. Substrates above wait for working, each with its own turn.
 
-A fifth stands with 2.6, the first to enter through TWENTY-SEVEN 7.5's door and the first a self observes as one same-existing-society rather than as a sum, its two waters swapping roles under a tip. Two more stand with 2.7 and 2.8, one pattern with two grains — three binding where no two do — a nucleus and cold atoms, from fields sharing no instrument, a recurrence a collection is looking for, within this Part. Three more stand with 2.9 to 2.11, a phospholipid, a tissue and a planet, each having a residual word a field uses verbatim — leak, variability, imbalance — and with 2.10 a ghost a field dissolves twice within its own record. Two more stand with 2.12 and 2.13, a species and an ecosystem, and 2.14 and 2.15 with the sun and the cosmos, so that one entry now stands with every row of a nesting table from a vacuum to the sky. Two above a planet have an observing same-as a vacuum's with 2.5 — a count was a vantage's — and 2.15 is the first entry with two findings, a nye and an emptiness, which TWENTY-SEVEN's door now admits. Two same-existing-societies of state science stand with 2.16 and 2.17, each an observing one member at a time: a pattern no detection has, and an engine whose fuel is a correlation in neither side alone. Five stand with 2.18 to 2.22 beneath ghosts TWENTY-SEVEN enters — a molecule under pulling, a mixture, a melting protein, a single enzyme and a body under a monitor — each a same-existing-society a self observes its ghost across, so that entry and door record now address each other both ways for every ghost TWENTY-SEVEN's door catches.
+A fifth stands with 2.6, the first to enter through TWENTY-SEVEN 7.5's door and the first a self observes as one same-existing-society rather than as a sum, its two waters swapping roles under a tip. Two more stand with 2.7 and 2.8, one pattern with two grains — three binding where no two do — a nucleus and cold atoms, non-living stable forms, from fields sharing no instrument, a recurrence a collection is looking for, within this Part. Three more stand with 2.9 to 2.11, a phospholipid, a tissue and a planet, each having a residual word a field uses verbatim — leak, variability, imbalance — and with 2.10 a ghost a field dissolves twice within its own record. Two more stand with 2.12 and 2.13, a species and an ecosystem, and 2.14 and 2.15 with the sun and the cosmos, so that one entry now stands with every row of a nesting table from a vacuum to the sky. Two above a planet have an observing same-as a vacuum's with 2.5 — a count was a vantage's — and 2.15 is the first entry with two findings, a nye and an emptiness, which TWENTY-SEVEN's door now admits. Two same-existing-societies of state science stand with 2.16 and 2.17, each an observing one member at a time: a pattern no detection has, and an engine whose fuel is a correlation in neither side alone. Five stand with 2.18 to 2.22 beneath ghosts TWENTY-SEVEN enters — a molecule under pulling, a mixture, a melting protein, a single enzyme and a body under a monitor — each a same-existing-society a self observes its ghost across, so that entry and door record now address each other both ways for every ghost TWENTY-SEVEN's door catches.
 
 An observation that strains a pattern is as valuable a coupling as one that fills it, and an entry enters its straining.

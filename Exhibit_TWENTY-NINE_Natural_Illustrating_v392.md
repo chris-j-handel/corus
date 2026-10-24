@@ -1,4 +1,4 @@
-Exhibit TWENTY-NINE Natural Illustrating v391
+Exhibit TWENTY-NINE Natural Illustrating v392
 
 # Natural Illustrating
 
@@ -408,11 +408,11 @@ People already animate an atom, a neuron, a galaxy and a heartbeat, and each ani
 
 ## 5.1 Atoms, electrons, bonds and molecules
 
-**An atom.** A nucleus with electrons on rings. Natural Physics 3.1: a living atom is a coupling with its own 0, not changing, an electron-recursion winding a ground-state nothing, swaying and stopping nowhere, and an atom as an emanation is a periodic-table object, a whole a catalogue lists from beside; 4.6, an electron a ledger beside, not a self. Installs a particle as little owner, Natural Chemistry 6.4, one enduring little thing holding its properties between all couplings, Living Ghost Registry 5.3. Animates a winding about a nothing.
+**An atom.** A nucleus with electrons on rings. Natural Physics 3.1: an atom is a non-living stable form, a coupling with its own 0, not changing, an electron-recursion winding a ground-state nothing, swaying and stopping nowhere, and an atom in a catalog is a periodic-table object, a whole a catalogue lists from beside; 4.6, an electron a ledger beside, not a self. Installs a particle as little owner, Natural Chemistry 6.4, one enduring little thing holding its properties between all couplings, Living Ghost Registry 5.3. Animates a winding about a nothing.
 
 **Shells.** Shells filling 2, 8, 18, 32. Natural Physics 3.1: each subshell an odd ring of positions through its centre, twice with two parities, each capacity two equal squares coupling; Natural Chemistry 1.7, a square a sum of odds. Installs four sizes a self numbers from beside. Draws a fold climbing.
 
-**A bond.** A stick between two balls. Natural Physics 3.1: two windings share with one between, a pair two share a coupling's own making, same-existing in each atom, in neither atom alone, and a metallic sea a same-existing-society of windings; Living Ghost Registry, a bond a between of two selves, each living its own side. Installs a between fixing as a cut, lengths and energies their stopping places of a winding that stops nowhere.
+**A bond.** A stick between two balls. Natural Physics 3.1: two windings share with one between, a pair two share the molecule's own sharing, in neither atom alone, and a metallic sea a same-existing-society of windings; Living Ghost Registry, a bond a between of two selves, each living its own side. Installs a between fixing as a cut, lengths and energies their stopping places of a winding that stops nowhere.
 
 **Benzene.** A ring with single and double bonds one and then the other, or a circle within. Natural Chemistry 3.1: familiar drawings of bonds one and then the other are resonance contributors and no single contributor supplies an electron distribution a field measures, a floating neutral going on on a molecular surface. Installs a map as a territory. Drawings are a still; a molecule a motion. Möbius aromaticity draws a ring's parity and its twist changing and changing back together, and conrotatory and disrotatory closure, 2.4, two hands with one ring.
 

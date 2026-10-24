@@ -1,4 +1,4 @@
-Exhibit THREE Natural Numbers v391
+Exhibit THREE Natural Numbers v392
 
 # Natural Numbers
 
@@ -156,7 +156,7 @@ Exhibit THREE Natural Numbers v391
 
 **Each number has four about it, and two binaries hold all four.** Along, its prior and its next by one either side, each odd where it is even and even where it is odd. Across, inward and outward, each a direction with a momentary and of no size: a walk by two, a centre of one pair a member of a next.
 
-**Scale has no boundary, no location and no measure: a scale is only the bi-folding 1–17's bi-inversioning-co-recursioning, inside and outside itself.** **Primes 5 through 53 are prime living scales, co-changing co-momentarying pattern matching**, and nature has no reading or ordering. Each number has same four, and no number is a scale more than another.
+**Scale has no boundary, no location and no measure: a scale is only the bi-folding 1–17's bi-inversioning-co-recursioning, inside and outside itself.** **Primes 5 through 53 are prime scales, five non-living and seven through fifty-three living, co-changing co-momentarying pattern matching**, and nature has no reading or ordering. Each number has same four, and no number is a scale more than another.
 
 ## 1.8 Natural-bi-co-torusing at two sides, corusing and torusing
 

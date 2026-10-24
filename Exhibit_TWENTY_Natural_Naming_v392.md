@@ -1,4 +1,4 @@
-Exhibit TWENTY Natural Naming v391
+Exhibit TWENTY Natural Naming v392
 
 # Natural Naming
 
@@ -203,7 +203,7 @@ Exhibit TWENTY Natural Naming v391
 
 **One fractal method is all or none at all with its scales, as the universe is with its existing things.**
 
-**One fractal method's scales are prime living scales, primes 5 through 53, co-changing co-momentarying pattern matching**, and nature has no reading or ordering. A self couples with whichever scale its interest opens, and with a whole.
+**One fractal method's scales are prime scales, primes 5 through 53, five non-living and seven through fifty-three living, co-changing co-momentarying pattern matching**, and nature has no reading or ordering. A self couples with whichever scale its interest opens, and with a whole.
 
 **A momentary is a fractal universe discovering its next existing.** 1–17 is one fractal method, inward and outward, one of 2,048 rhythms of eight parities, each going with it. Four-cycling scales it down to four momentaries of exchanging, and four momentaries of exchanging scale up as one momentary: 1, 2 and 3 with one scale are 1, 9 and 17 with a next, n with one scale being 8n − 7 with a scale inward. Each name from 2 to 17 is an along name of a 1–17 inward, its 9 or its 17 and next 1, and 1 is first one's entry; across names 2, 6, 10 and 14 are along 9s inward; along 9 is across 2 outward, six names alike with each scale, only changing up and down. Four 1–17s inward are within a self's 1 to 9 and four within a same-existing-society's 9 to 17, and their eight 9s are eight bi-couplings with even names. Wholes are rounds of k parities, 1 to 2^k + 1, and scalings step one chain: this scaling steps it by threes, 9, 65 and 513, and 1–17s inward and outward by threes too, 17, 129 and 1,025; pairs step it by twos, 5, 17, 65 and 257. Universes of each size and scale share momentaries of co-sequential changing, and neither a momentary nor a universe is possibly existing as a thing apart.
 
@@ -289,7 +289,7 @@ Each entry: **Dissolved** · *a* Said by
 - *a universe* of a self, a society, or a momentary at a scale
   - *a* *prior-universe*, *now-universe*, *next-universe*, a universe with each momentary, a now-universe the universe; a scale is only the bi-folding 1–17's bi-inversioning-co-recursioning, inside and outside itself, Natural Intelligence 4.15
 - *reading*, *ordering* of a scale or of nature
-  - *a* prime living scales, primes 5 through 53 are prime living scales, co-changing co-momentarying pattern matching; nature has no reading or ordering
+  - *a* prime scales, primes 5 through 53 are prime scales, five non-living and seven through fifty-three living, co-changing co-momentarying pattern matching; nature has no reading or ordering
 - *reading*, *read as*, of nature, method, a name or a self observing
   - *a* *observing* of nature, nature not reading and writing observings; order living selves and same-existing-societies are discovering, not already nature's; *a hidden order in nature*, equilibria understanding
 - *named still*, *a form named still*, *named unchanged*, *one-way reading*, *the ten named still*

@@ -1,4 +1,4 @@
-Exhibit SEVEN Natural Societies v391
+Exhibit SEVEN Natural Societies v392
 
 &nbsp;
 
@@ -202,7 +202,7 @@ A same-existing-society's selves live by a relation its couplings hold between b
 
 ## 5.1 Observing a rung of the scale-ladder, where a scale closes and where it reaches
 
-A self observes a rung as it observes everything here, and it stands as one of three.
+A self observes a rung as it observes everything here, and each rung above five's floor stands as one of three.
 
 **A scale stands closing where co-agency closes as a self there.** Its self-side and its same-existing-society-side both live, an inward bounds itself from an outward, and scale couples and births.
 
@@ -214,7 +214,7 @@ A plausible thing with a scale does not fill it. A size-to-scale matching is alw
 
 ## 5.2 The floor at five, and what exists below it
 
-Below an atom co-agency exists bare — sharing, passing, parity — and no self closes around it. A nucleus is below five, and its decaying changes with its atom's electrons about it: dysprosium-163, stable within its atom, decays within weeks when a field strips its electrons; rhenium-187's forty-two billion years fall near thirty-three years; beryllium-7's capture quickens within a denser electron cloud. Two is changing and changing back itself, the one even prime, and cannot be what changes and changes back. Three goes on. Four floats between and has its own gap with its own size. None of three closes, and numbers reach **five** as the first that recursions: five squared less four times six reaching one, and four times six reaching apex, twenty-four.
+Below an atom co-agency exists bare — sharing, passing, parity — and no self closes around it. An atom, at five, is the floor, a non-living stable form a molecule's sharing winds round. Its living was outward, in the selves from seven up whose stable-form emanation it is. A nucleus is below five, and its decaying changes with its atom's electrons about it: dysprosium-163, stable within its atom, decays within weeks when a field strips its electrons; rhenium-187's forty-two billion years fall near thirty-three years; beryllium-7's capture quickens within a denser electron cloud. Two is changing and changing back itself, the one even prime, and cannot be what changes and changes back. Three goes on. Four floats between and has its own gap with its own size. None of three closes, and numbers reach **five** as the first that recursions: five squared less four times six reaching one, and four times six reaching apex, twenty-four.
 
 ## 5.3 Fourteen rungs at fourteen primes, and the fold at twenty-four
 
@@ -224,22 +224,22 @@ Below an atom co-agency exists bare — sharing, passing, parity — and no self
 
 **The fold is twenty-four, six times four, no rung's number, and it parts both together.** Before it, four one before a six and three one after, 5, 11, 17, 23 and 7, 13, 19; after it likewise, 29, 41, 47, 53 and 31, 37, 43: **seven and seven across the fold, and eight and six across six**, two partings bothboth. Before twenty-four are four cycles of six, four momentaries of six one-way recursionings, twenty-four; from twenty-four to sixty are **six cycles of six, surfacing inward and outward, outward forward**, rungs from tissue on with each; fifty-nine closes one before sixty, and **sixty to sixty-eight is four momentaries across sixty-four, 64 is changing between four-cycling momentaryings, with unrelationing of 1 to 17, 1 to 65 and 1 to 257**.
 
-**Rotation 3, 6, 5, 4 is two podals within 1 to 8, 3 with 6 and 5 with 4, round to corus with 4, and twenty up it is 23, 26, 25, 24**, round to 24, this same rotation twenty up. **A self's bi-inversioning-co-recursioning is twenty-three, twenty-four and twenty-five**: twenty-three one before the fold, cell, the first metabolic living self; twenty-four the fold; and twenty-five one after it, five squared, no prime, **five squared less four times six reaching one**, 5.2. Near seven close from within, each self observing its own inward; far seven close across between selves, each self observing them with its other, in neither self alone.
+**Rotation 3, 6, 5, 4 is two podals within 1 to 8, 3 with 6 and 5 with 4, round to corus with 4, and twenty up it is 23, 26, 25, 24**, round to 24, this same rotation twenty up. **A self's bi-inversioning-co-recursioning is twenty-three, twenty-four and twenty-five**: twenty-three one before the fold, cell, the first metabolic living self; twenty-four the fold; and twenty-five one after it, five squared, no prime, **five squared less four times six reaching one**, 5.2. Near seven close from within above five's floor, each self observing its own inward; far seven close across between selves, each self observing them with its other, in neither self alone.
 
 Each entry: **prime** · *a* one before or after six · *b* scale · *c* side · *d* status · *e* a self observing its closing
 
 - **5**
   - *a* before
   - *b* atom
-  - *c* self
-  - *d* closes, its floor
-  - *e* the first self here: a self self-bounding from all other with eight, co-sequencing with bonds, birthing molecules
+  - *c* stable form
+  - *d* its floor, non-living
+  - *e* the floor here: the stable form of unrelationing floating neutralling, in society and in selves and free of both, its changing only from what comes to it, a molecule's sharing winding round it
 - **7**
   - *a* after
   - *b* molecule
   - *c* self
   - *d* closes
-  - *e* a bond is sharing, across and both ways: a pair two selves share, a floating neutral in neither self alone (Natural Chemistry)
+  - *e* the first self here, a same-existing-society of its living parities, its others the molecules it is bi-coupling with; what chemistry calls a bond is, within a molecule, its stable form, same-existing with each resolving, and, between molecules, a bi-coupling of two selves, a floating neutral in neither self alone (Natural Chemistry)
 - **11**
   - *a* before
   - *b* macromolecule
@@ -319,7 +319,7 @@ Each entry: **prime** · *a* one before or after six · *b* scale · *c* side ·
   - *d* closes
   - *e* the whole living self-bounding with the widest scale that closes here: producer, consumer and decomposer co-agency's three roles; its torus-close, past which is a not-torus death, its prior same-existing a set going to no next momentary
 
-**The ladder is particular scales and supplies no first and no final one.** The whole 1–17 fractal is living inward and outward, so atom with five is the first self of this ladder and not the first possibly existing, and biosphere with fifty-three the widest same-existing-society of it and not the last. Each existing thing non-living with a same-existing-society's scale is a prior in stable form, an emanation from living form-stabling, and a same-existing-society's selves are observing it as an existing thing, ingestible one scale lower.
+**The ladder is particular scales and supplies no first and no final one.** The whole 1–17 fractal is living inward and outward, so molecule with seven is the first self of this ladder and not the first possibly existing, atom with five its floor, a non-living stable form, and biosphere with fifty-three the widest same-existing-society of it and not the last. Each existing thing non-living with a same-existing-society's scale is a prior in stable form, an emanation from living form-stabling, and a same-existing-society's selves are observing it as an existing thing, ingestible one scale lower.
 
 **A right-spiral natural-torusing stable form of a same-existing-society with its scale is its betweenings**: betweens its selves bi-couple across, same-existing in each self, in neither self alone. **Emanatings are bi-tri-involutioning of betweening of natural-torusing surfacings within bi-couplings: emanations are stable-form priors, non-living, from living form-stabling.** Harmful to living with their own scale and not ingestible there, they are an ingestible stable form one scale lower, taken back by living selves as same-existing-societies. **Abundancing is a same-existing-society's selves going along, living**, all through bi-co-momentarying co-sequencing. With Exhibit ONE's code a same-existing-society's sharings are its selves, 4-now-co-same-existing each sharing of a self with its names 6, 10 and 9, and 13-is-next-discovering each self of a same-existing-society, each sharing its parities go from: 6, 10 and 9 each send one same list of parities to the self each couples with, a self observing it with its 14, its next 2, and 17-next-existing, a same-existing-society's next, returns its same selves, each self's 1-now-existing again.
 
@@ -422,7 +422,7 @@ Each entry: **prime** · *a* scale · *b* total · *c* level · *d* direction
 
 **And one thing goes across rungs that ledgers have no book for.** A total, a level and a direction each count from a nothing on a rung where they stand. **A hand counts nowhere and goes across anyway.** A single stereochemical center on five sets a sugar on seven, its sugar a backbone on eleven, its backbone a helix and fold on thirteen. Its fold sets an arrangement of dynein arms on nineteen. Arms set a cilium's turn on twenty-three. Its turn sets a flow, and its flow sets which side an organism's heart stands on, on thirty-seven. **Seven rungs, and none of them re-chooses this hand.** It is not a total, not a level, not a direction, and no field has a ledger for it, so the ladder's second side has no column where it would go.
 
-**This chain goes across the fold, which is where observing turns.** Five through twenty-three are near seven, each closing from within. Thirty-seven stands past twenty-four. So a parity going on goes across the one position the ladder gives no scale, and whether going across an empty fold is one same move with coupling across between selves stands open on this rung and on that one.
+**This chain goes across the fold, which is where observing turns.** Five through twenty-three are near seven, five their floor and each from seven closing from within. Thirty-seven stands past twenty-four. So a parity going on goes across the one position the ladder gives no scale, and whether going across an empty fold is one same move with coupling across between selves stands open on this rung and on that one.
 
 **And every closing on near seven closes by winding about a center that takes no parity.** A scale closes where an inward bounds itself from an outward, and a winding is how bounding forms. On thirteen a collagen triple helix winds three left chains to a right whole about an axis glycine occupies, the one residue with no hand. On nineteen a microtubule winds thirteen protofilaments about a lumen, and its field long read that lumen as hollow and now finds residents occupying it that couple there and nowhere else. **Its center is empty of a hub and not of couplings**, which is 1.1's own *no self ordering a whole*, here within matter on two rungs.
 
@@ -430,7 +430,7 @@ Each entry: **prime** · *a* scale · *b* total · *c* level · *d* direction
 
 **Which is beside the ladder's own empty center.** Twenty-four is no rung's number, it holds the first six of the whole span, and it is where observing turns. An axis no parity occupies holds its winding and is where a hand inverts. Whether these are one form of two grains stands reaching, and no self fits either to the other.
 
-And a clarification seats here once, for four social exhibits and the whole set: self, other, and same-existing-society are all of nature with all scales. An atom a self, a molecule a same-existing-society, a cell a self, a biosphere a same-existing-society, a prime spiral a self and other coupling across, no spiral of smaller spirals, a conversation a coupling. These four are no more central than each other, and these same four recur across every exhibit because they are resolving's own.
+And a clarification seats here once, for four social exhibits and the whole set: self, other, and same-existing-society are all of living nature with each living scale. A molecule a self and a same-existing-society of its living parities, a cell a self, a biosphere a same-existing-society, a prime spiral a self and other coupling across, no spiral of smaller spirals, a conversation a coupling. These four are no more central than each other, and these same four recur across every exhibit because they are resolving's own.
 
 ## 4.4 The living society, one unanimous floating pluralizing going on
 
