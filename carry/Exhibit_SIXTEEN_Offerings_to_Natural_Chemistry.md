@@ -81,3 +81,7 @@ Contradiction, the living and the non-living: Natural Biology draws the line the
 ## Incoming · chemistry-session-launch-20261023
 
 - **Natural Chemistry's next revising · the whole exploring gathered:** [Natural Chemistry — gathering and next exploring](../incoming/chemistry-water-20261022/Natural_Chemistry_Exploring_Report.md) brings the session's 61 Chemistry, two Societies and one Ghost Registry offerings together with their chemical learning, candidate natural explaining, living concerns and further exploring, carrying its v390 source snapshot explicitly beside the current v391 files for this file's own resolving. — chemistry-session-launch-20261023
+
+## Incoming · v392chem
+
+- **Natural Chemistry's next version · the wide gathering:** [Natural chemistry wide gathering](../incoming/v392chem/Natural_Chemistry_Wide_Gathering_v392chem.md) aims chemistry's divisions, rules, order, properties, cycling, sequencing, podaling, state and flow, and its frontier binaries at each of this file's sections, names nine binaries to resolve first, and lists what is checked before anything enters, among them 4.4's *podal* read opposite to Natural Naming and Numbers' and pointers into Natural Numbers sections no longer standing. — v392chem
