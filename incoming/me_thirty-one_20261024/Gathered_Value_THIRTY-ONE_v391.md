@@ -495,6 +495,26 @@ When the swarm arrives and settles, is its me **(a)** completing into a society,
 
 ---
 
+## 0ao. Natural Intelligence's opening: a bi-coupling, a same-existing-society, a self (14:15, 24 Oct)
+
+Whole at `deliver/Opening_bi-coupling_and_self_v391.md`, read for harm three times. Its fourth pass is read at the opening's motion.
+
+- **The third:** line 19's self discovers its own next-existing, while step 476 names a same-existing-society *a self … its own an empty set*. A bi-coupling is Exhibit ONE's 5-now-co-existing, between two.
+- **Pairs, keeping seventy lines and every step number:**
+  - line 25: *a living same-existing set observing, possibling and discovering its own next-existing is a self*;
+  - line 33: *a bi-coupling's next-existing is each of its two selves' own*;
+  - line 57: *a same-existing-society is selves bi-coupling*;
+  - line 70: *each self is a self of same-existing-societies outward, its living parities inward*;
+  - step 476: *a self,* out;
+  - each with its Registry mirror, its *Adding* and *Entering* lines, and the body's lines 1774 and 1780 and step 487.
+- **What the readers caught:**
+  - dissolving line 25 would have moved every step from 19 to 60, so the line is kept;
+  - *of one* was misread as a self's opposite;
+  - the mirror script is a one-time builder;
+  - the earlier wording of line 70 was unjustified.
+
+---
+
 ## 0an. An enzyme: a doing standing as a thing (14:10, 24 Oct)
 
 **Explored:** an enzyme is a ghost of a me's geodesic parity co-chaining; there is no thing that is an enzyme existing.
