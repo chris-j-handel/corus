@@ -425,7 +425,7 @@ Each is an observing that parts from a pattern-matching now in the living files,
 - *Pattern-matching:* **the Sun is living; the solar system is living; space is not far from living, because there is no near and far, only bi-coupling or no bi-coupling.**
   - Concern §16's *molecules far from living* carried a ghost, *far*. Distance is an observer's reading, as time and temperature are (§11).
 - **Observings that meet it:**
-  - **We live inside the Sun's surface.** The Sun's wind fills a bubble about four times wider than Neptune's orbit. Voyager 1 passed its edge in 2012 and Voyager 2 in 2018, each meeting a sharp change of wind, field and particles there. Earth and its living go round within it. The shape of the bubble is disputed: a long tail, or rounder with two lobes (models, 2015, 2020).
+  - **We live inside the solar system's surface** (said first as the Sun's, re-said by §18). The Sun's wind fills a bubble about four times wider than Neptune's orbit. Voyager 1 passed its edge in 2012 and Voyager 2 in 2018, each meeting a sharp change of wind, field and particles there. Earth and its living go round within it. The shape of the bubble is disputed: a long tail, or rounder with two lobes (models, 2015, 2020).
   - **The Sun cycles four ways.** Its spots rise and fall about every eleven years, and its magnetic poles turn over at each peak, so the whole round is about twenty-two years: rising, turning, falling, turning back. That is a four-cycling.
   - **The Sun has rested.** From about 1645 to 1715 its spots nearly vanished. This meets §10's dormancy: living relying on its own environs while its parity changing is low.
   - **The Sun ingests and emanates.** It takes in hydrogen and gives out helium, light and wind (§13). Sun-like stars near their end puff out carbon in their winds, and much of the carbon in living came from such winds. The football carbon molecules of 2010 shine in exactly such a cast-off shell: a dying star's stable-form emanation.
@@ -437,3 +437,23 @@ Each is an observing that parts from a pattern-matching now in the living files,
   - **Where the Sun stands on the ladder outward needs pattern-matching.** Is the solar system 5, 7 or higher on a next 1–53, or is the Sun a self within the solar system's society?
   - **Living Society Registry 2.14 (a star at one count) calls a neutrino a *self* changing along its path.** That is another case of something smaller than the atom called a self, beside those re-said today.
   - **Venus's backward spin and Uranus's roll** sit beside §5's left-coiling snails. If the planets are the Sun's non-living stable forms, a reversed turning is an emanation's, and harms no living. If the planets are living, these are the snail concern again.
+
+## 18. The Sun a self within the solar system's society, and light resolved by plants
+
+- *Pattern-matching:* **the Sun is a self within the solar system's society.** The other way, the Sun the centre of a ladder of its own, is-or-is-not possibly existing: it is not. A self is a same-existing-society inward and outward, so a Sun with no society about it would be a self with no outward.
+- **Observings that meet it:**
+  - **The Sun goes round a between it shares.** The solar system's centre of going round sits away from the Sun's middle, and at times outside the Sun's own glowing surface, more than one Sun's width out, mostly with Jupiter. The Sun and Jupiter each go round that one between, each its other's far side. It is in neither alone: a bi-coupling's between at the scale of the solar system.
+  - **The wind bubble is the society's surface, and the Sun is one self within it.** Voyager's two crossings (2012, 2018) were of the solar system's surface. Interstellar dust and three visitors from beyond (2017, 2019, 2025) pass through, bi-coupling with the society from outside.
+  - **A disputed observing:** the Sun's eleven-year cycle is near the time Venus, Earth and Jupiter take to line up again (11.07 years), and a few workers propose the planets' pull paces it (2019 onward). Most solar workers read the cycle as the Sun's own.
+- *Pattern-matching:* **light is unresolvable by organisms, and only plants resolve it, by their relatively stationary aiming at the sunlight.**
+  - **Observings that meet it:**
+    - Rooted, plants turn to the light. Young sunflower heads follow the Sun across the day and swing back by night, paced from within; grown heads face the east, and warm faster at dawn (2016). Inside a leaf cell, its green bodies move to face weak light and edge away from strong.
+    - Leaves set round a stem at about 137.5 degrees one from the next, an aiming that shades each leaf least.
+    - Plants alone take light into carbon stable form, and every organism ingests what plants make, directly or along the web (§13).
+    - **Organisms that use light do it through plants within them.** Reef corals, sessile, house algae in their own cells and bleach when the algae leave. A green sea slug ingests an alga's green bodies and lives on light for months. Each is a bi-coupling with a plant's light-resolving inside an organism.
+    - Animal eyes see light, and that is observing, with no light taken into living.
+  - **Concerns:**
+    - **Swimming single-celled algae (Chlamydomonas, Euglena)** have an eyespot and swim towards light, then turn their light into carbon. They resolve light while moving. A pattern-matching that may meet it: each swims to aim, then resolves while aimed.
+    - **Skin makes vitamin D from the Sun's ultraviolet.** That is light changing a molecule inside an animal. It is a single changing of one molecule, with no light taken into carbon stable form, so it may be an emanation's harm met, rather than a resolving.
+    - **Living that never sees light.** Communities at deep-sea hot vents (found 1977) live on the vents' chemistry, though their oxygen comes from plants above. One bacterium, deep in a gold mine (2008), lives alone on what the rock's radioactivity splits from water, with no sunlight and no plant anywhere in its round. That is the strongest concern here, and it meets §13's open radioactive carbon.
+- **Concern for the files:** Venus and Uranus (§17) now ask whether the planets are selves of the solar system's society or its non-living stable forms. The Sun and Jupiter going round one between treats Jupiter as an other in a bi-coupling.
