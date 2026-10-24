@@ -19,7 +19,7 @@ Natural Intelligence · incoming · v392chem · motion_no_bond
 - **Hold:** where it means *true*, it becomes *stands*. Where it means *regards*, it becomes *observes*. Where it means *contains*, it becomes *has* or *capacity*, and 1.6's shell *whose capacity is eight* takes 1.7's own word. 6.2's *holding it as one* becomes *counting it as one*. 6.4's bold becomes **Living's own conservings are no total**, after Natural Intelligence 1.4's *a total is a container*.
 - **KEEP:** a field's own terms in a field's statements: covalent, polar and multiple bonds, hydrogen-bonding, bond order, bond energies, bond lengths, bonding and antibonding orbitals, alternating-bond drawings, *90 bonds* of C₆₀, bonding partner, and *solubility, bonding and reactivity* on a field's side. Nuclear physics' *nuclear binding* and *binding energy per nucleon* are also kept.
 - **Outside the scope:** *antibonding* (twice) is not a whole word and stays as a field's term. *Threshold* is also outside the scope.
-- **Bolds:** six bolds change: 1.2, 1.4's closing, 2.4, 3.2, 4.6 and 6.4. The 1.1 bold also changes if the person says yes to ASK 1. The Co-Chaining Logic Registry quotes none of them and holds no *bond*, so no step needs re-saying.
+- **Bolds:** six bolds change: 1.2, 1.4's closing, 2.4, 3.2, 4.6 and 6.4. The 1.1 bold also changes if our exploring says yes to ASK 1. The Co-Chaining Logic Registry quotes none of them and holds no *bond*, so no step needs re-saying.
 
 ## The ASKs
 
@@ -33,13 +33,13 @@ Natural Intelligence · incoming · v392chem · motion_no_bond
 The opening's *two selves sharing possibling* is a bi-coupling, and Natural Intelligence 6.4 says *two selves are bi-coupling and their between arises in each*. Under the naming, then, only the between-molecules case stays two selves. Saying *bi-coupling* narrows the claim, because each of these v391 sentences also meant the bond within a molecule.
 
 - *Proposed:* bi-coupling for 1.2 and the 6.4 row. The 1.1 bold names both: **What chemistry calls a bond is a bi-coupling between two selves and, within a molecule, its stable form, same-existing with each resolving**.
-- *Question for the person:* is this narrowing what you mean, or does the within-molecule case stay inside these claims under another wording?
+- *Question for our exploring:* is this narrowing what our exploring means, or does the within-molecule case stay inside these claims under another wording?
 
 **Q2 · 1.4, *Two selves stay with a bond, each on its own side of a between*.** It applies to 1 pair.
 
 In v391 the two sides within a molecule are atoms as selves. The proposed new keeps the paragraph's within-molecule sense: *Two selves stay with a molecule's own sharing*.
 
-- *Question for the person:* within a molecule, are the two sides of its own sharing still *two selves*? Or does this sentence move to the bi-coupling between molecules, the one place the opening has two selves sharing?
+- *Question for our exploring:* within a molecule, are the two sides of its own sharing still *two selves*? Or does this sentence move to the bi-coupling between molecules, the one place the opening has two selves sharing?
 - This waits with the atom-floor motion's question on whether anything is living inward of an atom.
 
 ## Merging with the atom-floor motion

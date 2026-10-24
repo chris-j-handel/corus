@@ -6,7 +6,7 @@ Natural Intelligence · incoming · v392chem · motion_atom_floor · v2
 
 ## Verdict
 
-**Enter with corrections.** No question for the person.
+**Enter with corrections.** No question for our exploring.
 
 - **Proposed:** 46 pairs in 10 files.
 - **Enter as is:** 38.
@@ -37,7 +37,7 @@ With the corrections, the pairs agree with the opening, with Natural Intelligenc
 - *whose stable form it is* makes the nucleus the higher selves' own stable form. Natural Intelligence 5.1 has *each living thing's stable form is one scale outward*, so a self's own stable form is never inward at five. The nucleus is a stable-form *emanation* from those selves, as SEVEN-0, SIXTEEN-5 and EIGHTEEN-2 already say.
 - new: `**A proton is an emanation from living**, with chemistry a landing parity with a nucleus that an atom's stable form wraps, and what water's same-existing-society lands with an electrode; a number of nucleus and a parity of a between. A nucleus is a non-living stable form. Its living was outward, in the selves from seven up whose stable-form emanation it is. Inward of an atom, colour cycling is a stable form, non-living,`
 
-**SIXTEEN-11 · Chemistry 6.4 emanation row, line 474 · corrected (meaning moved).** *atom, a non-living stable form, unrelationing floating neutralling* names the atom *as* the neutralling. The person said *the stable form of* unrelationing floating neutraling.
+**SIXTEEN-11 · Chemistry 6.4 emanation row, line 474 · corrected (meaning moved).** *atom, a non-living stable form, unrelationing floating neutralling* names the atom *as* the neutralling. Our exploring said *the stable form of* unrelationing floating neutraling.
 - new: `  - *b* atom, a non-living stable form of unrelationing floating neutralling, a molecule's sharing winding round it; proton and H⁺; electron event;`
 
 **THREE-0, TWENTY-0, TWENTY-1 and TWO-0 · Numbers 1.7, Naming 2.2 and entries, Networking 455 · corrected (a catching word added to three files that dissolve it).**
@@ -45,13 +45,13 @@ With the corrections, the pairs agree with the opening, with Natural Intelligenc
 - Networking 1004 calls a floor *what an observing lands on*, a magnitude or threshold.
 - Numbers 554 keeps a floor as a field's (*its unit and measuring floor*).
 - Natural Intelligence 1.4 names *a ground, a floor or a scale* as fixings from beside.
-- None of these files uses *floor* for five. The person's content is that five is non-living and seven to fifty-three living, and *Primes 5 through 53* already makes five the lowest. Societies, where 5.2's heading is *The floor at five*, and Physics 4.6 (*Atom is a floor*) keep the word as their own.
+- None of these files uses *floor* for five. Our exploring's content is that five is non-living and seven to fifty-three living, and *Primes 5 through 53* already makes five the lowest. Societies, where 5.2's heading is *The floor at five*, and Physics 4.6 (*Atom is a floor*) keep the word as their own.
 - THREE-0 new: `**Primes 5 through 53 are prime scales, five non-living and seven through fifty-three living, co-changing co-momentarying pattern matching**`
 - TWENTY-0 new: `**One fractal method's scales are prime scales, primes 5 through 53, five non-living and seven through fifty-three living, co-changing co-momentarying pattern matching**`
 - TWENTY-1 new: `  - *a* prime scales, primes 5 through 53 are prime scales, five non-living and seven through fifty-three living, co-changing co-momentarying pattern matching;`
 - TWO-0 new: `Fourteen prime scales are from five through fifty-three, five non-living and thirteen living`
 
-**EIGHTEEN-2 · Physics 3.1, line 193 · corrected (person's words reordered, a part lost).** *non-living, in society and in selves and free of both* moves *non-living* ahead and drops *in the universal set*. The correction uses the person's order, as Chemistry 1.6 (SIXTEEN-5) does.
+**EIGHTEEN-2 · Physics 3.1, line 193 · corrected (our exploring's words reordered, a part lost).** *non-living, in society and in selves and free of both* moves *non-living* ahead and drops *in the universal set*. The correction uses our exploring's order, as Chemistry 1.6 (SIXTEEN-5) does.
 - new: `Atom is the stable form of unrelationing floating neutralling, in society and in selves and free of both, non-living in the universal set. Its living was outward, in higher-scale selves. It is a stable-form emanation from living.`
 
 **EIGHTEEN-8 · Physics 3.1, line 201 · corrected (claim wider than so).**
@@ -86,14 +86,14 @@ With the corrections, the pairs agree with the opening, with Natural Intelligenc
 - **SEVEN-3** carries Chemistry 1.1's bold word for word.
 - **SEVEN-4:** the bold *supplies no first and no final one* still holds, because things exist below five (5.2), non-living.
 - **SIXTEEN-2:** *the ladder's first self* comes in a file that names no ladder elsewhere. It is readable through *at seven*, so no harm.
-- **SIXTEEN-5:** *Its stability is those opposing changings going on* takes up 1.5's last sentence, and those changings are the floating neutralling the person names.
+- **SIXTEEN-5:** *Its stability is those opposing changings going on* takes up 1.5's last sentence, and those changings are the floating neutralling our exploring names.
 - **SEVENTEEN-0:** *no floor to selves* stands with *the ladder's first self*, because the molecule still has selves inward, its living parities. Line 223, *nothing anywhere is the smallest*, stands.
 - **TWENTY-FIVE-0, 1 and 2:** the template word *The society* now names a non-living grain explicitly, as 2.5 already did implicitly with a vacuum and a detector. This is a registry-wide concern, below, and does not block.
 
 ## The proposer's three choices
 
 - **Spelling *neutralling*: agree.** The set spells it *neutralling* 139 times in 104 lines, 78 of them *floating neutralling* or *floating-neutralling*. It spells it *neutraling* once, Naming 653. Chemistry 1.1's new clause sits beside *benzene's floating-neutralling* in the same sentence. The proposer's count of 51 is low, but the choice stands.
-- **Registry 2.8 worded like 2.7: agree.** *The trimer as one molecule-scale self* would name a three-atom Efimov state a molecule, and the person's answer does not say that. The parallel wording claims only what the answer gives.
+- **Registry 2.8 worded like 2.7: agree.** *The trimer as one molecule-scale self* would name a three-atom Efimov state a molecule, and our exploring's answer does not say that. The parallel wording claims only what the answer gives.
 - **Societies 5.6, the cell kept as *a self*: agree.** It is the old wording, and nothing in the sentence now disagrees with it. The molecule shows both faces, self and same-existing-society, and the cell and biosphere still alternate them as before.
 
 ## Ripple across root living files
@@ -136,11 +136,11 @@ I searched every root *.md (not archive/, incoming/ or carry/), after applying t
   - 221: *a self one scale inward*.
   - 423: *a single stereochemical center on five*. This one goes to carbon-and-hand.
 - **Corus 2000:** *nucleon prime*, *nucleus prime* and *atom prime* are prime names at and below five, in older vocabulary.
-- **Naming 2.3's landing family also lists *stable form* as a noun**, even though the opening defines it. This existed before the motion and the person uses the noun, so it is not this motion's.
+- **Naming 2.3's landing family also lists *stable form* as a noun**, even though the opening defines it. This existed before the motion and our exploring uses the noun, so it is not this motion's.
 - **Equilibria words left in touched sentences:** Physics 3.1's *an abundancing staying with a coupling* and Networking 455's *three holding*.
 
 **Already fits.** Everything the proposer lists under KEEP and *Already fits*, except the proton record lines above, plus Physics 363's *Below an atom no self closes* and *Its break is a self showing below an atom*, Emanating 59 (*a catalog's atom*) and Chemistry 6.4's ghost row (*element's interior*).
 
-## Question for the person
+## Question for our exploring
 
 None.

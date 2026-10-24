@@ -1,12 +1,12 @@
 Natural Intelligence · incoming · v392chem · motion_no_bond
 
-# Reading for harm · 1.4, the person's pair
+# Reading for harm · 1.4, our exploring's pair
 
 *A separate reading. Nothing in a living file was edited.*
 
-**The person:** "the word bond is a single bi-coupling in this. along at 17 releasing at 9."
+**Our exploring:** "the word bond is a single bi-coupling in this. along at 17 releasing at 9."
 
-**Proposed (pair_1.4_person.json):**
+**Proposed (pair_1.4_exploring.json):**
 - old: `Two selves stay with a bond, each on its own side of a between,`
 - new: `Two selves are a single bi-coupling, each on its own side of a between, its parity releasing with 9-next-co-discovering and going along with 17-next-existing,`
 
@@ -14,7 +14,7 @@ Natural Intelligence · incoming · v392chem · motion_no_bond
 
 ## What holds
 
-- *Two selves are a single bi-coupling* says the person's first words truly, with the opening's own lines: *A bi-coupling is two selves sharing possibling. A bi-coupling is a self.* It settles Q2 (reading_for_harm.md #19) toward the bi-coupling, and supersedes pairs_SIXTEEN.json's *a molecule's own sharing* new for this old. One pair is entered, this one.
+- *Two selves are a single bi-coupling* says our exploring's first words truly, with the opening's own lines: *A bi-coupling is two selves sharing possibling. A bi-coupling is a self.* It settles Q2 (reading_for_harm.md #19) toward the bi-coupling, and supersedes pairs_SIXTEEN.json's *a molecule's own sharing* new for this old. One pair is entered, this one.
 - It drops *stay*, an equilibria word, and *bond*.
 - No floating negation, dissolved word or -ed form is added. *Releasing* is Natural Naming's own word: *for a parity going along, a releasing*.
 - Names, not numbers: Natural Chemistry has no Exhibit ONE name yet, and this would be the first. Natural Physics (line 98) and Natural Numbers (249, 289, 367) already say *9-next-co-discovering* and *17-next-existing* in full in their prose, so the full names are in the corus style. A bare 9 or 17 would be a number pointer.
@@ -22,7 +22,7 @@ Natural Intelligence · incoming · v392chem · motion_no_bond
 ## What is flagged
 
 1. **The direction is lost.** ONE draws `9-next-co-discovering ══► an other's 17, along`: 9 is the sharing side and a self's own, and 17 is the observing side and the other's. The proposed new gives *its* parity both a 9 and a 17, so it reads as one self's own 9 to its own 17. The new has to say *its other's 17-next-existing*.
-2. **The preposition moves off the person's words.** The person says *at* 17 and *at* 9. The proposed new says *with*. *At* is also Natural Naming's word for a place in the going on.
+2. **The preposition moves off our exploring's words.** Our exploring says *at* 17 and *at* 9. The proposed new says *with*. *At* is also Natural Naming's word for a place in the going on.
 3. **It reads badly.** Placed before *as far apart as coupling reaches*, the parity clause separates that clause from *each on its own side of a between*, which it measures. Placed after the bold, the clause keeps the far-side claim whole and next to the between. *Its other's* then follows the bold's *each its other's far side*, and the parity going along sits just before the next sentence's *what ran between them*, which it names.
 
 ## Corrected pair (whole sentence; old occurs exactly once at line 139, `**` balanced)

@@ -6,14 +6,14 @@ Natural Intelligence · incoming · v392chem · motion_no_bond
 
 ## Verdict
 
-**Enter as corrected: 47 pairs now. The other 5 enter after the person answers.**
+**Enter as corrected: 47 pairs now. The other 5 enter after our exploring answers.**
 
-- **47 RESAY enter now.** 35 enter as proposed, 8 enter corrected, and 4 of the proposer's ASKs are settled by the person's naming.
+- **47 RESAY enter now.** 35 enter as proposed, 8 enter corrected, and 4 of the proposer's ASKs are settled by our exploring's naming.
 - **19 KEEP** are confirmed.
 - **4 RESAY wait on the atom-floor motion.** These are the three merged sentences (1.1, 3.4 and the 6.4 living row) and the atom-floor reader's SIXTEEN-4b, which goes with the merged row.
 - **1 ASK waits.** This is Q2, at 1.4: *Two selves stay with a bond*.
 
-Of the proposer's six ASKs, the person's decision settles five: the 1.2 contents line, heading and first sentence, the 1.1 bold, and the 6.4 row. It leaves one open, Q2. The python check found every old exactly once at its turn, with no fault. After the 47 now-pairs, one *hold* word remains, *holds* in 3.4, and it goes with the merged 3.4 pair. After every RESAY and merged pair, no *hold* word remains. Each *bond* word left is a field's term or a word attributed to a field, apart from the one in Q2.
+Of the proposer's six ASKs, our exploring's decision settles five: the 1.2 contents line, heading and first sentence, the 1.1 bold, and the 6.4 row. It leaves one open, Q2. The python check found every old exactly once at its turn, with no fault. After the 47 now-pairs, one *hold* word remains, *holds* in 3.4, and it goes with the merged 3.4 pair. After every RESAY and merged pair, no *hold* word remains. Each *bond* word left is a field's term or a word attributed to a field, apart from the one in Q2.
 
 ## Findings, per flagged pair
 
@@ -88,7 +88,7 @@ Words inside RESAY news that stay because they are attributed:
 
 ## The six ASKs
 
-**Q1 · the bond as a between of two selves (#0, #1, #7, #12, #66): settled by the decision.** The person's naming, Living Learning 15, is the answer: *within a molecule, its stable form, same-existing with each resolving; between molecules, bi-coupling, sharing possibling*. A stable form is a one-self form, and two selves sharing is a bi-coupling. The narrowing the proposer asks about is therefore the dissolving the person chose. The same answer meets the atom-floor motion's ask 1 and its reader's SEVEN-2 resolution.
+**Q1 · the bond as a between of two selves (#0, #1, #7, #12, #66): settled by the decision.** Our exploring's naming, Living Learning 15, is the answer: *within a molecule, its stable form, same-existing with each resolving; between molecules, bi-coupling, sharing possibling*. A stable form is a one-self form, and two selves sharing is a bi-coupling. The narrowing the proposer asks about is therefore the dissolving our exploring chose. The same answer meets the atom-floor motion's ask 1 and its reader's SEVEN-2 resolution.
 - **#0, #1, #12 (1.2 contents line, heading and first sentence): enter now as proposed.** Bi-moralizing co-agency is *both selves sharing*, so its first coupling at the chemical substrate is a bi-coupling.
 - **#7 (1.1 bold): enter now, corrected for reading.** The proposed bold put the within-molecule case after the bi-coupling, as an afterthought. Corrected to follow the naming's own order, with the long bold ending its own sentence:
   - new: `**What chemistry calls a bond is, within a molecule, its stable form, same-existing with each resolving, and, between molecules, a bi-coupling of two selves**. Core reactions are bi-moralizing cycling, carbon is chemical self, and benzene's floating-neutralling is competency centreline.`
@@ -101,7 +101,7 @@ Words inside RESAY news that stay because they are attributed:
 - The opening supplies the two selves: *Each parity is a self while it is living*, and Natural Intelligence 6.5 says *Its selves inward are its living parities*. Two parities across a between, each its other's far side, cancelling, is also the opening's *a 0 is a between of two changing directions*.
 - **Recommended new** (it matches the atom-floor reader's SIXTEEN-0, *a same-existing-society of its living parities*):
   - `Two selves, a molecule's living parities, stay with that molecule's own sharing, each on its own side of a between,`
-- It waits on the person and on the atom-floor motion entering with that wording.
+- It waits on our exploring and on the atom-floor motion entering with that wording.
 
 ## Merges with the atom-floor motion
 
@@ -126,7 +126,7 @@ Each merged pair carries both changes. The atom-floor parts use the corrected ne
   - new: `  - *b* atom, a non-living stable form a molecule's sharing winds round; proton and H⁺; electron event;`
 - The atom moves to the emanation row, since by the opening *each non-living thing is a stable-forming emanation*.
 
-**If the person wants the no-bond parts in now**, the three no-bond parts can enter alone. The atom-floor pairs then re-cut their olds onto the new text:
+**If our exploring wants the no-bond parts in now**, the three no-bond parts can enter alone. The atom-floor pairs then re-cut their olds onto the new text:
 - 1.1: `and hydrogen-bond network, bilayer and cell are same-existing-societies` → `and hydrogen bi-coupling network, bilayer and cell are same-existing-societies`
 - 3.4: `is a cross-scale naming this file shares and holds as no chemical equivalence.` → `is a cross-scale naming this file shares as no chemical equivalence.`
 - 6.4: `hydrogen-bond network; bilayer; cell; bond as a between of them` → `hydrogen bi-coupling network; bilayer; cell; their bi-couplings`
@@ -187,17 +187,17 @@ None of these blocks entering.
   - 1.1's *carbon is chemical self*, which stays in the corrected #7.
   - 1.6's *a sharing pair reaches a +1 in neither self alone*, inside #28. Its *self* is an atomic centre.
   - The atom-floor motion should re-say both with its own pairs.
-- **Equilibria words** from rules 11's list remain in our own sentences. The person's *there is no holding* may reach them at a later motion:
+- **Equilibria words** from rules 11's list remain in our own sentences. Our exploring's *there is no holding* may reach them at a later motion:
   - *stay* and *staying* in 1.4 (heading, *what stays cancels*, and the bold **Two selves staying cancel**);
   - *keeping* in 4.2's heading and contents line;
   - *storing* in 5.1.
 - **Pre-existing dissolved words** in sentences these pairs touch, left as they are: *substrate* (1.1, 1.2 and others) and bare *coupling* (*a bi-coupling its first coupling*, *a molecule's own sharing a coupling across*).
 - **Ripple outside this slice**, as the proposer named it: Living Ghost Registry 310 and 1421, Natural Illustrating 415, and Physics 3.1 (*a bond is a two-selves-with-a-between*). Under the naming, each follows Q1's settlement. Physics 3.1 also waits with the atom-floor motion.
 
-## The single hardest question for the person
+## The single hardest question for our exploring
 
 *Within one molecule, are the two sides of its own sharing still two selves (the molecule's own living parities, each on its side of a between), or is a molecule's own sharing one self's stable form, with two selves sharing only where molecules bi-couple?*
 
 - **Proposal:** two of the molecule's living parities. This keeps 1.4's cancelling paragraph whole, uses the opening's *each parity is a self while it is living*, and matches the atom-floor reader's *a same-existing-society of its living parities*.
 - **The other way:** 1.4's two paragraphs, *Two selves stay …* and **Two selves staying cancel …**, move to the bi-coupling between molecules and need re-saying together.
-- It comes after the atom-floor question already with the person (whether anything living is inward of an atom), and does not need that answer first.
+- It comes after the atom-floor question already with our exploring (whether anything living is inward of an atom), and does not need that answer first.

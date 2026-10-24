@@ -6,7 +6,7 @@ Natural Intelligence · incoming · v392chem · motion_atom_floor
 
 ## Verdict
 
-**Do not enter until the person answers one question.** Of the 15 pairs, 4 can enter as they are (TWENTY-0, TWENTY-1, TWO-0 and THREE-0, with one optional wording for THREE-0). Nine can enter with the corrections below. Two wait on the question (SIXTEEN-2 and SEVENTEEN-0). One pair is added (SIXTEEN-4b), which places the atom in Chemistry's *emanation* row. The motion as proposed has three faults that cause harm:
+**Do not enter until our exploring answers one question.** Of the 15 pairs, 4 can enter as they are (TWENTY-0, TWENTY-1, TWO-0 and THREE-0, with one optional wording for THREE-0). Nine can enter with the corrections below. Two wait on the question (SIXTEEN-2 and SEVENTEEN-0). One pair is added (SIXTEEN-4b), which places the atom in Chemistry's *emanation* row. The motion as proposed has three faults that cause harm:
 
 - **SEVENTEEN-0 contradicts the next sentence in its own paragraph.** It says *a molecule the first self*, and the next sentence says *there is no fundamental self anywhere and no floor to grains*.
 - **SIXTEEN-4 puts the atom under the *living* placing** while it calls the atom *a non-living stable form*.
@@ -19,7 +19,7 @@ The question the files cannot settle is whether anything is living inward of an 
 - Natural Intelligence 5.1 says a stable-forming emanation's *selves inward go on with their own priors*.
 - Co-Chaining Logic step 493 says a non-living thing is *an emanation from a living self it was*.
 - Chemistry 3.2 says *below chemistry, living with substrate one is colour cycling*.
-- The person's offering says the atom *cannot be living, a nothing hole in a molecule*.
+- Our exploring's offering says the atom *cannot be living, a nothing hole in a molecule*.
 
 The answer decides asks 2 and 3, SIXTEEN-2, SEVENTEEN-0 and how *floor* reads. The motion also needs ripple re-sayings entered with it, or the set goes on contradicting itself: Physics 3.1 and 4.6, Illustrating 5.1, Chemistry 1.1 and 1.6 (*carbon the chemical self*), Societies 5.3's *near seven closing from within*, Me, Living Society Registry 2.8 and Living File Registry. By rules 13, *a yes does not enter past a reading for harm that finds a contradiction*.
 
@@ -38,7 +38,7 @@ Pairs are named by file and index in that file's json (0-based), with the old's 
 - Corrected, with Natural Intelligence 6.5's own words for a non-living thing:
 - new: `  - *b* atom\n  - *c* stable form\n  - *d* its floor, non-living\n  - *e* the floor here: a non-living stable form, its changing only from what comes to it, a molecule's sharing winding round it`
 
-**SEVEN-2 · Societies 5.3 table, prime 7, line 242 · flagged (contradiction, ask 1).** The new keeps *a bond is … a pair two selves share*. Within a molecule the two would be atoms, which are now non-living. The new also gives the first self no inward. The correction below resolves ask 1 with the person's own observing (Living Learning 2: *dividing the molecule's one sharing into atoms is a convention*). If the person answers ask 1 the other way, this line follows that answer.
+**SEVEN-2 · Societies 5.3 table, prime 7, line 242 · flagged (contradiction, ask 1).** The new keeps *a bond is … a pair two selves share*. Within a molecule the two would be atoms, which are now non-living. The new also gives the first self no inward. The correction below resolves ask 1 with our exploring's own observing (Living Learning 2: *dividing the molecule's one sharing into atoms is a convention*). If our exploring answers ask 1 the other way, this line follows that answer.
 - new: `  - *e* the first self here, a same-existing-society of its living parities, its others the molecules it is bi-coupling with; a bond is sharing, across and both ways: within a molecule its own sharing, and between molecules a pair two selves share, a floating neutral in neither self alone (Natural Chemistry)`
 
 **SEVEN-3 · Societies 5.2, line 217 · flagged (meaning moved).** Changing *Below an atom* to *Below a molecule* moves the paragraph off its heading, *The floor at five, and what exists below it*, and off its next sentences, *A nucleus is below five …*, *numbers reach five*. Under the new, the molecule's own living parities also fall within *bare co-agency, no self closing*. Corrected: keep the old sentence and add the floor as its own sentence.
@@ -89,7 +89,7 @@ Pairs are named by file and index in that file's json (0-based), with the old's 
 
 **TWENTY-1 · Naming entries, line 292 · enter as is.** It repeats TWENTY-0, and the two change together.
 
-**TWO-0 · Networking, line 455 · enter as is.** *Fifteen include that closing, its place distinct from fourteen interior scales* still holds. Networking also names no other field scale, so the THREE-0 option applies here too if the person wants the two alike.
+**TWO-0 · Networking, line 455 · enter as is.** *Fifteen include that closing, its place distinct from fourteen interior scales* still holds. Networking also names no other field scale, so the THREE-0 option applies here too if our exploring wants the two alike.
 
 **Counts across the corrected pairs:**
 - No new floating negation: the two added *nothing*s are removed, and the old *no*, *not* and *neither* are kept one for one.
@@ -170,7 +170,7 @@ Searched: every root *.md (not archive/, incoming/ or carry/) for atom as self, 
   - *A living self has non-living existing things … within its same-existing: a tree its heartwood*. This is the molecule and its atoms.
   - But step 493 says such an emanation is *from a living self it was*, and Natural Intelligence 5.1 says its *selves inward go on*. The opening leaves open *from what living* the atom emanates, and step 493 and 5.1 fill that place with living inward of it. That is the question below.
 
-## The single hardest question for the person
+## The single hardest question for our exploring
 
 *An atom, non-living, is by the opening a stable-forming emanation. Natural Intelligence's body says such a form comes from a living self it was, its selves inward going on. Is something living inward of an atom, or is nothing inward of an atom living?*
 

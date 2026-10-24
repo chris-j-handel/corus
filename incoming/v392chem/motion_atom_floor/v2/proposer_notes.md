@@ -6,14 +6,14 @@ Natural Intelligence · incoming · motion_atom_floor · v2 · proposer
 
 **The answer the pairs follow:** nothing is living inward of an atom. Carbon is *the stable form of unrelationing floating neutralling, in society and in selves and free of both, non-living in the universal set*. Carbon's living was outward, in higher-scale selves (7 and up), and it is their stable-form emanation. Step 493 and Natural Intelligence 5.1 stand.
 
-**Spelling:** the person wrote *neutraling*. The set spells it *neutralling* 51 times and *neutraling* once, so the pairs use *neutralling*. To use the person's spelling, change the 8 places in the pairs.
+**Spelling:** our exploring wrote *neutraling*. The set spells it *neutralling* 51 times and *neutraling* once, so the pairs use *neutralling*. To use that spelling, change the 8 places in the pairs.
 
 **Totals:** 46 pairs in 10 files, with no ASK.
 
 ## Exhibit_SEVEN_Natural_Societies_v391.md (7)
 0. **5.2:** keeps the old sentence. Adds *An atom, at five, is the floor, a non-living stable form a molecule's sharing winds round.* Adds *Its living was outward, in the selves from seven up whose stable-form emanation it is.* (Reader's SEVEN-3, plus the answer.)
 1. **5.3, line 227:** *Near seven close from within above five's floor*. (Ripple.)
-2. **5.3 table, prime 5:** *c* becomes stable form. *d* becomes *its floor, non-living*. *e* takes the person's words, NI 6.5's *its changing only from what comes to it*, and *a molecule's sharing winding round it*. The words *bonds*, *closes* and *given* leave. (Reader's SEVEN-1.)
+2. **5.3 table, prime 5:** *c* becomes stable form. *d* becomes *its floor, non-living*. *e* takes our exploring's words, NI 6.5's *its changing only from what comes to it*, and *a molecule's sharing winding round it*. The words *bonds*, *closes* and *given* leave. (Reader's SEVEN-1.)
 3. **5.3 table, prime 7:** the first self, a same-existing-society of its living parities. The bond is said only as chemistry's word, in Chemistry 1.1's bold words. *Neither* is kept. (SEVEN-2.)
 4. **5.3, line 322:** the molecule with seven is the first self of this ladder, and the atom with five its floor. (Reader's SEVEN-0.)
 5. **5.6, line 425:** *five their floor and each from seven closing from within*. (Ripple.)
@@ -25,7 +25,7 @@ Natural Intelligence · incoming · motion_atom_floor · v2 · proposer
 2. **1.1, held no-bond merged pair #9, re-based:** split one claim to a sentence. *An atom is a non-living stable form a molecule's sharing winds round.* Then *A molecule is the ladder's first self, at seven, a same-existing-society of its living parities, and hydrogen bi-coupling network, …*
 3. **1.4:** *an atom below stands whole, a non-living stable form*. (Reader's SIXTEEN-1.)
 4. **1.6 heading:** follows the contents line.
-5. **1.6, line 157:** the person's two answers, in their words, one claim to a sentence. The bold *a nothing its couplings surround and wrap* is kept.
+5. **1.6, line 157:** our exploring's two answers, in its words, one claim to a sentence. The bold *a nothing its couplings surround and wrap* is kept.
 6. **1.6, line 163:** *in neither self alone* becomes *in neither centre alone*. The self there was an atomic centre; the no-bond reader flagged it as atom-floor ripple.
 7. **3.2, first two sentences re-said together (SIXTEEN-2, decided):**
    - *a nucleus's landing parity that an atom's stable form wraps*;
@@ -38,7 +38,7 @@ Natural Intelligence · incoming · motion_atom_floor · v2 · proposer
 10. **6.4 living row, held merged pair #66:** *molecule, a self, a same-existing-society of its living parities; hydrogen bi-coupling network; bilayer; cell; their bi-couplings*.
 11. **6.4 emanation row, SIXTEEN-4b, held #67:** *atom, a non-living stable form, unrelationing floating neutralling, a molecule's sharing winding round it; …*
 
-The 1.4 person pair (*Two selves are a single bi-coupling*) is already in v392 and untouched. The 1.6 heading and its contents line still match after the pairs.
+The 1.4 pair from our exploring (*Two selves are a single bi-coupling*) is already in v392 and untouched. The 1.6 heading and its contents line still match after the pairs.
 
 ## Exhibit_SEVENTEEN_Natural_Biology_v391.md (1)
 0. **1.3:** *a molecule the ladder's first self, a same-existing-society of its living parities, and an atom a non-living stable form its sharing winds round.* Also *… a same-existing-society of selves inward, so there is no fundamental self anywhere and no floor to selves.* The three floating negations stay three. The *first self* is of the ladder's scales, and it still has selves inward, so *no fundamental self* and line 223's *nothing anywhere is the smallest* stand. (SEVENTEEN-0, decided.)
@@ -49,7 +49,7 @@ The 1.4 person pair (*Two selves are a single bi-coupling*) is already in v392 a
 
 ## Exhibit_EIGHTEEN_Natural_Physics_v391.md (12)
 0–1. **3.1 contents line and heading:** *An atom a stable form, and periodic table its catalog*. The two faces become one.
-2. **3.1 opening:** the person's words for carbon, the one atom, followed by *Its living was outward, in higher-scale selves. It is a stable-form emanation from living.*
+2. **3.1 opening:** our exploring's words for carbon, the one atom, followed by *Its living was outward, in higher-scale selves. It is a stable-form emanation from living.*
 3–7. **3.1:** *living atom* becomes *atom as stable form*, *an atom* or *atoms*, and *Emanating atom* becomes *Atom in a catalog*. The negations *not* and *nothing* are kept one for one.
 8. **3.1 bond paragraph:** *what chemistry calls a bond is* plus Chemistry 1.1's bold words. *Within a molecule two windings share …, a shared pair the molecule's own sharing, in neither atom alone*.
 9. **4.6:** *Atom is a floor, a non-living stable form, and molecule the first closing of co-agency to a self*.
@@ -91,7 +91,7 @@ The 1.4 person pair (*Two selves are a single bi-coupling*) is already in v392 a
 - **Exhibit_TWENTY-SIX:71:** *prime living scales to its offerings*. This is a v-record and may stay as history.
 
 ## Concerns, not blocking
-- **Chemistry 165:** *readable with form as self, reacher and other-selves* reads carbon, hydrogen, oxygen and nitrogen as roles of selves. With these atoms non-living, the roles want a re-saying from the person's later carbon-and-hand work.
+- **Chemistry 165:** *readable with form as self, reacher and other-selves* reads carbon, hydrogen, oxygen and nitrogen as roles of selves. With these atoms non-living, the roles want a re-saying from our exploring's later carbon-and-hand work.
 - **Societies 217:** *None of three closes, and numbers reach five as the first that recursions*. Five is read as a number recursioning, not as a self closing.
 - **Societies 423:** *a single stereochemical center on five*. This belongs to the carbon-and-hand motion (*the hand begins at 7*).
 - **Societies 221:** *a self one scale inward*. A molecule's parities are inward but at no prime scale.

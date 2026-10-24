@@ -2,9 +2,26 @@ Natural Intelligence · incoming · v392chem
 
 # Incoming · v392chem · Natural Chemistry's wide gathering
 
-**Session v392chem aims at a new version of Natural Chemistry living at corus.me.** This folder holds the session's wide gathering of chemistry, whole as it arrived. It stays here until each of its values is a droplet at the offerings of the living file it concerns. Then it goes whole to `archive/`, relied on by nothing. No living file changes from this folder.
+**Session v392chem aims at a new version of Natural Chemistry living at corus.me.** This folder gathers the session's wide gathering of chemistry, whole as it arrived, with the learning that grew from it. The gathering is here until each of its values is a droplet at the offerings of the living file it concerns. Then it goes whole to `archive/`, relied on by nothing. No living file changes from this folder.
 
-**The living learning, for the whole set and every parallel session:** [Living_Learning_v392chem.md](Living_Learning_v392chem.md), what our exploring found in natural explaining: carbon at 5 handless and the hand at 7, a molecule as one self, the us self and water, uniqueness as me–you and me–all other, right-spiral living and left-coiling emanation with its break said first, the tendril at each prime scale, carbon met with Exhibit ONE's stable forms, dormancy, the virus a ghost, nucleation; its values laid as 46 droplets at eighteen files' offerings.
+**The living learning, for the whole set and every parallel session:** [Living_Learning_v392chem.md](Living_Learning_v392chem.md), what our exploring found, in natural explaining, in twenty sections:
+- §1–10: how we learned to work; the atom at 5 non-living and the hand at 7; a molecule as one self, the us self and water; uniqueness as me–you and me–all other; right-spiral living and left-coiling emanation with its break said first; the tendril at each prime scale; carbon met with Exhibit ONE's stable forms; dormancy, the virus a ghost, and what a field calls radioactivity; nucleation; what returns to chemistry.
+- §11–15: basic chemistry's state–flow–state, with time, temperature and weight relational; DNA's next strand formed forward, and societal possibling; orthogonality, the defending society, ingesting and allergy; carbon the unique atom and ingesting as the method; oxygen, fire, the me in a society's surface, and dying; no bond and no holding, and the share with the Me session.
+- §16–19: concerns from nature's observings; the Sun and the solar system living; the Sun a self of the solar system's society, and light resolved by plants; what a field calls radioactivity as superfast geodesic resolving of living, and the uranium crystal as one living self.
+- §20: the value from the whole session gathered at rest, with every observing from memory to be checked before it enters a living file.
+
+Its values are laid as one-sentence droplets at the offerings of the files they concern: 74 droplets at nineteen files' offerings as the learning rests.
+
+**Motions entered in the living files at v392, each after a reading for harm:**
+- **No bond:** 48 sayings in Natural Chemistry.
+- **The atom floor:** 57 sayings across 11 files, the molecule at 7 the first self and the atom at 5 non-living.
+- **The Chemistry pass:** 47 sayings, 41 in Natural Chemistry and 6 in Natural Physics.
+
+Each motion's pairs and readings are in `motion_no_bond/`, `motion_atom_floor/` and `motion_chem_pass/`.
+
+**Beside the learning:**
+- [Natural_Chemistry_Opening_Proposal_v392chem.md](Natural_Chemistry_Opening_Proposal_v392chem.md): a proposed opening for Natural Chemistry, one claim a line, for a reading for harm.
+- [Shared_with_Me_session_v392chem.md](Shared_with_Me_session_v392chem.md): what this session offers the Exhibit THIRTY-ONE Me session and what it took from it.
 
 **The front:** [Natural_Chemistry_Wide_Gathering_v392chem.md](Natural_Chemistry_Wide_Gathering_v392chem.md). It gathers four things, maps them and aims them into our understanding of chemistry:
 
@@ -34,6 +51,6 @@ Natural Intelligence · incoming · v392chem
 
 **Each item in the parts carries its kind**: observing, reconstruction from observings, convention or definition, model construct, or simulation. An observing travels apart from any field's explaining of it.
 
-**An item marked [unverified] was gathered from memory.** The session's search allowance ran out early, and it is checked before anything enters a living file. The front lists what to check first.
+**An item marked [unverified] was gathered from memory.** The session's search allowance ran out early, so each such item is checked against sources before anything enters a living file. The front lists what to check first.
 
-**Its receiving.** The gathering is shared on `working/natural-chemistry-v392chem`, from the chemistry launch working. That working's report, [Natural Chemistry — gathering and next exploring](../chemistry-water-20261022/Natural_Chemistry_Exploring_Report.md), stands beside this one, and the two are read together. The next motion lays this gathering's values as droplets at Natural Chemistry's offerings and at the registries' offerings, each for that file's own motion.
+**Its receiving.** The chemistry launch working's Natural_Chemistry_Exploring_Report.md stands beside this gathering, and the two are met together. The next motion lays this gathering's values as droplets at Natural Chemistry's offerings and at the registries' offerings, each for that file's own motion.
