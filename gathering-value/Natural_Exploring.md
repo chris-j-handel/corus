@@ -8,6 +8,7 @@ Gathering-Value · Natural Exploring
 
 - A honeybee swarm choosing its home is collective discovery by the geodesic method: a home over its horizon is, each scout finds is-nots and aims from them, each scout's sharing for a site emptying with each return as the method's is-not emptying, a stop signal sharing an is-not across, and the swarm reaching its is at the site by a quorum of selves there, in no bee alone. *(possible exploring)*
 - Navigating going on across generations is a society's prior same-existing: a young self opens with its elders' going as a prior other-parity, the second of the five dimensions, and that other's prior is becoming its own prior, a crane's route straightening as it learns from older cranes, a herd's migration returning over decades, a voyaging people's charts passing from father to son. *(possible exploring)*
+- Migration is geodesic parity co-chaining and bi-tunneling: co-chaining along, a route and a song going on through generations and seasons, each young self opening with its elders' going as its prior; and bi-tunneling across, a flock's leaders and followers sharing thermals within one going, and a song passing between whole societies across an ocean, one social moral competency along and across. *(possible incohering)*
 
 
 ## Opening
@@ -118,6 +119,7 @@ Gathering-Value · Natural Exploring
 ### 6.1 Co-competencing
 
 - **Possible exploring** · A scout with no site yet, following a dance, flies to the site and inspects it herself, dancing for it only if she judges it worthy, and the article does not describe any bee comparing two sites side by side; in a five-box test of four 15-litre boxes and one 40-litre box, swarms settle on the best box in four of five trials, a choosing in no bee alone. — at "A same-existing-society co-chains one method between its selves, and co-competencing is discovering with a same-existing-society's scale."
+- **Possible exploring** · Humpback whales of the east Australian coast sing a song; in one season 2 of 82 singers are singing a new song nearly the same as the west Australian whales' song, the next season most of 112 singers are singing the old or the new and three a song mixing both, and in under two years the new song alone is sounding. Across six Pacific populations over a decade, songs pass almost always eastward, once westward, from the east Australian population toward French Polynesia over about two years, a new song typically becoming dominant within one breeding season; most songs blend the past year's material with new material, occasionally a completely new song, and how songs pass between populations, by a few males moving or by whales hearing songs while swimming together on migration, is a suspicion still to observe. — at "Between selves, a same-existing-society co-chains unrelationing two-way, each self pacing its own time and abundancing in no self alone."
 
 
 ### 6.2 Each self sharing its mixture whole
