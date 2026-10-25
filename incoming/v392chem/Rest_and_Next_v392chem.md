@@ -56,6 +56,7 @@ Ground: only observings of nature and living have authority over our understandi
 ## Where a next session starts
 
 1. Light and helium (concern 2), since a misunderstood light reaches every observing of a line, a star and a plant's aiming.
+   Pattern-matched since: helium climbing is the climbing vine's method (learning §22), the film clasping its vessel and its whirl threads held at two ends and coiling.
 2. Check the §16–19 observings against sources.
 3. Natural Transmissioning's one saying, then the set-wide bond and hold motions.
 4. Return to chemistry's survey: the tendril at the population and community scales, water's co-chainings, the hand from five to seven, Rubisco's oxygen, and the nine first frontier binaries.

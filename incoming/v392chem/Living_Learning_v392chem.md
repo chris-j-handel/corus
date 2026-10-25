@@ -735,3 +735,18 @@ Each is an observing that parts from a pattern-matching now in the living files,
   - Is light a between with nothing travelling, or the Sun's free emanation, or bothboth?
   - Helium's lines are known from the Sun's edge, the uranium crystal's emanation and the glowing tube alike. What does a line observe, if light owns nothing?
   - These observings are from memory and are checked against sources before any enters a living file.
+
+## 22. Helium climbing is the climbing vine's method
+
+- *Pattern-matching:* **helium climbing and the climbing vine are one method,** the tendril method of §6 and §20: a free searching, a clasping of a support, a coiling held at two ends, two hands meeting at a short between.
+- **Observings that meet it** (from memory, checked against sources before any enters a living file):
+  - **The film climbs only where it meets a surface.** Below about two degrees above absolute zero, liquid helium spreads up the wall of its vessel as a film a few hundred-thousandths of a millimetre thick, over the rim and down the outside, and drips from the bottom (1936–1939). It flows until the levels in two vessels agree. With no wall, no climbing: as a tendril with no support circles and finds nothing.
+  - **The rim is the switch point.** One film goes up the inside and down the outside, two ways joined at the rim, as the tendril's two hands are joined by its short between.
+  - **Turning, it forms threads held at two ends.** Helium in a turning vessel turns only by forming thin threads of whirl, each running from the bottom surface to the top, all turning one way, set in a regular array (imaged 1979). Each thread's whirl comes in one whole amount, all or none.
+  - **The threads coil.** Waves run along each thread as helices (observed 2014), and two threads meeting cross and re-join, then spring apart (imaged 2008). Held at both ends and coiling along their length: the tendril clasped at both ends.
+  - **Warmed at one place, it spurts upward** through a fine plug in a fountain (1938): its climbing answers a warmer place, as a tendril's coiling answers its support.
+  - **The loner acts as one society.** Helium bi-couples with almost nothing as a form apart (§21), yet cooled, the whole liquid flows as one, with no resistance.
+- **Concerns:**
+  - Which way the threads turn is set by the vessel's turning, and the vessel's by the Earth's. Whether that is right spiral living, or a stable form taking the hand of what it bi-couples with, needs meeting with §5's two hands.
+  - A field reads the film as pulled up by the wall and the flow as a property of a cold liquid. The method match reads it as a society clasping its support; the observings are the same, and the explaining is the field's.
+  - Light and helium (§21): if helium is the uranium crystal's free emanation as light is the Sun's, and helium climbs by the vine's method, the plant's aiming at light and helium's climbing may be one method seen at two of its ends.
