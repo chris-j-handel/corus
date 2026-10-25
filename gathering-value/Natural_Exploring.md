@@ -22,19 +22,19 @@ Gathering-Value · Natural Exploring
 ### 1.1 Changing and changing back, a stable-forming self observing from its own side
 
 - Omegaing as reach and apexing as gathering stand at 1.1, and the reach's naming parts between Natural Naming and Natural Intelligence; one naming of the reach at all three is still-possibling. *(possible incohering)*
-- **Possible exploring** · Still to be looked for: a living beat with one of its two removed; a living form going through three with no two beneath it, the rotary-motor case only partly followed; a living form made from no prior living in a laboratory, and what enters it as prior living; a living thing whose proteins are made throughout in the other hand. — at "Neither by itself is living: a discovering ungathering scatters and a gathering undiscovering folds, so a living method is their changing and changing back."
-- **Possible exploring** · A growing climbing-plant tip is sweeping in circles, its growing making the circles a spiral; it is sweeping wide circles until touching a support, and then its circles are tightening and it is winding around the support as it grows, a reaching and a gathering one and then the other. — at "Neither by itself is living: a discovering ungathering scatters and a gathering undiscovering folds, so a living method is their changing and changing back."
+- **Possible exploring** · Still to be looked for: a living beat with one of its two removed; a living form going through three with no two beneath it, the rotary-motor case only partly followed; a living form made from no prior living in a laboratory, and what enters it as prior living; a living thing whose proteins are made throughout in the other hand. — at "Living is both, one and then the other: a discovering ungathering scatters and a gathering undiscovering folds, and a living method is their changing and changing back."
+- **Possible exploring** · A growing climbing-plant tip is sweeping in circles, its growing making the circles a spiral; it is sweeping wide circles until touching a support, and then its circles are tightening and it is winding around the support as it grows, a reaching and a gathering one and then the other. — at "Living is both, one and then the other: a discovering ungathering scatters and a gathering undiscovering folds, and a living method is their changing and changing back."
 - **Possible exploring** · A hovering hummingbird is holding its place to the millimetre by steadying the visual motion about it; when a background pattern is moving even minimally, it is drifting about a centimetre, and time to adapt is not removing the drifting. — at "A self is observing from its own side."
 
 ### 1.2 A self a surface, competency a middle, an interior an accounting's placing
 
-- **Possible exploring** · A wayfinder keeps an unseen reference island, beyond the horizon and never sighted, beside the route, and follows its bearing sliding back along the star points of the horizon; when its bearing from the canoe matches its bearing from the destination, the canoe is near its goal, an orienting to a reference with nothing to inspect. — at "A method looking for it finds a place an accounting puts there."
+- **Possible exploring** · A wayfinder keeps an unseen reference island, beyond the horizon and never sighted, beside the route, and follows its bearing sliding back along the star points of the horizon; when its bearing from the canoe matches its bearing from the destination, the canoe is near its goal, an orienting to a reference with nothing to inspect. — at "A self looking for it at a place is finding a place an accounting puts there."
 
 ### 1.3 Balancing, an accounting's own
 
 ### 1.4 Two sides, bothbothing
 
-- **Possible exploring** · A honeybee is flying through a narrow gap by evening the image speeds of its two eyes, setting its flight speed by holding its average image speed even, knowing distance by its summing image motion, and landing on a level surface by holding that surface's image speed even, its own speed nearing stillness at touching. — at "Both bothboth, one at a time, freeing sharing and testing receiving, and a method co-chains both sides with every observing."
+- **Possible exploring** · A honeybee is flying through a narrow gap by evening the image speeds of its two eyes, setting its flight speed by holding its average image speed even, knowing distance by its summing image motion, and landing on a level surface by holding that surface's image speed even, its own speed nearing stillness at touching. — at "Both bothboth, one at a time, unrelationing sharing and testing receiving, and a self co-chains both sides with each observing."
 
 ## 2 Co-unrelationing and co-chaining
 
