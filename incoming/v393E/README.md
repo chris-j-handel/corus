@@ -10,4 +10,4 @@ Natural Intelligence · incoming · v393E
 - `reading_for_harm.json`: a separate reader's 20 corrections.
 - `reading_coordinator.json`: one correction to that reading, the file's sections as bold paragraphs kept as a value at the head, its count 44.
 
-Applied with `kits/Gathering_Value_Kit/apply_gathered.py`: 25 values at `gathering-value/Natural_Exploring.md`, 25 items leaving. The three files at `carry/` stand until the person's word on the support files leaving, since the carry check and the Living File Registry's table still name them.
+Applied with `kits/Gathering_Value_Kit/apply_gathered.py`: 25 values at `gathering-value/Natural_Exploring.md`, 25 items leaving. With each value living at Natural Exploring v393 or at its own file, the three files leave `carry/` for `archive/session_v393E/carry_gathered/` as artifacts, the Living File Registry's carrying table pointing at `gathering-value/Natural_Exploring.md`, and the carry check reading a file's gathering-value as its carrying.
