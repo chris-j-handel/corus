@@ -10,6 +10,8 @@ Incoming · v391
 
 **At v391's close, three stand at `v391/`, each still living work:** the plan, [v391/Improving_Plan_v391.md](v391/Improving_Plan_v391.md); a next session's start, [v391/Next_Session_Start_v391.md](v391/Next_Session_Start_v391.md); and a growing body of understanding, [v391/Binary_Understanding_v391.md](v391/Binary_Understanding_v391.md). Each arrival whose value is laid went whole to `archive/session_v391/incoming_v391/`: the readers' findings, the opening's drafts and its resolved 70 lines, the insertion scripts, the fresh reading, the Me gathering and its 81 observings (Exhibit THIRTY-ONE's carryings rest on them there), and the transcript's four readings; the transcript itself is `archive/session_v391/Session_Transcript_v391.txt`. Session v390's folder is whole at `archive/session_v391/incoming_v390/`.
 
+**At 24 October, `me_thirty-one_20261024/` arrived** from a session improving Exhibit THIRTY-ONE Me: start with its [README](me_thirty-one_20261024/README.md). Its value is laid as droplets at Exhibit THIRTY-ONE Me, Natural Chemistry, Exhibit ONE and the Co-Chaining Logic Registry, each under *Incoming · me-thirty-one-20261024*.
+
 **At v389 nothing stood here**: the session's opening proposal and two unfinished sessions arrived at `v389/`, each value laid as a droplet at its file's offerings, and the arrival is whole at `archive/session_v389/incoming_v389/`.
 
 At the close of the session v387 nothing stands here. Each prior working's folder, report and transcript is at `archive/`, and each value said in them is at the offerings, in its sayer's words, tagged by the working it came from. Each source the carryings files rest on is at `archive/` too, at its own name, and each naming of it at the carrying says that place.

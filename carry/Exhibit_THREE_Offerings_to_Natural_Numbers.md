@@ -134,3 +134,8 @@ So with the six, 1 to 17 is one round only because 17 falls with a six's place, 
 - **Concern · 24 unobserved in the tendril:** If a tendril's two hands turn equally, no observing places the corus at 24. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
 
 - **Concern · 6 to 7 within a molecule:** Whether carbon changing to nitrogen as one molecule goes on is the element-number face of the ladder's 6 to 7 is unanswered. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
+
+- **Droplet · odd and even.** 1.7's prime living scales, five to fifty-three, each odd, meet Exhibit ONE's spiral of selves: a 0 recurring only with an odd number of selves, and an even one with none. — me-thirty-one-20261024

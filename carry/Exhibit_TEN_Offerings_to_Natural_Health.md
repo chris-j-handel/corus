@@ -104,3 +104,12 @@ The user's further offering is: “if the living stable form is colliding with n
 - **Burning from the surface:** Burning overcomes a body from its surface inward. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
 
 - **Concern · Allergy's first meeting:** Whether a first meeting through damaged skin sets the direction a new observing takes into the priors, or the me lacks the orthogonal directions it needed in time, is unsettled. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
+
+- **Droplet · health in turn.** A healthy me is its 0s continuing and its newly aiming 0s, one and then the other; a 0 fixing as not-changing is 4.1's departure; sleeping restores the inward same-existing-society that waking folded. — me-thirty-one-20261024
+
+- **Droplet · releasings.** Sneezing, orgasm, tingling, fluttering vision and dreaming are inward releasings, one changing then rest, mutual relaxing of the living societies within a self; observings: brain interstitial space opening in sleep (Xie 2013, contested by Miao 2024), synaptic downscaling (Tononi and Cirelli 2014). — me-thirty-one-20261024
+
+- **Droplet · ground parity.** Health is or is not a me resolving with what carries it: the boat and the water together, the ground underfoot; parting with what carries it, a me is sick until a new 0 forms (gathering §0ad). — me-thirty-one-20261024

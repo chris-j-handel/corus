@@ -57,3 +57,11 @@ Exhibit NINE Natural Human Society Offerings · improved at v389
 - **The opening's social chain**, as at Natural Societies: social moral competency, free, social abundancing, in the opening's words.
 
 - **Its *Conserve before improve, do-no-harming before add-value*.** Do-no-harming and improving are one bi-moral act, in turn, neither without the other, as two alike selves run 0, change, 0, change; a *before* meets that bothboth.
+
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
+
+- **Droplet · tipping a concern.** 4.1's *individual-first, needing a majority nowhere* is a local aiming with global impact, torusing from one me out; Centola and colleagues 2018 observe a committed minority near 25% tipping a convention. — me-thirty-one-20261024
+
+- **Droplet · shared aiming.** Shared interests are shared aimings, and sharing aiming is moral cooperation, bi-moral co-agency: two mes alike both ways sharing continuing 0s in turn (Tomasello 2016, morality from joint intentionality). — me-thirty-one-20261024

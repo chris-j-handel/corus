@@ -277,3 +277,10 @@ Exhibit TWENTY-FOUR Geodesic Improving Method Offerings · improved at v389
 
 - **Concern · Our own *hold* set-wide:** About 1,442 lines carry hold words and 132 *bond* words remain across the set. Parting fields' quoted words from our own and dissolving our own *hold* is one motion still to do. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
 - **Concern and exploring opportunity:** A concern is a place in observings not yet resolvable as natural torusing. An open question the observings can meet is an exploring opportunity, and is named so. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
+
+- **Droplet · working partners transparent.** A session's incoming whole on its own branch at `incoming/`, its droplets laid at each file's offerings the same day, keeps each session's value readable to each other session. — me-thirty-one-20261024
+
+- **Concern · a branch with no shared history.** `working/chemistry-water-20261022` shares no history with `main`; its value reaches other sessions only as it is carried to `main`. — me-thirty-one-20261024

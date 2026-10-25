@@ -114,3 +114,8 @@ Living Ghost Registry and Equilibria Registry: two registries, one derivation. T
 - **Chemistry's kinds admitted by a stated rule:** Almost all chemistry's kinds, its disciplines, groups, *bond* and reaction classes, series and scales, are admitted by a stated rule, a between fixing as a cut. A chemical kind is a universal set only where its membership is observed same-existing, and elsewhere it is a field's word, whole. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
 
 - **The twelve of a virus shell:** Many virus protein shells are icosahedral, with twelve five-fold corners, the same twelve as the 60-carbon cage. A virus as a stable form carries the cage's number. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
+
+- **Droplet · an installing entry, *enzyme*.** The field's *enzyme* as a thing that stabilizes, forces or drives installs an accounting with one between, a rate in a tube, as a standing thing each such protein is; its numbering, strictly, names reactions (IUBMB), and its kind's one rate sums single molecules' each-its-own rates (Lu, Xun & Xie 1998) (gathering §0an). — me-thirty-one-20261024

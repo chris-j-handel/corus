@@ -320,3 +320,10 @@ At a resolver's functions 6, 10 and 9 are one list, each self's 10-next-co-possi
 ## Learning for natural network discovering · v392TWO
 
 **At the testing's beginning, observing and finding.** Let carrying form through continuing participation, locate observing in an actual bi-coupling without making its between a readable thing, and follow what arises together through the whole relation claimed; the [incoming learning concepts](../incoming/v392TWO/Learning_for_Natural_Network_Discovering.md) carry these corrections with their consequences for testing, binary rigor and natural explaining. — v392TWO
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
+
+- **Droplet · quiet with ten.** 1.2's *Quiet with ten does not make a whole self quiet or non-living* is a sleeping me, its 0s continuing, same-existing. — me-thirty-one-20261024
+
+- **Concern · a society going on as a self.** 1.7's *A same-existing-society goes on as a self with its next scale* (and seven further places) meets a same-existing-society unconsciously us, its mes each a me. — me-thirty-one-20261024

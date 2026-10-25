@@ -241,3 +241,10 @@ Exhibit EIGHTEEN Natural Physics Offerings · improved at v389
 - **Concern · The Sun's cycle and the planets:** The Sun's eleven-year cycle is near the time Venus, Earth and Jupiter take to line up again, and a planetary pacing of it is disputed. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
 
 - **Carbon's making:** The three-helium inner state from which carbon forms was measured as a triangle (2014). ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
+
+- **Concern · two openings.** 1.2's *A torus has two openings* meets natural torusing as one opening, twisted figure-eight loops winding through it. — me-thirty-one-20261024
+
+- **Droplet · a snap alone.** 3.7's snap at a thinnest place, read with chemistry's crystals snapping, shows a snap alone is no test of a me. — me-thirty-one-20261024

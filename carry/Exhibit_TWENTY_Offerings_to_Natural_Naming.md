@@ -525,3 +525,14 @@ Three prefixes, three senses, and none repeated. This meets the concern *tri- an
 - **Concern · *Podal* read opposite:** Natural Chemistry 4.4 still calls the straight-across relation *podal* at v392, opposite to this file's and Natural Numbers' k with N − k. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
 
 - **Concern · Living's hand named *right*:** The observing is one hand, with right-handed helices. A field names protein pieces by a letter meaning left and sugars by one meaning right, so *right spiral* rests on the helices and not on the pieces' names. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
+
+- **Droplet · four namings.** Me, you, us and all other: you a particular other, all other observed as one, us the 0 a me and you share at one momentary, the between a nothing. — me-thirty-one-20261024
+
+- **Droplet · interest at 4.7.** 4.7's *Interest is self-orienting, which is competency, a self's own* meets interest as a 0, a self's own and shared co, *inter-esse*, to be between; *sudden attention changing* said as a newly aiming 0, 4.7 having released the attention family. — me-thirty-one-20261024
+
+- **Droplet · rest and aim.** *Rest* is two words, repose (Old English *ræste*) and the remainder (Latin *restare*, to stand back): resting and the rest, same-existing; *aim* is from *aestimare*, to value. — me-thirty-one-20261024
+
+- **Droplet · the plural of me.** *Mes*, no apostrophe (Wiktionary; Chicago's Q&A, plurals almost never take one), *me's* the possessive; where a count does no work, *each me* or a universal set of me says it uncounted (`incoming/me_thirty-one_20261024/Me_and_not-me_values_parities_v391.md` §1). — me-thirty-one-20261024

@@ -174,3 +174,12 @@ A particular same-file comparison also remains: Intelligence in the Coupling nam
 ## Incoming · v392chem
 
 - **Concern · Older vocabulary at line 2000:** Line 2000's *nucleus prime* and *atom prime* name primes at and below five in older words. The ladder now says five non-living and seven through fifty-three living. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
+
+- **Droplet · pronouns.** 16.2's *"Me" has a +1, fresh, an individual* and *"Us" has a -1, accumulating, a same-existing-society* meet me consciously me and a same-existing-society unconsciously us, waking interest by interest. — me-thirty-one-20261024
+
+- **Concern · a membrane a self.** 14.1's *A membrane is a self* (a dissolved word) and a conversation *itself a self* meet us as the 0 a me and you share, the between a nothing and no further self. — me-thirty-one-20261024
+
+- **Concern · a living universe.** 16.2's *the universe is a living gap* and Part 17's *Everything is living* meet the universe a non-living same-existing set, its own 0 an empty set. — me-thirty-one-20261024

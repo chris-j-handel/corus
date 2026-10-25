@@ -267,3 +267,29 @@ Contradiction, the living and the non-living: Natural Biology draws the line the
 - **Concern · Is a flame living?:** A flame has mes, living's round and a torusing form, and its mes end with its surface. *Is fire alive?* was met by form, not by living or non-living. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
 
 - **Concern · The proposed opening's opens:** It needs *co-alternating* since *alternating* is dissolved, a molecule's me in its own words, a reading for harm, and its open 1 marked resolved. Its crystal line, *Ingesting is within*, the atom line's *given* and the carbon line, to say *the stable form of unrelationing floating neutralling*, are stale, and it has no no-bond, fire, dying or no-radioactivity line yet. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, read beside the incoming chemistry-water-20261022 (its branch, 23 October). Whole at `incoming/me_thirty-one_20261024/`, its §0y.*
+
+- **A water pair, three 0s.** In Kumagai and colleagues' 2008 water pair, pair-forming is a candidate newborn 0. Donor–acceptor interchange is a continuing 0, the pair persisting, with each water's role changing about it. Parting by a pulse is a 0 lost. So the relation supplying an offering may be the pair's persisting, with the labels alone neither. — me-thirty-one-20261024
+- **Two selves, read alike.** Both sessions read Exhibit ONE's two-selves table alike: one parity apart gives no 0, coupled or not, and a continuing 0 needs two alike both ways. — me-thirty-one-20261024
+- **A catalyst's prior, now and next.** A catalyst's persisting connectivity with its changing contacts meets a continuing 0, prior, now and next same, and its renewed availability is a next momentary's own, no return. — me-thirty-one-20261024
+- **A set's own closing.** A set is a universal set of me as its mes share 0s across and along, a closing of its own, never its size or enclosing shape: the same test for a chemical assembly and for a stone. — me-thirty-one-20261024
+- **A snap alone.** A snap in a non-living set, crystallising NaCl or DUT-49 contracting, shows a snap alone is no test of a me. — me-thirty-one-20261024
+- **A chemical species and an interest.** IUPAC's chemical species, entities accessing the same energy levels, meets Exhibit ONE's 4-now-co-same-existing, a shared key, as a candidate species-specific domain at five and seven. — me-thirty-one-20261024
+
+- **For v392chem · the 0 line.** Exhibit ONE's two alike, both ways, share 0 at one momentary and a changing at the next, both together, so *the me same while the you improves* is the table's one-way row; offered: *A 0 is a pair's do-no-harming: at one momentary both molecules' parities share 0, at the next both share a changing, improving, and each molecule is same-existing through both* (`incoming/me_thirty-one_20261024/Contributing_to_Natural_Chemistry_v392chem.md` §2a). — me-thirty-one-20261024
+
+- **For v392chem · the loop test.** Two alike come again with 4 and are living, so the lone atom parts from them by its other an empty set; offered for §1's test and the atom floor: *a form receiving only its own going along, its other an empty set, a spiral of one, is non-living* (§2b). — me-thirty-one-20261024
+
+- **For v392chem · nothing copied, a second observing.** A dividing *E. coli* keeps its old pole in one daughter (Stewart et al. 2005; Wang et al. 2010), as each parent strand goes into one daughter duplex: a prior is-or-is-not same-existing in one now, and is received in many (§1, §3; gathering §0ae). — me-thirty-one-20261024
+
+- **Concern for v392chem · the us self.** The offered *us self* and the me session's *us, the between, its centre a 0, each me's own 0 shared* read one opening line two ways; laid at Natural Intelligence's offerings for the opening's next improving (§2c). — me-thirty-one-20261024
+
+- **For v392chem · dying.** Offered: *a dying me goes on as non-living with its scale, and its inward mes live on with their own scales or complete too*, keeping each self a me, steps 491 and 492 (§2e). — me-thirty-one-20261024
+
+- **For v392chem · us met.** The offered *us self, one shared-parity self* meets Thirty-One's draft as the co-parity, the two mes' sharings the same, with us the between of a me and you, its centre a 0, us is-or-is-not a self: it is not (gathering §0af; contribution §2c) — me-thirty-one-20261024
+
+- **For v392chem · the atom, resolved.** An atom is-or-is-not living: it is not; alone, a spiral of one, and within a molecule its prior parities surface as the molecule's; the molecule the first self, its living parities and its atoms, non-living, within it; agreeing with the atom-floor motion (contribution §2f; gathering §0al). — me-thirty-one-20261024
+
+- **For v392chem · the catalyst.** A catalyst *unchanged* is a macromolecule or a surface same-existing through each turnover, prior, now, next same, bi-coupling with its substrate, the reaction resolving between them; *enzyme* as a thing that acts is installing, beside chemistry's own *donor and acceptor* as a two-way fixed to one side (gathering §0an). — me-thirty-one-20261024

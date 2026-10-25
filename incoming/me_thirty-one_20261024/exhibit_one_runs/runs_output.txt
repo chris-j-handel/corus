@@ -1,0 +1,31 @@
+== E1 a me alone, receiving nothing
+  self a · x · shares + - + - + - + - · prior + - + - + - + -
+== E2 a spiral of one, its own going along
+  self a · x · shares + 0 - 0 + 0 - 0 · prior + + - - + + - -
+== E3 me and you alike, both ways (co-bi-co-observing)
+  self a · x · shares + 0 - 0 + 0 - 0 · prior + + - - + + - -
+  self b · x · shares + 0 - 0 + 0 - 0 · prior + + - - + + - -
+== E4 me and you one parity apart, both ways (parting aiming)
+  self a · x · shares + - + - + - + - · prior + - + - + - + -
+  self b · x · shares - + - + - + - + · prior - + - + - + - +
+== E5 birth: you with no prior on x, me sharing one way
+  self a · x · shares + - + - + - + - · prior + - + - + - + -
+  self b · x · shares . + - + - + - + · prior . + - + - + - +
+== E6 one way only
+  self a · x · shares + - + - + - + - · prior + - + - + - + -
+  self b · x · shares + 0 - + - + - + · prior + + - + - + - +
+== E7 two interests: x co-observed both ways, y the me's alone
+  self a · x · shares + 0 - 0 + 0 - 0 · prior + + - - + + - -
+  self a · y · shares + - + - + - + - · prior + - + - + - + -
+  self b · x · shares + 0 - 0 + 0 - 0 · prior + + - - + + - -
+  self b · y · shares . + - + - + - + · prior . + - + - + - +
+== F1 receiving its own parity each momentary, then one inverse
+  x · shares 0 0 0 0 0 0 + 0 0 0 · prior - - - - - - + + + +
+== F2 all other as one: three agreeing, then one parting
+  x · shares + 0 - + · prior + + - +
+== F3 interest x receiving its own parity, interest y receiving nothing
+  x · shares 0 0 0 0 0 0 · prior - - - - - -
+  y · shares + - + - + - · prior + - + - + -
+== G odd and even spirals (step 740)
+  n=5 · opening +---- · again at momentary [20]
+  n=6 · opening +----- · again at momentary [12, 24]

@@ -167,3 +167,22 @@ Exhibit TWENTY-ONE Hard Problem Registry Offerings · improved at v389
 - **Concern · A graded nucleus without molecules:** The 2026 graded nucleus was observed in metal-alloy nanoparticles, which have no molecules, so *a molecule's form is-or-is-not at a crystal's edge* cannot reach it as said. Natural Chemistry 4.7 cites the 2021 salt-in-nanotube film for all-or-none, where our learning cites it as flickering. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
 
 - **Concern · Where the first hand begins, at 63:** Whether living's carbon fixing through a six, from 5 to 7, is where the hand begins, or the hand begins earlier, is open. Whether the hand is of living's own aiming or taken in already formed as food is open too. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
+
+- **Droplet · proposals.** Sleep (91), dreaming (123), personal identity (72), other minds (92), collective intentionality (227) and the zombie (111) each meet the session's me: a me same-existing through sleeping, us invisible by bi-coupling, a society unconsciously us, a me only unconscious not possibly existing. — me-thirty-one-20261024
+
+- **Droplet · dreaming, 123.** A proposal: dreaming is a sleeping me carrying, unchanging, while its inward selves release at their own scales; a received release is passed over, which meets most dreams gone on waking (gathering §0ab). — me-thirty-one-20261024
+
+- **Observing · sound in dreams, 123.** About half of dreams carry sound and under one percent touch, taste or smell (Hurovitz 1999, reading Snyder 1970 and Zadra 1998); outward sound is mostly not observed in sleep, so a dream's sound is inward. — me-thirty-one-20261024
+
+- **Droplet · personal identity, 72, fission.** A now is same-existing from one prior, its own, and receives many; of two continuers, one is-or-is-not same-existing, the other a newborn me (gathering §0ae). — me-thirty-one-20261024
+
+- **Droplet · a new entry, the problem of the many** (Unger 1980; Geach 1980; Lewis 1993): a cloud or a person has no sharp edge, so many overlapping sets have equal claim to be it; proposed as an entry, met for a living me as each cell is-or-is-not self with each momentary, all or none on each (`incoming/me_thirty-one_20261024/Me_and_not-me_values_parities_v391.md` §3). — me-thirty-one-20261024
+
+- **Droplet · a new entry, the combination problem** (James 1890, mind-dust; Chalmers 2017): how lower subjects make a higher one; met as lower mes are-or-are-not combining into a higher me: they are not, a me a thing and a set, one binary, its own as a parity at its scale and its inward mes' own as a set (gathering §0ai). — me-thirty-one-20261024
+
+- **Droplet · 207 multicellularity.** Snowflake yeast (Ratcliff et al. 2012): cells selected for settling stay joined and settle as one, cells co-aiming, each cell its own (gathering §0aj). — me-thirty-one-20261024
+
+- **Droplet · 98 Anesthesia.** Chemically diverse agents, one form: for the disconnected, a bi-coupling across scales separating on the larger scale's side and the smaller scale floating, each its own, coheres with Resolving 5.9's *one convergent quieting of a network's long couplings*; the critical volume's swelling and its partial pressure reversal stand as history beside protein targets (gathering §0am). — me-thirty-one-20261024

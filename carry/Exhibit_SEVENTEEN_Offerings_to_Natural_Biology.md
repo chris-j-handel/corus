@@ -322,3 +322,18 @@ Natural Intelligence Corus section 17.4 offers comparative cognition as a place 
 - **Concern · The Earth beside the Sun:** Whether the Earth is a living self of the solar system's society, beside the Sun, was asked and is unanswered. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
 
 - **Concern · Light resolved only by plants:** Swimming algae resolve light while moving, skin makes vitamin D from ultraviolet, and vent communities live without light. *Swims to aim, then resolves while aimed* is only a candidate. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
+
+- **Concern · three modes.** 4.5's *waking, resting, and attending* meets two states, sleeping all 0 continuing and waking a newly aiming 0, with resting and attending read as two sides of these. — me-thirty-one-20261024
+
+- **Droplet · conception.** 5.1's *two selves conceiving a third* is a case for us, the 0 two mes share, beside a newborn me, a first 0 with an other's parity its own. — me-thirty-one-20261024
+
+- **Concern · a nothing a self.** 1.4's *A nothing between two selves is a living set: a self* meets the between a nothing and us a 0 shared in each, no further self. — me-thirty-one-20261024
+
+- **Droplet · sleep's science.** Verified observings of sleep older than brains (*Cassiopea* 2017, *Hydra* 2020), a colony with no sleep of its own (Fuchikawa 2016) and the grid-cell torus through sleep (Gardner 2022) stand at the gathering's working notes for 4.5. — me-thirty-one-20261024
+
+- **Droplet · division.** A dividing cell's prior is same-existing in one daughter or in none, each now from many priors; *E. coli*'s old pole goes with one daughter, its lineage ageing (Stewart et al. 2005; Wang et al. 2010) (gathering §0ae). — me-thirty-one-20261024
+
+- **For 8.13 · an enzyme, a doing.** A doing standing as a now-existing thing beside the selves doing it: it is not; *enzyme* in natural naming is a macromolecule, protein or RNA, a self at eleven, bi-coupling with its substrate, the reaction resolving between them, and single molecules turn over each at its own fluctuating rate with memory of its own prior turnovers (Lu, Xun & Xie 1998) (gathering §0an). — me-thirty-one-20261024

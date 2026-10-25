@@ -116,3 +116,8 @@ Exhibit FOUR Natural Mathematics Offerings · improved at v389
 - **The sunflower's φ:** The sunflower's golden angle is pattern-matched as φ, the unrelationing rate, and its growing centre as the corus. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
 
 - **Concern · Two kinds of between:** A point where two hands meet may be torusing and a centre both hands wind from corusing. Or every between is one corus met from either side. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
+
+- **Droplet · one opening.** 5.3's *two parities' circles winding with one opening* meets the twisted figure-eight loops of steps 268 and 740. — me-thirty-one-20261024

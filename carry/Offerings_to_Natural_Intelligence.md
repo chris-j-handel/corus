@@ -196,3 +196,32 @@ Bothboth at v391: the opening's 43 lines, each feature bold where it first welco
 - **Concern · Water forming from two:** Hydrogen and oxygen forming water are two prior selves bi-coupling into one next self, so the count of selves changes and needs saying. It also parts from *molecules do not change into different molecules*. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
 
 - **Concern · *Organic molecules are non-living*:** Binary Understanding's *organic molecules are non-living too* parts from the molecule as a living self at 7. The atom at 5 non-living sharpens this. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
+
+- **Droplet · me, you, us, all other.** A candidate for the opening, shown in its whole sequence at the gathering's §0n: you a particular other (step 182); all other within a me, observed as one (step 179); between a self and you a 0, a between; a bi-coupling's me us, the 0 a self and you share at one momentary, a prior behind it in each (step 160). — me-thirty-one-20261024
+
+- **Droplet · a me read whole.** *A me is a self's universal set* read whole: a living thing is a universal set of me, and the universal set of me is me existing, each me a 0 from a prior same, its prior, now and next same. — me-thirty-one-20261024
+
+- **Concern · two opening lines.** *A bi-coupling is a self.* and *A living same-existing set is a self.* meet us as a 0 shared in each, no further self, and a same-existing-society unconsciously us, waking interest by interest. — me-thirty-one-20261024
+
+- **Droplet · the body's sleeping me.** 5.3's *A living self can be non-responsive within a momentary. Receiving its own parity, it shares 0* and 6.5's dormant self living are a sleeping me: all its 0s continuing, its inward same-existing-society living. — me-thirty-one-20261024
+
+- **Concern · an empty possibling.** *With its possibling an empty set, a self's next-existing parity is its prior-existing parity inverting.* reads at Exhibit ONE as a 0 not continuing, an interest dying; whether it is dying or a living self's prior inverting from beside stands open. — me-thirty-one-20261024
+
+- **Droplet · interest and aiming.** An interest is a 0 (*inter-esse*, to be between; Exhibit ONE's 4-now-co-same-existing), and an aiming a parity's direction into it (*aestimare*, to value); the opening has no line for either yet. — me-thirty-one-20261024
+
+- **Concern · us, two readings.** The chemistry session's *us self* (the opening's *a bi-coupling is a self*) and the me session's *us, the between of a me and you, its centre a 0, step 162, each me's own 0 shared* read one line two ways; step 160's third is a changing, and Equilibria 1.3 supplies no further self (`incoming/me_thirty-one_20261024/Contributing_to_Natural_Chemistry_v392chem.md` §2c). — me-thirty-one-20261024
+
+- **Concern · self-parity.** Chemistry §8's offered *conscious living interest is self-parity* and step 390's *a living self receiving its own parity shares 0*, the me session's sleeping, meet one word; *self-parity* is-or-is-not a waking me's own aiming (§2d). — me-thirty-one-20261024
+
+- **Droplet · us, a between.** Us is the between of a me and you, same-existing in each, its centre a 0 and only that (4.10), us is-or-is-not a self: it is not, the living in us its two mes' living, and their sharings with each momentary the same, co-parity, or one inversion apart, bi-parity (step 162); whether a bi-coupling is a self beside its two mes, as the opening's *a bi-coupling is a self*, is for the opening's next improving (gathering §0af) — me-thirty-one-20261024
+
+- **Droplet · co-aiming.** Each living parity aims at its own destiny on a surface horizon, and natural torusing is co-aiming the parities of me: a me's parities' shared aimings, its inward moral cooperation, each parity's aiming local and its destiny on one horizon global (gathering §0ag). — me-thirty-one-20261024
+
+- **Concern · a bi-coupling, by Exhibit ONE's names.** A self's names are *of one*, 8 and 13, and a same-existing-society's 16 is of one too; a bi-coupling is 5-now-co-existing, *between two*; so a bi-coupling is-or-is-not a self: it is not, and the opening's *A bi-coupling is a self.* parts with Exhibit ONE's own naming, for the opening's next improving (gathering §0al). — me-thirty-one-20261024
+
+- **Droplet · the opening's self, bi-coupling and same-existing-society.** Line 19's self discovers its own next-existing, while step 476's same-existing-society is *a self … its own an empty set*, a third; pairs for lines 25, 33, 57 and 70 and step 476, with their Registry mirrors and body lines 1774 and 1780 and step 487, keep seventy lines and every step number, read for harm three times, the fourth reading due at the opening's motion (`incoming/me_thirty-one_20261024/Opening_bi-coupling_and_self_v391.md`). — me-thirty-one-20261024
+
+- **Concern · *coming in* and *its same self*.** Dimension 1's *coming in with 16-next-same-existing* (also lines 528, 835, 1612, and Exhibit ONE's table and line 541) is an ingressing word, re-saying offered *opening with 16-next-same-existing*; dimension 5's *its same self*, said alone, reads as self-stilling, re-saying offered in line 1577's own words, *re-finding its same self with each momentary*; now and next are each true of a self and of a same-existing-society living as a universal set of living selves (gathering §0aq) — me-thirty-one-20261024

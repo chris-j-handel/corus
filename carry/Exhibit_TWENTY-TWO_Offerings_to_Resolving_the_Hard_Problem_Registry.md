@@ -153,3 +153,15 @@ With the suggestion *+1 self, 0 all selves, −1 other self*, a *+1 owned by nei
 - **Its re-saying of *+1 owned by neither*** carries *carried*, a dead form, and *owned by neither*, dissolving: said with each self's own, or the social parity same-existing in each self.
 
 - **At 5.1, 5.5, 5.8 and 5.3.** *A self's within is its own* and *a self feels … from within* meet *a self holds nothing*; *feel* has no line in the opening; *waking and sleeping, two parities of one living* stretches parity, a changing direction relative to a now-existing thing within a self's me.
+
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
+
+- **Concern · two parities.** 5.3's *waking and sleeping are two parities of one living* meets two states of one same-existing me, sleeping all 0 continuing and waking a newly aiming 0. — me-thirty-one-20261024
+
+- **Droplet · sleep, 91.** A proposal where none stood: sleeping restores the inward same-existing-society that waking's folds strained, every interest a continuing 0. — me-thirty-one-20261024
+
+- **Concern · dreaming, 123.** Dreaming is-or-is-not a me waking within an inward interest while every outward 0 continues: open. — me-thirty-one-20261024
+
+- **Droplet · me and not-me with 18, 45, 92, 114, 140 and 159.** Within a me's universal set each thing is-or-is-not self, and a me's values are its parities, each its own with each sharing; each meets the Registry's own reading, coheres (`incoming/me_thirty-one_20261024/Me_and_not-me_values_parities_v391.md` §3). — me-thirty-one-20261024

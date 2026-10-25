@@ -72,3 +72,10 @@ Each sets a self and an other as two number lines, odd and even, overlapping one
 - **The tendril's four parts:** A both-handed coil, clasped at two ends or winding about a centre, with a between where the hand inverts, twisting in and relaxing out, is one pattern not yet said as one definition. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
 
 - **Concern · Two kinds of between:** A point where two hands meet, the tendril's switch, the heart's mid-wall or the bee's run, may be torusing, and a centre both hands wind from, a sunflower's or a nucleus's, corusing. Or every between is one corus met from either side. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
+
+- **Droplet · the twisted loop.** Steps 267 to 268 and 740 and the Corus file's *seventeen figure-8 nothings* draw natural torusing as twisted figure-eight loops, an odd spiral's one loop passing each self twice, once with each parity. — me-thirty-one-20261024
+
+- **Concern · locking.** 4.4's two same-existing-societies locking meets the Registry's *locking an empty set* (step 185) and each self's own rate (321 to 323). — me-thirty-one-20261024
