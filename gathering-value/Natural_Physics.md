@@ -10,6 +10,8 @@ Gathering-Value · Natural Physics
 
 ### 1.1 A physical coupling, one method at each physical subject
 
+- **Possible incohering** · "Prior, now and next are three sequential momentaries, prior-universe, now-universe and next-universe, now-universe the universe, the set of all now-existing things, living and non-living." → Prior, now and next are three sequential momentaries, prior-universe, now-universe and next-universe, now-universe the universe, the set of all now-existing things.
+
 ### 1.2 Six one-way recursionings, their relations, and an unchangeable form
 
 ## TWO · TWO METHODS PARTING AT THE NOW

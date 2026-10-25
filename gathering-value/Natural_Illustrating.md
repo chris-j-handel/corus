@@ -121,3 +121,5 @@ Gathering-Value · Natural Illustrating
 ### 9.3 Not yet at files
 
 ## Droplets
+
+- 1.6's *a common beat exact with code and code's own* is selves' entries stepping together with 17, one momentary, each living self's rate its own. *(possible incohering)*

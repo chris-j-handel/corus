@@ -22,6 +22,8 @@ Gathering-Value · Natural Naming
 
 ### 2.3 One family of words, three in it, and a doer or a built form beside them
 
+- **Possible incohering** · "**Each word saying for a dissolved word co-chains from opening sentence**, the universe the same-existing set of all now-existing things, living and non-living." → **Each word saying for a dissolved word co-chains from opening sentence**, the universe the same-existing set of all now-existing things.
+
 ### 2.4 Released words, each with its saying
 
 ### 2.5 One sense per foundation word
@@ -248,3 +250,4 @@ Gathering-Value · Natural Naming
 
 - A proposed naming stands beside its current naming, as resolver names beside agreed names, and a self compares the two with both before it.
 - *Hold* and *bond* in the set's own saying, about 1,442 lines and 132 words across the set, part from a field's quoted *hold* and *bond*, and the set's own dissolve in one motion. *(possible incohering)*
+- Each six-forward naming's first line, *the universe is the same-existing set of all now-existing things, living and non-living, each with its own scale*, is said *the universe is the same-existing set of all now-existing things, each with its own scale*, the opening sentence's clause released. *(possible incohering)*

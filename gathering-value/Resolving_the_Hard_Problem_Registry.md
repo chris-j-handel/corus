@@ -565,3 +565,5 @@ Gathering-Value · Resolving the Hard Problem Registry
 ### 12.1 Molyneux's problem · 166
 
 ## Droplets
+
+- The closing's *deriving from it a same-existing set of all existing things, living and non-living,* is said *deriving from it a same-existing set of all existing things,* the opening sentence's clause released. *(possible incohering)*

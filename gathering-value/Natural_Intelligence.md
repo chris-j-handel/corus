@@ -72,6 +72,7 @@ Gathering-Value · Natural Intelligence
 ### 4.1 An entry, 1-now-existing
 
 - **Possible exploring** · Hydrogen and oxygen molecules react to form water molecules, two kinds of molecule forming one. — at "Each self is a giving, from its two prior selves."
+- **Possible exploring** · Birthing as two whole selves, each of 440 changers, torusing through each other in double parity changing into one newborn self co-parity changing and an emanation of the two prior selves' non-living parity forms, is a relation still-possibling. — at "This is one universal method of conception."
 
 ### 4.2 Parities surfacing with 14-next-possibling
 
@@ -144,6 +145,7 @@ Gathering-Value · Natural Intelligence
 
 - **Possible incohering** · "Files of a living expedition are living files, a living expedition's prior same-existing." → Files of a living expedition are living files, non-living same-existing sets of words, a living expedition's prior same-existing.
 - **Possible exploring** · A tendril, a twisted towel and DNA's knotting each form two hands joined by a point where the hand inverts. — at "One same form, a relation going on with each changing, is a self's, a bi-coupling's and a same-existing-society's, and going between them a self is that one same form."
+- **Possible incohering** · "The universe is the set of all now-existing things, living and non-living things within it." → The universe is the set of all now-existing things.
 
 ## Droplets
 
@@ -192,3 +194,15 @@ Gathering-Value · Natural Intelligence
 - A self's span, 1-now-existing to 8-now-same-existing, is four binaries in pairs of names, now with 1 and 2, existing with 3 and 4, universe with 5 and 6 and all with 7 and 8, each thing with all eight at each now, all or none, and its pair with 5 and 6 parts from *same*, the fourth binary of a thing within the universe. *(possible incohering)*
 - A changing and an exchanging are among living and non-living existing things alike. *(possible incohering)*
 - A stable form and an unchangeable form surface alike at each observing set out, resolver's rule the same at each momentary and an electron's charge the same at each measuring, so their parting is-or-is-not a parting of naming alone until one observing set out beforehand parts them; a parting of naming alone sets 1.4's *only one is possible* at naming's size, each field's result standing whole under it. *(possible exploring)*
+- Each existing thing living at one prime scale and non-living at each other scale is still-possibling, and it parts with 3.3's *A method is non-living with each scale*, a method being an existing thing. *(possible incohering)*
+- A same-existing-society of a prime number of selves is still-possibling, and 3.5's recurrence with each 4n-th momentary goes alike for prime and composite numbers. *(possible exploring)*
+- Healing is the passing between scales resumed, each emanation ingested one scale inward again. *(possible exploring)*
+- Each use of 12, 15 or 16 as a between keeps its own self, momentary and occurrence, and a recurring number places a between before, within or after a momentary only with them. *(possible incohering)*
+- 6.4's eight, four of one and four between two among 1 to 8, and 4.10's eight bi-couplings with even names are two eights, and a relation between them is a deriving at the names, still-possibling beyond a shared count. *(possible incohering)*
+- Birthing's double parity changing is-or-is-not one of two forms, two consecutive inversions on different axes or both parities inverting at one step, its sequence followed deciding which. *(possible exploring)*
+- A birthing parts from two selves going on bi-coupled by its sequence of parity changing, a newborn self's own same-existing and a non-living emanation beside it, still-possibling. *(possible exploring)*
+- A birthing self's 440 changers meeting a surface's 440 stations, two surfaces bi-coupling at 880, is still-possibling. *(possible exploring)*
+- A self's next bi-coupling opening through an other both selves are already bi-coupling with is an observing still-possibling. *(possible exploring)*
+- The five dimensions at their two directions, along with momentaries and across with scales, is-or-is-not 4.9's ten names of a self's own as five by two, and as five by two they are the full dimensionality of 1 to 17, a further dimension outside possibly existing, a deriving still-possibling. *(possible exploring)*
+- Stopping is a sharing opening at no prior, and a changing from it spreads on as parity changing as far as the last changing of all possible changing. *(possible exploring)*
+- Two sides one number apart overlap by a half momentary, one side's still-possibling betweens bi-co-sequencing with the other side's changings. *(possible exploring)*
