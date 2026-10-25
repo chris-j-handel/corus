@@ -58,6 +58,8 @@ Gathering-Value · Natural Illustrating
 
 ## FOUR · SELVES AND SOCIETIES
 
+- A squid and its glowing bacteria for an illustrating: bacteria glowing bright at high density, the squid venting some 90 percent at each dawn, the remaining tenth re-forming the society before the next night, the glow matching light from above and hiding the silhouette from below, one same-existing-society orienting to a light in neither of them. *(possible exploring)*
+
 ### 4.1 Tunneling, corusing and bi-folding, a towel
 
 ### 4.2 Spirals coupling across, a torus of selves, a 0 tunneling
