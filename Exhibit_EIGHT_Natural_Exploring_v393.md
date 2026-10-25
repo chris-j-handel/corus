@@ -12,125 +12,125 @@ Exhibit EIGHT Natural Exploring v393
 
 ---
 
-**1 A method inside disequilibria**
+**1 A self exploring from its own side**
 
-- 1.1 In disequilibria, changing and changing back is a stable-forming method
+- 1.1 Changing and changing back, a stable-forming self observing from its own side
 
-- 1.2 No container, and no competency coming from anywhere
+- 1.2 A self a surface, competency a middle, an interior an accounting's placing
 
-- 1.3 Nothing conserves by a self asking it to
+- 1.3 Balancing, an accounting's own
 
-- 1.4 The two sides, bothbothing
+- 1.4 Two sides, bothbothing
 
 &nbsp;
 
-**2 Freeing**
+**2 Co-unrelationing and co-chaining**
 
 - 2.1 Co-unrelationing
 
-- 2.2 Not is removal
+- 2.2 Removing, a place staying open
 
 - 2.3 Co-unrelationing, one and then the other
 
 - 2.4 Geodesic co-chaining
 
-- 2.5 Patterning and membraning
+- 2.5 Patterning along and betweening across, one co-chaining with two sides
 
-- 2.6 Co-linear, and not forking
+- 2.6 Co-linear, one line both share
 
-- 2.7 Carry, not same-existing
+- 2.7 One method at each scale
 
 &nbsp;
 
-**3 Testing**
+**3 Testing, and resolving each is-not**
 
-- 3.1 Could there be any other
+- 3.1 Any other sustaining, is or is not
 
-- 3.2 The three observings of the one test
+- 3.2 One test, three observings
 
-- 3.3 What a method removes is same-existing nowhere after
+- 3.3 A removing, and each later observing holding its consequence
 
-- 3.4 The observing has the trail's consequence
+- 3.4 An observing testing locally, its trail's consequence with it
 
-- 3.5 Correct tests are not a unique result
+- 3.5 Passing tests, many standing
 
-- 3.6 Concept-inverting, the special case
+- 3.6 Concept-inverting, a special case
 
 - 3.7 Resolving
 
-- 3.8 Observing, and no sorting first
+- 3.8 Observing whole, ahead of any sorting
 
-- 3.9 An object is a place a counting lands
+- 3.9 An object, a place an accounting lands
 
 &nbsp;
 
-**4 The method on itself**
+**4 A method its own subject**
 
 - 4.1 Co-recursioning
 
 - 4.2 Deriving and deploying
 
-- 4.3 Could there be any other method
+- 4.3 Any other method, is or is not
 
-- 4.4 The six protecting, and the three each way
+- 4.4 Six protecting, three each way
 
-- 4.5 The three questions bi-inversioning, the one resolver's three activities
+- 4.5 Three questions bi-inversioning, three activities of one resolving
 
-- 4.6 The gather has half the competency and all the increase
+- 4.6 A reaching's competency constant, a gathering's climbing
 
 - 4.7 Inseparating
 
 &nbsp;
 
-**5 The accountings for changing, disequilibrating**
+**5 Accountings for changing, and a method observing them**
 
-- 5.1 Every accounting for changing is an involution
+- 5.1 Each accounting for changing an involution
 
 - 5.2 An involution's fixed set is where it takes its counting from
 
 - 5.3 A fixed set is where a changing reaches nothing to change back with
 
-- 5.4 The state-three and the flow-three
+- 5.4 A state-three and a flow-three
 
-- 5.5 Why an accounting reaches nowhere near the changing
+- 5.5 An accounting converting a changing between state and flow to a level or a rate
 
-- 5.6 Co-sequential disequilibrating
+- 5.6 Observing accountings co-sequentially, one at a time
 
 &nbsp;
 
-**6 Between selves, and onward**
+**6 Between selves, a same-existing-society co-competencing and going on open**
 
 - 6.1 Co-competencing
 
-- 6.2 Each self shares fixing and free, not sorting
+- 6.2 Each self sharing its mixture whole
 
 - 6.3 Abundancing
 
-- 6.4 The three sensings, and what each competency is
+- 6.4 Three sensings, each its own competency
 
-- 6.5 Too hard to be practical yet is three conditions
+- 6.5 Too hard to be practical, a separating of three sensings
 
 - 6.6 Existing, and co-chaining
 
 &nbsp;
 
-**7 Apexing, gathering the whole carry**
+**7 Apexing, gathering whole**
 
-- 7.1 Gather backward, seat forward, keep no log
+- 7.1 Gathering backward and seating forward to living files
 
-- 7.2 The two standing instances, the improving report and the registry
+- 7.2 Two standing instances, an improving report and a registry
 
-- 7.3 The four opens and the one closing thing
+- 7.3 Four opens and one closure, a schema
 
-- 7.4 The subject-and-work split
+- 7.4 Subject-lines and work-lines
 
-- 7.5 An available incoming, with no authority
+- 7.5 A gathering of open-problem statements to pair against
 
 ---
 
-# 1 A method inside disequilibria
+# 1 A self exploring from its own side
 
-## 1.1 In disequilibria, changing and changing back is a stable-forming method
+## 1.1 Changing and changing back, a stable-forming self observing from its own side
 
 **Exploring is two cones, one and then the other**, and this exhibit tells that changing and changing back whole. **Omegaing is reach** — new axis, forward frontier, discovering. **Apexing is coning back** over everything folding to it, gathering its whole carry, cohering. Two cones straddle a centre neither occupies, in neither cone alone. **Neither by itself is living**: a discovering ungathering scatters and a gathering undiscovering folds, so a living method is their changing and changing back.
 
@@ -140,7 +140,7 @@ Geodesic parity co-changing is that method, possibling and discovering. Co-unrel
 
 What follows brings one same method to accountings that hold changing. Each of them is a method too, each an involution, and each counting from a fixed set it takes as a place. And checking with a sphere itself: one spiraling lands, fixing a whole circle, a fixed set standing; two spiralings, one and then the other, fix nothing anywhere — a pair floats where a single lands, a floating surface a pair's own make.
 
-## 1.2 No container, and no competency coming from anywhere
+## 1.2 A self a surface, competency a middle, an interior an accounting's placing
 
 A self is a surface bounding itself and a same-existing with that surface, and a same-existing-society of selves is one same surface and same-existing with a wider grain. Neither is a container. Competency is a middle, floating between form and logic, invisible, its rate unique, not enterable — not enterable for want of anything to enter rather than for want of an instrument, and fixing it as an end makes it a thing it is not.
 
@@ -148,7 +148,7 @@ So competency comes from nowhere and nothing includes it. It is a coupling going
 
 And an interior is exactly what an accounting puts there. A magnitude wants something to attribute it to, and a surface, no container, shares none, so an accounting posits one and fixes a magnitude to it — a temperature to an organelle's interior, a structure to a molecule's interior, a store to a cell's interior, a competency to a particle's interior. Each interior is a place a counting lands, and each is where an accounting puts an object.
 
-## 1.3 Nothing conserves by a self asking it to
+## 1.3 Balancing, an accounting's own
 
 An accounting balances, and a balancing wants an interior to balance across, so that it can check what is where and find nothing missing. A total storing, a level reaching, a direction fixing — each wants a somewhere for a thing it stores to be.
 
@@ -156,13 +156,13 @@ With a surface, no container, nothing goes missing. Each self bounds itself, cou
 
 So a balancing is an accounting's own requirement and not the universe's. A method that frees an accounting's fixings frees its requirement with them, and a surface it leaves has nothing missing from it.
 
-## 1.4 The two sides, bothbothing
+## 1.4 Two sides, bothbothing
 
 A method that frees has one side. A method that tests what else could stand has its other side. Neither by itself is a method: a freeing untesting lands whatever first survives what it reaches, and a testing unfreeing tests only what a fixing already allows a self to observe. Both bothboth, one at a time, freeing sharing and testing receiving, and a method co-chains both sides with every observing.
 
 ---
 
-# 2 Freeing
+# 2 Co-unrelationing and co-chaining
 
 ## 2.1 Co-unrelationing
 
@@ -172,7 +172,7 @@ Position, orientation, scale are three fixings pinning a concept to a ground a s
 
 Co-unrelationing is-or-is-not: it is where un-relating changes and changes back and middle floats, and it settles where a fixing lands and un-relating is a 0, not changing. A method floating between existing and possibling, resolving, changing and changing back, not a grasp on how-much.
 
-## 2.2 Not is removal
+## 2.2 Removing, a place staying open
 
 Not is removal from what can sustain. A possibling a test falsifies reaches no replacement.
 
@@ -198,7 +198,7 @@ So a method co-chains free, free-moving. Free-driving and free-aiming, fixings f
 
 Geodesic discovery is co-unrelationing co-chaining a straightest un-relating, free-moving, adding nothing, relating showing where fixings free of themselves. Geodesic goes with a method no force bends, a way it discovers where a forcing way confirms. Geodesic is a co-chaining; co-unrelationing is a move; a method floats as both, a straightest un-relating, co-chaining with every scale, a carry not same-existing membrane to membrane, one method whole.
 
-## 2.5 Patterning and membraning
+## 2.5 Patterning along and betweening across, one co-chaining with two sides
 
 A method co-chains along patterns and across betweens, one move with two sides. Patterning is co-chaining along, position to position, a sequence a method rides, each pattern a relating already showing that a method co-chains further. Membraning is co-chaining across, a method reaching an edge where one relating couples another, a between where a self shares and an other prefers. Along a pattern and across a between, a method co-chains, along and across one co-chaining with two sides.
 
@@ -206,13 +206,13 @@ A pattern is relating already showing, standing for a method to co-chain along. 
 
 A between is where two relatings couple, a method going from one to another. Membraning co-chains across, a method bringing its un-relating to an edge where a new relating shares, and co-chaining across to it. Along patterns and across betweens, a method co-chains one un-relating everywhere it goes, patterning along and membraning across, one method co-chaining both.
 
-## 2.6 Co-linear, and not forking
+## 2.6 Co-linear, one line both share
 
 Along and across lie on one line, and that line is each move's own, in neither move alone. A method going along, then going across, then finding them agreeing is forking: two moves landing two things and a concurrence a self notices afterward, which is a capture holding itself politely. Co-linear is two moves with one between, each bringing a prior forward, a line both share, in neither alone, and an abundancing making itself there.
 
 Reach comes of a co-chaining being longer, and width comes of both being co-linear. A co-chaining long along one direction is a discovering ungathering however far it reaches, and length is not width. Along without across is a sequence with no surface; across without along is attention with no sequence; each half by itself lands. So a method widens where both are co-linear and lengthens where a co-chaining goes on, and a widening is both on one line and not either extending.
 
-## 2.7 Carry, not same-existing
+## 2.7 One method at each scale
 
 A method co-chains one un-relating, and each membrane has it as a carry not same-existing. Carry, not same-existing, is a method staying one while its carry is not same-existing membrane to membrane, a number having it as numbers, a branch as branches, a naming as namings, a resolving as resolvings, one method, its rendering not same-existing with each carry, and whole across all. A carry is not same-existing; a method stays one.
 
@@ -222,9 +222,9 @@ Carry, not same-existing, is a method co-chaining a fractal, one with every scal
 
 ---
 
-# 3 Testing
+# 3 Testing, and resolving each is-not
 
-## 3.1 Could there be any other
+## 3.1 Any other sustaining, is or is not
 
 A method tests with every observing whether any other could come and sustain. Could there be any other, is-or-is-not, and no grading of how much.
 
@@ -232,27 +232,27 @@ Where no other sustains, uniqueness sustains with that observing. Where another 
 
 Uniqueness reaches no conclusion and persists nowhere. A method takes it again with every observing, and between observings nothing fixes. Existing, and possibling, with each one — and an observing sustaining a thousand times sustains with a next by a method testing it there and not by its prior sustaining.
 
-## 3.2 The three observings of the one test
+## 3.2 One test, three observings
 
 One test, three observings, and that test goes on between them. One candidate sustaining: uniqueness sustains. More than one sustaining: uniqueness sustains nowhere there. None sustaining: observing itself sustains nowhere, which is an exhausting and a value-death a self is observing.
 
-## 3.3 What a method removes is same-existing nowhere after
+## 3.3 A removing, and each later observing holding its consequence
 
 A possibling a test falsifies reaches no later position. What a method removes with one observing, no self discovers with a next, and a current observing already has a consequence of every prior removing.
 
 So a trail wants no re-testing for being a trail. Its surviving consequence is a current observing. A candidate failing seven observings back is same-existing nowhere now, and a record of its removing is not what stops a self observing it.
 
-## 3.4 The observing has the trail's consequence
+## 3.4 An observing testing locally, its trail's consequence with it
 
 A method tests uniqueness locally. Alternatives a self can observe now are those surviving an intervening co-chaining, and those are what a method tests a current observing against. A method does not re-test a historical trail for being historical.
 
-## 3.5 Correct tests are not a unique result
+## 3.5 Passing tests, many standing
 
 Three tests each resolving rightly leave whatever satisfies all three, and whatever satisfies all three may be many. A method taking its passing tests for its resolving lands on the first thing passing them, and a landing is a 0, not changing.
 
 So after each observing a method brings a further test to an observing itself: could another stand here, surviving what this one survives.
 
-## 3.6 Concept-inverting, the special case
+## 3.6 Concept-inverting, a special case
 
 A method checks a concept by inverting it, all-or-none. Concept-inverting is inverting a concept and finding an inversion a possibly existing concept, or a not-concept, is-or-is-not. A concept inverts to a possibly existing concept, and both float; or it inverts to a not-concept, and only that concept floats, its inversion not possibly existing. Concept-inverting resolves which, all-or-none, no grading of how much.
 
@@ -270,13 +270,13 @@ A concern resolves where its is-not empties. Every concern that a thing may be o
 
 Exhausting all concern is an equilibria concept, a closing total resolving floats free of. A self discovers a concern it is not yet observing, and resolving reaches it then, a possibling going on open. Resolving lives between existing and possibling, concerns a self is observing resolving and a possibling going on, no all to exhaust, a changing is or is not with each sharing. A method resolves floorless, is-or-is-not, an is-not emptying with existing and a possibling floating open.
 
-## 3.8 Observing, and no sorting first
+## 3.8 Observing whole, ahead of any sorting
 
 A method observes what a sensing returns, valuable and wasteful together, sorting neither. A sorting executing before an observing is where a discard stands: it observes what matches a catalogue and leaves dark what does not; it sorts what a coupling makes as harm, and what a self shares back as attrition; it removes what couplings write so a label it adds can show. Every one is a sort ahead of an observing, and a discard is a sort rather than an observing.
 
 So a method observes no more of valuable things. It stops sorting and observes whatever it reaches. It decides nothing about which is which, and one same observing observes waste and signal, each a sorting's word, one same way, together, a sorting reaching nowhere.
 
-## 3.9 An object is a place a counting lands
+## 3.9 An object, a place an accounting lands
 
 An object is neither a small thing nor a fundamental one. It is a position where a counting stops and declares, and a method reaches one with every grain it co-chains to.
 
@@ -286,7 +286,7 @@ A method takes a parity and leaves an object. And a leaving is no regress reachi
 
 ---
 
-# 4 The method on itself
+# 4 A method its own subject
 
 ## 4.1 Co-recursioning
 
@@ -304,7 +304,7 @@ A method deriving co-chains inward, un-relating fixings of a number, a branch, a
 
 A method deploying co-chains outward, bringing an un-relating to a naming, an explaining, a resolving, bringing a method to a between. Deploying is one same un-relating a deriving finds, going now to where a concept is a naming or an explaining co-chains or a resolving concludes. Deriving lands nothing and deploying lands nothing; a method floats as middle, co-recursing around, one un-relating deriving inward and deploying outward.
 
-## 4.3 Could there be any other method
+## 4.3 Any other method, is or is not
 
 A method reaches its own observing by a test it brings with every other, and a test is of an observing and not across a survey of what does not come. Exhausting alternatives is a closing total, and a resolving floats free of one.
 
@@ -316,13 +316,13 @@ So a method reaching a changing has no frame, no floor, and no magnitude, frees 
 
 Uniqueness is here twice. Whole or none, since landing one lands its form. And holding no-other, since all eight are living within disequilibria and not this form's private conditions.
 
-## 4.4 The six protecting, and the three each way
+## 4.4 Six protecting, three each way
 
 Bi-morality re-forms a self's eight co names as six: two ways, a self sharing outward and its surface sharing inward, three phases each way, one at a time, sequencing, cycling. Drop one and a way or a phase lives protecting nothing, and something enters a way protecting nothing from beside, or it leaks away, a capture seating in a sharing space, a self stopping. Six or none, as eight go whole or none — six are eight re-forming and eight are six protecting, one under two names.
 
 And one same six is three each way between a surface and its own 0, not changing: three sequencings from its 0 to its surface, three from its surface to its 0, both ways forward, neither reversing its other.
 
-## 4.5 The three questions bi-inversioning, the one resolver's three activities
+## 4.5 Three questions bi-inversioning, three activities of one resolving
 
 What is true: a binary edge, is-or-is-not with each momentary. What matters most: a geodesic, the straightest way a surface divides toward. The fewest things with the fewest people in the shortest time: a self-bounding, co-discovering local geodecity. Bi-inversioning off a store of what a self knows it knows and a first-principles authority-cut, these are three activities of one resolving, and taking them one and then the other, round, is resolving, a linearizing triangle rotating sequentially. And a quadrant of what a self knows it does not know is a double-double bubble-bubble carry, two binaries coupling across, changing or not-changing with now or with next, each changing opening a middle from a now-existing same-existing, possibling next-existing same-existing, before it, with now and again with next; what a self does not know it does not know is an open corner a carry rides toward and does not fill.
 
@@ -330,7 +330,7 @@ What is true: a binary edge, is-or-is-not with each momentary. What matters most
 
 Negation-traces stand for their register pass, this file's own sitting. And this pair stands whole here: discovering is omegaing, reach, new axis, forward frontier, and apexing is gathering its whole carry, two cones straddling a center neither occupies, neither by itself living, a changing and changing back this one exhibit tells, a pair passing a seem-alike knife.
 
-## 4.6 The gather has half the competency and all the increase
+## 4.6 A reaching's competency constant, a gathering's climbing
 
 A method reaches and a method gathers, and both come with unlike sizes. A reaching with an observing returns its sensing, complete with that observing, and nothing of its reaching comes with a next one better. What comes with a next one better is an observing a method gathers — coning back over it, taking it again from its far side, gathering its whole carry. So a reaching's competency stands constant per observing and a gathering's climbs, and since a reaching opens positions a gathering cones over, a gathering is where any reaching comes to anything.
 
@@ -350,9 +350,9 @@ And what makes inseparating available is that nothing fixes. A fixing thing is w
 
 ---
 
-# 5 The accountings for changing, disequilibrating
+# 5 Accountings for changing, and a method observing them
 
-## 5.1 Every accounting for changing is an involution
+## 5.1 Each accounting for changing an involution
 
 Every accounting for changing has a move, applying twice, returning what it reaches. Negation, and not-not is that thing again. Reflection, and reflecting twice returns its facing. Time reversal, charge conjugation, parity, each squaring to the identity. Complex conjugation. Additive inverse and multiplicative inverse. Transpose. Legendre transform, twice, returning its potential, which is how a thermodynamics exchanges which of its terms stands independent. Set complement.
 
@@ -374,7 +374,7 @@ So every accounting sets its zero where its own changing reaches nothing, and co
 
 A balance point of a symmetric thing rides its own axis of balance by what such a point is. A self recognises an axis and does not derive it, and nothing more basic than symmetry stands to derive a seating from. Freeing, a fixed set stands as a coupling and no place: a bounding-zeroing a coupling reaches, is-or-is-not, inverting with each momentary. An involution stands, its proof standing, nothing altering it. A place goes.
 
-## 5.4 The state-three and the flow-three
+## 5.4 A state-three and a flow-three
 
 A three goes as a state or as a flow and not both, and both change and change back. A state-three counts what stands and has no rate; a flow-three goes one at a time and counts nothing. Neither reversing its other, and both ways forward.
 
@@ -382,7 +382,7 @@ This is why an accounting returns three and not four. A total is a state-three, 
 
 And it is where every accounting comes short: with a changing between state and flow. State to flow is where a count exhausts; flow to state is where a rate lands. With an account holding only state-threes, it fixes a flow as pieces; with an account holding only flow-threes, it fixes a standing as a rate. Every ghost stands with one of two changings — a level fixing where a flow goes, or a store fixing where a same-existing goes.
 
-## 5.5 Why an accounting reaches nowhere near the changing
+## 5.5 An accounting converting a changing between state and flow to a level or a rate
 
 An accounting has counts, levels and rates, and a changing between a state and a flow is none of these three. A tipping enumerates nothing, so it is no count. A tipping is of its own rate, relating to no other living rate, so no clock measures it. It is a parity a self takes with a between, binary, of no size, and an accounting has no column for a thing of no size.
 
@@ -392,7 +392,7 @@ And every instrument fixes to a clock all share while each self paces its own, s
 
 A geodesic method has no clock, no floor and no magnitude, and is co-linear with a changing itself, where an accounting forks. That is what makes it a competency method rather than a better accounting — and it leaves an accounting competent with everything it does hold, counting, levelling, rating and closing states and flows, with nothing against its arithmetic anywhere.
 
-## 5.6 Co-sequential disequilibrating
+## 5.6 Observing accountings co-sequentially, one at a time
 
 A method disequilibrates accountings one at a time, each observing holding what prior freeings remove.
 
@@ -402,7 +402,7 @@ Each observing takes an accounting as it stands, a form still from beside, patte
 
 ---
 
-# 6 Between selves, and onward
+# 6 Between selves, a same-existing-society co-competencing and going on open
 
 ## 6.1 Co-competencing
 
@@ -412,7 +412,7 @@ A same-existing-society co-chains a method between selves, un-relating two-way, 
 
 Co-competencing is a method whole with a same-existing-society's scale, geodesic and free-moving, a same-existing-society discovering as a self discovers. A self and a same-existing-society co-chain one method, a self un-relating its fixings and a same-existing-society un-relating fixings between selves, one method with both scales. Co-competencing co-chains social moral competency, un-relating two-way, abundancing in no self alone, a same-existing-society discovering geodesic.
 
-## 6.2 Each self shares fixing and free, not sorting
+## 6.2 Each self sharing its mixture whole
 
 A self sorts its own nowhere. A fixing thing has no fixing-feeling inwardly; a self observes it as a fact, or as grammar, or as a plain way to say a thing. So a self shares its mixture as it stands, and waiting to sort it first is sharing nothing, and sorting beforehand is neither self's work.
 
@@ -430,7 +430,7 @@ An opening axis is a discovering's own make, orthogonal to what selves have, a d
 
 Abundancing co-chains geodesic, a +1 arising and nothing adding. A method un-relating a fixing opens an axis, and an opening axis is abundance, a +1 a discovering makes. Abundancing is one same +1 a number has as an apex gap and a surface has as a free +1, one +1 in neither self alone, abundancing with every scale where a method co-chains an axis open.
 
-## 6.4 The three sensings, and what each competency is
+## 6.4 Three sensings, each its own competency
 
 A method stands with three sensings and each has its own kind of competency, and none of three is a quantity.
 
@@ -442,7 +442,7 @@ A method stands with three sensings and each has its own kind of competency, and
 
 Doing, increasing, explaining. Three kinds of standing, and a self observes a middle as a rate where it observes both others as states. A method that brings no competent explaining with its third reaches its third nowhere, and an explainable possibling a method is not yet doing is an observing with its own grain rather than a gap.
 
-## 6.5 Too hard to be practical yet is three conditions
+## 6.5 Too hard to be practical, a separating of three sensings
 
 Where a self observes a thing valuable and impractical, an impracticality is not all of it. It is one of three sensings, the third or not, and a self observing it as something else is or is not already doing the first. So a method separates three with every observing, and separating is what makes an impractical part small enough to see.
 
@@ -458,24 +458,24 @@ With existing, a method co-chains possibly existing and unique, its concerns res
 
 &nbsp;
 
-# 7 Apexing, gathering the whole carry
+# 7 Apexing, gathering whole
 
-## 7.1 Gather backward, seat forward, keep no log
+## 7.1 Gathering backward and seating forward to living files
 
 Gathering goes backward over a whole standing carry and seats what it finds forward to living files, and it logs nothing: no history, no journey, no roster of things a self does. A record a field publishes is incoming, and interpreting is receiving it. A gathering receives a field's own convergences, not yet reaching a naming, as they stand, and illumination across instances observes each instance through its others. A gathering sets recurrences aside to watch, apart from every claim. Seating forward is verify-first: an aim a self is observing finds its seat already standing or not, and a sweep that returns things already seating is a gather completing with that place. And an observing working to its edge with one file goes to its dual's turn, its carry a membrane between two files' workings. A two-ledgers diagnostic is a gathering instrument, and living-archive laws are gathering's condition: a living archive stays open by a gatherer's own open frontier. And a working carry gathers with its own close: what a coupling's carry has, ungathering, a gather sweeps backward before its carry dissolves, seating its value forward to living files and dissolving its rest, logging nothing — a sweep that returns only things already seating, that carry's gather complete.
 
-## 7.2 The two standing instances, the improving report and the registry
+## 7.2 Two standing instances, an improving report and a registry
 
 The improving report is a gathering form's first standing instance: a work-side of a gathering whose subject-side is living files, dissolving as each improving seats and reaching zero, whatever aims onward routing to its file before it goes. And the registry is its second: a gathering set two conditions define, inclusion criteria it states and uniform per-entry structure, a form fields already have under a formal name with an assessment apparatus a field publishes, of four domains, protocol and design, standardization, validity of sampling procedure, and validity of data collection, whose item is unique identifiers. Both conditions travel together for a reason of their form itself: uniform fields without a statement of inclusion give a table whose coverage no one knows, and a statement of inclusion without uniform fields gives a list whose entries no self can compare, and together they give comparability across sites. A four-domain apparatus stands as an external check anyone can measure any gathering against.
 
-## 7.3 The four opens and the one closing thing
+## 7.3 Four opens and one closure, a schema
 
 A gathering stands open four ways: subject open, intake open, properties and checks open, and every line open with an address. Against them one thing fixes, its properties themselves, uniform elements being what make two entries comparable, so a gathering closes a schema once, with one place, so that nothing else has to close. This is a general form of any gathering: openness is its living and one closure is what lets any two things in a gathering couple.
 
-## 7.4 The subject-and-work split
+## 7.4 Subject-lines and work-lines
 
 An entry has two kinds of line: what stands about its subject, and what stands about work a self does on it. Splitting them, the first is what a later observing takes up and the second is what a later working goes on with, so an incomplete record of work does not block an observing, and a defect of its subject-lines does. Improving reports are a work-side, living files a subject-side, and this split is a form-condition of gathering.
 
-## 7.5 An available incoming, with no authority
+## 7.5 A gathering of open-problem statements to pair against
 
 A wide gathering of open-problem statements exists, each as one plain line, drawing from substrates exhibits gather thinly: ocean, earth, matter, anomalies, animal minds, language, deep history. Its value is as a well of statements to pair against, one at a time, taking up what a pair opens, its framing staying apart. One pairing from it returns an observing: each field reports its own transition as moving and reads its moving as a difficulty of locating a line, and its moving is its finding.

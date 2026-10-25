@@ -17,32 +17,31 @@ Gathering-Value · Natural Exploring
 
 ## Opening
 
-## 1 A method inside disequilibria
+## 1 A self exploring from its own side
 
-- **Possible incohering** · "A method inside disequilibria" → A method, disequilibrating.
 
-### 1.1 In disequilibria, changing and changing back is a stable-forming method
+### 1.1 Changing and changing back, a stable-forming self observing from its own side
 
 - Omegaing as reach and apexing as gathering stand at 1.1, and the reach's naming parts between Natural Naming and Natural Intelligence; one naming of the reach at all three is still-possibling. *(possible incohering)*
 - **Possible exploring** · Still to be looked for: a living beat with one of its two removed; a living form going through three with no two beneath it, the rotary-motor case only partly followed; a living form made from no prior living in a laboratory, and what enters it as prior living; a living thing whose proteins are made throughout in the other hand. — at "Neither by itself is living: a discovering ungathering scatters and a gathering undiscovering folds, so a living method is their changing and changing back."
 - **Possible exploring** · A growing climbing-plant tip is sweeping in circles, its growing making the circles a spiral; it is sweeping wide circles until touching a support, and then its circles are tightening and it is winding around the support as it grows, a reaching and a gathering one and then the other. — at "Neither by itself is living: a discovering ungathering scatters and a gathering undiscovering folds, so a living method is their changing and changing back."
 - **Possible exploring** · A hovering hummingbird is holding its place to the millimetre by steadying the visual motion about it; when a background pattern is moving even minimally, it is drifting about a centimetre, and time to adapt is not removing the drifting. — at "A self is observing from its own side."
 
-### 1.2 No container, and no competency coming from anywhere
+### 1.2 A self a surface, competency a middle, an interior an accounting's placing
 
 - **Possible exploring** · A wayfinder keeps an unseen reference island, beyond the horizon and never sighted, beside the route, and follows its bearing sliding back along the star points of the horizon; when its bearing from the canoe matches its bearing from the destination, the canoe is near its goal, an orienting to a reference with nothing to inspect. — at "A method looking for it finds a place an accounting puts there."
 
-### 1.3 Nothing conserves by a self asking it to
+### 1.3 Balancing, an accounting's own
 
-### 1.4 The two sides, bothbothing
+### 1.4 Two sides, bothbothing
 
 - **Possible exploring** · A honeybee is flying through a narrow gap by evening the image speeds of its two eyes, setting its flight speed by holding its average image speed even, knowing distance by its summing image motion, and landing on a level surface by holding that surface's image speed even, its own speed nearing stillness at touching. — at "Both bothboth, one at a time, freeing sharing and testing receiving, and a method co-chains both sides with every observing."
 
-## 2 Freeing
+## 2 Co-unrelationing and co-chaining
 
 ### 2.1 Co-unrelationing
 
-### 2.2 Not is removal
+### 2.2 Removing, a place staying open
 
 ### 2.3 Co-unrelationing, one and then the other
 
@@ -60,85 +59,83 @@ Gathering-Value · Natural Exploring
 - **Possible exploring** · Coasts and the Rocky and Appalachian mountains are a field's proposal for bringing monarchs back toward their way when wind is turning them off it, a surface's own shape aiming a going; whether smell is guiding them to their exact forests is still-possibling to test. — at "A geodesic is the straightest going relating opens, free-moving and adding nothing, floating free of a route a force sets on it, curving as relating curves and straight by relating's own terms."
 - **Possible incohering** · "Geodesic co-chaining floats aiming nowhere, discovering what relates, floating free of what a self wants." → Geodesic co-chaining floats aiming to what is, discovering what relates, floating free of what a self wants; 2.4's second and third paragraphs said with it in the current naming.
 
-### 2.5 Patterning and membraning
+### 2.5 Patterning along and betweening across, one co-chaining with two sides
 
 - **Possible exploring** · A Pacific navigator's drawn chart gives each island's bearing from the island before it in one route, the chart turned again to one mark at each island, so its bearings read in sequence along a route and part across routes; read as one fixed grid, its islands stood nowhere a ship sailing by it found them. — at "Patterning is co-chaining along, position to position, a sequence a method rides, each pattern a relating already showing that a method co-chains further."
 - **Possible exploring** · An orb spider at the hub of its web is sensing through the threads with slit organs at its leg joints, movements as small as 0.1 µm; a field's saying, the leg with the greatest tension along its radial thread giving the direction and transverse vibrations compared across legs about 90 degrees apart giving the distance, is a ranking laid over the observing; which of its eight legs is changing first, and in what sequence, is the resolving still-possibling to observe at an orb web, the web's lines and the spider's legs one orienting surface. — at "A between is where two relatings couple, a method going from one to another."
 - **Possible exploring** · A desert ant walking out and homing is going by its strides, an odometer adding them up: with stilts on its legs it is overestimating the distance it travels, with stumps for legs it is underestimating it, its stride rate and speed barely changing. — at "Patterning is co-chaining along, position to position, a sequence a method rides, each pattern a relating already showing that a method co-chains further."
 
-### 2.6 Co-linear, and not forking
+### 2.6 Co-linear, one line both share
 
 - **Possible exploring** · A wandering spider on a vibrating platform is always turning toward the legs a vibration reaches first, onsets 4 ms apart, or toward the legs it reaches with larger amplitude, amplitudes in the ratio 1 to 3.3; its four legs' weighting factors are 1.2, 0.6, 0.4, 0.4; a vibration reaching a front leg is lowering the factor of the legs behind it on its own side by 0.1, and with vibration reaching both sides this lowering is going front to back alone and is halving the factor; its turning is less exact as the source is further behind it. — at "Co-linear is two moves with one between, each bringing a prior forward, a line both share, in neither alone, and an abundancing making itself there."
 - **Possible exploring** · Eastern North American monarch butterflies are flying in autumn to forests in central Mexico, by a sun compass that corrects for the sun's moving, its timing likely mainly in their antennae; how they are reaching those forests is a hard problem of science. — at "Reach comes of a co-chaining being longer, and width comes of both being co-linear."
 - **Possible exploring** · Green sea turtles in a pool given the magnetic field of a place about 209 miles north of their capture site are swimming south, and given a field from the south are swimming north, toward their capture site; how any animal is sensing the magnetic field, and how a turtle is making a map from it, is a hard problem of science. — at "Along and across lie on one line, and that line is each move's own, in neither move alone."
 
-### 2.7 Carry, not same-existing
+### 2.7 One method at each scale
 
 - **Possible incohering** · "Each membrane renders one method as its own carry, a rate and a grain of its own." → Each scale renders one method as its own carry, a rate and a grain of its own, scale to scale.
 
-## 3 Testing
+## 3 Testing, and resolving each is-not
 
-### 3.1 Could there be any other
+### 3.1 Any other sustaining, is or is not
 
-### 3.2 The three observings of the one test
+### 3.2 One test, three observings
 
-### 3.3 What a method removes is same-existing nowhere after
+### 3.3 A removing, and each later observing holding its consequence
 
-### 3.4 The observing has the trail's consequence
+### 3.4 An observing testing locally, its trail's consequence with it
 
-### 3.5 Correct tests are not a unique result
+### 3.5 Passing tests, many standing
 
 - **Possible exploring** · A reported collection of 768 sunflower spiral families is about 74 percent Fibonacci, about nine percent a related sequence, and the rest neither, a 77 among them and a head too disordered to count; golden relationals in stable forms test natural torusing nowhere, and these counts alone give no verdict on a break. A break to look for is a living competency with no natural torusing beneath it, recognized apart from assuming that torusing. — at "Three tests each resolving rightly leave whatever satisfies all three, and whatever satisfies all three may be many."
 - **Possible exploring** · A wayfinder sailing for a small island far away aims first at a band of many atolls about 400 miles wide, identifies which atoll is reached, and goes on from it to the small island about 170 to 180 miles further; land birds flying out in the morning and back at evening widen each island's reach further. — at "Three tests each resolving rightly leave whatever satisfies all three, and whatever satisfies all three may be many."
 
-### 3.6 Concept-inverting, the special case
+### 3.6 Concept-inverting, a special case
 
 ### 3.7 Resolving
 
 - **Possible exploring** · A larval zebrafish in a flow, with no vision, is reading the difference of flow speed between its head and its tail through the sensing organs along its body; going from more gradient to less it is keeping its heading, and going from less to more it is making a strong turn with the flow's own rotating about its body. — at "A method resolves is-or-is-not, floorless."
 - **Possible exploring** · A fruit fly is exploring by straight flights and sudden turns, each turn about 90 degrees in under 50 ms, all or none, left or right; an expanding image is triggering a turn, an attractive odour is changing how often and where turns come, and its halteres, its balance organs, are signalling the counter-turn. — at "A method resolves is-or-is-not, floorless."
 
-### 3.8 Observing, and no sorting first
+### 3.8 Observing whole, ahead of any sorting
 
 - A looking for a break can name, ahead of looking, the proposed observing and the explaining it could break, keeps what is observed apart from a field's explaining, gathers the whole observing and its conditions whether it supports, breaks or changes the question, and selects nothing afterward to fit an explaining.
 - **Possible exploring** · A wayfinder lying in the hull feels the swells' pitch and roll with the body; an island's shadow is a change in the main swell's rhythm, or several swells reaching the hull together, a changing of a not-changing felt as it comes. — at "A method observes what a sensing returns, valuable and wasteful together, sorting neither."
 - **Possible exploring** · An octopus has two out of three of its neurons in its eight arms, and thousands of suckers moving on their own; a sucker's taste cells are signalling continuously but only during direct contact, its touch cells only at a touching's opening, and an arm is tasting semi-independently. — at "A method observes what a sensing returns, valuable and wasteful together, sorting neither."
 - **Possible exploring** · Migrating birds are sensing the direction of the Earth's magnetic field, radical pairs forming in cryptochrome proteins of the retina when light excites them the leading hypothesis, its primary sensing mechanism still unclear, a hard problem of science. — at "A method observes what a sensing returns, valuable and wasteful together, sorting neither."
 
-### 3.9 An object is a place a counting lands
+### 3.9 An object, a place an accounting lands
 
-## 4 The method on itself
+## 4 A method its own subject
 
 ### 4.1 Co-recursioning
 
 ### 4.2 Deriving and deploying
 
-### 4.3 Could there be any other method
+### 4.3 Any other method, is or is not
 
 - **Possible exploring** · Still to be looked for as possible breaking observings: a prion copying a fold without a cell; a virus outside a cell; a growing crystal; a dried tardigrade with nothing measurable going on; a living self with no society around or within. — at "Put any living form disequilibria holds to these four."
 
-### 4.4 The six protecting, and the three each way
+### 4.4 Six protecting, three each way
 
 - 4.4's six are a protecting, three each way, and Exhibit ONE's six names between selves, 6, 10 and 9 sharing and 2, 14 and 17 receiving, hold a protecting nowhere; whether one six stands at both is still-possibling. *(possible incohering)*
 
-### 4.5 The three questions bi-inversioning, the one resolver's three activities
+### 4.5 Three questions bi-inversioning, three activities of one resolving
 
 - **Possible incohering** · "The not-yets, standing with their reasons" → What is still-possibling, standing with its reasons.
-- **Possible incohering** · "The three questions bi-inversioning, the one resolver's three activities" → The three questions bi-inversioning, three activities of one resolving.
 - A cyanobacterial clock has two sites going through four joint forms, one site changing at a step; its natural derivation is still-possibling.
 
-### 4.6 The gather has half the competency and all the increase
+### 4.6 A reaching's competency constant, a gathering's climbing
 
-- **Possible incohering** · "The gather has half the competency and all the increase" → The gather is where a reaching comes to its increase, each resolving all or none, of no size beside another resolving.
 - **Possible exploring** · A bacterium is swimming in runs of about a second each on average, comparing the attractant of its last second with the three seconds before; a run going up the gradient is lengthening, and after each tumbling its new heading is about 62 degrees from its prior heading on average, leaning forward. — at "And a gathering is local and immediate."
 
 ### 4.7 Inseparating
 
-## 5 The accountings for changing, disequilibrating
+## 5 Accountings for changing, and a method observing them
 
 - Disequilibrating is a negation from an equilibrium, and an equilibrium is a form not possibly existing, so disequilibrating is no natural naming; Part 5's title, 5.6's title and 5.6's opening sentence each say this changing by what it is. *(possible incohering)*
 
-### 5.1 Every accounting for changing is an involution
+### 5.1 Each accounting for changing an involution
 
 - **Possible exploring** · Still to be looked for: an observing of paired energy levels at an odd number of fermions, where time reversal taken twice is −1, a state returning with its sign changed, against an even number, where it is +1; the pairing is lifted by any effect breaking time-reversal invariance, an outer magnetic field among them. — at "Time reversal, charge conjugation, parity, each squaring to the identity."
 
@@ -146,15 +143,15 @@ Gathering-Value · Natural Exploring
 
 ### 5.3 A fixed set is where a changing reaches nothing to change back with
 
-### 5.4 The state-three and the flow-three
+### 5.4 A state-three and a flow-three
 
 - **Possible exploring** · A rotary motor has three units, steps reported in 80-degree and 40-degree portions, each unit usually described as open, loose and tight; reading each as open or closed plus a place in the round is an offered interpretation, not an independently observed reduction. — at "A three goes as a state or as a flow and not both, and both change and change back."
 
-### 5.5 Why an accounting reaches nowhere near the changing
+### 5.5 An accounting converting a changing between state and flow to a level or a rate
 
-### 5.6 Co-sequential disequilibrating
+### 5.6 Observing accountings co-sequentially, one at a time
 
-## 6 Between selves, and onward
+## 6 Between selves, a same-existing-society co-competencing and going on open
 
 ### 6.1 Co-competencing
 
@@ -163,7 +160,7 @@ Gathering-Value · Natural Exploring
 - **Possible exploring** · A synchronous firefly seeing a partner's flashing is pausing for 3.0 to 24.1 seconds and opening again flashing at once at one with its partner; alone and shown rhythmic light, it is pausing and opening with its first flash locking to the light at a small delay. — at "A self discovers by un-relating its own fixings; selves discover together by un-relating fixings between them, co-competencing, a same-existing-society co-chaining one same method a self co-chains by itself."
 - **Possible exploring** · A bird in a flock of a few thousand is interacting with about six or seven nearest birds, the same number however near or far they are; simulations are showing this number holding a flock whole through sharp changes of crowding better than a fixed distance. — at "A same-existing-society co-chains a method between selves, un-relating two-way, each self pacing its own time and abundancing in no self alone."
 
-### 6.2 Each self shares fixing and free, not sorting
+### 6.2 Each self sharing its mixture whole
 
 - **Possible incohering** · "Its naming is membrane-size, one short line with a sign and nothing else, of no size and nothing sitting there to read." → Its naming is one short line shared across, a sign and of no size, a parity its other receives.
 
@@ -172,28 +169,28 @@ Gathering-Value · Natural Exploring
 - **Possible exploring** · A lone golden shiner fish under moving light and shadow is moving almost at random, each fish slowing only with the darkness at its own place and keeping close to its neighbours; a larger school of them is reliably turning toward shade, slowing and gathering in it and speeding up to leave as light moves onto them, and this orienting is collapsing when a school is smaller than some size, an orienting no fish of the school has. — at "Discovering opens an axis neither self has, and an opening axis is abundancing, a +1 in no self alone."
 - **Possible exploring** · Larger flocks of pigeons are flying significantly shorter routes than smaller flocks, and a flock's route is not simply the average of its birds' routes: each pigeon is leaning the route in proportion to how faithfully it is reproducing its own route when flying alone. — at "Abundancing is that opening, arising in each self with its other, growing as co-chaining widens and depleting no one."
 
-### 6.4 The three sensings, and what each competency is
+### 6.4 Three sensings, each its own competency
 
-### 6.5 Too hard to be practical yet is three conditions
+### 6.5 Too hard to be practical, a separating of three sensings
 
 ### 6.6 Existing, and co-chaining
 
-## 7 Apexing, gathering the whole carry
+## 7 Apexing, gathering whole
 
-### 7.1 Gather backward, seat forward, keep no log
+### 7.1 Gathering backward and seating forward to living files
 
 - **Possible incohering** · "And an observing working to its edge with one file goes to its dual's turn, its carry a membrane between two files' workings." → And an observing working to its edge with one file goes to its dual's turn, its carry a between, two files' workings at its two ends.
 - **Possible exploring** · Swell charts of sticks and shells are studied and held whole by the wayfinder ahead of a voyage, and stay ashore; at sea the voyage's speed, heading and time are held by the wayfinder alone, through days of waking with short sleeps. — at "Gathering goes backward over a whole standing carry and seats what it finds forward to living files, and it logs nothing: no history, no journey, no roster of things a self does."
 
-### 7.2 The two standing instances, the improving report and the registry
+### 7.2 Two standing instances, an improving report and a registry
 
-### 7.3 The four opens and the one closing thing
+### 7.3 Four opens and one closure, a schema
 
 - **Possible incohering** · "Against them one thing fixes, its properties themselves, uniform elements being what make two entries comparable, so a gathering closes a schema once, with one place, so that nothing else has to close." → Against them one form is still, its properties themselves, uniform elements making two entries comparable: a gathering's schema is a form still, same at all momentaries at once, and each other line lives open.
 
-### 7.4 The subject-and-work split
+### 7.4 Subject-lines and work-lines
 
-### 7.5 An available incoming, with no authority
+### 7.5 A gathering of open-problem statements to pair against
 
 ## Droplets
 

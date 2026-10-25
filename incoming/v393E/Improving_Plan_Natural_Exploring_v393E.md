@@ -138,8 +138,9 @@ Each motion is binary: it is entered whole or it waits whole.
 
 ## For the person's word
 
-The form above, entering motion by motion, headings first: the person's word was to go with the best version, open to change. Part 8 was left: navigating at each scale is at 2.7 and the hard problems at 2.4 and 6.8.
+The form above at its best version, open to change, entering motion by motion, headings first; navigating at each scale at 2.7 and the hard problems at 2.4 and 6.8.
 
 ## Entered
 
 - **Motion 1, headings.** 44 sections `##`, seven parts `#`, contents as `- ` lines; 44 of 44 sections and 7 of 7 parts match their contents lines; 8,399 words identical before and after.
+- **Motion 2, titles.** 39 part and section titles in the current naming, read for harm by a separate reader: each title held by its own section's body now, *a web of co-linears* and *a swarm orienting* waiting for Parts 2 and 6; three gathered incoherings resolved and left.
