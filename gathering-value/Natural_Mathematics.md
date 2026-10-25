@@ -106,3 +106,4 @@ Gathering-Value · Natural Mathematics
 
 - Under ordinary numerical order a ⊀ b and b ⊀ a together give a = b, and under a partial order these two exclusions hold for incomparable elements too.
 - Rewording a strict comparison, a < b with equality excluded, as a non-strict one, a ≤ b with equality included, gives an other relation with equality.
+- 5.2's self-cohering with a side's five, 1 prior-existing self-parity to 5 next-existing same-existing self-parity, its centre with 3, now-existing co-parity, floating, in neither self alone, parts from the five society to society, 1 social-parity now-existing, 2 other-parity now-existing, 3 self-parity now-existing, a self's own, 4 self-discovery next-existing and 5 social-parity next-existing: its five is-or-is-not re-said society to society, with a side's five, and its centre with 3 re-said with it. *(possible incohering)*

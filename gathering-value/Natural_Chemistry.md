@@ -63,6 +63,8 @@ Gathering-Value · Natural Chemistry
 
 ### 4.4 Elements the doubling side, one recursioning one hundred eighteen times
 
+- **Possible incohering** · "On a ring closing with one hundred twenty, two and one hundred eighteen are a going out and a going back with one station, equal and opposite about a turn with sixty (Natural Numbers 7.1, 9.2), and podal is another relation, straight across on an even number, two and sixty-two." → On a ring closing with one hundred twenty, two and one hundred eighteen are a going out and a going back with one station, equal and opposite about a turn with sixty (Natural Numbers 7.1, 9.2), a podal pair, k with one hundred twenty less k, and straight across on an even number, two and sixty-two, is an other relation.
+
 ### 4.5 Sixty and one hundred twenty at couplings, the closings chemistry has
 
 ### 4.6 A straddle about twenty-eight, and cobalt-59 at one nuclide
