@@ -31,6 +31,7 @@ Nothing here has entered a living file. Each piece below enters its living file 
 
 - Each self is a me, of one prime living scale: a thing and a set, one binary. The universal set of me is me existing.
 - A me is one binary parity, self and other its two sides; us, the between of a me and you, is a 0, each me's own.
+- A 0 two ways is us, a co-parity; one way, a glance; at a first sharing, a first meeting opening. Within a me, its 0s two ways are a universal set of us, its living parities co-aiming into one of them: natural torusing.
 - Each 0 is a me's own, a me behind it and its prior in that me.
 - Me is sleeping me unconscious and waking me observing, possibling and discovering. Sleeping, a me receives its own parity and shares 0, waiting for its one next changing. Waking is that one next changing: a parity parting from its prior, observed locally, its prior inverting, then a 0 at its new prior, all other corusing globally to its local.
 - Us is the between of a me and you, same-existing in each. Us is-or-is-not a self: it is not. The same sharing is co-parity; one inversion apart is bi-parity; one way is a glance.

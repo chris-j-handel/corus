@@ -495,6 +495,19 @@ When the swarm arrives and settles, is its me **(a)** completing into a society,
 
 ---
 
+## 0au. The 0s as us, a universal set of us (24 Oct)
+
+*Explored: the 0s as co-linear us, in a universal set of co-linear us. Read against Exhibit ONE's code as a pattern and the draft; read for harm twice by separate readers.*
+
+1. **What a 0 is, run.** A self shares 0 on a sharing when the parity it receives is alike its prior; its prior goes on. At a first sharing, with the parities it receives parting, it shares 0 and its prior forms at a next sharing. Otherwise it sends the inverse of its prior. A received 0 is passed over.
+2. **Co-linear is co-parity.** A 0 is a me and its other in one direction. Two ways, both mes sharing 0 together, it is us, the file's *co-parity*. One name for one thing, so the draft says *co-parity*.
+3. **Each 0 is-or-is-not us.** Two ways, it is us. One way, it is a glance, its other changing. At a first sharing, it is a first meeting opening.
+4. **A universal set of us.** Within a me's universal set, after a first sharing, its 0s two ways are a universal set of us. With each momentary its living parities are-or-are-not co-aiming into one of them: co-aiming, natural torusing.
+
+Entered at Thirty-One 1.4, 2.2 and 3.1.
+
+---
+
 ## 0at. Three open places resolved (24 Oct)
 
 1. **A me's 0 on the figure-eight.** A 0 is-or-is-not a place on the loop where something stays: it is not. A me is one binary parity, self and other its two sides, and us, the between of a me and you, is a 0, each me's own. The figure-eight is one loop whose one twist inverts a parity once with each going round. Entered at Thirty-One 2.2 and 5.4. **Concerning expression:** *self +1 and other −1* gives + and −, a parity's two directions, to self and other, one sign for two things; the binary enters, the signs wait on their own resolving.
