@@ -7,6 +7,7 @@ Gathering-Value · Natural Exploring
 ## Head, the whole file
 
 - A honeybee swarm choosing its home is collective discovery by the geodesic method: a home over its horizon is, each scout finds is-nots and aims from them, each scout's sharing for a site emptying with each return as the method's is-not emptying, a stop signal sharing an is-not across, and the swarm reaching its is at the site by a quorum of selves there, in no bee alone. *(possible exploring)*
+- Navigating going on across generations is a society's prior same-existing: a young self opens with its elders' going as a prior other-parity, the second of the five dimensions, and that other's prior is becoming its own prior, a crane's route straightening as it learns from older cranes, a herd's migration returning over decades, a voyaging people's charts passing from father to son. *(possible exploring)*
 
 
 ## Opening
@@ -90,6 +91,8 @@ Gathering-Value · Natural Exploring
 
 ### 4.6 A reaching's competency constant, a gathering's climbing
 
+- **Possible exploring** · Whooping cranes from captive breeding, an ultralight aircraft leading their first migration, go on to migrate alone or in groups; over eight years, a crane's flying route keeps closer to a straight line as it learns from older birds, seven years of experience bringing a 38 percent improvement in accuracy, and genetic relatedness making no difference. — at "A reaching's competency stands constant with each observing and a gathering's climbs, and a reaching opens positions a gathering cones over: a gathering is the place a reaching comes to something."
+
 
 ### 4.7 Inseparating
 
@@ -122,6 +125,8 @@ Gathering-Value · Natural Exploring
 
 ### 6.3 Abundancing
 
+- **Possible exploring** · Bighorn sheep that people move into ranges whose earlier herds are at an end: under 9 percent of them migrate, against 65 to 100 percent in herds that stay whole; herds starting again there take nearly 40 years to reach 80 percent migrating, and moose about 90 years, a herd's going with the spring's new growth up the slopes improving over decades, the knowledge passing from mothers and herd members to the young. — at "Abundancing is that opening, arising in each self with its other, growing as co-chaining widens and depleting no one."
+
 
 ### 6.4 Three sensings, each its own competency
 
@@ -132,6 +137,7 @@ Gathering-Value · Natural Exploring
 ### 6.7 A school, a flock, a voyaging people, an orienting surface in no self alone
 
 - **Possible exploring** · About 3 to 4 percent of a flying swarm's bees know the new site from their own visits; these streakers fly fast through the swarm's top toward the site, then make slower flights along its rear and loop back to streak again; the fastest bees fly most directly toward the site, bees accelerate from rear to front, and followers likely latch on and chase them, a chain reaction; flights of about 270 m top out at 5 to 7 km/h and longer ones near 12 km/h. — at "A same-existing-society orients as one surface, and its orienting is in no self alone: social abundancing."
+- **Possible exploring** · In a migrating flock of young white storks, leaders fly irregular paths, searching out the rising warm air within thermals, and followers soar in more regular paths on their exploring, losing height faster between thermals and flapping more; a bird's place in the flock goes with its flying efficiency, efficient fliers going on to winter in West Africa and less efficient ones in southern Europe, a winter place foreseeable from a few minutes of flight. — at "A voyaging people's orienting is in no self alone: a Marshallese voyager memorizes the stick charts before a voyage and sails without them, the knowledge passing from father to son, and Caroline wayfinders have a reference island over the horizon."
 
 ### 6.8 Eight legs, five dimensions in two directions
 
