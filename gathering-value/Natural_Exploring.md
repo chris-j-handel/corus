@@ -27,6 +27,8 @@ Gathering-Value · Natural Exploring
 
 ### 1.4 Two sides, bothbothing
 
+- A root forms its side branches on its side touching a wet surface and is-not forming them on its side in air, a field's hydropatterning, water sensing at a scale below the whole root; and as a root loses its contact with water, it represses its branching, a field's xerobranching, an abscisic acid closing the pores between a root's inner and outer cells to auxin, and with moisture at its tip again that response fades fast. A root's two sides, wet and air, are is-or-is-not at its surface, one at a time, and a root goes on branching toward the side that is. *(possible exploring)*
+
 
 ## 2 Co-unrelationing and co-chaining
 
@@ -41,9 +43,12 @@ Gathering-Value · Natural Exploring
 
 - Caribbean spiny lobsters, a person taking them away from where they live along a winding route with no useful chemical, visual or magnetic cue on the way, some boxes with swinging magnets, orient toward home on a tether in an arena, their eyes under a cover. In a further test, in a cage with the magnetic field of a place some 400 km north of home they walk south-southwest, and with a field of a place 400 km south they walk about north. Biology names it true navigation, the first in an invertebrate, the form of its map still-possibling: a self observing reads a lobster finding the field it stands in is-not home's field and aiming from that is-not to home, with no cue of its route. *(possible exploring)*
 - Cory's shearwaters breeding in the Azores, a person setting them free on open ocean some 800 km from their colony: birds with a magnetic disturbance navigate about as well as birds with none, and birds with no sense of smell lose their orienting and homing dramatically, some wandering long, some coming home by chance or by sight, some not coming home. Over open sea, a sea's air is an orienting surface for a shearwater, a self orienting by the surface that is its own. *(possible exploring)*
+- Human and bull sperm in a channel with a flow swim upstream along its walls on spiral paths, a going its authors say could let them explore an oviduct's whole surface together; a minimal model with no chemical sensing gives it from a flow's shear, a wall's contact and the chirality of a sperm's own beat, upstream going best at a middling shear, too little shear leaving a sperm wandering and too much sweeping it downstream, and after a flow reversing, sperm making U-turns in some 5 to 10 seconds at low viscosity, about five times longer at around 12 mPa·s. A flow, a wall and a sperm's own winding share, each from its own route, and upstream is a heading in none of them alone, a floating neutralling at a cell's scale. *(possible exploring)*
 
 
 ### 2.5 Patterning along and betweening across, a web of co-linears
+
+- A sockeye salmon coming home to the Fraser River goes north or south of Vancouver Island, and over 56 years of catches its route goes with how near the magnetic field at key points comes to the field at the Fraser's mouth as it stands at that salmon's leaving the river as a young fish; near its river a salmon likely finds its own stream by smell, and a 1953 test finds all but 8 of 73 untreated salmon coming back up the branch of their first capture, and 28 of 70 with a plug in their noses going up the other branch. Across an ocean a field is a salmon's orienting surface, along a river a smell is, each the salmon's own prior same-existing now-existing in it; biologists' imprinting and long-term memory are a store story over that, and a salmon's going is its home's parity now, from each is-not, not that field, not that water, to is. *(possible exploring)*
 
 
 ### 2.6 Co-linear, one line both share
