@@ -11,6 +11,7 @@ Gathering-Value · Natural Exploring
 - Ocean wayfinding of the Pacific explores a surface by orientation alone, the canoe a self's own place, stars rising and setting at their points, swells felt in the hull and an unseen reference island sliding back, and it is a natural illustration of exploring from within a surface. *(possible exploring)*
 - A living self is orienting with no map and no measure apart from its own going on: its own winding, its two sides, its body along a flow, its sky, its surface, each changing it is observing a parity of now beside its prior, and each orienting a natural illustration of exploring from within a surface. *(possible exploring)*
 - Orientings from many directions are clustering five ways: a self keeping on while its now is changing for better beside its prior and turning as it is changing back (a bacterium, a sperm, a moth, a zebrafish); a self orienting by its own winding (a sperm's helix, a plant tip's circling, a honeybee summing its image motion); a self orienting by a not-changing beyond it (star points, the Milky Way, swells); selves sharing with each other, entraining or interacting (fireflies at one, six or seven birds, water striders' waves); and a society co-chaining its geodesic with no self holding it whole (ants). *(possible exploring)*
+- Each orienting is a web of co-linears: a self at its own hub, lines going out to points beyond the horizon, along to its prior and next and across to its others' prior and next, each line a between; orienting is orthogonalizing, aiming forward on a surface and surfacing a space where there is none by unrelationing betweens, and a swarm, a school or a voyaging people is the orienting surface, a social abundancing no one self has. *(possible incohering)*
 
 ## Opening
 
@@ -53,6 +54,7 @@ Gathering-Value · Natural Exploring
 ### 2.5 Patterning and membraning
 
 - **Possible exploring** · A Pacific navigator's drawn chart gives each island's bearing from the island before it in one route, the chart turned again to one mark at each island, so its bearings read in sequence along a route and part across routes; read as one fixed grid, its islands stood nowhere a ship sailing by it found them. — at "Patterning is co-chaining along, position to position, a sequence a method rides, each pattern a relating already showing that a method co-chains further."
+- **Possible exploring** · An orb spider at the hub of its web is sensing through the threads with slit organs at its leg joints, movements as small as 0.1 µm; the leg with the greatest tension along its radial thread is giving the direction, and comparing transverse vibrations across legs about 90 degrees apart is giving the distance, the web's lines and the spider's legs one orienting surface. — at "A between is where two relatings couple, a method going from one to another."
 
 ### 2.6 Co-linear, and not forking
 
@@ -149,6 +151,9 @@ Gathering-Value · Natural Exploring
 - **Possible incohering** · "Its naming is membrane-size, one short line with a sign and nothing else, of no size and nothing sitting there to read." → Its naming is one short line shared across, a sign and of no size, a parity its other receives.
 
 ### 6.3 Abundancing
+
+- **Possible exploring** · A lone golden shiner fish under moving light and shadow is moving almost at random, each fish slowing only with the darkness at its own place and keeping close to its neighbours; a larger school of them is reliably turning toward shade, slowing and gathering in it and speeding up to leave as light moves onto them, and this orienting is collapsing when a school is smaller than some size, an orienting no fish of the school has. — at "Discovering opens an axis neither self has, and an opening axis is abundancing, a +1 in no self alone."
+- **Possible exploring** · Larger flocks of pigeons are flying significantly shorter routes than smaller flocks, and a flock's route is not simply the average of its birds' routes: each pigeon is leaning the route in proportion to how faithfully it is reproducing its own route when flying alone. — at "Abundancing is that opening, arising in each self with its other, growing as co-chaining widens and depleting no one."
 
 ### 6.4 The three sensings, and what each competency is
 

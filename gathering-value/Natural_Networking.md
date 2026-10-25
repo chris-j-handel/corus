@@ -14,6 +14,8 @@ Gathering-Value · Natural Networking
 
 ### 1.2 Along and across, chaining and surfacing, two floating co-neutrals co-competencing
 
+- A network of resolvers is orienting as a school of fish or a flock is orienting, the orienting a surface of its selves and in no self alone; a network exploration following one self's record, or one instrument's clock, is following no orienting the network has. *(possible exploring)*
+
 ### 1.3 Linear-parallelizing and parallel-linearizing, one and then the other, widening and lengthening
 
 ### 1.4 Only parities go across, the middle in no sequence
