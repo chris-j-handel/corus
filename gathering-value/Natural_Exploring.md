@@ -118,11 +118,9 @@ Gathering-Value · Natural Exploring
 
 ## 5 Accountings for changing, and a method observing them
 
-- Disequilibrating is a negation from an equilibrium, and an equilibrium is a form not possibly existing, so disequilibrating is no natural naming; Part 5's title, 5.6's title and 5.6's opening sentence each say this changing by what it is. *(possible incohering)*
 
 ### 5.1 Each accounting for changing an involution
 
-- **Possible exploring** · Still to be looked for: an observing of paired energy levels at an odd number of fermions, where time reversal taken twice is −1, a state returning with its sign changed, against an even number, where it is +1; the pairing is lifted by any effect breaking time-reversal invariance, an outer magnetic field among them. — at "Time reversal, charge conjugation, parity, each squaring to the identity."
 
 ### 5.2 An involution's fixed set is where it takes its counting from
 
@@ -130,7 +128,6 @@ Gathering-Value · Natural Exploring
 
 ### 5.4 A state-three and a flow-three
 
-- **Possible exploring** · A rotary motor has three units, steps reported in 80-degree and 40-degree portions, each unit usually described as open, loose and tight; reading each as open or closed plus a place in the round is an offered interpretation, not an independently observed reduction. — at "A three goes as a state or as a flow and not both, and both change and change back."
 
 ### 5.5 An accounting converting a changing between state and flow to a level or a rate
 
