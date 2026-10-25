@@ -46,12 +46,12 @@
   },
   {
    "from": "### Date seeds germinating after two thousand years",
-   "finding": "unchanged; given beside its sibling sharing this from",
+   "finding": "measure dropped: the seeds from Masada, one of the six among them, stand unweighed and unmeasured, so the weight and length comparison is of the rest",
    "fixed": {
     "section": "4.1 Living and non-living — a virus and a prion",
     "kind": "exploring",
     "sentence": "A virus is a bounding packet of code — nucleic acid within a coat — inert apart from a host, as a spore or a seed is inert.",
-    "text": "Thirty-two date seeds from archaeological sites in the Judean desert are soaked in water, then in gibberellic acid, a rooting solution and a fertiliser, and potted. Six germinate. Radiocarbon dates the shell fragments at the six rootlets from the fourth century BCE to the second century CE. Before planting, visual inspection finds a mark parting the six from the others at an empty set. Among the seeds weighed and measured, weight and length part the germinated from the ungerminated short of statistical significance.",
+    "text": "Thirty-two well-preserved date seeds from archaeological sites in the Judean desert are soaked in water, then in gibberellic acid, a rooting solution and a fertiliser, and potted. Six germinate. Radiocarbon dates the shell fragments clinging to the six rootlets from the fourth century BCE to the second century CE. Before planting, visual inspection finds a mark parting the six from the others at an empty set. The seeds, those from Masada excepted, one of the six among them, are weighed and measured before planting, and weight and length part the germinated from the ungerminated short of statistical significance.",
     "from": "### Date seeds germinating after two thousand years"
    }
   },
@@ -107,7 +107,7 @@
     "section": "4.1 Living and non-living — a virus and a prion",
     "kind": "exploring",
     "sentence": "inert apart from a host, as a spore or a seed is inert",
-    "text": "Arabidopsis seeds, of the wild kind and of two kinds lacking an autophagy gene, stored dry in a desiccator at room temperature in the dark and sown after three days of cold: among 30-month seeds both germinate 100%, and among 66-month seeds the mutants germinate under 20% and the wild over 60% at 5 days after sowing. With the seed coat taken off 80-month seeds of one mutant kind, the embryos grow. In the endosperm of old seeds of that kind over 80% of cells are dead, in the wild kind under 10%, and at 6 months almost none in either. The blot ratio of freed marker to marked protein runs 1.00, 2.30 and 2.77 at 5, 48 and 60 months, higher in the seed coat and endosperm of older lots, the embryo showing no clear difference. Germination counts a seedling with green cotyledons; each age's lot is other seeds, none followed through its storing; the seeds are named dry, and dormant nowhere.",
+    "text": "Arabidopsis seeds, of the wild kind and of two kinds lacking an autophagy gene, stored dry in a desiccator at room temperature in the dark and sown after three days of cold: among 30-month seeds both germinate 100%, and among 66-month seeds the mutants germinate under 20% and the wild over 60% at 5 days after sowing. With the seed coat taken off 80-month seeds of one mutant kind, the embryos grow. In the endosperm of old seeds of that kind over 80% of cells are dead, in the wild kind under 10%, and at 6 months almost none in either. The blot ratio of freed marker to marked protein runs 1.00, 2.30 and 2.77 at 5, 48 and 60 months, higher in the seed coat and endosperm of older lots, the embryo showing a clear difference at none. Germination counts a seedling with green cotyledons; each age's lot is other seeds, none followed through its storing; the seeds are named dry, and dormant nowhere.",
     "from": "### Old dry seeds, with autophagy and with none"
    }
   },
@@ -311,6 +311,37 @@
    }
   },
   {
+   "from": "### A mammoth's sequence read in pieces, a made genome, and a made cell",
+   "finding": "copy: one mammoth observing aimed at two files' sentences (and the section's third aim, the Co-Chaining Logic Registry, carries the made genome and cell); several items saying one value are one item, kept at Natural Medicine's *nothing is stored*, its nearest sentence",
+   "fixed": {
+    "from": "### A mammoth's sequence read in pieces, a made genome, and a made cell",
+    "why": "copy of the mammoth observing at Natural Medicine 3.1"
+   }
+  },
+  {
+   "from": "### A mammoth's sequence read in pieces, a made genome, and a made cell",
+   "finding": "unchanged; given beside its sibling sharing this from",
+   "fixed": {
+    "file": "Natural Medicine",
+    "section": "3.1 Two adjacent same-existing-societies at a gut collar",
+    "kind": "exploring",
+    "sentence": "Nothing is holding over and nothing is stored, and nothing within nature stores",
+    "text": "From three mammoth specimens, two of them dated at more than a million years, DNA is read in short pieces. The pieces map against the genome of the African savannah elephant and against a mitochondrial genome.",
+    "from": "### A mammoth's sequence read in pieces, a made genome, and a made cell"
+   }
+  },
+  {
+   "from": "### Two heart-cell aggregates coming to one beat",
+   "finding": "measures dropped: the chick ventricle cells and the controlled size, contact area and potassium",
+   "fixed": {
+    "section": "4.5 Circadian clock — changing and changing back, making a beat",
+    "kind": "exploring",
+    "sentence": "two beats with close paces join across",
+    "text": "Spheroidal aggregates of embryonic chick ventricle cells, beating at their own spontaneous rates, brought into contact, come to synchrony; with aggregate size, contact area and extracellular potassium controlled, the latency between their entrained action potentials runs linearly with the coupling resistance between the two aggregates, 3.7 milliseconds for each megohm at 4.8 millimolar potassium and 10.1 at 1.3 millimolar.",
+    "from": "### Two heart-cell aggregates coming to one beat"
+   }
+  },
+  {
    "from": "### Learning after a head's regrowing",
    "finding": "measures dropped: the ten days of familiarizing, the smooth-dish group, the lit place and the automated measuring",
    "fixed": {
@@ -383,7 +414,7 @@
     "section": "4.5 Circadian clock — changing and changing back, making a beat",
     "kind": "exploring",
     "sentence": "Animals, seeds and yeasts, drying, freezing or with no air, return to living after decades and by some reports centuries, a permafrost nematode after some 46,000 years by its burrow's plant material (Shatilovich and colleagues, PLOS Genetics 2023), and a bacterial spore after more than 10,000 years, its activating, by heat for one, apart from its beginning; a metabolism below detecting is no going-on a measure finds absent.",
-    "text": "In never-thawed late Pleistocene permafrost on the Kolyma River, a burrow taken about 40 metres below the surface gives several viable nematodes, in two of more than 300 samples; the burrow's plant material dates by radiocarbon to 44,315 ± 405 years before present, calibrated 45,839 to 47,769 years (95.4% probability). The revived animal is cultivated over 100 generations, its kind bearing young with no mate, and no measuring of metabolism in these animals, frozen or thawed, is reported.",
+    "text": "In late Pleistocene permafrost on the Kolyma River, thawed at no time since, a burrow taken about 40 metres below the surface gives several viable nematodes, in two of more than 300 samples; the burrow's plant material dates by radiocarbon to 44,315 ± 405 years before present, calibrated 45,839 to 47,769 years (95.4% probability). The revived animal is cultivated over 100 generations, its kind bearing young with no mate; a measuring of metabolism in these animals, frozen or thawed, stands reported at none.",
     "from": "### Nematodes from ground frozen since the late Pleistocene"
    }
   },

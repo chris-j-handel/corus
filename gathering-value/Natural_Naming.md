@@ -143,6 +143,8 @@ Gathering-Value · Natural Naming
 
 ### 4.15 Bothbothing at its prefixing, and an ordering with nothing ordering
 
+- **Possible exploring** · With two calcium-40 ions in a linear trap, the square's nine two-ion observables are measured in sequence along its three rows and its three columns. The sum of the three row products and two column products, less the last column product, is 5.46(4) at one state and from 5.23(5) to 5.46(4) across ten states, beside 4 at most for values each given apart from the others measured with it. — at "**A Peres–Mermin square is bothbothing with a field**: its nine values, a field's ±1, have even parity along and odd parity across, and a store of all nine reaches none of 512."
+
 ### 4.16 All or none at all, and an entering and leaving it has
 
 ### 4.17 A hyphenated naming inseparable, and natural- at chirality

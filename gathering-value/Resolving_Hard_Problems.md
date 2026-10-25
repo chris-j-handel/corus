@@ -77,3 +77,5 @@ Gathering-Value · Resolving Hard Problems
 ### 6.3 Social moral competency, resolving at each coupling
 
 ## Droplets
+
+- Cryptography is-or-is-not met by the method at an accounting of selves on a public surface, each self's living same-existing beside a non-living record, a cryptographic function being non-living and a hard problem reading it as a coin.
