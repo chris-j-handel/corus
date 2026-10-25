@@ -73,3 +73,5 @@ Gathering-Value · Geodesic Improving Method
 ### 5.3 Scale, orientation and position, each from all other
 
 ## Droplets
+
+- Value is in the largest learnings, the most concerning observings and the do-no-harming improvings, and a report or a talk of branches and links is beside it.

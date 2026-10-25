@@ -13,18 +13,14 @@ DRY = '--dry' in sys.argv
 title, gathered, readings = args[0], args[1], args[2:]
 G = json.load(open(gathered))
 items, leaving = G['items'], G.get('leaving', [])
-for r in readings:
-    for c in json.load(open(r)).get('corrections', []):
-        f = c.get('fixed')
-        if f is None:
-            continue
-        items = [i for i in items if i.get('from') != c['from']]
-        leaving = [l for l in leaving if l.get('from') != c['from']]
-        if 'kind' in f:
-            f.setdefault('from', c['from'])
-            items.append(f)
-        else:
-            leaving.append(f | {'from': c['from']})
+corrections = [c for r in readings for c in json.load(open(r)).get('corrections', []) if c.get('fixed') is not None]
+for f in {c['from'] for c in corrections}:          # an entry with corrections is replaced by all of them together
+    items = [i for i in items if i.get('from') != f]
+    leaving = [l for l in leaving if l.get('from') != f]
+for c in corrections:
+    f = dict(c['fixed'])
+    f.setdefault('from', c['from'])
+    (items if 'kind' in f else leaving).append(f)
 
 norm = lambda s: re.sub(r'\s+', ' ', re.sub(r'[*`_\\]', '', s)).strip()
 fname = lambda t: re.sub(r'\s+', '_', t.strip()) + '.md'

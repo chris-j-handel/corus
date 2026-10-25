@@ -89,3 +89,5 @@ Gathering-Value · Natural Explaining
 ### 4.10 Care inward, and no wrapper
 
 ## Droplets
+
+- A field's phrase brings its picture, as *an atom joins a molecule*, so an observing is said first and its explaining named after.
