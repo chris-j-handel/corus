@@ -61,3 +61,5 @@ Gathering-Value · Me
 ### For our word: the fields' strongest collisions
 
 ## Droplets
+
+- A me is of one prime living scale.

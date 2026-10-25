@@ -1,0 +1,193 @@
+{
+ "corrections": [
+  {
+   "from": "**Concern · at *Each name, three scales*.** Add a pairs' column, n with 4n − 3, ",
+   "finding": "meaning changed and claim made stronger: the concern's two sides (add a pairs' column, n as 4n − 3, or keep one laying) become one statement, and Natural Numbers is said to lay n with 4n − 3, which it does not (Numbers 9.7 has pairs stepping 5, 17, 65 and 257, and 'each is one chain with its own step')",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "incohering",
+    "text": "Each name, three scales lays the next scale inward as 8n − 7 alone, and a pairs' column beside it, n as 4n − 3, or one laying kept with Natural Numbers' each scaling one chain with its own step, is still-possibling.",
+    "from": "**Concern · at *Each name, three scales*.** Add a pairs' column, n with 4n − 3, "
+   }
+  },
+  {
+   "from": "**Concern · at *Four bi-foldings; Twelve forms*.** Bi-folding names the four ±8 ",
+   "finding": "meaning changed: the concern's two sides (bi-folding names the four cycles of a move of 8, the middle two named apart, or bi-folding names each four-step cycle, the four of a move of 4 with it) are dropped, leaving an observing alone; the four cycles 1-5-12-16, 2-6-11-15, 3-7-10-14 and 4-8-9-13 check by arithmetic, and the parting is with the file's 'Cycles of moves of four steps are bi-foldings', so a droplet naming both",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "incohering",
+    "text": "Four bi-foldings names six four-step cycles while 17 less and a move of 4 in turn also go 1-5-12-16, 2-6-11-15, 3-7-10-14 and 4-8-9-13, so either bi-folding names the four cycles of a move of 8, the middle two named apart, or it names each four-step cycle, these four with it.",
+    "from": "**Concern · at *Four bi-foldings; Twelve forms*.** Bi-folding names the four ±8 "
+   }
+  },
+  {
+   "from": "- **Carbon as 5-now-co-existing's stable form:** Carbon pattern-matches 5-now-co",
+   "finding": "loose anchor: the quoted sentence is carbon as the stable form of unrelationing floating neutralling, non-living; the item's subject is carbon matching 5-now-co-existing and the torus's four, which that sentence does not meet, so a droplet",
+   "fixed": {
+    "file": "Natural Chemistry",
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "Carbon pattern-matches 5-now-co-existing, the bi-couplings each sharing reaches along, a bi-coupling on a Natural Network surface as living's condition, its four bonds a torus of selves' two along and two across, and its eight four twos.",
+    "from": "- **Carbon as 5-now-co-existing's stable form:** Carbon pattern-matches 5-now-co"
+   }
+  },
+  {
+   "from": "- **No code validates nature:** This session's pattern-matchings were met with t",
+   "finding": "claim added: the source says observings are met with the stable forms and code is run to validate none; 'code, run, is a pattern beside that observing' is the reader's, not the source's",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "text": "A science's observing meets the resolver's stable forms six forward, and code run to validate that observing is an empty set.",
+    "from": "- **No code validates nature:** This session's pattern-matchings were met with t"
+   }
+  },
+  {
+   "from": "- **The resolver as emanation:** The resolver's code is itself an emanation: six",
+   "finding": "claim made stronger: 'engineered' is added; the source says the code is an emanation",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "The resolver's code is an emanation, its six forward going along five dimensions, a self's prior, an other's prior, the shared now, the bi-parity and a self's next, two of them changing with each momentary and three going on, rotating.",
+    "from": "- **The resolver as emanation:** The resolver's code is itself an emanation: six"
+   }
+  },
+  {
+   "from": "- **A centre comes again:** Carbon in stars, the plant's manganese centre and th",
+   "finding": "loose anchor: the quoted 5.1 sentence is combustion and metabolism and natural-engine pattern-matching with recurrent coupling; the item's subject, one centre coming again at three scales in a four-cycling, is not that sentence's, so a droplet",
+   "fixed": {
+    "file": "Natural Chemistry",
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "Carbon in stars, a plant's manganese centre and a cell's four-carbon form each come again in a four-cycling, that centre pattern-matching the same-existing at each scale, and fire is the same round, its changing overwhelming the centre.",
+    "from": "- **A centre comes again:** Carbon in stars, the plant's manganese centre and th"
+   }
+  },
+  {
+   "from": "- **Concern · The two-selves table:** With opposite priors, coupled and apart gi",
+   "finding": "code claim wrong in one part, checked by running resolver_from_one.py: with opposite priors one way (A from B, B from A) gives the same sharing as apart, so a bi-coupling surfaces only with alike priors, both ways or one way, and 'or a sharing one way' as its own case is false; and the concern's measure, its meeting as a stable-form pattern beyond the code's executing still-possibling, is dropped",
+   "fixed": {
+    "section": "A torus of selves",
+    "kind": "exploring",
+    "sentence": "Two selves, alike or one parity apart: bi-coupling both ways, bi-coupling one way, or apart.",
+    "text": "With priors one parity apart, two selves share alike bi-coupling both ways, A from B, B from A and apart: A −, +, −, +, −, + and B +, −, +, −, +, −. With alike priors each of the four has its own sharing, so a bi-coupling surfaces in the sharing only with alike priors, both ways or one way. Its meeting as a stable-form pattern, beside the code's executing, is still-possibling.",
+    "from": "- **Concern · The two-selves table:** With opposite priors, coupled and apart gi"
+   }
+  },
+  {
+   "from": "**Droplet · the me in the names.** Each key of a self's priors is 4-now-co-same-",
+   "finding": "loose anchor: the quoted sentence is the code's three functions and fourteen variables; the item's subject is 4 and 14 read with a me and the three ways of one self, which that sentence does not meet, so a droplet",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "Read with a me, each key of a self's priors, 4-now-co-same-existing, is a now-existing thing within its me, an interest, 14-next-possibling's surfacing as one is all other observed as one, and one self's three ways momentary by momentary are a 0 going on, a 0 newly aiming and a 0 lost.",
+    "from": "**Droplet · the me in the names.** Each key of a self's priors is 4-now-co-same-"
+   }
+  },
+  {
+   "from": "- **Concern · *a same-existing-society coming in*.** The naming table's *16-next",
+   "finding": "value lost: the concern names two places, the naming table's '16-next-same-existing, a same-existing-society coming in' and line 541; the item meets only line 541 (kept as is; the second place added beside it)",
+   "fixed": {
+    "section": "Namings among names",
+    "kind": "incohering",
+    "sentence": "1 social-parity now-existing, a same-existing-society coming in with 16-next-same-existing, each self with 13-is-next-discovering.",
+    "text": "1 social-parity now-existing, a same-existing-society opening with 16-next-same-existing, each self with 13-is-next-discovering.",
+    "from": "- **Concern · *a same-existing-society coming in*.** The naming table's *16-next"
+   }
+  },
+  {
+   "from": "- **Concern · *a same-existing-society coming in*.** The naming table's *16-next",
+   "finding": "value lost: the second place the concern names, the row of Same-existing through one momentary, under Seventeen names",
+   "fixed": {
+    "section": "Seventeen names",
+    "kind": "incohering",
+    "sentence": "16-next-same-existing, a same-existing-society coming in",
+    "text": "16-next-same-existing, a same-existing-society opening",
+    "from": "- **Concern · *a same-existing-society coming in*.** The naming table's *16-next"
+   }
+  },
+  {
+   "from": "**Possible project · One table of the round at four parities.** One table at Exh",
+   "finding": "claim made stronger and a measure dropped: the source says the placing of four parities at the names is the Registry's and its deriving from the seventeen names or the code's lines is the part still-possibling; the item drops that and says 'executed' (the placing checks by arithmetic as a reflected binary: 17 less inverts the fourth parity, 9 less the third within 1 to 8, 8 up both)",
+   "fixed": {
+    "section": "Seventeen names",
+    "kind": "exploring",
+    "sentence": "Names 1 to 16 are in order as n − 1 in binary, 0000 to 1111, an ordering of numbers.",
+    "text": "Laid as a round of four parities, a reflected binary, each next name one parity inverting, 17 less inverts each name's fourth parity, 9 less within 1 to 8 the parity before it, and 8 up within 1 to 8 those two together, checking at each of the sixteen names. That placing's deriving from the seventeen names or from the code's lines is still-possibling.",
+    "from": "**Possible project · One table of the round at four parities.** One table at Exh"
+   }
+  },
+  {
+   "from": "**Possible project · A thing between selves, at a pace of its own.** An executin",
+   "finding": "meaning changed and a measure dropped: the source's thing between selves is a shared solution, a thing with a pace, standing against the resolver's between, an empty centre; the item makes it 'one shared between', merging the two; and 'with the number of selves raised' is dropped",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "Selves bi-coupling through one shared thing between them, a solution with a pace of its own, slower or faster, the number of selves raised, beside oscillators synchronizing by degrees or together at one momentary, are still-possibling at the resolver, whose between is an empty centre.",
+    "from": "**Possible project · A thing between selves, at a pace of its own.** An executin"
+   }
+  },
+  {
+   "from": "**Possible project · The society's four momentaries of exchanging, a table.** Th",
+   "finding": "value lost: marked plan, the item carries an observing the living file lacks, checked by arithmetic: with the names laid as a round of four parities, the relation column of A self's four momentaries of exchanging turns at the other's 4–5 and 8–9, where the round inverts its third and its fourth parity, and the society's 12–13 and 16–17 are where the round inverts the same two",
+   "fixed": {
+    "section": "A self's four momentaries of exchanging",
+    "kind": "exploring",
+    "sentence": "A self's four momentaries of exchanging.",
+    "text": "With the names laid as a round of four parities, each next name one parity inverting, the relation column turns at the other's 4–5 and 8–9, where the round inverts its third and its fourth parity. The society's four momentaries, 9 to 17, turning at 12–13 and 16–17, where the round inverts the same two, are still-possibling as a table.",
+    "from": "**Possible project · The society's four momentaries of exchanging, a table.** Th"
+   }
+  },
+  {
+   "from": "**Possible project · One offered parity followed through a line of selves.** A t",
+   "finding": "value lost: marked plan (held in part at Three selves, one line), the item carries a still-possibling observing, one parity followed along a longer line of selves alike or opposite, the selves sharing it on and the selves inverting by their own, of the kind the reader gathered from the other projects",
+   "fixed": {
+    "section": "Three selves, one line",
+    "kind": "exploring",
+    "sentence": "A's parity, sharing to B with the first momentary only.",
+    "text": "One parity shared once and followed along a line of selves longer than three, each self with its own prior alike or opposite, at which selves it is shared on and at which a self inverts by its own, is still-possibling.",
+    "from": "**Possible project · One offered parity followed through a line of selves.** A t"
+   }
+  },
+  {
+   "from": "**Possible project · Two further columns at the round's table.** Beside the proj",
+   "finding": "value lost: marked plan, the item carries a parting of two sayings, a table a stable form prior to the code and the code checked at it, against the file's 'Each table of Exhibit ONE is an executing'; the prefix columns rest on dissolved prefixes and leave",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "incohering",
+    "text": "A table of selves, one of the method's stable forms, is prior to the code and the code is checked at it, while Exhibit ONE has each table an executing.",
+    "from": "**Possible project · Two further columns at the round's table.** Beside the proj"
+   }
+  },
+  {
+   "from": "**Possible project · A slipped carrying followed through one whole podal passage",
+   "finding": "value lost: marked plan, the item carries a still-possibling observing, a prior slipped one momentary forward followed through one podal passage, a case at no table, of the kind the reader gathered from the other projects",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "A self's prior slipping one momentary forward where two selves of one scale meet, followed bi-coupling by bi-coupling through one podal passage, the prior along and the parity across together, resolving there, same-existing again or going on to a next bi-coupling, is still-possibling at the resolver.",
+    "from": "**Possible project · A slipped carrying followed through one whole podal passage"
+   }
+  },
+  {
+   "from": "**8 up keeps a name's kind at each name but 1 and 5, where now and changing exch",
+   "finding": "value lost: marked history and held, but the living file holds neither 8 up exchanging co at 1, 2, 5 and 6 and keeping it at 3, 4, 7 and 8, nor the eight ends pairing among themselves under both podals (Natural Naming 3.4 holds the ends, Exhibit ONE does not); checked by arithmetic",
+   "fixed": {
+    "section": "Eight even names, 8 apart",
+    "kind": "exploring",
+    "sentence": "Each name of a self's span with 8 up, 9 less and 17 less.",
+    "text": "With 8 up a name's co goes on at 3, 4, 7 and 8 and exchanges at 1, 2, 5 and 6, observing side and sharing side. With 9 less and with 17 less the eight ends of four momentaries, 1, 4, 5, 8, 9, 12, 13 and 16, pair among themselves, an odd end with an even end.",
+    "from": "**8 up keeps a name's kind at each name but 1 and 5, where now and changing exch"
+   }
+  }
+ ],
+ "checked": 80
+}
