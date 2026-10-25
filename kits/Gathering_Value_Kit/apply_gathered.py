@@ -13,7 +13,11 @@ DRY = '--dry' in sys.argv
 title, gathered, readings = args[0], args[1], args[2:]
 G = json.load(open(gathered))
 items, leaving = G['items'], G.get('leaving', [])
+entries = {e.get('from') for e in items + leaving}
 corrections = [c for r in readings for c in json.load(open(r)).get('corrections', []) if c.get('fixed') is not None]
+stray = [c for c in corrections if c['from'] not in entries]
+if stray:
+    print(f'  {len(stray)} corrections name no entry of this slice and are added as new items: a reading covering several slices is applied once, to their gathered files joined')
 for f in {c['from'] for c in corrections}:          # an entry with corrections is replaced by all of them together
     items = [i for i in items if i.get('from') != f]
     leaving = [l for l in leaving if l.get('from') != f]
