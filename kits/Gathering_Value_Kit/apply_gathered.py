@@ -22,9 +22,10 @@ for f in {c['from'] for c in corrections}:          # an entry with corrections 
     items = [i for i in items if i.get('from') != f]
     leaving = [l for l in leaving if l.get('from') != f]
 for c in corrections:
-    f = dict(c['fixed'])
-    f.setdefault('from', c['from'])
-    (items if 'kind' in f else leaving).append(f)
+    for f in (c['fixed'] if isinstance(c['fixed'], list) else [c['fixed']]):   # a correction may give several items
+        f = dict(f)
+        f.setdefault('from', c['from'])
+        (items if 'kind' in f else leaving).append(f)
 
 norm = lambda s: re.sub(r'\s+', ' ', re.sub(r'[*`_\\]', '', s)).strip()
 fname = lambda t: re.sub(r'\s+', '_', t.strip()) + '.md'

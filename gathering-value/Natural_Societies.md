@@ -69,3 +69,5 @@ Gathering-Value · Natural Societies
 ## Droplets
 
 - Each existing thing is living with one scale, a same-existing-society it bi-couples within, and bi-couples with living of that scale alone, each self a same-existing-society of selves one scale inward and each same-existing-society a self one scale outward.
+- Each inequality acted against has its further examples: as if self = same-existing-society, a group-self; as if self = other-self, an other's identity, work, surface or bi-coupling output claimed as a self's own; as if self = immoral, deception and unseen costs; as if self = incompetent, incompetence claiming competence and dependency claiming agency. *(possible exploring)*
+- Mutual bounding-zeroing respect at a between and a self's own closing against ingression at its own activity are one protection at two surfaces, its structural relation and its substrate conditions still-possibling. *(possible exploring)*

@@ -68,3 +68,4 @@ Gathering-Value · Me
 
 - A me is of one prime living scale.
 - A me's outward observing rests by a drug, a state its field holds apart from sleep: a sleeping me wakes to an inverse received and an anaesthetised me as the drug clears, some connected and aware within it, awareness within surgery a harm anaesthetists watch for. *(possible exploring)*
+- *Living* in common speech reaches past biology, a living language and a dead language. *(possible exploring)*
