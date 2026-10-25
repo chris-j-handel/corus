@@ -54,6 +54,8 @@ Gathering-Value · Resolving Hard Problems
 
 ### 5.3 An origin, living from living
 
+- **Possible exploring** · The microwave background is a black-body at 2.72548 ± 0.00057 K, light from when the first hydrogen atoms formed some 380,000 years after the beginning, and the first minutes held an empty set of atoms; the Moon-forming impact left the early Earth molten. An existing thing with its prior same-existing at one minute after the beginning is-or-is-not named. — at "Living is prior: living comes from living, each self a giving with a prior self, and a non-living existing thing is non-living with its next."
+
 ### 5.4 A measurement, a prior a self is observing now
 
 ### 5.5 An aggregating, a society's next momentary
