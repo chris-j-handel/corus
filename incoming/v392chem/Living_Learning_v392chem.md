@@ -800,3 +800,21 @@ Each is an observing that parts from a pattern-matching now in the living files,
 - *Pattern-matching:* **some of the solar system's bodies are stable forms:** what a self goes on as once its living completes. Asteroids and comets give dust of molecules both-handed (§16, Bennu), the mark of non-living forming (§5).
 - **Concern · the Moon.** The Moon's rock is nearly the Earth's own, by every measure of its forms (2001 onward), so it would be an emanation of the Earth. Its fires ended long ago and its own field is gone. Yet deep moonquakes still come, in step with the Moon's round with the Earth (Apollo, 1969–1977). Is the Moon the Earth's stable-form emanation, its changing only from what comes to it, or a self co-sequencing with the Earth?
 - **Concern · Venus and Uranus** (§17). As selves, Venus's slow backward spin and Uranus's roll are their own surfaces' aiming within a society whose goings are all of one hand. That sits beside the left-coiling snail concern (§5).
+
+## 27. The Moon born of the Earth's natural torusing, a young Earth-like self
+
+- *Pattern-matching:* **the Moon was born of the natural torusing Earth, not broken from it; it is a young self of an Earth-like species, a future mature Earth-like self with an atmosphere.**
+- **Observings that meet it** (from memory, checked against sources before any enters a living file):
+  - **The Moon is of the Earth's own forms.** Its rock matches the Earth's by every fine measure of its forms, oxygen (2001), titanium (2012) and others. The field's leading story, a struck-off chunk mostly of the striker, predicted a Moon unlike the Earth, and the match is a long-standing trouble for it.
+  - **A field's own newer model is a torus.** One account has the young Earth spun out into a great doughnut of hot rock, from which the Moon formed (2017–2018): the field's words for a birth from the Earth's torusing. The oldest account (1879) also had the Moon born of a fast-turning Earth.
+  - **The Moon is younger than the Earth,** its oldest grains a little later than the Earth's.
+  - **The Moon aims one face at the Earth,** always the same face, as a plant aims at the Sun (§18), and its two faces formed differently: the Earth-facing side with its dark plains, the far side higher and thicker.
+  - **The Moon goes outward from the Earth each year,** by about four centimetres, measured by light sent to mirrors left on it since 1969.
+  - **The Moon has a thin air,** of helium, argon, neon, sodium and potassium (Apollo 17, 1972; 2013–2014). Its argon comes up from the Moon's own superfast resolving (§19) and seeps out in pulses. Water is in its glassy rock (2008) and as ice at its poles.
+  - **The Moon had its own field** strong long ago, lasting until perhaps one or two thousand million years ago, read from its rocks.
+  - **A moon can have a thick air.** Saturn's Titan has an air thicker than the Earth's, with rain, rivers and lakes of methane (2005). Jupiter's Ganymede has its own field (1996); Europa and Enceladus have oceans, and Enceladus sends up plumes (2005). Moons are a kind with many stages.
+- *Pattern-matching:* **the Moon's stillness is dormancy, not death.** Its changing is paced by the Earth, its deep moonquakes coming in step with its round (§26), as a dormant seed relies on its environs' parity changing entirely (§8).
+- **Concerns:**
+  - **Mars runs the other way.** Mars had thick air and water long ago, lost its field about four thousand million years ago, and its air is being stripped by the Sun's wind (2015). If Mars is dying, losing its surface's torusing (§14), and the Moon is a seed, the species has birth, maturing and dying; the observing must show the Moon's air growing, not only seeping.
+  - **The Moon is poorer than the Earth in easily-lost forms** (water, potassium). A self that will mature with an air would gather them, from its own resolving and from what comes to it; that needs meeting.
+  - **The Moon going outward:** a young self leaving its parent's nearness, or a co-sequencing changing its pace; both are readings of one observed change.
