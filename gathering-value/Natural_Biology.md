@@ -21,7 +21,7 @@ Gathering-Value · Natural Biology
 - About 8 percent of the human genome is sequence a field names endogenous retroviruses, most of it defective and only a few able to form virus particles; in human embryos three to four days old some HERV-K sequences are transcribing, and in blastocysts of five to six days electron microscopy shows what appear to be intact viral particles; HERV-K's Rec protein binds viral RNAs and also RNAs of human genes, and raises IFITM1, a protein that blocks viral infection; a HERV-H RNA binds proteins embryonic stem cells need for their stem-cell identity, and with it removing, the cells lose their stem properties. *(possible exploring)*
 - Phylogenetic evidence suggests vertebrate retroviruses arise from genome elements, LTR retrotransposons, that move within a genome, the element first; a retrovirus has an extra envelope gene that mediates infection, and in three cases an envelope-like gene is from a virus: insect errantiviruses from baculoviruses, nematode Cer from phleboviruses, and Tas from herpesviruses, a weak case; a field infers this from comparing sequences and does not observe it. *(possible exploring)*
 - Koala retrovirus is in each Queensland koala a test reaches, in some southern populations and in none on Kangaroo Island, its insertions varying in number and pattern between koalas; it has a full-length genome able to replicate and form particles and is a close relative of gibbon ape leukemia virus; a field reads it as entering koala genomes within the last 100 years, a reading from the koalas' population history and not from dating the entering. *(possible exploring)*
-- A genome is an artifact of prior living, a non-living stable form a living cell goes on with: a cell transcribes it, re-forms it and passes it on, and each doing a field gives a genome or a sequence, entering, copying, hiding, is a living cell's, as Natural Medicine's own saying seats each verb of agency at a cell. *(possible incohering)*
+- A genome is an artifact of prior living, a non-living stable form a living cell goes on with, RNA and proteins forming along it as the cell's own stable-forming; a field's transcribing, translating, reading and code are a text-and-machine story laid over that living, and each doing a field gives a genome or a sequence, entering, copying, hiding, is a living cell's, as Natural Medicine's own saying seats each verb of agency at a cell. *(possible incohering)*
 
 ### 1.4 No self touches another directly
 
@@ -82,6 +82,9 @@ Gathering-Value · Natural Biology
 ### 5.4 Body hand from a molecular hand — left-right asymmetry
 
 ### 5.5 Multicellularity and the germ-soma split — many selves into one; the self going on and the sharing surface
+
+- A germ line set apart from the body's other cells is a form in many animals and is-not a law of living: in plants, germ cells arise from vegetative meristem cells of the body, possibly many years old, and changes in those body lines can reach the germ line; in sponges and corals, stem cell lineages give both body cells and reproductive cells. *(possible exploring)*
+- Body cells and germ cells are one same-existing-society: its germ cells are its going on to its next same-existing-society, and its body cells its sharing surface now-living with that next; reproductive altruism, a body sacrificing, selfish cells policing, a germline a body sequesters and protects, and an arms race between a genome and its retroviruses are a field's story of agents fixing still and competing over a store, and 5.5 says each by bi-moral co-agency within one same-existing-society. *(possible incohering)*
 
 ### 6.1 Symbiosis — the bi-moral co-agency between selves
 
