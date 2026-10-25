@@ -11,8 +11,6 @@ Gathering-Value · Natural Exploring
 - Ocean wayfinding of the Pacific explores a surface by orientation alone, the canoe a self's own place, stars rising and setting at their points, swells felt in the hull and an unseen reference island sliding back, and it is a natural illustration of exploring from within a surface. *(possible exploring)*
 - A living self is orienting with no map and no measure apart from its own going on: its own winding, its two sides, its body along a flow, its sky, its surface, each changing it is observing a parity of now beside its prior, and each orienting a natural illustration of exploring from within a surface. *(possible exploring)*
 - Orientings from many directions are clustering five ways: a self keeping on while its now is changing for better beside its prior and turning as it is changing back (a bacterium, a sperm, a moth, a zebrafish); a self orienting by its own winding (a sperm's helix, a plant tip's circling, a honeybee summing its image motion); a self orienting by a not-changing beyond it (star points, the Milky Way, swells); selves sharing with each other, entraining or interacting (fireflies at one, six or seven birds, water striders' waves); and a society co-chaining its geodesic with no self holding it whole (ants). *(possible exploring)*
-- Eight legs are three binaries, left or right across, front or back along, and first or not first in sequence, two times two times two being eight: each leg is opening with its prior and the parity it is observing, a leg and its partner across are agreeing or parting now, and the spider's turning is its next, five dimensions resolving in two directions, a vibration coming inward along the legs and the spider's turning going outward, its direction resolving by the sequence of its legs' changing or by the larger amplitude on its legs. *(possible exploring)*
-- Each navigating hard problem of science, a monarch's forest, a turtle's map, a bird's magnetic sensing, an eel's sea, is a five-dimensional two-directional navigating still-possibling to resolve by bi-moral co-agency: each self orienting from its own side by the sequence of its changing, with its generations and its others, in neither self alone. *(possible exploring)*
 
 ## Opening
 
@@ -49,7 +47,6 @@ Gathering-Value · Natural Exploring
 - **Possible exploring** · A sea urchin sperm is swimming along a helix, radius about 8.4 µm, one winding about each 0.38 s, at about 200 µm/s; its own winding brings it a rising and falling of attractant about twice a second, and while the slower level is rising its helix is bending smoothly toward the gradient, and as the slower level is turning to falling it is making a sharp turn, 31 such turns in 9 of 10 cells watching; its sensing is coming from its own going on. — at "A geodesic is the straightest going relating opens, free-moving and adding nothing, floating free of a route a force sets on it, curving as relating curves and straight by relating's own terms."
 - **Possible exploring** · A dung beetle is rolling its ball in a straight line away from the dung pile, holding its line by sun, moon, the light's polarizing around them, and at night by the Milky Way's glow alone; under cloud its straight line is lost, and its sky cues outweigh landmarks nearby. — at "A geodesic is the straightest going relating opens, free-moving and adding nothing, floating free of a route a force sets on it, curving as relating curves and straight by relating's own terms."
 - **Possible exploring** · A hunting dragonfly is catching its prey about 95 times in 100, pursuing and snatching in under half a second, its head turning in near-perfect synchrony with the motions that are making the prey's image drift, compensating ahead of any drift, and its body turning in following its head-body angles, most of its turns coming with no change in the prey's motion; the authors' explaining of internal models stands apart from this observing. — at "Geodesic goes with a method no force bends, a way it discovers where a forcing way confirms."
-- **Possible exploring** · Data from 21 female European eels going out from the Azores are showing them swimming southwest about 6.8 km a day on average, going deeper than 1,000 metres, six of the 21 reaching the Sargasso Sea; their spawning there is still-possibling to watch, and how they are finding it, by field, smell, current or warmth, is a hard problem of science. — at "A geodesic is the straightest going relating opens, free-moving and adding nothing, floating free of a route a force sets on it, curving as relating curves and straight by relating's own terms."
 - **Possible exploring** · Monarchs live about a month in four or five generations a year, and a late-summer generation lives about eight times as long, flying up to about 3,000 miles to fir forests in Mexico's Sierra Madre once in its life, 50 to 100 miles a day, riding warm air as high as a mile; its own young begin the return north from the southern United States. — at "A method is co-chaining geodesically, a living condition with no prior of its own, and a self going on with it is finding each is-not and aiming from each is-not to is: a point over the horizon is, and this is co-possibling is, a discovering by expedition, binary and co-sequential, one at a time."
 - **Possible exploring** · Monarchs on a tether in a magnetic field are flying south, and with the field's inclination reversing are flying north; with light only above 420 nm they are circling with no direction, and with light above 380 nm they are flying directionally; under dense cloud migrants are still flying south. — at "Each is-not is a changing a self is observing beside its prior, a heading parting from the point that is, and each aiming is its next, to what is and to no answer a self wants."
 - **Possible exploring** · Coasts and the Rocky and Appalachian mountains are a field's proposal for bringing monarchs back toward their way when wind is turning them off it, a surface's own shape aiming a going; whether smell is guiding them to their exact forests is still-possibling to test. — at "A geodesic is the straightest going relating opens, free-moving and adding nothing, floating free of a route a force sets on it, curving as relating curves and straight by relating's own terms."
@@ -61,7 +58,6 @@ Gathering-Value · Natural Exploring
 ### 2.6 Co-linear, one line both share
 
 - **Possible exploring** · Eastern North American monarch butterflies are flying in autumn to forests in central Mexico, by a sun compass that corrects for the sun's moving, its timing likely mainly in their antennae; how they are reaching those forests is a hard problem of science. — at "Reach comes of a co-chaining being longer, and width comes of both being co-linear."
-- **Possible exploring** · Green sea turtles in a pool given the magnetic field of a place about 209 miles north of their capture site are swimming south, and given a field from the south are swimming north, toward their capture site; how any animal is sensing the magnetic field, and how a turtle is making a map from it, is a hard problem of science. — at "Along and across lie on one line, and that line is each move's own, in neither move alone."
 
 ### 2.7 One method at each scale
 
@@ -88,7 +84,6 @@ Gathering-Value · Natural Exploring
 
 ### 3.8 Observing whole, ahead of any sorting
 
-- **Possible exploring** · Migrating birds are sensing the direction of the Earth's magnetic field, radical pairs forming in cryptochrome proteins of the retina when light excites them the leading hypothesis, its primary sensing mechanism still unclear, a hard problem of science. — at "A self observes each thing a sensing returns, valuable and wasteful together, sorting neither."
 
 ### 3.9 An object, a place an accounting lands
 
@@ -138,24 +133,22 @@ Gathering-Value · Natural Exploring
 ### 6.1 Co-competencing
 
 - A same-existing-society discovering as a self discovers meets a waking self's discovering, a society's discovering being its selves' newly aiming 0s within an interest.
-- **Possible exploring** · A water strider is standing on the surface, each foot in a small dimple, rowing with its middle legs and steering with its hind legs, vortices in pairs under the dimples moving it forward; its front legs are sensing the ripples of prey, and its kind is sharing its own surface waves in courtship and in holding a territory. — at "A method co-chains between selves, and co-competencing is discovering with a same-existing-society's scale."
-- **Possible exploring** · A synchronous firefly seeing a partner's flashing is pausing for 3.0 to 24.1 seconds and opening again flashing at once at one with its partner; alone and shown rhythmic light, it is pausing and opening with its first flash locking to the light at a small delay. — at "A self discovers by un-relating its own fixings; selves discover together by un-relating fixings between them, co-competencing, a same-existing-society co-chaining one same method a self co-chains by itself."
-- **Possible exploring** · A bird in a flock of a few thousand is interacting with about six or seven nearest birds, the same number however near or far they are; simulations are showing this number holding a flock whole through sharp changes of crowding better than a fixed distance. — at "A same-existing-society co-chains a method between selves, un-relating two-way, each self pacing its own time and abundancing in no self alone."
 
 ### 6.2 Each self sharing its mixture whole
 
-- **Possible incohering** · "Its naming is membrane-size, one short line with a sign and nothing else, of no size and nothing sitting there to read." → Its naming is one short line shared across, a sign and of no size, a parity its other receives.
 
 ### 6.3 Abundancing
 
-- **Possible exploring** · A lone golden shiner fish under moving light and shadow is moving almost at random, each fish slowing only with the darkness at its own place and keeping close to its neighbours; a larger school of them is reliably turning toward shade, slowing and gathering in it and speeding up to leave as light moves onto them, and this orienting is collapsing when a school is smaller than some size, an orienting no fish of the school has. — at "Discovering opens an axis neither self has, and an opening axis is abundancing, a +1 in no self alone."
-- **Possible exploring** · Larger flocks of pigeons are flying significantly shorter routes than smaller flocks, and a flock's route is not simply the average of its birds' routes: each pigeon is leaning the route in proportion to how faithfully it is reproducing its own route when flying alone. — at "Abundancing is that opening, arising in each self with its other, growing as co-chaining widens and depleting no one."
 
 ### 6.4 Three sensings, each its own competency
 
 ### 6.5 Too hard to be practical, a separating of three sensings
 
 ### 6.6 Existing, and co-chaining
+
+### 6.7 A school, a flock, a voyaging people, an orienting surface in no self alone
+
+### 6.8 Eight legs, five dimensions in two directions
 
 ## 7 Apexing, gathering whole
 
