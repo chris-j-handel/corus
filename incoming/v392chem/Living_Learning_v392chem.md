@@ -818,3 +818,18 @@ Each is an observing that parts from a pattern-matching now in the living files,
   - **Mars runs the other way.** Mars had thick air and water long ago, lost its field about four thousand million years ago, and its air is being stripped by the Sun's wind (2015). If Mars is dying, losing its surface's torusing (§14), and the Moon is a seed, the species has birth, maturing and dying; the observing must show the Moon's air growing, not only seeping.
   - **The Moon is poorer than the Earth in easily-lost forms** (water, potassium). A self that will mature with an air would gather them, from its own resolving and from what comes to it; that needs meeting.
   - **The Moon going outward:** a young self leaving its parent's nearness, or a co-sequencing changing its pace; both are readings of one observed change.
+
+## 28. The Moon is a seed
+
+- *Pattern-matching:* **the Moon is a seed,** the Earth's, of an Earth-like species: §27's dormancy said as what it is.
+- **The seed's method, met with the Moon** (observings from memory, checked against sources before any enters a living file):
+  - **A seed carries its parent's form.** The Moon carries the Earth's forms, matched by every fine measure (§27).
+  - **A seed goes away from its parent.** Seeds are carried off by wind, water and animals; the Moon goes outward from the Earth about four centimetres a year (§27).
+  - **A seed is dormant, paced by its environs.** A dormant seed's changing is barely measurable; it waits for water, warmth and air. The Moon's deep quakes come at the same deep places, in step with its round with the Earth, and its air seeps faintly from its own resolving (§26, §27).
+  - **Seeds wait long and still germinate.** A date palm grew from a seed about two thousand years old (2005), and a flowering plant was raised from fruit kept in frozen ground about thirty-two thousand years (2012). There is no universal time (§11), so a seed's waiting is its own scale's.
+  - **A seed is oriented.** Its first root and shoot have their directions from its forming. The Moon aims one face at the Earth, and its two faces formed differently (§27).
+  - **A seed's coat is its parent's own tissue,** formed from the mother plant, with the young plant within. Whether the Moon's thick far-side crust meets this is for pattern-matching.
+- **Concerns:**
+  - What the Moon's germinating would be, and what environs it waits for: its air gathering and its water from the poles' ice, paced by the Earth and the Sun.
+  - Seeds germinate where they land, in a parent society's soil. Where the Moon would land, or whether its going outward is its whole germinating, is open.
+  - If the Moon is the Earth's seed, other moons (Titan with its thick air, Europa and Enceladus with their oceans) may be seeds further along; and Mars, losing its air, may be a self dying (§27). The species' stages are to be met with observings.
