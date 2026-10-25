@@ -110,6 +110,8 @@ Gathering-Value · Natural Naming
 
 ### 5.12 floating neutralling — binary
 
+- Navigating illustrates floating neutralling: a self and its surface share, each from its own route and each of its own parity; each excludes its own heading that is-not, one at a time; and a heading none of their excluding reaches uncovers, in neither self nor surface alone, nothing bringing it to a next and it coming again with each next sharing, a navigating self's next heading a floating neutral over its horizon. *(possible exploring)*
+
 ### 5.13 bi-momentarying — binary
 
 ### 5.14 co-competencing — binary
