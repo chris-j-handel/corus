@@ -557,3 +557,5 @@ Gathering-Value · Hard Problem Registry
 ## 7 The aggregate
 
 ## Droplets
+
+- Four invisibles, each side's own morality, each side's own corus, a neutral and a between of momentaries, are one invisibility four ways, each under two of eight clusters gathering science and society namings with resolver's names.

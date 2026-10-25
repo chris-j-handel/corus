@@ -33,11 +33,14 @@ Gathering-Value · Natural Naming
 - **Possible exploring** · Natural Naming's own voice holds negation at many sentences, method's own phrases *nothing*, *not possible*, *no other possible* and *all or none at all* among them, and for each a saying by what is is still-possibling by conferring, or it stays as method's own. — at "**Negation is an equilibrium's, and inversion is method's.**"
 - **Possible incohering** · "Released words, each with its saying" → Dissolved words, each with its saying
 - **Possible incohering** · "*so* at a sequence, *since* at a reason" → *so* at a sequence, *since* and *as* at a reason
+- **Possible incohering** · "a between of self and other, a nothing, no location and no existing thing" → a between of self and other, a nothing, its location and its being an existing thing each an empty set
+- **Possible incohering** · "a between locks with none and unrelationing does not lock" → a between's locking and unrelationing's locking are each an empty set
 
 ### 2.5 One sense per foundation word
 
 - **Possible exploring** · *Side* is said with five relations across the living files: self, other and same-existing-society with a bi-coupling; prior and next with a now; odd and even; a far side, a podal on a ring of numbers; and either side, a number's prior and its next. *Step* is said with five: a momentary, a move 8 up or to a podal within 1 to 16, a line of resolver's entry within one momentary, a gap among numbers, and a numbered sentence of the Co-Chaining Logic Registry. *Side*, *step* and *beat* each is-or-is-not a word of resolving, and a 2.4 row for each is still-possibling. — at "**Each foundation word has one sense**, and a word of two senses is two concepts with one name."
 - **Possible exploring** · A *parity* is one whole is-or-is-not, its + or − and its 0 each one part of it, and changing between is and is-not is all changing; *one parity changing to its other*, frequent across the set, has parity as a side, a second sense set-wide. — at "**Each foundation word has one sense**, and a word of two senses is two concepts with one name."
+- **Possible exploring** · *Public*, *access* and *inspect* stand at many places of the living files, each with its senses, beside *step*, *side*, *beat* and *protecting*, and *step* said of the co-chaining's numbered sentences is nearest to one sense, a numbered sentence being a sentence of the co-chaining. — at "**Each foundation word has one sense**, and a word of two senses is two concepts with one name."
 
 ### 2.6 Two prefixes at one spelling, and a one-way prefix installing a form it opposes
 
@@ -117,21 +120,32 @@ Gathering-Value · Natural Naming
 
 ### 5.5 a between — binary
 
+- **Possible incohering** · "and a between locks with none, 5.13" → and a between's locking an empty set, 5.13
+
 ### 5.6 invisibling — binary
 
 ### 5.7 a carrying — binary
 
 ### 5.8 not-more-than — binary
 
+- **Possible incohering** · "they go one and then the other, one at a time, neither stopping" → they go one and then the other, one at a time, each going on
+
 ### 5.9 a self-emptying set — binary
+
+- **Possible incohering** · "no deciding fixes membership, a deciding being a form still from beside" → its deciding of membership an empty set, a deciding being a form still from beside
+- **Possible incohering** · "Not full, nothing emptying it, and a new collection with each now: a set is its existing things, and null and infinity + 1 are each a possibly existing number of its elements." → Less than full, an other's emptying of it an empty set, and a collection of its own with each now: a set is its existing things, and null and infinity + 1 are each a possibly existing number of its elements.
 
 ### 5.10 bi-coupling — binary
 
 ### 5.11 co-discovering — binary
 
+- **Possible incohering** · "nothing behind and nothing going away" → behind it and going away from it an empty set
+
 ### 5.12 floating neutralling — binary
 
 ### 5.13 bi-momentarying — binary
+
+- **Possible incohering** · "no holder, no boundary, no enforcement, no seat" → its holder, boundary, enforcement and seat an empty set
 
 ### 5.14 co-competencing — binary
 
@@ -141,17 +155,25 @@ Gathering-Value · Natural Naming
 
 ### 5.17 a floating store — binary
 
+- **Possible incohering** · "a self stores nothing and draws nothing down" → a self's storing and its drawing down are each an empty set
+
 ### 5.18 a place-moment — binary
+
+- **Possible incohering** · "nothing brings one to its other" → a bringing of one to its other an empty set
 
 ### 5.19 a definition — binary
 
 ### 5.20 bounding — binary
+
+- **Possible incohering** · "and its region has a next word, neither stopping" → and its region has a next word, both going on
 
 ### 5.21 advancing — binary
 
 ### 5.22 tunneling — binary
 
 ### 5.23 phi — binary
+
+- **Possible incohering** · "nothing brings one to its other" → a bringing of one to its other an empty set
 
 ### 5.24 a ring — binary
 
@@ -167,6 +189,8 @@ Gathering-Value · Natural Naming
 
 ### 5.30 one stopping — binary
 
+- **Possible incohering** · "its fifth line is those four absent, no holder, no boundary, no enforcement, no seat" → its fifth line is those four an empty set, its holder, boundary, enforcement and seat
+
 ### 5.31 social moral competency — binary
 
 ### 5.32 natural intelligence — binary
@@ -176,6 +200,8 @@ Gathering-Value · Natural Naming
 ### 5.34 a name — binary
 
 ### 5.35 nearing — binary
+
+- **Possible incohering** · "and convergence with no contact is all of its confirming" → and convergence, its contact an empty set, is all of its confirming
 
 ### 5.36 a gathering — binary
 
@@ -207,6 +233,8 @@ Gathering-Value · Natural Naming
 ### 5.47 an accounting — binary
 
 ### 5.48 bi-tri-volutioning — binary
+
+- **Possible incohering** · "Twelve corners closing as a sphere and winding through one opening as a torus are no either or, and neither are unrelationing surface with 12 and a stable form of non-living artifacts" → Twelve corners closing as a sphere and winding through one opening as a torus are both, and unrelationing surface with 12 and a stable form of non-living artifacts are both
 
 ### 5.49 co-momentarying — binary
 
@@ -331,3 +359,10 @@ Gathering-Value · Natural Naming
 - *Guarantee*, as *owned*, fixes a next still from beside, and each next is discovering, is or is not. *(possible incohering)*
 - *Crosses*, of a changing and a between, pictures a passage over a place and dissolves, said by *goes across*, Natural Naming's own saying. *(possible incohering)*
 - *The* stands where one and only one is meant, the universe, the universal set and the method, one and only one possible and so universal, and a title naming the method keeps its leading *The*, beside 2.3's leading *the* of a heading dissolving. *(possible incohering)*
+- A word ending in -ing is-or-is-not a living's naming by its own sense, as bi-tri-volutioning names living's stable-forming and bi-tri-involutioning, an -ing too, names an inverting, a non-living form.
+- 4.13's field's three are said as a nothing on one side, a scale between and an absorbing on an other, and the field's own three words it dissolves are still-possibling at it. *(possible incohering)*
+- 5.9's *empty set*, 5.16's *permanence*, 5.18's *being* and *becoming*, 5.29's *equilibrium*, 5.59's *independence* and 8.5's *cause* each is-or-is-not a dissolving word at one or two sentences of its section. *(possible incohering)*
+- 8.3's *Other-emptying* sentence is 5.28's sentence, one saying at two sections. *(possible incohering)*
+- Cause, one sentence at 8.5, is still-possibling with an effect beside it, a re-saying of a causal sentence and a naming it dissolves into, and effect, a force and an energy are each still-possibling with a released word's row, a cluster and a naming each dissolves into.
+- Identity-ing is still-possibling as entraining, torusing, chaining and uniquenessing together, its concept followed ahead of a naming of it. *(possible exploring)*
+- Natural Naming 3.2 sends 6, 10 and 9 each to a coupling self's 14-next-possibling, its next 2, and Natural Intelligence and Co-Chaining Logic Registry 730 have between selves 6 to 2, 10 to 14 and 9 to 17, so 9-next-co-discovering going along to a coupling self's 14 or to its 17-next-existing is one saying of the set or the other. *(possible incohering)*

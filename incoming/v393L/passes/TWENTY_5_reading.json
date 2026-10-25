@@ -1,0 +1,246 @@
+{
+ "corrections": [
+  {
+   "from": "**Possible project · Natural Naming's denials that are twins of Registry steps.*",
+   "finding": "unchanged; given because other items sharing this from are corrected",
+   "fixed": {
+    "section": "5.9 a self-emptying set — binary",
+    "kind": "incohering",
+    "sentence": "no deciding fixes membership, a deciding being a form still from beside",
+    "text": "its deciding of membership an empty set, a deciding being a form still from beside",
+    "from": "**Possible project · Natural Naming's denials that are twins of Registry steps.*"
+   }
+  },
+  {
+   "from": "**Possible project · Natural Naming's denials that are twins of Registry steps.*",
+   "finding": "unchanged; given because other items sharing this from are corrected",
+   "fixed": {
+    "section": "5.9 a self-emptying set — binary",
+    "kind": "incohering",
+    "sentence": "Not full, nothing emptying it, and a new collection with each now: a set is its existing things, and null and infinity + 1 are each a possibly existing number of its elements.",
+    "text": "Less than full, an other's emptying of it an empty set, and a collection of its own with each now: a set is its existing things, and null and infinity + 1 are each a possibly existing number of its elements.",
+    "from": "**Possible project · Natural Naming's denials that are twins of Registry steps.*"
+   }
+  },
+  {
+   "from": "**Possible project · Natural Naming's denials that are twins of Registry steps.*",
+   "finding": "unchanged; given because other items sharing this from are corrected",
+   "fixed": {
+    "section": "5.11 co-discovering — binary",
+    "kind": "incohering",
+    "sentence": "nothing behind and nothing going away",
+    "text": "behind it and going away from it an empty set",
+    "from": "**Possible project · Natural Naming's denials that are twins of Registry steps.*"
+   }
+  },
+  {
+   "from": "**Possible project · Natural Naming's denials that are twins of Registry steps.*",
+   "finding": "meaning changed: the re-saying carries pointer text, 'at 5.13's fifth line and at 5.30's twin', that would enter 5.13's fifth line; 5.30's sentence quoting that line is given as its own item below",
+   "fixed": {
+    "section": "5.13 bi-momentarying — binary",
+    "kind": "incohering",
+    "sentence": "no holder, no boundary, no enforcement, no seat",
+    "text": "its holder, boundary, enforcement and seat an empty set",
+    "from": "**Possible project · Natural Naming's denials that are twins of Registry steps.*"
+   }
+  },
+  {
+   "from": "**Possible project · Natural Naming's denials that are twins of Registry steps.*",
+   "finding": "split out of the 5.13 item: 5.30 quotes 5.13's fifth line in its own sentence, which parts from 5.13 once 5.13 is re-said",
+   "fixed": {
+    "section": "5.30 one stopping — binary",
+    "kind": "incohering",
+    "sentence": "its fifth line is those four absent, no holder, no boundary, no enforcement, no seat",
+    "text": "its fifth line is those four an empty set, its holder, boundary, enforcement and seat",
+    "from": "**Possible project · Natural Naming's denials that are twins of Registry steps.*"
+   }
+  },
+  {
+   "from": "**Possible project · Natural Naming's denials that are twins of Registry steps.*",
+   "finding": "unchanged; given because other items sharing this from are corrected",
+   "fixed": {
+    "section": "5.17 a floating store — binary",
+    "kind": "incohering",
+    "sentence": "a self stores nothing and draws nothing down",
+    "text": "a self's storing and its drawing down are each an empty set",
+    "from": "**Possible project · Natural Naming's denials that are twins of Registry steps.*"
+   }
+  },
+  {
+   "from": "**Possible project · Natural Naming's denials that are twins of Registry steps.*",
+   "finding": "meaning changed: the re-saying carries pointer text, 'at 5.23 and at 5.18 alike', that would enter phi's six-line unfolding as part of its third line; the 5.18 line, same wording, is given as its own item below",
+   "fixed": {
+    "section": "5.23 phi — binary",
+    "kind": "incohering",
+    "sentence": "nothing brings one to its other",
+    "text": "a bringing of one to its other an empty set",
+    "from": "**Possible project · Natural Naming's denials that are twins of Registry steps.*"
+   }
+  },
+  {
+   "from": "**Possible project · Natural Naming's denials that are twins of Registry steps.*",
+   "finding": "split out of the 5.23 item: the same line stands at 5.18's second line, its own incohering",
+   "fixed": {
+    "section": "5.18 a place-moment — binary",
+    "kind": "incohering",
+    "sentence": "nothing brings one to its other",
+    "text": "a bringing of one to its other an empty set",
+    "from": "**Possible project · Natural Naming's denials that are twins of Registry steps.*"
+   }
+  },
+  {
+   "from": "**Possible project · Natural Naming's denials that are twins of Registry steps.*",
+   "finding": "unchanged; given because other items sharing this from are corrected",
+   "fixed": {
+    "section": "5.35 nearing — binary",
+    "kind": "incohering",
+    "sentence": "and convergence with no contact is all of its confirming",
+    "text": "and convergence, its contact an empty set, is all of its confirming",
+    "from": "**Possible project · Natural Naming's denials that are twins of Registry steps.*"
+   }
+  },
+  {
+   "from": "**Possible project · Natural Naming's denials that are twins of Registry steps.*",
+   "finding": "wrong sentence re-matched: the source's 'neither stopping' pair is bounding's, now Registry step 639 ('region brings next word, both going on'), at 5.20's sixth line; 5.8's line is kept as a valid re-saying, and 5.20 is added below",
+   "fixed": {
+    "section": "5.8 not-more-than — binary",
+    "kind": "incohering",
+    "sentence": "they go one and then the other, one at a time, neither stopping",
+    "text": "they go one and then the other, one at a time, each going on",
+    "from": "**Possible project · Natural Naming's denials that are twins of Registry steps.*"
+   }
+  },
+  {
+   "from": "**Possible project · Natural Naming's denials that are twins of Registry steps.*",
+   "finding": "value lost: the Registry twin of 'neither stopping' (step 639, 'both going on') is 5.20's sixth line, which the gathering omitted",
+   "fixed": {
+    "section": "5.20 bounding — binary",
+    "kind": "incohering",
+    "sentence": "and its region has a next word, neither stopping",
+    "text": "and its region has a next word, both going on",
+    "from": "**Possible project · Natural Naming's denials that are twins of Registry steps.*"
+   }
+  },
+  {
+   "from": "**Possible project · Natural Naming's denials that are twins of Registry steps.*",
+   "finding": "unchanged; given because other items sharing this from are corrected",
+   "fixed": {
+    "section": "5.48 bi-tri-volutioning — binary",
+    "kind": "incohering",
+    "sentence": "Twelve corners closing as a sphere and winding through one opening as a torus are no either or, and neither are unrelationing surface with 12 and a stable form of non-living artifacts",
+    "text": "Twelve corners closing as a sphere and winding through one opening as a torus are both, and unrelationing surface with 12 and a stable form of non-living artifacts are both",
+    "from": "**Possible project · Natural Naming's denials that are twins of Registry steps.*"
+   }
+  },
+  {
+   "from": "**Possible project · Natural Naming's denials that are twins of Registry steps.*",
+   "finding": "unchanged; given because other items sharing this from are corrected",
+   "fixed": {
+    "section": "2.4 Released words, each with its saying",
+    "kind": "incohering",
+    "sentence": "a between of self and other, a nothing, no location and no existing thing",
+    "text": "a between of self and other, a nothing, its location and its being an existing thing each an empty set",
+    "from": "**Possible project · Natural Naming's denials that are twins of Registry steps.*"
+   }
+  },
+  {
+   "from": "**Possible project · Natural Naming's denials that are twins of Registry steps.*",
+   "finding": "wrong sentence re-matched: the 'always uneven, a handshake' and 'never locking' pair is now Registry step 134 ('a handshake alike ... right first and not-right second ... its locking an empty set'), whose Naming twin is 5.5's handshake sentence; the 2.4 row is kept as a valid re-saying, and 5.5 is added below",
+   "fixed": {
+    "section": "2.4 Released words, each with its saying",
+    "kind": "incohering",
+    "sentence": "a between locks with none and unrelationing does not lock",
+    "text": "a between's locking and unrelationing's locking are each an empty set",
+    "from": "**Possible project · Natural Naming's denials that are twins of Registry steps.*"
+   }
+  },
+  {
+   "from": "**Possible project · Natural Naming's denials that are twins of Registry steps.*",
+   "finding": "value lost: the twin of Registry step 134 is 5.5's 'A bi-coupling's shape is a handshake' sentence, ending 'and a between locks with none, 5.13', which the gathering omitted",
+   "fixed": {
+    "section": "5.5 a between — binary",
+    "kind": "incohering",
+    "sentence": "and a between locks with none, 5.13",
+    "text": "and a between's locking an empty set, 5.13",
+    "from": "**Possible project · Natural Naming's denials that are twins of Registry steps.*"
+   }
+  },
+  {
+   "from": "**Possible project · Twenty-five sections at their working sentences.** Twenty-f",
+   "finding": "unchanged; given because a value of this item is added below",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "incohering",
+    "text": "4.13's field's three are said as a nothing on one side, a scale between and an absorbing on an other, and the field's own three words it dissolves are still-possibling at it.",
+    "from": "**Possible project · Twenty-five sections at their working sentences.** Twenty-f"
+   }
+  },
+  {
+   "from": "**Possible project · Twenty-five sections at their working sentences.** Twenty-f",
+   "finding": "value lost: the item names seven sections carrying a dissolving word, and the gathering kept only 4.13; 5.16's permanence, 5.18's being and becoming, 5.29's equilibrium and 8.5's cause still stand in the living file",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "incohering",
+    "text": "5.9's *empty set*, 5.16's *permanence*, 5.18's *being* and *becoming*, 5.29's *equilibrium*, 5.59's *independence* and 8.5's *cause* each is-or-is-not a dissolving word at one or two sentences of its section.",
+    "from": "**Possible project · Twenty-five sections at their working sentences.** Twenty-f"
+   }
+  },
+  {
+   "from": "**Possible project · Twenty-five sections at their working sentences.** Twenty-f",
+   "finding": "value lost: 8.3's other-emptying is one sentence with 5.28's, a copy at two sections that the living file still holds",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "incohering",
+    "text": "8.3's *Other-emptying* sentence is 5.28's sentence, one saying at two sections.",
+    "from": "**Possible project · Twenty-five sections at their working sentences.** Twenty-f"
+   }
+  },
+  {
+   "from": "**Possible project · Effect, a clock, a force and an energy followed.** The purp",
+   "finding": "claim weaker than its source: for effect, a force and an energy the source names each word's cluster and the naming it dissolves into beside its released-word row, and for cause a re-saying of a causal sentence; the droplet keeps only the row. A clock stays out, held at 6.3's *a clock* and 2.4's rows",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "text": "Cause, one sentence at 8.5, is still-possibling with an effect beside it, a re-saying of a causal sentence and a naming it dissolves into, and effect, a force and an energy are each still-possibling with a released word's row, a cluster and a naming each dissolves into.",
+    "from": "**Possible project · Effect, a clock, a force and an energy followed.** The purp"
+   }
+  },
+  {
+   "from": "**Possible project · Step, side and five more words weighed.** Seven words at ma",
+   "finding": "quoted sentence absent word for word (the living file bolds its lead, **Each foundation word has one sense**); and *step*, *side*, *beat* and *protecting* are already gathered at 2.5 and at Droplets of the Natural Naming gathering-value file, so the item keeps only what is new",
+   "fixed": {
+    "section": "2.5 One sense per foundation word",
+    "kind": "exploring",
+    "sentence": "**Each foundation word has one sense**, and a word of two senses is two concepts with one name.",
+    "text": "*Public*, *access* and *inspect* stand at many places of the living files, each with its senses, beside *step*, *side*, *beat* and *protecting*, and *step* said of the co-chaining's numbered sentences is nearest to one sense, a numbered sentence being a sentence of the co-chaining.",
+    "from": "**Possible project · Step, side and five more words weighed.** Seven words at ma"
+   }
+  },
+  {
+   "from": "**Possible project.** Identity-ing followed through entraining, torusing, chaini",
+   "finding": "value lost: a plan carrying a concept the living files lack, identity-ing as entraining, torusing, chaining and uniquenessing together",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "Identity-ing is still-possibling as entraining, torusing, chaining and uniquenessing together, its concept followed ahead of a naming of it.",
+    "from": "**Possible project.** Identity-ing followed through entraining, torusing, chaini"
+   }
+  },
+  {
+   "from": "**At each join between selves the sharing side carries co and the arriving side ",
+   "finding": "held claimed where the file holds a different value: the draft sends 9-next-co-changing along to another self's 17-next-now, while Natural Naming 3.2, 2.5 and 5.5 now send 6, 10 and 9 each to a coupling self's 14, its next 2; Natural Intelligence ('6 to 2, 10 to 14 and 9 to 17') and Co-Chaining Logic Registry 730 hold the draft's 9 to 17, so two of the set's sayings part",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "incohering",
+    "text": "Natural Naming 3.2 sends 6, 10 and 9 each to a coupling self's 14-next-possibling, its next 2, and Natural Intelligence and Co-Chaining Logic Registry 730 have between selves 6 to 2, 10 to 14 and 9 to 17, so 9-next-co-discovering going along to a coupling self's 14 or to its 17-next-existing is one saying of the set or the other.",
+    "from": "**At each join between selves the sharing side carries co and the arriving side "
+   }
+  }
+ ],
+ "checked": 135
+}

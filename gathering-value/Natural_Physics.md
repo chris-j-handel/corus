@@ -99,3 +99,6 @@ Gathering-Value · Natural Physics
 ### 5.11 Register, a field's observings at their fixings
 
 ## Droplets
+
+- Erasing one bit dissipates at least kT ln 2, a measuring's price for emptying a term an existing thing has with its own momentary, and a computation holding its whole history approaches zero dissipation.
+- A field's entrainment, one flow bringing a fluid beside it by a shear between them, and two with their own rates coming to one direction forward, is entraining at a self as two of its observings.

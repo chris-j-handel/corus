@@ -103,3 +103,6 @@ Gathering-Value · Natural Mathematics
 ### 7.9 Atoms of symmetry
 
 ## Droplets
+
+- Under ordinary numerical order a ⊀ b and b ⊀ a together give a = b, and under a partial order these two exclusions hold for incomparable elements too.
+- Rewording a strict comparison, a < b with equality excluded, as a non-strict one, a ≤ b with equality included, gives an other relation with equality.
