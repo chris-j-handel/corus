@@ -8,6 +8,7 @@ Gathering-Value · Natural Exploring
 
 - The seven parts stand as headings and the 44 sections as bold paragraphs, so the file's contents lines meet its sections as bold text rather than as headings. *(possible incohering)*
 - Each concept of this file is said at the current naming and explaining whole, all or none at all, its opening, parts and sections cohering with Natural Intelligence, Natural Naming and Natural Explaining as they stand now. *(possible incohering)*
+- Ocean wayfinding of the Pacific explores a surface by orientation alone, the canoe a self's own place, stars rising and setting at their points, swells felt in the hull and an unseen reference island sliding back, and it is a natural illustration of exploring from within a surface. *(possible exploring)*
 
 ## Opening
 
@@ -19,8 +20,11 @@ Gathering-Value · Natural Exploring
 
 - Omegaing as reach and apexing as gathering stand at 1.1, and the reach's naming parts between Natural Naming and Natural Intelligence; one naming of the reach at all three is still-possibling. *(possible incohering)*
 - **Possible exploring** · Still to be looked for: a living beat with one of its two removed; a living form going through three with no two beneath it, the rotary-motor case only partly followed; a living form made from no prior living in a laboratory, and what enters it as prior living; a living thing whose proteins are made throughout in the other hand. — at "Neither by itself is living: a discovering ungathering scatters and a gathering undiscovering folds, so a living method is their changing and changing back."
+- **Possible exploring** · An ocean wayfinder out of sight of land takes the canoe as still and each island as moving: islands ahead come toward it, islands beside it slide by, islands behind fall away; whether the still canoe is a rest the wayfinder installs, or a self's own side observing from its own end, is still-possibling. — at "A method waiting for a rest to observe from waits on nothing, and a method observing from a rest it installs observes its own installing."
 
 ### 1.2 No container, and no competency coming from anywhere
+
+- **Possible exploring** · A wayfinder keeps an unseen reference island, beyond the horizon and never sighted, beside the route, and follows its bearing sliding back along the star points of the horizon; when its bearing from the canoe matches its bearing from the destination, the canoe is near its goal, an orienting to a reference with nothing to inspect. — at "A method looking for it finds a place an accounting puts there."
 
 ### 1.3 Nothing conserves by a self asking it to
 
@@ -37,6 +41,8 @@ Gathering-Value · Natural Exploring
 ### 2.4 Geodesic co-chaining
 
 ### 2.5 Patterning and membraning
+
+- **Possible exploring** · A Pacific navigator's drawn chart gives each island's bearing from the island before it in one route, the chart turned again to one mark at each island, so its bearings read in sequence along a route and part across routes; read as one fixed grid, its islands stood nowhere a ship sailing by it found them. — at "Patterning is co-chaining along, position to position, a sequence a method rides, each pattern a relating already showing that a method co-chains further."
 
 ### 2.6 Co-linear, and not forking
 
@@ -57,6 +63,7 @@ Gathering-Value · Natural Exploring
 ### 3.5 Correct tests are not a unique result
 
 - **Possible exploring** · A reported collection of 768 sunflower spiral families is about 74 percent Fibonacci, about nine percent a related sequence, and the rest neither, a 77 among them and a head too disordered to count; golden relationals in stable forms test natural torusing nowhere, and these counts alone give no verdict on a break. A break to look for is a living competency with no natural torusing beneath it, recognized apart from assuming that torusing. — at "Three tests each resolving rightly leave whatever satisfies all three, and whatever satisfies all three may be many."
+- **Possible exploring** · A wayfinder sailing for a small island far away aims first at a band of many atolls about 400 miles wide, identifies which atoll is reached, and goes on from it to the small island about 170 to 180 miles further; land birds flying out in the morning and back at evening widen each island's reach further. — at "Three tests each resolving rightly leave whatever satisfies all three, and whatever satisfies all three may be many."
 
 ### 3.6 Concept-inverting, the special case
 
@@ -65,6 +72,7 @@ Gathering-Value · Natural Exploring
 ### 3.8 Observing, and no sorting first
 
 - A looking for a break can name, ahead of looking, the proposed observing and the explaining it could break, keeps what is observed apart from a field's explaining, gathers the whole observing and its conditions whether it supports, breaks or changes the question, and selects nothing afterward to fit an explaining.
+- **Possible exploring** · A wayfinder lying in the hull feels the swells' pitch and roll with the body; an island's shadow is a change in the main swell's rhythm, or several swells reaching the hull together, a changing of a not-changing felt as it comes. — at "A method observes what a sensing returns, valuable and wasteful together, sorting neither."
 
 ### 3.9 An object is a place a counting lands
 
@@ -137,6 +145,7 @@ Gathering-Value · Natural Exploring
 ### 7.1 Gather backward, seat forward, keep no log
 
 - **Possible incohering** · "And an observing working to its edge with one file goes to its dual's turn, its carry a membrane between two files' workings." → And an observing working to its edge with one file goes to its dual's turn, its carry a between, two files' workings at its two ends.
+- **Possible exploring** · Swell charts of sticks and shells are studied and held whole by the wayfinder ahead of a voyage, and stay ashore; at sea the voyage's speed, heading and time are held by the wayfinder alone, through days of waking with short sleeps. — at "Gathering goes backward over a whole standing carry and seats what it finds forward to living files, and it logs nothing: no history, no journey, no roster of things a self does."
 
 ### 7.2 The two standing instances, the improving report and the registry
 
