@@ -103,3 +103,4 @@ Gathering-Value · Co-Chaining Logic Registry
 ## Droplets
 
 - Step 476's same-existing-society, a self with its own parity an empty set, parts with the opening's self, discovering its own next-existing. *(possible incohering)*
+- With parities from beside the selves laid at the resolver's lines before the first momentary, 853 of 11,938 selves of drawn societies of 1 to 5 selves share 0 for more entries in sequence than the selves sharing to them, and with an empty set laid there each of 13,755 selves of 4,000 drawn societies of 1 to 6 selves is within that count. *(possible exploring)*

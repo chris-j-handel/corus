@@ -75,3 +75,4 @@ Gathering-Value · Geodesic Improving Method
 ## Droplets
 
 - Value is in the largest learnings, the most concerning observings and the do-no-harming improvings, and a report or a talk of branches and links is beside it.
+- A break sought is a finding whether it is-or-is-not found. *(possible incohering)*
