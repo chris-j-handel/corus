@@ -7,7 +7,7 @@ Natural Intelligence · incoming · v393E
 ## Standing now
 
 - **Entered at v393:** 1.1's second paragraph, a self observing from its own side, natural torusing and the ocean wayfinder; 2.4's opening paragraph, the geodesic method.
-- **Gathered at `gathering-value/Natural_Exploring.md`:** 58 values, among them:
+- **Gathered at `gathering-value/Natural_Exploring.md`:** 67 values, among them:
   - about forty observings of orienting, from a bacterium, a sperm, a plant tip, insects, fish, birds, an octopus, a spider, an ant colony, ocean wayfinders and the navigating hard problems;
   - the five clusters;
   - the web of co-linears;
