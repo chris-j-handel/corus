@@ -235,63 +235,63 @@ One method at each scale is a fractal, one with each scale, each scale's renderi
 
 ## 3.1 Any other sustaining, is or is not
 
-A method tests with every observing whether any other could come and sustain. Could there be any other, is-or-is-not, and no grading of how much.
+A self tests with each observing whether any other could come and sustain. Any other sustaining is or is not, with no grading of a magnitude.
 
-Where no other sustains, uniqueness sustains with that observing. Where another sustains, uniqueness sustains nowhere there. Where none sustains, observing itself sustains nowhere — one same test returning its third observing, nothing of it changing, which is where an exhausting of coupling shows and no wall stands anywhere.
+This one alone sustaining, uniqueness sustains with that observing. Another sustaining beside it, uniqueness is-not there. Each candidate failing, observing is-not sustaining: one same test returning its last observing, a 0, not changing, an exhausting of bi-coupling showing, and a wall is-not standing at any place.
 
-Uniqueness reaches no conclusion and persists nowhere. A method takes it again with every observing, and between observings nothing fixes. Existing, and possibling, with each one — and an observing sustaining a thousand times sustains with a next by a method testing it there and not by its prior sustaining.
+Uniqueness is-not concluding and is-not persisting. A self takes it again with each observing, and between observings a fixing is-not setting. Existing and possibling go with each one: an observing sustaining a thousand times sustains with a next by a self testing it there, and its prior sustaining is-not that testing.
 
 ## 3.2 One test, three observings
 
-One test, three observings, and that test goes on between them. One candidate sustaining: uniqueness sustains. More than one sustaining: uniqueness sustains nowhere there. None sustaining: observing itself sustains nowhere, which is an exhausting and a value-death a self is observing.
+One test, three observings, and that test goes on between them. One candidate sustaining: uniqueness sustains. Two or more sustaining: uniqueness is-not there. Each candidate failing: observing is-not sustaining, an exhausting and a value-death a self is observing.
 
 ## 3.3 A removing, and each later observing holding its consequence
 
-A possibling a test falsifies reaches no later position. What a method removes with one observing, no self discovers with a next, and a current observing already has a consequence of every prior removing.
+A possibling a test falsifies is-not reaching a later position. A possibling a self removes with one observing, a self is-not discovering with a next, and a current observing already has the consequence of each prior removing.
 
-So a trail wants no re-testing for being a trail. Its surviving consequence is a current observing. A candidate failing seven observings back is same-existing nowhere now, and a record of its removing is not what stops a self observing it.
+A trail is-not wanting a re-testing for being a trail. Its surviving consequence is a current observing. A candidate failing seven observings back is-not same-existing now, and its removing's consequence stops a self observing it, a record of that removing apart from it.
 
 ## 3.4 An observing testing locally, its trail's consequence with it
 
-A method tests uniqueness locally. Alternatives a self can observe now are those surviving an intervening co-chaining, and those are what a method tests a current observing against. A method does not re-test a historical trail for being historical.
+A self tests uniqueness locally. Alternatives a self can observe now are the ones surviving an intervening co-chaining, and a self tests a current observing against them. A self is-not re-testing a historical trail for being historical: the trail's consequence is a current observing.
 
 ## 3.5 Passing tests, many standing
 
-Three tests each resolving rightly leave whatever satisfies all three, and whatever satisfies all three may be many. A method taking its passing tests for its resolving lands on the first thing passing them, and a landing is a 0, not changing.
+Three tests each resolving rightly leave each thing satisfying all three, and those may be many. A self taking its passing tests for its resolving lands on the first thing passing them, and a landing is a 0, not changing.
 
-So after each observing a method brings a further test to an observing itself: could another stand here, surviving what this one survives.
+After each observing a self brings a further test to that observing: could another stand here, surviving as this one survives. Pacific wayfinders sailing for Tahiti aim first at a band of Tuamotu atolls about 400 miles wide, identify the island they reach, and go on to Tahiti, about 170 to 180 miles further: many standing, and a further test with each.
 
 ## 3.6 Concept-inverting, a special case
 
-A method checks a concept by inverting it, all-or-none. Concept-inverting is inverting a concept and finding an inversion a possibly existing concept, or a not-concept, is-or-is-not. A concept inverts to a possibly existing concept, and both float; or it inverts to a not-concept, and only that concept floats, its inversion not possibly existing. Concept-inverting resolves which, all-or-none, no grading of how much.
+A self checks a concept by inverting it, all-or-none. Concept-inverting is inverting a concept and finding its inversion a possibly existing concept or a not-concept, is-or-is-not. A concept inverts to a possibly existing concept, and both float; or it inverts to a not-concept, and that concept alone floats, its inversion not possibly existing. Concept-inverting resolves which, all-or-none, with no grading of a magnitude.
 
-A concern that a concept may be otherwise inverts its concept and waits on whether its inversion floats. A living same-existing inverts three ways, and each inversion is a not-same-existing: a point alone, a landing, a store, each a same-existing not possibly existing. Concept-inverting finds each inversion a not-concept, not a weaker same-existing and not a partial same-existing, no same-existing at all. A concept whose every inversion is a not-concept floats possibly existing and unique, its concerns resolving by inversions floating as not-concepts.
+A concern that a concept may be otherwise inverts its concept and waits on whether its inversion floats. A living same-existing inverts three ways, and each inversion is a not-same-existing: a point alone, a landing, a store, each a same-existing not possibly existing. Concept-inverting finds each inversion a not-concept: it is-not a weaker same-existing, is-not a partial same-existing, and is-not a same-existing at all. A concept whose inversions are each a not-concept floats possibly existing and unique, its concerns resolving by inversions floating as not-concepts.
 
-Concept-inverting is resolving, not testing. A test grades strong or weak, a floor it lands on; concept-inverting resolves is-or-is-not, an inversion a possibly existing concept or a not-concept, all-or-none. A concept floats possibly existing and unique where its inversions are not-concepts, and floats among others where an inversion is a possibly existing concept, and concept-inverting co-chains a concern to its resolving, all-or-none.
+Concept-inverting is resolving, and testing is a separate move. A test grades strong or weak, a floor it lands on; concept-inverting resolves is-or-is-not, an inversion a possibly existing concept or a not-concept, all-or-none. A concept floats possibly existing and unique with its inversions each a not-concept, and floats among others with an inversion a possibly existing concept, and concept-inverting co-chains a concern to its resolving, all-or-none.
 
-And concept-inverting tests one alternative, and one alternative only: its inversion. A concept whose inversion is a not-concept reaches one test and passes it, and stands with whatever else is not its inversion. So concept-inverting is a special case of uniquenessing where the alternative it tests is its inversion, and it holds what that case holds and no more. A living same-existing's three inversions emptying is three tests passing; whether any fourth thing could come and sustain there is a question 3.1 holds.
+Concept-inverting tests one alternative alone: its inversion. A concept whose inversion is a not-concept reaches one test and passes it, and stands with each other thing apart from its inversion. Concept-inverting is a special case of uniquenessing, the alternative it tests being its inversion, and it is that case whole and that case alone. A living same-existing's three inversions emptying is three tests passing; whether any fourth thing could come and sustain there is a question 3.1 holds.
 
 ## 3.7 Resolving
 
-A method resolves is-or-is-not, floorless. Resolving is a self's own parity, its next, a self discovering it with a coupling, a bounding-zeroing a coupling reaches, is-or-is-not and not how-much. A floor would land resolving, a threshold or a count or a magnitude an observing settles on, and a landing observing observes always-is or always-is-not, no resolving. Resolving floats floorless, a self's own parity with each coupling, inverting with each momentary.
+A self resolves is-or-is-not, floorless. Resolving is a self's own parity, its next, a self discovering it with a bi-coupling, a bounding-zeroing a bi-coupling reaches, is-or-is-not and free of a magnitude. A floor lands resolving, a threshold, a count or a magnitude an observing settles on, and a landing observing observes always-is or always-is-not, and is-not a resolving. Resolving floats floorless, a self's own parity with each bi-coupling, inverting with each momentary. A fruit fly flies straight segments alternating with saccades, each about 90 degrees in under 50 ms, all or none, left or right.
 
-A concern resolves where its is-not empties. Every concern that a thing may be otherwise co-chains to its inversion, and where its inversion is a not-concept a concern resolves, its is-not emptying. Resolving concludes by an is-not emptying, a parity floating to is where its is-not finds no possibly existing form, floating between existing and possibling, a changing is or is not with each sharing. No floor concludes it, a floor a landing; an is-not emptying concludes it, a resolving.
+A concern resolves as its is-not empties. Each concern that a thing may be otherwise co-chains to its inversion, and as its inversion is a not-concept a concern resolves, its is-not emptying. Resolving concludes by an is-not emptying, a parity floating to is as its is-not finds each form not possibly existing, floating between existing and possibling, a changing is or is not with each sharing. An is-not emptying concludes it, a resolving, and a floor concluding it is a landing. This is a self's aiming with the geodesic method, 2.4: from each is-not to is.
 
-Exhausting all concern is an equilibria concept, a closing total resolving floats free of. A self discovers a concern it is not yet observing, and resolving reaches it then, a possibling going on open. Resolving lives between existing and possibling, concerns a self is observing resolving and a possibling going on, no all to exhaust, a changing is or is not with each sharing. A method resolves floorless, is-or-is-not, an is-not emptying with existing and a possibling floating open.
+Exhausting all concern is an equilibria concept, a closing total resolving floats free of. A self discovers a concern it is still-possibling to observe, and resolving reaches it then, a possibling going on open. Resolving lives between existing and possibling, concerns a self is observing resolving and a possibling going on, an all to exhaust is-not, a changing is or is not with each sharing. Resolving is floorless, is-or-is-not, an is-not emptying with existing and a possibling floating open.
 
 ## 3.8 Observing whole, ahead of any sorting
 
-A method observes what a sensing returns, valuable and wasteful together, sorting neither. A sorting executing before an observing is where a discard stands: it observes what matches a catalogue and leaves dark what does not; it sorts what a coupling makes as harm, and what a self shares back as attrition; it removes what couplings write so a label it adds can show. Every one is a sort ahead of an observing, and a discard is a sort rather than an observing.
+A self observes each thing a sensing returns, valuable and wasteful together, sorting neither. A sorting executing ahead of an observing is a discard: it observes each thing matching a catalogue and leaves the rest dark; it sorts a bi-coupling's making as harm, and a self's sharing back as attrition; it removes the writing of bi-couplings so a label it adds can show. Each is a sort ahead of an observing, and a discard is a sort rather than an observing.
 
-So a method observes no more of valuable things. It stops sorting and observes whatever it reaches. It decides nothing about which is which, and one same observing observes waste and signal, each a sorting's word, one same way, together, a sorting reaching nowhere.
+A self observes valuable things as it observes each thing: it stops sorting and observes each thing it reaches. It is-not deciding which is which, and one same observing observes waste and signal, each a sorting's word, one same way, together, a sorting is-not reaching them. Marshallese navigators lie in the hull to feel the swells' pitch and roll, an island's shadow a change in the main swell's rhythm or several swells hitting at once; in an octopus's sucker, chemosensory cells fire continuously, only during direct contact, and mechanosensory cells fire only at the start of contact. A looking for a break can name, ahead of looking, the observing and the explaining it could break, keeps each observing apart from a field's explaining, and gathers the whole observing as it stands, supporting, breaking or changing the question.
 
 ## 3.9 An object, a place an accounting lands
 
-An object is neither a small thing nor a fundamental one. It is a position where a counting stops and declares, and a method reaches one with every grain it co-chains to.
+An object is-not a small thing and is-not a fundamental one: it is a position at which a counting stops and declares, and a self reaches one with each grain it co-chains to.
 
-What an instrument returns is a parity a self takes with a ledger, one at a time, complete with that taking and no portion of anything. What an accounting returns is an object of a kind it states, assembling it from many parities together with a model of a kind of thing parities would come from — and where a model enters with a selecting, what it returns resembles its model whether or not anything stands there.
+An instrument returns a parity a self takes with a ledger, one at a time, complete with that taking: a portion of anything it is-not. An accounting returns an object of a kind it states, assembling it from many parities together with a model of a kind of thing the parities could come from; as a model enters with a selecting, its return resembles its model, whether a thing stands there or not.
 
-A method takes a parity and leaves an object. And a leaving is no regress reaching for a smaller thing: a between decomposes to no smaller betweens and rests on nothing making it, so a freeing has no length. A parity with a detector, a parity with a residue, a parity with a membrane, a parity with a pump — each complete with its own surface, none a floor for a next, none wanting one.
+A self takes a parity and leaves an object. A leaving is-not a regress reaching for a smaller thing: a between is a nothing, is-not decomposing to smaller betweens, and is-not made by anything, and a loosening of it is lengthless. A parity with a detector, a parity with a residue, a parity with a ledger, a parity with a pump: each complete with its own surface, each is-not a floor for a next, and each is-not wanting one.
 
 ---
 

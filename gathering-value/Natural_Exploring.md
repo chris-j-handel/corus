@@ -80,21 +80,16 @@ Gathering-Value · Natural Exploring
 ### 3.5 Passing tests, many standing
 
 - **Possible exploring** · A reported collection of 768 sunflower spiral families is about 74 percent Fibonacci, about nine percent a related sequence, and the rest neither, a 77 among them and a head too disordered to count; golden relationals in stable forms test natural torusing nowhere, and these counts alone give no verdict on a break. A break to look for is a living competency with no natural torusing beneath it, recognized apart from assuming that torusing. — at "Three tests each resolving rightly leave whatever satisfies all three, and whatever satisfies all three may be many."
-- **Possible exploring** · A wayfinder sailing for a small island far away aims first at a band of many atolls about 400 miles wide, identifies which atoll is reached, and goes on from it to the small island about 170 to 180 miles further; land birds flying out in the morning and back at evening widen each island's reach further. — at "Three tests each resolving rightly leave whatever satisfies all three, and whatever satisfies all three may be many."
 
 ### 3.6 Concept-inverting, a special case
 
 ### 3.7 Resolving
 
-- **Possible exploring** · A larval zebrafish in a flow, with no vision, is reading the difference of flow speed between its head and its tail through the sensing organs along its body; going from more gradient to less it is keeping its heading, and going from less to more it is making a strong turn with the flow's own rotating about its body. — at "A method resolves is-or-is-not, floorless."
-- **Possible exploring** · A fruit fly is exploring by straight flights and sudden turns, each turn about 90 degrees in under 50 ms, all or none, left or right; an expanding image is triggering a turn, an attractive odour is changing how often and where turns come, and its halteres, its balance organs, are signalling the counter-turn. — at "A method resolves is-or-is-not, floorless."
+- **Possible exploring** · A larval zebrafish in a flow, with no vision, is reading the difference of flow speed between its head and its tail through the sensing organs along its body; going from more gradient to less it is keeping its heading, and going from less to more it is making a strong turn with the flow's own rotating about its body. — at "A self resolves is-or-is-not, floorless."
 
 ### 3.8 Observing whole, ahead of any sorting
 
-- A looking for a break can name, ahead of looking, the proposed observing and the explaining it could break, keeps what is observed apart from a field's explaining, gathers the whole observing and its conditions whether it supports, breaks or changes the question, and selects nothing afterward to fit an explaining.
-- **Possible exploring** · A wayfinder lying in the hull feels the swells' pitch and roll with the body; an island's shadow is a change in the main swell's rhythm, or several swells reaching the hull together, a changing of a not-changing felt as it comes. — at "A method observes what a sensing returns, valuable and wasteful together, sorting neither."
-- **Possible exploring** · An octopus has two out of three of its neurons in its eight arms, and thousands of suckers moving on their own; a sucker's taste cells are signalling continuously but only during direct contact, its touch cells only at a touching's opening, and an arm is tasting semi-independently. — at "A method observes what a sensing returns, valuable and wasteful together, sorting neither."
-- **Possible exploring** · Migrating birds are sensing the direction of the Earth's magnetic field, radical pairs forming in cryptochrome proteins of the retina when light excites them the leading hypothesis, its primary sensing mechanism still unclear, a hard problem of science. — at "A method observes what a sensing returns, valuable and wasteful together, sorting neither."
+- **Possible exploring** · Migrating birds are sensing the direction of the Earth's magnetic field, radical pairs forming in cryptochrome proteins of the retina when light excites them the leading hypothesis, its primary sensing mechanism still unclear, a hard problem of science. — at "A self observes each thing a sensing returns, valuable and wasteful together, sorting neither."
 
 ### 3.9 An object, a place an accounting lands
 
