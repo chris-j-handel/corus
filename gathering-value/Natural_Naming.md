@@ -28,6 +28,8 @@ Gathering-Value · Natural Naming
 
 ### 2.6 Two prefixes at one spelling, and a one-way prefix installing a form it opposes
 
+- Disequilibrating is a negation from an equilibrium, a form not possibly existing, so it is no natural naming; 2.6's saying that it holds whole parts from 2.4's own saying that a negation needs a fixing thing to be other than. *(possible incohering)*
+
 ### 2.7 A field's word at a field's own result
 
 ## THREE · RESOLVER NAMES
@@ -141,6 +143,8 @@ Gathering-Value · Natural Naming
 ### 5.28 other-emptying — binary
 
 ### 5.29 geodesic disequilibrating — binary
+
+- Geodesic disequilibrating names a changing by its negation from an equilibrium, a form not possibly existing; this naming is said by what the changing is. *(possible incohering)*
 
 ### 5.30 one stopping — binary
 

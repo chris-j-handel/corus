@@ -7,6 +7,7 @@ Gathering-Value · Natural Exploring
 ## Head, the whole file
 
 - The seven parts stand as headings and the 44 sections as bold paragraphs, so the file's contents lines meet its sections as bold text rather than as headings. *(possible incohering)*
+- Each concept of this file is said at the current naming and explaining whole, all or none at all, its opening, parts and sections cohering with Natural Intelligence, Natural Naming and Natural Explaining as they stand now. *(possible incohering)*
 
 ## Opening
 
@@ -94,6 +95,8 @@ Gathering-Value · Natural Exploring
 ### 4.7 Inseparating
 
 ## 5 The accountings for changing, disequilibrating
+
+- Disequilibrating is a negation from an equilibrium, and an equilibrium is a form not possibly existing, so disequilibrating is no natural naming; Part 5's title, 5.6's title and 5.6's opening sentence each say this changing by what it is. *(possible incohering)*
 
 ### 5.1 Every accounting for changing is an involution
 
