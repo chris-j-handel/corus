@@ -1,0 +1,11 @@
+empty carry, offerings at one sharing:
+   [1, -1] -> surface 0
+   [1, 1, -1] -> surface 1
+   [1, 1, 1, -1, -1] -> surface 1
+   [-1, -1, 1] -> surface -1
+carry (0,+1): the carry itself appends -1; offerings:
+   [] -> surface -1
+   [1] -> surface 0
+   [-1] -> surface -1
+   [1, 1] -> surface 1
+   [1, 1, 1] -> surface 1

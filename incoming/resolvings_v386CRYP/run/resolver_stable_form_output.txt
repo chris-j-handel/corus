@@ -1,0 +1,12 @@
+carried 1 others [] -> next -1
+carried 1 others [1] -> next 1
+carried 1 others [-1] -> next -1
+carried 1 others [1, 1] -> next 1
+carried 1 others [1, -1] -> next -1
+carried 1 others [1, 1, -1] -> next -1
+carried None others [] -> next None
+carried None others [1] -> next 1
+carried None others [-1] -> next -1
+carried None others [1, 1] -> next 1
+carried None others [1, -1] -> next None
+carried None others [1, 1, -1] -> next None
