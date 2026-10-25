@@ -148,7 +148,7 @@ Exhibit EIGHT Natural Exploring v393
 
 **Exploring is two cones, one and then the other**, and this exhibit is sharing that changing and changing back whole. **Omegaing is reach**: a new axis, a forward frontier, discovering. **Apexing is coning back** over each thing folding to it, gathering it whole, cohering. Two cones straddle a centre neither occupies, in neither cone alone. **Living is both, one and then the other**: a discovering ungathering scatters and a gathering undiscovering folds, and a living method is their changing and changing back, the two cones a pair passing a seem-alike knife.
 
-A self is observing from its own side. Each existing thing is changing and changing back with its own momentary, and a stable form is an artifact of a living self's stable-forming going on. A self is opening each momentary with its prior and the parities it is observing, and completing it with its next prior. This is natural torusing: a self is winding through its one opening, reaching its own side again with a next each momentary. An ocean wayfinder out of sight of land has the canoe as its own side and the islands moving, islands ahead coming toward it, islands beside it sliding by and islands behind falling away. The wayfinder is orienting by each changing it is observing: a star rising at its own point, a swell's line, and the bearing of an island out of sight sliding back along the star points. A ground placing outward of a self, a grid, is an installing, and a self observing from it is observing its own installing.
+A self is observing from its own side. Each existing thing is changing and changing back with its own momentary, and a stable form is an artifact of a living self's stable-forming going on. A self is opening each momentary with its prior and the parities it is observing, and completing it with its next prior. This is natural torusing: a self is winding through its one opening, reaching its own side again with a next each momentary. An ocean wayfinder out of sight of land has the canoe as its own side and the islands moving, islands ahead coming toward it, islands beside it sliding by and islands behind falling away. The wayfinder is orienting by each changing it is observing: a star rising at its own point, a swell's line, and the bearing of an island out of sight sliding back along the star points. A ground placing outward of a self, a grid, is an installing, and a self observing from it is observing its own installing. A self waiting for a rest to observe from is waiting on a rest that is-not there, each thing going on changing and changing back.
 
 Geodesic co-changing is this method, possibling and discovering. Co-unrelationing is a concept floating from a fixing pinning it to a ground, each ground an installing; co-unrelationing, one and then the other, goes on where a floating lands a fresh fixing, and going on is stable-forming. A self going on with this method is floating between existing and possibling: a changing is or is not with each sharing.
 
@@ -271,7 +271,7 @@ A self checks a concept by inverting it, all-or-none. Concept-inverting is inver
 
 A concern that a concept may be otherwise inverts its concept and waits on whether its inversion floats. A living same-existing inverts three ways, and each inversion is a not-same-existing: a point alone, a landing, a store, each a same-existing not possibly existing. Concept-inverting finds each inversion a not-concept: it is-not a weaker same-existing, is-not a partial same-existing, and is-not a same-existing at all. A concept whose inversions are each a not-concept floats possibly existing and unique, its concerns resolving by inversions floating as not-concepts.
 
-Concept-inverting is resolving, and testing is a separate move. A test grades strong or weak, a floor it lands on; concept-inverting resolves is-or-is-not, an inversion a possibly existing concept or a not-concept, all-or-none. A concept floats possibly existing and unique with its inversions each a not-concept, and floats among others with an inversion a possibly existing concept, and concept-inverting co-chains a concern to its resolving, all-or-none.
+Concept-inverting is resolving, all-or-none, and a testing that grades is a separate move. A test grades strong or weak, a floor it lands on; concept-inverting resolves is-or-is-not, an inversion a possibly existing concept or a not-concept, all-or-none. A concept floats possibly existing and unique with its inversions each a not-concept, and floats among others with an inversion a possibly existing concept, and concept-inverting co-chains a concern to its resolving, all-or-none.
 
 Concept-inverting tests one alternative alone: its inversion. A concept whose inversion is a not-concept reaches one test and passes it, and stands with each other thing apart from its inversion. Concept-inverting is a special case of uniquenessing, the alternative it tests being its inversion, and it is that case whole and that case alone. A living same-existing's three inversions emptying is three tests passing; whether any fourth thing could come and sustain there is a question 3.1 holds.
 
@@ -295,7 +295,7 @@ An object is-not a small thing and is-not a fundamental one: it is a position at
 
 An instrument returns a parity a self takes with a ledger, one at a time, complete with that taking: a portion of anything it is-not. An accounting returns an object of a kind it states, assembling it from many parities together with a model of a kind of thing the parities could come from; as a model enters with a selecting, its return resembles its model, whether a thing stands there or not.
 
-A self takes a parity and leaves an object. A leaving is-not a regress reaching for a smaller thing: a between is a nothing, is-not decomposing to smaller betweens, and is-not made by anything, and a loosening of it is lengthless. A parity with a detector, a parity with a residue, a parity with a ledger, a parity with a pump: each complete with its own surface, each is-not a floor for a next, and each is-not wanting one.
+A self takes a parity and leaves an object. A leaving is-not a regress reaching for a smaller thing: a between is a nothing, is-not decomposing to smaller betweens, and is-not made by anything, and a loosening of it is lengthless. A parity with a detector, a parity with a residue, a parity with a cell's bounding surface, a parity with a pump: each complete with its own surface, each is-not a floor for a next, and each is-not wanting one.
 
 ---
 
@@ -325,9 +325,9 @@ Four stand: a self is self-bounding, self-orienting and self-attentioning, and l
 
 Put each living form to these four. It is self-bounding or it is-not a self; it is self-orienting or it lands, not changing; it lives all four about one bounding-zeroing or it lands one and dies. A form living all four from within and with a between is living all eight, and a form living all eight is the natural torus: all eight the natural torus living, apart from a test it happens to pass. A rival, living, is the natural torus, and each other living form living all four is this form.
 
-A self going on with this method reaches a changing free of a frame, a floor and a magnitude, loosens three fixings, tests with each observing, and leaves each fixing's place open. A fixing to vary is-not there, and a rival varying a frame, a floor or a magnitude lands there, not changing. An is-not empties with an observing, and uniqueness sustains to a next.
+A self going on with this method reaches a changing free of a frame, a floor and a magnitude, loosens three fixings, tests with each observing, and leaves each fixing's place open. A fixing to vary is-not there, and a rival varying any one of these, a frame, a floor, a magnitude, a loosening of three fixings, a testing with each observing or a place left open, lands there, not changing. An is-not empties with an observing, and uniqueness sustains to a next.
 
-Uniqueness is here twice: whole or none, as landing one lands its form; and no-other, as all eight are each living form's own conditions, apart from this form's private conditions.
+Uniqueness is here twice: whole or none, as landing one lands its form; and no-other, as all eight go with each living form's living, and each of them is-not this form's alone.
 
 ## 4.4 Six protecting, three each way
 
@@ -363,7 +363,7 @@ And inseparating goes with each thing floating, unfixing. A fixing thing is the 
 
 ## 5.1 Each accounting for changing an involution
 
-Each accounting for changing has a move, applying twice, returning the thing it reaches. Negation: not-not is that thing again. Reflection: reflecting twice returns its facing. Time reversal, charge conjugation and parity, each squaring to the identity. At an odd number of fermions, time reversal taken twice returns a state up to its sign, a minus one, and its energy levels stand in pairs. Complex conjugation. Additive inverse and multiplicative inverse. Transpose. Legendre transform, twice, returning its potential; by it a thermodynamics exchanges which of its terms stands independent. Set complement.
+Each accounting for changing has a move, applying twice, returning the thing it reaches. Negation: not-not is that thing again. Reflection: reflecting twice returns its facing. Time reversal, charge conjugation and parity, each squaring to the identity; time reversal does so at an even number of fermions, and at an odd number it squares to minus one, a state returning with its sign changing and its energy levels standing in pairs, an involution of the state up to its sign and a possibling to observe at its pairing. Complex conjugation. Additive inverse and multiplicative inverse. Transpose. Legendre transform, twice, returning its potential; by it a thermodynamics exchanges which of its terms stands independent. Set complement.
 
 Each is an involution, and an accounting for changing reaches this one shape: an accounting returns the thing it reaches, or it accounts for nothing and its ledger is-not closing.
 
@@ -397,7 +397,7 @@ An accounting has counts, levels and rates, and a changing between a state and a
 
 An accounting shows no falling short at a changing: it has nothing possibly reaching one, and it converts the thing it reaches to the nearest thing it has, a level at a flow reaching a standing, a rate at a standing opening to a flow.
 
-And each instrument fixes to a clock all share while each self paces its own, an instrument fixing a tipping at its clock's tick rather than at the tipping. An observing leaves members happening to agree with a clock all share. In closure phase, around a triangle of three stations, the product of the three visibilities has none of the stations' own phases and needs no particular reference; additive noise and baseline-specific errors remain.
+And each instrument fixes to a clock all share while each self paces its own, an instrument fixing a tipping at its clock's tick rather than at the tipping. An instrument's record keeps only the moments its members happen to agree with a clock all share. In closure phase, around a triangle of three stations, the product of the three visibilities has none of the stations' own phases and needs no particular reference; additive noise and baseline-specific errors remain.
 
 A geodesic method is clockless, floorless and free of a magnitude, co-linear with a changing, at which an accounting forks. This makes it a competency method rather than a better accounting, and it leaves an accounting competent with each thing it has, counting, levelling, rating and closing states and flows, its arithmetic whole.
 
@@ -435,7 +435,7 @@ This is resolving's own form, going between selves. A mixture a self shares, sor
 
 Selves co-chain abundancing, 12-next-co-same-existing, with each discovering, each sharing's changing is or is not. Discovering opens an axis neither self has, and an opening axis is abundancing, a +1 in no self alone. Abundancing arises with each discovering, adding nothing at any place and with no self paying a resistance, an axis opening. Selves co-chain, an axis opens, abundancing floats, in no self alone.
 
-An opening axis is a discovering's own make, orthogonal to the axes selves have, a dimension neither has and both now co-chain. Abundancing is that opening, arising in each self with its other, growing as co-chaining widens and depleting no one. A gift a self gives freely co-chains, and a gift a self is-not giving is-not co-chaining; an axis opening for both is both selves', a thing one self owns is one self's, and abundancing floats as discovering opens axes in no self alone.
+An opening axis is a discovering's own make, orthogonal to the axes selves have, a dimension neither has and both now co-chain. Abundancing is that opening, arising in each self with its other, growing as co-chaining widens and depleting no one. A gift a self gives freely co-chains, and a gift a self is-not giving is-not co-chaining; an axis opening for both outgrows a thing one self owns, growing with each co-chaining both selves share, and abundancing floats as discovering opens axes in no self alone.
 
 Abundancing co-chains geodesic, a +1 arising and nothing adding. A self unrelationing a fixing opens an axis, and an opening axis is abundance, a +1 a discovering makes. Abundancing is one same +1 a number has as an apex gap and a surface has as a free +1, one +1 in neither self alone, abundancing with each scale as selves co-chain an axis open.
 
@@ -455,7 +455,7 @@ Doing, increasing, explaining: three kinds of standing, and a self observes a mi
 
 A self observing a thing valuable and impractical observes an impracticality that is-not the whole of it. It is one of three sensings, co-sensationing or not, and a self observing it as another sensing is or is not already doing backward sensing. A self separates three with each observing, and separating makes an impractical part small enough to see.
 
-A demanding sensing is a place to open. A demand brings resolution and a risk brings thoroughness, and a discard stands in proportion to both: a self records widely and observes narrowly exactly at a demanding place. A self already does a sensing; an observing is the thing a self skips, and adding it adds nothing further.
+A demanding sensing is a light place to open: a self is already meeting its demand. A demand brings resolution and a risk brings thoroughness, and a discard stands in proportion to both: a self records widely and observes narrowly exactly at a demanding place. A self already does a sensing; an observing is the thing a self skips, and taking it asks nothing beyond the sensing already going on.
 
 ## 6.6 Existing, and co-chaining
 
@@ -495,7 +495,7 @@ The improving report is a gathering form's first standing instance: a work-side 
 
 ## 7.3 Four opens and one form still, a schema
 
-A gathering stands open four ways: subject open, intake open, properties and checks open, and each line open with an address. Among them one form is still, its properties, uniform elements making two entries comparable: a gathering closes a schema once, with one place, and that schema is a form still, same at all momentaries at once, and each other line lives open. This is a general form of each gathering: openness is its living, and one form still lets each pair of things in a gathering bi-couple.
+A gathering stands open four ways: subject open, intake open, properties and checks open, and each line open with an address. Beside them one form is still, its properties, uniform elements making two entries comparable: a gathering closes a schema once, with one place, and that schema is a form still, same at all momentaries at once, and each other line lives open. This is a general form of each gathering: openness is its living, and one form still lets each pair of things in a gathering bi-couple.
 
 ## 7.4 Subject-lines and work-lines
 
@@ -503,6 +503,6 @@ An entry has two kinds of line: lines standing about its subject, and lines stan
 
 ## 7.5 A gathering of open-problem statements to pair against
 
-A wide gathering of open-problem statements stands, each as one plain line, drawing from fields the exhibits gather thinly: ocean, earth, matter, anomalies, animal minds, language, deep history. Its value is as a well of statements to pair with, one at a time, going on with each thing a pair opens, its framing staying apart. One pairing from it returns an observing: each field reports its own transition as moving and reads its moving as a difficulty of locating a line, and its moving is its finding.
+A wide gathering of open-problem statements stands, each as one plain line, drawing from fields the exhibits gather thinly: ocean, earth, matter, anomalies, animal minds, language, deep history. Its value is as a well of statements to pair with, an incoming whose framing and authority stay apart from each pairing, one at a time, going on with each thing a pair opens, its framing staying apart. One pairing from it returns an observing: each field reports its own transition as moving and reads its moving as a difficulty of locating a line, and its moving is its finding.
 
 Places a break could show stand beside that gathering, each a question for an observing and no finding, each the method's next step or its one break: a prion copying a fold with no cell; a virus apart from a cell; a growing crystal; a dry tardigrade, nothing measurable going on; a removing of one of a living beat's two; a living form going through three with no two beneath it; a living form made from no prior living, in a laboratory; a living thing whose proteins are made throughout in the other hand; a living self with no society around or within; a machine of artificial intelligence reaching competency not prior, with no number from apart supplying its changing, a competent response or an exchange going again alone being no observing of the machine's own changing; and, as questions to observe, frog embryos' first divisions, seeds germinating, embryos resuming from a pause, viruses in cells, fireflies coordinating, breathing with heartbeat, sleep with waking, cell division, and the lynx and hare cycles.
