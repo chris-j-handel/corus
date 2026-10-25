@@ -247,3 +247,4 @@ Gathering-Value · Natural Naming
 ## Droplets
 
 - A proposed naming stands beside its current naming, as resolver names beside agreed names, and a self compares the two with both before it.
+- *Hold* and *bond* in the set's own saying, about 1,442 lines and 132 words across the set, part from a field's quoted *hold* and *bond*, and the set's own dissolve in one motion. *(possible incohering)*

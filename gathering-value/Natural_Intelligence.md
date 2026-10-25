@@ -121,6 +121,8 @@ Gathering-Value · Natural Intelligence
 
 ### 5.4 Two methods parting with now
 
+- **Possible exploring** · SPICE, a spacecraft navigation toolkit correcting light time and aberration, parts an epoch of a signal's emitting from an epoch of its receiving and accounts for a target moving between them. — at "Two methods are with one same evidence and one same now."
+
 ## SIX · INTELLIGENCE
 
 ### 6.1 Bi-co-momentarying, arising in each self with its other
@@ -188,3 +190,4 @@ Gathering-Value · Natural Intelligence
 - Dying is the loss of natural torusing: a self loses its me, and its inward selves go on in their own same-existing-societies or only at a lower scale. *(possible exploring)*
 - A tendril's circling before clasping is the plant's own searching, and after clasping plant and support are one bi-coupled us, the two-handed tendril with its switch point that us self's stable form. *(possible exploring)*
 - A self's span, 1-now-existing to 8-now-same-existing, is four binaries in pairs of names, now with 1 and 2, existing with 3 and 4, universe with 5 and 6 and all with 7 and 8, each thing with all eight at each now, all or none, and its pair with 5 and 6 parts from *same*, the fourth binary of a thing within the universe. *(possible incohering)*
+- A changing and an exchanging are among living and non-living existing things alike. *(possible incohering)*
