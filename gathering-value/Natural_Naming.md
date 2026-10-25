@@ -245,3 +245,5 @@ Gathering-Value · Natural Naming
 ## THIS IS THE BETWEEN
 
 ## Droplets
+
+- A proposed naming stands beside its current naming, as resolver names beside agreed names, and a self compares the two with both before it.

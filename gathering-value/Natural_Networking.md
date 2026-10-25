@@ -117,3 +117,5 @@ Gathering-Value · Natural Networking
 ### 6.12 Discovering through the existing connections
 
 ## Droplets
+
+- Eight securities, and eight uncapturings with them, each a hub set aside on its axis, part at one binary: each seated with one name of a self's span, 1-now-existing to 8-now-same-existing, or all eight whole with each name.
