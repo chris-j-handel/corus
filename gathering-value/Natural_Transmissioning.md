@@ -42,6 +42,8 @@ Gathering-Value · Natural Transmissioning
 
 ### 3.5 Living between, cell coupling across, transmissioning that lives
 
+- **Possible exploring** · In an electron micrograph of a water fern's plasmodesma, one plasma membrane lines the pore from one cell to the next. The two cells' cytoplasm is one through a channel 20 to 40 nanometres across. Tracer molecules injected into a plant cell pass to its neighbours up to a molecular weight of about 800. — at "A cell bounds itself, and no self touches another directly; every coupling goes across a membrane that is itself a living set: a self, a nothing between two selves, with only its sign."
+
 ### 3.6 Electromagnetic between, antenna and field two-way
 
 ### 3.7 Silicon between, sequential-logical transmissioning in hardware

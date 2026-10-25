@@ -36,6 +36,8 @@ Gathering-Value · Natural Medicine
 - **Possible incohering** · "a fraction expressing with any one momentary is a clone cycling and caught with a snapshot rather than a population of silent cells" → Whether this sequence is expressed at this cell now and whether this cell holds its prior through its bi-coupling are two binaries, and a fraction at now gives neither cell's change, a living co-sequencing and a sequence unexpressed both standing.
 - **Possible incohering** · "With no thing standing to be eradicated, a resolving is a same-existing-society resolving a coming same-existing or clearing it, and a field's record holds both ends: three primes are a resolved end, and transplants and a deep depletions a cleared." → An acting dissolved leaves the form and the living bi-coupling standing, a cell with no marker naming no sequence absent.
 - **Possible incohering** · "Remove a cell and a sequence does nothing." → A cell removed is a sequence doing nothing.
+- **Possible exploring** · Salt-fed Physarum polycephalum plasmodia, dried a month as sclerotia, hold more sodium than control sclerotia, habituated sclerotia formed where salt is absent among them, and after wetting 94 of 100 cross a salt bridge within 24 hours, against 54 of 98 plain-fed. — at "Nothing is holding over and nothing is stored, and nothing within nature stores"
+- **Possible exploring** · From three mammoth specimens, two of them dated at more than a million years, DNA is read in short pieces. The pieces map against the genome of the African savannah elephant and against a mitochondrial genome. — at "Nothing is holding over and nothing is stored, and nothing within nature stores"
 
 ### 3.2 Three ghosts at a reservoir, and what a locus observing takes
 

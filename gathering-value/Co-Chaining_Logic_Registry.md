@@ -82,6 +82,8 @@ Gathering-Value · Co-Chaining Logic Registry
 
 ### 31 Living and non-living at a scale
 
+- **Possible exploring** · A genome of about a million letters is chemically made in about a thousand pieces and assembled in yeast to a designed sequence drawn from one kind of mycoplasma. Transplanted into a recipient cell of another mycoplasma kind, it gives cells with the expected phenotypic properties, copying and dividing on. In a report still unreviewed, liposomes enclose a protein-making mixture of individually purified natural components and a genome of about ninety thousand letters on plasmids. These liposomes feed, grow, copy their genome and divide. Their dividing comes first by pressing them through a membrane filter, and then by membrane proteins the genome encodes. They "cannot make ribosomes". — at "Living is prior, going on from living, each self's 1-now-existing a giving, its making an empty set: non-living existing things becoming living an empty set, and each living self establishes within living same-existing."
+
 ### 32 Dying, a living self going on as non-living
 
 - **Possible exploring** · Restoring is local, a departing bi-coupling's form brought to it by its self's living bi-couplings. A departing bi-coupling with its form brought by an empty set of living bi-couplings is non-restoring damage. Non-restoring damage cascades through further co-chaining, its passing bi-coupling by bi-coupling a relation still-possibling. — at "A departing bi-coupling discovering its next changing and changing back again, its self's living bi-couplings bringing its form to it, is restoring."

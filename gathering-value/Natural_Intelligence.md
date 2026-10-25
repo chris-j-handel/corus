@@ -140,6 +140,7 @@ Gathering-Value · Natural Intelligence
 - **Possible exploring** · Each living thing observed exchanges carbon by ingesting and emanating, and where an exchange slows past instruments' reach it returns, living one scale down. — at "Living is co-intelligencing, stable-forming a self, each self is a same-existing-society inward and outward, and living and non-living things are within one universe."
 - **Possible exploring** · A flame's chain carriers live in its front only, a cell lifted from its tissue ends its own living, and an ant alone lives a tenth as long. — at "Outward it is a self of a same-existing-society of living selves."
 - **Possible exploring** · Dormancy is living's stable form relying on its environs for the parity changing of carbon exchanging, as a stork's-bill seed's dead tail drills the seed into soil by wetting and drying. — at "A dormant self is living, waiting for its one next changing over a dormant length of living same-existing-society momentaryings, its selves inward living."
+- **Possible exploring** · Six of thirty-two date seeds from the Judean desert, their shells dated by radiocarbon from the fourth century BCE to the second century CE, germinate after soaking in water, gibberellic acid, a rooting solution and a fertiliser. Before planting, visual inspection finds a mark parting the six from the others at an empty set. — at "**A living self has non-living existing things and possibly existing things within its same-existing**: a tree its heartwood, a seed its palm."
 
 ### 6.6 One form inward and outward, now
 
