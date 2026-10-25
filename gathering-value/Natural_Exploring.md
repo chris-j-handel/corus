@@ -38,11 +38,16 @@ Gathering-Value · Natural Exploring
 
 ### 2.4 Geodesic co-chaining
 
+- Caribbean spiny lobsters, a person taking them away from where they live along a winding route with no useful chemical, visual or magnetic cue on the way, some boxes with swinging magnets, orient toward home on a tether in an arena, their eyes under a cover. In a further test, in a cage with the magnetic field of a place some 400 km north of home they walk south-southwest, and with a field of a place 400 km south they walk about north. Biology names it true navigation, the first in an invertebrate, the form of its map still-possibling: a self observing reads a lobster finding the field it stands in is-not home's field and aiming from that is-not to home, with no cue of its route. *(possible exploring)*
+- Cory's shearwaters breeding in the Azores, a person setting them free on open ocean some 800 km from their colony: birds with a magnetic disturbance navigate about as well as birds with none, and birds with no sense of smell lose their orienting and homing dramatically, some wandering long, some coming home by chance or by sight, some not coming home. Over open sea, a sea's air is an orienting surface for a shearwater, a self orienting by the surface that is its own. *(possible exploring)*
+
 
 ### 2.5 Patterning along and betweening across, a web of co-linears
 
 
 ### 2.6 Co-linear, one line both share
+
+- A bar-tailed godwit a tracker names E7 flies 11,680 km from Alaska to New Zealand in over eight days, no food, no water, no stopping; all the godwits a tracker follows set out with a favourable wind. A bird and a weather share one line: a departing co-sequencing with a wind, a bird co-linear with an air going toward its next. *(possible exploring)*
 
 
 ### 2.7 One method at each scale
@@ -68,6 +73,7 @@ Gathering-Value · Natural Exploring
 ### 3.7 Resolving
 
 - **Possible exploring** · A honeybee swarm of up to 10,000 bees hangs in a cluster while a few hundred scouts search and may find a dozen or more possible homes; a scout returning from a first-rate site typically dances 100 or more circuits on her first return, from a mediocre one about a dozen, and each return visit cuts her dance by about 15 circuits; scouts for one site head-butt scouts dancing for a competing site with a short buzz, a stop signal, each group producing stopping in proportion to its size, which helps one site win and breaks a deadlock between equal sites. — at "A concern resolves as its is-not empties."
+- A slime mould, Physarum polycephalum, in a dish with oat flakes at the places of Greater Tokyo's cities and bright light where mountains, lakes and other obstacles are, a light the mould goes away from, spreads out and then thins its branches until only links between food sources go on: tubes with a fast flow widening, tubes with a slow flow thinning to nothing; the network it re-forms comes close to Tokyo's rail network, matching it in cost, in efficiency and in going on through a fault, with no plan. Each tube whose flow thins dissolves, and the network that is stands: from each is-not to is at a dish's scale, with no plan and no want. *(possible exploring)*
 
 
 ### 3.8 Observing whole, ahead of any sorting
@@ -143,6 +149,7 @@ Gathering-Value · Natural Exploring
 - **Possible exploring** · In a migrating flock of young white storks, leaders fly irregular paths, searching out the rising warm air within thermals, and followers soar in more regular paths on their exploring, losing height faster between thermals and flapping more; a bird's place in the flock goes with its flying efficiency, efficient fliers going on to winter in West Africa and less efficient ones in southern Europe, a winter place foreseeable from a few minutes of flight. — at "A voyaging people's orienting is in no self alone: a Marshallese voyager studies the stick charts whole before a voyage, the charts going on as the voyager's own prior same-existing, and sails without them, the charts' making passing from father to son, and Caroline wayfinders have a reference island over the horizon."
 - **Possible exploring** · Within one body a same-existing-society discovers: nearly each cell with a nucleus shows pieces of its own making on its surface, a passing cytotoxic T cell whose receptor matches a foreign piece recognizes and kills that cell, and among B cells competing in a germinal centre, higher-affinity antibodies to a shape new to the body arise over time, in no cell alone. — at "A same-existing-society orients as one surface, and its orienting is in no self alone: social abundancing."
 - A Hawaiian bobtail squid hatches with no bacteria, and from a sea full of other microbes its light organ comes to live with Aliivibrio fischeri; the bacteria sense their own density by quorum sensing, each making and sensing a small molecule, a bright glow coming at high density and a lower light at middling density; each dawn the squid vents some 90 to 95 percent of them, and the remaining tenth re-forms the society before the next night; the glow matches the light striking the squid from above and hides its silhouette from below, a squid and its bacteria orienting as one same-existing-society to a light in neither of them. *(possible exploring)*
+- Bats leaving a roost the form of a corridor together, in a model by Mazar and Yovel that has each bat telling its own echoes from the others': with 100 bats about half of a bat's echoes from a wall a metre off go missing in the others' calls at each call, and still a bat goes on by gathering echoes across several calls, at 40 bats coming out about 20 times in 100 with one call's echoes and about 87 with ten; the model leaves out a bat hearing the others' echoes and following its neighbours, and its authors expect real bats to go on better. No one call is whole, and a sequence of calls goes nearer whole: a co-sequencing of many partial echoes in place of one whole signal. *(possible exploring)*
 
 ### 6.8 Eight legs, five dimensions in two directions
 
