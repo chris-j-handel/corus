@@ -282,3 +282,41 @@ At a resolver's functions 6, 10 and 9 are one list, each self's 10-next-co-possi
 - **The between shares the aim:** The honeybee's straight run between its two turning loops points the colony toward food, a between where a society's aim is shared. ([living learning, §6](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
 
 - **Concern · *Three holding*, at 455:** 455's *three holding* says holding in our own voice, which the files dissolve. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+## Discovering with current ONE · v392TWO
+
+- **Across changes a particular going along · 1.9 and 3.4.** In the declared three-and-five construction, a matching parity along gives A0 a 0 sharing at momentary 22 when beside, while an opposed parity from B0 across makes its arriving parities part and A0 share +, with a first changed sharing in B0 at 26 and further changes through both spirals' actual along joins. — v392TWO
+
+- **Arriving, surfacing and sharing · 6.7.** In that construction A0's arriving first differs at 18, its surfacing at 21 and its sharing at 22, each binary retaining its own subject and occurrence as the [public record and deriving](../incoming/v392TWO/README.md) follow their actual participation. — v392TWO
+
+- **A complete recurrence from public sharing · 6.6.** With only one sharing ever supplied, all selves sharing nonzero, every such sharing becoming that self's next prior, and each complete next-arriving list repeating, the same next form follows without reading or copying private priors, and fixed joins with no further external entry give recurrence by the unchanged resolver. — v392TWO
+
+- **A further parity at the same sharing · 6.7.** In this recurring form each self already receives an inverse of its prior, so appending further parities at that same sharing leaves the inverse present and its resolving inverting, locating further discovering at the distinct relations of another sharing, changed bi-couplings or another momentary arrangement. — v392TWO
+
+## Correction of the testing beginning · v392TWO
+
+**The four preceding v392TWO droplets remain at their empty-start executing's conditions and are withdrawn as findings that answer the intended natural-network inquiry.** A living self's own prior going on with its bi-couplings is the inquiry's beginning; a first sharing with no prior for that sharing does not explain a whole society beginning without prior living, and the empty-start form's insensitivity to further parities supplies no requirement on natural discovering. The corrected beginning and earlier record are together at the [incoming working](../incoming/v392TWO/README.md). — v392TWO
+
+
+## Carrying forming through participation · v392TWO
+
+**At 6.5, one prior for both, and at 6.7, each finding at its complete comparison.** A testing can follow a prior forming through participation. With two continuing sequences, no prior is supplied: each first prior forms through an actual sharing, and each next prior is that self's own resolving. The preceding correction's requirement to enter with prior already supplied was too broad. A single initial parity, two continuing sequences and an assigned prior are different preparations. Let participation form the carrying and follow that carrying into further participation. — v392TWO
+
+**At 1.9, a coupling opens a term, and at 3.4, each receiving self resolving.** With the unchanged resolver, two selves bi-coupling receive + + − − and + + + − − −, each repeating. At their sixth meeting the second self's prior is −; its sequence's − and its other's + part, and it shares +. With its sequence alone it shares 0. After different earlier participation, two constructions can receive the same 0 and + and share + or 0 according to their own formed priors. These are exact coupled and carrying consequences, with no private-prior copying or inspection. The first self's sharing is alike with its separate going on in this particular pair; no further competency at both sides is claimed from it. — v392TWO
+
+**At 6.7 and 6.12, each complete comparison and discovering through existing connections.** In the torus of three selves along and five across, every prior forms through the sequences' participation. Moving either source one position leaves the stated later sharing alike; moving the second two positions changes a local matching, then sharing through both along and across, reaching every self. These differing findings belong to their exact relations. A repeating number alone supplies no learning finding. The construction, public receiving/sharing and continuation through source changes are at the [carrying formation working](../incoming/v392TWO/README.md#carrying-forming-through-two-sequences). — v392TWO
+
+
+## Readable parity and recorded zero · v392TWO
+
+**Correction at 6.5 and 6.7.** A diagnostic can record a zero and index calls; a resolving self reads no zero parity. The preceding carrying study reported a twelve-position word containing zeros as a generated sequence. That readable-pattern interpretation is withdrawn. Its readable parities alternate, and at each self's one persistent sharing used here, every further nonzero sharing is its prior inverting and its next prior. A gap, an outside clock or a counted wait cannot restore the zeros as information for a receiving self. This is the distinction already present in TWO that the working failed to apply. — v392TWO
+
+**Carrying consequence, stated through actual parities.** After the different forming and with the common incoming continuation, the second self's next actual sharing is + in one construction and − in the other. The latter follows later readable − receiving; the first common + agrees with its formed prior and supplies no readable zero. This is a particular consequence of carrying under that continuation, not the earlier zero-position pattern. The former local and larger comparisons remain indexed software findings, and all numeric records are retained. The [corrected working](../incoming/v392TWO/README.md#readable-parities-and-the-instruments-record) and its readable projections carry this distinction. — v392TWO
+
+
+## A between has no place to inspect · v392TWO
+
+**At 6.9, observing with a bi-coupling, correcting the working's preceding correction.** Removing zeros from an indexed record still begins with the working's inspection of a representation; it does not establish a self observing through its own actual bi-coupling. A 0 names a between, with no existing thing, interior or momentary of its own to touch. Natural Intelligence 2.1–2.2 and 5.3, Natural Numbers 5.4, Natural Mathematics 1.5 and 6.3, and Co-Chaining Logic 555 and 568 cohere here. A self's prior goes on through not-changing; a blank removed from a record does not follow that same-existing. The next construction must identify the observing self's actual participation. The earlier executions and filtered projections remain software records, and that observing is not yet constructed. The [working's entrance](../incoming/v392TWO/README.md#observing-is-participating-with-a-bi-coupling) carries this standing. — v392TWO
+
+## Learning for natural network discovering · v392TWO
+
+**At the testing's beginning, observing and finding.** Let carrying form through continuing participation, locate observing in an actual bi-coupling without making its between a readable thing, and follow what arises together through the whole relation claimed; the [incoming learning concepts](../incoming/v392TWO/Learning_for_Natural_Network_Discovering.md) carry these corrections with their consequences for testing, binary rigor and natural explaining. — v392TWO
