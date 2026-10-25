@@ -14,6 +14,10 @@ Gathering-Value · Natural Biology
 
 ### 1.3 Every self is a same-existing-society of selves
 
+- Nearly each cell with a nucleus shows on its surface short pieces, mostly 8 to 10 amino acids long, of the proteins it is making within; a passing cytotoxic T cell whose receptor matches a piece foreign to the body, a virus's for one, recognizes and kills that cell, and a cell showing too little of these pieces meets a natural killer cell's attack. Each cell is sharing its own interior's parity across, and a passing cell observes it from its own side. *(possible exploring)*
+- Skin epithelial stem cells keep a memory of an earlier inflammation, up to six months in mice: the inflammation opens sites in their chromatin and some stay open, and a later wound in that skin closes more than twice as fast, the stem cells moving into it more effectively: a memory of inflammation in skin stem cells. *(possible exploring)*
+- Macrophages in the heart's atrioventricular node express connexin-43 and touch heart muscle cells directly, as electron microscopy shows; deleting their connexin-43 impairs the node's conduction, and depleting macrophages and other myeloid cells brings a first-degree block within 24 hours, progressing to complete heart block, the last of three degrees: cells a field calls immune take part in the heart's own conduction. *(possible exploring)*
+
 ### 1.4 No self touches another directly
 
 ### 1.5 Six one-way recursionings, per cycle

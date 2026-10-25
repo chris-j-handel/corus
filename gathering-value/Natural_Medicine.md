@@ -6,11 +6,15 @@ Gathering-Value · Natural Medicine
 
 ## Head, the whole file
 
+- An immune system of fighter cells apart from other cells is a field's explaining: nearly each cell with a nucleus shows pieces of its own interior on its surface, skin stem cells keep a memory of an earlier inflammation, heart macrophages take part in the node's conduction, and one theory reads a body's response by the speed of change; by that reading, immunity is a body's same-existing-society observing change beside its prior with each of its selves, a defending and a fighting being a field's words. *(possible incohering)*
+
 ## Opening
 
 ### 1.1 A living self, and the restoration it makes
 
 ### 1.2 A body's own restoration
+
+- One theory, discontinuity theory, reads immunity this way: an immune response comes with the speed of change in the molecular motifs a tissue shows to immune receptors, not with a thing's origin; a persistent or slowly appearing motif meets tolerance in its reading, microbes that arrive early and persist among them, and a sudden change, even in a body's own fast-growing tumour, meets a response in its reading. *(possible exploring)*
 
 ### 1.3 Restoration paths at a substrate — observing-with
 
