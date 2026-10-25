@@ -1,10 +1,18 @@
-Incoming · v391
+Incoming · v392
 
 # Incoming
 
+**Natural Chemistry's next revising session:** [Natural Chemistry — gathering and next exploring](chemistry-water-20261022/Natural_Chemistry_Exploring_Report.md) brings the complete 64-offering chemistry exploration, its learning and living concerns, and suggested further exploring into one launch report; it distinguishes the v390 gathering from the current v391 living files.
+
+**Natural Chemistry's wide gathering, v392chem:** [Natural chemistry wide gathering](v392chem/Natural_Chemistry_Wide_Gathering_v392chem.md) gathers how chemistry divides and orders itself, its cycling, sequencing and podaling, its state–flow–state explaining apart from its observings, and about 250 binaries at its frontiers, with nine proposed to resolve first; its twenty-one parts are whole at `v392chem/parts/`, read beside the launch report above. Its [living learning](v392chem/Living_Learning_v392chem.md) carries what the exploring found for the whole set, laid as droplets at eighteen files' offerings, for every parallel session.
+
 **Work arriving whole, as it arrived, until each value of it is a droplet at the offerings of the living file it concerns; then the arrival goes whole to `archive/`, its receiving named, relied on by nothing.**
 
+**At v392, the managing working v392F stands at `v392F/`,** its standing of the set at [v392F/Standing_v392F.md](v392F/Standing_v392F.md). **The gathering of v385A stands at `v385A/`,** [v385A/Living_Improving_Value_gathering_v385A.md](v385A/Living_Improving_Value_gathering_v385A.md), the front's sections from v385A arrived here whole at v392, open value until each of it is a droplet at the offerings of the file it concerns.
+
 **At v391's close, three stand at `v391/`, each still living work:** the plan, [v391/Improving_Plan_v391.md](v391/Improving_Plan_v391.md); a next session's start, [v391/Next_Session_Start_v391.md](v391/Next_Session_Start_v391.md); and a growing body of understanding, [v391/Binary_Understanding_v391.md](v391/Binary_Understanding_v391.md). Each arrival whose value is laid went whole to `archive/session_v391/incoming_v391/`: the readers' findings, the opening's drafts and its resolved 70 lines, the insertion scripts, the fresh reading, the Me gathering and its 81 observings (Exhibit THIRTY-ONE's carryings rest on them there), and the transcript's four readings; the transcript itself is `archive/session_v391/Session_Transcript_v391.txt`. Session v390's folder is whole at `archive/session_v391/incoming_v390/`.
+
+**At 24 October, `me_thirty-one_20261024/` arrived** from a session improving Exhibit THIRTY-ONE Me: start with its [README](me_thirty-one_20261024/README.md). Its value is laid as droplets at Exhibit THIRTY-ONE Me, Natural Chemistry, Exhibit ONE and the Co-Chaining Logic Registry, each under *Incoming · me-thirty-one-20261024*.
 
 **At v389 nothing stood here**: the session's opening proposal and two unfinished sessions arrived at `v389/`, each value laid as a droplet at its file's offerings, and the arrival is whole at `archive/session_v389/incoming_v389/`.
 

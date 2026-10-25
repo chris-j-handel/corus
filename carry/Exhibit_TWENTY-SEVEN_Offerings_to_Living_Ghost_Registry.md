@@ -4,7 +4,7 @@ Exhibit TWENTY-SEVEN Living Ghost Registry Offerings · improved at v386EOD
 
 ## Standing · v389
 
-**Resolved at v389.** 151 items stood here; resolving against [Living Ghost Registry](../Exhibit_TWENTY-SEVEN_Living_Ghost_Registry_v391.md), 22 are carried, 29 rest on released forms, 45 duplicate another item and 18 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY-SEVEN_Offerings_to_Living_Ghost_Registry_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY-SEVEN_Offerings_to_Living_Ghost_Registry_resolved_v389.md). Its 37 concerns stand below, each with its reason; 18 stand now.
+**Resolved at v389.** 151 items stood here; resolving against [Living Ghost Registry](../Exhibit_TWENTY-SEVEN_Living_Ghost_Registry_v392.md), 22 are carried, 29 rest on released forms, 45 duplicate another item and 18 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY-SEVEN_Offerings_to_Living_Ghost_Registry_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY-SEVEN_Offerings_to_Living_Ghost_Registry_resolved_v389.md). Its 37 concerns stand below, each with its reason; 18 stand now.
 
 **Droplet · The registry at the same stable form as the Equilibria Registry.** Exhibit TWENTY-SEVEN Living Ghost Registry is the same stable form of equilibria hard probleming as Exhibit TWENTY-EIGHT Equilibria Registry. At Exhibit ONE Natural Resolver's code a still set beside a self stops its changing, and, the still released, resolving follows. A ghost, like an equilibrium, is a between named still and set beside, not possibly existing. Exhibit TWENTY-SIX Living File Registry's 4.7 has the two registries' shared method and their shared subtitle, "Not Possibly Existing, Living or Non-Living". The registry's entering of it is at its motion, at the Equilibria Registry's spine: each ghost at the still it sets beside and the resolving following. — v386EOD
 
@@ -103,3 +103,29 @@ Living Ghost Registry and Equilibria Registry: two registries, one derivation. T
 - **A citation chain grown into a code-titled table.** The odd and even pairing of four binaries travelled Registry, Natural Naming, Natural Intelligence 4.9, Exhibit ONE, a table titled as the code's with no code line: a still accounting installed by citing.
 
 - **Its *ghost* and common use.** The registry's ghost is a non-living accounting installed as living; common *ghost* and Ryle's *ghost in the machine* name a living thing apart from a body. A fresh reader's misreading to meet.
+
+## Incoming · v392chem
+
+
+- **Virus, electron, radioactive:** A virus taken as living, an electron as an owned particle and *radioactive* as a thing's property are each an emanation or a step fixed as a doer, ghosts for this registry. ([living learning, §8](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Bond a between of two selves, at 310 and 1421:** Lines 310 and 1421 say *bond*, field side, is living, a between of two selves. Natural Chemistry now enters no bond, and a bi-coupling has a between and never is one, so both lines part from it. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Chemistry's kinds admitted by a stated rule:** Almost all chemistry's kinds, its disciplines, groups, *bond* and reaction classes, series and scales, are admitted by a stated rule, a between fixing as a cut. A chemical kind is a universal set only where its membership is observed same-existing, and elsewhere it is a field's word, whole. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The twelve of a virus shell:** Many virus protein shells are icosahedral, with twelve five-fold corners, the same twelve as the 60-carbon cage. A virus as a stable form carries the cage's number. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
+
+- **Droplet · an installing entry, *enzyme*.** The field's *enzyme* as a thing that stabilizes, forces or drives installs an accounting with one between, a rate in a tube, as a standing thing each such protein is; its numbering, strictly, names reactions (IUBMB), and its kind's one rate sums single molecules' each-its-own rates (Lu, Xun & Xie 1998) (gathering §0an). — me-thirty-one-20261024
+## Incoming · chemistry-water-20261022
+
+- **Living Ghost Registry 7.8, water-dimer line 4 · Oxygen position:** the saying “each oxygen's position stands” can distinguish remaining associated with surface sites from remaining motionless, carrying the authors' proposed oxygen displacement and its coupling to interchange with the observing ([Kumagai and colleagues, 2008, Figures 3 and 4](https://doi.org/10.1103/PhysRevLett.100.166101)). — chemistry-water-20261022
+## Concern from the managing working · v392F
+
+**Concern · citations riding at the living file.** 22 links to fields' sources ride in the Living Ghost Registry's body, while a source a finding rests on goes with its finding to its file's carrying (Geodesic Improving Method 2.8) and a living file carries its observing apart from the field's explaining of it; each link dissolves at this file's own motion, its source going whole to Carryings of Living Ghost Registry. — v392F
+
+**Concern · passages left as they were at v390's pass 10.** At pass 10, v390, the file's lines 1685 to 1730 as it then stood were left as they were, a reader stopping before reaching them, a condition the front carried and this file's own places did not; those passages wait for a pass of their own at this file's motion. — v392F
+
+**Droplet · this file's first motion, as a separate reader proposes it at v392F.** Part Eight (file:2104–2229), its 22 links, moves whole to Carryings of Living Ghost Registry, each entry's Addresses standing by its source's name at the file; the binary: does each link stand at the carryings after the move, a match by URL (Geodesic Improving Method 1.5); Part Eight as it stood to `archive/`. The reader's whole dossier, counts and evidence stand at `incoming/v392F/readers/registries_dossier.md`; no wording there carries authority. — v392F

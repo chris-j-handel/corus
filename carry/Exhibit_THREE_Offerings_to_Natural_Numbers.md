@@ -4,7 +4,7 @@ Exhibit THREE Natural Numbers Offerings · improved at v389
 
 ## Standing · v389
 
-**Resolved at v389.** 123 items stood here; resolving against [Natural Numbers v389](../Exhibit_THREE_Natural_Numbers_v391.md), 34 are carried, 34 rest on released forms, 13 duplicate another item and 29 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_THREE_Offerings_to_Natural_Numbers_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_THREE_Offerings_to_Natural_Numbers_resolved_v389.md). The 13 concerns below stand, each with its reason; 12 stand now.
+**Resolved at v389.** 123 items stood here; resolving against [Natural Numbers v389](../Exhibit_THREE_Natural_Numbers_v392.md), 34 are carried, 34 rest on released forms, 13 duplicate another item and 29 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_THREE_Offerings_to_Natural_Numbers_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_THREE_Offerings_to_Natural_Numbers_resolved_v389.md). The 13 concerns below stand, each with its reason; 12 stand now.
 
 **Concern · 7.1's name *the returning*, and its rows 60, 61 and 118.** Two sayings part. Exhibit THREE Natural Numbers has, at 7.1, the title "Seventeen primes, two to fifty-nine, and the returning from sixty-one", the name at its rows 60, 61 and 118 also. Exhibit THREE Natural Numbers has, at 7.1, "The primes carry no last" and "past fifty-nine they open on". They part at the ring: the name closes the ring at a name, and the primes carrying no last open on. *Its far side* or *the carrying the other way* is offered for the name. One saying at the file is *the returning* released or the primes' opening on re-said, Exhibit THREE Natural Numbers' to decide, with the rings as spirals. — v386EOD
 
@@ -109,3 +109,34 @@ So with the six, 1 to 17 is one round only because 17 falls with a six's place, 
 - **Each six-cycle, three pairs making 17 and two halves of three.** 1-9-5-12-8-16 is 1+16, 9+8, 5+12; the second half the first half's others reversed; from 17 to 32 the pairs make 49 = 17 + 32, so each pair at one scale is one at the next.
 
 - **Four binaries laid on odd and even names (*four binaries with a self's span: now with 1 and 2 …*)** is the pairing dissolved at v391 from Natural Intelligence, Exhibit ONE and the Registry: no code line makes it; each is-or-is-not one test on one name, 3, 7, 13 and 15.
+
+## Incoming · v392chem
+
+
+- **Steps observed, numbers recorded:** Instruments observe changing in steps, a charge stepping (1909) and each element's X-ray colour stepping (1913), and the atomic number is the naming of that step, so counting is a self's record. ([living learning, §1](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **0 to 24 and 24 to 60 as phases:** A tendril's two hands are observed with equal turns, so nought to twenty-four and twenty-four to sixty pattern-match its inward and outward phases and not counts of turns. ([living learning, §6](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Podal pairs exact only by symmetry:** The mirror nuclei krypton-71 and bromine-71 have different ground states (2025). The energy difference predicted between mirror molecules has never been measured, the best result no difference beyond its error. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The cage's twelve:** Natural Chemistry 4.5's sixty turns for one hand and 120 for both are the 60-carbon cage's, and many virus shells take the same twelve five-fold corners. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Spool turns:** DNA wraps each protein spool in about one and two-thirds left turns. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The sunflower's φ:** The sunflower's golden angle is pattern-matched as φ, the unrelationing rate, and its growing centre as the corus. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Count-matches and no counting in nature:** Chemistry's carbon pattern-matching rests on count-matches: 24 as six fours, twelve and twelve, eight as four twos, six edges. Counting is a record, so these matches are openings to meet. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Chemistry's pointers and *podal*:** Natural Chemistry 4.4 reads *podal* opposite to this file, and some of its pointers name sections here no longer standing. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · The twelve is geometry:** Any closed cage of five- and six-rings with three couplings at each corner has exactly twelve fives, a football too. So the twelve is the form's, and carbon is where chemistry observes it. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · 24 unobserved in the tendril:** If a tendril's two hands turn equally, no observing places the corus at 24. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · 6 to 7 within a molecule:** Whether carbon changing to nitrogen as one molecule goes on is the element-number face of the ladder's 6 to 7 is unanswered. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
+
+- **Droplet · odd and even.** 1.7's prime living scales, five to fifty-three, each odd, meet Exhibit ONE's spiral of selves: a 0 recurring only with an odd number of selves, and an even one with none. — me-thirty-one-20261024
+**Droplet · this file's first motion, as a separate reader proposes it at v392F.** at 5.2 and 9.7 together, one sentence saying a round whole — sixteen the names' round, 17 to 33, and six the prefixes' round within it, or sixteen alone — read for harm against 1.4's bi-foldings and 9.7's spans; the binary that decides it: does the prefix stream *co bi tri bi co bi* with 1 co-bi-tri put 33 at co-bi-tri (a round of sixteen holds alone) or at tri-bi-co (two rounds, each its own), computed at the numbers before entering. The offerings' "one concern of this pass" and its three scaling bullets dissolve with it; the archive takes the 1.1 and 7.1 quotes of *alternating* and *carry no last* as stale wording already met at v391. The reader's whole dossier, counts and evidence stand at `incoming/v392F/readers/numbers_to_transmissioning_dossier.md`; no wording there carries authority. — v392F

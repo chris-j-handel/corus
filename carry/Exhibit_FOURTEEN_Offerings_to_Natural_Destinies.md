@@ -41,3 +41,10 @@ Exhibit FOURTEEN Natural Destinies Offerings · improved at v386EOD
 ## Laid from Natural Intelligence at v391 · v391
 
 **Droplet · resolving a hard problem is defining its universal set, at v391.** A universal set is a set of same-existing things (Natural Intelligence's opening, line 5), and a self's universal set is the self whole, one self or a geodesic self on a Natural Network surface. A hard problem is resolved by defining its universal set, the whole within which each of its is-or-is-nots is taken, rather than by holding its binary as a destiny. Each hard problem here is to be met so, at this file's own motion. — v391
+
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
+
+- **Droplet · a surface horizon.** Each living parity aims at its own destiny on a surface horizon, its next on the Natural Network surface, the horizon its far surface and *one changing that makes its near surface*; heading is observed as the one point the visual flow expands from (Warren & Hannon 1988) (gathering §0ag). — me-thirty-one-20261024
+**Droplet · this file's first motion, as a separate reader proposes it at v392F.** the opening paragraph and the core section whole, *fractal technology* said as the method at bi-couplings and *riding its carry* leaving the core, the core then meeting Natural Intelligence 6.2 (`Natural_Intelligence_v391.md:1741`) or standing as this file's own; the binary is "is a torus or a network a made non-living thing applied from beside" (Co-Chaining Logic Registry 110 says a technology is; the file says a torus and a network are not); the two Corus-copied droplets (offerings:13, 17) go to the archive as placings Corus still holds whole. The reader's whole dossier, counts and evidence stand at `incoming/v392F/readers/society_dossier.md`; no wording there carries authority. — v392F

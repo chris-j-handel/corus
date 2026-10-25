@@ -123,3 +123,21 @@ Exhibit THIRTY Co-Chaining Logic Registry Offerings · improved at v389
 **Droplet · from Natural Intelligence's offerings, aimed here.**  — v391
 
 - **The Co-Chaining Logic Registry** carries the opening word for word as its groups 1 to 4, and check_set reads it under 1.1's heading; a move ahead of the contents carries both with it. — v391, suggestion met
+
+## Incoming · v392chem
+
+- **Concern · Step 493's *ingestible one scale lower*, at 5:** Step 493 says a non-living going on is ingestible one scale lower. At 5 no living rung lies below, so the wording waits a reading with 5 non-living. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me. Whole at `incoming/me_thirty-one_20261024/`.*
+
+**Concern · step 176's *circles*.** *Natural torusing is two parities' circles winding through one opening* parts from step 268's towel twisting *one way and then the other* and step 740's odd spiral as one loop passing each self twice. Proposed: *two parities' twisted figure-eight loops winding through one opening*. — me-thirty-one-20261024
+
+**Concern · steps 18, 25, 157, 476 and 495.** *A living same-existing set is a self*, *a bi-coupling is a self* and a same-existing-society as a self meet the session's us as a 0 shared in each, and a same-existing-society unconsciously us. — me-thirty-one-20261024
+
+**Droplet · steps to discover.** A me of one scale (after 478); waking and sleeping (after 490); a same-existing-society unconsciously us; every 0 from a prior same a me; us the 0 a me and you share at one momentary, a prior behind it in each. — me-thirty-one-20261024
+
+- **Droplet · steps 18, 25, 49, 61, 246, 476 and 487.** Each takes its opening line's pair, with its *Adding* and its group's *Entering* re-said by hand; `opening70_v391.py` was a one-time builder, from sixty-four lines to seventy, and is not run again (`incoming/me_thirty-one_20261024/Opening_bi-coupling_and_self_v391.md` §2). — me-thirty-one-20261024
+
+- **Concern · step 476's *a self*.** A quote of 476 that cut *a self* by ellipsis was found in Thirty-One's draft; the draft now says a same-existing-society's own is only its selves' own by step 297, and 476's *a self* goes with the opening proposal's pair 5 (gathering §0ar). — me-thirty-one-20261024
+**Droplet · this file's first motion, as a separate reader proposes it at v392F.** the subtitle, *The Fractal Inward and Outward, Binary Method of Discovering Next Existing* (:5), re-said with step 70 (:352), *geodesic discovering of next-possibling-same-existing*: *binary method* dissolved as the method's naming at v391 (carry/Exhibit_TWENTY_Offerings_to_Natural_Naming.md:273; the Registry's *c* cells at TWELVE :143 and TWENTY-FOUR :215) and no step holds it (0 in step lines); the binary, pass 1 bound (Geodesic Improving Method 3.3, :254): does each concept of the subtitle derive within the body — *fractal inward and outward* at step 463, *discovering next-possibling-same-existing* at 70, *binary method* at none; the prior subtitle goes whole to `archive/session_v392F/` with the Registry's *a* cell following. No item at these offerings carries this; it arrives from Natural Naming's line 273 as a droplet here. Scale ahead of step 80 (line 61) is the next. The reader's whole dossier, counts and evidence stand at `incoming/v392F/readers/core_and_method_dossier.md`; no wording there carries authority. — v392F

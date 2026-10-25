@@ -4,7 +4,7 @@ Exhibit EIGHTEEN Natural Physics Offerings · improved at v389
 
 ## Standing · v389
 
-**Resolved at v389.** 397 items stood here; resolving against [Natural Physics v389](../Exhibit_EIGHTEEN_Natural_Physics_v391.md), 59 are carried, 177 rest on released forms, 59 duplicate another item and 54 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_EIGHTEEN_Offerings_to_Natural_Physics_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_EIGHTEEN_Offerings_to_Natural_Physics_resolved_v389.md). The 48 concerns below stand, each with its reason; 47 stand now.
+**Resolved at v389.** 397 items stood here; resolving against [Natural Physics v389](../Exhibit_EIGHTEEN_Natural_Physics_v392.md), 59 are carried, 177 rest on released forms, 59 duplicate another item and 54 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_EIGHTEEN_Offerings_to_Natural_Physics_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_EIGHTEEN_Offerings_to_Natural_Physics_resolved_v389.md). The 48 concerns below stand, each with its reason; 47 stand now.
 
 **Incoming, the colours as rings of the sequencing, and light carrying its pattern as DNA does (v374).** *Observings.* The Sun's spectrum is crossed by dark lines where the gases it crosses take out light, each gas at the lines it gives out when hot, a line met in the Sun's light in 1868 before the gas giving it was met on Earth, the field naming it helium, and a galaxy's lines arriving shifted together by one ratio (the field's accounts). A red flash in a long night keeps a short-day plant from flowering and a far-red flash after it restores flowering, the last flash deciding (the field's account). *Pattern matching.* Arrived: the colours in light are the places in the sequencing momentaries, different colours different podaling rings reaching different forward and prior momentary numbers; altering the full light of each light momentary in parity alters the arriving pattern of light's parity changing; light is like DNA this way. At Exhibit ONE's section rings of every length carry a difference at one pace and return in proportion to their length, as each colour's frequency and wavelength stand reciprocal about c; the spectrum carrying the lines of what it crossed as a sequence carries its bases; one flash changing a plant's flowering as one base changed. *Podaling exchanges these relations while each side continues forward.* — v374
 
@@ -196,3 +196,56 @@ Exhibit EIGHTEEN Natural Physics Offerings · improved at v389
 
 *Standing at v389:* nothing parts at Natural Physics, at no sentence of which cryptography stands; a proposed possibling file, Natural Accounting, would take cryptography at an accounting of selves on a public surface, from Exhibit THIRTEEN 1.5, its sorting at sections 3 and 5.1, and runs one to four. **To resolve:** open Natural Accounting as a new possibling file, or re-aim this droplet to Offerings to Resolving Hard Problems?
 **Droplet · Natural Intelligence 2.1 re-said with the code, at v391.** Its *two sides … a self's, opening odd, and an other's, opening even* has left 2.1, not held by the code: along is a self's own going on, across is sharing with 6 and 10, along with 9. This file's citation of 2.1 meets it at its motion. — v391
+
+## Incoming · v392chem
+
+
+- **A lone atom is a clock:** A lone atom repeats its changing so exactly that the second is defined by caesium, a form giving its own state again, the loop six forward names non-living. ([living learning, §2](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Decay's pace with couplings:** Rhenium, dysprosium and beryllium change their decay pace with their electrons and bonding, so radioactivity as a thing's own property is explaining and the pace belongs to the couplings. ([living learning, §8](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Line 363's neutron:** 363 says *a neutron a floating neutral itself*, *cancelling*, *held* and *one living act*. These part from nothing living inward of an atom and from Natural Chemistry 1.4's parities releasing. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Line 351's living side:** 351's *a living side's own strong-force resolving* calls a resolving inward of an atom living. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Lines 379–381's sub-atomic selves:** 379–381's *one living coupling … a self's sharing (wave) and an other's sharing (particle)* names a quantum's two sides as selves. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · 3.1's abundancing staying:** 3.1's *an abundancing staying with a coupling* uses *staying*, which the files dissolve. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · The rest unswept:** Physics beyond these lines is not yet swept for sub-atomic things called selves or living. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The sky's glow depends on the observer:** The sky's leftover glow reads about 2.7 degrees above absolute zero, warmer ahead of our motion and cooler behind. So even the universe's temperature is a relational reading. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Clocks part:** Atomic clocks flown round the world disagreed (1971), and satellite navigation works only by correcting its clocks about 38 millionths of a second a day. Clocks part even across a millimetre-tall atom cloud (2022). ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Mass and weight relational:** Each form bends its own amount in an instrument, a reading a field turns into *weight*. So mass and weight are relational readings, and Physics' masses wait reading as such. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **A ruler, a clock and a record:** A ruler, a clock and a record are valuable for observings of prior living, measured time a count of a non-living loop laid beside living. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Podal pairs exact only by symmetry:** The mirror nuclei krypton-71 and bromine-71 have different ground states (2025). The energy difference predicted between mirror molecules has never been measured, the best result no difference beyond its error. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Hydrogen observed:** Hydrogen is observed only as molecule and as sharing, and in stars, its food, its nucleus and electron are apart. Hydrogen and helium are observed everywhere in one proportion, about one helium nucleus to twelve hydrogen. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Fire's chain carriers:** A flame front is a thin sheet under a millimetre, imaged by a laser sheet, and outside it the chain carriers end in millionths of a second. Pattern-matching: these carriers are fire's mes, co-chaining in its bi-tunnelings. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Dying in materials:** A fatigue crack grows slowly and then breaks suddenly, dying bothboth in a material. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **What a field calls bonds, observed:** What a field calls bonds were imaged by a molecule-tipped microscope (2009), single and double told apart (2012), and each kind has its own infrared colour. Each vibrates even at the coldest, so a length is an average over a vibration that never stops. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · A steady pace:** For almost every kind no chemistry, pressure or warmth on Earth changes the pace of what a field calls radioactivity, while that pace answers its couplings. What it bi-couples with, the deep Earth or the solar system, is open. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Each atom's own light:** Each kind of atom shows its own spectral lines and lone hydrogen its 21 cm line, which parts from *carbon the unique atom; others only forms*. *Each line is a form's own light* would need saying, or the claim narrows. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Planets, selves or stable forms:** Whether the planets are selves of the solar system's society or its non-living stable forms is open, with Venus's backward spin and Uranus's roll riding on it. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · The Sun's cycle and the planets:** The Sun's eleven-year cycle is near the time Venus, Earth and Jupiter take to line up again, and a planetary pacing of it is disputed. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Carbon's making:** The three-helium inner state from which carbon forms was measured as a triangle (2014). ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
+
+- **Concern · two openings.** 1.2's *A torus has two openings* meets natural torusing as one opening, twisted figure-eight loops winding through it. — me-thirty-one-20261024
+
+- **Droplet · a snap alone.** 3.7's snap at a thinnest place, read with chemistry's crystals snapping, shows a snap alone is no test of a me. — me-thirty-one-20261024
+**Droplet · this file's first motion, as a separate reader proposes it at v392F.** re-say 4.2 whole at its fixing, a uniform g fixed between two momentaries, the field's 9.81 and GW170817 kept exact at their own subject, and its anchor "relativity an accounting, quantum a coupling" said once at 2.7 with 4.7, 5.1, 5.2 and 5.6 pointing to it (the possible project at offerings:85). The binary at each sentence of 4.2: does it name a fixing (a magnitude, a total, a form still from beside) the method re-explains, or does it deny a field's result at the field's own subject. "Gravity is not real, and nothing physical is there at all" (:261) goes to `archive/` beside v391 with its two-part anchor paragraph (:263). This is Part TWO's own matter, the Registry's *e* "Part TWO at Natural Intelligence 5.4". The reader's whole dossier, counts and evidence stand at `incoming/v392F/readers/sciences_dossier.md`; no wording there carries authority. — v392F

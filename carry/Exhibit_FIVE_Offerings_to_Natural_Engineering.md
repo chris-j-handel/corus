@@ -245,3 +245,12 @@ The lived and engineering entries are two approaches through the reader's own co
 - **At 4.3 · a concern-journey is side-effecting.** Following a concern past a plan is the sensing, droplets brought back the returning, re-aiming the recursioning.
 
 - **Machines and AI non-living.** A trained model, a computer virus, artificial life: stable-forming emanations of living people; intelligence alone stand-alone knowledge; a self's relation to it the self's parity relative to it.
+
+## Incoming · v392chem
+
+- **Dying in materials:** A fatigue crack grows slowly and then breaks suddenly, dying bothboth in a material. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+## Concern from the managing working · v392F
+
+**Concern · citations riding at the living file.** 119 links to fields' sources ride in Natural Engineering's body, while a source a finding rests on goes with its finding to its file's carrying (Geodesic Improving Method 2.8) and a living file carries its observing apart from the field's explaining of it; each link dissolves at this file's own motion, its source going whole to Carryings of Natural Engineering. — v392F
+
+**Droplet · this file's first motion, as a separate reader proposes it at v392F.** the 119 links dissolve whole at one motion, each source going to Carryings of Natural Engineering with the sentence it rests on, the living sentence keeping the finder's name and the field's own words; the binary: after the motion, does `grep -c '](http' ` give 0 at the living file and does each dissolved link's source stand at the carryings by a match of its address. With it, the 20 "Concern · at a sentence" items whose code strings are at 0 sayings go to the archive as met at v391, each with the 4.10 line that holds its case now; the THIRTEEN §7.3 pointer (living:1024, 1712, 1848) and 6.1's prefix table stand as the two code items still open. The reader's whole dossier, counts and evidence stand at `incoming/v392F/readers/numbers_to_transmissioning_dossier.md`; no wording there carries authority. — v392F

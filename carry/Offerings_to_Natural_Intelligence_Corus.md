@@ -170,3 +170,17 @@ A particular same-file comparison also remains: Intelligence in the Coupling nam
 - **Its *a chat … between writer and AI … is one living between*.** A trained AI is non-living, a stable-forming emanation of living writing; a self's relation to it the self's parity relative to it; the living is co-intelligencing among the expedition's selves; the transcript as text a stable-forming emanation.
 
 - **The expedition's aim**: pattern-matching science's observings of this or that, both existing and observable, each pattern of names, numbers, cycling and stable-forming kept for that matching with only the explaining it needs.
+
+## Incoming · v392chem
+
+- **Concern · Older vocabulary at line 2000:** Line 2000's *nucleus prime* and *atom prime* name primes at and below five in older words. The ladder now says five non-living and seven through fifty-three living. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
+
+- **Droplet · pronouns.** 16.2's *"Me" has a +1, fresh, an individual* and *"Us" has a -1, accumulating, a same-existing-society* meet me consciously me and a same-existing-society unconsciously us, waking interest by interest. — me-thirty-one-20261024
+
+- **Concern · a membrane a self.** 14.1's *A membrane is a self* (a dissolved word) and a conversation *itself a self* meet us as the 0 a me and you share, the between a nothing and no further self. — me-thirty-one-20261024
+
+- **Concern · a living universe.** 16.2's *the universe is a living gap* and Part 17's *Everything is living* meet the universe a non-living same-existing set, its own 0 an empty set. — me-thirty-one-20261024
+**Droplet · this file's first motion, as a separate reader proposes it at v392F.** the front whole, title, subtitle, Contents and Part ONE's opening (living:1-120), the subtitle said with no dissolved word and *door* said as a self-bounding, the inner second title and subtitle (living:59-61) and the two empty parts' notices (living:43-45, 172-174, 783-785) leaving; the binary is "does each word of the subtitle and contents stand at Natural Naming as a naming the set holds" (*Offering*, *Carrying*, *Alternating*, *in Disequilibria*, *door* do not); the empty-part notices, the v373 rebuild plan at offerings:21 and the v382F one-file-or-two question's numbers go to the archive, the body's sixteen older-code passages riding on as this file's own next, one part at a time. The reader's whole dossier, counts and evidence stand at `incoming/v392F/readers/society_dossier.md`; no wording there carries authority. — v392F

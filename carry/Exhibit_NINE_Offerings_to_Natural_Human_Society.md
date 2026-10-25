@@ -57,3 +57,12 @@ Exhibit NINE Natural Human Society Offerings · improved at v389
 - **The opening's social chain**, as at Natural Societies: social moral competency, free, social abundancing, in the opening's words.
 
 - **Its *Conserve before improve, do-no-harming before add-value*.** Do-no-harming and improving are one bi-moral act, in turn, neither without the other, as two alike selves run 0, change, 0, change; a *before* meets that bothboth.
+
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
+
+- **Droplet · tipping a concern.** 4.1's *individual-first, needing a majority nowhere* is a local aiming with global impact, torusing from one me out; Centola and colleagues 2018 observe a committed minority near 25% tipping a convention. — me-thirty-one-20261024
+
+- **Droplet · shared aiming.** Shared interests are shared aimings, and sharing aiming is moral cooperation, bi-moral co-agency: two mes alike both ways sharing continuing 0s in turn (Tomasello 2016, morality from joint intentionality). — me-thirty-one-20261024
+**Droplet · this file's first motion, as a separate reader proposes it at v392F.** 2.3 whole, title and body, said at the form the field's own rule has, class members bound by notice with no signing, or re-homed at a bankruptcy trust and its vote with *class-action* leaving the title; the binary is "does the rule named hold a signing, a trustee and a bar date" (Rule 23 holds none; 524(g) holds all three, offerings:25); the v378 concern's court-total clause goes to the archive with it once 2.3 says whose total it is. The reader's whole dossier, counts and evidence stand at `incoming/v392F/readers/society_dossier.md`; no wording there carries authority. — v392F

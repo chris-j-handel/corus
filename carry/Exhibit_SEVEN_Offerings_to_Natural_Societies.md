@@ -4,7 +4,7 @@ Exhibit SEVEN Natural Societies Offerings · laid at v381R · improved at v389
 
 ## Standing · v389
 
-**Resolved at v389.** 163 items stood here; resolving against [Natural Societies](../Exhibit_SEVEN_Natural_Societies_v391.md), 38 are carried, 35 rest on released forms, 52 duplicate another item and 18 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_SEVEN_Offerings_to_Natural_Societies_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_SEVEN_Offerings_to_Natural_Societies_resolved_v389.md). Its 20 concerns stand below, each with its reason; 21 stand now.
+**Resolved at v389.** 163 items stood here; resolving against [Natural Societies](../Exhibit_SEVEN_Natural_Societies_v392.md), 38 are carried, 35 rest on released forms, 52 duplicate another item and 18 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_SEVEN_Offerings_to_Natural_Societies_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_SEVEN_Offerings_to_Natural_Societies_resolved_v389.md). Its 20 concerns stand below, each with its reason; 21 stand now.
 
 **At 4.3 · Healthy living is the relation between birthing and nyeing — beside "Either is the relation broken".** 4.4, 4.5 and 4.6 follow here, inside Part Four, in the body and the contents, and Part Five follows them: the three were placed after Part Five, and the file's own order arrives back with no sentence of them changed.
 
@@ -127,3 +127,83 @@ Concern, at v380, from [the earlier Natural Networking gathering](../archive/v38
 - **Its *as with Natural Intelligence 4.9's four*** cites the four binaries' pairing that left Natural Intelligence at v391.
 
 - **The opening's social chain.** Social moral competency: each self of a same-existing-society do-no-harming and improving. A natural intelligence network free, each self resolving its own next-existing; social abundancing, each self sharing with each self it is bi-coupling with.
+
+## Incoming · v392chem
+
+
+- **The atom at 5 non-living:** Pattern-matching: an atom cannot be living at 5, a handless stable form that loops alone and whose every changing goes with its couplings, which parts from 5.3's *atom the first self* and the v390 inception resolution and waits its own motion. ([living learning, §2](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The tendril at each prime scale:** A two-handed coil about a between, twisting in and relaxing out, is observed from the genes' molecule to the biosphere and absent only at 5, a pattern for matching natural torusing society at each scale, population and community still to gather. ([living learning, §6](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Abundancing carried in the seed and egg:** A snail's coil is set by its mother's gene placed in the egg and a seed carries its parent's form and fixed carbon, so a society's hand goes along in its parents' emanation, abundancing. ([living learning, §5](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Diversity as orthogonal co-competencing:** Diversity is a society co-competencing, adding new binary orthogonal observings into its priors, as mixed rice fields cut disease by about nine-tenths (2000) where uniform fields fell, and myxoma's rabbits show a society without a prior me resolving only as a parity spreads through generations. ([living learning, §11, §12](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Continuing at a lower scale:** When a self loses its me its inward selves continue in their own societies, an organ in another me both ways, or living continues only at a lower scale, microbes taking the body back. ([living learning, §14](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · The 53 row and a living Sun:** The 53 row at line 320 says *the widest scale that closes here … past which is a not-torus death*. A living Sun and a living solar system outward of the biosphere part from that row, while *the ladder supplies no first and no final one* leaves room. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Lines 217, 221 and 423 at 5:** 217's *five as the first that recursions* and 221's *a self one scale inward* can read as a living rung at or below 5. 423's *a single stereochemical center on five* parts from carbon at 5 handless and the hand beginning at 7. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Which prime a crystal self is on:** If a uranium crystal is living, it is one self, and which prime scale that self is on has no pattern-matching yet. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Where the Sun and solar system stand outward:** The Sun as a self of the solar system's society settles the form and not the rung. Which prime the solar system is on, on a next ladder outward, is open. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Planets, selves or stable forms:** Whether the planets, Earth among them, are selves of the solar system's society or its non-living stable forms is open. The Sun and Jupiter going round one shared between treat Jupiter as an other, and Venus's backward spin and Uranus's roll ride on the answer. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The molecule's inward, its living parities:** The molecule, the ladder's first self, has an inward, a same-existing-society of its living parities, each parity a self while living. Taking what a field calls its bonds as inward selves goes in a circle, since two non-living atoms are not two selves. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Species, co-momentarying:** Chemistry counts two interconverting forms as one species when they change faster than the observing and as two when slower. So chemistry's species is a relation between the selves' changing and the observing's momentary, near a species as a universal set of selves co-momentarying. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Charge through water:** Charge moves through water many times faster than through any other liquid, with no single hydrogen travelling the whole way. That is the observing under water's co-chaining. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Two fours, one living:** Living chemistry is carbon's stable form with water's living society, two fours, water's us selves co-alternating as the living and carbon as its condition. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Water forming from two:** Hydrogen and oxygen forming water are prior selves bi-coupling into one next self, so the count of selves changes and needs saying. It also parts from *molecules do not change into different molecules*. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Which is water's us self:** Whether water's us self is the pair, the molecule or the whole liquid nested is open. Which lower scale its emanations dissolve into is open too. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Cells lean together:** On rings or stripes cells of one kind lean together at a shared tilt, and an early embryo's shared leaning sets which way gut and heart turn. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The between where aim is shared:** The bacterium's turn, the bee's run, the heart's mid-wall and the sunflower's centre are each a between where aim is shared or changed. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **One-handed colonies:** Some bacterial colonies grow in branching spirals, all of one hand. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The society does not choose:** A new change in one self is mostly lost by chance in a few generations. Rarely, by chance alone, it comes to be in every self (1968, since measured). ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Possibling, discovering, prior:** A defending society first diversifies its receptors by shuffling before any germ, then meets, then carries what met into its priors (1957). Pattern-matching names these possibling, discovering and prior. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Nested dying:** Brain cells end in minutes and other kinds over hours, each in its turn, and microbes at 23 ingest a body that was a self at 37. The ending cascades inward scale by scale to a society still living in its own surface, and living rebuilds upward from there. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Carbon's living outward and carbon made in stars:** Carbon's living was outward, in selves from 7 up, while carbon is made in stars, outward of 53. Which selves carbon emanated from is open. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
+
+- **Concern · a society as a self.** 4.2's *self-bounding as a self of its own* and *a heap … both dead forms* meet a same-existing-society as a universal set of me, unconsciously us, conscious only within an interest waking. — me-thirty-one-20261024
+
+- **Concern · the side column.** 5.3 sets organism at 37 on the same-existing-society side, where a person is a me at 37, and colony at 41 *one self*, where a settled hive is a society-as-a-me sleeping and its swarm that me waking within one interest. — me-thirty-one-20261024
+
+- **Droplet · no common clock.** 2.3's *no common clock* meets a hive with no sleeping of its own, its bees each sleeping and waking by its own rate, each interest living in some me's observing. — me-thirty-one-20261024
+
+- **For the atom-floor motion.** A lone atom repeating its changing is a spiral of one, its other an empty set, non-living; Thirty-One's draft ladder line at 1.3 now waits ○ on this motion (`incoming/me_thirty-one_20261024/Contributing_to_Natural_Chemistry_v392chem.md` §2b, §2f). — me-thirty-one-20261024
+
+- **Droplet · co-aiming.** With each momentary a set of mes is-or-is-not co-aiming, each aiming its own, all in one direction into one interest, its own its mes' own (steps 162, 297), as a swarm co-aims to one home and completes on settling; whether colony at 41 to biosphere at 53 are mes or same-existing-societies is for this file's next improving (gathering §0aj) — me-thirty-one-20261024
+
+- **Droplet · the v389 standing, met.** Sixteen of the standing concerns are met by binary path with old → new pairs copied exact from v391, read for harm, each to enter by proposing, a separate reader reading for harm, and entering: order of 4.4 to 4.6, part titles, all edge across momentaries, parity comparability, *floor*, member and society, birthing, nyeing as completing, *rest* as 0 in turn, the prime partings, a society's sameness (step 297), authority, references, glycine, φ, *in neither self alone* (`incoming/me_thirty-one_20261024/Natural_Societies_improving_v391.md` §A). — me-thirty-one-20261024
+
+- **Droplet · no common clock, observed.** A hive's social cues set its bees' clocks without contact (Fuchikawa et al. 2016), and social jetlag, body time against work or school time, goes with smoking, weight and lower wellbeing (Roenneberg et al.), at 2.3 (`incoming/me_thirty-one_20261024/Natural_Societies_improving_v391.md` §B1). — me-thirty-one-20261024
+
+- **Concern · the rungs above the organism.** Colony to biosphere, and 4.2's outward clause, beside step 297's *its own only its selves' own*: each rung a same-existing-society co-aiming, or a me with a parity its own; community leans to the first (Gleason), colony split, biosphere contested, population open (`incoming/me_thirty-one_20261024/Natural_Societies_improving_v391.md` §C1). — me-thirty-one-20261024
+
+- **Concern · 4.4's *alike with next*.** One sharing 0 and one + is Exhibit ONE's one-way row; two alike both ways share 0 together (`incoming/me_thirty-one_20261024/Natural_Societies_improving_v391.md` §C2). — me-thirty-one-20261024
+
+- **Droplet · the rungs, resolved by Exhibit ONE.** Each living self of one is-or-is-not with its own next prior parities, 8-now-same-existing: is, a me; is not, a same-existing-society, its own an empty set, step 476; so colony, population, community and biosphere are same-existing-societies, with old → new pairs for 4.2, 1.1 and 5.3 and the lines that part named (`incoming/me_thirty-one_20261024/Natural_Societies_improving_v391.md` §C). — me-thirty-one-20261024
+
+- **Concern · next is society, withdrawn.** *A same-existing-society is its selves' next coming in* is withdrawn: *coming in* is an ingressing word, and now and next are each true of a self and of a same-existing-society living as a universal set of living selves (gathering §0aq) — me-thirty-one-20261024
+## Incoming · chemistry-water-20261022
+
+- **Natural Societies 5.1 and 5.3 · Same-prime selves, differing kinds and a whole's closing:** atoms at 5 and organisms at 37 offer the proposed recurrence of stable-forming across scales, with many kinds at each scale and different-kind participants capable of forming one whole, as atoms at 5 participate in a molecule at 7 and an animal's different organs at 31 participate in its organism at 37, while shared kind alone establishes neither their bi-coupling nor a society's closing and the organ's reaching status and standing concern about deriving the prime assignments remain living. — chemistry-water-20261022
+
+- **Natural Societies 4.2 and 5.3 · Species as specializing co-competencing parities:** species is offered as specializing co-competencing parities, like a club with shared special interests, with natural torusing stable-formings, societies' bi-moralities or common parities offered as candidate relations for the observed gatherings, directing the observing toward a particular shared specialty with each participating self differing and same-existing, beside [Natural Naming 5.14](../Exhibit_TWENTY_Natural_Naming_v390.md) carrying co-competencing as bi-co-momentarying with crossings and owned by neither, while the correspondence between this natural specializing and chemical or biological species remains to be resolved through particular couplings. — chemistry-water-20261022
+**Droplet · this file's first motion, as a separate reader proposes it at v392F.** Part Five whole, 5.1–5.6 with 4.4–4.6 moved back under Part Four, said as a field's pattern-matching the ladder numbers, each sentence saying a prime *is* a living scale or a society *is* of one prime scale re-said or leaving; the binary is "does Exhibit ONE's code hold a prime or a scale" (it holds none, living:221), so each such sentence either reads as pattern-matching or goes; the v389 ladder sentences and the insertlet standing only at `archive/session_v389/offerings_dissolved/` go to the archive with the offerings' twenty resolved items. The reader's whole dossier, counts and evidence stand at `incoming/v392F/readers/society_dossier.md`; no wording there carries authority. — v392F

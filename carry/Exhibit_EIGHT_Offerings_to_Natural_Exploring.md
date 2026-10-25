@@ -81,3 +81,10 @@ Defect: Natural Exploring, sections as bold paragraphs, not headings. (Re-Settli
 **Concern · at a sentence.** Beside "the carry the membrane between two files' workings."
 
 *Standing at v389:* 7.1 holds "the carry the membrane between two files' workings". Natural Naming 2.4 carries *membrane* as *a between*, "a nothing, no location and no existing thing", and at an instrument as *a ledger*; a carry carries, so neither sits plainly. **To resolve:** is a carry here *a ledger between two files' workings*, or *a between*, two files' workings at its two ends?
+
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
+
+- **Concern · a society discovering.** 6.1's *a same-existing-society discovering as a self discovers* meets discovering as a waking me's, a same-existing-society's discovering its mes' newly aiming 0s within an interest. — me-thirty-one-20261024
+**Droplet · this file's first motion, as a separate reader proposes it at v392F.** the 47 bold section openers and seven `# N` parts become `#`/`##` headings whole, each title as its contents line already has it, words unchanged; the binary is "does each contents line match its body heading word for word" (`contents_check.py`); nothing goes to the archive, the resettling_v373 defect dissolving as carried and the four v386EOD distribution plans riding on as set-wide. The reader's whole dossier, counts and evidence stand at `incoming/v392F/readers/society_dossier.md`; no wording there carries authority. — v392F

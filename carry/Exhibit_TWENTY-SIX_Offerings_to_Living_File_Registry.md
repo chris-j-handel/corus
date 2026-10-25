@@ -156,3 +156,29 @@ The two kit scripts that execute Exhibit ONE's code now find 1 and 17 by number,
 *Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
 
 - **Its Hard Problem Registry cell** says readers stopped *twice*; the session's record is three times, two on its last quarter and one on its third.
+
+## Incoming · v392chem
+
+- **Concern · *Coupling with a bond*, at 672:** Line 672's *water molecules coupling with a bond* names a bond, while Natural Chemistry now enters no bond. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The atom-floor motion entered:** At v392 the atom-floor motion entered 57 sentences in 11 files, the ladder's first self at 7 and 5 non-living. Natural Numbers, Naming and Networking say *five non-living, seven through fifty-three living* with no word *floor*, a catching word there. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
+
+- **Droplet · Thirty-One's standing.** Exhibit THIRTY-ONE Me has its incoming arrived at `incoming/me_thirty-one_20261024/`, a next-version draft and its open places, for its next motion. — me-thirty-one-20261024
+## From the managing working's reading of this file whole · v392F
+
+**Droplet · three subtitle cells part from their files.** 1.1's *a* cells read *Co-Offerings* for Natural Emanating (the file: *Co-Sharings*), *Co-Abundancing Received Value* for Natural Values (the file: *Co-Abundancing, Receiving Value*) and *Carrying Incoming Value* for the Geodesic Improving Method (the file: *Bringing*); each cell follows its file's subtitle at this file's motion, a match by text. — v392F
+
+**Droplet · twenty-two *Next* cells read the bump tool's default.** *pass 4 at its possible projects* stands at twenty-two rows as `bump_to_version.py` wrote it; each file's possibling holds its next, and the cell takes it at this file's motion. — v392F
+
+**Droplet · Exhibit ONE's row, two cells broken at v390's narrowing.** Its *d* reads *0 and −, −, +* and its *e* runs 10,262 characters from *0 at surfacing*, a v387 *c* text with two literal pipes read as cell borders; the pre-narrowing text at `archive/session_v390/prior_to_narrowing_tables/` holds *d* as — and *e* as its own, and the cells mend from it. — v392F
+
+**Concern · 1.1's *Living* cells carry the done.** Each row's *c* cell accumulates every version's entries, 93 at Natural Intelligence, 48 at THIRTY, 32 at Exhibit ONE and Natural Naming, 93 KB of this file's 225 KB, while 1.2 says the Session Record carries the done and a going on holds no history (Geodesic Improving Method 1.6); the cell at its last improving only, the prior entries whole to the Session Record. — v392F
+
+**Concern · 1.3's places table and workings table stand at v375 to v381.** The places table names ten `incoming/` folders that stand nowhere now and *Standing at v375* as its column; the workings table holds twenty-one workings, all closed but v391's, whose row says *not merged* after pull request 148; a working closes by passing its row to the Session Record, 1.3's own rule. — v392F
+
+**Concern · 1.5 and Part FIVE carry a plan the set has passed.** SIX, FOURTEEN and TWENTY-FOUR dissolving by a receiving plan, TWENTY-FOUR *combining within EIGHT* with a title of its own, were written before the Geodesic Improving Method became the method itself (its 1.3, *this file is the method*); each receiving with open value belongs at the possibling of the file it names, the plan whole to the archive, and 1.2's three re-said with the opening's living-file line and the method's 2.8. — v392F
+
+**Droplet · Part THREE's gatherings grown with the measured couplings.** Counting which living files name which (`incoming/v392F/readers/measures_v392F.md`), Exhibit ONE is named by nineteen files, Natural Naming by fifteen, Natural Intelligence by thirteen, Natural Numbers by eleven, the Hard Problem Registry by nine; 3.1's ten gatherings fold into eight touring clusters each with its hub, the fractal method itself, numbers and forms, networking and making, the sciences, society and the expedition, the registries of problems and observings, the set's own instruments, and Me, with the across-cluster gatherings kept as seams at Part FOUR; offered for 3.1's next form, at `incoming/v392F/Improving_Plan_v392F.md`. — v392F

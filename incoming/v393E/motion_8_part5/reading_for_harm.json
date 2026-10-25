@@ -1,0 +1,80 @@
+{
+ "findings": [
+  {
+   "pair": 1,
+   "finding": "The added odd-fermion clause makes the sentence contradict itself ('each squaring to the identity' then time reversal squaring to minus the identity) and contradicts the next sentence 'Each is an involution' (pair 2), 5.2's 'each involution but two has a fixed set' and 'Equilibrium for time reversal'; the cited observing needs the paired energy levels and an exception stated in 5.1-5.2 or it is left out; 'a state returning with its sign changing' is also unclear. Also 'a thermodynamics exchanging by it which of its terms' is clumsy. Proposed drops the clause (author may restore it only with pairs 2 and 3 saying the exception).",
+   "proposed_new": "Each accounting for changing has a move, applying twice, returning the thing it reaches. Negation: not-not is that thing again. Reflection: reflecting twice returns its facing. Time reversal, charge conjugation and parity, each squaring to the identity. Complex conjugation. Additive inverse and multiplicative inverse. Transpose. Legendre transform, twice, returning its potential; by it a thermodynamics exchanges which of its terms stands independent. Set complement."
+  },
+  {
+   "pair": 4,
+   "finding": "Dropping 'So' leaves the sentence an unlinked assertion; the old drew it from the fixed set being each accounting's place of counting, and Naming 2.4 says to open with the prior sentence's corus. Proposed restores the link without 'so'.",
+   "proposed_new": "By its fixed set, accountings and floors are one thing, a self observing it two ways. An involution is a floor stating its move, and a floor is an involution dropping its move."
+  },
+  {
+   "pair": 5,
+   "finding": "'its returning' is ambiguous (the self's or the involution's) and the old 'no place is of it' is not clearly kept; 'step' for 'turn' is fine. Clearer wording proposed.",
+   "proposed_new": "With an involution a self returns its own parity after two steps, the returning at no place."
+  },
+  {
+   "pair": 6,
+   "finding": "Meaning changed: 'A fixed set is both steps collapsing to one' makes a set (of arguments) into an event, and 'it is a changing reaching nothing' makes the set a changing; the old said it is the place where this happens. Proposed keeps the set and puts the collapsing at it.",
+   "proposed_new": "A fixed set is the set at which both steps collapse to one: a changing reaching no other to change back with, a move and its returning one same move. It is-not a location an object occupies; at it, a changing reaches nothing to change back against."
+  },
+  {
+   "pair": 7,
+   "finding": "'so completely' uses dissolved 'so'; 'bi-coupling at none' is ambiguous (reads as at none of the selves) where the old was 'no coupling at all'; 'sets its zero at its own changing reaching nothing' puts a zero at an event, not a place; 'Both are a changing reaching nothing' equates conditions with a changing (old: conditions where it does). The old 'Which is why' tie of the two ends to the fixing is softened into a bare finding.",
+   "proposed_new": "Each accounting sets its zero at the place its own changing reaches nothing, and counts outward from there. A self finds two ends with each floor: no bi-coupling at all, and each member agreeing completely, no parity going across. In both, a changing reaches nothing to change back with, and an involution's fixing is exactly that."
+  },
+  {
+   "pair": 8,
+   "finding": "Meaning changed: 'nothing altering it' (nothing alters the involution) became 'unaltering' (the involution alters nothing), reversing the direction of the claim. Rest reads whole.",
+   "proposed_new": "A balance point of a symmetric thing rides its own axis of balance by its being such a point. A self recognises an axis and does not derive it, symmetry standing with nothing more basic beneath it to derive a seating from. Loosening, a fixed set stands as a bi-coupling and at no place: a bounding-zeroing a bi-coupling reaches, is-or-is-not, inverting with each momentary. An involution stands, its proof standing, nothing altering it. A place goes."
+  },
+  {
+   "pair": 9,
+   "finding": "Value lost and meaning changed: 'and not both' (a three is one kind or the other) became 'one at a time', which reads as state and flow alternating and duplicates the flow-three clause that follows.",
+   "proposed_new": "A three goes as a state or as a flow and is-not both, and both change and change back. A state-three counts the things standing and is rateless; a flow-three goes one at a time and counts nothing. Neither reverses its other, and both ways go forward."
+  },
+  {
+   "pair": 10,
+   "finding": "(a) 'This is why' dropped, so the fourth-is-not claim no longer follows from 5.4's first paragraph; (b) 'state and flow being each thing that changes' loses 'all of what': it no longer says the two exhaust what changes and changes back; (c) F1 sentence: 'step its round' is unclear (the cited step is 80 plus 40 degrees within a step, not portions of the round), the motor is unnamed so 'its field' has no referent, and 'each unit open, loose and tight' reads as simultaneous. Proposed names F1-ATPase and keeps the cited strength.",
+   "proposed_new": "An accounting returns three by this, and a fourth is-not: a total is a state-three, a level is a state-three, a direction is a flow-three, state and flow being the whole of the things that change and change back. A cube's moves reach one twelfth of its assemblies, parting by three books conserving, corners twisting by threes, edges flipping by twos and a permutation's parity by twos: an accounting's three with a ledger, a field's instance of it, with no proof beneath it. F1-ATPase, a rotary motor of three units, steps in 80-degree and 40-degree portions as its field reports, and its field's usual description has each unit going open, loose and tight."
+  },
+  {
+   "pair": 11,
+   "finding": "'where a flow goes' and 'where a same-existing goes' keep dissolved 'where' (pairs 3 and 7 already removed theirs); re-say as the going itself.",
+   "proposed_new": "And each accounting comes short at a changing between state and flow. State to flow is a count exhausting; flow to state is a rate landing. An account of state-threes alone fixes a flow as pieces; an account of flow-threes alone fixes a standing as a rate. Each ghost stands with one of two changings: a level fixing a flow's going, or a store fixing a same-existing's going on."
+  },
+  {
+   "pair": 12,
+   "finding": "'sized' is a dead -ed form, and the old negative 'no column for a thing of no size' became a positive 'columns are for sized things'; 'a clock is-not measuring it' also weakens 'no clock measures it' only slightly (acceptable). Proposed removes 'sized'.",
+   "proposed_new": "An accounting has counts, levels and rates, and a changing between a state and a flow is-not one of these three. A tipping enumerates nothing: it is-not a count. A tipping is of its own rate, relating to no other living rate: a clock is-not measuring it. It is a parity a self takes with a between, binary and sizeless, and an accounting's columns are for things with a size."
+  },
+  {
+   "pair": 13,
+   "finding": "Meaning changed: 'falls short ... at no one place' implies it falls short, but not at one place; the old said an accounting shows no shortfall at a changing because it cannot reach one. 'nothing that could reach one' also weakened to 'nothing reaching one' (capacity lost); 'a level as a flow reaches' shifts where to as (when). Proposed restores both.",
+   "proposed_new": "An accounting shows no falling short at a changing: it has nothing possibly reaching one, and it converts the thing it reaches to the nearest thing it has, a level at a flow reaching a standing, a rate at a standing opening to a flow."
+  },
+  {
+   "pair": 14,
+   "finding": "(a) 'keeps' is dissolved (keep -> has); (b) 'finding' is dissolved (finders, findings) and 'surviving finding is members happening to agree' is unclear against the old 'what survives is where members agree'; (c) closure phase: 'baseline errors' loses 'baseline-specific', 'the visibilities' loses that there are three, 'free of each station's own reference' is looser than 'no particular reference is needed', and 'additive noise ... remaining' is left hanging off the clause. Proposed fixes all four at the cited strength.",
+   "proposed_new": "And each instrument fixes to a clock all share while each self paces its own, an instrument fixing a tipping at its clock's tick rather than at the tipping. An observing leaves members happening to agree with a clock all share. In closure phase, around a triangle of three stations, the product of the three visibilities has none of the stations' own phases and needs no particular reference; additive noise and baseline-specific errors remain."
+  },
+  {
+   "pair": 15,
+   "finding": "'where an accounting forks' keeps dissolved 'where' (same as pair 11); 'its arithmetic whole' is a slightly different claim from 'nothing against its arithmetic' but reads acceptably. Proposed re-says the fork as at the changing.",
+   "proposed_new": "A geodesic method is clockless, floorless and free of a magnitude, co-linear with a changing, at which an accounting forks. This makes it a competency method rather than a better accounting, and it leaves an accounting competent with each thing it has, counting, levelling, rating and closing states and flows, its arithmetic whole."
+  },
+  {
+   "pair": 16,
+   "finding": "Value lost: the old act of loosening each accounting ('disequilibrates') is now only 'observes', and loosening appears only as the prior ones; the subject change from method to self is right (method has no act of its own, Naming 2.4). Proposed keeps the loosening and mirrors 3.3's 'has the consequence of each prior removing'.",
+   "proposed_new": "A self observes accountings one at a time, loosening each, and each observing has the consequence of each prior loosening."
+  },
+  {
+   "pair": 17,
+   "finding": "Clumsy: 'A self loosening a fixed set from its place, that place is-not ...' is a dangling absolute with a comma join, and the closing claim 'what a method removes is same-existing nowhere' is now only carried by the pointer '3.3' (the pointer is on the right section, 3.3 says a trail is-not wanting a re-testing). Clearer wording proposed.",
+   "proposed_new": "An accounting a self loosens is-not returning with a next observing. At a self's loosening of a fixed set from its place, that place is-not same-existing for a later accounting to reach for, and a current observing already has its consequence: a trail is-not wanting a re-testing for being a trail, 3.3."
+  }
+ ],
+ "verdict": "mend"
+}

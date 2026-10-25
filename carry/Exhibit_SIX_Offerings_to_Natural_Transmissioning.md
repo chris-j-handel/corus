@@ -51,3 +51,12 @@ Exhibit SIX Natural Transmissioning Offerings · improved at v386EOD
 *Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
 
 - **Its way in.** A field's observing pattern-matched with the resolver's entry, as Natural Physics does; the resolver names used as tags meet that, each science file carrying its own way in.
+
+## Incoming · v392chem
+
+- **Concern · Two selves stay, cancelling, at 95–101:** These lines say two selves stay, each on its own side, and a sharing across is sign-only because two that stay cancel. Natural Chemistry 1.4 now enters *Two selves' parities release and go along, so their 0 goes across*, and these lines part from it. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **No pairing lasts:** In water each pairing forms and dissolves in about a trillionth of a second. So the parities release and the selves go on. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **A self's 9 goes to an other's 17:** Natural Chemistry 1.4 now says two selves as one bi-coupling, each parity releasing at its 9-next-co-discovering and going along at its other's 17-next-existing, as Exhibit ONE draws. One self does not take both the 9 and the 17. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+**Droplet · this file's first motion, as a separate reader proposes it at v392F.** 3.5's one sentence met whole with the set's *membrane* — "every coupling goes across a membrane that is itself a living set: a self, a nothing between two selves, with only its sign" (living:177) said by what is, a cell's bounding in biology's words and a between a nothing with no self at it, read for harm against 4.6's "A between is not a place two reach and not a wall but a nothing" (living:220); the binary: does Natural Naming 2.4's row for *membrane*, "a between … a nothing, no location and no existing thing" (Natural_Naming:320), hold 3.5's sentence whole after the motion. The membrane concern and the v378 concern's membrane half go to the archive with it; "Transmissioning, at three sayings" stands as the one open claim deciding the two possible projects, for our word. The reader's whole dossier, counts and evidence stand at `incoming/v392F/readers/numbers_to_transmissioning_dossier.md`; no wording there carries authority. — v392F

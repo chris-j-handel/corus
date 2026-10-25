@@ -136,3 +136,54 @@ Exhibit TWENTY-ONE Hard Problem Registry Offerings · improved at v389
 - **Entries 122 on unread at v391**: readers stopped there three times on an automated flag; their flagged words mostly a field's own *carries* and *different*, standing as entries 58 to 121 do.
 
 - **Consciousness's hinge resolved toward *a me is consciousness***: a not-conscious self is-or-is-not possibly existing, it is not; consciousness with each scale where a self is; the field's collisions at IIT's exclusion and biology's cognition apart from consciousness. Exhibit THIRTY-ONE Me; `incoming/v391/Binary_Understanding_v391.md` part THREE.
+
+## Incoming · v392chem
+
+
+- **Homochirality after 2026:** The 2026 Nobel Prize in Chemistry recognised that a small excess of one hand is amplified, which settles amplification in the laboratory and leaves the source of the first hand as entry 63's crux. ([living learning, §5](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Self and non-self, entry 114:** Orthogonality to same-existing meets each breaking the entry records, the gut's microbes, the child, the tumour and damage, where origin as self or other parts from all four. ([living learning, §12](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Entry 120, met by orthogonality:** The hygiene question parts as fewer infections or as fewer and narrower orthogonal meetings early, and farm living, the peanut's way in and farm house dust given to mice (2016) meet the second. Early infections sometimes raise allergy, which parts from the first. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Entry 128, met by orthogonality:** A setpoint and an anticipation both fix a value, and the orthogonality binary returns none. Each change either goes on with the body's same-existing or parts from it. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Entry 237, a candidate:** Two X chromosomes are a bothboth, one mostly silenced in a patchwork with some defending genes escaping, and a child's cells live on with its mother for decades. Pattern-matching offers a candidate still to meet: women's mes carry more orthogonal directions, so more chances to mis-resolve one. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Allergy's first meeting, at 120:** Whether a first meeting through damaged skin sets the direction a new observing takes into the priors, or the me lacks the orthogonal directions it needed in time, is unsettled. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The nine first binaries:** Nine binaries are first for chemistry's survey: prenucleation with Natural Chemistry 4.7, water's critical point, the homochiral seed, QT45's reproduction (2026), motors by kinetic asymmetry, enzyme dynamics, the hydrated proton and hydroxide, the interface three, and group 3. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Bennu's near-equal hands, at 63:** Bennu's dust carries amino acids of both hands in near-equal amounts (2025), as non-living forming shows, while living shows one hand. The energy difference predicted between mirror molecules has never been measured, the best result no difference beyond its error. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Water's two liquids, at 195:** A 2026 experiment, still unreplicated, places water's second critical point near 210 K at about 1,000 atmospheres. That meets Natural Chemistry 4.2's single critical point as a field's fixing of a sway. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Interface claims not yet to enter:** Dark oxygen at the seafloor is unreplicated, microdroplet peroxide traces to dissolved oxygen meeting solid surfaces, and long decay lengths in concentrated salt now point to ion clusters or to the surfaces. None enters until a second instrument agrees. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Re-forming against parting:** Fibre exchange, epoxy networks, a two-phase crystal and a protein refolding whole into another fold each press on whether a self or society re-forms or parts. A molecule as one self through every stable form sharpens this. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **How a binary closes:** An observing binary closes when a second, independent instrument agrees. An explaining binary closes only once a criterion is stated. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · A graded nucleus without molecules:** The 2026 graded nucleus was observed in metal-alloy nanoparticles, which have no molecules, so *a molecule's form is-or-is-not at a crystal's edge* cannot reach it as said. Natural Chemistry 4.7 cites the 2021 salt-in-nanotube film for all-or-none, where our learning cites it as flickering. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Where the first hand begins, at 63:** Whether living's carbon fixing through a six, from 5 to 7, is where the hand begins, or the hand begins earlier, is open. Whether the hand is of living's own aiming or taken in already formed as food is open too. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
+
+- **Droplet · proposals.** Sleep (91), dreaming (123), personal identity (72), other minds (92), collective intentionality (227) and the zombie (111) each meet the session's me: a me same-existing through sleeping, us invisible by bi-coupling, a society unconsciously us, a me only unconscious not possibly existing. — me-thirty-one-20261024
+
+- **Droplet · dreaming, 123.** A proposal: dreaming is a sleeping me carrying, unchanging, while its inward selves release at their own scales; a received release is passed over, which meets most dreams gone on waking (gathering §0ab). — me-thirty-one-20261024
+
+- **Observing · sound in dreams, 123.** About half of dreams carry sound and under one percent touch, taste or smell (Hurovitz 1999, reading Snyder 1970 and Zadra 1998); outward sound is mostly not observed in sleep, so a dream's sound is inward. — me-thirty-one-20261024
+
+- **Droplet · personal identity, 72, fission.** A now is same-existing from one prior, its own, and receives many; of two continuers, one is-or-is-not same-existing, the other a newborn me (gathering §0ae). — me-thirty-one-20261024
+
+- **Droplet · a new entry, the problem of the many** (Unger 1980; Geach 1980; Lewis 1993): a cloud or a person has no sharp edge, so many overlapping sets have equal claim to be it; proposed as an entry, met for a living me as each cell is-or-is-not self with each momentary, all or none on each (`incoming/me_thirty-one_20261024/Me_and_not-me_values_parities_v391.md` §3). — me-thirty-one-20261024
+
+- **Droplet · a new entry, the combination problem** (James 1890, mind-dust; Chalmers 2017): how lower subjects make a higher one; met as lower mes are-or-are-not combining into a higher me: they are not, a me a thing and a set, one binary, its own as a parity at its scale and its inward mes' own as a set (gathering §0ai). — me-thirty-one-20261024
+
+- **Droplet · 207 multicellularity.** Snowflake yeast (Ratcliff et al. 2012): cells selected for settling stay joined and settle as one, cells co-aiming, each cell its own (gathering §0aj). — me-thirty-one-20261024
+
+- **Droplet · 98 Anesthesia.** Chemically diverse agents, one form: for the disconnected, a bi-coupling across scales separating on the larger scale's side and the smaller scale floating, each its own, coheres with Resolving 5.9's *one convergent quieting of a network's long couplings*; the critical volume's swelling and its partial pressure reversal stand as history beside protein targets (gathering §0am). — me-thirty-one-20261024
+**Droplet · this file's first motion, as a separate reader proposes it at v392F.** the "**Conditions prior.** The statement holds across readings. The terms have determinate reference. The accounts hold their truth value while under test. A procedure repeating returns the same outcome independently of what precedes it. Nothing prior enters." sentence dissolves from each of 255 entries whole, the five standing once at "The conditions prior" (file:19–37) and at the form (file:177, :211); the binary: is each entry's line identical to the front's five, a match by text (Geodesic Improving Method 1.5); the 255 lines, each with its entry number, to `archive/`. The reader's whole dossier, counts and evidence stand at `incoming/v392F/readers/registries_dossier.md`; no wording there carries authority. — v392F

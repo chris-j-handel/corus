@@ -63,3 +63,54 @@ The user's further offering is: “if the living stable form is colliding with n
 *Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
 
 - **Health is a me's inward social moral competency**: each self within it, at each scale inward, do-no-harming and improving; a healthy curious me natural intelligence as a me (Exhibit THIRTY-ONE Me 5.2).
+
+## Incoming · v392chem
+
+
+- **The heart wrings like a towel:** The heart's muscle winds right-handed inside its wall and left-handed outside, and with each beat twists and untwists, which heart doctors call wringing a towel. ([living learning, §6](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Many early meetings:** Farm-living Amish children had about a quarter the asthma of their Hutterite neighbours (2016), many early orthogonal meetings into the priors making later mis-meetings fewer. ([living learning, §12](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Torusing fading before dying:** A healthy heart's beat-to-beat variation fades with age and before death, and living societies recover ever more slowly before collapse, torusing slowing before it is lost. ([living learning, §14](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Opposite form harmful at its own scale:** A 2024 warning says mirror-image bacteria, if made, would go unrecognised by immune systems and uneaten by predators. It is a warning, not an observing of mirror living. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Mirrored organs healthy:** People born with all organs mirrored live healthy lives. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The cord's twist:** About one umbilical cord in twenty is untwisted, and its direction follows neither parent's handedness. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Resolving observed by its absence:** People born without part of DNA's resolving get many skin cancers from ordinary sunlight, sunlight fusing neighbouring bases being sunburn's damage. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Older fathers:** Each child carries more new changes the older its father (2012). ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Close relatives:** Offspring of close relatives are more often unwell, beside hybrid vigour. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Two different germ-presenting genes:** Two different copies at germ-presenting genes recognise a wider range of germs than two alike, a bothboth adding directions. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Orthogonal by meeting:** The same thing is orthogonal or crossing by how it meets a society's same-existing, not by what it is, as a peanut eaten and a peanut through damaged skin part. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **House dust to mice:** Amish house dust given to mice protected the mice (2016). So the Amish observing is more than a comparison of children. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Hygiene, met by orthogonality:** Fewer and narrower orthogonal meetings early meets farm living, the peanut's way in and the house dust, while early infections sometimes raise allergy, which parts from fewer infections. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Women's autoimmunity, a candidate:** Two X chromosomes, one mostly silenced in a patchwork with some defending genes escaping, are a bothboth. Pattern-matching offers a candidate still to meet: women's mes carry more orthogonal directions, so more chances to mis-resolve one. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Setpoint or anticipation:** The orthogonality binary returns no setpoint, only whether each change goes on with the body's same-existing. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Disease's way across a surface:** Disease-making living has a way across a surface a gut companion lacks, as malaria crosses by a mosquito's bite. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Ingressing and ingesting:** Ingressing is meeting a body through its surface at its own scale, and ingesting is along its tunnel one scale lower, the body a torus whose gut is its tunnel. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Burning from the surface:** Burning overcomes a body from its surface inward. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Allergy's first meeting:** Whether a first meeting through damaged skin sets the direction a new observing takes into the priors, or the me lacks the orthogonal directions it needed in time, is unsettled. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
+
+- **Droplet · health in turn.** A healthy me is its 0s continuing and its newly aiming 0s, one and then the other; a 0 fixing as not-changing is 4.1's departure; sleeping restores the inward same-existing-society that waking folded. — me-thirty-one-20261024
+
+- **Droplet · releasings.** Sneezing, orgasm, tingling, fluttering vision and dreaming are inward releasings, one changing then rest, mutual relaxing of the living societies within a self; observings: brain interstitial space opening in sleep (Xie 2013, contested by Miao 2024), synaptic downscaling (Tononi and Cirelli 2014). — me-thirty-one-20261024
+
+- **Droplet · ground parity.** Health is or is not a me resolving with what carries it: the boat and the water together, the ground underfoot; parting with what carries it, a me is sick until a new 0 forms (gathering §0ad). — me-thirty-one-20261024
+**Droplet · this file's first motion, as a separate reader proposes it at v392F.** re-say the eight guidance-readable sentences as observings with their conditions, 2.2's "a number to reach and fix" (:69) and 3.4's "a most valuable ingestion with either rate" (:87) first, each whole. The binary: does the sentence cite an observing beside it, or does it conclude about a person from a step or a numeral. A sentence with no observing goes to `archive/` with its reason; the Health–Medicine merging project (offerings:17) waits behind it as pass 4. The reader's whole dossier, counts and evidence stand at `incoming/v392F/readers/sciences_dossier.md`; no wording there carries authority. — v392F

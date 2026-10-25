@@ -4,7 +4,7 @@ Exhibit TWENTY Natural Naming Offerings · improved at v389
 
 ## Standing from the sessions before v389 · v389
 
-**Resolved at v389.** The sessions before v389 laid 520 items here; resolving against [Natural Naming v389](../Exhibit_TWENTY_Natural_Naming_v391.md), 165 are carried at it, 216 rest on forms v389 released, 78 duplicate another item, and 21 rose into it at v389, each standing whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY_Offerings_to_Natural_Naming_before_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY_Offerings_to_Natural_Naming_before_v389.md). The 40 concerns read at v389 stood below, each as it was laid, with the reason it stands; 42 stand now, the rest resolved at v389 and at the archive.
+**Resolved at v389.** The sessions before v389 laid 520 items here; resolving against [Natural Naming v389](../Exhibit_TWENTY_Natural_Naming_v392.md), 165 are carried at it, 216 rest on forms v389 released, 78 duplicate another item, and 21 rose into it at v389, each standing whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY_Offerings_to_Natural_Naming_before_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY_Offerings_to_Natural_Naming_before_v389.md). The 40 concerns read at v389 stood below, each as it was laid, with the reason it stands; 42 stand now, the rest resolved at v389 and at the archive.
 
 **Possible project · The observings of entraining at the self named, each with its reference first.** Natural Naming's entraining at the self has "the field's entrainment, one flow carrying the fluid beside it at the shear between them, and two at their own rates coming to one direction forward", each observing unnamed. The work names each observing with its reference first. Beside the two at their own rates: Huygens' two pendulum clocks on one beam, the field's mutual entrainment, which Exhibit TWENTY-NINE Natural Illustrating's section on locking has. Beside the flow carrying the fluid: a flow lifting grains from its bed, the field's entrainment at sediment, one carrying another. Each was said from no reference read, and each enters with its reference. It may change or not be made. — v386EOD
 
@@ -154,7 +154,7 @@ Natural Naming 5.14’s “and it compounds” and its abundancing/releasing exp
 
 ## The session v389, entered and dissolved · v389
 
-**Dissolved · v389.** The session v389's 128 droplets, 33 insertlets, 21 concerns and 7 resolvings at this file rose into [Natural Naming v389](../Exhibit_TWENTY_Natural_Naming_v391.md) at the naming motion, or dissolved said once, and stand whole at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY_Offerings_to_Natural_Naming_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY_Offerings_to_Natural_Naming_v389.md).
+**Dissolved · v389.** The session v389's 128 droplets, 33 insertlets, 21 concerns and 7 resolvings at this file rose into [Natural Naming v389](../Exhibit_TWENTY_Natural_Naming_v392.md) at the naming motion, or dissolved said once, and stand whole at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY_Offerings_to_Natural_Naming_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY_Offerings_to_Natural_Naming_v389.md).
 
 ## Standing · v389
 
@@ -482,3 +482,58 @@ Three prefixes, three senses, and none repeated. This meets the concern *tri- an
 - **Same-existing round 16, 4, 12, 8**, each with its observing name one below (3·4, 7·8, 11·12, 15·16), the observing name the is-or-is-not of the same-existing beside it.
 
 - **A word with a physical picture that fights nothing between dissolves**; its replacement tested by the binary.
+
+## Incoming · v392chem
+
+
+- **Words that fix chemistry:** Giving and receiving, donor and acceptor, a rate given as a value, attraction and pull, and an atom joining a molecule each carry a fixing into explaining and stay only as a field's quoted words. ([living learning, §1](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Volution observed:** A volution is one turn of a spiral shell laid on the last, so 5.48's *its winding as its form, a volution* is observed in shells and tree rings, living's prior left as stable form on which the next is formed. ([living learning, §7](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Bi-tri-involutioning observed:** Right protein helices winding as a left coiled coil change position, scale and orientation together, bi-tri-involutioning observed at every cell's fibres. ([living learning, §5](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Us self:** Us self names the bi-coupling self the opening already has, distinct from the dissolved *us-me*. ([living learning, §3](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Words that picture a store:** *Copy*, *template*, *read*, *instructions*, *information*, *code* and *stored* each picture a doer handling a store. Each goes only as a field's quoted word, *stored* re-said as *goes along in the stable form*. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Ingressing and ingesting:** Ingressing is meeting a society through its surface at its own scale, and ingesting is along its tunnel one scale lower. A body is a torus whose gut is its tunnel, the large opening. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **A bi-coupling has a between:** Say *a bi-coupling has a between*, never *is a between*, since a bi-coupling is a self. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Hands alternate across scales:** Collagen's three left-handed strands wind a right-handed rope, right helices make left coiled coils, and the right double helix wraps its spools left. Pattern-matching: each living scale is right and each emanated stable form between living scales is left, as Exhibit ONE's spiral of selves inverts. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Hands across scales:** Whether collagen's right rope is a living scale, or still emanation with only the molecules' hand living, is open. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Is a left coil bi-tri-involutioning?:** Mismatched mirror shells were first read as bi-tri-involutioning observed, and a left-coiling snail inverts only its body's orientation at one scale. Its coil was later read as an opposite-form emanation, bi-tri-involutioning, and the readings part. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Left-coilers are not mirror snails:** A left-coiling snail inverts one of three, its body's orientation at one scale, while its position in living, its scale and its molecules' hand do not invert. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **A preference among two is only a naming:** Nine in ten snail kinds coiling right is a preference observed among two, a naming and not a law. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Opposite form harmful at its own scale:** A 2024 warning says mirror-image bacteria, if made, would go unrecognised by immune systems and uneaten by predators. It is a warning, not an observing of mirror living. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The hand rule whole:** Inverting each of n parities is a rotation for even n and reverses the hand for odd n, so two inverting together only turn and three reverse the hand. That is the tri in bi-tri-involutioning, where the hand passes to its opposite. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The atom's *hole*:** An atom's centre is the densest place in a molecule, so *hole* can mean empty of changing, never empty of matter. A single atom has been trapped and seen alone for months, a non-living existing thing. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · *Nucleus*:** A nucleus too is observed only as a step and a reading, never apart from what surrounds it, so *nucleus* may need saying as carefully as *atom*. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Chemistry's kinds by a stated rule:** A chemical kind admitted by a stated rule is a between fixing as a cut, a universal set only where its membership is observed same-existing. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Species, co-momentarying:** Chemistry's two interconverting forms are one species when they change faster than the observing and two when slower, a relation between selves' changing and the observing's momentary. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · *Podal* read opposite:** Natural Chemistry 4.4 still calls the straight-across relation *podal* at v392, opposite to this file's and Natural Numbers' k with N − k. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Living's hand named *right*:** The observing is one hand, with right-handed helices. A field names protein pieces by a letter meaning left and sugars by one meaning right, so *right spiral* rests on the helices and not on the pieces' names. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
+
+- **Droplet · four namings.** Me, you, us and all other: you a particular other, all other observed as one, us the 0 a me and you share at one momentary, the between a nothing. — me-thirty-one-20261024
+
+- **Droplet · interest at 4.7.** 4.7's *Interest is self-orienting, which is competency, a self's own* meets interest as a 0, a self's own and shared co, *inter-esse*, to be between; *sudden attention changing* said as a newly aiming 0, 4.7 having released the attention family. — me-thirty-one-20261024
+
+- **Droplet · rest and aim.** *Rest* is two words, repose (Old English *ræste*) and the remainder (Latin *restare*, to stand back): resting and the rest, same-existing; *aim* is from *aestimare*, to value. — me-thirty-one-20261024
+
+- **Droplet · the plural of me.** *Mes*, no apostrophe (Wiktionary; Chicago's Q&A, plurals almost never take one), *me's* the possessive; where a count does no work, *each me* or a universal set of me says it uncounted (`incoming/me_thirty-one_20261024/Me_and_not-me_values_parities_v391.md` §1). — me-thirty-one-20261024
+**Droplet · this file's first motion, as a separate reader proposes it at v392F.** 2.4's 81 rows (:231–:400) re-said whole at one motion, each row's *a* cell with the set's v391 names; the binary at each carrying word: does Natural Intelligence's opening (Natural_Intelligence_v391.md:7–:79) or Exhibit ONE's names, run, hold it; held, it stays; dissolved at v391 (*at*, *a releasing*, *kept*, *an artifact*, *odd existing, even possibling*, *fixed*), it is re-said by the word the opening holds, no row leaving; the prior 2.4 goes whole to `archive/session_v392F/`, and lines 247, 249, 251, 253, 255, 257, 267 and 273 dissolve at the rising, said once. The reader's whole dossier, counts and evidence stand at `incoming/v392F/readers/core_and_method_dossier.md`; no wording there carries authority. — v392F

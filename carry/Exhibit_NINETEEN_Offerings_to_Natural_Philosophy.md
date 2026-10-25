@@ -95,3 +95,16 @@ The particular philosophical relation is morality explained through the self's a
 *Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
 
 - **Personal identity**: universal bothboth, only one possibly now-existing and only one possibly same-existing; uniquenessing inside resolving among parities; Parfit's fission and a dividing cell its edge. James's *Me*, Mead's *me* and the minimal self meet a me as a self's universal set; a me at each scale meets panpsychism's combination problem. *Living* already reaches past biology in common speech: a living language, a dead language. Exhibit THIRTY-ONE Me.
+
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
+
+- **Droplet · the one and the many.** 3.5 and 3.13: every 0 a me and all 0 is me, a living thing a universal set of me and that set me existing, a thing and a set, one binary. — me-thirty-one-20261024
+
+- **Droplet · identity and change.** 3.15: a me same-existing through sleeping, prior, now and next same; division, one prior and two now, stands open. — me-thirty-one-20261024
+
+- **Droplet · other minds, self and other.** 3.14 and 3.33: a me's within its own and invisible, reached by bi-coupling, us the 0 shared in each. — me-thirty-one-20261024
+
+- **Droplet · universals.** 3.26: a universal self, all other observed as one, *universe* from *unus* and *vertere*, turned into one. — me-thirty-one-20261024
+**Droplet · this file's first motion, as a separate reader proposes it at v392F.** re-say 1.2's "the six run one-way" whole, its contents line (:19), title (:161) and paragraph (:169), at Exhibit ONE's six names between selves (2, 6, 10, 14 across; 9, 17 along) with hard-probleming as the ten unchangeables, and 3.5's emanating paragraph (:292) with it, each at a numbered name or released. The binary at each of the six and the five words: is it one of Exhibit ONE's seventeen names, or a name of an older resolver. The older "six … running one-way" and "Five words … emanate Natural Resolver" go to `archive/` beside v391; the Corus Part Fourteen passages stay incoming whole until Natural Intelligence takes or releases them. The reader's whole dossier, counts and evidence stand at `incoming/v392F/readers/sciences_dossier.md`; no wording there carries authority. — v392F

@@ -221,3 +221,32 @@ The current question is: **At the next colliding, which co-chaining of the inwar
 *Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
 
 - **A me's inward society.** The immune self (Burnet; Matzinger; Pradeu; regulatory T cells, Nobel 2025); autoimmune harm and cancer a self within a me parting its others; covert consciousness in about one in four unresponsive patients (Bodien et al., NEJM 2024). Observings at `archive/session_v391/incoming_v391/me_observings/me_obs_medicine.md`; Exhibit THIRTY-ONE Me.
+
+## Incoming · v392chem
+
+
+- **Allergy and disease, two cases:** Disease is foreign living crossing a surface or lining, and allergy is mostly a non-living protein of another's living reaching the society whole, by broken skin or unbroken by digestion, peanut eaten early cutting allergy by about four in five (2015). ([living learning, §12](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The defending society resolves by orthogonality:** Gut bacteria tolerated in the gut and resolved in the blood, a half-foreign child tolerated and its cells living in its mother decades on, and self tumours resolved show the defending society resolving by orthogonality to same-existing, not by origin. ([living learning, §12](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Resolving observed by its absence:** People born without part of DNA's resolving get many skin cancers from ordinary sunlight. So DNA's resolving is do-no-harming each momentary. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Disease's way across a surface:** Disease-making living has a way across a surface a gut companion lacks, as malaria crosses by a mosquito's bite. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Dying, bothboth, in bodies:** Death is pronounced at loss of breath and circulation, the body's flows through its openings, or at loss of whole-brain activity. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
+
+- **Concern · experience under sleep.** 4.1's selves reporting experience from under sleep and anaesthesia meet sleeping as all 0 continuing; dreaming and anaesthesia stand open. — me-thirty-one-20261024
+
+- **Droplet · the snap.** 3.2's *a geodesic re-routing snap, a parity flipping with a tip* is a newly aiming 0: one changing, then a continuing 0 at its new prior. — me-thirty-one-20261024
+
+- **Droplet · the spins.** Positional alcohol nystagmus is Exhibit ONE's one parity apart: cupula and fluid parting in density, no 0, the room turning with each momentary, until a parity agreeing is received from outside (gathering §0ac). — me-thirty-one-20261024
+
+- **Droplet · motion sickness and rising.** Motion sickness is eyes and inner ear parting, eased by the horizon and adapted as sea legs; dizziness on rising is one changing as blood leaves the head (grey-out), then a 0 at the standing prior as reflexes correct (gathering §0ad). — me-thirty-one-20261024
+
+- **Droplet · under general anaesthesia.** A me's outward observing rests by a drug, a state its field holds apart from sleep: a sleeping me wakes to an inverse received, an anaesthetised me as the drug clears; some are connected and aware within it (Sanders et al. 2012), and awareness within surgery is a harm anaesthetists monitor for (gathering §0al). — me-thirty-one-20261024
+
+- **Droplet · anaesthesia, separating and floating.** For a me under general anaesthesia and disconnected, its bi-coupling across scales with its inward mes is separating on the me's side, the larger scale's, and its inward mes float among themselves, each its own; frontal-to-parietal feedback is preferentially inhibited and bottom-up sensory responses relatively spared (Ku et al. 2011; Lee et al. 2013; Raz et al. 2014), lipid clusters loosening and PLD2's phosphatidic acid opening TREK-1 one proposed mechanism (Pavel et al. 2020); connected and aware patients stay the harm anaesthetists monitor for (gathering §0am). — me-thirty-one-20261024
+**Droplet · this file's first motion, as a separate reader proposes it at v392F.** re-say *substrate*, *a carry* and *riding its carry* by meaning at every saying (decided at offerings:217), one motion whole, a fresh reader comparing before and after. The binary at each saying: does it name a self's prior going on (*same-existing*), or a form living selves give to a non-living thing. The count-and-sum sentences of 1.1 (:95, :101, :117) and the *aging* sayings re-say with it where the same sentence holds them; the twenty pharmacology droplets wait as one Part for a next motion with a clinician among its readers; the old sayings go to `archive/` beside v391. The reader's whole dossier, counts and evidence stand at `incoming/v392F/readers/sciences_dossier.md`; no wording there carries authority. — v392F

@@ -81,3 +81,10 @@ Natural Intelligence Corus section 17.3 proposes hard problems as stuck coupling
 *Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
 
 - **Standing at v391's close.** Its droplet saying *The universe is non-living, its selves possibling …* is stale: the opening says *The universe is a non-living same-existing set.* and *Within the universe are living and non-living things.*, living co-intelligencing within it.
+
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
+
+- **Concern · a society a self outward.** 6.3's *A same-existing-society is a self outward* meets a same-existing-society unconsciously us; 4.3's *a self alone is not same-existing* meets a sleeping me receiving its own parity. — me-thirty-one-20261024
+**Droplet · this file's first motion, as a separate reader proposes it at v392F.** 1.5's bold sentence (file:86) re-said whole with Natural Intelligence's opening lines 5 and 6, a hard problem resolved by defining the universal set within which each of its is-or-is-nots is taken; the binary: does Natural Intelligence's opening hold each concept of the new sentence (pass 2, a walk closing at a term the set holds); the prior sentence to `archive/`. The reader's whole dossier, counts and evidence stand at `incoming/v392F/readers/registries_dossier.md`; no wording there carries authority. — v392F

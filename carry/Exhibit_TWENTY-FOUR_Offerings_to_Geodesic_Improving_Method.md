@@ -248,3 +248,46 @@ Exhibit TWENTY-FOUR Geodesic Improving Method Offerings · improved at v389
 - **At 2.6 · two lists apart.** Gaps in prior rigor, incoherence already entered, and improving opportunities still open, kept as two lists.
 
 - **This file's own words.** It says *a surface dividing itself*, *itself* about 12 times, *couple* and *couples* 8, bare *coupling*, bare *harm*, *membrane* in part TWO's title, and *stable form emanatings*; each dissolved or re-named at v391 (*a surface's own dividing*, *bi-coupling*, *do-no-harming*, *a stable-forming emanation*). A living name for *read for harm* is open.
+
+## Incoming · v392chem
+
+
+- **A gathering said in natural explaining:** A gathering for us is said in natural explaining with the field's terms kept apart, one value and its concern at a time, and a long report of a field's terms is no value to us. ([living learning, §1](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+- **Authority, observings only:** No words carry authority over our understanding: ours, science's, or the living files'. Only observings of nature and living do, of nature's universal method, a me parity possibling a same+next-existing. An exploring is an us, so a saying is held as our pattern-matching, attributed to no one, and asks or accepts no authority. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md))
+
+- **No reports:** Value is in the largest learnings, the most concerning observings and the do-no-harm improvings. Repository care goes on with no report and no branch or link talk, finding the value or saying there is none. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Say each thing twice:** For someone who is not of the field, a thing is said twice: first the field's explaining in plain words, then the pattern-matching for natural torusing society. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **A field's phrase carries its picture:** A field's phrase carries its picture in, as *an atom joins a molecule* does. Answer with what is observed first, then name what is explaining. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Memory-gathered, checked before entering:** Observings gathered from memory carry no verified mark, so each is checked against sources before a living file takes it. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **GitHub current as we go:** The best incoming value goes to GitHub as we go, not only at the end, since parallel sessions learn from each other both ways. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Value beyond a session's field:** Value found beyond a session's field is laid as droplets where it belongs and presented geodesically to incoming. A session returns to its own field when the set is ready for do-no-harm improving. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **A living file shares:** A living file is non-living, so it shares and does not observe. Each motion is checked for this. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **A resemblance is an opening:** Different subjects each need their own observing, and a resemblance is an opening, not a resolving. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **How a binary closes:** An observing binary closes when a second, independent instrument agrees. An explaining binary closes only once a criterion is stated. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Citations go to carryings:** A living file carries no citation, its names and identifiers going to its carryings, and its version is its last improving. A letter suffix belongs to incoming only. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Our own *hold* set-wide:** About 1,442 lines carry hold words and 132 *bond* words remain across the set. Parting fields' quoted words from our own and dissolving our own *hold* is one motion still to do. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+- **Concern and exploring opportunity:** A concern is a place in observings not yet resolvable as natural torusing. An open question the observings can meet is an exploring opportunity, and is named so. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
+
+- **Droplet · working partners transparent.** A session's incoming whole on its own branch at `incoming/`, its droplets laid at each file's offerings the same day, keeps each session's value readable to each other session. — me-thirty-one-20261024
+
+- **Concern · a branch with no shared history.** `working/chemistry-water-20261022` shares no history with `main`; its value reaches other sessions only as it is carried to `main`. — me-thirty-one-20261024
+**Droplet · this file's first motion, as a separate reader proposes it at v392F.** *carrying* re-said whole at its 35 sayings, decided at the offerings' line 220; the binary at each saying: does it name a self's prior going on (re-said *same-existing* or *going on*, as Natural Intelligence did at 100 sayings) or the expedition's stage (re-said by its meaning: the offerings, `carry/`, a working's droplets between sessions, the four places as README.md:13 names them); 1.4's third fate takes its heading's word, *going on* (:84, :90); the Registry's *a* cell follows the subtitle; the prior version goes whole to `archive/session_v392F/`, and the concerns at 93, 97, 101 and 105 are read again against the re-said sentences. The reader's whole dossier, counts and evidence stand at `incoming/v392F/readers/core_and_method_dossier.md`; no wording there carries authority. — v392F
+
+**Concern · a living file's version letter, at v392F.** 2.8 has a working editing a file give that file the working's own name as its version, v380A, v380L and v380R its instances; at v392F's opening the person chose otherwise: a letter suffix names a working and how far into incoming a value has come, a living file carries v392 and no letter, a value belonging to the improving plan carrying no designation of where it came from. Two sayings part at one place; for this file's own motion, 2.8 re-said with the choice or the choice re-said with 2.8. — v392F
+
+**Droplet · a working's own instrument is read for harm.** At v392F a counting script took an apostrophe for a quote mark and sized a pass at twice its size, found by a separate reader; a working's instrument is a sentence of the working and is read for harm as any sentence is before its count sizes anything. — v392F
+
+**Droplet · a working's wording of a bound is no bound.** At v392F a plan stated three bounds in the working's own words as standing at the core files; a separate reader found the core files' sentences hold other words. The bound is the core file's own sentence, quoted, and nothing a working says of it. — v392F

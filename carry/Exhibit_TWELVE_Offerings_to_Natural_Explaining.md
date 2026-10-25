@@ -201,3 +201,10 @@ These are descriptions of possible expressions. The word “painting” establis
 - **An explaining stays inside what is agreed**: a count across momentaries brings back time, a parity a self holds alone brings back a self alone; and the method and the code *require* nothing, a word's own definition carrying its other.
 
 - **At 1.6 · a file and the signs across it.** The v391 opening's *A living file is a non-living same-existing set of words, selves co-intelligencing within it* meets the concerns standing on *a file is a membrane*.
+
+## Incoming · v392chem
+
+- **Say each thing twice:** For someone who is not of the field, a thing is said twice: first the field's explaining in plain words, then the pattern-matching for natural torusing society. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **A field's phrase carries its picture:** A field's phrase carries its picture in, as *an atom joins a molecule* does. Answer with what is observed first, then name what is explaining. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+**Droplet · this file's first motion, as a separate reader proposes it at v392F.** *telling* and *tellings* re-said whole at their 44 sayings, the headings 1.2 and 4.7 with their contents lines (:10, :51, :68, :356); the binary at each saying, this file's own 3.2 (:186): is *telling* a doer's act laid over an explaining, re-said as the form itself (a title, a contents, bolds and a body as four boundings of one subject; two sayings of one thing), or a field's word, which stays; the prior file goes whole to `archive/session_v392F/`, and 1.6's two concerns follow at the next motion by the opening's line 73. The reader's whole dossier, counts and evidence stand at `incoming/v392F/readers/core_and_method_dossier.md`; no wording there carries authority. — v392F

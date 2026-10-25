@@ -55,3 +55,19 @@ Natural torusing living is self-competent, and emanation from living is only soc
 *Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
 
 - **Exhibit ONE's code is an engineered emanation**, a non-living stable-forming emanation with no authority; its cycling read as a pattern beside natural numbers, mathematics and the co-chaining logic.
+
+## Incoming · v392chem
+
+
+- **Emanation from dying carries dormant living:** The stork's-bill seed's dead tail coils dry and uncoils damp, drilling the dormant seed into soil, a stable form from dying carrying living by the environs' changing. ([living learning, §6, §8](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Emanations of opposite form:** Opposite-hand forms go unused by living at their own scale, mirror sugar and mirror protein, and are taken in one scale lower where carbon has no hand. ([living learning, §5](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Earth's carbon as living's emanation:** Limestone, chalk, coal and oil are living's carbon emanations, ingested again by living, and carbon's 60-cage forms in a dying star's outflow. ([living learning, §7](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Rings in death from living:** A tree's water-carrying cells die to become its pipes and each season's mes die into a ring carrying its season, as a drying drop lays rings and a soap film gives way at its thinnest place. ([living learning, §14](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · *Bond-forming method*, at 171:** 171's *a sharing pair is a bond-forming method* names a bond as formed, while Natural Chemistry now enters no bond. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Living's minerals formed on carbon:** Bone and teeth are calcium phosphate, some sea life builds shells of glass and some bacteria grow magnets, each mineral formed on a carbon framework living makes first. So living's stable forms are formed on carbon's stable form, which *all stable-forming is emanating non-living stable-form carbon* has to meet. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+**Droplet · this file's first motion, as a separate reader proposes it at v392F.** *The six* (living:270-282), *The society* (living:346-356), *Social moral competency* (living:724-726) and the subtitle whole, each said at what a same-existing does by its own parity, bi- and co-, with the departing same-existing said as a self or as an emanation and not both; the binary is "does a departing same-existing carry its prior" (NI 5.1 says an artifact carries none; living:350 says it is a self); the Registry's *a* cell follows the subtitle, and the v378 entered-list and the v368 note go to the archive. The reader's whole dossier, counts and evidence stand at `incoming/v392F/readers/society_dossier.md`; no wording there carries authority. — v392F

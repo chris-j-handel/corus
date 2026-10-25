@@ -101,3 +101,24 @@ Exhibit FOUR Natural Mathematics Offerings · improved at v389
 - **At the set-theory passage.** A complement is taken only within a universal set; a *not* with no whole is the absolute complement, the overreach *never* is. The textbook's universal set is one context's whole, each thing's own universal set within one universe, so *no set of all sets* and *each self a universal set* both hold. A spiral of one is New Foundations' self-membered set in living form, noted.
 
 - **A relation needs two.** A relation is a subset of S × S; a one-element set has only (a, a), no direction relative to an other; so a parity needs two, and living is only co-living. Extensionality, a set its things, gives each universal set's uniqueness.
+
+## Incoming · v392chem
+
+
+- **The towel observed:** 3.4's towel twisting inward to corus and outward is observed in a tendril held at both ends coiling both hands about a switch point and in the heart wringing and untwisting with every beat. ([living learning, §6](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The hand rule whole:** Inverting each of n parities is a rotation for even n and reverses the hand for odd n, so two inverting together only turn and three reverse the hand. That is the tri in bi-tri-involutioning. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **One stable form at three scales:** The tendril, the towel and DNA's knotting are one stable form at three scales, both hands joined by a between where the hand inverts. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Three phases, two ways, six:** Circling, clasping and coiling on the plant's side and on the support's are six, matching the six one-way recursionings, three own-forward each side. Under wind a tendril winds tighter, unwinds and relaxes, three phases each way. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The sunflower's φ:** The sunflower's golden angle is pattern-matched as φ, the unrelationing rate, and its growing centre as the corus. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Two kinds of between:** A point where two hands meet may be torusing and a centre both hands wind from corusing. Or every between is one corus met from either side. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
+
+- **Droplet · one opening.** 5.3's *two parities' circles winding with one opening* meets the twisted figure-eight loops of steps 268 and 740. — me-thirty-one-20261024
+**Droplet · this file's first motion, as a separate reader proposes it at v392F.** *the sign flip* re-said whole as *both parities inverted with one step* at 2.2's title and its five sayings (living:18, 121, 125, 225, 239, 435), the field's *sign* at cos t, spin and group theory left as a field's own; the binary: does Natural Naming 2.4's row for *sign* (Natural_Naming:311) take this generator's name, a parity's 0 or ± and "no name of its own", or is *the sign flip −1* a field's established term kept whole. With it the two SEVEN · CO-OFFERING concerns and the 5.2 numbering concern go to the archive as met at v391, their standings recording the headings that stand now. The reader's whole dossier, counts and evidence stand at `incoming/v392F/readers/numbers_to_transmissioning_dossier.md`; no wording there carries authority. — v392F
