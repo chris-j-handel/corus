@@ -63,3 +63,4 @@ Gathering-Value · Me
 ## Droplets
 
 - A same-existing-society's discovering is its selves' newly aiming 0s within an interest, each a waking me's discovering; Natural Exploring 6.1 holds a same-existing-society discovering as a self discovers. *(possible exploring)*
+- Nothing is remembering: a me self is a universal set of me parities, now-existing, its prior, now and next same-existing four-cycling, and each thing a field calls a memory, a skin stem cell's chromatin open after an inflammation, a crane's route straightening with older cranes, a voyager's charts studied whole and left ashore, is a me self's prior same-existing going on now. *(possible incohering)*

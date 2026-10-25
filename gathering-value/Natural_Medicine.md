@@ -6,7 +6,7 @@ Gathering-Value · Natural Medicine
 
 ## Head, the whole file
 
-- An immune system of fighter cells apart from other cells is a field's explaining: nearly each cell with a nucleus shows pieces of its own interior on its surface, skin stem cells keep a memory of an earlier inflammation, heart macrophages take part in the node's conduction, and one theory reads a body's response by the speed of change; by that reading, immunity is a body's same-existing-society observing change beside its prior with each of its selves, a defending and a fighting being a field's words. *(possible incohering)*
+- An immune system of fighter cells apart from other cells is a field's explaining: nearly each cell with a nucleus shows pieces of its own interior on its surface, skin stem cells go on with an earlier inflammation's opening as their prior same-existing, heart macrophages take part in the node's conduction, and one theory reads a body's response by the speed of change; by that reading, immunity is a body's same-existing-society observing change beside its prior with each of its selves, a defending and a fighting being a field's words. *(possible incohering)*
 
 ## Opening
 
