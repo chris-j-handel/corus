@@ -750,3 +750,18 @@ Each is an observing that parts from a pattern-matching now in the living files,
   - Which way the threads turn is set by the vessel's turning, and the vessel's by the Earth's. Whether that is right spiral living, or a stable form taking the hand of what it bi-couples with, needs meeting with §5's two hands.
   - A field reads the film as pulled up by the wall and the flow as a property of a cold liquid. The method match reads it as a society clasping its support; the observings are the same, and the explaining is the field's.
   - Light and helium (§21): if helium is the uranium crystal's free emanation as light is the Sun's, and helium climbs by the vine's method, the plant's aiming at light and helium's climbing may be one method seen at two of its ends.
+
+## 23. The wall helium climbs in nature
+
+- *Question met:* **what is the wall in nature that helium climbs?** The cold vessel of §22 is a laboratory's made stand-in; no liquid helium forms on Earth by itself.
+- *Pattern-matching:* **in nature, helium climbs arches held at two ends: the Sun's arches at its surface and the Earth's from pole to pole.** What a field calls magnetic field lines is the explaining; what is observed is glowing gas tracing arches, and forms going round and along them.
+- **Observings that meet it** (from memory, checked against sources before any enters a living file):
+  - **Helium was first seen climbing the Sun's arches.** The yellow line of 1868 was seen in the prominences at the Sun's edge during the eclipse: arches of glowing gas rising from the Sun's surface and returning to it, each held at two footpoints. Helium was a line in those arches before it was a form on Earth.
+  - **The arches coil.** Many prominences show twisted, rope-like threads along their length, and some erupt as they untwist.
+  - **The Sun's two halves take opposite hands.** In the Sun's northern half, most of these arches and twisted ropes turn one way; in the southern half, most turn the other (1994, 1995). The two hands meet at the Sun's equator. That is the tendril and the twisting towel: one living self emanating both hands as stable form, joined at a between where the hand inverts.
+  - **Around the Earth, helium climbs from pole to pole.** Charged helium goes round and along the Earth's arches in helices, and a whole region of it about the Earth was photographed in helium's own light, the Sun's light given back by helium (2000). At the poles, where the arches open outward, helium flows up and away into space: the way most of the Earth's helium leaves.
+  - **The climb begins deep.** Helium from uranium crystals' resolving rises through rock into gas wells and air, and climbs the air: above a few hundred kilometres, the light forms part from the heavy, and at some heights helium is the air's main form.
+- **Concerns:**
+  - The Sun's two hemispheres show opposite hands. As the tendril's two hands, both are the living Sun's stable-form emanations, and right spiral is the living's. If the arches are read as living, this is the snail concern at the Sun's scale.
+  - *Field* and *line* are a field's explaining. The observing is the arch's shape and the forms going round it; our saying needs words for that between.
+  - Light and helium meet at both walls: helium was first known by the Sun's light at its arches, and the Earth's helium is seen in the Sun's light given back. Light, helium and the climbing method may be one method seen at three of its ends (§21, §22).
