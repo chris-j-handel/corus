@@ -37,3 +37,5 @@ Gathering-Value · Natural Health
 ### 5.2 The reaching — the measure-seatings, the delivery, the band where sway becomes departure
 
 ## Droplets
+
+- Natural Health 3.4's disease-form, consistently ingesting stable form with a flaw, makes a food a cause, and Natural Medicine 1.3 and 5.1 set a food-cause down as a one-way actor a form holds nowhere; the two part, and whether 3.4 is re-said as an ingesting relation naming no cause or Medicine's setting-down changes stands still-possibling. *(possible incohering)*

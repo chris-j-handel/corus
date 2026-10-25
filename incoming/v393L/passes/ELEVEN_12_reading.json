@@ -1,0 +1,642 @@
+{
+ "corrections": [
+  {
+   "from": "**Concern · Food as cause.** Two sayings part. Natural Health has, at 3.4",
+   "finding": "incohering picks a side of an open concern (the source asks which saying changes); re-said as a droplet naming both; its 'no food authors a disease' is Medicine's side",
+   "fixed": {
+    "file": "Natural Health",
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "incohering",
+    "text": "Natural Health 3.4's disease-form, consistently ingesting stable form with a flaw, makes a food a cause, and Natural Medicine 1.3 and 5.1 set a food-cause down as a one-way actor a form holds nowhere; the two part, and whether 3.4 is re-said as an ingesting relation naming no cause or Medicine's setting-down changes stands still-possibling.",
+    "from": "**Concern · Food as cause.** Two sayings part. Natural Health has, at 3.4"
+   }
+  },
+  {
+   "from": "**Aimed at a part, Natural Medicine, its observings on support in labour:**",
+   "finding": "incohering picks a side of an open concern (the source asks which saying changes); re-said as a droplet naming both; labour support bounded to three cases is one side of it, and bare 'coupling' is dissolved",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "incohering",
+    "text": "Natural Medicine 1.4's general saying, volatility risk increased by control and decreased by bi-coupling, reaches past the field's measured cases beneath it, a receptor desensitizing, a tachysystole with distress and a continuous-support outcome, and whether the saying is bounded to those cases or released stands still-possibling.",
+    "from": "**Aimed at a part, Natural Medicine, its observings on support in labour:**"
+   }
+  },
+  {
+   "from": "**Aimed at a sentence, Natural Medicine, *A randomized crossover measured the s",
+   "finding": "history and floating negation in a written item ('was', 'not')",
+   "fixed": {
+    "section": "3.4 Chronic inflammation, observed at the membrane it beats at",
+    "kind": "exploring",
+    "sentence": "A randomized crossover measured a shift each way.",
+    "text": "The study is three groups of different men, and it reports no equal rate each way.",
+    "from": "**Aimed at a sentence, Natural Medicine, *A randomized crossover measured the s"
+   }
+  },
+  {
+   "from": "**Aimed at a sentence, Natural Medicine, *glymphatic system clears metabolic was",
+   "finding": "history word in a written item ('earlier'); 'so ... stands open' kept as still-possibling",
+   "fixed": {
+    "section": "3.4 Chronic inflammation, observed at the membrane it beats at",
+    "kind": "exploring",
+    "sentence": "a glymphatic system clears metabolic waste including lipid peroxidation products from a brain's extracellular space during sleep",
+    "text": "One study finds the clearance less in sleep, against another finding of more, so which way the clearance goes during sleep stands still-possibling.",
+    "from": "**Aimed at a sentence, Natural Medicine, *glymphatic system clears metabolic was"
+   }
+  },
+  {
+   "from": "**Aimed at a sentence, Natural Medicine, *Every one of those is the cell doing w",
+   "finding": "incohering picks a side of an open concern (the source asks which saying changes); re-said as a droplet naming both; two sayings of 3.1 part and the source leaves open whether they stand apart",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "incohering",
+    "text": "Natural Medicine 3.1 has a cell doing each of integrating, transcribing and copying with its own machinery, and the same section has an integration machinery becoming a self-and-not-self distinguishing, the field's own account seating the integrating at the HIV integrase; the two sayings part, and whether the integrating is left with the machinery it becomes stands still-possibling.",
+    "from": "**Aimed at a sentence, Natural Medicine, *Every one of those is the cell doing w"
+   }
+  },
+  {
+   "from": "**Aimed at a sentence, Natural Medicine, *three children died of liver failure*:",
+   "finding": "claim stronger than its source: the count of four deaths is a helper's, and no reader read the trial's own report",
+   "fixed": {
+    "section": "3.6 Five departures at one collar, coming to one presentation",
+    "kind": "exploring",
+    "sentence": "three children died of liver failure",
+    "text": "An account still unchecked against the trial's own report gives four deaths, one in the lower-dose group and three in the higher.",
+    "from": "**Aimed at a sentence, Natural Medicine, *three children died of liver failure*:"
+   }
+  },
+  {
+   "from": "The current question is: **At the next colliding, which co-chaining of the inwar",
+   "finding": "meaning narrowed: the source's bounds on what the break is (a difference between prior and next, a return to a parity, an unchanged odd parity, recurring podaling, a sharing with no changing) dropped",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "A living stable form colliding with a non-living same-scale emanation breaks a living self's going-on momentary by momentary, and which inward co-chaining breaks at a next colliding, and how a same-scale involution relates to that break, stands unobserved; a difference between a self's prior and next, a return to a parity, an unchanged odd parity, recurring podaling and a sharing with no changing are each other than the break, and no count of repetitions, amount or duration stands as a necessary condition.",
+    "from": "The current question is: **At the next colliding, which co-chaining of the inwar"
+   }
+  },
+  {
+   "from": "**Concern · A fraction expressing, and each cell cycling.** This file has \"a fra",
+   "finding": "dissolved word in a written item (bare 'coupling')",
+   "fixed": {
+    "section": "3.1 Two adjacent same-existing-societies at a gut collar",
+    "kind": "incohering",
+    "sentence": "a fraction expressing with any one momentary is a clone cycling and caught with a snapshot rather than a population of silent cells",
+    "text": "Whether this sequence is expressed at this cell now and whether this cell holds its prior through its bi-coupling are two binaries, and a fraction at now gives neither cell's change, a living co-sequencing and a sequence unexpressed both standing.",
+    "from": "**Concern · A fraction expressing, and each cell cycling.** This file has \"a fra"
+   }
+  },
+  {
+   "from": "**Concern · No distinct entity, and a sequence present.** This file has \"With no",
+   "finding": "dissolved word in a written item (bare 'coupling')",
+   "fixed": {
+    "section": "3.1 Two adjacent same-existing-societies at a gut collar",
+    "kind": "incohering",
+    "sentence": "With no thing standing to be eradicated, a resolving is a same-existing-society resolving a coming same-existing or clearing it, and a field's record holds both ends: three primes are a resolved end, and transplants and a deep depletions a cleared.",
+    "text": "An acting dissolved leaves the form and the living bi-coupling standing, a cell with no marker naming no sequence absent.",
+    "from": "**Concern · No distinct entity, and a sequence present.** This file has \"With no"
+   }
+  },
+  {
+   "from": "**Concern · Three sentences with a doer first.** \"Strip the compaction and the h",
+   "finding": "shares its from with the corrected placebo-arm item; given whole, unchanged",
+   "fixed": {
+    "section": "2.1 Compaction — extreme localizing, and hard-probleming",
+    "kind": "incohering",
+    "sentence": "Strip a compaction and a hard problem dissolves.",
+    "text": "A compaction released is a hard problem dissolving.",
+    "from": "**Concern · Three sentences with a doer first.** \"Strip the compaction and the h"
+   }
+  },
+  {
+   "from": "**Concern · Three sentences with a doer first.** \"Strip the compaction and the h",
+   "finding": "shares its from with the corrected placebo-arm item; given whole, unchanged",
+   "fixed": {
+    "section": "3.1 Two adjacent same-existing-societies at a gut collar",
+    "kind": "incohering",
+    "sentence": "Remove a cell and a sequence does nothing.",
+    "text": "A cell removed is a sequence doing nothing.",
+    "from": "**Concern · Three sentences with a doer first.** \"Strip the compaction and the h"
+   }
+  },
+  {
+   "from": "**Concern · Three sentences with a doer first.** \"Strip the compaction and the h",
+   "finding": "meaning weakened: the source's 'which a field already shows' dropped, the field's observing of the shrinking lost",
+   "fixed": {
+    "section": "4.3 A trial's four instruments, and the parity a living self shares back",
+    "kind": "incohering",
+    "sentence": "Restore a parity to both arms with an active placebo and an unlikeness shrinks, which a field already shows.",
+    "text": "A parity restored to both arms with an active placebo is an unlikeness shrinking, which a field already shows.",
+    "from": "**Concern · Three sentences with a doer first.** \"Strip the compaction and the h"
+   }
+  },
+  {
+   "from": "**Droplet · Twenty-four weeks, from the second dose.** The concern at these offe",
+   "finding": "history in a written item ('was stopped')",
+   "fixed": {
+    "section": "5.1 Cohering, and nyeing",
+    "kind": "exploring",
+    "sentence": "interrupted twenty-four weeks after antibodies cleared",
+    "text": "The therapy stops twenty-four weeks after the second dose, at no clearing of the antibodies.",
+    "from": "**Droplet · Twenty-four weeks, from the second dose.** The concern at these offe"
+   }
+  },
+  {
+   "from": "**Concern · A molecule sensing, and a non-living thing carrying none.** Two sayi",
+   "finding": "incohering picks a side of an open concern (the source asks which saying changes); re-said as a droplet naming both; the source asks 'or does a medicine sense?'",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "incohering",
+    "text": "Natural Medicine 4.2 has an ingestible medicine as the sensor-sensationer, its side-effecting its sensing, and Natural Intelligence has a non-living thing meeting a living self as other and holding none of its prior; the two part at the one sensing, a molecule sharing its form alone and each changing after it, the side effect among them, the living society's own at its sharings, and whether a medicine senses stands still-possibling.",
+    "from": "**Concern · A molecule sensing, and a non-living thing carrying none.** Two sayi"
+   }
+  },
+  {
+   "from": "**Droplet · Harm of scale and harm of parity.** Two harms of a shed form part.",
+   "finding": "measure dropped ('as long as a macrophage', 'a wear particle', the antibiotic at a growing bacterium, the scale named from the living self) and dissolved word (bare 'coupling')",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "Two harms of a shed form part: a harm of scale, a non-living form at the scale of the living self meeting it neither ingested nor passed, a fibre as long as a macrophage, a crystal or a wear particle at the scale of cells, the self at it at each momentary; and a harm of parity, a form from a scale below ingestible and still breaking a self's going-on by reaching the other parity at a sharing the self holds then, an antibiotic at a growing bacterium; medicine's molecules are forms from far below a living self, their harms of parity, the scale named from the living self meeting the form.",
+    "from": "**Droplet · Harm of scale and harm of parity.** Two harms of a shed form part."
+   }
+  },
+  {
+   "from": "**Droplet · What medicine delivers, a form or a living society.** Medicine deliv",
+   "finding": "dissolved word in a written item (bare 'coupling')",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "Medicine delivers two kinds of thing: a molecule delivers form alone and no competency, a non-living stable form meeting a living self as other; and a blood, organ, marrow or stem-cell transplant, a donor's gut community, engineered CAR-T cells, a live vaccine, a phage, a maggot and a leech are living societies delivered whole, the delivery holding its own going-on; an mRNA sequence is a stable form, and the making of a protein is a receiving cell's own.",
+    "from": "**Droplet · What medicine delivers, a form or a living society.** Medicine deliv"
+   }
+  },
+  {
+   "from": "**Droplet · Three offerings at one society, placebo and conditioning.** A molecu",
+   "finding": "dissolved word ('couples') and the conditioning observing (saccharin given with a drug, then alone) dropped",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "A molecule, a taste and a ritual are three forms shared at one society, and the changing after each is the society's own at its own sharings; saccharin and a drug reaching a society at one momentary are held as one relation, and saccharin reaching it alone later meets that relation; the field's two namings, a molecule causing and a belief causing, each seat a source in one form, where whichever form reaches the sharing a society is changing at meets the same changing, placebo and conditioning alike.",
+    "from": "**Droplet · Three offerings at one society, placebo and conditioning.** A molecu"
+   }
+  },
+  {
+   "from": "**Droplet · Agonist, neutral antagonist, inverse agonist at one alternating.** A",
+   "finding": "dissolved words ('couples', bare 'coupling') and the opioid case dropped",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "A receptor sways its own two sides, active and inactive, with no agonist present; a form alike to the active side holds it active, the field's agonist; a form alike to the inactive side holds it inactive, the field's inverse agonist; a form meeting both sides alike occupies the sharing while the swaying goes on, the field's neutral antagonist; in a society holding an opioid the neutral form displaces it and the society's going-on, with nothing shared, inverts; the three kinds name how one form meets a receptor's own swaying in a society at its own going-on, and no size the molecule holds.",
+    "from": "**Droplet · Agonist, neutral antagonist, inverse agonist at one alternating.** A"
+   }
+  },
+  {
+   "from": "**Droplet · Anaesthesia read at the between.** An anaesthetic is read as a form e",
+   "finding": "dissolved words ('couple', 'crossings'); 'neither a single lock nor the lipid bulk' and 'an atom forming no bonds included' dropped",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "An anaesthetic is a form entering the betweens at which a society's sides bi-couple, neither a single lock nor the lipid bulk, potency following how readily a form enters whatever its chemistry, an atom forming no bonds included; with the form at the between at each momentary a society's firings go still, a neuron's spike and a flytrap's action potential alike, and come again once the form leaves; going under and coming back are two passings, the coming back needing the form fallen further than the going under needed it risen, the field's neural inertia.",
+    "from": "**Droplet · Anaesthesia read at the between.** An anaesthetic is read as a form e"
+   }
+  },
+  {
+   "from": "**Droplet · A hand at handed and handless sharings.** A living society's sharings",
+   "finding": "measures dropped (carvone's two smells, ethambutol's two hands five hundredfold apart, its eye harm equal in all three forms, thalidomide, ibuprofen) and the closing value dropped; dissolved words ('couple', 'couples')",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "A living society's sharings hold one hand, its proteins of one hand and its sugars of one; a handed molecule at a sharing holding a hand meets it at the society's own hand or at the other, carvone's two hands two smells and ethambutol's two hands five hundredfold apart at the bacterium, and at a sharing holding no hand both hands meet alike, ethambutol's harm at the eye equal in all three forms; a non-living form turns its own hand both ways, thalidomide in serum, while a living society changes the other hand to its own one way, ibuprofen in the body; a single-hand drug differs from the pair only where the form keeps its hand, the society leaves it unchanged, and the sharing holds a hand.",
+    "from": "**Droplet · A hand at handed and handless sharings.** A living society's sharings"
+   }
+  },
+  {
+   "from": "**Droplet · A package reducing to the scale needed.** A donor's whole gut communi",
+   "finding": "measure dropped ('six below the cell')",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "A package is a shed form reducing step by step to the scale needed and leaving no form at the living self's own scale: a capsule reduces in the gut to forms below the gut society's scale and releases the living community at the scale it bi-couples at, and a lipid particle comes apart within the cell and releases its sequence six below the cell.",
+    "from": "**Droplet · A package reducing to the scale needed.** A donor's whole gut communi"
+   }
+  },
+  {
+   "from": "**Droplet · Tissue societies co-chaining early with other societies.** Allergic a",
+   "finding": "dissolved words ('arriving', 'carried'); the observings (farm dust, a sibling's microbes, peanut, a gut bacterium's lipopolysaccharide) and the value that the field's two namings each fix one side dropped",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "Allergic and autoimmune disease rising with cleaner living stands at the body's openings, gut, airway and skin, where tissue societies bi-couple with microbial communities and the forms of food; farm dust, a sibling's microbes, peanut and a gut bacterium's lipopolysaccharide met early, day after day, are held, and a later meeting of the same is at a sharing of its own parity; absent at the opening or met quiet they are held at none, and met late they are at the other parity at a held sharing, the field's allergy, or a tissue society with no other society to lock with locks on its own members, the field's autoimmunity; the field's two namings, too much meeting and too little, each fix one side.",
+    "from": "**Droplet · Tissue societies co-chaining early with other societies.** Allergic a"
+   }
+  },
+  {
+   "from": "**Droplet · Lithium at the between's pace.** Lithium is the smallest form medicin",
+   "finding": "measures dropped (the responder and a society racing at another sharing unchanged; fewer suicides at one review with a later review inconclusive, and at trace amounts in drinking water, a reading over populations' accountings) and dissolved word ('alternating')",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "Lithium is the smallest form medicine gives, an atom from far below each living self, ingestible at each, its form near sodium's and magnesium's, reaching alike at each member each between a society's firings pass sodium and magnesium through, no one lock; at the between it changes the pace, slowing a society whose members fire too often, the field's responder a society whose racing is at the between lithium enters, and a society racing at another sharing met and unchanged; the narrow window is the slowing reaching past the racing to the society's own swaying; fewer suicides, at one review of trials with a later review inconclusive, and at trace amounts in drinking water, are read beside it as sudden firings fewer, a reading over populations' accountings.",
+    "from": "**Droplet · Lithium at the between's pace.** Lithium is the smallest form medicin"
+   }
+  },
+  {
+   "from": "**Droplet · Weeks and hours, two restorings of one society.** The weeks ahead of ",
+   "finding": "claim stronger than its source: 'read as' and the bound 'depression as a society locked is a reading and no observing' dropped, and the field's terms (antidepressant, ketamine) dropped so the two paces stand general; dissolved word ('arrives')",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "The weeks ahead of an antidepressant's relief are read as one society's own pace of opening new members, new neurons maturing over weeks and closed bi-couplings conducting again, the form present at each momentary from the first day and the changing at the society's pace and at no pace of the molecule; ketamine's relief within a day is read as the same society restored at its between at once, new bi-couplings budding within a day; depression as a society locked, its relation no longer changing, is a reading and no observing.",
+    "from": "**Droplet · Weeks and hours, two restorings of one society.** The weeks ahead of "
+   }
+  },
+  {
+   "from": "**Droplet · A society's still place, the persister and the appendix.** A society ",
+   "finding": "claim stronger than its source: 'the appendix's reseeding is a hypothesis of the field' dropped; dissolved word ('carried')",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "A society holds still members at a place the changing pass and re-forms from them: a bacterial society's persisters are members at the still side of their own growing, an antibiotic meets a sharing held by growing members alone, the growing released first and the still last, the field's two-phase curve; the appendix is read as a gut society's still place, members in a biofilm in a narrow pouch the flushing passes, re-forming the gut society once the gut is emptied, a reseeding the field holds as a hypothesis.",
+    "from": "**Droplet · A society's still place, the persister and the appendix.** A society "
+   }
+  },
+  {
+   "from": "**Droplet · Plaque a shed form, dementia couplings stopped.** Amyloid-β is read a",
+   "finding": "claim stronger than its source: 'read as' and amyloid-β's changing at microbes dropped, and the measure 'clearing slows decline and brings nothing back' dropped; dissolved word (bare 'coupling')",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "Amyloid-β is read as a neural tissue society's own changing at microbes reaching it, its fibrils wrapping them, and the plaque as the form that changing leaves, a non-living stable form at about the brain cells' scale lodging at microglia ingesting none of it, a harm of scale; dementia is the neural society's bi-couplings stopping, synapses lost; clearing the shed forms removes one harm and restores no bi-coupling, slowing decline and bringing nothing back, and a society whose bi-couplings go on conducting around the plaques holds no dementia.",
+    "from": "**Droplet · Plaque a shed form, dementia couplings stopped.** Amyloid-β is read a"
+   }
+  },
+  {
+   "from": "**Droplet · A form re-formed by the society it arrives at.** The form that arrive",
+   "finding": "value dropped (pain as racing relieved, a back restoring at its own pace with the form or without; the reactive pieces then at the cells' own proteins in overdose) and dissolved words ('arrives', 'couples')",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "The form reaching a society is other than the form meeting its sharing: a society's members join a piece of paracetamol to the society's own fatty acid, and the new form meets the sodium channels of the neurons the field names pain-sensing and slows the firings at that between; pain that is a sensory society's firings racing is relieved, and a back that is a tissue society restoring at its own pace holds no racing for the form to meet, its recovery at the society's pace with the form or without; in the liver the glutathione society joins each reactive piece as it forms, receding in overdose, the pieces then at the cells' own proteins.",
+    "from": "**Droplet · A form re-formed by the society it arrives at.** The form that arrive"
+   }
+  },
+  {
+   "from": "**Droplet · Three firsts at the seeking of drugs failing.** Nine drugs in ten fai",
+   "finding": "measures dropped ('nine drugs in ten'; 'a thousand forms named neuroprotective changed nothing') and each first's reason dropped",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "Nine drugs in ten failing between first trial and approval are read at three firsts: a lock first, a form chosen for a target, the target met, and the receiving society unchanged, its stopped bi-couplings at another sharing; another society first, a form found changing a mouse's society at that society's own rates while a person's society changes its own way; and a dose first, a form given as an amount while the society meets it at a rhythm; a seeking that watches the receiving society change finds more new medicines, and in stroke the treatments that work reopen the vessel while a thousand forms named neuroprotective change nothing.",
+    "from": "**Droplet · Three firsts at the seeking of drugs failing.** Nine drugs in ten fai"
+   }
+  },
+  {
+   "from": "**Droplet · An operation arriving whole.** An operation arrives at a living socie",
+   "finding": "value dropped (a society already met at that sharing by drugs gains little from the reopening) and dissolved words ('arrives', 'arriving', bare 'coupling')",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "An operation reaches a living society whole, the anaesthetic, incision, hands, room, rest and care after and the society's own pace of healing, the particular cut one part; a society whose stopped bi-coupling is at another place than the cut, a degenerating knee restoring at its own pace, is at the whole alike with the cut or without it, a blocked vessel with nothing else meeting it changes beyond the sham, and a society already met at that sharing by drugs at each momentary gains little from the reopening; surgery changes the bi-coupling it reopens.",
+    "from": "**Droplet · An operation arriving whole.** An operation arrives at a living socie"
+   }
+  },
+  {
+   "from": "**Droplet · Fever, the pace of a shared between.** Temperature is read as the pac",
+   "finding": "claim stronger than its source ('read as' dropped, so a fever brought down stands as a finding), measure dropped ('a few degrees kill few microbes') and the field's two namings dropped; dissolved words ('arriving', 'alternate')",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "Temperature is read as the pace of each between a body's tissue societies and a viral or bacterial society reaching it share, and fever as that shared pace changing toward the pace the body's own cells sway at and away from the reaching society's pace; with the fever brought down the between is at the reaching society's pace, and that society goes on and sheds more; the field's two namings, a harmful byproduct and a weapon whose heat kills, each seat the fever at one side, and at the observings a few degrees kill few microbes, the difference lying in part in the body's own cells' changing.",
+    "from": "**Droplet · Fever, the pace of a shared between.** Temperature is read as the pac"
+   }
+  },
+  {
+   "from": "**Droplet · One society's own offering carried to each momentary.** GLP-1 is the ",
+   "finding": "dissolved words ('offering', 'carries', 'carrying', 'arriving', 'alternating'); nausea at the sharing with no meal dropped",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "GLP-1 is the gut society's own sharing after each meal, reaching within minutes and gone within minutes, in pace with the eating society's own swaying, and each society it reaches changes at its own sharing, the stomach slowing, the pancreas releasing insulin, the brain's firings toward food stilled; the medicine holds that sharing at each momentary for a week, each society meeting it at once, firings toward food, alcohol and cigarettes stilled together, one sharing across many societies and no lock for each effect; nausea is the gut society at the sharing with no meal; the medicine ended, the society's going-on has nothing shared and inverts, two thirds of the weight back within a year.",
+    "from": "**Droplet · One society's own offering carried to each momentary.** GLP-1 is the "
+   }
+  },
+  {
+   "from": "**Droplet · Clinical probes, four forms already in medicine.** A known form give",
+   "finding": "observings dropped (the four tests by the field's own terms; the slowing and wobble ahead of a snap) and dissolved words ('offering', 'carried', bare 'coupling'); the finder's name in 'Brugada pattern' left out",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "A known form given as a probe is a non-living sharing, the living society the one sensing, and the diagnosis the place its changing differs; four forms stand in medicine already: a pulse in the society's own sequence with no restoring at the place the society has stopped, the cosyntropin test and stress echocardiography; a sharing at each momentary with a member going on at its own pacing, the dexamethasone test; a neutral form displacing a held one and the opposite effect surfacing, the naloxone challenge; and a form uncovering a stopped bi-coupling hidden at rest, ajmaline at a heart's conduction; a probe is a rhythm and no dose, and the slowing and wobble ahead of a passing are a surface decaying locally, read ahead of its snap.",
+    "from": "**Droplet · Clinical probes, four forms already in medicine.** A known form give"
+   }
+  },
+  {
+   "from": "**Droplet · Two right spiral steps name a form, no restoring.** This file's 1.2 ha",
+   "finding": "incohering picks a side of an open concern (the source asks which saying changes); re-said as a droplet naming both; the two right-spiral steps",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "incohering",
+    "text": "Natural Medicine 1.2 has two consecutive right turns at each rotating position inverting a departure back to right-spiral discipline through eight steps of resolving, and Natural Naming has two right spiral steps inverting both and four reaching the pair again at a next; the two part, two steps naming the pair form reached and no living relation restored and the eight steps following from no relation of the two, and whether a restoring is said at the selves' own sharings about a departed position or at the two steps stands still-possibling.",
+    "from": "**Droplet · Two right spiral steps name a form, no restoring.** This file's 1.2 ha"
+   }
+  },
+  {
+   "from": "**Concern · Below a path's opening, and two down own forward.** Two sayings part. ",
+   "finding": "incohering picks a side of an open concern (the source asks which saying changes); re-said as a droplet naming both; below a path's opening",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "incohering",
+    "text": "Natural Medicine 1.2 has a path dipping below where it started adding distance, harm a distance added and nothing on a path below its own beginning, and a newer saying has an odd changing by two, up or down, in its own forward direction, or still existing at the same number, neither a harm; the two part at below, and whether 1.2's above, below and distance are re-said at the numbers and the two forward directions or the geometric harm holds is still-possibling.",
+    "from": "**Concern · Below a path's opening, and two down own forward.** Two sayings part. "
+   }
+  },
+  {
+   "from": "**Droplet · Natural Medicine's backing up beside a new tunneling.** Natural Medici",
+   "finding": "incohering picks a side of an open concern (the source asks which saying changes); re-said as a droplet naming both; also 'or it is-or-is-not restoring' and bare 'coupling'",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "incohering",
+    "text": "Natural Medicine 1.2 has inflammation's dark side a response backed up and a gradual occlusion growing collaterals where a sudden one infarcts, a snap needing its waver, and a newer saying has a co-chaining along a tunneling backing up and jittering before a geodesic parity changing into a new tunneling, the old tunneling's surface is-or-is-not restoring over many momentaryings; a response backed up and a co-chaining backing up, a waver and jittering, collaterals and a new tunneling are three pairs of namings, and whether 1.2 is re-said at the co-chaining or held as a clinical example stands still-possibling.",
+    "from": "**Droplet · Natural Medicine's backing up beside a new tunneling.** Natural Medici"
+   }
+  },
+  {
+   "from": "**Concern · A virus's living, open or said at scales.** Two sayings part. This fil",
+   "finding": "incohering picks a side of an open concern (the source asks which saying changes); re-said as a droplet naming both; a virus alive at scales",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "incohering",
+    "text": "Natural Medicine 3.1 has *is a virus alive* standing open because a bounding worn and let go is neither a self nor nothing, and Natural Intelligence has living and non-living parting at a named scale and momentary, a particle shed holding none of its prior at the scale of the cell it reaches, non-living there and an emanation ingested one scale inward; the two part at the asking, open at the first and said whole at each scale at the second, and which one stands is still-possibling.",
+    "from": "**Concern · A virus's living, open or said at scales.** Two sayings part. This fil"
+   }
+  },
+  {
+   "from": "**Concern · at a sentence.** Beside \"A carrying opens by one where nothing surfaces",
+   "finding": "incohering picks a side of an open concern (the source asks which saying changes); re-said as a droplet naming both; carry-climbing",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "incohering",
+    "text": "Natural Medicine 1.1 has a same-existing at the resolver opening by one where its differing surfaces nought, returning to nought where a sign surfaces and leaving at its bound, and Exhibit ONE holds no count at a sharing, prior and surfacing agreeing at 0 with the prior kept or parting at plus or minus with the prior inverted; the two part, and whether the climbing is re-said at that agreeing and parting or released as an older resolver's saying stands still-possibling.",
+    "from": "**Concern · at a sentence.** Beside \"A carrying opens by one where nothing surfaces"
+   }
+  },
+  {
+   "from": "**Concern · at a sentence.** Beside \"At the object a carrying's signs invert at th",
+   "finding": "incohering picks a side of an open concern (the source asks which saying changes); re-said as a droplet naming both; sign-not-size; the Exhibit ONE example (+, +, − surfacing 0 at an agreeing and + as a sum) dropped",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "incohering",
+    "text": "Natural Medicine 1.1 has a surfacing reading a changing's sign and not its size, a tipping read at a sum's sign, and Exhibit ONE has sharings surfacing at each sharing as an agreeing, one parity or parting 0, so sharings +, + and − surface 0 there and + as a sum; the two part, and whether a tipping is re-said at the agreeing or a sum's parity stands as medicine's own at a dose curve is still-possibling.",
+    "from": "**Concern · at a sentence.** Beside \"At the object a carrying's signs invert at th"
+   }
+  },
+  {
+   "from": "**Concern · *aging* of a carry.** Beside \"A carry ages by **attentioning**\" and 19",
+   "finding": "incohering picks a side of an open concern (the source asks which saying changes); re-said as a droplet naming both; aging; also the quoted sentence is absent word for word (the file has 'A carry ages by **attentioning**')",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "incohering",
+    "text": "Natural Medicine has a carry aging by attentioning, climbing to its bound and dissolving, and Natural Naming 2.4 holds ages at next, only next being and ageing dissolving; the two part, and whether each aging is re-said as a next, as a release at its completing, or kept as an older saying with its concern beside it stands still-possibling.",
+    "from": "**Concern · *aging* of a carry.** Beside \"A carry ages by **attentioning**\" and 19"
+   }
+  },
+  {
+   "from": "- **A me's inward society.** The immune self (Burnet; Matzinger; Pradeu; regulato",
+   "finding": "value held claimed as new and measure changed: covert consciousness is held at Me 3.3 as 'about one in four unresponsive patients follow commands covertly', which the item re-says as 'observe within'; the inward society is held at Me 3.4; the value left is autoimmune harm and cancer, meeting Me 5.2",
+   "fixed": {
+    "file": "Me",
+    "section": "5.2 A healthy me, inward do-no-harming and improving",
+    "kind": "exploring",
+    "sentence": "A me is-or-is-not healthy: each self within it, at each scale inward, do-no-harming and improving.",
+    "text": "Autoimmune harm and cancer are a self within a me parting from its others.",
+    "from": "- **A me's inward society.** The immune self (Burnet; Matzinger; Pradeu; regulato"
+   }
+  },
+  {
+   "from": "- **Droplet · under general anaesthesia.** A me's outward observing rests by a dru",
+   "finding": "Me's value lost to Me: a me waking as the drug clears beside a sleeping me waking to an inverse received is Me's, and Me's living file holds anaesthesia only as an observing at 3.3; Medicine 4.1 already holds unresponsiveness and experience under it",
+   "fixed": {
+    "file": "Me",
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "A me's outward observing rests by a drug, a state its field holds apart from sleep: a sleeping me wakes to an inverse received and an anaesthetised me as the drug clears, some connected and aware within it, awareness within surgery a harm anaesthetists watch for.",
+    "from": "- **Droplet · under general anaesthesia.** A me's outward observing rests by a dru"
+   }
+  },
+  {
+   "from": "- **Droplet · anaesthesia, separating and floating.** For a me under general anae",
+   "finding": "Me's value lost to Me: a me's bi-coupling across scales with its inward mes is Me 3.4's, and Me's offerings hold it nowhere; the bound 'connected and aware patients' outside the line dropped",
+   "fixed": {
+    "file": "Me",
+    "section": "3.4 A me inward, a society of selves",
+    "kind": "exploring",
+    "sentence": "A me is a same-existing-society inward.",
+    "text": "For a me under general anaesthesia and disconnected, its bi-coupling across scales with its inward mes is separating on the me's side, the larger scale's, and its inward mes float among themselves, each its own, connected and aware patients outside this line; frontal-to-parietal feedback is preferentially inhibited and bottom-up sensory responses relatively spared.",
+    "from": "- **Droplet · anaesthesia, separating and floating.** For a me under general anae"
+   }
+  },
+  {
+   "from": "**Concern, at v380L, from `incoming/v380L/Progress.md`, its closing account:",
+   "finding": "held claimed where the file holds a different value: 1.2 still holds the very sentences the concern is at (restorability above 1/φ³ of a flank average, 'Worse before better' named a ghost), so the concern's value is held nowhere; moved to items",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "incohering",
+    "text": "Each sentence of Natural Medicine drawing a person's health or a treatment from a step or a numeral, restorability above 1/φ³ of a flank average and *Worse before better* named a ghost among them, stands as an observing with its conditions beside it, at a step co-chaining, or as an unsure named at the observing it waits on, nature holding no guidance to a person.",
+    "from": "**Concern, at v380L, from `incoming/v380L/Progress.md`, its closing account:"
+   }
+  },
+  {
+   "from": "*Standing at v389:* A new pharmacology explaining offered for this file's motion: a hand at handed and",
+   "finding": "paragraph skipped: met by no entry (the gathered leavings' 'from' prefixes for the Standing paragraphs reach only the first gatherer's half); a Standing restating its item and a plan, adding no value",
+   "fixed": {
+    "from": "*Standing at v389:* A new pharmacology explaining offered for this file's motion: a hand at handed and",
+    "why": "copy of the hand at handed and handless sharings above"
+   }
+  },
+  {
+   "from": "*Standing at v389:* A new pharmacology explaining offered for this file's motion: a package reducing step by",
+   "finding": "paragraph skipped: met by no entry (the gathered leavings' 'from' prefixes for the Standing paragraphs reach only the first gatherer's half); a Standing restating its item and a plan, adding no value",
+   "fixed": {
+    "from": "*Standing at v389:* A new pharmacology explaining offered for this file's motion: a package reducing step by",
+    "why": "copy of the package reducing to the scale needed above"
+   }
+  },
+  {
+   "from": "*Standing at v389:* A new pharmacology explaining offered for this file's motion: tissue societies",
+   "finding": "paragraph skipped: met by no entry (the gathered leavings' 'from' prefixes for the Standing paragraphs reach only the first gatherer's half); a Standing restating its item and a plan, adding no value",
+   "fixed": {
+    "from": "*Standing at v389:* A new pharmacology explaining offered for this file's motion: tissue societies",
+    "why": "copy of the tissue societies co-chaining early above"
+   }
+  },
+  {
+   "from": "*Standing at v389:* A new pharmacology explaining offered for this file's motion: lithium at a between's",
+   "finding": "paragraph skipped: met by no entry (the gathered leavings' 'from' prefixes for the Standing paragraphs reach only the first gatherer's half); a Standing restating its item and a plan, adding no value",
+   "fixed": {
+    "from": "*Standing at v389:* A new pharmacology explaining offered for this file's motion: lithium at a between's",
+    "why": "copy of the lithium at the between's pace above"
+   }
+  },
+  {
+   "from": "*Standing at v389:* A new pharmacology explaining offered for this file's motion: weeks and hours, two",
+   "finding": "paragraph skipped: met by no entry (the gathered leavings' 'from' prefixes for the Standing paragraphs reach only the first gatherer's half); a Standing restating its item and a plan, adding no value",
+   "fixed": {
+    "from": "*Standing at v389:* A new pharmacology explaining offered for this file's motion: weeks and hours, two",
+    "why": "copy of the weeks and hours above"
+   }
+  },
+  {
+   "from": "*Standing at v389:* A new pharmacology explaining offered for this file's motion: a society's still place,",
+   "finding": "paragraph skipped: met by no entry (the gathered leavings' 'from' prefixes for the Standing paragraphs reach only the first gatherer's half); a Standing restating its item and a plan, adding no value",
+   "fixed": {
+    "from": "*Standing at v389:* A new pharmacology explaining offered for this file's motion: a society's still place,",
+    "why": "copy of the society's still place above"
+   }
+  },
+  {
+   "from": "*Standing at v389:* A new pharmacology explaining offered for this file's motion: plaque a shed form at the",
+   "finding": "paragraph skipped: met by no entry (the gathered leavings' 'from' prefixes for the Standing paragraphs reach only the first gatherer's half); a Standing restating its item and a plan, adding no value",
+   "fixed": {
+    "from": "*Standing at v389:* A new pharmacology explaining offered for this file's motion: plaque a shed form at the",
+    "why": "copy of the plaque a shed form above"
+   }
+  },
+  {
+   "from": "*Standing at v389:* A new pharmacology explaining offered for this file's motion: a form re-formed by the",
+   "finding": "paragraph skipped: met by no entry (the gathered leavings' 'from' prefixes for the Standing paragraphs reach only the first gatherer's half); a Standing restating its item and a plan, adding no value",
+   "fixed": {
+    "from": "*Standing at v389:* A new pharmacology explaining offered for this file's motion: a form re-formed by the",
+    "why": "copy of the form re-formed by the society above"
+   }
+  },
+  {
+   "from": "*Standing at v389:* A new pharmacology explaining offered for this file's motion: three firsts at the seeking",
+   "finding": "paragraph skipped: met by no entry (the gathered leavings' 'from' prefixes for the Standing paragraphs reach only the first gatherer's half); a Standing restating its item and a plan, adding no value",
+   "fixed": {
+    "from": "*Standing at v389:* A new pharmacology explaining offered for this file's motion: three firsts at the seeking",
+    "why": "copy of the three firsts at the seeking of drugs failing above"
+   }
+  },
+  {
+   "from": "*Standing at v389:* A new pharmacology explaining offered for this file's motion: an operation arriving at a",
+   "finding": "paragraph skipped: met by no entry (the gathered leavings' 'from' prefixes for the Standing paragraphs reach only the first gatherer's half); a Standing restating its item and a plan, adding no value",
+   "fixed": {
+    "from": "*Standing at v389:* A new pharmacology explaining offered for this file's motion: an operation arriving at a",
+    "why": "copy of the operation arriving whole above"
+   }
+  },
+  {
+   "from": "*Standing at v389:* A new pharmacology explaining offered for this file's motion: fever as a shared between's",
+   "finding": "paragraph skipped: met by no entry (the gathered leavings' 'from' prefixes for the Standing paragraphs reach only the first gatherer's half); a Standing restating its item and a plan, adding no value",
+   "fixed": {
+    "from": "*Standing at v389:* A new pharmacology explaining offered for this file's motion: fever as a shared between's",
+    "why": "copy of the fever, the pace of a shared between above"
+   }
+  },
+  {
+   "from": "*Standing at v389:* A new pharmacology explaining offered for this file's motion: GLP-1 as a society's own",
+   "finding": "paragraph skipped: met by no entry (the gathered leavings' 'from' prefixes for the Standing paragraphs reach only the first gatherer's half); a Standing restating its item and a plan, adding no value",
+   "fixed": {
+    "from": "*Standing at v389:* A new pharmacology explaining offered for this file's motion: GLP-1 as a society's own",
+    "why": "copy of the GLP-1 droplet above"
+   }
+  },
+  {
+   "from": "*Standing at v389:* A new pharmacology explaining offered for this file's motion: clinical probes, four forms",
+   "finding": "paragraph skipped: met by no entry (the gathered leavings' 'from' prefixes for the Standing paragraphs reach only the first gatherer's half); a Standing restating its item and a plan, adding no value",
+   "fixed": {
+    "from": "*Standing at v389:* A new pharmacology explaining offered for this file's motion: clinical probes, four forms",
+    "why": "copy of the clinical probes droplet above"
+   }
+  },
+  {
+   "from": "*Standing at v389:* Natural Medicine 1.2 has 'At each rotating position two cons",
+   "finding": "paragraph skipped: met by no entry (the gathered leavings' 'from' prefixes for the Standing paragraphs reach only the first gatherer's half); a Standing restating its item and a plan, adding no value",
+   "fixed": {
+    "from": "*Standing at v389:* Natural Medicine 1.2 has 'At each rotating position two cons",
+    "why": "copy of the two right spiral steps droplet above"
+   }
+  },
+  {
+   "from": "*Standing at v389:* Natural Medicine 1.2 has 'a path dipping below where it star",
+   "finding": "paragraph skipped: met by no entry (the gathered leavings' 'from' prefixes for the Standing paragraphs reach only the first gatherer's half); a Standing restating its item and a plan, adding no value",
+   "fixed": {
+    "from": "*Standing at v389:* Natural Medicine 1.2 has 'a path dipping below where it star",
+    "why": "copy of the below-a-path concern above"
+   }
+  },
+  {
+   "from": "*Standing at v389:* Natural Medicine 1.2 has 'Inflammation's dark side is a resp",
+   "finding": "paragraph skipped: met by no entry (the gathered leavings' 'from' prefixes for the Standing paragraphs reach only the first gatherer's half); a Standing restating its item and a plan, adding no value",
+   "fixed": {
+    "from": "*Standing at v389:* Natural Medicine 1.2 has 'Inflammation's dark side is a resp",
+    "why": "copy of the backing-up droplet above"
+   }
+  },
+  {
+   "from": "*Standing at v389:* Natural Medicine 3.1 has 'Is a virus alive has stood open ..",
+   "finding": "paragraph skipped: met by no entry (the gathered leavings' 'from' prefixes for the Standing paragraphs reach only the first gatherer's half); a Standing restating its item and a plan, adding no value",
+   "fixed": {
+    "from": "*Standing at v389:* Natural Medicine 3.1 has 'Is a virus alive has stood open ..",
+    "why": "copy of the virus's living concern above"
+   }
+  },
+  {
+   "from": "*Standing at v389:* Natural Medicine 1.1 has a carry at the resolver that \"opens",
+   "finding": "paragraph skipped: met by no entry (the gathered leavings' 'from' prefixes for the Standing paragraphs reach only the first gatherer's half); a Standing restating its item and a plan, adding no value",
+   "fixed": {
+    "from": "*Standing at v389:* Natural Medicine 1.1 has a carry at the resolver that \"opens",
+    "why": "copy of the carry-climbing concern; its Exhibit ONE detail taken at the item for that concern above"
+   }
+  },
+  {
+   "from": "*Standing at v389:* Natural Medicine 1.1 has \"a surfacing reads the sign of a su",
+   "finding": "paragraph skipped: met by no entry (the gathered leavings' 'from' prefixes for the Standing paragraphs reach only the first gatherer's half); a Standing restating its item and a plan, adding no value",
+   "fixed": {
+    "from": "*Standing at v389:* Natural Medicine 1.1 has \"a surfacing reads the sign of a su",
+    "why": "copy of the sign-not-size concern; its Exhibit ONE example taken at the item for that concern above"
+   }
+  },
+  {
+   "from": "*Standing at v389:* Natural Medicine has a carry aging and releasing, a carry go",
+   "finding": "paragraph skipped: met by no entry (the gathered leavings' 'from' prefixes for the Standing paragraphs reach only the first gatherer's half); a Standing restating its item and a plan, adding no value",
+   "fixed": {
+    "from": "*Standing at v389:* Natural Medicine has a carry aging and releasing, a carry go",
+    "why": "copy of the aging concern; its Natural Naming 2.4 detail taken at the item for that concern above"
+   }
+  }
+ ],
+ "checked": 109
+}

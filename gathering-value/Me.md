@@ -38,6 +38,8 @@ Gathering-Value · Me
 
 ### 3.4 A me inward, a society of selves
 
+- **Possible exploring** · For a me under general anaesthesia and disconnected, its bi-coupling across scales with its inward mes is separating on the me's side, the larger scale's, and its inward mes float among themselves, each its own, connected and aware patients outside this line; frontal-to-parietal feedback is preferentially inhibited and bottom-up sensory responses relatively spared. — at "A me is a same-existing-society inward."
+
 ## FOUR · ME, NEXT-EXISTING
 
 ### 4.1 Observing, possibling and discovering a me's next
@@ -54,6 +56,8 @@ Gathering-Value · Me
 
 ### 5.2 A healthy me, inward do-no-harming and improving
 
+- **Possible exploring** · Autoimmune harm and cancer are a self within a me parting from its others. — at "A me is-or-is-not healthy: each self within it, at each scale inward, do-no-harming and improving."
+
 ### 5.3 A society's me, a natural intelligence network
 
 ### 5.4 Each momentary completing as a next opening
@@ -63,3 +67,4 @@ Gathering-Value · Me
 ## Droplets
 
 - A me is of one prime living scale.
+- A me's outward observing rests by a drug, a state its field holds apart from sleep: a sleeping me wakes to an inverse received and an anaesthetised me as the drug clears, some connected and aware within it, awareness within surgery a harm anaesthetists watch for. *(possible exploring)*

@@ -21,6 +21,7 @@ Gathering-Value · Natural Biology
 
 - **Possible exploring** · By a field's account alone, conjoined twins are joined always at like sites, the side parts of a structure of one embryo joined to the facing parts of the other, and only at places where surface ectoderm is absent, the heart and septum transversum primordia, or about to be removed, the neural tube and the oropharyngeal and cloacal plates. — at "Every coupling within a living network is with a membrane between, itself a self."
 - **Possible exploring** · Craniopagus twins, each with her own brain, are joined by a bridge between their thalami, each reported to feel and taste what her sister does, with some evidence of each seeing through her sister's eyes. — at "Where an observing finds two selves touching, a living set, a self, is standing between them sharing, and it is as much a self as either."
+- **Possible exploring** · Fetal progenitor cells stand in maternal blood up to twenty-seven years after a birth, and cells go across between twins sharing a placenta, a whole living self found in another self long after. — at "No self touches another directly"
 
 ### 1.5 Six one-way recursionings, per cycle
 
