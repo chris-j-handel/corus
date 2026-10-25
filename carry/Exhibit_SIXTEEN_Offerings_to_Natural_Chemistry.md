@@ -417,3 +417,12 @@ Contradiction, the living and the non-living: Natural Biology draws the line the
 
 - **Natural Chemistry 1.1, 4.7, 5.2 and 6.5 · What persists through the changing:** the exchanging network, differently nucleating crystals, bent two-phase crystal and reconstructing catalyst above gather a concern for proposed natural torusing stable-forming: participant kind, particular coupling, local phase, whole continuity and chemical competency can change differently, so each same-existing claim must identify what carries through the particular prior, now and next, and the proposed natural relation must distinguish the observed continuance from parting under specified conditions rather than acquire support from every outcome alike. — chemistry-water-20261022
 **Droplet · this file's first motion, as a separate reader proposes it at v392F.** re-say the subtitle and its 10 body sayings of *travel\** by meaning in one motion (Natural Naming 2.4: *going on*, *same-existing*), with the Registry's *a* cell changing with it. The binary: does the word name an existing thing's own going on. The old subtitle goes to `archive/` beside v391 with the Registry's prior row; the 61 branch droplets are received append-both at the offerings when the pull request opens (Standing_v392F.md, next motions), each keeping its DOI, their 26 `_v390.md` pointings dissolving to titles at that receiving. The reader's whole dossier, counts and evidence stand at `incoming/v392F/readers/sciences_dossier.md`; no wording there carries authority. — v392F
+
+
+## Incoming · atom-carbon-prime-correspondence
+
+[Whole gathering](../incoming/atom-carbon-prime-correspondence/Natural_Numbers_Atom_Carbon_Exploring_Report.md).
+
+- **Natural Chemistry §§1.1 and 1.6 · One proposed atom/carbon identity:** atom and carbon are carried here as two names for the one universal non-living stable form being explored, with the numerical co-chain from corus and surface to that one referent still being joined. — atom-carbon-prime-correspondence
+
+- **Natural Chemistry §1.6 and THIRTY step 487 · The unchanged atom and changing relations:** carbon's couplings doing its chemistry offers a way to carry all opposing and incoming changings in relations around the same atom, while THIRTY's allowance for non-living changing leaves that proposed complete invariance and its universality to be resolved. — atom-carbon-prime-correspondence

@@ -140,3 +140,14 @@ So with the six, 1 to 17 is one round only because 17 falls with a six's place, 
 
 - **Droplet · odd and even.** 1.7's prime living scales, five to fifty-three, each odd, meet Exhibit ONE's spiral of selves: a 0 recurring only with an odd number of selves, and an even one with none. — me-thirty-one-20261024
 **Droplet · this file's first motion, as a separate reader proposes it at v392F.** at 5.2 and 9.7 together, one sentence saying a round whole — sixteen the names' round, 17 to 33, and six the prefixes' round within it, or sixteen alone — read for harm against 1.4's bi-foldings and 9.7's spans; the binary that decides it: does the prefix stream *co bi tri bi co bi* with 1 co-bi-tri put 33 at co-bi-tri (a round of sixteen holds alone) or at tri-bi-co (two rounds, each its own), computed at the numbers before entering. The offerings' "one concern of this pass" and its three scaling bullets dissolve with it; the archive takes the 1.1 and 7.1 quotes of *alternating* and *carry no last* as stale wording already met at v391. The reader's whole dossier, counts and evidence stand at `incoming/v392F/readers/numbers_to_transmissioning_dossier.md`; no wording there carries authority. — v392F
+
+
+## Incoming · atom-carbon-prime-correspondence
+
+[Whole gathering](../incoming/atom-carbon-prime-correspondence/Natural_Numbers_Atom_Carbon_Exploring_Report.md).
+
+- **Natural Numbers §7.7 · The first-nine partition:** under the existing prime-position correspondence, own names 3, 4 and 5 reach 23, own-five 3, 4, 5, 7 and 8 reach 59, entry and now-possibling bring that to 64, and across–along names 6 and 9 complete the first-nine whole as 64 + 36 = 100. — atom-carbon-prime-correspondence
+
+- **Natural Numbers §§6.3 and 7.7 · Three named thirty-sixes:** rotation 3–6–5–4, co-competent pair 7–8 and across–along pair 6–9 each have prime sum 36, with the rotation and across–along equality following from p(3) + p(4) + p(5) = p(9), so the three equal sums retain their distinct and overlapping roles. — atom-carbon-prime-correspondence
+
+- **Natural Numbers §§6.3 and 9.9 · Nine centres and four pairs:** on a cyclic nine-ring, pairing c − k with c + k modulo nine for k from one through four at each centre c exhausts all thirty-six unordered pairs exactly once, nine sets of four pairs whose order of resolving and relation to bi-folding four-cycles remain to be carried. — atom-carbon-prime-correspondence

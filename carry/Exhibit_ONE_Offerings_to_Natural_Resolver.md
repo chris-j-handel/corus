@@ -76,3 +76,10 @@ Exhibit ONE Natural Resolver Offerings · resolved at v391
 
 - **Concern · *a same-existing-society coming in*.** The naming table's *16-next-same-existing, a same-existing-society coming in* and line 541 carry an ingressing word; re-saying offered *a same-existing-society opening*, as Natural Intelligence's dimension 1 names *a momentary opening* (gathering §0aq). — me-thirty-one-20261024
 **Droplet · this file's first motion, as a separate reader proposes it at v392F.** the seven forms named at the offerings' line 27 stay as reference forms, each with a one-line lead, deciding the concern's second side; the binary at each row of each form: does the row compute from the seventeen numbers (8 up, 9 less, 17 less, 8n − 7) or from the code, run, as :9 says a table is an executing; a row computing stays, prose past its lead leaves whole to `archive/session_v392F/` (Natural Intelligence part FOUR already holding its explaining, Registry *c*), both copies one text at `cohere_one.py`. The Registry row's *d* and *e* cells are mended at the Registry's own motion from the v390 pre-narrowing text. The reader's whole dossier, counts and evidence stand at `incoming/v392F/readers/core_and_method_dossier.md`; no wording there carries authority. — v392F
+
+
+## Incoming · atom-carbon-prime-correspondence
+
+[Whole gathering](../incoming/atom-carbon-prime-correspondence/Natural_Numbers_Atom_Carbon_Exploring_Report.md).
+
+- **Natural Resolver, four bi-foldings · Prime positions:** the correspondence from each name to its prime carries the existing four bi-foldings and their returns by position, with operations and odd/even attached to those positions and no numerical summing of working parities introduced into the resolver. — atom-carbon-prime-correspondence

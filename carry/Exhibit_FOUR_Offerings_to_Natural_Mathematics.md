@@ -122,3 +122,10 @@ Exhibit FOUR Natural Mathematics Offerings · improved at v389
 
 - **Droplet · one opening.** 5.3's *two parities' circles winding with one opening* meets the twisted figure-eight loops of steps 268 and 740. — me-thirty-one-20261024
 **Droplet · this file's first motion, as a separate reader proposes it at v392F.** *the sign flip* re-said whole as *both parities inverted with one step* at 2.2's title and its five sayings (living:18, 121, 125, 225, 239, 435), the field's *sign* at cos t, spin and group theory left as a field's own; the binary: does Natural Naming 2.4's row for *sign* (Natural_Naming:311) take this generator's name, a parity's 0 or ± and "no name of its own", or is *the sign flip −1* a field's established term kept whole. With it the two SEVEN · CO-OFFERING concerns and the 5.2 numbering concern go to the archive as met at v391, their standings recording the headings that stand now. The reader's whole dossier, counts and evidence stand at `incoming/v392F/readers/numbers_to_transmissioning_dossier.md`; no wording there carries authority. — v392F
+
+
+## Incoming · atom-carbon-prime-correspondence
+
+[Whole gathering](../incoming/atom-carbon-prime-correspondence/Natural_Numbers_Atom_Carbon_Exploring_Report.md).
+
+- **Natural Mathematics, folds and stable forms · Pairing and cycling:** two fixed-centre reflections on a nine-ring compose to a translation of order one, three or nine, so nine centres with four podal pairs each do not themselves carry a four-step cycle, while the doubled-span bi-foldings of Natural Numbers §9.9 supply a further relation to follow. — atom-carbon-prime-correspondence

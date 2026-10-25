@@ -141,3 +141,12 @@ Exhibit THIRTY Co-Chaining Logic Registry Offerings · improved at v389
 
 - **Concern · step 476's *a self*.** A quote of 476 that cut *a self* by ellipsis was found in Thirty-One's draft; the draft now says a same-existing-society's own is only its selves' own by step 297, and 476's *a self* goes with the opening proposal's pair 5 (gathering §0ar). — me-thirty-one-20261024
 **Droplet · this file's first motion, as a separate reader proposes it at v392F.** the subtitle, *The Fractal Inward and Outward, Binary Method of Discovering Next Existing* (:5), re-said with step 70 (:352), *geodesic discovering of next-possibling-same-existing*: *binary method* dissolved as the method's naming at v391 (carry/Exhibit_TWENTY_Offerings_to_Natural_Naming.md:273; the Registry's *c* cells at TWELVE :143 and TWENTY-FOUR :215) and no step holds it (0 in step lines); the binary, pass 1 bound (Geodesic Improving Method 3.3, :254): does each concept of the subtitle derive within the body — *fractal inward and outward* at step 463, *discovering next-possibling-same-existing* at 70, *binary method* at none; the prior subtitle goes whole to `archive/session_v392F/` with the Registry's *a* cell following. No item at these offerings carries this; it arrives from Natural Naming's line 273 as a droplet here. Scale ahead of step 80 (line 61) is the next. The reader's whole dossier, counts and evidence stand at `incoming/v392F/readers/core_and_method_dossier.md`; no wording there carries authority. — v392F
+
+
+## Incoming · atom-carbon-prime-correspondence
+
+[Whole gathering](../incoming/atom-carbon-prime-correspondence/Natural_Numbers_Atom_Carbon_Exploring_Report.md).
+
+- **Co-Chaining Logic Registry steps 506–511 · The joining at twenty-three:** p(9) = 23 and the twenty-up rotation 3 + 20 = 23 meet at the same number, leaving the relation between prime correspondence and rotation to be carried through 4 + 20 = 24 toward the proposed one atom/carbon stable-form identity. — atom-carbon-prime-correspondence
+
+- **Co-Chaining Logic Registry, stable-forming at numbers · Thirty-six and forty:** the named first-nine partition gives 100 − 64 = 36 beside 60 − 24 = 36, and consequently 64 − 24 = 100 − 60 = 40, locating an arithmetic correspondence whose joining of operations remains open. — atom-carbon-prime-correspondence
