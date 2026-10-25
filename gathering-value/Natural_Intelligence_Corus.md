@@ -131,3 +131,5 @@ Gathering-Value · Natural Intelligence Corus
 ### 23.8 The One Destiny at Many Sections — The Bounding Composition
 
 ## Droplets
+
+- Social competency as bi-coupling with a same-existing-society scale is the Registry's bi-coupling across, its self and same-existing-society along, or both, a reading still-possibling, and a naming at several files derives it at an empty set of them. *(possible incohering)*

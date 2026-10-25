@@ -101,3 +101,5 @@ Gathering-Value · Natural Emanating
 ### This exhibit does not hold
 
 ## Droplets
+
+- Social moral competency as changing and changing back with a same-existing-society's scale is the Registry's morality across, its competency along, or both, a reading still-possibling beside step 255. *(possible incohering)*

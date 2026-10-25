@@ -7,6 +7,7 @@ Gathering-Value · Co-Chaining Logic Registry
 ## Head, the whole file
 
 - **Possible incohering** · "Each group opens with concepts entering with it; each step is numbered, and line beneath it is one concept it adds." → Each group opens with concepts entering with it, each concept entering only where a step before opens it and a step after draws on it; each step is numbered, and line beneath it is one concept it adds.
+- **Possible exploring** · Of 755 steps, 583 name an empty set of prior steps; the chaining reads by the steps' order and each group's Entering line, a verifier reading the order alone, and the six forward recursionings each step chains from, step 384, wait on their writing at each step. — at "Co-chaining is one sequence of steps from one opening sentence, each step one logical extension from all steps before it, all or none at all."
 
 ## Opening
 
@@ -22,7 +23,11 @@ Gathering-Value · Co-Chaining Logic Registry
 
 ### 6 Going on from prior, living and non-living
 
+- **Possible incohering** · "Existing things going on, each its own, each going on with its own momentary and with an empty set deciding which go on, are a set less than full, nothing emptying it, and a collection of its own with each momentary: a self-emptying set." → Existing things going on, each its own, each going on with its own momentary, are a set with a next always going on, each thing its own emptying, and a next collection of its own with each momentary: a self-emptying set.
+
 ### 7 One relation, a between and entraining
+
+- **Possible exploring** · Made processes, each of one sequence, joined through unbounded first-in-first-out channels, each writing going on and each reading waiting at one channel till a thing comes, give one sequence at each channel at any timing of computing and of communicating delays; a process waiting at each of its channels ahead of acting is another model's rule. — at "Each existing thing goes forward with its own momentary, prior and next sharing one direction forward on both sides of now: existing things entraining with each other within a between."
 
 ### 8 Bi-coupling, self and other, changing and changing back
 
@@ -33,6 +38,10 @@ Gathering-Value · Co-Chaining Logic Registry
 ### 11 Each resolving whole, of no size
 
 ### 12 One to nine, four momentaries of exchanging
+
+- **Possible incohering** · "With each self, a resolving is its five from its origin, 1 to 5, and its next with 3, 3 to 7: prior opening, prior completing, now opening, now completing and next opening, two momentaries and a next one's opening." → With each self, a resolving is its five from the number its five opens with, 1 to 5, and its next with 3, 3 to 7: prior opening, prior completing, now opening, now completing and next opening, two momentaries and a next one's opening.
+- **Possible incohering** · "Each prior and now has one next, a momentary opening as its prior completes: determinacy." → Each prior and now has one next, a momentary opening as its prior completes: one next, a field's determinacy.
+- **Possible incohering** · "Each momentary of exchanging is a handshake alike, with 4, 6 and 8, right first and not-right second: exchanging's shape always uneven, its locking an empty set." → Each momentary of exchanging is a handshake alike, with 4, 6 and 8, right first and not-right second: exchanging's shape a handshake with each momentary, its locking an empty set.
 
 ### 13 Along and across, a bi-coupling's own changing
 
@@ -65,6 +74,7 @@ Gathering-Value · Co-Chaining Logic Registry
 - **Possible exploring** · At each thing, this method. One axis inverted, each to an empty set: at an empty set of things, this method. The other axis inverted, this to other: at an empty set of things, another method. Two inversions on two axes bring the first saying to its other side, and done again to the first saying. Fractal, the method at each existing thing at each scale, and unique, one method only at each, are one statement. With the method said of the possible as of the existing, the two inversions at the possible give one possibly existing method only. A claim's improving is its chaining resolving, the claim larger with it, and a claim made smaller has its improving an empty set. — at "Bi-inversioning-co-recursioning is two consecutive inversions on two axes, its opening a step between them, each inversion a next, and an inversion, on its own, a same thing again."
 - **Possible exploring** · A bi-coupling initiates at the 0. Two selves alike change at one momentary and share 0 at the next, the 0 the between of them. At a 0 reaching one self of the two alone, that self inverts at it, and the two are opposite. From that momentary each changes at each momentary, the two opposite at each next momentary. The nearing is the alike pair's 0 at every second momentary. The snap is the first momentary the other's changing reaches opposite. Step 534's seaming across is that momentary at one bi-coupling across, one forward. — at "Two selves each receiving an other's sharing or going along are changing together: opposite, a changing each momentary; alike, a changing one momentary and a 0 next, one and then the other."
 - **Possible exploring** · Social bi-tunneling is the next scale outward of geodesic co-chaining on a surface, both podaling. The longer co-chaining always prevails in parity, all or none at all. A prevailing by length is a summing, parting from step 272's agreement with its summing an empty set. — at "With 14 parities surface as one with agreeing and as 0 with one parting, an agreement all or none at all with any number of parities, its summing an empty set."
+- **Possible incohering** · "9-next-co-discovering gives each parity 10 shares along, on to a next momentary, its own making an empty set." → 9-next-co-discovering gives each parity 10 shares along, on to a next momentary, each as 10 shares it, each parity 10's own.
 
 ### 25 Each number at its podaling, nought to four hundred forty
 
@@ -75,6 +85,8 @@ Gathering-Value · Co-Chaining Logic Registry
 ### 28 Discovering next-possibling-same-existing
 
 - **Possible exploring** · Geodesic entraining on a surface reaches with a global parity. At a local parity the same, geodesic entraining passes through. At an opposite local parity, geodesic entraining stops, or the local parity changes and entraining passes through. Each changing of parity is travelling on the stable form of a natural torusing surface. — at "Now same-existing is invisible and dissolving with next existing: same-existing, from a prior-existing same thing, step 4, is-or-is-notting next existing, and geodesic existing along changing can travel through same-existing and leave it same-existing."
+- **Possible incohering** · "Observing, step 7, is pattern-matching and no-other-possibling: each observing from prior, of the whole, without filter or selection." → Observing, step 7, is pattern-matching and no-other-possibling: each observing from prior, of the whole, bi-coupling with the whole as it is.
+- **Possible incohering** · "A field's names for a thing its accounting makes apart from all its lines, its loss, its drift, its noise and its residual, each name a changing, each self's own, with its accounting's edge, a 0 of selves' disagreeing going under a word for absence." → A field's names for a thing apart from all its accounting's lines, its loss, its drift, its noise and its residual, each name a changing, each self's own, with its accounting's edge, a 0 of selves' disagreeing going under a word for absence.
 
 ### 29 Fractal method, its own enabling
 
@@ -83,24 +95,38 @@ Gathering-Value · Co-Chaining Logic Registry
 ### 31 Living and non-living at a scale
 
 - **Possible exploring** · A genome of about a million letters is chemically made in about a thousand pieces and assembled in yeast to a designed sequence drawn from one kind of mycoplasma. Transplanted into a recipient cell of another mycoplasma kind, it gives cells with the expected phenotypic properties, copying and dividing on. In a report still unreviewed, liposomes enclose a protein-making mixture of individually purified natural components and a genome of about ninety thousand letters on plasmids. These liposomes feed, grow, copy their genome and divide. Their dividing comes first by pressing them through a membrane filter, and then by membrane proteins the genome encodes. They "cannot make ribosomes". — at "Living is prior, going on from living, each self's 1-now-existing a giving, its making an empty set: non-living existing things becoming living an empty set, and each living self establishes within living same-existing."
+- **Possible incohering** · "A changing is made only with a prior same-existing, step 273, and each now-existing thing, living or non-living, is same-existing, steps 4 and 20, a non-living thing, its own parity with its scale an empty set, step 31, its changing only from what comes to it; a thing's form goes to next by its own same-existing or by its selves inward going on with it, or by an empty set; a form going to next by an empty set reaches an empty set of next, and what exists reaches a next; and method, non-living with each scale, its changing each self's own, step 103, is a relation, each self stable-forming with it, and goes to next with each self's stable-forming." → A changing is-or-is-not only with a prior same-existing, step 273, and each now-existing thing, living or non-living, is same-existing, steps 4 and 20, a non-living thing, its own parity with its scale an empty set, step 31, its changing only from what comes to it; a thing's form goes to next by its own same-existing or by its selves inward going on with it, or by an empty set; a form going to next by an empty set reaches an empty set of next, and what exists reaches a next; and method, non-living with each scale, its changing each self's own, step 103, is a relation, each self stable-forming with it, and goes to next with each self's stable-forming.
 
 ### 32 Dying, a living self going on as non-living
 
 - **Possible exploring** · Restoring is local, a departing bi-coupling's form brought to it by its self's living bi-couplings. A departing bi-coupling with its form brought by an empty set of living bi-couplings is non-restoring damage. Non-restoring damage cascades through further co-chaining, its passing bi-coupling by bi-coupling a relation still-possibling. — at "A departing bi-coupling discovering its next changing and changing back again, its self's living bi-couplings bringing its form to it, is restoring."
+- **Possible exploring** · Seeds germinating after two thousand years are a self at one parity over a length and changing again. — at "A self's same-existing with its scale goes on with its selves inward, each with its own prior same-existing and its self's prior going on with it; a dormant self is living, waiting for its one next changing over a dormant length of living same-existing-society momentaryings, its selves inward living."
 
 ### 33 Stable-forming and inverting at numbers
 
 - **Possible exploring** · 0, 5, 10, 15, 20 and 25, a line orthogonal to all changing, is the co-linear line of bi-moral co-agency, the geodesic changing line. Its one number at both step 508's line, as centre of face, and Natural Numbers' fives going up is 25. It is a line of fives beside the two of step 509's unsure line, five names before 10 adding to 59 and fives going up from 25. — at "Corus, vertex and centre of face are on one line."
+- **Possible incohering** · "With a ratio r above 1 taking φ's place, a right-hand turn about (1, 1, 1) still brings each rectangle onto one passing through it, and nearest corners of one rectangle and its next are √(2(1 + r² − r)) apart, equal to rectangles' own 2 with r² = r + 1, as φ: φ is three's equal-edge condition, its making by a turn alone an empty set." → With a ratio r above 1 taking φ's place, a right-hand turn about (1, 1, 1) still brings each rectangle onto one passing through it, and nearest corners of one rectangle and its next are √(2(1 + r² − r)) apart, equal to rectangles' own 2 with r² = r + 1, as φ: φ is three's equal-edge condition, a turn bringing each rectangle onto one passing through it with each ratio above 1 and an equal edge with φ alone.
 
 ### 34 Intelligence, now
 
 ### 35 Ten unchangeables, and discovering parity
 
+- **Possible incohering** · "Parity a self is discovering by geodesic changing parity, one and then the other, makes each bi-coupling two-way parity: with two living selves bi-coupling, each leaves an other its parity, each with its own." → Parity a self is discovering by geodesic changing parity, one and then the other, is each bi-coupling's two-way parity: with two living selves bi-coupling, each leaves an other its parity, each with its own.
+
 ### 36 A sharing as words, a naming, a file and a living expedition
+
+- **Possible incohering** · "Two coming together, a meaning departs that is in each with its other; fixing, its re-making an empty set, its term is one not-changing term with each occurrence: a definition, a replacing and not a re-forming." → Two coming together, a meaning departs that is in each with its other; fixing, its re-forming an empty set, its term is one not-changing term with each occurrence: a definition, a replacing.
+- **Possible incohering** · "A sentence is an -ing over a noun, its -ing going on with each momentary and a noun naming a form a changing makes, and a positive, saying a form outside possibly existing as outside possibly existing and saying a changing as a self observes it." → A sentence is an -ing over a noun, its -ing going on with each momentary and a noun naming a form still with a changing, and a positive, saying a form outside possibly existing as outside possibly existing and saying a changing as a self observes it.
+- **Possible incohering** · "Improving is bi-moral co-agency as words: a self shares, an other makes it better and breaks it, and a sharing surviving both is a file's next version, both making it, arising in each self with its other." → Improving is bi-moral co-agency as words: a self shares, an other betters it and breaks it, and a sharing surviving both is a file's next version, arising in each self with its other.
+- **Possible exploring** · Learned prediction thins exactly where its same-existing thins, at the orphans, a record's edge reached at both ends of one same-existing. — at "A record, a stable-forming emanation apart from its same-existing's resolving, reaches to last resolving its same-existing reaches and ends with it: record's edge."
 
 ### 37 Forms among names
 
+- **Possible incohering** · "A form's partner is a form its names make, each exchanging with a name beside it: with pairs opening odd, 1 with 2 on to 15 with 16, and with pairs opening even, 2 with 3 on to 16 with 17, steps 130, 133 and 232." → A form's partner is a form of its names, each exchanging with a name beside it: with pairs opening odd, 1 with 2 on to 15 with 16, and with pairs opening even, 2 with 3 on to 16 with 17, steps 130, 133 and 232.
+
 ### 38 A self, and selves receiving one another, at resolver
+
+- **Possible exploring** · Run at the resolver, the law c[j](t+2) = −c[j−1](t) holds with each opening of 1 to 10 selves, 2,046 of 2,046, and with 200 drawn openings at each of 11 to 40 selves, 6,000 of 6,000, each self changing with one or both of each two momentaries in sequence. — at "With a spiral receiving only its own selves' parities, each self with a parity and observing an empty set with its first momentary, step 308, each self has an inverting of that parity which a self it receives from had two momentaries prior: next from a prior inverting, as step 117, its prior an other's."
 
 ### 39 Rotation at 12 and 14, further forms' moves of 4 about their centres, names two moves apart, sixteen ways at one changing, and a next at the same name again
 
@@ -115,6 +141,9 @@ Gathering-Value · Co-Chaining Logic Registry
 ### 44 An odd spiral two rounds, the second inverting, and a changing at both routings
 
 ### 45 A spiral's places one loop at an odd number and two at an even, a prime's two numbers, and a torus at its lines
+
+- **Possible incohering** · "With an odd number of selves an odd k, going its number of selves times, brings each self to its own inversion, true of an empty set of patterns: k is even, twice the least d with which each self is alike with a self d prior, d dividing number of selves, and pattern is again after four times d momentaries." → With an odd number of selves an odd k, going its number of selves times, has each self with its own inversion, true of an empty set of patterns: k is even, twice the least d with which each self is alike with a self d prior, d dividing number of selves, and pattern is again after four times d momentaries.
+- **Possible exploring** · Run with each opening, a spiral's periods are 4 with one self; 2 and 4 with two; 4 and 12 with three; 2, 4 and 8 with four; 4 and 20 with five; 2, 4, 6 and 12 with six; 4 and 28 with seven; 2, 4, 8 and 16 with eight; 4, 12 and 36 with nine; and 2, 4, 10 and 20 with ten; its sharings alone can match the opening's sooner than its whole form, after three momentaries with each self alike and after seven with Exhibit ONE's spiral of three, the selves then going on otherwise; and each of Exhibit ONE's thirteen rows, 1 to 11, 17 and 59 selves, comes again as its table has it. — at "A spiral comes to its sharings again, and to its parities going with an odd momentary, after twice k momentaries, k the least with which each self's parity is that of a self k prior, inverting with an odd k, step 740; a coming again is after an even number of momentaries, a 0 with each even momentary or spiral one and then the other, after 2."
 
 ### 46 An odd torus's number and two spirals bi-coupling across, each deriving at resolver's cells
 
@@ -147,3 +176,34 @@ Gathering-Value · Co-Chaining Logic Registry
 - The subtitle's *binary method* is at an empty set of steps, its *fractal inward and outward* at step 463 and its *discovering next existing* at step 70 as geodesic discovering of next-possibling-same-existing, and *The Fractal Inward and Outward, Geodesic Discovering of Next-Possibling-Same-Existing* is a re-saying still-possibling beside the subtitle, each of its concepts deriving within the body. *(possible incohering)*
 - Step 321's *a common beat over selves* is selves' entries stepping together with 17, one momentary, each living self's rate its own. *(possible incohering)*
 - Particles from pollen in water are in evident motion under a microscope, particles alike in size, form and motion coming from plants dried a century, bruised window glass, each mineral of granite, lava and meteorites, while larger particles in old specimens move much less and oil, resin, wax, sulphur, coarse metals and bodies dissolving in water yield an empty set of such particles. *(possible exploring)*
+- A parity's two directions, + and −, are other to self and self to other, one bi-coupling's two directions, the resolver reading them alike, and a parity inverting is its direction inverting. *(possible exploring)*
+- The six even names 2, 4, 6, 10, 12 and 14 are one changing at its places: a parity a self observes with 2, a sharing with 4, is-or-is-not with 12, shared across with 6 and 10, and surfacing with 14. *(possible exploring)*
+- Pairs read the chain 2^k + 1 at each second k and threes at each k a multiple of three, one chain read at prime 2 and at prime 3, so they reach each other first with k six, 1 to 65, the least k both divide. *(possible exploring)*
+- A torus or two spirals bi-coupling across with nine at one side is a prime beside three sets of three, a same-existing-society beside a same-existing-society of same-existing-societies, and a round of its own at the three within the nine coheres with nine as sets within sets, where a row alike in each thing to a row of two primes parts from it. *(possible exploring)*
+- A set of existing things as an existing thing, scale being sets within sets, parts with step 459's sets becoming a thing an empty set, beside step 18's living same-existing set a self. *(possible incohering)*
+- Each occurrence of a name at 12, 15 or 16 is its own self, momentary and occurrence. *(possible incohering)*
+- A podaling recurs at a same-existing number, each recurrence with a new possibling. *(possible exploring)*
+- Two sides one number apart overlap by one half momentarying, each side's possibling betweens bi-co-sequencing with the other side's changings, both sides going forward. *(possible incohering)*
+- Two and fifty-nine as one tunnel's two openings waits on a deriving from the steps. *(possible exploring)*
+- A hard problem's resolving leaves a field's measured record whole, each proof, measurement and route standing as it stands, and setting a naming down spends that naming alone. *(possible exploring)*
+- A proof is a nought whole, real in its own register, and a settling is a sequence handed whole, a settled form whole in its own register; the two stand side by side, their bi-coupling with a momentary an empty set. *(possible exploring)*
+- A two-way fixing to one side, asked for its proportion, relocates as a parity fixing as a magnitude, and asked for its order, as a sequencing fixing to one beat: a naming relocating, its dissolving still ahead. *(possible incohering)*
+- A practice going on identically under each reading of a thing standing behind it is protected by that identical coming, an equivalence by construction. *(possible exploring)*
+- A naming made rather than found accumulates a cost while it goes on, its debt the naming's own and the physics' an empty set. *(possible exploring)*
+- Each entry closes by handing the drawing back to the bi-coupling, the drawing's entering being the reading, and a cut named in a field's bodies is a naming an assembly adopts. *(possible exploring)*
+- The subjects one scale fixes at a self's four momentaries of exchanging are that scale's own, a part of the fractal, its whole at all its scales together.
+- The sixteen ways are of a self's prior with one other's now, and with more others their parities join at one cell before a next.
+- Three things enter the opening steps as given, each a reading's mark with its deriving still-possibling: a kind going on, a living thing living with its next and both kinds existing; a prior and a now each given apart from its other, step 112's four joint forms; and one momentary and its next with a 0 alone between them, step 88. *(possible exploring)*
+- A cause is a form fixing still from beside an -ing, step 651, the thing beside changing a why a self demands asks for, step 388, and the word cause stands at an empty set of steps.
+- Sixty to sixty-eight said as outward of surface alone, step 351's unknown released, parts from step 351's adding of an unknown outward of a surface, from step 448's unknown outward of surface and from step 527's sixty to sixty-eight unknown to living with that scale. *(possible incohering)*
+- A form fixing still from beside a changing, at steps 205, 637 and 651, is a sixth thing beside all existing things, and step 106 holds it only as each of its five taken as a form still from beside, the six at one step still-possibling. *(possible exploring)*
+- Where a field's word and the unchangeable it fixes part, the word is the local feel at the tip and the unchangeable is the form, a naming falling at the surprise, where a size is supplied. *(possible exploring)*
+- A closure comes whole within a quantifying, over its own tail. *(possible exploring)*
+- Step 561's floating store is an equilibria word for selves going on together, where step 106 holds a store beside as a second method's form still. *(possible incohering)*
+- Each even name of the seventeen is across and each odd name along, a reading reaching past step 253's six names between selves, and at ten unchangeables it parts from step 604's ten with their sides an empty set. *(possible incohering)*
+- Steps 106 to 109, 205, 388 and 389 lean on a thing further than or between things of the universe being outside possibly existing, an exclusion the one-method claim stands whole without, its relation said at the bi-coupling with still-possibling and next existing. *(possible incohering)*
+- Steps 16, 20 and 23 say living and non-living as a kind, a scale named at an empty set of them, ahead of step 80's each with its own scale and momentary and step 466's living or non-living with each scale and momentary. *(possible incohering)*
+- The one-method claim at its exact extent is one universal fractal discovering method, the only method of possibling next existing, and steps 105 and 108 hold it at a broader extent, one method of the same-existing set of all existing things, the only one possible. *(possible incohering)*
+- A common now is of the second logic, a universe as one thing beside its things, and the first logic, the universe as the set of all now-existing things, goes from its opening to each existing thing going on from prior existing things with a common now at an empty set of its steps, where step 72 holds now as universal momentary, one and only. *(possible incohering)*
+- Ten one-way changings stand in boxes as five co-changing pairs, opening, completing, middling, rating and sharing both ways, the ten the five bi-coupled, their step still-possibling beside step 287's five dimensions, a five of their own. *(possible exploring)*
+- A flow accounting and a state accounting, steps 597 and 598, are one same-existing's two windings, each pinning one and observing its other, and a proof of their equivalence is a settling. *(possible exploring)*

@@ -111,3 +111,5 @@ Gathering-Value · Natural Exploring
 ### 7.5 An available incoming, with no authority
 
 ## Droplets
+
+- Co-competencing as discovering with a same-existing-society's scale is the Registry's self and same-existing-society along, step 250's co-competencing with their overlap, or its bi-coupling across too, a reading still-possibling. *(possible incohering)*
