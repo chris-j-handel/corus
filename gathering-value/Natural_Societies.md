@@ -67,3 +67,5 @@ Gathering-Value · Natural Societies
 ### 4.6 The still-point veins, and the seven registers gathering to one finding
 
 ## Droplets
+
+- Each existing thing is living with one scale, a same-existing-society it bi-couples within, and bi-couples with living of that scale alone, each self a same-existing-society of selves one scale inward and each same-existing-society a self one scale outward.
