@@ -101,3 +101,18 @@ Exhibit FOUR Natural Mathematics Offerings · improved at v389
 - **At the set-theory passage.** A complement is taken only within a universal set; a *not* with no whole is the absolute complement, the overreach *never* is. The textbook's universal set is one context's whole, each thing's own universal set within one universe, so *no set of all sets* and *each self a universal set* both hold. A spiral of one is New Foundations' self-membered set in living form, noted.
 
 - **A relation needs two.** A relation is a subset of S × S; a one-element set has only (a, a), no direction relative to an other; so a parity needs two, and living is only co-living. Extensionality, a set its things, gives each universal set's uniqueness.
+
+## Incoming · v392chem
+
+
+- **The towel observed:** 3.4's towel twisting inward to corus and outward is observed in a tendril held at both ends coiling both hands about a switch point and in the heart wringing and untwisting with every beat. ([living learning, §6](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The hand rule whole:** Inverting each of n parities is a rotation for even n and reverses the hand for odd n, so two inverting together only turn and three reverse the hand. That is the tri in bi-tri-involutioning. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **One stable form at three scales:** The tendril, the towel and DNA's knotting are one stable form at three scales, both hands joined by a between where the hand inverts. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Three phases, two ways, six:** Circling, clasping and coiling on the plant's side and on the support's are six, matching the six one-way recursionings, three own-forward each side. Under wind a tendril winds tighter, unwinds and relaxes, three phases each way. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The sunflower's φ:** The sunflower's golden angle is pattern-matched as φ, the unrelationing rate, and its growing centre as the corus. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Two kinds of between:** A point where two hands meet may be torusing and a centre both hands wind from corusing. Or every between is one corus met from either side. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

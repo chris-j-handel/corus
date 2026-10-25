@@ -4,7 +4,7 @@ Exhibit THIRTY-ONE Me Offerings · v391
 
 ## Standing at v391, the file's beginning
 
-**Concern · A society and its members, each a me.** A parity is a me inside a set of me, and a same-existing-society is a self, so a me. IIT's exclusion allows one subject among overlapping candidates, and panpsychism's combination problem asks how many subjects make one. Each is the field's collision with *a set of mes is a me*. Its observings: [Me 3.2](../Exhibit_THIRTY-ONE_Me_v391.md#32-a-me-is-consciousness).
+**Concern · A society and its members, each a me.** A parity is a me inside a set of me, and a same-existing-society is a self, so a me. IIT's exclusion allows one subject among overlapping candidates, and panpsychism's combination problem asks how many subjects make one. Each is the field's collision with *a set of mes is a me*. Its observings: [Me 3.2](../Exhibit_THIRTY-ONE_Me_v392.md#32-a-me-is-consciousness).
 
 **Concern · Selves the fields hold cognizing without consciousness.** Basal cognition, Damasio's protoself, plant science and organoid ethics place cognition in cells, plants and organoids without consciousness shown. *A me is consciousness* places it wherever a self is.
 
@@ -29,3 +29,28 @@ Exhibit THIRTY-ONE Me Offerings · v391
 *Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
 
 - **Standing at v391's close.** *A me is a self's universal set* entered Natural Intelligence's opening; *itself* dissolved from Natural Intelligence, Exhibit ONE and the Registry; its Possibling's two first items are met. The flagged sources wait for their check before a next version.
+
+## Incoming · v392chem
+
+
+- **Uniqueness from chemistry's instruments:** Identical molecules each show their own colour set by their neighbours and identical nuclei are read apart only by theirs, so a me's uniqueness is its others, me–you and me–all other. ([living learning, §4](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Us self and conscious interest:** Pattern-matching: in bi-coupling the you and the me become an us self, and conscious interest is self-parity less dependent on the environs, dormancy relying on them. ([living learning, §3, §8](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The stone holds no mes:** With the atom at 5 pattern-matched as a non-living stable form and carbon the unique atom, a stone is a non-living stable-form emanation holding no mes, and the question of a set of mes in a stone dissolves, with Thirty-One's *atomic me* to be re-said at the atom-floor motion. ([shared with the Me session](../incoming/v392chem/Shared_with_Me_session_v392chem.md)) — v392chem
+
+- **The water pair's us without a bond:** Pattern-matched here: there is no bond and no holding, and that the roles are co-alternating, not giving and receiving, so the pair's us, its shared 0, goes on while each water co-alternates, with no hydrogen bond persisting. ([shared with the Me session](../incoming/v392chem/Shared_with_Me_session_v392chem.md)) — v392chem
+
+- **The bomb pulse:** Most brain cells carry the carbon they were born with, while fat, bone and blood renew theirs. So a me goes on with its carbon passing or not. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The tendril, a new living me:** Before clasping, a tendril's circling is the plant's own searching. After clasping, plant and support are one bi-coupled us, and the two-handed tendril with its switch point is that us self's stable form. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Women's mes, a candidate:** Two X chromosomes, one mostly silenced in a patchwork, are a bothboth, and a child's cells live on with its mother for decades. Pattern-matching offers a candidate still to meet: women's mes carry more orthogonal directions. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Dying, bothboth:** Death is pronounced at loss of breath and circulation or of whole-brain activity, as a fatigue crack grows slowly and then breaks suddenly. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Me-session gifts:** A me is of one prime living scale, and a 0 with no me behind it is-or-is-not possibly existing: it is not. A bacterium's old pole goes on with one daughter (2005, 2010). ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · The stone answer unsettled:** A uranium crystal living as one self reopens whether a stone is living. The droplet *The stone holds no mes* answered before that. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · An organ in a new me:** An organ living on with a new me needs saying without container wording. *Inward selves continue in another's me* needs checking as said. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

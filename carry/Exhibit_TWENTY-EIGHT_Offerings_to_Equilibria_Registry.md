@@ -103,3 +103,26 @@ The user's further offering is: “if the living stable form is colliding with n
 - **At 3.3 · four binaries at two faces.** Its table lays four binaries on name pairs (now 1·2, existing 3·4, same 5·6, all 7·8): the pairing dissolved at v391, made by no code line; the ten fixings seated on it re-seated or said without it.
 
 - **A proving reached once.** A set of only non-living things as a universal set is-or-is-not possibly existing: it is not, as an equilibrium is not. A minor co-chaining step, and the logic goes forward by what is.
+
+## Incoming · v392chem
+
+
+- **Chemistry's row from observings:** Exchange observed at constant composition, a half-life as a rate fixed as a value, and donor and acceptor as a two-way fixed to one side are candidate chemistry observings for this registry's empty columns. ([living learning, §1, §8](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Basic chemistry named by its fixings:** Melting point and latent heat (1760s) are a between fixed as a cut, thermal equilibrium a completing fixed as a last and a two-way read one way, and saturation a rate fixed as a value and a sameness fixed as a store. Completion is a completing fixed as a last, pH a parity fixed as a magnitude and an opening fixed as a place, and the energy hill a middle fixed as an end. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Societies in contact agree:** Two societies in contact share until their readings agree, an agreeing parity with a 0 between them, indifferencing, while every self goes on changing. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Weight, time and temperature relational:** No time or temperature is universal, each fixed relationally, and weight is a relational reading too. Every rate, equilibrium constant and energy hill written with one T and one t compares one changing against a chosen loop at one agreed reading. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Carbon's living forms last only going on:** Every carbon form of living would burn in air and goes on only because that changing is slow and living renews it. So no rest is found in them. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Order in time needs a built-in clock:** Order in time is observed only where an experiment builds in a clock, and elsewhere a model assigns it. That is sequencing fixed to one beat, a candidate for this registry. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Entry 128 here:** A setpoint is a value fixed as a place. The orthogonality binary returns no value, only whether each change goes on with the body's same-existing. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- ***Stored*:** *Stored* fixes a heritable change as a store, and the change goes along in the stable form. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Reciprocity on one experiment:** Natural Chemistry 1.5 calls the reciprocity of two flows exact, while for chemical reactions it rests on one confirming experiment. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Kinetics without a clock:** Whether a rate is only a self's record comparing prior, now and next against a non-living loop, so kinetics is orders and sequences of changings, or *warmer goes faster* is nature's own, is open. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

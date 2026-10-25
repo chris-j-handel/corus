@@ -248,3 +248,32 @@ Exhibit TWENTY-FOUR Geodesic Improving Method Offerings · improved at v389
 - **At 2.6 · two lists apart.** Gaps in prior rigor, incoherence already entered, and improving opportunities still open, kept as two lists.
 
 - **This file's own words.** It says *a surface dividing itself*, *itself* about 12 times, *couple* and *couples* 8, bare *coupling*, bare *harm*, *membrane* in part TWO's title, and *stable form emanatings*; each dissolved or re-named at v391 (*a surface's own dividing*, *bi-coupling*, *do-no-harming*, *a stable-forming emanation*). A living name for *read for harm* is open.
+
+## Incoming · v392chem
+
+
+- **A gathering said in natural explaining:** A gathering for us is said in natural explaining with the field's terms kept apart, one value and its concern at a time, and a long report of a field's terms is no value to us. ([living learning, §1](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+- **Authority, observings only:** No words carry authority over our understanding: ours, science's, or the living files'. Only observings of nature and living do, of nature's universal method, a me parity possibling a same+next-existing. An exploring is an us, so a saying is held as our pattern-matching, attributed to no one, and asks or accepts no authority. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md))
+
+- **No reports:** Value is in the largest learnings, the most concerning observings and the do-no-harm improvings. Repository care goes on with no report and no branch or link talk, finding the value or saying there is none. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Say each thing twice:** For someone who is not of the field, a thing is said twice: first the field's explaining in plain words, then the pattern-matching for natural torusing society. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **A field's phrase carries its picture:** A field's phrase carries its picture in, as *an atom joins a molecule* does. Answer with what is observed first, then name what is explaining. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Memory-gathered, checked before entering:** Observings gathered from memory carry no verified mark, so each is checked against sources before a living file takes it. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **GitHub current as we go:** The best incoming value goes to GitHub as we go, not only at the end, since parallel sessions learn from each other both ways. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Value beyond a session's field:** Value found beyond a session's field is laid as droplets where it belongs and presented geodesically to incoming. A session returns to its own field when the set is ready for do-no-harm improving. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **A living file shares:** A living file is non-living, so it shares and does not observe. Each motion is checked for this. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **A resemblance is an opening:** Different subjects each need their own observing, and a resemblance is an opening, not a resolving. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **How a binary closes:** An observing binary closes when a second, independent instrument agrees. An explaining binary closes only once a criterion is stated. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Citations go to carryings:** A living file carries no citation, its names and identifiers going to its carryings, and its version is its last improving. A letter suffix belongs to incoming only. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Our own *hold* set-wide:** About 1,442 lines carry hold words and 132 *bond* words remain across the set. Parting fields' quoted words from our own and dissolving our own *hold* is one motion still to do. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+- **Concern and exploring opportunity:** A concern is a place in observings not yet resolvable as natural torusing. An open question the observings can meet is an exploring opportunity, and is named so. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

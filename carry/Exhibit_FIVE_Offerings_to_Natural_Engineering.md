@@ -245,3 +245,7 @@ The lived and engineering entries are two approaches through the reader's own co
 - **At 4.3 · a concern-journey is side-effecting.** Following a concern past a plan is the sensing, droplets brought back the returning, re-aiming the recursioning.
 
 - **Machines and AI non-living.** A trained model, a computer virus, artificial life: stable-forming emanations of living people; intelligence alone stand-alone knowledge; a self's relation to it the self's parity relative to it.
+
+## Incoming · v392chem
+
+- **Dying in materials:** A fatigue crack grows slowly and then breaks suddenly, dying bothboth in a material. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

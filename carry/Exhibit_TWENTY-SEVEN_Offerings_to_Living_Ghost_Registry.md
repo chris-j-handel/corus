@@ -4,7 +4,7 @@ Exhibit TWENTY-SEVEN Living Ghost Registry Offerings · improved at v386EOD
 
 ## Standing · v389
 
-**Resolved at v389.** 151 items stood here; resolving against [Living Ghost Registry](../Exhibit_TWENTY-SEVEN_Living_Ghost_Registry_v391.md), 22 are carried, 29 rest on released forms, 45 duplicate another item and 18 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY-SEVEN_Offerings_to_Living_Ghost_Registry_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY-SEVEN_Offerings_to_Living_Ghost_Registry_resolved_v389.md). Its 37 concerns stand below, each with its reason; 18 stand now.
+**Resolved at v389.** 151 items stood here; resolving against [Living Ghost Registry](../Exhibit_TWENTY-SEVEN_Living_Ghost_Registry_v392.md), 22 are carried, 29 rest on released forms, 45 duplicate another item and 18 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY-SEVEN_Offerings_to_Living_Ghost_Registry_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY-SEVEN_Offerings_to_Living_Ghost_Registry_resolved_v389.md). Its 37 concerns stand below, each with its reason; 18 stand now.
 
 **Droplet · The registry at the same stable form as the Equilibria Registry.** Exhibit TWENTY-SEVEN Living Ghost Registry is the same stable form of equilibria hard probleming as Exhibit TWENTY-EIGHT Equilibria Registry. At Exhibit ONE Natural Resolver's code a still set beside a self stops its changing, and, the still released, resolving follows. A ghost, like an equilibrium, is a between named still and set beside, not possibly existing. Exhibit TWENTY-SIX Living File Registry's 4.7 has the two registries' shared method and their shared subtitle, "Not Possibly Existing, Living or Non-Living". The registry's entering of it is at its motion, at the Equilibria Registry's spine: each ghost at the still it sets beside and the resolving following. — v386EOD
 
@@ -103,3 +103,14 @@ Living Ghost Registry and Equilibria Registry: two registries, one derivation. T
 - **A citation chain grown into a code-titled table.** The odd and even pairing of four binaries travelled Registry, Natural Naming, Natural Intelligence 4.9, Exhibit ONE, a table titled as the code's with no code line: a still accounting installed by citing.
 
 - **Its *ghost* and common use.** The registry's ghost is a non-living accounting installed as living; common *ghost* and Ryle's *ghost in the machine* name a living thing apart from a body. A fresh reader's misreading to meet.
+
+## Incoming · v392chem
+
+
+- **Virus, electron, radioactive:** A virus taken as living, an electron as an owned particle and *radioactive* as a thing's property are each an emanation or a step fixed as a doer, ghosts for this registry. ([living learning, §8](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Bond a between of two selves, at 310 and 1421:** Lines 310 and 1421 say *bond*, field side, is living, a between of two selves. Natural Chemistry now enters no bond, and a bi-coupling has a between and never is one, so both lines part from it. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Chemistry's kinds admitted by a stated rule:** Almost all chemistry's kinds, its disciplines, groups, *bond* and reaction classes, series and scales, are admitted by a stated rule, a between fixing as a cut. A chemical kind is a universal set only where its membership is observed same-existing, and elsewhere it is a field's word, whole. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The twelve of a virus shell:** Many virus protein shells are icosahedral, with twelve five-fold corners, the same twelve as the 60-carbon cage. A virus as a stable form carries the cage's number. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

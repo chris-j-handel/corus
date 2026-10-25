@@ -4,7 +4,7 @@ Exhibit TWO Offerings to Natural Networking · improved at v389
 
 ## Standing · v389
 
-**Resolved at v389.** 271 items stood here; resolving against [Natural Networking](../Exhibit_TWO_Natural_Networking_v391.md), 52 are carried, 92 rest on released forms, 60 duplicate another item and 9 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWO_Offerings_to_Natural_Networking_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWO_Offerings_to_Natural_Networking_resolved_v389.md). Its 58 concerns stand below, each with its reason; 61 stand now.
+**Resolved at v389.** 271 items stood here; resolving against [Natural Networking](../Exhibit_TWO_Natural_Networking_v392.md), 52 are carried, 92 rest on released forms, 60 duplicate another item and 9 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWO_Offerings_to_Natural_Networking_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWO_Offerings_to_Natural_Networking_resolved_v389.md). Its 58 concerns stand below, each with its reason; 61 stand now.
 
 **At 1.4 · Only signs cross, the middle in no sequence — beside "two positive arrivals against that carrying give positive surfacing".** At Exhibit ONE agreeing offerings surface as one at 14-bi-tri-bi-moralizing, at any number of offerings: one parting is enough for 0, three agreeing surface as one agreeing does, nothing is added up, and at the carried parity agreeing there is no changing. A further offering at offerings parting leaves them parting, at any number of offerings.
 
@@ -275,3 +275,10 @@ At a resolver's functions 6, 10 and 9 are one list, each self's 10-next-co-possi
 *Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
 
 - **Living is geodesic co-chaining on a Natural Network surface**, the same living a self's observing, possibling and discovering names from inside. A surface's living parities are living in the mes of the selves living in it.
+
+## Incoming · v392chem
+
+
+- **The between shares the aim:** The honeybee's straight run between its two turning loops points the colony toward food, a between where a society's aim is shared. ([living learning, §6](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · *Three holding*, at 455:** 455's *three holding* says holding in our own voice, which the files dissolve. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

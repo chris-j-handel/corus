@@ -4,7 +4,7 @@ Exhibit TWENTY-FIVE Living Society Registry Offerings · improved at v386EOD
 
 ## Standing · v389
 
-**Resolved at v389.** 40 items stood here; resolving against [Living Society Registry](../Exhibit_TWENTY-FIVE_Living_Society_Registry_v391.md), 7 are carried, 15 rest on released forms, 3 duplicate another item and 4 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY-FIVE_Offerings_to_Living_Society_Registry_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY-FIVE_Offerings_to_Living_Society_Registry_resolved_v389.md). Its 11 concerns stand below, each with its reason; 12 stand now.
+**Resolved at v389.** 40 items stood here; resolving against [Living Society Registry](../Exhibit_TWENTY-FIVE_Living_Society_Registry_v392.md), 7 are carried, 15 rest on released forms, 3 duplicate another item and 4 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY-FIVE_Offerings_to_Living_Society_Registry_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY-FIVE_Offerings_to_Living_Society_Registry_resolved_v389.md). Its 11 concerns stand below, each with its reason; 12 stand now.
 
 **Concern · *Technology* at 1.1, and a made thing applied from beside.** Two sayings part. Exhibit TWENTY-FIVE Living Society Registry has, at 1.1, "The technology is all or none at all." Exhibit THIRTY Co-Chaining Logic Registry has "A technology is a made non-living thing applied to a changing from beside it, and a method is at the couplings themselves, applied by nothing." They part at *technology*: all or none at all at the first, and at the second a made thing applied from beside, the method at the couplings themselves. Entered at Exhibit THIRTY Co-Chaining Logic Registry from Exhibit TWENTY-FIVE Living Society Registry at version 378: an emptiness as a reading, the instrument summing and the residual, and reading upstream. It is a concern for both. — v386EOD
 
@@ -61,3 +61,11 @@ Defect: Living Society Registry, 1.10 missing; Part Three's status paragraph sta
 **Read with the Living Ghost Registry, v390.** By its 1.1, *a ghost is one momentary's form installed as an existing thing*. A vortex and a lattice are each an observed form; installed as a thing, each is ghost-form, and each is offered as a candidate at its 7.3. They reach no society of selves, and *Society reached* stays as this registry's form name. — v390
 
 *Entered at v390:* the registry's grains passage, once *taken as observable societies*, now says *Grains other than living tissue*: a vortex and a crystal lattice each an observed form and ghost-form installed as a thing, offered at Living Ghost Registry 7.3; electrons a nothing ghost, 5.3; a grid's synchronous area a built set, non-living. Entries 2.14 to 2.21 keep *Society reached* as the form's name.
+
+## Incoming · v392chem
+
+- **Concern · *The society* naming non-living grains:** The template word *The society* at 2.5, 2.7, 2.8 and line 1011 names a nucleus and cold atoms, now non-living stable forms. A same-existing-society is many selves bi-coupling, so the word parts from these grains and waits a registry motion. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · A neutrino called a self, at 2.14:** 2.14's *a messenger is a self changing and changing back along its path* names a neutrino a self. Nothing inward of an atom is now living, so the line parts from the atom at 5 as entered. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · *Two waters at one bond*:** The title at 53 and 430 names a bond, while Natural Chemistry now enters no bond. The pair is two waters co-alternating with no pairing lasting, so the title waits re-saying. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

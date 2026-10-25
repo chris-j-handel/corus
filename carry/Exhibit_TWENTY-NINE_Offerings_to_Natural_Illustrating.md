@@ -4,7 +4,7 @@ Exhibit TWENTY-NINE Natural Illustrating Offerings · improved at v389
 
 ## Standing · v389
 
-**Resolved at v389.** 72 items stood here; resolving against [Natural Illustrating v389](../Exhibit_TWENTY-NINE_Natural_Illustrating_v391.md), 17 are carried, 19 rest on released forms, 5 duplicate another item and 24 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY-NINE_Offerings_to_Natural_Illustrating_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY-NINE_Offerings_to_Natural_Illustrating_resolved_v389.md). The 7 concerns below stand, each with its reason; 7 stand now.
+**Resolved at v389.** 72 items stood here; resolving against [Natural Illustrating v389](../Exhibit_TWENTY-NINE_Natural_Illustrating_v392.md), 17 are carried, 19 rest on released forms, 5 duplicate another item and 24 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_TWENTY-NINE_Offerings_to_Natural_Illustrating_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_TWENTY-NINE_Offerings_to_Natural_Illustrating_resolved_v389.md). The 7 concerns below stand, each with its reason; 7 stand now.
 
 **At 4.1 · Tunneling, corusing and bi-folding, the towel — beside "Torusing in and out is odd".** At the resolver's lines a routing at the odd momentaries alone or the even alone is at no line: 17 gives the one changing of 10 on at 6 and 10 across and at 9 along, each at its coupling, a self coupled both ways at both routings at once and a spiral's self along alone. Torusing's names, 8 and 16, are even and across, and corusing's, 7 and 15, odd and along, Natural Naming's sentence, and the odd and the even of the two openings here are said at that sentence. The two openings as the primes 2 and 59, the tunnel's two ends, is at no file's sentence, Natural Numbers saying two at the entry, 1, and fifty-nine at 17, the surface.
 
@@ -59,3 +59,16 @@ Each sets a self and an other as two number lines, odd and even, overlapping one
 - **At 2.6 · alike selves, a right spiral.** Two alike selves bi-coupling both ways step their priors (x, y) → (y, −x), a quarter turn each momentary, sharing in turn changing then 0: improving then do-no-harming. Opposite selves take a half turn; alike selves one way do not right-spiral.
 
 - **Standing at v391's close.** Its droplet citing *line 28, beholding a parity* is stale: *beholding* and pointing dissolved; living is co-intelligencing within a universal set.
+
+## Incoming · v392chem
+
+
+- **The towel in living:** 4.1's towel is observed in the tendril's switch point, the heart's twist and DNA's snap into a loop, and the bee's figure-eight dance joins two turning loops by a straight run sharing the aim. ([living learning, §6](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · A bond's picture, at 415:** 415 quotes the Living Ghost Registry's *a bond a between of two selves, each living its own side*. Natural Chemistry's no-bond entering parts from that quoted line. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **One stable form at three scales:** The tendril, the towel and DNA's knotting are one stable form at three scales. A self bi-coupled with its particular other at both ends emanates both hands joined by a between where the hand inverts. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The tendril's four parts:** A both-handed coil, clasped at two ends or winding about a centre, with a between where the hand inverts, twisting in and relaxing out, is one pattern not yet said as one definition. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Two kinds of between:** A point where two hands meet, the tendril's switch, the heart's mid-wall or the bee's run, may be torusing, and a centre both hands wind from, a sunflower's or a nucleus's, corusing. Or every between is one corus met from either side. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

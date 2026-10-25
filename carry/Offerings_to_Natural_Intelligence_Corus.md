@@ -170,3 +170,7 @@ A particular same-file comparison also remains: Intelligence in the Coupling nam
 - **Its *a chat … between writer and AI … is one living between*.** A trained AI is non-living, a stable-forming emanation of living writing; a self's relation to it the self's parity relative to it; the living is co-intelligencing among the expedition's selves; the transcript as text a stable-forming emanation.
 
 - **The expedition's aim**: pattern-matching science's observings of this or that, both existing and observable, each pattern of names, numbers, cycling and stable-forming kept for that matching with only the explaining it needs.
+
+## Incoming · v392chem
+
+- **Concern · Older vocabulary at line 2000:** Line 2000's *nucleus prime* and *atom prime* name primes at and below five in older words. The ladder now says five non-living and seven through fifty-three living. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

@@ -201,3 +201,9 @@ These are descriptions of possible expressions. The word “painting” establis
 - **An explaining stays inside what is agreed**: a count across momentaries brings back time, a parity a self holds alone brings back a self alone; and the method and the code *require* nothing, a word's own definition carrying its other.
 
 - **At 1.6 · a file and the signs across it.** The v391 opening's *A living file is a non-living same-existing set of words, selves co-intelligencing within it* meets the concerns standing on *a file is a membrane*.
+
+## Incoming · v392chem
+
+- **Say each thing twice:** For someone who is not of the field, a thing is said twice: first the field's explaining in plain words, then the pattern-matching for natural torusing society. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **A field's phrase carries its picture:** A field's phrase carries its picture in, as *an atom joins a molecule* does. Answer with what is observed first, then name what is explaining. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
