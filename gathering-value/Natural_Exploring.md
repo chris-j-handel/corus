@@ -20,7 +20,6 @@ Gathering-Value · Natural Exploring
 ### 1.1 Changing and changing back, a stable-forming self observing from its own side
 
 - Omegaing as reach and apexing as gathering stand at 1.1, and the reach's naming parts between Natural Naming and Natural Intelligence; one naming of the reach at all three is still-possibling. *(possible incohering)*
-- **Possible exploring** · Still to be looked for: a living beat with one of its two removed; a living form going through three with no two beneath it, the rotary-motor case only partly followed; a living form made from no prior living in a laboratory, and what enters it as prior living; a living thing whose proteins are made throughout in the other hand. — at "Living is both, one and then the other: a discovering ungathering scatters and a gathering undiscovering folds, and a living method is their changing and changing back."
 - **Possible exploring** · A hovering hummingbird is holding its place to the millimetre by steadying the visual motion about it; when a background pattern is moving even minimally, it is drifting about a centimetre, and time to adapt is not removing the drifting. — at "A self is observing from its own side."
 
 ### 1.2 A self a surface, competency a middle, an interior an accounting's placing
@@ -95,7 +94,6 @@ Gathering-Value · Natural Exploring
 
 ### 4.3 Any other method, is or is not
 
-- **Possible exploring** · Still to be looked for as possible breaking observings: a prion copying a fold without a cell; a virus outside a cell; a growing crystal; a dried tardigrade with nothing measurable going on; a living self with no society around or within. — at "Put any living form disequilibria holds to these four."
 
 ### 4.4 Six protecting, three each way
 
@@ -154,14 +152,11 @@ Gathering-Value · Natural Exploring
 
 ### 7.1 Gathering backward and seating forward to living files
 
-- **Possible incohering** · "And an observing working to its edge with one file goes to its dual's turn, its carry a membrane between two files' workings." → And an observing working to its edge with one file goes to its dual's turn, its carry a between, two files' workings at its two ends.
-- **Possible exploring** · Swell charts of sticks and shells are studied and held whole by the wayfinder ahead of a voyage, and stay ashore; at sea the voyage's speed, heading and time are held by the wayfinder alone, through days of waking with short sleeps. — at "Gathering goes backward over a whole standing carry and seats what it finds forward to living files, and it logs nothing: no history, no journey, no roster of things a self does."
 
 ### 7.2 Two standing instances, an improving report and a registry
 
-### 7.3 Four opens and one closure, a schema
+### 7.3 Four opens and one form still, a schema
 
-- **Possible incohering** · "Against them one thing fixes, its properties themselves, uniform elements being what make two entries comparable, so a gathering closes a schema once, with one place, so that nothing else has to close." → Against them one form is still, its properties themselves, uniform elements making two entries comparable: a gathering's schema is a form still, same at all momentaries at once, and each other line lives open.
 
 ### 7.4 Subject-lines and work-lines
 
@@ -169,9 +164,7 @@ Gathering-Value · Natural Exploring
 
 ## Droplets
 
-- A machine reaching competency with no prior competency and no imposed count supplying its changing is a possible break; a competent response, or an exchange repeated, is an observing of the response alone and of the machine's own changing nowhere. *(possible exploring)*
 - Recognizing a living form apart from assuming its changing and changing back keeps a break available to observe. *(possible exploring)*
-- Further places to look: frog embryos' first divisions, seeds germinating, paused embryos resuming, viruses within cells, fireflies coordinating, breathing with heartbeat, sleep with waking, cell division, and the lynx and hare cycles. *(possible exploring)*
 - A visible emanation or a chemical label alone is not what identifies an opposing relation in a living made throughout in the other hand. *(possible exploring)*
 - Two initially alike cells with changed neighbours are a place to look, their natural pair still-possibling to name, and a constructed schedule stands in for the cells' own bi-coupling nowhere. *(possible exploring)*
 - A slime mould with its centre lost, and an isolated part of it, are places to look at its beat, neither yet looked at, its nuclei not identified as selves. *(possible exploring)*
