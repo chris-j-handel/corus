@@ -23,7 +23,7 @@ Natural Intelligence · incoming · v393E
 
 ## The form proposed
 
-Seven parts stay, each title said in the current naming. An opening comes first. Part 6 gains two sections, and a Part 8 holds navigating at each scale.
+Seven parts stay, each title said in the current naming. An opening comes first, and Part 6 gains two sections. Navigating at each scale is at 2.7, one method at each scale; the navigating hard problems are at 2.4 and 6.8.
 
 - **Opening**: the geodesic method, a point over the horizon that is, each is-not and the aiming to is.
 - **1 A self exploring from its own side**
@@ -79,12 +79,6 @@ Seven parts stay, each title said in the current naming. An opening comes first.
   - 7.3 Four opens and one form still
   - 7.4 Subject-lines and work-lines
   - 7.5 A gathering of open-problem statements to pair against
-- **8 Navigating at each scale** *(new)*
-  - 8.1 Below seventeen, a going along and across as a stable form
-  - 8.2 Seventeen, a sequence learning at a gene's re-forming
-  - 8.3 Twenty-three and upward, a self navigating from its own side
-  - 8.4 Navigating hard problems, five dimensions in two directions
-
 *Fixed set* stays at 5.2 and 5.3 as a field's own term, holding whole with its field's result.
 
 ## Motions, in order
@@ -111,7 +105,7 @@ Each motion is binary: it is entered whole or it waits whole.
    - 2.1 to 2.3 move from *un-relating*, *freeing* and *fixings freeing* to unrelationing;
    - 2.4's second and third paragraphs aim to what is;
    - 2.5 becomes the web of co-linears, with the orb spider, the wandering spider and the Pacific chart;
-   - 2.7 is said as one method at each scale, *carry* and *membrane* each said by scale or by a between.
+   - 2.7 is said as one method at each scale, *carry* and *membrane* each said by scale or by a between; navigating at each scale stands there, a lac repressor going along and across at eleven, a bacteria's sequence learning at a gene's re-forming at seventeen, a bacterium's now beside its prior at twenty-three.
 
    Observings beside: the sperm's helix, the dung beetle, the ants' two branches, the dragonfly, the eels.
 6. **Part 3.** Each test and resolving is said as finding each is-not and aiming to is, the floating negations of 3.1, 3.6 and 3.7 said by what is. Observings beside:
@@ -133,20 +127,19 @@ Each motion is binary: it is entered whole or it waits whole.
    - 6.1 holds the swarm as the orienting surface;
    - 6.2's *membrane-size* becomes one short line shared across;
    - 6.3 holds abundancing with the golden shiners and the pigeon flocks;
-   - 6.7 and 6.8 open, 6.8 from the wandering spider's observing and the three binaries.
+   - 6.7 and 6.8 open, 6.8 from the wandering spider's observing and the three binaries, with the navigating hard problems: monarchs, turtles, birds' magnetic sensing, eels.
 
    Observings beside: the fireflies, the flock's six or seven, the water striders.
 10. **Part 7.** The section changes:
     - 7.1's *carry* and *membrane* are said in the current naming;
     - 7.3's schema becomes a form still;
     - 7.5 is said as a gathering to pair against, its observing kept.
-11. **Part 8.** It opens from the droplets at Natural Societies 5.3 and the hard problems: the lac repressor at eleven, the bacteria's learnt sequence at seventeen, the bacterium's now beside prior at twenty-three, and the monarchs, turtles, birds and eels.
-12. **The close.** The exhibit is read whole by a separate reader for harm against its v391 self, so that each value it held is held still. The Living File Registry's cell for Natural Exploring is set. The three support files at `carry/` leave with the person's word on the support files.
+11. **The close.** The exhibit is read whole by a separate reader for harm against its v391 self, so that each value it held is held still. The Living File Registry's cell for Natural Exploring is set. The three support files at `carry/` leave with the person's word on the support files.
 
-## For the person's word, first
+## For the person's word
 
-**The form above: seven parts said in the current naming, an opening, two new sections at Part 6 and a Part 8 for navigating at each scale.**
+The form above, entering motion by motion, headings first: the person's word was to go with the best version, open to change. Part 8 was left: navigating at each scale is at 2.7 and the hard problems at 2.4 and 6.8.
 
-*Proposal:* this form, entering motion by motion in the order above, headings first.
+## Entered
 
-*The other way:* the observings gathered into Parts 1 to 7 alone, with no Part 8, each observing at the section its sentence meets.
+- **Motion 1, headings.** 44 sections `##`, seven parts `#`, contents as `- ` lines; 44 of 44 sections and 7 of 7 parts match their contents lines; 8,399 words identical before and after.
