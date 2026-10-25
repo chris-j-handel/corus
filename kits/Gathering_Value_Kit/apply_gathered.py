@@ -5,7 +5,7 @@ Usage: python3 kits/Gathering_Value_Kit/apply_gathered.py LIVING_TITLE GATHERED.
 LIVING_TITLE is the title of the living file the slice belongs to (e.g. "Natural Intelligence"); an item with its own "file" goes to that file.
 Each reading's corrections replace the item or leaving with the same "from"; a correction whose "fixed" has a "kind" becomes an item.
 Each item is checked before anything is written: its file and section exist, and a quoted sentence stands word for word at its living file.
-A failed check stops the whole slice, all or none."""
+An item whose quote stands nowhere word for word becomes a droplet carrying its quote; any other failed check stops the whole slice, all or none."""
 import glob, json, os, re, sys
 
 args = [a for a in sys.argv[1:] if a != '--dry']
@@ -56,7 +56,10 @@ for i in items:
     if i['kind'] != 'droplet':
         lt = living_text(t)
         if lt is None or norm(i.get('sentence', '')) not in lt:
-            errors.append(f'sentence not at {t} word for word: {i.get("sentence","")[:90]}'); continue
+            # a quote standing nowhere word for word keeps its value as a droplet, its sentence said with it
+            i = {'file': i.get('file'), 'section': 'Droplets', 'kind': 'droplet', 'kind_hint': i['kind'], 'from': i.get('from', ''),
+                 'text': f'{i["text"]} — at *{i.get("sentence","").strip()}*'}
+            print('  as a droplet, its quote standing nowhere word for word:', i['text'][:90])
     by_file.setdefault(p, []).append(i)
 
 for p, its in by_file.items():
