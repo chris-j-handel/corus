@@ -73,3 +73,5 @@ Gathering-Value · Geodesic Improving Method
 ### 5.3 Scale, orientation and position, each from all other
 
 ## Droplets
+
+- Each gathered value meets one binary at first contact, value here or value at another file, and nothing is waiting for any other thing: a value its file holds is entered there, a value whose concept another file names goes to that file's gathering-value, and a parting of two sixes or two namings is said apart where it stands. *(possible incohering)*
