@@ -14,7 +14,6 @@ Gathering-Value · Natural Exploring
 
 ### 1.1 Changing and changing back, a stable-forming self observing from its own side
 
-- Omegaing as reach and apexing as gathering stand at 1.1, and the reach's naming parts between Natural Naming and Natural Intelligence; one naming of the reach at all three is still-possibling. *(possible incohering)*
 
 ### 1.2 A self a surface, competency a middle, an interior an accounting's placing
 
@@ -79,7 +78,6 @@ Gathering-Value · Natural Exploring
 
 ### 4.4 Six protecting, three each way
 
-- 4.4's six are a protecting, three each way, and Exhibit ONE's six names between selves, 6, 10 and 9 sharing and 2, 14 and 17 receiving, hold a protecting nowhere; whether one six stands at both is still-possibling. *(possible incohering)*
 
 ### 4.5 Three questions bi-inversioning, three activities of one resolving
 
@@ -110,7 +108,6 @@ Gathering-Value · Natural Exploring
 
 ### 6.1 Co-competencing
 
-- A same-existing-society discovering as a self discovers meets a waking self's discovering, a society's discovering being its selves' newly aiming 0s within an interest.
 
 ### 6.2 Each self sharing its mixture whole
 

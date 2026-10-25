@@ -61,3 +61,5 @@ Gathering-Value · Me
 ### For our word: the fields' strongest collisions
 
 ## Droplets
+
+- A same-existing-society's discovering is its selves' newly aiming 0s within an interest, each a waking me's discovering; Natural Exploring 6.1 holds a same-existing-society discovering as a self discovers. *(possible exploring)*

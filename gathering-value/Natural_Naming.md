@@ -249,3 +249,5 @@ Gathering-Value · Natural Naming
 ## THIS IS THE BETWEEN
 
 ## Droplets
+
+- Omegaing, reach outward, a new axis and a forward frontier, is Natural Exploring's naming beside apexing, coning back inward; Natural Naming holds apexing as couplings winding inward about a nothing, and omegaing beside it is a naming it is still-possibling to hold. *(possible incohering)*

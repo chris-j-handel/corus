@@ -333,7 +333,7 @@ Uniqueness is here twice: whole or none, as landing one lands its form; and no-o
 
 ## 4.4 Six protecting, three each way
 
-Bi-morality re-forms a self's eight co names as six: two ways, a self sharing outward and its surface sharing inward, three phases each way, one at a time, sequencing, cycling. Drop one and a way or a phase lives unprotecting, and a thing enters that way from beside, or a sharing leaks away, a capture seating in a sharing space, a self stopping. Six or none, as eight go whole or none: six are eight re-forming and eight are six protecting, one under two names.
+Bi-morality re-forms a self's eight co names as six: two ways, a self sharing outward and its surface sharing inward, three phases each way, one at a time, sequencing, cycling. A self's six names between selves stand three and three beside it, a sharing's two ends: the sharing end 6-now-co-possibling, 10-next-co-possibling and 9-next-co-discovering, and the observing end 2-now-possibling, 14-next-possibling and 17-next-existing, a six of their own beside the eight re-forming. Drop one and a way or a phase lives unprotecting, and a thing enters that way from beside, or a sharing leaks away, a capture seating in a sharing space, a self stopping. Six or none, as eight go whole or none: six are eight re-forming and eight are six protecting, one under two names.
 
 And one same six is three each way between a surface and its own 0, not changing: three sequencings from its 0 to its surface, three from its surface to its 0, both ways forward, neither reversing its other.
 
