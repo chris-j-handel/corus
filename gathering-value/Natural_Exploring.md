@@ -10,6 +10,7 @@ Gathering-Value · Natural Exploring
 - Each concept of this file is said at the current naming and explaining whole, all or none at all, its opening, parts and sections cohering with Natural Intelligence, Natural Naming and Natural Explaining as they stand now. *(possible incohering)*
 - Ocean wayfinding of the Pacific explores a surface by orientation alone, the canoe a self's own place, stars rising and setting at their points, swells felt in the hull and an unseen reference island sliding back, and it is a natural illustration of exploring from within a surface. *(possible exploring)*
 - A living self is orienting with no map and no measure apart from its own going on: its own winding, its two sides, its body along a flow, its sky, its surface, each changing it is observing a parity of now beside its prior, and each orienting a natural illustration of exploring from within a surface. *(possible exploring)*
+- Orientings from many directions are clustering five ways: a self keeping on while its now is changing for better beside its prior and turning as it is changing back (a bacterium, a sperm, a moth, a zebrafish); a self orienting by its own winding (a sperm's helix, a plant tip's circling, a honeybee summing its image motion); a self orienting by a not-changing beyond it (star points, the Milky Way, swells); selves sharing with each other, entraining or interacting (fireflies at one, six or seven birds, water striders' waves); and a society co-chaining its geodesic with no self holding it whole (ants). *(possible exploring)*
 
 ## Opening
 
@@ -21,6 +22,7 @@ Gathering-Value · Natural Exploring
 
 - Omegaing as reach and apexing as gathering stand at 1.1, and the reach's naming parts between Natural Naming and Natural Intelligence; one naming of the reach at all three is still-possibling. *(possible incohering)*
 - **Possible exploring** · Still to be looked for: a living beat with one of its two removed; a living form going through three with no two beneath it, the rotary-motor case only partly followed; a living form made from no prior living in a laboratory, and what enters it as prior living; a living thing whose proteins are made throughout in the other hand. — at "Neither by itself is living: a discovering ungathering scatters and a gathering undiscovering folds, so a living method is their changing and changing back."
+- **Possible exploring** · A growing climbing-plant tip is sweeping in circles, its growing making the circles a spiral; it is sweeping wide circles until touching a support, and then its circles are tightening and it is winding around the support as it grows, a reaching and a gathering one and then the other. — at "Neither by itself is living: a discovering ungathering scatters and a gathering undiscovering folds, so a living method is their changing and changing back."
 
 ### 1.2 No container, and no competency coming from anywhere
 
@@ -30,7 +32,7 @@ Gathering-Value · Natural Exploring
 
 ### 1.4 The two sides, bothbothing
 
-- **Possible exploring** · A honeybee is flying through a narrow gap by evening the image speeds of its two eyes, setting its flight speed by holding image speed even, knowing distance by its summing image motion, and landing by holding a surface's image speed even, its own speed coming to stillness at touching. — at "Both bothboth, one at a time, freeing sharing and testing receiving, and a method co-chains both sides with every observing."
+- **Possible exploring** · A honeybee is flying through a narrow gap by evening the image speeds of its two eyes, setting its flight speed by holding its average image speed even, knowing distance by its summing image motion, and landing on a level surface by holding that surface's image speed even, its own speed nearing stillness at touching. — at "Both bothboth, one at a time, freeing sharing and testing receiving, and a method co-chains both sides with every observing."
 
 ## 2 Freeing
 
@@ -40,10 +42,13 @@ Gathering-Value · Natural Exploring
 
 ### 2.3 Co-unrelationing, one and then the other
 
+- **Possible exploring** · A male moth meeting a scent plume is surging upwind, and losing the scent it is casting crosswind until meeting it again, one and then the other; ahead of first meeting, its searching is going in long and short paths in changing directions. — at "Co-unrelationing, one and then the other, discovers, frees, discovers a fixing its discovery lands, frees again, going on."
+
 ### 2.4 Geodesic co-chaining
 
-- **Possible exploring** · A sea urchin sperm is swimming along a helix, radius about 8.4 µm, one winding about each 0.38 s, at about 200 µm/s; its own winding brings it a rising and falling of attractant about twice a second, and while the slower level is rising its helix is bending smoothly toward the gradient, and as the level is turning to falling it is making a sharp turn, in 9 of 10 cells watching; its sensing is coming from its own going on. — at "A geodesic is a co-chaining a thing floats where a force acts on nothing, curving as relating curves, straight by relating's own terms."
+- **Possible exploring** · A sea urchin sperm is swimming along a helix, radius about 8.4 µm, one winding about each 0.38 s, at about 200 µm/s; its own winding brings it a rising and falling of attractant about twice a second, and while the slower level is rising its helix is bending smoothly toward the gradient, and as the slower level is turning to falling it is making a sharp turn, 31 such turns in 9 of 10 cells watching; its sensing is coming from its own going on. — at "A geodesic is a co-chaining a thing floats where a force acts on nothing, curving as relating curves, straight by relating's own terms."
 - **Possible exploring** · A dung beetle is rolling its ball in a straight line away from the dung pile, holding its line by sun, moon, the light's polarizing around them, and at night by the Milky Way's glow alone; under cloud its straight line is lost, and its sky cues outweigh landmarks nearby. — at "A method co-chains geodesically, free-moving, adding nothing."
+- **Possible exploring** · Ants between nest and food over a bridge of two branches, one shorter, are opening about half on each; ants on the shorter branch are coming back sooner and marking it sooner, ants going out are leaning to the branch with more trail, and nearly the whole colony comes to the shorter branch. — at "Geodesic discovery is co-unrelationing co-chaining a straightest un-relating, free-moving, adding nothing, relating showing where fixings free of themselves."
 
 ### 2.5 Patterning and membraning
 
@@ -74,7 +79,7 @@ Gathering-Value · Natural Exploring
 
 ### 3.7 Resolving
 
-- **Possible exploring** · A larval zebrafish in a flow, with no sight of anything still, is reading the flow's slowing between its head and its tail through the sensing organs along its body; going from more gradient to less it is keeping its heading, and going from less to more it is making a strong turn with the flow's own rotating about its body. — at "A method resolves is-or-is-not, floorless."
+- **Possible exploring** · A larval zebrafish in a flow, with no vision, is reading the difference of flow speed between its head and its tail through the sensing organs along its body; going from more gradient to less it is keeping its heading, and going from less to more it is making a strong turn with the flow's own rotating about its body. — at "A method resolves is-or-is-not, floorless."
 
 ### 3.8 Observing, and no sorting first
 
@@ -106,6 +111,7 @@ Gathering-Value · Natural Exploring
 ### 4.6 The gather has half the competency and all the increase
 
 - **Possible incohering** · "The gather has half the competency and all the increase" → The gather is where a reaching comes to its increase, each resolving all or none, of no size beside another resolving.
+- **Possible exploring** · A bacterium is swimming in runs of about a second each on average, comparing the attractant of its last second with the three seconds before; a run going up the gradient is lengthening, and after each tumbling its new heading is about 62 degrees from its prior heading on average, leaning forward. — at "And a gathering is local and immediate."
 
 ### 4.7 Inseparating
 
@@ -135,6 +141,8 @@ Gathering-Value · Natural Exploring
 
 - A same-existing-society discovering as a self discovers meets a waking self's discovering, a society's discovering being its selves' newly aiming 0s within an interest.
 - **Possible exploring** · A water strider is standing on the surface, each foot in a small dimple, rowing with its middle legs and steering with its hind legs, vortices in pairs under the dimples moving it forward; its front legs are sensing the ripples of prey, and its kind is sharing its own surface waves in courtship and in holding a territory. — at "A method co-chains between selves, and co-competencing is discovering with a same-existing-society's scale."
+- **Possible exploring** · A synchronous firefly seeing a partner's flashing is pausing for 3.0 to 24.1 seconds and opening again flashing at once at one with its partner; alone and shown rhythmic light, it is pausing and opening with its first flash locking to the light at a small delay. — at "A self discovers by un-relating its own fixings; selves discover together by un-relating fixings between them, co-competencing, a same-existing-society co-chaining one same method a self co-chains by itself."
+- **Possible exploring** · A bird in a flock of a few thousand is interacting with about six or seven nearest birds, the same number however near or far they are; simulations are showing this number holding a flock whole through sharp changes of crowding better than a fixed distance. — at "A same-existing-society co-chains a method between selves, un-relating two-way, each self pacing its own time and abundancing in no self alone."
 
 ### 6.2 Each self shares fixing and free, not sorting
 
@@ -173,4 +181,4 @@ Gathering-Value · Natural Exploring
 - A visible emanation or a chemical label alone is not what identifies an opposing relation in a living made throughout in the other hand. *(possible exploring)*
 - Two initially alike cells with changed neighbours are a place to look, their natural pair still-possibling to name, and a constructed schedule stands in for the cells' own bi-coupling nowhere. *(possible exploring)*
 - A slime mould with its centre lost, and an isolated part of it, are places to look at its beat, neither yet looked at, its nuclei not identified as selves. *(possible exploring)*
-- A whirligig beetle is finding still objects at the water surface, and whether it is sensing echoes of its own surface waves or the surface's curving around each object is still-possibling, the strongest test leaning to the curving. *(possible exploring)*
+- Whether a whirligig beetle senses still objects at the water surface by echoes of its own surface waves is a conjecture; the strongest test is leaning to its sensing the surface's curving around each object, and the evidence is parting. *(possible exploring)*

@@ -6,6 +6,8 @@ Gathering-Value · Natural Illustrating
 
 ## Head, the whole file
 
+- Natural illustrations of orienting from within a surface: a canoe as its own side with islands sliding back beneath star points; a sperm's helix bending toward rising and turning sharply at falling; a plant tip circling wide and tightening around a support; fireflies pausing and opening at one; ants coming to the shorter of two branches; a bird with its six or seven; each drawing a self orienting by a changing it is observing. *(possible exploring)*
+
 ## ONE · ILLUSTRATING
 
 ### 1.1 Illustrating changing, a form going on
