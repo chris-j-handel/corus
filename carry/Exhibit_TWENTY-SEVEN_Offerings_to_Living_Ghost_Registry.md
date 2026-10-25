@@ -119,3 +119,6 @@ Living Ghost Registry and Equilibria Registry: two registries, one derivation. T
 *From the session improving Exhibit THIRTY-ONE Me, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
 
 - **Droplet · an installing entry, *enzyme*.** The field's *enzyme* as a thing that stabilizes, forces or drives installs an accounting with one between, a rate in a tube, as a standing thing each such protein is; its numbering, strictly, names reactions (IUBMB), and its kind's one rate sums single molecules' each-its-own rates (Lu, Xun & Xie 1998) (gathering §0an). — me-thirty-one-20261024
+## Incoming · chemistry-water-20261022
+
+- **Living Ghost Registry 7.8, water-dimer line 4 · Oxygen position:** the saying “each oxygen's position stands” can distinguish remaining associated with surface sites from remaining motionless, carrying the authors' proposed oxygen displacement and its coupling to interchange with the observing ([Kumagai and colleagues, 2008, Figures 3 and 4](https://doi.org/10.1103/PhysRevLett.100.166101)). — chemistry-water-20261022
