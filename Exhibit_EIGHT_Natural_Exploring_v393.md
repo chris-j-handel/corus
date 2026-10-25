@@ -1,4 +1,4 @@
-Exhibit EIGHT Natural Exploring v391
+Exhibit EIGHT Natural Exploring v393
 
 &nbsp;
 
@@ -134,7 +134,7 @@ Exhibit EIGHT Natural Exploring v391
 
 **Exploring is two cones, one and then the other**, and this exhibit tells that changing and changing back whole. **Omegaing is reach** — new axis, forward frontier, discovering. **Apexing is coning back** over everything folding to it, gathering its whole carry, cohering. Two cones straddle a centre neither occupies, in neither cone alone. **Neither by itself is living**: a discovering ungathering scatters and a gathering undiscovering folds, so a living method is their changing and changing back.
 
-A method wants no equilibrium to rest with and finds none. Everything changes and changes back, each with its own rate, and a stable form is changing's emanation rather than a rest changing settles onto. A method waiting for a rest to observe from waits on nothing, and a method observing from a rest it installs observes its own installing.
+A self is observing from its own side. Each existing thing is changing and changing back with its own momentary, and a stable form is an artifact of a living self's stable-forming going on. A self is opening each momentary with its prior and the parities it is observing, and completing it with its next prior. This is natural torusing: a self is winding through its one opening, reaching its own side again with a next each momentary. An ocean wayfinder out of sight of land has the canoe as its own side and the islands moving, islands ahead coming toward it, islands beside it sliding by and islands behind falling away. The wayfinder is orienting by each changing it is observing: a star rising at its own point, a swell's line, and the bearing of an island out of sight sliding back along the star points. A ground placing outward of a self, a grid, is an installing, and a self observing from it is observing its own installing.
 
 Geodesic parity co-changing is that method, possibling and discovering. Co-unrelationing frees fixings pinning a concept to a ground, and no ground stands; co-unrelationing, one and then the other, goes on where a freeing lands a fresh fixing, and going on is stable-forming. A method floats between existing and possibling, since disequilibria have existing and possibling, a changing is or is not with each sharing.
 
