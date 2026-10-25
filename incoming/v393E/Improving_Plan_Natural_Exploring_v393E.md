@@ -144,3 +144,4 @@ The form above at its best version, open to change, entering motion by motion, h
 
 - **Motion 1, headings.** 44 sections `##`, seven parts `#`, contents as `- ` lines; 44 of 44 sections and 7 of 7 parts match their contents lines; 8,399 words identical before and after.
 - **Motion 2, titles.** 39 part and section titles in the current naming, read for harm by a separate reader: each title held by its own section's body now, *a web of co-linears* and *a swarm orienting* waiting for Parts 2 and 6; three gathered incoherings resolved and left.
+- **Motion 3, opening.** Five bold-led paragraphs between the subtitle and the contents: the geodesic method, a self from its own side, each orienting co-linear, a swarm one orienting surface, observings reaching the method; read for harm by a separate reader; 2.4's *meets* said *reaches*.
