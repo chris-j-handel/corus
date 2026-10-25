@@ -7,6 +7,7 @@ Gathering-Value · Natural Medicine
 ## Head, the whole file
 
 - An immune system of fighter cells apart from other cells is a field's explaining: nearly each cell with a nucleus shows pieces of its own interior on its surface, skin stem cells go on with an earlier inflammation's opening as their prior same-existing, heart macrophages take part in the node's conduction, and one theory reads a body's response by the speed of change; by that reading, immunity is a body's same-existing-society observing change beside its prior with each of its selves, a defending and a fighting being a field's words. *(possible incohering)*
+- A pregnancy is two selves bi-coupling across a placenta, apart from a self tolerating a non-self: the child's trophoblast cells show HLA-C to the mother's KIR receptors, which goes with how deeply they move into the womb and how far the mother's arteries remodel, the layer between them forms by genes of an old crossing, and cells may pass between mother and child, male cells going on in some women's brains for several decades: a child's cells going on in its mother are, in the five dimensions, the mother's prior other-parity going on now. *(possible incohering)*
 
 ## Opening
 
@@ -19,6 +20,8 @@ Gathering-Value · Natural Medicine
 ### 1.3 Restoration paths at a substrate — observing-with
 
 ### 1.4 A birth release — co-competency distributing the peak
+
+- Fetal trophoblast cells show HLA-C, which maternal KIR receptors bind; the maternal KIR with fetal HLA-C combination goes, with increasing evidence, with how deeply the trophoblast moves into the womb and how far the mother's spiral arteries remodel, setting the placenta's blood flow, and one such combination goes with recurrent miscarriage, fetal growth restriction and pre-eclampsia. *(possible exploring)*
 
 ### 2.1 Compaction — extreme localizing, and hard-probleming
 
