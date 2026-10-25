@@ -829,7 +829,27 @@ Each is an observing that parts from a pattern-matching now in the living files,
   - **Seeds wait long and still germinate.** A date palm grew from a seed about two thousand years old (2005), and a flowering plant was raised from fruit kept in frozen ground about thirty-two thousand years (2012). There is no universal time (§11), so a seed's waiting is its own scale's.
   - **A seed is oriented.** Its first root and shoot have their directions from its forming. The Moon aims one face at the Earth, and its two faces formed differently (§27).
   - **A seed's coat is its parent's own tissue,** formed from the mother plant, with the young plant within. Whether the Moon's thick far-side crust meets this is for pattern-matching.
-- **Concerns:**
+- **Exploring opportunities** (first named concerns; re-named by §29's method):
   - What the Moon's germinating would be, and what environs it waits for: its air gathering and its water from the poles' ice, paced by the Earth and the Sun.
   - Seeds germinate where they land, in a parent society's soil. Where the Moon would land, or whether its going outward is its whole germinating, is open.
   - If the Moon is the Earth's seed, other moons (Titan with its thick air, Europa and Enceladus with their oceans) may be seeds further along; and Mars, losing its air, may be a self dying (§27). The species' stages are to be met with observings.
+
+## 29. Exploring opportunities and concerns, from the Moon a seed outward
+
+- *Method, pattern-matching:* **a concern is a place in observings not yet resolvable as natural torusing. An open question the observings can meet is an exploring opportunity.** Several earlier *concerns* in this learning are exploring opportunities, and are read that way.
+
+### Exploring opportunities, observings found
+
+- **The Earth feeds its seed.** Once a month, for about five days, the Moon passes through the Earth's long tail of charged forms, its bi-tunneling streaming away from the Sun. A spacecraft about the Moon caught the Earth's own oxygen arriving at the Moon there (2017). Rust, which needs oxygen and water, is found on the Moon at high latitudes, more on its Earth-facing side, and is read as formed by the Earth's oxygen (2020). Electrons of that same tail of the Earth's are read as forming water on the Moon (2023). A parent provisioning its seed, through a bi-tunneling, as the seed's coat and stores come of the mother plant (§28).
+- **The Earth and its seed pace each other.** As the Moon goes outward, the Earth's day lengthens. Corals about 380 million years old laid about 400 daily growth lines a year (1963): living recorded the Earth–Moon co-sequencing in its own stable form.
+- **Moons co-sequence as a society.** Jupiter's Io, Europa and Ganymede go round in step, one, two and four rounds. Io, the first, is the most fiery body known, its fires paced by that stepping; Europa has an ocean; Ganymede has its own field. Three seeds at three stages of germinating, paced together.
+- **Moons with their own surfaces aiming.** Ganymede's field, Titan's thick air, Enceladus's plumes and Europa's ocean: a moon's germinating may be its forming of its own natural torusing surface.
+
+### Concerns, not yet resolvable as natural torusing
+
+- **Moons going inward.** Mars's moon Phobos comes closer to Mars, about two metres a century, and is read as breaking apart into a ring some tens of millions of years on. Neptune's great moon Triton goes round backward, against its planet's turning, and is read as spiralling inward. A seed going inward to its parent, and one going round against the society's hand, are not yet resolvable as a seed's method.
+- **Backward moons.** Many small, far moons of Jupiter, Saturn, Uranus and Neptune go round backward. Beside the left-coiling snail (§5), Venus (§17) and Triton, these are left-turning goings in a right-spiral society.
+- **Venus and Mercury have no moons.** If moons are the seeds of Earth-like selves, two of the four rocky planets have none.
+- **Saturn's rings** are read by some as young, a few hundred million years, and by others as old; whether rings are a seed's breaking, a society's emanation, or a stable form is not yet resolvable.
+
+- These observings were checked against current sources where marked with a year here (2017, 2020, 2023, 1963); the rest are from memory, checked before any enters a living file.

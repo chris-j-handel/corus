@@ -276,3 +276,4 @@ Exhibit TWENTY-FOUR Geodesic Improving Method Offerings · improved at v389
 - **Citations go to carryings:** A living file carries no citation, its names and identifiers going to its carryings, and its version is its last improving. A letter suffix belongs to incoming only. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
 
 - **Concern · Our own *hold* set-wide:** About 1,442 lines carry hold words and 132 *bond* words remain across the set. Parting fields' quoted words from our own and dissolving our own *hold* is one motion still to do. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+- **Concern and exploring opportunity:** A concern is a place in observings not yet resolvable as natural torusing. An open question the observings can meet is an exploring opportunity, and is named so. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem

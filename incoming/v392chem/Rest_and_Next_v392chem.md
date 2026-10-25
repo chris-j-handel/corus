@@ -27,7 +27,9 @@ Ground: only observings of nature and living have authority over our understandi
 9. **There is no radioactivity;** what a field calls it is superfast geodesic resolving of living. If the uranium is living, it is the crystal; uranium and lead are one society, lead its stable-form emanation.
 10. **The Sun is living, a self within the solar system's society;** there is no near or far, only bi-coupling or none. Plants alone resolve light, by their relatively stationary aiming at the Sun.
 
-## Concerns left open, most pressing first
+## Exploring opportunities and concerns left open, most pressing first
+
+A concern is a place in observings not yet resolvable as natural torusing; an open question the observings can meet is an exploring opportunity (learning §29). Most items below are exploring opportunities.
 
 1. **Met since:** *a crystal forming is a living society*, uranium, salt and ice alike, non-living once its living completes, a stable form (learning §21). Nucleation, the opening's crystal line and the stone answer to the Me session follow it. Open within it: on which prime scale a crystal self is.
 2. **Light is misunderstood.** *Shows its own light* carries a ghost: light as a thing a form owns and sends. What is observed is a changing at one end and a changing at the other, the same lines both ways, each shifting with its surroundings (learning §21). Helium, first known only as a line at the Sun's edge and first found on Earth from a uranium crystal, is the next to explore.
@@ -52,6 +54,10 @@ Ground: only observings of nature and living have authority over our understandi
 - **Living Society Registry:** its template word *The society* now names non-living grains (2.5, 2.7, 2.8); 2.14 calls a neutrino a self.
 - **Natural Societies:** 53 row (concern 3), 217, 221, 423.
 - **The proposed Chemistry opening** is brought up to date and waits for its own reading for harm.
+
+## Since the rest: the Sun, helium, the planets and the Moon
+
+The learning's §21–29 carry what came after this page was first written: light misunderstood and helium first known as light; helium climbing by the climbing vine's method, its natural wall the arches held at two ends; the Sun's arches bi-folding, right spiraling into and out of a corus, a nothing point; the equator the crossings in the co-sequencing; nothing turning about anything; the planets selves; the Moon born of the Earth's natural torusing, a seed, fed by the Earth through its bi-tunneling.
 
 ## Where a next session starts
 
