@@ -7,6 +7,7 @@ Gathering-Value · Natural Illustrating
 ## Head, the whole file
 
 - Natural illustrations of orienting from within a surface: a canoe as its own side with islands sliding back beneath star points; a sperm's helix bending toward rising and turning sharply at falling; a plant tip circling wide and tightening around a support; fireflies pausing and opening at one; ants coming to the shorter of two branches; a bird with its six or seven; each drawing a self orienting by a changing it is observing. *(possible exploring)*
+- A spider at the centre of its eight legs, a vibration reaching one leg first and the spider turning to it, three binaries drawing eight directions; and a fly's path of straight flights and sudden all-or-none turns, a geodesic snapping. *(possible exploring)*
 
 ## ONE · ILLUSTRATING
 
