@@ -134,3 +134,4 @@ Gathering-Value · Natural Explaining
 - One word is for one thing throughout a file, a second word reading as a second thing, and a varying with an axis new beside its prior is the one varying a sentence takes; a claim is as wide as its observing, *by observing* whole where *by all humanity's observing* overclaims. *(possible incohering)*
 - One opening of the set, the one of its kind, stands ahead of its file's contents: the shortest path from the universe to social moral competency and a living natural intelligence network, each word justified within its file. *(possible incohering)*
 - For a self outside a field, a thing is said twice, a field's explaining in plain words first and its pattern-matching for natural torusing society next. *(possible incohering)*
+- Each line opens with a concept it is defining or extending, *An other, for a same-existing thing, is …* in place of *For a same-existing thing an other is …*, one steady method of saying.

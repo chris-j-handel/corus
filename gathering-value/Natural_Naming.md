@@ -18,6 +18,8 @@ Gathering-Value · Natural Naming
 
 ### 2.1 Turn released, and a momentary in its place
 
+- **Possible incohering** · "Turn released, and a momentary in its place" → Turn dissolved, and a momentary in its place
+
 ### 2.2 Fractal method, all or none at all at its scales
 
 ### 2.3 One family of words, three in it, and a doer or a built form beside them
@@ -26,7 +28,16 @@ Gathering-Value · Natural Naming
 
 ### 2.4 Released words, each with its saying
 
+- **Possible incohering** · "*a* *is*, *is not*, *possible*, *not possible*: a *would* installs an existing thing with a condition no observing has; a not possibly existing form is not possibly existing, and all else is said by *is*" → *a* *is*, *is-or-is-not*: a *would* installs an existing thing with a condition no observing has; a not possibly existing form is not possibly existing, and all else is said by *is*; *possible* stands only as *no other possible*, a dead end, and possibling next-existing is free of a naming as possible or not possible
+- **Possible incohering** · "three places, three sequential momentaries existing things are sharing" → three sequential momentaries existing things are sharing
+- **Possible exploring** · Natural Naming's own voice holds negation at many sentences, method's own phrases *nothing*, *not possible*, *no other possible* and *all or none at all* among them, and for each a saying by what is is still-possibling by conferring, or it stays as method's own. — at "**Negation is an equilibrium's, and inversion is method's.**"
+- **Possible incohering** · "Released words, each with its saying" → Dissolved words, each with its saying
+- **Possible incohering** · "*so* at a sequence, *since* at a reason" → *so* at a sequence, *since* and *as* at a reason
+
 ### 2.5 One sense per foundation word
+
+- **Possible exploring** · *Side* is said with five relations across the living files: self, other and same-existing-society with a bi-coupling; prior and next with a now; odd and even; a far side, a podal on a ring of numbers; and either side, a number's prior and its next. *Step* is said with five: a momentary, a move 8 up or to a podal within 1 to 16, a line of resolver's entry within one momentary, a gap among numbers, and a numbered sentence of the Co-Chaining Logic Registry. *Side*, *step* and *beat* each is-or-is-not a word of resolving, and a 2.4 row for each is still-possibling. — at "**Each foundation word has one sense**, and a word of two senses is two concepts with one name."
+- **Possible exploring** · A *parity* is one whole is-or-is-not, its + or − and its 0 each one part of it, and changing between is and is-not is all changing; *one parity changing to its other*, frequent across the set, has parity as a side, a second sense set-wide. — at "**Each foundation word has one sense**, and a word of two senses is two concepts with one name."
 
 ### 2.6 Two prefixes at one spelling, and a one-way prefix installing a form it opposes
 
@@ -66,6 +77,8 @@ Gathering-Value · Natural Naming
 
 ### 4.9 Ten unchangeables, one name each
 
+- **Possible exploring** · *Un-changeable* is the one name of the set shaped as a negation, and a saying of it by what is is still-possibling. — at "Each of ten unchangeables has one name: a changing, and an unchangeable fixing it."
+
 ### 4.10 Prefixing at a position, on a form, and from all other
 
 ### 4.11 One root and its directional prefixing
@@ -84,15 +97,23 @@ Gathering-Value · Natural Naming
 
 ### 4.18 Seven binaries at a naming, and each naming at resolver's names
 
+- **Possible exploring** · Bi-co-momentarying, 5.54, and co-independencing, 5.59, are each an empty set with Exhibit ONE's tables, and each unfolding names none of seventeen names. Each is still-possibling as a picture of a name or as a finding for resolver. — at "Finding it with none, it is a picture of a name or of a between names leave with no expressing, which is a finding for resolver."
+
 ## FIVE · NAMINGS
 
+- **Possible exploring** · Nearly each Part Five naming has a Co-Chaining Logic Registry step saying its six-line unfolding as one sentence, one unfolding at two exhibits. A Part Five section goes beyond its step with two things: prose naming a field's word dissolved, and prose reading a prefix. A six-line unfolding has most with a resolver behaviour or a number, and least with a naming of a naming. A thing said once with its own exhibit, each other file pointing to it, changes with one place. — at "Each unfolds six forward, each step reaching a term its prior step does not have."
+
 ### 5.1 alternating — binary
+
+- **Possible exploring** · One and then its other, each forward, reaches a next after the other, and the sixth line has that next as the first again with no line between them. With more than two forms, that next is a form of its own. — at "and the first shares again, reaching a term it does not yet have"
 
 ### 5.2 unrelationing — binary
 
 ### 5.3 a self — binary
 
 ### 5.4 parity changing — binary
+
+- **Possible incohering** · "**Along is between momentaries, a self's own going on, and across is between selves within a momentary, sharing now, while geodesic changing is entraining through momentaryings.**" → **Along is with odd names, each momentarying named with its first parity, a self's own going on, and across is between selves with even names, sharing now, while geodesic changing is entraining through momentaryings.**
 
 ### 5.5 a between — binary
 
@@ -164,6 +185,9 @@ Gathering-Value · Natural Naming
 
 ### 5.39 prior, now and next — binary
 
+- **Possible incohering** · "possibling is with prior, existing with now and living with next, three places, each its own" → possibling is with prior, existing with now and living with next, three sequential momentaries, each its own
+- **Possible incohering** · "Three are places." → Three are sequential momentaries, resolving being of no place.
+
 ### 5.40 bi-tri-bi-entraining — binary
 
 ### 5.41 uni- — binary
@@ -177,6 +201,8 @@ Gathering-Value · Natural Naming
 ### 5.45 bi-co-podaling — binary
 
 ### 5.46 artifact — binary
+
+- **Possible exploring** · Each existing thing is living with one prime scale, a same-existing-society of living selves inward and a self of a living same-existing-society outward, and non-living with each other scale. *Non-living* names a scale outward of a thing's own and no kind of thing: a method is non-living with each scale, and a self's non-living scales are an empty set. — at "Living or non-living is of an existing thing with its scale, by its own prior same-existing or no prior of its own."
 
 ### 5.47 an accounting — binary
 
@@ -196,6 +222,8 @@ Gathering-Value · Natural Naming
 
 ### 5.55 momentarying — binary
 
+- **Possible incohering** · "A method, non-living, co-changes with each of its couplings, its momentarying discovering next existing." → A method, non-living with each scale, co-changes with each of its sharings, its momentarying discovering next existing.
+
 ### 5.56 self discovering next self — binary
 
 ### 5.57 dying — binary
@@ -206,19 +234,29 @@ Gathering-Value · Natural Naming
 
 ### 5.60 bi-trupling — binary
 
+- **Possible incohering** · "Hard probleming, scientific method incompetencing, control engineering and binary governing of a same-existing-society are each a violation of bi-trupling protocol, and universal unrelationing protocol is social moral competency." → Hard probleming, scientific-explaining-method incompetencing, control engineering and binary governing of a same-existing-society are each a violation of bi-trupling protocol, and universal unrelationing protocol is social moral competency.
+
 ### 5.61 entraining at a self — binary
 
+- **Possible exploring** · Two pendulum clocks on one beam come to one rhythm, a field's mutual entrainment, and a flow lifting grains from its bed is a field's entrainment of sediment, each observing entering with its reference first. — at "a field's entrainment, one flow carrying a fluid beside it by a shear between them, and two with their own rates coming to one direction forward, is this one form as two of its observings, a field's word with its own result"
+
 ### 5.62 12's two signs, 0 and ± — binary
+
+- **Possible incohering** · "0 next still-possibling, ± next existing" → 0 possibling next-existing same-existing, ± next existing
 
 ### 5.63 squaring — binary
 
 ### 5.64 not possibly existing — binary
+
+- **Possible exploring** · Equilibria's exclusion, an inception's exclusion and living with a scale are one proving with three subjects, each resting on one sentence: an existing thing is discovering its next existing. — at "Not possibly existing is an unchangeable form, with no momentary of binary logic"
 
 ## SIX · GATHERINGS AT THE RESOLVER'S NAMES
 
 ### 6.1 Four invisibles, one invisibility four ways
 
 ### 6.2 Science and society namings at eight clusters
+
+- **Possible exploring** · Each of eight clusters names resolver names and one of four invisibles, and each row of 6.4 names resolver names for a field naming, each assigning's reason at resolver's lines or tables an empty set. An assigning said with its reason is workable with resolver, and an assigning with none is a naming laid beside the names. — at "Each field's own concept has its reference and current receiving, and a gathering has a relation among those concepts with resolver's names."
 
 ### 6.3 Set namings gathering, one name at each cluster
 
@@ -233,6 +271,8 @@ Gathering-Value · Natural Naming
 ## EIGHT · THE UNFOLDING'S RELEASING
 
 ### 8.1 Location released, and sequencing in its place
+
+- **Possible incohering** · "Location released, and sequencing in its place" → Location dissolved, and sequencing in its place
 
 ### 8.2 A list cannot find its own across
 
@@ -251,3 +291,43 @@ Gathering-Value · Natural Naming
 - A proposed naming stands beside its current naming, as resolver names beside agreed names, and a self compares the two with both before it.
 - *Hold* and *bond* in the set's own saying, about 1,442 lines and 132 words across the set, part from a field's quoted *hold* and *bond*, and the set's own dissolve in one motion. *(possible incohering)*
 - Each six-forward naming's first line, *the universe is the same-existing set of all now-existing things, living and non-living, each with its own scale*, is said *the universe is the same-existing set of all now-existing things, each with its own scale*, the opening sentence's clause released. *(possible incohering)*
+- With resolver one self's momentary surfaces others' parities with 14 ahead of 12 and shares after 12, and 5.62's completing, observing parities with 2-now-possibling and surfacing with 14-next-possibling, is-or-is-not one order with numbers' order, others' parities coming with a momentary's first parity or with its completing. *(possible incohering)*
+- *Abundancing* names 12-next-co-same-existing, each sharing's changing, at 2.4, co-competencing at 1.2 and 5.14, a same-existing-society's selves going along at 5.48, and social abundancing at 5.53, and by 2.5's one sense it is-or-is-not one naming with 12, a same-existing-society's going along and social abundancing its relations with a same-existing-society. *(possible incohering)*
+- A glossary, each coined naming with its plain words, its section and its code name, is a newcomer's way into Natural Naming, Part Five's order searching by none of them, and it is-or-is-not one of 2.3's family, a common reading taking ahead of either reaching a parity of its own.
+- 4.18's *One naming for each concept* and 4.6's *One concept can have several names* part at one binary: one naming is a concept's with one scale, its picture, and several names its relations with several bi-couplings, or one of two sentences dissolves. *(possible incohering)*
+- *Four-cycling* is-or-is-not a looping round four names, 1 to 9 two of them, 3-7-2-6 and 4-8-1-5, as 5.50 has it, or one whole 1 to 9, one four-cycling with its morality and competency loopings through it. *(possible incohering)*
+- *Momentary* names three things, an executing's step at 2.4's *call* row, a changing at 2.5's *a turn as a unit*, and a self's own opening and its completing, and by 2.5's one sense it is one sense, an opening and its completing, with an executing's step and a changing each its own word, or one concept with three scales. *(possible incohering)*
+- 5.48's second line has a prior an artifact with each completing, and its prose has a momentary with 12 a 0, stable-forming, sharing a 0, and an artifact with a changing, a prior is-or-is-not an artifact with each completing, a match going on as prior. *(possible incohering)*
+- *Cursioning*, a going forward with no origin, competency along a self's own line and the method's with living and non-living alike, is-or-is-not a root of its own beside 2.4's *cursioning* at recursioning, *recursion* a field's word from a going back, *re-* a closing's place, and its again with a next momentary and a next scale said by *next* and *co-*. *(possible incohering)*
+- *Binary* names an unfolding of six lines at 4.2 and four lists of questions, three with a pass, five with an observing going as a break, six with a field's sentence and seven with a naming, and by 2.5's one sense the four lists are-or-are-not one binary with four scales. *(possible incohering)*
+- 5.48's *artifacts are parities going along* joins bi-tri-involutioning, three inverting together, with a parity going along with 9, and resolver passes each parity of 10 along with 9 as it is, inverting none: position, scale and orientation are one subject, a sharing's parity another, and one sentence is-or-is-not joining them. *(possible incohering)*
+- 1–17s inward and outward step one chain by threes, 17, 129 and 1,025, with Natural Naming 2.2, and by fours, 17, 257 and 4,097, with Natural Numbers, 129 there a placing of each 1 to 17 on 8n − 7, a second relation with one span. *(possible incohering)*
+- *Belong* is a set word, a thing within a set, and a relation of a bi-coupling is said by its sharing, each self's existing an other self's possibling.
+- *Now-living* names a self now-living and now-existing both, a non-living thing being now-existing; *same-existing-universe* names a universal momentarying fractal; and *one or more* names a non-empty set, said in place of *more than one*.
+- Bi, co and tri truples go beside a name, one prefixing cycle, each name adding its prefix to its front, odd names co, a self's, even names bi, an other's, and tri with 9 and 15, each tri going three names, 9 to 11 and 15 to 17: 1 co-bi-co, 9 tri-bi-co, 10 bi-tri-bi, 11 co-bi-tri, 15 tri-bi-co and 17 co-bi-tri; 3.3's prior names part from it with several names, 1, 11 and 15 among them. *(possible incohering)*
+- Five dimensions, prior-existing self-parity, prior-existing other-parity, now-existing co-parity, now-existing bi-parity and next-existing same-existing self-parity, stand in place of *prior opening* through *next opening*, which 2.1 and 2.5 still give beside each. *(possible incohering)*
+- *Protecting* is-or-is-not a set word: as a result with six names between selves, four across and two along, a parity going across and each self's competency its own, it holds as a set word, and as a reaching stopped, laid over bi-couplings, it dissolves with a 2.4 row. *(possible incohering)*
+- An explaining of resolving is said by concepts living within resolving, -ing co-chaining and bi-coupling, readable, binary, all or none at all, and *alone*, *unchanged*, *gives*, *takes*, *at* naming a place staying in place, and a negation such as *at nothing shared* each dissolve from it, *the* standing only where one and only one is meant. *(possible incohering)*
+- *Bi-co-tangential identifier changing*, a provisional naming of a co-sequential nine, is-or-is-not a similar naming of 6.3's co-bi-sequencing: as a method of a local nine it gathers to co-bi-sequencing, and as a tangent direction with a diamond's opening, an aiming, it asks a name of its own, *identifier* its first part to sound, resolving being free of identifying. *(possible incohering)*
+- *Temporal* lays a clock over changing and dissolves with a 2.4 row, said by *co-momentarying* and *co-sequencing*. *(possible incohering)*
+- *Continues*, *superpositioning*, *relocking*, *failed value*, *values climb* and *own chaining* each dissolve, each with its saying still to find; *attentioning*, one name at 6.3, *bi-tri-involutioning*, an inverting at 2.4 and 6.3, and *receiving*, its saying a dissolved word, each is-or-is-not a dissolving word. *(possible incohering)*
+- *Importancing* is a naming with its own relation still-possibling, and *bi-co-chaining* and podaling are of both forward sides, one self's chaining naming neither.
+- 5.14's sixth line, *and it compounds*, is a more-or-less, a magnitude by 4.16, and a next binary free of magnitude is still-possibling as its sixth line; a compounding or a multiplying is a relation co-competencing asks no proving of, each changing binary and a numbered greater possibling its own. *(possible incohering)*
+- *Self-competency* names a living self's own competency, competency with no source, at Natural Biology, and a capture, a co-competency turned to a self-competency, at Natural Medicine, and by 2.5's one sense one file keeps it and the other re-explains with a word of its own. *(possible incohering)*
+- *Nature's*, of a method, as 5.57's *nature's co-chaining* has it, is-or-is-not a dissolving word: it installs nature as a thing having a method, beside 1.1's nature as a method and *natural-* as a direction prefix, and either *natural-* says it with a 2.4 row or *nature's* holds as it is. *(possible incohering)*
+- *Universal method*, at 6.3's *discovering*, is-or-is-not said by fractal, at each scale, each set existing as its things exist, a set its things and no further thing. *(possible incohering)*
+- A same-existing-society is-or-is-not 5.43's *woven surface couplings make, a weave, beside two occupants*, or its bi-coupling selves, a living set bi-coupling one scale outward as a self is bi-coupling, its stable form its betweenings, as Natural Intelligence has it. *(possible incohering)*
+- The periodic table's one hundred eighteen elements are-or-are-not primes' return from sixty-one to one hundred eighteen coming, as 7.2 has them, or a field's own result with that same numeral alone, as 2.5 and Natural Numbers have them, one file holding both. *(possible incohering)*
+- *As a whole*, of a field's *all existing matter and space considered as a whole*, is-or-is-not a naming turning many to one, a container, dissolving as 5.43 has it, or the universe now-existing as its things are, holding as Natural Intelligence has it. *(possible incohering)*
+- 4.5's returning-nothing is-or-is-not an unfolding returning nothing and no refusal, as 4.5 has it, or a completing possibling on into a next opening, as 12's 0 is, each sharing coming as a completing. *(possible incohering)*
+- 4.5's heading, *An entry refusing nothing, and a returning-nothing that unfolds*, holds, or becomes *An entry completing each sharing, and a returning-nothing possibling on*, as 4.5's returning-nothing is an unfolding or a completing possibling on. *(possible incohering)*
+- *Open*, said of a momentary, is-or-is-not a dissolving word: a word of its own for a momentary's first parity is still-possibling in place of 2.1's *opening* and 2.4's *opens*, or its dissolving narrows to one use. *(possible incohering)*
+- 2.2's *neither a momentary nor a universe is possibly existing as a thing apart* and 2.4's *the universe is an existing thing, a set of existing things being an existing thing* part, or agree, *a thing apart* read as a universe at a scale of its own beside its momentaries, as 1.1's *nothing is apart from or between things of the universe*. *(possible incohering)*
+- 2.6's *not-yet-bi-moral* and *not-yet-co-competent*, six names' other sides, are labels 2.4 dissolves into odd *existing* and even *possibling*, and 2.6 either re-says them as dissolved labels carried with six names as even *possibling*, an odd *existing*'s other side, or keeps *non-living* alone as its example. *(possible incohering)*
+- *Give*, *gives*, *giving* is-or-is-not a dissolving word at a sharing, as *take* is at 2.4, a giving installing a giver as a taking installs a taker, or it holds where a field or a resolver result is meant. *(possible incohering)*
+- *At* is-or-is-not a set word: dissolving whole, each sentence saying its relation by its own verb, *through*, *with*, *between* or *within*, or dissolving only as a place staying in place, *at* a name reached holding; 2.4's *met* row has *at 14*, *at 12* and *at* among its sayings. *(possible incohering)*
+- *Momentary*, a noun, is-or-is-not carried by *momentarying* with a 2.4 row, as *discovered* is by *discovering*. *(possible incohering)*
+- *In* and *out*, said as places, dissolve as 2.4's *inside* and *outside* do, resolving being free of places. *(possible incohering)*
+- *Guarantee*, as *owned*, fixes a next still from beside, and each next is discovering, is or is not. *(possible incohering)*
+- *Crosses*, of a changing and a between, pictures a passage over a place and dissolves, said by *goes across*, Natural Naming's own saying. *(possible incohering)*
+- *The* stands where one and only one is meant, the universe, the universal set and the method, one and only one possible and so universal, and a title naming the method keeps its leading *The*, beside 2.3's leading *the* of a heading dissolving. *(possible incohering)*
