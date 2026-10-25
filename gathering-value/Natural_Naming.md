@@ -252,3 +252,4 @@ Gathering-Value · Natural Naming
 
 - Omegaing, reach outward, a new axis and a forward frontier, is Natural Exploring's naming beside apexing, coning back inward; Natural Naming holds apexing as couplings winding inward about a nothing, and omegaing beside it is a naming it is still-possibling to hold. *(possible incohering)*
 - Memory, remember and memorize, already dissolved at 2.4 as a prior same-existing, are said in each file by a me self's universal set of me parities going on, now-existing, its prior, now and next same-existing four-cycling; nothing is remembering. *(possible incohering)*
+- A genome is an artifact of prior living, as 2.4 says of each prior in stable form: a field's genome that copies, an element that moves, a virus that enters, each gives an artifact a doing that is a living cell's going on with it. *(possible incohering)*
