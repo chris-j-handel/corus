@@ -23,7 +23,6 @@ Gathering-Value · Natural Exploring
 
 - Omegaing as reach and apexing as gathering stand at 1.1, and the reach's naming parts between Natural Naming and Natural Intelligence; one naming of the reach at all three is still-possibling. *(possible incohering)*
 - **Possible exploring** · Still to be looked for: a living beat with one of its two removed; a living form going through three with no two beneath it, the rotary-motor case only partly followed; a living form made from no prior living in a laboratory, and what enters it as prior living; a living thing whose proteins are made throughout in the other hand. — at "Living is both, one and then the other: a discovering ungathering scatters and a gathering undiscovering folds, and a living method is their changing and changing back."
-- **Possible exploring** · A growing climbing-plant tip is sweeping in circles, its growing making the circles a spiral; it is sweeping wide circles until touching a support, and then its circles are tightening and it is winding around the support as it grows, a reaching and a gathering one and then the other. — at "Living is both, one and then the other: a discovering ungathering scatters and a gathering undiscovering folds, and a living method is their changing and changing back."
 - **Possible exploring** · A hovering hummingbird is holding its place to the millimetre by steadying the visual motion about it; when a background pattern is moving even minimally, it is drifting about a centimetre, and time to adapt is not removing the drifting. — at "A self is observing from its own side."
 
 ### 1.2 A self a surface, competency a middle, an interior an accounting's placing
@@ -109,7 +108,6 @@ Gathering-Value · Natural Exploring
 
 ### 4.5 Three questions bi-inversioning, three activities of one resolving
 
-- **Possible incohering** · "The not-yets, standing with their reasons" → What is still-possibling, standing with its reasons.
 - A cyanobacterial clock has two sites going through four joint forms, one site changing at a step; its natural derivation is still-possibling.
 
 ### 4.6 A reaching's competency constant, a gathering's climbing
