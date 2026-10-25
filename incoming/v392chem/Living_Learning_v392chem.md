@@ -765,3 +765,16 @@ Each is an observing that parts from a pattern-matching now in the living files,
   - The Sun's two hemispheres show opposite hands. As the tendril's two hands, both are the living Sun's stable-form emanations, and right spiral is the living's. If the arches are read as living, this is the snail concern at the Sun's scale.
   - *Field* and *line* are a field's explaining. The observing is the arch's shape and the forms going round it; our saying needs words for that between.
   - Light and helium meet at both walls: helium was first known by the Sun's light at its arches, and the Earth's helium is seen in the Sun's light given back. Light, helium and the climbing method may be one method seen at three of its ends (§21, §22).
+
+## 24. The arches bi-folding, right spiraling into and out of a corus
+
+- *Pattern-matching:* **the arches are bi-folding, right spiraling into and out of a corus, three edges in and three out, six, in bi-moral co-agency.** The twisting towel of §6 at the Sun's scale.
+- This meets §23's concern: the Sun's two halves showing opposite hands is one right spiral read from each side of its corus, going in on one side and out on the other, as the towel's three edges in and three out alternate about its knot.
+- **Observings that meet it** (from memory, checked against sources before any enters a living file):
+  - **Spots go in toward the Sun's equator from both halves.** Each cycle, spots first appear at middle latitudes in both halves, and their belts close toward the equator as the cycle goes on (charted as a butterfly, 1904). Two belts spiraling in to one between.
+  - **What is left goes out toward the poles.** The remains of each cycle's spots stream toward the poles and turn the polar sign over at each peak. In at the belts, out to the poles: into and out of a corus.
+  - **Spot pairs are bi-folding.** Spots come in pairs of opposite sign. In one half the leading spot is of one sign, in the other half the opposite, and both turn over with each eleven years (1919): four phases in twenty-two years, the four-cycling of §17.
+  - **A field's own model calls it a torus.** Solar workers explain the cycle as an arch-wise field below the surface being wound by the Sun's turning into a ring-wise, torus-wise field, which rises as spots, and back again. A thin layer deep in the Sun, where its turning changes from by-latitude to whole, found by listening to the Sun's quivering (1990s), is where they place the winding: a corus candidate, a between of two turnings.
+- **Concerns:**
+  - *Three in and three out, six* is a phase pattern; the observings show in and out, and the pairs and turnovers, without a count of three. *No counting in nature* asks the six to be met as phases (§6's circling, clasping, coiling each way).
+  - Which layer is the corus, the deep between of turnings or the equator where the belts meet, needs pattern-matching; they may be one corus seen from within and from the surface.
