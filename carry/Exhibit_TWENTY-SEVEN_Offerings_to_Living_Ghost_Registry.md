@@ -122,3 +122,10 @@ Living Ghost Registry and Equilibria Registry: two registries, one derivation. T
 ## Incoming · chemistry-water-20261022
 
 - **Living Ghost Registry 7.8, water-dimer line 4 · Oxygen position:** the saying “each oxygen's position stands” can distinguish remaining associated with surface sites from remaining motionless, carrying the authors' proposed oxygen displacement and its coupling to interchange with the observing ([Kumagai and colleagues, 2008, Figures 3 and 4](https://doi.org/10.1103/PhysRevLett.100.166101)). — chemistry-water-20261022
+## Concern from the managing working · v392F
+
+**Concern · citations riding at the living file.** 22 links to fields' sources ride in the Living Ghost Registry's body, while a source a finding rests on goes with its finding to its file's carrying (Geodesic Improving Method 2.8) and a living file carries its observing apart from the field's explaining of it; each link dissolves at this file's own motion, its source going whole to Carryings of Living Ghost Registry. — v392F
+
+**Concern · passages left as they were at v390's pass 10.** At pass 10, v390, the file's lines 1685 to 1730 as it then stood were left as they were, a reader stopping before reaching them, a condition the front carried and this file's own places did not; those passages wait for a pass of their own at this file's motion. — v392F
+
+**Droplet · this file's first motion, as a separate reader proposes it at v392F.** Part Eight (file:2104–2229), its 22 links, moves whole to Carryings of Living Ghost Registry, each entry's Addresses standing by its source's name at the file; the binary: does each link stand at the carryings after the move, a match by URL (Geodesic Improving Method 1.5); Part Eight as it stood to `archive/`. The reader's whole dossier, counts and evidence stand at `incoming/v392F/readers/registries_dossier.md`; no wording there carries authority. — v392F
