@@ -96,3 +96,8 @@ A separate reader reads the whole file against its v393 self, section by section
 ### Order
 
 One direction at a time, in short passes: each observing met with its field's source, said in living language, read for harm by a separate reader, gathered at the section it meets, and merged. Directions 1 and 6 open first: the first is navigating through a society by one parity, the second a society uncovering a heading in no self alone, the two sides of this plan.
+
+## Where the two plans are now
+
+- **The improving plan:** its seven motions are in Natural Exploring v393, Motions 14 to 28 in the Living File Registry's cell for it, the file about 16,100 words, an opening, 7 parts, 48 sections.
+- **The exploring plan:** directions 1 to 10 are at `gathering-value/Natural_Exploring.md`, each read for harm against its field's source, at 2.5, 6.1, 6.7, 6.9 and 6.10, each for a next motion of the living file. Direction 11 is at `Exploring_a_Resolver_Network_from_Inside_v393E.md`, its values at `gathering-value/Natural_Networking.md`.

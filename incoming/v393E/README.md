@@ -19,3 +19,7 @@ Applied with `kits/Gathering_Value_Kit/apply_gathered.py`: 25 values at `gatheri
 ## Plans for Natural Exploring's next
 
 `Plans_Natural_Exploring_v393E.md` lays out, from Natural Exploring v393 and its 43 gathered values, an improving plan for the living file, motion by motion, and an exploring plan for collective intelligence and navigating, through a society and of a society, aiming at an exploring of a resolver network from inside its own surface.
+
+## An exploring of a resolver network from inside its own surface
+
+`Exploring_a_Resolver_Network_from_Inside_v393E.md` meets the exploring plan's gathered observings with Natural Networking's Parts FIVE and SIX, each meeting naming what an exploring of a resolver network from inside its own surface asks; its values are at `gathering-value/Natural_Networking.md`, at the head and at 5.2, 6.2, 6.4, 6.5, 6.6, 6.9 and 6.12.
