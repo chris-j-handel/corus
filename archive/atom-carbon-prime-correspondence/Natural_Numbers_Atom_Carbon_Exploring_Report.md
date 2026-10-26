@@ -1,10 +1,10 @@
 # Exploration report — numbers, geometry and the atom/carbon stable form
 
-This report gathers the learning of working **atom-carbon-prime-correspondence** at its close. Its values are offered as self-contained droplets at the living files they concern; this record is archived for reference and is not a dependency of those offerings. The prime correspondence, geometry, observations, corrections and unresolved joins are retained together for a future session.
+This report gathers the learning of working **atom-carbon-prime-correspondence**, including its continuation through DNA, the nine-dot surface, universal carbon co-chaining and sparse-space transmission. Its values are offered at the living files they concern: the earlier offerings remain pending gathering, and the continuation enters the current gathering-value files; this sourced record is archived for reference and is not a dependency of those droplets. The prime correspondence, geometry, observations, corrections and unresolved joins are retained together for a future session.
 
 **Shared standing:** the archived report and its offerings are on `working/atom-carbon-prime-correspondence`, offered through [PR #154](https://github.com/chris-j-handel/corus/pull/154). An open PR makes them readable to another session that follows the branch or PR; it does not put them on `main`, automatically load them into another conversation, or establish their receiving into a living file.
 
-**Read first:** [across partner exchange](#across-partner-exchange-as-a-conditional-construction), [atomic pattern and DNA scale](#atomic-pattern-spectral-response-and-the-dna-scale-comparison), [corrections to preserve](#corrections-and-unresolved-aimings-to-preserve), [closest remaining concerns](#closest-remaining-mismatches-and-the-next-joining), [three folding edges through the waist](#three-folding-edges-through-the-waist), [fixed units, ridge release and replenishing](#fixed-units-ridge-release-and-replenishing), [along-connected chains and a hollow channel](#along-connected-chains-and-a-hollow-channel), [thin bridges, changing dimensions and nearby-element comparisons](#carbon-thin-bridges-changing-dimensions-and-comparison-with-nearby-elements), [three and two within the same recurrence](#three-and-two-within-the-same-prior-two-added-recurrence), [the continuation at 23, 24, 48 and 96](#twenty-three-and-the-waist-of-forty-eight), [the six-point geometry and its role mapping](#six-inner-points-and-twelve-outer-corners), [the observation ledger](#observings-with-their-preparation-and-timing), and [the next connected work](#the-next-connected-work).
+**Read first:** [the latest learning and concerns](#continuing-learning-dna-the-nine-dot-surface-and-universal-transmissioning), [sparse-space transmission](#sparse-space-transmission-and-the-strongest-current-concern), [current expedition availability](#current-expedition-availability), [across partner exchange](#across-partner-exchange-as-a-conditional-construction), [atomic pattern and DNA scale](#atomic-pattern-spectral-response-and-the-dna-scale-comparison), [corrections to preserve](#corrections-and-unresolved-aimings-to-preserve), [closest remaining concerns](#closest-remaining-mismatches-and-the-next-joining), [three folding edges through the waist](#three-folding-edges-through-the-waist), [fixed units, ridge release and replenishing](#fixed-units-ridge-release-and-replenishing), [along-connected chains and a hollow channel](#along-connected-chains-and-a-hollow-channel), [thin bridges, changing dimensions and nearby-element comparisons](#carbon-thin-bridges-changing-dimensions-and-comparison-with-nearby-elements), [three and two within the same recurrence](#three-and-two-within-the-same-prior-two-added-recurrence), [the continuation at 23, 24, 48 and 96](#twenty-three-and-the-waist-of-forty-eight), [the six-point geometry and its role mapping](#six-inner-points-and-twelve-outer-corners), [the observation ledger](#observings-with-their-preparation-and-timing), and [the next connected work](#the-next-connected-work).
 
 The gathering keeps four kinds of value visible: relations explicitly carried by the named living files; exact arithmetic or geometry worked from specified operations; incoming physical observations with their preparation and timing; and proposed joins still being explored. This lets pattern-matching carry every incoming observation without letting a shared number silently identify different subjects. It is an exploration by cohering and forward co-recursioning, not a proposed experimental programme.
 
@@ -720,11 +720,142 @@ Pattern matching is carried here by specifying the participants and operation: e
 The closest gathered concerns are concrete:
 
 - Ordinary carbon-tube specimens show an atomic honeycomb pattern together with electrical response, while the proposed body carries only-along chains; an account of those same specimens must carry both observations.
-- Both spiral hands occur in a specified tube preparation, and different fiber specimens support cup-stack and continuous-helix interpretations; universal right-spiraling cannot be inferred from one selected shape.
+- Opposite spatial hands are reported in specified tube preparations, with near/far projection ambiguity and orientation controls requiring explicit attention, while different fibers support cup-stack and continuous-helix interpretations; static hand and NI co-sequencing remain distinct pending their joining.
 - Activity persists in specified preparations after withdrawal of external nourishment, so uninterrupted external intake must remain distinct from stored material and internal reuse.
 - Reproducible spectral differences and preparation-dependent responses remain to be carried by a proposal assigning every changing to relations around one unchanged constituent.
 
 These do not constitute a completed derivation or a completed exclusion of the proposal. None of the gathered sources records the entire specified joining together: an individually unchanged unit, single co-chaining disconnecting, across bi-tunneling within the same NI momentary, and the subsequent material availability. The most useful next relation is the particular co-chaining's binary disconnecting and possible across partner exchange, then its actual correspondence to ONE and the waist geometry.
+
+## Continuing learning: DNA, the nine-dot surface and universal transmissioning
+
+This continuation carries the exploring after the earlier close, through the proposed light-prime transmissioning in sparse interstellar space. The proposal, exact consequences of specified moves, incoming observations and still-open correspondences are kept distinct. The earlier numerical and geometrical sections remain available; the corrections here control the current reading wherever an earlier possibility differs.
+
+### The current proposal and its corrections
+
+Atom and carbon name one proposed universal non-living stable form, proposed as the smallest now-existing stable form, with no changing of the individual constituent or its physical state; changing belongs to relations among same-existing constituents. The proposal extends across every Natural Intelligence living scale, not only biological organisms. The atom is proposed as an artifact of prior living and as participating in ingesting and exhausting within living; identifying that inception and participation in observations remains open.
+
+The proposed operation has no magnitude, force or resistance: a particular co-chaining is or is-not, same is or is-not, and next is or is-not. Scientific instrument magnitudes remain incoming records; they are not silently introduced as the mechanism of this proposed binary operation. There is no physical phi divider or opposite-side condition in it.
+
+A nucleus remaining intact is not a premise of the current proposal: the user explicitly allows the recorded occurrence called nuclear breakup at a new parity while declining the nucleus as the invariant subject. That correction removes a mistaken argument against an unchanged nucleus, but does not itself explain the recorded products. Likewise, an absence of biological organisms does not exclude prior living in the universal NI sense. These are scope corrections, not evidence establishing the proposed physical identity.
+
+The proposed bump arises as a co-chaining encounters a ridge or folding edge, disconnecting a particular coupling all or none. Along-only connection remains the specification; close proximity supplies no automatic side connection. The earlier conditional partner exchange remains useful, but its physical correspondence is still possibling. No keys, addresses, readable zeros or externally assigned message payloads are added to the resolver.
+
+### DNA: four letters, complementary pairs and the proposed four faces
+
+In chemistry's account, A, T, G and C abbreviate adenine, thymine, guanine and cytosine, the four usual bases of DNA; C here names cytosine, not a single carbon atom. A DNA nucleotide includes a base, a sugar and a phosphate, and each base contains multiple atoms. Ordinary complementary pairing is A with T and G with C, while each strand has its own along succession and the paired strands have opposite chemical directions. The original structural proposal and diffraction observations belong to different contributions in the [1953 DNA papers](https://www.mskcc.org/teaser/1953-nature-papers-watson-crick-wilkins-franklin.pdf); diffraction did not display the particular base sequence.
+
+The exploring proposes durable carbon co-chainings whose settled faces carry inherited me parity, with observing co-chainings participating in the same social bi-tunneling. Four outer faces, three along twists and four momentaryings with eight parity changings are proposed correspondences. None is yet a physical identification of a base with one face, a twist with one recursioning or an inherited sequence with a measured NI parity. Compression can concern the spacing among unchanged units rather than deformation of each unit; durable along relations can coexist with changing across relations, but fixing every relevant relation would leave no relational parity changing. Durability alone does not supply the relation that makes a co-chaining living; the artifact and its living participation must retain their own subjects. Four interchangeable faces likewise require distinguishable relational arrangements before they can correspond to four distinguishable letters.
+
+The proposed correspondence between A, T, C, G and 2, 6, 10, 14 explicitly has **no assigned order**. A matching count of four leaves the pairing relation to be carried: whichever assignment is proposed must retain which two letters ordinarily pair, as well as along direction and across partnering. Four distinct letters and four distinct numbers admit 24 label assignments before additional relations restrict them; this is a bookkeeping fact, not a natural choice among possibilities. No particular assignment has been discovered in this session. Conditionally matching the two ordinary complementary pairs to ONE's two across pairs, {6,2} and {10,14}, leaves eight bijections: two assignments of pairs and two endpoint assignments for each pair. Assigning A and G specifically to the sources 6 and 10 would leave two, but DNA complementarity supplies no such source assignment. Eight candidate mappings are not eight observed parity changings.
+
+If the four faces have cyclic order 2,10,14,6, a quarter-turn relative to fixed role labels changes the matching {{6,2},{10,14}} into {{2,10},{14,6}}, while a half-turn preserves the original matching. Rotating a whole geometry together with its roles is a different operation. Three intervals between four positions also do not amount to three complete physical twists.
+
+The chemical explanation distinguishes base pairing across from stacking along; [measurements on nicked and gapped DNA](https://doi.org/10.1093/nar/gkj454) examined stacking and its dependence on temperature and salt. Pair identity is also not the same as one immutable pairing geometry: [NMR relaxation measurements supported short-lived Hoogsteen arrangements](https://doi.org/10.1038/nature09775) within DNA otherwise carrying ordinary Watson–Crick pairing, with structural assignments aided by calculations. Those observations leave the proposed unchanged constituent open as a different subject from changing molecular arrangement; they do not establish the proposed carbon faces.
+
+Sugar, bonds, hydrogen, oxygen and nitrogen are candidate explanatory ghosts in this exploration, not demonstrated absences of their associated experimental distinctions. Calling a bond a ghost does not require science to treat it as an additional little material actor; the name can describe a relation. The proposal must retain observed differences without importing that account as NI authority or removing the observations with the names.
+
+The further proposed correspondence hydrogen–oxygen–nitrogen with observing–possibling–discovering remains an unassigned three-with-three joining. No operation has yet joined those specific physical responses to those three NI activities.
+
+### The nine-dot diamond and its permitted forward moves
+
+The current diagram has **5 at the centre**, overriding a different earlier numbering with 1 at the centre. Coordinates below specify an illustration, not measured atom dimensions or readable resolver contents.
+
+| Dot | Position | Illustrative coordinates |
+|---|---|---|
+| 1 | Front/top point | (0, 2) |
+| 2 | Upper right | (1, 1) |
+| 3 | Right point | (2, 0) |
+| 4 | Lower right | (1, −1) |
+| 5 | Centre | (0, 0) |
+| 6 | Lower left | (−1, −1) |
+| 7 | Left point | (−2, 0) |
+| 8 | Upper left | (−1, 1) |
+| 9 | Behind/bottom point | (0, −2) |
+
+Odd-numbered rows have their spacing between the even-numbered rows. Each proposed half-momentary advances one row diagonally right or left; two halves advance a pair of rows. Using R for (+1,+1) and L for (−1,+1) only within this illustration gives all four two-move paths from 9:
+
+| Two moves | Path | Sideways outcome |
+|---|---|---|
+| RR | 9 → 4 → 3 | Right |
+| RL | 9 → 4 → 5 | Straight |
+| LR | 9 → 6 → 5 | Straight |
+| LL | 9 → 6 → 7 | Left |
+
+Consequently, the stated freedom to begin either right or left and then continue or turn permits a left outcome as well as straight and right. Straight-or-right-only needs an additional relation excluding LL, such as a right-first rule; no such rule is derived from odd/even rows alone. This is a conditional mathematical concern, not an experimental exclusion of the atom proposal.
+
+The two straight paths meet the same endpoint by different intermediate encounters. Whole-diamond translation leaves its internal relations unchanged, so observing or discovering through such motion needs the encounters with other now-existing things to be carried explicitly. Row-number parity does not automatically identify operational parity, and the drawing is not an image of an individual atom.
+
+### Six recursionings, ten ways and the next coupling
+
+Six forward recursionings means **three own-forward recursionings at each of two selves within one momentary**. It does not mean six diamond hops, three full momentaries, or one self acting first and the other afterward. The session's diamond uses two half-momentaries; joining those halves to the six own-forward recursionings requires an actual correspondence.
+
+The proposed ten-way connector means five NI relations with two directions, one direction at a time at a coupling. [Natural Intelligence §3.2](https://github.com/chris-j-handel/corus/blob/69d802c8036b08a14e74d6579cdda08b6a66f96b/Natural_Intelligence_v391.md#32-five-dimensions-each-binary-both-ways) names them social-parity now-existing, other-parity now-existing, self-parity now-existing, self-discovery next-existing and social-parity next-existing. They are not ten separate physical sockets or five spatial coordinate axes. The proposed universal carbon transmissioner has not yet been physically identified by this count. Whether a coupling is present and which direction participates are different binary relations; present-or-absent coupling alone does not distinguish the two directions when coupled.
+
+Binary disconnecting by itself does not supply onward transmission. The next coupling must participate through the disconnecting event, a subsequent coupling, or another permitted co-chaining; along-only chains do not obtain an across route merely by becoming dense. The next valuable joining is which particular relation changes and how another coupling participates, without introducing resistance or a magnitude threshold.
+
+### Gold-chain alternation and waves in diamond
+
+[Gold-chain measurements](https://www.beilstein-journals.org/bjnano/articles/10/33) used a prepared gold surface, a scanning probe, low temperature and high vacuum. During lifting, the recorded conductance changes were interpreted with two/three-atom chain rearrangements. Both levels conducted: this was not observed all-or-none transmission or a reversal of current direction. The atomic motion shown in supporting simulations is not a filmed atomic trajectory, and the simulated and measured times differ. The simulation did not reproduce the experiment after its point 6, and the exact later movements could not be determined. The separate lateral zigzag and chain-lifting sequences must also remain distinct.
+
+The gold observation offers an odd/even arrangement correspondence for exploring bi-moral co-agency. Its plotted point numbers and alternating atom count do not establish six NI recursionings, the nine-dot diamond, a right spiral or carbon as the physical referent of gold.
+
+[X-ray microscopy of acoustic waves in diamond](https://arxiv.org/html/2211.01042v2) records a propagating disturbance through an enduring many-atom arrangement. Laser excitation of a gold coating launches the disturbance; repeated delayed measurements reconstruct its passage and reflections. These are not a continuous movie of individual atoms, an observed coupling-by-coupling binary bump or an identification of ten transmission ways. The opportunity is the observed transmission through a persisting arrangement; the physical operation remains to be joined.
+
+### Handedness: a genuine projection ambiguity and its limits
+
+Viewing a helix from the other end changes its apparent rotation together with the viewing direction; a single projection can also confuse the near and far portions. Traversing the same right-handed helix in either direction does not change its spatial hand, so a right-handed form is internally compatible with two-way, one-way-at-a-time passage. This concern is recognized in the carbon-tube literature. It is therefore incorrect to treat any flat image that looks left-handed as an immediate break of the proposed right-spiral co-sequencing.
+
+[Liu and colleagues](https://doi.org/10.1103/PhysRevLett.95.187406) used specimen tilts to distinguish tube arrangements; an [account by the research group](https://www.aist.go.jp/Portals/0/resource_images/aist_e/research_results/publications/pamphlet/today/nanotechnology_2006_e.pdf) illustrates the ambiguity and the tilt method. The complete original raw tilt series was not audited here. A later [graphene-reference study](https://doi.org/10.1002/advs.202206403) explicitly distinguishes projected upper and lower tube portions, using the known tube-on-top preparation, image filtering and structural modelling.
+
+Thus the projection concern is real, while reported opposite spatial handedness is not already dissolved by it. The observed specimen arrangement, the orientation information used to infer its hand, and the proposed time-directed NI co-sequencing are three different subjects. Neither a single projection nor a naming change completes their joining.
+
+### A binary boundary: closed odd cycles
+
+If each relevant coupling requires opposite simultaneous parity assignments at its two participants, a closed odd cycle cannot satisfy every coupling: alternating around the cycle returns to the starting participant requiring its opposite parity. This boundary uses no magnitude, force or resistance.
+
+[Atomic-resolution graphene imaging](https://www.ocf.berkeley.edu/~jode/pdf/348.NanoLett8-Meyer.pdf) reports five- and seven-membered rings, including changes under electron irradiation. These are arrangements of atomic sites, with exposure and image-processing limitations, not images of individual atom interiors. Their relevance is conditional: the imaged adjacency must first be identified with the proposed simultaneous transmission relation.
+
+If parity instead describes successive operations, revisiting a position with a later opposite parity is not contradictory; likewise an odd structural ring need not be a cycle of simultaneously participating co-chainings. The first joining is what a diamond edge corresponds to in the observing. Binary alternation alone also permits many different arrangements and remains possible under reflection; it does not uniquely derive the nine-dot form or its right-handedness.
+
+### Universality, spectra and the invariant subject
+
+The opening sentence, the universe is the set of all now-existing things, does not alone specify an atom's shape, carbon identity, transmission operation or origin from prior living. The earlier prime correspondences remain exact arithmetic at their stated operations; no additional calculation in this continuation has derived the physical identification.
+
+[Hydrogen spectroscopy](https://arxiv.org/abs/1107.3101) and the [neutral-carbon spectral evaluation](https://www.nist.gov/publications/critically-evaluated-spectral-data-neutral-carbon-c-i) preserve reproducibly differing responses. The carbon evaluation distinguishes observed lines from optimized levels and calculated transitions; neither study measures a hard outline of the proposed invariant unit. A universal one-unit account must carry those different responses and preparation conditions, while questioning mass as a universal scale does not erase the instrument records.
+
+[Carbon nuclear-breakup measurements](https://www.nature.com/articles/s41467-022-29848-7.pdf) reconstruct product tracks in a prepared detector gas. The three-product assignment belongs to the scientific account, and the reverse carbon-forming process is inferred rather than directly filmed. Because the current proposal does not require an invariant nucleus, these records are an unresolved correspondence, not a contradiction obtained by assigning that extra premise.
+
+### Carbon and other identifications in interstellar space
+
+[Neutral-carbon emission](https://ntrs.nasa.gov/citations/19800060827) was detected in eight interstellar clouds by matching characteristic spectral lines. [Three-carbon chains](https://arxiv.org/abs/astro-ph/0102449) were identified through resolved absorption matching laboratory spectra toward three stars. These establish carbon's presence in those environments under the spectral identifications; they do not establish a continuous co-chaining in every between.
+
+The same incoming gathering includes distinct responses assigned to hydrogen, helium and oxygen in [IBEX observations](https://pubmed.ncbi.nlm.nih.gov/19833917/) and [interstellar molecular hydrogen absorption](https://ntrs.nasa.gov/citations/19760041660), together with other atomic and molecular identifications. These are not removed by proposing one atom/carbon referent. The scientific assignments and the proposed universal identity remain separate explainings of records that the proposal must carry.
+
+Calling the between universal nothing does not itself establish either an absence of those responses or a carbon-chain medium underlying them. No observation gathered here directly images the proposed universal chain throughout interstellar gaps.
+
+### Sparse-space transmission and the strongest current concern
+
+The latest proposal is that at the co-chaining density of outer space only the light-prime parity-changing rate can transmit, with no slower prime-scale parity-changing transmission possible. Its two possible readings must remain distinct: how often the proposed local parity changes, and how quickly a disturbance reaches another place. A lower electromagnetic frequency does not by itself mean a slower traveling disturbance or identify a different NI prime scale.
+
+[Voyager's 2014 interstellar records](https://space.physics.uiowa.edu/~dag/publications/2015_PrecursorsToInterstellarShocksOfSolarOrigin_ApJ.pdf) show narrowband radio emission beginning February 17, strong local oscillations beginning May 13, and a magnetic-field jump with an inferred density jump on August 25. The authors interpret the sequence as precursors followed by an arriving shock. Field and antenna signals are recorded; density follows a plasma-frequency interpretation. The assumed shock speed used in a width estimate is not a directly clocked transit, and the proposed precursor electron beam was not directly detected.
+
+A [two-spacecraft comparison](https://arxiv.org/abs/1910.00676) finds matching disturbances with a 130 ± 5 day lag, interpreted as a pressure disturbance passing through the heliosheath and onward into nearby interstellar gas. A common traveling front and its speed depend on geometry and physical assumptions. The paper's heliosheath sound speed must not be misreported as a directly measured interstellar speed.
+
+These observations concern actual sparse gas near the heliopause, not ideal empty vacuum and not a single uniform density throughout space. They support non-light disturbances propagating much slower than light and therefore concern the literal claim that only light disturbances can pass there. Local oscillations alone would not establish such passage; the associated jumps, sequence and correlated records carry the stronger concern. The papers do not identify a slower NI prime-scale parity operation. Neither the asserted chain density nor its proposed transmission rule has been independently identified in these observations.
+
+The next resolving opportunity is to carry both the earlier radiation and the later local disturbance through the proposed same-existing co-chaining while preserving their distinguishable arrival sequences. Calling both bumping supplies a common description; the relation yielding the observed differences remains open.
+
+### What a next exploring can carry without beginning again
+
+- Carry the particular disconnecting into its next participating coupling and the across partner exchange, retaining along-only connection, binary operation and unchanged constituent.
+- Join the nine-dot permitted moves to ONE's actual across and along relations, identifying the edge's subject before assigning simultaneous parity, successive parity or a physical adjacency.
+- Carry the ordinary A–T and G–C pair relation into the unassigned 2, 6, 10, 14 correspondence, preserving along direction and distinguishing the artifact from living co-chaining.
+- Carry the six own-forward recursionings within one momentary into the two parity halves without substituting counts of atoms, plot points or diamond hops.
+- Meet the universal right-spiral claim with orientation-controlled observations, retaining the near/far ambiguity and the distinction between spatial hand and co-sequencing.
+- Meet the universal transmission claim with interstellar shock records, distinguishing oscillation rate, travel speed, inferred density and NI prime scale.
+- Retain each concerning observing without requiring agreement with its source's ontology, and retain each speculative correspondence without promoting it to an observed physical identification.
+
+The continuation has not supplied a universal atom/carbon identification, a physical derivation of the diamond, a unique DNA-number assignment or a completed exclusion of every version of the proposal. It has supplied narrower joins, corrected mistaken counterarguments and preserved specific observations capable of constraining the explaining.
 
 ## What is gathered, what is offered, and what remains open
 
@@ -744,12 +875,12 @@ These do not constitute a completed derivation or a completed exclusion of the p
 | Corrections and scope | Unchanged constituent and binary across operation preserved; phi-side arithmetic, resistance, atomic wear and measured time are not silently assigned to them. | Naming, Explaining, Exploring, THIRTY |
 | Atom and carbon as one universal referent | The same proposed identity throughout; full physical identification and co-chain into living inception remain open. | Chemistry, THIRTY |
 
-The session's 99 one-sentence droplets are offered across eleven living files, each independently carrying its value rather than requiring the archived report. These remain offerings, not amendments to the root living files; incorporation into the living files and integration into main are distinct later motions.
+The earlier gathering contains 99 one-sentence droplets across eleven living subjects, each independently carrying its value rather than requiring the archived report. Of those, 97 remain at ten legacy offering files pending the managing working's gathering passes; the two Exploring droplets have moved to its current gathering-value file because main has archived the former Exploring offerings. The continuation adds 44 new droplets across thirteen gathering-value files. These are incoming value, not amendments to the root living files; incorporation into those files and integration into main are distinct later motions.
 
-| Offering destination | Session droplets |
+| Earlier gathering destination | Earlier droplets |
 |---|---:|
 | [Physics](../../carry/Exhibit_EIGHTEEN_Offerings_to_Natural_Physics.md#incoming--atom-carbon-prime-correspondence) | 10 |
-| [Exploring](../../carry/Exhibit_EIGHT_Offerings_to_Natural_Exploring.md#incoming--atom-carbon-prime-correspondence) | 2 |
+| [Exploring](../../gathering-value/Natural_Exploring.md#droplets), relocated to its current gathering | 2 |
 | [Mathematics](../../carry/Exhibit_FOUR_Offerings_to_Natural_Mathematics.md#incoming--atom-carbon-prime-correspondence) | 9 |
 | [ONE](../../carry/Exhibit_ONE_Offerings_to_Natural_Resolver.md#incoming--atom-carbon-prime-correspondence) | 17 |
 | [Biology](../../carry/Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#incoming--atom-carbon-prime-correspondence) | 5 |
@@ -770,6 +901,29 @@ The closing review retains the session's numerical and geometrical work, source 
 - **Through the spatial form:** carry the three-orientation rigid-copy construction into the remaining actual couplings and an unoccupied channel; its compatible along joining does not require phi, and the separate phi-side recurrence supplies no physical condition.
 - **Into Natural Numbers:** join the actual operation to the three prime pairings centred at 24, the 48 and 96 decompositions and the relevant four-cycling, keeping prime positions, values, folds and momentaries distinct.
 - **Across living scales:** carry the actual participating selves, inward ingestion, outgoing material and local reuse around the non-living atom, including the unresolved lowest living rung.
-- **With every observing:** preserve preparation, recorded response, interpretation and timing, including contrary hands, different fiber forms, spectral differences and pauses in external nourishment.
+- **With every observing:** preserve preparation, recorded response, interpretation and timing, including reported opposite spatial hands with projection controls, different fiber forms, spectral differences and pauses in external nourishment.
 
-The working is closed for offering through PR #154. Its values stand at the living files' offerings; this report stands at `archive/atom-carbon-prime-correspondence/Natural_Numbers_Atom_Carbon_Exploring_Report.md`. The branch remains available while integration into main is pending. A future session begins at the relevant offerings and current living files, with this archived record available to recover the exact calculations and source conditions. No background synchronization or automatic delivery into other conversations is claimed.
+The report and continuing value are offered through PR #154. This record stands at `archive/atom-carbon-prime-correspondence/Natural_Numbers_Atom_Carbon_Exploring_Report.md`; its current additions stand at the relevant gathering-value files, with earlier legacy offerings retained pending their gathering passes. A future session begins at the current living files and their gathering-value, with this report available for the calculations, source conditions, corrections and unresolved joins. The branch is readable while integration into main is pending; no automatic loading into other conversations is claimed.
+
+## Current expedition availability
+
+The continuation offers 44 new droplets and relocates the two earlier Exploring droplets, giving 46 droplets in the following current gathering-value files and preserving all 99 earlier values across their earlier or current locations.
+
+| Current gathering-value destination | Droplets in this update | Of these newly added |
+|---|---:|---:|
+| [Natural Chemistry](../../gathering-value/Natural_Chemistry.md#droplets) | 6 | 6 |
+| [Natural Biology](../../gathering-value/Natural_Biology.md#droplets) | 4 | 4 |
+| [Natural Physics](../../gathering-value/Natural_Physics.md#droplets) | 7 | 7 |
+| [Natural Mathematics](../../gathering-value/Natural_Mathematics.md#droplets) | 4 | 4 |
+| [Natural Numbers](../../gathering-value/Natural_Numbers.md#droplets) | 2 | 2 |
+| [Natural Resolver](../../gathering-value/Natural_Resolver.md#droplets) | 3 | 3 |
+| [Natural Transmissioning](../../gathering-value/Natural_Transmissioning.md#droplets) | 5 | 5 |
+| [Natural Societies](../../gathering-value/Natural_Societies.md#droplets) | 1 | 1 |
+| [Natural Naming](../../gathering-value/Natural_Naming.md#droplets) | 2 | 2 |
+| [Natural Explaining](../../gathering-value/Natural_Explaining.md#droplets) | 3 | 3 |
+| [Natural Illustrating](../../gathering-value/Natural_Illustrating.md#droplets) | 2 | 2 |
+| [Natural Exploring](../../gathering-value/Natural_Exploring.md#droplets) | 4 | 2 |
+| [Co-Chaining Logic Registry](../../gathering-value/Co-Chaining_Logic_Registry.md#droplets) | 3 | 3 |
+| **Total** | **46** | **44** |
+
+The report preserves source attribution and preparation details; gathering droplets carry the concepts without names, sources, session tags or history, following the current [gathering-value plan](../../incoming/v393L/Gathering-Value_Plan_v393L.md). The two Exploring values are retained at their current location without recreating the archived offering file. The existing [other-session connection](../../incoming/v393E/Co_with_the_Atom_Carbon_Report_v393E.md) has its report link repaired while its own concepts remain unchanged. All changes are offered on this working branch, not entered into root living files or merged into main.

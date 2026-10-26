@@ -1,0 +1,101 @@
+{
+ "motion": "25, mends from the opening's reader re-reading 6.1, 6.7, 6.9 and 6.10 whole",
+ "pairs": [
+  {
+   "section": "6.9",
+   "old": "and each making the round trip once, the monarchs arriving at those trees",
+   "new": "the monarchs arriving at those trees",
+   "observes": "a round trip contradicting 2.4's 'none of them finishing the return'"
+  },
+  {
+   "section": "6.9",
+   "old": "its elders' going, and its kind's artifact, a salmon's heading with no ocean of its own yet.",
+   "new": "its elders' going, and its kind's artifact, aiming a salmon with no ocean of its own yet.",
+   "observes": "the artifact aiming, not the heading"
+  },
+  {
+   "section": "6.10",
+   "old": "its foragers' trips out and back, away and back, go across and along",
+   "new": "its foragers' trips away and back go across and along",
+   "observes": "one pair"
+  },
+  {
+   "section": "6.10",
+   "old": "A hive begins moving as it is-not stable-forming here,",
+   "new": "A hive moves as it is-not stable-forming here,",
+   "observes": "no beginning, Natural Explaining 3.1"
+  },
+  {
+   "section": "6.10",
+   "old": "an army ant bivouac, a locust in a crowd, is that moment",
+   "new": "an army ant bivouac, a locust swarm, is that moment",
+   "observes": "a society moving whole"
+  },
+  {
+   "section": "6.10",
+   "old": "A swarm's moving begins as 15 or more bees",
+   "new": "A swarm moves as 15 or more bees",
+   "observes": "no beginning"
+  },
+  {
+   "section": "6.10",
+   "old": "a five-site test bringing a quorum much more slowly and a lifting off coming almost twice as late.",
+   "new": "with five sites to choose among, a quorum comes much more slowly and a lifting off almost twice as late as with one.",
+   "observes": "a comparison point"
+  },
+  {
+   "section": "6.10",
+   "old": "and longer ones about 12 km/h.",
+   "new": "and longer ones about 12 km/h: a swarm's heading in no bee alone.",
+   "observes": "the file's own saying"
+  },
+  {
+   "section": "6.10",
+   "old": "Ants of Temnothorax albipennis moving house: a recruiter leads one follower at a time to a new site in a tandem run while",
+   "new": "Ants of Temnothorax albipennis move house: a recruiter leads one follower at a time to a new site, a field's tandem run, while",
+   "observes": "a verb, and a field's term named"
+  },
+  {
+   "section": "6.10",
+   "old": "A desert locust lives in a solitary form or a gregarious form, both in one genome; crowding on shrinking patches of plants brings the change, and in a laboratory some two hours of touching a solitary locust's hind legs, as a crowd's jostling does, brings it, its serotonin in its thorax rising about threefold for less than a day, blocking its serotonin receptors or its serotonin production preventing the change and injecting serotonin with no other locusts close bringing it;",
+   "new": "A desert locust lives in a solitary form or a gregarious form, both in one genome. Its change goes with crowding on shrinking patches of plants, and in a laboratory with some two hours of touching a solitary locust's hind legs, as a crowd's jostling does; its serotonin in its thorax rises about threefold for less than a day; with its serotonin receptors or production blocked no change comes, and with serotonin injected and no other locusts close it comes;",
+   "observes": "goes with, and no cause and effect, Natural Explaining 3.1"
+  },
+  {
+   "section": "6.7",
+   "old": "bats leave a roost with the form of a corridor together,",
+   "new": "bats leave a roost together along a corridor,",
+   "observes": "clear"
+  },
+  {
+   "section": "6.7",
+   "old": "still a bat goes on by gathering echoes across several calls, at 40 bats,",
+   "new": "still a bat goes on by gathering echoes across several calls; at 40 bats,",
+   "observes": "a semicolon"
+  },
+  {
+   "section": "6.7",
+   "old": "followers soar in more regular paths on their exploring,",
+   "new": "followers soar in more regular paths on the leaders' exploring,",
+   "observes": "whose exploring"
+  },
+  {
+   "section": "6.1",
+   "old": "male cells going on in some women's brains for several decades.",
+   "new": "male cells, likely a son's from a pregnancy, going on in some women's brains for several decades.",
+   "observes": "where the cells come from, with the source's own likely"
+  },
+  {
+   "section": "6.1",
+   "old": "Across six Pacific populations over a decade, songs pass almost always eastward, once westward, from the east Australian population toward French Polynesia over about two years,",
+   "new": "Across six Pacific populations over a decade, songs pass eastward, from the east Australian population toward French Polynesia over about two years, and once westward,",
+   "observes": "untangled"
+  },
+  {
+   "section": "6.1",
+   "old": "is a suspicion still to observe.",
+   "new": "is a suspicion still to observe: a song in no whale alone.",
+   "observes": "the file's own saying"
+  }
+ ]
+}

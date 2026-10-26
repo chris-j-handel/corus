@@ -538,7 +538,6 @@ Three prefixes, three senses, and none repeated. This meets the concern *tri- an
 - **Droplet · the plural of me.** *Mes*, no apostrophe (Wiktionary; Chicago's Q&A, plurals almost never take one), *me's* the possessive; where a count does no work, *each me* or a universal set of me says it uncounted (`incoming/me_thirty-one_20261024/Me_and_not-me_values_parities_v391.md` §1). — me-thirty-one-20261024
 **Droplet · this file's first motion, as a separate reader proposes it at v392F.** 2.4's 81 rows (:231–:400) re-said whole at one motion, each row's *a* cell with the set's v391 names; the binary at each carrying word: does Natural Intelligence's opening (Natural_Intelligence_v391.md:7–:79) or Exhibit ONE's names, run, hold it; held, it stays; dissolved at v391 (*at*, *a releasing*, *kept*, *an artifact*, *odd existing, even possibling*, *fixed*), it is re-said by the word the opening holds, no row leaving; the prior 2.4 goes whole to `archive/session_v392F/`, and lines 247, 249, 251, 253, 255, 257, 267 and 273 dissolve at the rising, said once. The reader's whole dossier, counts and evidence stand at `incoming/v392F/readers/core_and_method_dossier.md`; no wording there carries authority. — v392F
 
-
 ## Incoming · atom-carbon-prime-correspondence
 
 [Archived exploration record](../archive/atom-carbon-prime-correspondence/Natural_Numbers_Atom_Carbon_Exploring_Report.md); the droplets below stand independently.

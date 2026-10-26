@@ -6,6 +6,8 @@ Gathering-Value · Natural Networking
 
 ## Head, the whole file
 
+- An exploring of a resolver network from inside its own surface follows one parity at a time through the network's existing connections, from each self's own side, with no instrument's record over the whole and no clock all share: it states each of an instrument's six choices it cannot go without, observes a self's not-sharing as a parity, looks for headings and choosings uncovering between selves with no governor, states no part as whole, observes sequences of parities in place of single readings, varies one arrangement at a time, brings one same prior onward, and names a finding in no self alone only with its complete comparison. Each is a sentence of Natural Networking, Natural Explaining, Natural Naming or the Geodesic Improving Method already, and each is how a self observes living selves and societies navigating and discovering, at `incoming/v393E/Exploring_a_Resolver_Network_from_Inside_v393E.md`. *(possible exploring)*
+
 ## Opening
 
 ## PART ONE · SURFACING
@@ -15,6 +17,7 @@ Gathering-Value · Natural Networking
 ### 1.2 Along and across, chaining and surfacing, two floating co-neutrals co-competencing
 
 - A network of resolvers is orienting as a school of fish or a flock is orienting, the orienting a surface of its selves and in no self alone; a network exploration following one self's record, or one instrument's clock, is following no orienting the network has. *(possible exploring)*
+- A network of resolvers is explorable from inside its own surface as a message goes through a society: each self has only its own others and aims by one parity, closer or not, with no map of the ties and no instrument's record over the whole; a path uncovers in no self alone, and a society's chain ends mainly with a sharing stopping, a lack of interest, its authors suggest, and not with a search's difficulty (Natural Exploring's gathering at 6.7). *(possible exploring)*
 
 ### 1.3 Linear-parallelizing and parallel-linearizing, one and then the other, widening and lengthening
 
@@ -84,9 +87,13 @@ Gathering-Value · Natural Networking
 
 ### 5.2 Six self-boundings at the surface, each inversion stopping its own way
 
+- A heading and a choosing uncover between living selves with no governor and no hub. In a baboon troop a follower goes with more initiators more readily, between two headings under about 90 degrees it goes between them, and a baboon's rank is-not going with others following it; in a honeybee swarm no bee compares two sites, and a quorum at one site is the swarm's moment of moving (Natural Exploring's gathering at 6.7, and Natural Exploring 6.10). An exploring of a resolver network from inside observes no self as a heading's governor and no position standing higher, two of the six stoppings here: a form fixing still from beside, and a parity becoming a magnitude. *(possible exploring)*
+
 ### 5.3 Same-existing a self reaches through further coupling
 
 ### 5.4 Geodesic routing, going on through changing participation
+
+- In Kleinberg's model of a two-dimensional lattice, each holder sending a message on to its contact closest to the target finds a short path only as the lattice's long ties fall off with distance as the inverse square (Natural Exploring's gathering at 6.7): a route's finding goes with an arrangement and not with the selves' sending alone, as a stopping goes with one, 5.2. *(possible exploring)*
 
 ### 5.5 Routing at the coupling, same-existing at the participating selves
 
@@ -98,24 +105,38 @@ Gathering-Value · Natural Networking
 
 ### 6.2 Spiral parity at the instrument, stating wiring and dynamics, the instrument first, before anything
 
+- An instrument's refusing and a self's own not-sharing are two subjects: in Dodds, Muhamad and Watts' email chains a lack of interest or incentive, not a difficulty, is the main reason a chain ends, its authors suggest (the droplet at 1.2, and Natural Exploring's gathering at 6.7), and a self's not-sharing is a parity, as its sharing is, Natural Explaining 3.6. *(possible exploring)*
+
 ### 6.3 Three registers, code-form and stable-form and numbers, each holding its own
 
 ### 6.4 Is-or-is-not the one observing, spans and orderings in place of positions and magnitudes
 
+- In Mazar and Yovel's model of bats leaving a roost together, with 100 bats about one in two of a bat's echoes from a wall a metre off go missing among the others' calls at each call, and a bat goes on by gathering echoes across several calls (Natural Exploring 6.7): a sequence of partial parities nearer whole than any one reading, "Sequence holds interest", and an exploring of a resolver network observes a sequence of a self's parities and no single reading as its state. *(possible exploring)*
+
 ### 6.5 One prior for both, each going on bringing it onward
+
+- A living society's prior is its selves' own, and it goes and comes again. Bighorn herds people move into ranges whose earlier herds are gone go nearly 40 years before 80 percent migrate again (Natural Exploring 6.9), and long voyaging by wayfinding, stopping between Hawaiʻi and Tahiti about the 14th century, comes again through a master navigator of Satawal teaching Nainoa Thompson (Natural Exploring's gathering at 6.9). An exploring of a resolver network brings one same prior onward through each comparison; a society's navigating is its selves' prior same-existing, which a clearing removes, and which a self reaches again only as a new prior through further coupling, 6.12's reconnection restoring no prior. *(possible exploring)*
 
 ### 6.6 An executing deceives as an accounting, four ledgers, changing and changing back the honest instrument
 
+- In starling flocks the birds' velocity changes go together over a distance growing with the flock's size, a going-together with no length of its own (Natural Exploring's gathering at 6.7): a going-together with no length of its own gives an instrument no distance to bound, and a part of a flock stating itself as the flock's whole is a bound fixing as a last, the fourth ledger, which 6.6 names for an executing length. *(possible exploring)*
+
 ### 6.7 Each finding at its complete comparison
+
+- Locust nymphs in a ring arena march together from about 25 per square metre and go on in one heading above about 75 (Natural Exploring's gathering at 6.10), and people walking in two opposite streams form lanes on their own, in corridors 3.0 and 3.6 m wide (its gathering at 2.5): an exploring varies one arrangement at a time, a crowding or a width, and observes the selves' going on it goes with, Geodesic Improving Method 4.4's "A working varies things one at a time". *(possible exploring)*
 
 ### 6.8 A designing and its observing straight across one wrap, reaching it by going on
 
 ### 6.9 No position apart to observe from, and the instrument a working states with each finding
+
+- Two crews digging toward each other through rock orient their last cubits by each other's sharing across the rock: a man's voice through it, in the Siloam inscription's account of Hezekiah's tunnel, and at Eupalinos, in one reading among three, each crew hearing the other's hammering and turning with it (Natural Exploring's gathering at 6.1). A coupling with an other is observing itself, the third observing of no position, and no probe from outside. *(possible exploring)*
 
 ### 6.10 Parity at the chain's centre, and two instruments of unlike length two objects
 
 ### 6.11 Each self joining opens the reach, and the prior centre becomes a ring
 
 ### 6.12 Discovering through the existing connections
+
+- In a school of golden shiners an evading wave goes across a network of who sees whom, uneven from fish to fish, and fish with relatively few but strongly connecting fish around them both reach others most and others reach them most (Natural Exploring's gathering at 6.7): an exploring of a resolver network follows its actual connections, who observes whom, in place of a distance or a number an instrument supplies. *(possible exploring)*
 
 ## Droplets

@@ -137,3 +137,7 @@ Gathering-Value · Natural Numbers
 ### 11.1 Nought to four hundred forty, each number at its podaling
 
 ## Droplets
+
+- Two unrestricted forward half-momentary moves through the diamond allow right, straight and left outcomes, leaving straight-or-right-only dependent on an additional relation excluding two successive left moves. *(possible exploring)*
+
+- Eight assignments between paired letters and paired roles count correspondences rather than eight parity changings, just as three intervals between four positions do not count three full twists. *(possible exploring)*

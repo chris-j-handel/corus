@@ -61,3 +61,13 @@ Gathering-Value · Natural Transmissioning
 ### 4.6 The register going across the exhibits
 
 ## Droplets
+
+- An all-or-none disconnecting at one coupling needs its particular onward relation to occasion a changing at another coupling. *(possible exploring)*
+
+- Dense along-only co-chainings do not gain across connections merely by proximity, leaving their actual onward participation to be carried. *(possible exploring)*
+
+- After a coupling disconnects, onward changing requires that event to occasion another coupling, a coupling forming again, or another available co-chaining. *(possible exploring)*
+
+- Five NI relations with two directions each describe the proposed ten ways without supplying ten physical sockets or five spatial axes, while coupling presence and participating direction retain their different binary relations. *(possible exploring)*
+
+- The proposed light-prime restriction in sparse space remains to be joined to the distinct observings of earlier radiation and a later traveling disturbance without identifying parity rate with travel speed. *(possible exploring)*

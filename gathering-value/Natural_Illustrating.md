@@ -58,6 +58,8 @@ Gathering-Value · Natural Illustrating
 
 ## FOUR · SELVES AND SOCIETIES
 
+- A squid and its glowing bacteria for an illustrating: bacteria glowing bright at high density, the squid venting some 90 percent at each dawn, the remaining tenth re-forming the society before the next night, the glow matching light from above and hiding the silhouette from below, one same-existing-society co-competencing many parities, a light above one of them. *(possible exploring)*
+
 ### 4.1 Tunneling, corusing and bi-folding, a towel
 
 ### 4.2 Spirals coupling across, a torus of selves, a 0 tunneling
@@ -125,3 +127,7 @@ Gathering-Value · Natural Illustrating
 ### 9.3 Not yet at files
 
 ## Droplets
+
+- The current diamond has rows 1; 8 and 2; 7, 5 and 3; 6 and 4; and 9, placing 5 at its centre and 1 at its forward point. *(possible exploring)*
+
+- A whole diamond translated without internal changing needs encounters with other now-existing things to carry the proposed observing, rather than taking motion alone as resolving. *(possible exploring)*

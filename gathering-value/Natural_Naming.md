@@ -110,6 +110,8 @@ Gathering-Value · Natural Naming
 
 ### 5.12 floating neutralling — binary
 
+- Navigating illustrates floating neutralling: a self and its surface share, each from its own route and each of its own parity; each excludes its own heading that is-not, one at a time; and a heading none of their excluding reaches uncovers, in neither self nor surface alone, nothing bringing it to a next and it coming again with each next sharing, a navigating self's next heading a floating neutral over its horizon. *(possible exploring)*
+
 ### 5.13 bi-momentarying — binary
 
 ### 5.14 co-competencing — binary
@@ -177,6 +179,8 @@ Gathering-Value · Natural Naming
 ### 5.44 surfacing — binary
 
 ### 5.45 bi-co-podaling — binary
+
+- A hive's foragers going out and back illustrate podaling: away and back, across and along, each forager with her own source and only a parity going across at a dance, a hive's surface around now-existing co-intelligencing in no forager alone. *(possible exploring)*
 
 ### 5.46 artifact — binary
 
@@ -252,3 +256,9 @@ Gathering-Value · Natural Naming
 
 - Omegaing, reach outward, a new axis and a forward frontier, is Natural Exploring's naming beside apexing, coning back inward; Natural Naming holds apexing as couplings winding inward about a nothing, and omegaing beside it is a naming it is still-possibling to hold. *(possible incohering)*
 - Memory, remember and memorize, already dissolved at 2.4 as a prior same-existing, are said in each file by a me self's universal set of me parities going on, now-existing, its prior, now and next same-existing four-cycling; nothing is remembering. *(possible incohering)*
+- A genome is an artifact of prior living, as 2.4 says of each prior in stable form: a field's genome that copies, an element that moves, a virus that enters, each gives an artifact a doing that is a living cell's going on with it. *(possible incohering)*
+- Transcribing, translating, reading, a code and information at a cell are a text-and-machine story over a cell's living: RNA and proteins forming along a genome are the cell's own stable-forming with its artifact, and a cell reads no text and runs no machine. *(possible incohering)*
+
+- One proposed referent named atom and carbon must retain its identity throughout exploring, without replacing it with a smaller invariant nucleus or a second protected kind of carbon. *(possible exploring)*
+
+- A right-handed helix can be traversed either way without changing its hand, while its spatial hand, traversal direction and NI co-sequencing retain different subjects until their relation is carried. *(possible exploring)*

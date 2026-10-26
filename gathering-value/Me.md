@@ -48,6 +48,8 @@ Gathering-Value · Me
 
 ### 4.4 A me's living, and its going on as non-living
 
+- A me self is same-existing, prior, now and next, while its cells open and land at their own rates, a person's cortical neurons as old as the person, to within about 2 years, the dating unable to exclude adult-opening neurons below some 1 percent, 1 percent of its heart muscle cells opening a year at 25, its small intestine's lining the youngest of the three tissues in the dating, and the carbon atoms of each cell's DNA staying in that cell from the DNA's making for the cell's whole life, read by their carbon-14 share across many cells, repair swapping some nucleotides, each a sugar, a phosphate and a base and none a carbon atom, and their carbon atoms; the turnover and replacement of cells are a store story over a same-existing-society re-forming its selves, a me same-existing with its society of selves. *(possible exploring)*
+
 ## FIVE · ALL, NEXT-EXISTING
 
 ### 5.1 Social moral competency, the me set

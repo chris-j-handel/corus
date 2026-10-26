@@ -103,3 +103,11 @@ Gathering-Value · Natural Mathematics
 ### 7.9 Atoms of symmetry
 
 ## Droplets
+
+- A closed odd cycle cannot give opposite simultaneous parities to the two participants in every adjacent pair, with the concern applying only when those adjacencies are the actual participating co-chainings. *(possible exploring)*
+
+- Binary alternation admits many arrangements and their reflections, so it does not alone derive a unique nine-dot form or right-handed spiral. *(possible exploring)*
+
+- Matching DNA's two complementary pairs to the two across pairs {6,2} and {10,14} permits eight label assignments before an additional relation distinguishes their roles. *(possible exploring)*
+
+- A quarter-turn through cyclic faces 2,10,14,6 changes their designated across matching relative to fixed roles, while a half-turn preserves that matching. *(possible exploring)*

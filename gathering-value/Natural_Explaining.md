@@ -89,3 +89,9 @@ Gathering-Value · Natural Explaining
 ### 4.10 Care inward, and no wrapper
 
 ## Droplets
+
+- Removing a candidate ghost from an explaining leaves its associated instrument responses and preparation conditions incoming rather than removing them with the name. *(possible exploring)*
+
+- Excluding magnitude and resistance from a proposed binary operation leaves quantitative observations available without making their quantities its mechanism. *(possible exploring)*
+
+- A concern dissolves only at its actual joining, so an unspecified correspondence is neither an observed break nor a confirmation of universal explaining. *(possible exploring)*
