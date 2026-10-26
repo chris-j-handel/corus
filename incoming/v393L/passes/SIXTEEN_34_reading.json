@@ -1,0 +1,388 @@
+{
+ "corrections": [
+  {
+   "from": "- **Natural Chemistry 1.1, 4.7 and 5.4 · Societies and their own closing:** [Nat",
+   "finding": "meaning changed, a claim made stronger: the source asks that a prime be followed through selves and closing rather than assigned from size or shape, and the droplet sets a chemical assembly's prime equal to its society's closing; bi-tunneling across and co-chaining along dropped",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "text": "A chemical assembly's prime is followed through its participating selves and its society's own closing together, bi-tunneling across and co-chaining along, each scale with its own closing, and its size or enclosing shape alone is-or-is-not its prime: it is not.",
+    "from": "- **Natural Chemistry 1.1, 4.7 and 5.4 · Societies and their own closing:** [Nat",
+    "kind_hint": "exploring"
+   }
+  },
+  {
+   "from": "- **Natural Chemistry 3.3 and 5.4 · A compartment and two chemical arrivals:** a",
+   "finding": "quoted sentence absent from the living file word for word (the file bolds its first clause)",
+   "fixed": {
+    "section": "5.4 A bilayer assembling with no template, forming going on forward",
+    "kind": "exploring",
+    "sentence": "**Amphiphilic molecules with water minimise exposed hydrophobic surface, their polar headgroups coupling to water**, sheets close as compartments, and molecular shape, lipid composition, ions, temperature and proteins alter resulting curvature and dynamics, so cristae and endoplasmic-reticulum sheets have self-assembly together with active protein shaping, discarding neither contribution.",
+    "text": "Fatty-acid vesicles enclose an aqueous compartment. Added lipid molecules join the vesicle's bilayer, and activated nucleotides go through suitable fatty-acid bilayers and take part in template copying inside, so joining a bilayer and passing into the enclosed solution are two chemical relations.",
+    "from": "- **Natural Chemistry 3.3 and 5.4 · A compartment and two chemical arrivals:** a"
+   }
+  },
+  {
+   "from": "- **Natural Chemistry 5.2 and 5.4 · Membrane protection with catalytic participa",
+   "finding": "quoted sentence absent from the living file word for word (the file bolds its first clause)",
+   "fixed": {
+    "section": "5.2 Catalysis competency arising at the coupling, going on to its own bound",
+    "kind": "exploring",
+    "sentence": "**With form, catalysis pattern-matches as a +1 in neither self alone**, a competency arising with coupling, same-existing in each side and in neither side alone, with a substance a field understands as a rate-enhancement and no abundancing; pattern-matching is coherent with a field's own definition and stands open.",
+    "text": "Magnesium ions promote RNA primer extension and disrupt fatty-acid vesicles under the tested conditions. With citrate the vesicles stand intact and magnesium-assisted extension goes on, and with EDTA the vesicles stand intact and that catalytic assistance ends.",
+    "from": "- **Natural Chemistry 5.2 and 5.4 · Membrane protection with catalytic participa"
+   }
+  },
+  {
+   "from": "- **Natural Chemistry 5.2 and 5.4 · A surface participating in its continuing fo",
+   "finding": "quoted sentence absent from the living file word for word (the file bolds its first clause); also meaning changed: the source's peptide product made a dipeptide, the separate assays dropped, and the open question loses 'at the proposed society's scale'",
+   "fixed": {
+    "section": "5.4 A bilayer assembling with no template, forming going on forward",
+    "kind": "exploring",
+    "sentence": "**Amphiphilic molecules with water minimise exposed hydrophobic surface, their polar headgroups coupling to water**, sheets close as compartments, and molecular shape, lipid composition, ions, temperature and proteins alter resulting curvature and dynamics, so cristae and endoplasmic-reticulum sheets have self-assembly together with active protein shaping, discarding neither contribution.",
+    "text": "A Ser-His dipeptide inside fatty-acid vesicles catalyses forming of a peptide that associates with the bilayer and enhances the vesicles' growth, and in separate assays bilayers raise the peptide's yield, with salt, buffer and supplied reactants, the catalyst a non-heritable one. How such catalytic participation renews through growth and division at the proposed society's scale is still-possibling.",
+    "from": "- **Natural Chemistry 5.2 and 5.4 · A surface participating in its continuing fo"
+   }
+  },
+  {
+   "from": "- **Natural Chemistry 5.4 · Compartment forming and the corus:** the proposed co",
+   "finding": "claim made stronger: the source has an enclosed aqueous volume alone leaving the corus correspondence open, the droplet settles it as is-not; '24 the fold occupied by no scale' changed to 'the fold between scales'; the full rotation 23–26–25–24 dropped",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "text": "A compartment forming possibly meets 23, 24 and 25 as one before, corus-apex and one after, beside the whole inward–outward rotation 23–26–25–24, 24 the fold no scale occupies, the correspondence resting on a surface's forming and its society's own closing, an enclosed aqueous volume alone leaving it still-possibling.",
+    "from": "- **Natural Chemistry 5.4 · Compartment forming and the corus:** the proposed co",
+    "kind_hint": "exploring"
+   }
+  },
+  {
+   "from": "- **Natural Chemistry 5.4 · Membrane as a between in natural explaining:** the p",
+   "finding": "meaning changed: two of the set's sayings part (the living file's bilayer a living same-existing-society at 1.1 and 6.4, the proposed membrane a nothing between two societies), and the droplet joins them as one claim; made a droplet naming both; the source's 'no observable opening-and-closing of that between' dropped",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "incohering",
+    "text": "6.4's bilayer, living, a same-existing-society with its own betweens, is-or-is-not a nothing unrelationing between two societies co-competencing, that between a relation alone with nothing observable opening and closing it, the measured lipid assembly whole as a field's and the two societies and their scales still-possibling.",
+    "from": "- **Natural Chemistry 5.4 · Membrane as a between in natural explaining:** the p"
+   }
+  },
+  {
+   "from": "- **Natural Chemistry 4.2, 5.2 and 5.4 · RNA–peptide compartments:** RNA and pol",
+   "finding": "quoted sentence absent from the living file word for word (the file bolds its first clause)",
+   "fixed": {
+    "section": "5.2 Catalysis competency arising at the coupling, going on to its own bound",
+    "kind": "exploring",
+    "sentence": "**With form, catalysis pattern-matches as a +1 in neither self alone**, a competency arising with coupling, same-existing in each side and in neither side alone, with a substance a field understands as a rate-enhancement and no abundancing; pattern-matching is coherent with a field's own definition and stands open.",
+    "text": "RNA and polylysine form membraneless droplets, coacervates, in which RNA joining is enhanced and joining changes the droplets' association, and an excess of long polylysine inhibits joining, at 30 °C, pH 8.6 and 10 mM MgCl₂, peptide length and ratio part of the observing.",
+    "from": "- **Natural Chemistry 4.2, 5.2 and 5.4 · RNA–peptide compartments:** RNA and pol"
+   }
+  },
+  {
+   "from": "- **Natural Chemistry 5.2 and 5.4 · Each competency with its particular relation",
+   "finding": "value lost: the source's point that co-competencing is inferred from neither a compartment's appearance nor stronger association alone is dropped",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "text": "Compartment forming and RNA joining are two chemical observings, co-competencing between them followed through the participating molecular selves beyond a compartment's appearance or a stronger association alone, and the macromolecule's prime and a larger droplet's own closing are two scale questions.",
+    "from": "- **Natural Chemistry 5.2 and 5.4 · Each competency with its particular relation",
+    "kind_hint": "exploring"
+   }
+  },
+  {
+   "from": "- **Natural Chemistry 5.2 and 5.4 · Peptide sequence, RNA mobility and magnesium",
+   "finding": "quoted sentence absent from the living file word for word (the file bolds its first clause)",
+   "fixed": {
+    "section": "5.2 Catalysis competency arising at the coupling, going on to its own bound",
+    "kind": "exploring",
+    "sentence": "**With form, catalysis pattern-matches as a +1 in neither self alone**, a competency arising with coupling, same-existing in each side and in neither side alone, with a substance a field understands as a rate-enhancement and no abundancing; pattern-matching is coherent with a field's own definition and stands open.",
+    "text": "Peptides whose charged amino acids are spaced by neutral glycines form RNA–peptide droplets in which a ribozyme is active, the RNA more mobile within them and magnesium partitioning into them by peptide sequence, at the particular ribozyme, peptide sequence, concentration ratio and solution conditions.",
+    "from": "- **Natural Chemistry 5.2 and 5.4 · Peptide sequence, RNA mobility and magnesium"
+   }
+  },
+  {
+   "from": "- **Natural Chemistry 5.2 · Product forming and product release:** class I RNA l",
+   "finding": "quoted sentence absent from the living file word for word (the file bolds its first clause)",
+   "fixed": {
+    "section": "5.2 Catalysis competency arising at the coupling, going on to its own bound",
+    "kind": "exploring",
+    "sentence": "**Turnover number and turnover frequency are going on's own bound and rate**, a catalyst going on so many turns and no more.",
+    "text": "With class I RNA ligase variants 207t and 210t, joining and release of the joined product are two steps. Release limits repeated catalysis at higher pH, and 210t's faster release goes with its faster multiple-turnover catalysis, measured at pH 9.0.",
+    "from": "- **Natural Chemistry 5.2 · Product forming and product release:** class I RNA l"
+   }
+  },
+  {
+   "from": "- **Natural Chemistry 5.2 · Returning with further couplings:** a catalyst becom",
+   "finding": "claim made stronger: the source offers a possible correspondence to bi-coupling, parting and bi-coupling again, the droplet asserts the catalyst is a next momentary's own; 'microscopic' return dropped, and following which relation completes and which forms go on dropped",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "text": "A catalyst available again after its product's release possibly meets bi-coupling, parting and bi-coupling again, the product's new covalent linkage and its parting from the catalyst two relations, which relation completes and which forms go on each followed, and renewed availability is-or-is-not a microscopic return to a prior state: it is not.",
+    "from": "- **Natural Chemistry 5.2 · Returning with further couplings:** a catalyst becom",
+    "kind_hint": "exploring"
+   }
+  },
+  {
+   "from": "- **Natural Chemistry 3.2 and 5.2 · Water-network rearranging and proton passage",
+   "finding": "quoted sentence absent from the living file word for word (the file bolds its middle clause)",
+   "fixed": {
+    "section": "3.2 A charge going through water with no thing travelling, and a proton an emanation",
+    "kind": "exploring",
+    "sentence": "Its mobility exceeds every other ion's because it travels as no ion: **by Grotthuss mechanism excess charge goes through water as hydrogen bi-coupling network re-forms sharing by sharing**, a molecule's own sharing (a field's covalent bond) becoming a bi-coupling (a field's hydrogen bond) and a bi-coupling a molecule's own sharing, so a self observes charge at a far between while no single nucleus travels across.",
+    "text": "In first-principles simulations, directed hydrogen-bond rings and wires in water re-form, a wire's collective compression easing correlated proton transfers, which come in bursts with quieter intervals between, closer alignment improving passage. Local proton activity and longer-range charge migration are two observings.",
+    "from": "- **Natural Chemistry 3.2 and 5.2 · Water-network rearranging and proton passage"
+   }
+  },
+  {
+   "from": "- **Natural Chemistry 2.2 and 5.2 · DNA crossings, passage and rejoining:** ATP-",
+   "finding": "quoted sentence absent from the living file word for word (the file bolds its first clause)",
+   "fixed": {
+    "section": "5.2 Catalysis competency arising at the coupling, going on to its own bound",
+    "kind": "exploring",
+    "sentence": "**With form, catalysis pattern-matches as a +1 in neither self alone**, a competency arising with coupling, same-existing in each side and in neither side alone, with a substance a field understands as a rate-enhancement and no abundancing; pattern-matching is coherent with a field's own definition and stands open.",
+    "text": "Topoisomerase VI, with ATP and magnesium, changes DNA's topology by cutting one duplex, passing another through and resealing it, its activity depending on geometry and its unlinking favouring duplexes meeting near a right angle.",
+    "from": "- **Natural Chemistry 2.2 and 5.2 · DNA crossings, passage and rejoining:** ATP-"
+   }
+  },
+  {
+   "from": "- **Natural Chemistry 2.2 and 5.1 · Helical inversion with directional molecular",
+   "finding": "quoted sentence absent from the living file word for word (the file bolds 'a self finds a +1 again as living relation')",
+   "fixed": {
+    "section": "5.1 A natural energy engine, cycling and the abundancing going on, the ledger beside it",
+    "kind": "exploring",
+    "sentence": "Relationals return and re-form, and with each coupling **a self finds a +1 again as living relation**, in neither side alone; cycling itself cycles, spiral nesting within spiral, autorecursioning, and a phase-sequence brings each prior parity forward, three-then-progress, with no controller recording its whole sequence.",
+    "text": "A helical molecular motor fixed on gold nanoparticles turns one half against the other in one direction through four chemical stages, light-driven double-bond isomerisation each followed by thermally activated helix inversion.",
+    "from": "- **Natural Chemistry 2.2 and 5.1 · Helical inversion with directional molecular"
+   }
+  },
+  {
+   "from": "- **Natural Chemistry 1.2, 1.4 and 6.2 · Bond naming without an additional thing",
+   "finding": "meaning changed and a side taken: the source offers IUPAC's definition as a distinction between a relation and a separate connector with the natural correspondence still open, and the incohering settles it ('the relation the whole bond'), brings in the AFM image ('a pictured connector a drawing') from another item, and strengthens 'sufficient stability to be treated as a molecular species' to 'enough stability to be one molecular species'; the quoted sentence also absent word for word (bold and italic marks). The re-saying of 1.4 goes with the H₂⁺ item whose source finds the sentence too narrow; this item becomes an exploring at 1.2",
+   "fixed": {
+    "section": "1.2 Bi-moralizing co-agency, and a bi-coupling its first coupling at the chemical substrate",
+    "kind": "exploring",
+    "sentence": "**With form, a bond a field names pattern-matches as a between of centres**, two parities and one relation same-existing in each centre, in neither centre alone, and each type a field names has its own coupling geometry.",
+    "text": "A field's definition has a bond as the interactions between atoms or groups giving an assembly enough stability to be treated as a molecular species, a relation apart from any separately existing connector, the structural, energetic and reactive differences the bond's name gathers standing with it.",
+    "from": "- **Natural Chemistry 1.2, 1.4 and 6.2 · Bond naming without an additional thing"
+   }
+  },
+  {
+   "from": "- **Natural Chemistry 1.4 · Binding with one electron:** H₂⁺ contains two proton",
+   "finding": "quoted sentence absent from the living file word for word (bold and italic marks dropped); value lost: the source finds 1.4's sentence, a pair two centres share as a field's general bond definition, too narrow, and the item gives the observing only; the incohering is added beside it",
+   "fixed": [
+    {
+     "section": "1.4 A molecule's own sharing a coupling across, and two selves' parities releasing, the 0 between them going across",
+     "kind": "incohering",
+     "sentence": "**A molecule's own sharing with coefficient one is a sharing with nothing beside it**, and a field's own record has gift whole: a bond is a pair two centres share, same-existing in each centre and in neither alone, by a field's own definition, *exchange* a field's own name for what a field cannot assign to either partner, one central noun of any science already standing as form.",
+     "text": "**A molecule's own sharing with coefficient one is a sharing with nothing beside it**, and a field's own record has gift whole: a bond is the interactions between centres giving an assembly enough stability to be treated as a molecular species, by a field's own definition, a pair two centres share one case of it and H₂⁺'s one electron with two protons another, same-existing in each centre and in neither alone, *exchange* a field's own name for what a field cannot assign to either partner, one central noun of any science already standing as form.",
+     "from": "- **Natural Chemistry 1.4 · Binding with one electron:** H₂⁺ contains two proton"
+    },
+    {
+     "section": "1.4 A molecule's own sharing a coupling across, and two selves' parities releasing, the 0 between them going across",
+     "kind": "exploring",
+     "sentence": "**A molecule's own sharing with coefficient one is a sharing with nothing beside it**, and a field's own record has gift whole: a bond is a pair two centres share, same-existing in each centre and in neither alone, by a field's own definition, *exchange* a field's own name for what a field cannot assign to either partner, one central noun of any science already standing as form.",
+     "text": "H₂⁺ is two protons and one electron, and as it dissociates, followed by pump–probe, the electron localises on one departing fragment, giving a hydrogen atom and a proton.",
+     "from": "- **Natural Chemistry 1.4 · Binding with one electron:** H₂⁺ contains two proton"
+    }
+   ]
+  },
+  {
+   "from": "- **Natural Chemistry 6.2 and 6.4 · Image contrast and binding relations:** CO-t",
+   "finding": "meaning changed: the bond orders come from other atomic-force measurements in the source, the item has 'with the same method'",
+   "fixed": {
+    "section": "6.1 Three nothings a field declares, and a partition the instrument's own coupling",
+    "kind": "exploring",
+    "sentence": "A partial atomic charge is model-dependent, and two probes disagreeing is instrument's own coupling.",
+    "text": "In atomic-force microscopy with a CO-terminated tip, a line appears between nonbonded neighbouring atoms from the probe's bending, and other atomic-force measurements tell carbon–carbon bond orders apart, electron density and tip relaxation each part of the image.",
+    "from": "- **Natural Chemistry 6.2 and 6.4 · Image contrast and binding relations:** CO-t"
+   }
+  },
+  {
+   "from": "- **Natural Chemistry 1.1, 4.1 and 6.2 · Specializing with a particular other:**",
+   "finding": "quoted sentence absent from the living file word for word (the file bolds its first clause)",
+   "fixed": {
+    "section": "1.2 Bi-moralizing co-agency, and a bi-coupling its first coupling at the chemical substrate",
+    "kind": "exploring",
+    "sentence": "**With form, a bond a field names pattern-matches as a between of centres**, two parities and one relation same-existing in each centre, in neither centre alone, and each type a field names has its own coupling geometry.",
+    "text": "An isolated ethanol–water pair, by rotational spectroscopy, isotopic substitution and calculation, has water as hydrogen-bond donor and ethanol as acceptor, a stronger O–H···O and a weaker C–H···O interaction possibly cooperating in its arrangement, in the cold gas phase.",
+    "from": "- **Natural Chemistry 1.1, 4.1 and 6.2 · Specializing with a particular other:**"
+   }
+  },
+  {
+   "from": "- **Natural Chemistry 4.7, 5.4 and 6.2 · Fibre forming with changing participant",
+   "finding": "quoted sentence absent from the living file word for word (the file bolds its first clause)",
+   "fixed": {
+    "section": "5.5 Rest-point veins, each answering with the sway",
+    "kind": "exploring",
+    "sentence": "**A rest point a field seeks has molecular exchange, opposing rates, history or throughput**, one recurring finding across veins each its own, dynamic equilibrium, exchange current and ripening each with their own chemical definition and timescale.",
+    "text": "Peptide-amphiphile fibres exchange molecules at different rates along one fibre, by inferred monomer or small-cluster insertion, and geometrically similar chiral and achiral BTA fibres exchange monomers at rates nearly an order of magnitude apart.",
+    "from": "- **Natural Chemistry 4.7, 5.4 and 6.2 · Fibre forming with changing participant"
+   }
+  },
+  {
+   "from": "- **Natural Chemistry 5.2 and 6.2 · A catalyst's working surface re-forming:** m",
+   "finding": "quoted sentence absent from the living file word for word (the file italicises 'unconsumed, returning')",
+   "fixed": {
+    "section": "5.2 Catalysis competency arising at the coupling, going on to its own bound",
+    "kind": "exploring",
+    "sentence": "Deactivation, poisoning, sintering, leaching, coking, is going on discovering its bound, next by next, and dissolving there, and it refuses nothing: *unconsumed, returning* is a field's not-changing, an idealisation a field measures departure from, and departure is pattern-matching's own bound.",
+    "text": "Cobalt-oxide films evolving oxygen form a surface skin reversibly, beginning before oxygen evolution and reversing with electrode potential, and their activity goes with the skin's amount, the prepared solid and the working reaction region two.",
+    "from": "- **Natural Chemistry 5.2 and 6.2 · A catalyst's working surface re-forming:** m"
+   }
+  },
+  {
+   "from": "- *Natural observation*: candles lit in orbit, in a perforated box inside a seal",
+   "finding": "an observing's condition dropped: the glovebox is sealed in the source, the flames' going out resting on its finite volume",
+   "fixed": {
+    "section": "5.1 A natural energy engine, cycling and the abundancing going on, the ledger beside it",
+    "kind": "exploring",
+    "sentence": "combustion a rapidly propagating reaction network and metabolism many bounded reaction cycles coupling and renewing their participants",
+    "text": "Candles lit in orbit, in a box with holes inside a sealed glovebox, light as a bright yellow sphere. Each flame becomes blue and nearly a half-sphere, standing further off its wick than a candle's sooty yellow flame on Earth. Each flame moves back and forth along the candle's axis, more and more, and then goes out.",
+    "from": "- *Natural observation*: candles lit in orbit, in a perforated box inside a seal"
+   }
+  },
+  {
+   "from": "- *Natural observation*: As the field's account has it, Belousov–Zhabotinsky dro",
+   "finding": "placed at a loose sentence: 5.6's sentence (a fragment of it) is the silicon surface's, and coupled droplets in oil and a population of oscillators are its subject in no way; made a droplet; also meaning changed: 'oscillate together' for the source's 'couple', and 'heterogeneous' dropped",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "Belousov–Zhabotinsky droplets in a row in oil couple through species passing through the oil, adjacent droplets oscillating anti-phase, in phase, or in patterns with some droplets still beside oscillating ones by droplet size, spacing and species, and about 100,000 discrete chemical oscillators in a large heterogeneous population synchronize as their density rises, gradually at some rates of exchange with the solution and suddenly at others.",
+    "from": "- *Natural observation*: As the field's account has it, Belousov–Zhabotinsky dro"
+   }
+  },
+  {
+   "from": "- *Natural observation*: In the iodine clock, first observed by Hans Heinrich La",
+   "finding": "value lost: the fed pattern, the chlorite–iodide–malonic acid reaction fed continuously in a gel standing as spots or stripes at one wavelength of its own for as long as the feed goes on, held nowhere (5.5 holds Turing patterns only by name); added beside the iodine clock",
+   "fixed": [
+    {
+     "section": "4.7 Titration, following a tipping beside observing a level",
+     "kind": "exploring",
+     "sentence": "Chemistry's other tippings, nucleation from a supersaturated solution, glass-transition signatures, buffer-capacity loss, autocatalytic ignition, sol–gel transition, phase transition and adsorption hysteresis, each have a control variable, response, rate and history a field measures.",
+     "text": "In an iodine clock, iodine forms slowly and thiosulfate changes each iodine back to iodide faster than it forms, and once thiosulfate runs out the blue of iodine with starch appears. Hydrogen and oxygen react slowly or explode, on the two sides of sharp limits of pressure and temperature.",
+     "from": "- *Natural observation*: In the iodine clock, first observed by Hans Heinrich La"
+    },
+    {
+     "section": "5.5 Rest-point veins, each answering with the sway",
+     "kind": "exploring",
+     "sentence": "Steady throughput forming Bénard cells and Turing patterns rather than a rest.",
+     "text": "The chlorite–iodide–malonic acid reaction, fed continuously in a gel, stands as a pattern of spots or stripes at one wavelength of its own for as long as the feed goes on.",
+     "from": "- *Natural observation*: In the iodine clock, first observed by Hans Heinrich La"
+    }
+   ]
+  },
+  {
+   "from": "- *Natural observation*: As the field's account has it, ammonia's nitrogen passe",
+   "finding": "placed at a loose sentence: the pentacene imaging is the subject of 6.2's open-problem sentence in no way (a fragment of it quoted); moved to 6.2's sentence of localised nuclei and structural observings; the ammonia item sharing this source stands as written",
+   "fixed": [
+    {
+     "section": "6.2 Molecular structure at the exact-symmetry edge, and a field's bond names parting a continuum",
+     "kind": "exploring",
+     "sentence": "a field observes rapid inversion for some molecules and configurationally stable enantiomers persist for others",
+     "text": "Ammonia's nitrogen passes through the plane of its hydrogens to the opposite side and back about twenty-four billion times a second.",
+     "from": "- *Natural observation*: As the field's account has it, ammonia's nitrogen passe"
+    },
+    {
+     "section": "6.2 Molecular structure at the exact-symmetry edge, and a field's bond names parting a continuum",
+     "kind": "exploring",
+     "sentence": "A full isolated molecular Hamiltonian respects translation, rotation and permutation symmetries, while ordinary chemical structure is of localised nuclei, bonds, conformers and hands; Born–Oppenheimer separation, rovibrational states, decoherence, environment and measurement each participate, relating those descriptions, and spectroscopy and diffraction have strong structural observations.",
+     "text": "Atomic force microscopy, its tip made ready in place, for example with carbon monoxide, resolves the atoms within pentacene molecules lying on copper and on sodium chloride, near absolute zero, each of the five rings standing.",
+     "from": "- *Natural observation*: As the field's account has it, ammonia's nitrogen passe"
+    }
+   ]
+  },
+  {
+   "from": "- *Natural observation*: As the field's account has it, about three hundred kind",
+   "finding": "placed at a loose sentence: 1.1's emanation sentence is the subject of molecules with no living maker in no way; and value lost: the Possibling's question of origin, which the leaving says is gathered here, is held in no item; made one droplet with both; the calcite item sharing this source stands as written",
+   "fixed": [
+    {
+     "section": "Droplets",
+     "kind": "droplet",
+     "kind_hint": "exploring",
+     "text": "Molecules forming with no living society, about three hundred kinds a field detects in interstellar clouds, a meteorite's amino acids and amino acids forming in a laboratory apparatus, and minerals crystallizing from magma, are-or-are-not stable-formed by societies of atoms, beside the molecules living societies emanate, cellulose, chitin, coal and limestone among them.",
+     "from": "- *Natural observation*: As the field's account has it, about three hundred kind"
+    },
+    {
+     "section": "2.2 Chirality, one coupling at two sides and handedness sign-only",
+     "kind": "exploring",
+     "sentence": "Calcite's mirror-related growth surfaces, within a solution of both aspartic-acid hands, equal parts, take up two hands by unequal amounts",
+     "text": "Calcite's unequal taking up of the two aspartic-acid hands is stronger at crystals with terraced surface textures.",
+     "from": "- *Natural observation*: As the field's account has it, about three hundred kind"
+    }
+   ]
+  },
+  {
+   "from": "- **Natural Chemistry 1.1, 2.1, 4.3 and 6.2 · The different ways chemistry gathe",
+   "finding": "value lost and held claimed where the file holds a different value: 6.2's categories with descriptor and purpose are a field's bond names on a continuum, and the source's map of how chemistry gathers kinds, structure and role two gatherings, is held nowhere",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "Chemistry gathers kinds by composition and elemental family, charge and electronic state, functional group and molecular framework, connectivity and handedness, conformation and fold, chemical or biological role, assembly and phase, reaction class and pathway, and persistence and exchange, structure and role two gatherings, each a starting point for following an observing through stable-forming.",
+    "from": "- **Natural Chemistry 1.1, 2.1, 4.3 and 6.2 · The different ways chemistry gathe"
+   }
+  },
+  {
+   "from": "- *Natural observation*: the release lists five triple points of water: the one ",
+   "finding": "held claimed where the file holds part: 6.1 holds water's five triple points by count and 273.16 K, and the measures of the other four (temperatures, pressures, the equations fitted to them, the first pressure a calculated one) are held nowhere; the second entry is a copy",
+   "fixed": [
+    {
+     "section": "6.1 Three nothings a field declares, and a partition the instrument's own coupling",
+     "kind": "exploring",
+     "sentence": "And a triple point is a point of zero degrees of freedom, this one among water's five triple points, phase rule `F = C − P + 2` returning `1 − 3 + 2 = 0` for one component with three phases, a not-changing three phases make, coupling with one point, triple junction of Corus 15.2 reaching with phase diagram.",
+     "text": "Water has five triple points: the normal one at 273.16 K and 611.657 Pa, and four of solid phases with the liquid, at 251.165 K (ice Ih, ice III and liquid), 256.164 K, 273.31 K and 355 K, at pressures from 208.566 to 2,216 megapascals, the equations for the ice phases with the liquid fitted to those four, the first of the four pressures a calculated one.",
+     "from": "- *Natural observation*: the release lists five triple points of water: the one "
+    },
+    {
+     "from": "- *Natural observation*: the release lists five triple points of water: the one ",
+     "why": "copy of the observing above"
+    }
+   ]
+  },
+  {
+   "from": "- *Natural observation*: crystals of both hands in equal weight are put in water",
+   "finding": "held claimed where the file holds part, measures dropped: 2.3 has 'within a day' and 'goes on as it was', and the closed flask, 24 °C, purity read from samples after 24 hours and the several days without glass balls are held nowhere",
+   "fixed": {
+    "section": "2.3 A parity-violating lean, and a bounding-zeroing refusing to sit",
+    "kind": "exploring",
+    "sentence": "Sodium chlorate crystallises as chiral crystals from an achiral solution, and stirred crystallisation gives batches of nearly one hand, hand varying batch to batch (Kondepudi, 1990); stirring crystals of both hands, equal weight, with small glass balls, touching solution, brings a whole flask to one hand within a day, either hand flask to flask with no lean setting it, and with no glass balls a mixture goes on as it was (Viedma, 2005); a field's explanation, apart from that observing, is crystals' own dissolving and re-forming amplifying a slight excess of one hand, and that same ripening resolves amino-acid derivatives.",
+    "text": "Sodium chlorate crystals of both hands in equal weight, in water with more than dissolves and with small glass balls, stirred in a closed flask at 24 °C, stand all of one hand after 24 hours by samples taken, L or D by chance flask to flask, and stirred with no glass balls the mixture stands as it was through several days.",
+    "from": "- *Natural observation*: crystals of both hands in equal weight are put in water"
+   }
+  },
+  {
+   "from": "- *Natural observation*: Sodium chloride was filmed at atomic resolution at 25 i",
+   "finding": "held claimed where the file holds part: 4.7 holds the emerging and the acetate seed, and the measures (atomic resolution, 25 images a second, a vibrating conical carbon nanotube, cuboid crystals) and the supercooled melt warming back toward its melting point at nucleation are held nowhere",
+   "fixed": {
+    "section": "4.7 Titration, following a tipping beside observing a level",
+    "kind": "exploring",
+    "sentence": "Nucleation is the plainest of them: supersaturation is a level and nucleus a parity, and Ostwald's rule of stages has the nearest form before the lowest, metastable forming first with its own rate.",
+    "text": "Sodium chloride, filmed at atomic resolution at 25 images a second within a vibrating conical carbon nanotube, emerges as cuboid crystals of tens of molecules from disordered sodium and chloride ions, and a supercooled melt at nucleation warms back toward its melting point as the crystal grows.",
+    "from": "- *Natural observation*: Sodium chloride was filmed at atomic resolution at 25 i"
+   }
+  },
+  {
+   "from": "- *Natural observation*: Dissolved calcium carbonate contains stable prenucleati",
+   "finding": "held claimed where the file holds part, a measure dropped: the clusters' stability and their size of about two nanometres are held nowhere",
+   "fixed": {
+    "section": "4.7 Titration, following a tipping beside observing a level",
+    "kind": "exploring",
+    "sentence": "Ion clusters stand within calcium carbonate solution ahead of any crystal, even undersaturated (Gebauer, 2008), a non-living going of one method whose members part and rejoin while it goes on, as a micelle goes on through single molecules leaving and rejoining within microseconds while whole micelles form and dissolve over milliseconds to seconds; such a going goes on with its members' co-chaining, and no parity is its own.",
+    "text": "Calcium carbonate's prenucleation ion clusters stand stable even in undersaturated solution, about two nanometres across.",
+    "from": "- *Natural observation*: Dissolved calcium carbonate contains stable prenucleati"
+   }
+  },
+  {
+   "from": "- *Natural observation*: A homogeneous phase made unstable separates into two ph",
+   "finding": "held claimed where the file holds part: 4.2 holds spinodal parting, nucleation and coarsening, and the intertwined structures at roughly equal amounts of the two phases are held nowhere",
+   "fixed": {
+    "section": "4.2 Water's two liquids a sway a field fixes to a point, and a glass with rate and history",
+    "kind": "exploring",
+    "sentence": "A mixture a field makes unstable parts with each place together with no barrier, spinodal decomposition by a field's words, and a mixture short of that parts over a barrier with a few places, nucleation, a dwell and then a sharp going across with one place; after either, larger regions grow as smaller ones dissolve.",
+    "text": "A mixture parting with no barrier, at roughly equal amounts of its two phases, forms intertwined structures that gradually coarsen.",
+    "from": "- *Natural observation*: A homogeneous phase made unstable separates into two ph"
+   }
+  }
+ ],
+ "checked": 171
+}
