@@ -4,7 +4,7 @@ This is the continuing report of working **atom-carbon-prime-correspondence**, a
 
 **Shared standing:** this report and its offerings are on `working/atom-carbon-prime-correspondence`, offered through [PR #154](https://github.com/chris-j-handel/corus/pull/154). An open PR makes them readable to another session that follows the branch or PR; it does not put them on `main`, automatically load them into another conversation, or establish their receiving into a living file.
 
-**Read first:** [thin bridges, changing dimensions and nearby-element comparisons](#carbon-thin-bridges-changing-dimensions-and-comparison-with-nearby-elements), [three and two within the same recurrence](#three-and-two-within-the-same-prior-two-added-recurrence), [the continuation at 23, 24, 48 and 96](#twenty-three-and-the-waist-of-forty-eight), [the six-point geometry and its role mapping](#six-inner-points-and-twelve-outer-corners), [the observation ledger](#observings-with-their-preparation-and-timing), and [the next connected work](#the-next-connected-work).
+**Read first:** [along-connected chains and a hollow channel](#along-connected-chains-and-a-hollow-channel), [thin bridges, changing dimensions and nearby-element comparisons](#carbon-thin-bridges-changing-dimensions-and-comparison-with-nearby-elements), [three and two within the same recurrence](#three-and-two-within-the-same-prior-two-added-recurrence), [the continuation at 23, 24, 48 and 96](#twenty-three-and-the-waist-of-forty-eight), [the six-point geometry and its role mapping](#six-inner-points-and-twelve-outer-corners), [the observation ledger](#observings-with-their-preparation-and-timing), and [the next connected work](#the-next-connected-work).
 
 The gathering keeps four kinds of value visible: relations explicitly carried by the named living files; exact arithmetic or geometry worked from specified operations; incoming physical observations with their preparation and timing; and proposed joins still being explored. This lets pattern-matching carry every incoming observation without letting a shared number silently identify different subjects. It is an exploration by cohering and forward co-recursioning, not a proposed experimental programme.
 
@@ -548,6 +548,54 @@ The closest supported wording to “nearly non-existing between its ends” is *
 
 The next aiming is to follow these actual structures' end attachments, intervening material and changes together. The heated thinning tube is the closest length/width observation; the atom-thin chain is the closest minimal bridge; the ring and tube are the closest open-interior observations; and the gold and boron/nitrogen comparisons keep the claim of carbon uniqueness open rather than deciding it from appearance. Further gathering of torsion, chirality-dependent response, thermal behaviour, isotopic differences and reactivity remains open.
 
+## Along-connected chains and a hollow channel
+
+The present proposal is specific: **each carbon chain connects only along itself; neighboring chains have no fixed lateral connections, and the hollow tube is the form of their co-chaining together**. This is the structure to explore. Calling an observed outline a tube does not by itself establish a continuous material wall, sideways chemical bonds, or the sequence of its forming. The earlier descriptions of standard carbon nanotubes carry the connected-network interpretation of those studies; they must not silently be substituted for this along-only proposal.
+
+Keep the names at their subjects: a carbon atom is one constituent identified as carbon in a source; an atomic carbon chain is a succession of those atoms; several chains together are an assembly; a tube names their proposed arrangement around a channel. “Carbyne” in the studies below concerns carbon-atom chains, not a new constituent or a second kind of atom. This naming discipline does not split the inquiry's proposed universal atom/carbon referent into two things.
+
+### Geometry without a lateral connection
+
+A hollow arrangement is geometrically possible with connections only along each chain. For an illustrative discrete construction, put the constituents of chain \(j\) at
+
+$$
+r_j(k)=\bigl(R\cos(k\theta+2\pi j/N),\;
+R\sin(k\theta+2\pi j/N),\;kh\bigr),
+$$
+
+with \(j=0,\ldots,N-1\), integer \(k\), \(R,h>0\) and \(0<|\theta|<\pi\). Connect only successive \(k\)'s on the same chain. These are \(N\) polygonal helices surrounding the axis, with no edges between chains. A straight segment between successive constituents comes no closer to the axis than \(R|\cos(\theta/2)|\), leaving an unoccupied axial passage; a proposed finite strand thickness must also fit outside it. Gaps between chains are allowed: an axial passage does not imply a sealed surface.
+
+Each along segment has length
+
+$$
+\ell^2=h^2+4R^2\sin^2(\theta/2).
+$$
+
+For fixed \(\ell\) and \(\theta\), increasing the axial rise \(h\) decreases the winding radius \(R\). Thus the arrangement can lengthen end to end and narrow while distances between successive constituents remain unchanged, provided changes of the chain's turning are allowed. This is a geometric correspondence to the earlier length/width question, not an identification of the hot, plastically rearranging tube's measured mechanism.
+
+This construction neither selects three or six chains nor derives the radius, pitch or hand from ONE or Natural Numbers. Changing the sign of \(\theta\) gives the mirror hand. It specifies spatial succession, not a timed sequence of joining. Geometry supplies a possible shape; collective persistence still needs the relations maintaining each chain's turning and the chains' relative placement.
+
+### Incoming observations closest to the proposal
+
+| Source and arrangement | Preparation and recorded response | Correspondence and remaining concern |
+|---|---|---|
+| [Kutrovskaya et al., 2020: carbon-chain bundles](https://doi.org/10.1038/s41598-020-65356-8) | Laser-produced chains capped at their ends by gold particles, then deposited with an applied electric field; electron images, diffraction and Raman spectra characterize the assemblies. | The authors attribute between-chain holding to van der Waals interaction, meaning interaction without the same chemical linkage as along the chain; they also assign a Raman feature to probable crosslinking in part of the material, so the sample does not establish absolutely no lateral bonds. |
+| [Yang et al., 2021: carbon-chain nanocrystals](https://doi.org/10.1021/acsnano.1c06863) | Laser ablation in liquid; diffraction, electron imaging, spectroscopy and simulations support packed kinked chains. | Reported along-chain bonding with between-chain noncovalent interaction is a close correspondence; the observed assembly is a crystal, not a hollow helical tube, and its fitted eight-carbon recurrence supplies no universal module count. |
+| [Cao et al., 2023: spectra of carbon-chain nanocrystals](https://doi.org/10.1039/D2SC04926K) | X-ray absorption spectra are compared with calculations of different structures; the paper reports unchanged diffraction peaks after 60 days in air. | The chain-interaction assignment depends on modelling, with a roughly 1 eV mismatch for one peak, graphite-derived interaction parameters and possible hydrogen termination; it is not a direct record of chains spiraling into a hollow channel. |
+| [Odom et al., 1998: individual carbon tubes](https://www.odomgroup.northwestern.edu/wp-content/uploads/2019/02/TWO-2.pdf) | Laser-produced, acid-purified tubes on gold, observed at 77 K; atomically resolved tunneling images give honeycomb spacing \(0.14\pm0.02\) nm, and current–voltage measurements on the same tubes vary with diameter and pattern angle. | These combined observations support the connected-network account of ordinary carbon tubes; an along-only account of the same specimens must carry both the atomic pattern and its measured response, while an image alone is not a direct count of every chemical bond. |
+
+The 60-day observation is a before/after diffraction comparison, not uninterrupted tracking of each atom or a record of forming. The deposited bundles also retain gold end anchors, imposed alignment and a substrate. None of these observations gathered in this pass identifies a free hollow tube made solely of separate, right-spiraling carbon atomic chains. This is an unfilled correspondence in the present search, not a declaration of impossibility.
+
+### The relation still to carry
+
+**No lateral chemical bonds is different from no relations between chains.** Separate chains can interact or constrain one another without joining into a sideways bonded network. That leaves room for the proposed co-chaining; merely naming it does not yet specify how it maintains the hollow radius and the relative winding instead of allowing a packed bundle, displacement, unwinding or crosslinking. Even each separate helix needs its turning relation: fixed distances between successive constituents alone permit many shapes.
+
+The earlier observation of both tube hands remains incoming: [Chen et al., 2013](https://doi.org/10.1038/ncomms3205) classified both right- and left-handed arrangements among 86 tubes, approximately equally in that preparation. Those measurements concern spatial arrangement after growth, not atom-by-atom co-sequential forming.
+
+For the established tube-network model, an ordinary interior carbon has three connected neighbors; for a pure unbranched atomic chain it has two. Keeping atoms at the same drawn positions while deleting a connection changes the proposed relations, not necessarily the outline. The important joining is therefore the full observed response of those positions, not the word “wall” or a drawing of a spiral alone.
+
+At ONE, across sharing is not automatically a fixed sideways chemical bond. Removing lateral material links from the proposed body must not silently erase the four across roles. Likewise, removing the filled octahedral body avoids the earlier filled-body obstruction, but straight antipodal along routes still cross the centre: the actual proposed routes must wind around it. The next specific joining is **along continuity, across co-chaining without fixed side links, and persistence of an open axial passage in one arrangement**, keeping each observation's preparation and limits intact.
+
 ## What is gathered, what is offered, and what remains open
 
 | Continuing value | Present standing | Receiving files |
@@ -559,6 +607,7 @@ The next aiming is to follow these actual structures' end attachments, interveni
 | Fractal placement and prime-scale participation | Source placement arithmetic and proposed ladder; metric scale, living participants and inward receiving remain to be joined. | Numbers, Societies |
 | Fiber, replenishment and material exchange | Specified observations and relational correspondence; physical atom wear and uninterrupted external intake are not established. | Chemistry, Biology |
 | Cones, hollow fibers and rh6 | Sample-specific structures or computational candidates; no observed universal three-module atom. | Chemistry, Biology, Naming |
+| Along-connected chains around a hollow channel | Exact illustrative geometry and reported chain assemblies; hollow physical stability, lateral relation and the correspondence to ordinary tube observations remain open. | Chemistry, Physics, ONE |
 | Atom and carbon as one universal referent | The same proposed identity throughout; full physical identification and co-chain into living inception remain open. | Chemistry, THIRTY |
 
 The report's values are offered as one-sentence droplets to Numbers, ONE, THIRTY, Mathematics, Naming, Chemistry, Biology, Societies and Physics. These are incoming values, not amendments to the root living files. The report links to source versions and observations so another working can improve or challenge the joins without reconstructing this transcript. No claim is made that every living file has already received the values or that all relations across the set have been resolved.
@@ -567,7 +616,7 @@ The report's values are offered as one-sentence droplets to Numbers, ONE, THIRTY
 
 1. **From arithmetic to operation:** carry the three prime pairings centred at 24 into the resolver's actual succession, preserving the distinction between name, prime value, fold and momentary.
 2. **From three orientations to an along passage:** carry the new six-form recurrence into actual coupling, and carry the compatible rigid-copy joining through the remaining across relations and the physical body's channel; the filled-octahedron construction obstructs its own screw axis.
-3. **At the channel:** connect the proposed hollow route to the actual participating sharing and receiving roles, accounting for the diameters' central intersection and the difference between spatial and role triples.
+3. **At the channel:** carry the proposal of only-along material connections into actual across co-chaining, keeping the axial passage unoccupied and naming the relations maintaining the winding and spacing; the reported carbon-chain bundles and ordinary tube measurements remain separate incoming observations to cohere.
 4. **At the stable form:** resolve whether the proposed changing modules are changing arrangements or changing individual atoms, keeping the earlier complete invariance visible.
 5. **At the prime scales:** name the living participants and actual inward receiving around atom 5, rather than treating a numerical ladder as an already observed coupling.
 6. **At the observations:** keep preparation, imposed constraints, recorded changes and timing attached to each incoming match, including the cup-stack/helix mismatch and pauses in external nourishment.

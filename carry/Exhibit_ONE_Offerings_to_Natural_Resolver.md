@@ -93,3 +93,7 @@ Exhibit ONE Natural Resolver Offerings · resolved at v391
 - **Natural Resolver, across and along · A complete incidence audit:** of the eight order-three proper signed-coordinate rotations with next 9 placed at current 17, four add a prescribed across pairing and four add a mismatch, so one compatible rigid-copy chain is available while the full body's passage, other couplings and correspondence to ONE's executing remain open. — atom-carbon-prime-correspondence
 
 - **Natural Resolver, proposed spatial body · Material around the between:** the six-point connector construction does not require filling its convex hull, and observed carbon chains, rings and shells offer other material arrangements to examine while the six roles, remaining across couplings and open along passage still need one explicit joining. — atom-carbon-prime-correspondence
+
+- **Natural Resolver, across and along · Relation without fixed side links:** the proposed chains retain only-along material connections while across co-chaining remains to be specified, because ONE's four across roles cannot be silently equated with chemical side bonds or erased when those bonds are absent. — atom-carbon-prime-correspondence
+
+- **Natural Resolver, an open axial passage · The route as well as the body:** releasing the filled-octahedron assumption removes that body's obstruction but leaves straight antipodal paths through the centre, so actual along routes around the centre must accompany the proposed hollow form. — atom-carbon-prime-correspondence
