@@ -76,7 +76,7 @@ Gathering-Value · Natural Exploring
 
 ### 3.4 An observing testing locally, its trail's consequence with it
 
-### 3.5 Passing tests, many standing
+### 3.5 Passing tests, many sustaining
 
 - **Possible exploring** · Once 15 or more bees are together at one site, a swarm prepares for flight: workers pipe for about 0.8 seconds at about 200 hertz, and the swarm warms to 33 to 35 °C, usually in an hour or more; the model's best quorum is 15 to 20 while piping occurs at 10 to 20, a low quorum gives fast but often inaccurate choosing and a high quorum slower, more accurate choosing; in one decision, dancing totals about 16 hours over three days. — at "A self taking its passing tests for its resolving lands on the first thing passing them, and a landing is a 0, not changing."
 
@@ -93,7 +93,7 @@ Gathering-Value · Natural Exploring
 ### 3.8 Observing whole, ahead of any sorting
 
 
-### 3.9 An object, a place an accounting lands
+### 3.9 An object, a place at which an accounting stops and declares
 
 ## 4 A method its own subject
 
@@ -128,9 +128,9 @@ Gathering-Value · Natural Exploring
 ### 5.1 Each accounting for changing an involution
 
 
-### 5.2 An involution's fixed set is where it takes its counting from
+### 5.2 An involution's fixed set, the place it takes its counting from
 
-### 5.3 A fixed set is where a changing reaches nothing to change back with
+### 5.3 A fixed set, at which a changing reaches nothing to change back with
 
 ### 5.4 A state-three and a flow-three
 
@@ -186,7 +186,7 @@ Gathering-Value · Natural Exploring
 ### 7.1 Gathering backward and seating forward to living files
 
 
-### 7.2 Two standing instances, an improving report and a registry
+### 7.2 Two instances, an improving report and a registry
 
 ### 7.3 Four opens and one form still, a schema
 
