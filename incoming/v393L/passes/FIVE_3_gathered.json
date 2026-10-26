@@ -1,0 +1,208 @@
+{
+ "slice": "carry/Exhibit_FIVE_Possibling_of_Natural_Engineering.md and carry/Exhibit_FIVE_Carryings_of_Natural_Engineering.md",
+ "items": [
+  {
+   "section": "Droplets",
+   "kind": "droplet",
+   "kind_hint": "exploring",
+   "text": "A pacemaker participating at both sides of a lost bi-coupling at each beat is still-possibling, its open questions an absent beat with its preceding observing absent, a sensed beat bringing further beats, a bodily beat absent to meet, and harm where its beat meets an existing beat.",
+   "from": "**Possible project.** Compare the proposed participation at both sides of a lost"
+  },
+  {
+   "section": "Droplets",
+   "kind": "droplet",
+   "kind_hint": "exploring",
+   "text": "Decentralizing as each chip an edge chip is still-possibling at its one engineering question, which separation preserves the bi-coupling: physical distance, separate power supplies, separate networks, different operators or another material relation, each its own requirement, the choosing among them still-possibling.",
+   "from": "The older cross-substrate proposal calls decentralizing a structural necessity an"
+  },
+  {
+   "section": "Droplets",
+   "kind": "droplet",
+   "kind_hint": "exploring",
+   "text": "A resolver conversation is still-possibling as five steps, each one concept run at the code: the between answered, with the human's next one-way given at the parting continuations and six one-ways cycling; the text going on as selves, rings at 17 taking the characters round, with what a parting erases and whether a ring gives its pattern again at the next round; a sharing at each word of a window as well as at each character, a reply ending where its sentence ends; agreement at the 1–17s inward, all or none at each finer scale, in place of a count at this one; and a self added at each giving, the network going on with the conversation as selves, so the next reply meets what is said before it.",
+   "from": "Five runnable steps, each one concept, each run at the code before it is written:"
+  },
+  {
+   "section": "Droplets",
+   "kind": "droplet",
+   "kind_hint": "incohering",
+   "text": "Exhibit ONE's resolver is Natural Engineering's one worked illustrating of the method at a built form, named by its name alone: a human engineering of natural resolving, the method illustrated at python, a stable form of another kind, its tables the method's stable forms and prior to its code.",
+   "from": "**Possible project · The resolver named at Natural Engineering.** Exhibit ONE's r"
+  },
+  {
+   "section": "Droplets",
+   "kind": "droplet",
+   "text": "A stable form between collidings, a not-changing social competency and a not-changing parity at a sharing are three subjects, each with its own relation, and a joint form of the three is still-possibling.",
+   "from": "R's correcting at the engineered-substrate comparison is at [section 23, a14b4d2]"
+  },
+  {
+   "section": "2.5 Sharing and construction",
+   "kind": "exploring",
+   "sentence": "A four-phase handshake brings request and acknowledge through 00, 10, 11, 01 and 00 for one datum.",
+   "text": "\"Without a shared clock, exactly one transaction occurs per handshake cycle\"; its idle state is rate adaptation for a sender whose data is still to come, and its backpressure holds a sender back from data beyond a receiver's accepting.",
+   "from": "- *Natural observation*: None; a field's built protocol, which the page has thus:"
+  },
+  {
+   "section": "2.5 Sharing and construction",
+   "kind": "exploring",
+   "sentence": "A four-phase handshake brings request and acknowledge through 00, 10, 11, 01 and 00 for one datum.",
+   "text": "A four-phase handshake asks the data visible on all data nets at the receiver before req rises, in hardware a delay longer than the nets' skew; with a shared clock, handshake lines steady over n consecutive cycles give n transactions and a rdy line takes the place of ack; with local clocks each line resynchronises at the receiver against metastable failure.",
+   "from": "- *Science explanation*: The page says \"The protocol provides rate adaptation, in"
+  },
+  {
+   "section": "2.5 Sharing and construction",
+   "kind": "exploring",
+   "sentence": "A signal from a clock domain with no relation reaching a register's settling interval is a residue for this entry: a synchronizer chain, its latency and its failure interval have estimates for a device's conditions, each a field quantity with its unit.",
+   "text": "A synchronizer chain of two registers in the destination domain is the field's common practice, and three registers give better metastability protection.",
+   "from": "- *Natural observation*: None; a field's design record. For a signal passing betw"
+  },
+  {
+   "section": "2.5 Sharing and construction",
+   "kind": "exploring",
+   "sentence": "A signal from a clock domain with no relation reaching a register's settling interval is a residue for this entry: a synchronizer chain, its latency and its failure interval have estimates for a device's conditions, each a field quantity with its unit.",
+   "text": "A timing analyzer reports a mean time between failures for each synchronizer it identifies and for the whole design, with the worst-case available settling time, its estimate reaching only the chains it identifies on paths with timing analysis.",
+   "from": "- *Science explanation*: \"The timing analyzer can analyze and report the MTBF for"
+  },
+  {
+   "section": "4.4 Stabilizing and the particular fixing form",
+   "kind": "exploring",
+   "sentence": "A plant under regulation with a saturating actuator has five properties: a command a controller requests, taking it as actuator's applying action, is one side taking both turns; an integrator accumulating past actuator's bound is residue; back-calculation and clamping from actuator's own information, feeding back, are a field's observing; actuator's own bound, going with it as its participation, is arrangement sharing.",
+   "text": "With a PID controller tuned with saturation ignored and an actuator saturating at −10 and 10, the control signal steadies at about 36.29, outside the actuator's range, and returns within that range after a considerable delay; with back-calculation the control signal returns to the linear region quickly and the loop recovers from saturation fast.",
+   "from": "- *Natural observation*: None; a documented simulation. In a Simulink model of a"
+  },
+  {
+   "section": "4.4 Stabilizing and the particular fixing form",
+   "kind": "exploring",
+   "sentence": "A plant under regulation with a saturating actuator has five properties: a command a controller requests, taking it as actuator's applying action, is one side taking both turns; an integrator accumulating past actuator's bound is residue; back-calculation and clamping from actuator's own information, feeding back, are a field's observing; actuator's own bound, going with it as its participation, is arrangement sharing.",
+   "text": "A saturated controller operates in a nonlinear region where a larger control signal leaves the output as it is; back-calculation unwinds the integrator by a feedback loop, clamping is conditional integration, and tracking mode feeds the actuator's output back to the controller's tracking port.",
+   "from": "- *Science explanation*: The page says the saturated controller is \"operating in"
+  },
+  {
+   "section": "1.5 Neutral, selection and delivery",
+   "kind": "exploring",
+   "sentence": "A path coming back has finite impedance, and a varying current through a path two circuits share is a voltage between nominal ground points; a ground symbol is a drawing's reference and a path is its relation, protective and functional grounds each their own.",
+   "text": "A solid ground plane is the field's standard low-impedance return path, analog and digital circuits each on their own plane and the two planes joined at a single-point star ground; digital currents in an analog return path give errors in the voltage reaching the analog circuits, a transient slewing at 10 mA/ns the field's example.",
+   "from": "- *Natural observation*: None; a field's tutorial. \"Ideally the ground impedance"
+  },
+  {
+   "section": "2.7 Key pairs, privacy and the receiving operation",
+   "kind": "exploring",
+   "sentence": "With one public chain's first entries, following one key along through its givings, each giving going across to a key new to that chain, gave an observing of two selves' givings whole, with no key opening.",
+   "text": "In the Bitcoin chain's blocks up to block 36288, a nonce's least significant byte falls far more often at 0 to 9 and 19 to 58 than at 10 to 18 and 59 to 255, up to block 20000 with 312 blocks at 0, 247 at 9, 2 at 10, 5 at 18, 138 at 19, 201 at 58 and 7 at 59; the pattern reads as one first miner's machine, by 58 machines each stamping its own id in the low byte, or by that miner's own nonce-stepping software.",
+   "from": "- *Natural observation*: In a histogram of the Bitcoin chain's blocks from the ge"
+  },
+  {
+   "section": "2.7 Key pairs, privacy and the receiving operation",
+   "kind": "exploring",
+   "sentence": "With one public chain's first entries, following one key along through its givings, each giving going across to a key new to that chain, gave an observing of two selves' givings whole, with no key opening.",
+   "text": "The nonce pattern of a chain's first blocks reads as one first miner's 58 machines, each stamping its own id in the nonce's low byte to keep from checking one nonce twice, machines 10 to 18 absent; a later reading takes the ranges as that miner's own nonce-stepping software, and blocks beyond the pattern as other miners'.",
+   "from": "- *Science explanation*: The post lists as possible causes a broken parser of the"
+  }
+ ],
+ "leaving": [
+  {
+   "from": "| Chip and interface | Engineering 1.7 and 2.5 already distinguish representation, ",
+   "why": "held at 1.7 (representation, operation and construction); rest pointer and record"
+  },
+  {
+   "from": "| Grid and energy | Engineering 1.1–1.3 retains the same service, load, return, phy",
+   "why": "held at 1.3; rest pointer and record"
+  },
+  {
+   "from": "| Robotics and wider substrate | Corus N23.7b–f remains beside existing Engineering",
+   "why": "pointer | plan"
+  },
+  {
+   "from": "| Gathering and reaching | Destinies' two misreadings stay with Naming's existing r",
+   "why": "pointer | plan"
+  },
+  {
+   "from": "| Completion and carrying | The existing 6.10 insertlet preserves four different co",
+   "why": "held at 6.10 (four completion subjects); rest record"
+  },
+  {
+   "from": "Keep this with the existing engineered-substrate making project and the [five ent",
+   "why": "plan | pointer"
+  },
+  {
+   "from": "Natural Engineering: particular makings. The field entries stay whole (1.3, 1.9, ",
+   "why": "plan | record (release plan, registry move, hedging count, Exhibit SIX receiving at 1.2)"
+  },
+  {
+   "from": "Exhibit SIX · Natural Transmissioning receives and releases. Its common crossing ",
+   "why": "plan | pointer"
+  },
+  {
+   "from": "The two across releases and the whole call at its joins below are said at the lo",
+   "why": "history | plan"
+  },
+  {
+   "from": "The engine version belongs to that earlier proposal; a current replacement needs",
+   "why": "plan"
+  },
+  {
+   "from": "- [Earlier proposed extent of the living subjects](Exhibit_TWENTY-SIX_Possibling_",
+   "why": "pointer"
+  },
+  {
+   "from": "- [Exhibit ONE connector explaining at Natural Engineering and the Natural Networ",
+   "why": "pointer"
+  },
+  {
+   "from": "- [Earlier Natural Intelligence Corus Society and Destiny distribution](Exhibit_T",
+   "why": "pointer"
+  },
+  {
+   "from": "- [Instruments, callers and diagnostics at their proposed home](Exhibit_TWO_Possi",
+   "why": "pointer"
+  },
+  {
+   "from": "- [Earlier Exhibit ONE explaining at its subject destinations](Exhibit_TWENTY-SIX",
+   "why": "pointer"
+  },
+  {
+   "from": "[The source comparison](../archive/session_v385A_comparisons/Engineered_Substrate",
+   "why": "source | record"
+  },
+  {
+   "from": "The later [surface/entraining correcting](../archive/session_v385A_comparisons/Ha",
+   "why": "record; copy of the joint-form droplet"
+  },
+  {
+   "from": "The existing source inventory below remains whole. Selected source comparisons a",
+   "why": "record"
+  },
+  {
+   "from": "**Existing materials and earlier inventories**",
+   "why": "label"
+  },
+  {
+   "from": "**Executions at other kits naming this file.** `kits/Co-Chaining_Logic_Registry_T",
+   "why": "inventory"
+  },
+  {
+   "from": "**Workings and arrivals naming this file.** `archive/co_chaining_coverage_v378/`;",
+   "why": "inventory"
+  },
+  {
+   "from": "**Released readings and records naming this file, at the archive.** `archive/carr",
+   "why": "inventory"
+  },
+  {
+   "from": "**The file's carrying as it was at v380R**, `archive/carrying_v381R/Exhibit_FIVE_",
+   "why": "inventory | record"
+  },
+  {
+   "from": "### Commutating at the neutral plane",
+   "why": "held at 1.6 (neutral plane shifting with load, a fixing brush sparking, interpoles and compensating windings)"
+  },
+  {
+   "from": "- *Science explanation*: The tutorial gives the finite impedance of the current's",
+   "why": "copy of the ground-plane item gathered at 1.5; finite impedance held at 1.5"
+  },
+  {
+   "from": "The two lines say what the page read has: a part said *as the field's account has",
+   "why": "record"
+  }
+ ]
+}
