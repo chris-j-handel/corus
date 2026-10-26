@@ -161,3 +161,5 @@ So with the six, 1 to 17 is one round only because 17 falls with a six's place, 
 - **Natural Numbers §§3.1 and 8.2 · Three and two within one recurrence:** from (1,1), prior-two-added repeats its odd/even pair after three applications on the opposite side of phi and after six on the same side, giving six joint relations while its positive integer values advance. — atom-carbon-prime-correspondence
 
 - **Natural Numbers §3.4 · What the parity correspondence leaves open:** next pairs (b,−a−b), (b,−a+b) and (b,a+b) have the same effect on number parity while their full operations close after three, close after six and advance toward phi respectively, so the parity recurrence alone does not identify the arithmetic operation or a spatial along passage. — atom-carbon-prime-correspondence
+
+- **Natural Numbers §6.2, each integer as waist · A particular physical correspondence:** the three prime pairings centred at 24 become a candidate connection to three physical routes only through their actual pairing and succession, because the shared name waist does not itself identify a physical operation with the ring of 48. — atom-carbon-prime-correspondence

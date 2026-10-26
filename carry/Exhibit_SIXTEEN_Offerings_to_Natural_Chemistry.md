@@ -460,3 +460,7 @@ Contradiction, the living and the non-living: Natural Biology draws the line the
 - **Natural Chemistry, replenishing · Availability of unchanged units:** if carbon units retain their full form, opening a chain does not consume them, so the outgoing route, local reuse and incoming offering must explain any surface depletion and its replenishing. — atom-carbon-prime-correspondence
 
 - **Natural Chemistry, directional motion · Constituent and surrounding arrangement:** recorded carbon-chain rupture and strongly directional rotation of a two-carbon, two-hydrogen molecule on a metal support supply partial comparisons, while neither identifies a ratchet inside one carbon unit or establishes universal absence of backward passage (doi:10.1038/ncomms7636; doi:10.1073/pnas.1918654117). — atom-carbon-prime-correspondence
+
+- **Natural Chemistry, folding contact · A ridge within the arrangement:** one folding edge can provide a candidate encounter for a chain riding another edge, while changing friction or sliding does not by itself establish the opening of an along coupling. — atom-carbon-prime-correspondence
+
+- **Natural Chemistry, graphite contact · Relative orientation:** measured friction changes reversibly with relative angle in prepared graphite contacts, offering a comparison for arrangement-dependent restraint while preserving the distinction between many-carbon interfaces and one proposed unchanged constituent (doi:10.1103/PhysRevLett.92.126101; doi:10.1103/PhysRevLett.108.205503). — atom-carbon-prime-correspondence

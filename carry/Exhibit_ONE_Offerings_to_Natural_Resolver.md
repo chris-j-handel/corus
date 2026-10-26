@@ -101,3 +101,9 @@ Exhibit ONE Natural Resolver Offerings · resolved at v391
 - **Natural Resolver, forward passage · The release condition:** a forward/rear unit orientation does not itself exclude backward passage, so the proposed ridge must carry the actual permitted release and next coupling while the reverse route remains unavailable. — atom-carbon-prime-correspondence
 
 - **Natural Resolver, surface parity · A particular binary:** coupled and uncoupled name one binary relation, whose joining to the surface's parity changing and need for another available unit must be carried rather than inferred from binary naming alone. — atom-carbon-prime-correspondence
+
+- **Natural Resolver, forward along · Through the waist:** approaching tighter winding and departing into looser winding can both be forward along the same route, while the dynamic folding and permitted coupling movements still need their actual succession. — atom-carbon-prime-correspondence
+
+- **Natural Resolver, three routes · Six portions:** three routes passing once through a waist give three approaching and three departing portions, whose continuity as routes need not mean uninterrupted material connection when the proposed along couplings open. — atom-carbon-prime-correspondence
+
+- **Natural Resolver, bumping · Relative movement:** common rigid rotation preserves internal contact geometry among the co-rotating parts, so successive internal encounters require relative motion or another changing constraint. — atom-carbon-prime-correspondence
