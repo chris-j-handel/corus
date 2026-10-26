@@ -138,6 +138,6 @@ Gathering-Value · Natural Numbers
 
 ## Droplets
 
-- Two forward moves through the nine-dot diamond, each one of a momentary's two proposed parts and each open to right or left, allow right, straight and left outcomes, and straight-or-right-only needs a further relation excluding two successive left moves. *(possible exploring)*
+- Two forward moves through the nine-dot diamond, each one of the two parts a proposal gives a momentary and each open to right or left, allow right, straight and left outcomes, and straight-or-right-only needs a further relation excluding two successive left moves. *(possible exploring)*
 
 - Eight assignments between letters in pairs and roles in pairs are eight correspondences and not eight parity changings, as three intervals between four positions are-not three full twists. *(possible exploring)*

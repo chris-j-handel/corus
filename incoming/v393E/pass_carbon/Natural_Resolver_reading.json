@@ -1,0 +1,71 @@
+{
+ "corrections": [
+  {
+   "from": "**Natural Resolver, across and along · A complete incidence audit:** of the eigh",
+   "finding": "The report gives 'next 9 at current 17' as an added joining rule, a proposal and not an operation of ONE; the item says it with no proposal mark. 'Chain of rigid copies' names copies of the proposed atom's six-point connector and could read as a carbon chain, with no is-or-is-not.",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "Under a proposal's joining rule setting a next copy's 9 at a current copy's 17, of the eight proper rotations of order three of the coordinate axes with their directions, four add an across pairing of the resolver's own and four add a mismatch, and one matching chain of rigid copies of the proposed six-point connector is available, each copy the proposal's one carbon atom, while the whole body's passage, the other bi-couplings and the correspondence to ONE's executing remain open.",
+    "from": "**Natural Resolver, across and along · A complete incidence audit:** of the eigh"
+   }
+  },
+  {
+   "from": "**Natural Resolver, across and along · Relation without fixed side links:** the ",
+   "finding": "'Are is-not' twice breaks the saying, which makes the item's claim unreadable.",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "In the proposal, the chains of many carbon atoms, each chain is-not a carbon atom, have only along material connections, while across co-chaining remains to specify, and each of ONE's four across roles is-not silently one with a chemical side bond and is-not gone with those bonds absent.",
+    "from": "**Natural Resolver, across and along · Relation without fixed side links:** the "
+   }
+  },
+  {
+   "from": "**Natural Resolver, an open axial passage · The route as well as the body:** rel",
+   "finding": "'Releasing the assumption ... removes that body's obstruction' is a cause-and-effect saying.",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "A hollow body in place of a solid octahedron is-not that solid body's obstruction, while straight antipodal paths through the centre are still present, and actual along routes winding around the centre are to go with the proposal's hollow form.",
+    "from": "**Natural Resolver, an open axial passage · The route as well as the body:** rel"
+   }
+  },
+  {
+   "from": "**Natural Resolver, three routes · Six portions:** three routes passing once thr",
+   "finding": "A conditional becomes unconditional: the source's 'when the proposed along couplings open' becomes 'with the proposal's along bi-couplings opening'. The item also drops the report's condition 'without branching', which the three-and-three tally depends on.",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "Three routes, each passing once through a waist without branching, give three approaching portions and three departing portions, and their continuity as routes is-not of necessity an unbroken material connection, if the proposal's along bi-couplings open.",
+    "from": "**Natural Resolver, three routes · Six portions:** three routes passing once thr"
+   }
+  },
+  {
+   "from": "**Natural Resolver, same now-existing momentary · Across bi-tunneling:** the pro",
+   "finding": "Meaning changed: 'without ... a requirement that all three folding paths disconnect together' (all three together is still possible) becomes all three disconnecting together 'is-not part of it' (excluded). 'Are each is-not' also breaks the grammar.",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "In the proposal, a bump disconnects one co-chaining, all or none, for across bi-tunneling within the same now-existing momentary; a resistant intermediate is-not part of it, a separate later along step is-not part of it, and all three folding paths disconnecting together is-not a requirement of it.",
+    "from": "**Natural Resolver, same now-existing momentary · Across bi-tunneling:** the pro"
+   }
+  },
+  {
+   "from": "**Natural Resolver, across and along · Partner exchange as a possibility:** two ",
+   "finding": "Broken grammar ('with a permanent sideways branch is-not part of it') reverses how the saying reads. The report frames the exchange as a conditional construction offered as a possibility, and that hedge is weakened here. 'Two along chains' gets no is-or-is-not against a carbon atom.",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "Within the endpoint construction as given, a possibility for exploring, two along chains, each of many carbon atoms and each is-not a carbon atom, can exchange onward partners, and a permanent sideways branch is-not part of that exchange, while ONE's 6 → 2 and 10 → 14 across and 9 → 17 along are their own roles, each is-not one of those four illustrative endpoints.",
+    "from": "**Natural Resolver, across and along · Partner exchange as a possibility:** two "
+   }
+  }
+ ],
+ "checked": 17
+}

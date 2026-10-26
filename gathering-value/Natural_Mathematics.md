@@ -110,4 +110,4 @@ Gathering-Value · Natural Mathematics
 
 - Matching DNA's two complementary pairs to the two across pairs {6,2} and {10,14} permits eight label assignments before an additional relation distinguishes their roles. *(possible exploring)*
 
-- A quarter-turn through cyclic faces 2,10,14,6 changes their assigned across matching against roles staying in place, while a turn of two quarters preserves that matching. *(possible exploring)*
+- A quarter-turn through cyclic faces 2,10,14,6 changes the across matching assigning them against roles staying in place, while a turn of two quarters preserves that matching. *(possible exploring)*

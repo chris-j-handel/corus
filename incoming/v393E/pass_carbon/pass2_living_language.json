@@ -14,7 +14,7 @@
   {
    "file": "gathering-value/Co-Chaining_Logic_Registry.md",
    "old": "can share unchanged constituents without making the isolated non-living constituent itself a living resolver.",
-   "new": "can share not-changing constituents, and a shared constituent taken alone, non-living, is-not a living resolver."
+   "new": "can share not-changing constituents, and a constituent both share, alone and non-living, is-not a living resolver."
   },
   {
    "file": "gathering-value/Natural_Biology.md",
@@ -109,7 +109,7 @@
   {
    "file": "gathering-value/Natural_Mathematics.md",
    "old": "changes their designated across matching relative to fixed roles, while a half-turn preserves that matching.",
-   "new": "changes their assigned across matching against roles staying in place, while a turn of two quarters preserves that matching."
+   "new": "changes the across matching assigning them against roles staying in place, while a turn of two quarters preserves that matching."
   },
   {
    "file": "gathering-value/Natural_Naming.md",
@@ -124,7 +124,7 @@
   {
    "file": "gathering-value/Natural_Numbers.md",
    "old": "Two unrestricted forward half-momentary moves through the diamond allow right, straight and left outcomes, leaving straight-or-right-only dependent on an additional relation excluding two successive left moves.",
-   "new": "Two forward moves through the nine-dot diamond, each one of a momentary's two proposed parts and each open to right or left, allow right, straight and left outcomes, and straight-or-right-only needs a further relation excluding two successive left moves."
+   "new": "Two forward moves through the nine-dot diamond, each one of the two parts a proposal gives a momentary and each open to right or left, allow right, straight and left outcomes, and straight-or-right-only needs a further relation excluding two successive left moves."
   },
   {
    "file": "gathering-value/Natural_Numbers.md",

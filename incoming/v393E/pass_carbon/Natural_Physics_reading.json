@@ -1,0 +1,60 @@
+{
+ "corrections": [
+  {
+   "from": "**Natural Physics, atom and instrument · Width as a relation:** carbon radii nea",
+   "finding": "The hedge 'inferred' becomes 'derives', a stronger saying than the source and the report give (the radii are fitted contributions a field infers). The appositive 'a chain of many carbon atoms' attaches to 'calculation' and gives carbyne no is-or-is-not against one carbon atom.",
+   "fixed": {
+    "section": "3.1 An atom a stable form, and periodic table its catalog",
+    "kind": "exploring",
+    "sentence": "What chemistry measures with a bond is a catalog again, lengths and energies landings of a winding that lands nowhere, working it to its edge here and bringing it to Chemistry's turn.",
+    "text": "Carbon radii of about 76, 73 and 69 pm, which a field infers from crystal bond distances, belong each to its own bonding environment, and an equivalent-rod thickness a calculation gives for carbyne, a chain of carbon atoms that is-not one carbon atom, belongs to its model; each is-not a hard carbon-atom boundary an image records directly.",
+    "from": "**Natural Physics, atom and instrument · Width as a relation:** carbon radii nea"
+   }
+  },
+  {
+   "from": "**Natural Physics, atom and instrument · A narrow line:** AFM bond-like contrast",
+   "finding": "'A physical fiber' is a name the proposal uses for a carbon atom's shape, and the item gives it no is-or-is-not: a reader cannot tell whether one atom's fiber or a many-atom fiber is meant.",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "AFM bond-like contrast appears both at an intermolecular bond a field assigns and at places with that bond absent, and the tip's response and flexibility need to accompany the observing; a thin image line alone is-not a proving of a physical fiber, one carbon atom's or many atoms', and is-not a proving of its width.",
+    "from": "**Natural Physics, atom and instrument · A narrow line:** AFM bond-like contrast"
+   }
+  },
+  {
+   "from": "**Natural Physics, shells and chains · Nearby comparisons:** atom-thin gold brid",
+   "finding": "The report gives the 26% as a geometrically estimated bending strain; the item says it as a plain measure, its hedge dropped.",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "Atom-thin gold bridges and the reversible rippling of boron nitride tubes are material connections and flexible shells outside carbon, and the rippling, with a bending strain a geometric estimate puts at about 26%, is a relation distinct from uniform axial extension.",
+    "from": "**Natural Physics, shells and chains · Nearby comparisons:** atom-thin gold brid"
+   }
+  },
+  {
+   "from": "**Natural Physics, changing form · Different changings:** nanotube radial flatte",
+   "finding": "The source's requirement ('each must retain its own preparation and measured response when joined') becomes a description ('a joining ... brings along'): a proposal for how to join is said as an observation of what a joining does.",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "Radial flattening with recovery, the sliding of one shell within another, and hot plastic narrowing of carbon nanotubes, each tube many carbon atoms and each is-not a carbon atom, are distinct relations, and a joining of each to a not-changing constituent stable form is to bring along that changing's own preparation and the response a field measures for it.",
+    "from": "**Natural Physics, changing form · Different changings:** nanotube radial flatte"
+   }
+  },
+  {
+   "from": "**Natural Physics, folding sheets · Spatial twist and timing:** prepared stretch",
+   "finding": "'Sheets' in a slice about the carbon atom can read as carbon sheets; the report gives them as elastic sheets, stretched and twisted, and the item gives them no is-or-is-not against a carbon atom.",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "Elastic sheets a preparation sets under stretch and twist, each sheet of many atoms and each is-not a carbon atom, develop self-contact and winding gathering into a few places, with the torque a field measures changing, and a variable fold number and twist per unit length is-not a supplying of a universal threefold atom and is-not a supplying of a binary co-chaining cycle with its timing.",
+    "from": "**Natural Physics, folding sheets · Spatial twist and timing:** prepared stretch"
+   }
+  }
+ ],
+ "checked": 11
+}
