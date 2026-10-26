@@ -180,6 +180,8 @@ Gathering-Value · Natural Naming
 
 ### 5.45 bi-co-podaling — binary
 
+- A hive's foragers going out and back illustrate podaling: away and back, across and along, each forager with her own source and only a parity going across at a dance, a hive's surface around now-existing co-intelligencing in no forager alone. *(possible exploring)*
+
 ### 5.46 artifact — binary
 
 ### 5.47 an accounting — binary
