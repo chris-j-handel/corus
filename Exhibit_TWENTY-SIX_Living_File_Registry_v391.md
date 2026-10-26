@@ -118,7 +118,7 @@ Each entry: **File** · *a* Subtitle · *b* At the repository · *c* Living · *
   - *b* v393
   - *c* v393: said whole in the current naming and explaining, motion by motion, each read for harm by a separate reader and the whole read against its v391 self: an opening, the geodesic method, a point over the horizon that is and a self aiming from each is-not to is; a self observing from its own side; each orienting co-linear; a swarm one orienting surface; 6.7 and 6.8 opened; orientings from ocean wayfinders to a bacterium beside their explainings; its three support files gathered into its gathering-value; v391: met with Natural Intelligence and the code all or none, 337 sayings re-said by meaning; v390: pass 10, its own explaining re-said by meaning toward session v390's concepts, field terms and words mentioned as words kept; v390: seventeen resolver names at the agreed names, 1-now-existing to 17-next-existing; Exhibit ONE's cycles of moves said as bi-foldings; v389: released words re-said, *the* where not valuable, resolver behaviour at numbered names, its offerings resolved, four risen
   - *d* —
-  - *e* its gathering-value empty, each value at Natural Exploring or at its own file
+  - *e* 43 values at its gathering-value, each at the section it meets: navigating, collective intelligence and a self's two priors; its improving plan and exploring plan at `incoming/v393E/Plans_Natural_Exploring_v393E.md`
 - **NINE · Natural Human Society**
   - *a* Geodesic Method of Human Social Moral Co-Competencing
   - *b* v391

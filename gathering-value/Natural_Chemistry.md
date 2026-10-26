@@ -24,6 +24,8 @@ Gathering-Value · Natural Chemistry
 
 ### 1.7 Shells each odd twice about a zero, and twenty-four at carbon's own tetrahedron
 
+- Beside three edges a self is naming, 7 self and other, 14 universe and other and 21 universe and self: carbon is element 6, each carbon atom having 6 protons; nitrogen, which is-not carbon, is element 7, and carbon-13, a carbon atom with 7 neutrons, is stable. Carbon-14 is a carbon atom of mass 14, 6 protons and 8 neutrons, and nitrogen-14, which is-not a carbon atom, is a nitrogen atom of mass 14, 7 protons and 7 neutrons: in the upper atmosphere a neutron reaches a nitrogen-14 nucleus, a proton goes out and it is carbon-14, and carbon-14 goes on to nitrogen-14 as one of its neutrons becomes a proton, its mean life about 8,270 years, one mass of 14 in carbon and in nitrogen, going each way between them. Carbon-21, 6 protons with 15 neutrons, is unbound: its nucleus does not go on together, and no carbon-21 atom is. Carbon-22, a carbon atom with one neutron more, is bound, by less than 70 keV in a three-body model's estimate from a search for carbon-21 (Mosby and others, 2013), a two-neutron halo and a Borromean nucleus: carbon-20, a carbon atom with 14 neutrons, and two neutrons go on together, and neither carbon-21 nor two neutrons alone does, 21 the one gap at the far end of carbon's chain of isotopes, just before its last bound form, at which only three together go on. And 7 and 14 sum to 21. *(possible exploring)*
+
 ## PART TWO · INVERSIONING
 
 ### 2.1 Three reaction pairings, one-way-at-a-time coupling and no six that closes
