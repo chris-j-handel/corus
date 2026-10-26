@@ -21,6 +21,7 @@ Gathering-Value · Natural Medicine
 - **Possible exploring** · Children on traditional farms have about four times less asthma and six times less allergic sensitization than genetically similar children on industrialized farms, with house-dust endotoxin about seven times higher and innate immune cells differing, and farm-house dust extracts given into mice's noses suppress allergic airway disease through innate immune pathways; and hay fever is less common in children with more older siblings. — at "early-life exposure tracking later allergic and metabolic disease"
 - **Possible exploring** · Introducing peanut early in infancy to infants with eczema or egg allergy lowered peanut allergy at five years from about a seventh to a fiftieth among those with a negative skin test at entry; and infant gut bacteria differ between populations, early dominance by Bacteroides going with more autoimmunity and allergy and one bacterium's lipopolysaccharide bringing less innate immune activation. — at "early-life exposure tracking later allergic and metabolic disease"
 - One theory, discontinuity theory, reads immunity this way: an immune response comes with the speed of change in the molecular motifs a tissue shows to immune receptors, not with a thing's origin; a persistent or slowly appearing motif meets tolerance in its reading, microbes that arrive early and persist among them, and a sudden change, even in a body's own fast-growing tumour, meets a response in its reading. *(possible exploring)*
+- **A reading** · A reading has the farm children's observing reaching past a comparison of children, farm-house dust given to mice protecting the mice.
 
 ### 1.3 Restoration paths at a substrate — observing-with
 
@@ -59,6 +60,7 @@ Gathering-Value · Natural Medicine
 
 - **Possible exploring** · The study is three groups of different men, and it reports no equal rate each way. — at "A randomized crossover measured a shift each way."
 - **Possible exploring** · One study finds the clearance less in sleep, against another finding of more, so which way the clearance goes during sleep stands still-possibling. — at "a glymphatic system clears metabolic waste including lipid peroxidation products from a brain's extracellular space during sleep"
+- **Possible exploring** · One measuring observes a brain's interstitial space opening in sleep, and another measuring contests it. — at "*Fields' own:* a sleep-wake period holds three configurations, waking and REM and deep sleep, each with its own mitochondrial beating; cardiolipin remodels and reactive-oxygen-damaged phospholipids clear during a deepest; a glymphatic system clears metabolic waste including lipid peroxidation products from a brain's extracellular space during sleep; and total sleep deprivation carves death among rats within weeks."
 
 ### 3.5 A tunnel observed at its collars
 

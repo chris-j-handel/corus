@@ -49,6 +49,7 @@ Gathering-Value · Me
 ### 3.4 A me inward, a society of selves
 
 - **Possible exploring** · For a me under general anaesthesia and disconnected, its bi-coupling across scales with its inward mes is separating on the me's side, the larger scale's, and its inward mes float among themselves, each its own, connected and aware patients outside this line; frontal-to-parietal feedback is preferentially inhibited and bottom-up sensory responses relatively spared. — at "A me is a same-existing-society inward."
+- **A reading** · A reading has sneezing, orgasm, tingling, fluttering vision and dreaming as inward releasings, one changing and then rest, a mutual relaxing of the living societies within a self.
 
 ## FOUR · ME, NEXT-EXISTING
 
@@ -70,6 +71,7 @@ Gathering-Value · Me
 ### 5.2 A healthy me, inward do-no-harming and improving
 
 - **Possible exploring** · Autoimmune harm and cancer are a self within a me parting from its others. — at "A me is-or-is-not healthy: each self within it, at each scale inward, do-no-harming and improving."
+- **A reading** · A reading has a healthy curious me as natural intelligence as a me.
 
 ### 5.3 A society's me, a natural intelligence network
 

@@ -448,6 +448,8 @@ Gathering-Value · Resolving the Hard Problem Registry
 
 ### 9.22 The hygiene hypothesis · 120
 
+- **A reading** · A reading by orthogonality has many early orthogonal couplings into a me's priors making later mis-resolving couplings fewer, and allergy's way as fewer and narrower orthogonal couplings early. This reading reaches farm living, a peanut's way in and house dust, and early infections sometimes raising allergy part from a reading by fewer infections.
+
 ### 9.23 The dodo bird verdict · 122
 
 ### 9.24 Principal and agent · 141
@@ -487,6 +489,8 @@ Gathering-Value · Resolving the Hard Problem Registry
 ### 9.41 The causal production of political polarization · 235
 
 ### 9.42 Sex bias in autoimmune disease · 237
+
+- **A reading** · A reading has two X chromosomes, one mostly silenced in a patchwork with some defending genes escaping, as a bothboth, and offers a candidate still-possibling: women's mes have more orthogonal directions, and more chances to mis-resolve one.
 
 ### 9.43 The causes of rising obesity · 256
 

@@ -55,6 +55,7 @@ Gathering-Value · Natural Mathematics
 ### 3.4 Bi-inversioning-co-recursioning, two consecutive inversions on different axes
 
 - **Possible exploring** · A tendril held at both ends coils with both hands, the two joined at a switch point. With each beat the heart twists, its base one way and its tip the other, and untwists as it fills, a wringing of a towel by heart doctors' word. — at "**The rotation 3, 6, 5, 4 is a gentle twisting of a towel one way and then the other, inward to corus and outward from it**, a large outer opening wrapping to a small corus and back, and its edges are bi-foldings, across with bi-morality and along with co-competency: two consecutive inversions on different axes with each step, its opening a step between."
+- **Possible exploring** · A heart's muscle winds right-handed at its wall's inner side and left-handed at its outer side. — at "**The rotation 3, 6, 5, 4 is a gentle twisting of a towel one way and then the other, inward to corus and outward from it**, a large outer opening wrapping to a small corus and back, and its edges are bi-foldings, across with bi-morality and along with co-competency: two consecutive inversions on different axes with each step, its opening a step between."
 
 ### 3.5 Bi-tri-involutioning, the emanating at the opposite form
 
