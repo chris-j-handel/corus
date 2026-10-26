@@ -544,3 +544,9 @@ Three prefixes, three senses, and none repeated. This meets the concern *tri- an
 [Whole gathering](../incoming/atom-carbon-prime-correspondence/Natural_Numbers_Atom_Carbon_Exploring_Report.md).
 
 - **Natural Naming, stable-forming · Each four with its subject:** rotation 3–6–5–4 takes its names from two bi-foldings, and the four bi-folding cycles, four joint parity forms, four exchanging momentaries and four pairs at a nine-ring centre retain their own subjects while a relation between them is carried. — atom-carbon-prime-correspondence
+
+- **Natural Naming, each count with its subject · Three and three:** three sharing and three observing roles, three conical projections and receiving recesses, two spatial triples, three connector orientations and three maturation stages name different subjects whose proposed joins need their own relations. — atom-carbon-prime-correspondence
+
+- **Natural Naming, co-linearizing and fiber · Along with across:** fiber can name continuing along through coupling across, while identifying the individual atom as a fiber and identifying natural co-linearizing with Euclidean straightness are further relations not supplied by the shared naming. — atom-carbon-prime-correspondence
+
+- **Natural Naming, hole and co-competencing · The actual between:** a hollow channel names a geometric region while competency belongs to the participating couplings, leaving their actual sharing and receiving to be carried before the void is named the inception of social moral competency. — atom-carbon-prime-correspondence

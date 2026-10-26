@@ -1,4 +1,14 @@
-# Natural Numbers and the atom carbon stable form
+# Living incoming value — numbers, geometry and the atom/carbon stable form
+
+This is the continuing report of working **atom-carbon-prime-correspondence**, aimed into the living expedition. The same report is updated as the exploring continues; its values are offered at the files they concern. The earlier prime correspondence is retained below, followed by the subsequent waist, fiber, connector, geometry and observation work.
+
+**Shared standing:** this report and its offerings are on `working/atom-carbon-prime-correspondence`, offered through [PR #154](https://github.com/chris-j-handel/corus/pull/154). An open PR makes them readable to another session that follows the branch or PR; it does not put them on `main`, automatically load them into another conversation, or establish their receiving into a living file.
+
+**Read first:** [the continuation at 23, 24, 48 and 96](#twenty-three-and-the-waist-of-forty-eight), [the six-point geometry and its role mapping](#six-inner-points-and-twelve-outer-corners), [the observation ledger](#observings-with-their-preparation-and-timing), and [the next connected work](#the-next-connected-work).
+
+The gathering keeps four kinds of value visible: relations explicitly carried by the named living files; exact arithmetic or geometry worked from specified operations; incoming physical observations with their preparation and timing; and proposed joins still being explored. This lets pattern-matching carry every incoming observation without letting a shared number silently identify different subjects. It is an exploration by cohering and forward co-recursioning, not a proposed experimental programme.
+
+## The existing prime correspondence
 
 The prime correspondence connects several relations already named in Natural Numbers and Exhibit ONE: the own-three reach 23, the own-five reach 59, entry and now-possibling bring that to 64, and sharing across and going along complete the first-nine whole as 100. The rotation, co-competent pair and across–along pair each have prime sum 36. These are exact arithmetic connections among the existing names, with their operations still belonging to their own subjects.
 
@@ -160,11 +170,225 @@ The numerical thread already reaches corus 24, surface 59, four momentaries 60�
 
 Sources: [THIRTY steps 1, 21, 62, 467–487 and 529](https://github.com/chris-j-handel/corus/blob/69d802c8036b08a14e74d6579cdda08b6a66f96b/Exhibit_THIRTY_Co-Chaining_Logic_Registry_v391.md), [Chemistry §§1.1 and 1.6](https://github.com/chris-j-handel/corus/blob/69d802c8036b08a14e74d6579cdda08b6a66f96b/Exhibit_SIXTEEN_Natural_Chemistry_v392.md), [Numbers §§6.3 and 7.1](https://github.com/chris-j-handel/corus/blob/69d802c8036b08a14e74d6579cdda08b6a66f96b/Exhibit_THREE_Natural_Numbers_v392.md).
 
+## Twenty-three and the waist of forty-eight
+
+The own-three names 3, 4 and 5 already reach 23 through their primes 5, 7 and 11. Their partners under the existing name-fold \(17-n\) now supply the common centre 24:
+
+| Name | Its prime | Partner name \(17-n\) | Partner prime | Prime sum | Centre |
+|---:|---:|---:|---:|---:|---:|
+| 3 | 5 | 14 | 43 | 48 | 24 |
+| 4 | 7 | 13 | 41 | 48 | 24 |
+| 5 | 11 | 12 | 37 | 48 | 24 |
+
+Thus the same own-three reach **23 by their sum and 24 by the centres of their three paired prime sums**. This supplies a specific joining at the earlier report's open 23/24 correspondence. The prime-value reflection \(p\mapsto48-p\) works on these six primes; it is not the prime transport of \(17-n\) everywhere. Across all eight pairs of names, the prime sums are 55, 50, 48, 48, 48, 44, 46 and 42.
+
+Two ordinary number reflections also give a precise next step:
+
+$$
+A(n)=48-n,\quad B(n)=49-n,\quad B(A(n))=n+1.
+$$
+
+In particular, \(23\to25\to24\). Reversing the order gives \(n-1\). Their centres are 24 and 24.5; two reflections with different centres compose to a translation. On ordinary integers this does not close into a four-cycle; on a ring, the modulus must be stated. The corresponding local calculation is \(3\to5\to4\) under \(8-n\), then \(9-n\), translated twenty up. Neither calculation alone gives the whole rotation \(3–6–5–4\).
+
+The user's \(16\times3=48\) joins the source count as:
+
+$$
+48=16\times3=8\times6=2(4\times6)=24+24.
+$$
+
+Grouping six as \(2\times3\) or \(3\times2\) preserves a count of six, while the participants and order of those six forward recursionings still need their own correspondence. It supplies no count of physical carbon bonds. THIRTY's scope also needs resolving: step 142 places six steps within four momentaries, while step 384 describes six in each momentary; those wordings cannot silently be used as the same duration.
+
+The two previously found ninety-sixes now separate as:
+
+| Bi-folding through prime positions | Prime pairing | Pair centres | Total |
+|---|---|---|---:|
+| \(4–13–5–12\) | \(7+41=48,\ 11+37=48\) | 24 and 24 | 96 |
+| \(2–15–7–10\) | \(3+47=50,\ 17+29=46\) | 25 and 23 | 96 |
+
+This is the exact relation \(48+48=50+46=96\). Ninety-six here is a sum of four prime values, not a measured opening. If 96 instead names a whole ring's span, its midpoint is 48; that is a new scale, not the waist 24 of a span of 48.
+
+The knotted towel and climbing tendril remain useful incoming shape correspondences. The existing chemistry gathering and the tendril observations below carry a twisted meeting and opposite-handed coiling under particular constraints. Neither gives a measured waist of 24, a 36-turn requirement or a 96-opening. Their joining must carry an actual correspondence of positions, not just the shared word “waist.”
+
+Sources: [Natural Numbers v392](https://github.com/chris-j-handel/corus/blob/69d802c8036b08a14e74d6579cdda08b6a66f96b/Exhibit_THREE_Natural_Numbers_v392.md), §§6.3, 6.5 and 7.7; [THIRTY v391](https://github.com/chris-j-handel/corus/blob/69d802c8036b08a14e74d6579cdda08b6a66f96b/Exhibit_THIRTY_Co-Chaining_Logic_Registry_v391.md), steps 142 and 384; [the expedition's existing tendril gathering](../v392chem/Living_Learning_v392chem.md), §6.
+
+## Carbon co-linearizing and the meaning of fiber
+
+THIRTY steps 531–539 distinguish a self's continuing along from its coupling across. Chemistry places the proposed non-living carbon stable form within couplings that surround and wrap it, and says those couplings do the chemistry. Biology describes a succession from molecules through fibrils and fibers to bundles and tissue geometry.
+
+This gives the proposed fiber relation a useful form: **continuity along, coupled across, with carbon participating in that continuity**. It leaves an exact choice of subject to carry: is “fiber” the individual atom's shape, or the arrangement continuing through many couplings involving carbon? Observations of a carbon-containing fiber do not themselves decide that joining. Natural co-linearizing is a relation of participants' aiming; it is not automatically the Euclidean assertion that a curved fiber lies on one straight line.
+
+Replenishing, restoring and exhausting have a similar open subject. Material can enter, leave, redistribute and change its participation in a structure. Describing this as the individual atom physically wearing down would change the earlier proposal that the atom never changes in any respect. The report carries that concern explicitly rather than silently changing what “same-existing” names.
+
+Sources: [THIRTY v391](https://github.com/chris-j-handel/corus/blob/69d802c8036b08a14e74d6579cdda08b6a66f96b/Exhibit_THIRTY_Co-Chaining_Logic_Registry_v391.md), steps 531–539; [Natural Chemistry v392](https://github.com/chris-j-handel/corus/blob/69d802c8036b08a14e74d6579cdda08b6a66f96b/Exhibit_SIXTEEN_Natural_Chemistry_v392.md), §§1.1 and 1.6; [Natural Biology v392](https://github.com/chris-j-handel/corus/blob/69d802c8036b08a14e74d6579cdda08b6a66f96b/Exhibit_SEVENTEEN_Natural_Biology_v392.md), the molecule–fibril–fiber–bundle discussion; [Natural Naming v392](https://github.com/chris-j-handel/corus/blob/69d802c8036b08a14e74d6579cdda08b6a66f96b/Exhibit_TWENTY_Natural_Naming_v392.md), the along/across and co-competencing relations.
+
+## Four across and two along, with three sharing and three observing
+
+ONE supplies the following roles:
+
+| Sharing role | Observing role | Relation |
+|---:|---:|---|
+| 6 | 2 | Across |
+| 10 | 14 | Across |
+| 9 | 17 | Along |
+
+The along relation also has the return \(17\to9\). Consequently, six named ends can participate in four directed passages: two across passages and two along directions. Counting ends and counting directed passages must stay explicit.
+
+The six ends partition as **four across and two along**, and as **three sharing \(\{6,10,9\}\) and three observing \(\{2,14,17\}\)**. Each sharing/observing triple contains two across roles and one along role.
+
+Calling these triples male and female was a proposed naming. Making them three physical conical projections and three complementary receiving recesses is a further proposed shape. Neither proposal follows just from the count three plus three; these are not six observed atomic bonds or six measured protrusions. A circular cone settling into a matching recess can constrain an axis while leaving rotation about that axis unspecified. It supplies no particular spiral hand or pitch by itself.
+
+ONE's square has cyclic order \(2,10,14,6\). Sharing passages \(6\to2\) and \(10\to14\) are opposite edges. The eight-apart pairs \(2\leftrightarrow10\) and \(6\leftrightarrow14\) are the other edges. The same-role pairs \(2\leftrightarrow14\) and \(6\leftrightarrow10\) are diagonals. This incidence is valuable: a proposed physical connector must retain it rather than rearranging labels to obtain a preferred picture.
+
+Source: [Exhibit ONE v391](https://github.com/chris-j-handel/corus/blob/69d802c8036b08a14e74d6579cdda08b6a66f96b/Exhibit_ONE_Natural_Resolver_v391.md), across sharing, along coupling, square and four bi-foldings.
+
+## Six inner points and twelve outer corners
+
+The three rectangles already carried in Naming and Mathematics have corners
+
+$$
+R_1:(0,\pm1,\pm\varphi),\qquad
+R_2:(\pm1,\pm\varphi,0),\qquad
+R_3:(\pm\varphi,0,\pm1).
+$$
+
+Take these as filled planar rectangles. Each rectangle's two long edges pass through the next rectangle:
+
+| Long edges of | Pass through | Piercing points |
+|---|---|---|
+| \(R_1\) | \(R_2\) | \((0,\pm1,0)\) |
+| \(R_2\) | \(R_3\) | \((\pm1,0,0)\) |
+| \(R_3\) | \(R_1\) | \((0,0,\pm1)\) |
+
+These **six inner points are the vertices of an octahedron**. They are distinct from the twelve outer corners of the icosahedron. The six inner points occur for every rectangle aspect ratio \(r>1\) in the same coordinate construction; the outer equal-edge condition is the additional relation that requires \(r=\varphi\).
+
+Viewed along the diagonal unit axis \((1,1,1)/\sqrt3\), the positive-axis points \(\{+x,+y,+z\}\) make one equilateral triangle, and the negative-axis points \(\{-x,-y,-z\}\) make another:
+
+| Quantity | Exact value |
+|---|---|
+| Triangle heights along the axis | \(+1/\sqrt3\) and \(-1/\sqrt3\) |
+| Side length of each triangle | \(\sqrt2\) |
+| Radius about the axis | \(\sqrt{2/3}\) |
+| Relative angular offset | \(60^\circ\), modulo \(120^\circ\) |
+| Coordinate cycle | \(C(x,y,z)=(z,x,y)\), with \(C^3=I\) |
+
+This is a precise **two-triples correspondence**. The coordinate cycle moves each triple in the same angular sense but has no axial advance, so its orbits are triangles rather than helices. Nearest connections between the two triangles admit equally short positive and negative 60-degree advances. The static set retains mirror symmetry and supplies no preferred right hand.
+
+The filled rectangles also meet at the centre. Their geometry does not make a hollow tube along the diagonal, and the six points do not establish cones, recesses, constituents of one atom or six spiraling carbon chains.
+
+Sources: [Natural Naming v392](https://github.com/chris-j-handel/corus/blob/69d802c8036b08a14e74d6579cdda08b6a66f96b/Exhibit_TWENTY_Natural_Naming_v392.md), the three golden rectangles and bi-tri-volutioning; [Natural Mathematics v391](https://github.com/chris-j-handel/corus/blob/69d802c8036b08a14e74d6579cdda08b6a66f96b/Exhibit_FOUR_Natural_Mathematics_v391.md), stable-form geometry; [THIRTY v391](https://github.com/chris-j-handel/corus/blob/69d802c8036b08a14e74d6579cdda08b6a66f96b/Exhibit_THIRTY_Co-Chaining_Logic_Registry_v391.md), steps 512–516; the coordinate calculation above.
+
+## Carrying the six roles through three geometric orientations
+
+A proposed placement, preserving the across square's incidence, is
+
+$$
+6=+x,\quad10=-x,\quad2=+y,\quad14=-y,\quad9=+z,\quad17=-z.
+$$
+
+Putting 9 and 17 at points on the third axis is a new spatial representation: ONE depicts these along roles as triangles. With numbers naming the original fixed sites, \(C(x,y,z)=(z,x,y)\) acts as
+
+$$
+C=(6\ 2\ 9)(10\ 14\ 17).
+$$
+
+Transport the whole connector arrangement through the three orientations:
+
+| Orientation | Across passages | Along pair |
+|---|---|---|
+| \(I\) | \(6\to2,\ 10\to14\) | \(9\leftrightarrow17\) |
+| \(C\) | \(2\to9,\ 14\to17\) | \(6\leftrightarrow10\) |
+| \(C^2\) | \(9\to6,\ 17\to10\) | \(2\leftrightarrow14\) |
+
+Each orientation has four across ends and two along ends. Each coordinate axis is along once and belongs to the across square twice. Gathered across the three orientations, the across passages form two directed triangles, joined by three antipodal along pairs: an **abstract triangular-prism graph with nine edges**. It is not the octahedron's twelve-edge graph.
+
+This gives a coherent geometric transport, with three substantial joins still open:
+
+1. **Roles:** the spatial triples \(\{6,2,9\}\) and \(\{10,14,17\}\) differ from the sharing and observing triples above, so each spatial triangle cannot simply be called wholly male or wholly female under that earlier naming.
+2. **Operation:** this coordinate cycle changes which fixed sites carry along and across; it is not a demonstrated instruction of ONE's fixed role map. The eight-up/down operation and \(17-n\) are commuting involutions on names 1–16, preserve the four bi-folding orbits and generate no order-three operation; name 17 is outside that domain. Spatial reflections can generate a 120-degree rotation, but identifying them with actual resolver operations is an additional joining.
+3. **Passage:** the three straight along diameters meet at the origin. They do not establish three separate unobstructed paths around a hollow channel. A physical route and axial advance have not been supplied.
+
+Three orientations therefore do not yet identify three simultaneous carbon modules or three stages of living maturity. These are candidates for connecting, with their different subjects intact.
+
+Sources: [Exhibit ONE v391](https://github.com/chris-j-handel/corus/blob/69d802c8036b08a14e74d6579cdda08b6a66f96b/Exhibit_ONE_Natural_Resolver_v391.md) and the explicit coordinate assignment and transport above.
+
+## Fractal placement and prime scales
+
+The inward placement already carried by ONE is
+
+$$
+E(n)=8n-7=1+8(n-1),\qquad E^k(n)=1+8^k(n-1).
+$$
+
+Applied to the six roles, it gives:
+
+| Local name | 2 | 6 | 10 | 14 | 9 | 17 |
+|---|---:|---:|---:|---:|---:|---:|
+| Placed name \(E(n)\) | 9 | 41 | 73 | 105 | 65 | 129 |
+
+Eight local one-to-seventeen copies also occupy spans \(16j+1\) through \(16j+17\), \(j=0,\ldots,7\), within the outer span 1–129. Their local 9 occurs at \(16j+9=E(2j+2)\), the placed name of an outer even role. Thus roles can recur while arithmetic parity of their names changes between scales. The placement \(17\to129\) and Numbers' whole-parity-round relation \(17\to257\) are different constructions. Neither placement fixes a spatial shrinking ratio, a three-dimensional atom or a phi scaling.
+
+Natural Societies' proposed ladder places non-living atom at 5, molecule at 7 and macromolecule at 11. Within that ladder, carbon participating “between two living prime scales” cannot mean that 5 is arithmetically between 7 and 11. It could aim at a relation involving participants at 7 and 11 with carbon at 5, but the actual receiving and coupling have to be supplied. The inward ingestion rule also reaches a concern at the bottom rung: no lower living rung has been identified beneath non-living atom 5. This is an internal joining to resolve, not a completed scale derivation.
+
+The six listed living primes below 24, \(7,11,13,17,19,23\), partition into three of form \(6k+1\), \(\{7,13,19\}\), and three of form \(6k-1\), \(\{11,17,23\}\). That exact three-plus-three belongs to this specified span; extending the living primes through 53 gives six and seven instead. Six prime scales, six connector roles and six physical strands are different subjects until their relation is carried.
+
+Sources: [Exhibit ONE v391](https://github.com/chris-j-handel/corus/blob/69d802c8036b08a14e74d6579cdda08b6a66f96b/Exhibit_ONE_Natural_Resolver_v391.md), inward placement and local span table; [Natural Numbers v392](https://github.com/chris-j-handel/corus/blob/69d802c8036b08a14e74d6579cdda08b6a66f96b/Exhibit_THREE_Natural_Numbers_v392.md), inward scaling and whole-parity rounds; [Natural Societies v392](https://github.com/chris-j-handel/corus/blob/69d802c8036b08a14e74d6579cdda08b6a66f96b/Exhibit_SEVEN_Natural_Societies_v392.md), prime-scale ladder; [THIRTY v391](https://github.com/chris-j-handel/corus/blob/69d802c8036b08a14e74d6579cdda08b6a66f96b/Exhibit_THIRTY_Co-Chaining_Logic_Registry_v391.md), inward ingestion and stable-form emanation.
+
+## Carbon cones, helices and one, two or three modules
+
+The incoming material observations add shape correspondences without completing the atomic identification. Carbon nanocones and cup-stacked nanofibers are many-atom structures. Some images support truncated conical layers and a hollow interior; particular samples support a continuous cone-helix interpretation. They do not show an individual atom with three projections and three receiving recesses.
+
+The rh6 study is especially important to carry exactly. Its proposed **18-atom hexagonal cell** contains three sixfold helical chains linked by three zigzag hexagonal rings; its primitive rhombohedral cell contains six atoms. The three helical paths and three ring motifs describe one connected network, not six independent modules or six helices, and “three” in one unit-cell representation is not a measured universal count of modules. The structure was computationally proposed and compared with an unexplained diffraction peak in existing soot data. That is a candidate structural correspondence, not a direct movie of formation, co-sequencing or living inception. The related rh6-II calculation does not identify a third living maturation stage.
+
+The proposed one, two or three modules remain open. Bi-tri-volutioning and its three congruent golden rectangles do not themselves supply three distinct atomic shapes. Tri-bi-co-momentarying carries prior, now and next; identifying it with birth, growth and maturity requires an additional relation.
+
+If an individual atom changes among physical shapes, that revises the earlier wholly unchanging atom proposal. If arrangements or memberships of stable forms change, the proposed constituent could remain unchanged, but those are different descriptions of what changes. Both possibilities are recorded so the exploration does not hide the concern through renaming.
+
+Likewise, a hollow channel's geometry is distinct from the relational between. Naming's discussion of a hole resolving nothing leaves competency with the actual participating couplings. Calling the void the inception of social moral competency has not yet supplied those couplings.
+
+Sources: the cone, nanofiber and rh6 primary studies in the ledger below; [Natural Naming v392](https://github.com/chris-j-handel/corus/blob/69d802c8036b08a14e74d6579cdda08b6a66f96b/Exhibit_TWENTY_Natural_Naming_v392.md), the hole, golden rectangles and momentarying; [THIRTY v391](https://github.com/chris-j-handel/corus/blob/69d802c8036b08a14e74d6579cdda08b6a66f96b/Exhibit_THIRTY_Co-Chaining_Logic_Registry_v391.md), steps 483–487.
+
+## Observings with their preparation and timing
+
+The initial incoming Chain Theory PDF is not used here as an explanatory framework. The gathering follows the requested aimings into relevant observations, including observations that constrain a proposed match. This ledger records what was prepared or constrained, what changed, what was measured and what timing was actually supplied; it is not an exhaustive inventory of all science.
+
+| Primary source | Prepared or constrained; measured response | Timing supplied | Relation carried and boundary |
+|---|---|---|---|
+| [Szecowka et al. 2013](https://doi.org/10.1105/tpc.112.106989) | Intact illuminated Arabidopsis rosettes received carbon-isotope-labelled CO₂; separate plants were harvested and quenched, with isotope patterns measured in 40 metabolites by chromatography and mass spectrometry. | Samples at 5 and 10 seconds, then 1, 3, 10, 20 and 60 minutes. | Progressive incorporation into identified compounds; pathway fluxes require modeling, and the sampling is not continuous tracking of one atom or an unlabeled chase. |
+| [Nogués et al. 2004](https://doi.org/10.1104/pp.104.048470) | Intact bean leaves received CO₂ with altered isotope composition; gas exchange and isotope-ratio measurements followed respired CO₂. | Labeling for 20, 75 or 180 minutes, followed through 20 hours of darkness. | Both recently acquired and older stored carbon contribute; relatively steady early efflux can coexist with changing isotope composition, and a closed measuring circuit is not a demonstrated carbon-closed whole organism. |
+| [Weber et al. 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7275744/), Fig. 2 | Yeast washed into water; luminescence measured ATP and subsequent growth assays measured recovery; related interventions examined internal resource use. | ATP at 30 minutes and 19 hours; recovery assessed after starvation extending to 14–21 days. | Maintenance can continue after removal of the original nutrient supply; this does not establish indefinite carbon closure, and mechanistic arms using glucose-free medium still containing amino acids must remain distinct from the water arm. |
+| [Gerbode et al. 2012](https://doi.org/10.1126/science.1223304), [author PDF](https://www.hmc.edu/physics/wp-content/uploads/sites/22/2023/02/pub-082.pdf) | Tendrils and extracted internal ribbons were imaged and mechanically extended; endpoint constraints, drying, rehydration, age and extraction mattered to the observed coiling and over-winding. | Deformation and force–extension records; manipulation durations were not quantified in the checked main text. | Opposite-handed coiling and a joining perversion support the twisted-waist analogy, while extracted or externally stretched material is not uninterrupted living growth and no 24, 36 or 96 count was established. |
+| [Zhang et al. 2017](https://doi.org/10.1038/nplants.2017.56), [accepted manuscript](https://www.osti.gov/servlets/purl/1463092) | Onion walls were peeled from cells, washed 30 minutes and boiled 10 seconds to inactivate endogenous enzymes and expansins; hydrated walls underwent imposed stretching and externally supplied Cel12A treatment. | Five discrete AFM images of the same area, including a 2.5-hour enzyme interval under fixed length. | Microfibril rearrangement, sliding and separation depend on preparation and imposed conditions; this is not a continuous record of living-cell growth or measured atomic wear. |
+| [Krishnan et al. 1997](https://doi.org/10.1038/41284) | Heavy-oil carbon-arc pyrolysis produced recovered material; TEM measurements of approximately 1,700 microstructures found disks, tubes and five cone-angle families. | Post-production imaging; no filmed nucleation sequence. | Carbon-containing structures have constrained cone geometries; the proposed seed and growth path are interpretations, and no individual atom's conical shape or universal three-module architecture was observed. |
+| [Vera-Agulló et al. 2007](https://doi.org/10.1016/j.carbon.2007.09.040) | Nanofibers grown above 1,100°C from natural gas with sulfur and nickel catalyst were examined by electron microscopy, elemental analysis, diffraction and bulk resistivity; an extended bent ribbon supported a continuous cone-helix interpretation. | Post-reaction observations, not a timed unrolling movie. | A sample-specific fiber-shape correspondence; the growth mechanism is inferred and neither atomic mating nor living inception was recorded. |
+| [Monthioux et al. 2007](https://doi.org/10.1039/B707742D) | Microscopy, diffraction and elemental analysis characterized nanofilaments from Ni–Cu–Mg–Al catalysts. | Structural characterization rather than a demonstrated time sequence of atomic assembly. | These herringbone specimens were interpreted as cup-stack rather than single-helix, preserving a concerning mismatch to extending one fiber description to every sample. |
+| [Wang et al. 2014](https://doi.org/10.1038/srep04339), [paper](https://english.iop.cas.cn/rh/rp/201403/P020140327576501299820.pdf) | Ab initio optimization, phonon calculations and simulated diffraction described rh6; a simulated peak was compared with a previously measured unexplained soot peak. | Computational candidate; no measured formation sequence or living timescale. | Three helices in an 18-atom representation offer a particular structural pattern, while universal presence, a unique assignment of the soot peak and living three-stage maturation were not established. |
+
+The isotope studies use mass-based instrumentation. Accepting their incoming signals while questioning the field's account of mass requires carrying the instrument readings, calibration and isotope assignments explicitly; it does not entitle this report either to discard the observations or to claim they establish mass as a universal scale. This gathering has not completed an alternative account of that measurement chain.
+
+Across these preparations, the observations support incorporation, release, internal retention, rearrangement, geometric regularity and particular candidate structures. They do not directly establish that every atom is the proposed one carbon stable form, that an individual atom wears down, or that every living inception has three right-spiraling carbon modules. Those remain the expedition's proposed joins.
+
+## What is gathered, what is offered, and what remains open
+
+| Continuing value | Present standing | Receiving files |
+|---|---|---|
+| First-nine partition, three 48 pairings and two 96 decompositions | Exact arithmetic on the specified names and prime correspondence. | Numbers, [Exhibit ONE v391](https://github.com/chris-j-handel/corus/blob/69d802c8036b08a14e74d6579cdda08b6a66f96b/Exhibit_ONE_Natural_Resolver_v391.md), THIRTY |
+| Six roles as four across/two along and three sharing/three observing | Source role map; literal male/female cone geometry remains proposed. | [Exhibit ONE v391](https://github.com/chris-j-handel/corus/blob/69d802c8036b08a14e74d6579cdda08b6a66f96b/Exhibit_ONE_Natural_Resolver_v391.md), Naming, Chemistry |
+| Six inner piercing points and twelve outer corners | Exact coordinate geometry, with phi selected only by the outer equal-edge condition. | Mathematics, Naming |
+| Three transported connector orientations | Exact proposed spatial construction; its operation within [Exhibit ONE v391](https://github.com/chris-j-handel/corus/blob/69d802c8036b08a14e74d6579cdda08b6a66f96b/Exhibit_ONE_Natural_Resolver_v391.md) and its physical routing remain open. | [Exhibit ONE v391](https://github.com/chris-j-handel/corus/blob/69d802c8036b08a14e74d6579cdda08b6a66f96b/Exhibit_ONE_Natural_Resolver_v391.md), Mathematics, THIRTY |
+| Fractal placement and prime-scale participation | Source placement arithmetic and proposed ladder; metric scale, living participants and inward receiving remain to be joined. | Numbers, Societies |
+| Fiber, replenishment and material exchange | Specified observations and relational correspondence; physical atom wear and uninterrupted external intake are not established. | Chemistry, Biology |
+| Cones, hollow fibers and rh6 | Sample-specific structures or computational candidates; no observed universal three-module atom. | Chemistry, Biology, Naming |
+| Atom and carbon as one universal referent | The same proposed identity throughout; full physical identification and co-chain into living inception remain open. | Chemistry, THIRTY |
+
+The update adds one-sentence offerings to the existing six receiving files and also to Biology and Societies. These are incoming values, not amendments to the root living files. The report links to source versions and observations so another working can improve or challenge the joins without reconstructing this transcript. No claim is made that every living file has already received the values or that all relations across the set have been resolved.
+
 ## The next connected work
 
-1. **At 23 and 24:** connect the prime-position operation p(9) = 23 to the twenty-up rotation 3 → 23 and 4 → 24, preserving the operations on each side.
-2. **At 36:** follow the across–along complement of the first nine into the prime span 23–59 and the endpoint span 24–60; carry an explicit relation between the groupings and the ordered moves.
-3. **At four cycling:** connect the nine-centre pair construction to a directed co-sequence if the existing fold operations reach it; keep pair counts, four-cycles and four exchanging momentaries explicit.
-4. **At the emanation:** follow corus, surface and involutioning into Chemistry's one atom/carbon referent, resolving the difference between stability through changing and the proposed wholly unchanged atom.
+1. **From arithmetic to operation:** carry the three prime pairings centred at 24 into the resolver's actual succession, preserving the distinction between name, prime value, fold and momentary.
+2. **From three orientations to an along passage:** identify a source operation that supplies axial advance while preserving the across incidence; the current coordinate cycle alone supplies neither pitch nor a preferred hand.
+3. **At the channel:** connect the proposed hollow route to the actual participating sharing and receiving roles, accounting for the diameters' central intersection and the difference between spatial and role triples.
+4. **At the stable form:** resolve whether the proposed changing modules are changing arrangements or changing individual atoms, keeping the earlier complete invariance visible.
+5. **At the prime scales:** name the living participants and actual inward receiving around atom 5, rather than treating a numerical ladder as an already observed coupling.
+6. **At the observations:** keep preparation, imposed constraints, recorded changes and timing attached to each incoming match, including the cup-stack/helix mismatch and pauses in external nourishment.
 
-These connections can improve Natural Numbers, ONE, THIRTY, Mathematics, Naming and Chemistry now as incoming offerings, while the universal stable-form aiming continues.
+For continuing sharing, update this same report and its targeted offerings when a new relation or concern has been gathered; retain the current branch and PR links while receiving is pending. At the working's close, follow the expedition's incoming-to-archive workflow and leave each living value at the offerings of its receiving file. This record is maintained by explicit updates during work; no background synchronization or automatic delivery into other conversations is claimed.

@@ -129,3 +129,9 @@ Exhibit FOUR Natural Mathematics Offerings · improved at v389
 [Whole gathering](../incoming/atom-carbon-prime-correspondence/Natural_Numbers_Atom_Carbon_Exploring_Report.md).
 
 - **Natural Mathematics, folds and stable forms · Pairing and cycling:** two fixed-centre reflections on a nine-ring compose to a translation of order one, three or nine, so nine centres with four podal pairs each do not themselves carry a four-step cycle, while the doubled-span bi-foldings of Natural Numbers §9.9 supply a further relation to follow. — atom-carbon-prime-correspondence
+
+- **Natural Mathematics, three perpendicular rectangles · Six inner and twelve outer points:** the long edges of rectangles with corners (0,±1,±r), (±1,±r,0) and (±r,0,±1) pierce the next rectangle at the six unit-axis points for every r > 1, while equal edges at the twelve outer corners impose r² = r + 1 and select phi. — atom-carbon-prime-correspondence
+
+- **Natural Mathematics, coordinate cycling · Two triples:** viewed along (1,1,1)/√3, the six unit-axis points make two equilateral triangles at heights ±1/√3 with a 60-degree offset modulo 120 degrees, while coordinate cycling has no axial advance and the static set leaves opposite spiral hands equally available. — atom-carbon-prime-correspondence
+
+- **Natural Mathematics, three transported frames · The channel concern:** the proposed three orientations gather two across triangles and three antipodal along pairs as an abstract nine-edge triangular-prism graph, whose straight along diameters intersect at the centre and therefore do not themselves provide separate passages around a hollow channel. — atom-carbon-prime-correspondence

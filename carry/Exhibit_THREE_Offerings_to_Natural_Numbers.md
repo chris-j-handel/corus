@@ -151,3 +151,9 @@ So with the six, 1 to 17 is one round only because 17 falls with a six's place, 
 - **Natural Numbers §§6.3 and 7.7 · Three named thirty-sixes:** rotation 3–6–5–4, co-competent pair 7–8 and across–along pair 6–9 each have prime sum 36, with the rotation and across–along equality following from p(3) + p(4) + p(5) = p(9), so the three equal sums retain their distinct and overlapping roles. — atom-carbon-prime-correspondence
 
 - **Natural Numbers §§6.3 and 9.9 · Nine centres and four pairs:** on a cyclic nine-ring, pairing c − k with c + k modulo nine for k from one through four at each centre c exhausts all thirty-six unordered pairs exactly once, nine sets of four pairs whose order of resolving and relation to bi-folding four-cycles remain to be carried. — atom-carbon-prime-correspondence
+
+- **Natural Numbers §§6.3 and 7.7 · The common waist:** the own-three primes 5, 7 and 11 sum to 23 while their partners under the name-fold 17 − n are 43, 41 and 37, making three prime sums of 48 centred at 24 within this specified pairing. — atom-carbon-prime-correspondence
+
+- **Natural Numbers §§6.5 and 7.7 · The two ninety-sixes:** 48 = 16 × 3 = 8 × 6 = 24 + 24, and the two prime-cycle totals of 96 decompose as 48 + 48 and 50 + 46 with centres 24/24 and 25/23, while a span of 96 has its own midpoint 48 and has not been measured as a physical opening. — atom-carbon-prime-correspondence
+
+- **Natural Numbers, inward placement · Roles across scales:** E(n) = 8n − 7 gives Eᵏ(n) = 1 + 8ᵏ(n − 1), and local 9 in each span 16j + 1 through 16j + 17 equals E(2j + 2), distinguishing the recurrence of a local role from arithmetic parity and the placement 17 → 129 from the whole-parity-round relation 17 → 257. — atom-carbon-prime-correspondence

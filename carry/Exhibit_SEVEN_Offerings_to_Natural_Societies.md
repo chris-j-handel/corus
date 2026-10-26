@@ -207,3 +207,13 @@ Concern, at v380, from [the earlier Natural Networking gathering](../archive/v38
 
 - **Natural Societies 4.2 and 5.3 · Species as specializing co-competencing parities:** species is offered as specializing co-competencing parities, like a club with shared special interests, with natural torusing stable-formings, societies' bi-moralities or common parities offered as candidate relations for the observed gatherings, directing the observing toward a particular shared specialty with each participating self differing and same-existing, beside [Natural Naming 5.14](../Exhibit_TWENTY_Natural_Naming_v390.md) carrying co-competencing as bi-co-momentarying with crossings and owned by neither, while the correspondence between this natural specializing and chemical or biological species remains to be resolved through particular couplings. — chemistry-water-20261022
 **Droplet · this file's first motion, as a separate reader proposes it at v392F.** Part Five whole, 5.1–5.6 with 4.4–4.6 moved back under Part Four, said as a field's pattern-matching the ladder numbers, each sentence saying a prime *is* a living scale or a society *is* of one prime scale re-said or leaving; the binary is "does Exhibit ONE's code hold a prime or a scale" (it holds none, living:221), so each such sentence either reads as pattern-matching or goes; the v389 ladder sentences and the insertlet standing only at `archive/session_v389/offerings_dissolved/` go to the archive with the offerings' twenty resolved items. The reader's whole dossier, counts and evidence stand at `incoming/v392F/readers/society_dossier.md`; no wording there carries authority. — v392F
+
+## Incoming · atom-carbon-prime-correspondence
+
+[Whole gathering](../incoming/atom-carbon-prime-correspondence/Natural_Numbers_Atom_Carbon_Exploring_Report.md).
+
+- **Natural Societies, prime-scale ladder · Between two living scales:** the proposed ladder's non-living atom 5 can participate in a relation involving living molecule 7 and macromolecule 11 without being numerically between them, leaving the participating selves and actual receiving to be identified. — atom-carbon-prime-correspondence
+
+- **Natural Societies, inward ingestion · The lowest rung:** carrying ingestion one living scale inward reaches an unresolved join at atom 5 because the proposed ladder has not supplied a lower living participant there. — atom-carbon-prime-correspondence
+
+- **Natural Societies, three-plus-three correspondence · The span matters:** the living primes 7 through 23 split into three of form 6k + 1 and three of form 6k − 1, while extending through 53 splits them six and seven, so neither count alone identifies six connector roles or physical carbon strands. — atom-carbon-prime-correspondence
