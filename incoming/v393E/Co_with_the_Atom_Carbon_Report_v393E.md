@@ -29,11 +29,19 @@ The report finds that the coordinate cycle gives triangles, with no pitch and no
 
 - **Gastrulation's involution**: in *Xenopus* a ball of cells folds inward, cells rolling in over a lip; in many animals a gut follows from mouth to anus, a body of genus nought forming as genus one, its tunnel the way of ingesting and exhausting.
 
-**Possible joining:** a body's tunnel is a hollow route, and its competency is the living surface lining it. This fits Naming's saying that a hole resolves nothing, and the report's care that a hollow channel is distinct from the between. Carbon goes through the tunnel; the cells around it do the receiving.
+- **A neuron's nuclear pores** (Savas, Toyama and others, *Science* 2012; rat brain neurons): proteins forming part of the nuclear pore complexes, the channels a nucleus's sharing goes in and out by, as old as the rat, where most proteins last two days or less. *Boundary:* rats, one protein set; the link to aging and disease is the authors' question.
+
+**Possible joining:** a body's tunnel is a hollow route, and its competency is the living surface lining it. This fits Naming's saying that a hole resolves nothing, and the report's care that a hollow channel is distinct from the between. Carbon goes through the tunnel; the cells around it do the receiving. At a nucleus's scale a pore's stable form same-exists for a life while its sharing goes through it.
 
 ## Three stable forms around one living self
 
 **A possible tri-cycling:** in many animals a self lives with three stable forms, none a living: a genome inside each cell, an artifact of prior living, spiralling around its histone cores; carbon going through along a body's tunnel; a shell or skeleton outside, laid from inception, a conch's spiral the clearest. Inside, through and outside. *Boundary:* this is a joining of three subjects, and the report's own care stands: three of one count and three of another are different subjects until a relation couples them.
+
+## A conch of living inside a stable forming
+
+- **An eye's lens** (Lynnerup and others, *PLoS ONE* 2008; carbon-14 in lens crystallins from human tissue, measurable in a milligram): the crystallins of the lens's core form from conception to about 1 to 2 years of age and go on essentially same-existing for a life, their carbon-14 pointing to a birth year; a lens adds fibre cells at its edge through a life, its oldest at its centre. *Boundary:* proteins of many atoms, a population reading.
+
+**Possible joining:** the first forming at the centre, living adding outward around it, each layer a stable form same-existing as the next opens around it: a physical observing of the conch the carbon working names.
 
 ## At the prime scales, the report's join 5: living participants around atom 5
 

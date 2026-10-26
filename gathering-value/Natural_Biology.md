@@ -8,6 +8,7 @@ Gathering-Value · Natural Biology
 
 - In many animals a self lives with three stable forms: a genome inside each cell, an artifact of prior living, spiralling around its histone cores; carbon going through, a body's ingesting and exhausting of it along a tunnel opening through the body at its forming; and a shell or skeleton outside, a stable form the animal lays from its inception, a conch's spiral the clearest. Inside, through and outside, each a stable form a living goes on with and none a living, and between each stable form and its neighbour a supple between, protein, water, a weak sharing, taking each changing, and no stable form inflicting a changing on another while they co-exist. A possible tri-cycling of stable forms around one living self, pattern and gap, its involutioning at a body's forming. *(possible exploring)*
 - Carbon at a living self goes two ways at once: as a stable form same-existing in a cell's genome from the DNA's making to the cell's landing, repair swapping some nucleotides, a cortical neuron's DNA as old as the person to within about 2 years, the dating unable to exclude adult-opening neurons below some 1 percent, and as carbon going through, a body ingesting and exhausting it along its tunnel and its breathing; an atom same-existing in place while its society's memberships change around it is an observing beside the atom/carbon working's reading of arrangements changing with a constituent same-existing. *(possible exploring)*
+- An eye's lens is a stable form inside a living from its inception: the crystallin proteins of its core form from conception to about 1 to 2 years of age and go on essentially same-existing for a life, their carbon-14 matching the atmosphere's level at their forming, measurable in as little as a milligram of lens tissue and pointing to a person's birth year; a lens grows by adding fibre cells at its edge through a life, its oldest at its centre. A conch of living inside a stable forming: the first forming at the centre, the living adding outward around it, each layer a stable form same-existing as the next opens around it. *(possible exploring)*
 
 ## Opening
 
@@ -56,6 +57,8 @@ Gathering-Value · Natural Biology
 ### 3.4 Hand goes both ways, and observing homochirality as a sway
 
 ### 3.5 Lipid divide — the deepest binary sharing, across and both ways
+
+- On the surface of a rat brain neuron's nucleus, the proteins of a long life forming part of its nuclear pore complexes, the channels through which a nucleus's sharing goes in and out, are as old as the rat, where most proteins last two days or less; a field reads them as going on with no new copies forming as damage reaches them, and asks whether that goes with aging and with diseases of neurons. A tunnel's stable form same-existing for a life while its sharing goes through it, a physical bi-tunneling at a nucleus's between; damage, leaking and aging are a field's equilibria story over a stable form and the changing that reaches it. *(possible exploring)*
 
 ### 3.6 Genetic sharing — a code and its machinery
 
