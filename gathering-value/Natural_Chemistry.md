@@ -128,3 +128,9 @@ Gathering-Value · Natural Chemistry
 - Chains of many carbon atoms beyond 6,000 atoms, in a field's reports, form inside double-walled carbon nanotubes, each nanotube many carbon atoms and is-not a carbon atom, and their length is-not an establishing of the same persistence outside a host under ambient conditions. *(possible exploring)*
 - If carbon units go on in their full form, opening a chain of many carbon units, which is-not a carbon atom, is-not a consuming of them, and the outgoing route, local reuse and incoming supply are then the explaining of any surface depletion and its replenishing. *(possible exploring)*
 - Crystallography of a hexamethylbenzene dication, a special preparation, places one carbon atom close to five basal carbon atoms and one methyl carbon atom, a five-plus-one coordination whose six, with no further relation, is-not three projecting and three mating features. *(possible exploring)*
+
+- In the dense cold cloud TMC-1, about 2 × 10⁴ particles per cm³ at 10 K, cyanopolyynes of 3, 5, 7 and 9 carbon atoms with a hydrogen atom and a nitrogen atom at their ends, each is-not a carbon atom, have column densities each about four times fewer for two carbon atoms more, and the chain of eleven, coming at 5.0σ by stacking lines, falls well below that trend, rings forming, hydrogen atoms reacting or an anion each a hypothesis of a sink. *(possible exploring)*
+
+- A field reads carbon chains, many carbon atoms each, as abundant in a young dense core and falling as carbon atoms go into carbon monoxide, rising again as a core warms close to a forming star, and denser alone is-not longer in these observings. *(possible exploring)*
+
+- Carbon co-chainings filling a between of physical bi-couplings, a proposal, and carbon a nothing its couplings surround and wrap, Natural Chemistry 1.6, are two sayings whose one relation is still to join. *(possible incohering)*

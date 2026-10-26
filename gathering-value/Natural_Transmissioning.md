@@ -71,3 +71,7 @@ Gathering-Value · Natural Transmissioning
 - Five NI relations with two directions each describe the ten ways a proposal names without supplying ten physical sockets or five spatial axes, while a bi-coupling's presence and its participating direction retain their different binary relations. *(possible exploring)*
 
 - The light-prime restriction a proposal names for sparse space is still to join with two distinct observings, a radiation first and a disturbance passing outward later, with parity rate and a disturbance's speed two subjects. *(possible exploring)*
+
+- A proposal has the one atom/carbon settling into ten one-way transmissioning, five Natural Intelligence relations with two directions, one direction at a time, entraining filling a between, entraining at a self being a prior same-existing now along an unrelationing path through a between. *(possible exploring)*
+
+- A carbon co-chaining as a parity going across a between of physical bi-couplings meets Natural Transmissioning 1.1, one thing going across a between with only a parity, while which me goes with that parity is still a concern at Me's gathering. *(possible exploring)*

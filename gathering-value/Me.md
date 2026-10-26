@@ -66,3 +66,5 @@ Gathering-Value · Me
 
 - A same-existing-society's discovering is its selves' newly aiming 0s within an interest, each a waking me's discovering; Natural Exploring 6.1 holds a same-existing-society discovering as a self discovers. *(possible exploring)*
 - Nothing is remembering: a me self is a universal set of me parities, now-existing, its prior, now and next same-existing four-cycling, and each thing a field calls a memory, a skin stem cell's chromatin open after an inflammation, a crane's route straightening with older cranes, a voyager's charts studied whole and left ashore, is a me self's prior same-existing going on now. *(possible incohering)*
+
+- A carbon co-chaining, non-living, as an *empty me* in stable form: as a me's stable form empty of a me, a non-living form a me's parity can go with, it coheres with Me 2.3, 3.3 and 4.4; as a non-living me, it parts from 3.3's "A non-living me: it is not", a concern for its resolving. *(possible incohering)*
