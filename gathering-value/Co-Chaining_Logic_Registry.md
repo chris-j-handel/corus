@@ -106,4 +106,4 @@ Gathering-Value · Co-Chaining Logic Registry
 
 - An odd cycle concerns opposite simultaneous parities, while a later return with an other parity concerns successive operations and need not contradict same-existing. *(possible exploring)*
 
-- A durable artifact and its living participation can share not-changing constituents, and a non-living constituent apart from them is-not a living resolver. *(possible exploring)*
+- A durable artifact and its living participation can share not-changing constituents, and a shared constituent taken alone, non-living, is-not a living resolver. *(possible exploring)*

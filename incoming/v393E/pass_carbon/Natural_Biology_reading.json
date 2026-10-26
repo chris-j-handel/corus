@@ -1,0 +1,49 @@
+{
+ "corrections": [
+  {
+   "from": "**Natural Biology, ingestion and exhausting · Timing of exchange:** isotope inco",
+   "finding": "Equilibria word 'store contributions' as what a leaf does (rules 11); 'measuring the ... contributions' is stronger than the source: the report has the recent and older contributions read from isotope composition and the pathway fluxes requiring a field's modelling, a hedge dropped.",
+   "fixed": {
+    "section": "4.6 Photosynthesis and respiration — the six sharing with the six",
+    "kind": "exploring",
+    "sentence": "Carbon does not land as waste; it cycles between fixing and giving back, conserving, turning on.",
+    "text": "A field samples isotope incorporation from 5 seconds to 60 minutes and follows respiratory isotope changes through 20 hours of darkness, reading the uptake and release of carbon atoms with their timing and a share of recent and older carbon atoms in a leaf's respiring; its pathway fluxes are a field's modelling, each reading is a population reading across many carbon atoms, and is-not a continuous tracking of one carbon atom or an observing of an atom's wear.",
+    "from": "**Natural Biology, ingestion and exhausting · Timing of exchange:** isotope inco"
+   }
+  },
+  {
+   "from": "**Natural Biology, continuing living · External supply and internal participatio",
+   "finding": "Measure dropped: the source observes ATP retained (still present) at 30 minutes and 19 hours, and the report gives starvation reaching 14 to 21 days; the gathered text says only that ATP is measured. A cycle of carbon atoms closing indefinitely is called a 'reading', a proposal said as an observation, and the report's hedge (the water arm does not establish indefinite carbon closure) is weakened to 'distinct'.",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "A field measures ATP still present in yeast cells a preparation washes into water, at 30 minutes and at 19 hours, and growth recovering after starvation reaching 14 to 21 days; this maintenance after external nourishment pauses is-not an establishing of a cycle of carbon atoms closing indefinitely, and a pause in external nourishment and a self's internal resource use are two observings, each distinct.",
+    "from": "**Natural Biology, continuing living · External supply and internal participatio"
+   }
+  },
+  {
+   "from": "**Natural Biology, tendril coiling · The measured waist:** constrained tendrils ",
+   "finding": "Waist 24, span 36 and opening 96 are the proposal's numbers; said bare they read as things a field already has, a proposal said as an observation. The report: no 24, 36 or 96 count is established.",
+   "fixed": {
+    "section": "3.3 A left form is the emanation form of one right spiral",
+    "kind": "exploring",
+    "sentence": "A cucumber tendril, once its tip grips, coils as two helices of opposite hand a perversion joins, net twist nothing, equal and opposite sides coupling with an empty centre (Darwin 1865; Gerbode and colleagues, Science 2012).",
+    "text": "Tendrils a preparation constrains and ribbons a preparation extracts from them supply coils of opposite hand, a perversion joining them, and an over-winding depending on the preparation; their correspondence to the proposal's waist 24, span 36 or opening 96 is-not a field's measure, and awaits one.",
+    "from": "**Natural Biology, tendril coiling · The measured waist:** constrained tendrils "
+   }
+  },
+  {
+   "from": "**Natural Biology, DNA and carbon chains · Width and length:** an atomic carbon ",
+   "finding": "Hedge dropped: the report has the approximately 2 nm helical diameter inferred from diffraction; the gathered text gives it as a bare measure.",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "An atomic carbon chain is one row of carbon atoms and is-not a carbon atom, and ordinary B-form DNA is a double helix of many atoms about 2 nm across, a width a field infers from diffraction, and is-not a carbon atom; this width comparison is-not a placing of a separate pure carbon chain inside DNA, and is-not a universal hard diameter for an atom.",
+    "from": "**Natural Biology, DNA and carbon chains · Width and length:** an atomic carbon "
+   }
+  }
+ ],
+ "checked": 6
+}

@@ -98,9 +98,9 @@ Gathering-Value · Natural Physics
 
 ## Droplets
 
-- A gold chain's conductance, gold atoms and no carbon atom, alternates in preparations a field reads with odd and even chain lengths, while both levels a field observes conduct and neither alone records a binary stopping or six recursionings. *(possible exploring)*
+- A gold chain, of gold atoms and in chemistry's naming is-not carbon, alternates in conductance in preparations a field reads with odd and even chain lengths, while both levels a field observes conduct and neither alone records a binary stopping or six recursionings. *(possible exploring)*
 
-- Imaging a disturbance passing through diamond carries transmission through a persisting arrangement without imaging the binary disconnecting a proposal names at each atom. *(possible exploring)*
+- Imaging a disturbance passing through a diamond crystal, many carbon atoms, observes transmission through a persisting arrangement without imaging the binary disconnecting a proposal names at each carbon atom. *(possible exploring)*
 
 - Interstellar radio signatures preceding a later local compression signature carry a concern for the claim that only light disturbances can transmit through sparse space. *(possible exploring)*
 
@@ -110,4 +110,4 @@ Gathering-Value · Natural Physics
 
 - Different atomic spectral responses remain incoming to one universal atom/carbon explaining, with lines a field measures, states it infers and transitions it calculates, each its own standing. *(possible exploring)*
 
-- A nucleus, is-not a carbon atom, is no invariant a reading of breakup records against the proposal supposes, while the products a field records still ask their explaining. *(possible exploring)*
+- A reading of carbon breakup records against the proposal is to suppose no invariant nucleus, a nucleus a part within a carbon atom and is-not the atom, while the products a field records still ask the proposal's explaining. *(possible exploring)*

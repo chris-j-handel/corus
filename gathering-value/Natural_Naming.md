@@ -259,6 +259,6 @@ Gathering-Value · Natural Naming
 - A genome is an artifact of prior living, as 2.4 says of each prior in stable form: a field's genome that copies, an element that moves, a virus that enters, each gives an artifact a doing that is a living cell's going on with it. *(possible incohering)*
 - Transcribing, translating, reading, a code and information at a cell are a text-and-machine story over a cell's living: RNA and proteins forming along a genome are the cell's own stable-forming with its artifact, and a cell reads no text and runs no machine. *(possible incohering)*
 
-- One referent a proposal names atom and carbon goes on as one identity throughout exploring, with no smaller invariant nucleus in its place and no second kind of carbon sheltering the proposal from observings. *(possible exploring)*
+- One referent a proposal names atom and carbon is to go on as one identity throughout exploring, with no smaller invariant nucleus in its place and no second, set-apart kind of carbon. *(possible exploring)*
 
-- A helix of the right hand can be gone along either way, its hand not changing, while its spatial hand, its direction of going and NI co-sequencing are three subjects until a pass brings their relation. *(possible exploring)*
+- A helix of the right hand can be gone along either way, its hand not changing, while its spatial hand, its direction of going and NI co-sequencing are three subjects, their relation still to join. *(possible exploring)*

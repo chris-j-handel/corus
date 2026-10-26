@@ -68,6 +68,6 @@ Gathering-Value · Natural Transmissioning
 
 - After a coupling disconnects, onward changing requires that event to occasion another coupling, a coupling forming again, or another available co-chaining. *(possible exploring)*
 
-- Five NI relations with two directions each describe the ten ways a proposal names without supplying ten physical sockets or five spatial axes, while coupling presence and participating direction retain their different binary relations. *(possible exploring)*
+- Five NI relations with two directions each describe the ten ways a proposal names without supplying ten physical sockets or five spatial axes, while a bi-coupling's presence and its participating direction retain their different binary relations. *(possible exploring)*
 
-- The light-prime restriction a proposal names for sparse space is still to join with two distinct observings, a radiation first and a disturbance going on later, parity rate and a disturbance's speed two subjects. *(possible exploring)*
+- The light-prime restriction a proposal names for sparse space is still to join with two distinct observings, a radiation first and a disturbance passing outward later, with parity rate and a disturbance's speed two subjects. *(possible exploring)*

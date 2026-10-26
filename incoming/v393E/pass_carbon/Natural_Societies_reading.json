@@ -1,0 +1,38 @@
+{
+ "corrections": [
+  {
+   "from": "**Natural Societies, prime-scale ladder · Between two living scales:** the propo",
+   "finding": "Meaning lost: the source's point is a relation between two living scales, 'living molecule 7 and macromolecule 11'; the gathered text drops 'living' from both.",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "In the proposal of the ladder, atom at five, a non-living stable form, can share in a relation with living molecule at seven and living macromolecule at eleven while five is-not a number between seven and eleven; the selves sharing in that relation and its actual receiving are an identifying to come.",
+    "from": "**Natural Societies, prime-scale ladder · Between two living scales:** the propo"
+   }
+  },
+  {
+   "from": "**Natural Societies, inward ingestion · The lowest rung:** carrying ingestion on",
+   "finding": "Conditional made unconditional: the source says the proposed ladder has not yet supplied a lower living participant at atom 5 (report: 'no lower living rung has been identified'), an opening; 'the ladder's lowest living participant is molecule at seven' fixes it as settled, and the living file (5.3) says molecule at seven is the first self of this ladder and not the first possibly existing.",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "incohering",
+    "text": "In the proposal of the ladder, ingestion one living scale inward reaches atom at five, a non-living stable form, molecule at seven the first self of this ladder; a living participant at five is an identifying to come, and the join at five is an open resolving.",
+    "from": "**Natural Societies, inward ingestion · The lowest rung:** carrying ingestion on"
+   }
+  },
+  {
+   "from": "**Natural Societies, three-plus-three correspondence · The span matters:** the l",
+   "finding": "A strand of carbon atoms, a name mistakable for a carbon atom, has no is-or-is-not.",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "The living primes 7 to 23 part three one after a multiple of six, 7, 13 and 19, and three one before, 11, 17 and 23, and the living primes 7 to 53 part six one after and seven one before; each parting alone is-not an identifying of six connector roles or of six strands of many carbon atoms, a strand is-not a carbon atom.",
+    "from": "**Natural Societies, three-plus-three correspondence · The span matters:** the l"
+   }
+  }
+ ],
+ "checked": 4
+}

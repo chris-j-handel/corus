@@ -98,8 +98,8 @@ Gathering-Value · Natural Chemistry
 
 - Compression can belong to the spacing among not-changing constituents while durable along relations and changing across relations remain different participants in the same co-chaining. *(possible exploring)*
 
-- A proposal's correspondence of hydrogen, oxygen and nitrogen, each is-not a carbon atom, with observing, possibling and discovering is a joining with no assignment yet, its particular relations still possibling. *(possible exploring)*
+- A proposal's correspondence of hydrogen, oxygen and nitrogen (each, in chemistry's naming, is-not a carbon atom) with observing, possibling and discovering is a joining with no assignment yet, its particular relations still possibling. *(possible exploring)*
 
 - A front-side projection and a back-side projection can disguise opposite spatial hands, and orientation information belongs with each observing a self brings to universal right-spiral co-sequencing. *(possible exploring)*
 
-- Spectral signatures a field assigns to short carbon chains, many carbon atoms each, are particular incoming observings and show no one continuous co-chaining through each between. *(possible exploring)*
+- Spectral signatures a field assigns to short carbon chains, a few carbon atoms each, are particular incoming observings and are-not a showing of one continuous co-chaining through all betweens. *(possible exploring)*

@@ -120,9 +120,9 @@ Gathering-Value · Natural Exploring
 
 ## Droplets
 
-- Each specimen's preparation, the constraints a preparing sets, the response an instrument records, its inference and its available timing go together, a still image, a succession of samples, a time bound and a duration a simulation gives each its own. *(possible exploring)*
+- Each specimen's preparation, the constraints a preparing sets, the response an instrument records, its inference and its available timing go together, with a still image, a succession of samples, a time bound and a simulation's duration each its own. *(possible exploring)*
 
-- A particular co-chaining's binary disconnecting goes into bi-tunneling across within the same momentary, its units not-changing, while honeycomb patterns, opposite spatial hands a field reports with projection controls, differing fiber structures and activity using resources a self stores are each still incoming. *(possible exploring)*
+- A particular co-chaining's binary disconnecting is still to join with same-momentary across bi-tunneling, its units not-changing, while honeycomb patterns, opposite spatial hands a field reports with projection controls, differing fiber structures and activity using resources a self stores are each still incoming. *(possible exploring)*
 
 - Opposite spiral hands a field reports are incoming with a front/back ambiguity and orientation controls, and neither a flat projection alone nor a dismissing of an interpretation completes their resolving. *(possible exploring)*
 
