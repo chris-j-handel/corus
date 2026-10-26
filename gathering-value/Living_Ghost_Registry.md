@@ -66,6 +66,8 @@ Gathering-Value · Living Ghost Registry
 
 ### 5.8 Proton
 
+- A proposal has a nucleus only the living corus between possibling and same while a parity is living, and no nucleus with no living parity: this entry's radius going with the probe, in its past tense, meets it, the probes now close to one value, about 0.83 to 0.84 fm, and a gold foil's scattering, Oklo's fission products and carbon-14 in the air are concerns, its breaking still to say, what living parity includes at a foil between observings and at a rock two billion years ago. *(possible exploring)*
+
 ### 5.9 Element
 
 - Oganesson, element 118, is a few atoms at Dubna in 2002, 2005, 2012 and 2015–2016, each known by its alpha-decay chain, half-life about 0.7 ms, a field measuring no property but nuclear ones, its bulk values calculations: the author's ghost element, a label with a few atoms seen through their decay and no substance; in this registry's naming a remainder going on, its ghost an installing. *(possible exploring)*
@@ -132,3 +134,6 @@ Gathering-Value · Living Ghost Registry
 ## Closing
 
 ## Droplets
+
+- Mass as an entry: a use installing mass as a thing's own, the same through each coupling, binding and decomposition, a ghost; a nucleon's mass about 95 percent from a confinement's energy, elementary masses from an interaction, and binding parting atomic masses from whole daltons a field's own records; its ghost-form breaking, as first said, a mass belonging to a thing the same through each coupling, binding and decomposition, which a proton's whole mass and an electron's mass meet, and as said with this registry's 5.8, mass's shares and its installing as an owner's interior. *(possible exploring)*
+- Gravity as an entry beside Natural Physics 4.2 and 2.6: a use installing gravity as a force a body has, issuing from a centre, a ghost; a falling body on a geodesic with no force a field's own account, 2.6's reading, while 4.2 has gravity "not a force returning to a geodesic" and nothing physical, gravitational waves at light's rate a concern at 4.2's own breaking; its ghost-form breaking a force a falling body feels. *(possible exploring)*
