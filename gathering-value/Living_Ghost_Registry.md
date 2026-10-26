@@ -73,6 +73,7 @@ Gathering-Value · Living Ghost Registry
 
 - Oganesson, element 118, is a few atoms at Dubna in 2002, 2005, 2012 and 2015–2016, each known by its alpha-decay chain, half-life about 0.7 ms, a field measuring no property but nuclear ones, its bulk values calculations: the author's ghost element, a label with a few atoms seen through their decay and no substance; in this registry's naming a remainder going on, its ghost an installing. *(possible exploring)*
 - A proposal has each of the 118 elements a version of one atom/carbon, a ghost element, none a different thing: beyond element as an accounting a field installs as a self, each proton number a version of one non-living stable form, its distinct X-ray integers, line sets and probe responses each a version's own relations still to join. *(possible exploring)*
+- A strong concern at this entry's own ghost-form breaking, "a field observing returning properties that belong to count itself independently of substance, allotrope, oxidation state and conditions": inner X-ray lines shift by about 0.02 to 0.09 percent across compounds and an element's line pattern goes the same to about a part per million in a quasar at redshift 1.15 and here, while this entry already places reading Z as accounting; a cohering re-saying has an element's substance, chemistry and outer responses going with its bi-couplings, its inner lines and line pattern with its proton number, and mass and nuclear magnetism with a nuclide. *(possible incohering)*
 
 ### 5.10 The silicon multifrequency surface
 
