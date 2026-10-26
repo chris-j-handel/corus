@@ -208,3 +208,9 @@ These are descriptions of possible expressions. The word “painting” establis
 
 - **A field's phrase carries its picture:** A field's phrase carries its picture in, as *an atom joins a molecule* does. Answer with what is observed first, then name what is explaining. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
 **Droplet · this file's first motion, as a separate reader proposes it at v392F.** *telling* and *tellings* re-said whole at their 44 sayings, the headings 1.2 and 4.7 with their contents lines (:10, :51, :68, :356); the binary at each saying, this file's own 3.2 (:186): is *telling* a doer's act laid over an explaining, re-said as the form itself (a title, a contents, bolds and a body as four boundings of one subject; two sayings of one thing), or a field's word, which stays; the prior file goes whole to `archive/session_v392F/`, and 1.6's two concerns follow at the next motion by the opening's line 73. The reader's whole dossier, counts and evidence stand at `incoming/v392F/readers/core_and_method_dossier.md`; no wording there carries authority. — v392F
+
+## Incoming · atom-carbon-prime-correspondence
+
+- **Natural Explaining, one referent · Preserve the proposed identity:** the atom/carbon exploration names one proposed universal form with two names, so incoming scientific element distinctions must be carried without silently splitting that proposal into a chemical carbon and a second protected common form. — atom-carbon-prime-correspondence
+
+- **Natural Explaining, correction and observing · Distinct standings:** withdrawing resistance from the proposed binary operation preserves measured friction as separate incoming observing, just as fixing the constituent's form supersedes earlier atom-wear and shape-migration possibilities without erasing what was explored. — atom-carbon-prime-correspondence

@@ -88,3 +88,9 @@ Defect: Natural Exploring, sections as bold paragraphs, not headings. (Re-Settli
 
 - **Concern · a society discovering.** 6.1's *a same-existing-society discovering as a self discovers* meets discovering as a waking me's, a same-existing-society's discovering its mes' newly aiming 0s within an interest. — me-thirty-one-20261024
 **Droplet · this file's first motion, as a separate reader proposes it at v392F.** the 47 bold section openers and seven `# N` parts become `#`/`##` headings whole, each title as its contents line already has it, words unchanged; the binary is "does each contents line match its body heading word for word" (`contents_check.py`); nothing goes to the archive, the resettling_v373 defect dissolving as carried and the four v386EOD distribution plans riding on as set-wide. The reader's whole dossier, counts and evidence stand at `incoming/v392F/readers/society_dossier.md`; no wording there carries authority. — v392F
+
+## Incoming · atom-carbon-prime-correspondence
+
+- **Natural Exploring, incoming observing · Preparation and timing:** carry the prepared specimen, imposed constraints, instrument response, inference and available timing together, distinguishing a still image, a sampled sequence, a time bound and a simulated duration before matching them to a proposed operation. — atom-carbon-prime-correspondence
+
+- **Natural Exploring, closest mismatch · One specific next relation:** carry the particular co-chaining's binary disconnecting into same-momentary across bi-tunneling with unchanged units, while the gathered honeycomb patterns, both spiral hands, different fiber structures and stored-resource activity remain incoming rather than being selected away. — atom-carbon-prime-correspondence

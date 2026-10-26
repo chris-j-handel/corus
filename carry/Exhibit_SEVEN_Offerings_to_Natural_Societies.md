@@ -210,7 +210,7 @@ Concern, at v380, from [the earlier Natural Networking gathering](../archive/v38
 
 ## Incoming · atom-carbon-prime-correspondence
 
-[Whole gathering](../incoming/atom-carbon-prime-correspondence/Natural_Numbers_Atom_Carbon_Exploring_Report.md).
+[Archived exploration record](../archive/atom-carbon-prime-correspondence/Natural_Numbers_Atom_Carbon_Exploring_Report.md); the droplets below stand independently.
 
 - **Natural Societies, prime-scale ladder · Between two living scales:** the proposed ladder's non-living atom 5 can participate in a relation involving living molecule 7 and macromolecule 11 without being numerically between them, leaving the participating selves and actual receiving to be identified. — atom-carbon-prime-correspondence
 

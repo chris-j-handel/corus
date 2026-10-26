@@ -1,10 +1,10 @@
-# Living incoming value — numbers, geometry and the atom/carbon stable form
+# Exploration report — numbers, geometry and the atom/carbon stable form
 
-This is the continuing report of working **atom-carbon-prime-correspondence**, aimed into the living expedition. The same report is updated as the exploring continues; its values are offered at the files they concern. The earlier prime correspondence is retained below, followed by the subsequent waist, fiber, connector, geometry and observation work.
+This report gathers the learning of working **atom-carbon-prime-correspondence** at its close. Its values are offered as self-contained droplets at the living files they concern; this record is archived for reference and is not a dependency of those offerings. The prime correspondence, geometry, observations, corrections and unresolved joins are retained together for a future session.
 
-**Shared standing:** this report and its offerings are on `working/atom-carbon-prime-correspondence`, offered through [PR #154](https://github.com/chris-j-handel/corus/pull/154). An open PR makes them readable to another session that follows the branch or PR; it does not put them on `main`, automatically load them into another conversation, or establish their receiving into a living file.
+**Shared standing:** the archived report and its offerings are on `working/atom-carbon-prime-correspondence`, offered through [PR #154](https://github.com/chris-j-handel/corus/pull/154). An open PR makes them readable to another session that follows the branch or PR; it does not put them on `main`, automatically load them into another conversation, or establish their receiving into a living file.
 
-**Read first:** [three folding edges through the waist](#three-folding-edges-through-the-waist), [fixed units, ridge release and replenishing](#fixed-units-ridge-release-and-replenishing), [along-connected chains and a hollow channel](#along-connected-chains-and-a-hollow-channel), [thin bridges, changing dimensions and nearby-element comparisons](#carbon-thin-bridges-changing-dimensions-and-comparison-with-nearby-elements), [three and two within the same recurrence](#three-and-two-within-the-same-prior-two-added-recurrence), [the continuation at 23, 24, 48 and 96](#twenty-three-and-the-waist-of-forty-eight), [the six-point geometry and its role mapping](#six-inner-points-and-twelve-outer-corners), [the observation ledger](#observings-with-their-preparation-and-timing), and [the next connected work](#the-next-connected-work).
+**Read first:** [across partner exchange](#across-partner-exchange-as-a-conditional-construction), [atomic pattern and DNA scale](#atomic-pattern-spectral-response-and-the-dna-scale-comparison), [corrections to preserve](#corrections-and-unresolved-aimings-to-preserve), [closest remaining concerns](#closest-remaining-mismatches-and-the-next-joining), [three folding edges through the waist](#three-folding-edges-through-the-waist), [fixed units, ridge release and replenishing](#fixed-units-ridge-release-and-replenishing), [along-connected chains and a hollow channel](#along-connected-chains-and-a-hollow-channel), [thin bridges, changing dimensions and nearby-element comparisons](#carbon-thin-bridges-changing-dimensions-and-comparison-with-nearby-elements), [three and two within the same recurrence](#three-and-two-within-the-same-prior-two-added-recurrence), [the continuation at 23, 24, 48 and 96](#twenty-three-and-the-waist-of-forty-eight), [the six-point geometry and its role mapping](#six-inner-points-and-twelve-outer-corners), [the observation ledger](#observings-with-their-preparation-and-timing), and [the next connected work](#the-next-connected-work).
 
 The gathering keeps four kinds of value visible: relations explicitly carried by the named living files; exact arithmetic or geometry worked from specified operations; incoming physical observations with their preparation and timing; and proposed joins still being explored. This lets pattern-matching carry every incoming observation without letting a shared number silently identify different subjects. It is an exploration by cohering and forward co-recursioning, not a proposed experimental programme.
 
@@ -209,7 +209,7 @@ This is the exact relation \(48+48=50+46=96\). Ninety-six here is a sum of four 
 
 The knotted towel and climbing tendril remain useful incoming shape correspondences. The existing chemistry gathering and the tendril observations below carry a twisted meeting and opposite-handed coiling under particular constraints. Neither gives a measured waist of 24, a 36-turn requirement or a 96-opening. Their joining must carry an actual correspondence of positions, not just the shared word “waist.”
 
-Sources: [Natural Numbers v392](https://github.com/chris-j-handel/corus/blob/69d802c8036b08a14e74d6579cdda08b6a66f96b/Exhibit_THREE_Natural_Numbers_v392.md), §§6.3, 6.5 and 7.7; [THIRTY v391](https://github.com/chris-j-handel/corus/blob/69d802c8036b08a14e74d6579cdda08b6a66f96b/Exhibit_THIRTY_Co-Chaining_Logic_Registry_v391.md), steps 142 and 384; [the expedition's existing tendril gathering](../v392chem/Living_Learning_v392chem.md), §6.
+Sources: [Natural Numbers v392](https://github.com/chris-j-handel/corus/blob/69d802c8036b08a14e74d6579cdda08b6a66f96b/Exhibit_THREE_Natural_Numbers_v392.md), §§6.3, 6.5 and 7.7; [THIRTY v391](https://github.com/chris-j-handel/corus/blob/69d802c8036b08a14e74d6579cdda08b6a66f96b/Exhibit_THIRTY_Co-Chaining_Logic_Registry_v391.md), steps 142 and 384; [the expedition's existing tendril gathering](../../incoming/v392chem/Living_Learning_v392chem.md), §6.
 
 ## Carbon co-linearizing and the meaning of fiber
 
@@ -313,6 +313,8 @@ Sources: [Exhibit ONE v391](https://github.com/chris-j-handel/corus/blob/69d802c
 
 ## Three and two within the same prior-two-added recurrence
 
+**Scope:** the following phi-side calculations are auxiliary arithmetic only; they assign no phi reference, physical divider or opposite-side requirement to the proposed atom/carbon co-chaining.
+
 Natural Numbers already carries both prior-two-added approaching phi and a prior/now binary recurrence with three cycling forms. Their connection can now be stated as an operation, not only a matching count.
 
 Write the ordinary integer recurrence as \(Q(a,b)=(b,a+b)\), beginning with the positive pair \((1,1)\). Its two number parities recur through odd/odd, odd/even and even/odd. At the same time, the ratio \(b/a\) alternates below and above phi:
@@ -362,13 +364,13 @@ The three-form parity recurrence alone is less specific than the full arithmetic
 | \((b,-a+b)\) | Sixth power is identity | Same three cycling forms |
 | \((b,a+b)\) | Positive values advance, ratios tend to phi | Same three cycling forms |
 
-Consequently, the binary three-form pattern alone does not distinguish the phi recurrence from these closing recurrences. The improvement is an explicit relation between operations; the remaining joining is what carries this particular operation in the actual along coupling of the proposed stable form.
+Consequently, the binary three-form pattern alone does not distinguish the phi recurrence from these closing recurrences. The value is an explicit distinction between arithmetic operations; no requirement is imposed that the physical along coupling carry this particular phi-side recurrence.
 
 Sources: [Natural Numbers §§3.1, 3.4 and 8.2](https://github.com/chris-j-handel/corus/blob/69d802c8036b08a14e74d6579cdda08b6a66f96b/Exhibit_THREE_Natural_Numbers_v392.md), with the exact calculations above.
 
 ## The six recurring relations on the six inner points
 
-The new six joint forms can be put in explicit correspondence with the six axial points already found. Assign odd/odd, odd/even and even/odd to the \(x,y,z\) axes; assign below phi to the positive point and above phi to the negative point. This specified labeling gives
+As an auxiliary mathematical labeling, the six joint forms can be put in correspondence with the six axial points already found; this labeling is not the proposed physical atom geometry. Assign odd/odd, odd/even and even/odd to the \(x,y,z\) axes; assign below phi to the positive point and above phi to the negative point. This specified labeling gives
 
 $$
 +x\longrightarrow-y\longrightarrow+z\longrightarrow-x
@@ -385,7 +387,7 @@ Three steps exchange each point with its opposite; six give the same point again
 
 The map \(J\) reverses spatial orientation: its determinant is \(-1\). It is therefore a rotation composed with central inversion, not a proper right rotation alone. In the earlier role placement its cycle is \(6\to14\to9\to10\to2\to17\to6\); that sequence has not been established as an executing of ONE's roles. The axis and sign assignments above supply a mathematical correspondence, not a physical identification of number parities, cones, male/female roles or atomic constituents.
 
-Natural Mathematics' discussion of three inversions and opposite form now has a specific arithmetic counterpart to explore. Neither \(J\) nor \(C\) translates a point along an axis, and numerical advance in \(Q\) does not itself supply spatial advance. The atom/carbon joining remains at that actual coupling.
+Natural Mathematics' discussion of three inversions and opposite form now has a specific arithmetic counterpart to explore. Neither \(J\) nor \(C\) translates a point along an axis, and numerical advance in \(Q\) does not itself supply spatial advance. The physical atom/carbon joining remains at its actual coupling, without requiring the phi-side labeling.
 
 Sources: [Natural Mathematics, bi-tri-involutioning and stable-form geometry](https://github.com/chris-j-handel/corus/blob/69d802c8036b08a14e74d6579cdda08b6a66f96b/Exhibit_FOUR_Natural_Mathematics_v391.md), [Natural Numbers](https://github.com/chris-j-handel/corus/blob/69d802c8036b08a14e74d6579cdda08b6a66f96b/Exhibit_THREE_Natural_Numbers_v392.md), and the stated labeling.
 
@@ -469,7 +471,7 @@ The rh6 study is especially important to carry exactly. Its proposed **18-atom h
 
 The proposed one, two or three modules remain open. Bi-tri-volutioning and its three congruent golden rectangles do not themselves supply three distinct atomic shapes. Tri-bi-co-momentarying carries prior, now and next; identifying it with birth, growth and maturity requires an additional relation.
 
-If an individual atom changes among physical shapes, that revises the earlier wholly unchanging atom proposal. If arrangements or memberships of stable forms change, the proposed constituent could remain unchanged, but those are different descriptions of what changes. Both possibilities are recorded so the exploration does not hide the concern through renaming.
+If an individual atom changes among physical shapes, that revises the earlier wholly unchanging atom proposal. If arrangements or memberships of stable forms change, the proposed constituent could remain unchanged, but those are different descriptions of what changes. These are recorded as earlier alternatives; the current proposal fixes the constituent's physical form and assigns changing to arrangements and co-chainings.
 
 Likewise, a hollow channel's geometry is distinct from the relational between. Naming's discussion of a hole resolving nothing leaves competency with the actual participating couplings. Calling the void the inception of social moral competency has not yet supplied those couplings.
 
@@ -493,7 +495,7 @@ The initial incoming Chain Theory PDF is not used here as an explanatory framewo
 
 The isotope studies use mass-based instrumentation. Accepting their incoming signals while questioning the field's account of mass requires carrying the instrument readings, calibration and isotope assignments explicitly; it does not entitle this report either to discard the observations or to claim they establish mass as a universal scale. This gathering has not completed an alternative account of that measurement chain.
 
-Across these preparations, the observations support incorporation, release, internal retention, rearrangement, geometric regularity and particular candidate structures. They do not directly establish that every atom is the proposed one carbon stable form, that an individual atom wears down, or that every living inception has three right-spiraling carbon modules. Those remain the expedition's proposed joins.
+Across these preparations, the observations support incorporation, release, internal retention, rearrangement, geometric regularity and particular candidate structures. They do not directly establish that every atom is the proposed one carbon stable form or that every living inception has three right-spiraling carbon modules. Those universal joins remain open; physical atom wear is an earlier possibility superseded by the current unchanged-unit premise, with replenishing now concerning availability.
 
 ## Carbon thin bridges, changing dimensions and comparison with nearby elements
 
@@ -663,9 +665,70 @@ Natural Numbers §6.2 calls each integer a waist; 24 has its specified self-oppo
 
 The current value is a more exact specifying of the proposed binary relation: unchanged constituent, single co-chaining disconnecting, floating neutraling unrelationing betweens and across bi-tunneling within the same now-existing momentary. The towel's physical correspondence, threefold universality and continual replenishment remain open joins alongside the retained observations.
 
+## Across partner exchange as a conditional construction
+
+Across bi-tunneling could change a chain's onward co-chaining while preserving an along-only structure: two chains exchange their onward partners without adding a permanent sideways branch. This is a possible connection pattern offered for exploring, not a claim that this is already the physical operation of atom/carbon or the executing of ONE.
+
+Take two forward projections and two mating openings, with either projection compatible with either opening, each end paired exactly once and no additional ends in this construction. There are exactly two complete pairings:
+
+| | Same partners | Exchanged partners |
+|---|---|---|
+| First forward projection | First mating opening | Second mating opening |
+| Second forward projection | Second mating opening | First mating opening |
+
+The two choices count complete pairings only. Partly disconnected configurations are not included in that count. Both complete pairings have every end coupled, yet particular co-chainings change from is to is-not and others from is-not to is. Observing only that each end has a partner would therefore miss the changing of which particular partners co-chain. This is a binary relation between specified participants; its correspondence to the resolver's working parity is not assumed.
+
+One isolated disconnection cannot change a complete pairing if every other coupling and the set of available ends stay unchanged: the two freed ends would have to rejoin each other. An across exchange needs another available counterpart or another co-chaining co-changing. This gives a possible relation for the bi while each individual disconnecting remains all or none. It supplies no requirement for a globally serial process, no clock duration and no measured simultaneity.
+
+Two of three folding paths could participate in an exchange without requiring the third to disconnect. The actual geometry must still carry the paths, the unchanged units, their compatible mating and the asserted forward-only relation. The four illustrative ends are not already ONE's 6, 2, 10 and 14. ONE's actual across relations 6 → 2 and 10 → 14 and along relation 9 → 17 must retain their own subjects when the correspondence is explored.
+
+A partner exchange conserves the units in this construction. Additional carbon intake does not follow from the exchange alone; replenishing still needs the actual relation of local availability, outgoing material, internal reuse and incoming offering. The construction also establishes neither a physical twisting hand nor the existence of a hollow passage.
+
+## Atomic pattern, spectral response and the DNA scale comparison
+
+A hexagonal ring in the described atomic arrangement has six atomic sites at its vertices; it is not an image of every individual atom being a hexagon. Likewise, a carbon tube, fiber or chain is an arrangement of constituents, not another name for a single enlarged carbon atom. Atomic-pattern imaging can constrain arrangements without supplying a complete hard outline of each constituent or establishing complete physical invariance.
+
+The earlier question whether every carbon atom is identical must keep chemical identification, measured response and the proposed unchanged form distinct. [Haris and Kramida's neutral-carbon spectral evaluation](https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=933633) compiles measured wavelengths and intensities from laboratory and astrophysical sources, with instrument uncertainties, alongside optimized energy levels and calculated transitions. Its many spectral responses and isotope-shift data remain incoming; the energy-state and isotope assignments are the source's scientific account. This is not one movie of one atom passing through every listed state, nor an outline measurement. Calling mass, electrons or protons explanatory ghosts does not remove the recorded responses; the proposal still has to carry those observations with their preparation and measurement chain. This session has not supplied that complete alternative account.
+
+The DNA comparison concerns physical dimensions:
+
+| Subject | Transverse scale and structure |
+|---|---|
+| An atomic carbon chain | A single row of carbon atoms, one atom across; no universal hard diameter is assigned here |
+| Ordinary B-form DNA | A double helix about 2 nm across, with two molecular strands containing many atoms per repeating unit |
+
+The [1953 primary DNA papers](https://www.mskcc.org/teaser/1953-nature-papers-watson-crick-wilkins-franklin.pdf) infer the approximately 2 nm helical diameter from diffraction. The carbon chains already gathered, including [Morris et al. 2026](https://doi.org/10.1038/s41557-026-02175-w), have specimen-dependent lengths. A short carbon chain and a short DNA segment can overlap in nanometre length while differing in width.
+
+This comparison does not locate a separate pure carbon chain inside DNA, identify DNA's two strands with pure carbon chains, or establish the same co-chaining operation in both. Along-chain interatomic spacing is not chain diameter. A tube made from many carbon atoms around a channel can also differ in width from a single atomic chain, even when both are called carbon structures.
+
+## Corrections and unresolved aimings to preserve
+
+The current atom/carbon proposal is one fixed, non-living constituent form, with changing assigned to relations. Earlier possibilities of an individual atom wearing down or migrating among three physical shapes are retained as earlier questions, not simultaneous premises. Replenishing now concerns availability and participation unless a further change to the unchanged-unit premise is explicitly made.
+
+The separate prior-two-added calculation uses ratios less or greater than phi. There is no phi reference or opposite-side requirement in the proposed atom's physical co-chaining. The coordinate construction's six inner points and the compatible rigid-copy along joining do not require phi; the outer equal-edge condition does. These are distinct mathematical subjects, not an inference that an atom crosses a physical phi boundary.
+
+The earlier prior-existing, now-existing, next-existing and same-existing four-cycling remains an aiming whose operation has not been explicitly identified with any one of the report's fourfold counts. Likewise, particle zero, unit distance, infinity and infinity-plus-one remain names in a proposed origin/scale correspondence; this gathering has not derived one arithmetic operation or physical scale joining them to the universal atom/carbon. No externally readable zero in a resolver is introduced by those names.
+
+The origin sentence, the universe as the set of all now-existing things, does not alone supply the additional links identifying one universal non-living atom/carbon, its shape or its inception within living. The cited links in THIRTY and Chemistry are the material for carrying that join. Treating every atom as one proposed form must still carry distinct recorded responses; it cannot be protected by silently changing atom/carbon into two different referents.
+
+The method learning is to retain each observing without letting the proposed explanation supply what was not measured. Record what was prepared or held fixed, what was allowed to change, the instrument's response, the inference or fitted model, and the actual timing or absence of timing. A still image, an interrupted series, an observed upper or lower time bound and a simulated duration are different offerings. Spatial succession does not itself establish forming order. Absence of a visible backward step does not establish that backward passage is impossible.
+
+Pattern matching is carried here by specifying the participants and operation: equal counts, similar shapes and shared names locate possible connections but do not silently identify them. Exact arithmetic, a possible geometry, an instrument record and a proposed universal relation retain their own standing. No hypothesis-testing programme is prescribed by this report, and no claim is made to have exhausted science or audited every empirical source in the original incoming PDF.
+
+## Closest remaining mismatches and the next joining
+
+The closest gathered concerns are concrete:
+
+- Ordinary carbon-tube specimens show an atomic honeycomb pattern together with electrical response, while the proposed body carries only-along chains; an account of those same specimens must carry both observations.
+- Both spiral hands occur in a specified tube preparation, and different fiber specimens support cup-stack and continuous-helix interpretations; universal right-spiraling cannot be inferred from one selected shape.
+- Activity persists in specified preparations after withdrawal of external nourishment, so uninterrupted external intake must remain distinct from stored material and internal reuse.
+- Reproducible spectral differences and preparation-dependent responses remain to be carried by a proposal assigning every changing to relations around one unchanged constituent.
+
+These do not constitute a completed derivation or a completed exclusion of the proposal. None of the gathered sources records the entire specified joining together: an individually unchanged unit, single co-chaining disconnecting, across bi-tunneling within the same NI momentary, and the subsequent material availability. The most useful next relation is the particular co-chaining's binary disconnecting and possible across partner exchange, then its actual correspondence to ONE and the waist geometry.
+
 ## What is gathered, what is offered, and what remains open
 
-| Continuing value | Present standing | Receiving files |
+| Gathered value | Present standing | Offering destinations |
 |---|---|---|
 | First-nine partition, three 48 pairings and two 96 decompositions | Exact arithmetic on the specified names and prime correspondence. | Numbers, [Exhibit ONE v391](https://github.com/chris-j-handel/corus/blob/69d802c8036b08a14e74d6579cdda08b6a66f96b/Exhibit_ONE_Natural_Resolver_v391.md), THIRTY |
 | Six roles as four across/two along and three sharing/three observing | Source role map; literal male/female cone geometry remains proposed. | [Exhibit ONE v391](https://github.com/chris-j-handel/corus/blob/69d802c8036b08a14e74d6579cdda08b6a66f96b/Exhibit_ONE_Natural_Resolver_v391.md), Naming, Chemistry |
@@ -676,17 +739,37 @@ The current value is a more exact specifying of the proposed binary relation: un
 | Cones, hollow fibers and rh6 | Sample-specific structures or computational candidates; no observed universal three-module atom. | Chemistry, Biology, Naming |
 | Along-connected chains around a hollow channel | Exact illustrative geometry and reported chain assemblies; hollow physical stability, lateral relation and the correspondence to ordinary tube observations remain open. | Chemistry, Physics, ONE |
 | Three folding paths through a waist | Proposed single co-chaining disconnecting for bi-tunneling across the same now-existing momentary; floating neutraling unrelationing, with resistance excluded from the specified operation. | Chemistry, ONE, Numbers |
+| Across partner exchange | Exactly two complete pairings under the stated endpoint conditions; physical geometry, the relation to bi-tunneling and additional replenishing remain open. | ONE, Mathematics, Chemistry |
+| Atomic pattern, spectral response and DNA scale | Constituent, arrangement, response, width and length are distinguished; no pure atomic carbon chain is placed inside DNA by this comparison. | Chemistry, Physics, Biology |
+| Corrections and scope | Unchanged constituent and binary across operation preserved; phi-side arithmetic, resistance, atomic wear and measured time are not silently assigned to them. | Naming, Explaining, Exploring, THIRTY |
 | Atom and carbon as one universal referent | The same proposed identity throughout; full physical identification and co-chain into living inception remain open. | Chemistry, THIRTY |
 
-The report's values are offered as one-sentence droplets to Numbers, ONE, THIRTY, Mathematics, Naming, Chemistry, Biology, Societies and Physics. These are incoming values, not amendments to the root living files. The report links to source versions and observations so another working can improve or challenge the joins without reconstructing this transcript. No claim is made that every living file has already received the values or that all relations across the set have been resolved.
+The session's 99 one-sentence droplets are offered across eleven living files, each independently carrying its value rather than requiring the archived report. These remain offerings, not amendments to the root living files; incorporation into the living files and integration into main are distinct later motions.
+
+| Offering destination | Session droplets |
+|---|---:|
+| [Physics](../../carry/Exhibit_EIGHTEEN_Offerings_to_Natural_Physics.md#incoming--atom-carbon-prime-correspondence) | 10 |
+| [Exploring](../../carry/Exhibit_EIGHT_Offerings_to_Natural_Exploring.md#incoming--atom-carbon-prime-correspondence) | 2 |
+| [Mathematics](../../carry/Exhibit_FOUR_Offerings_to_Natural_Mathematics.md#incoming--atom-carbon-prime-correspondence) | 9 |
+| [ONE](../../carry/Exhibit_ONE_Offerings_to_Natural_Resolver.md#incoming--atom-carbon-prime-correspondence) | 17 |
+| [Biology](../../carry/Exhibit_SEVENTEEN_Offerings_to_Natural_Biology.md#incoming--atom-carbon-prime-correspondence) | 5 |
+| [Societies](../../carry/Exhibit_SEVEN_Offerings_to_Natural_Societies.md#incoming--atom-carbon-prime-correspondence) | 3 |
+| [Chemistry](../../carry/Exhibit_SIXTEEN_Offerings_to_Natural_Chemistry.md#incoming--atom-carbon-prime-correspondence) | 25 |
+| [THIRTY](../../carry/Exhibit_THIRTY_Offerings_to_Co-Chaining_Logic_Registry.md#incoming--atom-carbon-prime-correspondence) | 8 |
+| [Numbers](../../carry/Exhibit_THREE_Offerings_to_Natural_Numbers.md#incoming--atom-carbon-prime-correspondence) | 12 |
+| [Explaining](../../carry/Exhibit_TWELVE_Offerings_to_Natural_Explaining.md#incoming--atom-carbon-prime-correspondence) | 2 |
+| [Naming](../../carry/Exhibit_TWENTY_Offerings_to_Natural_Naming.md#incoming--atom-carbon-prime-correspondence) | 6 |
+| **Total** | **99** |
+
+The closing review retains the session's numerical and geometrical work, source conditions, discarded interpretations, current proposal and unresolved joins. The report records a broad targeted gathering, not all science, every living file or an exhaustive audit of the original incoming PDF's sources.
 
 ## The next connected work
 
-1. **From arithmetic to operation:** carry the three prime pairings centred at 24 into the resolver's actual succession, preserving the distinction between name, prime value, fold and momentary.
-2. **From three orientations to an along passage:** carry the new six-form recurrence into actual coupling, and carry the compatible rigid-copy joining through the remaining across relations and the physical body's channel; the filled-octahedron construction obstructs its own screw axis.
-3. **At the channel:** carry the proposal of only-along material connections into actual across co-chaining, keeping the axial passage unoccupied and naming the relations maintaining the winding and spacing; the reported carbon-chain bundles and ordinary tube measurements remain separate incoming observations to cohere.
-4. **At the stable form:** carry the unchanged-unit premise through a particular co-chaining's binary disconnecting for bi-tunneling across the same now-existing momentary, keeping floating neutraling unrelationing distinct from the separate measured friction observations.
-5. **At the prime scales:** name the living participants and actual inward receiving around atom 5, rather than treating a numerical ladder as an already observed coupling.
-6. **At the observations:** keep preparation, imposed constraints, recorded changes and timing attached to each incoming match, including the cup-stack/helix mismatch and pauses in external nourishment.
+- **First, the particular co-chaining:** carry whether across bi-tunneling exchanges along continuations while each co-chaining is binary and the constituent unchanged, within the same now-existing momentary; preserve ONE's actual 6 → 2 and 10 → 14 across relations and 9 → 17 along relation without equating their names to the four illustrative ends.
+- **Through the waist:** carry that operation through the three folding paths, specifying the participating co-chainings and any available counterparts without assuming all three disconnect together, adding resistance, or turning one momentary into a measured duration.
+- **Through the spatial form:** carry the three-orientation rigid-copy construction into the remaining actual couplings and an unoccupied channel; its compatible along joining does not require phi, and the separate phi-side recurrence supplies no physical condition.
+- **Into Natural Numbers:** join the actual operation to the three prime pairings centred at 24, the 48 and 96 decompositions and the relevant four-cycling, keeping prime positions, values, folds and momentaries distinct.
+- **Across living scales:** carry the actual participating selves, inward ingestion, outgoing material and local reuse around the non-living atom, including the unresolved lowest living rung.
+- **With every observing:** preserve preparation, recorded response, interpretation and timing, including contrary hands, different fiber forms, spectral differences and pauses in external nourishment.
 
-For continuing sharing, update this same report and its targeted offerings when a new relation or concern has been gathered; retain the current branch and PR links while receiving is pending. At the working's close, follow the expedition's incoming-to-archive workflow and leave each living value at the offerings of its receiving file. This record is maintained by explicit updates during work; no background synchronization or automatic delivery into other conversations is claimed.
+The working is closed for offering through PR #154. Its values stand at the living files' offerings; this report stands at `archive/atom-carbon-prime-correspondence/Natural_Numbers_Atom_Carbon_Exploring_Report.md`. The branch remains available while integration into main is pending. A future session begins at the relevant offerings and current living files, with this archived record available to recover the exact calculations and source conditions. No background synchronization or automatic delivery into other conversations is claimed.

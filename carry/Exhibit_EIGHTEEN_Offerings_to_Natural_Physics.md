@@ -252,7 +252,7 @@ Exhibit EIGHTEEN Natural Physics Offerings · improved at v389
 
 ## Incoming · atom-carbon-prime-correspondence
 
-[Whole gathering](../incoming/atom-carbon-prime-correspondence/Natural_Numbers_Atom_Carbon_Exploring_Report.md).
+[Archived exploration record](../archive/atom-carbon-prime-correspondence/Natural_Numbers_Atom_Carbon_Exploring_Report.md); the droplets below stand independently.
 
 - **Natural Physics, atom and instrument · Width as a relation:** carbon radii near 76, 73 and 69 pm inferred from crystal bond distances belong to specified bonding environments, while an equivalent-rod thickness in a carbyne calculation belongs to its model, neither being a directly imaged hard atomic boundary (Cordero et al., 2008, doi:10.1039/B801115J; Liu et al., 2013 with 2017 correction, doi:10.1021/acsnano.7b02463). — atom-carbon-prime-correspondence
 
@@ -267,3 +267,9 @@ Exhibit EIGHTEEN Natural Physics Offerings · improved at v389
 - **Natural Physics, instrument and connection · Pattern with response:** atomically resolved honeycomb images and current–voltage measurements on the same carbon tubes constrain an along-only account together, while neither an outline nor a single image is an independent count of all chemical bonds (Odom et al., 1998, Scanning tunneling microscopy and spectroscopy studies of single wall carbon nanotubes). — atom-carbon-prime-correspondence
 
 - **Natural Physics, spiral hand · Spatial and sequential:** both right- and left-handed arrangements among 86 measured carbon tubes remain incoming to any universal right-spiraling proposal, and the post-growth spatial characterization does not itself supply atom-by-atom forming order (doi:10.1038/ncomms3205). — atom-carbon-prime-correspondence
+
+- **Natural Physics, atomic response · Spectral observations and assignments:** neutral-carbon wavelength, intensity and isotope-shift records remain incoming alongside their instrument uncertainties and scientific state assignments, without an image of a hard atomic outline or one continuous record of an individual atom through every listed state (Haris and Kramida, 2017, Critically Evaluated Spectral Data for Neutral Carbon). — atom-carbon-prime-correspondence
+
+- **Natural Physics, mass-based instruments · Keep the measurement chain:** questioning mass as a universal scale leaves measured signals, calibration and isotope assignments to be carried explicitly, rather than discarding the observations or treating the proposed alternative account as already derived. — atom-carbon-prime-correspondence
+
+- **Natural Physics, folding sheets · Spatial twist and timing:** prepared stretched sheets develop self-contact and concentrated winding with changing measured torque, while variable fold number and twist per unit length supply neither a universal threefold atom nor a timed binary co-chaining cycle (Chopin and Kudrolli, 2022, doi:10.1126/sciadv.abi8818). — atom-carbon-prime-correspondence

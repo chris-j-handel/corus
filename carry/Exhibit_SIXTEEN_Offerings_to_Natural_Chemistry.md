@@ -421,7 +421,7 @@ Contradiction, the living and the non-living: Natural Biology draws the line the
 
 ## Incoming · atom-carbon-prime-correspondence
 
-[Whole gathering](../incoming/atom-carbon-prime-correspondence/Natural_Numbers_Atom_Carbon_Exploring_Report.md).
+[Archived exploration record](../archive/atom-carbon-prime-correspondence/Natural_Numbers_Atom_Carbon_Exploring_Report.md); the droplets below stand independently.
 
 - **Natural Chemistry §§1.1 and 1.6 · One proposed atom/carbon identity:** atom and carbon are carried here as two names for the one universal non-living stable form being explored, with the numerical co-chain from corus and surface to that one referent still being joined. — atom-carbon-prime-correspondence
 
@@ -464,3 +464,11 @@ Contradiction, the living and the non-living: Natural Biology draws the line the
 - **Natural Chemistry, folding correspondence · Binary disconnecting:** the current proposal carries bump disconnecting of single co-chainings for bi-tunneling across the same now-existing momentary, with unchanged atom/carbon and floating neutraling unrelationing betweens rather than graduated resistance. — atom-carbon-prime-correspondence
 
 - **Natural Chemistry, graphite contact · Separate incoming observings:** measured friction changes with relative angle in prepared graphite contacts remain incoming observations to cohere, without assigning resistance to the proposed binary co-chaining or identifying those readings with floating neutraling unrelationing (doi:10.1103/PhysRevLett.92.126101; doi:10.1103/PhysRevLett.108.205503). — atom-carbon-prime-correspondence
+
+- **Natural Chemistry, atomic pattern · The constituent's form:** an imaged hexagonal arrangement contains several atomic sites and is not a hexagonal outline of each atom, so tube structure and changes of assemblies must remain distinct from the proposed wholly unchanged constituent. — atom-carbon-prime-correspondence
+
+- **Natural Chemistry, long carbon chains · The host belongs to the observing:** chains reported beyond 6,000 atoms formed inside double-walled carbon nanotubes, so their length does not establish the same free-standing ambient persistence (Shi et al., 2016, doi:10.1038/nmat4617). — atom-carbon-prime-correspondence
+
+- **Natural Chemistry, bending stable material · Constituent and specimen:** diamond nanoneedles recovered after imposed bending with local tensile strains approaching 9% inferred from specimen geometry and finite-element analysis, an assembly-scale response rather than direct measurement of one atom changing form (Banerjee et al., 2018, doi:10.1126/science.aar4165). — atom-carbon-prime-correspondence
+
+- **Natural Chemistry, three and six orientations · The observed participant:** a rotor with two carbon atoms gives three distinguishable orientations and six after one hydrogen is isotopically distinguished, carrying a specific molecular symmetry relation rather than six carbon modules or a derivation of ONE's recursionings (Stolz et al., 2020, doi:10.1073/pnas.1918654117). — atom-carbon-prime-correspondence

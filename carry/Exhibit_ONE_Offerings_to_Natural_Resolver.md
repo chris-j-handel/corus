@@ -80,7 +80,7 @@ Exhibit ONE Natural Resolver Offerings · resolved at v391
 
 ## Incoming · atom-carbon-prime-correspondence
 
-[Whole gathering](../incoming/atom-carbon-prime-correspondence/Natural_Numbers_Atom_Carbon_Exploring_Report.md).
+[Archived exploration record](../archive/atom-carbon-prime-correspondence/Natural_Numbers_Atom_Carbon_Exploring_Report.md); the droplets below stand independently.
 
 - **Natural Resolver, four bi-foldings · Prime positions:** the correspondence from each name to its prime carries the existing four bi-foldings and their returns by position, with operations and odd/even attached to those positions and no numerical summing of working parities introduced into the resolver. — atom-carbon-prime-correspondence
 
@@ -109,3 +109,9 @@ Exhibit ONE Natural Resolver Offerings · resolved at v391
 - **Natural Resolver, bumping · Relative movement:** common rigid rotation preserves internal contact geometry among the co-rotating parts, so successive internal encounters require relative motion or another changing constraint. — atom-carbon-prime-correspondence
 
 - **Natural Resolver, same now-existing momentary · Across bi-tunneling:** the proposed bump disconnects a single co-chaining all or none for across bi-tunneling within the same now-existing momentary, without introducing a resistant intermediate, a separate later along step or a requirement that all three folding paths disconnect together. — atom-carbon-prime-correspondence
+
+- **Natural Resolver, across and along · Partner exchange as a possibility:** two along chains can exchange onward partners without adding a permanent sideways branch in the stated endpoint construction, while ONE's 6 → 2 and 10 → 14 across and 9 → 17 along retain their own roles rather than becoming those four illustrative endpoints. — atom-carbon-prime-correspondence
+
+- **Natural Resolver, a particular between · What changes in complete partnering:** every end can have a partner in both complete pairings while particular co-chainings change from is to is-not, so coupled occupancy alone does not distinguish which participants co-chain and the correspondence to working parity remains to be carried. — atom-carbon-prime-correspondence
+
+- **Natural Resolver, across exchange · Available counterpart:** if every other coupling and the available-end set remain unchanged, one isolated disconnection can only restore its original pairing, so an across exchange requires another available counterpart or another co-chaining co-changing. — atom-carbon-prime-correspondence
