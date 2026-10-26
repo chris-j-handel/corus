@@ -6,6 +6,8 @@ Gathering-Value · Natural Biology
 
 ## Head, the whole file
 
+- In many animals a self lives with three stable forms: a genome inside each cell, an artifact of prior living, spiralling around its histone cores; carbon going through, a body's ingesting and exhausting of it along a tunnel opening through the body at its forming; and a shell or skeleton outside, a stable form the animal lays from its inception, a conch's spiral the clearest. Inside, through and outside, each a stable form a living goes on with and none a living, and between each stable form and its neighbour a supple between, protein, water, a weak sharing, taking each changing, and no stable form inflicting a changing on another while they co-exist. A possible tri-cycling of stable forms around one living self, pattern and gap, its involutioning at a body's forming. *(possible exploring)*
+
 ## Opening
 
 ### 1.1 A living self, and the coupling it is
@@ -58,6 +60,8 @@ Gathering-Value · Natural Biology
 
 ### 3.7 Structural-protein surface — a matrix as a living set: a self
 
+- A conch's shell, Strombus gigas, is some 99 percent aragonite, a calcium carbonate, and under 1 percent protein, three mineral layers in a crossed lamellar structure with a protein matrix between them; it is 10 to 30 times stronger than pure aragonite and as much as 1,000 times tougher, many cracks along its lamellar interfaces dissipating energy, and in its outer layers microcracks shielding each other, its middle layer's lamellae going as reinforcing bars. The nacre of Pinna nobilis has tablets a few hundred nanometres across in a thin organic layer: under a force the organic layer moves aside and the tablets lock together, and when the force goes the nacre springs back, losing none of its resilience over impact after impact up to 80 percent of its yield strength, a crack staying within one layer. Hard pieces and a supple between, pattern and gap: the between takes a changing, and the pieces co-exist with no piece inflicting a changing on its neighbour. *(possible exploring)*
+
 ### 3.8 Six physical bi-foldings — where a self is observing a differential out of plane
 
 ### 4.1 Living and non-living — a virus and a prion
@@ -74,11 +78,15 @@ Gathering-Value · Natural Biology
 
 ### 4.7 DNA replication and repair — the self copying itself, and the protection of the copying
 
+- In a eukaryote's cells a genome's stable form spirals in stretches around histone cores: about 146 base pairs of DNA wind 1.65 turns, a left-handed superhelix, around a histone octamer, two each of H2A, H2B, H3 and H4. Within a double helix two strands go in opposite directions, A with T and G with C, each strand's sequence the other's complement, a male and a female piece; along each strand its links are strong and between the strands its sharing is weak, and the two strands co-exist, opening apart and coming together again, each strand's own links staying strong through the opening. A bi-connector of complementary pieces, protecting by spiralling, a weak between taking the changing. *(possible exploring)*
+
 ### 5.1 Conception — two selves conceiving a third
 
 ### 5.2 A self recursioning into a new form — development and metamorphosis
 
 ### 5.3 Morphogenesis — form as the coupling resolving
+
+- At gastrulation in Xenopus a ball of cells folds inward, cells rolling in over a lip, a field's own word involution; in many animals the gut that follows runs through a body from mouth to anus: a sphere of genus nought forming as a body of genus one, a torus, its tunnel the way of ingesting and exhausting. A body's natural torusing is physical at its forming, involutioning and volution together, co-chaining along its tunnel and bi-tunneling across its surface, carbon going through it. *(possible exploring)*
 
 ### 5.4 Body hand from a molecular hand — left-right asymmetry
 
