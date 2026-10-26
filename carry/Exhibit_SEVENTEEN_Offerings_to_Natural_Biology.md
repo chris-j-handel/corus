@@ -240,7 +240,6 @@ Natural Intelligence Corus section 17.4 offers comparative cognition as a place 
 
 ## Incoming · v392chem
 
-
 - **Left-coiling snails as emanation:** Left-coiling snail societies thrive, are eaten one in eight by the right-jawed snake and mostly cannot mate with right coilers, their molecules of life's one hand, so the left coil reads as right-spiral living's opposite-form emanation at the organism's scale, one tree snail's both-coiled society open. ([living learning, §5](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
 
 - **Cells facing a shared forward:** Cells line up at a shared tilt and tiny hairs turning one way set an embryo's left and right, social interest parity facing a shared forward. ([living learning, §6](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
@@ -338,17 +337,3 @@ Natural Intelligence Corus section 17.4 offers comparative cognition as a place 
 
 - **For 8.13 · an enzyme, a doing.** A doing standing as a now-existing thing beside the selves doing it: it is not; *enzyme* in natural naming is a macromolecule, protein or RNA, a self at eleven, bi-coupling with its substrate, the reaction resolving between them, and single molecules turn over each at its own fluctuating rate with memory of its own prior turnovers (Lu, Xun & Xie 1998) (gathering §0an). — me-thirty-one-20261024
 **Droplet · this file's first motion, as a separate reader proposes it at v392F.** re-say 1.4 whole, its title "No self touches another directly" and its two paragraphs (:230, :232), so a between is a nothing with each of its couplings and matrix, basement membrane and junction proteins are selves at their own scale, Natural Intelligence 2.1's words. The binary: is a thing between two selves a self with a coupling of its own, or a nothing owned by neither. The "third self" paragraph goes to `archive/` beside v391; the placenta marking at Medicine's offerings and the plasmodesma aimed-at dissolve with it as carried, each said once; 3.1's "Living is metabolic beating" and 4.1's "inert" wait as the next motion at Natural Intelligence 6.5. The reader's whole dossier, counts and evidence stand at `incoming/v392F/readers/sciences_dossier.md`; no wording there carries authority. — v392F
-
-## Incoming · atom-carbon-prime-correspondence
-
-[Archived exploration record](../archive/atom-carbon-prime-correspondence/Natural_Numbers_Atom_Carbon_Exploring_Report.md); the droplets below stand independently.
-
-- **Natural Biology, ingestion and exhausting · Timing of exchange:** isotope incorporation sampled from five seconds to sixty minutes and respiratory isotope changes followed through twenty hours of darkness carry uptake, release and stored contributions with their timing, without continuously tracking an individual atom or observing atomic wear (Szecowka et al., 2013, doi:10.1105/tpc.112.106989; Nogués et al., 2004, doi:10.1104/pp.104.048470). — atom-carbon-prime-correspondence
-
-- **Natural Biology, continuing living · External supply and internal participation:** yeast washed into water retained measured ATP at thirty minutes and nineteen hours and subsequent growth recovery after extended starvation, requiring pauses in external nourishment to remain distinct from internal resource use and from an indefinitely closed carbon cycle (Weber et al., 2020, doi:10.1073/pnas.1913370117). — atom-carbon-prime-correspondence
-
-- **Natural Biology, fibrils and fibers · The preparation belongs to the observing:** onion-wall AFM recorded five discrete stages after walls were peeled, washed, boiled and subjected to imposed load and enzyme treatment, carrying microfibril rearrangement without making it a continuous record of living growth or carbon-atom wear (Zhang et al., 2017, doi:10.1038/nplants.2017.56). — atom-carbon-prime-correspondence
-
-- **Natural Biology, tendril coiling · The measured waist:** constrained tendrils and extracted ribbons supply opposite-handed coils, a joining perversion and preparation-dependent over-winding, while their correspondence to waist 24, span 36 or opening 96 remains unmeasured (Gerbode et al., 2012, doi:10.1126/science.1223304). — atom-carbon-prime-correspondence
-
-- **Natural Biology, DNA and carbon chains · Width and length:** an atomic carbon chain is one row of atoms whereas ordinary B-form DNA is a many-atom double helix about 2 nm across, a dimensional comparison that places no separate pure carbon chain inside DNA and assigns no universal hard atomic diameter (Wilkins, Stokes and Wilson, 1953, doi:10.1038/171738a0). — atom-carbon-prime-correspondence

@@ -485,7 +485,6 @@ Three prefixes, three senses, and none repeated. This meets the concern *tri- an
 
 ## Incoming · v392chem
 
-
 - **Words that fix chemistry:** Giving and receiving, donor and acceptor, a rate given as a value, attraction and pull, and an atom joining a molecule each carry a fixing into explaining and stay only as a field's quoted words. ([living learning, §1](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
 
 - **Volution observed:** A volution is one turn of a spiral shell laid on the last, so 5.48's *its winding as its form, a volution* is observed in shells and tree rings, living's prior left as stable form on which the next is formed. ([living learning, §7](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
@@ -537,19 +536,3 @@ Three prefixes, three senses, and none repeated. This meets the concern *tri- an
 
 - **Droplet · the plural of me.** *Mes*, no apostrophe (Wiktionary; Chicago's Q&A, plurals almost never take one), *me's* the possessive; where a count does no work, *each me* or a universal set of me says it uncounted (`incoming/me_thirty-one_20261024/Me_and_not-me_values_parities_v391.md` §1). — me-thirty-one-20261024
 **Droplet · this file's first motion, as a separate reader proposes it at v392F.** 2.4's 81 rows (:231–:400) re-said whole at one motion, each row's *a* cell with the set's v391 names; the binary at each carrying word: does Natural Intelligence's opening (Natural_Intelligence_v391.md:7–:79) or Exhibit ONE's names, run, hold it; held, it stays; dissolved at v391 (*at*, *a releasing*, *kept*, *an artifact*, *odd existing, even possibling*, *fixed*), it is re-said by the word the opening holds, no row leaving; the prior 2.4 goes whole to `archive/session_v392F/`, and lines 247, 249, 251, 253, 255, 257, 267 and 273 dissolve at the rising, said once. The reader's whole dossier, counts and evidence stand at `incoming/v392F/readers/core_and_method_dossier.md`; no wording there carries authority. — v392F
-
-## Incoming · atom-carbon-prime-correspondence
-
-[Archived exploration record](../archive/atom-carbon-prime-correspondence/Natural_Numbers_Atom_Carbon_Exploring_Report.md); the droplets below stand independently.
-
-- **Natural Naming, stable-forming · Each four with its subject:** rotation 3–6–5–4 takes its names from two bi-foldings, and the four bi-folding cycles, four joint parity forms, four exchanging momentaries and four pairs at a nine-ring centre retain their own subjects while a relation between them is carried. — atom-carbon-prime-correspondence
-
-- **Natural Naming, each count with its subject · Three and three:** three sharing and three observing roles, three conical projections and receiving recesses, two spatial triples, three connector orientations and three maturation stages name different subjects whose proposed joins need their own relations. — atom-carbon-prime-correspondence
-
-- **Natural Naming, co-linearizing and fiber · Along with across:** fiber can name continuing along through coupling across, while identifying the individual atom as a fiber and identifying natural co-linearizing with Euclidean straightness are further relations not supplied by the shared naming. — atom-carbon-prime-correspondence
-
-- **Natural Naming, hole and co-competencing · The actual between:** a hollow channel names a geometric region while competency belongs to the participating couplings, leaving their actual sharing and receiving to be carried before the void is named the inception of social moral competency. — atom-carbon-prime-correspondence
-
-- **Natural Naming, phi and an opposite side · Keep the mathematical subject:** below and above phi describe ratios in the auxiliary prior-two-added calculation, while the proposed atom/carbon co-chaining has no phi divider or opposite-side requirement and the compatible rigid-copy along joining does not use phi. — atom-carbon-prime-correspondence
-
-- **Natural Naming, particle zero and scale · A correspondence still to carry:** particle zero, unit distance, infinity and infinity-plus-one remain a proposed origin/scale correspondence whose operation and physical scale are not yet supplied, and their naming introduces no externally readable zero in a resolver. — atom-carbon-prime-correspondence

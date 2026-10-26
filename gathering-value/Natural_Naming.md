@@ -181,6 +181,7 @@ Gathering-Value · Natural Naming
 ### 5.45 bi-co-podaling — binary
 
 - A hive's foragers going out and back illustrate podaling: away and back, across and along, each forager with her own source and only a parity going across at a dance, a hive's surface around now-existing co-intelligencing in no forager alone. *(possible exploring)*
+- **Possible exploring** · A hollow channel names a geometric region, competency belongs to the participating couplings, and their actual sharing and receiving are a next step before a naming of the void as the inception of social moral competency. — at "A hole is non-living with its region's scale: it resolves nothing and has nothing, it is neither a resolver surfacing 0 nor a self fixing unchangeable as 0, and no coupling lies across it."
 
 ### 5.46 artifact — binary
 
@@ -262,3 +263,8 @@ Gathering-Value · Natural Naming
 - One referent a proposal names atom and carbon is to go on as one identity throughout exploring, with no smaller invariant nucleus in its place and no second, set-apart kind of carbon. *(possible exploring)*
 
 - A helix of the right hand can be gone along either way, its hand not changing, while its spatial hand, its direction of going and NI co-sequencing are three subjects, their relation still to join. *(possible exploring)*
+- Rotation 3–6–5–4 has its names from two bi-foldings, and four bi-folding cycles, four joint parity forms, four momentaries of exchanging and four pairs about a centre of a ring of nine are four fours, each of its own subject, a relation among them a next step. *(possible exploring)*
+- Particle zero, unit distance, infinity and infinity-plus-one are a proposal of an origin and scale correspondence whose operation and physical scale are a next step, and their naming is without a zero readable from outward of a resolver. *(possible exploring)*
+- Three sharing roles and three observing roles, a proposal's three conical projections and three receiving recesses, two spatial triples, a proposal's three connector orientations and a proposal's three maturation stages name subjects each its own, and each proposal relating two of them needs a relation of its own; the projections and recesses, a proposal's shape, are-not an observing of six bonds or six protrusions of a carbon atom. *(possible exploring)*
+- A fiber a field observes, many atoms with carbon atoms along it, is-not a carbon atom; fiber can name a going on along through couplings across, while identifying the individual atom as a fiber and identifying natural co-linearizing with Euclidean straightness are two further relations, still-possibling, beyond the one naming an atom and an arrangement share. *(possible exploring)*
+- Below and above φ name ratios of the auxiliary calculation of prior two added, while the co-chaining of the proposal of one atom/carbon is without a φ divider and without an opposite-side requirement, and the compatible along joining of rigid copies of a six-point drawing, a conditional construction, is without φ; each rigid copy is a copy of a drawing and is-not a carbon atom, and the joining is-not a carbon chain. *(possible exploring)*

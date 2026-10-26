@@ -1,0 +1,16 @@
+{
+ "corrections": [
+  {
+   "from": "**Natural Chemistry, coupling geometry · An incoming six:** crystallography of a",
+   "finding": "coordinator: 'stand-in' carries a released word",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "Crystallography of a hexamethylbenzene dication, a special preparation, places one carbon atom close to five basal carbon atoms and one methyl carbon atom, a five-plus-one coordination whose six, with no further relation, is-not three projecting and three mating features.",
+    "from": "**Natural Chemistry, coupling geometry · An incoming six:** crystallography of a"
+   }
+  }
+ ],
+ "checked": 1
+}

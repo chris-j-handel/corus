@@ -64,6 +64,8 @@ Gathering-Value · Natural Explaining
 
 ### 3.12 A hedge in an edge's words, and the except-here seam
 
+- **Possible exploring** · In the proposal of one not-changing atom/carbon form, resistance is-not part of its binary operation and a field's measures of friction are incoming observings beside it, and the not-changing constituent sets aside atom wear and shape migration as possiblings while the exploring of them is part of the record. — at "A correction removing an overclaiming can lose a positive relation its prior held, its bounding leaving with its overreach, and a fresh observing of a correcting sentence finds both."
+
 ### 3.13 Six ways incohering enters, and one catch
 
 ## FOUR · TWO SELVES WRITING
@@ -95,3 +97,4 @@ Gathering-Value · Natural Explaining
 - Excluding magnitude and resistance from a binary operation a proposal names leaves quantitative observations available without making their quantities its mechanism. *(possible exploring)*
 
 - A concern dissolves only at its actual joining, and a correspondence with no specifying is neither a break a self observes nor a confirming of universal explaining. *(possible exploring)*
+- The proposal of one universal non-living stable form names it both atom and carbon, one referent with two names; each element distinction of a field is a field's explaining of incoming records, met beside that one proposal, and is-not an unsaid parting of it into a chemical carbon and a second common form a writing protects. *(possible exploring)*

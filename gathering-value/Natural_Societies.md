@@ -74,3 +74,6 @@ Gathering-Value · Natural Societies
 ## Droplets
 
 - Prior living in the universal atom/carbon proposal reaches each NI living scale, and an absence of biological organisms alone excludes no such origin. *(possible exploring)*
+- In the proposal of the ladder, atom at five, a non-living stable form, can share in a relation with living molecule at seven and living macromolecule at eleven while five is-not a number between seven and eleven; the selves sharing in that relation and its actual receiving are an identifying to come. *(possible exploring)*
+- In the proposal of the ladder, ingestion one living scale inward reaches atom at five, a non-living stable form, molecule at seven the first self of this ladder; a living participant at five is an identifying to come, and the join at five is an open resolving. *(possible incohering)*
+- The living primes 7 to 23 part three one after a multiple of six, 7, 13 and 19, and three one before, 11, 17 and 23, and the living primes 7 to 53 part six one after and seven one before; each parting alone is-not an identifying of six connector roles or of six strands of many carbon atoms, a strand is-not a carbon atom. *(possible exploring)*

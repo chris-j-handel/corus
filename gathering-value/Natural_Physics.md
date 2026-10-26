@@ -34,6 +34,8 @@ Gathering-Value · Natural Physics
 
 ### 3.1 An atom a stable form, and periodic table its catalog
 
+- **Possible exploring** · Carbon radii of about 76, 73 and 69 pm, which a field infers from crystal bond distances, belong each to its own bonding environment, and an equivalent-rod thickness a calculation gives for carbyne, a chain of carbon atoms that is-not one carbon atom, belongs to its model; each is-not a hard carbon-atom boundary an image records directly. — at "What chemistry measures with a bond is a catalog again, lengths and energies landings of a winding that lands nowhere, working it to its edge here and bringing it to Chemistry's turn."
+
 ### 3.2 Superheavy elements, observing three magic centres as one three-fold
 
 ### 3.3 Light, a phase relation between couplings
@@ -111,3 +113,12 @@ Gathering-Value · Natural Physics
 - Different atomic spectral responses remain incoming to one universal atom/carbon explaining, with lines a field measures, states it infers and transitions it calculates, each its own standing. *(possible exploring)*
 
 - A reading of carbon breakup records against the proposal is to suppose no invariant nucleus, a nucleus a part within a carbon atom and is-not the atom, while the products a field records still ask the proposal's explaining. *(possible exploring)*
+- A polygonal helix obeys ℓ² = h² + 4R² sin²(θ/2), and with segment length and angular step not-changing, axial rise can increase as radius decreases, if turning can change; this geometry is-not a proving that it is the mechanism of a carbon tube's deformation a field measures, a tube of many carbon atoms. *(possible exploring)*
+- Honeycomb images at atomic resolution and current–voltage measurements on the same carbon tubes, each tube many carbon atoms, constrain an along-only account together, and an outline is-not an independent tally of all chemical bonds, a single image alike. *(possible exploring)*
+- Both spiral hands among 86 carbon tubes a field measures, each tube many carbon atoms, are incoming to any proposal of a universal right-spiraling, and a spatial characterizing of the tubes after growth is-not a supplying of an atom-by-atom forming order. *(possible exploring)*
+- Neutral-carbon wavelength, intensity and isotope-shift records are incoming to the proposal of one atom/carbon together with their instrument uncertainties and a field's state assignments, and this record is-not an image of a hard atomic outline and is-not one unbroken record of an individual carbon atom through each state it names. *(possible exploring)*
+- Questioning mass as a universal scale asks for the signals a field measures, their calibration and their isotope assignments to go along explicitly, with the observations in place and the alternative account a proposal, its derivation a step to come. *(possible exploring)*
+- AFM bond-like contrast appears both at an intermolecular bond a field assigns and at places with that bond absent, and the tip's response and flexibility need to accompany the observing; a thin image line alone is-not a proving of a physical fiber, one carbon atom's or many atoms', and is-not a proving of its width. *(possible exploring)*
+- Atom-thin gold bridges and the reversible rippling of boron nitride tubes are material connections and flexible shells outside carbon, and the rippling, with a bending strain a geometric estimate puts at about 26%, is a relation distinct from uniform axial extension. *(possible exploring)*
+- Radial flattening with recovery, the sliding of one shell within another, and hot plastic narrowing of carbon nanotubes, each tube many carbon atoms and each is-not a carbon atom, are distinct relations, and a joining of each to a not-changing constituent stable form is to bring along that changing's own preparation and the response a field measures for it. *(possible exploring)*
+- Elastic sheets a preparation sets under stretch and twist, each sheet of many atoms and each is-not a carbon atom, develop self-contact and winding gathering into a few places, with the torque a field measures changing, and a variable fold number and twist per unit length is-not a supplying of a universal threefold atom and is-not a supplying of a binary co-chaining cycle with its timing. *(possible exploring)*

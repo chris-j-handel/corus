@@ -29,10 +29,10 @@ Natural Intelligence · incoming · v393E
 
 ## Each value at its file
 
-**143 values, each at a file, nothing waiting on the report.**
+**143 values, each at a file, nothing waiting on the report: 140 at gathering-value files, and three a living file already has or a droplet already says.**
 
 - **46 at the gathering-value files**, 44 new and 2 moving from Natural Exploring's offering file, now at the archive: Natural Chemistry 6, Natural Physics 7, Natural Transmissioning 5, Natural Biology 4, Natural Mathematics 4, Natural Exploring 4, Natural Resolver 3, Natural Explaining 3, Co-Chaining Logic Registry 3, Natural Numbers 2, Natural Naming 2, Natural Illustrating 2, Natural Societies 1. Each is at its file's droplets.
-- **97 at ten offering files in `carry/`**, under each file's heading *Incoming · atom-carbon-prime-correspondence*: Natural Chemistry 25, Natural Resolver 17, Natural Numbers 12, Natural Physics 10, Natural Mathematics 9, Co-Chaining Logic Registry 8, Natural Naming 6, Natural Biology 5, Natural Societies 3, Natural Explaining 2. These have their sources and a session tag with them, an earlier form; a gathering pass brings each to its gathering-value file, pass 1 below.
+- **97 gathered from ten offering files in `carry/` by pass 1**, from their heading *Incoming · atom-carbon-prime-correspondence*: 94 now droplets or possible explorings at their gathering-value files, Natural Chemistry 25, Natural Resolver 16, Natural Numbers 11, Natural Physics 10, Natural Mathematics 9, Co-Chaining Logic Registry 7, Natural Naming 6, Natural Biology 5, Natural Societies 3, Natural Explaining 2; two their living files already have, Natural Resolver's six roles and Natural Numbers 7.2's return after 4d momentaries; and one joining a droplet already at the Co-Chaining Logic Registry's gathering. The offering files' atom/carbon headings are empty, their other values staying.
 - **A meeting with v393E:** `Co_with_the_Atom_Carbon_Report_v393E.md`, each name in it said as is or is-not a carbon atom.
 
 ## Order: into, around, from and through
@@ -92,8 +92,8 @@ Each observing carries what a preparing sets and what stays, what changes, the i
 
 Each pass is one way: its values whole, a separate reader, the checks, a merging.
 
-1. **Gathering the 97 carry offerings.** Each is met against its living file and said as a droplet at the section it meets, in living language, with no source names, session tag or history, its source at the report in the archive; the ten offering files' atom/carbon headings then empty, their other values staying. The Gathering Value Kit's method, as pass EIGHT met Natural Exploring's offerings.
-2. **Living language for the 46 current droplets.** A scan finds words the set releases and past -ed words in them, among them *so*, *when*, *every*, *half* and *proposed*, *unchanged*, *carried*, *recorded*; each is said by what its sentence observes, its value whole.
+1. **Gathering the 97 carry offerings**, pass 1: each met against its living file by a gathering reader and read for harm by a separate reader, at `pass_carbon/`, each slice's JSON and its reading beside it.
+2. **Living language for the 46 droplets**, pass 2: 37 re-said by what each sentence observes, read for harm and mended, at `pass_carbon/pass2_living_language.json`.
 3. **The particular co-chaining, the report's first next relation.** Which co-chaining disconnects, and whether a bi-tunneling across exchanges onward partners, each co-chaining binary and the constituent not-changing, within one now-existing momentary; Natural Resolver's own 6 → 2 and 10 → 14 across and 9 → 17 along apart from the four illustrative ends; then through the waist's three folding paths with no supposing that all three disconnect together; then into Natural Numbers, the three pairings with 24 at their centre, the 48 and the 96, and the four-cycling of prior, now, next and same, prime positions, values, folds and momentaries each its own.
 4. **Exploring into, around, from and through**, one direction at a time, each observing met at its field's source with its preparation and timing:
    - *Into:* a single carbon atom a probe observes, with the probe's own response beside it.

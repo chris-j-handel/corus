@@ -54,6 +54,8 @@ Gathering-Value · Natural Biology
 
 ### 3.3 A left form is the emanation form of one right spiral
 
+- **Possible exploring** · Tendrils a preparation constrains and ribbons a preparation extracts from them supply coils of opposite hand, a perversion joining them, and an over-winding depending on the preparation; their correspondence to the proposal's waist 24, span 36 or opening 96 is-not a field's measure, and awaits one. — at "A cucumber tendril, once its tip grips, coils as two helices of opposite hand a perversion joins, net twist nothing, equal and opposite sides coupling with an empty centre (Darwin 1865; Gerbode and colleagues, Science 2012)."
+
 ### 3.4 Hand goes both ways, and observing homochirality as a sway
 
 ### 3.5 Lipid divide — the deepest binary sharing, across and both ways
@@ -79,6 +81,8 @@ Gathering-Value · Natural Biology
 ### 4.5 Circadian clock — changing and changing back, making a beat
 
 ### 4.6 Photosynthesis and respiration — the six sharing with the six
+
+- **Possible exploring** · A field samples isotope incorporation from 5 seconds to 60 minutes and follows respiratory isotope changes through 20 hours of darkness, reading the uptake and release of carbon atoms with their timing and a share of recent and older carbon atoms in a leaf's respiring; its pathway fluxes are a field's modelling, each reading is a population reading across many carbon atoms, and is-not a continuous tracking of one carbon atom or an observing of an atom's wear. — at "Carbon does not land as waste; it cycles between fixing and giving back, conserving, turning on."
 
 ### 4.7 DNA replication and repair — the self copying itself, and the protection of the copying
 
@@ -157,3 +161,6 @@ Gathering-Value · Natural Biology
 - Durability and rare breaking alone are-not the living relation of a me, and a me's stable-form artifact from its kind's prior living and its observing co-chaining are two subjects still to join. *(possible exploring)*
 
 - DNA's pairing geometry can change while the letter names of a pair go on, partner identity and the particular relation between partners being two observings. *(possible exploring)*
+- A preparation peels, washes and boils onion walls and sets a load and an enzyme treatment on them, and atomic force microscopy images microfibril rearrangement in five discrete stages, the preparation part of the observing; a microfibril, chains of many atoms with carbon atoms in them, is-not a carbon atom, and this five-stage imaging is-not a continuous record of living growth or of a carbon atom's wear. *(possible exploring)*
+- A field measures ATP still present in yeast cells a preparation washes into water, at 30 minutes and at 19 hours, and growth recovering after starvation reaching 14 to 21 days; this maintenance after external nourishment pauses is-not an establishing of a cycle of carbon atoms closing indefinitely, and a pause in external nourishment and a self's internal resource use are two observings, each distinct. *(possible exploring)*
+- An atomic carbon chain is one row of carbon atoms and is-not a carbon atom, and ordinary B-form DNA is a double helix of many atoms about 2 nm across, a width a field infers from diffraction, and is-not a carbon atom; this width comparison is-not a placing of a separate pure carbon chain inside DNA, and is-not a universal hard diameter for an atom. *(possible exploring)*

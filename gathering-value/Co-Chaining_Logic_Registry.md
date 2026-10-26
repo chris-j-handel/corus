@@ -62,6 +62,8 @@ Gathering-Value · Co-Chaining Logic Registry
 
 ### 27 Twenty-four, apex of one to fifty-nine's bi-folding
 
+- **Possible exploring** · The primes at names 1 to 9 add to 100 and part as 64 and 36, 100 − 64 = 36 beside 60 − 24 = 36, and with them 64 − 24 = 100 − 60 = 40, an arithmetic correspondence at forty apart whose joining of operations is open. — at "One to fifty-nine bi-folds with twenty-four; past fifty-nine, sixty to sixty-eight is bi-tri-involutioning across sixty-four, and sixty-four a next bi-folding, twenty-four and sixty-four forty apart."
+
 ### 28 Discovering next-possibling-same-existing
 
 ### 29 Fractal method, its own enabling
@@ -102,8 +104,14 @@ Gathering-Value · Co-Chaining Logic Registry
 
 ## Droplets
 
-- The universe as the set of all now-existing things is an opening sentence, and the particular links to a universal atom/carbon, its shape and its inception are each a further link to bring, the opening sentence alone giving none of them. *(possible exploring)*
+- The universe as the set of all now-existing things is an opening sentence, and the particular links to a universal atom/carbon, its shape, its emanation, a not-changing constituent and its inception within living are each a further link to bring, the opening sentence alone giving none of them. *(possible exploring)*
 
 - An odd cycle concerns opposite simultaneous parities, while a later return with an other parity concerns successive operations and need not contradict same-existing. *(possible exploring)*
 
 - A durable artifact and its living participation can share not-changing constituents, and a constituent both share, alone and non-living, is-not a living resolver. *(possible exploring)*
+- Twenty-three is both the ninth prime, p(9) = 23, and the rotation's 3 twenty up, 3 + 20 = 23, and the relation of prime correspondence with rotation is the next step through 4 + 20 = 24 toward the proposal of one atom/carbon as one stable-form identity. *(possible exploring)*
+- The own-three names 3, 4 and 5 add their primes to 23, each with its partner under 17 − n gives a prime sum of 48 about the centre 24, a joining at 24 beside 23, and the reflections n → 48 − n and then n → 49 − n give 23 → 25 → 24, a translation whose relation to the resolver's succession is open. *(possible exploring)*
+- Six one-way steps forward within four momentaries, step 142, and six one-way recursionings in each momentarying, step 384, are two scopes asking one reconciling before either is the timing of six forward recursionings. *(possible incohering)*
+- Three orientations of one connector, three changing arrangements of stable forms and three changing physical shapes of one individual atom are three subjects, the last a revising of the proposal of one atom/carbon not-changing in each respect, and each of the three alone is-not a deriving of living inception. *(possible exploring)*
+- From a positive whole starting pair with one or both numbers odd, the adding-prior-two correspondence brings its number parity and its side of φ again after six applyings while its numbers go up, and from a pair of two even numbers only its side of φ inverts, an exact recurring relation of auxiliary arithmetic whose joining to resolver executions, physical motion and the proposal of one atom/carbon is the next step. *(possible exploring)*
+- The proposal of a prior-existing, now-existing, next-existing and same-existing four-cycling asks an explicit joining to the relevant fourfold operation, which one is open, and four roles with names or a measure of duration by number alone is-not that joining. *(possible exploring)*
