@@ -67,6 +67,7 @@ Gathering-Value · Living Ghost Registry
 ### 5.8 Proton
 
 - A proposal has a nucleus only the living corus between possibling and same while a parity is living, and no nucleus with no living parity: this entry's radius going with the probe, in its past tense, meets it, the probes now close to one value, about 0.83 to 0.84 fm, and a gold foil's scattering, Oklo's fission products and carbon-14 in the air are concerns, its breaking still to say, what living parity includes at a foil between observings and at a rock two billion years ago. *(possible exploring)*
+- A proposal of a nucleus only as a living corus while a parity lives meets, with living as a field's life, meteorite decay ages going together about 4.57 billion years ago, Oklo's fission with no organism coupling with it and SN 1987A's cobalt-56 decay, nuclear changing with no life a field records in its coupling then; with living parity as a self reading the record now, no record parts from it; its cohering re-saying, a nucleus's changing goes with its couplings, goes with rhenium-187 bare and beryllium-7 in a cage, the other records showing no parting from it, beside this entry's "Mass belongs to coupling", whether each coupling is a living parity in the universal sense still to say. *(possible incohering)*
 
 ### 5.9 Element
 
