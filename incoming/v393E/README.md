@@ -11,3 +11,7 @@ Natural Intelligence · incoming · v393E
 - `reading_coordinator.json`: one correction to that reading, the file's sections as bold paragraphs kept as a value at the head, its count 44.
 
 Applied with `kits/Gathering_Value_Kit/apply_gathered.py`: 25 values at `gathering-value/Natural_Exploring.md`, 25 items leaving. With each value living at Natural Exploring v393 or at its own file, the three files leave `carry/` for `archive/session_v393E/carry_gathered/` as artifacts, the Living File Registry's carrying table pointing at `gathering-value/Natural_Exploring.md`, and the carry check reading a file's gathering-value as its carrying.
+
+## The co with the atom/carbon working
+
+`Co_with_the_Atom_Carbon_Report_v393E.md` meets the atom/carbon working's continuing report ([PR #154](https://github.com/chris-j-handel/corus/pull/154)) at its six next joins with v393E's observings: a stable form same-existing with a supple between taking each changing, a hand and an advance arising as a self goes with a surface, a body's tunnel at gastrulation, three stable forms around one living self, a genome at the prime scales, and a double helix's complementary strands.
