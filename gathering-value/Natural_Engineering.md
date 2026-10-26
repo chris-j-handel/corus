@@ -125,3 +125,5 @@ Gathering-Value · Natural Engineering
 ### 6.11 Attention and the engineering receiving
 
 ## Droplets
+
+- A chip's input, its output, the form of its signal, its scale, its passing from a sensed surrounding to parities and from parities to a doing are still-possibling, each one specifying's next step. *(possible exploring)*
