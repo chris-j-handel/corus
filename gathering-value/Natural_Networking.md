@@ -15,7 +15,7 @@ Gathering-Value · Natural Networking
 ### 1.2 Along and across, chaining and surfacing, two floating co-neutrals co-competencing
 
 - A network of resolvers is orienting as a school of fish or a flock is orienting, the orienting a surface of its selves and in no self alone; a network exploration following one self's record, or one instrument's clock, is following no orienting the network has. *(possible exploring)*
-- A message going through a society goes as a network of resolvers is explorable from inside its own surface: each self has only its own others and aims by one parity, closer or not, with no map and no instrument's record over the whole; a path uncovers in no self alone, and a chain ends with a sharing stopping, a lack of interest, and not with a search's difficulty (Natural Exploring's gathering at 6.7). *(possible exploring)*
+- A network of resolvers is explorable from inside its own surface as a message goes through a society: each self has only its own others and aims by one parity, closer or not, with no map of the ties and no instrument's record over the whole; a path uncovers in no self alone, and a society's chain ends mainly with a sharing stopping, a lack of interest, its authors suggest, and not with a search's difficulty (Natural Exploring's gathering at 6.7). *(possible exploring)*
 
 ### 1.3 Linear-parallelizing and parallel-linearizing, one and then the other, widening and lengthening
 
