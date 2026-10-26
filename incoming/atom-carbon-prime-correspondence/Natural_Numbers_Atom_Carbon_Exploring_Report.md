@@ -4,7 +4,7 @@ This is the continuing report of working **atom-carbon-prime-correspondence**, a
 
 **Shared standing:** this report and its offerings are on `working/atom-carbon-prime-correspondence`, offered through [PR #154](https://github.com/chris-j-handel/corus/pull/154). An open PR makes them readable to another session that follows the branch or PR; it does not put them on `main`, automatically load them into another conversation, or establish their receiving into a living file.
 
-**Read first:** [three and two within the same recurrence](#three-and-two-within-the-same-prior-two-added-recurrence), [the continuation at 23, 24, 48 and 96](#twenty-three-and-the-waist-of-forty-eight), [the six-point geometry and its role mapping](#six-inner-points-and-twelve-outer-corners), [the observation ledger](#observings-with-their-preparation-and-timing), and [the next connected work](#the-next-connected-work).
+**Read first:** [thin bridges, changing dimensions and nearby-element comparisons](#carbon-thin-bridges-changing-dimensions-and-comparison-with-nearby-elements), [three and two within the same recurrence](#three-and-two-within-the-same-prior-two-added-recurrence), [the continuation at 23, 24, 48 and 96](#twenty-three-and-the-waist-of-forty-eight), [the six-point geometry and its role mapping](#six-inner-points-and-twelve-outer-corners), [the observation ledger](#observings-with-their-preparation-and-timing), and [the next connected work](#the-next-connected-work).
 
 The gathering keeps four kinds of value visible: relations explicitly carried by the named living files; exact arithmetic or geometry worked from specified operations; incoming physical observations with their preparation and timing; and proposed joins still being explored. This lets pattern-matching carry every incoming observation without letting a shared number silently identify different subjects. It is an exploration by cohering and forward co-recursioning, not a proposed experimental programme.
 
@@ -317,15 +317,15 @@ Natural Numbers already carries both prior-two-added approaching phi and a prior
 
 Write the ordinary integer recurrence as \(Q(a,b)=(b,a+b)\), beginning with the positive pair \((1,1)\). Its two number parities recur through odd/odd, odd/even and even/odd. At the same time, the ratio \(b/a\) alternates below and above phi:
 
-| Forward applications | Prior and now numbers | Their odd/even pair | Ratio \(b/a\) relative to phi |
-|---:|---|---|---|
-| 0 | 1, 1 | Odd / odd | Below |
-| 1 | 1, 2 | Odd / even | Above |
-| 2 | 2, 3 | Even / odd | Below |
-| 3 | 3, 5 | Odd / odd | Above |
-| 4 | 5, 8 | Odd / even | Below |
-| 5 | 8, 13 | Even / odd | Above |
-| 6 | 13, 21 | Odd / odd | Below |
+| Forward applications | Prior and now numbers | Their odd/even pair | Actual ratio \(b/a\) | Relative to \(\varphi\approx1.618034\) |
+|---:|---|---|---:|---|
+| 0 | 1, 1 | Odd / odd | 1 | Less |
+| 1 | 1, 2 | Odd / even | 2 | Greater |
+| 2 | 2, 3 | Even / odd | 1.5 | Less |
+| 3 | 3, 5 | Odd / odd | 1.666667… | Greater |
+| 4 | 5, 8 | Odd / even | 1.6 | Less |
+| 5 | 8, 13 | Even / odd | 1.625 | Greater |
+| 6 | 13, 21 | Odd / odd | 1.615385… | Less |
 
 Three applications give the same pair of number parities on the opposite side of phi; another three give the same pair of parities on the same side, with different positive numbers. Thus **three cycling and two alternating give six joint forms within one specified recurrence**. The repeating subject is this pair of relations; the number pair itself does not return.
 
@@ -495,6 +495,59 @@ The isotope studies use mass-based instrumentation. Accepting their incoming sig
 
 Across these preparations, the observations support incorporation, release, internal retention, rearrangement, geometric regularity and particular candidate structures. They do not directly establish that every atom is the proposed one carbon stable form, that an individual atom wears down, or that every living inception has three right-spiraling carbon modules. Those remain the expedition's proposed joins.
 
+## Carbon thin bridges, changing dimensions and comparison with nearby elements
+
+This pass follows the proposed atom/carbon stable form toward the user's more specific aiming: an extremely small amount of material between ends, with flexibility in length and width. The proposed universal referent remains one. Each incoming observation nevertheless keeps its reported specimen, scale and preparation: a change in a many-atom chain or shell is not automatically a change in one individual atom.
+
+The closest matches are atom-thin bridges, hollow shells, sliding nested shells and hot structures that become longer while becoming narrower. They involve different changings. This is a broad targeted gathering of geometry, mechanics, electrical response, coordination and imaging; it does not establish an exhaustive catalogue or that any one listed behaviour belongs only to carbon.
+
+### Observed carbon forms and their changing
+
+| Incoming observing and primary source | Prepared or constrained | Measured response and timing | Relation still to carry |
+|---|---|---|---|
+| **Atom-thin bridges:** [Chuvilin et al. 2009](https://doi.org/10.1088/1367-2630/11/8/083019), [paper](https://arxiv.org/pdf/0905.3090) | Graphene thinned under an 80 kV electron beam. | Typically 10–15-atom chains bridged contacts; bent chains, moving attachments and changes between multiple chains and polygonal arrangements were imaged with 1-second exposures every 4 seconds; survival reached two minutes under irradiation. | Very little material spans the ends, but material remains; neither a long single atom nor an undisturbed ambient process was observed. |
+| **Extension changes electrical response:** [La Torre et al. 2015](https://doi.org/10.1038/ncomms7636) | Chains drawn from graphitic material between contacts in a TEM. | Images and current–voltage curves changed with constrained/relaxed configurations; one illustrated sequence spans 0, 9 and 13 seconds. | Bond-length alternation and semiconductor/metal assignment use calculations; the available contacts did not quantify the bandgap, and extension included unravelling material rather than only stretching existing bonds. |
+| **Strongly conducting, directly contacted chains:** [Morris et al. 2026](https://doi.org/10.1038/s41557-026-02175-w), [paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC13524795/) | Gold-contacted carbon chains up to 16 atoms, made from characterized precursors, measured with room-temperature break junctions. | More than 5,000 junction traces per compound; simultaneous tip position, bias and current during withdrawal; conductance increased between C10 and C12 and was roughly maintained through C16. | End contacts and chain length matter throughout the bridge; proposed bond equalization relies on transport, spectroscopy and modelling, not direct imaging of every bond during conduction. |
+| **Long chains inside a protective host:** [Shi et al. 2016](https://doi.org/10.1038/nmat4617) | Chains formed within double-walled carbon nanotubes. | The published study reports chains exceeding 6,000 atoms, supported by microscopy, diffraction and Raman measurements. | This is a confined chain; no corresponding free-standing ambient lifetime is established, and earlier preprint length estimates must not replace the final paper's result. |
+| **Large length increase with width decrease:** [Huang et al. 2006](https://doi.org/10.1038/439281a), [paper](https://web.mit.edu/nanoengineering/news_files/Nature43921806.pdf) | A clamped single-wall segment, made by electrical breakdown of a multiwall tube, was pulled at 2.3 V in TEM. | Length 24→91 nm and diameter 12→0.8 nm before fracture; end features nearly unchanged and moving kinks followed by narrowing; temperature above 2,000°C was estimated, and the main paper gives no calibrated movie interval. | Plastic reconfiguration, not demonstrated reversible stretching or a changing single-atom body; the atom inventory was not continuously tracked. |
+| **Nested shells sliding and retracting:** [Cumings and Zettl 2000](https://doi.org/10.1126/science.289.5479.602), [paper](https://www.ocf.berkeley.edu/~jode/pdf/250-Science.289-Cumings.pdf) | Outer caps removed and a manipulator attached to inner shells in a 100 kV TEM. | About 20 extension/retraction cycles with no apparent sliding-surface damage at about 2 Å resolution; retraction completed within one 33 ms video frame. | The quoted 4.6 ns retraction is calculated; sliding changes overlap, and the observed cycles do not establish unlimited wear-free operation. |
+| **Width changing with recovery:** [Minary-Jolandan and Yu 2008](https://doi.org/10.1063/1.2903438), [author abstract](https://experts.azregents.edu/en/publications/reversible-radial-deformation-up-to-the-complete-flattening-of-ca/) | Nanoindentation of a roughly 9 nm diameter, six-wall tube. | Force–indentation records showed reversible radial deformation up to about 60%; an absolute recovery time was not available in the checked abstract. | A hollow shell's cross-section changes; the observation does not measure one atom being squeezed by 60%. |
+| **Elastic bending in diamond:** [Banerjee et al. 2018](https://doi.org/10.1126/science.aar4165), [paper](https://www.mit.edu/~mingdao/papers/2018_Science_diamond_ultralarge_elasticity.pdf) | Etched diamond nanoneedles bent inside an SEM. | Recovery under unloading was recorded; local tensile strains approaching 9% were inferred using finite-element analysis and measured specimen geometry. | These nanoneedles are much larger than one atom; strain estimates are not direct readings of every atomic separation. |
+| **A carbon ring around an unfilled centre:** [Kaiser et al. 2019](https://doi.org/10.1126/science.aay1914), [author abstract](https://arxiv.org/abs/1908.05904) | Tip manipulation on two NaCl layers over copper at 5 K removed CO from a precursor. | AFM characterized an eighteen-carbon ring with alternating bond character. | The ring leaves its centre unfilled by carbon, with substrate beneath it; this is not an empty passage through the substrate, one hollow atom or demonstrated ambient living stability. |
+| **Six neighbours around one carbon:** [Malischewski and Seppelt 2017](https://doi.org/10.1002/anie.201608795), [author account](https://www.bcp.fu-berlin.de/chemie/chemie/forschung/InorgChem/agmalischewski/publications/c6me6/index.html) | A hexamethylbenzene dication prepared in superacid and crystallized as a salt. | X-ray structure places one apical carbon near five basal carbons and one methyl carbon: five-plus-one, with distances about 1.69–1.72 Å and 1.48 Å respectively. | This unusual coordination is not three projections plus three recesses, six equivalent ordinary bonds, or a timed migration of one atomic shape. |
+
+### Which matches also occur outside carbon
+
+| Comparison and primary source | Incoming observing | What it prevents us calling carbon-exclusive |
+|---|---|---|
+| **Gold atomic chains:** [Ohnishi, Kondo and Takayanagi 1998, primary paper](https://stafford.physics.arizona.edu/pdf/ohnishi.pdf) | Suspended single atomic strands imaged with simultaneous conductance during contact withdrawal; records at 33 ms intervals in ultrahigh vacuum and a 200 kV TEM. | A materially present, atom-thin conducting connection between ends; gold is a same-spatial-scale comparison, not a neighbouring element by atomic number. |
+| **Boron nitride nanotubes:** [Ghassemi et al. 2011](https://doi.org/10.1088/0957-4484/22/11/115702), [paper](https://phy.sites.mtu.edu/yap/wp-content/uploads/2017/09/PRP-11-5.pdf) | Tubes of carbon's neighbouring elements boron and nitrogen formed reversible ripples under bending in TEM; recovery was reported after a geometrically estimated bending strain of about 26%, with repeated load cycles. | Hollow-shell flexibility and recoverable buckling; the reported bending strain is not uniform axial extension, and the observed ripple geometry differs from carbon counterparts. |
+| **Boron sheets:** [Mannix et al. 2015](https://doi.org/10.1126/science.aad1080), [paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC4922135/) | Atomically thin, anisotropic boron sheets grown on silver were characterized by microscopy and spectroscopy. | Atomic thinness and directional two-dimensional structures; this source's calculated mechanical properties must not be presented as measured elasticity. |
+| **Silicon multiple bonding:** [Sekiguchi et al. 2004](https://doi.org/10.1126/science.1102209) | A structurally characterized compound containing a Si–Si triple bond has a bent geometry, with Si–Si separation about 2.062 Å. | Multiple bonding and two-ended molecular connections; its surrounding groups and geometry differ from ordinary linear carbon alkynes, and no long single-atom stretch was measured. |
+| **Different neighbouring sites within one host:** [Krivanek et al. 2010](https://doi.org/10.1038/nature08879) | Low-voltage scanning transmission microscopy distinguished scattering responses assigned to B, N, C and O in one boron nitride sheet, with local displacements around 0.1 Å. | Treating all instrument-resolved sites as already showing identical relations; element assignment uses the scattering account, while distinguishable responses and neighbouring geometry remain incoming observations. |
+
+The useful comparison is therefore a combination of structural possibilities, with each specimen's conditions attached. Atomic thinness, an open interior, multiple bonding and recoverable bending each have non-carbon counterparts. This pass has not established that their entire combination is exclusive to carbon, or that any of them identifies the proposed universal atom/carbon form.
+
+### What width and almost absent can mean in an observing
+
+An observed narrow bridge, a fitted atomic radius, weak image contrast and an unfilled interior are different incoming relations.
+
+[Cordero et al. 2008](https://doi.org/10.1039/B801115J) inferred carbon covalent radii near 76, 73 and 69 pm from crystallographic bond distances in specified bonding environments. These are fitted contributions to interatomic distances, not photographed boundaries of a hard atom changing width. The environmental dependence also occurs for other elements.
+
+[Hämäläinen et al. 2014](https://doi.org/10.1103/PhysRevLett.113.186102), [author paper](https://arxiv.org/html/1410.1933v2), observed bond-like AFM contrast in regions with and without an assigned intermolecular bond. Probe flexibility and tip height matter. A visible line cannot by itself establish a material fiber's width; weak contrast cannot establish absence. The observation is a probe–specimen response, whose structural interpretation must remain attached to its method.
+
+A potentially useful but **calculated** lead is [Liu et al. 2013](https://doi.org/10.1021/nn404177r), with its [2017 correction](https://doi.org/10.1021/acsnano.7b02463): carbyne models combine tensile stiffness with bending flexibility, and torsional response depends on terminal groups. A corrected equivalent-rod model gives effective thickness 0.772 Å and formal Poisson ratio −0.65. These are not measured hard atomic dimensions or an observation of an atom widening when stretched; the distinction is particularly important for the user's length/width aiming.
+
+### Value for the unchanged stable form and its channel
+
+The new observations give three explicit kinds of changing to carry separately: **sliding of parts, elastic reshaping with recovery, and plastic rearrangement**. Chain extension can also involve changing membership or attachment. A description of “length changing” alone does not identify which of these occurred.
+
+For the prior geometry, filling the six points as a solid octahedron was an added physical-body assumption. Rings and tubes show that actual carbon arrangements can place material around an unfilled centre; chains show material concentrated along a connection. This supplies grounds to explore an unfilled body construction, but neither example already carries the six roles, the proposed three-plus-three mating form, or all of ONE's across and along relations.
+
+The closest supported wording to “nearly non-existing between its ends” is **a very thin, materially present bridge, or a thin wall surrounding an unfilled interior**. None of the studies gathered here directly observes one carbon atom extending between remote ends while its middle ceases to exist.
+
+The next aiming is to follow these actual structures' end attachments, intervening material and changes together. The heated thinning tube is the closest length/width observation; the atom-thin chain is the closest minimal bridge; the ring and tube are the closest open-interior observations; and the gold and boron/nitrogen comparisons keep the claim of carbon uniqueness open rather than deciding it from appearance. Further gathering of torsion, chirality-dependent response, thermal behaviour, isotopic differences and reactivity remains open.
+
 ## What is gathered, what is offered, and what remains open
 
 | Continuing value | Present standing | Receiving files |
@@ -508,7 +561,7 @@ Across these preparations, the observations support incorporation, release, inte
 | Cones, hollow fibers and rh6 | Sample-specific structures or computational candidates; no observed universal three-module atom. | Chemistry, Biology, Naming |
 | Atom and carbon as one universal referent | The same proposed identity throughout; full physical identification and co-chain into living inception remain open. | Chemistry, THIRTY |
 
-The update adds one-sentence offerings to the existing six receiving files and also to Biology and Societies. These are incoming values, not amendments to the root living files. The report links to source versions and observations so another working can improve or challenge the joins without reconstructing this transcript. No claim is made that every living file has already received the values or that all relations across the set have been resolved.
+The report's values are offered as one-sentence droplets to Numbers, ONE, THIRTY, Mathematics, Naming, Chemistry, Biology, Societies and Physics. These are incoming values, not amendments to the root living files. The report links to source versions and observations so another working can improve or challenge the joins without reconstructing this transcript. No claim is made that every living file has already received the values or that all relations across the set have been resolved.
 
 ## The next connected work
 

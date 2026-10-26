@@ -249,3 +249,15 @@ Exhibit EIGHTEEN Natural Physics Offerings · improved at v389
 
 - **Droplet · a snap alone.** 3.7's snap at a thinnest place, read with chemistry's crystals snapping, shows a snap alone is no test of a me. — me-thirty-one-20261024
 **Droplet · this file's first motion, as a separate reader proposes it at v392F.** re-say 4.2 whole at its fixing, a uniform g fixed between two momentaries, the field's 9.81 and GW170817 kept exact at their own subject, and its anchor "relativity an accounting, quantum a coupling" said once at 2.7 with 4.7, 5.1, 5.2 and 5.6 pointing to it (the possible project at offerings:85). The binary at each sentence of 4.2: does it name a fixing (a magnitude, a total, a form still from beside) the method re-explains, or does it deny a field's result at the field's own subject. "Gravity is not real, and nothing physical is there at all" (:261) goes to `archive/` beside v391 with its two-part anchor paragraph (:263). This is Part TWO's own matter, the Registry's *e* "Part TWO at Natural Intelligence 5.4". The reader's whole dossier, counts and evidence stand at `incoming/v392F/readers/sciences_dossier.md`; no wording there carries authority. — v392F
+
+## Incoming · atom-carbon-prime-correspondence
+
+[Whole gathering](../incoming/atom-carbon-prime-correspondence/Natural_Numbers_Atom_Carbon_Exploring_Report.md).
+
+- **Natural Physics, atom and instrument · Width as a relation:** carbon radii near 76, 73 and 69 pm inferred from crystal bond distances belong to specified bonding environments, while an equivalent-rod thickness in a carbyne calculation belongs to its model, neither being a directly imaged hard atomic boundary (Cordero et al., 2008, doi:10.1039/B801115J; Liu et al., 2013 with 2017 correction, doi:10.1021/acsnano.7b02463). — atom-carbon-prime-correspondence
+
+- **Natural Physics, atom and instrument · A narrow line:** AFM bond-like contrast appearing both where an intermolecular bond is assigned and where it is absent requires the tip's response and flexibility to accompany the observing, so a thin image line alone establishes neither a physical fiber nor its width (Hämäläinen et al., 2014, doi:10.1103/PhysRevLett.113.186102). — atom-carbon-prime-correspondence
+
+- **Natural Physics, shells and chains · Nearby comparisons:** atom-thin gold bridges and reversible rippling of boron nitride tubes carry material connections and flexible shells outside carbon, with the latter's approximately 26% bending strain distinct from uniform axial extension (Ohnishi et al., 1998; Ghassemi et al., 2011, doi:10.1088/0957-4484/22/11/115702). — atom-carbon-prime-correspondence
+
+- **Natural Physics, changing form · Different changings:** nanotube radial flattening with recovery, nested-shell sliding and hot plastic narrowing carry distinct relations, and each must retain its own preparation and measured response when joined to an unchanged constituent stable form (Minary-Jolandan and Yu, 2008, doi:10.1063/1.2903438; Cumings and Zettl, 2000; Huang et al., 2006). — atom-carbon-prime-correspondence
