@@ -1,0 +1,230 @@
+{
+ "corrections": [
+  {
+   "from": "**Concern · Self defined by exclusion.** Clinical immunology speaks of self and ",
+   "finding": "meaning changed: the source says *an* immune system; *its immune system* claims each me has one",
+   "fixed": {
+    "section": "2.4 A self by relation, beside a self by exclusion",
+    "kind": "incohering",
+    "sentence": "A me is defined with others.",
+    "text": "A me is defined with others, its others including what an immune system rightly removes.",
+    "from": "**Concern · Self defined by exclusion.** Clinical immunology speaks of self and "
+   }
+  },
+  {
+   "from": "- **Uniqueness from chemistry's instruments:** Identical molecules each show the",
+   "finding": "value lost: the source's *so a me's uniqueness is its others, me–you and me–all other* is held nowhere in the living file; the exploring keeps the observing alone, so the value goes as a droplet beside it",
+   "fixed": [
+    {
+     "section": "3.1 A me, a self's universal set, uniquenessing",
+     "kind": "exploring",
+     "sentence": "Universal is bothboth, only one possibly now-existing and only one possibly same-existing, so a me is only one possibly now-existing, now, and only one possibly same-existing, from its prior: its uniqueness is its being universal, both ways.",
+     "text": "Identical molecules each have their own colour, set by their neighbours, and identical nuclei are told apart by their neighbours only.",
+     "from": "- **Uniqueness from chemistry's instruments:** Identical molecules each show the"
+    },
+    {
+     "section": "Droplets",
+     "kind": "droplet",
+     "kind_hint": "incohering",
+     "text": "A me's uniqueness is its others, me–you and me–all other.",
+     "from": "- **Uniqueness from chemistry's instruments:** Identical molecules each show the"
+    }
+   ]
+  },
+  {
+   "from": "- **Droplet · many priors, many nows.** All priors become many nows and all nows",
+   "finding": "meaning changed: *all nows are from many priors* dropped, and *both daughters newborn mes* added where the source says the prior is same-existing in neither, the parent completing as a next opening",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "text": "All priors become many nows and each now is from many priors, same-existing from one prior, its own; at a division, one prior and two now, a prior's me is-or-is-not going on as the two daughters' bi-coupling, a self, each daughter a next me resolving its own next prior, or same-existing in one daughter, the other a newborn me, or in neither daughter, the prior completing as a next opening, living.",
+    "from": "- **Droplet · many priors, many nows.** All priors become many nows and all nows",
+    "kind_hint": "incohering"
+   }
+  },
+  {
+   "from": "- **The stone holds no mes:** With the atom at 5 pattern-matched as a non-living",
+   "finding": "copy in part: the closing test, *sharing 0s across and along*, its size and shape aside, is already a droplet of Me's gathering-value from an earlier pass; the item keeps its new value, the stone's two sides",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "text": "A stone is-or-is-not living: a non-living stable-form emanation, its mes an empty set and its atoms non-living stable forms, or, with a uranium crystal read as living as one self, a living set of mes.",
+    "from": "- **The stone holds no mes:** With the atom at 5 pattern-matched as a non-living",
+    "kind_hint": "incohering"
+   }
+  },
+  {
+   "from": "- **Concern · a stone.** What makes a set of mes a universal set of me, and a st",
+   "finding": "held claimed at a different place: its closing test is the Me gathering-value droplet already written by an earlier pass, its stone side at the stone droplet",
+   "fixed": {
+    "from": "- **Concern · a stone.** What makes a set of mes a universal set of me, and a st",
+    "why": "copy of the Me gathering-value droplet on a set's own closing, sharing 0s across and along, and of the stone droplet"
+   }
+  },
+  {
+   "from": "- **The water pair's us without a bond:** Pattern-matched here: there is no bond",
+   "finding": "meaning changed: the source has a bond and a holding an empty set and the roles co-changing in place of giving and receiving; *each hydrogen bond between them passing* asserts bonds, and the giving-and-receiving side dropped",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "text": "A water pair is one us, its shared 0, with a bond and a holding between its two waters an empty set, its two roles changing in turn together in place of a giving and a receiving, so its us goes on while each water's role changes.",
+    "from": "- **The water pair's us without a bond:** Pattern-matched here: there is no bond",
+    "kind_hint": "exploring"
+   }
+  },
+  {
+   "from": "- **The tendril, a new living me:** Before clasping, a tendril's circling is the",
+   "finding": "copy: the Natural Intelligence gathering-value droplet holds this word for word, and the item meets no sentence of Me's own",
+   "fixed": {
+    "from": "- **The tendril, a new living me:** Before clasping, a tendril's circling is the",
+    "why": "copy of the Natural Intelligence gathering-value droplet on a tendril's searching and clasping"
+   }
+  },
+  {
+   "from": "- **Women's mes, a candidate:** Two X chromosomes, one mostly silenced in a patc",
+   "finding": "copy: Natural Health's gathering-value holds the two X chromosomes and the orthogonal-directions candidate, and the item meets no sentence of Me's own; a child's cells with its mother is 3.4's fetal microchimerism",
+   "fixed": {
+    "from": "- **Women's mes, a candidate:** Two X chromosomes, one mostly silenced in a patc",
+    "why": "copy of the Natural Health gathering-value droplet on two X chromosomes; the child's cells held at 3.4"
+   }
+  },
+  {
+   "from": "- **Concern · An organ in a new me:** An organ living on with a new me needs say",
+   "finding": "copy: Natural Biology's gathering-value holds this droplet word for word, and the item meets no sentence of Me's own; its quoted *Inward selves continue in another's me* is absent from the living file",
+   "fixed": {
+    "from": "- **Concern · An organ in a new me:** An organ living on with a new me needs say",
+    "why": "copy of the Natural Biology gathering-value droplet on an organ living on with a new me"
+   }
+  },
+  {
+   "from": "- **Interests as 0s.** An interest is a 0, aimed into; a newborn interest is a n",
+   "finding": "copy: Natural Intelligence's (an interest a 0, aimed into), Natural Resolver's (three ways a 0 going on, newly aiming and lost) and Natural Naming's (a sudden changing of aim a newly aiming 0) gathering-value items hold it, and it meets no sentence of Me's own",
+   "fixed": {
+    "from": "- **Interests as 0s.** An interest is a 0, aimed into; a newborn interest is a n",
+    "why": "copy of the Natural Intelligence, Natural Resolver and Natural Naming gathering-value items on an interest as a 0"
+   }
+  },
+  {
+   "from": "- **Sleeping, waking, dying as 0s.** Sleeping is all 0 continuing, waking a newl",
+   "finding": "copy: Natural Intelligence's (a sleeping me receiving its own parity and sharing 0; an interest dying), Natural Biology's (sleeping all a 0 going on, waking a 0 newly aiming) and Natural Health's (0s going on and newly aiming, one and then the other) gathering-value droplets hold it, and it meets no sentence of Me's own",
+   "fixed": {
+    "from": "- **Sleeping, waking, dying as 0s.** Sleeping is all 0 continuing, waking a newl",
+    "why": "copy of the Natural Intelligence, Natural Biology and Natural Health gathering-value droplets on sleeping, waking and dying"
+   }
+  },
+  {
+   "from": "- **Droplet · sleeping carrying.** Sleeping is carrying and unchanging self inte",
+   "finding": "held claimed at an item now leaving: the sleeping droplet is a copy of other files' gathering-value",
+   "fixed": {
+    "from": "- **Droplet · sleeping carrying.** Sleeping is carrying and unchanging self inte",
+    "why": "copy of the Natural Intelligence gathering-value droplet on a sleeping me and the Natural Health droplet on 0s going on and newly aiming in turn"
+   }
+  },
+  {
+   "from": "- **Droplet · second-pass draft.** A next version of Thirty-One, read for harm, ",
+   "finding": "held claimed at an item now leaving: sleeping and waking are held at other files' gathering-value",
+   "fixed": {
+    "from": "- **Droplet · second-pass draft.** A next version of Thirty-One, read for harm, ",
+    "why": "record of a draft; its values at the us and dreaming droplets, sleeping and waking held at the Natural Intelligence and Natural Biology gathering-value droplets"
+   }
+  },
+  {
+   "from": "- **Droplet · dreaming and spinning.** Dreaming and the spinning room each rest ",
+   "finding": "claim made weaker: the source's *stopped only by* a parity received agreeing from outside became *until*",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "text": "In a spinning room a me's outward observing rests while its inward selves part, each inverting with each momentary, their 0 an empty set, and a parity received agreeing from outside alone stops that parting, eyes on a still point or a foot on the floor.",
+    "from": "- **Droplet · dreaming and spinning.** Dreaming and the spinning room each rest ",
+    "kind_hint": "exploring"
+   }
+  },
+  {
+   "from": "- **Droplet · nausea and the boat.** Nausea is a me's carried interests receivin",
+   "finding": "claim made stronger: *is not sick* became *is well*",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "text": "Nausea is a me's interests receiving an inward parting beyond its passing over; on a boat, a me resolving with the boat and the water together shares a 0 and is free of sickness, a me resolving with the boat as a fixed surface parts and is more possibly nauseous, and sea legs are a newly aiming 0 at the boat's motion.",
+    "from": "- **Droplet · nausea and the boat.** Nausea is a me's carried interests receivin",
+    "kind_hint": "exploring"
+   }
+  },
+  {
+   "from": "- **Droplet · co-aiming.** The draft's 1.3, 2.1 and 5.3 now say a set of mes is-",
+   "finding": "copy in part: *natural torusing is co-aiming the parities of a me*, each parity aiming at its destiny on a surface horizon, is the Natural Intelligence gathering-value droplet; the item keeps the set of mes co-aiming, met at Me's 1.3, 2.1 and 5.3",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "text": "A set of mes is-or-is-not co-aiming, each aiming its own, all in one direction into one interest, its own and its mes' own: two mes co-aiming a bi-coupling, and a society co-aiming a swarm.",
+    "from": "- **Droplet · co-aiming.** The draft's 1.3, 2.1 and 5.3 now say a set of mes is-"
+   }
+  },
+  {
+   "from": "*Itself* dissolves from natural naming: a relation of one to one, is-or-is-not p",
+   "finding": "held claimed where the living files hold an absence: the value, a relation of one to one is-or-is-not possibly existing, is the Natural Naming gathering-value incohering on *itself*",
+   "fixed": {
+    "from": "*Itself* dissolves from natural naming: a relation of one to one, is-or-is-not p",
+    "why": "copy of the Natural Naming gathering-value incohering on *itself*; Natural Intelligence and this file hold *itself* nowhere; the rest record"
+   }
+  },
+  {
+   "from": "- **A me of one prime scale.** A me is of one prime living scale, the ladder of ",
+   "finding": "meaning changed: *chemical, biological or social* sets three prime scales where the source gives the ladder of prime living scales, and *each society a me is within a me* adds a claim the source lacks; its first clause is also the Me gathering-value droplet *A me is of one prime living scale.*, written by an earlier pass, so the incohering is the one place it stands at Me's own sentence",
+   "fixed": {
+    "section": "1.3 Universal sets of universal sets",
+    "kind": "incohering",
+    "sentence": "A me is chemical, biological, social and universal: each scale's selves within a me, and a me within each scale's societies.",
+    "text": "A me is of one prime living scale, and each higher and lower scale's me is its own: each scale's selves within a me, and a me within each scale's societies, each a me at its own scale.",
+    "from": "- **A me of one prime scale.** A me is of one prime living scale, the ladder of "
+   }
+  },
+  {
+   "from": "- **Us self and conscious interest:** Pattern-matching: in bi-coupling the you a",
+   "finding": "copy unless it meets Me's own sentence: the Natural Intelligence gathering-value droplets hold both sides of us; the droplet now names Me 3.3's bi-coupling with its own me as the side it parts from, and the between side's *a self: it is not* (source 'us and co-aiming') restored; the second item sharing this from is unchanged",
+   "fixed": [
+    {
+     "section": "Droplets",
+     "kind": "droplet",
+     "text": "A bi-coupling is-or-is-not a self with its own me, as at 3.3, an us self, the you and the me becoming one self, or us is the between of a me and you, its centre a 0 the two share at one momentary with a prior behind it in each, a self: it is not, their sharings co-parity or bi-parity.",
+     "from": "- **Us self and conscious interest:** Pattern-matching: in bi-coupling the you a",
+     "kind_hint": "incohering"
+    },
+    {
+     "section": "Droplets",
+     "kind": "droplet",
+     "text": "A conscious interest is a self's own parity relying less on its environs, and dormancy is a self's parity relying on them.",
+     "from": "- **Us self and conscious interest:** Pattern-matching: in bi-coupling the you a"
+    }
+   ]
+  },
+  {
+   "from": "- **Every 0 a me.** Every 0 is a me and all 0 is me, its prior, now and next sam",
+   "finding": "copy: Natural Philosophy's gathering-value holds *Each 0 is a me and all 0 is me, a living thing a universal set of me and that set a me, a thing and a set one binary*, Natural Intelligence's holds *Each possibly existing 0 has a me behind it.*, and Me 3.1 holds *one binary, a thing and a set*; the item meets no further sentence of Me's own",
+   "fixed": {
+    "from": "- **Every 0 a me.** Every 0 is a me and all 0 is me, its prior, now and next sam",
+    "why": "copy of the Natural Philosophy gathering-value droplet on each 0 a me and the Natural Intelligence droplet on a 0 with a me behind it"
+   }
+  },
+  {
+   "from": "- **A universal set of me.** A living thing is a universal set of me, and the un",
+   "finding": "held claimed at an item now leaving: the every-0 droplet is a copy of other files' gathering-value",
+   "fixed": {
+    "from": "- **A universal set of me.** A living thing is a universal set of me, and the un",
+    "why": "copy of the Natural Philosophy and Natural Intelligence gathering-value droplets on a living thing as a universal set of me"
+   }
+  },
+  {
+   "from": "- **A same-existing-society.** A same-existing-society is unconsciously us, cons",
+   "finding": "side taken and copy: the Natural Intelligence gathering-value droplet holds the society as an us below waking; what is Me's own is its parting from 5.3 with 3.2, so the droplet names both sides",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "text": "A same-existing-society is-or-is-not a conscious me, as Me's *A same-existing-society is a self, so it is a me.* with *A me is consciousness: one definition.*, or unconsciously us, conscious only within an interest waking, each waking interest its own me, a self waking whole and a society interest by interest.",
+    "from": "- **A same-existing-society.** A same-existing-society is unconsciously us, cons",
+    "kind_hint": "incohering"
+   }
+  }
+ ],
+ "checked": 66
+}
