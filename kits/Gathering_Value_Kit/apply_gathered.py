@@ -46,8 +46,10 @@ def render(i):
         return f'- **Possible incohering** · "{i["sentence"]}" → {i["text"]}'
     if k == 'exploring':
         return f'- **Possible exploring** · {i["text"]} — at "{i["sentence"]}"'
+    if k == 'reading':
+        return f'- **A reading** · {i["text"]}'
     hint = i.get('kind_hint')
-    return f'- {i["text"]}' + (f' *(possible {hint})*' if hint in ('exploring', 'incohering') else '')
+    return f'- {i["text"]}' + (f' *(possible {hint})*' if hint in ('exploring', 'incohering') else ' *(a reading)*' if hint == 'reading' else '')
 
 
 errors, by_file = [], {}
@@ -56,9 +58,9 @@ for i in items:
     p = os.path.join('gathering-value', fname(t))
     if not os.path.exists(p):
         errors.append(f'no gathering-value file for {t!r}: {i.get("from","")[:60]}'); continue
-    if i.get('kind') not in ('incohering', 'exploring', 'droplet'):
+    if i.get('kind') not in ('incohering', 'exploring', 'reading', 'droplet'):
         errors.append(f'kind {i.get("kind")!r}: {i.get("from","")[:60]}'); continue
-    if i['kind'] != 'droplet':
+    if i['kind'] in ('incohering', 'exploring'):
         lt = living_text(t)
         if lt is None or norm(i.get('sentence', '')) not in lt:
             # a quote standing nowhere word for word keeps its value as a droplet, its sentence said with it

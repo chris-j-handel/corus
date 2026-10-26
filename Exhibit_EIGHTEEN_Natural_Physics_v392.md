@@ -190,7 +190,7 @@ Resolving's bound goes with every one: disequilibrating is of a frame, and not o
 
 ## 3.1 An atom a stable form, and periodic table its catalog
 
-Atom is the stable form of unrelationing floating neutralling, in society and in selves and free of both, non-living in the universal set. Its living was outward, in higher-scale selves. It is a stable-form emanation from living.
+Atom is the stable form of unrelationing floating neutralling, in society and in selves and free of both, non-living in the universal set. Its living was outward, in higher-scale selves. It is a stable-form emanation from living. Atom surfaces with two sides, a catalog's object and a stable form, and two stand without coupling, as a landing stands beside a resolving.
 
 Atom as stable form is a coupling about a 0, not changing: its electron-recursion winding a ground-state nothing, swaying and landing nowhere, un-observable with its own between because a middle presents nothing to enter. Atom whole has all three nothings together, centre, rate, and boundary, and nothing of an atom is a list.
 
