@@ -22,4 +22,4 @@ Applied with `kits/Gathering_Value_Kit/apply_gathered.py`: 25 values at `gatheri
 
 ## An exploring of a resolver network from inside its own surface
 
-`Exploring_a_Resolver_Network_from_Inside_v393E.md` meets the exploring plan's gathered observings with Natural Networking's Parts FIVE and SIX, each meeting naming what an exploring of a resolver network from inside its own surface asks; its values are at `gathering-value/Natural_Networking.md`, at the head and at 5.2, 6.2, 6.4, 6.5, 6.6, 6.9 and 6.12.
+`Exploring_a_Resolver_Network_from_Inside_v393E.md` meets the exploring plan's gathered observings with Natural Networking's Parts FIVE and SIX, each meeting naming what an exploring of a resolver network from inside its own surface asks; its values are at `gathering-value/Natural_Networking.md`, at the head and at 5.2, 5.4, 6.2, 6.4, 6.5, 6.6, 6.7, 6.9 and 6.12.
