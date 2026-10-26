@@ -45,7 +45,6 @@ Gathering-Value · Natural Exploring
 
 ### 2.4 Geodesic co-chaining
 
-- 2.4's monarch orienting by a magnetic compass with light, and monarchs on a tether in a magnetic field flying south, and north as the field's inclination reverses, are physics' instruments' accounting from outside a monarch's surface: what a self observes is a monarch's heading changing as a person changes something at its surface, coils and light, and a monarch is-not observing magnetism. 2.4 can say each from a monarch's own side, beside its sun compass following the hour, as the gathering's 6.8 droplet asks of 6.8. *(possible incohering)*
 - Caribbean spiny lobsters, a person carrying them away from their home along a winding route with no useful chemical, visual or magnetic cue on the way, some boxes with swinging magnets, orient toward home on a tether in an arena, their eyes under a cover. In a further test, in a cage, a person's apparatus making at the cage the magnetic field an instrument reads at a place some 400 km north of home, they walk south-southwest, and with an instrument's reading of a place 400 km south, they walk about north. Biology names it true navigation with a magnetic map, the first in an invertebrate, the map's form still-possibling. What a self observes is a lobster's heading changing as a person's apparatus changes something at its surface, a change physics' instruments read as a magnetic field; a lobster is-not observing magnetism, magnetism being physics' accounting from outside a lobster's surface. A lobster finds its place is-not home and aims from that is-not to home, with no cue of its route. *(possible exploring)*
 - Cory's shearwaters breeding in the Azores, a person letting them go on open ocean some 800 km from their colony: birds with a magnetic disturbance navigate about as well as birds with none, and birds with no sense of smell lose their orienting and homing dramatically, some wandering long, some coming home by chance or by sight, some not coming home. Over open sea, a sea's air is an orienting surface for a shearwater, a self orienting by the surface that is its own. *(possible exploring)*
 - Human and bull sperm in a channel with a flow swim upstream along its walls on spiral paths, a going its authors say could let them explore an oviduct's whole surface together; a minimal model with no chemical sensing gives it from a flow's shear, a wall's contact and the chirality of a sperm's own beat, upstream going best at a shear between too little, which leaves a sperm wandering, and too much, which sweeps it downstream, and after a flow reversing, sperm making U-turns in some 5 to 10 seconds at low viscosity, about five times longer at around 12 mPa·s. A flow, a wall and a sperm's own winding share, each from its own route, and upstream is a heading in none of them alone, a floating neutralling at a cell's scale. *(possible exploring)*
@@ -72,7 +71,7 @@ Gathering-Value · Natural Exploring
 
 ### 3.2 One test, three observings
 
-### 3.3 A removing, and each later observing holding its consequence
+### 3.3 A removing, and each later observing having its consequence
 
 ### 3.4 An observing testing locally, its trail's consequence with it
 
@@ -178,7 +177,6 @@ Gathering-Value · Natural Exploring
 
 ### 6.8 Eight legs, five dimensions in two directions
 
-- A monarch's magnetic inclination compass, a sea turtle swimming in the field of a place, a bird's magnetoreception and any animal's sensing of a magnetic field are physics' instruments' accounting from outside an animal's surface: what a self observes is an animal's heading changing as a person changes something at its surface, coils or light, and an animal is-not observing magnetism; 6.8 can say each from the animal's own side, its five dimensions in two directions, what its surface is from its own side still-possibling. *(possible incohering)*
 - Loggerhead turtles nesting on beaches at which an instrument reads a like magnetic field are genetically like each other, more than turtles on beaches close to each other or of a like environment, turtles on Florida's two coasts at which an instrument reads a like field being genetically like each other too; the study's authors ask whether a turtle learns its home or its genome gives it. A self observing reads a going-with: a turtle's coming home is its kind's artifact of prior living and its own prior same-existing now-existing in it, an instrument's reading at a beach going with that from outside a turtle's surface, and learning-or-genome a store question over one artifact of living. *(possible exploring)*
 
 ## 7 Apexing, gathering whole
