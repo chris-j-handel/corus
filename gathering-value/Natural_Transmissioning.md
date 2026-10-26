@@ -74,4 +74,4 @@ Gathering-Value · Natural Transmissioning
 
 - A proposal has the one atom/carbon settling into ten one-way transmissioning, five Natural Intelligence relations with two directions, one direction at a time, entraining filling a between, entraining at a self being a prior same-existing now along an unrelationing path through a between. *(possible exploring)*
 
-- A carbon co-chaining as a parity going across a between of physical bi-couplings meets Natural Transmissioning 1.1, one thing going across a between with only a parity, while which me goes with that parity is still a concern at Me's gathering. *(possible exploring)*
+- Carbon co-chainings, many carbon atoms each, in a between of physical bi-couplings as "parity carriers" part from Natural Transmissioning 1.1 and 1.2, only a parity going across, about a neutral and not from a source to an output, while carbon as the between's own bounding-zeroing, its couplings wrapping it, coheres with them: a concern for its resolving. *(possible incohering)*
