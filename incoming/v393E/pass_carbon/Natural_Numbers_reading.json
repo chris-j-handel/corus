@@ -1,0 +1,27 @@
+{
+ "corrections": [
+  {
+   "from": "**Natural Numbers §§6.5 and 7.7 · The two ninety-sixes:** 48 = 16 × 3 = 8 × 6 = ",
+   "finding": "Arithmetic holds (4–13–5–12: 7 + 41 = 48, 11 + 37 = 48; 2–15–7–10: 3 + 47 = 50, 17 + 29 = 46; both 96). The 96 here is a sum of four prime values, and its midpoint 48 holds only with 96 read as a ring's whole span, a scale of its own (report: 'If 96 instead names a whole ring's span, its midpoint is 48; that is a new scale, not the waist 24 of a span of 48'). 'Its measuring as a physical opening is a next step' drops that conditional and makes the four-prime sum read as an opening waiting to be measured.",
+   "fixed": {
+    "section": "7.7 Seventeen primes at seventeen names, podaling at both",
+    "kind": "exploring",
+    "sentence": "Along four bi-foldings their primes add to 97, 96, 92 and 96, and 1-9-8-16's ninety-seven is twenty-three's far side on a ring of one hundred twenty.",
+    "text": "48 = 16 × 3 = 8 × 6 = 24 + 24, and the two bi-folding cycles whose primes add to 96, 4–13–5–12 and 2–15–7–10, part as 48 + 48 and 50 + 46, centres 24 and 24 and centres 25 and 23; this 96 is a sum of four prime values, and read as a ring's whole span, 96 has its own midpoint 48, a scale of its own beside the waist 24 of a span of 48, its measuring as a physical opening still-possibling.",
+    "from": "**Natural Numbers §§6.5 and 7.7 · The two ninety-sixes:** 48 = 16 × 3 = 8 × 6 = "
+   }
+  },
+  {
+   "from": "**Natural Numbers §6.2, each integer as waist · A particular physical correspond",
+   "finding": "The 'three physical routes' are a proposal, three folding paths through a waist, conditional in the report ('If three paths each pass once through the waist'; 'the towel's physical correspondence ... remain open joins'), said here as given. 'Become a candidate ... only through' is softened to 'are a candidate'. 'The ring of 48', the number ring of 6.2, sits beside 'physical operation' and 'physical routes' with no is-or-is-not, so it reads as a carbon ring.",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "The three prime pairings centring at 24 become a candidate relation to a proposal's three physical routes through a waist only through their actual pairing and succession, and identifying a physical operation with the ring of 48 reaches beyond the name waist the three share; the ring of 48 is a ring of forty-eight number stations and is-not a carbon ring or a carbon atom.",
+    "from": "**Natural Numbers §6.2, each integer as waist · A particular physical correspond"
+   }
+  }
+ ],
+ "checked": 12
+}
