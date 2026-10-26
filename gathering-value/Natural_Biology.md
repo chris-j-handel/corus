@@ -125,6 +125,7 @@ Gathering-Value · Natural Biology
 - **Possible exploring** · Sleep is observed in animals without brains, an upside-down jellyfish and a hydra; a colony is observed sleepless as its own whole; and grid cells' activity keeps its torus shape through sleep. — at "A whole living self has them as waking, resting, and attending"
 - **Possible exploring** · A leaf's daily opening and closing goes on in constant darkness. A blind cavefish's rhythm, near two days long, entrains to feeding. — at "Living clock is self-sequencing — it has its own delay and sounds its own beat — synchronising to day but day not driving it, opposite of a beat an other clocks."
 - **Possible exploring** · A cyanobacterial clock has two sites going through four joint forms, one site changing with each step. — at "Living clock is self-sequencing — it has its own delay and sounds its own beat — synchronising to day but day not driving it, opposite of a beat an other clocks."
+- **Possible exploring** · Stretching pacing cells can quicken their beating. A heart quickening at increased blood return has a nerve relation and a smaller direct stretching of its cells, each one part of the whole. — at "Sinoatrial cells each pace with their own rate, and node's one beat is a pace they settle to together, no cell setting it for others; fireflies flashing with close paces come to unison so, each with its own beat and unison no one's own."
 
 ### 4.6 Photosynthesis and respiration — the six sharing with the six
 
