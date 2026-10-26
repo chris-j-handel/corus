@@ -97,7 +97,8 @@ A separate reader reads the whole file against its v393 self, section by section
 
 One direction at a time, in short passes: each observing met with its field's source, said in living language, read for harm by a separate reader, gathered at the section it meets, and merged. Directions 1 and 6 open first: the first is navigating through a society by one parity, the second a society uncovering a heading in no self alone, the two sides of this plan.
 
-## Where the two plans are now
+## The two plans now
 
 - **The improving plan:** its seven motions are in Natural Exploring v393, Motions 14 to 28 in the Living File Registry's cell for it, the file about 16,100 words, an opening, 7 parts, 48 sections.
 - **The exploring plan:** directions 1 to 10 are at `gathering-value/Natural_Exploring.md`, each read for harm against its field's source, at 2.5, 6.1, 6.7, 6.9 and 6.10, each for a next motion of the living file. Direction 11 is at `Exploring_a_Resolver_Network_from_Inside_v393E.md`, its values at `gathering-value/Natural_Networking.md`.
+- **Two questions, resolved:** *relationing* is not natural naming and dissolves, and only *unrelationing* is natural; *sharing* is co-possibling, 6-now-co-possibling, and stays. Motion 29 dissolves each *relating* in the living file. 4.3's "a self has four", three named and one bounding-zeroing they live about, is the four with three of Natural Intelligence and Natural Numbers: three joint forms going round as one cycle and a fourth reaching itself again, not-changing, and 4.3 stays as it is.
