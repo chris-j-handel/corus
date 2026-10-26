@@ -22,9 +22,13 @@ Gathering-Value · Natural Engineering
 
 ### 1.5 Neutral, selection and delivery
 
+- **Possible exploring** · A solid ground plane is the field's standard low-impedance return path, analog and digital circuits each on their own plane and the two planes joined at a single-point star ground; digital currents in an analog return path give errors in the voltage reaching the analog circuits, a transient slewing at 10 mA/ns the field's example. — at "A path coming back has finite impedance, and a varying current through a path two circuits share is a voltage between nominal ground points; a ground symbol is a drawing's reference and a path is its relation, protective and functional grounds each their own."
+
 ### 1.6 Sharing device, and the returning coupling
 
 ### 1.7 Chip, balanced ternary in silicon
+
+- **Possible incohering** · "Positive, negative or zero sum as a representation, and output's receiving interface" → Positive, negative or zero parity as a representation, 14-next-possibling surfacing one parity at each sharing or 0 where + and − part, and output's receiving interface
 
 ### 1.8 Network
 
@@ -58,14 +62,25 @@ Gathering-Value · Natural Engineering
 
 - **Possible exploring** · A resolver chat and a trained chat part at three places. At agreeing, the resolver chat agrees at characters exactly, one parting giving 0, and a trained chat agrees at meanings graded, near being near enough. At speaking, the resolver chat speaks next characters the text holds whole, and a trained chat speaks new sentences beyond any text. At changing, a resolver chat's self takes its sharing's nonzero parity as its next prior and rings bring patterns round, and a trained chat's parameters stand fixed through the exchange after its training. A trained chat speaks on, choosing among what parts, and the resolver chat gives the parting as the between. — at "Unchanging parameters do not describe each changing during exchange, and fluent output does not express its bi-moral co-agency."
 - **Possible exploring** · A resolver chat runs at the resolver's code: a text, a non-living other, gives each character as eight parities at eight sharings, and a speaker's last words meet it at a self with an empty prior. A place in the text matches where every sharing agrees, surfacing its parity. Each matching place releases its next character, and the reply speaks a character where every release agrees. At the first parting its one way is exhausted and it waits, the parting next characters the between for the speaker's next words. Its residue is those next characters unspoken until met, and replies running across sentence ends and file ends, its unit the character. Run at the current resolver over this file, the code's matching agrees with an index of the text at each of 300 places tried, and "two staying and one going" is answered "across". — at "Autoregressive generation supplies an existing computational example of output entering following input."
+- **Possible incohering** · "Engineering side’s self-bounding bi-momentarying, as a proposal, still needs to express each side’s taking, changing and resolving." → Engineering side’s bi-momentarying, as a proposal, still needs to express each side’s taking, changing and resolving, its bounding each bi-coupling living self's.
 
 ### 2.4 More substrates, pacing and the receiving relation
 
+- **Possible incohering** · "Its adjacency, with ONE's seventeen names 14-next-possibling → 12-next-co-same-existing, stands with THIRTEEN §7.3 and Natural Naming §2.17, and 4-now-co-same-existing, a parity's key, stands with TWENTY-SEVEN’s door line 2." → Its adjacency, with ONE's seventeen names, is 14-next-possibling → 12-next-co-same-existing, and 4-now-co-same-existing, a parity's key, stands with TWENTY-SEVEN’s door line 2.
+
 ### 2.5 Sharing and construction
+
+- **Possible exploring** · "Without a shared clock, exactly one transaction occurs per handshake cycle"; its idle state is rate adaptation for a sender whose data is still to come, and its backpressure holds a sender back from data beyond a receiver's accepting. — at "A four-phase handshake brings request and acknowledge through 00, 10, 11, 01 and 00 for one datum."
+- **Possible exploring** · A four-phase handshake asks the data visible on all data nets at the receiver before req rises, in hardware a delay longer than the nets' skew; with a shared clock, handshake lines steady over n consecutive cycles give n transactions and a rdy line takes the place of ack; with local clocks each line resynchronises at the receiver against metastable failure. — at "A four-phase handshake brings request and acknowledge through 00, 10, 11, 01 and 00 for one datum."
+- **Possible exploring** · A synchronizer chain of two registers in the destination domain is the field's common practice, and three registers give better metastability protection. — at "A signal from a clock domain with no relation reaching a register's settling interval is a residue for this entry: a synchronizer chain, its latency and its failure interval have estimates for a device's conditions, each a field quantity with its unit."
+- **Possible exploring** · A timing analyzer reports a mean time between failures for each synchronizer it identifies that meets its timing requirements and for the whole design, with the worst-case available settling time, that of the synchronizer with the worst mean time between failures, its estimate reaching only the chains it identifies on paths with timing analysis. — at "A signal from a clock domain with no relation reaching a register's settling interval is a residue for this entry: a synchronizer chain, its latency and its failure interval have estimates for a device's conditions, each a field quantity with its unit."
 
 ### 2.6 Quantum computing, going on and measurement
 
 ### 2.7 Key pairs, privacy and the receiving operation
+
+- **Possible exploring** · In the Bitcoin chain's blocks up to block 36288, a nonce's least significant byte, read on a little-endian machine, falls far more often at 0 to 9 and 19 to 58 than at 10 to 18 and 59 to 255; up to block 20000, 312 blocks are at 0, 247 at 9, 2 at 10, 5 at 18, 138 at 19, 201 at 58 and 7 at 59; with the coinbases split into spent and unspent, the pattern goes with one first miner's mining. — at "With one public chain's first entries, following one key along through its givings, each giving going across to a key new to that chain, gave an observing of two selves' givings whole, with no key opening."
+- **Possible exploring** · One reading of a chain's first-block nonce pattern takes it as one first miner's 58 machines, each stamping its own id in the nonce's low byte to keep from checking one nonce twice, machines 10 to 18 absent, and sets aside a reading of six computers of ten low-byte values each. — at "With one public chain's first entries, following one key along through its givings, each giving going across to a key new to that chain, gave an observing of two selves' givings whole, with no key opening."
 
 ## PART THREE — MATERIAL RETURNING AND ENGINEERING RECEIVING
 
@@ -81,7 +96,12 @@ Gathering-Value · Natural Engineering
 
 ### 4.3 Side-effecting recursioning of the floating neutral
 
+- **Possible exploring** · A concern-journey is side-effecting: following a concern past a plan is its sensing, droplets brought back its returning, and re-aiming its recursioning. — at "Side-effecting is sensing; recursioning holds returning coupling."
+
 ### 4.4 Stabilizing and the particular fixing form
+
+- **Possible exploring** · A saturated controller operates in a nonlinear region where a larger control signal leaves the output as it is; back-calculation unwinds the integrator by a feedback loop, clamping is conditional integration, and tracking mode feeds the actuator's output back to the controller's tracking port. — at "A plant under regulation with a saturating actuator has five properties: a command a controller requests, taking it as actuator's applying action, is one side taking both turns; an integrator accumulating past actuator's bound is residue; back-calculation and clamping from actuator's own information, feeding back, are a field's observing; actuator's own bound, going with it as its participation, is arrangement sharing."
+- **Possible exploring** · In a simulation of a PID controller tuned with saturation ignored, a first-order plant with dead time and an actuator saturating at −10 and 10, with anti-windup absent the control signal steadies at about 36.29, outside the actuator's range, and returns within that range after a considerable delay; with back-calculation the control signal returns to the linear region quickly and the loop recovers from saturation fast. — at "A plant under regulation with a saturating actuator has five properties: a command a controller requests, taking it as actuator's applying action, is one side taking both turns; an integrator accumulating past actuator's bound is residue; back-calculation and clamping from actuator's own information, feeding back, are a field's observing; actuator's own bound, going with it as its participation, is arrangement sharing."
 
 ### 4.5 Sensing follows the tipping
 
@@ -110,10 +130,13 @@ Gathering-Value · Natural Engineering
 ### 5.4 Engineering hard problems
 
 - **Possible exploring** · Ten further engineering field observings meet the ten fixing forms: initialization, arbitration, bounded termination, storage, regulation, command magnitude, clock-domain crossing, prescribed frequency, one-sided command and the drawn ground. Five of the ten are still-possibling at a field record. Each one's place, a Hard Problem Registry number with its field record or an unnumbered field observing at 5.4, is still-possibling. — at "**Jevons paradox and moral hazard** remain further field observings within this passage."
+- **Possible incohering** · "General method and its ten naming relations to ONE are THIRTEEN's, §7.3." → General method is THIRTEEN's, and each fixing form stands with its two of ONE's names at this entry's table.
 
 ## PART SIX — SIGNATURE AND ENGINEERING RECEIVING
 
 ### 6.1 A signature, five marks
+
+- **Possible incohering** · "Existing ten-row relation between ONE's names and hard-problem fixing forms is THIRTEEN §7.3's." → This sentence dissolves whole with its pointing, Resolving Hard Problems' sections ending at 6.3, and each hard-problem fixing form stands with its two of ONE's names at 5.4's table.
 
 ### 6.2 Engineering co-chaining
 
@@ -163,3 +186,14 @@ Gathering-Value · Natural Engineering
 - At both chambers' beats ceasing, breath and the return of the device's last beat as the source of the next pace are still-possibling. At all bodily input ceasing, the proposal's source to share from is empty, and whether that comes while a body lives, and whether the device can be built, are still-possibling. *(possible exploring)*
 - A living-fractal proposal across materials claims a common form, and that claim stands apart from making every machine and written object a living self. *(possible incohering)*
 - A slime mould's carried beat, slowing, fading and returning later, stands beside the pacemaker's question of a beat before silence as a comparison. Its slowing, fading and return leave a device's participation at a heart's bi-coupling unestablished. It reinstates a required reserve beater at no point, and the proposal's safety is still-possibling there. *(possible exploring)*
+- A fatigue crack grows slowly through a material and then breaks suddenly, a dying bothboth in a material. *(possible exploring)*
+- Decentralizing as each chip an edge chip is still-possibling at its one engineering question, which separation preserves the bi-coupling: physical distance, separate power supplies, separate networks, different operators or another material relation, each its own requirement, the choosing among them still-possibling. *(possible exploring)*
+- A stable form between collidings, a not-changing social competency and a not-changing parity at a sharing are three subjects, each with its own relation, and a joint form of the three is still-possibling.
+- 1.1's *free-sharing-mutual natural network* and 1.8's *free-sharing-mutual surface between selves* either re-say as a sharing-mutual natural network, *free* released at a changing into living's own same-existing, observing and discovering with each bi-coupling, or keep *free-sharing-mutual* as that network's own title. *(possible incohering)*
+- 1.7's chip row *Inversioning and tunneling*, gates and interconnections bringing each sign's changing, is either re-said at ONE's names, a prior parity kept or inverted at 12-next-co-same-existing and each sharing's parity shared across at 10-next-co-possibling, or kept for a chip passage's own motion. *(possible incohering)*
+- A computer virus and artificial life are each, as a trained model is, a non-living stable-forming emanation of living selves.
+- Natural Engineering's body holds links to its fields' sources beside its observings, and each link either stays with its sentence or goes with its finding to this file's record of sources, Geodesic Improving Method 2.8 holding either place. *(possible incohering)*
+- A pacemaker participating at both sides of a lost bi-coupling at each beat is still-possibling, its open questions an absent beat with its preceding observing absent, a pace it senses bringing further paces of its own, the body's relevant input absent, and harm where its pace meets the heart's own beat. *(possible exploring)*
+- A resolver conversation is still-possibling as five steps, each one concept, each run at the code before it is written: the between answered, with the human's next one-way given at the parting continuations and six one-ways cycling; the text going on with selves, rings at 17 taking the characters round, with what a parting erases and whether a ring gives its pattern again at the next round; a sharing at each word of a window as well as at each character, a reply ending where its sentence ends; partial agreement at the scale inward, the agreement at the 1–17s inward, all or none at each finer scale, in place of a count at this one; and a self added at each giving, the network going on with the conversation as selves, so the next reply meets what is said before it. *(possible exploring)*
+- Exhibit ONE's resolver is Natural Engineering's one worked illustrating of the method, named by its name alone: a human engineering of natural resolving, the method illustrated at python, a stable form of another kind, its tables the method's stable forms and prior to its code. *(possible incohering)*
+- Natural Engineering's *retains its own* and *remains to express* sayings are a hedging by Natural Explaining 3.12, a line marking *this is open*, each dissolving into what its sentence holds at that sentence's improving. *(possible incohering)*
