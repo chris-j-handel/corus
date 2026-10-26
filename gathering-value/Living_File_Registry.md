@@ -10,6 +10,8 @@ Gathering-Value · Living File Registry
 
 ### 1.1 Titles, subtitles and living files at repository
 
+- **Possible incohering** · "Self-Welcoming Social Moral Co-Offerings" → Self-Welcoming Social Moral Co-Sharings
+
 ### 1.2 Three standings, looping out and back
 
 ### 1.3 Carrying for expedition

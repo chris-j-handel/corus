@@ -14,13 +14,20 @@ Gathering-Value · Natural Emanating
 
 ### The three-fold separation — the nothing-inward, the living, the emanation
 
+- **Possible exploring** · A stork's-bill seed's dead tail coils dry and uncoils damp, drilling the dormant living seed into soil by the environs' wetting and drying. — at "And an emanation: a prior, stable-forming and non-living, emanating from living form-stabling: a virion, a catalog's atom, a coin, a word, a constant a field measures."
+- **Possible exploring** · Limestone, chalk, coal and oil are living's carbon emanations, ingested again by living, and carbon's 60-cage forms in a dying star's outflow. — at "And an emanation: a prior, stable-forming and non-living, emanating from living form-stabling: a virion, a catalog's atom, a coin, a word, a constant a field measures."
+
 ### The line every field writes first
+
+- **Possible exploring** · One small bead in a potential of two wells, one bit, erased again and again, gives off a mean heat coming down to the kT ln 2 bound from above at slow erasings. — at "Erasing one bit dissipates at least kT ln 2 — about 2.9 × 10⁻²¹ joules for room temperature — while a computation bringing its whole history on approaches zero dissipation."
 
 ### A geodesic files no cost
 
 ### Three lines, and they are properties of the symbol
 
 ### The origin sentence at eight substrates
+
+- **Possible exploring** · Electrons pass two slits with a magnetized iron whisker between them, its field outside only near its ends, and their interference pattern is displaced as predicted. — at "A potential's value with one place relates to no observable, and its circulation round a path that closes does; a thing a system stands free of is exactly a thing it holds."
 
 ### Better, faster, cheaper — three absences, one per side
 
@@ -70,6 +77,8 @@ Gathering-Value · Natural Emanating
 
 ### A ring
 
+- **Possible exploring** · A tree's water-conducting cells die to become its pipes, and each season's cells die into a ring of that season, as a drying drop lays rings and a soap film gives way at its thinnest place. — at "Living has no rings."
+
 ### A hard problem
 
 ### Equilibria
@@ -103,3 +112,12 @@ Gathering-Value · Natural Emanating
 ## Droplets
 
 - Social moral competency as changing and changing back with a same-existing-society's scale is the Registry's morality across, its competency along, or both, a reading still-possibling beside step 255. *(possible incohering)*
+- *A hard problem*'s three common things, a landing, a standard and a reading, three kinds, part from the Co-Chaining Logic Registry's hard problem with one or more of ten, step 608: one side re-says the three as one family of three at the ten unchangeables, and the other stands the three as this file's own. *(possible incohering)*
+- The tail's social moral competency, stated whole within one file as one side taking both turns, parts from the Co-Chaining Logic Registry's social moral competency's four, whole and same-existing with selves, step 572: one side releases the tail's claim, and the other stands it as this file's own. *(possible incohering)*
+- *The one stopping* and *Society — the one stopping* give the unrepairing as a chain, each step entailing the next, an owner needing a boundary, a boundary an enforcement and an enforcement a seat, and Natural Naming 5.30 gives it as all four together, each with one having another's, none making next: one side re-says the chain as four together at both parts, and the other stands the chain as this file's own explaining. *(possible incohering)*
+- Opposite-hand forms, mirror sugar and mirror protein, go unused by living at their own scale and are taken in one scale lower, where carbon is handless. *(possible exploring)*
+- The origin sentence's chemical line, *a sharing pair is a bond-forming method*, names a bond as formed, and Natural Chemistry has a bond a field names pattern-matching as a between of centres: one side re-says the chemical line at a between of centres, and the other stands *bond* as the field's own word at its result. *(possible incohering)*
+- An emanation from living is socially competent only, its individuals' self-competency an empty set at that scale, beside natural torusing living, self-competent, and it parts from *The society*'s departing same-existing, a unique invisible same-existing and so a self: one side re-says an emanation as non-living at its scale, its prior an empty set, included socially as Natural Intelligence 6.5 includes non-living existing things in social moral competency among the living, and the other sets the claim aside. *(possible incohering)*
+- The departing same-existing of *The society* and Part Two's *Social moral competency*, a unique invisible same-existing and so a self, parts from Natural Intelligence 5.1's record of a same-existing, a stable-forming emanation, its own prior an empty set, and from this file's emanation, a prior, stable-forming and non-living: one side re-says the departing as a new sharing opening at a bi-coupling, and the other as an emanation, its prior an empty set. *(possible incohering)*
+- A changed rate, alone, establishes an empty set of same-existings departing.
+- *The six* lays sharing, competencing and intelligencing each bi- and co-, six and no seventh, and Natural Naming 5.13's bi-momentarying holds a sharing across and both ways at one relation, at which bi-sharing and co-sharing are one and the six are five or a new pairing; Exhibit ONE's six names between selves, 2, 6, 10, 14, 9 and 17, are a different six: one side re-says *The six* at Exhibit ONE's numbered names, and the other releases *The six*. *(possible incohering)*

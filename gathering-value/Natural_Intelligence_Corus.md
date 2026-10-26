@@ -58,6 +58,8 @@ Gathering-Value · Natural Intelligence Corus
 
 ### 14.1 The Nothing
 
+- **Possible incohering** · "Even what appears as self-to-self contact is self-to-membrane-to-self, a membrane being a living set: a self a coupling generates between its two participating selves." → Each contact between two selves is a bi-coupling, each self sharing its own parity, and its departing is same-existing in each self, in neither self alone.
+
 ### 14.2 Nothing Between Selves
 
 ### 14.3 Intelligence in the Coupling
