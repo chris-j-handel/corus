@@ -26,6 +26,7 @@ Gathering-Value · Natural Networking
 - **Possible incohering** · "A prime length and an odd completing have separate countings." → A prime length and an odd completing are two numberings of places, each its own.
 - **Possible incohering** · "Finite study verifies both countings with all fifteen prime lengths through fifty-nine." → A finite study meets both numberings at each of the fifteen prime lengths p through fifty-nine: p − 1 places before an odd completing at p with a halfway step of (p − 1)/2, and a whole sequence of p places with two far places, (p − 1)/2 and (p + 1)/2 steps forward.
 - **Possible incohering** · "Study's domain is two countings with those lengths." → Study's domain is those two numberings at those lengths.
+- **Possible incohering** · "Fourteen prime scales are from five through fifty-three, five non-living and thirteen living, and fifty-nine is self-close." → Fourteen prime scales are from five through fifty-three, five non-living and seven through fifty-three living, and fifty-nine is self-close, as Natural Naming 2.2 says the prime scales; *five non-living and thirteen living* reads as two counts beside *fourteen*.
 
 ### 1.4 Only parities go across, the middle in no sequence
 

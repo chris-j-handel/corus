@@ -34,6 +34,8 @@ Gathering-Value · Living Ghost Registry
 
 ### 3.1 Standing
 
+- **Possible incohering** · "“Bond”, field side, is living, a between of two selves, in neither self alone; “bond” as little connector object is a separate use to test." → “Bond”, field side, *is living, a between of two selves, in neither self alone*, parts from Natural Chemistry 1.1's *What chemistry calls a bond is, within a molecule, its stable form, same-existing with each resolving, and, between molecules, a bi-coupling of two selves*, a bond's two atoms within a molecule each a non-living stable form, Natural Chemistry 1.1 and Natural Physics 3.1. Both stand open: “bond”, field side, said between molecules a bi-coupling of two selves, living, in neither self alone, and within a molecule a molecule's stable form, as Natural Chemistry 1.1 has it; or a bond kept a between of two selves, living, and Natural Chemistry 1.1's within-molecule side said at it. 3.1 and 6.1 go together.
+
 ### 3.2 The uniform properties
 
 ### 3.3 The report
@@ -79,6 +81,8 @@ Gathering-Value · Living Ghost Registry
 ## PART SIX · THREE PLACINGS, AND INSTALLATION THE BINARY
 
 ### 6.1 Bond, living
+
+- **Possible incohering** · "**Bond is a between of two selves, living with natural side**, coupling itself and no accounting of one." → *Bond is a between of two selves, living with natural side* parts from Natural Chemistry 1.1's *What chemistry calls a bond is, within a molecule, its stable form, same-existing with each resolving, and, between molecules, a bi-coupling of two selves*, a bond's two atoms within a molecule each a non-living stable form, Natural Chemistry 1.1 and Natural Physics 3.1. Both stand open: bond, natural side, said between molecules a bi-coupling of two selves, living, and within a molecule a molecule's stable form, as Natural Chemistry 1.1 has it; or bond kept a between of two selves, living, and Natural Chemistry 1.1's within-molecule side said at it. 6.1 and 3.1 go together.
 
 ### 6.2 Periodic-table address, accounting
 

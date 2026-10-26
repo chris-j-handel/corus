@@ -48,7 +48,12 @@ Gathering-Value · Living Society Registry
 
 ### 2.7 Two neutrons at one core
 
+- **Possible incohering** · "**The members.** A core and each neutron, and its pair, non-living stable forms, each parity with them an observing self's with a coupling." → **The members.** A core, each neutron and their pair, each a non-living stable form; each parity with them is an observing self's, with a coupling.
+- **Possible incohering** · "**The society.** A lithium-11 nucleus, a non-living stable form inward of an atom: a lithium-9 core and two neutrons, a halo, with observings in a beam by interaction cross-sections, by Coulomb breakup into core and neutrons, and in a trap by its mass." → 2.7's society and members and 2.8's members are non-living stable forms, and Part 3's *a nucleus and cold atoms, non-living stable forms* says it again, within Part 2, *Collecting — societies at their own grains*, of a Living Society Registry, while Natural Intelligence has *A same-existing-society is its bi-coupling selves*. Both stand open: 2.7 and 2.8 kept with this Part, said as observing selves' parities with non-living stable forms, or said at a place of their own beside the societies.
+
 ### 2.8 Three atoms at one scattering length
+
+- **Possible incohering** · "**The members.** Each atom, a non-living stable form, each parity with it an observing self's with a pair coupling — a scattering length's sign — one at a time." → **The members.** Each atom, a non-living stable form; each parity with it is an observing self's, with a pair coupling, a scattering length's sign, one at a time.
 
 ### 2.9 A membrane at one potential
 

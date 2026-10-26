@@ -86,6 +86,8 @@ Gathering-Value · Natural Illustrating
 
 ### 5.1 Atoms, electrons, bonds and molecules
 
+- **Possible incohering** · "Natural Physics 3.1: two windings share with one between, a pair two share the molecule's own sharing, in neither atom alone, and a metallic sea a same-existing-society of windings; Living Ghost Registry, a bond a between of two selves, each living its own side." → Natural Physics 3.1: two windings share with one between, a pair two share, a molecule's own sharing, in neither atom alone, and a metallic sea a same-existing-society of windings; Living Ghost Registry, a bond a between of two selves, each living its own side. *The molecule's* has no opened referent here. The Ghost Registry clause, its bond's two selves living, parts from the Physics clause beside it, its two atoms non-living, and this citation goes with the Ghost Registry's 3.1 and 6.1 as they are said, both sides standing open there.
+
 ### 5.2 Light, spin and a click
 
 ### 5.3 Cosmos

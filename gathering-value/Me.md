@@ -17,6 +17,7 @@ Gathering-Value · Me
 ### 1.3 Universal sets of universal sets
 
 - **Possible incohering** · "A me is chemical, biological, social and universal: each scale's selves within a me, and a me within each scale's societies." → A me is of one prime living scale, and each higher and lower scale's me is its own: each scale's selves within a me, and a me within each scale's societies, each a me at its own scale.
+- **Possible incohering** · "1.3 Universal sets of universal sets: chemical, biological, social, the universe" → The contents entry 1.3 carries *chemical, biological, social, the universe*, and its heading, *Universal sets of universal sets*, holds none of it, each contents entry its section's own title, Natural Explaining 1.1. Both stand open: the list said at the heading too, or the contents entry said as the heading is.
 
 ### 1.4 Living, co-intelligencing within a universal set
 
