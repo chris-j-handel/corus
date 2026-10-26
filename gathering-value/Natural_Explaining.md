@@ -90,8 +90,8 @@ Gathering-Value · Natural Explaining
 
 ## Droplets
 
-- Removing a candidate ghost from an explaining leaves its associated instrument responses and preparation conditions incoming rather than removing them with the name. *(possible exploring)*
+- Removing a candidate ghost from an explaining leaves the instrument responses and preparation conditions going with it incoming rather than removing them with the name. *(possible exploring)*
 
-- Excluding magnitude and resistance from a proposed binary operation leaves quantitative observations available without making their quantities its mechanism. *(possible exploring)*
+- Excluding magnitude and resistance from a binary operation a proposal names leaves quantitative observations available without making their quantities its mechanism. *(possible exploring)*
 
-- A concern dissolves only at its actual joining, so an unspecified correspondence is neither an observed break nor a confirmation of universal explaining. *(possible exploring)*
+- A concern dissolves only at its actual joining, and a correspondence with no specifying is neither a break a self observes nor a confirming of universal explaining. *(possible exploring)*

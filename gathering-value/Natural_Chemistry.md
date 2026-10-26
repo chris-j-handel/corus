@@ -92,14 +92,14 @@ Gathering-Value · Natural Chemistry
 
 ## Droplets
 
-- One unchanged atom/carbon is the proposed universal non-living stable form, with every changing belonging to its co-chaining relations and its physical identification still possibling. *(possible exploring)*
+- A proposal names one not-changing atom/carbon the universal non-living stable form, each changing belonging to its co-chaining relations, its physical identification still possibling. *(possible exploring)*
 
 - Four interchangeable faces require distinguishable co-chaining relations before they can correspond to the four distinguishable DNA bases. *(possible exploring)*
 
-- Compression can belong to the spacing among unchanged constituents while durable along relations and changing across relations remain different participants in the same co-chaining. *(possible exploring)*
+- Compression can belong to the spacing among not-changing constituents while durable along relations and changing across relations remain different participants in the same co-chaining. *(possible exploring)*
 
-- The proposed hydrogen, oxygen and nitrogen correspondence with observing, possibling and discovering remains an unassigned joining whose particular relations are still possibling. *(possible exploring)*
+- A proposal's correspondence of hydrogen, oxygen and nitrogen, each is-not a carbon atom, with observing, possibling and discovering is a joining with no assignment yet, its particular relations still possibling. *(possible exploring)*
 
-- A near-side projection and a far-side projection can disguise opposite spatial hands, so orientation information belongs with each observing offered to universal right-spiral co-sequencing. *(possible exploring)*
+- A front-side projection and a back-side projection can disguise opposite spatial hands, and orientation information belongs with each observing a self brings to universal right-spiral co-sequencing. *(possible exploring)*
 
-- Spectral signatures assigned to short carbon chains remain particular incoming observations without showing one continuous co-chaining through every between. *(possible exploring)*
+- Spectral signatures a field assigns to short carbon chains, many carbon atoms each, are particular incoming observings and show no one continuous co-chaining through each between. *(possible exploring)*

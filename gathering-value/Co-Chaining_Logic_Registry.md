@@ -102,8 +102,8 @@ Gathering-Value · Co-Chaining Logic Registry
 
 ## Droplets
 
-- The universe as the set of all now-existing things leaves the particular links to universal atom/carbon, its shape and its inception to be carried rather than supplied by the opening sentence alone. *(possible exploring)*
+- The universe as the set of all now-existing things is an opening sentence, and the particular links to a universal atom/carbon, its shape and its inception are each a further link to bring, the opening sentence alone giving none of them. *(possible exploring)*
 
-- An odd cycle concerns opposite simultaneous parities, while a later return with changed parity concerns successive operations and need not contradict same-existing. *(possible exploring)*
+- An odd cycle concerns opposite simultaneous parities, while a later return with an other parity concerns successive operations and need not contradict same-existing. *(possible exploring)*
 
-- A durable artifact and its living participation can share unchanged constituents without making the isolated non-living constituent itself a living resolver. *(possible exploring)*
+- A durable artifact and its living participation can share not-changing constituents, and a non-living constituent apart from them is-not a living resolver. *(possible exploring)*

@@ -120,10 +120,10 @@ Gathering-Value · Natural Exploring
 
 ## Droplets
 
-- Carry each specimen's preparation, imposed constraints, recorded response, inference and available timing together, distinguishing a still image, sampled succession, time bound and simulated duration. *(possible exploring)*
+- Each specimen's preparation, the constraints a preparing sets, the response an instrument records, its inference and its available timing go together, a still image, a succession of samples, a time bound and a duration a simulation gives each its own. *(possible exploring)*
 
-- Carry the particular co-chaining's binary disconnecting into same-momentary across bi-tunneling with unchanged units, while honeycomb patterns, reported opposite spatial hands with projection controls, differing fiber structures and activity using stored resources remain incoming. *(possible exploring)*
+- A particular co-chaining's binary disconnecting goes into bi-tunneling across within the same momentary, its units not-changing, while honeycomb patterns, opposite spatial hands a field reports with projection controls, differing fiber structures and activity using resources a self stores are each still incoming. *(possible exploring)*
 
-- Reported opposite spiral hands remain incoming with near/far ambiguity and orientation controls, with neither an unqualified flat projection nor a dismissed interpretation completing their resolving. *(possible exploring)*
+- Opposite spiral hands a field reports are incoming with a front/back ambiguity and orientation controls, and neither a flat projection alone nor a dismissing of an interpretation completes their resolving. *(possible exploring)*
 
 - A disturbing front in sparse interstellar gas is a concrete concern for light-only transmission, while its correspondence to a slower NI prime scale remains open. *(possible exploring)*

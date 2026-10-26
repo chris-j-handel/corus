@@ -73,4 +73,4 @@ Gathering-Value · Natural Societies
 
 ## Droplets
 
-- Prior living in the universal atom/carbon proposal reaches all NI living scales, so absence of biological organisms does not by itself exclude that proposed origin. *(possible exploring)*
+- Prior living in the universal atom/carbon proposal reaches each NI living scale, and an absence of biological organisms alone excludes no such origin. *(possible exploring)*

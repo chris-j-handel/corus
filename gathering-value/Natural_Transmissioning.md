@@ -64,10 +64,10 @@ Gathering-Value · Natural Transmissioning
 
 - An all-or-none disconnecting at one coupling needs its particular onward relation to occasion a changing at another coupling. *(possible exploring)*
 
-- Dense along-only co-chainings do not gain across connections merely by proximity, leaving their actual onward participation to be carried. *(possible exploring)*
+- Dense along-only co-chainings do not gain across connections merely by proximity, their actual onward participation still to bring. *(possible exploring)*
 
 - After a coupling disconnects, onward changing requires that event to occasion another coupling, a coupling forming again, or another available co-chaining. *(possible exploring)*
 
-- Five NI relations with two directions each describe the proposed ten ways without supplying ten physical sockets or five spatial axes, while coupling presence and participating direction retain their different binary relations. *(possible exploring)*
+- Five NI relations with two directions each describe the ten ways a proposal names without supplying ten physical sockets or five spatial axes, while coupling presence and participating direction retain their different binary relations. *(possible exploring)*
 
-- The proposed light-prime restriction in sparse space remains to be joined to the distinct observings of earlier radiation and a later traveling disturbance without identifying parity rate with travel speed. *(possible exploring)*
+- The light-prime restriction a proposal names for sparse space is still to join with two distinct observings, a radiation first and a disturbance going on later, parity rate and a disturbance's speed two subjects. *(possible exploring)*

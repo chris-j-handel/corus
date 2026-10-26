@@ -150,10 +150,10 @@ Gathering-Value · Natural Biology
 
 ## Droplets
 
-- DNA's A, T, G and C name adenine, thymine, guanine and cytosine, so C in this alphabet names a base containing many atoms rather than one carbon atom. *(possible exploring)*
+- DNA's A, T, G and C name adenine, thymine, guanine and cytosine, and C in this alphabet names a base of many atoms, and is-not one carbon atom. *(possible exploring)*
 
-- Ordinary A–T and G–C partnering must remain particular when inherited DNA co-chaining is offered as the four faces of 2, 6, 10 and 14. *(possible exploring)*
+- Ordinary A–T and G–C partnering stays particular as a proposal meets a kind's DNA co-chaining, an artifact of its prior living, with the four faces of 2, 6, 10 and 14. *(possible exploring)*
 
-- Durability and infrequent breaking alone do not supply the living relation of a me, leaving its inherited stable-form artifact and its observing co-chaining to be joined. *(possible exploring)*
+- Durability and rare breaking alone are-not the living relation of a me, and a me's stable-form artifact from its kind's prior living and its observing co-chaining are two subjects still to join. *(possible exploring)*
 
-- Changes in DNA pairing geometry can occur while the paired letter names persist, leaving partner identity and the particular relation between partners as different observings. *(possible exploring)*
+- DNA's pairing geometry can change while the letter names of a pair go on, partner identity and the particular relation between partners being two observings. *(possible exploring)*

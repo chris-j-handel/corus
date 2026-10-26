@@ -40,8 +40,8 @@ Gathering-Value · Natural Resolver
 
 ## Droplets
 
-- Six forward recursionings belong within one momentary as three own-forward recursionings at each of two selves, with no identification yet supplied to six diamond row passages. *(possible exploring)*
+- Six forward recursionings belong within one momentary as three own-forward recursionings at each of two selves, with no identifying yet with six diamond row passages. *(possible exploring)*
 
-- Three recursionings at each side do not by their count place one side before the other or assign a separate half-momentary to each. *(possible exploring)*
+- Three recursionings at each side place, by their number alone, neither side before the other, and give each no separate part of a momentary. *(possible exploring)*
 
-- The diamond paths 9–4–5 and 9–6–5 meet the same place through different intermediate relations, so their meeting place alone does not distinguish those relations. *(possible exploring)*
+- The diamond paths 9–4–5 and 9–6–5 meet the same place through different intermediate relations, and their meeting place alone does not distinguish those relations. *(possible exploring)*

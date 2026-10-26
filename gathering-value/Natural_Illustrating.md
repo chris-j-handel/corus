@@ -130,4 +130,4 @@ Gathering-Value · Natural Illustrating
 
 - The current diamond has rows 1; 8 and 2; 7, 5 and 3; 6 and 4; and 9, placing 5 at its centre and 1 at its forward point. *(possible exploring)*
 
-- A whole diamond translated without internal changing needs encounters with other now-existing things to carry the proposed observing, rather than taking motion alone as resolving. *(possible exploring)*
+- A whole diamond moving with no internal changing needs encounters with other now-existing things for the observing a proposal names, motion alone being no resolving. *(possible exploring)*

@@ -138,6 +138,6 @@ Gathering-Value · Natural Numbers
 
 ## Droplets
 
-- Two unrestricted forward half-momentary moves through the diamond allow right, straight and left outcomes, leaving straight-or-right-only dependent on an additional relation excluding two successive left moves. *(possible exploring)*
+- Two forward moves through the diamond, each open both ways and each one part of a momentary of two parts, allow right, straight and left outcomes, and straight-or-right-only goes with a further relation excluding two successive left moves. *(possible exploring)*
 
-- Eight assignments between paired letters and paired roles count correspondences rather than eight parity changings, just as three intervals between four positions do not count three full twists. *(possible exploring)*
+- Eight assignments between letters in pairs and roles in pairs are eight correspondences and not eight parity changings, as three intervals between four positions are-not three full twists. *(possible exploring)*

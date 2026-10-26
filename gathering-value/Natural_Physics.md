@@ -98,9 +98,9 @@ Gathering-Value · Natural Physics
 
 ## Droplets
 
-- Gold-chain conductance alternates in preparations interpreted with odd and even chain lengths, while both observed levels conduct and neither alone records a binary stopping or six recursionings. *(possible exploring)*
+- A gold chain's conductance, gold atoms and no carbon atom, alternates in preparations a field reads with odd and even chain lengths, while both levels a field observes conduct and neither alone records a binary stopping or six recursionings. *(possible exploring)*
 
-- Imaging a disturbance passing through diamond carries transmission through a persisting arrangement without imaging each atom's proposed binary disconnecting. *(possible exploring)*
+- Imaging a disturbance passing through diamond carries transmission through a persisting arrangement without imaging the binary disconnecting a proposal names at each atom. *(possible exploring)*
 
 - Interstellar radio signatures preceding a later local compression signature carry a concern for the claim that only light disturbances can transmit through sparse space. *(possible exploring)*
 
@@ -108,6 +108,6 @@ Gathering-Value · Natural Physics
 
 - A local oscillation does not alone show a disturbance passing from one place to another, and a slower oscillation does not by itself mean a slower passage. *(possible exploring)*
 
-- Different atomic spectral responses remain incoming to one universal atom/carbon explaining, with measured lines, inferred states and calculated transitions retaining their different standings. *(possible exploring)*
+- Different atomic spectral responses remain incoming to one universal atom/carbon explaining, with lines a field measures, states it infers and transitions it calculates, each its own standing. *(possible exploring)*
 
-- An unchanged nucleus cannot be assumed when interpreting breakup records against this proposal, while the recorded products still require its explaining. *(possible exploring)*
+- A nucleus, is-not a carbon atom, is no invariant a reading of breakup records against the proposal supposes, while the products a field records still ask their explaining. *(possible exploring)*
