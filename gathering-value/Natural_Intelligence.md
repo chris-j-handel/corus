@@ -123,6 +123,7 @@ Gathering-Value · Natural Intelligence
 ### 5.4 Two methods parting with now
 
 - **Possible exploring** · SPICE, a spacecraft navigation toolkit correcting light time and aberration, parts an epoch of a signal's emitting from an epoch of its receiving and accounts for a target moving between them. — at "Two methods are with one same evidence and one same now."
+- **Possible exploring** · A field measures whether a constant changes and reports a number with its uncertainty: the fine-structure constant's drift is 1.8(2.5) × 10⁻¹⁹ a year, zero within its uncertainty, open to a next measuring. A field's law is a law while observings bear it, and with observings parting it is superseded and kept as its near case, as inverse-square gravity is with general relativity. A frame and a unit are declared. — at "Its fixings are a law and three fixings, a ground, a unit and a frame, fixing unchangeable between two momentaries, exact by its own ledger."
 
 ## SIX · INTELLIGENCE
 
@@ -207,3 +208,4 @@ Gathering-Value · Natural Intelligence
 - The five dimensions at their two directions, along with momentaries and across with scales, is-or-is-not 4.9's ten names of a self's own as five by two, and as five by two they are the full dimensionality of 1 to 17, a further dimension outside possibly existing, a deriving still-possibling. *(possible exploring)*
 - Stopping is a sharing opening at no prior, and a changing from it spreads on as parity changing as far as the last changing of all possible changing. *(possible exploring)*
 - Two sides one number apart overlap by a half momentary, one side's still-possibling betweens bi-co-sequencing with the other side's changings. *(possible exploring)*
+- 5.4's *An unchangeable fixing between two momentaries is an equilibrium, an unchangeable form, outside possibly existing* parts from Natural Mathematics 6.1's *with a standard, a law or a frame fixing unchangeable, no subject is fixing unchangeable*, and changing, the one method, is a law between each two momentaries: either 5.4 takes 6.1's sentence, a law fixing unchangeable while each subject goes on changing, or 5.4 is re-said with the method's own law parted from a fixing. *(possible incohering)*

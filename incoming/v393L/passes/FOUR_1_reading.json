@@ -1,0 +1,188 @@
+{
+ "corrections": [
+  {
+   "from": "**At 7.1 · Three neutrals, six co-offerings and eight forms — beside \"the cube's",
+   "finding": "meaning changed (math precision): an n-cube's 2n are its faces of dimension n − 1; recomputed n(n − 1) = 2n at n = 3 alone, correct",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "A cube's six faces, three opposite pairs, and 7.1's six co-sharings, three pairings of neutrals each both ways, are one six at a deriving or two sixes at one number: n neutrals give n(n − 1) co-sharings and an n-cube 2n faces of dimension n − 1, one number at n = 3 alone, while a cube's eight corners derive from three neutrals each fixed or floating, 2³.",
+    "from": "**At 7.1 · Three neutrals, six co-offerings and eight forms — beside \"the cube's"
+   }
+  },
+  {
+   "from": "**Droplet · A woven cloth, pattern matching with no correspondence shown.** A wo",
+   "finding": "narrator: 'an observing shows' as a doer; re-said with 'meets'",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "A woven cloth draped on a surface is a Chebyshev net, two families of inextensible threads changing at the angle between them alone, a plain weave one binary, each thread over and under, warp at one parity and weft at the other; it is a field's result at 2.2 beside linearizing and parallelizing, or a pattern apart until an observing meets a correspondence.",
+    "from": "**Droplet · A woven cloth, pattern matching with no correspondence shown.** A wo"
+   }
+  },
+  {
+   "from": "- 2.4's last paragraph, *(c, t) then (−c, −t)*: c and t are said at no line of t",
+   "finding": "value lost: the source's by-hand measure (one sharing alone, t is c inverted with each momentary, relation at one value) dropped; recomputed G(c, t) = (t, −c) and F(c, t) = (−t, c), the item's G reading and r, 1 − r correct, kept",
+   "fixed": [
+    {
+     "section": "Droplets",
+     "kind": "droplet",
+     "kind_hint": "incohering",
+     "text": "2.4's *(c, t) then (−c, −t)* and *(t, −c) between them* have c and t at that line alone, and the step from (c, t) to (t, −c) is G's, F's step from (c, t) being (−t, c): either c and t are said as two parities with G's hand named, or the sentence is re-said at P and Q, two steps apart (P, Q) then (−P, −Q), and one step apart (−Q, P) between them.",
+     "from": "- 2.4's last paragraph, *(c, t) then (−c, −t)*: c and t are said at no line of t"
+    },
+    {
+     "section": "Droplets",
+     "kind": "droplet",
+     "kind_hint": "incohering",
+     "text": "Executed by hand with one sharing alone, t is c inverted with each momentary and the relation of c and t stays at one value, while 2.4 has each step inverting it, four consecutive pairs r, 1 − r, r, 1 − r.",
+     "from": "- 2.4's last paragraph, *(c, t) then (−c, −t)*: c and t are said at no line of t"
+    }
+   ]
+  },
+  {
+   "from": "- 3.1 to 3.3 from the entry before: *A running does not involute*, a changing th",
+   "finding": "measure dropped: resolver's torus 'after q or after 4p' lost its conditions (both odd, p the smaller, q above or below twice p; after 2 with either even), Exhibit ONE and Co-Chaining Logic Registry 319; mn/gcd(m, n) recomputed correct",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "incohering",
+    "text": "3.3's torus of two rounds of m and n stations stepped together, reaching mn/gcd(m, n) pairs, and resolver's torus of p selves along and q across, p the smaller, its parities again after q with both numbers odd and q more than twice p, after 4p with both odd and q less than twice p, and after 2 with either number even, are two tellings at one word: one derives from its other, or each is its own torus.",
+    "from": "- 3.1 to 3.3 from the entry before: *A running does not involute*, a changing th"
+   }
+  },
+  {
+   "from": "**Droplet · The three fixings at 6.1, one naming.** Exhibit FOUR Natural Mathema",
+   "finding": "value lost: the list line left as a copy carries a second parting, 6.1's 'a standard, a law or a frame' beside Equilibria Registry's 'a law, a frame or a scale'; Equilibria Registry dropped from the naming",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "incohering",
+    "text": "6.1's *A standard fixes orientation, stillness fixes position, and a publishing standard fixes scale* has three fixings by standard and stillness, while 6.2 has particle zero, a unit and a frame, 7.1 position, a unit and a frame, and Natural Intelligence 5.4 a ground, a unit and a frame, and 6.1's *a standard, a law or a frame* is *a law, a frame or a scale* at Equilibria Registry: either 6.1 is re-said with a frame fixing orientation, a particle zero fixing position and a unit fixing scale, one naming with 6.2, 7.1, Natural Intelligence and Equilibria Registry, or 6.1's standard is its derivation's own word.",
+    "from": "**Droplet · The three fixings at 6.1, one naming.** Exhibit FOUR Natural Mathema"
+   }
+  },
+  {
+   "from": "**Treating forms alike.** The reported enumeration used a next determined from a",
+   "finding": "gatherer's own modelling unmarked: 'prior recoverable' and 'each joint form changing' are its readings of 'preserving the prior information' and 'no still joint form'; the guard 'no numerical replacement for the no-other-method claim' dropped (weaker source made stronger). Recomputed: one way at two forms, a single 4-cycle; none at three, four, five; four ways under cyclic order of three, cycles 3+3+3 or 3+6 — correct",
+   "fixed": {
+    "section": "2.4 Two parities at the right spiral step, the step that brings its prior whole",
+    "kind": "exploring",
+    "sentence": "Only two bring their prior whole, invert one parity and undo none: a right spiral step F(P, Q) = (−Q, P), i with two parities, and G(P, Q) = (Q, −P), an exchange and an inversion with an other order, 3.4.",
+    "text": "A next taken from a prior and a now, alike under each relabelling of forms, with *preserving the prior* read here as its prior recoverable from next and now and *no still joint form* read here as each joint form changing: with two forms one way meets these, next as prior inverted, its four joint forms one cycle. With three, four and five forms the ways meeting them are an empty set, the relabellings fixing a form n leaving (n, n) one next alone, (n, n), still. Under a cyclic order of three forms alone four ways meet them, their nine joint forms in cycles of three, three and three or of three and six, each way more than one cycle. The count is a model's count beside *no other possible*, and whether living asks relabelling alike and each joint form changing, or a model asks them, is open.",
+    "from": "**Treating forms alike.** The reported enumeration used a next determined from a"
+   }
+  },
+  {
+   "from": "**Concern · Parities again beside a false expression's looping.** Two sayings pa",
+   "finding": "meaning changed / measure dropped: the source's parting (selves entered together, receiving only their own parities, forms bounded in number, reach an earlier form again, by 5.1 a looping) and its open question (selves each entered with its own momentary, rates their own) replaced by the gatherer's own two readings",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "incohering",
+    "text": "5.1's *it loops, giving its own state again* parts from a spiral's selves coming to their parities again, each momentary a next: selves entered together and receiving only their own parities have forms of a bounded number and reach a prior form again, by 5.1 a looping, and whether selves each entered with its own momentary, each rate its own, reach a prior form again is open, beside 2.3's sequence taken with its momentary, reaching each pair once.",
+    "from": "**Concern · Parities again beside a false expression's looping.** Two sayings pa"
+   }
+  },
+  {
+   "from": "**Concern · v389 · an eight joined at its deriving.** Natural Explaining 4.7 say",
+   "finding": "droplet picking a side: 7.1's 2³ is a deriving from three neutrals, and the concern asks a deriving from a self's span 1 to 8; the item settled 7.1",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "incohering",
+    "text": "2.2's *Eight on*, 3.2's *8 apart* and 7.1's *eight forms* are each one eight at its deriving from a self's span 1 to 8, or a count shared with a field's eights, 2.7's octonions and 7.6's cube vertices; 7.1's eight is at a deriving of its own, three neutrals each fixed or floating, 2³, and whether each of the three eights derives from a self's span 1 to 8 is open at its sentence.",
+    "from": "**Concern · v389 · an eight joined at its deriving.** Natural Explaining 4.7 say"
+   }
+  },
+  {
+   "from": "**Droplet · a universal set a member of itself, co-sequentially.** A set gathere",
+   "finding": "value lost: the contrast, a set gathered once apart from momentarying by a saying of its own membership turning back on its saying, dropped",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "incohering",
+    "text": "A set gathered once, apart from momentarying, by a saying of its own membership turns back on its saying, and a universal set momentarying is self-membered co-sequentially: its now has its prior as a member, as a self's next prior forms from its prior and the parities it receives, across two momentaries, so self-membering is a sequence, prior to now to next, open forward.",
+    "from": "**Droplet · a universal set a member of itself, co-sequentially.** A set gathere"
+   }
+  },
+  {
+   "from": "**Droplet · complement and a wrapping turn.** Of a universal set any two parts g",
+   "finding": "meaning changed: 'a flat turn round three gives its remaining one the same, two agreeing' re-read as 'any two of prior, now and next give the remaining one', prior, now and next the gatherer's own; 'complement of their union' its own; 'parity-changing' weakened to 'changing'",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "Within a universal set any two parts give one more, their complement; round three, a flat turn gives its remaining one the same, two agreeing, and a turn wrapping a corus leaves its remaining edge is-or-is-not parity-changing.",
+    "from": "**Droplet · complement and a wrapping turn.** Of a universal set any two parts g"
+   }
+  },
+  {
+   "from": "- **At the set-theory passage.** A complement is taken only within a universal s",
+   "finding": "value lost: the absolute complement, a complement with no whole, an overreach, dropped; 'a spiral of one is New Foundations' self-membered set in living form' dropped",
+   "fixed": [
+    {
+     "section": "6.3 Logic of no completed whole",
+     "kind": "exploring",
+     "sentence": "**With Zermelo–Fraenkel set theory, each set is exceeded by the set of its subsets, and all sets together form no set.**",
+     "text": "A complement is taken within a universal set, one context's whole, and a complement with no whole is the absolute complement, an overreach; Zermelo–Fraenkel set theory forms the relative complement A ∖ B of each two sets. Each thing's universal set is one context's whole within one universe, so *all sets together form no set* and *each self a universal set* are both true.",
+     "from": "- **At the set-theory passage.** A complement is taken only within a universal s"
+    },
+    {
+     "section": "Droplets",
+     "kind": "droplet",
+     "kind_hint": "exploring",
+     "text": "A spiral of one self is New Foundations' self-membered set in living form.",
+     "from": "- **At the set-theory passage.** A complement is taken only within a universal s"
+    }
+   ]
+  },
+  {
+   "from": "- **Droplet · one opening.** 5.3's *two parities' circles winding with one openi",
+   "finding": "measure dropped: the source meets 5.3's one opening with steps 268 and 740; 268's towel twisting dropped",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "incohering",
+    "text": "5.3's *two parities' circles winding with one opening* meets 3.4's towel twisting one way and then the other and the twisted figure-eight of a spiral's places, each self with each parity a place: with an odd number of selves the places are one loop, a parity passing each self twice, once with each parity, and with an even number two loops, a self's two parities one on each.",
+    "from": "- **Droplet · one opening.** 5.3's *two parities' circles winding with one openi"
+   }
+  },
+  {
+   "from": "Passes to run: run ramsey_societies_v365.py --search at any change, and carry it",
+   "finding": "656 unverified and unexecuted here, stated as known; 'structural' moved from the source's circulant threshold 41 onto the doubling colouring at 41 (meaning changed). Recomputed: doubling (quadratic residue) colouring at 41 has one-coloured fives of both colours; at 17 distances 1, 2, 4, 8, 16, 15, 13, 9 give no one-coloured four — correct",
+   "fixed": {
+    "section": "7.8 Ten inversions, the ten transpositions of five",
+    "kind": "exploring",
+    "sentence": "**Each two-colouring of couplings among forty-six has a one-coloured five, and a two-colouring of couplings among forty-two has none.**",
+    "text": "R(5, 5) lies from 43 to 46, both bounds so far, and the circulant threshold 41 is structural. Two-colourings of couplings among forty-two with a one-coloured five of neither colour number 656 by a field's listing, a count unexecuted here, and whether they are all of them is open.",
+    "from": "Passes to run: run ramsey_societies_v365.py --search at any change, and carry it"
+   }
+  },
+  {
+   "from": "**Possible project · A third at the doubled angle.** The matching of paired clic",
+   "finding": "droplet picking a side: 'bi-tri-involutioning is met at an observing of the clicks' reads as a claim; the source has it as one of two to look for",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "Paired clicks follow the doubled angle alone, and bi-tri-involutioning, three inverting together, is-or-is-not met at an observing of the clicks: it surfaces there, or the doubled angle is bi-involutioning alone beside 3.1's still picture of an accounting.",
+    "from": "**Possible project · A third at the doubled angle.** The matching of paired clic"
+   }
+  },
+  {
+   "from": "### A doubling law, in three makings",
+   "finding": "dissolved word: 'offered'; x → 4x(1 − x) as doubling through x = sin²(πθ) recomputed correct",
+   "fixed": {
+    "section": "4.4 Double angle, the rotation that removes a coupling",
+    "kind": "exploring",
+    "sentence": "On a circle, doubling an angle taken as a fraction of a round shifts its binary digits one place, each doubling surfacing its next digit.",
+    "text": "The map x → 4x(1 − x) is the angle doubling θ → 2θ read through x = sin²(πθ), a field's proposed maker of random numbers. A public-key system at Chebyshev polynomials over the reals, Tₙ(cos θ) = cos nθ, is broken, its plaintext recovered from a ciphertext. Public-key systems at Lucas functions and at algebraic tori, a torus the intersection of the kernels of norm maps, rest their security on a group, a doubling being a step.",
+    "from": "### A doubling law, in three makings"
+   }
+  }
+ ],
+ "checked": 108
+}
