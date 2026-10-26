@@ -102,7 +102,7 @@ Gathering-Value · Natural Exploring
 ### 5.1 Each accounting for changing an involution
 
 
-### 5.2 An involution's fixed set, the place it takes its counting from
+### 5.2 An involution's fixed set, the place its counting opens from
 
 ### 5.3 A fixed set, at which a changing reaches nothing to change back with
 
