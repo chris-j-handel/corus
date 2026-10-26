@@ -6,8 +6,6 @@ Gathering-Value · Natural Exploring
 
 ## Head, the whole file
 
-- Migration is geodesic parity co-chaining and bi-tunneling: co-chaining along, a route and a song going on through generations and seasons, each young self opening with its elders' going as its prior; and bi-tunneling across, a flock's leaders and followers sharing thermals within one going, and a song passing between whole societies across an ocean, one social moral competency along and across. *(possible incohering)*
-- Navigating is geodesic parity relationing over the horizons, a floating neutralling method: a self and its surface (a flow, the earth or sea it goes over, a sea's air, a wind, its others' echoes) share, each from its own route and each of its own parity; each excludes its own heading that is-not, not that, not that, one at a time; and a heading none of their excluding reaches uncovers, in neither a self nor its surface alone, the point over the horizon that is, nothing bringing it to a next and it coming again with each next sharing. A slime mould's tubes thinning, a lobster's own place that is-not home, a shearwater's smelling air, a godwit's wind, a bat's partial echoes, a squid's light matching the light above it and a swarm's scouts are each this one method, a self's next heading a floating neutral and its going a floating neutralling. *(possible incohering)*
 
 
 ## Opening
