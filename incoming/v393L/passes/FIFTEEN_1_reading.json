@@ -1,0 +1,86 @@
+{
+ "corrections": [
+  {
+   "from": "Natural torusing living is self-competent, and emanation from living is only soc",
+   "finding": "meaning changed: the source's 'only socially competent' is weakened to 'is-or-is-not socially competent', and the parting the standing names (this file's departing same-existing said a self; Natural Intelligence 6.5 including non-living things socially) is dropped",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "incohering",
+    "from": "Natural torusing living is self-competent, and emanation from living is only soc",
+    "text": "An emanation from living is socially competent only, its individuals' self-competency an empty set at that scale, beside natural torusing living, self-competent, and it parts from *The society*'s departing same-existing, a unique invisible same-existing and so a self: one side re-says an emanation as non-living at its scale, its prior an empty set, included socially as Natural Intelligence 6.5 includes non-living existing things in social moral competency among the living, and the other sets the claim aside."
+   }
+  },
+  {
+   "from": "**Concern · A departing carry, a self.** This file, at its society, has one carr",
+   "finding": "meaning changed: ', a self' is added to the first resolving side (the source has 'a new sharing opening at a bi-coupling' alone), and the concern's own claim 'A rate changed establishes no carrying' is dropped",
+   "fixed": [
+    {
+     "section": "Droplets",
+     "kind": "droplet",
+     "kind_hint": "incohering",
+     "from": "**Concern · A departing carry, a self.** This file, at its society, has one carr",
+     "text": "The departing same-existing of *The society* and Part Two's *Social moral competency*, a unique invisible same-existing and so a self, parts from Natural Intelligence 5.1's record of a same-existing, a stable-forming emanation, its own prior an empty set, and from this file's emanation, a prior, stable-forming and non-living: one side re-says the departing as a new sharing opening at a bi-coupling, and the other as an emanation, its prior an empty set."
+    },
+    {
+     "section": "Droplets",
+     "kind": "droplet",
+     "from": "**Concern · A departing carry, a self.** This file, at its society, has one carr",
+     "text": "A changed rate, alone, establishes an empty set of same-existings departing."
+    }
+   ]
+  },
+  {
+   "from": "*Standing at v389:* *The six* lays three things a carrying does, each two ways, ",
+   "finding": "value dropped: the standing's measure, Natural Naming 5.13's bi-momentarying holding a sharing across and both ways at one relation, so the six become five or a new pairing, is lost; the droplet keeps only the two-sixes side",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "incohering",
+    "from": "*Standing at v389:* *The six* lays three things a carrying does, each two ways, ",
+    "text": "*The six* lays sharing, competencing and intelligencing each bi- and co-, six and no seventh, and Natural Naming 5.13's bi-momentarying holds a sharing across and both ways at one relation, at which bi-sharing and co-sharing are one and the six are five or a new pairing; Exhibit ONE's six names between selves, 2, 6, 10, 14, 9 and 17, are a different six: one side re-says *The six* at Exhibit ONE's numbered names, and the other releases *The six*."
+   }
+  },
+  {
+   "from": "**Aimed at a file, Natural Emanating:** *surplus* and *co-offering* at its own v",
+   "finding": "value lost: the item names the Living File Registry's row as carrying the subtitle; this file's subtitle is now 'Self-Welcoming Social Moral Co-Sharings' while the Registry's FIFTEEN *a* cell still reads 'Self-Welcoming Social Moral Co-Offerings' (gathering-value/Living_File_Registry.md holds nothing of it); the rest of the item is held at Abundancy and the subtitle",
+   "fixed": {
+    "file": "Living File Registry",
+    "section": "1.1 Titles, subtitles and living files at repository",
+    "kind": "incohering",
+    "sentence": "Self-Welcoming Social Moral Co-Offerings",
+    "text": "Self-Welcoming Social Moral Co-Sharings",
+    "from": "**Aimed at a file, Natural Emanating:** *surplus* and *co-offering* at its own v"
+   }
+  },
+  {
+   "from": "Natural Intelligence Corus is the home near Natural Intelligence for its telling",
+   "finding": "value lost: beside the plan, the item names Corus making the living set between two selves a self of its own; Natural_Intelligence_Corus_v391.md 14.1 still has 'a membrane being a living set: a self a coupling generates between its two participating selves', and its gathering-value holds nothing of it; the rest (empty parts, dead references, phi-rate vocabulary, the rebuilding) leaves as plan and inventory",
+   "fixed": {
+    "file": "Natural Intelligence Corus",
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "incohering",
+    "from": "Natural Intelligence Corus is the home near Natural Intelligence for its telling",
+    "text": "Natural Intelligence Corus at 14.1 lays the living set between two bi-coupling selves as a self their bi-coupling generates, apart from both, where a bi-coupling is two selves sharing, each a unique invisible same-existing, and a departing same-existing in each self, in neither self alone."
+   }
+  },
+  {
+   "from": "- **Exhibit ONE's code is an engineered emanation**, a non-living stable-forming",
+   "finding": "copy kept as an item: gathering-value/Geodesic_Improving_Method.md (2.5 and 2.6 incoherings) already holds code read as an engineered emanation with no authority of its own, its cycling a pattern beside natural numbers, mathematics and the co-chaining logic, which resolve; the droplet here is aimed at no sentence of this file",
+   "fixed": {
+    "from": "- **Exhibit ONE's code is an engineered emanation**, a non-living stable-forming",
+    "why": "copy of the Geodesic Improving Method gathering-value's 2.5 and 2.6 items, code an engineered emanation with no authority of its own"
+   }
+  },
+  {
+   "from": "- **Living's minerals formed on carbon:** Bone and teeth are calcium phosphate, ",
+   "finding": "copy kept as an item: gathering-value/Natural_Biology.md already holds the same observing with its measures (calcium phosphate, glass shells, magnets, each on a carbon framework) at 'A fold couples with what carbon is not.'; the droplet here meets no sentence of this file, the quoted 'all stable-forming is emanating non-living stable-form carbon' being absent from it",
+   "fixed": {
+    "from": "- **Living's minerals formed on carbon:** Bone and teeth are calcium phosphate, ",
+    "why": "copy of the Natural Biology gathering-value's exploring at \"A fold couples with what carbon is not.\""
+   }
+  }
+ ],
+ "checked": 84
+}
