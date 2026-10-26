@@ -209,3 +209,4 @@ Gathering-Value · Co-Chaining Logic Registry
 - Ten one-way changings stand in boxes as five co-changing pairs, opening, completing, middling, rating and sharing both ways, the ten the five bi-coupled, their step still-possibling beside step 287's five dimensions, a five of their own. *(possible exploring)*
 - A flow accounting and a state accounting, steps 597 and 598, are one same-existing's two windings, each pinning one and observing its other, and a proof of their equivalence is a settling. *(possible exploring)*
 - What enters as prior living at a made thing is-or-is-not its existing cell or its makers, and where living makers count as prior living at every laboratory arrangement, step 485 meets no observing that could oppose it. *(possible incohering)*
+- Why the round of four parities stands singled out among the rounds its instrument returns is still-possibling. *(possible exploring)*

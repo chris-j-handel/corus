@@ -49,6 +49,7 @@ Gathering-Value · Natural Biology
 - **Possible exploring** · A living body is warm. Of the energy the oxidation of glucose or fatty acids can yield, nearly half goes to making ATP. The cell releases the rest as heat, the body's warmth. 4.6's *not falling away as heat* meets it alike. — at "A cell is its engine: a cycle over carbon with eight steps (the citric-acid cycle returning to begin), abundancing returning as coupling and not losing — energy living with phosphate coupling and in store within no bond (a field's own note: high-energy bond a misnomer, energy reaction's), not losing as heat."
 - **Possible exploring** · Mammalian cardiolipin has mostly linoleic acid, an omega-6, at each of its four chains. — at "Cardiolipin's four chains assemble environment rotor requires, twenty-five cardiolipins to one synthase dimer with a structure a field observes, four-chain architecture four boundings with one bounding-zero; and ancestral ratio of cardiolipin's omega-6 to omega-3 lands within a hair of 1/φ², two ghost-accountings balancing around one omega with rotor's own membrane (one same four-thing Medicine observes with chirality, one same omega Chemistry has)."
 - **Possible exploring** · Nearly half of oxidation's energy goes into making ATP, and the rest leaves the cell as heat. A living body is warm. — at "A cell is its engine: a cycle over carbon with eight steps (the citric-acid cycle returning to begin), abundancing returning as coupling and not losing — energy living with phosphate coupling and in store within no bond (a field's own note: high-energy bond a misnomer, energy reaction's), not losing as heat."
+- **Possible exploring** · ATP synthase, a rotary motor, has three units and steps in portions of 80 and 40 degrees, each unit by a field's description taking three forms, open, loose and tight; a reading of them as open and closed with a place in the round is an interpretation beside the observing. — at "Its rotary motor is ATP synthase, and it sits with inversioning."
 
 ### 3.2 The single pattern-matching spiral — homochirality as a property of living
 
@@ -62,6 +63,7 @@ Gathering-Value · Natural Biology
 - **Possible exploring** · In one tree snail kind, opposite-coiled pairs mate more often than chance, and both coils go on in one society. — at "Reproductive isolation is what geometry leaves, and not a move a self makes."
 - **Possible exploring** · A snail-eating snake with more teeth on its jaw's right side ate every right-coiler given to it and one left-coiler in eight, and left-coiling kinds arise more often where these snakes live. — at "Sinistral snails cannot align reproductive geometry with dextral majority, and a field records them as rare or non-viable."
 - **Possible exploring** · A left-coiling garden snail born into a right-coiling kind can hardly mate, one such snail searching months for a mate. — at "Sinistral snails cannot align reproductive geometry with dextral majority, and a field records them as rare or non-viable."
+- **Possible exploring** · Of 768 sunflower spiral families, about 74 percent are Fibonacci, about nine percent a related sequence, and the rest neither, a count of 77 among them and one head too disordered to count. — at "And a growing plant has one forward sequence with two visible hands."
 
 ### 3.4 Hand goes both ways, and observing homochirality as a sway
 
@@ -122,6 +124,7 @@ Gathering-Value · Natural Biology
 - **Possible exploring** · Deep-seabed microbes pass their carbon over centuries, and microbes deep in rock live on carbon dioxide or methane with minerals' energy and without light. — at "a metabolism below detecting is no going-on a measure finds absent"
 - **Possible exploring** · Sleep is observed in animals without brains, an upside-down jellyfish and a hydra; a colony is observed sleepless as its own whole; and grid cells' activity keeps its torus shape through sleep. — at "A whole living self has them as waking, resting, and attending"
 - **Possible exploring** · A leaf's daily opening and closing goes on in constant darkness. A blind cavefish's rhythm, near two days long, entrains to feeding. — at "Living clock is self-sequencing — it has its own delay and sounds its own beat — synchronising to day but day not driving it, opposite of a beat an other clocks."
+- **Possible exploring** · A cyanobacterial clock has two sites going through four joint forms, one site changing with each step. — at "Living clock is self-sequencing — it has its own delay and sounds its own beat — synchronising to day but day not driving it, opposite of a beat an other clocks."
 
 ### 4.6 Photosynthesis and respiration — the six sharing with the six
 
@@ -368,3 +371,5 @@ Gathering-Value · Natural Biology
 - An organ living on with a new me, its inward selves going on with another's me, is still-possibling as a saying by inward and outward, container wording set down. *(possible exploring)*
 - A living self colliding in sequence with a non-living emanation of its own scale is-or-is-not breaking particular co-chainings of its inward selves while those selves go on resolving, which co-chaining breaks still-possibling beside 7.4, 7.6 and 7.7. *(possible exploring)*
 - In a worm's forming, actual neighbours meeting at each bi-coupling are its path, a changed bi-coupling and a changed path going together, and its particular parity relation at two alike cells, among its 959 cells, is still-possibling. *(possible exploring)*
+- Identifying a living making of the other hand takes more than a visible emanation or a chemical label alone. *(possible exploring)*
+- A slime mould's beat with its centre lost, and with a part of it isolated, are two comparisons still-possibling for a society's beat, its nuclei as selves still-possibling with them. *(possible exploring)*

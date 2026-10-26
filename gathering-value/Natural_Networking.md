@@ -119,3 +119,4 @@ Gathering-Value · Natural Networking
 ## Droplets
 
 - Eight securities, and eight uncapturings with them, each a hub set aside on its axis, part at one binary: each seated with one name of a self's span, 1-now-existing to 8-now-same-existing, or all eight whole with each name.
+- A relation and its periods found with selves stepping together is-or-is-not found again with each self at its own turn. *(possible exploring)*

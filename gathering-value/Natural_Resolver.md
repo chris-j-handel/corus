@@ -92,3 +92,4 @@ Gathering-Value · Natural Resolver
 - Selves bi-coupling through one shared thing between them, a solution with a pace of its own, slower or faster, the number of selves raised, beside oscillators synchronizing by degrees or together at one momentary, are still-possibling at the resolver, whose between is an empty centre. *(possible exploring)*
 - A table of selves, one of the method's stable forms, is prior to the code and the code is checked at it, while Exhibit ONE has each table an executing. *(possible incohering)*
 - A self's prior slipping one momentary forward where two selves of one scale meet, followed bi-coupling by bi-coupling through one podal passage, the prior along and the parity across together, resolving there, same-existing again or going on to a next bi-coupling, is still-possibling at the resolver. *(possible exploring)*
+- Two alike selves stepped together going on alike with each step is still-possibling. *(possible exploring)*
