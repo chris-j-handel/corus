@@ -157,3 +157,7 @@ So with the six, 1 to 17 is one round only because 17 falls with a six's place, 
 - **Natural Numbers §§6.5 and 7.7 · The two ninety-sixes:** 48 = 16 × 3 = 8 × 6 = 24 + 24, and the two prime-cycle totals of 96 decompose as 48 + 48 and 50 + 46 with centres 24/24 and 25/23, while a span of 96 has its own midpoint 48 and has not been measured as a physical opening. — atom-carbon-prime-correspondence
 
 - **Natural Numbers, inward placement · Roles across scales:** E(n) = 8n − 7 gives Eᵏ(n) = 1 + 8ᵏ(n − 1), and local 9 in each span 16j + 1 through 16j + 17 equals E(2j + 2), distinguishing the recurrence of a local role from arithmetic parity and the placement 17 → 129 from the whole-parity-round relation 17 → 257. — atom-carbon-prime-correspondence
+
+- **Natural Numbers §§3.1 and 8.2 · Three and two within one recurrence:** from (1,1), prior-two-added repeats its odd/even pair after three applications on the opposite side of phi and after six on the same side, giving six joint relations while its positive integer values advance. — atom-carbon-prime-correspondence
+
+- **Natural Numbers §3.4 · What the parity correspondence leaves open:** next pairs (b,−a−b), (b,−a+b) and (b,a+b) have the same effect on number parity while their full operations close after three, close after six and advance toward phi respectively, so the parity recurrence alone does not identify the arithmetic operation or a spatial along passage. — atom-carbon-prime-correspondence

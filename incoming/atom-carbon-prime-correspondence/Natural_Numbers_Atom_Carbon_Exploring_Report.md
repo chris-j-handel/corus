@@ -4,7 +4,7 @@ This is the continuing report of working **atom-carbon-prime-correspondence**, a
 
 **Shared standing:** this report and its offerings are on `working/atom-carbon-prime-correspondence`, offered through [PR #154](https://github.com/chris-j-handel/corus/pull/154). An open PR makes them readable to another session that follows the branch or PR; it does not put them on `main`, automatically load them into another conversation, or establish their receiving into a living file.
 
-**Read first:** [the continuation at 23, 24, 48 and 96](#twenty-three-and-the-waist-of-forty-eight), [the six-point geometry and its role mapping](#six-inner-points-and-twelve-outer-corners), [the observation ledger](#observings-with-their-preparation-and-timing), and [the next connected work](#the-next-connected-work).
+**Read first:** [three and two within the same recurrence](#three-and-two-within-the-same-prior-two-added-recurrence), [the continuation at 23, 24, 48 and 96](#twenty-three-and-the-waist-of-forty-eight), [the six-point geometry and its role mapping](#six-inner-points-and-twelve-outer-corners), [the observation ledger](#observings-with-their-preparation-and-timing), and [the next connected work](#the-next-connected-work).
 
 The gathering keeps four kinds of value visible: relations explicitly carried by the named living files; exact arithmetic or geometry worked from specified operations; incoming physical observations with their preparation and timing; and proposed joins still being explored. This lets pattern-matching carry every incoming observation without letting a shared number silently identify different subjects. It is an exploration by cohering and forward co-recursioning, not a proposed experimental programme.
 
@@ -311,6 +311,134 @@ Three orientations therefore do not yet identify three simultaneous carbon modul
 
 Sources: [Exhibit ONE v391](https://github.com/chris-j-handel/corus/blob/69d802c8036b08a14e74d6579cdda08b6a66f96b/Exhibit_ONE_Natural_Resolver_v391.md) and the explicit coordinate assignment and transport above.
 
+## Three and two within the same prior-two-added recurrence
+
+Natural Numbers already carries both prior-two-added approaching phi and a prior/now binary recurrence with three cycling forms. Their connection can now be stated as an operation, not only a matching count.
+
+Write the ordinary integer recurrence as \(Q(a,b)=(b,a+b)\), beginning with the positive pair \((1,1)\). Its two number parities recur through odd/odd, odd/even and even/odd. At the same time, the ratio \(b/a\) alternates below and above phi:
+
+| Forward applications | Prior and now numbers | Their odd/even pair | Ratio \(b/a\) relative to phi |
+|---:|---|---|---|
+| 0 | 1, 1 | Odd / odd | Below |
+| 1 | 1, 2 | Odd / even | Above |
+| 2 | 2, 3 | Even / odd | Below |
+| 3 | 3, 5 | Odd / odd | Above |
+| 4 | 5, 8 | Odd / even | Below |
+| 5 | 8, 13 | Even / odd | Above |
+| 6 | 13, 21 | Odd / odd | Below |
+
+Three applications give the same pair of number parities on the opposite side of phi; another three give the same pair of parities on the same side, with different positive numbers. Thus **three cycling and two alternating give six joint forms within one specified recurrence**. The repeating subject is this pair of relations; the number pair itself does not return.
+
+This is exact without approximating phi. Define
+
+$$
+D(a,b)=b^2-ab-a^2.
+$$
+
+Then
+
+$$
+D(Q(a,b))=-D(a,b),
+\qquad
+D(a,b)=a^2\left(\frac ba-\varphi\right)
+             \left(\frac ba+\frac1\varphi\right).
+$$
+
+For positive \(a,b\), the second factor is positive, so the sign of \(D\) names the ratio's side of phi. From \((1,1)\), \(D\) alternates exactly between \(-1\) and \(+1\). The repeated operations are
+
+$$
+Q^3(a,b)=(a+2b,\ 2a+3b),
+\qquad
+Q^6(a,b)=(5a+8b,\ 8a+13b).
+$$
+
+The least period of the joint discrete pattern is six for positive integer starting pairs not both even; if both are even, their number-parity pair remains even/even and only the ratio side alternates. This condition matters when offering the six as a correspondence. The calculation concerns the numbers already in Natural Numbers, not an externally readable zero, a seed for a resolver, or an assertion that a number's odd/even is a sharing's parity.
+
+The three-form parity recurrence alone is less specific than the full arithmetic operation. The following operations, also classified in Natural Numbers, have the same effect on each integer's odd/even:
+
+| Next pair | Full integer operation | Number-parity effect |
+|---|---|---|
+| \((b,-a-b)\) | Third power is identity | Same three cycling forms |
+| \((b,-a+b)\) | Sixth power is identity | Same three cycling forms |
+| \((b,a+b)\) | Positive values advance, ratios tend to phi | Same three cycling forms |
+
+Consequently, the binary three-form pattern alone does not distinguish the phi recurrence from these closing recurrences. The improvement is an explicit relation between operations; the remaining joining is what carries this particular operation in the actual along coupling of the proposed stable form.
+
+Sources: [Natural Numbers §§3.1, 3.4 and 8.2](https://github.com/chris-j-handel/corus/blob/69d802c8036b08a14e74d6579cdda08b6a66f96b/Exhibit_THREE_Natural_Numbers_v392.md), with the exact calculations above.
+
+## The six recurring relations on the six inner points
+
+The new six joint forms can be put in explicit correspondence with the six axial points already found. Assign odd/odd, odd/even and even/odd to the \(x,y,z\) axes; assign below phi to the positive point and above phi to the negative point. This specified labeling gives
+
+$$
++x\longrightarrow-y\longrightarrow+z\longrightarrow-x
+\longrightarrow+y\longrightarrow-z\longrightarrow+x.
+$$
+
+For the prior coordinate cycle \(C(x,y,z)=(z,x,y)\), this map is \(J=-C\), with
+
+$$
+J^3=-I,\qquad J^6=I.
+$$
+
+Three steps exchange each point with its opposite; six give the same point again. Each step switches between the two triangles. This is a new, exact matching of the prior-two-added recurrence's discrete relations to the six-point construction.
+
+The map \(J\) reverses spatial orientation: its determinant is \(-1\). It is therefore a rotation composed with central inversion, not a proper right rotation alone. In the earlier role placement its cycle is \(6\to14\to9\to10\to2\to17\to6\); that sequence has not been established as an executing of ONE's roles. The axis and sign assignments above supply a mathematical correspondence, not a physical identification of number parities, cones, male/female roles or atomic constituents.
+
+Natural Mathematics' discussion of three inversions and opposite form now has a specific arithmetic counterpart to explore. Neither \(J\) nor \(C\) translates a point along an axis, and numerical advance in \(Q\) does not itself supply spatial advance. The atom/carbon joining remains at that actual coupling.
+
+Sources: [Natural Mathematics, bi-tri-involutioning and stable-form geometry](https://github.com/chris-j-handel/corus/blob/69d802c8036b08a14e74d6579cdda08b6a66f96b/Exhibit_FOUR_Natural_Mathematics_v391.md), [Natural Numbers](https://github.com/chris-j-handel/corus/blob/69d802c8036b08a14e74d6579cdda08b6a66f96b/Exhibit_THREE_Natural_Numbers_v392.md), and the stated labeling.
+
+## An along joining that carries an across pairing
+
+A separate geometric construction asks whether the three orientations can gain an along passage while keeping each proposed connector rigid. Use the existing point assignment \(9=+e_z\), \(17=-e_z\), rotate the next copy by \(R\), and require its 9 to coincide with the current copy's 17. These conditions fix the placement:
+
+$$
+T(v)=Rv-e_z-Re_z.
+$$
+
+This is an added joining rule for the point representation, not an operation already demonstrated in ONE. With the earlier unsigned rotation \(C(x,y,z)=(z,x,y)\), it also places next 2 at current 10, an across mismatch.
+
+Auditing all eight order-three proper signed-coordinate rotations gives four with an additional prescribed across pairing and four with a mismatch:
+
+| Rotation \(R(x,y,z)\) | Additional coincidence, current / next | Prescribed across pairing |
+|---|---|---|
+| \((-y,-z,x)\) | 2 / 6 | Next 6 to current 2 |
+| \((-y,z,-x)\) | 14 / 10 | Next 10 to current 14 |
+| \((y,-z,-x)\) | 2 / 10 | No |
+| \((y,z,x)\) | 14 / 6 | No |
+| \((-z,-x,y)\) | 6 / 2 | Current 6 to next 2 |
+| \((-z,x,-y)\) | 6 / 14 | No |
+| \((z,-x,-y)\) | 10 / 14 | Current 10 to next 14 |
+| \((z,x,y)\) | 10 / 2 | No |
+
+A compatible example is
+
+$$
+D(x,y,z)=(z,-x,-y),\qquad T(v)=Dv-e_x-e_z.
+$$
+
+It gives \(T(e_z)=-e_z\) and \(T(-e_y)=-e_x\): **next 9 meets current 17, and next 14 meets current 10**. There are no other coincident unit-axis endpoints between these adjacent copies. Each copy retains its own across square's incidence.
+
+$$
+D^3=I,\qquad T^3(v)=v+(-2,2,-2).
+$$
+
+Three orientations therefore give a diagonal advance while preserving this along join and one prescribed across pairing. A screw axis is
+
+$$
+L=\left(-\tfrac13,-\tfrac13,0\right)+\lambda(1,-1,1).
+$$
+
+On this axis each application advances by \(-\tfrac23(1,-1,1)\). The distance comes from the proposed unit-axis representation; phi does not enter this joining. The four compatible cases include both screw hands, so across pairing alone has not made the physical hand universal.
+
+The body and channel remain a concrete concern. If the six points are filled as convex octahedra, adjacent copies share exactly the edge between current 10 and 17, also next 14 and 9; their interiors do not overlap, and nonadjacent copies are disjoint. However, the screw axis passes through each filled body's interior: the point \((-1/3,-1/3,0)\) on it has sum of absolute coordinates \(2/3<1\). This construction therefore has no empty axial channel when its modules are those filled bodies. An edge skeleton is a different proposed physical body and cannot silently replace them.
+
+The improvement is a conditional rigid-copy chain carrying an along join and one across pairing without changing the copy's shape. It is not yet an observed carbon structure or a derivation of all ONE's couplings. The next joining is now specific: the complete physical body, the open passage and the remaining across relations must cohere together.
+
+Source: [Exhibit ONE's across and along map](https://github.com/chris-j-handel/corus/blob/69d802c8036b08a14e74d6579cdda08b6a66f96b/Exhibit_ONE_Natural_Resolver_v391.md), with the proposed spatial representation and exact eight-case audit above.
+
+
 ## Fractal placement and prime scales
 
 The inward placement already carried by ONE is
@@ -385,7 +513,7 @@ The update adds one-sentence offerings to the existing six receiving files and a
 ## The next connected work
 
 1. **From arithmetic to operation:** carry the three prime pairings centred at 24 into the resolver's actual succession, preserving the distinction between name, prime value, fold and momentary.
-2. **From three orientations to an along passage:** identify a source operation that supplies axial advance while preserving the across incidence; the current coordinate cycle alone supplies neither pitch nor a preferred hand.
+2. **From three orientations to an along passage:** carry the new six-form recurrence into actual coupling, and carry the compatible rigid-copy joining through the remaining across relations and the physical body's channel; the filled-octahedron construction obstructs its own screw axis.
 3. **At the channel:** connect the proposed hollow route to the actual participating sharing and receiving roles, accounting for the diameters' central intersection and the difference between spatial and role triples.
 4. **At the stable form:** resolve whether the proposed changing modules are changing arrangements or changing individual atoms, keeping the earlier complete invariance visible.
 5. **At the prime scales:** name the living participants and actual inward receiving around atom 5, rather than treating a numerical ladder as an already observed coupling.
