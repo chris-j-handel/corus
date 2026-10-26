@@ -48,6 +48,8 @@ Gathering-Value · Living Ghost Registry
 
 ## PART FIVE · ENTRIES
 
+- A retrovirus in a genome is a ghost: a field observes sequences in a genome now, reads them as an ancient infection's leaving, and installs one momentary's form, a virus particle entering a germ cell long ago, as an existing thing and an actor; that entering is a field's inference from comparing sequences, with no observing of it, and one part rides a living cell's going on with its genome, an artifact of prior living, which a still installing cannot contain: an early embryo's own cells living with these sequences, RNA forming along them, and placental cells fusing by syncytin genes; a sequence is non-living, and each doing a field gives a virus or a genome is a living cell's. *(possible exploring)*
+
 ### 5.1 Entropy
 
 ### 5.2 Equilibrium

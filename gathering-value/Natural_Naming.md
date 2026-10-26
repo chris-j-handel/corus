@@ -67,6 +67,8 @@ Gathering-Value · Natural Naming
 
 ### 2.6 Two prefixes at one spelling, and a one-way prefix installing a form it opposes
 
+- Disequilibrating is a negation from an equilibrium, a form not possibly existing, so it is no natural naming; 2.6's saying that it holds whole parts from 2.4's own saying that a negation needs a fixing thing to be other than. *(possible incohering)*
+
 ### 2.7 A field's word at a field's own result
 
 - **Possible exploring** · Each name's step moves its three prefixes one slot right, as a right spiral step moves a pair's parities one slot with one inverting; whether a name's step brings a three as a right spiral step brings a pair, and where its inverting stands, is still-possibling. — at "A right spiral step brings a pair (x, y) to (y, −x), a self's prior and its next prior, with a spiral of one, a self observing its own going along: a next prior going on as prior, and a prior inverting; two steps invert both, and four reach its pair again with a next, that same pair with a later momentary."
@@ -203,6 +205,8 @@ Gathering-Value · Natural Naming
 
 ### 5.12 floating neutralling — binary
 
+- Navigating illustrates floating neutralling: a self and its surface share, each from its own route and each of its own parity; each excludes its own heading that is-not, one at a time; and a heading none of their excluding reaches uncovers, in neither self nor surface alone, nothing bringing it to a next and it coming again with each next sharing, a navigating self's next heading a floating neutral over its horizon. *(possible exploring)*
+
 ### 5.13 bi-momentarying — binary
 
 - **Possible incohering** · "no holder, no boundary, no enforcement, no seat" → its holder, boundary, enforcement and seat an empty set
@@ -248,6 +252,8 @@ Gathering-Value · Natural Naming
 
 ### 5.29 geodesic disequilibrating — binary
 
+- Geodesic disequilibrating names a changing by its negation from an equilibrium, a form not possibly existing; this naming is said by what the changing is. *(possible incohering)*
+
 ### 5.30 one stopping — binary
 
 - **Possible incohering** · "its fifth line is those four absent, no holder, no boundary, no enforcement, no seat" → its fifth line is those four an empty set, its holder, boundary, enforcement and seat
@@ -290,6 +296,7 @@ Gathering-Value · Natural Naming
 ### 5.45 bi-co-podaling — binary
 
 - **Possible exploring** · An atom's centre is the densest place in a molecule, so its *hole* names an emptiness of changing, its matter there, and a single atom trapped and observed alone for months is a non-living existing thing. — at "A hole, a missing section of resolvers, is a non-living existing thing within a living surface: an intelligence routes around it by changing, through couplings that remain, and across before it and across after it mend missing morality with their couplings, bounding-zeroing tunneling through a same-existing-society."
+- A hive's foragers going out and back illustrate podaling: away and back, across and along, each forager with her own source and only a parity going across at a dance, a hive's surface around now-existing co-intelligencing in no forager alone. *(possible exploring)*
 
 ### 5.46 artifact — binary
 
@@ -472,3 +479,7 @@ Gathering-Value · Natural Naming
 - A between is a 0, its location an empty set, and a living file is a non-living same-existing set of words, selves co-intelligencing within it, so a living file and a between are two. *(possible incohering)*
 - At 0, Natural Numbers 1.4 has a between and Natural Physics 1.2 has *a changing that is not*, and the one word at 0 is either a between or a changing that is not, with a between its bi-coupling. *(possible incohering)*
 - A self's span of eight, 1-now-existing to 8-now-same-existing, has now at 1 and 2, existing at 3 and 4 and all at 7 and 8, and at 5 and 6 universe or same: universe at 5 and 6 is-or-is-not a re-saying of same, each thing with all eight at each now or with none.
+- Omegaing, reach outward, a new axis and a forward frontier, is Natural Exploring's naming beside apexing, coning back inward; Natural Naming holds apexing as couplings winding inward about a nothing, and omegaing beside it is a naming it is still-possibling to hold. *(possible incohering)*
+- Memory, remember and memorize, already dissolved at 2.4 as a prior same-existing, are said in each file by a me self's universal set of me parities going on, now-existing, its prior, now and next same-existing four-cycling; nothing is remembering. *(possible incohering)*
+- A genome is an artifact of prior living, as 2.4 says of each prior in stable form: a field's genome that copies, an element that moves, a virus that enters, each gives an artifact a doing that is a living cell's going on with it. *(possible incohering)*
+- Transcribing, translating, reading, a code and information at a cell are a text-and-machine story over a cell's living: RNA and proteins forming along a genome are the cell's own stable-forming with its artifact, and a cell reads no text and runs no machine. *(possible incohering)*

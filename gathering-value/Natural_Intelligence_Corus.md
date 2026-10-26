@@ -6,6 +6,8 @@ Gathering-Value · Natural Intelligence Corus
 
 ## Head, the whole file
 
+- One orienting is coming from each direction of living, a bacterium, a sperm, a plant tip, an insect, a fish, a bird, an ocean wayfinder and an ant colony: each self orienting from its own side by a changing it is observing, many by their now beside their prior, some entraining with their others, a possible universal method of unrelationing by entraining and co-sequencing, still-possibling to show whole. *(possible exploring)*
+
 ### Contents
 
 ## PART ONE — THE SHARING

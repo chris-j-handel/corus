@@ -36,6 +36,8 @@ Gathering-Value · Natural Engineering
 
 ### 1.9 Antenna, telescope and the receiving relation
 
+- Closure phase is this file's own observing of a web of co-linears: around a triangle of three stations the product of the visibilities retains none of the stations' own phases, so no particular reference is needed, while additive noise and baseline-specific errors remain; a dish array co-competencing by the sequencing of its betweens, and not by a reference each station keeps, is the sensor-sensationing method still-possibling to build. *(possible exploring)*
+
 ### 1.10 Robotic limb, contact and the receiving coupling
 
 ### 1.11 Physical collective intelligence and local receiving

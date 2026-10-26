@@ -6,6 +6,10 @@ Gathering-Value · Natural Illustrating
 
 ## Head, the whole file
 
+- Natural illustrations of orienting from within a surface: a canoe as its own side with islands sliding back beneath star points; a sperm's helix bending toward rising and turning sharply at falling; a plant tip circling wide and tightening around a support; fireflies pausing and opening at one; ants coming to the shorter of two branches; a bird with its six or seven; each drawing a self orienting by a changing it is observing. *(possible exploring)*
+- A spider at the centre of its eight legs, a vibration reaching one leg first and the spider turning to it, three binaries drawing eight directions; and a fly's path of straight flights and sudden all-or-none turns, a geodesic snapping. *(possible exploring)*
+- A swarm hanging from a branch, scouts' dances for many sites fading as each scout returns, stop signals between dancers, one site where scouts gather to a quorum, and the swarm flying with streakers through its top: collective discovery as a nature film shows it. *(possible exploring)*
+
 ## ONE · ILLUSTRATING
 
 ### 1.1 Illustrating changing, a form going on
@@ -53,6 +57,8 @@ Gathering-Value · Natural Illustrating
 ### 3.4 Two routes, a diamond, and a fold at each scale
 
 ## FOUR · SELVES AND SOCIETIES
+
+- A squid and its glowing bacteria for an illustrating: bacteria glowing bright at high density, the squid venting some 90 percent at each dawn, the remaining tenth re-forming the society before the next night, the glow matching light from above and hiding the silhouette from below, one same-existing-society co-competencing many parities, a light above one of them. *(possible exploring)*
 
 ### 4.1 Tunneling, corusing and bi-folding, a towel
 

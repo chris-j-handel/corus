@@ -79,7 +79,13 @@ for stem in sorted(living):
     if not os.path.exists(cf) and os.path.exists(os.path.join(carry, off + '.md')):
         cf = os.path.join(carry, off + '.md')
     if not os.path.exists(cf):
-        notes.append('no carrying at carry/%s.md' % stem); continue
+        # a file whose support files gather whole lives with its gathering-value file, gathering-value/<Title>.md
+        gv = os.path.join(ROOT, 'gathering-value', re.sub(r'^Exhibit_[A-Z-]+_', '', stem) + '.md')
+        if os.path.exists(gv):
+            print('  %-56s %6d   at gathering-value/, its support files artifacts at archive/' % (stem, len(open(gv, encoding='utf-8').read().split())))
+        else:
+            notes.append('no carrying at carry/%s.md' % stem)
+        continue
     ct = open(cf, encoding='utf-8').read()
     def part(name):
         m = re.search(r'^## ' + name + r'\s*\n(.*?)(?=^## |\Z)', ct, re.M | re.S)

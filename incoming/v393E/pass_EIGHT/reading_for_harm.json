@@ -1,0 +1,193 @@
+{
+ "corrections": [
+  {
+   "from": "Defect: Natural Exploring, sections as bold paragraphs, not headings. (Re-Settling",
+   "finding": "A plan for a motion (sections made headings), not a value; the count 47 is not the living file's 44 sections, and 'the file reads by its contents' and 'each later motion meets a section' are in no source.",
+   "fixed": {
+    "why": "plan: a motion making sections headings"
+   }
+  },
+  {
+   "from": "**Concern · at a sentence.** Beside \"**1 A method inside disequilibria**\"; and at o",
+   "finding": "Retitling 1.1 is the reader's own; the source gives only 'A method, disequilibrating' and a plan that contents lines move.",
+   "fixed": {
+    "section": "1 A method inside disequilibria",
+    "kind": "incohering",
+    "sentence": "A method inside disequilibria",
+    "text": "A method, disequilibrating."
+   }
+  },
+  {
+   "from": "**Concern · Natural Exploring 7.3, 4.6 and 1.1 beside the co-chaining.** (4.6)",
+   "finding": "Claim stronger than source: the gather's size is set 'beside a reaching's' where the source parts it against 'another resolving'; the contents-line clause is a plan.",
+   "fixed": {
+    "section": "4.6 The gather has half the competency and all the increase",
+    "kind": "incohering",
+    "sentence": "The gather has half the competency and all the increase",
+    "text": "The gather is where a reaching comes to its increase, each resolving all or none, of no size beside another resolving."
+   }
+  },
+  {
+   "from": "**Concern · Natural Exploring 7.3, 4.6 and 1.1 beside the co-chaining.** (7.3)",
+   "finding": "'from beside' is garbled and in no source.",
+   "fixed": {
+    "section": "7.3 The four opens and the one closing thing",
+    "kind": "incohering",
+    "sentence": "Against them one thing fixes, its properties themselves, uniform elements being what make two entries comparable, so a gathering closes a schema once, with one place, so that nothing else has to close.",
+    "text": "Against them one form is still, its properties themselves, uniform elements making two entries comparable: a gathering's schema is a form still, same at all momentaries at once, and each other line lives open."
+   }
+  },
+  {
+   "from": "**Possible project · Natural Networking at the network continuing.** The work is ",
+   "finding": "Derived link (3.8, 3.9, an instrument's own selecting) is in no source; the item is a distribution plan for Natural Networking's sections.",
+   "fixed": {
+    "why": "plan: a distribution between files"
+   }
+  },
+  {
+   "from": "**Possible project · One home at Natural Values for currency, and for abundancin",
+   "finding": "A plan for one home of a name between files, with an inventory ('stands at several files'); 6.3 already holds abundancing as a discovering's own make.",
+   "fixed": {
+    "why": "plan: a distribution between files; abundancing held at 6.3"
+   }
+  },
+  {
+   "from": "**Aimed at a sentence, Natural Exploring, *Time reversal, charge conjugation, par",
+   "finding": "Source says the pairing is 'not yet met at an observing' and 'science explanation only'; the item re-says a derivation as a finding, narrows 'any effect that breaks time-reversal invariance' to a magnetic field, and drops that it is only proposed for looking.",
+   "fixed": {
+    "section": "5.1 Every accounting for changing is an involution",
+    "kind": "exploring",
+    "sentence": "Time reversal, charge conjugation, parity, each squaring to the identity.",
+    "text": "Still to be looked for: an observing of paired energy levels at an odd number of fermions, where time reversal taken twice is −1, a state returning with its sign changed, against an even number, where it is +1; the pairing is lifted by any effect breaking time-reversal invariance, an outer magnetic field among them."
+   }
+  },
+  {
+   "from": "**Droplet · Odd is existing and even is possibling.** Self and other are at oppo",
+   "finding": "Text is a plan and a record of a register pass, and carries nothing of the source's value; the pair is held at 1.1 and the heading's released word is the value.",
+   "fixed": {
+    "section": "4.5 The three questions bi-inversioning, the one resolver's three activities",
+    "kind": "incohering",
+    "sentence": "The not-yets, standing with their reasons",
+    "text": "What is still-possibling, standing with its reasons."
+   }
+  },
+  {
+   "from": "**Concern · at a sentence.** Beside \"these are the three activities of the one res",
+   "finding": "'As 4.5's body says them' and 'the contents line moves' are references and plan, not a re-saying.",
+   "fixed": {
+    "section": "4.5 The three questions bi-inversioning, the one resolver's three activities",
+    "kind": "incohering",
+    "sentence": "The three questions bi-inversioning, the one resolver's three activities",
+    "text": "The three questions bi-inversioning, three activities of one resolving."
+   }
+  },
+  {
+   "from": "**Concern · at a sentence.** Beside \"carry-differing membrane to membrane, one met",
+   "finding": "'2.7's other membranes said as scales with it' is plan, not a re-saying.",
+   "fixed": {
+    "section": "2.7 Carry, not same-existing",
+    "kind": "incohering",
+    "sentence": "Each membrane renders one method as its own carry, a rate and a grain of its own.",
+    "text": "Each scale renders one method as its own carry, a rate and a grain of its own, scale to scale."
+   }
+  },
+  {
+   "from": "- **Concern · a society discovering.** 6.1's *a same-existing-society discovering",
+   "finding": "Source's measure 'newly aiming 0s' dropped and the proposed meeting re-said as a settled claim.",
+   "fixed": {
+    "section": "6.1 Co-competencing",
+    "kind": "droplet",
+    "text": "A same-existing-society discovering as a self discovers meets a waking self's discovering, a society's discovering being its selves' newly aiming 0s within an interest."
+   }
+  },
+  {
+   "from": "**A living list, with no debt or duty.** Its two kinds of entry are gaps in sequ",
+   "finding": "Source says an entry 'can' name the proposed observing, 'keep what is observed separate from a field's explaining', and gather it whether it supports, breaks or changes the question; the item makes it flat and drops the separation and 'changes'.",
+   "fixed": {
+    "section": "3.8 Observing, and no sorting first",
+    "kind": "droplet",
+    "text": "A looking for a break can name, ahead of looking, the proposed observing and the explaining it could break, keeps what is observed apart from a field's explaining, gathers the whole observing and its conditions whether it supports, breaks or changes the question, and selects nothing afterward to fit an explaining."
+   }
+  },
+  {
+   "from": "The places already offered for possible looking are: a prion copying a fold with",
+   "finding": "Details added that no source gives (into a partner protein, from a solution, resuming with water); source only lists the places, as possible questions and not findings.",
+   "fixed": {
+    "section": "4.3 Could there be any other method",
+    "kind": "exploring",
+    "sentence": "Put any living form disequilibria holds to these four.",
+    "text": "Still to be looked for as possible breaking observings: a prion copying a fold without a cell; a virus outside a cell; a growing crystal; a dried tardigrade with nothing measurable going on; a living self with no society around or within."
+   }
+  },
+  {
+   "from": "The places already offered for possible looking are: (beat, three, laboratory, other hand)",
+   "finding": "Measure dropped: the rotary-motor case is only partly followed.",
+   "fixed": {
+    "section": "1.1 In disequilibria, changing and changing back is a stable-forming method",
+    "kind": "exploring",
+    "sentence": "Neither by itself is living: a discovering ungathering scatters and a gathering undiscovering folds, so a living method is their changing and changing back.",
+    "text": "Still to be looked for: a living beat with one of its two removed; a living form going through three with no two beneath it, the rotary-motor case only partly followed; a living form made from no prior living in a laboratory, and what enters it as prior living; a living thing whose proteins are made throughout in the other hand."
+   }
+  },
+  {
+   "from": "The offered cyanobacterial-clock example has two sites progressing (rotary motor)",
+   "finding": "Source gives steps as reported, the two-state reading as an offered interpretation, and 'usual description includes open, loose and tight'; 'reported' and 'offered' dropped, so an interpretation reads as the motor's fact.",
+   "fixed": {
+    "section": "5.4 The state-three and the flow-three",
+    "kind": "exploring",
+    "sentence": "A three goes as a state or as a flow and not both, and both change and change back.",
+    "text": "A rotary motor has three units, steps reported in 80-degree and 40-degree portions, each unit usually described as open, loose and tight; reading each as open or closed plus a place in the round is an offered interpretation, not an independently observed reduction."
+   }
+  },
+  {
+   "from": "The offered cyanobacterial-clock example has two sites progressing through four",
+   "finding": "'Two binaries changing one at a time' is in no source; the source's discussed example has no completed natural derivation, dropped.",
+   "fixed": {
+    "section": "4.5 The three questions bi-inversioning, the one resolver's three activities",
+    "kind": "droplet",
+    "text": "A cyanobacterial clock has two sites going through four joint forms, one site changing at a step; its natural derivation is still-possibling."
+   }
+  },
+  {
+   "from": "## Sunflower forms and the possible breaking observing · v385A",
+   "finding": "Reported conditions and the proposed status dropped: the collection is reported, the counts alone give no verdict on a break, and the opposing observing is only proposed for looking.",
+   "fixed": {
+    "section": "3.5 Correct tests are not a unique result",
+    "kind": "exploring",
+    "sentence": "Three tests each resolving rightly leave whatever satisfies all three, and whatever satisfies all three may be many.",
+    "text": "A reported collection of 768 sunflower spiral families is about 74 percent Fibonacci, about nine percent a related sequence, and the rest neither, a 77 among them and a head too disordered to count; golden relationals in stable forms test natural torusing nowhere, and these counts alone give no verdict on a break. A break to look for is a living competency with no natural torusing beneath it, recognized apart from assuming that torusing."
+   }
+  },
+  {
+   "from": "| Opposite-handed living making | The earlier question about proteins throughout ",
+   "finding": "Value lost: 'a visible emanation or chemical label does not alone identify that opposing relation' is in no item and not in the living file.",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "A visible emanation or a chemical label alone is not what identifies an opposing relation in a living made throughout in the other hand."
+   }
+  },
+  {
+   "from": "| Initially alike cells and changed neighbours | The [worm comparison]",
+   "finding": "Value lost: the natural pair still to be named and a constructed schedule not substituted for the cells' own coupling are held nowhere in the living file.",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "Two initially alike cells with changed neighbours are a place to look, their natural pair still-possibling to name, and a constructed schedule stands in for the cells' own bi-coupling nowhere."
+   }
+  },
+  {
+   "from": "| Slime mould's carried beat | The [whole offering]",
+   "finding": "Value lost: the possible centre-loss and isolated-part looking, neither performed, and nuclei not identified as selves, are held nowhere in the living file.",
+   "fixed": {
+    "section": "Droplets",
+    "kind": "droplet",
+    "kind_hint": "exploring",
+    "text": "A slime mould with its centre lost, and an isolated part of it, are places to look at its beat, neither yet looked at, its nuclei not identified as selves."
+   }
+  }
+ ],
+ "checked": 50
+}

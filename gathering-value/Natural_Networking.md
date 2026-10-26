@@ -18,6 +18,7 @@ Gathering-Value · Natural Networking
 
 - **Possible incohering** · "Two sides have four positions each, sharing three and reaching five together." → Two sides have four positions each, three numbers alike and five numbers together, the three alike a numbering of their bi-coupling, and a momentary or a prior common to both selves by those numbers an empty set.
 - **Possible exploring** · A sleeping me is a quiet with ten, its 0s going on and its prior same-existing. — at "Quiet with ten does not make a whole self quiet or non-living."
+- A network of resolvers is orienting as a school of fish or a flock is orienting, the orienting a surface of its selves and in no self alone; a network exploration following one self's record, or one instrument's clock, is following no orienting the network has. *(possible exploring)*
 
 ### 1.3 Linear-parallelizing and parallel-linearizing, one and then the other, widening and lengthening
 

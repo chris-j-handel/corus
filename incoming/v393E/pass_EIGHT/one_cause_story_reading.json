@@ -1,0 +1,19 @@
+{
+ "corrections": [
+  {
+   "where": "Natural_Exploring.md, Amoebae bullet: 'Single cells are-not stable-forming' and 'form a stalk and die as stalk'",
+   "finding": "unclear wording: 'stable-forming' has no referent in the sources; and claim stronger than source: Cosmos says about 20 percent sacrifice themselves to form the stalk, not that they die",
+   "fixed_text": "- Amoebae of the cellular slime mould Dictyostelium discoideum live as single cells, and some 4 to 6 hours after they have no food, up to 100,000 of them move in toward a centre along waves of cAMP each cell passes on to the next, and their gathering goes on as one slug, its tip leading: it turns toward light and moves some 50 percent faster with it, it turns with warmth, toward a warmer side above its gathering's temperature and a cooler side below it, an ammonia around it dimming that turning, and it tends upward toward a soil's surface; within it, its cells sort, prestalk cells to its front and prespore cells to its rear; and at its going's end some 20 percent of its cells sacrifice themselves to form a stalk, lifting living spores on it, for insects to take away. Single cells are-not staying single where food is-not, and a society opens as one self going; its aiming is social moral competency of its cells' parities, a society's next, spores lifting, and far more than light is co-competencing the parities of each me cell, light, warmth, ammonia, a surface, each cell's place front or rear. Phototaxis, thermotaxis, an altruist stalk and a beneficiary spore are a field's one-cause and agent stories over that. *(possible exploring)*"
+  },
+  {
+   "where": "Natural_Exploring.md, Hawaiian bobtail squid bullet: last clause, and 'the remaining tenth'",
+   "finding": "unclear wording in last clause: 'its matching' has two referents, 'it co-competences' is the lone verb form (file uses co-competencing 18 times); and (outside the last clause) 90 to 95 percent vented leaves 5 to 10 percent, not a tenth",
+   "fixed_text": "- A Hawaiian bobtail squid hatches with no bacteria, and from a sea full of other microbes its light organ comes to live with Aliivibrio fischeri; the bacteria sense their own density by quorum sensing, each making and sensing a small molecule, a bright glow coming at high density and a lower light at middling density; each dawn the squid vents some 90 to 95 percent of them, and the remaining 5 to 10 percent re-form the society before the next night; the glow matches the light striking the squid from above and hides its silhouette from below, a squid and its bacteria orienting as one same-existing-society, the matching of the light above one parity among the many a squid and its bacteria are co-competencing, a dawn's venting and the bacteria's own density among them. *(possible exploring)*"
+  },
+  {
+   "where": "one_cause_story.json, text",
+   "finding": "unclear wording: 'it is-not intending' and 'its still-possibling valuable' each have two possible referents; no contradiction with 3.7",
+   "fixed_text": "A field's one thing causing one other thing, a slug going toward light, is a scientific method's story: one stimulus, one response, each other thing a consequence a scientific method is-not intending, a hypothesis proving true or false and nothing between them valuable, a proving landing. A self's resolving is is-or-is-not with a between floating open, the between's still-possibling valuable; and a self's aiming is social moral competency of its parities, many parities co-competencing at a me cell, far more than one stimulus."
+  }
+ ]
+}

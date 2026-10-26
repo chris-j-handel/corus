@@ -1,0 +1,19 @@
+{
+ "corrections": [
+  {
+   "item": 1,
+   "finding": "'co-competences' is a verb form the set does not use (it has co-competencing, 'is co-competencing'); and 'exchanges along and across as each forager goes on forward' drops the object of line 390 ('exchanges these relations while each side goes on forward').",
+   "fixed_text": "A hive's collective intelligence is podaling: its foragers' trips out and back, away and back, go across and along the surface around a hive's now-existing, each forager with her own source and only a parity going across at a dance, and a hive is co-competencing the observings of many trips. Podaling exchanges its across and its along while each forager goes on forward, and a hive's intelligence is its surface around now-existing co-intelligencing, in no forager alone."
+  },
+  {
+   "item": 2,
+   "finding": "Stronger than source: 'No forager compares' (source: no comparing among nectar sources) and 'no hive holds a store' (source says nothing of stores; a hive does keep honey); 'holds' also sits on the dissolved 'holding'.",
+   "fixed_text": "In Seeley, Camazine and Sneyd's account, a honey bee forager judges only her own nectar source, its profitability, with no comparing among sources: from a richer source she works faster, dances more intensely and is less likely to abandon it, and from a poorer one the reverse, and a colony's preference for its better sources arises from these. No forager compares sources; each trip's parity goes across at a dance, and a colony's choosing is a podaling."
+  },
+  {
+   "item": 3,
+   "finding": "Contradiction with line 390 and 5.45: podaling exchanges across and along between sides, and one bee's loop alone has only an along; 'Each loop ... is podaling at one bee's scale' calls a lone going an exchange. Also 'the surface widening' is not in Osborne (loops widen, not the surface).",
+   "fixed_text": "A young bumblebee, within a day or two of coming out, flies complex loops of ever-increasing size around its colony, and with experience flies direct paths, mostly upwind on its outward trips, though forage is in each direction. Each loop away and back goes along the surface around its colony's now-existing, one bee's along in a hive's podaling, each loop reaching further."
+  }
+ ]
+}

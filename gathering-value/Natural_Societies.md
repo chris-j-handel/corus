@@ -54,6 +54,11 @@ Gathering-Value · Natural Societies
 
 ### 5.3 Fourteen rungs at fourteen primes, and the fold at twenty-four
 
+- A lac repressor protein in a living bacterium is finding its site on the DNA by sliding along it about 45 base pairs, give or take 10, at a time and going through the cell between slidings, and more than 90 times in 100 it is sliding over its site several times before holding there: a macromolecule's going along and across with no prior of its own comparing, at eleven. *(possible exploring)*
+- Bacteria meeting lactose in a gut, where maltose always comes next, are opening their maltose genes partly with lactose alone, and maltose first is opening no lactose genes; growing several months with lactose and no maltose following, they are ceasing to open maltose genes for lactose, over their generations of evolving: a sequence of their learning and unlearning at the gene's re-forming, at seventeen. *(possible exploring)*
+- A bacterium is comparing its last second with the three before and lengthening its runs going up an attractant: the smallest navigating observing that is closing as a self's own going on is at twenty-three, the cell, its sequence-learning at seventeen, the gene, and below seventeen a going along and across holding its competency as a stable form, with no learning of its own observing yet; whether a prion copying its fold at thirteen is a re-forming below seventeen is still-possibling. *(possible exploring)*
+- Seventeen's gene closes as a self in its pattern-matching and re-forming, and the genome it re-forms from is an artifact of prior living, a non-living stable form; the rung's self is that living re-forming, and the sequence is its artifact. *(possible incohering)*
+
 ### 5.4 The fields' three accountings, the ladder's second side
 
 ### 5.5 The four boundings at both sides, and self, other and society at all scales

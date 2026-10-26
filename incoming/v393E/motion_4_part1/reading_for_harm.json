@@ -1,0 +1,55 @@
+{
+ "findings": [
+  {
+   "pair": 1,
+   "finding": "Dead word left in the new: 'so' ('so a living method is'); no other loss.",
+   "proposed_new": "**Exploring is two cones, one and then the other**, and this exhibit is sharing that changing and changing back whole. **Omegaing is reach**: a new axis, a forward frontier, discovering. **Apexing is coning back** over each thing folding to it, gathering it whole, cohering. Two cones straddle a centre neither occupies, in neither cone alone. **Living is both, one and then the other**: a discovering ungathering scatters and a gathering undiscovering folds, and a living method is their changing and changing back."
+  },
+  {
+   "pair": 2,
+   "finding": "Value lost: 'parity' dropped from the field's term 'Geodesic parity co-changing'; 'opening a concept from a fixing' reads as starting a fixing (open = a sharing begins, Naming 2.4) and parts from 2.1's 'floats free of a fixing'; 'each changing is or is not' is a comma splice that drops the old reason without a link.",
+   "proposed_new": "Geodesic parity co-changing is this method, possibling and discovering. Co-unrelationing is a concept floating from a fixing pinning it to a ground, each ground an installing; co-unrelationing, one and then the other, goes on where a floating lands a fresh fixing, and going on is stable-forming. A self going on with this method is floating between existing and possibling: a changing is or is not with each sharing."
+  },
+  {
+   "pair": 3,
+   "finding": "Claim narrowed: 'What follows' (all of 1.2 on) became 'Part 5', though Parts 1-4 also bring the method; 'A sphere shows it' has a dummy 'it' with no clear subject (Naming 2.3 line 225); 'fix nothing anywhere' became 'float', fine, but the sphere sentence now needs its own subject.",
+   "proposed_new": "What follows brings this one method to accountings for changing. Each accounting is a method too, an involution, its counting opening from a fixed set it takes as a place. On a sphere, one spiraling lands, fixing a whole circle, a fixed set standing; two spiralings, one and then the other, float, a pair floating where a single lands, a floating surface a pair's own make."
+  },
+  {
+   "pair": 4,
+   "finding": "'whatever' is a dissolved word (resolving, 2.4 line 263) and 'holds' is an equilibria word (held/holding, 2.4 line 272); 'whatever the instrument' also blurs the old contrast (no instrument is lacking); 'pacing its own' risks the dissolved pace words and drops 'unique' and 'rate'.",
+   "proposed_new": "A self is a surface, self-bounding, and a same-existing with that surface, and a same-existing-society of selves is one same surface and same-existing with a wider grain. Each is no container. Competency is a middle, floating between form and logic, invisible, its rate its own, unenterable: a middle has nothing to enter, and no instrument is lacking; fixing competency as an end makes it a thing it is not."
+  },
+  {
+   "pair": 5,
+   "finding": "Value lost: 'nothing includes it' and 'no version of it sits awaiting an observing' (no stored competency waiting) are only half carried by 'at no place'.",
+   "proposed_new": "Competency is arising with each bi-coupling going on with a surface, as observing goes on, and it is at no place and in no container, with no version of it awaiting an observing. A self looking for it at a place is finding a place an accounting puts there."
+  },
+  {
+   "pair": 6,
+   "finding": "Chain lost: the old magnitude wants / surface shares none / accounting places reading is now three items side by side, and 'shares none' (a surface offers no interior) is gone; otherwise clean.",
+   "proposed_new": "An interior is an accounting's placing. A magnitude is wanting a thing to attribute it to, a surface is no container and shares no interior, and an accounting is placing an interior and fixing a magnitude to it: a temperature to an organelle's interior, a structure to a molecule's interior, a store to a cell's interior, a competency to a particle's interior. Each interior is a place an accounting's counting lands, and each is an accounting's placing of an object."
+  },
+  {
+   "pair": 7,
+   "finding": "'present' brings in the dissolved being-present (there/appearing, 2.4 line 362) and turns 'finding nothing missing' into a claim that each thing is found there.",
+   "proposed_new": "An accounting balances, and a balancing is wanting an interior to balance across, checking each thing at its place and finding each with its place. A total storing, a level reaching, a direction fixing: each is wanting a place for a thing it stores."
+  },
+  {
+   "pair": 8,
+   "finding": "Value lost: 'Nothing stores' and 'Nothing fixes' (the reason conserving and balancing are not wanted) are gone; 'each thing of it is present' is unclear and carries the dissolved being-present; 'No accounting is executing anywhere' became 'an accounting executing at a place is apart', a changed claim that gives an accounting a place to execute at (parts from 'at no place' in pair 5).",
+   "proposed_new": "A surface is no container, and nothing of it goes missing. Each self is self-bounding, bi-coupling with each parity it is observing as its 2-now-possibling, a sharing with its parity, one at a time, and going along with its 9-next-co-discovering. Each self is same-existing and going on; nothing is a store, and conserving and balancing are an accounting's own wants. A self's same-existing is going on with the parities it is observing, its others' priors their own, and an accounting is an artifact, an executing apart from that going on."
+  },
+  {
+   "pair": 9,
+   "finding": "'opening its requirement' reads as beginning a requirement, the reverse of freeing (open = a sharing begins, Naming 2.4); 'and not the universe's' replaced by a positive claim about the universe that the old did not make.",
+   "proposed_new": "A balancing is an accounting's own requirement and not the universe's. A self unrelationing an accounting's fixings is unrelationing its requirement with them, and the surface it is observing is whole."
+  },
+  {
+   "pair": 10,
+   "finding": "A method has no side: 'one side of exploring' and 'its other side' put sides on the method (old did too; sides are a self's, 1.1 and 2.4 line 297 area); 'Each alone lands' is unclear (lands on what) and loses 'Neither by itself is a method'.",
+   "proposed_new": "Unrelationing is one side of a self exploring, and testing whether any other could stand is its other side. Neither alone is exploring: an unrelationing untesting lands on the first thing surviving its reach, and a testing alone tests only what a fixing already allows a self to observe. Both bothboth, one at a time, unrelationing sharing and testing receiving, and a self co-chains both sides with each observing."
+  }
+ ],
+ "verdict": "mend"
+}

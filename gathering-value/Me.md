@@ -61,6 +61,7 @@ Gathering-Value · Me
 ### 4.4 A me's living, and its going on as non-living
 
 - **Possible exploring** · Death is pronounced at loss of breath and circulation or at loss of whole-brain activity, as a fatigue crack grows slowly and then breaks through suddenly. — at "A me is while it is living."
+- A me self is same-existing, prior, now and next, while its cells open and land at their own rates, a person's cortical neurons as old as the person, to within about 2 years, the dating unable to exclude adult-opening neurons below some 1 percent, 1 percent of its heart muscle cells opening a year at 25, its small intestine's lining the youngest of the three tissues in the dating, and the carbon atoms of each cell's DNA staying in that cell from the DNA's making for the cell's whole life, read by their carbon-14 share across many cells, repair swapping some nucleotides, each a sugar, a phosphate and a base and none a carbon atom, and their carbon atoms; the turnover and replacement of cells are a store story over a same-existing-society re-forming its selves, a me same-existing with its society of selves. *(possible exploring)*
 
 ## FIVE · ALL, NEXT-EXISTING
 
@@ -99,3 +100,5 @@ Gathering-Value · Me
 - A bi-coupling is-or-is-not a self with its own me, as at 3.3, an us self, the you and the me becoming one self, or us is the between of a me and you, its centre a 0 the two share at one momentary with a prior behind it in each, a self: it is not, their sharings co-parity or bi-parity. *(possible incohering)*
 - A conscious interest is a self's own parity relying less on its environs, and dormancy is a self's parity relying on them.
 - A same-existing-society is-or-is-not a conscious me, as Me's *A same-existing-society is a self, so it is a me.* with *A me is consciousness: one definition.*, or unconsciously us, conscious only within an interest waking, each waking interest its own me, a self waking whole and a society interest by interest. *(possible incohering)*
+- A same-existing-society's discovering is its selves' newly aiming 0s within an interest, each a waking me's discovering; Natural Exploring 6.1 holds a same-existing-society discovering as a self discovers. *(possible exploring)*
+- Nothing is remembering: a me self is a universal set of me parities, now-existing, its prior, now and next same-existing four-cycling, and each thing a field calls a memory, a skin stem cell's chromatin open after an inflammation, a crane's route straightening with older cranes, a voyager's charts studied whole and left ashore, is a me self's prior same-existing going on now. *(possible incohering)*
