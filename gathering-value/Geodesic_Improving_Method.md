@@ -14,6 +14,8 @@ Gathering-Value · Geodesic Improving Method
 
 ### 1.2 Moral is do-no-harming and improving, deciding at each pass
 
+- **Possible incohering** · "**No harm**: a file's prior same-existing goes on to its next, whole, or to a file it belongs to now." → **Do-no-harming**: a file's prior same-existing goes on to its next, whole, or to a file it belongs to now.
+
 ### 1.3 Method and going on, two faces of one improving
 
 ### 1.4 Three fates at each passage: placing, dissolving, going on
