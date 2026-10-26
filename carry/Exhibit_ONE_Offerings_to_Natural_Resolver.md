@@ -97,3 +97,7 @@ Exhibit ONE Natural Resolver Offerings · resolved at v391
 - **Natural Resolver, across and along · Relation without fixed side links:** the proposed chains retain only-along material connections while across co-chaining remains to be specified, because ONE's four across roles cannot be silently equated with chemical side bonds or erased when those bonds are absent. — atom-carbon-prime-correspondence
 
 - **Natural Resolver, an open axial passage · The route as well as the body:** releasing the filled-octahedron assumption removes that body's obstruction but leaves straight antipodal paths through the centre, so actual along routes around the centre must accompany the proposed hollow form. — atom-carbon-prime-correspondence
+
+- **Natural Resolver, forward passage · The release condition:** a forward/rear unit orientation does not itself exclude backward passage, so the proposed ridge must carry the actual permitted release and next coupling while the reverse route remains unavailable. — atom-carbon-prime-correspondence
+
+- **Natural Resolver, surface parity · A particular binary:** coupled and uncoupled name one binary relation, whose joining to the surface's parity changing and need for another available unit must be carried rather than inferred from binary naming alone. — atom-carbon-prime-correspondence
