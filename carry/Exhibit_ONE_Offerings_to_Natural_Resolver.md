@@ -107,3 +107,5 @@ Exhibit ONE Natural Resolver Offerings · resolved at v391
 - **Natural Resolver, three routes · Six portions:** three routes passing once through a waist give three approaching and three departing portions, whose continuity as routes need not mean uninterrupted material connection when the proposed along couplings open. — atom-carbon-prime-correspondence
 
 - **Natural Resolver, bumping · Relative movement:** common rigid rotation preserves internal contact geometry among the co-rotating parts, so successive internal encounters require relative motion or another changing constraint. — atom-carbon-prime-correspondence
+
+- **Natural Resolver, same now-existing momentary · Across bi-tunneling:** the proposed bump disconnects a single co-chaining all or none for across bi-tunneling within the same now-existing momentary, without introducing a resistant intermediate, a separate later along step or a requirement that all three folding paths disconnect together. — atom-carbon-prime-correspondence

@@ -600,18 +600,20 @@ At ONE, across sharing is not automatically a fixed sideways chemical bond. Remo
 
 The next proposal puts **one fixed unit scale and stable form at each atom/carbon**, with free units assembling into along-connected spiraling chains. The forward projection, rear mating opening and ratchet-like feature are proposed physical features of that same unit. They have not been identified by the atomic-pattern images gathered here: those images concern arrangements of many atomic sites, not a complete rigid outline of each atom.
 
-The mechanism being explored separates what belongs to the unit from what belongs to the relation:
+The current proposal specifies binary disconnecting of single co-chainings for bi-tunneling across the same now-existing momentary, with floating neutraling unrelationing betweens and no resistance assigned to that operation. The earlier projection and ratchet comparisons remain possible geometry, not a derivation of this operation.
+
+The account separates what belongs to the unit from what belongs to the relation:
 
 | Proposed feature | What stays fixed in the proposal | What changes |
 |---|---|---|
 | Forward projection and rear mating opening | Each constituent's physical form | Which units meet and their relative orientation |
-| Lengthwise coupling away from a bump | Constituent form | Relative passage is constrained at the engaged coupling |
-| Chain encountering a ridge | Constituent form | Relative displacement releases a local coupling, separating the front and back portions |
+| A particular along co-chaining | Constituent form | Co-chaining is or is not, all or none at all |
+| Bump disconnecting | Constituent form | A single co-chaining disconnects for bi-tunneling across the same now-existing momentary |
 | Replenishing at a surface | Constituent form | Which units or chain portions are available for the next coupling |
 
-“Bump” needs its two uses kept explicit: a projecting feature of a unit, and an encounter that displaces the coupling at a ridge. The proposed release is carried as a change of relative placement; it does not silently introduce deformation of the supposedly unchanged unit. Nor does it require a new fixed sideways bond between neighboring chains: contact across can change the allowable along relation.
+The earlier possible projecting feature and the current bump-disconnecting operation must not be conflated: a proposed shape alone does not specify the operation. Bump disconnecting now names the all-or-none change of one co-chaining; it does not introduce deformation of the unchanged unit, graduated resistance or a fixed sideways bond.
 
-**The strongest unresolved mechanical joining is the one-way condition.** A forward/rear asymmetry names an orientation but does not itself make reverse passage impossible. Lengthwise locking and release can fit together if the ridge gives a permitted turning or sideways displacement. The complete arrangement must then carry how the released end meets the next opening while a backward route remains unavailable. If the ridge is another participating structure, its placement and changing constraints are part of the co-chaining. The ratchet-wrench comparison supplies this question, not an already derived answer. Forward along also does not by itself choose right-handed spiraling.
+**The relation still to carry is the particular co-chaining's disconnecting into across bi-tunneling.** The current account places both within the same now-existing momentary; it must not be rewritten as accumulated resistance followed by a later release. The asserted forward-only relation and the particular across joining still need to be carried explicitly; a forward/rear shape alone does not derive either. Forward along also does not by itself choose right-handed spiraling.
 
 **Replenishing must concern availability if the constituent never changes.** Separating a chain does not itself destroy any of its units. If they leave the active surface or become unavailable there, replenishing can mean offering other unchanged units, including units returning by another route. If the same units release and re-engage locally, repeated coupling does not by itself require a net supply of additional carbon. Thus the outgoing route, local reuse and incoming route need to be carried together; this keeps replenishing consistent with the unchanged-unit premise without calling that unit worn down.
 
@@ -629,34 +631,37 @@ The present value is a clearer candidate mechanism joining invariant constituent
 
 ## Three folding edges through the waist
 
-The towel picture makes the proposed ridge more specific: one folding edge can meet another at the waist, and a carbon chain riding that encounter could undergo the proposed local release. This is a candidate joining within the same arrangement, without adding an unrelated bumping part. Within this proposal, atom and carbon remain the two names for the one unchanged constituent; the changing quantities here belong to placement, contact and coupling.
+**The current proposal is binary, all or none at all: bump disconnecting single co-chainings for bi-tunneling across the same now-existing momentary.** Its betweens are floating neutraling unrelationing. Resistance, frictional release and accumulated pressure are not parts of this specified operation; their earlier use here was an assistant interpretation and is withdrawn.
 
-**Three edges means three traceable folds, ridges or routes.** It does not mean that an ordinary rectangular towel has three boundary edges. If each route passes once through the waist without branching, there are three approaching portions and three departing portions of the same three routes. The six portions do not by themselves establish six independent chains, six atoms or six successive moments. The geometric routes can continue while their material connections temporarily open: if all three along couplings release, six disconnected portions could exist at that moment. Each approaching route needs its actual continuation on the departing side, including any change in which route lies above or below another.
+The towel's folding edges offer a possible spatial correspondence for where a particular co-chaining disconnects. Within this proposal, atom and carbon remain two names for the one unchanged constituent. The binary changing belongs to co-chaining is or is not; the unit is not becoming softer, wearing down or partially disconnecting.
 
-Approaching a tighter waist and departing into a looser winding can both be forward along one route. Thus a spatial progression from looser to tighter to looser winding does not itself require backward travel. This makes room for the proposed forward succession, but does not yet derive dynamic wrapping and unwrapping: a stationary twisted arrangement and material moving through that arrangement are different observations.
+| Relation in the proposal | Current specifying |
+|---|---|
+| Atom/carbon | Same-existing stable constituent, unchanged |
+| A single co-chaining | Is or is not, all or none at all |
+| The betweens | Floating neutraling unrelationing |
+| Bump disconnecting | Disconnecting a particular co-chaining for across bi-tunneling |
+| Across bi-tunneling | Belongs to the same now-existing momentary |
 
-| Proposed relation at the waist | What can remain unchanged | What has to change for the proposed passage |
-|---|---|---|
-| An along coupling holds while its chain approaches | Each constituent's form and the other along connections | Relative placement toward the next contact |
-| One folding edge meets another | The identities of both routes | Contact angle, separation, pressure or relative sliding |
-| A bump opens a particular along coupling | The constituent forms, if the proposed release path permits this | That coupling's engagement |
-| The next portion goes on and a coupling closes | Constituent identity and the forward aiming | Which portions are engaged and locally available |
+These rows distinguish relations within the account; they are not five successive stages. In particular, across in the same now-existing momentary must not be turned into a separate later along step. The word momentary has not here supplied a measured duration, zero elapsed time or a common external clock.
 
-**Rigid and not rigid can describe restraint of an arrangement.** One placement can resist relative motion and another permit it without assigning a change of physical state to the individual constituent. However, if a lengthwise lock forbids all relative turning and sliding, the chain cannot bend into a changing winding while every lock stays closed; the available movement must be named. If the lock permits turning while preventing separation, that is a different and potentially compatible coupling.
+**Three edges means three traceable folds, ridges or paths.** An ordinary rectangular towel does not acquire three boundary edges from this naming. If three paths each pass once through the waist without branching, they have three approaching and three departing portions. That count alone does not specify which single co-chaining disconnects, does not require all three to disconnect together, and does not supply six successive momentaries. The earlier all-three-disconnecting construction is not part of the current specifying.
 
-Common rigid rotation of the whole assembly preserves its internal contact geometry. On its own it cannot produce successive edge encounters. Changing twist, relative sliding or another changing constraint supplies the needed relative movement. Contact between chains is compatible with the proposal of no permanent side bonds, but the contact is still an across relation. Neither the word knot nor a twisted waist establishes a topological knot or guarantees that an axial channel stays open.
+Approaching tighter winding and departing into looser winding can both be forward along one path. This geometrical possibility does not itself give the binary operation or its across joining. The towel remains an illustration to carry into the operation; its material friction and stiffness are not being assigned to the proposed atom/carbon account.
 
-Three incoming observations now help locate the comparison:
+Neither a twisted waist nor three folding paths guarantees a topological knot or an unoccupied hollow channel. Those are separate geometrical relations to carry with the actual paths and constituent forms.
+
+The following are retained as **separate incoming physical observations**, with their preparation and measurements intact; their measured torque and friction are not substituted for the proposal's floating neutraling unrelationing:
 
 - **Twisted sheets:** Chopin and Kudrolli's [tensional twist-folding study](https://doi.org/10.1126/sciadv.abi8818) stretches and twists end-clamped elastic sheets. Imaging shows folds, self-contact and concentrated winding; measured torque repeatedly rises and falls with imposed twist. Fold number depends on preparation and dimensions, rather than being universally three. These are deforming sheets, not observed unchanged carbon units. The paper's local twisting rate is angle per length, not a cycle frequency, and its scrolled core does not establish a hollow passage.
 - **Carbon contact with changing friction:** in Dienwiebel et al.'s [graphite study](https://doi.org/10.1103/PhysRevLett.92.126101), rotating the substrate by 12 degrees at the same 18 nN load changed measured friction from 203 ± 20 pN to 15.2 ± 15 pN, reversibly. Scanning was at 30 nm/s in dry nitrogen. Graphite here is a many-carbon layered material; the proposed tip-attached flake was not clearly imaged afterward. The calculation's 96 atoms are a model choice, not an observed count.
 - **Carbon contact locking and returning:** Liu et al.'s [microscale graphite study](https://doi.org/10.1103/PhysRevLett.108.205503) uses a microtip to displace a capped graphite block's top portion. Some displaced portions return when released; relative rotation produces locking orientations separated by about 60 degrees. Return between those orientations was reproducible in the examined contacts. High-speed video gave a lower-bound speed estimate above 1 mm/s; this did not time an atomic coupling cycle. Sample structure and size affect return, and no individual along-chain opening was recorded.
 
-These observations offer folding with changing resistance and carbon interfaces with orientation-dependent sliding or locking. **The central unresolved joining is the passage from changing contact resistance to opening a particular along coupling.** Sliding, catching and releasing an interface do not by themselves mean a chain has separated. In the proposed account, the encounter must carry both the actual local opening and the continued availability of the next engagement, while retaining the asserted forward restriction.
+These measurements remain incoming observations to cohere, rather than evidence that resistance belongs to the proposed operation. They do not identify the specified single co-chaining's binary disconnecting for bi-tunneling across the same now-existing momentary. **The particular relation still to carry is which co-chaining disconnects and how that belongs to the across bi-tunneling within that momentary.** No graduated coupling or resistant intermediate is introduced into the proposal.
 
 Natural Numbers §6.2 calls each integer a waist; 24 has its specified self-opposite role on the ring of 48, and the previously gathered three prime pairings each total 48. A physical waist therefore does not single out 24 merely by sharing that name. The connection to carry is the actual three-route pairing and succession through the waist, then its correspondence to the named number operation and ONE's bi-foldings. Three routes, six portions and a four-moment cycle cannot be substituted for one another without that operation.
 
-The new value is a candidate source of the ridge within the folding itself, together with a forward route through tightening and loosening. Physical atom geometry, threefold universality, the coupling's release path and continual replenishment remain open joins, preserved alongside the observations.
+The current value is a more exact specifying of the proposed binary relation: unchanged constituent, single co-chaining disconnecting, floating neutraling unrelationing betweens and across bi-tunneling within the same now-existing momentary. The towel's physical correspondence, threefold universality and continual replenishment remain open joins alongside the retained observations.
 
 ## What is gathered, what is offered, and what remains open
 
@@ -670,7 +675,7 @@ The new value is a candidate source of the ridge within the folding itself, toge
 | Fiber, replenishment and material exchange | Specified observations and relational correspondence; physical atom wear and uninterrupted external intake are not established. | Chemistry, Biology |
 | Cones, hollow fibers and rh6 | Sample-specific structures or computational candidates; no observed universal three-module atom. | Chemistry, Biology, Naming |
 | Along-connected chains around a hollow channel | Exact illustrative geometry and reported chain assemblies; hollow physical stability, lateral relation and the correspondence to ordinary tube observations remain open. | Chemistry, Physics, ONE |
-| Three folding routes through a waist | Candidate edge-generated ridge and forward passage through tighter and looser winding; contact sliding has not been joined to actual along-coupling release. | Chemistry, ONE, Numbers |
+| Three folding paths through a waist | Proposed single co-chaining disconnecting for bi-tunneling across the same now-existing momentary; floating neutraling unrelationing, with resistance excluded from the specified operation. | Chemistry, ONE, Numbers |
 | Atom and carbon as one universal referent | The same proposed identity throughout; full physical identification and co-chain into living inception remain open. | Chemistry, THIRTY |
 
 The report's values are offered as one-sentence droplets to Numbers, ONE, THIRTY, Mathematics, Naming, Chemistry, Biology, Societies and Physics. These are incoming values, not amendments to the root living files. The report links to source versions and observations so another working can improve or challenge the joins without reconstructing this transcript. No claim is made that every living file has already received the values or that all relations across the set have been resolved.
@@ -680,7 +685,7 @@ The report's values are offered as one-sentence droplets to Numbers, ONE, THIRTY
 1. **From arithmetic to operation:** carry the three prime pairings centred at 24 into the resolver's actual succession, preserving the distinction between name, prime value, fold and momentary.
 2. **From three orientations to an along passage:** carry the new six-form recurrence into actual coupling, and carry the compatible rigid-copy joining through the remaining across relations and the physical body's channel; the filled-octahedron construction obstructs its own screw axis.
 3. **At the channel:** carry the proposal of only-along material connections into actual across co-chaining, keeping the axial passage unoccupied and naming the relations maintaining the winding and spacing; the reported carbon-chain bundles and ordinary tube measurements remain separate incoming observations to cohere.
-4. **At the stable form:** carry the specified unchanged-unit premise through actual permitted turning, local release and next engagement, distinguishing three continuing routes from their temporarily disconnected material portions.
+4. **At the stable form:** carry the unchanged-unit premise through a particular co-chaining's binary disconnecting for bi-tunneling across the same now-existing momentary, keeping floating neutraling unrelationing distinct from the separate measured friction observations.
 5. **At the prime scales:** name the living participants and actual inward receiving around atom 5, rather than treating a numerical ladder as an already observed coupling.
 6. **At the observations:** keep preparation, imposed constraints, recorded changes and timing attached to each incoming match, including the cup-stack/helix mismatch and pauses in external nourishment.
 
