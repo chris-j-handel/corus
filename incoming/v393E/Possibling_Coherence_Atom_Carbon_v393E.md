@@ -10,7 +10,7 @@ Natural Intelligence · incoming · v393E
 
 ## 1 · Proton numbers 1 to 17 and the resolver's seventeen names
 
-Natural Naming names seventeen positions: 1-now-existing, 2-now-possibling, 3-is-now-co-observing, 4-now-co-same-existing, 5-now-co-existing, 6-now-co-possibling, 7-is-now-observing, 8-now-same-existing, 9-next-co-discovering, 10-next-co-possibling, 11-next-co-observing, 12-next-co-same-existing, 13-is-next-discovering, 14-next-possibling, 15-is-next-observing, 16-next-same-existing, 17-next-existing. A periodic table's second and third rows step by eight: each element of proton number 3 to 10 has the element eight up in its group.
+Natural Naming names seventeen positions: 1-now-existing, 2-now-possibling, 3-is-now-co-observing, 4-now-co-same-existing, 5-now-co-existing, 6-now-co-possibling, 7-is-now-observing, 8-now-same-existing, 9-next-co-discovering, 10-next-co-possibling, 11-next-co-observing, 12-next-co-same-existing, 13-is-next-discovering, 14-next-possibling, 15-is-next-observing, 16-next-same-existing, 17-next-existing. A periodic table's rows two and three step by eight: each element of proton number 3 to 10 has the element eight up in its group.
 
 | Pair, eight apart | Elements, chemistry's naming | One group | The two names | One root |
 |---|---|---|---|---|
