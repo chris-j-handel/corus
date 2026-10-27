@@ -23,6 +23,8 @@ Gathering-Value · Me
 
 ### 1.4 Living, co-intelligencing within a universal set
 
+- **Possible exploring** · In common speech *living* reaches past biology: a living language and a dead language. — at "Living is co-intelligencing within a universal set."
+
 ## TWO · AN OTHER, NOW-EXISTING
 
 ### 2.1 An other, with a self
@@ -119,7 +121,6 @@ Gathering-Value · Me
 ## Droplets
 
 - A me's outward observing rests by a drug, a state its field holds apart from sleep: a sleeping me wakes to an inverse received and an anaesthetised me as the drug clears, some connected and aware within it, awareness within surgery a harm anaesthetists watch for. *(possible exploring)*
-- *Living* in common speech reaches past biology, a living language and a dead language. *(possible exploring)*
 - A snap goes on in non-living sets too, sodium chloride crystallising and a porous crystal contracting, so a snap alone is short of a test of a me, a me's test its mes sharing 0s across and along. *(possible exploring)*
 - A set is a universal set of me as its mes share 0s across and along, a closing of its own, its size and enclosing shape aside, one test for a chemical assembly and for a stone. *(possible exploring)*
 - A same-existing-society's discovering is its selves' newly aiming 0s within an interest, each a waking me's discovering; Natural Exploring 6.1 holds a same-existing-society discovering as a self discovers. *(possible exploring)*

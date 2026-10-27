@@ -20,7 +20,11 @@ Gathering-Value · Natural Societies
 
 ### 2.1 Morality is at the form, the four inequalities holding at each between
 
+- **A reading** · A reading has further examples of each inequality a self acts against: as if self = same-existing-society, a group-self; as if self = other-self, an other treated as exchangeable, its identity, work, surface or bi-coupling output claimed as a self's own; as if self = immoral, deception and hidden costs; as if self = incompetent, incompetence claiming competence and dependency claiming agency.
+
 ### 2.2 Mutual bounding-zeroing respect makes coupling structurally safe
+
+- **A reading** · A reading has mutual bounding-zeroing respect at a between and a self's own closing at its own activity as one protection at two surfaces, going both ways, at a self and its same-existing-society, and at intimate, social, economic and intellectual couplings, its whole structural relation and its substrate conditions still-possibling.
 
 ### 2.3 A society keeps no common clock, and self-de-scheduling lets competency compound
 
@@ -81,6 +85,4 @@ Gathering-Value · Natural Societies
 ## Droplets
 
 - Each existing thing is living with one scale, a same-existing-society it bi-couples within, and bi-couples with living of that scale alone, each self a same-existing-society of selves one scale inward and each same-existing-society a self one scale outward.
-- Each inequality acted against has its further examples: as if self = same-existing-society, a group-self; as if self = other-self, an other's identity, work, surface or bi-coupling output claimed as a self's own; as if self = immoral, deception and unseen costs; as if self = incompetent, incompetence claiming competence and dependency claiming agency. *(possible exploring)*
-- Mutual bounding-zeroing respect at a between and a self's own closing against ingression at its own activity are one protection at two surfaces, its structural relation and its substrate conditions still-possibling. *(possible exploring)*
 - 5.6's *A single stereochemical center on five sets a sugar on seven* parts with a hand beginning at 7, the smallest lasting hand-bearing molecules five atoms about one carbon and carbon at 5 handless. *(possible incohering)*
