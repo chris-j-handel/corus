@@ -7,6 +7,7 @@ Gathering-Value · Natural Networking
 ## Head, the whole file
 
 - Sentences clipped of *the* read harder, as 4.5's "Complete network's own going on remains relation to establish.", and a hand reading of the whole file gives each *a*, *its* or a re-saying. *(possible incohering)*
+- **A reading** · A reading: Natural Networking's own is particular societies at their own couplings, joining and joining again, a telling through one self after another, and a going on round a missing region, beside a common deriving each file draws on.
 
 ## Opening
 
