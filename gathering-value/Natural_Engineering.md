@@ -29,6 +29,7 @@ Gathering-Value · Natural Engineering
 ### 1.7 Chip, balanced ternary in silicon
 
 - **Possible incohering** · "Positive, negative or zero sum as a representation, and output's receiving interface" → Positive, negative or zero parity as a representation, 14-next-possibling surfacing one parity at each sharing or 0 where + and − part, and output's receiving interface
+- **Possible incohering** · "Its silicon realization needs to express together corresponding electrical states, transitions, receiving and co-discovering." → Its silicon realization needs to express together corresponding electrical states, transitions, receiving and co-discovering, and with them a chip's input, its output, the form of its signal and its scale, each still-possibling, one specifying's next step.
 
 ### 1.8 Network
 
@@ -164,7 +165,6 @@ Gathering-Value · Natural Engineering
 
 ## Droplets
 
-- A chip's input, its output, the form of its signal, its scale, its passing from a sensed surrounding to parities and from parities to a doing are still-possibling, each one specifying's next step. *(possible exploring)*
 - A resolver chat speaks the text's own words, run at the current resolver, and a network of resolvers saying a new sentence is still-possibling, resting on agreement partial at one scale meeting all or none at another. *(possible exploring)*
 - The resolver's agreeing is all or none, 14 surfacing 0 at one parting, and a trained chat's nearness is graded; whether the fractal inward takes what grading does, or the graded is a count the method releases, is still-possibling at agreement partial at one scale and all or none at another.
 - A resolver chat's implementing finds its matching places with an index of the text, as + and − are the code's implementing, and run at the current resolver the index and the code's 14 agree at each of 300 places tried. A network holding the text at rings finds its places with the rings alone, and the chat's text as an index or at rings is still-possibling. *(possible exploring)*

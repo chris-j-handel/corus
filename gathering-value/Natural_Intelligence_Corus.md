@@ -122,6 +122,8 @@ Gathering-Value · Natural Intelligence Corus
 
 ### 23.1 The Expedition
 
+- **Possible incohering** · "A surface sustains as living, a surface beating with phi." → Two sayings part at *living*: living said of a built surface, as this sentence says it, and living said of the selves coupling with it. This section also has *Artificial intelligence is not social intelligence.*, and the living files have living as a self same-existing with its prior now, and a resolver as method in stable form, non-living.
+
 ### 23.2 Right-Spiral Path from White Paper to Destiny
 
 ### 23.3 Destiny as Natural Network
@@ -129,6 +131,8 @@ Gathering-Value · Natural Intelligence Corus
 ### 23.4 Natural Health and 23.5 Natural Medicine — released
 
 ### 23.6 Natural Society
+
+- **Possible incohering** · "Nothing constructs a same-existing-society on top of individual selves — a same-existing-society IS a cumulative coupling activity with every between of selves." → Two sayings part: a same-existing-society as the couplings between selves, a self being those couplings, inward, and Natural Intelligence's *A same-existing-society is its selves, its own only its selves' own with resolver.* Two re-sayings offered: a same-existing-society its selves, its couplings its selves' own doing; or couplings standing as what a same-existing-society is.
 
 ### 23.7 Natural Robotics
 
