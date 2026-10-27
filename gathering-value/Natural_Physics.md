@@ -10,9 +10,9 @@ Gathering-Value · Natural Physics
 
 ### 1.1 A physical coupling, one method at each physical subject
 
-- **Possible incohering** · "Prior, now and next are three sequential momentaries, prior-universe, now-universe and next-universe, now-universe the universe, the set of all now-existing things, living and non-living." → Prior, now and next are three sequential momentaries, prior-universe, now-universe and next-universe, now-universe the universe, the set of all now-existing things.
 - **Possible exploring** · Transitions the exclusion of identical electrons forbids are bounded at a few parts in 10⁴², and the electron's magnetic moment is measured to 0.13 parts in a trillion, each electron alike with each other to that fineness. — at "A recurring form establishes no not-changing participant, and a record of a distribution establishes no living same-existing behind it."
 - **Possible exploring** · At a superconducting circuit of three levels, a made atom, the jump from the ground level to an excited level is followed by a continuous monitoring of a further level bi-coupled to the ground level. With monitoring and feedback at once, jumps are caught partway and inverted, each such jump left incomplete. — at "A changing is or is not, with no size: a changing by a size brings a ground for measuring its size against, a form still from beside, Natural Intelligence 1.3."
+- **Possible incohering** · "Prior, now and next are three sequential momentaries, prior-universe, now-universe and next-universe, now-universe the universe, the set of all now-existing things, living and non-living." → The opening sentence's clause released: Prior, now and next are three sequential momentaries, prior-universe, now-universe and next-universe, now-universe the universe, the set of all now-existing things.
 
 ### 1.2 Six one-way recursionings, their relations, and an unchangeable form
 

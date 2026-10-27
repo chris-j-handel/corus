@@ -8,6 +8,7 @@ Gathering-Value · Resolving Hard Problems
 
 - **Possible incohering** · "Bi-Momentary Co-Sequencing of Living and Non-Living Existing Things" → Bi-Momentary Co-Sequencing of Existing Things
 
+
 ## ONE · AN EXISTING UNIVERSE
 
 ### 1.1 The universe, the set of all now-existing things

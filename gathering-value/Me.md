@@ -41,7 +41,6 @@ Gathering-Value · Me
 
 - **Possible exploring** · Most brain cells have the carbon they formed with through a whole life, while fat, bone and blood renew theirs. — at "This is a me's identity: a same-existing me is one, from prior to now."
 - **Possible exploring** · A dividing bacterium's old pole goes on with one daughter. — at "This is a me's identity: a same-existing me is one, from prior to now."
-- **Possible exploring** · Identical molecules each have their own colour, set by their neighbours, and identical nuclei are told apart by their neighbours only. — at "Universal is bothboth, only one possibly now-existing and only one possibly same-existing, so a me is only one possibly now-existing, now, and only one possibly same-existing, from its prior: its uniqueness is its being universal, both ways."
 
 ### 3.2 A me is consciousness
 

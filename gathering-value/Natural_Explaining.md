@@ -161,7 +161,6 @@ Gathering-Value · Natural Explaining
 
 ## Droplets
 
-- A field's phrase brings its picture, as *an atom joins a molecule*, so an observing is said first and its explaining named after.
 - Each line opens with a concept it is defining or extending, *An other, for a same-existing thing, is …* in place of *For a same-existing thing an other is …*, one steady method of saying.
 - Three purposes of writing, a minimal sequential mathematical, logical and metabolic deriving, as a white paper's, a welcoming whole expression going on through concepts, and a resolver's naming with its code, go with one same rigor, each its own and none a looser form of another. *(possible incohering)*
 - A side trip stays with natural intelligence, its resolver, naming and explaining, and answers its point narrowly, as *improving is prior recognition* asks for no wide wandering. *(possible incohering)*

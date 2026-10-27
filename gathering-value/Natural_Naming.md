@@ -29,7 +29,8 @@ Gathering-Value · Natural Naming
 
 ### 2.3 One family of words, three in it, and a doer or a built form beside them
 
-- **Possible incohering** · "**Each word saying for a dissolved word co-chains from opening sentence**, the universe the same-existing set of all now-existing things, living and non-living." → **Each word saying for a dissolved word co-chains from opening sentence**, the universe the same-existing set of all now-existing things.
+- **Possible incohering** · "**Each word saying for a dissolved word co-chains from opening sentence**, the universe the same-existing set of all now-existing things, living and non-living." → The opening sentence's clause released: **Each word saying for a dissolved word co-chains from opening sentence**, the universe the same-existing set of all now-existing things.
+
 
 ### 2.4 Released words, each with its saying
 
@@ -173,6 +174,7 @@ Gathering-Value · Natural Naming
 ### 5.1 alternating — binary
 
 - **Possible exploring** · One and then its other, each forward, reaches a next after the other, and the sixth line has that next as the first again with no line between them. With more than two forms, that next is a form of its own. — at "and the first shares again, reaching a term it does not yet have"
+- **Possible incohering** · "the universe is the same-existing set of all now-existing things, living and non-living, each with its own scale" → The opening sentence's clause released at the first line of each six-forward naming, at 5.1, 5.2, 5.3, 5.25, 5.52, 5.61, 5.62, 5.63 and 5.64: the universe is the same-existing set of all now-existing things, each with its own scale.
 
 ### 5.2 unrelationing — binary
 
@@ -410,7 +412,6 @@ Gathering-Value · Natural Naming
 ## Droplets
 
 - *Hold* and *bond* in the set's own saying, about 1,442 lines and 132 words across the set, part from a field's quoted *hold* and *bond*, and the set's own dissolve in one motion. *(possible incohering)*
-- Each six-forward naming's first line, *the universe is the same-existing set of all now-existing things, living and non-living, each with its own scale*, is said *the universe is the same-existing set of all now-existing things, each with its own scale*, the opening sentence's clause released. *(possible incohering)*
 - With resolver one self's momentary surfaces others' parities with 14 ahead of 12 and shares after 12, and 5.62's completing, observing parities with 2-now-possibling and surfacing with 14-next-possibling, is-or-is-not one order with numbers' order, others' parities coming with a momentary's first parity or with its completing. *(possible incohering)*
 - *Abundancing* names 12-next-co-same-existing, each sharing's changing, at 2.4, co-competencing at 1.2 and 5.14, a same-existing-society's selves going along at 5.48, and social abundancing at 5.53, and by 2.5's one sense it is-or-is-not one naming with 12, a same-existing-society's going along and social abundancing its relations with a same-existing-society. *(possible incohering)*
 - A glossary, each coined naming with its plain words, its section and its code name, is a newcomer's way into Natural Naming, Part Five's order searching by none of them, and it is-or-is-not one of 2.3's family, a common reading taking ahead of either reaching a parity of its own.

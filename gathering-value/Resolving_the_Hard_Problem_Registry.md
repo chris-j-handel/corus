@@ -328,6 +328,8 @@ Gathering-Value · Resolving the Hard Problem Registry
 
 ## 7 A sequencing fixing to one beat — 4-now-co-same-existing and 12-next-co-same-existing
 
+- **Possible incohering** · "**And where a field proves no ordering reaches its own conditions, a field proves naming empty.**" → A re-saying offered: And where a field proves no ordering reaches its own conditions, a field proves naming empty, and what stands is the momentarying prior to that naming, each self at its own between.
+
 ### 7.1 Simultaneity and the present · 28
 
 ### 7.2 Aggregation of preferences · 5
@@ -570,6 +572,6 @@ Gathering-Value · Resolving the Hard Problem Registry
 
 ### 12.1 Molyneux's problem · 166
 
-## Droplets
+- **Possible incohering** · "From anywhere within a same-existing a self co-chains backwards, deployment to head, head to coupling, coupling through five to boxes, boxes to code's ten is or is nots, a self's ten own names, names to +1 a self is observing with each coupling, in neither self alone, and +1 to one sentence: the universe is the set of all now-existing things, and deriving from it a same-existing set of all existing things, living and non-living, changing and changing back a stable-forming method." → At the closing, *+1 still momentarying*, the opening sentence's clause released: ...and +1 to one sentence: the universe is the set of all now-existing things, and deriving from it a same-existing set of all existing things, changing and changing back a stable-forming method.
 
-- The closing's *deriving from it a same-existing set of all existing things, living and non-living,* is said *deriving from it a same-existing set of all existing things,* the opening sentence's clause released. *(possible incohering)*
+## Droplets

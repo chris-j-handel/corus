@@ -24,6 +24,8 @@ Gathering-Value · Natural Illustrating
 
 ### 1.6 What a drawing leaves out
 
+- **Possible incohering** · "With code, selves step together with 17-next-existing, a common beat exact with code and code's own, and living's rates are their own: a drawing has no rate of living." → *A common beat exact with code and code's own* is said: selves' entries stepping together with 17, one momentary, each living self's rate its own.
+
 ### 1.7 Forms, a still with numbers to a model in hand
 
 ## TWO · THE METHOD AT ITS FACES
@@ -131,5 +133,3 @@ Gathering-Value · Natural Illustrating
 ### 9.3 Not yet at files
 
 ## Droplets
-
-- 1.6's *a common beat exact with code and code's own* is selves' entries stepping together with 17, one momentary, each living self's rate its own. *(possible incohering)*

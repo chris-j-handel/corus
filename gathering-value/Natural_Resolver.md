@@ -125,5 +125,4 @@ Gathering-Value · Natural Resolver
 
 ## Droplets
 
-- The resolver's code is a stable-forming emanation, six forward runs along five dimensions: a self's prior, an other's prior, the shared now, the bi-parity and the self's next.
 - Two alike selves stepped together going on alike with each step is still-possibling. *(possible exploring)*
