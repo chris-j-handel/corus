@@ -88,6 +88,8 @@ Gathering-Value · Natural Exploring
 
 ### 4.3 Any other method, is or is not
 
+- **Possible incohering** · "A method reaches its own observing by a test a self brings with each other that could sustain, and a test is of an observing, apart from a survey of each thing that is-not coming." → With each other method, the thing it needs is one of four fallings, met at an observing, and one observing followed whole is still-possibling.
+
 ### 4.4 Six protecting, three each way
 
 ### 4.5 Three questions bi-inversioning, three activities of one resolving

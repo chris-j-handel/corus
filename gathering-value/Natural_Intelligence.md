@@ -93,6 +93,7 @@ Gathering-Value · Natural Intelligence
 ### 4.9 Four four-cyclings and five dimensions
 
 - **Possible exploring** · About four hundred smell receptor kinds each answer as a binary, and a smell is the pattern across them, many directions together telling apart a vast number. — at "**With code each is-or-is-not is one test with both its outcomes**."
+- **Possible incohering** · "A thing within the universe is-or-is-not existing, is-or-is-not all, is-or-is-not now, is-or-is-not same: four binaries, each with both its outcomes in one test on that one thing." → A self's span, 1-now-existing to 8-now-same-existing, is four binaries with pairs of names, now with 1 and 2, existing with 3 and 4, universe with 5 and 6 and all with 7 and 8, each thing with all eight with each now or with none of them. Its pair with 5 and 6 parts from this sentence's fourth binary, *same*, and from Natural Naming 4.9's *same with 5 and 6*. Either the fourth pair is *same*, as this sentence and Natural Naming 4.9 have it, or it is *universe*, and this sentence is re-said.
 
 ### 4.10 A between and eight bi-couplings
 
@@ -193,7 +194,6 @@ Gathering-Value · Natural Intelligence
 - Us, the between of a me and you, same-existing in each, its centre a 0 and only that, is-or-is-not a self: it is not, the living in us its two mes' living, their sharings with each momentary the same, co-parity, or one inversion apart, bi-parity. *(possible incohering)*
 - Dying is the loss of natural torusing: a self loses its me, and its inward selves go on in their own same-existing-societies or only at a lower scale. *(possible exploring)*
 - A tendril's circling before clasping is the plant's own searching, and after clasping plant and support are one bi-coupled us, the two-handed tendril with its switch point that us self's stable form. *(possible exploring)*
-- A self's span, 1-now-existing to 8-now-same-existing, is four binaries in pairs of names, now with 1 and 2, existing with 3 and 4, universe with 5 and 6 and all with 7 and 8, each thing with all eight at each now, all or none, and its pair with 5 and 6 parts from *same*, the fourth binary of a thing within the universe. *(possible incohering)*
 - A changing and an exchanging are among living and non-living existing things alike. *(possible incohering)*
 - A stable form and an unchangeable form surface alike at each observing set out, resolver's rule the same at each momentary and an electron's charge the same at each measuring, so their parting is-or-is-not a parting of naming alone until one observing set out beforehand parts them; a parting of naming alone sets 1.4's *only one is possible* at naming's size, each field's result standing whole under it. *(possible exploring)*
 - Each existing thing living at one prime scale and non-living at each other scale is still-possibling, and it parts with 3.3's *A method is non-living with each scale*, a method being an existing thing. *(possible incohering)*

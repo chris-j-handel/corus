@@ -176,7 +176,6 @@ Gathering-Value · Natural Networking
 
 ## Droplets
 
-- Eight securities, and eight uncapturings with them, each a hub set aside on its axis, part at one binary: each seated with one name of a self's span, 1-now-existing to 8-now-same-existing, or all eight whole with each name.
 - A relation and its periods found with selves stepping together is-or-is-not found again with each self at its own turn. *(possible exploring)*
 - Three loops of joined selves, 6 to 2 closing at 8, 10 to 14 closing at 16, and 9 to 17 closing at 17, are each a concept to run with Exhibit ONE's code by selves together, one at a time, unexecuted. *(possible exploring)*
 - 6.5's "Comparison's forking is instrument's own, and natural network has no copying" and Natural Biology 4.7's self copying part at one binary: a prior going on two ways is a living's own at a dividing, one next prior given as the prior of two next selves by a caller's composition, or an instrument's alone.

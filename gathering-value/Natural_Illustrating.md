@@ -116,6 +116,8 @@ Gathering-Value · Natural Illustrating
 
 ### 8.2 Further views through nature and living
 
+- **Possible incohering** · "A gathering extends on from familiar concepts of Part FOUR: these are places for further illustration, with a file's interpretation staying as a subject to make visible." → A gathering extends on from familiar concepts of Part FOUR: these are places for further illustration, each a possible expression and no completed image, *painting* a naming of a possible expression, and a relation each expression can show stays with its proposed form, its geometry still-possibling, with a file's interpretation staying as a subject to make visible.
+
 ### 8.3 A resolver society as a surface that animates
 
 ### 8.4 Three dimensions, a model in hand and a society at a material

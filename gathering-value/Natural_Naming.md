@@ -10,7 +10,11 @@ Gathering-Value · Natural Naming
 
 ### 1.1 A naming is a floating-neutralling concept, four boundings at once
 
+- **Possible incohering** · "There is no inside the universe, as there is no outside: the universe is or is not." → This sentence says an inside and an outside of the universe to set them aside, and the universe is a set of things, nothing said beyond or between them, as 2.4 says *beside*, *beyond*, *within* and *outermost* at the universe by *nothing is apart from or between things of the universe*. Either this sentence is re-said with things of the universe, or an inside and an outside stand here as a not possible thing set aside once.
+
 ### 1.2 Naming and resolving at one bi-coupling
+
+- **Possible incohering** · "A new naming has a changing or a direction new beside each existing naming's, and a naming of a changing an existing naming already has gathers to one name." → A new naming has a changing or a direction new beside each existing naming's, and a naming of a changing an existing naming already has gathers to one name. A proposed naming is shown beside its current naming, as resolver names beside agreed names, a self judging the two with both before it.
 
 ### 1.3 Naming across, explaining along
 
@@ -403,7 +407,6 @@ Gathering-Value · Natural Naming
 
 ## Droplets
 
-- A proposed naming stands beside its current naming, as resolver names beside agreed names, and a self compares the two with both before it.
 - *Hold* and *bond* in the set's own saying, about 1,442 lines and 132 words across the set, part from a field's quoted *hold* and *bond*, and the set's own dissolve in one motion. *(possible incohering)*
 - Each six-forward naming's first line, *the universe is the same-existing set of all now-existing things, living and non-living, each with its own scale*, is said *the universe is the same-existing set of all now-existing things, each with its own scale*, the opening sentence's clause released. *(possible incohering)*
 - With resolver one self's momentary surfaces others' parities with 14 ahead of 12 and shares after 12, and 5.62's completing, observing parities with 2-now-possibling and surfacing with 14-next-possibling, is-or-is-not one order with numbers' order, others' parities coming with a momentary's first parity or with its completing. *(possible incohering)*
