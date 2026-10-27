@@ -109,7 +109,6 @@ Gathering-Value · Geodesic Improving Method
 ## Droplets
 
 - Value is in the largest learnings, the most concerning observings and the do-no-harming improvings, and a report or a talk of branches and links is beside it.
-- A break sought is a finding whether it is-or-is-not found. *(possible incohering)*
 - An improving entering nearest the origin, at Natural Intelligence's opening and the Co-Chaining Logic Registry's first steps, goes out into each file of the set. *(possible incohering)*
 - A new between proposed comes with its before and its after, so the larger understanding is followable. *(possible incohering)*
 - A working improves, gathers droplets from its learning as it goes, and re-aims its improving plan every two or three passes.

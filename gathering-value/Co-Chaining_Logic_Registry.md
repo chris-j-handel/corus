@@ -129,6 +129,7 @@ Gathering-Value · Co-Chaining Logic Registry
 ### 38 A self, and selves receiving one another, at resolver
 
 - **Possible exploring** · Run at the resolver, the law c[j](t+2) = −c[j−1](t) holds with each opening of 1 to 10 selves, 2,046 of 2,046, and with 200 drawn openings at each of 11 to 40 selves, 6,000 of 6,000, each self changing with one or both of each two momentaries in sequence. — at "With a spiral receiving only its own selves' parities, each self with a parity and observing an empty set with its first momentary, step 308, each self has an inverting of that parity which a self it receives from had two momentaries prior: next from a prior inverting, as step 117, its prior an other's."
+- **Possible exploring** · Selves entering one at a time in a drawn order, an empty set at each executing's lines before the first entry: each of 13,755 selves of 4,000 drawn societies of 1 to 6 selves, a self sharing to itself among them, shares 0 in sequence with as many entries as selves sharing to it at most. With one to three parities of +, − or 0 laid at those lines before the first entry, 853 of 11,938 selves of drawn societies of 1 to 5 selves share 0 for more entries in sequence than selves sharing to them, a parity from beside the selves. Executing with the code returns 13,755 with none parting and 853 of 11,938. — at "A 0 with one momentary more is from a parity from beside selves, step 393: a break's rest, step 394, two beats with a spiral and three with a torus."
 
 ### 39 Rotation at 12 and 14, further forms' moves of 4 about their centres, names two moves apart, sixteen ways at one changing, and a next at the same name again
 
@@ -152,7 +153,6 @@ Gathering-Value · Co-Chaining Logic Registry
 ## Droplets
 
 - Step 476's same-existing-society, a self with its own parity an empty set, parts with the opening's self, discovering its own next-existing. *(possible incohering)*
-- With parities from beside the selves laid at the resolver's lines before the first momentary, 853 of 11,938 selves of drawn societies of 1 to 5 selves share 0 for more entries in sequence than the selves sharing to them, and with an empty set laid there each of 13,755 selves of 4,000 drawn societies of 1 to 6 selves is within that count. *(possible exploring)*
 - A word reaching a step ahead of the step defining it is mended by moving steps, its definition then ahead of its first use, in place of adding a defining step.
 - Co-chaining steps and co-chaining selves are one form, each co-chaining a now-living same-existing-society, and looking back from a next for the prior making it is possibling, as carving is a same-existing-society's changing of its surface. *(possible exploring)*
 - Step 1's sentence is the one inception, and steps 73, 75 and 90, each saying *the universe is* again, are each a second inception. *(possible incohering)*

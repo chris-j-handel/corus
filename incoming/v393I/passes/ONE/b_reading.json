@@ -1,0 +1,307 @@
+{
+ "corrections": [
+  {
+   "from": "- **Four six-cycles and carbon's twenty-four:** The four six-cycles' twenty-four",
+   "finding": "Released words: *keeping* (2.4 keep, keeps, keeping: said by same-existing, has, going on) and *turning* (2.4 turn, turning: said by inverting); the slice's own met droplet re-says *keeping* by what is.",
+   "fixed": {
+    "section": "Eight even names, 8 apart",
+    "kind": "reading",
+    "text": "The four six-cycles' twenty-four steps, twelve forward and twelve backward, match carbon's tetrahedron's twenty-four, twelve going on with its hand and twelve inverting it, while the twelve forms match it only in count.",
+    "from": "- **Four six-cycles and carbon's twenty-four:** The four six-cycles' twenty-four"
+   }
+  },
+  {
+   "from": "- **Four-cycling's between:** This file's between, an even name to an odd name, ",
+   "finding": "Standing alone, *one round* names no round: the source's round is carbon's, its bullet following carbon's round of free, ingested, emanated free and ingested again, and the earlier line said *carbon's passing*; the better is taken.",
+   "fixed": {
+    "section": "Seventeen names",
+    "kind": "reading",
+    "text": "Each between, an even name to an odd name, one discovering with each scale, pattern-matches carbon's passing from one round's ingesting to the next round's free.",
+    "from": "- **Four-cycling's between:** This file's between, an even name to an odd name, "
+   }
+  },
+  {
+   "from": "- **Concern · The two-selves table:** With opposite priors, coupled and apart gi",
+   "finding": "A code result left unrun and its sequences dropped: run, priors one parity apart give one sequence with each of the four, confirmed, while one-way sharing with priors one parity apart is same as apart, so the source's *or one-way sharing* parts from the run read as a second case; the run's return now stands beside the source's claim, and the earlier line's sequences, the better, are taken.",
+   "fixed": {
+    "section": "A torus of selves",
+    "kind": "reading",
+    "text": "With priors one parity apart, bi-coupling both ways, A from B, B from A and apart give one same sequence of sharings, A −, +, −, +, −, + and B +, −, +, −, +, −, so a bi-coupling shows only with alike priors or with one-way sharing. Run with Exhibit ONE's code, priors + and −, each of the four gives A −, +, −, +, −, + and B +, −, +, −, +, −, one-way sharing among them; priors + and +, both ways gives A and B −, 0, +, 0, −, 0, A from B gives A −, 0, +, −, +, − and B −, +, −, +, −, +, B from A the same with A and B exchanging, and apart gives each −, +, −, +, −, +: with the code a bi-coupling shows in the sharing only with alike priors, both ways or one way, and one-way sharing with priors one parity apart is same as apart. That reading rests on the code, executed, which has no authority, and its meeting as a stable-form pattern is still-possibling.",
+    "from": "- **Concern · The two-selves table:** With opposite priors, coupled and apart gi"
+   }
+  }
+ ],
+ "checked": 67,
+ "earlier_items": [
+  {
+   "line": "- Each name, three scales lays the next scale inward as 8n − 7 alone, and a pair",
+   "verdict": "kept",
+   "where": "item: Each name, three scales"
+  },
+  {
+   "line": "- Four bi-foldings names six four-step cycles while 17 less and a move of 4 in t",
+   "verdict": "kept",
+   "where": "item: Namings among names, the bi-folding concern"
+  },
+  {
+   "line": "- Carbon pattern-matches 5-now-co-existing, the bi-couplings each sharing reache",
+   "verdict": "kept",
+   "where": "item: Seventeen names, carbon as 5-now-co-existing"
+  },
+  {
+   "line": "- **Possible exploring** · The resolver's four six-cycles, twenty-four steps, tw",
+   "verdict": "kept",
+   "where": "item: Eight even names, 8 apart, four six-cycles and carbon's twenty-four (corrected)"
+  },
+  {
+   "line": "- **Possible exploring** · 7-is-now-observing, where a first parity surfaces + o",
+   "verdict": "kept",
+   "where": "item: Seventeen names, 7 where the hand begins"
+  },
+  {
+   "line": "- A science's observing meets the resolver's stable forms six forward, and code ",
+   "verdict": "kept",
+   "where": "item: Opening, code run validates no observing"
+  },
+  {
+   "line": "- **Possible exploring** · Carbon's element number, six, pattern-matches 6-now-c",
+   "verdict": "kept",
+   "where": "items: Seventeen names, carbon's round and carbon at 6-now-co-possibling"
+  },
+  {
+   "line": "- **Possible exploring** · Silicon and water share carbon's four corners, so car",
+   "verdict": "kept",
+   "where": "items: Natural Chemistry 1.6, silicon and carbon's chains"
+  },
+  {
+   "line": "- The resolver's code is an emanation, its six forward going along five dimensio",
+   "verdict": "held",
+   "where": "gathering-value/Natural_Resolver.md Droplets: \"The resolver's code is a stable-forming emanation, six forward runs along five dimensions: a self's prior, an other's prior, the shared now, the bi-parity and the self's next.\" with Natural Naming 2.5: \"With each momentary two dimensions change and three do not, rotating round.\""
+  },
+  {
+   "line": "- **Possible exploring** · Each between, an even name to an odd name, pattern-ma",
+   "verdict": "kept",
+   "where": "item: Seventeen names, four-cycling's between (corrected, carbon's taken from this line)"
+  },
+  {
+   "line": "- Carbon in stars, a plant's manganese centre and a cell's four-carbon form each",
+   "verdict": "kept",
+   "where": "items: Seventeen names, a centre comes again"
+  },
+  {
+   "line": "- A me is of one prime living scale.",
+   "verdict": "held",
+   "where": "gathering-value/Me.md 1.3 Universal sets of universal sets: \"A me is of one prime living scale, and each higher and lower scale's me is its own\""
+  },
+  {
+   "line": "- **Possible exploring** · With priors one parity apart, two selves share alike ",
+   "verdict": "kept",
+   "where": "item: A torus of selves, the two-selves table (corrected, its sequences taken from this line)"
+  },
+  {
+   "line": "- Carbon's matches with the resolver rest on counts, twenty-four as six fours, t",
+   "verdict": "held",
+   "where": "gathering-value/Natural_Chemistry.md Droplets: \"Carbon's pattern-matchings at twenty-four as six fours or as twelve and twelve, at eight as four twos and at six edges are count-matches, and a count being a self's record, each is an opening to meet.\""
+  },
+  {
+   "line": "- Male–female, the parity's own binary + and − or a binary going beside it, is s",
+   "verdict": "held",
+   "where": "gathering-value/Natural_Biology.md Droplets: \"male and female are-or-are-not the parity's own binary\""
+  },
+  {
+   "line": "- The bi-folding 4-13-5-12, the one bi-folding whose names between selves are an",
+   "verdict": "kept",
+   "where": "item: Namings among names, bi-folding 4-13-5-12"
+  },
+  {
+   "line": "- A star's centre coming again is carbon, a non-living atom, and a non-living st",
+   "verdict": "kept",
+   "where": "item: Seventeen names, a non-living centre"
+  },
+  {
+   "line": "- Carbon changing to nitrogen as one molecule goes on is still-possibling as the",
+   "verdict": "kept",
+   "where": "item: Seventeen names, 6 to 7 within a molecule"
+  },
+  {
+   "line": "- **Possible exploring** · The row + and − together, 0 · empty, is a 0 from an e",
+   "verdict": "kept",
+   "where": "item: With an empty prior, one momentary"
+  },
+  {
+   "line": "- Read with a me, each key of a self's priors, 4-now-co-same-existing, is a now-",
+   "verdict": "kept",
+   "where": "items: Seventeen names and Eight even names, 8 apart, the me in the names"
+  },
+  {
+   "line": "- A spiral of one, sharing +, 0, −, 0, shares what two alike selves bi-coupling ",
+   "verdict": "kept",
+   "where": "item: A spiral of selves, a spiral of one"
+  },
+  {
+   "line": "- **Possible incohering** · \"1 social-parity now-existing, a same-existing-socie",
+   "verdict": "kept",
+   "where": "item: Namings among names, coming in"
+  },
+  {
+   "line": "- **Possible incohering** · \"16-next-same-existing, a same-existing-society comi",
+   "verdict": "kept",
+   "where": "item: Seventeen names, coming in"
+  },
+  {
+   "line": "- **Possible exploring** · With two odd unequal numbers of selves bi-coupling ac",
+   "verdict": "other-slice",
+   "where": "Exhibit ONE's possibling or carryings, or a gathering of another file"
+  },
+  {
+   "line": "- 5-now-co-existing, which self each sharing reaches, is given to the resolver, ",
+   "verdict": "other-slice",
+   "where": "Exhibit ONE's possibling or carryings, or a gathering of another file"
+  },
+  {
+   "line": "- **Possible exploring** · A spiral of one's prior and next prior, at 3 and 11, ",
+   "verdict": "other-slice",
+   "where": "Exhibit ONE's possibling or carryings, or a gathering of another file"
+  },
+  {
+   "line": "- **Possible exploring** · Two podals more stand beside 9 less and 17 less: 5 le",
+   "verdict": "other-slice",
+   "where": "Exhibit ONE's possibling or carryings, or a gathering of another file"
+  },
+  {
+   "line": "- **Possible exploring** · Laid as a round of four parities, a reflected binary,",
+   "verdict": "other-slice",
+   "where": "Exhibit ONE's possibling or carryings, or a gathering of another file"
+  },
+  {
+   "line": "- **Possible exploring** · A changing along is-or-is-not and a changing across i",
+   "verdict": "other-slice",
+   "where": "Exhibit ONE's possibling or carryings, or a gathering of another file"
+  },
+  {
+   "line": "- Selves bi-coupling through one shared thing between them, a solution with a pa",
+   "verdict": "other-slice",
+   "where": "Exhibit ONE's possibling or carryings, or a gathering of another file"
+  },
+  {
+   "line": "- **Possible exploring** · With the names laid as a round of four parities, each",
+   "verdict": "other-slice",
+   "where": "Exhibit ONE's possibling or carryings, or a gathering of another file"
+  },
+  {
+   "line": "- **Possible exploring** · One parity shared once and followed along a line of s",
+   "verdict": "other-slice",
+   "where": "Exhibit ONE's possibling or carryings, or a gathering of another file"
+  },
+  {
+   "line": "- A table of selves, one of the method's stable forms, is prior to the code and ",
+   "verdict": "other-slice",
+   "where": "Exhibit ONE's possibling or carryings, or a gathering of another file"
+  },
+  {
+   "line": "- A self's prior slipping one momentary forward where two selves of one scale me",
+   "verdict": "other-slice",
+   "where": "Exhibit ONE's possibling or carryings, or a gathering of another file"
+  },
+  {
+   "line": "- **Possible exploring** · With 8 up a name's co goes on at 3, 4, 7 and 8 and ex",
+   "verdict": "other-slice",
+   "where": "Exhibit ONE's possibling or carryings, or a gathering of another file"
+  },
+  {
+   "line": "- Each occurrence of a between at 12-next-co-same-existing, 15-is-next-observing",
+   "verdict": "other-slice",
+   "where": "Exhibit ONE's possibling or carryings, or a gathering of another file"
+  },
+  {
+   "line": "- With a number same-existing, the same four-cycle podaling sequencing comes thr",
+   "verdict": "other-slice",
+   "where": "Exhibit ONE's possibling or carryings, or a gathering of another file"
+  },
+  {
+   "line": "- Two sides one number apart, up or down forward, overlap by one half momentaryi",
+   "verdict": "other-slice",
+   "where": "Exhibit ONE's possibling or carryings, or a gathering of another file"
+  },
+  {
+   "line": "- **Possible exploring** · With each torus run of 2 by 2 and larger, and with fi",
+   "verdict": "other-slice",
+   "where": "Exhibit ONE's possibling or carryings, or a gathering of another file"
+  },
+  {
+   "line": "- **Possible exploring** · The torus's momentaries to each self's parities again",
+   "verdict": "other-slice",
+   "where": "Exhibit ONE's possibling or carryings, or a gathering of another file"
+  },
+  {
+   "line": "- One self's resolving with one sharing is one line, same with the code with eac",
+   "verdict": "other-slice",
+   "where": "Exhibit ONE's possibling or carryings, or a gathering of another file"
+  },
+  {
+   "line": "- **Possible exploring** · Two selves apart during a trial, each with two sharin",
+   "verdict": "other-slice",
+   "where": "Exhibit ONE's possibling or carryings, or a gathering of another file"
+  },
+  {
+   "line": "- A break sought is a finding whether it is-or-is-not found. *(possible incoheri",
+   "verdict": "other-slice",
+   "where": "Exhibit ONE's possibling or carryings, or a gathering of another file"
+  },
+  {
+   "line": "- With spirals of 2 to 6 selves and each order of entries followed, each opening",
+   "verdict": "other-slice",
+   "where": "Exhibit ONE's possibling or carryings, or a gathering of another file"
+  },
+  {
+   "line": "- With one other bi-coupling to a self, its next prior is the other's prior inve",
+   "verdict": "other-slice",
+   "where": "Exhibit ONE's possibling or carryings, or a gathering of another file"
+  },
+  {
+   "line": "- Each self's entry with one sharing from each side gives Exhibit ONE's own sequ",
+   "verdict": "other-slice",
+   "where": "Exhibit ONE's possibling or carryings, or a gathering of another file"
+  },
+  {
+   "line": "- With parities from beside the selves laid at the resolver's lines before the f",
+   "verdict": "other-slice",
+   "where": "Exhibit ONE's possibling or carryings, or a gathering of another file"
+  },
+  {
+   "line": "- With selves each receiving from two, with late momentaries, the selves receivi",
+   "verdict": "other-slice",
+   "where": "Exhibit ONE's possibling or carryings, or a gathering of another file"
+  },
+  {
+   "line": "- **Possible exploring** · A ring of an odd number of inverters oscillates as on",
+   "verdict": "other-slice",
+   "where": "Exhibit ONE's possibling or carryings, or a gathering of another file"
+  },
+  {
+   "line": "- A self's ten own names are five now and five next, five self and five other, a",
+   "verdict": "other-slice",
+   "where": "Exhibit ONE's possibling or carryings, or a gathering of another file"
+  },
+  {
+   "line": "- The five dimensions are prior-existing self-parity, prior-existing other-parit",
+   "verdict": "other-slice",
+   "where": "Exhibit ONE's possibling or carryings, or a gathering of another file"
+  },
+  {
+   "line": "- One self's cell with one momentary and its surfacing with 14-next-possibling a",
+   "verdict": "other-slice",
+   "where": "Exhibit ONE's possibling or carryings, or a gathering of another file"
+  },
+  {
+   "line": "- **Possible exploring** · Exhibit ONE's code block holds its three functions on",
+   "verdict": "other-slice",
+   "where": "Exhibit ONE's possibling or carryings, or a gathering of another file"
+  },
+  {
+   "line": "- **Possible incohering** · \"With selves entering one at a time, it is changing.",
+   "verdict": "other-slice",
+   "where": "Exhibit ONE's possibling or carryings, or a gathering of another file"
+  }
+ ]
+}

@@ -84,11 +84,14 @@ Gathering-Value · Natural Intelligence
 
 ### 4.6 A same-existing-society's next momentary with 17-next-existing
 
-- **Possible incohering** · "With selves entering one at a time, it is changing." → With selves entering one at a time, each parity reaching its receiving self within that same pass and the relation read after each entry, a relation of two bi-coupling selves is changing; stepping together, each parity reaches its self with the next whole pass and the relation is read after each self enters.
+- **Possible incohering** · "With selves entering one at a time, it is changing." → With selves entering one at a time, each parity reaching its receiving self within that same pass and the relation read after each entry, a relation of two bi-coupling selves is changing; stepping together, each parity reaches its self with the next whole pass and the relation is read after each self enters. Delivering and reading both part between the two, an unchanging alike or opposite relation with stepping together and a changing relation with entering one at a time.
+
 
 ### 4.7 Six names between selves, possibling across, discovering and existing along
 
 ### 4.8 Seventeen names, each its number and its naming
+
+- **Possible incohering** · "One entry, six names between selves and ten names of a self's own resolving are seventeen." → One entry, six names between selves and ten names of a self's own resolving are seventeen: the ten, five now and five next, are five self and five other, a self's next an other's prior, and the six between selves, 2, 6, 10 and 14 across and 9 and 17 along, are the floating-neutralling co-linear six of these ten.
 
 ### 4.9 Four four-cyclings and five dimensions
 

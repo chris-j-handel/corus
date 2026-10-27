@@ -110,6 +110,8 @@ Gathering-Value · Natural Naming
 
 ### 3.6 Four binaries, an explaining of names
 
+- **Possible incohering** · "**Existing, all, now and same are four is or is nots of things within the universe**, and with a self's span each binary is one pair of names, its *is* with an odd name and its *is not* with an even: now with 1-now-existing and 2-now-possibling, existing with 3-is-now-co-observing and 4-now-co-same-existing, same with 5-now-co-existing and 6-now-co-possibling, all with 7-is-now-observing and 8-now-same-existing." → That pairing of the four binaries with odd and even names splits one is-or-is-not onto two names, and no line of the resolver's code makes it; with the code each is-or-is-not is one test on one name.
+
 ## FOUR · A NAMING'S CRAFT
 
 ### 4.1 A field naming at its coupling
