@@ -134,6 +134,7 @@ Gathering-Value · Natural Intelligence Corus
 ### 23.6 Natural Society
 
 - **Possible incohering** · "Nothing constructs a same-existing-society on top of individual selves — a same-existing-society IS a cumulative coupling activity with every between of selves." → Two sayings part: a same-existing-society as the couplings between selves, a self being those couplings, inward, and Natural Intelligence's *A same-existing-society is its selves, its own only its selves' own with resolver.* Two re-sayings offered: a same-existing-society its selves, its couplings its selves' own doing; or couplings standing as what a same-existing-society is.
+- **Possible incohering** · "Social competency IS bi-coupling with a same-existing-society scale." → Social competency as bi-coupling with a same-existing-society scale names the Co-Chaining Logic Registry's bi-coupling across, its self and same-existing-society along, step 250, or both, a reading still-possibling; and a rate-advantage said as competency, beside it, parts from competency as prior same-existing to now along, step 251, or coheres with it, still-possibling. A naming of one relation at three files derives it at none.
 
 ### 23.7 Natural Robotics
 
@@ -141,5 +142,4 @@ Gathering-Value · Natural Intelligence Corus
 
 ## Droplets
 
-- Social competency as bi-coupling with a same-existing-society scale is the Registry's bi-coupling across, its self and same-existing-society along, or both, a reading still-possibling, and a naming at several files derives it at an empty set of them. *(possible incohering)*
 - Natural Intelligence Corus holds much of its body in a vocabulary older than the old code, *phi-rate* among it. *(possible incohering)*

@@ -110,6 +110,8 @@ Gathering-Value · Natural Emanating
 
 ### Social moral competency
 
+- **Possible incohering** · "Social moral competency is changing and changing back with that scale." → Social moral competency as changing and changing back with a same-existing-society's scale names the Co-Chaining Logic Registry's morality across, its competency along, or both, step 255, a reading still-possibling.
+
 ### Abundancy
 
 ### The one stopping
@@ -129,5 +131,3 @@ Gathering-Value · Natural Emanating
 - **Possible incohering** · "It is between a standing form and a hard-problem observing — each reaching it, in neither alone — so holding it whole within one file would be one side taking both turns." → This sentence's social moral competency, held whole within one file as one side taking both turns, parts from the Co-Chaining Logic Registry's social moral competency, its four whole and same-existing with selves. One side releases this sentence's claim; the other stands it as this file's own.
 
 ## Droplets
-
-- Social moral competency as changing and changing back with a same-existing-society's scale is the Registry's morality across, its competency along, or both, a reading still-possibling beside step 255. *(possible incohering)*
