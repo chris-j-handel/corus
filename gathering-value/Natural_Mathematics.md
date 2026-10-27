@@ -86,6 +86,7 @@ Gathering-Value · Natural Mathematics
 ### 5.2 Five-dimensional, two-directional, unrelationing
 
 - **Possible exploring** · A tendril goes by three phases, circling, its free tip searching, clasping, plant and support bi-coupled at both ends, and coiling, six on the plant's side and the support's. Under wind a tendril winds tighter, unwinds and relaxes, three phases each way. — at "Five to cohere and six to go on: three own-forward steps for each side are its six, and five-dimensional, two-directional and unrelationing are three explainings of one form, and no other possible."
+- **Possible incohering** · "**Self-cohering is five-dimensional with a side's five, 1 to 5**: 1 prior-existing self-parity, 2 prior-existing other-parity, 3 now-existing co-parity, 4 now-existing bi-parity and 5 next-existing same-existing self-parity, its centre with 3, floating, in neither self alone, each dimension binary with its two directions, and two changing and three going on with each momentary." → Beside this sentence stand the five society to society, as Natural Intelligence has them: social-parity now-existing, other-parity now-existing, self-parity now-existing, self-discovery next-existing and social-parity next-existing, the three now-existing same-existing and the two next-existing discovering. This sentence's side's five, its centre with 3, now-existing co-parity, part from them, a re-saying society to society offered.
 
 ### 5.3 Torus, the one closed orientable surface a flow runs on with no rest
 
@@ -126,9 +127,6 @@ Gathering-Value · Natural Mathematics
 
 ## Droplets
 
-- Under ordinary numerical order a ⊀ b and b ⊀ a together give a = b, and under a partial order these two exclusions hold for incomparable elements too.
-- Rewording a strict comparison, a < b with equality excluded, as a non-strict one, a ≤ b with equality included, gives an other relation with equality.
-- 5.2's self-cohering with a side's five, 1 prior-existing self-parity to 5 next-existing same-existing self-parity, its centre with 3, now-existing co-parity, floating, in neither self alone, parts from the five society to society, 1 social-parity now-existing, 2 other-parity now-existing, 3 self-parity now-existing, a self's own, 4 self-discovery next-existing and 5 social-parity next-existing: its five is-or-is-not re-said society to society, with a side's five, and its centre with 3 re-said with it. *(possible incohering)*
 - *Floor*, a word Natural Naming releases, names a neutral fixing outward of a self at 1.4, 3.1, 3.2, 4.5 and 7.2, and is re-said at each by one word: 1.4's other-bounding, other-surfacing and other-orienting, *an other's*, or a word Natural Naming gives for a fixed neutral. *(possible incohering)*
 - *The sign flip* at 2.2's title and at 2.2, 3.4, 3.5 and 7.5 is re-said as both parities inverted with one step, as 3.4 has it of a pair, its title with it, or is a field's own name for −1; *sign* dissolves at Natural Naming into parity, and a field's sign at cos t and sin t, a spin's sign reversed and group theory's −1 is the field's own. *(possible incohering)*
 - 3.1 has a fixed set taken as a place a declaring of zero and a nothing at a difference a nought, and a newer naming has nought a thing and zero a nothing between two parities, crosswise: one naming of zero and nought, with Natural Naming, takes 3.1's two words or the crosswise two. *(possible incohering)*

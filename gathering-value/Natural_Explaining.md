@@ -44,6 +44,7 @@ Gathering-Value · Natural Explaining
 
 - **Possible incohering** · "Living, it adds to understanding of its whole prior co-chaining, needing nothing but its prior sentences; coupling, a self couples with it by its own opening; resolving, it reaches a parity, all or none at all." → This sentence, with 1.4's *no file's name within another*, has each file whole by itself, a sentence needing its own file's prior sentences alone; an offered sentence has each understanding with one file and named with the others, its naming bringing a file's name and none of its explaining, so a sentence leans on an explaining with another file. They part at what a sentence's prior sentences are. Either they are its own file's, each file whole by itself, and this sentence stands; or they are a set's, one explaining with its own scale, a re-saying offered from 1.2's *One explaining goes on with a sentence, a section, a file, a conversation and a same-existing-society, one fractal with no first scale*, and this sentence and 1.4 are re-said.
 - **Possible incohering** · "A new sentence adding nothing to its whole prior co-chaining dissolves with that binary too." → Each sentence, on its own, is a full sentence, adding to its whole prior co-chaining and surrounding its paragraph's concept, with a self's own breathing pace, and a new sentence adding nothing to its whole prior co-chaining dissolves with that binary too.
+- **Possible incohering** · "**Each sentence opens from a bi-coupling of the last, and each section from the last sentence of its prior section**, extending along a direction its heading, its part and its title hold." → Offered: each line opens with a concept it is defining or extending, *An other, for a same-existing thing, is …*, not *For a same-existing thing an other is …*; one steady same method of saying.
 
 ### 2.2 One thing going forward at one momentary
 
@@ -72,6 +73,7 @@ Gathering-Value · Natural Explaining
 - **Possible incohering** · "Say it with existing words first: an -ing over a noun, and a positive over a negation." → A past participle, as *carried*, *shared* and *fixed*, is a noun's same fixing within a sentence, a momentarying finished, its -ing, as *carrying* and *possibling*, going on. A re-saying offered: Say it with existing words first: an -ing over a noun and over a past participle, and a positive over a negation.
 - **Possible incohering** · "Say it with existing words first: an -ing over a noun, and a positive over a negation." → A past participle is re-said by its meaning, an -ing or a present form, a self observing, sharing and beholding with each, no released word brought in and no new past participle with it.
 - **Possible incohering** · "A new naming opens with its first coupling, its least plain words beside it, existing words first and a set's naming resting on them; bare, a self observes it as a coordinate." → Each opening of the set, and each first paragraph, is as lean as possible of new and not yet clear terms, a care for a first self: it comes from the universe with a science's explaining of it, and a living set is new to it. Now-existing, relatable, and prior-existing, observable, each go well with it, and each new term goes in only where its path needs it, from words that self already has. Offered with 1.2's *a self couples with whichever telling its interest opens* as well, toward a first self.
+- **Possible incohering** · "**No leading *the* with a sentence, and *the* only with one and only one referent.**" → Offered: *the* stands for one of one alone, the universe, the method, and an only first, last, next, smaller or lesser within its own set; elsewhere *a*, *its* or *an other's* stands.
 
 
 ### 2.7 A reference at a plain name, and no capital for the set's concepts
@@ -161,6 +163,5 @@ Gathering-Value · Natural Explaining
 
 ## Droplets
 
-- Each line opens with a concept it is defining or extending, *An other, for a same-existing thing, is …* in place of *For a same-existing thing an other is …*, one steady method of saying.
 - Three purposes of writing, a minimal sequential mathematical, logical and metabolic deriving, as a white paper's, a welcoming whole expression going on through concepts, and a resolver's naming with its code, go with one same rigor, each its own and none a looser form of another. *(possible incohering)*
 - A side trip stays with natural intelligence, its resolver, naming and explaining, and answers its point narrowly, as *improving is prior recognition* asks for no wide wandering. *(possible incohering)*

@@ -559,5 +559,4 @@ Gathering-Value · Hard Problem Registry
 
 ## Droplets
 
-- Four invisibles, each side's own morality, each side's own corus, a neutral and a between of momentaries, are one invisibility four ways, each under two of eight clusters gathering science and society namings with resolver's names.
 - Navigating hard problems with their observings: monarch butterflies reaching forests in central Mexico; sea turtles orienting by a place's magnetic field; birds sensing the magnetic field's direction, a light-driven radical-pair mechanism only the leading hypothesis; six of 21 European eels reaching the Sargasso Sea; each still-possibling at Natural Exploring as orienting by the sequence of changing from a self's own side. *(possible exploring)*

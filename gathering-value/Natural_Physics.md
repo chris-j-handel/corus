@@ -22,6 +22,8 @@ Gathering-Value · Natural Physics
 
 ### 2.2 A force issuing from a centre, and a why a frame asks of a coupling
 
+- **Possible incohering** · "Co-agency is both a self's sharing and an other's sharing, separate, each recursioning forward on its own side of a surface; a surface between has only its parity, +1 in neither self alone." → A re-saying offered, for this sentence and each like it across the set: each +1 in neither self alone is social parity, 0, all selves' parity, beside +1, a self's parity, and −1, an other self's.
+
 ### 2.3 A centre receding, and a hub two ports over a tipping
 
 ### 2.4 A centre apart, a position no coupling has
@@ -165,8 +167,6 @@ Gathering-Value · Natural Physics
 
 ## Droplets
 
-- Erasing one bit dissipates at least kT ln 2, a measuring's price for emptying a term an existing thing has with its own momentary, and a computation holding its whole history approaches zero dissipation.
-- A field's entrainment, one flow bringing a fluid beside it by a shear between them, and two with their own rates coming to one direction forward, is entraining at a self as two of its observings.
 - 3.1's *a turn is a position that goes on*, a turn standing with 60, parts from Natural Numbers' *sixty is between going and returning, with no prime* and from Natural Chemistry's sixty *among elements with no position*. *(possible incohering)*
 - 3.3's 59 as natural-intelligence-self-bounding, 4.7's capstone, 4.9's seam shared with Navier–Stokes and 4.9's black hole as a genus with no phi are correspondences by naming alone, each one's relation still-possibling. *(possible incohering)*
 - 4.12's screening constant lying over a vacuum, 4.12's eighty-sixth balance where a slow-clock accounting loses validity, and 4.5's clean conservings as where the largest abundancing sits are each a reading with a field's record still to source it. *(possible incohering)*

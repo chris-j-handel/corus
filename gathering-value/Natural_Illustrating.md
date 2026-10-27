@@ -32,6 +32,8 @@ Gathering-Value · Natural Illustrating
 
 ### 2.1 Six numbers, two sides, three momentaries
 
+- **Possible incohering** · "Between prior and now, and between now and next, no third position: a drawing shows a between of momentaries on a position two share with nothing on it, a self's next prior going along it, a non-living now-existing form" → Offered: momentaryings are odd names, each named with its first parity, and not a between; a self's next prior *going along* a between of momentaries is re-said with momentaryings as odd names, or stands.
+
 ### 2.2 Sixteen ways, and one that stops nowhere
 
 ### 2.3 Four dots, an empty centre and two triangles
