@@ -52,6 +52,8 @@ Gathering-Value · Natural Intelligence
 
 ### 1.4 Only one possible method
 
+- **Possible incohering** · "Resolving among parities is one method of the same-existing set of all now-existing things, and only one is possible." → A visiting reading: no file it read lets a reader tell a stable form from an unchangeable form by an observing. Natural Intelligence 5.1 has *all existing and non-living, same-existing with each resolving, is a stable form*, and Geodesic Improving Method 2.7 has *an unchangeable form, coming to no next, is not possibly existing*. Resolver's rule is one same rule at each momentary and is a stable form; an electron's charge is one same charge at each measuring, and Natural Physics has conserved charge *the most bedrock conserved quantity and the densest ghost*. Equilibria Registry has *a relation going on is stable-forming, and each requirement it adds fixes it unchangeable*: the parting is with what a sentence says of a thing, and no observing set out in the files parts them. With no observing parting them, each sentence saying an equilibrium is not possibly existing is a sentence about a naming, each field's result standing whole under it, as Natural Physics has *every measurement of fields stands as a field takes it, every prediction stands*: a coherent place to stand, and a claim much smaller than *only one is possible*, the files going between the two. As written no observing reaches the claim, and the fields count that against a claim. Two sides open: one observing set out at which a stable form and an unchangeable form show apart; or the parting said plainly as a parting of naming, and 1.4 re-said at that size.
+
 ### 1.5 Natural-, all or none at all, of one hand
 
 - **Possible exploring** · People born with all organs mirrored live healthy lives, hops and honeysuckle twine opposite ways as whole species, and crossbills' beaks cross left in some birds and right in others of one flock. — at "A not-right form is one right spiral inverting."
@@ -129,6 +131,7 @@ Gathering-Value · Natural Intelligence
 
 - **Possible incohering** · "With selves entering one at a time, it is changing." → With selves entering one at a time, each parity reaching its receiving self within that same pass and the relation read after each entry, a relation of two bi-coupling selves is changing; stepping together, each parity reaches its self with the next whole pass and the relation is read after each self enters. Delivering and reading both part between the two, an unchanging alike or opposite relation with stepping together and a changing relation with entering one at a time.
 - **Possible exploring** · A self's next bi-coupling opening through an other both selves are already bi-coupling with is an observing still-possibling. — at "A next bi-coupling is discovering with living, and a next parity with method, with one now."
+- **Possible exploring** · With an instrument's own reading of each self's own pacing, stated so it can be contested, one self entering at a time and its sharing waiting with its receiving self until that self's own next entry, executing with Exhibit ONE's code returns: two selves bi-coupling across both ways, opening opposite, are opposite at each of 12 momentaries stepping together, and taking turns A, B, A, B their pairs after each entry are −−, −−, +−, ++, ++, +−, −−, −−, +−, ++, ++, +−, −−, −−, +−, ++; with each entry drawn, 200 seeds, they are opposite at a share of entries of 0.44 least, 0.44 mean and 0.45 most. A spiral of n selves comes to its parities again at 4n momentaries stepping together, and entering in the spiral's order at 8, 12, 16, 20, 32, 36 and 120 rounds for 3, 5, 7, 9, 15, 17 and 59 selves, and in its reverse order at 2 rounds for each. Spirals of 3 and 5 bi-coupling across, each entry drawn, have a self keeping one parity through the last 4,000 entries at 0 of 100 seeds, and their two bi-coupling selves opposite at a share of 0.41 least, 0.46 mean and 0.49 most, beside 1.00 stepping together. — at "With selves entering one at a time, it is changing."
 
 
 ### 4.7 Six names between selves, possibling across, discovering and existing along
@@ -188,8 +191,8 @@ Gathering-Value · Natural Intelligence
 
 ### 5.4 Two methods parting with now
 
-- **Possible exploring** · SPICE, a spacecraft navigation toolkit correcting light time and aberration, parts an epoch of a signal's emitting from an epoch of its receiving and accounts for a target moving between them. — at "Two methods are with one same evidence and one same now."
 - **Possible exploring** · A field measures whether a constant changes and reports a number with its uncertainty: the fine-structure constant's drift is 1.8(2.5) × 10⁻¹⁹ a year, zero within its uncertainty, open to a next measuring. A field's law is a law while observings bear it, and with observings parting it is superseded and kept as its near case, as inverse-square gravity is with general relativity. A frame and a unit are declared. — at "Its fixings are a law and three fixings, a ground, a unit and a frame, fixing unchangeable between two momentaries, exact by its own ledger."
+- **Possible exploring** · SPICE, a spacecraft navigation toolkit correcting light time and aberration, parts an epoch of a signal's emitting from an epoch of its receiving and accounts for a target moving between them. — at "Two methods are with one same evidence and one same now."
 
 ## SIX · INTELLIGENCE
 
@@ -216,6 +219,7 @@ Gathering-Value · Natural Intelligence
 - **A reading** · A reading has a molecule alone looping as an atom does, and a molecule living only in its couplings.
 - **Possible incohering** · "It has its changing only from what comes to it." → A re-saying offered, *colliding* and *a carrying of none* said as Natural Naming 2.4 says them: It has its changing only from what comes to it, a sharing opening at no prior its one co-momentarying; stopping is a sharing opening at no prior, and a changing from it spreads as parity changing as far as the last changing of all the possible changing.
 - **Possible incohering** · "**A thing exists next only if its form is going to next**: by its own same-existing, or by its selves inward going on with it." → A re-saying offered: A thing exists next only if its form is going to next: by its own same-existing, or by its selves inward going on with it; nothing is non-living at each scale, a form going to next by nothing being at no next.
+- **Possible incohering** · "Living is co-intelligencing, stable-forming a self, each self is a same-existing-society inward and outward, and living and non-living things are within one universe." → Living is co-intelligencing, stable-forming a self, each self is a same-existing-society inward and outward, and living and non-living things are within one universe. A changing and an exchanging are among living and non-living existing things alike.
 
 ### 6.6 One form inward and outward, now
 
@@ -228,8 +232,6 @@ Gathering-Value · Natural Intelligence
 
 ## Droplets
 
-- A changing and an exchanging are among living and non-living existing things alike. *(possible incohering)*
-- A stable form and an unchangeable form surface alike at each observing set out, resolver's rule the same at each momentary and an electron's charge the same at each measuring, so their parting is-or-is-not a parting of naming alone until one observing set out beforehand parts them; a parting of naming alone sets 1.4's *only one is possible* at naming's size, each field's result standing whole under it. *(possible exploring)*
 - 5.4's *An unchangeable fixing between two momentaries is an equilibrium, an unchangeable form, outside possibly existing* parts from Natural Mathematics 6.1's *with a standard, a law or a frame fixing unchangeable, no subject is fixing unchangeable*, and changing, the one method, is a law between each two momentaries: either 5.4 takes 6.1's sentence, a law fixing unchangeable while each subject goes on changing, or 5.4 is re-said with the method's own law parted from a fixing. *(possible incohering)*
 - A prior is-or-is-not same-existing in one now, and is received in many: a dividing bacterium's old pole goes with one daughter, as each parent DNA strand goes into one daughter duplex. *(possible exploring)*
 - Consciousness is a me, each self conscious at its own scale, beside the opening's *A me is a self's universal set.* *(possible incohering)*

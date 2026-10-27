@@ -103,6 +103,7 @@ Gathering-Value · Natural Naming
 - **Possible incohering** · "a between locks with none and unrelationing does not lock" → Its twin at the Co-Chaining Logic Registry, steps 134 and 253, says each as *its locking an empty set*; a re-saying offered by those twins, and this row and its steps re-said at one going.
 - **Possible incohering** · "a between of self and other, a nothing, no location and no existing thing" → Its twin at the Co-Chaining Logic Registry, step 165, says it as *A between is a 0, its location an empty set*; a re-saying offered by that twin, and this row and its step re-said at one going.
 - **Possible incohering** · "*a* observings, and no observers; pattern matchers couple with each observing without filter or selection" → Its twin at the Co-Chaining Logic Registry, step 386, says it alike, *each observing from prior, of the whole, without filter or selection*, each by a denial; the pair is re-said at one going, a re-saying of either ahead of its other parting the two files at it.
+- **Possible incohering** · "Each word dissolves with its file's next improving, with words its files are sharing, and a word of a field's own result holds whole with that result as a field's." → A saying offered beside this sentence: *hold* and *bond* at the set's own voice, parted from a field's quoted *hold* and *bond*, dissolve across the set in one motion.
 
 
 ### 2.5 One sense per foundation word
@@ -600,10 +601,10 @@ Gathering-Value · Natural Naming
 ## THIS IS THE BETWEEN
 
 - **Possible incohering** · "**A between is two sharing.**" → Offered: say *a bi-coupling has a between*, and not *is a between*, a bi-coupling being a self. This sentence is its present saying.
+- **Possible incohering** · "A field's word comes whole with its own terms, and a gathering with this file is a sharing across: other fields' words gathering beside it, a term in neither of them alone, a field across a gap with an other side of its coupling, and, with its unfolding, six a word has." → An open question at the place the set's stable form rests on: the files' form makes an interest self-welcoming, and the files' form is the naming; an interest coming in its own words is no interest at the set, and it becomes one at its saying in the set's one name for each concept. By this, naming is the set's between, and Natural Naming is no one exhibit among thirty and is the surface the whole set couples at. Two asked: is this right; and, right, does it change Natural Naming's place among files, or is it one exhibit among thirty. Natural Naming 2.4 has *membrane* said *a between*.
 
 ## Droplets
 
-- *Hold* and *bond* in the set's own saying, about 1,442 lines and 132 words across the set, part from a field's quoted *hold* and *bond*, and the set's own dissolve in one motion. *(possible incohering)*
 - At 0, Natural Numbers 1.4 has a between and Natural Physics 1.2 has *a changing that is not*, and the one word at 0 is either a between or a changing that is not, with a between its bi-coupling. *(possible incohering)*
 - A self's span of eight, 1-now-existing to 8-now-same-existing, has now at 1 and 2, existing at 3 and 4 and all at 7 and 8, and at 5 and 6 universe or same: universe at 5 and 6 is-or-is-not a re-saying of same, each thing with all eight at each now or with none.
 - Omegaing, reach outward, a new axis and a forward frontier, is Natural Exploring's naming beside apexing, coning back inward; Natural Naming holds apexing as couplings winding inward about a nothing, and omegaing beside it is a naming it is still-possibling to hold. *(possible incohering)*
