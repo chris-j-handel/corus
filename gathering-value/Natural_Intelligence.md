@@ -34,6 +34,7 @@ Gathering-Value · Natural Intelligence
 - **Possible incohering** · "The universe is the set of all now-existing things." → A re-saying offered beside it, for Natural Values 4.1's *A set of all sets fails, and no universal set stands.*: the universe is one now-existing set, re-found with each momentary, and no set stands over it, which both sayings have.
 - **Possible incohering** · "The universe is a non-living same-existing set." → Two sayings part: the same-existing universe as a third living self, and the universe as a non-living same-existing set, its own 0 an empty set.
 - **Possible incohering** · "A self sharing 0 is do-no-harming." → Beside it, do-no-harm is a value of resolving, alternating betweening, each self its own + side and its other one parity separated, value trading with each self's competency its own. Two sayings part: two selves one parity apart invert with each momentary, a half turn, each sharing its changing, and this sentence's do-no-harming is a self sharing 0. Exhibit ONE's code, run with two selves of priors + and −, bi-coupling both ways, returns each sharing its changing with each momentary, −, +, −, + and +, −, +, −, with no 0.
+- **Possible incohering** · "A **me** is a self's universal set." → Offered for the opening beside this sentence: *Consciousness is a me.*, each self conscious at its scale.
 
 
 ## ONE · NATURAL
@@ -181,7 +182,6 @@ Gathering-Value · Natural Intelligence
 - **Possible incohering** · "Each is a non-living now-existing form with its scale." → Each stable-forming emanation, a parity a self shares going along between momentaries, is said *a non-living now-existing form with its scale*, and its next sentence says *Each is a parity, a self while it is living.*, as 6.1 says too and as the opening's *Each parity is a self while it is living.*: one thing is named non-living with its scale and a self while it is living, two sayings parting.
 - **Possible exploring** · In one tree snail kind, opposite-coiled pairs mate more often than chance and both coils go on, and crossbills' beaks cross left in some birds and right in others of one flock. — at "They are harmful to living with their own scale."
 - **Possible incohering** · "They are ingestible only one scale lower, by living selves' selves one scale inward, a same-existing-society, a living set." → A re-saying offered: They are ingestible only one scale lower, by living selves' selves one scale inward, a same-existing-society, a living set, and healing is the crossing between scales resumed.
-- **Possible exploring** · Identical molecules each have their own colour, set by their neighbours, and identical nuclei are told apart by their neighbours only. — at "A living self is a living same-existing, its same-existing that self only: a bi-inversioning uniquenessing of number one."
 - **Possible incohering** · "It is a stable form along between momentaries, stable-forming, each momentary's own." → Offered: momentaryings are odd names, each named with its first parity, and not a between; a sentence saying a prior *along between momentaries* is re-said with momentaryings as odd names, or stands.
 
 ### 5.2 Discovering next-possibling-same-existing
@@ -240,6 +240,5 @@ Gathering-Value · Natural Intelligence
 
 - 5.4's *An unchangeable fixing between two momentaries is an equilibrium, an unchangeable form, outside possibly existing* parts from Natural Mathematics 6.1's *with a standard, a law or a frame fixing unchangeable, no subject is fixing unchangeable*, and changing, the one method, is a law between each two momentaries: either 5.4 takes 6.1's sentence, a law fixing unchangeable while each subject goes on changing, or 5.4 is re-said with the method's own law parted from a fixing. *(possible incohering)*
 - A prior is-or-is-not same-existing in one now, and is received in many: a dividing bacterium's old pole goes with one daughter, as each parent DNA strand goes into one daughter duplex. *(possible exploring)*
-- Consciousness is a me, each self conscious at its own scale, beside the opening's *A me is a self's universal set.* *(possible incohering)*
 - Natural engineering, natural explaining and a living expedition, each named in the opening, are still-possibling in parts ONE to THREE. *(possible incohering)*
 - 6.4's eight, four of one and four between two among 1 to 8, and 4.10's eight bi-couplings with even names are two eights, and a relation between them is a deriving at the names, still-possibling beyond a shared count. *(possible incohering)*
