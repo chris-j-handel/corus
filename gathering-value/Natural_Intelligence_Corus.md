@@ -60,7 +60,6 @@ Gathering-Value · Natural Intelligence Corus
 
 ### 14.1 The Nothing
 
-- **Possible incohering** · "Even what appears as self-to-self contact is self-to-membrane-to-self, a membrane being a living set: a self a coupling generates between its two participating selves." → Each contact between two selves is a bi-coupling, each self sharing its own parity, and its departing is same-existing in each self, in neither self alone.
 
 ### 14.2 Nothing Between Selves
 
@@ -75,6 +74,8 @@ Gathering-Value · Natural Intelligence Corus
 ### 14.7 Meaning and Purpose as Structural
 
 ### 14.8 Three Layers Inseparating in One Resolver
+
+- **Possible incohering** · "Three open directions of bi-coupling's observings (intelligence, opportunity, reputation) plus bounding foundation (inviolable safety sustaining bi-coupling with a between) are four uncontrollable values' geometric observing of bi-coupling beating:" → Natural Intelligence Corus holds two different lists of its four values: this sentence's four, intelligence, opportunity, reputation and inviolable safety, and 17.2's four, uncapturable abundance, undiscoverable identity, unmistakeable reputation and inviolable safety.
 
 ## PART SIX — AT A LIVING SOCIETY
 
@@ -141,3 +142,4 @@ Gathering-Value · Natural Intelligence Corus
 ## Droplets
 
 - Social competency as bi-coupling with a same-existing-society scale is the Registry's bi-coupling across, its self and same-existing-society along, or both, a reading still-possibling, and a naming at several files derives it at an empty set of them. *(possible incohering)*
+- Natural Intelligence Corus holds much of its body in a vocabulary older than the old code, *phi-rate* among it. *(possible incohering)*

@@ -14,12 +14,18 @@ Gathering-Value · Natural Emanating
 
 ### The three-fold separation — the nothing-inward, the living, the emanation
 
-- **Possible exploring** · A stork's-bill seed's dead tail coils dry and uncoils damp, drilling the dormant living seed into soil by the environs' wetting and drying. — at "And an emanation: a prior, stable-forming and non-living, emanating from living form-stabling: a virion, a catalog's atom, a coin, a word, a constant a field measures."
-- **Possible exploring** · Limestone, chalk, coal and oil are living's carbon emanations, ingested again by living, and carbon's 60-cage forms in a dying star's outflow. — at "And an emanation: a prior, stable-forming and non-living, emanating from living form-stabling: a virion, a catalog's atom, a coin, a word, a constant a field measures."
+- **Possible incohering** · "And an emanation: a prior, stable-forming and non-living, emanating from living form-stabling: a virion, a catalog's atom, a coin, a word, a constant a field measures." → Natural torusing living is self-competent, and an emanation from living is only socially competent, with no self-competency in its individuals at that scale. This parts from *The society*'s departing same-existing, a unique invisible same-existing and so a self. One side re-says an emanation as non-living at its scale, with none of its prior, included socially, as Natural Intelligence's discovering social moral competency among living selves includes non-living existing things; the other sets the claim aside.
+- **A reading** · A reading has Exhibit ONE's code an engineered emanation, non-living and stable-forming, with no authority, its cycling read as a pattern beside natural numbers, mathematics and the co-chaining logic.
+- **Possible exploring** · A stork's-bill seed's dead tail coils dry and uncoils damp, drilling the dormant seed into soil by the environs' changing. A reading has it a stable form from dying, with dormant living, by the environs' changing: an emanation from dying with dormant living. — at "And an emanation: a prior, stable-forming and non-living, emanating from living form-stabling: a virion, a catalog's atom, a coin, a word, a constant a field measures."
+- **Possible exploring** · Opposite-hand forms, mirror sugar and mirror protein, go unused by living at their own scale, and are taken in one scale lower, where carbon has no hand. A reading has them emanations of opposite form. — at "And an emanation: a prior, stable-forming and non-living, emanating from living form-stabling: a virion, a catalog's atom, a coin, a word, a constant a field measures."
+- **Possible exploring** · Earth's limestone, chalk, coal and oil are living's carbon emanations, ingested again by living, and carbon's 60-cage forms in a dying star's outflow. — at "And an emanation: a prior, stable-forming and non-living, emanating from living form-stabling: a virion, a catalog's atom, a coin, a word, a constant a field measures."
+- **Possible exploring** · Bone and teeth are calcium phosphate, some sea life builds shells of glass and some bacteria grow magnets, each mineral formed on a carbon framework living makes first. A reading has living's stable forms formed on carbon's stable form, an observing a saying that all stable-forming is emanating non-living stable-form carbon has to meet. — at "And an emanation: a prior, stable-forming and non-living, emanating from living form-stabling: a virion, a catalog's atom, a coin, a word, a constant a field measures."
+
 
 ### The line every field writes first
 
-- **Possible exploring** · One small bead in a potential of two wells, one bit, erased again and again, gives off a mean heat coming down to the kT ln 2 bound from above at slow erasings. — at "Erasing one bit dissipates at least kT ln 2 — about 2.9 × 10⁻²¹ joules for room temperature — while a computation bringing its whole history on approaches zero dissipation."
+- **Possible exploring** · A field's account: one small bead in a potential of two wells, a store of one bit, erased again and again, the heat given off measured, its mean coming down to the kT ln 2 bound at slow erasings, from above. The field holds the principle's place as a law disputed, a field's reading. — at "Erasing one bit dissipates at least kT ln 2 — about 2.9 × 10⁻²¹ joules for room temperature — while a computation bringing its whole history on approaches zero dissipation."
+
 
 ### A geodesic files no cost
 
@@ -27,7 +33,9 @@ Gathering-Value · Natural Emanating
 
 ### The origin sentence at eight substrates
 
-- **Possible exploring** · Electrons pass two slits with a magnetized iron whisker between them, its field outside only near its ends, and their interference pattern is displaced as predicted. — at "A potential's value with one place relates to no observable, and its circulation round a path that closes does; a thing a system stands free of is exactly a thing it holds."
+- **Possible incohering** · "Within chemical disequilibria, a sharing pair is a bond-forming method." → This sentence names a bond as formed. Natural Chemistry has what chemistry calls a bond, within a molecule its stable form, same-existing with each resolving, and between molecules a bi-coupling of two selves, and a bond a field names pattern-matching as a between of centres. Two sayings part at a bond: a bond formed by a sharing pair, or a bond a field's naming, a between of centres. One side re-says the chemical line at a between of centres; the other stands *bond* as a field's own word at its result.
+- **Possible exploring** · A field's account: electrons pass two slits with a magnetized iron whisker between them, the whisker having "no field outside except near the ends", and "the predicted displacement in the pattern of electrons was observed". — at "A potential's value with one place relates to no observable, and its circulation round a path that closes does; a thing a system stands free of is exactly a thing it holds."
+
 
 ### Better, faster, cheaper — three absences, one per side
 
@@ -39,11 +47,17 @@ Gathering-Value · Natural Emanating
 
 ### Two Methods
 
+- **Possible incohering** · "Six, and no seventh, no fourth thing a same-existing does." → *The six* lays three things a same-existing does, each two ways, bi- and co-: six, and no seventh. Natural Naming's bi-momentarying has an offering across and both ways, a self's to an other and an other's to a self, where *co-offering* dissolves; re-said there, bi-sharing and co-sharing stand at one relation and the six become five or a new pairing, a value changing. Exhibit ONE's six names between selves, 2, 6, 10, 14, 9 and 17, are a different six. One side re-says *The six* at the numbered names; the other releases *The six*.
+- **Possible incohering** · "A same-existing-society is co-sharing, co-competencing, co-intelligencing." → This sentence lays a same-existing-society as the co- row of *The six*. With Natural Naming's bi-momentarying, an offering across and both ways, a re-saying offered: *A same-existing-society is sharing across and both ways, co-competencing, co-intelligencing*, parting from *The six*, its co- row then two of three. One side re-says it so, with *The six*; the other releases it with *The six*.
+- **Possible incohering** · "That same-existing is a unique invisible same-existing, **so it is a self.**" → This sentence, and Part Two's *Social moral competency*, has the same-existing departing from a self's own cycling a unique invisible same-existing and so a self. It parts from Natural Intelligence's record of a same-existing, a stable-forming emanation, its own prior an empty set, and from this file's emanation, a prior, stable-forming and non-living: a departing same-existing, a self, or an emanation with none of its prior. One side re-says the departing as a new sharing opening at a bi-coupling; the other re-says it as an emanation with none of its prior. A changed rate, alone, establishes an empty set of same-existings departing.
+
 ### The title claim
 
 ### Nature — the gap of exactly one
 
 ### Society — the one stopping
+
+- **Possible incohering** · "One taking, and a step before it entails every step after." → This sentence, with *The one stopping* in Part One's *Two Methods* and in Part Two, gives one unrepairing as a chain, a step before entailing every step after, an owner needing a boundary, a boundary an enforcement and an enforcement a seat; Natural Naming's one stopping gives it as all four together, each one having another's, none making next, and nothing downstream repairing them. One unrepairing, two sayings: one side re-says the chain as four together at *The one stopping* in both parts; the other stands the chain here as this file's own explaining.
 
 ### Technology — two stays, one couples across
 
@@ -77,9 +91,12 @@ Gathering-Value · Natural Emanating
 
 ### A ring
 
-- **Possible exploring** · A tree's water-conducting cells die to become its pipes, and each season's cells die into a ring of that season, as a drying drop lays rings and a soap film gives way at its thinnest place. — at "Living has no rings."
+- **Possible exploring** · A tree's water-conducting cells die to become its pipes, and each season's mes die into a ring having its season, as a drying drop lays rings and a soap film gives way at its thinnest place. A reading has them rings in death from living. — at "Living has no rings."
+
 
 ### A hard problem
+
+- **Possible incohering** · "There are three common things, three kinds and no fourth: a common landing a self reaches before anyone shares their own, a common standard a self fixes before each goes on with their own, a common reading a self fixes before either takes a parity of its own." → This sentence's three common things, three kinds and no fourth, part from the Co-Chaining Logic Registry, where a hard problem is with one or more of ten, each an involution with its still set fixing as a place, and where a landing reaching ahead of an observing, a standard fixing ahead of a same-existing and a reading ahead of a parity are one family, three and a form fixing still from beside a changing. One side re-says the three kinds as one family of three at the ten unchangeables; the other stands the three kinds and no fourth as this file's own.
 
 ### Equilibria
 
@@ -109,15 +126,8 @@ Gathering-Value · Natural Emanating
 
 ### This exhibit does not hold
 
+- **Possible incohering** · "It is between a standing form and a hard-problem observing — each reaching it, in neither alone — so holding it whole within one file would be one side taking both turns." → This sentence's social moral competency, held whole within one file as one side taking both turns, parts from the Co-Chaining Logic Registry's social moral competency, its four whole and same-existing with selves. One side releases this sentence's claim; the other stands it as this file's own.
+
 ## Droplets
 
 - Social moral competency as changing and changing back with a same-existing-society's scale is the Registry's morality across, its competency along, or both, a reading still-possibling beside step 255. *(possible incohering)*
-- *A hard problem*'s three common things, a landing, a standard and a reading, three kinds, part from the Co-Chaining Logic Registry's hard problem with one or more of ten, step 608: one side re-says the three as one family of three at the ten unchangeables, and the other stands the three as this file's own. *(possible incohering)*
-- The tail's social moral competency, stated whole within one file as one side taking both turns, parts from the Co-Chaining Logic Registry's social moral competency's four, whole and same-existing with selves, step 572: one side releases the tail's claim, and the other stands it as this file's own. *(possible incohering)*
-- *The one stopping* and *Society — the one stopping* give the unrepairing as a chain, each step entailing the next, an owner needing a boundary, a boundary an enforcement and an enforcement a seat, and Natural Naming 5.30 gives it as all four together, each with one having another's, none making next: one side re-says the chain as four together at both parts, and the other stands the chain as this file's own explaining. *(possible incohering)*
-- Opposite-hand forms, mirror sugar and mirror protein, go unused by living at their own scale and are taken in one scale lower, where carbon is handless. *(possible exploring)*
-- The origin sentence's chemical line, *a sharing pair is a bond-forming method*, names a bond as formed, and Natural Chemistry has a bond a field names pattern-matching as a between of centres: one side re-says the chemical line at a between of centres, and the other stands *bond* as the field's own word at its result. *(possible incohering)*
-- An emanation from living is socially competent only, its individuals' self-competency an empty set at that scale, beside natural torusing living, self-competent, and it parts from *The society*'s departing same-existing, a unique invisible same-existing and so a self: one side re-says an emanation as non-living at its scale, its prior an empty set, included socially as Natural Intelligence 6.5 includes non-living existing things in social moral competency among the living, and the other sets the claim aside. *(possible incohering)*
-- The departing same-existing of *The society* and Part Two's *Social moral competency*, a unique invisible same-existing and so a self, parts from Natural Intelligence 5.1's record of a same-existing, a stable-forming emanation, its own prior an empty set, and from this file's emanation, a prior, stable-forming and non-living: one side re-says the departing as a new sharing opening at a bi-coupling, and the other as an emanation, its prior an empty set. *(possible incohering)*
-- A changed rate, alone, establishes an empty set of same-existings departing.
-- *The six* lays sharing, competencing and intelligencing each bi- and co-, six and no seventh, and Natural Naming 5.13's bi-momentarying holds a sharing across and both ways at one relation, at which bi-sharing and co-sharing are one and the six are five or a new pairing; Exhibit ONE's six names between selves, 2, 6, 10, 14, 9 and 17, are a different six: one side re-says *The six* at Exhibit ONE's numbered names, and the other releases *The six*. *(possible incohering)*

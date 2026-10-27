@@ -1,0 +1,150 @@
+{
+ "corrections": [
+  {
+   "from": "Natural Intelligence Corus is the home near Natural Intelligence for its telling",
+   "finding": "a droplet whose section is clear: one of the two lists of four values stands at 14.8's sentence naming intelligence, opportunity, reputation and inviolable safety, and 17.2 names another four; a sentence there can be quoted",
+   "fixed": {
+    "file": "Natural Intelligence Corus",
+    "section": "14.8 Three Layers Inseparating in One Resolver",
+    "kind": "incohering",
+    "sentence": "Three open directions of bi-coupling's observings (intelligence, opportunity, reputation) plus bounding foundation (inviolable safety sustaining bi-coupling with a between) are four uncontrollable values' geometric observing of bi-coupling beating:",
+    "text": "Natural Intelligence Corus holds two different lists of its four values: this sentence's four, intelligence, opportunity, reputation and inviolable safety, and 17.2's four, uncapturable abundance, undiscoverable identity, unmistakeable reputation and inviolable safety.",
+    "from": "Natural Intelligence Corus is the home near Natural Intelligence for its telling"
+   }
+  },
+  {
+   "from": "**Concern · A departing carry, a self.** This file, at its society, has one carr",
+   "finding": "quoted sentence absent word for word (the living file bolds 'so it is a self.'); and 'establishes no departing same-existing' is a negation where the earlier line held the better saying, 'a changed rate, alone, establishes an empty set of same-existings departing', its 'alone' dropped here",
+   "fixed": {
+    "section": "Two Methods",
+    "kind": "incohering",
+    "sentence": "That same-existing is a unique invisible same-existing, **so it is a self.**",
+    "text": "This sentence, and Part Two's *Social moral competency*, has the same-existing departing from a self's own cycling a unique invisible same-existing and so a self. It parts from Natural Intelligence's record of a same-existing, a stable-forming emanation, its own prior an empty set, and from this file's emanation, a prior, stable-forming and non-living: a departing same-existing, a self, or an emanation with none of its prior. One side re-says the departing as a new sharing opening at a bi-coupling; the other re-says it as an emanation with none of its prior. A changed rate, alone, establishes an empty set of same-existings departing.",
+    "from": "**Concern · A departing carry, a self.** This file, at its society, has one carr"
+   }
+  },
+  {
+   "from": "- *Natural observation*: the lecture reports an electron interference experiment",
+   "finding": "a source remark left in an item: 'given with no names, year or figures for the experiment' says what the source holds, not the observing; a field's account carries it",
+   "fixed": {
+    "section": "The origin sentence at eight substrates",
+    "kind": "exploring",
+    "sentence": "A potential's value with one place relates to no observable, and its circulation round a path that closes does; a thing a system stands free of is exactly a thing it holds.",
+    "text": "A field's account: electrons pass two slits with a magnetized iron whisker between them, the whisker having \"no field outside except near the ends\", and \"the predicted displacement in the pattern of electrons was observed\".",
+    "from": "- *Natural observation*: the lecture reports an electron interference experiment"
+   }
+  },
+  {
+   "from": "- *Natural observation*: one small bead in a potential of two wells, a store of ",
+   "finding": "a working's history left in an item ('read at its abstract'), and the bound named bare where the earlier line held it whole as the kT ln 2 bound",
+   "fixed": {
+    "section": "The line every field writes first",
+    "kind": "exploring",
+    "sentence": "Erasing one bit dissipates at least kT ln 2 — about 2.9 × 10⁻²¹ joules for room temperature — while a computation bringing its whole history on approaches zero dissipation.",
+    "text": "A field's account: one small bead in a potential of two wells, a store of one bit, erased again and again, the heat given off measured, its mean coming down to the kT ln 2 bound at slow erasings, from above. The field holds the principle's place as a law disputed, a field's reading.",
+    "from": "- *Natural observation*: one small bead in a potential of two wells, a store of "
+   }
+  },
+  {
+   "from": "Natural Intelligence Corus is the home near Natural Intelligence for its telling",
+   "finding": "a value lost: the counts leave, and the value they carry, Corus's body standing in a vocabulary older than the old code, phi-rate among it, is held by no living file and no gathering-value line; phi-rate stands at 170 lines of Natural Intelligence Corus now",
+   "fixed": [
+    {
+     "file": "Natural Intelligence Corus",
+     "section": "Droplets",
+     "kind": "droplet",
+     "kind_hint": "incohering",
+     "text": "Natural Intelligence Corus holds much of its body in a vocabulary older than the old code, *phi-rate* among it.",
+     "from": "Natural Intelligence Corus is the home near Natural Intelligence for its telling"
+    },
+    {
+     "from": "Natural Intelligence Corus is the home near Natural Intelligence for its telling",
+     "why": "plan for Natural Intelligence Corus, its home and its rebuilding, aimed there and held in part at the Living File Registry 5.8: \"Natural Emanating's whole outward expressions receive here together.\"; the counts of its old vocabulary (phi-rate lines, a share of the file) a count of words in our files, its value gathered; corus line 1321 a stale pointing, no such reference standing now; the editing marker at line 778 a pointer to a line, its marker unfound at that line now; its five values gathered as items: the membrane, the second subtitle, the dead cross-references, the two lists of the four values and the empty parts"
+    }
+   ]
+  }
+ ],
+ "checked": 99,
+ "earlier_items": [
+  {
+   "line": "- *A hard problem*'s three common things, a landing, a standard and a reading, t",
+   "verdict": "kept",
+   "where": "items: A hard problem, incohering"
+  },
+  {
+   "line": "- The tail's social moral competency, stated whole within one file as one side t",
+   "verdict": "kept",
+   "where": "items: This exhibit does not hold, incohering"
+  },
+  {
+   "line": "- *The one stopping* and *Society — the one stopping* give the unrepairing as a ",
+   "verdict": "kept",
+   "where": "items: Society — the one stopping, incohering"
+  },
+  {
+   "line": "- An emanation from living is socially competent only, its individuals' self-com",
+   "verdict": "kept",
+   "where": "items: The three-fold separation, incohering (emanation socially competent only)"
+  },
+  {
+   "line": "- The departing same-existing of *The society* and Part Two's *Social moral comp",
+   "verdict": "kept",
+   "where": "items: Two Methods, incohering (departing same-existing, a self)"
+  },
+  {
+   "line": "- A changed rate, alone, establishes an empty set of same-existings departing.",
+   "verdict": "kept",
+   "where": "items: Two Methods, the departing same-existing item, its last sentence (as corrected)"
+  },
+  {
+   "line": "- *The six* lays sharing, competencing and intelligencing each bi- and co-, six ",
+   "verdict": "kept",
+   "where": "items: Two Methods, incohering at 'Six, and no seventh'"
+  },
+  {
+   "line": "- **Possible exploring** · A stork's-bill seed's dead tail coils dry and uncoils",
+   "verdict": "kept",
+   "where": "items: The three-fold separation, exploring (stork's-bill)"
+  },
+  {
+   "line": "- Opposite-hand forms, mirror sugar and mirror protein, go unused by living at t",
+   "verdict": "kept",
+   "where": "items: The three-fold separation, exploring (opposite-hand forms), now placed"
+  },
+  {
+   "line": "- **Possible exploring** · Limestone, chalk, coal and oil are living's carbon em",
+   "verdict": "kept",
+   "where": "items: The three-fold separation, exploring (limestone, chalk, coal and oil)"
+  },
+  {
+   "line": "- **Possible exploring** · A tree's water-conducting cells die to become its pip",
+   "verdict": "kept",
+   "where": "items: A ring, exploring (tree rings)"
+  },
+  {
+   "line": "- The origin sentence's chemical line, *a sharing pair is a bond-forming method*",
+   "verdict": "kept",
+   "where": "items: The origin sentence at eight substrates, incohering (bond-forming)"
+  },
+  {
+   "line": "- **Possible exploring** · Electrons pass two slits with a magnetized iron whisk",
+   "verdict": "kept",
+   "where": "items: The origin sentence at eight substrates, exploring (iron whisker)"
+  },
+  {
+   "line": "- **Possible exploring** · One small bead in a potential of two wells, one bit, ",
+   "verdict": "kept",
+   "where": "items: The line every field writes first, exploring (bead, kT ln 2 bound, as corrected)"
+  },
+  {
+   "line": "- **Possible incohering** · \"Self-Welcoming Social Moral Co-Offerings\" → Self-We",
+   "verdict": "kept",
+   "where": "items: Living File Registry 1.1, incohering (subtitle Co-Sharings)"
+  },
+  {
+   "line": "- **Possible incohering** · \"Even what appears as self-to-self contact is self-t",
+   "verdict": "kept",
+   "where": "items: Natural Intelligence Corus 14.1 The Nothing, incohering (membrane)"
+  }
+ ]
+}
