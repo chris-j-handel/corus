@@ -197,6 +197,29 @@ These are proposed one-sentence offerings, collected here for later placement un
 - **Co-Chaining Logic Registry:** An onward transmission needs its next coupling specified wherever a prior coupling is proposed to break.
 - **Living Ghost Registry:** Removing an explanatory name leaves the instrument's recorded response available for examination.
 
+
+## Definition refined through learning and doing
+
+The user proposed this exact definition during the continuation:
+
+> self-competency is observing, from the same self, both  
+> 1 learning from doing, and  
+> 2 doing from learning.
+
+The proposal keeps both directions together and requires the same self in both. It states an observational criterion for the present inquiry. The method question remains how those two connections occur.
+
+The assistant's assessment is that this is a coherent general working definition for the inquiry, but not an established standard definition of the term self-competency. Its structure has a clear counterpart in experiential learning, where experience informs learning and learning informs further action. This correspondence does not make the two definitions identical.
+
+“Self-competence” also has an established use in psychology for a person's sense of personal efficacy. That usage differs from the user's definition and should not be substituted for it. No claim is made that a field has adopted the user's exact formulation.
+
+For assessing observations, “from” requires a connection between learning and doing; merely recording learning and doing in succession does not specify that connection.
+
+Sources:
+
+- [Kolb and Kolb, Eight Important Things to Know About the Experiential Learning Cycle](https://learningfromexperience.com/research-library/eight-important-things-to-know-about-the-experiential-learning-cycle/).
+- [Tafarodi and Swann, Self-liking and self-competence as dimensions of global self-esteem, 1995](https://pubmed.ncbi.nlm.nih.gov/8656329/).
+- [De Houwer, Barnes-Holmes and Moors, What is learning, 2013](https://pubmed.ncbi.nlm.nih.gov/23359420/).
+
 ## The next resolving
 
 The immediate task is to choose one candidate's complete claimed way and examine each required operation without replacing the subject. For Aplysia, the missing connection to examine is the physical operation joining activity-associated and feedback-associated changes, their retention and their participation in the animal's subsequent action. A named protein's presence, an intervention's effect and a complete operation are separate questions.
