@@ -220,6 +220,21 @@ Sources:
 - [Tafarodi and Swann, Self-liking and self-competence as dimensions of global self-esteem, 1995](https://pubmed.ncbi.nlm.nih.gov/8656329/).
 - [De Houwer, Barnes-Holmes and Moors, What is learning, 2013](https://pubmed.ncbi.nlm.nih.gov/23359420/).
 
+
+## Dictionary wording and identifying the self as source
+
+The user clarified that the request is for ordinary dictionary meaning, as with method, rather than a specialized psychological usage. The user then objected that “ability” leaves an unexplained term inside the definition and required a definition that distinguishes whether the competency is from the same self.
+
+Cambridge's prefix self- means “of or by yourself or itself”; competence, also competency, is defined as “the ability to do something well.” Combining those entries was the assistant's construction, not a dictionary entry for the compound. The renewed search did not locate a general dictionary entry for the exact compound self-competency that supplies the user's two-part criterion.
+
+The distinction between “of” and “by” matters: possession of a competency does not, by that wording alone, specify how the competency was acquired. The dictionary entries therefore do not establish that learning must originate in the same self. The user's request specifically requires the learning-and-doing connections in the same self to be identifiable.
+
+Replacing competency with ability did not supply that distinguishing test. For the user's definition, assessment needs an independently identified continuing self and evidence for both connections: learning from that self's doing and that self's doing from learning. Successful performance alone cannot distinguish those connections. No dictionary wording can replace the evidence needed to classify a particular case.
+
+A non-circular definition can specify the criterion without supplying a complete physical method; the criterion's application and the explanation of the method remain separate tasks. The ordinary prefix does not require isolation from other selves or from an environment.
+
+Sources: [Cambridge, self](https://dictionary.cambridge.org/dictionary/english/self), [Cambridge, competence](https://dictionary.cambridge.org/dictionary/english/competence). The separately located [Lancaster self-competence glossary](https://www.lancaster.ac.uk/fas/psych/glossary/self-competence/) describes perceived skills and does not answer the user's ordinary-language request.
+
 ## The next resolving
 
 The immediate task is to choose one candidate's complete claimed way and examine each required operation without replacing the subject. For Aplysia, the missing connection to examine is the physical operation joining activity-associated and feedback-associated changes, their retention and their participation in the animal's subsequent action. A named protein's presence, an intervention's effect and a complete operation are separate questions.
