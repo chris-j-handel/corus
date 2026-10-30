@@ -1793,3 +1793,21 @@ This brings arrangement and passage into one study, while leaving the precise sa
 For the user's proposed bi-tunneling, the constructive distinction is between the surrounding arrangement continuing and passage continuing. Neither requires the other to remain unchanged. The useful observation sequence is passage, reduced or undetected passage, and passage returning. Undetected passage remains qualified by the measurement limit.
 
 The new physical comparison is outside a carbon lattice: this material is identified as tungsten disulfide. Similar passage patterns across different materials can support a geometric comparison without establishing that their constituents are identical. The proposed universal carbon identity remains separate from the shared opening-and-passage pattern.
+
+## Iron and carbon: opposite magnetic responses in a specified comparison
+
+The user's question is preserved exactly:
+
+> iron and carbon do these have opposite magnetic properties. continue exploring
+
+Ordinary iron metal at room temperature is ferromagnetic. An initially unmagnetized piece is strongly attracted toward a stronger applied field. Graphite is diamagnetic: its induced response opposes the applied field and it is repelled from stronger field regions. Graphite levitation is demonstrated experimentally. This is an opposition of response under stated conditions, not a classification of iron and carbon as opposite magnetic poles.
+
+Iron loses ferromagnetic order around 770 degrees Celsius and becomes paramagnetic. Thus this change occurs while the material remains iron. Source: Desai, Thermodynamic Properties of Iron and Silicon (1986), https://srd.nist.gov/JPCRD/jpcrd298.pdf, section 2.1.
+
+Graphite levitation source: Iida and colleagues (2015), Realization of diamagnetic levitation of column-shaped graphite, https://doi.org/10.1299/mej.14-00559.
+
+Nair and colleagues (2012) measured a paramagnetic contribution after introducing vacancies into graphene. It dominated at low temperatures, but they detected no magnetic ordering down to liquid-helium temperatures. This does not mean every vacancy turns an entire carbon sheet into an iron-like magnet. Source: https://www.nature.com/articles/nphys2183, DOI 10.1038/nphys2183.
+
+A related study reports reversible changes of defect magnetism with molecular doping. Vacancy magnetism and magnetism associated with added atoms behave differently. Source: Nair and colleagues (2013), https://www.nature.com/articles/ncomms3010, DOI 10.1038/ncomms3010.
+
+For the expedition, the useful comparison is now threefold: arrangement around an opening, passage across the opening, and magnetic response associated with the arrangement. These observations come from different studies and have not been joined here into one measurement of one opening. The magnetic response is a response of the material around a vacancy; an absent atom is not itself a magnetic object. Universal opposite magnetism of iron and carbon is not supported by these findings.
