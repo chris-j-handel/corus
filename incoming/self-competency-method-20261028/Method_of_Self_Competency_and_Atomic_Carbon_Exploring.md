@@ -1601,3 +1601,24 @@ The botanical evidence already gathered describes a three-faced curved apex, six
 
 Sources: Natural Intelligence §4.14 and its unchanged resolver; Natural Numbers §§3.1 and 10.2; Natural Mathematics §§3.5 and 5.1–5.2, at the source revisions listed in the preceding section.
 
+
+## Correction: follow the torus mathematics already in Natural Mathematics
+
+The user directs: “all of natural torus stable form math is in natural math”.
+
+The preceding response gave the resolver experiment priority over the exhibit's existing geometric explanation. Its request to specify phi anew omitted §4.2's explicit winding relation. The next investigation must begin with that existing mathematical development.
+
+Natural Mathematics, at blob 0d31e604d417cf128fbcf04d8964e60667984a17, supplies:
+
+- §3.4: corusing from surface to corus and torusing from corus to surface; the large opening wrapping inward and outward, with bi-folding edges and alternating along and across.
+- §4.2: torus winding with rates 1 and phi, and the three rates 1, phi and phi squared with their relation phi squared minus phi minus one equals zero. The latter confines the winding to a surface within the three-dimensional torus.
+- §5.2: three own-forward steps for each side; five-dimensional, two-directional and unrelationing as three explanations of one form.
+- §5.3: natural torusing described as two parities' circles winding with one opening. The closed orientable surface admitting a continuous nonvanishing tangent flow is the torus.
+- §3.5: bi-tri-involutioning as the opposite emanating form of right spiral stable-forming.
+
+Phi therefore already has a specified mathematical role in this exhibit. The outstanding physical correspondence is applying this winding and inward–outward form to the observed flower surfaces. Winding and topology do not by themselves uniquely specify a surface's shape or curvature in three-dimensional space. That is the precise remaining distinction, rather than a blanket claim that the torus mathematics or phi relation is missing.
+
+Next useful work: follow the existing inward–outward surface relation through the flower attachment, and locate observations supporting or separating each proposed correspondence. A six-count alone is insufficient for that mapping.
+
+Source: https://github.com/chris-j-handel/corus/blob/main/Exhibit_FOUR_Natural_Mathematics_v391.md
+
