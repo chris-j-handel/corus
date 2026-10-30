@@ -1637,3 +1637,24 @@ Source: https://idtools.org/tools/1060/index.cfm?entityID=5491&packageID=1140
 
 The strongest next geometric question is which surfaces remain continuous as these openings develop, followed along the capsule to its stalk attachment. That can relate inward and outward surfaces to the corusing and torusing of Natural Mathematics §3.4. Three paired fracture edges by themselves do not establish a torus, a phi winding, or the identity of the proposed carbon connector. The new value is an explicit three-by-two boundary relation and a distinction between chamber joins and chamber-wall fractures.
 
+
+## Along–across connection and an observed internal section
+
+A specific physical relation supplements the earlier counts. Sanso, Assis and Xifreda's 2005 description of immature Alstroemeria fruit identifies six lengthwise ribs joined by a transverse rib below the conical apex. This is an anatomical connection between lengthwise and crosswise features. Calling it a candidate along–across correspondence is our interpretation; the authors do not call it natural torusing.
+Source: https://doczz.net/doc/2130263/alstroemeria--a-charming-genus
+Publication: Alstroemeria: A Charming Genus, Acta Horticulturae 683, DOI 10.17660/ActaHortic.2005.683.5.
+
+An original photographic plate was located and visually inspected in Flower Seeds: Biology and Technology (McDonald and Kwong, editors; CABI, 2005), Plate 7.2, panel I, PDF page 139. It shows a lengthwise-cut Alstroemeria ovary, with surrounding green wall and pale developing ovules beside the central region. The caption identifies axile placentation: attachment on central tissue. The neighbouring panel H is Hemerocallis and must not be used as an Alstroemeria cross-section. Upper diagrams A–D are illustrations of general arrangements, not photographs of this specimen.
+Source: https://uodiyala.edu.iq/uploads/PDF%20ELIBRARY%20UODIYALA/EL34/Flower%20Seeds%20Biology%20and%20Technology.pdf#page=139
+
+The New South Wales flora description supplies a further Alstroemeria-specific relation: three chambers, with ovules in two rows in each. The six rows are arranged as three pairs. They are a different structure from the six outer ribs and the six edges proposed from three opening lines; no one-to-one mapping between those structures has been observed here.
+Source: https://plantnet.rbgsyd.nsw.gov.au/cgi-bin/NSWfl.pl?constat=&dist=&lvl=gn&name=Alstroemeria&page=nswfl&showsyn=
+
+### What advances and what remains
+
+The usable physical comparison now has three parts: a lengthwise outer arrangement joined crosswise, a central internal attachment with paired rows, and the previously described basal opening. These are features of the same organ type, assembled from distinct sources and specimens. They are not a recorded passage along one continuous surface in a single living specimen.
+
+The photographed cut provides more than an external outline, but not a three-dimensional reconstruction of the capsule–stalk junction or an opening sequence. The searched sources do not yet resolve which internal walls remain joined to each remaining stalk rib during release.
+
+The next focused observing is the relation between the crosswise rib, the three internal partitions and the splitting lines. This can determine whether a proposed inward–outward correspondence follows one continuous surface. A ridge is not by its outline alone an observed tunnel; the internal section is needed to distinguish them. Natural Mathematics supplies the proposed relation; this anatomical mapping is the remaining physical work.
+
