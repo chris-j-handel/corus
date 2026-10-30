@@ -1689,3 +1689,41 @@ Preserve the user's tentative assignment exactly: inner is return; outer is forw
 
 The opportunity is now more specific than a shared six-count: opposite triangular arrangements can be distinguished by outer corners and inner attachments. Whether these are the user's intended two triangles remains open; this interpretation is the assistant's proposed refinement, not an attributed change to the user's words.
 
+
+## Moving carbon, assembling fibres, spiral walls and drying
+
+The user's new suggestion is preserved as an exploration:
+
+> again suggesting so we can explore. the carbon atomic bump connector units are moving inside the living and the swelling of the growing stem into this connector shape is the fractal accumulating of stable forming carbon chainings in spiral cabling. the accumulated carbon is non-living and when the flower departs the dieing tissue becomes dessicated carbon. explore this
+
+### Observations relevant to the proposed sequence
+
+**Carbon arriving and entering structural material.** Mahboubi and colleagues supplied hybrid aspen with carbon dioxide enriched in carbon-13. Mass spectrometry and nuclear magnetic resonance spectroscopy followed the label through sugars in leaves, transport tissue and developing wood, and into wall polymers. This distinguishes carbon arriving in soluble compounds from carbon accumulating in structural material. It does not image individual carbon atoms moving as shaped connectors.
+Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC4453786/
+DOI: 10.1104/pp.15.00292.
+
+**Moving fibres joining and a network forming.** Huh and colleagues imaged fluorescently labelled cellulose during wall regeneration on living Arabidopsis cells whose walls had been removed. Short fibres moved and joined; further growth and rearrangement produced a denser network. The observations concern fibres on cell surfaces, not atomic shapes or an intact Alstroemeria stem. The paper explicitly leaves transfer to normal development unresolved.
+Source: https://doi.org/10.1126/sciadv.ads6312
+Accessible paper: https://pdfs.semanticscholar.org/b8d5/a7711ab24e32117082b675f97316bdfc25a1.pdf
+Figures 3–7 and supplementary movies S3–S13 are relevant; the movies have not been watched in this session.
+
+**Spiral wall formation.** Schneider and colleagues followed living Arabidopsis cells developing into early water-conducting cells, observing the internal filament rearrangements associated with spiral wall patterns. This supplies an observed spiral architecture at the cell-wall level. It does not demonstrate universal right-handedness or a phi rate, and it is a different preparation from the fibre-regeneration experiment.
+Source: https://doi.org/10.1038/s41467-021-20894-1.
+
+**Drying changes the remaining structure.** Huang and colleagues studied onion cell walls during dehydration and rehydration using spectroscopy, microscopy and mechanical measurements. They related changes to deformation of cellulose fibres as the surrounding material collapsed during water loss. Drying is therefore a structural change worth following, not simply disappearance of living activity.
+Source: https://pubmed.ncbi.nlm.nih.gov/30007621/
+DOI: 10.1016/j.carbpol.2018.05.091.
+
+**Dry residue remains a mixture.** The Forest Products Laboratory's account gives dry wood approximately 50% carbon, 6% hydrogen and 44% oxygen, plus minor inorganic constituents. These are wood values, not a measured composition of the Alstroemeria attachment. They demonstrate why ordinary drying is not conversion to elemental carbon.
+Source: https://research.fs.usda.gov/treesearch/22043.
+
+### Strongest supported correspondence and remaining discovering
+
+A supported sequence is: carbon-containing compounds move into growing tissue; structural chains and fibres form and associate; some wall arrangements are spiral; carbon-containing structures remain as tissue dries. The proposed universal atomic connector, its repeated geometry across levels, and the specific shape of the flower junction remain to be identified.
+
+Carbon atoms are not themselves living cells. This does not classify every carbon-containing structure or every cell containing accumulated carbon as dead. The user's distinction between living organization and persistent material remains useful when their qualifications stay explicit.
+
+For reporting, “desiccated carbon-containing tissue” preserves the observed drying and retained carbon. “Desiccated carbon” would misidentify the residue if it means pure elemental carbon. Detachment, cell death, water loss and wall fracture should be followed separately rather than assigned one simultaneous transition.
+
+The next useful comparison is now dynamic: follow a fibre meeting another, joining, bending and remaining in a network, then compare the same kind of structure before and after drying. This approaches the proposed cabling directly. Stem enlargement and wall deposition also need distinguishing before identifying visible swelling with accumulated wall material alone.
+
