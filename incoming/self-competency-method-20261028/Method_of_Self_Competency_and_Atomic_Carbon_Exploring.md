@@ -1462,3 +1462,42 @@ The atomic carbon bump-connector proposal would need a correspondence at the ato
 
 The best next comparison is how continuous engagement persists while contact locations change, using structural observations and movement measurements together.
 
+
+
+## Alstroemeria: six outer ribs and a central three-sided projection
+
+### User's proposed correspondence
+
+> a six-part protein ring. the six parts are the tips of a six pointed star. this is bi-moral-co-agency and is the aiming method of the co-linear co-chaining. in the center of this is a three sided pyramid. explore the alstomearia flower after it blooms and the flower is bump connected to the stem. examine the shape of this
+
+The plant examined is Alstroemeria. The investigation follows the flower base into the seed capsule that can develop after flowering.
+
+### Observations and botanical descriptions
+
+1. The flower has six petal-like parts, called tepals, arranged in two whorls of three. It also has six stamens. These are two separate groups of structures.
+2. The ovary lies below the attachment of the flower parts. In Alstroemeria it has three chambers. The ovary develops into the seed capsule; the capsule opens into three valves.
+3. A photograph of Alstroemeria aurea capsules by Z. Akulova, displayed by Fruit and Seed Family ID, was downloaded and visually inspected. It shows swollen, ribbed capsules, narrow stalk attachments below, and raised pointed projections on their exposed upper ends. This is an observation of whole plant organs, not individual atoms.
+4. Two additional photographs by Flobbadob document a cultivated Alstroemeria hybrid. The photographer describes its capsule as having six angles, with three larger and three smaller ribs, and a triangular pyramidal beak at the centre of its upper surface. The separate side-view caption also identifies that beak. The image pages and descriptions were retrieved; direct image downloads were blocked, so those exact photographs were not independently inspected as pixels in this investigation.
+5. The central beak is at the end opposite the stalk. Its location must remain distinct from the stalk attachment when examining the proposed connector.
+6. A photograph can show the projection and ribs. It does not supply exact angles, equal lengths, a right-handed spiral, or a sequence of coupling movements without further observations.
+
+### Correspondence to retain
+
+The useful candidate is a three-dimensional arrangement: six outer ribs, a central three-sided projection, and a narrowing connection at the opposite end. It gives the expedition a concrete flower structure to compare with the proposed form.
+
+The six-part protein ring previously examined has a central channel occupied by a protein chain. That study does not identify a central triangular pyramid. Six protein subunits, six flower parts, and six capsule ribs must each retain their own physical identification. The user's bi-moral-co-agency interpretation remains a proposed correspondence; it has not been identified as a measured function of these shapes.
+
+### Next resolving
+
+Examine the attachment end and the beaked end of the same capsule from several directions. The most useful remaining question is whether the stalk attachment itself has the proposed projecting-and-receiving geometry. The retrieved observations establish the beak at the opposite end; they do not resolve the internal geometry of the attachment.
+
+### Sources
+
+- Royal Botanic Gardens, Kew, Alstroemeriaceae botanical descriptions: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126742-1/general-information
+- Fruit and Seed Family ID, Alstroemeriaceae: https://idtools.org/tools/1060/index.cfm?entityID=5491&packageID=1140
+- Inspected capsule photograph, Z. Akulova: https://idtools.org/tools/1060/images/alstroemeria_aurea_fruit_eol.jpg
+- Flobbadob, capsule viewed from above, own photograph, June 30, 2019, Creative Commons Attribution-ShareAlike 4.0: https://commons.wikimedia.org/wiki/File:Alstroemeria_x_hybrida_capsule_from_above.jpg
+- Flobbadob, capsule side view, same date and licence: https://commons.wikimedia.org/wiki/File:Purple_Alstroemeria_capsule_side_view.jpg
+- Ripstein and colleagues, protein-ring structural study: https://elifesciences.org/articles/52158
+
+These findings are appended without replacing the preceding expedition record.
