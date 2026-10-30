@@ -1781,3 +1781,15 @@ DOI: 10.1038/s41467-021-27347-9.
 The constructive correspondence is a surrounding carbon sheet continuing while material passes across it in either direction under different conditions. This gives the proposed bi-tunneling a measurable comparison. Two directions of net passage across separate stages do not establish alternating individual passages, spiral passage, or the six-way method. Neither a two-sided geometry nor an image of an unoccupied site alone supplies a measurement of transport.
 
 The remaining specific opportunity is to bring atomic arrangement and passage observations together for the same opening. At present, one study supplies vacancy images and another supplies transport measurements; combining their results does not turn them into observations of one same-existing opening.
+
+## An opening remaining while passage stops and returns
+
+Thiruraman and colleagues (2020), Gas flow through atomic-scale apertures, combine vacancy imaging with helium transport measurements in tungsten disulfide membranes. Flow is measured across hundreds to thousands of openings, not one imaged crossing. Sulfur positions at opening edges remain uncertain. In stored specimens, flow diminishes or stops; heating restores it. Clogging is the proposed explanation, not a directly imaged sequence of every blocked opening.
+Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC11206212/
+DOI: 10.1126/sciadv.abc7927.
+
+This brings arrangement and passage into one study, while leaving the precise same-opening comparison unresolved. A measured total flow does not specify which individual openings conduct. Returned flow likewise does not identify every restored path.
+
+For the user's proposed bi-tunneling, the constructive distinction is between the surrounding arrangement continuing and passage continuing. Neither requires the other to remain unchanged. The useful observation sequence is passage, reduced or undetected passage, and passage returning. Undetected passage remains qualified by the measurement limit.
+
+The new physical comparison is outside a carbon lattice: this material is identified as tungsten disulfide. Similar passage patterns across different materials can support a geometric comparison without establishing that their constituents are identical. The proposed universal carbon identity remains separate from the shared opening-and-passage pattern.
