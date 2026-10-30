@@ -1756,3 +1756,12 @@ The earlier proposal to follow a connector needs a sharper qualification: a same
 
 The 2019 findings concern oxygen and nitrogen in a carbon sheet; they do not resolve the user's hydrogen claim. Reinterpreting these measurements as faces of one connector would require a specified relation accounting for the distinct signals and changes of occupancy. A common visual pattern alone does not provide that relation.
 
+
+## Following the vacancy between two occupied appearances
+
+Figure 3 of Hofer and colleagues (2019) was inspected in the published PDF. Its three images show a bright occupied site, an intervening vacancy, and a restored lattice. The authors interpret this as oxygen departure followed by carbon arrival. They do not supply a separate energy-loss spectrum for every stage of this sequence. Figure 4 also reports a configuration changing during spectrum acquisition.
+Source: https://www.nature.com/articles/s41467-019-12537-3 (Figures 3 and 4).
+
+The distinction advanced here is between observation of a location and identification of its occupant. A vacancy is evidence about occupancy at a lattice site, not an observation of absolute nothing. Restored occupancy does not demonstrate that the former occupant persisted. This sequence therefore supports removal and refilling; it does not demonstrate one carbon connector changing between elemental faces. The absence of a spectrum for every frame leaves a measurement limit, not positive evidence for the proposed identity.
+
+The useful next comparison is the evidence for persistence: which recorded observations follow one constituent, and which follow a location that can acquire another constituent? This preserves the user's search for a same-existing connector while specifying what the present images can distinguish. The flower's visible shape and the identity of its atomic constituents remain separate questions.
