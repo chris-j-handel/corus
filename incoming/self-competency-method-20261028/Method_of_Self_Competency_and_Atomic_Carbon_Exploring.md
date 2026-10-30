@@ -1545,3 +1545,21 @@ The earlier search gap is narrowed. Post-separation morphology is now available.
 Primary source: Sanso and Xifreda, Generic Delimitation between Alstroemeria and Bomarea (Alstroemeriaceae), Annals of Botany 88, 1057–1069, https://doi.org/10.1006/anbo.2001.1548
 
 Accessible original paper, PDF page 8 / printed page 1064: https://sedici.unlp.edu.ar/bitstream/handle/10915/83600/Documento_completo.1006_anbo.2001.1548.pdf?isAllowed=y&sequence=1
+
+## Naming correction from Natural Mathematics, Natural Numbers and Natural Intelligence
+
+The user proposed tri-involution, then asked whether tri-bi-involution may be correct and requested reading Natural Math, Natural Numbers and Natural Intelligence. The current root files were retrieved and their relevant passages examined. All three use **bi-tri-involutioning**; none of the three contains the exact expression tri-bi-involution. This records current usage, without deciding that a different proposed naming is impossible.
+
+- Natural Mathematics v391, section 3.5, defines bi-tri-involutioning as emanating from right spiral stable-forming, with three inverting together into an opposite form. Its preceding explanation inverts three binary parities and pairs eight forms with their opposites.
+- Natural Intelligence v391, section 1.5, specifies position, scale and orientation inverting together. Section 5.1 distinguishes a same-existing-society's bi-tri-volutioning stable-forming from bi-tri-involutioning emanations.
+- Natural Numbers v392, section 7.1, names the pairing across 64 within 60–68 as bi-tri-involutioning: 60 with 68, 61 with 67, 62 with 66, and 63 with 65, with 64 central. It likewise specifies position, scale and orientation inverting together.
+
+The assistant's previous interpretation of involution as inward turning was insufficient for these definitions and is corrected here. Merely naming three curved faces does not express the three inversions specified in the files. The proposed correspondence to investigate is an opposite stable form in relation to the living stable-forming from which it arises. The central pyramid, exposed opening and remaining projections are candidate physical features for that comparison. No one-to-one assignment of those features to position, scale and orientation has yet been supplied.
+
+The next useful resolving is identifying the corresponding opposite form while keeping each definition intact. Bi-tri-involutioning is the existing name most directly relevant to that investigation; identifying the flower structure with it remains a proposal.
+
+Sources on main at this reading:
+
+- https://github.com/chris-j-handel/corus/blob/main/Exhibit_FOUR_Natural_Mathematics_v391.md (blob 0d31e604d417cf128fbcf04d8964e60667984a17)
+- https://github.com/chris-j-handel/corus/blob/main/Exhibit_THREE_Natural_Numbers_v392.md (blob b7a5daa58448cfaa57b1e6de6565a07f28542c9a)
+- https://github.com/chris-j-handel/corus/blob/main/Natural_Intelligence_v391.md (blob 77a60a4f89d76a512ba7aef1c9b81bd39636c19c)
