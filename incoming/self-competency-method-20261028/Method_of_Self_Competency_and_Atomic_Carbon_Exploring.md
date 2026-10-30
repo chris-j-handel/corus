@@ -1229,3 +1229,62 @@ The correspondence with the user's proposal is sheltering, passage, attachment, 
 
 The next useful comparison is accumulation and release: what is measured when stored iron leaves the interior, and whether the shell remains assembled during that release.
 
+
+
+## Releasing contents, separating a shell, and degrading a shell
+
+Added 2026-10-30. The following primary-study comparisons extend the ferritin exploration. They preserve the earlier report and do not amend the binary logical sequence.
+
+### Three distinguishable events
+
+1. **Iron release while the protein assembly remains.** In a study of altered ferritin pores, changes to amino acids near the pores increased measured iron exit by approximately three- to thirty-fold. Gel-filtration measurements indicated that protein assembly remained, with a slight decrease in measured volume. The release was initiated under chemically reducing laboratory conditions. This supports iron mobilization without wholesale cage disassembly in those preparations; it is not a measurement of every release route in living cells.
+
+   Primary source, abstract examined: *“Opening” the ferritin pore for iron release by mutation of conserved amino acids at interhelix and loop sites*:
+   https://doi.org/10.1021/bi002509c
+
+2. **Shell disassembly associated with removal of the mineral contents.** In ferritin from the microorganism Archaeoglobus fulgidus, researchers observed protein pairs assembling into cages during iron mineralization, and cage disassembly when reducing agents dissolved the iron core. They compared a form with large openings with an altered form having closed openings. The two forms differed in iron release rates. This is a specific microbial ferritin system; it does not establish that human ferritin always separates during iron release. Separation into protein subunits is different from cutting the protein chains themselves.
+
+   Primary source, abstract examined: *The unique self-assembly/disassembly property of Archaeoglobus fulgidus ferritin and its implications on molecular release from the protein cage*:
+   https://doi.org/10.1016/j.bbagen.2015.08.019
+
+3. **Ferritin degradation associated with iron becoming available in cells.** A study in human cells identified a protein that associates with ferritin and is required in those experiments for ferritin delivery to lysosomes, the cellular compartments where degradation occurs. Cells lacking that protein showed impaired ferritin degradation and decreased available intracellular iron. This connects delivery, degradation, and iron availability. The paper's abstract explicitly described aspects of release as mechanistically unknown; it does not supply a continuous molecular record of every step.
+
+   Primary source, abstract examined: *Quantitative proteomics identifies NCOA4 as the cargo receptor mediating ferritinophagy*:
+   https://europepmc.org/articles/PMC4180099
+   https://doi.org/10.1038/nature13148
+
+### A necessary qualification about the release measurements
+
+Measuring released iron is not the same as imaging its exact exit path. A later laboratory study measured an iron-binding reagent's optical absorption as iron was mobilized. Under its experimental conditions, changing agents intended to affect pore structure did not change release kinetics in the proposed manner; reducing-agent concentration and dissolved oxygen mattered. The authors argued against the reducing molecule itself diffusing through ferritin pores as the relevant reduction mechanism.
+
+That finding does not erase the earlier pore-mutant observations. It limits the inference that a release-rate change by itself specifies which molecule crosses a pore or the full method of release.
+
+Primary source, abstract examined: *Effect of chaotropes on the kinetics of iron release from ferritin by flavin nucleotides*:
+https://europepmc.org/articles/PMC5823497
+https://doi.org/10.1016/j.bbagen.2017.09.016
+
+Full-text requests for the 2014 and 2017 papers failed during this pass. The claims above are limited to the retrieved primary abstracts. No continuous movie of one iron atom leaving one cage was examined.
+
+### What this contributes to the proposed connector distinction
+
+The physical distinctions now available are:
+- Contents leaving while the shell remains assembled.
+- The shell separating into protein parts.
+- Protein degradation in a cellular compartment.
+
+None of these observations demonstrates carbon atoms themselves splitting. Changing contacts between protein parts differs from cutting chemical bonds within a protein chain; both differ from splitting an atomic nucleus.
+
+Iron leaving ferritin also does not mean iron or carbon leaving the organism. The experiment or observation must specify the boundary crossed: shell, cellular compartment, cell, or organism.
+
+### Further value droplets
+
+1. Detecting released contents does not identify the shell's condition without a separate observation of the shell.
+2. Whole-shell assembly can remain while local pore structure differs.
+3. Mineral dissolution and shell disassembly can be associated in a specific ferritin without being universal to all ferritins.
+4. Separating protein parts differs from cutting their constituent chains.
+5. A measured increase in available iron is not a continuous observation of its release route.
+6. The boundary of release must remain explicit.
+7. Disagreement about a proposed transport step can coexist with agreement that iron release is measured.
+
+The next useful continuation returns to carbon: distinguish the carbon-containing parts of a dismantled shelter remaining available for new molecular arrangements from carbon subsequently leaving the organism.
+
