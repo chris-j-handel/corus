@@ -1563,3 +1563,41 @@ Sources on main at this reading:
 - https://github.com/chris-j-handel/corus/blob/main/Exhibit_FOUR_Natural_Mathematics_v391.md (blob 0d31e604d417cf128fbcf04d8964e60667984a17)
 - https://github.com/chris-j-handel/corus/blob/main/Exhibit_THREE_Natural_Numbers_v392.md (blob b7a5daa58448cfaa57b1e6de6565a07f28542c9a)
 - https://github.com/chris-j-handel/corus/blob/main/Natural_Intelligence_v391.md (blob 77a60a4f89d76a512ba7aef1c9b81bd39636c19c)
+
+## One method, six forward entries, and the unresolved surface correspondence
+
+The user clarified:
+
+> the surfaces are all curving at the phi unrelationing rate to the co-linear of this form. the form is not three different processes. all of the symmetry is in the method of stable-forming. three phases in each of two directions are all doing the same thing bi-invesrioning-co-recursioning forward in each of the six one ways
+
+This replaces the assistant's treatment of position, scale and orientation as three separate physical processes. The user's proposed correspondence is one method of stable-forming expressed in three phases in each of two directions. The physical identification of that method with the flower surfaces remains under exploration.
+
+### A concrete correspondence within the existing resolver
+
+Natural Intelligence §4.14 describes two selves entering alternately, each receiving the other's last sharing. Its existing Python function `_1_now_existing` was executed unchanged for twelve alternating entries. Both priors and both initial sharings were positive, with one shared relation. The surrounding script supplied those initial conditions and alternation; it did not modify the resolver.
+
+| Entry | Side entering | Prior changes in this entry |
+|---|---|---|
+| 1 | Self | No |
+| 2 | Other | Yes |
+| 3 | Self | Yes |
+| 4 | Other | No |
+| 5 | Self | Yes |
+| 6 | Other | Yes |
+
+Entries seven through twelve repeat the same sequence. Both priors and both sharings return to their initial values after entry six. Each side has three entries: two changing and one not-changing. Every entry uses the same function.
+
+This verifies this specified execution of the code. It does not identify an entry with a particular flower face, rib or direction. Alternating entries here are also distinct from the simultaneous network updates performed by `_17_next_existing`.
+
+Natural Numbers §10.2 explicitly distinguishes several sixes: three phases by two ways, three momentaries on each of two sides, and other six-part arrangements. Equal counts alone do not supply the relation between them. The user's proposal supplies the intended relation to investigate: one method expressed in each of six forward ways.
+
+### The next useful resolving
+
+The code makes one repeated method concrete. The unresolved connection is from that method to the curvature of the proposed physical form. Natural Numbers §3.1 itself states that phi does not appear in the resolver code. A six-entry recurrence therefore does not yet calculate phi curvature.
+
+The useful geometric specification is which observable relation between successive parts of a surface expresses the proposed phi unrelationing. That relation can be stated without choosing an absolute position, orientation or size. Once specified, it can distinguish the proposed surface from other curved surfaces.
+
+The botanical evidence already gathered describes a three-faced curved apex, six ribs and three opening valves. No phi measurement of those surfaces was found in the sources searched. Neither that absence nor the six-entry code example decides the proposed physical correspondence.
+
+Sources: Natural Intelligence §4.14 and its unchanged resolver; Natural Numbers §§3.1 and 10.2; Natural Mathematics §§3.5 and 5.1–5.2, at the source revisions listed in the preceding section.
+
