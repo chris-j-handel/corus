@@ -1765,3 +1765,19 @@ Source: https://www.nature.com/articles/s41467-019-12537-3 (Figures 3 and 4).
 The distinction advanced here is between observation of a location and identification of its occupant. A vacancy is evidence about occupancy at a lattice site, not an observation of absolute nothing. Restored occupancy does not demonstrate that the former occupant persisted. This sequence therefore supports removal and refilling; it does not demonstrate one carbon connector changing between elemental faces. The absence of a spectrum for every frame leaves a measurement limit, not positive evidence for the proposed identity.
 
 The useful next comparison is the evidence for persistence: which recorded observations follow one constituent, and which follow a location that can acquire another constituent? This preserves the user's search for a same-existing connector while specifying what the present images can distinguish. The flower's visible shape and the identity of its atomic constituents remain separate questions.
+
+## Vacancy as proposed bi-tunneling: passage in two directions
+
+The user's next proposal is preserved exactly:
+
+> an unoccupied lattice site is bi tunneling. continue
+
+This names the vacancy within the user's proposed method. The next comparison concerns passage through an opening, rather than absence alone.
+
+Sun and colleagues (2021), Exponentially selective molecular sieving through angstrom pores, measured gas entry into graphene-covered cavities and subsequent escape. Membrane height changes supplied the observations used to infer gas transport. The atomic structures of those particular pores were not imaged; their effective size was estimated from transport. These were different specimens from the previously examined vacancy images.
+Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC8660907/
+DOI: 10.1038/s41467-021-27347-9.
+
+The constructive correspondence is a surrounding carbon sheet continuing while material passes across it in either direction under different conditions. This gives the proposed bi-tunneling a measurable comparison. Two directions of net passage across separate stages do not establish alternating individual passages, spiral passage, or the six-way method. Neither a two-sided geometry nor an image of an unoccupied site alone supplies a measurement of transport.
+
+The remaining specific opportunity is to bring atomic arrangement and passage observations together for the same opening. At present, one study supplies vacancy images and another supplies transport measurements; combining their results does not turn them into observations of one same-existing opening.
