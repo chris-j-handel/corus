@@ -1077,3 +1077,90 @@ An enzyme participating in a transformation is not generally donating its own ca
 
 The most valuable next physical comparison is the protein chain within the proteasome: the surrounding spiral, the contacting and noncontacting subunits, the central passage and the smaller outgoing fragments. This has a more specific observed structure than a general statement that metabolism accumulates or exhausts carbon.
 
+
+
+## Continuing carbon exploration: branches, shelters, contacts, and separation
+
+Added 2026-10-30. This contribution preserves the preceding report and does not change the proposed binary logical sequence.
+
+### User's proposed correspondence
+
+> branched arrangments are tunnelings of society with shelters in cul de sacsw and alternative routings in separatations and mergers. all changing is inside bi-foldings. carbon atom units are the only non-living thing inside living things. the inherited chains are fused and the short living chains are flexible bump connecting and exchanging sytsems of co-intelligencing the living.
+
+These are the user's proposals. The observations below test particular correspondences; they do not redefine the proposals as already established physical descriptions.
+
+### 1. A branched physical network and moving compartments
+
+The endoplasmic reticulum contains interconnected membrane tubes and sheets, including three-way junctions. In a 2025 study, researchers used live-cell fluorescence microscopy and trajectory analysis to follow endosomes and lysosomes relative to this network. In the cultured cells studied, the compartments moved along tubes, often paused near junctions, interacted, and departed. The study recorded images every two seconds during five-minute observations of interactions. Some interactions were followed by fission.
+
+This is a strong correspondence for branching, meeting, separation, and renewed movement. It is important to retain the physical distinction: a lysosome moving along the outside of a membrane tube is not a lysosome traveling inside the tube's enclosed passage. A fluorescent overlap identifies proximity within the measurement's resolution; it does not alone establish fusion or transfer of a specified molecule.
+
+Removing two atlastin proteins reduced network branching and altered where compartments paused. Restoring one atlastin restored much of the junction-associated pausing. Such interventions connect the observed arrangement with the observed movement. They do not establish a general method of self-competency.
+
+Source: *Endoplasmic reticulum junctions serve as a platform for endosome-lysosome interactions through their stop-and-go motion switching* (2025), full text examined:
+https://europepmc.org/articles/PMC12442848
+https://doi.org/10.1126/sciadv.adv4437
+
+### 2. A shelter assembled from protein parts, containing non-carbon material
+
+Ferritin provides a particularly concrete shelter correspondence. Protein subunits assemble into a hollow cage in which iron can be stored.
+
+A 2024 study of engineered human ferritin mixtures used cryogenic electron microscopy and structural modeling. It found a preference for pairs of unlike subunits and described multiple assembly pathways. This supports examining paired joining within a larger shelter. The abstract does not establish that every assembly event follows one universal two-fold operation; full text could not be retrieved during this search.
+
+Source: *Unveiling the stochastic nature of human heteropolymer ferritin self-assembly mechanism* (2024), abstract examined:
+https://europepmc.org/articles/PMC11241160
+https://doi.org/10.1002/pro.5104
+
+A 2026 study isolated ferritin from chicken spleen and measured a cage diameter of approximately twelve nanometres and approximately 1,687 iron atoms per cage, using structural and elemental analyses. Those values describe that preparation, not a constant number in every ferritin cage. The researchers removed the iron core and measured subsequent iron mineralization. The abstract was examined; the complete paper was not examined.
+
+Source: *Isolation and biophysical profiling of native chicken spleen ferritin: A highly thermostable H-chain-dominated nanocage* (2026):
+https://doi.org/10.1016/j.foodres.2026.120055
+
+This supplies a direct correction to “carbon atom units are the only non-living thing inside living things,” using the ordinary biological meaning of nonliving material: stored iron is another nonliving material inside organisms. Carbon-containing proteins and stored iron are compositionally distinct. The shelter correspondence does not require their constituents to be identical.
+
+### 3. Inherited chains: joining along and association across
+
+If “inherited chains” means deoxyribonucleic acid, the molecule has two strands. Each strand has an alternating sugar-and-phosphate backbone. Bases associate across the two strands. Thus the arrangement provides a specific comparison between continuity along a strand and association across strands.
+
+“Fused” needs that distinction: the two strands are not normally one continuous covalent chain across the paired bases. Their separation during copying is different from cutting each strand's backbone. The inherited molecule is also flexible; chain length alone does not divide all molecules into fused inherited chains and flexible short chains.
+
+Official structural description examined:
+https://www.genome.gov/genetics-glossary/Double-Helix
+https://www.genome.gov/genetics-glossary/Deoxyribonucleic-Acid
+
+### 4. Flexible contact and exchange without loss of carbon from the organism
+
+The proteasome findings already appended to this report remain useful here. A protein chain contacts a ring of protein subunits around a central channel; structural reconstructions show different contacts in different arrangements. Peptide production records chain cutting. This distinguishes contact release from backbone cutting.
+
+The following operations should remain separate in the proposed physical correspondence:
+- Two molecular surfaces contacting and separating.
+- A chemical chain being cut.
+- A membrane compartment joining or separating.
+- Carbon moving from one molecule into another.
+- Carbon leaving an organism.
+
+The first three do not automatically imply the last. A separated fragment can remain inside the organism and enter another molecular arrangement.
+
+Previously examined primary source:
+https://europepmc.org/articles/PMC12700817
+
+### 5. What remains open within this comparison
+
+The observed branching network is a promising physical example for the proposed tunneling society. A hollow ferritin cage is a promising shelter example. Neither observation yet identifies a protected shelter specifically located at a dead-end branch. Calling every branch a passage also requires care: a molecular branch such as a glycogen branch need not enclose a hollow passage.
+
+“All changing is inside bi-foldings” remains a proposed universal description. To compare it with these observations, the next useful advance is to specify one observable arrangement that qualifies as bi-folding and one arrangement that does not. Two things meeting, two membranes joining, two strands associating, and two alternatives in a description are different relationships; counting two does not by itself make them one physical operation.
+
+“Co-intelligencing” remains the user's interpretation of coordinated exchange. These studies measure structures, movements, contacts, assembly, and separation. They do not independently classify those molecular parts as living selves under the expedition's proposed definition.
+
+### Further value droplets
+
+1. A branching chemical chain and a branching hollow passage are distinct physical arrangements.
+2. A compartment can move beside a tunnel without entering its interior.
+3. A junction can be an observed meeting and separation location, rather than merely a crossing in a diagram.
+4. An assembled shelter can contain material of a different elemental composition.
+5. Paired assembly is a concrete candidate for comparison with bi-folding; a universal correspondence remains to be specified.
+6. Joining along a chain differs from association across chains.
+7. Uncoupling contacts, cutting chains, separating compartments, and exhausting carbon are distinguishable events.
+
+The most useful next physical comparison is the junction: what remains connected, what approaches, what separates, and whether the enclosed passages actually become continuous.
+
