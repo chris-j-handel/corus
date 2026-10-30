@@ -1531,3 +1531,17 @@ Source: https://www.scielo.org.mx/scielo.php?pid=S2007-33802019000100123&script=
 - The six ribs and central three-sided beak remain the specific geometric correspondence already documented.
 
 The next useful anatomical evidence would be consecutive sections through one capsule–stalk junction, or a three-dimensional scan resolving its tissues. Such evidence would show whether a proposed cavity, projection, or spiral is present there. The current search has not supplied it.
+
+## Capsule opening: a more specific correspondence
+
+The original study by Sanso and Xifreda (2001) supplies the following observations: a pyramid with three slightly curved faces at the style base; six longitudinal ribs below; splitting from the capsule base into three valves, with splitting lines aligned to the pyramid sides; three to six ribs remaining on the stalk; and a central opening becoming visible after detachment where the three carpels join. Page 1064 contains specimen drawings in Figure 6 and photographs in Figure 7. Figure 7A shows the remaining ribs in Alstroemeria patagonica.
+
+The page was rendered and visually inspected. The drawings and photographs have different roles: the drawings identify anatomical relationships; the photograph documents the remaining external form. Neither is a recording of the complete movement of one capsule.
+
+This adds a concrete target for the user's proposed connector: compare the exposed opening with the remaining stalk projections, while preserving which structures are present before separation and which surfaces become exposed during separation. A post-separation opening alone does not determine whether the same open passage existed beforehand.
+
+The earlier search gap is narrowed. Post-separation morphology is now available. Consecutive sections through the intact junction and observations of the separation itself remain missing from this investigation. No right-handed sequence or atomic carbon connector is identified by these figures.
+
+Primary source: Sanso and Xifreda, Generic Delimitation between Alstroemeria and Bomarea (Alstroemeriaceae), Annals of Botany 88, 1057–1069, https://doi.org/10.1006/anbo.2001.1548
+
+Accessible original paper, PDF page 8 / printed page 1064: https://sedici.unlp.edu.ar/bitstream/handle/10915/83600/Documento_completo.1006_anbo.2001.1548.pdf?isAllowed=y&sequence=1
