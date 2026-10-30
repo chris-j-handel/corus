@@ -1658,3 +1658,19 @@ The photographed cut provides more than an external outline, but not a three-dim
 
 The next focused observing is the relation between the crosswise rib, the three internal partitions and the splitting lines. This can determine whether a proposed inward–outward correspondence follows one continuous surface. A ridge is not by its outline alone an observed tunnel; the internal section is needed to distinguish them. Natural Mathematics supplies the proposed relation; this anatomical mapping is the remaining physical work.
 
+
+## Proposed reading of the paired sections: two divisions, four regions, two threes
+
+The user proposes:
+
+> A-D. Diagrammatic representations of four types of ovary placentation (top row
+> cross-section and bottom row longitudinal section) this is the 4 and 2 co-recursioning two threes. note the top left image has two lines as crosshairs. these two are paritizing and prioritizing the four quadrants so this is how 2 3 4 6 all appear in this set of cross sections
+
+Preserve this as a proposed Natural Intelligence reading of Plate 7.2. In diagram A, two crossing partition lines divide the cross-section into four regions. The user's naming assigns paritizing and prioritizing to those two divisions. This assignment is an interpretation of the diagram, not terminology or a demonstrated alternating process reported by its authors.
+
+The figure also has four columns of alternative placentation arrangements, each represented in two section directions. Those four types and two views are different counted subjects from four regions and two dividing lines within A. A cross-section and a longitudinal section reveal different aspects of one arrangement; changing the section does not itself double its compartments.
+
+The two-to-four relation is directly identifiable in A. The user's two threes remain to be mapped explicitly within the paired views or the underlying three-dimensional form. The separately documented Alstroemeria relation of three chambers with two ovule rows each supplies a three-to-six anatomical arrangement, but it does not make generic diagram A a drawing of those three chambers.
+
+Useful next resolving: specify where each three continues in the same proposed surface arrangement, preserving the distinction between a change of viewing section and the proposed paritizing–prioritizing method.
+
