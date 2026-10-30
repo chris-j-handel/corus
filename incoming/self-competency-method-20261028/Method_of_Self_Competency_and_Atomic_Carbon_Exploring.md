@@ -1501,3 +1501,33 @@ Examine the attachment end and the beaked end of the same capsule from several d
 - Ripstein and colleagues, protein-ring structural study: https://elifesciences.org/articles/52158
 
 These findings are appended without replacing the preceding expedition record.
+
+## Continuing into the attachment: what separates and what remains
+
+The next search examined the connection beneath the capsule and the separation of flower parts. No retrieved study supplied a three-dimensional reconstruction of the Alstroemeria capsule–stalk junction showing complementary projecting and receiving surfaces. That remains the specific missing observation.
+
+### Measured separation
+
+Wagstaff and colleagues measured the force needed to detach Alstroemeria tepals using a digital force meter. In their cut-flower preparations, attachment strength declined before the tepals fell; the discussion places that decline approximately four days before separation in controls and low-treatment groups. This measures changing attachment strength. It does not image a connector unscrewing or demonstrate a right-handed sequence. The measurements concern tepal attachment, not capsule detachment from the stalk.
+
+Source: https://doi.org/10.1093/jxb/eri094
+
+### Observed internal tissues
+
+A separate microscopy study of Alstroemeria petals found inner cells degrading while surface cells remained intact. Thus the visible outer form can persist while its interior changes. This observation concerns petals and must not be assigned to the capsule attachment without evidence.
+
+Source: https://doi.org/10.1046/j.1469-8137.2003.00853.x
+
+A study of the main flowering stem of cultivar Rebecca examined cross-sections at several distances below the flower cluster. It reported numerous transport bundles, including an average of about 81 per section at the nearest sampled position, 2 centimetres below the cluster. These are main-stem observations, not sections through an individual capsule's stalk. Counting six external capsule ribs therefore does not provide a count of the internal passages along the whole stem.
+
+Source: https://www.scielo.org.mx/scielo.php?pid=S2007-33802019000100123&script=sci_arttext
+
+### Value retained for the proposed connector
+
+- Outer shape, internal passages, and separating surfaces are three distinct observations needed for this comparison.
+- A narrowing stalk attachment in a photograph does not reveal its internal contact geometry.
+- Petals can separate while the capsule remains attached; these are different locations of separation.
+- Declining attachment strength provides a measurable transition before separation.
+- The six ribs and central three-sided beak remain the specific geometric correspondence already documented.
+
+The next useful anatomical evidence would be consecutive sections through one capsule–stalk junction, or a three-dimensional scan resolving its tissues. Such evidence would show whether a proposed cavity, projection, or spiral is present there. The current search has not supplied it.
