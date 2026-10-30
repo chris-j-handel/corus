@@ -1674,3 +1674,18 @@ The two-to-four relation is directly identifiable in A. The user's two threes re
 
 Useful next resolving: specify where each three continues in the same proposed surface arrangement, preserving the distinction between a change of viewing section and the proposed paritizing–prioritizing method.
 
+
+## Two triangles: outer forward and inner return as a proposal
+
+The user points to the second diagram in the top row of Plate 7.2:
+
+> there are two triangles in the second from left top row cxross section. looks like a six pointed star in two triangles. the inner is return and the outer is forward. that my suggesting without knowing
+
+Close inspection gives a useful distinction. The two drawn wall outlines are nested rounded triangles pointing the same way. Separately, three inward ovule-attachment groups lie at upper left, upper right and bottom centre. Joining those three groups with imagined straight lines gives a downward-pointing triangle, opposite the upward-pointing outer outline.
+
+This supplies a candidate three-and-three correspondence: three outer corners alternate around the section with three inner attachment positions. It is a relation between positions in the diagram; a complete six-pointed-star boundary is not drawn, and the inferred inner triangle need not intersect the outer triangle.
+
+Preserve the user's tentative assignment exactly: inner is return; outer is forward. The image supplies a candidate arrangement for that assignment but does not depict motion or its direction. Diagram B represents parietal placentation generally and is not an anatomical photograph of Alstroemeria.
+
+The opportunity is now more specific than a shared six-count: opposite triangular arrangements can be distinguished by outer corners and inner attachments. Whether these are the user's intended two triangles remains open; this interpretation is the assistant's proposed refinement, not an attributed change to the user's words.
+
