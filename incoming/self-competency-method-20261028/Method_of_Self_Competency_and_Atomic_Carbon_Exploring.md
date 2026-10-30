@@ -1727,3 +1727,32 @@ For reporting, “desiccated carbon-containing tissue” preserves the observed 
 
 The next useful comparison is now dynamic: follow a fibre meeting another, joining, bending and remaining in a network, then compare the same kind of structure before and after drying. This approaches the proposed cabling directly. Stem enlargement and wall deposition also need distinguishing before identifying visible swelling with accumulated wall material alone.
 
+
+## “Ghost faces of carbon”: observed response and constituent identity
+
+The user's proposal is preserved exactly:
+
+> hydrogen, oxygen and other constituents. these are ghost faces of carbon.
+
+The assistant understands this as a proposed identity: the named elements are appearances of one underlying carbon connector. This remains the user's hypothesis, not an established result of the consulted studies.
+
+### An observed variation within carbon
+
+Suenaga and Koshino's 2010 study, Atom-by-atom spectroscopy at graphene edge, combines atomic imaging with measurements of energy lost by the probing beam. It distinguishes carbon sites having one, two or three neighbouring connections through differences in the detailed spectra. Thus carbon does not have one invariant measured response regardless of its surroundings. These are comparisons among carbon sites, not an observed carbon atom becoming oxygen or hydrogen.
+Sources: https://www.nature.com/articles/nature09664 and https://pubmed.ncbi.nlm.nih.gov/21160475/
+DOI: 10.1038/nature09664.
+
+### A comparison between named constituents
+
+Hofer and colleagues (2019) combine image contrast with energy-loss measurements at selected sites in graphene. Some brightness assignments remain ambiguous. They also report beam-induced changes and interpret certain site changes as oxygen removal followed by carbon replacement. These findings supply additional measured distinctions and an explicit limitation: neither brightness alone nor persistence of a location establishes persistence of its occupant.
+Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC6783479/
+DOI: 10.1038/s41467-019-12537-3.
+
+### Consequence for the proposed discovering
+
+Two claims must remain distinct: different measured responses can occur within carbon; all responses assigned to different elements are appearances of carbon. The first has relevant experimental support. The second does not follow from it, and the studies examined do not demonstrate it.
+
+The earlier proposal to follow a connector needs a sharper qualification: a same-existing place is not automatically a same-existing constituent. Following an image location across a changing can follow removal and replacement rather than one persisting thing. The useful comparison combines neighbouring arrangement, image contrast, energy-loss spectrum and evidence of an intervening vacancy. Even these observations have finite resolution and can leave individual events unresolved.
+
+The 2019 findings concern oxygen and nitrogen in a carbon sheet; they do not resolve the user's hydrogen claim. Reinterpreting these measurements as faces of one connector would require a specified relation accounting for the distinct signals and changes of occupancy. A common visual pattern alone does not provide that relation.
+
