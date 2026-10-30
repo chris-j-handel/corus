@@ -1622,3 +1622,18 @@ Next useful work: follow the existing inward–outward surface relation through 
 
 Source: https://github.com/chris-j-handel/corus/blob/main/Exhibit_FOUR_Natural_Mathematics_v391.md
 
+
+## Three splitting lines and their six separating sides
+
+The next proposed comparison follows the relation between surfaces during opening.
+
+For a shell separating into three lengthwise pieces along three lines, each line has two separating sides. Three lines therefore supply six edge occurrences, paired by their former contact. This is a geometric relation to investigate as tri-bi: each of three openings is between two sides. It is not yet a correspondence between those sides and six directed recursionings. Edges, surface ribs and directed steps require their own explicit mappings.
+
+The Alstroemeria study links the splitting lines to the pyramid's sides and reports opening from the base. Its Figure 6C draws an incompletely separated capsule; Figure 7A photographs the remaining stalk projections. These provide different observations and are not a time series of one specimen. The central opening is described after separation, not as evidence of a pre-existing open passage.
+Source: https://doi.org/10.1006/anbo.2001.1548
+
+A further relevant distinction: the official Fruit and Seed Family ID describes the capsule as loculicidal, meaning opening lengthwise through the seed chambers. Thus the splitting lines cross the outer chamber walls; they cannot simply be identified with the partitions separating the chambers. This returns directly to the user's distinction between uncoupling connectors and fracturing a connector. At the whole-capsule level, a chamber wall splits. What separates at finer levels remains a separate observing.
+Source: https://idtools.org/tools/1060/index.cfm?entityID=5491&packageID=1140
+
+The strongest next geometric question is which surfaces remain continuous as these openings develop, followed along the capsule to its stalk attachment. That can relate inward and outward surfaces to the corusing and torusing of Natural Mathematics §3.4. Three paired fracture edges by themselves do not establish a torus, a phi winding, or the identity of the proposed carbon connector. The new value is an explicit three-by-two boundary relation and a distinction between chamber joins and chamber-wall fractures.
+
