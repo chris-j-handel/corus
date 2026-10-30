@@ -1016,3 +1016,64 @@ The assistant’s absence of an identified contradiction is not a finding that e
 
 The current 44-line progression, its separate method explaining, and the next question about the relation between the two alternations remain unchanged.
 
+
+## Carbon joining separating and leaving
+
+The new inquiry follows carbon through the substances named protein, sugar, enzyme, fat, membrane and medicine, looking for correspondences with co-chaining and bi-tunneling. These are proposed correspondences: chain formation, passage through a channel, separation of a chain, recycling and departure from the organism must each retain their own qualification.
+
+### Closest structural correspondences
+
+**A forming protein chain passes through a tunnel.** Ribosomes join amino-acid units; the extending chain passes through the large subunit’s exit tunnel. A primary structural study of bacterial ribosomes describes this passage and reports additional binding of doxycycline within the tunnel. In one bacterial species, three drug molecules occupy the passage. The recorded material is microscopy data reconstructed into density maps, with atomic models fitted to those maps. The correspondence to explore is a carbon-containing chain forming and emerging through a bounded passage. The result does not identify that passage as the expedition’s proposed universal bi-tunneling.
+
+Source: [Cryo-EM reveals multiple mechanisms of ribosome inhibition by doxycycline](https://europepmc.org/articles/PMC13392368).
+
+**A protein chain passes through a central channel into a degrading chamber.** The proteasome has a central channel surrounded by six motor subunits. A primary study reconstructs spiral arrangements around a chain during degradation and measures peptide product formation. In one resolved arrangement, five motor subunits contact the chain and one is disengaged. The study compares multiple arrangements and proposes the changing that moves the chain. These are six protein subunits, not six carbon atoms. The carbon remains in the smaller protein fragments; this separation is not itself carbon leaving the body.
+
+Source: [Structural landscape of the degrading 26S proteasome reveals conformation-specific binding of TXNL1](https://europepmc.org/articles/PMC12700817).
+
+These two structures give the strongest present physical comparison: a forming chain with an exit tunnel, and a separating chain with an entry channel and chamber. They are different molecular assemblies; their correspondence is not an established identity or a claim that one is simply the other running backward.
+
+### Carbon transformations across the named substances
+
+| Named process | Joining or accumulating | Separating or leaving | Proposed correspondence |
+| --- | --- | --- | --- |
+| Fatty-acid elongation | Repeated cycles extend a carbon chain by two carbon atoms. | Fatty-acid oxidation commonly removes two-carbon units from the chain. | Direct carbon-chain lengthening and shortening. |
+| Glycogen storage | Glucose units join into a branched arrangement. | Stored units are released for further metabolism. | Joining and uncoupling carbon-containing units. |
+| Protein synthesis and degradation | Amino-acid units join into a chain. | Digestive enzymes and cellular degrading systems separate chains into smaller pieces. | Chain assembly and separation, with the ribosome and proteasome offering specific channels to examine. |
+| Stored fat assembly and release | Fatty-acid chains attach to glycerol. | The attachments are cut, releasing fatty acids and glycerol-containing products. | Uncoupling attachments without necessarily shortening the fatty-acid chains. |
+| Membrane assembly | Carbon-containing lipid molecules associate into a membrane. | Molecules can leave or be replaced. | Assembly by association, rather than joining every molecule into one covalent chain. |
+| Carbon dioxide formation | A two-carbon group joins a four-carbon molecule in the citric-acid cycle. | Subsequent steps release two carbon dioxide molecules and regenerate a four-carbon molecule. | Joining and carbon separation within a repeating chemical sequence. |
+| Material leaving the digestive tract | Food residue and bodily material gather in stool. | Undigested material and older intestinal lining cells leave. | Carbon-bearing material departing the organism. |
+
+Fatty-acid elongation is described in the primary study [The 3-hydroxyacyl-CoA dehydratase 1/2 form complex with trans-2-enoyl-CoA reductase involved in substrates transfer in very long chain fatty acid elongation](https://doi.org/10.1016/j.bbrc.2024.149588). Its abstract supplies the two-carbon extension and distinguishes established components from unresolved detailed interactions.
+
+The remaining chemical distinctions are described in the publishers’ texts: [carbohydrates](https://openstax.org/books/biology-2e/pages/3-2-carbohydrates), [lipids](https://openstax.org/books/biology-2e/pages/3-3-lipids), [proteins](https://openstax.org/books/biology-2e/pages/3-4-proteins), [connected metabolic pathways](https://openstax.org/books/biology-2e/pages/7-6-connections-of-carbohydrate-protein-and-lipid-metabolic-pathways), and [carbon dioxide formation](https://openstax.org/books/biology-2e/pages/7-3-oxidation-of-pyruvate-and-the-citric-acid-cycle). The [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works) describes digestion, absorption and the departing intestinal material.
+
+The joins differ. Fatty-acid chains have direct carbon-to-carbon links; proteins join amino acids through carbon-to-nitrogen peptide bonds; sugars can join through oxygen. A common joining pattern does not make all these joins the same atomic arrangement.
+
+The carbon dioxide released on a turn of the citric-acid cycle need not contain the carbon atoms entering on that turn. The repeating chemical sequence is not, by its cyclic naming, an observed toroidal physical structure.
+
+### Carbon reuse is directly investigable
+
+In a primary human feeding study, food proteins contained carbon-13-labeled amino acids. Researchers sampled blood and muscle and measured labeled dietary amino acids incorporated into newly synthesized muscle protein. This supplies an observed route from ingestion through separation and absorption to joining in body protein. It does not require that dietary protein remain intact as the body’s protein.
+
+Source: [Insects are a viable protein source for human consumption: from insect protein digestion to postprandial muscle protein synthesis in vivo in humans](https://europepmc.org/articles/PMC8408844).
+
+A carbon-containing molecule separating from a larger molecule can remain inside the body for reuse. Carbon in carbon dioxide can subsequently leave with breathing; carbon-bearing solids can leave with shedding or stool. Local separation and whole-organism departure are therefore distinct observations.
+
+An enzyme participating in a transformation is not generally donating its own carbon to every transformed molecule. The carbon of the transforming assembly and the carbon of its incoming chain must be followed separately.
+
+### New value droplets
+
+- **Natural Chemistry:** Direct carbon-chain shortening and separation of carbon-containing units are distinct forms of breaking.
+- **Natural Biology:** A newly forming protein chain and a degrading protein chain each have a specific molecular passage available for structural comparison.
+- **Natural Illustrating:** A proteasome’s reconstructed spiral of six protein subunits must retain that scale when compared with the numbered resolver.
+- **Natural Exploring:** Multiple particle reconstructions and measured products distinguish what is recorded from a proposed continuous sequence of movement.
+- **Natural Chemistry:** Carbon separation from a molecule and carbon departure from the organism are different observations.
+- **Natural Biology:** Dietary carbon can enter newly assembled body protein after the dietary protein separates.
+- **Natural Chemistry:** A fatty-acid chain can detach from stored fat while its own carbon chain remains intact.
+- **Natural Naming:** A chemical cycle does not by its naming establish a toroidal physical form.
+- **Natural Explaining:** Co-chaining and bi-tunneling remain proposed correspondences until their full qualifying relations match the observed joining and passage.
+
+The most valuable next physical comparison is the protein chain within the proteasome: the surrounding spiral, the contacting and noncontacting subunits, the central passage and the smaller outgoing fragments. This has a more specific observed structure than a general statement that metabolism accumulates or exhausts carbon.
+
