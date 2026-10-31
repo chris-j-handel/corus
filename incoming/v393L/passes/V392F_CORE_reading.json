@@ -1,0 +1,196 @@
+{
+ "corrections": [
+  {
+   "from": "- **Registry *e* next:** \"its near-duplicates at one place and cited, at its car",
+   "finding": "thin: the item points at the Registry cell and says no value; the source's value is that this *Next* cell names as still to come a motion its own row's *Living* cell already holds as met, *five near-duplicates said once and cited*, while no near-duplicate list stands at Natural Intelligence's carryings; *its carryings* said as the item's own word, the source naming the file",
+   "fixed": {
+    "file": "Living File Registry",
+    "section": "1.1 Titles, subtitles and living files at repository",
+    "kind": "incohering",
+    "sentence": "its near-duplicates at one place and cited, at its carrying",
+    "text": "Natural Intelligence's *Next* cell has its near-duplicates at one place and cited, and its own row's *Living* cell has that motion met, *five near-duplicates said once and cited*; no list of near-duplicates stands at Natural Intelligence's carryings. Two sayings part within one row: a next still to come, or a next already met.",
+    "from": "- **Registry *e* next:** \"its near-duplicates at one place and cited, at its car"
+   }
+  },
+  {
+   "from": "- **Registry *e* next:** \"its near-duplicates at one place and cited, at its car",
+   "finding": "sibling of the corrected item, restated unchanged",
+   "fixed": {
+    "from": "- **Registry *e* next:** \"its near-duplicates at one place and cited, at its car",
+    "why": "history: the cell's words an earlier version's; pointer"
+   }
+  },
+  {
+   "from": "5. Droplet · v391 · `**Droplet · for our word, from line 24.**` (line 65) — its ",
+   "finding": "added: *a self whose parity inverts with each momentary* and *fixing as changing* come from an older offerings droplet, not this slice; the slice holds only that the droplet's 5.3 half stands open at this sentence, its 5.1 half re-said",
+   "fixed": {
+    "section": "5.3 A living self with 0, its prior same-existing",
+    "kind": "incohering",
+    "sentence": "A pair freezing to one side, a self fixing as not-changing or as changing, is an unchangeable form, outside existing and living.",
+    "text": "This sentence's *a self fixing as not-changing or as changing … is an unchangeable form, outside existing and living* stands open for a word.",
+    "from": "5. Droplet · v391 · `**Droplet · for our word, from line 24.**` (line 65) — its "
+   }
+  },
+  {
+   "from": "5. Droplet · v391 · `**Droplet · for our word, from line 24.**` (line 65) — its ",
+   "finding": "sibling of the corrected item, restated unchanged",
+   "fixed": {
+    "from": "5. Droplet · v391 · `**Droplet · for our word, from line 24.**` (line 65) — its ",
+    "why": "its 5.1 half held at Natural Intelligence gathering-value 5.1: \"Each is a non-living now-existing form with its scale.\" -> \"Each stable-forming emanation, a parity a self shares going along between momentaries, is said *a non-living now-existing form with its scale*, and its next sentence says *Each is a parity, a self while it is living.* ... two sayings parting.\"; its line pointers a pointer"
+   }
+  },
+  {
+   "from": "5. Concern · v389 standing · `**Concern · A finding about working, placed or dro",
+   "finding": "thin: the reading names the Registry cell and the side and says no value; the source's reading is that the Registry's *Next* for this file lays the session's thirteen practice droplets as this file's next, a finding about working riding as its next, 1.3's side, beside 1.6's placing with its motion",
+   "fixed": {
+    "section": "1.6 A going on current at each closing, and no history in it",
+    "kind": "reading",
+    "text": "A reading has the Living File Registry's *Next* for this file, thirteen droplets from a session's practice laid at its offerings as its next version's improving, as 1.3's side of the concern at a finding about working: each finding riding with this file's going on as its next, as 1.3 has *A finding about working rides there, with this file's own section, and comes here as its next.*, and not placing here with its motion, as 1.6 has *each finding its writing makes about working places here*.",
+    "from": "5. Concern · v389 standing · `**Concern · A finding about working, placed or dro",
+    "file": "Geodesic Improving Method"
+   }
+  },
+  {
+   "from": "5. Concern · v389 standing · `**Concern · A finding about working, placed or dro",
+   "finding": "sibling of the corrected item, restated unchanged",
+   "fixed": {
+    "from": "5. Concern · v389 standing · `**Concern · A finding about working, placed or dro",
+    "why": "its concern held at Geodesic Improving Method gathering-value 1.6: \"A working writes its file, its file's taking dissolves from going on, and each finding its writing makes about working places here.\" -> \"Two sayings part at a finding about working a motion makes: 1.6 has ..., and 1.4 has *nothing enters it within a working that receives it*, ... 1.3 has *A finding about working rides there, with this file's own section, and comes here as its next*. ... Two sides: ...\""
+   }
+  },
+  {
+   "from": "3. Droplet · v391 · `**Droplet · THIRTY met all or none, at v391.**` (111) with ",
+   "finding": "a side dropped and a run said falsely: the Registry's side is step 311 re-said as what the code holds, run, with the prime-scale saying laid whole beside it as not held by the code, and the draft drops step 311's re-saying; its *Run* is a word count of the code, not a run of the code; *the code keeping no scale* is the older offerings' wording, the slice saying *not held by the code*. Run here: Exhibit ONE's code returns step 311's re-saying",
+   "fixed": {
+    "file": "Natural Naming",
+    "section": "2.2 Fractal method, all or none at all at its scales",
+    "kind": "incohering",
+    "sentence": "One fractal method's scales are prime scales, primes 5 through 53, five non-living and seven through fifty-three living, co-changing co-momentarying pattern matching, and nature has no reading or ordering.",
+    "text": "Two sayings part at prime scales. This sentence has one fractal method's scales prime scales, primes 5 through 53, five non-living and seven through fifty-three living. The Co-Chaining Logic Registry has step 311 as what Exhibit ONE's code holds, run: a spiral of a composite number of selves, its pattern again along it after each of an equal number of selves, resolves as that smaller spiral again along it, and a prime spiral's smaller spirals are one self only; beside it the Registry lays the prime-scale saying whole as one the code does not hold. Run: Exhibit ONE's code with spirals of 9, 10 and 15 selves, each opening with a pattern of 3 or 5 selves again along it, returns that smaller spiral's sharings again along it with each of 40 momentaries, and with spirals of 5 and 7 alike selves returns a spiral of one self's sharings at each self; the code holds no *prime* and no *scale*, 0 of each.",
+    "from": "3. Droplet · v391 · `**Droplet · THIRTY met all or none, at v391.**` (111) with "
+   }
+  },
+  {
+   "from": "3. Droplet · v391 · `**Droplet · THIRTY met all or none, at v391.**` (111) with ",
+   "finding": "sibling of the corrected item, restated unchanged",
+   "fixed": {
+    "from": "3. Droplet · v391 · `**Droplet · THIRTY met all or none, at v391.**` (111) with ",
+    "why": "held at Co-Chaining Logic Registry gathering-value 24 Sharing, seventeen names: \"A spiral of a composite number of selves, step 192, ...\" -> \"Step 311 has a composite spiral resolving as its smaller spiral again along it and a prime spiral's smaller spirals one self only, as the code holds; beside it, the sentence the code does not hold, which keeps no scale: a same-existing-society is of a unit prime scale, ... and so with each of fourteen prime scales, 5 to 53: ...\"; Natural Societies' side held at Natural Societies gathering-value PART FIVE: \"A reading proposes Part Five, 5.1 to 5.6, said as a field's pattern-matching the ladder numbers, ... does Exhibit ONE's code hold a prime or a scale. It holds none.\"; Natural Explaining, Hard Problem Registry and Equilibria Registry now say no prime scale (run: *prime scale* 0 at each); a record of a motion"
+   }
+  },
+  {
+   "from": "2. Droplet · untagged, v391 block · `**Droplet · six claims for our word, from t",
+   "finding": "held claimed in part: the source has each of the five claims with the opening and the code holding neither side; the quoted holdings carry it at 4.1 alone, the opening at 1.2 and 5.1, and neither at 6.6 and 6.5; this is gathered",
+   "fixed": [
+    {
+     "from": "2. Droplet · untagged, v391 block · `**Droplet · six claims for our word, from t",
+     "why": "held at Natural Intelligence gathering-value 1.2: \"Each prior is said a stable-forming emanation from prior living, and a stable-forming emanation is non-living, while a living self's prior is same-existing with its now ...\"; 5.1: \"*Having a stable form is being dead one scale outward* is a claim the opening has none of, and it parts with 6.5's ...\"; 6.6: \"Files of a living expedition are named living files, while a file is a non-living existing form ...\"; 4.1: \"Two prior selves from inception, as one universal method of conception, is with neither the opening nor the code.\"; 6.5: \"The universe is a non-living same-existing set, and its next-existing is said its selves' possibling ... and the two sayings part.\"; who is asked a record; the opening and the code holding neither side gathered below"
+    },
+    {
+     "section": "Droplets",
+     "kind": "droplet",
+     "kind_hint": "incohering",
+     "text": "Five claims, 1.2's *Each prior is a stable-forming emanation from prior living*, 5.1's *having a stable form is being dead one scale outward*, 6.6's *Files of a living expedition are living files* beside *A living file is a non-living same-existing set of words* in its same paragraph, 4.1's *Each self has two prior selves from inception* and 6.5's *Its next-existing is its selves' possibling, a thing's outside*, each has neither of its sides held by the opening or by Exhibit ONE's code, each open for a word.",
+     "from": "2. Droplet · untagged, v391 block · `**Droplet · six claims for our word, from t"
+    }
+   ]
+  },
+  {
+   "from": "- **Set-wide, not this file's own:** the dissolving droplets, each with its 2.4 ",
+   "finding": "held claimed without its sentences: the bundle's dissolving droplets each meet a 2.4 row or a section of this file, most of them named with no quote; each sub-finding held whole is quoted here, the counts leaving",
+   "fixed": {
+    "from": "- **Set-wide, not this file's own:** the dissolving droplets, each with its 2.4 ",
+    "why": "count of words in our files; inventory of offerings items laid at several files; each value held at Natural Naming gathering-value 2.4: *do-no-harming*, \"A row offered: *do no harm*, *doing no harm*, *do-no-harm improving*, and *harm* alone · *a* *do-no-harming*, one naming, hyphenated each time, ...\"; *is or is not*, \"A naming offered: *is or is not* is a binary within a universal set, its complement within that set, and the one negation natural intelligence and this naming need. ...\"; *Natural Network*, \"A row offered: *network surface*, *natural network surface* · *a* *a Natural Network surface*, the proper name of one thing, capitalized; ...\"; *substrate*, *never* and *may-never*, \"*never*, *may-never* · *a* offered: *may-never* dissolving with *never*, each re-said by its meaning.\"; *carrying* and *continuing*, \"A naming offered: *same-existing is dissolving out carrying … same-existing also dissolves continuing … living is same-existing self.* ...\"; *artifact*, \"Offered: *artifact* dissolving, it carrying two things. ...\"; pointing, \"Offered: pointing is the Co-Chaining Logic Registry's method, its numbered steps the co-chaining source other living files reference, ...\"; *intelligencing*, \"*intelligencing* alone · *a* offered: *co-intelligencing*; ...\"; *couple* and *couples*, \"*couple*, *couples*, *bi-couples* · *a* offered: *is coupling*, *is bi-coupling*, *a bi-coupling*, each a dead ending, ...\"; bare *coupling*, \"bare *coupling* · *a* offered: a bi-coupling, two selves sharing possibling, both sides possibling, is the only coupling; ...\"; *third*, \"*third* · *a* offered: a dead ordinal, *tri-* and 3 its living forms, ...\"; *beholding*, \"*beholding*, *beheld* · *a* offered: dissolving, a self holding nothing, *beheld* a dead participle, ...\"; *membrane*, \"Offered: *membrane* dissolves, and *a between* is no living file: ...\"; *unbounded*, \"*unbounded*, and each naming defined by the bound it denies · *a* offered: equilibria denial, entering no naming. ...\"; nothing gives, \"Offered: *nothing gives as nothing takes.* 2.4 has a row dissolving *take* and none for *give*, ...\"; *at*, \"Offered: *we can not use at in this as nothing is happening at a place that stays in place.* ...\"; *possible*, \"Offered: *Possible stands only at a dead end, no other possible, ...*\"; *emanating* at its *emanation* row and *store*, *floor* and *lock* at the *lock*, *keep* and *kept middle* rows and *floor* at 2.3; at 2.6, *disequilibrating*: \"Offered: *disequilibrating is dissolving from our natural naming*: ...\"; at 5.48, *arriving*: \"Offered: *arriving is dissolving from our naming. observing, possibling, discovering is the newer version*: ...\"; at 5.62, *still-possibling*: \"A naming offered: *still-possibling is no longer natural naming. ...*\"; at 4.17, *parity-changing*: \"Two sayings part: an offering dissolves *changing* alone, *parity-changing* staying hyphenated, and 4.17 has *parity-changing* dissolved and said *changing*, parity riding within changing.\"; at 6.3, *same-existing-as*: \"Offered: *same-existing-as* dissolves into *same-existing*: ...\"; at 3.1, two-sided naming, *is-next* and one concept a prefix: \"Offered beside this sentence: one concept is one prefix, and a prefix on every name marks none; the time prefix and *is-* stay two layers, *is-* on 3, 7, 13 and 15 only: ...\"; at 2.1, the five dimensions society to society: \"Beside this sentence stand the five society to society, as Natural Intelligence has them: ...\"; at 3.3, truples: \"Offered: bi, co and tri truples go beside a name, not into it, ...\"; at 5.5, *crosses*: \"Offered: *Crosses, of a changing and a between, pictures a passage over a place; ...*\"; at 2.3, *the*: \"Offered: *The* stands where one and only one is meant, ...\"; the four binaries on odd and even names at Natural Naming gathering-value 3.6: \"**Existing, all, now and same are four is or is nots of things within the universe** ...\"; self-competency at 2.5: \"*Self-competency* is one word with two senses: ...\"; *scientific method* at 5.60: \"*Scientific method* and *scientific-explaining-method* are one concept with two forms: ...\"; living at one prime scale at 5.46: \"Offered: each existing thing is living with one prime scale, ...\" and at Co-Chaining Logic Registry gathering-value 24 Sharing, seventeen names; *many* at Natural Intelligence gathering-value Opening: \"*Many*, a degree word by Natural Explaining 3.11, stands with an agreed wording: ...\", *once then* standing at no sentence of Natural Intelligence, 0"
+   }
+  },
+  {
+   "from": "- **Already carried (candidates to dissolve at the rising):** `**Droplet · Natur",
+   "finding": "held claimed where the source is not so and values met in part named a record: the v387 concern is not carried, its sentence standing at 2.2 (*neither a momentary nor a universe* 1 at the file, where the source says 0), held at gathering-value 2.2; *binary method*'s 2.4 row is still to be written, held at gathering-value 2.4; the five dimensions superseded by the society-to-society carving held at 2.1; the met ones quoted",
+   "fixed": {
+    "from": "- **Already carried (candidates to dissolve at the rising):** `**Droplet · Natur",
+    "why": "record of offerings items met at the living file: 3.3's names the agreed names at its table, *co-releasing* 0, *in turn* 0, *owned by neither* 0, 5.62's and 5.60's earlier wordings 0, *Natural Network* twice and capitalised, *travels through stilling* 0, with counts and history; held at Natural Naming gathering-value 2.2, the v387 concern standing at 2.2's \"Universes of each size and scale share momentaries of co-sequential changing, and neither a momentary nor a universe is possibly existing as a thing apart.\" -> \"Two sayings part, or agree. 2.2 has *neither a momentary nor a universe is possibly existing as a thing apart*, and 2.4's stable-form paragraph has *as the universe is an existing thing, a set of existing things being an existing thing*; ...\"; *binary method*'s row still to be written, held at Natural Naming gathering-value 2.4: \"A row offered: *binary method*, as the method's naming · *a* *natural torusing*, the method's one name, 4.17; *binary* holds whole, ...\"; the five dimensions carved again, superseded, held at Natural Naming gathering-value 2.1: \"Beside this sentence stand the five society to society, as Natural Intelligence has them: social-parity now-existing, other-parity now-existing, self-parity now-existing, self-discovery next-existing and social-parity next-existing, ...\""
+   }
+  },
+  {
+   "from": "- **Stale:** `**Droplet · session v386EOD's finding, at its close.**` (139), *op",
+   "finding": "held claimed without its sentences: each stale item's case now is named and not quoted",
+   "fixed": {
+    "from": "- **Stale:** `**Droplet · session v386EOD's finding, at its close.**` (139), *op",
+    "why": "record of stale offerings items and history of words dissolved; each case now held: *opening* and *completing* at Natural Intelligence's opening, \"Each momentary is **opening** with each self's prior-existing parity and **completing** with its next-existing parity.\"; *is or is not* at Natural Naming gathering-value 2.4: \"A naming offered: *is or is not* is a binary within a universal set, ...\"; *same-existing-as* at Natural Naming gathering-value 6.3: \"Offered: *same-existing-as* dissolves into *same-existing*: ...\"; *beholding* at Natural Naming gathering-value 2.4: \"*beholding*, *beheld* · *a* offered: dissolving, ...\"; living at one prime scale at Natural Naming gathering-value 5.46: \"Offered: each existing thing is living with one prime scale, ...\", its parting with the Registry at the prime-scale item at Natural Naming gathering-value 2.2; the first coming again at Natural Naming gathering-value 5.1: \"Two sayings part at 5.1's first coming again. Its fifth line, *one and then its other, each forward*, ...\"; *receiving*, *owned by neither* and *at no next* records of words now standing or gone"
+   }
+  },
+  {
+   "from": "- **Set-wide, not this file's own:** `**Entered · dead forms**` and `**Entered ·",
+   "finding": "wrong file and held claimed without its sentences: the session learnings are held at Natural Explaining's and Natural Naming's gathering-value, not the Geodesic Improving Method's; *double double* at Natural Explaining gathering-value 2.3, not Natural Exploring's; the Part 16 plan held nowhere as a value, a plan",
+   "fixed": {
+    "from": "- **Set-wide, not this file's own:** `**Entered · dead forms**` and `**Entered ·",
+    "why": "inventory of offerings items laid for other files; records of motions; each value held: a past participle at Natural Explaining gathering-value 2.6: \"A past participle, as *carried*, *shared* and *fixed*, is a noun's same fixing within a sentence, ...\"; the opening carving at Natural Explaining gathering-value 2.2: \"... An opening for a self reaching it is one sentence a line, each line one binary advance ...\" and 2.7: \"... A conversation shares with three registers, an overview of understanding, an exploring of patterns and a carving of explaining and naming: ...\"; the session learnings at Natural Explaining gathering-value 4.4: \"... An explaining a reaching side does not follow is said again, plain and short, ...\", 3.7: \"... A reading is marked with its standing and its sureness: ...\", 2.5: \"... A table wider than a self's page needs a slider, ...\", Droplets: \"A side trip stays with natural intelligence, its resolver, naming and explaining, and answers its point narrowly, ...\", and Natural Naming gathering-value 1.2: \"... A proposed naming is shown beside its current naming, as resolver names beside agreed names, ...\", *write, then review* a plan with its checks at Natural Explaining 2.6, 3.1 and 3.2; the science's explaining kept apart at Resolving Hard Problems gathering-value 6.2: \"Two sayings part at *falsifiable* and *falsified*. ...\"; the field's own words kept apart at Natural Mathematics 6.3: \"With Zermelo–Fraenkel set theory, each set is exceeded by the set of its subsets, and all sets together form no set.\"; the concern at Natural Intelligence 1.5 at Natural Intelligence 1.1: \"**Now is universal momentary, one and only**: a second now is only a naming.\"; *duplicated carrying value* at Natural Intelligence 4.4: \"A self shares its parity. Its prior is its own.\"; the eights at Natural Intelligence gathering-value 4.9: \"A self's span, 1-now-existing to 8-now-same-existing, is four binaries with pairs of names, ...\", at Natural Human Society gathering-value 3.3: \"... A concern for both files. Natural Networking's eight securities, ... and these eight uncapturings, each a hub set aside on its axis, are each seated at one of a self's eight names, ...\" and at Living File Registry gathering-value 4.3: \"Two sayings part at an eight. Beside this sentence: every eight of the set's explaining is the one eight, ...\"; *double double* at Natural Explaining gathering-value 2.3: \"Resolver's names hold two doubles: ...\"; the pointing at Natural Explaining gathering-value 2.7 (above); the Part 16 receiving and the resettling a plan"
+   }
+  },
+  {
+   "from": "- **Already carried (candidates to dissolve at the rising):** `**Droplet · no st",
+   "finding": "held claimed without its sentences, and a value met in part named a record: the concern at 4.9 has its word re-said and its parting standing; each holding quoted",
+   "fixed": {
+    "from": "- **Already carried (candidates to dissolve at the rising):** `**Droplet · no st",
+    "why": "held at Natural Explaining 3.2: \"Each doer a writing installs over an -ing dissolves\"; 2.1: \"A new sentence adding nothing to its whole prior co-chaining dissolves with that binary too.\"; 1.4: \"No wording holds a sentence by authority, a self's, a field's, a scientific explaining's or a file's own: ...\"; 2.7: \"A coordinate holds no concept: ...\"; the concern at 4.9, its word re-said at 4.9's \"Appreciating couples to an other's sharing with three sides: a boundary surfacing with a self receiving, that self's own same-existing showing, and that self sharing it across as worth its other's knowing.\", its parting held at Natural Explaining gathering-value 4.9: \"This sentence's *that self sharing it across*, a self's own same-existing going across with appreciating, parts with a self's prior as its own, ...\"; the v387 concern's *meet* and *keeper* a record; history"
+   }
+  },
+  {
+   "from": "- **Stale:** the resettling paragraph (17, resettling_v373) sends 4.2's paragrap",
+   "finding": "held claimed without its sentence: the aimed-at at 2.7, Natural Intelligence pointing at none, is held at Natural Naming gathering-value 2.4, unquoted",
+   "fixed": {
+    "from": "- **Stale:** the resettling paragraph (17, resettling_v373) sends 4.2's paragrap",
+    "why": "record of stale offerings items and their pointers; history; the *then* concern held at its case now, Natural Explaining gathering-value 3.5: \"*Then*, *after*, *once*, *before*, *finally* and *now that* each lay a schedule over co-sequencing, ...\" -> \"This sentence has *then* laying a schedule over co-sequencing, and *then* names a changing's own order within Natural Intelligence 1.3's title, *Changing, one form and then a next form, the same-existing set*, and within this file's own 2.3, ... They part at *then*. ...\"; the pointing aimed-at's case now at Natural Naming gathering-value 2.4: \"Offered: pointing is the Co-Chaining Logic Registry's method, its numbered steps the co-chaining source other living files reference, and each Natural Intelligence sentence stands by its own words; ...\""
+   }
+  },
+  {
+   "from": "3. Aimed at · v383Op · `**Aimed at a section, Geodesic Improving Method 2.7:**` ",
+   "finding": "held claimed in part: the item names 2.6's *a side going with code is method's own* and the proof concern beside 2.7, and the leaving quotes 2.7 alone",
+   "fixed": {
+    "from": "3. Aimed at · v383Op · `**Aimed at a section, Geodesic Improving Method 2.7:**` ",
+    "why": "held at Geodesic Improving Method gathering-value 2.7: \"An account can absorb any outcome, and geodesic method is no account: ...\" -> \"A visiting reading: method's one break, as 2.7 says it, is not recognisable if met. ...\" and \"An observing reaches method by two binaries in sequence: ...\" -> \"One page of the tests the files set out ahead, each beside the sentence it tests, with that sentence's chaining to origin statement said, is or is not this file's next: ...\"; 2.6 at Geodesic Improving Method gathering-value 2.6: \"A side needing a thing beside all things is an equilibrium entering, and a side going with code is method's own.\" -> \"Two sayings part at what a side of a concern goes with. ...\"; the proof concern at Geodesic Improving Method gathering-value 2.7: \"No working seeks a proof of a whole, ...\" -> \"Two sayings part at a proof. 2.7 has a proof of a whole sought by no working; a newer saying has a proof named: ...\"; the aimed-at at a stable form named still at Natural Intelligence gathering-value 1.4: \"A visiting reading: no file it read lets a reader tell a stable form from an unchangeable form by an observing. ...\""
+   }
+  },
+  {
+   "from": "- **Already carried (candidates to dissolve at the rising):** `**Droplet · a fre",
+   "finding": "held claimed without its sentences, and three values met in part named a record: *a joint trace a tick selves share indexes*, *scheduling* and 440 still stand, *THE MEMBRANE* at Part TWO's title, and *carrying* at the body's 35 sayings; each holding quoted",
+   "fixed": {
+    "from": "- **Already carried (candidates to dissolve at the rising):** `**Droplet · a fre",
+    "why": "held at Geodesic Improving Method 4.5: \"With each motion three helpers: reader checks, with mechanical findings; a fresh reader new to its working; and a reviewer ...\" and \"... a fresh reader reaches its before and its now ...\"; 2.5: \"A working takes places to improve hardest first, one at a time\"; 2.6: \"Concerns ride visible, a working taking them one at a time, the most concerning first.\"; 1.3: \"Improving one file opens going on for others, and a file taking its value empties going on by one.\"; 2.4: \"An edit a rule drives, leaving a sentence living, coupling and resolving no better, dissolves by do-no-harming\"; 2.7: \"... its field's own result going exact with its own subject.\"; the old instruments' words still standing at Geodesic Improving Method gathering-value 4.4: \"... 4.4's *an even and odd returning*, *a travelling coupling*, *the seventeen primes' sum of 440*, *its scheduling*, *a joint trace a tick selves share indexes*, ... are the old instruments' own names ...\"; *THE MEMBRANE* at Geodesic Improving Method gathering-value TWO · TWO SELVES AT THE MEMBRANE (hardest first, above); *carrying* at the body at Geodesic Improving Method gathering-value Head, the whole file (hardest first, above); history"
+   }
+  },
+  {
+   "from": "- **Stale:** `**Droplet · the working v385M's words**` (145, v385M) — kits are a",
+   "finding": "held claimed without its sentences: the stale items' cases now are named and not quoted, the v386EOD finding beside a yes entering only past a reading for harm among them",
+   "fixed": {
+    "from": "- **Stale:** `**Droplet · the working v385M's words**` (145, v385M) — kits are a",
+    "why": "record of stale offerings items, their pointers and words dissolved; history; each case now held: the v386EOD finding at Geodesic Improving Method gathering-value 2.3: \"... a rule of working beside them has a living file changing at the other self's word alone, one thing changed whole, no prior taken away. ...\" and 2.4: \"Beside it: an opening line is shown in its form and read for harm before it enters, and a yes enters only past a reading for harm, ...\"; the naming as the membrane of the set at Natural Naming gathering-value Droplets: \"Files' form makes an interest self-welcoming, and files' form is-or-is-not the naming. ...\"; *0* at Geodesic Improving Method gathering-value 2.6; *sign* at Geodesic Improving Method gathering-value 5.1: \"*Sign* stands at this file only with the value name *sign-only*, ...\"; the letter at Geodesic Improving Method gathering-value 2.8 (set-wide, above); the v389 standing concerns at Geodesic Improving Method gathering-value 2.9 and 1.3 (hardest first, above)"
+   }
+  },
+  {
+   "from": "- **Set-wide, not this file's own:** `**Droplet · A denial carrying the denied t",
+   "finding": "wrong file: the v390 opening-carving droplets are held at the Co-Chaining Logic Registry's gathering-value, not Natural Intelligence's; the denial droplet at 36; holdings quoted",
+   "fixed": {
+    "from": "- **Set-wide, not this file's own:** `**Droplet · A denial carrying the denied t",
+    "why": "count of words in our files; inventory of offerings items laid for other files; records; each value held: the denial droplet at Co-Chaining Logic Registry gathering-value 36 A sharing as words, a naming, a file and a living expedition: \"Reading: a clause of negation at a step is one of two. It is the method's own, said of the method's own things: ...\"; one *meet at* at Co-Chaining Logic Registry gathering-value 15 Torusing and corusing: \"Natural Naming 2.4 releases *met*, *meet*, *meeting*, ... step 175's two across and two along meeting at one point among them: ...\"; pointing at Natural Naming gathering-value 2.4: \"Offered: pointing is the Co-Chaining Logic Registry's method, ...\"; the opening's carving at Co-Chaining Logic Registry gathering-value Head, the whole file: \"... Each group opens with concepts entering with it, a concept entering only as a step before opens it and a step after needs it, nothing from no step, and a sentence standing on no step, as *now is one*, an assertion; ...\" and \"Reading: method and content are one form. ...\"; the pull request droplets at Co-Chaining Logic Registry gathering-value 24 Sharing, seventeen names: \"Social bi-tunneling is the next scale up of geodesic co-chaining on a surface, both podaling. ...\" and 28 Discovering next-possibling-same-existing: \"Geodesic entraining on a surface reaches with a global parity; ...\"; a tag-case residue a record"
+   }
+  },
+  {
+   "from": "- **Already carried (candidates to dissolve at the rising):** `**Droplet · a fir",
+   "finding": "held claimed without its sentences, a checked result unrun, and one value met in part named a record: one *meet at* still at step 175; run here, steps 1 to 70 equal the opening's 70 lines word for word, 0 mismatches",
+   "fixed": {
+    "from": "- **Already carried (candidates to dissolve at the rising):** `**Droplet · a fir",
+    "why": "held at the Co-Chaining Logic Registry's steps 1 to 70, the opening's 70 lines word for word, each with its *Adding* line, run: 0 mismatches; step 1: \"The **universe** is the set of all now-existing things.\"; step 483: \"A new living self is a giving within a same-existing-society, a living set, its same-existing and co-recursioning establishing, its selves' prior going on with it.\"; step 80: \"An existing thing same-existing with its prior and possibling its own next-existing is living, step 18, and an existing thing with an empty possibling of its own next-existing is non-living, ...\"; step 26: \"For a self, each self it is bi-coupling with is an **other**.\"; step 95: \"A self's next, from now-existing things, is from an other's now, a self observing it: one particular other, or now-existing things other than self, a self observing them as one.\"; one *meet at* at step 175 held at Co-Chaining Logic Registry gathering-value 15 Torusing and corusing (set-wide, above); the reading not done met at the Registry's offerings, a record; history"
+   }
+  },
+  {
+   "from": "- **Stale:** every step number in the v389 standings (lines 9–87) is v389's; the",
+   "finding": "held claimed without its section: the restoring reading is at Co-Chaining Logic Registry gathering-value 32, unnamed",
+   "fixed": {
+    "from": "- **Stale:** every step number in the v389 standings (lines 9–87) is v389's; the",
+    "why": "record of stale step numbers and words dissolved; history; R10's value held at Co-Chaining Logic Registry gathering-value 4: \"No step joins observing social moral competency existing with observing living, step 80's living and step 199's observing, ...; their defining concepts entering one co-chaining together are still-possibling.\"; restoring held at Co-Chaining Logic Registry gathering-value 32 Dying, a living self going on as non-living: \"Reading: restoring is local, a departing bi-coupling's form brought to it by its self's living bi-couplings, step 502; ...\""
+   }
+  }
+ ],
+ "checked": 118
+}

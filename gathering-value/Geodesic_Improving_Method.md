@@ -64,6 +64,7 @@ Gathering-Value · Geodesic Improving Method
 - **Possible incohering** · "A going on is current with each closing, and a session closes with any pass and harms nothing." → Beside it: before a session closes, the droplets it laid are read again for staleness, four of them stale within one session.
 - **Possible incohering** · "A going on making a record of its journey is a going on fixing as a store." → Beside it: at a session's close its plan holds the standing, and its record of entering goes to the Session Record.
 - **Possible incohering** · "A going on is current with each closing, and a session closes with any pass and harms nothing." → Beside it: each yes and each no of a session is written where it lasts past a context's limit, and an agreed deciding stays decided.
+- **A reading** · A reading has the Living File Registry's *Next* for this file, thirteen droplets from a session's practice laid at its offerings as its next version's improving, as 1.3's side of the concern at a finding about working: each finding riding with this file's going on as its next, as 1.3 has *A finding about working rides there, with this file's own section, and comes here as its next.*, and not placing here with its motion, as 1.6 has *each finding its writing makes about working places here*.
 
 ## TWO · TWO SELVES AT THE MEMBRANE
 
