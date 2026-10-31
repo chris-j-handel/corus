@@ -1,0 +1,167 @@
+{
+ "corrections": [
+  {
+   "from": "**At 1.2 · Three standings, looping out and back — beside \"a living thing carrie",
+   "finding": "Meaning changed by attribution: the draft says the source's side as Natural Intelligence's (\"As Natural Intelligence has it ...: a living file has none of its prior by itself\"), while Natural Intelligence holds no such sentence; the source's side is said as the source's, and the living sentences beside it are quoted as they stand (Natural Intelligence's two sentences and Geodesic Improving Method 4.5's, the one the source itself names).",
+   "fixed": [
+    {
+     "section": "1.2 Three standings, looping out and back",
+     "kind": "incohering",
+     "sentence": "The second is within living: a living file carries its subject and replaces its prior within repository, published as site lists it; and a living carrying carries expedition between its sessions, carry, kits, tools and incoming.",
+     "text": "A living file is-or-is-not within living. As 1.2 has it, a living file carries its subject and replaces its prior within repository, a living thing carrying its prior to its next. Beside it, a living file has none of its prior by itself: it is a non-living existing thing an expedition's living selves have, and it is living as a living expedition's going on, the files a living expedition's going on, and an expedition is living as long as it goes on discovering do-no-harming and improving at its next files; Natural Intelligence has *Files of a living expedition are living files, a living expedition's prior same-existing.* and *Each file is a non-living existing form, a stable-forming emanation of an expedition's living selves.*, Geodesic Improving Method 4.5 has *a living expedition's carrying being living files, each a non-living existing form its living selves carry*, and Natural Naming 2.4 has *living is stable-forming a self*. Two sides: a living file living, or a non-living existing thing its living selves have.",
+     "from": "**At 1.2 · Three standings, looping out and back — beside \"a living thing carrie"
+    },
+    {
+     "from": "**At 1.2 · Three standings, looping out and back — beside \"a living thing carrie",
+     "why": "pointer, its last sentence; the living file's side held at Natural Intelligence 6.6: \"Each file is a non-living existing form, a stable-forming emanation of an expedition's living selves.\" and \"An expedition is a same-existing-society of living selves only as long as it can go on discovering do-no-harming and improving next living expedition files.\", and at Geodesic Improving Method 4.5: \"a living expedition's carrying being living files, each a non-living existing form its living selves carry\""
+    }
+   ]
+  },
+  {
+   "from": "**Concern · 1.3's places table and workings table stand at v375 to v381.** The p",
+   "finding": "Meaning changed: the source has all workings closed but v391's row, which says *not merged* after its pull request merged it (the repository's history holds that working merged at pull request 148); the draft says one working stands open. The value, a row reading open after its working's merging, is said.",
+   "fixed": [
+    {
+     "section": "1.3 Carrying for expedition",
+     "kind": "incohering",
+     "sentence": "Each carries its own name and files it is with; two with one file couple here before either edits it; a working closes by passing its row to Session Record with its session's paragraphs.",
+     "text": "Beside it: this table has workings all closed, the row *Explaining natural intelligence* among them still reading *Open, pushed, not merged at `main`* after that working's merging, while a working closes by passing its row to Session Record, this sentence's own rule.",
+     "from": "**Concern · 1.3's places table and workings table stand at v375 to v381.** The p"
+    },
+    {
+     "from": "**Concern · 1.3's places table and workings table stand at v375 to v381.** The p",
+     "why": "its pull request number, record; its counts of folders and workings in our file"
+    }
+   ]
+  },
+  {
+   "from": "**Concern · one re-saying of 1.3's table of places.** Living File Registry 1.3's",
+   "finding": "An item dropping part of its source: the v387 saying gathered here lists *progres* (progress) among what is inside the living files set; the draft drops it.",
+   "fixed": {
+    "section": "1.3 Carrying for expedition",
+    "kind": "incohering",
+    "sentence": "Each entry: **Place** · *a* Holds · *b* Standing at v375",
+    "text": "1.3's table of places stands at an older layout of carrying: its column reads *Standing at v375*, it names ten `incoming/` folders standing nowhere now, *Incoming; three receivings open* among its rows, and several concerns at this file each touch one of its rows. Each living file has four places, the file, its offerings, its carryings and its possibling; beside it, each arriving stands at `archive/` with its value at offerings, the incoming holding nothing, and each plan, method, idea and instruction for an incoming AI and for users, each self-welcoming word, each progress, and each prior, now and next plan and possible is inside the living files set, with nothing inside the unvetted incoming. A re-saying offered: 1.3 re-said whole at one motion at the four places, its rows' concerns resolving together; the other side, each row's concern resolved apart.",
+    "from": "**Concern · one re-saying of 1.3's table of places.** Living File Registry 1.3's"
+   }
+  },
+  {
+   "from": "- **Concern · *Coupling with a bond*, at 672:** Line 672's *water molecules coup",
+   "finding": "A claim stronger than its source and something added: the source has Natural Chemistry entering no bond; the draft adds *of any kind* and its own re-saying of Natural Chemistry. Natural Chemistry's sentence is quoted as it stands instead.",
+   "fixed": [
+    {
+     "section": "3.4 Prime scales coupling with sciences",
+     "kind": "incohering",
+     "sentence": "Chemistry, bonding, benzene, hydration and reacting; Biology, molecular coupling; Living Society Registry, water molecules coupling with a bond.",
+     "text": "*Water molecules coupling with a bond* names a bond, while Natural Chemistry now enters no bond: it has *What chemistry calls a bond is, within a molecule, its stable form, same-existing with each resolving, and, between molecules, a bi-coupling of two selves*.",
+     "from": "- **Concern · *Coupling with a bond*, at 672:** Line 672's *water molecules coup"
+    },
+    {
+     "from": "- **Concern · *Coupling with a bond*, at 672:** Line 672's *water molecules coup",
+     "why": "pointer, a line number and its living learning"
+    }
+   ]
+  },
+  {
+   "from": "**6 · No warning inside intelligence, no recommending, and no opinion about soci",
+   "finding": "A side dropped and a parting of the drafter's own making: the source's standing seats the whole rule, no warning, no recommending and no mention of individuals, at Living Improving Value or at this registry with 5.5 re-explained, while the draft's 5.5 item names *this rule* and gives none of it, and its *no mention of individuals* goes to Geodesic Improving Method 2.7 beside a sentence on public records the source names nowhere. Held claimed for a partial value: Natural Explaining 4.10's *A mark or a protection with one place blesses each other place, a grading with no method under it* is a protection within a file, and holds neither warnings not begun inside intelligence nor their incompetencing the intelligence. The whole rule is gathered at 5.5, the 2.7 item withdrawn, and the leaving said true.",
+   "fixed": [
+    {
+     "section": "5.5 Expedition and shared human collective discovering",
+     "kind": "incohering",
+     "sentence": "Social moral competency is carried through that discovering now.",
+     "text": "Two sayings part at social moral competency. 5.5 has it carried through discovering now; beside it, the expedition has no opinion about social moral competency, and the society is resolving social health with all available natural intelligence. That saying goes with a rule for a whole expedition, with no seat at this registry's subject: the expedition has no mention of individuals and makes no recommendations, and warnings are not begun inside intelligence, all the warnings giving the unwarned an elevated relative safety that is incompetencing the intelligence. Two sides: this rule seated at Living Improving Value, or at this registry with 5.5 re-explained.",
+     "from": "**6 · No warning inside intelligence, no recommending, and no opinion about soci"
+    },
+    {
+     "from": "**6 · No warning inside intelligence, no recommending, and no opinion about soci",
+     "why": "its *The only observings come from science and nature* gathered with line 33's item at Geodesic Improving Method 2.7"
+    },
+    {
+     "from": "**6 · No warning inside intelligence, no recommending, and no opinion about soci",
+     "why": "its warnings, its recommending and its mention of individuals gathered whole with the 5.5 concern, Natural Explaining 4.10 holding them in part only"
+    }
+   ]
+  },
+  {
+   "from": "**Concern · Carry, a folder's name.** A name exact at a working can arrive at an",
+   "finding": "An item at the wrong file and section: the source's standing seats this at Living File Registry 1.2's *its offerings, its carryings and its possibling at `carry/`* and says nothing parts; the draft sets it at Natural Naming 2.4's row for *mate*, which names no folder, so the row reads as a parting the source does not hold.",
+   "fixed": {
+    "section": "1.2 Three standings, looping out and back",
+    "kind": "incohering",
+    "sentence": "Each living file stands with four places: itself within root, and its offerings, its carryings and its possibling within `carry/`.",
+    "text": "A name exact at one working can reach another working as a word of packaging with no relation there, as *Carry Set* did. The folder of each living file's offerings, possibling and carryings is `carry/`, and a folder's name is asked that says its own at a first reading, showing those three. Two sides: a new name for `carry/`, or `carry/` kept.",
+    "from": "**Concern · Carry, a folder's name.** A name exact at a working can arrive at an"
+   }
+  },
+  {
+   "from": "**Droplet · after the naming motion, v390.** Names alone moved, and each file's ",
+   "finding": "A parting of the drafter's own making, at another file: the source, at this registry's offerings, says bringing all files to one version at a session's close keeps one version across the set, and names no parting with Geodesic Improving Method 1.6; the draft makes it a concern there with two sides of its own. Its value is set beside this registry's own sentence on versions, 1.1, with no sides added.",
+   "fixed": [
+    {
+     "section": "1.1 Titles, subtitles and living files at repository",
+     "kind": "incohering",
+     "sentence": "An improving is an edit that is, with do-no-harm; a file's version is its last improving, and a file carried on with no edit is its same version.",
+     "text": "Beside it: each file of a set brought to a session's version together at that session's close keeps one version across the set, all or none.",
+     "from": "**Droplet · after the naming motion, v390.** Names alone moved, and each file's "
+    },
+    {
+     "from": "**Droplet · after the naming motion, v390.** Names alone moved, and each file's ",
+     "why": "plan of words waiting for passes and a record of files' versions; its value gathered at Living File Registry 1.1"
+    }
+   ]
+  },
+  {
+   "from": "**2 · An observing is an existing thing arriving, from science and from nature, ",
+   "finding": "An item dropping part of its source: line 33's *any and each possible existing stable form living that we can observe incoming* loses *living* and *incoming* at the Geodesic Improving Method 2.7 item (*stable form* of living said *stable-forming*, Natural Naming 2.4). The archive concern and the two leavings sharing this from are restated unchanged.",
+   "fixed": [
+    {
+     "section": "1.2 Three standings, looping out and back",
+     "kind": "incohering",
+     "sentence": "An observing not yet binary, an arithmetic not yet matched, a proposal withdrawn and a trace of a prior code are not value for carrying: each stands within `archive/` whole, its receiving file here, until a session makes it binary, and carrying carries for each file its next motion, its open concerns for both with their reasons, and incoming that enters whole.",
+     "text": "Two sayings part at an observing not yet binary. 1.2 has each one standing within `archive/` whole, its receiving file here, until a session makes it binary; 1.3's row for each living file's carrying has *an observing not yet a sentence at a section goes to `archive/` whole with its receiving*; 1.4 has *Nothing within `archive/` or within history is observed for a next*. Beside them: the observings accumulate at each living file's carryings, an observing and its field's explaining apart; a possible value lying at an artifact, explored again only at a restarting from a catastrophe, is no method's, as Geodesic Improving Method 1.5 has *A value with a next yet open rides with its file's going on and not with an archive, which opens again only with a restarting.*; and a thing a session discovers is a concept, said in the best naming and explaining available and placed visible at its subject, at its living file or at its offerings, its possibling or its carryings, or it is of no value and released, with no third place: a thing named an artifact is at no living place and visible to no one. Two sides: an observing not yet binary at its file's offerings or carryings, or at `archive/` until binary.",
+     "from": "**2 · An observing is an existing thing arriving, from science and from nature, "
+    },
+    {
+     "file": "Geodesic Improving Method",
+     "section": "2.7 An observing a working brings as a break, at five binaries first and at six beside",
+     "kind": "incohering",
+     "sentence": "Observings a working brings come through fields' publishing and a search's returning: that selection is a working's own and not method's, and it is beside its bringing.",
+     "text": "Beside it: an observing is any and each possible existing living stable-forming a self can observe incoming, an existing thing a self observes with its doing, its conditions and its publishing, and each observing comes from science or from nature.",
+     "from": "**2 · An observing is an existing thing arriving, from science and from nature, "
+    },
+    {
+     "from": "**2 · An observing is an existing thing arriving, from science and from nature, ",
+     "why": "its explaining apart held at Natural Explaining 1.6: \"Incoming, an observing goes across bare: a field's word goes whole, and a ground a self takes it against grounds nothing.\"; its pattern matching held at Geodesic Improving Method 2.7: \"An account can absorb any outcome, and geodesic method is no account: its pattern matchers take each observing and each emanation without filter or selection.\""
+    },
+    {
+     "from": "**2 · An observing is an existing thing arriving, from science and from nature, ",
+     "why": "copy of the item at line 33, its *carrying mate* said at offerings, carryings and possibling, Natural Naming 2.4"
+    }
+   ]
+  },
+  {
+   "from": "**Possible file-changing droplet.** The policy, regulation and software material",
+   "finding": "A value lost: the leaving calls it a plan originating an exhibit no living file holds, while its standing holds a concern with two sides, a refinement at the social files or a separate exhibit, and its offered names stand at Natural Intelligence Corus as an observing; the concern, its names and its purpose are gathered whole at 5.12, where the need for separate social exhibits is said.",
+   "fixed": {
+    "section": "5.12 Transmissioning, societies and human society",
+    "kind": "incohering",
+    "sentence": "SIX, SEVEN and NINE carry three distinguishable relations, with unequal need for separate exhibits.",
+    "text": "Two sides part at policy, regulation and software. A possible exhibit offers the names Ghost Offices, Hard Problem Headquarters and Social Incompetence at Regulation-Gating Substrates, a title at no living file, Natural Intelligence Corus having *Observing (Ghost Offices / Hard Problem Headquarters / Social Incompetence at Regulation-Gating Substrates)*; its purpose is explaining where institutional accountings become operational requirements at compliance software, approval workflows, credentials, permissions and intellectual-property licensing, comparing each actual coupling with its proposed inequality collapse and restoring, and retaining particular protections already described in Natural Societies. No title and no separate exhibit is chosen. Two sides: policy and regulation as a refinement at Society, Natural Societies and Natural Human Society, or a separate exhibit.",
+    "from": "**Possible file-changing droplet.** The policy, regulation and software material"
+   }
+  },
+  {
+   "from": "- **Its Hard Problem Registry cell** says readers stopped *twice*; the session's",
+   "finding": "A value lost and a number dropped: the source sets a cell's *twice* against a record of three, two and one; the cell still stands at Hard Problem Registry's row, so the parting is gathered at that cell with each number whole.",
+   "fixed": {
+    "section": "1.1 Titles, subtitles and living files at repository",
+    "kind": "incohering",
+    "sentence": "entries 122 on not yet read, readers stopping there twice",
+    "text": "Hard Problem Registry's *Living* cell has readers stopping at entries 122 on *twice*; the record of those readings has three times, two at the session's last quarter and one at its third.",
+    "from": "- **Its Hard Problem Registry cell** says readers stopped *twice*; the session's"
+   }
+  }
+ ],
+ "checked": 117
+}
