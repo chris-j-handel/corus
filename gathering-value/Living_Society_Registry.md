@@ -2,7 +2,7 @@ Gathering-Value · Living Society Registry
 
 # Living Society Registry · Gathering-Value
 
-**Each value not yet in Living Society Registry, at the section it meets.** A possible exploring is an observing not yet meeting natural torusing, said as the observing alone, with the sentence it meets. A possible incohering is a sentence not yet cohering, with its cohering re-saying beside it. A value whose place is not yet clear is a droplet at the back.
+**Each value Living Society Registry does not hold, at the section it meets.** A possible exploring is an observing not meeting natural torusing now, said as the observing alone, with the sentence it meets. A possible incohering is a sentence not cohering now, with its cohering re-saying beside it. A value whose place is still-possibling is a droplet at the back.
 
 ## Head, the whole file
 
@@ -54,7 +54,7 @@ Gathering-Value · Living Society Registry
 
 ### 2.3 A proton as a passing along water
 
-- **Possible exploring** · Not yet observed directly, reference numbers alone: in an electric field of 100 volts a metre at 298 K, the proton and the hydroxide ion move at 36.23 and 20.64 micrometres a second, and protons move over four times as fast as water molecules, each from movement in an electric field. — at "Proton mobility, under twice a hydroxide ion's and about seven times a sodium ion's, entering as a diffusion coefficient."
+- **Possible exploring** · An anticipated observing, reference numbers alone: in an electric field of 100 volts a metre at 298 K, the proton and the hydroxide ion move at 36.23 and 20.64 micrometres a second, and protons move over four times as fast as water molecules, each from movement in an electric field. — at "Proton mobility, under twice a hydroxide ion's and about seven times a sodium ion's, entering as a diffusion coefficient."
 
 ### 2.4 A threshold at a perceiving self
 

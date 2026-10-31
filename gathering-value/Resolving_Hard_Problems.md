@@ -2,7 +2,7 @@ Gathering-Value · Resolving Hard Problems
 
 # Resolving Hard Problems · Gathering-Value
 
-**Each value not yet in Resolving Hard Problems, at the section it meets.** A possible exploring is an observing not yet meeting natural torusing, said as the observing alone, with the sentence it meets. A possible incohering is a sentence not yet cohering, with its cohering re-saying beside it. A value whose place is not yet clear is a droplet at the back.
+**Each value Resolving Hard Problems does not hold, at the section it meets.** A possible exploring is an observing not meeting natural torusing now, said as the observing alone, with the sentence it meets. A possible incohering is a sentence not cohering now, with its cohering re-saying beside it. A value whose place is still-possibling is a droplet at the back.
 
 ## Head, the whole file
 
@@ -66,13 +66,12 @@ Gathering-Value · Resolving Hard Problems
 
 ### 5.1 Four observings at a resolver
 
-
 ### 5.2 Two accounts at one sharing
 
 ### 5.3 An origin, living from living
 
 - **Possible incohering** · "Living is prior: living comes from living, each self a giving with a prior self, and a non-living existing thing is non-living with its next." → Four sentences ask one defining of living used at each, and one observing parting an existing thing with its prior same-existing from one with none. Natural Intelligence has *Living and non-living are one binary of each now-existing thing.*, and Natural Naming 2.4 has *non-living* as *existing with no prior of its own*; this file has this sentence, and Co-Chaining Logic Registry has *scales of living, their first living and their final one an empty set*; Natural Physics has *Atom is a floor, a non-living stable form, and molecule the first closing of co-agency to a self*, said of scale, the step from a floor of scale to a first in time said at no living file; and Natural Biology has *a self observes the first living with a deep-ocean hydrothermal vent*. With the first atoms some 380,000 years after the beginning: a first self at a floor leaves a span with no self, living coming from non-living; a self under it living sets the floor elsewhere; and a first living at a vent comes from what was not living. With resolver, this file's own thing with no prior, receiving + once and sharing + as it is, its next prior from then on, is by that binary a non-living thing at one momentary and a living one at its next, a parting the universal claim's file holds open already. Two sides open: one existing thing named with its prior same-existing at one minute after the beginning, or a first self and a floor said as of scale only.
-- **Possible exploring** · The microwave background is a black-body at 2.72548 ± 0.00057 K; not yet observed directly: it is light from the forming of the first atoms of hydrogen some 380,000 years after the beginning, and in the first minutes no atom is; the Moon-forming impact leaves the early Earth molten. — at "Living is prior: living comes from living, each self a giving with a prior self, and a non-living existing thing is non-living with its next."
+- **Possible exploring** · The microwave background is a black-body at 2.72548 ± 0.00057 K; an anticipated observing: it is light from the forming of the first atoms of hydrogen some 380,000 years after the beginning, and in the first minutes no atom is; the Moon-forming impact leaves the early Earth molten. — at "Living is prior: living comes from living, each self a giving with a prior self, and a non-living existing thing is non-living with its next."
 
 ### 5.4 A measurement, a prior a self is observing now
 

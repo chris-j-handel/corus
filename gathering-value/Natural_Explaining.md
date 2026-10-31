@@ -2,7 +2,7 @@ Gathering-Value · Natural Explaining
 
 # Natural Explaining · Gathering-Value
 
-**Each value not yet in Natural Explaining, at the section it meets.** A possible exploring is an observing not yet meeting natural torusing, said as the observing alone, with the sentence it meets. A possible incohering is a sentence not yet cohering, with its cohering re-saying beside it. A value whose place is not yet clear is a droplet at the back.
+**Each value Natural Explaining does not hold, at the section it meets.** A possible exploring is an observing not meeting natural torusing now, said as the observing alone, with the sentence it meets. A possible incohering is a sentence not cohering now, with its cohering re-saying beside it. A value whose place is still-possibling is a droplet at the back.
 
 ## Head, the whole file
 

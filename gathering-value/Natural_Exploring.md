@@ -2,7 +2,7 @@ Gathering-Value · Natural Exploring
 
 # Natural Exploring · Gathering-Value
 
-**Each value not yet in Natural Exploring, at the section it meets.** A possible exploring is an observing not yet meeting natural torusing, said as the observing alone, with the sentence it meets. A possible incohering is a sentence not yet cohering, with its cohering re-saying beside it. A value whose place is not yet clear is a droplet at the back.
+**Each value Natural Exploring does not hold, at the section it meets.** A possible exploring is an observing not meeting natural torusing now, said as the observing alone, with the sentence it meets. A possible incohering is a sentence not cohering now, with its cohering re-saying beside it. A value whose place is still-possibling is a droplet at the back.
 
 ## Head, the whole file
 
@@ -95,7 +95,6 @@ Gathering-Value · Natural Exploring
 
 ### 4.6 A reaching's competency constant, a gathering's climbing
 
-
 ### 4.7 Inseparating
 
 ## 5 Accountings for changing, and a method observing them
@@ -133,7 +132,7 @@ Gathering-Value · Natural Exploring
 ### 6.7 A school, a flock, a voyaging people, an orienting surface in no self alone
 
 - **Possible incohering** · "A network exploration following one self's record, or one instrument's clock, is following an orienting the network is-not having." → Two sayings part at this sentence. It has a network exploration following one self's record or one instrument's clock following an orienting the network is-not having, beside a network of resolvers a same-existing-society, its orienting in no self alone; the other side has it a claim apart from 6.7's observings, unclear, a record and a clock lying over changing, and the paragraph whole closing at a network of resolvers, a same-existing-society, its orienting in no self alone.
-- **Possible exploring** · Not yet observed directly: in a fish school a startle can pass fish to fish faster than one fish swims, in some observings. — at "A school's sharing goes along each fish's own seeing, from its own side, and a wave goes across the school, foreseeable at its first fish and still the school's own."
+- **Possible exploring** · An anticipated observing: in a fish school a startle can pass fish to fish faster than one fish swims, in some observings. — at "A school's sharing goes along each fish's own seeing, from its own side, and a wave goes across the school, foreseeable at its first fish and still the school's own."
 
 ### 6.8 Eight legs, five dimensions in two directions
 
@@ -190,6 +189,6 @@ Gathering-Value · Natural Exploring
 - A golden relation visible in a stable form, at any share of sunflower heads, stands outside a test of natural torusing. *(possible exploring)*
 - The observing that could break the method is living competency with changing and changing back, and natural torusing, absent beneath it, its living recognized apart from assuming changing and changing back. *(possible exploring)*
 - Each specimen's preparation, the constraints a preparing sets, the response an instrument records, its inference and its available timing go together, with a still image, a succession of samples, a time bound and a simulation's duration each its own. *(possible exploring)*
-- A particular co-chaining's binary disconnecting is still to join with same-momentary across bi-tunneling, its units not-changing, while honeycomb patterns, opposite spatial hands with projection controls, not yet observed directly, differing fiber structures and activity using resources a self stores are each still incoming. *(possible exploring)*
-- Opposite spiral hands, not yet observed directly, are incoming with a front/back ambiguity and orientation controls, and neither a flat projection alone nor a dismissing of an interpretation completes their resolving. *(possible exploring)*
+- A particular co-chaining's binary disconnecting is still to join with same-momentary across bi-tunneling, its units not-changing, while honeycomb patterns, opposite spatial hands with projection controls, an anticipated observing, differing fiber structures and activity using resources a self stores are each still incoming. *(possible exploring)*
+- Opposite spiral hands, an anticipated observing, are incoming with a front/back ambiguity and orientation controls, and neither a flat projection alone nor a dismissing of an interpretation completes their resolving. *(possible exploring)*
 - A disturbing front in sparse interstellar gas is a concrete concern for light-only transmission, while its correspondence to a slower NI prime scale remains open. *(possible exploring)*

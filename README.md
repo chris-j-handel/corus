@@ -10,17 +10,17 @@ Paste this README's link into an AI session with your question, a research sourc
 
 ## The one binary
 
-**Each observing is-or-is-not natural torusing now. An observing not yet reaching it is still-possibling: the method's next step, or its one break.** The still-possibling side is the opportunity.
+**Each observing is-or-is-not natural torusing now. An observing not reaching it now is still-possibling: the method's next step, or its one break.** The still-possibling side is the opportunity.
 
 ## Two places at each living file
 
-Each living file has two places: the living file at the root, and its gathering-value, `gathering-value/<Title>.md`, each value not yet in the living file, at the section it meets. A gathering-value file's contents are its living file's contents, part by part and section by section. At each section:
+Each living file has two places: the living file at the root, and its gathering-value, `gathering-value/<Title>.md`, each value the living file does not hold, at the section it meets. A gathering-value file's contents are its living file's contents, part by part and section by section. At each section:
 
-- **A possible exploring:** an observing not yet meeting natural torusing, said as the observing alone, with the living-file sentence it meets.
-- **A possible incohering:** a living-file sentence not yet cohering, with its cohering re-saying beside it.
+- **A possible exploring:** an observing not meeting natural torusing now, said as the observing alone, with the living-file sentence it meets.
+- **A possible incohering:** a living-file sentence not cohering now, with its cohering re-saying beside it.
 - **An explaining:** an explaining of an observing or a sentence, said plainly as an explaining, never as an observing. There is only observing and explaining.
 
-**Droplets are at the back:** each a value whose section is not yet clear.
+**Droplets are at the back:** each a value whose section is still-possibling.
 
 `kits/` carries the checks, coupling partners deciding nothing; `kits/Gathering_Value_Kit/` writes a gathered value into its gathering-value file, after a separate reading for harm, all or none. `incoming/` is a working's arriving, whole. `archive/` is each session's emanation, relied on by nothing; git carries each prior version.
 

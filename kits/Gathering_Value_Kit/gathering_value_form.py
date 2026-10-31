@@ -75,9 +75,9 @@ def write(living, path):
     old = existing_items(path)
     used = set()
     L = [f'Gathering-Value · {title}', '', f'# {title} · Gathering-Value', '',
-         f'**Each value not yet in {title}, at the section it meets.** A possible exploring is an observing not yet meeting '
-         'natural torusing, said as the observing alone, with the sentence it meets. A possible incohering is a sentence not yet '
-         'cohering, with its cohering re-saying beside it. A value whose place is not yet clear is a droplet at the back.', '']
+         f'**Each value {title} does not hold, at the section it meets.** A possible exploring is an observing not meeting '
+         'natural torusing now, said as the observing alone, with the sentence it meets. A possible incohering is a sentence not '
+         'cohering now, with its cohering re-saying beside it. A value whose place is still-possibling is a droplet at the back.', '']
 
     GONE = ' (a section the living file no longer has)'
 

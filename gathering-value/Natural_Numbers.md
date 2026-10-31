@@ -2,7 +2,7 @@ Gathering-Value · Natural Numbers
 
 # Natural Numbers · Gathering-Value
 
-**Each value not yet in Natural Numbers, at the section it meets.** A possible exploring is an observing not yet meeting natural torusing, said as the observing alone, with the sentence it meets. A possible incohering is a sentence not yet cohering, with its cohering re-saying beside it. A value whose place is not yet clear is a droplet at the back.
+**Each value Natural Numbers does not hold, at the section it meets.** A possible exploring is an observing not meeting natural torusing now, said as the observing alone, with the sentence it meets. A possible incohering is a sentence not cohering now, with its cohering re-saying beside it. A value whose place is still-possibling is a droplet at the back.
 
 ## Head, the whole file
 
@@ -41,7 +41,7 @@ Gathering-Value · Natural Numbers
 ### 2.2 Inward to one number, outward to each place a self observes it
 
 - **Possible exploring** · Of the first seventeen sums of primes from two, seven are a square or one from a square: 2, 5, 10, 17, 100, 197 and 440. — at "Outward, it couples with each place a self observes it same way: four hundred forty as seventeen primes added, as eight fifty-fives, and as twenty-one squared less one."
-- **An explaining** · Not yet observed directly: seven of seventeen sums a square or one from a square comes about one in fourteen by chance alone at the seventeenth, and more often with each further form an explaining allows itself. Seven of seventeen is true numbers coupling by a shared numeral, an explaining.
+- **An explaining** · An anticipated observing: seven of seventeen sums a square or one from a square comes about one in fourteen by chance alone at the seventeenth, and more often with each further form an explaining allows itself. Seven of seventeen is true numbers coupling by a shared numeral, an explaining.
 
 ## THREE · UNRELATIONING
 
@@ -55,7 +55,7 @@ Gathering-Value · Natural Numbers
 
 ### 3.3 A rational winding closes, and a winding at φ closes at none
 
-- **Possible exploring** · Not yet observed directly: within the standard map invariant circles are approached by sequences of periodic orbits and their residues computed, a circle broken at residues growing with no bound; the golden-mean circle is critical near 0.9716, and its being the last circle to break is a field's conjecture with numerical support. — at "With a field's words, a torus winding by the golden mean is last to break as a coupling grows: within the standard map a curve with rotation number (√5 − 1)/2 is critical with K ≈ 0.9716 (Greene, 1979), a field's computing agreeing and no proof."
+- **Possible exploring** · An anticipated observing: within the standard map invariant circles are approached by sequences of periodic orbits and their residues computed, a circle broken at residues growing with no bound; the golden-mean circle is critical near 0.9716, and its being the last circle to break is a field's conjecture with numerical support. — at "With a field's words, a torus winding by the golden mean is last to break as a coupling grows: within the standard map a curve with rotation number (√5 − 1)/2 is critical with K ≈ 0.9716 (Greene, 1979), a field's computing agreeing and no proof."
 
 ### 3.4 An adding at unit parities closes at one, two, three, four and six
 
@@ -201,10 +201,10 @@ Gathering-Value · Natural Numbers
 ## Droplets
 
 - Sharing no factor is-or-is-not the source of the operation said of a prime alone, a question still-possibling. *(possible exploring)*
-- Two forward moves through the nine-dot diamond, each one of a momentary's two parts, not yet observed directly, and each open to right or left, allow right, straight and left outcomes, and straight-or-right-only needs a further relation excluding two successive left moves. *(possible exploring)*
+- Two forward moves through the nine-dot diamond, each one of a momentary's two parts, an anticipated observing, and each open to right or left, allow right, straight and left outcomes, and straight-or-right-only needs a further relation excluding two successive left moves. *(possible exploring)*
 - Eight assignments between letters in pairs and roles in pairs are eight correspondences and not eight parity changings, as three intervals between four positions are-not three full twists. *(possible exploring)*
 - Rotation 3–6–5–4, co-competent pair 7–8 and across–along pair 6–9 each have prime sum 36, the rotation and across–along equality following from p(3) + p(4) + p(5) = p(9), and the three equal sums are three roles, each its own and overlapping. *(possible exploring)*
 - On a ring of nine stations, pairing c − k with c + k modulo nine, k from one to four, at each centre c reaches each of the thirty-six pairs of two stations exactly once, nine sets of four pairs, and their order of resolving and their relation to bi-folding four-cycles are a next step of exploring. *(possible exploring)*
 - Names 9, 11, 13, 15 and 17 at their primes 23, 31, 41, 47 and 59 have whole spans 8, 10, 6 and 12, adding to 36, and nine positions and four exchanges are four equal nines only with a further operation. *(possible exploring)*
-- The three prime pairings centring at 24 become a candidate relation to three physical routes through a waist, not yet observed directly, only through their actual pairing and succession, and identifying a physical operation with the ring of 48 reaches beyond the name waist the three share; the ring of 48 is a ring of forty-eight number stations and is-not a carbon ring or a carbon atom. *(possible exploring)*
+- The three prime pairings centring at 24 become a candidate relation to three physical routes through a waist, an anticipated observing, only through their actual pairing and succession, and identifying a physical operation with the ring of 48 reaches beyond the name waist the three share; the ring of 48 is a ring of forty-eight number stations and is-not a carbon ring or a carbon atom. *(possible exploring)*
 - 5.6's ten positions, nought to nine, prior and now whole and a next opening, five with each side, stand beside the code's parity, one inversioning or none between a self and an other now, its lines holding parities and 0 and ten positions of two sides outside them, and 5.6's ten and a self's ten own names, five now and five next at 5.2, are either one ten at two observings or two tens, each of its own subject. *(possible incohering)*

@@ -2,7 +2,7 @@ Gathering-Value · Equilibria Registry
 
 # Equilibria Registry · Gathering-Value
 
-**Each value not yet in Equilibria Registry, at the section it meets.** A possible exploring is an observing not yet meeting natural torusing, said as the observing alone, with the sentence it meets. A possible incohering is a sentence not yet cohering, with its cohering re-saying beside it. A value whose place is not yet clear is a droplet at the back.
+**Each value Equilibria Registry does not hold, at the section it meets.** A possible exploring is an observing not meeting natural torusing now, said as the observing alone, with the sentence it meets. A possible incohering is a sentence not cohering now, with its cohering re-saying beside it. A value whose place is still-possibling is a droplet at the back.
 
 ## Head, the whole file
 
@@ -38,7 +38,7 @@ Gathering-Value · Equilibria Registry
 ### 2.2 A stability, a form or a relation, and surviving
 
 - **Possible incohering** · "Each conception a self is observing shows not possibly existing." → This sentence parts from 5.5's *Each conception meets a proof by its own requirements.*, 5.1 bounding an excluding with requirements giving its premises: each of sixty-three asks its own requirement, its going on and the momentary the two part at, and a contradiction with one binary names no binary of each entry. This parting says no conception possibly existing and completes no whole excluding. 2.2 is re-said as each conception meeting its own proof, or stands as a whole excluding with each of sixty-three shown.
-- **An explaining** · Not yet observed directly: among thirty-four computed rows of the conceptions, three are excluded by their own requirements and thirty-one retain the relation under their stated continuing, and twenty-nine rows are not computed; the computing is at no commit of this repository, and no run here returns it.
+- **An explaining** · An anticipated observing: among thirty-four computed rows of the conceptions, three are excluded by their own requirements and thirty-one retain the relation under their stated continuing, and twenty-nine rows are not computed; the computing is at no commit of this repository, and no run here returns it.
 
 ### 2.3 One description and one claim at each conception
 

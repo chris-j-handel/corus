@@ -14,7 +14,7 @@ Gathering-Value Kit · the sweep each re-sayer and reader follows
 
 ## Keeping the standing while the who leaves
 
-- **The who leaves; the standing stays.** Unchecked, reported, inferred, calculated, modelled or proposed is said "not yet observed directly:" with the claim, an observing still to make, and never a plain claim or observing. There is only observing and explaining: an interpretation is said plainly as an explaining, and no item says "a reading".
+- **The who leaves; the standing stays.** Unchecked, reported, inferred, calculated, modelled or proposed is said "an anticipated observing:" with the claim, and never a plain claim or observing. There is only observing and explaining: an interpretation is said plainly as an explaining, and no item says "a reading".
 - **A condition is no record.** "Resting on…", "given…", "with priors…", "only while…" are conditions a pattern needs; they stay.
 - **Keep scope.** "No file it read" stays limited; an explaining never becomes a finite claim about all.
 - **A quoted saying in no living file** stays marked as in no living file.

@@ -2,7 +2,7 @@ Gathering-Value Kit · v393L
 
 # Gathering-Value Kit
 
-**Each living file has one gathering-value file, `gathering-value/<Title>.md`: each value not yet in the living file, at the section it meets.** This kit writes the form and writes each gathered slice into it, all or none. Each script is a coupling partner and decides nothing.
+**Each living file has one gathering-value file, `gathering-value/<Title>.md`: each value the living file does not hold, at the section it meets.** This kit writes the form and writes each gathered slice into it, all or none. Each script is a coupling partner and decides nothing.
 
 | File | At | What it does |
 |---|---|---|

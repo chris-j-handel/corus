@@ -2,7 +2,7 @@ Gathering-Value Kit · the brief each reader follows
 
 # Gathering a slice into a gathering-value file
 
-**You read one slice of an older support file and meet each item in it once.** Each value the living files do not yet hold goes to a gathering-value file, `gathering-value/<Title>.md`, said whole. Everything else leaves, and git holds it.
+**You read one slice of an older support file and meet each item in it once.** Each value the living files do not hold goes to a gathering-value file, `gathering-value/<Title>.md`, said whole. Everything else leaves, and git holds it.
 
 You edit no file. You write one JSON file, at the path your pass names.
 
@@ -20,7 +20,7 @@ The standard is what these living files hold now. No wording has authority, this
 
 ## The one binary
 
-**Each observing is-or-is-not natural torusing now. An observing not yet reaching it is still-possibling: the method's next step, or its one break.** The still-possibling side is the opportunity.
+**Each observing is-or-is-not natural torusing now. An observing not reaching it now is still-possibling: the method's next step, or its one break.** The still-possibling side is the opportunity.
 
 ## Meeting each item
 
@@ -44,7 +44,7 @@ An item is a bold-led paragraph, a list line, a table row, or a section of obser
 - **Keep every number whole**: each measure, unit, count, dose, range, uncertainty, sample size and statistic, exactly as the source gives it. Gathering drops no number: whether a statistic stays is a living file's own motion, never a gathering's.
 - **The ground leaves**: a field's explaining, a cause, a mechanism, a *because*. Read each explaining line for observings inside it before letting it go: an observing there is gathered.
 - **An explaining of a result**, kept at all, is said as an explaining, by no one, and never as an observing.
-- **A measure or claim not observed directly** (calculated, modelled, inferred, reported, unchecked) is said "not yet observed directly:" with the claim, an observing still to make, never as an observing.
+- **A measure or claim not observed directly** (calculated, modelled, inferred, reported, unchecked) is said "an anticipated observing:" with the claim, never as an observing.
 
 ## A concern keeps both sides
 
