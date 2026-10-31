@@ -1,4 +1,4 @@
-Exhibit NINE Natural Human Society v391
+Exhibit NINE Natural Human Society v393L
 
 &nbsp;
 
@@ -12,7 +12,7 @@ Exhibit NINE Natural Human Society v391
 
 ---
 
-**PART ONE — THE METHOD'S GROUND, one concept not yet apparent**
+**PART ONE — THE METHOD'S GROUND, one concept not apparent now**
 
 **1.1 Geodesic human social moral co-competencing, the method going between human selves**
 
@@ -82,7 +82,7 @@ Exhibit NINE Natural Human Society v391
 
 ---
 
-# PART ONE — THE METHOD'S GROUND, one concept not yet apparent
+# PART ONE — THE METHOD'S GROUND, one concept not apparent now
 
 ## 1.1 Geodesic human social moral co-competencing, the method going between human selves
 
@@ -288,7 +288,7 @@ Capture and ingress break a same-existing-society precisely here. A hub that fix
 
 A human society co-chains its existing, and co-chains a possibling open. What co-chains existing: selves couple with betweens, abundancing in neither self alone; fairness is a bounding-zeroing a coupling reaches relationally; cutting and choosing has a whole form; keeping own time lets competency compound; institutioning writes a good-faith contract more explicitly; class-action resolving has its form with catastrophic scale; Arrow changes and changes back as social moral competency; abundancing orders morality first and competency second; free, sharing, and mutual compose a surface; uncapturing sets every hub aside; a concern tips individually and a same-existing-society gives it all it can within do-no-harming; sharing both ways adds tipping by viable bi-exchange; birthing and nyeing relating is healthy living; live descent returning to every self is social moral competency.
 
-What co-chains open: a same-existing-society reaches a concern it is not yet discovering where a new between shares, and co-chains to couple with it then. Whether a same-existing-society reaches a scale of resolving it does not yet evolve stays possibling, holding open; whether a hub no self yet discovers would breach a self-bounding stays possibling, holding open. A same-existing-society co-chains between existing and possibling, a resolving a self is observing and a possibling floating, a changing is or is not with each sharing, and no other possible is existing. **And a concern tomorrow may be more brutal than any existing one a self reaches**, and a self reaches it by one same way when it comes.
+What co-chains open: a same-existing-society reaches a concern it is not discovering now where a new between shares, and co-chains to couple with it then. Whether a same-existing-society reaches a scale of resolving it does not evolve now stays possibling, holding open; whether a hub no self yet discovers would breach a self-bounding stays possibling, holding open. A same-existing-society co-chains between existing and possibling, a resolving a self is observing and a possibling floating, a changing is or is not with each sharing, and no other possible is existing. **And a concern tomorrow may be more brutal than any existing one a self reaches**, and a self reaches it by one same way when it comes.
 
 **One deciding closing here, and two standings open, each with its reason**
 

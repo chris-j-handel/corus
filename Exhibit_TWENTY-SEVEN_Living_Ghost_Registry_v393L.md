@@ -1857,7 +1857,7 @@ Each entry: **TWENTY-FIVE pattern line** · *a* Door relation at this gathering
 - **(iii) upstream of observing** · *a* An entry’s own upstream entry
 - **(x) ten unchangeables as one progressioning** · *a* An entry’s own unchangeables progressioning
 
-Door lines 6, 9 and 10 have abundancing, bound and reach beside an entry’s ten-line pattern. With TWENTY-FIVE those three already stand with each entry’s words stripping. Its own receiving has those lines, source quantities and any upstream not yet filling together. Door record and TWENTY-FIVE entry retain their own forms and their connection.
+Door lines 6, 9 and 10 have abundancing, bound and reach beside an entry’s ten-line pattern. With TWENTY-FIVE those three already stand with each entry’s words stripping. Its own receiving has those lines, source quantities and any upstream not filling together now. Door record and TWENTY-FIVE entry retain their own forms and their connection.
 
 Six ghost-confirming properties, ten unchangeables, ten door lines, ten entry lines, ten projecting positions and eight resolver names each number the relations they name. A projecting position has its particular projection. With this table, unchangeables join door lines; an eight-name relation goes on. Equal numbers alone supply no complete correspondence among these forms.
 

@@ -1,0 +1,17 @@
+[
+ {
+  "old": "predicted island not yet reached, only its shores,",
+  "new": "predicted island not reached now, only its shores,",
+  "why": "\"not yet X\" re-said \"not X now\", its meaning; Natural Naming 2.4 dissolves *not-yet*"
+ },
+ {
+  "old": "with high-temperature materials a field does not yet explain,",
+  "new": "with high-temperature materials a field does not explain now,",
+  "why": "\"not yet X\" re-said \"not X now\", its meaning; Natural Naming 2.4 dissolves *not-yet*"
+ },
+ {
+  "old": "where a count is not yet anchoring;",
+  "new": "where a count is not anchoring now;",
+  "why": "\"not yet X\" re-said \"not X now\", its meaning; Natural Naming 2.4 dissolves *not-yet*"
+ }
+]

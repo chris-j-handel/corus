@@ -352,7 +352,7 @@ No such fact stands, meaning being attributed through communal practice rather t
 
 **Common requirement.** A fact, or a licensed practice in its absence.
 
-**Conserving relation.** A ground determining the term's application, the determination standing for applications not yet made.
+**Conserving relation.** A ground determining the term's application, the determination standing for applications not made.
 
 **Conserving reach.** All continuations, the deviant included.
 
@@ -588,7 +588,7 @@ It is not: the skeptical conclusion stands, and scientific method neither needs 
 
 **Conserving relation.** A justification of the inference, the justification standing without employing the inference it justifies.
 
-**Conserving reach.** All inductive inferences, those not yet made included.
+**Conserving reach.** All inductive inferences, those not made included.
 
 **Reach.** The statement quantifies over all inductive inferences. Arguments and observations return the past performance of the methods, and the founding statement records that employing past performance is the circle itself. The two are not the same.
 
@@ -682,7 +682,7 @@ Metabolism first: a self-copying molecule of the required length is prohibitivel
 
 *The report.*
 
-**Approaches.** Prebiotic synthesis — amino acids, nucleobases, and activated nucleotides made under plausible conditions, some in one pot, ending short of a self-maintaining system, the gap stated by the field. In vitro evolution of ribozymes — polymerases copying substantial lengths, not yet themselves. Autocatalytic set theory — such sets form above a diversity threshold in model chemistries, the models not being the chemistry of the early Earth, which their authors state. Hydrothermal and mineral surface chemistry — gradients and organics produced, establishing plausibility of conditions rather than the transition. Search for traces — isotopic and morphological evidence contested at the relevant age, the earliest rocks metamorphosed. Panspermia — relocates the event without addressing it, as its proponents acknowledge.
+**Approaches.** Prebiotic synthesis — amino acids, nucleobases, and activated nucleotides made under plausible conditions, some in one pot, ending short of a self-maintaining system, the gap stated by the field. In vitro evolution of ribozymes — polymerases copying substantial lengths, not themselves. Autocatalytic set theory — such sets form above a diversity threshold in model chemistries, the models not being the chemistry of the early Earth, which their authors state. Hydrothermal and mineral surface chemistry — gradients and organics produced, establishing plausibility of conditions rather than the transition. Search for traces — isotopic and morphological evidence contested at the relevant age, the earliest rocks metamorphosed. Panspermia — relocates the event without addressing it, as its proponents acknowledge.
 
 **Narrowing recorded.** Autocatalytic set theory narrows the reach: the result stands over model chemistries rather than over the transition, and results follow within the models.
 
@@ -1360,11 +1360,11 @@ A free action is not determined: needing no cause, caused with no necessity, or 
 
 It was a mechanism, and pressure alters the mechanism. Those measured respond to being measured, and the response is part of the system. No care in selecting the measure avoids this, because the response is to being measured at all.
 
-**Specifications.** A statistical relation estimated over observed instances holds over instances not yet occurring — universal under statistical practice. Acting on the relation does not alter it — local.
+**Specifications.** A statistical relation estimated over observed instances holds over instances occurring after them — universal under statistical practice. Acting on the relation does not alter it — local.
 
 **Specifications withdrawn.**
 
-**Common requirement.** That a relation estimated over past instances can be asserted over instances not yet occurring, and acted on there.
+**Common requirement.** That a relation estimated over past instances can be asserted over instances occurring after them, and acted on there.
 
 **Conserving relation.** A regularity holding under the pressure applied to it.
 
@@ -1406,9 +1406,9 @@ In practice, with care: some relations are stable over relevant horizons, and th
 
 **Conserving relation.** Parameters describing the system, standing invariant under the policies acting on it.
 
-**Conserving reach.** All policy regimes, those not yet enacted included.
+**Conserving reach.** All policy regimes, those not enacted included.
 
-**Reach.** The statement quantifies over behaviour under policies not yet enacted. Behaviour under policies enacted is what is measured. The two are not the same.
+**Reach.** The statement quantifies over behaviour under policies not enacted. Behaviour under policies enacted is what is measured. The two are not the same.
 
 **Unreachability.** Natural experiments return the estimation problem one step out, and the microfoundations programme assumes the invariance it was to supply. The invariance is not reached over the regimes by estimation from enacted regimes.
 
@@ -1440,11 +1440,11 @@ Failure to replicate does not establish error: effects are conditional on popula
 
 **Specifications withdrawn.**
 
-**Common requirement.** That a finding obtained in one study is assertable at studies not yet run, and that the second bears on the first.
+**Common requirement.** That a finding obtained in one study is assertable at studies not run, and that the second bears on the first.
 
-**Conserving relation.** A finding holding at studies not yet run, the holding standing independently of the setting sampled.
+**Conserving relation.** A finding holding at studies not run, the holding standing independently of the setting sampled.
 
-**Conserving reach.** All studies, those not yet run included.
+**Conserving reach.** All studies, those not run included.
 
 **Reach.** The statement quantifies over studies not run. Each study's own sample is what is measured. The two are not the same.
 
@@ -1458,7 +1458,7 @@ Replications return weaker evidence despite the original authors' materials and 
 
 **Approaches.** Large multi-site replication — reproducibility projects returning rates well below expectation, the interpretation of a failed replication remaining the disputed point. Preregistration — removes analytic flexibility, preregistered studies reporting lower effect sizes, which is evidence about the mechanism, and does not settle the status of the earlier literature. Raising thresholds — reduces false positives and raises false negatives by a computable amount, a known trade. Meta-analysis — pools studies and inherits the publication bias it corrects for by models that are themselves assumptions. Many-analysts studies — the same data to independent teams returning divergent results, quantifying analytic flexibility without adjudicating any single finding.
 
-**Narrowing recorded.** The conditional reading narrows the reach: an effect stands for the population, setting, and procedure sampled rather than across studies not yet run. Raising thresholds weakens the relation: the holding stands at a stipulated error rate, at a computable cost in false negatives.
+**Narrowing recorded.** The conditional reading narrows the reach: an effect stands for the population, setting, and procedure sampled rather than across studies not run. Raising thresholds weakens the relation: the holding stands at a stipulated error rate, at a computable cost in false negatives.
 
 **Progress.** The measured failure rates. The identified mechanisms. The lower effect sizes under preregistration. The quantified analytic flexibility.
 
@@ -1898,7 +1898,7 @@ Timing: millisecond-precision timing carries information rates discard, is repro
 
 **The field's account of its hardness.** That the two estimates are of a ratio whose numerator is measured directly from observed effects and whose denominator is inferred indirectly from population data, so the gap can lie in either term. The field records that the indirect estimate assumes no interaction among loci, that models with interaction are also consistent with the observable data, and that under such models the total may be much smaller — a portion of the gap arising from the denominator rather than the numerator. Several mechanisms have been proposed and none accounts for the gap in full.
 
-**Accounts.** In variants not yet found: effects are small and numerous, rare variants are undersampled, and larger studies recover more of the gap steadily.
+**Accounts.** In variants not found: effects are small and numerous, rare variants are undersampled, and larger studies recover more of the gap steadily.
 
 In the estimate: twin-based heritability assumes equal environments and no gene-environment interaction, and where these fail the estimate is inflated and there is less to find.
 
@@ -2254,7 +2254,7 @@ No fourth condition works: each proposal has generated counterexamples within a 
 
 **Common requirement.** That cases sort into knowledge and non-knowledge, and that a correct analysis reproduces sorting.
 
-**Conserving relation.** An analysis reproducing sorting, the reproduction standing over cases not yet constructed.
+**Conserving relation.** An analysis reproducing sorting, the reproduction standing over cases not constructed.
 
 **Conserving reach.** The concept's extension over all possible cases.
 
@@ -4270,7 +4270,7 @@ Prescriptive: regularities on their own cannot distinguish laws from accidental 
 
 **The field's account of its hardness.** That presentism supposes one plane of simultaneity, representing all that exists, to be uniquely metaphysically important, while the special theory of relativity tells that an infinity of planes of simultaneity pass through any given spacetime point and that no physical test can distinguish one from among them, what was supposedly metaphysically distinguished being physically indistinguishable, and, assuming that humans are complex physical systems, there being no way to distinguish the present from among the multitude of putative presents.
 
-**Accounts.** Only the present: what is past no longer exists and what is future does not yet, and the tensed character of thought and language reflects a real feature of the world.
+**Accounts.** Only the present: what is past no longer exists and what is future does not now, and the tensed character of thought and language reflects a real feature of the world.
 
 All times exist: relativity gives no privileged present, and the tensed series is incoherent as an objective feature — an event must be past, present, and future, and the attempt to relativise these generates a regress.
 
@@ -4510,9 +4510,9 @@ A boundary may exist: collapse models predict a scale at which superposition gen
 
 **Conserving relation.** A determination of whether a break occurs, standing at masses the question concerns.
 
-**Conserving reach.** All masses, those not yet reached included.
+**Conserving reach.** All masses, those not reached included.
 
-**Reach.** Its statement quantifies over behaviour at masses not yet reached. Masses reached, currently large molecules and mechanical oscillators, are what is measured. The two are not the same.
+**Reach.** Its statement quantifies over behaviour at masses not reached. Masses reached, currently large molecules and mechanical oscillators, are what is measured. The two are not the same.
 
 **Unreachability.** Interference at larger masses returns more of the reached domain, and collapse constraints narrow parameter ranges without excluding the class; decoherence accounts quantitatively for every case measured, which both accounts accept while disputing whether anything remains. Determination is not reached over masses by measurements at masses reached.
 
@@ -4522,7 +4522,7 @@ An anticipated observing: molecules beyond 25 kDa are in quantum superposition.
 
 *The report.*
 
-**Approaches.** Interference at larger masses — demonstrated to tens of thousands of atomic mass units, the frontier advancing, returning more of the reached domain. Optomechanical superposition — prepares mechanical oscillators in non-classical states, masses remaining far below the proposed collapse scales. Collapse model constraints — bounded by interferometry, X-ray emission, and gravitational-wave detector noise, narrowing without closing. Decoherence calculation — accounts quantitatively for the disappearance of interference in every case measured, accepted by both accounts and disputed as to whether anything remains. Gravitationally induced collapse — proposals giving a scale, experiments to reach it proposed and not yet performed.
+**Approaches.** Interference at larger masses — demonstrated to tens of thousands of atomic mass units, the frontier advancing, returning more of the reached domain. Optomechanical superposition — prepares mechanical oscillators in non-classical states, masses remaining far below the proposed collapse scales. Collapse model constraints — bounded by interferometry, X-ray emission, and gravitational-wave detector noise, narrowing without closing. Decoherence calculation — accounts quantitatively for the disappearance of interference in every case measured, accepted by both accounts and disputed as to whether anything remains. Gravitationally induced collapse — proposals giving a scale, experiments to reach it proposed and not performed.
 
 **Narrowing recorded.** Collapse model constraints narrow reach: exclusion stands over the parameter ranges bounded rather than over the class.
 
@@ -4938,7 +4938,7 @@ It may be a by-product: dreaming may be an epiphenomenon of the physiological st
 
 *The report.*
 
-**Approaches.** Selective deprivation — confounded by arousal and rebound, which its field has documented extensively. Lesion cases abolishing dream report — rare, reported cases constraining function claims. Targeted memory reactivation in sleep — improves retention, establishing a sleep effect, the link to dream content unestablished. Dream content analysis — finds thematic regularities consistent with several accounts. Lucid dreaming with communication — two-way communication established in recent work, opening a route, early, and its reach for function questions not yet clear.
+**Approaches.** Selective deprivation — confounded by arousal and rebound, which its field has documented extensively. Lesion cases abolishing dream report — rare, reported cases constraining function claims. Targeted memory reactivation in sleep — improves retention, establishing a sleep effect, the link to dream content unestablished. Dream content analysis — finds thematic regularities consistent with several accounts. Lucid dreaming with communication — two-way communication established in recent work, opening a route, early, and its reach for function questions unclear now.
 
 **Narrowing recorded.** Targeted memory reactivation narrows reach: the effect stands established for sleep rather than for dreaming. Lucid dreaming narrows reach: the route stands open for states in which communication is established.
 
@@ -5154,11 +5154,11 @@ Intrinsic: resistance genes predate clinical use, are widespread in environmenta
 
 **Common requirement.** That the trajectory is determined by selection pressure that management can alter.
 
-**Conserving relation.** The outcome under sustained selection pressure determined, determination standing for regimes not yet tried.
+**Conserving relation.** The outcome under sustained selection pressure determined, determination standing for regimes not tried.
 
-**Conserving reach.** All regimes, those not yet tried included.
+**Conserving reach.** All regimes, those not tried included.
 
-**Reach.** Its statement quantifies over the outcome under regimes not yet tried, with selection pressure sustained. Resistance rates under regimes that have been tried, over years to decades, are what is measured. The two are not the same.
+**Reach.** Its statement quantifies over the outcome under regimes not tried, with selection pressure sustained. Resistance rates under regimes that have been tried, over years to decades, are what is measured. The two are not the same.
 
 **Unreachability.** Stewardship reduces rates measurably and effects reverse when relaxed; resistance has followed each new class within years of deployment, without exception so far; and the resistome surveys establish the reservoir predates use. Determination is not reached over untried regimes by rates under regimes tried.
 
@@ -5374,7 +5374,7 @@ Compensation is real and sometimes complete: behavioural adaptation is documente
 
 **Accounts.** Yes, and increasingly: code quality metrics correlate with defect rates and change cost, static analysis identifies specific classes, and firms that measure it report actionable results.
 
-The measurements are of proxies: metrics correlate with each other more strongly than with change cost, the counterfactual code that was not written is unavailable, and what is called debt is often a design decision whose cost depends on changes not yet requested.
+The measurements are of proxies: metrics correlate with each other more strongly than with change cost, the counterfactual code that was not written is unavailable, and what is called debt is often a design decision whose cost depends on changes not requested.
 
 **Specifications.** There is a present cost incurred by a past choice — local. Cost is attributable to identifiable code properties — local.
 
@@ -5382,15 +5382,15 @@ The measurements are of proxies: metrics correlate with each other more strongly
 
 **Common requirement.** That the later cost is attributable to earlier choice.
 
-**Conserving relation.** Later cost attributed to earlier choice, attribution standing for changes not yet requested.
+**Conserving relation.** Later cost attributed to earlier choice, attribution standing for changes not requested.
 
-**Conserving reach.** All changes, those not yet requested included.
+**Conserving reach.** All changes, those not requested included.
 
-**Reach.** Statement quantifies over cost of changes not yet requested. Code properties now, and change history so far, are what is measured. Two are not the same.
+**Reach.** Statement quantifies over cost of changes not requested. Code properties now, and change history so far, are what is measured. Two are not the same.
 
 **Unreachability.** Counterfactual code carrying disputed cost is unavailable, and change-cost measurement covers changes made while unmade changes carry disputed cost. Attribution is not reached over unrequested changes by code properties and change history.
 
-**Persistence.** A measurement of cost of changes not yet requested, or agreement on a proxy that tracks it.
+**Persistence.** A measurement of cost of changes not requested, or agreement on a proxy that tracks it.
 
 *The report.*
 
@@ -5726,11 +5726,11 @@ Far transfer is rarely demonstrated: cognitive training studies show gains on tr
 
 **Common requirement.** That similarity is specifiable before transfer is measured.
 
-**Conserving relation.** Similarity specified before transfer is measured, specification standing for tasks not yet chosen.
+**Conserving relation.** Similarity specified before transfer is measured, specification standing for tasks not chosen.
 
-**Conserving reach.** All task pairs, those not yet specified included.
+**Conserving reach.** All task pairs, those not specified included.
 
-**Reach.** Statement quantifies over application to a task not yet specified. Pairs of tasks selected by experimenter, whose similarity is judged, are what is measured. Two are not the same.
+**Reach.** Statement quantifies over application to a task not specified. Pairs of tasks selected by experimenter, whose similarity is judged, are what is measured. Two are not the same.
 
 **Unreachability.** Similarity is characterised after tasks are chosen, and far-transfer null record is now the field's own summary while expertise is established as domain-bound. Specification is not reached over unchosen pairs by pairs the experimenter selected.
 
@@ -7750,7 +7750,7 @@ Rupture process is sufficiently sensitive or scale-free that precise event predi
 
 **Conserving reach.** All qualifying events and non-events in declared region, magnitude range and evaluation interval.
 
-**Reach.** Statement ranges over future individual events. Catalogues, geodesy and candidate precursor instruments sample incomplete fault states and finite event populations. The two are not the same: a diagnostic precursor must indicate with high probability location, time and magnitude of an impending event, and error rates and large areal extent of predictions from candidate precursors do not yet provide that diagnostic capability, search having produced no successful short-term scheme.
+**Reach.** Statement ranges over future individual events. Catalogues, geodesy and candidate precursor instruments sample incomplete fault states and finite event populations. The two are not the same: a diagnostic precursor must indicate with high probability location, time and magnitude of an impending event, and error rates and large areal extent of predictions from candidate precursors do not provide that diagnostic capability now, search having produced no successful short-term scheme.
 
 **Unreachability.**
 
@@ -8464,7 +8464,7 @@ The role of oligomeric amyloid species in cognitive impairment and neuronal deat
 
 *The report.*
 
-**Approaches.** Longitudinal biomarkers — order population-average changes with selection and individual variability. Genetics — identifies causal risk pathways without fixing their interaction in typical cases. Anti-amyloid intervention — lowers plaques and modestly changes decline in selected early disease, leaving sequence and heterogeneity questions. Tau, immune, vascular and metabolic interventions — mechanistically targeted and not yet jointly decisive.
+**Approaches.** Longitudinal biomarkers — order population-average changes with selection and individual variability. Genetics — identifies causal risk pathways without fixing their interaction in typical cases. Anti-amyloid intervention — lowers plaques and modestly changes decline in selected early disease, leaving sequence and heterogeneity questions. Tau, immune, vascular and metabolic interventions — mechanistically targeted and not jointly decisive now.
 
 **Narrowing recorded.** Biomarker-defined early disease narrows clinical heterogeneity; genetic and pathology studies partition mechanistic subgroups.
 
@@ -8556,7 +8556,7 @@ An anticipated observing: at least sixty-five million individuals worldwide have
 
 *The report.*
 
-**Approaches.** Longitudinal cohorts — characterize persistence with attrition and control-selection limits. Tissue and antigen studies — report reservoirs in subsets, with causal connection under test. Immune, proteomic and metabolomic profiling — identifies signatures that vary across cohorts. Vascular and autonomic testing — defines physiological subgroups. Mechanism-targeted trials — emerging and not yet a complete discriminator.
+**Approaches.** Longitudinal cohorts — characterize persistence with attrition and control-selection limits. Tissue and antigen studies — report reservoirs in subsets, with causal connection under test. Immune, proteomic and metabolomic profiling — identifies signatures that vary across cohorts. Vascular and autonomic testing — defines physiological subgroups. Mechanism-targeted trials — emerging and not a complete discriminator now.
 
 **Narrowing recorded.** Consensus definitions and symptom clusters narrow heterogeneous cohorts; organ-specific testing separates damage from systemic syndromes.
 
@@ -9960,7 +9960,7 @@ A continuum of initial masses and growth histories rather than one seeding route
 
 *The report.*
 
-**Approaches.** Review of seeding routes and growth histories — concludes a continuum from the stellar-mass to the supermassive regime. Multimessenger observation to distinguish assembly scenarios — proposed, the discrimination not yet made.
+**Approaches.** Review of seeding routes and growth histories — concludes a continuum from the stellar-mass to the supermassive regime. Multimessenger observation to distinguish assembly scenarios — proposed, the discrimination not made.
 
 **Narrowing recorded.**
 
@@ -10122,7 +10122,7 @@ The neutron lifetime measured in a magnetic trap is 877.75 seconds, and the beam
 
 *The report.*
 
-**Approaches.** Magnetic-trap bottle with halved error margins — consistent with theory, the discrepancy unresolved. Pulsed cold-neutron beam counting electrons — a first result not yet precise enough to favour either set, and a later result compatible with bottle measurements within its uncertainties, beam against bottle no longer parting by method by itself; earlier beam results and discrepancy stand. A proton counter in a bottle — proposed. Meta-analysis by median statistics — the discrepancy between about four and six sigma by the set chosen.
+**Approaches.** Magnetic-trap bottle with halved error margins — consistent with theory, the discrepancy unresolved. Pulsed cold-neutron beam counting electrons — a first result not precise enough now to favour either set, and a later result compatible with bottle measurements within its uncertainties, beam against bottle no longer parting by method by itself; earlier beam results and discrepancy stand. A proton counter in a bottle — proposed. Meta-analysis by median statistics — the discrepancy between about four and six sigma by the set chosen.
 
 **Narrowing recorded.**
 

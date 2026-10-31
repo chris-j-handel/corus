@@ -1,4 +1,4 @@
-Exhibit FOURTEEN Natural Destinies v391
+Exhibit FOURTEEN Natural Destinies v393L
 
 &nbsp;
 
@@ -36,7 +36,7 @@ The observing at every destiny a self imagines
 
 ## The core — the bi-moral co-agency
 
-Every observing rests on one form, one same form each other exhibit has. **Bi-moral co-agency** is a coupling: two-way, one-at-a-time, selecting by binary preferring — a parity, sign-only — summing to a bounding-zeroing coupling itself makes, riding its carry, its abundancing a +1 in neither self alone. A destiny is this coupling, a self imagining it extending to a substrate it is reaching toward — a present coupling, selves already observing it wherever they couple cleanly, a picturing of it going to a place it does not yet reach. A self now observes substrates these destinies point back to as their own forms: a living chip and grid, a resolving of framings freezing, an all-edge surface, a value a sharing finds. A destiny is a sharing of a possibling, takeable where a self takes up the core; seating of each substrate lives with its exhibit, its imagining open here.
+Every observing rests on one form, one same form each other exhibit has. **Bi-moral co-agency** is a coupling: two-way, one-at-a-time, selecting by binary preferring — a parity, sign-only — summing to a bounding-zeroing coupling itself makes, riding its carry, its abundancing a +1 in neither self alone. A destiny is this coupling, a self imagining it extending to a substrate it is reaching toward — a present coupling, selves already observing it wherever they couple cleanly, a picturing of it going to a place it does not reach now. A self now observes substrates these destinies point back to as their own forms: a living chip and grid, a resolving of framings freezing, an all-edge surface, a value a sharing finds. A destiny is a sharing of a possibling, takeable where a self takes up the core; seating of each substrate lives with its exhibit, its imagining open here.
 
 ## Safely outward — the safety structural, with the form
 

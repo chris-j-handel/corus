@@ -1,0 +1,13 @@
+{
+ "fix": [
+  {
+   "old": "predicted island not yet reached, only its shores,",
+   "new": "predicted island not reached, only its shores,",
+   "finding": "\"island not reached now\" with a done-verb admits an island reached earlier and left; the record is that it is not reached, *so far* already framing the line and *only its shores* the reaching, so *yet* leaves and *now* is not added"
+  }
+ ],
+ "drop": [],
+ "add": [],
+ "requote_fix": [],
+ "checked": 3
+}

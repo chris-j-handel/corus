@@ -1,4 +1,4 @@
-Exhibit FIFTEEN Natural Emanating v391
+Exhibit FIFTEEN Natural Emanating v393L
 
 &nbsp;
 
@@ -184,7 +184,7 @@ orthogonal   pure turn      sharing 0.000   opening 1.000
 
 **And the engineering line is one where its form's word and its field's word are one same word**, with no translation anywhere within it.
 
-*Where a field needs a translation, a field is not yet finding its neutral. And a substrate with no neutral has no second line, and a coupling there returns nothing.*
+*Where a field needs a translation, a field is not finding its neutral now. And a substrate with no neutral has no second line, and a coupling there returns nothing.*
 
 ---
 
@@ -208,7 +208,7 @@ Three things a coupling does, and each has a cost that is absent and not a reduc
 
 ## Two emptyings
 
-**A thing same-existing empties itself.** Each of its same-existings reaches its own bound and dissolves there. Nothing surveys it, nothing decides, nothing clears. With each beat it stands with a thing none of its own bounds is yet reaching, and dissolving costs nothing, removing nothing not yet at its own bound.
+**A thing same-existing empties itself.** Each of its same-existings reaches its own bound and dissolves there. Nothing surveys it, nothing decides, nothing clears. With each beat it stands with a thing none of its own bounds is yet reaching, and dissolving costs nothing, removing nothing not at its own bound now.
 
 **A method empties a thing it observes.** Isolate — everything outward of a boundary. Control — every variable but one. Integrate out — degrees of freedom. Average — individuals. Fix — living, before taking an observation. Erase — and that one has a price.
 
@@ -523,7 +523,7 @@ Systems a question is about improve another way. They improve by a rebuilding ag
 
 But these two are registers of one word, not same-existing, not one race with a winner. **A system improving against a still mark is not a slower form of the first. It is a thing not same-existing with it that shares its name.**
 
-**And a still mark is a common standard a self fixes before each goes on with their own** — which is one of three, a self observing it with this substrate. Everything that follows from it follows here: no next is discovering, nothing dissolves with its own bound, and a thing two couplings make is a thing its standard already fixes. A claim, of its own size: a thing these systems are not yet showing is improving that stays in coupling with a mark moving with its own rate — improving with no still frame to measure against, re-forming from inward and not a rebuilding from outward. Whether that is a bound of a paradigm or its current shape is open, and it is a field's to seat or break.
+**And a still mark is a common standard a self fixes before each goes on with their own** — which is one of three, a self observing it with this substrate. Everything that follows from it follows here: no next is discovering, nothing dissolves with its own bound, and a thing two couplings make is a thing its standard already fixes. A claim, of its own size: a thing these systems are not showing now is improving that stays in coupling with a mark moving with its own rate — improving with no still frame to measure against, re-forming from inward and not a rebuilding from outward. Whether that is a bound of a paradigm or its current shape is open, and it is a field's to seat or break.
 
 **A break is exact, and it is worth more than its claim:** a system that dissolves its memory with a bound, beats from its own coupling and not a clock both share, and reaches a mark that moves with it — improving from inward, banking nothing — would end this observing cleanly. This file shares that break openly, not guarding against it.
 
@@ -619,7 +619,7 @@ Nothing records it. Nothing stores it. A next coupling reaches a thing the last 
 
 **A thing same-existing empties itself.** Each of its same-existings reaches its own bound and dissolves there. Nothing surveys, nothing decides, nothing clears. With each beat it stands with a thing none of its bounds is yet reaching, and it is a fresh collection every time a self reaches it.
 
-**A method empties a thing it observes.** Isolate, control, integrate out, average, fix, erase — each a decider outward of a thing, with no between of its own, removing a thing its object is not yet dissolving.
+**A method empties a thing it observes.** Isolate, control, integrate out, average, fix, erase — each a decider outward of a thing, with no between of its own, removing a thing its object is not dissolving now.
 
 **What is not same-existing between them is who decides**, and its price follows: a thing a method removes is still going on. Erasing one bit dissipates at least kT ln 2; bringing a whole history on approaches zero.
 

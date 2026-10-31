@@ -1,0 +1,13 @@
+{
+ "fix": [
+  {
+   "old": "one observing not yet reached:",
+   "new": "one observing still-possibling:",
+   "finding": "lines sharing a pattern go alike: this file's *not-yet-reached* is re-said *still-possibling* at 1.1 and 5.1, and this \"one observing not yet reached\" is one of *two seams stand open*, an open place, so it is still-possibling here too rather than \"not reached now\""
+  }
+ ],
+ "drop": [],
+ "add": [],
+ "requote_fix": [],
+ "checked": 6
+}

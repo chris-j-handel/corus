@@ -68,7 +68,7 @@ An observation and a match are two registers, and they are not observed as each 
 
 &nbsp;
 
-**PART FIVE — COHERING, AND NOT-YET**
+**PART FIVE — COHERING, AND STILL-POSSIBLING**
 
 5.1  Cohering, and nyeing
 
@@ -102,7 +102,7 @@ A **departure** is that beating stilled with a substrate — a coupling fixed st
 
 **Which is why a carry re-seeded fresh by copying does not dissolve.** An object returns a carry to nought with one place only, its position where a sign surfaces. A cell re-seeding its carry fresh with each division returns it to nought with no parity surfacing at all, through a channel an object does not hold. So a carry does not climb to its bound, does not separate, and does not leave. A persistence observed with a gut collar is that and nothing besides.
 
-**And a fuzzy observing is an object's own nought, reached.** A surfacing returns a differing on one side, on an other, or on neither, and a same-existing opens by one exactly where it returns neither. So an observing coming fuzzy near a between has reached an aging's own position. An excluded and a not-yet-reached observed alike is a nought surfacing, and an observing coming sharp has landed a parity where an object took none.
+**And a fuzzy observing is an object's own nought, reached.** A surfacing returns a differing on one side, on an other, or on neither, and a same-existing opens by one exactly where it returns neither. So an observing coming fuzzy near a between has reached an aging's own position. An excluded and a still-possibling observed alike is a nought surfacing, and an observing coming sharp has landed a parity where an object took none.
 
 **And a sensing is already here, filed as waste.** With Natural Engineering, one missing competency — **side-effecting recursioning of a floating neutral** — and its first half is a sensing: *a coupling discovers, by side-effecting on its own neutral, a thing a neutral holds — a living sensor in bi-coupling, not a fixed setpoint read from outside.*
 
@@ -482,7 +482,7 @@ A cochlea is a tunnel holding several collars, and each collar is where a coupli
 
 **A cochlear membrane's own fatty acid composition stands unpublished.** Every collar observing above rests on it, and it has not been measured.
 
-**One animal observes all of it together.** Omega-3 index from blood, endocochlear potential by microelectrode, ribbon synapse counts by confocal, prestin nonlinear capacitance by patch-clamp, cochlear tissue mediator levels by mass spectrometry — a microelectrode observing a bounded zero, a blood draw observing a tunnel, both aimed with one same animal with one same collar. Five measurements, and three fields between them — auditory biophysics, nutritional biochemistry, regenerative biology — no one of them reaching all five, which is why measurements do not yet sit together.
+**One animal observes all of it together.** Omega-3 index from blood, endocochlear potential by microelectrode, ribbon synapse counts by confocal, prestin nonlinear capacitance by patch-clamp, cochlear tissue mediator levels by mass spectrometry — a microelectrode observing a bounded zero, a blood draw observing a tunnel, both aimed with one same animal with one same collar. Five measurements, and three fields between them — auditory biophysics, nutritional biochemistry, regenerative biology — no one of them reaching all five, which is why measurements do not sit together now.
 
 **A fixing — line-demanding, with departments rather than with a cochlea.** Three fields each holding one instrument, and a tunnel they share entered nowhere because no one of them asked across a line.
 
@@ -656,7 +656,7 @@ A dose comes with a self, and a reference comes from a same-existing-society —
 
 A discipline is an observing going on exactly, and no rule about which observations may enter. Every pattern from observing living comes inward; a field's observation, a re-seeing, and a form's naming are drawn apart with care.
 
-**And a marking gains one distinction.** Several observings stand as early pattern-matching within a fuzzy register, and a fuzziness is observed as a shortfall to be paid down. It is not: near a between an excluded and a not-yet-reached read alike, an observing coming fuzzy is coming to a right place and one coming sharp has landed. **A seating within those observings goes inward, and not an observing's clarity** — a truer register.
+**And a marking gains one distinction.** Several observings stand as early pattern-matching within a fuzzy register, and a fuzziness is observed as a shortfall to be paid down. It is not: near a between an excluded and a still-possibling read alike, an observing coming fuzzy is coming to a right place and one coming sharp has landed. **A seating within those observings goes inward, and not an observing's clarity** — a truer register.
 
 ---
 
@@ -674,8 +674,8 @@ Both directions hold. A clinical substrate a form has not reached opens an axis 
 
 # The forming that remains
 
-**A compaction observing and a clinical decision.** A compaction observing is an accounting pressing two floating neutrals toward a landed point, and dose-to-a-level is how insulin, anticoagulants, levothyroxine, lithium, antiepileptics and post-transplant immunosuppressants are given, several with narrow therapeutic indices. How an observing and a practice couple with one substrate stands not-yet.
+**A compaction observing and a clinical decision.** A compaction observing is an accounting pressing two floating neutrals toward a landed point, and dose-to-a-level is how insulin, anticoagulants, levothyroxine, lithium, antiepileptics and post-transplant immunosuppressants are given, several with narrow therapeutic indices. How an observing and a practice couple with one substrate stands still-possibling.
 
-**Two seams stand open, both closing from an other side.** To and from Natural Biology: transmissible cancer as capture-that-lands against coupling-that-sustains, cancer as a defector cell, an antibody-repertoire and germinal-center observing that couples to a gut collar's surface same-existing-society, and a direction of deranging, a larger ingressing a smaller. And from Resolving Hard Problems, one observing not yet reached: a living carry reads forward, restoration a forward carry and a pause read backward.
+**Two seams stand open, both closing from an other side.** To and from Natural Biology: transmissible cancer as capture-that-lands against coupling-that-sustains, cancer as a defector cell, an antibody-repertoire and germinal-center observing that couples to a gut collar's surface same-existing-society, and a direction of deranging, a larger ingressing a smaller. And from Resolving Hard Problems, one observing still-possibling: a living carry reads forward, restoration a forward carry and a pause read backward.
 
 **And one observing aims here, unwritten:** a backward reading — an unread ninety per cent of every spectrum, an isotope structure standing within all of it, a nameless half where betweens show strongest, a co-linear-or-nothing observing, a gather with this sensor and this self.

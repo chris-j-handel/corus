@@ -1,4 +1,4 @@
-Exhibit THIRTY Co-Chaining Logic Registry v391
+Exhibit THIRTY Co-Chaining Logic Registry v393L
 
 # Co-Chaining Logic Registry
 
@@ -53,7 +53,7 @@ Exhibit THIRTY Co-Chaining Logic Registry v391
 
 ---
 
-**Co-chaining is one sequence of steps from one opening sentence, each step one logical extension from all steps before it, all or none at all.** Each group opens with concepts entering with it; each step is numbered, and line beneath it is one concept it adds. A step with an unsure line is open, its all or none not yet reached, line naming step or observing it waits on.
+**Co-chaining is one sequence of steps from one opening sentence, each step one logical extension from all steps before it, all or none at all.** Each group opens with concepts entering with it; each step is numbered, and line beneath it is one concept it adds. A step with an unsure line is open, its all or none still-possibling, line naming step or observing it waits on.
 
 **Each part and section across living files is a stable-forming emanation from these steps and from one opening sentence, its title with one group.** A section no group holds is a step co-chaining has yet to discover, and a group few sections reach shows a part of co-chaining files have yet to hold.
 

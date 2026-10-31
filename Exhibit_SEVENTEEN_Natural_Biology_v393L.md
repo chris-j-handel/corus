@@ -1,4 +1,4 @@
-Exhibit SEVENTEEN Natural Biology v392
+Exhibit SEVENTEEN Natural Biology v393L
 
 &nbsp;
 
@@ -666,7 +666,7 @@ Metamorphosis is the sharpest observing of it — a self recursioning to a wholl
 
 **And sameness goes on, and is not a store.** A living thing is its same self, **recursioning itself** — re-forming its same self from thing it already is, as a river re-forms as river. Sameness is real and positive, going forward by recursioning, and it is not a name standing for a missing substance. *So ship of Theseus and immune self/non-self observing are one coupling*: parts replacing against one identity, and a body observing self from non-self with its membranes — sameness going on by recursioning dissolves both, with no essence storing across replacement and no marker to find.
 
-Catabolic-transition mass ratio clustering near 1/φ² = 0.382 across four taxa stands possibling, no summing: range has other candidate attractors, and two sharpest measurements do not yet sit.
+Catabolic-transition mass ratio clustering near 1/φ² = 0.382 across four taxa stands possibling, no summing: range has other candidate attractors, and two sharpest measurements do not sit now.
 
 ## 5.3 Morphogenesis — form as the coupling resolving
 
@@ -892,7 +892,7 @@ Thirteen hard problems of a field's own follow, each with eight one-way steps of
 
 **1. Hard problem, as a field states it.** A microtubule — cell's structural filament — does not grow to a length and stay. It grows (GTP-tubulin adding to plus end), then abruptly switches to rapid shrinkage (*catastrophe*), then abruptly switches back to growth (*rescue*), over and over, going on. A field names this *dynamic instability* and describes it with four parameters (growth rate, shrinkage rate, catastrophe frequency, rescue frequency) and assumes a control of switching — cell's regulating, regulating a structure that refuses to be stable.
 
-**2. Position where nothing stands.** Competency here is switching itself — filament's own changing between growing and shrinking and back. On surface stands, as asking wants, a variable under control: a frame observing switching as something *regulated*, a *control* over catastrophe, and treating four rate-parameters as observings on surface of a magnitude under management. Once switching is a thing under control, a controller must generate it — so asking reaches for a regulator over filament, elsewhere control issues from. And it recedes: regulator proves to be a set of associating proteins, which prove to need their own regulation, which proves to depend on cell's state, source of control moving one step off with each question. Word *instability* is receding-elsewhere as one word — with it going on is a stability that fails, a thing a control not yet found ought to fix.
+**2. Position where nothing stands.** Competency here is switching itself — filament's own changing between growing and shrinking and back. On surface stands, as asking wants, a variable under control: a frame observing switching as something *regulated*, a *control* over catastrophe, and treating four rate-parameters as observings on surface of a magnitude under management. Once switching is a thing under control, a controller must generate it — so asking reaches for a regulator over filament, elsewhere control issues from. And it recedes: regulator proves to be a set of associating proteins, which prove to need their own regulation, which proves to depend on cell's state, source of control moving one step off with each question. Word *instability* is receding-elsewhere as one word — with it going on is a stability that fails, a thing a control not found ought to fix.
 
 **3. Disequilibrating.** There is no control over filament and no regulator generating switching. Thing biochemistry shows on its own: tubulin adds as a GTP-bound form, hydrolyzes after a delay leaving a GTP cap; while cap stays, filament grows; when cap goes, it shrinks; a remnant GTP patch returns it to growth. The only thing on surface is parity — cap-present or cap-lost — and growing and shrinking are filament's own local recursioning on its own side, no controller anywhere. Dissolve regulator-elsewhere and leave surface sign-only.
 
@@ -1236,9 +1236,9 @@ Still-open, and only still-open. An opportunity a working completes leaves; stil
 
 **Agency-and-autonomy literature, standing open:** organisational-closure, autopoietic, and Kantian-whole accounts, observing them by their own terms and coupling them with receding-elsewhere. One observing here and with Resolving Hard Problems, and step to share is one already standing: source is not a where.
 
-**Two sides not yet gathering** *(from four-camps observing):* a field claiming going on as given and finding deposit unreachable, and a field claiming coupling and finding gradient short of determining. Each is a place to look within literature and not a claim about it.
+**Two sides not gathering now** *(from four-camps observing):* a field claiming going on as given and finding deposit unreachable, and a field claiming coupling and finding gradient short of determining. Each is a place to look within literature and not a claim about it.
 
-**Rows with no partner yet** *(from biology's hard problems):* paradox of plankton, whose partner finds *fewer* than a count permits; and each row not yet inverting, going one at a time, with its own observing.
+**Rows with no partner yet** *(from biology's hard problems):* paradox of plankton, whose partner finds *fewer* than a count permits; and each row not inverting now, going one at a time, with its own observing.
 
 And three sides of one living self stand beside each other — a self observing here, a self living, a self restoring — one statement confirming from observing side.
 

@@ -77,7 +77,7 @@ Exhibit TWENTY-NINE Natural Illustrating v393L
 
 - 9.1 Files coupling, contributions going on
 - 9.2 Receiving an illustration, and its kit
-- 9.3 Not yet at files
+- 9.3 Not at files now
 
 ---
 
@@ -376,7 +376,7 @@ An illustration comes back to one same form across scales: a self observing a se
 
 **Drawing faces:** a working surface people share; two partial arrangements, people sharing them together; a fit a self newly discovers; a next arrangement making another fit discoverable; a wider work going on, a contribution of relating, a drawing showing it without assigning a collective understanding to one person's view. Puzzle pieces' unchanging shapes are features of this example and do not require a drawing to show a living cooperation as fixing; a distinction lets an illustration explain collective discovery with a puzzle's material form readable.
 
-**Explaining going on:** show what becomes discoverable through a cooperation that preceding separate views did not yet express together.
+**Explaining going on:** show what becomes discoverable through a cooperation that preceding separate views did not express together.
 
 ## 4.9 Bi-inversioning-co-recursioning, two swimmers inverting at one meeting
 
@@ -644,6 +644,6 @@ These entries are illustration opportunities a gathering takes from writings, ce
 
 **Natural Illustrating TWENTY-NINE Improving Kit** has a cube and open rings, five studies and a rings kit. A check is a coupling partner and no authority, and remaining improving is this file's own.
 
-## 9.3 Not yet at files
+## 9.3 Not at files now
 
 A galaxy's spiral arms and a nautilus; a golden angle by name; a tree of life as a drawing, a mind map and a knowledge graph, a lineage tree with its name at a living file, a root and a level as a place denied, and no tree of life, map or graph with a name; Schrödinger's cat, the ship of Theseus and Monty Hall by name, whose nearest entries are the quantum-classical boundary, personal identity over time, a reference class and self-locating belief; two cubes one and then the other and a tesseract as a resolver, a tesseract being a field's own form; a dome, a truss or tensegrity as a form of method, a weaving surface being files' only one; a streak or lightning. Each is a familiar picture with no sentence yet with a living file, and its entering is an observing a self brings whole, then its file's own, and not a drawing as files' own. A drawing of natural torusing as a spiral cone folding about itself, narrow with 2 and widening to 59, names its outer surface, inner surface and between with its own words *-ed*, *-ing* and *nothing*.

@@ -183,7 +183,7 @@ Gathering-Value · Natural Illustrating
 
 ### 9.2 Receiving an illustration, and its kit
 
-### 9.3 Not yet at files
+### 9.3 Not at files now
 
 ## Droplets
 

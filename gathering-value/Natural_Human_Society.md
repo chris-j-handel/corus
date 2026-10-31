@@ -6,11 +6,11 @@ Gathering-Value · Natural Human Society
 
 ## Head, the whole file
 
-- **An explaining** · The notes after PART ONE's and PART FOUR's titles, *one concept not yet apparent* and *and its last three sections have no tipping and stand open*, are notes after a part's title, each leaving and each part title standing bare, an explaining.
+- **An explaining** · The notes after PART ONE's and PART FOUR's titles, *one concept not apparent now* and *and its last three sections have no tipping and stand open*, are notes after a part's title, each leaving and each part title standing bare, an explaining.
 
 ## Opening
 
-## PART ONE — THE METHOD'S GROUND, one concept not yet apparent
+## PART ONE — THE METHOD'S GROUND, one concept not apparent now
 
 ### 1.1 Geodesic human social moral co-competencing, the method going between human selves
 
@@ -108,7 +108,7 @@ Gathering-Value · Natural Human Society
 
 ### 5.3 Existing, and co-chaining possibling open
 
-- **Possible incohering** · "What co-chains open: a same-existing-society reaches a concern it is not yet discovering where a new between shares, and co-chains to couple with it then." → Its *not yet* said at existing and possibling, each at its parity and its end, as Natural Naming 2.4 says *so-far* and *not-yet*. A re-saying: What co-chains possibling: a concern a same-existing-society is possibling, even and across, reaches it where a new between shares, and it co-chains to bi-coupling with that concern then.
-- **Possible incohering** · "Whether a same-existing-society reaches a scale of resolving it does not yet evolve stays possibling, holding open; whether a hub no self yet discovers would breach a self-bounding stays possibling, holding open." → Its *does not yet evolve* and *no self yet discovers* said at existing and possibling, each at its parity and its end, as Natural Naming 2.4 says *so-far* and *not-yet*. A re-saying: A same-existing-society reaching a scale of resolving it is possibling is-or-is-not with its next sharing, and a hub selves are possibling breaching a self-bounding is-or-is-not with its next sharing.
+- **Possible incohering** · "What co-chains open: a same-existing-society reaches a concern it is not discovering now where a new between shares, and co-chains to couple with it then." → Its *not discovering now* said at existing and possibling, each at its parity and its end, as Natural Naming 2.4 says *so-far* and *not-yet*. A re-saying: What co-chains possibling: a concern a same-existing-society is possibling, even and across, reaches it where a new between shares, and it co-chains to bi-coupling with that concern then.
+- **Possible incohering** · "Whether a same-existing-society reaches a scale of resolving it does not evolve now stays possibling, holding open; whether a hub no self yet discovers would breach a self-bounding stays possibling, holding open." → Its *does not evolve now* and *no self yet discovers* said at existing and possibling, each at its parity and its end, as Natural Naming 2.4 says *so-far* and *not-yet*. A re-saying: A same-existing-society reaching a scale of resolving it is possibling is-or-is-not with its next sharing, and a hub selves are possibling breaching a self-bounding is-or-is-not with its next sharing.
 
 ## Droplets

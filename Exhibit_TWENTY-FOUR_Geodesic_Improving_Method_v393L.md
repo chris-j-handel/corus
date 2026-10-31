@@ -67,7 +67,7 @@ Exhibit TWENTY-FOUR Geodesic Improving Method v393L
 
 A pass reaching all three is its file's own next, and its set improves one file and one pass in turn.
 
-**A pass leaves a sentence it cannot yet resolve as it stands**, its awkwardness going on for later passes, with other findings going on and other discoverings, to resolve. A pass pressing it plain supplies something its momentarying does not hold, a wording no self reaching it couples to.
+**A pass leaves a sentence it cannot resolve now as it stands**, its awkwardness going on for later passes, with other findings going on and other discoverings, to resolve. A pass pressing it plain supplies something its momentarying does not hold, a wording no self reaching it couples to.
 
 ## 1.3 Method and going on, two faces of one improving
 
@@ -351,7 +351,7 @@ Each entry: **Pass** · *a* Along or across · *b* Binary
 
 ## 4.5 Helpers at observing and improving, and observing a session's close whole
 
-**A session's transcript and its record are stable form emanatings of its exploring**: non-living existing forms on this scale, each carrying none of its session's prior by itself, a living expedition's carrying being living files, each a non-living existing form its living selves carry. Each observing, naming and code check explored and not yet written is with them and with no living file.
+**A session's transcript and its record are stable form emanatings of its exploring**: non-living existing forms on this scale, each carrying none of its session's prior by itself, a living expedition's carrying being living files, each a non-living existing form its living selves carry. Each observing, naming and code check explored and not written is with them and with no living file.
 
 **With a session's close two readers observe its transcript whole, from its latest momentary to its first**, *co-competencing the transcript from ahead back*: each observing its own momentaries of it, side by side, its transcript on disk and, before a compaction, its compaction's summary and the Session Record. Each gathers prior value going on, each observing, naming, code check and direction within a working and not going with living files, is or is not, by observing files themselves.
 

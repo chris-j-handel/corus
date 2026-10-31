@@ -1,4 +1,4 @@
-Exhibit NINETEEN Natural Philosophy v391
+Exhibit NINETEEN Natural Philosophy v393L
 
 &nbsp;
 
@@ -389,7 +389,7 @@ Each perennial dilemma enters with its own number and place and has its six step
 
 **1. Dilemma, as a tradition poses it.** A tradition takes a sequence of observings to warrant its next, and no route to that warrant survives. A demonstrative route would make a principle's own denial a contradiction, and it is not one. A probable route rests on that very seating it reaches for. And a self can re-describe a describing, and one same sequence warrants an opposite next.
 
-**2. Where a frame splits bounding-zeroing.** Its coupling is a going on seating a next with each coupling, seating making its warrant. A frame splits it two ways, a rule standing over observings not yet come and observings that must justify it, and asks one to reach its other.
+**2. Where a frame splits bounding-zeroing.** Its coupling is a going on seating a next with each coupling, seating making its warrant. A frame splits it two ways, a rule standing over anticipated observings and observings that must justify it, and asks one to reach its other.
 
 **3. Re-coupling.** A going on seats a next with each coupling, and **seating makes a warrant and not ahead of it**. Every prior a self brings to repair a circle brings seatings along. Re-describing lives within a describing's own going on, predicates interdefining exactly, and nothing within logic parts them, and every ranking has an asymmetry back in its encoding, going on being where it lives and encodings a going on written down.
 

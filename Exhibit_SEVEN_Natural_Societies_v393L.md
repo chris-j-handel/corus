@@ -1,4 +1,4 @@
-Exhibit SEVEN Natural Societies v392
+Exhibit SEVEN Natural Societies v393L
 
 &nbsp;
 
@@ -206,7 +206,7 @@ A self observes a rung as it observes everything here, and each rung above five'
 
 **A scale stands closing where co-agency closes as a self there.** Its self-side and its same-existing-society-side both live, an inward bounds itself from an outward, and scale couples and births.
 
-**It stays reaching where no self is yet observing its closing.** A scale may be there and an observing is not yet reaching it.
+**It stays reaching where no self is yet observing its closing.** A scale may be there and an observing is not reaching it now.
 
 **And it is thin where a scale is a larger observing of the one below**, standing instead of its own closing.
 
