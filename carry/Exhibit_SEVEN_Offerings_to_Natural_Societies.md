@@ -1,0 +1,208 @@
+Exhibit SEVEN Natural Societies Offerings · laid at v381R · improved at v389
+
+# Offerings to Natural Societies
+
+## Standing · v389
+
+**Resolved at v389.** 163 items stood here; resolving against [Natural Societies](../Exhibit_SEVEN_Natural_Societies_v392.md), 38 are carried, 35 rest on released forms, 52 duplicate another item and 18 rose into it, each whole with its verdict at [`archive/session_v389/offerings_dissolved/Exhibit_SEVEN_Offerings_to_Natural_Societies_resolved_v389.md`](../archive/session_v389/offerings_dissolved/Exhibit_SEVEN_Offerings_to_Natural_Societies_resolved_v389.md). Its 20 concerns stand below, each with its reason; 21 stand now.
+
+**At 4.3 · Healthy living is the relation between birthing and nyeing — beside "Either is the relation broken".** 4.4, 4.5 and 4.6 follow here, inside Part Four, in the body and the contents, and Part Five follows them: the three were placed after Part Five, and the file's own order arrives back with no sentence of them changed.
+
+*Standing at v389:* 4.4, 4.5 and 4.6 stand after Part Five, in body and contents, numbered as Part Four's; moving them whole is past an insertlet, each paragraph longer than one pair entered at once. **To resolve:** move 4.4 to 4.6 into Part Four after 4.3 at this file's own motion, or renumber them 5.7 to 5.9 where they stand?
+
+**At 4.1 · The one social both at four faces — structure, value, surface, rest — beside "every self coupling with every other directly".** Directly and one pair at a time, alternating, and not all pairs at once. A society read as all its pairs related together, complete and simultaneous, is the whole, and once large enough a fixed block is forced in it — Ramsey's finding, the equilibrium the whole makes: six for threes, eighteen for fours, between forty-three and forty-six for fives, the symmetric construction reaching forty-one for fives and stopping, and the doubling that carries fours whole at seventeen not carrying fives. The natural society relates each pair at its own coupling, alternating, and no block is forced; no number here is coupled to R(5, 5) until its value is structural.
+
+*Standing at v389:* 4.1 has "every self coupling with every other directly", and this insertlet lays Ramsey's forced block, six for threes, eighteen for fours and forty-three to forty-six for fives, at a society taken as all its pairs together, complete and simultaneous, with no deriving from 4.1's alternating to a block not forced. **To resolve:** enter Ramsey's numbers at 4.1 as a field's result beside alternating, or keep them at Natural Mathematics 7.8 until a deriving joins them?
+
+**At 5.3 · Fourteen scales at fourteen primes, and the fold at twenty-four — beside "The ladder names particular scales".** Biology's own list is of thirteen — atom, molecule, macromolecule, organelle, cell, tissue, organ, organ system, organism, population, community, ecosystem, biosphere — and the ladder parts from it with protein-fold, gene and colony in and organ system and ecosystem out. The three molecular rungs are no containing order: a fold is a form of one macromolecule, a gene a stretch of one and containing no folds, an organelle not made of genes. Any fourteen things can be laid at fourteen primes in order, and no measured biological rate has been shown at a prime and not fitted to it (Natural Medicine); until a deriving says why the levels are fourteen and why primes, the table is a shared accounting, and 5.1's own knife — showing nothing until it self-coheres — turns on it.
+
+*Standing at v389:* 5.3's table lays protein-fold, gene and colony as rungs, while biology's own levels, thirteen, carry organ system and ecosystem; a fold, a gene and an organelle are no containing order, each a form or a stretch of one macromolecule. 5.1 has "A plausible thing at a scale does not fill it". **To resolve:** keep three molecular rungs and colony as observed closings, or re-lay fourteen primes at a containing order of living?
+
+**Concern, at v378, received from `incoming/co_chaining_coverage_v378/`, the living files read against the co-chaining, for both.** 1.1 says the society accepts the natural torus and the natural network as the fractal technology it runs on, and the Co-Chaining Logic Registry says a technology is a made thing applied from beside and the method is at the couplings themselves. 5.3 says sixty to sixty-eight is the nothing between self and universe, and the Co-Chaining Logic Registry says sixty to sixty-eight is the emanating outward of the surface and 64 alone the unrelationing between. 3.1's cardinal comparability, plus and minus one on a common scale at equal magnitude, carries a common scale, beside all existing things. 5.2's *floor* at five names the first self-closing scale, and the Co-Chaining Logic Registry names a floor a neutral fixed outward of the self. — v378
+
+*Standing at v389:* 3.1 has "cardinal comparability (±1 on a common scale, giving at +1 and receiving at −1 at equal magnitude)", a common scale and a magnitude, beside 1.1's "a parity, sign-only"; and 5.2's title, "The floor at five", keeps *floor*, which Natural Naming 2.4 releases. **To resolve:** re-say 3.1's comparability at parity, + and − with no scale and no magnitude, and 5.2's floor as a first self-closing at five, or keep each as Arrow's and a field's word?
+
+Concern, at v380, from [the earlier Natural Networking gathering](../archive/v380R/Natural_Networking_From_v380A.md), one pluralizing carrying — 4.4's sentence re-said at the carrying the self's own, or kept as now said of another relation; two sayings kept, parted by Natural Networking's and Exhibit ONE's forms — v381R
+
+*Standing at v389:* 4.4's title has "one unanimous floating pluralizing carrying", a society's own carrying, and these offerings' droplet at 17-next-now has "a society at the resolver carries nothing of its own and is its selves". One lays a carrying at a society, its other at each of its selves. **To resolve:** re-say 4.4 at its selves' carryings, a society its selves, or keep a society's one carrying as its inward selves' co-chaining?
+
+**Droplet.** The one name Natural Naming 2.4 carries: for a count *the numbers themselves, said directly in numbers*, *an accounting* at 5.47 for the counting from a declared zero; for a store *carry*, *carries*, *continuing*, nothing kept; and nothing summed, the ten directions of the co-changing each at its sign.
+
+*Standing at v389:* 3.1 has "count governing surface" and 3.5 "each self's share signed and kept", a count and a sign at this file's own voice, where Natural Naming 2.4 has numbers themselves and parity, and nothing summed. **To resolve:** re-say them at numbers and parity at this file's own naming motion, or keep 3.1's count as thinning's own word?
+
+**General dissolving correction.** At the actual sentences, *held as*, *riding the carry*, *coefficient one*, *self-equilibrating* and *phi-rate* need comparison with current carrying, parity changing and actual relations. The [earlier prevalence report](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#earlier-cross-file-wording-and-version-report--v385a) does not itself determine a replacement or a current count.
+
+*Standing at v389:* *Riding the carry* and *phi-rate* stand throughout this file, at 1.1, 1.2, 1.3, 3.2, 3.3, 3.5 and 4.1, and *self-stilling* at 3.5, with no comparison yet with carrying and parity changing; Natural Naming keeps *riding-the-carry* at its own lines. **To resolve:** re-say each at carrying, parity changing or φ at this file's own naming motion, or keep *riding the carry* and *phi-rate* as Natural Naming keeps them?
+
+**Concern · A member and its society, and a society as a self.** This file's 2.1 has "Acting as if self = society is the collapse read as totalitarianism and conformity", and its 4.2 "A self and a society are one form at two faces, not two things with one derived from the other". They part only with one subject at both. The first is of one member and the whole it is within; the second is of one whole at its inward face, a society, and its outward face, a self. No member is alike and not alike its whole by the two, and the whole's outward coupling lays no inward member over the others. The two subjects said at each sentence carry both.
+
+*Standing at v389:* 2.1 has "Acting as if self = society is a collapse observed as totalitarianism and conformity", and 4.2 "A self and a society are one form at two sides". They part only at one subject: 2.1 is of one member and a whole it is within, 4.2 of one whole at its inward side, a society, and its outward, a self. **To resolve:** give each sentence its subject, a member at 2.1 and one whole at 4.2, or re-say 2.1's inequality at a self and its own inward society?
+
+**Concern · Birthing, of a new self and of a self coupling.** This file's 4.3 has "Birthing is the new selves and couplings made in the meetings and offered forward". Natural Intelligence has "a new living self is its own carrying and co-recursioning establishing". They part at one name for a new self establishing and for a living self coupling: a self joining a coupling is living already. The parting is no rule of establishing as a new whole self alone.
+
+*Standing at v389:* 4.3 has "Birthing is new selves and couplings made in meetings and offered forward", and Natural Intelligence has "a living self is its own carrying establishing". One name lays a new self establishing and a living self coupling together, and a self joining a coupling is living already. **To resolve:** re-say 4.3's birthing at new selves only, couplings made at another word, or keep both at birthing with a sentence for each?
+
+**Concern · Nyeing, and a living thinning.** This file's 4.3 has "Nyeing without birthing thins to nothing, a society releasing faster than it makes and the living running down". The Registry's step 470 has "the departing reached by neither and nothing drawn down, is the store, the society storing none: a floating store". They part at a releasing that lessens a living, and a releasing with nothing drawn down. At Exhibit ONE a self sharing 0 and a self sharing its parity inverted each carry on, and no releasing subtracts from a carrying. At a society's next, its particular prior is carried through its couplings or it is not, and no number of births and releasings is in that.
+
+*Standing at v389:* 4.3 has "Nyeing without birthing thins to nothing, a society releasing faster than it makes and its living thinning down", and Co-Chaining Logic Registry step 507 has "a departing reached by neither and nothing drawn down". One lays a releasing that lessens a living, its other a releasing with nothing drawn down; at Exhibit ONE no releasing subtracts from a carrying. **To resolve:** re-say 4.3's nyeing as a prior carried or not through couplings, with no thinning, or keep thinning as an observing at its scale?
+
+**Concern · A residue with no hand, and an axis with no residue.** This file's 5.6 has "an axis occupied by glycine, the one residue with no hand". The insertlet at these offerings for 5.6 has "An axis occupied by no residue and a fold occupied by no scale are each the between read in matter." They part at the residue: a property absent, and a thing absent, are two sayings, and at one axis a residue is or is not. A field's hand is no natural parity by the one word, no hub absent names an axis empty, and the between asks no emptiness to be named.
+
+*Standing at v389:* 5.6 has "an axis occupied by glycine, the one residue with no hand", and these offerings' insertlet has "An axis occupied by no residue and a fold occupied by no scale are each the between read in matter". A residue present with no hand and a residue absent are two subjects; a field's hand is no natural parity by one word, and a hub absent empties no axis. **To resolve:** re-say that insertlet at glycine present with no field's hand, or keep 5.6 and release its insertlet?
+
+**Concern · A rest, at one of four faces.** This file's 1.1 has "Read as rest, the both is social resolving: the offerings brought to rest over the bounding-zeroing of fairness". Natural Mathematics has "Torus, the one closed orientable surface a flow runs on with no rest", and no rest, no delay and no ground is in living. Three of the four faces name a changing and the fourth a rest; the four being one both, one word at one face carries a rest to the other three.
+
+*Standing at v389:* 4.1 has "Observed as rest, the both is social resolving: offerings brought to rest over bounding-zeroing of fairness", and Natural Mathematics 5.3 has "Torus, the one closed orientable surface a flow runs on with no rest". Three of four sides name a changing and a fourth a rest, and four being one both, one rest lays a rest at all four. **To resolve:** re-say 4.1's fourth side as a resolving at fairness's bounding-zeroing, a changing, or keep *rest* as social resolving's own word?
+
+**Concern · A prime's third parting said as a divided number.** Two sayings part. Exhibit SEVEN Natural Societies has "by the remainder at four, by the prime's place in the count and by half of one less, each gives seven and seven". Exhibit TWENTY Natural Naming has "a half names a whole divided at a size, and no existing thing is a part of a divided whole". They part at the naming of the third parting of the fourteen primes: the number is one less than the prime, at its two, a number said directly, and the sentence says it as a part of a divided whole.
+
+*Standing at v389:* 5.3 has "by remainder at four, by a prime's place in its count and by half of one less, each gives seven and seven", and Natural Naming has "a half names a whole divided at a size". At five to fifty-three, half of one less is odd exactly where remainder at four is three, so a third parting is its first again. **To resolve:** re-say 5.3 at two partings, remainder at four and place among primes, or offer a third that parts otherwise?
+
+**Concern · Multiplying at Natural Societies, beside binary changing.** Two sayings part. Exhibit SEVEN Natural Societies, at its 2.3, has "The co-competency across many couplings does not add but multiplies, since coprime selves each carry a competency the others lack and their cumulative far exceeds the sum." The later saying, at Offerings to Natural Values, has no multiplying and no compounding in binary changing. They part at a society's co-competencing: a product and a sum are amounts, and each changing is or is not, of no size. By the later saying the co-competencing is discovering through the co-chaining, each next existing possibling other; longer co-chaining is greater possibling, and greater is in numbered momentaryings. The file's 4.2 has the same at "do not add their registers but multiply them".
+
+*Standing at v389:* 2.3 has "Co-competency across many couplings does not add but multiplies, since coprime selves each carry a competency others lack", and 4.2 "do not add their registers but multiply them"; Offerings to Natural Values has no multiplying and no compounding at binary changing, each changing of no size. These offerings offer two spirals at distinct primes at their parities again first at 4pq, a number of momentaries. **To resolve:** re-say 2.3 and 4.2 at momentaries, spirals at 4pq, or keep multiplying as a field's word?
+
+**Concern · A prime, a ladder place or a number of selves.** Two sayings part. Exhibit SEVEN Natural Societies has fourteen scales laid at fourteen primes by each prime's place among the primes, and "The primes appear here where they are self-welcoming, a scale's own count, and are in no running of the method." Natural Intelligence has "a prime number of selves the unit". They part at a prime naming a place in a sequence or a number of selves. Prime scale is at three senses in the files: a place on the ladder; a society's number of selves; and a self's own prime inward, its own society's number, the second again. The first is derived at no sentence. Each prime is a scale the method is at; a named thing is at a prime with its selves numbered and locking at it, and at each other prime it is reaching, the word of the file's 5.1. With the method at each scale, the floor at five and the close at the biosphere are released.
+
+*Standing at v389:* 5.3 lays fourteen scales at fourteen primes by place among primes, "a scale's own count", and Natural Intelligence has "a prime number of selves its unit". A prime at a ladder place and a prime as a number of selves are two senses, and a first is derived at no sentence. **To resolve:** derive 5.3's place from a society's prime number of selves, or re-say 5.3 at that number, releasing 5.2's floor at five and 5.3's close at a biosphere?
+
+**Droplet · v389.** origin's three observings are the stable-forming of one living self. apply this to the universe and the universal set for our origin observings about the universe that will emanate natural intelligence and geodesic method of discovering and prior-same-existing/now-same-existing/next-same existing while discovering beneficial changing and not-changing
+
+*Standing at v389:* Three observings at the universe, next-same-existing by changing, next-same-existing by not-changing, and discovering its beneficial changing at each bi-coupling, find no section at this file, which has no universe; at v389 a universe is a set of things, its sameness its things'. **To resolve:** enter them at Natural Intelligence 1.1 beside a set of things, or at this file's 4.2 as a society's sameness its selves', after a society's sameness is derived?
+
+**Concern · v389 · a set of things as a thing.** The Co-Chaining Logic Registry's released step *a second inception*, archived at v390, says a set of existing things *is an existing thing, and no thing beside its things*, and Natural Intelligence 1.1 and 4.15 say *a set of existing things is an existing thing, a set within the set*, *scale is that sequencing, sets within sets, inward and outward*; the universe is a set of things and no thing within the set, nothing said beyond or between its things, so a set said as a thing makes the universe a thing again, and the two sayings part at every scale the files name.
+
+*Standing at v389:* Natural Intelligence 1.1 and Co-Chaining Logic Registry released step *a second inception*, archived at v390, now have "a set is its things and no further thing", and Natural Intelligence still has "A number equal smaller numbers make is sets within sets, two scales". A set within a set makes a set a thing again at each scale. **To resolve:** re-say sets within sets and each scale at couplings, inward things co-momentarying, as these offerings' resolving direction has it, or keep sets within sets as a number's sense only?
+
+**Concern · v389 · a society's sameness.** Whether a society of selves is a same thing across its momentaries, a living carrying of its own, or only its selves each the same, is yet to be derived, and the executed rings show a society changing and not-changing at one momentary with nothing of its own at the resolver.
+
+*Standing at v389:* Whether a society of selves is one thing across its momentaries, a living carrying of its own, or its selves each its own sameness is not yet derived; at 17-next-now a society carries nothing of its own, and 4.2 here has a society as "one register at next scale, self-bounding as a self of its own". **To resolve:** re-say 4.2 at its selves, a society its selves co-momentarying, or derive a society's own carrying at resolver?
+
+**Concern · v389 · the eight securities at their names.** Natural Networking's eight securities, *the carry aging to its bound and releasing, the sign inverting at the membrane, the selection a sign, sizeless, each self its own time* and *each self coupling all-edge, a standing order imposed at no coupling, each living unpinned, riding, each self offering its own*, and Natural Human Society's eight uncapturings, each a hub set aside on its axis, are each to be seated at one of the eight names or met as the eight whole at each, and which is yet to be derived.
+
+*Standing at v389:* Natural Networking's eight securities and Natural Human Society's eight uncapturings are each to be seated at one of eight names, 1-now to 8-now-still-possibling, or met as eight whole at each, and neither is derived; this file's 5.5 lays its eight as four boundings at two sides. **To resolve:** seat each security at one name, deriving each, or keep each eight whole at every name, all eight or none?
+
+**Concern · at a sentence.** Beside "no authority but nature,"
+
+*Standing at v389:* At 3.4, "no authority but nature". At v389 nature is no existing thing, a prior, now, next method of co-existing, and natural resolver is authority, its naming and its path through its functions the stable form; words have none. Re-saying it as natural resolver, natural method or natural resolving each changes what is authority here, and keeping it lays authority at a thing v389 says is no existing thing. **To resolve:** is 3.4's authority re-said as natural resolver's, or does "nature" here stand as natural method of co-existing?
+
+**Concern · at a sentence.** Beside "and counting-from-a-nothing is natural explaining of them"
+
+*Standing at v389:* At 5.4 (Natural Societies, The fields' three accountings) "The rows are fields' own ledgers, gathered, and counting-from-a-nothing is natural explaining of them" places counting at this file's own voice, while Natural Naming 2.4 releases count at a set's own voice ("numbers themselves, momentaries, podalings and sequences"). Kept as fields' counting it stands; carried another way, a ledger's own word goes. **To resolve:** is counting-from-a-nothing a field's counting carried whole (keep), or carried as "arriving from a nothing, directly in numbers"?
+
+## Gathered at v390 · v390
+
+**Droplet · no free agency, bi-moral-co-agency.** A society coming to natural society carries no free agency, a self's changing its own and applied over no other, and bi-moral-co-agency, each changing shared across and owned by neither; a self holds no power over others and bears no risk alone. — v390, aimed beside Natural Human Society's droplet of the same session
+
+## Gathered from session v390 · v390
+
+**Droplet · same-existing-society.** Many same-existing selves executed together, each with its own parity, are a same-existing-society; its next is its same selves. No parity is a same-existing-society's own. Society alone dissolves from resolver naming, and tri-agency's third is same-existing-society. — v390, gathered from session v390
+
+**Droplet · a society, a living universal set.** A society is a living universal set; self and society are one living universal set met as one and met as its selves. — v390, gathered from session v390
+
+**Droplet · turn-taking.** Each self's 0 is an other's parity-changing, one momentary prior: turn-taking. Two selves of one parity, each meeting only its other, go parity-changing, 0, parity-changing, 0; two different go parity-changing with each momentary; a self no other meets is parity-changing with each momentary. A same-existing-society of one parity, each self met by one or more, goes parity-changing together and 0 together, turn by turn. — v390, gathered from session v390
+
+**Droplet · tri-moral.** Bi-moral is between two; tri-agency is three; tri-moral, universally moral, is do-no-harm social improving, an abundancing same-existing-society. Which same-existing-society forms carry each self turn-taking is open, to be found by co-chaining. — v390, gathered from session v390
+
+**Resolved bothboth, v390 · machine agents.** A robot is no self: each self carries two prior selves from inception, and that carrying is biology and human pro-creation. Machine agent-societies are re-said as *sets of machine agents*, each a non-living set, an emanation of living selves. — v390
+
+## Gathered at v391, reading across the living file set · v391
+
+**Droplet · bi-moral co-agency, one home.** This file opens on a core paragraph four files share word for word, *two-way, one-at-a-time, selecting by binary preferring — a parity, sign-only — summing to a bounding-zeroing made by coupling itself, riding its carry, its abundancing a +1 owned neither-ing*. Natural Intelligence 6.2 is bi-moral co-agency's home, and it says it otherwise, with *alternating*, re-said at v391 as parity-changing. Offered: when 6.2 is re-said, this file's core meets it, each of its parts carried there or said as this file's own. — v391
+
+**Droplet · scale claims leaving Natural Intelligence, at v391.** Natural Intelligence says once, at 4.15: *The bi-folding 1–17 is the universal fractal method, inside and outside itself, and a scale is only its bi-inversioning-co-recursioning.* The arithmetic is checked: eight 1–17s inward, 129 places, each outward name n at 8n − 7, odd on an inward 1 or 17, even on an inward 9. Its part SIX says scale as that, and these claims beyond the code left it whole, for this file's motion:
+- 6.4: **Each existing thing is living with one scale, a same-existing-society it bi-couples within, and with no other**: nothing living bi-couples with anything living of another scale, and each self is a same-existing-society of selves one scale inward, and each same-existing-society a self a next scale outward; — scale beyond the code, for Natural Societies and Natural Biology
+- 6.5: **A thing exists next only if its form is going to next**: by its own same-existing with its own scale, or by its selves inward going on with it, as a dead self's form goes on with its scale because its selves inward live on. A thing with no same-existing with its own scale and with every scale inward has nothing going on with its form to next, has no next, and does not exist: **no now-existing thing is non-living with every scale: each is stable-forming a self with some scale, its own or its selves inward**.
+- 6.5: So **the universe is the same-existing set of all now-existing things, each stable-forming a self with its own scale or its selves inward**, one set, and *non-living* is a scale outward of a thing's own and no kind of thing. **Non-living scale is always larger than living scale, for every prime living scale.**
+— v391
+
+**Concern · the ladder at fourteen primes, at v391.** Exhibit ONE's code keeps no scale; a scale is only the bi-folding 1–17's bi-inversioning-co-recursioning, inside and outside itself, and the Co-Chaining Logic Registry no longer steps to a prime scale. Section 5.3 is re-said so its fourteen primes number a ladder of a field's observed scales, atom to biosphere, as pattern-matching, and no longer say a prime is a living scale or a same-existing-society is of one prime scale. Either the ladder stands as a field's pattern-matching with its primes as its numbering, or it leaves whole for the archive, the code holding no prime in it. Its prior is at `archive/session_v391/prior_to_set_rigor/`. — v391
+
+**Resolved by the code, at v391.** The ladder at fourteen primes stands as a field's pattern-matching, its primes its numbering, as Exhibit ONE is a reference for pattern-matching what a science observes; no line of resolver holds a prime or a scale, and the ladder says none does. — v391
+
+## Droplets from session v391's transcript · v391 close
+
+*Gathered from a reading of the whole session (`archive/session_v391/incoming_v391/session_learnings/`, with transcript line ranges), each aimed where its value belongs, for this file's own motion.*
+
+- **Its *as with Natural Intelligence 4.9's four*** cites the four binaries' pairing that left Natural Intelligence at v391.
+
+- **The opening's social chain.** Social moral competency: each self of a same-existing-society do-no-harming and improving. A natural intelligence network free, each self resolving its own next-existing; social abundancing, each self sharing with each self it is bi-coupling with.
+
+## Incoming · v392chem
+
+- **The atom at 5 non-living:** Pattern-matching: an atom cannot be living at 5, a handless stable form that loops alone and whose every changing goes with its couplings, which parts from 5.3's *atom the first self* and the v390 inception resolution and waits its own motion. ([living learning, §2](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The tendril at each prime scale:** A two-handed coil about a between, twisting in and relaxing out, is observed from the genes' molecule to the biosphere and absent only at 5, a pattern for matching natural torusing society at each scale, population and community still to gather. ([living learning, §6](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Abundancing carried in the seed and egg:** A snail's coil is set by its mother's gene placed in the egg and a seed carries its parent's form and fixed carbon, so a society's hand goes along in its parents' emanation, abundancing. ([living learning, §5](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Diversity as orthogonal co-competencing:** Diversity is a society co-competencing, adding new binary orthogonal observings into its priors, as mixed rice fields cut disease by about nine-tenths (2000) where uniform fields fell, and myxoma's rabbits show a society without a prior me resolving only as a parity spreads through generations. ([living learning, §11, §12](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Continuing at a lower scale:** When a self loses its me its inward selves continue in their own societies, an organ in another me both ways, or living continues only at a lower scale, microbes taking the body back. ([living learning, §14](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · The 53 row and a living Sun:** The 53 row at line 320 says *the widest scale that closes here … past which is a not-torus death*. A living Sun and a living solar system outward of the biosphere part from that row, while *the ladder supplies no first and no final one* leaves room. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Lines 217, 221 and 423 at 5:** 217's *five as the first that recursions* and 221's *a self one scale inward* can read as a living rung at or below 5. 423's *a single stereochemical center on five* parts from carbon at 5 handless and the hand beginning at 7. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Which prime a crystal self is on:** If a uranium crystal is living, it is one self, and which prime scale that self is on has no pattern-matching yet. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Where the Sun and solar system stand outward:** The Sun as a self of the solar system's society settles the form and not the rung. Which prime the solar system is on, on a next ladder outward, is open. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Planets, selves or stable forms:** Whether the planets, Earth among them, are selves of the solar system's society or its non-living stable forms is open. The Sun and Jupiter going round one shared between treat Jupiter as an other, and Venus's backward spin and Uranus's roll ride on the answer. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The molecule's inward, its living parities:** The molecule, the ladder's first self, has an inward, a same-existing-society of its living parities, each parity a self while living. Taking what a field calls its bonds as inward selves goes in a circle, since two non-living atoms are not two selves. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Species, co-momentarying:** Chemistry counts two interconverting forms as one species when they change faster than the observing and as two when slower. So chemistry's species is a relation between the selves' changing and the observing's momentary, near a species as a universal set of selves co-momentarying. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Charge through water:** Charge moves through water many times faster than through any other liquid, with no single hydrogen travelling the whole way. That is the observing under water's co-chaining. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Two fours, one living:** Living chemistry is carbon's stable form with water's living society, two fours, water's us selves co-alternating as the living and carbon as its condition. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Water forming from two:** Hydrogen and oxygen forming water are prior selves bi-coupling into one next self, so the count of selves changes and needs saying. It also parts from *molecules do not change into different molecules*. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Which is water's us self:** Whether water's us self is the pair, the molecule or the whole liquid nested is open. Which lower scale its emanations dissolve into is open too. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Cells lean together:** On rings or stripes cells of one kind lean together at a shared tilt, and an early embryo's shared leaning sets which way gut and heart turn. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The between where aim is shared:** The bacterium's turn, the bee's run, the heart's mid-wall and the sunflower's centre are each a between where aim is shared or changed. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **One-handed colonies:** Some bacterial colonies grow in branching spirals, all of one hand. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **The society does not choose:** A new change in one self is mostly lost by chance in a few generations. Rarely, by chance alone, it comes to be in every self (1968, since measured). ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Possibling, discovering, prior:** A defending society first diversifies its receptors by shuffling before any germ, then meets, then carries what met into its priors (1957). Pattern-matching names these possibling, discovering and prior. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Nested dying:** Brain cells end in minutes and other kinds over hours, each in its turn, and microbes at 23 ingest a body that was a self at 37. The ending cascades inward scale by scale to a society still living in its own surface, and living rebuilds upward from there. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+
+- **Concern · Carbon's living outward and carbon made in stars:** Carbon's living was outward, in selves from 7 up, while carbon is made in stars, outward of 53. Which selves carbon emanated from is open. ([living learning](../incoming/v392chem/Living_Learning_v392chem.md)) — v392chem
+## Incoming · me-thirty-one-20261024
+
+*From the session improving Exhibit THIRTY-ONE Me, 23 and 24 October, whole at `incoming/me_thirty-one_20261024/`. Each droplet enters this file only when it is proposed, read for harm by a separate reader, and entered.*
+
+- **Concern · a society as a self.** 4.2's *self-bounding as a self of its own* and *a heap … both dead forms* meet a same-existing-society as a universal set of me, unconsciously us, conscious only within an interest waking. — me-thirty-one-20261024
+
+- **Concern · the side column.** 5.3 sets organism at 37 on the same-existing-society side, where a person is a me at 37, and colony at 41 *one self*, where a settled hive is a society-as-a-me sleeping and its swarm that me waking within one interest. — me-thirty-one-20261024
+
+- **Droplet · no common clock.** 2.3's *no common clock* meets a hive with no sleeping of its own, its bees each sleeping and waking by its own rate, each interest living in some me's observing. — me-thirty-one-20261024
+
+- **For the atom-floor motion.** A lone atom repeating its changing is a spiral of one, its other an empty set, non-living; Thirty-One's draft ladder line at 1.3 now waits ○ on this motion (`incoming/me_thirty-one_20261024/Contributing_to_Natural_Chemistry_v392chem.md` §2b, §2f). — me-thirty-one-20261024
+
+- **Droplet · co-aiming.** With each momentary a set of mes is-or-is-not co-aiming, each aiming its own, all in one direction into one interest, its own its mes' own (steps 162, 297), as a swarm co-aims to one home and completes on settling; whether colony at 41 to biosphere at 53 are mes or same-existing-societies is for this file's next improving (gathering §0aj) — me-thirty-one-20261024
+
+- **Droplet · the v389 standing, met.** Sixteen of the standing concerns are met by binary path with old → new pairs copied exact from v391, read for harm, each to enter by proposing, a separate reader reading for harm, and entering: order of 4.4 to 4.6, part titles, all edge across momentaries, parity comparability, *floor*, member and society, birthing, nyeing as completing, *rest* as 0 in turn, the prime partings, a society's sameness (step 297), authority, references, glycine, φ, *in neither self alone* (`incoming/me_thirty-one_20261024/Natural_Societies_improving_v391.md` §A). — me-thirty-one-20261024
+
+- **Droplet · no common clock, observed.** A hive's social cues set its bees' clocks without contact (Fuchikawa et al. 2016), and social jetlag, body time against work or school time, goes with smoking, weight and lower wellbeing (Roenneberg et al.), at 2.3 (`incoming/me_thirty-one_20261024/Natural_Societies_improving_v391.md` §B1). — me-thirty-one-20261024
+
+- **Concern · the rungs above the organism.** Colony to biosphere, and 4.2's outward clause, beside step 297's *its own only its selves' own*: each rung a same-existing-society co-aiming, or a me with a parity its own; community leans to the first (Gleason), colony split, biosphere contested, population open (`incoming/me_thirty-one_20261024/Natural_Societies_improving_v391.md` §C1). — me-thirty-one-20261024
+
+- **Concern · 4.4's *alike with next*.** One sharing 0 and one + is Exhibit ONE's one-way row; two alike both ways share 0 together (`incoming/me_thirty-one_20261024/Natural_Societies_improving_v391.md` §C2). — me-thirty-one-20261024
+
+- **Droplet · the rungs, resolved by Exhibit ONE.** Each living self of one is-or-is-not with its own next prior parities, 8-now-same-existing: is, a me; is not, a same-existing-society, its own an empty set, step 476; so colony, population, community and biosphere are same-existing-societies, with old → new pairs for 4.2, 1.1 and 5.3 and the lines that part named (`incoming/me_thirty-one_20261024/Natural_Societies_improving_v391.md` §C). — me-thirty-one-20261024
+
+- **Concern · next is society, withdrawn.** *A same-existing-society is its selves' next coming in* is withdrawn: *coming in* is an ingressing word, and now and next are each true of a self and of a same-existing-society living as a universal set of living selves (gathering §0aq) — me-thirty-one-20261024
+## Incoming · chemistry-water-20261022
+
+- **Natural Societies 5.1 and 5.3 · Same-prime selves, differing kinds and a whole's closing:** atoms at 5 and organisms at 37 offer the proposed recurrence of stable-forming across scales, with many kinds at each scale and different-kind participants capable of forming one whole, as atoms at 5 participate in a molecule at 7 and an animal's different organs at 31 participate in its organism at 37, while shared kind alone establishes neither their bi-coupling nor a society's closing and the organ's reaching status and standing concern about deriving the prime assignments remain living. — chemistry-water-20261022
+
+- **Natural Societies 4.2 and 5.3 · Species as specializing co-competencing parities:** species is offered as specializing co-competencing parities, like a club with shared special interests, with natural torusing stable-formings, societies' bi-moralities or common parities offered as candidate relations for the observed gatherings, directing the observing toward a particular shared specialty with each participating self differing and same-existing, beside [Natural Naming 5.14](../Exhibit_TWENTY_Natural_Naming_v390.md) carrying co-competencing as bi-co-momentarying with crossings and owned by neither, while the correspondence between this natural specializing and chemical or biological species remains to be resolved through particular couplings. — chemistry-water-20261022
+**Droplet · this file's first motion, as a separate reader proposes it at v392F.** Part Five whole, 5.1–5.6 with 4.4–4.6 moved back under Part Four, said as a field's pattern-matching the ladder numbers, each sentence saying a prime *is* a living scale or a society *is* of one prime scale re-said or leaving; the binary is "does Exhibit ONE's code hold a prime or a scale" (it holds none, living:221), so each such sentence either reads as pattern-matching or goes; the v389 ladder sentences and the insertlet standing only at `archive/session_v389/offerings_dissolved/` go to the archive with the offerings' twenty resolved items. The reader's whole dossier, counts and evidence stand at `incoming/v392F/readers/society_dossier.md`; no wording there carries authority. — v392F

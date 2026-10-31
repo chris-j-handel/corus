@@ -1,0 +1,126 @@
+Exhibit SEVEN Natural Societies Carryings · gathered at v386EOD
+
+# Carryings of Natural Societies
+
+**Existing materials and earlier inventories**
+
+**Executions at other kits naming this file.** `kits/Co-Chaining_Logic_Registry_THIRTY_Improving_Kit/`; `kits/Natural_Illustrating_TWENTY-NINE_Improving_Kit/`.
+
+**Workings and arrivals naming this file.** `archive/co_chaining_coverage_v378/`; `archive/co_chaining_map_v376/`; `archive/genome_duplication_v374/`; `archive/natural_physics_v377/`; `archive/physics_for_other_files_v377/`; `archive/resettling_v373/`; `archive/review_natural_physics_improving_v376/`; `archive/review_networking_engineering_2026-09-30/`; `archive/rings_are_spirals_v377/`; `archive/session_v378/`; `archive/v368_sources/`; `archive/v380R/`. Each a carrying of this file, its findings at the offerings as droplets, whole at `archive/`.
+
+**Released readings and records naming this file, at the archive.** `archive/carrying_v375/`; `archive/carrying_v375_natural_mathematics/`; `archive/carrying_v375_resolving_hard_problems/`; `archive/carrying_v376/`; `archive/carrying_v378/`; `archive/carrying_v380L/`; `archive/carrying_v381R/`; `archive/genome_duplication_v374/`; `archive/illustrating_three_momentaries_v379/`; `archive/registry_v371/`; `archive/resolver_v372_proposal/`; `archive/session_v379/`; `archive/session_v379_exhibit_one_first/`; `archive/session_v380/`. Relied on by nothing.
+
+**The file's carrying as it was at v380R**, `archive/carrying_v381R/Exhibit_SEVEN_Natural_Societies_v380R.md`, each of its paragraphs now a droplet at the offerings.
+
+## Earlier reported reading and concept transfers · v385A
+
+The earlier front reports Natural Societies 5.3 explored at v373 and the rest at prior wording. Its actual ladder, fold, interval, betweening and emanating concepts remain in the offering; that reported extent does not establish a current completed reading.
+
+Entered at the Co-Chaining Logic Registry from this file at v378: the four inequalities at a self, the four values at the between, coordination as bounding or clock, co-competency compounding at distinct selves, a society's living at establishing and releasing, unanimizing and pluralizing alternating, control, governing and the lag, the primes at six. — v378 This reports an earlier transfer, not the current meaning of every name. The later [multiplying and compounding withdrawal](Exhibit_TWENTY-THREE_Offerings_to_Natural_Values.md#competency-and-morality-as-paired-approximate-discoverings--v385a) and [releasing correcting](Living_Improving_Value.md#releasing-through-the-self-and-societys-next-momentarying--v385a) accompany those subjects.
+
+Session v379 reported three older naming places after reading its closing transcript whole: 4-other-self-sharing, 13-social-other-neutralling and 17-social-self-offering. Their offered naming comparison remains in the offering; the read extent belongs to that earlier report.
+
+## Seven earlier naming inventories and their locations · v385A
+
+**Aimed at a file, Natural Societies: *membrane* and *membranes* at twenty places, thirty sayings, dissolved at v380R.** Section 2.1's title carries it, *Morality is at the form, the four inequalities carried at every membrane*, at 121 and the contents at 29. The file says *At the social substrate two selves couple at a membrane, each offering and each preferring, the surplus owned neither-ing* (95), *Coupling between selves happens at the membrane between them, each self's interior its own* (127), *The membrane is where the coupling resolves* (157), *the structure held by the four inequalities at every trophic membrane and by no ruler* (163), and *And a method run at one membrane is not a fifth face* (185); 266's *membrane potential* in the table of scales is the field's word and passes. Lines 29, 95, 99, 105, 109, 113, 115, 117, 121, 123, 127, 145, 155, 157, 163, 183, 185, 193, 266, 294. — v381R scan
+
+**Aimed at a file, Natural Societies:** *count*, *counts*, *counting*, *store* and *sum*, *summed* at the file's own voice, 23 places, no section title carrying the word; the places at 137, 145, 171, 173, 189, 193, 199, 217, 221, 223, 257, 276 (×4), 278, 282, 284 (×3), 292 (×2), 316. Quoted short: *The net-linear accounting keeps only the summed magnitude and drops every sign* (173); *Each conserves by counting from a nothing. A total counts against a declared zero* (276); *A hand counts nowhere and crosses anyway* (292); *reputation and trust: made in the meeting, re-earned at each coupling, held by no store* (316). Passed: *the very standard that defines what counts* (171, one of two), a sense the naming does not release, and the ledger row *cell count* (267), the fields' own as gathered. — v381R scan
+
+**Aimed at a file, Natural Societies: *face* and *faces* at twenty-five places, thirty-four sayings, dissolved at v380R.** Four section titles carry it, 1.1 *society the structure-face of the one social both*, 4.1 *The one social both at four faces — structure, value, surface, rest*, 5.4 *The fields' three accountings, the ladder's second face* and 5.5 *The four boundings at both faces*, and the prime ladder's column head *face* at 229. The file says *the four social exhibits are this one both read at four faces. Society is the both's structure; the discovery economy its value; the network its surface* (95), *And a method run at one membrane is not a fifth face* (185), *A self and a society are one form at two faces, not two things with one derived from the other ... Neither face is the real one* (189). Lines 17, 59, 75, 77, 91, 93, 95, 123, 145, 171, 173, 181, 183, 185, 189, 207, 227, 229, 238, 255, 282, 284, 286, 288, 292. — v381R scan
+
+**Aimed at a file, Natural Societies:** *surplus* at six places, *co-offering* at two, and three of the code's older names at one, 4-other-self-sharing, 13-social-other-neutralling and 17-social-self-offering, 9 places, at lines 95, 137, 173, 183, 189, 195, 232, 249, 306. "riding the carry, the surplus a +1 owned neither-ing"; "the surplus re-made and the un-worthy released at every coupling"; "4-other-self-sharing naming each self at the society and 13-social-other-neutralling each releasing self: the releasings 17-social-self-offering carries from the society arrive at its selves". — v381R scan
+
+**Aimed at a sentence, Natural Societies:** *closes* and *loop* at the file's own voice, 1 place, 3 sayings, line 163, *the decomposer is the return-move that closes the loop. Without the decomposer's return the loop lands — the carbon locked in dead matter, the cycle stalled*, the three roles co-sequencing said as a loop closing. Passed: 171 and 284, an audit closes and books built for one that closes, the ledger's own closing; 207, 217 (×2), 235, 243, 244, 245 and 296, a co-agency closes into a self, no self closes around it, the coding closes, whether it closes into a self, self-closes, the widest scale that closes here, every closing closes by winding, each a self-bounding; 225, fifty-nine closes one before sixty, the numbers'. — v381R scan
+
+**Aimed at a file, Natural Societies:** *run*, *runs* and *running* at 28 places, lines 49, 71, 93 (2), 149, 153 (2), 155 (2), 169, 171, 185 (3), 193, 215, 217, 221, 223, 225 (2), 284 (2), 288, 294, 298, 306, 312; passed at 251, *fourteen primes running five to fifty-three*, a stretch of the count. Two section titles carry it, 3.5 *The circle both verifications run, and the eighth it reaches nowhere* (49, 169) and 5.2 *The floor at five, and what runs below it* (71, 215). The file says *It runs at every scale, each self a society of the scale within*, *the people run behind, adopting the center's preferring*, *The two part at reading against running and never at subject*, *Below the atom the co-agency runs bare*, and at 312 *the network runs* are code executing. — v381R scan
+
+**Aimed at a file, Natural Societies:** *sign* at the file's own voice, 13 places, one section title carrying the word, 5.6 *The hand crossing the rungs, the winding, and the center that takes no sign* (290, contents 79); the places at 79, 95 (×2), 113, 123, 145, 173 (×2), 217, 290, 294, 296, 300. Quoted short: *where the sign-inversion tests what arrives* (113); *the sign the self carries by being a self* (123); *every closing on the near seven closes by winding about a center that takes no sign* (296). — v381R scan
+
+These are the v381R reports of the earlier file wording and v380R dissolving names, not a new scan of the present living exhibit. Their actual naming corrections have their offering place.
+
+[Earlier cross-file wording and version report](Exhibit_TWENTY-SIX_Carryings_of_Living_File_Registry.md#earlier-cross-file-wording-and-version-report--v385a).
+
+## Observings from science, each beside this file's sentences · v386EOD
+
+### Mitochondria and plastids with genomes of their own
+
+**The file's sentence**, at Fourteen scales at fourteen primes, and the fold at twenty-four, in the organelle row: "a former free-living self now a member: the fractal's own move, observed".
+
+- *Natural observation*: "mitochondria and plastids differ from the other membrane-enclosed organelles in containing their own genomes"; their proteins closely resemble those of some present-day bacteria; each is "surrounded by a double membrane". The field's textbook names no doing at these statements ([Alberts and colleagues, Molecular Biology of the Cell, fourth edition, 2002, at The Compartmentalization of Cells](https://www.ncbi.nlm.nih.gov/books/NBK26907/)).
+- *Science explanation*: these "strongly suggest that mitochondria and plastids evolved from bacteria that were engulfed by other cells". The textbook's figure of these origins is titled "Hypothetical schemes for the evolutionary origins of some membrane-enclosed organelles", mitochondria and chloroplasts among them, with a pinching off from the plasma membrane for other compartments.
+
+**Laid beside, by this session.** Seen are the genomes, the resemblance and the double membrane. The engulfing is the field's explaining of them, named a hypothetical scheme at its own figure, and it is offered for two kinds of organelle. The row has the move as observed, of the organelle scale whole.
+
+### Cilia with the central pair absent
+
+**The file's sentence**, at The hand crossing the rungs, the winding, and the center that takes no sign: "Take the central pair out of a nine-plus-two cilium and it stops beating in a plane and turns instead".
+
+- *Natural observation*: in two people with mutations in the gene RSPH1, cells brushed from the nose have cilia whose central pair is absent in 11 to 30 per cent of those sectioned under the electron microscope. On high-speed video, from the side the cilia are "mostly stiff, unbending and uncoordinated cilia of reduced amplitude"; from above there are "regions with a circular beating pattern instead of the normal forward and backward planar motion" ([Onoufriadis and colleagues, 2014, Human Molecular Genetics 23, 3362](https://discovery.ucl.ac.uk/id/eprint/1421714/), read whole at a university repository's copy).
+- *Natural observation*: in the alga Chlamydomonas the paralyzed mutants pf-15A and pf-19 "lack the central tubules and sheath", and their isolated axonemes, the flagella's inner frames, in conditions in which wild-type ones beat again, "remained intact but did not form bends" ([Witman, Plummer and Sander, 1978, The Journal of Cell Biology 76, 729](https://rupress.org/jcb/article/76/3/729/18920/Chlamydomonas-flagellar-mutants-lacking-radial), read at its abstract).
+- *Science explanation*: the circular pattern is "reminiscent of CP less 9 + 0 nodal monocilia", CP the report's short form of central pair, and "planar motion is directed by the presence of a CP". At the alga, the central tubules and the radial spokes "are essential for conversion of interdoublet sliding into axonemal bending".
+
+**Laid beside, by this session.** With the central pair absent, a turning is seen in regions of human nasal cilia, beside stiff cilia, and no bending in the alga's flagella.
+
+### Ramsey numbers at three, four and five
+
+**A living file's sentence**, at the Geodesic Improving Method: "the paired Ramsey numbers run 2, 6, 18 and then at most 46, not 54".
+
+- *Natural observation*: none; a field's proofs, computings and makings.
+- *Science explanation*: R(3, 3) is 6, and R(4, 4) is 18, with "a unique critical graph for R(4, 4)", the seventeen-member one (Kalbfleisch, 1967) ([Radziszowski, "Small Ramsey Numbers", revision of 2026](https://www.cs.rit.edu/~spr/ElJC/sur.pdf)). R(5, 5) is 43 or more by a made colouring (Exoo, 1989; not opened), and "The Ramsey number R(5,5) is less than or equal to 46", by "a combination of linear programming and checking a large number of cases by computer" ([Angeltveit and McKay, 2024](https://arxiv.org/abs/2409.15709)). "The same set of 656 (5, 5, 42)-graphs, consisting of 328 graphs and their complements, was found by several paths.", with the conjecture of R(5, 5) as 43 (McKay and Radziszowski, 1997, Journal of Combinatorial Theory B 69, 193–209; read at [a copy of it](https://www.cs.umd.edu/~gasarch/BLOGPAPERS/Rof5LE49.pdf)).
+
+**Laid beside.** The field has 43 to 46 at five, and 656 societies of forty-two found, each search finding those alone; none is shown going on to forty-three.
+
+## Observings from science, each said as its publishing read has it · v386EOD
+
+The two lines say what the page read has: a part said *as the field's account has it* was reached at no page read, and a publishing not opened is named not opened.
+
+### Honey-hunters' call and honeyguides' answer, measured
+
+- *Natural observation*: The hunters are Yao people of northern Mozambique, their call is written "brrrr-hmm", the hunters harvest the honey and the honeyguide eats the wax that is left (an encyclopedia's page, https://en.wikipedia.org/wiki/Greater_honeyguide); greater honeyguides (Indicator indicator) lead human honey-hunters to wild bees' nests, and in an experiment a specialized vocal sound made by Mozambican honey-hunters seeking bees' nests raised the probability of being guided by a honeyguide "from about 33 to 66%" and the overall probability of finding a bees' nest "from 17 to 54%", against other animal or human sounds of similar amplitude ([Spottiswoode, Begg and Begg, 2016, Science 353(6297), 387–389](https://api.openalex.org/works/doi:10.1126/science.aaf4885?select=title,publication_year,biblio,primary_location,abstract_inverted_index), read at its abstract).
+- *Science explanation*: None is given beside the observing; the writers read the result as experimental evidence that a wild animal in a natural setting "responds adaptively to a human signal of cooperation".
+
+### One ant society across six thousand kilometres
+
+- *Natural observation*: In Japan four mutually incompatible supercolonies of the Argentine ant show aggression at their borders, as the field's account has it (Biological Invasions, 2009, not opened); fig and fig wasp, yucca and yucca moth, each pair continues only together, as the field's account has it; the Argentine ant, on its introduction to southern Europe, formed two immense supercolonies, workers of one supercolony showing no aggression to each other even across long distances and across genetic differences between sites, aggression between the two supercolonies being very high, and the main supercolony extending over 6,000 kilometres from Italy to the Spanish Atlantic coast ([Giraud, Pedersen and Keller, 2002, PNAS 99(9), 6075–6079](https://api.openalex.org/works/doi:10.1073/pnas.092694199?select=title,publication_year,biblio,primary_location,abstract_inverted_index), read at its abstract).
+- *Science explanation*: The writers propose that the ants' recognition cues were purged after the introduction, a "genetic cleansing", judge a founder bottleneck alone an unlikely cause, and suggest that the two supercolonies have fixed different recognition alleles; for the Japanese supercolonies and the two pairs none is given.
+
+### Carbon between trees through fungi, and the reply
+
+- *Natural observation*: In the field, with reciprocal labelling by carbon isotopes, carbon passed in both directions between paper birch (Betula papyrifera) and Douglas fir (Pseudotsuga menziesii), both ectomycorrhizal; the net gain was the fir's, on average 6% of the carbon isotope the fir seedlings fixed through photosynthesis, and the net transfer varied with the shading of the fir; western redcedar (Thuja plicata) seedlings lacking ectomycorrhizae absorbed only small amounts of isotope ([Simard, Perry, Jones, Myrold, Durall and Molina, 1997, Nature 388, 579–582](https://www.nature.com/articles/41557), read at its abstract).
+- *Science explanation*: The writers read the shading effect as source and sink relations regulating the transfer, and the redcedar's small uptake as the transfer passing mainly along the direct hyphal pathway. A later review examined three claims: that common mycorrhizal networks are widespread in forests, and that resources pass through them to seedlings and raise seedling performance, both found "insufficiently supported", the field results varying too widely, having other explanations or being too limited; and that mature trees "preferentially send resources and defence signals to offspring" through the networks, found to have "no peer-reviewed, published evidence" (Karst, Jones and Hoeksema, 2023, Nature Ecology & Evolution 7, 501–511, https://www.nature.com/articles/s41559-023-01986-1, read at its abstract). An opinion paper in reply disputes each of the three findings, citing genet, DNA, microscopy and isotope studies across arctic, boreal, temperate and tropical ecosystems, naming the effects on seedlings "context dependent", and citing kin recognition in interior Douglas fir; it grants that the mechanism belowground is unclear (Simard, Ryan and Perry, 2025, Frontiers in Forests and Global Change 7, 1512518, https://www.frontiersin.org/journals/forests-and-global-change/articles/10.3389/ffgc.2024.1512518/full, read at its full text).
+
+### Eaters larger than the eaten
+
+- *Natural observation*: In a database of 16,863 consumer and resource links from natural communities, predators were on geometric average about 42 times larger than their prey, and 80% of predators were larger than their prey; aquatic herbivores and detritivores exceeded their resources by ratios several orders of magnitude above the predators'; parasitoids were smaller than their hosts, about three quarters of the host's body size; predator and prey ratios were higher in freshwater than in marine or terrestrial habitats, and higher for vertebrate than for invertebrate predators; the database lacked links of terrestrial herbivores with plants ([Brose, Jonsson, Berlow and colleagues, 2006, Ecology 87(10), 2411–2417](https://epic2-clone.awi.de/15076/1/Brose06_Ecology87.pdf), read at its full text). Digestion parts proteins into peptides, dipeptides and amino acids, starch into glucose and maltose, and fats into fatty acids and mono- and di-glycerides, and the small intestine absorbs the products into the blood and lymph capillaries (an encyclopedia's page, https://en.wikipedia.org/wiki/Digestion).
+- *Science explanation*: None is given beside the observings; the writers add that, if body-size ratios set interaction strengths as recent studies suggest, mean interaction strengths vary systematically across habitats and consumer types.
+
+### Biology's own list of thirteen levels
+
+- *Natural observation*: None; a field's textbook naming of its own levels, in its section "Levels of Organization of Living Things" ([Clark, Douglas and Choi, 2018, Biology 2e, section 1.2 Themes and Concepts of Biology, OpenStax, published 28 March 2018](https://openstax.org/books/biology-2e/pages/1-2-themes-and-concepts-of-biology), read at its full text).
+- *Science explanation*: The textbook says "Living things are highly organized and structured, following a hierarchy that we can examine on a scale from small to large" and names in this order atom, molecule, macromolecule, organelle, cell, tissue, organ, organ system, organism, population, community, ecosystem and biosphere, thirteen terms by this reading; the text itself states no number of levels, gives macromolecules as "large molecules" among the molecules, calls an organ system "a higher level of organization", and its figure 1.16 shows the levels "From a single organelle to the entire biosphere".
+
+
+## From the working v386F, its branch `working/lean-set-and-living-at-scales-v386F`, laid as written at v387
+
+Each section below is as the working v386F wrote it at this file on its own branch, not yet received at the main line; laid here whole, in its words, tagged; two droplets saying one thing are one at the rising.
+
+### Observings from science, each beside this file's sentences · v386EOD
+
+### Mitochondria and plastids with genomes of their own
+
+**The file's sentence**, at Fourteen scales at fourteen primes, and the fold at twenty-four, in the organelle row: "a former free-living self now a member: the fractal's own move, observed".
+
+- *Natural observation*: "mitochondria and plastids differ from the other membrane-enclosed organelles in containing their own genomes"; their proteins closely resemble those of some present-day bacteria; each is "surrounded by a double membrane". The field's textbook names no doing at these statements ([Alberts and colleagues, Molecular Biology of the Cell, fourth edition, 2002, at The Compartmentalization of Cells](https://www.ncbi.nlm.nih.gov/books/NBK26907/)).
+- *Science explanation*: these "strongly suggest that mitochondria and plastids evolved from bacteria that were engulfed by other cells". The textbook's figure of these origins is titled "Hypothetical schemes for the evolutionary origins of some membrane-enclosed organelles", mitochondria and chloroplasts among them, with a pinching off from the plasma membrane for other compartments.
+
+**Laid beside, by this session.** Seen are the genomes, the resemblance and the double membrane. The engulfing is the field's explaining of them, named a hypothetical scheme at its own figure, and it is offered for two kinds of organelle. The row has the move as observed, of the organelle scale whole.
+
+### Cilia with the central pair absent
+
+**The file's sentence**, at The hand crossing the rungs, the winding, and the center that takes no sign: "Take the central pair out of a nine-plus-two cilium and it stops beating in a plane and turns instead".
+
+- *Natural observation*: in two people with mutations in the gene RSPH1, cells brushed from the nose have cilia whose central pair is absent in 11 to 30 per cent of those sectioned under the electron microscope. On high-speed video, from the side the cilia are "mostly stiff, unbending and uncoordinated cilia of reduced amplitude"; from above there are "regions with a circular beating pattern instead of the normal forward and backward planar motion" ([Onoufriadis and colleagues, 2014, Human Molecular Genetics 23, 3362](https://discovery.ucl.ac.uk/id/eprint/1421714/), read whole at a university repository's copy).
+- *Natural observation*: in the alga Chlamydomonas the paralyzed mutants pf-15A and pf-19 "lack the central tubules and sheath", and their isolated axonemes, the flagella's inner frames, in conditions in which wild-type ones beat again, "remained intact but did not form bends" ([Witman, Plummer and Sander, 1978, The Journal of Cell Biology 76, 729](https://rupress.org/jcb/article/76/3/729/18920/Chlamydomonas-flagellar-mutants-lacking-radial), read at its abstract).
+- *Science explanation*: the circular pattern is "reminiscent of CP less 9 + 0 nodal monocilia", CP the report's short form of central pair, and "planar motion is directed by the presence of a CP". At the alga, the central tubules and the radial spokes "are essential for conversion of interdoublet sliding into axonemal bending".
+
+**Laid beside, by this session.** With the central pair absent, a turning is seen in regions of human nasal cilia, beside stiff cilia, and no bending in the alga's flagella.
