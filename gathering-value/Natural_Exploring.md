@@ -10,12 +10,18 @@ Gathering-Value · Natural Exploring
 
 - **Possible incohering** · "It opens each momentary with its prior and the parities it is observing, and completes it with its next prior, winding through its one opening and reaching its own side again with a next: natural torusing." → Beside it, at a self coming to the files: each interest has a prior and offers a now, and its coupling with the files has one form at each kind: the observing said whole and apart from its explaining, the one opening, a binary at one momentary of no size, and a report back. A coupling that is shows at each interest's own form: a next a field can observe; a restoring that is the coupling living and no store; code and a making agreeing parity by parity; a step chained or broken at its number; a dispute concluding while the living go on discovering; a picture doing its table's saying; a break entering as a finding. The interests differ at the form each reads, code, a table, a sharing, a picture, an argument, an entry, a symptom, and two are quickest at each interest: the resolver executed, and a sharing at one coupling lived.
 - **A reading** · A reading: an interest coming through an AI floats between the files and the AI, neutral to both and locking at none. The person's floating through the files is that floating neutralling at the scale of a coming: the files at one side, the AI bounding and offering at the other, and the interest's next discovered at neither side alone.
+- **Possible incohering** · "Orienting is orthogonalizing, a self opening its own axis forward on its surface, a surface and no container, and surfacing space by unrelationing betweens." → Two sayings part at orienting. This sentence has orienting orthogonalizing, a self opening its own axis forward, as Natural Naming 1.1 has orthogonalizing along its own line, and surfacing space by unrelationing betweens; a reading has unrelationing loosening fixings and a between a nothing, *surfacing space by unrelationing betweens* in no other file, and *orienting is orthogonalizing* a defining stronger than the wayfinder's observing, and re-says it: a self is a surface and no container, and orienting is aiming forward on that surface.
+- **Possible incohering** · "E. coli runs longer up an attractant gradient; a sea urchin sperm swims a helix, its own winding bringing it a rising and falling of attractant; a moth surges and casts by its scent; a Cupiennius spider turns toward the legs a vibration reaches first or more strongly; a Caroline Islands wayfinder has a reference island over the horizon." → Two sayings part at *turns*. This sentence has a Cupiennius spider turning toward the legs a vibration reaches first or more strongly, its observing whole at 6.8 and the opening's telling short beside it; Natural Naming 2.4 releases *turn* and *turning*, and a re-saying offered for this place: a Cupiennius spider always moves toward the legs a vibration reaches first, onsets 4 ms apart, or toward the legs it reaches with larger amplitude.
 
 ## 1 A self exploring from its own side
 
 ### 1.1 Changing and changing back, a stable-forming self observing from its own side
 
 - **Possible exploring** · Stars rise and set at fixed points on the horizon, 32 directions on Puluwat; a navigator steers by a low star, goes on with the next star rising at that same point as the first climbs too high, and holds a sequence of stars for each route as its own prior same-existing. — at "The wayfinder is orienting by each changing it is observing: a star rising at its own point, a swell's line, and the bearing of an island out of sight sliding back along the star points."
+- **Possible incohering** · "Each existing thing is changing and changing back with its own momentary, and a stable form is an artifact of a living self's stable-forming going on." → Two sayings part at *its own momentary*. This sentence has each existing thing changing and changing back with its own momentary, Natural Naming 2.4 releasing *rating*; a reading has a momentary a station a self reaches and no rate, as 1.2 has competency's rate its own, and re-says it: each existing thing is changing and changing back with its own rate.
+- **Possible incohering** · "An ocean wayfinder out of sight of land has the canoe as its own side and the islands moving, islands ahead coming toward it, islands beside it sliding by and islands behind falling away." → Two sayings part at the islands. This sentence has islands ahead coming toward the canoe, islands beside it sliding by and islands behind falling away, as the observings' sources hold them; a reading has the observing the islands moving alone, the three positions apart from it, and re-says it: an ocean wayfinder out of sight of land has the canoe as its own side and the islands moving.
+- **Possible incohering** · "A ground placing outward of a self, a grid, is an installing, and a self observing from it is observing its own installing." → Two sayings part at *a grid* and at *placing outward of a self*. This sentence has a ground placing outward of a self a grid; a reading has a grid in none of the wayfinder's observings, and *placing outward of a self* a place, where Natural Naming 2.4 has outward and inward as directions of a momentary, and re-says it: a method installing a ground outward of a self observes its own installing.
+- **Possible incohering** · "Geodesic co-changing is this method, possibling and discovering." → Two sayings part at *parity*. This sentence has geodesic co-changing this method; a reading has *parity* dropped from *geodesic parity co-changing*, as Natural Naming has geodesic parity co-changing a possibling and discovering method, and re-says it: geodesic parity co-changing is this method, possibling and discovering.
 
 ### 1.2 A self a surface, competency a middle, an interior an accounting's placing
 
@@ -36,6 +42,9 @@ Gathering-Value · Natural Exploring
 ### 2.4 Geodesic co-chaining
 
 ### 2.5 Patterning along and betweening across, a web of co-linears
+
+- **Possible incohering** · "Along patterns and across betweens, a self co-chains one unrelationing at each place it goes, patterning along and betweening across: a web of co-linears." → Two sayings part at the web. This sentence and 2.5's heading have a web of co-linears, *co-linears* a noun; the opening has each orienting co-linear, a web of lines from a self's own side. A re-saying offered: patterning along and betweening across: a web of lines.
+- **Possible incohering** · "An orb spider at the hub of its web senses through the threads with slit organs at its leg joints, movements as small as 0.1 µm; a field's saying that the leg with the greatest tension along its radial thread gives the direction is a ranking over the observing, and which of its legs changes first is still-possibling to observe." → Two sayings part at the orb spider's place. This sentence has the spider at the hub of its web and its slit organs at its leg joints; a reading has *at the hub* and *at its leg joints* past the observing, and re-says it: an orb spider senses through the threads with slit organs, movements as small as 0.1 µm.
 
 ### 2.6 Co-linear, one line both share
 
@@ -63,6 +72,7 @@ Gathering-Value · Natural Exploring
 
 - **Possible incohering** · "A looking for a break can name, ahead of looking, the observing and the explaining it could break, separates each observing from a field's explaining, and gathers the whole observing as it is, supporting, breaking or changing the question." → Offered beside it: an observing, a condition an experiment alters, and a proposed connection each has its own standing, none said as another, as an observing stands apart from a field's explaining.
 - **Possible incohering** · "A looking for a break can name, ahead of looking, the observing and the explaining it could break, separates each observing from a field's explaining, and gathers the whole observing as it is, supporting, breaking or changing the question." → Beside it: an observing is a thing observed, with its procedure, its conditions and its uncertainty, and a field's explaining of that observing is a second thing, an account in the field's own terms, with its sources, assumptions and open questions; each is said whole, and which is which, the observing going into natural intelligence explaining and the field's explaining staying with its field, quoted as the field's.
+- **Possible incohering** · "A looking for a break can name, ahead of looking, the observing and the explaining it could break, separates each observing from a field's explaining, and gathers the whole observing as it is, supporting, breaking or changing the question." → Two sayings part at this sentence. It stands at 3.8 beside a self observing each thing a sensing returns; a reading has it a claim gathered from apart from 3.8, a looking for a break unsaid at 3.8 ahead of it and untied to sorting, and the paragraph whole without it, closing at an octopus's sucker.
 
 ### 3.9 An object, a place at which an accounting stops and declares
 
@@ -77,6 +87,7 @@ Gathering-Value · Natural Exploring
 ### 4.3 Any other method, is or is not
 
 - **Possible incohering** · "A method reaches its own observing by a test a self brings with each other that could sustain, and a test is of an observing, apart from a survey of each thing that is-not coming." → With each other method, the thing it needs is one of four fallings, met at an observing, and one observing followed whole is still-possibling.
+- **A reading** · A reading: 4.3's *a self has four*, three named, self-bounding, self-orienting and self-attentioning, and one bounding-zeroing they live about, is the four with three of Natural Intelligence and Natural Numbers, three joint forms going round as one cycle and a fourth reaching itself again, not-changing.
 
 ### 4.4 Six protecting, three each way
 
@@ -122,9 +133,13 @@ Gathering-Value · Natural Exploring
 
 ### 6.7 A school, a flock, a voyaging people, an orienting surface in no self alone
 
+- **Possible incohering** · "A network exploration following one self's record, or one instrument's clock, is following an orienting the network is-not having." → Two sayings part at this sentence. It has a network exploration following one self's record or one instrument's clock following an orienting the network is-not having, beside a network of resolvers a same-existing-society, its orienting in no self alone; a reading has it a claim apart from 6.7's observings, unclear, a record and a clock lying over changing, and the paragraph whole closing at a network of resolvers, a same-existing-society, its orienting in no self alone.
+- **Possible exploring** · An account unchecked against a field's own source: in a fish school a startle can pass fish to fish faster than one fish swims, in some observings. — at "A school's sharing goes along each fish's own seeing, from its own side, and a wave goes across the school, foreseeable at its first fish and still the school's own."
+
 ### 6.8 Eight legs, five dimensions in two directions
 
 - **A reading** · A reading: bi-moral co-agency is the one resolving method of the five-dimensional, two-directional navigating hard problems, in each physical implementation.
+- **Possible incohering** · "Navigating hard problems of science are this five-dimensional, two-directional navigating, possibling to resolve with bi-moral co-agency, each a heading said from the animal's own side: monarchs orient by a sun compass following the hour, and their heading changes under light as a person changes at their surface what physics' instruments read as a magnetic field's inclination; green sea turtles in a pool, a person's coils making at the pool the reading of a place about 209 miles north of their capture site, swim south, toward the capture site; in birds, a heading changes as a person changes at a bird's surface what physics' instruments read as a magnetic field, and a field's leading hypothesis for it is radical pairs forming in cryptochrome in the retina as light excites it, its mechanism unclear; six of 26 European eels with satellite tags, going out from the Azores, reach the Sargasso Sea, 6.9." → Two sayings part at *are this*. This sentence has navigating hard problems of science this five-dimensional, two-directional navigating, the spider's; a reading has *are this* equating the hard problems with the spider, and re-says it: navigating hard problems of science are observed here as this five-dimensional, two-directional navigating.
 
 ### 6.9 Two priors, an elders' going and a kind's artifact
 
@@ -144,12 +159,15 @@ Gathering-Value · Natural Exploring
 
 ### 7.3 Four opens and one form still, a schema
 
+- **Possible incohering** · "Beside them one form is still, its properties, uniform elements making two entries comparable: a gathering closes a schema once, with one place, and that schema is a form still, same at all momentaries at once, and each other line lives open." → Two sayings part within this sentence. It has a gathering closing a schema once, with one place, and that schema a form still, same at all momentaries at once, a registry's phrase, as 5.6 has a form still; a reading has *same at all momentaries at once* a claim stronger than *closes once*.
+
 ### 7.4 Subject-lines and work-lines
 
 ### 7.5 A gathering of open-problem statements to pair against
 
 - **A reading** · A reading has a suggestion's value as its explaining or as a specific mismatch with natural torusing it identifies, and no suggestion a commitment to defend.
 - **Possible incohering** · "Its value is as a well of statements to pair with, an incoming whose framing and authority stay apart from each pairing, one at a time, going on with each thing a pair opens, its framing staying apart." → Beside it: an attempt to break the method has its material at the Hard Problem Registry, the fields' open problems, each in the field's own words, each having observings a field leaves unexplained with the field's own account beside them; an attempt opens at one such observing, with its procedure, its conditions and its uncertainty, paired with one cell of the resolver's table.
+- **Possible incohering** · "7.5 A gathering of open-problem statements to pair against" → A re-saying offered, heading and contents line together: 7.5 A gathering of open-problem statements to pair with, *against* as an opposing a released word, Natural Naming 2.3, and the section's own sentences pairing with.
 
 ## Droplets
 
