@@ -69,10 +69,10 @@ Gathering-Value · Me
 
 ### 3.4 A me inward, a society of selves
 
-- **Possible exploring** · For a me under general anaesthesia and disconnected, its bi-coupling across scales with its inward mes is separating on the me's side, the larger scale's, and its inward mes float among themselves, each its own, connected and aware patients outside this line; frontal-to-parietal feedback is preferentially inhibited and bottom-up sensory responses relatively spared. — at "A me is a same-existing-society inward."
 - **A reading** · A reading has sneezing, orgasm, tingling, fluttering vision and dreaming as inward releasings, one changing and then rest, a mutual relaxing of the living societies within a self.
 - **A reading** · A reading has a dream that goes on as a me's prior same-existing as a waking between two sleepings, and dreaming as the me's prior going on unchanged while its inward selves release waking's tensions alike both ways, each releasing one changing then 0, *changing once and then same-existing*, leaving its priors pliable for the next day's newly aiming 0s.
 - **A reading** · A reading has dreaming and a spinning room each resting the me's outward observing: dreaming's inward selves release alike, changing once, then 0, and a spinning room's inward selves part, no 0, inverting each momentary, stopped only by a parity received agreeing from outside, eyes on a still point or a foot on the floor.
+- **Possible exploring** · For a me under general anaesthesia and disconnected, its bi-coupling across scales with its inward mes is separating on the me's side, the larger scale's, and its inward mes float among themselves, each its own, connected and aware patients outside this line; frontal-to-parietal feedback is preferentially inhibited and bottom-up sensory responses relatively spared. — at "A me is a same-existing-society inward."
 
 ## FOUR · ME, NEXT-EXISTING
 
@@ -99,9 +99,9 @@ Gathering-Value · Me
 
 ### 5.2 A healthy me, inward do-no-harming and improving
 
-- **Possible exploring** · Autoimmune harm and cancer are a self within a me parting from its others. — at "A me is-or-is-not healthy: each self within it, at each scale inward, do-no-harming and improving."
 - **A reading** · A reading has a healthy curious me as natural intelligence as a me.
 - **A reading** · A reading has nausea as a me's interests receiving an inward parting it cannot pass over; on a boat, a me resolving with the boat and the water together shares a 0 and is not sick, a me resolving with the boat as a fixed surface parts and is more possibly nauseous, and sea legs are a newly aiming 0 at the boat's motion.
+- **Possible exploring** · Autoimmune harm and cancer are a self within a me parting from its others. — at "A me is-or-is-not healthy: each self within it, at each scale inward, do-no-harming and improving."
 
 ### 5.3 A society's me, a natural intelligence network
 
@@ -117,10 +117,10 @@ Gathering-Value · Me
 
 ## Droplets
 
-- A me's outward observing rests by a drug, a state its field holds apart from sleep: a sleeping me wakes to an inverse received and an anaesthetised me as the drug clears, some connected and aware within it, awareness within surgery a harm anaesthetists watch for. *(possible exploring)*
 - A snap goes on in non-living sets too, sodium chloride crystallising and a porous crystal contracting, so a snap alone is short of a test of a me, a me's test its mes sharing 0s across and along. *(possible exploring)*
 - A set is a universal set of me as its mes share 0s across and along, a closing of its own, its size and enclosing shape aside, one test for a chemical assembly and for a stone. *(possible exploring)*
 - A same-existing-society's discovering is its selves' newly aiming 0s within an interest, each a waking me's discovering; Natural Exploring 6.1 holds a same-existing-society discovering as a self discovers. *(possible exploring)*
 - Nothing is remembering: a me self is a universal set of me parities, now-existing, its prior, now and next same-existing four-cycling, and each thing a field calls a memory, a skin stem cell's chromatin open after an inflammation, a crane's route straightening with older cranes, a voyager's charts studied whole and left ashore, is a me self's prior same-existing going on now. *(possible incohering)*
 
 - A carbon co-chaining, non-living, as an *empty me* in stable form: as a me's stable form empty of a me, a non-living form a me's parity can go with, it coheres with Me 2.3, 3.3 and 4.4; as a non-living me, it parts from 3.3's "A non-living me: it is not", a concern for its resolving. *(possible incohering)*
+- A me's outward observing rests by a drug, a state its field holds apart from sleep: a sleeping me wakes to an inverse received and an anaesthetised me as the drug clears, some connected and aware within it, awareness within surgery a harm anaesthetists watch for. *(possible exploring)*
