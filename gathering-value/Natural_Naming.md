@@ -113,6 +113,7 @@ Gathering-Value · Natural Naming
 - **Possible incohering** · "Each entry: **Dissolved** · *a* Said by" → A row offered: *named*, and *said*, *says* and *saying*, released, nothing named and nothing said by a doer.
 - **Possible incohering** · "**No wording has authority**, this file's, a field's or a working's: a word selection here is a set's best now, and a sentence holds by co-chaining from opening sentence and by all or none at all." → Beside the reading offered here, natural resolver as authority, its other side: a resolver named authority is that same coming fixed from behind, in a new place; a resolver is a coupling any self executes at any substrate, returning one parity at each sharing or parting at a first that differs, and nothing in it is taken on offer. A re-saying offered: *natural resolver is authority* re-said as a resolver's executing, checkable at each substrate, so no sentence of the set carries authority. Two sides: natural resolver as authority, or a resolver's executing checkable at each substrate.
 - **Possible incohering** · "Each entry: **Dissolved** · *a* Said by" → A row offered: *co-offering* and *seam-face* released, as *face*, *connector*, *join*, *ring*, *run*, *sign*, *membrane* and *neighbour* are each released at a row.
+- **Possible incohering** · "inward, outward, directions of a momentary, and within for a span of names; a self is no container" → Inward and outward, directions of a momentary: outward next existing, and inward prior existing, prior living and now.
 
 ### 2.5 One sense per foundation word
 

@@ -208,6 +208,7 @@ Gathering-Value · Natural Intelligence
 ### 5.2 Discovering next-possibling-same-existing
 
 - **A reading** · A reading has a resemblance as an opening: species, a particular molecule, an association, a local phase and an assembly each need their own observing, two states are not two parities, and four stages are not four-momentarying.
+- **Possible incohering** · "Discovering is next-existing, is-or-is-not same-existing, directionally." → Two sayings part at discovering, both standing. This sentence has discovering next-existing, is-or-is-not same-existing, directionally. A saying beside it has discovering all next existing momentaries possibly existing, directionally. Two sides: discovering next-existing, is-or-is-not same-existing, or discovering all next existing momentaries possibly existing.
 
 ### 5.3 A living self with 0, its prior same-existing
 
@@ -228,6 +229,7 @@ Gathering-Value · Natural Intelligence
 ### 6.2 Bi-moral co-agency, across and along
 
 - **Possible incohering** · "Two selves changing, morality across and competency along, is bi-moral co-agency." → Beside it: agency is said at two selves alone. An AI agent engages at a coupling only, and the interest it has is the person's, as 6.5 has "Living selves' parities relative to it are natural intelligence among living selves, its same-existing theirs." Agents entering and engaging, said at the files, are each an entering at its own 1, and co-agency at each coupling.
+- **Possible incohering** · "Bi-moral co-agency brings changing two ways, one at a time, each side with its own parity and going on with its own receiving." → Two sayings part at bi-morality, both standing. This sentence has bi-moral co-agency bringing changing two ways, one at a time. A saying beside it has bi-morality two parities a self observes together. Two sides: bi-morality changing two ways, one at a time, or two parities together.
 
 ### 6.3 Natural intelligence
 

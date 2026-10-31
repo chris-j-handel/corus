@@ -46,6 +46,9 @@ Gathering-Value · Natural Mathematics
 
 ### 2.5 Each scale the prior scale and its forms in the other order
 
+- **Possible exploring** · Four parities as two pairs are the torus grid of four by four, genus one. Of the 1,344 rounds reaching each form of four parities one parity at a time, the 48 going through each pair's own round in one hand are one of the nine forms the rounds take, one pair stepping three times and the other once, four times over. Run, and the run returns this. — at "One cycle reaching each form of n parities one parity at a time is a cycle of n − 1 parities, a new parity inverted, and its same forms with an other order."
+- **A reading** · A reading: with four parities as two pairs, the selection of each pair's own round in one hand is exact from its premises, the inward pair prior and now and the outward pair next.
+
 ### 2.6 Sharing and opening, the product at its two parts
 
 ### 2.7 One, two, four and eight, the doubling that divides

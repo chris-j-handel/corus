@@ -91,6 +91,7 @@ Gathering-Value · Co-Chaining Logic Registry
 
 - **A reading** · A reading has *sign* with this file's own voice at step 120, both parities inverting with one step as sign flip and i's square sign flip, and at its Adding line, sign flip and i.
 - **Possible incohering** · "With two parities, sixteen ways name a next from a prior and a now, each moving (prior, now) to (now, next)." → With two parities, a self's prior and one other's now, sixteen ways name a next from a prior and a now, each moving (prior, now) to (now, next), steps 113 to 117 said as of one other; with more others their parities join at one cell before a next.
+- **Possible exploring** · Of the sixteen ways naming a next from a prior and a now, four have the prior recoverable from next and now with each value of now, four give the next from now alone, and eight have the prior recoverable with one value of now. Run: 4 with both values of now, 4 with none and 8 with one. — at "Twelve of sixteen lose prior, and four have their prior going on whole."
 
 ### 11 Each resolving whole, of no size
 
