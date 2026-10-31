@@ -62,9 +62,13 @@ Gathering-Value · Hard Problem Registry
 
 ### 3 The population concept
 
+- **A reading** · A reading has this problem bearing on Natural Societies 5.3 at 43, the population, and on its rungs above the organism met as same-existing-societies.
+
 ### 4 The rule-following problem
 
 ### 5 Aggregation of preferences
+
+- **A reading** · A reading has this problem meeting Natural Societies 3.1, Resolving the Hard Problem Registry's *Selves each take their own parity, one at a time, and a same-existing-society co-competences without a whole ordering over it* cohering with Natural Societies 4.1's surface re-said one at a time across its momentaries and with 3.1's parity in place of cardinal comparability.
 
 ### 6 The halting problem
 
@@ -92,7 +96,11 @@ Gathering-Value · Hard Problem Registry
 
 ### 18 Biological individuality
 
+- **A reading** · A reading has this problem meeting Natural Societies 5.1 and 5.3, cohering with Resolving the Hard Problem Registry's *each self's bounding is its own*.
+
 ### 19 The units of selection
+
+- **A reading** · A reading has this problem bearing on Natural Societies 5.3 at 43, the population, and on its rungs above the organism met as same-existing-societies, beside Resolving the Hard Problem Registry's *a going on is not on one level*.
 
 ### 20 Species boundaries
 
@@ -129,6 +137,9 @@ Gathering-Value · Hard Problem Registry
 ### 36 Efficient markets
 
 ### 37 The tragedy of the commons
+
+- **A reading** · A reading has this problem meeting Natural Societies 1.1, 2.3 and 3.2, cohering with a same-existing-society co-aiming with no centre, as Resolving the Hard Problem Registry has it: *Durable commons are selves coupling with their own betweens, no hub and no seat above them*.
+- **Possible exploring** · Commons their users govern by their own rules, nested, local. — at "No: long-lived commons are documented, governed neither by private property nor external authority, using locally devised rules with monitoring and graduated sanctions."
 
 ### 38 The arrow of time
 
@@ -359,6 +370,8 @@ Gathering-Value · Hard Problem Registry
 
 ### 143 The evolution of cooperation
 
+- **A reading** · A reading has this problem meeting Natural Societies 2.1 and 3.2, cohering with shared aiming and moral co-operating, beside Resolving the Hard Problem Registry's *cooperating living through all of it*.
+
 ### 144 Transfer of learning
 
 ### 145 Bernstein's degrees of freedom
@@ -384,6 +397,8 @@ Gathering-Value · Hard Problem Registry
 ### 154 Origin and fate of the universe
 
 ### 156 Structure and agency
+
+- **A reading** · A reading has this problem meeting Natural Societies 4.1 and 4.2, cohering with a me a thing and a set, one binary, beside Resolving the Hard Problem Registry's *Persons and arrangements couple with each action, one making with two scales*.
 
 ### 157 The mechanism of high-temperature superconductivity
 
@@ -537,6 +552,8 @@ Gathering-Value · Hard Problem Registry
 
 ### 227 Collective intentionality
 
+- **A reading** · A reading has this problem met at Natural Societies 4.2 and at a same-existing-society co-aiming: each me's intending its own, a same-existing-society co-aiming within one interest, beside Resolving the Hard Problem Registry's tension *individuals as a group*.
+
 ### 228 Peer disagreement
 
 ### 229 Compositionality in language understanding
@@ -596,6 +613,8 @@ Gathering-Value · Hard Problem Registry
 ### 256 The causes of rising obesity
 
 ### 257 The origin of the state
+
+- **A reading** · A reading has this problem meeting Natural Societies 2.3 and 3.4: a centre imposing is 2.3's collapse, beside Resolving the Hard Problem Registry's *a state arises with each place as a coupling there makes it*.
 
 ### The collection
 

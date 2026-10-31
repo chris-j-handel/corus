@@ -1,0 +1,311 @@
+{
+ "corrections": [
+  {
+   "from": "**A2 · Part titles carry leftover notes.**",
+   "finding": "Held claimed for all of A2, and the gathering-value Head holds only PART TWO's contents line offered and the notes leaving; PART THREE's and PART FOUR's offered contents lines, and the body headings' — to ·, are held nowhere, so they are gathered whole.",
+   "fixed": [
+    {
+     "from": "**A2 · Part titles carry leftover notes.**",
+     "why": "PART TWO's pair and the notes leaving held at Natural Societies (gathering-value) Head, the whole file: \"**PART TWO — MORALITY AND BOUNDING AT THE FORM**, two candidates standing level and the third section at neither\" → PART TWO's, PART THREE's and PART FOUR's notes after their titles leave, each title standing bare as PART ONE's and PART FIVE's stand, offered as *PART TWO · MORALITY AND BOUNDING AT THE FORM*"
+    },
+    {
+     "from": "**A2 · Part titles carry leftover notes.**",
+     "section": "Head, the whole file",
+     "kind": "incohering",
+     "sentence": "**PART THREE — SIX OBSERVINGS AT SUBSTRATES**, no one concept apparent",
+     "text": "A re-saying offered, a part's title its name and a note is-or-is-not its name: it is not: **PART THREE · SIX OBSERVINGS AT SUBSTRATES**. The other side: the contents line kept as it stands."
+    },
+    {
+     "from": "**A2 · Part titles carry leftover notes.**",
+     "section": "Head, the whole file",
+     "kind": "incohering",
+     "sentence": "**PART FOUR — OBSERVING THE SOCIETY WHOLE**, no one concept apparent",
+     "text": "A re-saying offered, a part's title its name and a note is-or-is-not its name: it is not: **PART FOUR · OBSERVING THE SOCIETY WHOLE**. The other side: the contents line kept as it stands."
+    },
+    {
+     "from": "**A2 · Part titles carry leftover notes.**",
+     "section": "PART TWO — MORALITY AND BOUNDING AT THE FORM",
+     "kind": "incohering",
+     "sentence": "PART TWO — MORALITY AND BOUNDING AT THE FORM",
+     "text": "A re-saying offered at the body heading, its — said · as PART ONE and PART FIVE stand: *PART TWO · MORALITY AND BOUNDING AT THE FORM*. The other side: the heading kept as it stands."
+    },
+    {
+     "from": "**A2 · Part titles carry leftover notes.**",
+     "section": "PART THREE — SIX OBSERVINGS AT SUBSTRATES",
+     "kind": "incohering",
+     "sentence": "PART THREE — SIX OBSERVINGS AT SUBSTRATES",
+     "text": "A re-saying offered at the body heading, its — said · as PART ONE and PART FIVE stand: *PART THREE · SIX OBSERVINGS AT SUBSTRATES*. The other side: the heading kept as it stands."
+    },
+    {
+     "from": "**A2 · Part titles carry leftover notes.**",
+     "section": "PART FOUR — OBSERVING THE SOCIETY WHOLE",
+     "kind": "incohering",
+     "sentence": "PART FOUR — OBSERVING THE SOCIETY WHOLE",
+     "text": "A re-saying offered at the body heading, its — said · as PART ONE and PART FIVE stand: *PART FOUR · OBSERVING THE SOCIETY WHOLE*. The other side: the heading kept as it stands."
+    }
+   ]
+  },
+  {
+   "from": "**A6 · 2.1 and 4.2: a member and its society, and a society as a self.**",
+   "finding": "A thin reading holding no value beyond what is held: 2.1's collapse one member taken as its whole set is 2.1's own *self ⇄ same-existing-society*, and 4.2's one form as two sides at one whole and 2.1 at a member, parting at no subject, is the first side of the gathering-value 2.1 concern, whose both sides stand there; the item leaves as held.",
+   "fixed": {
+    "from": "**A6 · 2.1 and 4.2: a member and its society, and a society as a self.**",
+    "why": "held at Natural Societies (gathering-value) 2.1: \"This collapse is of one member and a whole it is within, and 4.2's *A self and a same-existing-society are one form as two sides* is of one whole, inward a same-existing-society and outward a self: the two part only with one subject at both. Both stand open: each sentence given its subject, a member at 2.1 and one whole at 4.2; or 2.1's inequality re-said at a self and its own inward same-existing-society.\"; and at Natural Societies 2.1: \"Four inequalities with a self's origin — self ⇄ same-existing-society, self ⇄ other-self, self ⇄ immoral, self ⇄ incompetent — bring morality as consequence, parity a self has by being a self.\"; *Met* and *what stays open* are a record and a pointer"
+   }
+  },
+  {
+   "from": "**A6 · 2.1 and 4.2: a member and its society, and a society as a self.**",
+   "finding": "Sibling restated, its clause *its reading at 2.1 gathered* dropped, that reading leaving as held.",
+   "fixed": {
+    "from": "**A6 · 2.1 and 4.2: a member and its society, and a society as a self.**",
+    "why": "its *a me a thing and a set, one binary, its own as a parity at its scale and its inward mes' own as a set* held at Hard Problem Registry (gathering-value) Droplets: \"Proposed as an entry, the combination problem, ... a me a thing and a set, one binary, its own as a parity at its scale and its inward mes' own as a set.\"; step numbers and the draft's name are pointers"
+   }
+  },
+  {
+   "from": "**A7 · 4.3's birthing, beside a living self establishing.**",
+   "finding": "The offered line keeps its own *from then*, and its release goes unnamed: Natural Explaining 3.5 has *then* as a clocking; the release is named beside the line, the line unchanged.",
+   "fixed": {
+    "section": "4.3 Healthy living is the relation between birthing and nyeing",
+    "kind": "incohering",
+    "sentence": "**Birthing** is new selves coming and new couplings forming with meetings and sharing forward — +1 in neither self alone, a same-existing-society growing its own new betweens.",
+    "text": "A re-saying offered, one claim a sentence, the side of the concern at birthing that keeps both at birthing with a sentence for each: **Birthing** is a newborn self, an empty prior receiving an other's parity, its own from then. It is also new bi-couplings forming with meetings between living selves, sharing forward — +1 in neither self alone, a same-existing-society growing its own new betweens. A self joining a bi-coupling is living already. *Then* in the offered line is a word Natural Explaining 3.5 has as a clocking, laying a schedule over co-sequencing, and the line keeps it as its own. The other side: birthing re-said at new selves alone, new bi-couplings at another word.",
+    "from": "**A7 · 4.3's birthing, beside a living self establishing.**"
+   }
+  },
+  {
+   "from": "**A9 · 4.1's *rest* as one of four sides, beside *no rest* in a torus.**",
+   "finding": "sibling restated unchanged",
+   "fixed": {
+    "section": "4.1 The one social both at four sides — structure, value, surface, rest",
+    "kind": "incohering",
+    "sentence": "4.1 The one social both at four sides — structure, value, surface, rest",
+    "text": "A re-saying offered, at its heading and its contents line, the side of the concern at *rest* that re-says the fourth side as a resolving, a 0 a between of two changing directions, and a rest that stops is-or-is-not a 0: it is not: *4.1 The one social both at four sides — structure, value, surface, resolving*. The other side: *rest* kept as social resolving's own word.",
+    "from": "**A9 · 4.1's *rest* as one of four sides, beside *no rest* in a torus.**"
+   }
+  },
+  {
+   "from": "**A9 · 4.1's *rest* as one of four sides, beside *no rest* in a torus.**",
+   "finding": "sibling restated unchanged",
+   "fixed": {
+    "section": "4.1 The one social both at four sides — structure, value, surface, rest",
+    "kind": "incohering",
+    "sentence": "One both — selves coupling at phi-rate — a self observing it as its structure, its value, its surface, its rest, four openings onto the one social both, each for its own interest.",
+    "text": "A re-saying offered at *its rest*, that same side: *its structure, its value, its surface, its resolving*. The other side: *rest* kept as social resolving's own word.",
+    "from": "**A9 · 4.1's *rest* as one of four sides, beside *no rest* in a torus.**"
+   }
+  },
+  {
+   "from": "**A9 · 4.1's *rest* as one of four sides, beside *no rest* in a torus.**",
+   "finding": "Held claimed, and the gathering-value 4.1 concern holds the 4.1 and 1.1 re-sayings only paraphrased, *offered as the both coming to 0 and changing again in turn*; the source's two offered lines, *A self observing it as **resolving*** and 1.1's *coming to **0** ... in turn*, are held nowhere whole, so they are gathered as offered.",
+   "fixed": [
+    {
+     "from": "**A9 · 4.1's *rest* as one of four sides, beside *no rest* in a torus.**",
+     "section": "4.1 The one social both at four sides — structure, value, surface, rest",
+     "kind": "incohering",
+     "sentence": "A self observing it as **rest**, the both is social resolving: parities coming to rest over bounding-zeroing of fairness.",
+     "text": "A re-saying offered, said whole, the side of the concern at *rest* that re-says the fourth side as a resolving, a 0 a between of two changing directions, and a rest that stops is-or-is-not a 0: it is not: *A self observing it as **resolving**, the both is social resolving: parities coming to 0 over bounding-zeroing of fairness, and changing again, in turn.* The other side: *rest* kept as social resolving's own word."
+    },
+    {
+     "from": "**A9 · 4.1's *rest* as one of four sides, beside *no rest* in a torus.**",
+     "section": "1.1 The core is the bi-moral co-agency, society the structure-side of the one social both",
+     "kind": "incohering",
+     "sentence": "Same-existing-society is the both's **structure**; discovery economy its **value**; network its **surface**; social resolving the both coming to **rest** over bounding-zeroing of fairness.",
+     "text": "A re-saying offered at its last clause, that same side: *social resolving the both coming to **0** over bounding-zeroing of fairness, in turn*. The other side: *rest* kept as social resolving's own word."
+    }
+   ]
+  },
+  {
+   "from": "**A10 · 5.3's three partings, the third its first again.**",
+   "finding": "Held claimed, and the gathering-value 5.3 concern holds the two partings' substance and not the source's offered line; the offered line is gathered whole. Run: primes 5 to 53 with remainder one dividing by four are 5, 13, 17, 29, 37, 41, 53 and with remainder three 7, 11, 19, 23, 31, 43, 47, half of one less odd at each of the second and at none of the first, as the source has it.",
+   "fixed": [
+    {
+     "from": "**A10 · 5.3's three partings, the third its first again.**",
+     "section": "5.3 Fourteen rungs at fourteen primes, and the fold at twenty-four",
+     "kind": "incohering",
+     "sentence": "Parting by six is the one three other simple partings do not give: by remainder dividing by four, by a prime's place within its sequence and by half of one less, each gives seven and seven.",
+     "text": "A re-saying offered, said whole, the side of the concern at a third parting that re-says 5.3 at two partings: *Parting by six is the one two other simple partings do not give: by remainder dividing by four and by a prime's place within its sequence, each gives seven and seven.* The other side: a third offered that parts otherwise."
+    }
+   ]
+  },
+  {
+   "from": "**A14 · 5.6's glycine axis, beside an axis with no residue.**",
+   "finding": "A thin reading holding no value 5.6 does not hold: 5.6 has glycine occupying collagen's axis, the one residue with no hand, a residue and not an absence, and the insertlet it answers is withdrawn; the item leaves as held.",
+   "fixed": {
+    "from": "**A14 · 5.6's glycine axis, beside an axis with no residue.**",
+    "why": "held at Natural Societies 5.6: \"On thirteen a collagen triple helix winds three left chains to a right whole about an axis glycine occupies, the one residue with no hand.\""
+   }
+  },
+  {
+   "from": "**A14 · 5.6's glycine axis, beside an axis with no residue.**",
+   "finding": "sibling restated unchanged",
+   "fixed": {
+    "from": "**A14 · 5.6's glycine axis, beside an axis with no residue.**",
+    "why": "record: an offering withdrawn"
+   }
+  },
+  {
+   "from": "**A16 · 1.1's *+1 in neither self alone*, a floating *neither*.**",
+   "finding": "The offered line's *arising* goes with its release unnamed, Natural Explaining 3.1 having *arising* install a becoming, and the concern's other side is not named; both are said beside the line, the line unchanged.",
+   "fixed": {
+    "section": "1.1 The core is the bi-moral co-agency, society the structure-side of the one social both",
+    "kind": "incohering",
+    "sentence": "**Bi-moral co-agency** is a coupling: two-way, one-at-a-time, selecting by binary preferring — a parity, sign-only — summing to a bounding-zeroing coupling itself makes, going on, abundancing a +1 in neither self alone.",
+    "text": "A re-saying offered at its last clause, the side of the concern at a *neither* naming no self: *abundancing a +1 arising only in both together*. *Arising* in the offered line is one of the words Natural Explaining 3.1 has installing a becoming on a form same-existing through, and the line keeps it as its own. The other side: *abundancing a +1 in neither self alone* kept, as 1.1 has it.",
+    "from": "**A16 · 1.1's *+1 in neither self alone*, a floating *neither*.**"
+   }
+  },
+  {
+   "from": "**A16 · 1.1's *+1 in neither self alone*, a floating *neither*.**",
+   "finding": "sibling restated unchanged",
+   "fixed": {
+    "from": "**A16 · 1.1's *+1 in neither self alone*, a floating *neither*.**",
+    "why": "its count of eleven more places and their pass are a plan; its step number a pointer"
+   }
+  },
+  {
+   "from": "- Within a me's universal set, each now-existing thing is-or-is-not self: self i",
+   "finding": "Held claimed at Me's gathering-value, which holds the line with *its within its own* dropped; the line is gathered whole at 5.5, where its source aims it.",
+   "fixed": [
+    {
+     "from": "- Within a me's universal set, each now-existing thing is-or-is-not self: self i",
+     "section": "5.5 The four boundings at both sides, and self, other and society at all scales",
+     "kind": "reading",
+     "text": "A reading has, within a me's universal set, each now-existing thing is-or-is-not self: self is the me's own living parities, and not self is an other, its within its own, or a non-living thing."
+    }
+   ]
+  },
+  {
+   "from": "- **Each rung, by the observings:**",
+   "finding": "The field's names *Cassiopea* and *Hydra* are swapped for common names inside the observing; they are kept in the source's words.",
+   "fixed": {
+    "section": "5.3 Fourteen rungs at fourteen primes, and the fold at twenty-four",
+    "kind": "reading",
+    "text": "A reading has the rungs above the organism met by Exhibit ONE's test, each living self of one is-or-is-not with its own next prior parities. The organism, 37, is: its own next prior parities, sleeping and waking whole, as *Cassiopea* and *Hydra* do with no brain, and same-existing through it, a me. The colony, 41, is not: its next prior parities are its members', its bees' clocks set by its social cues, its nurses tending brood around the clock, co-aiming within one interest as a swarm, its stop signals passing between scouts, each its own: a same-existing-society. The major transitions reading of a eusocial colony as one individual is a field's, and it parts with this one, a colony's priors its members'. The population, 43, the community, 47, and the biosphere, 53, are not: each one's next is its selves' next-existing, each its own, each a same-existing-society. This reading is one side of the concern at colony to biosphere, its other side each rung a me with a parity its own.",
+    "from": "- **Each rung, by the observings:**"
+   }
+  },
+  {
+   "from": "- **Each rung, by the observings:**",
+   "finding": "sibling restated unchanged",
+   "fixed": {
+    "from": "- **Each rung, by the observings:**",
+    "why": "label"
+   }
+  },
+  {
+   "from": "- **Pairs for this file's motion**, each read for harm before entering:",
+   "finding": "sibling restated unchanged",
+   "fixed": {
+    "section": "4.2 A society is a self and a self is a society, the fractal co-competency",
+    "kind": "incohering",
+    "sentence": "A same-existing-society of selves is itself a self by the co-competency its couplings make: distinct selves, each with a competency others lack, coprime, neither add nor multiply their registers: their co-competencing is discovering with each coupling of co-chaining, and this compounding goes on only while selves stay distinct.",
+    "text": "A re-saying offered at its head, that same side: *A same-existing-society of selves is living by the co-competency its selves make, each its own:*. The other side: 4.2's outward clause kept, a same-existing-society a self with next scale outward.",
+    "from": "- **Pairs for this file's motion**, each read for harm before entering:"
+   }
+  },
+  {
+   "from": "- **Pairs for this file's motion**, each read for harm before entering:",
+   "finding": "sibling restated unchanged",
+   "fixed": {
+    "section": "1.1 The core is the bi-moral co-agency, society the structure-side of the one social both",
+    "kind": "incohering",
+    "sentence": "It is with every scale, each self a same-existing-society of a scale inward and a self to a scale outward, no self ordering a whole and no scale first.",
+    "text": "A re-saying offered, that same side: It is with every scale, each self a same-existing-society of a scale inward and a self within same-existing-societies of scales outward, no self ordering a whole and no scale first. The other side: each self a self to a scale outward, as 4.2's outward clause has it.",
+    "from": "- **Pairs for this file's motion**, each read for harm before entering:"
+   }
+  },
+  {
+   "from": "- **Pairs for this file's motion**, each read for harm before entering:",
+   "finding": "sibling restated unchanged",
+   "fixed": {
+    "section": "5.3 Fourteen rungs at fourteen primes, and the fold at twenty-four",
+    "kind": "incohering",
+    "sentence": "organisms co-sequencing as one self: colony recurs with each scale, this rung among them",
+    "text": "A re-saying offered, the side of the concern at colony to biosphere that has each rung a same-existing-society: *organisms co-sequencing, its own its organisms' own, co-aiming within one interest as a swarm: colony recurs with each scale, this rung among them*, and its *d* *closes, as recurrence* re-said *a same-existing-society*. The other side: each rung a me with a parity its own, the colony *one self*.",
+    "from": "- **Pairs for this file's motion**, each read for harm before entering:"
+   }
+  },
+  {
+   "from": "- **Pairs for this file's motion**, each read for harm before entering:",
+   "finding": "sibling restated unchanged",
+   "fixed": {
+    "section": "5.3 Fourteen rungs at fourteen primes, and the fold at twenty-four",
+    "kind": "incohering",
+    "sentence": "same-kind selves co-sequencing across re-formings: whether it closes as a self or goes on as a same-existing-society is open",
+    "text": "A re-saying offered, that same side: *same-kind selves co-sequencing across re-formings: a same-existing-society, its next its selves' next-existing, each its own*. The other side: each rung a me with a parity its own.",
+    "from": "- **Pairs for this file's motion**, each read for harm before entering:"
+   }
+  },
+  {
+   "from": "- **Pairs for this file's motion**, each read for harm before entering:",
+   "finding": "sibling restated unchanged",
+   "fixed": {
+    "section": "5.3 Fourteen rungs at fourteen primes, and the fold at twenty-four",
+    "kind": "incohering",
+    "sentence": "many selves of many kinds co-sequencing: whether an ecosystem self-closes or goes on as a same-existing-society is the sharpest open observing",
+    "text": "A re-saying offered, that same side: *many selves of many kinds co-sequencing: a same-existing-society, its next its selves' next-existing, each its own*. The other side: each rung a me with a parity its own.",
+    "from": "- **Pairs for this file's motion**, each read for harm before entering:"
+   }
+  },
+  {
+   "from": "- **Pairs for this file's motion**, each read for harm before entering:",
+   "finding": "sibling restated unchanged",
+   "fixed": {
+    "section": "5.3 Fourteen rungs at fourteen primes, and the fold at twenty-four",
+    "kind": "incohering",
+    "sentence": "the whole living self-bounding with the widest scale that closes here: producer, consumer and decomposer co-agency's three roles; its torus-close, past which is a not-torus death, its prior same-existing a set going to no next momentary",
+    "text": "A re-saying offered at its head, that same side: *the widest same-existing-society, living as its selves live:*, and its *d* *closes* re-said *a same-existing-society*. The other side: each rung a me with a parity its own.",
+    "from": "- **Pairs for this file's motion**, each read for harm before entering:"
+   }
+  },
+  {
+   "from": "- **Pairs for this file's motion**, each read for harm before entering:",
+   "finding": "Held claimed for the 4.2 outward-clause pair, and the gathering-value 4.2 item holds that line altered: *16-next-same-existing*, a resolver name and no pointer, is dropped and *its own only its selves' own* is re-said *a same-existing-society's own only its selves' own*. Only *step 297* may leave; the offered line is gathered whole, the rest of the leaving standing.",
+   "fixed": [
+    {
+     "from": "- **Pairs for this file's motion**, each read for harm before entering:",
+     "why": "its 4.2 sameness pair gathered with A11; step numbers and the name with the community pair are pointers and source; *read for harm before entering* is a plan"
+    },
+    {
+     "from": "- **Pairs for this file's motion**, each read for harm before entering:",
+     "section": "4.2 A society is a self and a self is a society, the fractal co-competency",
+     "kind": "incohering",
+     "sentence": "Outward, a same-existing-society is a self with next scale outward: it self-bounds, inward from outward, couples with other same-existing-societies as one.",
+     "text": "A re-saying offered, said whole by Exhibit ONE's names, the side of the concern at 4.2's outward clause that re-says it: *Outward, a self is within same-existing-societies of next scales, its selves together, 16-next-same-existing, its own only its selves' own, its next its selves' next-existing, each its own.* The other side: 4.2's outward clause kept, a same-existing-society a self with next scale outward."
+    }
+   ]
+  },
+  {
+   "from": "| **37 The tragedy of the commons** | 1.3: *Durable commons are selves coupling ",
+   "finding": "sibling restated unchanged",
+   "fixed": {
+    "file": "Hard Problem Registry",
+    "section": "37 The tragedy of the commons",
+    "kind": "reading",
+    "text": "A reading has this problem meeting Natural Societies 1.1, 2.3 and 3.2, cohering with a same-existing-society co-aiming with no centre, as Resolving the Hard Problem Registry has it: *Durable commons are selves coupling with their own betweens, no hub and no seat above them*.",
+    "from": "| **37 The tragedy of the commons** | 1.3: *Durable commons are selves coupling "
+   }
+  },
+  {
+   "from": "| **37 The tragedy of the commons** | 1.3: *Durable commons are selves coupling ",
+   "finding": "*Stand nested and local* adds a standing the source does not hold; the source has *commons their users govern by their own rules, nested, local*, said as it holds it.",
+   "fixed": {
+    "file": "Hard Problem Registry",
+    "section": "37 The tragedy of the commons",
+    "kind": "exploring",
+    "sentence": "No: long-lived commons are documented, governed neither by private property nor external authority, using locally devised rules with monitoring and graduated sanctions.",
+    "text": "Commons their users govern by their own rules, nested, local.",
+    "from": "| **37 The tragedy of the commons** | 1.3: *Durable commons are selves coupling "
+   }
+  },
+  {
+   "from": "| **37 The tragedy of the commons** | 1.3: *Durable commons are selves coupling ",
+   "finding": "sibling restated unchanged",
+   "fixed": {
+    "from": "| **37 The tragedy of the commons** | 1.3: *Durable commons are selves coupling ",
+    "why": "its Resolving quote held at Resolving the Hard Problem Registry 1.3: \"Durable commons are selves coupling with their own betweens, no hub and no seat above them\"; its name and year are source"
+   }
+  }
+ ],
+ "checked": 111
+}
