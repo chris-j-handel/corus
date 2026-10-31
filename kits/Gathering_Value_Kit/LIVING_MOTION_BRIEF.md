@@ -16,6 +16,7 @@ Gathering-Value Kit · one motion at a living file, said by no one
 3. **Each script pointer is run again at Exhibit ONE's code now before it leaves.** The result is said as what the resolver returns, and the set-up goes into the sentence wherever a second set-up gives a different result.
 4. **After "earlier", "older" or "prior" leaves, what remains is true of the file now**, never a record turned into a present claim.
 5. **"No file's name within another" applies alike across the file**, and each bold lead is checked for released words.
+6. **When a source leaves, the observing stays as the file's sentence already says it.** No cited work is looked up to add a means, a scale or a number the sentence did not hold: that is an addition. A line holding only a citation may get a short plain saying of what its name means, with no claim.
 
 ## A motion
 

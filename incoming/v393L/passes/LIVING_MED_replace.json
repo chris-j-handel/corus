@@ -1,0 +1,32 @@
+[
+ {
+  "old": ", and a medicine observings below are pattern-matched on these two words, not on an older *conserving / extending* naming they replace.",
+  "new": ", and a medicine observings below are pattern-matched on these two words.",
+  "why": "a history of naming (an older naming they replace) leaves; the two words stay"
+ },
+ {
+  "old": "wounded two distinct ways an older naming hid.",
+  "new": "wounded two distinct ways.",
+  "why": "a history of naming leaves; the two ways stay"
+ },
+ {
+  "old": "parted with v331 to a count of a thing",
+  "new": "parted to a count of a thing",
+  "why": "a version tag leaves; the parting stays"
+ },
+ {
+  "old": "claim broken with v331 by a field's own",
+  "new": "claim broken by a field's own",
+  "why": "a version tag leaves; the breaking by a field's own remissions stays"
+ },
+ {
+  "old": "**And what comes with v331, entered with its register, all of it or none.** *Coming with v331 from fields directly, observed and checked with their own reports:*",
+  "new": "**And what comes from fields, entered with its register, all of it or none.** *Coming from fields directly, observed and checked with their own reports:*",
+  "why": "version tags leave from a bold lead and its opening; each observing and its fields' own reports stay"
+ },
+ {
+  "old": "**A form's observings (every clinical and biological seating):**",
+  "new": "**A form's observings (each clinical and biological seating):**",
+  "why": "a released word in a bold lead of a paragraph the motion re-says: *every*, said *each* (Natural Naming 2.4)"
+ }
+]

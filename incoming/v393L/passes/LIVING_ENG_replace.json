@@ -1,0 +1,762 @@
+[
+ {
+  "old": "With two-inverter arrangement below, first inverter supplies second inverter's LCL filter before second inverter activates; source describes that filter as a capacitive load. [Seo and colleagues, §IV-B](https://arxiv.org/html/1811.08842v1). Receiving a record gives belongs with later supplying within whole arrangement.",
+  "new": "With two-inverter arrangement below, first inverter supplies second inverter's LCL filter before second inverter activates, that filter a capacitive load. That receiving belongs with later supplying within whole arrangement.",
+  "why": "a source, its saying and its record leave; the observing stays as the file's sentence says it"
+ },
+ {
+  "old": "Their zero-sequence component retains any nonzero three-phase sum. [Clarke and Park transforms](https://www.ti.com/lit/pdf/bpra048).",
+  "new": "Their zero-sequence component retains any nonzero three-phase sum.",
+  "why": "a source leaves; the sentence stands as it is"
+ },
+ {
+  "old": "  - *a* Experiments a source reports demonstrate local coordination, load steps and power-reference updates. [Seo and colleagues, §§II and IV](https://arxiv.org/html/1811.08842v1).",
+  "new": "  - *a* Experiments demonstrate local coordination, load steps and power-reference updates.",
+  "why": "a source and its reporting leave; the observing stays"
+ },
+ {
+  "old": "Source retains local measurements and control. A missing communication requirement and a frequency reference a source retains are two properties.",
+  "new": "Arrangement retains local measurements and control. A missing communication requirement and a frequency reference that arrangement retains are two properties.",
+  "why": "a source as a sayer leaves; its arrangement stays"
+ },
+ {
+  "old": "Its experiment with grid connection retains pre-synchronization and a manual connection switch. Steady operation, as its report gives, draws about 300 W from a simulator's PV source, with line-to-neutral voltage near 30 V RMS; grid simulator supplies a steady 30 V RMS at 60 Hz. Paper's stability calculation is a small-signal analysis of the arrangement it states. [Lu and colleagues, Dispatchable Virtual-oscillator-controlled Inverters with Current-limiting and MPPT Capabilities, §§III–IV](https://bbjohnson.org/wp-content/uploads/2022/02/C45_2021_Lu-et-al_Dispatchable-Virtual-oscillator-controlled-Inverters-with-Current-limiting-and.pdf).",
+  "new": "Its grid connection retains pre-synchronization and a manual connection switch. Steady operation draws about 300 W from a simulator's PV source, with line-to-neutral voltage about 30 V RMS; grid simulator supplies a steady 30 V RMS at 60 Hz. An anticipated observing: its stability, by a small-signal calculation of the arrangement it states.",
+  "why": "a source, its report and its paper leave, numbers whole; a calculation is an anticipated observing; released *near* said *about*"
+ },
+ {
+  "old": "This source supplies a particular arrangement coordinating its inverters;",
+  "new": "This arrangement coordinates its inverters;",
+  "why": "a source as a sayer leaves"
+ },
+ {
+  "old": " [HVDC interconnections](https://www.hitachienergy.com/us/en/products-and-solutions/hvdc/interconnecting-grids).",
+  "new": "",
+  "why": "a source leaves; the sentence stands as it is"
+ },
+ {
+  "old": "ENTSO-E's 8 January 2021 account reports 5,800 MW going across eventual separation line before split. North-west area's frequency reached 49.74 Hz and south-east area's 50.6 Hz. Response included generation adjustments, industrial-load disconnection and HVDC support. Report also identifies two busbars a model represents as one node, omitting their coupler from an operational model. These are operations a report gives and a particular representation gap. [ENTSO-E, final executive summary, pp. 5–8](https://www.entsoe.eu/Documents/SOC%20documents/SOC%20Reports/Continental_Europe_Synchronous_Area_Separation_on_08_January_2021_-_Executive_Summary_updated.pdf).",
+  "new": "With one separation, 5,800 MW went across eventual separation line before split. North-west area's frequency reached 49.74 Hz and south-east area's 50.6 Hz. Response included generation adjustments, industrial-load disconnection and HVDC support. An operational model represented two busbars as one node, omitting their coupler. These are operations and a particular representation gap.",
+  "why": "a source, its account, its report and a date leave; each observing and number stays"
+ },
+ {
+  "old": "That same report treats imbalance netting across areas physically apart as a prospective coordination concern. It expressly reports that IGCC did not affect network security during this event. Its R-19 recommendation retains that prospective scope. [ENTSO-E, pp. 9 and 19](https://www.entsoe.eu/Documents/SOC%20documents/SOC%20Reports/Continental_Europe_Synchronous_Area_Separation_on_08_January_2021_-_Executive_Summary_updated.pdf).",
+  "new": "With that same separation, imbalance netting across areas physically apart, IGCC, did not affect network security; as a coordination concern it is an anticipated observing.",
+  "why": "a report, its saying, its recommendation number and a source leave; the observing stays, and a prospective concern is an anticipated observing"
+ },
+ {
+  "old": "A synchronism-check relay, device 25 of IEEE C37.2, closes a breaker coupling two parts of a grid only while their frequency slip and phase angle lie within limits, and losing synchronism parts a grid.",
+  "new": "A synchronism-check relay, device 25, closes a breaker coupling two parts of a grid only while their frequency slip and phase angle lie within limits, and losing synchronism parts a grid.",
+  "why": "a standard's name, a source, leaves; the field's device number stays"
+ },
+ {
+  "old": "Deutsche Bahn describes conversion between a 50 Hz public grid and its 16.7 Hz traction supply. [Deutsche Bahn, converter stations](https://nachhaltigkeit.deutschebahn.com/en/ecological-transformation/measures/converter-stations).",
+  "new": "Conversion goes between a 50 Hz public grid and a 16.7 Hz traction supply.",
+  "why": "a source and its saying leave; the observing stays, numbers whole"
+ },
+ {
+  "old": "protective and functional grounds each their own. [Kester, *Grounding and Decoupling*, Part 1](https://ez.analog.com/adiacademy/university-program/a/studentzone-articles/SA1021/grounding-and-decoupling-learn-basics-now-and-save-yourself-much-grief-later-part-1-grounding).",
+  "new": "protective and functional grounds each their own.",
+  "why": "a source leaves; the sentence stands as it is"
+ },
+ {
+  "old": "Grid source record also distinguishes inertia from other responses bringing a supply variation. [Inertia and the Power Grid](https://docs.nlr.gov/docs/fy20osti/73856.pdf).",
+  "new": "With a grid, inertia and other responses bringing a supply variation are distinct.",
+  "why": "a source record as a sayer and a source leave; the observing stays"
+ },
+ {
+  "old": " [DC Machine Construction and Operating Principles](https://ecampusontario.pressbooks.pub/electrotechnology/chapter/part-1-2/).",
+  "new": "",
+  "why": "a source leaves; the sentence stands as it is"
+ },
+ {
+  "old": "One-way odd reference spiral's `N × 4` re-discovering with the ledger it specifies is TWO's record, alongside even-spiral and coupling-spiral checks. These records have harness and the surface they represent and address. They do not give every circuit or every network that period. Code renderings and their exact source records go onward to TWO's design and discovery and existing kit; silicon transduction remains here to build.",
+  "new": "With resolver, a spiral of an odd number `N` of selves coupling along, each with no prior and one self receiving one + once, comes to its parities again with each `N × 4`-th momentary, and an even spiral with each second momentary; with + or − entering at several selves, a spiral's return differs. These returns are of the spirals they address, and give no circuit or network that period. Silicon transduction remains here to build.",
+  "why": "another file's record, harness, records and kit pointers leave; the code result is re-run at Exhibit ONE's resolver now (odd 3, 5, 7, 9: 12, 20, 28, 36; even 4: 2) and its set-up stays, a second set-up returning other periods (3 selves: 4; 4 selves: 4 and 8; 6 selves: 6 and 12)"
+ },
+ {
+  "old": "V333 test-kit ledger has a concrete receiving question already going toward TWO. With a check on record, a positive coupling, completing, returned again without a new sharing; reuse of its slot for a negative coupling altered the return of an earlier reference a ledger retains. Exact trace, source address and repair work remain with Living Improving Value. A return belonging to its completing coupling, a ledger retaining it until its consuming, is next implementation to examine there.",
+  "new": "A ledger reusing a slot has a concrete receiving question. With a check, a positive coupling, completing, returned again with no new sharing; reuse of its slot for a negative coupling altered the return of an earlier reference a ledger retains. A return belonging to its completing coupling, a ledger retaining it until its consuming, is next implementation to examine.",
+  "why": "a version tag, a kit, a file pointer and a pointer to a file standing nowhere leave; the observing stays"
+ },
+ {
+  "old": "With a repository commit under inspection, a local executing of existing selector returned thirty filenames, matching `files.json` and filename lists embedding in both pages.",
+  "new": "Existing selector's filenames match `files.json` and filename lists embedding in both pages.",
+  "why": "a working's run and its count of files leave; the relation, checked at the repository now (selector, files.json and both pages' lists one same selection), stays"
+ },
+ {
+  "old": "  - *a* Repository instrument reproduces its thirty filenames of selection across three listings.",
+  "new": "  - *a* Repository instrument reproduces its one selection across three listings.",
+  "why": "a count of files leaves; checked now"
+ },
+ {
+  "old": "Instrument's exact rule and remaining hosting relation go on with Living Improving Value. ",
+  "new": "",
+  "why": "a pointer to a file standing nowhere, with nothing else, leaves"
+ },
+ {
+  "old": "Reciprocity, closure quantities, VERITAS intensity experiment and guide-star arrangements below supply particular relations. Their sources retain apparatus and conditions.",
+  "new": "Reciprocity, closure quantities, VERITAS intensity experiment and guide-star arrangements below supply particular relations. Each retains its apparatus and conditions.",
+  "why": "sources leave; apparatus and conditions stay"
+ },
+ {
+  "old": "A feed at match can still accompany material loss. [MIT, *Receivers, Antennas, and Signals*, Chapter 3, §3.1](https://ocw.mit.edu/courses/6-661-receivers-antennas-and-signals-spring-2003/10025a78ab17e1e0866126246b751d11_ch3new.pdf).",
+  "new": "A feed at match can still accompany material loss.",
+  "why": "a source leaves; the sentence stands as it is"
+ },
+ {
+  "old": "Circular polarization concerns field rotation and the direction convention a source states. [MIT, Chapter 3, §§3.2–3.3](https://ocw.mit.edu/courses/6-661-receivers-antennas-and-signals-spring-2003/10025a78ab17e1e0866126246b751d11_ch3new.pdf).",
+  "new": "Circular polarization concerns field rotation and its direction convention.",
+  "why": "a source and its stating leave"
+ },
+ {
+  "old": " Closure construction and scalar error model come from [Lai and colleagues, *Deep Learning VLBI Image Reconstruction with Closure Invariants*, §§2–2.1](https://arxiv.org/html/2411.12233v1).",
+  "new": "",
+  "why": "a sentence saying only where a construction comes from, a source, leaves wholly"
+ },
+ {
+  "old": "Four-telescope VERITAS experiment measured two stellar angular diameters with precision, as its report gives, better than five percent. Its experimenters digitized and stored intensity streams and correlated them afterward; sampling retained a common clock distributing to each telescope. Its thermal-light model describes excess correlation above the level with no correlation, with detector bandwidth, polarization and background corrections. This is not independent shot noise acquiring source information merely as residue. [Abeysekara and colleagues, *Demonstration of stellar intensity interferometry with the four VERITAS telescopes*, results and Methods](https://arxiv.org/html/2007.10295v1).",
+  "new": "Four-telescope VERITAS experiment measured two stellar angular diameters with precision better than five percent. Its intensity streams were digitized, stored and correlated afterward; sampling retained a common clock distributing to each telescope. Its thermal-light model describes excess correlation above the level with no correlation, with detector bandwidth, polarization and background corrections. This is not independent shot noise acquiring source information merely as residue.",
+  "why": "a report's saying, its experimenters and a source leave; each observing stays"
+ },
+ {
+  "old": "Sampling relation, source and reconstruction retain their own conditions. [Lai and colleagues, §§1–2](https://arxiv.org/html/2411.12233v1).",
+  "new": "Sampling relation, source and reconstruction retain their own conditions.",
+  "why": "a source leaves; the sentence stands as it is"
+ },
+ {
+  "old": "The laser-guide-star arrangement ESO describes retains a natural star for tip and tilt. Artificial guide does not supply that image-motion information. [ESO, *Laser Guide Star Facility*](https://www.eso.org/sci/facilities/paranal/telescopes/lgsf.html). Finite guide altitude also leaves another atmospheric sampling. Viard, Hubin and Le Louarn compare one and four laser guides with a natural guide within an eight-metre telescope model. Their two-layer phase simulations, neglecting scintillation, show smaller cone-effect residuals for four-guide arrangement. Result belongs to that model. It leaves additional receiving available rather than establishing a limit on every arrangement. [Viard and colleagues, *Adaptive optics with four laser guide stars*, §§2–4](https://www.eso.org/~evernet/4007_39.pdf).",
+  "new": "A laser-guide-star arrangement retains a natural star for tip and tilt. Artificial guide does not supply that image-motion information. Finite guide altitude also leaves another atmospheric sampling. An anticipated observing: within an eight-metre telescope model with one and four laser guides and a natural guide, two-layer phase simulations, neglecting scintillation, give smaller cone-effect residuals for four-guide arrangement. Result belongs to that model. It leaves additional receiving available rather than establishing a limit on each arrangement.",
+  "why": "an organisation, finders' names and two sources leave; a simulation is an anticipated observing; released *every* said *each*"
+ },
+ {
+  "old": "Their sources retain control, sensing, material, slope and operating conditions.",
+  "new": "They retain their control, sensing, material, slope and operating conditions.",
+  "why": "sources leave; conditions stay"
+ },
+ {
+  "old": "Elastic storage and sensing are part of that discovering. [Pratt and Williamson, *Series Elastic Actuators*, §§IV–VI](https://fab.cba.mit.edu/classes/865.15/people/rebecca.kleinberger/assets/papers/SEA_Pratt.pdf).",
+  "new": "Elastic storage and sensing are part of that discovering.",
+  "why": "a source leaves; the sentence stands as it is"
+ },
+ {
+  "old": "This observing does not complete level-ground propulsion or arbitrary-terrain walking. [McGeer, *Passive Dynamic Walking*](https://www.cs.cmu.edu/~cga/legs/McGeer1990.pdf).",
+  "new": "This observing does not complete level-ground propulsion or arbitrary-terrain walking.",
+  "why": "a source leaves; the sentence stands as it is"
+ },
+ {
+  "old": "Trials a report gives therefore couple local interaction with shape and coordinate information the robots retain. [Rubenstein and colleagues, *Programmable self-assembly in a thousand-robot swarm*, algorithm and experiments](https://ssr.princeton.edu/document/766).",
+  "new": "Trials couple local interaction with shape and coordinate information the robots retain.",
+  "why": "a report and a source leave; released *therefore* leaves"
+ },
+ {
+  "old": "This is one example of local responding, not a demonstration that physical or computational state disappears. [Brooks, *Intelligence without representation*, §6](https://people.csail.mit.edu/brooks/papers/representation.pdf).",
+  "new": "This is one example of local responding, not a demonstration that physical or computational state disappears.",
+  "why": "a source leaves; the sentence stands as it is"
+ },
+ {
+  "old": "These conditions concern mapping; a central physical computer is not one of them. [Maskin, *Borda's Rule and Arrow's Independence Condition*, §I.A](https://maskin.scholars.harvard.edu/sites/g/files/omnuum10606/files/bordas_rule_and_arrows_independence_condition_jpe_vol133_iss2_0.pdf).",
+  "new": "These conditions concern mapping; a central physical computer is not one of them.",
+  "why": "a source leaves; the sentence stands as it is"
+ },
+ {
+  "old": "These are acoustic quantities with their own units. [Physclips beat derivation](https://www.animations.physics.unsw.edu.au/jw/beats.htm) supplies two-tone relation; following comparisons are its arithmetic consequences.",
+  "new": "These are acoustic quantities with their own units. A beat derivation supplies two-tone relation; following comparisons are its arithmetic consequences.",
+  "why": "a source's name leaves; a line holding only it says plainly what it is"
+ },
+ {
+  "old": "[Physclips guitar demonstration](https://www.animations.physics.unsw.edu.au/jw/beats.htm) compares fourth partial of a guitar's low E string with third partial of its A string. Increasing that A string's tension accompanies slower beating. Reference string remains, and finite sounding duration limits comparison. This record supplies an acoustic receiving with the arrangement it states.",
+  "new": "A guitar demonstration compares fourth partial of a guitar's low E string with third partial of its A string. Increasing that A string's tension accompanies slower beating. Reference string remains, and finite sounding duration limits comparison. This demonstration supplies an acoustic receiving with the arrangement it states.",
+  "why": "a source's name leaves; the observing stays"
+ },
+ {
+  "old": "  - *a* Source has varying beat rate, retaining reference and adjustment.",
+  "new": "  - *a* Demonstration has varying beat rate, retaining reference and adjustment.",
+  "why": "a source as a sayer leaves"
+ },
+ {
+  "old": "Beat variation, interval choice, inharmonicity and instrument-specific stretch retain their own operations and sources.",
+  "new": "Beat variation, interval choice, inharmonicity and instrument-specific stretch retain their own operations.",
+  "why": "sources leave"
+ },
+ {
+  "old": " [IPP, *Types of Fusion Devices*](https://www.ipp.mpg.de/14731/anlagentypen), [IPP, *Stellarator*](https://www.ipp.mpg.de/14779/stellarator).",
+  "new": "",
+  "why": "two sources leave; the sentence stands as it is"
+ },
+ {
+  "old": "Precision, as its report gives, concerns a particular resonant magnetic-field perturbation relative to main field. Experiment addresses field geometry a construction gives; it does not measure a whole fusion system's efficiency or establish every hot-plasma stability condition. [Pedersen and colleagues, *Confirmation of the topology of the Wendelstein 7-X magnetic field to better than 1:100,000*, field-line mapping and error-field measurements](https://www.nature.com/articles/ncomms13493.pdf).",
+  "new": "Precision concerns a particular resonant magnetic-field perturbation relative to main field. Experiment addresses field geometry a construction gives; it does not measure a whole fusion system's efficiency or establish each hot-plasma stability condition.",
+  "why": "a report's saying and a source leave; released *every* said *each*"
+ },
+ {
+  "old": "Ideal-stability calculations varied aspect ratio, shaping and profiles. No-wall case fixed a fifty-percent fraction of current the plasma drives itself and tested ballooning and particular kink modes; limits by calculating varied with the conditions each case retains. Accompanying NSTX comparisons retained experimental profile and stabilization questions. [Menard and colleagues, *Unified Ideal Stability Limits for Advanced Tokamak and Spherical Torus Plasmas*, PPPL-3779](https://bp-pub.pppl.gov/pub_report/2003/PPPL-3779.pdf).",
+  "new": "An anticipated observing: ideal-stability calculations varied aspect ratio, shaping and profiles; a no-wall case fixed a fifty-percent fraction of current the plasma drives itself and tested ballooning and particular kink modes, and limits by calculating varied with the conditions each case retains. Accompanying NSTX comparisons retained experimental profile and stabilization questions.",
+  "why": "finders' names, a report number and a source leave; a calculation is an anticipated observing"
+ },
+ {
+  "old": "Coats distinguishes penetration, loop formation, conformation, cast-off and stitch setting. Each stage retains its actual thread, fabric and mechanism operation. Its chainstitch descriptions also retain particular stitch construction and tendency to run back. [Coats, *Basic Stitch Types*, formation and types 101, 301 and 401](https://www.coats.com/en-us/info-hub/basic-stitch-types/).",
+  "new": "Stitch formation has penetration, loop formation, conformation, cast-off and stitch setting. Each stage retains its actual thread, fabric and mechanism operation. Chainstitch also retains particular stitch construction and its tendency to unravel back.",
+  "why": "a maker as a sayer and a source leave; released *run* said *unravel*"
+ },
+ {
+  "old": "Flows, fans and remaining conditioning belong with actual assembly. [DOE, *Energy Renovations—HVAC*, §§2.2 and 4.3](https://www.energy.gov/sites/default/files/2013/11/f5/hvac_guide.pdf).",
+  "new": "Flows, fans and remaining conditioning belong with actual assembly.",
+  "why": "a source leaves; the sentence stands as it is"
+ },
+ {
+  "old": "Balances and local temperature offset are a field model. [MIT, *Heat Exchangers*, §18.5](https://web.mit.edu/16.unified/www/FALL/thermodynamics/notes/node131.html).",
+  "new": "Balances and local temperature offset are a field model.",
+  "why": "a source leaves; the sentence stands as it is"
+ },
+ {
+  "old": "NIST model retains compressor work, expansion, heat exchangers and source and receiving temperature profiles. These are model inputs and operations. [NIST, *CYCLE_D-HX*](https://www.nist.gov/services-resources/software/cycled-hx-nist-vapor-compression-cycle-model-accounting-refrigerant).",
+  "new": "A vapor-compression cycle model retains compressor work, expansion, heat exchangers and source and receiving temperature profiles. These are model inputs and operations.",
+  "why": "an organisation and a source leave; the model stays as a model"
+ },
+ {
+  "old": "Authors' recovery metric addressed difficulty measuring throat pressure.",
+  "new": "A recovery metric addressed difficulty measuring throat pressure.",
+  "why": "authors leave"
+ },
+ {
+  "old": " [Elbel and Hrnjak, 2008, primary abstract](https://experts.illinois.edu/en/publications/experimental-validation-of-a-prototype-ejector-designed-to-reduce/).",
+  "new": "",
+  "why": "finders, a year and a source leave; the sentence stands as it is"
+ },
+ {
+  "old": "NASA's heat-pipe course describes these arrangements and pressure-drop, sonic, entrainment and boiling limits. These are engineering descriptions and model conditions. [Ungar, *Heat Pipes: an Introductory Short Course*, liquid return and operating limits](https://nescacademy.nasa.gov/downloadFile/1233).",
+  "new": "These arrangements have pressure-drop, sonic, entrainment and boiling limits. These are engineering descriptions and model conditions.",
+  "why": "an organisation's course, a finder and a source leave; the limits stay"
+ },
+ {
+  "old": "This [swimming game](https://pinchapenny.com/pool-life/marco-polo-game-rules) has “Marco” calling and “Polo” replying again and again during finding.",
+  "new": "This swimming game has “Marco” calling and “Polo” replying again and again during finding.",
+  "why": "a link leaves; the game stays"
+ },
+ {
+  "old": "A study of eight listeners with experience used loudspeaker noise within an anechoic chamber, with sound ending once head rotation reached ranges the study prescribes. Larger ranges accompanied fewer front/back confusions and smaller elevation errors; lateral-angle error had no statistically significant range effect. Physical sound and head movement remained part of arrangement. [Sound localization with head movement, Methods and Results](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2014.00210/full). This source has that particular receiving comparison;",
+  "new": "A study of eight listeners with experience used loudspeaker noise within an anechoic chamber, with sound ending with head rotation reaching ranges the study prescribes. Larger ranges accompanied fewer front/back confusions and smaller elevation errors; lateral-angle error had no statistically significant range effect. Physical sound and head movement remained part of arrangement. This is that particular receiving comparison;",
+  "why": "a source and a source as sayer leave; each observing stays; *once* a clocking said *with*"
+ },
+ {
+  "old": "Source's departure from a central world model coexists with these operations. [Brooks, 1991, implementation and Figure 2](https://people.csail.mit.edu/brooks/papers/representation.pdf).",
+  "new": "Its departure from a central world model coexists with these operations.",
+  "why": "a source as sayer, a finder, a year and a source leave"
+ },
+ {
+  "old": "These are particular computational relations. [Vaswani et al., 2017, §§3.1–3.4](https://papers.neurips.cc/paper/7181-attention-is-all-you-need.pdf).",
+  "new": "These are particular computational relations.",
+  "why": "a source leaves; the sentence stands as it is"
+ },
+ {
+  "old": "Removal of electronic control therefore has a concrete material receiving. [Preston and colleagues, *A soft ring oscillator*, operating sequence and period model](https://www.gmwgroup.harvard.edu/sites/g/files/omnuum10006/files/gmwgroup/files/1323.pdf).",
+  "new": "Removal of electronic control has a concrete material receiving.",
+  "why": "a source leaves; released *therefore* leaves"
+ },
+ {
+  "old": "experiment records electrical monitoring and spatial imaging of pH oscillation using ion-sensitive field-effect transistors. Figure captions retain voltage-to-pH conversion, solution concentrations varying and the short interval period summaries use. [Sakata and colleagues, primary abstract and Figures 1–2 captions](https://pubmed.ncbi.nlm.nih.gov/35194095/).",
+  "new": "electrical monitoring and spatial imaging of pH oscillation using ion-sensitive field-effect transistors. Its record retains voltage-to-pH conversion, solution concentrations varying and the short interval period summaries use.",
+  "why": "a source and its figure captions leave; each observing stays"
+ },
+ {
+  "old": "Its coupling, as its authors propose, includes both total current and nonlocal hole dynamics. Regional frequencies are near **24, 27 and 32 mHz**. Mediating region contains neighboring frequency components. Phase comes by extraction from ellipsometric intensity; low-amplitude region falls below reliable frequency determination. [Multifrequency surface, Figures 1–3 and equations 4–8](https://arxiv.org/pdf/2010.03535).",
+  "new": "An anticipated observing: its coupling includes both total current and nonlocal hole dynamics. Regional frequencies are about **24, 27 and 32 mHz**. Mediating region contains neighboring frequency components. Phase comes by extraction from ellipsometric intensity; low-amplitude region falls below reliable frequency determination.",
+  "why": "authors and a source leave; a proposed coupling is an anticipated observing; released *near* said *about*, numbers whole"
+ },
+ {
+  "old": "A common coupling term and one temporal sequence a controller prescribes retain distinct relations within this arrangement. [Potential relation, equation 4](https://arxiv.org/pdf/2010.03535).",
+  "new": "A common coupling term and one temporal sequence a controller prescribes retain distinct relations within this arrangement.",
+  "why": "a source leaves; the sentence stands as it is"
+ },
+ {
+  "old": "Earlier experiment reports oscillations sustaining and, with lower illumination, distinct frequency regions with a mediating region. Figure 5 has **19 and 24 mHz** under the conditions it states. Potentiostatic control, illumination and electrolyte remain. This supplies a zero-resistor pattern for that arrangement; exact three-region comparison above retains its own conditions. [Zero-resistance surface, §§2–4 and Figure 5](https://mediatum.ub.tum.de/doc/1642027/document.pdf).",
+  "new": "With zero external series resistance, oscillations sustain and, with lower illumination, distinct frequency regions form with a mediating region, at **19 and 24 mHz** under the conditions stated. Potentiostatic control, illumination and electrolyte remain. This supplies a zero-resistor pattern for that arrangement; exact three-region comparison above retains its own conditions.",
+  "why": "a history, a report's saying, a figure number and a source leave; each observing and number stays"
+ },
+ {
+  "old": "Its receiving included electrical and optical measurements. [Haidar and colleagues, device operation and microwave characterization](https://www.nature.com/articles/s41467-019-10120-4). With Riga dynamo experiments, excitation-coil current could be absent while propeller maintained sodium flow; operating range and motor input remained. [Gailitis and colleagues, apparatus, July 2000 runs and motor-power discussion](https://arxiv.org/html/1801.01749v1).",
+  "new": "Its receiving included electrical and optical measurements. With dynamo experiments, excitation-coil current could be absent while propeller maintained sodium flow; operating range and motor input remained.",
+  "why": "finders, a place, a date and two sources leave; the observing stays"
+ },
+ {
+  "old": "NASA's gravity-assist explanation retains approaching and departing trajectory, passing body's motion and a frame expressing speed. With its ideal flyby, distant approach and departure speeds match relative to planet while direction turns; speed relative to the Sun can grow or lessen. [NASA, *A Gravity Assist Primer*](https://science.nasa.gov/learn/basics-of-space-flight/primer/).",
+  "new": "A gravity-assist explaining retains approaching and departing trajectory, passing body's motion and a frame expressing speed. With its ideal flyby, distant approach and departure speeds match relative to planet while direction turns; speed relative to the Sun can grow or lessen.",
+  "why": "an organisation and a source leave; an explaining stays an explaining"
+ },
+ {
+  "old": "2020 grid-forming roadmap treats voltage, frequency, protection and fault response as engineering questions relating to one another. Those source questions retain the scope of their date. [Research Roadmap on Grid-Forming Inverters](https://docs.nlr.gov/docs/fy21osti/73476.pdf).",
+  "new": "With grid-forming inverters, voltage, frequency, protection and fault response are engineering questions relating to one another.",
+  "why": "a roadmap, its year, a history of its date and a source leave; the pattern stays"
+ },
+ {
+  "old": " [Intel, *Metastability Analysis in the Intel Quartus Prime Software*](https://www.intel.com/content/www/us/en/docs/programmable/683323/18-1/metastability-analysis-in-the-software.html).",
+  "new": "",
+  "why": "an organisation, a version and a source leave; the sentence stands as it is"
+ },
+ {
+  "old": "Code operation is ONE's; design and discovery going on, including existing receipt-identity repair, are TWO's and kit's.",
+  "new": "Code operation is ONE's; design and discovery going on, receipt identity among them, are TWO's.",
+  "why": "a kit pointer and a record of a repair leave"
+ },
+ {
+  "old": "; design and discovery going on with TWO and kit",
+  "new": "; design and discovery going on with TWO",
+  "why": "a kit pointer leaves"
+ },
+ {
+  "old": " [DJG, *Four-Phase Handshake in Synchronous, Asynchronous and Behavioural Forms*](https://www.cl.cam.ac.uk/~djg11/wwwhpr/fourphase/fourphase.html).",
+  "new": "",
+  "why": "a finder and a source leave; the sentence stands as it is"
+ },
+ {
+  "old": "Algorithm's scaling is polynomial with input length, with the operations and success conditions it specifies. [Shor, §§2–6](https://arxiv.org/pdf/quant-ph/9508027).",
+  "new": "Algorithm's scaling is polynomial with input length, with the operations and success conditions it specifies.",
+  "why": "a source leaves; the sentence stands as it is"
+ },
+ {
+  "old": "Google's surface-code memory repeats parity extraction with measure qubits, sends results to a decoder and removes leakage while keeping information in its encoding.",
+  "new": "A surface-code memory repeats parity extraction with measure qubits, sends results to a decoder and removes leakage while its information goes on within its encoding.",
+  "why": "an organisation leaves; released *keeping* said *goes on*"
+ },
+ {
+  "old": "This source reports quantum memories for the codes and conditions it tests. [Google Quantum AI and Collaborators, surface-code operation and real-time decoding](https://www.nature.com/articles/s41586-024-08449-y).",
+  "new": "These are quantum memories for the codes and conditions a test addresses.",
+  "why": "a source and its reporting leave"
+ },
+ {
+  "old": "Following a periodic wave or a podal ring needs corresponding encoding and operations before algorithm's result or scale can go to a resolver network. [Shor, §§3–6](https://arxiv.org/pdf/quant-ph/9508027).",
+  "new": "Following a periodic wave or a podal ring needs corresponding encoding and operations before algorithm's result or scale can go to a resolver network.",
+  "why": "a source leaves; the sentence stands as it is"
+ },
+ {
+  "old": "This is a particular mathematical construction, with its parameter and implementation conditions. [NIST FIPS 203, §3](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.203.pdf).",
+  "new": "This is a particular mathematical construction, with its parameter and implementation conditions.",
+  "why": "a source leaves; the sentence stands as it is"
+ },
+ {
+  "old": "Names *lattice* and *hash* establish neither an absolute one-way property nor a dissolving of particular scheme. [NIST FIPS 205, definitions and scheme](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.205.pdf).",
+  "new": "Names *lattice* and *hash* establish neither an absolute one-way property nor a dissolving of particular scheme.",
+  "why": "a source leaves; the sentence stands as it is"
+ },
+ {
+  "old": "gave an observing of two selves' givings whole, with no key opening.",
+  "new": "gives an observing of two selves' givings whole, with no key opening.",
+  "why": "a working's run said as a record, *gave*, is said as itself"
+ },
+ {
+  "old": "CO₂ production rates came by calculating from additional heat during CO₂ absorption by NaOH; biomass formation and carbon-use efficiency were quantities a model derives. Measurements and quantities by deriving retain their distinct operations. [Rodrigues and colleagues, 2022, methods and results](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2022.827117/full).",
+  "new": "An anticipated observing: CO₂ production rates, by calculating from additional heat during CO₂ absorption by NaOH, and biomass formation and carbon-use efficiency, quantities a model derives. Measurements and quantities by deriving retain their distinct operations.",
+  "why": "finders, a year and a source leave; a calculated or derived quantity is an anticipated observing"
+ },
+ {
+  "old": "PNNL's 2014 work compared vanadium mixed-acid stacks with distinct membranes and flow paths. At 160 mA/cm², its table reports stack energy efficiencies of 75.3% and 81.2% for Nafion 115 and 212. A separate 20-cell arrangement retained chillers and a circulation it specified. These are stack results a report gives. Pumping, cooling, electrical conversion and electrolyte return remain with a whole-installation comparison. [Reed and colleagues, *Advances in PNNL's Mixed Acid Redox Flow Battery Stack*, stack tests](https://www.sandia.gov/ess-ssl/docs/pr_conferences/2014/Wednesday/Session2/02_Reed_D_PNNL_Stack_Development_1409917.pdf).",
+  "new": "A comparison of vanadium mixed-acid stacks has distinct membranes and flow paths. At 160 mA/cm², stack energy efficiencies are 75.3% and 81.2% for Nafion 115 and 212. A separate 20-cell arrangement retained chillers and a circulation it specified. These are stack results. Pumping, cooling, electrical conversion and electrolyte return remain with a whole-installation comparison.",
+  "why": "an organisation, a year, a report's saying and a source leave; each number stays whole"
+ },
+ {
+  "old": "Chemical orientation therefore belongs with direction each preparation has. [Racker and Stoeckenius, 1974, Methods, Figures 1–2 and Table I](https://doi.org/10.1016/S0021-9258(19)43080-9).",
+  "new": "Chemical orientation belongs with direction each preparation has.",
+  "why": "finders, a year and a source leave; released *therefore* leaves"
+ },
+ {
+  "old": "Source does not identify bulk pH, molecular rotation, reaction direction and natural one-at-a-time turns with one another.",
+  "new": "With these experiments, bulk pH, molecular rotation, reaction direction and natural one-at-a-time turns stay distinct from one another.",
+  "why": "a source as sayer leaves"
+ },
+ {
+  "old": "Complete inputs and returns stand with Living Improving Value. This is a check of those calls with ONE's code as it stands.",
+  "new": "These are resolver's returns with those calls.",
+  "why": "a pointer to a file standing nowhere leaves; re-run at Exhibit ONE's code now, each return as the paragraph says it (m = 1 and 7: sharing 0, next prior m; m = −1: sharing +1, next prior +1; with a following call and no parity, each shares −1, next prior −1)"
+ },
+ {
+  "old": "Nesting recurrence, its polynomial with two parities, and odd- and even-dimensional surface numbers a proposal holds go on as Living Improving Value's, with THREE, FOUR and SIX as receiving files. Object of each number, its boundary and operation corresponding to its coefficient remain questions there.",
+  "new": "Nesting recurrence, its polynomial with two parities, and odd- and even-dimensional surface numbers a proposal has go on with THREE, FOUR and SIX as receiving files. Object of each number, its boundary and operation corresponding to its coefficient remain questions with those files.",
+  "why": "a pointer to a file standing nowhere leaves; released *holds* and *there* said"
+ },
+ {
+  "old": "2011 preclinical LEAP work uses a sequence of five electrical pulses. Its result retains that pulse delivery and experimental scope. [Luther and colleagues, Low-energy control of electrical turbulence in the heart](https://doi.org/10.1038/nature10216); [Max Planck research account](https://www.mpg.de/4365331/low-energy-cardiac-defibrillator).",
+  "new": "Preclinical LEAP uses a sequence of five electrical pulses. Its result retains that pulse delivery and experimental scope.",
+  "why": "a year, a work as record and two sources leave"
+ },
+ {
+  "old": "high-grade, pulmonary and hepatobiliary events do not share the survival association it reports. Evidence is mainly retrospective, with heterogeneity and publication-bias limitations. [Wang and colleagues, 2021](https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2021.631949/full).",
+  "new": "high-grade, pulmonary and hepatobiliary events do not share that survival association. Evidence is mainly retrospective, with heterogeneity and publication-bias limitations.",
+  "why": "a source's reporting, finders, a year and a source leave"
+ },
+ {
+  "old": "Source and arrangement go on as Living Improving Value's, with their remaining source and construction questions.",
+  "new": "Its arrangement goes on with its remaining source and construction questions.",
+  "why": "a pointer to a file standing nowhere leaves"
+ },
+ {
+  "old": " [MathWorks, *Anti-Windup Control Using PID Controller Block*](https://www.mathworks.com/help/simulink/slref/anti-windup-control-using-a-pid-controller.html).",
+  "new": "",
+  "why": "an organisation and a source leave; the sentence stands as it is"
+ },
+ {
+  "old": " [Gallego and colleagues, *Event-based Vision: A Survey*](https://arxiv.org/abs/1904.08405).",
+  "new": "",
+  "why": "finders and a source leave; the sentence stands as it is"
+ },
+ {
+  "old": "A search among these sources is not locating a same-goal arrangement dissolving a proposal's fixing-interval substitution.",
+  "new": "A search among these observings is not locating a same-goal arrangement dissolving a proposal's fixing-interval substitution.",
+  "why": "sources leave; observings stay"
+ },
+ {
+  "old": "Its tipping retains that interval; detection does not reach initial nucleus directly. [Brandel and ter Horst, Measuring Induction Times and Crystal Nucleation Rates, §§2–3.1](https://strathprints.strath.ac.uk/53155/1/Brandel_ter_horst_FD_2015_Measuring_induction_times_and_crystal_nucleation_rates.pdf).",
+  "new": "Its tipping retains that interval; detection does not reach initial nucleus directly.",
+  "why": "a source leaves; the sentence stands as it is"
+ },
+ {
+  "old": "It reports α nucleation rate increasing with time while γ rate decreases. [Little et al., Controlling the Crystal Polymorph by Exploiting the Time Dependence of Nucleation Rates](https://arxiv.org/abs/1710.04151).",
+  "new": "Its α nucleation rate increases with time while γ rate decreases.",
+  "why": "a report's saying, finders and a source leave"
+ },
+ {
+  "old": "FAA's regulatory responsibilities remain. [ASRS policy](https://asrs.arc.nasa.gov/overview/immunity.html); [ASRS database](https://asrs.arc.nasa.gov/search/database.html)",
+  "new": "FAA's regulatory responsibilities remain.",
+  "why": "two sources leave"
+ },
+ {
+  "old": "WANO also reports confidential plant ratings. [Peer review](https://www.wano.info/services-and-support/peer-review/); [2017 report](https://www.wano.info/wp-content/uploads/2024/07/WANO-Year-End-Highlights-Report-2017.pdf)",
+  "new": "WANO also reports confidential plant ratings.",
+  "why": "two sources and a year leave"
+ },
+ {
+  "old": "  - *a* VHA describes its internal reporting system as confidential and non-punitive, analyzing events and sharing learning across organization. [NCPS reporting system](https://www.patientsafety.va.gov/media/reporting.asp)",
+  "new": "  - *a* VHA's internal reporting system, confidential and non-punitive by its own description, analyzes events and shares learning across organization.",
+  "why": "a source leaves"
+ },
+ {
+  "old": " Reporting source questions and a proposal's instrument registry retain their distinct going on with Living Improving Value.",
+  "new": "",
+  "why": "reporting sources, an instrument registry and a pointer to a file standing nowhere leave wholly: sources and a record, with nothing else"
+ },
+ {
+  "old": " [Electromechanical Dynamics, §4.1.3](https://ocw.mit.edu/courses/res-6-003-electromechanical-dynamics-spring-2009/30dd72688208782bff485372c57bd3c3_chap04_emd.pdf).",
+  "new": "",
+  "why": "a source leaves; the sentence stands as it is"
+ },
+ {
+  "old": "A position in reuse retains that association question with TWO and networking kit.",
+  "new": "A position in reuse retains that association question with TWO.",
+  "why": "a kit pointer leaves"
+ },
+ {
+  "old": "With TI's synchronous-buck circuit this entry addresses, an interval with both transistor gates off conducts inductor current through low-side body diode. Source, inductor, capacitor and load remain within arrangement. [Understanding Dead-time Based On TPS51225/275/285, §2.1–2.2](https://www.ti.com/lit/pdf/slua919).",
+  "new": "With a synchronous-buck circuit this entry addresses, an interval with both transistor gates off conducts inductor current through low-side body diode. Source, inductor, capacitor and load remain within arrangement.",
+  "why": "an organisation and a source leave"
+ },
+ {
+  "old": "2025 bench experiment uses a 1 m² membrane, 25 °C, 3 kg of produced-water feed and 10 kg of draw. Dual draw reaches 60% recovery within three hours, with flux falling to 3 litres per square metre per hour. Two pumps circulate feed and draw, approximately 2.3 litres per minute; transmembrane pressure remains below 5 psi. Paper's complete process account includes thermal regeneration and nanofiltration. [Bench-scale study](https://escholarship.org/content/qt0mr2b0sw/qt0mr2b0sw.pdf).",
+  "new": "A bench experiment uses a 1 m² membrane, 25 °C, 3 kg of produced-water feed and 10 kg of draw. Dual draw reaches 60% recovery within three hours, with flux falling to 3 litres per square metre per hour. Two pumps circulate feed and draw, approximately 2.3 litres per minute; transmembrane pressure remains below 5 psi. Its complete process includes thermal regeneration and nanofiltration.",
+  "why": "a year, a paper and a source leave; each number stays whole"
+ },
+ {
+  "old": "Its supporting calculation assumes 0.5–1 kWh/m³ for circulation; pressure times product volume gives about 0.33 kWh/m³ for nanofiltration before pump and motor losses. That pressure–volume calculation is only a hydraulic-work quantity. [Haddad and colleagues, 2021, Supplementary Note S7](https://doi.org/10.1021/acs.est.0c06232.s001).",
+  "new": "An anticipated observing: 0.5–1 kWh/m³ for circulation, and, by pressure times product volume, about 0.33 kWh/m³ for nanofiltration before pump and motor losses. That pressure–volume calculation is only a hydraulic-work quantity.",
+  "why": "finders, a year, a note and a source leave; a calculation is an anticipated observing, numbers whole"
+ },
+ {
+  "old": "Note S7 prints sensible heat of 35 kWh/m³, separation heat of 2.7 kWh/m³ and exchanger effectiveness 0.8. Applying its equation to those terms as it prints them gives `35 × (1 − 0.8) + 2.7 = 9.7 kWh/m³`; note reports 9.1. The terms it prints and the result it reports do not agree; this arithmetic supplies no plant measurement correcting either.",
+  "new": "An anticipated observing: sensible heat of 35 kWh/m³, separation heat of 2.7 kWh/m³, exchanger effectiveness 0.8 and a result of 9.1 kWh/m³. Its equation with those terms gives `35 × (1 − 0.8) + 2.7 = 9.7 kWh/m³`, and 9.7 and 9.1 part; this arithmetic supplies no plant measurement correcting either.",
+  "why": "a note as sayer leaves; a calculated claim is an anticipated observing, beside what its arithmetic gives (35 × 0.2 + 2.7 = 9.7, checked), both numbers whole"
+ },
+ {
+  "old": "2025 Table S3 reports product TDS of 264 mg/L and conductivity of 2 µS/cm. 2021 Table S2 reports these same values but explicitly identifies a DMBS draw. Their sample relation needs clarification before a self assigns this product analysis to later dual-TFA draw. Analyses it lists do not separately quantify that draw's cations and TFA. [Haddad and colleagues, 2025, Table S3](https://doi.org/10.1021/acs.iecr.4c03784.s001); [2021, Table S2](https://doi.org/10.1021/acs.est.0c06232.s001).",
+  "new": "Product TDS of 264 mg/L and conductivity of 2 µS/cm go with a dual-TFA draw's product, and these same values with a DMBS draw's product. Their sample relation needs clarification before a self assigns this product analysis to dual-TFA draw. Analyses listed do not separately quantify that draw's cations and TFA.",
+  "why": "years, tables, finders and two sources leave; the parting the two carried stays, both sides, numbers whole; *later* a history leaves"
+ },
+ {
+  "old": "**2025 cost model retains its quantities.** 2025 Table S2 uses 16 LMH for sizing. It lists nanofiltration areas of 579 and 117 m², with 7.6 m² per element, but assigns 15 and 76 elements respectively. Division gives approximately 76.2 and 15.4; assignments as it prints them need reconciliation. With recovery `r = 0.6`, a common volume balance gives brine/feed `1 − r = 0.4` and brine/product `(1 − r)/r = 2/3`. Those denominators are not the same. Table's brine-generation units and cost calculation need their explicit basis. [2025, Table S2](https://doi.org/10.1021/acs.iecr.4c03784.s001).",
+  "new": "**A techno-economic model retains its quantities.** It uses 16 LMH for sizing. It lists nanofiltration areas of 579 and 117 m², with 7.6 m² per element, and 15 and 76 elements respectively. Division gives approximately 76.2 and 15.4; those element numbers need reconciliation. With recovery `r = 0.6`, a common volume balance gives brine/feed `1 − r = 0.4` and brine/product `(1 − r)/r = 2/3`. Those denominators are not the same. Its brine-generation units and techno-economic calculation need their explicit basis.",
+  "why": "a year in the bold lead and body, a table and a source leave; released *cost* said by the field's *techno-economic*; arithmetic checked (579/7.6 = 76.2, 117/7.6 = 15.4), numbers whole"
+ },
+ {
+  "old": "2021 supplement's Table S8 lists six membrane uses with unlike feeds and draws; method includes a 30-minute deionized-water flush. This addresses membrane reuse. It does not supply six repetitions of complete drawing, regeneration, finishing and draw-return arrangement. [2021, Supplementary Note S3 and Table S8](https://doi.org/10.1021/acs.est.0c06232.s001).",
+  "new": "Six membrane uses have unlike feeds and draws, its method including a 30-minute deionized-water flush. This addresses membrane reuse. It does not supply six repetitions of complete drawing, regeneration, finishing and draw-return arrangement.",
+  "why": "a year, a supplement, a table and a source leave; numbers whole"
+ },
+ {
+  "old": " [Direct experimental comparison](https://research.birmingham.ac.uk/en/publications/direct-experimental-comparison-of-batch-reverse-osmosis-ro-techno/).",
+  "new": "",
+  "why": "a source leaves; the sentence stands as it is"
+ },
+ {
+  "old": "Resolving of that same problem address is TWENTY-TWO v344's.",
+  "new": "Resolving of that same problem address is TWENTY-TWO's.",
+  "why": "a version tag leaves; each address checked at TWENTY-TWO now"
+ },
+ {
+  "old": "Each entry: **Engineering observing** · *a* TWENTY-ONE → TWENTY-TWO v344; fixing form",
+  "new": "Each entry: **Engineering observing** · *a* TWENTY-ONE → TWENTY-TWO; fixing form",
+  "why": "a version tag leaves; each section and fixing form checked at TWENTY-TWO now"
+ },
+ {
+  "old": "Six-direction and sixteen-momentary exploration goes on with Numbers, Mathematics and Living Improving Value.",
+  "new": "Six-direction and sixteen-momentary exploration goes on with Numbers and Mathematics.",
+  "why": "a pointer to a file standing nowhere leaves"
+ },
+ {
+  "old": "Available heat transfer and turbine–pump relation remain part of their operating range. [Joyner and colleagues, *Propulsion System Choices and Their Implications*, engine power cycles](https://ntrs.nasa.gov/api/citations/20110003599/downloads/20110003599.pdf).",
+  "new": "Available heat transfer and turbine–pump relation remain part of their operating range.",
+  "why": "a source leaves; the sentence stands as it is"
+ },
+ {
+  "old": "NASA's full-flow staged-combustion demonstrator description identifies a fuel-rich preburner supplying fuel turbopump and an oxidizer-rich preburner supplying oxygen turbopump. Their turbine streams go on to main combustion chamber. [NASA, *Integrated Powerhead Demonstrator combustion-cycle testing*](https://www.nasa.gov/news-release/new-rocket-engine-combustion-cycle-technology-testing-reaches-100-power-level/).",
+  "new": "A full-flow staged-combustion demonstrator has a fuel-rich preburner supplying fuel turbopump and an oxidizer-rich preburner supplying oxygen turbopump. Their turbine streams go on to main combustion chamber.",
+  "why": "an organisation, its description and a source leave"
+ },
+ {
+  "old": "NASA rotating-detonation report describes tests with injectors, propellant supplies, ignition and cooling it specifies. Its methane tests include single-wave and two-wave operation, as well as a case where detection finds no wave activity. Single-wave cases also retain substantial fluctuation of thrust measurement. These are actual operating distinctions within annular arrangements. [Teasley, *Closing of Critical Technology Gaps for Rotating Detonation Rocket Engines*, §§2 and 7.5](https://ntrs.nasa.gov/api/citations/20240013951/downloads/Final%20Report%20for%20ECI%20RDRE%20Open%20Release%20Final%20v2.pdf).",
+  "new": "Rotating-detonation tests have injectors, propellant supplies, ignition and cooling they specify. Methane tests include single-wave and two-wave operation, and a case with detection finding no wave activity. Single-wave cases also retain substantial fluctuation of thrust measurement. These are actual operating distinctions within annular arrangements.",
+  "why": "an organisation, a report and a source leave; released *where* said *with*"
+ },
+ {
+  "old": " [Asvapoositkul and colleagues, *Determination of Hydraulic Ram Pump Performance: Experimental Results*, §§2–3 and Appendix](https://onlinelibrary.wiley.com/doi/10.1155/2019/9702183).",
+  "new": "",
+  "why": "finders and a source leave; the sentence stands as it is"
+ },
+ {
+  "old": " [Shapiro and colleagues, *Peristaltic pumping with long wavelengths at low Reynolds number*, §§2–4.6](https://www.hazemsakeek.net/wp-content/uploads/2021/06/peristaltic-pumping-Shapiro.pdf).",
+  "new": "",
+  "why": "finders and a source leave; the sentence stands as it is"
+ },
+ {
+  "old": "The source estimates power absorption from load measurement and relative velocity; this is not a measurement of a complete electrical conversion. 1/100-scale extreme-wave study uses an arrangement locking its bodies, without power take-off. Those operating and extreme-wave results retain their distinct fixtures and scales. [Yu and colleagues, *Experimental Wave Tank Test for Reference Model 3*, §§2–4](https://tethys-engineering.pnnl.gov/sites/default/files/publications/Yu-et-al-2015.pdf).",
+  "new": "An anticipated observing: power absorption, by estimating from load measurement and relative velocity; this is not a measurement of a complete electrical conversion. 1/100-scale extreme-wave study uses an arrangement locking its bodies, without power take-off. Those operating and extreme-wave results retain their distinct fixtures and scales.",
+  "why": "a source as sayer, finders and a source leave; an estimate is an anticipated observing"
+ },
+ {
+  "old": "Linear damping and hydrodynamic conditions the example selects also remain explicit within RM3 simulation example. [Yu and colleagues, *Development and Demonstration of the WEC-Sim Wave Energy Converter Simulation Tool*, two-body point absorber](https://www.sandia.gov/app/uploads/sites/273/2025/01/SAND2014-3013.pdf).",
+  "new": "Linear damping and hydrodynamic conditions the example selects also remain explicit within RM3 simulation example.",
+  "why": "a source leaves; the sentence stands as it is"
+ },
+ {
+  "old": "Its geometry record supplies those design particulars, not an operating result for a natural array a self proposes. [Neary and Hill, *Reference Model 1 Scaled Geometry*](https://mhkdr.openei.org/submissions/362).",
+  "new": "Its geometry record supplies those design particulars, not an operating result for a natural array a self proposes.",
+  "why": "a source leaves; the sentence stands as it is"
+ },
+ {
+  "old": "**Kelp holds a material observing with its growing and wounding intact.** Kelp study measures rachis tissue of *Egregia menziesii* across two years and examines growth and herbivore wounds. Tissue stiffness, strength and extensibility vary with age and growth; rachises with wounds widen without the rise in tissue strength the source finds with some other macroalgae. [Burnett and Koehl, *Mechanical properties of the wave-swept kelp Egregia menziesii*, Methods and Results](https://cdip.ucsd.edu/themes/media/docs/publications_references/journal_articles/Mechanical_properties_of_the_wave-swept_kelp_Egregia_menziesii_change_with_season,_growth_rate_and_herbivore_wounds.pdf).",
+  "new": "**Kelp has a material observing with its growing and wounding intact.** Kelp study measures rachis tissue of *Egregia menziesii* across two years and examines growth and herbivore wounds. Tissue stiffness, strength and extensibility vary with age and growth; rachises with wounds widen without the rise in tissue strength found with some other macroalgae.",
+  "why": "a source as sayer, finders and a source leave; released *holds* in the bold lead said *has*"
+ },
+ {
+  "old": "Low-load improvement it reports belongs to its arrangements with common electrolyte channels. Apparatus retains power electronics, control loops, a filter inductor, circulation and gas treatment. Efficiency uses hydrogen production and electrical input measurements across electrolyzer boundary. Downstream valve, purification and storage the source describes remain along product path. This observing improves a particular receiving; it supplies neither a complete plant comparison nor an absence of storage or control. [Xia and colleagues, 2023, Solutions, Methods and Table 1](https://www.nature.com/articles/s44172-023-00070-7).",
+  "new": "Low-load improvement belongs to its arrangements with common electrolyte channels. Apparatus retains power electronics, control loops, a filter inductor, circulation and gas treatment. Efficiency uses hydrogen production and electrical input measurements across electrolyzer boundary. Downstream valve, purification and storage remain along product path. This observing improves a particular receiving; it supplies neither a complete plant comparison nor an absence of storage or control.",
+  "why": "a source's reporting and describing, finders, a year and a source leave"
+ },
+ {
+  "old": "Current-ripple experiment’s primary abstract reports losses increasing with ripple amplitude and a counteracting frequency effect, with distinct frequency behavior for two electrode sets. Pulse amplitude, frequency and electrode arrangement therefore retain their own comparison. Full experimental method remains to receive for any design using its numerical results. [Järvinen and colleagues, 2024, primary abstract](https://orbit.dtu.dk/en/publications/experimental-study-of-alkaline-water-electrolyzer-performance-and/).",
+  "new": "With a current-ripple experiment, losses increase with ripple amplitude, with a counteracting frequency effect and distinct frequency behavior for two electrode sets. Pulse amplitude, frequency and electrode arrangement retain their own comparison.",
+  "why": "an abstract as sayer, finders, a year and a source leave; a sentence on reaching a source's full method leaves wholly, a record; released *therefore* leaves"
+ },
+ {
+  "old": "Its 63–74% electrical round-trip estimate combines thermal-store performance measurements with compressor, turbine, motor and generator performance the authors assume. It is not an electrical round-trip measurement. [Geissbühler and colleagues, 2018, plant description and cycle-efficiency estimate](https://doi.org/10.1016/j.est.2018.02.004).",
+  "new": "An anticipated observing: a 63–74% electrical round-trip efficiency, combining thermal-store performance measurements with compressor, turbine, motor and generator performance an assumption gives. It is not an electrical round-trip measurement.",
+  "why": "authors, finders, a year and a source leave; an estimate is an anticipated observing, numbers whole"
+ },
+ {
+  "old": "Its evolving temperature profile, a calculation, alters receiving conditions of other components. This supplies a particular modeling opportunity: express ongoing profile and load together. It supplies no demonstration of self-sequencing or a complete physical plant. [Sciacovelli and colleagues, 2017, §§2–3](https://doi.org/10.1016/j.apenergy.2016.10.058).",
+  "new": "An anticipated observing: its evolving temperature profile alters receiving conditions of other components. This supplies a particular modeling opportunity: express ongoing profile and load together. It supplies no demonstration of self-sequencing or a complete physical plant.",
+  "why": "finders, a year and a source leave; a calculation is an anticipated observing"
+ },
+ {
+  "old": "DOE describes pumping to an upper reservoir and generating during downward return. Its open-loop and closed-loop names concern connection to a natural water body. They supply no statement that arrangement has no external electrical input or material losses. [DOE, *Pumped Storage Hydropower*](https://www.energy.gov/cmei/water/pumped-storage-hydropower).",
+  "new": "Pumped storage pumps to an upper reservoir and generates during downward return. Its open-loop and closed-loop names concern connection to a natural water body. They supply no statement that arrangement has no external electrical input or material losses.",
+  "why": "an organisation, its saying and a source leave; a line holding only that saying says plainly what pumped storage is"
+ },
+ {
+  "old": "Paper also considers inputs with bias and correlation. This is a conditional field bound for a reset it states; it assigns no fraction of an installation's consumption measurement to erasure. [Landauer, 1961, §4](https://worrydream.com/refs/Landauer_1961_-_Irreversibility_and_Heat_Generation_in_the_Computing_Process.pdf).",
+  "new": "Its argument also considers inputs with bias and correlation. This is a conditional field bound for a reset it states; it assigns no fraction of an installation's consumption measurement to erasure.",
+  "why": "a paper, a year and a source leave; the field's bound keeps its name"
+ },
+ {
+  "old": "its physical realization still has switching, timing, input, output and heat. [Bennett, 1973, construction and Table 1](https://www.cs.princeton.edu/courses/archive/fall04/cos576/papers/bennett73.html).",
+  "new": "its physical realization still has switching, timing, input, output and heat.",
+  "why": "a source leaves; the sentence stands as it is"
+ },
+ {
+  "old": "measures ear's response. [NIDCD, hearing screening](https://www.nidcd.nih.gov/health/your-babys-hearing-screening-and-next-steps).",
+  "new": "measures ear's response.",
+  "why": "a source leaves; the sentence stands as it is"
+ },
+ {
+  "old": "2026 NAN-C trial keeps an assist level it adjusts, pressure limits and backup settings. [NAN-C study](https://link.springer.com/article/10.1007/s00431-026-06888-5).",
+  "new": "A NAVA trial has an assist level it adjusts, pressure limits and backup settings.",
+  "why": "a year, a trial's name and a source leave; released *keeps* said *has*"
+ },
+ {
+  "old": "2015 skin device combines thermal actuation, temperature sensing and model-based flow estimation. Its conversion includes tissue thermal properties and vessel geometry. Pulsing mode renews temperature baseline and lowers average heater input, with lower time resolution than continuous operation. Within that comparison, heater frequency and power do not change. These are particular measurement operations and tradeoffs. A proposal's living benefit from sensing still belongs with its receiving. [Webb et al., Figures 2 and 7 and pulse-operation methods](https://rogersgroup.northwestern.edu/files/2015/sciadvflow.pdf).",
+  "new": "A skin device combines thermal actuation, temperature sensing and model-based flow estimation. Its conversion includes tissue thermal properties and vessel geometry. Pulsing mode renews temperature baseline and lowers average heater input, with lower time resolution than continuous operation. Within that comparison, heater frequency and power do not change. These are particular measurement operations and tradeoffs. A proposal's living benefit from sensing still belongs with its receiving.",
+  "why": "a year, finders and a source leave"
+ },
+ {
+  "old": "2013 primary abstract describes tremor-frequency stimulation for Parkinson's disease. Rhythms at first not coupling move between phase relations with tremor weakening and strengthening; stimulation with relations a selection sets then accompanies lower resting-tremor amplitude. Phase selection remains part of apparatus. Full waveform, contact, sensing-delay and interruption method still belongs with engineering entry; this abstract supplies its particular observing. [Brittain et al., primary abstract](https://www.bndu.ox.ac.uk/papers/tremor-suppression-rhythmic-transcranial-current-stimulation).",
+  "new": "Tremor-frequency stimulation with Parkinson's disease has rhythms, at first not coupling, moving between phase relations with tremor weakening and strengthening; stimulation with relations a selection sets accompanies lower resting-tremor amplitude. Phase selection remains part of apparatus. Full waveform, contact, sensing-delay and interruption method still belongs with engineering entry.",
+  "why": "a year, an abstract as sayer, finders and a source leave; *then* a clocking leaves"
+ },
+ {
+  "old": "That study supplies a pressure–flow comparison this entry addresses; a complete ongoing connector retains its own bodily receiving. [Zhang et al., 2021, procedures and results](https://www.frontiersin.org/journals/cardiovascular-medicine/articles/10.3389/fcvm.2021.721140/full).",
+  "new": "That study supplies a pressure–flow comparison this entry addresses; a complete ongoing connector retains its own bodily receiving.",
+  "why": "a source leaves; the sentence stands as it is"
+ },
+ {
+  "old": "Experimental account describes comparison across continuous infusion rates and secretion renewing after returning to pulse delivery. Substance, experimental preparation and secretion measurement stay together; dose, timing and response each remain within entry. Construction question is delivery and receiving of a coupling a self proposes, including material remaining after delivery stops. [Belchetz et al., 1978](https://doi.org/10.1126/science.100883); [Plant, account of the experiments and original figure](https://www.fertstertreports.org/article/S2666-3341(22)00111-8/fulltext).",
+  "new": "Comparison goes across continuous infusion rates, and secretion renews after returning to pulse delivery. Substance, experimental preparation and secretion measurement stay together; dose, timing and response each remain within entry. Construction question is delivery and receiving of a coupling a self proposes, including material remaining after delivery stops.",
+  "why": "an account as sayer, finders, a year and two sources leave"
+ },
+ {
+  "old": "2016 light-exposure experiment includes 39 healthy adults receiving either continuous light or a sequence of short flashes during a night-time exposure on schedule. Circadian phase shift varies with interval between flashes. Melatonin suppression, objective alertness and sleepiness participants report do not share that interval-dependent pattern. Experiment keeps sleep and light schedules a protocol prescribes. Phase-shift measurement supplies its own endpoint; useful living receiving remains to express with an arrangement a self proposes. [Najjar and Zeitzer, methods and results](https://www.jci.org/articles/view/82306).",
+  "new": "A light-exposure experiment includes 39 healthy adults receiving either continuous light or a sequence of short flashes during a night-time exposure on schedule. Circadian phase shift varies with interval between flashes. Melatonin suppression, objective alertness and sleepiness participants report do not share that interval-dependent pattern. Experiment has sleep and light schedules a protocol prescribes. Phase-shift measurement supplies its own endpoint; useful living receiving remains to express with an arrangement a self proposes.",
+  "why": "a year, finders and a source leave; released *keeps* said *has*"
+ },
+ {
+  "old": "External magnetic fields and rotation retain account's field-reversal qualification. [Onsager, Reciprocal Relations in Irreversible Processes II](https://link.aps.org/doi/10.1103/PhysRev.38.2265).",
+  "new": "External magnetic fields and rotation retain account's field-reversal qualification.",
+  "why": "a source leaves; the sentence stands as it is"
+ },
+ {
+  "old": "Joule heat, Fourier conduction and thermal contact impedances belong to measurement account. [Panthi et al., Empirical Test of the Kelvin Relation in a Bi₂Te₃ Thermopile](https://doi.org/10.1063/5.0143803).",
+  "new": "Joule heat, Fourier conduction and thermal contact impedances belong to measurement account.",
+  "why": "a source leaves; the sentence stands as it is"
+ },
+ {
+  "old": "The coefficient comparison it reports supplies that measurement's scope.",
+  "new": "The coefficient comparison supplies that measurement's scope.",
+  "why": "a source's reporting leaves"
+ },
+ {
+  "old": "within a London description the source states, with",
+  "new": "within a London description, with",
+  "why": "a source's stating leaves"
+ },
+ {
+  "old": "A path that junctions interrupt also retains their phase differences. [Tew and Williams, A Flux Locked Current Source Reference, design considerations](https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=17212).",
+  "new": "A path that junctions interrupt also retains their phase differences.",
+  "why": "a source leaves; the sentence stands as it is"
+ },
+ {
+  "old": "Junction asymmetry and nonzero loop inductance belong with actual device. [Kerckhoff et al., On-Chip Superconducting Microwave Circulator from Synthetic Rotation, §IV, Eq. 32](https://link.aps.org/accepted/10.1103/PhysRevApplied.4.034002).",
+  "new": "Junction asymmetry and nonzero loop inductance belong with actual device.",
+  "why": "a source leaves; the sentence stands as it is"
+ },
+ {
+  "old": "Pulse's duration and shape remain particular waveform properties. [NIST, Quantum Locking Ranges](https://www.nist.gov/ctl/rf-technology-division/superconductive-electronics-group/quantum-locking-ranges).",
+  "new": "Pulse's duration and shape remain particular waveform properties.",
+  "why": "a source leaves; the sentence stands as it is"
+ },
+ {
+  "old": "The authors propose feedback to track resistance maximum; the noise floor they quote is an estimate. [Noh, Kindseth and Chandrasekhar, Nonlocal Superconducting Quantum Interference Device, §§II–IV](https://arxiv.org/html/2011.06667v2).",
+  "new": "Feedback tracking resistance maximum, with its noise floor, is an anticipated observing.",
+  "why": "authors, finders and a source leave; a proposal and an estimate are an anticipated observing"
+ },
+ {
+  "old": "its ideal routing retains those controls and its modeling conditions. [Kerckhoff and colleagues, On-Chip Superconducting Microwave Circulator from Synthetic Rotation, Eqs. 1 and 5](https://link.aps.org/accepted/10.1103/PhysRevApplied.4.034002).",
+  "new": "its ideal routing retains those controls and its modeling conditions.",
+  "why": "a source leaves; the sentence stands as it is"
+ },
+ {
+  "old": "Port labels retain each source's own ordering.",
+  "new": "Port labels retain each design's own ordering.",
+  "why": "a source leaves"
+ },
+ {
+  "old": "Shifting relative control phase selects circulation direction. [Chapman and colleagues, Widely Tunable On-Chip Microwave Circulator for Superconducting Quantum Circuits, §IV and Appendix B](https://link.aps.org/pdf/10.1103/PhysRevX.7.041043).",
+  "new": "Shifting relative control phase selects circulation direction.",
+  "why": "a source leaves; the sentence stands as it is"
+ },
+ {
+  "old": "Junction asymmetry and quasiparticle varying remain within source's measuring and modeling account. [Navarathna and colleagues, Passive Superconducting Circulator on a Chip, §§II–VI and Appendix A](https://arxiv.org/html/2208.13339v2).",
+  "new": "Junction asymmetry and quasiparticle varying remain within its measuring and modeling account.",
+  "why": "a source leaves"
+ },
+ {
+  "old": "Further loop arrangement holds this particular source comparison. [Kumar and colleagues, Low-loss On-chip Superconducting Microwave Circulator Assisted by Shunting Capacitors, §§III–V, Fig. 3 and Appendix E](https://link.aps.org/pdf/10.1103/PhysRevResearch.7.013075).",
+  "new": "A further loop arrangement has this particular comparison.",
+  "why": "finders and a source leave; released *holds* said *has*"
+ },
+ {
+  "old": "Each entry: **Source property** · *a* Receiving it states",
+  "new": "Each entry: **Device property** · *a* Receiving it states",
+  "why": "a source leaves from a column head"
+ },
+ {
+  "old": "  - *a* Source postselects results below on a quasiparticle sector it optimizes; other sectors perform worse.",
+  "new": "  - *a* Results below are postselected on a quasiparticle sector an optimizing selects; other sectors perform worse.",
+  "why": "a source as doer leaves"
+ },
+ {
+  "old": "Conditional source result retains its selection within that comparison.",
+  "new": "Conditional result retains its selection within that comparison.",
+  "why": "a source leaves"
+ },
+ {
+  "old": " [Open University, Surfaces §4.3](https://www.open.edu/openlearn/science-maths-technology/mathematics-statistics/surfaces/content-section-4.3).",
+  "new": "",
+  "why": "a source leaves; the sentence stands as it is"
+ },
+ {
+  "old": "Full-surround sixteen-momentary, bi-co-podaling and prime-gap mapping goes onward with Numbers, Mathematics and Living Improving Value.",
+  "new": "Full-surround sixteen-momentary, bi-co-podaling and prime-gap mapping goes onward with Numbers and Mathematics.",
+  "why": "a pointer to a file standing nowhere leaves"
+ },
+ {
+  "old": "Networking kit contains resolver, coupling arrangements and instruments with distinct questions. Their placement within one directory gives neither their correspondence nor their separation.",
+  "new": "Resolver, coupling arrangements and instruments within one directory have distinct questions; their placement gives neither their correspondence nor their separation.",
+  "why": "a kit pointer leaves; its pattern stays"
+ },
+ {
+  "old": "SparseGPT reports 50–60% unstructured sparsity for large models it addresses with small perplexity changes. Its Appendix E separately reports CPU inference and GPU layer timings; GPU layer measurements are not whole-model timings. Parameter sparsity, speedup and electrical consumption therefore retain their own measurements. [Frantar and Alistarh, 2023, results and Appendix E](https://proceedings.mlr.press/v202/frantar23a/frantar23a.pdf).",
+  "new": "SparseGPT reaches 50–60% unstructured sparsity for large models it addresses with small perplexity changes. Its CPU inference timings and GPU layer timings are separate; GPU layer measurements are not whole-model timings. Parameter sparsity, speedup and electrical consumption retain their own measurements.",
+  "why": "a method as sayer, an appendix, finders, a year and a source leave; released *therefore* leaves; numbers whole"
+ },
+ {
+  "old": "GPTQ's primary abstract reports 3- or 4-bit weight quantization for model scales it tests. Distillation construction trains a single model from an ensemble’s outputs. These quantities concern precision and a replacement a training gives, respectively; neither is a percentage of weights a test shows contribute nothing. [GPTQ, primary abstract](https://arxiv.org/abs/2210.17323); [Distilling the Knowledge in a Neural Network, opening and method](https://arxiv.org/pdf/1503.02531).",
+  "new": "GPTQ gives 3- or 4-bit weight quantization for model scales a test addresses. Distillation construction trains a single model from an ensemble’s outputs. These quantities concern precision and a replacement a training gives, respectively; neither is a percentage of weights a test shows contribute nothing.",
+  "why": "an abstract as sayer and two sources leave; numbers whole"
+ },
+ {
+  "old": " [Fedus, Zoph and Shazeer, 2022, §2](https://jmlr.org/papers/volume23/21-0998/21-0998.pdf).",
+  "new": "",
+  "why": "finders, a year and a source leave; the sentence stands as it is"
+ },
+ {
+  "old": "Source opens an improvement for executing one same attention operation, with its hardware and numerical conditions present. [Dao et al., 2022, Algorithm 1 and §3](https://proceedings.neurips.cc/paper_files/paper/2022/file/67d57c32e20fd0a7a302cb81d36e40d5-Paper-Conference.pdf).",
+  "new": "It opens an improvement for executing one same attention operation, with its hardware and numerical conditions present.",
+  "why": "a source as doer, finders, a year and a source leave"
+ },
+ {
+  "old": "**Forming holds particular crystal form.**",
+  "new": "**Forming has particular crystal form.**",
+  "why": "a bold lead of a paragraph this motion re-says, checked for released words: *holds* said *has*"
+ },
+ {
+  "old": "**A field record holds its arrangement.**",
+  "new": "**A field record has its arrangement.**",
+  "why": "a bold lead of a paragraph this motion re-says, checked for released words: *holds* said *has*"
+ },
+ {
+  "old": "**Pressure rising across a batch holds another engineering observing.**",
+  "new": "**Pressure rising across a batch has another engineering observing.**",
+  "why": "a bold lead of a paragraph this motion re-says, checked for released words: *holds* said *has*"
+ },
+ {
+  "old": "**An ideal port map holds a configuration it states.**",
+  "new": "**An ideal port map has a configuration it states.**",
+  "why": "a bold lead of a paragraph this motion re-says, checked for released words: *holds* said *has*"
+ },
+ {
+  "old": "**DC-control routing holds another particular arrangement.**",
+  "new": "**DC-control routing has another particular arrangement.**",
+  "why": "a bold lead of a paragraph this motion re-says, checked for released words: *holds* said *has*"
+ },
+ {
+  "old": "**Receiving during a transition holds next discovering.**",
+  "new": "**Receiving during a transition has next discovering.**",
+  "why": "a bold lead of a paragraph this motion re-says, checked for released words: *holds* said *has*"
+ }
+]
