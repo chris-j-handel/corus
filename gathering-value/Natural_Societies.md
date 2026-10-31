@@ -155,6 +155,7 @@ Gathering-Value · Natural Societies
 - **Possible exploring** · A two-handed coil about a between, twisting in and relaxing out, is observed from the genes' molecule to the biosphere and absent only at 5, population and community still to gather. — at "**And every closing on near seven closes by winding about a center that takes no parity.**"
 - **A reading** · A reading has this two-handed coil as a pattern for matching natural torusing same-existing-society with each scale.
 - **Possible incohering** · "**A hand counts nowhere and goes across anyway.**" → *Counts* stands here at this file's own voice, and Natural Naming 2.4 has count at a set's own voice said by numbers themselves, momentaries, podalings and sequences, directly as numbers.
+- **Possible incohering** · "A single stereochemical center on five sets a sugar on seven, its sugar a backbone on eleven, its backbone a helix and fold on thirteen." → *A single stereochemical center on five* parts with a hand beginning at 7, the smallest lasting hand-bearing molecules five atoms about one carbon and carbon at 5 handless. A stereochemical centre is a carbon atom in a molecule, and a sugar is-not a carbon atom.
 
 ### 4.4 The living society, one unanimous floating pluralizing going on
 
@@ -169,7 +170,6 @@ Gathering-Value · Natural Societies
 ## Droplets
 
 - Each existing thing is living with one scale, a same-existing-society it bi-couples within, and bi-couples with living of that scale alone, each self a same-existing-society of selves one scale inward and each same-existing-society a self one scale outward.
-- 5.6's *A single stereochemical center on five sets a sugar on seven* parts with a hand beginning at 7, the smallest lasting hand-bearing molecules five atoms about one carbon and carbon at 5 handless. *(possible incohering)*
 - Prior living in the universal atom/carbon proposal reaches each NI living scale, and an absence of biological organisms alone excludes no such origin. *(possible exploring)*
 - In the proposal of the ladder, atom at five, a non-living stable form, can share in a relation with living molecule at seven and living macromolecule at eleven while five is-not a number between seven and eleven; the selves sharing in that relation and its actual receiving are an identifying to come. *(possible exploring)*
 - In the proposal of the ladder, ingestion one living scale inward reaches atom at five, a non-living stable form, molecule at seven the first self of this ladder; a living participant at five is an identifying to come, and the join at five is an open resolving. *(possible incohering)*

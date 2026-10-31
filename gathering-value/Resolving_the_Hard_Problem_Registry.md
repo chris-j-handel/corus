@@ -322,6 +322,7 @@ Gathering-Value · Resolving the Hard Problem Registry
 
 - **Possible exploring** · The RfaH protein's C-terminal domain refolds from an α-helical hairpin to a β-barrel on joining a particular paused transcription complex, then binds ribosomal protein S10, and returns to its autoinhibiting α form after release, one sequence with two folds and two competencies. — at "A prion is one sequence with two folds, each going on by its own couplings, so a fold is no sequence's one determining."
 
+
 ### 5.22 Evidence for neural representation · 219
 
 ### 5.23 Detecting covert consciousness · 220

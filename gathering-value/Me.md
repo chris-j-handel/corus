@@ -117,10 +117,10 @@ Gathering-Value · Me
 
 ## Droplets
 
-- A snap goes on in non-living sets too, sodium chloride crystallising and a porous crystal contracting, so a snap alone is short of a test of a me, a me's test its mes sharing 0s across and along. *(possible exploring)*
-- A set is a universal set of me as its mes share 0s across and along, a closing of its own, its size and enclosing shape aside, one test for a chemical assembly and for a stone. *(possible exploring)*
 - A same-existing-society's discovering is its selves' newly aiming 0s within an interest, each a waking me's discovering; Natural Exploring 6.1 holds a same-existing-society discovering as a self discovers. *(possible exploring)*
 - Nothing is remembering: a me self is a universal set of me parities, now-existing, its prior, now and next same-existing four-cycling, and each thing a field calls a memory, a skin stem cell's chromatin open after an inflammation, a crane's route straightening with older cranes, a voyager's charts studied whole and left ashore, is a me self's prior same-existing going on now. *(possible incohering)*
 
 - A carbon co-chaining, non-living, as an *empty me* in stable form: as a me's stable form empty of a me, a non-living form a me's parity can go with, it coheres with Me 2.3, 3.3 and 4.4; as a non-living me, it parts from 3.3's "A non-living me: it is not", a concern for its resolving. *(possible incohering)*
 - A me's outward observing rests by a drug, a state its field holds apart from sleep: a sleeping me wakes to an inverse received and an anaesthetised me as the drug clears, some connected and aware within it, awareness within surgery a harm anaesthetists watch for. *(possible exploring)*
+- A snap goes on in non-living sets too, sodium chloride crystallising and a porous crystal contracting, so a snap alone is short of a test of a me, a me's test its mes sharing 0s across and along. *(possible exploring)*
+- A set is a universal set of me as its mes share 0s across and along, a closing of its own, its size and enclosing shape aside, one test for a chemical assembly and for a stone. *(possible exploring)*
