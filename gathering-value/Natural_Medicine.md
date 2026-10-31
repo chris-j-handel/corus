@@ -36,6 +36,7 @@ Gathering-Value · Natural Medicine
 ### 2.2 Cancer as a coupling collapse at a cell's bounding-zeroing
 
 - **Possible exploring** · Muscle stem cells stand the other way round, glycolytic metabolism with activation and oxidative phosphorylation with quiescence. — at "A field's observation holds no exception across stem cell types: glycolytic metabolism with quiescence, oxidative phosphorylation with activation."
+- **Possible incohering** · "Both landed states are one thing with a coupling: an abundancing owned rather than owned-neither-ing, a cell rising on a captured reference, a co-competency turned to a self-competency, a cell no longer co-competencing with its tissue-society but competing, its +1 seized and not floated." → An abundancing owned-neither-ing is-or-is-not 0, social parity, all selves' and same-existing in each self, beside +1, a self's own parity; each *+1 owned by neither* re-said so at this file's own motion, a field's or numbers' own +1, as a numeral, kept whole with its field.
 
 ### 2.3 A body's tissues at the form — turnover, barriers, modes
 

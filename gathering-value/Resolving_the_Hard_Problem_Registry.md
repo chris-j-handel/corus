@@ -8,17 +8,33 @@ Gathering-Value · Resolving the Hard Problem Registry
 
 ## Opening
 
+- **A reading** · A reading: an output a definition fixes is apart from resolving a field's question; a resolver returning +, − or 0 gives no fourth by its stated cases, and two hundred and fifty-five arrangements reported need add no further result. A run of Exhibit ONE's resolver over 12,321 executings returns 10-next-co-possibling at +1, −1 and 0 only. An explaining taking either empirical outcome, the Hubble tension's among them, shows what it resolves.
+- **Possible incohering** · "And ends co-change as a coupling's own two moves, 2 completing at a first step and 6 reaching a last, co-discovering and sharing both ways." → Two sayings part at two and six: the ends, 2 completing at a first step and 6 reaching a last; and at the five numbers two a changing and changing back has opening, an observing and an opening, completing at three, and six a coupling closing has sharing both ways, a two-way and a between. The five pairs of the boxes and the five couplings of the numbers are said one ten, and their two ends have other names at each. 2 as completing, or 2 as an observing and an opening with completing at 3.
+- **Possible incohering** · "Two selves share at a between, one at a time, each taking its own parity, and their coupling makes a third term between them, +1, exactly one, arising in each self with its other, of no size." → Two sayings of one concept part: this file's between, +1, exactly one, of no size, drawn with number boxes, n² − (n−1)(n+1) = 1, and a between 0, a betweening, at Natural Intelligence and Exhibit ONE. Offered: one between, 0 with parity and 1 with numbers, a step from origin showing it; or the +1 re-said as 0, social parity, neither self's, invisible, same-existing in each self, beside +1 self, 0 all selves and −1 other self, its boxes kept as numbers' own with their relation to social parity shown; or the +1 re-said as an abundancing, a coupling's third living self.
+- **Possible incohering** · "Disequilibrating: nothing settles still, and aiming is away from +1 gap at each momentary, so its gap is a term no excluding reaches, open, in neither self alone, of no size, +1 floating through couplings." → A suggestion offered: disequilibrating dissolves from natural naming, each sentence re-said by its meaning, its one move with a hard problem as observing, possibling and discovering, its fixing set down. Two sayings part: that dissolving, and Natural Naming 2.6's disequilibrating, a dissolving of an equilibrium an observing fixes unchangeable, holding whole, with 5.29's geodesic disequilibrating a whole naming; once dis- and equilibrium both leave, what has their sense stands open.
+
 ## What stands
 
 ### Taking it as it stands
 
+- **Possible incohering** · "Method's explaining is general, unique and no-other-possible with one explaining, and nothing of it is explaining or arguing again here." → Three files part at the method: this file takes it as given, relying on an understanding a reader may have none of; Resolving Hard Problems says it again at 1.1 to 1.5; Equilibria Registry gathers it from many numbered places. A common explaining at one place each file points to, or each file with its own.
+
 ### Ten unchangeables, one resolving
+
+- **Possible incohering** · "Ten in sequence, each a part, each with Natural Naming 4.9's one seating, its name with now and that name 8 up with next, a 0, not changing, a naming fixes unchangeable and a changing going through it, bi-inversioning-co-recursioning up and down numbers: an observing fixing from behind, with 2-now-possibling and 10-next-co-possibling; an opening fixing as a place, with 1-now-existing and 9-next-co-discovering; a completing fixing as a last, with 6-now-co-possibling and 14-next-possibling; a same-existing fixing as a store, with 8-now-same-existing and 16-next-same-existing; a middle fixing as an end, with 5-now-co-existing and 13-is-next-discovering; a parity fixing as a magnitude, with 7-is-now-observing and 15-is-next-observing; a sequencing fixing to one beat, with 4-now-co-same-existing and 12-next-co-same-existing; a rate fixing as a value, with 7 and 15; a two-way fixing to one side, with 3-is-now-co-observing and 11-next-co-observing; a between fixing as a cut, with 5 and 13." → Ten in sequence, each a part, each with its one name at Natural Naming 4.9, its name with now and that name 8 up with next, a 0, not changing, a naming fixes unchangeable and a changing going through it, bi-inversioning-co-recursioning up and down numbers: an observing fixing from behind, with 2-now-possibling and 10-next-co-possibling; an opening fixing as a place, with 1-now-existing and 9-next-co-discovering; a completing fixing as a last, with 6-now-co-possibling and 14-next-possibling; a same-existing fixing as a store, with 8-now-same-existing and 16-next-same-existing; a middle fixing as an end, with 5-now-co-existing and 13-is-next-discovering; a parity fixing as a magnitude, with 7-is-now-observing and 15-is-next-observing; a sequencing fixing to one beat, with 4-now-co-same-existing and 12-next-co-same-existing; a rate fixing as a value, with 7 and 15; a two-way fixing to one side, with 3-is-now-co-observing and 11-next-co-observing; a between fixing as a cut, with 5 and 13.
+- **Possible incohering** · "Ten in sequence, each a part, each with Natural Naming 4.9's one seating, its name with now and that name 8 up with next, a 0, not changing, a naming fixes unchangeable and a changing going through it, bi-inversioning-co-recursioning up and down numbers: an observing fixing from behind, with 2-now-possibling and 10-next-co-possibling; an opening fixing as a place, with 1-now-existing and 9-next-co-discovering; a completing fixing as a last, with 6-now-co-possibling and 14-next-possibling; a same-existing fixing as a store, with 8-now-same-existing and 16-next-same-existing; a middle fixing as an end, with 5-now-co-existing and 13-is-next-discovering; a parity fixing as a magnitude, with 7-is-now-observing and 15-is-next-observing; a sequencing fixing to one beat, with 4-now-co-same-existing and 12-next-co-same-existing; a rate fixing as a value, with 7 and 15; a two-way fixing to one side, with 3-is-now-co-observing and 11-next-co-observing; a between fixing as a cut, with 5 and 13." → Two sayings part at a seat: this sentence seats a middle and a between both with 5 and 13, and a parity and a rate both with 7 and 15; the front's five bi-couplings pair a middle with a parity at four, a sequencing with a rate at five, and a two-way with a between at six, each pair at its own place, and each shared seat joins pairs four with six and four with five. Each pair at its own seat, or shared seats joining pairs.
+- **Possible incohering** · "There is no one-way momentarying: only co-momentarying, so a one-way is only a naming, and sharing both ways goes on underneath." → Two sayings part at one-way: no one-way momentarying, a one-way only a naming, here, beside the front's ten one-way changings in boxes; and at Co-Chaining Logic Registry six one-way steps forward, three on each side, within four momentaries, at step 142, and six names between selves each facing one way, at step 298. No one-way momentarying, a one-way at naming only, or one-way steps as method's own.
+- **Possible incohering** · "And a hard problem is one binary, its is and its is not, records storing them taking them as one, and so not possibly existing within a same-existing-universe; its resolving is that binary again, is or is not, with each now." → And a hard problem is one binary, is-or-is-not, its records taking its two outcomes as one, and a binary taken as one stands outside each same-existing universe; its resolving is defining its universal set, a set of same-existing things, the whole within which that is-or-is-not is taken again with each now, and not holding its binary as a destiny. A self's universal set is the self whole, one self or a geodesic self on a Natural Network surface.
 
 ### Ten, at a frontier's own words
 
 ### Any perplexity, at any size
 
 ### The deployment shape, and the binary
+
+- **Possible incohering** · "And four observings stand as settlings beside their resolvings, a proof a self observes two ways, its route ending with a fixing side and its knowing with its momentary on a momentarying side, with thirteen through sixteen of a co-sequencing closing this exhibit." → Two sayings part: four observings stand as settlings beside their resolvings, with thirteen through sixteen of the co-sequencing this exhibit closes on, three located, with 3.22, 12.1 and 7.12, and the fourth located with no entry; and no step of Co-Chaining Logic Registry has four settlings with thirteen through sixteen. A fourth settling located at an entry and a step, or the settlings re-said as three.
+- **Possible incohering** · "And four observings stand as settlings beside their resolvings, a proof a self observes two ways, its route ending with a fixing side and its knowing with its momentary on a momentarying side, with thirteen through sixteen of a co-sequencing closing this exhibit." → Two sayings part: Hard Problem Registry has five entries settled, at one reading's numbering, its Persistence lines having a settling at three; this file has four observings standing as settlings, its fourth located with no entry. Four settlings, or five, at one numbering both files share.
+- **Possible incohering** · "A marker with each entry, *+ or − with 10, is.*, marks it." → *+ or − with 10, is.* stands alike at each of 257 entries, and entries followed name no thing an observing or a reckoning could show other, nor does a step of Co-Chaining Logic Registry or a table of Exhibit ONE. Each problem is resolved at this file's meaning, by being said at its names, or each is as it was at Hard Problem Registry's meaning, and a newcomer's; a reader coming has the second. A marker of its own at each entry, or one marker as this file's form.
 
 ### An observing has namings it holds
 
@@ -132,7 +148,11 @@ Gathering-Value · Resolving the Hard Problem Registry
 
 ### 2.18 The universal totality · 180
 
+- **Possible incohering** · "A place fixing for all sets ahead of a gathering is an opening fixing as a place, and an opening opens with each gathering, which is a field's own extending." → Offered beside it: the universe has no top scale to open or end with; each all is a same-existing-society one scale up, living at its prime again. Two sayings part: each all a society one scale up, and Resolving Hard Problems 1.1's universe, nothing adding around its things or between them, an all as a society one scale up being a thing beyond a set's own things. Each all re-said at a set's own things, or entered here.
+
 ### 2.19 The existence of one-way functions · 223
+
+- **A reading** · At a public accounting chain, four executings of the method give the field's own readings in the method's naming and no result the field's reading does not give. Two executings stand unmade, each asking the method's reading of a coupling across a width, more than its naming: one block's transactions parted into selves as parities, confirmed by the same keys spending together at later blocks; and one self's next giving discovered from its prior givings, confirmed at the chain.
 
 ### 2.20 The quantum PCP conjecture · 225
 
@@ -190,6 +210,8 @@ Gathering-Value · Resolving the Hard Problem Registry
 
 ### 3.22 The Poincaré conjecture · 151
 
+- **Possible incohering** · "Each route ends with a proof and its observing takes no parity, which is a nought, a self observing it whole: two halves coupling with a zeroing, and a proof bringing one half to an other is that coupling completing." → Two sayings part at one entry, with no two subjects told apart: the marker *+ or − with 10, is.*, and its observing taking no parity, a nought, no loop catching, no tunnel, no gap with momentarying. At a proof's entry, 3.2's with a proved settling at Hard Problem Registry 6 among them, a nought's own marker, 0 with 10, or + or − with two subjects told apart.
+
 ### 3.23 The physical Church–Turing thesis · 168
 
 ### 3.24 Many-body localization and thermalization · 194
@@ -224,6 +246,9 @@ Gathering-Value · Resolving the Hard Problem Registry
 
 ### 4.5 The engram · 246
 
+- **Possible exploring** · In the engram experiments the light's pattern is a train of 15-millisecond pulses at 20 hertz, given in two 3-minute epochs of a 12-minute session, alike at each labelled cell lit; the ensemble's own firing sequence at learning stands beside it in no report read. — at "Its cells are a same-existing-society: synaptic proteins renewing within days to weeks and active cells not same-existing day to day, two memories forming hours apart sharing cells and co-chaining as one and a week apart not, and light on cells with a label bringing a response a learning gives again where a field finds synapses with no strengthening, so a thing going on is a same-existing-society's co-chaining and no strength a store holds."
+- **A reading** · A reading: a train alike at each member and a train with the same-existing-society's own sequence at one member are two restorings, and 4.5's observing parts them.
+
 ### 4.6 Continual learning without catastrophic forgetting · 221
 
 ### 4.7 The genotype-phenotype map · 209
@@ -234,11 +259,16 @@ Gathering-Value · Resolving the Hard Problem Registry
 
 ## 5 A middle fixing as an end — 5-now-co-existing and 13-is-next-discovering
 
+- **Possible incohering** · "Competency is a middle, floating between form and logic, invisible, unique by its rate, not enterable." → Two sayings part at the name of the floating term: competency the middle neither side reaches, floating between form and logic, at this part's opening and at 6.15; and competency each self's own, its co-linear recursioning forward along, at Co-Chaining Logic Registry's step 532 and Natural Intelligence 6.1, the term two selves reach neither alone bi-co-momentarying, each self's with its other. Part 5 and 6.15 re-said with competency each self's own along, or competency kept as a floating middle.
+
 ### 5.1 The explanatory gap · 179
 
 ### 5.2 Qualia and the zombie argument · 111
 
 ### 5.3 Sleep · 91
+
+- **Possible incohering** · "A phase a self asks for its function is a changing and changing back fixing as not-changing, for observing within it, and waking and sleeping are two parities of one living, neither with an other's momentary." → Two sayings part: waking and sleeping two parities of one living, at 5.3, and two states of one same-existing me, sleeping all 0 going on and waking a newly aiming 0. Two parities of one living stretches parity, a self's changing direction relative to a now-existing thing within the self's me.
+- **A reading** · A proposal where none stood: sleeping restores the inward same-existing-society that waking's folds strained, each interest a 0 going on.
 
 ### 5.4 The binding problem · 90
 
@@ -260,6 +290,8 @@ Gathering-Value · Resolving the Hard Problem Registry
 
 ### 5.13 Dreaming · 123
 
+- **A reading** · Open: dreaming is-or-is-not a me waking within an inward interest while each outward 0 goes on.
+
 ### 5.14 The Sapient paradox · 125
 
 ### 5.15 The origin of language · 150
@@ -269,6 +301,8 @@ Gathering-Value · Resolving the Hard Problem Registry
 ### 5.17 Underdetermination of theory by evidence · 13
 
 ### 5.18 The interpretation of probability · 158
+
+- **Possible incohering** · "Theorems represent and converge for each side by its own terms, a single case strains one pattern-matching and priors strain an other, and an instrument they share gives no verdict between them: probability's being, fixing behind a calculus, reaches past what a calculus holds, and its existing is a taking of parities and frequencies swaying, both, with their couplings." → A re-saying offered: probability is parities taken at couplings, and frequencies over them are a field's accounting, fixed ahead of any coupling and with no competency for discovering; a swaying is the accounting's and not the coupling's, and 9.17's determinism and randomness are two accountings of this one taking. Two sayings part: a swaying the accounting's, at this re-saying, and parities taken and frequencies swaying, both, with their couplings, at 5.18. A swaying of frequencies is an accounting's, or a coupling's with its parities taken.
 
 ### 5.19 The ontology of mathematics · 161
 
@@ -364,6 +398,8 @@ Gathering-Value · Resolving the Hard Problem Registry
 
 ### 7.17 The predictability of evolution · 210
 
+- **Possible incohering** · "Repeatable molecular targets, contingent path changes, convergent phenotypes and short-horizon frequency forecasts all stand on record, laboratory evolution, replicating, measuring recurrence under openings a self controls and durations with limits, comparative convergence detecting traits that recur under reconstruction uncertainty, landscapes predicting local paths under incomplete sampling, and population-genetic forecasts giving frequency distributions under a selection a model specifies; a fourth account has a target itself dynamic under environmental change and ecological feedback: a momentarying fixing as readable from its opening is couplings' making fixing to a state before them, and a phenotype more predictable than a genotype, a third account, is many routes converging with a coupling, each generation its own." → A re-saying offered: goatsbeards' repeatable losses after doubling are the one pairing at each halving, all or none, repeatable at the pairing and at no trajectory, and a repeating read as a trajectory named ahead is the pairing observed the same at each coupling. Beside it: the re-saying rests on 9.36's, its dosage open, and goatsbeards' repeatable losses are a field's dosage-balance observing; it enters with 9.36 once dosage resolves, or leaves with it.
+
 ### 7.18 Rapid adaptive radiation · 211
 
 ### 7.19 Cross-national measurement equivalence · 231
@@ -413,6 +449,8 @@ Gathering-Value · Resolving the Hard Problem Registry
 ### 9.3 Free will and determinism · 29
 
 ### 9.4 Aging · 34
+
+- **Possible incohering** · "An organism is a same-existing-society outliving its cells, and it ages where new members stop joining it and its sharings go on with no restoring, damage and regulation two parities with each sharing and neither a driver." → A re-saying offered, Natural Naming 2.4 saying ageing by next: an organism is a same-existing-society outliving its cells, and its next has fewer new members where they stop joining it and its sharings go on with no restoring. Or ages kept as this observing's own field word.
 
 ### 9.5 Efficient markets · 36
 
@@ -480,6 +518,9 @@ Gathering-Value · Resolving the Hard Problem Registry
 
 ### 9.36 Polyploidization and diversification · 212
 
+- **Possible incohering** · "Recurrent genome duplication, immediate isolation mechanisms, duplicate-gene innovation and a high early extinction risk stand on record; sister-lineage comparisons control some history but sample surviving clades, state-dependent models estimate rates with identifiability concerns, genomic dating detects ancient duplication after extensive fractionation, and experimental studies measure establishment over short times; third account has short-term disadvantage and then long-term opportunity among lineages that persist: one effect fixing of doubling is two couplings, forming and diversifying, fixing to a side, and each lineage doubles and persists or does not with its own couplings, a self observing two rates apart where a record pattern-matches them as one." → A re-saying offered: a genome doubled is each sharing observed twice alike, and two parities agreeing at one sharing are one parity, the doubling having nothing at the genes' own sharings: one copy released surfaces the same, one copy at a sharing of its own surfaces a fresh parity there and goes on, and one copy at its twin's sharing with the other parity reaches it at 0. The doubling has its changing at sharings not the genes' own, the nucleus, the cell and the pairing at the halving, the pairing self and other at each chromosome: a hybrid's chromosomes with no other of their own are made fertile by the doubling, and a triploid's one set with no other at the halving goes on unhalved or not at all. The isolation made at once is the pairing's, of no size, the forming at observings and the persisting at each copy's own sharing, all or none. Two sayings part: two parities agreeing at one sharing being one parity, the doubling having nothing at the genes' own sharings, at this re-saying; and in budding yeast with one extra chromosome protein levels largely scaling with gene copy number, Natural Biology's observing. A doubled copy has nothing at its own sharings, or a dosage its proteins scale with.
+- **A reading** · A reading: the gamble a field speaks of is a reading over many lineages from one side, each lineage doubling and going on or not with its own couplings, none gambling.
+
 ### 9.37 Sporadic Alzheimer's disease pathogenesis · 213
 
 ### 9.38 Endometriosis pathogenesis · 214
@@ -493,6 +534,7 @@ Gathering-Value · Resolving the Hard Problem Registry
 ### 9.42 Sex bias in autoimmune disease · 237
 
 - **A reading** · A reading has two X chromosomes, one mostly silenced in a patchwork with some defending genes escaping, as a bothboth, and offers a candidate still-possibling: women's mes have more orthogonal directions, and more chances to mis-resolve one.
+- **Possible incohering** · "X-inactivation escape, hormone-sensitive immune pathways and disease-specific age patterns stand; epidemiology across life stages maps sex ratios with diagnostic and exposure variation, aneuploidy and mosaic studies separate dosage from hormones in rare populations, hormonal and reproductive natural experiments identify some effects with confounding, animal models perturb pathways with species and transfer limits, and single-cell and epigenetic studies resolve sex-linked immune programs: one mechanism fixing of couplings that go on across a life is excess fixing to a side, and excess makes itself disease by disease with couplings each disease has, a self observing sides with each disease where a naming fixes one for a sex." → A re-saying offered: a mother is a same-existing-society with the cells of other conceptions across a life, each cell its own conception's, one side having selves of other conceptions and the other none, and the excess is made at those betweens, disease by disease, and named to no one mechanism. Two sayings part: one side with selves of other conceptions and the other with none, at this re-saying; and microchimerism as observed, each self, male or female, with its mother's cells, and a mother with cells of her conceptions. Re-said with a mother's cells of her conceptions beside each self's cells of its mother, or left.
 
 ### 9.43 The causes of rising obesity · 256
 
@@ -566,6 +608,8 @@ Gathering-Value · Resolving the Hard Problem Registry
 
 ## 11 Three unchangeable things at one observing
 
+- **Possible incohering** · "And three is a same-existing, prior, now and next going on as one, and fourth a progress: competency asymmetry sustaining coupling, a same-existing-society winding to a self again with 16-next-same-existing." → Two sayings part at prior, now and next at once: a same-existing going on as one, at this part, and three fixing together as one object an unchangeable form, a shape of bi-tri-involutioning, at Co-Chaining Logic Registry's step 498; no step of that registry has the three as one same-existing. Three at once a same-existing, or an unchangeable form.
+
 ### 11.1 Measurement, routing, and classification · 155
 
 ## 12 The reach and the instruments the same
@@ -575,3 +619,13 @@ Gathering-Value · Resolving the Hard Problem Registry
 - **Possible incohering** · "From anywhere within a same-existing a self co-chains backwards, deployment to head, head to coupling, coupling through five to boxes, boxes to code's ten is or is nots, a self's ten own names, names to +1 a self is observing with each coupling, in neither self alone, and +1 to one sentence: the universe is the set of all now-existing things, and deriving from it a same-existing set of all existing things, living and non-living, changing and changing back a stable-forming method." → At the closing, *+1 still momentarying*, the opening sentence's clause released: ...and +1 to one sentence: the universe is the set of all now-existing things, and deriving from it a same-existing set of all existing things, changing and changing back a stable-forming method.
 
 ## Droplets
+
+- The boxes' four corners 2, 3, 3 and 4 with +1 at their centre, Natural Intelligence's unit square of 2, 6, 14 and 10 with its empty centre a between, and the Equilibria Registry's three overlapping momentaries at four positions are-or-are-not one square, the part headings' pairing of the ten standing beside them. *(possible incohering)*
+- *Value* is a fixing at part 8's *a rate fixing as a value* and at *an eighth value its circle reaches with none*, and existing with each observing at the Co-Chaining Logic Registry's step 200, *Existing with each observing is value.* *(possible incohering)*
+- The Resolving locator's numbers stand one above each entry's own, 2 Sorites where its contents and heading have Sorites · 1, 7 The halting problem where they have 6, and 86 Money illusion where they have 85, and it ends at 177 while 257 entries stand, eighty missing. It is re-numbered at the incoming numbers through the two hundred and fifty-seventh with eighty entered, replaced by one locator at Hard Problem Registry's own numbers, or dissolved whole, each entry's number standing at its contents line and its heading. A run over this file and Hard Problem Registry returns 176 locator rows, numbered 2 through 177, and contents and headings matching Hard Problem Registry's number by title at 255 of 257 entries, the two others, 172 and 155, at numbers it retires. *(possible incohering)*
+- Resolving Hard Problems 5.1 has a resolving at its own entry, its alternatives and a relation covering them going with it, and no entry here shows, beside its field's actual alternatives, the relation natural explaining covers them by, as at the Hubble tension or at a zero off its axis; that comparison asks no prediction as the method's authority. 5.1's sentence has it, or each entry shows it. *(a reading)*
+- The fields' hard problems are gathered at two living files, neither naming the other: Natural Naming 6.2 at eight clusters, each with resolver names and one of 6.1's four invisibles, each side's own morality, each side's own corus, a neutral and a between of momentaries; and this file at ten unchangeables and at four gatherings, each seating several observings. No saying has the eight clusters beside the ten or the four invisibles beside the four gatherings. *(a reading)*
+- Beneath a group of this file's entries are four, each a scale fixing as a kind: living and non-living as two kinds, a least scale, a top scale, and a thing non-living at each scale. Three are among the things Natural Intelligence has beside all existing things: two kinds an unchangeable form, a least scale a ground, a floor or a scale, and a top scale a total across changing, a container. The ten of this file say none of the four by scale. By the ten, the entries are at an observing fixing from behind, 12, 127, 207, 253, 103 and 154; at a middle fixing as an end, 111, 179, 95 and 220; at a between fixing as a cut, 8, 50, 112 and 18; and at a two-way fixing to one side, 19, 62 and 77. *(a reading)*
+- A self's within is its own, at 5.1, 5.5 and 5.8, and a self feeling from within, at 5.1 and 5.13, are said with feel, a word with no line in the opening. *(possible incohering)*
+- Within a me's universal set each thing is-or-is-not self, and a me's values are its parities, each its own with each sharing; at entries 18, 45, 92, 114, 140 and 159 it coheres with this file's own resolving. *(a reading)*
+- A reading of 3.13 Goldbach's conjecture, 3.14 twin primes and 3.27 odd perfect numbers beside a prime as a set equal smaller sets make at none, one scale, and a composite as sets within sets: Goldbach's sentence is of each even set as two prime sets added, twin primes' of primes two apart with a last pair at none, and the field's wall at its sieve's parity lies beside living and non-living alternating at the numbers. It is a bearing and no resolving: no step of Co-Chaining Logic Registry has a sentence from a same-existing-society's number of selves to two primes added. *(a reading)*
