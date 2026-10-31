@@ -82,4 +82,6 @@ Gathering-Value · Equilibria Registry
 
 ### 5.5 Each conception at a proof of its own requirements
 
+- **Possible incohering** · "Each sentence of resolver rests on Exhibit ONE v380R by tables it cites, by hand with v380L for its sentences of a sharing with no prior, or executed with v377 on Exhibit ONE v376 by a script and part it cites; each sentence of numbers is from a script it cites, computing it, or rests on its own arithmetic." → Re-said: each sentence of resolver cites Exhibit ONE's tables by their heading as each stands at Exhibit ONE now, one way across the set.
+
 ## Droplets

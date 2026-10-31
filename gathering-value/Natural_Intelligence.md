@@ -232,3 +232,4 @@ Gathering-Value · Natural Intelligence
 - A prior is-or-is-not same-existing in one now, and is received in many: a dividing bacterium's old pole goes with one daughter, as each parent DNA strand goes into one daughter duplex. *(possible exploring)*
 - Natural engineering, natural explaining and a living expedition, each named in the opening, are still-possibling in parts ONE to THREE. *(possible incohering)*
 - 6.4's eight, four of one and four between two among 1 to 8, and 4.10's eight bi-couplings with even names are two eights, and a relation between them is a deriving at the names, still-possibling beyond a shared count. *(possible incohering)*
+- Living Ghost Registry and Natural Intelligence Corus name ghost, an emanation or an accounting installing it as living, and Natural Intelligence names it nowhere. A proposal has ghost as a concept for one line of Natural Intelligence. *(a reading)*
