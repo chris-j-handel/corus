@@ -1,0 +1,32 @@
+[
+ {
+  "old": "arrivings within `incoming/` and artifacts within `archive/`, each folder a standing and no rule.",
+  "new": "arrivings on their own branches with a pull request and artifacts whole at the `archive` branch, relied on by nothing, each folder and branch a standing and no rule.",
+  "why": "`incoming/` and `archive/` are no folders at main now: an arriving is on its own branch with a pull request, and artifacts are whole at the `archive` branch, relied on by nothing"
+ },
+ {
+  "old": "a thing carried by hand within a session is within `incoming/` until its standing is with this registry.",
+  "new": "a thing carried by hand within a session is on its session's branch, with a pull request, until its standing is with this registry.",
+  "why": "`incoming/` is no place at main now; a session's branch with its pull request is"
+ },
+ {
+  "old": "each is within `archive/` whole until a session makes it binary",
+  "new": "each is whole at the `archive` branch, an artifact relied on by nothing, until a session makes it binary",
+  "why": "the archive said as the `archive` branch, an artifact relied on by nothing; *until a session makes it binary* stays, a side of the concern at its gathering-value going on"
+ },
+ {
+  "old": "and each is then an artifact whole within `archive/`, its receiving identified.",
+  "new": "and each is then an artifact going whole to the `archive` branch, relied on by nothing, its receiving identified.",
+  "why": "the archive said as the `archive` branch, where artifacts go whole, relied on by nothing"
+ },
+ {
+  "old": "a proposal withdrawn goes to `archive/`;",
+  "new": "a proposal withdrawn goes whole to the `archive` branch;",
+  "why": "the archive said as the `archive` branch, where artifacts go whole"
+ },
+ {
+  "old": "Nothing within `archive/` or within history is observed for a next:",
+  "new": "Nothing at the `archive` branch or within history is observed for a next:",
+  "why": "the archive said as the `archive` branch; nothing there is observed for a next"
+ }
+]

@@ -22,7 +22,7 @@ Each living file has two places: the living file at the root, and its gathering-
 
 **Droplets are at the back:** each a value whose section is still-possibling.
 
-`kits/` carries the checks, coupling partners deciding nothing; `kits/Gathering_Value_Kit/` writes a gathered value into its gathering-value file, after a separate reading for harm, all or none. `incoming/` is a working's arriving, whole. `archive/` is each session's emanation, relied on by nothing; git carries each prior version.
+`kits/` carries the instruments beside the living files, the Co-Chaining Logic Registry's verifier, Natural Networking's engine, Natural Illustrating's drawings and studies and the Living File Registry's checks, each a coupling partner deciding nothing; `kits/Gathering_Value_Kit/` writes a gathered value into its gathering-value file, after a separate reading for harm, all or none. The `archive` branch holds each session's emanation and each working's arriving whole, an artifact relied on by nothing; git carries each prior version.
 
 ## Proposing, for anyone
 
