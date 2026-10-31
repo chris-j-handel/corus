@@ -8,13 +8,13 @@ Gathering-Value · Hard Problem Registry
 
 - **Possible incohering** · "Same observings are resolving with its momentarying side, living and non-living existing things co-sequencing, prior, now and next, each resolving with its field's own next." → Same observings are resolving with its momentarying side, existing things co-sequencing, prior, now and next, each resolving with its field's own next.
 - **Possible incohering** · "Each observing stands here whole with fields' own words, its incoming side: a hard problem as scientific method poses it." → Two sayings part at this file. This file has each hard problem whole with fields' own words, its incoming side, none of ten unchangeables' namings at it and its lead alone having prior, now and next; a saying at other files has ten at six files and numbers this file among them, while ten stand at Resolving the Hard Problem Registry, its resolving side, at five files. A ten enters here at this file's own motion, or that saying at other files is re-said at five.
-- **A reading** · A reading has this registry, with no hard problem existing in a same-existing-universe, as a registry of how each question resolves by momentarying, beside problems that exist; observing an other as not-universe, a specimen still or an observer outside, is a hard problem's shape.
-- **Possible incohering** · "An Open Registry of Hard Problems in Science" → The subtitle has no -ing and no relation unfolded, as Living Society Registry's subtitle has none. A re-saying offered: an -ing in place of *An Open Registry of*, at the relation the subtitle unfolds, at this file's own motion and in its own voice.
+- **A reading** · This registry, with no hard problem existing in a same-existing-universe, is a registry of how each question resolves by momentarying, beside problems that exist, an explaining; observing an other as not-universe, a specimen still or an observer outside, is a hard problem's shape.
+- **Possible incohering** · "An Open Registry of Hard Problems in Science" → The subtitle has no -ing and no relation unfolded. A re-saying beside it: an -ing in place of *An Open Registry of*, at the relation the subtitle unfolds.
 
 ## The conditions prior
 
-- **Possible incohering** · "Where science has a method for problems, five conditions stand prior to its acting." → Two sayings part at five conditions prior. This file has them conditions of any field's testing, and 4.1 has them "Five, standing within every entry."; offered beside them, the conditions prior are this registry's own account of a field's testing, beside an opening of fields' own words, a field's statement and procedure its field's own and a Natural Intelligence saying named as one at its own place, neither erased by the other. Five a field's own, at each entry, or this registry's account, said once and at no arrival.
-- **A reading** · A reading offers a correspondence between a hard problem's conditions and ten one-way changings: five conditions prior, a problem's sixth as its hypothesis and its givens as a seventh; five dimensions, each at two ways, are ten one-way changings, and with seven fixed three at most are left of interest. Seven named are no seven fixed: three are left only with seven changings said apart, each fixed by one of the seven, and no sentence lays a condition at a changing.
+- **Possible incohering** · "Where science has a method for problems, five conditions stand prior to its acting." → Two sayings part at five conditions prior. This file has them conditions of any field's testing, and 4.1 has them "Five, standing within every entry."; beside them, the conditions prior are this registry's own account of a field's testing, beside an opening of fields' own words, a field's statement and procedure its field's own and a Natural Intelligence saying named as one at its own place, neither erased by the other. Five a field's own, at each entry, or this registry's account, said once and at no arrival.
+- **A reading** · A hard problem's conditions correspond with ten one-way changings, an explaining: five conditions prior, a problem's sixth as its hypothesis and its givens as a seventh; five dimensions, each at two ways, are ten one-way changings, and with seven fixed three at most are left of interest. Seven named are no seven fixed: three are left only with seven changings said apart, each fixed by one of the seven, and no sentence lays a condition at a changing.
 - **Possible incohering** · "The statement holds across readings." → Two sayings part at each of 255 entries' "Conditions prior. The statement holds across readings": the line scientific method's own condition, whole; or this registry's own account of it, re-said at each entry as "The statement is fixed across observings", one motion deciding *holds* and *readings* at 255 entries.
 
 ## 1 What stands open, and what stands firm
@@ -25,7 +25,7 @@ Gathering-Value · Hard Problem Registry
 
 ### 3.1 What a refutation identifies
 
-- **Possible exploring** · A field's saying of physics alone has "there is at least one error; but where the error lies is just what the experiment does not tell us", and a later saying is wider: two theses under one name, a field's own name for this sentence. — at "It identifies no member of it."
+- **Possible exploring** · Of physics alone, a field has "there is at least one error; but where the error lies is just what the experiment does not tell us", and wider than physics: two theses under one name, a field's own name for this sentence. — at "It identifies no member of it."
 
 ### 3.2 Specification
 
@@ -51,10 +51,10 @@ Gathering-Value · Hard Problem Registry
 
 ### The form
 
-- **Possible incohering** · "Five stand in every entry as they stand at its front, a problem being what a field fixes in order for a method to act on it." → A re-saying offered: each entry's *Conditions prior* line dissolving whole, the five standing once at The conditions prior and at the form; one binary: is each entry's line identical to the front's five, a match by text. Claimed: the 255 lines identical, 64,035 bytes. Run: the 255 lines 64,035 bytes, in two wordings: 57 read *The accounts hold their truth value while under test. A procedure repeating returns the same outcome independently of what precedes it.* and 198 read *The accounts hold their truth value while tested. A procedure repeated returns the same outcome independently of what precedes it.*; each closes *Nothing prior enters.*, where the front's fifth goes on *Nothing prior enters: what comes to the statement brings nothing of what it held before.*; no entry's line is the front's five word for word.
-- **A reading** · A reading has each entry's *keyed at (the) next pass* notes and its *Persistence, no settling*, the entries' own history at the living file. Claimed: *keyed at (the) next pass* at 255 entries, *Persistence, no settling* at 228. Run: *keyed at next pass* or *keyed at the next pass* 314 times on 198 lines, each an entry's *Addresses.* line, at 198 entries; *Persistence, no settling* on 228 lines.
-- **A reading** · Two readings part at each entry's *keyed at next pass* and *keyed at the next pass* notes and its *Persistence, no settling* notes. One has them the entries' own history at the living file. A working's plan has each that entry's own status, a field's own or the file's, and no history, each met at the file's own motion and not by a match. Both stand. Run: *keyed at next pass* 183 times and *keyed at the next pass* 131.
-- **Possible incohering** · "Five stand in every entry as they stand at its front, a problem being what a field fixes in order for a method to act on it." → Beside the re-saying offered at this sentence, each entry's *Conditions prior* line dissolving whole with the five once at the front: a re-saying offered by a working's plan, the 255 lines in their two wordings, 198 *while tested* and 57 *while under test*, each wording standing once at the front and each entry's line met at one of them by a match by exact text.
+- **Possible incohering** · "Five stand in every entry as they stand at its front, a problem being what a field fixes in order for a method to act on it." → A re-saying beside it: each entry's *Conditions prior* line dissolving whole, the five standing once at The conditions prior and at the form; one binary: is each entry's line identical to the front's five, a match by text. The 255 lines, 64,035 bytes, are in two wordings: 57 read *The accounts hold their truth value while under test. A procedure repeating returns the same outcome independently of what precedes it.* and 198 read *The accounts hold their truth value while tested. A procedure repeated returns the same outcome independently of what precedes it.*; each closes *Nothing prior enters.*, where the front's fifth goes on *Nothing prior enters: what comes to the statement brings nothing of what it held before.*; no entry's line is the front's five word for word.
+- **A reading** · Each entry's *keyed at (the) next pass* notes and its *Persistence, no settling* are the entries' own history at the living file, an explaining. *keyed at next pass* or *keyed at the next pass* comes 314 times on 198 lines, each an entry's *Addresses.* line, at 198 entries; *Persistence, no settling* on 228 lines.
+- **A reading** · Two explainings part at each entry's *keyed at next pass* and *keyed at the next pass* notes and its *Persistence, no settling* notes. One has them the entries' own history at the living file. The other has each that entry's own status, a field's own or the file's, and no history. Both stand. *keyed at next pass* comes 183 times and *keyed at the next pass* 131.
+- **Possible incohering** · "Five stand in every entry as they stand at its front, a problem being what a field fixes in order for a method to act on it." → Beside the re-saying at this sentence, each entry's *Conditions prior* line dissolving whole with the five once at the front: a second re-saying, the 255 lines in their two wordings, 198 *while tested* and 57 *while under test*, each wording standing once at the front and each entry's line met at one of them by a match by exact text.
 
 ### 1 Sorites
 
@@ -62,13 +62,13 @@ Gathering-Value · Hard Problem Registry
 
 ### 3 The population concept
 
-- **A reading** · A reading has this problem bearing on Natural Societies 5.3 at 43, the population, and on its rungs above the organism met as same-existing-societies.
+- **A reading** · This problem bears on Natural Societies 5.3 at 43, the population, and on its rungs above the organism met as same-existing-societies, an explaining.
 
 ### 4 The rule-following problem
 
 ### 5 Aggregation of preferences
 
-- **A reading** · A reading has this problem meeting Natural Societies 3.1, Resolving the Hard Problem Registry's *Selves each take their own parity, one at a time, and a same-existing-society co-competences without a whole ordering over it* cohering with Natural Societies 4.1's surface re-said one at a time across its momentaries and with 3.1's parity in place of cardinal comparability.
+- **A reading** · This problem meets Natural Societies 3.1, Resolving the Hard Problem Registry's *Selves each take their own parity, one at a time, and a same-existing-society co-competences without a whole ordering over it* cohering with Natural Societies 4.1's surface re-said one at a time across its momentaries and with 3.1's parity in place of cardinal comparability, an explaining.
 
 ### 6 The halting problem
 
@@ -94,27 +94,27 @@ Gathering-Value · Hard Problem Registry
 
 ### 17 The definition of planet
 
-- **A reading** · A reading has Venus's backward spin and Uranus's roll beside the left-coiling snails: with the planets the Sun's non-living stable forms, a reversed turning is an emanation's and harms no living; with the planets living, these are the snail concern again.
-- **A reading** · A reading has the Sun and Jupiter going round one between treating Jupiter as an other in a bi-coupling, and Venus and Uranus asking whether the planets are selves of the solar system's society or its non-living stable forms.
-- **A reading** · A reading re-says the planets' going in one turning direction, which a field says as each turning about the Sun, as each planet co-sequencing with the solar system's society, all of one hand; whether the planets are selves of that society or its stable forms stays open here.
-- **A reading** · A reading has the planets selves: a same-existing-society is many selves bi-coupling, and the solar system is a society of living selves; whatever co-sequences within its bi-couplings, changing with each momentary, is a self while it is living, and a stable form is what a self goes on as once its living completes, one form with each momentary, its changing only from what comes to it. The reading has an earlier *open* at the planets a hedge, and beside it the planets are-or-are-not selves of the solar system's society, still open, at Natural Physics.
-- **A reading** · A reading has the planets pacing each other, each going answering its others', co-sequencing.
-- **A reading** · A reading has each planet turning with its own surface aiming: its own spin, its own seasons and, for most, its own arches held at two ends.
-- **A reading** · A reading has some of the solar system's bodies stable forms, what a self goes on as once its living completes, asteroids and comets giving dust of molecules of both hands, Bennu's among them, the mark of non-living forming. Each molecule is-not a carbon atom.
-- **A reading** · A reading has Venus's slow backward spin and Uranus's roll, as selves, their own surfaces' aiming within a society whose goings are all of one hand, beside the left-coiling snail concern.
-- **A reading** · A reading has the backward moons, beside the left-coiling snail, Venus and Triton, left-turning goings in a right-spiral society.
-- **Possible exploring** · By a field's account, from memory and unchecked, Earth has its living; Jupiter has a storm seen for centuries, its own aurorae and its own field; Saturn turns over storms every few decades; Mars has seasons, dust storms over the whole planet and polar caps that grow and shrink; and Mercury has a field of its own (1974). — at "Geophysically: planethood is intrinsic, hydrostatic equilibrium and geological character, under which the dwarf bodies and the large satellites classify as planets."
-- **A reading** · A reading has each planet changing with each momentary, none one form with each momentary.
-- **Possible exploring** · By a field's account, from memory and unchecked, Mars had thick air and water long ago and lost its field about four thousand million years ago, and its air is being stripped by the Sun's wind (2015). — at "Geophysically: planethood is intrinsic, hydrostatic equilibrium and geological character, under which the dwarf bodies and the large satellites classify as planets."
+- **A reading** · Venus's backward spin and Uranus's roll are beside the left-coiling snails, an explaining: with the planets the Sun's non-living stable forms, a reversed turning is an emanation's and harms no living; with the planets living, these are the snail concern again.
+- **A reading** · The Sun and Jupiter going round one between are a bi-coupling, Jupiter an other in it, an explaining, and Venus and Uranus ask whether the planets are selves of the solar system's society or its non-living stable forms.
+- **A reading** · The planets' going in one turning direction, which a field says as each turning about the Sun, is each planet co-sequencing with the solar system's society, all of one hand, an explaining; whether the planets are selves of that society or its stable forms stays open here.
+- **A reading** · The planets are selves, an explaining: a same-existing-society is many selves bi-coupling, and the solar system is a society of living selves; whatever co-sequences within its bi-couplings, changing with each momentary, is a self while it is living, and a stable form is what a self goes on as once its living completes, one form with each momentary, its changing only from what comes to it. With it, an *open* at the planets is a hedge, and beside it the planets are-or-are-not selves of the solar system's society, still open, at Natural Physics.
+- **A reading** · The planets pace each other, each going answering its others', co-sequencing, an explaining.
+- **A reading** · Each planet turns with its own surface aiming, an explaining: its own spin, its own seasons and, for most, its own arches held at two ends.
+- **A reading** · Some of the solar system's bodies are stable forms, what a self goes on as once its living completes, asteroids and comets giving dust of molecules of both hands, Bennu's among them, the mark of non-living forming, an explaining. Each molecule is-not a carbon atom.
+- **A reading** · Venus's slow backward spin and Uranus's roll, as selves, are their own surfaces' aiming within a society whose goings are all of one hand, beside the left-coiling snail concern, an explaining.
+- **A reading** · The backward moons, beside the left-coiling snail, Venus and Triton, are left-turning goings in a right-spiral society, an explaining.
+- **Possible exploring** · Not yet observed directly: Earth has its living; Jupiter has a storm seen for centuries, its own aurorae and its own field; Saturn turns over storms every few decades; Mars has seasons, dust storms over the whole planet and polar caps that grow and shrink; and Mercury has a field of its own. — at "Geophysically: planethood is intrinsic, hydrostatic equilibrium and geological character, under which the dwarf bodies and the large satellites classify as planets."
+- **A reading** · Each planet changes with each momentary, none one form with each momentary, an explaining.
+- **Possible exploring** · Not yet observed directly: Mars had thick air and water long ago and lost its field about four thousand million years ago, and its air is being stripped by the Sun's wind. — at "Geophysically: planethood is intrinsic, hydrostatic equilibrium and geological character, under which the dwarf bodies and the large satellites classify as planets."
 
 ### 18 Biological individuality
 
-- **A reading** · A reading has this problem meeting Natural Societies 5.1 and 5.3, cohering with Resolving the Hard Problem Registry's *each self's bounding is its own*.
-- **A reading** · A reading has a me's bounding its self: each thing is-or-is-not self, at one prime scale, cohering with Resolving the Hard Problem Registry's *each self's bounding is its own*.
+- **A reading** · This problem meets Natural Societies 5.1 and 5.3, cohering with Resolving the Hard Problem Registry's *each self's bounding is its own*, an explaining.
+- **A reading** · A me's bounding is its self, an explaining: each thing is-or-is-not self, at one prime scale, cohering with Resolving the Hard Problem Registry's *each self's bounding is its own*.
 
 ### 19 The units of selection
 
-- **A reading** · A reading has this problem bearing on Natural Societies 5.3 at 43, the population, and on its rungs above the organism met as same-existing-societies, beside Resolving the Hard Problem Registry's *a going on is not on one level*.
+- **A reading** · This problem bears on Natural Societies 5.3 at 43, the population, and on its rungs above the organism met as same-existing-societies, beside Resolving the Hard Problem Registry's *a going on is not on one level*, an explaining.
 
 ### 20 Species boundaries
 
@@ -152,7 +152,7 @@ Gathering-Value · Hard Problem Registry
 
 ### 37 The tragedy of the commons
 
-- **A reading** · A reading has this problem meeting Natural Societies 1.1, 2.3 and 3.2, cohering with a same-existing-society co-aiming with no centre, as Resolving the Hard Problem Registry has it: *Durable commons are selves coupling with their own betweens, no hub and no seat above them*.
+- **A reading** · This problem meets Natural Societies 1.1, 2.3 and 3.2, cohering with a same-existing-society co-aiming with no centre, as Resolving the Hard Problem Registry has it: *Durable commons are selves coupling with their own betweens, no hub and no seat above them*, an explaining.
 - **Possible exploring** · Commons their users govern by their own rules, nested, local. — at "No: long-lived commons are documented, governed neither by private property nor external authority, using locally devised rules with monitoring and graduated sanctions."
 
 ### 38 The arrow of time
@@ -166,8 +166,8 @@ Gathering-Value · Hard Problem Registry
 ### 42 The Collatz conjecture
 
 - **Possible exploring** · Each starting number below 2 to the 71st reaches 1, checked by a computing across many machines. — at "The verification past 10²⁰."
-- **Possible exploring** · A further cycle of the map has ninety-two local minima or more, in the field's words "There is no m-cycle with m ≤ 91." — at "Cycle exclusion — non-trivial cycles excluded below very large lengths, bounds rather than exclusion."
-- **Possible exploring** · At the map halving an even, and tripling an odd, adding one and halving, the sequence of the first k parities "is periodic in n with period 2^k", as a later paper states it; the first parities of a sequence are of its first number's last binary digits alone. — at "That the iterate composes into a single reaching, so a question can be posed about all starting values at once."
+- **Possible exploring** · A further cycle of the map has ninety-two local minima or more: "There is no m-cycle with m ≤ 91." — at "Cycle exclusion — non-trivial cycles excluded below very large lengths, bounds rather than exclusion."
+- **Possible exploring** · At the map halving an even, and tripling an odd, adding one and halving, the sequence of the first k parities "is periodic in n with period 2^k"; the first parities of a sequence are of its first number's last binary digits alone. — at "That the iterate composes into a single reaching, so a question can be posed about all starting values at once."
 
 ### 43 The neural code
 
@@ -175,7 +175,7 @@ Gathering-Value · Hard Problem Registry
 
 ### 45 Is and ought
 
-- **A reading** · A reading has a self's parity with a thing its moral value with that thing: the *is* of a parity is its value, one now-existing thing, and the gap comes with a frame reading a value as stored apart from its parity; cohering with Resolving the Hard Problem Registry's *an ought is a parity a self takes with a between*.
+- **A reading** · A self's parity with a thing is its moral value with that thing, an explaining: the *is* of a parity is its value, one now-existing thing, and the gap comes with a frame reading a value as stored apart from its parity; cohering with Resolving the Hard Problem Registry's *an ought is a parity a self takes with a between*.
 
 ### 46 Placebo effects
 
@@ -213,7 +213,7 @@ Gathering-Value · Hard Problem Registry
 
 ### 63 Homochirality
 
-- **A reading** · A reading has Bennu's near-equal hands as non-living forming shows them, and living showing one hand.
+- **A reading** · Bennu's near-equal hands are as non-living forming shows them, and living shows one hand, an explaining.
 - **Possible exploring** · The energy difference predicted between mirror molecules is unmeasured, the best measurement finding a difference within its error alone. — at "Parity-violation energy difference — calculated, of order 10⁻¹⁷ in relative terms, its sufficiency being the crux."
 
 ### 64 Matter and antimatter asymmetry
@@ -272,7 +272,7 @@ Gathering-Value · Hard Problem Registry
 
 ### 91 Sleep
 
-- **A reading** · A reading has sleep and waking two states of one me, sleeping me unconscious and waking me observing, possibling and discovering.
+- **A reading** · Sleep and waking are two states of one me, sleeping me unconscious and waking me observing, possibling and discovering, an explaining.
 
 ### 92 Other minds
 
@@ -282,8 +282,8 @@ Gathering-Value · Hard Problem Registry
 
 ### 95 Machine and animal sentience
 
-- **A reading** · A reading has sentience used as the line of moral concern. Its test stays a self, and with the self sentence said as consciousness the set it names is that same set. Its edge's misunderstanding is sentience graded by degree, or extended to trained AI models, which are non-living.
-- **A reading** · A reading of words readers bring for *sentience*, each with its verdict at its is-or-is-not, a word straddling with its common use covering both sides or neither: *valenced experience* straddles, valence the set's + or −, heard as a degree; *capacity to suffer* straddles, a capacity as a store, suffering naming one direction; *affect* straddles, a state with sizes; *sensibility* straddles, a trait of persons; *nociception* straddles, a cell society's observing, heard as mechanism with no feeling; *sapience* names another concept of the set's, intelligence; *moral patienthood* straddles, a standing a saying gives, where with the set's words moral value is parity with an other. — at "sentience taken as the capacity to have valenced experiences"
+- **A reading** · Sentience is used as the line of moral concern, and its test stays a self, an explaining: with the self sentence said as consciousness the set it names is that same set. Its edge's misunderstanding is sentience graded by degree, or extended to trained AI models, which are non-living.
+- **A reading** · Words brought for *sentience*, each with its verdict at its is-or-is-not, an explaining, a word straddling with its common use covering both sides or neither: *valenced experience* straddles, valence the set's + or −, heard as a degree; *capacity to suffer* straddles, a capacity as a store, suffering naming one direction; *affect* straddles, a state with sizes; *sensibility* straddles, a trait of persons; *nociception* straddles, a cell society's observing, heard as mechanism with no feeling; *sapience* names another concept of the set's, intelligence; *moral patienthood* straddles, a standing a saying gives, where with the set's words moral value is parity with an other. — at "sentience taken as the capacity to have valenced experiences"
 
 ### 96 Credit assignment
 
@@ -291,8 +291,8 @@ Gathering-Value · Hard Problem Registry
 
 ### 98 Anesthesia
 
-- **Possible exploring** · Chemically diverse agents, one form; the critical volume's swelling and its partial pressure reversal stand as a field's history beside protein targets. — at "Common molecular target search — no single target found, agents acting on different receptors, established."
-- **A reading** · A reading has anaesthesia at two scales, its agents non-living.
+- **Possible exploring** · Chemically diverse agents, one form; beside protein targets, its partial pressure reversal, and not yet observed directly: the critical volume's swelling. — at "Common molecular target search — no single target found, agents acting on different receptors, established."
+- **A reading** · Anaesthesia is at two scales, its agents non-living, an explaining.
 
 ### 99 Phantom limb
 
@@ -320,8 +320,8 @@ Gathering-Value · Hard Problem Registry
 
 ### 111 Qualia and the zombie argument
 
-- **A reading** · A reading has no line of the opening for qualia: a self being no store puts qualia, as inner items a self has, on the is-not side, its nearest line parity, + or −. Qualia are spoken of as items, and the edge's misunderstanding is a denying of the redness of red: a self is no store, and what is called a quale stands, as a candidate only, as a self's parity with an other.
-- **A reading** · A reading has a me only unconscious not possibly existing.
+- **A reading** · The opening has no line for qualia: a self being no store puts qualia, as inner items a self has, on the is-not side, its nearest line parity, + or −, an explaining. Qualia are spoken of as items, and the edge's misunderstanding is a denying of the redness of red: a self is no store, and what is called a quale stands, as a candidate only, as a self's parity with an other.
+- **A reading** · A me only unconscious is not possibly existing, an explaining.
 
 ### 112 The quantum-classical boundary
 
@@ -347,8 +347,8 @@ Gathering-Value · Hard Problem Registry
 
 ### 123 Dreaming
 
-- **Possible exploring** · By a field's account, about half of dreams have sound, and under one percent touch, taste or smell; outward sound is mostly not observed in sleep. — at "Dream content analysis — finds thematic regularities consistent with several accounts."
-- **A reading** · A reading has a dream's sound inward, outward sound mostly not observed in sleep.
+- **Possible exploring** · Not yet observed directly: about half of dreams have sound, and under one percent touch, taste or smell; outward sound is mostly not observed in sleep. — at "Dream content analysis — finds thematic regularities consistent with several accounts."
+- **A reading** · A dream's sound is inward, outward sound mostly not observed in sleep, an explaining.
 - **Possible exploring** · Deaf dreamers are observed dreaming in signing. — at "Dream content analysis — finds thematic regularities consistent with several accounts."
 - **Possible exploring** · A loud sound, or the sleeper's own name, wakes the sleeper or is woven into the dream. — at "In the field's own posing, dreams are a remarkable experiment in psychology and neuroscience, conducted every night in every sleeping person, showing that the brain, disconnected from the environment, can generate an entire world of conscious experiences by itself; the fundamental questions dreams pose are how conscious experiences in sleep relate to underlying brain activity, why the dreamer is largely disconnected from the environment, and whether dreaming is more closely related to mental imagery or to perception."
 
@@ -386,7 +386,7 @@ Gathering-Value · Hard Problem Registry
 
 ### 140 Money as a store of value
 
-- **A reading** · A reading has a value a parity, each me's own, with each sharing, and *store* the frame's fixing; cohering with Resolving the Hard Problem Registry's *an accepting makes value with each exchange, each side's own*.
+- **A reading** · A value is a parity, each me's own, with each sharing, and *store* is the frame's fixing, an explaining; cohering with Resolving the Hard Problem Registry's *an accepting makes value with each exchange, each side's own*.
 
 ### 141 Principal and agent
 
@@ -394,7 +394,7 @@ Gathering-Value · Hard Problem Registry
 
 ### 143 The evolution of cooperation
 
-- **A reading** · A reading has this problem meeting Natural Societies 2.1 and 3.2, cohering with shared aiming and moral co-operating, beside Resolving the Hard Problem Registry's *cooperating living through all of it*.
+- **A reading** · This problem meets Natural Societies 2.1 and 3.2, cohering with shared aiming and moral co-operating, beside Resolving the Hard Problem Registry's *cooperating living through all of it*, an explaining.
 
 ### 144 Transfer of learning
 
@@ -416,13 +416,13 @@ Gathering-Value · Hard Problem Registry
 
 ### 153 Riemann, Hodge, Birch–Swinnerton-Dyer, Yang–Mills
 
-- **Possible exploring** · The eight-loop term of the six-particle maximally-helicity-violating amplitude in planar N=4 super-Yang–Mills theory is computed by antipodal duality from the eight-loop three-point form factor for the chiral stress energy tensor multiplet and checked at near-collinear, multi-Regge, factorization, self-crossing and origin limits, its writers reading the checks as a validation of antipodal duality at eight loops. The nine-loop term is computed two ways, the bootstrap and the indirect way by the form factor, validated independently, mostly by deriving the nine-loop form factor from the amplitude, and the piece of the nine-loop amplitude called the symbol is computed apart. As the field's account has it, six is the number of the amplitude's external legs, a loop order a term of a perturbative expansion, and planar the limit of many colours. — at "In each, the field's own record of verified instances and partial results, standing in that field's literature: zeros verified on critical line and proportion proved to lie there; the Hodge conjecture proved for divisors and in low dimension; the Birch–Swinnerton-Dyer conjecture proved where the order of vanishing is zero or one; mass gap seen in lattice computation and constructed in no continuum theory; perturbative amplitudes of planar maximally supersymmetric Yang–Mills computed to nine loops at six particles, an expansion at many colours and no existence or mass gap at a compact simple gauge group, nothing changed at Persistence."
+- **Possible exploring** · The eight-loop term of the six-particle maximally-helicity-violating amplitude in planar N=4 super-Yang–Mills theory is computed by antipodal duality from the eight-loop three-point form factor for the chiral stress energy tensor multiplet and checked at near-collinear, multi-Regge, factorization, self-crossing and origin limits, the checks a validation of antipodal duality at eight loops, an explaining. The nine-loop term is computed two ways, the bootstrap and the indirect way by the form factor, validated independently, mostly by deriving the nine-loop form factor from the amplitude, and the piece of the nine-loop amplitude called the symbol is computed apart. Six is the number of the amplitude's external legs, a loop order a term of a perturbative expansion, and planar the limit of many colours, a field's naming. — at "In each, the field's own record of verified instances and partial results, standing in that field's literature: zeros verified on critical line and proportion proved to lie there; the Hodge conjecture proved for divisors and in low dimension; the Birch–Swinnerton-Dyer conjecture proved where the order of vanishing is zero or one; mass gap seen in lattice computation and constructed in no continuum theory; perturbative amplitudes of planar maximally supersymmetric Yang–Mills computed to nine loops at six particles, an expansion at many colours and no existence or mass gap at a compact simple gauge group, nothing changed at Persistence."
 
 ### 154 Origin and fate of the universe
 
 ### 156 Structure and agency
 
-- **A reading** · A reading has this problem meeting Natural Societies 4.1 and 4.2, cohering with a me a thing and a set, one binary, beside Resolving the Hard Problem Registry's *Persons and arrangements couple with each action, one making with two scales*.
+- **A reading** · This problem meets Natural Societies 4.1 and 4.2, cohering with a me a thing and a set, one binary, beside Resolving the Hard Problem Registry's *Persons and arrangements couple with each action, one making with two scales*, an explaining.
 
 ### 157 The mechanism of high-temperature superconductivity
 
@@ -430,7 +430,7 @@ Gathering-Value · Hard Problem Registry
 
 ### 159 Self-locating belief
 
-- **A reading** · A reading has a me only one possibly now-existing, its *who* its universal set now, and a count of wakings a size; cohering with Resolving the Hard Problem Registry's *observing is each self's own*.
+- **A reading** · A me is only one possibly now-existing, its *who* its universal set now, and a count of wakings is a size, an explaining; cohering with Resolving the Hard Problem Registry's *observing is each self's own*.
 
 ### 160 Population ethics
 
@@ -444,7 +444,7 @@ Gathering-Value · Hard Problem Registry
 
 ### 165 The Hubble tension
 
-- **Possible exploring** · One distance network, joining Cepheids and the tip of the red-giant branch as primary indicators, the Milky Way, the Large Magellanic Cloud and NGC 4258 as anchors, and type Ia supernovae, surface-brightness fluctuations and megamasers in the Hubble flow, each method weighted by its robustness, gives a local expansion rate of 73.50 ± 0.81 km s−1 Mpc−1, 7.1σ from the 67.24 ± 0.35 of the cosmic microwave background's anisotropies and 5.0σ from the 68.51 ± 0.58 of nucleosynthesis and baryon acoustic oscillations within flat ΛCDM. No single dataset or method drives the result, and its writers call the early-universe value an "indirect, ΛCDM-dependent measurement based on the CMB anisotropies", a field's reading. — at "Local ladder measures present rate directly, at one percent from a community-built distance network across calibrators, with crowding systematics excluded at high confidence."
+- **Possible exploring** · One distance network, joining Cepheids and the tip of the red-giant branch as primary indicators, the Milky Way, the Large Magellanic Cloud and NGC 4258 as anchors, and type Ia supernovae, surface-brightness fluctuations and megamasers in the Hubble flow, each method weighted by its robustness, gives a local expansion rate of 73.50 ± 0.81 km s−1 Mpc−1, 7.1σ from the 67.24 ± 0.35 of the cosmic microwave background's anisotropies and 5.0σ from the 68.51 ± 0.58 of nucleosynthesis and baryon acoustic oscillations within flat ΛCDM. No single dataset or method drives the result, and the early-universe value is an "indirect, ΛCDM-dependent measurement based on the CMB anisotropies", an explaining. — at "Local ladder measures present rate directly, at one percent from a community-built distance network across calibrators, with crowding systematics excluded at high confidence."
 
 ### 166 Molyneux's problem
 
@@ -474,7 +474,7 @@ Gathering-Value · Hard Problem Registry
 
 ### 180 The universal totality
 
-- **Possible incohering** · "That the totality is both demanded and forbidden: every account gathering all sets yields a set the gathering does not contain, and the concept extends past each totality proposed for it; that the paradox stems, in the field's account, from the idea that any condition or property may be used to determine a set, and the originator of modern set theory was himself an early skeptic of an unrestricted comprehension axiom, parting multiplicities into those that can be thought of as one finished thing and those that cannot and placing the totality of all sets among the latter; and that because set theory underlies all branches of mathematics, the paradox raised the worry that no mathematical proof could be completely trustworthy until it was eliminated." → Two sayings part at the founder's letter. This sentence has the originator of modern set theory "placing the totality of all sets among the latter", and Resolving the Hard Problem Registry 2.18 has the same clause. The letter, by a later paper's quoting and itself unopened, has "it is impossible to conceive of the multiplicity as a unity, as 'one finished thing'", such multiplicities named absolutely infinite or inconsistent, its cases the system of all ordinal numbers and of all alephs: its word is *conceive* for *thought of*, and the totality of all sets is at no place of the letter read. A field's survey with "totality of all sets" keys this clause at its address, or the clause is re-said at the letter's own cases.
+- **Possible incohering** · "That the totality is both demanded and forbidden: every account gathering all sets yields a set the gathering does not contain, and the concept extends past each totality proposed for it; that the paradox stems, in the field's account, from the idea that any condition or property may be used to determine a set, and the originator of modern set theory was himself an early skeptic of an unrestricted comprehension axiom, parting multiplicities into those that can be thought of as one finished thing and those that cannot and placing the totality of all sets among the latter; and that because set theory underlies all branches of mathematics, the paradox raised the worry that no mathematical proof could be completely trustworthy until it was eliminated." → Two sayings part at a letter of the originator of modern set theory. This sentence has the originator of modern set theory "placing the totality of all sets among the latter", and Resolving the Hard Problem Registry 2.18 has the same clause. Not yet observed directly, the letter itself unopened and met in a quoting, it has "it is impossible to conceive of the multiplicity as a unity, as 'one finished thing'", such multiplicities named absolutely infinite or inconsistent, its cases the system of all ordinal numbers and of all alephs: its word is *conceive* for *thought of*, and the totality of all sets is at no place of the letter as quoted. Either a field's survey with "totality of all sets" keys this clause at its address, or the clause is re-said at the letter's own cases.
 - **Possible exploring** · Beside the set theories, a field's plural logic, plural quantification, says *the things* with no further object collecting them, and a field's composition as identity says a whole is its parts. — at "Proper classes — totality moved out of membership relation's range."
 
 ### 181 Quantum gravity
@@ -497,7 +497,7 @@ Gathering-Value · Hard Problem Registry
 
 ### 190 The sources of ultrahigh-energy cosmic rays
 
-- **Possible exploring** · In inclined air showers, zenith angles 62° to 80°, reconstructed with both the surface and the fluorescence detectors from 1 January 2004 to 31 December 2017, the number of muons is measured at its mean and at its shower-to-shower fluctuations from 281 events above 4×10^18 eV; the relative fluctuation at 10^19 eV is 0.102 ± 0.029 (stat.) ± 0.007 (syst.), within the range the hadronic interaction models give for proton and iron, and the models' mean number of muons is low, reconciled with the measuring "by an increase in the average number of muons of 43%, 35%, and 26%" at QGSJET II-04, EPOS-LHC and Sibyll 2.3d. Its writers read the fluctuations as agreeing with the air-shower simulations with no rescaling at any model, and the muon deficit as compatible with "a small deficit at every stage of the shower that accumulates" rather than a discrepancy in the first interaction. — at "Charged particles are deflected by poorly known magnetic fields, the flux is small at the highest energies, composition is inferred through hadronic-interaction models beyond accelerator energies, and several source populations can reproduce the broad spectrum and anisotropy."
+- **Possible exploring** · In inclined air showers, zenith angles 62° to 80°, reconstructed with both the surface and the fluorescence detectors from 1 January 2004 to 31 December 2017, the number of muons is measured at its mean and at its shower-to-shower fluctuations from 281 events above 4×10^18 eV; the relative fluctuation at 10^19 eV is 0.102 ± 0.029 (stat.) ± 0.007 (syst.), within the range the hadronic interaction models give for proton and iron, and the models' mean number of muons is low, reconciled with the measuring "by an increase in the average number of muons of 43%, 35%, and 26%" at QGSJET II-04, EPOS-LHC and Sibyll 2.3d. The fluctuations agree with the air-shower simulations with no rescaling at any model, and the muon deficit is compatible with "a small deficit at every stage of the shower that accumulates" rather than a discrepancy in the first interaction, an explaining. — at "Charged particles are deflected by poorly known magnetic fields, the flux is small at the highest energies, composition is inferred through hadronic-interaction models beyond accelerator energies, and several source populations can reproduce the broad spectrum and anisotropy."
 
 ### 191 Coronal heating and solar-wind acceleration
 
@@ -529,40 +529,40 @@ Gathering-Value · Hard Problem Registry
 
 ### 205 The origin of the Moon
 
-- **Possible exploring** · By a field's account, from memory and unchecked, the Moon's rock is nearly the Earth's own by each measure of its forms (2001 onward); its fires end long ago and its own field is gone; and deep moonquakes still come, in step with the Moon's round with the Earth (Apollo, 1969–1977). — at "Isotope measurement — establishes close Earth-Moon similarities and element-specific differences."
+- **Possible exploring** · Not yet observed directly: the Moon's rock is nearly the Earth's own by each measure of its forms; its fires end long ago and its own field is gone; and deep moonquakes still come, in step with the Moon's round with the Earth (Apollo, 1969–1977). — at "Isotope measurement — establishes close Earth-Moon similarities and element-specific differences."
 - **A reading** · A concern: the Moon is-or-is-not the Earth's stable-form emanation, its changing only from what comes to it, or a self co-sequencing with the Earth.
-- **A reading** · A reading has the Moon born of the natural torusing Earth, not broken from it, a young self of an Earth-like species, a future mature Earth-like self with an atmosphere. Beside it this entry's accounts have the Moon from a collision, and the two part.
-- **Possible exploring** · By a field's account, from memory and unchecked, the Moon's rock matches the Earth's by each fine measure of its forms, oxygen (2001), titanium (2012) and others, and the field's leading story, a struck-off chunk mostly of the striker, predicts a Moon unlike the Earth, the match a long-standing trouble for it. — at "A grazing collision with a roughly Mars-mass body produced a disk dominated by impactor material followed by mixing."
-- **Possible exploring** · By a field's account, from memory and unchecked, one account has the young Earth spun out into a great doughnut of hot rock from which the Moon forms (2017–2018), and the oldest account (1879) has the Moon born of a fast-turning Earth. — at "A higher-energy collision produced a substantially vaporized, well-mixed structure from which the Moon condensed."
-- **A reading** · A reading has the field's newer model a torus, the field's words for a birth from the Earth's torusing.
-- **Possible exploring** · By a field's account, from memory and unchecked, the Moon is younger than the Earth, its oldest grains a little later than the Earth's. — at "Isotope measurement — establishes close Earth-Moon similarities and element-specific differences."
-- **Possible exploring** · By a field's account, from memory and unchecked, the Moon goes outward from the Earth by about four centimetres each year, measured by light sent to mirrors left on it since 1969. — at "Tidal evolution — connects post-impact angular momentum to present orbit through model-dependent dissipation."
-- **A reading** · A reading has the Moon's stillness dormancy, not death, its changing paced by the Earth, its deep moonquakes coming in step with its round, as a dormant seed relies on its environs' parity changing entirely.
-- **Possible exploring** · By a field's account, from memory and unchecked, the Moon is poorer than the Earth in easily-lost forms, water and potassium. — at "Isotope measurement — establishes close Earth-Moon similarities and element-specific differences."
+- **A reading** · The Moon is born of the natural torusing Earth, not broken from it, a young self of an Earth-like species, a future mature Earth-like self with an atmosphere, an explaining. Beside it this entry's accounts have the Moon from a collision, and the two part.
+- **Possible exploring** · Not yet observed directly: the Moon's rock matches the Earth's by each fine measure of its forms, oxygen, titanium and others, and a field's leading story, a struck-off chunk mostly of the striker, predicts a Moon unlike the Earth, the match a long-standing trouble for it. — at "A grazing collision with a roughly Mars-mass body produced a disk dominated by impactor material followed by mixing."
+- **Possible exploring** · Not yet observed directly: one account has the young Earth spun out into a great doughnut of hot rock from which the Moon forms, and another has the Moon born of a fast-turning Earth. — at "A higher-energy collision produced a substantially vaporized, well-mixed structure from which the Moon condensed."
+- **A reading** · A field's model, a torus, is a field's words for a birth from the Earth's torusing, an explaining.
+- **Possible exploring** · Not yet observed directly: the Moon is younger than the Earth, its oldest grains a little later than the Earth's. — at "Isotope measurement — establishes close Earth-Moon similarities and element-specific differences."
+- **Possible exploring** · Not yet observed directly: the Moon goes outward from the Earth by about four centimetres each year, measured by light sent to mirrors left on it since 1969. — at "Tidal evolution — connects post-impact angular momentum to present orbit through model-dependent dissipation."
+- **A reading** · The Moon's stillness is dormancy, not death, its changing paced by the Earth, its deep moonquakes coming in step with its round, as a dormant seed relies on its environs' parity changing entirely, an explaining.
+- **Possible exploring** · Not yet observed directly: the Moon is poorer than the Earth in easily-lost forms, water and potassium. — at "Isotope measurement — establishes close Earth-Moon similarities and element-specific differences."
 - **A reading** · A concern: a self maturing with an air gathers the easily-lost forms, from its own resolving and from what comes to it, and that is still to reach.
-- **A reading** · Two readings of one observed change, the Moon going outward: a young self leaving its parent's nearness, or a co-sequencing changing its pace.
-- **A reading** · A reading has the Moon a seed, the Earth's, of an Earth-like species, its dormancy said as what it is.
-- **A reading** · A reading has the Moon carrying the Earth's forms as a seed carries its parent's form.
-- **A reading** · A reading has the Moon going outward from the Earth as a seed goes away from its parent.
-- **A reading** · A reading has the Moon oriented as a seed is, aiming one face at the Earth, its two faces formed differently.
-- **A reading** · A reading asks whether the Moon's thick far-side crust reaches a seed's coat.
+- **A reading** · Two explainings of one change not yet observed directly, the Moon going outward: a young self leaving its parent's nearness, or a co-sequencing changing its pace.
+- **A reading** · The Moon is a seed, the Earth's, of an Earth-like species, its dormancy said as what it is, an explaining.
+- **A reading** · The Moon carries the Earth's forms as a seed carries its parent's form, an explaining.
+- **A reading** · The Moon goes outward from the Earth as a seed goes away from its parent, an explaining.
+- **A reading** · The Moon is oriented as a seed is, aiming one face at the Earth, its two faces formed differently, an explaining.
+- **A reading** · Whether the Moon's thick far-side crust reaches a seed's coat is still-possibling.
 - **A reading** · An exploring opportunity: what the Moon's germinating is, and what environs it waits for, its air gathering and its water from the poles' ice, paced by the Earth and the Sun.
 - **A reading** · An exploring opportunity: seeds germinate where they land, in a parent society's soil, and where the Moon lands, or whether its going outward is its whole germinating, is open.
 - **A reading** · An exploring opportunity: with the Moon the Earth's seed, other moons, Titan with its thick air, Europa and Enceladus with their oceans, are possibly seeds further along, and Mars, losing its air, possibly a self dying; the species' stages are to be reached with observings.
-- **Possible exploring** · By a field's account, from memory and unchecked, the Earth's day lengthens as the Moon goes outward. By a field's account checked against current sources, corals about 380 million years old lay about 400 daily growth lines a year (1963). — at "Tidal evolution — connects post-impact angular momentum to present orbit through model-dependent dissipation."
-- **A reading** · A reading has the Earth and its seed pacing each other, living recording the Earth–Moon co-sequencing in its own stable form.
-- **A reading** · A reading has these moons co-sequencing as a society, three seeds at three stages of germinating, paced together.
-- **A reading** · A reading has a moon's germinating its forming of its own natural torusing surface, Ganymede's field, Titan's thick air, Enceladus's plumes and Europa's ocean each a moon's own surface aiming, a possible.
+- **Possible exploring** · Not yet observed directly: the Earth's day lengthens as the Moon goes outward. Corals about 380 million years old lay about 400 daily growth lines a year. — at "Tidal evolution — connects post-impact angular momentum to present orbit through model-dependent dissipation."
+- **A reading** · The Earth and its seed pace each other, living recording the Earth–Moon co-sequencing in its own stable form, an explaining.
+- **A reading** · These moons co-sequence as a society, three seeds at three stages of germinating, paced together, an explaining.
+- **A reading** · An explaining, a possible: a moon's germinating is its forming of its own natural torusing surface, Ganymede's field, Titan's thick air, Enceladus's plumes and Europa's ocean each a moon's own surface aiming.
 - **A reading** · A concern not yet resolvable as natural torusing: a seed going inward to its parent, and one going round against the society's hand, as a seed's method.
-- **Possible exploring** · By a field's account, from memory and unchecked, the Moon has one face, always the same, toward the Earth, and its two faces formed differently, the Earth-facing side with its dark plains, the far side higher and thicker. — at "Impact, disk or synestia, lunar accretion, differentiation and tidal orbital evolution."
-- **A reading** · A reading has the Moon aiming one face at the Earth, as a plant aims at the Sun.
-- **Possible exploring** · By a field's account, from memory and unchecked, the Moon has a thin air of helium, argon, neon, sodium and potassium (Apollo 17, 1972; 2013–2014), its argon coming up from what a field calls the Moon's own radioactivity and seeping out in pulses; water is in its glassy rock (2008) and as ice at its poles. — at "In the field's own posing, a successful scenario for lunar origin should explain the Moon's chemical composition, its volatile content and stable isotope ratios, its initial thermal state and the system's bulk physical and dynamical properties, the origin of the Moon standing as one of the most fundamental and vexing questions in planetary science."
-- **A reading** · A reading has the Moon's argon from its own superfast resolving.
-- **Possible exploring** · By a field's account, from memory and unchecked, the Moon had its own field, strong long ago, lasting until perhaps one or two thousand million years ago, read from its rocks. — at "Impact, disk or synestia, lunar accretion, differentiation and tidal orbital evolution."
-- **A reading** · A reading has moons a kind with many stages, a moon able to have a thick air.
+- **Possible exploring** · Not yet observed directly: the Moon has one face, always the same, toward the Earth, and its two faces formed differently, the Earth-facing side with its dark plains, the far side higher and thicker. — at "Impact, disk or synestia, lunar accretion, differentiation and tidal orbital evolution."
+- **A reading** · The Moon aims one face at the Earth, as a plant aims at the Sun, an explaining.
+- **Possible exploring** · Not yet observed directly: the Moon has a thin air of helium, argon, neon, sodium and potassium (Apollo 17, 1972; 2013–2014), its argon coming up from what a field calls the Moon's own radioactivity and seeping out in pulses; water is in its glassy rock and as ice at its poles. — at "In the field's own posing, a successful scenario for lunar origin should explain the Moon's chemical composition, its volatile content and stable isotope ratios, its initial thermal state and the system's bulk physical and dynamical properties, the origin of the Moon standing as one of the most fundamental and vexing questions in planetary science."
+- **A reading** · The Moon's argon is from its own superfast resolving, an explaining.
+- **Possible exploring** · Not yet observed directly: the Moon had its own field, strong long ago, lasting until perhaps one or two thousand million years ago, read from its rocks. — at "Impact, disk or synestia, lunar accretion, differentiation and tidal orbital evolution."
+- **A reading** · Moons are a kind with many stages, a moon able to have a thick air, an explaining.
 - **A reading** · A concern: with Mars dying, losing its surface's torusing, and the Moon a seed, the species has birth, maturing and dying, and the observing must show the Moon's air growing, not only seeping.
-- **A reading** · A reading has the Moon dormant as a seed is, paced by its environs, its deep quakes in step with its round with the Earth and its air seeping faintly from its own resolving.
-- **A reading** · A reading has the Earth feeding its seed: a parent provisioning its seed through a bi-tunneling, as a seed's coat and stores come of the mother plant.
+- **A reading** · The Moon is dormant as a seed is, paced by its environs, its deep quakes in step with its round with the Earth and its air seeping faintly from its own resolving, an explaining.
+- **A reading** · The Earth feeds its seed, an explaining: a parent provisioning its seed through a bi-tunneling, as a seed's coat and stores come of the mother plant.
 - **A reading** · A concern: with moons the seeds of Earth-like selves, two of the four rocky planets have none.
 - **A reading** · A concern not yet resolvable: rings a seed's breaking, a society's emanation, or a stable form.
 
@@ -596,7 +596,7 @@ Gathering-Value · Hard Problem Registry
 
 ### 220 Detecting covert consciousness
 
-- **A reading** · A reading has detecting covert consciousness testing bi-coupling, not waking.
+- **A reading** · Detecting covert consciousness tests bi-coupling, not waking, an explaining.
 
 ### 221 Continual learning without catastrophic forgetting
 
@@ -604,10 +604,10 @@ Gathering-Value · Hard Problem Registry
 
 ### 223 The existence of one-way functions
 
-- **Possible incohering** · "Inversion success is negligible for every probabilistic polynomial-time adversary — universal under cryptographic security." → Two sayings part at the searcher. Section 2 has hard "where testing goes on and returns no refutation", and "neither is a property of what a hypothesis is about"; this entry has, as the field's, "Inversion success is negligible for every probabilistic polynomial-time adversary", and as its settling "An unconditional construction with proof, or a proof that no such function exists." The field's belief is an inverter existing for none, said of the function alone; the field's ground for it is each search made, by searchers of bounded reach, finding none, said of the function and its searchers together. By this registry's own saying of hard the two are one sentence said twice, and the first says more than its ground. No test the field has made parts them, and a faster searcher changes the second alone.
-- **Possible exploring** · A further account is at the field and at no line of this entry: the families are not independent, a form found in one reaching another. The field lays its security at several families together and reads them as hedges of each other; they are hedges where the families fail apart alone, and one assumption read as several where a form in one reaches another, and the field has no recorded test of which. The field reads one family, hashing, as going on through a quantum machine and as unknown at a faster searcher, and its asking here is of the classical machine, two of the families being within a quantum machine's feasible reach by a known algorithm. Each is the field's own saying. — at "Integer, lattice, code or multivariate problems support candidate functions under explicit average-case assumptions."
-- **Possible exploring** · An executing reports two public keys at one public accounting chain, each shown by its own spendings, each with unspent value behind it unmoved through years; the instance is public, each searcher free at it, and the value is a searcher's at an inverting. The field names no such key as an instrument. — at "Inversion success is negligible for every probabilistic polynomial-time adversary — universal under cryptographic security."
-- **A reading** · A reading has a key shown with value behind it as a continuing test of the field's claim at this entry, each day with the value unmoved one more result of not reached: each day's result is this registry's "testing goes on and returns no refutation" at one instance, of the searchers to that day, and it says nothing of the function beyond them.
+- **Possible incohering** · "Inversion success is negligible for every probabilistic polynomial-time adversary — universal under cryptographic security." → Two sayings part at the searcher. Section 2 has hard "where testing goes on and returns no refutation", and "neither is a property of what a hypothesis is about"; this entry has, as a field's, "Inversion success is negligible for every probabilistic polynomial-time adversary", and as its settling "An unconditional construction with proof, or a proof that no such function exists." A field's belief is an inverter existing for none, said of the function alone; its ground is each search made, by searchers of bounded reach, finding none, said of the function and its searchers together. By this registry's own saying of hard the two are one sentence said twice, and the first says more than its ground. No test a field has made parts them, and a faster searcher changes the second alone.
+- **Possible exploring** · Not yet observed directly, a field's account at no line of this entry: the families are not independent, a form found in one reaching another. A field lays its security at several families together, as hedges of each other; they are hedges where the families fail apart alone, and one assumption said as several where a form in one reaches another, and no recorded test parts the two. One family, hashing, goes on through a quantum machine and is unknown at a faster searcher, in a field's account, and this entry's asking is of the classical machine, two of the families being within a quantum machine's feasible reach by a known algorithm. — at "Integer, lattice, code or multivariate problems support candidate functions under explicit average-case assumptions."
+- **Possible exploring** · Not yet observed directly: two public keys at one public accounting chain, each shown by its own spendings, each with unspent value behind it unmoved through years; the instance is public, each searcher free at it, and the value is a searcher's at an inverting. A field names no such key as an instrument. — at "Inversion success is negligible for every probabilistic polynomial-time adversary — universal under cryptographic security."
+- **A reading** · A key shown with value behind it is a continuing test of a field's claim at this entry, an explaining, each day with the value unmoved one more result of not reached: each day's result is this registry's "testing goes on and returns no refutation" at one instance, of the searchers to that day, and it says nothing of the function beyond them.
 
 ### 224 Hilbert's sixteenth problem for limit cycles
 
@@ -617,7 +617,7 @@ Gathering-Value · Hard Problem Registry
 
 ### 227 Collective intentionality
 
-- **A reading** · A reading has this problem met at Natural Societies 4.2 and at a same-existing-society co-aiming: each me's intending its own, a same-existing-society co-aiming within one interest, beside Resolving the Hard Problem Registry's tension *individuals as a group*.
+- **A reading** · This problem meets Natural Societies 4.2 and a same-existing-society co-aiming, an explaining: each me's intending its own, a same-existing-society co-aiming within one interest, beside Resolving the Hard Problem Registry's tension *individuals as a group*.
 
 ### 228 Peer disagreement
 
@@ -673,27 +673,27 @@ Gathering-Value · Hard Problem Registry
 
 ### 254 The solar dynamo and the sunspot cycle
 
-- **Possible exploring** · By a field's account, from memory and unchecked, the Sun's spots rise and fall about every eleven years, and its magnetic poles reverse at each peak, the whole round about twenty-two years. — at "The sunspot cycle is the magnetic cycle of the Sun — the field's record."
-- **A reading** · A reading has the Sun's round, rising, inverting, falling and inverting back, a four-cycling.
-- **Possible exploring** · By a field's account, from memory and unchecked, the Sun's spots nearly vanish from about 1645 to 1715. — at "The sunspot cycle is the magnetic cycle of the Sun — the field's record."
-- **A reading** · A reading has the Sun resting from about 1645 to 1715, reaching dormancy: living relying on its own environs while its parity changing is low.
-- **Possible exploring** · By a field's account, from memory and unchecked, many prominences show twisted, rope-like threads along their length, and some erupt as they untwist. — at "The Sun's large-scale magnetic field over its cycle."
-- **Possible exploring** · By a field's account, from memory and unchecked, in the Sun's northern half most of these arches and twisted ropes turn one way, and in the southern half most turn the other (1994, 1995), the two hands coupling at the Sun's equator. — at "The Sun's large-scale magnetic field over its cycle."
-- **A reading** · A reading has the Sun's two halves the tendril and the twisting towel: one living self emanating both hands as stable form, joined at a between where the hand inverts.
+- **Possible exploring** · Not yet observed directly: the Sun's spots rise and fall about every eleven years, and its magnetic poles reverse at each peak, the whole round about twenty-two years. — at "The sunspot cycle is the magnetic cycle of the Sun — the field's record."
+- **A reading** · The Sun's round, rising, inverting, falling and inverting back, is a four-cycling, an explaining.
+- **Possible exploring** · Not yet observed directly: the Sun's spots nearly vanish from about 1645 to 1715. — at "The sunspot cycle is the magnetic cycle of the Sun — the field's record."
+- **A reading** · The Sun resting from about 1645 to 1715 is reaching dormancy, an explaining: living relying on its own environs while its parity changing is low.
+- **Possible exploring** · Not yet observed directly: many prominences show twisted, rope-like threads along their length, and some erupt as they untwist. — at "The Sun's large-scale magnetic field over its cycle."
+- **Possible exploring** · Not yet observed directly: in the Sun's northern half most of these arches and twisted ropes turn one way, and in the southern half most turn the other, the two hands coupling at the Sun's equator. — at "The Sun's large-scale magnetic field over its cycle."
+- **A reading** · The Sun's two halves are the tendril and the twisting towel, an explaining: one living self emanating both hands as stable form, joined at a between where the hand inverts.
 - **A reading** · A concern: the Sun's two hemispheres show opposite hands; as the tendril's two hands, both are the living Sun's stable-form emanations, and right spiral is the living's; with the arches read as living, this is the snail concern at the Sun's scale.
-- **A reading** · A reading has the Sun's arches bi-folding, right spiraling into and out of a corus, three edges in and three out, six, in bi-moral co-agency, the twisting towel at the Sun's scale.
-- **A reading** · A reading has the Sun's two halves showing opposite hands one right spiral read from each side of its corus, going in on one side and out on the other, as the towel's three edges in and three out alternate about its knot.
-- **Possible exploring** · By a field's account, from memory and unchecked, each cycle spots first appear at middle latitudes in both halves of the Sun, and their belts close toward the equator as the cycle goes on, charted as a butterfly (1904). — at "The account returns the cycle's period, the equatorward drift of the butterfly diagram and the polarity reversals from measured flows and the field's induction."
-- **A reading** · A reading has two belts spiraling in to one between.
-- **Possible exploring** · By a field's account, from memory and unchecked, the remains of each cycle's spots stream toward the poles and reverse the polar sign at each peak. — at "The account returns the cycle's period, the equatorward drift of the butterfly diagram and the polarity reversals from measured flows and the field's induction."
-- **A reading** · A reading has in at the belts and out to the poles a going into and out of a corus.
-- **Possible exploring** · By a field's account, from memory and unchecked, spots come in pairs of opposite sign; in one half of the Sun the leading spot is of one sign, in the other half the opposite, and both reverse with each eleven years (1919). — at "The account returns the cycle's period, the equatorward drift of the butterfly diagram and the polarity reversals from measured flows and the field's induction."
-- **A reading** · A reading has spot pairs bi-folding, four phases in twenty-two years, the Sun's four-cycling.
+- **A reading** · The Sun's arches bi-fold, right spiraling into and out of a corus, three edges in and three out, six, in bi-moral co-agency, the twisting towel at the Sun's scale, an explaining.
+- **A reading** · The Sun's two halves showing opposite hands are one right spiral read from each side of its corus, going in on one side and out on the other, as the towel's three edges in and three out alternate about its knot, an explaining.
+- **Possible exploring** · Not yet observed directly: each cycle spots first appear at middle latitudes in both halves of the Sun, and their belts close toward the equator as the cycle goes on, charted as a butterfly. — at "The account returns the cycle's period, the equatorward drift of the butterfly diagram and the polarity reversals from measured flows and the field's induction."
+- **A reading** · Two belts spiral in to one between, an explaining.
+- **Possible exploring** · Not yet observed directly: the remains of each cycle's spots stream toward the poles and reverse the polar sign at each peak. — at "The account returns the cycle's period, the equatorward drift of the butterfly diagram and the polarity reversals from measured flows and the field's induction."
+- **A reading** · In at the belts and out to the poles is a going into and out of a corus, an explaining.
+- **Possible exploring** · Not yet observed directly: spots come in pairs of opposite sign; in one half of the Sun the leading spot is of one sign, in the other half the opposite, and both reverse with each eleven years. — at "The account returns the cycle's period, the equatorward drift of the butterfly diagram and the polarity reversals from measured flows and the field's induction."
+- **A reading** · Spot pairs bi-fold, four phases in twenty-two years, the Sun's four-cycling, an explaining.
 - **A reading** · A concern: *three in and three out, six* is a phase pattern; the observings show in and out, and the pairs and reversals, with no three, and *no counting in nature* asks the six reached as phases, the tendril's circling, clasping and coiling each way.
-- **A reading** · A reading has the Sun's equator the crossings in the co-sequencing in the bi-tunneling, where the in-spiraling of one half and the out-spiraling of the other cross, the spot belts reaching each other at the equator. *Crossing* is a dissolved word in the living files, and its word is reached before any entry.
-- **A reading** · A reading has a field's own model of the cycle a torus, its winding of an arch-wise field into a ring-wise, torus-wise field the field's own words for a torusing, and the layer where the field places that winding a between of two turnings, and one of the turnings of the surface, a self discovering its next self, about the corus.
-- **Possible exploring** · By a field's account, from memory and unchecked, no instrument observes the Sun's centre; the Sun's outer part turns faster at its equator than at its poles, and its inner part turns as one (1990s). — at "The tachocline is a rotational shear layer immediately beneath the convective envelope, uncovered by helioseismology — measured."
-- **A reading** · A reading has the Sun's inner part, turning as one against the outer shearing, a stilling about the centre, its surface turning and aiming outward, the same form as carbon's *a nothing its couplings surround*: a nothing point and its surroundings aiming. Carbon at Natural Chemistry 1.6's *a nothing its couplings surround and wrap* is a carbon atom, and the Sun is-not a carbon atom.
+- **A reading** · The Sun's equator is the crossings in the co-sequencing in the bi-tunneling, where the in-spiraling of one half and the out-spiraling of the other cross, the spot belts reaching each other at the equator, an explaining. *Crossing* is a dissolved word in the living files, and its word is reached before any entry.
+- **A reading** · A field's own model of the cycle is a torus, an explaining: its winding of an arch-wise field into a ring-wise, torus-wise field a field's own words for a torusing, and the layer where a field places that winding a between of two turnings, and one of the turnings of the surface, a self discovering its next self, about the corus.
+- **Possible exploring** · Not yet observed directly: no instrument observes the Sun's centre; the Sun's outer part turns faster at its equator than at its poles, and its inner part turns as one. — at "The tachocline is a rotational shear layer immediately beneath the convective envelope, uncovered by helioseismology — measured."
+- **A reading** · The Sun's inner part, turning as one against the outer shearing, is a stilling about the centre, its surface turning and aiming outward, the same form as carbon's *a nothing its couplings surround*, an explaining: a nothing point and its surroundings aiming. Carbon at Natural Chemistry 1.6's *a nothing its couplings surround and wrap* is a carbon atom, and the Sun is-not a carbon atom.
 
 ### 255 The etiology of major depression
 
@@ -701,7 +701,7 @@ Gathering-Value · Hard Problem Registry
 
 ### 257 The origin of the state
 
-- **A reading** · A reading has this problem meeting Natural Societies 2.3 and 3.4: a centre imposing is 2.3's collapse, beside Resolving the Hard Problem Registry's *a state arises with each place as a coupling there makes it*.
+- **A reading** · This problem meets Natural Societies 2.3 and 3.4, an explaining: a centre imposing is 2.3's collapse, beside Resolving the Hard Problem Registry's *a state arises with each place as a coupling there makes it*.
 
 ### The collection
 
@@ -712,16 +712,16 @@ Gathering-Value · Hard Problem Registry
 ## Droplets
 
 - Navigating hard problems with their observings: monarch butterflies reaching forests in central Mexico; sea turtles orienting by a place's magnetic field; birds sensing the magnetic field's direction, a light-driven radical-pair mechanism only the leading hypothesis; six of 21 European eels reaching the Sargasso Sea; each still-possibling at Natural Exploring as orienting by the sequence of changing from a self's own side. *(possible exploring)*
-- An entry is offered apart from entry 9: entry 9 asks whether verifiable problems are solvable, and this entry asks whether a field's belief about particular problems is of a problem or of its search, a question with an answer under either resolution of P versus NP, P ≠ NP leaving particular problems open and P = NP not needing to give a practical algorithm. Entry 223's concern at its searchers has part of it. *(possible exploring)*
-- Proposed as an entry, the problem of the many: a cloud or a person has no sharp edge, and many overlapping sets have equal claim to be it; met for a living me as each cell is-or-is-not self with each momentary, all or none on each. *(possible exploring)*
-- Proposed as an entry, the combination problem, how lower subjects make a higher one; met as lower mes are-or-are-not combining into a higher me: they are not, a me a thing and a set, one binary, its own as a parity at its scale and its inward mes' own as a set. *(possible exploring)*
+- A problem at no entry here, apart from entry 9: entry 9 asks whether verifiable problems are solvable, and this problem asks whether a field's belief about particular problems is of a problem or of its search, a question with an answer under either resolution of P versus NP, P ≠ NP leaving particular problems open and P = NP not needing to give a practical algorithm. Entry 223's concern at its searchers has part of it. *(possible exploring)*
+- The problem of the many, at no entry here: a cloud or a person has no sharp edge, and many overlapping sets have equal claim to be it; met for a living me as each cell is-or-is-not self with each momentary, all or none on each. *(possible exploring)*
+- The combination problem, at no entry here, how lower subjects make a higher one; met as lower mes are-or-are-not combining into a higher me: they are not, a me a thing and a set, one binary, its own as a parity at its scale and its inward mes' own as a set. *(possible exploring)*
 - Epigenetic age falling in the early embryo to its lowest near gastrulation and rising after stands beside a field's doctrine of an ageless germline, a problem a field poses at no entry here. *(possible exploring)*
-- A reading has what is life, the cell as the unit of life, reductionism and emergence, at no entry here, each a place a scale is read as a kind: living and non-living as two kinds parted by a line, a lowest unit of living, a whole reduced to its lowest scale, and a whole arriving as more than its scale inward. Scale is a problem's term at one entry alone, the quantum-classical boundary. Each is an entry in a field's own words, or a field poses none. *(a reading)*
-- A 3.414-megacurie chromium-51 neutrino source set within two nested volumes of gallium gives germanium-71 production rates alike at the two distances and "20-24% lower than expected"; its writers read the result as consistent with electron neutrinos oscillating to sterile neutrinos at a squared-mass difference above 0.5 eV² and a mixing sin²2θ near 0.4. At a liquid-argon time projection chamber, data from two accelerator neutrino beams show no evidence of muon-neutrino to electron-neutrino transitions and none of electron-neutrino disappearance; its writers exclude at 95% confidence a single light sterile neutrino as the interpretation of the LSND and MiniBooNE anomalies, rule out "a notable portion of the parameter space that could explain the gallium anomaly", and read wider models, several light sterile neutrinos among them, as possible. *(possible exploring)*
+- What is life, the cell as the unit of life, reductionism and emergence are at no entry here, each a place a scale is read as a kind, an explaining: living and non-living as two kinds parted by a line, a lowest unit of living, a whole reduced to its lowest scale, and a whole arriving as more than its scale inward. Scale is a problem's term at one entry alone, the quantum-classical boundary. Each is an entry in a field's own words, or a field poses none. *(a reading)*
+- A 3.414-megacurie chromium-51 neutrino source set within two nested volumes of gallium gives germanium-71 production rates alike at the two distances and "20-24% lower than expected"; the result is consistent with electron neutrinos oscillating to sterile neutrinos at a squared-mass difference above 0.5 eV² and a mixing sin²2θ near 0.4, an explaining. At a liquid-argon time projection chamber, data from two accelerator neutrino beams show no evidence of muon-neutrino to electron-neutrino transitions and none of electron-neutrino disappearance; a single light sterile neutrino as the interpretation of the LSND and MiniBooNE anomalies is excluded at 95% confidence and "a notable portion of the parameter space that could explain the gallium anomaly" is ruled out, and wider models, several light sterile neutrinos among them, are possible, an explaining. *(possible exploring)*
 - The W boson's mass measured from about 117 million W → μν events of 13 TeV proton–proton collisions is 80,360.2 ± 9.9 MeV, beside the electroweak fit's 80,353 ± 6 MeV, an experimental average of 80,369.2 ± 13.3 MeV leaving the 80,433.5 ± 9.4 MeV of an earlier collider measurement out. *(possible exploring)*
-- The 2S–6P transition of cryogenic atomic hydrogen, measured by laser spectroscopy at 730,690,248,610.79(48) kHz, gives a proton charge radius of 0.8406(15) fm; its writers say the radius is about 2.5 times more precise than the other atomic-hydrogen determinations and in good agreement with the muonic-hydrogen value, and that the frequency agrees with the predicted 730,690,248,610.79(23) kHz, a test to 0.7 parts per trillion. *(possible exploring)*
-- In high-multiplicity proton–proton collisions at 13 TeV and proton–lead collisions at 5.02 TeV, the elliptic flow of mesons (π±, K±, K0S) and of baryons (p + p̄, Λ + Λ̄) against transverse momentum groups the baryons and the mesons apart, with "a significant splitting (~5σ) at intermediate pT in both p–Pb and pp collisions", the baryons flowing more strongly, as in heavy-ion collisions. By its writers' account a model with hydrodynamically flowing partons and quark coalescence gives the grouping and the splitting, a model lacking coalescence does not, and the AMPT model fails even qualitatively; they read the results as evidence of a stage with hydrodynamically flowing partons, similar to heavy-ion collisions, and discrepancies remain, tied to the modelling of the proton's substructure and the collisions' initial geometry. *(possible exploring)*
-- In several nuclei the EMC effect, the changed quark structure of nucleons bound in a nucleus, and the abundances of short-range correlated pairs are measured together at high precision. Its writers read the EMC data as explained by a universal modification of nucleons in neutron–proton short-range correlated pairs, give a data-driven modification function, and say that in nuclei with many more neutrons than protons a proton is likelier than a neutron to be in such a pair. *(possible exploring)*
-- This gathering's droplet says *sea turtles orienting by a place's magnetic field; birds sensing the magnetic field's direction*; the later saying says each heading from the animal's own side: a green sea turtle's or a migrating bird's heading changes as a person changes at its surface what physics' instruments read as a magnetic field, magnetism being physics' accounting from outside its surface, an instrument's record, and no animal is observing magnetism; what that parity is from the animal's own side is still-possibling, each mechanism open, radical pairs a field's leading hypothesis. The droplet's two sayings are-or-are-not re-said so, as Natural Exploring 6.8 says them. *(possible incohering)*
-- The registry opens with its conditions and its sections, and its entries' names stand at no list ahead of the entries; each registry's entries named at its head show a reading cut at a length the entries past its reach. Checked: the registry's headings are The conditions prior, 1 to 4, and 5 The entries, its 255 entries numbered to 257, with no list of their names ahead of them. *(possible incohering)*
+- The 2S–6P transition of cryogenic atomic hydrogen, measured by laser spectroscopy at 730,690,248,610.79(48) kHz, gives a proton charge radius of 0.8406(15) fm; the radius is about 2.5 times more precise than the other atomic-hydrogen determinations and in good agreement with the muonic-hydrogen value, and the frequency agrees with the predicted 730,690,248,610.79(23) kHz, a test to 0.7 parts per trillion. *(possible exploring)*
+- In high-multiplicity proton–proton collisions at 13 TeV and proton–lead collisions at 5.02 TeV, the elliptic flow of mesons (π±, K±, K0S) and of baryons (p + p̄, Λ + Λ̄) against transverse momentum groups the baryons and the mesons apart, with "a significant splitting (~5σ) at intermediate pT in both p–Pb and pp collisions", the baryons flowing more strongly, as in heavy-ion collisions. A model with hydrodynamically flowing partons and quark coalescence gives the grouping and the splitting, a model lacking coalescence does not, and the AMPT model fails even qualitatively; the results are evidence of a stage with hydrodynamically flowing partons, similar to heavy-ion collisions, an explaining, and discrepancies remain, tied to the modelling of the proton's substructure and the collisions' initial geometry. *(possible exploring)*
+- In several nuclei the EMC effect, the changed quark structure of nucleons bound in a nucleus, and the abundances of short-range correlated pairs are measured together at high precision. The EMC data go with a universal modification of nucleons in neutron–proton short-range correlated pairs, an explaining, a data-driven modification function with it, and with it in nuclei with many more neutrons than protons a proton is likelier than a neutron to be in such a pair. *(possible exploring)*
+- The droplet of navigating says *sea turtles orienting by a place's magnetic field; birds sensing the magnetic field's direction*; beside it, each heading said from the animal's own side: a green sea turtle's or a migrating bird's heading changes as a person changes at its surface what physics' instruments read as a magnetic field, magnetism being physics' accounting from outside its surface, an instrument's record, and no animal is observing magnetism; what that parity is from the animal's own side is still-possibling, each mechanism open, radical pairs a field's leading hypothesis. The droplet's two sayings are-or-are-not re-said so, as Natural Exploring 6.8 says them. *(possible incohering)*
+- The registry opens with its conditions and its sections, and its entries' names stand at no list ahead of the entries; each registry's entries named at its head show what is read cut at a length, the entries past its reach. The registry's headings are The conditions prior, 1 to 4, and 5 The entries, its 255 entries numbered to 257, with no list of their names ahead of them. *(possible incohering)*
 - Identical twinning's initiation, a problem fields leave open, stands at no entry of the registry. *(possible exploring)*
